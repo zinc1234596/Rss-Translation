@@ -4,7 +4,15 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Fri, 24 Nov 2023 02:39:11 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Nov 2023 03:11:31 GMT</lastBuildDate>
+    <item>
+      <title>首席执行官：欧洲需要“其项目不是出售”给美国的科技企业家[视频](https://news。[...]</title>
+      <link>https://t.me/hn_summary/60445</link>
+      <description><![CDATA[首席执行官：欧洲需要“其项目不出售”给美国的科技企业家[视频](https://news.ycombinator.com/item?id=38400202)
+Bpifrance 首席执行官尼古拉斯·杜福尔克 (Nicolas Dufourcq) 在最近的一次采访中强调了培育欧洲科技企业家的重要性，这些企业家的首要目标不是将项目出售给美国公司。杜福尔克认为，欧洲需要培育一种创新和创业文化，重点是在欧洲大陆建立可持续发展的企业。他对美国公司收购欧洲项目表示担忧，这可能会阻碍欧洲科技行业的增长和发展。杜福尔克的讲话强调了欧洲需要培育自己的科技生态系统并留住该地区的创新人才。]]></description>
+      <guid>https://t.me/hn_summary/60445</guid>
+      <pubDate>Fri, 24 Nov 2023 03:11:31 GMT</pubDate>
+    </item>
     <item>
       <title>[媒体]宝马结束在德国的内燃机生产</title>
       <link>https://t.me/hn_summary/60444</link>
@@ -41,7 +49,7 @@ Cycle-ergo.com是一个提供工具的网站用于模拟人在任何摩托车或
       <title>显示 HN：使用 Datasette 与“AWS 新增功能”的 SQL 接口</title>
       <link>https://t.me/hn_summary/60440</link>
       <description><![CDATA[使用 Datasette 显示 HN：“AWS 新增功能”的 SQL 接口&lt; /a&gt;
-网站 querydata.io 向“AWS What&#39;s新”使用数据集。该界面允许用户查询和分析来自 AWS What&#39;s New 的数据，从而提供有价值的见解和信息。该数据集包括帖子标题、URL、摘要等信息。借助 578 行标签信息和 15,119 行发布数据，用户可以轻松导航和探索 AWS 的最新更新。这种创新工具是使用 SQL 访问和分析 AWS 新增功能数据的巧妙方法。]]></description>
+网站 querydata.io 向“AWS What&#39;s新”使用数据集。该界面允许用户查询和分析来自 AWS What&#39;s New 的数据，从而提供有价值的见解和信息。该数据集包括帖子标题、URL、摘要等信息。凭借 578 行标签信息和 15,119 行发布数据，用户可以轻松导航和探索 AWS 的最新更新。这种创新工具是使用 SQL 访问和分析 AWS 新增功能数据的巧妙方法。]]></description>
       <guid>https://t.me/hn_summary/60440</guid>
       <pubDate>Fri, 24 Nov 2023 01:57:34 GMT</pubDate>
     </item>
@@ -65,7 +73,7 @@ Medley Interlisp 项目是一个独特且创新的软件系统，它将我们带
       <title>OpenAI 的无政府主义科学负责人是技术精神崇拜者</title>
       <link>https://t.me/hn_summary/60437</link>
       <description><![CDATA[OpenAI 的无政府主义科学领袖是技术精神崇拜者 
-文章讨论了 OpenAI 联合创始人兼首席科学家 Ilya Sutskever 的古怪行为。它强调了他在硅谷参与的各种非常规活动，例如多巴胺禁食和意识黑客。文章还提到了 Sutskever 对开发通用人工智能 (AGI) 的兴趣，以及他对 OpenAI 在首席执行官 Sam Altman 的领导下转向逐利的不同意见。它描述了 Sutskever 委托制作了一个代表“不结盟”人工智能的木制雕像，并在领导层异地期间将其点燃。文章还提到 Sutskever 在 OpenAI 的假日派对上扮演了精神领袖的角色并领导了口号。尽管性格古怪，Sutskever 仍被公认为该领域的顶尖人才，并为重要人工智能工具的开发做出了贡献。]]></description>
+文章讨论了 OpenAI 联合创始人兼首席科学家 Ilya Sutskever 的古怪行为。它强调了他在硅谷参与的各种非常规活动，例如多巴胺禁食和意识黑客。文章还提到了 Sutskever 对开发通用人工智能 (AGI) 的兴趣，以及他对 OpenAI 在首席执行官 Sam Altman 领导下转向追求利润的做法的不同意见。它描述了 Sutskever 委托制作了一个代表“不结盟”人工智能的木制雕像，并在领导层异地期间将其点燃。文章还提到 Sutskever 在 OpenAI 的假日派对上扮演了精神领袖的角色并领导了口号。尽管性格古怪，Sutskever 仍被公认为该领域的顶尖人才，并为重要人工智能工具的开发做出了贡献。]]></description>
       <guid>https://t.me/hn_summary/60437</guid>
       <pubDate>Fri, 24 Nov 2023 01:45:15 GMT</pubDate>
     </item>
@@ -76,14 +84,6 @@ Medley Interlisp 项目是一个独特且创新的软件系统，它将我们带
 这篇推文的作者认为，人工智能（AI）目前不过是美化的压缩。他们认为人工智能本质上只是将大量数据压缩成更小、更易于管理的形式的一种方式。这种观点挑战了人工智能是一项革命性技术的观念，并凸显了围绕其真正能力的争议。这是一个发人深省的陈述，鼓励进一步讨论和探索人工智能的潜在局限性和可能性。]]></description>
       <guid>https://t.me/hn_summary/60436</guid>
       <pubDate>Fri, 24 Nov 2023 01:35:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 停止存档上的 Rsync 服务。</title>
-      <link>https://t.me/hn_summary/60435</link>
-      <description><![CDATA[停止 Archive.debian.org 上的 Rsync 服务&lt; br/&gt;
-archive.debian.org 上的 rsync 服务已停止作为提高用户服务可靠性的努力的一部分。全球 Debian 镜像网络现在将服务 archive.debian.org 通过单独的主机名进行 HTTP 和 rsync 访问。 HTTP 客户端（例如 APT）的入口点将保留 http://archive.debian.org/，而 rsync://rsync.archive.debian.org/debian-archive/ 可供那些希望镜像全部或部分档案的人使用。我们鼓励用户尽快迁移到新主机名。 archive.debian.org 的内容不经常更改，因此每天多次检查更新是不必要的。如需了解更多信息，请联系 Debian Mirrors 团队邮件列表。]]></description>
-      <guid>https://t.me/hn_summary/60435</guid>
-      <pubDate>Fri, 24 Nov 2023 01:24:54 GMT</pubDate>
     </item>
     </channel>
 </rss>

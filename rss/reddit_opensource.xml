@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 24 Nov 2023 01:11:43 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Nov 2023 03:12:31 GMT</lastBuildDate>
+    <item>
+      <title>寻找类似于 Resilio Sync 的工具来远程更新软件</title>
+      <link>https://www.reddit.com/r/opensource/comments/182gfym/looking_for_something_akin_to_resilio_sync_to/</link>
+      <description><![CDATA[我已经为 P2P 社交网络创建了一个网络协议，并希望用户能够在进行更改时对其进行测试。我认为如果我的最终用户都可以通过 P2P 分发获得更新，那就太好了。   由   提交 /u/ki4jgt   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/182gfym/looking_for_something_akin_to_resilio_sync_to/</guid>
+      <pubDate>Fri, 24 Nov 2023 01:39:34 GMT</pubDate>
+    </item>
     <item>
       <title>如何为您的操作系统贡献选择操作系统项目</title>
       <link>https://www.reddit.com/r/opensource/comments/182ew71/how_to_choose_os_project_for_your_os_contribution/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[ 由   提交/u/prankster999  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1818r0n/in_theory_is_it_possible_for_a_hardware/</guid>
       <pubDate>Wed, 22 Nov 2023 13:08:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要 OV 证书来签署我在 GitHub CI 上的夜间构建</title>
-      <link>https://www.reddit.com/r/opensource/comments/181614c/need_a_ov_certificate_to_sign_my_nightly_build_on/</link>
-      <description><![CDATA[我们的OV证书过期了，我买了一个新的，但是今年开始政策变了，我们无法将私钥输出到外面硬件密钥不再存在，因此无法在 GitHub CI 上使用。我们错过了今年5月1日更新纯软件OV证书的最后机会。 https: //github.com/rustdesk/rustdesk/discussions/6467   由   提交/u/open-trade  /u/open-trade  reddit.com/r/opensource/comments/181614c/need_a_ov_certificate_to_sign_my_nightly_build_on/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/181614c/need_a_ov_certificate_to_sign_my_nightly_build_on/</guid>
-      <pubDate>Wed, 22 Nov 2023 10:22:51 GMT</pubDate>
     </item>
     </channel>
 </rss>

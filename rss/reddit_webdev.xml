@@ -4,7 +4,7 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 24 Nov 2023 02:54:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Nov 2023 03:12:27 GMT</lastBuildDate>
     <item>
       <title>HTML 开放和封闭标签检查器和验证器</title>
       <link>https://www.reddit.com/r/webdev/comments/182hc2q/html_open_and_closed_tags_checker_and_validator/</link>
@@ -57,7 +57,7 @@
     <item>
       <title>关于无服务器功能的问题</title>
       <link>https://www.reddit.com/r/webdev/comments/182a2g3/question_regarding_serverless_functions/</link>
-      <description><![CDATA[我使用 Vercel 部署了前端，并使用 neon postgres 数据库。 Purpose 是一个个人项目，旨在学习如何与外部 api 交互，并在我的数据库中跟踪和更新加密代币价格，然后在前端显示该价格。 有一个主要函数： - 获取每个代币的价格 - 更新我的数据库中的代币价格 - 根据之前的价格数据进行一些计算以对代币进行评分 - 对代币进行排名  当我在本地计算机上运行该函数时，一切正常预期并且没有问题。  我的目标是能够通过 cron 作业每天至少自动运行一次该函数。因此，我设置该路由处理程序没有问题，可以在本地主机上使用 ngrok 完美地工作。 我遇到的问题是，当我将其指向我部署的生产端点时，我被 cockblocked无服务器功能的 vervel 免费层的 10 秒限制。 我开始规划并开发一个临时解决方案，将主功能分解为单独的功能，但如果我可能有数百个代币，那么这是不可扩展的在我的数据库中。 这可能是一个非常愚蠢的问题，但是如何才能不担心任何类型的函数运行时间限制，例如当我在开发服务器上运行该函数时它是如何工作的？  提前致谢   由   提交/u/charmilliona1re  [链接] [评论]]]></description>
+      <description><![CDATA[我使用 Vercel 部署了前端，并使用 neon postgres 数据库。 Purpose 是一个个人项目，旨在学习如何与外部 API 交互，并在我的数据库中跟踪和更新加密代币价格，然后在前端显示该价格。 有一个主要功能： - 获取每个代币的价格 - 更新我的数据库中的代币价格 - 根据之前的价格数据进行一些计算以对代币进行评分 - 对代币进行排名  当我在本地计算机上运行该函数时，一切正常预期并且没有问题。  我的目标是能够通过 cron 作业每天至少自动运行一次该函数。因此，我设置该路由处理程序没有问题，可以在本地主机上使用 ngrok 完美地工作。 我遇到的问题是，当我将其指向我部署的生产端点时，我被 cockblocked无服务器功能的 vervel 免费层的 10 秒限制。 我开始规划并开发一个临时解决方案，将主功能分解为单独的功能，但如果我可能有数百个代币，那么这是不可扩展的在我的数据库中。 这可能是一个非常愚蠢的问题，但是如何才能不担心任何类型的函数运行时间限制，例如当我在开发服务器上运行该函数时它是如何工作的？  提前致谢   由   提交 /u/charmilliona1re   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/182a2g3/question_regarding_serverless_functions/</guid>
       <pubDate>Thu, 23 Nov 2023 20:24:35 GMT</pubDate>
     </item>
