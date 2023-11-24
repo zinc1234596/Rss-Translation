@@ -12,3 +12,4 @@ pygtrans
 bs4
 requests
 configparser
+markdown
