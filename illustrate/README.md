@@ -1,4 +1,17 @@
-# ⭐说明及添加⭐
+## 我修改内容
+- 对link和guid内的&做转码，防止XML出错
+- 修正requirements.txt文件，有些组件不需要引入（比如time,hashlib等），github上这样搞没事，但是本地运行时会报
+```shell
+ERROR: Could not find a version that satisfies the requirement time (from versions: none)
+ERROR: No matching distribution found for time
+```
+
+
+**以下为原作者rcy1314的说明，请先看他的说明，然后再看前边我修改补充的这部分内容。**
+
+------
+
+## ⭐说明及添加⭐
 
 已重构翻译文件配置、更新Action环境依赖，已测试运行翻译文件，可随时切换翻译接口【切换翻译需在工作流yml文件中更改ls_show步骤下运行的python文件】
 
