@@ -1,13 +1,13 @@
 ## 我修改内容
 - 对link和guid内的&做转码，防止XML出错
 - 修正requirements.txt文件，有些组件不需要引入（比如time,hashlib等），github上这样搞没事，但是本地运行时会报
-```shell
-ERROR: Could not find a version that satisfies the requirement time (from versions: none)
-ERROR: No matching distribution found for time
-```
+- 增加一个将README.md转换成html功能，方便本地运行时有一个订阅源列表页
 
+我所修改版的安装部署教程：
+[使用 GitHub Action + Google Translate 实现翻译 RSS 订阅源全文](https://www.tjsky.net/tutorial/644)
+[本地/云端部署AI翻译 RSS 订阅源全文工具](https://www.tjsky.net/tutorial/801)（写作中）
 
-**以下为原作者rcy1314的说明，请先看他的说明，然后再看前边我修改补充的这部分内容。**
+**以下绝大部分为原作者rcy1314的说明，我所修改的部分***会表示为斜体体*
 
 ------
 
@@ -160,6 +160,11 @@ pip install beautifulsoup4
 pip install urllib
 ```
 
+*上边这一步你可以用这个命令一次性安装所有依赖*
+```
+pip install -r requirements.txt
+```
+
 最后运行python文件即可。
 
 ## Linux centos宝塔面板使用
@@ -213,10 +218,13 @@ pip install urllib
 
 ### 执行定时任务
 
-在面板计划任务中设置以下命令
+*在面板计划任务中设置以下命令*
 
 ```
-cd /你的文件路径 source myenv/bin/activate python3 Bingtrans
+cd /你的文件路径
+source myenv/bin/activate
+python3 Bingtrans
+python3 md2html.py README
 ```
 
 ![](https://jsd.onmicrosoft.cn/gh/rcy1314/tuchuang@main/20230712/1689133552281.k7gvffi1240.jpg)
