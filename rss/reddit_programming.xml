@@ -4,7 +4,21 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Fri, 24 Nov 2023 03:12:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Nov 2023 06:15:12 GMT</lastBuildDate>
+    <item>
+      <title>将 APISIX 指标导出到 SigNoz</title>
+      <link>https://www.reddit.com/r/programming/comments/182k9pf/exporting_apisix_metrics_to_signoz/</link>
+      <description><![CDATA[ 由   提交/u/lungi_bass  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/182k9pf/exporting_apisix_metrics_to_signoz/</guid>
+      <pubDate>Fri, 24 Nov 2023 05:09:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 ROME 在 Java 中创建 RSS 源</title>
+      <link>https://www.reddit.com/r/programming/comments/182jrjs/create_rss_feeds_in_java_using_rome/</link>
+      <description><![CDATA[ 由   提交/u/ram-foss  /u/ram-foss  blackslate.io/articles/create-rss-feeds-in-java-using-rome&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/182jrjs/create_rss_feeds_in_java_using_rome/</guid>
+      <pubDate>Fri, 24 Nov 2023 04:41:25 GMT</pubDate>
+    </item>
     <item>
       <title>针对不完美软件的一个温和建议</title>
       <link>https://www.reddit.com/r/programming/comments/182fbw8/a_modest_proposal_for_imperfect_software/</link>
@@ -18,13 +32,6 @@
       <description><![CDATA[ 由   提交/u/stronghup  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/182f7c9/revival_of_medleyinterlisp_elegant_weapon/</guid>
       <pubDate>Fri, 24 Nov 2023 00:33:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>17岁CS专业？寻求指导</title>
-      <link>https://www.reddit.com/r/programming/comments/182erbc/17_yo_cs_major_looking_for_guidance/</link>
-      <description><![CDATA[大家好，我今年 17 岁，是一名高中生。目前，我正在学习 Ap Comp Sci(Java)，并在空闲时间编写 leet 代码，同时尝试自学 Python。明年，我计划在当地社区大学攻读计算机科学学士学位，然后转学到加州大学，希望能完成硕士/博士学位。  目前我对机器学习非常感兴趣，尽管不可否认，我参与实践的经验非常少，所以我可以看到这种变化。 首先，什么我还应该做什么？真的就这么线性吗？在某个时刻我还需要做更多的事情吗？大学毕业后是什么样子？老实说，我不确定我正在寻找什么类型的指导，但需要清晰的指导。我的母亲和我认识的其他人在这个行业确实有任何经验。我只是不想在将来回顾事情时后悔不知道/做某事。  我的理解很模糊，但是任何指导都值得赞赏:)   由   提交/u/-LarsN   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/182erbc/17_yo_cs_major_looking_for_guidance/</guid>
-      <pubDate>Fri, 24 Nov 2023 00:10:14 GMT</pubDate>
     </item>
     <item>
       <title>我的第一个 Rust 库 -⚡rustygram - Rust Telegram 通知库</title>
@@ -102,13 +109,6 @@
       <description><![CDATA[ 由   提交/u/python4geeks  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1824udv/video_why_init_py_file_is_used_in_python_projects/</guid>
       <pubDate>Thu, 23 Nov 2023 16:24:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Pull Request 中的大小重要吗：对 30k 开发人员的分析</title>
-      <link>https://www.reddit.com/r/programming/comments/1824jnd/does_size_matter_in_pull_requests_analysis_on_30k/</link>
-      <description><![CDATA[ 由   提交/u/jspkiel  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1824jnd/does_size_matter_in_pull_requests_analysis_on_30k/</guid>
-      <pubDate>Thu, 23 Nov 2023 16:10:39 GMT</pubDate>
     </item>
     </channel>
 </rss>

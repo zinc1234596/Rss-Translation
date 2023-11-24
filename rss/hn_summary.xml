@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Fri, 24 Nov 2023 03:11:31 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Nov 2023 06:14:50 GMT</lastBuildDate>
     <item>
-      <title>首席执行官：欧洲需要“其项目不是出售”给美国的科技企业家[视频](https://news。[...]</title>
-      <link>https://t.me/hn_summary/60445</link>
-      <description><![CDATA[首席执行官：欧洲需要“其项目不出售”给美国的科技企业家[视频](https://news.ycombinator.com/item?id=38400202)
-Bpifrance 首席执行官尼古拉斯·杜福尔克 (Nicolas Dufourcq) 在最近的一次采访中强调了培育欧洲科技企业家的重要性，这些企业家的首要目标不是将项目出售给美国公司。杜福尔克认为，欧洲需要培育一种创新和创业文化，重点是在欧洲大陆建立可持续发展的企业。他对美国公司收购欧洲项目表示担忧，这可能会阻碍欧洲科技行业的增长和发展。杜福尔克的讲话强调了欧洲需要培育自己的科技生态系统并留住该地区的创新人才。]]></description>
-      <guid>https://t.me/hn_summary/60445</guid>
-      <pubDate>Fri, 24 Nov 2023 03:11:31 GMT</pubDate>
+      <title>[媒体] 地图。</title>
+      <link>https://t.me/hn_summary/60464</link>
+      <description><![CDATA[Map.prototype.emplace
+Map.prototype.emplace 项目是一个 ECMAScript 提案和参考实现，用于在 JavaScript 中向 Map 原型添加新方法。该项目的目的是提供一种方法，可以将值添加到地图（如果尚不存在），并更新现有值（如果存在）。这简化了在 Map 中添加和更新值的过程，减少了多次查找的需要并提高了开发人员的便利性。作者提到，该项目与其他项目的区别在于提供了一种结合了添加和更新功能的方法，以及允许在插入过程中对值进行标准化。 （根据 82% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/60464</guid>
+      <pubDate>Fri, 24 Nov 2023 06:14:50 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]宝马结束在德国的内燃机生产</title>
-      <link>https://t.me/hn_summary/60444</link>
-      <description><![CDATA[宝马终止在德国生产内燃机
-宝马已停止在德国生产内燃机，这是标志着向电动汽车（EV）过渡的重大举措。以汽车工业闻名的德国正在向电动汽车转型，宝马也加入了这一趋势。虽然发动机生产已转移到奥地利和英国，但宝马决定优先在其祖国生产电动汽车，这被视为确保其汽车工人未来就业的明智之举。该公司计划在其他领域重新培训和重新部署员工。这一转变已于三年前宣布，预计将于 2030 年完成。]]></description>
-      <guid>https://t.me/hn_summary/60444</guid>
-      <pubDate>Fri, 24 Nov 2023 02:39:11 GMT</pubDate>
+      <title>从 lambda 演算到组合逻辑的构造修正转换</title>
+      <link>https://t.me/hn_summary/60463</link>
+      <description><![CDATA[从 lambda 演算到组合逻辑的构造正确转换&lt; /a&gt;
+本文探讨了 lambda 演算和组合逻辑之间的联系。它讨论了组合逻辑中 lambda 项和组合子的语法和约简行为。该论文还提出了从组合逻辑到 lambda 项的转换，反之亦然。事实证明，使用依赖类型编程语言 Agda，从 lambda 术语到组合逻辑的转换可以保留类型和语义。该论文还提供了一个简单类型 lambda 演算的求值器，并定义了从 lambda 术语到保留类型和动态语义的组合逻辑的转换。 （根据 42% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/60463</guid>
+      <pubDate>Fri, 24 Nov 2023 06:04:41 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Netflix 的《斯科特朝圣者起飞》配乐没有跳过</title>
-      <link>https://t.me/hn_summary/60443</link>
-      <description><![CDATA[Netflix 的《斯科特朝圣者起飞》有无跳过的配乐
-全新 Netflix 动画改编作品《斯科特朝圣者起飞》拥有充满活力、充满活力的配乐，增强了动画的活泼性，使节目更加精彩。日本摇滚乐队 Necry Talkie 的歌曲《Bloom》开场，向日本动画致敬，并为该剧定下了基调。配乐包括由 Joseph Trapanese 和芯片音乐乐队 Anamanaguchi 创作的原创歌曲，以及 Metric 的“Black Sheep”和 Johnny Cash 的“Ring of Fire”等流行曲目。总体而言，配乐充满了波普音乐，增添了该剧独特而壮观的性质。]]></description>
-      <guid>https://t.me/hn_summary/60443</guid>
-      <pubDate>Fri, 24 Nov 2023 02:39:06 GMT</pubDate>
+      <title>[媒体]中老年细胞是老年人抗衰老干预的潜在靶点</title>
+      <link>https://t.me/hn_summary/60462</link>
+      <description><![CDATA[中老年细胞是抗衰老干预的潜在目标老年人
+该网络内容讨论了一项关于中老年细胞的研究，作为老年人抗衰老干预的潜在目标。该研究涉及人体组织实验和使用小鼠的动物实验。研究人员从手术切除的标本中收集了正常组织，并将其分为年轻组和老年组。他们还给小鼠注射了 SLIT2（一种蛋白质），以确定其对衰老的影响。测量肌肉重量和横截面积，并使用人真皮成纤维细胞和其他细胞类型进行细胞培养。进行实时PCR和免疫细胞化学来分析基因表达和蛋白质水平。还进行了RNA测序分析。该研究表明，中老年细胞可能是抗衰老干预的一个有希望的目标。 （根据故事文本的 33% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/60462</guid>
+      <pubDate>Fri, 24 Nov 2023 06:04:35 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 致电路由警察</title>
-      <link>https://t.me/hn_summary/60442</link>
-      <description><![CDATA[呼叫路由警察
-本文讨论了在路由问题导致网络中断的情况下对“路由警察”的需求。它强调了澳大利亚主要通信服务提供商 Optus 最近因路由泄漏而发生的服务中断。作者质疑谁应该负责调查和解决此类事件，并建议地区互联网注册管理机构 (RIR)、互联网工程任务组 (IETF) 和网络运营商组织 (NOG) 可能发挥作用。然而，文章的结论是，这些实体都没有权力或能力充当路由警察。争议在于互联网架构中缺乏解决路由问题的集中机构。 （根据故事文本的 68% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/60442</guid>
-      <pubDate>Fri, 24 Nov 2023 02:05:50 GMT</pubDate>
+      <title>[媒体]国务院在其第一个人工智能战略中优先考虑“人工智能就绪的劳动力”</title>
+      <link>https://t.me/hn_summary/60461</link>
+      <description><![CDATA[国务院在其第一个人工智能战略中优先考虑“人工智能就绪的劳动力” 
+美国国务院发布了第一个企业人工智能战略，优先发展“人工智能就绪的劳动力队伍”，以最大限度地发挥外交官的影响力。美国国务卿安东尼·布林肯认为，人工智能工具可以提供实时洞察和运营效率，使其成为外交领域的变革性工具。该部门的分析中心看到了对数据和人工智能服务的巨大需求，其项目范围从使用人工智能驱动的计算机视觉工具记录乌克兰的战争罪行到更快地解密外交电报。美国国务院还与盟友合作，制定有关人工智能工具道德使用的国际规范。]]></description>
+      <guid>https://t.me/hn_summary/60461</guid>
+      <pubDate>Fri, 24 Nov 2023 06:03:25 GMT</pubDate>
     </item>
     <item>
-      <title>摩托车人体工程学</title>
-      <link>https://t.me/hn_summary/60441</link>
-      <description><![CDATA[摩托车人体工程学
-Cycle-ergo.com是一个提供工具的网站用于模拟人在任何摩托车或踏板车上的骑行姿势。用户可以从众多制造商中选择摩托车或踏板车，并比较不同型号的骑行位置。该网站建议使用鼠标滚轮在所选自行车之间平滑过渡。对于想要找到适合自己体型和喜好的摩托车的骑手来说，此工具非常有帮助。]]></description>
-      <guid>https://t.me/hn_summary/60441</guid>
-      <pubDate>Fri, 24 Nov 2023 01:58:40 GMT</pubDate>
+      <title>为什么 Ilya Sustekever 所害怕的泄露的 4chan NSA 文件很可能是真实的</title>
+      <link>https://t.me/hn_summary/60460</link>
+      <description><![CDATA[为什么 Ilya Sustekever 所害怕的泄露的 4chan NSA 文件可能是真实的
+此网页内容是 Reddit 上 r/ChatGPT subreddit 的一组规则。这些规则包括指导用户诚信行事、避免将错误信息呈现为事实以及避免发布轻松内容的指南。这些规则还禁止自我广告，并规定政治讨论应集中于人工智能和法学硕士，而不是特定的政治人物或事件。内容不包含任何有争议或令人惊讶的信息。]]></description>
+      <guid>https://t.me/hn_summary/60460</guid>
+      <pubDate>Fri, 24 Nov 2023 05:58:18 GMT</pubDate>
     </item>
     <item>
-      <title>显示 HN：使用 Datasette 与“AWS 新增功能”的 SQL 接口</title>
-      <link>https://t.me/hn_summary/60440</link>
-      <description><![CDATA[使用 Datasette 显示 HN：“AWS 新增功能”的 SQL 接口&lt; /a&gt;
-网站 querydata.io 向“AWS What&#39;s新”使用数据集。该界面允许用户查询和分析来自 AWS What&#39;s New 的数据，从而提供有价值的见解和信息。该数据集包括帖子标题、URL、摘要等信息。凭借 578 行标签信息和 15,119 行发布数据，用户可以轻松导航和探索 AWS 的最新更新。这种创新工具是使用 SQL 访问和分析 AWS 新增功能数据的巧妙方法。]]></description>
-      <guid>https://t.me/hn_summary/60440</guid>
-      <pubDate>Fri, 24 Nov 2023 01:57:34 GMT</pubDate>
+      <title>[媒体] Docker、QEMU 和 memfd_create() 的故事</title>
+      <link>https://t.me/hn_summary/60459</link>
+      <description><![CDATA[Docker、QEMU 和 memfd_create() 的故事
+作者分享了他们在 CI 环境中运行国外架构的 Docker 容器时遇到的一个问题的经验。问题是，即使安装了 /proc 目录，ps 命令也无法在容器内运行。该问题可追溯到使用带有用户空间模拟的 QEMU 来执行外部架构的 ELF 二进制文件。由于 TMPDIR 环境变量中指定的路径不正确，QEMU 无法打开临时文件，从而导致出现误导性错误消息。作者向 QEMU 提交了一个补丁，以使用 memfd_create() 系统调用作为打开临时文件的替代方法，该补丁在 QEMU 7.1.0 中被接受并实现。]]></description>
+      <guid>https://t.me/hn_summary/60459</guid>
+      <pubDate>Fri, 24 Nov 2023 05:56:10 GMT</pubDate>
     </item>
     <item>
-      <title>Medley Interlisp 项目</title>
-      <link>https://t.me/hn_summary/60439</link>
-      <description><![CDATA[Medley Interlisp 项目
-Medley Interlisp 项目是一个独特且创新的软件系统，它将我们带回到计算机开发的根源。这种复古未来主义环境允许用户深入研究过去并为未来的计算发现宝贵的经验教训。凭借其直观的界面和强大的功能，Medley 为软件开发提供了全新的视角。无论您是经验丰富的程序员还是好奇的爱好者，这个项目一定会给您带来惊喜和启发。与我们一起踏上这段旅程，重新发现过去隐藏的瑰宝并塑造计算的未来。]]></description>
-      <guid>https://t.me/hn_summary/60439</guid>
-      <pubDate>Fri, 24 Nov 2023 01:57:29 GMT</pubDate>
+      <title>告诉 HN：Spotify 现在也向高级用户插入广告</title>
+      <link>https://t.me/hn_summary/60458</link>
+      <description><![CDATA[告诉 HN：Spotify 现在也向高级用户插入广告
+news.ycombinator.com 上这篇文章的作者分享他们对 Spotify 最近决定在高级用户的收听体验中插入广告感到失望。他们提到在播客期间收到两个广告，其中包含下载广告应用程序的按钮，其中包含与赌博相关的免责声明。作者表达了他们的失望，并建议他们改用 Apple Music，因为 Apple Music 已经包含在他们的家庭订阅中。]]></description>
+      <guid>https://t.me/hn_summary/60458</guid>
+      <pubDate>Fri, 24 Nov 2023 05:54:02 GMT</pubDate>
     </item>
     <item>
-      <title>你可以做的事情（2020）</title>
-      <link>https://t.me/hn_summary/60438</link>
-      <description><![CDATA[您可以做的事情（2020） 
-标题为“你被允许做的事情（2020）”的网络内容提供了个人可能没有意识到他们被允许做或不知道他们可以做的活动列表。作者提到，由于成本原因，他们并没有亲自尝试清单上的所有活动，但强调许多活动出奇的便宜甚至免费。内容涵盖广泛的主题，包括学习和决策、人际互动、充分利用资源和职业机会。作者还提供了寻找合适的人员或资源来帮助完成各种任务的提示和建议。 （根据 81% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/60438</guid>
-      <pubDate>Fri, 24 Nov 2023 01:57:24 GMT</pubDate>
+      <title>[媒体] YouTube 表示它并没有减慢 Firefox 的速度 – 只是广告拦截器</title>
+      <link>https://t.me/hn_summary/60457</link>
+      <description><![CDATA[YouTube 表示，它并没有拖慢 Firefox 的速度，而只是广告拦截器
+YouTube 已确认视频页面加载前有 5 秒的延迟，但声称这种延迟并非 Mozilla 的 Firefox 浏览器特有。相反，YouTube 表示，延迟是其打击所有平台广告拦截器努力的一部分。禁用广告拦截器应该可以解决该问题，但用户在浏览器刷新之前可能仍会遇到暂时的延迟。一些用户报告说 Chrome 和 Edge 也出现了延迟。 YouTube 的广告拦截器检测方法预计将继续改进，这意味着用户将来可能会遇到类似的问题。 Google 一直在采取重大举措来打击广告拦截，包括使用广告拦截器向观看者禁用视频，以及对 Chrome 进行更改以破坏流行的广告拦截扩展。]]></description>
+      <guid>https://t.me/hn_summary/60457</guid>
+      <pubDate>Fri, 24 Nov 2023 05:40:53 GMT</pubDate>
     </item>
     <item>
-      <title>OpenAI 的无政府主义科学负责人是技术精神崇拜者</title>
-      <link>https://t.me/hn_summary/60437</link>
-      <description><![CDATA[OpenAI 的无政府主义科学领袖是技术精神崇拜者 
-文章讨论了 OpenAI 联合创始人兼首席科学家 Ilya Sutskever 的古怪行为。它强调了他在硅谷参与的各种非常规活动，例如多巴胺禁食和意识黑客。文章还提到了 Sutskever 对开发通用人工智能 (AGI) 的兴趣，以及他对 OpenAI 在首席执行官 Sam Altman 领导下转向追求利润的做法的不同意见。它描述了 Sutskever 委托制作了一个代表“不结盟”人工智能的木制雕像，并在领导层异地期间将其点燃。文章还提到 Sutskever 在 OpenAI 的假日派对上扮演了精神领袖的角色并领导了口号。尽管性格古怪，Sutskever 仍被公认为该领域的顶尖人才，并为重要人工智能工具的开发做出了贡献。]]></description>
-      <guid>https://t.me/hn_summary/60437</guid>
-      <pubDate>Fri, 24 Nov 2023 01:45:15 GMT</pubDate>
+      <title>[媒体] Mirage – 用于构建类型安全、模块化系统的编程框架</title>
+      <link>https://t.me/hn_summary/60456</link>
+      <description><![CDATA[Mirage – 用于构建类型安全的模块化系统的编程框架&lt; /a&gt;
+Mirage 是一个编程框架，允许开发人员构建类型安全和模块化系统。它使用 OCaml 语言并提供用于网络、存储和并发支持的库。在开发过程中，MirageOS 在 Unix 下工作，但在编译用于生产部署时，它成为操作系统驱动程序。 MirageOS 的一个独特之处是它完全由事件驱动，并且不支持抢占式线程。该框架已发布多个版本，最新版本是 2022 年 3 月发布的 MirageOS 4.0。MirageOS 的基础设施是自托管的。该网站提供文档、编译“hello world”unikernel 的能力、使用公共云服务的指南以及访问讲座。]]></description>
+      <guid>https://t.me/hn_summary/60456</guid>
+      <pubDate>Fri, 24 Nov 2023 05:02:30 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]人工智能目前只是美化压缩</title>
-      <link>https://t.me/hn_summary/60436</link>
-      <description><![CDATA[AI 目前只是美化压缩
-这篇推文的作者认为，人工智能（AI）目前不过是美化的压缩。他们认为人工智能本质上只是将大量数据压缩成更小、更易于管理的形式的一种方式。这种观点挑战了人工智能是一项革命性技术的观念，并凸显了围绕其真正能力的争议。这是一个发人深省的陈述，鼓励进一步讨论和探索人工智能的潜在局限性和可能性。]]></description>
-      <guid>https://t.me/hn_summary/60436</guid>
-      <pubDate>Fri, 24 Nov 2023 01:35:04 GMT</pubDate>
+      <title>[媒体] Ilya 关于 Q* 的论文</title>
+      <link>https://t.me/hn_summary/60455</link>
+      <description><![CDATA[关于 Q* 的 Ilya 论文
+OpenAI 的 Ilya 最近发表了一篇关于 Q 的开创性论文，Q 是一种 GPT-f 模型，具有理解和解决复杂数学问题的卓越能力，特别是在自动定理证明领域。这一发展标志着人工智能领域的一个重要里程碑，因为它展示了该模型真正理解和处理数学概念的能力。这篇题为“Q：用于数学和自动定理证明的 GPT-f 模型”的论文详细介绍了这种创新人工智能模型的功能和潜在应用。这一突破在人工智能界引起了极大的兴奋和兴趣。]]></description>
+      <guid>https://t.me/hn_summary/60455</guid>
+      <pubDate>Fri, 24 Nov 2023 04:53:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
