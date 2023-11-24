@@ -165,6 +165,9 @@ def tran(sec):
         rss_items.append(one)
         # 转义特殊字符
         description = description.replace('&', '&amp;').replace('<', '&lt;').replace('>', '&gt;').replace('"', '&quot;').replace("'", '&#39;')
+        # 转义link与guid内的&以符合XML格式
+        link = link.replace("&", "&amp;")
+        guid = guid.replace("&", "&amp;")
         one = dict(title=title, link=link, description=description, guid=guid, pubDate=pubDate)
         rss_items.append(one)
 
