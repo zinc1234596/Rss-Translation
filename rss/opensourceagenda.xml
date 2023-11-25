@@ -4,111 +4,111 @@
     <title>最近添加的项目 - 开源议程</title>
     <link>https://www.opensourceagenda.com/feeds/projects</link>
     <description>最近添加的开源项目源</description>
-    <lastBuildDate>Sat, 25 Nov 2023 12:19:54 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Nov 2023 15:12:15 GMT</lastBuildDate>
     <item>
       <title>诺兹德福尔特</title>
       <link>https://www.opensourceagenda.com/projects/nozdflt</link>
       <description><![CDATA[]]></description>
       <guid>https://www.opensourceagenda.com/projects/nozdflt</guid>
-      <pubDate>Sat, 25 Nov 2023 12:19:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>黑塞哥维那</title>
-      <link>https://www.opensourceagenda.com/projects/hersek</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/hersek</guid>
-      <pubDate>Sat, 25 Nov 2023 12:19:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>杰卡尔斯留言</title>
-      <link>https://www.opensourceagenda.com/projects/jeycaarce-message</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/jeycaarce-message</guid>
-      <pubDate>Sat, 25 Nov 2023 12:19:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>Akinotaxe91 Fortnite 外部</title>
-      <link>https://www.opensourceagenda.com/projects/akinotaxe91-fortnite-external</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/akinotaxe91-fortnite-external</guid>
-      <pubDate>Sat, 25 Nov 2023 12:19:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>IdaBingGTP插件</title>
-      <link>https://www.opensourceagenda.com/projects/idabinggptplugin</link>
-      <description><![CDATA[使用免费的 Microsoft bing 的 gpt 和 ida pro 来执行免费分析！]]></description>
-      <guid>https://www.opensourceagenda.com/projects/idabinggptplugin</guid>
-      <pubDate>Sat, 25 Nov 2023 12:19:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>AD金丝雀</title>
-      <link>https://www.opensourceagenda.com/projects/ad-canaries</link>
-      <description><![CDATA[此项目的目的是发布和维护自动部署 Active Directory 的部署 PowerShell 脚本金丝雀对象。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/ad-canaries</guid>
-      <pubDate>Sat, 25 Nov 2023 12:19:52 GMT</pubDate>
+      <pubDate>Sat, 25 Nov 2023 15:12:15 GMT</pubDate>
     </item>
     <item>
       <title>ShinoKana MultipleWindow3dScene</title>
       <link>https://www.opensourceagenda.com/projects/shinokana-multiplewindow3dscene</link>
       <description><![CDATA[基于 bgstaal/multipleWindow3dScene]]></description>
       <guid>https://www.opensourceagenda.com/projects/shinokana-multiplewindow3dscene</guid>
-      <pubDate>Sat, 25 Nov 2023 12:19:52 GMT</pubDate>
+      <pubDate>Sat, 25 Nov 2023 15:12:14 GMT</pubDate>
     </item>
     <item>
-      <title>GPTS爬虫数据集</title>
-      <link>https://www.opensourceagenda.com/projects/gpts-crawler-dataset</link>
-      <description><![CDATA[10000+ 很棒的 gpts 存储和 gpts 爬虫]]></description>
-      <guid>https://www.opensourceagenda.com/projects/gpts-crawler-dataset</guid>
-      <pubDate>Sat, 25 Nov 2023 12:19:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>邮件4gpt</title>
-      <link>https://www.opensourceagenda.com/projects/mail4gpt</link>
-      <description><![CDATA[用于 ChatGPT 的 REST API 服务访问您的电子邮件✉️🦜]]></description>
-      <guid>https://www.opensourceagenda.com/projects/mail4gpt</guid>
-      <pubDate>Sat, 25 Nov 2023 12:19:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>Three.js 周五之旅反弹</title>
-      <link>https://www.opensourceagenda.com/projects/threejs-journey-bounce-friday</link>
+      <title>杰卡尔斯留言</title>
+      <link>https://www.opensourceagenda.com/projects/jeycaarce-message</link>
       <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/threejs-journey-bounce-friday</guid>
-      <pubDate>Sat, 25 Nov 2023 12:19:50 GMT</pubDate>
+      <guid>https://www.opensourceagenda.com/projects/jeycaarce-message</guid>
+      <pubDate>Sat, 25 Nov 2023 15:12:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Akinotaxe91 Fortnite 外部</title>
+      <link>https://www.opensourceagenda.com/projects/akinotaxe91-fortnite-external</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/akinotaxe91-fortnite-external</guid>
+      <pubDate>Sat, 25 Nov 2023 15:12:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>IdaBingGTP插件</title>
+      <link>https://www.opensourceagenda.com/projects/idabinggptplugin</link>
+      <description><![CDATA[使用免费的 Microsoft bing 的 gpt 和 ida pro 来执行免费分析！]]></description>
+      <guid>https://www.opensourceagenda.com/projects/idabinggptplugin</guid>
+      <pubDate>Sat, 25 Nov 2023 15:12:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>AD金丝雀</title>
+      <link>https://www.opensourceagenda.com/projects/ad-canaries</link>
+      <description><![CDATA[此项目的目的是发布和维护自动部署 Active Directory 的部署 PowerShell 脚本金丝雀对象。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/ad-canaries</guid>
+      <pubDate>Sat, 25 Nov 2023 15:12:13 GMT</pubDate>
     </item>
     <item>
       <title>作叶1 Mevbot</title>
       <link>https://www.opensourceagenda.com/projects/sakuha1-mevbot</link>
       <description><![CDATA[💡 Mev BoT：通过智能、定制的合约解决方案最大化加密货币利润]]></description>
       <guid>https://www.opensourceagenda.com/projects/sakuha1-mevbot</guid>
-      <pubDate>Sat, 25 Nov 2023 12:19:50 GMT</pubDate>
+      <pubDate>Sat, 25 Nov 2023 15:12:12 GMT</pubDate>
     </item>
     <item>
-      <title>Mvc Maven Pos</title>
-      <link>https://www.opensourceagenda.com/projects/mvc-maven-pos</link>
-      <description><![CDATA[ICM 104]]></description>
-      <guid>https://www.opensourceagenda.com/projects/mvc-maven-pos</guid>
-      <pubDate>Sat, 25 Nov 2023 12:19:49 GMT</pubDate>
+      <title>GPTS爬虫数据集</title>
+      <link>https://www.opensourceagenda.com/projects/gpts-crawler-dataset</link>
+      <description><![CDATA[10000+ 很棒的 gpts 存储和 gpts 爬虫]]></description>
+      <guid>https://www.opensourceagenda.com/projects/gpts-crawler-dataset</guid>
+      <pubDate>Sat, 25 Nov 2023 15:12:12 GMT</pubDate>
     </item>
     <item>
-      <title>网络摄像头固定终端</title>
-      <link>https://www.opensourceagenda.com/projects/webcam-fixed-terminal</link>
-      <description><![CDATA[多终端体验]]></description>
-      <guid>https://www.opensourceagenda.com/projects/webcam-fixed-terminal</guid>
-      <pubDate>Sat, 25 Nov 2023 12:19:49 GMT</pubDate>
+      <title>邮件4gpt</title>
+      <link>https://www.opensourceagenda.com/projects/mail4gpt</link>
+      <description><![CDATA[用于 ChatGPT 的 REST API 服务访问您的电子邮件✉️🦜]]></description>
+      <guid>https://www.opensourceagenda.com/projects/mail4gpt</guid>
+      <pubDate>Sat, 25 Nov 2023 15:12:12 GMT</pubDate>
     </item>
     <item>
       <title>祖普</title>
       <link>https://www.opensourceagenda.com/projects/zoop</link>
       <description><![CDATA[zig 基准测试库。]]></description>
       <guid>https://www.opensourceagenda.com/projects/zoop</guid>
-      <pubDate>Sat, 25 Nov 2023 12:19:49 GMT</pubDate>
+      <pubDate>Sat, 25 Nov 2023 15:12:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>Three.js 周五之旅反弹</title>
+      <link>https://www.opensourceagenda.com/projects/threejs-journey-bounce-friday</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/threejs-journey-bounce-friday</guid>
+      <pubDate>Sat, 25 Nov 2023 15:12:11 GMT</pubDate>
     </item>
     <item>
       <title>波兰造币厂</title>
       <link>https://www.opensourceagenda.com/projects/polsmint</link>
       <description><![CDATA[PRC-20 POLS 自动化mint脚本（兼容其他EVM链）]]></description>
       <guid>https://www.opensourceagenda.com/projects/polsmint</guid>
-      <pubDate>Sat, 25 Nov 2023 12:19:48 GMT</pubDate>
+      <pubDate>Sat, 25 Nov 2023 15:12:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mvc Maven Pos</title>
+      <link>https://www.opensourceagenda.com/projects/mvc-maven-pos</link>
+      <description><![CDATA[ICM 104]]></description>
+      <guid>https://www.opensourceagenda.com/projects/mvc-maven-pos</guid>
+      <pubDate>Sat, 25 Nov 2023 15:12:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>网络摄像头固定终端</title>
+      <link>https://www.opensourceagenda.com/projects/webcam-fixed-terminal</link>
+      <description><![CDATA[多终端体验]]></description>
+      <guid>https://www.opensourceagenda.com/projects/webcam-fixed-terminal</guid>
+      <pubDate>Sat, 25 Nov 2023 15:12:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>吉德拉斯</title>
+      <link>https://www.opensourceagenda.com/projects/ghidraaas</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/ghidraaas</guid>
+      <pubDate>Sat, 25 Nov 2023 15:12:09 GMT</pubDate>
     </item>
     </channel>
 </rss>

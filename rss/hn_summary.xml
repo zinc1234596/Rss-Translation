@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Sat, 25 Nov 2023 12:03:17 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Nov 2023 14:55:45 GMT</lastBuildDate>
     <item>
-      <title>Darktable：慢动作撞墙</title>
-      <link>https://t.me/hn_summary/60629</link>
-      <description><![CDATA[Darktable：慢动作撞墙 
-本文讨论了用于照片编辑的软件 Darktable 的问题。作者批评开发过程中缺乏结构和方法，以及对既定交互范式的漠视。他们强调了模块组的问题以及将 GUI 中的模块顺序与管道顺序解耦而造成的混乱。作者还批评了用于配置选项卡中模块布局的复杂工具以及键盘快捷键的困难。他们提到了糟糕的优先级管理以及变化带来的边缘效应。文章最后提到了软件中的一个错误以及用于修复该错误的过多代码行。 （根据故事文本的 16% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/60629</guid>
-      <pubDate>Sat, 25 Nov 2023 12:03:17 GMT</pubDate>
+      <title>[媒体]摇钱树</title>
+      <link>https://t.me/hn_summary/60646</link>
+      <description><![CDATA[摇钱树
+本文讨论了 18 世纪莱斯特郡农民罗伯特·贝克韦尔 (Robert Bakewell) 的故事，他采用了独特的方法来改良他的牛。贝克韦尔的核心目标是让他的牛尽可能有利可图，因此他有选择地培育出拥有大背部、高价值肉和瘦肉下半身的牛。他还在自己的农场进行了对照试验，将自己的品种与其他品种进行比较，这起到了有效的广告作用。贝克韦尔的牛和羊在出售时变得非常有价值，他甚至将其品种的年轻雄性出租给其他农民。他还专注于优化牛的饲养方式，考虑驯服性和农场布局等因素。总体而言，贝克韦尔在养牛和养殖方面的创新方法为英国工业革命做出了贡献。]]></description>
+      <guid>https://t.me/hn_summary/60646</guid>
+      <pubDate>Sat, 25 Nov 2023 14:55:45 GMT</pubDate>
     </item>
     <item>
-      <title>停止对用户会话使用 JSON Web 令牌</title>
-      <link>https://t.me/hn_summary/60628</link>
-      <description><![CDATA[停止在用户会话中使用 JSON Web 令牌
-本文讨论了在现代 Web 应用程序中使用 JSON Web 令牌 (JWT) 进行会话处理，并强调了无效注销机制的问题。它强调出于安全原因从 Web 应用程序注销的重要性，特别是在网上银行等敏感应用程序中。文章指出，当使用 JWT 实现注销功能时，令牌通常存储在不安全的位置，从而容易受到攻击。最坏的情况是攻击者发现跨站脚本 (XSS) 漏洞，允许他们访问和利用 JWT 来获得对应用程序的未经授权的访问。作者建议使用基于 cookie 的会话机制以及 HttpOnly 等属性可以防止此类攻击。]]></description>
-      <guid>https://t.me/hn_summary/60628</guid>
-      <pubDate>Sat, 25 Nov 2023 11:18:55 GMT</pubDate>
+      <title>[媒体] 为什么 56k 是最快的拨号调制解调器速度</title>
+      <link>https://t.me/hn_summary/60645</link>
+      <description><![CDATA[为什么 56k 是最快的拨号调制解调器速度
+本文解释了为什么 56k 被认为是最快的拨号调制解调器速度。这可以追溯到电话网络是模拟的时候，工程师必须确定语音质量所需的带宽。他们将频率定为大约 3.2 kHz，该频率由低通滤波器保留。当电话网络数字化时，信号以 8 kHz 采样并使用 8 位模数转换器进行量化。这导致信号以 64 kbit/s 的速度传输数据。然而，控制数据需要在带内发送，这导致每六个字节的最低有效位丢失。调制解调器承担了这种损失，并且每个样本只能可靠地发送或接收 7 位，从而导致最大数据速率为 56 kbit/s。文章还提到，实际连接速度受到 FCC 限制和电话网络复杂性的限制。]]></description>
+      <guid>https://t.me/hn_summary/60645</guid>
+      <pubDate>Sat, 25 Nov 2023 14:55:39 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]差点作弊</title>
-      <link>https://t.me/hn_summary/60627</link>
-      <description><![CDATA[差点作弊
-在这篇博文中，作者分享了他们在一次猜测中解决 Wordle 的经验，并讨论了他们改变起始猜测的决定。他们澄清说，他们在自己控制的服务器上播放 Wordle 的原始版本，而不是《纽约时报》版本。然后，作者解释了他们选择新的初始猜测的过程，使用字母频率表并检查该单词是否已经是答案。他们还提到了如何从 Wordle JavaScript 源代码中提取答案和可接受的猜测。作者最后承认，一些读者可能认为他们的方法是作弊，但驳回了任何批评。]]></description>
-      <guid>https://t.me/hn_summary/60627</guid>
-      <pubDate>Sat, 25 Nov 2023 10:46:37 GMT</pubDate>
+      <title>[媒体] Maverick 火星直升机已经过了保修期</title>
+      <link>https://t.me/hn_summary/60644</link>
+      <description><![CDATA[Maverick Mars 斩波器已过了保修期&lt; br/&gt;
+NASA的火星独创号直升机远远超过了原定的30天任务，飞行了66次，超出预期32次。工程师们现在正在研究其替代品，测试更长、更坚固的更新碳纤维转子叶片。正在考虑将直升机参与火星样本返回任务，而不是最初充当“获取”漫游车的角色。工程师们一直在美国宇航局喷气推进实验室的空间模拟器中测试叶片，其旋转速度比“独创”号叶片的旋转速度更高。该团队还在火星上使用实际的直升机来提升其能力，创下新的高度和速度记录。]]></description>
+      <guid>https://t.me/hn_summary/60644</guid>
+      <pubDate>Sat, 25 Nov 2023 14:27:23 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 安全链接 WiFi 路由器 (2022)</title>
-      <link>https://t.me/hn_summary/60626</link>
-      <description><![CDATA[安全链接 WiFi 路由器 (2022)
-本文讨论了构建安全的家庭 WiFi 网络同时平衡易用性和连接性的挑战。它探讨了链接路由器的三种选项并强调了最佳方法。不建议使用选项#3，将互联网连接到安全路由器，然后将访客路由器插入安全路由器，因为它允许访客设备访问安全网络。选项 #2 使用拆分 ESSID，在可用性和安全性方面进行权衡。推荐的选项是选项#1，其中访客网络直接连接到互联网，安全路由器插入访客路由器。文章还提到了使用 Multi PSK 和 VLAN 进行强隔离，并重点介绍了 SPR（安全路由器）在支持与现有路由器的安全连接方面的功能。]]></description>
-      <guid>https://t.me/hn_summary/60626</guid>
-      <pubDate>Sat, 25 Nov 2023 09:45:14 GMT</pubDate>
+      <title>[媒体]X 可能因广告商流失而在年底损失高达 7500 万美元</title>
+      <link>https://t.me/hn_summary/60643</link>
+      <description><![CDATA[X 可能因广告客户流失而在年底损失高达 7500 万美元
+由于主要品牌暂停在该平台上的营销活动，埃隆·马斯克 (Elon Musk) 旗下的社交媒体公司 X 到今年年底可能会损失高达 7500 万美元的广告收入。此前，马斯克支持该网站上的反犹太主义帖子，导致华特迪士尼和华纳兄弟探索公司等公司停止了广告。 X 的回应是起诉媒体监管组织 Media Matters，指控他们诽谤该平台，发布了一份报告，将主要品牌的广告与宣传阿道夫·希特勒和纳粹党的帖子联系起来。内部文件显示，Airbnb、亚马逊、可口可乐和微软等公司的 200 多个广告单元已经暂停或正在考虑暂停在 X 上的广告。自 2022 年 10 月马斯克接管以来，该平台的美国广告收入一直在下降，原因是广告收入减少了。内容审核和仇恨言论增加。]]></description>
+      <guid>https://t.me/hn_summary/60643</guid>
+      <pubDate>Sat, 25 Nov 2023 14:27:17 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]关于有效利他主义的俳句</title>
-      <link>https://t.me/hn_summary/60625</link>
-      <description><![CDATA[关于有效利他主义的俳句
-该网络内容由一系列有关有效利他主义 (EA) 的俳句组成，这是一种提倡使用证据和理性做世界上最大善事的哲学。俳句涉及与 EA 相关的各种主题，包括人工智能安全、慈善、理性和个人经历。有些俳句包含有争议或挑衅性的言论，例如提到没有黑人朋友或使用攻击性语言。俳句提供了一种独特且富有创意的方式来在 EA 社区内表达想法和观点。]]></description>
-      <guid>https://t.me/hn_summary/60625</guid>
-      <pubDate>Sat, 25 Nov 2023 09:19:59 GMT</pubDate>
+      <title>[媒体] 研究称，投票支持脱欧的人“更有可能智力较低”</title>
+      <link>https://t.me/hn_summary/60642</link>
+      <description><![CDATA[投票支持脱欧的人“更有可能不太聪明”，研究主张
+根据巴斯大学管理学院的一项新研究，投票支持脱欧的人认知能力可能较低。研究发现，记忆力、言语流畅性、流畅推理和数字推理等认知技能与人们决定投票的方式相关。该研究使用了超过 6,000 人的全国代表性样本，发现认知能力最低的人中只有 40% 投票留欧，而认知能力最高的人中这一比例为 73%。研究表明，认知能力低下使人们更容易受到错误信息和虚假信息的影响，从而影响民主结果。然而，研究人员还指出，留欧选民和脱欧选民的认知能力存在显着重叠。]]></description>
+      <guid>https://t.me/hn_summary/60642</guid>
+      <pubDate>Sat, 25 Nov 2023 14:27:10 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 木乃伊！</title>
-      <link>https://t.me/hn_summary/60624</link>
-      <description><![CDATA[木乃伊！
-《木乃伊！二十二世纪的故事》是简·韦伯（后来的简·C·劳登）于 1827 年出版的三卷本小说，讲述了埃及奇奥普斯木乃伊被带回来的故事。 2126 年复活。这部小说被认为是第一部以复活木乃伊为主角的英语故事。韦伯从拿破仑入侵期间对古埃及的迷恋、公开拆开的木乃伊以及玛丽·雪莱的《弗兰肯斯坦》中汲取了灵感。与其他早期科幻作品不同，劳登的小说描绘了一个充满先进技术和社会变革的未来。它因其讽刺和幽默的元素而受到称赞，被认为是一部女性主义小说。]]></description>
-      <guid>https://t.me/hn_summary/60624</guid>
-      <pubDate>Sat, 25 Nov 2023 07:41:17 GMT</pubDate>
+      <title>【媒体】印度滥用反洗钱法打压人权</title>
+      <link>https://t.me/hn_summary/60641</link>
+      <description><![CDATA[印度正在滥用反洗钱法来镇压人权&lt; /a&gt;
+国际特赦组织、慈善与安全网络和人权观察呼吁金融行动特别工作组（FATF）敦促印度政府停止利用反洗钱法来镇压人权捍卫者、活动人士和非营利组织组织。印度当局利用金融行动特别工作组的建议来限制公民空间并侵犯言论、结社与和平集会自由。这些团体强调滥用《外国捐款（监管）法》、《非法活动（预防）法》和《防止洗钱法》等法律来瞄准批评者并压制批评者。他们认为，印度政府正在将法律武器化，以打击人权工作，这违反了 FATF 的标准。]]></description>
+      <guid>https://t.me/hn_summary/60641</guid>
+      <pubDate>Sat, 25 Nov 2023 14:08:53 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 构建简单授权系统 (ABAC) 的经验教训</title>
-      <link>https://t.me/hn_summary/60623</link>
-      <description><![CDATA[构建简单授权系统 (ABAC) 的经验 
-作者讨论了他们使用基于属性的访问控制 (ABAC) 为其云平台 Ubicloud 构建简单授权系统的经验。他们受到 AWS、Azure 和 GCP 等超大规模提供商使用的强大授权模型的启发，并希望提供类似级别的功能。作者概述了他们的系统的要求，包括正确性、灵活性和简单性。然后，他们解释了如何使用 PostgreSQL 实施 ABAC，并提供了所使用的数据模型和 SQL 查询的示例。作者强调了ABAC的灵活性和简单性，并邀请读者在GitHub上探索其开源实现。]]></description>
-      <guid>https://t.me/hn_summary/60623</guid>
-      <pubDate>Sat, 25 Nov 2023 06:45:48 GMT</pubDate>
+      <title>[媒体]Show HN：我们为孩子们打造了互动涂色体验</title>
+      <link>https://t.me/hn_summary/60640</link>
+      <description><![CDATA[Show HN：我们为孩子们打造了交互式着色体验
+在 dibulo.com，我们很高兴推出新的交互式着色给孩子们的体验。我们创建了一个平台，孩子们可以在为各种图像着色的同时释放他们的创造力并享受乐趣。我们的网站提供各种着色页，从动物到风景，孩子们可以使用虚拟画笔和调色板进行着色。我们平台的互动性质允许孩子们尝试不同的颜色和技术，提供独特且引人入胜的着色体验。我们相信这种互动着色体验不仅能娱乐孩子，还能帮助他们发展艺术技能。所以，快来看看dibulo.com，释放孩子的想象力狂奔吧！]]></description>
+      <guid>https://t.me/hn_summary/60640</guid>
+      <pubDate>Sat, 25 Nov 2023 13:57:42 GMT</pubDate>
     </item>
     <item>
-      <title>约翰哈里森海钟的有趣特征</title>
-      <link>https://t.me/hn_summary/60622</link>
-      <description><![CDATA[约翰·哈里森海钟的有趣功能
-笔者最近参观了格林威治皇家天文台，有机会一睹约翰·哈里森的航海钟。他们讨论了约翰·哈里森的故事以及他如何解决计算海上经度的问题。作者强调了哈里森钟表使用的劣质材料，表明当时很难获得高质量的材料。他们还提到在时钟中使用耐磨轮来减少滑动摩擦。作者发现时钟的温度补偿机制很难理解，但指出它们占据了时钟体积的很大一部分。他们还提到了其中一个时钟的一个有趣特征，即平衡轮的辐条之间有固定的支柱。作者提供了进一步了解约翰·哈里森和他的时钟的资源。]]></description>
-      <guid>https://t.me/hn_summary/60622</guid>
-      <pubDate>Sat, 25 Nov 2023 06:39:40 GMT</pubDate>
+      <title>[媒体] Cloudflare 作为 AI Play。</title>
+      <link>https://t.me/hn_summary/60639</link>
+      <description><![CDATA[Cloudflare 作为 AI 游戏。首席执行官马修·普林斯专访
+Cloudflare 首席执行官 Matthew Prince 在接受采访时讨论了公司对人工智能的关注及其对各个业务领域的影响。 Prince 重点介绍了 Cloudflare 利用 AI 的五个主要领域，包括安全威胁检测、AI 公司成本降低、开发人员体验、模型训练和 AI 推理。他还提到了 Cloudflare 管理信息以防止泄露的潜力，以及管理人工智能系统中数据和信息流的重要性。 Prince 将 Cloudflare 视为人工智能公司的重要基础设施提供商，并相信该领域具有巨大的增长潜力。]]></description>
+      <guid>https://t.me/hn_summary/60639</guid>
+      <pubDate>Sat, 25 Nov 2023 13:55:35 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 虚假分享的近距离遭遇</title>
-      <link>https://t.me/hn_summary/60621</link>
-      <description><![CDATA[近距离遭遇虚假分享
-本文讨论了错误共享的概念，当多个 CPU 核心在修改紧密定位的内存时无意中共享缓存行时，就会发生错误共享。这会显着减慢内存上的原子操作。作者分享了他们在自己的代码中遇到的错误共享的个人经历，特别是在批处理软件中使用的进度跟踪/计数器实现中。作者解释了他们最初如何使用 AtomicU64 计数器实现计数器，但这导致了严重的争用并减慢了代码速度。然后，他们探索使用线程本地数据来消除争用并提高性能。然而，他们发现错误共享是争用的根本原因，并对代码进行了调整以缓解它。本文强调了考虑错误共享的重要性及其对多线程代码性能的影响。 （根据 93% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/60621</guid>
-      <pubDate>Sat, 25 Nov 2023 06:28:30 GMT</pubDate>
+      <title>[媒体] 训练更聪明，而不是更努力？</title>
+      <link>https://t.me/hn_summary/60638</link>
+      <description><![CDATA[训练更聪明，而不是更难？ – 小型研讨会7B
+MiniSymposium 7B是作者基于Mistral 7b创建的实验模型。该模型的目标是展示使用小型手写示例数据集而不是合成 GPT 输出的潜力。作者认为，在低学习率的小数据集上进行训练可以帮助模型学习更深层次的指令遵循模式，并避免浅层数据偏差。该模型以 1e-7 的 1/10 的学习率训练了大约 10 个小时，并显示出显着的改进。它被设计为适应不同的提示格式，并产生了一些令人惊讶的良好输出。作者鼓励人们尝试演示模型并提供反馈。]]></description>
+      <guid>https://t.me/hn_summary/60638</guid>
+      <pubDate>Sat, 25 Nov 2023 13:28:46 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 1974 年《星球大战》初稿 [pdf](https://news.</title>
-      <link>https://t.me/hn_summary/60620</link>
-      <description><![CDATA[1974 年《星球大战》初稿 [pdf](https: //news.ycombinator.com/item?id=38410259)
-此网页内容是乔治·卢卡斯 (George Lucas) 于 1974 年撰写的《星球大战》初稿的 PDF。该草稿首先描述了 Utapau 星球，并介绍了 JEDI BENDU，他们曾经是令人畏惧的战士，但现在几乎灭绝了。故事讲述了主角安尼金·弑星者遇到一艘宇宙飞船，并与他的父亲和兄弟一起在补给小屋避难的故事。他们讨论他们面临的威胁并准备战斗。选秀结束时，安尼金因不被允许与父亲一起对抗而感到沮丧。 （根据故事文字的 2% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/60620</guid>
-      <pubDate>Sat, 25 Nov 2023 06:00:12 GMT</pubDate>
+      <title>[媒体]五分钟后我们开始轰炸</title>
+      <link>https://t.me/hn_summary/60637</link>
+      <description><![CDATA[五分钟后我们开始轰炸
+“五分钟后我们开始轰炸”是 1984 年冷战期间美国总统罗纳德·里根提出的一个颇具争议的笑话。在准备广播讲话时，里根开玩笑说要禁止并轰炸俄罗斯。这个笑话被录制下来，后来泄露给公众，引起了苏联和里根在1984年总统选举中的对手沃尔特·蒙代尔的批评。这次泄密事件导致了苏联政府的外交回应，并暂时影响了里根的民调支持率。一些人认为这个笑话品味低俗，但另一些人则认为这是政治失态。该事件凸显了冷战时代的紧张局势。]]></description>
+      <guid>https://t.me/hn_summary/60637</guid>
+      <pubDate>Sat, 25 Nov 2023 13:24:37 GMT</pubDate>
     </item>
     </channel>
 </rss>

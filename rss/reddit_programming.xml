@@ -4,7 +4,35 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Sat, 25 Nov 2023 12:18:55 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Nov 2023 15:11:09 GMT</lastBuildDate>
+    <item>
+      <title>GitQL 0.9.0 发布，带有 Time、Date 和 DateTime 隐式转换</title>
+      <link>https://www.reddit.com/r/programming/comments/183ktty/gitql_090_is_released_with_time_date_and_datetime/</link>
+      <description><![CDATA[ 由   提交 /u/AmrDeveloper   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/183ktty/gitql_090_is_released_with_time_date_and_datetime/</guid>
+      <pubDate>Sat, 25 Nov 2023 14:24:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>Packrat 解析和解析表达式语法</title>
+      <link>https://www.reddit.com/r/programming/comments/183kqq6/packrat_parsing_and_parsing_expression_grammars/</link>
+      <description><![CDATA[ 由   提交/u/luciferreeves  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/183kqq6/packrat_parsing_and_parsing_expression_grammars/</guid>
+      <pubDate>Sat, 25 Nov 2023 14:20:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么将其命名为 NullPointerException...</title>
+      <link>https://www.reddit.com/r/programming/comments/183kalo/why_name_it_nullpointerexception/</link>
+      <description><![CDATA[…当Java没有指针时🤩   由   提交 /u/WhereDoWeGoFromHereN   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/183kalo/why_name_it_nullpointerexception/</guid>
+      <pubDate>Sat, 25 Nov 2023 13:57:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>从命令行访问备忘单</title>
+      <link>https://www.reddit.com/r/programming/comments/183ikre/accessing_cheatsheets_from_the_command_line/</link>
+      <description><![CDATA[ 由   提交 /u/clouddjr   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/183ikre/accessing_cheatsheets_from_the_command_line/</guid>
+      <pubDate>Sat, 25 Nov 2023 12:19:16 GMT</pubDate>
+    </item>
     <item>
       <title>分布式系统中的一致性模型</title>
       <link>https://www.reddit.com/r/programming/comments/183idtw/consistency_models_in_distributed_systems/</link>
@@ -25,20 +53,6 @@
       <description><![CDATA[ 由   提交/u/pmz   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/183gkos/postgresql_university_of_tennessee_spatial_data/</guid>
       <pubDate>Sat, 25 Nov 2023 10:02:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>软件架构 - 选择正确数据库的初学者指南 - SQL 与 NoSQL</title>
-      <link>https://www.reddit.com/r/programming/comments/183g5zr/software_architecture_beginners_guide_on_choosing/</link>
-      <description><![CDATA[ 由   提交/u/java_nerd_69   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/183g5zr/software_architecture_beginners_guide_on_choosing/</guid>
-      <pubDate>Sat, 25 Nov 2023 09:33:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>选择正确数据库的初学者指南 - SQL 与 NoSQL</title>
-      <link>https://www.reddit.com/r/programming/comments/183g1fi/beginners_guide_on_choosing_right_database_sql_vs/</link>
-      <description><![CDATA[ 由   提交/u/java_nerd_69   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/183g1fi/beginners_guide_on_choosing_right_database_sql_vs/</guid>
-      <pubDate>Sat, 25 Nov 2023 09:24:31 GMT</pubDate>
     </item>
     <item>
       <title>我的 Web 开发之旅（自学）</title>
@@ -76,13 +90,6 @@
       <pubDate>Sat, 25 Nov 2023 02:12:56 GMT</pubDate>
     </item>
     <item>
-      <title>【文章资源】Packrat解析与解析表达式语法</title>
-      <link>https://www.reddit.com/r/programming/comments/1836l1w/article_resource_packrat_parsing_and_parsing/</link>
-      <description><![CDATA[ 由   提交/u/luciferreeves  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1836l1w/article_resource_packrat_parsing_and_parsing/</guid>
-      <pubDate>Sat, 25 Nov 2023 00:21:57 GMT</pubDate>
-    </item>
-    <item>
       <title>我为 R 编写了一个 Forth 环境，因为……为什么不呢</title>
       <link>https://www.reddit.com/r/programming/comments/1835ttg/i_wrote_a_forth_environment_for_r_becausewhy_not/</link>
       <description><![CDATA[无论您喜欢 Forth 还是从未听说过它，您都可以使用 froth 在 R 中编写类似 Forth 的内容包裹。此链接包含可以从 R 运行的原始 Starting Forth 的修改版本，其中包含（相对）深入的 Forth 语言教程。对于那些从未听说过 Forth 的人来说，这是一种来自 1970 年的非常酷的面向堆栈的编程语言。 该软件包可在 CRAN 上使用，并实现了大多数标准 Forth 功能，以及与 R 的接口。缺少一些功能（例如 &#39; 运算符），但我正在研究它们。   由   提交/u/Peiple  [链接] [评论]]]></description>
@@ -102,13 +109,6 @@
       <description><![CDATA[ 由   提交/u/bizzehdee  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1832gdv/mastering_backend_development_in_c_5_essential/</guid>
       <pubDate>Fri, 24 Nov 2023 21:20:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>包含每个 HTML 元素的博客文章</title>
-      <link>https://www.reddit.com/r/programming/comments/1831zo4/a_blog_post_with_every_html_element/</link>
-      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1831zo4/a_blog_post_with_every_html_element/</guid>
-      <pubDate>Fri, 24 Nov 2023 21:01:20 GMT</pubDate>
     </item>
     </channel>
 </rss>

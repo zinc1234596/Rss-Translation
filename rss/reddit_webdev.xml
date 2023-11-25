@@ -4,7 +4,98 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 25 Nov 2023 12:19:24 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Nov 2023 15:11:43 GMT</lastBuildDate>
+    <item>
+      <title>这个脚本可以用 IG API 实现吗</title>
+      <link>https://www.reddit.com/r/webdev/comments/183lo67/is_this_script_possible_with_ig_api/</link>
+      <description><![CDATA[我想创建一个小应用程序，自动回复在 IG 帖子上@我的个人资料的用户。这可能吗？有谁知道吗？   由   提交/u/Wovasteen  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/183lo67/is_this_script_possible_with_ig_api/</guid>
+      <pubDate>Sat, 25 Nov 2023 15:06:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Android 手机上的无限滚动重置到页面顶部</title>
+      <link>https://www.reddit.com/r/webdev/comments/183libq/infinite_scroll_on_android_phones_reset_to_the/</link>
+      <description><![CDATA[我在 Android 上浏览时注意到一个特殊问题。每当用户按下后退按钮或滑动到上一页时，滚动位置不会保留在最后已知的位置，而是重置到页面顶部。我确信您在 Android 上使用 Google Chrome 时也遇到过类似的问题。我尝试在  上设置 CSS到固定位置，100vh，并且没有溢出，但问题仍然存在。   由   提交/u/MarketingDifferent25  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/183libq/infinite_scroll_on_android_phones_reset_to_the/</guid>
+      <pubDate>Sat, 25 Nov 2023 14:59:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>您在哪里可以找到客户网站的资源？</title>
+      <link>https://www.reddit.com/r/webdev/comments/183lbyx/where_do_you_find_assets_for_your_clients_websites/</link>
+      <description><![CDATA[我目前在客户网站上，我正在寻找各种图像来说明其工作。 例如，网站属于数据科学领域，我希望能够下载与数据科学相关的插图（统计数据、服务器和图表）。 在哪里可以找到这些插图？如果我能找到 SVG 资源，即可获得奖励积分。   由   提交 /u/TotomInc   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/183lbyx/where_do_you_find_assets_for_your_clients_websites/</guid>
+      <pubDate>Sat, 25 Nov 2023 14:50:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>我构建了一个网页游戏，允许人们通过蜂鸣器功能举办自定义的类似危险的问答游戏</title>
+      <link>https://www.reddit.com/r/webdev/comments/183l5ct/i_built_a_web_game_that_allows_folks_to_host/</link>
+      <description><![CDATA[    /u/redditindisguise   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/183l5ct/i_built_a_web_game_that_allows_folks_to_host/</guid>
+      <pubDate>Sat, 25 Nov 2023 14:41:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>成就了摇钱树企业的集合！</title>
+      <link>https://www.reddit.com/r/webdev/comments/183kokh/made_a_collection_of_cash_cow_businesses/</link>
+      <description><![CDATA[ 由   提交/u/xkft  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/183kokh/made_a_collection_of_cash_cow_businesses/</guid>
+      <pubDate>Sat, 25 Nov 2023 14:17:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>（条纹）动态金额的预定支付？</title>
+      <link>https://www.reddit.com/r/webdev/comments/183kj72/stripe_scheduled_payouts_with_dynamic_amount/</link>
+      <description><![CDATA[我有一个市场应用程序，我想根据服务提供商的销售数量向他们发送付款，因此金额将根据情况动态变化 但是，当我看到条带文档和计划付款时，似乎我们需要在创建计划时定义金额。这看起来很公平。 但是，我想知道是否有一种方法可以创建计划付款，而无需创建自己的 cron 作业或定期发送付款的内容？ 是吗？只能这样工作吗？我们必须创建自己的 cron 作业吗？   由   提交 /u/Superb_Syrup9532   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/183kj72/stripe_scheduled_payouts_with_dynamic_amount/</guid>
+      <pubDate>Sat, 25 Nov 2023 14:09:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Astro VS HTMX</title>
+      <link>https://www.reddit.com/r/webdev/comments/183jt7v/astro_vs_htmx/</link>
+      <description><![CDATA[我正在尝试为一个项目学习上述内容之一，我的任务是构建一个登陆页面、一个作品集和一个博客。  那么，哪一个会提出更好的应用程序？。 谢谢。   由   提交 /u/eDyrr   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/183jt7v/astro_vs_htmx/</guid>
+      <pubDate>Sat, 25 Nov 2023 13:31:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>随时随地开发</title>
+      <link>https://www.reddit.com/r/webdev/comments/183jo4x/developing_on_the_go/</link>
+      <description><![CDATA[好吧，我想开始开发项目已经很久了，我已经掌握了基础知识，并计划开始从事小型项目，事情是这样的是的，在我工作的地方，我无法访问计算机或互联网连接，但我有很多时间可以消磨，而我拥有的只是我的手机（android），是否有任何可以用来编码和离线的应用程序如果我需要信息，我可以访问和使用数据库吗？谢谢   由   提交 /u/Ok_North_1984   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/183jo4x/developing_on_the_go/</guid>
+      <pubDate>Sat, 25 Nov 2023 13:23:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>SCRUM 是不可避免的（不幸的是）</title>
+      <link>https://www.reddit.com/r/webdev/comments/183jkzu/scrum_is_inevitable_unfortunately/</link>
+      <description><![CDATA[ 由   提交/u/gyen  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/183jkzu/scrum_is_inevitable_unfortunately/</guid>
+      <pubDate>Sat, 25 Nov 2023 13:18:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>开发博客：汇集了 Three.js、WebRTC、MediaRecorder 等，让用户可以为迪士尼新电影《Wish》祈愿明星</title>
+      <link>https://www.reddit.com/r/webdev/comments/183jaq2/dev_blog_brought_together_threejs_webrtc/</link>
+      <description><![CDATA[     &lt; td&gt; 由   提交/u/leemartin  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/183jaq2/dev_blog_brought_together_threejs_webrtc/</guid>
+      <pubDate>Sat, 25 Nov 2023 13:02:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>我构建了一个 GitHub 存储库流量历史跟踪器，延长了默认的 14 天限制</title>
+      <link>https://www.reddit.com/r/webdev/comments/183j92t/i_built_a_github_repo_traffic_history_tracker/</link>
+      <description><![CDATA[       由   提交/u/m4xshen  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/183j92t/i_built_a_github_repo_traffic_history_tracker/</guid>
+      <pubDate>Sat, 25 Nov 2023 13:00:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>这些规格对于 webdev 来说足够了吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/183j0dr/are_these_specs_enough_for_webdev/</link>
+      <description><![CDATA[发现有人以非常便宜的价格出售此产品。来自广告： 说明  HP Elitedesk Mini PC Core i5-6500T 处理器 8GB RAM 240 GB SSD 外部蓝牙和 Wifi  我主要关心的是CPU和外部蓝牙和wifi 编辑：通过webdev我指的是一般的软件开发，但主要是Web开发 &lt; p&gt;​   由   提交/u/Many_Lack_3966   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/183j0dr/are_these_specs_enough_for_webdev/</guid>
+      <pubDate>Sat, 25 Nov 2023 12:45:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>我如何使用 CSS 来做到这一点？</title>
+      <link>https://www.reddit.com/r/webdev/comments/183il5k/how_do_i_do_this_using_css/</link>
+      <description><![CDATA[      我知道这对你们来说是基本的，但我不知道如何做类似的事情这是我网站的顶部。顺便说一句，图片是用word制作的。   由   提交 /u/Ancient-Adagio902   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/183il5k/how_do_i_do_this_using_css/</guid>
+      <pubDate>Sat, 25 Nov 2023 12:19:59 GMT</pubDate>
+    </item>
     <item>
       <title>合理的收费价格</title>
       <link>https://www.reddit.com/r/webdev/comments/183ihx4/a_fair_price_to_charge/</link>
@@ -18,97 +109,6 @@
       <description><![CDATA[我熟悉 hmtl、css、sql 和 python。 到目前为止，我只使用 html 在本地创建网站，css和一点JS。但现在我已经学习了 python 和 sql，我想创建一个网站，显示数据库中的数据，并能够查询某些结果并将其显示在网站上。 我虽然使用 html前端使用 css（带 bootstrap），并使用 django 框架（我以前从未使用过），因为它使用 python 和 MySQL。 但是设置网站以及如何托管的不同方法有很多它，有点压倒性的。这就是为什么我正在寻找一些指导或明确我应该走哪条路。所以我不会把时间浪费在那些不起作用或没有电缆的事情上。  这是一个好主意，还是我可能错过了一些东西或设置它的困难？ 我也想公开托管这个网站，但不知道从哪里开始。  p&gt; ​ 感谢您的任何建议。如果有不清楚的地方，请告诉我。  ​   由   提交/u/SneakyMan01   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/183gp7i/cant_figure_out_what_i_should_use_to_build_my/</guid>
       <pubDate>Sat, 25 Nov 2023 10:11:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>制作了一个 NSFW 滚动条</title>
-      <link>https://www.reddit.com/r/webdev/comments/183gn0p/made_an_nsfw_scroller/</link>
-      <description><![CDATA[不久前发布了此内容并得到了一些积极的反馈。没有网络开发背景，只是边学边做。该提要已得到改进，因此当您选择视频时，它会获取您可以滚动浏览的其他类似视频。目前正在开发一种学习算法，供登录用户个性化提要。 很高兴听到您可能有的任何反馈或建议。  &amp; #32；由   提交 /u/Fenror   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/183gn0p/made_an_nsfw_scroller/</guid>
-      <pubDate>Sat, 25 Nov 2023 10:07:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>这是 OAuth2.0/OpenID-Connect 的滥用吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/183gd0w/is_this_a_misuse_of_oauth20openidconnect/</link>
-      <description><![CDATA[大家好，我正在为我们的微服务架构设置身份验证，但我有点卡住了。该公司只处理“内部”事务。用户和应用程序（客户和公司自己开发和维护的应用程序），无需第三方应用程序访问/授权。主要目标是让前端安全地与我们的后端服务通信，发送包含用户角色的令牌。 由于我们使用 Azure AD B2C 等主要 CIAM 解决方案，因此我们为此使用 OAuth2.0。但由于 OAuth 2.0 通常用于第三方访问（RFC 6749），而我对该领域的经验并不丰富，而且有些陌生，我想知道它是否对于需求来说太复杂了。我们希望避免不必要的开发开销。 这个决定在我加入之前就已经做出了。然而，我们的要求只是让我们自己的前端系统与后端进行通信，需要一个基于令牌的系统嵌入用户角色，而不是为第三方应用程序设计的传统的基于范围的访问控制。 对于我这个非常缺乏经验的人来说，这似乎是 OAuth2.0 滥用的一个典型例子，因为我们的应用程序的范围在这里并不是真正需要的（只需发送用户令牌就可以了）。只是一个包含用户角色的 JWT，以便后端可以从中获取权限。但由于主要的 CIAM 系统仅提供 OAuth 和 SAML，我有点困惑，因为我无法想象大多数公司都需要第三方应用程序授权。 如果这里有人的话那就太好了可以为黑暗带来一些曙光。预先感谢您！   由   提交/u/mangyCarl3  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/183gd0w/is_this_a_misuse_of_oauth20openidconnect/</guid>
-      <pubDate>Sat, 25 Nov 2023 09:47:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>CFRS[] - 极其简单的海龟图形，只有 6 个简单命令：C、F、R、S、[ 和 ]</title>
-      <link>https://www.reddit.com/r/webdev/comments/183fnrs/cfrs_extremely_minimal_turtle_graphics_with_only/</link>
-      <description><![CDATA[ 由   提交 /u/susam   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/183fnrs/cfrs_extremely_minimal_turtle_graphics_with_only/</guid>
-      <pubDate>Sat, 25 Nov 2023 08:58:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>UI Library Creator - 迎合“生成式 UI”趋势的独特方法</title>
-      <link>https://www.reddit.com/r/webdev/comments/183f5ci/ui_library_creator_a_unique_approach_to_the/</link>
-      <description><![CDATA[    /u/dym3k   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/183f5ci/ui_library_creator_a_unique_approach_to_the/</guid>
-      <pubDate>Sat, 25 Nov 2023 08:22:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>字节 #219 - 罗马陷落</title>
-      <link>https://www.reddit.com/r/webdev/comments/183ew1x/bytes_219_rome_has_fallen/</link>
-      <description><![CDATA[       由   提交/u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/183ew1x/bytes_219_rome_has_fallen/</guid>
-      <pubDate>Sat, 25 Nov 2023 08:04:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>前端工作需要文档吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/183es44/is_documentation_for_frontend_work_necessary/</link>
-      <description><![CDATA[或者注释就够了吗？   由   提交 /u/Responsible-Cod-4618   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/183es44/is_documentation_for_frontend_work_necessary/</guid>
-      <pubDate>Sat, 25 Nov 2023 07:57:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>自由职业者/机构负责人：您通常在合同中包含哪些限制条件和条款（设计和开发或维护 SLA）</title>
-      <link>https://www.reddit.com/r/webdev/comments/183eroo/freelancers_agency_heads_what_provisos_and/</link>
-      <description><![CDATA[我从事自由网页设计和开发已经有一段时间了。多年来，我见过各种各样的合同——从那些有 10~15 页以上精美印刷/条款和条件的合同，到只有一页长仅描述范围和付款条件的合同提案。 多年来，我一直试图确保始终包含重要的附带条件（由于团队成员和客户要求我放弃它们，所以取得了不同程度的成功）：  免责声明：客户提供的材料的版权，如果它们侵犯了他人的知识产权，我不承担任何责任。 免责声明：承诺的里程碑交付日期，如果客户或第三者一方是延迟的原因 拟议合同的到期日，因此，如果客户花时间回复我，我保留拒绝或向他们提供具有不同报价的更新合同的权利 如果客户未按时支付里程碑付款以及停工，则收取利率和/或罚款 解释最终应用程序及其代码库、数据库结构、等等，都是我的 IP，而我的客户只需拥有一个有时限或终身的许可证即可按原样使用该应用程序。  最后一个受到了客户的强烈反对。他们中的一些人愿意支付溢价，因此他们“拥有”自己的代码，尽管我仍然认为这是不确定的，因为 HTML、CSS 和 JS 代码有许多重用和样板代码部分，如果我最终将 IP 交给如何我会构建一个特定的页面元素（假设这是我自己独特的方式，这很少见），这是否意味着我不能再使用该技术了？ 你们怎么看？对于项目服务协议中的具体条款和条款/条件，您是否有任何意见、建议和个人经验，无论这些条款和条件的存在或缺乏，都会让您感到困扰？   由   提交/u/Katylar  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/183eroo/freelancers_agency_heads_what_provisos_and/</guid>
-      <pubDate>Sat, 25 Nov 2023 07:56:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>让我们一起击败 YouTube - 广告运行速度提高 16 倍 - 直播扩展！ [更新]</title>
-      <link>https://www.reddit.com/r/webdev/comments/183ekw9/lets_beat_youtube_together_by_running_ads_16x/</link>
-      <description><![CDATA[      &amp; #x200b; 16 倍更快的广告扩展 该扩展现已上线：亲自尝试一下  前几天发布了有关此内容的文章，引起了很多人的兴趣，这让我感到非常惊讶。现在，该扩展已上线，您今天就可以使用它！   此 gif 正在以正常速度运行:) YouTube 会阻止 Chrome 上的 AdBlock - 因此请将此用作击败广告的后备 现在是一个浏览器扩展！尝试一下并留下评论:) 仅加快广告速度 - 不会影响您的正常视频 同时使广告静音 - 不会影响您的正常视频声音 自动播放广告，以便您可以更快地跳过它们  Firefox 版本即将推出，所以只需评论！提醒我！ 5天:) ​ 祝大家开发愉快，一起更安全浏览🦺   由   提交/u/hackhive-io  /u/hackhive-io  reddit.com/r/webdev/comments/183ekw9/lets_beat_youtube_together_by_running_ads_16x/&quot;&gt;[链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/183ekw9/lets_beat_youtube_together_by_running_ads_16x/</guid>
-      <pubDate>Sat, 25 Nov 2023 07:42:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于 Caddy 和 Cloudflare 的问题。</title>
-      <link>https://www.reddit.com/r/webdev/comments/183dsk1/question_about_caddy_and_cloudflare/</link>
-      <description><![CDATA[所以，我有一个在 VPS 上运行的 Caddy Web 服务器（我从主机提供商处租用）。有一段时间我一直使用 Cloudflare + Nginx 或 Apache，并且我必须为 SSL 设置 Cloudflare。  好吧，Caddy 看起来会自动执行 SSL 操作。我可以在 Cloudflare 上关闭代理，但我的网站仍然显示它是“安全的” ping 我的 DNS 会得到一个假 IP（Cloudflare 只是充当域名提供商，仅此而已）。那么，在 Caddy 运行的情况下，我需要通过 Cloudflare 进行任何操作吗？这是我第一次和球童一起玩，我试图了解我需要什么/不需要什么。    由   提交/u/IAskSoMnyQuestions   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/183dsk1/question_about_caddy_and_cloudflare/</guid>
-      <pubDate>Sat, 25 Nov 2023 06:49:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>我认识的最糟糕的程序员</title>
-      <link>https://www.reddit.com/r/webdev/comments/183d2le/the_worst_programmer_i_know/</link>
-      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/183d2le/the_worst_programmer_i_know/</guid>
-      <pubDate>Sat, 25 Nov 2023 06:03:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>是的，有一个名为 @(-.-)/env 的 npm 包，还有其他一些类似的包</title>
-      <link>https://www.reddit.com/r/webdev/comments/183c28r/yes_theres_an_npm_package_called_env_and_some/</link>
-      <description><![CDATA[       由   提交/u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/183c28r/yes_theres_an_npm_package_called_env_and_some/</guid>
-      <pubDate>Sat, 25 Nov 2023 05:01:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>选择 UI 库来设计生产应用程序的前端</title>
-      <link>https://www.reddit.com/r/webdev/comments/183brg7/choosing_ui_library_for_designing_frontend_for/</link>
-      <description><![CDATA[我计划开发一个工具来帮助使用 ChakraUI 和改进的 DX 开发前端。我想知道根据行业标准首选什么。什么最适合生产应用程序？您更喜欢 Chakra UI 还是 Chakra UI + Tailwind CSS？在使用 ChakraUI 时，您是否使用任何其他库来设置组件样式？您如何在 Chakra 中编写 CSS？  您是否知道您是否使用了以下属性？： &lt;Box as=&#39;button&#39; borderRadius=&#39;md&#39; bg=&#39;tomato&#39; color=&#39;white&#39; px={4} h={8}&gt; 按钮  任何其他代码示例的相关详细信息将为 +。 谢谢   由   提交 /u/TheRakeshPurohit   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/183brg7/choosing_ui_library_for_designing_frontend_for/</guid>
-      <pubDate>Sat, 25 Nov 2023 04:44:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>即使在 MDN 的演示中，平滑滚动也不起作用</title>
-      <link>https://www.reddit.com/r/webdev/comments/183b5z9/smooth_scroll_not_working_even_on_mdns_demo/</link>
-      <description><![CDATA[你好。我有一个滚动到页面顶部的按钮，我希望它能够平滑滚动。我将滚动行为设置为平滑，但它仍然不起作用。 我认为这是我做错的事情，所以我检查了 MDN 的演示，它也不起作用。我相信这要么是我的系统的问题（因为 MDN 演示在另一台笔记本电脑上运行得很好），要么是当前的 Edge 和 Chrome 版本（因为另一台笔记本电脑的 Chrome 没有更新到最新版本）。 是它适用于其他任何人，如果是的话，有人知道什么设置（计算机或浏览器）可能会阻止滚动行为的变化吗？ Microsoft Edge 版本 119.0.2151.72 Google Chrome 版本 119.0.6045.160 &gt;   由   提交 /u/dat_Ricki   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/183b5z9/smooth_scroll_not_working_even_on_mdns_demo/</guid>
-      <pubDate>Sat, 25 Nov 2023 04:10:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
