@@ -4,7 +4,21 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Sat, 25 Nov 2023 15:11:57 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Nov 2023 21:10:47 GMT</lastBuildDate>
+    <item>
+      <title>聊天数据</title>
+      <link>https://www.producthunt.com/posts/chat-data</link>
+      <description><![CDATA[
+            强大的人工智能聊天机器人提供卓越的定制
+          
+
+讨论&lt; /a&gt;
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/chat-data</guid>
+      <pubDate>Sat, 25 Nov 2023 09:01:27 GMT</pubDate>
+    </item>
     <item>
       <title>俱乐部全部</title>
       <link>https://www.producthunt.com/posts/clubsall</link>
@@ -20,18 +34,18 @@
       <pubDate>Fri, 24 Nov 2023 20:04:40 GMT</pubDate>
     </item>
     <item>
-      <title>已关闭</title>
-      <link>https://www.producthunt.com/posts/isdown</link>
+      <title>电路°</title>
+      <link>https://www.producthunt.com/posts/circuits-2</link>
       <description><![CDATA[
-            在一处监控所有第三方状态页面
+            美丽且无忧的间隔定时器。
           
 
-讨论
+讨论&lt; /a&gt;
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/isdown</guid>
-      <pubDate>Fri, 24 Nov 2023 15:39:54 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/circuits-2</guid>
+      <pubDate>Fri, 24 Nov 2023 16:41:04 GMT</pubDate>
     </item>
     <item>
       <title>2Stable 的身份验证器应用程序</title>
@@ -48,32 +62,18 @@
       <pubDate>Fri, 24 Nov 2023 11:38:28 GMT</pubDate>
     </item>
     <item>
-      <title>浏览器中的闹钟</title>
-      <link>https://www.producthunt.com/posts/alarm-clock-in-your-browser</link>
+      <title>BookGPTs:互动文学历险记</title>
+      <link>https://www.producthunt.com/posts/bookgpts-interactive-literary-adventures</link>
       <description><![CDATA[
-            不仅仅是一个在线闹钟！
+            通过人工智能驱动的叙事重新体验经典
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/alarm-clock-in-your-browser</guid>
-      <pubDate>Fri, 24 Nov 2023 10:57:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>前神学</title>
-      <link>https://www.producthunt.com/posts/prodeology</link>
-      <description><![CDATA[
-            免费的一体化产品管理平台
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/prodeology</guid>
-      <pubDate>Thu, 23 Nov 2023 16:27:51 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/bookgpts-interactive-literary-adventures</guid>
+      <pubDate>Fri, 24 Nov 2023 10:28:32 GMT</pubDate>
     </item>
     <item>
       <title>So Square：适合照片且无裁剪</title>
@@ -146,7 +146,7 @@
       <pubDate>Sun, 19 Nov 2023 06:52:35 GMT</pubDate>
     </item>
     <item>
-      <title>物品计数器</title>
+      <title>物品柜台</title>
       <link>https://www.producthunt.com/posts/things-counter</link>
       <description><![CDATA[
             数一数一切。简单的。基于网络。移动优先。
@@ -177,7 +177,7 @@
       <title>随时随地 ABC 应用程序</title>
       <link>https://www.producthunt.com/posts/anywhere-abc-app</link>
       <description><![CDATA[
-            用于教孩子阅读的闪存卡应用程序（iOS 和 watchOS）
+            用于教孩子阅读的闪存卡应用（iOS 和 watchOS）
           
 
 讨论
@@ -186,6 +186,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/anywhere-abc-app</guid>
       <pubDate>Sun, 12 Nov 2023 10:04:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>威斯克拉夫特</title>
+      <link>https://www.producthunt.com/posts/wisecraft</link>
+      <description><![CDATA[
+            通过应用心智模型拓展你的思维
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/wisecraft</guid>
+      <pubDate>Wed, 08 Nov 2023 16:35:38 GMT</pubDate>
     </item>
     <item>
       <title>因斯皮克</title>
@@ -200,20 +214,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/inspiq</guid>
       <pubDate>Sun, 05 Nov 2023 14:49:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>召回 - 移动应用程序</title>
-      <link>https://www.producthunt.com/posts/recall-mobile-apps</link>
-      <description><![CDATA[
-            通过总结任何在线内容节省无数时间
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/recall-mobile-apps</guid>
-      <pubDate>Tue, 31 Oct 2023 10:51:25 GMT</pubDate>
     </item>
     </channel>
 </rss>

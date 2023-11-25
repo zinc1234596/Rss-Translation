@@ -4,111 +4,111 @@
     <title>最近添加的项目 - 开源议程</title>
     <link>https://www.opensourceagenda.com/feeds/projects</link>
     <description>最近添加的开源项目源</description>
-    <lastBuildDate>Sat, 25 Nov 2023 15:12:15 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Nov 2023 21:10:58 GMT</lastBuildDate>
     <item>
-      <title>诺兹德福尔特</title>
-      <link>https://www.opensourceagenda.com/projects/nozdflt</link>
+      <title>朋友</title>
+      <link>https://www.opensourceagenda.com/projects/amica</link>
+      <description><![CDATA[Amica 是一个开源接口，用于通过语音合成和语音识别与 3D 角色进行交互式通信。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/amica</guid>
+      <pubDate>Sat, 25 Nov 2023 21:10:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>交易查看高级应用程序</title>
+      <link>https://www.opensourceagenda.com/projects/trading-view-premium-app</link>
       <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/nozdflt</guid>
-      <pubDate>Sat, 25 Nov 2023 15:12:15 GMT</pubDate>
+      <guid>https://www.opensourceagenda.com/projects/trading-view-premium-app</guid>
+      <pubDate>Sat, 25 Nov 2023 21:10:57 GMT</pubDate>
     </item>
     <item>
-      <title>ShinoKana MultipleWindow3dScene</title>
-      <link>https://www.opensourceagenda.com/projects/shinokana-multiplewindow3dscene</link>
-      <description><![CDATA[基于 bgstaal/multipleWindow3dScene]]></description>
-      <guid>https://www.opensourceagenda.com/projects/shinokana-multiplewindow3dscene</guid>
-      <pubDate>Sat, 25 Nov 2023 15:12:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>杰卡尔斯留言</title>
-      <link>https://www.opensourceagenda.com/projects/jeycaarce-message</link>
+      <title>船员人工智能</title>
+      <link>https://www.opensourceagenda.com/projects/crewai</link>
       <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/jeycaarce-message</guid>
-      <pubDate>Sat, 25 Nov 2023 15:12:14 GMT</pubDate>
+      <guid>https://www.opensourceagenda.com/projects/crewai</guid>
+      <pubDate>Sat, 25 Nov 2023 21:10:57 GMT</pubDate>
     </item>
     <item>
-      <title>Akinotaxe91 Fortnite 外部</title>
-      <link>https://www.opensourceagenda.com/projects/akinotaxe91-fortnite-external</link>
+      <title>Autocad 破解</title>
+      <link>https://www.opensourceagenda.com/projects/autocad-cracked</link>
       <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/akinotaxe91-fortnite-external</guid>
-      <pubDate>Sat, 25 Nov 2023 15:12:14 GMT</pubDate>
+      <guid>https://www.opensourceagenda.com/projects/autocad-cracked</guid>
+      <pubDate>Sat, 25 Nov 2023 21:10:57 GMT</pubDate>
     </item>
     <item>
-      <title>IdaBingGTP插件</title>
-      <link>https://www.opensourceagenda.com/projects/idabinggptplugin</link>
-      <description><![CDATA[使用免费的 Microsoft bing 的 gpt 和 ida pro 来执行免费分析！]]></description>
-      <guid>https://www.opensourceagenda.com/projects/idabinggptplugin</guid>
-      <pubDate>Sat, 25 Nov 2023 15:12:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>AD金丝雀</title>
-      <link>https://www.opensourceagenda.com/projects/ad-canaries</link>
-      <description><![CDATA[此项目的目的是发布和维护自动部署 Active Directory 的部署 PowerShell 脚本金丝雀对象。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/ad-canaries</guid>
-      <pubDate>Sat, 25 Nov 2023 15:12:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>作叶1 Mevbot</title>
-      <link>https://www.opensourceagenda.com/projects/sakuha1-mevbot</link>
-      <description><![CDATA[💡 Mev BoT：通过智能、定制的合约解决方案最大化加密货币利润]]></description>
-      <guid>https://www.opensourceagenda.com/projects/sakuha1-mevbot</guid>
-      <pubDate>Sat, 25 Nov 2023 15:12:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>GPTS爬虫数据集</title>
-      <link>https://www.opensourceagenda.com/projects/gpts-crawler-dataset</link>
-      <description><![CDATA[10000+ 很棒的 gpts 存储和 gpts 爬虫]]></description>
-      <guid>https://www.opensourceagenda.com/projects/gpts-crawler-dataset</guid>
-      <pubDate>Sat, 25 Nov 2023 15:12:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>邮件4gpt</title>
-      <link>https://www.opensourceagenda.com/projects/mail4gpt</link>
-      <description><![CDATA[用于 ChatGPT 的 REST API 服务访问您的电子邮件✉️🦜]]></description>
-      <guid>https://www.opensourceagenda.com/projects/mail4gpt</guid>
-      <pubDate>Sat, 25 Nov 2023 15:12:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>祖普</title>
-      <link>https://www.opensourceagenda.com/projects/zoop</link>
-      <description><![CDATA[zig 基准测试库。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/zoop</guid>
-      <pubDate>Sat, 25 Nov 2023 15:12:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Three.js 周五之旅反弹</title>
-      <link>https://www.opensourceagenda.com/projects/threejs-journey-bounce-friday</link>
+      <title>踏实的幸福</title>
+      <link>https://www.opensourceagenda.com/projects/solid-happiness</link>
       <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/threejs-journey-bounce-friday</guid>
-      <pubDate>Sat, 25 Nov 2023 15:12:11 GMT</pubDate>
+      <guid>https://www.opensourceagenda.com/projects/solid-happiness</guid>
+      <pubDate>Sat, 25 Nov 2023 21:10:56 GMT</pubDate>
     </item>
     <item>
-      <title>波兰造币厂</title>
-      <link>https://www.opensourceagenda.com/projects/polsmint</link>
-      <description><![CDATA[PRC-20 POLS 自动化mint脚本（兼容其他EVM链）]]></description>
-      <guid>https://www.opensourceagenda.com/projects/polsmint</guid>
-      <pubDate>Sat, 25 Nov 2023 15:12:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mvc Maven Pos</title>
-      <link>https://www.opensourceagenda.com/projects/mvc-maven-pos</link>
-      <description><![CDATA[ICM 104]]></description>
-      <guid>https://www.opensourceagenda.com/projects/mvc-maven-pos</guid>
-      <pubDate>Sat, 25 Nov 2023 15:12:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>网络摄像头固定终端</title>
-      <link>https://www.opensourceagenda.com/projects/webcam-fixed-terminal</link>
-      <description><![CDATA[多终端体验]]></description>
-      <guid>https://www.opensourceagenda.com/projects/webcam-fixed-terminal</guid>
-      <pubDate>Sat, 25 Nov 2023 15:12:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>吉德拉斯</title>
-      <link>https://www.opensourceagenda.com/projects/ghidraaas</link>
+      <title>重新构想的指南</title>
+      <link>https://www.opensourceagenda.com/projects/reimagined-guide</link>
       <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/ghidraaas</guid>
-      <pubDate>Sat, 25 Nov 2023 15:12:09 GMT</pubDate>
+      <guid>https://www.opensourceagenda.com/projects/reimagined-guide</guid>
+      <pubDate>Sat, 25 Nov 2023 21:10:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>心灵嘉年华</title>
+      <link>https://www.opensourceagenda.com/projects/psychic-fiesta</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/psychic-fiesta</guid>
+      <pubDate>Sat, 25 Nov 2023 21:10:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>2EBLYA 改进的电报</title>
+      <link>https://www.opensourceagenda.com/projects/2eblya-improved-telegram</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/2eblya-improved-telegram</guid>
+      <pubDate>Sat, 25 Nov 2023 21:10:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>超级杜珀奥克托火车</title>
+      <link>https://www.opensourceagenda.com/projects/super-duper-octo-train</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/super-duper-octo-train</guid>
+      <pubDate>Sat, 25 Nov 2023 21:10:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>专家涂鸦</title>
+      <link>https://www.opensourceagenda.com/projects/expert-doodle</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/expert-doodle</guid>
+      <pubDate>Sat, 25 Nov 2023 21:10:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>毛茸茸的章鱼摇摇摆摆</title>
+      <link>https://www.opensourceagenda.com/projects/fluffy-octo-waddle</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/fluffy-octo-waddle</guid>
+      <pubDate>Sat, 25 Nov 2023 21:10:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>两周缩放</title>
+      <link>https://www.opensourceagenda.com/projects/scaling-fortnight</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/scaling-fortnight</guid>
+      <pubDate>Sat, 25 Nov 2023 21:10:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>音乐章引擎</title>
+      <link>https://www.opensourceagenda.com/projects/musical-octo-engine</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/musical-octo-engine</guid>
+      <pubDate>Sat, 25 Nov 2023 21:10:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>强化10</title>
+      <link>https://www.opensourceagenda.com/projects/forti10</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/forti10</guid>
+      <pubDate>Sat, 25 Nov 2023 21:10:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>文件大师</title>
+      <link>https://www.opensourceagenda.com/projects/filemaster</link>
+      <description><![CDATA[一款使用React+Redux+TS+Vite+ material-ui搭建的文件管理系统，其中用到react-image-editor、axios、react-beautiful-dnd、react-dropzone、clsx、redux-logger等依赖库，还使用了eslint+prettier+stylelint规范代码和husky+commitlint+lint-staged规范commit]]></description>
+      <guid>https://www.opensourceagenda.com/projects/filemaster</guid>
+      <pubDate>Sat, 25 Nov 2023 21:10:53 GMT</pubDate>
     </item>
     </channel>
 </rss>

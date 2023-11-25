@@ -4,7 +4,35 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 25 Nov 2023 15:11:50 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Nov 2023 21:10:41 GMT</lastBuildDate>
+    <item>
+      <title>[Nodejs] 发布 Restfuncs 2.0 为 Node 用户带来合适的 http API 和 RPC。</title>
+      <link>https://www.reddit.com/r/opensource/comments/183p9w1/nodejs_releasing_restfuncs_20_to_bring_them_node/</link>
+      <description><![CDATA[灵感来了，当我第一次从 java 切换到 typescript 时，有点震惊：嘿，这些家伙两边都有 typescript（在网络中） ），他们肯定能够轻松地以 RPC 方式通过网络调用其方法。但令我惊讶的是，他们并不是这样的事情，所有人都在做低级 http 请求，从 json 解析和验证参数并评估响应代码，并且 每个端点。除此之外，还有一些 RPC，但它们使用起来很复杂。  所以，长话短说：我希望我可以将 RCP 带回节点 + 一些与 http 通信紧密相关的其他很酷的功能。还要注意内置的 CSRF 保护（看看零配置概念，即使不使用 Nodejs） 这里 是的。  欢迎反馈！    由   提交 /u/Bogeeee   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/183p9w1/nodejs_releasing_restfuncs_20_to_bring_them_node/</guid>
+      <pubDate>Sat, 25 Nov 2023 17:51:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>对于我主要从事商业电力工作的小型电力公司来说，什么是电力投标管理/估算的最佳软件。</title>
+      <link>https://www.reddit.com/r/opensource/comments/183ocqn/what_is_best_software_for_electrical_bid/</link>
+      <description><![CDATA[对于我主要从事商业电力工作的小型电力公司来说，什么是最好的电力投标管理软件。 我的公司主要从事商业电力工作电气工作，我对帮助我对大型工作进行投标或估算的软件感兴趣。寻求最优惠的价格、易于使用、快速（无需花费数小时来完成出价/估算）并且需要准确。    ;由   提交/u/Netman1958  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/183ocqn/what_is_best_software_for_electrical_bid/</guid>
+      <pubDate>Sat, 25 Nov 2023 17:09:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>自动化渗透测试项目</title>
+      <link>https://www.reddit.com/r/opensource/comments/183nx08/automatized_penetration_test_project/</link>
+      <description><![CDATA[大家好！我刚刚完成了我的项目的基础实现，正如描述所示： 托管使用 Node.js 和 TypeScript 与 Express 开发的自动渗透测试套件的存储库。该套件旨在自动执行各种渗透测试任务，从而更轻松地评估系统和应用程序的安全性。” 我目前支持 NMAP 进行扫描，并支持 METASPLOIT 进行漏洞利用部分，但我希望希望添加更多内容。 请随意贡献或向我索取信息！ 我刚刚开始，所以我还有很多工作要做！ :) https://github.com/Simo56/APT-TS   由   提交 /u/Typical-Doughnut7467    reddit.com/r/opensource/comments/183nx08/automatized_penetration_test_project/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/183nx08/automatized_penetration_test_project/</guid>
+      <pubDate>Sat, 25 Nov 2023 16:51:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Golang] 发现 FuncFrog 的强大功能：简化函数式编程。 Go 中具有错误处理功能的并行惰性 Map、Filter 和 Reduce 库。</title>
+      <link>https://www.reddit.com/r/opensource/comments/183msuw/golang_discover_the_power_of_funcfrog_simplifying/</link>
+      <description><![CDATA[ 由   提交/u/Fast_Ad_8502   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/183msuw/golang_discover_the_power_of_funcfrog_simplifying/</guid>
+      <pubDate>Sat, 25 Nov 2023 15:59:52 GMT</pubDate>
+    </item>
     <item>
       <title>使用 Python 的 LibreOffice 扩展：创建和调试</title>
       <link>https://www.reddit.com/r/opensource/comments/183ld3t/libreoffice_extensions_with_python_create_and/</link>
@@ -81,34 +109,6 @@
       <description><![CDATA[在为开源项目做出贡献时，我经常发现自己想得太多。最初的障碍是决定选择哪个项目。虽然我拥有各种语言和框架的经验，但过去一年我一直在使用 Node。 我渴望为一个著名的开源项目做出贡献，但我在选项之间左右为难。 Node 的代码库庞大，看起来太复杂了，而且我缺乏伙伴或导师。我应该考虑像 Qwik 这样的新框架吗？或者也许是一个较小的 npm 库？我感到很困惑。 您对此事有什么建议吗？预先感谢您！   由   提交/u/axeowl000  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/182ew71/how_to_choose_os_project_for_your_os_contribution/</guid>
       <pubDate>Fri, 24 Nov 2023 00:17:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>大家好！有谁知道有什么好的开源设计应用程序吗？</title>
-      <link>https://www.reddit.com/r/opensource/comments/182emon/hi_everyone_does_anyone_know_any_good_opensource/</link>
-      <description><![CDATA[我对设计不太了解。我一直在使用 Canva 并开始学习 Adob​​e Illustrator，但我想找到一些开源的东西（请不要那么难学的东西）。 谢谢！ &lt; !-- SC_ON --&gt;  由   提交 /u/Pink-Unicorn-G   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/182emon/hi_everyone_does_anyone_know_any_good_opensource/</guid>
-      <pubDate>Fri, 24 Nov 2023 00:03:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于隐私和开源项目的一个很长的问题！</title>
-      <link>https://www.reddit.com/r/opensource/comments/182a4lh/a_long_question_about_privacy_and_open_source/</link>
-      <description><![CDATA[嘿伙计们。我正在考虑尝试不向大型科技公司提供信息。我意识到他们可以通过四种主要方式从我们这里获取数据： 操作系统邮件和云社交媒体应用程序和消息传递应用程序浏览器和浏览历史记录我正在考虑并与我的朋友谈论使用开源适用于所有这 4 个类别的应用程序，因为他们说开源应用程序是最安全和最私密的应用程序。但我注意到，例如，Telegram 是一个开源消息应用程序，但该应用程序是开源的，而不是存储我们数据的服务器！所以是的，他们仍然可以出售我们的数据。所以我意识到没有真正的开源消息应用程序或云服务（开源云服务的想法甚至是愚蠢的）。然后我去了列表中的其他项目，我想到了 Brave 浏览器，它是一个浏览器，而不是一个消息应用程序，它不需要服务器，我认为它是真正的私有和开源。但是我朋友说可以说是开源其实也可以不开源！他说他们可以在 github 上放一个开源项目，然后在 Google Play 商店上放另一个带有跟踪器的版本，但没人能意识到。他说如果想要一个真正的开源应用程序，你必须下载github代码并自己使用android studio构建应用程序哈哈。 现在我的问题是：你们认为我朋友是对的吗？如果他是对的，那么黑客怎么能信任他们用于黑客攻击的开源工具呢？如果他是对的，那么就没有真正安全的应用程序可以使用了？   由   提交 /u/BigBlackHawk420   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/182a4lh/a_long_question_about_privacy_and_open_source/</guid>
-      <pubDate>Thu, 23 Nov 2023 20:27:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>远程摄像头</title>
-      <link>https://www.reddit.com/r/opensource/comments/1825joh/remote_camera/</link>
-      <description><![CDATA[大家好， 我正在寻找一款远程摄像头，能够从混凝土后面 10m 的距离将视频传输到我的智能手机上墙壁。我正在寻找的主要功能： - 控制它的开源应用程序 - 或者 - 一个可以在去谷歌手机上运行的不错的应用程序 - 它最好通过蓝牙连接到我的智能手机 - 它通过 AA/AAA 电池供电 -或者 - 至少通过 LiPo 电池供电 它应该位于“pinguin”电池中。外形如下图所示，因此它可以稳定地立在平面上： 这样的形状 我&#39;我在阿里上找到了很多（宠物相机），但我发现的几乎所有这些都严重依赖Google Play，并且需要各种智能手机权限。我不喜欢那些讨厌的专有 Google Play 应用程序，所以我想要一些干净、方便的应用程序。也许是一个受人尊敬的品牌，甚至是一个 DIY 项目。 我将不胜感激任何提示和指示。并感谢您提前的答复。    由   提交/u/DuzheDobzhe  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1825joh/remote_camera/</guid>
-      <pubDate>Thu, 23 Nov 2023 16:55:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>SMRY.ai：利用人工智能的力量彻底改变文章阅读和付费墙绕过。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1822pac/smryai_revolutionizing_article_reading_and/</link>
-      <description><![CDATA[ 由   提交/u/MasterOwnU   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1822pac/smryai_revolutionizing_article_reading_and/</guid>
-      <pubDate>Thu, 23 Nov 2023 14:45:33 GMT</pubDate>
     </item>
     </channel>
 </rss>

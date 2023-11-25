@@ -4,111 +4,111 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 25 Nov 2023 15:11:43 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Nov 2023 21:10:35 GMT</lastBuildDate>
     <item>
-      <title>这个脚本可以用 IG API 实现吗</title>
-      <link>https://www.reddit.com/r/webdev/comments/183lo67/is_this_script_possible_with_ig_api/</link>
-      <description><![CDATA[我想创建一个小应用程序，自动回复在 IG 帖子上@我的个人资料的用户。这可能吗？有谁知道吗？   由   提交/u/Wovasteen  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/183lo67/is_this_script_possible_with_ig_api/</guid>
-      <pubDate>Sat, 25 Nov 2023 15:06:58 GMT</pubDate>
+      <title>现代认证指南</title>
+      <link>https://www.reddit.com/r/webdev/comments/183su5h/modern_authentication_guidance/</link>
+      <description><![CDATA[我只是想让这篇文章尽可能简单，因为我试图了解 Web 应用程序中身份验证的最佳实践。为此，我只想表达自己的想法，并获得一些反馈。我完全预料到在某些事情上我会犯错。我正在寻找指导，以确保我完全了解如何以最安全的方式部署具有身份验证的应用程序。 我远不是安全专家，但我对 JWT 身份验证和会话相对熟悉使用 cookie 进行身份验证。当我开始思考某些场景时，我开始感到非常困惑。我将阐述我的一些想法：  JWT 并不是最安全的方法。这是从 Redis 阅读 此 PDF 以及本·阿瓦德的视频。实现允许/阻止列表本质上与设置会话相同，但开销更大。 使用严格的 SameSite 时，使用 cookie 进行会话身份验证最为安全。  因此，如果您正在构建一个与前端分离的后端（例如 Rails API 和 React FE），那么似乎使用的最安全模式将是会话，并确保应用程序由同一服务器提供服务生产中的域。这可能需要通过像 Nginx 这样的反向代理来实现。 然后在开发中您可以简单地启用 CORS 并启用跨域 cookie。我走在正确的道路上吗？   由   提交 /u/portexe   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/183su5h/modern_authentication_guidance/</guid>
+      <pubDate>Sat, 25 Nov 2023 20:33:48 GMT</pubDate>
     </item>
     <item>
-      <title>Android 手机上的无限滚动重置到页面顶部</title>
-      <link>https://www.reddit.com/r/webdev/comments/183libq/infinite_scroll_on_android_phones_reset_to_the/</link>
-      <description><![CDATA[我在 Android 上浏览时注意到一个特殊问题。每当用户按下后退按钮或滑动到上一页时，滚动位置不会保留在最后已知的位置，而是重置到页面顶部。我确信您在 Android 上使用 Google Chrome 时也遇到过类似的问题。我尝试在  上设置 CSS到固定位置，100vh，并且没有溢出，但问题仍然存在。   由   提交/u/MarketingDifferent25  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/183libq/infinite_scroll_on_android_phones_reset_to_the/</guid>
-      <pubDate>Sat, 25 Nov 2023 14:59:43 GMT</pubDate>
+      <title>[周六炫耀] 为一家会计师事务所完成了一个新网站。采用非常传统的商务专业风格，并获得了完美的 100/100 页面速度分数。</title>
+      <link>https://www.reddit.com/r/webdev/comments/183rum4/showoff_saturday_wrapped_up_a_new_website_for_an/</link>
+      <description><![CDATA[   站点：https: //gsdaccountants.com 有一点乐趣，让他们标志中的灯在黑暗模式下也有闪烁的光芒。一点设计天赋只是为一个非常专业的网站添加更多细节和乐趣。在桌面上添加了一些奇特的滚动动画，因此我们可以稍微折叠标题以节省一些空间，但重要的按钮仍然可见并且能够与之交互。对于任何想要制作类似网站设计的人来说，这应该是一个很好的灵感设计。这一切都是使用 11ty 静态站点生成器通过 html 和 css 完成的。没有库或框架。   由   提交/u/Citrous_Oyster  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/183rum4/showoff_saturday_wrapped_up_a_new_website_for_an/</guid>
+      <pubDate>Sat, 25 Nov 2023 19:48:45 GMT</pubDate>
     </item>
     <item>
-      <title>您在哪里可以找到客户网站的资源？</title>
-      <link>https://www.reddit.com/r/webdev/comments/183lbyx/where_do_you_find_assets_for_your_clients_websites/</link>
-      <description><![CDATA[我目前在客户网站上，我正在寻找各种图像来说明其工作。 例如，网站属于数据科学领域，我希望能够下载与数据科学相关的插图（统计数据、服务器和图表）。 在哪里可以找到这些插图？如果我能找到 SVG 资源，即可获得奖励积分。   由   提交 /u/TotomInc   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/183lbyx/where_do_you_find_assets_for_your_clients_websites/</guid>
-      <pubDate>Sat, 25 Nov 2023 14:50:34 GMT</pubDate>
+      <title>2023 年自由职业者需要学习的最佳技术堆栈是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/183rsbe/what_is_the_best_technology_stack_for_freelancers/</link>
+      <description><![CDATA[从供需比来看，哪种框架或技术更适合像我这样的自由职业农民的职业前景？ &lt; p&gt;换句话说，那些在自由职业市场（而不是公司或企业 IT）招聘的人更经常寻找哪个堆栈？ 我发现 今年的旧帖子似乎暗示了 Laravel 和 Symfony。这仍然成立吗？   由   提交/u/pyeri  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/183rsbe/what_is_the_best_technology_stack_for_freelancers/</guid>
+      <pubDate>Sat, 25 Nov 2023 19:45:47 GMT</pubDate>
     </item>
     <item>
-      <title>我构建了一个网页游戏，允许人们通过蜂鸣器功能举办自定义的类似危险的问答游戏</title>
-      <link>https://www.reddit.com/r/webdev/comments/183l5ct/i_built_a_web_game_that_allows_folks_to_host/</link>
-      <description><![CDATA[    /u/redditindisguise   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/183l5ct/i_built_a_web_game_that_allows_folks_to_host/</guid>
-      <pubDate>Sat, 25 Nov 2023 14:41:19 GMT</pubDate>
+      <title>除非必要，否则不要使用递归</title>
+      <link>https://www.reddit.com/r/webdev/comments/183r2tp/dont_use_recursion_unless_you_have_to/</link>
+      <description><![CDATA[我在学习递归时犯了两个导致堆栈溢出的错误，其中一个错误是我基本上将 `num - 1` 更改为 `num- -`。示例如下： function recursive(num) { if(num === 0) return; return recursive(num--) } 这对我来说很有意义，但显然， `num--` 后减操作数保留该值然后递减它，这意味着该函数将始终调用原始值。  我还有另一个例子，必要时我会展示它，但公平地说，应该避免递归，除非您对自己所做的事情非常有信心。顺便说一句，执行上述函数的正确方法是： function recursive(num) { if(num === 0) return; 返回递归(num - 1) }   由   提交 /u/shalawfatah   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/183r2tp/dont_use_recursion_unless_you_have_to/</guid>
+      <pubDate>Sat, 25 Nov 2023 19:13:30 GMT</pubDate>
     </item>
     <item>
-      <title>成就了摇钱树企业的集合！</title>
-      <link>https://www.reddit.com/r/webdev/comments/183kokh/made_a_collection_of_cash_cow_businesses/</link>
-      <description><![CDATA[ 由   提交/u/xkft  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/183kokh/made_a_collection_of_cash_cow_businesses/</guid>
-      <pubDate>Sat, 25 Nov 2023 14:17:06 GMT</pubDate>
+      <title>基于 ZXing 的包装器/端口或 Quagga 在浏览器中进行 QR 码解码？</title>
+      <link>https://www.reddit.com/r/webdev/comments/183qrtj/zxingbased_wrappers_ports_or_quagga_for_qr_code/</link>
+      <description><![CDATA[我正在构建一个移动优先（甚至可能支持 PWA）的 React Web 应用程序，它需要某种形式的 QR 解码。您认为哪个库是“标准”库？今天？我意识到这是 Web 应用程序中并不经常需要的功能，但也许 Web 开发领域存在普遍趋势。   由   提交 /u/skwyckl   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/183qrtj/zxingbased_wrappers_ports_or_quagga_for_qr_code/</guid>
+      <pubDate>Sat, 25 Nov 2023 18:59:46 GMT</pubDate>
     </item>
     <item>
-      <title>（条纹）动态金额的预定支付？</title>
-      <link>https://www.reddit.com/r/webdev/comments/183kj72/stripe_scheduled_payouts_with_dynamic_amount/</link>
-      <description><![CDATA[我有一个市场应用程序，我想根据服务提供商的销售数量向他们发送付款，因此金额将根据情况动态变化 但是，当我看到条带文档和计划付款时，似乎我们需要在创建计划时定义金额。这看起来很公平。 但是，我想知道是否有一种方法可以创建计划付款，而无需创建自己的 cron 作业或定期发送付款的内容？ 是吗？只能这样工作吗？我们必须创建自己的 cron 作业吗？   由   提交 /u/Superb_Syrup9532   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/183kj72/stripe_scheduled_payouts_with_dynamic_amount/</guid>
-      <pubDate>Sat, 25 Nov 2023 14:09:24 GMT</pubDate>
+      <title>YDKTS：使用标称类型修复 TypeScript 的类型安全性</title>
+      <link>https://www.reddit.com/r/webdev/comments/183qgg1/ydkts_fixing_typescripts_typesafety_with_nominal/</link>
+      <description><![CDATA[   /u/AyyBroLmao   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/183qgg1/ydkts_fixing_typescripts_typesafety_with_nominal/</guid>
+      <pubDate>Sat, 25 Nov 2023 18:45:30 GMT</pubDate>
     </item>
     <item>
-      <title>Astro VS HTMX</title>
-      <link>https://www.reddit.com/r/webdev/comments/183jt7v/astro_vs_htmx/</link>
-      <description><![CDATA[我正在尝试为一个项目学习上述内容之一，我的任务是构建一个登陆页面、一个作品集和一个博客。  那么，哪一个会提出更好的应用程序？。 谢谢。   由   提交 /u/eDyrr   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/183jt7v/astro_vs_htmx/</guid>
-      <pubDate>Sat, 25 Nov 2023 13:31:24 GMT</pubDate>
+      <title>高级开发人员应该知道如何让广告拦截器发挥作用吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/183qasz/should_a_senior_dev_know_how_to_make_adblocker/</link>
+      <description><![CDATA[我有 3 年以上的经验开发经验，我不知道广告拦截器如何分析网站的 js 以阻止某些功能运行（广告）  我也不知道他们如何找到与阻止他们相关的广告的特定请求 我应该知道如何找到所有这些以更好地调试我的应用程序吗？   由   提交 /u/gotgel_fire   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/183qasz/should_a_senior_dev_know_how_to_make_adblocker/</guid>
+      <pubDate>Sat, 25 Nov 2023 18:38:22 GMT</pubDate>
     </item>
     <item>
-      <title>随时随地开发</title>
-      <link>https://www.reddit.com/r/webdev/comments/183jo4x/developing_on_the_go/</link>
-      <description><![CDATA[好吧，我想开始开发项目已经很久了，我已经掌握了基础知识，并计划开始从事小型项目，事情是这样的是的，在我工作的地方，我无法访问计算机或互联网连接，但我有很多时间可以消磨，而我拥有的只是我的手机（android），是否有任何可以用来编码和离线的应用程序如果我需要信息，我可以访问和使用数据库吗？谢谢   由   提交 /u/Ok_North_1984   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/183jo4x/developing_on_the_go/</guid>
-      <pubDate>Sat, 25 Nov 2023 13:23:37 GMT</pubDate>
+      <title>我用 Claude 2.1 制作了一个简单的 AI 代理教程</title>
+      <link>https://www.reddit.com/r/webdev/comments/183q1c6/i_made_a_simple_ai_agent_tutorial_w_claude_21/</link>
+      <description><![CDATA[      大家好， 随着我的学习，尝试养成为我的新频道制作更多面向 AI 的 YouTube 视频的习惯事情公开。本周制作了这个视频，使用 Claude 2.1 构建一个简单的 AI 代理教程。 我想分享它：https://www.youtube.com/watch?v=Z05l7mn0RNQ ​ https://preview.redd.it/rlfec312ej2c1.png?width=3456&amp;format=png&amp;auto=web普安普;s=b79186000575b1165cccefe09600a28f986f3da0   由   提交/u/rich_awo  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/183q1c6/i_made_a_simple_ai_agent_tutorial_w_claude_21/</guid>
+      <pubDate>Sat, 25 Nov 2023 18:26:40 GMT</pubDate>
     </item>
     <item>
-      <title>SCRUM 是不可避免的（不幸的是）</title>
-      <link>https://www.reddit.com/r/webdev/comments/183jkzu/scrum_is_inevitable_unfortunately/</link>
-      <description><![CDATA[ 由   提交/u/gyen  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/183jkzu/scrum_is_inevitable_unfortunately/</guid>
-      <pubDate>Sat, 25 Nov 2023 13:18:50 GMT</pubDate>
+      <title>我的第一个网站！比 Netflix 克隆版更好？</title>
+      <link>https://www.reddit.com/r/webdev/comments/183oqgb/my_first_website_better_than_a_netflix_clone/</link>
+      <description><![CDATA[      我开始学习Web开发，我首先想说的是：很难，但是可行！这个项目花了很多重写和时间，但主要是拖延（多动症，最近发现），为了有一些我准备分享的东西。我不想做一些它的东西唯一的用途是填充投资组合；我想做一些人们使用的东西。 所以，我向您展示文件钱包，Ta-Da！ :)，我的第一个网站，供加密社区使用。 它通过使用文件的数据 URL 和可选密码生成有效的加密钱包（24 个助记词/种子），从而生成经过哈希处理的字符串，用作熵。 （有关更多信息，这里是我关于此的第一篇文章） 官方网址：https://file-wallet.com/ GitHub：https://github.com/AmphibianDev/file-wallet https://i.redd.it/qarswjzt1j2c1.gif 还有什么比奖金约为 330 美元的挑战/谜题更好的方式来启动我的第一个网站(2XMR)。我已在此处发布了详细信息。 我还有很多还有更多需要学习的。例如，这些只是我需要学习/制作的一些东西：  学习如何进行测试，并进行测试（再次拖延！！）。 详细了解如何更好地使用 GitHub 和 Git。 （我喜欢这个视频） 找到一种编译独立 .html 的方法，可以轻松下载并离线使用（对于加密货币社区非常重要）。  还有更多。 在第三点，如果有人可以为我指明正确的方向。我尝试过使用 vite-plugin-singlefile，但由于我对 Ian Coleman BIP39 和 Coinomi BIP39 的加密生成代码的集成不好，我将脚本放在 Public 文件夹中，并且它们是动态加载的，因为我想要 React 代码首先加载加载动画，现在它们不再捆绑在单个文件中。 无论如何，我愿意接受任何反馈，希望您度过愉快的一天。 &lt; /div&gt;  由   提交 /u/AmphibianDev   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/183oqgb/my_first_website_better_than_a_netflix_clone/</guid>
+      <pubDate>Sat, 25 Nov 2023 17:27:24 GMT</pubDate>
     </item>
     <item>
-      <title>开发博客：汇集了 Three.js、WebRTC、MediaRecorder 等，让用户可以为迪士尼新电影《Wish》祈愿明星</title>
-      <link>https://www.reddit.com/r/webdev/comments/183jaq2/dev_blog_brought_together_threejs_webrtc/</link>
-      <description><![CDATA[     &lt; td&gt; 由   提交/u/leemartin  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/183jaq2/dev_blog_brought_together_threejs_webrtc/</guid>
-      <pubDate>Sat, 25 Nov 2023 13:02:49 GMT</pubDate>
+      <title>如何加快为我的团队创建设计系统？</title>
+      <link>https://www.reddit.com/r/webdev/comments/183onnb/how_can_i_speed_up_creating_a_design_system_for/</link>
+      <description><![CDATA[主要由工程师组成的精益团队。你们如何为自己构建 UI 库？或者这是一个大团队的事情？ 希望我的团队有一个 UI 库，以便在我们的网站/网络应用程序中保持一致性。我们使用顺风并内联编写所有内容，因此样式有点不一致   由   提交/u/techsparrowlionpie  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/183onnb/how_can_i_speed_up_creating_a_design_system_for/</guid>
+      <pubDate>Sat, 25 Nov 2023 17:23:34 GMT</pubDate>
     </item>
     <item>
-      <title>我构建了一个 GitHub 存储库流量历史跟踪器，延长了默认的 14 天限制</title>
-      <link>https://www.reddit.com/r/webdev/comments/183j92t/i_built_a_github_repo_traffic_history_tracker/</link>
-      <description><![CDATA[       由   提交/u/m4xshen  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/183j92t/i_built_a_github_repo_traffic_history_tracker/</guid>
-      <pubDate>Sat, 25 Nov 2023 13:00:37 GMT</pubDate>
+      <title>我使用 easywp 在 namecheap 上创建了一个 WordPress 网站。需要上传媒体方面的帮助</title>
+      <link>https://www.reddit.com/r/webdev/comments/183ohss/i_created_a_wordpress_site_on_namecheap_using/</link>
+      <description><![CDATA[基本上，我想使用 WordPress 运行一个电子商务页面。我的媒体文件无法上传，产品页面看起来很糟糕。我错过了什么？ 我应该选择 square 还是 shopify？   由   提交 /u/cooltaj   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/183ohss/i_created_a_wordpress_site_on_namecheap_using/</guid>
+      <pubDate>Sat, 25 Nov 2023 17:16:19 GMT</pubDate>
     </item>
     <item>
-      <title>这些规格对于 webdev 来说足够了吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/183j0dr/are_these_specs_enough_for_webdev/</link>
-      <description><![CDATA[发现有人以非常便宜的价格出售此产品。来自广告： 说明  HP Elitedesk Mini PC Core i5-6500T 处理器 8GB RAM 240 GB SSD 外部蓝牙和 Wifi  我主要关心的是CPU和外部蓝牙和wifi 编辑：通过webdev我指的是一般的软件开发，但主要是Web开发 &lt; p&gt;​   由   提交/u/Many_Lack_3966   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/183j0dr/are_these_specs_enough_for_webdev/</guid>
-      <pubDate>Sat, 25 Nov 2023 12:45:44 GMT</pubDate>
+      <title>为一家建筑公司制作了一个网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/183o9qd/made_a_website_for_a_construction_company/</link>
+      <description><![CDATA[     &lt; /td&gt; 最近，我使用 Next.js 和 Edge Functions 为一家建筑公司创建了一个网站。该网站是静态生成的，并免费部署在 Cloudflare Pages 上。我很享受这次体验，虽然可能不多，但我相信这个设计值得一看。您可以访问链接以获取有关其构建方式的更多信息。也许它可以帮助那些刚开始从事自由职业或诸如此类的人。   由   提交/u/1chbinamin   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/183o9qd/made_a_website_for_a_construction_company/</guid>
+      <pubDate>Sat, 25 Nov 2023 17:06:26 GMT</pubDate>
     </item>
     <item>
-      <title>我如何使用 CSS 来做到这一点？</title>
-      <link>https://www.reddit.com/r/webdev/comments/183il5k/how_do_i_do_this_using_css/</link>
-      <description><![CDATA[      我知道这对你们来说是基本的，但我不知道如何做类似的事情这是我网站的顶部。顺便说一句，图片是用word制作的。   由   提交 /u/Ancient-Adagio902   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/183il5k/how_do_i_do_this_using_css/</guid>
-      <pubDate>Sat, 25 Nov 2023 12:19:59 GMT</pubDate>
+      <title>一个有用的 SaaS 入门者</title>
+      <link>https://www.reddit.com/r/webdev/comments/183o7tp/a_useful_saas_starter/</link>
+      <description><![CDATA[      大家好，我想展示这个我作为独立开发人员刚刚完成的产品。  TL;DR 我构建了一个基于 T3 堆栈的模板应用程序。 我觉得我们现在正处于一个非常有趣的时期，有很多机会可以构建应用。我见过人们通过与 pdf 或类似应用程序交谈等方式赚了很多钱。我想有一种快速的方法来原型化想法并看看什么能坚持下去，所以我制作了一个实际的应用程序：https://transcribely.io，构建为可以轻松定制和重新调整用途，带有文档等。 我确实在其中放入了很多东西，这里是 演示视频。我很想知道你们的想法。 顺便说一句，您可以从 https://shipvoid.com 购买。    由   提交/u/LeNyto  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/183o7tp/a_useful_saas_starter/</guid>
+      <pubDate>Sat, 25 Nov 2023 17:04:07 GMT</pubDate>
     </item>
     <item>
-      <title>合理的收费价格</title>
-      <link>https://www.reddit.com/r/webdev/comments/183ihx4/a_fair_price_to_charge/</link>
-      <description><![CDATA[朋友的朋友被推荐来找我帮助他们重建网站。他是一名专业音乐家，之前曾有人在他们的网站上工作过，但他们后来转向了更大、更复杂的网站。  他有一个 WordPress 网站，并且想要更新他的整个网站（最多 8-10 页）。添加了一些小的定制部件，但没有什么复杂的。  一般来说，当我咨询或自由职业时，它是在营销方面，我通常按小时收费，并且会按 10 小时的增量提前计费。  我只是不是 100% 为此类事情计费的最佳方式。我在我的营销提案中定期构建和更新了 Wordpress，但不仅仅进行了网站重建。我想给他一个公平的价格，但又不想让他觉得我收费过高，从而破坏我们的关系。我之前曾提到并讨论过预算以及他的收费，但从未得到答复。 提前谢谢大家！    ;由   提交/u/Separated  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/183ihx4/a_fair_price_to_charge/</guid>
-      <pubDate>Sat, 25 Nov 2023 12:14:09 GMT</pubDate>
+      <title>组织送礼季</title>
+      <link>https://www.reddit.com/r/webdev/comments/183nyux/organize_the_gift_giving_season/</link>
+      <description><![CDATA[我去年创建了这个网站，以帮助组织与我的朋友和家人一起送礼的季节，从那以后我一直在断断续续地添加内容。  我网站的主要目的是成为您全年持续的愿望清单。每当您看到想要的东西但又不能直接购买时，请将其添加到您的列表中并与朋友和家人分享，这样当您的生日或圣诞节或其他时间到来时，每个人都知道您想要什么。另外值得注意的是，列表所有者无法看到已购买的商品，以便让事情变得惊喜。 仍然是 W.I.P，但我为迄今为止所做的事情感到自豪，这是我的第一个真正的独奏项目，我学到了很多东西。 使用 mongoDB、GraphQL 和 apolloexpress 进行 React 前端。  非常感谢您的反馈。   由   提交 /u/Ryobia   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/183nyux/organize_the_gift_giving_season/</guid>
+      <pubDate>Sat, 25 Nov 2023 16:53:31 GMT</pubDate>
     </item>
     <item>
-      <title>无法弄清楚我应该使用什么来构建我的前端+后端网站以及在哪里托管它。</title>
-      <link>https://www.reddit.com/r/webdev/comments/183gp7i/cant_figure_out_what_i_should_use_to_build_my/</link>
-      <description><![CDATA[我熟悉 hmtl、css、sql 和 python。 到目前为止，我只使用 html 在本地创建网站，css和一点JS。但现在我已经学习了 python 和 sql，我想创建一个网站，显示数据库中的数据，并能够查询某些结果并将其显示在网站上。 我虽然使用 html前端使用 css（带 bootstrap），并使用 django 框架（我以前从未使用过），因为它使用 python 和 MySQL。 但是设置网站以及如何托管的不同方法有很多它，有点压倒性的。这就是为什么我正在寻找一些指导或明确我应该走哪条路。所以我不会把时间浪费在那些不起作用或没有电缆的事情上。  这是一个好主意，还是我可能错过了一些东西或设置它的困难？ 我也想公开托管这个网站，但不知道从哪里开始。  p&gt; ​ 感谢您的任何建议。如果有不清楚的地方，请告诉我。  ​   由   提交/u/SneakyMan01   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/183gp7i/cant_figure_out_what_i_should_use_to_build_my/</guid>
-      <pubDate>Sat, 25 Nov 2023 10:11:07 GMT</pubDate>
+      <title>PHP死了吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/183ns7q/is_php_dead/</link>
+      <description><![CDATA[还用PHP吗？我可以提高自己的 PHP 水平吗？   由   提交 /u/RedDevils52   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/183ns7q/is_php_dead/</guid>
+      <pubDate>Sat, 25 Nov 2023 16:45:03 GMT</pubDate>
     </item>
     </channel>
 </rss>

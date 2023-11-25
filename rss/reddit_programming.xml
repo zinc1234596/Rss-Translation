@@ -4,7 +4,42 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Sat, 25 Nov 2023 15:11:09 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Nov 2023 21:10:14 GMT</lastBuildDate>
+    <item>
+      <title>New Outfit Reveal + 25k celebration + Gentoo Install on Arch Linux 🍂 新衣装！在这里等你!!</title>
+      <link>https://www.reddit.com/r/programming/comments/183tcws/new_outfit_reveal_25k_celebration_gentoo_install/</link>
+      <description><![CDATA[ 由   提交/u/cyannyan6  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/183tcws/new_outfit_reveal_25k_celebration_gentoo_install/</guid>
+      <pubDate>Sat, 25 Nov 2023 20:58:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>中国黑客窃取荷兰主要半导体公司的芯片设计</title>
+      <link>https://www.reddit.com/r/programming/comments/183t5zx/chinese_hackers_steal_chip_designs_from_major/</link>
+      <description><![CDATA[ 由   提交 /u/Mariambarouma   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/183t5zx/chinese_hackers_steal_chip_designs_from_major/</guid>
+      <pubDate>Sat, 25 Nov 2023 20:49:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>让 C 代码更漂亮（《让 C 代码更丑》的续集）</title>
+      <link>https://www.reddit.com/r/programming/comments/183qzv1/making_c_code_prettier_sequel_to_making_c_code/</link>
+      <description><![CDATA[ 由   提交/u/aartaka  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/183qzv1/making_c_code_prettier_sequel_to_making_c_code/</guid>
+      <pubDate>Sat, 25 Nov 2023 19:09:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Direct2D 锐化、拉直、晕影、高光、阴影、色温和色调照片效果</title>
+      <link>https://www.reddit.com/r/programming/comments/183nm7u/sharpen_straighten_vignette_highlights_shadows/</link>
+      <description><![CDATA[ 由   提交/u/ovidiusucu  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/183nm7u/sharpen_straighten_vignette_highlights_shadows/</guid>
+      <pubDate>Sat, 25 Nov 2023 16:37:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>内核开发初学者教程！</title>
+      <link>https://www.reddit.com/r/programming/comments/183m5u3/kernel_development_for_beginners_tutorial/</link>
+      <description><![CDATA[ 由   提交/u/Double-Ad-865   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/183m5u3/kernel_development_for_beginners_tutorial/</guid>
+      <pubDate>Sat, 25 Nov 2023 15:30:34 GMT</pubDate>
+    </item>
     <item>
       <title>GitQL 0.9.0 发布，带有 Time、Date 和 DateTime 隐式转换</title>
       <link>https://www.reddit.com/r/programming/comments/183ktty/gitql_090_is_released_with_time_date_and_datetime/</link>
@@ -18,13 +53,6 @@
       <description><![CDATA[ 由   提交/u/luciferreeves  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/183kqq6/packrat_parsing_and_parsing_expression_grammars/</guid>
       <pubDate>Sat, 25 Nov 2023 14:20:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么将其命名为 NullPointerException...</title>
-      <link>https://www.reddit.com/r/programming/comments/183kalo/why_name_it_nullpointerexception/</link>
-      <description><![CDATA[…当Java没有指针时🤩   由   提交 /u/WhereDoWeGoFromHereN   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/183kalo/why_name_it_nullpointerexception/</guid>
-      <pubDate>Sat, 25 Nov 2023 13:57:30 GMT</pubDate>
     </item>
     <item>
       <title>从命令行访问备忘单</title>
@@ -69,16 +97,9 @@
       <pubDate>Sat, 25 Nov 2023 08:17:02 GMT</pubDate>
     </item>
     <item>
-      <title>[东京奥运会] 2020年东京奥运会 为韩国加油 / BTS - 与阿里郎一起跆拳道 / 渴望金牌 / 呃...</title>
-      <link>https://www.reddit.com/r/programming/comments/183e2xq/도쿄올림픽_tokyo_olympic_2020_대한민국을_응원합니다_bts_아리랑과/</link>
-      <description><![CDATA[2020 年奥运会   由   提交/u/LegitimateAd7353   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/183e2xq/도쿄올림픽_tokyo_olympic_2020_대한민국을_응원합니다_bts_아리랑과/</guid>
-      <pubDate>Sat, 25 Nov 2023 07:08:30 GMT</pubDate>
-    </item>
-    <item>
       <title>“左移”——这是什么意思？</title>
       <link>https://www.reddit.com/r/programming/comments/183ap5x/shift_leftwtf_does_it_mean/</link>
-      <description><![CDATA[ 由   提交/u/creativefisher   [链接] [评论]]]></description>
+      <description><![CDATA[ 由   提交 /u/creativefisher   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/183ap5x/shift_leftwtf_does_it_mean/</guid>
       <pubDate>Sat, 25 Nov 2023 03:43:45 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1838wwe/invariants_a_better_debugger_alternative_way_of/</guid>
       <pubDate>Sat, 25 Nov 2023 02:12:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>我为 R 编写了一个 Forth 环境，因为……为什么不呢</title>
-      <link>https://www.reddit.com/r/programming/comments/1835ttg/i_wrote_a_forth_environment_for_r_becausewhy_not/</link>
-      <description><![CDATA[无论您喜欢 Forth 还是从未听说过它，您都可以使用 froth 在 R 中编写类似 Forth 的内容包裹。此链接包含可以从 R 运行的原始 Starting Forth 的修改版本，其中包含（相对）深入的 Forth 语言教程。对于那些从未听说过 Forth 的人来说，这是一种来自 1970 年的非常酷的面向堆栈的编程语言。 该软件包可在 CRAN 上使用，并实现了大多数标准 Forth 功能，以及与 R 的接口。缺少一些功能（例如 &#39; 运算符），但我正在研究它们。   由   提交/u/Peiple  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1835ttg/i_wrote_a_forth_environment_for_r_becausewhy_not/</guid>
-      <pubDate>Fri, 24 Nov 2023 23:48:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>garn v0.0.16 发布：插件、vite 支持、github 页面支持</title>
-      <link>https://www.reddit.com/r/programming/comments/1832hha/garn_v0016_released_plugins_vite_support_github/</link>
-      <description><![CDATA[ 由   提交/u/soenke_hahn   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1832hha/garn_v0016_released_plugins_vite_support_github/</guid>
-      <pubDate>Fri, 24 Nov 2023 21:22:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>掌握 C# 后端开发：5 项基本技能</title>
-      <link>https://www.reddit.com/r/programming/comments/1832gdv/mastering_backend_development_in_c_5_essential/</link>
-      <description><![CDATA[ 由   提交/u/bizzehdee  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1832gdv/mastering_backend_development_in_c_5_essential/</guid>
-      <pubDate>Fri, 24 Nov 2023 21:20:57 GMT</pubDate>
     </item>
     </channel>
 </rss>
