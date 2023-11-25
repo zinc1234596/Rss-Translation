@@ -4,12 +4,52 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Sat, 25 Nov 2023 07:41:17 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Nov 2023 12:03:17 GMT</lastBuildDate>
+    <item>
+      <title>Darktable：慢动作撞墙</title>
+      <link>https://t.me/hn_summary/60629</link>
+      <description><![CDATA[Darktable：慢动作撞墙 
+本文讨论了用于照片编辑的软件 Darktable 的问题。作者批评开发过程中缺乏结构和方法，以及对既定交互范式的漠视。他们强调了模块组的问题以及将 GUI 中的模块顺序与管道顺序解耦而造成的混乱。作者还批评了用于配置选项卡中模块布局的复杂工具以及键盘快捷键的困难。他们提到了糟糕的优先级管理以及变化带来的边缘效应。文章最后提到了软件中的一个错误以及用于修复该错误的过多代码行。 （根据故事文本的 16% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/60629</guid>
+      <pubDate>Sat, 25 Nov 2023 12:03:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>停止对用户会话使用 JSON Web 令牌</title>
+      <link>https://t.me/hn_summary/60628</link>
+      <description><![CDATA[停止在用户会话中使用 JSON Web 令牌
+本文讨论了在现代 Web 应用程序中使用 JSON Web 令牌 (JWT) 进行会话处理，并强调了无效注销机制的问题。它强调出于安全原因从 Web 应用程序注销的重要性，特别是在网上银行等敏感应用程序中。文章指出，当使用 JWT 实现注销功能时，令牌通常存储在不安全的位置，从而容易受到攻击。最坏的情况是攻击者发现跨站脚本 (XSS) 漏洞，允许他们访问和利用 JWT 来获得对应用程序的未经授权的访问。作者建议使用基于 cookie 的会话机制以及 HttpOnly 等属性可以防止此类攻击。]]></description>
+      <guid>https://t.me/hn_summary/60628</guid>
+      <pubDate>Sat, 25 Nov 2023 11:18:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]差点作弊</title>
+      <link>https://t.me/hn_summary/60627</link>
+      <description><![CDATA[差点作弊
+在这篇博文中，作者分享了他们在一次猜测中解决 Wordle 的经验，并讨论了他们改变起始猜测的决定。他们澄清说，他们在自己控制的服务器上播放 Wordle 的原始版本，而不是《纽约时报》版本。然后，作者解释了他们选择新的初始猜测的过程，使用字母频率表并检查该单词是否已经是答案。他们还提到了如何从 Wordle JavaScript 源代码中提取答案和可接受的猜测。作者最后承认，一些读者可能认为他们的方法是作弊，但驳回了任何批评。]]></description>
+      <guid>https://t.me/hn_summary/60627</guid>
+      <pubDate>Sat, 25 Nov 2023 10:46:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 安全链接 WiFi 路由器 (2022)</title>
+      <link>https://t.me/hn_summary/60626</link>
+      <description><![CDATA[安全链接 WiFi 路由器 (2022)
+本文讨论了构建安全的家庭 WiFi 网络同时平衡易用性和连接性的挑战。它探讨了链接路由器的三种选项并强调了最佳方法。不建议使用选项#3，将互联网连接到安全路由器，然后将访客路由器插入安全路由器，因为它允许访客设备访问安全网络。选项 #2 使用拆分 ESSID，在可用性和安全性方面进行权衡。推荐的选项是选项#1，其中访客网络直接连接到互联网，安全路由器插入访客路由器。文章还提到了使用 Multi PSK 和 VLAN 进行强隔离，并重点介绍了 SPR（安全路由器）在支持与现有路由器的安全连接方面的功能。]]></description>
+      <guid>https://t.me/hn_summary/60626</guid>
+      <pubDate>Sat, 25 Nov 2023 09:45:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]关于有效利他主义的俳句</title>
+      <link>https://t.me/hn_summary/60625</link>
+      <description><![CDATA[关于有效利他主义的俳句
+该网络内容由一系列有关有效利他主义 (EA) 的俳句组成，这是一种提倡使用证据和理性做世界上最大善事的哲学。俳句涉及与 EA 相关的各种主题，包括人工智能安全、慈善、理性和个人经历。有些俳句包含有争议或挑衅性的言论，例如提到没有黑人朋友或使用攻击性语言。俳句提供了一种独特且富有创意的方式来在 EA 社区内表达想法和观点。]]></description>
+      <guid>https://t.me/hn_summary/60625</guid>
+      <pubDate>Sat, 25 Nov 2023 09:19:59 GMT</pubDate>
+    </item>
     <item>
       <title>[媒体] 木乃伊！</title>
       <link>https://t.me/hn_summary/60624</link>
       <description><![CDATA[木乃伊！
-《木乃伊！二十二世纪的故事》是简·韦伯（后来的简·C·劳登）于 1827 年出版的三卷本小说，讲述了埃及奇奥普斯木乃伊被带回来的故事。 2126 年复活。这部小说被认为是第一部以复活木乃伊为主角的英语故事。韦伯从拿破仑入侵期间对古埃及的迷恋、公开拆开木乃伊的包装以及玛丽·雪莱的《弗兰肯斯坦》中汲取了灵感。与其他早期科幻作品不同，劳登的小说描绘了一个充满先进技术和社会变革的未来。它因其讽刺和幽默的元素而受到称赞，被认为是一部女性主义小说。]]></description>
+《木乃伊！二十二世纪的故事》是简·韦伯（后来的简·C·劳登）于 1827 年出版的三卷本小说，讲述了埃及奇奥普斯木乃伊被带回来的故事。 2126 年复活。这部小说被认为是第一部以复活木乃伊为主角的英语故事。韦伯从拿破仑入侵期间对古埃及的迷恋、公开拆开的木乃伊以及玛丽·雪莱的《弗兰肯斯坦》中汲取了灵感。与其他早期科幻作品不同，劳登的小说描绘了一个充满先进技术和社会变革的未来。它因其讽刺和幽默的元素而受到称赞，被认为是一部女性主义小说。]]></description>
       <guid>https://t.me/hn_summary/60624</guid>
       <pubDate>Sat, 25 Nov 2023 07:41:17 GMT</pubDate>
     </item>
@@ -44,46 +84,6 @@
 此网页内容是乔治·卢卡斯 (George Lucas) 于 1974 年撰写的《星球大战》初稿的 PDF。该草稿首先描述了 Utapau 星球，并介绍了 JEDI BENDU，他们曾经是令人畏惧的战士，但现在几乎灭绝了。故事讲述了主角安尼金·弑星者遇到一艘宇宙飞船，并与他的父亲和兄弟一起在补给小屋避难的故事。他们讨论他们面临的威胁并准备战斗。选秀结束时，安尼金因不被允许与父亲一起对抗而感到沮丧。 （根据故事文字的 2% 进行摘要。）]]></description>
       <guid>https://t.me/hn_summary/60620</guid>
       <pubDate>Sat, 25 Nov 2023 06:00:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] Show HN：GPT Store 的开源替代方案</title>
-      <link>https://t.me/hn_summary/60619</link>
-      <description><![CDATA[显示 HN：GPT 商店的开源替代方案
-Cognite 是 OpenAI GPT Store 的开源替代品。它是使用 Next.js 和 LangChain.js 构建的 AI 后端，包括嵌入和聊天功能。该项目旨在提供用于创建和管理人工智能模型的全栈框架。它使用 Prisma 来简化数据库交互，并使用 shadcn-ui 作为 UI 框架。该项目根据 AGPL v3 许可证获得许可。该项目与其他项目的区别在于，它提供了 GPT Store 的开源替代方案，允许用户对其 AI 模型进行更多控制和定制。]]></description>
-      <guid>https://t.me/hn_summary/60619</guid>
-      <pubDate>Sat, 25 Nov 2023 05:51:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>询问 HN：YouTube Premium 订阅者是否会被迫观看广告？</title>
-      <link>https://t.me/hn_summary/60618</link>
-      <description><![CDATA[询问 HN：YouTube Premium 订阅者是否会被迫观看广告？ 
-此网络内容的作者表达了他们对 YouTube Premium 订阅的未来的担忧。他们质疑订户最终是否会被迫观看广告，特别是考虑到他们已经支付了服务费用。作者认为，通过订阅Premium，用户向YouTube表明他们愿意支付任何要求的价格，从而使该平台有动力提高订阅价格或引入广告。作者建议，这可能会导致 YouTube Ultra 的推出，这是一种价格更高、具有附加功能的订阅级别。]]></description>
-      <guid>https://t.me/hn_summary/60618</guid>
-      <pubDate>Sat, 25 Nov 2023 05:50:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>ArchiveTeam 正在避免 Blogger 被 Google 删除</title>
-      <link>https://t.me/hn_summary/60617</link>
-      <description><![CDATA[ArchiveTeam 正在防止 Blogger 被 Google 删除
-ArchiveTeam 正在努力避免 Blogger 被 Google 删除。他们创建了 ArchiveTeam Warrior，这是一种虚拟归档设备，任何人都可以在自己的计算机上运行，​​以帮助完成归档工作。战士将下载网站并将其上传到 ArchiveTeam 的存档中。它易于使用，可在 Windows、OS X 和 Linux 上运行。用户只需下载该设备并使用 VirtualBox 或类似程序运行它。一旦 Warrior 运行，用户就可以选择一个项目来进行工作并在排行榜上跟踪他们的进度。]]></description>
-      <guid>https://t.me/hn_summary/60617</guid>
-      <pubDate>Sat, 25 Nov 2023 05:39:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>《Topo》杂志用漫画向法国青少年讲述新闻</title>
-      <link>https://t.me/hn_summary/60616</link>
-      <description><![CDATA[Topo 杂志用漫画向法国青少年讲述新闻
-《Topo》杂志是一本总部位于巴黎的插图新闻杂志，旨在吸引年轻读者，特别是儿童和青少年，了解时事。该杂志采用连环漫画的形式，以俏皮有趣的方式呈现新闻文章，为每个故事提供年轻人需要的背景。 Topo 成立于 2016 年，是季刊《La Revue Dessinée》的“妹妹”，使用相同的图画小说格式向成年人讲述新闻。该杂志有一个由编辑、记者和漫画家组成的小团队，他们合作创作每一篇文章。 Topo 目前拥有约 5,000 名订阅者，并正在探索机构订阅以吸引更多读者。然而，由于制作成本上升，该杂志正面临财务挑战。]]></description>
-      <guid>https://t.me/hn_summary/60616</guid>
-      <pubDate>Sat, 25 Nov 2023 05:37:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 接种疫苗的人感染新冠病毒的可能性降低了四倍</title>
-      <link>https://t.me/hn_summary/60615</link>
-      <description><![CDATA[接种疫苗的人感染新冠病毒的可能性降低四倍
-《BMJ》上发表的一项新研究表明，与未接种疫苗的人相比，在出现第一例 COVID-19 病例之前接种疫苗的人患长 COVID-19 的可能性几乎低四倍。这项研究分析了瑞典超过 50 万成年人的数据，发现在感染前每多注射一剂疫苗，就能针对脑雾和疲劳等长期症状提供额外的保护。感染前单剂可将长新冠病毒的风险降低 21%，两剂可降低 59%，三剂或以上可降低 73%。该研究还发现，疫苗对 55 岁至 64 岁的男性和成年人特别有效。不过，值得注意的是，该研究仅考察了原始的 COVID-19 疫苗，并未评估再次感染后的长期 COVID 疫苗或新加强疫苗的影响。虽然研究结果令人鼓舞，但重要的是要记住，像这样的观察性研究无法明确证明因果关系。]]></description>
-      <guid>https://t.me/hn_summary/60615</guid>
-      <pubDate>Sat, 25 Nov 2023 05:14:16 GMT</pubDate>
     </item>
     </channel>
 </rss>

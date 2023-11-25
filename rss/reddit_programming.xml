@@ -4,7 +4,42 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Sat, 25 Nov 2023 09:10:29 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Nov 2023 12:18:55 GMT</lastBuildDate>
+    <item>
+      <title>分布式系统中的一致性模型</title>
+      <link>https://www.reddit.com/r/programming/comments/183idtw/consistency_models_in_distributed_systems/</link>
+      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/183idtw/consistency_models_in_distributed_systems/</guid>
+      <pubDate>Sat, 25 Nov 2023 12:07:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>SCRUM 是不可避免的（不幸的是）</title>
+      <link>https://www.reddit.com/r/programming/comments/183h2ks/scrum_is_inevitable_unfortunately/</link>
+      <description><![CDATA[ 由   提交/u/gyen  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/183h2ks/scrum_is_inevitable_unfortunately/</guid>
+      <pubDate>Sat, 25 Nov 2023 10:37:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>[PostgreSQL] 田纳西大学 GIS 和数据科学家的空间数据管理</title>
+      <link>https://www.reddit.com/r/programming/comments/183gkos/postgresql_university_of_tennessee_spatial_data/</link>
+      <description><![CDATA[ 由   提交/u/pmz   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/183gkos/postgresql_university_of_tennessee_spatial_data/</guid>
+      <pubDate>Sat, 25 Nov 2023 10:02:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>软件架构 - 选择正确数据库的初学者指南 - SQL 与 NoSQL</title>
+      <link>https://www.reddit.com/r/programming/comments/183g5zr/software_architecture_beginners_guide_on_choosing/</link>
+      <description><![CDATA[ 由   提交/u/java_nerd_69   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/183g5zr/software_architecture_beginners_guide_on_choosing/</guid>
+      <pubDate>Sat, 25 Nov 2023 09:33:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>选择正确数据库的初学者指南 - SQL 与 NoSQL</title>
+      <link>https://www.reddit.com/r/programming/comments/183g1fi/beginners_guide_on_choosing_right_database_sql_vs/</link>
+      <description><![CDATA[ 由   提交/u/java_nerd_69   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/183g1fi/beginners_guide_on_choosing_right_database_sql_vs/</guid>
+      <pubDate>Sat, 25 Nov 2023 09:24:31 GMT</pubDate>
+    </item>
     <item>
       <title>我的 Web 开发之旅（自学）</title>
       <link>https://www.reddit.com/r/programming/comments/183fal9/my_journey_to_web_development_self_taught/</link>
@@ -29,7 +64,7 @@
     <item>
       <title>“左移”——这是什么意思？</title>
       <link>https://www.reddit.com/r/programming/comments/183ap5x/shift_leftwtf_does_it_mean/</link>
-      <description><![CDATA[ 由   提交 /u/creativefisher   [链接] [评论]]]></description>
+      <description><![CDATA[ 由   提交/u/creativefisher   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/183ap5x/shift_leftwtf_does_it_mean/</guid>
       <pubDate>Sat, 25 Nov 2023 03:43:45 GMT</pubDate>
     </item>
@@ -41,7 +76,7 @@
       <pubDate>Sat, 25 Nov 2023 02:12:56 GMT</pubDate>
     </item>
     <item>
-      <title>【文章资源】Packrat解析和解析表达式语法</title>
+      <title>【文章资源】Packrat解析与解析表达式语法</title>
       <link>https://www.reddit.com/r/programming/comments/1836l1w/article_resource_packrat_parsing_and_parsing/</link>
       <description><![CDATA[ 由   提交/u/luciferreeves  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1836l1w/article_resource_packrat_parsing_and_parsing/</guid>
@@ -74,41 +109,6 @@
       <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1831zo4/a_blog_post_with_every_html_element/</guid>
       <pubDate>Fri, 24 Nov 2023 21:01:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>西塞罗</title>
-      <link>https://www.reddit.com/r/programming/comments/1831qsc/cicero/</link>
-      <description><![CDATA[ 由   提交 /u/DrinkMoreCodeMore   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1831qsc/cicero/</guid>
-      <pubDate>Fri, 24 Nov 2023 20:50:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>沟通效率：写作与口语</title>
-      <link>https://www.reddit.com/r/programming/comments/182zqyj/communication_efficiency_writing_vs_speaking/</link>
-      <description><![CDATA[ 由   提交/u/ryanlpeterman   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/182zqyj/communication_efficiency_writing_vs_speaking/</guid>
-      <pubDate>Fri, 24 Nov 2023 19:20:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>C++ 需要未定义的行为，但可能更少</title>
-      <link>https://www.reddit.com/r/programming/comments/182y7c3/c_needs_undefined_behavior_but_maybe_less/</link>
-      <description><![CDATA[ 由   提交/u/waozen  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/182y7c3/c_needs_undefined_behavior_but_maybe_less/</guid>
-      <pubDate>Fri, 24 Nov 2023 18:10:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 ggml 的纯 C/C++ 语言的推理视觉转换器 (ViT)</title>
-      <link>https://www.reddit.com/r/programming/comments/182xyvh/inference_vision_transformer_vit_in_plain_cc_with/</link>
-      <description><![CDATA[ 由   提交/u/Ok-Equipment9840   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/182xyvh/inference_vision_transformer_vit_in_plain_cc_with/</guid>
-      <pubDate>Fri, 24 Nov 2023 18:00:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>CPython 对象系统内部结构：了解 PyObject 的作用</title>
-      <link>https://www.reddit.com/r/programming/comments/182xclm/cpython_object_system_internals_understanding_the/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/182xclm/cpython_object_system_internals_understanding_the/</guid>
-      <pubDate>Fri, 24 Nov 2023 17:32:34 GMT</pubDate>
     </item>
     </channel>
 </rss>

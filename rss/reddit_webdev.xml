@@ -4,7 +4,35 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 25 Nov 2023 09:10:46 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Nov 2023 12:19:24 GMT</lastBuildDate>
+    <item>
+      <title>合理的收费价格</title>
+      <link>https://www.reddit.com/r/webdev/comments/183ihx4/a_fair_price_to_charge/</link>
+      <description><![CDATA[朋友的朋友被推荐来找我帮助他们重建网站。他是一名专业音乐家，之前曾有人在他们的网站上工作过，但他们后来转向了更大、更复杂的网站。  他有一个 WordPress 网站，并且想要更新他的整个网站（最多 8-10 页）。添加了一些小的定制部件，但没有什么复杂的。  一般来说，当我咨询或自由职业时，它是在营销方面，我通常按小时收费，并且会按 10 小时的增量提前计费。  我只是不是 100% 为此类事情计费的最佳方式。我在我的营销提案中定期构建和更新了 Wordpress，但不仅仅进行了网站重建。我想给他一个公平的价格，但又不想让他觉得我收费过高，从而破坏我们的关系。我之前曾提到并讨论过预算以及他的收费，但从未得到答复。 提前谢谢大家！    ;由   提交/u/Separated  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/183ihx4/a_fair_price_to_charge/</guid>
+      <pubDate>Sat, 25 Nov 2023 12:14:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>无法弄清楚我应该使用什么来构建我的前端+后端网站以及在哪里托管它。</title>
+      <link>https://www.reddit.com/r/webdev/comments/183gp7i/cant_figure_out_what_i_should_use_to_build_my/</link>
+      <description><![CDATA[我熟悉 hmtl、css、sql 和 python。 到目前为止，我只使用 html 在本地创建网站，css和一点JS。但现在我已经学习了 python 和 sql，我想创建一个网站，显示数据库中的数据，并能够查询某些结果并将其显示在网站上。 我虽然使用 html前端使用 css（带 bootstrap），并使用 django 框架（我以前从未使用过），因为它使用 python 和 MySQL。 但是设置网站以及如何托管的不同方法有很多它，有点压倒性的。这就是为什么我正在寻找一些指导或明确我应该走哪条路。所以我不会把时间浪费在那些不起作用或没有电缆的事情上。  这是一个好主意，还是我可能错过了一些东西或设置它的困难？ 我也想公开托管这个网站，但不知道从哪里开始。  p&gt; ​ 感谢您的任何建议。如果有不清楚的地方，请告诉我。  ​   由   提交/u/SneakyMan01   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/183gp7i/cant_figure_out_what_i_should_use_to_build_my/</guid>
+      <pubDate>Sat, 25 Nov 2023 10:11:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>制作了一个 NSFW 滚动条</title>
+      <link>https://www.reddit.com/r/webdev/comments/183gn0p/made_an_nsfw_scroller/</link>
+      <description><![CDATA[不久前发布了此内容并得到了一些积极的反馈。没有网络开发背景，只是边学边做。该提要已得到改进，因此当您选择视频时，它会获取您可以滚动浏览的其他类似视频。目前正在开发一种学习算法，供登录用户个性化提要。 很高兴听到您可能有的任何反馈或建议。  &amp; #32；由   提交 /u/Fenror   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/183gn0p/made_an_nsfw_scroller/</guid>
+      <pubDate>Sat, 25 Nov 2023 10:07:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>这是 OAuth2.0/OpenID-Connect 的滥用吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/183gd0w/is_this_a_misuse_of_oauth20openidconnect/</link>
+      <description><![CDATA[大家好，我正在为我们的微服务架构设置身份验证，但我有点卡住了。该公司只处理“内部”事务。用户和应用程序（客户和公司自己开发和维护的应用程序），无需第三方应用程序访问/授权。主要目标是让前端安全地与我们的后端服务通信，发送包含用户角色的令牌。 由于我们使用 Azure AD B2C 等主要 CIAM 解决方案，因此我们为此使用 OAuth2.0。但由于 OAuth 2.0 通常用于第三方访问（RFC 6749），而我对该领域的经验并不丰富，而且有些陌生，我想知道它是否对于需求来说太复杂了。我们希望避免不必要的开发开销。 这个决定在我加入之前就已经做出了。然而，我们的要求只是让我们自己的前端系统与后端进行通信，需要一个基于令牌的系统嵌入用户角色，而不是为第三方应用程序设计的传统的基于范围的访问控制。 对于我这个非常缺乏经验的人来说，这似乎是 OAuth2.0 滥用的一个典型例子，因为我们的应用程序的范围在这里并不是真正需要的（只需发送用户令牌就可以了）。只是一个包含用户角色的 JWT，以便后端可以从中获取权限。但由于主要的 CIAM 系统仅提供 OAuth 和 SAML，我有点困惑，因为我无法想象大多数公司都需要第三方应用程序授权。 如果这里有人的话那就太好了可以为黑暗带来一些曙光。预先感谢您！   由   提交/u/mangyCarl3  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/183gd0w/is_this_a_misuse_of_oauth20openidconnect/</guid>
+      <pubDate>Sat, 25 Nov 2023 09:47:27 GMT</pubDate>
+    </item>
     <item>
       <title>CFRS[] - 极其简单的海龟图形，只有 6 个简单命令：C、F、R、S、[ 和 ]</title>
       <link>https://www.reddit.com/r/webdev/comments/183fnrs/cfrs_extremely_minimal_turtle_graphics_with_only/</link>
@@ -81,34 +109,6 @@
       <description><![CDATA[你好。我有一个滚动到页面顶部的按钮，我希望它能够平滑滚动。我将滚动行为设置为平滑，但它仍然不起作用。 我认为这是我做错的事情，所以我检查了 MDN 的演示，它也不起作用。我相信这要么是我的系统的问题（因为 MDN 演示在另一台笔记本电脑上运行得很好），要么是当前的 Edge 和 Chrome 版本（因为另一台笔记本电脑的 Chrome 没有更新到最新版本）。 是它适用于其他任何人，如果是的话，有人知道什么设置（计算机或浏览器）可能会阻止滚动行为的变化吗？ Microsoft Edge 版本 119.0.2151.72 Google Chrome 版本 119.0.6045.160 &gt;   由   提交 /u/dat_Ricki   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/183b5z9/smooth_scroll_not_working_even_on_mdns_demo/</guid>
       <pubDate>Sat, 25 Nov 2023 04:10:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>我可以使用哪些工具来制作像这样的精美产品照片？</title>
-      <link>https://www.reddit.com/r/webdev/comments/183awva/what_are_some_tools_i_can_use_to_make_great/</link>
-      <description><![CDATA[   /u/gojukebox  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/183awva/what_are_some_tools_i_can_use_to_make_great/</guid>
-      <pubDate>Sat, 25 Nov 2023 03:56:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>职业方向讨论</title>
-      <link>https://www.reddit.com/r/webdev/comments/183as71/career_direction_discussion/</link>
-      <description><![CDATA[嘿伙计们， 目前正在做自由网页设计，我的业务开始增长，但我担心我的技能可能会下降有点过时了，我可能需要更新 - 我于 2008 年完成了艺术/IT 学位，主修数字媒体和屏幕，多年来一直从事零售业，进行图像增强，为朋友创建和更新网站，而不是为了盈利，为活动行业开发数字资产，最近在当地政府工作，负责一项重大品牌重塑计划下的旅游项目和网站设计。 多年来，我还完成了零售管理文凭和商业 3 级证书和 WordPress 认证。我觉得更新我的技能是有益的 - 我正在通过 TAFE 在 Web 开发或平面设计之间犹豫不决。我个人更喜欢设计元素，因为我不喜欢编写代码，但我觉得自十几岁起我的心态发生了显着变化，我对技能有了更深入的了解，从而更好地理解基础知识。 我的总体情况目标是更新我的技能并将我的业务发展成为我可以管理的可持续企业。   由   提交/u/Willing_Put_5895   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/183as71/career_direction_discussion/</guid>
-      <pubDate>Sat, 25 Nov 2023 03:48:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>对于像网络应用程序这样的谷歌表单，我应该使用什么技术堆栈？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1839scu/what_tech_stack_should_i_use_for_a_google_forms/</link>
-      <description><![CDATA[我正在尝试创建自己的 Google 表单工作版本，但我想不出要使用的技术堆栈。 &lt; p&gt;该应用程序将使用 vue 作为前端，我对后端一无所知。 由于我没有时间维护服务器，因此用户只能使用 docker 镜像在本地托管该应用程序并接受响应，这些响应将存储在数据库中 我只是想保持简单和轻量级，我应该使用什么技术堆栈？ &lt;!-- SC_ON - -&gt;  由   提交/u/SpaciousCoder78  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1839scu/what_tech_stack_should_i_use_for_a_google_forms/</guid>
-      <pubDate>Sat, 25 Nov 2023 02:56:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>设置 SSL 并且我的网站有 https 但仍然不安全？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1839bg0/setting_up_ssl_and_my_site_has_https_but_still/</link>
-      <description><![CDATA[嘿，我只用 nginx 设置了我的 VPS，没有其他任何东西。我正在尝试设置 ssl，我认为它的一部分正在工作，但不是全部。当我在任何网络浏览器（edge 和 firefox）上输入我的域时，它会重定向到 https.. 但仍然说它不安全。 Firefox 给我一个错误代码“SEC_ERROR_UNKNOWN_ISSUER”。我的域名确实通过了 cloudflare，证书上唯一缺少的信息是通用名称 (CN) 条目。有没有办法来解决这个问题？这一切都在 debian 12 服务器上运行。 编辑：嘿，所以我让它工作了。结果我只需要打开 Cloudflare 中的代理开关即可。另外，我正在研究 Caddy 而不是 Nginx。谢谢！   由   提交/u/IAskSoMnyQuestions   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1839bg0/setting_up_ssl_and_my_site_has_https_but_still/</guid>
-      <pubDate>Sat, 25 Nov 2023 02:32:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
