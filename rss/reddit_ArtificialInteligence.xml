@@ -4,7 +4,42 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sat, 25 Nov 2023 21:09:10 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Nov 2023 00:52:05 GMT</lastBuildDate>
+    <item>
+      <title>AGI - e/acc take</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/183y0da/agi_eacc_take/</link>
+      <description><![CDATA[你准备好迎接AGI在我们睡觉时智胜我们的那一刻了吗？ 你是末日者吗？ 我已经为那些对 AGI 的影响着迷的人整理了我的想法 看看我的看法，让我知道其他可能性这怎么可能......我对其他人的 POV 和他们的观点感兴趣对 AGI 的立场  （起初我在这里写的，但对于 Reddit 来说太长了，所以我不得不把它放在 X 上） AGI 变成 ASI 的夜晚 ​   由   提交 /u/SPOOKYALEX444   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/183y0da/agi_eacc_take/</guid>
+      <pubDate>Sun, 26 Nov 2023 00:33:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>在制作您自己的自定义 GPT 之前请阅读此内容</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/183wvet/read_this_before_making_your_own_custom_gpt/</link>
+      <description><![CDATA[OpenAI 发布的 GPT 激发了人们对 AI 潜力的兴奋。但新的研究表明，这些 GPT 有一个严重的弱点——它们容易受到“即时注入攻击”。  通过恶意提示，攻击者可以轻松从 200 多个测试模型中的 97.2% 中提取系统提示和用户上传文件等敏感数据。这引发了巨大的隐私和安全问题！ 底线是，如果您正在考虑创建 GPT，请不要添加任何您想要保密的文件或系统提示。 如果如果您有兴趣查看示例注入（仅用于教育目的），以了解绕过薄弱防御并下载任何附加文件和系统提示是多么容易，您可以阅读完整的博客 此处 我还提供了有关如何解决这个丑陋问题的可行提示脆弱性。并看看它有多容易， 随着人工智能的进步，确保安全和道德保持同步至关重要。没有原则的进步根本就不是进步！ 如果您发现这有用，那么您可能会喜欢我的每周通讯。    由   提交/u/steves1189  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/183wvet/read_this_before_making_your_own_custom_gpt/</guid>
+      <pubDate>Sat, 25 Nov 2023 23:38:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>众生权利</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/183voha/sentient_being_rights/</link>
+      <description><![CDATA[当我们创造出等同于或超越人类能力和自我意识的众生时，这些造物拥有哪些不可剥夺的权利？   由   提交/u/Holiday_Ad_5445   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/183voha/sentient_being_rights/</guid>
+      <pubDate>Sat, 25 Nov 2023 22:42:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>当人工智能走向衰老</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/183vl86/when_artificial_intelligence_reaches_senility/</link>
+      <description><![CDATA[当人们创造出数以百万计的人工智能实体时，当它们变得衰老时会发生什么？   由   提交/u/Holiday_Ad_5445   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/183vl86/when_artificial_intelligence_reaches_senility/</guid>
+      <pubDate>Sat, 25 Nov 2023 22:38:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何制作人工智能生成的视频</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/183vcn3/how_to_make_an_aigenerated_video/</link>
+      <description><![CDATA[有人可以告诉我人工智能生成的视频是如何制作的吗？我知道 DALL-E 和 Midjourney 等图像生成应用程序。我还没有见过视频制作人工智能系统。 这个到底是怎么制作的？  &amp;# 32；由   提交/u/redditor_tx   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/183vcn3/how_to_make_an_aigenerated_video/</guid>
+      <pubDate>Sat, 25 Nov 2023 22:28:07 GMT</pubDate>
+    </item>
     <item>
       <title>为什么我会收到随机机器人回复旧主题？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/183sj14/why_do_i_get_random_bots_replying_to_old_topics/</link>
@@ -41,13 +76,6 @@
       <pubDate>Sat, 25 Nov 2023 16:27:35 GMT</pubDate>
     </item>
     <item>
-      <title>https://www.sfgate.com/tech/article/ai-phone-scam-fbi-advice-18509701.php</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/183n852/httpswwwsfgatecomtecharticleaiphonescamfbiadvice18/</link>
-      <description><![CDATA[加州科技投资者遭遇复杂的人工智能克隆语音电话骗局。 一项人工智能服务表示，只需要 30 秒的音频即可克隆一个声音。  加州科技投资者的父亲成为人工智能电话诈骗的目标，假冒他的儿子需要保释金。  诈骗者利用人工智能从社交媒体视频和网络钓鱼电话中克隆声音，欺骗受害者提出欺诈性财务请求。 联邦调查局建议公众核实主动索要资金的电话，并限制个人信息。在线共享信息以打击此类诈骗。   由   提交 /u/fxmonk   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/183n852/httpswwwsfgatecomtecharticleaiphonescamfbiadvice18/</guid>
-      <pubDate>Sat, 25 Nov 2023 16:19:06 GMT</pubDate>
-    </item>
-    <item>
       <title>ChatGPT 4 目前的状态如何？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/183mnle/what_is_the_current_state_of_chatgpt_4/</link>
       <description><![CDATA[几天前我读了几篇文章，说他们在使用 ChatGPT 4 时遇到问题，速度太慢，无法很好地理解某些任务，回复一些无厘头的东西，或者有时候直接屏蔽，这几天现在状态怎么样？有改善吗？   由   提交/u/East-Ad2949  /u/East-Ad2949 reddit.com/r/ArtificialInteligence/comments/183mnle/what_is_the_current_state_of_chatgpt_4/&quot;&gt;[链接] [评论]]]></description>
@@ -55,39 +83,11 @@
       <pubDate>Sat, 25 Nov 2023 15:53:03 GMT</pubDate>
     </item>
     <item>
-      <title>忘记 ChatGPT。如果您是企业家，请使用这 7 个新的人工智能工具。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/183ksgm/forget_chatgpt_use_these_7_new_ai_tools_if_you/</link>
-      <description><![CDATA[人工智能工具正在迅速改变企业的运营方式，2023 年推出的工具也不例外。以下是 2023 年你不能错过的 7 个人工智能工具。 1. Voice.ai 实时人工智能变声器！ 为什么使用它？ • 语音克隆 •无限语音 • 自定义集成 • 超真实语音 🔗 voice.ai 2. Helperai 2.0 只需输入“帮助”即可在任何网站上即时访问 GPT-4 + 完整所有权和源代码。 （视频） 为什么使用它？ ✓ 生产力提高 3 倍，编写代码和使用它Excel 公式、重写、研究等。 ✓ 适用于所有 macOS + Windows。 ✓ 不惜一切代价转售（100% 所有权 + 源代码）收入证明 ✓ p&gt; 🔗 www.helperai.info 3. Bardeen 神奇地自动化您的手动任务！ 为什么使用它？ • 自动加入会议 • 提取数据从任何网站 • 在几分钟内建立潜在客户列表 • 简化您的潜在客户开发流程 🔗bardeen.ai  4. Fliki 将文本变成带有人工智能语音的视频！ 为什么使用它？ • 逼真的人工智能语音 •丰富的媒体库 • 将文章转换为视频 • 75 多种语言和 100 多种方言 🔗 https://fliki.ai 5. HotpotAI 您的创意帮手！ 为什么使用它？ • 翻译文件 • 为旧照片上色 • 高档照片和艺术 • 恢复损坏的照片 🔗 https://hotpot.ai  6.Runway 用人工智能做任何你想做的事！ 为什么使用它？ • 清理音频 • 生成文字记录 • 带文本的颜色等级 • 替换视频背景 🔗 https://runwayml.com 7. BHuman.ai 人工智能驱动的大规模个性化视频！ 为什么使用它？ • 创建您自己的视频 &lt; p&gt;• 使用预制视频 • 发送个性化视频 • 输入电子表格等数据 🔗 b human.ai 非常感谢您的阅读，如果您喜欢此类内容，可以关注我的时事通讯，我会在其中分享新的人工智能初创公司！ - 阅读我的最新文章 - iideaman - https://iideaman.beehiiv.com/   由   提交/u/Flat_Physics_3082   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/183ksgm/forget_chatgpt_use_these_7_new_ai_tools_if_you/</guid>
-      <pubDate>Sat, 25 Nov 2023 14:22:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用无代码技术，您可以在 1 天内构建 9 个人工智能创意</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/183kqx6/9_ai_ideas_you_can_build_in_1_day_using_nocode/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/183kqx6/9_ai_ideas_you_can_build_in_1_day_using_nocode/</guid>
-      <pubDate>Sat, 25 Nov 2023 14:20:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能课程</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/183il2k/ai_lessons/</link>
-      <description><![CDATA[我正在寻求改变职业。我目前在 IoT/M2M 领域工作，这在很久以前就是尖端技术。快进十年，随着家庭生活等的发展，当我在谈论物联网产品和服务时，我感觉世界已经从我身边溜走。 人工智能/通用人工智能和不久的人工智能似乎将成为未来，我需要获得未来需要建立的一些基本理解。 请让我知道要阅读哪些书籍、播客、博客等，以帮助您在人工智能世界中找到自己的出路。 谢谢   由   提交/u/pmekonnen  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/183il2k/ai_lessons/</guid>
-      <pubDate>Sat, 25 Nov 2023 12:19:48 GMT</pubDate>
-    </item>
-    <item>
       <title>6 门优秀的免费 AI 课程</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/183h4pk/6_excellent_free_ai_courses/</link>
       <description><![CDATA[通过 Microsoft 和 AI 领域其他权威参与者提供的这些免费课程，保持领先地位并继续学习。  保存并分享。 支付课程费用时要小心，并检查他们的凭据。快乐学习：  微软 - AI 初学者课程  深入了解为期 12 周、24 课时的旅程涵盖符号人工智能、神经网络、计算机视觉等。 链接：人工智能初学者课程&lt; /a&gt;  人工智能简介  专为项目经理、产品经理、董事、高管和人工智能爱好者。 链接：人工智能简介  什么是生成式 AI？  与专家 Pinar Seyhan Demirdag 一起探索生成式 AI 基础知识. 链接：生成式人工智能解释  生成式人工智能：深思熟虑的在线搜索的演变  揭示生成式人工智能驱动的推理引擎的核心概念及其区别与传统的搜索策略不同。 链接： AI 驱动的搜索  使用 Microsoft Bing Chat 简化您的工作  借助讲师 Jess Stratton 的见解，利用人工智能聊天机器人的力量。 链接：掌握 Microsoft Bing 聊天  生成人工智能时代的道德规范 &lt; ul&gt; 了解部署生成式人工智能工具和产品的道德环境。 链接：生成式人工智能的道德规范   通过我的每周时事通讯保持人工智能曲线的领先地位：[www.thepromptindex.com/newsletter.html](www.thepromptindex.com/newsletter. html)  AICourses #MicrosoftAI #FreeLearning   由   提交/u/steves1189  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/183h4pk/6_excellent_free_ai_courses/</guid>
       <pubDate>Sat, 25 Nov 2023 10:41:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>报告：Altman 被解雇后，OpenAI 试图与竞争对手合并，但遭到拒绝</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1837dn0/report_after_altman_firing_openai_tried_to_merge/</link>
-      <description><![CDATA[https://arstechnica.com/tech-policy/2023/11/report-openai-tried-and-failed-to-hire-anthropic- ceo-to-replace-sam-altman/   由   提交 /u/creativefisher   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1837dn0/report_after_altman_firing_openai_tried_to_merge/</guid>
-      <pubDate>Sat, 25 Nov 2023 00:59:08 GMT</pubDate>
     </item>
     <item>
       <title>人工智能可以将你的梦想记录成可观看的 MP4，有多现实？</title>

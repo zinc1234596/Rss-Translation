@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 25 Nov 2023 21:10:41 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Nov 2023 00:53:17 GMT</lastBuildDate>
+    <item>
+      <title>客户端-服务器剪贴板同步应用程序的建议</title>
+      <link>https://www.reddit.com/r/opensource/comments/183yc9w/recommendations_for_a_clientserver_clipboard/</link>
+      <description><![CDATA[大家好。 我使用 Android 手机、Mac Book、Windows 桌面和 Linux 服务器。我想在台式机、笔记本电脑和手机之间持续同步剪贴板。 理论上，KDE 连接应该可以工作，但事实并非如此。即使我使用家庭 WiFi，该应用程序也经常无法发现其他配对设备并与其同步。我已为所有设备分配了静态 IP，但这似乎没有帮助。 如果我在工作时使用公司 WiFi，KDE Con​​nect 当然不起作用。 我正在寻找一个应用程序，该应用程序可以在复制文本或图像后立即加密剪贴板数据并将其发送到我的服务器，并将其转发到所有其他在线/配对设备。我希望 Android 应用程序使用 GCM 或 ntfy 之类的电池友好型设备来接收传入的剪贴板数据。 是否存在这样的东西？ 提前致谢！   由   提交/u/bigCanadianMooseHunt  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/183yc9w/recommendations_for_a_clientserver_clipboard/</guid>
+      <pubDate>Sun, 26 Nov 2023 00:49:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>开放/自由理念和以隐私为导向的公司，包括硬件开发</title>
+      <link>https://www.reddit.com/r/opensource/comments/183xubr/openlibre_philosophy_and_privacyoriented_company/</link>
+      <description><![CDATA[嘿，伙计们 我正在寻找开发专注于开放/自由原则且以隐私为导向的技术的公司，理想情况下，它也将专注于硬件，但不一定。 希望你们能帮助我找到您知道并认为符合描述的那些。 那些我知道的是：Purism、Signal、Framework、Protectli   由   提交 /u/lucasrpmv   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/183xubr/openlibre_philosophy_and_privacyoriented_company/</guid>
+      <pubDate>Sun, 26 Nov 2023 00:25:14 GMT</pubDate>
+    </item>
     <item>
       <title>[Nodejs] 发布 Restfuncs 2.0 为 Node 用户带来合适的 http API 和 RPC。</title>
       <link>https://www.reddit.com/r/opensource/comments/183p9w1/nodejs_releasing_restfuncs_20_to_bring_them_node/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[       由   提交/u/cvicpp  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/182l3qc/tududi_v013_released_more_features_for_efficient/</guid>
       <pubDate>Fri, 24 Nov 2023 05:56:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找类似于 Resilio Sync 的工具来远程更新软件</title>
-      <link>https://www.reddit.com/r/opensource/comments/182gfym/looking_for_something_akin_to_resilio_sync_to/</link>
-      <description><![CDATA[我已经为 P2P 社交网络创建了一个网络协议，并希望用户能够在进行更改时对其进行测试。我认为如果我的最终用户都可以通过 P2P 分发获得更新，那就太好了。   由   提交 /u/ki4jgt   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/182gfym/looking_for_something_akin_to_resilio_sync_to/</guid>
-      <pubDate>Fri, 24 Nov 2023 01:39:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何为您的操作系统贡献选择操作系统项目</title>
-      <link>https://www.reddit.com/r/opensource/comments/182ew71/how_to_choose_os_project_for_your_os_contribution/</link>
-      <description><![CDATA[在为开源项目做出贡献时，我经常发现自己想得太多。最初的障碍是决定选择哪个项目。虽然我拥有各种语言和框架的经验，但过去一年我一直在使用 Node。 我渴望为一个著名的开源项目做出贡献，但我在选项之间左右为难。 Node 的代码库庞大，看起来太复杂了，而且我缺乏伙伴或导师。我应该考虑像 Qwik 这样的新框架吗？或者也许是一个较小的 npm 库？我感到很困惑。 您对此事有什么建议吗？预先感谢您！   由   提交/u/axeowl000  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/182ew71/how_to_choose_os_project_for_your_os_contribution/</guid>
-      <pubDate>Fri, 24 Nov 2023 00:17:21 GMT</pubDate>
     </item>
     </channel>
 </rss>

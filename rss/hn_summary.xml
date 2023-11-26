@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Sat, 25 Nov 2023 14:55:45 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Nov 2023 00:47:26 GMT</lastBuildDate>
     <item>
-      <title>[媒体]摇钱树</title>
-      <link>https://t.me/hn_summary/60646</link>
-      <description><![CDATA[摇钱树
-本文讨论了 18 世纪莱斯特郡农民罗伯特·贝克韦尔 (Robert Bakewell) 的故事，他采用了独特的方法来改良他的牛。贝克韦尔的核心目标是让他的牛尽可能有利可图，因此他有选择地培育出拥有大背部、高价值肉和瘦肉下半身的牛。他还在自己的农场进行了对照试验，将自己的品种与其他品种进行比较，这起到了有效的广告作用。贝克韦尔的牛和羊在出售时变得非常有价值，他甚至将其品种的年轻雄性出租给其他农民。他还专注于优化牛的饲养方式，考虑驯服性和农场布局等因素。总体而言，贝克韦尔在养牛和养殖方面的创新方法为英国工业革命做出了贡献。]]></description>
-      <guid>https://t.me/hn_summary/60646</guid>
-      <pubDate>Sat, 25 Nov 2023 14:55:45 GMT</pubDate>
+      <title>同类最大规模的研究表明，过时的密码做法非常普遍</title>
+      <link>https://t.me/hn_summary/60726</link>
+      <description><![CDATA[同类最大规模研究显示过时的密码做法非常普遍
+佐治亚理工学院研究人员进行的一项新研究表明，世界上四分之三的最受欢迎的网站的密码策略不足，允许用户创建弱密码。该研究检查了 100 万个网站的密码实践，发现 12% 的网站缺乏密码长度要求，并且许多网站允许使用短密码，但不阻止常见密码。研究人员还发现，大多数网站都遵循 2004 年以来过时的指南，只有少数网站完全遵守标准指南。此外，研究发现，只有 28% 的网站强制执行密码阻止列表，这使得它们容易受到密码喷射攻击。研究结果将在 ACM 计算机和通信安全会议上公布。]]></description>
+      <guid>https://t.me/hn_summary/60726</guid>
+      <pubDate>Sun, 26 Nov 2023 00:47:26 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 为什么 56k 是最快的拨号调制解调器速度</title>
-      <link>https://t.me/hn_summary/60645</link>
-      <description><![CDATA[为什么 56k 是最快的拨号调制解调器速度
-本文解释了为什么 56k 被认为是最快的拨号调制解调器速度。这可以追溯到电话网络是模拟的时候，工程师必须确定语音质量所需的带宽。他们将频率定为大约 3.2 kHz，该频率由低通滤波器保留。当电话网络数字化时，信号以 8 kHz 采样并使用 8 位模数转换器进行量化。这导致信号以 64 kbit/s 的速度传输数据。然而，控制数据需要在带内发送，这导致每六个字节的最低有效位丢失。调制解调器承担了这种损失，并且每个样本只能可靠地发送或接收 7 位，从而导致最大数据速率为 56 kbit/s。文章还提到，实际连接速度受到 FCC 限制和电话网络复杂性的限制。]]></description>
-      <guid>https://t.me/hn_summary/60645</guid>
-      <pubDate>Sat, 25 Nov 2023 14:55:39 GMT</pubDate>
+      <title>[媒体] Debian 的 MIPS64EL CPU 端口因硬件访问下降而面临风险</title>
+      <link>https://t.me/hn_summary/60725</link>
+      <description><![CDATA[Debian 的 MIPS64EL CPU 端口因硬件访问下降而面临风险
+由于构建 64 位 MIPS 软件包的硬件访问量下降，Debian 的 MIPS64EL CPU 端口面临挑战。构建守护进程资源的缺乏导致该架构被视为“不同步”，并且可能不适合即将发布的 Debian 13 版本。 Debian 开发人员 Sebastian Ramache 的声明强调了需要足够的资源来满足需求并将该架构维持为发布架构。值得注意的是，MIPS作为CPU架构没有进一步的发展计划，而是转向RISC-V。除非 Debian 开发者能够找到更多兼容的硬件并有兴趣维护该架构，否则 MIPS64EL 可能不会成为 Debian 13 的发布架构。]]></description>
+      <guid>https://t.me/hn_summary/60725</guid>
+      <pubDate>Sun, 26 Nov 2023 00:29:16 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Maverick 火星直升机已经过了保修期</title>
-      <link>https://t.me/hn_summary/60644</link>
-      <description><![CDATA[Maverick Mars 斩波器已过了保修期&lt; br/&gt;
-NASA的火星独创号直升机远远超过了原定的30天任务，飞行了66次，超出预期32次。工程师们现在正在研究其替代品，测试更长、更坚固的更新碳纤维转子叶片。正在考虑将直升机参与火星样本返回任务，而不是最初充当“获取”漫游车的角色。工程师们一直在美国宇航局喷气推进实验室的空间模拟器中测试叶片，其旋转速度比“独创”号叶片的旋转速度更高。该团队还在火星上使用实际的直升机来提升其能力，创下新的高度和速度记录。]]></description>
-      <guid>https://t.me/hn_summary/60644</guid>
-      <pubDate>Sat, 25 Nov 2023 14:27:23 GMT</pubDate>
+      <title>[媒体] 发现以加密为主题的 NPM 软件包传送隐形恶意软件</title>
+      <link>https://t.me/hn_summary/60724</link>
+      <description><![CDATA[发现以加密为主题的 NPM 软件包传送隐形恶意软件&lt; br /&gt;
+该博客文章讨论了最近发现的以加密为主题的 NPM 软件包，这些软件包正在传播隐秘的恶意软件。作者解释说，经过调查，他们发现了一个复杂的攻击链，其中涉及拉取远程文件、操纵它、执行导出的函数，以及通过删除和重命名文件来掩盖其踪迹。这种攻击的令人惊讶的方面是，当安装该软件包时，没有明显的恶意软件迹象，因为安装会触发恶意软件的部署，并需要付出巨大的努力来删除它的任何痕迹。作者提供了攻击链的详细分解，包括批处理文件和 PowerShell 脚本的使用。这篇文章强调了这种攻击的巧妙性以及检测它的难度。 （根据故事文本的 70% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/60724</guid>
+      <pubDate>Sun, 26 Nov 2023 00:21:09 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]X 可能因广告商流失而在年底损失高达 7500 万美元</title>
-      <link>https://t.me/hn_summary/60643</link>
-      <description><![CDATA[X 可能因广告客户流失而在年底损失高达 7500 万美元
-由于主要品牌暂停在该平台上的营销活动，埃隆·马斯克 (Elon Musk) 旗下的社交媒体公司 X 到今年年底可能会损失高达 7500 万美元的广告收入。此前，马斯克支持该网站上的反犹太主义帖子，导致华特迪士尼和华纳兄弟探索公司等公司停止了广告。 X 的回应是起诉媒体监管组织 Media Matters，指控他们诽谤该平台，发布了一份报告，将主要品牌的广告与宣传阿道夫·希特勒和纳粹党的帖子联系起来。内部文件显示，Airbnb、亚马逊、可口可乐和微软等公司的 200 多个广告单元已经暂停或正在考虑暂停在 X 上的广告。自 2022 年 10 月马斯克接管以来，该平台的美国广告收入一直在下降，原因是广告收入减少了。内容审核和仇恨言论增加。]]></description>
-      <guid>https://t.me/hn_summary/60643</guid>
-      <pubDate>Sat, 25 Nov 2023 14:27:17 GMT</pubDate>
+      <title>不该做的事或如何不在 Dyalog APL 中编程</title>
+      <link>https://t.me/hn_summary/60723</link>
+      <description><![CDATA[不该做的事情或者如何不在 Dyalog APL 中编程
+标题为“不要在 Dyalog APL 中编程”的 Web 内容提供了在 Dyalog APL 中编程时应避免的编程实践列表。作者建议不要使用传统的函数和控制结构，因为它们可能导致技术债务和冗长而曲折的函数。相反，作者建议使用 dfns 并让函数本身成为控制结构。作者还建议不要嵌套控制结构、将代码高尔夫与控制结构混合以及使用命名空间脚本。其他建议包括除非正确封装，否则不要使用类、不要使用某些 APL 函数以及不要编写长行或函数。作者还强调了为变量和函数选择适当名称的重要性，而不是在测试中依赖内部细节。]]></description>
+      <guid>https://t.me/hn_summary/60723</guid>
+      <pubDate>Sun, 26 Nov 2023 00:21:02 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 研究称，投票支持脱欧的人“更有可能智力较低”</title>
-      <link>https://t.me/hn_summary/60642</link>
-      <description><![CDATA[投票支持脱欧的人“更有可能不太聪明”，研究主张
-根据巴斯大学管理学院的一项新研究，投票支持脱欧的人认知能力可能较低。研究发现，记忆力、言语流畅性、流畅推理和数字推理等认知技能与人们决定投票的方式相关。该研究使用了超过 6,000 人的全国代表性样本，发现认知能力最低的人中只有 40% 投票留欧，而认知能力最高的人中这一比例为 73%。研究表明，认知能力低下使人们更容易受到错误信息和虚假信息的影响，从而影响民主结果。然而，研究人员还指出，留欧选民和脱欧选民的认知能力存在显着重叠。]]></description>
-      <guid>https://t.me/hn_summary/60642</guid>
-      <pubDate>Sat, 25 Nov 2023 14:27:10 GMT</pubDate>
+      <title>[媒体] 无现金很糟糕</title>
+      <link>https://t.me/hn_summary/60722</link>
+      <description><![CDATA[无现金很糟糕
+作者反对推动无现金社会，声称它不是由大众需求驱动的，而是由大金融和大科技的利益驱动的。他们强调了这些部门从支付数字化中获得的权力和控制力，以及监视和操纵的可能性。作者还讨论了推动无现金社会的系统性，即大公司和政府共同努力促进数字支付。他们认为，这种转变对工人阶级个人和小企业的影响尤为严重。作者对这个问题提出了复杂的观点，拒绝自下而上或自上而下现象的二元论，而是强调不同参与者和利益之间的相互作用。 （根据 46% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/60722</guid>
+      <pubDate>Sun, 26 Nov 2023 00:00:48 GMT</pubDate>
     </item>
     <item>
-      <title>【媒体】印度滥用反洗钱法打压人权</title>
-      <link>https://t.me/hn_summary/60641</link>
-      <description><![CDATA[印度正在滥用反洗钱法来镇压人权&lt; /a&gt;
-国际特赦组织、慈善与安全网络和人权观察呼吁金融行动特别工作组（FATF）敦促印度政府停止利用反洗钱法来镇压人权捍卫者、活动人士和非营利组织组织。印度当局利用金融行动特别工作组的建议来限制公民空间并侵犯言论、结社与和平集会自由。这些团体强调滥用《外国捐款（监管）法》、《非法活动（预防）法》和《防止洗钱法》等法律来瞄准批评者并压制批评者。他们认为，印度政府正在将法律武器化，以打击人权工作，这违反了 FATF 的标准。]]></description>
-      <guid>https://t.me/hn_summary/60641</guid>
-      <pubDate>Sat, 25 Nov 2023 14:08:53 GMT</pubDate>
+      <title>[媒体]学习编程的感想</title>
+      <link>https://t.me/hn_summary/60721</link>
+      <description><![CDATA[学习编程的思考
+作者反思了他们对编程的热爱以及他们在学习过程中面临的挑战。他们讨论了他们早期的编码梦想以及他们在寻找资源和指导时遇到的困难。他们分享了学习 Visual Basic 和 C++ 时的挣扎，以及克服语言障碍的决心。作者还讨论了突破性时刻，例如学习微控制器以及使用 Verilog 和 Perl。他们表达了对 Perl 的热爱以及对 Verilog 逐渐减弱的兴趣。然后，作者深入探讨了他们对人工智能和机器学习的兴趣，以及他们攻读机器学习硕士学位的决定。他们还讨论了在线课程的经验以及数量对于提高编码技能的重要性。 （根据故事文本的 70% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/60721</guid>
+      <pubDate>Sat, 25 Nov 2023 23:35:31 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Show HN：我们为孩子们打造了互动涂色体验</title>
-      <link>https://t.me/hn_summary/60640</link>
-      <description><![CDATA[Show HN：我们为孩子们打造了交互式着色体验
-在 dibulo.com，我们很高兴推出新的交互式着色给孩子们的体验。我们创建了一个平台，孩子们可以在为各种图像着色的同时释放他们的创造力并享受乐趣。我们的网站提供各种着色页，从动物到风景，孩子们可以使用虚拟画笔和调色板进行着色。我们平台的互动性质允许孩子们尝试不同的颜色和技术，提供独特且引人入胜的着色体验。我们相信这种互动着色体验不仅能娱乐孩子，还能帮助他们发展艺术技能。所以，快来看看dibulo.com，释放孩子的想象力狂奔吧！]]></description>
-      <guid>https://t.me/hn_summary/60640</guid>
-      <pubDate>Sat, 25 Nov 2023 13:57:42 GMT</pubDate>
+      <title>问 HN：作为一名 SQL 开发人员，我妈妈如何才能降级？</title>
+      <link>https://t.me/hn_summary/60720</link>
+      <description><![CDATA[问 HN：作为一名 SQL 开发人员，我妈妈如何才能降级？&lt; /a&gt;
+作者正在代表他们的母亲寻求建议，她拥有 20 年的 SQL 开发经验。这位母亲目前在一家初创公司的工作给她带来了压力，因为她承担的任务更适合年轻、雄心勃勃的开发人员。她希望找到一份可以专注于 SQL 脚本、分析和数据建模而无需升职或高薪压力的工作。作者不确定什么样的职位适合这个职位以及在哪里可以找到这样的机会。他们建议在芝加哥面试 SQL 职位并参加聚会，但母亲由于过去经历过困难的面试而犹豫不决。]]></description>
+      <guid>https://t.me/hn_summary/60720</guid>
+      <pubDate>Sat, 25 Nov 2023 23:18:20 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Cloudflare 作为 AI Play。</title>
-      <link>https://t.me/hn_summary/60639</link>
-      <description><![CDATA[Cloudflare 作为 AI 游戏。首席执行官马修·普林斯专访
-Cloudflare 首席执行官 Matthew Prince 在接受采访时讨论了公司对人工智能的关注及其对各个业务领域的影响。 Prince 重点介绍了 Cloudflare 利用 AI 的五个主要领域，包括安全威胁检测、AI 公司成本降低、开发人员体验、模型训练和 AI 推理。他还提到了 Cloudflare 管理信息以防止泄露的潜力，以及管理人工智能系统中数据和信息流的重要性。 Prince 将 Cloudflare 视为人工智能公司的重要基础设施提供商，并相信该领域具有巨大的增长潜力。]]></description>
-      <guid>https://t.me/hn_summary/60639</guid>
-      <pubDate>Sat, 25 Nov 2023 13:55:35 GMT</pubDate>
+      <title>[媒体]黑色星期五购物者花费了 9 美元。</title>
+      <link>https://t.me/hn_summary/60719</link>
+      <description><![CDATA[黑色星期五购物者在美国在线销售额中花费了 9.8 亿美元，增长 7.5%从去年开始
+Adobe Analytics 报告显示，美国黑色星期五电商支出较上年增长 7.5%，达到创纪录的 98 亿美元。这表明对价格敏感的消费者正在寻找最优惠的价格，并且越来越多地在网上购物。在线销售的增长可归因于希望获得最大折扣的战略消费者，其中冲动购买发挥了作用，尤其是通过移动购物。影响者和社交媒体广告让消费者对移动消费更加满意。黑色星期五最畅销的品类是电子产品、玩具和游戏，而家庭维修工具表现不佳。与增长超过 8% 的在线销售相比，店内销售额仅增长了 1% 多一点。零售商通过提供更高的折扣水平和弹出式促销来回应寻求优惠的消费者。该报告预测，在线购物者将在周末花费约 100 亿美元，并在网络星期一花费创纪录的 120 亿美元。然而，随着假期的进展，支出预计将逐渐减少。]]></description>
+      <guid>https://t.me/hn_summary/60719</guid>
+      <pubDate>Sat, 25 Nov 2023 23:17:15 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 训练更聪明，而不是更努力？</title>
-      <link>https://t.me/hn_summary/60638</link>
-      <description><![CDATA[训练更聪明，而不是更难？ – 小型研讨会7B
-MiniSymposium 7B是作者基于Mistral 7b创建的实验模型。该模型的目标是展示使用小型手写示例数据集而不是合成 GPT 输出的潜力。作者认为，在低学习率的小数据集上进行训练可以帮助模型学习更深层次的指令遵循模式，并避免浅层数据偏差。该模型以 1e-7 的 1/10 的学习率训练了大约 10 个小时，并显示出显着的改进。它被设计为适应不同的提示格式，并产生了一些令人惊讶的良好输出。作者鼓励人们尝试演示模型并提供反馈。]]></description>
-      <guid>https://t.me/hn_summary/60638</guid>
-      <pubDate>Sat, 25 Nov 2023 13:28:46 GMT</pubDate>
+      <title>[媒体]利用深空的寒冷为地球发电</title>
+      <link>https://t.me/hn_summary/60718</link>
+      <description><![CDATA[利用深空的寒冷在地球上发电 
+这篇文章讨论了利用深空的寒冷在地球上发电的潜力。该技术涉及使用超出地球大气层的面板来利用深空的寒冷，这可用于冷却建筑物和发电。本文解释了辐射冷却的概念，即热量辐射到太空中，以及热电发电机如何将温差转化为电能。作者还提到了可以优化该过程效率的材料和设计的开发。文章重点介绍了该技术的潜在应用，例如夜间工作的太阳能电池板和为远程传感器供电。 （根据故事文本的 63% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/60718</guid>
+      <pubDate>Sat, 25 Nov 2023 23:11:07 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]五分钟后我们开始轰炸</title>
-      <link>https://t.me/hn_summary/60637</link>
-      <description><![CDATA[五分钟后我们开始轰炸
-“五分钟后我们开始轰炸”是 1984 年冷战期间美国总统罗纳德·里根提出的一个颇具争议的笑话。在准备广播讲话时，里根开玩笑说要禁止并轰炸俄罗斯。这个笑话被录制下来，后来泄露给公众，引起了苏联和里根在1984年总统选举中的对手沃尔特·蒙代尔的批评。这次泄密事件导致了苏联政府的外交回应，并暂时影响了里根的民调支持率。一些人认为这个笑话品味低俗，但另一些人则认为这是政治失态。该事件凸显了冷战时代的紧张局势。]]></description>
-      <guid>https://t.me/hn_summary/60637</guid>
-      <pubDate>Sat, 25 Nov 2023 13:24:37 GMT</pubDate>
+      <title>询问 HN：如何删除所有 Google 照片，以免失去对 Gmail 的访问权限？</title>
+      <link>https://t.me/hn_summary/60717</link>
+      <description><![CDATA[询问 HN：如何删除所有 Google 照片，这样我就不会无法访问 Gmail？
+news.ycombinator.com 上这篇文章的作者是寻求有关如何删除所有 Google 照片而又不失去 Gmail 帐户访问权限的建议。他们解释说，他们从 Google 购买了存储空间用于照片备份，但后来决定将照片备份到 NAS 并停止使用 Google Photos。然而，他们最近收到一封电子邮件，称如果不续订存储空间订阅，他们将无法访问 Gmail。作者正在寻找一种解决方案来删除他们的照片，以便保持在免费套餐限制内。他们提到，他们已尝试联系谷歌的电子邮件支持，但尚未收到回复。他们正在寻求可以帮助他们有效删除照片的应用程序或脚本的推荐。]]></description>
+      <guid>https://t.me/hn_summary/60717</guid>
+      <pubDate>Sat, 25 Nov 2023 23:06:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

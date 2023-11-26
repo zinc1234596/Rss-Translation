@@ -4,111 +4,111 @@
     <title>最近添加的项目 - 开源议程</title>
     <link>https://www.opensourceagenda.com/feeds/projects</link>
     <description>最近添加的开源项目源</description>
-    <lastBuildDate>Sat, 25 Nov 2023 21:10:58 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Nov 2023 00:53:37 GMT</lastBuildDate>
     <item>
-      <title>朋友</title>
-      <link>https://www.opensourceagenda.com/projects/amica</link>
-      <description><![CDATA[Amica 是一个开源接口，用于通过语音合成和语音识别与 3D 角色进行交互式通信。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/amica</guid>
-      <pubDate>Sat, 25 Nov 2023 21:10:57 GMT</pubDate>
+      <title>外部瞄准机器人</title>
+      <link>https://www.opensourceagenda.com/projects/external-aimbot</link>
+      <description><![CDATA[一个非常干净的基于 CS:GO FOV 的瞄准机器人，用于学习]]></description>
+      <guid>https://www.opensourceagenda.com/projects/external-aimbot</guid>
+      <pubDate>Sun, 26 Nov 2023 00:53:36 GMT</pubDate>
     </item>
     <item>
-      <title>交易查看高级应用程序</title>
-      <link>https://www.opensourceagenda.com/projects/trading-view-premium-app</link>
+      <title>高级 Youtube 客户端 Ayc</title>
+      <link>https://www.opensourceagenda.com/projects/advanced-youtube-client-ayc</link>
+      <description><![CDATA[AYC 是一款响应速度快、简洁、易于使用、快速的视频下载器来自基于文本的时代。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/advanced-youtube-client-ayc</guid>
+      <pubDate>Sun, 26 Nov 2023 00:53:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>卷轴稳定连接器</title>
+      <link>https://www.opensourceagenda.com/projects/reelsteady-joiner</link>
+      <description><![CDATA[ReelSteady Joiner 将多个 GoPro 独立视频文件合并为一个，而不会丢失陀螺仪数据]]></description>
+      <guid>https://www.opensourceagenda.com/projects/reelsteady-joiner</guid>
+      <pubDate>Sun, 26 Nov 2023 00:53:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 mpv 中打开</title>
+      <link>https://www.opensourceagenda.com/projects/open-in-mpv</link>
+      <description><![CDATA[用于打开 mpv 视频的简单 Web 扩展]]></description>
+      <guid>https://www.opensourceagenda.com/projects/open-in-mpv</guid>
+      <pubDate>Sun, 26 Nov 2023 00:53:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hty527 IPlayer</title>
+      <link>https://www.opensourceagenda.com/projects/hty527-iplayer</link>
+      <description><![CDATA[支持IJKPlayer、ExoPlayer、MediaPlayer和其它更多解码器切换、支持静音、镜像、渲染模式、倍速设置等功能的轻便级播放器，支持自定义解码器、控制器、UI交互组件和悬浮窗播放能力等]]></description>
+      <guid>https://www.opensourceagenda.com/projects/hty527-iplayer</guid>
+      <pubDate>Sun, 26 Nov 2023 00:53:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>数控下载器</title>
+      <link>https://www.opensourceagenda.com/projects/ncdownloader</link>
+      <description><![CDATA[An easy-to-use web interface for Aria2 and Youtube-dl (downloading bittorrents, videos from twitter, youtube and the likes)运行在nextcloud下的多功能下载工具（Aria2 and youtube-dl）]]></description>
+      <guid>https://www.opensourceagenda.com/projects/ncdownloader</guid>
+      <pubDate>Sun, 26 Nov 2023 00:53:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>Yangwk M3u8 下载器</title>
+      <link>https://www.opensourceagenda.com/projects/yangwk-m3u8-downloader</link>
+      <description><![CDATA[chrome插件，支持监控和下载：m3u8流媒体、视频、音频]]></description>
+      <guid>https://www.opensourceagenda.com/projects/yangwk-m3u8-downloader</guid>
+      <pubDate>Sun, 26 Nov 2023 00:53:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>维德默格</title>
+      <link>https://www.opensourceagenda.com/projects/vidmerger</link>
+      <description><![CDATA[📼 通过 CLI 合并视频和音频文件]]></description>
+      <guid>https://www.opensourceagenda.com/projects/vidmerger</guid>
+      <pubDate>Sun, 26 Nov 2023 00:53:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>TUI直播间</title>
+      <link>https://www.opensourceagenda.com/projects/tuiliveroom</link>
+      <description><![CDATA[腾讯云TRTC针对直播、语聊、视频通话等推出的低代码解决方案～]]></description>
+      <guid>https://www.opensourceagenda.com/projects/tuiliveroom</guid>
+      <pubDate>Sun, 26 Nov 2023 00:53:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cheezos 视频压缩器</title>
+      <link>https://www.opensourceagenda.com/projects/cheezos-video-compressor</link>
+      <description><![CDATA[将视频压缩为任意文件大小。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/cheezos-video-compressor</guid>
+      <pubDate>Sun, 26 Nov 2023 00:53:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>可发明的抢夺</title>
+      <link>https://www.opensourceagenda.com/projects/inventsable-snatch</link>
+      <description><![CDATA[将 Youtube 视频直接注入 Premiere Pro 和 After Effects]]></description>
+      <guid>https://www.opensourceagenda.com/projects/inventsable-snatch</guid>
+      <pubDate>Sun, 26 Nov 2023 00:53:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>阿兹卡德夫 玩</title>
+      <link>https://www.opensourceagenda.com/projects/azkadev-play</link>
+      <description><![CDATA[用于播放视频和音频跨平台支持的 Flutter 库]]></description>
+      <guid>https://www.opensourceagenda.com/projects/azkadev-play</guid>
+      <pubDate>Sun, 26 Nov 2023 00:53:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>罗伊</title>
+      <link>https://www.opensourceagenda.com/projects/roi</link>
       <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/trading-view-premium-app</guid>
-      <pubDate>Sat, 25 Nov 2023 21:10:57 GMT</pubDate>
+      <guid>https://www.opensourceagenda.com/projects/roi</guid>
+      <pubDate>Sun, 26 Nov 2023 00:53:32 GMT</pubDate>
     </item>
     <item>
-      <title>船员人工智能</title>
-      <link>https://www.opensourceagenda.com/projects/crewai</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/crewai</guid>
-      <pubDate>Sat, 25 Nov 2023 21:10:57 GMT</pubDate>
+      <title>梅卡斯特</title>
+      <link>https://www.opensourceagenda.com/projects/plumcast</link>
+      <description><![CDATA[基于Plumtree/HyParView算法的消息广播库]]></description>
+      <guid>https://www.opensourceagenda.com/projects/plumcast</guid>
+      <pubDate>Sun, 26 Nov 2023 00:53:31 GMT</pubDate>
     </item>
     <item>
-      <title>Autocad 破解</title>
-      <link>https://www.opensourceagenda.com/projects/autocad-cracked</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/autocad-cracked</guid>
-      <pubDate>Sat, 25 Nov 2023 21:10:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>踏实的幸福</title>
-      <link>https://www.opensourceagenda.com/projects/solid-happiness</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/solid-happiness</guid>
-      <pubDate>Sat, 25 Nov 2023 21:10:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>重新构想的指南</title>
-      <link>https://www.opensourceagenda.com/projects/reimagined-guide</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/reimagined-guide</guid>
-      <pubDate>Sat, 25 Nov 2023 21:10:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>心灵嘉年华</title>
-      <link>https://www.opensourceagenda.com/projects/psychic-fiesta</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/psychic-fiesta</guid>
-      <pubDate>Sat, 25 Nov 2023 21:10:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>2EBLYA 改进的电报</title>
-      <link>https://www.opensourceagenda.com/projects/2eblya-improved-telegram</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/2eblya-improved-telegram</guid>
-      <pubDate>Sat, 25 Nov 2023 21:10:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>超级杜珀奥克托火车</title>
-      <link>https://www.opensourceagenda.com/projects/super-duper-octo-train</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/super-duper-octo-train</guid>
-      <pubDate>Sat, 25 Nov 2023 21:10:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>专家涂鸦</title>
-      <link>https://www.opensourceagenda.com/projects/expert-doodle</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/expert-doodle</guid>
-      <pubDate>Sat, 25 Nov 2023 21:10:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>毛茸茸的章鱼摇摇摆摆</title>
-      <link>https://www.opensourceagenda.com/projects/fluffy-octo-waddle</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/fluffy-octo-waddle</guid>
-      <pubDate>Sat, 25 Nov 2023 21:10:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>两周缩放</title>
-      <link>https://www.opensourceagenda.com/projects/scaling-fortnight</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/scaling-fortnight</guid>
-      <pubDate>Sat, 25 Nov 2023 21:10:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>音乐章引擎</title>
-      <link>https://www.opensourceagenda.com/projects/musical-octo-engine</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/musical-octo-engine</guid>
-      <pubDate>Sat, 25 Nov 2023 21:10:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>强化10</title>
-      <link>https://www.opensourceagenda.com/projects/forti10</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/forti10</guid>
-      <pubDate>Sat, 25 Nov 2023 21:10:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>文件大师</title>
-      <link>https://www.opensourceagenda.com/projects/filemaster</link>
-      <description><![CDATA[一款使用React+Redux+TS+Vite+ material-ui搭建的文件管理系统，其中用到react-image-editor、axios、react-beautiful-dnd、react-dropzone、clsx、redux-logger等依赖库，还使用了eslint+prettier+stylelint规范代码和husky+commitlint+lint-staged规范commit]]></description>
-      <guid>https://www.opensourceagenda.com/projects/filemaster</guid>
-      <pubDate>Sat, 25 Nov 2023 21:10:53 GMT</pubDate>
+      <title>海帕维尤</title>
+      <link>https://www.opensourceagenda.com/projects/hyparview</link>
+      <description><![CDATA[HyParView 算法的 Rust 实现]]></description>
+      <guid>https://www.opensourceagenda.com/projects/hyparview</guid>
+      <pubDate>Sun, 26 Nov 2023 00:53:31 GMT</pubDate>
     </item>
     </channel>
 </rss>

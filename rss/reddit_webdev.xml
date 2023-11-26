@@ -4,7 +4,56 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 25 Nov 2023 21:10:35 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Nov 2023 00:53:11 GMT</lastBuildDate>
+    <item>
+      <title>使用 MERN 堆栈获取发布项目的用户的位置</title>
+      <link>https://www.reddit.com/r/webdev/comments/183w3o0/getting_the_location_of_a_user_who_posted_an_item/</link>
+      <description><![CDATA[所以我正在使用 MERN 堆栈开发一个电子商务应用程序，现在我一直在使用这个 `useAuth` 函数，它允许您获取当前用户的信息以在导航栏中动态呈现他们的位置。但是，我现在正在主页上工作，我正在尝试获取发布项目的用户的位置，而不是当前登录/经过身份验证的用户的位置（这就是 useAuth 正在做的事情）。有人有什么建议吗？我刚刚更新了项目架构以包含位置，但是当用户提交项目时，我只询问名称、价格、描述和条件，因为期望在注册时保存其位置。欢迎任何建议。谢谢！ 这是 useAuth（我的一位团队成员致力于此）： import { createContext, useContext, useState, useEffect } from &quot;react&quot;; const AuthContext = createContext();导出 const AuthProvider = ({ 孩子 }) =&gt; { const [已验证，setAuthenticated] = useState(false); const [用户，setUser] = useState(null); useEffect(() =&gt; { console.log(authenticated, &#39;在 AuthProvider 中进行身份验证&#39;); }, [authenticated]); const login = async (电子邮件, 密码) =&gt;; { 尝试 { const response = wait fetch(&#39;http://localhost:5003/api/login&#39;, { method: &#39;POST&#39;, headers: { &#39;Content-Type&#39;: &#39;application/json&#39;, }, body: JSON .stringify({ 电子邮件, 密码 }), 凭证: &#39;include&#39;, }); if (response.status === 200) { console.log(&#39;response.status === 200&#39;) setAuthenticated(true); const getUser = wait fetch(&#39;http://localhost:5003/api/auth&#39;, { 方法: &#39;GET&#39;, 凭证: &#39;include&#39; }); const user = wait getUser.json(); setUser(用户.用户); } else { console.log(&#39;是否打印&#39;); setAuthenticated(假); } } catch (error) { console.log(&#39;catch(error) 打印吗？&#39;) console.error(error); setAuthenticated(假); const loginWithPromise = (电子邮件, 密码) =&gt; { return new Promise(async (resolve,拒绝) =&gt; { try { 等待登录(电子邮件, 密码);resolve(); } catch (错误) { 拒绝(错误); } }); }; return (  {children}  ) } 导出 const useAuth = () =&gt;; { 返回 useContext(AuthContext); }  ​   由   提交/u/Willing_Teaching_526   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/183w3o0/getting_the_location_of_a_user_who_posted_an_item/</guid>
+      <pubDate>Sat, 25 Nov 2023 23:01:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了一个图书数据库网站，允许按 Goodreads 评级进行过滤</title>
+      <link>https://www.reddit.com/r/webdev/comments/183vsi9/i_created_a_book_database_site_that_allows/</link>
+      <description><![CDATA[     &lt; td&gt; ​ book-filter.com 使用 Goodreads 浏览图书非常耗时且乏味，因此构建 此，而是通过应用过滤器更轻松地查找您想要阅读的书籍。 ​ 是的，Goodreads 仍然不具备基本的过滤功能... ​ 感谢任何反馈/建议！   由   提交/u/David_2107  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/183vsi9/i_created_a_book_database_site_that_allows/</guid>
+      <pubDate>Sat, 25 Nov 2023 22:47:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Turbo 8 正在放弃 TypeScript</title>
+      <link>https://www.reddit.com/r/webdev/comments/183urd3/turbo_8_is_dropping_typescript/</link>
+      <description><![CDATA[       由   提交/u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/183urd3/turbo_8_is_dropping_typescript/</guid>
+      <pubDate>Sat, 25 Nov 2023 22:01:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人还在寻找 MidJourney API 吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/183uhxn/anyone_still_looking_for_a_midjourney_api/</link>
+      <description><![CDATA[嘿伙计们，我正在慢慢推出 mjapi。我于 5 月份首次在 r/Bitcoin，并且最近对其进行了修改，因为用户不断询问新功能和修复。 您正在使用哪些 API？您觉得缺少什么？我可以利用这个机会来改进 mjapi 本身。希望在这里发帖没问题   由   提交/u/lutian  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/183uhxn/anyone_still_looking_for_a_midjourney_api/</guid>
+      <pubDate>Sat, 25 Nov 2023 21:49:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>使 API 易于构建、维护和部署</title>
+      <link>https://www.reddit.com/r/webdev/comments/183ub3u/making_apis_easy_to_build_maintain_and_deploy/</link>
+      <description><![CDATA[嘿， 我想分享我的新项目，休息。该产品的目标是简化 API 的创建、管理和部署，只需单击几下即可。 我喜欢称其为“B.Y.O.D”。它代表“自带数据”。 :P 到目前为止，我们已经收到了 100 多个测试版注册用户，他们很高兴能够在测试版中首先使用它。在测试阶段，我们将免费提供该服务，同时解决任何问题。 对于任何寻求更简单的方法来构建和部署 API 的开发人员，请注册我们的测试版！ 如果您想讨论任何问题或有任何建议，请随时在 Twitter 上与我联系！ https://twitter.com/rhysbeingsocial 该网站可以在这里找到：https://rest.so   由   提交/u/rhysbeingsocial  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/183ub3u/making_apis_easy_to_build_maintain_and_deploy/</guid>
+      <pubDate>Sat, 25 Nov 2023 21:41:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>已部署网站，但收到“找不到页面”错误</title>
+      <link>https://www.reddit.com/r/webdev/comments/183u5b7/deployed_website_but_receive_page_not_found_error/</link>
+      <description><![CDATA[     &lt; td&gt; 嗨，我使用 netlify 部署了我的网站，如下所示： https://preview.redd.it/1ltmdgugbk2c1.png?width=2880&amp;format=png&amp; ;自动= webp&amp;s=2222fe0b3622d15b73ef19d445a1278822c3e64c 但是，我不断收到此 404“找不到页面”错误...如您所见： https://preview.redd.it/73awtgspbk2c1.png?width=2880&amp;format =png&amp;auto=webp&amp;s=5d7a3a913519608f7b7ce603fbccb06c005ab6c2 有人知道为什么我在成功部署网站后遇到这种情况吗？对我能做什么有什么建议吗？谢谢:) ​   由   提交/u/Master_Rock_6739   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/183u5b7/deployed_website_but_receive_page_not_found_error/</guid>
+      <pubDate>Sat, 25 Nov 2023 21:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 React 进行动态路由而不使用 Next.js？</title>
+      <link>https://www.reddit.com/r/webdev/comments/183tno5/dynamic_routing_with_react_without_nextjs/</link>
+      <description><![CDATA[如标题所示。有没有一种替代方案可以使用 React 实现动态路由而无需使用 next.js？ 我最近负责为我公司的应用程序进行 SEO，看起来它会从动态路由中受益，但作为据我所知，next.js 是唯一的方法。否则我必须手动创建页面/路由，这将导致维护工作量太大。转换成 Next.js 需要做很多工作。 我从来没有处理过任何 SEO 的东西，所以我很感激任何信息。 编辑：我措辞这个问题有点不对。我不一定是动态路由，而是我正在寻找的构建时的页面生成。但从dms和评论看来，next是唯一的选择。感谢所有伸出援手的人。   由   提交 /u/ColonelShrimps   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/183tno5/dynamic_routing_with_react_without_nextjs/</guid>
+      <pubDate>Sat, 25 Nov 2023 21:11:41 GMT</pubDate>
+    </item>
     <item>
       <title>现代认证指南</title>
       <link>https://www.reddit.com/r/webdev/comments/183su5h/modern_authentication_guidance/</link>
@@ -48,13 +97,6 @@
       <pubDate>Sat, 25 Nov 2023 18:45:30 GMT</pubDate>
     </item>
     <item>
-      <title>高级开发人员应该知道如何让广告拦截器发挥作用吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/183qasz/should_a_senior_dev_know_how_to_make_adblocker/</link>
-      <description><![CDATA[我有 3 年以上的经验开发经验，我不知道广告拦截器如何分析网站的 js 以阻止某些功能运行（广告）  我也不知道他们如何找到与阻止他们相关的广告的特定请求 我应该知道如何找到所有这些以更好地调试我的应用程序吗？   由   提交 /u/gotgel_fire   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/183qasz/should_a_senior_dev_know_how_to_make_adblocker/</guid>
-      <pubDate>Sat, 25 Nov 2023 18:38:22 GMT</pubDate>
-    </item>
-    <item>
       <title>我用 Claude 2.1 制作了一个简单的 AI 代理教程</title>
       <link>https://www.reddit.com/r/webdev/comments/183q1c6/i_made_a_simple_ai_agent_tutorial_w_claude_21/</link>
       <description><![CDATA[      大家好， 随着我的学习，尝试养成为我的新频道制作更多面向 AI 的 YouTube 视频的习惯事情公开。本周制作了这个视频，使用 Claude 2.1 构建一个简单的 AI 代理教程。 我想分享它：https://www.youtube.com/watch?v=Z05l7mn0RNQ ​ https://preview.redd.it/rlfec312ej2c1.png?width=3456&amp;format=png&amp;auto=web普安普;s=b79186000575b1165cccefe09600a28f986f3da0   由   提交/u/rich_awo  [链接] [评论] &lt; /表&gt;]]></description>
@@ -67,48 +109,6 @@
       <description><![CDATA[      我开始学习Web开发，我首先想说的是：很难，但是可行！这个项目花了很多重写和时间，但主要是拖延（多动症，最近发现），为了有一些我准备分享的东西。我不想做一些它的东西唯一的用途是填充投资组合；我想做一些人们使用的东西。 所以，我向您展示文件钱包，Ta-Da！ :)，我的第一个网站，供加密社区使用。 它通过使用文件的数据 URL 和可选密码生成有效的加密钱包（24 个助记词/种子），从而生成经过哈希处理的字符串，用作熵。 （有关更多信息，这里是我关于此的第一篇文章） 官方网址：https://file-wallet.com/ GitHub：https://github.com/AmphibianDev/file-wallet https://i.redd.it/qarswjzt1j2c1.gif 还有什么比奖金约为 330 美元的挑战/谜题更好的方式来启动我的第一个网站(2XMR)。我已在此处发布了详细信息。 我还有很多还有更多需要学习的。例如，这些只是我需要学习/制作的一些东西：  学习如何进行测试，并进行测试（再次拖延！！）。 详细了解如何更好地使用 GitHub 和 Git。 （我喜欢这个视频） 找到一种编译独立 .html 的方法，可以轻松下载并离线使用（对于加密货币社区非常重要）。  还有更多。 在第三点，如果有人可以为我指明正确的方向。我尝试过使用 vite-plugin-singlefile，但由于我对 Ian Coleman BIP39 和 Coinomi BIP39 的加密生成代码的集成不好，我将脚本放在 Public 文件夹中，并且它们是动态加载的，因为我想要 React 代码首先加载加载动画，现在它们不再捆绑在单个文件中。 无论如何，我愿意接受任何反馈，希望您度过愉快的一天。 &lt; /div&gt;  由   提交 /u/AmphibianDev   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/183oqgb/my_first_website_better_than_a_netflix_clone/</guid>
       <pubDate>Sat, 25 Nov 2023 17:27:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何加快为我的团队创建设计系统？</title>
-      <link>https://www.reddit.com/r/webdev/comments/183onnb/how_can_i_speed_up_creating_a_design_system_for/</link>
-      <description><![CDATA[主要由工程师组成的精益团队。你们如何为自己构建 UI 库？或者这是一个大团队的事情？ 希望我的团队有一个 UI 库，以便在我们的网站/网络应用程序中保持一致性。我们使用顺风并内联编写所有内容，因此样式有点不一致   由   提交/u/techsparrowlionpie  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/183onnb/how_can_i_speed_up_creating_a_design_system_for/</guid>
-      <pubDate>Sat, 25 Nov 2023 17:23:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>我使用 easywp 在 namecheap 上创建了一个 WordPress 网站。需要上传媒体方面的帮助</title>
-      <link>https://www.reddit.com/r/webdev/comments/183ohss/i_created_a_wordpress_site_on_namecheap_using/</link>
-      <description><![CDATA[基本上，我想使用 WordPress 运行一个电子商务页面。我的媒体文件无法上传，产品页面看起来很糟糕。我错过了什么？ 我应该选择 square 还是 shopify？   由   提交 /u/cooltaj   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/183ohss/i_created_a_wordpress_site_on_namecheap_using/</guid>
-      <pubDate>Sat, 25 Nov 2023 17:16:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>为一家建筑公司制作了一个网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/183o9qd/made_a_website_for_a_construction_company/</link>
-      <description><![CDATA[     &lt; /td&gt; 最近，我使用 Next.js 和 Edge Functions 为一家建筑公司创建了一个网站。该网站是静态生成的，并免费部署在 Cloudflare Pages 上。我很享受这次体验，虽然可能不多，但我相信这个设计值得一看。您可以访问链接以获取有关其构建方式的更多信息。也许它可以帮助那些刚开始从事自由职业或诸如此类的人。   由   提交/u/1chbinamin   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/183o9qd/made_a_website_for_a_construction_company/</guid>
-      <pubDate>Sat, 25 Nov 2023 17:06:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>一个有用的 SaaS 入门者</title>
-      <link>https://www.reddit.com/r/webdev/comments/183o7tp/a_useful_saas_starter/</link>
-      <description><![CDATA[      大家好，我想展示这个我作为独立开发人员刚刚完成的产品。  TL;DR 我构建了一个基于 T3 堆栈的模板应用程序。 我觉得我们现在正处于一个非常有趣的时期，有很多机会可以构建应用。我见过人们通过与 pdf 或类似应用程序交谈等方式赚了很多钱。我想有一种快速的方法来原型化想法并看看什么能坚持下去，所以我制作了一个实际的应用程序：https://transcribely.io，构建为可以轻松定制和重新调整用途，带有文档等。 我确实在其中放入了很多东西，这里是 演示视频。我很想知道你们的想法。 顺便说一句，您可以从 https://shipvoid.com 购买。    由   提交/u/LeNyto  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/183o7tp/a_useful_saas_starter/</guid>
-      <pubDate>Sat, 25 Nov 2023 17:04:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>组织送礼季</title>
-      <link>https://www.reddit.com/r/webdev/comments/183nyux/organize_the_gift_giving_season/</link>
-      <description><![CDATA[我去年创建了这个网站，以帮助组织与我的朋友和家人一起送礼的季节，从那以后我一直在断断续续地添加内容。  我网站的主要目的是成为您全年持续的愿望清单。每当您看到想要的东西但又不能直接购买时，请将其添加到您的列表中并与朋友和家人分享，这样当您的生日或圣诞节或其他时间到来时，每个人都知道您想要什么。另外值得注意的是，列表所有者无法看到已购买的商品，以便让事情变得惊喜。 仍然是 W.I.P，但我为迄今为止所做的事情感到自豪，这是我的第一个真正的独奏项目，我学到了很多东西。 使用 mongoDB、GraphQL 和 apolloexpress 进行 React 前端。  非常感谢您的反馈。   由   提交 /u/Ryobia   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/183nyux/organize_the_gift_giving_season/</guid>
-      <pubDate>Sat, 25 Nov 2023 16:53:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>PHP死了吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/183ns7q/is_php_dead/</link>
-      <description><![CDATA[还用PHP吗？我可以提高自己的 PHP 水平吗？   由   提交 /u/RedDevils52   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/183ns7q/is_php_dead/</guid>
-      <pubDate>Sat, 25 Nov 2023 16:45:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
