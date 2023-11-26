@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 26 Nov 2023 03:12:30 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Nov 2023 06:14:21 GMT</lastBuildDate>
+    <item>
+      <title>CursusDB - 高性能内存分布式 JSON 类型数据库。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1841gi6/cursusdb_highly_performant_inmemory_distributed/</link>
+      <description><![CDATA[基于 JSON 的非结构化分布式数据库。能够进行极快的并行搜索。 SQL 类似查询语言！ 查看： https://github.com /cursusdb/cursus https://cursusdb.com  &amp; #32；由   提交 /u/diagraphic   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1841gi6/cursusdb_highly_performant_inmemory_distributed/</guid>
+      <pubDate>Sun, 26 Nov 2023 03:29:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>通过完全加密轻松管理云中文件的工具？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1841c10/tool_for_easily_managing_files_in_cloud_with/</link>
+      <description><![CDATA[使用 Dropbox 等服务听起来不错，因为有一个友好的 UI，但是即使在他们的网站上，他们也会让您知道  与大多数主要在线服务一样，Dropbox 人员在极少数情况下需要访问用户的文件内容(1) 当法律要求这样做时； (2) 必要时确保…………  并且这已得到其他来源的证实  https://www.extremetech.com/internet/179495-how-dropbox-knows-youre-a-dirty-pirate-and-why-you-shouldnt-use-cloud-storage-to-share-copyrighted -文件 https:// www.makeuseof.com/is-dropbox-secure-enough-for-your-private-files/  “这不是零知识：当您将文件上传到 Dropbox 时，它们保留您的加密密钥的副本。” -- jfc 我以前根本不知道。  等等  那么有没有像 Dropbox 这样的操作系统版本？可以建议为您处理全部或大部分 S3（或其他）设置，并确保您发送和存储的所有内容都使用除您之外没有人拥有的私钥进行加密？   由   提交/u/lojik-games  /u/lojik-games  reddit.com/r/opensource/comments/1841c10/tool_for_easily_managing_files_in_cloud_with/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1841c10/tool_for_easily_managing_files_in_cloud_with/</guid>
+      <pubDate>Sun, 26 Nov 2023 03:22:15 GMT</pubDate>
+    </item>
     <item>
       <title>客户端-服务器剪贴板同步应用程序的建议</title>
       <link>https://www.reddit.com/r/opensource/comments/183yc9w/recommendations_for_a_clientserver_clipboard/</link>
@@ -22,7 +36,7 @@
     <item>
       <title>[Nodejs] 发布 Restfuncs 2.0 为 Node 用户带来合适的 http API 和 RPC。</title>
       <link>https://www.reddit.com/r/opensource/comments/183p9w1/nodejs_releasing_restfuncs_20_to_bring_them_node/</link>
-      <description><![CDATA[灵感来了，当我第一次从 java 切换到 typescript 时，有点震惊：嘿，这些家伙两边都有 typescript（在网络中） ），他们肯定能够轻松地以 RPC 方式通过网络调用其方法。但令我惊讶的是，他们并不是这样的事情，所有人都在做低级 http 请求、从 json 解析和验证参数以及评估响应代码，并且 每个端点。除此之外，还有一些 RPC，但它们使用起来很复杂。  所以，长话短说：我希望我可以将 RCP 带回节点 + 一些与 http 通信紧密相关的其他很酷的功能。还要注意内置的 CSRF 保护（看看零配置概念，即使不使用 Nodejs） 这里 是的。  欢迎反馈！    由   提交 /u/Bogeeee   [链接] [评论]]]></description>
+      <description><![CDATA[灵感来了，当我第一次从 java 切换到 typescript 时，有点震惊：嘿，这些家伙两边都有 typescript（在网络中） ），他们肯定能够轻松地以 RPC 方式通过网络调用其方法。但令我惊讶的是，他们并不是这样的事情，所有人都在做低级 http 请求，从 json 解析和验证参数并评估响应代码，并且 每个端点。除此之外，还有一些 RPC，但它们使用起来很复杂。  所以，长话短说：我希望我可以将 RCP 带回节点 + 一些与 http 通信紧密相关的其他很酷的功能。还要注意内置的 CSRF 保护（看看零配置概念，即使不使用 Nodejs） 这里 是的。  欢迎反馈！    由   提交 /u/Bogeeee   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/183p9w1/nodejs_releasing_restfuncs_20_to_bring_them_node/</guid>
       <pubDate>Sat, 25 Nov 2023 17:51:48 GMT</pubDate>
     </item>
@@ -41,9 +55,9 @@
       <pubDate>Sat, 25 Nov 2023 16:51:18 GMT</pubDate>
     </item>
     <item>
-      <title>[Golang] 发现 FuncFrog 的强大之处：简化函数式编程。并行、懒惰的 Map、Filter 和 Reduce 库，具有 Go 中的错误处理功能。</title>
+      <title>[Golang] 发现 FuncFrog 的强大功能：简化函数式编程。 Go 中具有错误处理功能的并行惰性 Map、Filter 和 Reduce 库。</title>
       <link>https://www.reddit.com/r/opensource/comments/183msuw/golang_discover_the_power_of_funcfrog_simplifying/</link>
-      <description><![CDATA[ 由   提交/u/Fast_Ad_8502  [链接] [评论]]]></description>
+      <description><![CDATA[ 由   提交/u/Fast_Ad_8502   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/183msuw/golang_discover_the_power_of_funcfrog_simplifying/</guid>
       <pubDate>Sat, 25 Nov 2023 15:59:52 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[      别忘了🌟我们的Github 存储库！在 OpenSign 的新 Twitter 账号上关注我们。   由   提交/u/Psychology_Ninja   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/182vdq9/released_v106beta_of_opensign_with_many/</guid>
       <pubDate>Fri, 24 Nov 2023 16:04:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>Azure RTOS 将作为 Eclipse ThreadX 开源项目提供</title>
-      <link>https://www.reddit.com/r/opensource/comments/182u6ju/azure_rtos_will_be_made_available_as_the_eclipse/</link>
-      <description><![CDATA[       由   提交 /u/EFdnV   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/182u6ju/azure_rtos_will_be_made_available_as_the_eclipse/</guid>
-      <pubDate>Fri, 24 Nov 2023 15:09:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>tu|du|di v0.13 发布：更多高效任务处理功能</title>
-      <link>https://www.reddit.com/r/opensource/comments/182l3qc/tududi_v013_released_more_features_for_efficient/</link>
-      <description><![CDATA[       由   提交/u/cvicpp  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/182l3qc/tududi_v013_released_more_features_for_efficient/</guid>
-      <pubDate>Fri, 24 Nov 2023 05:56:15 GMT</pubDate>
     </item>
     </channel>
 </rss>

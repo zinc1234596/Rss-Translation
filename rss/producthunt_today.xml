@@ -4,7 +4,7 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Sun, 26 Nov 2023 03:12:35 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Nov 2023 06:14:26 GMT</lastBuildDate>
     <item>
       <title>聊天数据</title>
       <link>https://www.producthunt.com/posts/chat-data</link>
@@ -34,32 +34,18 @@
       <pubDate>Fri, 24 Nov 2023 20:04:40 GMT</pubDate>
     </item>
     <item>
-      <title>已关闭</title>
-      <link>https://www.producthunt.com/posts/isdown</link>
+      <title>客户及费用经理</title>
+      <link>https://www.producthunt.com/posts/account-expense-manager</link>
       <description><![CDATA[
-            在一处监控所有第三方状态页面
+            应用程序可让您轻松管理日常交易。
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/isdown</guid>
-      <pubDate>Fri, 24 Nov 2023 15:39:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>产品墓地</title>
-      <link>https://www.producthunt.com/posts/product-graveyard-2</link>
-      <description><![CDATA[
-            勇敢的独立开发者面对产品失败，告别并重新启动。
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/product-graveyard-2</guid>
-      <pubDate>Fri, 24 Nov 2023 13:31:21 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/account-expense-manager</guid>
+      <pubDate>Fri, 24 Nov 2023 13:12:36 GMT</pubDate>
     </item>
     <item>
       <title>2Stable 的身份验证器应用程序</title>
@@ -74,6 +60,34 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/authenticator-app-by-2stable</guid>
       <pubDate>Fri, 24 Nov 2023 11:38:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>浏览器中的闹钟</title>
+      <link>https://www.producthunt.com/posts/alarm-clock-in-your-browser</link>
+      <description><![CDATA[
+            不仅仅是一个在线闹钟！
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/alarm-clock-in-your-browser</guid>
+      <pubDate>Fri, 24 Nov 2023 10:57:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>BRAIV</title>
+      <link>https://www.producthunt.com/posts/braiv</link>
+      <description><![CDATA[
+            您的视频、您的声音...任何语言
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/braiv</guid>
+      <pubDate>Fri, 24 Nov 2023 09:39:58 GMT</pubDate>
     </item>
     <item>
       <title>So Square：适合照片且无裁剪</title>
@@ -146,7 +160,7 @@
       <pubDate>Sun, 19 Nov 2023 06:52:35 GMT</pubDate>
     </item>
     <item>
-      <title>物品计数器</title>
+      <title>物品柜台</title>
       <link>https://www.producthunt.com/posts/things-counter</link>
       <description><![CDATA[
             数一数一切。简单的。基于网络。移动优先。
@@ -200,20 +214,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/inspiq</guid>
       <pubDate>Sun, 05 Nov 2023 14:49:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>召回 - 移动应用程序</title>
-      <link>https://www.producthunt.com/posts/recall-mobile-apps</link>
-      <description><![CDATA[
-            通过总结任何在线内容节省无数时间
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/recall-mobile-apps</guid>
-      <pubDate>Tue, 31 Oct 2023 10:51:25 GMT</pubDate>
     </item>
     </channel>
 </rss>

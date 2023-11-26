@@ -4,7 +4,49 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Sun, 26 Nov 2023 03:12:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Nov 2023 06:14:00 GMT</lastBuildDate>
+    <item>
+      <title>中国黑客窃取荷兰主要半导体公司的芯片设计</title>
+      <link>https://www.reddit.com/r/programming/comments/1843r5f/chinese_hackers_steal_chip_designs_from_major/</link>
+      <description><![CDATA[ 由   提交 /u/Mariambarouma   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1843r5f/chinese_hackers_steal_chip_designs_from_major/</guid>
+      <pubDate>Sun, 26 Nov 2023 05:42:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>组合相对于继承的逆向观点</title>
+      <link>https://www.reddit.com/r/programming/comments/1843b79/contrarian_view_on_composition_over_inheritance/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1843b79/contrarian_view_on_composition_over_inheritance/</guid>
+      <pubDate>Sun, 26 Nov 2023 05:15:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>揭秘 GameBoy/SM83 的 DAA 指令</title>
+      <link>https://www.reddit.com/r/programming/comments/1843ax1/demystifying_the_gameboysm83s_daa_instruction/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1843ax1/demystifying_the_gameboysm83s_daa_instruction/</guid>
+      <pubDate>Sun, 26 Nov 2023 05:14:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Postgres：扩展塑造未来 [pdf]</title>
+      <link>https://www.reddit.com/r/programming/comments/1843a0v/postgres_extensions_shape_the_future_pdf/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1843a0v/postgres_extensions_shape_the_future_pdf/</guid>
+      <pubDate>Sun, 26 Nov 2023 05:13:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何选择下一个编码项目（解决选择悖论）</title>
+      <link>https://www.reddit.com/r/programming/comments/18436gh/how_to_choose_your_next_coding_project_addressing/</link>
+      <description><![CDATA[ 由   提交/u/RealmRoyalePlays  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/18436gh/how_to_choose_your_next_coding_project_addressing/</guid>
+      <pubDate>Sun, 26 Nov 2023 05:07:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>合并排序列表（Leetcode 问题 #21 的解决方案）</title>
+      <link>https://www.reddit.com/r/programming/comments/1841uqi/merge_sorted_list_solution_for_leetcode_problem_21/</link>
+      <description><![CDATA[ 由   提交/u/Educational-Ad2036   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1841uqi/merge_sorted_list_solution_for_leetcode_problem_21/</guid>
+      <pubDate>Sun, 26 Nov 2023 03:50:54 GMT</pubDate>
+    </item>
     <item>
       <title>Dolphin 模拟器进度报告：2023 年 8 月、9 月和 10 月</title>
       <link>https://www.reddit.com/r/programming/comments/18403it/dolphin_emulator_progress_report_august_september/</link>
@@ -67,48 +109,6 @@
       <description><![CDATA[ 由   提交 /u/clouddjr   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/183ikre/accessing_cheatsheets_from_the_command_line/</guid>
       <pubDate>Sat, 25 Nov 2023 12:19:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>分布式系统中的一致性模型</title>
-      <link>https://www.reddit.com/r/programming/comments/183idtw/consistency_models_in_distributed_systems/</link>
-      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/183idtw/consistency_models_in_distributed_systems/</guid>
-      <pubDate>Sat, 25 Nov 2023 12:07:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>SCRUM 是不可避免的（不幸的是）</title>
-      <link>https://www.reddit.com/r/programming/comments/183h2ks/scrum_is_inevitable_unfortunately/</link>
-      <description><![CDATA[ 由   提交/u/gyen  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/183h2ks/scrum_is_inevitable_unfortunately/</guid>
-      <pubDate>Sat, 25 Nov 2023 10:37:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>[PostgreSQL] 田纳西大学 GIS 和数据科学家的空间数据管理</title>
-      <link>https://www.reddit.com/r/programming/comments/183gkos/postgresql_university_of_tennessee_spatial_data/</link>
-      <description><![CDATA[ 由   提交/u/pmz   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/183gkos/postgresql_university_of_tennessee_spatial_data/</guid>
-      <pubDate>Sat, 25 Nov 2023 10:02:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的 Web 开发之旅（自学）</title>
-      <link>https://www.reddit.com/r/programming/comments/183fal9/my_journey_to_web_development_self_taught/</link>
-      <description><![CDATA[ 由   提交/u/RealmRoyalePlays  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/183fal9/my_journey_to_web_development_self_taught/</guid>
-      <pubDate>Sat, 25 Nov 2023 08:32:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google AlloyDB Omni：适用于本地和 VMware Cloud Foundation 的 PostgreSQL 兼容数据库</title>
-      <link>https://www.reddit.com/r/programming/comments/183f2hy/google_alloydb_omni_postgresqlcompatible_database/</link>
-      <description><![CDATA[ 由   提交/u/stronghup  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/183f2hy/google_alloydb_omni_postgresqlcompatible_database/</guid>
-      <pubDate>Sat, 25 Nov 2023 08:17:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>“左移”——这是什么意思？</title>
-      <link>https://www.reddit.com/r/programming/comments/183ap5x/shift_leftwtf_does_it_mean/</link>
-      <description><![CDATA[ 由   提交 /u/creativefisher   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/183ap5x/shift_leftwtf_does_it_mean/</guid>
-      <pubDate>Sat, 25 Nov 2023 03:43:45 GMT</pubDate>
     </item>
     </channel>
 </rss>

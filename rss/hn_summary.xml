@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Sun, 26 Nov 2023 02:44:55 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Nov 2023 06:13:14 GMT</lastBuildDate>
     <item>
-      <title>[媒体]网吧难民</title>
-      <link>https://t.me/hn_summary/60734</link>
-      <description><![CDATA[网吧难民
-“网吧难民”一词是指日本的一类无家可归的人，他们睡在24小时营业的网吧或漫画咖啡馆里。最初，这些咖啡馆只提供互联网服务，但有些已经扩展到包括食物、饮料和淋浴。网吧难民现象出现在日本“失去的几十年”中，被视为该国经济困难和青年危机的反映。日本政府的一项研究估计，超过 5,400 人每周至少有一半时间呆在网吧里。 COVID-19 大流行期间这些咖啡馆的关闭使无家可归问题更加明显。大多数网吧难民是来自城市工人阶级的年轻人。他们将这些咖啡馆作为临时住房的低成本替代方案。 “网络无家可归者”一词也用来形容这些人，他们经常失业或就业不足，无法负担传统形式的居住费用。]]></description>
-      <guid>https://t.me/hn_summary/60734</guid>
-      <pubDate>Sun, 26 Nov 2023 02:44:55 GMT</pubDate>
+      <title>[媒体] Maddy 在 Oracle Cloud 上自托管电子邮件</title>
+      <link>https://t.me/hn_summary/60754</link>
+      <description><![CDATA[Maddy 在 Oracle 云上自托管电子邮件
+此 Web 内容的作者讨论了使用 Oracle Cloud 设置自托管电子邮件服务器的过程。作者解释说，由于域名注册商的价格上涨和取消免费邮箱服务，他们被迫寻找替代邮件服务，Gandi.net。它们详细概述了电子邮件的工作原理，包括 SMTP、POP3 和 IMAP 等协议的使用。作者还讨论了电子邮件传送的重要方面，例如 MX 记录、PTR 记录、SPF 记录和 DKIM 记录。总的来说，该内容提供了设置自托管电子邮件服务器的全面指南。 （根据故事文本的 33% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/60754</guid>
+      <pubDate>Sun, 26 Nov 2023 06:13:14 GMT</pubDate>
     </item>
     <item>
-      <title>另一种破坏 Kyber-512 安全分析的方法</title>
-      <link>https://t.me/hn_summary/60733</link>
-      <description><![CDATA[破坏 Kyber-512 安全分析的另一种方法
-cr.yp.to 上的博客文章回复了Google 的 Sophie Schmieg 最近发表了题为“Kyber512 的安全级别”的博客文章。 cr.yp.to 博客文章认为，某些施米格帖子中的说法是不合理且不正确的。所讨论的主要主张是 Kyber-512 与 AES-128 一样难以破解。 cr.yp.to 博客文章强调了广泛的不确定性对已发布的针对 Kyber-512 的攻击的分析存在一定的间隔，因此很难确定其真实的安全级别。该帖子还批评 NIST 没有有效地传达这些不确定性，并呼吁在比较 Kyber 和 AES 之间的攻击成本时提高透明度。 （根据故事文本的 18% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/60733</guid>
-      <pubDate>Sun, 26 Nov 2023 02:24:43 GMT</pubDate>
+      <title>[媒体] 研究表明，大规模监视压制了少数群体的意见（2016）</title>
+      <link>https://t.me/hn_summary/60753</link>
+      <description><![CDATA[根据研究（2016），大规模监视压制了少数群体的意见
+《新闻与大众传播季刊》上发表的一项研究表明，对政府监控的了解会导致人们在网上自我审查不同意见。这项研究挑战了社交媒体和互联网接入对少数群体意见具有民主化作用的观点。研究表明，被提醒注意大规模监视的参与者更有可能压制自己不受欢迎的观点。这种现象被称为“沉默的螺旋”，是指人们为了融入社会并避免孤立而压抑自己的观点的倾向。该研究通过研究政府监控如何具体影响自我审查，增加了一个新的层面。首席研究员伊丽莎白·斯托伊切夫 (Elizabeth Stoycheff) 对这些发现感到不安，她认为监视会助长自我审查文化，从而进一步剥夺少数群体的权利并阻碍民主。]]></description>
+      <guid>https://t.me/hn_summary/60753</guid>
+      <pubDate>Sun, 26 Nov 2023 06:12:08 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Dolphin模拟器进度报告：2023年8月、9月和10月</title>
-      <link>https://t.me/hn_summary/60732</link>
-      <description><![CDATA[Dolphin 模拟器进度报告：2023 年 8 月、9 月和 10 月
-Dolphin模拟器允许用户在各种平台上玩GameCube和Wii游戏，最近庆祝了它的20周年纪念日。尽管最初的预期如此，但该模拟器仍在积极开发中，现在也支持 Wii。在更新方面，由于采用了 Qt 6.5，模拟器现在为 Windows 用户提供了深色模式。此外，Dolphin 还推出了自己的输出重采样器，使用户能够更好地控制游戏的视觉质量。重采样器提供了多种选项，包括面积、双三次和锐双线性，允许用户实现不同的视觉效果。总体而言，这些更新增强了用户体验并提供了更多自定义选项。 （根据故事文本的 43% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/60732</guid>
-      <pubDate>Sun, 26 Nov 2023 02:19:30 GMT</pubDate>
+      <title>[媒体]吃完饭后，软件将咬世界</title>
+      <link>https://t.me/hn_summary/60752</link>
+      <description><![CDATA[吃完饭后，软件会咬住世界
+本文讨论了软件如何改变行业和全球经济，使其能够在不需要新基础设施或培训新员工的情况下创办初创企业。作者解释了改进计算机硬件和软件的良性循环，即软件工程师投资创建更好的工具来支持不断发展的软件行业。然而，作者预测，未来，随着世界人口和经济的下降，软件创新将陷入停滞。如果没有软件创新，这将导致世界不断缩小，软件供应商将难以维护现有软件，并且可能会提高价格而不用担心后果。文章表明，在这种情况下，企业可能会后悔自己对软件的依赖，并寻求摆脱它。这个新世界的赢家将是那些限制对复杂软件系统依赖的人，而输家将是那些开始依赖世界不再支持的软件的人。文章最后提到，像阿米什人和正统犹太人这样与世隔绝的肥沃亚文化最终可能会主宰世界人口并恢复增长。]]></description>
+      <guid>https://t.me/hn_summary/60752</guid>
+      <pubDate>Sun, 26 Nov 2023 05:58:50 GMT</pubDate>
     </item>
     <item>
-      <title>夺宝奇兵故事会议记录</title>
-      <link>https://t.me/hn_summary/60731</link>
-      <description><![CDATA[《夺宝奇兵》故事会议记录
-在这份《夺宝奇兵》故事会议的文字记录中，电影制片人讨论了电影的高潮以及如何使其在视觉上令人兴奋。他们认为方舟爆炸并造成混乱，到处都是电击和火灾。他们还讨论了主角在被纳粹追赶的同时乘坐矿井列车逃跑并穿过隧道的可能性。文字记录的结尾暗示了一次类似过山车的旅程，最终以角色坠入水中、山崩塌而告终。这次讨论的独特而巧妙的方面是对充满动作的序列和视觉效果的创造性集思广益，这将使电影的高潮激动人心。]]></description>
-      <guid>https://t.me/hn_summary/60731</guid>
-      <pubDate>Sun, 26 Nov 2023 02:19:23 GMT</pubDate>
+      <title>[媒体] UXR 正在遭到屠杀。</title>
+      <link>https://t.me/hn_summary/60751</link>
+      <description><![CDATA[UXR 正在遭到屠杀。这份工作的前景如何？
+作者讨论了用户体验研究（UXR）团队面临的严峻处境，这些团队正面临着各个公司的裁员和缩编。他们对 UXR 学科的未来及其核心价值观（例如以人为本）表示担忧。作者强调了关注利润而非崇高理想的转变，他们对此感到失望。他们承认对该行业的现状感到焦虑，一方面裁员，另一方面推动民主化。作者最后表达了他们对 UXR 行业可能永久裁员和重新思考的不满。]]></description>
+      <guid>https://t.me/hn_summary/60751</guid>
+      <pubDate>Sun, 26 Nov 2023 05:49:40 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 被击毁的特斯拉的转世——在乌克兰</title>
-      <link>https://t.me/hn_summary/60730</link>
-      <description><![CDATA[乌克兰特斯拉的转世
-在乌克兰，战争和高油价使电动汽车（EV）对司机更具吸引力，导致电动汽车复兴业务蓬勃发展。乌克兰拥有强大的公共充电网络，政府取消了二手电动汽车进口的大部分税收和关税。这创造了一种独特的局面，包括特斯拉在内的电动汽车在包括低收入人群在内的普通人群中广受欢迎。 Circular Energy Storage 负责人汉斯·埃里克·梅林 (Hans Eric Melin) 一直在跟踪乌克兰市场，并指出自 2021 年 7 月以来，该国的电动汽车保有量增加了一倍。包括特斯拉在内的许多损坏的电动汽车都是从美国进口并在乌克兰修理的。战争改变了航运路线，受损的汽车现在通过立陶宛和斯洛文尼亚的港口。总体而言，乌克兰电动汽车市场超出预期并持续增长。]]></description>
-      <guid>https://t.me/hn_summary/60730</guid>
-      <pubDate>Sun, 26 Nov 2023 02:02:12 GMT</pubDate>
+      <title>Matt Tytel 设计的头盔</title>
+      <link>https://t.me/hn_summary/60750</link>
+      <description><![CDATA[Matt Tytel 的头盔
+Matt Tytel 的 Helm 是一款多功能合成器，可以在各种操作系统上运行，包括 GNU/Linux、Mac OSX 和 Windows。它可以用作独立的合成器，也可以用作 LV2、VST、VST3 或 AU 等流行格式的插件。 Helm 的与众不同之处在于它兼容 32 位和 64 位版本，使其可供广泛的用户使用。无论您是专业音乐家还是业余爱好者，Helm 都能提供强大而灵活的解决方案来创建独特的声音。]]></description>
+      <guid>https://t.me/hn_summary/60750</guid>
+      <pubDate>Sun, 26 Nov 2023 05:42:31 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]坏狗：为什么要和难相处的动物住在一起？</title>
-      <link>https://t.me/hn_summary/60729</link>
-      <description><![CDATA[坏狗：为什么要与难相处的动物生活在一起？ 
-作者分享了他们与一只名叫杰克的难相处的狗一起生活的经历。杰克在与提交人同住之前就被赶出了寄养家庭。尽管杰克的行为具有挑战性，作者还是决定在结束一段关系后再次收留杰克。杰克对某些人表现出攻击性，并且有将人类与可怕经历联系在一起的历史。作者讨论了围绕“阿尔法”概念和在狗训练中使用惩罚的争议。他们强调积极强化和用理想行为取代不良行为的重要性。作者还反思了自己对动物行为的误解以及需要更深入的了解。 （根据 95% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/60729</guid>
-      <pubDate>Sun, 26 Nov 2023 01:27:56 GMT</pubDate>
+      <title>[媒体] GitHub Copilot 的安全过滤器不起作用</title>
+      <link>https://t.me/hn_summary/60749</link>
+      <description><![CDATA[GitHub Copilot 的安全过滤器不起作用
+codeium.com 上的文章测试了 GitHub Copilot 的声明：他们的安全过滤器使用法学硕士来捕获简单的安全漏洞，是有效的。作者通过尝试 SQL 注入、路径注入和硬编码凭据来测试过滤器，发现 GitHub Copilot 无法捕获任何这些漏洞。作者认为，此类功能的发布让人产生了对其效果良好的预期，可能会阻止公司投资其他专门用于捕获安全漏洞的工具。文章最后建议用户不要依赖 GitHub Copilot 的安全扫描，而应投资其他安全措施。]]></description>
+      <guid>https://t.me/hn_summary/60749</guid>
+      <pubDate>Sun, 26 Nov 2023 05:08:16 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]租赁秋屋：进入日本废弃房屋的后门</title>
-      <link>https://t.me/hn_summary/60728</link>
-      <description><![CDATA[租赁akiya：进入日本的后门废弃的房屋
-文章讨论了国际买家对租赁“秋屋”（日本废弃或空置房屋）日益浓厚的兴趣。虽然许多人认为购买秋屋是居住的唯一方式，但在某些情况下租赁也是一种选择。这篇文章讲述了一对加拿大夫妇杰西和米卡的故事，他们通过与杰西的新老板的联系租到了秋屋。对于业主来说，租用秋屋可能是一个更简单的选择，因为它避免了适当销售的文书工作和后勤工作。然而，租客应谨慎，因为口头合同可能会导致分歧，并且对房产所做的改进可能无法得到报销。文章强调了日本农村社区关系的重要性，以及农村地区人们需要有主人翁意识，以确保日本农村繁荣的未来。]]></description>
-      <guid>https://t.me/hn_summary/60728</guid>
-      <pubDate>Sun, 26 Nov 2023 01:19:48 GMT</pubDate>
+      <title>[媒体] 我们失去了大约 6,000 欧元的赏金</title>
+      <link>https://t.me/hn_summary/60748</link>
+      <description><![CDATA[我们失去了大约 6,000 欧元的赏金 
+作者 Schabi 告知读者，他们无法获得 Bountysource 网站上价值约 6,400 欧元的赏金。 Bountysource 是一个人们可以发布开源开发赏金的平台。作者在 Bountysource 上为 Team NewPipe 建立了一个账户，多年来积累了大量资金。然而，Bountysource 的现任所有者 The Blockchain Group 已停止响应通信尝试，并且其后端已停止工作。提交人考虑采取法律行动，但发现成本太高且耗时。这笔钱原本打算用于 NewPipe 项目，但该团队决定将其捐赠给他们创立的协会。不幸的是，他们无法从 Bountysource 获得资金。]]></description>
+      <guid>https://t.me/hn_summary/60748</guid>
+      <pubDate>Sun, 26 Nov 2023 05:02:09 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Naev – 关于太空探索、贸易和战斗的开源游戏</title>
-      <link>https://t.me/hn_summary/60727</link>
-      <description><![CDATA[Naev – 关于太空探索、贸易和战斗的开源游戏&lt; /a&gt;
-Naev 是一款开源游戏，允许玩家探索太空、贸易和参与战斗。 Naev 拥有可供探索的大型星系和具有独特飞船设计的多个派系，提供可定制的身临其境的游戏体验。该游戏目前可以玩，但仍在开发中，开发人员鼓励玩家通过创建新故事、制作艺术或声音、改进游戏玩法或编码来做出贡献。 Naev 是一个业余爱好项目，没有最终计划或完成时间框架，开发团队不接受金钱捐赠。该游戏可以从各种来源下载，包括 Steam 和 itch.io.]]></description>
-      <guid>https://t.me/hn_summary/60727</guid>
-      <pubDate>Sun, 26 Nov 2023 01:18:42 GMT</pubDate>
+      <title>[媒体]农业投入冲击对高产区作物产量影响更大</title>
+      <link>https://t.me/hn_summary/60747</link>
+      <description><![CDATA[农业投入冲击对高产地区作物产量的影响更大&lt; /a&gt;
+本文讨论了农业投入冲击对农作物产量的影响，特别关注高产地区。该研究分析了十二种全球重要粮食作物的数据，包括大麦、木薯、花生、玉米、小米、马铃薯、水稻、高粱、大豆、甜菜、甘蔗和小麦。研究人员使用一种称为随机森林回归的机器学习方法来预测不同农业投入冲击情景对农作物产量的影响。研究发现，农业投入冲击对高产地区作物产量影响较大。本文还讨论了研究中使用的方法，包括气候箱的选择和土壤数据的纳入。 （根据 78% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/60747</guid>
+      <pubDate>Sun, 26 Nov 2023 04:24:52 GMT</pubDate>
     </item>
     <item>
-      <title>此类最大规模的研究表明过时的密码做法非常普遍</title>
-      <link>https://t.me/hn_summary/60726</link>
-      <description><![CDATA[同类最大规模研究显示过时的密码做法非常普遍
-佐治亚理工学院研究人员进行的一项新研究表明，世界上四分之三的最受欢迎的网站的密码策略不足，允许用户创建弱密码。该研究检查了 100 万个网站的密码实践，发现 12% 的网站缺乏密码长度要求，并且许多网站允许使用短密码，但不阻止常见密码。研究人员还发现，大多数网站都遵循 2004 年以来过时的指南，只有少数网站完全遵守标准指南。此外，研究发现，只有 28% 的网站强制执行密码阻止列表，这使得它们容易受到密码喷射攻击。研究结果将在 ACM 计算机和通信安全会议上公布。]]></description>
-      <guid>https://t.me/hn_summary/60726</guid>
-      <pubDate>Sun, 26 Nov 2023 00:47:26 GMT</pubDate>
+      <title>[媒体]Show HN：尽早发现快速成长的公司</title>
+      <link>https://t.me/hn_summary/60746</link>
+      <description><![CDATA[显示 HN：尽早发现快速成长的公司
+网络内容包括有关各个公司及其服务的信息。丹尼尔斯和泰勒，P.C.是一家律师事务所，为金融、刑事和国内危机案件提供法律代理。 WR Silutions, Inc. 提供了一个名为 SignalHire 的平台，用于收集有关公司和专业人士的信息。 Picklr 是一个室内匹克球设施，旨在为所有年龄段和技能水平的球员创造一个温馨的环境。 BGSF 是一家咨询和人力资源公司，为各个行业提供劳动力解决方案。深爱是一家专门为企业寻找顶尖候选人的科技招聘机构。 NGM 集团是一家由 Great Bank 和 Newcastle Permanent 合并而成的客户所有银行。 Nusano 是一家医疗技术公司，生产用于诊断和治疗癌症的放射性同位素。]]></description>
+      <guid>https://t.me/hn_summary/60746</guid>
+      <pubDate>Sun, 26 Nov 2023 04:22:45 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Debian 的 MIPS64EL CPU 端口因硬件访问下降而面临风险</title>
-      <link>https://t.me/hn_summary/60725</link>
-      <description><![CDATA[Debian 的 MIPS64EL CPU 端口因硬件访问下降而面临风险
-由于构建 64 位 MIPS 软件包的硬件访问量下降，Debian 的 MIPS64EL CPU 端口面临挑战。构建守护进程资源的缺乏导致该架构被视为“不同步”，并且可能不适合即将发布的 Debian 13 版本。 Debian 开发人员 Sebastian Ramache 的声明强调了需要足够的资源来满足需求并将该架构维持为发布架构。值得注意的是，MIPS作为CPU架构没有进一步的发展计划，而是转向RISC-V。除非 Debian 开发者能够找到更多兼容的硬件并有兴趣维护该架构，否则 MIPS64EL 可能不会成为 Debian 13 的发布架构。]]></description>
-      <guid>https://t.me/hn_summary/60725</guid>
-      <pubDate>Sun, 26 Nov 2023 00:29:16 GMT</pubDate>
+      <title>[媒体] NASA系统工程手册（2019）</title>
+      <link>https://t.me/hn_summary/60745</link>
+      <description><![CDATA[NASA系统工程手册（2019）
+NASA 系统工程手册（2019 年）是 1995 年出版的原始手册的更新版本。自那时起，NASA 的系统工程领域迅速发展，变化包括使用基于模型的系统工程和更新 NASA 程序要求。从各种报告和任务中吸取的经验教训有助于提高 NASA 的系统工程基础设施和能力。该手册是总工程师办公室旨在加强 NASA 系统工程并实现任务成功的举措的一部分。该手册感谢来自 NASA 不同中心和组织的众多个人的贡献。]]></description>
+      <guid>https://t.me/hn_summary/60745</guid>
+      <pubDate>Sun, 26 Nov 2023 04:21:39 GMT</pubDate>
     </item>
     </channel>
 </rss>

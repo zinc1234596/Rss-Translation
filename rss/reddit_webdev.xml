@@ -4,7 +4,42 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 26 Nov 2023 03:12:23 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Nov 2023 06:14:16 GMT</lastBuildDate>
+    <item>
+      <title>我怎样才能在饱和的开发工作中获得优势？</title>
+      <link>https://www.reddit.com/r/webdev/comments/18447fp/what_can_i_do_to_get_an_advantage_in_the/</link>
+      <description><![CDATA[我愿意每天花5个小时做编程，不仅是编码方面，还有找工作、研究、做项目等等一切可能的方式为了获得一份初级网络开发工作，在一年前（尽可能快），我需要充分利用我的时间。 Reddit 我需要现实的期望和建议。我不想在最佳视频游戏发行上破产。   由   提交 /u/BaconShadow   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18447fp/what_can_i_do_to_get_an_advantage_in_the/</guid>
+      <pubDate>Sun, 26 Nov 2023 06:09:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要有关我的 omegle 文本克隆的反馈</title>
+      <link>https://www.reddit.com/r/webdev/comments/1843zxc/need_feedback_on_my_omegle_text_clone/</link>
+      <description><![CDATA[你觉得怎么样？有改进的余地吗？ https://relae.online ​ &lt;!-- SC_ON - -&gt;  由   提交 /u/Regular_Ability_4782   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1843zxc/need_feedback_on_my_omegle_text_clone/</guid>
+      <pubDate>Sun, 26 Nov 2023 05:57:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>用于向 pdf 文件添加注释的 API？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1842xmh/an_api_for_adding_comments_to_a_pdf_file/</link>
+      <description><![CDATA[您好！我目前正在创建一个个人网络应用程序以添加到我的投资组合中。我快完成了；但是，我在实现一项功能时遇到了麻烦，用户可以在该功能中将注释添加到他们已查看的 pdf 的特定部分中。添加评论后，他们现在可以保存进度。   由   提交/u/SurgicalChem23  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1842xmh/an_api_for_adding_comments_to_a_pdf_file/</guid>
+      <pubDate>Sun, 26 Nov 2023 04:52:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>您对 Medusa.js 有何看法？你知道吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1842vsv/what_is_your_medusajs_opinion_do_you_even_know_it/</link>
+      <description><![CDATA[      大家好， 我最近接触到了一个电子商务名为 Medusa.js 的解决方案。我在互联网上搜索了一些人们对此的看法，结果......出乎意料？ tl;dr：该软件包的受欢迎程度增长非常快，但没有人谈论它，为什么？ 让我们总结一下： 首先，Medusa 在大约 4 年内在 Github 上达到了 20k star，击败了 Sylius 或 PrestaShop 等竞争对手的近 3 倍。哎呀，它甚至击败了老WordPress 2k星。 https://preview.redd.it/p1vxgyorgm2c1.jpg?width=1094&amp;format=pjpg&amp;auto=webp&amp;s=bf61ef8a25fa95f7f3f387dbf7fc68839 fb4c0ed 注意事项，Medusa 在 ProductHunt 上荣获 2022 年度电子商务产品奖，这也许可以解释 2022 年附近的繁荣，但它看起来仍然与典型增长有很大不同，并且自那以后出于某种原因一直在增长。  看着 GitHub 如此受欢迎，我本以为会找到很多关于它的讨论，但情况却大不相同。很难找到关于这个主题的帖子看起来不像是由非 SEO 技术文案撰写的。大多数讨论看起来像是营销假帖子来宣传它。关于它的教程不多。基本上这个名字不会出现在“你推荐什么在线商店”之类的帖子中。 我错过了什么吗？为什么这件事如此安静？这么多人从哪里听说的？ 你们有人在实际项目中使用过这个解决方案吗？您的体验如何？ ​   由   提交/u/Ngh7  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1842vsv/what_is_your_medusajs_opinion_do_you_even_know_it/</guid>
+      <pubDate>Sun, 26 Nov 2023 04:49:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>提升您的食谱（食谱自动高度调节器）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1841bim/elevate_your_recipe_automatic_altitude_adjustor/</link>
+      <description><![CDATA[https://github.com/Peterksharma /提升您的食谱  大家好！在过去的 8 个月里，当我学习编码时，我一直致力于这项工作或热爱。这个想法是，Vanilla JS 和 RegEx 可以过滤页面并以任何其编写的格式定位食谱。我希望它能够保持不可知论，能够在任何网站上阅读任何面包食谱。  随着项目的增长，代码变得越来越丑陋并且越来越难以阅读。有什么好的方法来清理代码吗？一旦你有了代码，你们将如何将其提炼为精华？我觉得我很坚强地武装这个想法，而不是巧妙地运用它。你们将如何解决这个问题？   由   提交/u/Trex4444  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1841bim/elevate_your_recipe_automatic_altitude_adjustor/</guid>
+      <pubDate>Sun, 26 Nov 2023 03:21:29 GMT</pubDate>
+    </item>
     <item>
       <title>你在学校学过离散数学吗？您在工作中使用它吗/您对学到它感到高兴吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/183ze0p/did_you_take_discrete_math_in_school_do_you_use/</link>
@@ -74,41 +109,6 @@
       <description><![CDATA[嘿， 我想分享我的新项目，休息。该产品的目标是简化 API 的创建、管理和部署，只需单击几下即可。 我喜欢称其为“B.Y.O.D”。它代表“自带数据”。 :P 到目前为止，我们已经收到了 100 多个测试版注册用户，他们很高兴能够在测试版中首先使用它。在测试阶段，我们将免费提供该服务，同时解决任何问题。 对于任何寻求更简单的方法来构建和部署 API 的开发人员，请注册我们的测试版！ 如果您想讨论任何问题或有任何建议，请随时在 Twitter 上与我联系！ https://twitter.com/rhysbeingsocial 该网站可以在这里找到：https://rest.so   由   提交/u/rhysbeingsocial  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/183ub3u/making_apis_easy_to_build_maintain_and_deploy/</guid>
       <pubDate>Sat, 25 Nov 2023 21:41:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>已部署网站，但收到“找不到页面”错误</title>
-      <link>https://www.reddit.com/r/webdev/comments/183u5b7/deployed_website_but_receive_page_not_found_error/</link>
-      <description><![CDATA[     &lt; td&gt; 嗨，我使用 netlify 部署了我的网站，如下所示： https://preview.redd.it/1ltmdgugbk2c1.png?width=2880&amp;format=png&amp; ;自动= webp&amp;s=2222fe0b3622d15b73ef19d445a1278822c3e64c 但是，我不断收到此 404“找不到页面”错误...如您所见： https://preview.redd.it/73awtgspbk2c1.png?width=2880&amp;format =png&amp;auto=webp&amp;s=5d7a3a913519608f7b7ce603fbccb06c005ab6c2 有人知道为什么我在成功部署网站后遇到这种情况吗？对我能做什么有什么建议吗？谢谢:) ​   由   提交/u/Master_Rock_6739   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/183u5b7/deployed_website_but_receive_page_not_found_error/</guid>
-      <pubDate>Sat, 25 Nov 2023 21:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 React 进行动态路由而不使用 Next.js？</title>
-      <link>https://www.reddit.com/r/webdev/comments/183tno5/dynamic_routing_with_react_without_nextjs/</link>
-      <description><![CDATA[如标题所示。有没有一种替代方案可以使用 React 实现动态路由而无需使用 next.js？ 我最近负责为我公司的应用程序进行 SEO，看起来它会从动态路由中受益，但作为据我所知，next.js 是唯一的方法。否则我必须手动创建页面/路由，这将导致维护工作量太大。转换成 Next.js 需要做很多工作。 我从来没有处理过任何 SEO 的东西，所以我很感激任何信息。 编辑：我措辞这个问题有点不对。我不一定是动态路由，而是我正在寻找的构建时的页面生成。但从dms和评论看来，next是唯一的选择。感谢所有伸出援手的人。   由   提交 /u/ColonelShrimps   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/183tno5/dynamic_routing_with_react_without_nextjs/</guid>
-      <pubDate>Sat, 25 Nov 2023 21:11:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>现代认证指南</title>
-      <link>https://www.reddit.com/r/webdev/comments/183su5h/modern_authentication_guidance/</link>
-      <description><![CDATA[我只是想让这篇文章尽可能简单，因为我试图了解 Web 应用程序中身份验证的最佳实践。为此，我只想表达自己的想法，并获得一些反馈。我完全预料到在某些事情上我会犯错。我正在寻找指导，以确保我完全了解如何以最安全的方式部署具有身份验证的应用程序。 我远不是安全专家，但我对 JWT 身份验证和会话相对熟悉使用 cookie 进行身份验证。当我开始思考某些场景时，我开始感到非常困惑。我将阐述我的一些想法：  JWT 并不是最安全的方法。这是从 Redis 阅读 此 PDF 以及本·阿瓦德的视频。实现允许/阻止列表本质上与设置会话相同，但开销更大。 使用严格的 SameSite 时，使用 cookie 进行会话身份验证最为安全。  因此，如果您正在构建一个与前端分离的后端（例如 Rails API 和 React FE），那么似乎使用的最安全模式将是会话，并确保应用程序由同一服务器提供服务生产中的域。这可能需要通过像 Nginx 这样的反向代理来实现。 然后在开发中您可以简单地启用 CORS 并启用跨域 cookie。我走在正确的道路上吗？   由   提交 /u/portexe   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/183su5h/modern_authentication_guidance/</guid>
-      <pubDate>Sat, 25 Nov 2023 20:33:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>[周六炫耀] 为一家会计师事务所完成了一个新网站。采用非常传统的商务专业风格，并获得了完美的 100/100 页面速度分数。</title>
-      <link>https://www.reddit.com/r/webdev/comments/183rum4/showoff_saturday_wrapped_up_a_new_website_for_an/</link>
-      <description><![CDATA[   站点：https: //gsdaccountants.com 有一点乐趣，让他们标志中的灯在黑暗模式下也有闪烁的光芒。一点设计天赋只是为一个非常专业的网站添加更多细节和乐趣。在桌面上添加了一些奇特的滚动动画，因此我们可以稍微折叠标题以节省一些空间，但重要的按钮仍然可见并且能够与之交互。对于任何想要制作类似网站设计的人来说，这应该是一个很好的灵感设计。这一切都是使用 11ty 静态站点生成器通过 html 和 css 完成的。没有库或框架。   由   提交/u/Citrous_Oyster  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/183rum4/showoff_saturday_wrapped_up_a_new_website_for_an/</guid>
-      <pubDate>Sat, 25 Nov 2023 19:48:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>2023 年自由职业者需要学习的最佳技术堆栈是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/183rsbe/what_is_the_best_technology_stack_for_freelancers/</link>
-      <description><![CDATA[从供需比来看，哪种框架或技术更适合像我这样自由职业农民的职业前景？ &lt; p&gt;换句话说，那些在自由职业市场（而不是公司或企业 IT）招聘的人更经常寻找哪个堆栈？ 我发现 今年的旧帖子似乎暗示了 Laravel 和 Symfony。这仍然成立吗？   由   提交/u/pyeri  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/183rsbe/what_is_the_best_technology_stack_for_freelancers/</guid>
-      <pubDate>Sat, 25 Nov 2023 19:45:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
