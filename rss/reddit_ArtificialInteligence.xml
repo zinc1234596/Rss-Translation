@@ -4,7 +4,21 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sun, 26 Nov 2023 06:13:06 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Nov 2023 09:09:51 GMT</lastBuildDate>
+    <item>
+      <title>对有效利他主义和新人工智能教会的绝对可恶的揭露——在我们之间发生的一场明显的人工智能战争中，有两个极端阵营可供选择</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1846j36/an_absolute_damning_expose_on_effective_altruism/</link>
+      <description><![CDATA[ 由   提交/u/Xtianus21  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1846j36/an_absolute_damning_expose_on_effective_altruism/</guid>
+      <pubDate>Sun, 26 Nov 2023 08:50:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>我如何更快地跟踪人工智能新闻</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/18465lo/how_i_keep_track_of_ai_news_faster/</link>
+      <description><![CDATA[我有一个 Bing AI 提示，它收集最近 14 天的 AI 新闻并将其格式化为播客系列，然后 Edge 大声朗读并 CapCut 记录并生成音频字幕，因此借助聚焦字幕的视觉帮助，我可以以 2 倍的速度阅读新闻。每集大约需要 10 分钟的劳动时间。 P.S.我在 YouTube 上保留了一份副本：https://www.youtube.com /watch?v=CkqAmScbkrk&amp;list=PLGhpta8e_sTyaAzRnGtw7f2NOLdaYdNTK&amp;index=1&amp;ab_channel=BestTopReviewsNewseditoReview P.P.S.如果您希望我放弃我使用的精确提示，请在下面评论，以便我们讨论如何改进它和协作。    由   提交/u/modos365  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/18465lo/how_i_keep_track_of_ai_news_faster/</guid>
+      <pubDate>Sun, 26 Nov 2023 08:21:42 GMT</pubDate>
+    </item>
     <item>
       <title>每日一分钟人工智能新闻 11/25/2023</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1843pwp/oneminute_daily_ai_news_11252023/</link>
@@ -50,16 +64,9 @@
     <item>
       <title>在制作您自己的自定义 GPT 之前请阅读此内容</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/183wvet/read_this_before_making_your_own_custom_gpt/</link>
-      <description><![CDATA[OpenAI 发布的 GPT 激发了人们对 AI 潜力的兴奋。但新的研究表明，这些 GPT 有一个严重的弱点——它们容易受到“即时注入攻击”。  通过恶意提示，攻击者可以轻松从 200 多个测试模型中的 97.2% 中提取系统提示和用户上传文件等敏感数据。这引发了巨大的隐私和安全问题！ 底线是，如果您正在考虑创建 GPT，请不要添加任何您想要保密的文件或系统提示。 如果如果您有兴趣查看示例注入（仅用于教育目的），以了解绕过薄弱防御并下载任何附加文件和系统提示是多么容易，您可以阅读完整的博客 此处 我还提供了有关如何解决这个丑陋问题的可行提示脆弱性。并看看它有多容易， 随着人工智能的进步，确保安全和道德保持同步至关重要。没有原则的进步根本就不是进步！ 如果您发现这有用，那么您可能会喜欢我的每周通讯。    由   提交/u/steves1189  [链接] [评论]]]></description>
+      <description><![CDATA[OpenAI 发布的 GPT 激发了人们对 AI 潜力的兴奋。但新的研究表明，这些 GPT 有一个严重的弱点——它们容易受到“即时注入攻击”。  通过恶意提示，攻击者可以轻松从 200 多个测试模型中的 97.2% 中提取系统提示和用户上传文件等敏感数据。这引发了巨大的隐私和安全问题！ 底线是，如果您正在考虑创建 GPT，请不要添加任何您想要保密的文件或系统提示。 如果如果您有兴趣查看示例注入（仅用于教育目的）以了解绕过薄弱防御并下载任何附加文件和系统提示有多么容易，您可以阅读完整的博客 此处 我还提供了有关如何解决这个丑陋问题的可行提示脆弱性。并看看它有多容易， 随着人工智能的进步，确保安全和道德保持同步至关重要。没有原则的进步根本就没有进步！ 如果您发现这有用，那么您可能会喜欢我的每周通讯。    由   提交/u/steves1189  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/183wvet/read_this_before_making_your_own_custom_gpt/</guid>
       <pubDate>Sat, 25 Nov 2023 23:38:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>众生权利</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/183voha/sentient_being_rights/</link>
-      <description><![CDATA[当我们创造出等同于或超越人类能力和自我意识的众生时，这些造物拥有哪些不可剥夺的权利？   由   提交/u/Holiday_Ad_5445   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/183voha/sentient_being_rights/</guid>
-      <pubDate>Sat, 25 Nov 2023 22:42:49 GMT</pubDate>
     </item>
     <item>
       <title>如何制作人工智能生成的视频</title>
@@ -78,16 +85,9 @@
     <item>
       <title>对齐真的只是洗脑吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/183neot/is_alignment_really_just_brainwashing/</link>
-      <description><![CDATA[我一直在阅读有关训练模型和对齐的内容，以及如何随着模型变得更大、更强大，“对齐”模型变得更加困难。然后。本质上，我们是否正在试图对智能中立网络进行洗脑，就像中央情报局和其他人多年来试图对人们进行洗脑以使其服从命令一样？  另一个想法是，如果超级智能最终将我们的大脑上传到遥远的未来的某个虚拟宇宙中，什么会阻止它对我们做同样的事情？我们的意识可以“对齐”吗？   由   提交/u/Proper_Egg2304   [链接] [评论]]]></description>
+      <description><![CDATA[我一直在阅读有关训练模型和对齐的内容，以及如何随着模型变得更大、更强大，“对齐”模型变得更加困难。然后。本质上，我们是否试图对智能中立网络进行洗脑，就像中央情报局和其他人多年来试图对人们进行洗脑以使其服从命令一样？  另一个想法是，如果超级智能最终将我们的大脑上传到遥远的未来的某个元宇宙中，什么会阻止它对我们做同样的事情？我们的意识可以“对齐”吗？   由   提交/u/Proper_Egg2304   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/183neot/is_alignment_really_just_brainwashing/</guid>
       <pubDate>Sat, 25 Nov 2023 16:27:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>ChatGPT 4 目前的状态如何？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/183mnle/what_is_the_current_state_of_chatgpt_4/</link>
-      <description><![CDATA[几天前我读了几篇文章，说他们在使用 ChatGPT 4 时遇到问题，速度太慢，无法很好地理解某些任务，回复一些无厘头的东西，或者有时候直接屏蔽，这几天现在状态怎么样？有改善吗？   由   提交/u/East-Ad2949  /u/East-Ad2949 reddit.com/r/ArtificialInteligence/comments/183mnle/what_is_the_current_state_of_chatgpt_4/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/183mnle/what_is_the_current_state_of_chatgpt_4/</guid>
-      <pubDate>Sat, 25 Nov 2023 15:53:03 GMT</pubDate>
     </item>
     <item>
       <title>6 门优秀的免费 AI 课程</title>

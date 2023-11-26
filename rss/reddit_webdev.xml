@@ -4,7 +4,21 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 26 Nov 2023 06:14:16 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Nov 2023 09:11:24 GMT</lastBuildDate>
+    <item>
+      <title>人工智能会减少需求和工资吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1846r53/will_ai_decrease_demand_and_salaries/</link>
+      <description><![CDATA[大家好。  我是网络开发新手，到目前为止进展顺利。  我有点害怕人工智能的发展。假设在 ChatGPT 之前，一个项目需要 10 名开发人员，现在需要 8 名。 随着人工智能的发展，我们需要的人会更少。  为什么人们认为人工智能不会降低网络开发人员的需求和工资？这对我来说是逻辑，我错过了什么？   由   提交 /u/Proud-Confidence7290    reddit.com/r/webdev/comments/1846r53/will_ai_decrease_demand_and_salaries/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1846r53/will_ai_decrease_demand_and_salaries/</guid>
+      <pubDate>Sun, 26 Nov 2023 09:07:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>老化代码</title>
+      <link>https://www.reddit.com/r/webdev/comments/1846qyk/aging_code/</link>
+      <description><![CDATA[      &amp;# 32；由   提交/u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1846qyk/aging_code/</guid>
+      <pubDate>Sun, 26 Nov 2023 09:06:37 GMT</pubDate>
+    </item>
     <item>
       <title>我怎样才能在饱和的开发工作中获得优势？</title>
       <link>https://www.reddit.com/r/webdev/comments/18447fp/what_can_i_do_to_get_an_advantage_in_the/</link>
@@ -78,7 +92,7 @@
     <item>
       <title>使用 MERN 堆栈获取发布项目的用户的位置</title>
       <link>https://www.reddit.com/r/webdev/comments/183w3o0/getting_the_location_of_a_user_who_posted_an_item/</link>
-      <description><![CDATA[所以我正在使用 MERN 堆栈开发一个电子商务应用程序，现在我一直在使用这个 `useAuth` 函数，它允许您获取当前用户的信息以在导航栏中动态呈现他们的位置。但是，我现在正在主页上工作，我正在尝试获取发布项目的用户的位置，而不是当前登录/经过身份验证的用户的位置（这就是 useAuth 正在做的事情）。有人有什么建议吗？我刚刚更新了项目架构以包含位置，但是当用户提交项目时，我只询问名称、价格、描述和条件，因为期望在注册时保存其位置。欢迎任何建议。谢谢！ 这是 useAuth（我的一位团队成员致力于此）： import { createContext, useContext, useState, useEffect } from &quot;react&quot;; const AuthContext = createContext();导出 const AuthProvider = ({ 孩子 }) =&gt; { const [已验证，setAuthenticated] = useState(false); const [用户，setUser] = useState(null); useEffect(() =&gt; { console.log(authenticated, &#39;在 AuthProvider 中进行身份验证&#39;); }, [authenticated]); const login = async (电子邮件, 密码) =&gt;; { 尝试 { const response = wait fetch(&#39;http://localhost:5003/api/login&#39;, { method: &#39;POST&#39;, headers: { &#39;Content-Type&#39;: &#39;application/json&#39;, }, body: JSON .stringify({ 电子邮件, 密码 }), 凭证: &#39;include&#39;, }); if (response.status === 200) { console.log(&#39;response.status === 200&#39;) setAuthenticated(true); const getUser = wait fetch(&#39;http://localhost:5003/api/auth&#39;, { 方法: &#39;GET&#39;, 凭证: &#39;include&#39; }); const user = wait getUser.json(); setUser(用户.用户); } else { console.log(&#39;是否打印&#39;); setAuthenticated(假); } } catch (error) { console.log(&#39;catch(error) 打印吗？&#39;) console.error(error); setAuthenticated(假); const loginWithPromise = (电子邮件, 密码) =&gt; { return new Promise(async (resolve,拒绝) =&gt; { try { 等待登录(电子邮件, 密码);resolve(); } catch (错误) { 拒绝(错误); } }); }; return (  {children}  ) } 导出 const useAuth = () =&gt;; { 返回 useContext(AuthContext); }  ​   由   提交/u/Willing_Teaching_526   [链接] [评论]]]></description>
+      <description><![CDATA[所以我正在使用 MERN 堆栈开发一个电子商务应用程序，现在我一直在使用这个 `useAuth` 函数，它允许您获取当前用户的信息以在导航栏中动态呈现他们的位置。但是，我现在正在主页上工作，我正在尝试获取发布项目的用户的位置，而不是当前登录/经过身份验证的用户的位置（这就是 useAuth 正在做的事情）。有人有什么建议吗？我刚刚更新了项目架构以包括位置，但是当用户提交项目时，我只询问名称、价格、描述和条件，因为期望他们的位置将在注册时保存。欢迎任何建议。谢谢！ 这是 useAuth（我的一位团队成员致力于此）： import { createContext, useContext, useState, useEffect } from &quot;react&quot;; const AuthContext = createContext();导出 const AuthProvider = ({ 孩子 }) =&gt; { const [已验证，setAuthenticated] = useState(false); const [用户，setUser] = useState(null); useEffect(() =&gt; { console.log(authenticated, &#39;在 AuthProvider 中进行身份验证&#39;); }, [authenticated]); const login = async (电子邮件, 密码) =&gt;; { 尝试 { const response = wait fetch(&#39;http://localhost:5003/api/login&#39;, { method: &#39;POST&#39;, headers: { &#39;Content-Type&#39;: &#39;application/json&#39;, }, body: JSON .stringify({ 电子邮件, 密码 }), 凭证: &#39;include&#39;, }); if (response.status === 200) { console.log(&#39;response.status === 200&#39;) setAuthenticated(true); const getUser = wait fetch(&#39;http://localhost:5003/api/auth&#39;, { 方法: &#39;GET&#39;, 凭证: &#39;include&#39; }); const user = wait getUser.json(); setUser(用户.用户); } else { console.log(&#39;是否打印&#39;); setAuthenticated(假); } } catch (error) { console.log(&#39;catch(error) 打印吗？&#39;) console.error(error); setAuthenticated(假); const loginWithPromise = (电子邮件, 密码) =&gt; { return new Promise(async (resolve,拒绝) =&gt; { try { 等待登录(电子邮件, 密码);resolve(); } catch (错误) { 拒绝(错误); } }); }; return (  {children}  ) } 导出 const useAuth = () =&gt;; { 返回 useContext(AuthContext); }  ​   由   提交/u/Willing_Teaching_526   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/183w3o0/getting_the_location_of_a_user_who_posted_an_item/</guid>
       <pubDate>Sat, 25 Nov 2023 23:01:34 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[       由   提交/u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/183urd3/turbo_8_is_dropping_typescript/</guid>
       <pubDate>Sat, 25 Nov 2023 22:01:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人还在寻找 MidJourney API 吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/183uhxn/anyone_still_looking_for_a_midjourney_api/</link>
-      <description><![CDATA[嘿伙计们，我正在慢慢推出 mjapi。我于 5 月份首次在 r/Bitcoin，并且最近对其进行了修改，因为用户不断询问新功能和修复。 您正在使用哪些 API？您觉得缺少什么？我可以利用这个机会来改进 mjapi 本身。希望在这里发帖没问题   由   提交/u/lutian  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/183uhxn/anyone_still_looking_for_a_midjourney_api/</guid>
-      <pubDate>Sat, 25 Nov 2023 21:49:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>使 API 易于构建、维护和部署</title>
-      <link>https://www.reddit.com/r/webdev/comments/183ub3u/making_apis_easy_to_build_maintain_and_deploy/</link>
-      <description><![CDATA[嘿， 我想分享我的新项目，休息。该产品的目标是简化 API 的创建、管理和部署，只需单击几下即可。 我喜欢称其为“B.Y.O.D”。它代表“自带数据”。 :P 到目前为止，我们已经收到了 100 多个测试版注册用户，他们很高兴能够在测试版中首先使用它。在测试阶段，我们将免费提供该服务，同时解决任何问题。 对于任何寻求更简单的方法来构建和部署 API 的开发人员，请注册我们的测试版！ 如果您想讨论任何问题或有任何建议，请随时在 Twitter 上与我联系！ https://twitter.com/rhysbeingsocial 该网站可以在这里找到：https://rest.so   由   提交/u/rhysbeingsocial  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/183ub3u/making_apis_easy_to_build_maintain_and_deploy/</guid>
-      <pubDate>Sat, 25 Nov 2023 21:41:10 GMT</pubDate>
     </item>
     </channel>
 </rss>

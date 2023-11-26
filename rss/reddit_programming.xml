@@ -4,13 +4,34 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Sun, 26 Nov 2023 06:14:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Nov 2023 09:11:08 GMT</lastBuildDate>
     <item>
-      <title>中国黑客窃取荷兰主要半导体公司的芯片设计</title>
-      <link>https://www.reddit.com/r/programming/comments/1843r5f/chinese_hackers_steal_chip_designs_from_major/</link>
+      <title>年轻开发者的奋斗</title>
+      <link>https://www.reddit.com/r/programming/comments/1846sf2/the_struggles_of_a_young_developer/</link>
       <description><![CDATA[ 由   提交 /u/Mariambarouma   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1843r5f/chinese_hackers_steal_chip_designs_from_major/</guid>
-      <pubDate>Sun, 26 Nov 2023 05:42:07 GMT</pubDate>
+      <guid>https://www.reddit.com/r/programming/comments/1846sf2/the_struggles_of_a_young_developer/</guid>
+      <pubDate>Sun, 26 Nov 2023 09:09:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>akrylysov/pogreb：用 Go 编写的用于读取繁重工作负载的嵌入式键值存储（持久哈希图与 B 树）</title>
+      <link>https://www.reddit.com/r/programming/comments/1846qhr/akrylysovpogreb_embedded_keyvalue_store_for/</link>
+      <description><![CDATA[ 由   提交 /u/EmmanuelOga   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1846qhr/akrylysovpogreb_embedded_keyvalue_store_for/</guid>
+      <pubDate>Sun, 26 Nov 2023 09:05:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了一个免费的编码面试准备平台，其中包含视频和文本解释，其中包含所有顶级问题列表中的 200 多个问题（Blind 75、Prashad Leetcode Patterns、Neetcode）</title>
+      <link>https://www.reddit.com/r/programming/comments/1846jwm/i_created_a_free_coding_interview_prep_platform/</link>
+      <description><![CDATA[ 由   提交/u/KingOfInterviews  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1846jwm/i_created_a_free_coding_interview_prep_platform/</guid>
+      <pubDate>Sun, 26 Nov 2023 08:51:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人知道如何成为像 Stuff Made Here 的 Shawn 一样的程序员吗？如果您不知道我在说什么，请观看 YouTube 上他的解谜算法视频。视频标题：“世界上最难的拼图 vs 拼图机（全白）”</title>
+      <link>https://www.reddit.com/r/programming/comments/1846h0p/anyone_got_any_idea_how_to_become_a_programmer/</link>
+      <description><![CDATA[ 由   提交/u/Affectionate_Head573  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1846h0p/anyone_got_any_idea_how_to_become_a_programmer/</guid>
+      <pubDate>Sun, 26 Nov 2023 08:45:54 GMT</pubDate>
     </item>
     <item>
       <title>组合相对于继承的逆向观点</title>
@@ -88,27 +109,6 @@
       <description><![CDATA[ 由   提交/u/Double-Ad-865   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/183m5u3/kernel_development_for_beginners_tutorial/</guid>
       <pubDate>Sat, 25 Nov 2023 15:30:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>GitQL 0.9.0 发布，带有 Time、Date 和 DateTime 隐式转换</title>
-      <link>https://www.reddit.com/r/programming/comments/183ktty/gitql_090_is_released_with_time_date_and_datetime/</link>
-      <description><![CDATA[ 由   提交 /u/AmrDeveloper   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/183ktty/gitql_090_is_released_with_time_date_and_datetime/</guid>
-      <pubDate>Sat, 25 Nov 2023 14:24:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>Packrat 解析和解析表达式语法</title>
-      <link>https://www.reddit.com/r/programming/comments/183kqq6/packrat_parsing_and_parsing_expression_grammars/</link>
-      <description><![CDATA[ 由   提交/u/luciferreeves  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/183kqq6/packrat_parsing_and_parsing_expression_grammars/</guid>
-      <pubDate>Sat, 25 Nov 2023 14:20:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>从命令行访问备忘单</title>
-      <link>https://www.reddit.com/r/programming/comments/183ikre/accessing_cheatsheets_from_the_command_line/</link>
-      <description><![CDATA[ 由   提交 /u/clouddjr   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/183ikre/accessing_cheatsheets_from_the_command_line/</guid>
-      <pubDate>Sat, 25 Nov 2023 12:19:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
