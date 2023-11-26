@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Sun, 26 Nov 2023 08:46:41 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Nov 2023 11:56:48 GMT</lastBuildDate>
     <item>
-      <title>[媒体] DNS TXT 记录的乐趣</title>
-      <link>https://t.me/hn_summary/60762</link>
-      <description><![CDATA[DNS TXT 记录的乐趣
-本文讨论了使用 DNS TXT 记录来存储任意字符串属性。它解释说，虽然属性名称允许任何可打印的 ASCII 字符，但某些 DNS 服务器实现可能对 TXT 记录的大小或数量有限制。然后，作者演示了如何使用 Python、base64 和 zlib 压缩数据以保持在 255 字节限制以下，从而实现最大兼容性。他们通过使用压缩数据创建 TXT 记录并成功解压缩来提供概念证明。本文还探讨了使用 DNS 作为密码管理器、加密机密并将其存储在 TXT 记录中的想法。作者承认其缺点，并建议更多的注册商应该拥有用于更新记录的 API。]]></description>
-      <guid>https://t.me/hn_summary/60762</guid>
-      <pubDate>Sun, 26 Nov 2023 08:46:41 GMT</pubDate>
+      <title>[媒体]自Oh-My-God粒子以来最强大的宇宙射线令科学家困惑</title>
+      <link>https://t.me/hn_summary/60773</link>
+      <description><![CDATA[自 Oh-My-God 粒子谜题以来最强大的宇宙射线科学家
+科学家最近探测到了三十多年来最强大的宇宙射线，估计能量为 240 艾电子伏 (EeV)。这种高能粒子的起源仍然是个谜，导致一些人认为它可能是未知物理的结果。宇宙射线实际上是高能亚原子粒子，通常是质子，以接近光速的速度穿过太空。检测到如此强大的宇宙射线令人惊讶，并引发了关于什么可以产生如此高能量的问题。研究人员目前正在升级他们的设备，以捕获更多这些罕见的宇宙射线并更好地了解它们的起源。]]></description>
+      <guid>https://t.me/hn_summary/60773</guid>
+      <pubDate>Sun, 26 Nov 2023 11:56:48 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 地心轨道编队飞行干涉测量</title>
-      <link>https://t.me/hn_summary/60761</link>
-      <description><![CDATA[地心轨道编队飞行干涉测量
-编队飞行干涉测量是一种用于太空任务的技术，旨在提高天文观测的分辨率和灵敏度。本文提出了在地心轨道上实施编队飞行干涉测量的可行性研究。作者提出了一个任务概念，其中涉及多个航天器彼此靠近飞行，每个航天器都配备了望远镜。通过结合望远镜接收到的信号，可以大大提高观测的分辨率。本文讨论了这种方法的技术挑战和潜在好处，强调了天体物理学突破性发现的潜力。]]></description>
-      <guid>https://t.me/hn_summary/60761</guid>
-      <pubDate>Sun, 26 Nov 2023 07:52:19 GMT</pubDate>
+      <title>[媒体] 在我们与您通话时明确说明，以保护您免受欺诈</title>
+      <link>https://t.me/hn_summary/60772</link>
+      <description><![CDATA[明确说明我们何时与您通话以提供保护您免遭欺诈
+Monzo 在其应用程序上推出了一项新功能，允许客户验证自称来自银行的来电者是否真实。通过检查应用程序隐私和安全设置中的“Monzo 通话状态”，客户可以确认 Monzo 团队的成员是否正在与他们通话。如果通话状态显示 Monzo 无人与他们通话，建议客户挂断电话并将通话报告为潜在欺诈。自该功能推出以来，客户每天使用该功能举报可疑欺诈行为的次数约为 100 次。 Monzo 计划在未来使该功能更加明显且更易于访问。]]></description>
+      <guid>https://t.me/hn_summary/60772</guid>
+      <pubDate>Sun, 26 Nov 2023 11:41:36 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 建构情感理论</title>
-      <link>https://t.me/hn_summary/60760</link>
-      <description><![CDATA[建构情感理论
-建构情感理论由丽莎·费尔德曼·巴雷特（Lisa Feldman Barrett）提出，旨在解释情感的体验和感知。该理论认为，情绪的实例是由大脑在需要时根据社会构建、心理构建和神经构建而构建的。巴雷特发展这一理论是为了解决“情感悖论”，即人们对情感的生动体验与科学证据中对离散情感类别缺乏一致支持之间的脱节。该理论挑战了情感是遗传赋予的假设，并提出情感是从更基本的成分中出现在意识中的现象。]]></description>
-      <guid>https://t.me/hn_summary/60760</guid>
-      <pubDate>Sun, 26 Nov 2023 07:44:20 GMT</pubDate>
+      <title>[媒体]乘客可以入侵飞机吗？</title>
+      <link>https://t.me/hn_summary/60771</link>
+      <description><![CDATA[乘客可以破解飞机吗？
+在这篇博文中，道德黑客 Ken Munro 讨论了飞机安全并揭穿了一些有关乘客黑客攻击的常见神话。蒙罗的公司 Pen Test Partners 有机会在飞机墓地测试退役飞机，为他们的研究提供安全的环境。虽然芒罗找到了破坏机上娱乐系统的方法，但他强调，由于飞机网络的仔细隔离，乘客对关键系统进行黑客攻击的可能性极小。然而，蒙罗确实发现了电子飞行包的漏洞，这可能会导致安全事故。他赞扬了航空业​​不加指责地报告事件和事故的文化，从而可以共享学习并提高安全性。 （根据 90% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/60771</guid>
+      <pubDate>Sun, 26 Nov 2023 11:34:25 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 研究发现变焦疲劳不仅仅存在于您的头脑中</title>
-      <link>https://t.me/hn_summary/60759</link>
-      <description><![CDATA[研究发现，变焦疲劳不仅仅存在于您的头脑中
-一项新研究发现，视频会议比面对面会议更让人疲惫不堪。研究人员使用大脑和心脏扫描来测量参与者在 50 分钟视频会议后的生理变化。研究建议30分钟后休息一下，以避免疲劳程度发生显着变化。研究结果表明，视频会议应被视为面对面互动的补充，而不是替代品。这项研究的与众不同之处在于它使用了神经学证据，而不是依赖于自我报告的疲惫程度。尽管大流行期间视频会议有所增加，但并非每个人都会经历 Zoom 疲劳，只有不到十分之四的员工表示因视频会议而感到疲惫。]]></description>
-      <guid>https://t.me/hn_summary/60759</guid>
-      <pubDate>Sun, 26 Nov 2023 07:24:05 GMT</pubDate>
+      <title>VectorDB：Kagi Search 构建的矢量数据库</title>
+      <link>https://t.me/hn_summary/60770</link>
+      <description><![CDATA[VectorDB：Kagi Search 构建的矢量数据库
+VectorDB是Kagi Search构建的矢量数据库，允许用户存储和搜索文本数据。它提供了一个名为“vectordb”的 Python 库，允许用户保存文本数据和元数据并对数据执行搜索。提供的示例代码演示了如何使用 vectordb 库保存文本数据和元数据，以及如何执行搜索查询。该示例还包括两个示例文本，一个介绍机器学习，另一个介绍人工智能，并演示了如何根据查询搜索相关结果。]]></description>
+      <guid>https://t.me/hn_summary/60770</guid>
+      <pubDate>Sun, 26 Nov 2023 11:12:12 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]多西环素、阿奇霉素和维生素 C (DAV)：根除癌症干细胞</title>
-      <link>https://t.me/hn_summary/60758</link>
-      <description><![CDATA[多西环素、阿奇霉素和维生素 C (DAV)：根除癌症干细胞
-该文章讨论了一种根除癌症干细胞 (CSC) 的新策略，该策略使用 FDA 批准的两种抗生素强力霉素和阿奇霉素以及维生素 C 的联合疗法。该方法旨在诱导癌症中的“类零”表型细胞，有效抑制 CSC 增殖。研究发现，该联合疗法可显着抑制乳腺癌细胞中乳腺球的形成，并减少线粒体功能和 ATP 产生。该研究表明，这种策略可能是一种有前途的癌症治疗方法。此外，文章还提到阿奇霉素作为一种选择性杀死衰老成纤维细胞的抗衰老药物的潜在影响。 （根据故事文本的 24% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/60758</guid>
-      <pubDate>Sun, 26 Nov 2023 06:42:47 GMT</pubDate>
+      <title>每日喝咖啡的习惯可能会影响大脑的可塑性和学习</title>
+      <link>https://t.me/hn_summary/60769</link>
+      <description><![CDATA[每日喝咖啡的习惯可能会影响大脑可塑性和学习&lt; br /&gt;
+新研究表明，长期摄入咖啡因可能会影响大脑可塑性和重复经颅磁刺激（rTMS）（一种治疗神经精神疾病的方法）的有效性。咖啡因在大脑中充当腺苷受体拮抗剂，影响突触强度和可塑性过程，如长时程增强 (LTP)，这对学习和记忆至关重要。初步研究表明，定期摄入咖啡因可能会降低大脑类似 LTP 的可塑性，从而可能影响 rTMS 治疗的成功。然而，需要更广泛的研究来充分了解习惯性摄入咖啡因对大脑的影响。这项研究提出了关于每日摄入咖啡因的长期认知影响以及改变这些习惯是否可以提高学习能力的问题。]]></description>
+      <guid>https://t.me/hn_summary/60769</guid>
+      <pubDate>Sun, 26 Nov 2023 10:56:02 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Shopify 的 egress 周五处理了 145B 请求</title>
-      <link>https://t.me/hn_summary/60757</link>
-      <description><![CDATA[Shopify 的出口在周五处理了 145B 个请求
-周五，Shopify 的出口处理了惊人的 1450 亿个请求。这证明了我们平台令人难以置信的规模和效率。我们的团队不知疲倦地工作，以确保我们的基础设施能够处理如此大量的流量，我们对结果感到自豪。这一里程碑体现了商家和客户对 Shopify 的信任，我们致力于继续为所有人提供无缝且可靠的体验。]]></description>
-      <guid>https://t.me/hn_summary/60757</guid>
-      <pubDate>Sun, 26 Nov 2023 06:16:33 GMT</pubDate>
+      <title>[媒体]悉尼地下意大利面枢纽开放</title>
+      <link>https://t.me/hn_summary/60768</link>
+      <description><![CDATA[悉尼地下意大利面枢纽开放
+悉尼的 M4 East 隧道于 2019 年开通，但一些司机在 Homebush 一条新的三车道东行隧道入口处倒车或停车，以避免收费。预计早高峰期间，City West Link 和 Victoria Road 的主要交汇点会出现交通拥堵。该立交桥将驾车者连接到该地区的各种隧道、桥梁和道路。立交桥上方的一个新公园将于几周内开放。]]></description>
+      <guid>https://t.me/hn_summary/60768</guid>
+      <pubDate>Sun, 26 Nov 2023 10:52:53 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]“我们想政变谁就政变谁！”</title>
-      <link>https://t.me/hn_summary/60756</link>
-      <description><![CDATA[&#39;我们想政变谁就政变谁！&#39;&lt; br/&gt;
-网络内容讨论了当今科技亿万富翁的独特特征和抱负。它强调了他们奢侈的生活方式、古怪的社交媒体声明以及对未来的宏伟愿景，例如在月球或火星上建立殖民地。文章还指出，这些亿万富翁拥有前所未有的广泛权力，控制着多个行业和平台。它批评他们无视社会规范和相信自己在所有领域的专业知识。争议的方面包括其外在危害，例如促进民主的破坏，以及反民主措施，例如扎克伯格设立独立监督委员会。 （根据 81% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/60756</guid>
-      <pubDate>Sun, 26 Nov 2023 06:15:26 GMT</pubDate>
+      <title>LucidDreamer：3D 高斯飞溅场景的无域生成</title>
+      <link>https://t.me/hn_summary/60767</link>
+      <description><![CDATA[LucidDreamer：无域生成 3D 高斯飞溅场景
+LucidDreamer 是一个无域场景生成管道，它利用大规模基于扩散的生成模型的强大功能。与现有模型不同，LucidDreamer 不会将目标场景限制在特定域，并且可以生成高度详细的高斯图。该管道由两个步骤组成：梦想和对齐。在梦想步骤中，通过使用点云作为几何指导来生成多视图一致图像。在对齐步骤中，新生成的 3D 场景和谐地集成到 3D 场景中。 LucidDreamer 还可以接受文本提示，以对场景生成进行细粒度控制。与其他方法相比，LucidDreamer 生成的场景在感知质量和重建指标方面显示出主导结果。]]></description>
+      <guid>https://t.me/hn_summary/60767</guid>
+      <pubDate>Sun, 26 Nov 2023 10:51:48 GMT</pubDate>
     </item>
     <item>
-      <title>让我们写一个 Malloc</title>
-      <link>https://t.me/hn_summary/60755</link>
-      <description><![CDATA[让我们编写一个 Malloc
-danluu.com 上的本教程介绍了如何在C 以及它如何与现有程序一起工作。本教程假设读者具备指针、C 编程和链表方面的知识。 malloc 函数动态分配内存并返回指向指定大小的内存块的指针。本教程解释了使用 sbrk 函数操作堆的 malloc 的实现。它还讨论了 free 函数的实现以及管理内存块的挑战。本教程最后提到了 realloc 和 calloc 函数的实现。 （根据 47% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/60755</guid>
-      <pubDate>Sun, 26 Nov 2023 06:15:20 GMT</pubDate>
+      <title>[媒体] Show HN：LockDB 现在原生支持对多个锁进行操作</title>
+      <link>https://t.me/hn_summary/60766</link>
+      <description><![CDATA[显示 HN：LockDB 现在原生支持对多个锁进行操作
+LockDB 是一个用于处理进程/事件锁定和避免竞争条件的跨平台工具，已发布版本 0.2.0，现在支持多个锁。这一备受期待的功能使开发人员能够轻松地同时锁定、解锁和检查多个锁，使其更适合复杂的锁定需求，尤其是在分布式系统中。 LockDB 轻量级、无依赖且易于使用，使其成为管理应用程序并发性的理想选择。该更新保持了完全的向后兼容性，因此使用 LockDB 的单锁功能的现有代码将继续无缝工作。用户可以免费试用LockDB 30天，看看是否满足自己的需求。]]></description>
+      <guid>https://t.me/hn_summary/60766</guid>
+      <pubDate>Sun, 26 Nov 2023 10:08:30 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Maddy 在 Oracle Cloud 上自托管电子邮件</title>
-      <link>https://t.me/hn_summary/60754</link>
-      <description><![CDATA[Maddy 在 Oracle 云上自托管电子邮件
-此 Web 内容的作者讨论了使用 Oracle Cloud 设置自托管电子邮件服务器的过程。作者解释说，由于域名注册商的价格上涨和取消免费邮箱服务，他们被迫寻找替代邮件服务Gandi.net。它们详细概述了电子邮件的工作原理，包括 SMTP、POP3 和 IMAP 等协议的使用。作者还讨论了电子邮件传送的重要方面，例如 MX 记录、PTR 记录、SPF 记录和 DKIM 记录。总的来说，该内容提供了设置自托管电子邮件服务器的全面指南。 （根据故事文本的 33% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/60754</guid>
-      <pubDate>Sun, 26 Nov 2023 06:13:14 GMT</pubDate>
+      <title>[媒体]路透社：一家印度初创公司如何入侵世界</title>
+      <link>https://t.me/hn_summary/60765</link>
+      <description><![CDATA[路透社：一家印度初创公司如何入侵世界&lt; br /&gt;
+文章讨论了一家名为 Appin 的印度初创公司如何大规模入侵各种计算机系统，窃取政治领导人、国际高管等的数据。该公司为私家侦探提供网络间谍服务，并吹嘘网络间谍和电子邮件监控等活动。文章强调了围绕 Appin 行为的争议以及未经授权访问计算机系统的法律影响。它还提到 Appin 的创始人 Rajat 和 Anuj Khare 否认参与任何非法黑客活动，并声称该公司专注于教授网络安全和网络防御。该文章提供了 Appin 黑客活动及其对各种个人和组织影响的证据。 （根据故事文本的 28% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/60765</guid>
+      <pubDate>Sun, 26 Nov 2023 10:03:23 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 研究表明，大规模监视压制了少数群体的意见（2016）</title>
-      <link>https://t.me/hn_summary/60753</link>
-      <description><![CDATA[根据研究（2016），大规模监视压制了少数群体的意见
-《新闻与大众传播季刊》上发表的一项研究表明，对政府监控的了解会导致人们在网上自我审查不同意见。这项研究挑战了社交媒体和互联网接入对少数群体意见具有民主化作用的观点。研究表明，被提醒注意大规模监视的参与者更有可能压制自己不受欢迎的观点。这种现象被称为“沉默的螺旋”，是指人们为了融入社会并避免孤立而压抑自己的观点的倾向。该研究通过研究政府监控如何具体影响自我审查，增加了一个新的层面。首席研究员伊丽莎白·斯托伊切夫 (Elizabeth Stoycheff) 对这些发现感到不安，她认为监视会助长自我审查文化，从而进一步剥夺少数群体的权利并阻碍民主。]]></description>
-      <guid>https://t.me/hn_summary/60753</guid>
-      <pubDate>Sun, 26 Nov 2023 06:12:08 GMT</pubDate>
+      <title>[媒体] 勒索软件响应清单</title>
+      <link>https://t.me/hn_summary/60764</link>
+      <description><![CDATA[勒索软件响应清单
+CISA（网络安全和基础设施安全局）提供的勒索软件响应清单为组织有效响应勒索软件攻击提供了全面的指南。该清单强调了制定强有力的事件响应计划的重要性，包括隔离受影响的系统、通知有关当局和保存证据等步骤。它还强调了定期备份数据和实施强有力的安全措施以防止未来攻击的重要性。此清单是组织减轻勒索软件攻击影响并保护其敏感信息的宝贵资源。]]></description>
+      <guid>https://t.me/hn_summary/60764</guid>
+      <pubDate>Sun, 26 Nov 2023 09:24:04 GMT</pubDate>
     </item>
     </channel>
 </rss>

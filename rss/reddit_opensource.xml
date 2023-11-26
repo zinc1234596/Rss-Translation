@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 26 Nov 2023 09:11:31 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Nov 2023 12:18:30 GMT</lastBuildDate>
+    <item>
+      <title>AUNIX：另一个不同的 Linux 发行版安装程序</title>
+      <link>https://www.reddit.com/r/opensource/comments/1846vh1/aunix_another_linux_distro_installer_with_a/</link>
+      <description><![CDATA[ 由   提交 /u/notSugarBun   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1846vh1/aunix_another_linux_distro_installer_with_a/</guid>
+      <pubDate>Sun, 26 Nov 2023 09:15:52 GMT</pubDate>
+    </item>
     <item>
       <title>CursusDB - 高性能内存分布式 JSON 类型数据库。</title>
       <link>https://www.reddit.com/r/opensource/comments/1841gi6/cursusdb_highly_performant_inmemory_distributed/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>客户端-服务器剪贴板同步应用程序的建议</title>
       <link>https://www.reddit.com/r/opensource/comments/183yc9w/recommendations_for_a_clientserver_clipboard/</link>
-      <description><![CDATA[大家好。 我使用 Android 手机、Mac Book、Windows 桌面和 Linux 服务器。我想在台式机、笔记本电脑和手机之间持续同步剪贴板。 理论上，KDE 连接应该可以工作，但事实并非如此。即使我使用家庭 WiFi，该应用程序也经常无法发现其他配对设备并与其同步。我已经为我的所有设备分配了静态 IP，但这似乎没有帮助。 如果我在工作时使用公司 WiFi，KDE Con​​nect 当然不起作用。 我正在寻找一个应用程序，该应用程序可以在复制文本或图像后立即加密剪贴板数据并将其发送到我的服务器，并将其转发到所有其他在线/配对设备。我希望 Android 应用程序使用 GCM 或 ntfy 之类的电池友好型设备来接收传入的剪贴板数据。 是否存在这样的东西？ 提前致谢！   由   提交/u/bigCanadianMooseHunt  [链接] [评论]]]></description>
+      <description><![CDATA[大家好。 我使用 Android 手机、Mac Book、Windows 桌面和 Linux 服务器。我想在台式机、笔记本电脑和手机之间持续同步剪贴板。 理论上，KDE 连接应该可以工作，但事实并非如此。即使我使用家庭 WiFi，该应用程序也经常无法发现其他配对设备并与其同步。我已为所有设备分配了静态 IP，但这似乎没有帮助。 如果我在工作时使用公司 WiFi，KDE Con​​nect 当然不起作用。 我正在寻找一个应用程序，该应用程序可以在复制文本或图像后立即加密剪贴板数据并将其发送到我的服务器，并将其转发到所有其他在线/配对设备。我希望 Android 应用程序使用 GCM 或 ntfy 之类的电池友好型设备来接收传入的剪贴板数据。 是否存在这样的东西？ 提前致谢！   由   提交/u/bigCanadianMooseHunt  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/183yc9w/recommendations_for_a_clientserver_clipboard/</guid>
       <pubDate>Sun, 26 Nov 2023 00:49:40 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[我想跟踪我的工作效率，但填写电子表格确实很烦人。  Rize 具有很好的功能，但显然买不起。 “自动捕获在桌面焦点窗口上花费的时间的应用程序。对于网站，它将连接并请求当前 URL，以帮助对在浏览器中花费的任何时间进行分类。” 编辑：对于 Windows  &amp; #32；由   提交 /u/sleepypandacat   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/182vj4i/looking_for_a_personal_productivity_tracker_like/</guid>
       <pubDate>Fri, 24 Nov 2023 16:11:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>发布了 OpenSign v1.0.6-beta，并进行了许多改进</title>
-      <link>https://www.reddit.com/r/opensource/comments/182vdq9/released_v106beta_of_opensign_with_many/</link>
-      <description><![CDATA[      别忘了🌟我们的Github 存储库！在 OpenSign 的新 Twitter 账号上关注我们。   由   提交/u/Psychology_Ninja   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/182vdq9/released_v106beta_of_opensign_with_many/</guid>
-      <pubDate>Fri, 24 Nov 2023 16:04:32 GMT</pubDate>
     </item>
     </channel>
 </rss>

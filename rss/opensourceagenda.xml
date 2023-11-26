@@ -4,111 +4,111 @@
     <title>最近添加的项目 - 开源议程</title>
     <link>https://www.opensourceagenda.com/feeds/projects</link>
     <description>最近添加的开源项目源</description>
-    <lastBuildDate>Sun, 26 Nov 2023 09:11:56 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Nov 2023 12:18:46 GMT</lastBuildDate>
     <item>
-      <title>TUI直播间</title>
-      <link>https://www.opensourceagenda.com/projects/tuiliveroom</link>
-      <description><![CDATA[腾讯云TRTC针对直播、语聊、视频通话等推出的低代码解决方案～]]></description>
-      <guid>https://www.opensourceagenda.com/projects/tuiliveroom</guid>
-      <pubDate>Sun, 26 Nov 2023 09:11:56 GMT</pubDate>
+      <title>TRC20</title>
+      <link>https://www.opensourceagenda.com/projects/trc20</link>
+      <description><![CDATA[TRC20 基于 tron 区块链，将字符串写入交易的 memo 字段来实现这一点。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/trc20</guid>
+      <pubDate>Sun, 26 Nov 2023 12:18:45 GMT</pubDate>
     </item>
     <item>
-      <title>可发明的抢夺</title>
-      <link>https://www.opensourceagenda.com/projects/inventsable-snatch</link>
-      <description><![CDATA[将 Youtube 视频直接注入 Premiere Pro 和 After Effects]]></description>
-      <guid>https://www.opensourceagenda.com/projects/inventsable-snatch</guid>
-      <pubDate>Sun, 26 Nov 2023 09:11:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>阿兹卡德夫 玩</title>
-      <link>https://www.opensourceagenda.com/projects/azkadev-play</link>
-      <description><![CDATA[用于播放视频和音频跨平台支持的 Flutter 库]]></description>
-      <guid>https://www.opensourceagenda.com/projects/azkadev-play</guid>
-      <pubDate>Sun, 26 Nov 2023 09:11:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>罗伊</title>
-      <link>https://www.opensourceagenda.com/projects/roi</link>
+      <title>Isucon13决赛</title>
+      <link>https://www.opensourceagenda.com/projects/isucon13-final</link>
       <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/roi</guid>
-      <pubDate>Sun, 26 Nov 2023 09:11:55 GMT</pubDate>
+      <guid>https://www.opensourceagenda.com/projects/isucon13-final</guid>
+      <pubDate>Sun, 26 Nov 2023 12:18:45 GMT</pubDate>
     </item>
     <item>
-      <title>快乐加入Hyperf</title>
-      <link>https://www.opensourceagenda.com/projects/happy-join-hyperf</link>
-      <description><![CDATA[组件嗨化计划]]></description>
-      <guid>https://www.opensourceagenda.com/projects/happy-join-hyperf</guid>
-      <pubDate>Sun, 26 Nov 2023 09:11:54 GMT</pubDate>
+      <title>Linkedin 的拒绝列表</title>
+      <link>https://www.opensourceagenda.com/projects/denied-list-for-linkedin</link>
+      <description><![CDATA[一款 Google Chrome 扩展程序，可帮助您在 Linkedin 上搜索机会]]></description>
+      <guid>https://www.opensourceagenda.com/projects/denied-list-for-linkedin</guid>
+      <pubDate>Sun, 26 Nov 2023 12:18:45 GMT</pubDate>
     </item>
     <item>
-      <title>梅卡斯特</title>
-      <link>https://www.opensourceagenda.com/projects/plumcast</link>
-      <description><![CDATA[基于 Plumtree/HyParView 算法的消息广播库]]></description>
-      <guid>https://www.opensourceagenda.com/projects/plumcast</guid>
-      <pubDate>Sun, 26 Nov 2023 09:11:54 GMT</pubDate>
+      <title>网页粘贴</title>
+      <link>https://www.opensourceagenda.com/projects/webpaste</link>
+      <description><![CDATA[将 dorking 结果保存到终端。 TomNomNom 神奇工具的修改版本！]]></description>
+      <guid>https://www.opensourceagenda.com/projects/webpaste</guid>
+      <pubDate>Sun, 26 Nov 2023 12:18:45 GMT</pubDate>
     </item>
     <item>
-      <title>海帕维尤</title>
-      <link>https://www.opensourceagenda.com/projects/hyparview</link>
-      <description><![CDATA[HyParView 算法的 Rust 实现]]></description>
-      <guid>https://www.opensourceagenda.com/projects/hyparview</guid>
-      <pubDate>Sun, 26 Nov 2023 09:11:54 GMT</pubDate>
+      <title>酷 GenAI 时尚论文</title>
+      <link>https://www.opensourceagenda.com/projects/cool-genai-fashion-papers</link>
+      <description><![CDATA[🕶️ 关于 GenAI-Fashion 的精彩资源！ （论文、研讨会、公司……）（不断更新）]]></description>
+      <guid>https://www.opensourceagenda.com/projects/cool-genai-fashion-papers</guid>
+      <pubDate>Sun, 26 Nov 2023 12:18:44 GMT</pubDate>
     </item>
     <item>
-      <title>HCMS</title>
-      <link>https://www.opensourceagenda.com/projects/hcms</link>
-      <description><![CDATA[Hcms 是一个基于 Hyperf 框架的项目开发管理系统 , 在Hyperf超高速且灵活的特性加持下，构建一个快速开发、模块复用的项目开发管理系统。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/hcms</guid>
-      <pubDate>Sun, 26 Nov 2023 09:11:53 GMT</pubDate>
+      <title>密码</title>
+      <link>https://www.opensourceagenda.com/projects/ptocode</link>
+      <description><![CDATA[Put in the picture and convert it to clean HTML/Tailwind/JS code；free-gpt4apikey;放入图片并将其转换为干净的 HTML/Tailwind/JS 代码,视觉识别，免费使用，图片转页面]]></description>
+      <guid>https://www.opensourceagenda.com/projects/ptocode</guid>
+      <pubDate>Sun, 26 Nov 2023 12:18:44 GMT</pubDate>
     </item>
     <item>
-      <title>Hyperf 荣耀任务计划</title>
-      <link>https://www.opensourceagenda.com/projects/hyperf-glory-task-schedule</link>
-      <description><![CDATA[基于Hyperf开发的任务调度系统]]></description>
-      <guid>https://www.opensourceagenda.com/projects/hyperf-glory-task-schedule</guid>
-      <pubDate>Sun, 26 Nov 2023 09:11:53 GMT</pubDate>
+      <title>动画图像</title>
+      <link>https://www.opensourceagenda.com/projects/animatedimage</link>
+      <description><![CDATA[高性能动画图像库。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/animatedimage</guid>
+      <pubDate>Sun, 26 Nov 2023 12:18:44 GMT</pubDate>
     </item>
     <item>
-      <title>超频Ddz</title>
-      <link>https://www.opensourceagenda.com/projects/hyperf-ddz</link>
-      <description><![CDATA[基于hyperf框架开发斗地主]]></description>
-      <guid>https://www.opensourceagenda.com/projects/hyperf-ddz</guid>
-      <pubDate>Sun, 26 Nov 2023 09:11:53 GMT</pubDate>
+      <title>StarLabs 不和谐</title>
+      <link>https://www.opensourceagenda.com/projects/starlabs-discord</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/starlabs-discord</guid>
+      <pubDate>Sun, 26 Nov 2023 12:18:44 GMT</pubDate>
     </item>
     <item>
-      <title>狼骷髅</title>
-      <link>https://www.opensourceagenda.com/projects/swow-skeleton</link>
-      <description><![CDATA[Swow 骨架]]></description>
-      <guid>https://www.opensourceagenda.com/projects/swow-skeleton</guid>
-      <pubDate>Sun, 26 Nov 2023 09:11:52 GMT</pubDate>
+      <title>OnScrollShapeMorph</title>
+      <link>https://www.opensourceagenda.com/projects/onscrollshapemorph</link>
+      <description><![CDATA[滚动时变形形状动画]]></description>
+      <guid>https://www.opensourceagenda.com/projects/onscrollshapemorph</guid>
+      <pubDate>Sun, 26 Nov 2023 12:18:43 GMT</pubDate>
     </item>
     <item>
-      <title>机缘巧合的工作</title>
-      <link>https://www.opensourceagenda.com/projects/serendipity-job</link>
-      <description><![CDATA[🚀🐟 Task Platform Developed Based On Swow and Php8 ｜基于swow和php8开发的任务平台]]></description>
-      <guid>https://www.opensourceagenda.com/projects/serendipity-job</guid>
-      <pubDate>Sun, 26 Nov 2023 09:11:52 GMT</pubDate>
+      <title>少年区</title>
+      <link>https://www.opensourceagenda.com/projects/junior-zone</link>
+      <description><![CDATA[初级职位空缺每日更新。电报和在线电子表格]]></description>
+      <guid>https://www.opensourceagenda.com/projects/junior-zone</guid>
+      <pubDate>Sun, 26 Nov 2023 12:18:43 GMT</pubDate>
     </item>
     <item>
-      <title>php集</title>
-      <link>https://www.opensourceagenda.com/projects/seata-php</link>
-      <description><![CDATA[Seata 的 Php 实现]]></description>
-      <guid>https://www.opensourceagenda.com/projects/seata-php</guid>
-      <pubDate>Sun, 26 Nov 2023 09:11:51 GMT</pubDate>
+      <title>海斯普</title>
+      <link>https://www.opensourceagenda.com/projects/hysp</link>
+      <description><![CDATA[📦 每个黑客都值得拥有的独立包管理器。 ]]></description>
+      <guid>https://www.opensourceagenda.com/projects/hysp</guid>
+      <pubDate>Sun, 26 Nov 2023 12:18:43 GMT</pubDate>
     </item>
     <item>
-      <title>Hyperf CMS</title>
-      <link>https://www.opensourceagenda.com/projects/hyperf-cms</link>
-      <description><![CDATA[使用Vue+Element 构建的基于hyperf接口的前端项目]]></description>
-      <guid>https://www.opensourceagenda.com/projects/hyperf-cms</guid>
-      <pubDate>Sun, 26 Nov 2023 09:11:51 GMT</pubDate>
+      <title>游戏威</title>
+      <link>https://www.opensourceagenda.com/projects/gamevoy</link>
+      <description><![CDATA[V 中的游戏男孩模拟器]]></description>
+      <guid>https://www.opensourceagenda.com/projects/gamevoy</guid>
+      <pubDate>Sun, 26 Nov 2023 12:18:42 GMT</pubDate>
     </item>
     <item>
-      <title>Kanyxmo 矿井管理员</title>
-      <link>https://www.opensourceagenda.com/projects/kanyxmo-mineadmin</link>
-      <description><![CDATA[🎉🎉🎉 MineAdmin是基于Hyperf框架 和 Vue3+Vite4 开发的前后端分离权限管理系统，自适应多终端。特色：后端 crud 生成 + 前端低代码 json 化配置]]></description>
-      <guid>https://www.opensourceagenda.com/projects/kanyxmo-mineadmin</guid>
-      <pubDate>Sun, 26 Nov 2023 09:11:50 GMT</pubDate>
+      <title>代理IP库</title>
+      <link>https://www.opensourceagenda.com/projects/proxy-ip-library</link>
+      <description><![CDATA[反代 IP 库 优选 IP 库]]></description>
+      <guid>https://www.opensourceagenda.com/projects/proxy-ip-library</guid>
+      <pubDate>Sun, 26 Nov 2023 12:18:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>虚拟驾驶控制器</title>
+      <link>https://www.opensourceagenda.com/projects/virtual-driving-controller</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/virtual-driving-controller</guid>
+      <pubDate>Sun, 26 Nov 2023 12:18:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>奇诺托</title>
+      <link>https://www.opensourceagenda.com/projects/chinotto</link>
+      <description><![CDATA[一个可爱的小工具，用于管理 Xcode 占用 Mac 存储空间的苦涩味道。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/chinotto</guid>
+      <pubDate>Sun, 26 Nov 2023 12:18:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
