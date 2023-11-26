@@ -4,7 +4,42 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 26 Nov 2023 00:53:11 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Nov 2023 03:12:23 GMT</lastBuildDate>
+    <item>
+      <title>你在学校学过离散数学吗？您在工作中使用它吗/您对学到它感到高兴吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/183ze0p/did_you_take_discrete_math_in_school_do_you_use/</link>
+      <description><![CDATA[标题。   由   提交/u/ChiLove816  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/183ze0p/did_you_take_discrete_math_in_school_do_you_use/</guid>
+      <pubDate>Sun, 26 Nov 2023 01:41:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>JS 脚本正常加载，但添加 SRI 时会被跨源阻止</title>
+      <link>https://www.reddit.com/r/webdev/comments/183ywjv/js_script_loads_normally_but_when_adding_sri_it/</link>
+      <description><![CDATA[我正在尝试包含一个 js 脚本来显示降雪效果。从网站： https://embed.im/snow/  按照页面上的说明操作，包含工作正常并且脚本已加载： ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/183ywjv/js_script_loads_normally_but_when_adding_sri_it/</guid>
+      <pubDate>Sun, 26 Nov 2023 01:17:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>成为全栈工程师的资源</title>
+      <link>https://www.reddit.com/r/webdev/comments/183yuh8/resources_to_become_a_full_stack_engineer/</link>
+      <description><![CDATA[大家好，我会尽力让这篇文章简短而甜蜜，希望它不会太长。我是一名 EE，于 2021 年毕业，从那时起就一直在该领域工作。我已经意识到我想转变为一名软件工程师，特别是全栈工程师。我有一些 python 和 C++ 经验。您建议我使用哪些免费和付费资源？我应该回到学校吗？感谢您提前提供所有信息。我应该直接进入全栈还是先尝试成为前端或后端工程师然后再进入全栈？   由   提交/u/Kindly_Engineer_235   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/183yuh8/resources_to_become_a_full_stack_engineer/</guid>
+      <pubDate>Sun, 26 Nov 2023 01:14:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>[周六炫耀] 投资组合硬币追踪器 - CryptoWulf</title>
+      <link>https://www.reddit.com/r/webdev/comments/183yo39/showoff_saturday_portfolio_coin_tracker_cryptowulf/</link>
+      <description><![CDATA[大家好， 在我们迁移到 Microsoft Azure 后，CryptoWulf 终于向公众开放了：https://cryptowulf.app/blog/migration-microsoft-azure/ 我们专注于优先考虑安全性的持有者和隐私，并且不愿共享交换访问或公钥。 CryptoWulf 是一个数据聚合器，可提供有关您的投资组合和整个市场的见​​解和信息。  功能概述： * 流行的市场指标，如 PI 周期顶部 * 投资组合见解，如短期和长期 * 随时导入和导出您的交易 * 投资组合和价格预测可以与您的关注者或您的亲密朋友分享朋友 * 硬币和法定费用也被视为利润 在隐私方面，我们坚持最高标准。您的数据仅供您个人使用，并保存在北欧的 Azure 上。您可以随时删除您的数据，我们不会收集您的区块链地址。您也可以只创建一个测试组合。  即将推出的功能： * 跟踪配置支持 * 通知 * Kraken / Coinbase 格式导入 * Windows 客户端版本（当前正在认证中）  下载 CryptoWulf： https://cryptowulf.app   由   提交 /u/KaiN_SC   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/183yo39/showoff_saturday_portfolio_coin_tracker_cryptowulf/</guid>
+      <pubDate>Sun, 26 Nov 2023 01:05:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>CSS 万圣节鬼屋</title>
+      <link>https://www.reddit.com/r/webdev/comments/183yl6g/halloween_haunted_mansion_with_css/</link>
+      <description><![CDATA[     &lt; td&gt; 由   提交/u/Emezeta  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/183yl6g/halloween_haunted_mansion_with_css/</guid>
+      <pubDate>Sun, 26 Nov 2023 01:01:50 GMT</pubDate>
+    </item>
     <item>
       <title>使用 MERN 堆栈获取发布项目的用户的位置</title>
       <link>https://www.reddit.com/r/webdev/comments/183w3o0/getting_the_location_of_a_user_who_posted_an_item/</link>
@@ -71,44 +106,9 @@
     <item>
       <title>2023 年自由职业者需要学习的最佳技术堆栈是什么？</title>
       <link>https://www.reddit.com/r/webdev/comments/183rsbe/what_is_the_best_technology_stack_for_freelancers/</link>
-      <description><![CDATA[从供需比来看，哪种框架或技术更适合像我这样的自由职业农民的职业前景？ &lt; p&gt;换句话说，那些在自由职业市场（而不是公司或企业 IT）招聘的人更经常寻找哪个堆栈？ 我发现 今年的旧帖子似乎暗示了 Laravel 和 Symfony。这仍然成立吗？   由   提交/u/pyeri  [链接] [评论]]]></description>
+      <description><![CDATA[从供需比来看，哪种框架或技术更适合像我这样自由职业农民的职业前景？ &lt; p&gt;换句话说，那些在自由职业市场（而不是公司或企业 IT）招聘的人更经常寻找哪个堆栈？ 我发现 今年的旧帖子似乎暗示了 Laravel 和 Symfony。这仍然成立吗？   由   提交/u/pyeri  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/183rsbe/what_is_the_best_technology_stack_for_freelancers/</guid>
       <pubDate>Sat, 25 Nov 2023 19:45:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>除非必要，否则不要使用递归</title>
-      <link>https://www.reddit.com/r/webdev/comments/183r2tp/dont_use_recursion_unless_you_have_to/</link>
-      <description><![CDATA[我在学习递归时犯了两个导致堆栈溢出的错误，其中一个错误是我基本上将 `num - 1` 更改为 `num- -`。示例如下： function recursive(num) { if(num === 0) return; return recursive(num--) } 这对我来说很有意义，但显然， `num--` 后减操作数保留该值然后递减它，这意味着该函数将始终调用原始值。  我还有另一个例子，必要时我会展示它，但公平地说，应该避免递归，除非您对自己所做的事情非常有信心。顺便说一句，执行上述函数的正确方法是： function recursive(num) { if(num === 0) return; 返回递归(num - 1) }   由   提交 /u/shalawfatah   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/183r2tp/dont_use_recursion_unless_you_have_to/</guid>
-      <pubDate>Sat, 25 Nov 2023 19:13:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>基于 ZXing 的包装器/端口或 Quagga 在浏览器中进行 QR 码解码？</title>
-      <link>https://www.reddit.com/r/webdev/comments/183qrtj/zxingbased_wrappers_ports_or_quagga_for_qr_code/</link>
-      <description><![CDATA[我正在构建一个移动优先（甚至可能支持 PWA）的 React Web 应用程序，它需要某种形式的 QR 解码。您认为哪个库是“标准”库？今天？我意识到这是 Web 应用程序中并不经常需要的功能，但也许 Web 开发领域存在普遍趋势。   由   提交 /u/skwyckl   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/183qrtj/zxingbased_wrappers_ports_or_quagga_for_qr_code/</guid>
-      <pubDate>Sat, 25 Nov 2023 18:59:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>YDKTS：使用标称类型修复 TypeScript 的类型安全性</title>
-      <link>https://www.reddit.com/r/webdev/comments/183qgg1/ydkts_fixing_typescripts_typesafety_with_nominal/</link>
-      <description><![CDATA[   /u/AyyBroLmao   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/183qgg1/ydkts_fixing_typescripts_typesafety_with_nominal/</guid>
-      <pubDate>Sat, 25 Nov 2023 18:45:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>我用 Claude 2.1 制作了一个简单的 AI 代理教程</title>
-      <link>https://www.reddit.com/r/webdev/comments/183q1c6/i_made_a_simple_ai_agent_tutorial_w_claude_21/</link>
-      <description><![CDATA[      大家好， 随着我的学习，尝试养成为我的新频道制作更多面向 AI 的 YouTube 视频的习惯事情公开。本周制作了这个视频，使用 Claude 2.1 构建一个简单的 AI 代理教程。 我想分享它：https://www.youtube.com/watch?v=Z05l7mn0RNQ ​ https://preview.redd.it/rlfec312ej2c1.png?width=3456&amp;format=png&amp;auto=web普安普;s=b79186000575b1165cccefe09600a28f986f3da0   由   提交/u/rich_awo  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/183q1c6/i_made_a_simple_ai_agent_tutorial_w_claude_21/</guid>
-      <pubDate>Sat, 25 Nov 2023 18:26:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的第一个网站！比 Netflix 克隆版更好？</title>
-      <link>https://www.reddit.com/r/webdev/comments/183oqgb/my_first_website_better_than_a_netflix_clone/</link>
-      <description><![CDATA[      我开始学习Web开发，我首先想说的是：很难，但是可行！这个项目花了很多重写和时间，但主要是拖延（多动症，最近发现），为了有一些我准备分享的东西。我不想做一些它的东西唯一的用途是填充投资组合；我想做一些人们使用的东西。 所以，我向您展示文件钱包，Ta-Da！ :)，我的第一个网站，供加密社区使用。 它通过使用文件的数据 URL 和可选密码生成有效的加密钱包（24 个助记词/种子），从而生成经过哈希处理的字符串，用作熵。 （有关更多信息，这里是我关于此的第一篇文章） 官方网址：https://file-wallet.com/ GitHub：https://github.com/AmphibianDev/file-wallet https://i.redd.it/qarswjzt1j2c1.gif 还有什么比奖金约为 330 美元的挑战/谜题更好的方式来启动我的第一个网站(2XMR)。我已在此处发布了详细信息。 我还有很多还有更多需要学习的。例如，这些只是我需要学习/制作的一些东西：  学习如何进行测试，并进行测试（再次拖延！！）。 详细了解如何更好地使用 GitHub 和 Git。 （我喜欢这个视频） 找到一种编译独立 .html 的方法，可以轻松下载并离线使用（对于加密货币社区非常重要）。  还有更多。 在第三点，如果有人可以为我指明正确的方向。我尝试过使用 vite-plugin-singlefile，但由于我对 Ian Coleman BIP39 和 Coinomi BIP39 的加密生成代码的集成不好，我将脚本放在 Public 文件夹中，并且它们是动态加载的，因为我想要 React 代码首先加载加载动画，现在它们不再捆绑在单个文件中。 无论如何，我愿意接受任何反馈，希望您度过愉快的一天。 &lt; /div&gt;  由   提交 /u/AmphibianDev   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/183oqgb/my_first_website_better_than_a_netflix_clone/</guid>
-      <pubDate>Sat, 25 Nov 2023 17:27:24 GMT</pubDate>
     </item>
     </channel>
 </rss>

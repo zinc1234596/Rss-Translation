@@ -4,9 +4,73 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Sun, 26 Nov 2023 00:47:26 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Nov 2023 02:44:55 GMT</lastBuildDate>
     <item>
-      <title>同类最大规模的研究表明，过时的密码做法非常普遍</title>
+      <title>[媒体]网吧难民</title>
+      <link>https://t.me/hn_summary/60734</link>
+      <description><![CDATA[网吧难民
+“网吧难民”一词是指日本的一类无家可归的人，他们睡在24小时营业的网吧或漫画咖啡馆里。最初，这些咖啡馆只提供互联网服务，但有些已经扩展到包括食物、饮料和淋浴。网吧难民现象出现在日本“失去的几十年”中，被视为该国经济困难和青年危机的反映。日本政府的一项研究估计，超过 5,400 人每周至少有一半时间呆在网吧里。 COVID-19 大流行期间这些咖啡馆的关闭使无家可归问题更加明显。大多数网吧难民是来自城市工人阶级的年轻人。他们将这些咖啡馆作为临时住房的低成本替代方案。 “网络无家可归者”一词也用来形容这些人，他们经常失业或就业不足，无法负担传统形式的居住费用。]]></description>
+      <guid>https://t.me/hn_summary/60734</guid>
+      <pubDate>Sun, 26 Nov 2023 02:44:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>另一种破坏 Kyber-512 安全分析的方法</title>
+      <link>https://t.me/hn_summary/60733</link>
+      <description><![CDATA[破坏 Kyber-512 安全分析的另一种方法
+cr.yp.to 上的博客文章回复了Google 的 Sophie Schmieg 最近发表了题为“Kyber512 的安全级别”的博客文章。 cr.yp.to 博客文章认为，某些施米格帖子中的说法是不合理且不正确的。所讨论的主要主张是 Kyber-512 与 AES-128 一样难以破解。 cr.yp.to 博客文章强调了广泛的不确定性对已发布的针对 Kyber-512 的攻击的分析存在一定的间隔，因此很难确定其真实的安全级别。该帖子还批评 NIST 没有有效地传达这些不确定性，并呼吁在比较 Kyber 和 AES 之间的攻击成本时提高透明度。 （根据故事文本的 18% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/60733</guid>
+      <pubDate>Sun, 26 Nov 2023 02:24:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]Dolphin模拟器进度报告：2023年8月、9月和10月</title>
+      <link>https://t.me/hn_summary/60732</link>
+      <description><![CDATA[Dolphin 模拟器进度报告：2023 年 8 月、9 月和 10 月
+Dolphin模拟器允许用户在各种平台上玩GameCube和Wii游戏，最近庆祝了它的20周年纪念日。尽管最初的预期如此，但该模拟器仍在积极开发中，现在也支持 Wii。在更新方面，由于采用了 Qt 6.5，模拟器现在为 Windows 用户提供了深色模式。此外，Dolphin 还推出了自己的输出重采样器，使用户能够更好地控制游戏的视觉质量。重采样器提供了多种选项，包括面积、双三次和锐双线性，允许用户实现不同的视觉效果。总体而言，这些更新增强了用户体验并提供了更多自定义选项。 （根据故事文本的 43% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/60732</guid>
+      <pubDate>Sun, 26 Nov 2023 02:19:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>夺宝奇兵故事会议记录</title>
+      <link>https://t.me/hn_summary/60731</link>
+      <description><![CDATA[《夺宝奇兵》故事会议记录
+在这份《夺宝奇兵》故事会议的文字记录中，电影制片人讨论了电影的高潮以及如何使其在视觉上令人兴奋。他们认为方舟爆炸并造成混乱，到处都是电击和火灾。他们还讨论了主角在被纳粹追赶的同时乘坐矿井列车逃跑并穿过隧道的可能性。文字记录的结尾暗示了一次类似过山车的旅程，最终以角色坠入水中、山崩塌而告终。这次讨论的独特而巧妙的方面是对充满动作的序列和视觉效果的创造性集思广益，这将使电影的高潮激动人心。]]></description>
+      <guid>https://t.me/hn_summary/60731</guid>
+      <pubDate>Sun, 26 Nov 2023 02:19:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 被击毁的特斯拉的转世——在乌克兰</title>
+      <link>https://t.me/hn_summary/60730</link>
+      <description><![CDATA[乌克兰特斯拉的转世
+在乌克兰，战争和高油价使电动汽车（EV）对司机更具吸引力，导致电动汽车复兴业务蓬勃发展。乌克兰拥有强大的公共充电网络，政府取消了二手电动汽车进口的大部分税收和关税。这创造了一种独特的局面，包括特斯拉在内的电动汽车在包括低收入人群在内的普通人群中广受欢迎。 Circular Energy Storage 负责人汉斯·埃里克·梅林 (Hans Eric Melin) 一直在跟踪乌克兰市场，并指出自 2021 年 7 月以来，该国的电动汽车保有量增加了一倍。包括特斯拉在内的许多损坏的电动汽车都是从美国进口并在乌克兰修理的。战争改变了航运路线，受损的汽车现在通过立陶宛和斯洛文尼亚的港口。总体而言，乌克兰电动汽车市场超出预期并持续增长。]]></description>
+      <guid>https://t.me/hn_summary/60730</guid>
+      <pubDate>Sun, 26 Nov 2023 02:02:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]坏狗：为什么要和难相处的动物住在一起？</title>
+      <link>https://t.me/hn_summary/60729</link>
+      <description><![CDATA[坏狗：为什么要与难相处的动物生活在一起？ 
+作者分享了他们与一只名叫杰克的难相处的狗一起生活的经历。杰克在与提交人同住之前就被赶出了寄养家庭。尽管杰克的行为具有挑战性，作者还是决定在结束一段关系后再次收留杰克。杰克对某些人表现出攻击性，并且有将人类与可怕经历联系在一起的历史。作者讨论了围绕“阿尔法”概念和在狗训练中使用惩罚的争议。他们强调积极强化和用理想行为取代不良行为的重要性。作者还反思了自己对动物行为的误解以及需要更深入的了解。 （根据 95% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/60729</guid>
+      <pubDate>Sun, 26 Nov 2023 01:27:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]租赁秋屋：进入日本废弃房屋的后门</title>
+      <link>https://t.me/hn_summary/60728</link>
+      <description><![CDATA[租赁akiya：进入日本的后门废弃的房屋
+文章讨论了国际买家对租赁“秋屋”（日本废弃或空置房屋）日益浓厚的兴趣。虽然许多人认为购买秋屋是居住的唯一方式，但在某些情况下租赁也是一种选择。这篇文章讲述了一对加拿大夫妇杰西和米卡的故事，他们通过与杰西的新老板的联系租到了秋屋。对于业主来说，租用秋屋可能是一个更简单的选择，因为它避免了适当销售的文书工作和后勤工作。然而，租客应谨慎，因为口头合同可能会导致分歧，并且对房产所做的改进可能无法得到报销。文章强调了日本农村社区关系的重要性，以及农村地区人们需要有主人翁意识，以确保日本农村繁荣的未来。]]></description>
+      <guid>https://t.me/hn_summary/60728</guid>
+      <pubDate>Sun, 26 Nov 2023 01:19:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] Naev – 关于太空探索、贸易和战斗的开源游戏</title>
+      <link>https://t.me/hn_summary/60727</link>
+      <description><![CDATA[Naev – 关于太空探索、贸易和战斗的开源游戏&lt; /a&gt;
+Naev 是一款开源游戏，允许玩家探索太空、贸易和参与战斗。 Naev 拥有可供探索的大型星系和具有独特飞船设计的多个派系，提供可定制的身临其境的游戏体验。该游戏目前可以玩，但仍在开发中，开发人员鼓励玩家通过创建新故事、制作艺术或声音、改进游戏玩法或编码来做出贡献。 Naev 是一个业余爱好项目，没有最终计划或完成时间框架，开发团队不接受金钱捐赠。该游戏可以从各种来源下载，包括 Steam 和 itch.io.]]></description>
+      <guid>https://t.me/hn_summary/60727</guid>
+      <pubDate>Sun, 26 Nov 2023 01:18:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>此类最大规模的研究表明过时的密码做法非常普遍</title>
       <link>https://t.me/hn_summary/60726</link>
       <description><![CDATA[同类最大规模研究显示过时的密码做法非常普遍
 佐治亚理工学院研究人员进行的一项新研究表明，世界上四分之三的最受欢迎的网站的密码策略不足，允许用户创建弱密码。该研究检查了 100 万个网站的密码实践，发现 12% 的网站缺乏密码长度要求，并且许多网站允许使用短密码，但不阻止常见密码。研究人员还发现，大多数网站都遵循 2004 年以来过时的指南，只有少数网站完全遵守标准指南。此外，研究发现，只有 28% 的网站强制执行密码阻止列表，这使得它们容易受到密码喷射攻击。研究结果将在 ACM 计算机和通信安全会议上公布。]]></description>
@@ -20,70 +84,6 @@
 由于构建 64 位 MIPS 软件包的硬件访问量下降，Debian 的 MIPS64EL CPU 端口面临挑战。构建守护进程资源的缺乏导致该架构被视为“不同步”，并且可能不适合即将发布的 Debian 13 版本。 Debian 开发人员 Sebastian Ramache 的声明强调了需要足够的资源来满足需求并将该架构维持为发布架构。值得注意的是，MIPS作为CPU架构没有进一步的发展计划，而是转向RISC-V。除非 Debian 开发者能够找到更多兼容的硬件并有兴趣维护该架构，否则 MIPS64EL 可能不会成为 Debian 13 的发布架构。]]></description>
       <guid>https://t.me/hn_summary/60725</guid>
       <pubDate>Sun, 26 Nov 2023 00:29:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 发现以加密为主题的 NPM 软件包传送隐形恶意软件</title>
-      <link>https://t.me/hn_summary/60724</link>
-      <description><![CDATA[发现以加密为主题的 NPM 软件包传送隐形恶意软件&lt; br /&gt;
-该博客文章讨论了最近发现的以加密为主题的 NPM 软件包，这些软件包正在传播隐秘的恶意软件。作者解释说，经过调查，他们发现了一个复杂的攻击链，其中涉及拉取远程文件、操纵它、执行导出的函数，以及通过删除和重命名文件来掩盖其踪迹。这种攻击的令人惊讶的方面是，当安装该软件包时，没有明显的恶意软件迹象，因为安装会触发恶意软件的部署，并需要付出巨大的努力来删除它的任何痕迹。作者提供了攻击链的详细分解，包括批处理文件和 PowerShell 脚本的使用。这篇文章强调了这种攻击的巧妙性以及检测它的难度。 （根据故事文本的 70% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/60724</guid>
-      <pubDate>Sun, 26 Nov 2023 00:21:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>不该做的事或如何不在 Dyalog APL 中编程</title>
-      <link>https://t.me/hn_summary/60723</link>
-      <description><![CDATA[不该做的事情或者如何不在 Dyalog APL 中编程
-标题为“不要在 Dyalog APL 中编程”的 Web 内容提供了在 Dyalog APL 中编程时应避免的编程实践列表。作者建议不要使用传统的函数和控制结构，因为它们可能导致技术债务和冗长而曲折的函数。相反，作者建议使用 dfns 并让函数本身成为控制结构。作者还建议不要嵌套控制结构、将代码高尔夫与控制结构混合以及使用命名空间脚本。其他建议包括除非正确封装，否则不要使用类、不要使用某些 APL 函数以及不要编写长行或函数。作者还强调了为变量和函数选择适当名称的重要性，而不是在测试中依赖内部细节。]]></description>
-      <guid>https://t.me/hn_summary/60723</guid>
-      <pubDate>Sun, 26 Nov 2023 00:21:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 无现金很糟糕</title>
-      <link>https://t.me/hn_summary/60722</link>
-      <description><![CDATA[无现金很糟糕
-作者反对推动无现金社会，声称它不是由大众需求驱动的，而是由大金融和大科技的利益驱动的。他们强调了这些部门从支付数字化中获得的权力和控制力，以及监视和操纵的可能性。作者还讨论了推动无现金社会的系统性，即大公司和政府共同努力促进数字支付。他们认为，这种转变对工人阶级个人和小企业的影响尤为严重。作者对这个问题提出了复杂的观点，拒绝自下而上或自上而下现象的二元论，而是强调不同参与者和利益之间的相互作用。 （根据 46% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/60722</guid>
-      <pubDate>Sun, 26 Nov 2023 00:00:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]学习编程的感想</title>
-      <link>https://t.me/hn_summary/60721</link>
-      <description><![CDATA[学习编程的思考
-作者反思了他们对编程的热爱以及他们在学习过程中面临的挑战。他们讨论了他们早期的编码梦想以及他们在寻找资源和指导时遇到的困难。他们分享了学习 Visual Basic 和 C++ 时的挣扎，以及克服语言障碍的决心。作者还讨论了突破性时刻，例如学习微控制器以及使用 Verilog 和 Perl。他们表达了对 Perl 的热爱以及对 Verilog 逐渐减弱的兴趣。然后，作者深入探讨了他们对人工智能和机器学习的兴趣，以及他们攻读机器学习硕士学位的决定。他们还讨论了在线课程的经验以及数量对于提高编码技能的重要性。 （根据故事文本的 70% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/60721</guid>
-      <pubDate>Sat, 25 Nov 2023 23:35:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>问 HN：作为一名 SQL 开发人员，我妈妈如何才能降级？</title>
-      <link>https://t.me/hn_summary/60720</link>
-      <description><![CDATA[问 HN：作为一名 SQL 开发人员，我妈妈如何才能降级？&lt; /a&gt;
-作者正在代表他们的母亲寻求建议，她拥有 20 年的 SQL 开发经验。这位母亲目前在一家初创公司的工作给她带来了压力，因为她承担的任务更适合年轻、雄心勃勃的开发人员。她希望找到一份可以专注于 SQL 脚本、分析和数据建模而无需升职或高薪压力的工作。作者不确定什么样的职位适合这个职位以及在哪里可以找到这样的机会。他们建议在芝加哥面试 SQL 职位并参加聚会，但母亲由于过去经历过困难的面试而犹豫不决。]]></description>
-      <guid>https://t.me/hn_summary/60720</guid>
-      <pubDate>Sat, 25 Nov 2023 23:18:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]黑色星期五购物者花费了 9 美元。</title>
-      <link>https://t.me/hn_summary/60719</link>
-      <description><![CDATA[黑色星期五购物者在美国在线销售额中花费了 9.8 亿美元，增长 7.5%从去年开始
-Adobe Analytics 报告显示，美国黑色星期五电商支出较上年增长 7.5%，达到创纪录的 98 亿美元。这表明对价格敏感的消费者正在寻找最优惠的价格，并且越来越多地在网上购物。在线销售的增长可归因于希望获得最大折扣的战略消费者，其中冲动购买发挥了作用，尤其是通过移动购物。影响者和社交媒体广告让消费者对移动消费更加满意。黑色星期五最畅销的品类是电子产品、玩具和游戏，而家庭维修工具表现不佳。与增长超过 8% 的在线销售相比，店内销售额仅增长了 1% 多一点。零售商通过提供更高的折扣水平和弹出式促销来回应寻求优惠的消费者。该报告预测，在线购物者将在周末花费约 100 亿美元，并在网络星期一花费创纪录的 120 亿美元。然而，随着假期的进展，支出预计将逐渐减少。]]></description>
-      <guid>https://t.me/hn_summary/60719</guid>
-      <pubDate>Sat, 25 Nov 2023 23:17:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]利用深空的寒冷为地球发电</title>
-      <link>https://t.me/hn_summary/60718</link>
-      <description><![CDATA[利用深空的寒冷在地球上发电 
-这篇文章讨论了利用深空的寒冷在地球上发电的潜力。该技术涉及使用超出地球大气层的面板来利用深空的寒冷，这可用于冷却建筑物和发电。本文解释了辐射冷却的概念，即热量辐射到太空中，以及热电发电机如何将温差转化为电能。作者还提到了可以优化该过程效率的材料和设计的开发。文章重点介绍了该技术的潜在应用，例如夜间工作的太阳能电池板和为远程传感器供电。 （根据故事文本的 63% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/60718</guid>
-      <pubDate>Sat, 25 Nov 2023 23:11:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>询问 HN：如何删除所有 Google 照片，以免失去对 Gmail 的访问权限？</title>
-      <link>https://t.me/hn_summary/60717</link>
-      <description><![CDATA[询问 HN：如何删除所有 Google 照片，这样我就不会无法访问 Gmail？
-news.ycombinator.com 上这篇文章的作者是寻求有关如何删除所有 Google 照片而又不失去 Gmail 帐户访问权限的建议。他们解释说，他们从 Google 购买了存储空间用于照片备份，但后来决定将照片备份到 NAS 并停止使用 Google Photos。然而，他们最近收到一封电子邮件，称如果不续订存储空间订阅，他们将无法访问 Gmail。作者正在寻找一种解决方案来删除他们的照片，以便保持在免费套餐限制内。他们提到，他们已尝试联系谷歌的电子邮件支持，但尚未收到回复。他们正在寻求可以帮助他们有效删除照片的应用程序或脚本的推荐。]]></description>
-      <guid>https://t.me/hn_summary/60717</guid>
-      <pubDate>Sat, 25 Nov 2023 23:06:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

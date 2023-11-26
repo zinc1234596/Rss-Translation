@@ -4,7 +4,7 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 26 Nov 2023 00:53:17 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Nov 2023 03:12:30 GMT</lastBuildDate>
     <item>
       <title>客户端-服务器剪贴板同步应用程序的建议</title>
       <link>https://www.reddit.com/r/opensource/comments/183yc9w/recommendations_for_a_clientserver_clipboard/</link>
@@ -22,7 +22,7 @@
     <item>
       <title>[Nodejs] 发布 Restfuncs 2.0 为 Node 用户带来合适的 http API 和 RPC。</title>
       <link>https://www.reddit.com/r/opensource/comments/183p9w1/nodejs_releasing_restfuncs_20_to_bring_them_node/</link>
-      <description><![CDATA[灵感来了，当我第一次从 java 切换到 typescript 时，有点震惊：嘿，这些家伙两边都有 typescript（在网络中） ），他们肯定能够轻松地以 RPC 方式通过网络调用其方法。但令我惊讶的是，他们并不是这样的事情，所有人都在做低级 http 请求，从 json 解析和验证参数并评估响应代码，并且 每个端点。除此之外，还有一些 RPC，但它们使用起来很复杂。  所以，长话短说：我希望我可以将 RCP 带回节点 + 一些与 http 通信紧密相关的其他很酷的功能。还要注意内置的 CSRF 保护（看看零配置概念，即使不使用 Nodejs） 这里 是的。  欢迎反馈！    由   提交 /u/Bogeeee   [链接] [评论]]]></description>
+      <description><![CDATA[灵感来了，当我第一次从 java 切换到 typescript 时，有点震惊：嘿，这些家伙两边都有 typescript（在网络中） ），他们肯定能够轻松地以 RPC 方式通过网络调用其方法。但令我惊讶的是，他们并不是这样的事情，所有人都在做低级 http 请求、从 json 解析和验证参数以及评估响应代码，并且 每个端点。除此之外，还有一些 RPC，但它们使用起来很复杂。  所以，长话短说：我希望我可以将 RCP 带回节点 + 一些与 http 通信紧密相关的其他很酷的功能。还要注意内置的 CSRF 保护（看看零配置概念，即使不使用 Nodejs） 这里 是的。  欢迎反馈！    由   提交 /u/Bogeeee   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/183p9w1/nodejs_releasing_restfuncs_20_to_bring_them_node/</guid>
       <pubDate>Sat, 25 Nov 2023 17:51:48 GMT</pubDate>
     </item>
@@ -41,9 +41,9 @@
       <pubDate>Sat, 25 Nov 2023 16:51:18 GMT</pubDate>
     </item>
     <item>
-      <title>[Golang] 发现 FuncFrog 的强大功能：简化函数式编程。 Go 中具有错误处理功能的并行惰性 Map、Filter 和 Reduce 库。</title>
+      <title>[Golang] 发现 FuncFrog 的强大之处：简化函数式编程。并行、懒惰的 Map、Filter 和 Reduce 库，具有 Go 中的错误处理功能。</title>
       <link>https://www.reddit.com/r/opensource/comments/183msuw/golang_discover_the_power_of_funcfrog_simplifying/</link>
-      <description><![CDATA[ 由   提交/u/Fast_Ad_8502   [链接] [评论]]]></description>
+      <description><![CDATA[ 由   提交/u/Fast_Ad_8502  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/183msuw/golang_discover_the_power_of_funcfrog_simplifying/</guid>
       <pubDate>Sat, 25 Nov 2023 15:59:52 GMT</pubDate>
     </item>

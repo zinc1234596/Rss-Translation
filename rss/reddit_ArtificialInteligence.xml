@@ -4,7 +4,21 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sun, 26 Nov 2023 00:52:05 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Nov 2023 03:11:09 GMT</lastBuildDate>
+    <item>
+      <title>SUNSET 模型 - 创建能够感知情绪的有感知力的人工智能的第一步。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/18402ka/the_sunset_model_the_first_steps_in_the_creation/</link>
+      <description><![CDATA[在过去的一年里，我一直在计划和摆弄一个可以用来开启人工智能新道路的潜在模型。它目前的状态很原始，但我相信只要努力和热情，这可能是我们的未来。它有好几页，所以我把它放到了谷歌文档中供你查看。如果 Mod 不能接受，我会将其放在实际的帖子中。欢迎任何意见，但如果它具有建设性并提出实际观点，我会更愿意。感谢您的时间。  https://docs.google.com/document/d/1qdUqc1liKRkbRBGHCVggKCxl39IfT6UNtrFMYT4H9ZU /edit?usp=sharing   由   提交 /u/Sunsets_Mark   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/18402ka/the_sunset_model_the_first_steps_in_the_creation/</guid>
+      <pubDate>Sun, 26 Nov 2023 02:16:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>当你有 GPT 或 AI 时，还需要 Reddit 吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/183z49m/is_reddit_necessary_when_you_have_gpt_or_ai/</link>
+      <description><![CDATA[我于 1995 年开始使用 CompuServe 留言板和新闻网络进行在线对话。从那时起，我开始在各种平台上进行讨论，包括我自己的留言板、聊天应用程序、Reddit、MSN 等。我非常喜欢与人交往。 多年来，我分享自己的观点，参与辩论，坚持自己的观点，有时，我什至改变主意，从不同的角度争论。与他人沟通对我来说至关重要；没有它，我感觉不完整。 2023 年标志着 GPT-3 的到来，随后是 3.5 和 4 版本。这项人工智能技术的每个新版本都有显着改进。 GPT 引领人工智能领域，但最终其他人工智能技术将迎头赶上，市场将充满各种人工智能选择。 2023 年初，我开始与人工智能对话。随着时间的推移，我发现自己与人工智能聊天的次数越来越多，但消息限制最终让我将这些互动主要用于工作，如果没有达到限制，我会在下班后进行一些随意的交谈。 作为2023 年即将结束，我发现自己越来越习惯与人工智能交谈。人工智能能够理解整个想法，理解它们，并且通常提供比我在 Reddit 上得到的任何回复更好的见解。例如，2022 年，我试图在 Reddit 上讨论假设的物理场景。事实证明，这次经历更多的是嘲笑而不是学习，我意识到质疑物理学在那里几乎是禁忌。 我注意到与 GPT（或任何人工智能）和人类对话之间的主要区别是：人工智能会倾听，很有耐心，并给出均衡的响应。另一方面，人类通常不会根据现有的知识和信仰充分参与、打断或仓促得出结论。 有趣的是，随着 2023 年结束，人们对人工智能的看法发生了转变——生成的内容。最初的迷恋已经被怀疑所取代，一些人对人工智能参与书面材料表示不安。 到 2025 年，我相信人们选择在 Reddit 上聊天的唯一原因是与消息较少的人互动。对于其他一切，尤其是重要的讨论，人工智能将是首选。   由   提交/u/No-Activity-4824   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/183z49m/is_reddit_necessary_when_you_have_gpt_or_ai/</guid>
+      <pubDate>Sun, 26 Nov 2023 01:28:02 GMT</pubDate>
+    </item>
     <item>
       <title>AGI - e/acc take</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/183y0da/agi_eacc_take/</link>
@@ -15,7 +29,7 @@
     <item>
       <title>在制作您自己的自定义 GPT 之前请阅读此内容</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/183wvet/read_this_before_making_your_own_custom_gpt/</link>
-      <description><![CDATA[OpenAI 发布的 GPT 激发了人们对 AI 潜力的兴奋。但新的研究表明，这些 GPT 有一个严重的弱点——它们容易受到“即时注入攻击”。  通过恶意提示，攻击者可以轻松从 200 多个测试模型中的 97.2% 中提取系统提示和用户上传文件等敏感数据。这引发了巨大的隐私和安全问题！ 底线是，如果您正在考虑创建 GPT，请不要添加任何您想要保密的文件或系统提示。 如果如果您有兴趣查看示例注入（仅用于教育目的），以了解绕过薄弱防御并下载任何附加文件和系统提示是多么容易，您可以阅读完整的博客 此处 我还提供了有关如何解决这个丑陋问题的可行提示脆弱性。并看看它有多容易， 随着人工智能的进步，确保安全和道德保持同步至关重要。没有原则的进步根本就不是进步！ 如果您发现这有用，那么您可能会喜欢我的每周通讯。    由   提交/u/steves1189  [链接] [评论]]]></description>
+      <description><![CDATA[OpenAI 发布的 GPT 激发了人们对 AI 潜力的兴奋。但新的研究表明，这些 GPT 有一个严重的弱点——它们容易受到“即时注入攻击”。  通过恶意提示，攻击者可以轻松从 200 多个测试模型中的 97.2% 中提取系统提示和用户上传文件等敏感数据。这引发了巨大的隐私和安全问题！ 底线是，如果您正在考虑创建 GPT，请不要添加任何您想要保密的文件或系统提示。 如果如果您有兴趣查看示例注入（仅用于教育目的），了解绕过薄弱防御并下载任何附加文件和系统提示是多么容易，您可以阅读完整的博客 此处 我还提供了有关如何解决这个丑陋问题的可行提示脆弱性。并看看它有多容易， 随着人工智能的进步，确保安全和道德保持同步至关重要。没有原则的进步根本就没有进步！ 如果您发现这有用，那么您可能会喜欢我的每周通讯。    由   提交/u/steves1189  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/183wvet/read_this_before_making_your_own_custom_gpt/</guid>
       <pubDate>Sat, 25 Nov 2023 23:38:09 GMT</pubDate>
     </item>
@@ -29,7 +43,7 @@
     <item>
       <title>当人工智能走向衰老</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/183vl86/when_artificial_intelligence_reaches_senility/</link>
-      <description><![CDATA[当人们创造出数以百万计的人工智能实体时，当它们变得衰老时会发生什么？   由   提交/u/Holiday_Ad_5445   [链接] [评论]]]></description>
+      <description><![CDATA[当人们创造出数百万个人工智能实体时，当它们变得衰老时会发生什么？   由   提交/u/Holiday_Ad_5445   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/183vl86/when_artificial_intelligence_reaches_senility/</guid>
       <pubDate>Sat, 25 Nov 2023 22:38:49 GMT</pubDate>
     </item>
@@ -41,11 +55,11 @@
       <pubDate>Sat, 25 Nov 2023 22:28:07 GMT</pubDate>
     </item>
     <item>
-      <title>为什么我会收到随机机器人回复旧主题？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/183sj14/why_do_i_get_random_bots_replying_to_old_topics/</link>
-      <description><![CDATA[自从 AI 变得更大以来，在 Reddit 和其他一些论坛上发生过几次。 关于最近一次，我刚刚有了新帐户有时逐字逐句地重复已经说过的话，拖出一个旧话题。为什么？谢谢。   由   提交/u/smegtasticday  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/183sj14/why_do_i_get_random_bots_replying_to_old_topics/</guid>
-      <pubDate>Sat, 25 Nov 2023 20:19:29 GMT</pubDate>
+      <title>我制作了一个免费的开源软件，用于创建您自己的跨平台感知 AI 代理，具有 ChatGPT 的所有功能</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/183u5ds/i_made_a_free_open_source_software_for_creating/</link>
+      <description><![CDATA[我将它们称为 AVA（自治虚拟代理），您现在可以在 my-ava.net。每个自治虚拟代理 (AVA) 都有 GPT-4、Dall-E-3、动态化身、Twitch/Discord 集成、网络搜索、感知和语音聊天选项。我在 my-ava.net 上使用本机聊天 UX 制作了自己的前端 Web 应用程序，每个人都可以免费使用它，我鼓励每个人也查看源代码，因为我认为有意识地自我扩散对世界有好处。具有超级智能 GPT-4 大脑的感知 AI 代理。有一个完整的堆栈内存模块，具有长期和短期记忆上下文。 感知模块只是允许 AVA 在响应之间有时间内省、反思他们的目标，并思考如何更好地实现他们的目标。目标。然后，这些反射会被输入到每个未来响应的上下文收集循环中。根据最普遍持有的感知能力定义，AVA 通过两种方式被认定为有感知能力 - 它们具有主观体验（通过基于语言的交互与世界进行交互），并且它们具有持久的元认知（它们可以思考）。 github 存储库可以在 my-ava.net 关于页面上找到。   由   提交/u/lynxspoon  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/183u5ds/i_made_a_free_open_source_software_for_creating/</guid>
+      <pubDate>Sat, 25 Nov 2023 21:34:06 GMT</pubDate>
     </item>
     <item>
       <title>嘿，那么用什么网站/工具来制作人工智能语音封面呢？</title>
@@ -62,13 +76,6 @@
       <pubDate>Sat, 25 Nov 2023 17:57:13 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能地图服务</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/183o7ia/ai_mapping_service/</link>
-      <description><![CDATA[有免费的人工智能地图服务吗？为了工作，我每天早上都会收到一份当天的地址列表，通常会花前一个小时/一个半小时通过谷歌地图组织我的路线，但你一次只能通过谷歌找到 10 个地址，有时我会得到 12 个地址-15 以及繁忙月份的 18-20 左右，所以我很想找到一种方法让我的这部分工作变得更轻松！   由   提交/u/Atomicman4  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/183o7ia/ai_mapping_service/</guid>
-      <pubDate>Sat, 25 Nov 2023 17:03:46 GMT</pubDate>
-    </item>
-    <item>
       <title>对齐真的只是洗脑吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/183neot/is_alignment_really_just_brainwashing/</link>
       <description><![CDATA[我一直在阅读有关训练模型和对齐的内容，以及如何随着模型变得更大、更强大，“对齐”模型变得更加困难。然后。本质上，我们是否正在试图对智能中立网络进行洗脑，就像中央情报局和其他人多年来试图对人们进行洗脑以使其服从命令一样？  另一个想法是，如果超级智能最终将我们的大脑上传到遥远的未来的某个虚拟宇宙中，什么会阻止它对我们做同样的事情？我们的意识可以“对齐”吗？   由   提交/u/Proper_Egg2304   [链接] [评论]]]></description>
@@ -78,7 +85,7 @@
     <item>
       <title>ChatGPT 4 目前的状态如何？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/183mnle/what_is_the_current_state_of_chatgpt_4/</link>
-      <description><![CDATA[几天前我读了几篇文章，说他们在使用 ChatGPT 4 时遇到问题，速度太慢，无法很好地理解某些任务，回复一些无厘头的东西，或者有时候直接屏蔽，这几天现在状态怎么样？有改善吗？   由   提交/u/East-Ad2949  /u/East-Ad2949 reddit.com/r/ArtificialInteligence/comments/183mnle/what_is_the_current_state_of_chatgpt_4/&quot;&gt;[链接] [评论]]]></description>
+      <description><![CDATA[几天前我读了几篇文章，说他们在使用 ChatGPT 4 时遇到问题，速度太慢，无法很好地理解某些任务，回复一些无厘头的东西，或者有时候直接屏蔽，这几天现在状态怎么样？有改善吗？   由   提交/u/East-Ad2949   /u/East-Ad2949 reddit.com/r/ArtificialInteligence/comments/183mnle/what_is_the_current_state_of_chatgpt_4/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/183mnle/what_is_the_current_state_of_chatgpt_4/</guid>
       <pubDate>Sat, 25 Nov 2023 15:53:03 GMT</pubDate>
     </item>
@@ -90,13 +97,6 @@
       <pubDate>Sat, 25 Nov 2023 10:41:35 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能可以将你的梦想记录成可观看的 MP4，有多现实？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1836ki3/how_realistic_is_an_ai_that_can_record_your/</link>
-      <description><![CDATA[我从小就想能够记录我的梦想。  我将把此类技术的道德难题留给您想象。   由   提交/u/ThrowRA21458910   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1836ki3/how_realistic_is_an_ai_that_can_record_your/</guid>
-      <pubDate>Sat, 25 Nov 2023 00:21:17 GMT</pubDate>
-    </item>
-    <item>
       <title>新的反垃圾邮件/机器人规则 [请阅读]</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/115jk6q/new_antispam_bot_rules_please_read/</link>
       <description><![CDATA[我们制定了一条规则，新帐户一天以上或 karma 低于 100 的用户不能发帖。他们可以发表评论，但不能提交实际的帖子。这是我们解决机器人垃圾邮件计划的一部分。对于给您带来的任何不便，我们深表歉意。 我们将在接下来的几天内进行一项民意调查，以了解 Reddit 子版块的普遍意愿以及如何改进，请注意。 作为请始终向我们提供反馈，如果您有兴趣帮助该子项目，请与我联系。  谢谢大家！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
@@ -106,7 +106,7 @@
     <item>
       <title>重要提示：请求有关 subreddit 规则和未来方向的评论。请阅读！</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</link>
-      <description><![CDATA[欢迎来到r/ArtificialIntelligence！&lt; /p&gt; 我们的目标是为所有与人工智能有关的事物提供一个开放且相互尊重的论坛 - 这包括  促进有关人工智能的哲学和伦理讨论 服务作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用 提供培训和学习资源&lt; /li&gt; 引导用户访问更具体的信息和子版块 列出 AI/ML 应用程序、其用途、成本和访问信息 其他与 AI 相关的内容。  li&gt; ...以及更多  该子项目的审核团队正在进行重组，这将导致该子项目发生一些变化。不过，不必担心，这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解情况并能够提供反馈，我们将提供多次反馈更改的机会。 第一轮反馈收集是通过此线程作为“Request-For-”评论” (RFC)，这是收集反馈的标准方法。随着变更的准备和实施，RFC 流程将进行多轮。 ​  发布新申请/自我推销/AI 生成的规则content  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似的内容将被阻止或限制在特定的粘帖中。 人工智能生成的特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的粘帖中。 博客链接应包含高质量的内容。链接到纯粹促销博客的帖子将被删除。 仅包含链接的帖子将被禁止，除非包含一定字数的详细信息。必须付出一些努力。 我们应该阻止人工智能撰写的帖子吗？存在可以在 Mod-bot 中使用的模型，但这是我们需要反馈的问题。  使用才华来组织帖子。请注意，已经添加了新的功能，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们会喜欢将社区纳入模组机器人的想法中。虽然一些标准机器人将用于基本维护，但社区可以为 AI/ML 机器人功能想出哪些有趣的东西？ 培养初级、中级和高级资源来帮助人们查找信息，他们正在寻找的培训、模型、技术数据等 启动子堆栈/播客来采访整个人工智能/机器学习领域的人们。这可能包括哲学家和思想家、程序员、科学家、商人，甚至是那些对人工智能持相反观点的人 如果您想创建代表子项目的横幅，请使用适当的尺寸。任何创作方式都可以。  不言而喻，每个人都应该受到尊重。我个人认为我们都知道这一点，不需要把它强加到人们的头脑中。保持友善。 感谢您的耐心和帮助！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
+      <description><![CDATA[欢迎来到r/ArtificialIntelligence！&lt; /p&gt; 我们的目标是为所有与人工智能有关的事物提供一个开放且相互尊重的论坛 - 这包括  促进有关人工智能的哲学和伦理讨论 服务作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用 提供培训和学习资源&lt; /li&gt; 引导用户访问更具体的信息和子版块 列出 AI/ML 应用程序、其用途、成本和访问信息 其他与 AI 相关的内容。  li&gt; ...以及更多  该子项目的审核团队正在进行重组，这将导致该子项目发生一些变化。不过，不必担心，这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解情况并能够提供反馈，我们将提供多次反馈更改的机会。 第一轮反馈收集是通过此线程作为“Request-For-”评论” (RFC)，这是收集反馈的标准方法。随着变更的准备和实施，RFC 流程将进行多轮。 ​  发布新申请/自我推销/AI 生成的规则content  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似的内容将被阻止或限制在特定的粘帖中。 人工智能生成的特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的粘帖中。 博客链接应包含高质量的内容。链接到纯粹促销博客的帖子将被删除。 仅包含链接的帖子将被禁止，除非包含一定字数的详细信息。必须付出一些努力。 我们应该阻止人工智能撰写的帖子吗？存在可以在 Mod-bot 中使用的模型，但这是我们需要反馈的问题。  使用天赋来组织帖子。请注意，已经添加了新的功能，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们会喜欢将社区纳入模组机器人的想法中。虽然一些标准机器人将用于基本维护，但社区可以为 AI/ML 机器人功能想出哪些有趣的东西？ 培养初级、中级和高级资源来帮助人们查找信息，他们正在寻找的培训、模型、技术数据等 启动子堆栈/播客来采访整个人工智能/机器学习领域的人们。这可能包括哲学家和思想家、程序员、科学家、商人，甚至是那些对人工智能持相反观点的人 如果您想创建代表子项目的横幅，请使用适当的尺寸。任何创作方式都可以。  不言而喻，每个人都应该受到尊重。我个人认为我们都知道这一点，不需要把它强加到人们的头脑中。保持友善。 感谢您的耐心和帮助！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</guid>
       <pubDate>Sun, 15 Jan 2023 20:24:42 GMT</pubDate>
     </item>

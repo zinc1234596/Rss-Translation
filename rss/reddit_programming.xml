@@ -4,20 +4,27 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Sat, 25 Nov 2023 21:10:14 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Nov 2023 03:12:00 GMT</lastBuildDate>
     <item>
-      <title>New Outfit Reveal + 25k celebration + Gentoo Install on Arch Linux 🍂 新衣装！在这里等你!!</title>
-      <link>https://www.reddit.com/r/programming/comments/183tcws/new_outfit_reveal_25k_celebration_gentoo_install/</link>
-      <description><![CDATA[ 由   提交/u/cyannyan6  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/183tcws/new_outfit_reveal_25k_celebration_gentoo_install/</guid>
-      <pubDate>Sat, 25 Nov 2023 20:58:47 GMT</pubDate>
+      <title>Dolphin 模拟器进度报告：2023 年 8 月、9 月和 10 月</title>
+      <link>https://www.reddit.com/r/programming/comments/18403it/dolphin_emulator_progress_report_august_september/</link>
+      <description><![CDATA[ 由   提交/u/turol  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/18403it/dolphin_emulator_progress_report_august_september/</guid>
+      <pubDate>Sun, 26 Nov 2023 02:17:47 GMT</pubDate>
     </item>
     <item>
-      <title>中国黑客窃取荷兰主要半导体公司的芯片设计</title>
-      <link>https://www.reddit.com/r/programming/comments/183t5zx/chinese_hackers_steal_chip_designs_from_major/</link>
-      <description><![CDATA[ 由   提交 /u/Mariambarouma   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/183t5zx/chinese_hackers_steal_chip_designs_from_major/</guid>
-      <pubDate>Sat, 25 Nov 2023 20:49:30 GMT</pubDate>
+      <title>有史以来最复杂的 JS Fizz Buzz</title>
+      <link>https://www.reddit.com/r/programming/comments/183we3r/most_complicated_js_fizz_buzz_ever/</link>
+      <description><![CDATA[ 由   提交 /u/JellyFishMartin   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/183we3r/most_complicated_js_fizz_buzz_ever/</guid>
+      <pubDate>Sat, 25 Nov 2023 23:14:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>学习编程的思考</title>
+      <link>https://www.reddit.com/r/programming/comments/183vkak/reflections_on_learning_programming/</link>
+      <description><![CDATA[ 由   提交/u/osm3000  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/183vkak/reflections_on_learning_programming/</guid>
+      <pubDate>Sat, 25 Nov 2023 22:37:35 GMT</pubDate>
     </item>
     <item>
       <title>让 C 代码更漂亮（《让 C 代码更丑》的续集）</title>
@@ -102,13 +109,6 @@
       <description><![CDATA[ 由   提交 /u/creativefisher   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/183ap5x/shift_leftwtf_does_it_mean/</guid>
       <pubDate>Sat, 25 Nov 2023 03:43:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>不变量：更好的调试器？关于算法、数据结构和分布式系统的另类推理方式</title>
-      <link>https://www.reddit.com/r/programming/comments/1838wwe/invariants_a_better_debugger_alternative_way_of/</link>
-      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1838wwe/invariants_a_better_debugger_alternative_way_of/</guid>
-      <pubDate>Sat, 25 Nov 2023 02:12:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
