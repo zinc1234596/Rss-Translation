@@ -4,7 +4,91 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 26 Nov 2023 09:11:24 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Nov 2023 15:10:57 GMT</lastBuildDate>
+    <item>
+      <title>在同一浏览器、同一操作系统上呈现不同的字体，但静态站点生成器不同？</title>
+      <link>https://www.reddit.com/r/webdev/comments/184bzxt/different_font_rendering_on_the_same_browser_same/</link>
+      <description><![CDATA[静态站点生成器如何更改字体在浏览器中的呈现方式？ 字体是： Segoe UI 操作系统： Windows 10 SSG 1：Docusaurus   SSG 2：材质 Mkdocs 材质 Mkdocs  放大绘制后，一种字体使用灰度渲染，另一种使用子像素渲染。 SSG 如何进行这样的字体优化？ 复制 如果您有我的操作系统和 Chrome 浏览器，您可以轻松复制它，因为两个 SSG 都使用自己的主题。 &lt;!-- SC_ON - -&gt;  由   提交/u/johny_james   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/184bzxt/different_font_rendering_on_the_same_browser_same/</guid>
+      <pubDate>Sun, 26 Nov 2023 14:34:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>处理 iPhone/Safari 底部栏的最佳方法，以及有关定位的问题？</title>
+      <link>https://www.reddit.com/r/webdev/comments/184bza4/best_way_to_handle_iphonesafari_bottom_bar_and/</link>
+      <description><![CDATA[所以我有一个页脚，位置：固定，底部：0。但是有些iPhone有那个小黑条，所以我真的只需要制作在这些情况下，页面变小或至少将页脚向上移动。恼人的。我看到了一些关于 env(safe-area-inset-bottom) 的内容，但我希望能从有经验的人那里得到意见，看看这是否是最好的解决方案，或者只是更全面地了解考虑 iPhone 的试验。 此外，我有一些按钮在 Android 和桌面上看起来很正常，但由于某种原因，“+”在 iPhone 上并不居中。它只是一个简单的圆圈，其中 + 垂直和水平居中。 相关 css： border: 1pxsolid;边界半径：50%；字体大小：20px；宽度：45 像素；高度：45 像素；显示：柔性；对齐项目：居中；调整内容：居中；  想知道 Safari 导致不合作的原因是什么？如果重要的话，该按钮位于另一个 Flex div 中。 ​ 最后，我们 Android 用户是否可以使用一些工具来在 Safari 模拟中测试我们的布局？使用 iPhone 的 Chrome 开发工具不会出现这些问题，这是有道理的，因为我猜它没有使用 Safari。 谢谢！  &amp;# 32；由   提交 /u/werdnaegni   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/184bza4/best_way_to_handle_iphonesafari_bottom_bar_and/</guid>
+      <pubDate>Sun, 26 Nov 2023 14:33:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何将域名从 Hostinger 转移到 GitHub Pages？</title>
+      <link>https://www.reddit.com/r/webdev/comments/184bmn3/how_do_i_transfer_a_domain_name_from_hostinger_to/</link>
+      <description><![CDATA[有人可以帮助我吗，我尝试了几个小时，但不起作用。 我有在以下位置购买的域名Hostinger 和我想在 GitHub Pages 中使用此名称。 ​ Hostinger 上有以下域选项：  更改名称服务器 管理 DNS 记录，使用选项“类型/名称/指向/TTL”  ​ 使用 Github：&lt; /p&gt; 有一个选项，可以输入我的自定义域。 ​ 我不知道这是如何工作的或我应该做什么。有人知道我应该在哪里输入哪些数据吗？ 这将是一个很大的帮助，因为我在这个主题上坐了几个小时。  &amp; #32；由   提交 /u/Redditisannoying22   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/184bmn3/how_do_i_transfer_a_domain_name_from_hostinger_to/</guid>
+      <pubDate>Sun, 26 Nov 2023 14:15:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>后端如何处理和管理来自前端的请求（投递之类的）？</title>
+      <link>https://www.reddit.com/r/webdev/comments/184ae93/how_to_handle_and_manage_requests_delivery_like/</link>
+      <description><![CDATA[如果这对大多数人来说似乎是显而易见的，我很抱歉，但对我来说并非如此，我已经搜索过，但似乎找不到任何东西这澄清了我的疑虑。如果我没有使用正确的术语，我也很抱歉，我不是专家，但我正在努力学习。我想制作一个像 uber eats 这样的网站，但复杂程度要低得多。我希望用户能够下订单送货并支付送货费用。我所说的请求是指如果用户正在下订单，订单会去哪里？我如何向负责处理该订单的人员提供反馈？我知道后台是存在的，但到目前为止，我看到的都是CMS后台，只有内容管理。这似乎是从后端到前端的交互——完全是单方面的。但我需要双边互动。我想知道如何在后端显示来自前端的输入，以及如何从后端响应它并将其显示在前端。 哦，提前感谢您，如果您愿意的话请花点时间阅读本文！   由   提交 /u/colgatestars   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/184ae93/how_to_handle_and_manage_requests_delivery_like/</guid>
+      <pubDate>Sun, 26 Nov 2023 13:10:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>后端如何处理和管理来自前端的请求（投递之类的）？</title>
+      <link>https://www.reddit.com/r/webdev/comments/184acs3/how_to_handle_and_manage_requests_delivery_like/</link>
+      <description><![CDATA[如果这对大多数人来说似乎是显而易见的，我很抱歉，但对我来说并非如此，我已经搜索过，但似乎找不到任何东西这澄清了我的疑虑。如果我没有使用正确的术语，我也很抱歉，我不是专家，但我正在努力学习。我想制作一个像 uber eats 这样的网站，但复杂程度要低得多。我希望用户能够下订单送货并支付送货费用。 （顺便说一句，我正在使用 React js）通过请求，我的意思是如果用户正在下订单，订单会去哪里？我如何向负责处理该订单的人员提供反馈？我知道后台是存在的，但到目前为止，我看到的都是CMS后台，只有内容管理。这似乎是从后端到前端的交互——完全是单方面的。但我需要双边互动。我想知道如何在后端显示来自前端的输入以及如何从后端响应它并在前端显示它。  &amp; #32；由   提交 /u/colgatestars   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/184acs3/how_to_handle_and_manage_requests_delivery_like/</guid>
+      <pubDate>Sun, 26 Nov 2023 13:08:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Crosswalk 项目的替代方案可让您将 Chromium 捆绑到移动应用程序中？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1849ay8/alternative_to_project_crosswalk_which_lets_you/</link>
+      <description><![CDATA[是否有任何替代项目允许您将自定义 Chromium 构建捆绑为应用程序的运行时？ 需要澄清的是，Crosswalk 提供了此功能，但已停止支持 PWA（甚至 Android TV 也不支持）。此外，使用像 Capacitor 这样的现代项目会导致应用程序使用本机 webview，其中 Web 运行时无法自定义（例如使用自定义 ffmpeg 版本）。   由   提交 /u/GrabbenD   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1849ay8/alternative_to_project_crosswalk_which_lets_you/</guid>
+      <pubDate>Sun, 26 Nov 2023 12:06:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻求 Web 开发人员对 Web 开发中的全栈语言的见解</title>
+      <link>https://www.reddit.com/r/webdev/comments/18495pu/seeking_insights_from_web_developers_on_fullstack/</link>
+      <description><![CDATA[大家好， 我目前正在撰写学士学位论文，重点研究 Livewire 和 Node 等全栈技术的影响.js(/React) 上的开发者体验 (DX)。我正在向各个级别的 Web 开发人员（从初学者到经验丰富的专家）收集见解。您的观点非常有价值！ 我创建了一项调查，很想听听您对几个关键问题的看法：  Livewire 与 React练习：您是否使用过这两个框架中的一个或两个？它们如何影响您的开发者体验 (DX)？ 全栈技术对团队动力的影响：JavaScript（与 Node.js）或 PHP（与 Laravel）等技术有何影响？ Livewire）影响您团队中的协作和项目管理？ 个人偏好和挑战：您在全栈技术（尤其是 Livewire 和 React 等框架）方面面临哪些个人偏好或挑战？&lt; /li&gt;  调查包括这些问题和其他问题，以更好地了解您的经历。完成大约需要 10-15 分钟。请放心，所有回复都是保密的，并且严格用于学术研究。 我真的很高兴阅读您的回复并从您独特的经历中学习！以下是调查链接： https://forms.gle/MrvwsKoczAhEiVNf9 非常感谢非常感谢您花费时间并分享您的见解！  （如果您愿意，您也可以在这里发表评论 - 任何有帮助的:)）   由   提交/u/Rasalas8910   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18495pu/seeking_insights_from_web_developers_on_fullstack/</guid>
+      <pubDate>Sun, 26 Nov 2023 11:57:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>我需要学习什么主题才能理解这一点？有视频/书籍资源吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/18491nz/what_topic_do_i_need_to_learn_to_be_able_to/</link>
+      <description><![CDATA[    /u/sauravnation   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18491nz/what_topic_do_i_need_to_learn_to_be_able_to/</guid>
+      <pubDate>Sun, 26 Nov 2023 11:49:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>请帮忙</title>
+      <link>https://www.reddit.com/r/webdev/comments/184868f/please_help/</link>
+      <description><![CDATA[我在使用 3d 对象 (.gbl/.gltf) 时遇到一些问题，我正在使用三个 js 和 tailwinds； &lt; p&gt;我得到了聚光灯、点光源、图元（对象、缩放、位置、旋转）和画布（帧循环、阴影、dpi、相机、gl）轨道控件，我仍然不知道为什么它不起作用页面上只是白色，没有显示任何内容    由   提交 /u/Benatp   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/184868f/please_help/</guid>
+      <pubDate>Sun, 26 Nov 2023 10:49:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>构建我的前端组合：需要帮助选择项目🚀</title>
+      <link>https://www.reddit.com/r/webdev/comments/1847g60/building_my_frontend_portfolio_need_help_choosing/</link>
+      <description><![CDATA[大家好👋 在过去的几个月里，我一直在学习前端软件工程。我了解 HTML、CSS、Sass、Bootstrap、一些 Tailwind CSS、React 和一些 Redux Toolkit。 现在我正在尝试整理一个作品集。我想创建 4 个大项目，并且我已经锁定了两个项目：一个带有动画的交互式作品集网站和一个流行平台的克隆（可能是 Netflix 或 Pinterest）。 我需要什么帮助正在决定其他两个项目应该是什么。我有几个选择：电子商务商店、实时聊天应用程序、数据可视化工具、任务管理网站、健身跟踪应用程序。我更倾向于电子商务商店和实时聊天应用程序或任务管理系统。 我知道电子商务商店是一个受欢迎的项目，将其纳入我的投资组合可能会有所帮助但是，在致力于这些肯定需要一段时间的大型项目之前，我想了解其他人的意见，了解其中哪些项目对招聘人员印象最深刻，以及他们最关心哪些项目。另外，如果需要的话，我正在考虑选择 Node.js。 任何建议或想法将不胜感激！谢谢:)   由   提交 /u/Material-Capital5933    reddit.com/r/webdev/comments/1847g60/building_my_frontend_portfolio_need_help_choosing/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1847g60/building_my_frontend_portfolio_need_help_choosing/</guid>
+      <pubDate>Sun, 26 Nov 2023 09:58:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>我对这个领域有点厌倦了</title>
+      <link>https://www.reddit.com/r/webdev/comments/184780l/im_a_bit_tired_of_this_field/</link>
+      <description><![CDATA[嗨，我不知道该怎么办。我正在学习成为一名完整的 Web 开发人员，现在我正在参加 MERN 训练营（MongoDB、Express.js、React、Node.js），我做得很好，问题在于工作，因为没有一致性在市场上。有时他们会要求了解 Magento 的人，其他人想要 Shopify，其他人想要纯 html、css、js。即使在后端，有些人要求 odoo11 或 odoo16，其他人要求 MySQL 作为数据库，其他人想要 NoSQL，有些人甚至想要 AI 东西和训练模型。所有市场都希望你在所有方面都表现出色。我很累，我可以接受学习新事物，但根本没有一致性，无论我给予或学习多少，总会有我没有涵盖的新事物或我应该稍后学习的新事物当我寻找另一份工作时，我学到的东西并不适用于公司的要求。我只是想坚持做某事并擅长它，并且我可以学习新东西，但发生的情况是每个人同时要求不同的东西，并且不知道该选择什么或什么是正确的选择   由   提交 /u/NJ_Gmd   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/184780l/im_a_bit_tired_of_this_field/</guid>
+      <pubDate>Sun, 26 Nov 2023 09:41:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>前端开发中的关注点分离发生了什么？Jens Oliver Meiert</title>
+      <link>https://www.reddit.com/r/webdev/comments/18476cs/what_happened_to_separation_of_concerns_in/</link>
+      <description><![CDATA[       由   提交/u/pmz  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18476cs/what_happened_to_separation_of_concerns_in/</guid>
+      <pubDate>Sun, 26 Nov 2023 09:38:36 GMT</pubDate>
+    </item>
     <item>
       <title>人工智能会减少需求和工资吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1846r53/will_ai_decrease_demand_and_salaries/</link>
@@ -25,90 +109,6 @@
       <description><![CDATA[我愿意每天花5个小时做编程，不仅是编码方面，还有找工作、研究、做项目等等一切可能的方式为了获得一份初级网络开发工作，在一年前（尽可能快），我需要充分利用我的时间。 Reddit 我需要现实的期望和建议。我不想在最佳视频游戏发行上破产。   由   提交 /u/BaconShadow   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/18447fp/what_can_i_do_to_get_an_advantage_in_the/</guid>
       <pubDate>Sun, 26 Nov 2023 06:09:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要有关我的 omegle 文本克隆的反馈</title>
-      <link>https://www.reddit.com/r/webdev/comments/1843zxc/need_feedback_on_my_omegle_text_clone/</link>
-      <description><![CDATA[你觉得怎么样？有改进的余地吗？ https://relae.online ​ &lt;!-- SC_ON - -&gt;  由   提交 /u/Regular_Ability_4782   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1843zxc/need_feedback_on_my_omegle_text_clone/</guid>
-      <pubDate>Sun, 26 Nov 2023 05:57:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于向 pdf 文件添加注释的 API？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1842xmh/an_api_for_adding_comments_to_a_pdf_file/</link>
-      <description><![CDATA[您好！我目前正在创建一个个人网络应用程序以添加到我的投资组合中。我快完成了；但是，我在实现一项功能时遇到了麻烦，用户可以在该功能中将注释添加到他们已查看的 pdf 的特定部分中。添加评论后，他们现在可以保存进度。   由   提交/u/SurgicalChem23  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1842xmh/an_api_for_adding_comments_to_a_pdf_file/</guid>
-      <pubDate>Sun, 26 Nov 2023 04:52:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>您对 Medusa.js 有何看法？你知道吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1842vsv/what_is_your_medusajs_opinion_do_you_even_know_it/</link>
-      <description><![CDATA[      大家好， 我最近接触到了一个电子商务名为 Medusa.js 的解决方案。我在互联网上搜索了一些人们对此的看法，结果......出乎意料？ tl;dr：该软件包的受欢迎程度增长非常快，但没有人谈论它，为什么？ 让我们总结一下： 首先，Medusa 在大约 4 年内在 Github 上达到了 20k star，击败了 Sylius 或 PrestaShop 等竞争对手的近 3 倍。哎呀，它甚至击败了老WordPress 2k星。 https://preview.redd.it/p1vxgyorgm2c1.jpg?width=1094&amp;format=pjpg&amp;auto=webp&amp;s=bf61ef8a25fa95f7f3f387dbf7fc68839 fb4c0ed 注意事项，Medusa 在 ProductHunt 上荣获 2022 年度电子商务产品奖，这也许可以解释 2022 年附近的繁荣，但它看起来仍然与典型增长有很大不同，并且自那以后出于某种原因一直在增长。  看着 GitHub 如此受欢迎，我本以为会找到很多关于它的讨论，但情况却大不相同。很难找到关于这个主题的帖子看起来不像是由非 SEO 技术文案撰写的。大多数讨论看起来像是营销假帖子来宣传它。关于它的教程不多。基本上这个名字不会出现在“你推荐什么在线商店”之类的帖子中。 我错过了什么吗？为什么这件事如此安静？这么多人从哪里听说的？ 你们有人在实际项目中使用过这个解决方案吗？您的体验如何？ ​   由   提交/u/Ngh7  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1842vsv/what_is_your_medusajs_opinion_do_you_even_know_it/</guid>
-      <pubDate>Sun, 26 Nov 2023 04:49:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>提升您的食谱（食谱自动高度调节器）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1841bim/elevate_your_recipe_automatic_altitude_adjustor/</link>
-      <description><![CDATA[https://github.com/Peterksharma /提升您的食谱  大家好！在过去的 8 个月里，当我学习编码时，我一直致力于这项工作或热爱。这个想法是，Vanilla JS 和 RegEx 可以过滤页面并以任何其编写的格式定位食谱。我希望它能够保持不可知论，能够在任何网站上阅读任何面包食谱。  随着项目的增长，代码变得越来越丑陋并且越来越难以阅读。有什么好的方法来清理代码吗？一旦你有了代码，你们将如何将其提炼为精华？我觉得我很坚强地武装这个想法，而不是巧妙地运用它。你们将如何解决这个问题？   由   提交/u/Trex4444  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1841bim/elevate_your_recipe_automatic_altitude_adjustor/</guid>
-      <pubDate>Sun, 26 Nov 2023 03:21:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>你在学校学过离散数学吗？您在工作中使用它吗/您对学到它感到高兴吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/183ze0p/did_you_take_discrete_math_in_school_do_you_use/</link>
-      <description><![CDATA[标题。   由   提交/u/ChiLove816  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/183ze0p/did_you_take_discrete_math_in_school_do_you_use/</guid>
-      <pubDate>Sun, 26 Nov 2023 01:41:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>JS 脚本正常加载，但添加 SRI 时会被跨源阻止</title>
-      <link>https://www.reddit.com/r/webdev/comments/183ywjv/js_script_loads_normally_but_when_adding_sri_it/</link>
-      <description><![CDATA[我正在尝试包含一个 js 脚本来显示降雪效果。从网站： https://embed.im/snow/  按照页面上的说明操作，包含工作正常并且脚本已加载： ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/183ywjv/js_script_loads_normally_but_when_adding_sri_it/</guid>
-      <pubDate>Sun, 26 Nov 2023 01:17:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>成为全栈工程师的资源</title>
-      <link>https://www.reddit.com/r/webdev/comments/183yuh8/resources_to_become_a_full_stack_engineer/</link>
-      <description><![CDATA[大家好，我会尽力让这篇文章简短而甜蜜，希望它不会太长。我是一名 EE，于 2021 年毕业，从那时起就一直在该领域工作。我已经意识到我想转变为一名软件工程师，特别是全栈工程师。我有一些 python 和 C++ 经验。您建议我使用哪些免费和付费资源？我应该回到学校吗？感谢您提前提供所有信息。我应该直接进入全栈还是先尝试成为前端或后端工程师然后再进入全栈？   由   提交/u/Kindly_Engineer_235   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/183yuh8/resources_to_become_a_full_stack_engineer/</guid>
-      <pubDate>Sun, 26 Nov 2023 01:14:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>[周六炫耀] 投资组合硬币追踪器 - CryptoWulf</title>
-      <link>https://www.reddit.com/r/webdev/comments/183yo39/showoff_saturday_portfolio_coin_tracker_cryptowulf/</link>
-      <description><![CDATA[大家好， 在我们迁移到 Microsoft Azure 后，CryptoWulf 终于向公众开放了：https://cryptowulf.app/blog/migration-microsoft-azure/ 我们专注于优先考虑安全性的持有者和隐私，并且不愿共享交换访问或公钥。 CryptoWulf 是一个数据聚合器，可提供有关您的投资组合和整个市场的见​​解和信息。  功能概述： * 流行的市场指标，如 PI 周期顶部 * 投资组合见解，如短期和长期 * 随时导入和导出您的交易 * 投资组合和价格预测可以与您的关注者或您的亲密朋友分享朋友 * 硬币和法定费用也被视为利润 在隐私方面，我们坚持最高标准。您的数据仅供您个人使用，并保存在北欧的 Azure 上。您可以随时删除您的数据，我们不会收集您的区块链地址。您也可以只创建一个测试组合。  即将推出的功能： * 跟踪配置支持 * 通知 * Kraken / Coinbase 格式导入 * Windows 客户端版本（当前正在认证中）  下载 CryptoWulf： https://cryptowulf.app   由   提交 /u/KaiN_SC   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/183yo39/showoff_saturday_portfolio_coin_tracker_cryptowulf/</guid>
-      <pubDate>Sun, 26 Nov 2023 01:05:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>CSS 万圣节鬼屋</title>
-      <link>https://www.reddit.com/r/webdev/comments/183yl6g/halloween_haunted_mansion_with_css/</link>
-      <description><![CDATA[     &lt; td&gt; 由   提交/u/Emezeta  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/183yl6g/halloween_haunted_mansion_with_css/</guid>
-      <pubDate>Sun, 26 Nov 2023 01:01:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 MERN 堆栈获取发布项目的用户的位置</title>
-      <link>https://www.reddit.com/r/webdev/comments/183w3o0/getting_the_location_of_a_user_who_posted_an_item/</link>
-      <description><![CDATA[所以我正在使用 MERN 堆栈开发一个电子商务应用程序，现在我一直在使用这个 `useAuth` 函数，它允许您获取当前用户的信息以在导航栏中动态呈现他们的位置。但是，我现在正在主页上工作，我正在尝试获取发布项目的用户的位置，而不是当前登录/经过身份验证的用户的位置（这就是 useAuth 正在做的事情）。有人有什么建议吗？我刚刚更新了项目架构以包括位置，但是当用户提交项目时，我只询问名称、价格、描述和条件，因为期望他们的位置将在注册时保存。欢迎任何建议。谢谢！ 这是 useAuth（我的一位团队成员致力于此）： import { createContext, useContext, useState, useEffect } from &quot;react&quot;; const AuthContext = createContext();导出 const AuthProvider = ({ 孩子 }) =&gt; { const [已验证，setAuthenticated] = useState(false); const [用户，setUser] = useState(null); useEffect(() =&gt; { console.log(authenticated, &#39;在 AuthProvider 中进行身份验证&#39;); }, [authenticated]); const login = async (电子邮件, 密码) =&gt;; { 尝试 { const response = wait fetch(&#39;http://localhost:5003/api/login&#39;, { method: &#39;POST&#39;, headers: { &#39;Content-Type&#39;: &#39;application/json&#39;, }, body: JSON .stringify({ 电子邮件, 密码 }), 凭证: &#39;include&#39;, }); if (response.status === 200) { console.log(&#39;response.status === 200&#39;) setAuthenticated(true); const getUser = wait fetch(&#39;http://localhost:5003/api/auth&#39;, { 方法: &#39;GET&#39;, 凭证: &#39;include&#39; }); const user = wait getUser.json(); setUser(用户.用户); } else { console.log(&#39;是否打印&#39;); setAuthenticated(假); } } catch (error) { console.log(&#39;catch(error) 打印吗？&#39;) console.error(error); setAuthenticated(假); const loginWithPromise = (电子邮件, 密码) =&gt; { return new Promise(async (resolve,拒绝) =&gt; { try { 等待登录(电子邮件, 密码);resolve(); } catch (错误) { 拒绝(错误); } }); }; return (  {children}  ) } 导出 const useAuth = () =&gt;; { 返回 useContext(AuthContext); }  ​   由   提交/u/Willing_Teaching_526   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/183w3o0/getting_the_location_of_a_user_who_posted_an_item/</guid>
-      <pubDate>Sat, 25 Nov 2023 23:01:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个图书数据库网站，允许按 Goodreads 评级进行过滤</title>
-      <link>https://www.reddit.com/r/webdev/comments/183vsi9/i_created_a_book_database_site_that_allows/</link>
-      <description><![CDATA[     &lt; td&gt; ​ book-filter.com 使用 Goodreads 浏览图书非常耗时且乏味，因此构建 此，而是通过应用过滤器更轻松地查找您想要阅读的书籍。 ​ 是的，Goodreads 仍然不具备基本的过滤功能... ​ 感谢任何反馈/建议！   由   提交/u/David_2107  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/183vsi9/i_created_a_book_database_site_that_allows/</guid>
-      <pubDate>Sat, 25 Nov 2023 22:47:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>Turbo 8 正在放弃 TypeScript</title>
-      <link>https://www.reddit.com/r/webdev/comments/183urd3/turbo_8_is_dropping_typescript/</link>
-      <description><![CDATA[       由   提交/u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/183urd3/turbo_8_is_dropping_typescript/</guid>
-      <pubDate>Sat, 25 Nov 2023 22:01:29 GMT</pubDate>
     </item>
     </channel>
 </rss>

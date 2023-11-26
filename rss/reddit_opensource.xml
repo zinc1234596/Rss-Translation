@@ -4,7 +4,42 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 26 Nov 2023 12:18:30 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Nov 2023 15:11:03 GMT</lastBuildDate>
+    <item>
+      <title>快速向 PortableApps.Com 致谢</title>
+      <link>https://www.reddit.com/r/opensource/comments/184cb55/quick_shoutout_to_portableappscom/</link>
+      <description><![CDATA[我需要管理员批准才能在我的工作计算机上进行任何安装（可以理解），而便携式软件是一种避免每次我需要麻烦别人的方法新计划。许多开源软件的下载页面已经提供了便携式下载选项，但也有很多没有。 PortableApps 已经推出了许多不具备便携版本的应用程序。所有的广告看起来都很粗略，但我从这个网站得到的只是良好的结果。 （只要他们不放入带有虚假下载按钮的广告，破坏者）   由   提交 /u/blakeret   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/184cb55/quick_shoutout_to_portableappscom/</guid>
+      <pubDate>Sun, 26 Nov 2023 14:49:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Medal.tv/Shadowplay 游戏剪辑的开源替代品</title>
+      <link>https://www.reddit.com/r/opensource/comments/184b6xg/opensource_alternative_to_medaltvshadowplay_game/</link>
+      <description><![CDATA[ 由   提交 /u/MeYaj1111   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/184b6xg/opensource_alternative_to_medaltvshadowplay_game/</guid>
+      <pubDate>Sun, 26 Nov 2023 13:53:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>免费开源计费软件</title>
+      <link>https://www.reddit.com/r/opensource/comments/184b02x/free_and_open_source_billing_softwar/</link>
+      <description><![CDATA[要求： 可以制作账单 制作 qr 有语言支持 我不需要在线发票发送东西 &lt; /div&gt;  由   提交/u/Frost-Mage10   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/184b02x/free_and_open_source_billing_softwar/</guid>
+      <pubDate>Sun, 26 Nov 2023 13:43:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>开源 C++ 3D 查看器寻找贡献者</title>
+      <link>https://www.reddit.com/r/opensource/comments/184ape0/opensource_c_3d_viewer_looking_for_contributors/</link>
+      <description><![CDATA[F3D 是几年前创建的 C++ 3D 查看器，并且受到越来越多的关注。 虽然我们的用户数量已经增加尽管在问题分类、文档、入门指南和不和谐社区方面做出了巨大努力，但我们几乎看不到任何贡献者的增长。 如果您对该项目感兴趣并希望做出贡献，请加入，我们绝对会帮助你并指导你。 我不确定我们还能做些什么来找到更多的贡献者并以更大的方式让社区参与进来，如果您有任何建议，请这样做：  p&gt;  我们的网站：https://f3d.app 我们的存储库：https://github.com/f3d-app/f3d 我们的不和谐：https://discord.f3d.app    由   提交 /u/GloWondub   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/184ape0/opensource_c_3d_viewer_looking_for_contributors/</guid>
+      <pubDate>Sun, 26 Nov 2023 13:27:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>集算器SPL是一款开源的数据分析引擎：低代码、高性能、轻量级、通用性。具体来说，通过SPL对数据进行分析，与以SQL为代表的传统技术相比，可以使整体应用成本降低数倍。 https://github.com/SPLWare/esProc</title>
+      <link>https://www.reddit.com/r/opensource/comments/184alkq/esproc_spl_is_a_open_source_data_analysis_engine/</link>
+      <description><![CDATA[ 由   提交/u/Vast_Lab8278  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/184alkq/esproc_spl_is_a_open_source_data_analysis_engine/</guid>
+      <pubDate>Sun, 26 Nov 2023 13:21:56 GMT</pubDate>
+    </item>
     <item>
       <title>AUNIX：另一个不同的 Linux 发行版安装程序</title>
       <link>https://www.reddit.com/r/opensource/comments/1846vh1/aunix_another_linux_distro_installer_with_a/</link>
@@ -74,41 +109,6 @@
       <description><![CDATA[ 由   提交/u/buovjaga  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/183ld3t/libreoffice_extensions_with_python_create_and/</guid>
       <pubDate>Sat, 25 Nov 2023 14:52:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>GitHub 操作的帐户级别变量</title>
-      <link>https://www.reddit.com/r/opensource/comments/183iebh/account_level_variable_for_github_action/</link>
-      <description><![CDATA[正如标题所说，是否可以在帐户级别为 GitHub 操作添加变量？ 我有多个具有操作的存储库将图像推送到 docker hub。目前我必须为每个存储库单独设置环境变量。   由   提交/u/ramank775  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/183iebh/account_level_variable_for_github_action/</guid>
-      <pubDate>Sat, 25 Nov 2023 12:07:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>新的 Gato GraphQL 添加了预定义的持久查询</title>
-      <link>https://www.reddit.com/r/opensource/comments/183gyzn/the_new_gato_graphql_adds_predefined_persisted/</link>
-      <description><![CDATA[       由   提交/u/leoleoloso  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/183gyzn/the_new_gato_graphql_adds_predefined_persisted/</guid>
-      <pubDate>Sat, 25 Nov 2023 10:30:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>Bluefin 项目：面向专业开发人员的 Linux 桌面</title>
-      <link>https://www.reddit.com/r/opensource/comments/1832ztr/project_bluefin_a_linux_desktop_for_serious/</link>
-      <description><![CDATA[    /u/CrankyBear   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1832ztr/project_bluefin_a_linux_desktop_for_serious/</guid>
-      <pubDate>Fri, 24 Nov 2023 21:44:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们真的需要另一个非开源可用许可证吗？</title>
-      <link>https://www.reddit.com/r/opensource/comments/182yn6x/do_we_really_need_another_nonopen_source/</link>
-      <description><![CDATA[    /u/CrankyBear   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/182yn6x/do_we_really_need_another_nonopen_source/</guid>
-      <pubDate>Fri, 24 Nov 2023 18:31:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找像 rize.io 这样的个人生产力追踪器</title>
-      <link>https://www.reddit.com/r/opensource/comments/182vj4i/looking_for_a_personal_productivity_tracker_like/</link>
-      <description><![CDATA[我想跟踪我的工作效率，但填写电子表格确实很烦人。  Rize 具有很好的功能，但显然买不起。 “自动捕获在桌面焦点窗口上花费的时间的应用程序。对于网站，它将连接并请求当前 URL，以帮助对在浏览器中花费的任何时间进行分类。” 编辑：对于 Windows  &amp; #32；由   提交 /u/sleepypandacat   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/182vj4i/looking_for_a_personal_productivity_tracker_like/</guid>
-      <pubDate>Fri, 24 Nov 2023 16:11:11 GMT</pubDate>
     </item>
     </channel>
 </rss>

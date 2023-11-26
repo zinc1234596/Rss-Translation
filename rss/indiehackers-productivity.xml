@@ -4,7 +4,24 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Sun, 26 Nov 2023 12:18:57 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Nov 2023 15:11:31 GMT</lastBuildDate>
+    <item>
+      <title>一周内即可构建的 7 个开源 AI 应用程序</title>
+      <link>https://feed.indiehackers.world/post/51437ed475</link>
+      <description><![CDATA[AppFlowy 是 Notion 的替代品，Notion 是使用 Rust 构建的现代开源知识库软件。我想象为一个在 Word 文档中保存所有笔记的客户设置它 - 链接
+
+Helper-AI – 即时访问 GPT-4 + 所有权和所有权源代码
+
+Helper-AI 构建了在任何站点上访问 GPT-4 的最快方式。只需输入“帮助”即可在任何网站上即时访问 GPT-4，而无需一次又一次地更改选项卡。 
+在短短 35 天里，Helper-AI 通过出售自己的 AI 初创公司源代码和 100% 所有权，赚了 3270+，所以其他人也可以在这个黄金时代开始自己的 AI 初创公司！！。
+为什么要使用它？
+✓ 3 倍生产力、编写代码和Excel 公式、重写、研究等。
+✓ 适用于所有 macOS + Windows。
+✓ 不惜一切代价转售（100% 所有权+源代码）
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/51437ed475</guid>
+      <pubDate>Sun, 26 Nov 2023 13:02:25 GMT</pubDate>
+    </item>
     <item>
       <title>One Tab Group 2.0 的新宣传视频现已发布。为什么需要为您的业余项目制作宣传视频？</title>
       <link>https://feed.indiehackers.world/post/3ae83be443</link>
@@ -218,15 +235,6 @@ Discord 独立黑客聊天广告这里]]></description>
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/bf146bb6e4</guid>
       <pubDate>Thu, 16 Nov 2023 18:07:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>作为独立创始人如何有效地处理所有任务</title>
-      <link>https://feed.indiehackers.world/post/bbe8ae1479</link>
-      <description><![CDATA[在上面的例子中，你会在 20 分钟内完成 2/4 的任务，从心理上感觉你已经完成了一半。快速连续地从待办事项列表中划掉事情，会产生少量的多巴胺，这会奖励你，让你更有可能继续在同一个地方，而且感觉很棒。
-这就是本周的全部内容。我每周都会写这些指南。如果您发现这很有用，您可以在此处订阅以在收件箱中获取下一个指南。
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/bbe8ae1479</guid>
-      <pubDate>Thu, 16 Nov 2023 12:02:50 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,7 +4,42 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Sun, 26 Nov 2023 12:18:20 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Nov 2023 15:10:35 GMT</lastBuildDate>
+    <item>
+      <title>是的，有一个名为 @(-.-)/env 的 npm 包，还有其他一些类似的包</title>
+      <link>https://www.reddit.com/r/programming/comments/184cn1s/yes_theres_an_npm_package_called_env_and_some/</link>
+      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/184cn1s/yes_theres_an_npm_package_called_env_and_some/</guid>
+      <pubDate>Sun, 26 Nov 2023 15:05:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Think C 和 ResEdit 在 Macintosh 系统 7.5 上进行复古编程</title>
+      <link>https://www.reddit.com/r/programming/comments/184ciqi/vintage_programming_on_macintosh_system_75_with/</link>
+      <description><![CDATA[ 由   提交/u/derjanni   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/184ciqi/vintage_programming_on_macintosh_system_75_with/</guid>
+      <pubDate>Sun, 26 Nov 2023 15:00:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>当您在浏览器中输入 google.com 时会发生什么？</title>
+      <link>https://www.reddit.com/r/programming/comments/184akza/what_happens_when_you_type_googlecom_in_the/</link>
+      <description><![CDATA[ 由   提交/u/sdxyz42   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/184akza/what_happens_when_you_type_googlecom_in_the/</guid>
+      <pubDate>Sun, 26 Nov 2023 13:21:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>CUPID——快乐编码[SOLID的替代； 2022年]</title>
+      <link>https://www.reddit.com/r/programming/comments/184acow/cupidfor_joyful_coding_alternative_to_solid_2022/</link>
+      <description><![CDATA[ 由   提交 /u/ForeverAlot   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/184acow/cupidfor_joyful_coding_alternative_to_solid_2022/</guid>
+      <pubDate>Sun, 26 Nov 2023 13:08:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>在混乱中寻找流动</title>
+      <link>https://www.reddit.com/r/programming/comments/1849z83/finding_flow_amid_chaos/</link>
+      <description><![CDATA[ 由   提交/u/氮化硼  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1849z83/finding_flow_amid_chaos/</guid>
+      <pubDate>Sun, 26 Nov 2023 12:47:01 GMT</pubDate>
+    </item>
     <item>
       <title>你能帮我在在线法官上找到这个问题，以便我可以提交吗？一个人和他的骆驼过河。 （这不是著名的骆驼和香蕉问题）</title>
       <link>https://www.reddit.com/r/programming/comments/1849ekm/can_you_help_me_find_this_problem_on_online_judge/</link>
@@ -74,41 +109,6 @@
       <description><![CDATA[ 由   提交 /u/EmmanuelOga   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1846qhr/akrylysovpogreb_embedded_keyvalue_store_for/</guid>
       <pubDate>Sun, 26 Nov 2023 09:05:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个免费的编码面试准备平台，其中包含视频和文本解释，其中包含所有顶级问题列表中的 200 多个问题（Blind 75、Prashad Leetcode Patterns、Neetcode）</title>
-      <link>https://www.reddit.com/r/programming/comments/1846jwm/i_created_a_free_coding_interview_prep_platform/</link>
-      <description><![CDATA[ 由   提交/u/KingOfInterviews  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1846jwm/i_created_a_free_coding_interview_prep_platform/</guid>
-      <pubDate>Sun, 26 Nov 2023 08:51:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人知道如何成为像 Stuff Made Here 的 Shawn 一样的程序员吗？如果您不知道我在说什么，请观看 YouTube 上他的解谜算法视频。视频标题：“世界上最难的拼图 vs 拼图机（全白）”</title>
-      <link>https://www.reddit.com/r/programming/comments/1846h0p/anyone_got_any_idea_how_to_become_a_programmer/</link>
-      <description><![CDATA[ 由   提交/u/Affectionate_Head573  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1846h0p/anyone_got_any_idea_how_to_become_a_programmer/</guid>
-      <pubDate>Sun, 26 Nov 2023 08:45:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>组合相对于继承的逆向观点</title>
-      <link>https://www.reddit.com/r/programming/comments/1843b79/contrarian_view_on_composition_over_inheritance/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1843b79/contrarian_view_on_composition_over_inheritance/</guid>
-      <pubDate>Sun, 26 Nov 2023 05:15:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>揭秘 GameBoy/SM83 的 DAA 指令</title>
-      <link>https://www.reddit.com/r/programming/comments/1843ax1/demystifying_the_gameboysm83s_daa_instruction/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1843ax1/demystifying_the_gameboysm83s_daa_instruction/</guid>
-      <pubDate>Sun, 26 Nov 2023 05:14:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>Postgres：扩展塑造未来 [pdf]</title>
-      <link>https://www.reddit.com/r/programming/comments/1843a0v/postgres_extensions_shape_the_future_pdf/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1843a0v/postgres_extensions_shape_the_future_pdf/</guid>
-      <pubDate>Sun, 26 Nov 2023 05:13:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
