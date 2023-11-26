@@ -4,7 +4,63 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 26 Nov 2023 18:13:42 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Nov 2023 21:11:34 GMT</lastBuildDate>
+    <item>
+      <title>技术文档集成。</title>
+      <link>https://www.reddit.com/r/webdev/comments/184jz7n/tecdoc_integration/</link>
+      <description><![CDATA[大家好！  有人将 shopify 与 TecDoc 集成吗？ shopify 能处理那么多产品吗？  我该怎么做？我需要建立一家汽车配件店。我不确定什么是最好的 cms。  非常感谢。   由   提交 /u/PayStudLoanAndHouse   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/184jz7n/tecdoc_integration/</guid>
+      <pubDate>Sun, 26 Nov 2023 20:29:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻求有关 MV 市场的建议</title>
+      <link>https://www.reddit.com/r/webdev/comments/184jcws/looking_for_advice_on_mv_marketplaces/</link>
+      <description><![CDATA[我想为数字商品创建一个利基多供应商市场。我可以构建这个东西，但我没有时间构建、测试以及与所有 API 进行交互。 许多平台（Etsy、沃尔玛、亚马逊）允许您将所有内容放在一个篮子中，这是这里的一个关键特征。随时随地购买您想要的所有商品，然后将其合并到一个篮子中（如果您愿意的话）。重要的是，卖家将拥有自己的个人资料/店面。即使是主要参与者也并不都具备这一点，或者它是半生不熟的。 一个关键的事情是需要在销售发生后进入代码并修改操作。托管平台对此不起作用 因此，我正在寻找使用 MV 解决方案的人员的建议。您能说出支持此功能的经过实战检验的解决方案吗？ 我对 WordPress 插件持开放态度，尽管我担心可定制性    ;由   提交/u/burner_socks  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/184jcws/looking_for_advice_on_mv_marketplaces/</guid>
+      <pubDate>Sun, 26 Nov 2023 20:03:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何在 iPhone 上自动播放视频？</title>
+      <link>https://www.reddit.com/r/webdev/comments/184j967/how_to_autoplay_video_on_iphone/</link>
+      <description><![CDATA[大家好！如何克服 iPhone 上自动播放视频的问题？我需要在网站加载时播放视频。 Playsinline + 静音 + 自动播放不起作用 video.play 也不起作用   由   提交 /u/Admirable-Shower-887   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/184j967/how_to_autoplay_video_on_iphone/</guid>
+      <pubDate>Sun, 26 Nov 2023 19:59:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Jesse's Ramen：我对我的 3D 互动作品集进行了案例研究</title>
+      <link>https://www.reddit.com/r/webdev/comments/184j5hg/jesses_ramen_i_made_a_case_study_about_my_3d/</link>
+      <description><![CDATA[       由   提交/u/jessezhouu  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/184j5hg/jesses_ramen_i_made_a_case_study_about_my_3d/</guid>
+      <pubDate>Sun, 26 Nov 2023 19:55:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么人们会选择使用一种后端而不是另一种？</title>
+      <link>https://www.reddit.com/r/webdev/comments/184iqdi/why_would_one_choose_to_use_one_backend_over/</link>
+      <description><![CDATA[由于我过去只知道如何使用 JavaScript，所以我专门使用 Node.js 作为应用程序的后端。我最近开始学习 C#，并对 ASP.NET 感到好奇。我的问题是，除了语言差异之外，使用一个后端与另一个后端有什么不同？两个人能做对方做不到的事情吗？扩展这个问题，像 Django 或 PHP 这样的其他后端呢？每种产品是否都有明显的优点和缺点，使它们更适合不同的应用？   由   提交 /u/brancwill   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/184iqdi/why_would_one_choose_to_use_one_backend_over/</guid>
+      <pubDate>Sun, 26 Nov 2023 19:36:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>待办事项清单</title>
+      <link>https://www.reddit.com/r/webdev/comments/184ib06/todo_list/</link>
+      <description><![CDATA[我制作了一个待办事项列表应用程序！超级陈词滥调。 但我需要一个专门用于对任务进行分类+创建重复任务的任务。 我是一个超级ADD，我不想要混乱......它仍然很粗糙边缘，但希望随着时间的推移消除用户界面并使其变得漂亮！ 视频演示：https://imgur.com /a/stcMuFf 链接：https://recurlist.com/   由   提交 /u/Legend-Of-Crybaby   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/184ib06/todo_list/</guid>
+      <pubDate>Sun, 26 Nov 2023 19:18:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>第一次网站评论 - 大学生</title>
+      <link>https://www.reddit.com/r/webdev/comments/184hjsk/first_website_review_college_student/</link>
+      <description><![CDATA[我目前是一名大学生，这是我的第一个网站（Web 开发简介） 如果设计看起来不合适太好了，我随我的想象力去了，但我想知道从长远来看我是否有机会从事网络开发。网站尚未响应移动设备； 8thrichard.github.io/theboamahhotel/ ​   由   提交/u/SubjectBusiness9084  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/184hjsk/first_website_review_college_student/</guid>
+      <pubDate>Sun, 26 Nov 2023 18:44:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>今年公司没有给我涨工资</title>
+      <link>https://www.reddit.com/r/webdev/comments/184gush/the_company_didnt_increase_my_salary_this_year/</link>
+      <description><![CDATA[我在一家公司工作了几年，第一次不给我加薪。 我觉得他们从技术上降低了我的工资，因为比方说，一年前我的工资是最低工资的5倍，但今天只有4倍。现在一切都更贵了，房租、食物等，所以我买不起和我一年前买的一样的东西。 顺便说一句，我的工资不是最高的，我知道和我同样职位的新员工的收入高达我工资的1.5倍。  &gt; 你们在同一家公司几年拿同样的薪水正常吗？   由   提交 /u/Guilty_Luck_9991   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/184gush/the_company_didnt_increase_my_salary_this_year/</guid>
+      <pubDate>Sun, 26 Nov 2023 18:13:47 GMT</pubDate>
+    </item>
     <item>
       <title>付款处理没有每次收费的固定费用？寻找 Patreon 替代品</title>
       <link>https://www.reddit.com/r/webdev/comments/184gu5e/payment_processing_without_a_flat_fee_per_charge/</link>
@@ -46,62 +102,6 @@
       <description><![CDATA[最近开始适应 API 开发，出于兴趣制作了一个 Waifu API。这是托管在免费托管平台上的。  请让我知道情况如何以及我可以做出哪些改进。另外请告诉我是否可以将其包含在我的简历中。  这是演示页面：https://waifu.anmolkys.in/   由   提交 /u/ilovecatspussies   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/184ds4o/made_a_waifu_api_inspired_by_the_other_post/</guid>
       <pubDate>Sun, 26 Nov 2023 15:58:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>产品交付前 1 天解雇我后，客户拒绝支付 6 个月的工作费用</title>
-      <link>https://www.reddit.com/r/webdev/comments/184dpd5/client_refuses_to_pay_for_6_months_of_work_after/</link>
-      <description><![CDATA[嗨， 我不确定这是否是寻求建议的正确位置，但由于这是关于编程工作，我想可能是这样。 故事是这样的：我（全栈开发人员，大部分时间都是独自工作）被雇用来更新我几年前制作的应用程序一个客户。我对此更新的成本估算已得到确认（本身不是手写的，而是通过客户的一位员工的电子邮件签名），并对截止日期进行了粗略的估算。意思是，我有书面形式。 无论如何，在开始进行应用程序更新后，许多不在我最初估计范围内的工作被添加到项目中 - 例如Google Play 的新要求是提供针对 API 级别 31 或更高级别的应用程序更新，其他一些愿意参与该项目的自由开发人员（这使我将完整的代码库从纯 JS 更改为 TS），完全重写了后端（也从 JS 到 TS，以便对新参与的开发者来说更​​具可读性）等。这导致完成这个新版本应用程序时出现显着的延迟（大约 6 个月）。然而，我一遍又一遍地向客户解释，我的一天也只有24小时，我24/7都在工作，以便尽快完成；客户总是确认这是可以的。 所以几个月过去了，实际上在我尝试提供可测试的应用程序更新测试版的前一天，我必须意识到这个客户在没有任何通知的情况下将我从 Apple 和 Google 开发团队中除名。附有一封电子邮件，其中指出客户希望无限期地终止与我的合作，并且认为没有必要为过去几个月所做的工作向我支付一分钱。他们的原因是他们无法使用该产品，这（从我的角度来看）不是我的问题。 我向这个 Reddit 子版块中的其他开发者提出的问题是：在这种情况下我能做什么？我知道延迟交付是（至少部分）我的错，但客户从未说过如果应用程序未在某个日期交付，就将我踢出去，现在只是希望不支付任何费用就离开。&lt; /p&gt; 感谢您的一些建议，祝您有美好的一天。 编辑：我在西班牙生活和工作。   由   提交 /u/skizzoat   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/184dpd5/client_refuses_to_pay_for_6_months_of_work_after/</guid>
-      <pubDate>Sun, 26 Nov 2023 15:55:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>8 年前学习编码，终于推出了自己的应用程序</title>
-      <link>https://www.reddit.com/r/webdev/comments/184da66/learned_to_code_8_years_ago_and_finally_launching/</link>
-      <description><![CDATA[您好，我是一名刚接触此论坛的网络开发人员，如果这篇文章过于“垃圾邮件”，我深表歉意。我开发了一个应用程序，并为它感到非常自豪。它被称为太网络钓鱼。我上周在 Product Hunt 上推出它。  我在 24 岁时自学编码，并担任了 8 年软件工程师，最终辞去了一家大型科技公司的高级工程师职位，创办了自己的应用程序开发公司。  我创建 Too Phishy 是为了提高我检测精心设计的网络钓鱼诈骗的能力。当我的更好判断力不够时，我需要一个简单直观的工具来提供帮助。 我目前正在寻找 Beta 测试人员，因此如果有兴趣获得免费终身订阅，请与我们联系。&lt; /p&gt;   由   提交 /u/lydiastepanek   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/184da66/learned_to_code_8_years_ago_and_finally_launching/</guid>
-      <pubDate>Sun, 26 Nov 2023 15:35:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>我怎样才能学习 CSS？</title>
-      <link>https://www.reddit.com/r/webdev/comments/184d41k/how_can_i_learn_css/</link>
-      <description><![CDATA[我已经编程了大约5年，主要是在node.js环境下。我一直想使用 next.js 为项目创建一个网站。我知道如何使用：  react/next.js（我使用 next.js 创建了一个公共 API） HTML JS /TS figma/photoshop 创建网页设计 部署/托管网站  但我无法理解如何将我的设计转化为现实。我遇到了诸如文本超过一定大小后换行之类的问题。 我该如何学习？   由   提交 /u/superbassboom   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/184d41k/how_can_i_learn_css/</guid>
-      <pubDate>Sun, 26 Nov 2023 15:27:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>在同一浏览器、同一操作系统上呈现不同的字体，但静态站点生成器不同？</title>
-      <link>https://www.reddit.com/r/webdev/comments/184bzxt/different_font_rendering_on_the_same_browser_same/</link>
-      <description><![CDATA[静态站点生成器如何更改字体在浏览器中的呈现方式？ 字体是： Segoe UI 操作系统： Windows 10 SSG 1：Docusaurus   SSG 2：材质 Mkdocs 材质 Mkdocs  放大绘制后，一种字体使用灰度渲染，另一种使用子像素渲染。 SSG 如何进行这样的字体优化？ 复制 如果您有我的操作系统和 Chrome 浏览器，您可以轻松复制它，因为两个 SSG 都使用自己的主题。 &lt;!-- SC_ON - -&gt;  由   提交/u/johny_james   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/184bzxt/different_font_rendering_on_the_same_browser_same/</guid>
-      <pubDate>Sun, 26 Nov 2023 14:34:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>处理 iPhone/Safari 底部栏的最佳方法，以及有关定位的问题？</title>
-      <link>https://www.reddit.com/r/webdev/comments/184bza4/best_way_to_handle_iphonesafari_bottom_bar_and/</link>
-      <description><![CDATA[所以我有一个页脚，位置：固定，底部：0。但是有些iPhone有那个小黑条，所以我真的只需要制作在这些情况下，页面变小或至少将页脚向上移动。恼人的。我看到了一些关于 env(safe-area-inset-bottom) 的内容，但我希望能从有经验的人那里得到意见，看看这是否是最好的解决方案，或者只是更全面地了解考虑 iPhone 的试验。 此外，我有一些按钮在 Android 和桌面上看起来很正常，但由于某种原因，“+”在 iPhone 上并不居中。它只是一个简单的圆圈，其中 + 垂直和水平居中。 相关 css： border: 1pxsolid;边界半径：50%；字体大小：20px；宽度：45 像素；高度：45 像素；显示：柔性；对齐项目：居中；调整内容：居中；  想知道 Safari 导致不合作的原因是什么？如果重要的话，该按钮位于另一个 Flex div 中。 ​ 最后，我们 Android 用户是否可以使用一些工具来在 Safari 模拟中测试我们的布局？使用 iPhone 的 Chrome 开发工具不会出现这些问题，这是有道理的，因为我猜它没有使用 Safari。 谢谢！  &amp;# 32；由   提交 /u/werdnaegni   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/184bza4/best_way_to_handle_iphonesafari_bottom_bar_and/</guid>
-      <pubDate>Sun, 26 Nov 2023 14:33:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何将域名从 Hostinger 转移到 GitHub Pages？</title>
-      <link>https://www.reddit.com/r/webdev/comments/184bmn3/how_do_i_transfer_a_domain_name_from_hostinger_to/</link>
-      <description><![CDATA[有人可以帮助我吗，我尝试了几个小时，但不起作用。 我有在以下位置购买的域名Hostinger 和我想在 GitHub Pages 中使用此名称。 ​ Hostinger 上有以下域选项：  更改名称服务器 管理 DNS 记录，使用选项“类型/名称/指向/TTL”  ​ 使用 Github：&lt; /p&gt; 有一个选项，可以输入我的自定义域。 ​ 我不知道这是如何工作的或我应该做什么。有人知道我应该在哪里输入哪些数据吗？ 这将是一个很大的帮助，因为我在这个主题上坐了几个小时。  &amp; #32；由   提交 /u/Redditisannoying22   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/184bmn3/how_do_i_transfer_a_domain_name_from_hostinger_to/</guid>
-      <pubDate>Sun, 26 Nov 2023 14:15:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>后端如何处理和管理来自前端的请求（投递之类的）？</title>
-      <link>https://www.reddit.com/r/webdev/comments/184ae93/how_to_handle_and_manage_requests_delivery_like/</link>
-      <description><![CDATA[如果这对大多数人来说似乎是显而易见的，我很抱歉，但对我来说并非如此，我已经搜索过，但似乎找不到任何东西这澄清了我的疑虑。如果我没有使用正确的术语，我也很抱歉，我不是专家，但我正在努力学习。我想制作一个像 uber eats 这样的网站，但复杂程度要低得多。我希望用户能够下订单送货并支付送货费用。我所说的请求是指如果用户正在下订单，订单会去哪里？我如何向负责处理该订单的人员提供反馈？我知道后台是存在的，但到目前为止，我看到的都是CMS后台，只有内容管理。这似乎是从后端到前端的交互——完全是单方面的。但我需要双边互动。我想知道如何在后端显示来自前端的输入，以及如何从后端响应它并将其显示在前端。 哦，提前感谢您，如果您愿意的话请花点时间阅读本文！   由   提交 /u/colgatestars   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/184ae93/how_to_handle_and_manage_requests_delivery_like/</guid>
-      <pubDate>Sun, 26 Nov 2023 13:10:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>后端如何处理和管理来自前端的请求（投递之类的）？</title>
-      <link>https://www.reddit.com/r/webdev/comments/184acs3/how_to_handle_and_manage_requests_delivery_like/</link>
-      <description><![CDATA[如果这对大多数人来说似乎是显而易见的，我很抱歉，但对我来说并非如此，我已经搜索过，但似乎找不到任何东西这澄清了我的疑虑。如果我没有使用正确的术语，我也很抱歉，我不是专家，但我正在努力学习。我想制作一个像 uber eats 这样的网站，但复杂程度要低得多。我希望用户能够下订单送货并支付送货费用。 （顺便说一句，我正在使用 React js）通过请求，我的意思是如果用户正在下订单，订单会去哪里？我如何向负责处理该订单的人员提供反馈？我知道后台是存在的，但到目前为止，我看到的都是CMS后台，只有内容管理。这似乎是从后端到前端的交互——完全是单方面的。但我需要双边互动。我想知道如何在后端显示来自前端的输入以及如何从后端响应它并在前端显示它。  &amp; #32；由   提交 /u/colgatestars   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/184acs3/how_to_handle_and_manage_requests_delivery_like/</guid>
-      <pubDate>Sun, 26 Nov 2023 13:08:25 GMT</pubDate>
     </item>
     <item>
       <title>什么时候使用图像，什么时候使用背景图像？</title>

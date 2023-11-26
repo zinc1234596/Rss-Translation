@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Sun, 26 Nov 2023 18:07:28 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Nov 2023 21:11:08 GMT</lastBuildDate>
     <item>
-      <title>跳线VPN</title>
-      <link>https://t.me/hn_summary/60827</link>
-      <description><![CDATA[Wireskip VPN
-Wireskip VPN 是一款多功能工具，允许用户轻松更改其虚拟位置并通过不同国家/地区传输互联网流量。通过使用简单的命令，用户可以切换他们的 IP 地址，看起来就像是从荷兰、瑞士或德国等不同国家/地区进行浏览一样。 VPN 还允许用户通过隧道传输其系统上的所有 TCP/UDP 流量或指定要通过隧道传输的特定流量。此外，用户可以通过任意程序建立网络连接隧道，并定义适合其需求的电路。 Wireskip VPN 为互联网隐私和安全提供了灵活且可定制的解决方案。]]></description>
-      <guid>https://t.me/hn_summary/60827</guid>
-      <pubDate>Sun, 26 Nov 2023 18:07:28 GMT</pubDate>
+      <title>[媒体]最新的超级食品——微型蔬菜有什么大惊小怪的？</title>
+      <link>https://t.me/hn_summary/60851</link>
+      <description><![CDATA[最新的超级食品 - 微型蔬菜有什么大惊小怪的？ 
+微型蔬菜是可食用蔬菜、香草、谷物和草类的较年轻且较小的版本，因其富含营养成分和浓郁的风味而受到珍视。它们越来越受欢迎，既成为超级食品餐厅的趋势，又成为在家种植的爱好。微型蔬菜比完全成熟的同类营养更丰富，含有 4-6 倍的维生素、矿物质和其他有助于保持健康的化合物。它们还具有潜在的抗病能力，研究表明它们有望预防肥胖、心血管疾病、缺铁、癌症和糖尿病。虽然微型蔬菜可以在商店购买，但在家种植是一种更经济的选择，可以确保新鲜度并避免使用杀虫剂。]]></description>
+      <guid>https://t.me/hn_summary/60851</guid>
+      <pubDate>Sun, 26 Nov 2023 21:11:08 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Darling：在 Linux 上运行 macOS 软件</title>
-      <link>https://t.me/hn_summary/60826</link>
-      <description><![CDATA[亲爱的：在 Linux 上运行 macOS 软件
-Darling 是一个翻译层，允许用户在 Linux 上运行 macOS 软件。它快速、免费、兼容，提供完整的达尔文环境。 Darling 的目标是将 macOS 应用程序集成到 Linux 桌面体验中，使它们的外观和行为类似于本机 Linux 应用程序。它类似于允许在 Linux 上运行 Windows 软件的 Wine，以及对 Android 应用程序执行相同操作的 Anbox。 Darling 对运行简单的图形应用程序具有实验性支持，并且不违反 Apple 的 EULA。 Darling 这个名字是“Darwin”和“Linux”的组合，该项目很大程度上基于苹果发布的原始 Darwin 源代码。未来计划支持 iOS 应用程序。欢迎贡献，无需具备 macOS 或 iOS 开发经验。]]></description>
-      <guid>https://t.me/hn_summary/60826</guid>
-      <pubDate>Sun, 26 Nov 2023 18:00:19 GMT</pubDate>
+      <title>哲学家科幻小说推荐大清单</title>
+      <link>https://t.me/hn_summary/60850</link>
+      <description><![CDATA[哲学家科幻小说推荐大清单
+该网络内容是专业哲学家推荐的科幻小说和推理小说的列表。该列表按作者和导演/节目组织，并包括每件推荐作品的简短描述。最受推荐的作家包括乌苏拉·K·勒古恩 (Ursula K. Le Guin)、特德·姜 (Ted Jiang) 和菲利普·K·迪克 (Philip K. Dick)，最受推荐的导演/节目包括《星际迷航：下一代》和克里斯托弗·诺兰的电影。该内容还感谢提供建议的贡献者。 （根据故事文本的 6% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/60850</guid>
+      <pubDate>Sun, 26 Nov 2023 21:09:00 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Show HN：ThemeNix：一致地主题化您的 NixOS 配置</title>
-      <link>https://t.me/hn_summary/60825</link>
-      <description><![CDATA[显示 HN：ThemeNix：一致地主题化您的 NixOS 配置 
-ThemeNix 是一个允许用户一致地主题化其 NixOS 配置的项目。它提供了一系列可以轻松应用于 NixOS 配置的主题。用户可以选择主题并使用 base16 属性自定义颜色。该项目还包括用于生成具有所选配色方案的模板的模板。 ThemeNix 的一个独特功能是它提供特殊的颜色属性，例如 with0x 和 withHashtag，允许用户为每种颜色添加选定值的前缀。此外，为了方便起见，该项目还提供了 base16 颜色名称的别名。 （根据故事文本的 71% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/60825</guid>
-      <pubDate>Sun, 26 Nov 2023 17:53:09 GMT</pubDate>
+      <title>了解深度学习</title>
+      <link>https://t.me/hn_summary/60849</link>
+      <description><![CDATA[了解深度学习
+网站 udlbook.github.io 为两位讲师提供资源和学生更好地理解深度学习。教师可以通过麻省理工学院出版社获取答题册并索取西蒙·J·D·普林斯 (Simon J.D. Prince) 所著的《理解深度学习》一书的考试版或案头版。该网站还提供 PDF、SVG 和 Powerpoint 格式的图表，以及如何编辑它们的说明。学生可以找到 PDF 格式的选定问题的答案，并访问 Python 笔记本进行实际应用。该书由麻省理工学院出版社出版，可供引用。]]></description>
+      <guid>https://t.me/hn_summary/60849</guid>
+      <pubDate>Sun, 26 Nov 2023 20:58:50 GMT</pubDate>
     </item>
     <item>
-      <title>由于预算耗尽，Manyland 将不幸关闭</title>
-      <link>https://t.me/hn_summary/60824</link>
-      <description><![CDATA[由于预算耗尽，Manyland 将不幸关闭
-Manyland 是一个开放的宇宙，用户可以在其中进行创作和互动，但不幸的是，由于预算限制，它即将关闭。确切的关闭日期尚未确定，但可能是在一月份。该网站将在一个博物馆网站上工作，展示 Manyland 世界的快照。还计划举办“最后的许多圣诞节”派对。内容还包括多年来添加到 Manyland 的各种功能和命令的更新。作者强调了尊重和礼节在 Manyland 的重要性，并概述了违反条款和礼节的行为。 （根据 43% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/60824</guid>
-      <pubDate>Sun, 26 Nov 2023 17:48:03 GMT</pubDate>
+      <title>[媒体] OpenWrt：智能手机 USB 网络共享</title>
+      <link>https://t.me/hn_summary/60848</link>
+      <description><![CDATA[OpenWrt：智能手机 USB 网络共享
+本文提供有关如何使用 USB 网络共享通过智能手机将 OpenWrt 路由器连接到互联网的说明。与使用智能手机作为接入点相比，USB 网络共享可提供更好的性能和更低的延迟。它还可以减少手机上的 CPU 负载、为手机充电，并允许更灵活地将多个设备连接到路由器。本文提供了安装和配置的分步说明，包括针对不同类型智能手机的具体说明。还提供了故障排除提示和其他功能，例如自动看门狗脚本。 （根据故事文本的 73% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/60848</guid>
+      <pubDate>Sun, 26 Nov 2023 20:55:44 GMT</pubDate>
     </item>
     <item>
-      <title>合理的 GPU</title>
-      <link>https://t.me/hn_summary/60823</link>
-      <description><![CDATA[合理的 GPU
-该网络内容的作者讨论了用于通用计算的 GPU 的当前状态。他们提到 NVidia GPU 运行良好，而 AMD GPU 则被认为很糟糕。 GPU 的主要限制因素是 RAM 量，好的型号需要 10GB 以上，有些型号需要高达 350GB。作者提供了不同可用 GPU 的信息，例如 16GB 的 Intel Arc A770（售价不到 300 美元）和 16GB 的 NVidia 4060（售价不到 500 美元）。他们还提到，Pascal 时代的较旧 NVidia GPU 具有 24GB 内存，价格不到 300 美元，但尚不清楚它们与现代工具的配合效果如何。作者表示需要一个指南来解释 CUDA 计算级别、供应商兼容性、多卡兼容性和其他因素，以便专业人士和业余爱好者更容易理解和使用 GPU 进行通用计算。他们还强调了经济实惠的 GPU 对于孩子们学习 AI 和 Blender 渲染等任务的潜在好处。总体而言，作者承认用于通用计算的 GPU 领域对于更广泛的受众来说变得越来越有用，但也可能令人困惑。]]></description>
-      <guid>https://t.me/hn_summary/60823</guid>
-      <pubDate>Sun, 26 Nov 2023 17:39:24 GMT</pubDate>
+      <title>制作字体</title>
+      <link>https://t.me/hn_summary/60847</link>
+      <description><![CDATA[制作字体
+该网页内容的作者分享了他们为漫画制作字体的经验。他们解释说，他们想根据自己的笔迹创建一种字体，以确保整个漫画的易读性和一致性。作者提供免责声明，他们不是设计师，这是他们第一次制作字体。他们描述了他们的过程，包括对字体进行两次迭代以及了解字体的结构。他们还解释了如何使用 Gimp 和 FontForge 等软件来创建和编辑字体。作者最后讨论了字距调整和导出字体的过程。]]></description>
+      <guid>https://t.me/hn_summary/60847</guid>
+      <pubDate>Sun, 26 Nov 2023 20:50:33 GMT</pubDate>
     </item>
     <item>
-      <title>问 HN：Reddit 停电的结果是什么？</title>
-      <link>https://t.me/hn_summary/60822</link>
-      <description><![CDATA[询问 HN：Reddit 停电的结果是什么？
-作者正在寻找有关 Reddit 停电结果的信息，以及 Reddit 是否同意或妥协该运动，或者是否失去了动力。作者很想知道是否有人有这方面的信息。]]></description>
-      <guid>https://t.me/hn_summary/60822</guid>
-      <pubDate>Sun, 26 Nov 2023 17:38:16 GMT</pubDate>
+      <title>[媒体] Bjarne Stroustrup 语录</title>
+      <link>https://t.me/hn_summary/60846</link>
+      <description><![CDATA[Bjarne Stroustrup 报价
+该网站 www.stroustrup.com 包含一系列引言摘自 Bjarne Stroustrup 的著作、演讲和采访。 Stroustrup 分享这些引言是为了确认其真实性并为其提供背景。一些值得注意的引言包括“C 很容易搬起石头砸自己的脚；C++ 则更难，但当你这样做时，它会炸掉你的整条腿”，强调了强大语言的潜在危险，以及“唯一比它增长得更快的东西”。计算机性能是人类的期望”，强调了高效软件开发的必要性。 Stroustrup 还讨论了理解设计和编程技术对于有效使用 C++ 的重要性。 （根据故事文本的 55% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/60846</guid>
+      <pubDate>Sun, 26 Nov 2023 20:50:25 GMT</pubDate>
     </item>
     <item>
-      <title>Show HN：FlashLite – 基于 Ruffle 的 Android Flash 模拟器</title>
-      <link>https://t.me/hn_summary/60821</link>
-      <description><![CDATA[展示 HN：FlashLite – 基于 Ruffle 的 Android Flash 模拟器
-flashlite.games 网站介绍了 FlashLite，这是一款适用于 Android 设备的 Flash 模拟器这是基于荷叶边的。不幸的是，该网站的前端需要 JavaScript 才能正常运行。]]></description>
-      <guid>https://t.me/hn_summary/60821</guid>
-      <pubDate>Sun, 26 Nov 2023 17:35:12 GMT</pubDate>
+      <title>[媒体]阴谋论者指控22岁犹太男子。</title>
+      <link>https://t.me/hn_summary/60845</link>
+      <description><![CDATA[阴谋论者指控 22 岁犹太男子。然后埃隆·马斯克参与其中
+CNN 的这篇文章详细介绍了 22 岁犹太男子本·布罗迪 (Ben Brody) 的故事，他被错误指控为新纳粹组织的卧底特工。对布罗迪的指控始于网上阴谋论者发现他的一张照片，并错误地认为他类似于参与同性恋骄傲活动中极右团体之间冲突的个人之一。埃隆·马斯克利用他的社交媒体平台放大了这些虚假说法，导致布罗迪及其家人受到骚扰和威胁。布罗迪对马斯克提起诽谤诉讼，要求赔偿和道歉。该诉讼旨在解决像马斯克这样有影响力的个人的有害在线行为。]]></description>
+      <guid>https://t.me/hn_summary/60845</guid>
+      <pubDate>Sun, 26 Nov 2023 20:39:15 GMT</pubDate>
     </item>
     <item>
-      <title>Show HN：连接到 ChatGPT 的开源 Spotlight 工具</title>
-      <link>https://t.me/hn_summary/60820</link>
-      <description><![CDATA[显示 HN：连接到 ChatGPT 的开源 Spotlight 工具
-ChatSpot 是一款开源 Spotlight 工具，可连接到人工智能助手 ChatGPT。其目的是帮助用户快速高效地完成任务。通过使用全局快捷方式，用户可以切换 ChatSpot 并提出问题，并自动复制回复。然后焦点可以返回到之前的工作位置以粘贴来自 ChatGPT 的响应。 ChatSpot 还支持自定义提示。该项目要求用户拥有自己的 OpenAI 密钥才能连接到 ChatGPT。目前它已经在 MacOS 上进行了测试和支持，对 Windows 和 Linux 的支持还有待测试。该项目认为 Electron React Boilerplate 在初始设置过程中节省了时间。]]></description>
-      <guid>https://t.me/hn_summary/60820</guid>
-      <pubDate>Sun, 26 Nov 2023 17:35:06 GMT</pubDate>
+      <title>[媒体]印度计划将地下煤炭开采量增加两倍以满足能源需求</title>
+      <link>https://t.me/hn_summary/60844</link>
+      <description><![CDATA[印度计划将地下煤炭开采量增加三倍以满足能源需求
+印度正计划将地下煤炭开采量增加两倍，以满足日益增长的能源需求。目前，该国的能源需求严重依赖煤炭，此举被视为确保未来煤炭稳定供应的一种方式。然而，由于煤炭开采对环境的影响，这一决定引发了争议。批评者认为，增加煤炭开采将导致空气和水污染以及温室气体排放。尽管存在争议，印度决心优先考虑其能源需求，并正在投资技术以使地下采矿更加高效和环保。]]></description>
+      <guid>https://t.me/hn_summary/60844</guid>
+      <pubDate>Sun, 26 Nov 2023 20:34:07 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Show HN：我们制作了一个数据工具，可以将所有列/行转变成本地图表</title>
-      <link>https://t.me/hn_summary/60819</link>
-      <description><![CDATA[Show HN：我们制作了一个可旋转所有列/行的数据工具本地图表
-AddMaple 是一个在线数据透视表工具，可帮助用户处理和分析大型且复杂的数据集。该工具会自动计算并汇总数据中的每一列，并在几秒钟内将它们转变为数据透视表。用户可以进一步细分并向图表应用额外的数据透视列、共享交互式数据透视图并嵌入它们。该工具还提供交互式报告功能，用户可以发布他们的见解和图表，让读者自己探索数据。 AddMaple 支持各种文件类型，包括 CSV 文件导出，并且正在不断添加对其他文件类型的支持。该工具还提供其他功能，例如过滤、交换数据透视列和交叉制表数据。]]></description>
-      <guid>https://t.me/hn_summary/60819</guid>
-      <pubDate>Sun, 26 Nov 2023 17:34:58 GMT</pubDate>
+      <title>[媒体]为美国每个孩子创建股票市场投资组合的新计划</title>
+      <link>https://t.me/hn_summary/60843</link>
+      <description><![CDATA[为美国每个孩子创建股票市场投资组合的新计划
+科技投资者布拉德·格斯特纳 (Brad Gerstner) 正在与立法者合作推动一项名为“投资美国” (Invest America) 的立法计划，该计划旨在为在美国出生的每个孩子创建一个政府资助的投资账户，并为每个孩子注入 1,000 美元。格斯特纳还鼓励美国企业提供配套资金来帮助员工进一步节省开支。参与该计划的公司可以受益于税收优惠和潜在的品牌提升。然而，批评者认为，父母已经有一些方法可以代表孩子进行投资，而且并非所有员工都能利用该计划。郭士纳计划的实施可能需要数年时间。]]></description>
+      <guid>https://t.me/hn_summary/60843</guid>
+      <pubDate>Sun, 26 Nov 2023 20:34:01 GMT</pubDate>
     </item>
     <item>
-      <title>显示 HN：火在正轨：您的财务独立之路</title>
-      <link>https://t.me/hn_summary/60818</link>
-      <description><![CDATA[展示 HN：火在正轨：您的财务独立之路
-作者介绍了Fire on Track，这是一个旨在帮助用户实现财务独立的新平台。该平台的创建是出于作者个人对更加用户友好的工具的需求，因为他们厌倦了使用电子表格。作者邀请用户试用该平台并提供反馈，强调用户的见解和想法将塑造该平台的未来。]]></description>
-      <guid>https://t.me/hn_summary/60818</guid>
-      <pubDate>Sun, 26 Nov 2023 17:34:53 GMT</pubDate>
+      <title>[媒体]树木年轮表明干旱鼓励阿提拉的匈奴人进攻罗马帝国</title>
+      <link>https://t.me/hn_summary/60842</link>
+      <description><![CDATA[树木年轮表明，干旱鼓励阿提拉的匈奴人攻击罗马帝国&lt; /a&gt;
+最近的一项研究表明，5 世纪的极端干旱可能在匈奴人对罗马帝国的攻击中发挥了作用。这项研究由剑桥大学的考古学家进行，利用基于树木年轮的水文气候重建以及考古和历史证据来支持他们的发现。研究人员发现，匈牙利在此期间经历了异常干燥的夏季，这将导致农作物产量和动物牧场减少。资源的稀缺可能迫使匈奴人采取新的策略，包括劫掠，以求生存。该研究还挑战了匈奴人作为暴力野蛮人的传统观点，表明他们的行为是由复杂的政治和经济因素驱动的。]]></description>
+      <guid>https://t.me/hn_summary/60842</guid>
+      <pubDate>Sun, 26 Nov 2023 20:31:53 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 26 Nov 2023 18:13:48 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Nov 2023 21:11:38 GMT</lastBuildDate>
+    <item>
+      <title>最近将我的项目更新为新版本，这就是我收到的电子邮件</title>
+      <link>https://www.reddit.com/r/opensource/comments/184juom/updated_my_project_to_a_new_version_recently_and/</link>
+      <description><![CDATA[我花了一个多月的不眠之夜来构建新版本，希望能帮助更多的人，而当有些人居然好意思发这样的消息时...  特别是对于一个他们不需要支付一毛钱的应用程序，我无法想象如果他们真的支付了某些东西，他们会说什么。    由   提交 /u/AmruthPillai   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/184juom/updated_my_project_to_a_new_version_recently_and/</guid>
+      <pubDate>Sun, 26 Nov 2023 20:24:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>围绕express和openapi的Opesource包装器正在寻找贡献者</title>
+      <link>https://www.reddit.com/r/opensource/comments/184h5az/opesource_wrapper_around_express_and_openapi/</link>
+      <description><![CDATA[      嘿， 我正在开始一个新的该项目旨在扩展express.js以使用直接在路由器中定义的openapi规范来定义处理程序和类型化请求。 好处是： - 基于openapi规范定义路由 - dto和openapi模式具有强大的功能zod - 从架构中推断出的表达请求和响应实例类型 - openapi 规范、zod 和代码之间的单一事实来源 - 来自代码的自动 openapi 规范（反之亦然） 该项目非常简单而且它还处于非常早期的阶段，所以我正在寻找对该项目感兴趣的想法和程序员。 非常欢迎负面反馈 干杯！ &lt; /div&gt;  由   提交/u/Ok_Entrepreneur8980   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/184h5az/opesource_wrapper_around_express_and_openapi/</guid>
+      <pubDate>Sun, 26 Nov 2023 18:26:44 GMT</pubDate>
+    </item>
     <item>
       <title>开源笔记应用程序有哪些选项？</title>
       <link>https://www.reddit.com/r/opensource/comments/184eusc/what_options_for_open_source_note_taking_apps/</link>
@@ -71,7 +85,7 @@
     <item>
       <title>客户端-服务器剪贴板同步应用程序的建议</title>
       <link>https://www.reddit.com/r/opensource/comments/183yc9w/recommendations_for_a_clientserver_clipboard/</link>
-      <description><![CDATA[大家好。 我使用 Android 手机、Mac Book、Windows 桌面和 Linux 服务器。我想在台式机、笔记本电脑和手机之间持续同步剪贴板。 理论上，KDE 连接应该可以工作，但事实并非如此。即使我使用家庭 WiFi，该应用程序也经常无法发现其他配对设备并与其同步。我已为所有设备分配了静态 IP，但这似乎没有帮助。 如果我在工作时使用公司 WiFi，KDE Con​​nect 当然不起作用。 我正在寻找一个应用程序，该应用程序可以在复制文本或图像后立即加密剪贴板数据并将其发送到我的服务器，并将其转发到所有其他在线/配对设备。我更希望 Android 应用程序使用 GCM 或 ntfy 等电池友好型设备来接收传入的剪贴板数据。 是否存在这样的东西？ 提前致谢！   由   提交/u/bigCanadianMooseHunt  [链接] [评论]]]></description>
+      <description><![CDATA[大家好。 我使用 Android 手机、Mac Book、Windows 桌面和 Linux 服务器。我想在台式机、笔记本电脑和手机之间持续同步剪贴板。 理论上，KDE 连接应该可以工作，但事实并非如此。即使我使用家庭 WiFi，该应用程序也经常无法发现其他配对设备并与其同步。我已为所有设备分配了静态 IP，但这似乎没有帮助。 如果我在工作时使用公司 WiFi，KDE Con​​nect 当然不起作用。 我正在寻找一个应用程序，该应用程序可以在复制文本或图像后立即加密剪贴板数据并将其发送到我的服务器，并将其转发到所有其他在线/配对设备。我希望 Android 应用程序使用 GCM 或 ntfy 之类的电池友好型设备来接收传入的剪贴板数据。 是否存在这样的东西？ 提前致谢！   由   提交/u/bigCanadianMooseHunt  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/183yc9w/recommendations_for_a_clientserver_clipboard/</guid>
       <pubDate>Sun, 26 Nov 2023 00:49:40 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[对于我主要从事商业电力工作的小型电力公司来说，什么是最好的电力投标管理软件。 我的公司主要从事商业电力工作电气工作，我对帮助我对大型工作进行投标或估算的软件感兴趣。寻求最优惠的价格、易于使用、快速（无需花费数小时来完成出价/估算）并且需要准确。    ;由   提交/u/Netman1958  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/183ocqn/what_is_best_software_for_electrical_bid/</guid>
       <pubDate>Sat, 25 Nov 2023 17:09:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>自动化渗透测试项目</title>
-      <link>https://www.reddit.com/r/opensource/comments/183nx08/automatized_penetration_test_project/</link>
-      <description><![CDATA[大家好！我刚刚完成了我的项目的基础实现，正如描述所示： 托管使用 Node.js 和 TypeScript 与 Express 开发的自动渗透测试套件的存储库。该套件旨在自动执行各种渗透测试任务，从而更轻松地评估系统和应用程序的安全性。” 我目前支持 NMAP 进行扫描，并支持 METASPLOIT 进行漏洞利用部分，但我希望希望添加更多内容。 请随意贡献或向我索取信息！ 我刚刚开始，所以我还有很多工作要做！ :) https://github.com/Simo56/APT-TS   由   提交 /u/Typical-Doughnut7467    reddit.com/r/opensource/comments/183nx08/automatized_penetration_test_project/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/183nx08/automatized_penetration_test_project/</guid>
-      <pubDate>Sat, 25 Nov 2023 16:51:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Golang] 发现 FuncFrog 的强大功能：简化函数式编程。 Go 中具有错误处理功能的并行惰性 Map、Filter 和 Reduce 库。</title>
-      <link>https://www.reddit.com/r/opensource/comments/183msuw/golang_discover_the_power_of_funcfrog_simplifying/</link>
-      <description><![CDATA[ 由   提交/u/Fast_Ad_8502   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/183msuw/golang_discover_the_power_of_funcfrog_simplifying/</guid>
-      <pubDate>Sat, 25 Nov 2023 15:59:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
