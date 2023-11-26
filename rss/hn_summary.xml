@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Sun, 26 Nov 2023 15:07:13 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Nov 2023 18:07:28 GMT</lastBuildDate>
     <item>
-      <title>[媒体] HTML 呼吸记录仪 (2021)</title>
-      <link>https://t.me/hn_summary/60794</link>
-      <description><![CDATA[HTML 螺旋图 (2021)
-HTML Spirograph 是作者创建的一个工具，作为乐高 Spirograph 的替代品。它是使用 HTML 和 JavaScript 以及用于绘图的 Canvas 元素构建的。该工具允许用户通过调整各种参数（例如开始/停止、重画、减速/加速、放大/缩小、画笔样式、亮度等）来生成漂亮的图画。用户还可以通过添加书签或复制反映当前参数集的 URL 来保存和共享其绘图。作者指出，该工具兼容不同的浏览器，其中 Safari 提供了最佳的画布渲染质量。作者对 Pageflip-books.com 的帮助表示感谢协助并欢迎反馈。]]></description>
-      <guid>https://t.me/hn_summary/60794</guid>
-      <pubDate>Sun, 26 Nov 2023 15:07:13 GMT</pubDate>
+      <title>跳线VPN</title>
+      <link>https://t.me/hn_summary/60827</link>
+      <description><![CDATA[Wireskip VPN
+Wireskip VPN 是一款多功能工具，允许用户轻松更改其虚拟位置并通过不同国家/地区传输互联网流量。通过使用简单的命令，用户可以切换他们的 IP 地址，看起来就像是从荷兰、瑞士或德国等不同国家/地区进行浏览一样。 VPN 还允许用户通过隧道传输其系统上的所有 TCP/UDP 流量或指定要通过隧道传输的特定流量。此外，用户可以通过任意程序建立网络连接隧道，并定义适合其需求的电路。 Wireskip VPN 为互联网隐私和安全提供了灵活且可定制的解决方案。]]></description>
+      <guid>https://t.me/hn_summary/60827</guid>
+      <pubDate>Sun, 26 Nov 2023 18:07:28 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]现在永远不是买房的好时机</title>
-      <link>https://t.me/hn_summary/60793</link>
-      <description><![CDATA[现在永远不是买房的好时机
-作者讨论了美国尤其是纽约房地产市场的现状，并认为现在是买房的糟糕时机。他们强调住房极度短缺和抵押贷款成本高昂，导致全国中产阶级家庭无力承担住房费用。作者还提到了COVID-19大流行和美联储对利率行动的影响，这进一步加剧了房地产市场的问题。他们的结论是，住房短缺将持续很长一段时间，市场需要数年时间才能趋于平衡和缓解。作者建议潜在买家在可预见的未来应考虑现金购买、再融资或租赁。]]></description>
-      <guid>https://t.me/hn_summary/60793</guid>
-      <pubDate>Sun, 26 Nov 2023 15:00:03 GMT</pubDate>
+      <title>[媒体] Darling：在 Linux 上运行 macOS 软件</title>
+      <link>https://t.me/hn_summary/60826</link>
+      <description><![CDATA[亲爱的：在 Linux 上运行 macOS 软件
+Darling 是一个翻译层，允许用户在 Linux 上运行 macOS 软件。它快速、免费、兼容，提供完整的达尔文环境。 Darling 的目标是将 macOS 应用程序集成到 Linux 桌面体验中，使它们的外观和行为类似于本机 Linux 应用程序。它类似于允许在 Linux 上运行 Windows 软件的 Wine，以及对 Android 应用程序执行相同操作的 Anbox。 Darling 对运行简单的图形应用程序具有实验性支持，并且不违反 Apple 的 EULA。 Darling 这个名字是“Darwin”和“Linux”的组合，该项目很大程度上基于苹果发布的原始 Darwin 源代码。未来计划支持 iOS 应用程序。欢迎贡献，无需具备 macOS 或 iOS 开发经验。]]></description>
+      <guid>https://t.me/hn_summary/60826</guid>
+      <pubDate>Sun, 26 Nov 2023 18:00:19 GMT</pubDate>
     </item>
     <item>
-      <title>苹果小工具如何帮助毒贩</title>
-      <link>https://t.me/hn_summary/60792</link>
-      <description><![CDATA[Apple 小工具如何帮助毒贩
-苹果公司的 AirTag 是一种消费者追踪设备，被毒贩用来逃避澳大利亚海关和警方的行动。该设备原本旨在帮助消费者追踪个人物品，但犯罪集团已将其重新利用，以监控违禁品运输。 AirTag 使用蓝牙信号来跟踪其位置，可以通过“查找我的”应用程序访问该位置。 AirTags 的成本低且易于设置，使其在毒品走私网络中很受欢迎。澳大利亚边境部队承认这个问题，并表示这个问题正变得越来越普遍。]]></description>
-      <guid>https://t.me/hn_summary/60792</guid>
-      <pubDate>Sun, 26 Nov 2023 14:50:51 GMT</pubDate>
+      <title>[媒体] Show HN：ThemeNix：一致地主题化您的 NixOS 配置</title>
+      <link>https://t.me/hn_summary/60825</link>
+      <description><![CDATA[显示 HN：ThemeNix：一致地主题化您的 NixOS 配置 
+ThemeNix 是一个允许用户一致地主题化其 NixOS 配置的项目。它提供了一系列可以轻松应用于 NixOS 配置的主题。用户可以选择主题并使用 base16 属性自定义颜色。该项目还包括用于生成具有所选配色方案的模板的模板。 ThemeNix 的一个独特功能是它提供特殊的颜色属性，例如 with0x 和 withHashtag，允许用户为每种颜色添加选定值的前缀。此外，为了方便起见，该项目还提供了 base16 颜色名称的别名。 （根据故事文本的 71% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/60825</guid>
+      <pubDate>Sun, 26 Nov 2023 17:53:09 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 威士忌：借助苹果游戏移植工具包的力量，葡萄酒变得更加强大</title>
-      <link>https://t.me/hn_summary/60791</link>
-      <description><![CDATA[威士忌：借助 Apple 游戏移植工具包的力量为葡萄酒注入动力
-此网页内容正在宣传一款名为“Whisky”的威士忌应用程序，该应用程序专为 macOS 设计。该应用程序拥有专为 macOS 构建的本机用户界面，为用户提供熟悉且无缝的体验。它强调应用程序的速度和效率，强调它不是使用 Electron 构建的，这有时会导致速度变慢。该应用程序还提供 17 种不同语言版本，可供广大用户使用。总体而言，内容侧重于应用程序与 macOS 的兼容性及其用户友好的功能。]]></description>
-      <guid>https://t.me/hn_summary/60791</guid>
-      <pubDate>Sun, 26 Nov 2023 14:45:43 GMT</pubDate>
+      <title>由于预算耗尽，Manyland 将不幸关闭</title>
+      <link>https://t.me/hn_summary/60824</link>
+      <description><![CDATA[由于预算耗尽，Manyland 将不幸关闭
+Manyland 是一个开放的宇宙，用户可以在其中进行创作和互动，但不幸的是，由于预算限制，它即将关闭。确切的关闭日期尚未确定，但可能是在一月份。该网站将在一个博物馆网站上工作，展示 Manyland 世界的快照。还计划举办“最后的许多圣诞节”派对。内容还包括多年来添加到 Manyland 的各种功能和命令的更新。作者强调了尊重和礼节在 Manyland 的重要性，并概述了违反条款和礼节的行为。 （根据 43% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/60824</guid>
+      <pubDate>Sun, 26 Nov 2023 17:48:03 GMT</pubDate>
     </item>
     <item>
-      <title>适用于所有监控工具的单一警报 API</title>
-      <link>https://t.me/hn_summary/60790</link>
-      <description><![CDATA[适用于所有监控工具的单一警报 API
-这篇博文讨论了使用统一 API 来整合和管理来自各种监控工具的警报的好处。它演示了如何创建一个工作流程来生成 ServiceNow 票证、使用生产数据库中的数据丰富它，并在触发警报时通知利益相关者。这篇文章还介绍了 Keep，一个与监控工具集成的开源警报管理和自动化平台。它解决了组织使用多种工具生成警报的问题，并为提供者、警报和工作流程提供了术语定义。然后，这篇文章提供了有关如何安装和配置 Keep 的 CLI，以及如何连接各种提供商（例如 Datadog、ServiceNow、MySQL 和 Slack）的分步说明。最后，它展示了如何查看警报并展示了 Keep 的丰富和过滤功能。 （根据 33% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/60790</guid>
-      <pubDate>Sun, 26 Nov 2023 14:34:34 GMT</pubDate>
+      <title>合理的 GPU</title>
+      <link>https://t.me/hn_summary/60823</link>
+      <description><![CDATA[合理的 GPU
+该网络内容的作者讨论了用于通用计算的 GPU 的当前状态。他们提到 NVidia GPU 运行良好，而 AMD GPU 则被认为很糟糕。 GPU 的主要限制因素是 RAM 量，好的型号需要 10GB 以上，有些型号需要高达 350GB。作者提供了不同可用 GPU 的信息，例如 16GB 的 Intel Arc A770（售价不到 300 美元）和 16GB 的 NVidia 4060（售价不到 500 美元）。他们还提到，Pascal 时代的较旧 NVidia GPU 具有 24GB 内存，价格不到 300 美元，但尚不清楚它们与现代工具的配合效果如何。作者表示需要一个指南来解释 CUDA 计算级别、供应商兼容性、多卡兼容性和其他因素，以便专业人士和业余爱好者更容易理解和使用 GPU 进行通用计算。他们还强调了经济实惠的 GPU 对于孩子们学习 AI 和 Blender 渲染等任务的潜在好处。总体而言，作者承认用于通用计算的 GPU 领域对于更广泛的受众来说变得越来越有用，但也可能令人困惑。]]></description>
+      <guid>https://t.me/hn_summary/60823</guid>
+      <pubDate>Sun, 26 Nov 2023 17:39:24 GMT</pubDate>
     </item>
     <item>
-      <title>问 HN：您知道有什么好的教育编码平台吗？</title>
-      <link>https://t.me/hn_summary/60789</link>
-      <description><![CDATA[问HN：你知道有什么好的教育编码平台吗？&lt; /a&gt;
-这篇文章的作者正在寻求可用于教育目的的编码平台的建议。他们特别提到希望使用样板代码来创建编码挑战，学生可以通过浏览器解决这些挑战。他们提到 vscode.dev 作为示例，但正在寻找一个平台适合他们的特定需求。他们知道 Replit 的“Teams for Education”，但在 Hacker News 论坛上听到过关于它的褒贬不一的评论。作者正在寻求有关 Replit 或任何其他可能适合他们需求的平台的建议或反馈。]]></description>
-      <guid>https://t.me/hn_summary/60789</guid>
-      <pubDate>Sun, 26 Nov 2023 14:01:13 GMT</pubDate>
+      <title>问 HN：Reddit 停电的结果是什么？</title>
+      <link>https://t.me/hn_summary/60822</link>
+      <description><![CDATA[询问 HN：Reddit 停电的结果是什么？
+作者正在寻找有关 Reddit 停电结果的信息，以及 Reddit 是否同意或妥协该运动，或者是否失去了动力。作者很想知道是否有人有这方面的信息。]]></description>
+      <guid>https://t.me/hn_summary/60822</guid>
+      <pubDate>Sun, 26 Nov 2023 17:38:16 GMT</pubDate>
     </item>
     <item>
-      <title>AnyTracker：跟踪任何网站上的任何号码</title>
-      <link>https://t.me/hn_summary/60788</link>
-      <description><![CDATA[AnyTracker：跟踪任何网站上的任何号码
-AnyTracker 是一款革命性的工具，让您只需简单突出显示即可跟踪任何网站上的任何号码。无论您是想关注产品价格还是监控您感兴趣的股票，AnyTracker 都能满足您的需求。不再需要手动检查网站或设置复杂的警报。借助 AnyTracker，您可以轻松掌握对您重要的数字的最新信息。对于任何想要轻松掌握重要数据的人来说，这都是游戏规则的改变者。尝试一下，看看 AnyTracker 如何简化您的生活。]]></description>
-      <guid>https://t.me/hn_summary/60788</guid>
-      <pubDate>Sun, 26 Nov 2023 14:00:07 GMT</pubDate>
+      <title>Show HN：FlashLite – 基于 Ruffle 的 Android Flash 模拟器</title>
+      <link>https://t.me/hn_summary/60821</link>
+      <description><![CDATA[展示 HN：FlashLite – 基于 Ruffle 的 Android Flash 模拟器
+flashlite.games 网站介绍了 FlashLite，这是一款适用于 Android 设备的 Flash 模拟器这是基于荷叶边的。不幸的是，该网站的前端需要 JavaScript 才能正常运行。]]></description>
+      <guid>https://t.me/hn_summary/60821</guid>
+      <pubDate>Sun, 26 Nov 2023 17:35:12 GMT</pubDate>
     </item>
     <item>
-      <title>工具周期表</title>
-      <link>https://t.me/hn_summary/60787</link>
-      <description><![CDATA[工具元素周期表
-工具周期表是对不同类型工具进行分类和组织的独特而巧妙的方法。它提供了各种工具的可视化表示，分为锤子、切削工具、钻头和测量工具等类别。表格视图允许用户轻松浏览不同的类别，而扩展表格视图则提供有关每个工具的更多详细信息。围绕该网站的争议在于，有些人可能认为某些工具应该进行不同的分类，或者表中缺少某些工具。然而，总的来说，工具周期表对于任何需要不同类型工具快速参考指南的人来说是一个有用且创新的工具。]]></description>
-      <guid>https://t.me/hn_summary/60787</guid>
-      <pubDate>Sun, 26 Nov 2023 13:49:59 GMT</pubDate>
+      <title>Show HN：连接到 ChatGPT 的开源 Spotlight 工具</title>
+      <link>https://t.me/hn_summary/60820</link>
+      <description><![CDATA[显示 HN：连接到 ChatGPT 的开源 Spotlight 工具
+ChatSpot 是一款开源 Spotlight 工具，可连接到人工智能助手 ChatGPT。其目的是帮助用户快速高效地完成任务。通过使用全局快捷方式，用户可以切换 ChatSpot 并提出问题，并自动复制回复。然后焦点可以返回到之前的工作位置以粘贴来自 ChatGPT 的响应。 ChatSpot 还支持自定义提示。该项目要求用户拥有自己的 OpenAI 密钥才能连接到 ChatGPT。目前它已经在 MacOS 上进行了测试和支持，对 Windows 和 Linux 的支持还有待测试。该项目认为 Electron React Boilerplate 在初始设置过程中节省了时间。]]></description>
+      <guid>https://t.me/hn_summary/60820</guid>
+      <pubDate>Sun, 26 Nov 2023 17:35:06 GMT</pubDate>
     </item>
     <item>
-      <title>全球温室气体排放何时达到峰值？</title>
-      <link>https://t.me/hn_summary/60786</link>
-      <description><![CDATA[全球温室气体排放何时达到峰值？
-本文讨论了达到全球温室气体排放峰值的重要性，即排放量停止增长并开始下降的点。 IPCC 指出，2025 年之前达到峰值对于保持 1.5°C 的限制至关重要。该报告分析了三种情景，发现如果当前的清洁技术增长趋势持续下去，排放量有 70% 的可能性在 2024 年开始下降。这将使 2023 年成为排放峰值年，满足 IPCC 的最后期限。风能、太阳能和电动汽车的持续增长将把化石燃料挤出电力行业。文章强调各国政府需要采取行动达到排放峰值并减少全球变暖。]]></description>
-      <guid>https://t.me/hn_summary/60786</guid>
-      <pubDate>Sun, 26 Nov 2023 13:40:49 GMT</pubDate>
+      <title>[媒体] Show HN：我们制作了一个数据工具，可以将所有列/行转变成本地图表</title>
+      <link>https://t.me/hn_summary/60819</link>
+      <description><![CDATA[Show HN：我们制作了一个可旋转所有列/行的数据工具本地图表
+AddMaple 是一个在线数据透视表工具，可帮助用户处理和分析大型且复杂的数据集。该工具会自动计算并汇总数据中的每一列，并在几秒钟内将它们转变为数据透视表。用户可以进一步细分并向图表应用额外的数据透视列、共享交互式数据透视图并嵌入它们。该工具还提供交互式报告功能，用户可以发布他们的见解和图表，让读者自己探索数据。 AddMaple 支持各种文件类型，包括 CSV 文件导出，并且正在不断添加对其他文件类型的支持。该工具还提供其他功能，例如过滤、交换数据透视列和交叉制表数据。]]></description>
+      <guid>https://t.me/hn_summary/60819</guid>
+      <pubDate>Sun, 26 Nov 2023 17:34:58 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]西班牙机构创造了人工智能影响者，她每月收入高达11,000美元</title>
-      <link>https://t.me/hn_summary/60785</link>
-      <description><![CDATA[西班牙机构创建了人工智能影响者，她每月收入高达 11,000 美元
-一家名为 The Clueless 的西班牙机构创造了一位名叫 Aitana 的人工智能影响者，她的月收入高达 11,000 美元。该机构受到创建 Aitana 的启发，因为他们发现现实生活中的模特和影响者不可靠且昂贵。 Aitana 在 Instagram 上拥有 122,000 名粉丝，即使在她是人工智能创造物的消息曝光后，她仍然能够与粉丝保持真正的联系。该机构通过社交媒体广告和品牌合作伙伴关系成功地将 Aitana 货币化。人工智能影响者的创建引发了道德和劳工方面的担忧，但 The Clueless 认为 Aitana 未来有可能带来更加个性化的体验。]]></description>
-      <guid>https://t.me/hn_summary/60785</guid>
-      <pubDate>Sun, 26 Nov 2023 13:37:41 GMT</pubDate>
+      <title>显示 HN：火在正轨：您的财务独立之路</title>
+      <link>https://t.me/hn_summary/60818</link>
+      <description><![CDATA[展示 HN：火在正轨：您的财务独立之路
+作者介绍了Fire on Track，这是一个旨在帮助用户实现财务独立的新平台。该平台的创建是出于作者个人对更加用户友好的工具的需求，因为他们厌倦了使用电子表格。作者邀请用户试用该平台并提供反馈，强调用户的见解和想法将塑造该平台的未来。]]></description>
+      <guid>https://t.me/hn_summary/60818</guid>
+      <pubDate>Sun, 26 Nov 2023 17:34:53 GMT</pubDate>
     </item>
     </channel>
 </rss>

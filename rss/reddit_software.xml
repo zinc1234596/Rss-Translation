@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sun, 26 Nov 2023 15:10:30 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Nov 2023 18:13:13 GMT</lastBuildDate>
+    <item>
+      <title>自动按键答题器</title>
+      <link>https://www.reddit.com/r/software/comments/184e7i0/autokey_clicker/</link>
+      <description><![CDATA[嗨，我也想找到一个没有恶意软件的自动键点击器，因为我发现的大多数都有。感谢您的帮助   由   提交/u/Quenelle44  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/184e7i0/autokey_clicker/</guid>
+      <pubDate>Sun, 26 Nov 2023 16:17:30 GMT</pubDate>
+    </item>
     <item>
       <title>有什么软件可以让我在全屏程序上叠加图像吗？</title>
       <link>https://www.reddit.com/r/software/comments/184b8p3/any_software_allowing_me_to_overlay_an_image_over/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[这是我使用的软件产品列表。我想知道如何以某种方式改进这个设置。如果您了解我使用的任何软件产品，并且您知道更好的软件产品或有建议，可以改变您的游戏规则，请告诉我。 操作系统  Mac：音乐（最近没有） Linux：- ubuntu（工作） guix（私人） Windows：游戏&lt; /li&gt; IOS：支付/youtube/音乐  软件：  密码：KeepassXC、Kepasium 屏幕截图：Flameshot 组织/文件管理器/编程/注释：emacs/beorg 文件同步：dropbox 搜索引擎：chatgpt/ google/duckduckgo 浏览：chromium/chrome/safari 使用按键浏览：冲浪键 电子邮件：Thunderbird/Mails shell : zsh/bash 书籍：audible 版本控制：github 窗口管理器：i3（使用 exwm，但不幸的是 bug 太多） &lt; li&gt;音乐：Logic Pro 消息传递：whatsapp/ Threema/discord 视频：youtube 编程：python  硬件：  Eizo 36，内置 KVM 切换器 + 第二个 24 显示器 键盘：Characoder One &lt; strong&gt;计划使用： gnupg（加密） 飞行逻辑（图表） clojure/htmx    由   提交 /u/argsmatter   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/183oxxo/which_software_do_you_use_and_is_an_absolute_game/</guid>
       <pubDate>Sat, 25 Nov 2023 17:36:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>您使用哪种软件并且对您来说绝对可以改变游戏规则？</title>
-      <link>https://www.reddit.com/r/software/comments/183oxwo/which_software_do_you_use_and_is_an_absolute_game/</link>
-      <description><![CDATA[这是我使用的软件产品列表。我想知道如何以某种方式改进这个设置。如果您了解我使用的任何软件产品，并且您知道更好的软件产品或有建议，可以改变您的游戏规则，请告诉我。 操作系统  Mac：音乐（不是最近） ubuntu（工作） guix（私人） Windows：游戏 IOS：支付/youtube/音乐  软件：  密码：KeepassXC、Kepasium &lt; li&gt;屏幕截图：Flameshot 组织/文件管理器/编程/注释：emacs/beorg 文件同步：dropbox 搜索引擎：chatgpt/google/duckduckgo  浏览：chromium/chrome/safari 按键浏览：冲浪键 电子邮件：Thunderbird/Mails shell：zsh/ bash 书籍：audible 版本控制：github 窗口管理器：i3（使用 exwm，但不幸的是 bug太多） 音乐: Logic Pro 消息传递：whatsapp/thirdma/discord 视频：youtube 编程：python  硬件：  Eizo 36，内置 KVM 切换器 + 第二个 24 显示器 键盘：Characoder One   ​ 计划使用：  gnupg（加密） 飞行逻辑（图表） clojure/htmx    由   提交 /u/argsmatter   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/183oxwo/which_software_do_you_use_and_is_an_absolute_game/</guid>
-      <pubDate>Sat, 25 Nov 2023 17:36:46 GMT</pubDate>
     </item>
     </channel>
 </rss>

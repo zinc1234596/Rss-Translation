@@ -4,7 +4,56 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Sun, 26 Nov 2023 15:10:35 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Nov 2023 18:13:19 GMT</lastBuildDate>
+    <item>
+      <title>以更智能的方式削减庞然大物</title>
+      <link>https://www.reddit.com/r/programming/comments/184g6br/chopping_the_monolith_in_a_smarter_way/</link>
+      <description><![CDATA[ 由   提交/u/nfrankel  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/184g6br/chopping_the_monolith_in_a_smarter_way/</guid>
+      <pubDate>Sun, 26 Nov 2023 17:43:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>以更智能的方式削减庞然大物</title>
+      <link>https://www.reddit.com/r/programming/comments/184g4yh/chopping_the_monolith_in_a_smarter_way/</link>
+      <description><![CDATA[ 由   提交/u/nfrankel  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/184g4yh/chopping_the_monolith_in_a_smarter_way/</guid>
+      <pubDate>Sun, 26 Nov 2023 17:41:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>优秀的工程师像产品经理一样思考</title>
+      <link>https://www.reddit.com/r/programming/comments/184etfw/a_good_engineer_thinks_like_a_product_manager/</link>
+      <description><![CDATA[ 由   提交/u/gregorojstersek  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/184etfw/a_good_engineer_thinks_like_a_product_manager/</guid>
+      <pubDate>Sun, 26 Nov 2023 16:44:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>高级工程师手册之路（Github 存储库）</title>
+      <link>https://www.reddit.com/r/programming/comments/184e2ot/path_to_senior_engineer_handbook_github_repo/</link>
+      <description><![CDATA[ 由   提交/u/xxjcutlerxx  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/184e2ot/path_to_senior_engineer_handbook_github_repo/</guid>
+      <pubDate>Sun, 26 Nov 2023 16:11:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>从 PDF 文件中提取文本</title>
+      <link>https://www.reddit.com/r/programming/comments/184dxzn/extracting_text_from_a_pdf_file/</link>
+      <description><![CDATA[ 由   提交/u/takkatakka  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/184dxzn/extracting_text_from_a_pdf_file/</guid>
+      <pubDate>Sun, 26 Nov 2023 16:05:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>依赖关系属于版本控制</title>
+      <link>https://www.reddit.com/r/programming/comments/184dtge/dependencies_belong_in_version_control/</link>
+      <description><![CDATA[ 由   提交/u/NX18  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/184dtge/dependencies_belong_in_version_control/</guid>
+      <pubDate>Sun, 26 Nov 2023 16:00:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>工程师成长的十大原则</title>
+      <link>https://www.reddit.com/r/programming/comments/184dosu/ten_principles_for_growth_as_an_engineer/</link>
+      <description><![CDATA[ 由   提交 /u/henrik_w   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/184dosu/ten_principles_for_growth_as_an_engineer/</guid>
+      <pubDate>Sun, 26 Nov 2023 15:54:24 GMT</pubDate>
+    </item>
     <item>
       <title>是的，有一个名为 @(-.-)/env 的 npm 包，还有其他一些类似的包</title>
       <link>https://www.reddit.com/r/programming/comments/184cn1s/yes_theres_an_npm_package_called_env_and_some/</link>
@@ -41,13 +90,6 @@
       <pubDate>Sun, 26 Nov 2023 12:47:01 GMT</pubDate>
     </item>
     <item>
-      <title>你能帮我在在线法官上找到这个问题，以便我可以提交吗？一个人和他的骆驼过河。 （这不是著名的骆驼和香蕉问题）</title>
-      <link>https://www.reddit.com/r/programming/comments/1849ekm/can_you_help_me_find_this_problem_on_online_judge/</link>
-      <description><![CDATA[ 由   提交 /u/hasibulfor   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1849ekm/can_you_help_me_find_this_problem_on_online_judge/</guid>
-      <pubDate>Sun, 26 Nov 2023 12:12:48 GMT</pubDate>
-    </item>
-    <item>
       <title>编码挑战 - 黑色星期五折扣</title>
       <link>https://www.reddit.com/r/programming/comments/1849cgp/coding_challenge_black_friday_discounts/</link>
       <description><![CDATA[ 由   提交/u/curious_drive  [链接] [评论]]]></description>
@@ -67,48 +109,6 @@
       <description><![CDATA[ 由   提交/u/ashvar  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/18480v0/binding_a_c_library_to_10_programming_languages/</guid>
       <pubDate>Sun, 26 Nov 2023 10:38:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>优先使用 TypeScript 类型而不是接口</title>
-      <link>https://www.reddit.com/r/programming/comments/1847qoo/favour_typescript_types_over_interfaces/</link>
-      <description><![CDATA[ 由   提交/u/LloydAtkinson   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1847qoo/favour_typescript_types_over_interfaces/</guid>
-      <pubDate>Sun, 26 Nov 2023 10:19:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>自动化测试背后的推理</title>
-      <link>https://www.reddit.com/r/programming/comments/1847mpx/reasoning_behind_automated_tests/</link>
-      <description><![CDATA[ 由   提交/u/negrel3  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1847mpx/reasoning_behind_automated_tests/</guid>
-      <pubDate>Sun, 26 Nov 2023 10:11:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>概念验证：使用检查点复制每秒 20,000 笔付款</title>
-      <link>https://www.reddit.com/r/programming/comments/1847dp8/proof_of_concept_20000_payments_per_second_with/</link>
-      <description><![CDATA[ 由   提交 /u/jaccomoc   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1847dp8/proof_of_concept_20000_payments_per_second_with/</guid>
-      <pubDate>Sun, 26 Nov 2023 09:53:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 NixOS 组织系统配置</title>
-      <link>https://www.reddit.com/r/programming/comments/18471g9/organizing_system_configs_with_nixos/</link>
-      <description><![CDATA[ 由   提交/u/pmz   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/18471g9/organizing_system_configs_with_nixos/</guid>
-      <pubDate>Sun, 26 Nov 2023 09:28:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>年轻开发者的奋斗</title>
-      <link>https://www.reddit.com/r/programming/comments/1846sf2/the_struggles_of_a_young_developer/</link>
-      <description><![CDATA[ 由   提交 /u/Mariambarouma   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1846sf2/the_struggles_of_a_young_developer/</guid>
-      <pubDate>Sun, 26 Nov 2023 09:09:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>akrylysov/pogreb：用 Go 编写的用于读取繁重工作负载的嵌入式键值存储（持久哈希图与 B 树）</title>
-      <link>https://www.reddit.com/r/programming/comments/1846qhr/akrylysovpogreb_embedded_keyvalue_store_for/</link>
-      <description><![CDATA[ 由   提交 /u/EmmanuelOga   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1846qhr/akrylysovpogreb_embedded_keyvalue_store_for/</guid>
-      <pubDate>Sun, 26 Nov 2023 09:05:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
