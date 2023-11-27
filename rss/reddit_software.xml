@@ -4,7 +4,28 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sun, 26 Nov 2023 21:11:06 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Nov 2023 00:50:32 GMT</lastBuildDate>
+    <item>
+      <title>用于在文档上做笔记的最佳 PDF 阅读器？</title>
+      <link>https://www.reddit.com/r/software/comments/184p386/best_pdf_reader_for_making_notes_on_a_document/</link>
+      <description><![CDATA[我的工作是必须阅读一堆 PDF 并做笔记，这样我就可以将文档连同一堆笔记一起发送回给作者，我的想法的重点和评论。我一直在使用 adobe acrobat，在突出显示工具、注释工具和绘图工具之间不断切换是一个可怕的、滞后的、不直观的噩梦。想知道是否有一个更有效的程序适用于 Mac，并且是专门为您在阅读文档时做笔记而设计的。蛋壳   由   提交/u/amber_lies_here  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/184p386/best_pdf_reader_for_making_notes_on_a_document/</guid>
+      <pubDate>Mon, 27 Nov 2023 00:02:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>修复 OCR？</title>
+      <link>https://www.reddit.com/r/software/comments/184oeks/fixing_ocr/</link>
+      <description><![CDATA[我最近扫描了一本书，看起来很棒，但无论出于什么原因，PDF 上的 OCR 无法识别，“A”来自和“O”，“创建一个 scon thot 看起来像这样”。对于小文本块，我已经成功地要求 ChatGPT 修复它，但是有没有任何软件可以自动执行此操作，我无法真正访问 ChatGPT 来解析整个 700 页的书，但我不确定重新扫描也可以修复它，有什么建议吗？我还想保留书中的格式和所有内容，因此我不能只使用原始文本。   由   提交 /u/GolemThe3rd   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/184oeks/fixing_ocr/</guid>
+      <pubDate>Sun, 26 Nov 2023 23:32:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>多个 PDF 到 Word</title>
+      <link>https://www.reddit.com/r/software/comments/184o98w/multiple_pdfs_to_word/</link>
+      <description><![CDATA[您好，有没有一款免费的应用程序可以将多个 pdf 转换为 word 以节省时间？ Ty   由   提交/u/ballssweaty_   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/184o98w/multiple_pdfs_to_word/</guid>
+      <pubDate>Sun, 26 Nov 2023 23:26:01 GMT</pubDate>
+    </item>
     <item>
       <title>从有 jwplayer 的网站下载视频</title>
       <link>https://www.reddit.com/r/software/comments/184j49r/download_videos_from_websites_that_have_jwplayer/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[我使用 ImageGlass 图像查看器软件有一段时间了，但现在在最新更新后无法使用它。 版本9发布后出现问题。该程序需要Webview2运行时，但我无法安装最新版本。我不知道该怎么办。 https://preview.redd.it/2xr5ivjvfo2c1.png?width=680&amp;format=png&amp;auto=webp&amp;s=f073368307ea08fd417523c88c068da4196ad476   由   提交 /u/ZMXMATT   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1848u9t/has_anyone_encountered_this_problem/</guid>
       <pubDate>Sun, 26 Nov 2023 11:35:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>适用于 Windows 的存档/压缩/解压缩软件，类似于 Keka (mac)</title>
-      <link>https://www.reddit.com/r/software/comments/1847scl/archivecompressdecompress_software_for_windows/</link>
-      <description><![CDATA[嗨，我是 mac 用户，我爸爸有 Windows。他需要向我传输一个巨大的 .mov 文件。我想，一定有一个免费使用的存档程序，可以将存档分割成2GB的文件（最好可以手动设置大小），这样我们就可以使用所有正常的文件传输服务。 on mac，我会使用“Keka”但我找不到 Windows 版本，而且我无法先尝试 win 程序（我爸爸使用新软件有点慢......所以我需要解释一下。） 他可以安装什么程序来将文件拆分为 2GB-zip 包，然后我可以在我的 Mac 上解压缩并重新组合？ （或任何格式，但它需要兼容我们双方！） 谢谢！   由   提交 /u/habilishn   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1847scl/archivecompressdecompress_software_for_windows/</guid>
-      <pubDate>Sun, 26 Nov 2023 10:22:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>我有一个问题想看看这个是否存在</title>
-      <link>https://www.reddit.com/r/software/comments/1846rx4/i_have_a_question_to_see_if_this_exists/</link>
-      <description><![CDATA[说实话，我是一名火车迷，我正在寻找一款可以在其中一台小型电视上实现的软件有触摸屏，可以挂在墙上 我正在寻找的软件就像一个有点动画的蓝图，基本上是蓝色或黑色背景和白线 我正在寻找的主要焦点是类似的具有平滑动画的东西火车的精灵在原地慢慢旋转，供参考，《雪国列车》电视节目的介绍，当它显示雪国列车车轮旋转时，类似的东西存在吗？   由   提交 /u/Exotic_Stranger7332   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1846rx4/i_have_a_question_to_see_if_this_exists/</guid>
-      <pubDate>Sun, 26 Nov 2023 09:08:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>转录软件</title>
-      <link>https://www.reddit.com/r/software/comments/1842rng/transcription_software/</link>
-      <description><![CDATA[我正在寻找一款可以上传音频文件的免费软件，它会给我音频中所说内容的转录文件。  有什么建议吗？该文件长 42 分钟。  谢谢！   由   提交 /u/EconomicsOk3531   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1842rng/transcription_software/</guid>
-      <pubDate>Sun, 26 Nov 2023 04:42:59 GMT</pubDate>
     </item>
     </channel>
 </rss>

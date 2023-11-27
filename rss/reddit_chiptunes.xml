@@ -4,7 +4,14 @@
     <title>最新提交：chiptunes</title>
     <link>https://www.reddit.com/r/chiptunes/new</link>
     <description>一个致力于音乐的社区，从最少的事情中获得最大的收益。老游戏风格的音乐，例如C64、Atari、NES、Gameboy、Sega Genesis、Adlib、OPM、MOD等。</description>
-    <lastBuildDate>Sun, 26 Nov 2023 21:11:24 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Nov 2023 00:50:54 GMT</lastBuildDate>
+    <item>
+      <title>嘿。这是 FFXIV (Famitracker)(VRC6) 中歌曲的 8 位翻唱版</title>
+      <link>https://www.reddit.com/r/chiptunes/comments/184nft2/hey_there_heres_an_8bit_cover_of_a_song_from/</link>
+      <description><![CDATA[       由   提交/u/lucasmedina  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/chiptunes/comments/184nft2/hey_there_heres_an_8bit_cover_of_a_song_from/</guid>
+      <pubDate>Sun, 26 Nov 2023 22:51:34 GMT</pubDate>
+    </item>
     <item>
       <title>尝试弄清楚信封的工作原理（Microchip AY8930）</title>
       <link>https://www.reddit.com/r/chiptunes/comments/184jt9x/trying_to_figure_out_how_envelopes_work_microchip/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[       由   提交/u/The_HardCas  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/182jape/thunder_force_4_sand_hell_cass_2a03_ver_rev1/</guid>
       <pubDate>Fri, 24 Nov 2023 04:14:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么在 FL Studio 中制作chiptune 母版如此困难，而在跟踪器中却如此简单？</title>
-      <link>https://www.reddit.com/r/chiptunes/comments/182i8he/why_is_making_chiptune_mastering_in_fl_studio_so/</link>
-      <description><![CDATA[我正在尝试在 FL Studio 中制作chiptune，但波浪听起来如此蹩脚和平淡......听起来如此尝试和无聊。但是，当我在 MilkyTracker 中使用相同的乐器制作简单的节拍或其他东西时，听起来绝对令人惊叹...有没有具体的方法来解决这个母带处理问题？ 我使用 Magical 8bit Plug、Nes VST 和 Chipdrum对于鼓。    由   提交/u/shenhefucker96   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/chiptunes/comments/182i8he/why_is_making_chiptune_mastering_in_fl_studio_so/</guid>
-      <pubDate>Fri, 24 Nov 2023 03:15:02 GMT</pubDate>
     </item>
     </channel>
 </rss>

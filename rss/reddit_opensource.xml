@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 26 Nov 2023 21:11:38 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Nov 2023 00:51:09 GMT</lastBuildDate>
+    <item>
+      <title>React 和 React Native 应用程序</title>
+      <link>https://www.reddit.com/r/opensource/comments/184n40x/react_and_react_native_apps/</link>
+      <description><![CDATA[我愿意为使用 React 或 React Native 的应用程序做出贡献。 github 上的星星并不重要，如果您知道任何项目，请随意提及。   由   提交/u/danleeter  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/184n40x/react_and_react_native_apps/</guid>
+      <pubDate>Sun, 26 Nov 2023 22:38:14 GMT</pubDate>
+    </item>
     <item>
       <title>最近将我的项目更新为新版本，这就是我收到的电子邮件</title>
       <link>https://www.reddit.com/r/opensource/comments/184juom/updated_my_project_to_a_new_version_recently_and/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[灵感来了，当我第一次从 java 切换到 typescript 时，有点震惊：嘿，这些家伙两边都有 typescript（在网络中） ），他们肯定能够轻松地以 RPC 方式通过网络调用其方法。但令我惊讶的是，他们并不是这样的事情，所有人都在做低级 http 请求，从 json 解析和验证参数并评估响应代码，并且 每个端点。除此之外，还有一些 RPC，但它们使用起来很复杂。  所以，长话短说：我希望我可以将 RCP 带回节点 + 一些与 http 通信紧密相关的其他很酷的功能。还要注意内置的 CSRF 保护（看看零配置概念，即使不使用 Nodejs） 这里 是的。  欢迎反馈！    由   提交 /u/Bogeeee   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/183p9w1/nodejs_releasing_restfuncs_20_to_bring_them_node/</guid>
       <pubDate>Sat, 25 Nov 2023 17:51:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>对于我主要从事商业电力工作的小型电力公司来说，什么是电力投标管理/估算的最佳软件。</title>
-      <link>https://www.reddit.com/r/opensource/comments/183ocqn/what_is_best_software_for_electrical_bid/</link>
-      <description><![CDATA[对于我主要从事商业电力工作的小型电力公司来说，什么是最好的电力投标管理软件。 我的公司主要从事商业电力工作电气工作，我对帮助我对大型工作进行投标或估算的软件感兴趣。寻求最优惠的价格、易于使用、快速（无需花费数小时来完成出价/估算）并且需要准确。    ;由   提交/u/Netman1958  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/183ocqn/what_is_best_software_for_electrical_bid/</guid>
-      <pubDate>Sat, 25 Nov 2023 17:09:42 GMT</pubDate>
     </item>
     </channel>
 </rss>

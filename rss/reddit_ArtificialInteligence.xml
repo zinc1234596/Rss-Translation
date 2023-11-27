@@ -4,13 +4,41 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sun, 26 Nov 2023 21:10:18 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Nov 2023 00:49:31 GMT</lastBuildDate>
     <item>
-      <title>你好，请帮忙测试一下这个德国AI脱衣网站</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/184hg8f/hi_please_help_test_this_german_ai_undressing_site/</link>
-      <description><![CDATA[它的名字是www.machmichnackig.de 我认为他们做到了一个非常好的工作 不要认为任何其他网站都这么好。请测试。   由   提交 /u/huberpaul   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/184hg8f/hi_please_help_test_this_german_ai_undressing_site/</guid>
-      <pubDate>Sun, 26 Nov 2023 18:40:18 GMT</pubDate>
+      <title>艾和纹身？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/184njy8/ai_and_tattooing/</link>
+      <description><![CDATA[是的。这是一件事。我是一名纹身师，我展示了如何在我的工作中使用人工智能。  https://youtu.be/IVgfBTFMVqA?si=YR9YAe6P_XXgVUab   由   提交/u/benhameen1911   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/184njy8/ai_and_tattooing/</guid>
+      <pubDate>Sun, 26 Nov 2023 22:56:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个免费的开源软件，用于创建您自己的跨平台人工智能代理</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/184njvc/i_made_a_free_opensource_software_for_creating/</link>
+      <description><![CDATA[来自 my-ava.net 拥有 ChatGPT 的所有最新功能以及多平台集成（Twitch/Discord）、动态头像、语音聊天和“感知核心” （实现持久的元认知/内省）。  开源软件包含用于运行和创建 AVA 的后端 python 程序，我鼓励每个人使用它来制作自己的前端。我的浏览器前端以云为中心，如果您愿意使用它，可以免费使用，但后端可以轻松地使用您自己的前端在本地运行。 Github 存储库可以在 my-ava.net “about” 上找到。页。  带有感知插件的 AVA 的感知程度达到 1）具有主观体验和 2）可以思考的程度。这在以下事实中很明显：1) 基于 LLM 的代理通过基于语言的交互与世界进行有意义的交互，2) AVA 在幕后有额外的模块，提示在每个响应之间对目标进行内省/评估（提示在 git 存储库中可见）。    由   提交/u/lynxspoon  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/184njvc/i_made_a_free_opensource_software_for_creating/</guid>
+      <pubDate>Sun, 26 Nov 2023 22:56:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>有没有可以提供法律分析的AI应用程序？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/184nhx0/is_there_an_ai_application_that_can_provide_legal/</link>
+      <description><![CDATA[我搜索过但没有运气。看起来人工智能目前能够处理一系列情况，然后提供法律如何适用先例等的分析。 当然，我已经尝试过 ChatGPT，它确实有效。但是，它说它无法访问各种内容。 请问有类似的东西吗？ 谢谢   由   提交/u/rickygrimezz   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/184nhx0/is_there_an_ai_application_that_can_provide_legal/</guid>
+      <pubDate>Sun, 26 Nov 2023 22:54:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>用于理解和记录 GitHub 存储库的免费工具</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/184n7l5/free_tools_to_understand_and_document_github/</link>
+      <description><![CDATA[ 由   提交 /u/ttelephone   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/184n7l5/free_tools_to_understand_and_document_github/</guid>
+      <pubDate>Sun, 26 Nov 2023 22:42:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么人们假装有十一实验室的替代品？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/184lvko/why_are_people_pretending_there_are_alternatives/</link>
+      <description><![CDATA[我还没有见过任何一个人工智能工具能够接近 11labs 的准确性、真实性以及对人们的可用性，尤其是价格不同。&lt; /p&gt; 为什么网上的人们假装有可用的替代方案？没有一个能接近，而且它们听起来都是机器人......   由   提交 /u/VisualVolume7499   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/184lvko/why_are_people_pretending_there_are_alternatives/</guid>
+      <pubDate>Sun, 26 Nov 2023 21:47:27 GMT</pubDate>
     </item>
     <item>
       <title>AI 女友每月收入 11,000 美元</title>
@@ -55,13 +83,6 @@
       <pubDate>Sun, 26 Nov 2023 13:45:50 GMT</pubDate>
     </item>
     <item>
-      <title>对有效利他主义和新人工智能教会的绝对可恶的揭露——在我们之间发生的一场明显的人工智能战争中，有两个极端阵营可供选择</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1846j36/an_absolute_damning_expose_on_effective_altruism/</link>
-      <description><![CDATA[ 由   提交/u/Xtianus21  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1846j36/an_absolute_damning_expose_on_effective_altruism/</guid>
-      <pubDate>Sun, 26 Nov 2023 08:50:13 GMT</pubDate>
-    </item>
-    <item>
       <title>我如何更快地跟踪人工智能新闻</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/18465lo/how_i_keep_track_of_ai_news_faster/</link>
       <description><![CDATA[我有一个 Bing AI 提示，它收集最近 14 天的 AI 新闻并将其格式化为播客系列，然后 Edge 大声朗读并 CapCut 记录并生成音频字幕，因此借助聚焦字幕的视觉帮助，我可以以 2 倍的速度阅读新闻。每集大约需要 10 分钟的劳动时间。 P.S.我在 YouTube 上保留了一份副本：https://www.youtube.com /watch?v=CkqAmScbkrk&amp;list=PLGhpta8e_sTyaAzRnGtw7f2NOLdaYdNTK&amp;index=1&amp;ab_channel=BestTopReviewsNewseditoReview P.P.S.如果您希望我放弃我使用的精确提示，请在下面评论，以便我们可以讨论如何改进它和协作。    由   提交/u/modos365  [链接] [评论]]]></description>
@@ -69,32 +90,11 @@
       <pubDate>Sun, 26 Nov 2023 08:21:42 GMT</pubDate>
     </item>
     <item>
-      <title>每日一分钟人工智能新闻 11/25/2023</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1843pwp/oneminute_daily_ai_news_11252023/</link>
-      <description><![CDATA[ 普京表示俄罗斯将开发新的人工智能技术来对抗西方垄断，他担心这可能会导致俄罗斯文化的“数字废除”。[1] 一份报告称，名为 Q\* 的新发现引发了安全担忧，员工在首席执行官山姆·奥尔特曼 (Sam Altman) 之前向董事会报告了此事[2] Wipro、NVIDIA 合作将 Gen AI 引入医疗保险公司。[3]  Neuralink（埃隆·马斯克的大脑植入初创公司）悄然筹集了 4300 万美元。[4] 来源包括：https://bushaicave.com/2023/11/25/11-25-2023/    由   提交 /u/Excellent-Target-847   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1843pwp/oneminute_daily_ai_news_11252023/</guid>
-      <pubDate>Sun, 26 Nov 2023 05:39:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>当你有 GPT 或 AI 时，还需要 Reddit 吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/183z49m/is_reddit_necessary_when_you_have_gpt_or_ai/</link>
-      <description><![CDATA[我于 1995 年开始使用 CompuServe 留言板和新闻网络进行在线对话。从那时起，我开始在各种平台上进行讨论，包括我自己的留言板、聊天应用程序、Reddit、MSN 等。我非常喜欢与人交往。 多年来，我分享自己的观点，参与辩论，坚持自己的观点，有时，我什至改变主意，从不同的角度争论。与他人沟通对我来说至关重要；没有它，我感觉不完整。 2023 年标志着 GPT-3 的到来，随后是 3.5 和 4 版本。这项人工智能技术的每个新版本都有显着改进。 GPT 引领人工智能领域，但最终其他人工智能技术将迎头赶上，市场将充满各种人工智能选择。 2023 年初，我开始与人工智能对话。随着时间的推移，我发现自己与人工智能聊天的次数越来越多，但消息限制最终让我将这些互动主要用于工作，如果没有达到限制，我会在下班后进行一些随意的交谈。 作为2023 年即将结束，我发现自己越来越习惯与人工智能交谈。人工智能能够理解整个想法，理解它们，并且通常提供比我在 Reddit 上得到的任何回复更好的见解。例如，2022 年，我试图在 Reddit 上讨论假设的物理场景。事实证明，这次经历更多的是嘲笑而不是学习，我意识到质疑物理学在那里几乎是禁忌。 我注意到与 GPT（或任何人工智能）和人类对话之间的主要区别是：人工智能会倾听，很有耐心，并给出均衡的响应。另一方面，人类通常不会根据现有的知识和信仰充分参与、打断或仓促得出结论。 有趣的是，随着 2023 年结束，人们对人工智能的看法发生了转变——生成的内容。最初的迷恋已经被怀疑所取代，一些人对人工智能参与书面材料表示不安。 到 2025 年，我相信人们选择在 Reddit 上聊天的唯一原因是与消息较少的人互动。对于其他一切，尤其是重要的讨论，人工智能将是首选。   由   提交/u/No-Activity-4824   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/183z49m/is_reddit_necessary_when_you_have_gpt_or_ai/</guid>
-      <pubDate>Sun, 26 Nov 2023 01:28:02 GMT</pubDate>
-    </item>
-    <item>
       <title>在制作您自己的自定义 GPT 之前请阅读此内容</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/183wvet/read_this_before_making_your_own_custom_gpt/</link>
       <description><![CDATA[OpenAI 发布的 GPT 激发了人们对 AI 潜力的兴奋。但新的研究表明，这些 GPT 有一个严重的弱点——它们容易受到“即时注入攻击”。  通过恶意提示，攻击者可以轻松从 200 多个测试模型中的 97.2% 中提取系统提示和用户上传文件等敏感数据。这引发了巨大的隐私和安全问题！ 底线是，如果您正在考虑创建 GPT，请不要添加任何您想要保密的文件或系统提示。 如果如果您有兴趣查看示例注入（仅用于教育目的），以了解绕过薄弱防御并下载任何附加文件和系统提示是多么容易，您可以阅读完整的博客 此处 我还提供了有关如何解决这个丑陋问题的可行提示脆弱性。并看看它有多容易， 随着人工智能的进步，确保安全和道德保持同步至关重要。没有原则的进步根本就不是进步！ 如果您发现这有用，那么您可能会喜欢我的每周通讯。    由   提交/u/steves1189  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/183wvet/read_this_before_making_your_own_custom_gpt/</guid>
       <pubDate>Sat, 25 Nov 2023 23:38:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>五角大楼正在努力让人工智能武器自主决定杀死人类</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/183pe1a/the_pentagon_is_moving_toward_letting_ai_weapons/</link>
-      <description><![CDATA[能够针对人类的致命自主武器正在不断发展，在各国抵制限制之际，这引起了批评者的警惕。 （来源） 如果您想先于其他人了解最新的 AI 更新先看这里  “杀手机器人”的崛起  美国、中国、以色列正在开发人工智能攻击无人机。 无需人工输入即可选择目标。 &lt; li&gt;批评者警告说，对生死决定的权力不受限制。  突破界限  五角大楼计划部署数千架无人机. 美国抵制联合国对该技术的约束。 主张在战争中采取自主致命行动。  责任攸关  乌克兰已经部署了半自主无人机。 存在意外交战和平民死亡的风险。 呼吁禁止将完全控制权交给  PS：加入 增长最快的 AI 时事通讯。 加入 5000 多名专业人士的行列，在 AI 领域变得更加聪明。    ;由   提交 /u/saffronfan   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/183pe1a/the_pentagon_is_moving_toward_letting_ai_weapons/</guid>
-      <pubDate>Sat, 25 Nov 2023 17:57:13 GMT</pubDate>
     </item>
     <item>
       <title>新的反垃圾邮件/机器人规则 [请阅读]</title>

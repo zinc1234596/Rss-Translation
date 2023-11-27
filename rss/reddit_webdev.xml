@@ -4,7 +4,56 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 26 Nov 2023 21:11:34 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Nov 2023 00:51:01 GMT</lastBuildDate>
+    <item>
+      <title>Web开发必须具备的东西？</title>
+      <link>https://www.reddit.com/r/webdev/comments/184plin/must_haves_for_web_development/</link>
+      <description><![CDATA[尝试利用假期优惠。在当前的优惠活动中，哪款笔记本电脑适合用于 Web 开发？  您还建议我为刚刚起步的人推荐哪些程序？   由   提交 /u/paliomz   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/184plin/must_haves_for_web_development/</guid>
+      <pubDate>Mon, 27 Nov 2023 00:25:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要有关 vanilla js 从 insidehtml 访问值的帮助</title>
+      <link>https://www.reddit.com/r/webdev/comments/184oen6/need_help_with_vanilla_js_accessing_value_from/</link>
+      <description><![CDATA[参加普通 js 课程以更深入地了解 js， ​ i似乎无法弄清楚如何将删除食物事件值发送到removeItems函数 https://imgur.com/ a/8Odo2gh请帮助！   由   提交/u/comfortcreature999  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/184oen6/need_help_with_vanilla_js_accessing_value_from/</guid>
+      <pubDate>Sun, 26 Nov 2023 23:32:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>YouTube 的被诅咒的广告</title>
+      <link>https://www.reddit.com/r/webdev/comments/184o8bf/cursed_ads_for_youtube/</link>
+      <description><![CDATA[   /u/s1e  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/184o8bf/cursed_ads_for_youtube/</guid>
+      <pubDate>Sun, 26 Nov 2023 23:24:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>作为大学一年级学生，我如何以及在哪里推销我的技能？</title>
+      <link>https://www.reddit.com/r/webdev/comments/184mvy8/how_and_where_do_i_market_my_skills_as_a_first/</link>
+      <description><![CDATA[我是一名学习计算机科学的一年级学生，但多年来我已经掌握了多项技能，例如 Web 开发（HTML、CSS、JS、 ReactJS）、Python、C、Flutter 和 Dart。问题是，这些只是我拥有的技能，我不会用它们做任何事情。我将如何以及在哪里推销这些产品，也许可以开始一份自由职业，或者在接受教育的同时为一家公司兼职？   由   提交 /u/AfternoonMediocre633   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/184mvy8/how_and_where_do_i_market_my_skills_as_a_first/</guid>
+      <pubDate>Sun, 26 Nov 2023 22:28:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻求学习课程的建议</title>
+      <link>https://www.reddit.com/r/webdev/comments/184m2rm/asking_for_advice_on_learning_course/</link>
+      <description><![CDATA[最近一直在自学基本的 webdev，在 codecademy 上上了一门课程，目前正受到 TOP 的攻击 - 结果我对后端方面不太感兴趣交易，动画响应式精心设计的废话绝对更接近我的心：D  一些“激励”我的页面： https://poolsuite.net/ https://monopo.london/ https://jesse- Zhou.com/ https://buoy.work/ 从我的理解来看，这是对 JS 及其框架的大量使用，比如 Three。 js 或 GS​​AP ​ 我有机会获得另一套技能，并希望目标尽可能缩小，为以后的添加奠定基础。您能推荐一些我应该长期开始的前端课程吗？ ​ ​   由   提交/u/BorzyReptiloid   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/184m2rm/asking_for_advice_on_learning_course/</guid>
+      <pubDate>Sun, 26 Nov 2023 21:55:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于 redux 的建议</title>
+      <link>https://www.reddit.com/r/webdev/comments/184lzcx/advice_on_redux/</link>
+      <description><![CDATA[嘿，正如标题所说，我正在寻找一些关于我的第一个项目学习 redux 的指导，并且我想获得一些关于某些事情的意见。  我创建了一个反馈应用程序，它允许您在您正在使用的理论应用程序上发布有关特定问题的评论。现在的代码有点粗糙，但它符合我几乎满意的标准。目前，我已将一系列虚拟数据放入 Firebase 中以模拟现实数据库，仅用于此演示。 我使用 Redux 作为事实来源并管理我的状态。我想要实现的是应用程序的实时更新，例如： 您可以添加新评论，这会将新评论放入数据库中，但它不会实时更新组件。这是处理调度的组件，那么这是应更新的组件。 &lt; p&gt;这就是我陷入困境的地方。 你答：在编辑数据库的同时在本地更新状态吗？或者 B：以某种方式让 redux 更新并触发重新渲染以呈现正确的数据？ 目标是使用应用程序实现实时更新，所以也许我的菜鸟对此的看法很天真，可能会有更好的流程，无论哪种方式，我都希望获得有关该方法的指导。   由   提交 /u/ChaffeLoL   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/184lzcx/advice_on_redux/</guid>
+      <pubDate>Sun, 26 Nov 2023 21:51:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>是否可以找到不销售/维护整个网站的副业？</title>
+      <link>https://www.reddit.com/r/webdev/comments/184l98n/possible_to_find_sidework_that_isnt/</link>
+      <description><![CDATA[大家好 - 只是想知道这是否是一件事。从事零工或添加功能的合同工作，不一定与客户合作并设计和维护整个网站。我正在考虑这样的事情：有人想要更新徽标或文本，或者在他们的网站上添加博客。比整个网站涉及的内容更少。 这样的事情存在吗？有网站可以帮助自动寻找类似的工作吗？   由   提交/u/billcrystals  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/184l98n/possible_to_find_sidework_that_isnt/</guid>
+      <pubDate>Sun, 26 Nov 2023 21:22:32 GMT</pubDate>
+    </item>
     <item>
       <title>技术文档集成。</title>
       <link>https://www.reddit.com/r/webdev/comments/184jz7n/tecdoc_integration/</link>
@@ -60,55 +109,6 @@
       <description><![CDATA[我在一家公司工作了几年，第一次不给我加薪。 我觉得他们从技术上降低了我的工资，因为比方说，一年前我的工资是最低工资的5倍，但今天只有4倍。现在一切都更贵了，房租、食物等，所以我买不起和我一年前买的一样的东西。 顺便说一句，我的工资不是最高的，我知道和我同样职位的新员工的收入高达我工资的1.5倍。  &gt; 你们在同一家公司几年拿同样的薪水正常吗？   由   提交 /u/Guilty_Luck_9991   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/184gush/the_company_didnt_increase_my_salary_this_year/</guid>
       <pubDate>Sun, 26 Nov 2023 18:13:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>付款处理没有每次收费的固定费用？寻找 Patreon 替代品</title>
-      <link>https://www.reddit.com/r/webdev/comments/184gu5e/payment_processing_without_a_flat_fee_per_charge/</link>
-      <description><![CDATA[嘿，我大约有 1,000 位 Patreon 订阅者...他们可以在我的网站上链接他们的 Patreon 帐户来删除广告并访问一些功能。&lt; /p&gt; 只是好奇是否有一个选项可以让我自己实现，每月收费 1 美元。 Stripe 似乎不是一个选择，因为他们每次收费 30 美分，已经是 30%，比 Patreon 的收费高得多。我确实看到了“联系销售”按钮，所以也许他们会提供其他东西。 我真的不想每年收费......我觉得人们可以忍受每月支付 1 美元更多比他们一次给我 12 美元更容易。 那里有什么好的吗？当然，如果这很简单，那就加分，但我是一名开发人员，所以如果从长远来看可以节省更多时间，我可以做更多的工作。  &amp; #32；由   提交 /u/werdnaegni   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/184gu5e/payment_processing_without_a_flat_fee_per_charge/</guid>
-      <pubDate>Sun, 26 Nov 2023 18:12:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>无头电子商务后端。条纹？</title>
-      <link>https://www.reddit.com/r/webdev/comments/184g7wm/headless_ecommerce_backends_stripe/</link>
-      <description><![CDATA[各位开发者大家好， 我过去推出过几家无头商店，它们都有 Shopify 后端。老实说，我不太介意 Shopify DX，各种 API 和 SDK 让一切变得相当简单。 不过它的价格标签很小，我觉得这只是你最终支付的一部分在 Shopify 计划中，还必须是店面托管 - 您实际上并没有经常使用它，并且采用无头设置： 目前有任何可行的替代方案吗？ &gt; 我看到 Stripe 现在提供托管结帐页面，我想知道您现在是否可以真正使用 Stripe 作为成熟的电子商务后端？ 我过去也研究过 BigCommerce，但最终选择了 Shopify，因为它当时看起来更加成熟。 有什么想法吗？经验？我想看看有什么新系统吗？   由   提交 /u/DepressionFiesta   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/184g7wm/headless_ecommerce_backends_stripe/</guid>
-      <pubDate>Sun, 26 Nov 2023 17:45:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>购买域名</title>
-      <link>https://www.reddit.com/r/webdev/comments/184ejgh/buying_a_domain/</link>
-      <description><![CDATA[所以今天我完成了我的第一个网站并想要启动它。我一直在寻找一个域名，最后选定了一个，并通过悬停购买它，但当我检查时，我并没有真正看到购买 SSL 证书的选项，那么它是否包含在内，还是我被欺骗了？或者您推荐我应该查看其他网站吗？   由   提交 /u/EnvironmentSavings86   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/184ejgh/buying_a_domain/</guid>
-      <pubDate>Sun, 26 Nov 2023 16:32:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>另一个 HTML 电子邮件图像问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/184e24h/another_html_email_image_question/</link>
-      <description><![CDATA[您如何处理 Outlook 的“点击下载图片”功能为那些使用图像发送 HTML 电子邮件的人提供保护吗？    由   提交 /u/orddie1   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/184e24h/another_html_email_image_question/</guid>
-      <pubDate>Sun, 26 Nov 2023 16:10:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>我是一名初学者，刚刚开始学习网络开发，我的目标是能够创建简单的简约网页，如下面列出的两个示例，我的问题是，实际上，我需要多长时间才能实现这一目标如果我每天投入几个小时的工作，水平会怎样？</title>
-      <link>https://www.reddit.com/r/webdev/comments/184dwc4/im_a_beginner_and_ive_just_started_learning_web/</link>
-      <description><![CDATA[Noomo Agency - Webflow&lt; /a&gt;  Desktronic - Webflow  &lt; !-- SC_ON --&gt;  由   提交 /u/PROMCz11   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/184dwc4/im_a_beginner_and_ive_just_started_learning_web/</guid>
-      <pubDate>Sun, 26 Nov 2023 16:03:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>制作了一个 WAIFU API（受到其他帖子的启发）</title>
-      <link>https://www.reddit.com/r/webdev/comments/184ds4o/made_a_waifu_api_inspired_by_the_other_post/</link>
-      <description><![CDATA[最近开始适应 API 开发，出于兴趣制作了一个 Waifu API。这是托管在免费托管平台上的。  请让我知道情况如何以及我可以做出哪些改进。另外请告诉我是否可以将其包含在我的简历中。  这是演示页面：https://waifu.anmolkys.in/   由   提交 /u/ilovecatspussies   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/184ds4o/made_a_waifu_api_inspired_by_the_other_post/</guid>
-      <pubDate>Sun, 26 Nov 2023 15:58:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>什么时候使用图像，什么时候使用背景图像？</title>
-      <link>https://www.reddit.com/r/webdev/comments/183zxhw/when_do_you_use_image_and_when_to_use/</link>
-      <description><![CDATA[它们看起来是一样的。 ​   由   提交/u/Logical_Cherry_7588   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/183zxhw/when_do_you_use_image_and_when_to_use/</guid>
-      <pubDate>Sun, 26 Nov 2023 02:09:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
