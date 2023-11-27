@@ -4,111 +4,111 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Mon, 27 Nov 2023 09:12:41 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Nov 2023 15:12:39 GMT</lastBuildDate>
     <item>
-      <title>如何为代码的到来做好准备</title>
-      <link>https://www.reddit.com/r/programming/comments/184yh1c/how_to_prepare_for_advent_of_code/</link>
-      <description><![CDATA[ 由   提交 /u/Wraldpyk   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/184yh1c/how_to_prepare_for_advent_of_code/</guid>
-      <pubDate>Mon, 27 Nov 2023 08:45:24 GMT</pubDate>
+      <title>为高性能 SQL 连接构建更快的哈希表</title>
+      <link>https://www.reddit.com/r/programming/comments/1854y9d/building_a_faster_hash_table_for_high_performance/</link>
+      <description><![CDATA[ 由   提交/u/j1897OS   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1854y9d/building_a_faster_hash_table_for_high_performance/</guid>
+      <pubDate>Mon, 27 Nov 2023 15:02:10 GMT</pubDate>
     </item>
     <item>
-      <title>Kube-DNS：Kubernetes 集群的基本服务</title>
-      <link>https://www.reddit.com/r/programming/comments/184xrob/kubedns_the_essential_service_for_kubernetes/</link>
-      <description><![CDATA[ 由   提交/u/onlap703  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/184xrob/kubedns_the_essential_service_for_kubernetes/</guid>
-      <pubDate>Mon, 27 Nov 2023 07:55:27 GMT</pubDate>
+      <title>碧昂丝将放弃变音符号以支持 ASCII</title>
+      <link>https://www.reddit.com/r/programming/comments/1854f8x/beyoncé_to_drop_diacritical_mark_to_support_ascii/</link>
+      <description><![CDATA[ 由   提交/u/deepCelibateValue  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1854f8x/beyoncé_to_drop_diacritical_mark_to_support_ascii/</guid>
+      <pubDate>Mon, 27 Nov 2023 14:38:35 GMT</pubDate>
     </item>
     <item>
-      <title>如何抓取 Booking.com 的酒店定价数据</title>
-      <link>https://www.reddit.com/r/programming/comments/184x42x/how_to_scrape_bookingcom_for_hotel_pricing_data/</link>
-      <description><![CDATA[ 由   提交/u/TheLostWanderer47  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/184x42x/how_to_scrape_bookingcom_for_hotel_pricing_data/</guid>
-      <pubDate>Mon, 27 Nov 2023 07:09:38 GMT</pubDate>
+      <title>建立免疫授权：医疗保健应用程序中的 AppSec</title>
+      <link>https://www.reddit.com/r/programming/comments/18541sk/building_immune_authorization_appsec_in/</link>
+      <description><![CDATA[ 由   提交/u/odd_sherlock  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/18541sk/building_immune_authorization_appsec_in/</guid>
+      <pubDate>Mon, 27 Nov 2023 14:21:26 GMT</pubDate>
     </item>
     <item>
-      <title>综合 Python 备忘单</title>
-      <link>https://www.reddit.com/r/programming/comments/184wamq/comprehensive_python_cheatsheet/</link>
-      <description><![CDATA[ 由   提交 /u/Enrique-M   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/184wamq/comprehensive_python_cheatsheet/</guid>
-      <pubDate>Mon, 27 Nov 2023 06:16:24 GMT</pubDate>
+      <title>Google 云端硬盘文件突然消失 - 用户报告数据丢失 - Cyber​​ Kendra</title>
+      <link>https://www.reddit.com/r/programming/comments/1853v25/google_drive_files_suddenly_disappeared_users/</link>
+      <description><![CDATA[ 由   提交/u/geek_noob  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1853v25/google_drive_files_suddenly_disappeared_users/</guid>
+      <pubDate>Mon, 27 Nov 2023 14:12:40 GMT</pubDate>
     </item>
     <item>
-      <title>优化 ColdFusion 开发：深入探讨 DevOps 实践</title>
-      <link>https://www.reddit.com/r/programming/comments/184v9i6/optimizing_coldfusion_development_a_dive_into/</link>
-      <description><![CDATA[ 由   提交/u/Lucid-Outsource  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/184v9i6/optimizing_coldfusion_development_a_dive_into/</guid>
-      <pubDate>Mon, 27 Nov 2023 05:13:15 GMT</pubDate>
+      <title>Bryan Cantrill 和朋友谈企业 OSS 反模式</title>
+      <link>https://www.reddit.com/r/programming/comments/1853mru/bryan_cantrill_friends_on_corporate_oss/</link>
+      <description><![CDATA[ 由   提交/u/swdevtest  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1853mru/bryan_cantrill_friends_on_corporate_oss/</guid>
+      <pubDate>Mon, 27 Nov 2023 14:01:56 GMT</pubDate>
     </item>
     <item>
-      <title>码头工人的诅咒</title>
-      <link>https://www.reddit.com/r/programming/comments/184t3gu/the_curse_of_docker/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/184t3gu/the_curse_of_docker/</guid>
-      <pubDate>Mon, 27 Nov 2023 03:14:05 GMT</pubDate>
+      <title>无服务器速度：AWS Lambda 函数中的 Rust 与 Go、Java 和 Python</title>
+      <link>https://www.reddit.com/r/programming/comments/1853igm/serverless_speed_rust_vs_go_java_and_python_in/</link>
+      <description><![CDATA[ 由   提交/u/pmz   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1853igm/serverless_speed_rust_vs_go_java_and_python_in/</guid>
+      <pubDate>Mon, 27 Nov 2023 13:56:24 GMT</pubDate>
     </item>
     <item>
-      <title>通过 Swift 模块进行本机 Emacs/macOS UX 集成</title>
-      <link>https://www.reddit.com/r/programming/comments/184t2ww/native_emacsmacos_ux_integrations_via_swift/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/184t2ww/native_emacsmacos_ux_integrations_via_swift/</guid>
-      <pubDate>Mon, 27 Nov 2023 03:13:20 GMT</pubDate>
+      <title>我刚刚从一家初创公司转变为一家独角兽公司，并成为一名更好的工程师</title>
+      <link>https://www.reddit.com/r/programming/comments/1852w79/i_just_switched_from_a_startup_to_a_unicorn_and/</link>
+      <description><![CDATA[ 由   提交/u/shift_devs  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1852w79/i_just_switched_from_a_startup_to_a_unicorn_and/</guid>
+      <pubDate>Mon, 27 Nov 2023 13:25:03 GMT</pubDate>
     </item>
     <item>
-      <title>RISC-V Ox64 BL808 SBC：NuttX 应用程序和初始 RAM 磁盘</title>
-      <link>https://www.reddit.com/r/programming/comments/184t2ae/riscv_ox64_bl808_sbc_nuttx_apps_and_initial_ram/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/184t2ae/riscv_ox64_bl808_sbc_nuttx_apps_and_initial_ram/</guid>
-      <pubDate>Mon, 27 Nov 2023 03:12:31 GMT</pubDate>
+      <title>.NET 8：身份验证和授权的新增功能</title>
+      <link>https://www.reddit.com/r/programming/comments/1852sp3/net_8_whats_new_for_authentication_and/</link>
+      <description><![CDATA[ 由   提交 /u/robertinoc   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1852sp3/net_8_whats_new_for_authentication_and/</guid>
+      <pubDate>Mon, 27 Nov 2023 13:20:11 GMT</pubDate>
     </item>
     <item>
-      <title>SysXCHG：使用自适应系统调用过滤器细化权限</title>
-      <link>https://www.reddit.com/r/programming/comments/184t1r0/sysxchg_refining_privilege_with_adaptive_system/</link>
-      <description><![CDATA[ 由   提交 /u/ketralnis   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/184t1r0/sysxchg_refining_privilege_with_adaptive_system/</guid>
-      <pubDate>Mon, 27 Nov 2023 03:11:49 GMT</pubDate>
+      <title>Clerk 与 NextAuth：使用哪一种以及何时使用？</title>
+      <link>https://www.reddit.com/r/programming/comments/1852mf3/clerk_vs_nextauth_which_one_to_use_and_when/</link>
+      <description><![CDATA[ 由   提交/u/Nouman-Rahman   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1852mf3/clerk_vs_nextauth_which_one_to_use_and_when/</guid>
+      <pubDate>Mon, 27 Nov 2023 13:11:09 GMT</pubDate>
     </item>
     <item>
-      <title>风格冻结</title>
-      <link>https://www.reddit.com/r/programming/comments/184t16p/freezing_in_style/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/184t16p/freezing_in_style/</guid>
-      <pubDate>Mon, 27 Nov 2023 03:11:04 GMT</pubDate>
+      <title>2023 年最佳 IaC 工具</title>
+      <link>https://www.reddit.com/r/programming/comments/1851wi3/the_best_iac_tool_in_2023/</link>
+      <description><![CDATA[ 由   提交 /u/howhendew   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1851wi3/the_best_iac_tool_in_2023/</guid>
+      <pubDate>Mon, 27 Nov 2023 12:30:49 GMT</pubDate>
     </item>
     <item>
-      <title>了解深度学习（全班）</title>
-      <link>https://www.reddit.com/r/programming/comments/184t0jx/understanding_deep_learning_full_class/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/184t0jx/understanding_deep_learning_full_class/</guid>
-      <pubDate>Mon, 27 Nov 2023 03:10:18 GMT</pubDate>
+      <title>“招募优秀开发人员的新方法”</title>
+      <link>https://www.reddit.com/r/programming/comments/1851s2p/a_new_approach_to_recruit_good_developers/</link>
+      <description><![CDATA[ 由   提交 /u/Velsen1   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1851s2p/a_new_approach_to_recruit_good_developers/</guid>
+      <pubDate>Mon, 27 Nov 2023 12:23:52 GMT</pubDate>
     </item>
     <item>
-      <title>2023 年波恩拖船大会上的 LaTeX 演讲</title>
-      <link>https://www.reddit.com/r/programming/comments/184szny/latex_talks_from_the_tug_conference_2023_in_bonn/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/184szny/latex_talks_from_the_tug_conference_2023_in_bonn/</guid>
-      <pubDate>Mon, 27 Nov 2023 03:09:03 GMT</pubDate>
+      <title>使用 Go 安全地存储密码 [pt-br]</title>
+      <link>https://www.reddit.com/r/programming/comments/1851hod/armazenando_senhas_de_forma_segura_com_go_ptbr/</link>
+      <description><![CDATA[ 由   提交/u/robsongomes84  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1851hod/armazenando_senhas_de_forma_segura_com_go_ptbr/</guid>
+      <pubDate>Mon, 27 Nov 2023 12:07:30 GMT</pubDate>
     </item>
     <item>
-      <title>构建 AI 语音助手 SwiftUI 应用程序 | OpenAI GPT4、Whisper 和 TTS API | iOS、macOS 和 VisionOS</title>
-      <link>https://www.reddit.com/r/programming/comments/184qgtt/build_an_ai_voice_assistant_swiftui_app_openai/</link>
-      <description><![CDATA[ 由   提交 /u/alfianlo   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/184qgtt/build_an_ai_voice_assistant_swiftui_app_openai/</guid>
-      <pubDate>Mon, 27 Nov 2023 01:05:38 GMT</pubDate>
+      <title>Pororoca - Postman 和 Insomnia 的替代品，支持 HTTP/2 和 HTTP/3</title>
+      <link>https://www.reddit.com/r/programming/comments/18515dn/pororoca_alternative_to_postman_and_insomnia_with/</link>
+      <description><![CDATA[ 由   提交/u/macrohard_certified  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/18515dn/pororoca_alternative_to_postman_and_insomnia_with/</guid>
+      <pubDate>Mon, 27 Nov 2023 11:47:09 GMT</pubDate>
     </item>
     <item>
-      <title>Java 工程：摘要 #4</title>
-      <link>https://www.reddit.com/r/programming/comments/184psk4/engineering_with_java_digest_4/</link>
-      <description><![CDATA[ 由   提交/u/Educational-Ad2036   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/184psk4/engineering_with_java_digest_4/</guid>
-      <pubDate>Mon, 27 Nov 2023 00:34:43 GMT</pubDate>
+      <title>Spring Boot 3.2 与 Java 21、虚拟线程、Spring Security、PostgreSQL、Flyway、缓存、Micrometer、Opentelemetry、JUnit 5、RabbitMQ、Keycloak 集成等的综合指南！</title>
+      <link>https://www.reddit.com/r/programming/comments/18510wr/a_comprehensive_guide_to_spring_boot_32_with_java/</link>
+      <description><![CDATA[ 由   提交/u/jojomtx  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/18510wr/a_comprehensive_guide_to_spring_boot_32_with_java/</guid>
+      <pubDate>Mon, 27 Nov 2023 11:39:32 GMT</pubDate>
     </item>
     <item>
-      <title>工作场所中难相处的开发人员。当其他开发人员告诉您“我不记得/不知道”时，他们确实知道。</title>
-      <link>https://www.reddit.com/r/programming/comments/184ogm1/difficult_developers_at_the_workplace_when_fellow/</link>
-      <description><![CDATA[ 由   提交/u/sumaiaa2000  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/184ogm1/difficult_developers_at_the_workplace_when_fellow/</guid>
-      <pubDate>Sun, 26 Nov 2023 23:35:00 GMT</pubDate>
+      <title>如何将给定的罗马数字转换为其等效的整数值</title>
+      <link>https://www.reddit.com/r/programming/comments/1850nme/how_to_convert_a_given_roman_numeral_to_its/</link>
+      <description><![CDATA[ 由   提交/u/Own-Estate-5717   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1850nme/how_to_convert_a_given_roman_numeral_to_its/</guid>
+      <pubDate>Mon, 27 Nov 2023 11:16:19 GMT</pubDate>
     </item>
     </channel>
 </rss>

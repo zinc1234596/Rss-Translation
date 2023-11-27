@@ -4,7 +4,28 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Mon, 27 Nov 2023 12:20:11 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Nov 2023 15:11:46 GMT</lastBuildDate>
+    <item>
+      <title>AI 每周摘要（11 月 20 日至 11 月 27 日）</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1854p3n/ai_weekly_rundown_november_20_to_november_27/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1854p3n/ai_weekly_rundown_november_20_to_november_27/</guid>
+      <pubDate>Mon, 27 Nov 2023 14:50:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能可以预测下一次大规模的流氓浪潮何时会袭来</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1853zna/ai_can_predict_when_massive_rogue_waves_will/</link>
+      <description><![CDATA[完整文章 - 人工智能可以预测下一次大规模流氓浪潮何时袭击 链接到《PNAS》杂志 ​  论文于 11 月 20 日发表在《PNAS》杂志上Häfner 和同事绘制了产生异常波浪的变量图，并使用人工智能将它们整理成一个模型，该模型可以确定异常波浪形成的可能性。  根据该论文，该团队使用历史波浪数据训练了一个神经网络。这就产生了一个系统，它可以自行了解异常波浪的原因，并可以预测异常波浪可能发生的时间和地点。  但是人工智能的方法被隐藏在黑匣子中——这意味着科学家无法判断人工智能是如何运作的。因此，Häfner 的团队应用了符号回归，这是机器学习的另一种形式，它在输入数据时生成一个方程，而不仅仅是一个预测，从而帮助研究人员了解人工智能如何实现其预测。  ​   由   提交 /u/spacedotc0m   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1853zna/ai_can_predict_when_massive_rogue_waves_will/</guid>
+      <pubDate>Mon, 27 Nov 2023 14:18:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>Keras 3.0 中令人兴奋的更新：多后端支持、性能优化等等！</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1851vc9/exciting_updates_in_keras_30_multibackend_support/</link>
+      <description><![CDATA[Keras 3.0 已经到来，它将给人工智能开发带来巨大的变化。  以下是关键更新： - 多后端支持：Keras 3.0 现在桥接 TensorFlow、JAX 和 PyTorch，允许您在它们之间无缝切换，而无需重写你的代码。这意味着您可以使用每个框架中的最佳工具来完成特定任务。此外，它还支持每个后端的低级训练循环，确保灵活性和易用性。 - 使用 XLA 提升性能： Keras 3.0 默认使用 XLA（加速线性代数）编译、优化计算以在 GPU 和 TPU 上更快地执行。它会智能地为您的 AI 模型选择最佳后端，以最大限度地提高效率。 - 扩展的生态系统：您现在可以将 Keras 模型用作 PyTorch 模块、TensorFlow SavedModel，或在 JAX 的 TPU 训练中使用基础设施。这打开了一个充满可能性的世界，利用了每个框架的优势。 - 跨框架低级语言： 引入 keras_core.ops - 统一的命名空间它允许您编写一次自定义操作并在不同的框架中使用它们。它不仅仅是“类似 NumPy”；而是“类似 NumPy”。它是 NumPy API 的近乎完整实现，加上神经网络特定的函数。 - 复杂性的渐进式披露： Keras 3.0 的设计初衷是对初学者用户友好，而逐步为经验丰富的开发人员引入高级特性和底层功能。 - 核心组件的无状态 API： 符合 JAX 的无状态原则，Keras 3.0 的层、模型、指标，优化器现在被设计为无状态的，从而增强了人工智能开发的兼容性和效率。 在此处阅读全文：https://medium.com/aiguys/unifying-dl-frameworks-with-keras-3-0-296c6df29ee8谢谢   由   提交 /u/Difficult-Race-1188   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1851vc9/exciting_updates_in_keras_30_multibackend_support/</guid>
+      <pubDate>Mon, 27 Nov 2023 12:29:05 GMT</pubDate>
+    </item>
     <item>
       <title>DocDecoder：一个用 GPT-4 总结法律政策的 Chrome 扩展</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1850uwg/docdecoder_a_chrome_extension_that_summarises/</link>
@@ -34,18 +55,11 @@
       <pubDate>Mon, 27 Nov 2023 09:39:29 GMT</pubDate>
     </item>
     <item>
-      <title>生成式人工智能的兴起：机器如何变得富有创造力</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/184x6m1/the_rise_of_generative_ai_how_machines_are/</link>
-      <description><![CDATA[生成式人工智能简介生成式人工智能是一个快速发展的人工智能领域，专注于创建可以生成新内容的系统，例如图像、音乐、文本，甚至整个虚拟世界。这项技术能够创造出可以模仿人类创造力的新颖独特的内容。 生成式人工智能的主要目标是使机器能够产生与人类创造的内容无法区分的高质量输出。这可以通过使用大型数据集训练模型来实现，这使它们能够学习模式并根据这些模式生成新内容。 https://www.seaflux.tech/blogs/generative-ai-industry-scope  &amp;# 32；由   提交/u/krunal_bhimani_   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/184x6m1/the_rise_of_generative_ai_how_machines_are/</guid>
-      <pubDate>Mon, 27 Nov 2023 07:14:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>预测人工智能</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/184wfay/predictive_ai/</link>
-      <description><![CDATA[这可能吗？使用数据？体育博彩预测人工智能有效吗？看到这篇文章，我不明白这是怎么可能的 - https://www.lifebonuscode。 com/understanding-predictive-ai-in-sports-betting/   由   提交 /u/PokerPlayer42069   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/184wfay/predictive_ai/</guid>
-      <pubDate>Mon, 27 Nov 2023 06:24:22 GMT</pubDate>
+      <title>龙与地下城与人工智能- 骑士文摘的一篇文章</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/184vuz2/dungeons_dragons_ai_an_article_from_knights_digest/</link>
+      <description><![CDATA[我想分享这篇文章：https: //knightsdigest.com/dungeons-dragons-a-i/ 利用 ChatGPT 和其他 AI 技术已成为我的活动策略不可或缺的一部分，显着增强了参与者的整体体验。事实证明，这些工具的多功能性和适应性对于为每个参与者创造一个更具吸引力和愉快的环境具有无价的价值。通过利用人工智能的力量，我能够将创新和互动元素无缝集成到活动中，使其超越传统界限。ChatGPT 生成创意和上下文相关内容的能力不仅简化了沟通，还注入了活力以及个性化的互动方式。这增强了参与者之间的联系感和共鸣，使该活动不仅仅是一系列活动，而是一次充满活力和身临其境的体验。人工智能能够熟练地理解和响应各种问题，确保参与者感到被倾听和参与，从而在整个活动中营造积极的氛围。此外，人工智能的结合可以进行高效的数据分析，使我能够获得有关参与者偏好、关注点的宝贵见解，以及反馈。这种数据驱动的方法使我能够定制未来的活动元素，以更好地符合受众的兴趣，创造更具响应性和以参与者为中心的体验。本质上，ChatGPT 和其他人工智能工具的使用不仅扩大了范围我的竞选活动的一部分，但也彻底改变了参与者互动和感知事件的方式。这证明了尖端技术在提高活动整体质量和乐趣方面的变革潜力，为活动管理领域更加动态和互动的未来铺平了道路。 &lt;!-- SC_ON - -&gt;  由   提交/u/sawyerbo   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/184vuz2/dungeons_dragons_ai_an_article_from_knights_digest/</guid>
+      <pubDate>Mon, 27 Nov 2023 05:49:55 GMT</pubDate>
     </item>
     <item>
       <title>我希望人工智能抢走我们的工作</title>
@@ -55,13 +69,6 @@
       <pubDate>Mon, 27 Nov 2023 01:57:56 GMT</pubDate>
     </item>
     <item>
-      <title>艾和纹身？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/184njy8/ai_and_tattooing/</link>
-      <description><![CDATA[是的。这是一件事。我是一名纹身师，我展示了如何在我的工作中使用人工智能。  https://youtu.be/IVgfBTFMVqA?si=YR9YAe6P_XXgVUab   由   提交/u/benhameen1911   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/184njy8/ai_and_tattooing/</guid>
-      <pubDate>Sun, 26 Nov 2023 22:56:23 GMT</pubDate>
-    </item>
-    <item>
       <title>AI 女友每月收入 11,000 美元</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/184hdu1/ai_girlfriend_making_11000_per_month/</link>
       <description><![CDATA[一家模特公司制作了一位虚拟模特，该模特在 Instagram 上积累了大量粉丝，并带来了可观的赞助收入。 （来源） 获取加入增长最快的人工智能新闻通讯之一，了解最新的人工智能发展、工具和用例。加入10000+专业人士变得更聪明的行列 进入元宇宙  西班牙机构利用人工智能制作了 25 岁的 Aitana López。 &lt; li&gt;这是一个由男人 Rubeñ Cruz 创建的 AI 女孩 粉红色头发的虚拟模特有 12.4 万名 Instagram 粉丝。 通过公司创建自己的个性和背景故事。  赢得赞助交易  每月从品牌交易中赚取高达 10,000 欧元（11,000 美元）。 弥补每个赞助帖子 1,000 欧元（1.1 万美元）。 被视为解决与人才合作的问题。  人工智能影响者的崛起&lt; /p&gt;  人工智能模型在社交媒体上获得关注。 还在成人创作者平台上取得成功。 有人预测它们很快就会像人类一样受欢迎.  如果您想先于其他人获得最新的人工智能更新先看这里   由   提交 /u/saffronfan   [链接] [评论]]]></description>
@@ -69,16 +76,9 @@
       <pubDate>Sun, 26 Nov 2023 18:37:16 GMT</pubDate>
     </item>
     <item>
-      <title>你已经创造了 AGI！你的第一个提示是什么？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/184fs6g/youve_made_agi_whats_your_first_prompt/</link>
-      <description><![CDATA[对，你已经破解了它，你绝对是传奇。我猜想，在经历了无数个夜晚，喝了过量的咖啡因，甚至可能还有些疯狂之后，你已经把自己变成了 AGI——通用人工智能，毫不逊色！现在，别着急，先别去预订诺贝尔奖颁奖典礼的门票。有一个重要的问题需要思考：你要问这个技术奇迹的第一件事是什么？这不是普通的 Siri 或 Alexa 查询，例如“天气怎么样？”或“播放一些气氛音乐”。不，不。这就是大联盟。对您的数字普罗米修斯说的第一句话。这会是一个深刻的哲学问题吗？请求解决世界饥饿？或者也许只是为了最终解决关于菠萝是否属于披萨的争论（剧透：不属于）。分享你的想法、你的希望、你的梦想，或许还有你的恐惧。 AGI 的第一个提示是什么？   由   提交 /u/angusthecrab   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/184fs6g/youve_made_agi_whats_your_first_prompt/</guid>
-      <pubDate>Sun, 26 Nov 2023 17:26:25 GMT</pubDate>
-    </item>
-    <item>
       <title>PodMixt - 获取您最喜爱的播客的个性化剧集</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/184e020/podmixt_get_personalized_episodes_of_your/</link>
-      <description><![CDATA[我喜欢听播客，但我发现很难听完 3 小时的 Lex Fridman 播客。不久前，我发布了一个基于文本的播客摘要工具。使用该工具后，我意识到我仍然更喜欢听一些东西而不是阅读它们。就在那时我意识到形式很重要。这导致我构建了 https://www.podmixt.com/。您必须选择您感兴趣的播客，然后每当有新内容发布时，我们都会为您提供个性化的剧集。自动将它们添加到您最喜欢的播客播放器上。 可以免费试用 7 天，并且可以随时取消。请访问 https://www.podmixt.com/ 查看。 如果我们错过了任何你去播客吧，lmk，我会尽力将它们添加进去。   由   提交/u/buckbuckyyy   [链接] [评论]]]></description>
+      <description><![CDATA[我喜欢听播客，但我发现很难听完 3 小时的 Lex Fridman 播客。不久前，我发布了一个基于文本的播客摘要工具。使用该工具后，我意识到我仍然更喜欢听一些东西而不是阅读它们。就在那时我意识到模式很重要。这导致我构建了 https://www.podmixt.com/。您必须选择您感兴趣的播客，然后每当有新内容发布时，我们都会为您提供个性化的剧集。自动将它们添加到您最喜欢的播客播放器上。 可以免费试用 7 天，并且可以随时取消。请访问 https://www.podmixt.com/ 查看。 如果我们错过了任何你去播客吧，lmk，我会尽力将它们添加进去。   由   提交/u/buckbuckyyy   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/184e020/podmixt_get_personalized_episodes_of_your/</guid>
       <pubDate>Sun, 26 Nov 2023 16:08:11 GMT</pubDate>
     </item>
@@ -106,7 +106,7 @@
     <item>
       <title>重要提示：请求有关 subreddit 规则和未来方向的评论。请阅读！</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</link>
-      <description><![CDATA[欢迎来到r/ArtificialIntelligence！&lt; /p&gt; 我们的目标是为所有与人工智能有关的事物提供一个开放且相互尊重的论坛 - 这包括  促进有关人工智能的哲学和伦理讨论 服务作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用 提供培训和学习资源&lt; /li&gt; 引导用户访问更具体的信息和子版块 列出 AI/ML 应用程序、其用途、成本和访问信息 其他与 AI 相关的内容。  li&gt; ...以及更多  该子项目的审核团队正在进行重组，这将导致该子项目发生一些变化。不过，不必担心，这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解情况并能够提供反馈，我们将提供多次反馈更改的机会。 第一轮反馈收集是通过此线程作为“Request-For-”评论” (RFC)，这是收集反馈的标准方法。随着变更的准备和实施，RFC 流程将进行多轮。 ​  发布新申请/自我推销/AI 生成的规则content  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似的内容将被阻止或限制在特定的粘帖中。 人工智能生成的特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的粘帖中。 博客链接应包含高质量的内容。链接到纯粹促销博客的帖子将被删除。 仅包含链接的帖子将被禁止，除非包含一定字数的详细信息。必须付出一些努力。 我们应该阻止人工智能撰写的帖子吗？存在可以在 Mod-bot 中使用的模型，但这是我们需要反馈的问题。  使用才华来组织帖子。请注意，已经添加了新的功能，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们会喜欢将社区纳入模组机器人的想法中。虽然一些标准机器人将用于基本维护，但社区可以为 AI/ML 机器人功能想出哪些有趣的东西？ 培养初级、中级和高级资源来帮助人们查找信息，他们正在寻找的培训、模型、技术数据等 启动子堆栈/播客来采访整个人工智能/机器学习领域的人们。这可能包括哲学家和思想家、程序员、科学家、商人，甚至是那些对人工智能持相反观点的人 如果您想创建代表子项目的横幅，请使用适当的尺寸。任何创作方式都可以。  不言而喻，每个人都应该受到尊重。我个人认为我们都知道这一点，不需要把它强加到人们的头脑中。保持友善。 感谢您的耐心和帮助！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
+      <description><![CDATA[欢迎来到r/ArtificialIntelligence！&lt; /p&gt; 我们的目标是为所有与人工智能有关的事物提供一个开放且相互尊重的论坛 - 这包括  促进有关人工智能的哲学和伦理讨论 服务作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用 提供培训和学习资源&lt; /li&gt; 引导用户访问更具体的信息和子版块 列出 AI/ML 应用程序、其用途、成本和访问信息 其他与 AI 相关的内容。  li&gt; ...以及更多  该子项目的审核团队正在进行重组，这将导致该子项目发生一些变化。不过，不必担心，这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解情况并能够提供反馈，我们将提供多次反馈更改的机会。 第一轮反馈收集是通过此线程作为“Request-For-”评论” (RFC)，这是收集反馈的标准方法。随着变更的准备和实施，RFC 流程将进行多轮。 ​  发布新申请/自我推销/AI 生成的规则content  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似的内容将被阻止或限制在特定的粘帖中。 人工智能生成的特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的粘帖中。 博客链接应包含高质量的内容。链接到纯粹促销博客的帖子将被删除。 仅包含链接的帖子将被禁止，除非包含一定字数的详细信息。必须付出一些努力。 我们应该阻止人工智能撰写的帖子吗？存在可以在 Mod-bot 中使用的模型，但这是我们需要反馈的问题。  使用天赋来组织帖子。请注意，已经添加了新的功能，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们会喜欢将社区纳入模组机器人的想法中。虽然一些标准机器人将用于基本维护，但社区可以为 AI/ML 机器人功能想出哪些有趣的东西？ 培养初级、中级和高级资源来帮助人们查找信息，他们正在寻找的培训、模型、技术数据等 启动子堆栈/播客来采访整个人工智能/机器学习领域的人们。这可能包括哲学家和思想家、程序员、科学家、商人，甚至是那些对人工智能持相反观点的人 如果您想创建代表子项目的横幅，请使用适当的尺寸。任何创作方式都可以。  不言而喻，每个人都应该受到尊重。我个人认为我们都知道这一点，不需要把它强加到人们的头脑中。保持友善。 感谢您的耐心和帮助！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</guid>
       <pubDate>Sun, 15 Jan 2023 20:24:42 GMT</pubDate>
     </item>
