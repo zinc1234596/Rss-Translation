@@ -4,27 +4,48 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Mon, 27 Nov 2023 00:50:38 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Nov 2023 03:12:37 GMT</lastBuildDate>
+    <item>
+      <title>SysXCHG：使用自适应系统调用过滤器细化权限</title>
+      <link>https://www.reddit.com/r/programming/comments/184t1r0/sysxchg_refining_privilege_with_adaptive_system/</link>
+      <description><![CDATA[ 由   提交 /u/ketralnis   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/184t1r0/sysxchg_refining_privilege_with_adaptive_system/</guid>
+      <pubDate>Mon, 27 Nov 2023 03:11:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>风格冻结</title>
+      <link>https://www.reddit.com/r/programming/comments/184t16p/freezing_in_style/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/184t16p/freezing_in_style/</guid>
+      <pubDate>Mon, 27 Nov 2023 03:11:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>了解深度学习（全班）</title>
+      <link>https://www.reddit.com/r/programming/comments/184t0jx/understanding_deep_learning_full_class/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/184t0jx/understanding_deep_learning_full_class/</guid>
+      <pubDate>Mon, 27 Nov 2023 03:10:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>2023 年波恩拖船大会上的 LaTeX 演讲</title>
+      <link>https://www.reddit.com/r/programming/comments/184szny/latex_talks_from_the_tug_conference_2023_in_bonn/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/184szny/latex_talks_from_the_tug_conference_2023_in_bonn/</guid>
+      <pubDate>Mon, 27 Nov 2023 03:09:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>构建 AI 语音助手 SwiftUI 应用程序 | OpenAI GPT4、Whisper 和 TTS API | iOS、macOS 和 VisionOS</title>
+      <link>https://www.reddit.com/r/programming/comments/184qgtt/build_an_ai_voice_assistant_swiftui_app_openai/</link>
+      <description><![CDATA[ 由   提交 /u/alfianlo   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/184qgtt/build_an_ai_voice_assistant_swiftui_app_openai/</guid>
+      <pubDate>Mon, 27 Nov 2023 01:05:38 GMT</pubDate>
+    </item>
     <item>
       <title>Java 工程：摘要 #4</title>
       <link>https://www.reddit.com/r/programming/comments/184psk4/engineering_with_java_digest_4/</link>
       <description><![CDATA[ 由   提交/u/Educational-Ad2036   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/184psk4/engineering_with_java_digest_4/</guid>
       <pubDate>Mon, 27 Nov 2023 00:34:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>🚀 激动人心的消息：PDF 翻译包发布！</title>
-      <link>https://www.reddit.com/r/programming/comments/184p9z6/exciting_news_pdf_translator_package_released/</link>
-      <description><![CDATA[嘿 r/learn 编程爱好者！  🌐 我刚刚在 packagist.org 上发布了一些令人惊奇的东西，可以使用 PHP shell 命令翻译 PDF 文档。 ✨ 主要功能： 无缝翻译 PDF。 shell 命令支持多语言。轻松 API 集成。 👉 开始使用：  了解一下在 Github 上了解更多信息 了解更多信息在 Packagist.org 上    由   提交/u/richardsonoge  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/184p9z6/exciting_news_pdf_translator_package_released/</guid>
-      <pubDate>Mon, 27 Nov 2023 00:11:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>销售工程师训练营</title>
-      <link>https://www.reddit.com/r/programming/comments/184p2z1/bootcamp_for_sales_engineer/</link>
-      <description><![CDATA[我目前是一家软件公司的客户经理。我的技术并不高，但比其他 AE 强。我想最终转向编程/开发角色。  正在考虑辞掉工作去参加编码训练营。  我知道训练营可能不会立即带来开发工作。因此，我加入的目标是利用它成为一名销售工程师或解决方案顾问，然后继续学习和提高我的编程技能。  免责声明：我现在的公司不投资解决方案顾问或销售工程师，因为它不是技术性最强的产品，而且他们依赖实施顾问。因此，他们不会付钱让我兼职参加新兵训练营。  TLDR：我可以使用训练营作为我是否具备成为解决方案顾问或销售工程师的基本技术知识的标志，然后继续学习和做项目，最终转向软件开发?   由   提交/u/mnmke19  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/184p2z1/bootcamp_for_sales_engineer/</guid>
-      <pubDate>Mon, 27 Nov 2023 00:02:34 GMT</pubDate>
     </item>
     <item>
       <title>工作场所中难相处的开发人员。当其他开发人员告诉您“我不记得/不知道”时，他们确实知道。</title>
@@ -36,7 +57,7 @@
     <item>
       <title>揭秘法学硕士：他们如何做他们没有接受过培训的事情</title>
       <link>https://www.reddit.com/r/programming/comments/184nxtj/demystifying_llms_how_they_can_do_things_they/</link>
-      <description><![CDATA[ 由   提交/u/frantically_unfinish  [链接] [评论]]]></description>
+      <description><![CDATA[ 由   提交/u/frantically_unfinish   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/184nxtj/demystifying_llms_how_they_can_do_things_they/</guid>
       <pubDate>Sun, 26 Nov 2023 23:12:12 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/184jkx4/the_leadership_myth_in_replicated_databases/</guid>
       <pubDate>Sun, 26 Nov 2023 20:13:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>拦截器也是函数</title>
-      <link>https://www.reddit.com/r/programming/comments/184jkkh/interceptors_are_functions_too/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/184jkkh/interceptors_are_functions_too/</guid>
-      <pubDate>Sun, 26 Nov 2023 20:12:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>Apple 开发人员如何在 90 年代刷新 Mac ROM</title>
-      <link>https://www.reddit.com/r/programming/comments/184jkaa/how_apples_developers_reflashed_mac_roms_in_the/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/184jkaa/how_apples_developers_reflashed_mac_roms_in_the/</guid>
-      <pubDate>Sun, 26 Nov 2023 20:12:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>JOIN的很多解释都是错误的，让人一头雾水</title>
-      <link>https://www.reddit.com/r/programming/comments/184jjmz/many_explanations_of_join_are_wrong_and_people/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/184jjmz/many_explanations_of_join_are_wrong_and_people/</guid>
-      <pubDate>Sun, 26 Nov 2023 20:11:35 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Mon, 27 Nov 2023 00:44:27 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Nov 2023 03:05:08 GMT</lastBuildDate>
     <item>
-      <title>[媒体] 联合国文明古国大学</title>
-      <link>https://t.me/hn_summary/60873</link>
-      <description><![CDATA[Unciv
-Unciv 是针对 Android 和桌面平台的 Civilization V 的开源、模组友好重制版。该项目旨在提供一款小型、快速、可修改且有深度的 4X 游戏，可以在低端设备上运行。该路线图包括完善游戏、实现原版游戏的机制以及《诸神与国王》和《美丽新世界》扩展包。该项目欢迎程序员、翻译者和模组作者的贡献。作者通过强调其可修改性、小尺寸以及在低端设备上运行的能力来区分该项目。由于各种原因，该项目不打算在 iOS 或 Steam 上发布。该项目的合法性尚不确定，但作者提到知识产权不适用于游戏机制。]]></description>
-      <guid>https://t.me/hn_summary/60873</guid>
-      <pubDate>Mon, 27 Nov 2023 00:44:27 GMT</pubDate>
+      <title>2023 年波恩拖船大会上的 LaTeX 演讲</title>
+      <link>https://t.me/hn_summary/60890</link>
+      <description><![CDATA[2023 年波恩拖船大会 LaTeX 演讲&lt; br/&gt;
+2023 年波恩 TUG 会议是一次混合会议，所有演讲均进行录制和直播。录音已经过编辑，现在可以在 YouTube 上观看。有 30 个关于与 TeX、LaTeX 和其他主题相关的各种主题的讲座。如果您错过了会议或想重新观看演讲，可以在 YouTube 上的 TeX 用户组频道上找到它们。值得注意的是，LaTeX 项目团队的成员也进行了演讲。享受！]]></description>
+      <guid>https://t.me/hn_summary/60890</guid>
+      <pubDate>Mon, 27 Nov 2023 03:05:08 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]打造您自己的 Hi-Fi 护耳器</title>
-      <link>https://t.me/hn_summary/60872</link>
-      <description><![CDATA[打造您自己的 Hi-Fi 护耳器
-本文作者讨论了他们创建自己的高保真护耳器的历程。他们想要一种解决方案，既能保护他们的听力，又能让他们清晰地听到自己、乐队成员和观众的声音。经过多次迭代和设计，他们决定采用 DIY 解决方案，将环境麦克风放置在隔音耳机的外部。他们面临麦克风削波和嘶嘶声的挑战，但最终找到了麦克风和音频编解码器芯片的正确组合来消除这些问题。作者最后指出，只要花费一些时间和不到 100 美元的预算，任何人都可以创建自己的定制一套高质量护耳器。]]></description>
-      <guid>https://t.me/hn_summary/60872</guid>
-      <pubDate>Mon, 27 Nov 2023 00:11:12 GMT</pubDate>
+      <title>[媒体] Pixel 8 Pro 用户抱怨显示屏凸起</title>
+      <link>https://t.me/hn_summary/60889</link>
+      <description><![CDATA[Pixel 8 Pro 用户抱怨显示屏凸起
+Google Pixel 8 Pro 用户一直抱怨手机显示屏上出现奇怪的圆形凸起。谷歌已经承认了这个问题，并表示这些凸起是设备组件的压痕，不会影响手机的性能或耐用性。虽然这些凸起不是很明显，并且仅在显示屏关闭的特定照明条件下出现，但一些用户担心随着时间的推移，问题可能会恶化。目前尚不清楚谷歌是否会更换受此问题影响的设备。尽管存在显示问题，Mashable 的评测者仍然认为 Pixel 8 Pro 是一款令人惊叹的手机。此外，Pixel 8 Pro 还提供黑色星期五优惠，最高可节省 549 美元。]]></description>
+      <guid>https://t.me/hn_summary/60889</guid>
+      <pubDate>Mon, 27 Nov 2023 02:50:58 GMT</pubDate>
     </item>
     <item>
-      <title>字体锻造</title>
-      <link>https://t.me/hn_summary/60871</link>
-      <description><![CDATA[FontForge
-FontForge 是一款功能强大且多功能的字体编辑器，允许用户创建、编辑和转换字体。凭借其用户友好的界面和广泛的功能，FontForge 成为设计师、印刷师和字体爱好者的热门选择。无论您是初学者还是经验丰富的专业人士，FontForge 都提供广泛的工具和功能来帮助您将创意愿景变为现实。从设计自定义字符到调整字距和间距，FontForge 拥有创建令人惊叹且独特的字体所需的一切。那为什么还要等呢？单击链接，立即开始与 FontForge 一起探索版式世界！]]></description>
-      <guid>https://t.me/hn_summary/60871</guid>
-      <pubDate>Sun, 26 Nov 2023 23:42:57 GMT</pubDate>
+      <title>风格冻结</title>
+      <link>https://t.me/hn_summary/60888</link>
+      <description><![CDATA[风格冻结
+作者讨论了他们为 Plasma 的 Wayland 会话开发“KWin Killer Helper”的经验。他们提到与 X 相比，Wayland 中缺少终止无响应应用程序的提示，以及他们如何花了三个晚上让助手在 Wayland 上工作。他们还提到改进助手的用户界面。作者解释了他们在将帮助程序附加到冻结的应用程序窗口时遇到的挑战，以及他们如何使用 XDG 外部协议来实现此目的。他们还讨论了 KillPrompt 类的使用以及他们对提示设计所做的更改。作者最后强调了开发该功能所付出的努力，并鼓励读者为 Plasma 6 筹款活动捐款。]]></description>
+      <guid>https://t.me/hn_summary/60888</guid>
+      <pubDate>Mon, 27 Nov 2023 02:46:49 GMT</pubDate>
     </item>
     <item>
-      <title>问 HN：您是否通过使用 HN 结识了现实生活中的朋友？</title>
-      <link>https://t.me/hn_summary/60870</link>
-      <description><![CDATA[询问 HN：您是否通过使用 HN 结识了 IRL 朋友？
-作者 Hardkorebob 在 news.ycombinator 上向社区提出了一个问题。 com，询问是否有人通过使用该网站结识了现实生活中的朋友。作者称自己为“常驻怪人”，为帖子增添了一丝幽默感。作者还对这种幸运联系的可能性表示好奇。帖子以友好的问候结束，祝大家周日/周一快乐。]]></description>
-      <guid>https://t.me/hn_summary/60870</guid>
-      <pubDate>Sun, 26 Nov 2023 23:15:43 GMT</pubDate>
+      <title>[媒体]美国证券交易委员会对 OpenAI 首席执行官奥特曼和微软首席执行官纳德拉展开调查</title>
+      <link>https://t.me/hn_summary/60887</link>
+      <description><![CDATA[美国证券交易委员会对 OpenAI 首席执行官奥特曼和微软首席执行官纳德拉展开调查
+科技界充斥着 SEC 可能对 OpenAI 首席执行官萨姆·奥尔特曼 (Sam Altman) 和微软首席执行官萨蒂亚·纳德拉 (Satya Nadella) 进行调查的消息。此次调查源于微软 2019 年对 OpenAI 的一项颇具争议的投资，批评人士认为，这让微软对这家非营利研究公司拥有了过多的控制权。有关恩惠交易的指控围绕着 Altman 和微软自投资以来达成的交易，包括 OpenAI 知识产权的永久许可以及向 Altman 提供工作机会。虽然美国证券交易委员会尚未对这些指控发表评论，但专家认为他们可能有兴趣调查此事。这些指控引发了人们对 OpenAI 与微软关系道德的担忧，并可能对科技行业产生重大影响。]]></description>
+      <guid>https://t.me/hn_summary/60887</guid>
+      <pubDate>Mon, 27 Nov 2023 02:43:37 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 一名圣物猎人之死</title>
-      <link>https://t.me/hn_summary/60869</link>
-      <description><![CDATA[圣物猎人之死
-这篇文章讨论了亚特兰大历史学会的文物猎人兼馆长比尔·厄奎特的生与死。厄奎特收集内战文物，并因其收藏而声名狼藉，其中包括一面被盗的南部邦联战旗。这面旗帜最终在厄奎特死后被发现，藏在他的地下室里。这篇文章探讨了文物狩猎的世界以及围绕它的争议，其中一些人将文物猎人与掠夺者进行了比较。厄奎特以对狩猎场的占有而闻名，他经常相信在这些地区发现的任何东西都属于他。这篇文章深入了解了文物猎人的生活和心态。]]></description>
-      <guid>https://t.me/hn_summary/60869</guid>
-      <pubDate>Sun, 26 Nov 2023 23:08:35 GMT</pubDate>
+      <title>[媒体]我调查了马科斯家族的罪行——并且喜欢《爱在这里》</title>
+      <link>https://t.me/hn_summary/60886</link>
+      <description><![CDATA[我调查了马科斯家族的罪行 - 并喜欢《这里是爱》 &#39;
+作者刘易斯·西蒙斯 (Lewis M. Simons) 回顾了他调查菲律宾前第一对夫妇伊梅尔达·马科斯 (Imelda Marcos) 和费迪南德·马科斯 (Ferdinand Marcos) 罪行的经历。他从未想象过有一天他会观看一部关于马科斯家族的百老汇音乐剧《爱在这里》。尽管西蒙斯个人厌恶他们，但他还是站起来为扮演马科斯夫妇的演员鼓掌。观众包括经历过马科斯政权的菲律宾人以及其他年龄太小不记得的人。西蒙斯还分享了他自己报道马科斯家族及其最终被推翻的经历。他提到了围绕马科斯家族财富的争议以及帮助揭露这一争议的普利策奖获奖系列文章。 （根据故事文本的 60% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/60886</guid>
+      <pubDate>Mon, 27 Nov 2023 02:38:29 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]思科通过修改交换机来帮助乌克兰防御以应对俄罗斯的攻击</title>
-      <link>https://t.me/hn_summary/60868</link>
-      <description><![CDATA[思科通过修改交换机来帮助乌克兰防御，以应对俄罗斯的攻击
-思科已向乌克兰国有电网运营商 Ukrenergo 提供修改后的交换机，以帮助防御俄罗斯对能源基础设施的网络攻击。这些攻击包括 GPS 干扰策略，破坏对配电和损害评估至关重要的高压能源子系统。思科改进的交换机旨在即使在无线电干扰条件下也能保持准确的时间，从而确保电力子系统的同步。该设备在思科位于德克萨斯州的实验室进行了测试，是免费提供的，并得到五角大楼、美国能源部和商务部的支持。这一举措凸显了俄罗斯与乌克兰冲突不断升级的网络战方面。]]></description>
-      <guid>https://t.me/hn_summary/60868</guid>
-      <pubDate>Sun, 26 Nov 2023 23:04:26 GMT</pubDate>
+      <title>Amazon EFS 现在支持每个文件系统高达 250k IOPS</title>
+      <link>https://t.me/hn_summary/60885</link>
+      <description><![CDATA[Amazon EFS 现在支持每个文件系统高达 250k IOPS
+Amazon EFS 是 AWS 上的一项文件存储服务，已宣布提高其 IOPS（每秒输入/输出操作数）限制。用户现在可以受益于每个文件系统高达 250,000 次读取 IOPS 和高达 50,000 次写入 IOPS。这一改进可满足要求更高的工作负载，包括 AI/ML、数据科学、SaaS 应用程序和媒体处理。更高的 IOPS 限制适用于所有商业 AWS 区域和 AWS GovCloud（美国）区域中使用弹性吞吐量的 EFS 文件系统。此更新为用户在 AWS 上运行 IOPS 密集型文件工作负载时提供了更大的灵活性和性能。]]></description>
+      <guid>https://t.me/hn_summary/60885</guid>
+      <pubDate>Mon, 27 Nov 2023 02:34:20 GMT</pubDate>
     </item>
     <item>
-      <title>SIIG MiniSys S286 小型 PC</title>
-      <link>https://t.me/hn_summary/60867</link>
-      <description><![CDATA[SIIG MiniSys S286 小型电脑
-作者讨论了他们清理 SIIG MiniSys S286 小型 PC 的经验。他们一直在寻找其中一台机器，终于在电子拍卖网站上找到了一台。电脑抵达时在运输过程中存在一些损坏，但这并不影响其运行。然而，原来的镍镉电池已经泄漏，需要更换。笔者更换为1/2AA支架和Tadiran 3.6V锂亚硫酰氯电池。他们还用 128 MB PQI 工业闪存模块替换了硬盘。该 PC 现在可以正确保存时间和 CMOS 设置，并用作运行 DOS 实用程序的小型实用 PC。作者还提到使用 Intel EtherExpress 8/16 以太网卡以及 mTCP 和 Arachne Web 浏览器等各种软件工具。]]></description>
-      <guid>https://t.me/hn_summary/60867</guid>
-      <pubDate>Sun, 26 Nov 2023 22:40:13 GMT</pubDate>
+      <title>Htmx 网环</title>
+      <link>https://t.me/hn_summary/60884</link>
+      <description><![CDATA[Htmx 网环
+htmx.org 网站提供各种不同的服务和平台。 Commspace 被认为是管理和分析财务顾问收入的终极解决方案。 Zorro Management 是一种项目管理工具，有助于跟踪时间和进度。 Contexte 专注于政治生态系统并提供有关各种主题的信息。 ocaml.org 是一种函数式编程语言，优先考虑表现力和安全性。 Nike Vision 提供眼镜产品。 Vanilla Weather 是一项没有广告或跟踪的气象服务。 TurboScribe 旨在以实惠的价格提供人工智能转录。 XRSS 是一个简单的 RSS 阅读器，灵感来自 Google Reader。 OpenUnited 是一个数字人才配对平台。]]></description>
+      <guid>https://t.me/hn_summary/60884</guid>
+      <pubDate>Mon, 27 Nov 2023 02:34:14 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]我们更害怕的是愚蠢的人而不是邪恶的人</title>
-      <link>https://t.me/hn_summary/60866</link>
-      <description><![CDATA[我们更害怕愚蠢的人，而不是邪恶的人
-作者讨论了愚蠢的危险，并认为愚蠢比邪恶更具威胁性。他们强调这样一个事实：与邪恶不同，愚蠢常常被容忍而不被认真对待。愚蠢的人被描述为狡猾的对手，他们不接受理性，在面对事实时变得危险。作者还指出，愚蠢往往与权力相伴，感染了社会很大一部分人。他们认为，愚蠢可能会造成比邪恶更多的伤害，因为它很容易被当权者操纵。作者最后建议，虽然我们可以嘲笑愚蠢的时刻，但当它掌控一切时，我们应该感到担忧。]]></description>
-      <guid>https://t.me/hn_summary/60866</guid>
-      <pubDate>Sun, 26 Nov 2023 22:39:07 GMT</pubDate>
+      <title>[媒体]步行办公桌比站立办公桌更烦人</title>
+      <link>https://t.me/hn_summary/60883</link>
+      <description><![CDATA[步行办公桌比站立办公桌更烦人&lt; br/&gt;
+在这篇文章中，作者讨论了一项独特且有些争议的发明，称为步行办公桌。步行办公桌是一种电动办公桌，允许用户在工作时步行。作者解释说，这张桌子是由乔尔设计的，他用悬浮滑板上的电机替换了轮子，对站立式桌子进行了改造。这张桌子由大量锂聚合物电池供电，甚至还有一个太阳能电池板顶篷，可以在户外时帮助为电池充电。作者指出，虽然步行办公桌是将锻炼融入日常工作的一种有趣方式，但它可能不是最有效的选择。]]></description>
+      <guid>https://t.me/hn_summary/60883</guid>
+      <pubDate>Mon, 27 Nov 2023 02:27:05 GMT</pubDate>
     </item>
     <item>
-      <title>问 HN：如何应对人工智能焦虑？</title>
-      <link>https://t.me/hn_summary/60865</link>
-      <description><![CDATA[问 HN：如何应对人工智能焦虑？ 
-作者是一位三十多岁的开发者，表达了他们对人工智能进步的焦虑，尤其是 ChatGPT 的发布和扩散。他们认为软件开发可能会成为一种毫无意义的技能，并且在未来会被商品化，除非一个人在某个特定领域非常专业。作者担心他们目前的技能是否有能力养活即将出生的孩子。他们考虑最大化收入、投资、获得贸易技能，或者进入更专业的软件工程领域来对抗焦虑。作者就如何应对人工智能焦虑向其他人寻求建议和想法。]]></description>
-      <guid>https://t.me/hn_summary/60865</guid>
-      <pubDate>Sun, 26 Nov 2023 22:38:01 GMT</pubDate>
+      <title>[媒体]世界上最大的冰山移出南极水域</title>
+      <link>https://t.me/hn_summary/60882</link>
+      <description><![CDATA[世界上最大的冰山移出南极水域
+世界上最大的冰山 A23a 在搁浅三十多年后终于移出了南极水域。这座冰山重达近万亿吨，面积约4000平方公里，目前由于强风和洋流正在漂过南极半岛北端。随着它的速度加快，科学家们正在密切监测它的轨迹，预计将被发射到南极绕极流中。如此大小的冰山在移动，实属罕见。其突然移动的原因尚不清楚，但据推测，轻微的变薄和浮力的增加使其离开了海底。 A23a 也是世界上最古老的冰山之一。它有可能再次在南乔治亚岛搁浅，对当地野生动物构成威胁。]]></description>
+      <guid>https://t.me/hn_summary/60882</guid>
+      <pubDate>Mon, 27 Nov 2023 02:14:54 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]每天爬50步可使患心脏病的风险降低20%</title>
-      <link>https://t.me/hn_summary/60864</link>
-      <description><![CDATA[每天爬 50 步可将患心脏病的风险降低 20 %
-杜兰大学的一项新研究表明，每天爬至少 50 级楼梯可以显着降低患心脏病的风险。这项发表在《动脉粥样硬化》杂志上的研究发现，每天爬五层以上楼梯可以将心血管疾病的风险降低 20%。该研究使用了英国生物银行超过 450,000 名成年人的数据，并根据各种因素计算了参与者对心血管疾病的易感性。研究还发现，研究期间停止每天爬楼梯的人患心血管疾病的风险增加 32%。该研究强调了爬楼梯作为心脏病主要预防措施的潜在好处。]]></description>
-      <guid>https://t.me/hn_summary/60864</guid>
-      <pubDate>Sun, 26 Nov 2023 22:37:56 GMT</pubDate>
+      <title>[媒体] 技术写作入门</title>
+      <link>https://t.me/hn_summary/60881</link>
+      <description><![CDATA[技术写作入门
+本文讨论了技术写作的重要性以及任何人如何开始进入这一领域。它收录了五位技术写作专家的见解，他们分享了他们的经验和建议。突出的争议是使用 Markdown 或 Google Docs 进行写作之间的争论，一些作者更喜欢其中一种。提到的独特方面是使用开源工具进行技术写作，例如 Joplin、Asciidoctor 和 GNU groff。本文还提到“Technically We Write”是一个很棒的平台，用于分享有关使用开源工具进行技术写作的文章。]]></description>
+      <guid>https://t.me/hn_summary/60881</guid>
+      <pubDate>Mon, 27 Nov 2023 01:53:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
