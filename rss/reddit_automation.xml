@@ -4,7 +4,14 @@
     <title>自动化、ChatGPT 和人工智能</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Tue, 28 Nov 2023 00:49:51 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Nov 2023 03:11:04 GMT</lastBuildDate>
+    <item>
+      <title>电话乘车服务</title>
+      <link>https://www.reddit.com/r/automation/comments/185ki5r/phone_ride_service/</link>
+      <description><![CDATA[如何让我的手机自动在特定时间叫车。该应用程序是 Goinrides for all，我的手机是 Galaxy a21。我想提前请求，这样我就不必等待太久，也不想在课堂上拿出手机叫车。 &lt;!-- SC_ON - -&gt;  由   提交 /u/ImaginationVarious71   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/185ki5r/phone_ride_service/</guid>
+      <pubDate>Tue, 28 Nov 2023 01:55:22 GMT</pubDate>
+    </item>
     <item>
       <title>WIN-WIN PACK 杰克缝纫机包装/缝纫机整条包装线...</title>
       <link>https://www.reddit.com/r/automation/comments/185izl6/winwin_pack_entire_packaging_line_for_jack_sewing/</link>
@@ -62,7 +69,7 @@
       <pubDate>Mon, 27 Nov 2023 04:40:12 GMT</pubDate>
     </item>
     <item>
-      <title>一键为您喜欢的medium.com 帖子（或出版物中的所有帖子）添加 +50 掌声</title>
+      <title>一键为您喜欢的medium.com 帖子（或出版物中的所有帖子）添加+50 掌声</title>
       <link>https://www.reddit.com/r/automation/comments/184f0mw/add_50_claps_to_a_mediumcom_post_you_like_or_all/</link>
       <description><![CDATA[制作了一个免费的 google chrome 扩展程序，只需点击一下即可为您喜欢的帖子（或出版物中的所有帖子）添加 +50 拍手，以便您可以显示您对您最喜欢的作者的感谢（无需腕管） 视频：https://www .youtube.com/watch?v=z5D-GL9OSeg   由   提交/u/dvnschmchr   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/184f0mw/add_50_claps_to_a_mediumcom_post_you_like_or_all/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[ 由   提交 /u/cosmosvng   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/181275x/they_named_it_easy_apply_so_i_decided_to_apply/</guid>
       <pubDate>Wed, 22 Nov 2023 05:55:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>实施从outlook到本地文件的分类排序解决方案</title>
-      <link>https://www.reddit.com/r/automation/comments/180p5wh/implement_a_classification_and_sorting_solution/</link>
-      <description><![CDATA[我正在尝试为我在迈阿密一家小型律师事务所担任办公室经理的第一份职位寻找解决方案。他们有一个数字归档问题，每天收到 100 封电子邮件，这些电子邮件属于具有不同客户 ID 的不同客户。我正在寻找一个宏或第三方软件，它允许我下载设置的电子邮件并根据每封电子邮件标题中的客户端 ID 对它们进行排序，然后将它们存储在与该文件号对应的本地文件中。同时，我需要将标题重新格式化为相应的行：//date - sender - 电子邮件的几句话摘要 如果我实现自动化，我还会考虑实现某种单词检测可以分为客户端通信或外部代理通信。 我不一定要求完整的解决方案，而是需要一个开始的地方。我不是程序员，也不是 IT 专业人士，但我希望在空闲时间继续学习代码。 谢谢 到目前为止，我已经找到了一个名为 Bath 下载工具消息保存，但它相当有限，不允许我隔离标题中的客户端 ID，这是用于排序目的的消息中最重要的部分。   由   提交 /u/javiergui   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/180p5wh/implement_a_classification_and_sorting_solution/</guid>
-      <pubDate>Tue, 21 Nov 2023 19:28:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
