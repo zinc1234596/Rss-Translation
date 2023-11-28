@@ -4,7 +4,35 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 28 Nov 2023 09:12:34 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Nov 2023 12:21:17 GMT</lastBuildDate>
+    <item>
+      <title>PeerTube v6 已推出，由您的想法提供支持！</title>
+      <link>https://www.reddit.com/r/opensource/comments/185tnkl/peertube_v6_is_out_and_powered_by_your_ideas/</link>
+      <description><![CDATA[       由   提交/u/Framasoft  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/185tnkl/peertube_v6_is_out_and_powered_by_your_ideas/</guid>
+      <pubDate>Tue, 28 Nov 2023 11:12:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>我正在寻找一个可以贡献的项目</title>
+      <link>https://www.reddit.com/r/opensource/comments/185thbm/im_looking_for_a_project_to_contribute/</link>
+      <description><![CDATA[嗨，我正在寻找一个有趣的项目来贡献，所以如果你知道的话，请私信我:) 我可以执行 javascript、typescript 和前端。 ​   由   提交/u/Nice_Wrangler_5576   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/185thbm/im_looking_for_a_project_to_contribute/</guid>
+      <pubDate>Tue, 28 Nov 2023 11:01:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何修复 Mozilla Firefox 中的代理服务器拒绝连接错误（简单快速的方法）</title>
+      <link>https://www.reddit.com/r/opensource/comments/185temh/how_to_fix_the_proxy_server_is_refusing/</link>
+      <description><![CDATA[       由   提交/u/albert_aisley  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/185temh/how_to_fix_the_proxy_server_is_refusing/</guid>
+      <pubDate>Tue, 28 Nov 2023 10:56:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>为熟练的程序员/数学家为开源项目做出贡献（构建宝贵的资源来提供渲染引擎）</title>
+      <link>https://www.reddit.com/r/opensource/comments/185svh5/contribution_to_open_source_project_for_skilled/</link>
+      <description><![CDATA[竞赛 您好！我正在尝试组建一个由才华横溢的个人组成的社区，为开源项目 NavigoLearn 做出贡献。从本质上讲，它的功能就像一个用于学习的 Waze，具有由社区制定、为社区服务的路线图。目标是开发最好的教学资源。正如您可能已经猜到的那样，这不可能仅靠一个人完成。它需要协作努力。 竞赛的目的是什么？ 我们共同寻求以ma​​rkdown 格式构建路线图，并然后通过我们的渲染引擎将它们转换为视觉格式。以下是任务和详细信息列表。 &lt; !-- SC_ON --&gt;  由   提交 /u/ArkingMLG   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/185svh5/contribution_to_open_source_project_for_skilled/</guid>
+      <pubDate>Tue, 28 Nov 2023 10:20:26 GMT</pubDate>
+    </item>
     <item>
       <title>谁能给我推荐一个开源且非常好的视频编辑器？</title>
       <link>https://www.reddit.com/r/opensource/comments/185ndew/can_anybody_give_me_a_recommendation_of_a_video/</link>
@@ -81,34 +109,6 @@
       <description><![CDATA[   /u/Droider412  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/184xnuq/ytmdl_download_songs_from_youtube_with_metadata/</guid>
       <pubDate>Mon, 27 Nov 2023 07:47:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>查看 FXB 3d 模型的软件</title>
-      <link>https://www.reddit.com/r/opensource/comments/184vxas/software_to_view_fxb_3d_models/</link>
-      <description><![CDATA[嗨。 我刚刚开始学习搅拌机和 3D 建模。  有人知道在浏览器中存储/查看实时 3d fxb 文件的开源（网络）解决方案吗？    ;由   提交/u/w00pp   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/184vxas/software_to_view_fxb_3d_models/</guid>
-      <pubDate>Mon, 27 Nov 2023 05:53:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>哪些 SaaS 产品因其开源血统而获得声誉提升？</title>
-      <link>https://www.reddit.com/r/opensource/comments/184s6fl/which_saas_products_get_a_reputation_boost_from/</link>
-      <description><![CDATA[对于完全托管的 SaaS 产品，底层基础技术是否开源并不重要。然而，许多此类 SaaS 产品的提供商宣传这样一个事实：他们的产品有可以（理论上）自托管的开源版本。开源给 SaaS 客户带来哪些好处？   由   提交 /u/creativefisher   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/184s6fl/which_saas_products_get_a_reputation_boost_from/</guid>
-      <pubDate>Mon, 27 Nov 2023 02:29:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>React 和 React Native 应用程序</title>
-      <link>https://www.reddit.com/r/opensource/comments/184n40x/react_and_react_native_apps/</link>
-      <description><![CDATA[我愿意为使用 React 或 React Native 的应用程序做出贡献。 github 上的星星并不重要，如果您知道任何项目，请随意提及。   由   提交/u/danleeter  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/184n40x/react_and_react_native_apps/</guid>
-      <pubDate>Sun, 26 Nov 2023 22:38:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>最近将我的项目更新为新版本，这就是我收到的电子邮件</title>
-      <link>https://www.reddit.com/r/opensource/comments/184juom/updated_my_project_to_a_new_version_recently_and/</link>
-      <description><![CDATA[我花了一个多月的不眠之夜来构建新版本，希望能帮助更多的人，而当有些人居然好意思发这样的消息时...  特别是对于一个他们不需要支付一毛钱的应用程序，我无法想象如果他们真的支付了某些东西，他们会说什么。    由   提交 /u/AmruthPillai   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/184juom/updated_my_project_to_a_new_version_recently_and/</guid>
-      <pubDate>Sun, 26 Nov 2023 20:24:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
