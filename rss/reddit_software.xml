@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Tue, 28 Nov 2023 06:15:26 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Nov 2023 09:12:08 GMT</lastBuildDate>
+    <item>
+      <title>将文件从 NAS 传输到桌面？</title>
+      <link>https://www.reddit.com/r/software/comments/185qn11/transferring_files_from_a_nas_to_a_desktop/</link>
+      <description><![CDATA[我有一个旧的 Western Digital (WD) My Book World Edition NAS 驱动器。我的所有 Windows 10/11 计算机都无法在网络上看到此驱动器。 幸运的是，我有一个运行 Windows 7 的旧台式机，它可以看到 WD My Book World Edition。 我遇到的问题是，将文件从 WD NAS 驱动器传输到外部硬盘需要很长时间，并且在文件传输时出现错误。请注意，NAS 直接连接到桌面上的以太网端口，外置硬盘驱动器连接到桌面上的 USB 3.0 端口。 目前，我正在使用 TeraCopy 传输文件。我喜欢这个软件，因为它会检查每个文件并确保文件已完成传输且未损坏。 任何其他可以移动大文件并检查文件是否完好且未损坏的软件。我将不胜感激。   由   提交/u/TechyGuy20   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/185qn11/transferring_files_from_a_nas_to_a_desktop/</guid>
+      <pubDate>Tue, 28 Nov 2023 07:43:32 GMT</pubDate>
+    </item>
     <item>
       <title>编辑软件</title>
       <link>https://www.reddit.com/r/software/comments/185ii5r/editing_software/</link>
@@ -41,7 +48,7 @@
       <pubDate>Mon, 27 Nov 2023 19:32:24 GMT</pubDate>
     </item>
     <item>
-      <title>SwiftDial 浏览器扩展为主页背景引入了多种类型的可定制多色渐变</title>
+      <title>SwiftDial 浏览器扩展为主页背景引入了多种类型的可自定义多色渐变</title>
       <link>https://www.reddit.com/r/software/comments/185ba8d/swiftdial_browser_extension_introduces/</link>
       <description><![CDATA[ 由   提交/u/n_script   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/185ba8d/swiftdial_browser_extension_introduces/</guid>
@@ -57,7 +64,7 @@
     <item>
       <title>寻找基于网络的 DIY 蓝图软件</title>
       <link>https://www.reddit.com/r/software/comments/1858wc9/looking_for_webbased_diy_blueprint_software/</link>
-      <description><![CDATA[我在家里做了一些 DIY，我喜欢测量两次并切割一次。通常这会转化为一些方格纸上的涂鸦，但对于较大的项目，我可能需要几张草稿来调整尺寸和比例，直到我正确地建模为止。 寻求的软件功能： p&gt;  对基本 3D 形状进行建模，例如木框架、墙壁等 将一种形状的点附加到另一种形状上的点，并在移动物体时使它们保持连接 &lt; li&gt;将约束附加到某些尺寸和角度，然后用于推断其他图形（标准几何材料） 免费 基于网络  ​ 不需要：  结构工程能力 漂亮的颜色  &lt; !-- SC_ON --&gt;  由   提交 /u/bamfg   [链接] [评论]]]></description>
+      <description><![CDATA[我在家里做了一些 DIY，我喜欢测量两次并切割一次。通常这会转化为一些方格纸上的涂鸦，但对于较大的项目，我可能需要几张草稿来调整尺寸和比例，直到我正确地建模。 寻求的软件功能： p&gt;  对基本 3D 形状进行建模，例如木框架、墙壁等 将一种形状的点附加到另一种形状上的点，并在移动物体时使它们保持连接 &lt; li&gt;将约束附加到某些尺寸和角度，然后用于推断其他图形（标准几何图形） 免费 基于网络  ​ 不需要：  结构工程能力 漂亮的颜色  &lt; !-- SC_ON --&gt;  由   提交/u/bamfg  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1858wc9/looking_for_webbased_diy_blueprint_software/</guid>
       <pubDate>Mon, 27 Nov 2023 17:50:08 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[我的孩子在 YouTube 上观看诗歌和韵律，但我们将乘坐 10 个小时的航班，所以谁能告诉我任何 Android 或 iPhone 应用程序可以在孩子可以离线观看这些视频，但也可以使用向上滑动建议的功能？ 我的意思是我可以下载所有视频，但它们只能一一打开。是否有任何 Android 或 iPhone 播放器应用程序可以在我可以输入所有下载的视频，然后它也可以在建议的播放列表中显示所有下载的视频？   由   提交 /u/Munnada   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/184z6ev/any_youtube_like_offline_app/</guid>
       <pubDate>Mon, 27 Nov 2023 09:36:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>同时使用 Macbook Pro 和 Windows PC 的最佳方式</title>
-      <link>https://www.reddit.com/r/software/comments/184wuvq/best_way_to_use_macbook_pro_and_windows_pc/</link>
-      <description><![CDATA[我的办公桌的设置是这样的：我的办公桌上有 Windows PC，并且有一台 MacBook 挂在我的办公桌上。我传统上将 PC 的用途划分为 100% 用于游戏，而 Mac 则用于其他所有用途。我有点不再玩游戏了，想重新调整我的 PC 的用途，以补充我的 Mac，因为 Mac 仍然是主要的枢纽。任何建议将不胜感激（最好是免费的，但很想了解所有选项）   由   提交 /u/elgengrau   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/184wuvq/best_way_to_use_macbook_pro_and_windows_pc/</guid>
-      <pubDate>Mon, 27 Nov 2023 06:53:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
