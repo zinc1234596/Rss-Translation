@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Tue, 28 Nov 2023 12:06:35 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Nov 2023 15:12:21 GMT</lastBuildDate>
     <item>
-      <title>问 HN：为什么 Fastmail 的搜索如此糟糕以及如何改进？</title>
-      <link>https://t.me/hn_summary/61127</link>
-      <description><![CDATA[问HN：为什么Fastmail的搜索这么糟糕，怎么会这样改进了吗？
-news.ycombinator.com 上这篇文章的作者是表达了他们对 Fastmail 搜索功能的失望，并将其与 Gmail 的卓越搜索功能进行了比较。他们提供了在 Fastmail 搜索中遇到的困难的示例，包括缺乏部分匹配、无法找到拼写错误的匹配以及导致不相关匹配的奇怪索引。作者建议 Fastmail 可以通过实施部分匹配、拼写检查和上下文理解等功能来改进搜索，以增强搜索结果。他们承认这是一个理论上的讨论，但希望来自 Fastmail 的人能够注意到他们的建议。]]></description>
-      <guid>https://t.me/hn_summary/61127</guid>
-      <pubDate>Tue, 28 Nov 2023 12:06:35 GMT</pubDate>
+      <title>[媒体]宜家新款 Zigbee 门窗、运动、漏水传感器价格不到 10 美元</title>
+      <link>https://t.me/hn_summary/61154</link>
+      <description><![CDATA[宜家新款 Zigbee 传感器用于门窗、运动、漏水低于 10 美元
+宜家正在扩大其智能家居产品范围，推出了三种新型 Zigbee 传感器：Parasoll，门窗传感器； Vallhorn，运动传感器； Badring，一种漏水传感器。这些传感器的售价不到 10 美元，将于明年上半年在全球上市。 Parasoll 传感器可以直接与宜家灯泡配对，无需智能集线器。 Vallhorn 传感器可在室内和室外使用，由 AAA 电池供电。 Badring 传感器包括一个内置警报器，可以发送移动通知。然而，这些传感器与旧款 IKEA Trådfri Home 智能网关不兼容。宜家计划最终为其设备启用 Matter 支持。]]></description>
+      <guid>https://t.me/hn_summary/61154</guid>
+      <pubDate>Tue, 28 Nov 2023 15:12:21 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 法院：Cloudflare 对盗版网站负有责任，但不作为 DNS 提供商负责</title>
-      <link>https://t.me/hn_summary/61126</link>
-      <description><![CDATA[法院：Cloudflare 对盗版网站负责，但不作为 DNS 负责提供者
-Cloudflare 是一种流行的互联网基础设施服务，由于与盗版网站有关联，因此面临着版权所有者的压力。在德国最近发生的一起案件中，环球音乐起诉 Cloudflare 向盗版网站 DDL-Music 提供服务。 Cloudflare 遵守了初步禁令，停止向该网站提供服务，但对该决定提出上诉。科隆高等地区法院裁定 Cloudflare 必须对盗版网站采取行动，但拒绝了 Universal 的 DNS 封锁请求。法院表示，Cloudflare 的 DNS 解析器在网站可访问性方面并未发挥核心作用。这项裁决对面临类似法律纠纷的其他 DNS 提供商具有影响。]]></description>
-      <guid>https://t.me/hn_summary/61126</guid>
-      <pubDate>Tue, 28 Nov 2023 11:38:18 GMT</pubDate>
+      <title>[媒体] 立即从中本聪钱包转账</title>
+      <link>https://t.me/hn_summary/61153</link>
+      <description><![CDATA[立即从中本聪钱包转账
+这篇文章讨论了最近从苹果和谷歌美国应用商店中删除中本聪钱包应用程序的情况，这可能是由于监管压力。虽然钱包仍然有效，但丢失手机的用户无法重新下载该应用程序，从而使他们的资金面临风险。该文章建议将资金转移到自我托管解决方案，并强调使用开源比特币软件和硬件的重要性。它还为希望从 Satoshi 钱包切换的用户提供替代钱包选项。作者对托管解决方案的日益普及表示失望，并强调比特币使用中隐私和主权的必要性。]]></description>
+      <guid>https://t.me/hn_summary/61153</guid>
+      <pubDate>Tue, 28 Nov 2023 15:11:09 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Show HN：演示 Rust Axum - axum 0 的重大更新。</title>
-      <link>https://t.me/hn_summary/61125</link>
-      <description><![CDATA[显示 HN：演示 Rust Axum - axum 0.7 + hyper 的重大更新1.0
-这个 GitHub 项目是 Rust 和 axum Web 框架的演示。该项目的目的是教用户如何使用 axum 及其塔式中间件生态系统、超 HTTP 库、tokio 异步平台和 Serde 数据转换来构建功能。它可用于学习如何使用 Rust 和 axum 创建项目、利用超级服务器和塔式中间件的功能、处理 HTTP 动词以及使用 RESTful 路由管理数据存储。作者提到，axum 与其他框架的不同之处在于它使用了 tower 生态系统，该生态系统提供了超时、跟踪、压缩和授权等功能。 （根据故事文本的 21% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/61125</guid>
-      <pubDate>Tue, 28 Nov 2023 11:23:06 GMT</pubDate>
+      <title>[媒体] Cyber​​truck 已经是特斯拉的生产噩梦</title>
+      <link>https://t.me/hn_summary/61152</link>
+      <description><![CDATA[Cyber​​truck 已经是特斯拉的生产噩梦
+特斯拉备受期待的 Cyber​​truck 的生产正在变成该公司的一场噩梦。这款电动汽车以其未来派设计和防弹外观而闻名，但在制造过程中面临着众多挑战。特斯拉首席执行官埃隆·马斯克承认，卡车独特的外骨骼设计被证明很难生产，导致延误和生产瓶颈。此外，该公司正在努力确保 Cyber​​truck 所需的材料和组件，这使得生产过程进一步复杂化。这一挫折引发了人们对特斯拉是否有能力满足对 Cyber​​truck 的高需求并将其按时交付给客户的担忧。]]></description>
+      <guid>https://t.me/hn_summary/61152</guid>
+      <pubDate>Tue, 28 Nov 2023 15:09:59 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] X 在通过 Google 推动流量方面大幅超越 Instagram、Facebook</title>
-      <link>https://t.me/hn_summary/61124</link>
-      <description><![CDATA[X 在通过 Google 推动流量方面大幅超越 Instagram、Facebook&lt; /a&gt;
-令人惊讶的是，埃隆·马斯克 (Elon Musk) 旗下 Twitter 的更名版 X 在通过 Google 排名前 100 的自然搜索结果推动流量方面超过了 Instagram 和 Facebook。这一更新引起了马斯克的注意，他用一个大笑的表情符号分享了这一消息，表明尽管预测 X 会衰落，但它仍然在蓬勃发展。然而，投资者不应忽视 Facebook 和 Instagram 的母公司 Meta Platforms (META)，该公司仍然是社交媒体行业的主导力量，每月活跃用户数达数十亿，收入增长令人印象深刻。虽然 X 的业绩值得注意，但 Meta 的股票已显示出显着的增长，分析师预测还会进一步上涨。]]></description>
-      <guid>https://t.me/hn_summary/61124</guid>
-      <pubDate>Tue, 28 Nov 2023 10:16:33 GMT</pubDate>
+      <title>[媒体] 如何阅读论文 [pdf](https://news.</title>
+      <link>https://t.me/hn_summary/61151</link>
+      <description><![CDATA[如何阅读论文 [pdf](https://news .ycombinator.com/item?id=38446418)
+本文讨论了一种实用且高效的三遍阅读研究论文的方法。作者强调，阅读论文是一项很少被教授的关键技能，这会导致研究人员浪费精力并感到沮丧。三遍方法包括快速浏览以了解论文的总体思路，更仔细地阅读以掌握内容，第三遍通过虚拟地重新实现来充分理解论文。本文还提供了使用三遍法进行文献调查的技巧。作者鼓励读者提出意见和改进建议，使本文成为一个活的文档。]]></description>
+      <guid>https://t.me/hn_summary/61151</guid>
+      <pubDate>Tue, 28 Nov 2023 15:09:51 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]PeerTube v6 已推出，由您的想法提供支持</title>
-      <link>https://t.me/hn_summary/61123</link>
-      <description><![CDATA[PeerTube v6 已推出，由您的想法提供支持 
-PeerTube v6 已发布，其中包含受用户想法启发的功能。该更新包括视频密码保护、视频预览的故事板功能、上传新版本视频的功能以及向视频添加章节的选项。该版本还包括性能改进和优化，以及改进的 SEO 和可访问性。 PeerTube 作为 YouTube 和 Twitch 的替代品越来越受欢迎，该团队计划在未来几周内发布更多有关该平台未来的公告。 PeerTube 的开发由捐款和赠款资助。]]></description>
-      <guid>https://t.me/hn_summary/61123</guid>
-      <pubDate>Tue, 28 Nov 2023 10:01:19 GMT</pubDate>
+      <title>谷歌新的地热能项目已启动并运行</title>
+      <link>https://t.me/hn_summary/61150</link>
+      <description><![CDATA[Google 新的地热能项目已启动并运行&lt; br /&gt;
+谷歌在内华达州启动了一个突破性的地热能源项目，与初创公司 Fervo 合作，为其数据中心提供清洁能源。该项目容量为 3.5 兆瓦，采用创新技术来利用地热能。与传统的地热发电厂不同，它不会从天然水库中抽取热流体，而是将水泵入热岩石的裂缝中以产生蒸汽。闭环系统可以节约用水，适合干旱地区。谷歌将地热能与风能和太阳能一起视为其到 2030 年使用无碳污染电力的计划的关键组成部分。]]></description>
+      <guid>https://t.me/hn_summary/61150</guid>
+      <pubDate>Tue, 28 Nov 2023 15:08:39 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在被熊吃掉之前开始写作</title>
-      <link>https://t.me/hn_summary/61122</link>
-      <description><![CDATA[在被熊吃掉之前开始写作 
-该网络内容的作者讨论了在故事、演示和宣传中删除非必要背景故事的重要性。他们强调需要在最重要的部分之前开始，用被熊吃掉的比喻。作者提供了有关如何避免背景故事范围蔓延的技巧，例如以最小可行的背景故事为目标，并抑制过度解释的冲动。他们还强调了非必要的背景故事和有用的背景之间的区别。作者认为简洁的讲故事在商业环境中更有效，并提供了电影和电视节目中的例子。最后，他们鼓励读者删去不必要的词语并快速切入主题。 （根据 82% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/61122</guid>
-      <pubDate>Tue, 28 Nov 2023 09:56:08 GMT</pubDate>
+      <title>泰勒·斯威夫特不存在</title>
+      <link>https://t.me/hn_summary/61149</link>
+      <description><![CDATA[泰勒·斯威夫特不存在
+文章讨论了沙特阿拉伯王国雇用世界上第一位全职泰勒·斯威夫特记者的情况。作者对此表示不满，并不是因为他们认为泰勒·斯威夫特不值得写，而是因为记者是泰勒·斯威夫特的粉丝。作者对泰勒·斯威夫特的粉丝和非自愿独身者进行了一个有争议的比较，表明他们对她的强烈爱是缺乏欲望的结果。作者还分享了他们作为印刷杂志泰勒·斯威夫特记者的个人经历，但承认不记得他们担任该职位的四个月。 （根据 52% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/61149</guid>
+      <pubDate>Tue, 28 Nov 2023 15:06:28 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]新西兰废除全球首个吸烟“一代禁令”以资助减税</title>
-      <link>https://t.me/hn_summary/61121</link>
-      <description><![CDATA[新西兰废除世界首个吸烟“一代禁令”以资助税收削减
-新西兰新政府计划废除一项世界领先的法律，该法律将禁止子孙后代吸烟，以便为减税提供资金。该法律于 2022 年通过，旨在预防与吸烟相关的死亡，并为卫生系统节省数十亿美元。它包括提高吸烟年龄和减少烟草产品中尼古丁的法定含量等措施。然而，作为联合协议的一部分，政府已同意废除这些修正案。公共卫生官员认为，此举将造成生命损失，对吸烟率较高的毛利社区尤其不利。批评者认为，这是公共卫生的重大损失，却是烟草业的胜利。]]></description>
-      <guid>https://t.me/hn_summary/61121</guid>
-      <pubDate>Tue, 28 Nov 2023 09:53:56 GMT</pubDate>
+      <title>[媒体] Substack 有纳粹问题</title>
+      <link>https://t.me/hn_summary/61148</link>
+      <description><![CDATA[子堆栈存在纳粹问题
+文章讨论了时事通讯托管网站 Substack，该网站将自己宣传为公民话语平台，却如何成为白人至上和反犹太主义的滋生地。该平台一直接待公开拥护纳粹言论并从其内容中获利的作家。 Substack 上的许多时事通讯宣扬白人至上主义意识形态，包括“大替代”阴谋论。一些时事通讯甚至带有纳粹符号和对“犹太人问题”的提及。尽管 Substack 的服务条款禁止仇恨言论，但该平台对规避其规则的极端分子表现出惊人的容忍度。这篇文章引起了人们对 Substack 的内容审核政策及其在放大极端主义声音方面的作用的担忧。 （根据故事文本的 74% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/61148</guid>
+      <pubDate>Tue, 28 Nov 2023 14:53:12 GMT</pubDate>
     </item>
     <item>
-      <title>问 HN：Knuth 的 TAOCP 值得花费时间和精力吗？</title>
-      <link>https://t.me/hn_summary/61120</link>
-      <description><![CDATA[询问 HN：Knuth 的 TAOCP 值得花费时间和精力吗？ （2023）
-news.ycombinator.com 上这篇文章的作者是寻求有关 Donald Knuth 的书“计算机编程的艺术”(TAOCP) 是否值得花时间和精力的建议。他们提到他们刚刚开始阅读第一卷，并强调高德纳介绍了归纳数学证明作为算法数学证明。作者分享了一位朋友的反馈，他认为这本书在示例的多样性方面可能过于努力，并且可能没有必要理解。作者就是否继续阅读本书以及在什么情况下继续阅读这本书寻求建议。]]></description>
-      <guid>https://t.me/hn_summary/61120</guid>
-      <pubDate>Tue, 28 Nov 2023 09:03:32 GMT</pubDate>
+      <title>Vitalik Buterin 的技术乐观主义</title>
+      <link>https://t.me/hn_summary/61147</link>
+      <description><![CDATA[Vitalik Buterin 的技术乐观主义
+作者表达了他们对技术乐观主义的支持，相信由于变革性技术，未来会更加光明。他们拒绝维持世界现状的想法，并认为某些类型的技术可以让世界变得更美好。然而，他们也承认考虑技术发展方向的重要性以及在选择期望结果时需要积极的人类意图。作者强调了技术的好处，例如延长预期寿命和改善日常生活，但也承认对气候变化的担忧以及需要协调努力解决环境问题。他们还讨论了人工智能的独特性及其带来的潜在风险，包括人类灭绝的可能性。 （根据 19% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/61147</guid>
+      <pubDate>Tue, 28 Nov 2023 14:44:59 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]生日快乐，亚当·斯密：看不见的手刚刚​​打了迪士尼一巴掌</title>
-      <link>https://t.me/hn_summary/61119</link>
-      <description><![CDATA[生日快乐，亚当·斯密：看不见的手刚刚​​打了迪士尼一巴掌
-本文庆祝自由市场和资本主义理论背后的经济学家亚当·斯密 (Adam Smith) 诞辰 300 周年。它强调了迪士尼在最近提交的文件中承认其有争议的政治和社会议程正在让公司和股东付出代价。文章指出，迪士尼“觉醒”电影的失败以及该公司与某些政治原因的结合导致了收入和收视率的下降。它还讨论了倡导新闻业和学术界如何同样将个人进步置于各自行业的福祉之上。文章质疑迪士尼在做出重大改变之前能够容忍收入下降多久。]]></description>
-      <guid>https://t.me/hn_summary/61119</guid>
-      <pubDate>Tue, 28 Nov 2023 08:47:20 GMT</pubDate>
+      <title>[媒体]基辅证实英特尔首席执行官布达诺夫的妻子中毒</title>
+      <link>https://t.me/hn_summary/61146</link>
+      <description><![CDATA[基辅确认英特尔首席执行官布达诺夫的妻子中毒
+据乌克兰情报界消息人士称，乌克兰情报部门负责人凯里洛·布达诺夫的妻子中毒身亡。玛丽安娜·布达诺娃目前因重金属中毒正在医院接受治疗。对涉嫌谋杀未遂的调查正在进行中。布达诺夫本人曾多次遭到暗杀，其中包括一次汽车爆炸，导致他受重伤。俄罗斯被指控使用重金属毒药进行暗杀和暗杀企图。布达诺夫曾是一名突击队员，后来在乌克兰军事情报部门晋升，并参与了针对俄罗斯军队的大胆任务。]]></description>
+      <guid>https://t.me/hn_summary/61146</guid>
+      <pubDate>Tue, 28 Nov 2023 14:38:47 GMT</pubDate>
     </item>
     <item>
-      <title>在半人马座阿尔法星寻找生命 – Jstor Daily</title>
-      <link>https://t.me/hn_summary/61118</link>
-      <description><![CDATA[在半人马座阿尔法星寻找生命 – Jstor Daily 
-半人马座阿尔法星系统由三颗恒星组成，对于寻找外星生命的科学家来说特别感兴趣。比邻星是该系统中距离地球最近的恒星，已确认有两颗行星，其中一颗位于宜居带。据信另外两颗恒星也有行星。突破基金会正在资助 TOLIMAN 太空望远镜计划，以发现半人马座阿尔法星系统中潜在的宜居行星。然而，在这些行星上找到生命的机会尚不确定。已经发现的比邻星 b 行星可能不适合居住，因为它距离恒星很近，而且恒星发出强烈的太阳耀斑。半人马座阿尔法星 A 周围的海王星大小的行星很可能是一颗气态巨行星，但如果在宜居带发现一颗类似大小的岩石行星，它可能会支持生命。文章还提到了一种新的推进系统，有可能到达星际空间并探索半人马座阿尔法星系统。]]></description>
-      <guid>https://t.me/hn_summary/61118</guid>
-      <pubDate>Tue, 28 Nov 2023 08:37:08 GMT</pubDate>
+      <title>[媒体]黑客花了两年时间窃取芯片制造商恩智浦的机密才被发现</title>
+      <link>https://t.me/hn_summary/61145</link>
+      <description><![CDATA[黑客花了 2 年时间窃取芯片制造商 NXP 的机密才被发现
+一个与中国有联系的黑客组织，被称为“Chimera”或“G0114”，花了两年多的时间渗透到荷兰芯片制造商恩智浦的公司网络。该小组访问了员工邮箱和网络驱动器，以寻找芯片设计和其他知识产权。直到黑客在连接到受感染的恩智浦系统的独立公司网络中检测到黑客后，该漏洞才被发现。黑客利用 Microsoft 和 Dropbox 等公司的云服务来接收被盗数据。恩智浦没有将此次入侵告知客户或股东，这引起了安全研究人员对恩智浦芯片潜在漏洞的担忧。]]></description>
+      <guid>https://t.me/hn_summary/61145</guid>
+      <pubDate>Tue, 28 Nov 2023 14:37:36 GMT</pubDate>
     </item>
     </channel>
 </rss>
