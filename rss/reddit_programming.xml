@@ -4,7 +4,56 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Wed, 29 Nov 2023 00:50:30 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Nov 2023 03:12:24 GMT</lastBuildDate>
+    <item>
+      <title>while 在动作脚本 3 中</title>
+      <link>https://www.reddit.com/r/programming/comments/186f94d/while_in_action_script_3/</link>
+      <description><![CDATA[ 由   提交/u/ah2000ha  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/186f94d/while_in_action_script_3/</guid>
+      <pubDate>Wed, 29 Nov 2023 03:09:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何在 LMC 中正确重置 NEG 标志而不存储所述变量然后再次加载它？</title>
+      <link>https://www.reddit.com/r/programming/comments/186f84h/how_to_correctly_reset_the_neg_flags_in_a_lmc/</link>
+      <description><![CDATA[ 由   提交 /u/Puzzleheaded-Hat-567   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/186f84h/how_to_correctly_reset_the_neg_flags_in_a_lmc/</guid>
+      <pubDate>Wed, 29 Nov 2023 03:08:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>KubeAdmiral：字节跳动的新开源项目，目前跨多个 Kubernetes 集群管理 1000 万个 Pod 的超过 10 万个微服务</title>
+      <link>https://www.reddit.com/r/programming/comments/186esq8/kubeadmiral_new_opensource_project_by_bytedance/</link>
+      <description><![CDATA[ 由   提交/u/y2so  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/186esq8/kubeadmiral_new_opensource_project_by_bytedance/</guid>
+      <pubDate>Wed, 29 Nov 2023 02:49:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tailwind 存在可扩展性问题。我们怎样才能解决这个问题呢？</title>
+      <link>https://www.reddit.com/r/programming/comments/186eem8/tailwind_has_a_scalability_problem_how_can_we/</link>
+      <description><![CDATA[ 由   提交 /u/AsyncBanana   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/186eem8/tailwind_has_a_scalability_problem_how_can_we/</guid>
+      <pubDate>Wed, 29 Nov 2023 02:31:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>GHC 状态报告（视频）</title>
+      <link>https://www.reddit.com/r/programming/comments/186doak/ghc_status_report_video/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/186doak/ghc_status_report_video/</guid>
+      <pubDate>Wed, 29 Nov 2023 01:57:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>快速解析8位整数</title>
+      <link>https://www.reddit.com/r/programming/comments/186dmet/parsing_8bit_integers_quickly/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/186dmet/parsing_8bit_integers_quickly/</guid>
+      <pubDate>Wed, 29 Nov 2023 01:55:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>关系深度学习：关系数据库上的图表示学习 [pdf]</title>
+      <link>https://www.reddit.com/r/programming/comments/186dmds/relational_deep_learning_graph_representation/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/186dmds/relational_deep_learning_graph_representation/</guid>
+      <pubDate>Wed, 29 Nov 2023 01:55:00 GMT</pubDate>
+    </item>
     <item>
       <title>为什么我们使用 AWS 而不是 Vercel 来托管 Next.js 应用程序</title>
       <link>https://www.reddit.com/r/programming/comments/186b5aq/why_we_use_aws_instead_of_vercel_to_host_our/</link>
@@ -60,55 +109,6 @@
       <description><![CDATA[ 由   提交/u/jeffdwyer   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1864am5/9_things_i_hate_about_environment_variables/</guid>
       <pubDate>Tue, 28 Nov 2023 19:24:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何为代码的到来做好准备</title>
-      <link>https://www.reddit.com/r/programming/comments/1863jgs/how_to_prepare_for_advent_of_code/</link>
-      <description><![CDATA[ 由   提交 /u/Wraldpyk   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1863jgs/how_to_prepare_for_advent_of_code/</guid>
-      <pubDate>Tue, 28 Nov 2023 18:53:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>日志结构合并树</title>
-      <link>https://www.reddit.com/r/programming/comments/18635wn/logstructured_merge_tree/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/18635wn/logstructured_merge_tree/</guid>
-      <pubDate>Tue, 28 Nov 2023 18:37:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>Rustlantis：Rust 编译器和解释器的语义模糊测试 (PDF)</title>
-      <link>https://www.reddit.com/r/programming/comments/18634we/rustlantis_semantic_fuzzing_of_the_rust_compiler/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/18634we/rustlantis_semantic_fuzzing_of_the_rust_compiler/</guid>
-      <pubDate>Tue, 28 Nov 2023 18:36:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>事实：结构后部的零大小字段具有非零大小</title>
-      <link>https://www.reddit.com/r/programming/comments/18634ny/go_fact_zerosized_field_at_the_rear_of_a_struct/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/18634ny/go_fact_zerosized_field_at_the_rear_of_a_struct/</guid>
-      <pubDate>Tue, 28 Nov 2023 18:36:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>自下而上简化表达式</title>
-      <link>https://www.reddit.com/r/programming/comments/186346b/simplifying_expressions_bottomup/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/186346b/simplifying_expressions_bottomup/</guid>
-      <pubDate>Tue, 28 Nov 2023 18:35:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>向量和符号 (common lisp)</title>
-      <link>https://www.reddit.com/r/programming/comments/18633r1/vectors_symbols_common_lisp/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/18633r1/vectors_symbols_common_lisp/</guid>
-      <pubDate>Tue, 28 Nov 2023 18:35:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>适用于 Rust 的 AWS 开发工具包现已全面推出！</title>
-      <link>https://www.reddit.com/r/programming/comments/18632zh/the_aws_sdk_for_rust_is_now_generally_available/</link>
-      <description><![CDATA[ 由   提交 /u/arcoain   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/18632zh/the_aws_sdk_for_rust_is_now_generally_available/</guid>
-      <pubDate>Tue, 28 Nov 2023 18:34:28 GMT</pubDate>
     </item>
     </channel>
 </rss>

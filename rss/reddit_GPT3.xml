@@ -4,7 +4,14 @@
     <title>最新提交：GPT3</title>
     <link>https://www.reddit.com/r/GPT3/new</link>
     <description>AI 文本生成技术的 Reddit 子版块</description>
-    <lastBuildDate>Wed, 29 Nov 2023 00:49:55 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Nov 2023 03:11:47 GMT</lastBuildDate>
+    <item>
+      <title>我不记得它有这么愚蠢（？）。</title>
+      <link>https://www.reddit.com/r/GPT3/comments/186dlr7/i_do_not_remember_it_being_this_dumb/</link>
+      <description><![CDATA[      我记得几个月前和现在都使用 gpt 来解决物理和编码问题我很惊讶。就像这是让我订阅 gpt 4 的策略吗，因为现在太愚蠢了。   由   提交/u/Original-Club4193  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/GPT3/comments/186dlr7/i_do_not_remember_it_being_this_dumb/</guid>
+      <pubDate>Wed, 29 Nov 2023 01:54:14 GMT</pubDate>
+    </item>
     <item>
       <title>使用 GPT 查询音频文件</title>
       <link>https://www.reddit.com/r/GPT3/comments/1868v74/querying_an_audio_file_with_gpt/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[       由   提交/u/anujtomar_17  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/GPT3/comments/180fsz1/microsoft_ceo_doesnt_dismiss_possibility_of_sam/</guid>
       <pubDate>Tue, 21 Nov 2023 12:26:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>创建GPT代码助手</title>
-      <link>https://www.reddit.com/r/GPT3/comments/1809ty3/create_gpt_code_assistant/</link>
-      <description><![CDATA[社区您好。我对这个主题完全陌生。 所以我的问题：有没有一种方法可以使用代码文档（例如 React、svelte 的文档，或者可能使用我的代码库来训练它）来训练 gpt，并生成一个了解此文档或代码库的代码助手？ 我需要遵循哪些步骤来训练这样的助手，从收集和处理数据到实际实现这一点。 &lt; p&gt;提前非常感谢您的帮助！   由   提交/u/JuanPablopiano   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/GPT3/comments/1809ty3/create_gpt_code_assistant/</guid>
-      <pubDate>Tue, 21 Nov 2023 05:44:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
