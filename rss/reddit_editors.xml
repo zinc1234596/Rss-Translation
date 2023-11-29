@@ -4,7 +4,21 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Wed, 29 Nov 2023 18:14:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Nov 2023 21:10:37 GMT</lastBuildDate>
+    <item>
+      <title>时间码同步不起作用 *premiere pro*</title>
+      <link>https://www.reddit.com/r/editors/comments/186ysnq/timecode_sync_not_working_premiere_pro/</link>
+      <description><![CDATA[因此，我在 Premiere Pro 中工作，尝试使用“创建多机位源序列”同步剪辑和音频、与时间码同步并使用摄像机标签。但是音频不同步，在检查元数据时，相应音频和视频剪辑之间的媒体起点/终点不匹配，这是否代表音频卡住？ 是否有办法确认拍摄时时间码没有对齐？所有的差异都是不同的，有的 30 秒，有的 50 秒，而且是从第一个片段开始的。有人遇到过类似的问题吗？   由   提交/u/Phillistine-Lemon   /u/Phillistine-Lemon reddit.com/r/editors/comments/186ysnq/timecode_sync_not_working_premiere_pro/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/186ysnq/timecode_sync_not_working_premiere_pro/</guid>
+      <pubDate>Wed, 29 Nov 2023 20:10:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>从 Premiere 迁移到 Resolve/AVID 的人有什么建议吗？对于以面试为中心的工作（其中分类和文字记录的使用最重要），哪一个更好？</title>
+      <link>https://www.reddit.com/r/editors/comments/186xlv3/any_advice_from_people_who_migrated_from_premiere/</link>
+      <description><![CDATA[我使用 Premiere 已有 4 年了。老实说，我确实很喜欢 Pr。但它的问题太多而且不一致。随机问题总是会出现，并且感觉这些错误的严重性越来越大。我对 2023/2024 年非常失望。以前运行良好的插件现在无法使用。文字记录刚刚被破坏。崩溃是经常发生的事情。我根本无法使我的工作流程专业化。从理论上讲，我喜欢他们引入的很多变化，但感觉他们正在追求实质内容。但为什么要引入人工智能而不修复“项目中的显示”问题呢？始终不工作（似乎没有原因）。为什么成绩单编辑器总是崩溃？为什么多机位无法一致地生成音频波形？  因此，我正在寻求有关学习新的 NLE 时应遵循的最佳课程的建议。是否有任何好的课程可以针对已经了解编辑程序的基本功能但需要将这些知识转换为其他软件的中级编辑人员？  其次，哪种程序最适合基于转录的工作流程？我拍摄了很多采访、感言等，最有价值的资产是能够找到搜索词，并快速浏览多个采访时间线。弗兰肯咬人能力非常重要。   由   提交 /u/T00Human   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/186xlv3/any_advice_from_people_who_migrated_from_premiere/</guid>
+      <pubDate>Wed, 29 Nov 2023 19:18:59 GMT</pubDate>
+    </item>
     <item>
       <title>Premiere 插件或脚本可以自动将序列拆分为多个渲染作业？</title>
       <link>https://www.reddit.com/r/editors/comments/186vqjs/premiere_plugin_or_script_that_automatically/</link>
@@ -32,13 +46,6 @@
       <description><![CDATA[嗨！ 我正在 M1 MacBook Pro 上处理一个大型 Premiere 项目。我将采访分成不同的顺序。源素材有多种不同的格式和帧速率，但所有内容都已转码到 ProRes Proxy 进行离线编辑。 一切都工作正常，直到昨天我打开一个序列并开始观看采访时，视频停止了音频继续播放。我暂停并再次开始播放，大约需要 3 秒才能开始，然后视频再次停止，音频继续。我现在在 2 个序列中注意到了这一点 - 都是 ProRes 代理转码。  如果我在查找器中显示该文件，它会拉出源文件从未位于其中的文件夹。我已使该文件脱机并重新链接到正确的文件，但仍然存在问题。  p&gt; 我没有遇到内存过载问题，服务器连接似乎也很好，但我刚开始使用 NAS 系统，所以也许我需要考虑一个设置，以提高 Premiere 的效率？ 昨天我最终删除了代理文件，这似乎有效，但我不想删除所有代理，因此必须有更好的解决方法。代理在 QuickTime Player 中运行良好。 有什么想法吗？  设置如下： MacBook Pro M1 Max，64GB，操作系统 Sonoma Premiere Pro 2024.0.0 素材位于 Synology NAS 上，通过以太网连接到 Hyper Thunderbolt 4 集线器。  p&gt; 编辑：看起来 Premiere 认为转码位于它们从未位于的文件路径中；他们也从未被感动过。我重新连接了转码，但它仍然做同样的事情。   由   提交 /u/Kid_Shit_Kicker   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/186sdod/premiere_video_playback_stops_audio_continues/</guid>
       <pubDate>Wed, 29 Nov 2023 15:42:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>有使用 Avid Media Composer 的编辑吗？</title>
-      <link>https://www.reddit.com/r/editors/comments/186s8at/any_editors_using_avid_media_composer/</link>
-      <description><![CDATA[各位，有人使用 Avid Media Composer 吗？我有一个项目。如果有人有空请告诉我。    由   提交 /u/appleipro   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/186s8at/any_editors_using_avid_media_composer/</guid>
-      <pubDate>Wed, 29 Nov 2023 15:36:10 GMT</pubDate>
     </item>
     <item>
       <title>用于客户端显示器的 Mac mini m2 pro 设置。 Ultra Studio 迷你显示器的替代品</title>
@@ -95,13 +102,6 @@
       <description><![CDATA[在过去的二十年里，我一直在无剧本的现实中工作，并且一直希望作为该领域的编辑来提高自己。我最近了解到我对整个专业编辑的看法相当狭隘。在二十年的编辑生涯中，我从未有过一个不在 Avid 中的项目。我从来没有要求过动态图形。我们通常有一个特定的图形艺术家来处理这个问题。我几乎总是有一个故事制作人，还有一个在我之上发号施令的人。 我不断地努力学习更好的编辑技术，但总是在这些参数之内。现在，由于潜在的编程削减，我面临着不得不在我选择的无脚本/现实领域之外工作的可能性，作为一名资深编辑，我感到不幸的是没有做好准备，这让我感到害怕。 我需要具备哪些技能才能在技术、企业、商业、营销甚至新闻编辑领域具有竞争力？ Premiere Pro 似乎是首选的编辑程序，所以我我正在努力教自己这一点。而且基本的动态图形似乎是一个优势，所以接下来我会学习After Effects。但这就足够了吗？ Final Cut 还在使用吗？我也需要学习Resolve吗？或者其他编辑系统？显然，我学得越多越好，但我不确定我能否一次保留五个新节目。 我也没有编写、制作、灯光和拍摄自己的片段的经验。似乎很多招聘信息都需要上述所有内容。 我喜欢纯粹的编辑职业，但我不确定这是否存在于我的娱乐世界之外。如果有请告诉我！您建议我优先考虑哪些技能来开始在现实或脚本电视之外找到工作？   由   提交/u/anubis266  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1866ge1/questions_for_editors_outside_of_the_scripted_and/</guid>
       <pubDate>Tue, 28 Nov 2023 20:55:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>你好，我需要某人观看卡通节目的声音。</title>
-      <link>https://www.reddit.com/r/editors/comments/1866009/hi_i_need_the_sound_of_someone_watching_a_cartoon/</link>
-      <description><![CDATA[你好，我在电影中有一个场景，一个小女孩正在看动画片。我需要受版权保护的免费卡通节目的音频，有什么帮助吗？   由   提交/u/Still_Potato_9909   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1866009/hi_i_need_the_sound_of_someone_watching_a_cartoon/</guid>
-      <pubDate>Tue, 28 Nov 2023 20:35:49 GMT</pubDate>
     </item>
     <item>
       <title>在 Premiere Pro 中进行远程编辑时使用代理时出现问题</title>

@@ -4,7 +4,28 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Wed, 29 Nov 2023 18:14:20 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Nov 2023 21:10:43 GMT</lastBuildDate>
+    <item>
+      <title>寻找免费/可访问/简单表单软件的推荐，用于收集每月通讯提交（文本）</title>
+      <link>https://www.reddit.com/r/software/comments/186yusp/looking_for_a_recommendation_for_a/</link>
+      <description><![CDATA[我希望有人可以推荐一款免费且易于使用的软件，它可以帮助我或多或少地消除每月的手动流程。简而言之，我们有许多委员会在工作，它们都每月提交由几段文字组成的更新。更新内容会被剪切/粘贴到 Outlook 中，并每月以某种新闻通讯的形式发送到整个组织。 以下是我需要该软件执行的功能。 强制功能：  p&gt;  免费 不需要提交者下载任何特殊软件 提交表格需要包含委员会名称和提交月份的下拉菜单，以及一个文本框用于输入委员会的更新文本。 可以生成一份简单的报告，列出月份、每个委员会及其提供的文本。像 PDF 一样易于访问的内容。 可在 Windows 上使用  很高兴拥有以下功能：  可以存储每个人的联系人姓名和电子邮件如果每个委员会未收到提交内容，则在提交截止日期之前生成提醒电子邮件。 存档或存储过去几个月的提交内容，并且不会每月覆盖以前的提交内容。 会很高兴能够在月度报告中添加图形/照片，使其具有视觉吸引力  提前感谢您的任何建议！我非常感谢！   由   提交/u/Rare_Polnareff   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/186yusp/looking_for_a_recommendation_for_a/</guid>
+      <pubDate>Wed, 29 Nov 2023 20:13:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>极客卸载程序需要帮助，请</title>
+      <link>https://www.reddit.com/r/software/comments/186y9sm/geek_uninstaller_need_help_plz/</link>
+      <description><![CDATA[有人用过Geek Uninstaller吗？我不小心删除了一个应用程序条目，并且无法在软件中找到它来删除它，即使它仍然存在于我的电脑上。有人可以帮忙吗？   由   提交/u/zizo999  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/186y9sm/geek_uninstaller_need_help_plz/</guid>
+      <pubDate>Wed, 29 Nov 2023 19:47:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>正在寻找一个跨平台（macOS、桌面上的 Arch Linux、Android、移动设备上的 iOS）日历应用程序，无需供应商锁定，可以让我同步各种常见类型的云日历。建议？</title>
+      <link>https://www.reddit.com/r/software/comments/186xg4z/looking_for_a_crossplatform_macos_arch_linux_on/</link>
+      <description><![CDATA[我有一个奇怪的设置：M1 Mac mini、Intel Mac mini、运行 Arch Linux 的 HP 笔记本电脑以及 Android 手机和 Apple 手机（分别是工作和私人）。 多年来，我一直使用 Google 的日历应用程序，但自从我尝试“取消 Google”以来，我一直在使用 Google 日历应用程序。我的生活，这不再是一个选择。 Apple 的日历应用程序很棒，但我无法从 Android 或 Arch 访问它。三星（Android 手机）日历应用程序很好，没什么值得大书特书的。 但是有没有类似通用日历应用程序的东西，甚至是自托管的？ （我有设置，所以我不介意）我厌倦了仅仅因为供应商锁定而必须处理不同的日历应用程序。  &amp;# 32；由   提交 /u/skwyckl   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/186xg4z/looking_for_a_crossplatform_macos_arch_linux_on/</guid>
+      <pubDate>Wed, 29 Nov 2023 19:11:49 GMT</pubDate>
+    </item>
     <item>
       <title>寻找一个从 Android 短信数据库（mmssms.db）中提取所有图片的应用程序</title>
       <link>https://www.reddit.com/r/software/comments/186t86b/looking_for_an_app_that_extracts_all_the_pictures/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[嗨！ 这是一个奇怪的请求，但我想我可以在这里尝试一些东西！ 所以我是一个超级神奇宝贝粉丝、超级神奇宝贝玩家和收藏家。多年来，我最终得到了很多神奇宝贝。太多了，需要跟踪。 我已经使用一些工作表很多年了，但它不够强大。滞后，数据量太高，而且可定制性不够。 所以我想知道是否有一个小软件，像库存工具这样简单的东西，可以足够定制来处理神奇宝贝数据。我并不是要求太花哨的东西，只是要求允许良好搜索、按不同类型的组显示等的东西。 希望我能够找到一些东西:( 非常感谢 o/    提交者    /u/Aligatueur   [link]  [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1866al8/looking_for_an_db_inventory_like_for_video_game/</guid>
       <pubDate>Tue, 28 Nov 2023 20:48:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>防病毒软件的可靠性如何？</title>
-      <link>https://www.reddit.com/r/software/comments/18658g5/how_reliable_are_antiviruses/</link>
-      <description><![CDATA[我即将获得适用于 Windows 和 Android 的最佳防病毒软件。 （预算无限）我有几个问题，希望你能帮助我。 所以我的第一个基本问题是你有什么建议？诺顿、Total AV、Nord、Bitdefender 或 st。还有什么？ 我的另一个问题是我在标题中提到的。我可以相信他们吗？这是一个可以查看我设备中所有内容的软件。而且还有很多选项可以让他们管理我的密码，这确实非常方便。也许我有点偏执，但为公司提供所有敏感数据对我有好处吗？  我很欣赏任何想法或意见;D   由   提交/u/Beginning_Nature157   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/18658g5/how_reliable_are_antiviruses/</guid>
-      <pubDate>Tue, 28 Nov 2023 20:03:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找软件</title>
-      <link>https://www.reddit.com/r/software/comments/18643s1/looking_for_software/</link>
-      <description><![CDATA[我正在尝试找到一个 Windows 应用程序，它可以替代 Windows 资源管理器（如 rx 资源管理器、文件、一个指挥官...等），但可以将特定的文件和文件夹放入其中，并按照我想要的方式组织这些文件和文件夹，并且与 Windows 资源管理器及其中的文件和文件夹分开。我有什么选择？    由   提交/u/ThePlagu3_2   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/18643s1/looking_for_software/</guid>
-      <pubDate>Tue, 28 Nov 2023 19:16:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>图片/视频</title>
-      <link>https://www.reddit.com/r/software/comments/1863tn9/bilder_videos/</link>
-      <description><![CDATA[嗨， 也许有人对以下情况有提示： 我遇到了一个PC 有一段时间 十多年来，图像和视频一直是从其他设备（主要是手机）备份的。多年来，PC 上有大量的图片和视频，不幸的是，它们都分散在多个文件夹或子文件夹中，而且有很多东西多次存在。  我想将这台电脑上的所有图片和视频备份到外部硬盘上。  这就是为什么我正在寻找一种程序来查找我的电脑上的所有图片和视频，然后我可以将它们移动到外部电脑。当然，如果程序也能找到相同的文件，并且我只能保存该文件一次，那就更好了。   由   提交/u/Jonny3813  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1863tn9/bilder_videos/</guid>
-      <pubDate>Tue, 28 Nov 2023 19:05:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
