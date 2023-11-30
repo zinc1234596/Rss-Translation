@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 30 Nov 2023 09:11:58 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Nov 2023 12:21:23 GMT</lastBuildDate>
+    <item>
+      <title>雇主会关心使用 Sourcehut 而不是 GitHub 吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/187grr3/would_employers_care_about_using_sourcehut_over/</link>
+      <description><![CDATA[我目前正在使用 Sourcehut 作为我的主要代码“forge” bc 我无法忍受 GitHub 将他们的产品塞进所有东西的方式。 我有一个 GH 帐户，我正在考虑在那里镜像我的东西 - 但你认为雇主会关心 Sourcehut 是否是我的主要代码“forge”？ 我只是问，因为电子邮件的工作流程与 GH PR 等非常不同，我熟悉的 GitHub Actions 版本不同，没有带有绿色方块的页面显示哪个打开我贡献过的源项目等。 只是好奇你们怎么想   由   提交/u/rain4472  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/187grr3/would_employers_care_about_using_sourcehut_over/</guid>
+      <pubDate>Thu, 30 Nov 2023 11:51:53 GMT</pubDate>
+    </item>
     <item>
       <title>寻找某人来代码审查用于生成人工智能应用程序的开源 Typescript+WebAssembly 框架</title>
       <link>https://www.reddit.com/r/opensource/comments/187e49l/looking_for_someone_to_codereview_an_opensource/</link>
@@ -18,13 +25,6 @@
       <description><![CDATA[ 由   提交/u/EvilOmega99   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/187drn2/an_application_with_which_i_can_restrict_access/</guid>
       <pubDate>Thu, 30 Nov 2023 08:28:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>错误是在我这边，还是如果提交未签名，我只需要等待存储库的所有者？</title>
-      <link>https://www.reddit.com/r/opensource/comments/187dji4/is_the_error_on_my_side_or_i_just_have_to_wait/</link>
-      <description><![CDATA[嗨！ 我为一个开源项目做出了贡献，今天它得到了审核并被接受。拉取请求仍然有一条错误消息：“合并被阻止基础分支要求对所有提交进行签名。”  这个问题是我这边的问题还是可以由仓库所有者解决？如果是这样，在我打开有关它的拉取请求后我可以做什么来签署它？是不是太晚了？ ​ 图片： https://ibb .co/k3856Bg    由   提交 /u/velocyy   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/187dji4/is_the_error_on_my_side_or_i_just_have_to_wait/</guid>
-      <pubDate>Thu, 30 Nov 2023 08:13:21 GMT</pubDate>
     </item>
     <item>
       <title>软件供应链安全中真正最薄弱的环节（不是开源的）</title>
