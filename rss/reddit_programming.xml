@@ -4,7 +4,77 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Thu, 30 Nov 2023 18:14:49 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Nov 2023 21:11:12 GMT</lastBuildDate>
+    <item>
+      <title>用于绘制梁的剪力图和弯矩图的 Python 代码。 Python在土木工程中的应用。 （西班牙语音频）</title>
+      <link>https://www.reddit.com/r/programming/comments/187stlu/python_code_for_to_draw_shear_and_bending_moment/</link>
+      <description><![CDATA[Este pequeño 程序必须使用图书馆 sympy para integrar la carga distribuida y así obtener las ecuaciones de corte y Momento actuante en una viga。该程序展示了如何使用库“sympy”集成加载函数并解析两个列表中的值。一个用于剪切，另一个用于弯矩。   由   提交 /u/TheUrbanBiker   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/187stlu/python_code_for_to_draw_shear_and_bending_moment/</guid>
+      <pubDate>Thu, 30 Nov 2023 20:52:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>PDF 的历史</title>
+      <link>https://www.reddit.com/r/programming/comments/187sl0b/the_history_of_the_pdf/</link>
+      <description><![CDATA[ 由   提交/u/dwynings  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/187sl0b/the_history_of_the_pdf/</guid>
+      <pubDate>Thu, 30 Nov 2023 20:42:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>通用登录 A/B 测试</title>
+      <link>https://www.reddit.com/r/programming/comments/187sjjg/universal_login_ab_testing/</link>
+      <description><![CDATA[ 由   提交 /u/robertinoc   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/187sjjg/universal_login_ab_testing/</guid>
+      <pubDate>Thu, 30 Nov 2023 20:40:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>代码实验室 - Postgres 中的作业队列 (Python)</title>
+      <link>https://www.reddit.com/r/programming/comments/187s3dj/code_lab_job_queues_in_postgres_python/</link>
+      <description><![CDATA[ 由   提交/u/big-papito  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/187s3dj/code_lab_job_queues_in_postgres_python/</guid>
+      <pubDate>Thu, 30 Nov 2023 20:21:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>我为用户而战</title>
+      <link>https://www.reddit.com/r/programming/comments/187s0mv/i_fight_for_the_users/</link>
+      <description><![CDATA[ 由   提交/u/dwaxe  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/187s0mv/i_fight_for_the_users/</guid>
+      <pubDate>Thu, 30 Nov 2023 20:18:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Firefox 开发者版和测试版：尝试 Mozilla 的 .deb 包！</title>
+      <link>https://www.reddit.com/r/programming/comments/187rljh/firefox_developer_edition_and_beta_try_out/</link>
+      <description><![CDATA[ 由   提交/u/feross  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/187rljh/firefox_developer_edition_and_beta_try_out/</guid>
+      <pubDate>Thu, 30 Nov 2023 20:01:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>提醒：Code 2023 的降临明天开始</title>
+      <link>https://www.reddit.com/r/programming/comments/187rcp3/reminder_advent_of_code_2023_starts_tomorrow/</link>
+      <description><![CDATA[ 由   提交 /u/Milumet    [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/187rcp3/reminder_advent_of_code_2023_starts_tomorrow/</guid>
+      <pubDate>Thu, 30 Nov 2023 19:50:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>像Google一样建立授权</title>
+      <link>https://www.reddit.com/r/programming/comments/187qq1t/build_authorization_like_google/</link>
+      <description><![CDATA[ 由   提交/u/Permit_io   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/187qq1t/build_authorization_like_google/</guid>
+      <pubDate>Thu, 30 Nov 2023 19:24:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>图形文件格式简介：一种纯文本、分层数据文件格式，易于解析且易于阅读。哦，还有评论。</title>
+      <link>https://www.reddit.com/r/programming/comments/187poda/introducing_the_graphfileformat_a_plain_text/</link>
+      <description><![CDATA[ 由   提交/u/TemperOfficial  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/187poda/introducing_the_graphfileformat_a_plain_text/</guid>
+      <pubDate>Thu, 30 Nov 2023 18:39:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>停止构建数据库</title>
+      <link>https://www.reddit.com/r/programming/comments/187plb2/stop_building_databases/</link>
+      <description><![CDATA[ 由   提交/u/carlsverre  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/187plb2/stop_building_databases/</guid>
+      <pubDate>Thu, 30 Nov 2023 18:36:04 GMT</pubDate>
+    </item>
     <item>
       <title>关于命名主机的有趣 RFC</title>
       <link>https://www.reddit.com/r/programming/comments/187p0wf/interesting_rfc_on_naming_your_hosts/</link>
@@ -39,76 +109,6 @@
       <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/187niva/unleashing_pypi_support_in_the_pixi_package/</guid>
       <pubDate>Thu, 30 Nov 2023 17:08:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>JavaScript 正则表达式的线性匹配 [pdf]</title>
-      <link>https://www.reddit.com/r/programming/comments/187nikf/linear_matching_of_javascript_regular_expressions/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/187nikf/linear_matching_of_javascript_regular_expressions/</guid>
-      <pubDate>Thu, 30 Nov 2023 17:07:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 Pandas 世界中使用 Polars</title>
-      <link>https://www.reddit.com/r/programming/comments/187ni4w/using_polars_in_a_pandas_world/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/187ni4w/using_polars_in_a_pandas_world/</guid>
-      <pubDate>Thu, 30 Nov 2023 17:07:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Rust 中固定的三个问题</title>
-      <link>https://www.reddit.com/r/programming/comments/187nh6h/three_problems_of_pinning_in_rust/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/187nh6h/three_problems_of_pinning_in_rust/</guid>
-      <pubDate>Thu, 30 Nov 2023 17:06:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>智能指针的神话</title>
-      <link>https://www.reddit.com/r/programming/comments/187ngkh/the_myth_of_smart_pointers/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/187ngkh/the_myth_of_smart_pointers/</guid>
-      <pubDate>Thu, 30 Nov 2023 17:05:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google 的开源供应链安全</title>
-      <link>https://www.reddit.com/r/programming/comments/187ngjg/open_source_supply_chain_security_at_google/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/187ngjg/open_source_supply_chain_security_at_google/</guid>
-      <pubDate>Thu, 30 Nov 2023 17:05:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>C/C++ 中的未对齐访问：什么、为什么以及正确执行的解决方案</title>
-      <link>https://www.reddit.com/r/programming/comments/187nepi/unaligned_accesses_in_cc_what_why_and_solutions/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/187nepi/unaligned_accesses_in_cc_what_why_and_solutions/</guid>
-      <pubDate>Thu, 30 Nov 2023 17:03:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Q-Transformer：通过自回归 Q-Function 进行可扩展的离线强化学习</title>
-      <link>https://www.reddit.com/r/programming/comments/187ne1l/qtransformer_scalable_offline_reinforcement/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/187ne1l/qtransformer_scalable_offline_reinforcement/</guid>
-      <pubDate>Thu, 30 Nov 2023 17:02:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>Web 应用程序本地化。在铁锈中。</title>
-      <link>https://www.reddit.com/r/programming/comments/187n1oo/web_app_localization_in_rust/</link>
-      <description><![CDATA[ 由   提交/u/skwee357  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/187n1oo/web_app_localization_in_rust/</guid>
-      <pubDate>Thu, 30 Nov 2023 16:47:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kolibri OS：适合软盘，使用中断进行编程</title>
-      <link>https://www.reddit.com/r/programming/comments/187m9sb/kolibri_os_fits_on_a_floppy_disk_programmed_using/</link>
-      <description><![CDATA[ 由   提交 /u/garbodori   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/187m9sb/kolibri_os_fits_on_a_floppy_disk_programmed_using/</guid>
-      <pubDate>Thu, 30 Nov 2023 16:15:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>致施诺尔及以后（第 2 部分）</title>
-      <link>https://www.reddit.com/r/programming/comments/187llr1/to_schnorr_and_beyond_part_2/</link>
-      <description><![CDATA[ 由   提交/u/feross  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/187llr1/to_schnorr_and_beyond_part_2/</guid>
-      <pubDate>Thu, 30 Nov 2023 15:47:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
