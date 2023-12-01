@@ -4,7 +4,21 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Fri, 01 Dec 2023 09:11:21 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 Dec 2023 12:20:09 GMT</lastBuildDate>
+    <item>
+      <title>您认为Q*是突破还是稳步进步的标志？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1887whk/do_you_think_q_is_a_breakthrough_or_a_sign_of/</link>
+      <description><![CDATA[山姆·奥尔特曼 昨天确认了 Q* 泄漏，但我们对 Q* 仍然知之甚少，而且贝尔曼方程中的 Q* 似乎有些混乱 - 所以让我们先说清楚：  值得注意的是，Q* 不应与贝尔曼方程中的 Q* 变量混淆，贝尔曼方程是强化学习中的一个众所周知的概念 - ... 相比之下，OpenAI 的 Q*正如路透社文章中提到的，似乎是具有杰出数学能力的人工智能模型或项目的代号，可能是通过结合 Q 学习和 A* 算法实现的。   现在，当谈到 Q* 项目是什么的问题时，似乎存在两个阵营。一个阵营显然将其宣传为“内部 AGI”。或者至少向 AGI 迈出了一点点：  Q* 的数学能力表明人工智能朝着更复杂、类人推理迈出了一步。 ...这样的发展可以呈指数级加速更复杂人工智能的进展  然而，人工智能研究人员正确看待这种兴奋：  受人尊敬的人工智能研究人员，包括 Meta 的 Yann LeCun ，认为 Q* 可能建立在当前工作的基础上，集成了 Q-learning 等技术，可提高任务性能，而 A* 是一种用于探索复杂网络中路径的算法。这些推测使 Q* 与人工智能研究的持续趋势保持一致，表明稳步进展而不是剧烈转变。  请参阅此处的文章：https://www.daniweb.com/community-center/op-ed/541115/q-star-what -is-openai-hiding 你觉得怎么样？ Q* 是闭门造车的 AGI 还是只是被过度炒作的一小步？   由   提交 /u/light  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1887whk/do_you_think_q_is_a_breakthrough_or_a_sign_of/</guid>
+      <pubDate>Fri, 01 Dec 2023 09:36:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>2023 年 11 月最值得关注的人工智能新闻报道</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1887lbm/the_most_noteworthy_ai_news_stories_from_november/</link>
+      <description><![CDATA[ OpenAI 的所有领导层交接都分三段。 链接&lt; /li&gt; OpenAI 的新功能。 链接&lt; /li&gt; Elon Musk 推出人工智能聊天机器人 Grok。 链接 稳定性 AI 版本。 链接  《纽约客》对人工智能问题的封面。 链接 真实且幻化的文字那一年。 链接  要了解更多信息，请阅读我们的完整回顾.   由   提交/u/alina_valyaeva  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1887lbm/the_most_noteworthy_ai_news_stories_from_november/</guid>
+      <pubDate>Fri, 01 Dec 2023 09:14:26 GMT</pubDate>
+    </item>
     <item>
       <title>5G对人工智能产业的影响</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1886y0h/impact_of_5g_on_the_artificial_intelligence/</link>
@@ -62,13 +76,6 @@
       <pubDate>Fri, 01 Dec 2023 02:17:50 GMT</pubDate>
     </item>
     <item>
-      <title>构建 GPT 的“训练营”——您想要涵盖哪些内容？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/18803vp/bootcamp_for_building_gpts_what_would_you_want/</link>
-      <description><![CDATA[我正在考虑举办一个训练营来帮助人们创建 GPT。有什么您认为特别有帮助的内容吗？ 我暂时想到的是（3 天，每天 1 小时）： 第 1 天： &lt; ul&gt; 如何查找 GPT 和一些收藏夹 GPT 的限制 针对特定工作职能（例如营销、销售等）的 GPT 示例 &lt; li&gt;小组头脑风暴：构建 GPT 的想法 问答  第 2 天：  仅使用以下内容构建一个简单的 GPT：指导 添加文档 讨论限制 提示工程技术 通过编写提示构建高级 GPT 问答  第 3 天：  来自 GPT 的 API 调用 调试 GPT 提交您的 GPT 到 GPT 列表 如何将 GPT 添加到您的网站、Whatsapp 等 问答  您缺少的内容想学吗？   由   提交/u/skywalker404  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/18803vp/bootcamp_for_building_gpts_what_would_you_want/</guid>
-      <pubDate>Fri, 01 Dec 2023 02:07:16 GMT</pubDate>
-    </item>
-    <item>
       <title>是否有证据表明人工智能将真正具有意识？有更多证据支持或反对这个想法吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/187rzag/is_there_evidence_to_conclude_that_ai_will_ever/</link>
       <description><![CDATA[这是过去几天我一直在想的事情。人工智能是否有可能真正变得有意识，或者它只是真的擅长模仿有意识的行为？   由   提交/u/New_Language4727   [链接] [评论]]]></description>
@@ -81,13 +88,6 @@
       <description><![CDATA[Google DeepMind 的 AI 模型“GNoME”具有 预测了超过 220 万种晶体材料的结构，发现了 381,000 种在半导体、超级计算机和电池领域具有潜在应用潜力的稳定新材料。 “我们已经将技术上可行的材料数量成倍增加”公司表示：“如果您想在人工智能和技术领域保持领先地位，首先看看这里. 创新发现  发现规模：GNoME 发现了超过 220 万种新晶体材料，45 次比以前已知的更多。 稳定材料：其中，381,000 种是稳定的，对于各种工程应用至关重要。  潜力应用  超导体和电池：人工智能发现了 52,000 种新的层状化合物和 528 种潜在的锂离子导体。 推动现代技术：这些材料可以显着增强电动汽车电池和超级计算机等领域的技术。  来源 (独立） PS：如果您喜欢这篇文章，您会喜欢我的ML 驱动的时事通讯，它总结了来自 50 多家媒体的最佳人工智能/科技新闻。来自 OpenAI、Google、Meta…    的 21,000 多名专业人士正在阅读它。由   提交 /u/Nalix01   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/187po7z/deepminds_ai_has_found_more_new_materials_in_a/</guid>
       <pubDate>Thu, 30 Nov 2023 18:39:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能驱动的许可正在加速加州的太阳能部署</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/187lpfa/aipowered_permitting_is_speeding_up_solar/</link>
-      <description><![CDATA[Symbium 已与加州 22 个城市签约试用其软件，该软件使用自动化技术来缩短处理太阳能许可证所需的时间。 https://www.canarymedia.com/articles/solar/ai-powered-permitting-is-speeding-up-solar-deployments-in-california&quot;&gt; canarymedia.com/articles/solar/ai-powered-permitting-is-speeding-up-solar-deployments-in-california     ;由   提交/u/Natural_Dark_2387   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/187lpfa/aipowered_permitting_is_speeding_up_solar/</guid>
-      <pubDate>Thu, 30 Nov 2023 15:51:28 GMT</pubDate>
     </item>
     <item>
       <title>Google DeepMind 利用 AI 发现了 220 万种新材料，相当于近 800 年的知识价值。他们已经在实验室验证了 736 种股票。</title>

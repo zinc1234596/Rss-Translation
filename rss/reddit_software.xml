@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Fri, 01 Dec 2023 09:12:17 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 Dec 2023 12:20:48 GMT</lastBuildDate>
+    <item>
+      <title>用于将 pdf 提取为文本的 OCR 软件</title>
+      <link>https://www.reddit.com/r/software/comments/188a2w5/ocr_software_for_extracting_pdf_to_text/</link>
+      <description><![CDATA[嗨。如果有人可以帮助我获取扫描的 pdf（我无法选择文本）并进行更改，以便我可以实际复制粘贴文本，我将非常感激。我不熟悉使用 git-hub，并且我尝试使用将 pdf 提取为文本的网站都有远低于 330mb 的限制。任何建议/帮助将不胜感激。    由   提交/u/Financial_Finding137   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/188a2w5/ocr_software_for_extracting_pdf_to_text/</guid>
+      <pubDate>Fri, 01 Dec 2023 11:54:27 GMT</pubDate>
+    </item>
     <item>
       <title>很高兴我的副项目现在可以在 homebrew-core 中作为“cidr”使用:)</title>
       <link>https://www.reddit.com/r/software/comments/1887699/very_happy_that_my_side_project_is_now_available/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[我正在寻找一个程序来批量下载大量 m3u8 流文件。我希望能够一次添加一堆 m3u8 文件，然后命名每个文件，然后让程序将它们导出到 mp4。 有类似这样的吗？   由   提交/u/kauaiman-looking    reddit.com/r/software/comments/187csrc/looking_for_a_program_to_download_a_lot_of_m3u8/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/187csrc/looking_for_a_program_to_download_a_lot_of_m3u8/</guid>
       <pubDate>Thu, 30 Nov 2023 07:24:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mac 或浏览器在线音频分配器。将 1 个音频文件拆分为 X 个文件。</title>
-      <link>https://www.reddit.com/r/software/comments/187ai09/audio_splitter_in_mac_or_browser_online_split_1/</link>
-      <description><![CDATA[例如，我有一个 90 分钟的音频文件，我想将它们分成 3x 30 分钟的文件，无损或最小损失。音频是有声的（播客）。  音频编辑器就太复杂了。我只需要做那些非常简单的事情。   由   提交/u/istrangelylike63  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/187ai09/audio_splitter_in_mac_or_browser_online_split_1/</guid>
-      <pubDate>Thu, 30 Nov 2023 05:08:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
