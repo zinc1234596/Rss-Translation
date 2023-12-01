@@ -4,13 +4,27 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Fri, 01 Dec 2023 12:20:09 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 Dec 2023 15:11:09 GMT</lastBuildDate>
     <item>
-      <title>您认为Q*是突破还是稳步进步的标志？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1887whk/do_you_think_q_is_a_breakthrough_or_a_sign_of/</link>
-      <description><![CDATA[山姆·奥尔特曼 昨天确认了 Q* 泄漏，但我们对 Q* 仍然知之甚少，而且贝尔曼方程中的 Q* 似乎有些混乱 - 所以让我们先说清楚：  值得注意的是，Q* 不应与贝尔曼方程中的 Q* 变量混淆，贝尔曼方程是强化学习中的一个众所周知的概念 - ... 相比之下，OpenAI 的 Q*正如路透社文章中提到的，似乎是具有杰出数学能力的人工智能模型或项目的代号，可能是通过结合 Q 学习和 A* 算法实现的。   现在，当谈到 Q* 项目是什么的问题时，似乎存在两个阵营。一个阵营显然将其宣传为“内部 AGI”。或者至少向 AGI 迈出了一点点：  Q* 的数学能力表明人工智能朝着更复杂、类人推理迈出了一步。 ...这样的发展可以呈指数级加速更复杂人工智能的进展  然而，人工智能研究人员正确看待这种兴奋：  受人尊敬的人工智能研究人员，包括 Meta 的 Yann LeCun ，认为 Q* 可能建立在当前工作的基础上，集成了 Q-learning 等技术，可提高任务性能，而 A* 是一种用于探索复杂网络中路径的算法。这些推测使 Q* 与人工智能研究的持续趋势保持一致，表明稳步进展而不是剧烈转变。  请参阅此处的文章：https://www.daniweb.com/community-center/op-ed/541115/q-star-what -is-openai-hiding 你觉得怎么样？ Q* 是闭门造车的 AGI 还是只是被过度炒作的一小步？   由   提交 /u/light  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1887whk/do_you_think_q_is_a_breakthrough_or_a_sign_of/</guid>
-      <pubDate>Fri, 01 Dec 2023 09:36:25 GMT</pubDate>
+      <title>SocialFi：通过这五个项目结交朋友并影响人们</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/188dw3g/socialfi_trade_friends_and_influence_people_with/</link>
+      <description><![CDATA[在最近的一篇文章中，我们讨论了 2023 年社会金融（也称为 SocialFi 或 SoFi）的日益普及。这种有趣且实验性的新货币化方式社交网络帮助加密货币迷们在过去 12 个月的熊市中自娱自乐，同时为 Web3 提供了一个引人注目的新用例。  https://magazine。 mindplex.ai/socialfi-trade-friends-and-influence-people-with-these- Five-projects/   由   提交 /u/ChikyChikyBoom   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/188dw3g/socialfi_trade_friends_and_influence_people_with/</guid>
+      <pubDate>Fri, 01 Dec 2023 14:57:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能帮助会议重新转录？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/188d2ww/ai_for_helping_in_meeting_retranscription/</link>
+      <description><![CDATA[你好， 我知道这并不完全是这个小组的目的，但我正在寻找帮助者。  我想在基本的办公室工作中展示人工智能的能力；为此，我建议我们记录会议并使用 Whisper 转录对话并使用 Claude 总结所有内容。 希望明年我们会购买一台足够强大的计算机来处理此类事情，但对于现在，我们基本上拥有带有屏幕的精美打字机。 有人可以为此推荐一个好的网站吗？我知道 Fal.ai 提供了 Whisper 的访问权限，但也许某个地方存在更好的东西？ 甚至可能是 WhisperX 的易于使用的实现（用于不同说话者的分类）？我在合作中观看了辅导课，但我们的会议通常超过 1 小时，所以我不知道它是否合适？ 我很高兴了解您的想法（并随意烤我的）英语，我只是一个基本的法语 sacrebleu）。   由   提交 /u/CedricLimousin   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/188d2ww/ai_for_helping_in_meeting_retranscription/</guid>
+      <pubDate>Fri, 01 Dec 2023 14:23:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>每日两分钟 AI 更新（日期：2023 年 12 月 1 日）：来自 Meta、NVIDIA、Mastercard、Microsoft、HPE 和 Samsung 的重大新闻</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/188bkpy/twominute_daily_ai_update_date_12012023_major/</link>
+      <description><![CDATA[继续分享人工智能领域当天主要更新的易于理解且较小的版本。   Meta 的新人工智能使 100 种语言无缝沟通 - Meta 开发了一系列名为“无缝沟通”的 4 个人工智能研究模型，旨在消除语言消除障碍，实现更自然、真实的跨语言交流。 SeamlessExpressive：旨在保留跨语言的表达方式和复杂性。 SeamlessStreaming：传送语音和大约 02 秒延迟的文本翻译。 SeamlessM4T v2：一种基础的多语言和多任务模型，使人们可以通过语音和文本轻松进行交流。 &lt; li&gt;无缝：结合了其他模型的功能 NVIDIA 研究人员已将类人智能集成到 ADS 中 - 在本文中，NVIDIA、斯坦福大学团队和南加州大学的研究人员发布了“Agent-driver”，它将类人智能集成到驾驶系统中。它利用 LLM 作为认知代理来增强决策、推理和规划。 - Agent-Driver 系统包括多功能工具库、认知记忆和推理引擎。  万事达卡推出 Muse，用于定制购物的人工智能 - 万事达卡推出了 Shopping Muse，这是一款人工智能驱动的工具，可帮助消费者找到完美的礼物。人工智能将根据个人消费者的个人资料、意图和亲和力在零售商的网站上提供个性化推荐。 Shopping Muse 将消费者通过聊天机器人提出的请求转化为量身定制的产品推荐，包括协调产品和配件的建议。 - 它会考虑购物者的浏览历史记录和过去的购买行为，以更好地估计未来的购买意图。  微软计划在英国投资 3.2B 美元以推动人工智能进步 - 这将是未来三年内其在该国迄今为止最大的投资。这笔资金将支持人工智能的发展，并将使微软在英国的数据中心足迹扩大一倍以上。此次投资正值英国政府寻求私人投资来促进基础设施发展，特别是人工智能等行业的发展。 HPE 和 NVIDIA 扩大了合作，以增强人工智能产品&lt; br /&gt; - 该合作伙伴关系旨在使客户成为“人工智能驱动的企业”为他们提供利用 Nvidia 人工智能功能的产品。该交易预计将增强生成式人工智能能力，并帮助用户最大限度地发挥人工智能技术的潜力。 Voicemod 现在允许用户创建和分享自己的人工智能声音 -这个人工智能变声平台的新功能包括人工智能变声器，它可以让用户创建和定制不同性别、年龄和音调的合成声音。 - 用户还可以使用 Voicelab 功能微调自己的声音，调整音调、音量、频率以及添加音频效果。此更新为用户提供了几乎无限的选项来创建独特的声音。这些声音可以在社区声音上共享，允许用户访问和使用其他用户的 DIY 声音。 Voicemod 被流媒体和游戏玩家广泛使用。 三星推出了一种名为低延迟宽 IO (LLW) 的新型 DRAM - 公司声称它非常适合移动设备人工智能处理和游戏。与目前移动设备中使用的LPDDR模块相比，它在处理实时数据方面更加高效。它位于 SoC 内的 CPU 旁边，适用于游戏和 AI 应用。 - 三星在智能手机、笔记本电脑、游戏机和 XR 设备的视频中展示了 LLW DRAM 的可能性。  Ideogram 刚刚推出图像提示 - 多伦多人工智能初创公司 Ideogram 推出了自己的文本到图像生成器平台，与 DALL-E 等现有平台竞争、Midjourney 和 Adob​​e Firefly。 现在，除了文本之外，您还可以上传图像并使用视觉输入控制输出。这些新闻和创新的更多详细信息，请参见 每日通讯。    由   提交 /u/RohitAkki   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/188bkpy/twominute_daily_ai_update_date_12012023_major/</guid>
+      <pubDate>Fri, 01 Dec 2023 13:14:08 GMT</pubDate>
     </item>
     <item>
       <title>2023 年 11 月最值得关注的人工智能新闻报道</title>
@@ -34,25 +48,11 @@
       <pubDate>Fri, 01 Dec 2023 06:11:56 GMT</pubDate>
     </item>
     <item>
-      <title>可以把照片变成肖像画的网站</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1884f8k/website_that_can_turn_photo_into_a_painted/</link>
-      <description><![CDATA[是否有某种人工智能照片生成网站可以用来将狗的照片变成一幅画？我想拍几张肖像，这样我就可以把它们装裱起来送给一些客户作为圣诞礼物。非常感谢任何帮助或指导 与此类似 https://paintmypooch.ca/products/watercolour-pet-portrait?currency= CAD&amp;variant=43461478088912&amp;utm_medium=cpc&amp;utm_source=google&amp;utm_campaign=Google%20Shopping&amp;stkn=55bb1a11cbba&amp;gad_source=1&amp;gclid=Cj0KCQiAgqGrBhDtARISAM5s0_mItRxQQhQzRNI4 ll7fY65XBoHHKEEaPMernrL_19_j7oaNc-Zxl6EaAnpLEALw_wcB  或者这个 https://paintmypooch.ca/products/single-pet-portrait?currency=CAD&amp;variant=4 2972​​022407376&amp;utm_medium=cpc&amp;utm_source=google&amp;utm_campaign=Google%20Shopping&amp;stkn =55bb1a11cbba&amp;gad_source=1&amp;gclid=Cj0KCQiAgqGrBhDtARISAM5s0_nvYIscMNpqvhq0qQM5OS3asmVdyFjdlymfBG_-iTOUvfN03gz4yE8aAtFJEALw_wcB   由   提交/u/prudentflows  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1884f8k/website_that_can_turn_photo_into_a_painted/</guid>
-      <pubDate>Fri, 01 Dec 2023 05:48:44 GMT</pubDate>
-    </item>
-    <item>
       <title>每日一分钟人工智能新闻 11/30/2023</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1884851/oneminute_daily_ai_news_11302023/</link>
       <description><![CDATA[ Google DeepMind 的研究人员已利用人工智能预测了超过 200 万种新材料的结构，这是一项突破，可能会给可再生能源和计算等领域带来广泛的好处。[1] Bitmagic启动基于人工智能的游戏创建平台的公开测试。[2]  Meta 推出 Audiobox，一种用于自定义音频生成的新基础模型。[3] 亚马逊宣布推出Q，一款面向企业的人工智能聊天机器人。[4] 来源：https://bushaicave.com/2023/11/30/11-30-2023/    由   提交 /u/Excellent-Target-847   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1884851/oneminute_daily_ai_news_11302023/</guid>
       <pubDate>Fri, 01 Dec 2023 05:37:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>RE: Q-451-921（第 4 段：QUALIA，又名 Q*，阴谋论）</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1883w84/re_q451921_paragraph_4_qualia_aka_q_conspiracy/</link>
-      <description><![CDATA[来自 6 天前 David Shapiro 的 YouTube 视频： 不会发布第 1 至第 3 段，但这是外行人的总结条款：  第 1 段：QUALIA 能够学得更快，因为它可以思考自己的想法，并且能够将之前学到的知识应用到新情况中，而无需 第2段：QUALIA不需要任何人教它东西，它通过阅读文章等自行学习，然后应用到不同的情况。 第 3 段：这里的含义是 Q* 能够发现超出人类理解的新数学，以实现我们认为只有量子计算才能实现的目标。  这就是我们进入段落的地方4&amp;显然是最让人们害怕的。如果为真，模型会通过评估自身提出建议，以便如何修改和修改。改进它的“大脑”。  “在评估每个参数对干扰精度的重要性后，建议对其模型进行有针对性的非结构化底层剪枝。它还建议使用新型“变形”模型将生成的修剪后的 Transformer 模型（及其当前上下文记忆）调整为不同的格式。引擎。该建议的可行性也尚未得到评估，但目前我们不建议实施。”  总结： 将 QUALIA 视为一位艺术家，拥有一块黏土。艺术家开始雕刻，去除不需要露出内部雕像的粘土块。这就像“修剪”一样。在 QUALIA 的世界中，它看着自己的大块“粘土”——实际上是由小旋钮和开关（参数）组成的大脑——然后它决定不需要哪些部分来做出更好的决策（推理准确性） ）。 QUALIA 完成修剪后，它的大脑变得更光滑、更专注，更能解决问题。然后，它有一个很酷的想法：“如果我可以将我光滑的大脑变成可以做更多事情的不同形状，会怎样？”这就像拿起雕像并说它可以在需要解决新问题时变成不同的雕像。 QUALIA 希望通过使用“变形引擎”来做到这一点。这是一种奇特的说法，它可以改变大脑的结构，以便更好地完成不同的任务。   由   提交 /u/MusicWasMy1stLuv   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1883w84/re_q451921_paragraph_4_qualia_aka_q_conspiracy/</guid>
-      <pubDate>Fri, 01 Dec 2023 05:20:33 GMT</pubDate>
     </item>
     <item>
       <title>以 2 倍速度阅读网页链接的最佳免费文本转语音网站是什么？</title>
@@ -69,11 +69,11 @@
       <pubDate>Fri, 01 Dec 2023 02:19:20 GMT</pubDate>
     </item>
     <item>
-      <title>为什么我的朋友会收到来自 Snapchat AI 的这条消息？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1880bqm/why_did_my_friend_get_this_message_from_snapchat/</link>
-      <description><![CDATA[我无法在帖子中附加屏幕截图（如果需要，您可以私信我），但我的朋友收到了有关快照的通知Snapchat AI，所以她打开了它。据说她之前就发了一张照片，Snap AI 说“镜子里的自拍照真好看！”。当我的朋友问（因为她之前没有打开应用程序）什么是镜子自拍时，人工智能说它一定很困惑，并问她它能提供什么帮助。  这是一个已知的 Snapchat 故障吗？有什么理由可以这么说吗？抱歉，如果这不是正确的 Reddit 子版块，我只是认为这是一个很好的起点   由   提交/u/Aroni_Macaroni   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1880bqm/why_did_my_friend_get_this_message_from_snapchat/</guid>
-      <pubDate>Fri, 01 Dec 2023 02:17:50 GMT</pubDate>
+      <title>构建 GPT 的“训练营”——您想要涵盖哪些内容？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/18803vp/bootcamp_for_building_gpts_what_would_you_want/</link>
+      <description><![CDATA[我正在考虑举办一个训练营来帮助人们创建 GPT。有什么您认为特别有帮助的内容吗？ 我暂时想到的是（3 天，每天 1 小时）： 第 1 天： &lt; ul&gt; 如何查找 GPT 和一些收藏夹 GPT 的限制 针对特定工作职能（例如营销、销售等）的 GPT 示例 &lt; li&gt;小组头脑风暴：构建 GPT 的想法 问答  第 2 天：  仅使用以下内容构建一个简单的 GPT：指导 添加文档 讨论限制 提示工程技术 通过编写提示构建高级 GPT 问答  第 3 天：  来自 GPT 的 API 调用 调试 GPT 提交您的 GPT 到 GPT 列表 如何将 GPT 添加到您的网站、Whatsapp 等 问答  您缺少的内容想学吗？   由   提交/u/skywalker404  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/18803vp/bootcamp_for_building_gpts_what_would_you_want/</guid>
+      <pubDate>Fri, 01 Dec 2023 02:07:16 GMT</pubDate>
     </item>
     <item>
       <title>是否有证据表明人工智能将真正具有意识？有更多证据支持或反对这个想法吗？</title>
