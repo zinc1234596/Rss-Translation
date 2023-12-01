@@ -4,111 +4,111 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 01 Dec 2023 15:12:31 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 Dec 2023 18:14:34 GMT</lastBuildDate>
     <item>
-      <title>启动新域名的痛苦：避免服务提供商过滤</title>
-      <link>https://www.reddit.com/r/webdev/comments/188dp2e/the_pain_of_launching_a_new_domain_avoiding_the/</link>
-      <description><![CDATA[       由   提交/u/culturezoo  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/188dp2e/the_pain_of_launching_a_new_domain_avoiding_the/</guid>
-      <pubDate>Fri, 01 Dec 2023 14:49:34 GMT</pubDate>
+      <title>从数据库获取数据之前如何检查 Supabase 工作状态</title>
+      <link>https://www.reddit.com/r/webdev/comments/188hyfa/how_to_check_supabase_status_working_before/</link>
+      <description><![CDATA[开发人员大家好 我想在执行插入操作之前测试它是否有效。我读到我需要使用 /health 或类似的东西来检查 Supabase 的运行状况。您会推荐什么？   由   提交/u/1chbinamin   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/188hyfa/how_to_check_supabase_status_working_before/</guid>
+      <pubDate>Fri, 01 Dec 2023 17:51:20 GMT</pubDate>
     </item>
     <item>
-      <title>有没有现实生活中为电子商务应用程序上传图像的解决方案？</title>
-      <link>https://www.reddit.com/r/webdev/comments/188dndc/any_reallife_solution_to_uploading_images_for_an/</link>
-      <description><![CDATA[大家好！我想询问从事电子商务项目的开发人员。现实生活中上传产品图片的解决方案是什么？这是一个简单的管理，您必须手动进行上传，还是我们可以以某种方式自动化此过程。也许以某种方式将每张照片保存在一个特定的文件中，并使用命名约定，然后读取文件并将它们传播到产品中？这是可行的还是只使用管理面板。如果我们有 1000 个带有不同照片的项目等，那么使用 admin 似乎是多余的。感谢您的关注！祝你有美好的一天！   由   提交 /u/Fluffy-Hat-5538   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/188dndc/any_reallife_solution_to_uploading_images_for_an/</guid>
-      <pubDate>Fri, 01 Dec 2023 14:47:30 GMT</pubDate>
+      <title>从数据库获取数据之前如何检查 Supabase 工作状态</title>
+      <link>https://www.reddit.com/r/webdev/comments/188hyce/how_to_check_supabase_status_working_before/</link>
+      <description><![CDATA[开发人员大家好 我想在执行插入操作之前测试它是否有效。我读到我需要使用 /health 或类似的东西来检查 Supabase 的运行状况。您会推荐什么？   由   提交/u/1chbinamin   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/188hyce/how_to_check_supabase_status_working_before/</guid>
+      <pubDate>Fri, 01 Dec 2023 17:51:14 GMT</pubDate>
     </item>
     <item>
-      <title>弹性问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/188di03/flex_issue/</link>
-      <description><![CDATA[      我不明白为什么这个 flex 不能正常工作 - 正如你从 iamge 中看到的，一个 div 占据了大约 90% 的空间。 HTML: HTML: 节类=“flex-container-90”&gt; &lt;div class=&quot;flex-item&quot;&gt; &lt;img src=“资产/SLP Stock Photo 5a-cropped.jpg” &gt;&gt;    &lt;p class=&quot;main&quot;&gt;帮助您支持&lt;/p&gt;  &lt;/section&gt; CSS: .flex-container-90 { 宽度：90%;保证金：0 自动；显示：柔性； justify-content：空间周围； } .flex-item img { 宽度：33%;顶部边距：5em； }  知道发生了什么吗？希望图像位于其所在位置，而文本应与图像相邻。 TIA https://preview。 redd.it/ekg7nvje3p3c1.png?width=1280&amp;format=png&amp;auto=webp&amp;s=ac3edbbbf93d3e863b8cd14ce4df89023fd4c6ae   由   提交 /u/LordBadgerFlaps   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/188di03/flex_issue/</guid>
-      <pubDate>Fri, 01 Dec 2023 14:41:13 GMT</pubDate>
+      <title>有人在任何静态托管提供商上部署过 nextjs 静态导出网站吗？面临页面未编入索引的问题，请求帮助..</title>
+      <link>https://www.reddit.com/r/webdev/comments/188hs1o/has_anyone_deployed_a_nextjs_static_export/</link>
+      <description><![CDATA[我使用 nextjs 构建了我的网站，并静态导出到名为 hostgator 的静态主机。我的网站可以正常运行，但搜索引擎优化团队抱怨说，除了主页之外的网站页面几个月以来都没有被索引。我已经检查了 SEO 所需的所有实现，但仍然没有获得排名。它对 robots.txt 、 sitemap.xml 进行加气，并附加到 Google 搜索控制台。   由   提交/u/shr-dev  /u/shr-dev  reddit.com/r/webdev/comments/188hs1o/has_anyone_deployed_a_nextjs_static_export/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/188hs1o/has_anyone_deployed_a_nextjs_static_export/</guid>
+      <pubDate>Fri, 01 Dec 2023 17:43:39 GMT</pubDate>
     </item>
     <item>
-      <title>Strapi.io 是 100% 本地的吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/188dd13/is_strapiio_100_local/</link>
-      <description><![CDATA[嗨，英语不是我的母语，所以如果我犯了任何重大错误，请原谅。我读过一些有关 CMS 解决方案的内容，在我看来，无头 CMS 是我的项目的最佳选择。我已经研究过很多 Strapi.io，但我似乎无法弄清楚 Strapi 是否 100% 本地，或者我的数据是否位于提供商拥有的数据湖中。 如果我理解正确的话，像 sanity.io 这样的提供商将您的数据托管在他们自己的服务器上，您基本上无法完全控制和/或访问您的数据。 Strapi 在这个主题上似乎有点不透明，因为我一直在努力寻找关于 Strapi 是否使用本地数据库或者数据是否存储在 Strapi 自己的服务器上的明确答案。 提前感谢您的回答。如果您还有其他问题，请随时询问，我很乐意编辑我的帖子。   由   提交 /u/TheName001   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/188dd13/is_strapiio_100_local/</guid>
-      <pubDate>Fri, 01 Dec 2023 14:35:23 GMT</pubDate>
+      <title>如何在 NextJS 中构造项目目录以类似于 Twitter 或 IG 工作</title>
+      <link>https://www.reddit.com/r/webdev/comments/188hg40/how_to_structure_the_project_directory_in_nextjs/</link>
+      <description><![CDATA[我希望用户能够访问 website.com/username 而不会与网站的其他部分发生冲突。有诸如 website.com/login 和 website.com/signup 之类的页面，因此当您尝试导航到它们时，会发生错误（TREE MISMATCH）。我明白为什么会发生这种情况，但想知道是否有办法避免这种情况发生。我看了看，Twitter 确实在 twitter.com/settings 上有设置（它重定向到 settings/account 但这不是重点）和 twitter.com/home&lt; /代码&gt;。当然他们没有使用 NextJS，但我很好奇他们是如何避免这种冲突的。主要是为了有一个好看的 URL，所以如果 NextJS 可以做到这一点那就太好了，但如果不能，我想它就是这样。 //当前文件结构 -src/应用程序 - (个人资料) - [...用户] - (profilePage)/ProfilePage -index.tsx - page.tsx - 布局.tsx - 登录 - page.tsx - 注册 - page.tsx - 设置 - 编辑 - page.tsx - page.tsx // 这仅重定向到编辑  我希望将非用户路由放在不同的位置，以便能够控制不同的布局并拥有单独的布局用户页面。我是否需要在同一目录中包含非用户路由，然后如果没有定义现有路由，则包罗万象的路由将对用户起作用？   由   提交 /u/clit_or_us   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/188hg40/how_to_structure_the_project_directory_in_nextjs/</guid>
+      <pubDate>Fri, 01 Dec 2023 17:29:44 GMT</pubDate>
     </item>
     <item>
-      <title>使用这个而不是常规的事件对象有什么问题吗</title>
-      <link>https://www.reddit.com/r/webdev/comments/188d7cw/is_there_anything_wrong_with_using_this_rather/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/188d7cw/is_there_anything_wrong_with_using_this_rather/</guid>
-      <pubDate>Fri, 01 Dec 2023 14:28:49 GMT</pubDate>
+      <title>需要帮助：分析 DIY 或第三方，以向用户显示用户特定的见解。例如：页面浏览量、我的网络应用程序中用户页面上的按钮点击次数等。</title>
+      <link>https://www.reddit.com/r/webdev/comments/188hakv/need_help_analytics_diy_or_3rd_party_for_user/</link>
+      <description><![CDATA[问候 TL;DR: 我希望我的网页上的用户能够查看他们的个人资料访问和点击链接的数据。 ---下面的长版本---我正在创建一个链接聚合服务，作为一种爱好项目，但在现实世界的应用程序中。&lt; br /&gt; 我正在使用带有supabase 的NextJS 13.5。 每个用户都有一个唯一的个人资料页面/用户名，并且在该页面上有一个链接列表。 到这里一切都很好。  接下来，我计划添加分析来显示我的登录用户他们的页面有多少次访问以及他们页面上的每个链接/按钮被点击了多少次。我的数据库可能会开始过载在 API 请求中），因此这给我带来了另一种解决方案，即使用谷歌分析等第三方软件。  这是正确的方法还是DIY？如果您在 GA 中使用了第三方分析，如何通过 Google Analytics 在我的网络应用程序上显示用户特定数据？感谢您的宝贵时间。   由   提交/u/gabangang  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/188hakv/need_help_analytics_diy_or_3rd_party_for_user/</guid>
+      <pubDate>Fri, 01 Dec 2023 17:23:24 GMT</pubDate>
     </item>
     <item>
-      <title>自 iPadOS 17 起 <video> 无法正确渲染</title>
-      <link>https://www.reddit.com/r/webdev/comments/188csw7/video_not_rendering_properly_since_ipados_17/</link>
-      <description><![CDATA[大家好， 我注意到 无论使用哪种浏览器，标签都无法在 iPadOS 17 上正确渲染实时/WebRTC 流。  &lt;视频&gt;标签可以设置为任何宽度（相对、固定或视口），但大多数时候渲染的流的图像非常小，并且放置在左上角。因此，从视觉上看，您会看到一个黑匣子，视频在角落处可见。您还会注意到闪烁。 我现在无法让它在对象拟合方面也能很好地发挥作用。  有人遇到同样的事情吗？有什么建议吗？ ​ 每当视频放置在页面中的不同位置时，我尝试使用 JS 解决方法来添加/删除样式，但结果相同。&lt; /p&gt; ​ 谢谢！   由   提交 /u/dowell22   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/188csw7/video_not_rendering_properly_since_ipados_17/</guid>
-      <pubDate>Fri, 01 Dec 2023 14:11:09 GMT</pubDate>
+      <title>开发人员 - 给我一些关于如何找到最适合我当前情况的开发人员的想法。</title>
+      <link>https://www.reddit.com/r/webdev/comments/188h7hr/devs_give_me_some_ideas_on_how_to_find_a_dev_that/</link>
+      <description><![CDATA[我建立了一家月收入约为 16,000 美元的公司，并且稳步增长，并具有被我的一位客户收购的良好潜力。只有我作为一名非技术创始人，在 Upwork 上担任合同开发人员。现在我需要一名 CTO/首席开发人员来领导解决方案和未来愿景。 但是，我的软件开发预算每年只有约 6 万美元，我担心这不会让我满意我真正需要的人才。我确实有一些感兴趣的投资者，但他们的困扰往往是我是一家拥有合同开发人员的单人商店。所以现在我正处于十字路口。我需要资金来聘请首席技术官/首席开发人员。但我需要一位首席技术官/首席开发人员来获得资金。 我知道这是陈词滥调——非技术创始人正在寻找免费的开发工作。然而，现在的情况并非如此——我愿意在预算范围内支付，以获得支付更多费用所需的资金。因此，这引出了以下问题 1）是否有地方可以找到可能对此类情况持开放态度的开发人员？我在 /forhire 和 Upwork 方面运气不佳。 2) 作为一个非技术人员，我如何采访该人并知道他们是合法的？3) 是否有任何问题？其他类型的安排/协议可能更适合这种情况？ 还有其他建议、反馈吗？   由   提交 /u/flyingmada   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/188h7hr/devs_give_me_some_ideas_on_how_to_find_a_dev_that/</guid>
+      <pubDate>Fri, 01 Dec 2023 17:19:52 GMT</pubDate>
     </item>
     <item>
-      <title>加入我的快速健康与健身调查 – 您的见解震撼人心！</title>
-      <link>https://www.reddit.com/r/webdev/comments/188cscj/join_my_quick_health_fitness_survey_your_insights/</link>
-      <description><![CDATA[嘿，令人惊叹的编码社区！ 希望你们都能开启编码冒险之旅，与亲人一起享受美好时光。 👋 我的使命是倾听那些在软件开发的迷人世界中穿梭，同时拥抱家庭生活的欢乐和障碍的人们的心声。 我为什么要伸出援手？我我们正在开展一项简短的调查，以了解 IT 专业人员的健康和健身体验。如果您是在办公桌前花费数小时、兼顾工作和家庭的超级英雄，那么您的独特见解可能会改变游戏规则！ 📋 调查详情：我已经把做一个简短的调查，不会占用您超过几分钟的时间。您的意见将有助于制定一个项目，旨在为像您这样的英雄定制健身解决方案，平衡高要求的工作和家庭冒险。 🤝 如何提供帮助：如果您是 IT 人员专业人士，热爱家庭的人，或者只是一个在喧嚣的生活中航行的人，我很喜欢你的见解。您的经历和挑战很重要，您的意见将推动为我们史诗般的生活方式量身定制解决方案。 🔗 调查链接： 此处 请随意分享您的想法和挫折，并揭示您的愿望 - 这项调查对于了解您的需求至关重要。  为什么参与？为了表达谢意，我将与社区分享调查结果的摘要。我们可以共同阐明我们在平衡工作、家庭和个人福祉方面所面临的共同经验和挑战。 预先感谢您花时间为该项目做出贡献！如果您有任何问题或想法，请随时在评论中留言或给我发消息。 期待您的来信，让我们在迈向更健康的工作生活的道路上互相支持平衡！ 💪🏽   由   提交 /u/Bugghy   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/188cscj/join_my_quick_health_fitness_survey_your_insights/</guid>
-      <pubDate>Fri, 01 Dec 2023 14:10:29 GMT</pubDate>
+      <title>用什么工具或者第三方来代理下载大量文件到云存储</title>
+      <link>https://www.reddit.com/r/webdev/comments/188h6ue/what_tool_or_third_party_to_use_to_download_a/</link>
+      <description><![CDATA[所以我有很多来自不同网站的pdf文件的url。大概有 70 万个。我想将它们下载到我的 Google Cloud Bucket。 我的 IP 被某些网站禁止。因此，我想知道一定有某种类型的付费平台可以将我的网址列表大规模下载，并为我的 gcloud 存储提供代理支持。这似乎是人们在我之前遇到的问题。 有什么建议吗？ ​ 注意：我所做的事情是道德的我正在使用我自己的政府公共档案，他们禁止 IP 的唯一原因是他们没有适当的服务器，因为他们正忙着把钱花在更“高效”的网络上。事情。   由   提交 /u/AKavun   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/188h6ue/what_tool_or_third_party_to_use_to_download_a/</guid>
+      <pubDate>Fri, 01 Dec 2023 17:19:01 GMT</pubDate>
     </item>
     <item>
-      <title>努力寻找工作..（英国）</title>
-      <link>https://www.reddit.com/r/webdev/comments/188ciyj/struggling_to_get_hired_uk/</link>
-      <description><![CDATA[我已经学习 Web 开发两年了。我在大学开始学习，攻读计算机三级文凭。然后我在一家每年雇用数百名员工的公司接受了一年的培训。 在这段时间里，我学到了关于 Web 开发所需的一切，涵盖前端、后端、网页设计，以及数据库开发人员，技术上全栈开发。我创建了一个展示四个有用项目的作品集。我还创建了一份简历，寻求专业反馈，直到达到近乎完美的状态。 在过去的三个月里，我努力申请了大量与网络相关的职位，采用了不同的方法，例如例如发送电子邮件来表达对公司的兴趣。然而，我似乎没有引起潜在雇主的任何兴趣。我还没有获得一次面试机会，甚至差一点就找到工作。 我只是需要一个机会来证明自己。我可以采取哪些措施让公司对我感兴趣，或者至少说服他们考虑给我一个机会？我愿意接受您提供的任何建议或提示。 编辑：这是我的作品集，我愿意接受任何反馈。 https://mohammadmohmdportfolio.co.uk/    ;由   提交 /u/KoenigOne   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/188ciyj/struggling_to_get_hired_uk/</guid>
-      <pubDate>Fri, 01 Dec 2023 13:59:57 GMT</pubDate>
+      <title>mdn web docs 就足够了吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/188gzsp/is_mdn_web_docs_is_enough/</link>
+      <description><![CDATA[您好，我有一些 Web 开发经验（我做过一些大学和实习项目）并且我讨厌看 YouTube 或 coursera 视频，mdn 够了吗以便我通过技术测试并作为学习参考？ ​ 提前致谢   由   提交 /u/TopPerspective8217   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/188gzsp/is_mdn_web_docs_is_enough/</guid>
+      <pubDate>Fri, 01 Dec 2023 17:10:21 GMT</pubDate>
     </item>
     <item>
-      <title>您对不同移动框架的看法？</title>
-      <link>https://www.reddit.com/r/webdev/comments/188c3za/your_thoughts_on_different_mobile_frameworks/</link>
-      <description><![CDATA[嗨， 对于一家想要集成移动开发（主要 Web 开发堆栈是）的公司，您有什么建议角与AngularFire？ 它可以是任何框架；我只是想比较每个主要框架并列出一组优点和优点。缺点。 谢谢！   由   提交 /u/F2DProduction   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/188c3za/your_thoughts_on_different_mobile_frameworks/</guid>
-      <pubDate>Fri, 01 Dec 2023 13:40:22 GMT</pubDate>
+      <title>诚实的问题：服务器端渲染中缺少什么导致了客户端渲染，以及客户端渲染发生了什么变化导致回到服务器端？</title>
+      <link>https://www.reddit.com/r/webdev/comments/188gspn/honest_question_what_was_lacking_in_serverside/</link>
+      <description><![CDATA[我第一次认真投入 Web 开发是在 2017 年，当时 React 正在变得越来越重要。当时，我被告知服务器端渲染是不可取的（我认为是因为页面刷新），而客户端渲染可以带来快速、流畅的 Web 应用程序，而无需重新加载页面。 现在，仅仅几年后，所有主要的前端框架都转向了服务器。我的假设是，客户端应用程序在拥有强大功能的情况下，会变得太大而不利于它们自己。关键区别是新的服务器渲染前端仍然受益于某种无刷新设计吗？ 也许我真正的问题是，如果可以的话，为什么 SPA 的客户端渲染会成为一种趋势？一直都是在服务器上完成的吗？为什么我们最初跳过所有框架现在都采用的服务器端渲染版本？   由   提交/u/DanielDevs  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/188gspn/honest_question_what_was_lacking_in_serverside/</guid>
+      <pubDate>Fri, 01 Dec 2023 17:02:09 GMT</pubDate>
     </item>
     <item>
-      <title>2 浏览器中性能感知 JavaScript 的基本规则</title>
-      <link>https://www.reddit.com/r/webdev/comments/188bsqr/2_basic_rules_of_performanceaware_javascript_in/</link>
-      <description><![CDATA[ 由   提交/u/panstromek  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/188bsqr/2_basic_rules_of_performanceaware_javascript_in/</guid>
-      <pubDate>Fri, 01 Dec 2023 13:25:33 GMT</pubDate>
+      <title>无密码身份验证和身份验证器？</title>
+      <link>https://www.reddit.com/r/webdev/comments/188glmp/passwordless_authentication_and_authenticator/</link>
+      <description><![CDATA[只是好奇，如果您有一个具有无密码身份验证的网站，即通过电子邮件的魔术链接，您是否需要双因素身份验证/基于时间的身份验证器（谷歌身份验证）例如）或者这只是矫枉过正？    由   提交 /u/codercafe   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/188glmp/passwordless_authentication_and_authenticator/</guid>
+      <pubDate>Fri, 01 Dec 2023 16:53:52 GMT</pubDate>
     </item>
     <item>
-      <title>开发者圣诞礼物创意</title>
-      <link>https://www.reddit.com/r/webdev/comments/188blkp/ideas_for_dev_christmas_presents/</link>
-      <description><![CDATA[大家好！ 假期即将来临，我正在为我的孩子寻找一些圣诞礼物不会倾家荡产的开发者朋友。 🎄💸 我能找到的所有在线列表要么非常昂贵，要么充满垃圾 您为开发人员提供的 100 美元左右（或以下）的首选礼物创意是什么？无论是一个漂亮的小工具、一本很酷的书，还是一个改变游戏规则的工具，都欢迎。 祝你有美好的一天！    由   提交 /u/TheTrueTuring   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/188blkp/ideas_for_dev_christmas_presents/</guid>
-      <pubDate>Fri, 01 Dec 2023 13:15:25 GMT</pubDate>
+      <title>在什么类型的公司，你最能提高自己的资历？</title>
+      <link>https://www.reddit.com/r/webdev/comments/188fro0/at_what_company_types_you_mostly_improve_your/</link>
+      <description><![CDATA[基本上是标题。您在哪些公司学到最多、获得最多的知识？您会寻找哪些同事？也欢迎其他建议，谢谢   由   提交/u/Dronife  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/188fro0/at_what_company_types_you_mostly_improve_your/</guid>
+      <pubDate>Fri, 01 Dec 2023 16:17:51 GMT</pubDate>
     </item>
     <item>
-      <title>服务器在一天中的某个时间发送超时。 （提示：这不是 cronjob）</title>
-      <link>https://www.reddit.com/r/webdev/comments/188ai00/a_server_is_sending_timeout_at_certain_time_of/</link>
-      <description><![CDATA[FFS。 10% 的超时（定制的“系统超时消息”）会在一天中的某个时间出现，持续时间仅为 10 分钟。它从我们不处理的服务器来到我们（我们处理的）服务器。所以，不关我们的事。  但是作为一个好奇的人，IWTL 近 1 秒内超时的可能原因是什么。说实话，这太搞笑了。   由   提交 /u/Hefty-Entrance-2706   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/188ai00/a_server_is_sending_timeout_at_certain_time_of/</guid>
-      <pubDate>Fri, 01 Dec 2023 12:17:01 GMT</pubDate>
+      <title>寻找.js图像标注库</title>
+      <link>https://www.reddit.com/r/webdev/comments/188fex7/looking_for_js_image_annotation_library/</link>
+      <description><![CDATA[抱歉，如果这不是这个的子目录（也许有人可以引导我找到一个子目录？），但我正在寻找一个 .js 库，它可以映射图像的各个部分并缩放这些映射以使图像具有交互性（按钮、悬停、更改部分的颜色等）。我正在使用 vue.js，但任何普通的 .js 库就足够了，谢谢。    由   提交 /u/Kooba2   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/188fex7/looking_for_js_image_annotation_library/</guid>
+      <pubDate>Fri, 01 Dec 2023 16:02:38 GMT</pubDate>
     </item>
     <item>
-      <title>每月入门/Web 开发职业主题</title>
-      <link>https://www.reddit.com/r/webdev/comments/188a6nv/monthly_getting_started_web_dev_career_thread/</link>
-      <description><![CDATA[由于有关此主题的问题越来越多，因此决定每月提交一个专门讨论此主题的线程，以减少重复帖子的数量关于这个话题。主线程中将不再允许此类帖子。 其中许多问题也在子常见问题解答中得到解决，或者可能已在 以前的每月职业线程。 专门针对这些类型的订阅者问题包括一般性和开放式职业问题的 r/cscareerquestions/ 和 r/cscareerquestions/。 reddit.com/r/learnprogramming/&quot;&gt;r/learnprogramming/ 用于早期学习问题。 学习为行业做好准备的主题的一般建议包括：  HTML/CSS/JS 训练营 版本控制 自动化 前端框架（React/Vue/Etc） API 和 CRUD 测试（单元和集成） 常见设计模式（免费电子书） 您还需要包含您构建的 4-5 个个人项目的作品集，以及用于申请工作的简历。 计划在申请工作之前，您需要进行 6-12 个月的自学和项目制作。   由   提交 /u/AutoModerator   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/188a6nv/monthly_getting_started_web_dev_career_thread/</guid>
-      <pubDate>Fri, 01 Dec 2023 12:00:22 GMT</pubDate>
+      <title>大问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/188f7t0/the_big_question/</link>
+      <description><![CDATA[哪个是正确的？ 查看民意调查   由   提交/u/borii0066  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/188f7t0/the_big_question/</guid>
+      <pubDate>Fri, 01 Dec 2023 15:54:35 GMT</pubDate>
     </item>
     <item>
-      <title>在这个人工智能科技时代，当你可以让任何人工智能为你编写程序时，学习编码真的有好处吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/18897pi/in_this_era_of_technology_ai_is_it_really/</link>
-      <description><![CDATA[我上周刚刚学习了 html，现在计划学习 Javascript 和 python 等！我一直在想的是，当我可以向任何优秀的人工智能（例如chatgpt）指定我想要开发什么样的网站并且它会为我开发时，为什么我必须如此努力地工作。那么为什么还要付出努力和努力呢？程序员的工作也会因此受到威胁吗？   由   提交 /u/Rare-Swordfish-8578   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18897pi/in_this_era_of_technology_ai_is_it_really/</guid>
-      <pubDate>Fri, 01 Dec 2023 11:03:16 GMT</pubDate>
+      <title>从文件管理器下载网站文件</title>
+      <link>https://www.reddit.com/r/webdev/comments/188ewv1/download_website_files_from_file_manager/</link>
+      <description><![CDATA[      我有一个旧网站，一个我多年没有使用的个人博客，并且一直在付费托管。我想将其离线，这样我就不再需要付费，但我想在本地主机上保存文件的副本。 我的托管提供商不允许我访问 c-panal ，只需使用 FileManger 即可。但这里没有立即下载所有文件的选项，相反，它要求我单独选择并下载每个文件，这可能需要我几天的时间。  https://preview.redd .it/ctip1nw5ep3c1.png?width=1544&amp;format=png&amp;auto=webp&amp;s=38e3fd3995d4f4578887ccbd3ce0452759114586 还有其他方法可以做到这一点吗？    由   提交/u/PerformanceHot3940   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/188ewv1/download_website_files_from_file_manager/</guid>
+      <pubDate>Fri, 01 Dec 2023 15:41:17 GMT</pubDate>
     </item>
     <item>
-      <title>无法连接到端口</title>
-      <link>https://www.reddit.com/r/webdev/comments/1888jhv/unable_to_connect_to_port/</link>
-      <description><![CDATA[我有静态 ipv4，我打开了它的所有端口。使用外部 IP，我可以使用同一网络上的设备访问它，但在网络外部无法访问它。可能是什么问题？ 此外，一开始它还有效，但在一段时间（一两周）后就停止了。发生在端口 443，然后最终发生在端口 80。目前看来还有一个端口可以工作 (5555)。   由   提交 /u/Necroblight   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1888jhv/unable_to_connect_to_port/</guid>
-      <pubDate>Fri, 01 Dec 2023 10:19:32 GMT</pubDate>
+      <title>检查手机版webaite是否存在</title>
+      <link>https://www.reddit.com/r/webdev/comments/188elyh/check_if_mobile_version_of_webaite_exists/</link>
+      <description><![CDATA[您好！ 我正在创建需要显示网站链接的网页（它们是动态获取的）。问题是，除了主网址之外，我还需要显示移动网址，例如 www.youtube.com www.m.youtube.com。 在渲染移动网址之前，我需要检查它是否确实存在。在这一步我遇到了问题。为此，我只是使用带有 HEAD 方法的 Fetch Api，但在尝试发出请求以检查 url 是否存在时显然会出现 cors 错误。 是否可以通过绕过 cors 或使用其他一些方法来创建此类功能？    由   提交/u/Crutch1232  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/188elyh/check_if_mobile_version_of_webaite_exists/</guid>
+      <pubDate>Fri, 01 Dec 2023 15:28:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
