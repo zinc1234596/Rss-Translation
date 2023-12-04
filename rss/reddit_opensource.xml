@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 04 Dec 2023 00:51:16 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 Dec 2023 03:13:00 GMT</lastBuildDate>
+    <item>
+      <title>开源费用跟踪器</title>
+      <link>https://www.reddit.com/r/opensource/comments/18a92c5/open_source_expense_tracker/</link>
+      <description><![CDATA[是否有适用于 Android 和 iOS 的开源费用跟踪器？    ;由   提交/u/fossil-fuel156  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/18a92c5/open_source_expense_tracker/</guid>
+      <pubDate>Mon, 04 Dec 2023 01:33:51 GMT</pubDate>
+    </item>
     <item>
       <title>Android 的替代键盘应用程序？</title>
       <link>https://www.reddit.com/r/opensource/comments/18a2tpx/alternative_keyboard_app_for_android/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[是否有任何应用程序可以提供与 GSM 模块相同的功能，类似于 Arduino 所使用的功能？简而言之，我的目标是为学校项目实现消息系统的自动化。目前，GSM 模块在与 Arduino 接口时可通过计算机启用此功能。然而，我相信手机（智能手机）可能会更有效地执行此任务。有没有提供类似功能的应用程序？   由   提交 /u/DumperRip   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1895hz5/opensource_apps_to_turn_android_phone_into_an/</guid>
       <pubDate>Sat, 02 Dec 2023 15:00:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>有任何 FOSS 可以替代 Mac 听写、Windows 语音识别或 Nuance Dragon 吗？</title>
-      <link>https://www.reddit.com/r/opensource/comments/188yb6g/any_foss_alternatives_to_mac_dictation_windows/</link>
-      <description><![CDATA[我正在寻找 macOS 和/或 Linux 上的应用程序，可以让我实时转录到任何文本框中，并且我可以向它提供单词或句子更正，以便它可以学习我的说话方式并具有更高的准确性。   由   提交 /u/TheTwelveYearOld   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/188yb6g/any_foss_alternatives_to_mac_dictation_windows/</guid>
-      <pubDate>Sat, 02 Dec 2023 07:18:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
