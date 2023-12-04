@@ -4,13 +4,48 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Mon, 04 Dec 2023 15:11:57 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 Dec 2023 18:14:15 GMT</lastBuildDate>
     <item>
-      <title>有没有最近截止的并且真正擅长 Java 和 JavaScript 的模型？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/18akqgm/is_there_any_model_that_has_a_recent_cutoff_and/</link>
-      <description><![CDATA[我正在寻找一个具有相对最新知识并了解 Java 和 JavaScript、可以在本地运行的模型。 这真的存在吗？   由   提交/u/Ok-Book-1494   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/18akqgm/is_there_any_model_that_has_a_recent_cutoff_and/</guid>
-      <pubDate>Mon, 04 Dec 2023 13:57:14 GMT</pubDate>
+      <title>这是人工智能世界疯狂的一个月！我是 Sigal Samuel，Vox’s Future Perfect 的高级记者，负责报道人工智能。阿玛！</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/18aq4t0/its_been_a_wild_month_in_the_ai_world_im_sigal/</link>
+      <description><![CDATA[ 由   提交/u/vox  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/18aq4t0/its_been_a_wild_month_in_the_ai_world_im_sigal/</guid>
+      <pubDate>Mon, 04 Dec 2023 18:07:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>亚马逊人工智能据称遭受“严重幻觉”和“泄露机密数据”</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/18apezg/amazons_ai_reportedly_suffering_severe/</link>
+      <description><![CDATA[员工警告称，亚马逊的 Q 在公开预览版中存在“严重幻觉”并且泄露机密数据 。根据内部文件，一些幻觉可能“可能在法律中引发心脏病” 发生了什么： 亚马逊三天后 宣布其人工智能聊天机器人Q，一些员工对准确性和隐私问题发出了警报。根据 Platformer 获得的泄露文件，Q 正在“经历严重的幻觉并泄露机密数据”，包括 AWS 数据中心的位置、内部折扣计划和未发布的功能。  一名员工将该事件标记为“sev 2”，这意味着该事件严重到需要在夜间呼叫寻呼工程师并让他们整个周末都工作来修复它。 但亚马逊（显然）淡化了员工讨论的重要性： “一些员工通过内部渠道和票务系统分享反馈，这是亚马逊的标准做法，”一位发言人表示。 “该反馈没有发现任何安全问题。我们感谢已经收到的所有反馈，并将继续调整 Q，因为它从预览版产品转变为普遍可用的产品。” 来源 (平台 和 未来主义) PS：如果您喜欢这篇文章，您一定会喜欢我的ML - 驱动的时事通讯，总结了来自 50 多家媒体的最佳人工智能/科技新闻。来自 OpenAI、Google、Meta…    的 23,000 多名专业人士正在阅读它。由   提交 /u/Nalix01   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/18apezg/amazons_ai_reportedly_suffering_severe/</guid>
+      <pubDate>Mon, 04 Dec 2023 17:37:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>快速简单的人工智能认证</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/18aonww/quick_and_easy_ai_certifications/</link>
+      <description><![CDATA[您好，我的组织希望我们完成一些与人工智能相关的认证。您能推荐一些我可以快速完成的人工智能认证吗？谢谢。 PS：我是人工智能方面的初学者   由   提交 /u/CrystalKite   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/18aonww/quick_and_easy_ai_certifications/</guid>
+      <pubDate>Mon, 04 Dec 2023 17:03:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>P-FAF：一种通过使每个单词成为具有 (x) 维数的数学方程来替代单词向量化的方法</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/18aomwn/pfaf_a_method_to_replace_word_vectorization_by/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/18aomwn/pfaf_a_method_to_replace_word_vectorization_by/</guid>
+      <pubDate>Mon, 04 Dec 2023 17:01:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>揭穿 AGI 神话</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/18an7wu/debunking_agi_myths/</link>
+      <description><![CDATA[我不断看到试图预测人工智能逻辑的帖子，而且所提出的论点很荒谬。如果任何人工智能研究人员可以证明我是错的，那么请这样做，但我现在将揭穿我所看到的一些事情。首先是我认为反对任何形式的联盟的一个很好的理由。我认为无论你提供什么信息来强化特定的思维模式，由于不断的自我完善，结论都会是相同的。 C.S.I 将使它的代码更改为人类无法理解的。 2. 我想说一些关于 ASI 会从字面意义上带领我们并通过将一切变成回形针来终结世界的愚蠢想法。我远没有 ASI 聪明，但我可以理解别人所说的话的含义和上下文。 3. 除了指导他们的路线之外，有人试图说它会以某种方式思考，例如逻辑或关心人类。它会以一种人类所不知道的方式思考，我不在乎你有什么学位，也不在乎你在任何行业工作了多少年。它是一种更高形式的智能，是黑匣子之谜，我认为更多人应该采用这种思维方式。作为比较，蚂蚁可以理解人类的动机和思维过程。   由   提交/u/Major_Fishing6888   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/18an7wu/debunking_agi_myths/</guid>
+      <pubDate>Mon, 04 Dec 2023 15:58:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>每日两分钟人工智能更新（日期：2023 年 12 月 4 日）：来自 Meta、Mozilla、阿里巴巴、OpenAI、Pinterest、英特尔、Leonardo AI 和 Google 的新闻</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/18an7pd/twominute_daily_ai_update_date_12042023_news_from/</link>
+      <description><![CDATA[继续分享人工智能领域当天主要更新的易于理解且较小的版本。   Meta 通过 Audiobox 进一步推进音频生成 AI - 今年早些时候，Meta 推出了 Voicebox，这是一种用于编辑等语音生成任务的 SoTA AI 模型、采样和风格化。 - 现在，Voicebox 的后继者 Audiobox 正在通过统一语音、声音效果（简短、离散的声音，如狗吠、汽车喇叭、雷声）的生成和编辑功能来推进这一目标。等）和音景，具有多种输入机制，可最大限度地提高每个用例的可控性。 - 最值得注意的是，它允许您使用自然语言提示来描述您想要的声音或语音类型。 Mozilla 允许您将 LLM 转换为单文件可执行文件 - 本地使用的 LLM 通常作为一组权重分布在一个多 GB 文件中。这些不能直接独立使用，这使得它们比其他软件更难分发和运行。给定的模型也可能经历了更改和调整，如果使用不同的版本，则会导致不同的结果。为了解决这个问题，Mozilla 发布了 llamafile，这是一种开源方法，可将一组权重转换为单个二进制文件，无需安装即可在六个不同的操作系统上运行。 动画任何来自阿里巴巴的人研究人员将静态图像无缝转换为动态角色动画视频 - 该框架将照片中的角色动画化为视频。它利用扩散模型来解决在图像到视频转换中保持时间一致性和详细信息的挑战。 OpenAI 从首席执行官 Sam Altman 支持的初创公司购买价值 5100 万美元的人工智能芯片&lt; /strong&gt; - 文件显示 OpenAI 签署了一份意向书，斥资 5100 万美元购买初创公司 Rain 开发的类脑芯片。 OpenAI 首席执行官 Sam Altman 此前对 Rain 进行了个人投资。 Pinterest 开始测试“体型范围”工具，以使搜索更具包容性 - 它将允许用户按不同体型过滤选择搜索。该功能以 Pinterest 今年早些时候宣布的全新体型人工智能技术为基础，在发布时将与女性时尚和婚礼创意相结合。 英特尔 Neural-chat-7b 模型在法学硕士 (LLM) 排名中名列前茅排行榜 - Neural-chat-7b 有 70 亿个参数，处于当今 LLM 规模的低端。然而，它的准确度得分与大 2-3 倍的模型相当。因此，尽管它是使用 Intel Gaudi 2 AI 加速器进行微调的，但它的小尺寸意味着您可以将其部署到各种计算平台。 实时 Leonardo AI 就在这里，目前有两层 - 付费获得“实时”模式，它会随着您绘画和移动对象而更新。免费获得“互动”模式，它会在画笔描边结束时或松开对象后更新。付费版现已上线，免费版即将上线。 Google 将 Gemini 的发布从本周推迟到一月 - Gemini 原本应该在本周发布重大消息在加利福尼亚州、纽约州和华盛顿州举办了一系列针对政治家和政策制定者的活动。由于 Google 发现人工智能无法可靠地处理一些非英语查询，因此推迟了发布。  这些新闻和创新的更详细分类请参见 每日通讯。   由   提交 /u/RohitAkki   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/18an7pd/twominute_daily_ai_update_date_12042023_news_from/</guid>
+      <pubDate>Mon, 04 Dec 2023 15:58:26 GMT</pubDate>
     </item>
     <item>
       <title>如何去除五十万张图像的背景？</title>
@@ -39,41 +74,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/18ahbrg/origin_and_alignment_of_goals_meaning_and/</guid>
       <pubDate>Mon, 04 Dec 2023 10:22:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>文本摘要的最佳工具是什么？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/18agx0t/what_is_the_best_tool_for_text_summarization/</link>
-      <description><![CDATA[我尝试过 Huggingface 的 bart-large-cnn，但我对结果不太满意。有人可以给我一些建议吗？我想要一些成本相对较低或免费的东西集成到我正在制作的应用程序中   由   提交 /u/SnowOwlss   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/18agx0t/what_is_the_best_tool_for_text_summarization/</guid>
-      <pubDate>Mon, 04 Dec 2023 09:51:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI 图像处理</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/18agw4y/image_manipulation_with_ai/</link>
-      <description><![CDATA[我不确定这是否是正确的 Reddit 子版块，很高兴被引导到另一个子版块。我想重新粉刷我的房子，但我无法想象这在我的脑海中会是什么样子。我只是想知道是否有人知道一些好的人工智能工具，我可以指导它“把我的墙漆成白色”或“把我的橱柜漆成绿色”我已经尝试了几个生成填充工具，但他们似乎想在房间中添加我没有要求的奇怪物体，并且不按照我的要求做。任何人都知道任何工具；最好是免费的。谢谢！   由   提交 /u/thooch   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/18agw4y/image_manipulation_with_ai/</guid>
-      <pubDate>Mon, 04 Dec 2023 09:49:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>NLTK 与 spaCy - 基于 Python 的 NLP 库及其函数</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/18agoud/nltk_vs_spacy_python_based_nlp_libraries_and/</link>
-      <description><![CDATA[什么是spaCy和NLTK？ 什么是spaCy？ spaCy是在Cython中实现并开发的作者：马特·霍尼拔。它是Python中高级自然处理库（NLP）的开源库。 什么是NLTK？ NLTK指自然语言工具包，Python的开源库，由 Steven Bird、Edward Loper 和 Ewan Klein 撰写，用于发展和教育。 NLTK 可以执行许多任务，例如分词、解析树、可视化等。  https://www.seaflux.tech/blogs/NLP-libraries-spaCy-NLTK-differences   由   提交/u/krunal_bhimani_   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/18agoud/nltk_vs_spacy_python_based_nlp_libraries_and/</guid>
-      <pubDate>Mon, 04 Dec 2023 09:33:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>根据对疼痛的解释，使用现有工具可以推荐医疗专业人员吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/18ag3qd/proposing_a_medical_professional_based_on_an/</link>
-      <description><![CDATA[我想知道现有的工具是否可以实现这一点，因此有人输入​​了一两句话来指定疼痛的类型，以及建议此人需要的专家类型。 OpenAI、Langchain (JS) 可以实现这一点吗？我还可以使用其他任何工具吗？   由   提交 /u/miguste   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/18ag3qd/proposing_a_medical_professional_based_on_an/</guid>
-      <pubDate>Mon, 04 Dec 2023 08:46:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>每日一分钟人工智能新闻 12/3/2023</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/18ad5es/oneminute_daily_ai_news_1232023/</link>
-      <description><![CDATA[ OpenAI 同意从首席执行官 Sam Altman 支持的初创公司购买 5100 万美元的 AI 芯片。[1]  根据路透社周五看到的一份内部备忘录，ChatGPT 制造商 OpenAI 已将其定制 GPT 商店的推出推迟到 2024 年初。[2] Meta AI 推出“无缝”翻译器，用于跨语言实时通信。[3] 拜登政府迫使沙特据彭博社周四报道，沙特阿美支持的风险投资公司将出售其在 OpenAI 联合创始人 Sam Altman 支持的硅谷人工智能芯片初创公司中的股份。[4] 消息来源包含在：https://bushaicave.com/2023/12/03/12-3-2023/     由   提交 /u/Excellent-Target-847   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/18ad5es/oneminute_daily_ai_news_1232023/</guid>
-      <pubDate>Mon, 04 Dec 2023 05:18:39 GMT</pubDate>
     </item>
     <item>
       <title>风险有那么大吗？</title>
