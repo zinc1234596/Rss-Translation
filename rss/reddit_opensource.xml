@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 05 Dec 2023 15:13:43 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 Dec 2023 18:15:15 GMT</lastBuildDate>
+    <item>
+      <title>时间管理/规划器与 Boosted 类似，但开源？</title>
+      <link>https://www.reddit.com/r/opensource/comments/18bhvq6/time_managementplanner_similar_to_boosted_but/</link>
+      <description><![CDATA[Boosted 似乎就是我想要的：一个应用程序，您可以在其中设置时间限制和启动任务，并跟踪您在这些任务上花费的时间，还可以查看所有内容你的时间已经过去了。可悲的是它不是开源的，所以我正在寻找替代方案。有什么建议吗？   由   提交 /u/DexterityNeeded   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/18bhvq6/time_managementplanner_similar_to_boosted_but/</guid>
+      <pubDate>Tue, 05 Dec 2023 17:56:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>有开源的法线贴图画家吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/18bfrah/is_there_an_open_source_normal_map_painter/</link>
+      <description><![CDATA[您好。我正在寻找一个免费的（价格和使用）法线贴图画家，类似于 CrazyBump。那，或者高度图画家，但是看到法线可以帮助我想象纹理在最终产品中的样子。提前致谢！另外，我使用的是 Mac。 我知道有免费的 CrazyBump 下载，但是我的用例需要潜在的商业用途，所以我希望在法律上保持安全。   由   提交 /u/SomeCrazyTeen   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/18bfrah/is_there_an_open_source_normal_map_painter/</guid>
+      <pubDate>Tue, 05 Dec 2023 16:23:43 GMT</pubDate>
+    </item>
     <item>
       <title>为开源项目做出贡献可能比您想象的更容易</title>
       <link>https://www.reddit.com/r/opensource/comments/18bdvb7/contributing_to_open_source_projects_might_be/</link>
@@ -27,7 +41,7 @@
       <pubDate>Tue, 05 Dec 2023 14:41:06 GMT</pubDate>
     </item>
     <item>
-      <title>事件导入和同步、公告、对话...随着#Mobilizon v4 今天发布，我们正在实现我们的目标（并准备好传球！）。</title>
+      <title>事件导入和同步、公告、对话...随着今天发布的#Mobilizon v4，我们正在实现我们的目标（并准备好传球！）。</title>
       <link>https://www.reddit.com/r/opensource/comments/18b81rb/events_import_and_synchronization_announcements/</link>
       <description><![CDATA[   /u/Framasoft  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/18b81rb/events_import_and_synchronization_announcements/</guid>
@@ -36,14 +50,14 @@
     <item>
       <title>希望有 OSS 贡献经验</title>
       <link>https://www.reddit.com/r/opensource/comments/18b4h3y/want_experience_in_oss_contribution/</link>
-      <description><![CDATA[您好！我是一名三年级大学生，希望从事云、DevOps、SRE、解决方案架构师或类似职位。 我从其他人那里得到了为开源项目做出贡献的建议，但是，我正在努力寻找一个可以实现我想要提高的技能的项目。 我搜索要从事的开源项目，但我似乎只找到了那些超出我能力范围的东西，例如 k8s、terraform、docker 等。 如何找到我可以对自己感兴趣的事情做出特别有意义的贡献的项目？   由   提交 /u/HandDazzling2014   [链接] [评论]]]></description>
+      <description><![CDATA[您好！我是一名三年级大学学生，希望从事云、DevOps、SRE、解决方案架构师或类似职位。 我从其他人那里得到了为开源项目做出贡献的建议，但是，我正在努力寻找一个可以实现我想要提高的技能的项目。 我搜索要从事的开源项目，但我似乎只找到了那些超出我能力范围的东西，例如 k8s、terraform、docker 等。 如何找到我可以对自己感兴趣的事情做出特别有意义的贡献的项目？   由   提交 /u/HandDazzling2014   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/18b4h3y/want_experience_in_oss_contribution/</guid>
       <pubDate>Tue, 05 Dec 2023 05:09:44 GMT</pubDate>
     </item>
     <item>
       <title>我如何参与开源/志愿者网络项目？</title>
       <link>https://www.reddit.com/r/opensource/comments/18b2uo9/how_can_i_participate_on_open_source_volunteer/</link>
-      <description><![CDATA[你们如何加入这些很酷的团队或与人们联系？我是一名业余爱好 Web 开发人员，感到无聊并试图成为一名自由职业者。但首先我需要建立一个好的作品集，并为客户提供一些可以灵活运用的东西（他们不知道它是否是免费工作，比我以前的项目好得多），我认为最好的方法是自愿进行非营利性 Web 开发组织与我支持的事情。一些 Cat Rescue 站点永远不会出错，或者 Linux Distro 的站点会非常酷。  几周前我安装了 Debian，我必须检查两次它是真正的 Debian 网站还是耶稣编码的东西。我总是看到其他发行版拥有 Crispy Clean 网站，如 Mint、Ubuntu、Fedora、Manjaro（其中 2 个是由捐赠资助的）。我不是高级 Web 开发人员或 css 大神，但我在前端有扎实的知识，类似的事情并不难。现代网站，人们可以下载 iso 文件并获取一些信息。也许在多语言支持和网络开发、搜索引擎优化等方面很耗时。即使是从未编写过一行代码的人也可以使用 cms、插件和页面构建器来构建一些不错的东西。  如果有人认识我可以帮助的人，做一些好事并且需要一个好看的网站，那就太好了。 （但我不支付托管、图形设计师等费用。）   由   提交/u/Equal-Web-13  [链接] [评论]]]></description>
+      <description><![CDATA[你们如何加入这些很酷的团队或与人们联系？我是一名业余爱好 Web 开发人员，感到无聊并试图成为一名自由职业者。但首先我需要建立一个好的作品集，并为客户提供一些可以灵活运用的东西（他们不知道它是否是免费工作，比我以前的项目好得多），我认为最好的方法是自愿进行非营利性 Web 开发组织与我支持的事情。一些 Cat Rescue 站点永远不会出错，或者 Linux Distro 的站点会非常酷。  几周前我安装了 Debian，我必须检查两次它是真正的 Debian 网站还是耶稣编码的东西。我总是看到其他发行版拥有 Crispy Clean 网站，如 Mint、Ubuntu、Fedora、Manjaro（其中 2 个是由捐赠资助的）。我不是高级 Web 开发人员或 css 大神，但我在前端有扎实的知识，类似的事情并不难。现代网站，人们可以下载 iso 文件并获取一些信息。也许在多语言支持和网络开发、搜索引擎优化等方面很耗时。即使是从未编写过一行代码的人也可以使用 cms、插件和页面构建器来构建很好的东西。  如果有人认识我可以帮助的人，做一些好事并且需要一个好看的网站，那就太好了。 （但我不支付托管、图形设计师等费用。）   由   提交/u/Equal-Web-13  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/18b2uo9/how_can_i_participate_on_open_source_volunteer/</guid>
       <pubDate>Tue, 05 Dec 2023 03:41:26 GMT</pubDate>
     </item>
@@ -55,7 +69,7 @@
       <pubDate>Tue, 05 Dec 2023 03:16:22 GMT</pubDate>
     </item>
     <item>
-      <title>如果比尔·盖茨和整个董事会在 1996 年 6 月顿悟，决定在 GPL v2 许可证下开源 Windows 95 和 NT，世界会发生什么？ Windows将如何继续发展，Linux将如何发展？</title>
+      <title>如果比尔盖茨和整个董事会在1996年6月顿悟，决定在GPL v2许可证下开源Windows 95和NT，世界会发生什么？ Windows将如何继续发展，Linux将如何发展？</title>
       <link>https://www.reddit.com/r/opensource/comments/18aw34m/if_bill_gates_together_with_the_entire_board_of/</link>
       <description><![CDATA[ 由   提交/u/dorofeus247  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/18aw34m/if_bill_gates_together_with_the_entire_board_of/</guid>
@@ -71,7 +85,7 @@
     <item>
       <title>AWS 高管：我们对开源的理解正在改变</title>
       <link>https://www.reddit.com/r/opensource/comments/18aub3h/aws_exec_our_understanding_of_open_source_is/</link>
-      <description><![CDATA[    /u/CrankyBear   [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[       由   提交 /u/CrankyBear   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/18aub3h/aws_exec_our_understanding_of_open_source_is/</guid>
       <pubDate>Mon, 04 Dec 2023 21:04:50 GMT</pubDate>
     </item>
@@ -92,23 +106,9 @@
     <item>
       <title>具有消息分类功能的开源短信应用程序</title>
       <link>https://www.reddit.com/r/opensource/comments/18ai9l1/open_source_sms_app_with_message_categorization/</link>
-      <description><![CDATA[我目前使用 QKSMS 已有多年，但最近收件箱变得混乱，所以我正在寻找一款可以根据以下内容对邮件进行分类的应用程序内容分为不同类别，例如 OTP、促销和个人。   由   提交/u/jeet74  [链接] [评论]]]></description>
+      <description><![CDATA[我目前使用 QKSMS 已经很多年了，但最近收件箱变得混乱，所以我正在寻找一个可以根据以下内容对邮件进行分类的应用程序内容分为不同类别，例如 OTP、促销和个人。   由   提交/u/jeet74  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/18ai9l1/open_source_sms_app_with_message_categorization/</guid>
       <pubDate>Mon, 04 Dec 2023 11:29:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源费用跟踪器</title>
-      <link>https://www.reddit.com/r/opensource/comments/18a92c5/open_source_expense_tracker/</link>
-      <description><![CDATA[是否有适用于 Android 和 iOS 的开源费用跟踪器？    ;由   提交/u/fossil-fuel156  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/18a92c5/open_source_expense_tracker/</guid>
-      <pubDate>Mon, 04 Dec 2023 01:33:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>Android 的替代键盘应用程序？</title>
-      <link>https://www.reddit.com/r/opensource/comments/18a2tpx/alternative_keyboard_app_for_android/</link>
-      <description><![CDATA[我曾经使用过 OpenBoard，但它已被废弃，您有什么建议吗？   由   提交/u/dhelidhumrul  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/18a2tpx/alternative_keyboard_app_for_android/</guid>
-      <pubDate>Sun, 03 Dec 2023 20:44:26 GMT</pubDate>
     </item>
     </channel>
 </rss>
