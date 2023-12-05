@@ -4,7 +4,28 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Tue, 05 Dec 2023 18:13:51 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 Dec 2023 21:09:58 GMT</lastBuildDate>
+    <item>
+      <title>我创建了 NexusGenAI——一个无代码大型语言模型配置平台</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/18bme8w/i_created_nexusgenai_a_nocode_large_language/</link>
+      <description><![CDATA[两个月前，我试图修复我的 AI 支持的自动投资平台 NexusTrade。具体来说，问题在于“创建投资组合提示”功能，该功能旨在根据用户输入生成一组独特的交易策略。尝试在源代码中执行提示工程是令人沮丧的，并且很难隔离和测试功能。 同时，我有一个启示：AI 支持的聊天是 NexusTrade 的迄今为止最受欢迎的功能。它允许配置高度复杂的交易策略，即使对于没有技术背景的人也是如此。聊天的核心原则——自动化复杂的流程和改善用户体验——可以应用于广泛的应用程序。例如，想象一下，如果教师可以为学生生成一个高度可定制的课程计划，该计划是根据每个学生的兴趣和个性量身定制的。如果他们有一个平台可以让这一切变得简单就好了。 这就是我开始构建 NexusGenAI 的原因。 NexusGenAI 从 NexusTrade 中分支出来，并将人工智能支持的聊天抽象为一个单独的应用程序。同时，它允许在易于使用的用户界面中配置大型语言模型 (LLM) 支持的应用程序。 本文将介绍 NexusGenAI 的当前功能以及 NexusTrade 的迁移到平台聊天。然后，它将描述应用程序准备好大规模公开发布之前的后续步骤。 如果您想成为第一个尝试 NexusGenAI，请立即注册候补名单！ &lt; p&gt;前往 NexusGenAI 将 NexusTrade 的 AI 聊天转换为 NexusGenAI 第一步开发 NexusGenAI 涉及建立最小可行产品 (MVP)。主要目标是将 NexusTrade 聊天的复杂功能集成到这个新应用程序中。这将包括交易策略的创建和回溯测试以及高级财务分析等功能。要全面了解 NexusTrade 的聊天架构，请参阅 以下文章。 总结本文，NexusTrade 应用程序通过一个顺序过程进行操作：  它识别用户的请求与特定的“提示”有关。 它利用相应的提示来制定对用户的响应。 它可以选择参与后处理步骤，其中可能包括执行额外的函数调用。  这个已建立的工作流程已成功过渡到 NexusGenAI，最终形成了封装这些功能的用户界面。 （Reddit 似乎不再允许上传图像。其余部分文章，请在此处查看文章！）   由   提交/u/NextGen-Trading  /u/NextGen-Trading  reddit.com/r/ArtificialInteligence/comments/18bme8w/i_created_nexusgenai_a_nocode_large_language/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/18bme8w/i_created_nexusgenai_a_nocode_large_language/</guid>
+      <pubDate>Tue, 05 Dec 2023 21:07:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI 可以 100% 准确地判断波尔多葡萄酒来自哪个酒庄</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/18bkvro/ai_can_tell_which_chateau_bordeaux_wines_come/</link>
+      <description><![CDATA[机器学习算法通过评估 80 种波尔多红葡萄酒的化学特征，能够以 100% 的准确度判断其来自哪个庄园 &lt; /div&gt;  由   提交/u/dead_planets_society   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/18bkvro/ai_can_tell_which_chateau_bordeaux_wines_come/</guid>
+      <pubDate>Tue, 05 Dec 2023 20:04:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>提示输入商业文章（什么声音？）</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/18bigxr/prompt_for_business_articles_what_voice/</link>
+      <description><![CDATA[我想使用 ChatGPT 帮助我撰写一篇 600-800 字的文章以在 LinkedIn 上发布。我可以对文章的内容给予大量的指导和意见，但总感觉它是人工智能写的。 对于个人项目，我发现添加“以 XXX 的风格”使文本更加人性化，但我使用的大多数例子都是喜剧演员和轻小说作家。  有没有人可以推荐适合商业写作的声音？我的第一个想法是马尔科姆·格拉德威尔，因为他的风格仍然相当轻松且易于理解。我的许多读者都不是以英语为母语的，所以我通常还会添加“10 年级阅读水平”的提示，并且它击中了目标。  &amp;# 32；由   提交 /u/hereforthecommentz   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/18bigxr/prompt_for_business_articles_what_voice/</guid>
+      <pubDate>Tue, 05 Dec 2023 18:20:53 GMT</pubDate>
+    </item>
     <item>
       <title>上传我参加的旧金山每场人工智能活动的笔记</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/18bhhsg/uploading_notes_from_every_in_person_ai_event_in/</link>
@@ -18,20 +39,6 @@
       <description><![CDATA[嗨。我只是想分享一个未经审查的 CharacterAI 子目录，您可以在其中发布机器人所说的所有顽皮且通常疯狂的事情。如果您将它们发布在其主子上，这些内容将被删除和/或让您被禁止。 https ://www.reddit.com/r/CharacterAiUncensored/   由   提交 /u/EarthlingApril   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/18bh6vx/this_is_for_anybody_here_who_uses_characterai/</guid>
       <pubDate>Tue, 05 Dec 2023 17:25:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用文本转语音应用程序时有关文档安全性和保密性的问题吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/18bgg64/question_about_document_safety_confidentiality/</link>
-      <description><![CDATA[很抱歉，如果这是问这个问题的错误地方，但这是我能找到的最接近的一个，从技术上讲，相关应用程序使用 AI 。如果太阳不对，我会继续寻找合适的潜艇。  刚刚开始一份新工作，需要大量阅读机密文件，我想知道是否可以一石二鸟，并使用诸如speechify之类的工具在通勤时安全地向我朗读文档. 我知道几乎所有应用程序都说他们的服务是保密的，但我想了解人们对他们的体验的看法。他们确实说他们收集数据是为了改善用户体验（这是speechify），但我不知道这是否意味着他们保留/保留/使用我为此目的上传的文档。  有人使用过 voiceify 来处理敏感文档吗？这通常是一个坏主意吗？  提前致谢！   由   提交 /u/Clavicula_Impetus   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/18bgg64/question_about_document_safety_confidentiality/</guid>
-      <pubDate>Tue, 05 Dec 2023 16:53:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>我有一些表单提交，我想检查它们是否是人工智能，有人可以告诉我该怎么做吗？我需要脚本还是有任何插件？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/18bgf01/i_have_some_form_submissions_and_i_want_to_check/</link>
-      <description><![CDATA[首先抱歉，如果这不是正确的子内容，有人可以指导我如何检查这些文本是否是 ai 吗？我知道可以一一完成，但我想批量检查它们。   由   提交/u/Pythagoras16   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/18bgf01/i_have_some_form_submissions_and_i_want_to_check/</guid>
-      <pubDate>Tue, 05 Dec 2023 16:52:18 GMT</pubDate>
     </item>
     <item>
       <title>对人工智能感兴趣的医生，特别是它如何影响医学——有什么关于这方面的好书可以读吗？</title>
@@ -50,7 +57,7 @@
     <item>
       <title>如果人工智能控制世界会那么糟糕吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/18bci78/would_it_be_so_bad_if_ai_took_control_of_the_world/</link>
-      <description><![CDATA[许多人对当前西方国家的两极分化以及政客未能阻止战争和环境破坏感到沮丧。强大的人工智能模型来优化将我们带到这里的系统，为什么不专门让它们制定社会和经济政策和计划，以促进和谐和保护地球上的生命呢？ 国际机器人党   由   提交 /u/VarietyMart   [链接] [评论]]]></description>
+      <description><![CDATA[许多人对西方国家当前的两极分化以及政客未能阻止战争和环境破坏感到沮丧。强大的人工智能模型来优化将我们带到这里的系统，为什么不专门让他们制定社会和经济政策和计划，以促进和谐和保护地球上的生命呢？ 国际机器人党   由   提交 /u/VarietyMart   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/18bci78/would_it_be_so_bad_if_ai_took_control_of_the_world/</guid>
       <pubDate>Tue, 05 Dec 2023 13:57:12 GMT</pubDate>
     </item>
@@ -64,16 +71,9 @@
     <item>
       <title>OpenAI 的技术真的比竞争对手更好吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/18ba086/is_openais_tech_actually_better_than_competitors/</link>
-      <description><![CDATA[我听很多人，尤其是科技记者说 OpenAI 拥有比竞争对手更好的人工智能系统，但我从未听过有人解释原因或方式它明显更好或更有能力。  我确实认为 OpenAI 拥有当今最好的 UI 和 API，可以与法学硕士进行公共互动，并将其他程序与法学硕士集成，但我怀疑这就是让人们认为他们的技术要好得多的原因。他们的基础法学硕士学位并不比竞争对手特别好。很高兴在这里被证明是错误的，并寻求一些澄清，如果具有机器学习技术知识的人可以解释 OpenAI 的实际法学硕士如何以及为什么比 Google 或其他竞争对手更好（如果我错了）。   由   提交 /u/BillionaireMayor   [链接] [评论]]]></description>
+      <description><![CDATA[我听很多人，尤其是科技记者说 OpenAI 拥有比竞争对手更好的人工智能系统，但我从未听过有人解释原因或方式它明显更好或更强大。  我确实认为 OpenAI 拥有当今最好的 UI 和 API，可以与法学硕士进行公共互动，并将其他程序与法学硕士集成，但我怀疑这就是让人们认为他们的技术要好得多的原因。他们的基础法学硕士学位并不比竞争对手特别好。很高兴在这里被证明是错误的，并寻求一些澄清，如果具有机器学习技术知识的人能够解释 OpenAI 的实际法学硕士如何以及为什么比 Google 或其他竞争对手更好（如果我错了）。   由   提交 /u/BillionaireMayor   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/18ba086/is_openais_tech_actually_better_than_competitors/</guid>
       <pubDate>Tue, 05 Dec 2023 11:30:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>什么是浪链？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/18b9gco/what_is_langchain/</link>
-      <description><![CDATA[LangChain是业界迅速流行的最新人工智能应用开发框架。它使开发人员更容易集成 LLM，例如开放 AI 的 ChatGPT 与应用程序集成。 目前有两种语言版本：Python 和 Javascript。 阅读全文-有关LangChain的深度技术博客请访问：什么是LangChain？或访问r/LangChain   由   提交 /u/ran2dada   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/18b9gco/what_is_langchain/</guid>
-      <pubDate>Tue, 05 Dec 2023 10:54:01 GMT</pubDate>
     </item>
     <item>
       <title>2024 年的人工智能：“大变得更大”</title>
@@ -106,7 +106,7 @@
     <item>
       <title>重要提示：请求有关 subreddit 规则和未来方向的评论。请阅读！</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</link>
-      <description><![CDATA[欢迎来到r/ArtificialIntelligence！&lt; /p&gt; 我们的目标是为所有与人工智能有关的事物提供一个开放且相互尊重的论坛 - 这包括  促进有关人工智能的哲学和伦理讨论 服务作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用 提供培训和学习资源&lt; /li&gt; 引导用户访问更具体的信息和子版块 列出 AI/ML 应用程序、其用途、成本和访问信息 其他与 AI 相关的内容。  li&gt; ...以及更多  该子项目的审核团队正在进行重组，这将导致该子项目发生一些变化。不过，不必担心，这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解情况并能够提供反馈，我们将提供多次反馈更改的机会。 第一轮反馈收集是通过此线程作为“Request-For-”评论》 (RFC)，这是收集反馈的标准方法。随着变更的准备和实施，RFC 流程将进行多轮。 ​  发布新申请/自我推销/AI 生成的规则content  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似的内容将被阻止或限制在特定的粘帖中。 人工智能生成的特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的粘帖中。 博客链接应包含高质量的内容。链接到纯粹促销博客的帖子将被删除。 仅包含链接的帖子将被禁止，除非包含一定字数的详细信息。必须付出一些努力。 我们应该阻止人工智能撰写的帖子吗？存在可以在 Mod-bot 中使用的模型，但这是我们需要反馈的问题。  使用天赋来组织帖子。请注意，已经添加了新的功能，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们会喜欢将社区纳入模组机器人的想法中。虽然一些标准机器人将用于基本维护，但社区可以为 AI/ML 机器人功能想出哪些有趣的东西？ 培养初级、中级和高级资源来帮助人们查找信息，他们正在寻找的培训、模型、技术数据等 启动子堆栈/播客来采访整个人工智能/机器学习领域的人们。这可能包括哲学家和思想家、程序员、科学家、商人，甚至是那些对人工智能持相反观点的人 如果您想创建代表子项目的横幅，请使用适当的尺寸。任何创作方式都可以。  不言而喻，每个人都应该受到尊重。我个人认为我们都知道这一点，不需要把它强加到人们的头脑中。保持友善。 感谢您的耐心和帮助！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
+      <description><![CDATA[欢迎来到r/ArtificialIntelligence！&lt; /p&gt; 我们的目标是为所有与人工智能有关的事物提供一个开放且相互尊重的论坛 - 这包括  促进有关人工智能的哲学和伦理讨论 服务作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用 提供培训和学习资源&lt; /li&gt; 引导用户访问更具体的信息和子版块 列出 AI/ML 应用程序、其用途、成本和访问信息 其他与 AI 相关的内容。  li&gt; ...以及更多  该子项目的审核团队正在进行重组，这将导致该子项目发生一些变化。不过，不必担心，这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解情况并能够提供反馈，我们将提供多次反馈更改的机会。 第一轮反馈收集是通过此线程作为“Request-For-”评论” (RFC)，这是收集反馈的标准方法。随着变更的准备和实施，RFC 流程将进行多轮。 ​  发布新申请/自我推销/AI 生成的规则content  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似的内容将被阻止或限制在特定的粘帖中。 人工智能生成的特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的粘帖中。 博客链接应包含高质量的内容。链接到纯粹促销博客的帖子将被删除。 仅包含链接的帖子将被禁止，除非包含一定字数的详细信息。必须付出一些努力。 我们应该阻止人工智能撰写的帖子吗？存在可以在 Mod-bot 中使用的模型，但这是我们需要反馈的问题。  使用天赋来组织帖子。请注意，已经添加了新的功能，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们会喜欢将社区纳入模组机器人的想法中。虽然一些标准机器人将用于基本维护，但社区可以为 AI/ML 机器人功能想出哪些有趣的东西？ 培养初级、中级和高级资源来帮助人们查找信息，他们正在寻找的培训、模型、技术数据等 启动子堆栈/播客来采访整个人工智能/机器学习领域的人们。这可能包括哲学家和思想家、程序员、科学家、商人，甚至是那些对人工智能持相反观点的人 如果您想创建代表子项目的横幅，请使用适当的尺寸。任何创作方式都可以。  不言而喻，每个人都应该受到尊重。我个人认为我们都知道这一点，不需要把它强加到人们的头脑中。保持友善。 感谢您的耐心和帮助！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</guid>
       <pubDate>Sun, 15 Jan 2023 20:24:42 GMT</pubDate>
     </item>
