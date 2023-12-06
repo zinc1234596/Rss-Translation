@@ -4,20 +4,20 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Wed, 06 Dec 2023 00:50:56 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 Dec 2023 03:12:23 GMT</lastBuildDate>
     <item>
-      <title>如何在 Premiere Pro 中创建 DCDM？ DKDM加密文件怎么样？</title>
-      <link>https://www.reddit.com/r/editors/comments/18bq8rg/how_does_one_create_a_dcdm_in_premiere_pro_how/</link>
-      <description><![CDATA[如标题所述。客户要求这样做： 功能 DCP：  使用 DKDM 加密  无文本 DCDM 我想我都知道需要做的是将所有内容导出为 24fps TIFF 格式，这就是 DCDM，但我不太熟悉这个术语，因此希望由一些人运行它。然后再一次，我认为加密的 dkdm 是通过在 Premiere 中导出为包装器 dcp 来制作的，但不太熟悉这些术语。 也许在 davinci 中会更容易？也可以从首映的无损导出大师中制作一切。  你们会如何交付这些？如果无法直接在 Premiere 中完成，我愿意使用 easy-dcp 或 dcp-o-matic。谢谢！ ​ ​ ​ 系统规格：CPU (5950xl)， GPU 3080ti + RAM64ddr4 // 软件规格：确切版本premiere2022。 // 素材规格：我相信主要是 Alexa lf mpeg4，这并不重要，23.97fps   由   提交 /u/Edit_Mann   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/18bq8rg/how_does_one_create_a_dcdm_in_premiere_pro_how/</guid>
-      <pubDate>Tue, 05 Dec 2023 23:48:35 GMT</pubDate>
+      <title>选择性编辑和音频同步</title>
+      <link>https://www.reddit.com/r/editors/comments/18bu5an/selective_editing_and_audio_sync/</link>
+      <description><![CDATA[上周末我拍摄了一部音乐剧，想从每个节目中选择剪辑来制作最终版本。我的剪辑排列得非常接近，但存在口型同步问题。这样做的正确方法是什么？我假设您需要重新调整音频或视频的时间才能同步，但不确定最好的方法。如果我需要重新定时，我是否需要重新定时音频或视频？ Davinci Resolve 有一个叫做弹性波的东西，看起来可以用，但我是 Adob​​e 用户，无法找到等效的工具。有没有任何人工智能工具可以帮助解决这个问题？   由   提交/u/jstockton76  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/18bu5an/selective_editing_and_audio_sync/</guid>
+      <pubDate>Wed, 06 Dec 2023 03:00:24 GMT</pubDate>
     </item>
     <item>
-      <title>澳大利亚自由职业者的工资？</title>
-      <link>https://www.reddit.com/r/editors/comments/18bptdu/australian_freelance_rates/</link>
-      <description><![CDATA[您好， 只是想了解一下目前在真人秀和电视剧中工作的自由职业者的工资澳大利亚的时刻？如果有人知道请评论或私信我，谢谢。   由   提交 /u/Electronic-Draw5599    reddit.com/r/editors/comments/18bptdu/australian_freelance_rates/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/18bptdu/australian_freelance_rates/</guid>
-      <pubDate>Tue, 05 Dec 2023 23:30:01 GMT</pubDate>
+      <title>当今用于 Adob​​e Premiere 过渡等的最佳插件？</title>
+      <link>https://www.reddit.com/r/editors/comments/18broyo/best_plugin_for_adobe_premiere_today_for/</link>
+      <description><![CDATA[关于目前最好的是什么，我们得到了许多相互矛盾的答案，RedGiant 是否仍然值得？ 如果不值得，还有哪些？加速创建过渡和效果的良好替代方案。 ​   由   提交 /u/ChallengerOmega   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/18broyo/best_plugin_for_adobe_premiere_today_for/</guid>
+      <pubDate>Wed, 06 Dec 2023 00:57:11 GMT</pubDate>
     </item>
     <item>
       <title>编辑工作骗局 101</title>
@@ -36,7 +36,7 @@
     <item>
       <title>存储解决方案</title>
       <link>https://www.reddit.com/r/editors/comments/18bm2xx/storage_solution/</link>
-      <description><![CDATA[我有 2 个 Thunderbay（每个 4 个驱动器）在 raid5 上进行 RAID。 raid5 后两者均为 24TB。我使用一个作为另一个的镜像备份。这可能有些过头了，但如果一个驱动器出现故障，我无法承受重建驱动器的停机时间。坚如磐石的设置。我的备份有备份。  我现在的问题是我需要更多的存储空间，但我没有多少钱。这是我的疯狂想法… 我购买 4-12TB 内部驱动器，并在其中一个 Thunderbay 上对它们进行 Raid 5…这将使我在该 Thunderbay 上的存储空间增加到 36TB。然后购买一个二手机箱，将我从旧 Thunderbay 中取出的 8tb 驱动器放入其中，并尝试将其与我的另一个 Thunderbay 一起进行 RAID 0。因此，本质上我将拥有一个 36TB 的 Thunder Bay RAID 5，以及 RAID 0 (64TB) 中的另外 2 个 ThunderBay，作为备份。整件事可能要花费我 1300 美元。它并不坚如磐石，但 RAID 5 Thunderbay 是它自己的备份，对吗？我知道这是一个创可贴，但我只是没有钱投资更大的存储解决方案。有什么建议吗？   由   提交 /u/Schmezmar   [链接] [评论]]]></description>
+      <description><![CDATA[我有 2 个 Thunderbay（每个 4 个驱动器）在 raid5 上进行 RAID。 raid5 后两者均为 24TB。我使用一个作为另一个的镜像备份。这可能有些过头了，但如果一个驱动器出现故障，我无法承受重建驱动器的停机时间。坚如磐石的设置。我的备份有备份。  我现在的问题是我需要更多的存储空间，但我没有多少钱。这是我的疯狂想法... 我购买 4-12TB 内部驱动器，并在其中一个 Thunderbay 上对它们进行 Raid 5...这将使我在该 Thunderbay 上的存储空间增加到 36TB。然后购买一个二手机箱，将我从旧 Thunderbay 中取出的 8tb 驱动器放入其中，并尝试将其与我的另一个 Thunderbay 一起进行 RAID 0。因此，本质上我将拥有一个 36TB 的 Thunder Bay RAID 5，以及 RAID 0 (64TB) 中的另外 2 个 ThunderBay，作为备份。整件事可能要花费我 1300 美元。它并不坚如磐石，但 RAID 5 Thunderbay 是它自己的备份，对吧？我知道这是一个创可贴，但我只是没有钱投资更大的存储解决方案。有什么建议吗？   由   提交 /u/Schmezmar   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/18bm2xx/storage_solution/</guid>
       <pubDate>Tue, 05 Dec 2023 20:54:40 GMT</pubDate>
     </item>
@@ -85,7 +85,7 @@
     <item>
       <title>在德国当编辑</title>
       <link>https://www.reddit.com/r/editors/comments/18bcyqf/being_an_editor_in_germany/</link>
-      <description><![CDATA[我刚刚从英国搬到德国，希望得到一些关于在这里继续我的编辑生涯（即电视剧领域）的建议。我在 Crew United 上有一个帐户；我还应该在其他地方发布我的简历和学分以引起注意吗？直接联系与我想参与的节目有关的制作公司或后期制作公司是否被视为越界？也有人建议我在 BFS 注册并尝试参加聚会。任何其他建议非常欢迎。 Vielen Dank im Voraus。   由   提交/u/icl00003  [链接] [评论]]]></description>
+      <description><![CDATA[我刚刚从英国搬到德国，希望得到一些关于在这里继续我的编辑生涯（即电视剧领域）的建议。我在 Crew United 上有一个帐户；我还应该在其他地方发布我的简历和学分以引起注意吗？直接联系与我想参与的节目相关的制作公司或后期制作公司是否被视为越界？也有人建议我在 BFS 注册并尝试参加聚会。任何其他建议非常欢迎。 Vielen Dank im Voraus。   由   提交/u/icl00003  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/18bcyqf/being_an_editor_in_germany/</guid>
       <pubDate>Tue, 05 Dec 2023 14:18:37 GMT</pubDate>
     </item>
@@ -99,7 +99,7 @@
     <item>
       <title>YouTube/在线蛇油</title>
       <link>https://www.reddit.com/r/editors/comments/18b0ewk/youtubeonline_snake_oil/</link>
-      <description><![CDATA[“我不擅长制作标题……这是我创建的标题模板，它们非常出色，并且随时出售，价格为 24 美元，而不是 599 美元。” 请阻止这个家伙。像去年一样，我刚刚开始学习电影学校的课程，无论我做什么，都无法停止看到这些广告。   由   提交 /u/topside_bean   [链接] [评论]]]></description>
+      <description><![CDATA[“我不擅长制作标题...这是我创建的标题模板，它们非常令人惊叹，并且随时以 24 美元而不是 599 美元的价格出售。” 请阻止这个家伙。像去年一样，我刚刚开始学习电影学校的课程，无论我做什么，都无法停止看到这些广告。   由   提交 /u/topside_bean   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/18b0ewk/youtubeonline_snake_oil/</guid>
       <pubDate>Tue, 05 Dec 2023 01:38:45 GMT</pubDate>
     </item>
