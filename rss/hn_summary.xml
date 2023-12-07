@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Wed, 06 Dec 2023 18:11:50 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 Dec 2023 00:35:02 GMT</lastBuildDate>
     <item>
-      <title>[媒体] 万维网联盟 (W3C) 宣布将离开 Twitter，并采取行动 [...]</title>
-      <link>https://t.me/hn_summary/62587</link>
-      <description><![CDATA[W3C 离开 Twitter
-万维网联盟 (W3C) 宣布将离开 Twitter，转向 Mastodon 网络应用程序。 Mastodon 是一个开源社交网络平台，允许用户创建自己的实例并与其他人联系。离开 Twitter 的决定是 W3C 优先考虑去中心化和开放标准的努力的一部分。通过迁移到 Mastodon，W3C 旨在支持更具包容性和多样化的在线社区。用户仍然可以通过启用 JavaScript 或使用 Mastodon 可用的本机应用程序之一来访问 W3C 的内容和更新。]]></description>
-      <guid>https://t.me/hn_summary/62587</guid>
-      <pubDate>Wed, 06 Dec 2023 18:11:50 GMT</pubDate>
+      <title>[媒体]Android AICore 是一项新的系统服务，允许访问预装的 AI 资源 [...]</title>
+      <link>https://t.me/hn_summary/62635</link>
+      <description><![CDATA[Android AICore
+Android AICore 是一项新的系统服务，允许访问 Android 设备上预装的 AI 基础模型。它专门支持访问 Google 的高级基础模型 Gemini Nano。 AICore 目前仅在 Pixel 8 Pro 设备上可用，并且作为开发者早期访问预览的一部分提供。使用 AICore 的好处包括易于部署和访问硬件加速，从而提高性能。 AICore 目前支持 Gemini Nano 的文本模式，但设备和模式支持是积极投资的领域。 Pixel Voice Recorder 和 Gboard 等多种 Google 产品已使用 AICore 来实现设备上的 AI 功能。]]></description>
+      <guid>https://t.me/hn_summary/62635</guid>
+      <pubDate>Thu, 07 Dec 2023 00:35:02 GMT</pubDate>
     </item>
     <item>
-      <title>中国研究人员提出了一种利用“起伏振荡”发电波浪能的新方法[...]</title>
-      <link>https://t.me/hn_summary/62586</link>
-      <description><![CDATA[“波浪振荡器”利用波浪能来扩大运输范围
-中国研究人员提出了一种利用安装在船上的“垂荡振荡器”产生波浪能的新方法。这些振荡器将船舶的起伏、横摇和纵摇运动转化为能量，同时还充当运动阻尼器以提高安全性。上海船舶航运研究所的研究人员开发了一种两体点吸收器系统，该系统将安装在货轮甲板下方，以保留货物空间。该系统由框架、振荡器体、弹簧和液压缸组成。研究人员进行了模拟测试，发现该系统可以从三个不同的运动轴产生能量。下一步是对波浪池测试系统进行原型设计。]]></description>
-      <guid>https://t.me/hn_summary/62586</guid>
-      <pubDate>Wed, 06 Dec 2023 18:04:39 GMT</pubDate>
+      <title>[媒体]据彭博社报道，苹果的 iMessage 将不符合欧盟新的“数字马 [...]</title>
+      <link>https://t.me/hn_summary/62634</link>
+      <description><![CDATA[据报道，iMessage 不符合欧盟“看门人”法律的资格
+据彭博社报道，苹果的 iMessage 将不符合欧盟新《数字市场法案》的资格，从而使苹果能够保持对苹果用户的排他性。该法案旨在监管大型科技公司的“看门人”，并执行互操作性、公平性和隐私规则。虽然 iMessage 符合每月 4500 万欧盟活跃用户的流行度指标，但它并未包含在该法案的列表中。这意味着 iMessage 不会被迫允许与其他服务的互操作性。争议在于 iMessage 兼容性一直是一个热门话题，一些公司试图侵入该协议以获取蓝色气泡的访问权限。苹果做出了一些让步，例如承诺将非 iMessage 消息转移到 RCS，但气泡的颜色仍然是一个问题。]]></description>
+      <guid>https://t.me/hn_summary/62634</guid>
+      <pubDate>Thu, 07 Dec 2023 00:31:52 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Spotlight for Development 是一个强大的工具，可帮助开发人员增强他们的 codin [...]</title>
-      <link>https://t.me/hn_summary/62585</link>
-      <description><![CDATA[聚焦：开发哨兵
-Spotlight for Development 是一款功能强大的工具，可帮助开发人员增强编码体验。通过导入Spotlight库并在开发环境中初始化它，开发人员可以利用它的功能。该工具对于调试和故障排除代码特别有用，因为它提供实时见解并突出显示潜在问题。 Spotlight 库可以轻松集成到现有项目中，并提供一系列可自定义的选项。借助 Spotlight for Development，开发人员可以简化工作流程并提高代码质量。]]></description>
-      <guid>https://t.me/hn_summary/62585</guid>
-      <pubDate>Wed, 06 Dec 2023 17:27:12 GMT</pubDate>
+      <title>剑桥大学的研究人员通过观察 m [...]</title>
+      <link>https://t.me/hn_summary/62633</link>
+      <description><![CDATA[研究人员发现磁单极子
+剑桥大学的研究人员通过观察赤铁矿（一种氧化铁）中的磁单极子取得了突破性的发现。利用金刚石量子传感，研究人员能够观察到材料表面的旋转纹理和微弱的磁信号。这是第一次通过实验观察到自然发生的单极子。研究还揭示了旋转纹理与赤铁矿等材料的磁荷之间的直接联系。这些发现可能对下一代逻辑和存储器应用产生影响。该研究发表在《自然材料》杂志上。]]></description>
+      <guid>https://t.me/hn_summary/62633</guid>
+      <pubDate>Thu, 07 Dec 2023 00:22:40 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] TuneType 是一种通过直接嵌入吉他和弦来彻底改变音乐符号的字体 [...]</title>
-      <link>https://t.me/hn_summary/62584</link>
-      <description><![CDATA[显示 HN：TuneType – 嵌入（吉他）和弦的字体作为连字
-TuneType 是一种通过将吉他和弦直接嵌入歌词中而彻底改变音乐符号的字体。这种创新方法提供了一种新的、直观的音乐记谱方式。只需输入歌词并在反斜杠之间插入和弦，TuneType 使用连字将它们无缝地对齐到文本上方，轻松增强您的创意流程。 TuneType 的独特之处在于其通用兼容性，确保它可以跨多个平台和工具工作，从而实现不间断的创造力。这种字体改变了音乐家和词曲作者的游戏规则，为音乐注释提供了简单而有效的解决方案。]]></description>
-      <guid>https://t.me/hn_summary/62584</guid>
-      <pubDate>Wed, 06 Dec 2023 17:15:57 GMT</pubDate>
+      <title>[媒体] Merlin Bird ID 应用程序引入了一项名为 Sound ID 的新功能，该功能允许用户 [...]</title>
+      <link>https://t.me/hn_summary/62632</link>
+      <description><![CDATA[Merlin Sound ID – 使用手机识别鸟类（工作原理） 
+Merlin Bird ID 应用程序引入了一项名为 Sound ID 的新功能，允许用户使用手机识别鸟类。该应用程序使用机器学习和声音识别技术来分析录音并实时预测哪些鸟类正在唱歌。目前，该应用程序可以根据声音识别美国和加拿大的 458 种鸟类。 Sound ID 在用户设备上运行，无需网络连接。该应用程序已使用深度卷积神经网络和带注释的音频剪辑数据库进行了训练。通过反馈和调整，模型的性能不断提高。在训练数据中使用时间细粒度标签有助于提高准确性。该文章提到了与鸟类声音识别相关的其他项目和竞赛，并强调了为音频数据生成精确时间注释的劳动密集型过程。文章还提到，未来的文章将探讨构建模型时所做的设计决策，并讨论声音 ID 工具的未来发展。]]></description>
+      <guid>https://t.me/hn_summary/62632</guid>
+      <pubDate>Thu, 07 Dec 2023 00:17:27 GMT</pubDate>
     </item>
     <item>
-      <title>主流商业操作系统，例如 macOS、iOS、Windows、Android 和 Chrome OS [...]</title>
-      <link>https://t.me/hn_summary/62583</link>
-      <description><![CDATA[操作系统、交通和文化影响
-主要的商业操作系统，如 macOS、iOS、Windows、Android 和 Chrome OS 均在美国制造，主要在旧金山湾区。这些操作系统提供了便捷的航班跟踪功能，允许用户将登机牌添加到他们的数字钱包中并接收有关航班的提醒。然而，当谈到火车旅行时，这些操作系统缺乏支持。这是因为与飞行或驾车相比，长途火车旅行在美国并不受欢迎。尽管存在标准化数据格式等技术障碍，但如果有推动的话，这些操作系统有可能为火车旅行提供更好的支持。然而，这似乎并不是这些公司的优先考虑事项。]]></description>
-      <guid>https://t.me/hn_summary/62583</guid>
-      <pubDate>Wed, 06 Dec 2023 17:02:45 GMT</pubDate>
+      <title>Biff 是一个用于在 Clojure 中构建整体、全栈 Web 应用程序的框架。</title>
+      <link>https://t.me/hn_summary/62631</link>
+      <description><![CDATA[Biff 的哲学
+Biff 是一个用于在 Clojure 中构建整体、全栈 Web 应用程序的框架。作者创建了 Biff，因为他们发现在构建 Clojure Web 应用程序时自己编写所有必要的库非常耗时。 Biff 专为独立开发人员设计，重点关注原型设计速度和随着应用程序增长的适应性。作者从框架中删除了实验性功能，只留下可靠的组件。 Biff 可以拆卸和定制，以满足个人需求。作者承认 Clojure 社区对框架的怀疑，但相信 Biff 在可重用性和简单性之间取得了平衡。该框架适用于独立开发人员，但也适用于小型团队。]]></description>
+      <guid>https://t.me/hn_summary/62631</guid>
+      <pubDate>Thu, 07 Dec 2023 00:14:15 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Polymath Robotics，一家专注于为工业自主车辆创建软件的公司 [...]</title>
-      <link>https://t.me/hn_summary/62582</link>
-      <description><![CDATA[Polymath Robotics (YC S22) 正在招聘机器人安全工程师 - 旧金山
-Polymath Robotics 是一家专注于为工业自动驾驶汽车开发软件的公司，正在旧金山招聘一名机器人安全工程师。该公司相信机器人和自动驾驶领域的这一时刻具有开创性，并正在寻找人才加入他们紧密的小型团队，以帮助自动驾驶汽车快速进入各个行业。该角色的职责包括为不同类型的工业车辆开发可安全评级的软件、指导团队成员以及与 DevOps 合作优化基础设施。该职位的资格包括 C/C++、ROS 和移动机器人安全方面的专业知识，以及之前在自主系统中构建安全性的经验。该公司提供协作环境、混合工作模式，并支持开源机器人技术工作。有兴趣的候选人可以提交简历、求职信以及相关作品集或项目链接进行申请。]]></description>
-      <guid>https://t.me/hn_summary/62582</guid>
-      <pubDate>Wed, 06 Dec 2023 17:02:33 GMT</pubDate>
+      <title>[媒体] 网络内容讨论了 Claude 2.1 的性能，Claude 2.1 是一种最先进的模型，可提供 [...]</title>
+      <link>https://t.me/hn_summary/62630</link>
+      <description><![CDATA[人类克劳德的表现在很大程度上取决于提示风格
+网络内容讨论了 Claude 2.1 的性能，Claude 2.1 是 Anthropic 提供的最先进的模型。 Claude 2.1 具有 200K 令牌上下文窗口，使其能够擅长跨较长上下文的现实世界检索任务。然而，模型可能不愿意回答基于文档中单个句子的问题，特别是如果该句子被注入或不在适当的位置。内容重点介绍了最近的一项评估，该评估衡量了 Claude 2.1 回忆长文档中单个句子的能力。评估显示，Claude 2.1经常报告文档没有提供足够的上下文来回答问题，而不是检索嵌入的句子。然而，一个小的提示编辑可以消除这种不情愿并显着提高 Claude 2.1 的性能。通过指示模型首先寻找相关句子，提示克服了克劳德不愿根据单个句子回答的情况。这种方法还提高了 Claude 在上下文中单句答案的表现。]]></description>
+      <guid>https://t.me/hn_summary/62630</guid>
+      <pubDate>Wed, 06 Dec 2023 23:39:56 GMT</pubDate>
     </item>
     <item>
-      <title>Flickypedia 是一个新工具，旨在让用户更轻松地上传他们的 Flickr 照片 [...]</title>
-      <link>https://t.me/hn_summary/62581</link>
-      <description><![CDATA[Flickypedia 帮助您将 Flickr 照片放到维基共享资源上&lt; br/&gt;
-Flickypedia 是一款新工具，旨在让用户更轻松地将 Flickr 照片上传到维基共享资源。维基共享资源仅接受具有知识共享 (CC) 许可证的照片，因此 Flickypedia 将仅显示来自 Flickr 且满足此要求的照片。这确保用户可以轻松查找和上传可在维基共享资源上自由使用和共享的照片。对于那些希望向维基共享资源社区贡献照片的人来说，Flickypedia 是一个有用的资源。]]></description>
-      <guid>https://t.me/hn_summary/62581</guid>
-      <pubDate>Wed, 06 Dec 2023 17:01:24 GMT</pubDate>
+      <title>[媒体]英国广告监管机构广告标准局 (ASA) 已禁止 [...]</title>
+      <link>https://t.me/hn_summary/62629</link>
+      <description><![CDATA[英国禁止航空公司因“误导性”环境声明发布广告 
+英国广告监管机构广告标准局 (ASA) 已禁止汉莎航空、法航荷航和阿提哈德航空发布广告，因为它们对航空公司的环境影响造成了“误导性印象”。这些广告于 7 月份出现在谷歌上，声称有关可持续飞行和环保倡导。 ASA 裁定这些广告违反了广告规则，不得以当前形式再次出现。汉莎航空表示，其广告是由Google Ads制作的，未能解释“飞行更可持续”这一主张的依据。法航表示，该广告是由人工智能工具生成的，并已更改其参数以防止类似事件。阿提哈德航空在收到投诉通知后删除了该广告。这并不是 ASA 第一次因环境问题对航空公司做出不利于航空公司的裁决。 2020年，瑞安航空自称“排放量最低的航空公司”的广告也被认为具有误导性。]]></description>
+      <guid>https://t.me/hn_summary/62629</guid>
+      <pubDate>Wed, 06 Dec 2023 23:28:43 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]随着利率达到顶峰的可能性，黄金价格飙升至新纪录高点 [...]</title>
-      <link>https://t.me/hn_summary/62580</link>
-      <description><![CDATA[黄金价格创下纪录
-随着利率见顶的可能性越来越大，金价飙升至历史新高。周五，12 月黄金期货结算价为每金衡盎司 2,071 美元，超过了 2020 年 8 月每盎司 2,051.50 美元的前高点。今年以来，黄金在过去八周中连续七周上涨，涨幅达 11%。如果这一趋势持续下去，这可能标志着黄金期货自 2020 年以来的最佳年度表现，当时经济受到 Covid-19 大流行的严重打击，金价飙升了 24%。然而，周一期货下跌 2.3% 至 2,024.10 美元。]]></description>
-      <guid>https://t.me/hn_summary/62580</guid>
-      <pubDate>Wed, 06 Dec 2023 16:38:09 GMT</pubDate>
+      <title>[媒体]德克萨斯州总检察长肯·帕克斯顿 (Ken Paxton) 对辉瑞 (Pfizer) 提起诉讼，指责 PH [...]</title>
+      <link>https://t.me/hn_summary/62628</link>
+      <description><![CDATA[德克萨斯州以 Covid 反疫苗论点起诉辉瑞，这纯粹是愚蠢的&lt; /a&gt;
+德克萨斯州总检察长肯·帕克斯顿 (Ken Paxton) 对辉瑞 (Pfizer) 提起诉讼，指控该制药公司欺骗公众并歪曲其 COVID-19 疫苗的有效性。该诉讼还声称，辉瑞应对 2021 年疫情恶化负责。帕克斯顿的投诉包括各种反疫苗错误信息和未经证实的说法。该诉讼的核心论点之一是辉瑞应该使用绝对风险降低而不是相对风险降低来评估疫苗的有效性。这一论点已被专家揭穿，并被反疫苗倡导者普遍采用。该诉讼寻求 1000 万美元赔偿。]]></description>
+      <guid>https://t.me/hn_summary/62628</guid>
+      <pubDate>Wed, 06 Dec 2023 23:23:32 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Notepad++ 和 Geany 这两种流行的 FOSS 文本编辑器已经达到了重要的里程碑。</title>
-      <link>https://t.me/hn_summary/62579</link>
-      <description><![CDATA[资深编辑器 Notepad++ 和 Geany – 优秀且无 Electron – 达到了里程碑
-Notepad++ 和 Geany 这两种流行的 FOSS 文本编辑器已经达到了重要的里程碑。 Notepad++ 庆祝其诞生 20 周年，发布了 8.6 版本，其中包括多选等新功能。它以其速度、大小和功能而闻名，使其成为许多 Windows 用户的主要产品。另一方面，Geany 已经 18 岁了，发布了 2.0 版本。它介于文本编辑器和 IDE 之间，提供多项目文件管理和语法突出显示等功能。与 Microsoft Visual Studio Code 等更大、资源更密集的替代方案相比，这两种编辑器都因其体积小和性能快而受到称赞。]]></description>
-      <guid>https://t.me/hn_summary/62579</guid>
-      <pubDate>Wed, 06 Dec 2023 16:28:54 GMT</pubDate>
+      <title>[媒体] 一个安全漏洞 CVE-2022-28958，之前包含在 CISA 的已知 [...]</title>
+      <link>https://t.me/hn_summary/62627</link>
+      <description><![CDATA[一年后，CISA 意识到已揭穿的漏洞是一个无用的漏洞，并将其删除来自必须补丁列表
+之前包含在 CISA 已知被利用漏洞目录中并由信誉良好的威胁报告识别的安全漏洞 CVE-2022-28958 已被揭穿并从列表中删除。该漏洞被认为是一个严重的远程代码执行缺陷，但发现对目标系统没有影响。 VulnCheck 首席技术官 Jacob Baines 在原始报告者提供的概念验证代码中发现了一个明显的错误，导致该漏洞无效。尽管如此，该漏洞还是说服了网络安全组织，甚至引起了攻击者的注意。该事件凸显了彻底漏洞验证的重要性以及错误报告漏洞的潜在后果。]]></description>
+      <guid>https://t.me/hn_summary/62627</guid>
+      <pubDate>Wed, 06 Dec 2023 23:21:24 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 著名安全研究员 Bruce Schneier 在 Slate 的一篇社论中警告说，r [...]</title>
-      <link>https://t.me/hn_summary/62578</link>
-      <description><![CDATA[由于人工智能，“我们即将进入大众时代间谍活动，”布鲁斯·施奈尔说道
-著名安全研究员 Bruce Schneier 在 Slate 的一篇社论中警告说，人工智能模型的兴起可能会导致大规模间谍活动的新时代。他解释说，人工智能系统可以自动分析和总结大量对话数据的过程，使间谍活动变得更加容易和全面。施奈尔强调，当前的间谍方法是劳动密集型的，但人工智能显着减少了这种限制。他还对人工智能间谍分析意图和背景的能力表示担忧，这可能会影响个人隐私和社会控制。施奈尔建议政府监管可能是保护个人免受大规模间谍活动所必需的。]]></description>
-      <guid>https://t.me/hn_summary/62578</guid>
-      <pubDate>Wed, 06 Dec 2023 16:27:45 GMT</pubDate>
+      <title>宇宙是什么形状的？</title>
+      <link>https://t.me/hn_summary/62626</link>
+      <description><![CDATA[宇宙是什么形状？ （2021）
+宇宙的形状是宇宙学中非常重要的话题，因为它决定了宇宙的命运和性质。根据广义相对论，宇宙可以采取三种形式之一：平坦、封闭或开放。平坦的宇宙是最合理的情况，意味着它向各个方向膨胀，而不会正向或负向弯曲。封闭的宇宙是有限但无限的，类似于球体，而开放的宇宙则具有负曲率，类似于马鞍。宇宙的形状由其密度和膨胀率决定。虽然关于宇宙的形状存在一些争议，但大多数证据表明它是平坦的。然而，值得注意的是，我们的观测仅限于可观测的宇宙，因此可能还有更多的东西有待发现。]]></description>
+      <guid>https://t.me/hn_summary/62626</guid>
+      <pubDate>Wed, 06 Dec 2023 23:12:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
