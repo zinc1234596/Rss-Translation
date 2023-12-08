@@ -4,11 +4,18 @@
     <title>人工智能 - Telegram Channel</title>
     <link>https://t.me/s/Artificial_intelligence_in</link>
     <description>我让人工智能对每个人来说都很简单，这样你就可以从零开始。💡人工智能💡机器学习💡深度学习💡数据科学💡Python + R💡AR和VRAI不会取代你。使用 AI 的人将会。Dm @Aiindian - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Fri, 08 Dec 2023 03:11:21 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 Dec 2023 06:14:24 GMT</lastBuildDate>
+    <item>
+      <title>传奇的谷歌联合创始人谢尔盖·布林 (Sergey Brin) 是 Gemini 的核心贡献者，显然亲自为该项目编写代码。不管他有多么...</title>
+      <link>https://t.me/Artificial_intelligence_in/945</link>
+      <description><![CDATA[传奇的 Google 联合创始人 Sergey Brin 是 Gemini 的核心贡献者，显然正在为该项目编写代码。  无论身价多少，工程师本质上就是工程师，没有什么可以削弱这一点。根据 Aravind Srinivas 的说法，Sergey 参加了 Stability AI 发布会去年在派对上与 Transformer 的发明者 Ashish Vaswani 聊天。 Sergey 没有长篇大论，而是问了他一些非常低级的技术问题，比如为什么他选择正弦位置嵌入以及他是否尝试过其他变体。激情永不止息。❤️]]></description>
+      <guid>https://t.me/Artificial_intelligence_in/945</guid>
+      <pubDate>Fri, 08 Dec 2023 02:31:37 GMT</pubDate>
+    </item>
     <item>
       <title>🖼谷歌终于做到了！它推出的模型击败了 OpenAI 的 GPT-4 😳 以下是您需要了解的有关 Gemini 的所有信息以及为什么它将改变 AI 游戏……</title>
       <link>https://t.me/Artificial_intelligence_in/944</link>
-      <description><![CDATA[Google 终于做到了！它推出了一个击败 OpenAI 的 GPT-4 的模型😳这就是你的全部需要了解双子座和双子座为什么它将改变人工智能游戏：Gemini 是 Google 迄今为止最强大、最通用的人工智能模型。它是一个多模态模型家族，在图像、音频、视频和文本领域展示了真正强大的能力。换句话说，它可以轻松识别图像，实时说话，具有令人难以置信的能力对科学的理解，展示复杂的推理和高级编码。双子座有三种尺寸：1。 Ultra 适用于复杂任务2. Pro 可跨一系列任务进行扩展3 Nano 可实现高效的设备上任务。现在来了疯狂的部分。Gemini Ultra 的性能超越了当前状态LLM 研究和开发中使用的 32 个基准中的 30 个具有最先进的结果。更重要的是，它是第一个击败 OpenAI 的 GPT-4 的模型，GPT-4 是当今人工智能的主导力量 🤯人工智能时代从未如此更加令人兴奋。]]></description>
+      <description><![CDATA[Google 终于做到了！它推出了一个击败 OpenAI 的 GPT-4 的模型😳这就是你的全部需要了解双子座和双子座为什么它将改变人工智能游戏：Gemini 是 Google 迄今为止最强大、最通用的人工智能模型。它是一个多模态模型家族，在图像、音频、视频和文本领域展示了真正强大的能力。换句话说，它可以轻松识别图像，实时说话，具有令人难以置信的能力对科学的理解，展示复杂的推理和先进的编码。 结帐 Gemini 提供三种尺寸：&lt; br/&gt;1. Ultra 适用于复杂任务2. Pro 可跨一系列任务进行扩展3 Nano 可实现高效的设备上任务。现在来了疯狂的部分。Gemini Ultra 的性能超越了当前状态LLM 研究和开发中使用的 32 个基准中的 30 个具有最先进的结果。更重要的是，它是第一个击败 OpenAI 的 GPT-4 的模型，GPT-4 是当今人工智能的主导力量 🤯人工智能时代从未如此更令人兴奋。]]></description>
       <guid>https://t.me/Artificial_intelligence_in/944</guid>
       <pubDate>Thu, 07 Dec 2023 03:10:04 GMT</pubDate>
     </item>
@@ -57,7 +64,7 @@
     <item>
       <title>🖼 🚨 就在 🚨 Sam 带着新董事会重返 OpenAI 担任首席执行官，这是多么大的转折啊。欢迎回来萨姆！</title>
       <link>https://t.me/Artificial_intelligence_in/931</link>
-      <description><![CDATA[🚨 就在 🚨Sam 重返 OpenAI作为新董事会的首席执行官，这真是一个转变。 欢迎回来，山姆！]]></description>
+      <description><![CDATA[🚨 就在 🚨Sam 重返 OpenAI作为新董事会的首席执行官，这真是一个转变。 欢迎回来山姆！]]></description>
       <guid>https://t.me/Artificial_intelligence_in/931</guid>
       <pubDate>Wed, 22 Nov 2023 07:35:27 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[NVIDIA 刚刚通过零代码更改使 Pandas 速度提高了 150 倍。您所要做的就是：%load_ext cudf.pandasimport pandas as pd他们的 RAPIDS 库会自动知道你是在 GPU 还是 CPU 上运行，并加快处理速度。你可以尝试它在这个 colab 笔记本GitHub 中仓库： https://github.com/rapidsai/cudf &lt;视频控件=“controls”海报=“https://cdn5.cdn-telegram.org/file/rJF4NU3SQtkozbGFEjURsxyuCk2vRmmcpFdpwtLQaDmE0cdysFb9_GMrWDvxheCjIKNHJspTRoDlU8Xppjb_1MEYnBjmp27duoIfGf9ktyk9jZtdoD_JKy76n X5vRfQJaFw69xi8WPAdtxBJrzS_wI83hsOFGrjDHSwWqmwJDSA_0giKCEnKLPvxw6_-9TAOxJhJPzUdKkxbIGDb_yVvzsM7uQZPQuNDxVesMhFg0X8DiXij4gvXWZfxelvlG_EURjrsufeVEWM 4CH1N9BDw_cp6wUFCvro8BjhA-EzotF9WwYJq-OZx1bxwqUb41E1rsKf_m3aJEoifbcydSydEyA&quot; src=&quot;https://cdn5.cdn-telegram.org/file/068bfff3a5。 mp4？令牌=IiJlkyglNOo54yGJVOyj1syjcpLczEGXY8FNswppMgXtPd3XJThvAA5DUZ71AXnqTPGQNa1RdMSuGlJpm25NzKyxzOjnFDfokUsrYhdqoKTCz7mSbvVFuKFp8MfWMe5b83fbowomtINVB0nx LpFhKQKMmR7UO85psn2cGdXwlvEN8pWAprAVi5GUFL7AF7jZr5V_dzyKi1e8RlL4CuxEFkIf1z6kn-ckH7fSvToHGyLqyq_GWF2f5yaczzlgRqM9prngwVkmVhW7Pk71Kl4hsgyD9a_CeZTK3Fq87O zi1cxCCZuUHE4wKGcEfgFghr-vlO442-OuqkpoPu5AcBHHdQ&quot; style=&quot;width: 100%;&quot;&gt;]]></description>
       <guid>https://t.me/Artificial_intelligence_in/916</guid>
       <pubDate>Fri, 10 Nov 2023 02:30:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>🖼 使用 OpenAI 从头开始​​训练自定义模型需要 2-300 万美元！！ GPT-4 微调服务成本起价为“2-300 万美元”，需要“数十亿......</title>
-      <link>https://t.me/Artificial_intelligence_in/915</link>
-      <description><![CDATA[使用 OpenAI 从头开始​​训练自定义模型需要 2-300 万美元！！GPT-4 微调服务成本起价为“2-300万美元”并且需要“至少数十亿代币”，这听起来很可怕，但对于中型公司来说实际上可能是一笔不错的交易。想想您需要多少资源来建立内部管道：- 向顶级人工智能工程师支付高薪（30 万美元以上/年）。至少 5 个。- 支付令人眼花缭乱的云账单或购买 GPU 并租用设施。- 建立培训基础设施 - 需要真正优秀的分布式系统工程师。- 迭代很多次在开源模型上。在最初的几次尝试中，您不会得到正确的结果。- 扩大部署管道。- 监控可靠性。- 担心高效服务。- 甚至毕竟这：经过微调的 Llama-2 仍然远远落后于经过微调的 GPT-4。生产中可靠的 LLM 所需的工作量令人难以置信。]]></description>
-      <guid>https://t.me/Artificial_intelligence_in/915</guid>
-      <pubDate>Wed, 08 Nov 2023 13:37:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
