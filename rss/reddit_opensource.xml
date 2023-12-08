@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 08 Dec 2023 09:12:08 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 Dec 2023 12:20:46 GMT</lastBuildDate>
+    <item>
+      <title>如何吸引更多国际贡献者？</title>
+      <link>https://www.reddit.com/r/opensource/comments/18dkm52/how_to_get_more_international_contributors/</link>
+      <description><![CDATA[嗨！ 我是开源智能家居软件 Gladys Assistant 的核心维护者 ( https://github.com/GladysAssistant/Gladys / https://gladysassistant.com/  )  我来自法国，在我的国家有很多贡献者（51 名贡献者）。 但是我很难获得更多的国际贡献者，尽管Github 100% 英文（所有 PR、所有问题、所有提交）。  作为我的职位，您会采取什么措施让 Gladys 对国际贡献者更具吸引力？ 非常感谢您的反馈！ 🙏   由   提交/u/oubord  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/18dkm52/how_to_get_more_international_contributors/</guid>
+      <pubDate>Fri, 08 Dec 2023 11:13:00 GMT</pubDate>
+    </item>
     <item>
       <title>寻找手机和桌面的同步</title>
       <link>https://www.reddit.com/r/opensource/comments/18dh691/looking_for_synching_of_phone_and_desktop/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[我有一个业务部门想要一个可以由其他部门的成员填写的网络表单，一旦提交将生成一个 PDF，可以到请求者所在部门负责人签字批准。  我什至不确定是否有付费产品可以完成这项非常具体的任务，但我想我会看看是否有任何项目可以做到这一点。 我的 Google-fu 出现了只做那些他们正在寻找的部分功能，或者已经不存在或有点粗略（要求太多权限）的Google表单插件。   由   提交 /u/adstretch   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/18clbui/niche_request/</guid>
       <pubDate>Thu, 07 Dec 2023 02:37:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>您使用的开源桌面播客应用程序？</title>
-      <link>https://www.reddit.com/r/opensource/comments/18cdrg7/open_source_desktop_podcast_app_that_you_use/</link>
-      <description><![CDATA[ 由   提交/u/danleeter  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/18cdrg7/open_source_desktop_podcast_app_that_you_use/</guid>
-      <pubDate>Wed, 06 Dec 2023 20:46:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
