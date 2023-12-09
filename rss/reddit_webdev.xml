@@ -4,111 +4,111 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 09 Dec 2023 06:14:23 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 09 Dec 2023 12:19:24 GMT</lastBuildDate>
     <item>
-      <title>为项目寻找网络开发人员时需要注意什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/18e6nv1/what_to_look_for_when_getting_a_web_developer_for/</link>
-      <description><![CDATA[我是一名设计师，已准备好 Figma 原型。我将把开发工作外包给像 upwork 这样的网站。这只是一个个人副项目。 这是一个餐饮网站，仅显示 CTA 特许经营/预订活动/职业的信息（菜单、简介、地点），以便通过电子邮件或电话联系。 . 我如何寻找一个好的开发人员来完成此任务（要寻找的关键字）以及哪些技术堆栈/应用程序（wix、squarespace、webflow 等）最适合这样的项目？&lt; /p&gt; 唯一的事情是我希望能够添加/删除商店位置。所有“有幸拥有”都可以。未来将实现的功能（谷歌地图、博客、社交媒体提要等） 或者这是否足够简单，我可以做到？我确实对 html/css/js 有一个总体的了解（因为我与开发人员密切合作，并且通过大学里的几门课程+断断续续地尝试训练营），但我的主要角色一直是产品设计师。   由   提交 /u/Zestyclose_Table7544   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18e6nv1/what_to_look_for_when_getting_a_web_developer_for/</guid>
-      <pubDate>Sat, 09 Dec 2023 05:42:30 GMT</pubDate>
+      <title>如何在我的 Web 应用程序中实现强大的错误处理和恢复机制？</title>
+      <link>https://www.reddit.com/r/webdev/comments/18ebolt/how_can_i_implement_robust_error_handling_and/</link>
+      <description><![CDATA[创建一个项目，其中涉及用户创建房间并且其他用户可以使用邀请代码加入，处理连接失败、Web 应用程序崩溃等的最佳方法是什么？    由   提交/u/lonely_geek_  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18ebolt/how_can_i_implement_robust_error_handling_and/</guid>
+      <pubDate>Sat, 09 Dec 2023 11:29:16 GMT</pubDate>
     </item>
     <item>
-      <title>[Showoff Saturday] 我尝试重新创建 Bjorn Staal 的多窗口同步功能，但适用于 Windows GUI</title>
-      <link>https://www.reddit.com/r/webdev/comments/18e6lgn/showoff_saturday_i_tried_recreating_bjorn_staals/</link>
-      <description><![CDATA[      ​ Bjorn Staal 的多窗口同步 &amp; #x200b; 我的 Windows GUI 实现 我使用过PyQt5 创建用于创建 GUI 和 pyqtSignal 以进行同步。 您可以在此处查看存储库：https://github.com /aniketrajnish/MultiWindowSync-PyQt  如果对你有帮助，请点击星星！！   由   提交/u/kritika_space  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18e6lgn/showoff_saturday_i_tried_recreating_bjorn_staals/</guid>
-      <pubDate>Sat, 09 Dec 2023 05:38:11 GMT</pubDate>
+      <title>我一直在构建这个 Reddit 搜索引擎 - 需要反馈！</title>
+      <link>https://www.reddit.com/r/webdev/comments/18ebmkg/ive_been_building_this_reddit_search_engine/</link>
+      <description><![CDATA[https://searchonreddit.com 各位网络开发者大家好， 我学习编程已有几个月了。这是我第一个使用 REST API 发布的 Webdev 项目。与其他人在这里真正的炫耀相比，这是一个相当简单的项目。 ​ 我对它能走向何方有点困惑。 &lt; p&gt;我想添加 reddit 登录来让人们管理收藏夹帖子，因为 reddit 上没有很好地提供它。  或者像搜索引擎一样保留它，但允许 Google 登录来保存帖子，而无需 Reddit 帐户。 ​ 请让我知道你怎么看。需要反馈。 谢谢！ ​   由   提交 /u/HonestNest   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18ebmkg/ive_been_building_this_reddit_search_engine/</guid>
+      <pubDate>Sat, 09 Dec 2023 11:25:21 GMT</pubDate>
     </item>
     <item>
-      <title>用 Oldschool Runescape 术语来说，Redux 就是 React，就像……</title>
-      <link>https://www.reddit.com/r/webdev/comments/18e4ya6/in_oldschool_runescape_terms_redux_is_to_react_as/</link>
-      <description><![CDATA[我对前端一无所知。我刚刚学了HTML/JS/CSS。 在学习一个新框架时，选择的是React。需要了解“Redux”是什么？随处可见的东西。 用 OSRS 术语解释（这不是模因/笑话）。   由   提交 /u/ohkaybodyrestart   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18e4ya6/in_oldschool_runescape_terms_redux_is_to_react_as/</guid>
-      <pubDate>Sat, 09 Dec 2023 03:59:59 GMT</pubDate>
+      <title>MAMP 问题 - 无法导入 WP 数据库</title>
+      <link>https://www.reddit.com/r/webdev/comments/18ebhkz/mamp_question_cant_import_wp_db/</link>
+      <description><![CDATA[我在运行 10.15.7 的 iMac 桌面上使用 MAMP 6.8 免费版本 我在尝试上传时遇到错误将数据库导入 PHPMyAdmin。数据库只有12.5MB，错误如下： POST Content-Length of 12462545 bytes超出了Unknown on line 0中8388608 bytes的限制 &lt; p&gt;我明白我需要做什么来解决这个问题：进入我的 PHP 版本（7.4.33）的 conf 文件，并更改 max_execution_time 的值、upload_max_filesize、memory_limit 和 post_max_size。 我收到的特定错误表明我的 post_max_size&lt; /code&gt; 太小，所以我在conf 文件中将其增加到32M 并重新启动了我的MAMP 服务器。但是，我在phpinfo中可以看到它仍然是默认值8M。  我确信我正在编辑正确的文件：/Applications/MAMP/bin/php/php7.4.33/conf/php.ini 为什么我的更改没有生效影响？为了解决此问题，我还需要做什么？   由   提交 /u/MBWD   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18ebhkz/mamp_question_cant_import_wp_db/</guid>
+      <pubDate>Sat, 09 Dec 2023 11:16:09 GMT</pubDate>
     </item>
     <item>
-      <title>调试的教训</title>
-      <link>https://www.reddit.com/r/webdev/comments/18e31wy/lessons_from_debugging/</link>
-      <description><![CDATA[       由   提交/u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18e31wy/lessons_from_debugging/</guid>
-      <pubDate>Sat, 09 Dec 2023 02:14:27 GMT</pubDate>
+      <title>强静态类型，我愿意死在一座山上......</title>
+      <link>https://www.reddit.com/r/webdev/comments/18ebc1v/strong_static_typing_a_hill_im_willing_to_die_on/</link>
+      <description><![CDATA[   /u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18ebc1v/strong_static_typing_a_hill_im_willing_to_die_on/</guid>
+      <pubDate>Sat, 09 Dec 2023 11:06:16 GMT</pubDate>
     </item>
     <item>
-      <title>每天 cron API 的最便宜方法</title>
-      <link>https://www.reddit.com/r/webdev/comments/18e1jww/cheapeast_way_to_cron_an_api_everyday/</link>
-      <description><![CDATA[嘿！ 在云中设置 cron 的最便宜方法是什么，它会解析 API 并执行一些 JS 操作 过去，我尝试过渲染 + 正常运行时间机器人每天检查一次，但它从未连续工作超过 7 天 github actions 可以完成这项工作吗？&lt; /p&gt;   由   提交/u/hybutchjeed  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18e1jww/cheapeast_way_to_cron_an_api_everyday/</guid>
-      <pubDate>Sat, 09 Dec 2023 00:56:38 GMT</pubDate>
+      <title>像Gitguardian这样的工具可以免费访问Github的公共存储库吗</title>
+      <link>https://www.reddit.com/r/webdev/comments/18eb25k/are_tools_like_gitguardian_have_free_access_to/</link>
+      <description><![CDATA[我公开了我的一个存储库，并立即收到来自 gitguardian 的一封电子邮件，指出我的存储库已泄露凭据。我知道它是关于什么的，因为我有一个 example.env 文件，显示了预期的环境变量等。我单击了电子邮件中的链接，它将我重定向到 gitguardian 仪表板，他们在其中使用我的 github 登录名并请求访问存储库和阅读我的电子邮件的权限地址。如果需要我的权限来做所有这些事情，他们是如何发送第一封电子邮件的，哈哈。 编辑 - 好吧，我的错，直到你需要在设置下检查“将我的电子邮件地址保密”为了不将其公开给公众和此类应用程序，默认情况下是公开的”。   由   提交 /u/awpt1mus   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18eb25k/are_tools_like_gitguardian_have_free_access_to/</guid>
+      <pubDate>Sat, 09 Dec 2023 10:48:24 GMT</pubDate>
     </item>
     <item>
-      <title>寻找反馈！</title>
-      <link>https://www.reddit.com/r/webdev/comments/18e1hy2/looking_for_feedback/</link>
-      <description><![CDATA[网址：www.dontec.org 用途：用于启动我的项目，也许可以为咖啡赚点钱 技术：谷歌网站 反馈：寻找设计印象。您对这种格式有何看法？这是我的第一个网站。评论：仅此而已！ 新项目网站 有人可以告诉我我的网站是否易于遵循以及他们对格式的看法吗？这是我打算列出我的项目的地方。以前从未有过网站。   由   提交 /u/DonstaTheMonsta   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18e1hy2/looking_for_feedback/</guid>
-      <pubDate>Sat, 09 Dec 2023 00:54:00 GMT</pubDate>
+      <title>你会如何命名这个带有方框和线条的设计？寻找类似的灵感。</title>
+      <link>https://www.reddit.com/r/webdev/comments/18easn0/how_would_you_name_this_design_with_boxes_and/</link>
+      <description><![CDATA[   /u/DerAutofan   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18easn0/how_would_you_name_this_design_with_boxes_and/</guid>
+      <pubDate>Sat, 09 Dec 2023 10:30:26 GMT</pubDate>
     </item>
     <item>
-      <title>Figma 到 React/nextjs/tailwind 工具</title>
-      <link>https://www.reddit.com/r/webdev/comments/18e0ayb/figma_to_reactnextjstailwind_tools/</link>
-      <description><![CDATA[TLDR;我有过尝试进入前端领域的经历，以及我在第一次真正尝试中得到的反馈的问题（跳到最后）。  最近，我的朋友有一个项目，在旧的前端工程师被解雇后，需要另一名前端工程师，他问我是否可以尝试介入，尽管我有后端数据工程师的背景（1.5 年） ）。在工作之余，我曾涉足过制作 nextjs 应用程序，我想，“如果我能完成它，那么我就会得到报酬，如果不能，我就会有机会与专业前端/UI/UX 设计师一起工作。” （提供的设计师和figma都非常好） 嗯，他们说，当你没有得到你想要的东西时，你得到的是“经验”。通过对我第一次通过的批评，我了解到我需要做一些事情，但他没有具体说明哪些工具。我知道像这样在工作中学习并不是公司所寻求的，所以我想在下次机会出现时做好准备。 （失败前进）以下是批评和我与之相关的问题： （问题）  研究如何将figma转换为ui，很多“整合” with Figma 将帮助我开始使用更接近的用户界面（与他们提供的 Figma 相比）。我天真地从头开始。 -他会指哪些工具？我使用了一点 anima，但发现很难将交互式组件推入其中，也很难将 Nextjs tailwind 移动和桌面样式融合在一起。  直接导出figma组件： 每次我尝试查找有关该主题的视频或博客文章时，我应该如何处理它，它只是被以下视频淹没了神奇的人工智能工具，比如 anima 或更糟。   我还没有找到任何资源来描述某人如何使用figma并单独将其具体化为react/nextjs/tailwind的过程。我正在寻找我应该遵循的市场标准惯例/流程。我喜欢我的主要后端工作，但仍然希望在休息时间朝这个方向发展。如果你们中的任何人可以帮助为此添加一些色彩，我将非常感激。  ​   由   提交 /u/Majestic-firebombing    reddit.com/r/webdev/comments/18e0ayb/figma_to_reactnextjstailwind_tools/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18e0ayb/figma_to_reactnextjstailwind_tools/</guid>
-      <pubDate>Fri, 08 Dec 2023 23:53:47 GMT</pubDate>
+      <title>CSS 的可读性</title>
+      <link>https://www.reddit.com/r/webdev/comments/18ea819/css_for_readability/</link>
+      <description><![CDATA[我正在使用 Mozilla 的可读性库 https:// github.com/mozilla/readability 获取“可读”的内容文章中的文本，现在我想以可读的方式设计提取的文本。 你知道我可以使用什么好的 CSS 模板、库等吗？我发现这个似乎没有维护： https://github.com/arp242/hello-css 谢谢！   由   提交 /u/acanimal   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18ea819/css_for_readability/</guid>
+      <pubDate>Sat, 09 Dec 2023 09:51:54 GMT</pubDate>
     </item>
     <item>
-      <title>我们是一个拥有 1 个域的特许经营网络，需要安装 21 个不同的 CallRail JS 片段。避免拖慢我们网站速度的最佳方法是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/18dz81o/were_a_franchise_network_with_1_domain_and_need/</link>
-      <description><![CDATA[如果您熟悉呼叫通道，我们的每个特许经营商都需要一个网站电话号码池，因为它们需要自己唯一的区号。&lt; /p&gt; 因此，不幸的是，这意味着我们需要为每个系列提供单独的 JavaScript 片段。  减轻所有这些片段减慢网站速度的最佳方法是什么？   由   提交 /u/stjduke   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18dz81o/were_a_franchise_network_with_1_domain_and_need/</guid>
-      <pubDate>Fri, 08 Dec 2023 23:02:08 GMT</pubDate>
+      <title>暗纹：您的 Logz.io 帐户很快就会被删除（只有 21 天没有登录）</title>
+      <link>https://www.reddit.com/r/webdev/comments/18ea7xp/dark_patterns_your_logzio_account_will_be_deleted/</link>
+      <description><![CDATA[今天早上，我收到了来自我的日志/监控提供商（我已经使用了几年）的这封电子邮件：  ​  您的 Logz.io 如果帐户仍处于不活动状态，很快就会被删除  嗨， 我们可以看到您在过去 21 天内没有登录 Logz.io 帐户天。请确保登录您的帐户，因为如果您的帐户仍处于非活动状态，我们将删除您的帐户。  谢谢， Logz.io 团队  ​ 他们想要删除活跃帐户用于监控（当前接收日志）只是因为没有任何手动登录到他们的仪表板？ 21天后？此外，如果他们的电子邮件丢失了怎么办？ 这太疯狂了。 我不想进一步发表评论。自己判断是否是一家认真的公司。 ​   由   提交 /u/collimarco   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18ea7xp/dark_patterns_your_logzio_account_will_be_deleted/</guid>
+      <pubDate>Sat, 09 Dec 2023 09:51:43 GMT</pubDate>
     </item>
     <item>
-      <title>像这样的交互式图形/可视化是如何制作的？</title>
-      <link>https://www.reddit.com/r/webdev/comments/18dz4ev/how_are_interactive_graphicvisualizations_like/</link>
-      <description><![CDATA[看到这个后我真的很好奇！ https://www.bloomberg.com/graphics/2023-brackets-for-a-cause/ 怎么样这是做的吗？当我检查 HTML 时，我看到一个巨大的 svg 块。它如何具有这样的交互性以及它是如何生成的？是否有一个专门的库可以做到这一点？   由   提交/u/tawayacc34  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18dz4ev/how_are_interactive_graphicvisualizations_like/</guid>
-      <pubDate>Fri, 08 Dec 2023 22:57:41 GMT</pubDate>
+      <title>CSS 包装：2023 年！ （由 Chrome DevRel 团队提供）</title>
+      <link>https://www.reddit.com/r/webdev/comments/18ea033/css_wrapped_2023_by_the_chrome_devrel_team/</link>
+      <description><![CDATA[ 由   提交 /u/stefanjudis   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18ea033/css_wrapped_2023_by_the_chrome_devrel_team/</guid>
+      <pubDate>Sat, 09 Dec 2023 09:35:24 GMT</pubDate>
     </item>
     <item>
-      <title>追踪问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/18dyy7r/tracking_problem/</link>
-      <description><![CDATA[我们需要实时跟踪社会中的猫，我们需要跟踪它们的位置，比如它们现在在哪个部分，那么我是怎么做的做吗？如何在js和express中连续监控7个摄像头，图像必须发送到ML模型以便每秒左右进行处理。这是怎么做到的？其次如何减少延迟   由   提交 /u/Ok-Anything-4603   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18dyy7r/tracking_problem/</guid>
-      <pubDate>Fri, 08 Dec 2023 22:49:41 GMT</pubDate>
+      <title>Sizes="auto" 几乎需要宽度和高度属性</title>
+      <link>https://www.reddit.com/r/webdev/comments/18e9zlo/sizesauto_pretty_much_requires_width_and_height/</link>
+      <description><![CDATA[ 由   提交 /u/stefanjudis   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18e9zlo/sizesauto_pretty_much_requires_width_and_height/</guid>
+      <pubDate>Sat, 09 Dec 2023 09:34:22 GMT</pubDate>
     </item>
     <item>
-      <title>手写数学方程到数字数据</title>
-      <link>https://www.reddit.com/r/webdev/comments/18dyxbu/handwritten_math_equations_to_digital_data/</link>
-      <description><![CDATA[所以，我想在 Angular + Nodejs 或 .net 中制作一个项目，在其中我可以上传带有手写数学方程的图像并求解它们。我的问题是这个转换..我可以使用一些免费的 OCR 来实现这个或其他解决方法吗？   由   提交 /u/SheepherderReal736   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18dyxbu/handwritten_math_equations_to_digital_data/</guid>
-      <pubDate>Fri, 08 Dec 2023 22:48:31 GMT</pubDate>
+      <title>帮助（提前致谢）</title>
+      <link>https://www.reddit.com/r/webdev/comments/18e9y1r/helpthanks_in_advance/</link>
+      <description><![CDATA[      如您所见，此屏幕截图包含描述列表的代码。当我在 w3c html 验证器中验证此代码时，它会说“ ;描述列表不包含其子标签描述详细信息”或者其他什么，现在我已经添加了 dd 标签，就像你在这个屏幕截图中看到的那样。所以，如果我没有在这里添加 dd，会是错误的还是像我们可以将 html 元素与任何其他 html 元素一起添加？ &lt; p&gt;（抱歉，如果这看起来很复杂，我无法更好地解释）   由   提交 /u/Altruistic-Radish-33   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18e9y1r/helpthanks_in_advance/</guid>
+      <pubDate>Sat, 09 Dec 2023 09:31:14 GMT</pubDate>
     </item>
     <item>
-      <title>差点被 LinkedIn 上的虚假工作机会骗了。假冒公司：TechDoQuest</title>
-      <link>https://www.reddit.com/r/webdev/comments/18dy4za/almost_got_scammed_by_fake_job_offer_on_linkedin/</link>
-      <description><![CDATA[这家假公司试图招募我，我只是想让你们都知道，这是现在很常见的事情。  这比其他骗局更有说服力。他们实际上有一个网站，他们有似乎很活跃的社交媒体，他们向我发送了一封确认电子邮件以获取代表权，等等。  对我来说，主要的危险信号是他说这是给迪士尼的，而且支付了 70 - 8 万美元。后来我仔细观察，发现都是假的。  我没有一路跟踪并在 LinkedIn 上指出骗子，但我的猜测是，这要么是他们向您发送虚假支票的骗局，要么是他们完全假装加入的骗局您，然后要求您提供银行信息以进行直接存款并清除您的帐户。  只是想在这里发帖让大家知道，这样他们就不会欺骗其他人。  大家要小心。   由   提交/u/Hunter377  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18dy4za/almost_got_scammed_by_fake_job_offer_on_linkedin/</guid>
-      <pubDate>Fri, 08 Dec 2023 22:12:15 GMT</pubDate>
+      <title>有人曾经使用 Copilot 或 ChatGPT 4 来分析代码库吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/18e9046/has_anyone_ever_used_copilot_or_chatgpt_4_to/</link>
+      <description><![CDATA[长话短说，我必须审核我们机构的代码库，它位于 Django、VueJS、Ioniq 中，位于 2 个独立的存储库中。从技术上讲，我可以探索一切并获得问题的答案，但我希望人工智能解决方案可以做到这一点。我的意思是这对人工智能来说是完美的工作。但是，有没有人曾经设法使用 Copilot 或 ChatGPT4 分析代码库，并向其询问诸如“发送电子邮件时发生了什么、触发了哪些事件、在哪些文件中调用了哪些函数等……”之类的问题。以及其他相关问题。这将给我一个探索的第一条线索，现在我只剩下数千个文件，除了安装步骤之外，几乎没有任何文档（如果有的话）。  你将如何实现这一目标？有没有任何插件可以实现这一点，或者甚至可以在本地实现？ 谢谢   由   提交 /u/DownloadPow   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18e9046/has_anyone_ever_used_copilot_or_chatgpt_4_to/</guid>
+      <pubDate>Sat, 09 Dec 2023 08:23:10 GMT</pubDate>
     </item>
     <item>
-      <title>无需 Cloudinary 即可处理我的图像需求？</title>
-      <link>https://www.reddit.com/r/webdev/comments/18dw6zo/handling_my_image_needs_without_cloudinary/</link>
-      <description><![CDATA[所以我有一个有点受欢迎且图像较多的网站。我使用 Cloudinary，我的所有流量迫使我使用 100 美元/月的计划。我正在尽力削减成本，所以这似乎是一个不错的选择。我喜欢 Cloudinary，它让事情变得超级简单，但是是的。 所以我试图想出重新创建我需要的东西的最佳方法。 目前我用它来做基于图像上特定位置的一些圆形图像裁剪。例如，有一些上传的卡片，我知道卡片的漂亮部分位于右上角，因此我根据一些基于百分比的坐标进行裁剪，将其裁剪为 50 像素 x 50 像素的“肖像”。这些按钮被固定在一堆按钮的侧面，因此当页面加载时，您可能会加载其中的 50 个。 当然，还有人们在单击图像时根据需要加载的完整图像. 然后用户可以保存自己的图像。 然后就是优化。 所以没有什么太疯狂的。但我需要自动裁剪上面的肖像部分，因为它有时是用户上传的内容。我是否需要使用 lambda 来使此图像与某些图像处理库一起工作并将其存储在 S3 中？或者我是否需要 Lambda...我应该在服务器上执行此操作吗？ 然后我想在处理一堆图像和一个图像时还有其他削减成本的技巧吗？一群用户会很棒。当我说“一群”时我的意思是每月大约 30,000 个，所以我想不会那么多，但每个页面上都有很多图像，而且用户访问得非常频繁。 谢谢，对于开放性感到抱歉。只是寻求见解，并会采纳我能得到的您能想到的任何侧面建议。   由   提交 /u/werdnaegni   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18dw6zo/handling_my_image_needs_without_cloudinary/</guid>
-      <pubDate>Fri, 08 Dec 2023 20:43:46 GMT</pubDate>
+      <title>我发布了 Efflux 的下一个主要版本，这是一个基于网络的音乐制作器，具有用户友好的即兴演奏 UI，允许现场即兴表演。和以前一样完全开源。</title>
+      <link>https://www.reddit.com/r/webdev/comments/18e8tpw/i_released_the_next_major_version_of_efflux_a_web/</link>
+      <description><![CDATA[   /u/igorski81  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18e8tpw/i_released_the_next_major_version_of_efflux_a_web/</guid>
+      <pubDate>Sat, 09 Dec 2023 08:10:44 GMT</pubDate>
     </item>
     <item>
-      <title>嘿，做一些练习来练习，我真的很感激关于这个关于一个小型社交网络的 ER 图的一些反馈。</title>
-      <link>https://www.reddit.com/r/webdev/comments/18dvo50/hey_doing_some_exercises_to_practice_and_i_would/</link>
-      <description><![CDATA[   /u/False_Association_12   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18dvo50/hey_doing_some_exercises_to_practice_and_i_would/</guid>
-      <pubDate>Fri, 08 Dec 2023 20:20:06 GMT</pubDate>
+      <title>了解会话 ID 存储</title>
+      <link>https://www.reddit.com/r/webdev/comments/18e7h83/understanding_session_id_storage/</link>
+      <description><![CDATA[我最近开始从头开始学习身份验证和会话管理。对我来说，一个令人困惑的地方是会话 ID。更具体地说，是对会话 ID 进行加密签名的建议。 假设我生成一个会话标识符，为每个会话提供 OWASP 建议的 64 位熵。即使攻击者有数以万计的活动会话和每秒大约 10,000 次猜测，我们也可以预期攻击者在找到有效标识符之前会忙于处理会话 ID 数百年。 尽管如此，许多人认为您还可以对会话标识符进行加密签名，从而可以验证该标识符是从您的服务器发送的，而不是由攻击者生成的。不过，这也不能猜吗？从我的角度来看，添加签名只不过是增加了暴力攻击者的搜索空间。是的，您现在可以判断标识符何时被伪造，但您只是延长了攻击者猜测有效标识符的签名之前的时间。  我知道安全性是分层构建的，但我真的看不到其中的价值。 128位标识符+基本速率限制够了吗？   由   提交 /u/petenpatrol   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18e7h83/understanding_session_id_storage/</guid>
+      <pubDate>Sat, 09 Dec 2023 06:36:26 GMT</pubDate>
     </item>
     <item>
-      <title>财务分析项目建议</title>
-      <link>https://www.reddit.com/r/webdev/comments/18dv864/financial_analytics_project_advice/</link>
-      <description><![CDATA[我正在构建一个个人项目以获得更多网络体验。我对 HTML、CSS、React 和 TypeScript 很熟悉，并且涉足过各种框架，但我希望这个项目比以前的项目更深入。  我正在构建的应用程序是一个加密数据分析网站。我的目标是实时动态地从各种 API 获取数据，这些数据将以交互式和响应式图形、图表、订单视图、交换流入/流出、大额交易等形式在前端进行处理和显示 - 典型的财务分析组件。它将主要集中在单个页面上，我根本不关心搜索引擎优化，但希望该网站能够快速/性能理想。 我构建它是为了学习而不是为了实际用户因此它绝对不必是生产级的，但我的目标是学习如何创建稳定且响应灵敏的动态应用程序，并应对处理实时数据的挑战。一旦我对 AWS 感到满意，我可能最终会选择在 AWS 上托管，但这并不重要；再次强调，仅供学习。  ​ 我可能考虑的选项是 Vite/React/Express、NextJS 和 NextJS with Express。我对这三个方面的知识水平大致相同（诚然不是负载）。 Vite 服务器听起来很棒，具有快速的前端构建和 HMR，而且设置似乎相当简单。 NextJS 很方便，全栈，简单的 API 路线（尽管它的 SEO 功能毫无价值），但我知道它相当固执己见，而且很热门topic atm。 Express 使我能够更好地控制 API，并且对于了解更多信息很有用（但增加了更多复杂性）。  我知道最终我使用的框架可能并不特别重要，但我想从那些比我更有经验的人那里得到一些建议 - 有没有一种选择是您特别推荐给我使用的案件？我正在尝试扩展我的开发此类应用程序实际工作方式的经验。我知道这可能会花费我相当长的时间，但这很好，我不着急 - 只是想学习。 真的会推荐任何人提供的任何反馈/指导，谢谢！   由   提交 /u/spanishtycoon   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18dv864/financial_analytics_project_advice/</guid>
-      <pubDate>Fri, 08 Dec 2023 20:00:36 GMT</pubDate>
+      <title>您在哪个网站上托管您的作品集？</title>
+      <link>https://www.reddit.com/r/webdev/comments/18e7apt/which_site_do_you_host_your_portfolio_on/</link>
+      <description><![CDATA[你的自由职业作品集   由   提交 /u/古生物学家Firm13   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18e7apt/which_site_do_you_host_your_portfolio_on/</guid>
+      <pubDate>Sat, 09 Dec 2023 06:23:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
