@@ -4,7 +4,7 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sun, 10 Dec 2023 09:10:37 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 10 Dec 2023 12:18:41 GMT</lastBuildDate>
     <item>
       <title>测试磁盘：没有可用分区</title>
       <link>https://www.reddit.com/r/software/comments/18exrp4/testdisk_no_partition_available/</link>
@@ -62,7 +62,7 @@
       <pubDate>Sat, 09 Dec 2023 19:03:57 GMT</pubDate>
     </item>
     <item>
-      <title>BLE LED灯带控制应用程序</title>
+      <title>BLE LED 灯带控制应用程序</title>
       <link>https://www.reddit.com/r/software/comments/18ekez5/ble_led_strips_controll_app/</link>
       <description><![CDATA[我用 LED 灯（android 应用程序）获得了 LED 条纹，我需要从 Windows 进行控制，我在 Github 上找到了一些项目，但不适用于我的项目LED 灯带类型   由   提交 /u/DannyBoyCZ   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/18ekez5/ble_led_strips_controll_app/</guid>
@@ -71,7 +71,7 @@
     <item>
       <title>有没有一个软件可以记住你的 chrome 标签？</title>
       <link>https://www.reddit.com/r/software/comments/18ecub7/is_there_a_software_that_remembers_your_chrome/</link>
-      <description><![CDATA[我有 chrome 扩展，可以记住所有选项卡和窗口，但它不记得每个 chrome 窗口所在的窗口虚拟桌面。这意味着我每次电脑重新启动时，都必须将所有 Chrome 窗口分类到我希望它们出现的桌面中。但是，如果我想重新启动，我所采取的做法是通过任务管理器手动结束 chrome，因为 chrome 实际上尝试使用其“恢复”功能来记住每个窗口所在的桌面，该功能仅在以下情况下激活它感觉到它意外关闭。但这确实不准确，也许是因为我打开了很多 Chrome 窗口和选项卡。那么，是否有一款软件可以使用 chrome 中内置的相同机制，但可以完全准确地工作？   由   提交 /u/techabingo   [链接] [评论]]]></description>
+      <description><![CDATA[我有 chrome 扩展，可以记住所有选项卡和窗口，但它不记得每个 chrome 窗口所在的窗口虚拟桌面。这意味着我每次电脑重新启动时，都必须将所有 Chrome 窗口分类到我希望它们出现的桌面中。但如果我想重新启动，我所采取的做法是通过任务管理器手动结束 chrome，因为 chrome 实际上尝试使用其“恢复”功能来记住每个窗口所在的桌面，该功能仅在以下情况下激活它感觉到它意外关闭。但这确实不准确，也许是因为我打开了很多 Chrome 窗口和选项卡。那么，是否有一款软件可以使用 chrome 中内置的相同机制，但可以完全准确地工作？   由   提交 /u/techabingo   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/18ecub7/is_there_a_software_that_remembers_your_chrome/</guid>
       <pubDate>Sat, 09 Dec 2023 12:43:19 GMT</pubDate>
     </item>
