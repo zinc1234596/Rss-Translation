@@ -4,7 +4,21 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sun, 10 Dec 2023 03:12:30 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 10 Dec 2023 06:13:51 GMT</lastBuildDate>
+    <item>
+      <title>寻找可以跟踪我的监视列表并具有以下功能的软件/网站</title>
+      <link>https://www.reddit.com/r/software/comments/18ex08r/looking_for_softwarewebsite_which_can_track_my/</link>
+      <description><![CDATA[我正在寻找一个可用于跟踪我的观看列表上的电影/节目的网站/软件。我了解 Trakt，但它没有我正在寻找的功能。 https://i .ibb.co/pxz9yvt/image.png 在此屏幕截图中，您可以看到节目/电影有一个可供选择的状态选项。我正在寻找这样的东西。这样我就可以相应地标记它们，例如“计划观看”、“观看”、“放弃”或“暂停”。  它不需要有任何其他的 imdb 或 tvdb 集成。   由   提交 /u/bagajohny   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/18ex08r/looking_for_softwarewebsite_which_can_track_my/</guid>
+      <pubDate>Sun, 10 Dec 2023 06:05:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的朋友制作了剪贴板征服者，这是一个免费的副驾驶替代品，它数据安全，不报告任何指标，数据安全，并且安装后根本不需要互联网即可运行。复制征服粘贴生产力。即使在 3D 游戏中也适用于所有文本上下文。 Win/Mac/Linux。一探究竟。</title>
+      <link>https://www.reddit.com/r/software/comments/18evg0t/my_friend_made_clipboard_conqueror_a_free_copilot/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/software/comments/18evg0t/my_friend_made_clipboard_conqueror_a_free_copilot/</guid>
+      <pubDate>Sun, 10 Dec 2023 04:27:14 GMT</pubDate>
+    </item>
     <item>
       <title>将十分之一小时转换为常规分钟的应用程序。</title>
       <link>https://www.reddit.com/r/software/comments/18eqvjm/app_to_translate_10ths_of_an_hour_to_regular/</link>
@@ -41,7 +55,7 @@
       <pubDate>Sat, 09 Dec 2023 19:03:57 GMT</pubDate>
     </item>
     <item>
-      <title>BLE LED 灯带控制应用程序</title>
+      <title>BLE LED灯带控制应用程序</title>
       <link>https://www.reddit.com/r/software/comments/18ekez5/ble_led_strips_controll_app/</link>
       <description><![CDATA[我用 LED 灯（android 应用程序）获得了 LED 条纹，我需要从 Windows 进行控制，我在 Github 上找到了一些项目，但不适用于我的项目LED 灯带类型   由   提交 /u/DannyBoyCZ   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/18ekez5/ble_led_strips_controll_app/</guid>
@@ -50,7 +64,7 @@
     <item>
       <title>有没有一个软件可以记住你的 chrome 标签？</title>
       <link>https://www.reddit.com/r/software/comments/18ecub7/is_there_a_software_that_remembers_your_chrome/</link>
-      <description><![CDATA[我有 chrome 扩展，可以记住所有选项卡和窗口，但它不记得每个 chrome 窗口所在的窗口虚拟桌面。这意味着我每次电脑重新启动时，都必须将所有 Chrome 窗口分类到我希望它们出现的桌面中。但如果我想重新启动，我所采取的做法是通过任务管理器手动结束 chrome，因为 chrome 实际上尝试使用其“恢复”功能来记住每个窗口所在的桌面，该功能仅在以下情况下激活它感觉到它意外关闭。但这确实不准确，也许是因为我打开了很多 Chrome 窗口和选项卡。那么，是否有一款软件可以使用 chrome 中内置的相同机制，但可以完全准确地工作？   由   提交 /u/techabingo   [链接] [评论]]]></description>
+      <description><![CDATA[我有 chrome 扩展，可以记住所有选项卡和窗口，但它不记得每个 chrome 窗口所在的窗口虚拟桌面。这意味着我每次电脑重新启动时，都必须将所有 Chrome 窗口分类到我希望它们出现的桌面中。但是，如果我想重新启动，我所采取的做法是通过任务管理器手动结束 chrome，因为 chrome 实际上尝试使用其“恢复”功能来记住每个窗口所在的桌面，该功能仅在以下情况下激活它感觉到它意外关闭。但这确实不准确，也许是因为我打开了很多 Chrome 窗口和选项卡。那么，是否有一款软件可以使用 chrome 中内置的相同机制，但可以完全准确地工作？   由   提交 /u/techabingo   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/18ecub7/is_there_a_software_that_remembers_your_chrome/</guid>
       <pubDate>Sat, 09 Dec 2023 12:43:19 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[标题说明了一切。我正在寻找一个程序，它实际上可以自动更改您拼写错误的单词，就像在所有智能手机上一样。有人有建议吗？我不是在寻找一个发现&amp;替换程序，我必须手动告诉它要替换什么，我正在寻找一个自动为您执行此操作的程序    ;由   提交 /u/ErnieOnQuack   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/18du9cm/autocorrect_software_that_actually_automatically/</guid>
       <pubDate>Fri, 08 Dec 2023 19:16:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>从网站中翻录隐藏视频</title>
-      <link>https://www.reddit.com/r/software/comments/18dtdul/rip_hidden_videos_from_site/</link>
-      <description><![CDATA[嘿伙计们，我对这一切都很陌生。我正在尝试从magamixvideos 上获取视频。 com.它们隐藏在 PayPal 按钮后面。是否可以不付费提取视频？我看到一些有关在 Chrome 中使用 Inspect Element 工具的信息，但尚未产生结果。   由   提交/u/Artdawg6  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/18dtdul/rip_hidden_videos_from_site/</guid>
-      <pubDate>Fri, 08 Dec 2023 18:36:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>有“傻瓜软件”类型的推荐吗？</title>
-      <link>https://www.reddit.com/r/software/comments/18dr9j9/any_software_for_dummies_type_recommendations/</link>
-      <description><![CDATA[我找到了在一家软件公司做营销的新工作。我希望更多地了解这个世界，以免在与同事交谈时听起来像个彻头彻尾的白痴。任何人都可以分享任何学习软件、SaaS、软件和技术词汇等基础知识的参考资料吗？   由   提交/u/pinnietans  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/18dr9j9/any_software_for_dummies_type_recommendations/</guid>
-      <pubDate>Fri, 08 Dec 2023 17:00:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
