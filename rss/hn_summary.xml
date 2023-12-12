@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Mon, 11 Dec 2023 18:13:49 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 Dec 2023 00:47:19 GMT</lastBuildDate>
     <item>
-      <title>[媒体]英特尔、三星和台积电之间的竞赛正在进行，以开发和交付首款 2 纳米 [...]</title>
-      <link>https://t.me/hn_summary/63369</link>
-      <description><![CDATA[英特尔、三星和台积电之间的前 2 款出货量竞赛纳米芯片
-英特尔、三星和台积电之间正在进行开发和交付首批 2 纳米 (nm) 处理器芯片的竞赛。这些芯片将为下一代智能手机、数据中心和人工智能提供动力。目前半导体市场的领导者台积电已经向苹果和英伟达等主要客户展示了其 2 纳米原型。三星正在提供 2 纳米原型的折扣版本以吸引客户。曾经的市场领导者英特尔的目标是在明年底前生产下一代芯片。然而，该公司的业绩仍然受到质疑。台积电计划于 2025 年开始量产 2 纳米芯片。]]></description>
-      <guid>https://t.me/hn_summary/63369</guid>
-      <pubDate>Mon, 11 Dec 2023 18:13:49 GMT</pubDate>
+      <title>加拿大的伍德布法罗国家公园是世界上最大的海狸水坝的所在地，测量 [...]</title>
+      <link>https://t.me/hn_summary/63434</link>
+      <description><![CDATA[荒野深处，最大的河狸坝经久不衰 
+加拿大的伍德布法罗国家公园拥有世界上最大的河狸坝，长约半英里。 2007 年，出生于荷兰的景观生态学家 Jean Thie 在检查卫星图像时发现了这座大坝。由于其规模，该水坝被认为是最大的水坝，而且自发现以来还没有发现更大的水坝。该公园还面临着环境威胁，包括严重干旱、油砂开采以及可能污染公园的尾矿池。该公园目前正在接受联合国教科文组织的试用，并正在努力解决这些问题。 （根据 80% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/63434</guid>
+      <pubDate>Tue, 12 Dec 2023 00:47:19 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在 1998 年的对话中，艺术家 Dave Bull 解释了他对限量版的立场 [...]</title>
-      <link>https://t.me/hn_summary/63368</link>
-      <description><![CDATA[限量版（1998）
-在 1998 年的对话中，艺术家 Dave Bull 解释了他对限量版印刷品的立场。他表示他不相信版本号和限制可用的印刷数量。他遵循日本版画的传统，日本版画从来没有版本号。他认为限量版印刷品的概念是对印刷品目的的曲解，印刷品的目的是向尽可能多的人传达信息。他还批评通过限制供应人为抬高价格的做法。戴夫认为，价格下降和销量增加对艺术家和消费者都有好处。他还讨论了直接向收藏家出售版画而不需要画廊的方法。在 2008 年的更新中，Dave 提到，得益于互联网，他的收藏家现在大约 50% 都在海外。]]></description>
-      <guid>https://t.me/hn_summary/63368</guid>
-      <pubDate>Mon, 11 Dec 2023 18:05:39 GMT</pubDate>
+      <title>[媒体] 在 Epic Games 的历史性胜利中，陪审团发现 Google 拥有非法单声道 [...]</title>
+      <link>https://t.me/hn_summary/63433</link>
+      <description><![CDATA[史诗般的胜利：陪审团裁定谷歌在应用商店斗争中存在非法垄断&lt; /a&gt;
+Epic Games 取得了历史性胜利，陪审团发现谷歌在应用商店市场存在非法垄断行为。陪审团一致认为，谷歌在Android应用分发和应用内计费服务市场拥有垄断权力，并且存在反竞争行为。该案揭露了谷歌、智能手机制造商和大型游戏开发商之间的秘密收入分享协议，这些协议旨在压制竞争对手的应用商店。虽然詹姆斯·多纳托法官尚未确定具体的补救措施，但 Epic 正在寻求应用程序开发人员在 Android 上推出自己的应用程序商店和计费系统的自由。谷歌可能会对该决定提出上诉。]]></description>
+      <guid>https://t.me/hn_summary/63433</guid>
+      <pubDate>Tue, 12 Dec 2023 00:35:06 GMT</pubDate>
     </item>
     <item>
-      <title>本文讨论了通过 transpilin 使用 WebAssembly 运行时的替代方法 [...]</title>
-      <link>https://t.me/hn_summary/63367</link>
-      <description><![CDATA[最好的 WebAssembly 运行时可能根本就没有运行时 
-本文讨论了通过将 WebAssembly 代码转换为 C 源代码来使用 WebAssembly 运行时的替代方法。 wasm2c 和 w2c2 等工具使用的这种方法允许将 WebAssembly 代码直接嵌入到任何项目中，而不需要运行时。转译的 C 代码可以使用常规 C 编译器进行编译，使其可移植并适用于嵌入式目标和新操作系统。本文重点介绍了这种方法的优点，例如提高的安全性和可靠性、轻松链接不同的 WebAssembly 模块以及可忽略的启动时间。它还提到可以使用经过正式验证的 C 编译器来编译转译的 C 代码，以生成高保证的代码。本文最后提到，虽然这种方法可能不适合在 Web 浏览器中运行任意代码，但它在某些情况下具有优势。 （根据 95% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/63367</guid>
-      <pubDate>Mon, 11 Dec 2023 18:01:28 GMT</pubDate>
+      <title>[媒体] 本文讨论了 HTML 中行为的使用以及附加 cus [...]</title>
+      <link>https://t.me/hn_summary/63432</link>
+      <description><![CDATA[行为属于 HTML
+本文讨论了 HTML 中行为的使用以及将自定义功能附加到 HTML 元素的不同方法。它解释了内联事件处理程序和事件侦听器的使用，并讨论了围绕内联事件处理程序的使用的争议。作者认为 HTML 本质上是交互式的，“HTML 定义布局，JS 定义功能”的概念是不正确的。本文还探讨了 HTML 功能的局限性以及 JavaScript 增强功能的必要性。它提出了通过在 HTML 本身内部设计接口来丰富 HTML 语义的想法。本文承认在 HTML 中实现自定义语义的挑战，并讨论使用数据属性作为可能的解决方案。 （根据故事文本的 57% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/63432</guid>
+      <pubDate>Tue, 12 Dec 2023 00:29:58 GMT</pubDate>
     </item>
     <item>
-      <title>这位以与大烟草公司较量而闻名的美国律师现在将注意力转向烟草世界 [...]</title>
-      <link>https://t.me/hn_summary/63366</link>
-      <description><![CDATA[审判大型烟草公司的美国律师瞄准体育博彩&lt; /a&gt;
-这位因与大烟草公司较量而闻名的美国律师现在将注意力转向体育博彩领域。密西西比州前总检察长迈克·摩尔（Mike Moore）领导的法律团队正在几个州挑战体育博彩的合法性。摩尔认为，该行业正在剥削弱势群体并对社会造成危害。他认为，针对烟草业的同样策略也可以应用于体育博彩业，最终导致对消费者的监管和保护更加严格。这一有争议的举动引起了人们的关注，并可能对体育博彩行业产生深远的影响。]]></description>
-      <guid>https://t.me/hn_summary/63366</guid>
-      <pubDate>Mon, 11 Dec 2023 18:00:18 GMT</pubDate>
+      <title>[媒体]众议院情报委员会提出一项法案，H.R.</title>
+      <link>https://t.me/hn_summary/63431</link>
+      <description><![CDATA[众议院情报委员会的监视“改革”法案是一场闹剧
+众议院情报委员会提出了一项 H.R. 6611 法案，该法案将重新授权《外国情报监视法》(FISA) 第 702 条，并将大规模监视权限再延长八年。该法案包括情报界多年来一直寻求的新授权，但已被法院拒绝。它还允许在没有搜查令的情况下收集美国人与国外人士通信时的通信内容。该法案因缺乏有意义的改革和扩大监控范围而受到批评。相比之下，众议院司法委员会的 H.R. 6570 法案解决了第 702 条的一些担忧，并将该授权仅再延长三年。电子前沿基金会 (EFF) 敦促国会议员投票反对 HPSCI 法案并支持司法委员会的法案。]]></description>
+      <guid>https://t.me/hn_summary/63431</guid>
+      <pubDate>Tue, 12 Dec 2023 00:07:43 GMT</pubDate>
     </item>
     <item>
-      <title>Beeper Mini 是一款聊天应用程序，允许 Android 和 iPhone 用户相互交流，h [...]</title>
-      <link>https://t.me/hn_summary/63365</link>
-      <description><![CDATA[迷你蜂鸣器回来了
-Beeper Mini 是一款允许 Android 和 iPhone 用户相互通信的聊天应用程序，现已发布更新版本来修复消息传递问题。用户可以直接从 Beeper 网站下载更新，但在提交到 Google Play 商店之前仍在进行最终测试。此更新还包括新功能，例如在最后一条未读消息处打开聊天以及对视频播放器的改进。不过，有几点需要注意：电话号码注册尚不可用，所有用户都必须使用AppleID登录，并且消息将通过电子邮件而不是电话号码发送和接收。 Beeper Mini 最初取得了巨大成功，成为历史上增长最快的付费 Android 应用程序之一，但遇到了阻止用户发送或接收消息的问题。 Beeper 团队现已解决了该问题并发布了更新以恢复功能。争议源于苹果的回应，苹果声称 Beeper Mini 存在安全风险，而 Beeper 则辩称该应用实际上增强了安全性和隐私性。 Beeper 愿意与第三方安全研究公司共享其代码库，以证明其对安全的承诺。]]></description>
-      <guid>https://t.me/hn_summary/63365</guid>
-      <pubDate>Mon, 11 Dec 2023 17:35:00 GMT</pubDate>
+      <title>OpenBSD 的创始人 Theo de Raadt 对操作系统中的系统调用进行了更改 [...]</title>
+      <link>https://t.me/hn_summary/63430</link>
+      <description><![CDATA[OpenBSD – 固定所有系统调用
+OpenBSD 的创始人 Theo de Raadt 对操作系统中的系统调用进行了更改，以破坏常见的攻击方法。这些更改限制了可以执行系统调用的位置，使攻击者更难以利用漏洞。这些更改涉及将内核配置为仅允许来自地址空间中特定位置的系统调用，例如静态二进制文件、信号蹦床和 ld.so 文本。此外，还引入了新的 msyscall(2) 系统调用和 pinsyscall(2) 系统调用来识别系统调用的正确区域。这些变化需要 OpenBSD 独特的方法，并增加了攻击者的脆弱性和难度。 （根据故事文本的 4% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/63430</guid>
+      <pubDate>Mon, 11 Dec 2023 23:57:32 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Wi-Fi 联盟宣布 Wi-Fi 7 规范将于 2019 年最终确定 [...]</title>
-      <link>https://t.me/hn_summary/63364</link>
-      <description><![CDATA[Wi-Fi 7 将于明年初获得最终批准，最多可达比 Wi-Fi 6 快 4.8 倍
-Wi-Fi 联盟宣布 Wi-Fi 7 规范将于第一季度末最终确定，为下一个互联设备时代带来先进的 Wi-Fi 性能。 Wi-Fi 7 提供高达 40 Gbit/s 的速度，使其成为传统有线以太网的强大替代品。它利用三个频段，并包括 MU-MIMO 和 OFDMA 等功能来加速连接。 Wi-Fi 7定位于AR/VR应用，支持高水平的交互性和沉浸感。虽然市场上已经有 Wi-Fi 7 设备，但对于在拥挤的办公楼中运营的企业来说，需要获得完全批准的设备。]]></description>
-      <guid>https://t.me/hn_summary/63364</guid>
-      <pubDate>Mon, 11 Dec 2023 17:29:48 GMT</pubDate>
+      <title>[媒体]文章讨论了自行车基础设施的挑战和缺点[...]</title>
+      <link>https://t.me/hn_summary/63429</link>
+      <description><![CDATA[如何在美国修建自行车道
+本文讨论了与哥本哈根等欧洲城市相比，美国自行车基础设施面临的挑战和缺点。它突显了郊区缺乏自行车道和步道以及城市基础设施分布不均，迫使骑自行车的人冒险。文章还提到由于政治或文化原因以及对树木保护的担忧而反对自行车基础设施。它强调需要改善自行车基础设施，以确保骑自行车者的安全并促进主动交通。本文提供了不同类型的自行车道和可以实施的功能的示例。它还提到了投资自行车基础设施的经济效益和环境优势。这篇文章强调了密尔沃基和达拉斯等城市为改善自行车基础设施和确保公平分配所做的努力。 （根据故事文本的 58% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/63429</guid>
+      <pubDate>Mon, 11 Dec 2023 23:48:23 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]文章讨论美国学术界的“知识分子的叛逆”，图 [...]</title>
-      <link>https://t.me/hn_summary/63363</link>
-      <description><![CDATA[尼尔·弗格森：知识分子的叛国
-文章讨论了美国学术界的“知识分子的叛国行为”，并将其与两次世界大战期间德国的知识分子氛围进行了类比。作者强调了批判种族理论等进步意识形态导致大学政治化，以及校园内对反犹太主义的容忍。作者批评大学领导者对歧视事件的混乱反应，并指出校园言论自由的衰落。文章认为，美国大学忽视了学术与政治的分离，导致了一种让人想起纳粹前德国的危险环境。作者强调大学需要保持独立于政治压力。 （根据故事文本的 61% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/63363</guid>
-      <pubDate>Mon, 11 Dec 2023 17:28:39 GMT</pubDate>
+      <title>[媒体]流行的流媒体服务 Netflix 目前遇到技术困难。</title>
+      <link>https://t.me/hn_summary/63428</link>
+      <description><![CDATA[Netflix 已关闭
+流行的流媒体服务 Netflix 目前遇到了技术困难。用户报告了访问平台和流媒体内容的问题。据 DownDetector.co 报道，这次中断影响了英国各地的用户.uk。 Netflix 以其丰富的电视节目、电影、动漫和纪录片库而闻名，使其成为娱乐的首选平台。目前中断原因尚不清楚，但 Netflix 正在努力尽快解决该问题。请继续关注有关服务何时恢复并运行的更新。]]></description>
+      <guid>https://t.me/hn_summary/63428</guid>
+      <pubDate>Mon, 11 Dec 2023 23:34:12 GMT</pubDate>
     </item>
     <item>
-      <title>W4 Games 宣布了其控制台端口的定价模型，使开发变得更加容易 [...]</title>
-      <link>https://t.me/hn_summary/63362</link>
-      <description><![CDATA[W4 Games 宣布主机端口定价模型
-W4 Games 宣布了其主机端口的定价模式，使开发者能够更轻松地将 Godot 游戏移植到主机上。定价模式旨在满足用户的不同需求和资源，提供不同的等级。入门级非常适合小型团队或独立开发人员，而专业级专为大型团队设计，提供快速的错误处理和高级支持选项。企业层专为大型项目量身定制，并提供对一系列服务的访问，包括紧急升级和成功经理。 W4 Games 致力于开源软件，并为所有级别提供完整的源代码访问权限。这些端口预计将于 2024 年第一季度面向 Nintendo Switch 和 Xbox Series X|S 发布，随后于 2024 年第二季度面向 PlayStation 5 发布。]]></description>
-      <guid>https://t.me/hn_summary/63362</guid>
-      <pubDate>Mon, 11 Dec 2023 17:19:29 GMT</pubDate>
+      <title>[媒体] Cleanlots 的创建者和创始人 Brian Winch 分享了他的模拟人生转型之旅 [...]</title>
+      <link>https://t.me/hn_summary/63427</link>
+      <description><![CDATA[这个人每月清理人们的垃圾，收入为 53,000 美元&lt; br/&gt;
+Cleanlots 的创始人兼创始人 Brian Winch 分享了他在过去 40 年里将一项简单的副业转变为成功的六位数业务的历程。父亲通过垃圾清理等各种副业来补充收入，受到父亲的启发，Winch 在 21 岁时开始了自己的垃圾清理业务。尽管缺乏魅力，Winch 在户外工作和对环境产生积极影响中找到了满足感。通过聘请更多人协助清理工作并将其分包给其他小型清洁公司，他将自己的副业变成了六位数的生意。 Winch 强调提供卓越的客户服务并加倍努力以在客户心目中脱颖而出的重要性。他为可能没有特许经营或辅导计划资源的有抱负的企业家提供免费支持。]]></description>
+      <guid>https://t.me/hn_summary/63427</guid>
+      <pubDate>Mon, 11 Dec 2023 23:26:02 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 1950 年，Jón Eyþórsson 在 Ic 的 Hrútárjökull 冰川上发现了模糊的绿色苔藓球 [...]</title>
-      <link>https://t.me/hn_summary/63361</link>
-      <description><![CDATA[成群的神秘“冰川老鼠”困扰着科学家 - Atlas Obscura
-1950年，Jón Eyórsson在冰岛的Hrútárjökull冰川上发现了毛茸茸的绿色苔藓球，并将它们命名为“冰川老鼠”。这些苔藓球实际上并不是动物，而是在小石头或灰尘等刺激物周围形成的。它们在世界各地被发现，但它们的协调运动和影响它们的因素仍然是个谜。研究人员推测，苔藓球的移动是为了防止其下方的冰融化，但风和微地形等其他因素也可能发挥作用。虽然苔藓球令人着迷，但研究人员更关注气候变化的大局及其对冰川的影响。]]></description>
-      <guid>https://t.me/hn_summary/63361</guid>
-      <pubDate>Mon, 11 Dec 2023 17:18:19 GMT</pubDate>
+      <title>[媒体]此网页内容来自一个专门讨论技术概念的 Reddit 子版块 [...]</title>
+      <link>https://t.me/hn_summary/63426</link>
+      <description><![CDATA[Mamba“在我们尝试过的所有地方”都优于变形金刚
+该网络内容来自一个专门讨论技术奇点概念的 Reddit 子版块，这是人工智能超越人类智能的假设时刻。社区相信这一事件将在不久的将来发生，并且应该采取审慎的行动以确保它造福于人类。 “奇点”一词首先由数学家约翰·冯·诺依曼使用，并由科幻小说作家弗诺·文奇推广。未来学家雷·库兹韦尔 (Ray Kurzweil) 预测奇点将在 2045 年左右出现。奇点的支持者相信“智能爆炸”的可能性，超级智能会设计出越来越强大的思维。 Reddit 子版块的规则包括紧扣主题、鼓励讨论和尊重。]]></description>
+      <guid>https://t.me/hn_summary/63426</guid>
+      <pubDate>Mon, 11 Dec 2023 23:24:55 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 埃隆·马斯克 (Elon Musk) 恢复了阴谋论者亚历克斯·琼斯 (Alex Jones) 及其医疗人员的 X 账户 [...]</title>
-      <link>https://t.me/hn_summary/63360</link>
-      <description><![CDATA[Elon Musk 在用户投票后将 Alex Jones 和 Infowars 重新带回 X&lt; /a&gt;
-在平台上进行用户民意调查后，埃隆·马斯克恢复了阴谋理论家亚历克斯·琼斯及其媒体网站 Infowars 的 X 账户。这些账户此前因发布辱骂内容而被 Twitter 禁止。近200万人参与了此次民意调查，其中约70%的人支持恢复琼斯的账户。马斯克同意一位用户的观点，他称永久禁令“与言论自由相对立”。马斯克解决了对错误信息的担忧，他指出社区笔记计划可以纠正任何有问题的帖子。此举可能会进一步加剧 X 与广告商的关系，因为苹果和迪士尼等知名公司已经停止在该平台上投放广告。]]></description>
-      <guid>https://t.me/hn_summary/63360</guid>
-      <pubDate>Mon, 11 Dec 2023 17:17:12 GMT</pubDate>
+      <title>[媒体]高通利润率背后的秘密？</title>
+      <link>https://t.me/hn_summary/63425</link>
+      <description><![CDATA[高通利润率背后的秘密？专利
+高通独特的专利授权策略是其高利润率背后的秘密。与大多数公司不同，高通将其专利许可业务与芯片业务合并在一起。这意味着购买高通芯片的客户还必须同意专利许可，让高通能够双底并产生额外收入。 2023年，高通的专利授权业务带来了53亿美元的收入，利润率为68%。然而，高通的策略引起了争议，并面临垄断和违反反垄断法的指控。尽管如此，高通的授权业务仍被认为是同类中最好的，并且为其他公司如何利用知识产权来促进业务提供了一个教训。]]></description>
+      <guid>https://t.me/hn_summary/63425</guid>
+      <pubDate>Mon, 11 Dec 2023 23:22:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
