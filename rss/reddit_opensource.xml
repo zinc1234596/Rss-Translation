@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 12 Dec 2023 09:12:34 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 Dec 2023 12:21:44 GMT</lastBuildDate>
+    <item>
+      <title>想象一下，您可以将开源软件作为圣诞礼物送给某人 - 您会送什么？</title>
+      <link>https://www.reddit.com/r/opensource/comments/18gk48u/imagine_you_could_give_open_source_software_as_a/</link>
+      <description><![CDATA[对于软件开发人员，我会给 Earthly。它插入您的持续集成系统并接管它 - 它允许您使用 docker 式缓存快速构建，无论您是否将构建 docker 镜像作为 CI 作业的一部分。好的！与任何优秀的现代 CI 系统一样，它允许您将 CI 作业定义为签入 git 存储库的文本文件，因此对它们的任何更改都可以正常进行代码审查！ 如果该人不是作为软件开发人员，我会给 youtube-dl 或其分支 yt-dlp。它们允许您从各种网站下载视频，而不仅仅是 YouTube！即使网站没有得到官方支持，通用机制也经常起作用。   由   提交 /u/greenrd   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/18gk48u/imagine_you_could_give_open_source_software_as_a/</guid>
+      <pubDate>Tue, 12 Dec 2023 11:48:07 GMT</pubDate>
+    </item>
     <item>
       <title>寻求用于访问控制和考勤管理的摄像头生物识别技术的开源替代方案</title>
       <link>https://www.reddit.com/r/opensource/comments/18ggmme/seeking_open_source_alternatives_to_cams/</link>
@@ -39,13 +46,6 @@
       <description><![CDATA[为什么人们不创建一个像 Adob​​e 软件等大公司的开源替代品？ 这将是非常好的很有帮助，人们不必再购买这些付费软件。   由   提交/u/Razen04  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/18g0tyu/i_dont_get_it/</guid>
       <pubDate>Mon, 11 Dec 2023 18:48:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>skytrack：使用 Python 制作的飞机定位和飞机开源情报工具 🛩 🔍</title>
-      <link>https://www.reddit.com/r/opensource/comments/18g0jna/skytrack_planespotting_and_aircraft_osint_tool/</link>
-      <description><![CDATA[       由   提交/u/angelina-tsuboi  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/18g0jna/skytrack_planespotting_and_aircraft_osint_tool/</guid>
-      <pubDate>Mon, 11 Dec 2023 18:37:21 GMT</pubDate>
     </item>
     <item>
       <title>被开源软件杀死了。那些拥有大量市场份额的公司从开源替代方案中被窃取。</title>

@@ -4,7 +4,42 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Tue, 12 Dec 2023 09:11:56 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 Dec 2023 12:21:16 GMT</lastBuildDate>
+    <item>
+      <title>如何更改 PDF 文本中每页查看的行数？</title>
+      <link>https://www.reddit.com/r/software/comments/18gk1bh/how_to_change_the_number_of_lines_viewed_per_page/</link>
+      <description><![CDATA[您好..我想知道如何更改 PDF 文件每页查看的行数，例如将每页 40 行减少到 20 行页数并扩展页数本身进行补偿，我可能必须先将格式从 PDF 更改为其他格式，对吗？    由   提交 /u/Ebrahim-bleka    reddit.com/r/software/comments/18gk1bh/how_to_change_the_number_of_lines_viewed_per_page/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/18gk1bh/how_to_change_the_number_of_lines_viewed_per_page/</guid>
+      <pubDate>Tue, 12 Dec 2023 11:42:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>新兴软件缺乏资源</title>
+      <link>https://www.reddit.com/r/software/comments/18gjzii/up_and_coming_software_with_a_lack_of_resources/</link>
+      <description><![CDATA[有哪些新兴软件缺乏良好的培训或可用资源？  我从事软件辅导工作，我正在努力发现下一件大事的趋势。    由   提交/u/jurydriver  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/18gjzii/up_and_coming_software_with_a_lack_of_resources/</guid>
+      <pubDate>Tue, 12 Dec 2023 11:39:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>远程限制电脑使用？</title>
+      <link>https://www.reddit.com/r/software/comments/18gjlno/limit_pc_usage_remotely/</link>
+      <description><![CDATA[送给我儿子一台电脑，他对游戏上瘾了。我希望能够禁用他的电脑或限制在特定时间使用游戏，并且能够远程执行。有没有任何应用程序可以做到这一点？   由   提交 /u/tabatot   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/18gjlno/limit_pc_usage_remotely/</guid>
+      <pubDate>Tue, 12 Dec 2023 11:14:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>有软件可以不断地将屏幕色调更改为彩虹色吗？</title>
+      <link>https://www.reddit.com/r/software/comments/18gjchj/software_to_constantly_change_the_screen_tint_to/</link>
+      <description><![CDATA[我正在寻找可以将屏幕色调更改为不断更改为其他颜色的东西，有点像游戏鼠标或键盘之一但为了屏幕色调。我一直在寻找类似的东西几个小时，但到目前为止我还没有找到任何东西。如果存在的话，希望得到一些帮助。   由   提交 /u/Noll__   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/18gjchj/software_to_constantly_change_the_screen_tint_to/</guid>
+      <pubDate>Tue, 12 Dec 2023 10:58:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找协作工具来审阅和评论大量 PDF 和 Word 文件</title>
+      <link>https://www.reddit.com/r/software/comments/18gj2v0/looking_for_collaboration_tool_to_review_and/</link>
+      <description><![CDATA[您好， 我有一组多个 PDF 和 Word 文档，分布在多个子文件夹中。我们总共讨论了 100-200 个文件。 现在我需要与同事一起审阅所有这些文件，并且我们想要向这些文件添加标记和注释。然而，我们应该能够用不同的优先级来标记它们，并且应该能够稍后以某种方式聚合这些评论 -&gt;例如创建一个报告，将具有最高优先级的评论合并起来并链接到原始文件。 ​ 工具推荐或一些要寻找的想法将非常有帮助，并且赞赏。我认为这将是调查记者在审查已泄露的数据或使用某些 OSINT 工具时遇到的常见问题，但到目前为止，我还没有成功找到任何与我所寻找的内容远程相符的内容。 我还在研究一些解决方法，例如 Excel 宏，它可以从其他文件中删除注释并为我进行聚合。 ​ 理想情况下，该工具是 Windows /基于浏览器，不需要安装/管理权限。   由   提交 /u/dentz2   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/18gj2v0/looking_for_collaboration_tool_to_review_and/</guid>
+      <pubDate>Tue, 12 Dec 2023 10:39:36 GMT</pubDate>
+    </item>
     <item>
       <title>有关从 Windows 自动将 Matrix Synapse 安装到 Raspberry Pi 的建议。也许是 Ansible 的替代品？</title>
       <link>https://www.reddit.com/r/software/comments/18ghlnu/advice_on_automating_the_installation_of_matrix/</link>
@@ -74,41 +109,6 @@
       <description><![CDATA[我已经尝试过远程鼠标操作，但遗憾的是由于没有许可证，我无法保存，请谢谢。   由   提交/u/c0nspir8cy  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/18fzvmb/looking_for_a_mouse_keyboard_recorder_that_can/</guid>
       <pubDate>Mon, 11 Dec 2023 17:36:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>触摸表软件</title>
-      <link>https://www.reddit.com/r/software/comments/18fzq3w/touchtable_software/</link>
-      <description><![CDATA[我获得了一个二手触摸桌（内部有触摸屏的展会展台，来自 Displax），我可以在其中连接 PC。我想用它作为我的啤酒桌。  它能够同时识别最多 100 个手指和最多 16 个物体（这些基本上是带有 3 个不同排列的触摸点的圆形垫）。我想把啤酒杯和其他东西粘到这些垫子上。  我想在上面运行一个交互式应用程序，这样当我放置啤酒杯时，它会制作一些动画/播放音乐等。 我发现了一个名为“ “Intuiface Composer”，它可以做到这一点以及更多，但它的年订阅费为 900 美元。它的目标更多的是行业标牌展示和贸易展览会展示。  是否有替代软件“作曲家”？多点触控桌面应用程序免费还是按固定价格提供？   由   提交 /u/toombayoomba   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/18fzq3w/touchtable_software/</guid>
-      <pubDate>Mon, 11 Dec 2023 17:22:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>什么软件可以满足我的需要？</title>
-      <link>https://www.reddit.com/r/software/comments/18fya9h/what_software_can_do_what_i_need/</link>
-      <description><![CDATA[你好。我需要一些软件，允许我自动复制和粘贴选定的文本，而无需使用 Ctrl+C/Ctrl+V。有人知道吗？ 在 Windows 终端中，有一个设置允许我通过选择到剪贴板来自动复制文本，并通过右键单击文本来粘贴文本（存储在剪贴板上）终端窗口。 所以如果有人知道任何关于它的信息，任何建议，这对我都会有帮助。   由   提交 /u/SnooPeppers6719   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/18fya9h/what_software_can_do_what_i_need/</guid>
-      <pubDate>Mon, 11 Dec 2023 16:20:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>协作写作软件，提供比谷歌文档更好的格式控制。</title>
-      <link>https://www.reddit.com/r/software/comments/18fy5ku/collaborative_writing_software_that_gives_better/</link>
-      <description><![CDATA[我真正喜欢 GDocs 的地方：  标题形成一个自动大纲，可用于快速导航。&lt; /li&gt; 修改样式，然后将其应用到拥有该样式的所有段落。 近实时（秒）协作。如果我做出更改，它几乎会立即显示。 评论和回复命令以及评论解决方案。 免费。 基于网络，因此任何人有计算机就可以使用它。 版本控制。  我正在寻找的东西：  能够样式列表 能够创建新样式，包括段落（块）和字符（跨度） 很高兴拥有：每个作者都有一个默认样式。例如作为主人，我一切正常。我可以锁定样式。约翰所做的一切都是蓝色的。所以蓝色三振。蓝色修正。苏珊所做的一切都是在 Fuschia 中进行的。迈克是格林。对于色盲来说，应该有其他方法来做到这一点。 纪律和束缚格式：你不能只是“大胆”一些东西。您对其应用**强**字符样式。 （这是 HTML 背后 CSS 的反映） 如果不是基于 Web，则应在旧版本的 Mac 和 Windows 上运行。  很高兴拥有  能够在本地网络上离线协作。 发生重大更改时的状态通知。 能够显示自上次更改以来的更改做出的或自特定时间以来的更改。 能够专注于一位作者的更改。 能够接受对“规范文档”的更改。 能力查看以前的版本并从中复制粘贴。  ​ 此处总结的回复： ? ​   由   提交 /u/SGBotsford   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/18fy5ku/collaborative_writing_software_that_gives_better/</guid>
-      <pubDate>Mon, 11 Dec 2023 16:15:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找解决方案来帮助我按类别和字母顺序组织库存</title>
-      <link>https://www.reddit.com/r/software/comments/18fxvao/looking_for_a_solution_to_help_me_organize/</link>
-      <description><![CDATA[我需要整理一系列种子，我正在寻找解决方案。 我存储种子装在迷你梅森罐子里，放在一个巨大的泡沫展示柜上，上面有罐子大小的切口。它大约 30 宽 x 15 高。很多种子 我想在软件中输入种子的名称，然后我将按更高的类型对其进行分类 - 例如草药/蔬菜/树木/等。然后，我将按类别按字母顺序对其进行组织。 我希望将显示的打印输出提供给在场工作的人员，以使其保持井井有条，几乎可以作为订单模板。 如果我可以在系统中添加更多种子，然后快速重新组织布局，那就太好了。 我可以手动完成，但如果有软件，那会有很大帮助。  p&gt; 你能帮我找到解决方案吗？   由   提交 /u/Agitated-Durian2480    reddit.com/r/software/comments/18fxvao/looking_for_a_solution_to_help_me_organize/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/18fxvao/looking_for_a_solution_to_help_me_organize/</guid>
-      <pubDate>Mon, 11 Dec 2023 16:02:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于偏移量、十六进制代码和汇编语言。</title>
-      <link>https://www.reddit.com/r/software/comments/18fv2q2/about_the_offsets_hex_code_and_assembly_language/</link>
-      <description><![CDATA[我正在研究汇编语言，我理解了大部分信息，但我无法理解偏移量和十六进制代码是如何工作的。任何解释表示赞赏。 PD：我知道十六进制系统是什么，但我不知道它在汇编中如何工作。 编辑：这是我的一个示例 偏移量(h) 00 01 02 03 04 05 06 07 08 09 0A 0B 0C 0D 0E 0F    由   提交/u/LastKnight5675  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/18fv2q2/about_the_offsets_hex_code_and_assembly_language/</guid>
-      <pubDate>Mon, 11 Dec 2023 13:55:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
