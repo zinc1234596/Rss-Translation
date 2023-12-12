@@ -4,7 +4,84 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 12 Dec 2023 00:51:37 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 Dec 2023 06:15:29 GMT</lastBuildDate>
+    <item>
+      <title>需求利基或技能</title>
+      <link>https://www.reddit.com/r/webdev/comments/18gf6px/in_demand_niches_or_skills/</link>
+      <description><![CDATA[您会向正在努力增加在该市场就业机会的可雇用初级人员推荐哪些 Web 开发领域的热门职位或技能？  为什么？ 提前致谢。   由   提交 /u/vekii   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18gf6px/in_demand_niches_or_skills/</guid>
+      <pubDate>Tue, 12 Dec 2023 06:03:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>未知的 SEO 是否需要完全管理员访问权限？</title>
+      <link>https://www.reddit.com/r/webdev/comments/18gf2i0/does_an_unknown_seo_need_full_admin_access/</link>
+      <description><![CDATA[长话短说，我使用 WP 为客户端开发了一个网站，并使用了 SEO 作为服务的一部分。在完成之前，客户支付了搜索引擎优化的费用——我与客户合作过的人没有提到同一个人最初想要制作他的网站。我不愿意授予 SEO 的完全管理员访问权限 - 我已经给了他 SEO 经理访问权限，这应该足够了。 WWYD 在这种情况下？   由   提交/u/Willing_Put_5895   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18gf2i0/does_an_unknown_seo_need_full_admin_access/</guid>
+      <pubDate>Tue, 12 Dec 2023 05:56:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 JWT 在 Web 应用程序中进行身份验证/授权的最佳方式是什么</title>
+      <link>https://www.reddit.com/r/webdev/comments/18geymy/what_is_the_best_way_for/</link>
+      <description><![CDATA[嘿，开发人员，我有一个关于身份验证的问题。 到目前为止，在构建应用程序时，通常我使用 JWT access_tokens对于授权。步骤如下：-  用户输入用户名/电子邮件和密码进行登录，然后单击“登录” 服务器收到凭据后检查用户是否存在并返回 JWT  {“_id”：，“exp”：&lt;令牌过期时间&gt;} 令牌以 cookie 的形式返回给客户端，并与以后的所有请求一起发送。  如果token过期，用户会被注销，需要重新登录才能生成新的access_token。  最近，我可以跨过刷新token的概念了，我的实现方式是：-  身份验证时，refresh_token 与 access_token 一起生成。访问令牌的有效期通常为 30 分钟，重新刷新令牌的有效期为 6 个月或 1 年。 当访问令牌过期时，将创建新的 access_token 和 refresh_token 并将其发送到客户端（access_token 作为 cookie，refresh_token 作为响应负载） ）。此外，刷新令牌存储在数据库中。当创建新的刷新令牌时，会从数据库验证旧的刷新令牌以检查其是否相同。 据我所知，refresh_token 只是为了让用户可以在不注销的情况下进行很长的会话.  现在，让我们假设一个场景。假设我有一个access_token A 和refresh_token A&#39;。它们都将在 30 分钟后更新，因为 access_token A 在此时间内过期。因此，如果黑客掌握了我的访问和刷新令牌（A 和 A&#39;），他们将无法在令牌更新后使用相同的令牌（比方说 B 和 B&#39;）。但是，如果 30 分钟后，黑客第一个发出请求（可以从 access_token jwt 轻松确定到期时间），那么该帐户将受到威胁，因为黑客将获得一组有效的令牌（B和 B&#39;)。 所以，这是我的问题：-  使用刷新令牌是否比仅使用访问令牌使身份验证更安全？ &lt; li&gt;如果对问题 1 的回答 = 是，它如何变得更安全？ 如果令牌被泄露，有什么方法可以防止黑客攻击吗？ 最好的方法是什么？实现身份验证，基本上使应用程序无法被黑客攻击（我知道这是不可能的，但如何将黑客攻击的风险降到最低）。  PS - 我问/想知道的一切都是为了Web 应用程序，而不是移动设备或任何其他设备。   由   提交/u/Left_Procedure8097   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18geymy/what_is_the_best_way_for/</guid>
+      <pubDate>Tue, 12 Dec 2023 05:49:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>微软的网站所有权检查很奇怪。</title>
+      <link>https://www.reddit.com/r/webdev/comments/18gdxca/microsofts_website_ownership_check_is_odd/</link>
+      <description><![CDATA[我正在尝试向 Microsoft 商店提交 PWA。对于 pwas，您需要验证您是该网站的合法所有者。根据我的经验，这是通过网站中的自定义服务器记录或自定义代码来完成的。对于微软，他们要求提供以下内容。对于其他人来说，他们要求的东西很容易被伪造，这是否看起来很奇怪？  感谢您的耐心等待。理想情况下，这些类型的产品将由与域名/公司关联的帐户提交。 请提供所有者的授权或所有权证明（例如域名注册发票的副本、屏幕截图）您的域控制面板的信息，或声明您拥有该域的签名信件的扫描副本）。   由   提交 /u/DiddlyDanq   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18gdxca/microsofts_website_ownership_check_is_odd/</guid>
+      <pubDate>Tue, 12 Dec 2023 04:49:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>经验丰富的 Web 1.0 工程师是如何发展的？</title>
+      <link>https://www.reddit.com/r/webdev/comments/18gc5ox/how_did_seasoned_web_10_engineers_evolve/</link>
+      <description><![CDATA[早在 2000 年代，Web 1.0（像 eBay 这样的公司）就崩溃了。尤其是互联网泡沫的破灭。当时进入软件工程非常困难。工程师太多，但工作岗位却不够多。 （嗯。听起来有点耳熟？） 我想知道经验丰富的工程师是做什么的？他们是否加倍努力扮演自己的角色？他们是否迁移到其他领域，例如移动领域？等等 我知道至少有一位这样的开发人员，他们以前曾从事过移动原型设计工作，然后当 iPhone 使移动市场成为可能时，他们完全转向了移动设备。      div&gt;  由   提交 /u/bestjaegerpilot   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18gc5ox/how_did_seasoned_web_10_engineers_evolve/</guid>
+      <pubDate>Tue, 12 Dec 2023 03:12:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么我的省略号垂直居中？</title>
+      <link>https://www.reddit.com/r/webdev/comments/18gbzjh/why_are_my_ellipsis_vertically_centered/</link>
+      <description><![CDATA[       由   提交 /u/hiccupq   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18gbzjh/why_are_my_ellipsis_vertically_centered/</guid>
+      <pubDate>Tue, 12 Dec 2023 03:03:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何将套接字集成到 Bitbucket 管道中</title>
+      <link>https://www.reddit.com/r/webdev/comments/18gaqca/how_to_integrate_socket_into_your_bitbucket/</link>
+      <description><![CDATA[   /u/feross  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18gaqca/how_to_integrate_socket_into_your_bitbucket/</guid>
+      <pubDate>Tue, 12 Dec 2023 02:00:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>2023 年勒索软件趋势：赎金支付增加推动网络需求增加</title>
+      <link>https://www.reddit.com/r/webdev/comments/18gafpe/2023_ransomware_trends_rising_ransom_payments/</link>
+      <description><![CDATA[   /u/feross  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18gafpe/2023_ransomware_trends_rising_ransom_payments/</guid>
+      <pubDate>Tue, 12 Dec 2023 01:45:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何将套接字集成到 Bitbucket 管道中</title>
+      <link>https://www.reddit.com/r/webdev/comments/18ga4ti/how_to_integrate_socket_into_your_bitbucket/</link>
+      <description><![CDATA[   /u/feross  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18ga4ti/how_to_integrate_socket_into_your_bitbucket/</guid>
+      <pubDate>Tue, 12 Dec 2023 01:30:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>滚动条导航箭头跳至第一项和最后一项</title>
+      <link>https://www.reddit.com/r/webdev/comments/18g9vp4/scrollbar_navigation_arrows_skip_to_first_and/</link>
+      <description><![CDATA[我正在使用滚动捕捉：x强制和滚动捕捉对齐：中心作为基本的水平滑块库。超级简单，在移动设备上运行得很好！但在桌面（Chrome）上，按滚动条导航箭头会在第一个和最后一个项目之间跳转。我查看了使用类似 css 的其他画廊，但没有找到一个能按我的预期工作的画廊（即捕捉到下一个项目）。我是否错过了秘密财产，或者这是预期的行为？ （类似的，可能相关的烦恼是，点击键盘箭头会捕捉到下一个项目，但按住它会导致过渡卡顿） 我想仅在移动 UA 上应用捕捉并不难，但只是想要看看是否有人有想法   由   提交/u/bigginsmcgee  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18g9vp4/scrollbar_navigation_arrows_skip_to_first_and/</guid>
+      <pubDate>Tue, 12 Dec 2023 01:17:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要建议：我是在浪费时间吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/18g9syu/need_advice_am_i_wasting_my_time/</link>
+      <description><![CDATA[每当我创建一个应用程序时，大多数时候它只是为了自学，我也会为它创建一个文档。我有自己的Confluence页面，我在其中编写应用程序的文档，它不仅仅是代码文档。 该文档除了源代码之外还有许多部分，例如研究背景、问题和解决方案， UML图、调查等我唯一没有包括的是WBS，因为我是项目中唯一的人，其目的是为了自学，所以不需要包括项目的得失。 但我想知道我是否在浪费时间做文档，因为我是唯一负责的人，并且只进行编码是否会更好  &amp;# 32；由   提交 /u/Tantan88112   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18g9syu/need_advice_am_i_wasting_my_time/</guid>
+      <pubDate>Tue, 12 Dec 2023 01:13:27 GMT</pubDate>
+    </item>
     <item>
       <title>GrapesJS 客户组件</title>
       <link>https://www.reddit.com/r/webdev/comments/18g84cp/grapesjs_customer_components/</link>
@@ -29,86 +106,9 @@
     <item>
       <title>网络应用程序上的 Flaticon 和社交登录：违法吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/18g5ukr/flaticon_social_login_on_web_app_is_it_illegal/</link>
-      <description><![CDATA[我想在我的网站上实现社交登录，可以使用 google、facebook、twitter 等。 我是目前已完成所有逻辑等，我目前正在设计身份验证组件。  我也刚刚从 Flaticon 下载了图标（我支付了本月的费用），但我注意到图标附近写着该图标只有编辑许可证，所以我只能将其用于新闻文章教育、学术目的或其他有新闻价值的出版物，而不能用于商业用途。 我只是想添加一个图标，使其对可以通过社交登录的用户可见。  ​ 你认为使用它们合法吗？  你通常用什么？  Flaticon 如何知道我是否使用它？ ​ 谢谢！ &lt;!-- SC_ON - -&gt;  由   提交/u/Ale9xs  [链接] [评论]]]></description>
+      <description><![CDATA[我想在我的网站上实现社交登录，可以使用 google、facebook、twitter 等。 我是目前已完成所有逻辑等，我目前正在设计身份验证组件。  我也刚刚从 Flaticon 下载了图标（我支付了本月的费用），但我注意到图标附近写着该图标只有编辑许可证，所以我只能将其用于新闻文章教育、学术目的或其他有新闻价值的出版物，而不能用于商业用途。 我只是想添加一个图标，使其对可以通过社交登录的用户可见。  ​ 你认为使用它们合法吗？  你通常用什么？  Flaticon 如何知道我是否使用它？ ​ 谢谢！ &lt;!-- SC_ON - -&gt;  由   提交/u/Ale9xs   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/18g5ukr/flaticon_social_login_on_web_app_is_it_illegal/</guid>
       <pubDate>Mon, 11 Dec 2023 22:12:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google HTML/CSS 样式指南对于编写手写网站很有洞察力</title>
-      <link>https://www.reddit.com/r/webdev/comments/18g4ecn/google_htmlcss_style_guide_is_insightful_for/</link>
-      <description><![CDATA[ 由   提交/u/passiveobserver012   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18g4ecn/google_htmlcss_style_guide_is_insightful_for/</guid>
-      <pubDate>Mon, 11 Dec 2023 21:13:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有办法知道 cookie 值使用哪种编码</title>
-      <link>https://www.reddit.com/r/webdev/comments/18g4a0y/is_there_a_way_to_know_which_encoding_is_used_for/</link>
-      <description><![CDATA[我正在解决 Advent of code(https://adventofcode.com/ 2023），我刚刚解决了第 7 天的第一部分，从而解开了问题的第二部分。我可以从cookie存储中看到有一个名为“session”的键其值例如： 53616c7465645f5fd4312107fe4a1c08​​7f59f746f5e4dd570b48e8481a4b60629eeebcabd421597d2835e0498e87df95d66843256a535a7040a3c73993 e5bb36 ​ 如何解码该值？假设我已成功解决第 7 天第一部分的信息被编码到该字符串中，是否正确？    由   提交 /u/GrizzyLizz   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18g4a0y/is_there_a_way_to_know_which_encoding_is_used_for/</guid>
-      <pubDate>Mon, 11 Dec 2023 21:08:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>AR产品追踪</title>
-      <link>https://www.reddit.com/r/webdev/comments/18g491z/ar_product_tracking/</link>
-      <description><![CDATA[我有一个通过 QR 码加载 AR 文件的网站（加载 GLB 或 USDZ 文件）。如何让 GA 或 GTM 跟踪加载的 AR 文件的流量？  ​ 提前致谢   由   提交/u/Avatar-Tee  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18g491z/ar_product_tracking/</guid>
-      <pubDate>Mon, 11 Dec 2023 21:07:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 PageFind 向静态站点添加高性能搜索</title>
-      <link>https://www.reddit.com/r/webdev/comments/18g43gp/add_highperformance_search_to_static_sites_with/</link>
-      <description><![CDATA[   /u/olets  [link] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18g43gp/add_highperformance_search_to_static_sites_with/</guid>
-      <pubDate>Mon, 11 Dec 2023 21:01:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何更改 Bootstrap 按钮上蓝色轮廓的颜色</title>
-      <link>https://www.reddit.com/r/webdev/comments/18g4174/how_to_change_color_for_blue_outline_on_bootstrap/</link>
-      <description><![CDATA[      按下左侧按钮，然后出现蓝色轮廓。我已将 btn-primary 的颜色从蓝色覆盖为绿色，但该轮廓仍然是蓝色。然而，具有 btn-secondary 类的第二个按钮及其标准灰色在按下时也会获得蓝色轮廓，因此颜色可能是在其他地方定义的。 （没有任何类的第三个按钮在按下时不会显示任何轮廓。）我应该覆盖什么来更改轮廓的颜色？  https://preview.redd.it/tt3ebbw5aq5c1.png?width=193&amp;format=png&amp;auto=webp&amp;s=23533e13c5f083680d19ecffd25ff7251f78546c    由   提交/u/Countach3000  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18g4174/how_to_change_color_for_blue_outline_on_bootstrap/</guid>
-      <pubDate>Mon, 11 Dec 2023 20:58:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>Chrome devtools性能监视器颜色？</title>
-      <link>https://www.reddit.com/r/webdev/comments/18g3ubw/chrome_devtools_performance_monitor_colors/</link>
-      <description><![CDATA[抱歉，如果这是一个愚蠢的问题，但我的 Google 技能未能找到答案。使用 Chrome devtools 中的流性能监视器，CPU 使用率显示三种颜色：灰色、紫色和橙色。有谁知道这些颜色代表什么？我不仅无法在性能选项卡中找到有关 CPU 颜色的信息，该选项卡具有更多颜色，而且不一定表示相同的意思。提前谢谢您。   由   提交 /u/MrCoolizade   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18g3ubw/chrome_devtools_performance_monitor_colors/</guid>
-      <pubDate>Mon, 11 Dec 2023 20:50:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>在国外拥有自己的服务器来托管您的网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/18g3rt9/own_server_at_home_from_abroad_to_host_your/</link>
-      <description><![CDATA[大家好， 我不知道这是否是正确的子选项。不过，我仍然会问这个问题，希望得到一个好的答案。 我有一堆客户端，大约 20 个，它们都在我信任的一个托管方的共享服务器上运行。我对它们很满意，但有些网站有时有点慢，而且费用约为 3000 美元/年。这让我想到检查一个带有 SSD 的 VPS 来托管所有网站。 这是一个短暂的举措，因为我实际上不知道我在与服务器对话做什么通过他们的网站。我尝试了一个星期，放弃了。 现在，我住在国外的中东，但我的家在荷兰，那里的网速相当高（玻璃纤维）。因此，我正在考虑在家里构建一台计算机/服务器（我可以）并从那里运行网站。至少这样我就可以通过 FTP 等访问，或者 teamviewer 之类的东西来管理事情。 这里有人处于同样的位置并这样做过吗？您使用了哪些资源来完成这项工作？你的设置怎么样？电子邮件和其他东西如何为客户工作？ 我对 Linux 不太了解，所以我可能会为我自己的公司和我的客户构建一个 10TB SSD / 128GB RAM / Windows Server每个网站的备份应该每周自动删除间隔备份，直到一个月。 虽然初始成本可能相当高，但我认为速度会大大提高，并且会获得投资回报率回来得相当快。甚至可能在几个月内。 你们有什么建议吗？ 提前致以亲切的问候和非常感谢！ &lt;!-- SC_ON - -&gt;  由   提交/u/NoidZ   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18g3rt9/own_server_at_home_from_abroad_to_host_your/</guid>
-      <pubDate>Mon, 11 Dec 2023 20:47:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>移动友好的 Markdown 编辑器的推荐/经验</title>
-      <link>https://www.reddit.com/r/webdev/comments/18g2kuo/recommendationexperience_with_mobile_friendly/</link>
-      <description><![CDATA[我正在 golang 中构建一个带有服务器端渲染的小型 Web 应用程序。 现在我正在寻找一个可以使用的编辑器使用以便在我想要存储的某些字段中写入降价。如果有帮助的话，我还会使用一些引导程序来进行一些样式设置。 是否有一个流行的开源编辑器可供我轻松集成？ 最重要的是完全移动在我的智能手机上编辑支持，当然还有存储 Markdown。 编辑：我对前端的东西一无所知。   由   提交/u/ajfriesen  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18g2kuo/recommendationexperience_with_mobile_friendly/</guid>
-      <pubDate>Mon, 11 Dec 2023 19:59:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>网站流量奇怪？</title>
-      <link>https://www.reddit.com/r/webdev/comments/18g1ydd/weird_website_traffic/</link>
-      <description><![CDATA[抱歉，希望我没有违反此子项目的任何规则。 我们有一名外部承包商负责处理托管我们组织的网站。她有时也会调整我们网站上的内容和后端内容。多年来我一直对这个外部承包商持怀疑态度，因为她的一些网站开发建议似乎很奇怪。  她会定期回来告诉我们她将更新我们的网站以增加我们的流量。我密切关注网站的 Google 分析流量，通常我们的网站每天有 100-200 名访问者。  然而，在 Google Analytics 中，11 月 28 日无缘无故地有约 5000 名访问者访问该网站，而整整 1 周后的 12 月 5 日又出现了约 5000 名访问者。  知道会发生什么吗？这是巧合吗？   由   提交 /u/WNC_Inspector   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18g1ydd/weird_website_traffic/</guid>
-      <pubDate>Mon, 11 Dec 2023 19:34:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>谁说人工智能不能让你的网站排名靠前？</title>
-      <link>https://www.reddit.com/r/webdev/comments/18g1q07/who_said_that_ai_cant_rank_your_website_to_be_on/</link>
-      <description><![CDATA[   ​ DevHunt DevHunt 现在是 Google 上排名第一的结果，当您搜索“最佳开发工具启动板”时，它会出现在 Google 搜索结果中。或“开发工具启动板”您会在顶部看到 DevHunt。这篇文章是由 Seobot 自己撰写的。  现在它在 Google 中的排名非常好。我认为人工智能很快就会成为我们友好的营销工具。这样我们就能够更加关注开发和用户。 您以前在人工智能方面也经历过同样的事情吗？   由   提交 /u/sidi_jeddou   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18g1q07/who_said_that_ai_cant_rank_your_website_to_be_on/</guid>
-      <pubDate>Mon, 11 Dec 2023 19:24:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>Safari 17.2 中的 WebKit 功能</title>
-      <link>https://www.reddit.com/r/webdev/comments/18g1jbi/webkit_features_in_safari_172/</link>
-      <description><![CDATA[       由   提交/u/feross  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18g1jbi/webkit_features_in_safari_172/</guid>
-      <pubDate>Mon, 11 Dec 2023 19:17:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
