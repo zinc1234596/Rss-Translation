@@ -4,111 +4,111 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Mon, 11 Dec 2023 15:13:10 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 Dec 2023 03:12:48 GMT</lastBuildDate>
     <item>
-      <title>有人在使用指点杆键盘后切换回来吗？</title>
-      <link>https://www.reddit.com/r/programming/comments/18fwk09/has_anyone_switched_back_after_using_a_trackpoint/</link>
-      <description><![CDATA[ 由   提交/u/yordangalabov   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/18fwk09/has_anyone_switched_back_after_using_a_trackpoint/</guid>
-      <pubDate>Mon, 11 Dec 2023 15:04:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么应该从 API 密钥迁移到 OAuth 2.0</title>
-      <link>https://www.reddit.com/r/programming/comments/18fw57v/why_you_should_migrate_to_oauth_20_from_api_keys/</link>
-      <description><![CDATA[ 由   提交 /u/robertinoc   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/18fw57v/why_you_should_migrate_to_oauth_20_from_api_keys/</guid>
-      <pubDate>Mon, 11 Dec 2023 14:46:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>优化设计：SEO 友好的前端架构方法</title>
-      <link>https://www.reddit.com/r/programming/comments/18fujww/optimized_design_the_seofriendly_approach_to/</link>
-      <description><![CDATA[ 由   提交/u/Global_Bid_635   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/18fujww/optimized_design_the_seofriendly_approach_to/</guid>
-      <pubDate>Mon, 11 Dec 2023 13:28:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>确保 Web 应用程序安全所需的 .NET 安全功能</title>
-      <link>https://www.reddit.com/r/programming/comments/18fu3lg/necessary_net_security_features_for_securing_your/</link>
-      <description><![CDATA[ 由   提交/u/myotcworld  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/18fu3lg/necessary_net_security_features_for_securing_your/</guid>
-      <pubDate>Mon, 11 Dec 2023 13:04:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>[幻灯片] PyTorch 2 内部结构</title>
-      <link>https://www.reddit.com/r/programming/comments/18ftwj5/slides_pytorch_2_internals/</link>
-      <description><![CDATA[ 由   提交/u/perone  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/18ftwj5/slides_pytorch_2_internals/</guid>
-      <pubDate>Mon, 11 Dec 2023 12:54:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>动作脚本 3 中的事件鼠标按下 VS 事件鼠标向上</title>
-      <link>https://www.reddit.com/r/programming/comments/18ftfwa/event_mouse_down_vs_event_mouse_up_in_action/</link>
-      <description><![CDATA[ 由   提交/u/ah2000ha  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/18ftfwa/event_mouse_down_vs_event_mouse_up_in_action/</guid>
-      <pubDate>Mon, 11 Dec 2023 12:28:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>Zoom 能够支持每天 3 亿视频通话的 5 个原因</title>
-      <link>https://www.reddit.com/r/programming/comments/18ft4rj/5_reasons_why_zoom_was_able_to_support_300/</link>
-      <description><![CDATA[ 由   提交/u/sdxyz42   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/18ft4rj/5_reasons_why_zoom_was_able_to_support_300/</guid>
-      <pubDate>Mon, 11 Dec 2023 12:10:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>那么，谁将成为第一个为 AI 嵌入创建光线追踪 BVH 等效加速结构的人</title>
-      <link>https://www.reddit.com/r/programming/comments/18fsi4n/so_whos_gonna_be_the_first_to_create_ray_tracing/</link>
-      <description><![CDATA[向量嵌入搜索是一项高维工作，几乎肯定会成为高级加速数据结构的主题。 谁将成为第一个构建类似于光线追踪包围体层次结构的广义高维结构来分段和搜索向量嵌入？ 如果谁使用 SSE 或其他加速向量运算来提高速度，则可获得奖励积分。   由   提交 /u/MordyOfTheMooMoo   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/18fsi4n/so_whos_gonna_be_the_first_to_create_ray_tracing/</guid>
-      <pubDate>Mon, 11 Dec 2023 11:31:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>Zoho Creator 初学者教程</title>
-      <link>https://www.reddit.com/r/programming/comments/18fr1wz/zoho_creator_tutorial_for_beginners/</link>
-      <description><![CDATA[ 由   提交/u/crmoz_com   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/18fr1wz/zoho_creator_tutorial_for_beginners/</guid>
-      <pubDate>Mon, 11 Dec 2023 09:54:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>对存储在 MariaDB 中的数据的前端支持</title>
-      <link>https://www.reddit.com/r/programming/comments/18fpzhd/frontend_support_for_your_data_stored_in_mariadb/</link>
-      <description><![CDATA[ 由   提交 /u/Think-Tax-1150   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/18fpzhd/frontend_support_for_your_data_stored_in_mariadb/</guid>
-      <pubDate>Mon, 11 Dec 2023 08:38:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>每个程序员都应该知道#1：幂等性</title>
-      <link>https://www.reddit.com/r/programming/comments/18fpjpt/every_programmer_should_know_1_idempotency/</link>
+      <title>了解 JavaScript 模运算符</title>
+      <link>https://www.reddit.com/r/programming/comments/18gc0mc/understanding_the_javascript_modulo_operator/</link>
       <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/18fpjpt/every_programmer_should_know_1_idempotency/</guid>
-      <pubDate>Mon, 11 Dec 2023 08:05:55 GMT</pubDate>
+      <guid>https://www.reddit.com/r/programming/comments/18gc0mc/understanding_the_javascript_modulo_operator/</guid>
+      <pubDate>Tue, 12 Dec 2023 03:05:30 GMT</pubDate>
     </item>
     <item>
-      <title>不再有 git 疲劳 - GitBrain | AI 驱动的 Git 客户端</title>
-      <link>https://www.reddit.com/r/programming/comments/18fp1wc/no_more_git_fatigue_gitbrain_aipowered_git_client/</link>
-      <description><![CDATA[ 由   提交 /u/somtul    [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/18fp1wc/no_more_git_fatigue_gitbrain_aipowered_git_client/</guid>
-      <pubDate>Mon, 11 Dec 2023 07:29:50 GMT</pubDate>
+      <title>用 JavaScript 构建一个奇幻的 CPU 模拟器</title>
+      <link>https://www.reddit.com/r/programming/comments/18gbf07/build_a_fantasy_cpu_emulator_in_javascript/</link>
+      <description><![CDATA[ 由   提交 /u/codeobserver   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/18gbf07/build_a_fantasy_cpu_emulator_in_javascript/</guid>
+      <pubDate>Tue, 12 Dec 2023 02:34:51 GMT</pubDate>
     </item>
     <item>
-      <title>bgammon.org - 免费开源在线双陆棋</title>
-      <link>https://www.reddit.com/r/programming/comments/18fp09k/bgammonorg_free_and_open_source_online_backgammon/</link>
-      <description><![CDATA[ 由   提交/u/tslocum  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/18fp09k/bgammonorg_free_and_open_source_online_backgammon/</guid>
-      <pubDate>Mon, 11 Dec 2023 07:26:16 GMT</pubDate>
+      <title>如何将套接字集成到 Bitbucket 管道中</title>
+      <link>https://www.reddit.com/r/programming/comments/18gar67/how_to_integrate_socket_into_your_bitbucket/</link>
+      <description><![CDATA[ 由   提交/u/feross  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/18gar67/how_to_integrate_socket_into_your_bitbucket/</guid>
+      <pubDate>Tue, 12 Dec 2023 02:01:52 GMT</pubDate>
     </item>
     <item>
-      <title>与耳语、瓦西和瓦泽罗一起冒险</title>
-      <link>https://www.reddit.com/r/programming/comments/18fkx0v/an_adventure_with_whisper_wasi_and_wazero/</link>
-      <description><![CDATA[ 由   提交/u/itachi_amaterasu   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/18fkx0v/an_adventure_with_whisper_wasi_and_wazero/</guid>
-      <pubDate>Mon, 11 Dec 2023 03:14:07 GMT</pubDate>
+      <title>Terminal Trove：终端工具列表 (A-Z)</title>
+      <link>https://www.reddit.com/r/programming/comments/18gakz4/terminal_trove_list_of_terminal_tools_az/</link>
+      <description><![CDATA[ 由   提交/u/sinani206  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/18gakz4/terminal_trove_list_of_terminal_tools_az/</guid>
+      <pubDate>Tue, 12 Dec 2023 01:53:22 GMT</pubDate>
     </item>
     <item>
-      <title>转置矩阵 — Leetcode 867（Ruby 解决方案）</title>
-      <link>https://www.reddit.com/r/programming/comments/18fk0p1/transpose_matrix_leetcode_867_ruby_solution/</link>
-      <description><![CDATA[ 由   提交/u/Educational-Ad2036   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/18fk0p1/transpose_matrix_leetcode_867_ruby_solution/</guid>
-      <pubDate>Mon, 11 Dec 2023 02:27:01 GMT</pubDate>
+      <title>如何将套接字集成到 Bitbucket 管道中</title>
+      <link>https://www.reddit.com/r/programming/comments/18ga5nd/how_to_integrate_socket_into_your_bitbucket/</link>
+      <description><![CDATA[ 由   提交/u/feross  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/18ga5nd/how_to_integrate_socket_into_your_bitbucket/</guid>
+      <pubDate>Tue, 12 Dec 2023 01:31:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>停止在 JavaScript 中嵌套三元组</title>
+      <link>https://www.reddit.com/r/programming/comments/18g900s/stop_nesting_ternaries_in_javascript/</link>
+      <description><![CDATA[ 由   提交 /u/philnash   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/18g900s/stop_nesting_ternaries_in_javascript/</guid>
+      <pubDate>Tue, 12 Dec 2023 00:33:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>加速 JavaScript 生态系统 - Polyfills 失控</title>
+      <link>https://www.reddit.com/r/programming/comments/18g5lkf/speeding_up_the_javascript_ecosystem_polyfills/</link>
+      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/18g5lkf/speeding_up_the_javascript_ecosystem_polyfills/</guid>
+      <pubDate>Mon, 11 Dec 2023 22:02:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>请举一些例子，说明“构建器设计模式”在您以前从事的项目中是如何实际应用的。</title>
+      <link>https://www.reddit.com/r/programming/comments/18g4spc/give_me_some_examples_of_how_the_builder_design/</link>
+      <description><![CDATA[ 由   提交 /u/Federal-Bandicoot503   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/18g4spc/give_me_some_examples_of_how_the_builder_design/</guid>
+      <pubDate>Mon, 11 Dec 2023 21:29:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>C++20/23 中字符串处理的六个便捷操作</title>
+      <link>https://www.reddit.com/r/programming/comments/18g4aha/six_handy_operations_for_string_processing_in/</link>
+      <description><![CDATA[ 由   提交/u/joebaf  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/18g4aha/six_handy_operations_for_string_processing_in/</guid>
+      <pubDate>Mon, 11 Dec 2023 21:09:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>选择Postgres队列技术</title>
+      <link>https://www.reddit.com/r/programming/comments/18g43p1/choose_postgres_queue_technology/</link>
+      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/18g43p1/choose_postgres_queue_technology/</guid>
+      <pubDate>Mon, 11 Dec 2023 21:01:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>您可以通过更改 package.json 中的设置将 npm 包的大小减小 90%</title>
+      <link>https://www.reddit.com/r/programming/comments/18g362k/you_can_decrease_the_size_of_your_npm_package_by/</link>
+      <description><![CDATA[ 由   提交 /u/Critical-Beyond3371   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/18g362k/you_can_decrease_the_size_of_your_npm_package_by/</guid>
+      <pubDate>Mon, 11 Dec 2023 20:22:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了一个应用程序来可视化超维旋转立方体</title>
+      <link>https://www.reddit.com/r/programming/comments/18g35yp/i_created_an_application_to_visualize/</link>
+      <description><![CDATA[ 由   提交 /u/AdminSuggestion   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/18g35yp/i_created_an_application_to_visualize/</guid>
+      <pubDate>Mon, 11 Dec 2023 20:22:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>你只能通过破解它来玩这个游戏 [SimCity 2000]</title>
+      <link>https://www.reddit.com/r/programming/comments/18g31sf/you_can_only_play_this_game_by_hacking_it_simcity/</link>
+      <description><![CDATA[ 由   提交/u/Kered13  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/18g31sf/you_can_only_play_this_game_by_hacking_it_simcity/</guid>
+      <pubDate>Mon, 11 Dec 2023 20:18:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何删除 Git 提交历史记录</title>
+      <link>https://www.reddit.com/r/programming/comments/18g2jxa/how_to_delete_git_commit_history/</link>
+      <description><![CDATA[ 由   提交 /u/emmysteven   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/18g2jxa/how_to_delete_git_commit_history/</guid>
+      <pubDate>Mon, 11 Dec 2023 19:58:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Safari 17.2 中的 WebKit 功能</title>
+      <link>https://www.reddit.com/r/programming/comments/18g1itn/webkit_features_in_safari_172/</link>
+      <description><![CDATA[ 由   提交/u/feross  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/18g1itn/webkit_features_in_safari_172/</guid>
+      <pubDate>Mon, 11 Dec 2023 19:16:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
