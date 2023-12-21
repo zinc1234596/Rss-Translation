@@ -4,7 +4,7 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Thu, 21 Dec 2023 09:10:56 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 Dec 2023 12:19:02 GMT</lastBuildDate>
     <item>
       <title>样条线</title>
       <link>https://www.producthunt.com/posts/spline-2</link>
@@ -32,20 +32,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/capte</guid>
       <pubDate>Thu, 21 Dec 2023 08:05:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>变革博士</title>
-      <link>https://www.producthunt.com/posts/dr-change</link>
-      <description><![CDATA[
-            人工智能习惯教练
-          
-
-讨论&lt; /a&gt;
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/dr-change</guid>
-      <pubDate>Thu, 21 Dec 2023 02:01:03 GMT</pubDate>
     </item>
     <item>
       <title>任务流程</title>
@@ -90,24 +76,10 @@
       <pubDate>Wed, 20 Dec 2023 19:14:32 GMT</pubDate>
     </item>
     <item>
-      <title>细节——远程录音</title>
-      <link>https://www.producthunt.com/posts/detail-remote-recording</link>
-      <description><![CDATA[
-            快速录制和编辑远程视频播客​​和采访
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/detail-remote-recording</guid>
-      <pubDate>Wed, 20 Dec 2023 19:10:12 GMT</pubDate>
-    </item>
-    <item>
       <title>螺旋</title>
       <link>https://www.producthunt.com/posts/helix-5</link>
       <description><![CDATA[
-            Helix：使用开源 AI 和您的数据训练您自己的 AI
+            使用开源 AI 和您的数据训练您自己的 AI
           
 
 讨论&lt; /a&gt;
@@ -202,18 +174,46 @@
       <pubDate>Mon, 18 Dec 2023 19:31:59 GMT</pubDate>
     </item>
     <item>
-      <title>令人惊讶的是</title>
-      <link>https://www.producthunt.com/posts/amazely</link>
+      <title>魔法时刻</title>
+      <link>https://www.producthunt.com/posts/magic-hour-2</link>
       <description><![CDATA[
-            全球首个AI企业成长平台
+            我妈妈不让我学艺术，所以我做了一个人工智能视频应用程序
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/amazely</guid>
-      <pubDate>Tue, 05 Dec 2023 16:01:13 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/magic-hour-2</guid>
+      <pubDate>Thu, 14 Dec 2023 18:52:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>设计垫</title>
+      <link>https://www.producthunt.com/posts/ideate-pad</link>
+      <description><![CDATA[
+            简化您的构思过程
+          
+
+讨论&lt; /a&gt;
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/ideate-pad</guid>
+      <pubDate>Wed, 13 Dec 2023 17:15:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>克莱因</title>
+      <link>https://www.producthunt.com/posts/cline-2</link>
+      <description><![CDATA[
+            Web 的轻量级 A/B 和拆分测试
+          
+
+讨论&lt; /a&gt;
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/cline-2</guid>
+      <pubDate>Mon, 11 Dec 2023 19:02:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
