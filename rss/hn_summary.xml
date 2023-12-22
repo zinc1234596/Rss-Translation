@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Fri, 22 Dec 2023 15:05:28 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 Dec 2023 18:07:10 GMT</lastBuildDate>
     <item>
-      <title>[媒体]Microvenv 是一个 Python 模块，允许用户创建最小的虚拟环境 [...]</title>
-      <link>https://t.me/hn_summary/65195</link>
-      <description><![CDATA[Microvenv：创建最小虚拟环境
-Microvenv 是一个 Python 模块，当 venv 模块在其 Python 发行版中不可用时，它允许用户创建最小的虚拟环境。它可以作为创建虚拟环境的便携式替代方案，特别是对于旧版本的 Python。该模块还提供用于处理虚拟环境的实用程序代码。 CLI 用法允许用户在指定目录或默认的“.venv”目录中创建虚拟环境。该项目与 venv 模块的区别在于没有激活脚本且不支持 Windows。]]></description>
-      <guid>https://t.me/hn_summary/65195</guid>
-      <pubDate>Fri, 22 Dec 2023 15:05:28 GMT</pubDate>
+      <title>[媒体]雪佛兰 Blazer EV 是一款与 Ca [...]</title>
+      <link>https://t.me/hn_summary/65219</link>
+      <description><![CDATA[雪佛兰 Blazer 首驾：通用汽车电动平台走向主流 
+雪佛兰 Blazer EV 是一款新型全电动 SUV，与凯迪拉克 Lyriq 建立在同一平台上。它将提供三种装饰以及前轮、后轮和全轮驱动配置。 Blazer EV RS RWD 配备 102 kWh 电池组、续航里程 324 英里和 340 马力电动机。它可以以高达 190 kW 的直流快速充电。 Blazer EV RS eAWD 更便宜，电池组更小，续航里程为 279 英里。它的总功率为 288 马力，充电 10 分钟即可行驶 69 英里。]]></description>
+      <guid>https://t.me/hn_summary/65219</guid>
+      <pubDate>Fri, 22 Dec 2023 18:07:10 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 这篇文章讨论了让语言模型 (LLM) 进展更快的方法。</title>
-      <link>https://t.me/hn_summary/65194</link>
-      <description><![CDATA[如何让法学硕士取得快速
-本文讨论了使语言模型 (LLM) 更快发展的方法。作者解释说，法学硕士中使用的传统自回归采样方法速度很慢，因为它在每个周期处理越来越多的标记。此外，法学硕士很大，需要大量 RAM，这会减慢处理速度。该文章提出了几种加速 LLM 的方法，包括使用更好的硬件（例如 GPU 或 TPU）、优化程序以充分利用硬件功能，以及使用编译器针对特定硬件优化代码。本文全面概述了这些优化技术及其对首次令牌时间、生成延迟、吞吐量和硬件利用率等指标的影响。 （根据故事文本的 12% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/65194</guid>
-      <pubDate>Fri, 22 Dec 2023 15:04:18 GMT</pubDate>
+      <title>题为“甚至睫毛：《死亡帝国》回顾”的文章讨论了历史 [...]</title>
+      <link>https://t.me/hn_summary/65218</link>
+      <description><![CDATA[连睫毛：《死亡帝国》回顾
+这篇题为《连睫毛：《亡者帝国》回顾》的文章讨论了南美洲安第斯地区保存亡者的历史，特别关注印加文明。西班牙征服者试图通过促进西班牙王室与印加贵族之间的联盟来巩固对印加领土的控制。印加皇室的尸体在死后被保存下来，并被重新引入印加社会，在那里，他们有仆人陪伴，解释死者的愿望。本文探讨了围绕印加死者保护的争议和辩论，以及这些做法的文化和政治影响。作者还讨论了博物馆在展示和研究这些保存完好的尸体方面的作用，以及正在进行的关于遣返的争论。 （根据 94% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/65218</guid>
+      <pubDate>Fri, 22 Dec 2023 18:04:02 GMT</pubDate>
     </item>
     <item>
-      <title>作者分享了他们通过网络调查长达数月问题的经验，并 [...]</title>
-      <link>https://t.me/hn_summary/65193</link>
-      <description><![CDATA[并不总是 DNS – 除非是
-作者分享了他们调查长达数月的网络问题的经验，以及他们如何发现问题实际上是由 DNS 引起的。最初，他们怀疑入口控制器存在问题，但经过进一步调查，他们意识到这是一个网络问题。他们发现行为不当的 flutter-bit 代理和代理服务器导致了该问题，这两者都依赖于 DNS 解析。他们还发现其设置中的 DNS 缓存和 ndots 配置存在多个问题。通过解决这些问题，他们能够提高网络的性能。本文强调了拥有可靠的 SLI（服务水平指标）的重要性以及在排除网络问题时进行彻底调查的好处。 （根据 70% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/65193</guid>
-      <pubDate>Fri, 22 Dec 2023 15:02:04 GMT</pubDate>
+      <title>[媒体] gptengineer.app 项目旨在提供一个快速原型设计的平台 [...]</title>
+      <link>https://t.me/hn_summary/65217</link>
+      <description><![CDATA[显示 HN：使用聊天创建和部署多页面 Web 应用程序原型
+gptengineer.app 项目旨在提供一个快速原型设计的平台使用聊天的多页面 Web 应用程序原型。用户可以指定他们想要构建的内容，人工智能会根据他们的规格创建一个网站。该项目的独特之处在于允许用户使用自然语言编辑网站并提供一键部署。它与开源代码项目 gpt-engineer 相关，其中包含 gptengineer 的一部分.app 的收入用于资助代码生成开源工具的维护。未来的计划包括添加所见即所得式的文本编辑和图像上传，以及基于用户功能请求的全栈功能。 gptengineer.app 背后的团队和公司也将很快公布。 ]]></description>
+      <guid>https://t.me/hn_summary/65217</guid>
+      <pubDate>Fri, 22 Dec 2023 18:02:52 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] GitHub 项目“actions-batch”是一个基于 GitHub Actions 构建的分时超级计算机。</title>
-      <link>https://t.me/hn_summary/65192</link>
-      <description><![CDATA[显示 HN：基于 GitHub Actions 构建的分时超级计算机
-GitHub 项目“actions-batch”是一个基于 GitHub Actions 构建的分时超级计算机。它允许用户在隔离且不可变的环境中运行 shell 脚本并收集日志或结果。该项目支持公共和私有存储库、自托管运行器和 GitHub 托管运行器。它还允许通过存储库机密使用机密并将构建结果下载为工件。作者提到，该项目的与众不同之处在于提供了可以在 Linux 系统上运行的各种工作负载的示例。该项目已获得麻省理工学院许可。]]></description>
-      <guid>https://t.me/hn_summary/65192</guid>
-      <pubDate>Fri, 22 Dec 2023 14:38:37 GMT</pubDate>
+      <title>本文讨论了现代物质丰富时代的发现挑战。</title>
+      <link>https://t.me/hn_summary/65216</link>
+      <description><![CDATA[发现是现代的原罪&lt; br/&gt;
+本文讨论了现代物质丰富时代的发现挑战。作者回顾了他们在音乐盗版方面的经历，以及 Spotify 等流媒体服务的兴起如何让音乐变得更容易获取，但也难以发现。他们认为，丰富的选择不仅限于音乐，还延伸到新闻、电影、书籍甚至消费品等其他领域。作者认为，依靠品味创造者并寻找个性化解决方案是驾驭这种丰富性的关键。他们还提到了算法和平台在策划内容和解决充足问题方面的作用。]]></description>
+      <guid>https://t.me/hn_summary/65216</guid>
+      <pubDate>Fri, 22 Dec 2023 17:59:37 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 变砖：您拥有任何数字产品吗？</title>
-      <link>https://t.me/hn_summary/65191</link>
-      <description><![CDATA[变砖：您拥有任何数字产品吗？&lt; br/&gt;
-本文讨论了数字内容的所有权问题。它重点介绍了亚马逊、索尼和博通的例子，以说明消费者实际上并不拥有他们购买的数字内容。作者提到亚马逊从 Kindle 电子阅读器中删除了乔治·奥威尔 (George Orwell) 的书籍，索尼决定不再允许用户在 PlayStation 上观看以前购买的视频内容，以及博通 (Broadcom) 终止对 VMware 的永久软件许可。文章建议，消费者可以通过使用 Calibre 和 Handbrake 等工具制作自己的数字内容副本来对抗这一趋势，尽管这在法律上可能是灰色的。作者还强调了开源软件作为保持对数字内容的控制的一种方式的重要性。]]></description>
-      <guid>https://t.me/hn_summary/65191</guid>
-      <pubDate>Fri, 22 Dec 2023 14:38:29 GMT</pubDate>
+      <title>[媒体]12月20日，著名视频游戏公司育碧遭到网络攻击 [...]</title>
+      <link>https://t.me/hn_summary/65215</link>
+      <description><![CDATA[12 月 20 日，未知威胁行为者入侵了 Ubisoft
+12 月 20 日，著名视频游戏公司育碧遭到未知威胁者发起的网络攻击。虽然泄露的细节仍不清楚，但育碧向用户保证，他们正在努力解决问题并加强安全措施。这一事件引发了人们对游戏行业最知名公司脆弱性的担忧。育碧热门游戏的游戏玩家和粉丝可能会想知道这对其个人信息和公司运营未来的潜在影响。请继续关注育碧调查这一意外泄露事件的最新动态。]]></description>
+      <guid>https://t.me/hn_summary/65215</guid>
+      <pubDate>Fri, 22 Dec 2023 17:54:24 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 该项目是使用 Rust 的 PL/0 语言的编译器实现。</title>
-      <link>https://t.me/hn_summary/65190</link>
-      <description><![CDATA[显示 HN：我用 Rust 实现的 pl/0 编译器（针对大学课程设计）
-该项目是使用 Rust 的 PL/0 语言的编译器实现。该项目的目的是作为南京航空航天大学编译原理课程的课程设计。 PL/0 是 Pascal 的子集语言。该项目包括词法分析器、解析器、代码生成器和虚拟机。作者提到词法分析器和解析器是使用递归下降算法实现的，并且该项目包括错误处理和完整的错误处理策略。该项目还包括一个证明，证明给定的 BNF 语法是 LL(1)。作者提供了斐波那契演示和错误处理演示作为示例。 （根据故事文本的 64% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/65190</guid>
-      <pubDate>Fri, 22 Dec 2023 14:37:22 GMT</pubDate>
+      <title>问 HN：最好的现代文件传输/同步协议？</title>
+      <link>https://t.me/hn_summary/65214</link>
+      <description><![CDATA[询问 HN：最佳现代文件传输/同步协议？
+news.ycombinator.com 上这篇文章的作者是寻求最佳现代文件传输/同步协议的建议。他们正在寻求构建一个系统，在网络上的两个设备之间传输文件，其中一个设备充当客户端，另一个充当服务器。作者承认他们可以使用原始 TCP 套接字创建自定义解决方案，但他们有兴趣探索现有选项以避免重新发明轮子。他们特别提到 FTP 是一种过时的技术，并表达了对内置容错能力的渴望，因为他们计划在连接可能中断的环境中的电话上使用该系统。]]></description>
+      <guid>https://t.me/hn_summary/65214</guid>
+      <pubDate>Fri, 22 Dec 2023 17:53:16 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 开发团队允许社区测试 Midjourney v6 的 alpha 版本 [...]</title>
-      <link>https://t.me/hn_summary/65189</link>
-      <description><![CDATA[Midjourney v6
-开发团队允许社区在寒假期间测试 Midjourney v6 的 alpha 版本。新版本包括更准确的提示跟随、更长的提示、改进的连贯性和模型知识、改进的图像提示和混音模式以及较小的文本绘制能力等改进。升级器也通过微妙和创造性的模式得到了改进。此次发布支持各种功能和参数，预计下个月将添加更多功能。建议用户明确提示并使用官方中途 Discord 服务器寻求帮助。该模型已在 Discord 上提供，并将很快向网站上的付费订阅者提供。这是 alpha 测试，模型会经常更改。提醒社区遵守社区标准并负责任地使用权力。]]></description>
-      <guid>https://t.me/hn_summary/65189</guid>
-      <pubDate>Fri, 22 Dec 2023 14:33:09 GMT</pubDate>
+      <title>[媒体]恢复性司法是一种伸张正义的方法，重点是修复所造成的伤害[...]</title>
+      <link>https://t.me/hn_summary/65213</link>
+      <description><![CDATA[恢复性司法
+恢复性司法是一种注重修复对受害者造成的伤害的司法方法。其目的是追究犯罪者的责任，帮助他们了解自己造成的伤害，并防止进一步的伤害。恢复性司法计划通常涉及受害者和犯罪者之间的会议，他们可以讨论犯罪的影响，并就如何修复伤害达成共识。研究表明，恢复性司法可以提高受害者的满意度和罪犯的责任感。然而，人们担心恢复性司法对学业成绩的影响以及再次受害的风险。自 20 世纪 90 年代以来，恢复性司法在世界范围内得到了发展，并且是更广泛的恢复性实践研究的一部分。 （根据故事文本的 19% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/65213</guid>
+      <pubDate>Fri, 22 Dec 2023 17:52:09 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Texify 是一个 GitHub 项目，它将方程和周围文本转换为 Markdown [...]</title>
-      <link>https://t.me/hn_summary/65188</link>
-      <description><![CDATA[显示 HN：Texify – OCR 数学图像到 LaTeX 和 Markdown
-Texify 是一个 GitHub 项目，它将方程和周围文本转换为可由 MathJax 渲染的 Markdown 和 LaTeX。它可以处理图像或 PDF，并且可以在 CPU、GPU 或 MPS 上运行。该项目旨在解决将数学图像转换为 LaTeX 或 Markdown 格式的问题，从而更轻松地将数学方程合并到文档或网页中。作者提到，Texify 与 pix2tex 和 nougat 等其他类似项目不同，因为它可以处理内联方程和文本，而其他项目则专为块 LaTeX 方程或 OCR 整个页面而设计。 Texify 接受了更广泛的网络数据集的训练，并可处理一系列图像。该项目提供了一个交互式应用程序，以及用于转换的命令行工具。]]></description>
-      <guid>https://t.me/hn_summary/65188</guid>
-      <pubDate>Fri, 22 Dec 2023 14:28:59 GMT</pubDate>
+      <title>[媒体] Dosei 引擎是一个开源平台，允许管理和调度 [...]</title>
+      <link>https://t.me/hn_summary/65212</link>
+      <description><![CDATA[展示 HN：在 Rust 上重写我们的引擎并走向开源
+Dosei Engine 是一个开源平台，允许跨多个主机管理和调度应用程序工作负载。该项目的目的是在 Rust 上重写引擎，并使其可以使用可用的源代码在本地完全部署。作者提到，闭源平台是建立在云原生服务之上的，但他们希望通过开放源代码使过渡更具协作性。该项目提供了入门选项，包括使用 Dosei Cloud 或使用预构建映像进行自托管。该引擎依赖于 PostgreSQL 和 Redis，作者鼓励用户贡献和提问。]]></description>
+      <guid>https://t.me/hn_summary/65212</guid>
+      <pubDate>Fri, 22 Dec 2023 17:41:59 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 大脑的规模与大脑的规模</title>
-      <link>https://t.me/hn_summary/65187</link>
-      <description><![CDATA[大脑与机器学习的规模（2022）
-作者从现代机器学习的角度对人脑进行了分析，及其对通用人工智能 (AGI) 发展的影响。他们讨论了神经元在不同大脑区域的分布，强调了小脑和下丘脑的巨大尺寸等令人惊讶的事情。他们还检查分配给不同皮质区域的神经元的比例，重点是语言理解和视觉。作者认为，当前的语言模型大致达到了人类的性能水平，而视觉模型仍然有几个数量级的提升。他们估计全脑的有效参数计数在当前大规模机器学习系统的 1-2 个数量级之内。 （根据故事文本的 54% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/65187</guid>
-      <pubDate>Fri, 22 Dec 2023 14:00:25 GMT</pubDate>
+      <title>[媒体] Relay Chess 是一款专为团队设计的突破性国际象棋平台。</title>
+      <link>https://t.me/hn_summary/65211</link>
+      <description><![CDATA[展示 HN：专为团队打造的国际象棋平台 
+Relay Chess 是专为团队设计的突破性国际象棋平台。通过接力象棋，您可以在协作和竞争的环境中体验与朋友、同事或国际象棋爱好者一起下棋的快感。该平台允许多个玩家轮流行动，创造独特且动态的游戏体验。无论您是初学者还是经验丰富的国际象棋棋手，接力棋都提供了一种有趣且引人入胜的方式来提高您的技能并与您的团队制定策略。所以今天就召集你的队友开始比赛吧！]]></description>
+      <guid>https://t.me/hn_summary/65211</guid>
+      <pubDate>Fri, 22 Dec 2023 17:40:51 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]此网页内容讲述了内华达州北部著名人物兰斯·吉尔曼 (Lance Gilman) 的故事 [...]</title>
-      <link>https://t.me/hn_summary/65186</link>
-      <description><![CDATA[内华达州的故事：特斯拉、谷歌和野马牧场
-该网络内容讲述了兰斯·吉尔曼 (Lance Gilman) 的故事，他是内华达州北部的知名人物，拥有野马牧场妓院，也是世界上最大的工业园区塔霍-里诺工业中心 (TRI) 的幕后策划者。这篇文章强调了吉尔曼在吸引特斯拉、谷歌和沃尔玛等跨国公司落户该地区方面所发挥的作用，以及他与渴望税收的官僚之间的斗争，这些官僚希望将 TRI 的巨额财产税从吉尔曼的选民手中分散出去。文章还深入探讨了吉尔曼的个人生活，包括他对美丽事物的热爱以及他与妓院的主要女士和他的生活伴侣詹妮弗·巴恩斯的关系。 （根据故事文本的 36% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/65186</guid>
-      <pubDate>Fri, 22 Dec 2023 13:59:13 GMT</pubDate>
+      <title>[媒体] 网络内容的作者讨论了他们运营托管公司的经验 [...]</title>
+      <link>https://t.me/hn_summary/65210</link>
+      <description><![CDATA[像我这样的人是你不应该经营托管公司的原因&lt; /a&gt;
+Web 内容的作者讨论了他们运营托管公司的经验，并探讨了 NextJS 14、应用程序路由器和 React 服务器组件。他们解释了新的异步反应技术如何允许隐式 API 调用以及如何处理服务器组件中的表单。作者还提到了使用 GET 参数来存储表单数据以及 Vercel 的限制，它将 URL 限制为 14kb。他们分享了在将输入输入 GET 参数之前对其进行压缩的解决方案。作者承认存在性能问题，但强调它是有效的。他们还提到了使用 LZString 库进行压缩。]]></description>
+      <guid>https://t.me/hn_summary/65210</guid>
+      <pubDate>Fri, 22 Dec 2023 17:40:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
