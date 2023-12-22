@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Fri, 22 Dec 2023 09:10:23 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 Dec 2023 15:05:28 GMT</lastBuildDate>
     <item>
-      <title>codemodder.io 网站引入了一个新的 codemod 库，名为 Codemodder for Java and Python。</title>
-      <link>https://t.me/hn_summary/65149</link>
-      <description><![CDATA[显示 HN：Codemodder – 适用于 Java 和 Python 的新 codemod 库&lt; /a&gt;
-网站 codemodder.io 引入了一个名为 Codemodder for Java 的新 codemod 库和Python。该库提供了一个名为 SecureRandomCodemod 的类，它是扩展 SarifPluginJavaParserChanger 的最终类。它包括一个检测规则，用于识别“new Random()”的实例并将其替换为“SecureRandom”。该类还包含一个名为 onResultFound 的方法，当找到匹配的实例时会触发该方法。此方法将对象创建表达式的类型更改为“SecureRandom”，并添加必要的导入语句（如果缺少）。该库旨在简化 Java 和 Python 代码修改的过程。]]></description>
-      <guid>https://t.me/hn_summary/65149</guid>
-      <pubDate>Fri, 22 Dec 2023 09:10:23 GMT</pubDate>
+      <title>[媒体]Microvenv 是一个 Python 模块，允许用户创建最小的虚拟环境 [...]</title>
+      <link>https://t.me/hn_summary/65195</link>
+      <description><![CDATA[Microvenv：创建最小虚拟环境
+Microvenv 是一个 Python 模块，当 venv 模块在其 Python 发行版中不可用时，它允许用户创建最小的虚拟环境。它可以作为创建虚拟环境的便携式替代方案，特别是对于旧版本的 Python。该模块还提供用于处理虚拟环境的实用程序代码。 CLI 用法允许用户在指定目录或默认的“.venv”目录中创建虚拟环境。该项目与 venv 模块的区别在于没有激活脚本且不支持 Windows。]]></description>
+      <guid>https://t.me/hn_summary/65195</guid>
+      <pubDate>Fri, 22 Dec 2023 15:05:28 GMT</pubDate>
     </item>
     <item>
-      <title>本文讨论了哈希函数的安全性，特别关注 [...]</title>
-      <link>https://t.me/hn_summary/65148</link>
-      <description><![CDATA[安全哈希冲突
-本文讨论了哈希函数的安全性，特别关注在 SHA-256 等安全哈希中生成冲突的可能性。作者探讨了哈希截断的概念，为了简洁起见，丢弃了一部分哈希数字。他们提供了哈希截断的真实示例，并解释了它如何在某些情况下潜在地提高哈希的安全性。作者还演示了他们使用台式计算机生成的 96 位截断 SHA256 碰撞。他们讨论了破解哈希函数的不同方法，包括朴素暴力和生日暴力，并引入 Pollard 的 Rho 算法作为查找哈希冲突的更有效方法。 （根据 45% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/65148</guid>
-      <pubDate>Fri, 22 Dec 2023 08:50:56 GMT</pubDate>
+      <title>[媒体] 这篇文章讨论了让语言模型 (LLM) 进展更快的方法。</title>
+      <link>https://t.me/hn_summary/65194</link>
+      <description><![CDATA[如何让法学硕士取得快速
+本文讨论了使语言模型 (LLM) 更快发展的方法。作者解释说，法学硕士中使用的传统自回归采样方法速度很慢，因为它在每个周期处理越来越多的标记。此外，法学硕士很大，需要大量 RAM，这会减慢处理速度。该文章提出了几种加速 LLM 的方法，包括使用更好的硬件（例如 GPU 或 TPU）、优化程序以充分利用硬件功能，以及使用编译器针对特定硬件优化代码。本文全面概述了这些优化技术及其对首次令牌时间、生成延迟、吞吐量和硬件利用率等指标的影响。 （根据故事文本的 12% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/65194</guid>
+      <pubDate>Fri, 22 Dec 2023 15:04:18 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 哥本哈格大学 DTU 研究人员开发的人工智能 (AI) [...]</title>
-      <link>https://t.me/hn_summary/65147</link>
-      <description><![CDATA[人工智能可以预测人们生活中的事件
-由 DTU、哥本哈根大学、国际电联和东北大学的研究人员开发的人工智能 (AI) 可以预测人们生活中的事件。通过使用大量数据和训练变压器模型，人工智能可以组织数据并准确预测性格特征等结果，甚至估计死亡时间。该模型称为 life2vec，将数据编码为数学结构并分析生命序列以做出预测。然而，研究人员承认围绕该模型的道德担忧，包括数据隐私和偏见。他们强调需要就此类技术的影响进行民主对话。研究的下一步是整合其他类型的信息，例如文本和图像，以进一步增强预测。]]></description>
-      <guid>https://t.me/hn_summary/65147</guid>
-      <pubDate>Fri, 22 Dec 2023 07:04:39 GMT</pubDate>
+      <title>作者分享了他们通过网络调查长达数月问题的经验，并 [...]</title>
+      <link>https://t.me/hn_summary/65193</link>
+      <description><![CDATA[并不总是 DNS – 除非是
+作者分享了他们调查长达数月的网络问题的经验，以及他们如何发现问题实际上是由 DNS 引起的。最初，他们怀疑入口控制器存在问题，但经过进一步调查，他们意识到这是一个网络问题。他们发现行为不当的 flutter-bit 代理和代理服务器导致了该问题，这两者都依赖于 DNS 解析。他们还发现其设置中的 DNS 缓存和 ndots 配置存在多个问题。通过解决这些问题，他们能够提高网络的性能。本文强调了拥有可靠的 SLI（服务水平指标）的重要性以及在排除网络问题时进行彻底调查的好处。 （根据 70% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/65193</guid>
+      <pubDate>Fri, 22 Dec 2023 15:02:04 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 博客文章的作者对 Web Com 的现状表示失望 [...]</title>
-      <link>https://t.me/hn_summary/65146</link>
-      <description><![CDATA[我们需要什么来代替“Web 组件”&lt; br/&gt;
-该博客文章的作者对 Web 组件的当前状态表示失望，并认为它们没有发挥其潜力。他们认为 Web 组件旨在解决的问题（例如语义元素和可重用性）并不是需要解决的最重要的问题。作者批评 Web 组件中笨重的 API 和缺乏真正的模板语言。他们建议浏览器制造商应该专注于改进反应性、DOM 渲染和自动调整 iframe 大小。作者最后强调需要新的解决方案来解决当代 Web 开发人员面临的挑战。 （根据 92% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/65146</guid>
-      <pubDate>Fri, 22 Dec 2023 07:04:32 GMT</pubDate>
+      <title>[媒体] GitHub 项目“actions-batch”是一个基于 GitHub Actions 构建的分时超级计算机。</title>
+      <link>https://t.me/hn_summary/65192</link>
+      <description><![CDATA[显示 HN：基于 GitHub Actions 构建的分时超级计算机
+GitHub 项目“actions-batch”是一个基于 GitHub Actions 构建的分时超级计算机。它允许用户在隔离且不可变的环境中运行 shell 脚本并收集日志或结果。该项目支持公共和私有存储库、自托管运行器和 GitHub 托管运行器。它还允许通过存储库机密使用机密并将构建结果下载为工件。作者提到，该项目的与众不同之处在于提供了可以在 Linux 系统上运行的各种工作负载的示例。该项目已获得麻省理工学院许可。]]></description>
+      <guid>https://t.me/hn_summary/65192</guid>
+      <pubDate>Fri, 22 Dec 2023 14:38:37 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]英国最高法院确认人工智能（AI）不能被命名为[...]</title>
-      <link>https://t.me/hn_summary/65145</link>
-      <description><![CDATA[英国最高法院确认人工智能不能为发明申请专利&lt; br/&gt;
-英国最高法院确认人工智能（AI）不能被指定为专利的发明人。该裁决规定，要授予专利，必须将一个人确定为发明人。然而，只要确定了人类发明人，该判决并不妨碍使用人工智能来设计发明。这一决定留下了这样的可能性：如果人类发明家使用人工智能创造发明，他们仍然可以申请专利。]]></description>
-      <guid>https://t.me/hn_summary/65145</guid>
-      <pubDate>Fri, 22 Dec 2023 06:55:19 GMT</pubDate>
+      <title>[媒体] 变砖：您拥有任何数字产品吗？</title>
+      <link>https://t.me/hn_summary/65191</link>
+      <description><![CDATA[变砖：您拥有任何数字产品吗？&lt; br/&gt;
+本文讨论了数字内容的所有权问题。它重点介绍了亚马逊、索尼和博通的例子，以说明消费者实际上并不拥有他们购买的数字内容。作者提到亚马逊从 Kindle 电子阅读器中删除了乔治·奥威尔 (George Orwell) 的书籍，索尼决定不再允许用户在 PlayStation 上观看以前购买的视频内容，以及博通 (Broadcom) 终止对 VMware 的永久软件许可。文章建议，消费者可以通过使用 Calibre 和 Handbrake 等工具制作自己的数字内容副本来对抗这一趋势，尽管这在法律上可能是灰色的。作者还强调了开源软件作为保持对数字内容的控制的一种方式的重要性。]]></description>
+      <guid>https://t.me/hn_summary/65191</guid>
+      <pubDate>Fri, 22 Dec 2023 14:38:29 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]挪威游轮 MS Maud 遭遇停电，失去航行能力 [...]</title>
-      <link>https://t.me/hn_summary/65144</link>
-      <description><![CDATA[海浪击碎窗户后游轮在北海失去动力和雷达
-挪威游轮“莫德”号在北海遭遇断电，海浪击碎了舰桥上的窗户，导致其失去航行能力。这艘载有266名乘客和131名船员的船在丹麦西海岸航行时，强风导致窗户破裂，进水并导致停电。该船的船东海达路德证实，没有造成严重伤害，船舶状况保持稳定。一艘拖船计划抵达协助该船，该船正在机舱手动驾驶。]]></description>
-      <guid>https://t.me/hn_summary/65144</guid>
-      <pubDate>Fri, 22 Dec 2023 06:53:12 GMT</pubDate>
+      <title>[媒体] 该项目是使用 Rust 的 PL/0 语言的编译器实现。</title>
+      <link>https://t.me/hn_summary/65190</link>
+      <description><![CDATA[显示 HN：我用 Rust 实现的 pl/0 编译器（针对大学课程设计）
+该项目是使用 Rust 的 PL/0 语言的编译器实现。该项目的目的是作为南京航空航天大学编译原理课程的课程设计。 PL/0 是 Pascal 的子集语言。该项目包括词法分析器、解析器、代码生成器和虚拟机。作者提到词法分析器和解析器是使用递归下降算法实现的，并且该项目包括错误处理和完整的错误处理策略。该项目还包括一个证明，证明给定的 BNF 语法是 LL(1)。作者提供了斐波那契演示和错误处理演示作为示例。 （根据故事文本的 64% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/65190</guid>
+      <pubDate>Fri, 22 Dec 2023 14:37:22 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]美国航空已与 Breakthrough Energy 和 Google 合作测试 contrail-r [...]</title>
-      <link>https://t.me/hn_summary/65143</link>
-      <description><![CDATA[美国航空展示了减少轨迹的技术
-美国航空已与 Breakthrough Energy 和谷歌合作测试减少轨迹的技术。凝结尾迹是由飞机尾气中的冰晶形成的人造云，通过捕获地球大气中的热量而导致全球变暖。通过使用卫星数据和机器学习，这些组织能够预测凝结尾迹的形成位置，并将这些预测集成到飞行员的飞行计划软件中。该软件在试飞期间将轨迹创建减少了 54%。然而，额外的操作增加了约 2% 的燃料使用量，凸显了平衡气候效益与额外排放的必要性。这些组织计划扩大实验范围，让其他航空公司和空中交通管制组织参与其中。]]></description>
-      <guid>https://t.me/hn_summary/65143</guid>
-      <pubDate>Fri, 22 Dec 2023 06:49:04 GMT</pubDate>
+      <title>[媒体] 开发团队允许社区测试 Midjourney v6 的 alpha 版本 [...]</title>
+      <link>https://t.me/hn_summary/65189</link>
+      <description><![CDATA[Midjourney v6
+开发团队允许社区在寒假期间测试 Midjourney v6 的 alpha 版本。新版本包括更准确的提示跟随、更长的提示、改进的连贯性和模型知识、改进的图像提示和混音模式以及较小的文本绘制能力等改进。升级器也通过微妙和创造性的模式得到了改进。此次发布支持各种功能和参数，预计下个月将添加更多功能。建议用户明确提示并使用官方中途 Discord 服务器寻求帮助。该模型已在 Discord 上提供，并将很快向网站上的付费订阅者提供。这是 alpha 测试，模型会经常更改。提醒社区遵守社区标准并负责任地使用权力。]]></description>
+      <guid>https://t.me/hn_summary/65189</guid>
+      <pubDate>Fri, 22 Dec 2023 14:33:09 GMT</pubDate>
     </item>
     <item>
-      <title>一家名为 Patronus AI 的初创公司进行了一项测试，以确定大型语言模型（例如 C [...]</title>
-      <link>https://t.me/hn_summary/65142</link>
-      <description><![CDATA[一家初创公司测试了 ChatGPT 和其他人工智能是否可以理解 SEC 文件
-一家名为 Patronus AI 的初创公司进行了一项测试，以确定 ChatGPT 等大型语言模型是否可以有效理解美国证券交易委员会 (SEC) 的文件。研究人员发现，即使是性能最好的模型 OpenAI 的 GPT-4-Turbo，当允许访问整个文件以及问题时，也只能正确回答 79% 的问题。这些模特经常拒绝回答或提供文件中未发现的错误信息。这引起了人们对金融等受监管行业中人工智能模型可靠性和准确性的担忧。 Patronus AI 旨在自动测试语言模型，以确保它们提供准确可靠的结果。]]></description>
-      <guid>https://t.me/hn_summary/65142</guid>
-      <pubDate>Fri, 22 Dec 2023 06:46:56 GMT</pubDate>
+      <title>[媒体]Texify 是一个 GitHub 项目，它将方程和周围文本转换为 Markdown [...]</title>
+      <link>https://t.me/hn_summary/65188</link>
+      <description><![CDATA[显示 HN：Texify – OCR 数学图像到 LaTeX 和 Markdown
+Texify 是一个 GitHub 项目，它将方程和周围文本转换为可由 MathJax 渲染的 Markdown 和 LaTeX。它可以处理图像或 PDF，并且可以在 CPU、GPU 或 MPS 上运行。该项目旨在解决将数学图像转换为 LaTeX 或 Markdown 格式的问题，从而更轻松地将数学方程合并到文档或网页中。作者提到，Texify 与 pix2tex 和 nougat 等其他类似项目不同，因为它可以处理内联方程和文本，而其他项目则专为块 LaTeX 方程或 OCR 整个页面而设计。 Texify 接受了更广泛的网络数据集的训练，并可处理一系列图像。该项目提供了一个交互式应用程序，以及用于转换的命令行工具。]]></description>
+      <guid>https://t.me/hn_summary/65188</guid>
+      <pubDate>Fri, 22 Dec 2023 14:28:59 GMT</pubDate>
     </item>
     <item>
-      <title>本文讨论了为什么 Emacs 的键盘快捷键集被认为是最差的 [...]</title>
-      <link>https://t.me/hn_summary/65141</link>
-      <description><![CDATA[为什么 Emacs 按键很痛苦
-文章讨论了为什么 Emacs 的键盘快捷键设置被认为在人体工程学方面是最差的。它解释说，Emacs 按键的布局是基于 20 世纪 70 年代末 Lisp Machines 使用的键盘，与现代 PC 键盘相比，它的 Ctrl 和 Meta 键交换了。这意味着 Emacs 中常用的命令涉及 Ctrl 键而不是 Meta 键。文章强调，这种设计选择给许多 Emacs 用户带来了不适和伤害，而且常用命令的按键选择并不是基于按键位置或按下的难易程度。它还提到 Emacs 的一些主要快捷方式映射到当今很少使用的命令。该文章建议 Emacs 应考虑调整其键绑定以适应现代 PC 键盘的布局，以改善人体工程学。 （根据 71% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/65141</guid>
-      <pubDate>Fri, 22 Dec 2023 06:02:30 GMT</pubDate>
+      <title>[媒体] 大脑的规模与大脑的规模</title>
+      <link>https://t.me/hn_summary/65187</link>
+      <description><![CDATA[大脑与机器学习的规模（2022）
+作者从现代机器学习的角度对人脑进行了分析，及其对通用人工智能 (AGI) 发展的影响。他们讨论了神经元在不同大脑区域的分布，强调了小脑和下丘脑的巨大尺寸等令人惊讶的事情。他们还检查分配给不同皮质区域的神经元的比例，重点是语言理解和视觉。作者认为，当前的语言模型大致达到了人类的性能水平，而视觉模型仍然有几个数量级的提升。他们估计全脑的有效参数计数在当前大规模机器学习系统的 1-2 个数量级之内。 （根据故事文本的 54% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/65187</guid>
+      <pubDate>Fri, 22 Dec 2023 14:00:25 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Substack 是时事通讯作者的热门平台，已表示不会删除 [...]</title>
-      <link>https://t.me/hn_summary/65140</link>
-      <description><![CDATA[Substack 表示不会删除或取消纳粹内容的货币化 
-Substack 是一个深受时事通讯作者欢迎的平台，它表示不会删除或取消纳粹内容的货币化。超过 200 名 Substack 作者对该平台托管纳粹内容并通过其货币化的决定表示担忧，促使联合创始人哈米什·麦肯齐 (Hamish McKenzie) 做出回应。麦肯齐承认，虽然他们不支持或纵容极端主义观点，但他们认为审查制度和废钞只会加剧问题。这与 Substack 之前的节制立场一致，他们采取了不干涉的态度。 《大西洋月刊》报道了 Substack 出版物上带有纳粹符号并支持白人民族主义观点后，引发了争议。麦肯齐的回应还针对一位发表种族主义观点的嘉宾的播客节目，表示他当时并不知道该嘉宾过去的著作。]]></description>
-      <guid>https://t.me/hn_summary/65140</guid>
-      <pubDate>Fri, 22 Dec 2023 05:54:16 GMT</pubDate>
+      <title>[媒体]此网页内容讲述了内华达州北部著名人物兰斯·吉尔曼 (Lance Gilman) 的故事 [...]</title>
+      <link>https://t.me/hn_summary/65186</link>
+      <description><![CDATA[内华达州的故事：特斯拉、谷歌和野马牧场
+该网络内容讲述了兰斯·吉尔曼 (Lance Gilman) 的故事，他是内华达州北部的知名人物，拥有野马牧场妓院，也是世界上最大的工业园区塔霍-里诺工业中心 (TRI) 的幕后策划者。这篇文章强调了吉尔曼在吸引特斯拉、谷歌和沃尔玛等跨国公司落户该地区方面所发挥的作用，以及他与渴望税收的官僚之间的斗争，这些官僚希望将 TRI 的巨额财产税从吉尔曼的选民手中分散出去。文章还深入探讨了吉尔曼的个人生活，包括他对美丽事物的热爱以及他与妓院的主要女士和他的生活伴侣詹妮弗·巴恩斯的关系。 （根据故事文本的 36% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/65186</guid>
+      <pubDate>Fri, 22 Dec 2023 13:59:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
