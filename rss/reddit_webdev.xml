@@ -4,111 +4,111 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 23 Dec 2023 09:11:13 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 23 Dec 2023 15:11:19 GMT</lastBuildDate>
     <item>
-      <title>具有针对特定客户的逻辑的 Web 应用程序</title>
-      <link>https://www.reddit.com/r/webdev/comments/18p1mto/webapp_with_logic_for_specific_customers/</link>
-      <description><![CDATA[网络开发社区您好。  我最近加入了一家公司，该公司开发了一个网络应用程序，该应用程序具有在欧盟境内开展业务所需的基本用例。但由于我们的客户之间的流程有所不同，他们通常希望我们的应用程序包含专门针对他们的用例的逻辑（这可以包括新的表单字段到自定义验证逻辑、后端/前端中的逻辑、​​样式或不同的 html 布局）。 我们当前的解决方案是为每个客户提供一组专门的设置来打开和关闭功能。这将为我们提供“转移”的优势。从一个客户到另一个客户的客户特定逻辑。但这会导致代码臃肿、难以维护和测试，尤其是在代码库增长了几年的情况下。 所以我的问题是，您有满足此类需求的经验吗？对于这个用例，您是否有更好的方法或特定的范例或框架？   由   提交 /u/CommanderSpeed   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18p1mto/webapp_with_logic_for_specific_customers/</guid>
-      <pubDate>Sat, 23 Dec 2023 08:52:21 GMT</pubDate>
+      <title>2024 年 Web 开发与云</title>
+      <link>https://www.reddit.com/r/webdev/comments/18p7c13/web_dev_vs_cloud_in_2024/</link>
+      <description><![CDATA[你好！ 我是一名 6 岁的系统分析师，正在尝试找到 Web 开发和云计算之间的方法。我想尝试一下编程。主要想法是找到好的自由职业来支持我的贷款和EMI。  Web 开发市场有太多有志者吗？如果是这样，新开发者如何才能脱颖而出？如果你现在开始，你会选择 Web 开发而不是云吗？如果我说云提供了比 Web 开发更高的进入门槛，你会同意吗？ I我只是想更好地了解这个市场并做出选择。如果您能就此提出您的想法，那就太好了。感谢您抽出时间。   由   提交/u/bluedjinn758   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18p7c13/web_dev_vs_cloud_in_2024/</guid>
+      <pubDate>Sat, 23 Dec 2023 14:56:17 GMT</pubDate>
     </item>
     <item>
-      <title>存储客户付款信息</title>
-      <link>https://www.reddit.com/r/webdev/comments/18p1jps/storing_customer_payment_information/</link>
-      <description><![CDATA[大家好。我即将推出一个应用程序，我需要一种方法来收集客户付款信息并在以后向他们收费。 无法将此敏感信息存储在我的服务器上，因此我正在寻找付款方式提供此服务的提供商。 我正在寻找的一个很好的例子是Stripe 的“保存和重用”功能https://stripe.com/docs/ payments/save-and-reuse。 [Stripe 在我的国家/地区尚不可用] 非常感谢所有帮助。谢谢！   由   提交 /u/inventivepoet   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18p1jps/storing_customer_payment_information/</guid>
-      <pubDate>Sat, 23 Dec 2023 08:46:03 GMT</pubDate>
+      <title>[周六炫耀] 🚀 开源 CMS</title>
+      <link>https://www.reddit.com/r/webdev/comments/18p6pbz/showoff_saturday_open_source_cms/</link>
+      <description><![CDATA[大家好！很高兴与您分享 Raytha CMS。它是 GitHub 上的 MIT 开源项目。  如果您想将静态 HTML 网站转变为功能齐全的 CMS，而无需后端编码或持续部署，那么您将会得到满足。您可以直接在 CMS 平台内创建和更新自定义内容类型以及 HTML 模板。 此外，它还为您的所有内容类型提供内置的 Headless REST API，类似于 Strapi。  功能亮点：  内容类型： 轻松创建和自定义内容类型，无需更改代码。 &lt; strong&gt;基于角色的访问控制：设计具有特定访问权限的自定义角色，并将其分配给各个用户。 内置模板引擎：轻松修改平台内的模板使用流行的 Liquid 模板引擎。 无头模式：根据您的内容即时访问为您自动生成的 REST API。 审核日志：内置审核跟踪，可跟踪为增强安全性所做的所有编辑。 单点登录：SAML 和 Json Web 令牌身份验证可在管理员和公共用户的框。 修订：存储所有内容和模板的修订，使您能够在需要时返回并恢复到以前的版本。 文件存储：该平台默认支持本地文件存储，但如果需要，可以启用 Azure Blob 或 S3 兼容等云存储选项。  &lt; p&gt;🚀 如果您只是想尝试 CMS 看看是否喜欢它，而不必在本地运行它，您可以启动一个演示实例 免费。 如果您好奇的话，可以观看一些 YouTube 视频：  只需几分钟即可将静态 HTML 转换为 CMS。 轻松设置 API分钟。   欢迎提供反馈和源代码贡献。 Github star 受到赞赏！谢谢！   由   提交/u/apexdodge  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18p6pbz/showoff_saturday_open_source_cms/</guid>
+      <pubDate>Sat, 23 Dec 2023 14:23:28 GMT</pubDate>
     </item>
     <item>
-      <title>2024 年前端开发路线图和清单</title>
-      <link>https://www.reddit.com/r/webdev/comments/18p0xc6/2024_frontend_development_roadmap_and_checklist/</link>
-      <description><![CDATA[       由   提交/u/pai-cube  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18p0xc6/2024_frontend_development_roadmap_and_checklist/</guid>
-      <pubDate>Sat, 23 Dec 2023 08:00:57 GMT</pubDate>
+      <title>作为一个有趣的副项目，我已经在这个时间轴网站上工作了一段时间了，有什么想法吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/18p6ova/have_been_working_on_this_timeline_website_for_a/</link>
+      <description><![CDATA[       由   提交 /u/Alx__   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18p6ova/have_been_working_on_this_timeline_website_for_a/</guid>
+      <pubDate>Sat, 23 Dec 2023 14:22:49 GMT</pubDate>
     </item>
     <item>
-      <title>我制作了一个关于 WebGL 的介绍视频并深入了解网络上的 3D 图形</title>
-      <link>https://www.reddit.com/r/webdev/comments/18p0gvl/i_made_an_introductory_video_on_webgl_and_getting/</link>
-      <description><![CDATA[几个月前，我在网络上进行了第一个 3D 实验。这是我用 Three.js 构建的未知乐趣专辑封面的可视化工具。 一些 Web 开发人员提到他们如何处理普通的 HTML 和 CSS，以及 3D 图形对他们来说看起来遥不可及。他们问我是如何创建它的。 因此，来自同一个地方，并且作为该主题的初学者，我认为这是我制作视频并分享我的内容的最佳时机。已经学会了。也许这会鼓励其他人毫无恐惧地开始他们的旅程。 在此处观看视频： https://www.youtube.com/watch?v=7eDGJ5okDGw 在此处查看原始实验： https://pouria.dev/unknown-pleasures ​   由   提交/u/poeti8  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18p0gvl/i_made_an_introductory_video_on_webgl_and_getting/</guid>
-      <pubDate>Sat, 23 Dec 2023 07:28:00 GMT</pubDate>
+      <title>[炫耀星期六] 我们的电影传奇订购网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/18p6cfq/show_off_saturday_our_movie_saga_ordering_website/</link>
+      <description><![CDATA[URL：https://movie -saga.com/ 目的：由于很多电影都有前传、电视剧……我想以一种方便的方式展示一些传奇故事现有的观看顺序（即星球大战、速度与激情...） 使用的技术：由于它主要是一个面向设计的项目，所以我使用了 html、css &amp; jekyll/liquid 它使得添加新页面和传奇变得非常高效。 这篇文章的目的是炫耀，但也询问您是否可以提供一些有关文本集成的建议。我真的很喜欢基本页面，但是当你开始选择一个传奇时，底部显示的文本感觉有点沉重（按什么顺序观看......，概要） 但同时我需要一些用于 SEO 目的的文本，您将如何处理？ 谢谢:)   由   提交 /u/FireNunchuks   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18p6cfq/show_off_saturday_our_movie_saga_ordering_website/</guid>
+      <pubDate>Sat, 23 Dec 2023 14:04:04 GMT</pubDate>
     </item>
     <item>
-      <title>我经常从 Stackoverflow/Github 等复制代码来要求 ChatGPT 解释它，所以我制作了一个 Chrome 扩展来轻松完成此操作，而无需离开页面。</title>
-      <link>https://www.reddit.com/r/webdev/comments/18p0daj/i_often_copy_code_from_stackoverflow_github_etc/</link>
-      <description><![CDATA[   /u/WordyBug  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18p0daj/i_often_copy_code_from_stackoverflow_github_etc/</guid>
-      <pubDate>Sat, 23 Dec 2023 07:20:44 GMT</pubDate>
+      <title>000webhost 首先加载我网站的旧版本</title>
+      <link>https://www.reddit.com/r/webdev/comments/18p5tbz/000webhost_is_loading_the_older_version_of_my/</link>
+      <description><![CDATA[当我在加载新版本之前加载网站时，它会显示旧版本   由   提交 /u/Mrcool654321   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18p5tbz/000webhost_is_loading_the_older_version_of_my/</guid>
+      <pubDate>Sat, 23 Dec 2023 13:35:15 GMT</pubDate>
     </item>
     <item>
-      <title>部署廉价的 ML Web 应用程序</title>
-      <link>https://www.reddit.com/r/webdev/comments/18ozboo/deploying_cheap_ml_web_app/</link>
-      <description><![CDATA[如何低成本部署机器学习 Web 应用程序？有没有办法使用访问网站的用户本地cpu-gpu进行处理？   由   提交/u/OkRestaurant9285   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18ozboo/deploying_cheap_ml_web_app/</guid>
-      <pubDate>Sat, 23 Dec 2023 06:11:20 GMT</pubDate>
+      <title>使用网格为前端开发人员制作了简历网站模板（您可以复制）。</title>
+      <link>https://www.reddit.com/r/webdev/comments/18p5slp/made_a_resume_website_template_for_frontend_devs/</link>
+      <description><![CDATA[       由   提交/u/George_Argyrousis   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18p5slp/made_a_resume_website_template_for_frontend_devs/</guid>
+      <pubDate>Sat, 23 Dec 2023 13:34:08 GMT</pubDate>
     </item>
     <item>
-      <title>[Showoff Saturday]我创建了一个音频采样工具</title>
-      <link>https://www.reddit.com/r/webdev/comments/18oyjnm/showoff_saturday_i_created_an_audio_sampling_tool/</link>
-      <description><![CDATA[ 此工具适用于 yt-dlp 支持的任何网站。  使用 ffmpeg 提取音频。  音频的波形数据是使用audiowaveform生成的 这3个库在Nodejs托管中运行通过 Dockerfile 在渲染中的免费层上。 波形数据然后发送到前端并馈送到wavesurfer.js 启动交互式音频采样器。然后，您可以选择所需的音频剪辑并将其下载为 .wav 文件。（更多使用信息此处） 前端托管在 Cloudflare Pages 上。它也是免费的，哈哈 来源 代码。  Sampurr   由   提交 /u/twiart   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18oyjnm/showoff_saturday_i_created_an_audio_sampling_tool/</guid>
-      <pubDate>Sat, 23 Dec 2023 05:24:24 GMT</pubDate>
+      <title>与您的团队一起直观地规划您的 API，加快您的开发速度！</title>
+      <link>https://www.reddit.com/r/webdev/comments/18p5lyj/speed_up_your_development_by_planning_your_apis/</link>
+      <description><![CDATA[       由   提交/u/iskandarchacra   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18p5lyj/speed_up_your_development_by_planning_your_apis/</guid>
+      <pubDate>Sat, 23 Dec 2023 13:23:57 GMT</pubDate>
     </item>
     <item>
-      <title>使用 Three.js 的作品集网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/18oyje1/portfolio_website_using_threejs/</link>
-      <description><![CDATA[嘿伙计们， 我终于完成了我的网站。说实话，我很久以前就完成了它，最后决定停止更改它，直接将其推送。 主页使用 Three.js，我真的很喜欢这样的交互式页面，玩起来很有趣。  Leo Oryn 欢迎提供反馈 &lt; !-- SC_ON --&gt;  由   提交 /u/GlitchisOnline   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18oyje1/portfolio_website_using_threejs/</guid>
-      <pubDate>Sat, 23 Dec 2023 05:23:56 GMT</pubDate>
+      <title>这里是新手 - 我正在寻找/设计一款通过 Zoom 与朋友一起玩的在线游戏。我需要一些提示，拜托！</title>
+      <link>https://www.reddit.com/r/webdev/comments/18p54qt/novice_here_im_looking_to_finddesign_an_online/</link>
+      <description><![CDATA[您好！我要举办一场变焦圣诞派对，我想玩猜谜游戏。我需要一个可供多个用户同时使用的随机生成器。基本上它是为了取代凭空绘制选项的功能。当我们使用一种选择时，我们就将它从帽子里拿出来。有许多随机名称生成器，但“删除选项”一次仅适用于一个客户端。我可以通过什么平台来解决这个问题？提前致谢！    由   提交/u/palebluekat   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18p54qt/novice_here_im_looking_to_finddesign_an_online/</guid>
+      <pubDate>Sat, 23 Dec 2023 12:55:57 GMT</pubDate>
     </item>
     <item>
-      <title>Web 组件将比 JavaScript 框架更长寿</title>
-      <link>https://www.reddit.com/r/webdev/comments/18oy5tn/web_components_will_outlive_your_javascript/</link>
-      <description><![CDATA[       由   提交/u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18oy5tn/web_components_will_outlive_your_javascript/</guid>
-      <pubDate>Sat, 23 Dec 2023 05:01:40 GMT</pubDate>
+      <title>我想为项目创建一个网站，但我不知道要创建什么。</title>
+      <link>https://www.reddit.com/r/webdev/comments/18p510j/i_want_to_create_a_website_for_project_but_i_dont/</link>
+      <description><![CDATA[该项目应该是 5 个长 HTML 页面。 对网站功能有什么想法吗？ 我正在考虑每页都做一个武术介绍。但我真的很讨厌在开始之前做研究部分并花几个小时写高中作业。 我仍然是一个初学者，但我绝对愿意学习新事物并提高我的技能。 我仍然是一个初学者，但我绝对愿意学习新事物并提高我的技能。 p&gt;   由   提交/u/RestingBitchFace_1   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18p510j/i_want_to_create_a_website_for_project_but_i_dont/</guid>
+      <pubDate>Sat, 23 Dec 2023 12:49:33 GMT</pubDate>
     </item>
     <item>
-      <title>一个易于部署的非百科全书式档案数据库。</title>
-      <link>https://www.reddit.com/r/webdev/comments/18owuvi/an_easily_deployable_archival_database_that_is/</link>
-      <description><![CDATA[您好， 我目前正在寻找一种解决方案，以低成本创建用于非营利目的的档案数据库。我能想到的一个例子是 ArQuives 的网站  [https://collections.arquives.ca]    由   提交/u/Ill-Pension-525   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18owuvi/an_easily_deployable_archival_database_that_is/</guid>
-      <pubDate>Sat, 23 Dec 2023 03:45:37 GMT</pubDate>
+      <title>像 GSAP 这样的动画库是否使用 element.animate 或 requestAnimationFrame 还是还有其他东西？</title>
+      <link>https://www.reddit.com/r/webdev/comments/18p4z9p/do_animation_libraries_like_gsap_use/</link>
+      <description><![CDATA[我的理解是element.animate类似于CSS动画，它们在检查元素时不会显示在dom上。 GSAP 的动画使用变换或任何要动画化的属性不断更新 DOM 元素。我的问题是他们如何实现如此像素完美的动画，因为 requestAnimationFrame 的计时功能几乎永远不会达到 100%。   由   提交 /u/green_viper_   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18p4z9p/do_animation_libraries_like_gsap_use/</guid>
+      <pubDate>Sat, 23 Dec 2023 12:46:28 GMT</pubDate>
     </item>
     <item>
-      <title>分布式系统中的乐观与悲观</title>
-      <link>https://www.reddit.com/r/webdev/comments/18ow584/optimism_vs_pessimism_in_distributed_systems/</link>
-      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18ow584/optimism_vs_pessimism_in_distributed_systems/</guid>
-      <pubDate>Sat, 23 Dec 2023 03:05:07 GMT</pubDate>
+      <title>Puck - React 的开源可视化编辑器。 Builder.io / WordPress 的替代品。</title>
+      <link>https://www.reddit.com/r/webdev/comments/18p4tcq/puck_opensource_visual_editor_for_react/</link>
+      <description><![CDATA[    /u/DigbyChickenCaeser   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18p4tcq/puck_opensource_visual_editor_for_react/</guid>
+      <pubDate>Sat, 23 Dec 2023 12:36:22 GMT</pubDate>
     </item>
     <item>
-      <title>哪个 AI API 可以回答有来源的问题？</title>
-      <link>https://www.reddit.com/r/webdev/comments/18ovtqm/which_ai_api_can_answer_a_question_with_sources/</link>
-      <description><![CDATA[我以为我可以使用 Perplexity 来实现此目的，但我尝试了 pplx-70b-online ，但似乎不能引用消息来源。有没有什么东西可以做到这一点，可以用作 API？ 我想通过结合 SERP API、基本抓取和一些 LLM 来提取信息来创建这样的 API 并不是太困难.   由   提交 /u/adaboese   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18ovtqm/which_ai_api_can_answer_a_question_with_sources/</guid>
-      <pubDate>Sat, 23 Dec 2023 02:47:26 GMT</pubDate>
+      <title>我的互动个人主页。</title>
+      <link>https://www.reddit.com/r/webdev/comments/18p4tbn/my_interactive_personal_homepage/</link>
+      <description><![CDATA[   八月份我花了几个晚上在这上面，并且在过去的几个周末度过了稍微抛光一下。它模拟了一台计算机几年前我手工焊接的。与此同时，我用 Z80 汇编语言和 C 语言编写了一些游戏，这些游戏可以在 BASIC 中运行，详细信息请参阅帮助命令。如果您愿意，您也可以随意编写自己的 BASIC 程序。 要返回我编写的机器语言监视器（类似于原始 Apple 1 的 wozmon），请键入“monitor”然后从 BASIC 中按 Enter 键。从那里，您可以使用 R 命令在内存中进行查看。键入 R，后跟两个十六进制的 16 位数字，它将打印内存中这两个值之间的数据。或者使用E命令在特定地址执行代码，BASIC在ROM中的地址0100处，所有游戏都在地址9000处加载。ROM上还有一些空间，所以在地址1EC6处有一个小程序打印出一张我女朋友的照片。 如有任何反馈，我们将不胜感激！ 链接https://james. bray.im   由   提交/u/yarbsemaj   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18p4tbn/my_interactive_personal_homepage/</guid>
+      <pubDate>Sat, 23 Dec 2023 12:36:18 GMT</pubDate>
     </item>
     <item>
-      <title>具有搜索功能的自定义选择选项 - html scss vanilla js</title>
-      <link>https://www.reddit.com/r/webdev/comments/18oulpw/custom_select_option_with_search_function_html/</link>
-      <description><![CDATA[      我怎样才能以一种好的方式构建它，因为我知道 sselect 和 option 不能真正定制，因为它们是使用浏览器/操作系统创建的。但我的列表可能有 10-20 个选项   由   提交/u/Equal-Web-13  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18oulpw/custom_select_option_with_search_function_html/</guid>
-      <pubDate>Sat, 23 Dec 2023 01:41:30 GMT</pubDate>
+      <title>简历的中等文章？</title>
+      <link>https://www.reddit.com/r/webdev/comments/18p4rlw/medium_articles_for_resume/</link>
+      <description><![CDATA[大家好！希望每个人都做得很好。我有个问题。如果我为不同的技术撰写中等文章，我们今天将用于软件开发。它会丰富我的简历并为我带来更多工作吗？   由   提交/u/Character-Ad-618   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18p4rlw/medium_articles_for_resume/</guid>
+      <pubDate>Sat, 23 Dec 2023 12:33:15 GMT</pubDate>
     </item>
     <item>
-      <title>使 CRDT 效率提高 98%</title>
-      <link>https://www.reddit.com/r/webdev/comments/18ouayf/making_crdts_98_more_efficient/</link>
-      <description><![CDATA[   /u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18ouayf/making_crdts_98_more_efficient/</guid>
-      <pubDate>Sat, 23 Dec 2023 01:25:44 GMT</pubDate>
+      <title>[Showoff Saturday] - Lost Pixel Platform - Percy、Applitools、Chromatic 的开源替代品（视觉回归测试）</title>
+      <link>https://www.reddit.com/r/webdev/comments/18p4ngy/showoff_saturday_lost_pixel_platform_opensource/</link>
+      <description><![CDATA[       由   提交 /u/dimaivshchk   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18p4ngy/showoff_saturday_lost_pixel_platform_opensource/</guid>
+      <pubDate>Sat, 23 Dec 2023 12:26:02 GMT</pubDate>
     </item>
     <item>
-      <title>从 /vendor 文件夹提供服务</title>
-      <link>https://www.reddit.com/r/webdev/comments/18otw6e/serving_from_the_vendor_folder/</link>
-      <description><![CDATA[因此，如果我使用 Composer 安装 jQuery，Heroku 将不允许我从 /vendor/components/ 提供该文件jquery/.我一直在与 ChatGPT 努力想出一个解决方法。 Heroku 很聪明，我无法通过更改 composer.json 中的 vendor-dir 来欺骗它来提供文件。 现在，我确实了解锁定 /vendor 的安全隐患，而且我也了解从 CDN 加载 jQuery 非常简单，但我很难理解一些事情。 &lt; ol&gt; 如果大多数系统不允许您从安装位置加载 jQuery，那么 Composer 能够安装 jQuery 的意义何在？ 我从未使用过像 Webpack 或这样的构建工具PHP 项目的 Laravel mix。它们看起来太重了而且太“神奇”了。适合我的口味。我实在不明白他们在做什么。即使对于简单的事情，包含如此多的工具真的是最佳实践吗？  所以我想我的问题更少，我如何解决这个特定问题，更多的是，为什么 是这样设计的，所以这些工具会阻止彼此按照它们的设计方式工作吗？   由   提交 /u/Quartersharp   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18otw6e/serving_from_the_vendor_folder/</guid>
-      <pubDate>Sat, 23 Dec 2023 01:04:13 GMT</pubDate>
+      <title>如何限制对我的公共“API”的访问？</title>
+      <link>https://www.reddit.com/r/webdev/comments/18p4ksc/how_to_limit_access_to_my_public_api/</link>
+      <description><![CDATA[它并不是真正的 API，但我不知道该怎么称呼它。我猜是数据处理程序。 我有一个名为 data.php 的文件，我的应用程序每 12 秒请求一次，以从数据库获取更新的信息。它响应帖子请求。如何确保请求仅来自我的网站，并阻止用户直接访问文件或形成自己的发布请求来访问数据？ 我考虑过在 PHP 中创建用户密钥，存储在他们的会话中，并在 post 请求中检查它，但用户将能够在 post 请求中看到 ID，并在自己的请求中使用它。有什么想法吗？   由   提交 /u/Produkt   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18p4ksc/how_to_limit_access_to_my_public_api/</guid>
+      <pubDate>Sat, 23 Dec 2023 12:20:57 GMT</pubDate>
     </item>
     </channel>
 </rss>
