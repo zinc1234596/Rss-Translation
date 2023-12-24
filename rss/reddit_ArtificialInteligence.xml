@@ -4,16 +4,30 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sun, 24 Dec 2023 18:12:23 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 Dec 2023 21:09:03 GMT</lastBuildDate>
     <item>
-      <title>MGS AI 生成的编解码器对话 - 这是如何完成的？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/18pzn65/mgs_ai_generated_codec_conversations_how_was_this/</link>
-      <description><![CDATA[我指的是视频：https: //www.youtube.com/watch?v=xS3s03H26KU 我不确定这是否是发布此内容的正确位置。如果有更好的子 reddit，请为我链接。 我不太关心模拟编解码器屏幕的整个视觉方面，但我想知道是什么用于生成这些对话只是为了当我想要自己找点乐子的时候。    由   提交/u/SavingSkill7  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/18pzn65/mgs_ai_generated_codec_conversations_how_was_this/</guid>
-      <pubDate>Sun, 24 Dec 2023 17:29:21 GMT</pubDate>
+      <title>同时运行 AI Voice Changer 和 VRChat 的 GPU/CPU 要求</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/18q3bb8/gpucpu_requirements_for_running_ai_voice_changer/</link>
+      <description><![CDATA[自 2020 年 3 月以来，我一直是 VRChat 社区的一员，我使用 voicemod 来扮演我创建的怪物角色。 （我也于 2022 年 1 月开始使用 VR。）不幸的是，人们常常很难理解我通过 voicemod 调低的音调。 这种困境促使我使用 w-Okada AI Voice Changer 探索 AI 语音调制。了解这一点后，w-Okada AI Voice Changer 通常会使用大部分 GPU。在 RTX 3060 和 3070 上尤其如此。在大多数 GPU 上，不可能同时使用两者。  我正在考虑硬件升级，目前正在考虑配备 16GB VRAM 的 RTX 4060 Ti。它可能是人工智能处理和虚拟现实游戏的候选者。然而，我不确定该 GPU 的规格是否能够轻松处理同时运行 w-Okada 和 VRChat 的负载，特别是考虑到潜在的 VR 复杂性。 （我可以在 VRChat 中关闭设置，但我不想完全关闭化身。）16GB VRAM 是否足以处理这些应用程序的多任务处理？  或者，选择像 RTX 3090 这样的 24GB VRAM GPU 会更明智吗？我特别想知道额外的 VRAM 是否可以显着改善这两个应用程序一起运行的情况？但是，我知道除非 GPU 是 4090，否则这可能是不可能的，我想知道情况是否如此。 我也在寻求可以处理如此重负载的 CPU 的建议。  &gt;   由   提交 /u/monstersndragons   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/18q3bb8/gpucpu_requirements_for_running_ai_voice_changer/</guid>
+      <pubDate>Sun, 24 Dec 2023 20:36:32 GMT</pubDate>
     </item>
     <item>
-      <title>AI 每周总结（12 月 16 日至 12 月 23 日）</title>
+      <title>法学硕士如何拥有有关特定或利基主题的大量知识？他们只是把可能的单词放在一起吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/18q2ixt/how_do_llms_have_a_lot_of_knowledge_on_specific/</link>
+      <description><![CDATA[我不太了解法学硕士、变压器模型或机器学习工作，但我看到很多评论说法学硕士/变压器模型只是将单词放在一起从统计上看，这些人可能会在一起，但对他们所谈论的概念没有真正的理解，有些人称他们为“随机鹦鹉”。 ChatGPT 在非主流应用程序（无需访问互联网）上给出正确指令的能力给我留下了深刻的印象。它以正确的顺序提到了所有正确的上下文菜单。 LLM 所训练的文本来自互联网上的大部分内容，我想谈论 X o Y 应用程序的文本只是其中的一小部分。如果法学硕士只是将可能的单词放在一起，那么它如何能够在利基应用程序或主题上正确地做到这一点？如果其中有任何错误，请纠正我。   由   提交 /u/TheTwelveYearOld   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/18q2ixt/how_do_llms_have_a_lot_of_knowledge_on_specific/</guid>
+      <pubDate>Sun, 24 Dec 2023 19:56:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>未来 10 年人工智能会帮助还是损害财富不平等？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/18q1jxf/will_ai_help_or_hurt_wealth_inequality_over_the/</link>
+      <description><![CDATA[美国的财富不平等程度是所有发达国家中最高的（到目前为止）。差距还在继续扩大。货币政策和资本结构允许这种情况发生。在米尔顿·弗里德曼（Milton Friedman）追随者眼中，这被视为一件好事（跟随他比批评他容易得多……）。 我相信人工智能会拖延或缩小这一范围的可能性为零差距。对于我们社会中那些认为没有理由不为了个人贪婪而剥削或裁员的人来说，这是一种工具。这是他们的病（贪婪）；我们作为一个物种的生物缺陷有一天将使我们灭绝。 毫无疑问，如果投资者不希望通过以下方式赚更多钱，人工智能就不会以现在或将来的规模或能力存在：为了自己的刺激/自私利益而使社会/人类破产。   由   提交 /u/lakeshorefire   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/18q1jxf/will_ai_help_or_hurt_wealth_inequality_over_the/</guid>
+      <pubDate>Sun, 24 Dec 2023 19:05:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI 每周摘要（12 月 16 日至 12 月 23 日）</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/18py44m/ai_weekly_rundown_december_16_to_december_23/</link>
       <description><![CDATA[]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/18py44m/ai_weekly_rundown_december_16_to_december_23/</guid>
@@ -29,14 +43,14 @@
     <item>
       <title>微软研究人员推出 PromptBench：基于 Pytorch 的 Python 包，用于评估大型语言模型 (LLM)</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/18pwd71/microsoft_researchers_introduce_promptbench_a/</link>
-      <description><![CDATA[快速阅读：https://marktechpost.com/2023/12/23/microsoft-researchers-introduce-promptbench-a-pytorch -based-python-package-for-evaluation-of-large-language-models-llms/ 论文： https://arxiv.org/abs/2312.07910v1 Github：https://github.com/microsoft/提示台   由   提交/u/ai-lover  /u/ai-lover  reddit.com/r/ArtificialInteligence/comments/18pwd71/microsoft_researchers_introduce_promptbench_a/&quot;&gt;[链接] [评论]]]></description>
+      <description><![CDATA[快速阅读：https://marktechpost.com/2023/12/23/microsoft-researchers-introduce-promptbench-a-pytorch -based-python-package-for-evaluation-of-large-language-models-llms/ 论文： https://arxiv.org/abs/2312.07910v1 Github：https://github.com/microsoft/提示台   由   提交/u/ai-lover  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/18pwd71/microsoft_researchers_introduce_promptbench_a/</guid>
       <pubDate>Sun, 24 Dec 2023 14:35:24 GMT</pubDate>
     </item>
     <item>
       <title>寻找一个艾</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/18pw4l4/looking_for_a_ai/</link>
-      <description><![CDATA[您好，我正在寻找一个免费使用的 AI 图像生成器，我可以在其中插入自己的照片，并可以从中复制人物，以便他们在其中ai生成的图片   由   提交/u/LiteratureNo6104  [链接] [评论]]]></description>
+      <description><![CDATA[您好，我正在寻找一个免费使用的 AI 图像生成器，我可以在其中插入我自己的照片，并可以从中复制人物，以便他们在其中ai生成的图片   由   提交/u/LiteratureNo6104  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/18pw4l4/looking_for_a_ai/</guid>
       <pubDate>Sun, 24 Dec 2023 14:21:34 GMT</pubDate>
     </item>
@@ -55,16 +69,9 @@
       <pubDate>Sun, 24 Dec 2023 13:52:25 GMT</pubDate>
     </item>
     <item>
-      <title>你一定要看看这个 ChatGPT 插件！它为您提供 Whatsapp、Linkedin、Twitter 甚至 GPT4 GMail 的支持。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/18pu1h3/you_gotta_see_this_chatgpt_plugin_its_got_your/</link>
-      <description><![CDATA[嘿伙计们，看看这个很棒的 ChatGPT 插件！它适用于 Whatsapp、Linkedin、Twitter，甚至 GPT4 GMail。它是一款免费的人工智能助理作家，可以帮助您撰写消息和帖子。这有多酷？ https://chromewebstore.google.com/detail/replypal-whatsapp -telegra/oiccingikjdlgefjabanlbkapomljmpl    由   提交/u/friuns  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/18pu1h3/you_gotta_see_this_chatgpt_plugin_its_got_your/</guid>
-      <pubDate>Sun, 24 Dec 2023 12:08:15 GMT</pubDate>
-    </item>
-    <item>
       <title>我有一个想法，需要输入</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/18psdx1/i_have_an_idea_need_inputs/</link>
-      <description><![CDATA[我是 AI/LLM 新手，正在思考一些事情，想知道如何将这个想法变为现实 所以我在小公司工作，我们有大量的融合/文档，我想知道我是否可以从中创建LLM并将聊天机器人与其集成？ 此外，我们还有几个我正在考虑的系统通过利用这些系统的 API 将它们集成到此模型中并进行相应的训练 如果有人有这方面的资源或任何关于如何实现的想法，请分享，提前致谢   由   提交/u/No_Management2161   [链接] [评论]]]></description>
+      <description><![CDATA[我是 AI/LLM 新手，正在思考一些事情，想知道如何将这个想法变为现实 所以我在小公司工作，我们有大量的融合/文档，我想知道我是否可以从中创建LLM并将聊天机器人与其集成？ 此外，我们还有几个我正在考虑的系统通过利用这些系统的 API 将它们集成到该模型中并进行相应的训练 如果有人有这方面的资源或任何关于如何实现的想法，请分享，提前致谢   由   提交/u/No_Management2161   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/18psdx1/i_have_an_idea_need_inputs/</guid>
       <pubDate>Sun, 24 Dec 2023 10:06:21 GMT</pubDate>
     </item>
@@ -83,13 +90,6 @@
       <pubDate>Sun, 24 Dec 2023 03:11:05 GMT</pubDate>
     </item>
     <item>
-      <title>我使用人工智能发现并修复了一个非常流行的开源库中的一个重大错误</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/18pe0lg/i_used_ai_to_discover_and_fix_a_major_bug_in_a/</link>
-      <description><![CDATA[信任外部库可能是一把双刃剑。当您遇到一个已获得 574 颗星、103 个分叉、并且有详细记录和经过测试的库时，很自然地对其可靠性具有高度信任。当它在社区中广泛使用时尤其如此。然而，这种信任可能会产生误导。一个库，即使是一个如此受欢迎且看似经过严格审查的库，能否完全没有重大错误？ 我也有同样的假设，直到一个惊人的发现改变了我的观点。在我用于技术分析的库中，我偶然发现了一个重大错误。这一缺陷导致相对强弱指数 (RSI) 指标的计算完全不准确。此错误的影响是深远的，影响了 NexusTrade 平台以及依赖此库的任何其他平台的所有用户。 本文深入探讨了我如何识别并随后纠正此严重错误的过程. 在此处阅读本文的其余部分。 ​   由   提交/u/NextGen-Trading  /u/NextGen-Trading  reddit.com/r/ArtificialInteligence/comments/18pe0lg/i_used_ai_to_discover_and_fix_a_major_bug_in_a/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/18pe0lg/i_used_ai_to_discover_and_fix_a_major_bug_in_a/</guid>
-      <pubDate>Sat, 23 Dec 2023 20:16:00 GMT</pubDate>
-    </item>
-    <item>
       <title>亚马逊提供免费人工智能课程，无需申请或付费</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/18p63z1/amazon_is_offering_free_ai_courses_with_no/</link>
       <description><![CDATA[我一直在寻找来自信誉良好的来源的免费人工智能学习。我刚刚发现了更多… 亚马逊正在提供免费的人工智能课程，无需申请或付费。 这里有 8 个免费课程来提高您的技能 如果如果您喜欢这个列表，您会在我的每周时事通讯中发现价值，其中包含丰富的资源  &lt; li&gt;生成人工智能简介：  → 了解 DALL-E 3 等模型的工作原理 → 探索行业用例和社会影响 → 概述基础模型 链接  面向决策者的生成式人工智能学习计划  → 识别和确定 GAI 项目范围的路线图 → 了解负责任的人工智能政策 链接  Amazon CodeWhisperer 简介  → 多种语言的代码生成→ AI 结对编程 链接  快速工程基础  → 制作提示来传达预期行为→ 学习更高级控制的技术→ 定制自定义对话人工智能的提示 链接  AWS 上的低代码机器学习  → 为 ML 模型摄取、标准化、清理、标记数据 → 使用 SageMaker 无需编码技能即可训练模型 → 将可训练模型部署到应用程序中 链接  构建AWS 上的语言模型  → 大型语言模型的分布式训练 → 微调 GPT-3 等模型以获得更好的相关性 链接  Amazon Transcribe 入门  → 上传音频并自动转录→ 将语音集成到联络中心和呼叫中心系统 链接&lt; /p&gt;  在 Amazon Bedrock 上构建生成式 AI 应用程序  → 使用 Codex、GPT-3、LLM 构建下一代应用程序 → 针对自然对话进行优化 链接   由   提交/u/steves1189  [链接] [评论]]]></description>
@@ -97,7 +97,7 @@
       <pubDate>Sat, 23 Dec 2023 13:51:39 GMT</pubDate>
     </item>
     <item>
-      <title>新的反垃圾邮件/机器人规则 [请阅读]</title>
+      <title>新的反垃圾邮件/机器人规则[请阅读]</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/115jk6q/new_antispam_bot_rules_please_read/</link>
       <description><![CDATA[我们制定了一条规则，新帐户一天以上或 karma 低于 100 的用户不能发帖。他们可以发表评论，但不能提交实际的帖子。这是我们解决机器人垃圾邮件计划的一部分。对于给您带来的任何不便，我们深表歉意。 我们将在接下来的几天内进行一项民意调查，以了解 Reddit 子版块的普遍意愿以及如何改进，请注意。 作为请始终向我们提供反馈，如果您有兴趣帮助该子项目，请与我联系。  谢谢大家！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/115jk6q/new_antispam_bot_rules_please_read/</guid>
@@ -106,7 +106,7 @@
     <item>
       <title>重要提示：请求有关 subreddit 规则和未来方向的评论。请阅读！</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</link>
-      <description><![CDATA[欢迎来到r/ArtificialIntelligence！&lt; /p&gt; 我们的目标是为所有与人工智能有关的事物提供一个开放且相互尊重的论坛 - 这包括  促进有关人工智能的哲学和伦理讨论 服务作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用 提供培训和学习资源&lt; /li&gt; 引导用户访问更具体的信息和子版块 列出 AI/ML 应用程序、其用途、成本和访问信息 其他与 AI 相关的内容。  li&gt; ...以及更多  该子项目的审核团队正在进行重组，这将导致该子项目发生一些变化。不过，不必担心，这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解情况并能够提供反馈，我们将提供多次反馈更改的机会。 第一轮反馈收集是通过此线程作为“Request-For-”评论” (RFC)，这是收集反馈的标准方法。随着变更的准备和实施，RFC 流程将进行多轮。 ​  发布新申请/自我推销/AI 生成的规则content  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似的内容将被阻止或限制在特定的粘帖中。 人工智能生成的特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的粘帖中。 博客链接应包含高质量的内容。链接到纯粹促销博客的帖子将被删除。 仅包含链接的帖子将被禁止，除非包含一定字数的详细信息。必须付出一些努力。 我们应该阻止人工智能撰写的帖子吗？存在可以在 Mod-bot 中使用的模型，但这是我们需要反馈的问题。  使用才华来组织帖子。请注意，已经添加了新的功能，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们会喜欢将社区纳入模组机器人的想法中。虽然一些标准机器人将用于基本维护，但社区可以为 AI/ML 机器人功能想出哪些有趣的东西？ 培养初级、中级和高级资源来帮助人们查找信息，他们正在寻找的培训、模型、技术数据等 启动子堆栈/播客来采访整个人工智能/机器学习领域的人们。这可能包括哲学家和思想家、程序员、科学家、商人，甚至是那些对人工智能持相反观点的人 如果您想创建代表子项目的横幅，请使用适当的尺寸。任何创作方式都可以。  不言而喻，每个人都应该受到尊重。我个人认为我们都知道这一点，不需要把它强加到人们的头脑中。保持友善。 感谢您的耐心和帮助！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
+      <description><![CDATA[欢迎来到r/ArtificialIntelligence！&lt; /p&gt; 我们的目标是为所有与人工智能有关的事物提供一个开放且相互尊重的论坛 - 这包括  促进有关人工智能的哲学和伦理讨论 服务作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用 提供培训和学习资源&lt; /li&gt; 引导用户访问更具体的信息和子版块 列出 AI/ML 应用程序、其用途、成本和访问信息 其他与 AI 相关的内容。  li&gt; ...以及更多  该子项目的审核团队正在进行重组，这将导致该子项目发生一些变化。不过，不必担心，这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解情况并能够提供反馈，我们将提供多次反馈更改的机会。 第一轮反馈收集是通过此线程作为“Request-For-”评论” (RFC)，这是收集反馈的标准方法。随着变更的准备和实施，RFC 流程将进行多轮。 ​  发布新申请/自我推销/AI 生成的规则content  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似的内容将被阻止或限制在特定的粘帖中。 人工智能生成的特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的粘帖中。 博客链接应包含高质量的内容。链接到纯粹促销博客的帖子将被删除。 仅包含链接的帖子将被禁止，除非包含一定字数的详细信息。必须付出一些努力。 我们应该阻止人工智能撰写的帖子吗？存在可以在 Mod-bot 中使用的模型，但这是我们需要反馈的问题。  使用天赋来组织帖子。请注意，已经添加了新的功能，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们会喜欢将社区纳入模组机器人的想法中。虽然一些标准机器人将用于基本维护，但社区可以为 AI/ML 机器人功能想出哪些有趣的东西？ 培养初级、中级和高级资源来帮助人们查找信息，他们正在寻找的培训、模型、技术数据等 启动子堆栈/播客来采访整个人工智能/机器学习领域的人们。这可能包括哲学家和思想家、程序员、科学家、商人，甚至是那些对人工智能持相反观点的人 如果您想创建代表子项目的横幅，请使用适当的尺寸。任何创作方式都可以。  不言而喻，每个人都应该受到尊重。我个人认为我们都知道这一点，不需要把它强加到人们的头脑中。保持友善。 感谢您的耐心和帮助！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</guid>
       <pubDate>Sun, 15 Jan 2023 20:24:42 GMT</pubDate>
     </item>
