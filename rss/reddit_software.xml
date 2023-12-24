@@ -4,18 +4,32 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sun, 24 Dec 2023 06:14:22 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 Dec 2023 09:11:45 GMT</lastBuildDate>
+    <item>
+      <title>自动裁剪数百张5:6比例、复杂背景的照片</title>
+      <link>https://www.reddit.com/r/software/comments/18pqwti/automate_cropping_hundreds_of_photos_in_56_ration/</link>
+      <description><![CDATA[嗨，我每天必须裁剪数百张产品照片。比例相同（5:6），但尺寸不同，只要产品居中且图像为 5:6 即可。有没有一个工具可以识别产品是什么，背景是绿色和花卉，不是单一的，但仍然有点失焦/模糊。必须有一个可靠的工具来实现这一点，请帮忙（win 10，已获得许可）   由   提交 /u/CrowOfGreed   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/18pqwti/automate_cropping_hundreds_of_photos_in_56_ration/</guid>
+      <pubDate>Sun, 24 Dec 2023 08:13:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>有没有可以以帧精度无损剪切和连接视频的轻量级程序？</title>
+      <link>https://www.reddit.com/r/software/comments/18pqp6j/any_lightweight_program_that_can_losslessly_cut/</link>
+      <description><![CDATA[ 由   提交 /u/Antonaros   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/18pqp6j/any_lightweight_program_that_can_losslessly_cut/</guid>
+      <pubDate>Sun, 24 Dec 2023 07:58:57 GMT</pubDate>
+    </item>
     <item>
       <title>我正在尝试刻录我创作的蓝光光盘，但 Nero 和所有其他刻录软件始终将其刻录为数据光盘而不是映像光盘。帮助！</title>
       <link>https://www.reddit.com/r/software/comments/18po162/im_trying_to_burn_a_bluray_i_authored_but_nero/</link>
-      <description><![CDATA[标题说明了一切。我使用 Nero Video 2024 创建蓝光光盘。我制作了一个非常酷的主菜单，我将它分为几个章节并制作了一个章节选择菜单，甚至设计了一个非常复杂的盒子艺术。我以前做过这个。我构建了整个东西，然后我点击刻录到光盘，这就是结束。  但这一次出了点问题。  它不断将其刻录为数据蓝光光盘，因此没有主菜单，没有场景选择，只有一堆文件夹。我已经尝试了一切，但无论我做什么，它总是做同样的事情。无论我在设置中进行什么更改，如果我将其制作为 iso 然后将其刻录到光盘上，都没有关系，甚至其他软件也不会将其刻录为映像。  我很绝望，而且我的光盘快用完了，因为我一直失败。我该怎么办？   由   提交 /u/MarioMan1213245765   [链接] [评论]]]></description>
+      <description><![CDATA[标题说明了一切。我使用 Nero Video 2024 创建蓝光光盘。我制作了一个非常酷的主菜单，我将它分为几个章节并制作了一个章节选择菜单，甚至设计了一个非常复杂的盒子艺术。我以前做过这个。我构建了整个东西，然后我点击刻录到光盘，这就是结束。  但这一次出了点问题。  它不断将其刻录为数据蓝光光盘，因此没有主菜单，没有场景选择，只有一堆文件夹。我已经尝试了一切，但无论我做什么，它总是做同样的事情。无论我在设置中更改什么，如果我将其制作为 iso 然后将其刻录到光盘上，都没有关系，甚至其他软件也不会将其刻录为映像。  我很绝望，而且我的光盘快用完了，因为我一直失败。我该怎么办？   由   提交 /u/MarioMan1213245765   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/18po162/im_trying_to_burn_a_bluray_i_authored_but_nero/</guid>
       <pubDate>Sun, 24 Dec 2023 05:04:27 GMT</pubDate>
     </item>
     <item>
       <title>iOS 应用程序用于跟踪食物？</title>
       <link>https://www.reddit.com/r/software/comments/18pmm52/ios_app_for_tracking_food/</link>
-      <description><![CDATA[我正在寻找一个简单的应用程序，不需要太多花哨的功能来帮助我跟踪我每天吃的食物。我已经用手做了一段时间了，这很令人沮丧，因为它需要花费很多时间。 问题是我没有节食。我正在努力更加注意自己的饮食。没有评判，只是试图温和地整理我如何帮助自己选择食物的多样性。我一直在跟踪卡路里，但非常谨慎，所以我不会与这一切产生奇怪的关系。 我尝试过的大多数应用程序都在推动节食/减肥/停止讨厌自己肥胖的事情咽下你的喉咙，我讨厌这样。  我想要从这个应用程序中得到的只是 - 我可以选择的预设自定义膳食 - “自定义”食物 - 食物查找（如果我可以制作自定义食物，就可以不用！） - 能够回顾过去的日子。查看数据的奖励，但我不需要它。 对我来说，其他一切都有点废话。   由   提交/u/ throwingrocksatppl   [链接] [评论]]]></description>
+      <description><![CDATA[我正在寻找一个简单的应用程序，不需要太多花哨的功能来帮助我跟踪我每天吃的食物。我已经用手做了一段时间了，这很令人沮丧，因为它需要花费很多时间。 问题是我没有节食。我正在努力更加注意自己的饮食。没有判断力，只是试图温和地整理我如何帮助自己选择食物的多样性。我一直在跟踪卡路里，但非常谨慎，所以我不会与这一切产生奇怪的关系。 我尝试过的大多数应用程序都在推动节食/减肥/停止讨厌自己肥胖的事情咽下你的喉咙，我讨厌这样。  我想要从这个应用程序中得到的只是 - 我可以选择的预设自定义膳食 - “自定义”食物 - 食物查找（如果我可以制作自定义食物，就可以不用！） - 能够回顾过去的日子。查看数据的奖励，但我不需要它。 对我来说，其他一切都有点废话。   由   提交/u/ throwingrocksatppl   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/18pmm52/ios_app_for_tracking_food/</guid>
       <pubDate>Sun, 24 Dec 2023 03:40:56 GMT</pubDate>
     </item>
@@ -92,23 +106,9 @@
     <item>
       <title>需要蓝牙设置帮助</title>
       <link>https://www.reddit.com/r/software/comments/18ov1jv/need_help_in_bluetooth_setup/</link>
-      <description><![CDATA[所以我只是重置了我的笔记本电脑（Windows 10），现在当我尝试使用蓝牙时它告诉我它不起作用，当我对其进行故障排除时它说我的笔记本电脑由于某种原因没有蓝牙功能，但我几天前才使用过它。   由   提交/u/Ziad-Fazbear  /u/Ziad-Fazbear reddit.com/r/software/comments/18ov1jv/need_help_in_bluetooth_setup/&quot;&gt;[链接] [评论]]]></description>
+      <description><![CDATA[所以我只是重置了我的笔记本电脑（Windows 10），现在当我尝试使用蓝牙时它告诉我它不起作用，当我对其进行故障排除时它说我的笔记本电脑由于某种原因没有蓝牙功能，eben，尽管我几天前才使用过它。   由   提交/u/Ziad-Fazbear  /u/Ziad-Fazbear reddit.com/r/software/comments/18ov1jv/need_help_in_bluetooth_setup/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/18ov1jv/need_help_in_bluetooth_setup/</guid>
       <pubDate>Sat, 23 Dec 2023 02:04:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否有任何（希望是免费的）Windows SSD 克隆软件可以让您减慢备份速度？</title>
-      <link>https://www.reddit.com/r/software/comments/18ou659/is_there_any_hopefully_free_windows_ssd_cloning/</link>
-      <description><![CDATA[寻找（希望是免费的）SSD/HDD 克隆软件，可以让您减慢备份速度。我想减慢备份速度的原因是因为源和目标 NVMe 驱动器在备份期间都会过热。上次我进行完整备份时，我的源驱动器的备用块从 100% 增加到 98%。   由   提交/u/humbletrader001   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/18ou659/is_there_any_hopefully_free_windows_ssd_cloning/</guid>
-      <pubDate>Sat, 23 Dec 2023 01:18:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>我可以在后台运行应用程序并赚取“钱”吗？</title>
-      <link>https://www.reddit.com/r/software/comments/18otwa7/app_i_can_run_in_the_background_and_earn_money/</link>
-      <description><![CDATA[是否有一个应用程序可以在我的树莓派 4/windows 电脑上运行，从而赚取“钱”？我只想获得 Spotify Premium lmao    由   提交/u/GGNewo   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/18otwa7/app_i_can_run_in_the_background_and_earn_money/</guid>
-      <pubDate>Sat, 23 Dec 2023 01:04:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
