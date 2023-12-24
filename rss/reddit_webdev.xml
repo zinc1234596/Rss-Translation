@@ -4,7 +4,14 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 24 Dec 2023 03:12:53 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 Dec 2023 06:14:57 GMT</lastBuildDate>
+    <item>
+      <title>GitHub Copilot 在移动应用程序中与 GPT4 聊天 - 自 12 月 6 日起根据所有宣传材料进行集成，但尚不清楚如何访问它......？</title>
+      <link>https://www.reddit.com/r/webdev/comments/18pnfv3/github_copilot_chat_with_gpt4_in_the_mobile/</link>
+      <description><![CDATA[此功能在应用程序中的什么位置？ 我想链接一些视频，但不知道是哪个我看到的官方消息来源。也许是 GitHub 宇宙主题演讲，也许是 Microsoft 功能聚焦的 YouTube 视频。无论如何，所有这些东西都在 12 月 6 日落下。我终于弄清楚了 VSCode 中的 GPT4 功能，但在 GitHub 移动应用程序中找不到 Copilot Chat。 加分：常规 GitHub 网站中的 copilot 聊天在哪里？我也没有看到它。   由   提交 /u/Virtamancer   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18pnfv3/github_copilot_chat_with_gpt4_in_the_mobile/</guid>
+      <pubDate>Sun, 24 Dec 2023 04:29:33 GMT</pubDate>
+    </item>
     <item>
       <title>AstroJS 动态路由</title>
       <link>https://www.reddit.com/r/webdev/comments/18plty4/astrojs_dynamic_routing/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>一款可以结识搬到与您所在城市的当地人的应用程序</title>
       <link>https://www.reddit.com/r/webdev/comments/18plcd8/an_app_to_meet_locals_that_are_moving_to_the_same/</link>
-      <description><![CDATA[我和一个朋友创建了这个应用程序，您可以在其中找到当前城市中也计划搬到您所在城市的新朋友。希望为您当前和新城市提供拼车、室友或社交活动的可能性。它可以启动您的社交生活。 VueJs 前端/Go + firebase 后端。 好主意还是坏主意？我很想得到一些反馈：P https://move-match.com   由   提交 /u/naaadz   [链接] [评论]]]></description>
+      <description><![CDATA[我和一个朋友创建了这个应用程序，您可以在其中找到当前城市中也计划搬到您所在城市的新朋友。希望为您当前和新的城市提供拼车、室友或社交活动的可能性。它可以启动你的社交生活。 VueJs 前端/Go + firebase 后端。 好主意还是坏主意？我很想得到一些反馈：P https://move-match.com   由   提交 /u/naaadz   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/18plcd8/an_app_to_meet_locals_that_are_moving_to_the_same/</guid>
       <pubDate>Sun, 24 Dec 2023 02:27:34 GMT</pubDate>
     </item>
@@ -43,7 +50,7 @@
     <item>
       <title>网站在我的机器上速度非常快，但在服务器和我客户的笔记本电脑上却慢得要命，一切都一样。为什么会这样呢？</title>
       <link>https://www.reddit.com/r/webdev/comments/18pi5a5/site_is_blazingly_fast_on_my_machine_but_slow_as/</link>
-      <description><![CDATA[相同的数据库，相同的代码。我不知道为什么这么慢，任何意见都值得赞赏。 网站主要使用 laravel 和 livewire。甚至没有很多记录，但我仍然缓存了我能缓存的所有内容。 服务器有 2 核 (&gt;=2GHz)、2GB 内存和 3GB SSD 磁盘空间（使用了约 300MB）、Linux。我的机器有i7，16ram，使用SSD，linux。客户端的机器类似，windows。 当我检查网络选项卡时，花费最多的就是“等待服务器响应”  例如，当我选择一个类别来显示其产品时，加载我的计算机上的所有产品需要 70 毫秒，但在客户端计算机和服务器上，可能需要 3 秒到 15 秒之间的时间. 顺便说一句，所有产品和类别都被缓存。 我将应用程序安装到客户端的 PC 上，就像在我的 PC 上一样，使用 php artisanserve 运行，一切都完全相同。我完全没有想法，想在这里问。   由   提交 /u/mekmookbro   [链接] [评论]]]></description>
+      <description><![CDATA[相同的数据库，相同的代码。我不知道为什么这么慢，任何意见都值得赞赏。 网站主要使用 laravel 和 livewire。甚至没有很多记录，但我仍然缓存了我能缓存的所有内容。 服务器有 2 核 (&gt;=2GHz)、2GB 内存和 3GB SSD 磁盘空间（使用了约 300MB）、Linux。我的机器有i7，16ram，使用SSD，linux。客户端的机器类似，windows。 当我检查网络选项卡时，花费最多的就是“等待服务器响应”  例如，当我选择一个类别来显示其产品时，加载我的计算机上的所有产品需要 70 毫秒，但在客户端计算机和服务器上，可能需要 3 秒到 15 秒之间的时间.顺便说一句，所有产品和类别都被缓存。 我将应用程序安装到客户端的 PC 上，就像在我的 PC 上一样，使用 php artisanserve 运行，一切都完全相同。我完全没有想法，想在这里问。   由   提交 /u/mekmookbro   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/18pi5a5/site_is_blazingly_fast_on_my_machine_but_slow_as/</guid>
       <pubDate>Sat, 23 Dec 2023 23:38:37 GMT</pubDate>
     </item>
@@ -71,7 +78,7 @@
     <item>
       <title>Mongodb expressjs post 将数据发送到错误的集合。</title>
       <link>https://www.reddit.com/r/webdev/comments/18pgctw/mongodb_expressjs_post_sent_data_to_wrong/</link>
-      <description><![CDATA[我正在遵循书籍教程并创建了一个名为 test 的数据库，当一本书的帖子起作用并创建了一个集合时，我决定研究身份验证。我创建了一个身份验证数据库，认为新用户数据将进入该数据库。它将其发送到原始测试数据库。然后我查看了我的代码，没有任何地方引用测试数据库。我使用的连接字符串是原始的，似乎没有引用任何数据库。我是否遗漏了一些关键细节？   由   提交/u/TravelOwn4386  [链接] [评论]]]></description>
+      <description><![CDATA[我正在遵循书籍教程并创建了一个名为 test 的数据库，当一本书的帖子起作用并创建了一个集合时，我决定研究身份验证。我创建了一个身份验证数据库，认为新用户数据将进入该数据库。它将其发送到原始测试数据库。然后我查看了我的代码，没有任何地方引用测试数据库。我使用的连接字符串是原始的，似乎没有引用任何数据库。我是否遗漏了一些关键细节？   由   提交 /u/TravelOwn4386   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/18pgctw/mongodb_expressjs_post_sent_data_to_wrong/</guid>
       <pubDate>Sat, 23 Dec 2023 22:09:34 GMT</pubDate>
     </item>
@@ -92,7 +99,7 @@
     <item>
       <title>对我的 HTML 和 CSS 摘要笔记的反馈将会很棒：P</title>
       <link>https://www.reddit.com/r/webdev/comments/18pfqkf/feedback_on_my_html_css_summary_notes_would_be/</link>
-      <description><![CDATA[       由   提交/u/blaazaar   [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[       由   提交/u/blaazaar  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/18pfqkf/feedback_on_my_html_css_summary_notes_would_be/</guid>
       <pubDate>Sat, 23 Dec 2023 21:38:46 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[我一直发现 Kevin Powell 的 YouTube 是一个很好的资源，提供有关 css 的小提示和技巧，以及了解所有最新信息最新变化。  是否有您推荐的等效的 JavaScript YouTube 频道？   由   提交/u/craigas1302  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/18pflyp/javascript_equivalent_of_kevin_powell/</guid>
       <pubDate>Sat, 23 Dec 2023 21:32:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>结构良好的前端代码，您最好的建议是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/18pemor/well_structured_frontend_code_whats_your_best/</link>
-      <description><![CDATA[我从事全栈 Web 开发已经快四年了，但在前端，我一直在主要受压力影响的项目中工作初级，没有指南，没有文档，没有设定标准，也没有测试。从开始到结束完全混乱。 这让我感觉自己已经成为一个结构性较差的前端开发人员，即使在我的私人项目中也是如此。  我即将开始一个新项目，我将从头开始，并或多或少地在前端发挥主导作用，所以由我来确保它在更多时达到标准人们开始研究它。目前看来，它将使用 React，但甚至可能是 Angular。 对于结构良好且易于使用的前端，您的最佳建议是什么？ &lt;!-- SC_ON - -&gt;  由   提交 /u/walkpangea   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18pemor/well_structured_frontend_code_whats_your_best/</guid>
-      <pubDate>Sat, 23 Dec 2023 20:45:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
