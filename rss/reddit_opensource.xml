@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 24 Dec 2023 12:19:06 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 Dec 2023 15:11:00 GMT</lastBuildDate>
+    <item>
+      <title>有开源的吉他谱制作工具吗？谢谢。</title>
+      <link>https://www.reddit.com/r/opensource/comments/18pwanm/is_there_a_guitar_tab_maker_thats_open_source/</link>
+      <description><![CDATA[ 由   提交 /u/TouchMySwollenFace   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/18pwanm/is_there_a_guitar_tab_maker_thats_open_source/</guid>
+      <pubDate>Sun, 24 Dec 2023 14:31:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>🎨 Butterfly（跨平台、开源、简约笔记应用）2.0.0 发布</title>
+      <link>https://www.reddit.com/r/opensource/comments/18pvq2l/butterfly_crossplatform_opensource_minimalistic/</link>
+      <description><![CDATA[       由   提交 /u/CodeDoctorDE   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/18pvq2l/butterfly_crossplatform_opensource_minimalistic/</guid>
+      <pubDate>Sun, 24 Dec 2023 13:57:40 GMT</pubDate>
+    </item>
     <item>
       <title>Arcan 发布 0.6.3 并获得 NLNET 和私人实体的资助</title>
       <link>https://www.reddit.com/r/opensource/comments/18prblw/arcan_releases_063_and_receives_funding_from/</link>
@@ -41,7 +55,7 @@
       <pubDate>Sat, 23 Dec 2023 04:31:45 GMT</pubDate>
     </item>
     <item>
-      <title>有没有可以在常规托管帐户中托管的自托管笔记网络应用程序和应用程序？</title>
+      <title>是否有任何可以在常规托管帐户中托管的自托管笔记网络应用程序和应用程序？</title>
       <link>https://www.reddit.com/r/opensource/comments/18osc31/any_selfhosted_note_taking_webapp_and_apps/</link>
       <description><![CDATA[ 由   提交/u/FutureLife777  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/18osc31/any_selfhosted_note_taking_webapp_and_apps/</guid>
@@ -95,20 +109,6 @@
       <description><![CDATA[好吧，我有一个内容服务平台网站，我想在国际上生存。现在，对于支付网关，我无法使用 stripe，因为它要求我提供美国银行帐户或 SS 号码。作为非美国居民我能做什么？ Paypal也有同样的问题。 有没有简单设置的第三方？或连接到 Payoneer 等服务   由   提交 /u/ridwanzune   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/18oeqd9/stripe_alternatives/</guid>
       <pubDate>Fri, 22 Dec 2023 13:18:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>高性能、持久性、默认安全、内存中、分布式面向文档的数据库，具有用纯 GO 编写的类似 SQL 的查询语言。</title>
-      <link>https://www.reddit.com/r/opensource/comments/18o9crf/highly_performant_persistent_securebydefault/</link>
-      <description><![CDATA[   /u/diagraphic  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/18o9crf/highly_performant_persistent_securebydefault/</guid>
-      <pubDate>Fri, 22 Dec 2023 07:29:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>即时消息：协议是“共有物”，让我们认真对待它们 / ProcessOne</title>
-      <link>https://www.reddit.com/r/opensource/comments/18o8wk7/instant_messaging_protocols_are_commons_lets_take/</link>
-      <description><![CDATA[       由   提交 /u/Neustradamus   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/18o8wk7/instant_messaging_protocols_are_commons_lets_take/</guid>
-      <pubDate>Fri, 22 Dec 2023 06:57:57 GMT</pubDate>
     </item>
     </channel>
 </rss>
