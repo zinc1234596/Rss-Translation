@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 24 Dec 2023 15:11:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 Dec 2023 18:13:58 GMT</lastBuildDate>
+    <item>
+      <title>Adzy - 使用附属机构和人工智能颠覆 Google AdSense 市场</title>
+      <link>https://www.reddit.com/r/opensource/comments/18pzcyz/adzy_disrupting_google_adsense_market_using/</link>
+      <description><![CDATA[      您对此平台有何看法？   由   提交/u/airofy  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/18pzcyz/adzy_disrupting_google_adsense_market_using/</guid>
+      <pubDate>Sun, 24 Dec 2023 17:15:18 GMT</pubDate>
+    </item>
     <item>
       <title>有开源的吉他谱制作工具吗？谢谢。</title>
       <link>https://www.reddit.com/r/opensource/comments/18pwanm/is_there_a_guitar_tab_maker_thats_open_source/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[       由   提交/u/1amrocket  [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/18oj56m/ios_app_for_privately_hosted_llm/</guid>
       <pubDate>Fri, 22 Dec 2023 16:42:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>条纹替代品</title>
-      <link>https://www.reddit.com/r/opensource/comments/18oeqd9/stripe_alternatives/</link>
-      <description><![CDATA[好吧，我有一个内容服务平台网站，我想在国际上生存。现在，对于支付网关，我无法使用 stripe，因为它要求我提供美国银行帐户或 SS 号码。作为非美国居民我能做什么？ Paypal也有同样的问题。 有没有简单设置的第三方？或连接到 Payoneer 等服务   由   提交 /u/ridwanzune   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/18oeqd9/stripe_alternatives/</guid>
-      <pubDate>Fri, 22 Dec 2023 13:18:30 GMT</pubDate>
     </item>
     </channel>
 </rss>

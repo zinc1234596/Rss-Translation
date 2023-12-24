@@ -4,14 +4,7 @@
     <title>最新提交：GPT3</title>
     <link>https://www.reddit.com/r/GPT3/new</link>
     <description>AI 文本生成技术的 Reddit 子版块</description>
-    <lastBuildDate>Sun, 24 Dec 2023 15:10:05 GMT</lastBuildDate>
-    <item>
-      <title>𝒞𝒶𝓂𝓅𝒶𝓃𝒾𝓉𝒶ℒℴ𝓋ℯ</title>
-      <link>https://www.reddit.com/r/GPT3/comments/18pwqrv/𝒞𝒶𝓂𝓅𝒶𝓃𝒾𝓉𝒶ℒℴ𝓋ℯ/</link>
-      <description><![CDATA[&lt;表&gt;      Buenos días a todos y todas 🧋♥️   由   提交/u/Besukona-lover33  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/GPT3/comments/18pwqrv/𝒞𝒶𝓂𝓅𝒶𝓃𝒾𝓉𝒶ℒℴ𝓋ℯ/</guid>
-      <pubDate>Sun, 24 Dec 2023 14:56:55 GMT</pubDate>
-    </item>
+    <lastBuildDate>Sun, 24 Dec 2023 18:12:44 GMT</lastBuildDate>
     <item>
       <title>OpenAI 正在洽谈筹集新资金，估值为 $100B+</title>
       <link>https://www.reddit.com/r/GPT3/comments/18p9fvj/openai_in_talks_to_raise_new_funding_at_valuation/</link>
@@ -109,6 +102,13 @@
       <description><![CDATA[大家好， 我希望在这里找到一些帮助，因为我正在与自定义 GPT 模型作斗争。 GPT 的任务是使用带有特定说明的模板来分析文档。这些文档有点大，但可以作为 txt 文件提供，效果更好，但效果有限。 为了更好地理解，我给您举一个例子： 模板说明：&lt; /p&gt; 1 临床评价和临床评价计划 简要总结制造商的临床评价计划并确认其符合以下要求： 临床评价计划包含名称产品的临床评估计划包含产品的预期用途 .... 问题是，当我上传txt.包含数据的文件进行分析，要么只是重复模板的内容，用一句台词回答问题，要么干脆忽略模板的一半......我什至比我自己做还要慢。 &lt; p&gt;当我用如下指令更新 GPT 时也会发生这种情况：更加彻底以及设计部分提出的任何建议。 也许这里有人可以将我推向正确的方向。我将非常感激！ ​   由   提交 /u/Spacegame_lover   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/GPT3/comments/18f3gyc/help_for_custom_gpt_model_for_analyzing_text/</guid>
       <pubDate>Sun, 10 Dec 2023 13:19:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌称其 Gemini AI 的性能优于 GPT-4 和人类专家</title>
+      <link>https://www.reddit.com/r/GPT3/comments/18dt4l7/google_says_its_gemini_ai_outperforms_both_gpt4/</link>
+      <description><![CDATA[       由   提交/u/veterinarysite  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/GPT3/comments/18dt4l7/google_says_its_gemini_ai_outperforms_both_gpt4/</guid>
+      <pubDate>Fri, 08 Dec 2023 18:25:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
