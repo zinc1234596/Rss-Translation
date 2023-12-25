@@ -4,7 +4,49 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 25 Dec 2023 09:12:22 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 Dec 2023 12:20:11 GMT</lastBuildDate>
+    <item>
+      <title>Do Tinyurl API tokens expire?</title>
+      <link>https://www.reddit.com/r/webdev/comments/18qgqgm/do_tinyurl_api_tokens_expire/</link>
+      <description><![CDATA[我最近使用 LinkedIn API 完成了一个项目，在该项目中我能够确定访问令牌何时过期，并使用刷新令牌。 我在 Tinyurl 中没有看到任何此类情况。我似乎在他们的开发者文档中找不到任何关于他们的令牌是否过期的指示，显然我无法链接该文档，因为它被该子上的 url 缩短过滤器捕获...&lt;​​/p&gt; 有人吗知道吗？   由   提交/u/OrganicVeganMeth  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18qgqgm/do_tinyurl_api_tokens_expire/</guid>
+      <pubDate>Mon, 25 Dec 2023 11:11:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>在网络开发训练营中进行小组项目</title>
+      <link>https://www.reddit.com/r/webdev/comments/18qgixz/doing_a_group_project_in_a_web_dev_bootcamp/</link>
+      <description><![CDATA[我重构了我的一位队友的代码，它几乎是代码的一半，并且做了完全相同的事情，但是更好。我看到的一些有趣的事情是 6 个换行符以获得元素的正确位置，所有内容都绝对位于顶部和左侧以使内容居中，而不是使用在 span 标签中编写的 Flex 和常规文本段落，并且没有应用任何样式来保证跨度. 我并不是贬低这个人，毕竟她成功了。我只是发现这些解决方案很有趣。 另一方面，我已经进入课程 8 周了，我真的很喜欢它！我终于找到了一些我认为我不会讨厌做的事情。   由   提交/u/BowserBrows  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18qgixz/doing_a_group_project_in_a_web_dev_bootcamp/</guid>
+      <pubDate>Mon, 25 Dec 2023 10:56:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何在 React JS 中使用闭路电视录像？</title>
+      <link>https://www.reddit.com/r/webdev/comments/18qg5az/how_to_use_cctv_footage_in_react_js/</link>
+      <description><![CDATA[我们正在使用 Electron JS 创建一个桌面应用程序，该应用程序实现了 React 应用程序。我们正在创建一个使用闭路电视录像的安全应用程序。如何将闭路电视录像连接到 React JS 应用程序？有具体的库吗？    由   提交/u/Character-Ad-618   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18qg5az/how_to_use_cctv_footage_in_react_js/</guid>
+      <pubDate>Mon, 25 Dec 2023 10:26:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>经过很长一段时间后，终于抽出时间重新做我的作品集。你们有什么感想？</title>
+      <link>https://www.reddit.com/r/webdev/comments/18qg5ac/finally_got_around_to_redoing_my_portfolio_after/</link>
+      <description><![CDATA[标题说明了这一点https://atchyut.dev   由   提交 /u/theonly1me   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18qg5ac/finally_got_around_to_redoing_my_portfolio_after/</guid>
+      <pubDate>Mon, 25 Dec 2023 10:26:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>创建动态的每日调度程序布局，使用哪种方法？</title>
+      <link>https://www.reddit.com/r/webdev/comments/18qfxda/creating_a_dynamic_daily_scheduler_layout_which/</link>
+      <description><![CDATA[      ​ https://preview.redd.it/r9366i3vye8c1.png?width=1038&amp;format=png ＆amp; ;auto=webp&amp;s=3d76df05839274b875af91a6386292ed1d65945b 大家好， 我目前正在努力解决一个涉及动态每日调度程序的具有挑战性的布局项目：目标是创建每个事件都有一个单元格，这里有一个问题——单元格需要根据事件的持续时间占据垂直空间。如果多个事件共享同一时间窗口，则它们应该共享水平空间。另一方面，如果一个事件在其时间范围内是单独的，它应该增长并填充所有可用的水平空间。 我一直在尝试各种 CSS 方法，包括 Flexbox 和 Grid，但我在根据事件持续时间（使用 Flexbox 时）动态调整垂直位置和空间时遇到了障碍，并且我似乎无法弄清楚如何在网格方法上共享水平空间。  我想知道你们中是否有人遇到过类似的挑战，并可以提供一些指导或分享您的见解。 提前致谢！ &lt; !-- SC_ON --&gt;  由   提交 /u/issioboii   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18qfxda/creating_a_dynamic_daily_scheduler_layout_which/</guid>
+      <pubDate>Mon, 25 Dec 2023 10:08:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于 Google Cloud Natural Language API</title>
+      <link>https://www.reddit.com/r/webdev/comments/18qfoq7/about_google_cloud_natural_language_api/</link>
+      <description><![CDATA[我现在正在开发一个项目，我需要在我的网站中实现成人单词或句子检测以进行内容审核，以便我可以提供适合用户的环境。所以我问 AI 如何才能做到这一点，他向我推荐了一个工具“Google Cloud Natural Language API”，但我仍然不明白它是什么以及如何使用它来达到我的目的。谢谢哟:)   由   提交/u/dklearner  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18qfoq7/about_google_cloud_natural_language_api/</guid>
+      <pubDate>Mon, 25 Dec 2023 09:49:22 GMT</pubDate>
+    </item>
     <item>
       <title>任何人都有 Stephen 的 Master React with Redux 课程的注释或备忘单</title>
       <link>https://www.reddit.com/r/webdev/comments/18qefvt/anyone_have_notes_or_cheat_sheet_of_stephens/</link>
@@ -20,23 +62,16 @@
       <pubDate>Mon, 25 Dec 2023 08:02:23 GMT</pubDate>
     </item>
     <item>
-      <title>如何实现这种div放置方式？</title>
-      <link>https://www.reddit.com/r/webdev/comments/18qd9s3/how_to_achieve_this_type_of_div_placement/</link>
-      <description><![CDATA[      ​ 现在看起来像这样 这就是我的输出应该是这样的 &lt; /div&gt;  由   提交/u/armedrossie  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18qd9s3/how_to_achieve_this_type_of_div_placement/</guid>
-      <pubDate>Mon, 25 Dec 2023 06:42:34 GMT</pubDate>
-    </item>
-    <item>
       <title>如何重定向路径最后一部分中带有连字符的所有网址？</title>
       <link>https://www.reddit.com/r/webdev/comments/18qcbk2/how_can_i_redirect_all_urls_with_hyphens_in_the/</link>
-      <description><![CDATA[我找不到更优雅的方式来表达这个问题，但我本质上想做的是检测所有包含连字符的网址路径的最后一部分，并将这些网址重定向到删除连字符的网址。 例如，我想替换类似 https://www.reddit.com/path-start 的内容/path-mid/this-is-path-end?blah-blah-blah 与 https://www.reddit.com/path-start/path-mid/thisispathend?blah-blah-blah。 &amp; #x200b; 从我的调查中，我看到了一些重定向解决方案，其中涉及使用基于正则表达式的 RewriteRule 编辑 .htaccess 但我摆弄了迄今为止，这一举措还没有取得很大成果。我在这个网站上使用 WordPress，并且有一个支持正则表达式的重定向插件，但据我所知，它似乎无法处理这种需求。  ​ 感谢任何帮助，节日快乐！ :)   由   提交 /u/katamari_capybara   [链接] [评论]]]></description>
+      <description><![CDATA[我找不到更优雅的方式来表达这个问题，但我本质上想做的是检测所有包含连字符的网址路径的最后一部分，并将这些网址重定向到删除连字符的网址。 例如，我想替换类似 https://www.reddit.com/path-start 的内容/path-mid/this-is-path-end?blah-blah-blah 与 https://www.reddit.com/path-start/path-mid/thisispathend?blah-blah-blah。 &amp; #x200b; 从我的调查中，我看到了一些重定向解决方案，其中涉及使用基于正则表达式的 RewriteRule 编辑 .htaccess 但我摆弄了迄今为止，这一举措还没有取得很大成果。我在这个网站上使用 WordPress，并且有一个支持正则表达式的重定向插件，但据我所知，它似乎无法满足这种需求。  ​ 感谢任何帮助，节日快乐！ :)   由   提交 /u/katamari_capybara   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/18qcbk2/how_can_i_redirect_all_urls_with_hyphens_in_the/</guid>
       <pubDate>Mon, 25 Dec 2023 05:36:21 GMT</pubDate>
     </item>
     <item>
       <title>如何在另一个国家注册域名？</title>
       <link>https://www.reddit.com/r/webdev/comments/18qc8n1/how_to_register_a_domain_in_another_country/</link>
-      <description><![CDATA[首先，大家圣诞快乐！ 当我访问 https://lookup.icann.org/en 要查找域所有者，我可以向下滚动到“联系信息”查看域名的注册位置。还有注册商信息。  如何在不离开自己的国家/地区的情况下在另一个国家/地区注册域名？   由   提交/u/stingyCEO   [链接] [评论]]]></description>
+      <description><![CDATA[首先，大家圣诞快乐！ 当我访问 https://lookup.icann.org/en 要查找域名所有者，我可以向下滚动到“联系信息”查看域名的注册位置。还有注册商信息。  如何在不离开自己的国家/地区的情况下在另一个国家/地区注册域名？   由   提交/u/stingyCEO   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/18qc8n1/how_to_register_a_domain_in_another_country/</guid>
       <pubDate>Mon, 25 Dec 2023 05:31:04 GMT</pubDate>
     </item>
@@ -74,41 +109,6 @@
       <description><![CDATA[ 由   提交/u/SunDogBrewingCo   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/18q8vbj/looking_for_feedback_on_the_layout_and_design_of/</guid>
       <pubDate>Mon, 25 Dec 2023 01:47:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>有多少人在网站上使用明暗切换，或者它们只是一个噱头？</title>
-      <link>https://www.reddit.com/r/webdev/comments/18q88kw/how_many_people_use_lightdark_toggles_on_websites/</link>
-      <description><![CDATA[嗨 只是想知道允许访问者在明暗之间切换是否只是为了展示还是人们实际上在使用它们？&lt; /p&gt; ​ 谢谢 查看投票   由   提交 /u/Suitable-Emphasis-12   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18q88kw/how_many_people_use_lightdark_toggles_on_websites/</guid>
-      <pubDate>Mon, 25 Dec 2023 01:07:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么 Shein 以这种方式显示结账价格？</title>
-      <link>https://www.reddit.com/r/webdev/comments/18q7xxc/why_does_shein_display_checkout_price_this_way/</link>
-      <description><![CDATA[      Shein 结帐中显示的价格不是具有值的字段。它是由数字 0-9 组成的单独列，然后每列向上移动以显示正确的值。我以前从未见过这个。 真正的问题：1.有什么意义？ 2. 这种情况是不是比我想象的更常见？   由   提交 /u/AstronotInterested   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18q7xxc/why_does_shein_display_checkout_price_this_way/</guid>
-      <pubDate>Mon, 25 Dec 2023 00:49:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使用 nextauth 和外部 SocketIO 服务器对 NextJS 应用程序进行身份验证</title>
-      <link>https://www.reddit.com/r/webdev/comments/18q6gxc/how_to_authenticate_nextjs_application_using/</link>
-      <description><![CDATA[我有一个 NextJS 应用程序，在其中使用 nextauth 和 postgres 适配器进行身份验证。我想要一些实时功能，因此我从 NextJS 应用程序的前端连接到一个单独的 socketio 服务器。我希望能够从我的 socketio 服务器识别用户是谁，而用户不必告诉我他们是谁，以便我可以采取适当的操作，并且用户不能假装是其他用户。我想知道以下方法是否正确/安全：  nextjs 客户端查询 nextjs 服务器以从数据库中获取该经过身份验证的用户的 sessionToken nextjs 客户端连接到socketio 服务器并发送从服务器获取的 sessionToken。 socketio 服务器在数据库中查找 token 并获取其对应的用户。 如果不对应用户，该用户无效。  我对身份验证非常不熟悉，因此请告诉我这是否有问题。   由   提交/u/fictional-sock  /u/fictional-sock  reddit.com/r/webdev/comments/18q6gxc/how_to_authenticate_nextjs_application_using/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18q6gxc/how_to_authenticate_nextjs_application_using/</guid>
-      <pubDate>Sun, 24 Dec 2023 23:26:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>建议</title>
-      <link>https://www.reddit.com/r/webdev/comments/18q6aln/advice/</link>
-      <description><![CDATA[我应该了解多少技能（html css js）来克隆 facebook、google 等基本网站 webdev 初学者   由   提交/u/Plane-Analysis-6770   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18q6aln/advice/</guid>
-      <pubDate>Sun, 24 Dec 2023 23:16:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>您最常使用什么浏览器进行开发？</title>
-      <link>https://www.reddit.com/r/webdev/comments/18q630f/what_browser_do_you_use_the_most_for_development/</link>
-      <description><![CDATA[查看投票 &lt; /div&gt;  由   提交/u/nutra987  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18q630f/what_browser_do_you_use_the_most_for_development/</guid>
-      <pubDate>Sun, 24 Dec 2023 23:05:27 GMT</pubDate>
     </item>
     </channel>
 </rss>
