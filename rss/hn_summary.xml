@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Mon, 25 Dec 2023 15:05:34 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 Dec 2023 17:39:55 GMT</lastBuildDate>
     <item>
-      <title>[媒体] Threads 正在阻塞 Fediverse 上的服务器。</title>
-      <link>https://t.me/hn_summary/65617</link>
-      <description><![CDATA[线程正在阻塞 Fediverse 上的服务器。以下是我们如何解锁自己。
-本文讨论了社交媒体平台 Threads 如何阻止 Fediverse 上的多台服务器，包括 Mostr Bridge、Spinster、Neenster、Poast 和 Mitra 等网站。作者质疑这些区块背后的动机，并强调了对协议之间互操作性的影响。他们还提到了对尼娜·佩利（Nina Paley）等知名人物的屏蔽以及波斯特（Poast）的争议性质。作者分享了他们通过修复导致阻塞的错误并启用被阻塞的服务器和线程之间的联合来进行反击的努力。他们批评 Meta Platforms, Inc. 封锁服务器并讨论规避其审查制度的方法。该文章强调了对个人用户进行审核的必要性，而不是阻止整个服务器。作者还提到了他们即将推出的项目 Ditto，该项目旨在使阻止 Nostr 上的服务器变得更加困难。]]></description>
-      <guid>https://t.me/hn_summary/65617</guid>
-      <pubDate>Mon, 25 Dec 2023 15:05:34 GMT</pubDate>
+      <title>news.ycombinator.com 上这篇文章的作者正在寻求有关 [...] 失踪的帮助</title>
+      <link>https://t.me/hn_summary/65631</link>
+      <description><![CDATA[询问 HN：我所有的 iCloud 桌面文件都消失了 
+news.ycombinator.com 上这篇文章的作者是寻求有关 iCloud 桌面上所有文件消失的帮助。他们怀疑该问题可能与挂载 iCloud 驱动器失败有关。作者对 iCloud 表示失望，认为它不可靠。他们正在寻求关于是否尝试调试或简单地从备份恢复的建议。]]></description>
+      <guid>https://t.me/hn_summary/65631</guid>
+      <pubDate>Mon, 25 Dec 2023 17:39:55 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]中美之间正在兴起一场新的太空竞赛，拉格朗日点成为 [...]</title>
-      <link>https://t.me/hn_summary/65616</link>
-      <description><![CDATA[拉格朗日点可能成为新太空竞赛的战场 
-一场新的太空竞赛正在美国和中国之间展开，拉格朗日点成为战场。拉格朗日点是行星际空间中的位置，两个天体的引力平衡了较小物体在它们之间稳定运行所需的向心力。这些点提供了稳定性，非常适合停放卫星和望远镜，提供地球及其天然卫星的连续视图。中国已经向地月系统拉格朗日L2点发射了一颗中继卫星，美国也计划向拉格朗日点发射任务。对这些点的控制为空间研究、通信和监视提供了优势。新太空竞赛中对拉格朗日点的关注既令人着迷又令人不安。]]></description>
-      <guid>https://t.me/hn_summary/65616</guid>
-      <pubDate>Mon, 25 Dec 2023 14:58:21 GMT</pubDate>
+      <title>【媒体】分析：Covid-19（SARS-CoV-2）的来源是什么？</title>
+      <link>https://t.me/hn_summary/65630</link>
+      <description><![CDATA[分析：Covid-19（SARS-CoV）的来源是什么-2)?
+对 Covid-19 (SARS-CoV-2) 来源的分析引发了人们对武汉病毒研究所 (WIV) 及其参与的质疑。武汉病毒研究所最初在疫情爆发前否认对 SARS-CoV-2 进行研究，但在疫情爆发后对其蝙蝠病毒数据库进行了更改，这表明其试图与自己保持距离。 2020年1月，武汉病毒研究所发表论文，声称发现了一种类似的冠状病毒，名为RaTG13，但实际上是他们之前发现的BtCoV/4991的重命名版本。这些差异和其他异常现象表明 WIV 努力淡化其在 Covid-19 疫情中的参与。]]></description>
+      <guid>https://t.me/hn_summary/65630</guid>
+      <pubDate>Mon, 25 Dec 2023 17:24:45 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]这篇文章讨论了在家工作的人日益不平等的问题。</title>
-      <link>https://t.me/hn_summary/65615</link>
-      <description><![CDATA[研究：在家工作的人日益不平等
-这篇文章讨论了在家工作方面日益加剧的不平等。研究表明，远程工作对于高薪职位、需要更多经验和教育的职位以及全职职位来说更为常见。这种分歧有可能在团队内部产生有毒动力并降低士气。疫情导致远程工作激增，但工资较低的一线员工很少有机会在家工作。这种差异可能会损害士气，造成不公平感，并在员工队伍中造成分裂。商界领袖担心这种分歧的影响。]]></description>
-      <guid>https://t.me/hn_summary/65615</guid>
-      <pubDate>Mon, 25 Dec 2023 14:54:12 GMT</pubDate>
+      <title>Web 内容讨论了向网站添加 WebGL 效果的挑战，并介绍了 [...]</title>
+      <link>https://t.me/hn_summary/65629</link>
+      <description><![CDATA[逐步增强的 WebGL 镜头折射
+Web 内容讨论了向网站添加 WebGL 效果的挑战，并介绍了一个名为 r3f-scroll-rig 的库，该库允许响应式且可访问地实现 WebGL。本教程逐步介绍了使用 WebGL 增强 DOM 图像和文本渲染的过程，以及添加对滚动事件做出反应的 3D 模型。本教程还介绍了 React-Three-Fiber 生态系统中的镜头折射组件，以增强 WebGL 效果。内容提供了用于实现这些功能的代码示例和说明。 （根据 68% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/65629</guid>
+      <pubDate>Mon, 25 Dec 2023 17:17:37 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]本文讨论了 PC 在 20 年内从 x86 CPU 到 Arm 芯片的潜在过渡。</title>
-      <link>https://t.me/hn_summary/65614</link>
-      <description><![CDATA[2024 年可能是 PC 为 Arm 抛弃 x86 的一年，这要归功于Windows 12
-该文章讨论了由于 Windows 12 的发布，2024 年 PC 从 x86 CPU 到 Arm 芯片的潜在过渡。它重点介绍了高通公司的新型 Snapdragon X Elite 芯片，该芯片声称具有超越 x86 的性能和效率。据报道，微软正在开发代号为 Germanium 的新版 Windows，它将支持 Snapdragon X Elite。文章还提到了苹果在 Arm 芯片方面的成功，以及高通为兼容 Windows 版本提供 Arm 硬件的独家许可协议的到期。据推测，PC 上的 Arm 硬件将在未来几年达到临界规模。本文强调了在过渡期间对遗留 x86 代码进行软件支持和模拟的重要性。它还提到Nvidia和AMD计划发布自己的Arm芯片。 Arm 内核在下一代 Xbox 主机中的潜在使用被视为在 PC 上采用 Arm 硬件的一个重要因素。文章最后指出，尽管行业分析师几十年来一直预测 Arm 将会被 PC 所采用，但这次它可能最终会发生。]]></description>
-      <guid>https://t.me/hn_summary/65614</guid>
-      <pubDate>Mon, 25 Dec 2023 14:27:56 GMT</pubDate>
+      <title>[媒体]这篇文章探讨了 20 世纪 80 年代计算未来的被遗忘的战争，以及 [...]</title>
+      <link>https://t.me/hn_summary/65628</link>
+      <description><![CDATA[工作站之战：最低出价者如何塑造当今的科技格局&lt; /a&gt;
+本文探讨了 20 世纪 80 年代一场被遗忘的计算未来战争，以及出价最低者如何赢得这场战争。作者挑战了人们普遍认为计算机随着时间的推移而发展和改进的观点，认为每一代计算机都被更简单、不太复杂的计算机所取代。这篇文章强调了计算机发展过程中特性和功能的丧失，例如丰富的文件系统、集群和群件。作者还讨论了早期计算机（例如施乐 Alto 和牛顿）中被忽视的进步，以及它们引入的激进思想和技术。 （根据 49% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/65628</guid>
+      <pubDate>Mon, 25 Dec 2023 17:03:27 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] ptext项目是一个用纯C构建的文本编辑器，灵感来自nano文本编辑器。</title>
-      <link>https://t.me/hn_summary/65613</link>
-      <description><![CDATA[使用纯 C 构建的类似 Nano 的文本编辑器&lt; br/&gt;
-ptext 项目是一个用纯 C 语言构建的文本编辑器，受到 nano 文本编辑器的启发。作者创建此项目是为了了解有关在不使用 ncurses 的情况下管理终端用户界面的更多信息。该项目仍在进行中，作者概述了修复语法突出显示、添加插件系统以及添加对 Windows 的支持的目标。作者还对贡献表示感谢，并提供了 CONTRIBUTING.md 文件以获取有关如何贡献的指南。作者感谢 viewsourcecode 和 kilo 项目的启发。]]></description>
-      <guid>https://t.me/hn_summary/65613</guid>
-      <pubDate>Mon, 25 Dec 2023 14:14:43 GMT</pubDate>
+      <title>[媒体] 受欢迎的相机零售商 B&H Photo 发布了人工智能生成的摄影指南 [...]</title>
+      <link>https://t.me/hn_summary/65627</link>
+      <description><![CDATA[B&amp;H Photo 发布了一份由冒牌货撰写的人工智能生成指南人
+受欢迎的相机零售商 B&amp;H Photo 在其 Explora 博客上以虚构作家 Alexandra Ibarra 的名义发布了人工智能生成的摄影指南。该指南的标题是“从静态到动态：摄影师的视频拍摄指南”，看起来像是由真人撰写的专家指南。然而，后来发现 Alexandra Ibarra 很可能是由 AI 生成的，因为她的个人资料图片来自 Adob​​e Stock 的 AI 生成部分。 B&amp;H 声称，使用人工智能生成的内容违反了他们的政策，该指南的发布是识别和防范此类内容的测试的一部分。该文章和个人资料已被删除。 B&amp;H 对人工智能的使用令人惊讶，并引发了人们对该公司存在理由的担忧。]]></description>
+      <guid>https://t.me/hn_summary/65627</guid>
+      <pubDate>Mon, 25 Dec 2023 16:58:20 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在这篇题为“光学介质耐用性 (2020)”的博文中，作者分享了他们的 [...]</title>
-      <link>https://t.me/hn_summary/65612</link>
-      <description><![CDATA[光学介质耐用性 (2020)
-在这篇题为“光学介质耐用性（2020）”的博客文章中，作者分享了他们关于 CD-R 和 DVD-R 耐用性的发现。令人惊讶的是，作者发现超过16年的CD-R和接近14年的DVD-R仍然提供良好的数据。作者每年都会验证 45 个磁盘的校验和，没有发现任何错误。提供的表格显示了每种类型和日期的好介质和坏介质的数量，以及供应商名称。作者指出，这些结果是在没有特殊存储预防措施、通用低成本介质和消费驱动器的情况下实现的。然而，值得注意的是，个人经历可能会有所不同。作者计划今后继续这一年度进程。此外，作者还提到了对用于检查 CD 和 DVD 的 Mint Linux 系统的观察，该系统在此过程中记录了一条错误消息。]]></description>
-      <guid>https://t.me/hn_summary/65612</guid>
-      <pubDate>Mon, 25 Dec 2023 14:13:37 GMT</pubDate>
+      <title>Matter 智能家居标准，旨在改善用户体验和兼容性 [...]</title>
+      <link>https://t.me/hn_summary/65626</link>
+      <description><![CDATA[事情，定于 2023 年修复智能家居标准，却陷入了困境真实市场
+Matter智能家居标准旨在提高智能设备的用户体验和兼容性，但在现实市场中却面临挑战。尽管有潜在的好处，例如更容易设置和与主要平台的兼容性，Matter 设备并没有达到预期。设置 Matter 设备很困难，许多设备仍然需要设备制造商提供的特定应用程序才能实现完整功能。即使是早期采用者也发现 Matter 设备的工作效果不如预期，并且通常需要大型科技公司的设备作为桥接器或路由器。此外，一些流行的设备，如飞利浦 Hue 灯，在过渡到 Matter 后变得不太实用。总体而言，Matter 标准的实施尚未兑现其承诺。]]></description>
+      <guid>https://t.me/hn_summary/65626</guid>
+      <pubDate>Mon, 25 Dec 2023 16:38:07 GMT</pubDate>
     </item>
     <item>
-      <title>英国巧克力有一种独特的味道，有些人喜欢，有些人则讨厌。</title>
-      <link>https://t.me/hn_summary/65611</link>
-      <description><![CDATA[为什么英国巧克力的味道是这样的
-英国巧克力有一种独特的味道，有些人喜欢，有些人则讨厌。巧克力的味道会根据其来源国家的不同而有所不同，这是由于成分和制造工艺的差异造成的。例如，瑞士巧克力往往含有较高比例的牛奶和新鲜牛奶的味道，而美国巧克力（如好时巧克力）则酸性更强。英国牛奶巧克力的味道可能受到制造过程中牛奶处理方式的影响，特别是通过“巧克力屑”的使用。这个过程在巧克力中产生了独特的熟味。总的来说，对巧克力的口味偏好是非常主观的，一个人喜欢什么，另一个人可能不喜欢。]]></description>
-      <guid>https://t.me/hn_summary/65611</guid>
-      <pubDate>Mon, 25 Dec 2023 13:30:09 GMT</pubDate>
+      <title>[媒体]根据一份新报告，北美地区可能将面临电力短缺 [...]</title>
+      <link>https://t.me/hn_summary/65625</link>
+      <description><![CDATA[从 2024 年开始，北美大部分地区可能面临电力短缺
+一份新报告称，北美可能从 2024 年开始面临电力短缺。该报告表明，非洲大陆许多地区停电可能成为现实。这一令人震惊的预测是基于老化的基础设施和不断增长的电力需求。该报告强调需要立即采取行动对电网进行升级和现代化，以避免潜在的停电。尽管这一消息令人担忧，但它为政策制定者和能源供应商敲响了警钟，要求他们优先投资能源领域，以确保未来可靠和可持续的电力供应。]]></description>
+      <guid>https://t.me/hn_summary/65625</guid>
+      <pubDate>Mon, 25 Dec 2023 16:36:00 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]微软决定弃用并删除其 Windows Mixed Reality 软件 [...]</title>
-      <link>https://t.me/hn_summary/65610</link>
-      <description><![CDATA[再见Windows混合现实，我们几乎不知道微软的VR软件
-微软已决定弃用并从 Windows 中完全删除其 Windows Mixed Reality 软件。该平台于 2017 年推出，允许用户在虚拟环境中与 Windows 应用程序和游戏进行交互。然而，微软近年来并没有在 Windows Mixed Reality 上投入太多精力，自 2020 年以来也没有任何重大的新耳机型号。用户现在必须转向 SteamVR 或 Vive 生态系统等第三方平台来获得虚拟体验。以及 Windows 上的增强现实体验。目前尚不清楚当 Microsoft 停止使用 Windows Mixed Reality 耳机时，现有的 Windows Mixed Reality 耳机用户是否会失去对功能的访问权限。]]></description>
-      <guid>https://t.me/hn_summary/65610</guid>
-      <pubDate>Mon, 25 Dec 2023 13:09:48 GMT</pubDate>
+      <title>在本文中，作者分享了他们在 .ba [...] 中设置的一些有用的 Bash 别名。</title>
+      <link>https://t.me/hn_summary/65624</link>
+      <description><![CDATA[一些有用的 Bash 别名 – Chuck Carroll
+在本文中，作者分享了他们在 .bashrc 配置中设置的一些有用的 Bash 别名。这些别名的范围从有趣到无聊，但对于特定任务都很有用。一些示例包括用于查看特定城市天气的别名、用于查找单词定义的别名、用于将 FLAC 音乐文件转换为 OGG 的别名以及用于显示当前网络的 wifi 密码和二维码的别名。作者还提到了用于启动 VPN 的较短别名和用于通过 SSH 连接到其共享主机的别名。总的来说，这些别名有助于简化任务并使终端更加高效。]]></description>
+      <guid>https://t.me/hn_summary/65624</guid>
+      <pubDate>Mon, 25 Dec 2023 16:26:49 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 网页内容讨论了 SSH 密码身份验证的挑战并提供了 [...]</title>
-      <link>https://t.me/hn_summary/65609</link>
-      <description><![CDATA[非交互式 SSH 密码身份验证
-Web 内容讨论了 SSH 密码身份验证的挑战并提供了使用 Zsh 的解决方案。它强调了将 SSH 密钥与用户关联起来的困难、缺乏对基于证书的身份验证的支持，以及将公钥身份验证与更细粒度的授权方法集成的未知领域。然后内容介绍了使用 Zsh 的解决方案，其中通过文件描述符提供明文密码。它提供了包装函数的代码示例，并解释了如何处理不正确的密码。此外，它还建议根据远程主机使用不同的密码条目，并展示如何使 scp 调用自定义 ssh 功能。]]></description>
-      <guid>https://t.me/hn_summary/65609</guid>
-      <pubDate>Mon, 25 Dec 2023 13:05:37 GMT</pubDate>
+      <title>[媒体] 本月愚蠢专利排名第 1 名。</title>
+      <link>https://t.me/hn_summary/65623</link>
+      <description><![CDATA[本月愚蠢专利：自拍竞赛
+本月的愚蠢专利号为 8,655,715，由一家名为 Opus One 的公司持有，该公司以 Contest Factory 名义开展业务。该专利以及一项相关专利声称涵盖了广泛的在线竞赛。 Opus One 已对几家帮助举办在线竞赛的公司提起诉讼，甚至威胁了一家组织非商业竞赛的小型照片公司。这些专利凸显了软件专利失控的问题，这不仅给美国经济带来了沉重的负担，而且限制了人们表达自己和参与网络文化的权利。政府不应该颁发此类专利，并且应该让挑战它们变得更容易。]]></description>
+      <guid>https://t.me/hn_summary/65623</guid>
+      <pubDate>Mon, 25 Dec 2023 16:24:43 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 此 GitHub 项目提供了 AV1 视频编解码器规范的技术概述。</title>
-      <link>https://t.me/hn_summary/65608</link>
-      <description><![CDATA[AV1视频编解码器详细介绍
-此 GitHub 项目提供了 AV1 视频编解码器规范的技术概述。 AV1是开放媒体联盟开发的免版税视频编解码器，旨在提高编码效率并支持4k UHD、HDR和WCG等功能。该项目讨论了 AV1 支持的配置文件和级别、块结构、预测模式和变换块大小。它还强调了 AV1 和 VP9 编解码器之间的差异。该项目可以作为了解 AV1 的编码工具和功能的参考。 （根据故事文本的 19% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/65608</guid>
-      <pubDate>Mon, 25 Dec 2023 13:03:31 GMT</pubDate>
+      <title>[媒体] 在这篇博文中，作者讨论了正确构建代码的重要性 [...]</title>
+      <link>https://t.me/hn_summary/65622</link>
+      <description><![CDATA[技术写作的出现：代码片段
+在这篇博文中，作者讨论了在技术写作中正确构建代码片段的重要性。他们强调需要提供有关依赖项以及如何安装它们的明确说明，以及使用仅包含完成特定任务所需的代码的“最小可行代码片段”。作者还强调了解释每个代码片段的作用并为需要更改的值提供替换的重要性。他们建议技术编写者应努力让读者的体验尽可能愉快，并在遇到任何代码问题时向工程团队提供反馈。]]></description>
+      <guid>https://t.me/hn_summary/65622</guid>
+      <pubDate>Mon, 25 Dec 2023 16:18:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
