@@ -4,13 +4,27 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 24 Dec 2023 21:10:36 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 Dec 2023 00:50:40 GMT</lastBuildDate>
     <item>
-      <title>Adzy - 使用附属机构和人工智能颠覆 Google AdSense 市场</title>
-      <link>https://www.reddit.com/r/opensource/comments/18pzcyz/adzy_disrupting_google_adsense_market_using/</link>
-      <description><![CDATA[      您对此平台有何看法？   由   提交/u/airofy  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/18pzcyz/adzy_disrupting_google_adsense_market_using/</guid>
-      <pubDate>Sun, 24 Dec 2023 17:15:18 GMT</pubDate>
+      <title>Tally 的操作系统替代方案</title>
+      <link>https://www.reddit.com/r/opensource/comments/18q71el/os_alternative_to_tally/</link>
+      <description><![CDATA[是否有任何功能操作系统可以替代 Tally [ 参考：https://tallysolutions. com]会计软件？ 还有其他可以读取Tally数据文件的替代方案吗？   由   提交/u/Interesting_Ad_5676   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/18q71el/os_alternative_to_tally/</guid>
+      <pubDate>Sun, 24 Dec 2023 23:58:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>亲爱的，我又构建了另一个表单验证库</title>
+      <link>https://www.reddit.com/r/opensource/comments/18q6lm0/honey_i_built_yet_another_form_validation_library/</link>
+      <description><![CDATA[我构建 onsubmit 时牢记一件事：我只想要一组错误。 仓库：https://github.com/AmmarHalees/onsubmit 非常感谢您的反馈。   由   提交 /u/Ammarhalees   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/18q6lm0/honey_i_built_yet_another_form_validation_library/</guid>
+      <pubDate>Sun, 24 Dec 2023 23:33:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>圣诞快乐！刚刚发布了 TransTerm 更新，我准备好展示它了！ （YouTube 工具）</title>
+      <link>https://www.reddit.com/r/opensource/comments/18q5c1p/happy_xmas_just_released_transterm_update_i_feel/</link>
+      <description><![CDATA[大家好！ 圣诞快乐！ 我觉得我已经准备好分享这个小工具了我制作了 YouTube 视频。 https://github.com/thecookingsenpai/TransTerm 屏幕截图：https://i.imgur.com/woRKbiK.png 编辑：我忘记了主要功能。 它在命令行上运行，不需要桌面环境。 TUI 已经足够了。 快速功能列表：  YouTube 视频下载器：以最高分辨率下载 YouTube 视频（默认为 mp4 格式）。 视频格式转换：自动将下载的视频转换为 mp3 或 wav 格式。 播放列表支持：下载整个播放列表并使用视频标题和频道名称自动重命名文件。 视频转录：使用 Google Audio to Text、带静音检测的 Google Audio to Text 或 Sphynx CMU（本地离线处理）转录下载的视频。  我为自己制作此内容是为了避免使用付费服务，例如HappyScribe，甚至不要考虑将其用于非法目的。冗长、法律术语和精心设计的免责声明确保，如果您使用此软件做了不好的事情，这不是我的错。只要合法​​地使用它，我相信你们所有人。 另外：肯定有错误，我已经尽我所能进行了测试。代码带有注释且简单，因此请随意查找 TODO 或 FIXME 或进行一般贡献。 我在空闲时间做这件事以及上千件事，所以请耐心等待:) 我不知道这篇文章的格式是否正确，我希望如此，我只是想在圣诞节为社区送点东西。   由   提交 /u/drotosclerosi   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/18q5c1p/happy_xmas_just_released_transterm_update_i_feel/</guid>
+      <pubDate>Sun, 24 Dec 2023 22:24:50 GMT</pubDate>
     </item>
     <item>
       <title>有开源的吉他谱制作工具吗？谢谢。</title>
@@ -22,7 +36,7 @@
     <item>
       <title>🎨 Butterfly（跨平台、开源、简约笔记应用）2.0.0 发布</title>
       <link>https://www.reddit.com/r/opensource/comments/18pvq2l/butterfly_crossplatform_opensource_minimalistic/</link>
-      <description><![CDATA[    /u/CodeDoctorDE   [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[       由   提交 /u/CodeDoctorDE   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/18pvq2l/butterfly_crossplatform_opensource_minimalistic/</guid>
       <pubDate>Sun, 24 Dec 2023 13:57:40 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[    /u/vigneshwarar   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/18oksmb/gptvision_first_opensource_browser_automation/</guid>
       <pubDate>Fri, 22 Dec 2023 17:55:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>Linux 和 Homelab 指南更新 - 添加了更多内容</title>
-      <link>https://www.reddit.com/r/opensource/comments/18ojl6w/linux_homelab_guides_update_added_more/</link>
-      <description><![CDATA[ 由   提交/u/ImFascminateMC   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/18ojl6w/linux_homelab_guides_update_added_more/</guid>
-      <pubDate>Fri, 22 Dec 2023 17:01:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于私人托管 LLM 的 iOS 应用程序</title>
-      <link>https://www.reddit.com/r/opensource/comments/18oj56m/ios_app_for_privately_hosted_llm/</link>
-      <description><![CDATA[       由   提交/u/1amrocket  [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/18oj56m/ios_app_for_privately_hosted_llm/</guid>
-      <pubDate>Fri, 22 Dec 2023 16:42:41 GMT</pubDate>
     </item>
     </channel>
 </rss>

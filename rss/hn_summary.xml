@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Sun, 24 Dec 2023 17:59:46 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 Dec 2023 00:41:17 GMT</lastBuildDate>
     <item>
-      <title>[媒体]作者讨论了这样的想法：并非所有软件都需要不断发展和改进 [...]</title>
-      <link>https://t.me/hn_summary/65507</link>
-      <description><![CDATA[成品软件
-作者讨论了并非所有软件都需要不断发展和接收更新的想法。他们认为，软件应该不断改进的信念导致了软件即服务 (SaaS) 的兴起，用户每月支付费用才能访问不断更新的软件。作者提到了他们自己的公司 37signals，该公司将其业务建立在持续改进的承诺之上。不过，他们也强调了 Dropbox 的例子，他们认为该文件同步服务在实现其最初目的后应该保持不变。作者认为软件被视为已完成且不不断变化是有价值的。他们介绍了自己的公司 once.com，旨在创建具有明确“完成”路径的软件产品。]]></description>
-      <guid>https://t.me/hn_summary/65507</guid>
-      <pubDate>Sun, 24 Dec 2023 17:59:46 GMT</pubDate>
+      <title>使用 Ubuntu 进行 x86-64 汇编语言编程 作者：Ed Jorgensen</title>
+      <link>https://t.me/hn_summary/65554</link>
+      <description><![CDATA[Ed Jorgensen 使用 Ubuntu 进行 x86-64 汇编语言编程
+《使用Ubuntu进行x86-64汇编语言编程》是一本针对大学水平的汇编语言和系统编程课程的综合参考书。本文由 Ed Jorgensen 撰写，重点介绍流行的 x86-64 处理器使用的 x86-64 指令集，特别是在 Ubuntu 64 位操作系统的上下文中。虽然提供的代码和示例应该适用于任何基于 Linux 的 64 位操作系统，但它们已经在 Ubuntu 14/16/18 LTS（64 位）上进行了专门测试。对于希望学习和掌握 x86-64 架构上的汇编语言编程的学生和专业人士来说，本书是宝贵的资源。]]></description>
+      <guid>https://t.me/hn_summary/65554</guid>
+      <pubDate>Mon, 25 Dec 2023 00:41:17 GMT</pubDate>
     </item>
     <item>
-      <title>作者认为大多数个人博客不需要浏览器分析。</title>
-      <link>https://t.me/hn_summary/65506</link>
-      <description><![CDATA[您的博客不需要分析&lt; br/&gt;
-作者认为大多数个人博客不需要浏览器分析。他们分享了自己在 2017 年从博客中删除分析的经验，以及这如何对他们的写作动机、流量趋势或受欢迎程度没有产生负面影响。他们解释说，他们使用 Ruby 脚本来跟踪流量趋势，该脚本总结了 Nginx 访问日志，该日志提供了有关帖子受欢迎程度、读者地理位置和传入流量来源的足够信息。作者还讨论了分析如何有助于调试目的和了解特定帖子何时受到关注。他们强调，他们仍然可以通过网络服务器的访问日志访问这些信息。]]></description>
-      <guid>https://t.me/hn_summary/65506</guid>
-      <pubDate>Sun, 24 Dec 2023 17:45:33 GMT</pubDate>
+      <title>[媒体] 该网页内容讨论了 SSH ProxyCommand 功能中的一个漏洞，该功能是 comm [...]</title>
+      <link>https://t.me/hn_summary/65553</link>
+      <description><![CDATA[SSH ProxyCommand == 意外代码执行 (CVE-2023-51385) 
+Web 内容讨论了 SSH ProxyCommand 功能中的漏洞，该功能通常用于代理 SSH 连接。当不受信任的来源提供恶意主机名作为 ProxyCommand 指令的参数以允许代码执行时，就会出现该漏洞。作者提供了一个示例和概念验证 (PoC) 来演示该漏洞。作者还提到，即使使用单引号来净化参数，也不足以防止该漏洞。内容最后感谢参与解决该漏洞的个人和组织，并提供了有关如何向 OpenSSH/OpenBSD 捐款的信息。]]></description>
+      <guid>https://t.me/hn_summary/65553</guid>
+      <pubDate>Mon, 25 Dec 2023 00:23:06 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]NASA 已在 [...] 成功测试了 3D 打印的旋转爆震火箭发动机 (RDRE)</title>
-      <link>https://t.me/hn_summary/65505</link>
-      <description><![CDATA[NASA 3D 打印旋转爆炸火箭发动机测试成功
-NASA 已在阿拉巴马州亨茨维尔的马歇尔太空飞行中心成功测试了 3D 打印的旋转爆震火箭发动机 (RDRE)。该发动机在 251 秒内产生超过 5,800 磅的推力，满足着陆器接地或深空燃烧的要求。该测试旨在了解如何将燃烧器扩展到不同的推力等级，以支持各种发动机系统和任务。 RDRE 提高了设计效率，使 NASA 更接近将更多质量和有效载荷送入更远的太空。美国宇航局格伦研究中心和维纳斯宇航公司正在与美国宇航局马歇尔公司合作，扩展该技术以获得更高的性能。]]></description>
-      <guid>https://t.me/hn_summary/65505</guid>
-      <pubDate>Sun, 24 Dec 2023 17:30:18 GMT</pubDate>
+      <title>[媒体]由于电动汽车“进展缓慢”，奥迪正在缩减其电动汽车 (EV) 的推出计划 [...]</title>
+      <link>https://t.me/hn_summary/65552</link>
+      <description><![CDATA[奥迪暂时搁置了电动汽车的大力推广&lt; br/&gt;
+由于电动汽车“放缓”，奥迪正在缩减其电动汽车（EV）的推出计划，以避免其团队和经销商不堪重负。该公司原计划到 2026 年推出 20 款新车型，其中 10 款是电动汽车。然而，奥迪现在将专注于新的内燃和插电式混合动力车型，其中包括一些电动车型。延迟的部分原因是大众汽车内部软件部门 Cariad 的软件问题，影响了电动汽车 PPE 平台的完成。奥迪首席执行官格诺特·多尔纳 (Gernot Döllner) 认为，经济放缓对该品牌有利，因为它可以专注于其内燃机汽车。]]></description>
+      <guid>https://t.me/hn_summary/65552</guid>
+      <pubDate>Mon, 25 Dec 2023 00:15:56 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]中国媒体平台 TikTok 拒绝播放以色列人质视频 [...]</title>
-      <link>https://t.me/hn_summary/65504</link>
-      <description><![CDATA[“过于政治化”：TikTok 拒绝播放以色列人质视频
-中国拥有的媒体平台 TikTok 拒绝播放以色列人质和失踪人员论坛制作的以色列人质视频。该论坛制作短视频片段，以提高人们对以色列被绑架者困境的认识，特别是那些受到 10 月 7 日哈马斯袭击影响的人。虽然这些片段在 Facebook 等平台上推广，但 TikTok 认为它们“过于政治化”并拒绝了它们。 TikTok 因营造有利于反犹太主义传播的环境而受到广泛批评，萨沙·拜伦·科恩 (Sasha Baron Cohen) 和艾米·舒默 (Amy Schumer) 等犹太名人公开反对该平台。]]></description>
-      <guid>https://t.me/hn_summary/65504</guid>
-      <pubDate>Sun, 24 Dec 2023 17:27:10 GMT</pubDate>
+      <title>什么是节日？</title>
+      <link>https://t.me/hn_summary/65551</link>
+      <description><![CDATA[什么是 Festivus？ （以及如何与我们其他人一起庆祝）
+Festivus 是 Frank Costanza 创建的一个节日，作为圣诞节的替代品。它拒绝了圣诞节的商业和宗教方面，而是以普通的铝杆、肉饼晚餐和独特的传统为特色，例如“表达不满”和“力量的壮举”。节日于 12 月 23 日庆祝，以比圣诞节便宜而闻名，因此深受大学生和联邦囚犯的欢迎。庆祝节日还意味着避免向同事赠送礼物的义务，而是要求向一个名为“人类基金”的虚构慈善机构捐款。节日向所有人开放，并已成为一种狂热现象，有专门介绍节日的书籍和烹饪书籍。]]></description>
+      <guid>https://t.me/hn_summary/65551</guid>
+      <pubDate>Mon, 25 Dec 2023 00:11:49 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]衰落主义是认为社会或机构处于衰落状态的信念。</title>
-      <link>https://t.me/hn_summary/65503</link>
-      <description><![CDATA[衰落主义
-衰落主义是认为社会或机构正处于衰落状态的信念。这种信念常常受到认知偏见的影响，例如乐观回顾，这导致人们对过去更加乐观，对未来更加消极。衰落论的思想在整个历史中一直存在，爱德华·吉本的《罗马帝国衰亡史》和奥斯瓦尔德·斯宾格勒的《西方的衰落》等著名著作为其流行做出了贡献。衰落主义既可以被视为一种心理诡计，也是一种应对当下的情感策略。这是美国政治中反复出现的主题，历史学家指出了衰落主义的各个阶段。英国和法国等欧洲国家也经历了一段时期的衰落。总体而言，衰落主义是一种警告和行动呼吁，但如果它导致衰落预言的自我实现，它也可能是有害的。 （根据故事文本的 76% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/65503</guid>
-      <pubDate>Sun, 24 Dec 2023 16:55:44 GMT</pubDate>
+      <title>[媒体]IBM Security 发现了一个恶意 JavaScript 代码，该代码已危害超过 50,0 [...]</title>
+      <link>https://t.me/hn_summary/65550</link>
+      <description><![CDATA[一些令人讨厌的注入登录窃取 JavaScript 50K 网上银行会话
+IBM Security 发现了一个恶意 JavaScript 代码，该代码已破坏了与全球 40 多家银行的 50,000 多个用户会话。这种名为 DanaBot 的恶意软件通过垃圾邮件感染受害者的电脑，并等待他们访问银行网站。然后，它将 JavaScript 注入登录页面，拦截受害者输入的凭据。该代码针对北美、南美、欧洲和日本的金融组织。该恶意软件与远程命令和控制服务器进行通信，并可以执行各种操作，包括窃取一次性密码和显示虚假错误消息。 IBM 警告称，这种复杂的威胁对金融机构及其客户构成重大危险。]]></description>
+      <guid>https://t.me/hn_summary/65550</guid>
+      <pubDate>Mon, 25 Dec 2023 00:09:40 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]文章讨论了美国板栗树的衰退和潜在恢复。</title>
-      <link>https://t.me/hn_summary/65502</link>
-      <description><![CDATA[美国失去了栗子，它是一棵完美的树&lt; br/&gt;
-本文讨论了美国板栗树的衰退和潜在恢复。美洲板栗曾经是东北部森林的优势物种，但在 20 世纪初几乎被一种名为枯萎病的真菌病害消灭。板栗的消失产生了重大的生态和文化影响，因为板栗树为动物和人类提供了食物、住所和资源。尽管挑战仍然存在，但目前正在努力通过育种和基因改造来恢复美洲板栗。这篇文章强调了围绕在恢复过程中使用转基因生物（GMO）的争议。尽管面临挑战，美国板栗的恢复被视为将一种独特且有价值的树带回美国景观的一种方式。]]></description>
-      <guid>https://t.me/hn_summary/65502</guid>
-      <pubDate>Sun, 24 Dec 2023 16:45:32 GMT</pubDate>
+      <title>[媒体]不幸的是，提供的摘要不完整并且没有提供足够的信息[...]</title>
+      <link>https://t.me/hn_summary/65549</link>
+      <description><![CDATA[新音乐生成开放模式：Dub、DnB、BoomBap
+不幸的是，提供的摘要不完整，没有提供足够的信息来准确总结内容。请提供更多详细信息或全文，以便生成摘要。]]></description>
+      <guid>https://t.me/hn_summary/65549</guid>
+      <pubDate>Mon, 25 Dec 2023 00:06:34 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]作者讨论了来年致力于能力的重要性。</title>
-      <link>https://t.me/hn_summary/65501</link>
-      <description><![CDATA[致力于在来年发挥能力
-作者讨论了在来年致力于能力的重要性。他们承认，许多人制定了决心，但往往无法贯彻执行。然而，他们认为花时间提高工作技能是一个更容易实现的目标。作者以编程为例，强调了在自己的领域刻意练习和精进的价值。他们鼓励走更长的路并专注于美学，以找到新颖的解决方案并学习新技术。作者还强调了修改和完善工作的重要性，无论是代码还是写作，以实现卓越。他们认为，从长远来看，现在投入时间提高技能将会得到回报。]]></description>
-      <guid>https://t.me/hn_summary/65501</guid>
-      <pubDate>Sun, 24 Dec 2023 16:43:24 GMT</pubDate>
+      <title>在这篇研究论文中，我们探讨了微调语言模型中时间编码的概念。</title>
+      <link>https://t.me/hn_summary/65548</link>
+      <description><![CDATA[时间被编码在微调语言模型的权重中 
+在这篇研究论文中，我们探讨了微调语言模型中时间编码的概念。我们提出了一种新颖的方法，将时间信息纳入这些模型的权重中，使它们能够更好地理解和生成与时间相关的文本。通过尝试不同的方法，我们证明了我们的时间编码技术显着提高了语言模型在语言生成和情感分析等任务上的性能。我们的研究结果表明，考虑时间信息可以极大地增强语言模型的能力，为自然语言处理应用开辟新的可能性。]]></description>
+      <guid>https://t.me/hn_summary/65548</guid>
+      <pubDate>Mon, 25 Dec 2023 00:06:31 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]本文讨论了自动播放特定歌曲的常见烦恼 [...]</title>
-      <link>https://t.me/hn_summary/65500</link>
-      <description><![CDATA[每次将手机插入手机时停止自动播放同一首歌曲汽车
-本文讨论了每次智能手机插入汽车时自动播放特定歌曲的常见烦恼。它解释说，无论连接方式如何，iPhone 默认都会按字母顺序播放 iTunes 中的第一首歌曲。作者提到了由于这个问题在他们的车里播放的一些随机且可能令人尴尬的歌曲。文章提出了一些减少烦恼的方法，例如调整车辆设置或下载一首“空白歌曲”，其标题使其位于 iTunes 列表的顶部。作者强调了 iTunes 上一首名为“A a a a a Very Good Song”的无声曲目的成功，这表明人们愿意为自动播放问题的解决方案付费。]]></description>
-      <guid>https://t.me/hn_summary/65500</guid>
-      <pubDate>Sun, 24 Dec 2023 16:24:10 GMT</pubDate>
+      <title>据 [...] 墨西哥已上升两位，成为世界第 12 大经济体。</title>
+      <link>https://t.me/hn_summary/65547</link>
+      <description><![CDATA[墨西哥目前是世界第 12 大经济体 
+根据国际货币基金组织 (IMF) 的数据，墨西哥的排名上升两位，成为世界第 12 大经济体。国际货币基金组织预测，得益于强劲的出口和投资，墨西哥今年的国内生产总值将达到1.81万亿美元。该国的制造业拥有大量外国直接投资和出口收入。墨西哥政府在社交媒体上庆祝了这一进步，但围绕一张声称墨西哥比 2022 年上升了 4 位的图表存在争议。国际货币基金组织预计墨西哥明年将超越俄罗斯成为第 11 大经济体，并保持这一地位直到2028。]]></description>
+      <guid>https://t.me/hn_summary/65547</guid>
+      <pubDate>Sun, 24 Dec 2023 23:40:11 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]该网页内容的作者分享了他们最近对麻将游戏的痴迷和[...]</title>
-      <link>https://t.me/hn_summary/65499</link>
-      <description><![CDATA[拥有一款我喜欢的游戏让每一天都充满乐趣
-该网页内容的作者分享了他们最近对麻将游戏的痴迷以及麻将如何给他们带来日常乐趣。他们反思过去吸引他们的爱好和活动，例如足球、音乐、游戏和阅读。作者强调拥有能让他们兴奋并让他们活在当下的东西的价值。他们提到，虽然这些痴迷可能并不总能带来工作或生活中有用的东西，但人类最大的幸福就是活在当下。作者也承认在技能提升中遇到困难的挑战以及坚持不懈的重要性。]]></description>
-      <guid>https://t.me/hn_summary/65499</guid>
-      <pubDate>Sun, 24 Dec 2023 16:22:03 GMT</pubDate>
+      <title>作者反思了他们的童年记忆，将初升的月亮误认为是神秘的 [...]</title>
+      <link>https://t.me/hn_summary/65546</link>
+      <description><![CDATA[球体
+作者回顾了他们的童年记忆，将初升的月亮误认为是神秘而可怕的光芒。然后，他们讨论了最近对 The Sphere 的参观，这是拉斯维加斯的一个大型竞技场，拥有独特的球形设计和大型 LED 屏幕。作者被球体的形状和光线所吸引，并想知道一个物理物体是否仍然可以让当今世界的人们兴奋和启发。他们还探讨了球形结构的历史以及对球体设计的对比影响。作者最后质疑 The Sphere 能否真正实现其激发大众文化的雄心。 （根据 52% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/65546</guid>
+      <pubDate>Sun, 24 Dec 2023 23:34:02 GMT</pubDate>
     </item>
     <item>
-      <title>这篇网络内容文章的作者承认自己是日本世界的休闲游客 [...]</title>
-      <link>https://t.me/hn_summary/65498</link>
-      <description><![CDATA[将“J”放入 RPG，第 3 部分：进行决赛幻想七
-这篇网络内容文章的作者承认自己是日本角色扮演游戏和主机视频游戏世界的休闲游客。他们表示由于缺乏该类型的资格和经验，因此对审查《最终幻想 VII》感到犹豫。作者分享了他们最初对这款游戏的困惑和失望，觉得它莫名其妙且难以理解。然而，他们承认这款游戏的重要性并决定再给它一次机会。有了一些背景信息和实用技巧，作者开始欣赏游戏的叙事结构和复杂性。 （根据 31% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/65498</guid>
-      <pubDate>Sun, 24 Dec 2023 16:04:49 GMT</pubDate>
+      <title>[媒体]本文讨论了 Xenix 的历史，Xenix 是 Microsoft i 开发的 UNIX 版本 [...]</title>
+      <link>https://t.me/hn_summary/65545</link>
+      <description><![CDATA[Xenix 的历史
+本文讨论了 Xenix 的历史，Xenix 是 Microsoft 在 20 世纪 80 年代初开发的 UNIX 版本。 Xenix 专为 16 位微型计算机而设计，包含 BASIC、FORTRAN 和 COBOL 等流行编程语言。 Microsoft 旨在将 UNIX 的功能引入微处理器，并从 Western Electric 购买了源代码许可证。 Xenix 受到欢迎并成为 16 位微处理器的主导操作系统。微软还开发了MS-DOS和XEDOS作为向上兼容的操作系统。 Xenix 不断发展并获得对各种网络的支持。尽管 AT&amp;T 解散并发布了 UNIX System V，Microsoft 仍继续开发 Xenix。 （根据故事文本的 40% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/65545</guid>
+      <pubDate>Sun, 24 Dec 2023 23:14:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
