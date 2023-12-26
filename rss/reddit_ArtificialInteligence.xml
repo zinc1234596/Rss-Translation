@@ -4,7 +4,21 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Tue, 26 Dec 2023 12:18:21 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 Dec 2023 15:10:29 GMT</lastBuildDate>
+    <item>
+      <title>政府将阻止人工智能抢走大部分工作</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/18r8ou1/the_government_will_prevent_ai_from_taking_most/</link>
+      <description><![CDATA[我知道有这样一种想法，即人工智能将夺走大多数人的工作，虽然它们在技术上可能是正确的，但在政治上并不可行。我们现在已经拥有自动驾驶汽车，但世界各地的政策制定者阻止了自动驾驶汽车的大规模采用，而宁愿人们专注于电动汽车。美国的绿色新政是为了创造就业机会，因此他们不会投资自动驾驶电动汽车，而是投资电动卡车和出租车，雇用数十万名司机。人工智能也会发生同样的情况。  我们生活在民主国家，大多数人都是中产阶级办公室职员，目前最容易受到人工智能的影响。政客们希望保住自己的工作。他们不会允许大多数选民反对他们。看看铁锈地带发生的事情，现在那里的选民如此愤怒，美国政策制定者将就业机会带回铁锈地带，只是为了阻止另一方获胜。  你们都担心太多了，只关注技术，而不是选择是否允许某些技术接管的人类。  &amp; #32；由   提交/u/OnlyTruth4000   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/18r8ou1/the_government_will_prevent_ai_from_taking_most/</guid>
+      <pubDate>Tue, 26 Dec 2023 13:59:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>每日两分钟人工智能更新（日期：2023 年 12 月 26 日）：来自 Meta、ByteDance、Haltia Inc.、Apple、Humane、OpenAI 等的新闻</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/18r893s/twominute_daily_ai_update_date_12262023_news_from/</link>
+      <description><![CDATA[继续分享人工智能领域当天主要更新的易于理解且较小的版本。   Meta 用于日常设备的 3D AI - Meta 研究和 Codec Avatars Lab（与 MIT 合作）提出了 PlatoNeRF，一种从使用单光子激光雷达捕获的两次反射信号的单一视图。它使用 NeRF 重建激光雷达测量结果，从而能够从单个视图中学习物理精确的 3D 几何图形。 字节跳动推出了用于零镜头纵向视图的 DiffPortrait3D -字节跳动的研究提出了 DiffPortrait3D，这是一种新颖的条件扩散模型，能够从稀疏的输入视图生成一致的新颖肖像。 SoTA LLM 可以在没有互联网的手机上运行吗？ - Haltia Inc. 的新研究探索了设备上大语言模型 (LLM) 推理在各种 Apple iPhone 型号上的可行性和性能。该研究利用有关在资源有限的设备上运行数十亿参数 LLM 的现有文献，研究了不同智能手机代中高性能 LLM 的热效应和交互速度。它展示了真实世界的性能结果，提供了对设备上推理能力的见解。 据报道，苹果公司希望利用该消息来帮助训练其人工智能模型 - Apple正在与一些大型新闻出版商洽谈授权其新闻档案，并利用这些信息来帮助训练其生成式人工智能系统，达成“价值至少 5000 万美元的多年交易”。它已与 Condé Nast、NBC News 和 IAC 等出版物保持联系。 Sam Altman 支持的 Humane 从 2024 年 3 月开始推出由 ChatGPT 驱动的 AI Pin - Humane 计划优先向有优先订单的客户发送产品。订单将由先下订单的人按时间顺序发货。  OpenAI 寻求新一轮融资，估值不低于 1000 亿美元 - 可能参与的投资者已纳入初步讨论。本轮融资的条款、估值和时间安排等细节尚未最终确定，且仍可能发生变化。 新法案要求人工智能公司披露受版权保护的训练数据&lt; br /&gt; - 两名立法者提出了一项法案，要求基础模型的创建者披露训练数据的来源，以便版权所有者知道他们的信息已被盗取。它被称为人工智能基金会模型透明度法案。 人工智能发现了一类新的抗生素来杀死耐药细菌 - 人工智能帮助发现了一类新的抗生素可以治疗耐药细菌引起的感染的抗生素。这可能有助于对抗抗生素耐药性，抗生素耐药性在 2019 年导致了超过 120 万人死亡。  这些新闻和创新的更详细分类请参见 每日新闻。    ;由   提交 /u/RohitAkki   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/18r893s/twominute_daily_ai_update_date_12262023_news_from/</guid>
+      <pubDate>Tue, 26 Dec 2023 13:34:52 GMT</pubDate>
+    </item>
     <item>
       <title>我对人工智能技术发展近期的看法</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/18r60cn/my_view_on_near_future_of_ai_technologies/</link>
@@ -76,25 +90,11 @@
       <pubDate>Tue, 26 Dec 2023 04:59:56 GMT</pubDate>
     </item>
     <item>
-      <title>学习AI工具的课程（针对家长）</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/18qp3f8/courses_for_learning_ai_tools_for_parents/</link>
-      <description><![CDATA[嗨，我的父母有兴趣了解有关人工智能的更多信息以及可用的工具。我父亲特别有兴趣学习 ChatGPT 的功能以及如何将其应用于他的业务等内容。如果可能的话，他们正在寻找类似 Coursera 课程的课程（YouTube 视频或系列也可以）。 我试图查看，但我发现的大多数内容都是针对以下人群的：想成为 AI/ML 工程师。有人对更以用户为导向的东西有建议吗？谢谢！   由   提交 /u/themodulus   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/18qp3f8/courses_for_learning_ai_tools_for_parents/</guid>
-      <pubDate>Mon, 25 Dec 2023 19:21:56 GMT</pubDate>
-    </item>
-    <item>
       <title>我这么晚可以转向机器学习、人工智能和/或数据科学吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/18qm3tt/can_i_shift_to_machine_learning_al_andor_data/</link>
       <description><![CDATA[大家好，我是一名27岁的男性，目前在一家初创公司担任软件工程师。我在两个不同领域拥有两个工程学位：1）“工业和自动计算机科学”； 2)“电子和数字技术”专注于实时和嵌入式系统。在我目前的工作中，我开发嵌入式软件。我从事这份工作已经两年了，最近我对它不太满意。我发现自己很无聊，不感兴趣，也不喜欢从事某些项目。另外我对嵌入式系统和这类软件开发不是很热衷，所以我想转行到人工智能领域。我过去曾从事过一个数据科学-机器学习项目，我发现它非常有趣并且对我很有吸引力。我希望将来在这个不断发展的令人兴奋的领域工作，但我不知道从哪里开始以及如何开始。 此时是否可以转变，或者对我来说为时已晚？如果可能的话我有什么选择？考虑攻读人工智能硕士学位是个好主意吗？或者phd是更好的选择吗？以前有人遇到过这种情况吗？我完全迷失了，这对我影响很大。非常感谢任何形式的帮助。   由   提交/u/DownToMarsMan   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/18qm3tt/can_i_shift_to_machine_learning_al_andor_data/</guid>
       <pubDate>Mon, 25 Dec 2023 16:45:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>技术奇点最坏的情况是什么？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/18qjsfv/technological_singularity_worst_case_scenario/</link>
-      <description><![CDATA[今年是 2043 年，也就是我们实现技术奇点 10 年后。人类不再享有地球上最聪明的生物体的称号。我们几乎不再凭直觉和创造性思考；一切都是由人工智能完成的，人工智能以比任何进化物种更快的方式完善自己。 这一次，我认为我们输了。人类没有太多工作要做。我们已经取得了其他物种无法做到的事情，因为我们创造了比我们聪明得多的东西。 一切都无法预测；一切都变得更加美好。这些技术进步似乎如此之快，我们人类很难掌握这一点。如果机器可以比我们聪明得多，那么它们有什么理由不认为我们低人一等？ 也许斯蒂芬·霍金是对的；这种智慧会瞬间消灭人类，但我试图保持积极的态度；如果人类会因为自己的创造而灭绝，那就这样吧。 无论如何，我们都不会探索宇宙，因为我们在生物学上是如此脆弱，而宇宙又是如此令人难以置信的浩瀚。 所以也许让他们继续我们的旅程和使命。   由   提交 /u/bfcrew   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/18qjsfv/technological_singularity_worst_case_scenario/</guid>
-      <pubDate>Mon, 25 Dec 2023 14:35:06 GMT</pubDate>
     </item>
     <item>
       <title>新的反垃圾邮件/机器人规则 [请阅读]</title>
