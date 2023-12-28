@@ -4,7 +4,7 @@
     <title>最新提交：GPT3</title>
     <link>https://www.reddit.com/r/GPT3/new</link>
     <description>AI 文本生成技术的 Reddit 子版块</description>
-    <lastBuildDate>Thu, 28 Dec 2023 03:11:42 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 Dec 2023 06:14:17 GMT</lastBuildDate>
     <item>
       <title>《纽约时报》起诉 Open AI 和微软侵犯版权 - InBoom.AI</title>
       <link>https://www.reddit.com/r/GPT3/comments/18s97sm/the_new_york_times_sues_open_ai_microsoft_for/</link>
@@ -46,13 +46,6 @@
       <description><![CDATA[请   由   提交/u/xqoe  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/GPT3/comments/18riw03/a_link_to_an_internet_relay_chat_server_who_has_a/</guid>
       <pubDate>Tue, 26 Dec 2023 21:34:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何解决“OpenAI API 错误：TypeError：openai.chat.completions 不是函数”错误？</title>
-      <link>https://www.reddit.com/r/GPT3/comments/18r2vra/how_do_i_solve_the_openai_api_error_typeerror/</link>
-      <description><![CDATA[代码如下： ​ if (msg.content. startsWith(&#39;!ss talk&#39;)) { const userMessage = msg.content.slice(&#39;!ss talk&#39;.length).trim(); try { const response = wait openai.chat.completions({ model: &#39;gpt-3.5-turbo&#39;, messages: [ { role: &#39;system&#39;, content: &#39;Chat GPT 是一个友好的聊天机器人。&#39;, }, { role: &#39;用户&#39;，内容：userMessage, } ] }); msg.reply(response.choices[0].text); } catch (error) { console.error(&#39;OpenAI API 错误：&#39;, error); msg.reply(&#39;抱歉，处理您的请求时出错。&#39;); } }  我做错了什么？   由   提交/u/Proud_Umpire1726   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/GPT3/comments/18r2vra/how_do_i_solve_the_openai_api_error_typeerror/</guid>
-      <pubDate>Tue, 26 Dec 2023 07:39:35 GMT</pubDate>
     </item>
     <item>
       <title>有什么系统方法可以为我的特定用例找到最合适的提示技术？</title>
@@ -109,6 +102,13 @@
       <description><![CDATA[       由   提交/u/Jasperstudio  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/GPT3/comments/18lkdsd/all_about_gpt45_real_fake_hallucination_already/</guid>
       <pubDate>Mon, 18 Dec 2023 21:40:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>第一次有汽车经销商说出真相</title>
+      <link>https://www.reddit.com/r/GPT3/comments/18ljz41/the_first_time_a_car_dealership_has_spoken_the/</link>
+      <description><![CDATA[       由   提交/u/Catenaut  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/GPT3/comments/18ljz41/the_first_time_a_car_dealership_has_spoken_the/</guid>
+      <pubDate>Mon, 18 Dec 2023 21:23:04 GMT</pubDate>
     </item>
     </channel>
 </rss>

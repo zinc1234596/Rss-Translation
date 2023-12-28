@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 28 Dec 2023 03:12:50 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 Dec 2023 06:15:24 GMT</lastBuildDate>
+    <item>
+      <title>开源不仅仅是代码</title>
+      <link>https://www.reddit.com/r/opensource/comments/18sjj98/open_source_is_not_just_code/</link>
+      <description><![CDATA[   开源不仅仅是开放代码。这是开放协作和开放社区。 在开源项目中，您会发现各种各样的贡献者。有些已经存在了几十年，有些已经存在了几个月。有些人是因为工作而获得报酬，有些人则是出于内心的善意。有些人刚刚进入科技行业，需要一个归属感，而另一些人已经在科技行业工作了几十年。鉴于这些事实，当完成协作工作的机会出现时，每个人都必须良好地合作。 Linux 社区中经常被遗忘的一句格言是“了解你的受众”。了解您正在与谁交谈以及为什么与他们交谈即使不是比消息本身更重要，也同样重要。 人们会失去注意力；有时告诉某人只使用 RTFM 或忽略他们会更容易，因为“如果他们只是 DuckDuckGo 这种特定的方式......”请记住，您也曾经那么缺乏经验。 另一方面，与比您更有经验的人打交道，请记住基本的尊重会大有帮助。我见过很多对重大项目做出重要贡献的人，但如果你在街上从他们身边走过，你永远不会知道。我们也需要对这些人表示同情和尊重。他们的错误可能影响更大，但他们每次都会把鞋子放在一只脚上，就像你和我一样。 如果每个人在为开源项目做出贡献时都感觉良好，那么它就会继续下去。如果你让不好的情绪控制了你和项目中的每个人，它就会消耗整个项目。   由   提交/u/tsimonq2  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/18sjj98/open_source_is_not_just_code/</guid>
+      <pubDate>Thu, 28 Dec 2023 03:13:06 GMT</pubDate>
+    </item>
     <item>
       <title>元开源问题</title>
       <link>https://www.reddit.com/r/opensource/comments/18sdctg/meta_open_source_question/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[想知道其他人如何处理其服务器上的备份。   由   提交 /u/VisuelleData   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/18r192s/how_do_you_handle_backups/</guid>
       <pubDate>Tue, 26 Dec 2023 05:54:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>欧盟敲定规则以追究软件创建者的责任</title>
-      <link>https://www.reddit.com/r/opensource/comments/18r0q1s/eu_finalizing_rules_to_hold_software_creators/</link>
-      <description><![CDATA[本月早些时候刚刚看到这篇文章。  https://developersalliance.org/open-source-liability-is-coming/  显然，欧盟正在敲定规则，以确保如果用户直接使用软件，软件制造商甚至 OSS 开发人员也应对任何损害承担责任。这看起来很疯狂。  有人听说过这个吗？这里有关于这个话题的讨论吗？ 你们认为这会对 Alpine（退出欧洲）等大型项目产生什么影响？或影响国际开源贡献者。  听起来像是一套糟糕的规则   由   提交/u/hikertechie  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/18r0q1s/eu_finalizing_rules_to_hold_software_creators/</guid>
-      <pubDate>Tue, 26 Dec 2023 05:24:05 GMT</pubDate>
     </item>
     </channel>
 </rss>

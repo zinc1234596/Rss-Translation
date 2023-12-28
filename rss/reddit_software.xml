@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Thu, 28 Dec 2023 03:12:14 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 Dec 2023 06:14:50 GMT</lastBuildDate>
+    <item>
+      <title>比 vlc 更好的媒体播放器？</title>
+      <link>https://www.reddit.com/r/software/comments/18slr40/a_better_media_player_than_vlc/</link>
+      <description><![CDATA[我一直在使用它，但最近它的字幕出现了问题。其已更新至最新版本。媒体播放器正常，但有明显的卡顿现象。听说过我以前从未听说过的potplayer。有什么建议吗？   由   提交 /u/Otherwise-Slip-9086   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/18slr40/a_better_media_player_than_vlc/</guid>
+      <pubDate>Thu, 28 Dec 2023 05:08:48 GMT</pubDate>
+    </item>
     <item>
       <title>驱动程序更新程序</title>
       <link>https://www.reddit.com/r/software/comments/18sj4dj/driver_updater/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[嘿，我使用的剪辑软件会剪辑我正在玩的任何游戏的最后 5 分钟，但我通常只需要该视频的特定部分，通常长度小于 30 秒。  使用内置的 Windows 11“Clipchamp”垃圾总是很糟糕，而且 Premiere Pro 速度太慢且资源密集，无法在我们继续主题之前导出剪辑  ​ 最好是当我右键单击文件资源管理器时可以显示的内容，但这只是最好的情况，不需要   由   提交/u/jasminelives1  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/18rnxke/need_a_software_to_quickly_trim_videos_quickly/</guid>
       <pubDate>Wed, 27 Dec 2023 01:18:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>什么电脑软件可以自动将文件放入名为“{time}-5”或“{date}+1”的文件夹中？</title>
-      <link>https://www.reddit.com/r/software/comments/18rnd64/what_pc_software_can_automatically_put_files_into/</link>
-      <description><![CDATA[大家好，我正在尝试整理用我的 Google Pixel 手机拍摄的大量照片和视频。 奇怪的事情事情是这样的，Google 工程师非常固执地使用协调世界时或 UTC 来以 PXL_YYYYMMDD_HHMMSS(毫秒).jpg 格式命名所有照片和视频，完全放弃手机上的时区设置或夏令时设置。  以前，我只能使用一个名为dropit的免费小软件来读取文件名，然后按日期和年份将它们放入相应的文件夹中。从 Google Pixel 5 或 7 开始，它变得一团糟。 我想知道，是否有任何软件，如 File Juggler 或其他软件，可以完成此转换，将 day1_180000 到 day2_175959 的文件放入day1 文件夹，依此类推？ 非常感谢您的提示和技巧。   由   提交 /u/Quantum_Crusher   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/18rnd64/what_pc_software_can_automatically_put_files_into/</guid>
-      <pubDate>Wed, 27 Dec 2023 00:51:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
