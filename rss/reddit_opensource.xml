@@ -4,7 +4,28 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 28 Dec 2023 15:11:58 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 Dec 2023 18:14:20 GMT</lastBuildDate>
+    <item>
+      <title>开源 Python 抄袭检查器的推荐</title>
+      <link>https://www.reddit.com/r/opensource/comments/18sy1gk/recommendations_for_opensource_python_plagiarism/</link>
+      <description><![CDATA[大家好！ 我正在寻找一个开源 Python 项目，用于抄袭检查器，供作者部署在我的计算机上网站。我打算自己处理前端和后端开发。因此，我需要一个全面的代码库来提供完整的抄袭检查解决方案。如果有人知道 Python 中的此类开源项目，我非常感谢您的建议。 您为我的项目寻找合适的代码库的指导将非常有帮助。提前感谢您的帮助！ 注意： 我想将文本文件与 Google 提供的最大资源进行比较，而不是文件与文件之间的比较.   由   提交 /u/AbdallahTheGreatest   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/18sy1gk/recommendations_for_opensource_python_plagiarism/</guid>
+      <pubDate>Thu, 28 Dec 2023 16:33:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>免费文档/编程服务</title>
+      <link>https://www.reddit.com/r/opensource/comments/18swr3r/free_documentationprogramming_services/</link>
+      <description><![CDATA[您好r/opensource！为了纪念此 subreddit 中最近发布的帖子，我想提出类似的提议。  我为任何需要帮助的开源项目提供技术写作和编程服务。我担任文案和编辑多年，现在正在转型为程序员和技术作家。今年冬天我有一些空闲时间，我想为我感兴趣的开源项目做出贡献。  关于我： 我是一名来自美国的作家和程序员。我即将获得数学和计算机科学学士学位，并希望在不久的将来找工作之前为开源项目贡献我的技能。  我提供的服务： 我可以帮助创建新文档、更新现有材料或重组内容以提高清晰度。无论是 README 文件、用户指南还是 API 文档，我都渴望为有需要的项目贡献我的技能。  此外，我还是一名称职的程序员。我精通 Python，并熟悉其他语言，包括 C、Java、HTML 和 CSS。  为什么免费？ 我免费提供服务，因为我希望建立强大的产品组合并为开源社区做出贡献。这是一个双赢的局面，我获得了宝贵的经验，而您的项目也获得了改进的文档或代码。  如何联系： 如果您的开源项目可以从改进的文档或其他程序员中受益，请随时通过 PM 与我联系。您也可以在下方留言，我会及时回复您。  欢迎浏览我的 GitHub：https://github.com/atiumcache 谢谢！   由   提交/u/GuitarPizza47   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/18swr3r/free_documentationprogramming_services/</guid>
+      <pubDate>Thu, 28 Dec 2023 15:39:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>r/opensource 对自由软件基金会有何看法？</title>
+      <link>https://www.reddit.com/r/opensource/comments/18sw83k/what_does_ropensource_think_of_the_free_software/</link>
+      <description><![CDATA[r/opensource 认为什么自由软件基金会？ fsf.org 对我来说，他们似乎是一个真正合法的组织，专注于发展免费的 Libre 开源软件，而且他们还拥有有许多可用的优质资源可以为您提供帮助。但他们是合适的捐赠组织吗？或者还有更好的吗？   由   提交/u/Julian_1_2_3_4_5   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/18sw83k/what_does_ropensource_think_of_the_free_software/</guid>
+      <pubDate>Thu, 28 Dec 2023 15:16:12 GMT</pubDate>
+    </item>
     <item>
       <title>OnLogs – 适用于 Docker 容器的开源简化 Web 日志查看器</title>
       <link>https://www.reddit.com/r/opensource/comments/18suaae/onlogs_opensource_simplified_web_logs_viewer_for/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[大家好， 我有一个关于 GPLv2 适用于概念的范围的问题。 过去我曾为 GPLv2 许可的游戏项目做出过贡献。我远非专家，但我能够创建一两个错误修复程序，并对它的工作原理有了大致的了解。 最近，我一直在使用游戏引擎来创建游戏类似于 GPLv2 工作。最坏的情况下，这对于项目规划、架构和一般游戏引擎的使用来说是一个很好的实践。如果它达到了某种程度的最低可行性，那么对于我的朋友组来说，这可能是最过度计划的游戏之夜，但在一些完美的世界中，我有想法让游戏公开可用，或者使用一些功能发布一个更合理范围的游戏。相同的机制。 我一直在写关于特定机制的笔记，跟踪玩家和 NPC 之间的战斗状态。从我一年多前参与 GPL 项目开始，我就模糊地了解到他们使用了某种中间“CombatInstance”实例。  我的问题是：在某种程度上，我对 GPL 项目可能如何做事情的模糊了解是否会使基于它的任何东西都算作 GPLv2 下的衍生作品，或者只要我不提出代码来澄清我对它的理解，我就在明确的许可方面吗？   由   提交/u/tidal49  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/18rnthl/gplv2_patterns_and_derivative_work/</guid>
       <pubDate>Wed, 27 Dec 2023 01:13:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>Inbox Zero - AI 在几分钟内清理收件箱，开源</title>
-      <link>https://www.reddit.com/r/opensource/comments/18rlqmq/inbox_zero_ai_cleanup_inbox_in_minutes_open_source/</link>
-      <description><![CDATA[    /u/pucksir   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/18rlqmq/inbox_zero_ai_cleanup_inbox_in_minutes_open_source/</guid>
-      <pubDate>Tue, 26 Dec 2023 23:37:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找一款windows下的相册软件</title>
-      <link>https://www.reddit.com/r/opensource/comments/18rgtko/looking_for_a_photo_album_software_for_windows/</link>
-      <description><![CDATA[我尝试过使用搜索，但所有答案都推荐使用自托管软件替代谷歌照片等。这不是我想要的寻找。我需要一个独立的离线应用程序，能够标记照片和管理不同的相册。我认为我找到的最接近的例子是 kphotoalbum，但它基于 kde 并且似乎仅限 Linux，这对我来说是一个破坏者。 github 上还有一些不起眼的相册管理器，但我不确定是否应该信任用户群不存在的项目。  自托管怪物是现在唯一的选择吗？ 我正在寻找的更具体的功能是标记面孔并为照片添加描述以及看起来不错的相册演示  p&gt;   由   提交 /u/Igor_Kozyrev   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/18rgtko/looking_for_a_photo_album_software_for_windows/</guid>
-      <pubDate>Tue, 26 Dec 2023 20:02:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>Github 发布包含病毒总数的资产扫描器</title>
-      <link>https://www.reddit.com/r/opensource/comments/18rcyza/github_release_asset_scanner_with_virus_total/</link>
-      <description><![CDATA[嘿，我使用了很多开源移动应用程序 + 一些桌面应用程序，其中一些仅通过 github 发布资产进行分发，所以我认为它如果所有资产都上传到病毒总库并在新版本发布时自动扫描，会感觉更安全。  所以我就这样做了 https://grs.tronikel.dev/ 任何人都可以添加任何存储库，无需任何帐户 对于任何感兴趣的人来说，它是用solidjs和golang制作的 https://github.com/Tronikelis/github-release-scanner ​ ​ ​   由   提交/u/uz45  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/18rcyza/github_release_asset_scanner_with_virus_total/</guid>
-      <pubDate>Tue, 26 Dec 2023 17:17:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
