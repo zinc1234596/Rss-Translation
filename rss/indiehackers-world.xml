@@ -4,7 +4,33 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Fri, 29 Dec 2023 06:15:58 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 Dec 2023 09:12:54 GMT</lastBuildDate>
+    <item>
+      <title>假日黑客马拉松：构建轻量级开源表单服务器 - 需要反馈！</title>
+      <link>https://feed.indiehackers.world/post/027f3f94fe</link>
+      <description><![CDATA[您的意见很重要！
+
+您认为需要这样的工具吗？
+对前端技术堆栈有什么建议吗？
+您希望看到哪些功能？
+
+我洗耳恭听您的反馈、见解，甚至鼓励的话语。您的意见可以使这个假期项目变得非常特别！
+让我们讨论并使这个假期编码之旅成为社区驱动的体验！
+节日快乐，
+JustOneDev
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/027f3f94fe</guid>
+      <pubDate>Fri, 29 Dec 2023 08:49:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>宣布推出 TraderPing 2.0</title>
+      <link>https://feed.indiehackers.world/post/3bf8150b69</link>
+      <description><![CDATA[我们创建 TraderPing 是为了帮助交易者浏览市场中的海量数据。我们很高兴地宣布推出 TraderPing 2.0
+您可以在这里查看（感谢反馈）：https://traderping.com
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/3bf8150b69</guid>
+      <pubDate>Fri, 29 Dec 2023 06:48:52 GMT</pubDate>
+    </item>
     <item>
       <title>利用技术进行同行评审</title>
       <link>https://feed.indiehackers.world/post/321540c294</link>
@@ -146,40 +172,6 @@ Discord 独立黑客聊天广告这里]]></description>
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/9112095e8c</guid>
       <pubDate>Thu, 28 Dec 2023 15:24:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>查找要学习的西班牙语新单词</title>
-      <link>https://feed.indiehackers.world/post/c456ea13af</link>
-      <description><![CDATA[我想要一种简单而有趣的方式来查找西班牙语新单词，所以我构建了这个工具！其工作原理如下：
-
-您输入文本（即 YouTube 视频的文字记录）
-您添加任何忽略词（即“vos、vas、manzana”）
-您开始挖矿
-
-最后，它会向您显示您挖掘的新单词以及它们出现的上下文。
-尝试一下，让我知道你的想法！
-https://vocabminer.com/
-感谢 @tadscritch 帮助我解决这个问题！
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/c456ea13af</guid>
-      <pubDate>Thu, 28 Dec 2023 15:20:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>查找要学习的西班牙语新单词</title>
-      <link>https://feed.indiehackers.world/post/ac15ec3b63</link>
-      <description><![CDATA[我想要一种简单而有趣的方式来查找西班牙语新单词，所以我构建了这个工具！其工作原理如下：
-
-您输入文本（即 YouTube 视频的文字记录）
-您添加任何忽略词（即“vos、vas、manzana”）
-您开始挖矿
-
-最后，它会向您显示您挖掘的新单词以及它们出现的上下文。
-尝试一下，让我知道你的想法！
-https://vocabminer.com/
-感谢 @tadscritch 帮助我解决这个问题！
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/ac15ec3b63</guid>
-      <pubDate>Thu, 28 Dec 2023 15:19:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
