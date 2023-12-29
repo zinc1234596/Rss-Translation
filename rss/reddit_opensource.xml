@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 29 Dec 2023 15:12:46 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 Dec 2023 18:14:35 GMT</lastBuildDate>
+    <item>
+      <title>Google Photos 的 PhotoScan 的自由和开源替代品</title>
+      <link>https://www.reddit.com/r/opensource/comments/18ttg8j/foss_alternative_to_photoscan_by_google_photos/</link>
+      <description><![CDATA[您好！  我正在寻找一款可以将相册中的实体照片扫描到手机中的应用程序。我看到谷歌的照片扫描应用程序可以做到这一点，但我想使用非专有的东西。 还有其他选择吗？  谢谢。   由   提交 /u/Strykeros   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/18ttg8j/foss_alternative_to_photoscan_by_google_photos/</guid>
+      <pubDate>Fri, 29 Dec 2023 18:13:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找需要应用程序安全审查的开源 API 项目</title>
+      <link>https://www.reddit.com/r/opensource/comments/18ttauy/looking_for_open_source_api_projects_in_need_of/</link>
+      <description><![CDATA[您好，我正在学习 api / Web 应用程序安全性，并希望找到更多项目来提供帮助。 我最近通过使用各种工具来深入研究这个主题，使用 BurpSuite、Semgrep、SAST、DAST、日志分析等工具来修复我的一个较大的开源 Flask/FastAPI/React 项目。尝试查找 SQL 和 XSS 真的很有趣注入漏洞并尝试修补它们。 我想进一步提高我的技能并帮助其他一些项目。我可以针对实时应用程序进行测试，但更喜欢可以使用 Docker 容器在本地运行的应用程序。如果您需要帮助容器化您的应用程序，我也可以尝试一下！ 以下是我在工作和自己的项目中熟悉的一些框架。如果您自己的 api 适用于其中任何一个，请告诉我，我很乐意尝试帮助一些人。  Flask / Django / FastAPI C# .Net&lt; /li&gt; Java Spring 一些 Javascript Express、Node、Golang 和 Rails，但我对这些还很陌生  如果您有 openapi规范或邮递员集合，使其更容易，如果没有，也许我可以帮助制作一个。   由   提交/u/cohenaj1941   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/18ttauy/looking_for_open_source_api_projects_in_need_of/</guid>
+      <pubDate>Fri, 29 Dec 2023 18:07:08 GMT</pubDate>
+    </item>
     <item>
       <title>Jake：使用 GitHub Pages 的 Linktree 的免费替代品</title>
       <link>https://www.reddit.com/r/opensource/comments/18tkgae/jake_a_free_alternative_to_linktree_using_github/</link>
@@ -29,7 +43,7 @@
     <item>
       <title>如果所有软件都是免费和开源的，社会会是什么样子？</title>
       <link>https://www.reddit.com/r/opensource/comments/18t8lic/how_would_it_be_a_society_if_all_software_were/</link>
-      <description><![CDATA[抱歉，如果这是一个愚蠢的问题，但是作为一名试图理解自由软件哲学的软件工程师学生，是否所有软件都可能开源？ 或者这只能发生在真正的无国籍社会中？ 假设所有软件都是免费和开源的，那么软件工程师岂不是会被淘汰？  &gt;   由   提交/u/Naomsa  [链接] [评论]]]></description>
+      <description><![CDATA[抱歉，这是一个愚蠢的问题，但是作为一名试图理解自由软件哲学的软件工程师学生，是否所有软件都可能开源？ 或者这只能发生在真正的无国籍社会中？ 假设所有软件都是免费和开源的，那么软件工程师岂不是会被淘汰？  &gt;   由   提交/u/Naomsa  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/18t8lic/how_would_it_be_a_society_if_all_software_were/</guid>
       <pubDate>Thu, 28 Dec 2023 23:58:24 GMT</pubDate>
     </item>
@@ -76,7 +90,7 @@
       <pubDate>Thu, 28 Dec 2023 13:16:26 GMT</pubDate>
     </item>
     <item>
-      <title>刚刚发布的 NocoDB：0.203.0：用户字段和富文本字段🚀（FOSS Airtable 替代品）</title>
+      <title>刚刚发布的 NocoDB：0.203.0：用户字段和富文本字段🚀（FOSS Airtable 替代方案）</title>
       <link>https://www.reddit.com/r/opensource/comments/18srzpe/just_released_nocodb_02030_user_field_rich_text/</link>
       <description><![CDATA[   /u/dstala  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/18srzpe/just_released_nocodb_02030_user_field_rich_text/</guid>
@@ -95,20 +109,6 @@
       <description><![CDATA[   开源不仅仅是开放代码。这是开放协作和开放社区。 在开源项目中，您会发现各种各样的贡献者。有些已经存在了几十年，有些已经存在了几个月。有些人是因为工作而获得报酬，有些人则是出于内心的善意。有些人刚刚进入科技行业，需要一个归属感，而另一些人已经在科技行业工作了几十年。鉴于这些事实，当完成协作工作的机会出现时，每个人都必须良好地合作。 Linux 社区中经常被遗忘的一句格言是“了解你的受众”。了解您正在与谁交谈以及为什么与他们交谈即使不是比消息本身更重要，也同样重要。 人们会失去注意力；有时告诉某人只使用 RTFM 或忽略他们会更容易，因为“如果他们只是 DuckDuckGo 这种特定的方式......”请记住，您也曾经那么缺乏经验。 另一方面，与比您更有经验的人打交道，请记住基本的尊重会大有帮助。我见过很多对重大项目做出重要贡献的人，但如果你在街上从他们身边走过，你永远不会知道。我们也需要对这些人表示同情和尊重。他们的错误可能影响更大，但他们每次都会把鞋子放在一只脚上，就像你和我一样。 如果每个人在为开源项目做出贡献时都感觉良好，那么它就会继续下去。如果你让不好的情绪控制了你和项目中的每个人，它就会消耗整个项目。   由   提交/u/tsimonq2  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/18sjj98/open_source_is_not_just_code/</guid>
       <pubDate>Thu, 28 Dec 2023 03:13:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>元开源问题</title>
-      <link>https://www.reddit.com/r/opensource/comments/18sdctg/meta_open_source_question/</link>
-      <description><![CDATA[我看到很多关于 Meta 开源内部工具、LLM 等的讨论。网上有一个地方可以让我了解他们的工程文化和开源决策？   由   提交 /u/Fearfultick0   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/18sdctg/meta_open_source_question/</guid>
-      <pubDate>Wed, 27 Dec 2023 22:37:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>nfcompose,在几分钟而不是几小时内构建 REST API/集成的 REST API,下载nfcompose的源码_GitHub_帮酷</title>
-      <link>https://www.reddit.com/r/opensource/comments/18s8qfz/github_neuroforgedenfcompose_rest_api_to_build/</link>
-      <description><![CDATA[       由   提交/u/greenblock123  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/18s8qfz/github_neuroforgedenfcompose_rest_api_to_build/</guid>
-      <pubDate>Wed, 27 Dec 2023 19:21:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
