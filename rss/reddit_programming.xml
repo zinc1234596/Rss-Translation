@@ -4,20 +4,13 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Fri, 29 Dec 2023 00:39:45 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 Dec 2023 03:12:31 GMT</lastBuildDate>
     <item>
-      <title>我构建了一个人工智能图像升级和增强应用程序。提供免费积分，我将来可能会添加更多积分（React、Next.js、TypeScript）</title>
-      <link>https://www.reddit.com/r/programming/comments/18t8tmf/i_built_an_ai_image_upscale_enhancer_app_free/</link>
-      <description><![CDATA[ 由   提交/u/britdev  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/18t8tmf/i_built_an_ai_image_upscale_enhancer_app_free/</guid>
-      <pubDate>Fri, 29 Dec 2023 00:08:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>初学者寻找技巧</title>
-      <link>https://www.reddit.com/r/programming/comments/18t84oz/beginner_looking_for_tips/</link>
-      <description><![CDATA[嘿，编码员们，我想学习基础 C，因为我想遵循 PLC 程序员的道路，有人告诉我 C 是最好先学的。我怎样才能开始学习它？ ，我应该看哪里？ YouTube 视频和免费课程真的值得吗？无论如何，提前致谢！   由   提交 /u/VenomCrush   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/18t84oz/beginner_looking_for_tips/</guid>
-      <pubDate>Thu, 28 Dec 2023 23:37:26 GMT</pubDate>
+      <title>“你不能这么做，因为我恨你。”</title>
+      <link>https://www.reddit.com/r/programming/comments/18taefr/you_cant_do_that_because_i_hate_you/</link>
+      <description><![CDATA[ 由   提交/u/simon_o   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/18taefr/you_cant_do_that_because_i_hate_you/</guid>
+      <pubDate>Fri, 29 Dec 2023 01:20:22 GMT</pubDate>
     </item>
     <item>
       <title>60% 的大型 Git 存储库禁止合并提交</title>
@@ -109,6 +102,13 @@
       <description><![CDATA[ 由   提交/u/lets_get_rusty  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/18sxnwd/should_you_learn_rust_in_2024/</guid>
       <pubDate>Thu, 28 Dec 2023 16:18:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Zsh 要点：5 个插件来增强您的命令行之旅</title>
+      <link>https://www.reddit.com/r/programming/comments/18sxbbr/zsh_essentials_5_plugins_to_amp_up_your_command/</link>
+      <description><![CDATA[ 由   提交/u/ablx0000  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/18sxbbr/zsh_essentials_5_plugins_to_amp_up_your_command/</guid>
+      <pubDate>Thu, 28 Dec 2023 16:03:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
