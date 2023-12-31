@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Sat, 30 Dec 2023 18:12:18 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 31 Dec 2023 00:50:45 GMT</lastBuildDate>
     <item>
-      <title>上诉法院最近的一项判决宣布，英国的博物馆没有有效的 [...]</title>
-      <link>https://t.me/hn_summary/66377</link>
-      <description><![CDATA[不受版权保护的图片不受版权保护
-上诉法院最近的一项判决宣布，英国的博物馆对不受版权保护的艺术品的照片不拥有有效的版权。这意味着这些照片现在属于公共领域并且可以免费使用。此前，博物馆对复制历史艺术品收取费用，并声称拥有这些图像的版权。判决确认，如果博物馆照片的目的是准确复制一幅画，则它不能获得版权。这项裁决引发了人们对自 2009 年以来博物馆出售图像许可证的依据的质疑。国家美术馆表示将审查该裁决提供的指导。]]></description>
-      <guid>https://t.me/hn_summary/66377</guid>
-      <pubDate>Sat, 30 Dec 2023 18:12:18 GMT</pubDate>
+      <title>作者使用 Bash scrip 开发了一个名为“pse”的个人搜索引擎原型 [...]</title>
+      <link>https://t.me/hn_summary/66432</link>
+      <description><![CDATA[第一个个人搜索引擎原型
+作者使用 Bash 脚本、sqlite3、wget 和 PageFind 开发了一个名为“pse”的个人搜索引擎原型。搜索引擎利用存储在 Firefox 和 newsboat 的 sqlite 数据库中的 URL 来创建要搜索的页面列表。然后使用 wget 下载页面并使用 PageFind 建立索引。作者在 16,000 页的小语料库中发现了有趣的结果，但相信约 100,000 页的较大语料库会更引人注目。作者还讨论了扩展搜索语料库的局限性和未来的可能性，例如镜像网站、从 PDF 中提取文本以及合并浏览器历史记录和书签。]]></description>
+      <guid>https://t.me/hn_summary/66432</guid>
+      <pubDate>Sun, 31 Dec 2023 00:50:45 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]《纽约时报》提出了一个令人惊讶的要求，要求所有 LLM（语言模型 [...]</title>
-      <link>https://t.me/hn_summary/66376</link>
-      <description><![CDATA[《纽约时报》要求*所有*接受过《纽约时报》数据培训的法学硕士被毁
-《纽约时报》提出了一个令人惊讶的要求，要求销毁所有接受其数据训练的法学硕士（语言模型）。虽然没有提供问题的细节，但显然《纽约时报》担心其数据可能被滥用或歪曲。这一要求引发了争议，并引发了人们对人工智能时代数据的所有权和控制权的质疑。这是《纽约时报》的独特举措，突显了他们对保护数据和维护新闻诚信的承诺。]]></description>
-      <guid>https://t.me/hn_summary/66376</guid>
-      <pubDate>Sat, 30 Dec 2023 17:51:03 GMT</pubDate>
+      <title>Cuis 是一个免费的 Smalltalk-80 环境，旨在简单而强大。</title>
+      <link>https://t.me/hn_summary/66431</link>
+      <description><![CDATA[Cuis-Smalltalk
+Cuis 是一个免费的 Smalltalk-80 环境，旨在简单而强大。它可移植到任何平台，并以其速度和效率而闻名。最新更新包括添加到文档中的视频和 PDF 演示文稿以及论文。 Dr. Geo 交互式几何应用程序是目前 Cuis 中使用最广泛的应用程序，已由其作者 Hilaire Fernandes 移植到 Cuis 中。现在，所有源代码和文本文件都默认启用 Unicode，并且使用 TrueType 字体进行文本显示。 Cuis Book 也已更新为 Cuis 版本 6。]]></description>
+      <guid>https://t.me/hn_summary/66431</guid>
+      <pubDate>Sun, 31 Dec 2023 00:38:36 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]华盛顿特区一家法院</title>
-      <link>https://t.me/hn_summary/66375</link>
-      <description><![CDATA[表情符号具有法律效力
-华盛顿特区的一家法院面临着表情符号在证券欺诈诉讼中意味着什么的问题。 Bed Bath &amp; Beyond 的主要投资者瑞安·科恩 (Ryan Cohen) 在回应有关该公司的推文时使用了侧眼月亮表情符号。股东现在起诉他，声称他通过使用表情符号暗示该股将“登上月球”来误导投资者。法院认为表情符号可能会受到法律诉讼，并驳回了科恩驳回诉讼的企图。表情符号的使用在企业界已经很普遍，78% 的 Z 世代和千禧一代受访者在专业环境中使用它们。到 2023 年，表情符号还出现在美国的 200 多起法律案件中，而 2016 年只有 25 起。然而，表情符号可能非常含糊，容易产生误解，从而导致潜在的法律纠纷。]]></description>
-      <guid>https://t.me/hn_summary/66375</guid>
-      <pubDate>Sat, 30 Dec 2023 17:45:56 GMT</pubDate>
+      <title>[媒体] 为庆祝欧空局火星快车发射 20 周年，火星快车的全新马赛克 [...]</title>
+      <link>https://t.me/hn_summary/66430</link>
+      <description><![CDATA[火星快车 20 周年：前所未见的火星
+为了庆祝欧空局火星快车发射 20 周年，利用航天器高分辨率立体相机 (HRSC) 的数据创建了新的火星马赛克。这幅马赛克提供了火星颜色和成分的详细视图，突出显示了整个行星表面的变化。 HRSC 团队使用不同的方法在更高的海拔捕捉图像，从而获得更广阔的地球视野。马赛克呈现出丰富多样的颜色，包括由氧化铁引起的著名的红色调，以及深色玄武岩沙、粘土沉积物和硫酸盐矿物。该任务已延长至至少 2026 年，有望在未来对火星有更多了解。]]></description>
+      <guid>https://t.me/hn_summary/66430</guid>
+      <pubDate>Sun, 31 Dec 2023 00:27:28 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 前亿万富翁、自称为“加密货币之王”的山姆·班克曼·弗里德 (Sam Bankman-Fried) 将 [...]</title>
-      <link>https://t.me/hn_summary/66374</link>
-      <description><![CDATA[Sam Bankman-Fried：被定罪的“加密货币之王”不会面临第二次审判试用
-据美国检察官称，前亿万富翁、自称为“加密货币之王”的萨姆·班克曼-弗里德将不会面临第二次审判。班克曼-弗里德上个月被判犯有欺诈和洗钱罪，目前面临数十年的监禁。检察官表示，解决此案的“强烈公共利益”超过了二审的好处。 Bankman-Fried 的宣判定于 3 月 28 日进行，预计将包括没收和归还受害者的命令。此次定罪标志着班克曼-弗里德的重大失败，他曾经是世界上最大的加密货币交易所之一的负责人。]]></description>
-      <guid>https://t.me/hn_summary/66374</guid>
-      <pubDate>Sat, 30 Dec 2023 17:41:46 GMT</pubDate>
+      <title>news.ycombinator.com 上这篇文章的作者是一位“灰胡子”，在程序领域拥有悠久的职业生涯 [...]</title>
+      <link>https://t.me/hn_summary/66429</link>
+      <description><![CDATA[询问 HN：在线 BS – 灰胡子需要建议 
+news.ycombinator.com 上这篇文章的作者是一位长期从事编程工作、有兴趣攻读计算机科学或数学理学学士学位的“灰胡子”。他们希望退休后在公立学校任教，但为此，他们需要获得四年制学位。作者不确定学位的血统对于初中后期/高中阶段的教学是否重要，假设他们的简历不言而喻。他们正在向他人寻求有关计划或经验的建议。作者在退休期间致力于教学工作 10 年。]]></description>
+      <guid>https://t.me/hn_summary/66429</guid>
+      <pubDate>Sun, 31 Dec 2023 00:15:18 GMT</pubDate>
     </item>
     <item>
-      <title>FocalRing 是一个革命性的解决方案，旨在重新定义有声读物聆听。</title>
-      <link>https://t.me/hn_summary/66373</link>
-      <description><![CDATA[展示 HN：FocalRing，重新定义有声读物聆听
-FocalRing 是一个革命性的解决方案，旨在重新定义有声读物聆听。虽然有声读物因其方便而变得流行，但它们常常阻碍人们充分参与内容的能力。 FocalRing 认识到文学作品应该按照我们自己的节奏来品味和理解，让我们能够重温重要的段落并思考想法。通过打破持续音频消费的障碍，FocalRing 实现了更具互动性和身临其境的有声读物体验。这种创新方法使 FocalRing 有别于传统的有声读物平台，并为那些寻求与内容建立更深入联系的人提供了独特的解决方案。]]></description>
-      <guid>https://t.me/hn_summary/66373</guid>
-      <pubDate>Sat, 30 Dec 2023 17:36:37 GMT</pubDate>
+      <title>该博客文章讨论了 Android 静态数据加密，并探讨了其对 [...]</title>
+      <link>https://t.me/hn_summary/66428</link>
+      <description><![CDATA[Android 数据加密深度
+该博文讨论了 Android 静态数据加密，并探讨了其对利用软件漏洞的攻击者的抵抗力。这项研究是由从损坏的设备中恢复数据的请求引发的，这导致了对应该作为目标的操作系统组件以及用户凭据的作用的调查。这篇文章重点介绍基于文件的加密 (FBE)，它在文件级别工作并允许精确的粒度。它解释了派生凭证加密 (CE) 密钥所涉及的步骤，包括 TrustZone 和 Gatekeeper 在身份验证过程中的作用。该帖子还提到使用概念验证（PoC）来利用没有安全芯片的设备中的漏洞。 （根据 53% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/66428</guid>
+      <pubDate>Sat, 30 Dec 2023 23:56:09 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Voxelize 项目是一个多人体素引擎，可以在 [...]</title>
-      <link>https://t.me/hn_summary/66372</link>
-      <description><![CDATA[展示 HN：构建您自己的基于 Web 的 Minecraft（多人游戏）&lt; /a&gt;
-Voxelize 项目是一个多人体素引擎，可以在 Web 浏览器中访问和播放。它提供的功能包括实时多人游戏、使用协议缓冲区的快速体素数据传输、多线程块处理以及带有命令注册表的聊天系统。该项目还包括一个适用于任何块的物理引擎，支持自定义块类型和物理形状，以及用于自定义游戏事件的事件系统。该项目提供了后端和前端组件的文档。作者强调，这是一个充满激情的项目，与 Minecraft 或任何许可的体素引擎无关。]]></description>
-      <guid>https://t.me/hn_summary/66372</guid>
-      <pubDate>Sat, 30 Dec 2023 17:36:32 GMT</pubDate>
+      <title>[媒体] 在这篇题为“迈阿密海滩犹太退休人员的挽歌”的文章中，作者 [...]</title>
+      <link>https://t.me/hn_summary/66427</link>
+      <description><![CDATA[迈阿密海滩犹太退休人员的挽歌&lt; br/&gt;
+在这篇题为“迈阿密海滩犹太退休人员的挽歌”的文章中，作者讨论了摄影师安迪·斯威特的作品以及他捕捉南海滩犹太居民日常生活的项目。 1977 年，斯威特和他的朋友加里·梦露开始了一个为期十年的项目，斯威特拍摄彩色照片，梦露拍摄黑白照片。作者强调了斯威特对彩色摄影的选择，这使他与同时代的其他著名摄影师保持一致。斯威特的照片中的许多人都是在外国出生的，或者只离开故国一代人，他们创造了一个看似棚屋般的社区，但却是美国独有的。作者强调了斯威特彩色照片的活力，展示了迈阿密海滩这些退休人员的韧性和开拓精神。]]></description>
+      <guid>https://t.me/hn_summary/66427</guid>
+      <pubDate>Sat, 30 Dec 2023 23:52:02 GMT</pubDate>
     </item>
     <item>
-      <title>Laterbase 是一款革命性的书签工具，允许用户保存、搜索和聊天 [...]</title>
-      <link>https://t.me/hn_summary/66371</link>
-      <description><![CDATA[显示 HN：Laterbase – 使用书签保存、搜索和聊天&lt; /a&gt;
-Laterbase 是一款革命性的书签工具，允许用户使用书签进行保存、搜索和聊天。只需单击一下，用户就可以立即将任何网站捕获到他们的 Laterbase 帐户，从而轻松组织和访问他们喜爱的在线内容。 Laterbase 的独特之处在于它的聊天功能，它允许用户与朋友和同事讨论和分享他们的书签。这使其成为协作和共享信息的绝佳工具。有了 Laterbase，您将永远不会再失去对您喜爱的网站的追踪。]]></description>
-      <guid>https://t.me/hn_summary/66371</guid>
-      <pubDate>Sat, 30 Dec 2023 17:36:27 GMT</pubDate>
+      <title>[媒体] 作者描述了 Advent of Code 2023 中他们最喜欢的问题，其中涉及 [...]</title>
+      <link>https://t.me/hn_summary/66426</link>
+      <description><![CDATA[第 20 天：2023 年代码降临中我最喜欢的问题
+作者描述了 Advent of Code 2023 中他们最喜欢的问题，其中涉及模拟相互发送脉冲/信号的电子设备的行为。该问题包括触发器和连词，每个都有自己独特的行为。当触发器接收到低脉冲并发送脉冲作为输出时，它们会在开/关之间切换。连接器会记住每个输入上的最新脉冲，如果它们记住所有输入的高脉冲，则发送低脉冲，否则它们发送高脉冲。作者提供了用于对这些设备进行建模和解析问题输入的代码示例。他们还提到，该解决方案涉及计算设备之间发送的高脉冲和低脉冲之间的乘法。 （根据故事文本的 51% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/66426</guid>
+      <pubDate>Sat, 30 Dec 2023 23:47:55 GMT</pubDate>
     </item>
     <item>
-      <title>作者在 chatgpt-ui-fix 网站上介绍了针对 ChatGPT 失去焦点问题的错误修复 [...]</title>
-      <link>https://t.me/hn_summary/66370</link>
-      <description><![CDATA[显示 HN：修复 ChatGPT 失去焦点的错误&lt; br/&gt;
-作者在网站 chatgpt-ui-fix.vercel.app。他们解释说，当将文本流式传输到段落中时，每次添加新字符时选择都会消失。为了解决这个问题，作者建议使用 React 并为每个字符分配一个不可变的键。此修复允许用户在文本继续流入时选择文本。作者提供了修复行为的 GIF 演示。]]></description>
-      <guid>https://t.me/hn_summary/66370</guid>
-      <pubDate>Sat, 30 Dec 2023 17:36:23 GMT</pubDate>
+      <title>隆重推出贵金属管理器，这是一个新网站，可为 [...]</title>
+      <link>https://t.me/hn_summary/66425</link>
+      <description><![CDATA[显示 HN：贵金属经理
+隆重推出 Precious Metals Manager，这是一个提供黄金、白银、铂金和钯金快速实时现货价格的新网站。这个独特的平台允许用户查看这些贵金属的当前价格以及各种指标。但需要注意的是，仅支持有限数量的货币，包括美元、欧元、英镑、加元、澳元、瑞士法郎、丹麦克朗、印度卢比、日元和墨西哥比索。该工具非常适合任何有兴趣跟踪贵金属价格不断变化的人。]]></description>
+      <guid>https://t.me/hn_summary/66425</guid>
+      <pubDate>Sat, 30 Dec 2023 23:41:48 GMT</pubDate>
     </item>
     <item>
-      <title>我们为 K-12 精心策划的文学项目旨在帮助孩子们培养对阅读的热爱 [...]</title>
-      <link>https://t.me/hn_summary/66369</link>
-      <description><![CDATA[展示 HN：K-12 精选文学节目
-我们为 K-12 精心策划的文学项目旨在帮助孩子们培养对阅读的热爱，同时逐步提高他们的阅读技能。我们精心挑选一系列书籍，从图画书开始，逐渐走向经典成人文学。这可以让孩子们按照自己的节奏进步，逐步应对更具挑战性的工作。我们的计划确保孩子们积极参与并积极阅读，同时培养他们的阅读理解和批判性思维能力。加入我们 www.greatbookshomeschool.com 为您的孩子提供帮助全面的文学教育。]]></description>
-      <guid>https://t.me/hn_summary/66369</guid>
-      <pubDate>Sat, 30 Dec 2023 17:36:18 GMT</pubDate>
+      <title>[媒体]本文讨论了 2023 年的五款笔记本电脑，它们有可能影响 [...]</title>
+      <link>https://t.me/hn_summary/66424</link>
+      <description><![CDATA[笔记本电脑的 2023 年飞跃：我们仍在谈论的 5 台计算机大约在2024年
+本文讨论了 2023 年推出的五款笔记本电脑，它们有可能影响未来笔记本电脑行业。其中一款突出的笔记本电脑是联想的 Yoga Book 9i，它配备双 13.3 英寸 OLED 屏幕。作者称赞这款笔记本电脑能够增强 13 英寸尺寸笔记本电脑的多任务处理能力，并认为它有与可折叠屏幕笔记本电脑竞争的潜力。然而，缺乏集成的物理键盘和触摸板被视为对其寿命的挑战。文章还提到需要改进屏幕反射率和电池寿命。 OLED 显示屏的使用被认为是这种利基笔记本电脑设计的价格障碍。]]></description>
+      <guid>https://t.me/hn_summary/66424</guid>
+      <pubDate>Sat, 30 Dec 2023 23:26:39 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]作者回顾了他们的爱好编码项目，从他们开始 [...]</title>
-      <link>https://t.me/hn_summary/66368</link>
-      <description><![CDATA[编码爱好传记
-作者回顾了他们的爱好编码项目，从高中初期到目前的努力。他们讨论了他们从事的各种项目，包括构建文件共享应用程序、创建网络聊天程序、开发软件合成器以及探索三元计算。作者还提到了他们在大学学习物理和专业从事大型软件项目的经历。他们谈到了他们对游戏开发的涉足，涉足 Haskell，从编程中休假，并最终创建了自己的博客并致力于服务网格。作者反思了他们的编码之旅的演变以及通过编程解决现实世界问题的满足感。 （根据 93% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/66368</guid>
-      <pubDate>Sat, 30 Dec 2023 17:13:06 GMT</pubDate>
+      <title>在 martinfowler.com 上的这篇文章中，作者讨论了 Diff 调试的概念，它 [...]</title>
+      <link>https://t.me/hn_summary/66423</link>
+      <description><![CDATA[差异调试
+在 martinfowler.com 上的这篇文章中，作者讨论了以下概念：差异调试，这是识别导致回归错误出现的软件代码中的特定更改的过程。作者强调了将代码纳入版本控制的重要性，并强调了可重复构建和小型提交以有效使用差异调试的必要性。该过程包括找到没有错误的过去版本，将其标记为最后的好版本，将当前版本标记为最早的坏版本。通过使用二分搜索方法反复缩小搜索范围，可以识别有罪的提交。作者还提到使用 git bisect 命令来自动化此过程。本文最后作者分享了他们在编程会话中使用 diff 调试的个人经验。]]></description>
+      <guid>https://t.me/hn_summary/66423</guid>
+      <pubDate>Sat, 30 Dec 2023 22:31:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
