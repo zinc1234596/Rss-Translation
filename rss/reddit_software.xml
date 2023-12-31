@@ -4,11 +4,18 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sun, 31 Dec 2023 15:10:35 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 31 Dec 2023 18:13:34 GMT</lastBuildDate>
+    <item>
+      <title>1000 首歌曲的 wma 到 mp3 转换软件</title>
+      <link>https://www.reddit.com/r/software/comments/18vblfw/wma_to_mp3_conversion_software_for_1000_songs/</link>
+      <description><![CDATA[嘿， 这基本上就是标题中的内容。我的 wma 文件中有大约 1000 首歌曲，我想将它们转换为 mp3 以在 Android 设备上收听。有没有任何软件可以免费或价格足够合理地为我完成此操作？  我将使用 Windows 设备来进行此更改。   由   提交/u/Wind03  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/18vblfw/wma_to_mp3_conversion_software_for_1000_songs/</guid>
+      <pubDate>Sun, 31 Dec 2023 16:43:28 GMT</pubDate>
+    </item>
     <item>
       <title>用于在计算机上录制屏幕的程序</title>
       <link>https://www.reddit.com/r/software/comments/18v883w/program_za_snimanje_ekrana_na_racunaru/</link>
-      <description><![CDATA[是否有一个经过验证的程序可以记录计算机上执行的所有操作，而用户可能看不到。 &lt; ! -- SC_ON --&gt;  由   提交/u/Bitter-Economics-227   [链接] [评论]]]></description>
+      <description><![CDATA[是否有一个经过验证的程序可以记录计算机上所做的一切，可能对用户不可见。 &lt; ! -- SC_ON --&gt;  由   提交/u/Bitter-Economics-227   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/18v883w/program_za_snimanje_ekrana_na_racunaru/</guid>
       <pubDate>Sun, 31 Dec 2023 13:53:43 GMT</pubDate>
     </item>
@@ -22,7 +29,7 @@
     <item>
       <title>支持 hevc 265 的 movavi 视频转换器替代方案（非专业使用）</title>
       <link>https://www.reddit.com/r/software/comments/18v6svq/movavi_video_converter_alternative_that_supports/</link>
-      <description><![CDATA[movavi 很好，因为它易于使用，剪切和裁剪视频，然后转换为其他格式或简单地降低比特率 问题是 movavi 不支持 hevc h265，所以我必须将所有视频转换为 h264 才能使用 movavi 编辑它们 快门相当不错，但进行多次剪切是一个问题巨大的痛苦（复杂的过程） - 特别是在制作很多视频时。而且它只剪切而不转换，所以你必须剪切，然后添加新文件，然后转换 - 这样很麻烦 像 kdnlive 或 DaVinci Resolve 这样的视频编辑器非常复杂，尤其是在剪切和裁剪很多内容的情况下视频。  我需要一些简单的东西 手刹仅用于转换，无法编辑 谢谢 windows 10 22h2   由   提交 /u/vanderzee   [链接] [评论]]]></description>
+      <description><![CDATA[movavi 很好，因为它易于使用，剪切和裁剪视频，然后转换为其他格式或简单地降低比特率 问题是 movavi 不支持 hevc h265，所以我必须将所有视频转换为 h264 才能使用 movavi 编辑它们 快门相当不错，但进行多次剪切是一个问题巨大的痛苦（复杂的过程） - 特别是在制作很多视频时。而且它只剪切而不转换，所以你必须剪切，然后添加新文件，然后转换 - 这样很麻烦 像 kdnlive 或 DaVinci Resolve 这样的视频编辑器非常复杂，尤其是在剪切和裁剪很多内容的情况下视频。  我需要一些简单的东西 手刹仅用于转换，无法编辑 谢谢 windows 10 22h2   由   提交/u/vanderzee  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/18v6svq/movavi_video_converter_alternative_that_supports/</guid>
       <pubDate>Sun, 31 Dec 2023 12:29:09 GMT</pubDate>
     </item>
@@ -85,14 +92,14 @@
     <item>
       <title>有人可以推荐带有透视校正和 PDF 工具的好扫描软件吗？</title>
       <link>https://www.reddit.com/r/software/comments/18uq1et/can_someone_suggest_good_scanning_software_with/</link>
-      <description><![CDATA[我当前的扫描仪 (OpticSlim 1180) 附带了一些名为“ABBYY FineReader 12 Sprint”的软件，感觉有点过时并且没有免费更新。它甚至没有那么好，但它做了 3 件重要的事情： 1. 扫描图像。 2. 允许我将它们排队并编辑它们，然后再将它们全部保存到 PDF 或一批图像中。 3. 在编辑时，允许在裁剪或选择某些区域时进行透视校正，因此我不必处理旋转或尝试平整倾斜的线条。 该软件的问题是它会尝试自动校正图像，并且无法将其关闭，因此当它使图像变得更糟时，修复起来会非常痛苦。没有真正的颜色调整或增强功能。虽然它确实允许我创建 PDF，但它没有任何有用的功能，例如为 PDF 添加水印、设置编辑密码或除基本 PDF 创建之外的任何其他功能。 免费固然好，但并非如此。必需的。如果有软件可以处理除扫描之外的所有事情，如果没有任何其他选项，我总是可以使用旧软件批量扫描。 如果有帮助，我主要做的就是扫描为后代提供旧杂志和目录。我目前使用的是 Windows 10，但一旦支持结束，我会在找到适合我的发行版后切换到 Linux。   由   提交 /u/MyBallsSmellFruity   [链接] [评论]]]></description>
+      <description><![CDATA[我当前的扫描仪 (OpticSlim 1180) 附带了一些名为“ABBYY FineReader 12 Sprint”的软件，感觉有点过时并且没有免费更新。它甚至不是那么好，但它做了 3 件重要的事情： 1. 扫描图像。 2. 允许我将它们排队并编辑它们，然后将它们全部保存到 PDF 或一批图像中。 3. 在编辑时，允许在裁剪或选择某些区域时进行透视校正，因此我不必处理旋转或尝试平整倾斜的线条。 该软件的问题是它会尝试自动校正图像，并且无法将其关闭，因此当它使图像变得更糟时，修复起来会非常痛苦。没有真正的颜色调整或增强功能。虽然它确实允许我创建 PDF，但它没有任何有用的功能，例如为 PDF 添加水印、设置编辑密码或除基本 PDF 创建之外的任何其他功能。 免费固然好，但并非如此。必需的。如果有软件可以处理除扫描之外的所有事情，如果没有任何其他选项，我总是可以使用旧软件批量扫描。 如果有帮助，我主要做的就是扫描为后代提供旧杂志和目录。我目前使用的是 Windows 10，但一旦支持结束，我会在找到适合我的发行版后切换到 Linux。   由   提交 /u/MyBallsSmellFruity   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/18uq1et/can_someone_suggest_good_scanning_software_with/</guid>
       <pubDate>Sat, 30 Dec 2023 21:18:28 GMT</pubDate>
     </item>
     <item>
       <title>在不同的设备上运行设备特定的程序？</title>
       <link>https://www.reddit.com/r/software/comments/18uo7g2/running_a_device_specific_program_on_a_different/</link>
-      <description><![CDATA[大家好，如果这不适合发帖，请提前致歉。 我有一台 Windows 游戏掌上电脑，但是与之捆绑在一起的控制中心很糟糕，用户体验也很糟糕，还有另一家手持设备制造商拥有自己的软件，看起来好 1000 倍，我想运行它。我下载了它，安装了它，它打开了，但我看到一个屏幕，说基本上软件不会在我的设备上运行，因为它不是他们的设备品牌，有谁知道我如何解决这个问题？我很欣赏这是非常模糊的，如果不查看特定的软件本身可能无法告诉我，但如果有人能给我一些关于这样的软件通常如何检查某种设备 ID 或标记的想法，我可以弄清楚如何绕过这个。  提前致谢！   由   提交/u/Camoflauge94  [链接] [评论]]]></description>
+      <description><![CDATA[大家好，如果这不适合发帖，请提前致歉。 我有一台 Windows 游戏掌上电脑，但是与之捆绑在一起的控制中心很糟糕，用户体验也很糟糕，还有另一家手持设备制造商拥有自己的软件，看起来好 1000 倍，我想运行它。我下载了它，安装了它，它打开了，但我看到一个屏幕，说基本上软件不会在我的设备上运行，因为它不是他们的设备品牌，有人知道我如何解决这个问题吗？我很欣赏这是非常模糊的，如果不查看特定的软件本身可能无法告诉我，但如果有人能给我一些关于像这样的软件通常如何检查某种设备 ID 或标记的想法，我可以弄清楚如何绕过这个。  提前致谢！   由   提交/u/Camoflauge94  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/18uo7g2/running_a_device_specific_program_on_a_different/</guid>
       <pubDate>Sat, 30 Dec 2023 19:59:09 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[嗨，我有一个 SSD，我想用它来备份一些重要文件。你知道有一个程序可以轻松备份我在 SSD 中完成的工作吗？我使用 FreeFileSync，但如果我选择一个文件夹，它将备份该文件夹中的所有文件，而不是整个文件夹。 （例如4个文件夹，每个文件夹内有50个文件，程序备份SSD中的200个文件，我想备份包含文件内的文件夹） 你知道一些更好的程序或如何解决这个问题？谢谢   由   提交/u/Davidee876  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/18un5xa/windows_app_to_backup_things_in_a_ssd/</guid>
       <pubDate>Sat, 30 Dec 2023 19:14:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要应用程序将窗口拆分为多个窗口。</title>
-      <link>https://www.reddit.com/r/software/comments/18ukvxm/need_app_to_split_window_into_multiple_windows/</link>
-      <description><![CDATA[TL;DR：我正在 VR 中进行实验，需要一种方法来采用全屏或窗口应用程序（有问题的应用程序同时支持）并将其分割为多个较小的裁剪窗口而不是一个大窗口。我不一定需要能够与这些窗口交互，但这会很好。 我找到了一种使用 OBS 执行此操作的方法，但我需要为每个窗口提供一个 OBS 实例和一个需要进行大量的修补才能使其发挥作用，而且交互也不起作用。有更简单的方法吗？ 我运行的是 Windows 10。 ​ 更多详细信息： 有一款名为 EVE Online 的游戏，人们经常询问是否可以在 VR 中玩，我想演示一下它实际上可能是什么样子。游戏客户端内有多个窗口和屏幕区域，这些窗口和屏幕区域可能在 VR 环境中作为单独的窗口很好地工作，但是这些都作为一个大窗口呈现给操作系统，而 VR 环境需要单独的窗口才能工作。我想找到一种方法将一个大窗口呈现为操作系统的几个较小的裁剪窗口。   由   提交 /u/AlexCivitello   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/18ukvxm/need_app_to_split_window_into_multiple_windows/</guid>
-      <pubDate>Sat, 30 Dec 2023 17:35:14 GMT</pubDate>
     </item>
     </channel>
 </rss>

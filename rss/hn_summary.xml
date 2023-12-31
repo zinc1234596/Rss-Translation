@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Sun, 31 Dec 2023 12:19:20 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 31 Dec 2023 18:14:11 GMT</lastBuildDate>
     <item>
-      <title>问 HN：什么低风险被动收入让您感到安全？</title>
-      <link>https://t.me/hn_summary/66483</link>
-      <description><![CDATA[问 HN：什么低风险被动收入让您感到安全？&lt; /a&gt;
-news.ycombinator.com 上这篇文章的作者是寻求有关低风险被动收入选择的建议，让他们感到安全。他们表示希望避免典型的退休净资产讨论，而是专注于能够提供舒适感的被动收入。作者提到在计算中考虑留存收益和通货膨胀的重要性。他们以每年 36 万美元为例，请读者分享他们对多少被动收入才算体面的想法。作者承认这个问题没有正确答案，因为这取决于个人及其具体情况。]]></description>
-      <guid>https://t.me/hn_summary/66483</guid>
-      <pubDate>Sun, 31 Dec 2023 12:19:20 GMT</pubDate>
+      <title>[媒体]美国海军直升机回应了一艘丹麦集装箱船在 R [...]</title>
+      <link>https://t.me/hn_summary/66512</link>
+      <description><![CDATA[美国海军直升机在红海企图劫持胡塞武装船只后摧毁
+胡塞武装船只试图登船后，美国海军直升机对红海一艘丹麦集装箱船发出的求救信号做出了回应。直升机出于自卫击沉了三艘船，导致船员死亡。自11月以来，胡塞武装一直在红海袭击船只，声称他们的袭击目标是与以色列有联系的船只。此次事件是24小时内集装箱船发生的第二次袭击事件。胡塞武装袭击事件的增加导致许多航运公司将船只转向远离红海的地区。]]></description>
+      <guid>https://t.me/hn_summary/66512</guid>
+      <pubDate>Sun, 31 Dec 2023 18:14:11 GMT</pubDate>
     </item>
     <item>
-      <title>该网页内容讨论了 Linux 中的非特权进程注入技术。</title>
-      <link>https://t.me/hn_summary/66482</link>
-      <description><![CDATA[Linux中的非特权进程注入技术
-该网页内容讨论了 Linux 中的非特权进程注入技术。作者首先解释了以非 root 用户身份执行命令并希望在目标上运行本机代码的常见情况。他们将方法分类为使用 shell 命令或使用 ptrace() 或 /proc/PID/mem 来调试牺牲的受害者进程并向其中注入代码。使用 shell 命令的缺点被强调，例如需要解码例程和磁盘上的可写位置。然后，作者重点介绍了使用 ptrace() 进行进程注入，并讨论了控制其使用的 sysctl 设置。他们还提到使用 /proc/pid/mem 设备来操作远程进程内存。作者提供了 /proc/pid/mem 注入的简要历史，并提到了为 Linux 进程注入开发的各种工具和技术。他们强调了自己实现的简单性和兼容性，只需要 dd 命令。本文最后提供了使用 printf 在 shell 脚本中解码二进制数据的专业技巧。 （根据 76% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/66482</guid>
-      <pubDate>Sun, 31 Dec 2023 12:08:10 GMT</pubDate>
+      <title>[媒体] 文章讨论了 Beeper 和 Apple 之间关于互操作性的持续斗争 [...]</title>
+      <link>https://t.me/hn_summary/66511</link>
+      <description><![CDATA[嘟嘟嘟
+本文讨论了 Beeper 和 Apple 之间关于 iMessage 互操作性的持续斗争。 Beeper 的消息服务 Beeper Mini 只能部分运行，消息从 Android 设备传输到 Apple 设备，但反之则不行。 Beeper 最终放弃并发布了新的软件更新，要求用户拥有或租用旧 iPhone，在其上安装 Beeper 的软件，并保持其持续连接到 Wi-Fi。文章认为，苹果的立场没有争议，并将 iMessage 比作苹果设备所有者独有的高级福利。文章还批评参议员伊丽莎白·沃伦和其他政客对苹果反竞争行为的指控。 （根据80%的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/66511</guid>
+      <pubDate>Sun, 31 Dec 2023 17:51:58 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]据信已经灭绝的卡罗莱纳非洲跑花生重新出现，给 [...]</title>
-      <link>https://t.me/hn_summary/66481</link>
-      <description><![CDATA[1690 年代的花生重生
-被认为已经灭绝的卡罗莱纳非洲跑花生重新出现，为农民和厨师带来了新的烹饪冒险。这种花生以其个头小、含油量高而闻名，于 1690 年被非洲奴隶带到美洲殖民地。直到 1930 年代，这种花生才广受欢迎，但由于其个头小且易受疾病影响，种植者不再可靠。然而，北卡罗来纳州立大学保存了一小部分种子，2013 年，园艺家布莱恩·沃德 (Brian Ward) 博士成功种植了卡罗来纳非洲跑花生。厨师和农民现在正在尝试花生的独特风味，它有潜力成为畅销产品。]]></description>
-      <guid>https://t.me/hn_summary/66481</guid>
-      <pubDate>Sun, 31 Dec 2023 11:52:55 GMT</pubDate>
+      <title>问 HN：为什么数学标准这么低？</title>
+      <link>https://t.me/hn_summary/66510</link>
+      <description><![CDATA[问HN：为什么数学标准这么低？ （它们应该是什么？）
+作者是一位控制理论家，他认为大多数现实生活中的系统都可以通过应用数学和系统论来理解。他们认为每个人都可以从这些科目的培训中受益，但承认这需要高水平的数学成熟度。作者向读者提出了一个问题，询问他们是否可以想象一种教育体系，让学生在中学毕业时拥有高等本科水平的数学成熟度。他们想知道这样的系统是否可行以及它会是什么样子。]]></description>
+      <guid>https://t.me/hn_summary/66510</guid>
+      <pubDate>Sun, 31 Dec 2023 17:29:45 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]中国和俄罗斯成功测试了“防黑客”量子通信链路 [...]</title>
-      <link>https://t.me/hn_summary/66480</link>
-      <description><![CDATA[中国和俄罗斯为金砖国家测试“防黑客”量子通信链路
-中国和俄罗斯已经成功测试了两国之间的“防黑客”量子通信链路。此次测试是利用中国的量子卫星“墨子号”进行的，该卫星促进了国家和国际量子通信网络的发展。量子通信使用密码学将数据编码在单光子中，使黑客无法拦截信息。参与测试的研究人员强调了量子密钥的重要性，量子密钥是用于编码有用信息的秘密参数。此次实验的成功为国家间安全量子通信网络开辟了可能性，并在科学研究和金融领域具有潜在的应用前景。]]></description>
-      <guid>https://t.me/hn_summary/66480</guid>
-      <pubDate>Sun, 31 Dec 2023 11:43:45 GMT</pubDate>
+      <title>[媒体] machinelearningmastery.com 上的本教程探讨了图像类别的逻辑回归 [...]</title>
+      <link>https://t.me/hn_summary/66509</link>
+      <description><![CDATA[使用 OpenCV 进行图像分类的逻辑回归
+machinelearningmastery.com 上的本教程探讨了使用 OpenCV 进行图像分类的逻辑回归。本教程首先回顾逻辑回归及其在二元分类中的应用。然后解释如何使用一对一方法等技术针对多类分类问题修改逻辑回归。本教程提供了有关如何使用 OpenCV 中的数字数据集将逻辑回归应用于多类分类问题的分步说明。它包括代码示例并解释如何训练逻辑回归模型、测试其准确性并生成混淆矩阵。 （根据 83% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/66509</guid>
+      <pubDate>Sun, 31 Dec 2023 17:29:41 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]不幸的是，所提供的内容不完整并且没有提供足够的信息[...]</title>
-      <link>https://t.me/hn_summary/66479</link>
-      <description><![CDATA[印度男子使用 Redmi Note 9 Pro 上的 Flowpilot 驾驶 Alto K10 
-不幸的是，提供的内容不完整，没有提供足够的信息来生成摘要。]]></description>
-      <guid>https://t.me/hn_summary/66479</guid>
-      <pubDate>Sun, 31 Dec 2023 11:30:34 GMT</pubDate>
+      <title>现代黑客新闻网络是一个开源项目，旨在增强用户体验 [...]</title>
+      <link>https://t.me/hn_summary/66508</link>
+      <description><![CDATA[现代黑客新闻网络 – 开源并寻求反馈&lt; /a&gt;
+现代黑客新闻网络是一个开源项目，旨在增强流行新闻聚合网站黑客新闻的用户体验。该项目正在寻求社区的反馈以改进其特性和功能。该网站采用现代且精简的设计，使用户可以更轻松地浏览和访问热门新闻、提出问题、展示他们的项目以及寻找工作机会。该项目的开源性质允许开发人员根据自己的喜好贡献和定制平台。这一举措是增强 Hacker News 体验并使社区参与其开发的巧妙而独特的方式。]]></description>
+      <guid>https://t.me/hn_summary/66508</guid>
+      <pubDate>Sun, 31 Dec 2023 17:28:35 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 这篇博文讨论了 SunFounder PiCar-X 中新增的视觉功能。</title>
-      <link>https://t.me/hn_summary/66478</link>
-      <description><![CDATA[为 SunFounder PiCar-X 添加视觉
-该博文讨论了 SunFounder PiCar-X 中新增的视觉功能。该程序的先前版本存在局限性，例如在未检测到它的情况下卡住。作者介绍了SunFounder提供的Vilib Python库，其中包括物体检测、人脸识别、手势识别等AI算法。作者使用Vilib拍照，然后利用OpenCV库进行图像比较。该程序还包含错误处理功能，以解决超声波传感器和摄像头的问题。作者分享了 PiCar-X 编程经验，并强调了使用 Vilib 库的便利性。]]></description>
-      <guid>https://t.me/hn_summary/66478</guid>
-      <pubDate>Sun, 31 Dec 2023 11:06:21 GMT</pubDate>
+      <title>2024 年 1 月 1 日，数千件 1928 年受版权保护的作品将进入美国公共领域，[...]</title>
+      <link>https://t.me/hn_summary/66507</link>
+      <description><![CDATA[2024 年 1 月 1 日是公共领域日
+2024 年 1 月 1 日，数千件 1928 年的受版权保护的作品以及 1923 年的录音制品将进入美国公共领域。其中包括 D.H. 劳伦斯 (D.H. Lawrence) 的《查泰莱夫人的情人》、贝尔托·布莱希特 (Bertolt Brecht) 的《三便士歌剧》、以及以米奇和米妮为主角的“威利汽船”。文章强调了这些作品的文化意义，包括禁书、对社会的批评以及对性别和性的探索。它还提到了从无声电影到“有声电影”的转变以及 1928 年以来音乐作品的可用性。公共领域允许共享和保存否则可能会丢失的文化材料。 （根据 27% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/66507</guid>
+      <pubDate>Sun, 31 Dec 2023 17:28:29 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 作者热情地认为 X220 ThinkPad 是有史以来最好的笔记本电脑。</title>
-      <link>https://t.me/hn_summary/66477</link>
-      <description><![CDATA[X220 ThinkPad 是世界上最好的笔记本电脑 
-作者热情地认为 X220 ThinkPad 是有史以来最好的笔记本电脑。他们批评新型笔记本电脑为了追求轻薄和设计而牺牲了制造质量、功能和可修复性。另一方面，X220 因其坚固的构造、众多的端口、经典的键盘、良好的电池寿命和易于维修性而受到好评。笔者还重点强调了X220的实惠价格，使其物超所值。虽然文章的标题和语气都是轻松愉快的，但作者真诚地相信 X220 是市面上最好的笔记本电脑之一。]]></description>
-      <guid>https://t.me/hn_summary/66477</guid>
-      <pubDate>Sun, 31 Dec 2023 10:21:01 GMT</pubDate>
+      <title>Synctify 是一款革命性的应用程序，允许用户将歌曲中的特定时刻与 [...]</title>
+      <link>https://t.me/hn_summary/66506</link>
+      <description><![CDATA[Synctify – 将音乐滴与现实世界中的时间同步&lt; /a&gt;
+Synctify 是一款革命性的应用程序，允许用户将歌曲中的特定时刻与现实世界中的特定时间同步。使用 Synctify，您可以创建“音乐滴”，其中节拍在您想要的确切时刻滴落。想象一下，将坎耶·维斯特 (Kanye West) 的《Father Stretch My Hands Pt. 1》中的史诗般的下降与新年前夜午夜钟声敲响的时刻同步。这是一种独特而巧妙的方式来增强您的音乐聆听体验并创造难忘的时刻。告别节奏尴尬的音乐，迎接完美同步的节拍。]]></description>
+      <guid>https://t.me/hn_summary/66506</guid>
+      <pubDate>Sun, 31 Dec 2023 17:26:22 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]作者分享了在线 AWS 考试被无效的令人沮丧的经历 [...]</title>
-      <link>https://t.me/hn_summary/66476</link>
-      <description><![CDATA[在线考试因 FaceTime 表情符号 (MacBook) 被撤销 
-作者分享了一次令人沮丧的经历：由于在 MacBook 摄像头上检测到手势表情符号，PersonVue 取消了在线 AWS 考试的资格。他们不知道这个功能，也没有故意启用它。作者对 PersonVue 的回应表示失望，并要求支付重测费用。他们向社区寻求建议，并警告未来的 MacBook 用户注意此问题。]]></description>
-      <guid>https://t.me/hn_summary/66476</guid>
-      <pubDate>Sun, 31 Dec 2023 09:48:44 GMT</pubDate>
+      <title>[媒体]2022年，由于俄罗斯入侵乌克兰，全球能源价格上涨了60%，[...]</title>
+      <link>https://t.me/hn_summary/66505</link>
+      <description><![CDATA[每年运行最便宜和最昂贵的设备&lt; br/&gt;
+2022年，由于俄罗斯入侵乌克兰，全球能源价格上涨了60%，导致家庭面临更高的能源账单。 MoneyTransfers.com 计算了运行时最便宜和最昂贵的设备美国不同地区的电力成本。空调是运行成本最高的设备，每年的成本高达 1,062 美元。其他昂贵的电器包括电加热器、滚筒式烘干机、洗衣机、冰箱和洗碗机。 LED 灯泡的运行成本最低，每月仅需 0.29 美元。文章还提到了远程工作对能源账单的潜在影响以及禁止燃气灶的考虑。作者提供了节省电费的小窍门，例如使用电风扇代替空调以及在非高峰时段使用电器。]]></description>
+      <guid>https://t.me/hn_summary/66505</guid>
+      <pubDate>Sun, 31 Dec 2023 17:18:12 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] LuaX 是一种在 bvisness.me 网站上运行的自定义语言。</title>
-      <link>https://t.me/hn_summary/66475</link>
-      <description><![CDATA[LuaX：带有 JSX 的 Lua 方言
-LuaX 是一种在网站 bvisness.me 上运行的自定义语言。它与 JSX 类似，但针对 Lua。使用 LuaX，用户可以编写返回 HTML 块的 Lua 文件，从而允许他们创建更有趣和动态的网页。作者提供了一个 LuaX 主页的示例，展示了在 Lua 中定义数据、使用 Lua 函数创建 HTML 组件以及使用 Lua 的包系统组织模板的能力。作者解释说，他们创建 LuaX 是因为他们不喜欢静态站点以及当前组织 Markdown 文件和处理模板语言的工作流程。他们更喜欢更动态的方法，并欣赏 JSX 将 HTML 作为数据进行操作的能力。 （根据故事文本的 29% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/66475</guid>
-      <pubDate>Sun, 31 Dec 2023 09:02:26 GMT</pubDate>
+      <title>[媒体] 网页内容是关于如何为社区运营小型社交网站的指南 [...]</title>
+      <link>https://t.me/hn_summary/66504</link>
+      <description><![CDATA[如何运营小型社交网络
+该网络内容是有关如何为朋友社区运行小型社交网站的指南。作者分享了他们运营名为 Friend Camp 的社交网站的经验，并提供了如何创建和维护类似网站的实用指导。作者强调，运营社交网站主要是为了社区建设，并强调了拥有小型、自我控制的网络的好处。他们还讨论了修改软件和制作自定义功能的能力，以及制定社会规则和政策的重要性。作者认为，与 Facebook 或 Twitter 等大型社交媒体网站相比，运营小型社交网站可以提供更定制、更愉快的在线环境。 （根据故事文本的 23% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/66504</guid>
+      <pubDate>Sun, 31 Dec 2023 17:17:07 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]本文作者总结了2023年十篇值得关注的人工智能研究论文。</title>
-      <link>https://t.me/hn_summary/66474</link>
-      <description><![CDATA[2023年十大值得关注的人工智能研究论文
-该网页内容的作者总结了 2023 年 10 篇值得关注的人工智能研究论文。他们提到，今年对于机器学习和人工智能来说尤为重要，进步迅速，受欢迎程度也很高。作者更关注大型语言模型（LLM）论文而不是计算机视觉论文。他们解释说，论文的选择标准是基于个人的享受和影响。讨论的第一篇论文是“Pythia：跨训练和扩展分析大型语言模型的套件”，该论文因其发布的训练细节和见解而脱颖而出。其他提到的论文包括“Llama 2: Open Foundation and Fine-Tuned Chat Models”、“QLoRA: Efficient Finetuning of Quantized LLMs”、“BloombergGPT: A Large Language Model for Finance”和“Direct Preference Optimization: Your Language Model is Secretly”奖励模型。”作者强调了每篇论文的独特之处和贡献。 （根据 48% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/66474</guid>
-      <pubDate>Sun, 31 Dec 2023 08:48:16 GMT</pubDate>
+      <title>[媒体]该网页内容是托马斯·内格尔1970年写的一篇题为《死亡》的文章的摘要。</title>
+      <link>https://t.me/hn_summary/66503</link>
+      <description><![CDATA[托马斯·内格尔之死 (1970) [pdf](https:/ /news.ycombinator.com/item?id=38814434)
+网页内容是托马斯·内格尔 (Thomas Nagel) 于 1970 年写的一篇题为《死亡》的文章的摘要。内格尔探讨了死亡是否是一件坏事的问题。他承认，在这个问题上存在分歧，有些人害怕死亡，有些人则无动于衷。内格尔认为，如果死亡是一种邪恶，那不是因为它的积极特征，而是因为它剥夺了我们的东西。他还讨论了我们对死后不存在和产前不存在的态度之间的不对称。内容提出了关于善与恶的本质以及对主题的不幸分配的问题。 （根据 47% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/66503</guid>
+      <pubDate>Sun, 31 Dec 2023 17:16:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
