@@ -4,11 +4,32 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 01 Jan 2024 00:56:10 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jan 2024 03:13:43 GMT</lastBuildDate>
+    <item>
+      <title>在 Pinterest 的生产中运行统一的 PubSub 客户端</title>
+      <link>https://www.reddit.com/r/webdev/comments/18vno6m/running_unified_pubsub_client_in_production_at/</link>
+      <description><![CDATA[       由   提交/u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18vno6m/running_unified_pubsub_client_in_production_at/</guid>
+      <pubDate>Mon, 01 Jan 2024 03:05:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>（反应）我有一个页面，它是项目缩略图的网格。单击缩略图后，它将转到项目详细信息页面。我想要一个能够适应每个项目信息的 projectDetail.js 页面。我使用这个解决方案（在描述中）是否走在正确的轨道上，或者有更好的方法吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/18vmhr1/react_i_have_a_page_thats_a_grid_of_project/</link>
+      <description><![CDATA[&lt;路由路径=“/projects/:name”组件={项目详细信息} /&gt;  一个项目可能只是带有文本描述的英雄图像，而另一个项目可能在描述下方有其他图像或视频。我正在考虑将项目的所有信息都保存在 json 中。 json 的顶层将是通知缩略图和导航链接的项目名称，然后子对象将是将加载到站点中的附加数据（如果存在）。这是一个好方法还是有更好的方法？   由   提交 /u/YoungMalchick   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18vmhr1/react_i_have_a_page_thats_a_grid_of_project/</guid>
+      <pubDate>Mon, 01 Jan 2024 01:53:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>前端可以替代 yahoo-finance2 吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/18vljwc/alternative_to_yahoofinance2_for_frontend/</link>
+      <description><![CDATA[我正在使用 SvelteKit + Cloudflare Pages 制作一个小型库存应用程序。我认为 yahoo-finance 可以在服务器路由中工作，但是当我运行构建命令时它会失败，因为 yf 使用节点特定的库。  我想知道是否有像“yahoo-finance-web”之类的替代方案？  提前致谢！   由   提交/u/kpmtech   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/18vljwc/alternative_to_yahoofinance2_for_frontend/</guid>
+      <pubDate>Mon, 01 Jan 2024 01:00:19 GMT</pubDate>
+    </item>
     <item>
       <title>我是新人，哪里可以上传前端和后端？</title>
       <link>https://www.reddit.com/r/webdev/comments/18vjclj/im_new_where_i_can_upload_the_frontend_and_the/</link>
-      <description><![CDATA[所以我刚买了一个月的托管服务来上传我的网站，但我想弄清楚如何上传前端和后端，我知道如何上传前端，但我没有找到任何有关如何上传后端的教程 抱歉，我是初学者，如果我拼写错误，也很抱歉   由   提交/u/_-ju4nd4  /u/_-ju4nd4  reddit.com/r/webdev/comments/18vjclj/im_new_where_i_can_upload_the_frontend_and_the/&quot;&gt;[链接] [评论]]]></description>
+      <description><![CDATA[所以我刚刚购买了一个月的托管服务来上传我的网站，但我想弄清楚如何上传前端和后端，我知道如何上传前端，但我没有找到任何有关如何上传后端的教程 抱歉，我是初学者，如果我拼写错误，也很抱歉   由   提交/u/_-ju4nd4  /u/_-ju4nd4  reddit.com/r/webdev/comments/18vjclj/im_new_where_i_can_upload_the_frontend_and_the/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/18vjclj/im_new_where_i_can_upload_the_frontend_and_the/</guid>
       <pubDate>Sun, 31 Dec 2023 22:58:57 GMT</pubDate>
     </item>
@@ -64,14 +85,14 @@
     <item>
       <title>祝大家新年快乐！！</title>
       <link>https://www.reddit.com/r/webdev/comments/18vhdim/happy_new_year_to_everyone/</link>
-      <description><![CDATA[致Python开发者 print(&quot;祝大家新年快乐！！🎊🎉&quot; 致java开发者 System.out.println(“祝大家新年快乐！！🎊🎉”); 致 JS 开发者 console.log(“祝大家新年快乐！！🎊🎉”); 致 C 开发者&lt; /p&gt; ```#include  int main() { printf(&quot;祝大家新年快乐！！🎊🎉&quot;); return 0; } ``` 致 csharp 开发人员 ``` 使用 System; class Program { static void Main() { Console.WriteLine(&quot;Happy New祝大家新年快乐!!🎊🎉&quot;); } } ``` 致 Ruby 开发者 “祝大家新年快乐！！🎊🎉”  致 cpp 开发人员 ``` include  int main() { std: :cout &lt;&lt; &quot;祝大家新年快乐！！🎊🎉&quot;; return 0; } ``` To Go 开发者 ``` package main&lt; /p&gt; import &quot;fmt&quot; func main() { fmt.Println(&quot;祝大家新年快乐!!🎊🎉&quot;) } ``` &lt; p&gt;致 PHP 开发者   致 Rust 开发者  fn main() { println!(&quot;祝大家新年快乐！！🎊🎉&quot;); }  祝您今年作为软件工程师的职业生涯一切顺利！   由   提交/u/Guuri_11  [链接] [评论]]]></description>
+      <description><![CDATA[致Python开发者 print(&quot;祝大家新年快乐！！🎊🎉&quot; 致java开发人员 System.out.println(“祝大家新年快乐！！🎊🎉”); 致 JS 开发者 console.log(“祝大家新年快乐！！🎊🎉”); 致 C 开发者&lt; /p&gt; ```#include  int main() { printf(&quot;祝大家新年快乐！！🎊🎉&quot;); return 0; } ``` 致 csharp 开发人员 ``` 使用 System; class Program { static void Main() { Console.WriteLine(&quot;Happy New祝大家新年快乐!!🎊🎉&quot;); } } ``` 致 Ruby 开发者 “祝大家新年快乐！！🎊🎉”  致 cpp 开发人员 ``` include  int main() { std: :cout &lt;&lt; &quot;祝大家新年快乐！！🎊🎉&quot;; return 0; } ``` To Go 开发者 ``` package main&lt; /p&gt; import &quot;fmt&quot; func main() { fmt.Println(&quot;祝大家新年快乐!!🎊🎉&quot;) } ``` &lt; p&gt;致 PHP 开发者    致 Rust 开发者  fn main() { println!(&quot;祝大家新年快乐！！🎊🎉&quot;); }  祝您今年作为软件工程师的职业生涯一切顺利！   由   提交/u/Guuri_11  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/18vhdim/happy_new_year_to_everyone/</guid>
       <pubDate>Sun, 31 Dec 2023 21:18:10 GMT</pubDate>
     </item>
     <item>
       <title>建立一个类似 eventbrite 或 Ticketmaster 的网站</title>
       <link>https://www.reddit.com/r/webdev/comments/18vgfx7/build_a_website_like_eventbrite_or_ticketmaster/</link>
-      <description><![CDATA[所以我希望建立一个活动平台，并想询问网络开发人员有什么策略。  是否有任何应用程序可用于快速构建 MVP？与 WordPress/shoplift/rsvpify 类似 主要功能： 它应该有 2 个登录名：活动组织者登录名和用户/与会者登录名。 活动组织者应该能够发布自己的活动，无论是免费活动还是付费活动。 与会者可以报名参加活动（我应该能够收取他们的付费活动的佣金） 该网站应该可以按位置进行过滤（我希望能有一张地图，比如爱彼迎）。 ​ 任何帮助将不胜感激。 ​ 任何帮助将不胜感激。 p&gt; 谢谢   由   提交 /u/somelifeitellyou   [链接] [评论]]]></description>
+      <description><![CDATA[所以我希望建立一个活动平台，并想询问网络开发人员有什么策略。  是否有任何应用程序可用于快速构建 MVP？与 WordPress/shoplift/rsvpify 类似 主要功能： 它应该有 2 个登录名：活动组织者登录名和用户/与会者登录名。 活动组织者应该能够发布自己的活动，无论是免费活动还是付费活动。 与会者可以报名参加活动（我应该能够收取他们的付费活动的佣金） 该网站应该可以按位置进行过滤（我希望能有一张地图，例如爱彼迎）。 ​ 任何帮助将不胜感激。 ​ 任何帮助将不胜感激。 p&gt; 谢谢   由   提交 /u/somelifeitellyou   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/18vgfx7/build_a_website_like_eventbrite_or_ticketmaster/</guid>
       <pubDate>Sun, 31 Dec 2023 20:32:30 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[       由   提交/u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/18vfu30/how_to_do_a_typescript_conversion/</guid>
       <pubDate>Sun, 31 Dec 2023 20:03:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>CMS 是适合我的用例的正确选择吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/18vfov2/is_cms_the_right_choice_for_my_use_case/</link>
-      <description><![CDATA[背景故事 我正在为我大学的新 Makerspace 构建一个资源管理网站。本质上，该网站将拥有一堆可以选择并预订可用插槽的设备。  到目前为止我拥有的技术堆栈： - SvelteKit(Lucia for auth) - MySQL 现在我想为管理员提供一种添加新设备或修改现有设备的方法那些不写sql的人，因为我认为管理实验室的人不会知道如何写。我认为 CMS 是正确的选择，因为我对 CMS 的作用有不同的理解。  我想要什么 我想要一个可以托管在 netlify 上的简单前端，它可以充当数据库的 GUI。也许是像 Retool 这样的工具。最优选的是开源且免费的解决方案。我看了很多CMS、payload、Directus等等。有些有基于平面文件的存储，有些需要托管在 aws、digital ocean 等服务器上。 经过所有研究，如果我找不到任何适合我需要的合适工具，我想我必须建立自己的“CMS”因为它不是一个资金雄厚的项目，而且我的报酬远不及建立这样一个网站所需的费用。 我还有一些关于如何构建资源管理工具的其他问题，所以如果有人有构建内部工具的经验，请告诉我，以便我与您联系。 提前致谢！   由   提交 /u/ZyanCarl   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18vfov2/is_cms_the_right_choice_for_my_use_case/</guid>
-      <pubDate>Sun, 31 Dec 2023 19:56:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有办法可以免费获得域名？</title>
-      <link>https://www.reddit.com/r/webdev/comments/18vf2w2/is_there_a_way_that_i_can_get_a_domain_for_free/</link>
-      <description><![CDATA[.com 扩展名当然是最好的，但 .org、.web、.store、.pk、. site、.store 也可以。谢谢。   由   提交 /u/Undone_Assignment   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18vf2w2/is_there_a_way_that_i_can_get_a_domain_for_free/</guid>
-      <pubDate>Sun, 31 Dec 2023 19:27:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 CSS 滚动驱动动画制作进度条动画</title>
-      <link>https://www.reddit.com/r/webdev/comments/18vf1q5/animating_a_progress_bar_with_css_scrolldriven/</link>
-      <description><![CDATA[       由   提交 /u/silveryms   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/18vf1q5/animating_a_progress_bar_with_css_scrolldriven/</guid>
-      <pubDate>Sun, 31 Dec 2023 19:26:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
