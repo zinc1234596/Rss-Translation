@@ -4,111 +4,111 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Wed, 03 Jan 2024 15:12:13 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jan 2024 18:14:35 GMT</lastBuildDate>
     <item>
-      <title>人工智能被夸大了——为什么我们在 10 年后仍然会有工作机会</title>
-      <link>https://www.reddit.com/r/programming/comments/18xkzli/ai_is_overhyped_why_we_still_will_have_jobs_in_10/</link>
-      <description><![CDATA[我对人工智能热潮的看法。我很想听听您的想法！   由   提交/u/vik76  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/18xkzli/ai_is_overhyped_why_we_still_will_have_jobs_in_10/</guid>
-      <pubDate>Wed, 03 Jan 2024 14:43:27 GMT</pubDate>
+      <title>RawJS 是调用 document.createElement() 的更好方法</title>
+      <link>https://www.reddit.com/r/programming/comments/18xpsl6/rawjs_is_a_better_way_to_call/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/18xpsl6/rawjs_is_a_better_way_to_call/</guid>
+      <pubDate>Wed, 03 Jan 2024 18:14:18 GMT</pubDate>
     </item>
     <item>
-      <title>Apple 文本编辑器独立开发 9 年</title>
-      <link>https://www.reddit.com/r/programming/comments/18xjtzn/9_years_of_apple_text_editor_solo_dev/</link>
-      <description><![CDATA[ 由   提交/u/coffee_kazoo   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/18xjtzn/9_years_of_apple_text_editor_solo_dev/</guid>
-      <pubDate>Wed, 03 Jan 2024 13:49:47 GMT</pubDate>
+      <title>通过光线追踪实现本地多人游戏/分屏视角的新方法</title>
+      <link>https://www.reddit.com/r/programming/comments/18xprzi/a_new_approach_to_local_multiplayer_splitscreen/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/18xprzi/a_new_approach_to_local_multiplayer_splitscreen/</guid>
+      <pubDate>Wed, 03 Jan 2024 18:13:37 GMT</pubDate>
     </item>
     <item>
-      <title>坏苹果，但它是一个流畅的模拟</title>
-      <link>https://www.reddit.com/r/programming/comments/18xjizy/bad_apple_but_its_a_fluid_simulation/</link>
-      <description><![CDATA[ 由   提交/u/wheybags  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/18xjizy/bad_apple_but_its_a_fluid_simulation/</guid>
-      <pubDate>Wed, 03 Jan 2024 13:34:35 GMT</pubDate>
+      <title>Malbolge Unshackled 中的轻量级 Lisp 解释器</title>
+      <link>https://www.reddit.com/r/programming/comments/18xpq3b/a_lightweight_lisp_interpreter_in_malbolge/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/18xpq3b/a_lightweight_lisp_interpreter_in_malbolge/</guid>
+      <pubDate>Wed, 03 Jan 2024 18:11:30 GMT</pubDate>
     </item>
     <item>
-      <title>用 Python 读取 Excel 的最快方法</title>
-      <link>https://www.reddit.com/r/programming/comments/18xiufq/fastest_way_to_read_excel_in_python/</link>
-      <description><![CDATA[ 由   提交/u/be_haki  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/18xiufq/fastest_way_to_read_excel_in_python/</guid>
-      <pubDate>Wed, 03 Jan 2024 12:59:43 GMT</pubDate>
+      <title>双重加密：分析 NSA/GCHQ 针对混合加密的论点</title>
+      <link>https://www.reddit.com/r/programming/comments/18xpq2o/double_encryption_analyzing_the_nsagchq_arguments/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/18xpq2o/double_encryption_analyzing_the_nsagchq_arguments/</guid>
+      <pubDate>Wed, 03 Jan 2024 18:11:29 GMT</pubDate>
     </item>
     <item>
-      <title>2024 年 PostgreSQL 的思考</title>
-      <link>https://www.reddit.com/r/programming/comments/18xitsz/thoughts_on_postgresql_in_2024/</link>
-      <description><![CDATA[ 由   提交/u/mariuz  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/18xitsz/thoughts_on_postgresql_in_2024/</guid>
-      <pubDate>Wed, 03 Jan 2024 12:58:48 GMT</pubDate>
+      <title>GNU coreutils 的跨平台 Rust 重写</title>
+      <link>https://www.reddit.com/r/programming/comments/18xpp5c/crossplatform_rust_rewrite_of_the_gnu_coreutils/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/18xpp5c/crossplatform_rust_rewrite_of_the_gnu_coreutils/</guid>
+      <pubDate>Wed, 03 Jan 2024 18:10:29 GMT</pubDate>
     </item>
     <item>
-      <title>为什么大多数企业家/开发者晚上睡不着觉？</title>
-      <link>https://www.reddit.com/r/programming/comments/18xhsii/why_most_entrepreneursdevelopers_cant_sleep_at/</link>
-      <description><![CDATA[ 由   提交 /u/Mariambarouma   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/18xhsii/why_most_entrepreneursdevelopers_cant_sleep_at/</guid>
-      <pubDate>Wed, 03 Jan 2024 12:00:56 GMT</pubDate>
+      <title>对 20 种编程语言的 N 皇后和矩阵乘法进行基准测试</title>
+      <link>https://www.reddit.com/r/programming/comments/18xpp4r/benchmarking_20_programming_languages_on_nqueens/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/18xpp4r/benchmarking_20_programming_languages_on_nqueens/</guid>
+      <pubDate>Wed, 03 Jan 2024 18:10:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>用 C# 构建一个小于 2 KB 的独立游戏</title>
+      <link>https://www.reddit.com/r/programming/comments/18xpmpg/building_a_selfcontained_game_in_c_under_2/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/18xpmpg/building_a_selfcontained_game_in_c_under_2/</guid>
+      <pubDate>Wed, 03 Jan 2024 18:07:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>制作小游戏，本身就很有趣</title>
+      <link>https://www.reddit.com/r/programming/comments/18xpmp4/making_small_games_which_is_fun_in_itself/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/18xpmp4/making_small_games_which_is_fun_in_itself/</guid>
+      <pubDate>Wed, 03 Jan 2024 18:07:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>PlaywrightGPT - 生成 E2E 测试</title>
+      <link>https://www.reddit.com/r/programming/comments/18xor7u/playwrightgpt_generate_e2e_tests/</link>
+      <description><![CDATA[使用自然语言生成/执行 E2E 测试  我想象未来 CI 将根据人工任务生成代码差异这些提示。有些测试甚至可能能够自行修复。  这更多的是有趣的一面，而不是有用的一面，但我想我会分享。  我怀疑大佬们将会对我们使用生成式 AI 编写和维护 E2E 测试的方式做出一些改变 来源：https://github.com/BaseInfinity/PlaywrightGPT   由   提交 /u/Ikeeki   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/18xor7u/playwrightgpt_generate_e2e_tests/</guid>
+      <pubDate>Wed, 03 Jan 2024 17:32:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何以正确的方式交付初创公司的第一个 MVP</title>
+      <link>https://www.reddit.com/r/programming/comments/18xohp9/how_to_deliver_the_first_mvp_of_your_startup_the/</link>
+      <description><![CDATA[ 由   提交/u/Nouman-Rahman   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/18xohp9/how_to_deliver_the_first_mvp_of_your_startup_the/</guid>
+      <pubDate>Wed, 03 Jan 2024 17:22:47 GMT</pubDate>
     </item>
     <item>
       <title>使用 Shape 类在 Action Script 3 编程语言中创建工程图的步骤</title>
-      <link>https://www.reddit.com/r/programming/comments/18xhq6j/steps_to_use_the_shape_class_to_create/</link>
+      <link>https://www.reddit.com/r/programming/comments/18xnxc5/steps_to_use_the_shape_class_to_create/</link>
       <description><![CDATA[ 由   提交/u/ah2000ha  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/18xhq6j/steps_to_use_the_shape_class_to_create/</guid>
-      <pubDate>Wed, 03 Jan 2024 11:57:25 GMT</pubDate>
+      <guid>https://www.reddit.com/r/programming/comments/18xnxc5/steps_to_use_the_shape_class_to_create/</guid>
+      <pubDate>Wed, 03 Jan 2024 16:55:00 GMT</pubDate>
     </item>
     <item>
-      <title>优化端到端 (e2e) 测试性能</title>
-      <link>https://www.reddit.com/r/programming/comments/18xhcj0/optimizing_endtoend_e2e_test_performance/</link>
-      <description><![CDATA[ 由   提交 /u/chillysurfer   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/18xhcj0/optimizing_endtoend_e2e_test_performance/</guid>
-      <pubDate>Wed, 03 Jan 2024 11:34:00 GMT</pubDate>
+      <title>软件工程在娃娃的哪里？传福音伤害了你吗？</title>
+      <link>https://www.reddit.com/r/programming/comments/18xnxby/where_on_the_doll_did_software_eng_evangelism/</link>
+      <description><![CDATA[ 由   提交 /u/string_matcher   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/18xnxby/where_on_the_doll_did_software_eng_evangelism/</guid>
+      <pubDate>Wed, 03 Jan 2024 16:54:59 GMT</pubDate>
     </item>
     <item>
-      <title>分享您的科技职业中断经历 - 帮助激励他人！</title>
-      <link>https://www.reddit.com/r/programming/comments/18xh986/share_your_tech_career_break_experiences_help/</link>
-      <description><![CDATA[大家好！我们正在为我们的项目收集故事，重点关注技术专业人士在职业休息期间的经历。无论是裁员、个人选择还是任何其他原因，您的故事都可以成为科技界许多人的灯塔。 请填写此简短表格进行贡献：https://forms.gle/F82cxZjA7jTwnEuYA 如果您不愿意填写表格或希望快速分享，请随时离开您在下面的评论中的经历。让我们互相支持、互相学习！   由   提交 /u/Specific-Egg-221   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/18xh986/share_your_tech_career_break_experiences_help/</guid>
-      <pubDate>Wed, 03 Jan 2024 11:28:11 GMT</pubDate>
+      <title>使用 Shape 类在 Action Script 3 编程语言中创建工程图的步骤</title>
+      <link>https://www.reddit.com/r/programming/comments/18xnxbx/steps_to_use_the_shape_class_to_create/</link>
+      <description><![CDATA[ 由   提交/u/ah2000ha  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/18xnxbx/steps_to_use_the_shape_class_to_create/</guid>
+      <pubDate>Wed, 03 Jan 2024 16:54:59 GMT</pubDate>
     </item>
     <item>
-      <title>编码面试中的常见错误以及如何避免这些错误</title>
-      <link>https://www.reddit.com/r/programming/comments/18xgxkq/common_mistakes_in_coding_interviews_and_how_to/</link>
-      <description><![CDATA[ 由   提交/u/Own-Estate-5717   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/18xgxkq/common_mistakes_in_coding_interviews_and_how_to/</guid>
-      <pubDate>Wed, 03 Jan 2024 11:08:30 GMT</pubDate>
+      <title>如何使用 ReBAC 创建直观的应用程序权限而不显式定义它们</title>
+      <link>https://www.reddit.com/r/programming/comments/18xngdk/how_to_create_intuitive_application_permissions/</link>
+      <description><![CDATA[ 由   提交 /u/ege-aytin   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/18xngdk/how_to_create_intuitive_application_permissions/</guid>
+      <pubDate>Wed, 03 Jan 2024 16:30:36 GMT</pubDate>
     </item>
     <item>
-      <title>不再有 CSS 问题，一个简单但简单的 CSS 位置问题解决方案。</title>
-      <link>https://www.reddit.com/r/programming/comments/18xgmvw/no_more_css_issue_a_brute_but_easy_solution_for/</link>
-      <description><![CDATA[ 由   提交/u/MateusMoutinho11   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/18xgmvw/no_more_css_issue_a_brute_but_easy_solution_for/</guid>
-      <pubDate>Wed, 03 Jan 2024 10:50:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Rust 生成数据的速度提高 100 倍</title>
-      <link>https://www.reddit.com/r/programming/comments/18xglj4/generating_data_100x_faster_with_rust/</link>
-      <description><![CDATA[ 由   提交/u/bitter-cognac  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/18xglj4/generating_data_100x_faster_with_rust/</guid>
-      <pubDate>Wed, 03 Jan 2024 10:48:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>Databricks Unity 目录：综合指南</title>
-      <link>https://www.reddit.com/r/programming/comments/18xexzv/databricks_unity_catalog_a_comprehensive_guide/</link>
-      <description><![CDATA[ 由   提交/u/albertoguzmanpadru  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/18xexzv/databricks_unity_catalog_a_comprehensive_guide/</guid>
-      <pubDate>Wed, 03 Jan 2024 08:56:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使用 Python 和 FastAPI 创建多语言网站</title>
-      <link>https://www.reddit.com/r/programming/comments/18xep4o/how_to_create_a_multilingual_website_with_python/</link>
-      <description><![CDATA[ 由   提交/u/Organic_Drawing_3339   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/18xep4o/how_to_create_a_multilingual_website_with_python/</guid>
-      <pubDate>Wed, 03 Jan 2024 08:39:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>SIEVE 比 LRU 更简单 - SIEVE: an Efficient Turn-Key Eviction Algorithm for Web Caches</title>
-      <link>https://www.reddit.com/r/programming/comments/18xdu5c/sieve_is_simpler_than_lru_sieve_an_efficient/</link>
-      <description><![CDATA[ 由   提交/u/BrewedDoritos  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/18xdu5c/sieve_is_simpler_than_lru_sieve_an_efficient/</guid>
-      <pubDate>Wed, 03 Jan 2024 07:43:11 GMT</pubDate>
+      <title>当开发人员可以在工作中轻松实现和维护流程状态时，您将获得出色的开发体验</title>
+      <link>https://www.reddit.com/r/programming/comments/18xn1ek/great_developer_experience_is_what_you_get_when/</link>
+      <description><![CDATA[ 由   提交/u/DevsyOpsy  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/18xn1ek/great_developer_experience_is_what_you_get_when/</guid>
+      <pubDate>Wed, 03 Jan 2024 16:13:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
