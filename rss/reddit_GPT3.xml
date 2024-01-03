@@ -4,7 +4,14 @@
     <title>最新提交：GPT3</title>
     <link>https://www.reddit.com/r/GPT3/new</link>
     <description>AI 文本生成技术的 Reddit 子版块</description>
-    <lastBuildDate>Wed, 03 Jan 2024 09:12:36 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jan 2024 12:19:41 GMT</lastBuildDate>
+    <item>
+      <title>ChatGPT 一年 - 签到</title>
+      <link>https://www.reddit.com/r/GPT3/comments/18xflpf/a_year_of_chatgpt_checkin/</link>
+      <description><![CDATA[大家好！ 人工智能成为“大众产品”已经过去了大约一年的时间。随着 ChatGPT 的发布，现在是检验脉搏的好时机。 您的期望实现了吗？您的使用方式有何变化？它是否提高了您的生产力和效率？ 如果您能回答这项调查并分享您对今年“人工智能年”的印象，我将不胜感激。 https://tidiosurveys.typeform.com/to/aRMdJEdN。 谢谢！   由   提交/u/Lonely-Wish-6377   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/GPT3/comments/18xflpf/a_year_of_chatgpt_checkin/</guid>
+      <pubDate>Wed, 03 Jan 2024 09:42:03 GMT</pubDate>
+    </item>
     <item>
       <title>微代理：能够自我编辑提示/Python 代码的代理</title>
       <link>https://www.reddit.com/r/GPT3/comments/18vbymq/microagents_agents_capable_of_selfediting_their/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[新的 Mixtral 模型非常令人兴奋！ SOTA 结果、更低的内存占用和更快的推理速度！  如果知道如何在消费级硬件上轻松对其进行微调，那么它会变得更好！观看此视频指南，了解如何做到这一点！ https://youtu.be/ OopBG1z6-z0?si=cZ_CBShAawoywy7u   由   提交 /u/l33thaxman   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/GPT3/comments/18oo5la/how_to_finetune_mixtral_on_consumer_hardware/</guid>
       <pubDate>Fri, 22 Dec 2023 20:29:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>本周人工智能——所有主要人工智能发展简而言之</title>
-      <link>https://www.reddit.com/r/GPT3/comments/18ohith/this_week_in_ai_all_the_major_ai_developments_in/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/GPT3/comments/18ohith/this_week_in_ai_all_the_major_ai_developments_in/</guid>
-      <pubDate>Fri, 22 Dec 2023 15:30:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
