@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Thu, 04 Jan 2024 15:01:39 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jan 2024 17:56:23 GMT</lastBuildDate>
     <item>
-      <title>[媒体]列日大学研究人员发现的新化石证据表明[...]</title>
-      <link>https://t.me/hn_summary/67143</link>
-      <description><![CDATA[光合作用的化石证据已有十亿年历史&lt; br/&gt;
-列日大学研究人员发现的新化石证据表明，光合作用的进化比之前认为的要早十亿年。这些化石已有 17 亿年的历史，含有类囊体膜的结构，对光合作用至关重要。这将光合作用的明确证据推迟到 17 亿年前。这些发现对于理解光合作用的演化及其在塑造地球大气中的作用具有重要意义。研究人员建议，进一步研究关键进化事件中类囊体膜的存在可以为光合作用的进化提供更多的见解。]]></description>
-      <guid>https://t.me/hn_summary/67143</guid>
-      <pubDate>Thu, 04 Jan 2024 15:01:39 GMT</pubDate>
+      <title>[媒体]在这篇时事通讯文章中，作者讨论了元认知在学习中的重要性[...]</title>
+      <link>https://t.me/hn_summary/67166</link>
+      <description><![CDATA[元认知：关键的领导力和职业技能
+在这篇时事通讯文章中，作者讨论了元认知在领导力和职业成功中的重要性。元认知是指思考自己的想法并观察自己，以便做出更好的决策并适应不断变化的情况的能力。作者提供了 12 个框架的全面集合，帮助培养元认知能力，包括自我监控、反思、思想实验和角色扮演。文章强调需要持续努力并与教练或导师合作来提高元认知。作者还强调了问题设置、反思、摒弃无益的心理模式以及理解不同观点的重要性。总的来说，本文提供了在工作场所培养元认知技能的实用策略。]]></description>
+      <guid>https://t.me/hn_summary/67166</guid>
+      <pubDate>Thu, 04 Jan 2024 17:56:23 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 惠茨特布尔 (Whitstable) 的 Shingle Spit 是一条独特的街道，它随着时间的推移而消失又重新出现 [...]</title>
-      <link>https://t.me/hn_summary/67142</link>
-      <description><![CDATA[惠茨特布尔的木瓦吐口
-惠茨特布尔 (Whitstable) 的Shingle Spit 是一条独特的街道，随着潮水的涌动而消失又出现。它被称为惠茨特布尔街，从惠茨特布尔镇延伸到大海。退潮时，街道暴露在外，吸引遛狗者和游客探索它的长度。当我们沿着沙嘴继续前行时，地面变得越来越积水，但并没有突然掉入水中。标志警告游客要小心潮汐，因为当水进来时，沙嘴会被淹没。作者还在 YouTube 上发布了一部短片，记录了他们的参观过程。]]></description>
-      <guid>https://t.me/hn_summary/67142</guid>
-      <pubDate>Thu, 04 Jan 2024 14:52:26 GMT</pubDate>
+      <title>[媒体] 数学教授亚历山大·巴维诺克 (Alexander Barvinok) 反对职位空缺所需的多样性声明 [...]</title>
+      <link>https://t.me/hn_summary/67165</link>
+      <description><![CDATA[为什么数学教授 Alexander Barvinok 反对多样性声明
+数学教授亚历山大·巴维诺克（Alexander Barvinok）反对数学教师职位空缺所需的多样性声明。他从美国数学会辞职，理由是他们未能反对这些言论。巴维诺克认为，任何胁迫性言论，无论内容如何，​​都是一种强迫性言论，会腐蚀参与者。他利用自己在苏联长大的经历来反对要求多元化声明的趋势，在苏联，人们每天都必须确认自己对理想的忠诚。巴维诺克还对公益事业的制度要求和日益增长的学术官僚主义表示怀疑。他认为这些趋势是相互关联的，可以抑制辩论并压制相反的观点。 （根据 78% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/67165</guid>
+      <pubDate>Thu, 04 Jan 2024 17:46:13 GMT</pubDate>
     </item>
     <item>
-      <title>作者解决了 Fediverse 上提出的关于 [...] 之间命名不一致的问题。</title>
-      <link>https://t.me/hn_summary/67141</link>
-      <description><![CDATA[为什么Unix的lseek()有这个名字而不是seek()&lt; /a&gt;
-作者解决了 Fediverse 上提出的有关 Unix 中 fstat/lstat 和 fseek/lseek 命名不一致的问题。作者通过总结 Zack Weinberg 的帖子、наб 的帖子以及他们自己的附加历史信息中的信息，提供了全面的答案。他们解释说，Unix 的原始版本有一个eek() 系统调用，它接受三个 16 位参数。然而，这带来了一个问题，因为无法处理大于 2^16 字节的文件。在后续版本中，seek() 系统调用被重命名为 lseek() 并修改为使用长整型而不是整型来解决范围问题。 lseek() 中的“l”代表“long”。作者还提到了围绕 Unix 系统调用名称中使用“l”的争议。]]></description>
-      <guid>https://t.me/hn_summary/67141</guid>
-      <pubDate>Thu, 04 Jan 2024 14:49:17 GMT</pubDate>
+      <title>[媒体] 基因检测公司 23andMe 在指责我之后面临着公共关系灾难 [...]</title>
+      <link>https://t.me/hn_summary/67164</link>
+      <description><![CDATA[23andMe 因将数据泄露归咎于客户而面临公共关系灾难
+基因检测公司 23andMe 在将最近的数据泄露归咎于其客户后，面临着一场公共关系灾难。在给受影响客户的一封信中，该公司声称他们因安全措施不善而承担责任，并表示他们未能更新密码，并且疏忽地回收了其他暴露帐户的登录凭据。这一回应遭到了专家的批评，他们认为该公司应该承担责任，并向客户提供事实和富有同情心的信息。该公司的策略似乎旨在阻止受影响客户采取法律行动，但这只会加剧负面报道和强烈抵制。此次泄露事件发生于 2023 年 12 月，导致近 700 万用户的基因和血统数据被盗。 23andMe 已重置所有客户密码并实施多重身份验证以应对此次泄露。]]></description>
+      <guid>https://t.me/hn_summary/67164</guid>
+      <pubDate>Thu, 04 Jan 2024 17:41:56 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 马克·扎克伯格 (Mark Zuckerberg) 斥资 2.7 亿美元建造地下避难所的计划引发了人们的猜测 [...]</title>
-      <link>https://t.me/hn_summary/67140</link>
-      <description><![CDATA[扎克伯格的地堡计划助长了对亿万富翁建造地堡的猜测&lt; br/&gt;
-马克·扎克伯格斥资 2.7 亿美元建造地下避难所的计划引发了有关亿万富翁建造掩体的猜测。该项目位于考艾岛，超越了传统的避难所，拥有十几座建筑，配有健身房、游泳池、桑拿浴室等豪华设施，甚至还有通过索桥连接的树屋。虽然扎克伯格的隐居地因其奢华而引人注目，但彼得·泰尔等其他亿万富翁也对建造地堡式避难所表现出了兴趣。这些化合物的丰富性，加上亿万富翁生活方式的神秘性，引发了关于其真正目的的阴谋论。一些人推测这些亿万富翁拥有内幕知识，正在为潜在的全球动荡或危机做准备。]]></description>
-      <guid>https://t.me/hn_summary/67140</guid>
-      <pubDate>Thu, 04 Jan 2024 14:41:06 GMT</pubDate>
+      <title>[媒体] Sparkey 是一个简单的常量键/值存储库，专为读取量大而设计 [...]</title>
+      <link>https://t.me/hn_summary/67163</link>
+      <description><![CDATA[Sparkkey是一个简单的常量键/值存储库 
+Sparkey 是一个简单的常量键/值存储库，专为具有不频繁的大批量插入的读取密集型系统而设计。它包括一个用于处理 Sparkey 索引和日志文件的 C 库，以及一个用于获取 Sparkey 索引/日志信息和读取值的命令行实用程序。该项目与其他项目的区别在于它支持高达 2^63 - 1 字节的数据大小、优化的批量写入、对块级压缩的支持以及每个条目的低开销。但是，它不是分布式键值存储、压缩数据存储，也不是针对数据损坏的鲁棒性。 （根据 47% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/67163</guid>
+      <pubDate>Thu, 04 Jan 2024 17:34:46 GMT</pubDate>
     </item>
     <item>
-      <title>【媒体】阿拉伯语维基百科最近针对加沙战争采取了多项行动。</title>
-      <link>https://t.me/hn_summary/67139</link>
-      <description><![CDATA[阿拉伯语维基百科停电
-阿拉伯语维基百科最近针对加沙战争采取了多项行动。这些行动包括无限期地将阿拉伯语维基百科的徽标更改为巴勒斯坦国旗的颜色、涂黑阿拉伯语维基百科的主页、发表声援巴勒斯坦人民的声明，以及组织一场创作与巴勒斯坦人民相关的内容的竞赛。巴勒斯坦事业和加沙正在进行的战争。关于这些行动的讨论始于一位名为 Mervat 的用户建议张贴横幅信息以声援巴勒斯坦阿拉伯人。该提案几乎得到了社区的一致支持。]]></description>
-      <guid>https://t.me/hn_summary/67139</guid>
-      <pubDate>Thu, 04 Jan 2024 14:39:58 GMT</pubDate>
+      <title>[媒体] 您的测试套件是否考虑了弱事务隔离？</title>
+      <link>https://t.me/hn_summary/67162</link>
+      <description><![CDATA[您的测试套件是否考虑了弱事务隔离？ 
+Web 内容讨论了弱事务隔离及其对数据库中并发事务行为的影响。它解释了事务隔离是一个范围，不同级别的隔离具有细微不同的行为。 Postgres、Oracle 和 SQL Server 等数据库的默认隔离级别是已提交读，它允许不可重复读取。这意味着对同一事务中同一列的查询可能会返回不同的结果。本文强调了理解和测试隔离异常的重要性，因为它们会影响域逻辑。它还提供了如何模拟并发连接和测试事务隔离问题的示例。 （根据 77% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/67162</guid>
+      <pubDate>Thu, 04 Jan 2024 17:28:36 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] BitTorrent 跟踪器 OpenTrackr 已经实现了一个系统来阻止指向 p [...]</title>
-      <link>https://t.me/hn_summary/67138</link>
-      <description><![CDATA[BitTorrent Tracker 阻止“侵权”哈希
-BitTorrent 跟踪器 OpenTrackr 已实施了一个系统来阻止指向潜在侵权内容的哈希值，以响应 DMCA 删除通知。 OpenTrackr 由单一运营商运营，已成为 BitTorrent 生态系统中的重要参与者，每秒处理高达 500,000 个连接。虽然跟踪器不托管任何 torrent 或媒体文件，但它接受并处理 DMCA 通知，以阻止有兴趣共享与被阻止哈希相关的文件的用户之间的通信。 OpenTrackr 透明地披露了它收到的所有删除请求，在过去的一年里，它收到了反盗版机构 MarkScan 报告的 2,990 个有问题的哈希值。追踪器的运营商优先考虑避免任何法律问题并确保追踪器的未来。]]></description>
-      <guid>https://t.me/hn_summary/67138</guid>
-      <pubDate>Thu, 04 Jan 2024 14:35:49 GMT</pubDate>
+      <title>[媒体] 网页内容是《Project Oberon：操作 S 的设计》一书的序言 [...]</title>
+      <link>https://t.me/hn_summary/67161</link>
+      <description><![CDATA[Project Oberon 操作系统、编译器和电脑PDF
+该网页内容是“Project Oberon：操作系统、编译器和计算机的设计”一书的序言。本书介绍了 Oberon 项目的成果，该项目旨在为现代工作站设计和实现整个软件环境。作者不仅构思了书中描述的整个系统，还编写了程序。本书包含程序列表以提供最终解释。 Oberon 语言被设计为一种有效的实施工具和算法的出版媒介。 Oberon 系统是一款多功能工作站系统，在学术界和工业界找到了许多满意的用户。本书还描述了 Oberon 语言的编译器和图形系统。作者希望为那些渴望学习他人经验的人提供一个有价值的案例研究。在 2013 年版中，作者讨论了计算机系统领域的变化以及对更小、更简单系统的需求。他们还提到决定设计自己的处理器（称为 RISC），并使用低成本开发板来实现 Oberon 系统。开发自己的处理器的决定需要重写有关编译器和链接加载器的章节。作者强调了具有严格数学基础的符号对于可理解的系统描述的重要性。 （根据故事文本的 3% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/67161</guid>
+      <pubDate>Thu, 04 Jan 2024 17:22:27 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]麻省理工学院的研究人员开发了一个名为 Ddog 的项目，旨在将波士顿动力 [...]</title>
-      <link>https://t.me/hn_summary/67137</link>
-      <description><![CDATA[麻省理工学院的 Ddog 项目将脑机接口与 Spot 机器人连接起来
-麻省理工学院的研究人员开发了一个名为 Ddog 的项目，旨在将波士顿动力公司的 Spot 机器人变成一个基本的沟通器，为患有 ALS、脑瘫和脊髓损伤等身体障碍的人提供帮助。该系统使用名为 AttentivU 的脑机接口 (BCI) 系统，该系统由带有传感器的无线眼镜组成，可测量大脑活动和眼球运动。 Ddog 的优势在于其移动性，因为 Spot 是完全自主的，可以在无需干预的情况下执行指令。该系统在两部 iPhone 和一副眼镜上运行，使其比其他通信辅助工具更适合日常使用。]]></description>
-      <guid>https://t.me/hn_summary/67137</guid>
-      <pubDate>Thu, 04 Jan 2024 14:33:36 GMT</pubDate>
+      <title>[媒体] 基因组公司 23andMe 在去年发生数据泄露事件后面临多起诉讼 [...]</title>
+      <link>https://t.me/hn_summary/67160</link>
+      <description><![CDATA[23andMe致数据泄露受害者：都是你的错&lt; br/&gt;
+去年，基因组公司 23andMe 的数据泄露导致数百万用户的账户遭到泄露，目前面临多起诉讼。然而，该公司正试图通过在其服务协议条款中执行仲裁条款来避免大规模诉讼。批评者认为，这种替代性法律途径非常有利于企业。 23andMe 在致其中一家处理其诉讼的律师事务所的一封信中否认存在不当行为，并将此次违规行为归咎于客户，声称他们未能更新密码。该公司最近对其服务条款的修改使得受影响的用户更难寻求大规模仲裁。]]></description>
+      <guid>https://t.me/hn_summary/67160</guid>
+      <pubDate>Thu, 04 Jan 2024 17:03:58 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Llama2-shepherd 是一个命令行工具，旨在管理和试验多个 [...]</title>
-      <link>https://t.me/hn_summary/67136</link>
-      <description><![CDATA[Llama2-shepherd 一个 CLI 工具，用于安装 llama2 的多个实现&lt; /a&gt;
-Llama2-shepherd 是一个命令行工具，旨在管理和试验多个版本的 llama 推理实现。它允许用户快速安装 llama2 的不同实现并在其之间切换，该项目最初由 Andrej Karpathy 创建。该工具提供了不同语言的 llama2 各种实现的链接，包括 Rust、Go、Android、C++、CUDA、JavaScript、Zig 和 Julia。该项目的独特之处在于提供了一个集中平台，用于访问和安装不同语言的 llama2 的多个版本，使用户可以更轻松地尝试和使用不同的实现。 （根据 49% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/67136</guid>
-      <pubDate>Thu, 04 Jan 2024 14:33:29 GMT</pubDate>
+      <title>[媒体]Georg Nees 是德国学者、计算机艺术和生成图形领域的先驱。</title>
+      <link>https://t.me/hn_summary/67159</link>
+      <description><![CDATA[乔治·内斯
+Georg Nees 是一位德国学者，也是计算机艺术和生成图形领域的先驱。他学习了数学、物理和哲学，并在西门子担任工业数学家。 Nees 与 Frieder Nake 和 A. Michael Noll 一起被称为“3N”计算机先驱之一。 1965 年，他使用数字计算机创建了世界上第一台计算机图形，并继续致力于计算机雕塑和计算机设计的建筑。 Nees 于 1985 年退休，但继续他在符号学和美学方面的研究和实验。他于2016年去世。（根据故事文字的41%进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/67159</guid>
+      <pubDate>Thu, 04 Jan 2024 16:55:49 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 本文讨论了大型语言模型 (LLM) 的高效推理。</title>
-      <link>https://t.me/hn_summary/67135</link>
-      <description><![CDATA[高效的LLM推理
-本文讨论了大型语言模型 (LLM) 的高效推理。作者探索了优化 LLM 的不同策略，包括量化、蒸馏和代码优化。他们强调分析代码以识别和消除开销的重要性。作者还比较了蒸馏和量化的有效性，强调了蒸馏在保持性能的同时减小模型大小的好处。然而，他们指出，由于需要从头开始训练较小的模型，蒸馏可能会很昂贵。另一方面，量化是一种更便宜的选择，它涉及降低权重的精度。本文概述了量化方法及其对推理准确性的影响。 （根据 89% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/67135</guid>
-      <pubDate>Thu, 04 Jan 2024 14:33:19 GMT</pubDate>
+      <title>[媒体]你要申请那些工作？</title>
+      <link>https://t.me/hn_summary/67158</link>
+      <description><![CDATA[您要申请哪些职位？它们可能不是真实的
+这篇文章讨论了“幽灵职位”现象，即实际上并不存在的职位发布。一项调查显示，大约一半的公司列出了他们不打算填补的职位，因为他们希望向新员工开放。幽灵工作可能是一种无意的疏忽，也可能是一种让公司看起来在成长的策略。人才囤积是另一种常见的幽灵工作，公司收集简历并对候选人进行面试，但没有任何招聘的意图。这种做法在科技行业尤其普遍。文章认为，幽灵工作可能是经济不确定性的暂时症状，并强调了求职和招聘动态的变化。]]></description>
+      <guid>https://t.me/hn_summary/67158</guid>
+      <pubDate>Thu, 04 Jan 2024 16:52:40 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 全球渔业观察在《自然》杂志上发表的一项新研究表明，75% [...]</title>
-      <link>https://t.me/hn_summary/67134</link>
-      <description><![CDATA[全球 75% 的工业渔船不为公众所知&lt; /a&gt;
-全球渔业观察在《自然》杂志上发表的一项新研究表明，世界上 75% 的工业渔船是隐藏在公众视线之外的。这项研究使用机器学习和卫星图像，创建了第一张大型船舶交通和海上基础设施的全球地图。研究人员分析了 2017 年至 2021 年期间 200 万 GB 的卫星图像，以探测六大洲沿海水域的船只和海上基础设施。他们发现许多船只未能广播其位置，并利用机器学习识别出哪些船只可能正在从事捕鱼活动。该研究还强调了海上能源开发的增长，特别是风力涡轮机。研究中使用的数据和技术可以帮助政府、研究人员和民间社会更好地了解船舶交通并识别潜在的非法活动。]]></description>
-      <guid>https://t.me/hn_summary/67134</guid>
-      <pubDate>Thu, 04 Jan 2024 14:09:00 GMT</pubDate>
+      <title>[媒体]文章讨论了特朗普政府领导下的联邦通信委员会如何瓦解媒体流 [...]</title>
+      <link>https://t.me/hn_summary/67157</link>
+      <description><![CDATA[FCC 保护特朗普攻击后剩余的媒体所有权限制
+文章讨论了特朗普政府领导下的联邦通信委员会如何取消媒体所有权限制，从而实现行业的更大整合。这样做是为了让辛克莱广播公司受益，这是一家伪装成当地新闻的共和党宣传活动。然而，辛克莱在收购论坛报广播公司期间的不诚实行为甚至导致对行业友好的特朗普联邦通信委员会(Trump FCC)撤回了支持。尽管媒体所有权限制受到侵蚀，美国广播公司 (ABC)、福克斯 (Fox)、全国广播公司 (NBC) 和哥伦比亚广播公司 (CBS) 等主要广播公司仍在推动进一步整合。拜登联邦通信委员会最近决定不恢复特朗普取消的限制，但确实收紧了某些方面，以防止进一步整合。文章强调了媒体整合的负面后果，例如独立媒体的衰落和右翼宣传的蔓延。它还提到了监管国家和企业责任未来可能面临的挑战。]]></description>
+      <guid>https://t.me/hn_summary/67157</guid>
+      <pubDate>Thu, 04 Jan 2024 16:42:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
