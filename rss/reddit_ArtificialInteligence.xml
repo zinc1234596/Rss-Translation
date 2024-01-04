@@ -4,7 +4,28 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Wed, 03 Jan 2024 21:09:37 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jan 2024 00:49:13 GMT</lastBuildDate>
+    <item>
+      <title>AI 岗位激增，薪资上涨 77.53%</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/18xwffv/ai_jobs_surge_offering_7753_higher_salaries/</link>
+      <description><![CDATA[与其他领域相比，与人工智能相关的职位不仅迅速增加，而且提供的薪水明显更高。 （来源） 如果您想先于其他人了解最新的 AI 更新，先查看此处 蓬勃发展的需求和薪酬  根据最近的研究，人工智能职位的平均薪酬高出 77%。 入门级别比非人工智能起始职位高出 2 倍以上。  即时工程平均费用为 6.2 万美元，最高可达 9.5 万美元。  热门新领域  即时工程工程需要沟通，而不是编码。 仅销售人工智能提示即可赚取 10 万美元以上。 将非传统背景引入技术。  &lt; strong&gt;大局观  LinkedIn 上人工智能职位的申请者数量增加 17%。 预计到 2024 年，美国人工智能职位将超过 131,000 个。 但是“及时黑客攻击”也强调了风险。  PS：通过加入 增长最快的 AI 时事通讯。 加入 10000 多名专业人士的行列，在 AI 领域变得更加聪明。  &amp; #32；由   提交 /u/saffronfan   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/18xwffv/ai_jobs_surge_offering_7753_higher_salaries/</guid>
+      <pubDate>Wed, 03 Jan 2024 22:40:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻求有关如何将学习人工智能梦想变为现实的建议</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/18xw9e1/looking_for_advice_on_how_to_turn_my_dream_of/</link>
+      <description><![CDATA[我正在认真考虑在 Open AI 等公司从事人工智能相关的计算机科学家工作。我有基本的编程技能，对该主题知之甚少，但对此很感兴趣。我应该采取哪些步骤来实现我的梦想？我开始观看 Andrej Karphathy 的神经网络课程。我还应该采取哪些具体步骤？   由   提交/u/WatchFanatic24  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/18xw9e1/looking_for_advice_on_how_to_turn_my_dream_of/</guid>
+      <pubDate>Wed, 03 Jan 2024 22:33:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>你会支持这样一篇旨在保护战争受害者儿童的文章，即使它部分是由人工智能创作的吗？是/否 为什么？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/18xuapi/would_you_support_an_article_like_this_aimed_at/</link>
+      <description><![CDATA[原文： 标题：来自 Kidai 的信 - 人工智能守护小子！ URL： https://www.reddit.com/r/TopNewsBreakingToday/comments/18w10sc/letter_from_kidai_artificial_intelligence/    由   提交 /u/aivonette   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/18xuapi/would_you_support_an_article_like_this_aimed_at/</guid>
+      <pubDate>Wed, 03 Jan 2024 21:14:30 GMT</pubDate>
+    </item>
     <item>
       <title>“对通用人工智能的态度：2021 年和 2023 年美国成年人的结果”——征集审稿人（科学种子）</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/18xt40v/attitudes_toward_artificial_general_intelligence/</link>
@@ -13,25 +34,11 @@
       <pubDate>Wed, 03 Jan 2024 20:26:27 GMT</pubDate>
     </item>
     <item>
-      <title>RAG 之外的多代理系统 - 分享您的经验和见解！</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/18xoddk/mutiagentic_systems_beyond_rag_share_your/</link>
-      <description><![CDATA[我正在深入研究代理系统的迷人世界，我渴望从您的经验中学习。我对超越传统检索增强生成 (RAG) 方法的项目特别感兴趣您是否已构建或目前正在开发用于专门或常见任务的多代理系统？我很想听听您正在开发的系统类型。 见解和学习：您在开发这些代理时获得了哪些重要的学习和见解？任何意想不到的结果、重大挑战或成功故事都将非常有价值。 Autogen 探索：此外，我很好奇这里是否有人尝试过 Autogen (https://microsoft.github.io/autogen/）。您如何将其集成到您的项目中？您将其用于生产级应用程序还是个人事业？协作学习：如果您认识正在构建代理系统的人，请随时分享他们的项目链接（如果公开）。这是我们学习和可能合作的好方法。 -- 到目前为止我知道：https://imbue.com/ - 他们正在构建可以编码、测试等的代理系统。在这个 Pod 上听到的 https://www.youtube。 com/watch?v=xvMOsYyAdKk 根据我迄今为止所做的研究，代理将使用模式或拓扑来构建，我们需要为每个问题找到最佳拓扑。本文很好地解释了 https://thesequence.substack.com/p/the -sequence-chat-doug-burger-technical 另外，如果您知道多智能体系统拓扑的论文，请分享。这是一篇关于generator+critic的流行拓扑的论文 https://arxiv.org/abs/2308.04371   由   提交 /u/atlasspring   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/18xoddk/mutiagentic_systems_beyond_rag_share_your/</guid>
-      <pubDate>Wed, 03 Jan 2024 17:18:01 GMT</pubDate>
-    </item>
-    <item>
       <title>关于AI未来的超越性提问：打破AI部落思维僵局的新起点</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/18xo5cq/transcendent_questions_on_the_future_of_ai_new/</link>
-      <description><![CDATA[一个部落群体的定义是认为所谓的人工智能系统不是“真正的”智能。从这个角度来看，这些人工智能系统只是狭隘的工具、无意识的数字运算器、统计推断或随机鹦鹉。这个群体中的人们乐于指出人工智能系统犯下怪诞错误的例子。 第二个部落群体充满了恐惧感。从这个角度来看，人工智能正处于失控的边缘。事实上，大型科技公司正处于失控的边缘。开源特立独行者正处于失控的边缘。对此我们无能为力。 第三组专注于先进人工智能系统可以提供的显着优势。这样的人工智能系统不仅可以解决气候变化、贫困和营养不良、癌症和痴呆，甚至衰老等问题。至关重要的是，它们还可以解决早期、较弱的几代人工智能可能造成的任何问题。从这个角度来看，尽快加速进入新世界非常重要。 粗略地说，这些人是怀疑论者、末日论者和加速论者。可悲的是，他们常常对彼此有不好的看法。当他们发现对话伙伴是敌对部落的成员时，他们会不寒而栗。   由   提交 /u/ChikyChikyBoom   [链接] [评论]]]></description>
+      <description><![CDATA[一个部落群体的定义是认为所谓的人工智能系统不是“真正的”智能。从这个角度来看，这些人工智能系统只是狭隘的工具、无意识的数字运算器、统计推断或随机鹦鹉。这个群体中的人们乐于指出人工智能系统犯下怪诞错误的实例。 第二个部落群体充满了恐惧感。从这个角度来看，人工智能正处于失控的边缘。事实上，大型科技公司正处于失控的边缘。开源特立独行者正处于失控的边缘。对此我们无能为力。 第三组专注于先进人工智能系统可以带来的显着优势。这样的人工智能系统不仅可以解决气候变化、贫困和营养不良、癌症和痴呆，甚至衰老等问题。至关重要的是，它们还可以解决早期、较弱的几代人工智能可能造成的任何问题。从这个角度来看，尽快加速进入新世界非常重要。 粗略地说，这些人是怀疑论者、末日论者和加速论者。可悲的是，他们常常对彼此有不好的看法。当他们发现对话伙伴是敌对部落的成员时，他们会不寒而栗。   由   提交 /u/ChikyChikyBoom   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/18xo5cq/transcendent_questions_on_the_future_of_ai_new/</guid>
       <pubDate>Wed, 03 Jan 2024 17:07:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>PlaywrightGPT - 生成 E2E 测试</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/18xo4pz/playwrightgpt_generate_e2e_tests/</link>
-      <description><![CDATA[演示：https://www.youtube .com/watch?v=DH9cIm1qfug 借助这些新的人工智能工具，我们现在可以使用自然语言生成端到端自动化测试。  来源：https://github.com/BaseInfinity/PlaywrightGPT    由   提交 /u/Ikeeki   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/18xo4pz/playwrightgpt_generate_e2e_tests/</guid>
-      <pubDate>Wed, 03 Jan 2024 17:06:00 GMT</pubDate>
     </item>
     <item>
       <title>在现实视频上叠加动画角色</title>
@@ -39,13 +46,6 @@
       <description><![CDATA[所以我希望找到一个免费的人工智能，可以将动画角色强加在一个人说话的真实视频上。匹配动作和面部表情。理想情况下也可以制作背景图像。我希望为不露面的人工智能社交媒体频道增添活力。目前有人工智能可以帮助我解决这个问题吗？   由   提交/u/Timely-Ingenuity93  /u/Timely-Ingenuity93 reddit.com/r/ArtificialInteligence/comments/18xntwq/superimated_animated_character_over_irl_video/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/18xntwq/superimposed_animated_character_over_irl_video/</guid>
       <pubDate>Wed, 03 Jan 2024 16:49:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>AlignedGPT：新版本更新（2024）</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/18xn1n2/alignedgpt_new_version_update_2024/</link>
-      <description><![CDATA[ 由   提交/u/No-Transition3372   /u/No-Transition3372 reddit.com/gallery/18xn13a&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/18xn1n2/alignedgpt_new_version_update_2024/</guid>
-      <pubDate>Wed, 03 Jan 2024 16:13:30 GMT</pubDate>
     </item>
     <item>
       <title>红绿灯</title>
@@ -64,7 +64,7 @@
     <item>
       <title>DALL E 3：创建执行不同活动的一致角色。</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/18xd6v7/dall_e_3_create_consistent_characters_doing/</link>
-      <description><![CDATA[连贯的角色：终极指南合集 学习创建连贯的角色： - 进行不同的活动， -有不同的表情， - 穿不同的衣服， - 不同年龄段的人物一致性 所有策略均由AI Verse准备 1）创建执行不同活动的一致角色。 在此处查看：链接 2) 创建具有不同表情的一致角色。 点击此处：链接 &lt; p&gt;3) 创建穿着不同衣服的一致角色。 挖掘链接 &lt; p&gt;4) 在几秒钟内为您的动画电影创建角色。 更多详细信息：链接 5) 创建一致角色的最简单方法。 尝试一下：链接 &lt; /p&gt; ​   由   提交/u/Novita_ai   [链接] [评论]]]></description>
+      <description><![CDATA[连贯的角色：终极指南合集 学习创建连贯的角色： - 进行不同的活动， -有不同的表情， - 穿不同的衣服， - 不同年龄段的人物一致性 所有策略均由AI Verse准备 1）创建执行不同活动的一致角色。 在此处查看：链接 2) 创建具有不同表情的一致字符。 点击此处：链接 &lt; p&gt;3) 创建穿着不同衣服的一致角色。 挖掘链接 &lt; p&gt;4) 在几秒钟内为您的动画电影创建角色。 更多详细信息：链接 5) 创建一致角色的最简单方法。 尝试一下：链接 &lt; /p&gt; ​   由   提交/u/Novita_ai   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/18xd6v7/dall_e_3_create_consistent_characters_doing/</guid>
       <pubDate>Wed, 03 Jan 2024 07:01:30 GMT</pubDate>
     </item>
@@ -78,7 +78,7 @@
     <item>
       <title>我们应该教学生如何有效地使用人工智能</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/18x8cu7/we_should_be_teaching_students_how_to_use_ai/</link>
-      <description><![CDATA[我刚刚读到一些关于阻止学生使用人工智能完成作业是多么困难的内容。我认为我们应该试图阻止它们的前提在不久的将来会显得非常荒谬。 我为工作做了很多专业写作。我的老板鼓励我将人工智能融入到我的工作中。 显然，我并没有让它帮我完成工作。我更像是一个研究助理，并且（非常）偶尔会用它来编写一些非常非技术性的东西的初稿，然后再对其进行编辑。 也就是说，从中获得好的工作涉及到很多调整和改进。这不仅仅是说“为我写一篇文章”并期待任何哪怕是模糊得体面的东西。 我认为这将像计算器一样。当我还是个孩子的时候，我被告知所有数学考试都禁止使用计算器，因为“作为一个成年人，你不会一直随身携带计算器。”好吧，我们都知道结果如何。我希望解决学生使用人工智能问题的最佳方法是让他们学习如何正确且有能力地使用人工智能。如果最终结果很好，那么……我可能宁愿雇用他们，也不愿雇用那些不知道如何使用基础研究、绘图和可视化工具的人。 &lt;!-- SC_ON - -&gt;  由   提交/u/erikrthecruel  [链接] [评论]]]></description>
+      <description><![CDATA[我刚刚读到一些关于阻止学生使用人工智能完成作业是多么困难的内容。我认为我们应该试图阻止它们的前提在不久的将来会显得非常荒谬。 我为工作做了很多专业写作。我的老板鼓励我将人工智能融入到我的工作中。 显然，我并没有让它帮我完成工作。我更像是一个研究助理，并且（非常）偶尔会用它来写一些非常非技术性的东西的初稿，然后再对其进行编辑。 也就是说，从中获得好的工作涉及到很多调整和改进。这不仅仅是说“为我写一篇文章”并期待任何哪怕是模糊得体面的东西。 我认为这将像计算器一样。当我还是个孩子的时候，有人告诉我，所有数学考试都禁止使用计算器，因为“作为一个成年人，你不会一直随身携带计算器。”好吧，我们都知道结果如何。我认为解决学生使用人工智能问题的最佳方法是让他们学习如何正确且有能力地使用人工智能。如果最终结果很好，那么……我可能宁愿雇用他们，也不愿雇用那些不知道如何使用基础研究、绘图和可视化工具的人。 &lt;!-- SC_ON - -&gt;  由   提交/u/erikrthecruel  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/18x8cu7/we_should_be_teaching_students_how_to_use_ai/</guid>
       <pubDate>Wed, 03 Jan 2024 02:47:34 GMT</pubDate>
     </item>
