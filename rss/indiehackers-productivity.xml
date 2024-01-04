@@ -4,7 +4,18 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Thu, 04 Jan 2024 00:51:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jan 2024 03:15:10 GMT</lastBuildDate>
+    <item>
+      <title>我如何通过使用 AI 工具使开发速度加倍</title>
+      <link>https://feed.indiehackers.world/post/41881b91ff</link>
+      <description><![CDATA[ScriptGPT
+ScriptGPT 是我创建的一个工具，旨在将功能开发卸载到由 GPT4 支持的 AI 代理上。它专为 TS/JS 项目量身定制，自动安装所需的库、测试代码、添加注释等。
+与 GitHub Copilot 和 GPT-Engineer 等其他人工智能驱动的编码工具不同，这些工具难以有效地集成代码和构建复杂的项目，而 ScriptGPT 在这些领域表现出色。它可以与这些工具一起使用来编写代码，同时将特定项目功能卸载到 ScriptGPT。
+作为这个项目的创建者，我的评估可能有点偏颇。虽然它并不完美并且总有改进的空间，但我坚信 ScriptGPT 可以成为开发人员工具包的宝贵补充。尝试一下，看看它如何提高生产力！ Github 仓库：https://github.com/ukanwat/scriptgpt
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/41881b91ff</guid>
+      <pubDate>Thu, 04 Jan 2024 01:52:56 GMT</pubDate>
+    </item>
     <item>
       <title>对您的生产力工具的快速调查</title>
       <link>https://feed.indiehackers.world/post/03fd0b4de4</link>
@@ -187,15 +198,6 @@ Discord 独立黑客聊天广告这里]]></description>
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/082d7a8963</guid>
       <pubDate>Thu, 28 Dec 2023 12:50:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在 Windows 11 上检查您的屏幕时间</title>
-      <link>https://feed.indiehackers.world/post/a6fe24e25a</link>
-      <description><![CDATA[如何在 Windows 11 中控制屏幕时间 在这篇精彩文章中，您可以找到此问题的答案以及减少屏幕时间的提示。
-阅读文章并分享您的评论。
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/a6fe24e25a</guid>
-      <pubDate>Tue, 26 Dec 2023 21:08:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
