@@ -4,7 +4,14 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Sat, 06 Jan 2024 00:49:04 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jan 2024 03:11:56 GMT</lastBuildDate>
+    <item>
+      <title>我制作了一个桌面应用程序，可以帮助您自动化求职</title>
+      <link>https://www.reddit.com/r/programming/comments/18zmx7x/i_made_a_desktop_application_that_helps_automate/</link>
+      <description><![CDATA[ 由   提交/u/chuckles_678  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/18zmx7x/i_made_a_desktop_application_that_helps_automate/</guid>
+      <pubDate>Sat, 06 Jan 2024 00:50:43 GMT</pubDate>
+    </item>
     <item>
       <title>Rob Pike 在 GopherConAU2023 -“我们做对了什么，我们做错了什么”</title>
       <link>https://www.reddit.com/r/programming/comments/18zm69w/rob_pike_at_gopherconau2023_what_we_got_right/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[我制作了一个视频来解释 Remix 到底是什么，希望您喜欢它！ &lt;!-- SC_ON - -&gt;  由   提交/u/stackokayflow  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/18zhhp3/what_is_remix_exactly/</guid>
       <pubDate>Fri, 05 Jan 2024 21:01:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>黑客如何使用包管理器作为部署 Coinminer 的媒介</title>
-      <link>https://www.reddit.com/r/programming/comments/18zgryh/how_hackers_are_using_package_managers_as_vectors/</link>
-      <description><![CDATA[ 由   提交/u/feross  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/18zgryh/how_hackers_are_using_package_managers_as_vectors/</guid>
-      <pubDate>Fri, 05 Jan 2024 20:32:15 GMT</pubDate>
     </item>
     </channel>
 </rss>

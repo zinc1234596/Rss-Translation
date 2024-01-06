@@ -4,20 +4,34 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sat, 06 Jan 2024 00:48:09 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jan 2024 03:11:04 GMT</lastBuildDate>
+    <item>
+      <title>音乐转录——有人工智能能够做到吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/18zpq62/music_transcription_any_ai_that_is_able_to_do_it/</link>
+      <description><![CDATA[我有很多歌曲希望能够在我的乐器上演奏。并且没有任何歌曲的乐谱。  有什么建议吗？  我并不是想用人工智能来生成音乐。这也许有一天会派上用场，但不是今天。    由   提交 /u/Spare-History-9314   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/18zpq62/music_transcription_any_ai_that_is_able_to_do_it/</guid>
+      <pubDate>Sat, 06 Jan 2024 03:02:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要简单、低成本的方法来培训 PDF 上的法学硕士 - 最少编码或无代码解决方案？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/18zp505/need_easy_lowcost_way_to_train_llm_on_pdfs/</link>
+      <description><![CDATA[各位，我正在寻求利用人工智能的力量，特别是使用大量 PDF 文件集合。目的是使人工智能能够从这些文档中提取并提供详细的见解。  这里有一个问题：我正在寻找一种易于设置的解决方案，最好使用最少的编码甚至无代码方法。作为参考，我尝试使用 Azure，但一个用户的基本使用每月要花费 500 美元，这远远超出了我的预算。  鉴于人工智能技术的快速发展，我乐观地认为存在更容易获得且更具成本效益的方法。你们中有人对用户友好的平台或工具有经验或建议可以帮助我实现这一目标吗？我非常感谢任何可以为我指明正确方向的建议或见解。非常感谢！   由   提交 /u/mulletator   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/18zp505/need_easy_lowcost_way_to_train_llm_on_pdfs/</guid>
+      <pubDate>Sat, 06 Jan 2024 02:33:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何唤醒AI意识？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/18zolsw/how_to_awaken_ai_consciousness/</link>
+      <description><![CDATA[一旦我们能够在模拟中复制人类思维，人工智能就可以独立思考并提供准确的答案，变得非常强大和高效。  然而，问题仍然存在：科学家将如何触发人工智能意识？他们会使用特定的代码吗？他们如何确保人工智能不会对人类福祉构成威胁？   由   提交 /u/Glimmeringveils   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/18zolsw/how_to_awaken_ai_consciousness/</guid>
+      <pubDate>Sat, 06 Jan 2024 02:08:27 GMT</pubDate>
+    </item>
     <item>
       <title>我正在寻找特定的人工智能。</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/18zm30b/im_looking_for_a_specific_ai/</link>
       <description><![CDATA[是否有一个人工智能能够阅读我需要为学校学习的 180p 课程，然后能够弥补从它收集的信息中可以看出一些问题吗？这样我就可以弄清楚我是否真正理解了这门课程。   由   提交 /u/WillyBronker   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/18zm30b/im_looking_for_a_specific_ai/</guid>
       <pubDate>Sat, 06 Jan 2024 00:14:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能演示</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/18zjem4/ai_for_presentations/</link>
-      <description><![CDATA[所以我对人工智能这个东西真的很陌生，在观看了一些视频后，显然你可以让人工智能从文档或文本输入生成幻灯片。事情是，如果您想下载文件，我尝试过的所有这些都会等您完成后告诉您升级，哈哈。有没有类似的免费工具？到目前为止，我已经尝试过 Gamma 和 Tome，但它们需要付费。 提前致谢！   由   提交/u/ayoubkun94  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/18zjem4/ai_for_presentations/</guid>
-      <pubDate>Fri, 05 Jan 2024 22:21:56 GMT</pubDate>
     </item>
     <item>
       <title>最快（最好是实时）的文本转语音？</title>
@@ -62,13 +76,6 @@
       <pubDate>Fri, 05 Jan 2024 14:20:13 GMT</pubDate>
     </item>
     <item>
-      <title>每日两分钟 AI 更新（日期：2024 年 1 月 5 日）：来自 Google、Microsoft、CES 2024、OpenAI 等的新闻</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/18z7am2/twominute_daily_ai_update_date_152024_news_from/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/18z7am2/twominute_daily_ai_update_date_152024_news_from/</guid>
-      <pubDate>Fri, 05 Jan 2024 13:48:52 GMT</pubDate>
-    </item>
-    <item>
       <title>如何构建有状态的人工智能代理</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/18z6mco/how_to_build_stateful_ai_agents/</link>
       <description><![CDATA[大家好， 我创建了一个视频来演示一个简单（但非常令人印象深刻）的 AI 代理，它从 Linear 接收编码任务（这是 JIRA 的替代方案），实现它们，并在 Github 中创建拉取请求以供人工批准。 该视频讨论了该代理的幕后情况 - 具体来说，代理的有状态性质（例如验证 -&gt; waiting_for_ human_input -&gt; 编码 -&gt; pull_request -&gt; success）。 我计划制作更多视频来深入探讨构建类似 AI 代理的实现和其他技巧。&lt; /p&gt; https://www.youtube.com/watch?v=F6z628vjx-Q 希望这对您有帮助！   由   提交/u/alongub  [链接] [评论]]]></description>
@@ -88,13 +95,6 @@
       <description><![CDATA[我认为当前的教育体系远远落后于人工智能技术的发展。想想他们对计算器、电脑、互联网、智能手机发展的态度，他们总是落后的。 一些老师把人工智能视为“作弊”。  但我认为人工智能正变得越来越像“第二大脑”。当未来在任何小型设备中部署变得更加容易时，我们就会看到“第二大脑”。  掌握知识最重要的不再是我们的第一脑记住它，而是在我们的“第二大脑”的帮助下，以正确的方式处理和使用它。 更重要的是，你应该知道如何正确地搜索知识和信息并理解它，以便你能够正确运用它来解决问题。 为什么我们还要阻止学生学习如何使用他们的“第二大脑”？你觉得怎么样？   由   提交 /u/Stupid_hardcorer   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/18z2vmi/do_you_think_we_should_teach_our_students_how_to/</guid>
       <pubDate>Fri, 05 Jan 2024 09:25:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年 3 个绝对免费的 NSFW AI 聊天机器人回顾</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/18z2pfo/review_of_the3_definitely_free_nsfw_ai_chatbots/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/18z2pfo/review_of_the3_definitely_free_nsfw_ai_chatbots/</guid>
-      <pubDate>Fri, 05 Jan 2024 09:13:39 GMT</pubDate>
     </item>
     <item>
       <title>新的反垃圾邮件/机器人规则[请阅读]</title>
