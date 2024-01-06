@@ -4,7 +4,49 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sat, 06 Jan 2024 12:18:43 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jan 2024 18:13:15 GMT</lastBuildDate>
+    <item>
+      <title>考试/测试软件</title>
+      <link>https://www.reddit.com/r/software/comments/19061ts/examtest_software/</link>
+      <description><![CDATA[我正在寻找从问题数据库中随机生成测试的软件。它们需要采用 3 种格式 - 选择题、填空题、对错题，我需要能够持续向数据库添加问题，以便在未来几年使用。我确信这样的东西存在，但我不知道如何找到它。有什么建议吗？   由   提交 /u/ticketybooo   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/19061ts/examtest_software/</guid>
+      <pubDate>Sat, 06 Jan 2024 18:10:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>你好！将外部 HDD 从 MBR 转换为 GPT 是否会导致 BitLocker 加密丢失？谢谢</title>
+      <link>https://www.reddit.com/r/software/comments/1904uz4/hi_will_converting_an_external_hdd_from_mbr_to/</link>
+      <description><![CDATA[在执行该操作的 PC 上，加密的 HDD 已解锁。   由   提交/u/Salberyon  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1904uz4/hi_will_converting_an_external_hdd_from_mbr_to/</guid>
+      <pubDate>Sat, 06 Jan 2024 17:20:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>pdf ocr 问题</title>
+      <link>https://www.reddit.com/r/software/comments/1900w54/issues_with_pdf_ocr/</link>
+      <description><![CDATA[我目前已经让 pdf-xchange 在许多图像扫描的 pdf 上使用 ocr，当我第一次得到它时，ocr 会使某些单词被挤压或拉长（字符间距）。经过几次更新后，这似乎大部分得到了修复，但我注意到一些单词仍然有奇怪的字符间距，通常是 2 到 4 个字母的单词。有什么解决办法吗？   由   提交/u/swgeek1234  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1900w54/issues_with_pdf_ocr/</guid>
+      <pubDate>Sat, 06 Jan 2024 14:16:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Windows 11 中是否有任何应用程序可以在游戏时在屏幕上显示电池电量？</title>
+      <link>https://www.reddit.com/r/software/comments/1900sob/is_there_any_app_in_windows_11_that_shows_battery/</link>
+      <description><![CDATA[问题   由   提交/u/Ok_Insurance6521   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1900sob/is_there_any_app_in_windows_11_that_shows_battery/</guid>
+      <pubDate>Sat, 06 Jan 2024 14:11:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Stellantis/菲亚特 ECO：驱动软件请求</title>
+      <link>https://www.reddit.com/r/software/comments/1900047/stellantisfiat_ecodrive_software_request/</link>
+      <description><![CDATA[嗨 我正在寻找大约 2012-2018 年开发的软件。来自 Stellantis（GM Fiat）汽车集团，用于汽车生态跟踪。 专为 Stellantis/Fiat/GM/FCA 集团汽车开发，免费。  游戏是 ECO:Drive 原始网站已被驳回，Web Archive ad e-mile 没有它，没有找到 torrent，发布于 r/cars 和 r/fiat 但是没有反应。你们有人知道吗？   由   提交 /u/OkTryLater   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1900047/stellantisfiat_ecodrive_software_request/</guid>
+      <pubDate>Sat, 06 Jan 2024 13:29:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>快进替代方案</title>
+      <link>https://www.reddit.com/r/software/comments/18zyylu/fastforward_alternatives/</link>
+      <description><![CDATA[此扩展旨在消除充满广告的网站中的等待时间。例如，“等待 15 秒生成链接”。不幸的是，根据他们的 GitHub 存储库，OG 开发人员将无法继续维护它，并且正在积极寻找贡献者/开发人员。 有人遇到过替代方案吗？ GitHub Repo（如果您有兴趣）：https://github.com/FastForwardTeam/FastForward    由   提交 /u/Non_Volatile_Human   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/18zyylu/fastforward_alternatives/</guid>
+      <pubDate>Sat, 06 Jan 2024 12:26:55 GMT</pubDate>
+    </item>
     <item>
       <title>具有多显示器支持的远程桌面</title>
       <link>https://www.reddit.com/r/software/comments/18zy47w/remote_desktop_with_multi_monitor_support/</link>
@@ -67,48 +109,6 @@
       <description><![CDATA[我拿到了这台笔记本电脑，但看不到启动选项。安全启动被禁用，这是新的 BIOS 布局，我找不到很多设置。有人遇到过这个问题吗？   由   提交/u/diorboy25  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/18zhfus/lenovo_ideapad_slim_5i_14_booting_problem/</guid>
       <pubDate>Fri, 05 Jan 2024 21:00:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>搜索：录制音频、倒放。</title>
-      <link>https://www.reddit.com/r/software/comments/18zhc8d/search_record_audio_play_reverse/</link>
-      <description><![CDATA[你好， 我正在寻找一个简单的软件，可以录制音频（自言自语）并可以播放音频反转？就这两个功能。  win10，免费软件就好了。有小费吗？  谢谢。   由   提交 /u/Phil9o   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/18zhc8d/search_record_audio_play_reverse/</guid>
-      <pubDate>Fri, 05 Jan 2024 20:55:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>软件跟踪程序</title>
-      <link>https://www.reddit.com/r/software/comments/18zgc8h/sofware_tracker_program/</link>
-      <description><![CDATA[我正在寻找一款可以监控反作弊软件的软件，我注意到 vanguard 是一种极具侵入性的扫描您的整个 PC 的软件，并且具有不必要的内核访问，我想知道是否有一个程序可以用来定位其活动并在任何给定时间查看它在做什么我想知道我是否应该卸载并且不再接触valorant或者我是否可以在我决定时保留它每 4-6 个月玩一次 valorant   由   提交 /u/WohzaCardoza   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/18zgc8h/sofware_tracker_program/</guid>
-      <pubDate>Fri, 05 Jan 2024 20:14:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI转录软件推荐</title>
-      <link>https://www.reddit.com/r/software/comments/18zg08u/ai_transcription_software_recs/</link>
-      <description><![CDATA[大家好 -- 有人推荐 AI 转录软件吗？不一定是免费的；如果是的话那就太好了，但即使要付出一点代价，我也要努力完成工作。    由   提交/u/Zoom_13  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/18zg08u/ai_transcription_software_recs/</guid>
-      <pubDate>Fri, 05 Jan 2024 20:01:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>在线测试面试问题</title>
-      <link>https://www.reddit.com/r/software/comments/18z9oqv/online_test_interview_questions/</link>
-      <description><![CDATA[大家好，我代表我的朋友询问，他想为轮廓软件的 c# .net 全栈开发人员职位做在线测试准备巴基斯坦的房子。有人知道在那个测试中会问什么类型的问题吗？他的堆栈是 Angular 和 dotnet C#。如果有人为此提供帮助，那就太好了。   由   提交 /u/ServiceSculptor   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/18z9oqv/online_test_interview_questions/</guid>
-      <pubDate>Fri, 05 Jan 2024 15:37:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>我在一所学校工作，正在寻找可以帮助我们招收学生的软件。也就是说，允许我们根据某些标准向学生发送电子邮件。</title>
-      <link>https://www.reddit.com/r/software/comments/18z97s0/i_work_for_a_school_looking_for_software_that/</link>
-      <description><![CDATA[基本上，这个软件需要能够连接到azure数据库来获取数据，它还需要评估学生是否需要通过电子邮件发送。理想情况下，它也允许不具备技术能力的人编辑这些群发电子邮件。目前，我们有一个采用 Cold Fusion 制作的本土解决方案，但我们正在放弃 CF，而更愿意购买解决方案。我的老板建议购买 CRM，但我认为这对于我们需要做的事情来说可能太大了...也许是 clickwrap 软件？    ;由   提交 /u/endofdayze   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/18z97s0/i_work_for_a_school_looking_for_software_that/</guid>
-      <pubDate>Fri, 05 Jan 2024 15:16:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要将很长的一页（！）PDF 分成多页（或将其转换为 Word）</title>
-      <link>https://www.reddit.com/r/software/comments/18z8u85/need_to_break_very_long_1page_pdf_into_multiple/</link>
-      <description><![CDATA[嗨，reddit 用户， 我有一个很长的 PDF，但只有 1 页（想象一下在 1 页上打印一条很长的 Reddit 线程） ）。我需要将此页面分成多个页面（即制作 1 个 40-50 页的 PDF），或者将其转换为 Word。 我尝试过的在线 PDF 拆分器没有帮助，至于这是一个 1 页的文件 - 所以没有什么可分割的。 PDF-&gt; DOCX 转换器也会失败，因为“页面”不可用。很长。 我可能想到了一些 OCR...无论如何，我们将非常感谢您的帮助！   由   提交 /u/LSDwarf   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/18z8u85/need_to_break_very_long_1page_pdf_into_multiple/</guid>
-      <pubDate>Fri, 05 Jan 2024 15:00:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
