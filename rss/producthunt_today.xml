@@ -2,9 +2,9 @@
 <rss version="2.0">
   <channel>
     <title>Product Hunt——每天最好的新产品</title>
-    <link>http://www.producthunt.com</link>
+    <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Sat, 06 Jan 2024 03:12:22 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jan 2024 06:14:49 GMT</lastBuildDate>
     <item>
       <title>点击次数</title>
       <link>https://www.producthunt.com/posts/clicks</link>
@@ -32,20 +32,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/appweaver</guid>
       <pubDate>Fri, 05 Jan 2024 06:09:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>民间的</title>
-      <link>https://www.producthunt.com/posts/folksable-2</link>
-      <description><![CDATA[
-            通过照片跟踪习惯，向朋友登记以承担责任。
-          
-
-讨论&lt; /a&gt;
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/folksable-2</guid>
-      <pubDate>Fri, 05 Jan 2024 05:29:23 GMT</pubDate>
     </item>
     <item>
       <title>GitHub 图形抽屉</title>
@@ -88,6 +74,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/repurposa</guid>
       <pubDate>Thu, 04 Jan 2024 15:46:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>MakeForms 的 Typeform 替代方案</title>
+      <link>https://www.producthunt.com/posts/typeform-alternative-by-makeforms</link>
+      <description><![CDATA[
+            就像 Typeform 一样，响应速度提高了 50 倍
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/typeform-alternative-by-makeforms</guid>
+      <pubDate>Thu, 04 Jan 2024 14:21:06 GMT</pubDate>
     </item>
     <item>
       <title>地图寻路可视化工具</title>
