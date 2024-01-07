@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 07 Jan 2024 15:11:44 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jan 2024 18:13:59 GMT</lastBuildDate>
+    <item>
+      <title>Android 开源应用程序 - 翻译屏幕和漫画</title>
+      <link>https://www.reddit.com/r/opensource/comments/190xxq0/open_source_app_android_translate_screen_and_comic/</link>
+      <description><![CDATA[大家好！ 我想与你们分享我已经将我的应用程序开源了。 我希望您喜欢这些代码并能够参与。 https://github.com/CharlesMoreira1/lingshot&lt; /a&gt;   由   提交 /u/CharlesMSilva   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/190xxq0/open_source_app_android_translate_screen_and_comic/</guid>
+      <pubDate>Sun, 07 Jan 2024 17:55:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>分享合作和项目的社区</title>
+      <link>https://www.reddit.com/r/opensource/comments/190vfdn/community_to_share_collaborations_and_projects/</link>
+      <description><![CDATA[首先，如果这被视为垃圾邮件，我们深表歉意。如果版主认为合适，您可以删除此帖子。如果您要求我删除，我会立即删除！ 其次，我们最近做了一个小的新不和谐，旨在寻找和提供软件开发中的协作。尽管我们也允许其他配置文件，因为项目通常需要其他配置文件（用户体验、网页设计、公共关系......等等）。 服务器对各种配置文件和项目开放，但对于开源...我们喜欢它（我个人倾向于使用它而不是专有软件）。 如果您想过来，留下您的想法或寻找合作者，或找到一个合作项目，我们将非常高兴您的光临！  只需向我发送一条私信或在评论部分请求邀请，我就会向您发送一条。 再见！   由   提交 /u/Purple-Radio-Wave   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/190vfdn/community_to_share_collaborations_and_projects/</guid>
+      <pubDate>Sun, 07 Jan 2024 16:07:30 GMT</pubDate>
+    </item>
     <item>
       <title>通过 Jupyter 界面在 Google Colab 中使用 Remotior Sensus</title>
       <link>https://www.reddit.com/r/opensource/comments/190p3rf/remotior_sensus_in_google_colab_through_a_jupyter/</link>
@@ -50,7 +64,7 @@
     <item>
       <title>你如何参与贡献？</title>
       <link>https://www.reddit.com/r/opensource/comments/18zq6cf/how_do_you_get_into_contributing/</link>
-      <description><![CDATA[我成为一名专业开发人员已经有一段时间了，我真的很想为开源做出贡献，但进入的障碍似乎无法克服。每个问题都有一个似乎已经了解代码库的人，等等。一个无知的笨蛋怎么会插手其中？   由   提交/u/Stugehh   [链接] [评论]]]></description>
+      <description><![CDATA[yoke 惊人的最快糖提供暴雨平静咳嗽牛直 此帖子已被批量删除并匿名化 编辑   由   提交/u/Stugehh   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/18zq6cf/how_do_you_get_into_contributing/</guid>
       <pubDate>Sat, 06 Jan 2024 03:24:32 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[    /u/marcomandy   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/18z8vof/i_just_published_my_first_open_source_project_on/</guid>
       <pubDate>Fri, 05 Jan 2024 15:01:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果开源软件向所有人展示一切，难道不会产生安全问题吗？</title>
-      <link>https://www.reddit.com/r/opensource/comments/18z7m09/if_an_opensource_software_shows_everything_to/</link>
-      <description><![CDATA[这可能是个愚蠢的问题，但在我看来，如果我建立了一家超级银行，我不会将其总体规划放在网上大厦。如果您知道所有门和紧急出口的位置，那么抢劫银行就会很容易。 因此，如果一个开源项目显示其所有代码（甚至让您与之交互） ）在线，这不是更容易控制和/或搞砸它吗？   由   提交 /u/John-Cafai    reddit.com/r/opensource/comments/18z7m09/if_an_opensource_software_shows_everything_to/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/18z7m09/if_an_opensource_software_shows_everything_to/</guid>
-      <pubDate>Fri, 05 Jan 2024 14:03:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>视频编辑软件：Blender VS Kdenlive？</title>
-      <link>https://www.reddit.com/r/opensource/comments/18z6g8p/video_editing_software_blender_vs_kdenlive/</link>
-      <description><![CDATA[我想进入视频编辑领域，主要是为了家庭和个人视频制作，我不得不说，学习曲线和学习材料的可用性是非常重要的重要参数，我将其范围缩小到两个工具：blender 和 kdenlive，您会推荐哪一个？提前致谢！   由   提交 /u/SourceCodeAvailable   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/18z6g8p/video_editing_software_blender_vs_kdenlive/</guid>
-      <pubDate>Fri, 05 Jan 2024 13:06:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
