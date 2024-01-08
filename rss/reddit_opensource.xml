@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 08 Jan 2024 15:12:55 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jan 2024 18:15:37 GMT</lastBuildDate>
+    <item>
+      <title>我创建了一个具有实时功能的面向开源文档的数据库，称为 CursusDB🎩 🚀</title>
+      <link>https://www.reddit.com/r/opensource/comments/191r8aa/i_created_an_opensource_document_oriented/</link>
+      <description><![CDATA[       由   提交/u/diagraphic  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/191r8aa/i_created_an_opensource_document_oriented/</guid>
+      <pubDate>Mon, 08 Jan 2024 17:54:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>OG：用纯 PHP 编写的固执己见的 OpenGraph 图像生成器</title>
+      <link>https://www.reddit.com/r/opensource/comments/191nyt3/the_og_an_opinionated_opengraph_image_generator/</link>
+      <description><![CDATA[       由   提交/u/simonhamp  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/191nyt3/the_og_an_opinionated_opengraph_image_generator/</guid>
+      <pubDate>Mon, 08 Jan 2024 15:39:23 GMT</pubDate>
+    </item>
     <item>
       <title>免费的 webrtc stun 服务器</title>
       <link>https://www.reddit.com/r/opensource/comments/191k5mq/free_webrtc_stun_server/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[对于那些已经探索或正在考虑将其开源项目货币化的人，我很想听听您的经验和挑战。您遇到过哪些痛点？此外，在货币化方面，您如何确保贡献者的公平性？   由   提交 /u/unclexbuck   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1909cu8/what_are_the_challenges_in_monetizing_open_source/</guid>
       <pubDate>Sat, 06 Jan 2024 20:31:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>自托管、并行提示工程</title>
-      <link>https://www.reddit.com/r/opensource/comments/1905gw3/selfhostable_sidebyside_prompt_engineering/</link>
-      <description><![CDATA[在过去的一个月里，我一直在运行核心评估函数来测试数十种提示变化或...一次测试一个提示。  当我设计没有正确/错误响应的提示时（例如提供反馈、破译公司语言、玩 Mad-Libs），这两种解决方案都不令人满意。 我构建了Prompt Octopus (https://github.com/benguz/prompt-octopus) 可以根据需要比较尽可能多的提示，并排！您可以使用 python &amp; 在线插入 API 密钥或自行托管；存储库中的 Node.js 样板文件。自定义模型类型，查看您的历史记录，并更改您正在使用的提示数量。1 本周我希望添加差异检查、“群聊”功能。界面，您可以在其中与不同的系统提示保持来回对话，以及添加更多 LLM 的选项。 ​ 1 Pet章鱼单独出售:p   由   提交 /u/Gagachicken   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1905gw3/selfhostable_sidebyside_prompt_engineering/</guid>
-      <pubDate>Sat, 06 Jan 2024 17:46:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>复杂的许可证配置</title>
-      <link>https://www.reddit.com/r/opensource/comments/1902mxi/complex_license_configurations/</link>
-      <description><![CDATA[我正在发布域特定语言编译器的开源实现，但我很难理解什么是适合我的许可证设置 我知道我的设置与 GCC 类似，它对编译器和标准库有不同的许可证，但 GCC 使用 GPL3，据我所知，这使得人们更难做出贡献。  p&gt; 我希望：  标准库在任何上下文和任何目的下都是完全可修改、可用和可重新分发的。 （我认为 mit 许可证是可行的方法）。 只要编译器可执行文件不以盈利为目的重新分发，就可以在任何情况下免费使用。 任何人可以分叉和修改编译器，即使是为了盈利，只要他们不以源代码或二进制形式重新分发编译器，包括编译器库（标准库除外）。 编译器源代码是可修改的，并且如果可以自由重新分发，则可重新分发。 如果公司需要重新分发编译器库（标准库除外）或编译器以获取利润，则保留提供双重许可方案的能力。 （包括链接到库） 获得其他人贡献的代码的所有权，因为我需要它来执行上一点指定的双重许可。  据我了解，正确的方案似乎是  MIT 下的标准库 GPL2 下的其他所有内容，具有用于商业目的的双重许可。 以某种方式指定所有贡献都成为我的财产  我对情况的理解正确吗？我担心 GPL 可能会以某种方式否定其他要求之一。此外，我不太明白为什么人们普遍认为公司不太可能为 GPL3 项目做出贡献，特别是因为 GCC 也使用它。 感谢您的帮助。 &lt; /div&gt;  由   提交/u/drblallo   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1902mxi/complex_license_configurations/</guid>
-      <pubDate>Sat, 06 Jan 2024 15:40:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
