@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Tue, 09 Jan 2024 15:01:55 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jan 2024 21:05:18 GMT</lastBuildDate>
     <item>
-      <title>[媒体]本文讨论了高负载和分布式 PostgreSQL 部署的需求 [...]</title>
-      <link>https://t.me/hn_summary/68044</link>
-      <description><![CDATA[如何扩展单服务器数据库：分布式 PostgreSQL 指南
-本文讨论了高负载和全球分布式应用程序中分布式 PostgreSQL 部署的需求。它解释了传统的PostgreSQL是为单服务器部署而设计的，缺乏原生的分布式数据库属性。为了实现分布式配置，本文概述了三个选项：多主异步复制、带协调器的多主分片 PostgreSQL 和多主无共享 PostgreSQL。它强调了每个选项的优点、缺点和潜在挑战。本文还提到了分布式 PostgreSQL 部署中对可扩展性、弹性和地理合规性的需求。最后讨论了扩展过程以及过渡到分布式 PostgreSQL 解决方案的注意事项。 （根据 91% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/68044</guid>
-      <pubDate>Tue, 09 Jan 2024 15:01:55 GMT</pubDate>
+      <title>[媒体]“屠杀”vs.</title>
+      <link>https://t.me/hn_summary/68126</link>
+      <description><![CDATA[“屠杀”与“自生自灭”：记录媒体偏见反对巴勒斯坦人
+匿名撰稿人奥托讨论了最近巴勒斯坦/以色列冲突期间媒体对巴勒斯坦人的偏见。奥托的研究表明，美国三大新闻媒体渠道明显偏向以色列。他提供了五个关键调查结果来支持这一说法，包括与巴勒斯坦人相比，以色列人的覆盖范围不成比例，使用“屠杀”一词来指代以色列人而不是巴勒斯坦人，以及与以色列儿童相比，巴勒斯坦儿童的提及率较低。奥托认为，这种偏见可能是由于巴勒斯坦儿童被视为“被灌输”和“激进化”，使他们成为以色列空袭的合法目标。]]></description>
+      <guid>https://t.me/hn_summary/68126</guid>
+      <pubDate>Tue, 09 Jan 2024 21:05:18 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]LaunchRender 是一款新工具，专为构建 SaaS 应用程序的企业而设计，这些应用程序 [...]</title>
-      <link>https://t.me/hn_summary/68043</link>
-      <description><![CDATA[展示 HN：用文字创建精美视频
-LaunchRender 是一款新工具，专为构建 SaaS 应用程序并希望创建带有文本的精美视频的企业而设计。虽然建议使用 Canva 进行图形设计和信息图表，但 LaunchRender 提供了针对 SaaS 应用程序营销需求量身定制的不同体验。 TypeFrame 是视频创建的另一种选择，但 LaunchRender 通过提供广泛的动画而脱颖而出，这些动画非常适合推广 SaaS 应用程序。借助 LaunchRender，企业可以轻松创建专业视频来有效展示其 SaaS 产品。]]></description>
-      <guid>https://t.me/hn_summary/68043</guid>
-      <pubDate>Tue, 09 Jan 2024 14:59:44 GMT</pubDate>
+      <title>[媒体] dynomight.net 上的这篇文章是对宜家空气质量负面评论的激烈回应 [...]</title>
+      <link>https://t.me/hn_summary/68125</link>
+      <description><![CDATA[宜家空气净化器上的 Contra Wirecutter
+dynomight.net 上的文章是对负面评论的激烈回应The Wirecutter 介绍的宜家空气净化器。作者批评了《Wirecutter》的评论，指出事实错误、误导性陈述以及对基础科学和空气过滤标准缺乏了解。作者认为，The Wirecutter 以宜家净化器不是“真正的 HEPA”净化器为由而对其予以驳回是没有根据的，因为宜家净化器使用 E12 级过滤器，仅比 IKEA 推荐的 H13 过滤器严格一级。钢丝钳。作者还解释了空气过滤器的工作原理，并认为 E12 和 H13 过滤器之间的差异在大多数情况下可以忽略不计。文章最后回应了对宜家净化器实力的批评，认为它对于小房间仍然有效。 （根据故事文本的 44% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/68125</guid>
+      <pubDate>Tue, 09 Jan 2024 21:00:08 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]本文讨论了使用 [...] 的“bit-banging”蓝牙低功耗 (LE) 概念</title>
-      <link>https://t.me/hn_summary/68042</link>
-      <description><![CDATA[“Bit-Banging”蓝牙低功耗
-本文讨论了使用 Nordic nRF24L01+ 器件的“bit-banging”蓝牙低功耗 (LE) 概念。它解释说，蓝牙 LE 是一种低功耗技术，允许设备在长时间关闭无线电的同时保持连接。本文重点介绍了蓝牙 LE 发送未经请求的小数据块广播的能力，这使其对于键盘、鼠标和其他设备非常有用。然而，Nordic nRF24L01+ 器件存在一些限制，无法完全模拟蓝牙 LE，例如无法处理超过 32 字节的数据包。尽管存在这些限制，本文建议蓝牙 LE 仍可用于向设备广播数据。 （根据故事文本的 56% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/68042</guid>
-      <pubDate>Tue, 09 Jan 2024 14:59:36 GMT</pubDate>
+      <title>[媒体]被称为英国历史上最大的误判的Horizo​​n IT丑闻[...]</title>
+      <link>https://t.me/hn_summary/68124</link>
+      <description><![CDATA[邮局的 Horizo​​n 系统如何失败：技术故障
+Horizo​​n IT丑闻被称为英国历史上最大的误判，随着​​英国独立电视台黄金时段的电视剧再次成为头条新闻。由于争议，邮局前首席执行官保拉·文内尔斯 (Paula Vennells) 同意归还 CBE 勋章。 Horizo​​n 系统是一种电子销售点 (Epos) 系统，取代了英国各地邮局的纸质收银台。它的目的是为邮局操作员节省时间和精力，但该系统无法胜任这项任务。系统中的错误，例如“Dalmelington Bug”和“Callendar Square bug”，造成了差异和重复交易。此外，邮局错误地声称没有编辑或操纵交易数据的功能，而实际上，富士通的员工可以不受限制地访问分行帐户。]]></description>
+      <guid>https://t.me/hn_summary/68124</guid>
+      <pubDate>Tue, 09 Jan 2024 20:56:56 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]本文讨论了一个以 Google 的 DEI（多样性、公平性和包容性 [...]</title>
-      <link>https://t.me/hn_summary/68041</link>
-      <description><![CDATA[Google DEI 领导者对家长教导孩子“不要看到颜色”感到不满&lt; /a&gt;
-这篇文章讨论了谷歌 DEI（多元化、公平和包容性）领导者的一段视频片段，该视频片段表达了她对父母教导孩子“不要看到颜色”的沮丧。作者质疑唤醒运动的虚伪性，并认为根据外表区别对待某人才是问题所在，而不是教孩子们色盲。笔者认同这样的观点，即资历应该是职场的决定因素，而不是肤色。文章诚邀读者就这种教学方式是否存在种族主义发表意见。]]></description>
-      <guid>https://t.me/hn_summary/68041</guid>
-      <pubDate>Tue, 09 Jan 2024 14:47:22 GMT</pubDate>
+      <title>[媒体]美国公司会因为174条款而减少雇佣工程师吗？</title>
+      <link>https://t.me/hn_summary/68123</link>
+      <description><![CDATA[美国公司会因为174条款而减少雇佣工程师吗？
+文章讨论了美国税法第 174 条对美国科技公司和初创企业的潜在影响。 2022 年生效的税收修正案要求软件开发成本在 5 至 15 年内摊销，而不是在支付当年支出。这一变化给许多公司带来了意想不到的高额税款，使自力更生的企业难以维持生计。文章强调了税收变化的负面影响，包括软件工程师招聘减少、裁员以及公司可能将业务转移到海外。作者还提到了大型科技公司通过倡导团体扭转税收变化的努力。 （根据故事文本的 70% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/68123</guid>
+      <pubDate>Tue, 09 Jan 2024 20:56:49 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] AI Toolkit 是一个仅包含头文件的 C++ 库，它提供了构建大脑的工具 [...]</title>
-      <link>https://t.me/hn_summary/68040</link>
-      <description><![CDATA[AI 工具包：为游戏的 NPC 提供大脑，标题 -仅C++库
-AI Toolkit 是一个纯头文件 C++ 库，提供用于构建游戏非玩家角色 (NPC) 大脑的工具。它包括有限状态机、行为树、实用人工智能和面向目标的行动规划等功能。该项目旨在为游戏开发者提供易于使用且高效的解决方案，以便在游戏中实施人工智能。该库与 C++20 兼容，并通过在单个软件包中提供一套全面的 AI 工具而脱颖而出。自述文件还提供了代码示例和文档链接以获取更多信息。该库是根据 MIT 许可证发布的。]]></description>
-      <guid>https://t.me/hn_summary/68040</guid>
-      <pubDate>Tue, 09 Jan 2024 14:43:13 GMT</pubDate>
+      <title>[媒体] 据报道，谷歌前首席执行官埃里克·施密特 (Eric Sc​​hmidt) 正在研究一个秘密军用无人机项目，这是一个 [...]</title>
+      <link>https://t.me/hn_summary/68122</link>
+      <description><![CDATA[前 Google 首席执行官埃里克·施密特正在开发一个秘密军用无人机项目
+据消息人士透露，谷歌前首席执行官埃里克·施密特正在研究一个秘密军用无人机项目。该项目旨在开发专门用于战场的无人机系统，为中国无人机提供美国替代品。施密特最近对乌克兰的访问影响了该项目，他在那里与政府官员和军事领导人建立了联系。据说谷歌登月实验室联合创始人塞巴斯蒂安·特龙也参与其中。施密特一直倡导在战争中使用无人机，并通过 D3 初创加速器投资了乌克兰军事技术。该项目的启动日期和其他贡献者仍然未知。]]></description>
+      <guid>https://t.me/hn_summary/68122</guid>
+      <pubDate>Tue, 09 Jan 2024 20:55:40 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]苹果正准备允许第三方应用商店遵守欧洲反垄断法规 [...]</title>
-      <link>https://t.me/hn_summary/68039</link>
-      <description><![CDATA[苹果告诉欧盟它有五个不同的应用商店，而不仅仅是一个&lt; /a&gt;
-苹果正准备允许第三方应用商店遵守欧洲的反垄断要求，但该公司仍然反对这种合规的必要性。苹果声称应用程序商店不应被视为一个“平台”，因为它实际上为不同的设备运营着五个不同的应用程序商店。欧盟认为苹果对第三方 iPhone 应用程序销售的独家控制违反了竞争法。苹果正在提出各种论据来捍卫自己的立场，包括声称 iMessage 不应属于《数字市场法》的范围。该公司希望在其使用数量受到质疑时保护自己。]]></description>
-      <guid>https://t.me/hn_summary/68039</guid>
-      <pubDate>Tue, 09 Jan 2024 14:38:59 GMT</pubDate>
+      <title>在Does Not Translate，我们努力为读者提供有价值的信息和资源。</title>
+      <link>https://t.me/hn_summary/68121</link>
+      <description><![CDATA[不翻译
+在Does Not Translate，我们努力为读者提供有价值的信息和资源。我们知道语言障碍可能是一个挑战，因此我们提供一系列服务来帮助弥合差距。无论您需要笔译、口译还是文化咨询方面的帮助，我们的专家团队都会随时为您提供帮助。我们还提供各种语言学习工具和资源的评论和建议。请注意，我们网站上的某些链接可能是附属链接，这意味着如果您选择通过这些链接进行购买，我们可能会收到补偿。这有助于支持我们的工作并使我们能够继续改进我们的服务。]]></description>
+      <guid>https://t.me/hn_summary/68121</guid>
+      <pubDate>Tue, 09 Jan 2024 20:54:33 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 2023 年第四季度 DDoS 威胁报告概述了 DDoS 趋势和主要发现 [...]</title>
-      <link>https://t.me/hn_summary/68038</link>
-      <description><![CDATA[2023 年第四季度 DDoS 威胁报告
-2023 年第四季度的 DDoS 威胁报告概述了今年最后一个季度的 DDoS 趋势和主要发现。该报告强调，黑色星期五和假日季节期间，网络层 DDoS 攻击同比增长 117%，针对零售、货运和公共关系网站的 DDoS 活动有所增加。它还指出，针对台湾、以色列和巴勒斯坦网站的 DDoS 攻击流量大幅增加，这可归因于各种地缘政治事件和冲突。此外，该报告还探讨了环境问题与网络安全之间的交叉点，强调了联合国气候变化会议（COP 28）期间环境服务网站 DDoS 攻击增加的令人不安的趋势。该报告还讨论了使用 DDoS 攻击作为战争工具和破坏以色列与哈马斯战争等冲突的工具。 （根据故事文本的 52% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/68038</guid>
-      <pubDate>Tue, 09 Jan 2024 14:25:47 GMT</pubDate>
+      <title>一个国际研究小组发现古代恒星能够产生[...]</title>
+      <link>https://t.me/hn_summary/68120</link>
+      <description><![CDATA[古代恒星由超重元素组成（2023）&lt; br /&gt;
+一个国际研究小组发现，古代恒星能够产生原子质量大于 260 的元素，比地球上自然发现的任何元素都重。这一发现加深了我们对恒星元素形成的理解。众所周知，最重的元素是通过快速中子俘获过程（r过程）在中子星中产生的，其中中子在短时间内粘在原子核上，从而形成金、铂等重元素，和铀。研究小组研究了银河系中经过深入研究的恒星中的重元素含量，并确定了一些模式，表明某些元素是重元素裂变的残余物。这项研究提供了对元素多样性及其形成所需条件的深入了解。]]></description>
+      <guid>https://t.me/hn_summary/68120</guid>
+      <pubDate>Tue, 09 Jan 2024 20:44:23 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]作者讨论了调试 GPU 着色器的挑战以及前 [...]</title>
-      <link>https://t.me/hn_summary/68037</link>
-      <description><![CDATA[HLSL 和 DX12 中的 Shader Printf
-作者讨论了调试 GPU 着色器的挑战以及 RenderDoc 和 PIX 等现有工具的局限性。他们介绍了使用 printf 在 CPU 领域进行调试和诊断的概念，并解释说目前没有跨供应商/跨 API 的方法可以对着色器执行相同的操作。然后，作者介绍了如何使用 HLSL 和 D3D12 作为目标语言和 API 在软件中构建着色器 printf。他们解释了总体方法、设置打印缓冲区和“神奇”调试信息缓冲区。本文提供了每个步骤的代码片段和说明。 （根据故事文本的 30% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/68037</guid>
-      <pubDate>Tue, 09 Jan 2024 14:23:36 GMT</pubDate>
+      <title>[媒体]埃隆·马斯克解释了他决定在其平台 X 上禁止与哈马斯相关的帐户的决定，[...]</title>
+      <link>https://t.me/hn_summary/68119</link>
+      <description><![CDATA[埃隆·马斯克解释了禁止哈马斯 X 帐户的决定：“这是一个艰难的决定&#39;
+埃隆·马斯克解释了他决定在其平台 X 上禁止与哈马斯相关的账户的决定，并表示这是一个艰难的决定。该账户的账号为“qassam2024”，与哈马斯的军事部门有关。马斯克引用了 X 的“联合国豁免规则”，该规则规定，联合国认可的政府的账户不会被暂停。由于哈马斯不被联合国承认为政府，该账户被暂停。一些用户批评马斯克违反了他自己的言论自由原则，质疑联合国是否在决定他的平台规则。自从控制 X 以来，马斯克做出了一些有争议的决定，包括恢复前总统唐纳德·特朗普的账户和其他右翼人物。]]></description>
+      <guid>https://t.me/hn_summary/68119</guid>
+      <pubDate>Tue, 09 Jan 2024 20:35:08 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Nebula 是一个开源且免费使用的现代 C++ 游戏引擎。</title>
-      <link>https://t.me/hn_summary/68036</link>
-      <description><![CDATA[Nebula 是一个开源且免费使用的现代 C++游戏引擎
-Nebula 是一个开源且免费使用的现代 C++ 游戏引擎。它旨在提供从下到上的数据驱动设计，重点关注性能和最小的调用堆栈。该引擎支持多线程、SSE 加速数学库、完整的 Python 脚本支持、高级渲染框架和分析工具。它还包括统一集群系统、屏幕空间反射、基于物理的材质、阴影贴图、体积雾和照明等功能。 Nebula 的差异化因素之一是其实体系统，它采用 ECS 方法，同时仍然保持以数据库为中心的方法。该项目正在不断开发，并定期添加新功能。]]></description>
-      <guid>https://t.me/hn_summary/68036</guid>
-      <pubDate>Tue, 09 Jan 2024 14:08:20 GMT</pubDate>
+      <title>[媒体] Webflow-Exporter 是一款允许用户免费导出任何 Webflow 站点的工具，包括 [...]</title>
+      <link>https://t.me/hn_summary/68118</link>
+      <description><![CDATA[显示 HN：Webflow-Exporter – 免费导出任何 Webflow 站点 ( CSS/JS/图像）
+Webflow-Exporter 是一个允许用户免费导出任何 Webflow 站点的工具，包括 CSS、JS 和图像。该过程简单明了，用户提交其网站，然后收到包含导出网站的 zip 文件。该工具旨在为那些想要轻松导出 Webflow 站点的用户提供便捷的解决方案。]]></description>
+      <guid>https://t.me/hn_summary/68118</guid>
+      <pubDate>Tue, 09 Jan 2024 20:30:59 GMT</pubDate>
     </item>
     <item>
-      <title>Opinium 代表 Uswitch 进行的一项最新研究发现，270 万人 [...]</title>
-      <link>https://t.me/hn_summary/68035</link>
-      <description><![CDATA[270 万英国人仍然使用纯 3G 手机作为 3G 交换机离我们越来越近了
-Opinium 最近代表 Uswitch 进行的一项研究发现，英国有 270 万人（约占手机用户的 5%）仍在使用不具备 4G 或 5G 功能的纯 3G 手机。尽管 3G 关闭仍在进行中，预计将于 2024/2025 年完成。研究还显示，21% 的 3G 手机用户不愿意升级，将继续在没有互联网连接的情况下使用手机。然而，由于 2G 到 2033 年才会完全关闭，因此通话和短信仍然可以使用。结果令人担忧，因为越来越多的人依赖移动数据作为主要的互联网连接，并且人们担心年老的亲戚可能会没有移动电话电话访问。此外，13% 的人不知道他们的手机支持 4G 还是 5G，这可能会增加仅使用 3G 手机的人数。令人惊讶的是，43% 的公众并不知道 3G 关闭正在发生。 EE、Three、Vodafone 和 O2 等英国主要网络预计将在 2024 年底前完成关闭。]]></description>
-      <guid>https://t.me/hn_summary/68035</guid>
-      <pubDate>Tue, 09 Jan 2024 14:06:11 GMT</pubDate>
+      <title>[媒体] 霍布斯 OS/2 档案馆，由信息与通信技术部管理 [...]</title>
+      <link>https://t.me/hn_summary/68117</link>
+      <description><![CDATA[Hobbes OS/2 存档：截至 2024 年 4 月 15 日本网站将不再存在
+由新墨西哥州立大学信息与通信技术系运营的 Hobbes OS/2 档案将于 2024 年 4 月 15 日退役并不再可用。在此之前，我们敦促用户从档案中下载他们想要的任何文件日期，因为它们将不再可访问或下载。该网站提供快速搜索和浏览选项，以及有关 Hobbes 和 OS/2 的主要目录和信息的链接。]]></description>
+      <guid>https://t.me/hn_summary/68117</guid>
+      <pubDate>Tue, 09 Jan 2024 20:21:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
