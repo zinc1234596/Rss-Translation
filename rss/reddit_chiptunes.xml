@@ -4,7 +4,21 @@
     <title>最新提交：chiptunes</title>
     <link>https://www.reddit.com/r/chiptunes/new</link>
     <description>一个致力于音乐的社区，从最少的事情中获得最大的收益。老游戏风格的音乐，例如C64、Atari、NES、Gameboy、Sega Genesis、Adlib、OPM、MOD等。</description>
-    <lastBuildDate>Wed, 10 Jan 2024 00:52:04 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jan 2024 06:15:32 GMT</lastBuildDate>
+    <item>
+      <title>我修复了 Prehistorik2 OST 中的 Pres Speed</title>
+      <link>https://www.reddit.com/r/chiptunes/comments/19316pf/i_fixed_pres_speed_from_prehistorik2_ost/</link>
+      <description><![CDATA[https:// www.reddit.com/r/Prehistorik2/comments/19313bp/pres_fixed_speed_prehistorik_2_soundtrack_ost/    由   提交 /u/JamesNordmar   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/chiptunes/comments/19316pf/i_fixed_pres_speed_from_prehistorik2_ost/</guid>
+      <pubDate>Wed, 10 Jan 2024 05:56:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>6502 问题（PET 原件）</title>
+      <link>https://www.reddit.com/r/chiptunes/comments/1930u30/6502_problems_a_pet_original/</link>
+      <description><![CDATA[你们都会给我最愚蠢的声音芯片来工作，它可以像凯伦在 DMV 的耐心一样播放音乐（没有）但我仍然会用它制作音乐 芯片：MOS Technology 6502 - 程序：Furnace    由   提交 /u/notbugberry202   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/chiptunes/comments/1930u30/6502_problems_a_pet_original/</guid>
+      <pubDate>Wed, 10 Jan 2024 05:36:47 GMT</pubDate>
+    </item>
     <item>
       <title>Chiptune 巴尔干民间音乐</title>
       <link>https://www.reddit.com/r/chiptunes/comments/192lldo/chiptune_balkan_folkmusic/</link>
@@ -50,14 +64,14 @@
     <item>
       <title>GBA 音乐制作软件？</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1927dh5/software_for_gba_music_production/</link>
-      <description><![CDATA[我想尝试制作一款 GBA 游戏/ROM，如果不是一个接近的感觉，并且想学习如何为之制​​作音乐说游戏。我环顾四周，找不到很多可以让我创作 GBA 音乐的免费/盗版软件。我唯一能找到的是一个叫做 MusicTechProPerformerFreeVersion.gba 的东西，它似乎是一个声音测试的东西，但实际上不能让我把一首歌放在一起，除非我错过了一些东西。无论如何，我在 YouTube 上都找不到相关教程。 我对制作音乐还很陌生，我主要使用合成器 v 和音乐记谱程序（如 Muse Score），所以如果我缺少什么，请告诉我知道。   由   提交 /u/MissFreeHope   [链接] [评论]]]></description>
+      <description><![CDATA[我想尝试制作一款 GBA 游戏/ROM，如果不是一个接近的感觉，并且想学习如何为之制​​作音乐说游戏。我环顾四周，找不到很多可以让我创作 GBA 音乐的免费/盗版软件。我唯一能找到的是一个叫做 MusicTechProPerformerFreeVersion.gba 的东西，它似乎是一个声音测试的东西，但实际上并不能让我把一首歌放在一起，除非我错过了一些东西。无论如何，我在 YouTube 上都找不到相关教程。 我对制作音乐还很陌生，我主要使用合成器 v 和音乐记谱程序（如 Muse Score），所以如果我缺少什么，请告诉我知道。   由   提交 /u/MissFreeHope   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1927dh5/software_for_gba_music_production/</guid>
       <pubDate>Tue, 09 Jan 2024 05:42:10 GMT</pubDate>
     </item>
     <item>
       <title>卷积混响的脉冲响应</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1925u49/impulse_responses_for_convolution_reverb/</link>
-      <description><![CDATA[大家好， 刚刚发现 Shirobon 发布了 脉冲响应样本，用于在卷积插件中模仿 PS1 风格的混响，并且想知道是否有人知道其他控制台混响（特别是 SNES）的可用脉冲响应样本。  我可能会尝试自己拼凑一些，但我确信可能会有一些漂浮在某个地方，由比我更了解声学技术的人制作。 &lt; p&gt;非常感谢！   由   提交/u/zyzzyvaproject  [链接] [评论]]]></description>
+      <description><![CDATA[大家好， 刚刚发现 Shirobon 发布了 脉冲响应样本，用于在卷积插件中模仿 PS1 风格的混响，并且想知道是否有人知道其他控制台混响（特别是 SNES）的可用脉冲响应样本。  我可能会尝试自己拼凑一些，但我确信可能会有一些漂浮在某个地方，是由比我更了解声学技术的人制作的。 &lt; p&gt;非常感谢！   由   提交/u/zyzzyvaproject  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1925u49/impulse_responses_for_convolution_reverb/</guid>
       <pubDate>Tue, 09 Jan 2024 04:19:33 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[      &amp;# 32；由   提交/u/Apticx  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/191fn3v/weeklybeats_01/</guid>
       <pubDate>Mon, 08 Jan 2024 07:33:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>[NES] Just Some Kid - 一首古怪的曲调，讲述一个孩子陷入他最喜欢的电子游戏的故事</title>
-      <link>https://www.reddit.com/r/chiptunes/comments/191acgy/nes_just_some_kid_a_quirky_tune_about_a_kid_who/</link>
-      <description><![CDATA[       由   提交 /u/HeySteel   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/chiptunes/comments/191acgy/nes_just_some_kid_a_quirky_tune_about_a_kid_who/</guid>
-      <pubDate>Mon, 08 Jan 2024 02:40:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>Chiptune DJ 混音</title>
-      <link>https://www.reddit.com/r/chiptunes/comments/1914che/chiptune_dj_mix/</link>
-      <description><![CDATA[      每两周我都会将 vgm remix 和chiptune 音乐组合在一起。希望您喜欢。   由   提交/u/faithintheglitch  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/chiptunes/comments/1914che/chiptune_dj_mix/</guid>
-      <pubDate>Sun, 07 Jan 2024 22:17:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
