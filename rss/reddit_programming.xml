@@ -4,9 +4,65 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Thu, 11 Jan 2024 03:12:47 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jan 2024 06:15:43 GMT</lastBuildDate>
     <item>
-      <title>我写的一个小 CD 刻录机（包装）</title>
+      <title>理解java设计模式的概念</title>
+      <link>https://www.reddit.com/r/programming/comments/193u7t6/understanding_the_concept_of_java_design_patterns/</link>
+      <description><![CDATA[ 由   提交/u/Manojsharmajtp9  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/193u7t6/understanding_the_concept_of_java_design_patterns/</guid>
+      <pubDate>Thu, 11 Jan 2024 05:38:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>理解java设计模式的概念</title>
+      <link>https://www.reddit.com/r/programming/comments/193u7sc/understanding_the_concept_of_java_design_patterns/</link>
+      <description><![CDATA[ 由   提交/u/Manojsharmajtp9  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/193u7sc/understanding_the_concept_of_java_design_patterns/</guid>
+      <pubDate>Thu, 11 Jan 2024 05:38:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Shoelace：一个具有前瞻性的 Web 组件库。</title>
+      <link>https://www.reddit.com/r/programming/comments/193tm1x/shoelace_a_forwardthinking_library_of_web/</link>
+      <description><![CDATA[ 由   提交 /u/lelanthran    [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/193tm1x/shoelace_a_forwardthinking_library_of_web/</guid>
+      <pubDate>Thu, 11 Jan 2024 05:04:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用现代 JavaScript/TypeScript 运行时编译独立可执行文件</title>
+      <link>https://www.reddit.com/r/programming/comments/193tkxo/compiling_a_standalone_executable_using_modern/</link>
+      <description><![CDATA[ 由   提交/u/guest271314  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/193tkxo/compiling_a_standalone_executable_using_modern/</guid>
+      <pubDate>Thu, 11 Jan 2024 05:02:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>make-real - 使用 AI 绘制模型并制作真实的软件</title>
+      <link>https://www.reddit.com/r/programming/comments/193tkg8/makereal_draw_a_mockup_and_make_a_real_software/</link>
+      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/193tkg8/makereal_draw_a_mockup_and_make_a_real_software/</guid>
+      <pubDate>Thu, 11 Jan 2024 05:01:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>HTML优先</title>
+      <link>https://www.reddit.com/r/programming/comments/193sie9/html_first/</link>
+      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/193sie9/html_first/</guid>
+      <pubDate>Thu, 11 Jan 2024 04:05:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何编辑Action中使用的鼠标</title>
+      <link>https://www.reddit.com/r/programming/comments/193sdmx/how_to_edit_the_mouse_used_in_action/</link>
+      <description><![CDATA[ 由   提交/u/ah2000ha  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/193sdmx/how_to_edit_the_mouse_used_in_action/</guid>
+      <pubDate>Thu, 11 Jan 2024 03:58:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>工程行业最大的生产力杀手</title>
+      <link>https://www.reddit.com/r/programming/comments/193rydq/biggest_productivity_killers_in_the_engineering/</link>
+      <description><![CDATA[ 由   提交/u/gregorojstersek  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/193rydq/biggest_productivity_killers_in_the_engineering/</guid>
+      <pubDate>Thu, 11 Jan 2024 03:37:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>我写的一个小CD刻录机（包装）</title>
       <link>https://www.reddit.com/r/programming/comments/193qk3n/a_little_cd_burner_wrapper_i_wrote/</link>
       <description><![CDATA[一直在努力使用很多软件进行 CD 刻录。决定自己做。  自从我更新了 ubuntu 以来，brasero 一直很混乱，由于 wodim，ISRC 出现了奇怪的问题。它只是一个小工具，可以帮助将 m3u 曲目列表从 brasero 迁移到可爱的 lil 脚本:)。  如果您有任何反馈，请告诉我！ 💞   由   提交/u/bruishedandbroke  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/193qk3n/a_little_cd_burner_wrapper_i_wrote/</guid>
@@ -53,62 +109,6 @@
       <description><![CDATA[ 由   提交/u/agumonkey  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/193nsji/the_memory_remains_permanent_memory_with_systemd/</guid>
       <pubDate>Thu, 11 Jan 2024 00:18:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>纯金</title>
-      <link>https://www.reddit.com/r/programming/comments/193mr0d/pure_gold/</link>
-      <description><![CDATA[算术 DreamBerd - e/acc 有大量空格。使用空格来指定算术运算的顺序。 &lt;代码&gt; 打印(1 + 2*3)! //7 打印(1+2 * 3)! //9  也可以使用数字名称，例如： print(one+two)! //3  缩进 说到缩进，DreamBerd - e/acc 找到了一个人人都可以享受的折中方案：所有缩进必须为 3 个空格长的。  函数 main() =&gt; { print(&quot;DreamBerd - e/acc 是未来&quot;)! }  -3 个空格也是允许的。  函数 main() =&gt; { print(&quot;DreamBerd - e/acc 是未来&quot;)! }    由   提交/u/Upset-Document-8399   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/193mr0d/pure_gold/</guid>
-      <pubDate>Wed, 10 Jan 2024 23:33:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>npm 回顾：2023 年增长、安全和奇怪事实回顾</title>
-      <link>https://www.reddit.com/r/programming/comments/193lb4p/npm_in_review_a_2023_retrospective_on_growth/</link>
-      <description><![CDATA[ 由   提交/u/feross  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/193lb4p/npm_in_review_a_2023_retrospective_on_growth/</guid>
-      <pubDate>Wed, 10 Jan 2024 22:32:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>5 位领先专家的软件架构原则</title>
-      <link>https://www.reddit.com/r/programming/comments/193kjnl/software_architecture_principles_from_5_leading/</link>
-      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/193kjnl/software_architecture_principles_from_5_leading/</guid>
-      <pubDate>Wed, 10 Jan 2024 22:01:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>当随机不是时</title>
-      <link>https://www.reddit.com/r/programming/comments/193k8ix/when_random_isnt/</link>
-      <description><![CDATA[ 由   提交/u/nightcracker  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/193k8ix/when_random_isnt/</guid>
-      <pubDate>Wed, 10 Jan 2024 21:49:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 ChatGPT 自动回复 WhatsApp 消息</title>
-      <link>https://www.reddit.com/r/programming/comments/193iuk1/using_chatgpt_to_autoreply_to_whatsapp_message/</link>
-      <description><![CDATA[ 由   提交/u/jeeb_uk   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/193iuk1/using_chatgpt_to_autoreply_to_whatsapp_message/</guid>
-      <pubDate>Wed, 10 Jan 2024 20:53:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>过去10年我学到的教训</title>
-      <link>https://www.reddit.com/r/programming/comments/193i7t3/lessons_i_learned_in_the_last_10_years/</link>
-      <description><![CDATA[ 由   提交 /u/poopMachinist   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/193i7t3/lessons_i_learned_in_the_last_10_years/</guid>
-      <pubDate>Wed, 10 Jan 2024 20:27:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一份双周通讯，汇总了 300 多个工程博客的最新技术文章和摘要。</title>
-      <link>https://www.reddit.com/r/programming/comments/193hfyd/ive_created_a_biweekly_newsletter_aggregating_the/</link>
-      <description><![CDATA[ 由   提交 /u/BigTechDigest   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/193hfyd/ive_created_a_biweekly_newsletter_aggregating_the/</guid>
-      <pubDate>Wed, 10 Jan 2024 19:57:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>通过形式验证增强对软件的信心</title>
-      <link>https://www.reddit.com/r/programming/comments/193grfk/increasing_confidence_in_your_software_with/</link>
-      <description><![CDATA[ 由   提交 /u/DavidMazarro   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/193grfk/increasing_confidence_in_your_software_with/</guid>
-      <pubDate>Wed, 10 Jan 2024 19:29:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
