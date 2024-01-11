@@ -4,111 +4,111 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Thu, 11 Jan 2024 12:20:53 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jan 2024 18:14:35 GMT</lastBuildDate>
     <item>
-      <title>凌晨 3:00 部署？为什么不？</title>
-      <link>https://www.reddit.com/r/programming/comments/194075x/300_am_deployment_why_not/</link>
-      <description><![CDATA[ 由   提交 /u/Mariambarouma   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/194075x/300_am_deployment_why_not/</guid>
-      <pubDate>Thu, 11 Jan 2024 12:07:07 GMT</pubDate>
+      <title>Swift 中的响应式编程</title>
+      <link>https://www.reddit.com/r/programming/comments/1947w1n/reactive_programming_in_swift/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1947w1n/reactive_programming_in_swift/</guid>
+      <pubDate>Thu, 11 Jan 2024 17:56:48 GMT</pubDate>
     </item>
     <item>
-      <title>Python 的 __name__ == “main”：有效使用的提示和示例</title>
-      <link>https://www.reddit.com/r/programming/comments/193zvkm/pythons_name_main_tips_and_examples_for_effective/</link>
-      <description><![CDATA[ 由   提交/u/Competitive_Carry_89   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/193zvkm/pythons_name_main_tips_and_examples_for_effective/</guid>
-      <pubDate>Thu, 11 Jan 2024 11:48:53 GMT</pubDate>
+      <title>延迟的开源发布：历史和当前实践的调查</title>
+      <link>https://www.reddit.com/r/programming/comments/1947vaw/delayed_open_source_publication_a_survey_of/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1947vaw/delayed_open_source_publication_a_survey_of/</guid>
+      <pubDate>Thu, 11 Jan 2024 17:55:57 GMT</pubDate>
     </item>
     <item>
-      <title>了解调试器</title>
-      <link>https://www.reddit.com/r/programming/comments/193zroe/learning_about_debuggers/</link>
-      <description><![CDATA[ 由   提交/u/_shadowbannedagain  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/193zroe/learning_about_debuggers/</guid>
-      <pubDate>Thu, 11 Jan 2024 11:42:24 GMT</pubDate>
+      <title>DragonFlyBSD 网络堆栈 10 年 [pdf]</title>
+      <link>https://www.reddit.com/r/programming/comments/1947utc/10_years_with_dragonflybsd_network_stack_pdf/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1947utc/10_years_with_dragonflybsd_network_stack_pdf/</guid>
+      <pubDate>Thu, 11 Jan 2024 17:55:26 GMT</pubDate>
     </item>
     <item>
-      <title>RetrOS-32：32 位爱好操作系统，在 i386 架构上具有图形、多任务处理和网络功能。</title>
-      <link>https://www.reddit.com/r/programming/comments/193zqz0/retros32_32bit_hobby_operatingsystem_with/</link>
-      <description><![CDATA[我已经研究了一段时间的业余爱好操作系统！任何评论或反馈都将受到高度赞赏！当然也是批评家:D   由   提交/u/warothia  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/193zqz0/retros32_32bit_hobby_operatingsystem_with/</guid>
-      <pubDate>Thu, 11 Jan 2024 11:41:12 GMT</pubDate>
+      <title>为什么 all([]) 为 true，prod([]) 为 1，等等</title>
+      <link>https://www.reddit.com/r/programming/comments/1947uls/why_all_is_true_prod_is_1_etc/</link>
+      <description><![CDATA[ 由   提交/u/mvaliente2001  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1947uls/why_all_is_true_prod_is_1_etc/</guid>
+      <pubDate>Thu, 11 Jan 2024 17:55:13 GMT</pubDate>
     </item>
     <item>
-      <title>我和我的团队在 Solidity 中举办了一场 Gas 优化竞赛。很高兴看到大家的想法。</title>
-      <link>https://www.reddit.com/r/programming/comments/193zffn/my_team_and_i_put_together_a_competition_for_gas/</link>
-      <description><![CDATA[ 由   提交/u/eclime  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/193zffn/my_team_and_i_put_together_a_competition_for_gas/</guid>
-      <pubDate>Thu, 11 Jan 2024 11:21:42 GMT</pubDate>
+      <title>30 年的反编译和未解决的结构化问题</title>
+      <link>https://www.reddit.com/r/programming/comments/1947ua2/30_years_of_decompilation_and_the_unsolved/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1947ua2/30_years_of_decompilation_and_the_unsolved/</guid>
+      <pubDate>Thu, 11 Jan 2024 17:54:55 GMT</pubDate>
     </item>
     <item>
-      <title>Sneat - 开源和免费的 Bootstrap Django 管理模板</title>
-      <link>https://www.reddit.com/r/programming/comments/193yyea/sneat_open_source_free_bootstrap_django_admin/</link>
-      <description><![CDATA[ 由   提交/u/Abhi_mech007   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/193yyea/sneat_open_source_free_bootstrap_django_admin/</guid>
-      <pubDate>Thu, 11 Jan 2024 10:52:21 GMT</pubDate>
+      <title>分布式系统恐怖故事：Kubernetes 深度健康检查</title>
+      <link>https://www.reddit.com/r/programming/comments/1947tgf/distributed_systems_horror_stories_kubernetes/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1947tgf/distributed_systems_horror_stories_kubernetes/</guid>
+      <pubDate>Thu, 11 Jan 2024 17:53:58 GMT</pubDate>
     </item>
     <item>
-      <title>强化学习调查</title>
-      <link>https://www.reddit.com/r/programming/comments/193ytdl/reinforcement_learning_survey/</link>
-      <description><![CDATA[ 由   提交 /u/ml_dnn   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/193ytdl/reinforcement_learning_survey/</guid>
-      <pubDate>Thu, 11 Jan 2024 10:42:59 GMT</pubDate>
+      <title>适用于 PostgreSQL 的 DynamoDB 外部数据包装器</title>
+      <link>https://www.reddit.com/r/programming/comments/1947t2w/dynamodb_foreign_data_wrapper_for_postgresql/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1947t2w/dynamodb_foreign_data_wrapper_for_postgresql/</guid>
+      <pubDate>Thu, 11 Jan 2024 17:53:34 GMT</pubDate>
     </item>
     <item>
-      <title>使用 Mongoose 和 Node.js 了解和管理 MongoDB 中的索引</title>
-      <link>https://www.reddit.com/r/programming/comments/193yoau/understanding_and_managing_indexes_in_mongodb/</link>
-      <description><![CDATA[ 由   提交/u/congolomera  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/193yoau/understanding_and_managing_indexes_in_mongodb/</guid>
-      <pubDate>Thu, 11 Jan 2024 10:33:32 GMT</pubDate>
+      <title>不要过度优化的重要性</title>
+      <link>https://www.reddit.com/r/programming/comments/1947t0s/the_importance_of_not_overoptimizing/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1947t0s/the_importance_of_not_overoptimizing/</guid>
+      <pubDate>Thu, 11 Jan 2024 17:53:30 GMT</pubDate>
     </item>
     <item>
-      <title>了解负载均衡器：类型以及使用 Flask 和 NGINX 进行构建</title>
-      <link>https://www.reddit.com/r/programming/comments/193ymgq/understanding_load_balancer_types_building_with/</link>
-      <description><![CDATA[ 由   提交 /u/Illustrious_Party330   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/193ymgq/understanding_load_balancer_types_building_with/</guid>
-      <pubDate>Thu, 11 Jan 2024 10:30:15 GMT</pubDate>
+      <title>Vcc - Vulkan Clang 编译器</title>
+      <link>https://www.reddit.com/r/programming/comments/1947sy2/vcc_the_vulkan_clang_compiler/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1947sy2/vcc_the_vulkan_clang_compiler/</guid>
+      <pubDate>Thu, 11 Jan 2024 17:53:25 GMT</pubDate>
     </item>
     <item>
-      <title>Atm0s 媒体服务器 - 由 Rust 提供支持的开源媒体流去中心化 SFU</title>
-      <link>https://www.reddit.com/r/programming/comments/193yf8h/atm0s_media_server_an_opensource_media_streaming/</link>
-      <description><![CDATA[ 由   提交/u/luongngocminh  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/193yf8h/atm0s_media_server_an_opensource_media_streaming/</guid>
-      <pubDate>Thu, 11 Jan 2024 10:16:31 GMT</pubDate>
+      <title>Mathematica 14 发布</title>
+      <link>https://www.reddit.com/r/programming/comments/1947s8q/mathematica_14_released/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1947s8q/mathematica_14_released/</guid>
+      <pubDate>Thu, 11 Jan 2024 17:52:37 GMT</pubDate>
     </item>
     <item>
-      <title>Rerun 0.12 - 轻松可视化多模式数据流</title>
-      <link>https://www.reddit.com/r/programming/comments/193y1ai/rerun_012_easily_visualize_streams_of_multimodal/</link>
-      <description><![CDATA[ 由   提交 /u/emilern   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/193y1ai/rerun_012_easily_visualize_streams_of_multimodal/</guid>
-      <pubDate>Thu, 11 Jan 2024 09:50:27 GMT</pubDate>
+      <title>Haskell 的安全零成本强制转换</title>
+      <link>https://www.reddit.com/r/programming/comments/1947s7b/safe_zerocost_coercions_for_haskell/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1947s7b/safe_zerocost_coercions_for_haskell/</guid>
+      <pubDate>Thu, 11 Jan 2024 17:52:35 GMT</pubDate>
     </item>
     <item>
-      <title>实用（又名实际有用）架构 • Stefan Tilkov</title>
-      <link>https://www.reddit.com/r/programming/comments/193y0m0/practical_aka_actually_useful_architecture_stefan/</link>
-      <description><![CDATA[ 由   提交 /u/goto-con   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/193y0m0/practical_aka_actually_useful_architecture_stefan/</guid>
-      <pubDate>Thu, 11 Jan 2024 09:49:19 GMT</pubDate>
+      <title>Elixir类型系统的设计原理</title>
+      <link>https://www.reddit.com/r/programming/comments/1947rcx/the_design_principles_of_the_elixir_type_system/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1947rcx/the_design_principles_of_the_elixir_type_system/</guid>
+      <pubDate>Thu, 11 Jan 2024 17:51:38 GMT</pubDate>
     </item>
     <item>
-      <title>我的贪吃蛇游戏现在是 61 字节</title>
-      <link>https://www.reddit.com/r/programming/comments/193xzuh/my_snake_game_is_now_61_bytes/</link>
-      <description><![CDATA[我想在达到 60 字节时进行下一次更新，但这似乎不现实。 新的迭代具有更好的图形，因为使用图形模式 0 更“方形”并使用更好的角色来代表蛇。 新版本现在也按照许多要求减慢了速度，这是通过遵循 rrrola 的建议通过替换 xadd (r16, r16) 来实现的, cmp (r16, r16), ja, div (r8l) 以及 26 次 mov, sub (r16, i8), jns 重复，除了  之外，所有这些都有一个周期的延迟&gt;div 在主循环中具有 9 个周期的延迟（使用 AMD zen 3 文档进行粗略参考），这意味着它增加了“帧”和“帧”之间的延迟。 (3×26-(3+9))=66 周期，假设我们每 1ms 运行 1 个周期，它会将帧之间的延迟减慢 66ms，所以现在它已经足够慢了，我正在使用 2每 1 毫秒循环一次。 新的迭代是通过五个关键观察实现的：  每次游戏重置后，屏幕都会“重新加载”。这意味着每个位置都有单词 0x720 并且我们还知道 0x720&lt;0xFA0 和 0x720%4=0 所以屏幕上的每个单词都是屏幕上的有效位置，此外，ds 段寄存器指向屏幕缓冲区以及 bx&lt;0xFA0 和 bx%4=0，因此总体而言[bx] 指向屏幕上的有效位置。  可以使用 sp 通过反转它来重置蛇，因为它位于堆栈上。 我们可以添加一个硬编码字节 (0x0)稍后用 lds 读取，因为它会导致直接重置到下一个字节，即没有填充字节的指令。 我们可以滥用命中检测机制来测试命中通过用 0x80 和 0xFE 之间的字节填充侧壁。 我们可以使用图形模式 0 来不添加移动偏移两次（仅当我们不需要将其分离以进行墙壁检测时才有帮助，4 已过时）。  我要感谢henter 和rrrola 帮助我实现了这一里程碑。   由   提交/u/Perfect-Highlight964  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/193xzuh/my_snake_game_is_now_61_bytes/</guid>
-      <pubDate>Thu, 11 Jan 2024 09:47:53 GMT</pubDate>
+      <title>Rust 临时生命周期和“Super Let”</title>
+      <link>https://www.reddit.com/r/programming/comments/1947rbz/rust_temporary_lifetimes_and_super_let/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1947rbz/rust_temporary_lifetimes_and_super_let/</guid>
+      <pubDate>Thu, 11 Jan 2024 17:51:37 GMT</pubDate>
     </item>
     <item>
-      <title>LRU——永不忘记要点的算法</title>
-      <link>https://www.reddit.com/r/programming/comments/193x51f/lru_the_algorithm_that_never_forgets_the/</link>
-      <description><![CDATA[ 由   提交/u/softdev999  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/193x51f/lru_the_algorithm_that_never_forgets_the/</guid>
-      <pubDate>Thu, 11 Jan 2024 08:47:33 GMT</pubDate>
+      <title>探索 Gleam FFI</title>
+      <link>https://www.reddit.com/r/programming/comments/1947ray/exploring_the_gleam_ffi/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1947ray/exploring_the_gleam_ffi/</guid>
+      <pubDate>Thu, 11 Jan 2024 17:51:36 GMT</pubDate>
     </item>
     <item>
-      <title>我们是否需要一个适合开发环境的包管理器</title>
-      <link>https://www.reddit.com/r/programming/comments/193x1vd/do_we_need_a_proper_package_manager_for/</link>
-      <description><![CDATA[ 由   提交/u/arijit079  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/193x1vd/do_we_need_a_proper_package_manager_for/</guid>
-      <pubDate>Thu, 11 Jan 2024 08:41:05 GMT</pubDate>
+      <title>Hacking Factorio - 从保存游戏到远程代码执行</title>
+      <link>https://www.reddit.com/r/programming/comments/1947r9p/hacking_factorio_from_save_game_to_remote_code/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1947r9p/hacking_factorio_from_save_game_to_remote_code/</guid>
+      <pubDate>Thu, 11 Jan 2024 17:51:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
