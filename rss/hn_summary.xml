@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Thu, 11 Jan 2024 18:11:58 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jan 2024 00:51:11 GMT</lastBuildDate>
     <item>
-      <title>Web 内容讨论了 LuaJIT 3.0 的新垃圾收集器设计。</title>
-      <link>https://t.me/hn_summary/68451</link>
-      <description><![CDATA[LuaJIT 3.0新的垃圾收集器设计
-Web 内容讨论了 LuaJIT 3.0 的新垃圾收集器设计。目前 LuaJIT 2.0 使用的垃圾收集器与其他语言运行时相比相对较慢，因此需要彻底重新设计。新的垃圾收集器的目标是速度快，能够维持高吞吐量和大工作负载，并在合理的最小内存量下运行良好。它将是增量的、低延迟、非复制且严格控制碎片。该设计还将针对解释器和 JIT 编译器的操作进行优化。该内容概述了新的垃圾收集器的实现以及 Lua 5.x 和 LuaJIT 1.x/2.0 中使用的不同 GC 算法。 （根据 37% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/68451</guid>
-      <pubDate>Thu, 11 Jan 2024 18:11:58 GMT</pubDate>
+      <title>[媒体]总统乔·拜登宣布在也门发动一系列针对伊朗支持的 H [...]</title>
+      <link>https://t.me/hn_summary/68556</link>
+      <description><![CDATA[美国、英国军队对伊朗支持的胡塞武装发动袭击 
+总统乔·拜登宣布对也门发动一系列针对伊朗支持的胡塞武装的袭击。这些袭击是为了表明美国及其盟国不会容忍该组织对红海的袭击。军事目标包括后勤枢纽、防空系统以及武器储存和发射地点。此次袭击是在无人机和导弹对商船持续进行攻击之后发生的。胡塞武装威胁称，将对美国的任何袭击做出激烈的军事反应。美国已组建了一个广泛的国际联盟来打击胡塞武装，有 20 多个国家参与了一项海上任务，以加强红海的船只保护。]]></description>
+      <guid>https://t.me/hn_summary/68556</guid>
+      <pubDate>Fri, 12 Jan 2024 00:51:11 GMT</pubDate>
     </item>
     <item>
-      <title>赫兹全球控股公司宣布将销售约 20,000 辆电动汽车（[...]</title>
-      <link>https://t.me/hn_summary/68450</link>
-      <description><![CDATA[赫兹销售 2 万辆电动汽车，将替换为汽油动力汽车
-赫兹全球控股公司 (Hertz Global Holdings) 宣布将出售其美国车队中约 20,000 辆电动汽车 (EV)，并将其替换为汽油动力汽车。做出这一决定是因为与碰撞和损坏相关的费用较高，主要与电动汽车相关。受此影响，赫兹股价在盘前交易中下跌了 9%。该公司预计将从 2023 年第四季度的拟议销售中确认约 2.45 亿美元的增量折旧费用。这一决定是在赫兹此前宣布计划从 Polestar 购买最多 65,000 辆电动汽车和 100,000 辆特斯拉汽车之后做出的。 Hertz 的二手车网站目前提供 700 多辆电动汽车待售，其中包括宝马、雪佛兰和特斯拉的车型。]]></description>
-      <guid>https://t.me/hn_summary/68450</guid>
-      <pubDate>Thu, 11 Jan 2024 18:10:45 GMT</pubDate>
+      <title>[媒体]美国和英国对也门胡塞武装相关目标发动空袭。</title>
+      <link>https://t.me/hn_summary/68555</link>
+      <description><![CDATA[美国官员称，英国和美国正在也门对胡塞武装发动打击
+美国和英国对也门胡塞武装相关目标发动空袭。这是自伊朗支持的组织开始针对红海的国际航运以来首次对其发动袭击。这次袭击是对胡塞武装袭击商船以抗议以色列在加沙发动战争的回应。多家航运公司已暂停运营，选择绕非洲较长的航线。美国军方报告称，胡塞武装周四早些时候对航运发动了第 27 次袭击。这次袭击标志着对胡塞武装无人机和导弹袭击行动的重大军事反应。 （根据故事文本的 64% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/68555</guid>
+      <pubDate>Fri, 12 Jan 2024 00:49:02 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]不幸的是，奥克斯曼论文的问题远比他[...]</title>
-      <link>https://t.me/hn_summary/68449</link>
-      <description><![CDATA[Oxman 论文的问题比报道的要严重得多 
-不幸的是，奥克斯曼论文的问题比之前报道的要严重得多。有一些有争议的方面被忽视了，阐明这些方面至关重要。奥克斯曼工作中令人惊讶和令人震惊的发现需要公开解决和讨论。为了充分理解这项研究的意义，有必要仔细研究缺陷和缺点。让我们不要回避面对争议，深入研究当前的问题。]]></description>
-      <guid>https://t.me/hn_summary/68449</guid>
-      <pubDate>Thu, 11 Jan 2024 17:50:32 GMT</pubDate>
+      <title>[媒体]作者回忆童年摆弄电脑的经历[...]</title>
+      <link>https://t.me/hn_summary/68554</link>
+      <description><![CDATA[给可修补软件的一封情书
+作者回忆了他们童年摆弄计算机和软件的经历，强调了随之而来的自由和学习机会。他们讨论了如何通过动手实验和探索来学习计算机网络、云存储和网站创建。作者对当前软件设计的修补能力有限的趋势表示遗憾，将其归因于安全和隐私问题，但也认为它限制了学习和探索的自由。]]></description>
+      <guid>https://t.me/hn_summary/68554</guid>
+      <pubDate>Fri, 12 Jan 2024 00:45:55 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 题为“您所需要的就是混合：比万亿美元更便宜、更好的替代品”的论文 [...]</title>
-      <link>https://t.me/hn_summary/68448</link>
-      <description><![CDATA[混合就是您所需要的：比万亿参数更便宜、更好的替代方案法学硕士
-这篇题为“Blending Is All You Need: Cheaper, Better Alternative to Trillion-Parameters LLM”的论文探讨了在对话式人工智能研究中使用较小模型的组合来实现与单个大型模型相当甚至更好的性能的想法。作者引入了“混合”的概念，即集成多个聊天人工智能。通过 Chai 研究平台上的经验证据和 A/B 测试，该研究表明，仅混合三个中等规模的模型就可以媲美或超越 ChatGPT 等更大模型的性能。这种方法提供了一种无需大量计算资源即可增强聊天人工智能功效的方法。]]></description>
-      <guid>https://t.me/hn_summary/68448</guid>
-      <pubDate>Thu, 11 Jan 2024 17:49:22 GMT</pubDate>
+      <title>[媒体]AMD 宣布推出 Radeon RX 7600 XT，一款配备 16GB 显存的中端 GPU。</title>
+      <link>https://t.me/hn_summary/68553</link>
+      <description><![CDATA[售价 329 美元的 Radeon 7600 XT 为 AMD 最新中端 GPU 带来 16GB 显存&lt; /a&gt;
+AMD 发布了 Radeon RX 7600 XT，这是一款具有 16GB 内存的中端 GPU。增加的内存以及略高的时钟速度旨在满足优先考虑内存容量的显卡购买者的需求。虽然内存的提升可能不会显着影响游戏性能，但它可以使计算任务受益。 7600 XT 保留了与常规 7600 相同的核心规格，但内存增加了一倍，性能略有提升。该卡售价 329 美元，将于 1 月 24 日开始上市。RX 7000 系列阵容中的其他 GPU（包括常规 RX 7600）在价格和供货情况方面将保持不变。]]></description>
+      <guid>https://t.me/hn_summary/68553</guid>
+      <pubDate>Fri, 12 Jan 2024 00:27:43 GMT</pubDate>
     </item>
     <item>
-      <title>汽车租赁公司 Hertz 正在出售其三分之一的电动汽车 (EV) 车队，这 [...]</title>
-      <link>https://t.me/hn_summary/68447</link>
-      <description><![CDATA[赫兹正在销售 2 万辆电动汽车，并将其替换为燃油汽车
-由于电动汽车需求下降和维修成本高昂，汽车租赁公司 Hertz 正在出售其三分之一的电动汽车 (EV) 车队，其中大部分是特斯拉。抛售从上个月开始，将持续到 2024 年。赫兹将用出售所得的资金购买燃油汽车。该决定给公司带来了重大损失，净折旧费用约为 2.45 亿美元。赫兹此前曾宣布计划在2022年底前向特斯拉采购10万辆电动汽车，但未能兑现承诺。该公司还计划从通用汽车和 Polestar 购买电动汽车。]]></description>
-      <guid>https://t.me/hn_summary/68447</guid>
-      <pubDate>Thu, 11 Jan 2024 17:48:12 GMT</pubDate>
+      <title>[媒体]居住在泰国的英国人斯蒂芬哈里森承认冒充首席执行官[...]</title>
+      <link>https://t.me/hn_summary/68552</link>
+      <description><![CDATA[冒充 HyperVerse CEO 的英国人向损失数百万美元的投资者表示歉意&lt; /a&gt;
+居住在泰国的英国人斯蒂芬·哈里森承认冒充已倒闭的加密货币计划 HyperVerse 的首席执行官。哈里森透露，他担任首席执行官的报酬是18万泰铢和一套免费西装。当他得知该公司向他提供虚假证书来推广该计划时，他表示震惊。哈里森向投资者道歉，仅 2022 年就损失了 13 亿美元，并表示他没有将任何损失的资金收入囊中。他声称，一位朋友的朋友向他提出了这个职位，并相信他的经纪人保证该公司是合法的。]]></description>
+      <guid>https://t.me/hn_summary/68552</guid>
+      <pubDate>Fri, 12 Jan 2024 00:12:32 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 这篇博文讨论了 20 世纪 70 年代分时计算机的概念以及我如何 [...]</title>
-      <link>https://t.me/hn_summary/68446</link>
-      <description><![CDATA[GitHub Actions 作为分时超级计算机
-这篇博文讨论了 20 世纪 70 年代分时计算机的概念，以及如何通过无服务器计算对其进行彻底改造。作者提到了他们自己的项目 OpenFaaS，该项目允许用户编写函数并在自己的基础设施上运行它们。然后他们推出了一个名为 actions-batch 的新工具，它将 GitHub Actions 变成了分时超级计算机。该工具允许用户提交一次性任务并异步接收结果。作者提供了如何使用 actions-batch 的示例，例如构建 Linux 内核、运行机器学习模型和下载视频。这篇文章还提到了使用秘密和自托管运行器与 actions-batch 的能力。 （根据 77% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/68446</guid>
-      <pubDate>Thu, 11 Jan 2024 17:30:00 GMT</pubDate>
+      <title>[媒体]迪士尼旗下动画工作室皮克斯预计将在 2024 年进行裁员，尽管 [...]</title>
+      <link>https://t.me/hn_summary/68551</link>
+      <description><![CDATA[皮克斯将于 2024 年裁员 20%
+迪士尼旗下动画工作室皮克斯预计将于 2024 年进行裁员，但受影响员工的确切人数仍在确定中。消息人士称，裁员幅度可能高达 20%，团队人数从 1,300 人减少到 1,000 人以下。据称，此次裁员是迪士尼削减成本措施的结果，该公司的目标是实现节省 75 亿美元的目标。皮克斯最近推出的影片，如《元素》，面临着挑战，其中一些影片最初被认为是票房炸弹，但后来在 Disney+ 上取得了成功。该工作室计划在未来几年推出《头脑特工队》续集和一部名为《Elio》的新电影。]]></description>
+      <guid>https://t.me/hn_summary/68551</guid>
+      <pubDate>Thu, 11 Jan 2024 23:40:13 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]伊朗在阿曼湾扣押了一艘油轮，并将其转移给一艘伊朗 [...]</title>
-      <link>https://t.me/hn_summary/68445</link>
-      <description><![CDATA[伊朗在阿曼湾扣押油轮
-伊朗在阿曼湾扣押了一艘油轮，并将其转移到伊朗港口，以报复美国去年没收该油轮及其石油。此次扣押是根据伊朗法院的命令进行的，伊朗常驻联合国代表团将其视为“经法院命令批准的合法行为”。这艘油轮原名“苏伊士拉詹”号，去年因涉嫌秘密销售和运输伊朗石油而被美国政府扣押。这次扣押发生在该地区的敏感时期，通过红海的集装箱运输已经受到伊朗支持的胡塞武装分子袭击的干扰。]]></description>
-      <guid>https://t.me/hn_summary/68445</guid>
-      <pubDate>Thu, 11 Jan 2024 17:28:53 GMT</pubDate>
+      <title>[媒体]这篇博文的作者分享了他们在 parsi 时遇到错误的经验 [...]</title>
+      <link>https://t.me/hn_summary/68550</link>
+      <description><![CDATA[找出此 Python 代码中的错误 (2023) 
+这篇博文的作者分享了他们在使用 Python 从文本文件中解析逗号分隔数据时遇到错误的经验。他们提供了一个简化的代码片段，使用 pandas 从解析的数据创建一个 DataFrame。然而，作者最初忽略了代码中的一个错误，该错误与可迭代分解和推导式的组合有关。他们解释了如何发现错误并提供了更正的代码。作者强调，这是他们的误解，而不是Python解释器的错误。他们还提到了更改语言以适应直观语法的潜在挑战。]]></description>
+      <guid>https://t.me/hn_summary/68550</guid>
+      <pubDate>Thu, 11 Jan 2024 23:36:06 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]太阳能将满足美国几乎所有的增长</title>
-      <link>https://t.me/hn_summary/68444</link>
-      <description><![CDATA[到 2025 年，太阳能几乎将满足美国发电量的全部增长
-根据美国能源信息署的短期能源展望，太阳能发电预计将成为美国电力行业增长的主要来源。该预测预计，新增产能将使太阳能占总发电量的份额从 2023 年的 4.0% 增至 2024 年的 5.6% 和 2025 年的 7.0%。该报告还强调了美国原油和天然气产量增长放缓，但两者都在增长。仍有望创下新纪录。此外，OPEC+产量预计仍将低于目标，美国汽油和柴油价格可能小幅下跌，美国煤炭产量和消费将大幅下降。]]></description>
-      <guid>https://t.me/hn_summary/68444</guid>
-      <pubDate>Thu, 11 Jan 2024 17:25:44 GMT</pubDate>
+      <title>[媒体]热门在线社区平台 Discord 正在裁员 170 名员工，这符合 [...]</title>
+      <link>https://t.me/hn_summary/68549</link>
+      <description><![CDATA[Discord 裁员 170 人，原因是增长太快 
+流行的在线社区平台 Discord 正在裁员 170 名员工，占其员工总数的 17%。首席执行官 Jason Citron 将此次裁员归因于公司的快速增长和过度招聘。 Discord 经历了大幅扩张，自 2020 年以来员工人数增加了五倍。然而，这种增长导致效率低下，公司需要重新调整重点并改善运营。尽管在疫情期间取得了成功，但 Discord 仍然没有盈利。这一消息是在 Unity、Twitch、Amazon Prime Video、MGM Studios 和 Audible 等科技公司裁员浪潮中发布的。]]></description>
+      <guid>https://t.me/hn_summary/68549</guid>
+      <pubDate>Thu, 11 Jan 2024 23:30:57 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 北加州 ACLU 最近发现，地理围栏 warra 中存在错误 [...]</title>
-      <link>https://t.me/hn_summary/68443</link>
-      <description><![CDATA[地理围栏搜查令拼写错误在旧金山上空撒下了横跨两英里的位置拉网&lt; /a&gt;
-北加州美国公民自由联盟 (ACLU) 最近发现，地理围栏搜查令申请中的一个错误导致了横跨旧金山近两英里的搜查令。这个错误可能是由打字错误引起的，它使执法部门能够捕获任何进入错误标记区域的人的信息。这次大规模扫荡涉及许多私人住宅，引发了人们对侵犯隐私的担忧。美国公民自由联盟律师还发现了其他针对特定区域的地理围栏搜查令，包括礼拜场所和繁忙的商业区，捕获与任何犯罪活动无关的个人数据。地理围栏授权一直是一个有争议的话题，公民自由倡导者认为它们违宪。谷歌宣布将在用户的设备上存储用户的位置数据，从而有效地终止其对地理围栏授权做出响应的能力。]]></description>
-      <guid>https://t.me/hn_summary/68443</guid>
-      <pubDate>Thu, 11 Jan 2024 17:24:37 GMT</pubDate>
+      <title>作者分享了有关 WARN 法案的信息，该法案为美国雇员提供 [...]</title>
+      <link>https://t.me/hn_summary/68548</link>
+      <description><![CDATA[告诉 HN：WARN 法案可能会提前提供裁员通知
+作者分享了有关 WARN 法案的信息，该法案规定美国员工在裁员时应提前 60 天发出通知。他们提供了劳工部网站的链接，可以在其中找到有关该法案的更多信息。此外，他们还提到，可以通过科罗拉多州劳工和就业部的网站访问科罗拉多州的实时裁员列表。作者强调，通过点击“查看实时警告”按钮，可以看到DISH计划于2024年2月8日进行裁员，影响157人。他们建议其他州也可能存在类似的网站。]]></description>
+      <guid>https://t.me/hn_summary/68548</guid>
+      <pubDate>Thu, 11 Jan 2024 23:24:43 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 纽约大都会交通局 (MTA) 在两次事件后受到审查 [...]</title>
-      <link>https://t.me/hn_summary/68442</link>
-      <description><![CDATA[纽约市连续列车脱轨威胁地铁的恢复
-纽约大都会交通局（MTA）在一周内发生两起地铁脱轨事件后受到密切关注。这些事件对 MTA 增加客流量和恢复对该市最大公共交通系统信心的努力构成威胁。第一次脱轨事故发生在 1 月 4 日，当时两列火车在换轨时相撞，导致多条地铁线路严重中断。第二起脱轨事故发生在布鲁克林康尼岛附近，目前MTA正在调查原因，可能与轨道问题有关。 MTA 现在面临着提高安全性和可靠性的越来越大的压力。]]></description>
-      <guid>https://t.me/hn_summary/68442</guid>
-      <pubDate>Thu, 11 Jan 2024 17:24:27 GMT</pubDate>
+      <title>[媒体]放学后撒旦俱乐部 (ASSC) 在 Chimneyrock 小学举行第一次会议 [...]</title>
+      <link>https://t.me/hn_summary/68547</link>
+      <description><![CDATA[田纳西州课后撒旦俱乐部不顾抗议举行首次会议
+放学后撒旦俱乐部（ASSC）不顾数十名宗教示威者的抗议，在田纳西州孟菲斯的 Chimneyrock 小学举行了第一次会议。 ASSC 是一个联邦认可的非营利组织，提倡一种非有神论观点，将撒旦视为一个隐喻人物，代表着对暴政的拒绝和对人类思想和精神的拥护。该俱乐部旨在鼓励孩子们独立思考，并推广科学项目、社区服务、拼图、游戏、自然活动、艺术和手工艺以及小吃等活动。 ASSC 认为，学校中福音派课外俱乐部的存在需要与撒旦俱乐部形成对比平衡。]]></description>
+      <guid>https://t.me/hn_summary/68547</guid>
+      <pubDate>Thu, 11 Jan 2024 23:22:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
