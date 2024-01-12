@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 12 Jan 2024 03:13:05 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jan 2024 06:16:01 GMT</lastBuildDate>
+    <item>
+      <title>正在寻找仅适用于 Windows 的 Evernote 的免费替代品</title>
+      <link>https://www.reddit.com/r/opensource/comments/194nasf/looking_for_free_replacement_for_evernote_for/</link>
+      <description><![CDATA[大家好 你能推荐一个很好的 Evernote 替代品吗？ 为了体积小，在线备份？ 谢谢   由   提交/u/umen  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/194nasf/looking_for_free_replacement_for_evernote_for/</guid>
+      <pubDate>Fri, 12 Jan 2024 05:27:48 GMT</pubDate>
+    </item>
     <item>
       <title>前端大师为开源维护者提供 50,000 美元支持</title>
       <link>https://www.reddit.com/r/opensource/comments/194jzy9/frontend_masters_supporting_open_source/</link>
@@ -57,14 +64,14 @@
     <item>
       <title>在商业应用程序中使用 GPL</title>
       <link>https://www.reddit.com/r/opensource/comments/193y34a/using_gpl_in_commercial_app/</link>
-      <description><![CDATA[您好， 也许这个问题已经被问了很多次，但我没有找到具体的答案。我想在工作中使用一个库，但遗憾的是该库是 GPL 或 AGPL 许可的。我可以在主应用程序将调用并向其提供数据并使用结果的中间可执行文件中使用它吗？开源主程序将调用的可执行代码不会有任何问题。它是一个用于 Office 文档操作的库，目前我们正在使用 COM 对象，它是一个 PITA，速度非常慢，并且需要在计算机上安装 Office（如果您知道免费的非 GPL 替代方案，我都听到了）。主应用程序采用 C++ 语言，可执行文件采用 C# 语言（我们仅在 Windows 上使用）。    由   提交 /u/LittleNameIdea   [链接] [评论]]]></description>
+      <description><![CDATA[您好， 也许这个问题已经被问了很多次，但我没有找到具体的答案。我想在工作中使用一个库，但遗憾的是该库是 GPL 或 AGPL 许可的。我可以在主应用程序将调用并向其提供数据并使用结果的中间可执行文件中使用它吗？开源主程序将调用的可执行代码不会有任何问题。它是一个用于 Office 文档操作的库，目前我们正在使用 COM 对象，它是一个 PITA，速度非常慢并且需要在计算机上安装 Office（如果您知道免费的非 GPL 替代方案，我都听说过）。主应用程序采用 C++ 语言，可执行文件采用 C# 语言（我们仅在 Windows 上使用）。    由   提交 /u/LittleNameIdea   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/193y34a/using_gpl_in_commercial_app/</guid>
       <pubDate>Thu, 11 Jan 2024 09:54:03 GMT</pubDate>
     </item>
     <item>
       <title>开放贡献 [Django 开发者、Python 专家]</title>
       <link>https://www.reddit.com/r/opensource/comments/193wo8m/open_to_contribute_django_developer_python_expert/</link>
-      <description><![CDATA[​ 你好，我写这篇文章是因为我愿意免费为开源项目做出贡献作为 Django 开发人员，我的技能是新手，但我很有效率，并且已经交付了许多成功的项目。如果您需要 Django 开发人员在您身边，我已准备好成为该项目的一部分。 GitHub -  https://github.com/priyanshujhapj 关于我 嗨，我是 Django 开发人员，拥有 1-2 年的学习经验，我通过自由职业构建应用程序并学习，提供咨询服务、故障排除和调试现有代码库。就企业经验而言，我一年多前实习过，现在正在找工作（全职）。 技能  编程专业知识： - Python、JS、C++ 后端：- Django/DRF、Flask 前端：- React 终端专业知识：- Linux 系统管理员、Git-Bash、Docker  注意 如果您还有任何疑问，我很乐意回答，请私信我。谢谢，祝你有美好的一天。   由   提交/u/pryj93  [链接] [评论]]]></description>
+      <description><![CDATA[​ 您好，我写这篇文章是因为我愿意免费为开源项目做出贡献作为 Django 开发人员，我的技能是新手，但我很有效率，并且已经交付了许多成功的项目。如果您需要 Django 开发人员在您身边，我已准备好成为该项目的一部分。 GitHub -  https://github.com/priyanshujhapj 关于我 嗨，我是 Django 开发人员，拥有 1-2 年的学习经验，我通过自由职业构建应用程序并学习，提供咨询服务、故障排除和调试现有代码库。就企业经验而言，我一年多前实习过，现在正在找工作（全职）。 技能  编程专业知识： - Python、JS、C++ 后端：- Django/DRF、Flask 前端：- React 终端专业知识：- Linux 系统管理员、Git-Bash、Docker  注意 如果您还有任何疑问，我很乐意回答，请私信我。谢谢，祝你有美好的一天。   由   提交/u/pryj93  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/193wo8m/open_to_contribute_django_developer_python_expert/</guid>
       <pubDate>Thu, 11 Jan 2024 08:14:35 GMT</pubDate>
     </item>
@@ -99,16 +106,9 @@
     <item>
       <title>寻找 Todoist 的开源替代品</title>
       <link>https://www.reddit.com/r/opensource/comments/193igrs/looking_for_an_open_source_alternative_to_todoist/</link>
-      <description><![CDATA[寻找一个开源待办事项列表，其中包含一些 Todoist 的功能：  日期的 NLP，例如从明天开始每隔一个星期四 标签/标记。我想要大量的项目。 查询语言，例如（今天 | 逾期）&amp; #Work  （就此而言，闭源也值得一提。）    ;由   提交/u/Educational-Net1538   reddit.com/r/opensource/comments/193igrs/looking_for_an_open_source_alternative_to_todoist/&quot;&gt;[链接] [评论]]]></description>
+      <description><![CDATA[寻找一个开源待办事项列表，其中包含一些 Todoist 的功能：  日期的 NLP，例如从明天开始每隔一个星期四 标签/标签。我想要大量的项目。 查询语言，例如（今天 | 逾期）&amp; #Work  （就此而言，闭源也值得一提。）    ;由   提交/u/Educational-Net1538   reddit.com/r/opensource/comments/193igrs/looking_for_an_open_source_alternative_to_todoist/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/193igrs/looking_for_an_open_source_alternative_to_todoist/</guid>
       <pubDate>Wed, 10 Jan 2024 20:37:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>轻量级但功能强大：我和我的朋友制作了一个小小的 GraphQL 安全测试库</title>
-      <link>https://www.reddit.com/r/opensource/comments/193h653/lightweight_but_mighty_my_friends_and_i_made_a/</link>
-      <description><![CDATA[大家好。我想你们会欣赏我们在这里所做的事情，所以只是想分享。 超轻量级 npm 包，可以直接从 CLI 对 GraphQL API 运行安全检查。涵盖恶意注入（SQL/NoSQL）、速率限制、深度限制等。 非常欢迎贡献/反馈。放轻松 GitHub：https://github.com/oslabs-beta/Qevlar&lt; /p&gt; 网站：https://www.qevlar.dev/ NPM 包：&lt; a href=&quot;https://www.npmjs.com/package/qevlar&quot;&gt;https://www.npmjs.com/package/qevlar &lt;!-- SC_ON - -&gt;  由   提交/u/beatsnotbombs305  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/193h653/lightweight_but_mighty_my_friends_and_i_made_a/</guid>
-      <pubDate>Wed, 10 Jan 2024 19:45:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
