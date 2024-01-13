@@ -4,7 +4,7 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sat, 13 Jan 2024 12:19:16 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jan 2024 15:11:04 GMT</lastBuildDate>
     <item>
       <title>是否可以通过软件停用演出交付应用程序？</title>
       <link>https://www.reddit.com/r/software/comments/195lmu3/is_it_possible_to_get_deactivated_on_a_gig/</link>
@@ -15,14 +15,14 @@
     <item>
       <title>我只想阅读大学的pdf文件</title>
       <link>https://www.reddit.com/r/software/comments/195io7i/i_just_want_to_read_pdfs_for_college/</link>
-      <description><![CDATA[第一周已经结束了，我仍然找不到阅读在线课程 pdf 的方法。互联网上的每个人都一定有一些内部笑话，FoxIt 和 Adob​​e Acrobat 是免费使用的，因为它们绝对不是免费的，而且两者都需要订阅才能使用。我也厌倦了 Sumatra pdf，但是当我尝试打开文档时，它没有显示我下载的文件。  请帮忙，我什至无法打开教学大纲来看看我有多糟糕   由   提交 /u/GoodBlob   [链接] [评论]]]></description>
+      <description><![CDATA[第一周已经结束了，我仍然找不到阅读在线课程 pdf 的方法。互联网上的每个人都一定有一些内部笑话，FoxIt 和 Adob​​e Acrobat 是免费使用的，因为它们绝对不是免费的，而且两者都需要订阅才能使用。我也厌倦了 Sumatra pdf，但是当我尝试打开文档时，它没有显示我下载的文件。  请帮忙，我什至无法打开教学大纲来看看我有多糟糕   由   提交/u/GoodBlob  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/195io7i/i_just_want_to_read_pdfs_for_college/</guid>
       <pubDate>Sat, 13 Jan 2024 07:37:35 GMT</pubDate>
     </item>
     <item>
       <title>Windows 网站拦截器（最好是 FOSS）</title>
       <link>https://www.reddit.com/r/software/comments/195dd27/site_blocker_for_windows_preferably_foss/</link>
-      <description><![CDATA[大家好。我想在我的电脑上安装一个网站拦截器，因为我患有 ADHD 的屁股需要阻止 YouTube，但我发现很难找到一个符合我所有标准的：  I我非常注重隐私，所以任何打电话回家都是一个巨大的禁忌，因为它会拦截我所有的互联网流量。如果可能的话，自由和开源软件是最好的。 我使用多个浏览器（主要是 Brave 和 Mullvad），但仍然安装了其他浏览器，因此运行浏览器扩展不切实际，因为我只会使用不同的浏览器（ Mulvad 无论如何也没有真正的扩展），所以它需要是可以同时阻止多个浏览器的实际软件。  我想要对被阻止的网站进行定时/计量访问。我的计划是每天有 15-20 分钟的时间访问 YouTube，下载一些我真正想看的视频，然后自动再次阻止，这样我就不会花费更多的时间。  我是一个狡猾的混蛋，如果拦截器不够强大，我会找到一种方法来绕过它，所以一些无法（或至少需要付出巨大努力）被规避或篡改的东西，会太棒了。 我的系统上有多个本地用户，其中一个需要访问 YouTube，因此针对特定用户的设置是理想的选择。通常我只会在路由器上使用 URL 过滤，但它不适用于 HTTPS，而且即使有效也会阻止其他用户。   我知道不可能满足所有这些标准，尤其是隐私方面的内容，但据我所知，这并不是一套疯狂不合理的标准，所以我很惊讶缺乏强大的自由和开源软件选项。    由   提交/u/Batch88  [链接] [评论]]]></description>
+      <description><![CDATA[大家好。我想在我的电脑上安装一个网站拦截器，因为我患有多动症，需要屏蔽 YouTube，但我发现很难找到一个符合我所有标准的网站拦截器：  I我非常注重隐私，所以任何打电话回家都是一个巨大的禁忌，因为它会拦截我所有的互联网流量。如果可能的话，自由和开源软件是最好的。 我使用多个浏览器（主要是 Brave 和 Mullvad），但仍然安装了其他浏览器，因此运行浏览器扩展不切实际，因为我只会使用不同的浏览器（ Mulvad 无论如何也没有真正的扩展），所以它需要是可以同时阻止多个浏览器的实际软件。  我想要对被阻止的网站进行定时/计量访问。我的计划是每天有 15-20 分钟的时间访问 YouTube，下载一些我真正想看的视频，然后自动再次阻止，这样我就不会花费更多的时间。  我是一个狡猾的混蛋，如果拦截器不够强大，我会找到一种方法来绕过它，所以一些无法（或至少需要付出巨大努力）被规避或篡改的东西，会太棒了。 我的系统上有多个本地用户，其中一个需要访问 YouTube，因此针对特定用户的设置是理想的选择。通常我只会在路由器上使用 URL 过滤，但它不适用于 HTTPS，而且即使有效也会阻止其他用户。   我知道不可能满足所有这些标准，尤其是隐私方面的内容，但据我所知，这并不是一套疯狂不合理的标准，所以我很惊讶缺乏强大的自由和开源软件选项。    由   提交/u/Batch88  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/195dd27/site_blocker_for_windows_preferably_foss/</guid>
       <pubDate>Sat, 13 Jan 2024 02:40:05 GMT</pubDate>
     </item>
