@@ -4,88 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Fri, 12 Jan 2024 14:59:22 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jan 2024 00:49:34 GMT</lastBuildDate>
     <item>
-      <title>[媒体]此网页内容的作者建议 Reddit 应该显示赞成票并执行 [...]</title>
-      <link>https://t.me/hn_summary/68652</link>
-      <description><![CDATA[Reddit 应分别显示赞成票和反对票
-该网页内容的作者建议 Reddit 应分别显示赞成票和反对票，而不是仅显示合并的票数。他们认为，对于用户来说，了解评论或帖子的一致意见和分歧意见非常重要。作者认为，显示赞成票的百分比可以更好地代表支持率，因为这表明该评论是一个有争议的问题，而不是完全错误的。他们还强调，当前的制度常常会导致“仇恨列车”，人们会跳到获胜的一方以获得业力。作者认为，评论不应该因为轻微的分歧而被埋没，用户也不应该猜测一条评论收到的票数。]]></description>
-      <guid>https://t.me/hn_summary/68652</guid>
-      <pubDate>Fri, 12 Jan 2024 14:59:22 GMT</pubDate>
+      <title>[媒体]本文讨论了 OpenAI 最近对 GPT-4 浏览功能所做的更改。</title>
+      <link>https://t.me/hn_summary/68737</link>
+      <description><![CDATA[GPT-4 中的隐藏更改已被发现
+本文讨论了 OpenAI 最近对 GPT-4 浏览功能所做的更改。这些变化影响了模型引用其访问过的网站的能力。本文探讨了 GPT-4 网页浏览的底层机制以及这些隐藏变化的含义。它还讨论了OpenAI API中函数调用的引入，它允许用户描述一个函数供GPT模型调用。本文强调了此功能在将编程功能与自然语言集成方面的强大功能。此外，文章还提到了无意中发现了 GPT-4 的更多功能，例如生成图像和执行 Python 代码。 （根据故事文本的 76% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/68737</guid>
+      <pubDate>Sat, 13 Jan 2024 00:49:34 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]SpaceX 的 Starlink 已使用 T-M 成功发送和接收了第一条短信 [...]</title>
-      <link>https://t.me/hn_summary/68651</link>
-      <description><![CDATA[“这样的信号，太棒了”：星链通过“手机”发送的第一条短信太空塔”
-SpaceX 的 Starlink 已通过其一颗新的 Direct to Cell 卫星，使用 T-Mobile 网络频谱成功发送和接收了第一条短信。该公司最近发射了六颗卫星，可以为标准 LTE 手机提供蜂窝传输。虽然文本消息预计将在今年某个时候推出，但语音和数据服务将于 2025 年开始提供。将手机连接到卫星会带来一些挑战，例如卫星之间的无缝切换以及多普勒频移和定时延迟等适应因素。星链的新卫星通过创新技术克服了这些挑战。然而，由于带宽有限，卫星电话服务与现有的地面蜂窝网络不具有竞争力。 T-Mobile 计划很快开始现场测试。]]></description>
-      <guid>https://t.me/hn_summary/68651</guid>
-      <pubDate>Fri, 12 Jan 2024 14:59:12 GMT</pubDate>
+      <title>[媒体] 根据系统思维启发式 k [...]，系统的目的就是它的作用。</title>
+      <link>https://t.me/hn_summary/68736</link>
+      <description><![CDATA[系统的目的就是它的作用&lt; br /&gt;
+根据称为 POSIWID 的系统思维启发法，系统的目的就是它的作用。这个概念由斯塔福德·比尔（Stafford Beer）提出，它挑战了系统的目的可以由其设计者或操作员决定的想法。相反，它表明可以通过检查系统的实际行为及其产生的意外后果来理解系统的真正目的。这种观点经常被用来反驳对系统行为的政治理解，并提供更具描述性的观点。该术语广泛应用于系统论，并在生物学和管理学等各个领域都有应用。]]></description>
+      <guid>https://t.me/hn_summary/68736</guid>
+      <pubDate>Sat, 13 Jan 2024 00:35:25 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]花旗集团宣布打算裁员 20,000 人，作为其持续重组的一部分 [...]</title>
-      <link>https://t.me/hn_summary/68650</link>
-      <description><![CDATA[花旗集团计划裁员 2 万人
-花旗集团宣布，作为其正在进行的重组计划的一部分，打算裁员 20,000 人。该银行目前拥有约 20 万名员工，目标是在 2026 年底前完成裁员。此举正值首席执行官简·弗雷泽 (Jane Fraser) 寻求简化这家全球银行的运营之际。此次裁员预计将帮助花旗集团降低成本并提高效率。近年来，该银行一直面临挑战，并正在采取措施应对这些挑战。]]></description>
-      <guid>https://t.me/hn_summary/68650</guid>
-      <pubDate>Fri, 12 Jan 2024 14:42:59 GMT</pubDate>
+      <title>[媒体]关于计算机需要多少 RAM 的争论仍在继续，但似乎 32GB RAM [...]</title>
+      <link>https://t.me/hn_summary/68735</link>
+      <description><![CDATA[为什么 32GB RAM 正在成为标准
+关于计算机需要多少 RAM 的争论仍在继续，但 32GB RAM 似乎正在成为新标准。虽然专业用户可能需要更多 RAM 来完成要求较高的任务，但游戏玩家的计算机中绝对应该拥有 32GB RAM。当前的顶级游戏已经需要 16 至 32GB RAM 才能实现最高质量设置，并且未来的游戏很可能也会有类似的要求。此外，标准应用程序的内存需求正在增加，现代网站占用了大量内存。现代操作系统有效地使用 RAM，存储常用的数据或应用程序以加快响应时间。总体而言，建议使用 32GB RAM 以获得流畅的性能，尤其是游戏和多任务处理。不过，16GB RAM 对于一般任务来说仍然实用。]]></description>
+      <guid>https://t.me/hn_summary/68735</guid>
+      <pubDate>Sat, 13 Jan 2024 00:24:15 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]不幸的是，推文的内容没有提供，因此无法总结[...]</title>
-      <link>https://t.me/hn_summary/68649</link>
-      <description><![CDATA[特斯拉车主创建了一个折叠式太阳能电池阵列，每次可充电 20-60 英里日
-不幸的是，推文的内容没有提供，因此无法总结或突出任何具体信息。]]></description>
-      <guid>https://t.me/hn_summary/68649</guid>
-      <pubDate>Fri, 12 Jan 2024 14:40:52 GMT</pubDate>
+      <title>[媒体]在 SpaceX 最近的更新中，埃隆·马斯克 (Elon Musk) 在 Twitter 上解决了他们 [...]</title>
+      <link>https://t.me/hn_summary/68734</link>
+      <description><![CDATA[埃隆·马斯克关于 SpaceX 的更新
+在 SpaceX 最近的更新中，埃隆·马斯克在 Twitter 上解决了他们最新任务中遇到的挫折。虽然他承认出了问题，但他安慰追随者不要担心，并鼓励他们保持乐观。这条推文暗示 SpaceX 将再次尝试实现他们的目标，突显了他们的决心和韧性。尽管没有提及这次挫折的具体细节，但这次更新展示了马斯克的透明度和让听众了解情况的意愿。]]></description>
+      <guid>https://t.me/hn_summary/68734</guid>
+      <pubDate>Sat, 13 Jan 2024 00:05:04 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]美国国税局已从百万富翁那里征收了超过 5 亿美元的拖欠税款，因为 [...]</title>
-      <link>https://t.me/hn_summary/68648</link>
-      <description><![CDATA[国税局已征收超过 5 亿美元的百万富翁拖欠税款&lt; /a&gt;
-作为提高税务合规性努力的一部分，美国国税局 (IRS) 已向百万富翁征收了超过 5 亿美元的拖欠税款。其中包括来自欠税至少 25 万美元的家庭的 3.6 亿美元。美国国税局局长丹尼·韦费尔表示，该机构加强的审查正在产生立竿见影的效果。然而，围绕国税局执法资金的未来存在争议。 2022 年的《通货膨胀削减法案》向国税局授权了 800 亿美元，但提高债务上限的协议可能会将 200 亿美元转移到其他地方。这可能会影响国税局的升级和打击逃税者。此外，还存在长期的资金问题，以及对政府在报税季节可能关闭的担忧。]]></description>
-      <guid>https://t.me/hn_summary/68648</guid>
-      <pubDate>Fri, 12 Jan 2024 14:39:46 GMT</pubDate>
+      <title>[媒体] revng 项目的目的是充当静态二进制翻译器。</title>
+      <link>https://t.me/hn_summary/68733</link>
+      <description><![CDATA[revng 转换（i386、x86-64、MIPS、ARM、AArch64 , s390x) 二进制文件到 LLVM IR
+revng 项目的目的是充当静态二进制翻译器。它采用受支持的架构之一（i386、x86-64、MIPS、ARM、AArch64 和 s390x）的输入 ELF 二进制文件，并对其进行分析以发出等效的 LLVM IR。这是通过使用 QEMU 中间表示然后将其转换为 LLVM IR 来实现的。该项目采用 CMake 作为构建系统，并且可以使用 Orchestra 工具进行安装。作者还提供了使用 ARM 二进制文件运行的示例来演示 revng 的用法。]]></description>
+      <guid>https://t.me/hn_summary/68733</guid>
+      <pubDate>Fri, 12 Jan 2024 23:26:48 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在一套新的疫苗建议中，疾病控制和预防中心 [...]</title>
-      <link>https://t.me/hn_summary/68647</link>
-      <description><![CDATA[这些是您应该接种的新疫苗
-在一套新的疫苗建议中，美国疾病控制与预防中心 (CDC) 敦促个人不仅仅注射流感疫苗来预防呼吸道疾病。 CDC 现在建议，除了每年注射流感疫苗外，还要接种 Covid-19、呼吸道合胞病毒 (RSV) 和 MPOX 疫苗。这些建议适用于儿童和成人。这突显了人们对疫苗接种在预防传染性和潜在危及生命的病毒方面的重要性的认识不断发展。]]></description>
-      <guid>https://t.me/hn_summary/68647</guid>
-      <pubDate>Fri, 12 Jan 2024 14:11:30 GMT</pubDate>
+      <title>[媒体] 作者讲述了他们看到的一条令他们恼火的推文，并讨论了“d [...]</title>
+      <link>https://t.me/hn_summary/68732</link>
+      <description><![CDATA[你必须忽略烦人的推文是的，互联网上的人很烦人
+作者讲述了他们看到的一条令他们恼火的推文，并讨论了互联网上“话语诱饵”的概念。他们批评这条推文缺乏为他人着想，并认为利用话语诱饵来获取关注和利润是糟糕且令人尴尬的。作者强调了忽略此类诱饵的力量，并鼓励读者专注于更有趣的在线活动。他们还提到了算法社交媒体的负面影响，以及它如何导致分裂和剥削。作者最后建议，在私人环境中进行健康的讨论比因与陌生人的分歧而感到不安更好。]]></description>
+      <guid>https://t.me/hn_summary/68732</guid>
+      <pubDate>Fri, 12 Jan 2024 23:25:43 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]波音人员拧紧了插头周围机身结构上松动的紧固件 [...]</title>
-      <link>https://t.me/hn_summary/68646</link>
-      <description><![CDATA[Alaska Max 9 上未损坏的插头出口在组装过程中拧紧了紧固件
-波音公司工作人员在阿拉斯加航空 737 Max 9 飞机在飞行过程中被暴力驱逐之前，拧紧了机身结构上插头出口周围松动的紧固件。机身从供应商 Spirit AeroSystems 位于堪萨斯州威奇托的工厂运出后，工作在波音位于华盛顿州伦顿的工厂完成。此次修复对飞机未受影响一侧的意义尚不清楚，但它证实波音工作人员在组装过程中解决了不合格的部件。美国联邦航空管理局已对波音公司展开调查，以确定该公司是否未能确保其产品的安全运行。]]></description>
-      <guid>https://t.me/hn_summary/68646</guid>
-      <pubDate>Fri, 12 Jan 2024 14:00:20 GMT</pubDate>
+      <title>[媒体]Instagram 联合创始人凯文·斯特罗姆 (Kevin Systrom) 和迈克·克里格 (Mike Krieger) 正在关闭他们的新闻应用程序，[...]</title>
+      <link>https://t.me/hn_summary/68731</link>
+      <description><![CDATA[Instagram 联合创始人正在关闭他们的 Artifact 新闻应用
+Instagram 联合创始人 Kevin Systrom 和 Mike Krieger 在其新闻应用程序 Artifact 推出仅一年后就关闭了该应用程序。该应用程序使用人工智能向用户推荐新闻文章，但未能获得足够的关注。斯特罗姆在博客文章中表示，虽然核心用户群喜欢这款应用，但市场机会还不足以证明持续投资的合理性。 Artifact 将开始逐渐关闭，用户将无法再添加评论或帖子。尽管关闭，Systrom 仍然对人工智能的未来持乐观态度，并很高兴继续构建新事物。]]></description>
+      <guid>https://t.me/hn_summary/68731</guid>
+      <pubDate>Fri, 12 Jan 2024 23:21:34 GMT</pubDate>
     </item>
     <item>
-      <title>问 HN：有一个 /22，用它可以做一些很酷的事情吗？</title>
-      <link>https://t.me/hn_summary/68645</link>
-      <description><![CDATA[询问 HN：有一个 /22，用它可以做很酷的事情？
-标题：问 HN：有一个 /22，可以用它做一些很酷的事情吗？
-
-摘要：这篇文章的作者位于 news.ycombinator.com 分享他们最近获得了 /22 及其 ASN（自治系统编号）。他们正在寻求有关利用这些“大量”IP 地址的有趣且独特的方法的建议。这篇文章邀请社区分享他们对有趣的项目或实验的想法和建议，这些项目或实验可以通过如此重要的 IP 范围来完成。]]></description>
-      <guid>https://t.me/hn_summary/68645</guid>
-      <pubDate>Fri, 12 Jan 2024 13:51:10 GMT</pubDate>
+      <title>X-59 超音速喷气式飞机由洛克希德·马丁公司开发，旨在彻底改变超音速飞行 [...]</title>
+      <link>https://t.me/hn_summary/68730</link>
+      <description><![CDATA[X-59 推出 – 超音速飞行的未来初探
+X-59 超音速喷气式飞机由洛克希德·马丁公司开发，旨在通过将破坏性音爆降至仅重击声来彻底改变超音速飞行。这架开创性的飞机是美国宇航局探索任务的一部分，该任务旨在建立可接受的噪音标准，允许再次在陆地上进行超音速飞行。自 1973 年以来，由于音爆造成的干扰性噪音，法规禁止在陆地上空进行超音速飞行。 X-59 预计将为商业超音速飞行的未来铺平道路，提供更快的飞行时间并为航空开辟新的可能性。参加 2023 年 1 月 12 日美国东部时间下午 4 点举行的 X-59 直播发布会，见证超音速飞行的未来。]]></description>
+      <guid>https://t.me/hn_summary/68730</guid>
+      <pubDate>Fri, 12 Jan 2024 23:16:27 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]作者介绍了一款名为“Stable Diffusion”的新应用程序，可以直接在[...]上运行</title>
-      <link>https://t.me/hn_summary/68644</link>
-      <description><![CDATA[显示 HN：直接在 iPhone 上运行稳定扩散&lt; br /&gt;
-作者介绍了一款名为“Stable Diffusion”的新应用程序，可以直接在 iPhone 上运行。该应用程序具有快捷方式集成，这一点受到高度赞赏。作者表示希望看到该应用程序的未来版本允许用户选择自定义稳定扩散模型并添加 LORA、controlnet、文本嵌入等功能。作者认为，将这些功能提供给快捷方式将是令人惊奇的。]]></description>
-      <guid>https://t.me/hn_summary/68644</guid>
-      <pubDate>Fri, 12 Jan 2024 13:33:57 GMT</pubDate>
+      <title>[媒体]作者讨论Windows和Mac之间的字体高度和对齐差异[...]</title>
+      <link>https://t.me/hn_summary/68729</link>
+      <description><![CDATA[Windows 和 Mac 之间的字体高度差异 (2019) 
+作者讨论了 Windows 和 Mac 操作系统之间的字体高度和对齐方式差异。他们分享了从 Mac 切换到 Windows 时在其网站上遇到首字下沉未对齐的个人经历。作者解释说，问题在于 Windows 和 Mac 上字体上升和下降值的规范不同，这可能会导致垂直对齐差异。他们提供了使用 FontForge 手动编辑字体文件的解决方案。作者还提到了 Android 设备的额外错误修复以及 Firefox 浏览器特定的错误。他们最后提出了有关不同操作系统上文本整体对齐的问题。]]></description>
+      <guid>https://t.me/hn_summary/68729</guid>
+      <pubDate>Fri, 12 Jan 2024 23:15:18 GMT</pubDate>
     </item>
     <item>
-      <title>此网页内容是金融时报 (FT) 订阅服务的简短广告。</title>
-      <link>https://t.me/hn_summary/68643</link>
-      <description><![CDATA[地球有 99 个问题，但指数增长不是其中之一&lt; /a&gt;
-此网页内容是金融时报 (FT) 订阅服务的简短广告。它强调了《金融时报》通过新应用程序在任何设备上的可用性，但澄清订阅不包括访问 ft.com 或 FT 主应用程序。内容不包含任何有争议或令人惊讶的信息。]]></description>
-      <guid>https://t.me/hn_summary/68643</guid>
-      <pubDate>Fri, 12 Jan 2024 13:33:52 GMT</pubDate>
+      <title>[媒体]GitLab 已发布 GitLab 社区版版本 16.7.2、16.6.4 和 16.5.6（[...]</title>
+      <link>https://t.me/hn_summary/68728</link>
+      <description><![CDATA[Gitlab 关键安全版本：16.7.2、16.6.4、16.5 .6
+GitLab 已发布 GitLab 社区版 (CE) 和企业版 (EE) 版本 16.7.2、16.6.4 和 16.5.6。这些版本包含重要的安全修复程序，强烈建议立即升级所有安装。此版本中解决的漏洞是帐户接管问题，其中密码重置电子邮件可能会发送到未经验证的电子邮件地址。该漏洞是通过 GitLab 的 Bug Bounty 计划负责任地报告的。此版本中解决的其他漏洞包括 Slack/Mattermost 集成问题以及绕过 CODEOWNERS 批准的问题。亚搏体育appGitLab致力于维持高安全标准，并已实施预防措施来保护客户。]]></description>
+      <guid>https://t.me/hn_summary/68728</guid>
+      <pubDate>Fri, 12 Jan 2024 23:10:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
