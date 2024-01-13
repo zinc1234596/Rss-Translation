@@ -4,7 +4,21 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sat, 13 Jan 2024 00:49:42 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jan 2024 03:11:52 GMT</lastBuildDate>
+    <item>
+      <title>PaintPotion 简介：一款用于生成矢量插图的人工智能工具</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/195bitj/introducing_paintpotion_an_aipowered_tool_for/</link>
+      <description><![CDATA[您好r/ArtificialInteligence社区！&lt; /p&gt; 我很高兴能分享一个我作为人工智能和创意设计领域的独立制作者一直热情开发的项目。我创建了一个名为 PaintPotion 的 SaaS，它利用机器学习来帮助用户快速生成时尚且一致的矢量插图通过简单的文本提示。 以下是 PaintPotion 的特殊之处：  它的设计可以在几秒钟内完成。你输入一个提示，人工智能就会按照你选择的风格召唤出多个独特的向量。 “变量”功能允许快速细化，有效地迭代初始概念。 用户可以将他们选择的插图导出为 SVG 或 PNG 格式，为各种应用做好准备。  作为一名独立开发者，我既是这项工作背后的大脑也是双手，我的愿景是创建一个工具，在人工智能驱动的同时，仍然为个人接触和创意输入留下充足的空间。 概览：  PaintPotion 目前处于积极开发阶段，处于测试阶段，旨在根据用户反馈进行改进。 定价模型是一个积分系统：每个插图生成或 SVG 转换需要 10 个积分。 我们准备转向订阅模式，但目前提供独家预售包。  无论您是希望加快设计流程的网络机构，还是欣赏 AI 帮助的创意人士，我相信 PaintPotion 都能为您提供帮助。 我们提供有关入门的文档和详细信息在这里： https://paint-potion.com 我将不胜感激来自这个精通人工智能的社区的反馈。具体来说，我很好奇您对人工智能在支持创意过程中的作用的看法，以及您可能会发现这样的工具有哪些功能是有益的。 感谢您允许我分享，我想期待与大家互动！   由   提交/u/Bryanoxx  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/195bitj/introducing_paintpotion_an_aipowered_tool_for/</guid>
+      <pubDate>Sat, 13 Jan 2024 01:11:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>我正在尝试重写一首歌的歌词</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/195bfvt/im_trying_to_rewrite_the_lyrics_to_a_song/</link>
+      <description><![CDATA[在大学里，我和我的朋友们会唱 3 Days Grace 中的歌曲 Riot，但会重写副歌部分，说“Let&#39;s to Ryan&#39;s, Ryan&#39;s”，因为其中之一的名字叫瑞安。我正在尝试了解需要哪些人工智能工具来重写该歌曲的歌词，以匹配“Let&#39;s to to Ryan”的主题。  我想我可以分离出人声，这很容易。我可以轻松地让人工智能按照我想要的方式重写歌曲的歌词。但是有谁知道我可以用一个好的人工智能工具来唱出 Adam Gontier 声音中的歌词吗？   由   提交 /u/DuelRevolvers   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/195bfvt/im_trying_to_rewrite_the_lyrics_to_a_song/</guid>
+      <pubDate>Sat, 13 Jan 2024 01:07:48 GMT</pubDate>
+    </item>
     <item>
       <title>AutoGluon-TimeSeries：Amazon Research 的时间序列预测库</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/195amur/autogluontimeseries_a_timeseries_forecasting/</link>
@@ -20,25 +34,11 @@
       <pubDate>Sat, 13 Jan 2024 00:05:57 GMT</pubDate>
     </item>
     <item>
-      <title>帮助微调大型语言模型</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1957zbs/help_with_finetuning_a_large_language_model/</link>
-      <description><![CDATA[我有一个经过微调的法学硕士，用于诊断心理健康问题并帮助用户进行认知行为治疗。 该模型是对单个问答数据进行了微调，如下所示： {&#39;Person&#39;：“我最近感到非常悲伤和不知所措。工作已经成为我的巨大压力来源。 “心理学家”：“嘿，我来这里是为了倾听和支持你。”听起来最近工作很有挑战性。你能告诉我更多关于发生了什么事吗？&#39;} 其中“Person”键对应的值是用户输入，“Assistant”值是治疗师的答案（即 LLM 输出） ）。 然后，将微调后的模型放入对话链中以利用内存缓冲区，其中提示具有以下语法： “”” 以下是人类和AI之间的对话。人工智能的行为就像治疗师一样，治疗基于认知行为疗法。您必须避免任何形式的伤害和不好的建议。你必须倾听人类的声音并使其感到舒适。你必须具有同理心，如果没有要求或者你不确定自己在说什么，就不要提供任何类型的解释。您必须随着时间的推移帮助该人实践亲社会行为。提出问题并对谈话表现出真正的兴趣。保持脱离 当前对话： {history} 人：{input} AI：  “”” 而且，我还有一大套相关的心理学书籍和文章，可以作为LLM培训的一部分。 因此，我有几个疑问：  根据患者和治疗师之间的单一问答或完整对话来微调模型更好吗？ 为了利用上述书籍和文章中包含的所有信息，我应该如何进行模型训练？我可以对心理学书籍进行中间微调，然后对问答数据进行微调，还是应该重新训练所有模型（包括书籍）作为原始训练标记的一部分？ 对话链的描述是某种东西吗？对于AI角色至关重要还是可以跳过？   由   提交/u/Repulsive_Ad_2230   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1957zbs/help_with_finetuning_a_large_language_model/</guid>
-      <pubDate>Fri, 12 Jan 2024 22:37:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>电子邮件页脚</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1957qw1/email_footer/</link>
-      <description><![CDATA[我使用 Spark email 的 AI 回复了很多电子邮件。有人在页脚警告人工智能可能已经回答了吗？有点像“这条消息是在 iPhone 上写的，请原谅简洁”等等。如果不是，它听起来可能有点机械化   由   提交 /u/Suitable-Hawk2939    reddit.com/r/ArtificialInteligence/comments/1957qw1/email_footer/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1957qw1/email_footer/</guid>
-      <pubDate>Fri, 12 Jan 2024 22:27:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>深度学习背后的数学理论 - 为什么它有效？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1957mht/mathematical_theory_behind_deep_learning_why_does/</link>
-      <description><![CDATA[我知道神经网络是通用函数逼近器，但它们似乎可以逼近无限多个函数。那么为什么神经网络如此擅长插值数据呢？  深度学习背后是否有数学理论？你们为此推荐了哪些资源？   由   提交/u/Bchalup2348   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1957mht/mathematical_theory_behind_deep_learning_why_does/</guid>
-      <pubDate>Fri, 12 Jan 2024 22:22:46 GMT</pubDate>
+      <title>Rabbit 的 R1 设备 24 小时内售罄</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/195752c/rabbits_r1_device_sells_out_in_24_hours/</link>
+      <description><![CDATA[https://www.freethink .com/robots-ai/rabbit-r1 设备侧面的按钮让我想起了三星手机上使用的 Bixby 特殊按钮！！ 我想知道三星是否会在 1 月 17 日为三星手机推出类似或接近的产品。 https://news.samsung .com/au/video-samsung-opens-a-portal-to-new-mobile-ai-possibilities-in-las-vegas-on-spheres-exosphere-before-unpacked-2024?utm_source=rss&amp;utm_medium=direct  对 R1 设备有什么想法吗？无论我如何处理，我仍然认为通过一个应用程序和类似于 Rabbit 的 AI 的服务，这可以在任何智能手机上完成。因此，我们可以拥有一个主应用程序（个人助理或个人代理，无论您如何称呼它）来训练和利用所有其他应用程序以及基于网络的服务。   由   提交 /u/Dr_Locomotive   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/195752c/rabbits_r1_device_sells_out_in_24_hours/</guid>
+      <pubDate>Fri, 12 Jan 2024 22:02:32 GMT</pubDate>
     </item>
     <item>
       <title>失业后的目的问题</title>
