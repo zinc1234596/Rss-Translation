@@ -4,7 +4,15 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Mon, 15 Jan 2024 00:54:06 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jan 2024 03:13:46 GMT</lastBuildDate>
+    <item>
+      <title>将 Stripe Pricing 集成到 Web 应用程序中的最快方法</title>
+      <link>https://feed.indiehackers.world/post/2caafceb9b</link>
+      <description><![CDATA[对于将 Stripe 集成到 React + Firebase 应用中进行订阅的独立黑客来说，关键任务包括设置 Stripe 的定价表和 Webhook。该过程包括配置用于订阅管理的 UI、处理 Stripe 事件以及链接 Stripe 客户数据。
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/2caafceb9b</guid>
+      <pubDate>Mon, 15 Jan 2024 01:14:17 GMT</pubDate>
+    </item>
     <item>
       <title>墨尔本 Stripe 社区聚会</title>
       <link>https://feed.indiehackers.world/post/77ad95a44a</link>
@@ -170,20 +178,6 @@ Discord 独立黑客聊天广告这里]]></description>
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/3e813f84f2</guid>
       <pubDate>Sun, 14 Jan 2024 05:36:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 Telegram 中使用语音轻松记笔记</title>
-      <link>https://feed.indiehackers.world/post/bea29ffd68</link>
-      <description><![CDATA[我在 Telegram 中创建了一个语音转录机器人。
-您向机器人发送语音留言，它会回复转录内容。
-您可以随时总结笔记并查看转录历史记录。
-每位用户均可免费获得 5 分钟转录时间。
-该机器人的价格为 2.99 美元/周或 9.99 美元/月。
-在有限的时间内，我以 27.99 美元的价格提供 LTD。
-您可以在这里找到它：https://telegram.me/voice_transcribe_notes_bot
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/bea29ffd68</guid>
-      <pubDate>Sun, 14 Jan 2024 05:34:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
