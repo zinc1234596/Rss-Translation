@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Mon, 15 Jan 2024 18:15:54 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jan 2024 00:27:39 GMT</lastBuildDate>
     <item>
-      <title>[媒体]作者是一名软件工程师，分享了他们构建低成本裸机的经验 [...]</title>
-      <link>https://t.me/hn_summary/69171</link>
-      <description><![CDATA[基于 USB4 的高速 10Gbps 全网状网络仅需 47.98 美元
-作者是一名软件工程师，分享了他们构建低成本裸机 Kubernetes 集群和高速全网状互连网络的经验。作者没有使用传统的以太网交换机和电缆，而是使用了 USB4 以太网桥，它提供了 11Gbps 的网络速度。他们讨论了使用迷你 PC 代替标准 1U 服务器的成本节约和功耗优势。作者还解释了他们如何使用 NixOS 配置网络并提供基准测试结果。他们对为什么网络速度上限为 11Gbps 而不是预期的 20Gbps 或 40Gbps 表示好奇。 （根据 89% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/69171</guid>
-      <pubDate>Mon, 15 Jan 2024 18:15:54 GMT</pubDate>
+      <title>Bluesky 是一个社交媒体平台，最近推出了 RSS 提要，使用户能够获得 [...]</title>
+      <link>https://t.me/hn_summary/69225</link>
+      <description><![CDATA[Bluesky 已推出 RSS feed
+社交媒体平台 Bluesky 最近推出了 RSS feed，允许用户获取任何 Bluesky 用户的 RSS feed。这些提要与 RSS 阅读器和 RSS 浏览器扩展配合良好，可以轻松发现和访问用户的 RSS 提要。然而，指向用户 RSS 提要的链接很长并且不容易记住。此外，Bluesky RSS 源的初始版本在源全文中不包含可点击的链接，需要用户导航到 Bluesky 网站才能访问这些链接。尽管存在这些限制，Bluesky RSS 源的推出还是显示出了希望，用户可以向 Bluesky 团队提供反馈以进行进一步改进。 Open RSS 是一个非营利组织，也通过其网站提供 Bluesky RSS 源。]]></description>
+      <guid>https://t.me/hn_summary/69225</guid>
+      <pubDate>Tue, 16 Jan 2024 00:27:39 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 这个项目是一个用 Rust 用 SDL2 编写的最小工作游戏，编译为 WASM（我们 [...]</title>
-      <link>https://t.me/hn_summary/69170</link>
-      <description><![CDATA[一个最小的 Rust / SDL2 / WASM 浏览器游戏 
-该项目是一个用 Rust 使用 SDL2 编写的最小工作游戏，编译为 WASM (WebAssembly)。它提供了将游戏构建为桌面独立二进制可执行应用程序或 WASM 应用程序的说明。该项目需要安装rustup、git和SDL2开发库。它还需要安装目标架构工具链和 emscripten 编译器来构建 WASM 应用程序。作者提到该项目基于其他作品，并提供了 Mozilla 的 Rust to WASM 指南的链接，以获得不使用 SDL2 的更简单示例。]]></description>
-      <guid>https://t.me/hn_summary/69170</guid>
-      <pubDate>Mon, 15 Jan 2024 18:12:45 GMT</pubDate>
+      <title>[媒体]此网络内容的作者反对将编程变成 [...]</title>
+      <link>https://t.me/hn_summary/69224</link>
+      <description><![CDATA[停止将编程变成一种宗教
+该网络内容的作者反对将编程变成宗教的趋势。他们将宗教信仰的演变与科学理解的演变进行比较，强调知识和适当的编程培训的重要性。作者批评了对 YouTube 教程的依赖以及对计算机系统如何工作缺乏了解。他们强调了盲目追随编程趋势和框架而不了解其基本原理的危险。作者鼓励程序员对自己的代码负责，并不断学习和学习，以便在该领域取得成功。]]></description>
+      <guid>https://t.me/hn_summary/69224</guid>
+      <pubDate>Tue, 16 Jan 2024 00:17:28 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 据报道，苹果准备提前将 App Store 拆分为两个独立的实体 [...]</title>
-      <link>https://t.me/hn_summary/69169</link>
-      <description><![CDATA[App Store 将在欧盟 iPhone 侧载之前“一分为二”截止日期
-据报道，苹果正准备在欧盟启用应用侧载的最后期限之前将应用商店拆分为两个独立的实体。此举是为了响应欧盟的数字市场法案，该法案将要求苹果允许用户安装第三方应用商店和侧载应用程序。苹果首席执行官蒂姆·库克最近会见了欧盟反垄断负责人，讨论了这些义务。 App Store 的变化预计将在未来几周内推出。 DMA 预计将为欧洲的 App Store、FaceTime 和 Siri 带来重大变化。]]></description>
-      <guid>https://t.me/hn_summary/69169</guid>
-      <pubDate>Mon, 15 Jan 2024 18:03:34 GMT</pubDate>
+      <title>[媒体]本文讨论了维多利亚时代玻璃火焰手榴弹的历史和使用，这些手榴弹是[...]</title>
+      <link>https://t.me/hn_summary/69223</link>
+      <description><![CDATA[维多利亚时代玻璃火焰手榴弹的美丽与危险&lt; br/&gt;
+本文讨论了维多利亚时代玻璃火手榴弹的历史和用途，这是一种装满盐水或四氯化碳的装饰性玻璃瓶，用于灭火。这些手榴弹被设计为扔到火的底部或悬挂在天花板上以释放其内容物。虽然它们美观，但由于尺寸小，其有效性不确定。手榴弹中使用四氯化碳引起了争议，因为后来发现它对人体健康有害，并且可以与水反应形成危险气体。尽管有这些缺点，手榴弹仍然使用了大约四十年。伦敦消防队博物馆计划在其新博物馆中展示这些物品，以教育游客有关消防安全的知识。]]></description>
+      <guid>https://t.me/hn_summary/69223</guid>
+      <pubDate>Tue, 16 Jan 2024 00:16:21 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]世界经济论坛（WEF）将讨论如何预防未来的未知疾病 [...]</title>
-      <link>https://t.me/hn_summary/69168</link>
-      <description><![CDATA[WEF 计划应对接下来发生的任何大流行病 
-世界经济论坛 (WEF) 将在即将举行的达沃斯会议上讨论如何预防未来一种名为“X 疾病”的未知疾病。 X 病是世界卫生组织 (WHO) 自 2017 年以来将其确定为研究重点的病原体。世界卫生组织多次警告称，未来的大流行可能迫在眉睫。流行病防范创新联盟首席科学作家凯特·凯兰 (Kate Kelland) 表示，预防 X 病需要对已知病毒家族进行广泛研究。希望有了全球知识库和研究框架，未来的 X 病大流行可以在 100 天内被消除。然而，这一努力需要国际合作和资源。]]></description>
-      <guid>https://t.me/hn_summary/69168</guid>
-      <pubDate>Mon, 15 Jan 2024 17:47:23 GMT</pubDate>
+      <title>[媒体] Faysal Bibi 和 Juan L. 进行的一项研究</title>
+      <link>https://t.me/hn_summary/69222</link>
+      <description><![CDATA[消失的巨人：研究揭示非洲大型哺乳动物的衰落
+Faysal Bibi 和 Juan L. Cantalapiedra 进行的一项研究揭示了过去 1000 万年来非洲大型哺乳动物的数量正在减少。通过分析牙齿化石，研究人员能够重建这些哺乳动物的体型和种群数据。他们发现动物的体型与其种群数量之间存在相关性，较大的物种具有较低的种群密度。令人惊讶的是，体重在 15 至 45 公斤之间的哺乳动物被发现数量低于预期，这可能是由于它们在稀树草原栖息地中很稀有。该研究还挑战了人类是巨型动物数量减少的主要驱动因素的观点，表明环境因素发挥了重要作用。该研究为生态系统动态提供了宝贵的见解，并可为保护工作提供信息。]]></description>
+      <guid>https://t.me/hn_summary/69222</guid>
+      <pubDate>Mon, 15 Jan 2024 23:41:01 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 空中客车公司的历史可以追溯到空中客车工业 GIE 联盟的成立 [...]</title>
-      <link>https://t.me/hn_summary/69167</link>
-      <description><![CDATA[空中客车公司的历史
-空中客车公司的历史可以追溯到 1970 年空中客车工业 GIE 财团的成立。多年来，各种并购塑造了公司的面貌。 2000年，欧洲航空防务航天公司（EADS）通过航空航天公司、DASA和Construcciones Aeronauticas合并成立。 EADS 随后从 BAE Systems 手中收购了 Airbus Industrie GIE 的剩余股份。 2014年，欧洲宇航防务集团更名为空中客车集团NV和SE。空中客车公司是空中客车公司、空中客车防务与航天公司以及空中客车直升机公司的控股公司。该公司于 2018 年 4 月更名为现名。（根据故事文本的 18% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/69167</guid>
-      <pubDate>Mon, 15 Jan 2024 17:44:15 GMT</pubDate>
+      <title>[媒体]作者分享了他们尝试使用 v [...] 拍摄长曝光照片的经验</title>
+      <link>https://t.me/hn_summary/69221</link>
+      <description><![CDATA[视频中的长曝光图像
+作者分享了他们尝试使用视频而不是ND滤镜来拍摄长时间曝光照片的经验。他们提供了有关如何使用命令行脚本和工具（如 ffmpeg、alignimagestack 和 imagemagick）将视频转换为长曝光图像的分步指南。作者还提供了他们所取得的结果的示例，强调了三脚架稳定视频和手持拍摄之间的差异。他们的结论是，虽然照片的质量可能不太好，但这仍然是一个有趣的实验，并建议将来使用间隔计应用程序来获得更高分辨率的图像。]]></description>
+      <guid>https://t.me/hn_summary/69221</guid>
+      <pubDate>Mon, 15 Jan 2024 23:32:53 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]麻省理工学院微硕士项目提供了一个独特的机会来促进您的职业生涯和学术发展 [...]</title>
-      <link>https://t.me/hn_summary/69166</link>
-      <description><![CDATA[麻省理工学院微大师
-麻省理工学院微硕士项目提供了一个独特的机会来推进你的职业生涯并加速你的硕士学位。通过在线学习并通过数字监考考试，您可以获得麻省理工学院的宝贵证书。该计划还允许您成为麻省理工学院校友会的附属会员，让您可以访问专业期刊和出版物。此外，您还可以通过与其他获得 MicroMasters 计划证书的专业人士联系来拓展您的人际网络。该计划提供了一种方便且经济实惠的方式来提升您的专业形象并获得宝贵的技能。]]></description>
-      <guid>https://t.me/hn_summary/69166</guid>
-      <pubDate>Mon, 15 Jan 2024 17:43:07 GMT</pubDate>
+      <title>[媒体] 据报道，苹果计划从其最新的 smartw 中删除血氧功能 [...]</title>
+      <link>https://t.me/hn_summary/69220</link>
+      <description><![CDATA[Masimo 表示，苹果将取消血氧工具以避免禁令&lt; /a&gt;
+据报道，苹果计划从其最新的智能手表 Series 9 和 Ultra 2 中删除血氧功能，以避免美国对这些设备的禁令。这一决定是由于苹果公司与披露苹果计划的 Masimo Corp. 之间的专利纠纷而做出的。 Masimo Corp. 表示，美国海关和边境保护局已批准此举，表明重新设计将使苹果能够继续销售其手表。血氧功能一直是一个有争议的话题，一些人质疑其准确性和实用性。]]></description>
+      <guid>https://t.me/hn_summary/69220</guid>
+      <pubDate>Mon, 15 Jan 2024 23:31:45 GMT</pubDate>
     </item>
     <item>
-      <title>网络内容的作者分享了他们尝试微调 OpenAI 语言的经验 [...]</title>
-      <link>https://t.me/hn_summary/69165</link>
-      <description><![CDATA[（不成功）微调GPT播放“Connections”
-该网络内容的作者分享了他们尝试微调 OpenAI 语言模型来玩文字游戏“Connections”的经验。他们尝试使用不同的模型和提示，但没有取得太大进展。然后他们发现该游戏有一个类似于 Wordle 的 JSON API，并收集了过去的游戏解决方案。作者编写了一个脚本来收集数据并创建了一个 jsonl 文件来上传以进行微调。他们根据代币数量估算了工作的价格，并进行了微调工作。作者分享了他们的微调过程和成本的经验。他们还提到在游戏上测试微调模型。 （根据 35% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/69165</guid>
-      <pubDate>Mon, 15 Jan 2024 17:40:57 GMT</pubDate>
+      <title>[媒体]Oppo 推出了 Find X7 和 Find X7 Ultra 智能手机，突出了其 [...]</title>
+      <link>https://t.me/hn_summary/69219</link>
+      <description><![CDATA[Oppo Find X7 Ultra：智能手机配备首款双潜望式变焦
+Oppo 推出了 Find X7 和 Find X7 Ultra 智能手机，强调了其突破性的相机功能。 Find X7 Ultra 是首款配备双潜望式变焦摄像头和 1 英寸索尼 LYT-900 传感器的设备，这是智能手机中有史以来最大的长焦传感器。它还提供卫星电话功能，这使OPPO成为继华为之后第二个提供该功能的国产品牌。 Find X7 Ultra 拥有四主摄像头设置，配备 1 英寸索尼 LYT-900 传感器，由高通 Snapdragon 8 Gen 3 平台提供支持。它还配备了 5000mAh 电池，具有快速充电功能。 Find X7 Ultra 在中国大陆发售，起价 5,999 日元（845 美元）。]]></description>
+      <guid>https://t.me/hn_summary/69219</guid>
+      <pubDate>Mon, 15 Jan 2024 23:13:32 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]文章讨论了人类对北边降雪影响的证据 [...]</title>
-      <link>https://t.me/hn_summary/69164</link>
-      <description><![CDATA[人类对北半球降雪影响的证据&lt; br/&gt;
-本文讨论了人类对北半球降雪影响的证据。作者使用两种方法来评估人为气候变化对春季积雪的影响。首先，他们分析了观测到的历史积雪趋势与气候模型模拟之间的相关性。其次，他们生成了一个基于观测的历史积雪集合，以估计如果没有人类引起的温度和降水变化，积雪会是什么样子。该研究使用多种数据源，包括卫星遥感、再分析数据和现场测量。结果强烈表明，人为强迫正在导致观察到的积雪损失模式。 （根据 48% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/69164</guid>
-      <pubDate>Mon, 15 Jan 2024 17:39:50 GMT</pubDate>
+      <title>[媒体] 在 ihavenotv.com，我们精心挑选了一系列免费在线纪录片 [...]</title>
+      <link>https://t.me/hn_summary/69218</link>
+      <description><![CDATA[观看免费在线纪录片
+在 ihavenotv.com，我们精心挑选了一系列免费在线真正值得您花时间的纪录片。我们精选的列表可确保您不会找到任何与宗教、阴谋、外星人或伪科学相关的内容。我们致力于为观众提供基于事实和证据的高质量、内容丰富的纪录片。告别浪费时间寻找值得观看的内容 - 我们已经为您完成了这项工作。探索我们的收藏并通过在线提供的最佳纪录片扩展您的知识。]]></description>
+      <guid>https://t.me/hn_summary/69218</guid>
+      <pubDate>Mon, 15 Jan 2024 23:10:24 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]波音公司曾经是一家受人尊敬的美国公司，以其卓越的工程技术而闻名，现在已经 [...]</title>
-      <link>https://t.me/hn_summary/69163</link>
-      <description><![CDATA[波音出了什么问题
-波音公司曾经是一家受人尊敬的美国公司，以其卓越的工程设计而闻名，但近年来其 737 Max 飞机面临一系列质量问题。最引人注目的事件是 2018 年和 2019 年的两起灾难性事故，导致 Max 停飞近两年。坠机事故是由错误的飞行控制系统引起的，该系统依赖于没有备份的单个传感器的数据。这违反了强调冗余的航空工程原则。波音公司的文化从以工程为中心转向以利润为导向，这被认为是该公司声誉和财务业绩下降的原因。恢复卓越工程文化对于波音未来的成功至关重要。]]></description>
-      <guid>https://t.me/hn_summary/69163</guid>
-      <pubDate>Mon, 15 Jan 2024 17:39:43 GMT</pubDate>
+      <title>[媒体]GE怎么了？</title>
+      <link>https://t.me/hn_summary/69217</link>
+      <description><![CDATA[GE 发生了什么？
+通用电气曾经是世界上最大、最强大的公司，但现在却经历了严重的衰落。其员工大幅减少，股价暴跌。这种失败不是由于创新或欺诈，而是由于复杂业务的管理不善。只有少数人预见到它的到来，作者也承认自己也感到惊讶。 《熄灯：骄傲、妄想和通用电气的衰落》一书详细介绍了导致通用电气垮台的文化、决策和会计。该书揭示了通用电气不惜一切代价追求数字的文化导致了隐藏问题和利用噱头来提高利润。此外，通用电气缺乏合适的人才和系统来有效管理其多元化业务。作者强调，企业很容易犯错误，建议阅读本书以避免类似的陷阱。]]></description>
+      <guid>https://t.me/hn_summary/69217</guid>
+      <pubDate>Mon, 15 Jan 2024 23:05:16 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]这篇文章讨论了日本深受人们喜爱的安慰食品——饭团。</title>
-      <link>https://t.me/hn_summary/69162</link>
-      <description><![CDATA[日本休闲食品：饭团
-这篇文章讨论了日本深受人们喜爱的安慰食品——饭团。 Onigiri，意思是“饭团”，是一种快速、简单且价格实惠的食物，在日本便利店很常见。它可以只用大米和盐制成，也可以将各种馅料和配料混合到大米中。饭团的历史可以追溯到几千年前，但二战后，便利店开始销售饭团，饭团的受欢迎程度开始上升。文章还重点介绍了为改善饭团的包装和新鲜度而进行的工程创新。尽管出现了新的口味和变化，饭团在日本仍然是一种熟悉且令人舒适的食物。]]></description>
-      <guid>https://t.me/hn_summary/69162</guid>
-      <pubDate>Mon, 15 Jan 2024 17:39:35 GMT</pubDate>
+      <title>此 Web 内容是关于 ARMv8 AArch64/ARM64 汇编 La 的综合初学者教程 [...]</title>
+      <link>https://t.me/hn_summary/69216</link>
+      <description><![CDATA[ARMv8 AArch64/ARM64完整初学者汇编教程
+此 Web 内容是有关 ARMv8 AArch64/ARM64 汇编语言的综合初学者教程。作者 Vega 是一位视频游戏作弊代码开发人员，热衷于用各种汇编语言编写代码。本教程由 34 章组成，涵盖基本词汇、内存导航、寄存器、指令格式、基本指令、逻辑运算、异常基础、浮点运算等主题。作者强调了按连续顺序阅读各章节的重要性，并提供了术语表页供参考。值得注意的是，作者提到英语不是他们的母语，并鼓励读者如果发现任何语法错误或不正确的信息，请与他们联系。]]></description>
+      <guid>https://t.me/hn_summary/69216</guid>
+      <pubDate>Mon, 15 Jan 2024 22:43:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
