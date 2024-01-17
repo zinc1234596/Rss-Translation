@@ -4,7 +4,15 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Wed, 17 Jan 2024 00:53:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jan 2024 03:13:48 GMT</lastBuildDate>
+    <item>
+      <title>为什么从小事做起？从无到有建立私募股权公司发电机。</title>
+      <link>https://feed.indiehackers.world/post/36e3d21342</link>
+      <description><![CDATA[就是这样。感谢您的光临。
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/36e3d21342</guid>
+      <pubDate>Wed, 17 Jan 2024 01:53:00 GMT</pubDate>
+    </item>
     <item>
       <title>在 IH 和 Product Hunt 上分享没有成功。怎么办？</title>
       <link>https://feed.indiehackers.world/post/cb353b4cee</link>
@@ -164,20 +172,6 @@ Discord 独立黑客聊天广告这里]]></description>
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/e4c03ce3c8</guid>
       <pubDate>Tue, 16 Jan 2024 14:52:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>Solidity 如何改变您的区块链项目</title>
-      <link>https://feed.indiehackers.world/post/15d4d30f0e</link>
-      <description><![CDATA[以下是一些需要牢记的 Solidity 最佳实践：
-&lt;强&gt;1。使用最新版本的 Solidity
-Solidity 是一种积极开发的语言，会定期更新和改进。始终使用最新的 Solidity 版本以利用错误修复、新功能和安全增强功能非常重要。
-&lt;强&gt;2。启用编译器警告
-Solidity 提供了各种编译器警告，可以帮助识别代码中的潜在问题和漏洞。建议启用这些警告并适当解决它们，以确保智能合约的完整性。
-&lt;强&gt;3。避免使用已弃用的功能
-在 Solidity 中，某些功能会随着时间的推移而被弃用，因此您应该避免在代码中使用它们，而是使用推荐的替代方案来确保兼容性和面向未来。
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/15d4d30f0e</guid>
-      <pubDate>Tue, 16 Jan 2024 14:36:11 GMT</pubDate>
     </item>
     </channel>
 </rss>

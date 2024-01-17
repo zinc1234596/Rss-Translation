@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 17 Jan 2024 00:52:49 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jan 2024 03:13:20 GMT</lastBuildDate>
+    <item>
+      <title>VersionFox：跨平台且可扩展的 SDK 版本管理器，asdf-vm 的替代品。</title>
+      <link>https://www.reddit.com/r/opensource/comments/198kvum/versionfox_a_crossplatform_and_extendable_sdk/</link>
+      <description><![CDATA[   /u/aooohan  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/198kvum/versionfox_a_crossplatform_and_extendable_sdk/</guid>
+      <pubDate>Wed, 17 Jan 2024 02:02:03 GMT</pubDate>
+    </item>
     <item>
       <title>2023 年最佳开源版本</title>
       <link>https://www.reddit.com/r/opensource/comments/198jamd/best_open_source_release_in_2023/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[每当我暂停音乐超过一分钟时，即使最近的应用程序处于锁定状态，vi 音乐也会自行关闭。有什么帮助吗？   由   提交/u/DontDisturbMeNow   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/197x5ao/vi_music_dies_in_background/</guid>
       <pubDate>Tue, 16 Jan 2024 07:27:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>Blender 是最好的开源视频编辑软件吗？</title>
-      <link>https://www.reddit.com/r/opensource/comments/197vlv3/is_blender_the_best_open_source_video_editing/</link>
-      <description><![CDATA[ 由   提交 /u/Ricoreded   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/197vlv3/is_blender_the_best_open_source_video_editing/</guid>
-      <pubDate>Tue, 16 Jan 2024 05:56:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
