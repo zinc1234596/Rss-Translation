@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Thu, 18 Jan 2024 03:07:12 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jan 2024 05:48:41 GMT</lastBuildDate>
     <item>
-      <title>[媒体] 本文讨论了 HTMX 上下文中 Web 组件的使用，HTMX 是一种 JavaScript [...]</title>
-      <link>https://t.me/hn_summary/69619</link>
-      <description><![CDATA[Htmx 和 Web 组件：完美匹配
-本文讨论了在 HTMX 上下文中使用 Web 组件，HTMX 是一个 JavaScript 库，允许从任何 HTML 元素发出 HTTP 请求。作者强调了使用 SPA 框架创建可重用 UI 组件的局限性，并介绍了 Web 组件作为解决方案。他们解释了如何使用 JavaScript 创建 Web 组件并演示了该过程的简单性。作者还提出了使用 HTML 属性配置 Web 组件的约定。本文提供了使用 Web 组件和 HTMX 的解决方案的演练，展示了灵活性和易用性。总的来说，本文提倡使用 Web 组件作为创建可重用且与框架无关的组件的一种方式。 （根据 47% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/69619</guid>
-      <pubDate>Thu, 18 Jan 2024 03:07:12 GMT</pubDate>
+      <title>[媒体]富士通已就其在英国邮局丑闻中所扮演的角色道歉，并承认 [...]</title>
+      <link>https://t.me/hn_summary/69634</link>
+      <description><![CDATA[富士通对其软件帮助将无辜者送进监狱深感抱歉
+富士通为其在英国邮政丑闻中所扮演的角色道歉，承认其错误的会计软件导致数百名邮政员工受到错误起诉。该公司联合首席执行官保罗·帕特森(Paul Patterson)在英国议会商业和贸易委员会举行的听证会上表示悔恨，并承认富士通系统存在缺陷和错误，导致了起诉。这起丑闻被称为英国历史上最严重的误判，导致许多无辜的副邮政局长入狱并遭受经济损失。富士通表示，它有道德义务为受害者提供赔偿。]]></description>
+      <guid>https://t.me/hn_summary/69634</guid>
+      <pubDate>Thu, 18 Jan 2024 05:48:41 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]本文讨论了 AWS 中有关 IPv4 地址收费即将发生的变化 [...]</title>
-      <link>https://t.me/hn_summary/69618</link>
-      <description><![CDATA[做好准备，IPv6 即将到来
-本文讨论了自 2024 年 2 月 1 日起 AWS 即将对 IPv4 地址收费进行的变化。作者强调，虽然成本对于个人来说似乎很小，但对于 Supabase 等基础设施公司来说可能高达数百万美元。作者探讨了过渡到 IPv6 的困难，包括缺乏 ISP 支持和工具支持。它们提供了示例，说明缺乏 IPv6 支持如何影响各种场景，例如通过 SSH 连接到 Web 服务器或连接到 Supabase 数据库。作者还提到了Supabase为支持IPv6所采取的措施，并为客户提供了适应变化的解决方案。]]></description>
-      <guid>https://t.me/hn_summary/69618</guid>
-      <pubDate>Thu, 18 Jan 2024 03:06:04 GMT</pubDate>
+      <title>[媒体]文章讨论了使用条形码技术来识别和跟踪个人[...]</title>
+      <link>https://t.me/hn_summary/69633</link>
+      <description><![CDATA[条形码蜜蜂 (2020)
+本文讨论了使用条形码技术来识别和跟踪蜂群中的个体蜜蜂。研究人员开发了一种名为 bCode 的小型 QR 码，可以贴在工蜂的胸部。每个 bCode 都带有一个可以实时追踪的唯一编号。在黑暗中观察蜜蜂在蜂巢架上自由飞行的群体，从而实现自然互动。该研究旨在了解社交网络中互动的特征，特别是关注蜜蜂相互传递液体食物的行为。研究人员发现，蜜蜂的通信网络是突发性的，表现出间歇性和不可预测的交互，类似于人类网络。研究发现“东西”通过网络的传播速度比随机网络快 50%，但其原因尚不清楚。]]></description>
+      <guid>https://t.me/hn_summary/69633</guid>
+      <pubDate>Thu, 18 Jan 2024 05:31:30 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 作者 Lars Doucet 分享了失去七岁孩子的毁灭性经历 [...]</title>
-      <link>https://t.me/hn_summary/69617</link>
-      <description><![CDATA[失去我的儿子 – Lars Doucet
-作者拉尔斯·杜塞特 (Lars Doucet) 分享了他七岁的儿子尼古拉斯 (Nikolas) 因心脏骤停和随后的脑损伤而去世的毁灭性经历。他描述了照顾一名脑部严重受损的孩子的巨大悲伤和挑战。杜塞强调承认现实情况、不要抱有虚假希望的重要性。他还讨论了他在生活中所做的改变，包括放弃游戏开发职业，专注于一份更稳定的工作来养家糊口。尽管发生了悲剧，杜塞特仍然保持着韧性，并在悲伤中找到快乐。 （根据 91% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/69617</guid>
-      <pubDate>Thu, 18 Jan 2024 02:55:54 GMT</pubDate>
+      <title>[媒体]阿拉斯加小鸡村的名字是怎么来的？</title>
+      <link>https://t.me/hn_summary/69632</link>
+      <description><![CDATA[阿拉斯加的小鸡村是如何得名的？
+阿拉斯加的小村庄“鸡”的名字有一个流行的起源故事，但这很可能是假的。根据故事，该村庄最初被命名为 Ptarmigan，因为该地区有丰富的鸟类，但定居者无法拼写它，并决定将其称为 Chicken。然而这个故事却被历史学家揭穿了。最广为接受的起源故事是，该村庄因该地区发现的金块的大小而得名，金块的大小与鸡饲料差不多。另一个起源故事表明，该村庄是以早期女性居民的名字命名的，她们被称为“漂亮小鸡”。虽然这个名字的真正起源可能永远不为人知，但这个故事强调了批判性地研究历史来源的重要性。]]></description>
+      <guid>https://t.me/hn_summary/69632</guid>
+      <pubDate>Thu, 18 Jan 2024 04:50:10 GMT</pubDate>
     </item>
     <item>
-      <title>CalendarScan 是一款革命性的应用程序，允许用户轻松扫描任何照片中的事件 [...]</title>
-      <link>https://t.me/hn_summary/69616</link>
-      <description><![CDATA[显示 HN：CalendarScan – 将任何照片中的事件扫描到日历中
-CalendarScan 是一款革命性的应用程序，允许用户使用 AI 技术轻松地将任何照片中的事件直接扫描到手机日历中。只需一张简单的照片，用户就可以快速将重要的日期、日程安排，甚至整个日历添加到他们的个人日历中。该应用程序可在 Google Play 和 App Store 上下载，可供广大用户使用。此外，该应用程序的网络版本将于 2 月 1 日开始提供，提供更多便利和可访问性。告别手动输入事件，迎接使用 CalendarScan 进行日历管理的未来。]]></description>
-      <guid>https://t.me/hn_summary/69616</guid>
-      <pubDate>Thu, 18 Jan 2024 02:49:45 GMT</pubDate>
+      <title>[媒体]此网页内容讨论了一种治疗创伤性脑损伤 (TBI) 的潜在新疗法 [...]</title>
+      <link>https://t.me/hn_summary/69631</link>
+      <description><![CDATA[背包介导的抗炎巨噬细胞疗法治疗 TBI
+该网页内容讨论了一种使用抗炎巨噬细胞治疗创伤性脑损伤 (TBI) 的潜在新疗法。 TBI 是一种使人衰弱的疾病，目前除了急性临床治疗外没有其他治疗方法。慢性炎症在 TBI 的进展中起着负面作用，而免疫细胞疗法具有调节炎症的潜力。具体来说，巨噬细胞非常适合这项任务，因为它们能够感知并迁移到受伤的组织。研究人员开发了一种称为“背包”的盘状微粒，它附着在巨噬细胞上并输送抗炎药物。在仔猪 TBI 模型中，背包介导的巨噬细胞疗法减少了炎症，减少了病变体积，并显示出组织修复的潜力。这项研究强调了基于巨噬细胞的免疫疗法治疗 TBI 的潜力。 （根据故事文本的 12% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/69631</guid>
+      <pubDate>Thu, 18 Jan 2024 04:37:00 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]此 GitHub 项目分析了于 De [...] 提交给 Genbank 的 SARS-CoV-2 序列。</title>
-      <link>https://t.me/hn_summary/69615</link>
-      <description><![CDATA[第一个 SARS-CoV-2 序列已于 2019 年 12 月提交-28
-该 GitHub 项目分析了 2019 年 12 月 28 日提交给 Genbank 的 SARS-CoV-2 序列，即首次公开发布序列的两周前。该序列涵盖了 SARS-CoV-2 基因组的大部分，并包括对疫苗生产至关重要的刺突蛋白。该项目强调了疫情爆发期间快速数据共享的重要性，并对中国政府关于 2020 年 1 月之前未知武汉肺炎爆发原因的说法提出质疑。该项目的与众不同之处在于提供了序列及其元数据的分析，揭示了时间表和中国政府提出的相互矛盾的主张。 （根据故事文本的 42% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/69615</guid>
-      <pubDate>Thu, 18 Jan 2024 02:49:40 GMT</pubDate>
+      <title>[媒体]文章讨论了核武背景下单方面承认的想法[...]</title>
+      <link>https://t.me/hn_summary/69630</link>
+      <description><![CDATA[如何更快地建造新核
+文章讨论了英国核电站建设背景下的单方面承认的想法。正如帕特里克·瓦兰斯爵士所提议的，单方面承认表明，来自其他国家受人尊敬的监管机构的设计和批准应在英国自动接受，从而减少延误和成本。文章重点介绍了欣克利角 C 核电站的案例，这是英国几十年来建造的第一座核电站，其成本明显高于韩国的类似项目。作者认为，对核电站采取单方面认可将有助于更快的建设和更低的成本，同时也让监管机构能够专注于新的设计。]]></description>
+      <guid>https://t.me/hn_summary/69630</guid>
+      <pubDate>Thu, 18 Jan 2024 04:34:50 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]巴拿马严重干旱导致巴拿马运河过境船舶数量减少36% [...]</title>
-      <link>https://t.me/hn_summary/69614</link>
-      <description><![CDATA[干旱影响巴拿马运河交通，扰乱全球贸易&lt; br /&gt;
-巴拿马的严重干旱导致巴拿马运河（世界上最重要的贸易航线之一）的船舶吞吐量减少了 36%。干旱导致运河混乱，造成船只交通拥堵，并引发人们对运河国际航运可靠性的担忧。运河管理人员估计，到 2024 年，水位下降可能会造成 5 亿至 7 亿美元的损失。干旱是由厄尔尼诺天气现象和气候变化造成的，当局正在敦促巴拿马为运河运营和运输寻找新的水源。人类消费。]]></description>
-      <guid>https://t.me/hn_summary/69614</guid>
-      <pubDate>Thu, 18 Jan 2024 02:49:30 GMT</pubDate>
+      <title>[媒体] 一名研究人员发现了近代历史上最大的密码泄露事件之一，其中 [...]</title>
+      <link>https://t.me/hn_summary/69629</link>
+      <description><![CDATA[研究人员发现了近期历史上最大的密码泄露事件之一
+一名研究人员发现了近代历史上最严重的密码泄露事件之一，近 7100 万个独特的凭据被盗，并在互联网上传播了至少四个月。特洛伊·亨特（Troy Hunt），《我被骗了吗？》的运营者违规通知服务，发现地下市场上发布的大量数据。此次泄露事件之所以意义重大，是因为其中近 2500 万个密码以前从未泄露过。这些密码是由恶意软件收集的，这些恶意软件从受感染的计算机中获取凭据，并且它们以明文形式出现，使它们容易受到攻击。此次泄露凸显了使用强而独特的密码和实施双因素身份验证的重要性。]]></description>
+      <guid>https://t.me/hn_summary/69629</guid>
+      <pubDate>Thu, 18 Jan 2024 04:32:43 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Muse 项目是一个命令行界面 (CLI) 背景音乐播放器。</title>
-      <link>https://t.me/hn_summary/69613</link>
-      <description><![CDATA[显示 HN：Muse，CLI 背景音乐播放器 
-Muse 项目是一个命令行界面 (CLI) 背景音乐播放器。它允许用户使用简单的命令来播放、暂停和停止背景音乐。该项目可以通过克隆 GitHub 存储库并使用 Cargo 包管理器构建来安装。 Muse 还可以通过编辑 ~/.muse.conf 文件进行配置，该文件允许用户指定包含音频文件的目录、播放顺序（随机或字母顺序）以及是否从中断处恢复播放。该项目已获得 MIT 许可，欢迎贡献。]]></description>
-      <guid>https://t.me/hn_summary/69613</guid>
-      <pubDate>Thu, 18 Jan 2024 02:48:22 GMT</pubDate>
+      <title>[媒体] 开放表格式（例如</title>
+      <link>https://t.me/hn_summary/69628</link>
+      <description><![CDATA[分析数据集不可避免地需要开放表格格式（例如 Iceberg）
+Apache Iceberg、Apache Hudi 和 Databricks 的 Delta 等开源“表格式”的出现预计将成为企业 IT 架构的重大变革。这些格式允许将分析数据存储在结构良好、可快速查询且可修改的静态文件中。这种向 AWS S3 等云对象存储上以开放表格式存储数据的转变预计将成为企业管理和使用数据的主要主题。这些表格式的主要含义是它们是开源和标准化的，允许任何工具无需锁定即可访问数据。这可以使数据访问民主化并简化数据创新。由于开放标准、成本效益、可靠性、流支持和简单性等优点，开放表格式的采用被认为是不可避免的。]]></description>
+      <guid>https://t.me/hn_summary/69628</guid>
+      <pubDate>Thu, 18 Jan 2024 04:22:34 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Marvin 2.0 是一款轻量级 AI 工程工具包，允许用户构建自然 [...]</title>
-      <link>https://t.me/hn_summary/69612</link>
-      <description><![CDATA[展示 HN：Marvin 2.0 – 轻量级、多模式 AI 工具包
-Marvin 2.0 是一款轻量级人工智能工程工具包，允许用户构建可靠、可扩展且易于信任的自然语言界面。该工具包由专为常见用例设计的各种工具组成，例如编写自定义人工智能驱动的函数、对文本和图像进行分类、提取结构化实体、将文本和图像转换为结构化数据、生成合成数据、从文本或函数创建图像、描述具有自然语言的图像、生成语音以及构建管理持久状态的应用程序。 Marvin 的目标是让尖端人工智能技术感觉就像任何其他功能一样，允许用户将人工智能功能添加到他们的传统软件中，而不需要繁重的管道。该工具包还支持多模式功能，包括图像和音频。用户可以使用 Marvin 的 AI 功能创建自定义的 AI 驱动行为，该功能可以处理难以用代码表达的复杂用例和行为。 Marvin 还为使用 OpenAI 助手 API 构建代理或聊天机器人提供支持。用户只需调用 Marvin 的函数即可生成语音和图像。]]></description>
-      <guid>https://t.me/hn_summary/69612</guid>
-      <pubDate>Thu, 18 Jan 2024 02:48:14 GMT</pubDate>
+      <title>[媒体] Tunnel Rush 是一款令人上瘾的跑步游戏，挑战玩家在旋转的道路上导航 [...]</title>
+      <link>https://t.me/hn_summary/69627</link>
+      <description><![CDATA[显示 HN：隧道冲刺
+Tunnel Rush 是一款令人上瘾的跑步游戏，挑战玩家在旋转隧道中高速行驶，同时避免危险。玩家必须向左或向右移动以躲避危险的障碍物并到达通往下一关的光门。游戏设有一条无尽且色彩缤纷的隧道，墙壁上的图案不断变化，提供令人印象深刻的视觉体验。它还提供了第一人称视角，让玩家感觉更加沉浸在游戏中。排行榜可用于跟踪玩家的排名和分数。该游戏可在网络浏览器上运行，并可在 PC、Android 和 iOS 设备上玩。]]></description>
+      <guid>https://t.me/hn_summary/69627</guid>
+      <pubDate>Thu, 18 Jan 2024 04:21:28 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]谷歌首席执行官桑达尔·皮查伊 (Sundar Pichai) 警告员工，预计今年将有更多裁员，因为 [...]</title>
-      <link>https://t.me/hn_summary/69611</link>
-      <description><![CDATA[Google CEO 告诉员工今年预计会有更多裁员
-谷歌首席执行官桑达尔·皮查伊（Sundar Pichai）警告员工，随着公司专注于其雄心勃勃的目标并投资于其重大优先事项，预计今年将有更多裁员。自1月10日以来，谷歌已经解雇了各个部门的千余名员工，包括硬件、广告销售、信任和安全、购物、地图、政策核心工程和YouTube团队。皮查伊承认，这些裁员规模并不像去年那样广泛，但他证实，更多的“角色消除”即将到来。目标是简化某些领域的执行并提高速度，但全年仍可能做出具体的资源分配决策。]]></description>
-      <guid>https://t.me/hn_summary/69611</guid>
-      <pubDate>Thu, 18 Jan 2024 02:47:06 GMT</pubDate>
+      <title>[媒体] Teller 是一款面向开发人员的开源通用秘密管理器，允许他们 [...]</title>
+      <link>https://t.me/hn_summary/69626</link>
+      <description><![CDATA[Teller：通用秘密管理器，永远不要离开终端使用秘密&lt; /a&gt;
+Teller 是一款面向开发人员的开源通用秘密管理器，允许他们在不离开终端的情况下管理秘密。它旨在解决分散秘密的问题，并为云环境的使用提供简单、干净的工作流程。 Teller 支持各种保管库、密钥存储和云服务，例如 Hashicorp Vault、AWS Secrets Manager 和 Google Secret Manager。它可用于填充当前工作会话中的变量、使用环境变量运行子流程、检查变量、从流程输出中编辑机密、检测机密和值漂移等。作者提到，Teller 的与众不同之处在于提供了一套全面的功能和安全管理秘密的最佳实践。 （根据故事文本的 31% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/69626</guid>
+      <pubDate>Thu, 18 Jan 2024 04:20:20 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 本文讨论了可移植 Web 文档 (PWD) 作为 PDF 的替代品。</title>
-      <link>https://t.me/hn_summary/69610</link>
-      <description><![CDATA[便携式 Web 文档 – 基于 HTML5 和 Web 标准的 PDF 替代品
-本文讨论了可移植 Web 文档 (PWD) 作为 PDF 的替代方案。 PWD 与 PDF 类似，但提供了对视频、图表和其他功能的改进支持。本文重点介绍了 PDF 的局限性，例如静态布局和有限的表单支持，并解释了 PWD 如何结合 PDF 和 HTML 内容的优点。 PWD 本质上是捆绑在 zip 文件存档中的完整 HTML 文档。本文还提到了捕获和存储 PWD 的挑战，包括处理实时 DOM、停用脚本和提取元数据。文章最后提到了针对残疾人的未来计划，包括离线存档、协作以及对视频、音频和交互式图表格式的支持。]]></description>
-      <guid>https://t.me/hn_summary/69610</guid>
-      <pubDate>Thu, 18 Jan 2024 02:46:59 GMT</pubDate>
+      <title>[媒体]根据旧金山联邦储备银行进行的一项研究，产品 [...]</title>
+      <link>https://t.me/hn_summary/69625</link>
+      <description><![CDATA[美联储研究发现远程工作似乎不会影响生产力&lt; /a&gt;
+旧金山联邦储备银行的一项研究显示，自2020年以来，美国那些更适应远程工作的行业的生产率增长并未受到显着影响。研究发现，面对面工作较多的行业并未出现大幅增长。与远程工作安排相比，生产力的提升或下降更大。研究人员表示，几乎没有证据表明向远程和混合工作的转变对生产力增长产生了重大影响。这项研究强调了远程工作的弹性及其维持生产力水平的能力。]]></description>
+      <guid>https://t.me/hn_summary/69625</guid>
+      <pubDate>Thu, 18 Jan 2024 04:03:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
