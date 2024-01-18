@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 18 Jan 2024 06:15:54 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jan 2024 09:12:42 GMT</lastBuildDate>
+    <item>
+      <title>Mehrauli：超现实主义叙事驱动的步行模拟器；我迈向开源游戏开发的第一步（已更新）</title>
+      <link>https://www.reddit.com/r/opensource/comments/199lfsb/mehrauli_a_surrealist_narrativedriven_walking/</link>
+      <description><![CDATA[       由   提交/u/pur__0_0__   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/199lfsb/mehrauli_a_surrealist_narrativedriven_walking/</guid>
+      <pubDate>Thu, 18 Jan 2024 08:29:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>etk - 用于创建图形用户界面的 Ebitengine 工具包</title>
+      <link>https://www.reddit.com/r/opensource/comments/199lekf/etk_ebitengine_tool_kit_for_creating_graphical/</link>
+      <description><![CDATA[   /u/tslocum  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/199lekf/etk_ebitengine_tool_kit_for_creating_graphical/</guid>
+      <pubDate>Thu, 18 Jan 2024 08:26:35 GMT</pubDate>
+    </item>
     <item>
       <title>营销开源项目是另一回事</title>
       <link>https://www.reddit.com/r/opensource/comments/199ffqc/marketing_opensource_projects_is_a_different_beast/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[我目前正在寻找一个允许我创建活动概览的应用程序。 这些活动最多需要 4 周的时间最多 100 名参与者，有许多日常活动，成员可以根据自己所在的小组选择或参与这些活动。计划还包括烹饪团队等信息（哪个小组吃哪些饭菜……）。 &lt; p&gt;之前我创建了一个巨大的 Excel 表格，并用 A3 DIN 打印出来，然后将它们放在一起并在活动中公开悬挂，有更好的方法吗？ 我已经搜索了活动策划工具，所以但没有找到任何有用的东西... 感谢您的帮助和时间   由   提交/u/Foxel05  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/198uio8/event_planner_overview_calendar/</guid>
       <pubDate>Wed, 17 Jan 2024 11:33:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>Prodzilla - 通过简单的 yaml 配置进行综合监控 - 免费在 Shuttle 上托管</title>
-      <link>https://www.reddit.com/r/opensource/comments/198sw2m/prodzilla_synthetic_monitoring_with_simple_yaml/</link>
-      <description><![CDATA[   /u/codingupastorm_  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/198sw2m/prodzilla_synthetic_monitoring_with_simple_yaml/</guid>
-      <pubDate>Wed, 17 Jan 2024 09:44:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>onSubmit：用于输入验证的轻量级 Typescript 实用程序</title>
-      <link>https://www.reddit.com/r/opensource/comments/198rx7x/onsubmit_lightweight_typescript_utilities_for/</link>
-      <description><![CDATA[    /u/Ammarhalees   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/198rx7x/onsubmit_lightweight_typescript_utilities_for/</guid>
-      <pubDate>Wed, 17 Jan 2024 08:34:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
