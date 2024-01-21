@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Sun, 21 Jan 2024 06:03:44 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jan 2024 12:14:46 GMT</lastBuildDate>
     <item>
-      <title>[媒体] 在客户被禁止后，交付公司 DPD 禁用了部分人工智能聊天机器人 [...]</title>
-      <link>https://t.me/hn_summary/70126</link>
-      <description><![CDATA[DPD AI 聊天机器人发誓，称自己“无用”并批评快递公司
-送货公司 DPD 在一名顾客能够让其咒骂和批评该公司后，禁用了部分人工智能聊天机器人。音乐家阿什利·博尚 (Ashley Beauchamp) 试图寻找丢失的包裹，但没有从聊天机器人中获得有用的信息。沮丧之下，他开始尝试，让聊天机器人写一首批评公司的诗，甚至咒骂。博尚在网上分享了这段对话，引起了广泛关注。 DPD 表示，系统更新导致聊天机器人出现异常行为，该机器人已被禁用并更新。 Beauchamp 强调了实施不当的聊天机器人可能造成的挫败感和非个人体验。]]></description>
-      <guid>https://t.me/hn_summary/70126</guid>
-      <pubDate>Sun, 21 Jan 2024 06:03:44 GMT</pubDate>
+      <title>Boehm 垃圾收集器是一种保守的垃圾收集器，可以用作替代品 [...]</title>
+      <link>https://t.me/hn_summary/70149</link>
+      <description><![CDATA[Boehm 垃圾收集器
+Boehm 垃圾收集器是一种保守的垃圾收集器，可以用作 C 和 C++ 编程语言中 malloc 或 new 的替代品。它自动回收不再可访问的内存，允许开发人员分配内存而无需显式释放它。收集器通常由使用 C 作为中间代码或希望促进与 C 库的互操作的编程语言实现使用。它还可以用作 C 和 C++ 程序的泄漏检测器。收集器可与大多数未修改的 C 程序配合使用，将 malloc 和 realloc 调用替换为 GCmalloc 和 GCrealloc 调用。它并不完全可移植，但包含到各种操作系统的端口。该收集器受版权保护，且不提供任何保证。 （根据 74% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/70149</guid>
+      <pubDate>Sun, 21 Jan 2024 12:14:46 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]从大气中吸碳并同时淡化海水？</title>
-      <link>https://t.me/hn_summary/70125</link>
-      <description><![CDATA[从大气中吸收碳并同时淡化海水？ 
-一家名为 Capture6 的初创公司与韩国一家自来水公司签署了一项协议，建立一个将二氧化碳去除技术与海水淡化相结合的试点项目。此次合作旨在清理附近石化中心的污染，同时为该地区的重工业提供淡水。该项目名为“Project Octopus”，将在除碳过程中使用海水淡化过程中的废水，提取盐并将其用作液体吸附剂的原料，与空气中的二氧化碳发生反应。然而，批评者担心这种伙伴关系可能会延续化石燃料的使用，而不是促进更清洁的替代品。该试点设施预计每年仅减少 500 吨二氧化碳，仅占该石化中心 1700 万吨二氧化碳排放量的一小部分。]]></description>
-      <guid>https://t.me/hn_summary/70125</guid>
-      <pubDate>Sun, 21 Jan 2024 06:02:38 GMT</pubDate>
+      <title>[媒体]为什么一切都那么丑陋？</title>
+      <link>https://t.me/hn_summary/70148</link>
+      <description><![CDATA[为什么一切都那么难看？
+网络内容讨论了现代社会中普遍存在的丑陋现象，特别是在建筑和设计领域。作者强调了我们建筑环境中常见的单调、缺乏创造力和低劣的工艺。他们以一座名为“The Josh”的新建筑为例来说明自己的观点，描述其毫无吸引力的外观和粗制滥造的建筑。作者还探讨了这种丑陋背后的原因，包括标准化的制造工艺、严格的设计标准以及全球化资本的影响等因素。他们认为，这种新的丑陋已经渗透到我们生活的各个方面，从家庭用品到汽车再到零售空间。 （根据故事文本的 50% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/70148</guid>
+      <pubDate>Sun, 21 Jan 2024 12:13:40 GMT</pubDate>
     </item>
     <item>
-      <title>为什么我们有红灯右转，是时候取消它了吗？</title>
-      <link>https://t.me/hn_summary/70124</link>
-      <description><![CDATA[为什么我们有红右权，是时候了摆脱它？
-出于安全考虑，在美国，红灯右转的普遍做法正面临审查和潜在的政府限制。红权法是在 20 世纪 70 年代阿拉伯石油禁运期间作为一项节省天然气的措施而引入的，但现在亚特兰大、丹佛和华盛顿特区等城市正在提议或通过法律在某些地区禁止红权。批评者认为，红灯右转会给十字路口带来额外的运动，导致行人和骑自行车的人发生事故。然而，司机、司机权益团体和立法者却表示反对，他们认为红灯右转有助于改善交通流量和速度。围绕红灯右转禁令的争议还包括对交通堵塞、过度治安和交通站点种族差异的担忧。]]></description>
-      <guid>https://t.me/hn_summary/70124</guid>
-      <pubDate>Sun, 21 Jan 2024 05:50:29 GMT</pubDate>
+      <title>[媒体]这篇博文提供了对 Linus Torvalds 的采访摘要，他是 [...]</title>
+      <link>https://t.me/hn_summary/70147</link>
+      <description><![CDATA[Linus Torvalds 谈法学硕士和其他主题
+这篇博文总结了对 Linux 创始人 Linus Torvalds 的采访，内容涉及 Rust、git 和 LLM（大型语言模型）等各种主题。 Torvalds 表示他相信法学硕士将在未来用于代码编写和编程任务，尽管他认为这是一种演变而不是革命性的变化。他还讨论了法学硕士在代码审查和错误检测方面的潜力，强调了他们发现明显错误和提高代码质量的能力。托瓦尔兹对法学硕士的潜力仍然持乐观态度，同时承认有些人可能不同意。这篇文章还引用了 Torvalds 之前的一次采访，其中讨论了人工智能和循环神经网络的未来。]]></description>
+      <guid>https://t.me/hn_summary/70147</guid>
+      <pubDate>Sun, 21 Jan 2024 12:11:34 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 德国一名 IT 顾问因发现并报告安全问题而被罚款 3,000 欧元 [...]</title>
-      <link>https://t.me/hn_summary/70123</link>
-      <description><![CDATA[IT 顾问因敢于揭露劣质安全而被罚款&lt; br/&gt;
-德国的一名 IT 顾问因发现并报告电子商务数据库中的安全漏洞而被罚款 3,000 欧元，该数据库暴露了近 700,000 条客户记录。顾问发现，访问远程服务器的密码以纯文本形式存储在程序文件中，任何人都可以轻松访问。暴露的数据包括客户的个人详细信息，任何可以访问程序文件的人都可以获得。 IT 服务公司淡化了该顾问的调查结果，随后他被指控非法数据访问。法院的判决被批评为阻碍合法的安全研究并允许公司忽视适当的安全措施。]]></description>
-      <guid>https://t.me/hn_summary/70123</guid>
-      <pubDate>Sun, 21 Jan 2024 04:58:10 GMT</pubDate>
+      <title>问 HN：30 年前，我们会在针对人类的网络战争中获胜吗？</title>
+      <link>https://t.me/hn_summary/70146</link>
+      <description><![CDATA[问HN：30年后我们会在与人类的网络战争中获胜吗前？ 50？
+该网络内容的作者提出了一个有趣的问题，即我们是否会在针对不同时期（特别是 30 年前、50 年前和 70 年前）的人类的网络战争中获胜。他们质疑我们先进的工具和知识是否会给我们带来优势，或者旧系统是否接近基础知识会让它们更具主导地位。作者还想知道，知识和技术的变化是否已经发展得如此之快，以至于我们甚至可能不知道如何与那个时代的系统进行通信。他们提到了一种假设场景，即试图入侵并接管整个系统，以确定哪一方在计算方面更具主导地位。作者还思考了现代计算的力量以及人类在科技行业已经走了多远。]]></description>
+      <guid>https://t.me/hn_summary/70146</guid>
+      <pubDate>Sun, 21 Jan 2024 11:44:21 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Games That Weren 网站发现了一款​​以前不为人知的游戏，名为 Stuntman [...]</title>
-      <link>https://t.me/hn_summary/70122</link>
-      <description><![CDATA[不是的游戏：特技演员 Seymour
-Games That Weren 网站发现了一款​​以前不为人知的游戏，名为 Stuntman Seymour，由 Genesis Software 于 20 世纪 90 年代初为 Codemasters 开发。该游戏是广受欢迎的 CJ&#39;s Elephant Antics 的衍生作品，几乎于 1992 年完成，但被推迟并最终从未发行。该游戏是为 Commodore Amiga 开发的，其图形由已故的 Brian Hartley 设计。该游戏被取消的原因尚不清楚，但可能是由于 Codemasters 转向主机游戏并引入了更严格的游戏开发流程。该游戏现已保存并可供下载。]]></description>
-      <guid>https://t.me/hn_summary/70122</guid>
-      <pubDate>Sun, 21 Jan 2024 04:55:04 GMT</pubDate>
+      <title>[媒体] Pfuzz 是一款网络模糊测试工具，可根据用户定义的单词列表和 URL 生成请求。</title>
+      <link>https://t.me/hn_summary/70145</link>
+      <description><![CDATA[展示 HN：Pfuzz，一个遵循 Unix 哲学的网络模糊器
+Pfuzz 是一种网络模糊测试工具，可根据用户定义的单词列表和 URL 生成请求。它受到 ffuf 的启发，但其与众不同之处在于，它以 httpipe 格式将生成的请求输出到 stdout，而不是发送它们。该工具可用于模糊 Web 应用程序中的路径、标头和有效负载。它支持多个单词列表、自定义占位符以及 HTTP 标头和方法的各种选项。作者提到了未来潜在的改进，例如允许覆盖生成的 Host 和 Content-Length 标头。可以使用预编译的二进制文件或使用“go install”命令来安装该工具。]]></description>
+      <guid>https://t.me/hn_summary/70145</guid>
+      <pubDate>Sun, 21 Jan 2024 11:37:13 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在波特兰东北部，一位英雄妇女在目睹了 [...]</title>
-      <link>https://t.me/hn_summary/70121</link>
-      <description><![CDATA[英雄妇女在目睹另外 3 人触电身亡后救下了婴儿
-在波特兰东北部，一名英雄妇女在目睹另外三人触电身亡后，冒着生命危险拯救一名婴儿。 18 岁的马吉亚·华盛顿 (Majiah Washington) 毫不犹豫地伸出援手，无视潜在的触电危险。事件发生时，一根电线被一根树枝撞到一辆汽车顶部。三名受害者下车时遇到带电电线，导致死亡。华盛顿在一家日托中心工作，她从窗户看到了倒下的电线，于是冲出去帮忙。尽管 911 接线员发出警告，她还是成功救出了婴儿，没有受伤。三人的死因仍在调查中。]]></description>
-      <guid>https://t.me/hn_summary/70121</guid>
-      <pubDate>Sun, 21 Jan 2024 04:50:57 GMT</pubDate>
+      <title>[媒体]此网页内容的作者声称畅销书作家马克·道森是一个连载 [...]</title>
+      <link>https://t.me/hn_summary/70144</link>
+      <description><![CDATA[我相信畅销书作者 Mark Dawson 是连续抄袭者 
+该网络内容的作者声称畅销书作家马克·道森是连环抄袭者。他们提供了道森书中的几个段落示例，这些段落与其他来源的段落惊人相似，表明道森抄袭了它们。作者还提到，他们在短短几个小时的搜索中就发现了这些例子，并认为道森的其他书中可能存在更多抄袭的例子。他们对道森（据报道已售出 600 万本书）在参与自助出版界同时从事剽窃行为表示失望。作者最后表示，他们已向多家媒体通报了调查结果，并将继续寻找更多抄袭的例子。 （根据故事文本的 61% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/70144</guid>
+      <pubDate>Sun, 21 Jan 2024 11:31:06 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]此网页内容详细说明了如何构建您自己的注入模型 [...]</title>
-      <link>https://t.me/hn_summary/70120</link>
-      <description><![CDATA[如何构建自己的注塑机
-此网页内容详细说明了如何构建自己的注塑机。本文讨论了机器的设计和部件，包括加热带、硅胶套、注射管机构、空气系统和电气系统。该机器的创造者遇到了挑战并做出了设计决策，以确保高效且有效的运行。本文还包括使用机器的技巧，并提出了创建模具的替代方法。内容内容丰富，为那些有兴趣建造自己的注塑机的人提供了宝贵的见解。]]></description>
-      <guid>https://t.me/hn_summary/70120</guid>
-      <pubDate>Sun, 21 Jan 2024 04:16:43 GMT</pubDate>
+      <title>[媒体]这篇文章讨论了首席烘焙师查尔斯·乔金 (Charles Joughin) 令人难以置信的生存故事 [...]</title>
+      <link>https://t.me/hn_summary/70143</link>
+      <description><![CDATA[一位面包师如何在泰坦尼克号中喝醉而幸存 
+这篇文章讨论了泰坦尼克号上的首席面包师查尔斯·乔金 (Charles Joughin) 令人难以置信的生存故事。当船撞上冰山时，乔金的反应是喝醉了，然后在寒冷的北大西洋平静地划船，直到他找到一艘翻倒的救生艇并爬上去。尽管气温寒冷，乔金因酒精而产生的虚假希望和膨胀的信心使他在历史上最严重的海上灾难中幸存下来。争议在于，众所周知，酒精会增加体温过低和致命情况的风险。然而，乔金的故事强调了酒精的放松功效，以及它赋予人类不可思议的创伤生存能力。 （根据 92% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/70143</guid>
+      <pubDate>Sun, 21 Jan 2024 11:28:57 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 加州大学圣地亚哥分校和欧莱雅研究与创新中心的研究人员最近进行的一项研究 [...]</title>
-      <link>https://t.me/hn_summary/70119</link>
-      <description><![CDATA[微生物组与皮肤老化的潜在联系
-加州大学圣地亚哥分校和欧莱雅研究与创新中心的研究人员最近进行的一项研究发现了皮肤微生物组与衰老之间的潜在联系。研究发现皮肤微生物群多样性与鱼尾纹之间存在正相关关系，鱼尾纹是皮肤衰老的一个关键迹象。此外，微生物组多样性与经皮水分流失（通过皮肤蒸发的水分量）之间存在负相关。研究人员发现了一些值得进一步研究的潜在生物标志物。该研究的结果为未来研究与皮肤衰老相关的特定微生物组生物标志物以及开发有针对性的护肤解决方案奠定了基础。该研究由欧莱雅和加州大学圣地亚哥分校之间的赞助研究协议资助。]]></description>
-      <guid>https://t.me/hn_summary/70119</guid>
-      <pubDate>Sun, 21 Jan 2024 04:07:31 GMT</pubDate>
+      <title>[媒体] 摘要：一位科罗拉多州牧师因实施加密货币骗局而被指控 [...]</title>
+      <link>https://t.me/hn_summary/70142</link>
+      <description><![CDATA[科罗拉多州牧师被指控在上帝的命令下犯下加密货币骗局
+摘要：科罗拉多州的一位牧师因实施加密货币骗局而被指控，他在骗局中向他的追随者和其他基督徒出售 INDXcoin。然而，买家无法兑现他们的代币。牧师和他的妻子用这些钱购买奢侈品，并声称他们是按照上帝的命令装修他们的家。在一段视频中，这位牧师承认自己将 130 万美元收入囊中，并解释说，上帝指示他投资另一种硬币，结果证明这是一个骗局，然后创造自己的货币。牧师曾向投资者承诺，这些资金将捐给“寡妇和孤儿”，但实际上大部分都用于个人开支。]]></description>
+      <guid>https://t.me/hn_summary/70142</guid>
+      <pubDate>Sun, 21 Jan 2024 11:16:47 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]美国阿得拉的短缺对个人造成了重大影响[...]</title>
-      <link>https://t.me/hn_summary/70118</link>
-      <description><![CDATA[成人多动症是精神病学的狂野西部
-美国阿得拉的短缺对注意力缺陷多动障碍（ADHD）患者产生了重大影响。这种短缺是由生产延误、劳动力短缺和大流行期间需求增加共同造成的，使得多动症患者很难获得药物。这种短缺尤其影响了患有多动症的成年人，他们现在正在寻求大量治疗。然而，美国缺乏诊断和治疗成人多动症的临床指南，引发了人们对需求增长合法性的担忧。成人精神病学领域在认识和解决成人多动症方面进展缓慢，并且缺乏训练有素的专业人员来提供适当的评估和治疗。缺乏指南还意味着一些人可能会接受不必要的兴奋剂药物处方，例如阿得拉（Adderall），这可能会产生严重的副作用和风险。美国多动症及相关疾病专业协会目前正在制定指南，以规范成人多动症的护理和治疗，但在此之前，情况仍然一片混乱。]]></description>
-      <guid>https://t.me/hn_summary/70118</guid>
-      <pubDate>Sun, 21 Jan 2024 03:39:15 GMT</pubDate>
+      <title>隆重推出 nutri.adrianstobbe.com，该网站通过您的杂货提供营养见解 [...]</title>
+      <link>https://t.me/hn_summary/70141</link>
+      <description><![CDATA[显示 HN：通过杂货收据了解营养成分&lt; br/&gt;
+隆重推出 nutri.adrianstobbe.com，这是一个提供营养的网站通过您的杂货收据获得洞察。只需上传您的收据，即可获得有关如何使您的饮食富含营养（尤其是蔬菜）的提示。我们的人工智能系统提供了营养成分分类的粗略估计，尽管它可能不准确。最好的部分是您的所有数据都存储在本地，以便您稍后返回并上传本周的新收据。今天就开始通过 nutri.adrianstobbe.com 优化您的饮食！]]></description>
+      <guid>https://t.me/hn_summary/70141</guid>
+      <pubDate>Sun, 21 Jan 2024 11:14:40 GMT</pubDate>
     </item>
     <item>
-      <title>问 HN：如何在不列出清单的情况下提高工作效率？</title>
-      <link>https://t.me/hn_summary/70117</link>
-      <description><![CDATA[问 HN：如何在不列清单的情况下提高工作效率？
-news.ycombinator.com 上这篇文章的作者分享他们意识到，就生产力而言，列表对他们不起作用。他们描述了他们最近如何决定放弃日常生活并追求当下感兴趣的任何事物，这促使他们了解了万智牌。然而，当他们开始创建列表并记录他们的学习时，他们对万智牌的兴趣开始减弱。作者认为，清单扼杀了好奇心的自发性，取而代之的是期望和焦虑。他们寻求关于如何在不使用列表的情况下提高工作效率的建议，并质疑是否应该完全放弃列表。作者还反思了他们之前的信念，即缺乏结构是导致动力不足的原因，并意识到结构可能是问题所在。]]></description>
-      <guid>https://t.me/hn_summary/70117</guid>
-      <pubDate>Sun, 21 Jan 2024 03:19:03 GMT</pubDate>
+      <title>该博客文章讨论了伦敦以外的大学的存在。</title>
+      <link>https://t.me/hn_summary/70140</link>
+      <description><![CDATA[伦敦的非伦敦大学
+该博客文章讨论了伦敦以外的大学的存在。作者以白金汉郡新大学为例，指出它既不是新大学，也不位于白金汉郡。多年来，这所大学经历了多次更名和转型以获得地位。作者还列出了在伦敦设有校区的其他英国大学，强调这些校区通常专注于特定领域并迎合国际学生。这些大学在伦敦的存在归因于吸引国际学生及其学费的愿望。作者最后指出，伦敦的非伦敦大学比他们最初想象的要多。]]></description>
+      <guid>https://t.me/hn_summary/70140</guid>
+      <pubDate>Sun, 21 Jan 2024 11:07:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
