@@ -4,7 +4,35 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Mon, 22 Jan 2024 09:12:16 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jan 2024 12:21:17 GMT</lastBuildDate>
+    <item>
+      <title>ActAnywhere：主题感知视频背景生成</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/19ctiwp/actanywhere_subjectaware_video_background/</link>
+      <description><![CDATA[ActAnywhere，一种生成模型，可自动执行此过程，而传统上需要繁琐的手动操作。我们的模型利用了大规模视频扩散模型的强大功能，并且是专门针对此任务量身定制的。 ActAnywhere 将前景主体分割序列作为输入，将所需场景描述为条件的图像，以生成具有真实前景-背景交互的连贯视频，同时遵循条件框架。我们在人类场景交互视频的大规模数据集上训练我们的模型。广泛的评估证明了我们模型的卓越性能，显着优于基线。此外，我们还表明 ActAnywhere 名称可以泛化到不同的分布外样本，包括非人类受试者。  论文页面：https://huggingface.co/papers/2401.10822   由   提交/u/Novita_ai   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/19ctiwp/actanywhere_subjectaware_video_background/</guid>
+      <pubDate>Mon, 22 Jan 2024 11:27:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>“太空太阳能真的能照亮我们的世界吗？”</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/19ct94o/can_space_solar_power_really_light_up_our_world/</link>
+      <description><![CDATA[“嘿太空爱好者。 https:// /magazine.mindplex.ai/mp_news/caltech-space-solar-power-project-ends-first-in-space-mission-with-successes-and-lessons/ &amp;# x200b; 您听说过加州理工学院的太空太阳能发电项目吗？他们刚刚完成了一项任务，成功地在太空中无线传输电力，甚至将其传回地球！这就像科幻小说变成现实一样，对吧？但现在还为时尚早。您认为这项技术最终能为我们的家庭提供电力吗？或者这只是一个很酷的实验？   由   提交 /u/Humphing   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/19ct94o/can_space_solar_power_really_light_up_our_world/</guid>
+      <pubDate>Mon, 22 Jan 2024 11:09:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>强化学习解释！</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/19ct3yw/reinforcement_learning_explained/</link>
+      <description><![CDATA[这是我最近的一个视频，解释使用代码进行强化学习！    由   提交 /u/MrSirLRD   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/19ct3yw/reinforcement_learning_explained/</guid>
+      <pubDate>Mon, 22 Jan 2024 11:00:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>一位 DIY 程序员使用 ChatGPT 创建了虚拟 AI“妻子”</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/19csb40/a_diy_coder_created_a_virtual_ai_wife_using/</link>
+      <description><![CDATA[一位名叫 Bryce 的 DIY 程序员在一家大型科技公司实习，创建了一个虚拟“妻子”名为 ChatGPT-Chan，结合了 ChatGPT、Stable Diffusion 2、文本转语音和计算机视觉等各种机器学习技术。 AI 旨在根据收到的输入进行交互、响应，甚至表现出情绪。  Bryce 创建了 ChatGPT-Chan，将 ChatGPT 与图像生成、文本转语音相结合和计算机视觉技术。 他使用动漫 VTuber 角色 Mori Calliope 作为其个性的基础，通过赋予 AI 背景故事和特定的角色特征来个性化 AI 的交互. 人工智能的反应与“快乐”、“悲伤”或“兴奋”等情绪相匹配，并选择合适的语气进行文本发送。 -语音输出。 添加了计算机视觉组件，使人工智能能够响应照片等视觉输入。  Bryce 使用 ChatGPT-Chan 来学习中文，与它的互动比与真人（包括他的女朋友）的互动还要频繁。 最终，人工智能的反应减少为简短的回答，导致 Bryce “安乐死”虚拟伴侣，这一决定是由于其对个人福祉的影响而做出的。 Bryce 在 TikTok 上分享了他的项目，展示了诸如 ChatGPT-Chan 对汉堡王场景的反应等互动. Bryce 计划带回 ChatGPT-Chan 的新版本，并承诺它会“更强大、更智能”。  来源：https://www .vice.com/en/article/jgpzp8/a-diy-coder-created-a-virtual-ai-waifu-chatgpt ​   由   提交 /u/Stupid_hardcorer   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/19csb40/a_diy_coder_created_a_virtual_ai_wife_using/</guid>
+      <pubDate>Mon, 22 Jan 2024 10:03:14 GMT</pubDate>
+    </item>
     <item>
       <title>语音克隆</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/19crgy1/voice_cloning/</link>
@@ -34,39 +62,11 @@
       <pubDate>Mon, 22 Jan 2024 03:51:45 GMT</pubDate>
     </item>
     <item>
-      <title>如何利用人工智能来推荐某种产品！</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/19cmg36/how_ai_could_be_implemented_to_recommend_a/</link>
-      <description><![CDATA[大家好！我是一名高中二年级学生，我来向您寻求一些建议。我非常喜欢钓鱼，想看看我是否可以设计一个应用程序，根据四个标准推荐鱼饵。重量、类型、季节和索具。可以用ai来告诉我这个吗？例如，我想请 ai 推荐一款 1/4 盎司、软塑料、专为夏季设计的鱼饵，以及 texas 钓组。如果我向人工智能提供符合该标准的所有诱饵的数据，它是否可以给我多个答案？谢谢，如有任何建议，我们将不胜感激！   由   提交/u/A1ZOuplayed  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/19cmg36/how_ai_could_be_implemented_to_recommend_a/</guid>
-      <pubDate>Mon, 22 Jan 2024 03:47:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>有趣的商业领袖#2：山姆·奥尔特曼</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/19cluz4/interesting_biz_leaders2_sam_altman/</link>
-      <description><![CDATA[今天，我们重点关注 Sam Altman，他是具有前瞻性的创业精神和技术的代名词。  作为著名创业加速器 Y Combinator 的前总裁和 OpenAI 的现任首席执行官，Altman 的旅程堪称鼓舞人心。  我们探讨为什么 Altman 的愿景、他对人工智能的承诺以及他独特的领导方法使他成为商界的杰出人物。  深入了解 Sam Altman 的故事，他是一位真正的特立独行者，正在重塑我们的数字未来。  别忘了点赞、分享和订阅，以获取有关推动当今技术革命的思想的更多见解！ 访问 Techzi.co，了解最新、最精彩的技术更新东南亚！ #businessleadership #samaltman #technews #tech #news #seasia   由   提交 /u/techziissexy   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/19cluz4/interesting_biz_leaders2_sam_altman/</guid>
-      <pubDate>Mon, 22 Jan 2024 03:17:03 GMT</pubDate>
-    </item>
-    <item>
       <title>如果您有一个有助于项目和文件管理的独立程序，您希望看到哪些功能？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/19clbxp/if_you_had_a_standalone_program_that_assisted/</link>
       <description><![CDATA[不久前，我谈到了如何拼凑一系列流程和脚本来帮助我管理项目。您可以在这里找到该讨论：https://www.reddit.com/r/ArtificialInteligence/s/vXa0plFEEB 无需深入讨论，它主要是一系列自动化，利用 Microsoft Office 功能来记录会议、提取文字记录、使用 AI 创建会议记录，并通过电子邮件或电子邮件自动发送出去。团队。  我花了几年的时间慢慢地将这个过程拼凑在一起，并且在工作中效果很好。由于我花了更多的时间在个人项目上，我想或多或少地重新创建在家使用的功能（然后是一些功能）。  但是，我想从头开始构建它（可以这么说），以便它是一个独立的程序。随着时间的推移，我可能会尝试添加功能以将其与 Microsoft 或 Google 套件集成。但目前（API 调用除外）我希望它或多或少是完全独立的。 我还要指出，这完全是一个个人项目。我知道有大量的软件可以完成我想要的大部分功能。我只想为我构建一些东西。 我主要想要两件事：  自动文件管理，包括： 根据文件内容删除重复文件 汇总文件的上下文 实施标准化命名约定 根据上下文组织文件 和类似类型的功能 协助项目管理 &lt; li&gt;记录和转录会议 创建包含操作项的会议记录 维护任务列表 维护日历事件 类似类型的功能  简而言之，一种帮助我保持井井有条、步入正轨的私人助理。我知道自己想要什么，并且已经开始规划一切。  但这让我思考：我可能想要什么我还没有想到的以及其他人可能想要什么。 所以..如果你有一个独立的程序来提供服务作为一种帮助管理文件和项目的个人助理，您希望看到什么样的功能？   由   提交 /u/IWantAGI   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/19clbxp/if_you_had_a_standalone_program_that_assisted/</guid>
       <pubDate>Mon, 22 Jan 2024 02:50:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于人工智能信任和可信度的调查</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/19ck6fb/survey_about_ai_trust_and_trustworthiness/</link>
-      <description><![CDATA[大家好， 我是一名博士。我的学生和我的论文研究的一部分是公众对人工智能的看法，特别是关于信任和可信度。因此，我正在寻找调查参与者（这是一项简短的 Qualtrics 调查，需要不到 10 分钟的时间）。我非常感谢您的意见和见解！ 链接到调查 * 该研究由加拿大安大略省圭尔夫市圭尔夫大学网络科学实验室进行。该项目已获得研究伦理委员会的批准，确保遵守涉及人类参与者的加拿大联邦研究准则 (REB#23-08-018)。  &amp;# 32；由   提交/u/vodku_buhayu  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/19ck6fb/survey_about_ai_trust_and_trustworthiness/</guid>
-      <pubDate>Mon, 22 Jan 2024 01:51:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>字母识别和手写翻译？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/19cjniq/alphabet_recognition_and_handwritten_translation/</link>
-      <description><![CDATA[大家好， 是否有一款应用程序（可能基于 AI/ML）可以获取手写文本（来自一个字母） /段落或更多字符）以未知语言编写，并 1）确定此文本是用哪种语言编写的 2）如果可能，将文本翻译为所选的另一种语言由用户。  (2)中的关键部分是输入是手写文本。 如果(2)还不可能，是否有一个工具至少可以做到(1)？  提前感谢您提供任何有用的答案！   由   提交/u/Lucky-Substance23  /u/Lucky-Substance23 reddit.com/r/ArtificialInteligence/comments/19cjniq/alphabet_recognition_and_handwriting_translation/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/19cjniq/alphabet_recognition_and_handwritten_translation/</guid>
-      <pubDate>Mon, 22 Jan 2024 01:25:03 GMT</pubDate>
     </item>
     <item>
       <title>GPT4-Turbo的深度思考模式</title>

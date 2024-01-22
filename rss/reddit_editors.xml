@@ -4,7 +4,21 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Mon, 22 Jan 2024 09:12:58 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jan 2024 12:22:11 GMT</lastBuildDate>
+    <item>
+      <title>字幕：破折号后字母大写？</title>
+      <link>https://www.reddit.com/r/editors/comments/19cubeu/subtitles_capitalize_letter_after_dash/</link>
+      <description><![CDATA[我目前正在为一部短片添加字幕，但我遇到了一些困惑。在场景中，两个人正在说话，所以我在每行前面使用了破折号。但让我不确定的是：第一行是前一句的延续，而不是一个独立的句子。是这样的：  但是我把钱都用了。 可以理解。  完整的句子是：“我做了”尽我所能，但我用了所有的钱。”前半部分预先出现在单独的标题中。 在这种情况下，我应该将“but”中的“b”大写吗？或者我可以把它留在一个小字母中，因为它是一个句子的延续？   由   提交 /u/agressivefun   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/19cubeu/subtitles_capitalize_letter_after_dash/</guid>
+      <pubDate>Mon, 22 Jan 2024 12:15:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>询问专业人士 - 每周 - 2024 年 1 月 22 日星期一 - 没有愚蠢的问题！如果您不以此为生，这就是您发帖的地方！规则+职业问题？</title>
+      <link>https://www.reddit.com/r/editors/comments/19cs9gb/ask_a_pro_weekly_monday_mon_jan_22_2024_no_stupid/</link>
+      <description><![CDATA[/r/editors 是一个社区面向后期制作专业人士。 每周，我们都会使用此帖子与任何对编辑或后期制作有疑问的人进行公开讨论，**无论您的职业或专业地位如何。**  再次强调，如果您是新来的，请知道这个 Reddit 子版块是针对专业人士的。我们的模组团队修剪了 Reddit 子版块，并在此发布了新手级别的问题。  ​ 如果您不确定自己属于哪一类？这就是您正在寻找的主题。 关键规则：彼此保持良好（且耐心）。没有自我推销。没有盗版。 [其余规则可在此处找到](https://www.reddit.com/r/editors/ about/rules/) 如果您不在该领域工作，这就是您的问题应该去的地方 什么样的问题对于该主题来说是公平的游戏？   学校值得吗？ 职业问题？ 哪个编辑器*您应该付费？*（免费工具？请参阅/r/videoediting) 考虑副业吗？ 我应该设置什么费率在？ （参见 WIKI） 从学校毕业？并需要入门建议？  ​ 此子版块有一个 wiki。 请随意建议它需要的页面。 我们有一个姐妹子版块 /r/videoediting。如果您不以此为生，这是理想的选择 - 但此帖子适合所有人！   由   提交 /u/AutoModerator   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/19cs9gb/ask_a_pro_weekly_monday_mon_jan_22_2024_no_stupid/</guid>
+      <pubDate>Mon, 22 Jan 2024 10:00:21 GMT</pubDate>
+    </item>
     <item>
       <title>文件系统在 Avid 中如何工作？</title>
       <link>https://www.reddit.com/r/editors/comments/19cnvqz/how_does_the_file_system_work_in_avid/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[我从一些在电视台工作的朋友那里听到了不好的消息？想检查其他人的情况是否有所好转？   由   提交 /u/Suitable_Goose3637   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/19b21ko/work_still_dead/</guid>
       <pubDate>Sat, 20 Jan 2024 03:19:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>Premiere 中自动导入？</title>
-      <link>https://www.reddit.com/r/editors/comments/19b1gmt/automatic_import_in_premiere/</link>
-      <description><![CDATA[大家好！有谁知道是否有办法将 Bin 与驱动器上的文件夹链接起来？例如，如果我下载曲目，Premiere 是否有办法识别相应曲目的更改并根据更改导入新文件？我认为 Productions 做了这个或类似的事情，但想知道在常规项目文件中是否可能。 ​ --  运行 Premiere 2024 年，Mac Studio M1 Max，64GB RAM   由   提交/u/UnivitedSam   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/19b1gmt/automatic_import_in_premiere/</guid>
-      <pubDate>Sat, 20 Jan 2024 02:50:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>你们喜欢任何报纸资产/拼贴插件/模板来编辑有关历史事件、流行文化等的内容吗？</title>
-      <link>https://www.reddit.com/r/editors/comments/19ayda1/any_newspaper_assets_collage_plugins_templates/</link>
-      <description><![CDATA[我非常擅长后期效果，并且从头开始制作这些效果花了很多时间。我有一个客户对它们有点着迷，并要求我向他们发送垃圾邮件。这是针对社交媒体内容的，所以我最关心的是速度。钱不是问题，愿意为更好的东西付出额外的代价。我最缺乏的资源是时间atm。谢谢！   由   提交 /u/T00Human   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/19ayda1/any_newspaper_assets_collage_plugins_templates/</guid>
-      <pubDate>Sat, 20 Jan 2024 00:20:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
