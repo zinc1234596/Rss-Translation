@@ -4,7 +4,28 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Mon, 22 Jan 2024 15:13:25 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jan 2024 18:14:53 GMT</lastBuildDate>
+    <item>
+      <title>您已经将哪些人工智能工具纳入您的实际工作流程中？</title>
+      <link>https://www.reddit.com/r/editors/comments/19d2271/what_ai_tools_have_you_already_incorporated_into/</link>
+      <description><![CDATA[有很多很酷的东西，也有很多很棒的东西即将出现，但实际上在您的工作流程中实现了什么？就我个人而言，Premiere 中的很多音频内容，以及显然在 AE 中进行的跟踪，但我也使用 Chat GPT 来帮助在 AE 中为 MOGRT 编写脚本。还有其他人看到过将任何工具融入到您的工作流程中取得的成功吗？   由   提交 /u/technicolordreams   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/19d2271/what_ai_tools_have_you_already_incorporated_into/</guid>
+      <pubDate>Mon, 22 Jan 2024 18:09:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>基本尾部弹出和尾部领导问题</title>
+      <link>https://www.reddit.com/r/editors/comments/19d19w7/basic_tail_pop_and_tail_leader_questions/</link>
+      <description><![CDATA[提前谢谢您！我正在为戏剧播放创建卷轴，需要在每个卷轴上提供 Academy 头部和尾部引导以及头部和尾部弹出。 对于尾部弹出，您是否将尾部弹出放置在 A) 停车播放头上图像的最后一帧然后向前移动 2 秒或 B) 将播放头停在最后一帧之后的帧上然后向前移动 2 秒？尾部弹出框架上下颠倒？   由   提交 /u/Sonic_Broom   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/19d19w7/basic_tail_pop_and_tail_leader_questions/</guid>
+      <pubDate>Mon, 22 Jan 2024 17:38:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>包含这些声音的 SFX 捆绑包</title>
+      <link>https://www.reddit.com/r/editors/comments/19d0b26/sfx_bundles_with_these_sounds/</link>
+      <description><![CDATA[嘿，我正在编辑一个风格化的品牌广告，需要大量的声音设计，至少在将其交给声音设计师之前是这样。我一直在到处寻找特定的音效，但一直找不到。大多数过渡听起来尤其像该视频 00:12 处的断断续续（脉动？）的立管。有人知道有什么捆绑包会包含大量现在正在使用的更流行的 SFX 吗？我逛遍了Artist.io，但没有发现任何好的东西。任何帮助将不胜感激。  https://vimeo.com/726538275 ​   由   提交 /u/mysamio   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/19d0b26/sfx_bundles_with_these_sounds/</guid>
+      <pubDate>Mon, 22 Jan 2024 16:59:06 GMT</pubDate>
+    </item>
     <item>
       <title>导出分割轨道音频</title>
       <link>https://www.reddit.com/r/editors/comments/19cxrkv/exporting_split_track_audio/</link>
@@ -36,7 +57,7 @@
     <item>
       <title>文件系统在 Avid 中如何工作？</title>
       <link>https://www.reddit.com/r/editors/comments/19cnvqz/how_does_the_file_system_work_in_avid/</link>
-      <description><![CDATA[我正在学习 Avid 上的 linkedin 学习 101 课程，它简要介绍了文件系统的工作原理。它并没有真正解释它是如何工作的，只是掩盖了一些事情。根据我有限的理解，Avid 将其文件夹放在根目录的某个位置，以保存其中的所有内容。我的问题是，我可以使用自己的剪辑和所有东西使用外部硬盘吗？出于某种原因，我觉得我需要将剪辑保存到根驱动器，我知道这是错误的。我只是搞混了，当我用谷歌搜索东西时，我被引导到 15 年前的旧论坛。我已经讨厌这个程序了。 我只是想要有人解释和分解 Avids 文件系统的工作原理。 我在 Windows 11 上使用 Avid Media Composer v 23.12.058093&lt; /p&gt;   由   提交/u/fitneyfoodie  [链接] [评论]]]></description>
+      <description><![CDATA[我正在学习 Avid 上的 linkedin 学习 101 课程，它简要介绍了文件系统的工作原理。它并没有真正解释它是如何工作的，只是有点掩盖了事情。根据我有限的理解，Avid 将其文件夹放在根目录的某个位置，以保存其中的所有内容。我的问题是，我可以使用自己的剪辑和所有东西使用外部硬盘吗？出于某种原因，我觉得我需要将剪辑保存到根驱动器，我知道这是错误的。我只是搞混了，当我用谷歌搜索东西时，我被引导到 15 年前的旧论坛。我已经讨厌这个程序了。 我只是想要有人解释和分解 Avids 文件系统的工作原理。 我在 Windows 11 上使用 Avid Media Composer v 23.12.058093&lt; /p&gt;   由   提交/u/fitneyfoodie  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/19cnvqz/how_does_the_file_system_work_in_avid/</guid>
       <pubDate>Mon, 22 Jan 2024 05:04:38 GMT</pubDate>
     </item>
@@ -85,30 +106,9 @@
     <item>
       <title>用其他工作来补充编辑工作——你们是做什么的？</title>
       <link>https://www.reddit.com/r/editors/comments/19blhsf/supplementing_editing_work_with_other_employment/</link>
-      <description><![CDATA[刚工作几年的新编辑（在大流行中期毕业），几乎完全完成在线工作，享受工作和我获得的很少的机会，但是众所周知，事情从上到下都是缓慢的。 ​ 我在此之前的工作主要是作为一名自由音乐家，所以我对不稳定的收入和不稳定的情况并不陌生。工作量，但此时我有兴趣在工作间隙学习技能，这样我就可以在视频编辑的同时做其他事情。 ​ 有点对深入研究网页设计/开发之类的东西感兴趣，因为我喜欢技术和大量的远程工作（即使所有这些科技行业的裁员都会带来一些停顿）。我还想知道过度多样化是否违反直觉，如果一个人一头扎进动态图形领域，会带来多少工作机会，我也不介意。 ​ 只是想知道你们中有多少人超出了这样的编辑范围，以及你们做了什么来尝试让工作日历更充实。  &amp;# 32；由   提交 /u/Fantastic_Raccoon103   [链接] [评论]]]></description>
+      <description><![CDATA[刚工作几年的新编辑（在大流行中期毕业），几乎完全完成在线工作，享受工作和我获得的很少的机会，但是众所周知，事情从上到下都是缓慢的。 ​ 我之前的工作主要是作为一名自由音乐家，所以我对不稳定的收入和不稳定的情况并不陌生。工作量很大，但此时我有兴趣在工作间隙学习技能，这样我就可以在视频编辑的同时做其他事情。 ​ 有点有兴趣深入研究网页设计/开发之类的东西，因为我喜欢技术和大量的远程工作（即使所有这些科技行业的裁员都会带来一些停顿）。我还想知道过度多样化是否违反直觉，如果一个人一头扎进动态图形领域，会带来多少工作机会，我也不认为我会介意。 ​ 只是想知道你们中有多少人超出了这样的编辑范围，以及你们做了什么来尝试让工作日历更充实。  &amp;# 32；由   提交 /u/Fantastic_Raccoon103   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/19blhsf/supplementing_editing_work_with_other_employment/</guid>
       <pubDate>Sat, 20 Jan 2024 20:48:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>在另一个窗口中解析向量范围？</title>
-      <link>https://www.reddit.com/r/editors/comments/19beyif/resolve_vector_scopes_in_another_window/</link>
-      <description><![CDATA[我想在笔记本电脑上扩展矢量示波器视图（我在全窗口中运行 Davinci Resolve），但它会打开另一个窗口。我怎样才能解决这个问题？    由   提交 /u/Hoonta-Of-Hoontas   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/19beyif/resolve_vector_scopes_in_another_window/</guid>
-      <pubDate>Sat, 20 Jan 2024 16:03:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否可以完全通过笔记本电脑进行工作？</title>
-      <link>https://www.reddit.com/r/editors/comments/19bddod/is_it_even_possible_to_fully_work_from_a_laptop/</link>
-      <description><![CDATA[我看到很多人听起来好像他们认为我会得到一个外接显示器。是否有可能在笔记本电脑中获得您需要的一切？如果不是主要是尺寸还是屏幕？   由   提交/u/Etvaht115  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/19bddod/is_it_even_possible_to_fully_work_from_a_laptop/</guid>
-      <pubDate>Sat, 20 Jan 2024 14:50:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何成为即兴编辑助理？</title>
-      <link>https://www.reddit.com/r/editors/comments/19b8rc0/how_to_become_an_edit_assistant_in_unscripted/</link>
-      <description><![CDATA[设法在即兴事实中获得我的第一个自由职业职位，但现在正在寻找下一个。所以我被告知成为后期制作公司的跑步者是最常见的路线，但我觉得这是一个退步。我了解 Avid，我基本上知道自己在做什么。我只是觉得我必须夸大我需要多少经验才能获得另一次机会。 目前看来竞争非常激烈。我不会通过在 Facebook 群组中展示我的简历或申请广告来获得关注。看起来每个人都想在 HETV 或电影界工作。事实上，我正在寻找竞争最不激烈的工作类型，长时间工作，夜班，我不在乎。 目前居住在英国，但拥有在加拿大工作的合法权利，因此考虑搬到如果英格兰的情况不能很快好转的话，温哥华。很好奇每个国家的行业有何差异。 显然，我需要扩大我的网络，我正在这方面取得一些进展。我需要联系哪些人？   由   提交 /u/onedamnman   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/19b8rc0/how_to_become_an_edit_assistant_in_unscripted/</guid>
-      <pubDate>Sat, 20 Jan 2024 10:18:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
