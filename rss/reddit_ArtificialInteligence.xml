@@ -4,7 +4,42 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Mon, 22 Jan 2024 12:21:17 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jan 2024 15:12:23 GMT</lastBuildDate>
+    <item>
+      <title>每日两分钟 AI 更新（日期：2024 年 1 月 22 日）：来自 Stability AI、WHO、Databricks、Amazon 等的新闻</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/19cx5gh/twominute_daily_ai_update_date_1222024_news_from/</link>
+      <description><![CDATA[继续分享人工智能领域当天主要更新的易于理解且较小的版本。   Stability AI 推出 Stable LM 2 1.6B - 这是一个在多语言数据上训练的最先进的 16 亿参数小语言模型英语、西班牙语、德语、意大利语、法语、葡萄牙语和荷兰语。与其他流行的小语言模型相比，例如微软的 Phi-1.5 (1.3B) &amp; Phi-2 (2.7B)、TinyLlama 1.1B 或 Falcon 1B，它在大多数任务上优于 2B 以下的模型，甚至在一些较大的任务上都优于 2B 模型，同时提供紧凑的尺寸和速度。 Nightshade，一款基于人工智能的工具，旨在帮助艺术家保护他们的艺术品，现已推出 1.0 版本 - Nightshade 对图像进行不可见的像素级更改，欺骗 AI 模型将其视为其他内容并破坏其图像图像输出——例如，将立体主义风格识别为卡通。现已推出适用于 Windows PC 和 Apple Silicon Mac 的版本。 一篇新论文提出了 AlphaCodium，这是一种面向代码的迭代流程，可改进 LLM 的代码生成 - 提议的持续流动并显着改善结果。例如，在测试中，GPT-4 准确率 (pass@5) 从单一精心设计的直接提示的 19% 提高到 AlphaCodium 流程的 44%。 世界卫生组织发布了人工智能伦理和大型多模式模型的治理指南 - 该指南概述了 40 多项建议，供政府、技术公司和医疗保健提供者考虑，以确保适当使用 LMM 来促进和保护人群的健康。  Sam Altman 寻求筹集数十亿美元来建立人工智能芯片工厂网络 - 该项目将涉及与顶级芯片制造商合作，而晶圆厂网络将 两名 Google DeepMind 科学家正在洽谈离开并组建一家人工智能初创公司 - 他们一直在与投资者讨论在巴黎的初始融资可能超过 2 亿欧元（2.2 亿美元）。目前被称为 Holistic，它可能专注于构建新的人工智能模型。 Databricks 为电信和 NSP 量身定制由人工智能驱动的数据智能平台 -该产品被称为通信数据智能平台，结合了该公司数据湖屋架构的强大功能、MosaicML 的生成式 AI 模型以及合作伙伴支持的解决方案加速器，为开始充分利用数据集并发展业务提供了快速方法。  亚马逊 Alexa 将通过新的人工智能功能变得更加智能 - 亚马逊计划在今年晚些时候推出 Alexa 的付费订阅层。预计将以“Alexa Plus”的形式首次亮相，并将采用更新的模式，为用户提供更具对话性和个性化的人工智能技术。  这些新闻和创新的更详细细分在每日新闻通讯中。 &lt; /div&gt;  由   提交 /u/RohitAkki   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/19cx5gh/twominute_daily_ai_update_date_1222024_news_from/</guid>
+      <pubDate>Mon, 22 Jan 2024 14:42:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>像 Nightshade 这样的工具可以用来毒害任何人工智能吗？这可能成为未来工业和国际破坏的途径吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/19cwex0/can_tools_like_nightshade_be_used_to_poison_any/</link>
+      <description><![CDATA[在过去几天里阅读了对茄属植物的强烈正面和负面反应后，我一直想知道它背后的原理是否具有普遍性并且可以使用破坏任何在大型抓取数据集上训练的人工智能。这让我想到，故意毒害竞争企业或政府的人工智能工具可能会有利。   由   提交/u/extfernal  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/19cwex0/can_tools_like_nightshade_be_used_to_poison_any/</guid>
+      <pubDate>Mon, 22 Jan 2024 14:07:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>魔法学校AI理念</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/19cvhso/magic_school_ai_idea/</link>
+      <description><![CDATA[大家好， 我在社区中遇到过使用过 魔法学校人工智能取得了很大的成功。 他们中的一些人问我是否有任何想法可以有效地将其提升到一个新的水平，例如，沿着提供提示、年级水平和演示文稿类型的思路，可以自动生成包含准确文本和图像的幻灯片演示文稿（最好直接集成到谷歌幻灯片）。 我想我我会继续询问这里是否有人对构建 MVP 有任何想法/兴趣，这可能是一项有偿工作。 非常感谢，   由   提交/u/XanderSmithDesign  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/19cvhso/magic_school_ai_idea/</guid>
+      <pubDate>Mon, 22 Jan 2024 13:21:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>什么是LLM（大语言模型）？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/19cvezo/what_is_llm_large_language_model/</link>
+      <description><![CDATA[LLM（大型语言模型）是一种人工智能模型，旨在理解和生成类人文本。这些模型经过大量文本数据的训练，并使用深度学习技术（例如深度神经网络）来处理和生成语言。 LLM 能够执行各种自然语言处理 (NLP) 任务，包括 语言翻译 文本摘要 问答 情感分析 生成连贯且上下文相关的响应用户输入 阅读：https://www.seaflux.tech/blogs/ llm-explained-with-examples   由   提交/u/krunal_bhimani_   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/19cvezo/what_is_llm_large_language_model/</guid>
+      <pubDate>Mon, 22 Jan 2024 13:17:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能激励我继续编码</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/19cuxv0/ai_motivated_me_to_keep_coding/</link>
+      <description><![CDATA[Python 是我的第一种编码语言，但最初并没有取得太大进展。我很快意识到我需要加深对算法、数据结构和其他复杂主题的了解。我买了几门课程，但这是浪费钱。所以我想……为什么不尝试人工智能呢？  我首先使用人工智能驱动的聊天机器人，它们针对我的问题提供了具体的建议和解释。这就像指导，但以虚拟形式进行。我能够提出有关复杂概念的问题，并且机器人提供了清晰易懂的解释。这些机器人的准确度仍然让我感到惊讶。  并简要介绍一下我在使用人工智能进行学习时发现的优势： 聊天机器人在学习困难概念时是很有帮助的导师； 它们提供了个性化的学习计划；  分析人工智能建议的代码让我了解了解决问题的新方法和途径，从而丰富了我的技能； 使用人工智能审查和生成基础代码改善了学习过程并为进一步的工作提供了框架。 人工智能是否改善了您的编码体验？或者你担心它很快就会取代你的工作，哈哈？    由   提交 /u/ivesencat   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/19cuxv0/ai_motivated_me_to_keep_coding/</guid>
+      <pubDate>Mon, 22 Jan 2024 12:51:04 GMT</pubDate>
+    </item>
     <item>
       <title>ActAnywhere：主题感知视频背景生成</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/19ctiwp/actanywhere_subjectaware_video_background/</link>
@@ -41,46 +76,11 @@
       <pubDate>Mon, 22 Jan 2024 09:01:21 GMT</pubDate>
     </item>
     <item>
-      <title>艾推荐</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/19cprtq/ai_recommendations/</link>
-      <description><![CDATA[我正在寻找一种“全能”AI。花费多少钱并不重要。 可以观看 YouTube 视频并为其创建预告片、阅读 pdf 并总结它们（无论长度如何）、帮助我做任何与业务相关的事情并解决问题。等等 我并不是想给它一个脚本并让它制作一个视频。我希望它能够拍摄视频并制作预告片。 也许我已经到了这里。   由   提交 /u/lifeisgreasy   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/19cprtq/ai_recommendations/</guid>
-      <pubDate>Mon, 22 Jan 2024 06:59:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>每日一分钟人工智能新闻 1/21/2024</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/19coa76/oneminute_daily_ai_news_1212024/</link>
-      <description><![CDATA[ OpenAI 宣布与一所大学建立首次合作伙伴关系。从二月开始，亚利桑那州立大学将拥有 ChatGPT Enterprise 的完全访问权限，并计划将其用于课程作业、辅导、研究等。[1] Sam Altman 计划利用台积电利用自己的人工智能芯片与Nvidia竞争。[2] 化身、机器人和人工智能：日本转向创新来解决劳动力危机。[3] Galaxy S24系列的到来，重点关注人工智能。[4] 来源包含在：https://bushaicave.com/2024/01/21/1- 21-2024/    由   提交 /u/Excellent-Target-847   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/19coa76/oneminute_daily_ai_news_1212024/</guid>
-      <pubDate>Mon, 22 Jan 2024 05:27:18 GMT</pubDate>
-    </item>
-    <item>
       <title>初学者在这里。 ChatGPT、Bard 和 Copilot 的区别？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/19cmivz/beginner_here_difference_of_chatgpt_bard_and/</link>
       <description><![CDATA[您好，我最近刚刚开始使用 AI 工具。根据我的研究，这三个工具都很好用。 但我只是好奇这些人工智能工具各自擅长什么样的任务。 例如，这个适合编码，这个适合内容编写等等。类似的东西。喜欢他们的专业。或者这些工具可以被认为是全能工具吗？ 其中哪一个提供了最准确和最新的信息？ 谢谢！   由   提交/u/bndct_bn   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/19cmivz/beginner_here_difference_of_chatgpt_bard_and/</guid>
       <pubDate>Mon, 22 Jan 2024 03:51:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果您有一个有助于项目和文件管理的独立程序，您希望看到哪些功能？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/19clbxp/if_you_had_a_standalone_program_that_assisted/</link>
-      <description><![CDATA[不久前，我谈到了如何拼凑一系列流程和脚本来帮助我管理项目。您可以在这里找到该讨论：https://www.reddit.com/r/ArtificialInteligence/s/vXa0plFEEB 无需深入讨论，它主要是一系列自动化，利用 Microsoft Office 功能来记录会议、提取文字记录、使用 AI 创建会议记录，并通过电子邮件或电子邮件自动发送出去。团队。  我花了几年的时间慢慢地将这个过程拼凑在一起，并且在工作中效果很好。由于我花了更多的时间在个人项目上，我想或多或少地重新创建在家使用的功能（然后是一些功能）。  但是，我想从头开始构建它（可以这么说），以便它是一个独立的程序。随着时间的推移，我可能会尝试添加功能以将其与 Microsoft 或 Google 套件集成。但目前（API 调用除外）我希望它或多或少是完全独立的。 我还要指出，这完全是一个个人项目。我知道有大量的软件可以完成我想要的大部分功能。我只想为我构建一些东西。 我主要想要两件事：  自动文件管理，包括： 根据文件内容删除重复文件 汇总文件的上下文 实施标准化命名约定 根据上下文组织文件 和类似类型的功能 协助项目管理 &lt; li&gt;记录和转录会议 创建包含操作项的会议记录 维护任务列表 维护日历事件 类似类型的功能  简而言之，一种帮助我保持井井有条、步入正轨的私人助理。我知道自己想要什么，并且已经开始规划一切。  但这让我思考：我可能想要什么我还没有想到的以及其他人可能想要什么。 所以..如果你有一个独立的程序来提供服务作为一种帮助管理文件和项目的个人助理，您希望看到什么样的功能？   由   提交 /u/IWantAGI   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/19clbxp/if_you_had_a_standalone_program_that_assisted/</guid>
-      <pubDate>Mon, 22 Jan 2024 02:50:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>GPT4-Turbo的深度思考模式</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/19cegoy/deep_thinking_mode_for_gpt4turbo/</link>
-      <description><![CDATA[ 由   提交/u/No-Transition3372   /u/No-Transition3372 reddit.com/gallery/19ceg5u&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/19cegoy/deep_thinking_mode_for_gpt4turbo/</guid>
-      <pubDate>Sun, 21 Jan 2024 21:33:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI 每周摘要（1 月 13 日至 1 月 20 日）</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/19c94xl/ai_weekly_rundown_january_13_to_january_20/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/19c94xl/ai_weekly_rundown_january_13_to_january_20/</guid>
-      <pubDate>Sun, 21 Jan 2024 17:52:59 GMT</pubDate>
     </item>
     <item>
       <title>战略性地使用 ChatGPT 的 10 种简单方法</title>
@@ -97,7 +97,7 @@
       <pubDate>Sun, 21 Jan 2024 06:34:54 GMT</pubDate>
     </item>
     <item>
-      <title>新的反垃圾邮件/机器人规则 [请阅读]</title>
+      <title>新的反垃圾邮件/机器人规则[请阅读]</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/115jk6q/new_antispam_bot_rules_please_read/</link>
       <description><![CDATA[我们制定了一条规则，新帐户一天以上或 karma 低于 100 的用户不能发帖。他们可以发表评论，但不能提交实际的帖子。这是我们解决机器人垃圾邮件计划的一部分。对于给您带来的任何不便，我们深表歉意。 我们将在接下来的几天内进行一项民意调查，以了解 Reddit 子版块的普遍意愿以及如何改进，请注意。 作为请始终向我们提供反馈，如果您有兴趣帮助该子项目，请与我联系。  谢谢大家！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/115jk6q/new_antispam_bot_rules_please_read/</guid>
