@@ -4,27 +4,55 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Tue, 23 Jan 2024 15:11:50 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jan 2024 18:14:11 GMT</lastBuildDate>
     <item>
-      <title>当前用于生成数字音乐的人工智能选项？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/19dqhq5/current_ai_options_for_generating_digital_music/</link>
-      <description><![CDATA[当前生成数字节拍和音乐的最佳选择是什么？我不是音乐家，所以我最感兴趣的是了解这个领域的现状以及未来的主要障碍。  &amp;# 32；由   提交 /u/LamenticallyTrivial   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/19dqhq5/current_ai_options_for_generating_digital_music/</guid>
-      <pubDate>Tue, 23 Jan 2024 15:08:20 GMT</pubDate>
+      <title>使用 Pinecone Serverless 进行矢量搜索入门</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/19dufmt/a_primer_on_vector_search_using_pinecone/</link>
+      <description><![CDATA[Pinecone 最近推出了无服务器产品，其目标是使矢量搜索实现更轻松且更具成本效益。 我们撰写了一篇关于什么是矢量搜索，为什么需要它以及如何实现它：https： //blog.kusho.ai/a-primer-on-vector-search-using-pinecone-serverless/   由   提交/u/soap94  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/19dufmt/a_primer_on_vector_search_using_pinecone/</guid>
+      <pubDate>Tue, 23 Jan 2024 17:59:00 GMT</pubDate>
     </item>
     <item>
-      <title>Pi.ai 声音</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/19dqebn/piai_voices/</link>
-      <description><![CDATA[有没有办法让 Pi.ai 语音朗读电子书？或者比 Edge 的 ReadAloud 上的声音更好？ Pi.ai 的声音太棒了   由   提交 /u/Mappletv   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/19dqebn/piai_voices/</guid>
-      <pubDate>Tue, 23 Jan 2024 15:03:59 GMT</pubDate>
+      <title>从头开始构建基于 LLM 的分类器</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/19du6gq/building_llmbased_classifiers_from_scratch/</link>
+      <description><![CDATA[大家好，我录制了一个简短的编码会话，向您展示如何从头开始构建基于 LLM 的分类器。  这是一个被高度低估的法学硕士用例。它允许您回答是/否问题或大规模解决其他分类任务。  示例应用程序包括自动分类文章、电子邮件、帖子等，甚至视频（基于其文字记录）。 https://www.youtube.com/watch?v=l7NPMiyuh1M 希望您觉得它有用:)  &lt; !-- SC_ON --&gt;  由   提交/u/alongub  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/19du6gq/building_llmbased_classifiers_from_scratch/</guid>
+      <pubDate>Tue, 23 Jan 2024 17:48:43 GMT</pubDate>
     </item>
     <item>
-      <title>[crosspost] 科幻作家的近未来小说《AFTER WORLD》是关于人工智能/法学硕士的，他现在正在 r/fantasy 举办 AMA 和赠品活动</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/19dpgqw/crosspost_scifi_author_whose_nearfuture_novel/</link>
-      <description><![CDATA[ 由   提交/u/debbieurbanski  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/19dpgqw/crosspost_scifi_author_whose_nearfuture_novel/</guid>
-      <pubDate>Tue, 23 Jan 2024 14:20:10 GMT</pubDate>
+      <title>基于 DNA 的纳米电机能否彻底改变医学和化学研究？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/19dt2wi/could_dnabased_nanomotors_revolutionize_medical/</link>
+      <description><![CDATA[嘿 Reddit！您听说过纳米技术的最新突破吗？科学家们创造了世界上第一个可用的纳米级电动机，它是由 DNA 制成的！这种微型电机由氮化硅纳米孔内的流体动力流动提供动力。想象一下由 30 个双链 DNA 螺旋组成的涡轮机，每分钟旋转高达十亿次！ 您认为这项技术的未来会怎样？它是否会导致分子工厂产生有用的化学物质，或者医疗探针穿过我们的血液来检测疾病？那么类似“梦幻之旅”的现实生活场景的可能性又如何呢？电影（当然不包括微型人物）？让我们讨论这一令人难以置信的科学进步的潜力和挑战！    由   提交 /u/Humphing   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/19dt2wi/could_dnabased_nanomotors_revolutionize_medical/</guid>
+      <pubDate>Tue, 23 Jan 2024 16:59:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>微软和其他公司正在开发新工具来帮助小型企业利用人工智能。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/19drvuv/microsoft_and_others_are_making_new_tools_to_help/</link>
+      <description><![CDATA[微软和其他公司正在开发新工具来帮助小型企业利用人工智能 https://candorium.com/news/20240123150359250/microsoft-and-others -正在制作新工具来帮助小型企业利用人工智能实现资本化    由   提交/u/10marketing8  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/19drvuv/microsoft_and_others_are_making_new_tools_to_help/</guid>
+      <pubDate>Tue, 23 Jan 2024 16:09:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>是否可以在不使用消费者人工智能公司的情况下创建自己的自定义头像？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/19drkce/is_it_possible_to_create_your_own_custom_avatar/</link>
+      <description><![CDATA[想知道您是否可以创建自己的自定义视频头像，而无需通过 Synthesia 等服务来完成？您无需将头像提供给另一家公司来托管的东西？  如果是这样，那会有多困难和昂贵？   由   提交 /u/SilentStrength01   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/19drkce/is_it_possible_to_create_your_own_custom_avatar/</guid>
+      <pubDate>Tue, 23 Jan 2024 15:55:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>满足 3 条件的 Webstie 或聊天机器人？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/19dr31i/webstie_or_chatbot_with_the_3_condition/</link>
+      <description><![CDATA[我正在寻找一个可以从文本到语音、生成头像图像或视频并且还可以从语音到文本的网站。有什么想法吗？ 更像是 Amica 之类的东西，我发现了这个完美的仓库linly talk，但都是中文的。 https://github.com/Kedreamix/Linly-Talker ​   由   提交 /u/Horror_Echo6243   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/19dr31i/webstie_or_chatbot_with_the_3_condition/</guid>
+      <pubDate>Tue, 23 Jan 2024 15:35:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>CapGen - 为您的社交媒体帖子创建引人入胜的标题</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/19dqqov/capgen_create_engaging_captions_for_your_social/</link>
+      <description><![CDATA[我创建了一个应用程序，用于使用 AI 为您的社交媒体帖子生成标题。您所要做的就是上传图像，应用程序将为 Instagram、Facebook、Twitter、Threads、Snapchat 和 LinkedIn 生成标题。  应用程序将尝试保持生成的字幕的语气接近相应的社交媒体。想象一下为您的 LinkedIn 帖子添加一个励志标题，或者为 Instagram 添加一些有趣而古怪的内容。  您可以生成 2 个免费字幕，无需注册。  应用程序链接：https://play.google.com/ store/apps/details?id=aculix.capgen.app   由   提交/u/mehul4795   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/19dqqov/capgen_create_engaging_captions_for_your_social/</guid>
+      <pubDate>Tue, 23 Jan 2024 15:19:56 GMT</pubDate>
     </item>
     <item>
       <title>每日两分钟 AI 更新（日期：2024 年 1 月 23 日）：来自 Meta、ElevenLabs、TikTok、Google、Elon Musk、MIT 和 Berkley AI 的新闻</title>
@@ -34,39 +62,11 @@
       <pubDate>Tue, 23 Jan 2024 13:20:18 GMT</pubDate>
     </item>
     <item>
-      <title>生成式人工智能用例</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/19do0zk/generative_ai_use_cases/</link>
-      <description><![CDATA[以下是生成式 AI 在创意环境中的一些用例：  文本生成：文本生成生成式人工智能的工作原理是使用机器学习算法来分析大量数据并学习语言的模式和结构。  客户服务：客户服务中的生成式人工智能涉及使用人工智能算法自动生成对客户询问或投诉的响应。  音乐生成：在音乐生成的情况下，机器学习算法在现有音乐的数据集上进行训练，例如古典乐曲或流行歌曲。  代码生成：用于代码生成的生成式 AI 涉及在大型代码样本数据集上训练模型，然后使用该模型根据给定的输入或描述生成新代码。   阅读：https://www.seaflux .tech/blogs/generative-ai-industry-scope    由   提交/u/krunal_bhimani_   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/19do0zk/generative_ai_use_cases/</guid>
-      <pubDate>Tue, 23 Jan 2024 13:07:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>生成式人工智能的兴起：机器如何变得富有创造力</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/19dnxt2/the_rise_of_generative_ai_how_machines_are/</link>
-      <description><![CDATA[生成式 AI 是一个快速发展的人工智能领域，专注于创建可以生成新内容的系统，例如图像、音乐、文本，甚至整个虚拟世界。这项技术能够创造出可以模仿人类创造力的新的独特内容。 生成式人工智能的主要目标是使机器能够产生与人类创造的内容没有区别的高质量输出。这可以通过使用大型数据集训练模型来实现，这使得它们能够学习模式并根据这些模式生成新内容。  阅读：https://www.seaflux.tech/blogs/generative-ai -行业范围   由   提交/u/krunal_bhimani_   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/19dnxt2/the_rise_of_generative_ai_how_machines_are/</guid>
-      <pubDate>Tue, 23 Jan 2024 13:02:53 GMT</pubDate>
-    </item>
-    <item>
       <title>GPT4All 没有给出回应，它只是完成了我的提示？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/19dnwps/gpt4all_not_giving_responses_it_just_completes_my/</link>
       <description><![CDATA[我目前正在尝试用 Python 制作一个聊天机器人，我在 gpt3.5 上取得了一些成功，但认为使用本地 gpt 会好得多。我下载了 gpt4all 并使用 mistra 7b openorca 模型。但由于某种原因，当我通过它处理提示时，它只是完成提示，而不是实际给出回复 示例： 用户：嗨，我是 sam GPT4All：燃料。我成为一名摄影师已经大约 5 年了，我很喜欢它。这段时间我学到了很多东西，比如使用不同的相机、灯光技术、构图等等。但我学到的最重要的东西是如何通过我的图像讲述故事。 如何我修复了这个问题吗？ 这是我用于测试此问题的代码 model = GPT4All(&quot;/Users/name/Library/Application Support/nomic.ai/GPT4All /mistral-7b-openorca.Q4_0.gguf”，allow_download=False) user_input = input(“用户：”) model_response = model.generate(user_input) print(“GPT4All：” + model_response)   ​   由   提交 /u/Pyth4k   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/19dnwps/gpt4all_not_giving_responses_it_just_completes_my/</guid>
       <pubDate>Tue, 23 Jan 2024 13:01:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>一款AI工具，帮助您在5分钟内创建自己的迷你世界/游戏</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/19dn9qv/an_ai_tool_that_helps_you_create_your_own/</link>
-      <description><![CDATA[我和几个朋友正在基于最新的生成式 AI 功能构建一个名为 Domi 的工具。有了它，你只需10分钟就可以轻松创建自己的世界或互动小游戏。请在此处观看视频演示：https://youtu.be/e3RVPQtXkl0  目前，对于您自己的空间，您可以生成背景，创建物品和角色，并通过门户构建子空间。您还可以邀请朋友到您的空间。  我们看到早期测试者正在创建虚拟画廊、平台游戏、互动小说和迷你冒险游戏。有人甚至和多米一起为波普猫建造了一座神社。  未来，你可以向所有人发布自己的空间，创建可以为你铺床或收养宠物的 NPC，并在你的空间中与朋友一起放松。 它现在处于 alpha 阶段，我们将根据测试人员的反馈继续添加新功能。如果这听起来像你的菜，请随时加入我们的 Discord 并尝试我们的早期 alpha：https://discord.gg/rEJmwSWHNG    由   提交/u/PodrickPayn3  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/19dn9qv/an_ai_tool_that_helps_you_create_your_own/</guid>
-      <pubDate>Tue, 23 Jan 2024 12:25:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI软件给游戏配音？我想为一款游戏配音，就像《天际》那样</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/19dlu3e/ai_softwares_to_dub_games_voices_i_would_like_to/</link>
-      <description><![CDATA[您好，我想学习如何用我的语言为游戏配音，就像在 mod 中为《天际》所做的那样（ Mod链接）。所以我想学习但我不知道从哪里开始，使用哪些软件等...    由   提交 /u/xKhaozs   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/19dlu3e/ai_softwares_to_dub_games_voices_i_would_like_to/</guid>
-      <pubDate>Tue, 23 Jan 2024 10:55:48 GMT</pubDate>
     </item>
     <item>
       <title>为什么数学对于你的人工智能职业发展至关重要</title>
