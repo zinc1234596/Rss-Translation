@@ -4,7 +4,7 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Wed, 24 Jan 2024 00:53:46 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jan 2024 03:13:52 GMT</lastBuildDate>
     <item>
       <title>当你感到困难时如何取得进步</title>
       <link>https://feed.indiehackers.world/post/00c676d3d1</link>
@@ -61,7 +61,7 @@ Discord 独立黑客聊天广告这里]]></description>
     <item>
       <title>人工智能遇上 iPhone</title>
       <link>https://feed.indiehackers.world/post/4c19568fbf</link>
-      <description><![CDATA[我已经使用应用程序意图制作了超过 12 个 AI 快捷方式，并将它们发布在我的应用程序上，名为“行动按钮的 ∞ 快捷方式”在 iOS App Store 上 - 您也可以访问和下载（但前提是您有 iPhone）。我可能会更多地尝试它并尝试制作更高级的东西。如果其他人也尝试过为 iPhone 创建 AI 快捷方式，我很想听听任何想法。
+      <description><![CDATA[我已经使用应用程序意图制作了超过 12 个 AI 快捷方式，并将它们发布在我的应用程序上，名为“操作按钮的 ∞ 快捷方式”在 iOS App Store 上 - 您也可以访问和下载（但前提是您有 iPhone）。我可能会更多地尝试它并尝试制作更高级的东西。如果其他人也尝试过为 iPhone 创建 AI 快捷方式，我很想听听任何想法。
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/4c19568fbf</guid>
       <pubDate>Tue, 23 Jan 2024 20:31:57 GMT</pubDate>
@@ -131,10 +131,10 @@ Discord 独立黑客聊天广告这里]]></description>
     <item>
       <title>茄子 - 代理多页主题。使用 Astro、Tailwind CSS 和 MDX 构建</title>
       <link>https://feed.indiehackers.world/post/c130c871cb</link>
-      <description><![CDATA[Aubergine - Agency 多页主题
+      <description><![CDATA[Aubergine - 代理多页主题
 使用 Astro、Tailwind CSS 和MDX
 
-21页
+21 页
 50 多个部分
 60 多个组件
 
