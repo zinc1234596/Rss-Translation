@@ -4,7 +4,28 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sat, 27 Jan 2024 15:08:59 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jan 2024 18:11:25 GMT</lastBuildDate>
+    <item>
+      <title>受过教育但失业：人工智能会让你的大学学位变得毫无价值吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1acfj04/educated_but_unemployed_will_ai_render_your/</link>
+      <description><![CDATA[每个人都认为白人工人可以免受自动化的影响，我敢打赌蓝领现在正在幸灾乐祸。人们为大学欠下的巨额债务又如何呢？    由   提交 /u/Emillahr   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1acfj04/educated_but_unemployed_will_ai_render_your/</guid>
+      <pubDate>Sat, 27 Jan 2024 17:07:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>一次聊天即可支持所有 AI API？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1aceqk9/one_chat_for_all_ai_apis/</link>
+      <description><![CDATA[我正在寻找一个聊天界面，可以根据我的需要连接各种服务的所有 API，例如 GPT4、Claude、Bard、Mistrel 等并使用一个中央聊天工具而不是 5 种不同的工具。有人知道吗？ 检查了huggingChat，但可用的模型非常有限。   由   提交/u/balista02  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1aceqk9/one_chat_for_all_ai_apis/</guid>
+      <pubDate>Sat, 27 Jan 2024 16:33:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>有没有任何人工智能工具可以为我创建谷歌地图上特定区域的公司/服务的电子邮件列表？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1acdp3v/is_there_any_ai_tool_that_will_create_me_an_email/</link>
+      <description><![CDATA[大家好，有没有任何人工智能工具可以为我创建我在 Google 地图上搜索的特定区域的公司/服务的电子邮件列表？    由   提交/u/Same_Natural_9395   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1acdp3v/is_there_any_ai_tool_that_will_create_me_an_email/</guid>
+      <pubDate>Sat, 27 Jan 2024 15:47:52 GMT</pubDate>
+    </item>
     <item>
       <title>我制作了一个 B2B 自动化 SMM 工具（LinkedIn、Twitter、Facebook）</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1acbtf0/i_made_a_tool_that_automates_smm_for_b2b_linkedin/</link>
@@ -34,32 +55,11 @@
       <pubDate>Sat, 27 Jan 2024 12:57:23 GMT</pubDate>
     </item>
     <item>
-      <title>MyEssayWriterAi 推出免费 AI 释义工具</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ac9k8s/myessaywriterai_launched_free_ai_paraphrasing_tool/</link>
-      <description><![CDATA[MyEssayWriterAi 最近推出了免费 AI 释义工具！现在，用户可以进入即时、无忧释义的新时代，无需手动重写。无论您是希望完成无抄袭作业的学生，​​还是寻求新观点的内容创作者，人工智能驱动的工具都可以为您提供帮助。    由   提交/u/AntoineTracey1   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ac9k8s/myessaywriterai_launched_free_ai_paraphrasing_tool/</guid>
-      <pubDate>Sat, 27 Jan 2024 12:13:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>GCP 社区 - 使用 OriginTrail (TRAC) 和 Google Cloud 实现可信 AI，2 月 27 日</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ac9gx2/gcp_community_trusted_ai_with_origintrail_trac/</link>
-      <description><![CDATA[OriginTrail 是一个为人工智能构建可信知识基础设施的生态系统。它通过确保信息的来源并实现世界上最重要的知识和现实世界资产（RWA）的可发现性来解决人工智能时代错误信息的挑战。以开源去中心化知识图（DKG）为主要技术进步，受到谷歌知识图的启发并与 GCP 集成，其开放且无需许可的网络支持快速增长的各种知识资产基础。加入我们参加知识丰富的活动，了解如何直接在 Google Cloud 上构建去中心化人工智能！ 在建立了一个由构建者、网络利益相关者和企业组成的全球社区后，OriginTrail 将继续支持可信人工智能的开发基于 DKG，目前正在与 Google 合作，实现与 Google 旗舰 AI 和云解决方案（例如 Gemini 和 VertexAI）的进一步集成。  如果您是对人工智能、区块链和知识图谱感兴趣的构建者/爱好者，并且想了解 OriginTrail 如何使用 Google Cloud 技术，请亲自或在线加入我们。 &lt; p&gt;https://rsvp.withgoogle.com/events/gcp-community   由   提交/u/Ton1206  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ac9gx2/gcp_community_trusted_ai_with_origintrail_trac/</guid>
-      <pubDate>Sat, 27 Jan 2024 12:08:06 GMT</pubDate>
-    </item>
-    <item>
       <title>AI能做系统设计吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ac8ds2/will_ai_be_able_to_do_system_design/</link>
       <description><![CDATA[我是一名高级软件工程师，我相信人工智能最终能够进行系统设计。然而，我的朋友（从事法学硕士和人工智能工作）认为它可能永远无法进行系统设计。大家觉得怎么样？   由   提交/u/lightversetech  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ac8ds2/will_ai_be_able_to_do_system_design/</guid>
       <pubDate>Sat, 27 Jan 2024 10:56:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能的真正界限是什么？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ac73qy/what_are_the_true_bounds_of_ai/</link>
-      <description><![CDATA[这可能以前有人问过，但是，人工智能的真正界限是什么？ 我使用 chatGPT 来编写技术评估、使用 Google Photos 魔术橡皮擦编辑图片以及 Bing/Dalle 3 创建全新照片。但这只是为了搞乱和测试，如果明天它消失我也不会因此而失眠。  从长远来看，人工智能能做什么真正有益于整个社会？除了创建 Word 文档或图片或编辑文档和图片之外，它目前还能做什么？   由   提交 /u/R4d1c4lp1e   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ac73qy/what_are_the_true_bounds_of_ai/</guid>
-      <pubDate>Sat, 27 Jan 2024 09:26:37 GMT</pubDate>
     </item>
     <item>
       <title>您希望人工智能能够帮助提高哪些生产力？</title>
@@ -83,18 +83,18 @@
       <pubDate>Sat, 27 Jan 2024 01:33:39 GMT</pubDate>
     </item>
     <item>
+      <title>反腐败人工智能</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1abwmqc/anti_corruption_ai/</link>
+      <description><![CDATA[我认为将人工智能接入我们所有的州、地方和联邦政府，其唯一目的是根除腐败，这会很有趣。当然，政客们永远不会这样做，因为他们会被抓。还有私人企业的资金流动。想象一下我们能做多少事情！   由   提交/u/bmack500  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1abwmqc/anti_corruption_ai/</guid>
+      <pubDate>Fri, 26 Jan 2024 23:44:18 GMT</pubDate>
+    </item>
+    <item>
       <title>人工智能会在某个时候取代我吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1abpnhi/will_ai_replace_me_at_some_point/</link>
       <description><![CDATA[嗨，我是一名 3D 图形程序员。我害怕人工智能会在 5-20 年内取代我。 AI 构建 3D 渲染软件等复杂软件的可能性有多大？   由   提交 /u/Emergency-Win4862    reddit.com/r/ArtificialInteligence/comments/1abpnhi/will_ai_replace_me_at_some_point/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1abpnhi/will_ai_replace_me_at_some_point/</guid>
       <pubDate>Fri, 26 Jan 2024 18:46:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要有关 AI NSFW 内容的帮助</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1abn30r/need_help_with_ai_nsfw_stuff/</link>
-      <description><![CDATA[我找不到更好的地方来提问，所以如果这不是解决我的问题的最佳地方，我很抱歉，但我正在寻找一个免费的人工智能聊天机器人，它可以根据我要求它寻找的内容推荐色情视频。就像它搜索奇怪的具体细节一样，我要求视频需要满足我的标准。如果有人知道一个聊天机器人可以做到这一点，并且是免费的并且不会被锁定在付费墙后面，我将非常感激。期待你们需要最好的回应。   由   提交/u/Wheel-Secondary407  /u/Wheel-Secondary407 reddit.com/r/ArtificialInteligence/comments/1abn30r/need_help_with_ai_nsfw_stuff/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1abn30r/need_help_with_ai_nsfw_stuff/</guid>
-      <pubDate>Fri, 26 Jan 2024 16:58:57 GMT</pubDate>
     </item>
     <item>
       <title>新的反垃圾邮件/机器人规则[请阅读]</title>

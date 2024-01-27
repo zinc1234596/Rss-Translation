@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 27 Jan 2024 15:10:07 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jan 2024 18:12:41 GMT</lastBuildDate>
+    <item>
+      <title>是否有任何自由和开源软件健康监控应用程序/程序？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1acg7j5/are_there_any_foss_health_monitoring_appsprograms/</link>
+      <description><![CDATA[我真的很喜欢这个名为 Ornament 的 Android 应用程序，您可以将实验室结果上传到其中，它会为您提供标记如何变化的概述和历史记录时间，以及一些分析。  我不喜欢的部分是您必须支付订阅费用，并将我的健康数据提供给第三方。有谁知道有任何应用程序/程序可以执行相同或类似的操作吗？   由   提交/u/dontdrinkacid  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1acg7j5/are_there_any_foss_health_monitoring_appsprograms/</guid>
+      <pubDate>Sat, 27 Jan 2024 17:37:30 GMT</pubDate>
+    </item>
     <item>
       <title>人工智能语音转文字？</title>
       <link>https://www.reddit.com/r/opensource/comments/1ac8xbw/speechtotext_with_ai/</link>
@@ -92,23 +99,16 @@
     <item>
       <title>新的开源 WireGuard 桌面客户端（具有多重身份验证）</title>
       <link>https://www.reddit.com/r/opensource/comments/19fbj03/new_opensource_wireguard_desktop_client_with/</link>
-      <description><![CDATA[我们发布了新版本defguard 桌面客户端现在支持任何WireGuard 服务器。 此外，我们还引入了首创的 WireGuard 多重身份验证。  祝您测试和保护 WireGuard 设置顺利！   由   提交/u/robert_teonite  [链接] [评论]]]></description>
+      <description><![CDATA[我们发布了新版本defguard 桌面客户端现在支持任何WireGuard 服务器。 此外，我们还引入了首创的 WireGuard 多重身份验证。  祝您测试并保护您的 WireGuard 设置顺利！   由   提交/u/robert_teonite  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/19fbj03/new_opensource_wireguard_desktop_client_with/</guid>
       <pubDate>Thu, 25 Jan 2024 15:11:43 GMT</pubDate>
     </item>
     <item>
-      <title>FiddlerCore 的开源替代品</title>
+      <title>FiddlerCore 的开源替代方案</title>
       <link>https://www.reddit.com/r/opensource/comments/19fa16v/an_open_source_alternative_for_fiddlercore/</link>
       <description><![CDATA[ 由   提交 /u/DifficultyFine   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/19fa16v/an_open_source_alternative_for_fiddlercore/</guid>
       <pubDate>Thu, 25 Jan 2024 14:02:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 DCO（开发者原产地证书）的最佳实践是什么？</title>
-      <link>https://www.reddit.com/r/opensource/comments/19eze3l/what_are_best_practices_for_using_a_dco_developer/</link>
-      <description><![CDATA[DCO 简而言之，是可以根据项目许可条款提交代码贡献的证明。 （或类似的东西）。 Linux 使用 DCO。 GCC 使用 DCO。然而，FSF 对于 DCO 仍然持观望态度。 I不太相信 FSF 会提供没有意识形态语义扭曲的意见，那么谁是这些主题的真正最佳来源，他们建议如何正确启动项目？ 包括使用 git 的工作流程，考虑到 PR 等因素，使用 DCO 的理想方式是什么？哪些许可证可以或不能真正从中受益？ 我一直在将 DCO 添加到我的项目中，以传播实践并致​​力于工具和流程，但我想加强如何使用它们并传达正确的信息。谢谢。   由   提交 /u/Psionikus   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/19eze3l/what_are_best_practices_for_using_a_dco_developer/</guid>
-      <pubDate>Thu, 25 Jan 2024 03:08:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
