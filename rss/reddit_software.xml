@@ -4,7 +4,21 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sat, 27 Jan 2024 06:12:52 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jan 2024 09:09:56 GMT</lastBuildDate>
+    <item>
+      <title>是否有适用于 Windows 桌面的免费通用拼写检查器，适用于我使用的所有 SM 应用程序，例如 Messenger、WhatsApp 等？</title>
+      <link>https://www.reddit.com/r/software/comments/1ac54t5/is_there_a_free_universal_spell_checker_for/</link>
+      <description><![CDATA[ 由   提交 /u/4everonlyninja   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ac54t5/is_there_a_free_universal_spell_checker_for/</guid>
+      <pubDate>Sat, 27 Jan 2024 07:12:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>电视仪表板软件/其他选项</title>
+      <link>https://www.reddit.com/r/software/comments/1ac4vqs/tv_dashboard_softwareother_options/</link>
+      <description><![CDATA[为了保持简短，我会尽量简洁，因为我觉得解释起来有点复杂。但首先，一些背景知识。基本上，我想在一天中的某些时间（即早上、晚餐时间等）将客厅里的电视变成信息仪表板，但我似乎找不到软件或执行此操作的方法，所以我发现自己在这里。我想显示的一些信息包括当天的天气和天气预报、日历日和发生的任何事件、集成到我拥有的食谱管理应用程序中，该应用程序允许膳食计划、提醒我当天的膳食是什么等。我想到了几种显示此信息的方法，概述如下。  同时显示所有信息 在这种情况下，所有数据同时显示在屏幕上。例如，天气在左上角，日历日和事件在右上角，食谱在左下角，等等。这最初是我的第一个想法，但似乎是最难的。 应用幻灯片我觉得这个比较实用，只是不那么好看。本质上，在启动时，所有应用程序都会打开。从那时起，我最终使用的软件将在每个窗口之间切换，假设每 30 秒切换一次。它现在看起来可能不错，但它可以工作。 我设计自己的应用程序或脚本我不是软件设计师，我只掌握了 Java 的初步知识。但如果可能的话（以及从哪里开始的一些方向）我可以确信创建自己的应用程序，可以执行 API 调用或在这些其他应用程序上进行任何操作来提取信息并显示它们，那么这可能会起作用。&lt; /li&gt;  非常感谢任何软件推荐或见解。这适用于 Windows 10，但如果存在适用于 11 或 Linux 发行版的东西，那么我可以研究一下。 谢谢！   由   提交 /u/Mystery-Ghost   /u/Mystery-Ghost  reddit.com/r/software/comments/1ac4vqs/tv_dashboard_softwareother_options/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ac4vqs/tv_dashboard_softwareother_options/</guid>
+      <pubDate>Sat, 27 Jan 2024 06:56:31 GMT</pubDate>
+    </item>
     <item>
       <title>移动赌场/游戏开发商？</title>
       <link>https://www.reddit.com/r/software/comments/1ac39nh/mobile_casinogaming_developer/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[就上下文而言，我导出了 WhatsApp 群聊，我讨厌它导出的方式，所以我决定复制聊天，并将其制作为WhatsApp UI 格式，并将其另存为 PDF。我知道的所有其他应用程序都可以做到这一点，但不会添加回复、媒体，甚至语音注释。这并不是很有帮助。 我知道您可以链接 PDF 上的媒体，因此当您单击它时，它会打开，这没关系，但如果将 PDF 发送给人们将是一场噩梦。我想知道是否有一种类似于 PDF 的文件类型，可以移动 GIF。 这不是我最好的帖子之一，而且听起来有点愚蠢，但我仍然想知道它是否是可能的。我相信“寻找软件”应该是正确的天赋。提前谢谢您。   由   提交 /u/RiverHe1ghts   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1abl8bi/hi_everyone_is_there_a_file_type_similar_to_pdfs/</guid>
       <pubDate>Fri, 26 Jan 2024 15:42:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>批量文件夹重命名，仅限带有子文件夹的二级文件夹。</title>
-      <link>https://www.reddit.com/r/software/comments/1abkbtx/bulk_folder_renaming_only_2nd_level_folders_with/</link>
-      <description><![CDATA[我有一个图书收藏，设置如下  作者/标题（文件）  Author/NameOfSeries/01 标题(文件) Author/NameOfSeries/02 标题(文件)  获取  作者/标题（文件） 作者/NameOfSeries Series/01 标题（文件） 作者/NameOfSeries Series/02 标题（文件）  I想要将单词 Series 添加到 NameOfSeries 文件夹中。所以我只会重命名包含子文件夹的二级文件夹。我在批量重命名实用程序论坛上询问过，该程序目前不执行此操作...有人知道有一个程序可以执行此操作吗？ 谢谢（并祈祷）。 &lt; /div&gt;  由   提交/u/apri11a  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1abkbtx/bulk_folder_renaming_only_2nd_level_folders_with/</guid>
-      <pubDate>Fri, 26 Jan 2024 15:02:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>我需要 pdf 查看器和编辑器</title>
-      <link>https://www.reddit.com/r/software/comments/1abjf7f/i_need_pdf_viewer_editor/</link>
-      <description><![CDATA[有没有比drawboard pdf更好的pdf编辑器？我的意思是可以突出显示并具有许多工具且灵活的东西！我找不到更好的替代品，请推荐一些应用程序!!   由   提交/u/Snoo31580  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1abjf7f/i_need_pdf_viewer_editor/</guid>
-      <pubDate>Fri, 26 Jan 2024 14:20:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
