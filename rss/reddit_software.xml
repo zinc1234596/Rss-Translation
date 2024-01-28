@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sun, 28 Jan 2024 18:12:08 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jan 2024 21:11:55 GMT</lastBuildDate>
+    <item>
+      <title>寻找自动化软件：根据关键字查找文件并将其移动到特定文件夹</title>
+      <link>https://www.reddit.com/r/software/comments/1adaxup/looking_for_automation_software_find_files_based/</link>
+      <description><![CDATA[我有一个每周下载数十个文件的系统。我想要的是能够完成将每个文件移动到预定文件夹中的繁重任务的软件。就像“Abramson 32 Part 2 (2024)”将进入每个“Abramson (2024)”的文件夹中。 “Silicon 7.7 (2024)”将进入名为“Silicon (2024)”的文件夹。 有人可以帮我找到最适合此操作的软件吗？ 请注意：我会希望为 Windows 找到这个，将来也为 Linux 找到这个   由   提交/u/KublaKahhhn   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1adaxup/looking_for_automation_software_find_files_based/</guid>
+      <pubDate>Sun, 28 Jan 2024 19:35:16 GMT</pubDate>
+    </item>
     <item>
       <title>基于网络的协作编辑文档</title>
       <link>https://www.reddit.com/r/software/comments/1ad8pv0/webbased_collaborative_editing_document/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.reddit.com/r/software/comments/1acs7xq/my_windows_software_set_up_anything_missing_or/</guid>
       <pubDate>Sun, 28 Jan 2024 02:44:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>不带“亚洲”字体的 Windows 文字处理程序</title>
-      <link>https://www.reddit.com/r/software/comments/1acps26/word_processing_program_for_windows_without_asian/</link>
-      <description><![CDATA[是否有适用于 Windows (10) 的文字处理程序不会强迫您使用不同的字体拉丁字符？我不明白为什么会这样，因为我知道 Courier New（我经常使用的字体）有“亚洲”字样。其中包含语言字符，因此没有理由必须为中文或日文字符使用不同的字体。我通常使用 Google 文档来处理所有事情，但我想写一些东西并只将其保留在我的计算机上，这就是为什么我以前从未遇到过这个问题。我尝试在 Google 上搜索答案，但没有找到任何内容（或者至少我不知道如何表达）。   由   提交 /u/AlexanderMasonBowser   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1acps26/word_processing_program_for_windows_without_asian/</guid>
-      <pubDate>Sun, 28 Jan 2024 00:41:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
