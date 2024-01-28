@@ -4,11 +4,18 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sun, 28 Jan 2024 09:11:54 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jan 2024 12:17:14 GMT</lastBuildDate>
+    <item>
+      <title>流行 2FA 应用程序中的安全和隐私问题——“我们发现 Google Play 商店中所有通用 Android TOTP 应用程序的安装量至少有 10 万次，并且实现了备份机制 (n = 22)。”</title>
+      <link>https://www.reddit.com/r/software/comments/1aczvvy/security_and_privacy_failures_in_popular_2fa_apps/</link>
+      <description><![CDATA[ 由   提交/u/throtaway16830261   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1aczvvy/security_and_privacy_failures_in_popular_2fa_apps/</guid>
+      <pubDate>Sun, 28 Jan 2024 10:34:53 GMT</pubDate>
+    </item>
     <item>
       <title>寻找适用于 youtube 的广告拦截器</title>
       <link>https://www.reddit.com/r/software/comments/1acyavs/looking_for_adblockers_that_work_with_youtube/</link>
-      <description><![CDATA[所以从几个月前开始，我们都知道 YouTube 已经添加了某种针对广告拦截器的检测，而且每次都要观看这些糟糕的广告，这真的很烦人几分钟。每当我使用广告拦截器时，它都会工作一两天，然后 YouTube 发现它，我必须再次禁用它。我尝试的最后一个是 Total Adblock，它现在也停止工作了。有什么东西可以持续1-3天以上吗？我现在正在使用 Chrome。   由   提交/u/Quasimodo11111  [链接] [评论]]]></description>
+      <description><![CDATA[所以，从几个月前开始，我们都知道 YouTube 已经添加了某种针对广告拦截器的检测，而且每次都要观看这些糟糕的广告，这真的很烦人。几分钟。每当我使用广告拦截器时，它都会工作一两天，然后 YouTube 发现它，我必须再次禁用它。我尝试的最后一个是 Total Adblock，它现在也停止工作了。有什么东西可以持续1-3天以上吗？我现在正在使用 Chrome。   由   提交/u/Quasimodo11111  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1acyavs/looking_for_adblockers_that_work_with_youtube/</guid>
       <pubDate>Sun, 28 Jan 2024 08:44:50 GMT</pubDate>
     </item>
@@ -27,7 +34,7 @@
       <pubDate>Sun, 28 Jan 2024 08:24:03 GMT</pubDate>
     </item>
     <item>
-      <title>寻找可以将按键分配给特定软件的软件，即使打开了不同的选项卡</title>
+      <title>寻找可以将密钥分配给特定软件的软件，即使打开了不同的选项卡</title>
       <link>https://www.reddit.com/r/software/comments/1acuw5e/looking_for_software_that_can_assign_keys_to/</link>
       <description><![CDATA[我会尽量保持简单，问题是： 我使用 OBS 从多个源进行记录，其中一个是PowerPoint 演示文稿。我有一个简单的无线答题器，它使用虚拟箭头键在幻灯片之间切换。  问题是，当我打开 OBS 时，单击箭头键会更改场景。要切换到下一张幻灯片，我必须切换回 PowerPoint 查看器，然后返回 OBS 来切换场景（如有必要）。  我没有任何方法可以重新映射无线答题器，即使如此，我仍然需要切换到 PowerPoint 查看器才能切换到下一页，因为它必须打开才能进行使用任何快捷方式。  有什么办法可以解决这个问题吗？   由   提交 /u/ishkidor   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1acuw5e/looking_for_software_that_can_assign_keys_to/</guid>
@@ -57,7 +64,7 @@
     <item>
       <title>不带“亚洲”字体的 Windows 文字处理程序</title>
       <link>https://www.reddit.com/r/software/comments/1acps26/word_processing_program_for_windows_without_asian/</link>
-      <description><![CDATA[是否有适用于 Windows (10) 的文字处理程序不会强制您使用不同的字体拉丁字符？我不明白为什么会这样，因为我知道 Courier New（我经常使用的字体）有“亚洲”字样。其中包含语言字符，因此没有理由必须为中文或日文字符使用不同的字体。我通常使用 Google 文档来处理所有事情，但我想写一些东西并只将其保留在我的计算机上，这就是为什么我以前从未遇到过这个问题。我尝试在 Google 上搜索答案，但没有找到任何内容（或者至少我不知道如何表达）。   由   提交 /u/AlexanderMasonBowser   [链接] [评论]]]></description>
+      <description><![CDATA[是否有适用于 Windows (10) 的文字处理程序不会强迫您使用不同的字体拉丁字符？我不明白为什么会这样，因为我知道 Courier New（我经常使用的字体）有“亚洲”字样。其中包含语言字符，因此没有理由必须为中文或日文字符使用不同的字体。我通常使用 Google 文档来处理所有事情，但我想写一些东西并只将其保留在我的计算机上，这就是为什么我以前从未遇到过这个问题。我尝试在 Google 上搜索答案，但没有找到任何内容（或者至少我不知道如何表达）。   由   提交 /u/AlexanderMasonBowser   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1acps26/word_processing_program_for_windows_without_asian/</guid>
       <pubDate>Sun, 28 Jan 2024 00:41:41 GMT</pubDate>
     </item>
@@ -78,7 +85,7 @@
     <item>
       <title>需要 IDM 下载帮助</title>
       <link>https://www.reddit.com/r/software/comments/1acmzx4/need_help_with_idm_downloads/</link>
-      <description><![CDATA[有办法阻止它出现在我脸上吗？当我玩游戏时，它会弹出并且我在桌面上。如何禁用此功能以及来自 IDM 的任何类型的通知？ https://preview.redd.it/ggb9fd8b82fc1.png?width=392&amp;format=png&amp;auto=webp&amp;s=dbf801cfbe4e6742833a249a3e7831a402a41 06b   由   提交/u/ssam07303  [链接] [评论]]]></description>
+      <description><![CDATA[有办法阻止这个问题出现在我脸上吗？当我玩游戏时，它会弹出并且我在桌面上。如何禁用此通知以及来自 IDM 的任何类型的通知？ https://preview.redd.it/ggb9fd8b82fc1.png?width=392&amp;format=png&amp;auto=webp&amp;s=dbf801cfbe4e6742833a249a3e7831a402a41 06b   由   提交/u/ssam07303  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1acmzx4/need_help_with_idm_downloads/</guid>
       <pubDate>Sat, 27 Jan 2024 22:35:42 GMT</pubDate>
     </item>
@@ -92,7 +99,7 @@
     <item>
       <title>希望从单台机器监控 2-3 个连接</title>
       <link>https://www.reddit.com/r/software/comments/1acl9ll/looking_to_monitor_23_connections_from_single/</link>
-      <description><![CDATA[长话短说 我的路由器（华硕）已经用了大约3年了 我最近也换了ISP 并有他们的路由器/调制解调器组合（我必须为我的 2.gig 速度） 我定期遇到连接问题，我试图找出是新 ISP 有问题还是我的路由器有问题快死了。 我的调制解调器/路由器、路由器和硬连线回程 AP/交换机都有硬线。 我想将所有 3 个设备连接到同一台计算机（Windows 或 Debian） ）并能够比较丢弃发生的时间，以便我可以查看是否所有设备都离线/同时经历高延迟，或者在下游发生的位置 我需要能够监控 2，如果不是 3，同时连接，更喜欢免费或至少 30 天试用版软件   由   提交/u/Adventurous_Lie2257   [链接] [评论]]]></description>
+      <description><![CDATA[长话短说 我的路由器（华硕）已经用了大约3年了 我最近也换了ISP 并有他们的路由器/调制解调器组合（我必须为我的 2.gig 速度） 我定期遇到连接问题，我试图找出是新 ISP 有问题还是我的路由器有问题快死了。 我的调制解调器/路由器、路由器和硬连线回程 AP/交换机都有硬线。 我想将所有 3 个设备连接到同一台计算机（Windows 或 Debian） ）并能够比较丢弃发生的时间，以便我可以查看是否所有设备都离线/同时经历高延迟，或者在下游发生的情况 我需要能够监控 2，如果不是 3，同时连接，更喜欢免费或至少 30 天试用版软件   由   提交/u/Adventurous_Lie2257   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1acl9ll/looking_to_monitor_23_connections_from_single/</guid>
       <pubDate>Sat, 27 Jan 2024 21:17:17 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[大家好， 我正在寻找用于文本翻译的软件。我使用 GIMP 创建了一个图像来说明我想要实现的目标：手动选择文本行（通过矩形或多边形）并在单独的窗口（可以位于侧面）中注释音译和翻译以编辑文本，每行都是独立的实体。理想情况下，我想区分这两行，以便在导出数据时分别进行音译和翻译，但与 jpg 中的同一行相关联。 寻找类似的内容，我可以说这与LabelImg等软件类似。然而，在这种情况下，目标不是为机器学习标记元素；而是为机器学习标记元素。相反，我正在寻找一种用户友好的解决方案来处理文本，而不是将文本放在像 Word 这样的单独文档中，与图像断开连接。 我提前感谢您的建议。 &gt; https://preview.redd.it/ i2gblvq831fc1.png?width=1264&amp;format=png&amp;auto=webp&amp;s=5e1d5d32e3bbaf14f591bc7ba2d0958f5993125a   由   提交/u/ChanceOregon68   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1achs92/windows_simple_image_annotation_for_working_on/</guid>
       <pubDate>Sat, 27 Jan 2024 18:45:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有使用参考物体的二维自动测量软件？</title>
-      <link>https://www.reddit.com/r/software/comments/1acgtql/is_there_an_2d_automeasuring_software_that_uses/</link>
-      <description><![CDATA[有没有软件可以自动测量弯管的尺寸，而不需要手动选择起点和终点？ 我的目标是将硬币放在管道底部作为参考对象，拍摄自上而下的图片（使其成为 2D），并让软件使用硬币作为测量的参考（已知）和开始观点。我正在寻找一种工具，可以自动检测管道末端的端点，考虑物体的曲率，并提供测量结果。 https://preview.redd.it/tujqghtyv0fc1.png?width=1966&amp;format=png&amp;auto =webp&amp;s=f3d7220c58797b4b7b7e49d18c55d7213ab06500   由   提交 /u/Stock_Guru_Rybread   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1acgtql/is_there_an_2d_automeasuring_software_that_uses/</guid>
-      <pubDate>Sat, 27 Jan 2024 18:04:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
