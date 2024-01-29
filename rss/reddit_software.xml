@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Mon, 29 Jan 2024 18:13:31 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jan 2024 21:10:08 GMT</lastBuildDate>
+    <item>
+      <title>有没有一款软件可以与 VLC Player 竞争？</title>
+      <link>https://www.reddit.com/r/software/comments/1ae4tsk/is_there_a_software_that_can_give_vlc_player_a/</link>
+      <description><![CDATA[我正在寻找 VLC 播放器的替代方案。还有其他球员同样优秀甚至更好吗？   由   提交/u/TheChoosenOnex   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ae4tsk/is_there_a_software_that_can_give_vlc_player_a/</guid>
+      <pubDate>Mon, 29 Jan 2024 20:09:04 GMT</pubDate>
+    </item>
     <item>
       <title>编辑pdf的软件</title>
       <link>https://www.reddit.com/r/software/comments/1ae14o1/software_to_edit_a_pdf/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[有一个 MID 文件，由于某种原因，我无法直接通过软件导出它，因为只有 Windows 驱动程序能够重新识别模式;没有其他驱动程序可以工作（不知道如何）。 我想将其导出为 .WAV、.AIFF 或 FLAC，这样我就可以拥有与原始乐器相同的乐器质量   由   提交 /u/NicDima   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1adhzke/programs_to_record_the_computer_audio_in_lossless/</guid>
       <pubDate>Mon, 29 Jan 2024 00:37:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>Python 绘图库，绘制到 numpy 数组中，矢量化（不是单个循环）</title>
-      <link>https://www.reddit.com/r/software/comments/1adhuh8/python_plotting_lib_that_plots_into_numpy_array/</link>
-      <description><![CDATA[ 由   提交 /u/Embarrassed-Mix6420    reddit.com/r/Python/comments/19cfgei/python_plotting_lib_that_plots_into_numpy_array/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1adhuh8/python_plotting_lib_that_plots_into_numpy_array/</guid>
-      <pubDate>Mon, 29 Jan 2024 00:30:21 GMT</pubDate>
     </item>
     </channel>
 </rss>

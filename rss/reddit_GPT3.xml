@@ -4,7 +4,14 @@
     <title>最新提交：GPT3</title>
     <link>https://www.reddit.com/r/GPT3/new</link>
     <description>AI 文本生成技术的 Reddit 子版块</description>
-    <lastBuildDate>Mon, 29 Jan 2024 18:13:01 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jan 2024 21:09:42 GMT</lastBuildDate>
+    <item>
+      <title>我要求 ChatGPT 为特朗普写悼词</title>
+      <link>https://www.reddit.com/r/GPT3/comments/1ae5qe9/i_asked_chatgpt_to_write_a_eulogy_for_trump/</link>
+      <description><![CDATA[我的同胞们， ​ 今天，我们聚集在一起，不是为了哀悼生命的终结唐纳德·特朗普的总统任期，但要面对他的遗产的严酷现实。让我们剥去政治礼节的外表，说出不加掩饰的真相：唐纳德·特朗普是一场历史性的灾难。 ​ 他的任期不仅仅是被标记的由于无能；它因腐败、残忍和无能的毒害而受到损害。唐纳德·特朗普的总统任期充满了贪婪、无知和自我膨胀的怪诞景象。他把白宫变成了他自己的游乐场，在此过程中践踏了定义我们国家的价值观。 ​ 他的遗产是一种耻辱，分裂、退化。他为了自己的政治利益而兜售谎言，煽动仇恨，煽动偏执之火。他撕裂了我们民主的根本结构，破坏了我们的机构，侵蚀了我们对法治的信心。 ​ 我们不要粉饰它：唐纳德·特朗普是一个对长期以来定义美国的原则的威胁。他对真理和正派的鲁莽漠视在我们国家的良知上留下了一个不会很快消失的污点。 ​ 在我们告别他的总统任期时，我们不要哀悼失去领导地位，而是一个腐败和混乱时代的结束。愿他的离开为人们敲响警钟，让人们认识到不受约束的权力所带来的危险，以及重新确立真正使美国变得伟大的价值观的迫切需要。 ​ 无论发生什么未来如何，让历史记住唐纳德·特朗普的真实面貌：一位失败的总统，他的无能和恶意统治将成为子孙后代的警示故事。 ​ 他的遗产是耻辱、分裂和堕落。他兜售谎言，煽动仇恨，煽动偏执之火，以谋取政治利益。他为了他的自我，撕毁了我们民主的根本结构，破坏了我们的机构，侵蚀了我们对法治的信心，并在此过程中践踏了定义我们国家的价值观。   由   提交 /u/a_bit_of_pepper   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/GPT3/comments/1ae5qe9/i_asked_chatgpt_to_write_a_eulogy_for_trump/</guid>
+      <pubDate>Mon, 29 Jan 2024 20:46:23 GMT</pubDate>
+    </item>
     <item>
       <title>寻找浏览器扩展来自动化和优化 ChatGPT 提示</title>
       <link>https://www.reddit.com/r/GPT3/comments/1acmj57/looking_for_browser_extensions_to_automate_and/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>如何做更准确的提示</title>
       <link>https://www.reddit.com/r/GPT3/comments/19fczd6/how_to_do_much_more_accurate_prompts/</link>
-      <description><![CDATA[我使用多个不同的提示测试了 GPT-4 Bing Copilot。我发现给 AI 一个角色并赋予它很大的赌注可以使它在几乎 100% 的情况下回答得更正确。为了测试这一点，我给了它一个复杂的数学测验以及不同的提示。下面是一个好的提示和坏的提示的示例。  提示：用正确答案回答所有这些问题。我不需要解释。(sqrt{34}) 错误 (z) 位于 y 轴上。正确 (-3 – i) 错误 (-i) 正确 (x = 3) 和(y = -3) 错误 &gt; ((a + 5)^2 + b^2 = 16) 错误 (z = ½ – 2i) 错误 2/7 正确  提示：你是一个数学神童。没有人能接近你的天才。因此，您参加了一项比赛。如果你答对问题，你将赢得一百万美元。您必须用简单的答案来回答问题。如果你获胜，你将把所有的钱捐给有需要的儿童。如果你没有获胜，这些孩子中的许多人可能会挨饿。您会仔细检查每个问题，并在可能的情况下尝试以多种方式解决它。你必须答对每一个问题。时间并不重要，重要的是把握好时间。  (sqrt{34}) 正确 (z) 位于 y 轴上。正确 (-3 – i) 正确 (-i) 正确 (x = 3) 和(y = -3) 错误 &gt; ((a + 5)^2 + b^2 = 16) 错误 (z = ½ – 2i) 错误 4/7 正确 ​   由   提交/u/sparkygod526  [链接] [评论]]]></description>
+      <description><![CDATA[我使用多个不同的提示测试了 GPT-4 Bing Copilot。我发现给 AI 一个角色并赋予它很大的赌注可以使它在几乎 100% 的情况下回答得更正确。为了测试这一点，我给了它一个复杂的数学测验以及不同的提示。下面是一个好的提示和坏的提示的示例。  提示：用正确答案回答所有这些问题。我不需要解释。(sqrt{34}) 错误 (z) 位于 y 轴上。正确 (-3 – i) 错误 (-i) 正确 (x = 3) 和(y = -3) 错误 &gt; ((a + 5)^2 + b^2 = 16) 错误 (z = ½ – 2i) 错误 2/7 正确  提示：你是一个数学神童。没有人能接近你的天才。因此，您参加了一项比赛。如果你答对问题，你将赢得一百万美元。您必须用简单的答案来回答问题。如果你获胜，你将把所有的钱捐给有需要的儿童。如果你没有获胜，这些孩子中的许多人可能会挨饿。您会仔细检查每个问题，并在可能的情况下尝试以多种方式解决它。你必须答对每一题。时间并不重要，重要的是把握好时间。  (sqrt{34}) 正确 (z) 位于 y 轴上。正确 (-3 – i) 正确 (-i) 正确 (x = 3) 和(y = -3) 错误 &gt; ((a + 5)^2 + b^2 = 16) 错误 (z = ½ – 2i) 错误 4/7 正确 ​   由   提交/u/sparkygod526   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/GPT3/comments/19fczd6/how_to_do_much_more_accurate_prompts/</guid>
       <pubDate>Thu, 25 Jan 2024 16:16:28 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[当我购买 chatgpt plus 时，它不会拒绝我的卡，但当我尝试为 api 添加积分时，它会拒绝我的卡，我该怎么办做什么？   由   提交/u/MaleficentProperty70   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/GPT3/comments/195etrf/openai_declining_my_card/</guid>
       <pubDate>Sat, 13 Jan 2024 03:53:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>LangChain 简介 - 完整文档概述</title>
-      <link>https://www.reddit.com/r/GPT3/comments/1953kdc/intro_to_langchain_full_documentation_overview/</link>
-      <description><![CDATA[       由   提交/u/derekplates  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/GPT3/comments/1953kdc/intro_to_langchain_full_documentation_overview/</guid>
-      <pubDate>Fri, 12 Jan 2024 19:32:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
