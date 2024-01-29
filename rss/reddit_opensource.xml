@@ -4,7 +4,7 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 29 Jan 2024 09:12:35 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jan 2024 12:20:09 GMT</lastBuildDate>
     <item>
       <title>在具有严格知识产权规则的大学发布开源软件</title>
       <link>https://www.reddit.com/r/opensource/comments/1adr0ln/publishing_opensource_software_at_a_university/</link>
@@ -25,13 +25,6 @@
       <description><![CDATA[嗨，社区， 我最近遇到了一个非常有创意的 API 测试工具，并正在努力为它做出贡献。  其亮点在于能够借助Java代理捕获真实的生产流量（包括请求和响应消息），然后在测试环境中重放流量以测试新版本应用程序并帮助测试人员通过比较消息中的差异来快速调试。 我认为这是一个好主意，但是有很多用户（大多数是软件测试人员），包括我在内，觉得比较消息无助于调试解决他们的问题。您对这个想法有任何疑问或想法吗？我非常感谢您对我们项目的想法。   由   提交/u/Radiant-Collar2867  /u/Radiant-Collar2867 reddit.com/r/opensource/comments/1adjz2b/a_few_thoughts_on_api_testing_without_writing/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1adjz2b/a_few_thoughts_on_api_testing_without_writing/</guid>
       <pubDate>Mon, 29 Jan 2024 02:15:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>Python 绘图库，绘制到 numpy 数组中，矢量化（不是单个循环）</title>
-      <link>https://www.reddit.com/r/opensource/comments/1adhwqz/python_plotting_lib_that_plots_into_numpy_array/</link>
-      <description><![CDATA[ 由   提交 /u/Embarrassed-Mix6420    reddit.com/r/Python/comments/19cfgei/python_plotting_lib_that_plots_into_numpy_array/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1adhwqz/python_plotting_lib_that_plots_into_numpy_array/</guid>
-      <pubDate>Mon, 29 Jan 2024 00:33:28 GMT</pubDate>
     </item>
     <item>
       <title>开源跨平台任务管理器应用程序/网站？</title>
@@ -109,6 +102,13 @@
       <description><![CDATA[我正在寻找完全开源的 Python 脚本或应用程序，以将音频无缝转录为法语文本。  我不喜欢网站，因为在大多数情况下（大约 99% 的时间）它们通常带有限制和限制。  你知道我在哪里可以找到合适的东西吗？   由   提交/u/clara59000  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ac8xbw/speechtotext_with_ai/</guid>
       <pubDate>Sat, 27 Jan 2024 11:32:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>作为一个小型开源项目如何获得赞助商？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ac89b0/how_to_get_sponsors_as_a_small_open_source_project/</link>
+      <description><![CDATA[开源您好！ 作为一个相对较小的开源项目（2k 颗星），我们正在努力争取更多赞助商。我们找到赞助商至关重要，因为随着项目的发展势头，与项目相关的成本也在增加。我们还希望满足赞助商的某些特定需求。我们目前仅使用 github 赞助商。 无论如何，以下是我们尝试增加赞助商数量的方法：  致力于改进赞助商页面 (https://github.com/sponsors/f3d-app) 沟通关于每个版本的赞助商 (https://github.com/f3d-app/f3d/releases/ tag/v2.3.0) 通过我们的自述文件 (https:// github.com/f3d-app/f3d#support) 建议有鉴赏力的用户赞助我们（就问题等）  我们有一件事还没有尝试过的是添加更多的赞助方式，比如 patreon 之类的。我们正在考虑。 我们不想在代码源中添加对赞助商的激励。 你们赞助 github 上的项目吗？是什么让您决定赞助一个项目？我们怎样才能温和地建议我们的用户赞助我们？我是否遗漏了其他项目所拥有的重要内容？   由   提交 /u/GloWondub   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ac89b0/how_to_get_sponsors_as_a_small_open_source_project/</guid>
+      <pubDate>Sat, 27 Jan 2024 10:47:47 GMT</pubDate>
     </item>
     </channel>
 </rss>

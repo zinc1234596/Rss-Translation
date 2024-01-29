@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Mon, 29 Jan 2024 06:12:13 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jan 2024 12:05:18 GMT</lastBuildDate>
     <item>
-      <title>[媒体]网络内容讨论了动漫中频繁出现的MIT。</title>
-      <link>https://t.me/hn_summary/71561</link>
-      <description><![CDATA[动漫中的麻省理工学院
-网络内容讨论了 MIT 在动漫中的频繁出现。动画中经常提到麻省理工学院作为非日本先进技术的通用来源。麻省理工学院在动漫领域的突出地位可能是由于其在先进技术和科学方面的良好声誉。麻省理工学院副校长兼院长万尼瓦尔·布什在“Serial Experiments Lain”中扮演了重要角色。其他动漫系列中也提到了麻省理工学院的毕业生，例如《Nadesico》、《新世纪福音战士》、《机动警察》、《绫之谷神星》等。网页内容还包括与 MIT 在动漫中出现相关的屏幕截图和图像。]]></description>
-      <guid>https://t.me/hn_summary/71561</guid>
-      <pubDate>Mon, 29 Jan 2024 06:12:13 GMT</pubDate>
+      <title>[媒体]这条 Twitter 帖子将带您踏上对苏联进行逆向工程的迷人旅程 [...]</title>
+      <link>https://t.me/hn_summary/71586</link>
+      <description><![CDATA[对苏联 CMOS 芯片进行逆向工程
+这篇 Twitter 帖子将带您踏上对苏联 CMOS 芯片进行逆向工程的迷人旅程。作者是一位熟练的工程师，他分享了他们剖析芯片、识别其组件和破译其功能的逐步过程。他们发现了一些令人惊讶的功能，例如隐藏的加密算法和独特的节能机制。作者还强调了围绕该芯片起源的争议，因为它是在冷战时期开发的。对于任何对老式技术及其隐藏的秘密感兴趣的人来说，此帖子是必读的。]]></description>
+      <guid>https://t.me/hn_summary/71586</guid>
+      <pubDate>Mon, 29 Jan 2024 12:05:18 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 该项目的目的是配置、部署和启动名为 llama.c 的服务器 [...]</title>
-      <link>https://t.me/hn_summary/71560</link>
-      <description><![CDATA[在 AWS 上显示 HN：Terraform llama.cpp，用于您自己的生成 API 
-该项目的目的是使用 Terraform 在 AWS 实例上配置、部署和启动名为 llama.cpp 的服务器。该项目包括 CUDA、OpenBlas 和 Intel oneMKL 编译、具有 API 密钥的安全端点、HTTPS 支持和用户定义模型等功能。作者提到该项目是在原生支持 API 密钥之前创建的，并且它使用 Apache APISIX 作为 API 网关。该项目还提供了贡献和报告问题的说明。此外，自述文件还包含有关先决条件、配置选项以及如何更新 llama.cpp 版本或部署新模型的信息。]]></description>
-      <guid>https://t.me/hn_summary/71560</guid>
-      <pubDate>Mon, 29 Jan 2024 06:11:05 GMT</pubDate>
+      <title>[媒体] linefont 项目是一种专为渲染中小型字体而设计的字体 [...]</title>
+      <link>https://t.me/hn_summary/71585</link>
+      <description><![CDATA[linefont：用于渲染折线图数据的字体
+linefont 项目是专门为渲染中小型折线图（例如时间序列数据）而设计的字体。它提供了一个字体文件，可用于Web项目中使用字符显示折线图。字体值范围从0到100，并分配给不同的字符。该项目的独特之处在于与 Wavefont 项目兼容，允许轻松交换字体，同时保持视觉一致性。该字体还包括可以通过 Ctrl + → 或双击选择的可见字符代码，可见范围之外的字符将被剪裁为 0。该项目还包括一个 npm 包，可以轻松集成到 JavaScript 项目中。]]></description>
+      <guid>https://t.me/hn_summary/71585</guid>
+      <pubDate>Mon, 29 Jan 2024 11:29:01 GMT</pubDate>
     </item>
     <item>
-      <title>dsu gem 是敏捷实践者管理日常站立活动的强大工具。</title>
-      <link>https://t.me/hn_summary/71559</link>
-      <description><![CDATA[显示 HN：尝试 RubyWeekly 中介绍的 dsu gem 
-dsu gem 是敏捷实践者管理日常站立活动的强大工具。它允许用户记录和跟踪他们的进度，而无需任何网络连接。所有数据都存储在本地 .json 文件中，确保隐私和安全。 gem 专为喜欢在终端中工作的用户而设计，提供简单而有效的命令行界面。此外，dsu 遵循语义版本控制标准，可以轻松跟踪更新和更改。这个 gem 在 RubyWeekly 中得到了专题报道，强调了它在 Ruby 社区中的实用性和受欢迎程度。]]></description>
-      <guid>https://t.me/hn_summary/71559</guid>
-      <pubDate>Mon, 29 Jan 2024 06:10:58 GMT</pubDate>
+      <title>[媒体] 隆重推出由人工智能驱动的个人财务助理 Project Hermes。</title>
+      <link>https://t.me/hn_summary/71584</link>
+      <description><![CDATA[显示 HN：人工智能个人财务助理（更新）
+隆重推出 Project Hermes，这是由人工智能驱动的个人财务助理。有了 Hermes，您可以告别与会计师和复杂数字打交道的麻烦。这种创新工具通过提供适合您特定需求的解决方案来简化您的财务。您所需要做的就是继续使用您的 Google 帐户，Hermes 将处理剩下的事情。此更新带来了更高级的功能和改进的功能，可帮助您轻松管理资金。通过 Hermes 项目迎接无压力的财务未来。]]></description>
+      <guid>https://t.me/hn_summary/71584</guid>
+      <pubDate>Mon, 29 Jan 2024 11:02:46 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]该项目的目的是为[...]提供实时矢量化绘图库</title>
-      <link>https://t.me/hn_summary/71558</link>
-      <description><![CDATA[显示 HN：Py Plot lib 对调试 rt 物理事物很有用（ML /CV/机器人）
-该项目的目的是提供一个实时的矢量化绘图库，用于调试机器学习、计算机视觉和机器人技术中的物理事物。它允许用户控制绘图的每个基本部分，包括不透明度，并实时适应值范围。作者提到该库比 matplotlib 快 20-100 倍，并提供对所有元素属性的直接访问。该项目背后的动机是解决使用 matplotlib 进行实时应用程序和可视化调试的性能问题和复杂性。作者还提到，这个项目可以为那些想要学习如何以矢量化方式做事的人提供一个快速示例。]]></description>
-      <guid>https://t.me/hn_summary/71558</guid>
-      <pubDate>Mon, 29 Jan 2024 06:10:52 GMT</pubDate>
+      <title>Harmonics Explorer 是一款令人着迷的工具，可让用户探索谐波世界 [...]</title>
+      <link>https://t.me/hn_summary/71583</link>
+      <description><![CDATA[谐波浏览器
+Harmonics Explorer 是一款令人着迷的工具，可让用户探索音乐中的和声世界。只需点击几下，用户就可以可视化并分析任何音乐作品的和声结构。该工具提供了独特的交互式体验，允许用户查看不同谐波之间的关系并了解它们如何对整体声音做出贡献。无论您是音乐家、音乐爱好者，还是只是对音乐的内部运作方式感到好奇，Harmonics Explorer 一定会令您着迷并具有教育意义。这是一种深入谐波世界并发现音乐隐藏秘密的巧妙而创新的方式。]]></description>
+      <guid>https://t.me/hn_summary/71583</guid>
+      <pubDate>Mon, 29 Jan 2024 10:50:36 GMT</pubDate>
     </item>
     <item>
-      <title>网络内容的作者介绍了一种新的人工智能，可以与黑客新闻 API 进行交互 [...]</title>
-      <link>https://t.me/hn_summary/71557</link>
-      <description><![CDATA[展示 HN：使用函数调用构建的黑客新闻 AI 
-网络内容的作者介绍了一种新的人工智能，可以与黑客新闻 API 交互并回答有关黑客新闻故事、趋势和用户活动的问题。人工智能使用函数调用来查询 HN API 并搜索其知识库，该知识库定期更新“热门新闻”，以提供有关这些新闻的详细信息。作者承认人工智能是基础性的，并且在不到两个小时的时间内构建完成，并征求有关如何改进它的反馈。他们还提到人工智能是使用 phidata 构建的。 Web 内容包括 AI 应用程序和 phidata 存储库的链接。]]></description>
-      <guid>https://t.me/hn_summary/71557</guid>
-      <pubDate>Mon, 29 Jan 2024 06:10:46 GMT</pubDate>
+      <title>[媒体]该网络内容的作者讨论了关于成功的几个真理。</title>
+      <link>https://t.me/hn_summary/71582</link>
+      <description><![CDATA[关于成功的几个真理
+该网络内容的作者讨论了有关成功的几个真理。第一个事实是，许多人由于感知到风险、时间限制和困难而说服自己不采取行动。作者认为，这些担忧往往被高估了。第二个事实是，许多人开始项目但未能完成它们，包括程序员、游戏开发人员、艺术家和音乐家。第三个事实是，大多数工作的质量都很低，但生产高质量的东西会增加成功的机会。第四个事实是，大多数人都在努力营销自己和他们的工作。第五个真理是帕累托法则，即80%的工作是用20%的努力完成的。作者认为，宣布计划和意图可能会因寻求社会认可而阻碍进展。最后的事实是，成功是迭代的，每次成功都会带来更大的成功，每次失败都会导致更大的失败。作者还提到了一段圣经经文，马太福音25:29，它代表了成功的累积优势。作者最后指出，只有一小部分人能够取得成功，尤其是在涉及创造力的情况下。他们认为文化因素和个人策略在决定成功方面发挥着重要作用。]]></description>
+      <guid>https://t.me/hn_summary/71582</guid>
+      <pubDate>Mon, 29 Jan 2024 10:50:29 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Hanzipopup 是浏览器的用户脚本，可显示所选中文字符的含义 [...]</title>
-      <link>https://t.me/hn_summary/71556</link>
-      <description><![CDATA[显示 HN：适用于 Android 和 iOS 的 Hanzipopup-中英弹出词典浏览器
-Hanzipopup 是浏览器的用户脚本，可在弹出窗口中显示所选汉字的含义。它是中文浏览器扩展的端口，支持繁体字和简体字。它包括一个版本的 CEDICT 汉英词典，并显示汉语拼音和字符。该项目的独特之处在于为选定的汉字提供自然的文本到语音转换，并根据字符的声调使用不同的颜色来显示拼音音节。它还允许用户将单词添加到内置单词列表中并将其导出以进行进一步处理。该项目适用于 Android 和 iOS 浏览器。]]></description>
-      <guid>https://t.me/hn_summary/71556</guid>
-      <pubDate>Mon, 29 Jan 2024 06:10:40 GMT</pubDate>
+      <title>本文讨论了美国郊区的瓦解及其对家庭的影响 [...]</title>
+      <link>https://t.me/hn_summary/71581</link>
+      <description><![CDATA[郊区已成为庞氏骗局
+本文讨论了美国郊区的瓦解及其对有色人种家庭的影响。作者追踪了五个家庭，他们搬到郊区为孩子们寻找更好的生活，却发现自己面临着基础设施摇摇欲坠、财务管理不善和学校衰落的问题。这篇文章强调了郊区存在的种族和经济裂痕，以及它们是如何在很大程度上被忽视的。作者还提到了唐纳德·特朗普在 2020 年总统选举期间发表的颇具争议的言论，他利用郊区的衰落作为一种恐惧策略。文章最后强调了理解和解决郊区面临的问题的重要性，以便为所有居民创造更美好的未来。]]></description>
+      <guid>https://t.me/hn_summary/71581</guid>
+      <pubDate>Mon, 29 Jan 2024 10:24:11 GMT</pubDate>
     </item>
     <item>
-      <title>Vaulted 是一个革命性的平台，可让您通过未发布的媒体获利。</title>
-      <link>https://t.me/hn_summary/71555</link>
-      <description><![CDATA[显示 HN：利用未发布的媒体获利
-Vaulted 是一个革命性的平台，可让您通过未发布的媒体获利。借助 Vaulted，您可以通过分享以前从未见过的独家照片来展示您的公众形象更亲密的一面。但这还不是全部 - 您还可以将用于编辑图片的资产货币化。这意味着您不仅可以从最终产品中赚钱，还可以从创意过程本身中赚钱。这是一种通过媒体内容赚钱的独特且聪明的方式。那为什么还要等呢？立即尝试 Vaulted，开始以前所未有的方式通过未发布的媒体获利。]]></description>
-      <guid>https://t.me/hn_summary/71555</guid>
-      <pubDate>Mon, 29 Jan 2024 06:10:33 GMT</pubDate>
+      <title>[媒体] 这个来自 linuxconfig.org 的教程解释了如何将 Firefox 安装为传统的 [...]</title>
+      <link>https://t.me/hn_summary/71580</link>
+      <description><![CDATA[在 Ubuntu 22.04 上切换到 Firefox 的 Deb：避免使用 Snap 软件包的指南
+本教程来自 linuxconfig.org，解释了如何将 Firefox 作为传统的Ubuntu 22.04 上的 Deb 软件包，现在默认将 Firefox 打包为 Snap 软件包。本文提供了使用 Apt 或 PPA 存储库而不是 Snap 安装 Firefox 的分步说明。它还包括从 Snap 切换到 APT 版本的 Firefox 时避免丢失书签的预防措施。本教程重点介绍了 Ubuntu 中向 Snap 软件包的转变，并为喜欢传统 Deb 软件包的用户提供了替代方案。争议在于某些用户可能对 Snap 软件包存在偏好和功能问题。]]></description>
+      <guid>https://t.me/hn_summary/71580</guid>
+      <pubDate>Mon, 29 Jan 2024 10:02:56 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Predirect 是一个 Web 扩展，可自动将热门网站重定向到隐私 - [...]</title>
-      <link>https://t.me/hn_summary/71554</link>
-      <description><![CDATA[显示 HN：Predirect- 用隐私前端替换流行网站的扩展
-Predirect 是一个 Web 扩展，可自动将热门网站重定向到隐私友好的前端。它旨在用优先考虑用户隐私的替代平台取代 YouTube、Reddit、Medium、TikTok、Quora、Instagram 等网站。该扩展适用于 Android 版 Firefox，并且使用最少的权限。该项目的与众不同之处在于提供了清单 v3 扩展，这是扩展清单格式的更新版本，可提供改进的安全性和性能。 Predirect 旨在通过将用户重定向到尊重其隐私的替代平台，为用户提供更加私密的浏览体验。 （根据 69% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/71554</guid>
-      <pubDate>Mon, 29 Jan 2024 06:10:26 GMT</pubDate>
+      <title>[媒体] Y Combinator 总裁 Garry Tan 在 X 上发布推文时引起争议，X [...]</title>
+      <link>https://t.me/hn_summary/71579</link>
+      <description><![CDATA[Y Combinator 总裁 Garry Tan 在删除之前发布了一条威胁推文
+Y Combinator 总裁 Garry Tan 在社交平台 X 上发布了一条包含针对旧金山监管人员的暴力语言的推文，引发了争议。谭后来道歉，表示他认为这条推文会被理解为说唱参考。他还向监事会正式致歉。第七区主管 Myrna Melgar 形容 Tan 的言论“令人震惊”。 Tan 于 2022 年 8 月成为 Y Combinator 总裁，他在社交媒体上有好斗行为的历史，并且一直批评旧金山的进步政客。有些人为谭辩护，称他的行为值得原谅。]]></description>
+      <guid>https://t.me/hn_summary/71579</guid>
+      <pubDate>Mon, 29 Jan 2024 09:41:43 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]该博文讨论了 RWKV-v5 Eagle 7B 型号的发布，该型号是 7.52B pa [...]</title>
-      <link>https://t.me/hn_summary/71553</link>
-      <description><![CDATA[Eagle 7B：翱翔变形金刚
-该博客文章讨论了 RWKV-v5 Eagle 7B 模型的发布，该模型是根据 Apache 2.0 许可证授权的 7.52B 参数模型。该模型在各种基准测试中显示出多语言性能的显着改进，涵盖 23 种语言的常识推理。这篇文章强调了缺乏评估其他语言的模型语言性能的多语言基准。与之前的版本相比，该模型的英语性能也有所提高，v5 架构在某些基准测试中与顶级模型进行了较量。这篇文章还提到了通过支持不同语言让每个人都能使用人工智能的目标。 RWKV-v5 Eagle 7B 型号的发布被认为是迄今为止最强的线性变压器型号。这篇文章最后提到了模型的进一步改进和更新的未来计划。]]></description>
-      <guid>https://t.me/hn_summary/71553</guid>
-      <pubDate>Mon, 29 Jan 2024 05:16:04 GMT</pubDate>
+      <title>[媒体]爱沙尼亚和日本已与其他九个国家一起暂停向联合国提供资金 [...]</title>
+      <link>https://t.me/hn_summary/71578</link>
+      <description><![CDATA[爱沙尼亚、日本与其他九个国家一起暂停近东救济工程处的资金
+爱沙尼亚和日本已与其他九个国家一起暂停向联合国近东救济工程处（近东救济工程处）提供资金，此前有指控称该机构的 12 名工作人员参与了哈马斯领导的屠杀。澳大利亚、加拿大、英国、美国、芬兰、荷兰、德国、意大利和冰岛的暂停使近东救济工程处至少 3.63 亿美元的认捐资金面临风险。近东救济工程处为不同地区的 590 万巴勒斯坦难民提供食品、教育和医疗保健等基本服务。联合国秘书长安东尼奥·古特雷斯敦促捐助国不要暂停资助，强调近东救济工程处所服务的民众的迫切需求。以色列已私下向近东救济工程处提出指控，并呼吁对近东救济工程处所有雇员参与恐怖主义的情况进行深入调查。资金削减引发了人们对加剧饥饿并可能导致加沙饥荒的担忧。]]></description>
+      <guid>https://t.me/hn_summary/71578</guid>
+      <pubDate>Mon, 29 Jan 2024 09:16:30 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]为什么麦克斯韦理论这么难理解？</title>
-      <link>https://t.me/hn_summary/71552</link>
-      <description><![CDATA[为什么麦克斯韦理论这么难理解？ (2007) [pdf](https://news.ycombinator.com/item ?id=39172859)
-在弗里曼·J·戴森教授的这篇文章中，他讨论了为什么麦克斯韦的电磁学理论最初难以理解并被同时代人广泛忽视。戴森强调麦克斯韦的谦逊以及他使用物理语言来解释他的理论，这些因素使物理学家和数学家难以理解。他还提到麦克斯韦对分子涡旋理论的偏爱，这进一步转移了人们对其电磁理论的注意力。此外，戴森解释说，麦克斯韦用场宇宙取代牛顿宇宙的做法很难理解，因为场是无形的。然而，他最后强调了麦克斯韦理论的重要性及其最终被接受和对世界理解的影响。 （根据故事文本的 58% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/71552</guid>
-      <pubDate>Mon, 29 Jan 2024 05:09:53 GMT</pubDate>
+      <title>[媒体]凯撒沙拉已成为各类餐厅的热门菜肴，而不仅仅是 [...]</title>
+      <link>https://t.me/hn_summary/71577</link>
+      <description><![CDATA[定义餐饮的菜单趋势
+凯撒沙拉已成为各类餐厅的热门菜肴，而不仅仅是牛排馆。它可以在墨西哥、泰国和古巴餐厅等的菜单上找到。厨师们对经典沙拉进行了自己的创新，添加了味噌、鱼露、茴香花粉和荷兰豆等配料。这些菜单上一份凯撒沙拉的平均价格为 15.42 美元，有些餐厅的收费高达 22 美元。德克萨斯州奥斯汀 Este 餐厅的老板费尔明·努涅斯 (Fermin Nuñez) 表示，凯撒沙拉是厨师们的最爱。本文还包括提供独特版本沙拉的餐厅列表。]]></description>
+      <guid>https://t.me/hn_summary/71577</guid>
+      <pubDate>Mon, 29 Jan 2024 09:14:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
