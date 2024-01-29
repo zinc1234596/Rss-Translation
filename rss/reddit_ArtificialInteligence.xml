@@ -4,7 +4,14 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Mon, 29 Jan 2024 06:13:49 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jan 2024 09:11:15 GMT</lastBuildDate>
+    <item>
+      <title>AlphaGeometry：谷歌 Deepmind 的奥林匹克级几何人工智能系统</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1adp9nl/alphageometry_an_olympiad_level_ai_system_for/</link>
+      <description><![CDATA[智力的标志之一是能够解决数学问题。这正是谷歌通过其新的 Alpha 几何系统所实现的目标。不是一些基本的数学问题，而是国际数学奥林匹克，世界上最难的数学考试之一。在今天的文章中，我们将深入探讨 Google 是如何完成这项看似不可能的任务，并尝试回答我们是否真正创建了 AGI。 全文：https://medium.com/towards-artificial-intelligence/alphageometry- an-olympiad-level-ai-system-for-geometry-285024495822 1.问题生成和初步分析 创建几何图：AlphaGeometry 首先生成几何图。这可以是一个带有各种线和点标记的三角形，每个线和点都具有特定的几何属性。初始特征识别：AlphaGeometry 使用其神经语言模型来识别和标记基本几何特征，如点、线、角度、圆等。  2.详尽的关系推导 模式识别：在几何数据上训练的语言模型，可以识别图表中的模式和潜在关系，例如平行线、角平分线或全等三角形。 形式几何关系：符号推导引擎采用这些初始观察结果，应用几何定理和公理，推导出形式的几何关系。 3.代数转换和高斯消元 转换为代数方程：必要时，将几何条件转换为代数方程。例如，三角形的属性可以表示为一组方程。应用高斯消元法：在必须求解线性方程组的情况下，AlphaGeometry 隐式使用高斯消元法。这涉及到操纵方程矩阵的行来导出解。代数解的积分：然后将高斯消去法的解积分回几何上下文中，帮助进一步推导或完成证明。 &lt;强&gt;4。演绎推理和证明构造 进一步演绎：符号演绎引擎继续将几何逻辑应用于问题，整合代数解并推导出新的几何性质或关系。 证明构造：系统通过逻辑排列推导的几何属性和关系来构造证明。这是一个迭代过程，系统可能会添加辅助结构或探索不同的推理路径。 5.迭代细化和回溯 添加构造：如果当前信息不足以得出结论，语言模型建议向图中添加新构造（例如新线或新点）。回溯对于附加结构：在这个迭代过程中，AlphaGeometry 分析这些附加元素如何产生解决方案，并不断完善其方法。 6.验证和可读性改进 解决方案验证：一旦找到解决方案，就会根据几何规则验证其准确性。 提高可读性：鉴于涉及高斯消元法的步骤没有明确详细说明，当前的挑战和需要改进的领域是增强这些解决方案的可读性，可能通过更高层次的抽象或更详细的逐步解释。 7.学习和数据生成合成数据生成：解决的每个问题都有助于生成合成几何问题和解决方案的庞大数据集，丰富AlphaGeometry的学习基础。合成数据训练：该数据集允许系统从各种各样的几何问题中学习，增强其模式识别和演绎推理能力。   由   提交 /u/Difficult-Race-1188   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1adp9nl/alphageometry_an_olympiad_level_ai_system_for/</guid>
+      <pubDate>Mon, 29 Jan 2024 07:03:33 GMT</pubDate>
+    </item>
     <item>
       <title>为什么有些人说 LLM 和像 ChatGPT/DALL-E 这样的生成模型会减慢/停止 AGI 的创建？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ado4s8/why_do_some_people_say_llms_and_generative_models/</link>
@@ -81,13 +88,6 @@
       <description><![CDATA[我想参考相关信息和文章来准备面试。寻找围绕以下主题的阅读/观看建议。我自己正在研究很多事情，但总是可以寻求社区的帮助。  - 安全是人工智能解决方案的一部分 - 人工智能中的安全风险和漏洞 - 人工智能和网络攻击 - 人工智能安全最佳实践   由   提交/u/14MTH30n3  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1adhe6v/i_am_applying_for_a_new_job_with_title_ai/</guid>
       <pubDate>Mon, 29 Jan 2024 00:08:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI 模型@emilypellegrini Instagram 帐户发生了什么？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1adh2r6/what_happened_to_ai_model_emilypellegrini/</link>
-      <description><![CDATA[拥有 28.7 万粉丝的超级著名 AI 女孩页面不再浏览（至少对我来说），有人知道为什么吗？几个小时前就成功了。 没有人谈论它，它被暂停了吗？   由   提交/u/Dear-Amount630  /u/Dear-Amount630 reddit.com/r/ArtificialInteligence/comments/1adh2r6/what_happened_to_ai_model_emilypellegrini/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1adh2r6/what_happened_to_ai_model_emilypellegrini/</guid>
-      <pubDate>Sun, 28 Jan 2024 23:54:20 GMT</pubDate>
     </item>
     <item>
       <title>AI 提示生成器 - 自定义 GPT</title>
