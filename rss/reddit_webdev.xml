@@ -4,7 +4,28 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 30 Jan 2024 06:15:36 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jan 2024 09:12:59 GMT</lastBuildDate>
+    <item>
+      <title>摄影网站服务很好</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aejved/good_services_for_photography_site/</link>
+      <description><![CDATA[我的一些朋友正在开始摄影业务，并向我询问市场上哪些产品适合建立网站。我怀疑它将是小册子网站的一部分，但有一个链接到电子商务以购买图像的画廊。我的工作都是在企业领域完成的，因此我不熟悉小型企业级别的服务和产品。  任何人都可以建议他们可以用来实现此目标的良好服务或服务组合吗？与所有小型企业一样，成本越低越好。最坏的情况是，我可以开始谷歌搜索，但不发明轮子对我来说总是更好的选择。   由   提交/u/Balt603  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aejved/good_services_for_photography_site/</guid>
+      <pubDate>Tue, 30 Jan 2024 08:42:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>改变了我的锁图案，第二天就忘记了。直到我最后一次尝试，Verizon 已经阻止了我用来解锁它的三星功能。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aej0zk/changed_my_lock_pattern_and_forgot_it_the_next/</link>
+      <description><![CDATA[这是我的手机，不是作弊的配偶或被盗的设备。我发现这是这些帖子中最常见的回应。我最担心的是丢失我的狗的照片！由于某种原因，我的相机应用程序在 2023 年 4 月的某个时候停止将我的照片存储在 SD 卡上:( 我曾经在三星的网站上使用“查找我的手机”功能，但我不知道 Verizon 也有阻止了它。该网站显示“SmartThings Find Verizon 不允许在此手机上访问该网站。”我因此讨厌 Verizon。我以前也可以从 Google 解锁找到我的设备，但我想他们也取消了这一点。我有所有密码，只是忘记了我的模式。我目前正在尝试使用 Chrome 开发者工具来绕过 Verizon 的封锁，以防它只是一层封锁访问权限。但是我的 html 很弱，而且我没有任何 JS xp。这可能吗，还是我必须接受丢失照片的情况？  &amp; #32; 提交者   /u/Yeah_Y_Not   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aej0zk/changed_my_lock_pattern_and_forgot_it_the_next/</guid>
+      <pubDate>Tue, 30 Jan 2024 07:42:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>这种方法对于自托管我的 API 服务器是否可行？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aei6n6/is_this_approach_feasible_for_selfhosting_my_api/</link>
+      <description><![CDATA[我创建了两个模拟项目，这两个项目都是我计划长期托管的全栈应用程序。 但是，我无力支付每月的渲染费用，而且免费套餐有闲置的停机时间，这不利于展示我的项目。 意识到需要更好的长期服务- 长期解决方案，这是我的计划。如果有任何问题，请告诉我。 我主要关心的是我是否可以在同一台机器和网络上运行两个 API 服务器，只要它们具有不同的端口。我不确定，但我假设我需要做的就是在这些计算机上安装 Node 并从它们的目录中运行 Node server.js，就像我通常做的那样？ Frontend 我打算在 GitHub Pages 或替代平台等平台上托管我的前端。这部分可能会在很长一段时间内免费。 后端（API 服务器） 两个 API 服务器将托管在同一个 Raspberry 上Pi 5 (rpi5) 使用我自己的网络，但在不同的端口上。 数据库 这两个项目的数据库目前位于免费层云上基于服务，我计划坚持使用它，因为它没有空闲停机时间。 一般来说，架构应该如下所示： App1 前端 () &gt; App1 API (rpi5 + exampleip:4000) &gt; App1 DB（免费云数据库） App2 前端 () &gt; App2 API (rpi5 + exampleip:5000) &gt; App2 DB（免费云数据库） 我主要关心的是我是否真的能够在同一台计算机和网络上运行两个 API 服务器，只要它们具有不同的端口。我不确定，但我假设我需要做的就是在这些机器上安装 Node 并简单地运行 Node server.js？ 在网络方面，我已经建立了一个适当的DDNS 可以随时通过主机名联系我的动态 IP。我还测试了基于其他服务的端口转发，所以应该可以使用。 虽然我对所有这些如何运作有一个粗略的了解，但我想在这里发帖以收集一些反馈关于我的方法。   由   提交/u/hsredux  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aei6n6/is_this_approach_feasible_for_selfhosting_my_api/</guid>
+      <pubDate>Tue, 30 Jan 2024 06:46:10 GMT</pubDate>
+    </item>
     <item>
       <title>AI会取代开发者吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1aehhqu/is_ai_going_to_replace_developers/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[我发现自己的角色是创建内部业务应用程序。这些最初是非常简单的应用程序，用于取代批准和请求等业务流程，但现在已经变得更加复杂。我正在寻找与内部应用程序开发相关的任何资源。  显然有大量关于 UI、数据库设计、API 等的信息。但我正在寻找有关内部应用程序结构、生命周期管理、安全性之类的文章/视频。  我找到了一些，只是在寻找更多！有什么建议或想法吗？   由   提交/u/t920698  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1aeasvq/resources_for_internal_applications/</guid>
       <pubDate>Tue, 30 Jan 2024 00:21:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于测试服务器网络速度的脚本/Web 应用程序</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aeapc9/scriptweb_app_to_test_network_speed_to_a_server/</link>
-      <description><![CDATA[我有一个服务器，用于处理用户之间的大文件传输，一些用户抱怨服务器的上传速度很慢。然而，根据我目前的知识，这似乎不是由网络过载引起的（使用的带宽很少）。因此，我需要一些连接基准测试脚本/工具（以 Web 应用程序/Web GUI 的形式），允许用户对与我的服务器的连接进行基准测试（上传和下载测试文件），以便更轻松地调试 你能给我推荐这样一个工具吗？   由   提交/u/konstantin1122   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aeapc9/scriptweb_app_to_test_network_speed_to_a_server/</guid>
-      <pubDate>Tue, 30 Jan 2024 00:17:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>我应该如何在第一份后端/全栈工作中展示我的后端技能？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aean5g/how_should_i_showcase_my_backend_skills_for_the/</link>
-      <description><![CDATA[我是否需要构建和部署项目并在我的项目组合中展示它们，就像前端的做法一样？ &lt; !-- SC_ON --&gt;  由   提交/u/Intelligent_Will_948   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aean5g/how_should_i_showcase_my_backend_skills_for_the/</guid>
-      <pubDate>Tue, 30 Jan 2024 00:14:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>JavaScript 前端框架维护者对 2024 年的预测</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aeagsg/2024_predictions_by_javascript_frontend_framework/</link>
-      <description><![CDATA[    &lt; /a&gt;   由   提交/u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aeagsg/2024_predictions_by_javascript_frontend_framework/</guid>
-      <pubDate>Tue, 30 Jan 2024 00:06:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
