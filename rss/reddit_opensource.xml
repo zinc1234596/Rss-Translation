@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 30 Jan 2024 18:14:25 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jan 2024 21:11:33 GMT</lastBuildDate>
+    <item>
+      <title>寻找涉及树莓派的 Meraki、Aruba、Fortigate 的替代品</title>
+      <link>https://www.reddit.com/r/opensource/comments/1aez16t/searching_for_alternative_to_meraki_aruba/</link>
+      <description><![CDATA[标题基本上。 假设我有 5-6 个树莓派作为 AP，并在其他地方运行控制台来控制、委托并添加/删除 AP。 是否存在这样的开源套件？ 谢谢。 tldr;想用免费/更便宜的东西替换 meraki，已经有 rpi 硬件和以太网/PoE   由   提交 /u/caa_admin   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1aez16t/searching_for_alternative_to_meraki_aruba/</guid>
+      <pubDate>Tue, 30 Jan 2024 20:52:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>line/abc-virtual-background-maker：一个独立的 React 应用程序，旨在创建和下载富含可自定义文本元素的虚拟背景图像。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1aewm5m/lineabcvirtualbackgroundmaker_a_standalone_react/</link>
+      <description><![CDATA[&lt;表&gt;   /u/kuil09  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1aewm5m/lineabcvirtualbackgroundmaker_a_standalone_react/</guid>
+      <pubDate>Tue, 30 Jan 2024 19:14:42 GMT</pubDate>
+    </item>
     <item>
       <title>Compose Multiplatform 1.5.12 现已推出，兼容 Kotlin 1.9.22</title>
       <link>https://www.reddit.com/r/opensource/comments/1aeuyoh/compose_multiplatform_1512_is_now_available/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[大家好，React Server现在主办了一个社区，希望获得一些知名度、曝光率和用户参与度。  您很可能没有听说过它。这是一个新框架，允许您在后端使用 TSX 使用反应式方法编写代码（钩子、效果、状态和状态 &gt;组件）。这使您可以在后端编写高度可维护和可重用的代码。 作为奖励，它附带 GraphQL 的 Pub/Sub 机制，可以在任何连接的客户端上提供实时状态更新。编写实时应用程序变得轻而易举。 它仍处于早期阶段（pre-alpha），但正在积极维护并不断取得进展。  请查看 https://state-less.cloud/community 了解您可以做什么用它来构建。请随意探索该页面的示例并阅读有关内部工作原理的更多信息。   由   提交/u/That_Unit_3992   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ae03e4/react_server_now_has_a_community/</guid>
       <pubDate>Mon, 29 Jan 2024 16:59:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>讨论开源人工智能定义的公共论坛 - Voices of Open Source</title>
-      <link>https://www.reddit.com/r/opensource/comments/1adzsq4/a_public_forum_to_discuss_the_open_source_ai/</link>
-      <description><![CDATA[    /u/HimadHustler   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1adzsq4/a_public_forum_to_discuss_the_open_source_ai/</guid>
-      <pubDate>Mon, 29 Jan 2024 16:47:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>OSS静态站点生成器和AI制作的自定义主题</title>
-      <link>https://www.reddit.com/r/opensource/comments/1adv0nf/oss_static_site_generators_and_ai_made_custom/</link>
-      <description><![CDATA[我想创建一个静态网站的个人博客。参数：  帖子源将在 Git 中存储为 .md 文件和图像。 帖子应有标题缩略图。&lt; /p&gt; 我应该能够通过 UI 上的标签进行过滤。 博客应该有 RSS feed（也许还有 Atom）。   有什么好的SSG可以做到这一点吗？ 另外我想知道可以为其生成主题的AI吗？ 我知道这里可能没有完美的人工智能工具，但我不介意努力应用人工智能生成的主题。另外，如果 SSG 绝对令人兴奋，我不介意不关心如何存储帖子源。   由   提交 /u/HimadHustler   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1adv0nf/oss_static_site_generators_and_ai_made_custom/</guid>
-      <pubDate>Mon, 29 Jan 2024 13:13:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
