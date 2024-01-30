@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Tue, 30 Jan 2024 00:41:16 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jan 2024 05:13:47 GMT</lastBuildDate>
     <item>
-      <title>[媒体] 据了解苹果销售数据的消息人士称，该公司已售出应用程序 [...]</title>
-      <link>https://t.me/hn_summary/71710</link>
-      <description><![CDATA[Apple 已售出约 20 万台 Vision Pro 耳机
-据了解苹果销售数据的消息人士透露，该公司已售出约 20 万台 Vision Pro 耳机。此前，分析师 Ming-Chi Kuo 估计，苹果在预购周末期间售出了 16 万至 18 万台。这款耳机的售价高达 3,500 美元，而且其利基市场可能会导致需求逐渐减少。苹果预计将生产约 50 万台耳机，但是否能卖出那么多还有待观察。 Vision Pro 的媒体评论将于周二上线，这可能会促进销量。]]></description>
-      <guid>https://t.me/hn_summary/71710</guid>
-      <pubDate>Tue, 30 Jan 2024 00:41:16 GMT</pubDate>
+      <title>[媒体]Unfetch.com是一个旨在教AI进行API调用的平台。</title>
+      <link>https://t.me/hn_summary/71747</link>
+      <description><![CDATA[显示 HN：Unfetch.com – 我正在教授人工智能进行API调用
+Unfetch.com是一个旨在教AI制作API的平台来电。借助自定义大语言模型 (LLM)，Unfetch.com 确保AI 根据聊天上下文做出完美的 API 调用。该平台还允许用户将 API 规范注入模型中，无论他们是与内部 API 还是公共 API 交互。 Unfetch.com 提供内置身份验证，使连接变得轻松使用 OAuth 或 API 密钥的 API。此外，用户可以使用脚本运行强大的工作流程并访问超过 100 万个 npm 包，而无需部署、托管或服务器。该平台通过允许用户将其托管在自己的服务器上并使用自己的大型语言模型来优先考虑安全性。 Unfetch.com 还提供团队权限设置，以实现更好的协作。用户可以通过询问任何问题或使用提供的提示与 JokeAPI、TheCocktailDB API、Programming Quotes API 和 Dog API 等 API 进行交互来试用该平台。]]></description>
+      <guid>https://t.me/hn_summary/71747</guid>
+      <pubDate>Tue, 30 Jan 2024 05:13:47 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]苹果公司对英国调查权法案的拟议变更表示担忧 [...]</title>
-      <link>https://t.me/hn_summary/71709</link>
-      <description><![CDATA[苹果警告拟议的英国法律将影响全球的软件更新
-苹果对英国《调查权力法案》(IPA) 的拟议修改表示担忧，警告称该法案可能赋予政府否决其产品和服务的隐私和安全更新的权力。苹果表示，IPA 修正案如果获得通过，不仅可能影响英国用户，还可能影响全球用户。这些变化将要求公司向英国官员通报任何可能限制政府访问数据的更新，包括影响英国境外用户的更新。苹果公司认为，这将是“前所未有的越权行为”，可能会抑制创新并扰乱全球安全技术市场。隐私倡导者还担心对端到端加密的影响。]]></description>
-      <guid>https://t.me/hn_summary/71709</guid>
-      <pubDate>Tue, 30 Jan 2024 00:40:09 GMT</pubDate>
+      <title>[媒体] Supadash 是一个新的人工智能生成的仪表板，允许用户可视化他们的数据库数据。</title>
+      <link>https://t.me/hn_summary/71746</link>
+      <description><![CDATA[显示 HN：Supadash – 人工智能生成的仪表板，用于可视化您的数据库数据
+Supadash 是一个新的人工智能生成的仪表板，允许用户可视化他们的数据库数据。仪表板为用户提供了清晰直观的界面来探索和分析数据。用户可以根据不同的条件（例如用户 ID、姓名、电子邮件和创建日期）轻松过滤和排序数据。仪表板还包括搜索功能，可以快速查找特定数据点。借助 Supadash，用户可以通过视觉上有吸引力且用户友好的方式从数据库数据中获得有价值的见解。 （根据故事文本的 14% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/71746</guid>
+      <pubDate>Tue, 30 Jan 2024 05:13:40 GMT</pubDate>
     </item>
     <item>
-      <title>问 HN：软件开发的未来会怎样？</title>
-      <link>https://t.me/hn_summary/71708</link>
-      <description><![CDATA[问HN：软件开发的未来会怎样？
-news.ycombinator.com 上这篇文章的作者是询问社区对软件开发未来的看法。他们提到 GenAI 的快速发展，并想知道这将如何影响软件开发实践。他们提出了关于设计软件的重要性、维护人工智能生成的大型代码库的作用以及未来可能发生的变化等问题。作者正在寻求社区对此主题的愿景和见解。]]></description>
-      <guid>https://t.me/hn_summary/71708</guid>
-      <pubDate>Tue, 30 Jan 2024 00:38:02 GMT</pubDate>
+      <title>[媒体] CodeDiagram 是 VSCode 的扩展，允许用户快速创建代码流程图。</title>
+      <link>https://t.me/hn_summary/71745</link>
+      <description><![CDATA[显示 HN：CodeDiagram – 用于快速制作代码流程图的 VSCode 扩展&lt; /a&gt;
+CodeDiagram 是 VSCode 的扩展，允许用户快速创建代码流程图。该扩展允许用户将代码转换为图表，反之亦然，所有这些都在同一平台内进行。用户可以从市场或直接从 VSCode 安装扩展。该扩展具有分屏视图，允许用户同时查看代码和图表。用户可以选择部分代码并自动生成图表。该扩展支持 192 种语言，并为图表提供多种颜色主题。用户可以轻松地与团队共享图表以进行代码审查或结对编程。 CodeDiagram 目前处于早期访问阶段。]]></description>
+      <guid>https://t.me/hn_summary/71745</guid>
+      <pubDate>Tue, 30 Jan 2024 05:13:34 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]美国</title>
-      <link>https://t.me/hn_summary/71707</link>
-      <description><![CDATA[在约旦杀死美军的敌方无人机似乎被误认为是美国无人机&lt; /a&gt;
-驻约旦美军可能将一架敌方无人机误认为是美国无人机，从而使其不受挑战地通过并杀死了三名美军。这次袭击发生之际，总统乔·拜登试图在指责伊朗和避免加沙冲突进一步升级之间取得平衡。初步报告显示，在敌方无人机飞入的同时，一架美国无人机正在返回基地，导致混乱并未能击落敌方无人机。五角大楼仍在评估这是否是人为错误。这次袭击使中东本已紧张的局势变得更加复杂。]]></description>
-      <guid>https://t.me/hn_summary/71707</guid>
-      <pubDate>Tue, 30 Jan 2024 00:36:55 GMT</pubDate>
+      <title>[媒体] Auto 1111 SDK/Python 客户端是一个 Python 库，为 [...]</title>
+      <link>https://t.me/hn_summary/71744</link>
+      <description><![CDATA[显示 HN：Automatic1111 稳定 Diffusion WebUI 的 SDK/Python 客户端
+Auto 1111 SDK/Python 客户端是一个 Python 库，提供使用扩散模型生成、放大和编辑图像的功能。它充当 Automatic 1111 Stable Diffusion Web UI 的模块化轻量级客户端。该 SDK 提供了核心功能，例如文本到图像、图像到图像、修复、外绘管道，以及用于 Esrgan 和 Real Esrgan 升级器的升级管道。它还与 Civit AI 集成以进行模型下载。该项目的与众不同之处在于支持与 Stable Diffusion Web UI 相同的参数，提供从 UI 轻松复制创作，并为多个操作提供单一管道，从而节省 RAM。]]></description>
+      <guid>https://t.me/hn_summary/71744</guid>
+      <pubDate>Tue, 30 Jan 2024 05:13:27 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]什么是不连贯？</title>
-      <link>https://t.me/hn_summary/71706</link>
-      <description><![CDATA[什么是不连贯？
-作者探讨了不连贯的概念及其与非理性的关系。它们提供了信念、偏好和意图不一致的例子，强调了这些组合所产生的非理性。作者认为，语无伦次是比单纯的不合理更深层次的非理性。他们还讨论了实质性合理性（合理性）和结构合理性（连贯性）之间的区别。作者质疑结构性非理性的普遍存在，并认为不连贯的范式案例可能难以理解。总的来说，这篇文章深入探讨了人类非理性的复杂性以及我们心理状态一致性的重要性。 （根据故事文本的 57% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/71706</guid>
-      <pubDate>Tue, 30 Jan 2024 00:36:46 GMT</pubDate>
+      <title>[媒体] GitHub 上的 LangChain ChatAbstractions 项目提供了聊天模型的集合 [...]</title>
+      <link>https://t.me/hn_summary/71743</link>
+      <description><![CDATA[显示 HN：用于负载平衡、混沌工程等的 LangChain 抽象
+GitHub 上的 LangChain ChatAbstractions 项目提供了聊天模型抽象的集合，演示了如何在不破坏现有聊天模型接口的情况下向链添加功能。该项目的主要目的是展示包装聊天模型的不同用例，重点是动态模型选择。该项目包括多个实现，例如用于运行时模型选择的 ChatDynamic、用于模型之间负载平衡的 ChatLoadBalance、用于混沌行为的 ChatChaos、用于优化路由的 ChatNotDiamond、用于自定义路由逻辑的 ChatCustomRouter 以及用于动态设置模型参数的 ChatDynamicParams。作者强调，该项目通过提供这些抽象的实际示例和实现而与众不同。]]></description>
+      <guid>https://t.me/hn_summary/71743</guid>
+      <pubDate>Tue, 30 Jan 2024 05:13:20 GMT</pubDate>
     </item>
     <item>
-      <title>爱尔兰低成本航空公司瑞安航空 (Ryanair) 已提出接管波音 737 MAX ai 的订单 [...]</title>
-      <link>https://t.me/hn_summary/71705</link>
-      <description><![CDATA[如果美国航空公司取消订单，瑞安航空提出接收波音 737 MAX 飞机&lt; /a&gt;
-如果美国航空公司决定取消波音 737 MAX 飞机的订单，爱尔兰低成本航空公司瑞安航空 (Ryanair) 已提出接手波音 737 MAX 飞机的订单。此前，737 MAX 因发生两起致命事故而在全球范围内停飞。瑞安航空首席执行官迈克尔·奥利里(Michael O&#39;Leary)对飞机的安全性表示信心，并表示该航空公司愿意以折扣价购买更多飞机。瑞安航空的这一举动被视为扩大机队并利用这一形势的战略机遇。然而，值得注意的是围绕 737 MAX 安全性的争议以及购买这些飞机所涉及的潜在风险。]]></description>
-      <guid>https://t.me/hn_summary/71705</guid>
-      <pubDate>Tue, 30 Jan 2024 00:33:15 GMT</pubDate>
+      <title>QnAyoutube.com 是一个革命性的平台，允许用户与 YouTube 视频进行实时聊天 [...]</title>
+      <link>https://t.me/hn_summary/71742</link>
+      <description><![CDATA[显示 HN：QnAyoutube.com – 与 YouTube 聊天的最快方式视频
+QnAyoutube.com 是一个革命性的平台，允许用户与 YouTube 聊天实时视频。 QnAyoutube 不隶属于 YouTube，但提供了一种独特且高效的方式来参与视频内容。用户可以在观看视频的同时提出问题、发表评论、进行讨论，增强整体观看体验。这一创新概念旨在弥合观众和内容创作者之间的差距，培养社区感和互动感。 QnAyoutube.com 是连接 YouTube 视频的最快方式，对于所有狂热的视频观看者来说，这是必须尝试的。]]></description>
+      <guid>https://t.me/hn_summary/71742</guid>
+      <pubDate>Tue, 30 Jan 2024 05:13:13 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]美国第 21 任卫生局局长维韦克·穆尔蒂 (Vivek Murthy) 认为，孤独 [...]</title>
-      <link>https://t.me/hn_summary/71704</link>
-      <description><![CDATA[Vivek Murthy：孤独就像饥饿，是我们缺乏某些东西的信号生存
-美国第 21 任卫生局局长维韦克·穆尔蒂 (Vivek Murthy) 认为，孤独感与吸烟和肥胖一样对公共健康构成威胁。他将孤独描述为一种流行病，它是许多其他社会问题的基础，包括暴力、成瘾和极端主义。穆尔蒂强调了人际关系和深入倾听在解决这个问题时的重要性。他分享了他个人的孤独经历以及与之相关的羞耻感，并强调需要认识到孤独是一种自然信号，可以引导我们关注社会联系的需要。穆尔蒂还讨论了社会中健康对话的崩溃以及技术对沟通的影响。他强调优质联系以及促进心理健康和福祉的重要性，而不是仅仅专注于治疗精神疾病。 （根据 79% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/71704</guid>
-      <pubDate>Tue, 30 Jan 2024 00:08:13 GMT</pubDate>
+      <title>Shiny Express 是一种用 Python 编写 Shiny 应用程序的新方法，使其更容易上手并 [...]</title>
+      <link>https://t.me/hn_summary/71741</link>
+      <description><![CDATA[显示 HN：Shiny Express – Python 中的数据科学反应式 Web 框架
+Shiny Express 是一种用 Python 编写 Shiny 应用程序的新方法，可以更轻松地开始使用最少的样板代码编写简单的应用程序。该框架由 Shiny 的反应式编程框架提供支持，并提供可定制的 UI 方法。它适用于一系列应用程序，从原型到生产质量的业务工作流程应用程序。 Shiny Express 和 Shiny Core（编写 Shiny 应用程序的传统语法）是互补的，并且两者都将得到无限期支持。 Shiny Express内置于shiny包中，可以使用pip安装。虽然 Shiny Express 目前仅适用于 Python，但将来可能会对 R 的类似语法感兴趣。]]></description>
+      <guid>https://t.me/hn_summary/71741</guid>
+      <pubDate>Tue, 30 Jan 2024 05:13:08 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 美国联邦航空局的招聘丑闻，被称为“布里吉达诉”。</title>
-      <link>https://t.me/hn_summary/71703</link>
-      <description><![CDATA[美国联邦航空管理局的招聘丑闻：快速概述
-美国联邦航空局的招聘丑闻，即“布里吉达诉布蒂吉格案”，已经持续了十年之久，目前正成为集体诉讼的主题。争议源于不及格率很高的通过/不及格简历调查问卷的实施，该问卷是在许多有抱负的空中交通管制员已经通过技能评估后毫无预警地引入的。调查问卷包括与工作无关的问题，例如高中参加的运动次数。美国联邦航空局面临着员工队伍多元化的压力，导致招聘流程发生变化，对某些候选人产生了不成比例的影响。该丑闻的主流报道有限，右翼消息人士最初关注但没有跟进。作者呼吁解决该问题，并强调需要认真报告此事。]]></description>
-      <guid>https://t.me/hn_summary/71703</guid>
-      <pubDate>Tue, 30 Jan 2024 00:06:05 GMT</pubDate>
+      <title>该 GitHub 项目的目的是提供 T [...]</title>
+      <link>https://t.me/hn_summary/71740</link>
+      <description><![CDATA[用 20 行 Python 代码显示 Tabby 后端（自托管AI编码助手）
+该 GitHub 项目的目的是提供 Tabby AI 编码助手的简化和自托管版本。作者提到，原始的 TabbyML 服务器实现很复杂，并且有很多依赖项，因此他们创建了一个只有两个依赖项和 20 行代码的 Python 版本。该项目允许用户使用 Python 安装和运行 Tabby 后端，并提供下载和配置所需模型的说明。作者还提到可能存在错误和缺失的功能，但鼓励用户为该项目做出贡献。该项目强调简单性和易于维护。]]></description>
+      <guid>https://t.me/hn_summary/71740</guid>
+      <pubDate>Tue, 30 Jan 2024 05:13:01 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]收购 Eidos 蒙特利尔的瑞典公司 Embracer Group 取消了新的 D [...]</title>
-      <link>https://t.me/hn_summary/71702</link>
-      <description><![CDATA[《杀出重围》游戏在 Embracer Group 削减 Eidos 后被取消 
-收购了 Eidos 蒙特利尔的瑞典公司 Embracer Group 取消了一款正在开发的新《杀出重围》游戏。该游戏已经预制作了两年，预计于 2024 年晚些时候投入制作。取消将导致许多员工被解雇。 Embracer Group 于 2022 年以 3 亿美元收购了 Eidos 蒙特利尔以及其他工作室，使他们能够控制《古墓丽影》、《正当防卫》、《奇异人生》和《杀出重围》等热门游戏系列。这一决定是在 Embracer Group 最近收购 Gearbox 并关闭 Volition 后做出的。取消让那些渴望回归该系列独特的故事讲述和对公司控制的批评的粉丝感到失望。]]></description>
-      <guid>https://t.me/hn_summary/71702</guid>
-      <pubDate>Tue, 30 Jan 2024 00:02:58 GMT</pubDate>
+      <title>Rainboot.css 是一个新的 CSS 框架，旨在提供熟悉的 Bootstr 外观和感觉 [...]</title>
+      <link>https://t.me/hn_summary/71739</link>
+      <description><![CDATA[显示 HN：Rainboot.css – 具有 Cloudscape 外观的 Bootstrap&lt; /a&gt;
+Rainboot.css 是一个新的 CSS 框架，旨在提供熟悉的 Bootstrap 外观和感觉，而不需要复杂的构建系统或最新的 JavaScript 框架。借助 Rainboot.css，用户只需将 CSS 文件放入 HTML 中即可享受传统 Web 开发的简单性。这个框架非常适合那些厌倦了不断学习新技术而只想坚持自己所知道和喜欢的东西的人。]]></description>
+      <guid>https://t.me/hn_summary/71739</guid>
+      <pubDate>Tue, 30 Jan 2024 05:12:55 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Nyxt 是一款专为黑客设计的键盘驱动的 Web 浏览器，其灵感来自 Emacs 和 Vim。</title>
-      <link>https://t.me/hn_summary/71701</link>
-      <description><![CDATA[Nyxt – 黑客浏览器
-Nyxt 是一款键盘驱动的 Web 浏览器，专为黑客设计，受到 Emacs 和 Vim 的启发。它具有熟悉的键绑定，并且在 Lisp 中可以无限扩展。该浏览器提供快速选项卡切换、多重标记、强大的书签、多选项卡搜索和以树表示的历史记录等功能。目前它在 GNU/Linux 上受支持，macOS、Windows 和 FreeBSD 版本正在开发中。该项目鼓励贡献并提供开发者文档供参考。作者还提到 Nyxt 正在积极开发中，欢迎错误报告、不稳定性和功能请求。]]></description>
-      <guid>https://t.me/hn_summary/71701</guid>
-      <pubDate>Tue, 30 Jan 2024 00:01:51 GMT</pubDate>
+      <title>[媒体]倡议。</title>
+      <link>https://t.me/hn_summary/71738</link>
+      <description><![CDATA[展示 HN：Oasis，构建宣传飞轮的社区技术集体&lt; /a&gt;
+倡议。我们的愿景是创建一个技术与行动主义交叉的可持续生态系统，使我们能够解决社会问题并推动积极变革。通过利用技术的力量和社区的集体努力，我们的目标是创造飞轮效应，使我们的利润驱动型产品的成功直接推动我们的非营利计划。这种独特的方法使我们能够拥有一个自我维持的模式，持续支持和扩大我们的宣传工作。与我们一起通过技术和行动主义建设更美好的未来。]]></description>
+      <guid>https://t.me/hn_summary/71738</guid>
+      <pubDate>Tue, 30 Jan 2024 05:12:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
