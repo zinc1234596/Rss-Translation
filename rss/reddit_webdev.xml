@@ -4,7 +4,35 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Thu, 01 Feb 2024 00:50:14 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Feb 2024 03:13:50 GMT</lastBuildDate>
+    <item>
+      <title>刚刚和 Meta 的一位招聘人员朋友聊过，她直言不讳。因为人工智能可以完成前端的大部分工作，所以 Meta 主要寻找全栈和后端人才......</title>
+      <link>https://www.reddit.com/r/webdev/comments/1afz646/just_talked_to_a_recruiter_friend_at_meta_and_she/</link>
+      <description><![CDATA[只是想与更大的社区分享。   由   提交 /u/OakDev   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1afz646/just_talked_to_a_recruiter_friend_at_meta_and_she/</guid>
+      <pubDate>Thu, 01 Feb 2024 01:45:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>恢复批评？更详细的评论里</title>
+      <link>https://www.reddit.com/r/webdev/comments/1afyb3r/resume_critique_more_detail_in_comments/</link>
+      <description><![CDATA[     &lt; /td&gt;  由   提交/u/IsopodSome9635   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1afyb3r/resume_critique_more_detail_in_comments/</guid>
+      <pubDate>Thu, 01 Feb 2024 01:04:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>项目级别的 AI 代码协助</title>
+      <link>https://www.reddit.com/r/webdev/comments/1afy0mz/ai_code_assistance_on_project_level/</link>
+      <description><![CDATA[我想向社区询问项目级别的代码助手 – 例如项目设置、维护、功能实现... 根据我的经验，Copilot、Tabnine、ChatGPT 等在代码级别（例如实现功能）很有帮助。我仍然怀念强大的 AI 编码工具，它允许我大体上进行绘制，例如“设置 Next.js 项目”、“基于此 Figma 链接创建组件”、“实现功能 Y”。编写改变整个代码库的提示。  您是否已经将人工智能用于文档/测试/完成等经典工作或了解有前景的项目？   由   提交 /u/thusman   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1afy0mz/ai_code_assistance_on_project_level/</guid>
+      <pubDate>Thu, 01 Feb 2024 00:51:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>从 Webpack 迁移到 Vite 有什么建议吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1afxzxv/advice_for_migrating_from_webpack_to_vite/</link>
+      <description><![CDATA[嘿，我一直在四处搜索，有很多关于这个主题的文章，但只是好奇这里的每个人都对此有何评论。 我是否最好从头开始构建一个 vite 项目，或者是否有一种简单/干净的方法通过更改一些文件和配置来移植现有项目？ 谢谢！ &lt; /div&gt;  由   提交/u/chris_ots  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1afxzxv/advice_for_migrating_from_webpack_to_vite/</guid>
+      <pubDate>Thu, 01 Feb 2024 00:50:30 GMT</pubDate>
+    </item>
     <item>
       <title>设计面试 API 的最佳实践</title>
       <link>https://www.reddit.com/r/webdev/comments/1afxhbx/best_practices_for_designing_an_api_for_an/</link>
@@ -15,7 +43,7 @@
     <item>
       <title>你们公司有超额招聘吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1afwpn1/did_your_company_over_hire/</link>
-      <description><![CDATA[我们都知道大型科技公司过度招聘，我听说被解雇的人都是那些拥有高度专业技能的人（比如那些只专注于制作一个按钮），所以只是好奇这是否在行业中普遍存在。你的公司是其中之一并让员工离开吗？如果是这样，它对您的工作产生了重大影响吗？   由   提交 /u/JIsADev   [链接] [评论]]]></description>
+      <description><![CDATA[我们都知道大型科技公司过度招聘，我听说被解雇的人是那些拥有高度专业技能的人（比如那些只专注于制作一个按钮），所以只是好奇这是否在行业中普遍存在。你的公司是其中之一并让员工离开吗？如果是的话，它对您的工作产生了重大影响吗？   由   提交 /u/JIsADev   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1afwpn1/did_your_company_over_hire/</guid>
       <pubDate>Wed, 31 Jan 2024 23:52:06 GMT</pubDate>
     </item>
@@ -36,7 +64,7 @@
     <item>
       <title>noreply@domain.com 替代方案</title>
       <link>https://www.reddit.com/r/webdev/comments/1afv3p1/noreplydomaincom_alternatives/</link>
-      <description><![CDATA[我看过一些提倡反对使用无回复电子邮件的文章。就我个人而言，我不喜欢他们。然而，它们仍然非常受欢迎，并且几乎成为交易/自动电子邮件的标准，并被每个公司和网站使用。就电子邮件信誉而言，使用 noreply 电子邮件（历史记录除外）是否有原因？一些垃圾邮件过滤工具/黑名单是否处理 [noreply@domain.com](mailto: noreply@domain.com), [no-reply@domain.com](mailto:no-reply@domain.com）与例如不同[notifications@domain.com](mailto:notifications@domain.com), [bot@domain.com](mailto:bot@domain.com ）等？这些电子邮件的送达率是否比任何其他随机电子邮件地址更高（或可能更低？）？您希望如何命名您的电子邮件地址？ 编辑：这里有一篇文章讨论了为什么不使用无回复电子邮件的原因。 编辑 2：您认为在接受回复的电子邮件中使用 Reply-To 标头怎么样？ （如果您想为用户提供回复选项，但用于发送交易电子邮件的电子邮件地址不接受传入电子邮件。）   由   提交/u/konstantin1122   [链接] [评论]]]></description>
+      <description><![CDATA[我看过一些提倡反对使用无回复电子邮件的文章。就我个人而言，我不喜欢他们。然而，它们仍然非常受欢迎，并且几乎成为交易/自动电子邮件的标准，并被每个公司和网站使用。就电子邮件信誉而言，使用 noreply 电子邮件（历史记录除外）是否有原因？一些垃圾邮件过滤工具/黑名单是否处理 [noreply@domain.com](mailto: noreply@domain.com), [no-reply@domain.com](mailto:no-reply@domain.com）与例如不同[notifications@domain.com](mailto:notifications@domain.com &gt;), [bot@domain.com](mailto:bot@domain.com ）等？这些电子邮件的送达率是否比任何其他随机电子邮件地址更高（或可能更低？）？您希望如何命名您的电子邮件地址？ 编辑：这里有一篇文章讨论了为什么不使用无回复电子邮件的原因。 编辑 2：您认为在接受回复的电子邮件中使用 Reply-To 标头怎么样？ （如果您想为用户提供回复选项，但用于发送交易电子邮件的电子邮件地址不接受传入电子邮件。）   由   提交/u/konstantin1122   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1afv3p1/noreplydomaincom_alternatives/</guid>
       <pubDate>Wed, 31 Jan 2024 22:44:07 GMT</pubDate>
     </item>
@@ -81,34 +109,6 @@
       <description><![CDATA[假设我有一个网站 website.com 并使用 Gmail电子邮件地址为 [support@website.com](mailto:support@website. com），但随后我使用 Mailgun 发送来自 [notifications@website.com](mailto:notifications@website.com），还有 Mailchimp for [marketing@campaign.website.com ](mailto:marketing@website.com) 等。基本上，同一域和子域上的不同邮件服务器提供商使用不同的电子邮件服务器。这是否会降低声誉和/或使 website.com 由于使用多个电子邮件提供商而显得不那么合法，并使从 @&lt; 发送的电子邮件a href=&quot;https://website.com&quot;&gt;website.com 或 @sudomain.website.com 最终进入垃圾邮件文件夹或完全退回？ 我想尝试一些电子邮件在我与其中一到两个提供商安顿下来之前，我会先咨询他们，但不想冒险。使用多个电子邮件提供商的另一个原因可能是每个提供商都有自己的优势，因此每个提供商可用于不同类型的电子邮件地址。   由   提交/u/konstantin1122   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1afsz10/is_using_multiple_email_providers_for_a_single/</guid>
       <pubDate>Wed, 31 Jan 2024 21:17:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>我在哪里可以学习精美的 CSS？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1afsx93/where_can_i_learn_fancy_css/</link>
-      <description><![CDATA[“花哨”是我发现的描述它的最佳词。我指的是我经常在 aWWWards 使用的网站上看到的效果，例如： https://www.cuewigs。 com/ https://candicebgroot.org/ 他们使用效果滚动、视差以及所有这些动画和元素。您知道有什么好的课程可以教授这些内容吗？   由   提交/u/gothlena  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1afsx93/where_can_i_learn_fancy_css/</guid>
-      <pubDate>Wed, 31 Jan 2024 21:15:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>失业近一年后，我刚刚找到了第二份工作</title>
-      <link>https://www.reddit.com/r/webdev/comments/1afsrzu/i_just_landed_my_second_job_after_almost_a_year/</link>
-      <description><![CDATA[我刚刚找到了第二份工作，我很高兴。  我已经向全栈和前端工作发送了数百份申请，但公司不会雇用我，因为我没有足够的经验（我只有 8 个月的带薪工作经验）虽然我有 1 个网络开发学位和 2 个 I.T 学位。上周，我接受了一家公司的全栈开发人员面试，他们给我发了一份 Laravel 带回家的作业。我在不到要求的时间内完成了它，甚至让它看起来很漂亮，这让我找到了一份工作。  我找到的所有工作都归功于带回家的作业...我超出了公司告诉我的作业要求，他们对结果很满意。  ​ 公司应该给没有经验的人更多的机会。  &amp; #32；由   提交/u/meguminsdfc   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1afsrzu/i_just_landed_my_second_job_after_almost_a_year/</guid>
-      <pubDate>Wed, 31 Jan 2024 21:09:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>请澄清 FE 架构决策对 python BE 的影响</title>
-      <link>https://www.reddit.com/r/webdev/comments/1afrfho/please_clarify_the_impact_of_a_fe_architecture/</link>
-      <description><![CDATA[亲爱的朋友们， 无知的后端开发人员在这里使用基于 Flask/Python/Plotly/Dash/Cytoscape 的网络图可视化在我们的知识图谱上。 想象一下可视化一个图表，其中包含一篇文章中提到的人物，然后单击一个人并查看所有谈论该人的文章等等。 丑陋至极，但有效太棒了。 现在客户说他们想以 React/Tailwind 作为标准重建他们的前端，并希望我们不仅向他们传递数据，而且实际上要求我们构建一个 React/Tailwind 组件来展示我们在他们的网站上进行了可视化。 我发现了这个https://github.com/vasturiano/react- force-graph 这似乎是一个很好的构建块，或者不是？ 由于我自己无法做到这一点，我应该寻找哪些技能，以便 FE 开发人员可以快速移植我的自定义 python viz 进入客户 FE 环境，包括获取 FE 设计师对其样式的指示？ 非常感谢。    由   提交 /u/olddoglearnsnewtrick   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1afrfho/please_clarify_the_impact_of_a_fe_architecture/</guid>
-      <pubDate>Wed, 31 Jan 2024 20:15:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>引用 ChatGPT 的回复 - 新更新</title>
-      <link>https://www.reddit.com/r/webdev/comments/1afrb7j/quote_reply_to_chatgpt_new_update/</link>
-      <description><![CDATA[     &lt; td&gt; 由   提交/u/HumbleRevolter  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1afrb7j/quote_reply_to_chatgpt_new_update/</guid>
-      <pubDate>Wed, 31 Jan 2024 20:10:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
