@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 02 Feb 2024 12:19:27 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Feb 2024 15:12:08 GMT</lastBuildDate>
+    <item>
+      <title>Synmetrix – 开源语义层</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ah4hb0/synmetrix_open_source_semantic_layer/</link>
+      <description><![CDATA[嘿 /r/opensource 亲爱的！为了我们社区的利益，我投资了 10 万美元来开发这个开源项目。如果您能在这里查看，我会很高兴：https://github.com/mlcraft-io/mlcraft 。我们才刚刚开始，您的见解和反馈对我们至关重要。 隆重推出 Synmetrix（以前称为 MLCraft），这是一个创新的开源数据工程平台和用于集中管理指标的语义层。它旨在提供一整套用于大规模建模、集成、转换、聚合和分发指标数据的套件。 以下是您可以利用 Synmetrix 的一些方法： *商业智能：使用 YAML 语义层制定指标和数据关系，然后通过 SQL API 将其应用于 SuperSet、Tableau、PowerBi 甚至 Excel 等工具。 * 数据工程：动态转换数据并将其分发给用户。 * 数据科学：使用 Synmetrix 作为单一事实来源来定义窗口指标、连接和自定义维度。 * 异常检测：通过“警报”密切关注您的指标功能。 * 报告：通过 Slack、电子邮件或简单的 Webhook 简化报告发送。  可能性远远不止于此。请务必访问登陆页面以获取更多详细信息。我们热切期待您的反馈，以帮助完善和扩展该项目。分享您的想法、建议以及遇到的任何挑战。真的很感谢大家！谢谢！   由   提交/u/lupsikpupsik  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ah4hb0/synmetrix_open_source_semantic_layer/</guid>
+      <pubDate>Fri, 02 Feb 2024 14:07:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>餐厅餐桌管理</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ah3t2b/restaurant_table_management/</link>
+      <description><![CDATA[正在寻找餐厅接待台的餐桌管理系统。不需要在线预订功能。有人知道吗？   由   提交 /u/ishtama   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ah3t2b/restaurant_table_management/</guid>
+      <pubDate>Fri, 02 Feb 2024 13:35:22 GMT</pubDate>
+    </item>
     <item>
       <title>欧洲监管机构听取了开源社区的意见</title>
       <link>https://www.reddit.com/r/opensource/comments/1ah0ran/the_european_regulators_listened_to_the_open/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[我意识到同步（无论是在 Chrome 还是 Brave 上）都是一坨屎，而且它很少能按照我想要的方式工作。 是否有像 Bitwarden 这样的应用程序可以让您在设备之间同步书签（我的意思是在同一个浏览器上）？   由   提交/u/clara59000  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1agaap5/an_app_like_bitwarden_but_for_bookmarks/</guid>
       <pubDate>Thu, 01 Feb 2024 12:52:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>你们中那些制作过自己的开源项目的人，您怎么知道它值得做？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ag0x09/those_of_you_who_made_your_own_opensource_project/</link>
-      <description><![CDATA[我猜大多数答案都是“它解决了我遇到的现有问题”但我很想听听你的故事。   由   提交 /u/Almenon   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ag0x09/those_of_you_who_made_your_own_opensource_project/</guid>
-      <pubDate>Thu, 01 Feb 2024 03:10:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>一家公司询问如何在我的 GitHub README 中为其产品投放广告 - 有什么想法吗？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1afxklz/a_company_asked_about_putting_an_ad_for_their/</link>
-      <description><![CDATA[大家好， 我最近收到了一封来自一家公司的电子邮件，该公司有兴趣为其产品投放广告（作为产品的产品）服务）位于我的 GitHub 存储库之一的自述文件顶部附近。我通过我的个人电子邮件收到了这个邀请，这让我很困惑他们最初是如何获得这个邀请的。我还没有回复。 公司正在为这次安置提供补偿。就上下文而言，相关存储库托管了一个相当流行的 Python 包。它每天有几千次下载，在 GitHub 上有几百颗星，每天吸引不到 50 名独立访问者访问 README 页面。我是这个存储库的维护者和唯一的定期贡献者。 我正在联系这个社区，收集一些关于以下几点的意见：  隐私问题：该公司可能如何访问我的个人电子邮件，这是否会引发任何危险信号？我的电子邮件似乎没有出现在任何地方的提交详细信息中。 此类提议的普遍性：公司向开源维护者提出这样的提议是否常见？如果您有类似的经历，您是如何处理的？ 道德和社区考虑因素：接受此类提议的道德影响是什么？开源社区通常如何看待它？  感谢您分享您的想法和经验。  &amp;# 32；由   提交 /u/Rythemeius   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1afxklz/a_company_asked_about_putting_an_ad_for_their/</guid>
-      <pubDate>Thu, 01 Feb 2024 00:30:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
