@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Fri, 02 Feb 2024 06:14:27 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Feb 2024 12:06:54 GMT</lastBuildDate>
     <item>
-      <title>[媒体] Slint GUI 工具包是一个声明式 GUI 工具包，允许开发人员构建 nat [...]</title>
-      <link>https://t.me/hn_summary/72314</link>
-      <description><![CDATA[Slint GUI工具包
-Slint GUI 工具包是一个声明性 GUI 工具包，允许开发人员使用 Rust、C++ 或 JavaScript 为桌面和嵌入式应用程序构建本机用户界面。该项目旨在提供可扩展、轻量级、直观且原生的 UI 设计体验。它支持跨平台使用，需要最少的资源，并提供类似智能手机的用户体验。使用 Slint 构建的 GUI 可以编译为机器代码，并提供对完整操作系统 API 和外设连接的访问​​。该项目目前正在积极开发中，并支持嵌入式设备，对桌面、Web 和移动平台的支持正在进行中。该项目提供文档、示例和工具来帮助开发过程。欢迎贡献，该项目已获得各种许可证的许可，包括免版税许可证、GNU GPLv3 和付费许可证。]]></description>
-      <guid>https://t.me/hn_summary/72314</guid>
-      <pubDate>Fri, 02 Feb 2024 06:14:27 GMT</pubDate>
+      <title>[媒体] Pandoc 是一款多功能工具，可让您将文件从一种标记格式转换为 [...]</title>
+      <link>https://t.me/hn_summary/72326</link>
+      <description><![CDATA[Pandoc
+Pandoc 是一种多功能工具，可让您将文件从一种标记格式转换为另一种标记格式。它支持多种格式，包括 Microsoft Word 和 OpenOffice 等文字处理格式、Jupyter 笔记本等交互式笔记本格式、InDesign 等页面布局格式、MediaWiki 和 DokuWiki 等 wiki 标记格式、LaTeX Beamer 和 PowerPoint 等幻灯片放映格式、数据格式例如 CSV 和 TSV 表等。 Pandoc 还提供有用的 Markdown 语法扩展，支持 LaTeX 数学和宏，并包含强大的引文和参考书目系统。它可以通过模板和过滤器进行自定义，并且可以作为 Haskell 库和命令行程序使用。]]></description>
+      <guid>https://t.me/hn_summary/72326</guid>
+      <pubDate>Fri, 02 Feb 2024 12:06:54 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] PowerShark 是一款适用于 Amiga 计算机的革命性电源适配器，特别是 [...]</title>
-      <link>https://t.me/hn_summary/72313</link>
-      <description><![CDATA[适用于 Amiga 500、600 和 1200 的 USB-C 电源
-PowerShark 是一款革命性的电源适配器，适用于 Amiga 计算机，特别是 A500、A600 和 A1200 型号。它提供清洁、稳定的能源供应，非常适合扩展使用，甚至是最扩展的配置。 PowerShark 可与任何支持 12V 的 USB-C 电源配合使用，让用户可以从各种经济实惠的选项中进行选择。它还支持便携式 USB-C 充电器，使电池供电的 Amigas 成为现实。该设备具有先进的监控和保护功能，确保Amiga组件的安全。它专为安全无人值守操作而设计，可防止快速电源循环。 PowerShark高效、环保，其紧凑的设计和时尚的外观使其成为出色的产品。]]></description>
-      <guid>https://t.me/hn_summary/72313</guid>
-      <pubDate>Fri, 02 Feb 2024 06:08:18 GMT</pubDate>
+      <title>[媒体] 2023 年，开源社区与欧盟监管机构就 [...]</title>
+      <link>https://t.me/hn_summary/72325</link>
+      <description><![CDATA[欧洲监管机构听取了开源社区的意见&lt; br/&gt;
+2023 年，开源社区与欧盟监管机构就网络弹性法案 (CRA) 和欧洲产品责任指令 (PLD) 的修订进行了接触。 CRA 旨在首次将产品责任责任纳入软件。然而，社区成员发现 CRA 的义务可能落在开发者和开源基金会身上，这对开源开发构成了生存威胁。经过广泛的参与和协调，CRA 的最终文本减轻了个人开发者和开源基金会的风险。尽管挑战仍然存在，但修订后的立法承认开源软件的价值，并创建了一个名为“开源管家”的新经济参与者。 OSI 鼓励继续参与并寻求对立法某些方面的澄清。此外，一群积极参与的个人在 FOSDEM 2024 上组织了研讨会，讨论未来与立法者的合作。]]></description>
+      <guid>https://t.me/hn_summary/72325</guid>
+      <pubDate>Fri, 02 Feb 2024 11:46:40 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Tembo 是一家服务提供商，完全在 Postg 上构建了他们的客户数据仓库 [...]</title>
-      <link>https://t.me/hn_summary/72312</link>
-      <description><![CDATA[我们全部在 Postgres 上构建客户数据仓库&lt; br/&gt;
-Tembo 是一家即服务提供商，使用外部数据包装器和其他 Postgres 扩展完全在 Postgres 上构建客户数据仓库。这使他们能够将多个来源的数据转移到一个位置，并简化跟踪和了解客户使用情况和行为的过程。他们将自己构建的工具作为开源项目发布，并使其他人可以轻松使用 Tembo 数据仓库堆栈构建自己的数据仓库。他们还使用 pgcron（一种作业调度扩展）来保持数据仓库最新。此外，他们还利用 pgpartman 扩展进行分区，以提高性能并轻松实现数据过期。 （根据 83% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/72312</guid>
-      <pubDate>Fri, 02 Feb 2024 05:59:09 GMT</pubDate>
+      <title>[媒体]此网络内容的作者讨论了他们作为通才软件工程师的奋斗[...]</title>
+      <link>https://t.me/hn_summary/72324</link>
+      <description><![CDATA[卧底通才
+该网络内容的作者讨论了他们作为一名通才软件工程师的挣扎，他们必须将自己推销为专家。他们分享了自己的经验，即尽管他们认为自己是一个多面手的问题解决者，但为了找到工作，他们需要表现得像专家一样。然后，作者继续解释了他们如何将自己打造成专业 Rust 开发人员，以及他们通过这种方法取得的成功。然而，他们透露，他们本质上仍然是一位多面手，因为他们曾使用不同的技术从事过广泛的项目。作者的结论是，将自己展现为专家实际上有助于获得通才项目，因为它可以与客户建立信任。他们邀请读者就该主题分享自己的经验和观点。]]></description>
+      <guid>https://t.me/hn_summary/72324</guid>
+      <pubDate>Fri, 02 Feb 2024 11:05:21 GMT</pubDate>
     </item>
     <item>
-      <title>【媒体】网络时间协议（NTP）的发明者 David Mills 去世，享年 85 岁。</title>
-      <link>https://t.me/hn_summary/72311</link>
-      <description><![CDATA[NTP时间领主去世
-网络时间协议 (NTP) 的发明者 David Mills 去世，享年 85 岁。NTP 是跨不同系统和网络同步计算机时钟的重要系统。 Mills 独自创建并维护了该解决方案，该解决方案现已在全球数十亿台设备上使用。 NTP 确保数据完整性、网络安全、金融交易以及记录和监控网络活动的准确计时。米尔斯在维护和发展协议方面面临挑战，但他的工作得到了广泛认可，并因其对网络协议和计时的贡献而获得了多个奖项。米尔斯去世时是特拉华大学名誉教授。]]></description>
-      <guid>https://t.me/hn_summary/72311</guid>
-      <pubDate>Fri, 02 Feb 2024 05:49:00 GMT</pubDate>
+      <title>[媒体]令人惊讶的是，一只疑似中国间谍鸽在 [...]</title>
+      <link>https://t.me/hn_summary/72323</link>
+      <description><![CDATA[飞行风险：疑似间谍鸽被拘留八个月后获释
+令人惊讶的是，一只疑似中国间谍鸽在印度被拘留八个月后被释放。这只鸽子是在孟买的一个港口附近被捕获的，它的腿上绑着两个环，上面带着一条似乎是中文的信息。警方怀疑这只鸟涉嫌间谍活动，并将这只鸟带走进行调查。然而后来人们发现，这只鸽子实际上是一只来自台湾的开放水域赛鸽，后来逃到了印度。经警方许可，这只鸟被转移到动物医院并最终被释放。这起事件并不是印度第一次有鸟类涉嫌从事间谍活动，凸显了印度与其邻国之间持续的紧张关系。]]></description>
+      <guid>https://t.me/hn_summary/72323</guid>
+      <pubDate>Fri, 02 Feb 2024 10:57:09 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Glasskube 是 Kubernetes 的开源包管理器，旨在简化 [...]</title>
-      <link>https://t.me/hn_summary/72310</link>
-      <description><![CDATA[显示 HN：Helm 之外的 Kubernetes 缺失的开源包管理器&lt; /a&gt;
-Glasskube 是 Kubernetes 的开源包管理器，旨在简化 Kubernetes 包的安装和管理。它提供了用户友好的 UI 和命令行界面，可轻松进行包管理。 Glasskube 会自动更新，以确保软件包和应用程序始终是最新的。它还管理包之间的依赖关系，并与 ArgoCD 或 Flux 等流行的 GitOps 工具集成。 Glasskube 有一个中央包存储库，计划的功能包括集群扫描和版本固定。与传统的包管理器或直接应用清单相比，该项目的独特之处在于提供了简化的体验。]]></description>
-      <guid>https://t.me/hn_summary/72310</guid>
-      <pubDate>Fri, 02 Feb 2024 05:35:49 GMT</pubDate>
+      <title>[媒体]公司聊天软件Campfire经过[...]打磨现已上市销售</title>
+      <link>https://t.me/hn_summary/72322</link>
+      <description><![CDATA[Campfire 现已发售 (37signals)
+Campfire是一款公司聊天软件，经过早期客户的打磨，现已上市销售。 Campfire 的发布意义重大，因为它代表了一种新旧的软件销售方式，而不是流行的软件即服务 (SaaS) 模型。虽然 SaaS 对于许多系统都有意义，但它可能并不适合所有情况。与 Slack 和 Teams 等竞争对手相比，Campfire 以低得多的价格提供简单版本的公司聊天。只需 299 美元，用户就可以购买在自己的服务器上运行 Campfire 的许可证，或者他们也可以选择 Hetzner 的云虚拟机，每月费用约为 5 美元。这使得 Campfire 比其他选项便宜得多，3 年总拥有成本比 Slack 便宜 99.9%。虽然像 Slack 这样的企业产品可能会提供更多功能，但 Campfire 为那些不需要所有附加设置和功能的用户提供了一种经济高效的替代方案。]]></description>
+      <guid>https://t.me/hn_summary/72322</guid>
+      <pubDate>Fri, 02 Feb 2024 10:40:56 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]文章介绍了专为Apple Vision Pro设计的YouTube客户端Juno。</title>
-      <link>https://t.me/hn_summary/72309</link>
-      <description><![CDATA[Juno – Vision Pro 的 YouTube 客户端
-本文介绍了专为 Apple Vision Pro 设计的 YouTube 客户端 Juno。作者对 YouTube 缺乏构建 VisionOS 应用程序的计划以及禁用 iPad 应用程序表示失望。 Juno 是使用作者之前的应用程序 Apollo 中的代码创建的，该应用程序可以播放提交到 Reddit 的 YouTube 视频。 Juno 利用 YouTube 的嵌入 API 提供与底层 YouTube 播放器交互的本机visionOS UI。本文重点介绍了自动宽高比检测、视频播放本机控件以及查看推荐和订阅的功能等功能。作者还提到了未来潜在的功能并鼓励用户提供反馈。 Juno 已在 App Store 上架，售价 5 美元。]]></description>
-      <guid>https://t.me/hn_summary/72309</guid>
-      <pubDate>Fri, 02 Feb 2024 05:04:32 GMT</pubDate>
+      <title>[媒体]文章讨论了二战期间自焊套筒的使用情况。</title>
+      <link>https://t.me/hn_summary/72321</link>
+      <description><![CDATA[看看这些二战时期的自焊套筒
+本文讨论了二战期间自焊套筒的使用。这些袖子是由特别行动执行官开发的，该组织负责在被占领的欧洲进行破坏和颠覆行动。这些套管的设计目的是为了在雷管和炸药引火线之间快速建立电气连接。它们由一根铜管组成，电线穿过铜管，中间有焊料。套筒上覆盖有烟火材料，并使用安全火柴式起爆化学品点燃。烟火材料产生的热量熔化焊料，形成连接。本文建议观看随附的视频，了解这些设备的工作原理。]]></description>
+      <guid>https://t.me/hn_summary/72321</guid>
+      <pubDate>Fri, 02 Feb 2024 10:04:36 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Peter Yang，一位在 Reddit 和 Twitch 等公司工作过的产品经理，sha [...]</title>
-      <link>https://t.me/hn_summary/72308</link>
-      <description><![CDATA[Peter Yang 制作客户喜爱产品的 10 条规则 
-Peter Yang 是一名产品经理，曾在 Reddit 和 Twitch 等公司工作过，他分享了他制作客户喜爱的产品的 10 条规则。他强调个人成长和不断提高产品意识的重要性，其中包括理解和适应不断变化的客户需求。杨还强调了同理心和像团队成员一样对待客户的重要性。他建议在开始执行之前花时间诊断客户和业务问题，并鼓励大胆思考并优先考虑想法。他讨论了维持质量和为企业成功做出艰难决策所涉及的权衡。杨还谈到了人工智能在产品管理中的应用，以及成为一名多才多艺、富有成效的建设者的重要性。他谈到了解决职业生涯中的弱点和阴影的需要，以及与客户建立同理心的价值。最后，他分享了异步做出重大决策的技巧，并强调了专注于构建客户喜爱的有意义的产品的重要性。]]></description>
-      <guid>https://t.me/hn_summary/72308</guid>
-      <pubDate>Fri, 02 Feb 2024 05:01:24 GMT</pubDate>
+      <title>[媒体] 网页内容是 1996 年的一篇文章，介绍了 Juice，一种用于分发的新技术。</title>
+      <link>https://t.me/hn_summary/72320</link>
+      <description><![CDATA[Juice – Oberon JIT 浏览器插件 (1996)&lt; br/&gt;
+Web 内容是 1996 年的一篇文章，介绍了 Juice，一种在万维网上分发可执行内容的新技术。 Juice 与 Java 相比，据说在许多应用程序中都优于 Java，尤其是在处理大型小程序时。 Juice 被描述为 Java 的补充，让用户可以在两者之间进行选择。文章解释说，Juice 已经开发了好几年，并且基于 Oberon 语言。它凸显了 Juice 的优势，例如更快的执行速度和更密集的分发格式。文章最后指出，Juice 是一种比 Java 更好的技术，可以将可执行内容带到网络上。 （根据 77% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/72320</guid>
+      <pubDate>Fri, 02 Feb 2024 08:58:10 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]苹果公司宣布 2012 年中期配备光驱的 13 英寸 MacBook Pro 已过时，ma [...]</title>
-      <link>https://t.me/hn_summary/72307</link>
-      <description><![CDATA[Apple 宣布最后一款配备光驱的 MacBook Pro 已过时 
-苹果公司宣布 2012 年中期配备光驱的 13 英寸 MacBook Pro 已过时，标志着一个时代的结束。这意味着 Apple 不再支持任何配备光驱的 MacBook Pro。在后续的 MacBook Pro 型号中取消光驱的做法引起了争议，但光驱似乎对大多数用户来说已经变得无关紧要了。苹果仍然销售名为 SuperDrive 的外置光驱，但它已经很久没有更新了，并且需要适配器才能与现代 Mac 电脑一起使用。总体而言，光驱时代的结束并不令人意外，因为近年来物理介质已经不再那么流行。]]></description>
-      <guid>https://t.me/hn_summary/72307</guid>
-      <pubDate>Fri, 02 Feb 2024 04:57:14 GMT</pubDate>
+      <title>[媒体] 一家电话公司正在其手机上推广一项新功能，其中带有圆形管道地图，位于 [...]</title>
+      <link>https://t.me/hn_summary/72319</link>
+      <description><![CDATA[五个地铁站现已有了新的圆形地铁地图&lt; br/&gt;
+一家电话公司正在其手机上推广一项新功能，其中包含五个伦敦地铁站的圆形地铁地图。临时重新设计展示了三星 Galaxy S24 智能手机上的 Circle to Search with Google 功能。该地图包括所有 11 条伦敦地铁线路，并暂时用“Circle to Search”线取代了 Circle 线。地图上不包括伊丽莎白线、DLR 和伦敦地上铁。地图上提到了缆车，但未显示。该地图将在 Blackfriars、King&#39;s Cross、Liverpool Street、Paddington 和 Westminster 车站展示两周。传统的地铁地图仍然可用。]]></description>
+      <guid>https://t.me/hn_summary/72319</guid>
+      <pubDate>Fri, 02 Feb 2024 08:56:01 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 网络内容讨论了被遗忘的中世纪习惯“两次睡眠”，人们在其中 [...]</title>
-      <link>https://t.me/hn_summary/72306</link>
-      <description><![CDATA[中世纪的“两次睡眠”习惯
-网络内容讨论了被遗忘的中世纪“两次睡眠”习惯，人们会分两班睡觉，一次在晚上，一次在早上。作者重点介绍了历史学家罗杰·埃基希 (Roger Ekirch) 对这一习惯的发现，以及它如何在不同文化和时期流行。内容探讨了这种睡眠模式背后的原因，包括社交、宗教活动和睡眠期间清醒期间的生产力。作者还提到了双相睡眠与某些动物的睡眠模式之间潜在的进化联系。 （根据故事文本的 64% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/72306</guid>
-      <pubDate>Fri, 02 Feb 2024 04:51:06 GMT</pubDate>
+      <title>[媒体] Bloop 是一家 Y-Combinator 支持的初创公司，正在伦敦招聘 Rust 工程师，他们是 [...]</title>
+      <link>https://t.me/hn_summary/72318</link>
+      <description><![CDATA[Bloop (YC S21) 正在招聘对编译器感兴趣的 Rust 工程师，伦敦
+Bloop 是一家 Y-Combinator 支持的初创公司，正在伦敦招聘对编译器感兴趣的 Rust 工程师。 Bloop 的自动代码翻译解决方案旨在自动化在不同编程语言之间移动代码的过程。他们正在采取一种新颖的方法来解决这个问题，利用源到源编译器和可以处理大量代码的 LLM（语言模型）。受聘的工程师将致力于设计和实现为代码翻译管道提供动力的核心引擎，重点关注编译器、自动化测试、法学硕士和静态分析。 Bloop 提供有竞争力的一揽子计划，并鼓励来自非传统背景的申请者。]]></description>
+      <guid>https://t.me/hn_summary/72318</guid>
+      <pubDate>Fri, 02 Feb 2024 07:02:16 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]电动汽车行业面临着众多问题，多家制造商已决定[...]</title>
-      <link>https://t.me/hn_summary/72305</link>
-      <description><![CDATA[如此多的问题继续困扰着电动汽车行业&lt; br/&gt;
-电动汽车行业面临诸多问题，多家制造商决定减产或停产。福特已将其 F150 闪电卡车系列削减了一半，数千家汽车经销商因供应过剩而请愿拜登政府放慢对电动汽车的积极推动。赫兹正在出售其三分之一的电动汽车车队，理由是昂贵的维修费用和客户对内燃机的需求。中西部的严寒天气使电动汽车车主陷入困境，无法为车辆充电。此外，还揭露了一项作弊丑闻，电动汽车受益于夸大的效率数字，使汽车制造商能够赚取数十亿美元的积分。作者认为，政府对电动汽车的补贴和市场操纵对于纳税人来说是不必要的，而且成本高昂。]]></description>
-      <guid>https://t.me/hn_summary/72305</guid>
-      <pubDate>Fri, 02 Feb 2024 04:50:00 GMT</pubDate>
+      <title>[媒体] 布莱恩·伊诺 (Brian Eno) 的引人注目的肖像每次观看都会有所不同</title>
+      <link>https://t.me/hn_summary/72317</link>
+      <description><![CDATA[布莱恩·伊诺 (Brian Eno) 引人注目的肖像，每次观看都会有所不同&lt; /a&gt;
+关于布莱恩·伊诺的纪录片《伊诺》在圣丹斯电影节首映。这部电影由加里·赫斯威特执导，其独特之处在于它使用生成软件在每次观看时创建不同的版本。这部纪录片主要以伊诺本人为主角，讲述他的职业生涯和创作哲学。这部电影借鉴了 Eno 个人档案中 500 小时的镜头，展示了他与 David Bowie、Talking Heads、U2 和 Coldplay 等艺术家的合作。虽然《伊诺》时尚且引人入胜，但一些观众可能更喜欢一部带有其他艺术家推荐的更传统的纪录片。]]></description>
+      <guid>https://t.me/hn_summary/72317</guid>
+      <pubDate>Fri, 02 Feb 2024 07:01:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
