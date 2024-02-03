@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Sat, 03 Feb 2024 00:27:43 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Feb 2024 03:09:54 GMT</lastBuildDate>
     <item>
-      <title>[媒体]光纤带你上网。</title>
-      <link>https://t.me/hn_summary/72453</link>
-      <description><![CDATA[光纤为您带来互联网。现在他们也听火车
-通常用于互联网连接的光纤电缆现在被用于一个新用途：监听火车。科学家们开发了一种称为分布式声学传感（DAS）的技术，可以检测火车沿轨道运行产生的振动。通过分析光在光缆中传播的方式所受到的干扰，研究人员可以识别铁轨的潜在问题，例如裂缝或枕木断裂。 DAS 还可用于检测其他事件，例如火山爆发和地震。该技术有可能减少对铁轨进行人工检查的需要并提高安全性。]]></description>
-      <guid>https://t.me/hn_summary/72453</guid>
-      <pubDate>Sat, 03 Feb 2024 00:27:43 GMT</pubDate>
+      <title>[媒体]Kubernetes 的设计基于承诺理论，这是一种研究 [...]</title>
+      <link>https://t.me/hn_summary/72467</link>
+      <description><![CDATA[Kubernetes 的设计基于 Promise 理论&lt; br/&gt;
+Kubernetes 的设计基于承诺理论，这是一种研究交互组件系统的分析方法。承诺理论通过相互做出承诺来模拟个体参与者或代理人之间的自愿合作。它基于图论和集合论。承诺理论不是一种技术或设计方法，而是一种分析方法。它已被用于各种学科，例如网络和计算机系统管理、组织和金融。承诺理论最初由 Mark Burgess 在 2004 年提出，旨在解决计算机管理方案中基于义务的逻辑问题。此后，它得到了更广泛的应用和认可。 （根据 81% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/72467</guid>
+      <pubDate>Sat, 03 Feb 2024 03:09:54 GMT</pubDate>
     </item>
     <item>
-      <title>网页内容摘自让·鲍德里亚 (Jean Baudrillard) 的《拟像与模拟》。</title>
-      <link>https://t.me/hn_summary/72452</link>
-      <description><![CDATA[拟像和模拟
-网页内容摘自让·鲍德里亚 (Jean Baudrillard) 的《拟像与模拟》。鲍德里亚探索了拟像的概念，他将其定义为隐藏真相而不是再现真相的东西。他举了一个例子，地图变得非常详细，覆盖了整个领土，但随着帝国的衰落，地图变得磨损和毁坏。鲍德里亚认为，模拟不再是代表一个领域或现实，而是通过模型生成超现实。他讨论了真实与想象之间区别的消失，以及拟像的潜在危险，特别是与宗教和上帝概念相关的危险。 （根据 23% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/72452</guid>
-      <pubDate>Sat, 03 Feb 2024 00:14:32 GMT</pubDate>
+      <title>[媒体] 在 The Verge 的这篇文章中，作者分享了 Google CEO Sunda 的录音 [...]</title>
+      <link>https://t.me/hn_summary/72466</link>
+      <description><![CDATA[Google CEO 面临员工关于裁员的疑问
+在 The Verge 的这篇文章中，作者分享了谷歌首席执行官桑达尔·皮查伊 (Sundar Pichai) 解答员工有关裁员和公司人工智能战略问题的录音。文章还提到了字节跳动首席执行官的“紧迫性”推动，并提供了有关 Meta 重要一周的注释。作者鼓励读者订阅未来的期刊，并提供了过去期刊档案的链接。]]></description>
+      <guid>https://t.me/hn_summary/72466</guid>
+      <pubDate>Sat, 03 Feb 2024 03:03:46 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在这篇博文中，Google Research 的 Rajat Sen 和 Yichen Zhou 介绍了 TimesFM，一个 [...]</title>
-      <link>https://t.me/hn_summary/72451</link>
-      <description><![CDATA[用于时间序列预测的纯解码器基础模型
-在这篇博文中，来自 Google Research 的 Rajat Sen 和 Yichen Zhou 介绍了 TimesFM，这是一种用于时间序列预测的仅解码器基础模型。他们解释说，深度学习模型由于其准确性而在预测时间序列数据方面变得流行，但它们通常需要漫长的训练和验证周期。另一方面，TimesFM 在大型时间序列语料库上进行了预训练，无需额外训练即可对未见过的数据提供不错的预测。作者强调，TimesFM 在各种基准测试中表现良好，并且优于统计方法和强大的深度学习模型。他们还提到 TimesFM 将在 Google Cloud Vertex AI 中向外部客户提供。]]></description>
-      <guid>https://t.me/hn_summary/72451</guid>
-      <pubDate>Sat, 03 Feb 2024 00:06:22 GMT</pubDate>
+      <title>[媒体]Designer News，一个曾经深受产品设计师欢迎的在线社区，现已正式上线 [...]</title>
+      <link>https://t.me/hn_summary/72465</link>
+      <description><![CDATA[设计师新闻已死
+曾经深受产品设计师欢迎的在线社区 Designer News 已正式关闭。该社区最近被出售给 WeWorkRemotely，并发布了一条通知，指出将不再支持 Designer News。 《设计师新闻》的独特之处在于它专注于基于文本的讨论，深入探讨产品设计的更微妙的方面。然而，随着时间的推移，讨论的质量下降，网站上充斥着垃圾邮件。该社区已经衰落了一段时间，贡献者和常客不断减少。作者对 Designer News 的消亡表示悲伤，并寻求其他产品设计讨论平台的建议。]]></description>
+      <guid>https://t.me/hn_summary/72465</guid>
+      <pubDate>Sat, 03 Feb 2024 02:47:36 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]作者讨论了非洲版权法中公有领域的概念，具体 [...]</title>
-      <link>https://t.me/hn_summary/72450</link>
-      <description><![CDATA[公共领域：知识作为公共物品
-作者讨论了非洲版权法中公有领域的概念，特别关注尼日利亚。他们表示沮丧的是，虽然尼日利亚确实有关于公有领域的规定，但版权法并未像加纳那样在版权法中明确提及。作者认为，在版权法中明确提及公有领域将使其得到更多认可，并强调知识作为公共物品的重要性。他们还强调了知识在发展中的作用以及让所有人都能获取知识的必要性。作者建议维基媒体用户组可以在非洲国家提高认识和倡导公有领域概念方面发挥作用。]]></description>
-      <guid>https://t.me/hn_summary/72450</guid>
-      <pubDate>Sat, 03 Feb 2024 00:01:14 GMT</pubDate>
+      <title>[媒体]网络内容讨论了双亲家庭的减少对现代 [...]</title>
+      <link>https://t.me/hn_summary/72464</link>
+      <description><![CDATA[双亲特权是真实的
+网络内容讨论了双亲家庭的减少对现代不平等的影响。作者、经济学家梅丽莎·科尔尼 (Melissa S. Kearney) 认为，美国家庭的分裂是不平等和社会流动性的一个被忽视的驱动因素。科尔尼提供的数据显示低收入单亲家庭的增加以及富裕、受过大学教育的双亲家庭的相应优势。她强调，低收入家庭结婚率下降的问题很难通过简单化的支持婚姻的言论或传统举措来解决。科尔尼表示，了解经济不安全与结婚率下降之间的关系对于制定减少家庭之间不平等的政策至关重要。内容强调了家庭结构对于解决不平等和贫困的重要性。 （根据 96% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/72464</guid>
+      <pubDate>Sat, 03 Feb 2024 02:22:24 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 作者提供了如何阅读令人畏惧的论文或书籍的技巧。</title>
-      <link>https://t.me/hn_summary/72449</link>
-      <description><![CDATA[令人畏惧的论文/书籍以及如何阅读它们&lt; br /&gt;
-作者提供了如何阅读令人畏惧的论文或书籍的技巧。他们强调阅读背后有目的和明确意图的重要性，以及理解材料的核心部分而不陷入不必要的细节的重要性。作者建议将阅读分成较短的部分，并用休息时间奖励自己。他们还建议优先考虑现有知识，并通过跟踪阅读时间来寻求责任感。作者建议与朋友讨论内容或像教别人一样处理材料。他们还提到使用不同的学习方式，例如大声朗读或创建视觉效果。作者通过艰巨的论文和书籍分享了他们的个人经历，强调了坚持的重要性，并欣赏尊重读者时间的作家。]]></description>
-      <guid>https://t.me/hn_summary/72449</guid>
-      <pubDate>Fri, 02 Feb 2024 23:59:08 GMT</pubDate>
+      <title>[媒体]特斯拉 Cyber​​truck 备受争议的设计正在对其定制轮胎造成损坏。</title>
+      <link>https://t.me/hn_summary/72463</link>
+      <description><![CDATA[特斯拉 Cyber​​truck 的航空轮罩正在磨损定制轮胎
+特斯拉赛博卡车备受争议的设计正在对其定制轮胎造成损坏。卡车的空气动力轮盖延伸到合金轮毂之外并延伸到轮胎的侧壁上，导致侧壁严重损坏。轮盖主要由塑料制成，末端涂有橡胶，会刮擦侧壁。在生产前测试期间并未发现这一设计缺陷，但特斯拉以利用其客户作为 Beta 测试员而闻名。航空轮盖目前处于延期交货状态，并且由于这一潜在的危险问题，可能需要重新设计。建议当前的 Cyber​​truck 车主拆下轮盖，以防止进一步损坏轮胎。]]></description>
+      <guid>https://t.me/hn_summary/72463</guid>
+      <pubDate>Sat, 03 Feb 2024 02:14:14 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Stripe 已锁定我们的帐户并正在向所有人退款。</title>
-      <link>https://t.me/hn_summary/72448</link>
-      <description><![CDATA[Stripe 已锁定我们的帐户并正在向所有人退款。我能做什么？
-old.reddit.com 上这篇文章的作者分享在他们的新业务推出后，他们的 Stripe 账户被锁定并且所有订单都被退款后，他们感到沮丧和痛苦。他们在短短几个小时内就收到了 100 多个订单，预计收入约为 20,000 美元。作者声称他们遵循了帐户验证的所有必要步骤并且进行了合法交易。他们甚至在家里放了他们销售的产品，并提供了证据。然而，尽管他们做出了努力，Stripe 还是关闭了他们的账户，并向他们收取了约 2,000 美元的费用。作者正在寻求有关如何解决此问题的建议。在更新中，作者提到他们的帐户在一天的压力后已重新激活。]]></description>
-      <guid>https://t.me/hn_summary/72448</guid>
-      <pubDate>Fri, 02 Feb 2024 23:34:54 GMT</pubDate>
+      <title>[媒体] 苹果刚刚在 iOS 17.4 Beta（欧盟）中破坏了 Web 应用程序吗？</title>
+      <link>https://t.me/hn_summary/72462</link>
+      <description><![CDATA[Apple 是否在 iOS 17.4 Beta（欧盟）中破坏了 Web 应用程序？ – 开放网络倡导
+本文讨论了 iOS 17.4 Beta 中的一个错误，该错误破坏了欧盟的 Web 应用程序 (PWA) 支持。安装到主屏幕的网络应用程序不是在自己的顶级活动中启动，而是在 Safari 中打开，将它们降级为纯粹的快捷方式。作者认为，这个 bug 可能是由于 Safari 或 iOS 团队缺乏常规测试以及自动化回归测试而漏掉的。苹果针对欧盟的合规提案的复杂性也可能是一个促成因素。这篇文章强调了苹果忽视 iOS Safari 功能的历史以及对第三方浏览器的禁令，这限制了 iOS 上的网络应用程序功能。英国竞争与市场管理局指出，苹果通过限制网络应用程序的功能来保护应用程序商店收入的潜在动机。文章最后强调了浏览器竞争对于安全性、功能性、稳定性和隐私性的重要性，并呼吁在全球范围内恢复这种竞争。]]></description>
+      <guid>https://t.me/hn_summary/72462</guid>
+      <pubDate>Sat, 03 Feb 2024 02:04:05 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 虚拟现实：仍然没有完全实现。</title>
-      <link>https://t.me/hn_summary/72447</link>
-      <description><![CDATA[虚拟现实：仍然不完全存在。 – 安德烈·卡帕蒂 (Andrej Karpathy)
-作者 Andrej Karpathy 分享了他在虚拟现实 (VR) 方面的个人经验，并讨论了该技术的现状。他回忆起 20 世纪 90 年代第一次接触 VR 以及最初对其潜力的兴奋。然而，他指出，VR 的发展速度并没有他希望的那么快，进步有限，而且缺乏广泛采用。 Karpathy 随后描述了他自己在 Oculus Kickstarter 众筹活动中的经历以及他最终购买 Vive 和 Oculus 消费者版本的经历。他承认，虽然虚拟现实“相当酷”，但它没有达到他或他朋友的期望。他强调了技术演示价格过高、VR 设计反模式以及可能导致负面体验的游戏错误等问题。尽管存在这些挑战，Karpathy 认为 VR 在三个方面具有潜力：全身体验、创意体验和社交体验。他最后指出，VR 目前主要由游戏主导，但他质疑游戏是否会成为 VR 成功背后的推动力。 Karpathy 认为 VR 需要提供的不仅仅是游戏体验才能真正起飞。 （根据 83% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/72447</guid>
-      <pubDate>Fri, 02 Feb 2024 23:32:44 GMT</pubDate>
+      <title>[媒体]本文讨论了高级用户的电池电源管理并解决了常见的问题 [...]</title>
+      <link>https://t.me/hn_summary/72461</link>
+      <description><![CDATA[高级用户的电池电源管理（2023）&lt; br/&gt;
+本文讨论了高级用户的电池电源管理，并解决了有关电池健康状况的常见误解和过时的建议。作者强调，配备锂聚合物电池的现代智能手机拥有自己的板载计算机，可以自动管理电池健康状况，使得限制充电至 80% 或深度循环等旧做法变得不必要，而且可能有害。该文章还强调了使用手机附带的原装充电器和电缆的重要性，以避免与廉价或不兼容的充电器相关的潜在风险。作者最后指出，GrapheneOS 设备旨在优化电池健康状况，用户无需采取非常规的充电做法。]]></description>
+      <guid>https://t.me/hn_summary/72461</guid>
+      <pubDate>Sat, 03 Feb 2024 02:01:59 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 介绍 hnto.pics，这是一个根据 [...] 对黑客新闻 (HN) 故事进行分类的网站</title>
-      <link>https://t.me/hn_summary/72446</link>
-      <description><![CDATA[显示 HN：按感兴趣主题分类的 HN 故事 
-隆重推出 hnto.pics，这是一个对黑客新闻 (HN) 进行分类的网站基于兴趣主题的故事。该平台旨在让用户更轻松地查找和探索与编程、软件和计算机科学相关的故事。通过简单直观的界面，用户可以浏览各种类别，发现他们感兴趣的领域中最新、最流行的 HN 故事。无论您是开发人员、软件工程师，还是只是对科技世界感兴趣， hnto.pics 提供了一种方便的方式来保持更新并参与最新的讨论和趋势。查看并探索根据您的兴趣定制的 HN 故事的广阔世界。]]></description>
-      <guid>https://t.me/hn_summary/72446</guid>
-      <pubDate>Fri, 02 Feb 2024 23:31:37 GMT</pubDate>
+      <title>[媒体]文章讨论了美国经济的积极状况，强调了持续的 [...]</title>
+      <link>https://t.me/hn_summary/72460</link>
+      <description><![CDATA[另一份良好的就业报告显示美国经济正在蓬勃发展&lt; br/&gt;
+文章讨论了美国经济的积极状况，强调了服务业就业的持续增长。虽然休闲和酒店业 1 月份仅增加了 11,000 个就业岗位，但由于美国人花钱购买体验的强烈愿望，服务业一直在蓬勃发展。文章还提到明尼阿波利斯即将开设一家名为 A Bar of Their Own 的新酒吧和餐厅，该酒吧和餐厅将专门播放女子体育赛事。这一概念得到了社区的大力支持，25 至 30 个空缺职位收到了 150 份申请。店主 Jillian Hiscock 认为，疫情过后，人们与工作的关系发生了根本性的变化，人们寻求工作和个人生活之间更好的平衡。]]></description>
+      <guid>https://t.me/hn_summary/72460</guid>
+      <pubDate>Sat, 03 Feb 2024 01:59:52 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]最近发现的超级地球 TOI-715 b 是一个令人兴奋的发现，因为它绕 [...]</title>
-      <link>https://t.me/hn_summary/72445</link>
-      <description><![CDATA[宜居带中的“超级地球” 
-最近发现的超级地球 TOI-715 b 是一个令人兴奋的发现，因为它绕着一颗红矮星运行，而红矮星比太阳更小、温度更低。众所周知，红矮星拥有小型岩石世界，这使它们成为寻找宜居行星的最佳候选者。这些行星的轨道距离恒星更近，但由于红矮星更小、温度更低，它们仍然可以位于恒星的宜居带内。轨道越近也意味着这些行星更频繁地穿过其恒星的表面，使它们更容易被发现和观察。 TESS（凌日系外行星勘测卫星）发现了 TOI-715 b，自 2018 年发射以来，它一直被添加到天文学家的宜居带系外行星收藏中。]]></description>
-      <guid>https://t.me/hn_summary/72445</guid>
-      <pubDate>Fri, 02 Feb 2024 23:31:31 GMT</pubDate>
+      <title>[媒体] AnyDesk 最近发生了一起事件，我们的一些系统遭到了入侵。</title>
+      <link>https://t.me/hn_summary/72459</link>
+      <description><![CDATA[2024 年 2 月 2 日 AnyDesk 事件响应
+AnyDesk 最近经历了一次事件，我们的一些系统遭到破坏。我们立即采取行动，进行安全审核并寻求网络安全专家 CrowdStrike 的帮助来纠正这种情况。我们也已通知相关部门并正在配合他们。需要注意的是，此事件与勒索软件无关。我们已吊销所有与安全相关的证书，并根据需要更换或修复了系统。我们正在用新的证书替换以前的代码签名证书。虽然我们没有证据表明任何最终用户设备受到影响，但作为预防措施，我们建议用户更改我们门户网站的密码。我们希望向用户保证情况已得到控制，并且使用 AnyDesk 是安全的。我们认真对待我们产品的诚信和信任，并致力于解决这个问题。如果您有任何疑问，请通过电子邮件或电话联系我们。]]></description>
+      <guid>https://t.me/hn_summary/72459</guid>
+      <pubDate>Sat, 03 Feb 2024 01:38:40 GMT</pubDate>
     </item>
     <item>
-      <title>Gem 是一家软件公司，帮助科技公司满足基于种族和性别的招聘配额。</title>
-      <link>https://t.me/hn_summary/72444</link>
-      <description><![CDATA[这家公司为硅谷的种族和性别招聘目标提供支持&lt; /a&gt;
-Gem 是一家软件公司，帮助科技公司满足基于种族和性别的招聘配额。他们的软件允许招聘人员在整个招聘过程中跟踪性别和种族/民族，帮助公司精确填写多元化配额。 Gem 的软件通过自我 ID、手动覆盖和预测 AI 来收集人口统计数据。该公司网站上的多元化招聘部分展示了公司使用 Gem 根据种族和性别进行招聘的案例研究。然而，Gem 的招聘做法引起了人们的担忧，因为他们似乎为某些群体指定了特定的职位，而这可能是法律不允许的。该公司预测种族和性别的人工智能也引起了人们的关注。]]></description>
-      <guid>https://t.me/hn_summary/72444</guid>
-      <pubDate>Fri, 02 Feb 2024 23:26:24 GMT</pubDate>
+      <title>[媒体]《兴趣区》是一部不仅仅是关于纳粹和大屠杀的电影。</title>
+      <link>https://t.me/hn_summary/72458</link>
+      <description><![CDATA[兴趣区不仅仅是一部大屠杀电影
+《兴趣区》是一部不仅仅是关于纳粹和大屠杀的电影。导演乔纳森·格雷泽使用各种电影技巧，例如保持空白屏幕，迫使观众反思自己参与创造激进的体验。这部电影的重点是对种族灭绝的极端否认，即使它就发生在角色旁边。格雷泽强调，这部电影不仅关于过去，而且关于现在，特别是对右翼民粹主义和反犹太主义崛起的回应。这部电影详细介绍了奥斯威辛集中营指挥官及其家人的生活，强调了他们舒适而被忽视的存在。 《兴趣区》是一项电影壮举，捕捉了人类暴行的黑暗和恐怖。]]></description>
+      <guid>https://t.me/hn_summary/72458</guid>
+      <pubDate>Sat, 03 Feb 2024 01:35:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
