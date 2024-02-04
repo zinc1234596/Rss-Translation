@@ -4,7 +4,42 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Sat, 03 Feb 2024 21:09:46 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Feb 2024 00:51:31 GMT</lastBuildDate>
+    <item>
+      <title>好吧，兄弟们。需要一些帮助来专门编辑该日期的注释。有人可以帮忙吗？</title>
+      <link>https://www.reddit.com/r/editors/comments/1aiar3g/alright_bros_need_some_help_editing_a_note/</link>
+      <description><![CDATA[ 由   提交/u/JayRocLaFamilia  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1aiar3g/alright_bros_need_some_help_editing_a_note/</guid>
+      <pubDate>Sun, 04 Feb 2024 00:29:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>有没有不想从事电影/电视节目的剪辑师？</title>
+      <link>https://www.reddit.com/r/editors/comments/1aiaoeu/are_there_any_editors_that_dont_want_to_work_on/</link>
+      <description><![CDATA[当我思考自己在电视/专题片工作的旅程中处于什么位置时（目前正在制作企业内容/本地广告/偶尔的准系统非小说类迷你作品）纪录片），我突然想到，也许并非所有编辑都有在该领域工作的愿望。有没有编辑不想处理专题/剧集？   由   提交 /u/VFXBob   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1aiaoeu/are_there_any_editors_that_dont_want_to_work_on/</guid>
+      <pubDate>Sun, 04 Feb 2024 00:26:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>LucidLink 推荐的互联网速度？</title>
+      <link>https://www.reddit.com/r/editors/comments/1aialiu/recommended_internet_speed_for_lucidlink/</link>
+      <description><![CDATA[大家好！研究 LucidLink 作为远程工作流程的解决方案。处理 4K 视频时建议使用什么互联网速度？代理说，这会是一个完全令人头痛的问题还是您主要将其用于流媒体？抱歉，如果菜鸟问题！ 最大的文件将是 10 位 XAVC 文件，因此寻找基于该文件的一些见解   由   提交/u/UnivitedSam   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1aialiu/recommended_internet_speed_for_lucidlink/</guid>
+      <pubDate>Sun, 04 Feb 2024 00:22:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 Windows 中修剪剪辑而不进入编辑程序？</title>
+      <link>https://www.reddit.com/r/editors/comments/1ai7ct3/trimming_clips_in_windows_without_going_into_an/</link>
+      <description><![CDATA[听我说，因为这可能听起来很奇怪。 有时我会收到客户发送的社交媒体剪辑片段，我想要剪切开头和结尾并将其另存为新剪辑。你是否知道 Windows 中有什么方法可以让我快速完成此操作，而无需打开 Davinci、加载剪辑、制作序列、导出、重命名 blablabla。 最多我想要相同的文件只是用相同的元数据和所有内容进行了修剪。到目前为止，我尝试使用 Windows 照片应用程序，这似乎正是我想要的，但即使使用超级简单的 20 秒 H264 剪辑，它似乎也无法导出任何内容。我做了剪切并点击保存，但它并没有停止加载。有没有什么东西，也许可以通过 Windows 中的 PowerTools 让我以最简单的方式完成这件事？   由   提交 /u/Zeigerful   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1ai7ct3/trimming_clips_in_windows_without_going_into_an/</guid>
+      <pubDate>Sat, 03 Feb 2024 21:56:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>降噪 Prores 与 h265 日志</title>
+      <link>https://www.reddit.com/r/editors/comments/1ai6y4n/denoise_prores_vs_h265_log/</link>
+      <description><![CDATA[嘿！我正在运行 M1 Max，拍摄了很多低光镜头，我需要对这些镜头进行降噪处理。镜头各不相同，有时是转换为 Rec 709 的 h265 无人机镜头，有时是我的实际相机。我的相机可以选择拍摄专业照片，但我从不使用它，因为它占用了大量空间。解析中的降噪功能令人难以置信，但对于 h265 素材来说，在增强模式下运行时需要很长时间才能发挥其魔力。在 Prores 中拍摄是否有助于缩短降噪处理时间？   由   提交 /u/Videoplushair   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1ai6y4n/denoise_prores_vs_h265_log/</guid>
+      <pubDate>Sat, 03 Feb 2024 21:38:29 GMT</pubDate>
+    </item>
     <item>
       <title>学习After Effects好还是Animation Composer之类的插件好？</title>
       <link>https://www.reddit.com/r/editors/comments/1ai5wpf/is_it_better_to_learn_after_effects_or_a_plugin/</link>
@@ -74,41 +109,6 @@
       <description><![CDATA[嗨，我正在制作一个 16:9 的视频，但我有一些用手机拍摄的用于社交媒体的漂亮片段。在这个宽视频中展示它的好方法是什么？ 我可以采用简单的方法，将其放在同一视频的模糊宽版本之上，但是还有其他更具创意的方法吗？人们如何做到这一点？   由   提交/u/Nba2kFan23   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1ahknrf/a_good_way_to_feature_916_social_media_content/</guid>
       <pubDate>Sat, 03 Feb 2024 01:54:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>基于访谈的文档中有关出色声音设计的参考？</title>
-      <link>https://www.reddit.com/r/editors/comments/1ahix53/references_for_great_sound_design_in/</link>
-      <description><![CDATA[你们都看过任何您喜欢声音设计的文档吗？真实犯罪参考可加分！   由   提交 /u/kopytojelito   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1ahix53/references_for_great_sound_design_in/</guid>
-      <pubDate>Sat, 03 Feb 2024 00:28:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>这种外观是如何实现的？</title>
-      <link>https://www.reddit.com/r/editors/comments/1ahgh28/how_was_this_look_achieved/</link>
-      <description><![CDATA[您好！ 此视频的视觉效果给我留下了深刻的印象（跳到 00:10，背景中有一个宇航员视频）并且到目前为止我一直在尝试自己复制视觉效果。我在 Premiere Pro 中进行编辑，因此我尝试使用混合模式、rgb cc 和发光/曝光 + 一些 VHS 扫描叠加等效果。  在使镜头变暗方面我已经非常接近了，但我一直在努力强调单独的细节。我尝试了遮罩和应用发光、噪音和其他一些效果，但与该视频的外观相差甚远。我不太确定整个东西如何看起来如此清晰，但同时在边缘上有羽毛，就好像它，嗯，✨️发光✨️。  我开始怀疑这是否可以通过 Premiere Pro 独特地实现，它很可能是 After Effects 内容的复杂组合。但也许实际上不是，我只是没有使用正确的效果？  让我知道你的想法！感谢您阅读并祝您有美好的一天！   由   提交 /u/AccomplishedCan4789   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1ahgh28/how_was_this_look_achieved/</guid>
-      <pubDate>Fri, 02 Feb 2024 22:40:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>那么...谁在工作？ （洛杉矶）</title>
-      <link>https://www.reddit.com/r/editors/comments/1ahfan6/so_whos_working_los_angeles/</link>
-      <description><![CDATA[只是好奇新的一年里是否有人工作有所好转？我终于有了一些可靠的线索，可能很快就会回到全职职位，但还没有具体的消息。但总的来说，罢工使一切在很长一段时间内都变得不稳定。只是好奇其他人的整流罩如何？   由   提交/u/josephevans_50   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1ahfan6/so_whos_working_los_angeles/</guid>
-      <pubDate>Fri, 02 Feb 2024 21:50:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>自由职业时间追踪器可以截屏作为证据吗？</title>
-      <link>https://www.reddit.com/r/editors/comments/1ahe80u/freelance_hour_tracker_that_takes_screen_shots/</link>
-      <description><![CDATA[嘿，我想知道是否有一个桌面应用程序可以自动跟踪时间并每隔一段时间截取屏幕截图，类似于 upwork？想要一些我所做的工作证明供客户查看   由   提交/u/tacobell313  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1ahe80u/freelance_hour_tracker_that_takes_screen_shots/</guid>
-      <pubDate>Fri, 02 Feb 2024 21:04:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>首映 - 我再次询问“线性颜色合成”</title>
-      <link>https://www.reddit.com/r/editors/comments/1ahe4n1/premiere_i_am_once_again_asking_about_composite/</link>
-      <description><![CDATA[我经常遇到这个问题，并且之前曾在这个论坛上提出过这个问题，但我还没有得到一个自信的答复。所以，我想我会再次尝试 -  在 Adob​​e Premiere 的序列设置中，有一个名为“线性颜色合成”的小复选框。这似乎会影响带有 Alpha、交叉溶解等的图形的显示方式，并且在 Premiere 中默认启用。  但是 - 这意味着 Premiere 呈现这些图形的方式与其他程序有显着不同。据我所知，这适用于 Resolve、Flame，甚至 After Effects。  举个例子 - 假设我正在 After Effects 中创建图形，并且我的图形下面有一个无文本视频，以查看它们将如何显示。我导出带有 Alpha 的图形以覆盖 Premiere 中的视频，但我也随视频一起导出以比较导出的外观。  如果我在 Premiere 中启用了线性颜色合成，我不会获得与 After Effects 导出的匹配项。如果我禁用它，我会 获取与 After Effects 导出的匹配项。与 Premiere 相比，同样的原则也适用于从 Resolve 导出。  这显然意味着禁用线性颜色复合，但我看到了一些答案，暗示除 GFX 之外的其他东西可能会改变外观（我无法通过测试辨别任何东西）。那么，这里真正正确的做法是什么？  Mac Studio M1 Ultra，运行 Ventura 13.6.1 Premiere v24.1.0   由   提交 /u/mxmrtin   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1ahe4n1/premiere_i_am_once_again_asking_about_composite/</guid>
-      <pubDate>Fri, 02 Feb 2024 21:00:48 GMT</pubDate>
     </item>
     </channel>
 </rss>

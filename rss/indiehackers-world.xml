@@ -4,7 +4,32 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Sat, 03 Feb 2024 21:10:56 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Feb 2024 00:52:30 GMT</lastBuildDate>
+    <item>
+      <title>登陆页面反馈 - Onemon·io</title>
+      <link>https://feed.indiehackers.world/post/0ba2d03fa0</link>
+      <description><![CDATA[我刚刚运行了一个用于网站监控的在线工具，非常感谢您的反馈。
+Onemon.io 是一项全面的网页监控服务。我们与竞争对手的区别在于：
+
+除了标准测试之外，我们每 10 分钟就会在真实浏览器中检查一次网页。这意味着我们加载它们的所有组件并执行脚本，这在当今许多网站都基于 JS 框架的情况下很重要
+
+我们相信简单性，通过向我们提供 URL，我们将开始监控网页的各个方面，包括可用性、域名、证书和安全性
+
+
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/0ba2d03fa0</guid>
+      <pubDate>Sat, 03 Feb 2024 22:16:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找 Slack 审批工作流程应用程序的反馈</title>
+      <link>https://feed.indiehackers.world/post/dc990eebbe</link>
+      <description><![CDATA[过去一个月，我和我的朋友一直在构建 Slack 应用程序。它仍然是一个 MVP，但事实证明它在许多用户需要请求队友批准的工作空间中非常有用。
+如果您访问 https://www.berryapps.co 并单击“添加到 Slack”按钮，您可以安装 Approval Berry 来查看。我们很乐意听到有关该应用程序的反馈！
+一旦实施定价计划，任何提供可行反馈的人都不会被收取费用。预先感谢！
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/dc990eebbe</guid>
+      <pubDate>Sat, 03 Feb 2024 21:45:22 GMT</pubDate>
+    </item>
     <item>
       <title>为个体企业家推出免费的每周通讯</title>
       <link>https://feed.indiehackers.world/post/98ef93b125</link>
@@ -26,17 +51,6 @@ https://app.spendmonitor.co/这是你会尝试的东西
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/508bba03d5</guid>
       <pubDate>Sat, 03 Feb 2024 20:40:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果你要雇用一名超级员工，他们会取得什么成就？</title>
-      <link>https://feed.indiehackers.world/post/a092e4f0a3</link>
-      <description><![CDATA[嗨，独立黑客，
-如果你要雇用一名超级员工，他们会完成什么任务？
-您的回答将帮助我为我的时事通讯创建更多有用的内容。
-如果您除了回答之外还想分享您当前面临的具体问题，我将很乐意通过建议一些解决方案来提供帮助。
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/a092e4f0a3</guid>
-      <pubDate>Sat, 03 Feb 2024 20:21:19 GMT</pubDate>
     </item>
     <item>
       <title>轻松将设计转变为 Rails UI</title>
@@ -174,32 +188,6 @@ Discord 独立黑客聊天广告这里]]></description>
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/65875db3c6</guid>
       <pubDate>Sat, 03 Feb 2024 16:47:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>🚀 顶级人工智能工具可帮助您更快地取得成果</title>
-      <link>https://feed.indiehackers.world/post/78b627f44b</link>
-      <description><![CDATA[Crystal.ai 👉 https://crystals.ai/
-Engage.ai 👉 https://engage-ai.co/
-🔎𝐑𝐞𝐬𝐞𝐚𝐫𝐜𝐡：
-HARPA AI 👉 https://harpa.ai/
-困惑 👉 https://www.perplexity.ai/
-Glasp 👉 https://glasp.co/
-ChatPDF 👉 https://www.chatpdf.com/
-👨‍🎨𝐂𝐫𝐞𝐚𝐭𝐢𝐯𝐢𝐭𝐲：
-跑道 👉 https://runwayml.com/
-皮卡 👉 https://pika.art/
-中途 👉 https://www.imagine.art/
-稳定性人工智能 👉 https://stability.ai/
-📅𝐏𝐫𝐨𝐝𝐮𝐜𝐭𝐢𝐯𝐢𝐭𝐲：
-Taskade 👉 https://www.taskade.com/
-AudioPen 👉 https://audiopen.ai/
-概念 👉 https://notion.so/
-魔杖 👉 https://wand.ai/
-&lt;小时/&gt;
-你可以找到我(👉ﾟヮﾟ)👉 中 • Twitter • LinkedIn • 网站
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/78b627f44b</guid>
-      <pubDate>Sat, 03 Feb 2024 12:54:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
