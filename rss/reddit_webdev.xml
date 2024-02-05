@@ -4,7 +4,21 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 05 Feb 2024 06:15:39 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Feb 2024 09:12:20 GMT</lastBuildDate>
+    <item>
+      <title>如何构建浏览器</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ajccui/how_to_build_a_browser/</link>
+      <description><![CDATA[我想使用基于 Chromium 的浏览器构建一个 Saas（如果 OSS 许可可以实现的话），它具有默认的 chromium 开发工具，但是我的自定义功能位于顶部。  我怎样才能构建这样的东西？有人以前在浏览器上工作过吗？   由   提交 /u/haasilein   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ajccui/how_to_build_a_browser/</guid>
+      <pubDate>Mon, 05 Feb 2024 09:11:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>网络流；提交时使用 JavaScript</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ajc49b/webflow_javascript_on_submission/</link>
+      <description><![CDATA[大家好，Webflow提交后可以运行Javascript吗？如果是这样，那么如何？ 详细来说，我们需要将提交发送到我们的服务器，服务器将检查用户使用的电子邮件是否已经注册。如果它不&gt;我们允许他在另一张表格上注册。如果已注册，我们需要自定义错误状态，告诉他该电子邮件已注册。 有什么想法吗？谢谢！   由   提交/u/Early_Sun_8699   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ajc49b/webflow_javascript_on_submission/</guid>
+      <pubDate>Mon, 05 Feb 2024 08:53:58 GMT</pubDate>
+    </item>
     <item>
       <title>在本地使用开源人工智能模型</title>
       <link>https://www.reddit.com/r/webdev/comments/1aj9md3/using_opensource_ai_models_locally/</link>
@@ -15,7 +29,7 @@
     <item>
       <title>我想创建一个后端由 2 个微服务组成的 Web 应用程序，我的托管选项有哪些？</title>
       <link>https://www.reddit.com/r/webdev/comments/1aj9fst/i_want_to_create_a_web_app_with_a_backend_that/</link>
-      <description><![CDATA[我想创建一个后端包含 2 个微服务的 Web 应用，我的托管选项有哪些？ 我&#39;我是一名学生，这纯粹是出于教育原因。实际上，将其作为一个整体更有意义，但我真的想要一个使用微服务的借口，并在 Golang 中使用 gRPC 构建一个微服务。我想我不需要托管它，我可以在本地完成所有操作，但我认为这会很好。 理想情况下，我真的希望它位于服务的免费层中。我知道 Heroku 免费套餐的一些替代方案包括 Render、Railway 和 Fly.io。我从未使用过其中任何一个，也不太了解它们，但据我了解，这些服务的免费套餐主要用于托管整体后端。   由   提交 /u/tempaccount00101   [链接] [评论]]]></description>
+      <description><![CDATA[我想创建一个后端包含 2 个微服务的 Web 应用，我的托管选项有哪些？ 我&#39;我是一名学生，这纯粹是出于教育原因。实际上，将其作为一个整体更有意义，但我真的想要一个使用微服务并在 Golang 中使用 gRPC 构建微服务的借口。我想我不需要托管它，我可以在本地完成所有操作，但我认为这会很好。 理想情况下，我真的希望它位于服务的免费层中。我知道 Heroku 免费套餐的一些替代方案包括 Render、Railway 和 Fly.io。我从未使用过其中任何一个，也不太了解它们，但据我了解，这些服务的免费套餐主要用于托管整体后端。   由   提交 /u/tempaccount00101   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1aj9fst/i_want_to_create_a_web_app_with_a_backend_that/</guid>
       <pubDate>Mon, 05 Feb 2024 05:54:53 GMT</pubDate>
     </item>
@@ -64,14 +78,14 @@
     <item>
       <title>尽量避免Web开发学习路上的孤独！</title>
       <link>https://www.reddit.com/r/webdev/comments/1aj5mjz/trying_to_avoid_the_loneliess_in_the_web/</link>
-      <description><![CDATA[您好！我最近开始了作为一名网络开发学生的旅程。我正在自学，虽然我前段时间对Python有过短暂的体验。我知道这有多孤独，所以我写这篇文章是因为我确信我可能不是唯一正在经历这种情况的人。如果您刚刚开始学习或处于与我相同的学习位置，让我们发短信吧！我愿意讨论这个过程，也许还可以找到一个代码伙伴来完成它！ :) 如果您对 e bdevelopment 的初学者可以交谈的地方有任何建议，也请告诉我！    由   提交/u/Henrik-15  /u/Henrik-15 reddit.com/r/webdev/comments/1aj5mjz/trying_to_avoid_the_loneliess_in_the_web/&quot;&gt;[链接] [评论]]]></description>
+      <description><![CDATA[您好！我最近开始了作为一名网络开发学生的旅程。我正在自学，尽管我前段时间对Python有过短暂的体验。我知道这有多孤独，所以我写这篇文章是因为我确信我可能不是唯一正在经历这种情况的人。如果您刚刚开始学习或处于与我相同的学习位置，让我们发短信吧！我愿意就这个过程进行讨论，也许还可以找到一个代码伙伴来完成它！ :) 如果您对 e bdevelopment 的初学者可以交谈的地方有任何建议，也请告诉我！    由   提交/u/Henrik-15  /u/Henrik-15 reddit.com/r/webdev/comments/1aj5mjz/trying_to_avoid_the_loneliess_in_the_web/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1aj5mjz/trying_to_avoid_the_loneliess_in_the_web/</guid>
       <pubDate>Mon, 05 Feb 2024 02:26:27 GMT</pubDate>
     </item>
     <item>
       <title>构建 RESTful API 端点的最佳方式（两个角色，相同的端点）</title>
       <link>https://www.reddit.com/r/webdev/comments/1aj4246/best_way_to_structure_restful_api_endpoints_two/</link>
-      <description><![CDATA[我正在寻找有关构造端点的最佳方法的意见，以便多个用户角色可以使用同一端点。 假设我们有customer和admin两个用户角色，我读到不建议在端点中使用角色类型，例如：/api /customers/orders/ 和 /api/admin/orders/ 如果我有端点 PUT: /api/orders/{ORDER\_ID }/photo-proof，我知道我应该采用用户经过身份验证的角色，并根据用户拥有的角色执行业务逻辑。 管理员可以更新照片证明图像，而客户可以批准或拒绝照片证明。 我的问题是“什么”的用例如果管理员也是有订单的客户呢？”如果管理员以管理员身份访问上述端点，则一切正常。但是，如果管理员从客户 UI 访问该端点，并且该端点正在以用户的角色来确定应运行哪个业务逻辑，那么它将运行不正确的业务逻辑，因为管理员现在是客户并且想要批准或否认他们自己的照片证据。 希望这是一个有意义的问题。任何指导将不胜感激！   由   提交/u/keithj0nes  [链接] [评论]]]></description>
+      <description><![CDATA[我正在寻找有关构造端点的最佳方法的意见，以便多个用户角色可以使用同一端点。 假设我们有customer和admin两个用户角色，我读到不建议在端点中使用角色类型，例如：/api /customers/orders/ 和 /api/admin/orders/ 如果我有端点 PUT: /api/orders/{ORDER\_ID }/photo-proof，我知道我应该采用用户经过身份验证的角色，并根据用户拥有的角色执行业务逻辑。 管理员可以更新照片证明图像，而客户可以批准或拒绝照片证明。 我的问题是“什么”的用例如果管理员也是有订单的客户呢？”如果管理员以管理员身份访问上述端点，则一切正常。但是，如果管理员从客户 UI 访问该端点，并且该端点正在以用户的角色来确定应该运行哪个业务逻辑，那么它将运行不正确的业务逻辑，因为管理员现在是客户并且想要批准或否认他们自己的照片证据。 希望这是一个有意义的问题。任何指导将不胜感激！   由   提交/u/keithj0nes  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1aj4246/best_way_to_structure_restful_api_endpoints_two/</guid>
       <pubDate>Mon, 05 Feb 2024 01:08:09 GMT</pubDate>
     </item>
@@ -85,7 +99,7 @@
     <item>
       <title>客户想要一个人们可以预订他的公寓的网站（与他的 booking.com 和爱彼迎日历同步），有人知道这方面的第 3 方解决方案吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1aj25ab/client_wants_a_website_where_people_can_book_his/</link>
-      <description><![CDATA[他想要在他的网站上有一个简单的日期选择器，但这样人们就可以选择日期并支付天数，我确实有能力制作一个当然有这样的系统，但是如果存在这样的第三方服务，客户可以登录仪表板，给客户退款，管理日期等，这会节省我很多时间，有谁知道这样的提供商服务是开发人员对其 api 友好吗？  非常感谢   由   提交 /u/_davidcodes   [链接] [评论]]]></description>
+      <description><![CDATA[他想要在他的网站上有一个简单的日期选择器，但这样人们就可以选择日期并支付天数，我确实有能力制作一个当然有这样的系统，但是如果存在这样的第三方服务，客户可以登录到仪表板，给客户退款，管理日期等，这会节省我很多时间，有谁知道这样的提供商服务是开发人员对其 api 友好吗？  非常感谢   由   提交 /u/_davidcodes   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1aj25ab/client_wants_a_website_where_people_can_book_his/</guid>
       <pubDate>Sun, 04 Feb 2024 23:40:08 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[我设法为本地数据库设置了 SQL 转储文件。但是当我尝试运行 npm start 来测试它时，我不断收到错误 -111 和 -104。我不确定，但我认为它一直在崩溃。我尝试编辑 cnf 文件，确保凭据匹配，检查防火墙。但没有任何效果。做什么？   由   提交/u/Eternal2401   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1aj1c7t/how_to_set_up_a_local_test_environment_for_a_node/</guid>
       <pubDate>Sun, 04 Feb 2024 23:03:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 OWASP 的 Coraza 和核心规则集强化 Apache APISIX</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aj10iq/hardening_apache_apisix_with_the_owasps_coraza/</link>
-      <description><![CDATA[ 由   提交/u/nfrankel  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aj10iq/hardening_apache_apisix_with_the_owasps_coraza/</guid>
-      <pubDate>Sun, 04 Feb 2024 22:49:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>生成代码从来都不是困难的部分 - Nick Scialli |高级软件工程师</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aj09sl/generating_code_was_never_the_hard_part_nick/</link>
-      <description><![CDATA[ 由   提交/u/JeffTS   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aj09sl/generating_code_was_never_the_hard_part_nick/</guid>
-      <pubDate>Sun, 04 Feb 2024 22:18:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
