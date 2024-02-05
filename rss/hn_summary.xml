@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Mon, 05 Feb 2024 15:06:26 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Feb 2024 18:11:45 GMT</lastBuildDate>
     <item>
-      <title>在对编程先驱 Marianne Ernerfeldt 的采访中，她讨论了她的旅程 [...]</title>
-      <link>https://t.me/hn_summary/72816</link>
-      <description><![CDATA[1969 年的编程，作者：Emilk
-在对编程先驱 Marianne Ernerfeldt 的采访中，她讨论了自己 1969 年进入该领域的历程。Marianne 解释说，她在看到一篇文章中的流程图后决定成为一名程序员，并参加了为期 6 个月的课程。她申请了瑞典国家铁路公司 SJ 的实习生计划，并被录取。 Marianne 描述了培训过程，其中包括学习 IBM 操作系统和 PL/I（IBM 的编程语言）。她还讨论了使用打孔卡进行编程的过程以及他们面临的挑战。 Marianne 重点介绍了 SJ 开发的先进在线预订系统以及工作场所的性别动态。]]></description>
-      <guid>https://t.me/hn_summary/72816</guid>
-      <pubDate>Mon, 05 Feb 2024 15:06:26 GMT</pubDate>
+      <title>苹果高端 Vision Pro 耳机的发布引起了轰动，但一位用户的视频演示 [...]</title>
+      <link>https://t.me/hn_summary/72865</link>
+      <description><![CDATA[特斯拉司机在高速公路上佩戴新的 Apple Vision 耳机后靠边停车
+苹果高端Vision Pro耳机的发布引起了轰动，但一名用户的视频演示让他陷入了警方的麻烦。这位名叫 Dante 的用户在 X（以前称为 Twitter）上分享了一段视频，视频中他驾驶特斯拉，Apple Vision Pro 遮住了他的眼睛。视频显示但丁在双手离开方向盘时与虚拟屏幕进行交互。视频随后突然切换到但丁被警察拦下的画面。苹果的安全指南明确禁止在驾驶行驶的车辆时使用耳机。 Vision Pro 耳机售价 3,500 美元，预购已售罄，预留 20 万台。]]></description>
+      <guid>https://t.me/hn_summary/72865</guid>
+      <pubDate>Mon, 05 Feb 2024 18:11:45 GMT</pubDate>
     </item>
     <item>
-      <title>本文讨论了涉及另类社交媒体平台 Spoutible 的数据泄露事件。</title>
-      <link>https://t.me/hn_summary/72815</link>
-      <description><![CDATA[Spoutible 泄露的 API 泄​​露了大量个人数据 
-本文讨论了涉及另类社交媒体平台 Spoutible 的数据泄露事件。此次泄露的原因是 API 泄​​露，该 API 允许用户访问其他用户的个人数据，包括用户名、姓名、电子邮件地址、IP 地址、电话号码，甚至 bcrypt 哈希密码。该文章强调了围绕 API 检索散列密码的能力以及缺乏适当的安全措施（例如弱密码规则和密码重置令牌的暴露）的争议。作者还提到了发现易受攻击的 API 的容易程度以及其他平台访问令牌的潜在暴露风险。 Spoutible 在收到通知后迅速做出响应以解决该问题。 （根据 89% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/72815</guid>
-      <pubDate>Mon, 05 Feb 2024 15:00:16 GMT</pubDate>
+      <title>[媒体]这篇文章讨论了人们普遍认为手机正在监听我们的谈话[...]</title>
+      <link>https://t.me/hn_summary/72864</link>
+      <description><![CDATA[手机不会监视您并向您展示广告（情况更糟）比那）
+本文讨论了人们普遍认为手机正在监听我们的对话并使用该信息来显示有针对性的广告。然而，作者解释说，手机实际上并没有以这种方式窃听我们。相反，他们会不断监听特定的唤醒词，例如“Siri”或“Alexa”，这会触发设备的数字助理。作者接着解释说，我们的手机和其他设备正在收集有关我们的大量数据，包括位置信息、搜索历史记录、浏览历史记录、购买历史记录和物理交互。然后，这些数据将用于有针对性的广告，但不会与我们的个人身份相关联。文章还提到了在浏览互联网时使用 VPN 来保护隐私。作者最后讨论了生成人工智能定向广告的未来以及隐私控制和保护我们数据的工具的重要性。]]></description>
+      <guid>https://t.me/hn_summary/72864</guid>
+      <pubDate>Mon, 05 Feb 2024 18:07:37 GMT</pubDate>
     </item>
     <item>
-      <title>以及它如何彻底改变我们通过互联网交流的方式。</title>
-      <link>https://t.me/hn_summary/72814</link>
-      <description><![CDATA[QUIC时代的RPC框架
-以及它如何彻底改变我们通过互联网交流的方式。本文重点介绍QUIC时代的RPC（Remote procedure Call）框架。 RPC允许不同进程或系统之间的无缝通信，使得开发分布式应用程序变得更加容易。借助 QUIC，RPC 变得更加强大，因为它利用了协议的速度和效率。本文讨论了将 RPC 与 QUIC 结合使用的好处，包括提高性能、减少延迟和增强安全性。它还强调了在 QUIC 上实施 RPC 时的一些挑战和注意事项。总体而言，本文为通信协议的未来以及 QUIC 时代 RPC 的潜力提供了宝贵的见解。]]></description>
-      <guid>https://t.me/hn_summary/72814</guid>
-      <pubDate>Mon, 05 Feb 2024 14:57:07 GMT</pubDate>
+      <title>问 HN：您通过法学硕士建立了什么？</title>
+      <link>https://t.me/hn_summary/72863</link>
+      <description><![CDATA[询问 HN：您使用 LLM 构建了什么？ 
+news.ycombinator.com 上这篇文章的作者是询问社区他们使用 LLM（语言模型）构建了什么。作者分享了他们自己的经验，包括开发一个 chrome 扩展，通过阅读文字记录来跳过 YouTube 视频中的赞助部分。他们还提到尝试用法学硕士来解释跨语言的函数调用链，并运行预先编程的电报机器人来帮助完成税收等任务。然后作者询问其他用户他们正在构建什么，并询问他们的堆栈和部署方法。]]></description>
+      <guid>https://t.me/hn_summary/72863</guid>
+      <pubDate>Mon, 05 Feb 2024 18:03:26 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 远程访问软件提供商 AnyDesk 经历了一次网络攻击，导致黑客 [...]</title>
-      <link>https://t.me/hn_summary/72813</link>
-      <description><![CDATA[远程访问巨头 AnyDesk 在遭到黑客攻击后重置密码并吊销证书
-远程访问软件提供商 AnyDesk 经历了一次网络攻击，黑客可以访问该公司的生产系统，导致该公司被封锁一周。 AnyDesk 的软件被 IT 专业人员广泛用于远程连接，但它在威胁行为者和勒索软件团伙中也很受欢迎。该公司在交换代码签名证书后确认了此次违规行为，并采取了重置密码和吊销证书的措施。 AnyDesk 表示，该事件与勒索软件无关，但没有透露有关网络攻击的更多细节。安全研究人员发现了黑客在网络犯罪论坛上出售 AnyDesk 帐户访问权限的证据。]]></description>
-      <guid>https://t.me/hn_summary/72813</guid>
-      <pubDate>Mon, 05 Feb 2024 14:55:58 GMT</pubDate>
+      <title>[媒体] Bootstrap 还是 VC？</title>
+      <link>https://t.me/hn_summary/72862</link>
+      <description><![CDATA[Bootstrap 还是 VC？
+在本文中，道尔顿·考德威尔 (Dalton Caldwell) 讨论了创始人在创办公司时面临的常见困境 - 是自力更生还是从风险投资家 (VC) 那里寻求资金。他强调，虽然大多数企业没有筹集风险投资资金，但对于某些企业来说，这仍然是一个不错的选择。考德威尔认为这场辩论往往过于复杂，并旨在在《道尔顿与迈克尔》的这一集中将其简化。]]></description>
+      <guid>https://t.me/hn_summary/72862</guid>
+      <pubDate>Mon, 05 Feb 2024 18:02:19 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] NaturalSQL-7B 项目是 ChatDB 开发的开源文本转 SQL 模型。</title>
-      <link>https://t.me/hn_summary/72812</link>
-      <description><![CDATA[Show HN：Natural-SQL-7B，强大的开源文本到SQL模型
-NaturalSQL-7B 项目是 ChatDB 开发的开源文本到 SQL 模型。它旨在准确地将自然语言查询转换为 SQL 查询。该项目拥有最先进的性能，并已在 SQL-Eval 上进行了基准测试。提供的示例演示了模型如何确定上个月订单总价值最大的客户并列出他们订购的所有产品和数量。该项目因在子查询、比率和复杂问题方面表现良好而与众不同。同时也感谢 Defog 对 SQL-Eval 框架的贡献。]]></description>
-      <guid>https://t.me/hn_summary/72812</guid>
-      <pubDate>Mon, 05 Feb 2024 14:39:44 GMT</pubDate>
+      <title>[媒体] 不幸的是，尝试访问 bounty.zone 时发生意外错误。</title>
+      <link>https://t.me/hn_summary/72861</link>
+      <description><![CDATA[展示 HN：向用户询问和奖励的平台&lt; br/&gt;
+不幸的是，尝试访问 bounty.zone 时发生意外错误。请重新加载页面并重试。]]></description>
+      <guid>https://t.me/hn_summary/72861</guid>
+      <pubDate>Mon, 05 Feb 2024 17:58:12 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]托卡马克是 Zig 编程语言的服务器端框架，专注于 de [...]</title>
-      <link>https://t.me/hn_summary/72811</link>
-      <description><![CDATA[展示 HN：托卡马克 – 以依赖注入为中心的服务器端框架对于 Zig
-Tokamak 是 Zig 编程语言的服务器端框架，专注于依赖注入。它允许开发人员通过提供一种简单的方法来处理请求并将依赖项注入处理函数来轻松创建服务器应用程序。该框架包括一个用于处理不同路由的内置路由器，并支持基本路径参数和通配符。它还提供对错误处理、提供静态文件和自定义 MIME 类型的支持。作者提到，托卡马克已经应用于现实世界的项目中，而不仅仅是一个玩具。该项目与其他项目的不同之处在于它强调依赖注入以及处理服务器端任务的简单性。]]></description>
-      <guid>https://t.me/hn_summary/72811</guid>
-      <pubDate>Mon, 05 Feb 2024 14:28:33 GMT</pubDate>
+      <title>[媒体]Google 已向 Rust 基金会捐款 100 万美元，以支持 Intero [...]</title>
+      <link>https://t.me/hn_summary/72860</link>
+      <description><![CDATA[Google 向 Rust 基金会捐赠 100 万美元，支持 C++/Rust 互操作计划
+Google 已向 Rust 基金会捐款 100 万美元，以支持 Interop Initiative，该倡议旨在提高 Rust 和 C++ 编程语言之间的互操作性。 Rust 基金会认识到，虽然 Rust 为更安全、更有保障的技术未来提供了优势，但拥有大量现有 C++ 代码的组织可能会发现用 Rust 重写所有内容是不切实际的。在 Google 的支持下，互操作计划将致力于 C++ 和 Rust 代码之间的无缝互操作性，使组织更容易采用 Rust，而无需完全放弃现有的代码库。 Rust 基金会将起草一份工作范围提案，并与利益相关者合作制定该计划。]]></description>
+      <guid>https://t.me/hn_summary/72860</guid>
+      <pubDate>Mon, 05 Feb 2024 17:52:02 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]文章讨论了Incus项目的进展，该项目是LXD项目的一个分支。</title>
-      <link>https://t.me/hn_summary/72810</link>
-      <description><![CDATA[LXD Fork Incus 正在研究 Bcachefs 存储驱动程序和即将发布的 LTS
-文章讨论了 Incus 项目的进展，该项目是 LXD 项目的一个分支。 Incus 因 Canonical 对 LXD 做出的有争议的改变而引起关注，包括限制 Canonical 员工的维护权和许可变更。现在在 Incus 工作的前 Canonical 员工 Stephane Graber 在 FOSDEM 2024 上发表了演讲，并讨论了 Incus 的初步工作和未来计划。这些计划包括完成更多Linux发行版的打包工作，在3月至4月发布长期支持（LTS）版本，以及开发Bcachefs存储驱动程序和跨集群网络等新功能。本文提供了了解有关 Incus 项目的更多信息的链接。]]></description>
-      <guid>https://t.me/hn_summary/72810</guid>
-      <pubDate>Mon, 05 Feb 2024 14:28:27 GMT</pubDate>
+      <title>[媒体]Google 宣布向 Rust 基金会拨款 100 万美元，以改善互操作性 [...]</title>
+      <link>https://t.me/hn_summary/72859</link>
+      <description><![CDATA[提高 Rust 和 C++ 之间的互操作性
+谷歌宣布向 Rust 基金会捐赠 100 万美元，以改善 Rust 和现有 C++ 代码库之间的互操作性。这项投资旨在扩大 Rust 在 Android 平台各个组件中的采用，并加速更广泛的社区采用。谷歌一直在 Android 和其他产品中使用 Rust，事实证明该语言可以有效防止漏洞。该公司致力于改进 Rust 代码的安全审查及其与 C++ 的互操作性。 Google 还将发布对开源项目中使用的 Rust 箱的审核，并与 Rust 项目合作，解决使用 C++ 的项目中采用 Rust 的挑战。]]></description>
+      <guid>https://t.me/hn_summary/72859</guid>
+      <pubDate>Mon, 05 Feb 2024 17:51:57 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 印度两家领先的科技公司 Paytm 和 Byju's 正面临重大挑战。</title>
-      <link>https://t.me/hn_summary/72809</link>
-      <description><![CDATA[印度两家最著名的初创科技巨头深陷困境
-印度两家领先的科技公司 Paytm 和 Byju&#39;s 正面临着重大挑战。 Paytm 是一种流行的支付服务，由于违规和监管问题而受到印度储备银行的处罚​​。这些处罚导致 Paytm 股价下跌，并引发有关洗钱指控的猜测。不过，Paytm 否认了这些说法。在线辅导服务 Byju&#39;s 也陷入了困境，它在美国申请破产，并在印度面临破产案件。尽管遇到这些挫折，印度政界人士仍继续支持初创企业，认为它们对国家科技产业的发展至关重要。]]></description>
-      <guid>https://t.me/hn_summary/72809</guid>
-      <pubDate>Mon, 05 Feb 2024 14:24:17 GMT</pubDate>
+      <title>Atopile 是一个允许用户使用代码设计电路板的工具。</title>
+      <link>https://t.me/hn_summary/72858</link>
+      <description><![CDATA[显示 HN：Atopile – 使用代码设计电路板 
+Atopile 是一个允许用户使用代码设计电路板的工具。 Atopile 的创始人认识到设计硬件时缺乏描述和重用现有设计的好方法的痛苦。他们创建了 Atopile 作为开源语言和工具链来解决这个问题。有效抽象电子器件的能力依赖于使用语言来描述需求，Atopile 的“ato”语言允许用户将电路分解为模块、组件和接口。编译器生成一个描述电路连接并选择组件的网表。 Atopile 目前旨在设计低到中等复杂度的印刷电路板 (PCB)，但创始人计划提高其生产使用的能力。 Atopile 的核心是开源的，通过销售面向企业的功能产生收入。]]></description>
+      <guid>https://t.me/hn_summary/72858</guid>
+      <pubDate>Mon, 05 Feb 2024 17:35:46 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 本文提供了有关如何使用 MAME 更有效地进行调试的提示和指南。</title>
-      <link>https://t.me/hn_summary/72808</link>
-      <description><![CDATA[MAME 调试
-本文提供了有关如何使用 MAME 更有效地进行调试的提示和指南。作者分享了他们为 Neo Geo 游戏 Puzzle Bobble 进行 ROM 破解的经验，以及 MAME 调试器和 Lua 脚本对于弄清楚游戏如何工作是不可或缺的。他们解释了如何访问和使用调试器、反汇编窗口、内存窗口和作弊调试器。作者还介绍了观察点以及当发生特定内存更改时如何使用观察点闯入调试器。总的来说，本文提供了使用 MAME 进行调试的有用见解和技术。 （根据故事文本的 52% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/72808</guid>
-      <pubDate>Mon, 05 Feb 2024 14:13:07 GMT</pubDate>
+      <title>[媒体]经济分析局最新发布的数据显示，底层 80% [...]</title>
+      <link>https://t.me/hn_summary/72857</link>
+      <description><![CDATA[80% 的美国家庭持续储蓄不足，支出超过收入&lt; /a&gt;
+美国经济分析局最新发布的数据显示，收入最低的 80% 的美国家庭支出始终高于收入，而只有收入最高的 20% 的家庭持续储蓄。在《个人收入分配账户》（DPIA）发布之前，这一现实是不可见的，该账户按收入十分位数提供了个人收入和个人税收的细目。数据显示，由于持有资产收益和借贷，家庭能够在几十年内维持支出赤字。虽然借贷确实发挥了作用，但主要是持有收益为底层 80% 的人长期储蓄提供“资金”。完整的数据和分析将在即将发表的论文中提供。]]></description>
+      <guid>https://t.me/hn_summary/72857</guid>
+      <pubDate>Mon, 05 Feb 2024 17:30:07 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]瑞士私人银行瑞士宝盛 (Julius Baer) 宣布大规模减记 7900 万美元 [...]</title>
-      <link>https://t.me/hn_summary/72807</link>
-      <description><![CDATA[瑞士宝盛资产减记是瑞士银行业的又一打击&lt; br /&gt;
-瑞士私人银行瑞士宝盛银行 (Julius Baer) 宣布，由于单个客户的损失，巨额减记 7,900 万美元。对于近年来饱受丑闻和争议困扰的瑞士银行业来说，这是又一起尴尬事件。此次减记凸显了私人银行领域涉及的风险，客户的金融活动可能对银行的利润产生重大影响。这一事件提醒我们，即使像瑞士宝盛这样的老牌银行也难免受财务挫折的影响，在与高风险客户打交道时应谨慎行事。]]></description>
-      <guid>https://t.me/hn_summary/72807</guid>
-      <pubDate>Mon, 05 Feb 2024 13:47:50 GMT</pubDate>
+      <title>[媒体]文章讨论了使用沥青铺路的问题，并提出了替代方案[...]</title>
+      <link>https://t.me/hn_summary/72856</link>
+      <description><![CDATA[通往地狱的路是用沥青铺成的
+本文讨论了使用沥青铺路的问题，并提出了替代方案，例如砖、鹅卵石和摊铺机。它强调了沥青的几个问题，包括随着时间的推移而退化、维护成本高昂、修复困难、吸热、寒冷天气开裂、外观不美观、有害排放和排水不良。作者认为沥青被过度使用，并建议开发商和城市官员在选择道路材料时优先考虑长期耐用性和成本效益。文章还提到了模块化材料的设计权衡以及规划道路项目时需要考虑成本以外的因素。]]></description>
+      <guid>https://t.me/hn_summary/72856</guid>
+      <pubDate>Mon, 05 Feb 2024 17:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
