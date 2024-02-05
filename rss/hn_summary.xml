@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Mon, 05 Feb 2024 18:11:45 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Feb 2024 21:07:51 GMT</lastBuildDate>
     <item>
-      <title>苹果高端 Vision Pro 耳机的发布引起了轰动，但一位用户的视频演示 [...]</title>
-      <link>https://t.me/hn_summary/72865</link>
-      <description><![CDATA[特斯拉司机在高速公路上佩戴新的 Apple Vision 耳机后靠边停车
-苹果高端Vision Pro耳机的发布引起了轰动，但一名用户的视频演示让他陷入了警方的麻烦。这位名叫 Dante 的用户在 X（以前称为 Twitter）上分享了一段视频，视频中他驾驶特斯拉，Apple Vision Pro 遮住了他的眼睛。视频显示但丁在双手离开方向盘时与虚拟屏幕进行交互。视频随后突然切换到但丁被警察拦下的画面。苹果的安全指南明确禁止在驾驶行驶的车辆时使用耳机。 Vision Pro 耳机售价 3,500 美元，预购已售罄，预留 20 万台。]]></description>
-      <guid>https://t.me/hn_summary/72865</guid>
-      <pubDate>Mon, 05 Feb 2024 18:11:45 GMT</pubDate>
+      <title>[媒体]本文讨论了 Bleeding Edge 的垮台，这是一家曾经前途无量的科技公司，但现在 [...]</title>
+      <link>https://t.me/hn_summary/72886</link>
+      <description><![CDATA[血淋淋的边缘，在十年的丑闻和半途而废之后现在只是流血产品
+本文讨论了 Bleeding Edge 的垮台，这家曾经很有前途的科技公司在过去十年中一直受到丑闻和劣质产品的困扰。作者强调了围绕该公司的争议，表明可能存在一些可疑的做法或道德问题。这个标题巧妙地利用了公司的名称，强调了与之相关的负面含义。总体而言，这篇文章描绘了一家未能达到最初宣传的公司的形象，并已成为科技行业失望的象征。]]></description>
+      <guid>https://t.me/hn_summary/72886</guid>
+      <pubDate>Mon, 05 Feb 2024 21:07:51 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]这篇文章讨论了人们普遍认为手机正在监听我们的谈话[...]</title>
-      <link>https://t.me/hn_summary/72864</link>
-      <description><![CDATA[手机不会监视您并向您展示广告（情况更糟）比那）
-本文讨论了人们普遍认为手机正在监听我们的对话并使用该信息来显示有针对性的广告。然而，作者解释说，手机实际上并没有以这种方式窃听我们。相反，他们会不断监听特定的唤醒词，例如“Siri”或“Alexa”，这会触发设备的数字助理。作者接着解释说，我们的手机和其他设备正在收集有关我们的大量数据，包括位置信息、搜索历史记录、浏览历史记录、购买历史记录和物理交互。然后，这些数据将用于有针对性的广告，但不会与我们的个人身份相关联。文章还提到了在浏览互联网时使用 VPN 来保护隐私。作者最后讨论了生成人工智能定向广告的未来以及隐私控制和保护我们数据的工具的重要性。]]></description>
-      <guid>https://t.me/hn_summary/72864</guid>
-      <pubDate>Mon, 05 Feb 2024 18:07:37 GMT</pubDate>
+      <title>[媒体] Meta 关闭其 Facebook Groups API 的决定引起了企业界的担忧 [...]</title>
+      <link>https://t.me/hn_summary/72885</link>
+      <description><![CDATA[Meta 切断第三方对 Facebook 群组的访问 
+Meta 关闭其 Facebook Groups API 的决定引起了企业和社交媒体营销人员的担忧。该 API 允许开发者和企业安排在 Facebook 群组上发帖的时间，该 API 将在 90 天内被删除。虽然 Meta 声称新的 v19.0 API 将解决 Facebook 群组中私人回复的需求，但开发人员认为，关闭将影响提供社交媒体帖子安排和自动化解决方案的公司。一些企业，例如 PostMyParty，担心关闭会让他们彻底破产。 Meta 决定背后的动机尚不清楚，这让开发者感到沮丧并对未来感到不确定。]]></description>
+      <guid>https://t.me/hn_summary/72885</guid>
+      <pubDate>Mon, 05 Feb 2024 21:05:44 GMT</pubDate>
     </item>
     <item>
-      <title>问 HN：您通过法学硕士建立了什么？</title>
-      <link>https://t.me/hn_summary/72863</link>
-      <description><![CDATA[询问 HN：您使用 LLM 构建了什么？ 
-news.ycombinator.com 上这篇文章的作者是询问社区他们使用 LLM（语言模型）构建了什么。作者分享了他们自己的经验，包括开发一个 chrome 扩展，通过阅读文字记录来跳过 YouTube 视频中的赞助部分。他们还提到尝试用法学硕士来解释跨语言的函数调用链，并运行预先编程的电报机器人来帮助完成税收等任务。然后作者询问其他用户他们正在构建什么，并询问他们的堆栈和部署方法。]]></description>
-      <guid>https://t.me/hn_summary/72863</guid>
-      <pubDate>Mon, 05 Feb 2024 18:03:26 GMT</pubDate>
+      <title>[媒体] 连续创业者 Jonathan Rothberg 的最新测序初创公司 454.bio 推出了 [...]</title>
+      <link>https://t.me/hn_summary/72884</link>
+      <description><![CDATA[开源 DNA 测序仪计划公布
+连续创业者 Jonathan Rothberg 的最新测序初创公司 454.bio 已揭晓开源计划构建 DNA 测序仪原型。该公司的目标是打造一款零售价为 100 美元、测序运行价格为 20 美元的小型设备。 Rothberg 在 DNA 测序领域拥有成功的记录，曾创立过 454 和 Ion Torrent 等公司。 454.bio 的合成测序方法非常规并且与以前的方法不同。该公司还举办了一场竞赛，以提高聚合酶的识别能力，获胜解决方案将获得 20 万美元的奖金。 （根据故事文本的 60% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/72884</guid>
+      <pubDate>Mon, 05 Feb 2024 20:57:33 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Bootstrap 还是 VC？</title>
-      <link>https://t.me/hn_summary/72862</link>
-      <description><![CDATA[Bootstrap 还是 VC？
-在本文中，道尔顿·考德威尔 (Dalton Caldwell) 讨论了创始人在创办公司时面临的常见困境 - 是自力更生还是从风险投资家 (VC) 那里寻求资金。他强调，虽然大多数企业没有筹集风险投资资金，但对于某些企业来说，这仍然是一个不错的选择。考德威尔认为这场辩论往往过于复杂，并旨在在《道尔顿与迈克尔》的这一集中将其简化。]]></description>
-      <guid>https://t.me/hn_summary/72862</guid>
-      <pubDate>Mon, 05 Feb 2024 18:02:19 GMT</pubDate>
+      <title>阿斯伯格，如何获得资金？</title>
+      <link>https://t.me/hn_summary/72883</link>
+      <description><![CDATA[阿斯伯格，如何获得资助？
+这篇文章的作者讨论了他们患有阿斯伯格综合症的经历以及它如何影响他们的工作生活。他们提到，虽然有些人把他们视为天才，但他们却很难理解别人似乎自然知道的事情。他们在为他人工作时有过负面的经历，因为他们解决问题的方法常常被忽视或没有得到有效的执行。这导致了抑郁情绪和对社会的蔑视。作者提出了两个解决方案：更谨慎地选择雇主或自己创业。他们表达了与其他被解雇的有才华的人合作的愿望，但他们需要资金来实现这一目标。他们承认在寻求资金的过程中感到不知所措，并正在向有类似经历的其他人寻求建议和指导。作者居住在加拿大，正在开发一款他们认为填补市场空白的游戏。]]></description>
+      <guid>https://t.me/hn_summary/72883</guid>
+      <pubDate>Mon, 05 Feb 2024 20:55:24 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 不幸的是，尝试访问 bounty.zone 时发生意外错误。</title>
-      <link>https://t.me/hn_summary/72861</link>
-      <description><![CDATA[展示 HN：向用户询问和奖励的平台&lt; br/&gt;
-不幸的是，尝试访问 bounty.zone 时发生意外错误。请重新加载页面并重试。]]></description>
-      <guid>https://t.me/hn_summary/72861</guid>
-      <pubDate>Mon, 05 Feb 2024 17:58:12 GMT</pubDate>
+      <title>[媒体]这篇文章讨论了盖茨定律，该定律指出人们往往会高估 [...]</title>
+      <link>https://t.me/hn_summary/72882</link>
+      <description><![CDATA[盖茨定律：进步如何复合及其重要性（2018） 
+这篇文章讨论了盖茨定律，该定律指出，人们往往高估自己一年内能取得的成就，而低估自己十年内能取得的成就。这句话的出处尚不清楚，但通常被认为是斯坦福大学计算机科学家罗伊·阿马拉（Roy Amara）或比尔·盖茨（Bill Gates）提出的。本文还探讨了描述技术呈指数级增长的摩尔定律及其与阿马拉定律的关系。它讨论了技术成熟度曲线，解释了新技术的认知和采用的周期。该文章强调了将技术的真正价值与其公众认知分开的重要性。最后讨论了相邻可能性的概念，该概念解释了每项创新如何为进一步创新开辟新的可能性。 （根据故事文本的 52% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/72882</guid>
+      <pubDate>Mon, 05 Feb 2024 20:23:04 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Google 已向 Rust 基金会捐款 100 万美元，以支持 Intero [...]</title>
-      <link>https://t.me/hn_summary/72860</link>
-      <description><![CDATA[Google 向 Rust 基金会捐赠 100 万美元，支持 C++/Rust 互操作计划
-Google 已向 Rust 基金会捐款 100 万美元，以支持 Interop Initiative，该倡议旨在提高 Rust 和 C++ 编程语言之间的互操作性。 Rust 基金会认识到，虽然 Rust 为更安全、更有保障的技术未来提供了优势，但拥有大量现有 C++ 代码的组织可能会发现用 Rust 重写所有内容是不切实际的。在 Google 的支持下，互操作计划将致力于 C++ 和 Rust 代码之间的无缝互操作性，使组织更容易采用 Rust，而无需完全放弃现有的代码库。 Rust 基金会将起草一份工作范围提案，并与利益相关者合作制定该计划。]]></description>
-      <guid>https://t.me/hn_summary/72860</guid>
-      <pubDate>Mon, 05 Feb 2024 17:52:02 GMT</pubDate>
+      <title>[媒体]在持续的大流行中，科技行业正面临着又一次打击，[...]</title>
+      <link>https://t.me/hn_summary/72881</link>
+      <description><![CDATA[科技公司裁员继续扰乱行业，裁员 32,000 人 
+在疫情持续蔓延的情况下，科技行业正面临又一次打击，裁员继续困扰着该行业。根据最近的报道，裁员数量高达 32,000 人，这让许多员工对自己的未来感到不确定。这波裁员潮清楚地表明了科技公司面临的经济挑战，因为它们正在努力应对不确定的商业环境。这些裁员的影响不仅是受影响的员工感受到的，而且还引发了对行业整体健康状况的担忧。随着科技行业努力应对这些裁员，未来几个月将如何适应和复苏仍有待观察。]]></description>
+      <guid>https://t.me/hn_summary/72881</guid>
+      <pubDate>Mon, 05 Feb 2024 20:16:56 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Google 宣布向 Rust 基金会拨款 100 万美元，以改善互操作性 [...]</title>
-      <link>https://t.me/hn_summary/72859</link>
-      <description><![CDATA[提高 Rust 和 C++ 之间的互操作性
-谷歌宣布向 Rust 基金会捐赠 100 万美元，以改善 Rust 和现有 C++ 代码库之间的互操作性。这项投资旨在扩大 Rust 在 Android 平台各个组件中的采用，并加速更广泛的社区采用。谷歌一直在 Android 和其他产品中使用 Rust，事实证明该语言可以有效防止漏洞。该公司致力于改进 Rust 代码的安全审查及其与 C++ 的互操作性。 Google 还将发布对开源项目中使用的 Rust 箱的审核，并与 Rust 项目合作，解决使用 C++ 的项目中采用 Rust 的挑战。]]></description>
-      <guid>https://t.me/hn_summary/72859</guid>
-      <pubDate>Mon, 05 Feb 2024 17:51:57 GMT</pubDate>
+      <title>[媒体]在技术至上的世界中，马克扎克伯格，联合创始人兼首席执行官 [...]</title>
+      <link>https://t.me/hn_summary/72880</link>
+      <description><![CDATA[马克·扎克伯格生活在危险之中
+在一个科技至上的世界里，Facebook 联合创始人兼首席执行官马克·扎克伯格的生活充满了危险。这可能会让许多人感到惊讶，因为我们经常将危险与物理风险而不是数字领域联系起来。然而，扎克伯格在社交媒体巨头中的地位使他面临着无数的威胁，从网络攻击到隐私泄露。尽管存在这些风险，扎克伯格仍继续在互联网的危险水域中航行，不断适应和创新，以确保 Facebook 用户的安全。他在这片危险的环境中茁壮成长的能力证明了他的韧性和决心。]]></description>
+      <guid>https://t.me/hn_summary/72880</guid>
+      <pubDate>Mon, 05 Feb 2024 20:08:46 GMT</pubDate>
     </item>
     <item>
-      <title>Atopile 是一个允许用户使用代码设计电路板的工具。</title>
-      <link>https://t.me/hn_summary/72858</link>
-      <description><![CDATA[显示 HN：Atopile – 使用代码设计电路板 
-Atopile 是一个允许用户使用代码设计电路板的工具。 Atopile 的创始人认识到设计硬件时缺乏描述和重用现有设计的好方法的痛苦。他们创建了 Atopile 作为开源语言和工具链来解决这个问题。有效抽象电子器件的能力依赖于使用语言来描述需求，Atopile 的“ato”语言允许用户将电路分解为模块、组件和接口。编译器生成一个描述电路连接并选择组件的网表。 Atopile 目前旨在设计低到中等复杂度的印刷电路板 (PCB)，但创始人计划提高其生产使用的能力。 Atopile 的核心是开源的，通过销售面向企业的功能产生收入。]]></description>
-      <guid>https://t.me/hn_summary/72858</guid>
-      <pubDate>Mon, 05 Feb 2024 17:35:46 GMT</pubDate>
+      <title>[媒体]本文讨论了解释软件开发的挑战以及[...]</title>
+      <link>https://t.me/hn_summary/72879</link>
+      <description><![CDATA[如何使用糟糕的隐喻来解释软件开发&lt; br/&gt;
+本文讨论了解释软件开发的挑战以及非技术经理和技术中层管理人员之间有效沟通的重要性。它强调使用隐喻作为弥合差距和促进理解的工具。作者提供了在这些对话中可以使用的不良隐喻的示例，例如“冲刺结束时灵感最强烈”或“这些手套有助于保持我的机械键盘清洁”。文章还提到付费订阅者可以访问有关该主题的其他评论和有用资源。]]></description>
+      <guid>https://t.me/hn_summary/72879</guid>
+      <pubDate>Mon, 05 Feb 2024 20:07:40 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]经济分析局最新发布的数据显示，底层 80% [...]</title>
-      <link>https://t.me/hn_summary/72857</link>
-      <description><![CDATA[80% 的美国家庭持续储蓄不足，支出超过收入&lt; /a&gt;
-美国经济分析局最新发布的数据显示，收入最低的 80% 的美国家庭支出始终高于收入，而只有收入最高的 20% 的家庭持续储蓄。在《个人收入分配账户》（DPIA）发布之前，这一现实是不可见的，该账户按收入十分位数提供了个人收入和个人税收的细目。数据显示，由于持有资产收益和借贷，家庭能够在几十年内维持支出赤字。虽然借贷确实发挥了作用，但主要是持有收益为底层 80% 的人长期储蓄提供“资金”。完整的数据和分析将在即将发表的论文中提供。]]></description>
-      <guid>https://t.me/hn_summary/72857</guid>
-      <pubDate>Mon, 05 Feb 2024 17:30:07 GMT</pubDate>
+      <title>[媒体] HTTP Garden 是 HTTP 服务器和代理的集合，它们被配置为 [...]</title>
+      <link>https://t.me/hn_summary/72878</link>
+      <description><![CDATA[展示 HN：HTTP Garden – 解析器漏洞研究工具
+HTTP Garden 是配置为可组合的 HTTP 服务器和代理的集合，以及与它们交互以进行漏洞研究的脚本。该项目的目的是更容易地发现 HTTP 服务器和代理中的漏洞。它提供了一个用于测试和分析这些服务器和代理的不同配置和行为的平台。作者提到该项目与其他项目不同，因为它提供了广泛的目标，包括服务器和代理，并提供了在 REPL（读取-评估-打印循环）环境中与它们交互的脚本。 （根据故事文本的 14% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/72878</guid>
+      <pubDate>Mon, 05 Feb 2024 19:50:24 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]文章讨论了使用沥青铺路的问题，并提出了替代方案[...]</title>
-      <link>https://t.me/hn_summary/72856</link>
-      <description><![CDATA[通往地狱的路是用沥青铺成的
-本文讨论了使用沥青铺路的问题，并提出了替代方案，例如砖、鹅卵石和摊铺机。它强调了沥青的几个问题，包括随着时间的推移而退化、维护成本高昂、修复困难、吸热、寒冷天气开裂、外观不美观、有害排放和排水不良。作者认为沥青被过度使用，并建议开发商和城市官员在选择道路材料时优先考虑长期耐用性和成本效益。文章还提到了模块化材料的设计权衡以及规划道路项目时需要考虑成本以外的因素。]]></description>
-      <guid>https://t.me/hn_summary/72856</guid>
-      <pubDate>Mon, 05 Feb 2024 17:30:00 GMT</pubDate>
+      <title>[媒体]布里斯托尔就业法庭裁定前社会学教授大卫·米勒 [...]</title>
+      <link>https://t.me/hn_summary/72877</link>
+      <description><![CDATA[反犹太复国主义者大卫·米勒被布里斯托大学错误开除
+布里斯托尔就业法庭裁定，布里斯托尔大学前社会学教授大卫·米勒被错误解雇。米勒于 2021 年被解雇，原因是他在该大学发表的有关以色列和犹太学生的言论遭到强烈反对。法庭裁定支持米勒的主张，即他的反犹太复国主义信仰符合《2010 年平等法案》所规定的受保护特征。然而，他关于间接和直接歧视的主张并未成功。犹太学生联盟对这一判决表示失望，称这可能为校园内犹太学生的行为开创一个危险的先例。该大学承认这一判决，但对调查结果表示失望。他们正在审查仲裁庭的判决，目前不会进一步发表评论。]]></description>
+      <guid>https://t.me/hn_summary/72877</guid>
+      <pubDate>Mon, 05 Feb 2024 19:45:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
