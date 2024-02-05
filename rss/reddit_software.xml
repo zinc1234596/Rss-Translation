@@ -4,11 +4,32 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sun, 04 Feb 2024 21:09:40 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Feb 2024 00:49:14 GMT</lastBuildDate>
+    <item>
+      <title>我需要使用 jdownloader2 的帮助，我来自使用 IDM，所以我希望 jdownloader2 具有相同的功能</title>
+      <link>https://www.reddit.com/r/software/comments/1aj2vcu/i_need_help_in_using_jdownloader2_i_come_from/</link>
+      <description><![CDATA[到目前为止，我只能在点击下载链接时添加链接，但它不会自动启动（我还必须右键单击才能使用 jdownloader 下载） ，论坛说只需编辑扩展设置，但当我单击它时没有扩展设置，它只是禁用（也可能是因为我使用brave作为我的浏览器？）。另一个是我用bat安装的这个本机客户端，但我似乎找不到在勇敢的浏览器中使用它的方法，不像视频中使用firefox使用它。 IDM 的问题是它有时无法下载某些文件，并提示无法到达服务器或其他内容。但我喜欢它的是它的自动下载，jdownloader2 没有简单的设置来启用它（我不知道如何）。所以我需要帮助   由   提交/u/leahs11  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1aj2vcu/i_need_help_in_using_jdownloader2_i_come_from/</guid>
+      <pubDate>Mon, 05 Feb 2024 00:12:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>WS_FTP LE 还能用吗？</title>
+      <link>https://www.reddit.com/r/software/comments/1aj288o/ws_ftp_le_still_okay_to_use/</link>
+      <description><![CDATA[不确定我应该在 reddit 上的哪里发布这个问题。软件似乎是个好主意。也可以交叉发布到 FTP。几十年来，我一直拥有 WS_FTP LE 的副本。不确定我最初是从哪里得到它的；也许来自 90 年代中期流行的旧网站建设 CD 之一。我的程序从来没有遇到过问题。多年来，它一直是我从网络主机上传和检索文件的首选。这就是我使用它的全部目的。将 html、css、图像等文件上传到我的网络主机，如果我不想通过 cpanel 进行整个备份，则将它们检索回来。所以我的问题是该程序有多久了；用它来做这个还可以/安全吗？对我来说，它在 Windows 11 上运行得很好。确实没有任何问题，而且我已经非常了解这个程序了。但有时我确实想知道连接后是否不再安全。 我知道还有大量其他 ftp 程序，我什至尝试了几个（filezilla 就是其中之一），但它们看起来都更复杂并且具有接口我配合不好。我想噪音太大了。 LE 的界面对我来说简单明了。我正在考虑从 Ipswitch 的网站购买 WS_FTP Pro，但如果不输入商业信息，我什至无法获得免费试用（？）。我不是一个企业。仅使用该程序进行网络托管。   由   提交/u/gamingnerd777  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1aj288o/ws_ftp_le_still_okay_to_use/</guid>
+      <pubDate>Sun, 04 Feb 2024 23:43:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>软件老是出问题...</title>
+      <link>https://www.reddit.com/r/software/comments/1aj17rs/software_always_breaking/</link>
+      <description><![CDATA[嗨，我有一个简单的软件工具，但它总是损坏。它是从 API 中提取的，但我认为一旦代码完成，它不会有太多问题，但它总是会崩溃，我支付相同的自由开发人员来修复它。  软件就是这样吗？这正常吗？这让我觉得也许他不好，或者他甚至可以故意把它弄坏来“修复它”。并不断赚钱，我怀疑他会这么做，但谁知道呢，我不会！  你觉得怎么样？    由   提交 /u/scotch-n-rocks57   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1aj17rs/software_always_breaking/</guid>
+      <pubDate>Sun, 04 Feb 2024 22:58:22 GMT</pubDate>
+    </item>
     <item>
       <title>寻找 Windows 媒体控制器/媒体信息淋浴</title>
       <link>https://www.reddit.com/r/software/comments/1aiyewk/looking_for_a_windows_media_controller_media_info/</link>
-      <description><![CDATA[嗨！ 我正在寻找某种程序，能够显示当前播放的歌曲名称、艺术家姓名和小窗口中的缩略图。我不需要应用程序具有媒体控件，但如果它也有媒体控件也不会成为问题。 我特别想将其用于 Spotify，因为桌面应用程序没有迷你播放器（或者我太笨了才找到它）。我尝试过“洛菲” ，但这是通过您的帐户运行的，需要互联网连接，我不喜欢这一点，因为我并不总是有连接，并且由于所述互联网而改变歌曲时速度很慢。   由   提交 /u/Katzenmlnze   [链接] [评论]]]></description>
+      <description><![CDATA[嗨！ 我正在寻找某种程序，能够显示当前播放的歌曲名称、艺术家姓名和小窗口中的缩略图。我不需要应用程序具有媒体控件，但如果它具有媒体控件也不会成为问题。 我特别想将其用于 Spotify，因为桌面应用程序没有迷你播放器（或者我太笨了才找到它）。我尝试过“洛菲” ，但是这是通过您的帐户运行的，需要互联网连接，我不喜欢这一点，因为我并不总是有连接，并且由于所述互联网而改变歌曲时速度很慢。   由   提交 /u/Katzenmlnze   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1aiyewk/looking_for_a_windows_media_controller_media_info/</guid>
       <pubDate>Sun, 04 Feb 2024 21:00:15 GMT</pubDate>
     </item>
@@ -29,21 +50,21 @@
     <item>
       <title>找不到项目，它不在正确的路径错误中</title>
       <link>https://www.reddit.com/r/software/comments/1aiwsyc/couldnt_find_item_its_not_in_the_correct_path/</link>
-      <description><![CDATA[我收到此错误，因为我移动了 WinRAR，我刚刚将其移动到我的 D 驱动器，但不知道如何更改路径（如果有意义） ，每次我尝试提取东西时，它都会给我带来错误，而且我找不到对我的生活有帮助的视频。请帮忙!!!   由   提交/u/Expective_Party_5636   [链接] [评论]]]></description>
+      <description><![CDATA[我收到此错误，因为我移动了 WinRAR，我刚刚将其移动到 D 驱动器，但不知道如何更改路径（如果有意义） ，每次我尝试提取东西时，它都会给我带来错误，而且我找不到对我的生活有帮助的视频。请帮忙!!!   由   提交/u/Expective_Party_5636   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1aiwsyc/couldnt_find_item_its_not_in_the_correct_path/</guid>
       <pubDate>Sun, 04 Feb 2024 19:55:24 GMT</pubDate>
     </item>
     <item>
       <title>寻找无需用户交互即可安装和配置一套程序的软件</title>
       <link>https://www.reddit.com/r/software/comments/1aivxrf/looking_for_software_that_will_install_configure/</link>
-      <description><![CDATA[我正在寻找一个程序或一个进程的方向，这将允许我安装&amp;配置一套程序和一旦开始更新，基本上不需要用户交互。有效地创建了一种静默安装和安装的方法。最重要的是启动后进行配置。 我希望唯一的交互是用户将网络目录映射到特定字母以访问安装所需的可执行文件和特定文件夹。然而，考虑到共享文件的安全设置，如果有一种方法可以引导用户使用一种也可以创建和映射该驱动器并自动访问它的方法，那就太理想了 - 只要他们的帐户允许他们查看本质上，我想将用户引导到带有 .exe 的网络共享，他们将在网络或其他安全位置运行，并让安装程序担心其余的事情，它会提示他们带有提供以下选择的自定义屏幕：  在位置 #1 的新计算机上安装 [为特定位置的用户进行自定义的完整安装。 - 下面的步骤 1-8] 在位置 #2 的新计算机上安装 [与上面相同，但根据需要更改网络位置。 - 下面的步骤 1-8] 重新安装完整套件 [仅使用最新的修补程序重新安装主程序。 - 下面的步骤 2-6] 安装最新的修补程序 [仅安装最新的修补程序。 - 下面的第 6 步]  我正在寻找的主要功能是安装和安装的能力。一次配置多个程序+系统设置。它将根据需要执行以下操作：  在“ODBC 数据源”下为用户设置特定的 SQL 访问权限。到特定的命名数据库。 安装主程序，并为用户配置它（选择特定目录、选择特定选项、输入特定许可证信息等） &lt; li&gt;将具有特定文件内容的特定自定义文件夹复制到步骤 #1 中创建的特定目录。 从安装中打开特定程序，以便它们在程序首次运行期间创建特定目录/文件夹。  将特定首选项文件复制到（默认情况下）活动用户帐户的特定隐藏文件夹 (appdata/roaming/special/sub-specfic 1)。 运行最新修补程序，选择安装程序中的特定选项。 使用安装程序中的特定选项安装补充程序。 将特定文件类型更改为使用第 1 步中新安装的程序打开。  li&gt; 提示用户重新启动或自动重新启动。  超时我想创建其他选项并根据需要添加不同的步骤，但如果我能让上述情况发生这对我来说将是一个游戏规则改变者。 我正在尝试简化我部门管理的这个软件套件的安装过程，它为每个用户提供相同的设置，但需要持续关注，因为如果我很忙并且没有解锁屏幕的用户密码，或者只是运行和设置所有内容所需的时间（目前从开始到完成大约需要 40 分钟），屏幕可能会锁定。我试图用最少的用户交互将其减少到尽可能少的步骤。我只是不知道是否有一个程序支持此操作，或者是否有一种方法可以使用批处理文件或类似的东西来完成此操作，我可以研究一下。我的主要灵感来自 Ninite 或 Chris Titus Winutil。    由   提交 /u/Opperst624   [链接] [评论]]]></description>
+      <description><![CDATA[我正在寻找一个程序或一个进程的方向，这将允许我安装&amp;配置一套程序和一旦开始更新，基本上不需要用户交互。有效地创建了一种静默安装和安装的方法。最重要的是启动后进行配置。 我希望唯一的交互是用户将网络目录映射到特定字母以访问安装所需的可执行文件和特定文件夹。然而，考虑到共享文件的安全设置，如果有一种方法可以引导用户使用一种也可以创建和映射该驱动器并自动访问它的方法，那将是理想的 - 只要他们的帐户允许他们查看本质上，我想将用户引导到带有 .exe 的网络共享，他们将在网络或其他安全位置运行，并让安装程序担心其余的事情，它会提示他们带有提供以下选择的自定义屏幕：  在位置 #1 的新计算机上安装 [为特定位置的用户进行自定义的完整安装。 - 下面的步骤 1-8] 在位置 #2 的新计算机上安装 [与上面相同，但根据需要更改网络位置。 - 下面的步骤 1-8] 重新安装完整套件 [仅使用最新的修补程序重新安装主程序。 - 下面的步骤 2-6] 安装最新的修补程序 [仅安装最新的修补程序。 - 下面的第 6 步]  我正在寻找的主要功能是安装和安装的能力。一次配置多个程序+系统设置。它将根据需要执行以下操作：  在“ODBC 数据源”下为用户设置特定的 SQL 访问权限。到特定的命名数据库。 安装主程序，并为用户配置它（选择特定目录、选择特定选项、输入特定许可证信息等） &lt; li&gt;将具有特定文件内容的特定自定义文件夹复制到步骤 #1 中创建的特定目录。 从安装中打开特定程序，以便它们在程序首次运行期间创建特定目录/文件夹。  将特定首选项文件复制到（默认情况下）活动用户帐户的特定隐藏文件夹 (appdata/roaming/special/sub-specfic 1)。 运行最新修补程序，选择安装程序中的特定选项。 使用安装程序中的特定选项安装补充程序。 将特定文件类型更改为使用第 1 步中新安装的程序打开。  li&gt; 提示用户重新启动或自动重新启动。  超时我想创建其他选项并根据需要添加不同的步骤，但如果我能让上述情况发生这对我来说将是一个游戏规则改变者。 我正在尝试简化我部门管理的这个软件套件的安装过程，它为每个用户提供相同的设置，但需要持续关注，因为如果我很忙并且没有解锁屏幕的用户密码，或者只是运行和设置所有内容所需的时间（目前从开始到完成大约需要 40 分钟），屏幕可能会锁定。我试图用最少的用户交互将其减少到尽可能少的步骤。我只是不知道是否有一个程序支持此操作，或者是否有一种方法可以使用批处理文件或类似的东西来完成此操作，我可以研究一下。我的主要灵感来自 Ninite 或 Chris Titus Winutil。    由   提交 /u/Opperst624   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1aivxrf/looking_for_software_that_will_install_configure/</guid>
       <pubDate>Sun, 04 Feb 2024 19:20:26 GMT</pubDate>
     </item>
     <item>
       <title>有软件可以索引我的个人照片以便我可以通过脸部进行搜索吗？</title>
       <link>https://www.reddit.com/r/software/comments/1aiv3yu/software_that_can_index_my_personal_photos_so_i/</link>
-      <description><![CDATA[我在 2000 多个文件夹中拥有 100000 多张跨越 20 多年的个人照片...是否有一些东西可以尝试进行面部识别或类似的操作这样我就可以轻松地搜索家庭成员？   由   提交/u/Opening_Career_9869   [链接] [评论]]]></description>
+      <description><![CDATA[我在 2000 多个文件夹中有超过 20 年的 100000 多张个人照片...是否有一些东西可以尝试进行面部识别或类似的操作这样我就可以轻松地搜索家庭成员？   由   提交/u/Opening_Career_9869   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1aiv3yu/software_that_can_index_my_personal_photos_so_i/</guid>
       <pubDate>Sun, 04 Feb 2024 18:46:17 GMT</pubDate>
     </item>
@@ -57,7 +78,7 @@
     <item>
       <title>正在寻找使用快捷键打开/关闭显示器/电视的软件</title>
       <link>https://www.reddit.com/r/software/comments/1airov8/looking_for_software_to_switch_my_monitorstv/</link>
-      <description><![CDATA[嗨， 我的办公室里有我的游戏电脑，配有 2 个显示器。我还有一根 10m 光纤 HDMI 电缆连接到我的客厅 LG CX OLED 电视。 我的蓝牙可通过天花板连接到我的所有外围设备，我已经接近理想的设置，但我有一个问题。 我想在楼下时自动关闭办公室显示器并打开电视作为主要/唯一屏幕。 我想要这样做有几个原因：  自动切换到我的电视音频输出（连接到我的环绕声 AV 接收器） 使我的电视成为主显示器，以便游戏可以在上面正常启动 我看不到的显示器上没有显示任何窗口，因此我不必不断按 Win+Left_arrow 来查找活动的 Chrome 窗口等  我的进度 使用Multimonitortool和Autohotkey 我有这个有点工作，但它似乎不喜欢这个设置。 有时只会显示列出的 2 个显示器，即使 Windows 显示 3。 有时脚本仅重新打开一台显示器等。我认为这是因为我的脚本正在调用显示 ID，例如 //./DISPLAY1这似乎根据“打开”的显示器而变化。因此我将其改为通过监视器 ID 触发，但仍然没有骰子。 这就是我正在运行的 #Requires AutoHotkey 2.0+ SingleInstance Force SetWorkingDir( “G:\Multimonitor”) +d::{ RunWait(“MultiMonitorTool.exe /enable GSMC0C8”) ##LG TV RunWait(“MultiMonitorTool.exe /disable DELF13B”) ##Monitor 1 RunWait(“MultiMonitorTool” .exe /disable IVM7615&quot;) ##Monitor 2 } +u::{ RunWait(&quot;MultiMonitorTool.exe /enable DELF13B3&quot;) ##Monitor 1 RunWait(&quot;MultiMonitorTool.exe /enable IVM7615&quot;) ##Monitor 2 RunWait (“MultiMonitorTool.exe /disable GSMC0C8”) ##LG TV }  有人对这些工具有任何经验，或者可以建议另一种解决方法吗？目前，我正在使用 Teamviewer 进行远程连接并更改标准 Windows 显示设置面板中哪个显示器处于活动状态。 TIA  &amp; #32；由   提交/u/PM_ME_UR_ZOIDBERG   [链接] [评论]]]></description>
+      <description><![CDATA[嗨， 我的办公室里有我的游戏电脑，配有 2 个显示器。我还有一根 10m 光纤 HDMI 电缆连接到我的客厅 LG CX OLED 电视。 我的蓝牙可通过天花板连接到我的所有外围设备，我已经接近理想的设置，但我有一个问题。 我想在楼下时自动关闭办公室显示器并打开电视作为主要/唯一屏幕。 我想要这样做有几个原因：  自动切换到我的电视音频输出（连接到我的环绕声 AV 接收器） 使我的电视成为主显示器，以便游戏可以在上面正常启动 我看不到的显示器上没有显示任何窗口，因此我不必不断按 Win+Left_arrow 来查找活动的 Chrome 窗口等  我的进度 使用Multimonitortool和Autohotkey 我有这个有点工作，但它似乎不喜欢这个设置。 有时只会显示列出的 2 个显示器，即使 Windows 显示 3。 有时脚本仅重新打开一台显示器等。我认为这是因为我的脚本正在调用显示 ID，例如 //./DISPLAY1这似乎根据“打开”的显示器而变化。所以我将其改为通过监视器 ID 触发，但仍然没有骰子。 这就是我正在运行的 #Requires AutoHotkey 2.0+ SingleInstance Force SetWorkingDir( “G:\Multimonitor”) +d::{ RunWait(“MultiMonitorTool.exe /enable GSMC0C8”) ##LG TV RunWait(“MultiMonitorTool.exe /disable DELF13B”) ##Monitor 1 RunWait(“MultiMonitorTool” .exe /disable IVM7615&quot;) ##Monitor 2 } +u::{ RunWait(&quot;MultiMonitorTool.exe /enable DELF13B3&quot;) ##Monitor 1 RunWait(&quot;MultiMonitorTool.exe /enable IVM7615&quot;) ##Monitor 2 RunWait (“MultiMonitorTool.exe /disable GSMC0C8”) ##LG TV }  有人对这些工具有任何经验，或者可以建议另一种解决方法吗？目前，我正在使用 Teamviewer 进行远程连接并更改标准 Windows 显示设置面板中哪个显示器处于活动状态。 TIA  &amp; #32；由   提交/u/PM_ME_UR_ZOIDBERG   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1airov8/looking_for_software_to_switch_my_monitorstv/</guid>
       <pubDate>Sun, 04 Feb 2024 16:24:24 GMT</pubDate>
     </item>
@@ -85,30 +106,9 @@
     <item>
       <title>适用于 Windows 10 的按键软件</title>
       <link>https://www.reddit.com/r/software/comments/1aim2zt/keystrokes_software_for_windows_10/</link>
-      <description><![CDATA[嗨！我正在寻找一个显示击键的应用程序（例如在《我的世界》中），但作为一个单独的应用程序。我已经尝试过一些：keyviz、EZkey、Noahboard 和 JAXCore（Noahboard 是最接近的，唯一的问题是它不透明并且不显示所有键，与 JAXCore 类似）。 如果有人了解类似的事情，这将非常有用。谢谢！   由   提交/u/Holmat1   [链接] [评论]]]></description>
+      <description><![CDATA[嗨！我正在寻找一个显示击键的应用程序（例如在《我的世界》中），但作为一个单独的应用程序。我已经尝试过一些：keyviz、EZkey、Noahboard 和 JAXCore（Noahboard 是最接近的，唯一的问题是它不透明并且不显示所有键，与 JAXCore 类似）。 如果有人了解类似的事情，这将非常有用。谢谢！   由   提交 /u/Holmat1   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1aim2zt/keystrokes_software_for_windows_10/</guid>
       <pubDate>Sun, 04 Feb 2024 11:41:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么许多科技项目要求支持乌克兰而不是巴勒斯坦</title>
-      <link>https://www.reddit.com/r/software/comments/1aij7i7/why_do_many_tech_project_ask_support_for_ukraine/</link>
-      <description><![CDATA[ 由   提交/u/beastmastah_64  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1aij7i7/why_do_many_tech_project_ask_support_for_ukraine/</guid>
-      <pubDate>Sun, 04 Feb 2024 08:28:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找一个程序，该程序遍历一个 HTML 文件，查找其所有依赖项，并将它们组合成一个</title>
-      <link>https://www.reddit.com/r/software/comments/1aij42k/looking_for_program_that_goes_though_a_html_file/</link>
-      <description><![CDATA[请注意，所有文件都存储在本地，而不是存储在网络上    ;由   提交/u/CreativeEngineer32   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1aij42k/looking_for_program_that_goes_though_a_html_file/</guid>
-      <pubDate>Sun, 04 Feb 2024 08:22:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>EPUB 阅读器具有基于上下文的搜索功能，可以像 Notepad++ 一样列出所有出现的内容</title>
-      <link>https://www.reddit.com/r/software/comments/1aiidq6/epub_reader_with_a_context_based_search_function/</link>
-      <description><![CDATA[在 Notepad++ 中搜索某些内容时，我会得到完整的行，因此对我正在搜索的内容有一些上下文。 PDF X Changer 对 PDF 执行此操作，但我正在寻找也可以对 EPUB 执行此操作的工具。我尝试了 Calibre 查看器，但需要很长时间才能准备好第一次阅读这本书。开源首选。  谢谢。   由   提交/u/Mewto17  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1aiidq6/epub_reader_with_a_context_based_search_function/</guid>
-      <pubDate>Sun, 04 Feb 2024 07:33:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
