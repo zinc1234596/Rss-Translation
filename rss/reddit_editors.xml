@@ -4,7 +4,14 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Tue, 06 Feb 2024 21:10:45 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Feb 2024 00:44:52 GMT</lastBuildDate>
+    <item>
+      <title>Avid MC (23.12) M2 Max 上的 MDB 导入问题</title>
+      <link>https://www.reddit.com/r/editors/comments/1aklz14/avid_mc_2312_mdb_import_issue_on_m2_max/</link>
+      <description><![CDATA[嘿，只是想知道是否有人在使用 M2 Max 的 Avid Media Composer (23.12.00) 上遇到此问题。当扫描 MDB 文件并将其引入垃圾箱时，它会显示数据库不完整的错误，并且不会在导入时引入所有剪辑。当在运行相同 avid 版本的 PC 上导入相同的 MDB 时，它的导入没有任何问题。如果有人有任何想法，我们将不胜感激。 ​ 系统规格：M2 Max 12 核 CPU， 30 核 GPU、RAM 32GB // 软件规格：Avid Media Composer 23.12 素材规格：DNxHD36、MXF Container、25FPS    由   提交/u/Working-Strain-5436   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1aklz14/avid_mc_2312_mdb_import_issue_on_m2_max/</guid>
+      <pubDate>Tue, 06 Feb 2024 21:58:45 GMT</pubDate>
+    </item>
     <item>
       <title>如何在影视素材中找到演员？</title>
       <link>https://www.reddit.com/r/editors/comments/1akjg90/how_do_you_find_an_actor_in_stock_footage/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>制作团队搞砸了，拍摄了四种不同的帧速率。我们在最终交付方面是否可能遇到麻烦？</title>
       <link>https://www.reddit.com/r/editors/comments/1akh1hh/production_fucked_up_and_shot_four_different/</link>
-      <description><![CDATA[嘿，你们正在制作一部单口喜剧特辑，希望能卖给 Netflix 或 HBO。 Janky 制作公司使用 6 个摄像机以 4 种帧率（23.97、24、29.97、60）拍摄。这最终会成为一个问题吗？我知道过去您需要一些相当高端的设备/软件来修复伪影。情况仍然如此吗？或者我们的调色师能够在 Resolve 中相对轻松地解决这个问题吗？这会花费我们任何钱吗？ 我正在参与一个 24fps Avid 项目，所有媒体均以其原始帧速率转码为 DNxHR。将在 Resolve 中进行最终着色。不确定最终的交付规格是什么，因为他们仍在货比三家。 编辑特别关注质量控制问题   由   提交/u/dmizz  [链接] [评论]]]></description>
+      <description><![CDATA[嘿，你们正在制作一部单口喜剧特辑，希望能卖给 Netflix 或 HBO。 Janky 制作公司使用 6 个摄像机以 4 种帧率（23.97、24、29.97、60）拍摄。这最终会成为一个问题吗？我知道过去您需要一些相当高端的设备/软件来修复伪影。情况仍然如此吗？或者我们的调色师能够在 Resolve 中相对轻松地解决这个问题吗？这会花费我们任何钱吗？ 我正在参与一个 24fps Avid 项目，所有媒体均以其原始帧速率转码为 DNxHR。将在 Resolve 中进行最终着色。不确定最终的交付规格是什么，因为他们仍在货比三家。 编辑特别关注质量控制问题 编辑 2 与调色师朋友交谈并说如果我们雇用一个真正的在线编辑器，而不是我通常做的低预算事情，我们应该能够通过流畅的运动和也许一些黄玉人工智能来解决任何问题。    由   提交/u/dmizz  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1akh1hh/production_fucked_up_and_shot_four_different/</guid>
       <pubDate>Tue, 06 Feb 2024 18:41:52 GMT</pubDate>
     </item>
@@ -53,13 +60,6 @@
       <description><![CDATA[我是一家大型制造公司的视频编辑器，我可以同时进行多个项目，每个项目的视频超过 100GB。  我的工作计算机经常被填满，所以通常当我完成一个项目时，我只需要不断地将文件移到外部硬盘驱动器上。但是，随着多个长期项目的发生，我需要经常进出，这就变得很困难。 我正在考虑购买一个可以存储大型项目的大型专业级硬盘驱动器在。我想知道是否有足够强大的驱动器，我可以将整个视频项目及其资产放入其中，然后只需在驱动器上工作即可？ 我正在寻找如下产品：&lt; /p&gt; SanDisk Professional - G-DRIVE 12TB 外置 USB-C 3.2 Gen2 硬盘 https://www.bestbuy.com/site/sandisk-professional-g-drive-22tb-external-usb -c-3-2-gen2-hard-drive-black/6530650.p?skuId=6530650 WD - easystore 14TB 外置 USB 3.0 硬盘 https://www.bestbuy.com/site/ wd-easystore-14tb-external-usb-3-0-hard-drive-black/6425303.p?skuId=6425303 如果有人对其他硬盘或其他硬盘有任何建议我很高兴听到有关帮助改进大文件管理和工作流程的方法。谢谢！ 编辑：就上下文而言，我的办公室使用 Microsoft Teams，因此我通常拥有给定项目的三个副本。首先，在我的笔记本电脑上，我保存“工作副本”并在那里进行编辑，在硬盘驱动器上保存第二个副本用于备份，在 Teams 中保存第三个副本。我当前的问题是，我的大多数项目都使用大型 MXF 文件，因此我的笔记本电脑很快就会装满，而且当我仍在处理上一个项目时，我没有可用的空间来放置新素材。   由   提交 /u/frrstk   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1akck5s/good_professional_hard_drives_for_large_video/</guid>
       <pubDate>Tue, 06 Feb 2024 15:35:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>对于那些在社交代理领域（或邻近领域）工作的人来说，是什么彻底改变了您团队的工作流程？</title>
-      <link>https://www.reddit.com/r/editors/comments/1akbfyy/for_those_who_work_in_the_social_agency_space_or/</link>
-      <description><![CDATA[我的团队在 Windows 上使用 Adob​​e，主要是 Premiere 和 After Effects，我们一直在寻找提高速度和质量的方法。是否有任何工作流程、流程、插件、技巧等彻底改变和改进了您的操作方式？可能是特定于软件的或更一般/工作环境相关的。  不寻找任何具体内容，只是好奇您的团队是否已经实现了某些内容，然后说“如果没有这个，我们之前是如何度过的？” &lt;!-- SC_ON - -&gt;  由   提交/u/Sensitive_Lime3597   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1akbfyy/for_those_who_work_in_the_social_agency_space_or/</guid>
-      <pubDate>Tue, 06 Feb 2024 14:47:32 GMT</pubDate>
     </item>
     <item>
       <title>23.98 面试，29.97 递进</title>
