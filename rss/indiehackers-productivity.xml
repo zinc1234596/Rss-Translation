@@ -4,7 +4,19 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Wed, 07 Feb 2024 09:13:21 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Feb 2024 12:19:16 GMT</lastBuildDate>
+    <item>
+      <title>超越免费 - 匿名应用程序的案例</title>
+      <link>https://feed.indiehackers.world/post/b2499e2d80</link>
+      <description><![CDATA[
+是否已有匿名应用？
+如果您四处寻找，您肯定会发现野外匿名应用程序的示例。许多游戏已经支持匿名模式相当长一段时间了。相对常见的是，只玩游戏并选择退出以帐户为中心的功能，例如进度跟踪、成就或多人游戏……直到您需要这些功能。 Chess.com 是一个很棒的例子，如果您想下棋，您只需开始移动棋子即可。对于生产力应用程序来说，这是一种罕见的体验，尽管我不得不承认，当我体验它时，它是一种新鲜空气。 
+
+好的，看起来很整洁！但这并不适用于所有地方或适用于每个应用程序。有时您需要该帐户来保护信息或在设备之间同步。另外，这需要大量的额外时间和资源来实现！ 看，我知道无帐户应用程序并不适用于所有软件。不过，我发现它常常成为 Web 应用程序显示登录屏幕的基线起点。我认为，作为设计师和开发人员，我们可以做得更好。以这种方式设计应用程序并不容易，并且以这种方式构建它们确实需要更多的资源和状态管理。然而，找到注入此功能的领域可以将良好的用户体验变成伟大。在最近的更新中，Craft 彻底修改了他们的共享文档策略，以允许匿名用户查看和编辑文档。这是一个很好的例子，说明软件设计人员可以在关键时刻找到可以满足用户需求的领域。
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/b2499e2d80</guid>
+      <pubDate>Wed, 07 Feb 2024 10:49:59 GMT</pubDate>
+    </item>
     <item>
       <title>为团队推出免费回顾工具 - 欢迎反馈</title>
       <link>https://feed.indiehackers.world/post/b1ac6a5b49</link>
@@ -227,28 +239,6 @@ Figma：一款功能强大的设计工具，可轻松用于创建令人惊叹的
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/559f94722c</guid>
       <pubDate>Mon, 29 Jan 2024 12:42:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>您的产品发布在 Reddit 上获得超过 10 万次浏览</title>
-      <link>https://feed.indiehackers.world/post/d8e1ce1ab1</link>
-      <description><![CDATA[&lt;块引用&gt;
-
-自动生成销售报告
-监控加密货币市场信号、情绪和新闻
-构建个人生产力仪表板
-与团队和客户分享项目最新动态
-监控最喜欢的冲浪点（使用网络摄像头）
-快速问您一个问题：您对这个项目有何看法？你会用它做什么？
-我们为发布开放了免费版本的 Kaptr.me。请查看并告诉我们您的想法！
-
-
-这是我用于纯视频帖子的视频：Kaptr.me 简介
-4.参与的艺术
-回复评论？绝对至关重要。但这里有一个小技巧：不要急于立即回答每个问题。
-保持活跃：肯定会回复每个人，但可能不是现在。这表明您就在附近并且您关心谈话。
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/d8e1ce1ab1</guid>
-      <pubDate>Sat, 27 Jan 2024 20:31:51 GMT</pubDate>
     </item>
     </channel>
 </rss>

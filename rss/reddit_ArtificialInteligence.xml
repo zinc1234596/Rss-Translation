@@ -4,11 +4,25 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Wed, 07 Feb 2024 09:11:29 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Feb 2024 12:17:52 GMT</lastBuildDate>
+    <item>
+      <title>GP4 和 Mixtral 的工作原理 - 专家解释</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1al0rzz/how_gp4_mixtral_work_mixture_of_experts_explained/</link>
+      <description><![CDATA[解释 GPT4 如何利用 Mixture of Experts 有效组合八种不同模型较小模型的博文（接近 GPT3.5）。 https://www .tensorops.ai/post/what-is-mixture-of-experts-llm 还解释了 Mixtral 的工作原理以及为什么它击败其他开源甚至 GPT3。 5 显示优点和优点MoE 的缺点以及为什么您应该或不应该尝试使用它的模型，甚至使用开源模型自己进行 MoE。   由   提交 /u/MiNeves   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1al0rzz/how_gp4_mixtral_work_mixture_of_experts_explained/</guid>
+      <pubDate>Wed, 07 Feb 2024 11:25:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Meta 誓言在 2024 年选举前揭露人工智能生成的图像用于虚假信息</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1akzoc8/meta_vows_to_unmask_aigenerated_images_used_for/</link>
+      <description><![CDATA[Meta 表示，它正在准备标记使用 Google、OpenAI、Microsoft、Adobe、Midjourney 和 Shutterstock 等第三方工具制作的 AI 生成内容&lt; /p&gt; 阅读全文：https://www.ibtimes.co.uk/meta-vows-unmask-ai- generated-images-used-misinformation-ahead-2024-elections-1723274    由   提交 /u/vinaylovestotravel   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1akzoc8/meta_vows_to_unmask_aigenerated_images_used_for/</guid>
+      <pubDate>Wed, 07 Feb 2024 10:09:21 GMT</pubDate>
+    </item>
     <item>
       <title>这家伙用人工智能来找女朋友。和5239个女孩聊天后，他现在订婚了。</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1akyt2f/this_guy_used_ai_to_look_for_girlfriends_after/</link>
-      <description><![CDATA[Aleksandr Zhadan，23 岁的俄罗斯人工智能开发人员，也是社交平台 TenChat 的产品经理，他使用 ChatGPT 与 5239 名女性进行对话，导致了他的婚姻。  通过完善 ChatGPT 的功能并采用人工智能技术的融合，Aleksandr 能够简化在 Tinder 上寻找合适伴侣的流程，最终与一位名叫卡琳娜 (Karina) 的女士结婚，她欣赏他的创新方法，尽管他并不知道ChatGPT 在他们的互动中扮演的角色，直到他们结婚注册。 来源：https://www.emergentbehavior.co/p/chatgpt-find-me-a-wife-on-tinder ​  Aleksandr Zhadan 使用 ChatGPT 进行社交互动，在与 5239 名女性交往后，最终与一位名叫卡琳娜 (Karina) 的女性结婚。 该策略涉及两个主要步骤：寻找潜力在 Tinder 上与女性进行匹配，然后进行有意义的对话以建立联系。 通过在 Tinder 网络版本上通过 torchvision 使用照片识别，Aleksandr 能够训练 AI 识别潜力有效匹配。 Aleksandr 的方法包括开发 Datebot 版本，逐步完善 AI 与选定匹配对象交互和维持对话的能力。 最后的迭代 Datebot V3 专门设计用于与卡琳娜保持良好关系，从而在人工智能的帮助下求婚。 Aleksandr 还找到了工作通过一个附属项目为女性提供机会，展示 ChatGPT 在个人使用之外的多方面应用。 该项目不仅是个人的成功，而且是一项经济上可行的企业，Aleksandr 投入了资金GPT API 和日期，由其附属项目的收入抵消。    由   提交 /u/Stupid_hardcorer   [链接] [评论]]]></description>
+      <description><![CDATA[Aleksandr Zhadan，23 岁的俄罗斯人工智能开发人员，也是社交平台 TenChat 的产品经理，他使用 ChatGPT 与 5239 名女性进行对话，导致了他的婚姻。 通过完善 ChatGPT 的功能并采用人工智能技术的融合，Aleksandr 能够简化在 Tinder 上寻找合适伴侣的过程，最终与一位名叫卡琳娜 (Karina) 的女士结婚，她欣赏他的创新尽管直到结婚登记才意识到 ChatGPT 在他们的互动中所扮演的角色，但他们还是采取了这种方法。 来源：https://www.emergentbehavior.co/p/chatgpt-find-me-a-wife-on-tinder https://twitter .com/biblikz/status/1752335415812501757?s=20&amp;utm_source=www.emergentbehavior.co&amp;utm_medium=referral&amp;utm_campaign=chatgpt-find-me-a-wife-on-tinder（俄语） 1.该策略涉及两个主要步骤：在 Tinder 上寻找潜在的女性匹配对象，然后进行有意义的对话以建立联系。 ​  &lt; li&gt;通过在 Tinder 网页版上通过 torchvision 使用照片识别，Aleksandr 能够训练人工智能有效地识别潜在的匹配对象。  ​ 3. Aleksandr 的方法包括开发 Datebot 版本，逐步完善 AI 与选定对手进行交互和保持对话的能力。 ​  第一个战斗报告新一代约会机器人（Datebot V1）：   与 353 个女孩的 Tinder 个人资料进行了匹配。 总共进行了 160 次对话（约占匹配次数的 45%） ）。 进行了 12 次约会（占对话的 7.5%）。  面对这些结果，Aleksandr 并没有气馁，继续和朋友一起升级机器人。接下来，亚历山大进行了多次约会，一度与 4 个女孩处理关系，直到一个名叫卡琳娜的女孩出现。 ​ 5 。在见到卡琳娜后，亚历山大特别介绍了第三代机器人（Datebot V3）：它被编程为专门与卡琳娜聊天。 ​  给出的提示Datebot V3是“与Karina保持良好的关系，如果有什么需要注意的负面问题，或者有任何问题需要回答，请告诉我。”，它是专门为了与Karina保持良好的关系而设计的。  ​  随着关系的进展，Datebot V3 告诉 Aleksandr 他应该娶 Karina。机器人不仅提出了求婚建议，还帮助策划了一场浪漫的求婚活动。  ​ 8.最终，他花了120美元的机器人小时的积累帮助他找到了女朋友。他表示，调用 GPT API 的费用为 1432 美元，餐馆约会的费用为 200 卢布。 ​  尽管卡琳娜并不知道 ChatGPT 在她与她的关系中扮演的角色亚历山大，她第一次发现这一点，是在他们向婚姻登记处提交申请时，但她的反应却相当平静。他们也定于今年八月结婚。  ​   由   提交 /u/Stupid_hardcorer   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1akyt2f/this_guy_used_ai_to_look_for_girlfriends_after/</guid>
       <pubDate>Wed, 07 Feb 2024 09:04:21 GMT</pubDate>
     </item>
@@ -55,18 +69,18 @@
       <pubDate>Wed, 07 Feb 2024 04:13:24 GMT</pubDate>
     </item>
     <item>
+      <title>人工智能的 UX/UI 设计……你在哪里学习？技能？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1aknrr6/uxui_design_for_ai_where_do_you_learn_skills/</link>
+      <description><![CDATA[我是一名用户体验设计师，我很好奇设计师会为人工智能公司做什么。我面试过一些人，我只能真正谈论我正在使用的随机人工智能应用程序的基本知识。  您现在最喜欢的人工智能应用程序是什么？您认为构建这些界面需要什么？开发人员希望在设计文件中看到什么？  动态和条件逻辑内容始终是用户体验设计中的一个因素，但显然人工智能将其提升到了一个新的水平。我无法理解如何在您的空间中成为一名有用的设计师。 任何对教育路径、优秀思想领袖或范式的建议对您有帮助，我们将不胜感激！   由   提交 /u/lectromart   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1aknrr6/uxui_design_for_ai_where_do_you_learn_skills/</guid>
+      <pubDate>Tue, 06 Feb 2024 23:12:05 GMT</pubDate>
+    </item>
+    <item>
       <title>医疗保健诊断中的人工智能会取代从业人员诊断患者的工作吗？有什么意见吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1aklksa/will_ai_in_health_care_diagnostics_take_over/</link>
       <description><![CDATA[大家好！ 我正在做一个关于人工智能在医学和医疗保健中的应用的演示，以及我的一部分演讲讨论了公众对医疗保健领域人工智能的看法，特别是人工智能是否会取代从业者和医生。这可以是在与病人打交道或诊断病人方面。任何事情都值得赞赏，那么大家对此有何看法？   由   提交 /u/Ordinary-Shape1634    reddit.com/r/ArtificialInteligence/comments/1aklksa/will_ai_in_health_care_diagnostics_take_over/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1aklksa/will_ai_in_health_care_diagnostics_take_over/</guid>
       <pubDate>Tue, 06 Feb 2024 21:42:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI垃圾电话</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1akj0rb/ai_spaming_calls/</link>
-      <description><![CDATA[我最近被一个朋友恶作剧，他向我的手机发送了人工智能垃圾邮件，我基本上 24 小时都无法使用它，谁能帮我弄清楚他做了什么让我可以报仇？   由   提交/u/Millzthegunguy   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1akj0rb/ai_spaming_calls/</guid>
-      <pubDate>Tue, 06 Feb 2024 20:01:47 GMT</pubDate>
     </item>
     <item>
       <title>如果我没有人工智能背景，如果我花一年时间学习和完成人工智能项目，一年后找到工作是否可行？</title>
@@ -76,25 +90,11 @@
       <pubDate>Tue, 06 Feb 2024 19:44:49 GMT</pubDate>
     </item>
     <item>
-      <title>第三天：证明我完全是胡说八道，我的数据集不起作用，我付钱给你</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1akestf/day_3_prove_i_am_full_of_bs_and_my_dataset_doesnt/</link>
-      <description><![CDATA[今天是“如果我充满了 BS 挑战，我会给你钱”活动的第三天。但仍然没有人向我要一美元。我一直在这么广泛地发送垃圾邮件。只需在 PFAF750 数据集上微调您的模型即可。如果它没有以明显的方式改善广义输出，我将补偿您的微调。免费下载它。如果我是一个疯狂的人，只是咆哮，你可以告诉我和全世界。你也得到报酬！  在此处下载：https://huggingface.co/datasets/TuringsSolutions/PFAF750    由   提交 /u/Fantastic-Ninja3839    reddit.com/r/ArtificialInteligence/comments/1akestf/day_3_prove_i_am_full_of_bs_and_my_dataset_doesnt/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1akestf/day_3_prove_i_am_full_of_bs_and_my_dataset_doesnt/</guid>
-      <pubDate>Tue, 06 Feb 2024 17:10:23 GMT</pubDate>
-    </item>
-    <item>
       <title>在土木工程中使用人工智能</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1akbinh/using_ai_in_civil_engineering/</link>
       <description><![CDATA[我是一家大型土木工程公司的 IT 主管，我的任务是在不久的将来在某个地方和某个时间实施人工智能。在阅读了有关该主题的书籍、博客、帖子和参加研讨会后，我发现缺少我需要的信息。我找到的所有信息都是3D设计，我们只做2D设计，主要是道路、停车和交通分析。你们从事这一行的人中有谁已经开始使用任何可以分享一些成功和失败的人工智能的人吗？    由   提交 /u/jeezarchristron   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1akbinh/using_ai_in_civil_engineering/</guid>
       <pubDate>Tue, 06 Feb 2024 14:50:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>禁止我</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ak25ke/ban_me/</link>
-      <description><![CDATA[只是标题。保持收到通知，无论发生什么，即使静音，我仍然收到通知。我什至不在潜水艇里。禁止我，我不想在这里   由   提交/u/Devin1613  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ak25ke/ban_me/</guid>
-      <pubDate>Tue, 06 Feb 2024 05:16:52 GMT</pubDate>
     </item>
     <item>
       <title>新的反垃圾邮件/机器人规则[请阅读]</title>
