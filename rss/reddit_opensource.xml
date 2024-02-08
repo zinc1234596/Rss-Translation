@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 08 Feb 2024 00:46:34 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Feb 2024 03:13:47 GMT</lastBuildDate>
+    <item>
+      <title>面向学生的开源应用程序</title>
+      <link>https://www.reddit.com/r/opensource/comments/1all6qf/open_source_apps_for_students/</link>
+      <description><![CDATA[我想知道我向大学生推荐哪些应用程序，我说的是日历和待办事项应用程序等易于与 Android 集成的应用程序应用程序和 Linux 桌面应用程序。  我一直一团糟，我从谷歌及其所有网络应用程序开始，但我想改变并找到了 notion，但是尽管 notion 拥有一切，但 android 应用程序看起来很糟糕并且很难使用，没有办法创建一个好的日历或一个有效的待办事项。  我也尝试过黑曜石，它是效果最好的一个，但事实上，我无法在不付费的情况下将其与云同步，这让我很沮丧。   由   提交 /u/Druxorey   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1all6qf/open_source_apps_for_students/</guid>
+      <pubDate>Thu, 08 Feb 2024 02:40:53 GMT</pubDate>
+    </item>
     <item>
       <title>meme-maker：简单快速的 CLI 工具来生成模因</title>
       <link>https://www.reddit.com/r/opensource/comments/1alhb51/mememaker_simple_and_quick_cli_tool_to_generate/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>寻求建议：使我们的 QA 工具开源</title>
       <link>https://www.reddit.com/r/opensource/comments/1aleqyr/seeking_advice_making_our_qa_tool_open_source/</link>
-      <description><![CDATA[嘿r/opensource，Quash 纳入开源领域。这对我们来说是一大步，老实说，我们正在探索未知的水域。我正在向这个令人惊叹的社区寻求有关如何正确执行此操作的建议。Quash 最初是为了解决我们在移动应用程序开发中每天遇到的问题 - 繁琐的错误报告过程。我们的目标是通过自动收集所有必要的数据（例如屏幕截图、会话重播、网络调用和日志）来简化捕获和报告错误。这是一个基于反馈不断学习和迭代的旅程。令我们兴奋的最新功能是AI Bug Resolver，它提供即时代码片段来修复已识别的错误。我们相信，将 Quash 开源不仅可以利用社区的专业知识来改进我们的工具，还可以为更广泛的开发和 QA 生态系统做出贡献。 但还有更多消息：我们不会止步于 Android。我们目前正在努力支持 Flutter，我们的愿景包括使 Quash 与所有主要移动开发框架兼容。当我们采取这些步骤来开源 Quash 并扩大其覆盖范围时，我正在寻求以下方面的建议最佳实践、要避免的陷阱以及参与和发展我们的开源社区的策略？ 在评论或私信中关注您！   由   提交 /u/psymaniax   [链接] [评论]]]></description>
+      <description><![CDATA[嘿r/opensource，Quash 纳入开源领域。这对我们来说是一大步，老实说，我们正在探索未知的水域。我正在向这个令人惊叹的社区寻求有关如何正确执行此操作的建议。Quash 最初是为了解决我们在移动应用程序开发中每天遇到的问题 - 繁琐的错误报告过程。我们的目标是通过自动收集所有必要的数据（例如屏幕截图、会话重放、网络调用和日志）来简化捕获和报告错误。这是一个根据反馈不断学习和迭代的旅程。令我们兴奋的最新功能是AI Bug Resolver，它提供即时代码片段来修复已识别的错误。我们相信，将 Quash 开源不仅可以利用社区的专业知识改进我们的工具，还可以为更广泛的开发和 QA 生态系统做出贡献。 但还有更多消息：我们不会止步于 Android。我们目前正在努力支持 Flutter，我们的愿景包括使 Quash 与所有主要移动开发框架兼容。当我们采取这些步骤来开源 Quash 并扩大其覆盖范围时，我正在寻求以下方面的建议最佳实践、要避免的陷阱以及参与和发展我们的开源社区的策略？ 在评论或私信中关注您！   由   提交 /u/psymaniax   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1aleqyr/seeking_advice_making_our_qa_tool_open_source/</guid>
       <pubDate>Wed, 07 Feb 2024 21:51:16 GMT</pubDate>
     </item>
@@ -64,7 +71,7 @@
     <item>
       <title>我正在构建一个语音助手，我应该将其开源吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1al67uy/im_building_a_voice_assistant_should_i_make_it/</link>
-      <description><![CDATA[我正在为 Windows 构建一个语音助手，该语音助手将在本地运行，也许我会使用一个小型的法学硕士，我不确定具体的框架和组件尚未确定。除了信息检索之外，助手将能够完全离线运行。 我的问题是，我是否应该将其开源，以及开源与出售相比有何优势。 我的问题是，我是否应该将其开源？ &gt;   由   提交/u/blind_programer  [链接] [评论]]]></description>
+      <description><![CDATA[我正在为 Windows 构建一个语音助手，该语音助手将在本地运行，也许我会使用一个小型的法学硕士，我不确定具体的框架和组件尚未确定。除了信息检索之外，助手将能够完全离线运行。 我的问题是，我是否应该将其开源，以及开源与出售相比有什么好处。 我的问题是，我是否应该将其开源？ &gt;   由   提交/u/blind_programer  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1al67uy/im_building_a_voice_assistant_should_i_make_it/</guid>
       <pubDate>Wed, 07 Feb 2024 15:59:37 GMT</pubDate>
     </item>
@@ -92,7 +99,7 @@
     <item>
       <title>寻求帮助：具有 C 和 Carbon 专业知识的 Apple Mac 程序员，可快速、轻松地进行逆向计算项目（为 Intel 重新编译现有代码）</title>
       <link>https://www.reddit.com/r/opensource/comments/1akjvo0/help_wanted_apple_mac_programmer_with_c_and/</link>
-      <description><![CDATA[早在 2019 年，计算机历史博物馆就发布了Qualcomm Eudora 6 for Mac 的 C 源代码。如果您还不知道，名为 Eudora 的两个不同的电子邮件客户端曾经并且仍然拥有一个虔诚用户群。事实上，他们是如此虔诚，以至于自 2011 年以来，他们一直在模拟运行 Mac 的原始应用程序。 （有关历史背景的说明：原始应用程序Eudora 软件（即这个软件）是一款针对 Mac 的教育软件，由 UIUC 的一个团队开发。高通公司需要为其内部邮件系统提供一个解决方案，购买了版权，并委托另一个团队为 Windows 编写一个类似的应用程序scrap，他们也将其命名为 Eudora。从 1988 年到 1998 年，这两个应用程序本质上都是 个人 电子邮件的同义词，与拨入某些大型机不同在 Carjackistan 并在那里完成所有工作 - Windows 版本仍然与 POP3/IMAP 场景中的当前播放器具有竞争力，尽管它由于法律原因必须重命名。） 无论如何，我计划召集一些人，对源代码进行一些小的更新，将应用程序的名称更改为 Eos，并将其作为适用于 Intel Mac 的 Carbon 应用程序重新发布。与（完全不相关的）Windows 应用程序不同，Eudora for Mac 是一个处于全新状态的低工作量项目，没有不令人满意的外部依赖项。 不过，经过仔细检查，结果发现代码库的存档不完整，我的联系人不再理会这件事，等等，基本上我被迫转向她的父母。很简单，对于像这样的复杂且大规模的项目，如果缺少的部分足够大，则重建该缺少的部分根本不可行。 另一方面，如果该部分被发现，那是一个完全不同的故事。这正是去年11月发生的事情。有问题的部分是整个应用程序的资源：图形资源、字符串表、作品。 我不是程序员，尤其是 C 语言程序员（我用 Lisp 编写了一些玩具程序）但这对我没有帮助）。虽然我确实想回馈社区，但事实是我只能通过二手的方式来做到这一点。因此，我在 GitHub 上建立了一个存储库，希望能找到与我一起从事该项目的人，并且我建议我们通过 此链接在 Signal 即时通讯工具上进行交流。 无论如何，如果您浏览该项目，你会发现一堆长度为零字节的 .rsrc 文件。这些是损坏的资源，没有它们项目将无法编译； .rsrc 扩展名表明这些已经编译（由 Rez）。与此同时，恢复的资源位于一个大文件 all-resources.r 中，当然这是 Rez 源代码而不是编译的库。 别害怕给我留言。这个项目对我以及仍然在 Mac 上使用 Eudora 进行仿真的 2,000 多人来说都是很重要的。   由   提交 /u/Advocatus-Honestus   [链接] [评论]]]></description>
+      <description><![CDATA[早在 2019 年，计算机历史博物馆就发布了Qualcomm Eudora 6 for Mac 的 C 源代码。如果您还不知道，名为 Eudora 的两个不同的电子邮件客户端曾经并且仍然拥有一个虔诚用户群。事实上，他们是如此虔诚，以至于自 2011 年以来，他们一直在模拟运行 Mac 的原始应用程序。 （有关历史背景的说明：原始应用程序Eudora 软件（即这个软件）是一款针对 Mac 的教育软件，由 UIUC 的一个团队开发。高通公司需要为其内部邮件系统提供一个解决方案，购买了版权，并委托另一个团队为 Windows 编写一个类似的应用程序scrap，他们也将其命名为 Eudora。从 1988 年到 1998 年，这两个应用程序本质上都是 个人 电子邮件的同义词，与拨入某些大型机不同在 Carjackistan 并在那里完成所有工作 - Windows 版本仍然与 POP3/IMAP 场景中的当前播放器具有竞争力，尽管它由于法律原因必须重命名。） 无论如何，我计划召集一些人，对源代码进行一些小的更新，将应用程序的名称更改为 Eos，并将其作为适用于 Intel Mac 的 Carbon 应用程序重新发布。与（完全不相关的）Windows 应用程序不同，Eudora for Mac 是一个处于全新状态的低工作量项目，没有不令人满意的外部依赖项。 不过，经过仔细检查，结果发现代码库的存档不完整，我的联系人不再理会这件事，等等，基本上我被迫转向她的父母。很简单，对于像这样的复杂且大规模的项目，如果缺少的部分足够大，则重建该缺少的部分根本不可行。 另一方面，如果该部分被发现，那是一个完全不同的故事。这正是去年11月发生的事情。有问题的部分是整个应用程序的资源：图形资源、字符串表、作品。 我不是程序员，尤其是 C 语言程序员（我用 Lisp 编写了一些玩具程序）但这对我没有帮助）。虽然我确实想回馈社区，但事实是我只能通过二手的方式来做到这一点。因此，我在 GitHub 上建立了一个存储库，希望能找到与我一起从事该项目的人，并且我建议我们通过 此链接在 Signal 即时通讯工具上进行交流。 无论如何，如果您浏览该项目，你会发现一堆长度为零字节的 .rsrc 文件。这些是损坏的资源，没有它们项目将无法编译； .rsrc 扩展名表明这些已经被编译（由 Rez）。与此同时，恢复的资源位于一个大文件 all-resources.r 中，当然这是 Rez 源代码而不是编译的库。 别害怕给我留言。这个项目对我以及仍然在 Mac 上使用 Eudora 进行仿真的 2,000 多人来说都是很重要的。   由   提交 /u/Advocatus-Honestus    reddit.com/r/opensource/comments/1akjvo0/help_wanted_apple_mac_programmer_with_c_and/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1akjvo0/help_wanted_apple_mac_programmer_with_c_and/</guid>
       <pubDate>Tue, 06 Feb 2024 20:35:37 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[       由   提交/u/waozen  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1akdo5a/stract_open_source_web_search_engine_targeted/</guid>
       <pubDate>Tue, 06 Feb 2024 16:23:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的自定义内容过滤浏览器扩展“Mutable”现已开源！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1akaslo/my_custom_content_filtering_browser_extension/</link>
-      <description><![CDATA[https://mutable.idreesinc.com/  几个月前，我发布了 Mutable，这是一个浏览器扩展和应用程序，允许您隐藏/模糊/替换网络上包含您不想看到的文本的任何内容。现在它通过 MPL 2.0 开源，允许人们出于隐私原因透明地看到正在发生的事情，甚至如果他们出于某种原因想要添加新的解析器或功能，甚至可以让他们选择修改代码。在这里查看并告诉我您的想法：https://github.com/IdreesInc/Mutable  &lt; /div&gt;  由   提交 /u/IdreesInc   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1akaslo/my_custom_content_filtering_browser_extension/</guid>
-      <pubDate>Tue, 06 Feb 2024 14:18:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
