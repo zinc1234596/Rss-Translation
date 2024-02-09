@@ -4,7 +4,7 @@
     <title>最新提交：GPT3</title>
     <link>https://www.reddit.com/r/GPT3/new</link>
     <description>AI 文本生成技术的 Reddit 子版块</description>
-    <lastBuildDate>Thu, 08 Feb 2024 21:09:39 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Feb 2024 00:44:55 GMT</lastBuildDate>
     <item>
       <title>用于对话式 AI 的 NLP - Chris Manning 斯坦福大学 CoreNLP</title>
       <link>https://www.reddit.com/r/GPT3/comments/1am69sh/nlp_for_conversational_ai_chris_manning_stanford/</link>
@@ -50,7 +50,7 @@
     <item>
       <title>寻找浏览器扩展来自动化和优化 ChatGPT 提示</title>
       <link>https://www.reddit.com/r/GPT3/comments/1acmj57/looking_for_browser_extensions_to_automate_and/</link>
-      <description><![CDATA[有人知道提供以下功能的浏览器扩展或工具吗？  提示优化：该扩展程序可以自动优化我在 chat.openai.com 中输入的提示，以提高清晰度和有效性。理想情况下，该工具会在发送之前拦截提示，使用 AI 对其进行改进，然后发送改进后的版本。 自动化高级提示技术：可以应用各种高级提示的扩展提示技术，不仅限于思想链 (CoT)，还包括其他增强 ChatGPT 响应的连贯性和上下文相关性的技术。  浏览器兼容性和易用性：它是至关重要的是，该工具可以作为浏览器扩展无缝运行，不需要 API 密钥。   由   提交 /u/One_Yogurtcloset4083   [链接] [评论]]]></description>
+      <description><![CDATA[有人知道提供以下功能的浏览器扩展或工具吗？  提示优化：一个扩展程序，可以自动优化我在 chat.openai.com 中输入的提示，以提高清晰度和有效性。理想情况下，该工具会在发送之前拦截提示，使用 AI 对其进行改进，然后发送改进后的版本。 自动化高级提示技术：可以应用各种高级提示的扩展提示技术，不仅限于思想链 (CoT)，还包括其他增强 ChatGPT 响应的连贯性和上下文相关性的技术。  浏览器兼容性和易用性：它是至关重要的是，该工具可以作为浏览器扩展无缝运行，不需要 API 密钥。   由   提交 /u/One_Yogurtcloset4083   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/GPT3/comments/1acmj57/looking_for_browser_extensions_to_automate_and/</guid>
       <pubDate>Sat, 27 Jan 2024 22:14:57 GMT</pubDate>
     </item>
@@ -74,6 +74,13 @@
       <description><![CDATA[      完整文章： https://heycloud.beehiiv.com/p/cheaper-faster-rag-sql-layer  &lt; p&gt;https://preview.redd.it/uwlbtfq7pjec1。 png?width=4107&amp;format=png&amp;auto=webp&amp;s=02b82259db4eb75b07f0e57e3f293d0414434332   由   提交/u/hadiazouni   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/GPT3/comments/19f4kcu/cheaper_faster_rag_with_a_sql_layer/</guid>
       <pubDate>Thu, 25 Jan 2024 08:17:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 LlamaIndex 和 Ollama 在本地运行 Mixtral 8x7</title>
+      <link>https://www.reddit.com/r/GPT3/comments/19el0tw/running_mixtral_8x7_locally_with_llamaindex_and/</link>
+      <description><![CDATA[       由   提交/u/gorimur  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/GPT3/comments/19el0tw/running_mixtral_8x7_locally_with_llamaindex_and/</guid>
+      <pubDate>Wed, 24 Jan 2024 16:26:23 GMT</pubDate>
     </item>
     <item>
       <title>标志改变？</title>
@@ -102,13 +109,6 @@
       <description><![CDATA[我们发现并开发了一种新的嵌入算法，该算法比当前使用的算法快 20 倍，同时保持相同的精度水平。它将包含在即将推出的 64 位版本 POWER-KI 的 Lib AI 工具中。嵌入算法是许多人工智能和机器学习技术的基础，例如分类、项目检索、语义比较等。  这一发现意义重大，因为它允许本地嵌入（从而保护文档的机密性）并减少计算负担，从而减轻对环境的影响。 我们计划发表一篇关于以下内容的论文：在 PWK64 正式推出后的未来。  （这是预览新闻，POWER-KI 是免费的）   由   提交/u/CAP-XPLAB  /u/CAP-XPLAB  reddit.com/r/GPT3/comments/19dyqbw/powerki_64_bit_preview_ai_tools_new_embedding/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/GPT3/comments/19dyqbw/powerki_64_bit_preview_ai_tools_new_embedding/</guid>
       <pubDate>Tue, 23 Jan 2024 20:55:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mistral.AI 的 Mistral 7B - 完整白皮书概述</title>
-      <link>https://www.reddit.com/r/GPT3/comments/19d2axs/mistral_7b_from_mistralai_full_whitepaper_overview/</link>
-      <description><![CDATA[       由   提交/u/derekplates  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/GPT3/comments/19d2axs/mistral_7b_from_mistralai_full_whitepaper_overview/</guid>
-      <pubDate>Mon, 22 Jan 2024 18:19:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
