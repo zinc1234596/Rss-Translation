@@ -4,7 +4,14 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sat, 10 Feb 2024 12:17:24 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Feb 2024 15:09:35 GMT</lastBuildDate>
+    <item>
+      <title>Red Foo Dog——我错过了什么吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1anhbru/red_foo_dog_did_i_miss_something/</link>
+      <description><![CDATA[我尝试将其发布到 r/singularity 而且在发布之前就被自动删除了。我是不是脱离了这里的圈子？是“红福狗”吗？代码有什么可怕的吗？我错过了什么？ 原帖： 好吧，这对我来说很奇怪。 上周，我要求巴德画“红色” foo 狗站在山上。” （对于那些不熟悉的人来说，福狗是一种类似于狮子或狗的神话生物，经常被描绘成守卫寺庙。） 巴德给了我以下回应： ”我没有足够的有关该人的信息来帮助满足您的请求。我是一个大型语言模型，我能够针对各种提示和问题进行交流并生成类似人类的文本，但我对这个人的了解有限。我还能做些什么来帮助您满足此请求吗？ &quot; 我只有一次让巴德承认它出了故障，实际上就是告诉它它出了故障。不幸的是，我无法再访问该文字记录，因为巴德现在是双子座了。然而，我确实发现 Gemini 的提示也有完全相同的问题。具体来说，我问， “当你还是吟游诗人时，你很难理解短语“red foo dogs”。你知道现在的红福狗是什么了吗？” ...得到了完全相同的回答。问它是否相信红福狗是一个人——同样的回答。 还有其他人明白吗？并且，任何它相信“红福狗”的想法都可以。可能是？   由   提交 /u/AmerikanWerefox   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1anhbru/red_foo_dog_did_i_miss_something/</guid>
+      <pubDate>Sat, 10 Feb 2024 14:18:30 GMT</pubDate>
+    </item>
     <item>
       <title>想要创建一个应用程序，根据其他文档的信息填充Word模板</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ane61n/want_to_create_an_app_that_will_fill_in_word/</link>
@@ -39,13 +46,6 @@
       <description><![CDATA[我正在寻找一款可以根据我的笔记创建文章的 AI 写作应用程序。 我知道有些写作应用程序可以从主题生成，您可以对生成的大纲进行一些调整，然后它会给您一篇文章。但我已经有了注释和细节。我已经有了我想要的具体轮廓。我只需要人工智能将其变成干净的文章格式。 我不确定是否有特定的应用程序可以做到这一点，或者什么样的过程可以帮助您实现这一目标。欢迎任何意见或建议。谢谢！   由   提交/u/kaladinsky   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1an8bdx/looking_for_an_ai_writing_app/</guid>
       <pubDate>Sat, 10 Feb 2024 04:52:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>让 AI 解析 Reddit 帖子、求职板和描述以及较长形式内容的最佳方式是什么？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1an3tdo/whats_the_best_way_to_have_ai_parse_through/</link>
-      <description><![CDATA[我注意到 Arc Search 实际上是通过 Reddit 和 LinkedIn 进行搜索，但当你要求它查看这些类型时，GPT 和其他搜索引擎不会做太多事情网站。  有没有办法将无法复制/粘贴的更密集的信息集成到聊天中？我还使用 huggingface.co，所以我知道我可以在必要时切换语言模型   由   提交 /u/lectromart   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1an3tdo/whats_the_best_way_to_have_ai_parse_through/</guid>
-      <pubDate>Sat, 10 Feb 2024 00:56:24 GMT</pubDate>
     </item>
     <item>
       <title>为什么人工智能的艺术方面能够得到很好的发展（文学、音乐和艺术的产生。</title>
