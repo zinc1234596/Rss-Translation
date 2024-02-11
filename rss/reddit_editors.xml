@@ -4,7 +4,14 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Sat, 10 Feb 2024 21:10:43 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Feb 2024 00:51:20 GMT</lastBuildDate>
+    <item>
+      <title>QuickTime 播放器不显示正确的运行时间</title>
+      <link>https://www.reddit.com/r/editors/comments/1ansg0k/quicktime_player_does_not_display_correct_runtime/</link>
+      <description><![CDATA[问候 - 我遇到 QuickTime 播放器显示 18fps ProResHQ .mov 持续时间不正确的问题。该文件的实际运行时间为 9 分 40 秒。屏幕上的 QuickTime 播放器栏显示视频长度为 00:05:47:24。  检查器不会在任何“常规”、“视频详细信息”、“音频详细信息”或“其他轨道”部分的运行时方面报告任何内容。 MediaInfo 和 VLC 报告正确的时间 - 我还可以将文件导入 Premiere，它也可以识别正确的持续时间。我什至用秒表计时。  我知道 QuickTime 播放器存在（咳咳）“一些”问题，而且我通常不使用它/不关心它的作用，尽管我想为特定客户解决这个问题。我 100% 确信这与 18fps 帧速率有关 - 这是有意为之的，并且是在包含胶片扫描的项目中常见的广泛使用的帧速率（如此处的情况）。  有什么想法吗？ 编辑：系统规格：全部。 (Apple M1 Pro/16 GB/MacOS 14.2.1) QT 播放器：10.5   由   提交 /u/MrEtrain   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1ansg0k/quicktime_player_does_not_display_correct_runtime/</guid>
+      <pubDate>Sat, 10 Feb 2024 22:37:46 GMT</pubDate>
+    </item>
     <item>
       <title>Premiere Pro 导出的视频存在几秒钟的冻结帧和严重的压缩问题</title>
       <link>https://www.reddit.com/r/editors/comments/1ano9ip/premiere_pro_exports_videos_with_seconds_of/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[您好，作为“给刚开始发帖的人的建议”中的另一位，我想知道你们中的一些在职业生涯中取得成功的人会怎么做？不得不对那些希望在后期制作领域起步的人说。  大学毕业后，我已经在制作部门担任 PA 工作了大约一年，目前正在搬迁到洛杉矶。搬家后，我想换个方向，从事后期制作工作。现在我了解了从后期公共广播到助理编辑再到编辑的传统流程，我正在寻找后期制作公共广播的工作——最适合后期制作公司。就技能而言，我多年来一直在 Premiere 中编辑自己的项目/为朋友的项目，但我对此的基础知识仅限于此。我愿意并且想要了解更多的工作流程以及其他软件，但我担心基于我有限的技能和经验，甚至无法获得入门级工作。  我在洛杉矶有一小部分人脉，但他们更多地参与了制作方面的工作，我不一定认识在后期领域工作的人。  您会给刚刚开始的人什么建议，我应该寻找或考虑什么样的事情？我也想听听其他人的故事。感谢任何花时间对此做出回应的人。   由   提交 /u/DanglinSnoozer   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1an33vu/advice_that_you_wish_you_were_given_while/</guid>
       <pubDate>Sat, 10 Feb 2024 00:23:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>支持在家工作的技术</title>
-      <link>https://www.reddit.com/r/editors/comments/1an0x33/techniques_to_support_working_from_home/</link>
-      <description><![CDATA[您好！我想我们这里的许多人都在家办公，有时被锁在家里，社交生活比其他人少，这意味着我们必须处理家庭事务、压力、限制、工作等。您想分享一些管理日常生活的技巧吗？例如，我尝试时不时地更新我的家和我工作的房间的东西，更换植物，移动我的东西，每小时出去到阳台上呼吸新鲜空气，投资我的家以拥有漂亮的东西期待。因为我每天 24 小时都在那里度过的景色等等。   由   提交/u/ZiggyStardust_88  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1an0x33/techniques_to_support_working_from_home/</guid>
-      <pubDate>Fri, 09 Feb 2024 22:44:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
