@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Sun, 11 Feb 2024 18:13:37 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Feb 2024 03:12:23 GMT</lastBuildDate>
     <item>
-      <title>[媒体]作者的研究表明，离婚法的设计和执行可以具有重大意义[...]</title>
-      <link>https://t.me/hn_summary/73732</link>
-      <description><![CDATA[当法律使离婚更容易时，女性受益，结果改善（2019） 
-笔者的研究表明，离婚法的设计和执行可以产生重大影响。支持家庭主妇的离婚法将已婚家庭的子女教育投资增加了 4% 至 6%。离婚等待期为一年的家庭的高中入学率增加了 6%，没有离婚等待期的家庭的高中入学率增加了 10%。当法律要求支付损失的工资时，配偶的经济负担就会增加，从而赋予家庭主妇更多的议价能力。获得快速的离婚程序也很重要，因为当程序快速时，离婚威胁更可信。智利的离婚合法化带来了意想不到的积极结果，即与同居家庭相比，已婚家庭的孩子的入学率更高。与普遍看法相反，从长远来看，让离婚变得更容易并不会显着增加离婚率。总体而言，离婚法的设计可以通过将资源重新分配给家庭中最弱势的群体来造福社会和经济。]]></description>
-      <guid>https://t.me/hn_summary/73732</guid>
-      <pubDate>Sun, 11 Feb 2024 18:13:37 GMT</pubDate>
+      <title>[媒体] PyQt6 Mediator Mixin 是一个 Python 库，可增强 PyQt6 的信号槽机制 [...]</title>
+      <link>https://t.me/hn_summary/73792</link>
+      <description><![CDATA[显示 HN：PyQT6 Mediator Mixin
+PyQt6 Mediator Mixin 是一个 Python 库，它通过实现中介模式来增强 PyQt6 的信号槽机制。这种模式允许类在彼此不了解的情况下发出和接收信号，从而产生更加模块化和可维护的代码。该库的主要功能包括 PyQt6 信号中介模式的实现以及扩展自定义信号的 SignalCode 枚举的能力。作者强调，该项目与其他项目的区别在于，它提供了一种在 PyQt6 中实现中介模式的简单方法，并允许用户扩展自定义信号的 SignalCode 枚举。]]></description>
+      <guid>https://t.me/hn_summary/73792</guid>
+      <pubDate>Mon, 12 Feb 2024 03:12:23 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]文章讨论了为什么 Obsidian 这家软件公司是 100% 用户支持的，而不是 [...]</title>
-      <link>https://t.me/hn_summary/73731</link>
-      <description><![CDATA[100% 用户支持
-文章讨论了为什么 Obsidian 这家软件公司是 100% 用户支持的，而不是由风险投资 (VC) 投资者支持的。该公司希望保持规模较小，并坚持严格的原则而不妥协。他们相信用户很乐意支持他们，从而消除了对风险投资资金的需求。文章强调，虽然 Obsidian 可能不会永远存在，但在软件中创建的文件属于用户，并且可以世代相传。它还批评风险投资支持的软件通过补贴价格来获取用户、囤积用户数据，并最终不得不通过收购或上市退出。文章强调了小团队在没有投资者负担的情况下创建有原则的软件的能力。]]></description>
-      <guid>https://t.me/hn_summary/73731</guid>
-      <pubDate>Sun, 11 Feb 2024 18:12:32 GMT</pubDate>
+      <title>[媒体] Inox 项目是一个全栈开发平台，旨在简化开发 [...]</title>
+      <link>https://t.me/hn_summary/73791</link>
+      <description><![CDATA[显示 HN：Inoxlang：内置数据库、HTTP 服务器、测试和进程内容器
+Inox 项目是一个全栈开发平台，旨在简化服务器端渲染 Web 应用程序的开发、测试和部署。它提供了一种名为 Inoxlang 的沙盒编程语言，它集成了内置数据库引擎、测试引擎、HTTP 服务器和进程内容器引擎等各种组件。该项目目前为0.2版本，不适合高扩展性应用。作者计划添加自动数据库备份、日志持久化、对云提供商的支持等功能。该项目的独特之处在于提供零样板、简单的配置以及对安全性和低维护成本的关注。]]></description>
+      <guid>https://t.me/hn_summary/73791</guid>
+      <pubDate>Mon, 12 Feb 2024 03:11:20 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Stride 4.2 已发布，完全兼容 .NET 8，并利用 [...]</title>
-      <link>https://t.me/hn_summary/73730</link>
-      <description><![CDATA[宣布支持 .NET 8 的 Stride 4.2
-Stride 4.2 已发布，完全兼容 .NET 8，并利用 C# 12 中的最新增强功能。此版本在性能、稳定性和开发人员体验方面带来了显着改进。 Stride 社区在发布此版本的过程中发挥了至关重要的作用，超过 22 位贡献者提供了超过 75 项贡献。 Stride 4.2 被定位为 Unity 的可靠替代品，特别是考虑到 Unity 许可模式最近的变化。 Stride 的受欢迎程度正在上升，社区的反馈和贡献对于塑造此版本发挥了重要作用。文章还强调了Stride团队在资金和资源方面面临的挑战，并呼吁熟练的开发人员为该项目做出贡献。 Stride 4.2 的发行说明可供下载，本文概述了此版本中包含的新功能和增强功能。一个值得注意的发展是 BepuPhysics 的集成，BepuPhysics 是一个用 C# 编写的高性能物理库，它提供了 Bullet 3D 物理引擎的替代方案。本文还提到了正在进行的将 Stride Editor 从 WPF 移植到跨平台 C# UI 库 Avalonia 的项目，以增强平台支持和编辑器功能。 Stride团队对社区的支持和贡献表示感谢。]]></description>
-      <guid>https://t.me/hn_summary/73730</guid>
-      <pubDate>Sun, 11 Feb 2024 18:09:27 GMT</pubDate>
+      <title>[媒体] HackerNews Alerts Bot 是一个 Telegram 机器人，可为各种 ac [...]</title>
+      <link>https://t.me/hn_summary/73790</link>
+      <description><![CDATA[显示 HN：关注 HN 用户，在 Telegram 上接收通知
+HackerNews 警报机器人是一个 Telegram 机器人，可为 Hacker News 上的各种活动提供通知。它提供的功能包括关键字监控、关注用户、订阅话题、按域名接收故事提醒以及获取评论回复通知。用户可以设置对特定关键字的监控、关注用户以接收其帖子和评论的通知、订阅线程以获取新评论的提醒以及接收对其评论的回复的通知。该机器人还提供用于管理设置和访问信息的通用命令。作者提到，该项目通过提供广泛的通知选项和自定义功能而脱颖而出。]]></description>
+      <guid>https://t.me/hn_summary/73790</guid>
+      <pubDate>Mon, 12 Feb 2024 03:10:15 GMT</pubDate>
     </item>
     <item>
-      <title>在“Cross My Heart - A Frogger Demake in 256 Bytes”中，KilledByAPixel 呈现了独特且令人印象深刻的 [...]</title>
-      <link>https://t.me/hn_summary/73729</link>
-      <description><![CDATA[Cross My Heart – 256 字节 HTML/JS 的青蛙 Demake 
-在“Cross My Heart - A Frogger Demake in 256 Bytes”中，KilledByAPixel 展示了一款仅使用 256 字节 HTML/JS 代码创建的独特且令人印象深刻的游戏。该游戏是经典街机游戏《青蛙过河》的改版，玩家控制一颗心，必须引导它穿过一条繁忙的道路，到达顶端并进入下一关。每个级别都变得越来越难、越来越快，增加了挑战。该游戏的简单性和简约设计使其在如此有限的代码空间内取得了令人惊讶和聪明的成就。建议玩家仅使用箭头键进行移动，并避免按任何其他键或离开侧面。]]></description>
-      <guid>https://t.me/hn_summary/73729</guid>
-      <pubDate>Sun, 11 Feb 2024 17:54:16 GMT</pubDate>
+      <title>[媒体]dececkd 是专门为 Figma 设计的演示界面，允许用户 [...]</title>
+      <link>https://t.me/hn_summary/73789</link>
+      <description><![CDATA[显示 HN：Figma 的演示界面
+Decdd 是专门为Figma 设计的演示界面，让用户能够专注于他们的故事，同时将他们的设计保持在正确的位置。 Decd 拥有超过 10,000 名活跃用户，是创建视觉效果令人惊叹的演示文稿的值得信赖的工具。]]></description>
+      <guid>https://t.me/hn_summary/73789</guid>
+      <pubDate>Mon, 12 Feb 2024 03:09:11 GMT</pubDate>
     </item>
     <item>
-      <title>加利福尼亚州提出的一项新法案将要求该州所有学校教学生 [...]</title>
-      <link>https://t.me/hn_summary/73728</link>
-      <description><![CDATA[新法案将要求在加州进行基于自然拼读法的阅读教学
-加利福尼亚州提出的一项新法案将要求该州所有学校使用基于语音的方法（称为“阅读科学”）教学生阅读。该法案得到了教育政策组织 EdVoice 以及倡导组织 Decoding Dyslexia California 和 Families in Schools 的支持。虽然加州的许多学校已经使用自然拼读法，但有些学校仍然使用一种称为平衡读写或整体语言的方法。争议在于关于阅读教学的最佳方式的争论，英语学习者的倡导者担心自然拼读法可能无法满足他们独特的语言需求。该法案将要求专门为这些学生设计专业发展和课程。该法案的作者估计，培训教师将花费约 2.50 至 3 亿美元，但消除文盲将为国家带来巨大的经济效益。加州目前识字率较低，只有 43% 的三年级学生能达到年级水平的阅读能力。该法案如果获得通过，将于 2025 年生效。]]></description>
-      <guid>https://t.me/hn_summary/73728</guid>
-      <pubDate>Sun, 11 Feb 2024 17:32:07 GMT</pubDate>
+      <title>[媒体]WXT 是一个创新的开源 Web 扩展框架，彻底改变了 [...]</title>
+      <link>https://t.me/hn_summary/73788</link>
+      <description><![CDATA[显示 HN：WXT – 下一代 Web 扩展框架
+WXT 是一个创新的开源 Web 扩展框架，彻底改变了 Chrome 扩展的开发流程。借助 WXT，开发人员可以在通常所需时间的一小部分内创建功能强大且功能丰富的扩展。该框架引入了一系列尖端功能和工具，可简化开发流程，使其更快、更高效。 WXT 是 Chrome 扩展开发人员的游戏规则改变者，为他们提供了一个强大而直观的平台来创建令人惊叹的扩展。查看 wxt.dev 了解有关下一代网络的更多信息扩展框架。]]></description>
+      <guid>https://t.me/hn_summary/73788</guid>
+      <pubDate>Mon, 12 Feb 2024 03:08:07 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Xfce 开发人员已为即将发布的 Xfce 4.20 版本更新了 Wayland 路线图。</title>
-      <link>https://t.me/hn_summary/73727</link>
-      <description><![CDATA[XFCE 4.20 旨在提供可用的 Wayland 支持，同时保持 X11 兼容性
-Xfce 开发人员已为即将发布的 Xfce 4.20 版本更新了 Wayland 路线图。该计划是在不失去 X11 兼容性的情况下添加对 Wayland 的初步支持。虽然下一个主要版本可能不会提供 Wayland 上的所有现有功能，但目标是使其最低限度可用。开发人员还致力于改进他们的应用程序，使其能够在 Wayland 上正常运行。长期目标包括不依赖 XWayland、使用 wlroots Wayland 合成器库以及保持 X11 兼容性。 Xfce Wayland 计划可以在 Xfce.org Wiki 上找到在 Xfce GitLab 上跟踪。 Xfce 4.20 的发布时间表尚未确定。]]></description>
-      <guid>https://t.me/hn_summary/73727</guid>
-      <pubDate>Sun, 11 Feb 2024 17:14:58 GMT</pubDate>
+      <title>[媒体]AI-cruiter 是一款 Chrome 扩展程序，它使用大型语言模型 (LLM) 来快速匹配 [...]</title>
+      <link>https://t.me/hn_summary/73787</link>
+      <description><![CDATA[显示 HN：基于 LLM 的 Chrome 扩展程序，用于审核求职者简历&lt; /a&gt;
+AI-cruiter 是一款 Chrome 扩展程序，它使用大型语言模型 (LLM) 来快速解析和总结求职者的简历。它生成简短且有条理的简历摘要，使招聘人员能够轻松扫描并为有前途的候选人添加书签。该扩展可以在处理其他任务时使用，从而使流程更加高效。用户每月可以免费生成最多 250 个摘要，无需信用卡。 AI-cruiter 适用于所有类型的工作，并允许用户从简历中提取自定义信息。它还提供了总结工作描述的提示。该工具旨在做到公正和公平，避免分数/排名和筛选过滤器。]]></description>
+      <guid>https://t.me/hn_summary/73787</guid>
+      <pubDate>Mon, 12 Feb 2024 03:07:03 GMT</pubDate>
     </item>
     <item>
-      <title>该网页内容的作者讨论了他们的立方体设计，该立方体可以在 c [...]</title>
-      <link>https://t.me/hn_summary/73726</link>
-      <description><![CDATA[我设计了一个在角上保持平衡的立方体 
-该网页内容的作者讨论了他们的立方体设计，该立方体可以使用巧妙的控件和反作用轮在角落上保持平衡并绕其轴旋转。该设备的想法受到苏黎世联邦理工学院研究人员开发的“Cubli”的启发，但作者对其进行了改进并将其设计开源。该立方体在学习、研究甚至卫星技术方面都有潜在的应用。作者详细介绍了魔方的机械和机电设计，以及控制器的设计和调整过程。他们还提到了为跳跃动作添加机械制动器的计划。作者提供了类似多维数据集的链接，并共享其项目的源文件和文档。]]></description>
-      <guid>https://t.me/hn_summary/73726</guid>
-      <pubDate>Sun, 11 Feb 2024 17:05:51 GMT</pubDate>
+      <title>[媒体] UpgradeCLI 是一个 Go 软件包，允许开发人员轻松地将升级命令添加到 [...]</title>
+      <link>https://t.me/hn_summary/73786</link>
+      <description><![CDATA[显示 HN：UpgradeCLI：用于添加升级子的 Go pkg命令到您的 CLI
+UpgradeCLI 是一个 Go 软件包，允许开发人员轻松地将升级命令添加到其命令行界面 (CLI)。它是专门为实现 Savvy OSS CLI 的升级命令而构建的，可帮助开发人员从终端创建和共享 Runbook。该项目提供了一个代码片段，演示如何使用 UpgradeCLI 将 Savvy 升级到最新版本。它需要使用 goreleaser 并假设发布资产的某些约定。作者欢迎贡献并建议加入 Discord 上的 #upgrade-cli 频道或在 GitHub 上打开问题以获取错误报告或功能请求。]]></description>
+      <guid>https://t.me/hn_summary/73786</guid>
+      <pubDate>Mon, 12 Feb 2024 03:05:58 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 本文讨论了由 Stewart D. 领导的沃顿商学院研究。</title>
-      <link>https://t.me/hn_summary/73725</link>
-      <description><![CDATA[“婴儿半身像”：为什么越来越少的年轻人期望成为父母（ 2013）
-本文讨论了由斯图尔特·D·弗里德曼 (Stewart D. Friedman) 领导的沃顿商学院关于不同代人对工作和家庭的看法不断变化的研究。研究发现，计划成为父母的毕业生人数明显减少。弗里德曼的书《婴儿胸围：男性和女性在工作和家庭中的新选择》探讨了这种下降背后的原因。文章还强调了商界领袖和政策制定者在适应这些不断变化的态度方面所面临的挑战。它讨论了男性和女性对工作和家庭的看法差异，以及男性对职业和女性对工作中的友谊和社会价值的优先考虑的转变。 （根据故事文本的 63% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/73725</guid>
-      <pubDate>Sun, 11 Feb 2024 16:37:39 GMT</pubDate>
+      <title>[媒体]这篇研究论文探讨了开源软件（OSS）在全球经济中的价值。</title>
+      <link>https://t.me/hn_summary/73785</link>
+      <description><![CDATA[开源软件的价值
+本研究论文探讨了开源软件 (OSS) 在全球经济中的价值。作者承认，由于其自​​由和去中心化的性质，评估像 OSS 这样的非金钱产品的价值具有挑战性。他们使用来自两个来源的独特全球数据来估计广泛使用的 OSS 的供应方和需求方价值。供应方价值估计为 41.5 亿美元，而需求方价值则要大得多，为 8.8 万亿美元。该研究还表明，如果不存在开源软件，企业将需要在软件上投入更多资金。论文重点介绍了顶级编程语言以及一小部分 OSS 开发者对需求方价值的贡献。]]></description>
+      <guid>https://t.me/hn_summary/73785</guid>
+      <pubDate>Mon, 12 Feb 2024 02:54:51 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 2023 年，Twitter 和 Reddit 等社交网络开始限制对其数据的访问 [...]</title>
-      <link>https://t.me/hn_summary/73724</link>
-      <description><![CDATA[社交网络对数据越来越吝啬，向开发者关闭了大门
-2023 年，Twitter 和 Reddit 等社交网络开始限制对其数据的访问，并将第三方开发者拒之门外。 Twitter 悄然更改了开发者条款，有效地关闭了第三方应用程序，而 Reddit 则实施了 API 更改，导致多个应用程序被关闭。限制数据访问的举措是出于将人工智能训练的宝贵数据货币化的愿望。然而，一些开发者对于围绕社交网络构建体验表达了复杂的感受，并转向 Mastodon 和 Bluesky 等去中心化网络。这些网络对第三方应用程序更加开放，但它们的增长和成功将决定开发者的机会。 （根据 83% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/73724</guid>
-      <pubDate>Sun, 11 Feb 2024 16:32:34 GMT</pubDate>
+      <title>[媒体]表兄弟正在消失。</title>
+      <link>https://t.me/hn_summary/73784</link>
+      <description><![CDATA[表兄弟正在消失。这是否重塑了童年的经历？
+孩子们的表兄弟姐妹数量正在减少，这正在重塑童年的经历。社会学家和人口统计学家将这一趋势归因于生育率下降，随着时间的推移，生育率下降导致大家庭规模缩小。一项亲属关系研究预计，与 1950 年相比，到 2095 年，全球 65 岁的在世亲属数量将减少 38%。加拿大数据显示，到 2095 年，平均每名 15 岁女孩将只有 3.6 个在世的表兄弟姐妹，而 1950 年为 15.3 个表兄弟姐妹数量的下降是由于生育率下降以及更多人选择只生一个孩子或根本不生孩子等因素造成的。表兄弟姐妹在个人生活中发挥着重要作用，提供支持和陪伴。然而，表兄弟姐妹数量的减少可以通过通过友谊和选择的家庭建立大家庭来弥补。]]></description>
+      <guid>https://t.me/hn_summary/73784</guid>
+      <pubDate>Mon, 12 Feb 2024 02:30:39 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]该网页内容的作者讨论了Intel 8088处理器的总线逻辑。</title>
-      <link>https://t.me/hn_summary/73723</link>
-      <description><![CDATA[Intel 8088的完整总线逻辑
-该网页内容的作者讨论了 Intel 8088 处理器的总线逻辑。他们解释说，4 周期总线周期时间的传统模型是不完整的，并且不能准确地表示 8088 的真实总线周期时间。作者介绍了额外的 T 状态并解释了预取逻辑的工作原理。他们还讨论了预取中止的概念以及它们如何影响总线周期。作者提供了图表来说明他们的解释，并得出结论：8088 的总总线周期时间总共可以认为是 7 个周期。 （根据故事文本的 56% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/73723</guid>
-      <pubDate>Sun, 11 Feb 2024 16:05:23 GMT</pubDate>
+      <title>[媒体] OpenFPGA。</title>
+      <link>https://t.me/hn_summary/73783</link>
+      <description><![CDATA[OpenFPGA。视频游戏保存的未来
+本文讨论了保存第一款数字视频游戏 Spacewar! 的重要性，该游戏于 1962 年在麻省理工学院的 PDP-1 计算机上发布。它强调了太空战争！确立了电子游戏的基本特征和哲学方法，以及它如何受到科幻文学和电影的启发。文章还提到，PDP-1 计算机已使用 openFPGA 的开源代码重新创建，使其可以无限期地保存、研究和玩。本文鼓励读者更多地了解 PDP-1 的历史和太空战争的创造！]]></description>
+      <guid>https://t.me/hn_summary/73783</guid>
+      <pubDate>Mon, 12 Feb 2024 02:28:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
