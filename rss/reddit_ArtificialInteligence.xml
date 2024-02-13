@@ -4,7 +4,14 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Tue, 13 Feb 2024 06:15:32 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Feb 2024 09:10:38 GMT</lastBuildDate>
+    <item>
+      <title>如何使用抱脸模型？指定资源。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1app63v/how_to_use_hugging_face_models_specify_resources/</link>
+      <description><![CDATA[伙计们，我完全是一个初学者，对拥抱脸部模型、langchain一无所知，而且我不知道如何使用 Api 的 .建议我学习一些资源如何利用开源模型形成拥抱脸。我了解一些基本的Python。   由   提交/u/MetalBroad9694  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1app63v/how_to_use_hugging_face_models_specify_resources/</guid>
+      <pubDate>Tue, 13 Feb 2024 09:02:18 GMT</pubDate>
+    </item>
     <item>
       <title>谁会更快：OpenAI 生产自己的芯片还是 Nvidia 生产自己的人工智能？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1apm2tg/who_will_be_faster_openai_producing_its_own_chip/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>每日一分钟人工智能新闻 2/​​12/2024</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1aplsz4/oneminute_daily_ai_news_2122024/</link>
-      <description><![CDATA[ 英国芯片设计商 Arm Holdings 在投资者押注下，其股价在不到一周的时间里几乎翻了一番[1] 中国购物应用Temu和微软人工智能聊天机器人在超级碗广告之后位列应用排行榜榜首。[ 2] Google 扩大人工智能培训课程和培训推出企业人工智能基金。[3] 加拿大电视、电影、音乐行业要求国会议员提供针对人工智能的保护。[4]  来源包括：https://bushaicave.com/2024/02/12/2-12- 2024/   由   提交 /u/Excellent-Target-847   [链接] [评论]]]></description>
+      <description><![CDATA[ 英国芯片设计商 Arm Holdings 在投资者押注下，其股价在不到一周的时间里几乎翻了一番[1] 中国购物应用Temu和微软人工智能聊天机器人在超级碗广告之后位居应用排行榜榜首。[ 2] Google 扩大人工智能培训课程和培训推出企业人工智能基金。[3] 加拿大电视、电影、音乐行业要求国会议员提供针对人工智能的保护。[4]  来源包括：https://bushaicave.com/2024/02/12/2-12- 2024/   由   提交 /u/Excellent-Target-847   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1aplsz4/oneminute_daily_ai_news_2122024/</guid>
       <pubDate>Tue, 13 Feb 2024 05:22:45 GMT</pubDate>
     </item>
@@ -69,13 +76,6 @@
       <pubDate>Tue, 13 Feb 2024 00:38:49 GMT</pubDate>
     </item>
     <item>
-      <title>我在哪里可以找到几天前在该子论坛上流行的帖子。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1apfnv6/where_can_i_find_the_post_that_was_popular_on/</link>
-      <description><![CDATA[中间有一个黑发的人，周围漂浮着其他人的头像，背景是黄色。我相信它周围也漂浮着花朵。 我相信黑发人是 openAI 的成员之一，但我不知道    ;由   提交/u/RobotPussyRocks  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1apfnv6/where_can_i_find_the_post_that_was_popular_on/</guid>
-      <pubDate>Tue, 13 Feb 2024 00:21:34 GMT</pubDate>
-    </item>
-    <item>
       <title>思想实验：一人十亿美元公司与零人公司。</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1apckwn/thought_experiment_the_oneperson_billiondollar/</link>
       <description><![CDATA[]]></description>
@@ -85,7 +85,7 @@
     <item>
       <title>您最好的语音转文本工具是什么？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1apc0t8/whats_your_best_speechtotext_tool/</link>
-      <description><![CDATA[大家好！  我刚买了一台新电脑来玩游戏，但我最喜欢玩《城市天际线》这样的建筑游戏，现在我正在尝试一些《Enshrouded》并且也玩得很开心。 事情是：我的思绪不会停止，有时我会继续思考工作 - 通常是我想稍后记住的好主意，详细地说，它们是如何“打印”出来的。在那顿悟的那一刻，我的脑海中浮现出这样的想法。 话虽这么说，我正在寻找的是一种可以从我的声音中记下笔记的工具，以便我以后可以更好地组织和总结它。  &gt; 您的语音转文本和记笔记的首选工具是什么？   由   提交 /u/freit4z   [链接] [评论]]]></description>
+      <description><![CDATA[大家好！  我刚买了一台新电脑来玩游戏，但我最喜欢玩《城市天际线》等建筑游戏，现在我正在尝试一些《Enshrouded》，并且也玩得很开心。 事情是：我的思绪不会停止，有时我会继续思考工作 - 通常是我想稍后记住的好主意，详细地说，它们是如何“打印”出来的。在那顿悟的那一刻，我的脑海中浮现出这样的想法。 话虽这么说，我正在寻找一种可以从我的声音中记下笔记的工具，以便我以后可以更好地组织和总结它。  &gt; 您的语音转文本和记笔记的首选工具是什么？   由   提交 /u/freit4z   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1apc0t8/whats_your_best_speechtotext_tool/</guid>
       <pubDate>Mon, 12 Feb 2024 21:46:55 GMT</pubDate>
     </item>
