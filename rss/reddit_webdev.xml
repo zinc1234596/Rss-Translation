@@ -4,111 +4,111 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 14 Feb 2024 18:14:23 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Feb 2024 00:48:04 GMT</lastBuildDate>
     <item>
-      <title>Nextjs App Router - 在 Shopify 上更新数据后，使用 Shopify Storefront API 找不到 404</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aqte9d/nextjs_app_router_404_not_found_using_shopify/</link>
-      <description><![CDATA[最近，我的同事通过管理面板对 Shopify 产品进行了一些更改，添加了一个产品并删除了两个现有产品。然而，前端不是不显示已删除的产品，而是显示一个空图像，并带有类似“shopify.cdn 404 错误”之类的控制台错误消息。在 Next.js 中。此外，Shopify 管理面板上最近添加的产品没有出现在前端。 我在 Cloudflare Pages 上重试了部署（我的 Next.js 项目是使用 Edge 运行时部署的），刷新后页面，所有内容都显示为最新。我很好奇可能导致此问题的原因以及如何确保 Shopify 后端中的每个更改都能反映在前端上，而无需重试部署。在本地，后端的更改会自动反映在前端。 据我所知，GraphQL 代码很好。但以下是在 page.tsx 中使用 Storefront API Client 获取数据的代码： const Collection: NextPage = async () =&gt;; { const { 数据：{ 产品：{ 节点：产品 } }，错误：productsErrors } = 等待 client.request(GET_PRODUCTS); const { 数据：{ 集合：{ 节点：集合 } }，错误：collectionsErrors } = 等待 client.request(GET_COLLECTIONS); return (  &lt;&gt;   ;  ) }  产品数据依次传递到 客户端组件，如上所示。我指的文档是这个：https://shopify.dev/docs/api/storefront。使用 Storefront API 客户端库。   由   提交/u/1chbinamin   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aqte9d/nextjs_app_router_404_not_found_using_shopify/</guid>
-      <pubDate>Wed, 14 Feb 2024 18:06:14 GMT</pubDate>
+      <title>戏剧性的 SEO 反馈</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ar1zut/dramatic_seo_feedback/</link>
+      <description><![CDATA[我们正在与 SEO 机构合作，他们看起来非常热情，但很乐意就我们在询问 JS 缩小时得到的以下建议获得一些反馈：  &quot;建议完整主题更新和维护以及管理/PM 时间 注释：  他们的主题是仍在 Salient 12.1.2。 Salient当前版本是16.1.3 WP版本是5.5.14，当前版本是6.4.3 插件也过时了 服务器设置upload_max_filesize需要大于 post_max_size PHP 版本仍然是 7.4 最新版本的 Salient 允许添加脚本，这将消除对其代码片段插件的需要（从而减轻负载）  li&gt; 他们有 Cloudflare，但没有缓存工具 他们后面有不再需要的手动简码，包括随机手动 reCaptcha？！为什么要重新发明轮子。我们需要尽快更新此内容。   总之，主题和 WP 版本需要尽快更新，然后才能做任何事情，而且网站已经过时了，严重。  完成上述工作可能需要我们大约 9-12 个小时的工作时间。我们还需要确保插件在升级过程中支持新版本。我们当时需要探索这种风险。 如果我们不采取任何行动，那么就会出现与 Google Ads 合规性相关的风险，以及 SEO 适得其反的风险。该网站需要爱，简单！ 我们只能从网站中榨取这么多。我知道我们已经讨论重建很长时间了。我们并不是[我认为他们的意思是现在]这个网站的生命即将结束。 ”   由   提交 /u/Staghr   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ar1zut/dramatic_seo_feedback/</guid>
+      <pubDate>Thu, 15 Feb 2024 00:06:37 GMT</pubDate>
     </item>
     <item>
-      <title>重构十诫</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aqtdx7/the_ten_commandments_of_refactoring/</link>
-      <description><![CDATA[   /u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aqtdx7/the_ten_commandments_of_refactoring/</guid>
-      <pubDate>Wed, 14 Feb 2024 18:05:51 GMT</pubDate>
+      <title>嗨，我有一个请求，我不会说很简单</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ar1fqc/hi_i_have_a_request_i_wont_say_is_simple/</link>
+      <description><![CDATA[我正在寻找可以从此站点制作 webkit 的人。 http://websdr.ewi.utwente.nl:8901/m.html &lt; p&gt;函数将是： 。能够通过输入随机切换频率 。输入将基于所使用设备的传感器数据。麦克风输入不需要影响任何它只需要访问的内容 。输入将自行产生输出，从而允许工具包进行自我操作。  。我认为彻底的设置和选项是理想的，但这只是一个理想，我只想要一些功能性的东西。 如果没有人愿意花个人时间来做这件事，这是完全可以理解的，特别是因为我无法支付费用开发成本。我发帖作为学习如何开发 sdk 的替代方案。   由   提交/u/Umpire_Effective  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ar1fqc/hi_i_have_a_request_i_wont_say_is_simple/</guid>
+      <pubDate>Wed, 14 Feb 2024 23:42:13 GMT</pubDate>
     </item>
     <item>
-      <title>重叠的服务箱问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aqsnoy/overlapping_service_box_issues/</link>
-      <description><![CDATA[嗨r/webdev！ 我正在从 Google 协作平台过渡，发现了一个由 HTML Codex 制作的模板。我使用了该模板并进行了一些修改以适应我正在开发的品牌，但我一生都无法获得服务项目框，当放大超过 170% 时，文本和图标不会延伸到框之外我只用两个盒子。盒子还需要更宽，我认为这是问题的一部分。当我考虑那些通过移动设备访问该网站或某人的显示屏较小时，这是一个问题。 在几个月的时间里，我研究了这个问题并尝试更改显示 元素，将 min-width 元素以及诸如 flex-direction 之类的其他方面应用于框，但没有任何改进。唯一的小改进是在框中实现类似 font-size:1.5vw 的内容，但这还不够。使用AI工具对解决问题也无济于事。 去年我把网站放在GitHub上进行故障排除，这是可在此处获取。如果您想要视觉布局想法，可以在此处可见该网站。当您向下滚动到社区服务时，服务框位于主页上。 我的目标是让文本和图标适合服务框，并且让服务框在小屏幕上查看时自然调整（当放大浏览器时。）   由   提交 /u/XGMCLOLCrazE   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aqsnoy/overlapping_service_box_issues/</guid>
-      <pubDate>Wed, 14 Feb 2024 17:36:13 GMT</pubDate>
+      <title>托管/部署我的网络应用程序的最佳选择？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ar1f4i/best_options_to_hostdeploy_my_web_app/</link>
+      <description><![CDATA[大家好，我正在开发一个全栈应用程序，并且对托管/部署我的应用程序的最佳路线感到好奇。  技术堆栈：前端：Vite React Typescript  后端：Node Express Typescript TypeORM PostgreSQL  我之前使用 MongoDB 构建了全栈应用程序并将其托管在heroku 非常顺利。自从我使用 PostgreSQL 以来，这个过程会有多大不同？ 它也不必是 heroku，甚至不必是免费的（尽管免费就太好了） 我只是好奇如何解决这个问题。我还了解到使用 Docker 可能会有好处，但我不太熟悉它，但如果它对我的项目有意义，我会研究一下。   由   提交 /u/CodeCrazyAquile   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ar1f4i/best_options_to_hostdeploy_my_web_app/</guid>
+      <pubDate>Wed, 14 Feb 2024 23:41:30 GMT</pubDate>
     </item>
     <item>
-      <title>适用于所有浏览器的 Opus 编码和解码</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aqsbgx/opus_encoding_and_decoding_that_works_in_every/</link>
-      <description><![CDATA[嘿！ 我想我正在尝试让 ogg/opus 音频流编码/解码在每个浏览器中工作这将是某个库的 WASM 版本，直到 Safari 开始支持 WebCodecs 的音频 api。有人有这方面的经验吗？我一直在查看 https://github.com/pion/opus?tab=readme-ov-file  ，但我想要小的bunde大小，所以编译Go是行不通的。我还查看了ffmpeg并仅使用Opus编码器/解码器编译它，但似乎API使得直接使用流变得困难。然后我们有一些 C 和 Rust（实验性）实现，它们有可能被编译为 WASM。但这条路似乎并不平坦。 我想要的是录制麦克风音频并将原始音频数据转换为 ogg/opus 并使用 WebAudio APIdecodeAudioData() 方法立即播放   由   提交/u/marcus-pousette   reddit.com/r/webdev/comments/1aqsbgx/opus_encoding_and_decoding_that_works_in_every/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aqsbgx/opus_encoding_and_decoding_that_works_in_every/</guid>
-      <pubDate>Wed, 14 Feb 2024 17:22:25 GMT</pubDate>
+      <title>用于 sysadmin 项目的开源 Web 应用程序堆栈 (PHP + MySQL)</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ar050z/open_source_web_app_stack_php_mysql_for_sysadmin/</link>
+      <description><![CDATA[大家好！ 我是一名系统管理员，正在处理有关操作系统和网络服务器的任务！我需要一个用 PHP 和 MySQL 编写的带有前端的开源 Web 应用程序堆栈。 Web 应用程序堆栈当然可以是一些奇特的东西，它包含的代码越多并且编译得越好！ 你们知道我在哪里可以找到并使用这样的示例 Web 应用程序吗？或者是否有人在 GitHub 上公开了一个 webstack 项目，并且没有任何使用限制？ PS：肯定不会有内容盗窃或抄袭。在我的作业中肯定会向开发人员提供荣誉和引用！ 编辑：更清楚地说，我需要一个现成的 PHP Web 应用程序，其中已经有现成的数据库数据，我可以将其直接部署为LAMP-stack   由   提交/u/karesoul  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ar050z/open_source_web_app_stack_php_mysql_for_sysadmin/</guid>
+      <pubDate>Wed, 14 Feb 2024 22:46:07 GMT</pubDate>
     </item>
     <item>
-      <title>我正在寻找我看到的网站。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aqr8z1/im_looking_for_a_website_i_saw/</link>
-      <description><![CDATA[我正在开发一个网站，该网站保存正在填充的地铁中的涂鸦，就像历史数据库一样。我正在继续前一年另一位学生留下的内容...所以我正在尝试修复主地图页面。我浏览了我的历史记录，找不到我想要使用其中的代码的示例页面，它是一些开源网站。但我找不到它。该网站，我记不清了，但我记得它有看起来像 Roguelike 迷你地图之一的东西，左上角有小圆角方块，你也可以垂直滚动作为水平。它可能是在 ThreeJS 中，或者是 JQuery 的东西，我记得在课堂上做一个 React 项目时看过这个。 “地图”页面的问题是有一个地铁的蓝图，每个部分都有一个蓝图所述部分的重叠图像。问题是他们让它是动态的并使用网格，并且没有固定任何东西，所以如果你改变屏幕尺寸，它就会完全混乱。  如果您想要/需要该网站，我可以编辑并提供它，但我不确定它是否真的需要。这是一个学校项目，没有金钱收益。   由   提交 /u/PoiCats   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aqr8z1/im_looking_for_a_website_i_saw/</guid>
-      <pubDate>Wed, 14 Feb 2024 16:39:21 GMT</pubDate>
+      <title>无法在 Chrome (Javascript) 中加载 AIF 文件？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aqztjp/cant_load_aif_files_in_chrome_javascript/</link>
+      <description><![CDATA[有人遇到过这个问题吗？我专门用Mac。我无法使用 new Audio() 或任何使用它的库加载 AIF 文件。 AIF 文件在 Safari 中加载良好。我需要支持客户端能够加载 AIF 文件，所以有什么想法吗？   由   提交 /u/maxiedaniels   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aqztjp/cant_load_aif_files_in_chrome_javascript/</guid>
+      <pubDate>Wed, 14 Feb 2024 22:32:16 GMT</pubDate>
     </item>
     <item>
-      <title>你如何称呼“访问者”存储库？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aqqomh/how_do_you_call_the_visitor_repository/</link>
-      <description><![CDATA[您好， 我正在创建一个新的 Web 应用程序，对于 api 和后台，我有明确的名称。对于处理访问者请求的存储库，多年来我使用了不同的名称：public、frontend、portal、web... 您最喜欢哪一个？ &lt; !-- SC_ON --&gt;  由   提交/u/xavicx  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aqqomh/how_do_you_call_the_visitor_repository/</guid>
-      <pubDate>Wed, 14 Feb 2024 16:15:43 GMT</pubDate>
+      <title>需要网页设计师但不知道从哪里开始。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aqz37g/web_designer_needed_but_dont_know_where_to_start/</link>
+      <description><![CDATA[您好，我希望我能得到一些指导，了解如何找到优质的网页设计师以及正确的方法。除了他们的作品集之外，在审查潜在设计师时我还应该问哪些类型的问题？任何提示/资源将不胜感激。 编辑：我可能应该补充一点，我试图将其发布在 r/webdesign，但显然您需要积极参与该子项目才能发布问题。如果我是一名开发人员并且对设计一无所知，我认为我不会对参与该子项目提出的问题有太大帮助。这里的任何方向将不胜感激。提前谢谢您。   由   提交 /u/SlickkChickk   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aqz37g/web_designer_needed_but_dont_know_where_to_start/</guid>
+      <pubDate>Wed, 14 Feb 2024 22:00:45 GMT</pubDate>
     </item>
     <item>
-      <title>我最近被代码国家课程录取。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aqq8yv/ive_recently_been_accepted_onto_a_code_nation/</link>
-      <description><![CDATA[我正在等待合规部门的技能扫描，对此我有点紧张。有人能明白它意味着什么吗？我相当确定这只是英语测试或类似的测试。我只是想复习一下所需的技能。   由   提交 /u/Acrobatic_Step_1171   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aqq8yv/ive_recently_been_accepted_onto_a_code_nation/</guid>
-      <pubDate>Wed, 14 Feb 2024 15:58:00 GMT</pubDate>
+      <title>有多少网络应用程序或网站受到黑客攻击？ （是的，我知道具体的答案很难）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aqz1wh/how_many_webapps_or_websites_are_under_attack_by/</link>
+      <description><![CDATA[是否知道黑客或恶意用户尝试利用 Web 应用程序的弱点的频率如何？我不知道它是接近 0% 还是 100%   由   提交 /u/The_Catlike_Odin   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aqz1wh/how_many_webapps_or_websites_are_under_attack_by/</guid>
+      <pubDate>Wed, 14 Feb 2024 21:59:31 GMT</pubDate>
     </item>
     <item>
-      <title>为技术堆栈提供建议</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aqq2ar/advise_for_a_tech_stack/</link>
-      <description><![CDATA[我面临着在公司网站上实现导航（页眉和页脚）的挑战，该导航可以在任何页面上注册，无论其内容如何主机站点的技术堆栈。 ​ 当前堆栈：  Vue CLI 自定义构建目录 + Tailwind（Web 组件） Decap CMS（以前的 Netlify CMS）作为一个轻量级无头、平面文件 CMS，它包裹着 git 工作流程（在自托管的 GitLab 实例上），生成静态文件多种语言的 JSON 文件  我们能够为页眉和页脚构建单独的 Web 组件，具有不同的主题和功能特性。我们能够在注册期间将自定义道具传递给 Web 组件，即  [...]  [#shadowDom]  [...] &lt;script src=“header.min.js”&gt;&lt;/script&gt;  [...] 组件的内容是从我们与每种语言的 JS 包一起提供的静态 JSON 文件中获取的（即 en/header-A.json、fr/header-A.json、it/footer-b.json、es/footer-b.json 等） Gitlab 后端允许我们的贡献者直接使用他们的 GitLab 帐户登录，并具有维护者权限，以便获得推送访问权限。 我们将授权代码与 PKCE 流程一起使用。 ​ &lt; p&gt;我喜欢当前实现的地方是，网络组件很容易注册（设置），并且通过传递自定义道具可以高度自定义。 ​ 以下一些问题使用当前的解决方案。 ​ Decap CMS：  贡献体验较差 由于嵌套条目的数量（我们有三到四个级别的导航），对象小部件和 UI 可能会变得有点复杂 内置预览仅在您使用 React 时才起作用，没有支持其他框架，例如 Vue.js（我们在管理面板之外构建了自己的预览页面） 相当简约的 UI，自过去几年以来没有真正的改进 开源项目，社区规模相当小，即使在 Decap 接手后进展也很缓慢  别误会我的意思，我喜欢开源项目，非常感谢所有贡献者经常维护如此出色的应用程序，但现阶段该应用程序缺乏满足特定要求的成熟度。 ​ Web 组件 (Vue CLI 自定义构建目标） :  Vue CLI 现在处于维护模式，自定义构建目标尚未在 Vue 3 中继续，但我们在 Vue 中确实有自定义组件3（不知道Web组件相对于自定义组件有什么优点/缺点）  Vue CLI生成的Web组件使用shadow-dom，这对SEO不友好，并且需要搜索引擎爬虫执行JS才能遍历 Shadow-dom 相信只有 Google 和 Ask.com 能够首先执行 JS 我们注册 Web 组件的每个域都会出现 CORS 问题，因为实际的 Web 组件正在请求内容来自初始页面加载时的静态 JSON 文件，而实际文件托管在专用生产服务器上，因此我们需要将每个域列入白名单，以便允许针对 JSON 文件的请求  对于改造，我需要满足 CMS 和前端应用程序的某些要求。 ​ CMS 的要求   没有数据库 无头 内容国际化 半途而废的贡献经验 理想地围绕 git 工作流程（准确地说是 GitLab） 理想地免费 没有 PHP，理想地是 Node.js  &amp;# x200b; 前端应用程序的要求  SEO 友好 小文件大小 轻松设置 必须在任何网站上运行，无论主机的技术堆栈如何 理想情况下预渲染HTML 必须能够渲染不同的内容布局/主题和自定义功能/行为 理想情况下基于 Vue.js 等框架，没有自定义代码  ​ 考虑到所有这些限制，我发现找到合适的解决方案相当令人沮丧，因此我感谢任何建议。   由   提交/u/Prior-Ad-2710   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aqq2ar/advise_for_a_tech_stack/</guid>
-      <pubDate>Wed, 14 Feb 2024 15:50:10 GMT</pubDate>
+      <title>在尝试找到下一份开发工作时，您以什么为生？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aqz1su/what_do_you_do_for_a_living_while_trying_to_land/</link>
+      <description><![CDATA[我个人一直是自由职业者，但不追求大合同，因为一旦获得开发合同，我就必须离开他们。大多数时候，我经济拮据，但我的收入仍然与服务行业的工作一样多，甚至更多，而且更自由。 还有什么其他选择？   由   提交 /u/sateliteconstelation   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aqz1su/what_do_you_do_for_a_living_while_trying_to_land/</guid>
+      <pubDate>Wed, 14 Feb 2024 21:59:23 GMT</pubDate>
     </item>
     <item>
-      <title>寻找一个非常具体的解决方案 - 调整大小时保持焦点。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aqpwop/looking_for_a_very_specific_solution_keep_focus/</link>
-      <description><![CDATA[嘿伙计们，这里是一名 Web 开发新手。我最近制作了一个漂亮的视频浏览器页面，每个视频下方都有一堆链接，将其设置为在调整浏览器窗口大小时，显示：网格图块会增长，包括所有字体、按钮和边距。  但是一个负面的副作用是长视频列表中的当前焦点发生变化，列表向上爬行，直到我最终到达页面顶部。 我的最佳解决方案是什么在调整窗口大小时强制它“粘在”当前可见的视频列表部分？ 聊天 GPT 和谷歌搜索已被证明有点无用，也许我只是不知道实际上如何询问这个具体问题。   由   提交 /u/laacis3   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aqpwop/looking_for_a_very_specific_solution_keep_focus/</guid>
-      <pubDate>Wed, 14 Feb 2024 15:43:28 GMT</pubDate>
+      <title>将 tanstack 查询 v4 更新到 v5，弄乱了我的大部分 useQuery 回调。我怎样才能用v5重写它？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aqy5sh/updating_tanstack_query_v4_to_v5_messed_most_of/</link>
+      <description><![CDATA[我知道代码可以更好，但现在我专注于让 onSuccess 回调再次工作，因为它已被弃用。你们会怎么做呢？我还试图摆脱 useEffect :D （看起来有点难看） 这是一个搜索栏，用户可以在其中选择从日期 A 到日期 B 的查询，选择商店 (tienda)，然后按搜索 ``` 导出默认函数 ProductosVendidos() { const router = useRouter() const [fechaInicio, setFechaInicio] = useState(&#39;&#39;) const [fechaFin, setFechaFin] = useState(&#39;&#39;) const [ tienda, setTienda] = useState(&#39;todas&#39;) const [query, setQuery] = useState(false) const [buscar, setBuscar] = useState(&#39;&#39;) const { data, isError, isFetching, isLoading } = useQuery({ queryKey: [&#39;productos-vendidos&#39;, query], queryFn: () =&gt; axiosFetcher( /api/cantidad-productos-vendidos?fechaInicio=${fechaInicio}&amp;fechaFin=${ fechaFin}&amp;tienda=${tienda} )，启用：!!query, placeholderData: keepPreviousData, onSuccess: () =&gt; setQuery(false) }) useEffect(() =&gt; { if (router.query.fechaInicio &amp;&amp; router.query.fechaFin) { setFechaInicio(router.query.fechaInicio) setFechaFin(router.query.fechaFin) setTienda(router.query.tienda) setQuery(true) } }, [router.query]) if (isError) return Error; if (isFetching) return &lt;正在加载/&gt; return ( &lt;div&gt; &lt;h1 className=&quot;ml-8&quot;&gt;Productos Vendidos&lt;/h1&gt;   ;Productos Vendidos    { e.preventDefault() router.push({ query: { fechaInicio, fechaFin, tienda } }) setQuery(true) }} &gt; ... ```    提交者    /u/gmcamposano   [链接]   ; [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aqy5sh/updating_tanstack_query_v4_to_v5_messed_most_of/</guid>
+      <pubDate>Wed, 14 Feb 2024 21:21:26 GMT</pubDate>
     </item>
     <item>
-      <title>如何将现有目录邮件列表集成到新的电子商务注册中</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aqnz15/how_to_integrate_existing_catalogue_mailing_list/</link>
-      <description><![CDATA[你好。我在一家营销机构担任数字顾问，在审查客户的网站（不是我们开发的）时遇到了以下问题，我希望有人可以帮助我找出如何适当（且巧妙）解决的问题。&lt; /p&gt; 我们管理客户的纸质目录已有一段时间了。目录的每个客户都有一个帐户代码。最近，客户决定将纸质目录放到网上，开始接受网络订单。当有人去结帐时，它会询问他们是否是现有的目录客户。如果您单击“是”，它将显示一个示例目录标签的图像，其中突出显示了客户帐号，以及一个用于输入您的帐号的空白字段。如果您成功输入该号码，您的所有客户信息都会填充到新帐户中。这对我来说是隐私和安全的危险信号，因为拥有随机数生成器的黑客可以轻松提取他们的整个客户数据库，如果他们成功注册该帐户，他们还可以提取所有以前的订单信息。 我绞尽脑汁试图找出一种不同的方法来自动将新帐户注册链接到现有帐户，但我能想到的最好的方法是让在网站上注册的人拥有他们的最后一个帐户姓名、帐号和现有电子邮件或手机，用于发送短信验证码以验证该人的身份。然而，客户表示，他们只有大约 10% 的客户的电子邮件地址，而且数据库中的电话号码可能并不都是手机。 如有任何想法，我们将不胜感激。谢谢！ ​   由   提交 /u/quietpilgrim   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aqnz15/how_to_integrate_existing_catalogue_mailing_list/</guid>
-      <pubDate>Wed, 14 Feb 2024 14:20:26 GMT</pubDate>
+      <title>说到对开发角色的高期望......</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aqxum6/speaking_of_high_expectations_for_dev_roles/</link>
+      <description><![CDATA[在看到最近一篇关于对新开发职位的高/多样化期望（我已经同意）的帖子后，我在确实：https://uk.indeed.com/viewjob?jk=eab057c1a33aaf6e&amp;tk  我从未见过如此明目张胆的危险信号，表明无论谁不幸担任这个角色，他们都要对一切负责。这个初级职位不仅需要 2 年的现有经验（在这方面还具有低价报价），我最喜欢的部分是“其他任务可能包括”部分： -- 其他任务可能包括但不限于：  研究并检查当前系统 =&gt;分析现有产品和解决方案并确保质量。 与用户交谈以了解他们的需求=&gt;组织和记录需求，将解决方案架构师文档计划放在一起。 商定提案和时间表 =&gt;根据项目需求提供和开发实际的时间尺度估计 开发解决方案，=&gt; QA 团队成员输出、自动化编写并进行测试。 进行适当的修改。 =&gt;对现有实时系统进行调查和实施适当的修复 软件开发人员还可能负责用户培训、支持和反馈。 =&gt;软件开发人员还可能负责提供直接的用户帮助，并在需要时提供支持 这项工作有时可能会带来一些按时完成任务的压力，因为可能需要加班。 =&gt;有些项目可能涉及高压目标和截止日期。有时需要额外的时间才能按时交付。  其他职责 ​  如果需要，帮助支持系统，并现场支持用户的电话。 遵守作者：Allan Webb 公司政策和程序  另请注意，初级开发人员将在支持决策的开发团队中工作。 青少年将在前 6 个月内获得一名团队导师的指导，并制定商定的职业发展计划来努力实现。 -- 所以，我的理解是，初级开发人员也将是：  质量保证测试员 业务分析师 A解决方案架构师 员工/用户培训师 IT 支持  毕竟，成为首席开发人员（因为他们将“决策”）制作”）。 ...并且在毫无疑问需要时加班来执行所有这些任务。 出于多种原因，我个人认为这是疯狂的。好奇其他人的想法是什么？   由   提交/u/Dameech  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aqxum6/speaking_of_high_expectations_for_dev_roles/</guid>
+      <pubDate>Wed, 14 Feb 2024 21:08:08 GMT</pubDate>
     </item>
     <item>
-      <title>使用 Sentry 的新源映射方法提高 Web 可观察性</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aqnobp/improving_web_observability_with_sentrys_new/</link>
-      <description><![CDATA[   /u/alexey2021   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aqnobp/improving_web_observability_with_sentrys_new/</guid>
-      <pubDate>Wed, 14 Feb 2024 14:06:37 GMT</pubDate>
+      <title>用于面试的 DSA 仍然是一项值得的投资吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aqxe7m/is_dsa_for_interviews_still_a_worthwhile/</link>
+      <description><![CDATA[几年没做过面试了，练习DSA题还有用吗？   由   提交 /u/gotgel_fire   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aqxe7m/is_dsa_for_interviews_still_a_worthwhile/</guid>
+      <pubDate>Wed, 14 Feb 2024 20:48:33 GMT</pubDate>
     </item>
     <item>
-      <title>定位 css bg 中的特定图像以使用滑块移动</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aqmx3t/targeting_specific_images_within_css_bg_to_move/</link>
-      <description><![CDATA[所以我目前正在我的网站上工作，其中有 4 张图片： Image1：背景  Image2：要移动的元素 Image3：遮罩使其看起来更漂亮 Image4：需要位于遮罩上方的元素的其他部分 i设置一个滑块，使用 js 可以通过其类名来定位 img 2 并向下移动，一切都很好。现在我发现自己陷入了困境，因为该网站在移动设备上看起来很糟糕，所以我得出的结论是，所有图像都需要采用不同的尺寸（更像肖像）才能在移动设备上查看。  好吧，我编辑了图像，现在的问题是，根据我的研究，即使我隐藏移动设备的网络图像，它仍然会下载这些图像。为了优化（我认为），我决定将所有内容放入整个部分容器中，并将所有图像设置为背景。现在我可以为移动设备和桌面设备提供不同的图像，但是当谈到优化 js 时，我意识到这可能不像我想象的那么容易。  之前我的js是这样的：  document.addEventListener(&quot;DOMContentLoaded&quot;, function() { var slider = document.getElementById(&#39;myRange&#39;); var image = document.querySelector(&#39;.car&#39;); slider.addEventListener(&#39;input&#39;, function() { var newPositionVh = (parseInt(this.value) * 1.5) / 100; image.style.transform = &#39;translateY(&#39; + newPositionVh + &#39;vh)&#39;; });  }); 但是我如何定位 css 类的 4 个背景之一而不是全部一次 ？这可能吗？   由   提交/u/cleronfx  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aqmx3t/targeting_specific_images_within_css_bg_to_move/</guid>
-      <pubDate>Wed, 14 Feb 2024 13:30:53 GMT</pubDate>
+      <title>现在融入Web开发领域还来得及吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aqwzf1/is_it_too_late_to_integrate_into_web_development/</link>
+      <description><![CDATA[您好，我目前正在学习前端，并且已经学习了 1.5 年。我目前正在学习 React 更复杂的部分。但这一直对我造成影响，只是看到这个领域已经变得多么饱和，我正在慢慢改变我对未来的愿景，但我不确定该做什么。我还在读高中，计划学习计算机科学，并计划成为一名软件工程师。 我的问题是：如果我从事 Web 开发人员（前端）职业，是否太晚了？首先，然后尝试提高我的知识以达到全栈职位），或者我应该转向软件工程的其他部分？如果应该的话，我可以开始学习什么？   由   提交 /u/shangarepi   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aqwzf1/is_it_too_late_to_integrate_into_web_development/</guid>
+      <pubDate>Wed, 14 Feb 2024 20:31:12 GMT</pubDate>
     </item>
     <item>
-      <title>是否限制宽显示器上英雄背景图像的最大宽度？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aqltmo/limit_maxwidth_for_hero_background_images_on_wide/</link>
-      <description><![CDATA[      嗨，我有兴趣听听你们是否通常限制最大宽度如果该部分不是 100vh，则您的英雄部分背景图像适用于更宽的显示器。如果最大宽度不受限制，它们会伸展并因此被放大（背景大小：封面）。 我看到两种解决方案： 要么使用看起来不错的图像，即使放大。限制英雄部分的最大宽度，使其仅覆盖较宽显示器上的特定像素范围。 您通常选择什么？或者你通常会考虑这一点吗？如果您喜欢限制宽度，通常会将其限制为 1920 像素或更宽吗？ 下面的示例草图！ 左：全角图像，右：限制最大宽度   由   提交 /u/Philosofen   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aqltmo/limit_maxwidth_for_hero_background_images_on_wide/</guid>
-      <pubDate>Wed, 14 Feb 2024 12:33:12 GMT</pubDate>
+      <title>拥有域名并转发到其他地方的最佳网站？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aqwjlr/best_site_for_owning_a_domain_and_forwarding/</link>
+      <description><![CDATA[目前在 godaddy 工作，在将域名转发到其他地方时遇到困难。 妻子是一名房地产经纪人，并以她的名字作为域名：www.wifename.com，并且只想将其转发到www.wifecompanyname.com/wifename。 DNS 搞乱了，现在一切都被搞砸了，并且对 godaddy 的支持感到沮丧。 那么我应该将我们的域名移到哪里来简单地转发它，我每年应该支付什么费用？   由   提交 /u/iareagenius   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aqwjlr/best_site_for_owning_a_domain_and_forwarding/</guid>
+      <pubDate>Wed, 14 Feb 2024 20:12:53 GMT</pubDate>
     </item>
     <item>
-      <title>新旅行社网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aqlhoa/new_travel_agency_website/</link>
-      <description><![CDATA[大家好， PHP、Lamp、AWS、Asp.Net、Nodejs 等...所有这些都将继续存在通过我们  我们是一家旅行社，正在寻找一个新网站，过去我们只是与一位设计精美的开发人员交谈并付钱给他，但现在他们都坚持认为这些工具是他们的使用是最好的。 我们必须使用GDS认可的开发者，因为不使用的成本太高。我们真正想知道的是哪种编程语言最适合：  我们处理大量消费者数据，因此安全性非常重要 如今网页速度非常重要对于 SEO，所以我们希望使用“堆栈”在这方面这不会杀死我们。 我们所有的价格都在不断更新，所以我相信这是一个“动态网站”。因为实时数据是从我们的 GDS 中提取的。 过去，我们一直提供 CMS 系统，以便我们可以编写博客、上传新图像等  谁能给出一个粗略的指导，告诉我们在寻找公司时应该寻找哪些编程语言/数据库。   由   提交/u/LeftImplement9730   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aqlhoa/new_travel_agency_website/</guid>
-      <pubDate>Wed, 14 Feb 2024 12:14:40 GMT</pubDate>
+      <title>我需要进行健全性检查：XSS</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aqwj6v/i_need_a_sanity_check_re_xss/</link>
+      <description><![CDATA[我们正在尝试增强一个应用程序的安全性。我们有接受输入并将数据发送到后端进行存储的表单。我们无法将字段中的值直接嵌入到 DOM 中。  对于特定字段，我们发送 hello&lt;&gt; 并将其存储在数据库中作为 hello&amp;#60;&amp;#62;&lt; /code&gt; 当我们重新加载实体详细信息时，我们从后端将该值返回到前端，如下所示 hello&amp;#60;&amp;#62; 我被要求“unencode”该文本使得文本框中的值再次显示为 hello&lt;&gt; 。  我的 Google-fu 在这方面让我失望，但我所知道的一切都表明文本框只显示原始文本，不需要“转义”，这样的要求根本没有意义。相反，我们应该首先从后端获取 hello&lt;&gt;。但我对 XSS 问题也不太擅长，所以我对自己进行了重新猜测。解决这个问题最合适的方法是什么？如有任何帮助，我们将不胜感激。   由   提交 /u/AttackOnGolrk   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aqwj6v/i_need_a_sanity_check_re_xss/</guid>
+      <pubDate>Wed, 14 Feb 2024 20:12:23 GMT</pubDate>
     </item>
     <item>
-      <title>我将如何创建像这个交互式网站介绍这样的东西。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aqlh1k/how_would_i_go_about_creating_something_like_this/</link>
-      <description><![CDATA[https://learninglinksindia.org/   由   提交/u/franklinscntryclb   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aqlh1k/how_would_i_go_about_creating_something_like_this/</guid>
-      <pubDate>Wed, 14 Feb 2024 12:13:40 GMT</pubDate>
+      <title>先学 EJS + Express 再学 React？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1aqvs6b/learn_ejs_express_before_react/</link>
+      <description><![CDATA[我了解 html、CSS 和 JS，但我想知道在深入研究 React 之前学习 EJS 和 Express 是否有益。我所说的学习确实是指构建一些项目。我知道我不一定需要 React，而且我知道 React 使 EJS 所做的很多事情变得更加容易。 但是，我想知道使用 EJS 和 Express 进行构建是否会让我理解 React 的作用做得更好，而且周围的一切都让我变得更好。 这是一种较慢的方法，我知道这两种方法都可能不会让我被雇用，但我是从学习的角度来考虑的。 想法？   由   提交 /u/Thebrokentech   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1aqvs6b/learn_ejs_express_before_react/</guid>
+      <pubDate>Wed, 14 Feb 2024 19:41:23 GMT</pubDate>
     </item>
     </channel>
 </rss>
