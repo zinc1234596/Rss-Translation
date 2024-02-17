@@ -4,7 +4,35 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sat, 17 Feb 2024 12:16:50 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Feb 2024 15:10:37 GMT</lastBuildDate>
+    <item>
+      <title>人工智能何时能够准确复制虚拟艺术家的风格/会让他们“被遗忘”？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1at1l3x/when_will_ai_be_able_to_exactly_copy_virtual/</link>
+      <description><![CDATA[人工智能需要多长时间才能准确复制某些艺术家的艺术风格，这将如何影响他们的工作？   由   提交 /u/MoiShii   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1at1l3x/when_will_ai_be_able_to_exactly_copy_virtual/</guid>
+      <pubDate>Sat, 17 Feb 2024 13:08:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>双子座1.5的1M上下文长度之谜</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1at0scb/1m_context_length_mystery_of_gemini_15/</link>
+      <description><![CDATA[我正在思考 Gemini 1.5 pro 的 1M 上下文长度之谜。如何在不面临二次时间复杂度问题的情况下做到这一点？我相信我们正在谈论 32 位专家，每个专家都有 32k 上下文。这将打破二次需求，同时仍然允许获得“大海捞针”的准确性。这有意义吗？   由   提交 /u/Honest_Science   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1at0scb/1m_context_length_mystery_of_gemini_15/</guid>
+      <pubDate>Sat, 17 Feb 2024 12:23:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人可以给我一些有关人工智能帐户的寻找建议吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1at0rjf/can_someone_give_me_some_recommendations_on_what/</link>
+      <description><![CDATA[我想获得一些关于如何查看帐户是否为 AI/a #chatbot 的建议？区分真实与人工智能变得越来越困难。我只是觉得我消息灵通不够。谢谢   由   提交 /u/Hairy-Nerve6844    reddit.com/r/ArtificialInteligence/comments/1at0rjf/can_someone_give_me_some_recommendations_on_what/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1at0rjf/can_someone_give_me_some_recommendations_on_what/</guid>
+      <pubDate>Sat, 17 Feb 2024 12:22:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能爆发后，你是否曾后悔选择大学专业？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1at0nyx/have_you_ever_regretted_choosing_your_major_in/</link>
+      <description><![CDATA[在大学二年级，我主修数学，我对绘画产生了浓厚的兴趣。遗憾的是，由于种种原因，我没有去追求。然而，当我看到一篇关于使用计算力学来模拟流体和软体来创建逼真动画的文章时，我对艺术的热情被重新点燃。这不仅重新点燃了我从事艺术的梦想，而且引导我走向计算数学，专注于模拟物理世界。 到了我大四的时候，ChatGPT 的发布让我质疑了我所接受的教育的价值。编程。我担心人工智能会轻易取代我的技能，让我陷入深深的绝望，我什至考虑去另一所大学学习一些我认为人工智能几十年都无法取代的东西，比如护理或车辆维修。我还记得我差点自杀当时 然而，第二学期出现了转机，一位教授要求我编写Python代码来模拟流体动力学。我很快意识到，GPT-4 尽管功能强大，但经常生成不正确的代码，甚至无法调试小问题。这次经历让我认识到，当前的人工智能技术并不像我担心的那样万能。 毕业后，我决定继续深造模拟和计算力学，这是我最初梦想创造现实的动力。动画。我开始学习Houdini，一个强大的视觉效果软件，经过两个月的学习，一个名为Sora的新AI工具发布了。与我最初对 ChatGPT 的反应不同，我以成熟的视角接触 Sora，了解许多效果需要精确的程序生成和编码。传统的文本转视频ai对此无能为力，我意识到如果你想让chatgpt来编写这些代码，那么这就像是用英语重新表述你的算法一样提示，它不能节省太多时间，同样，像稳定扩散这样的工具已经变得复杂，需要大量的培训才能制作出美丽的艺术品。 十年后，我相信人工智能工具将继续发展，需要更复杂的培训才能有效使用。所以我不认为这会让视觉效果艺术家变得过时。我不再像以前那样整天惊慌失措，而是将其视为新工具并不断学习新事物。   由   提交 /u/Canada_LBM   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1at0nyx/have_you_ever_regretted_choosing_your_major_in/</guid>
+      <pubDate>Sat, 17 Feb 2024 12:17:04 GMT</pubDate>
+    </item>
     <item>
       <title>“寻求企业主进行人工智能集成调查 - 分享见解，共同受益！”</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1at0h9m/seeking_business_owners_for_ai_integration_survey/</link>
@@ -27,13 +55,6 @@
       <pubDate>Sat, 17 Feb 2024 10:38:47 GMT</pubDate>
     </item>
     <item>
-      <title>具有语音聊天功能的免费聊天机器人？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1asx62u/free_chatbot_that_has_voice_chat_ability/</link>
-      <description><![CDATA[有哪些像样的免费聊天机器人可以双向语音聊天（最好是 nsfw）？ 我不需要图像一代人，因为我有其他方法。  大多数聊天只有文字聊天。有些聊天有语音生成，但听不到我们说的话。 一些这样做的例子：muah.ai、candy.ai、character.ai。   由   提交 /u/ficoreki   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1asx62u/free_chatbot_that_has_voice_chat_ability/</guid>
-      <pubDate>Sat, 17 Feb 2024 08:26:17 GMT</pubDate>
-    </item>
-    <item>
       <title>NeuralGPT - 为分层协作多代理框架制作（主要）功能性多页面 Streamlit 接口..</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1asw8xp/neuralgpt_maklng_a_mostly_functional_multipage/</link>
       <description><![CDATA[ 由   提交 /u/killerazazello   [链接] [评论]]]></description>
@@ -48,13 +69,6 @@
       <pubDate>Sat, 17 Feb 2024 06:27:11 GMT</pubDate>
     </item>
     <item>
-      <title>未来，针对以基础设施为中心的人工智能，是否会有类似 Nightshade 的产品？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1asv8xg/will_there_be_a_nightshade_equivalent_for/</link>
-      <description><![CDATA[在观看 Sora 视频时就想到了这一点。这只是对未来的假设，虽然很遥远，但我认为仍然很有趣。 我读了一篇论文/博客，展示了一个人可以多快地毒害受过公共艺术培训的法学硕士，而本质上你可以得到它从中毒的猫图片中输出一只狗（或多或少）。 这让我思考...... 无论好坏，最终人工智能将在包括基础设施在内的所有行业中无处不在。我想，在某个时候，我们也会弄清楚如何毒害这些人工智能模型。 现在假设世界仍然由竞争性的、交战的民族国家组成……  p&gt; 这似乎是敌对国家会试图（并且很可能以某种方式成功）毒害对方基于基础设施的人工智能的原因。 本质上是试图让另一个国家的人工智能伤害其公民。 。无论是物理上、经济上还是后勤上，等等。 并且说这种情况发生了 - 病毒往往不会像 Stuxnet 那样受到控制。斯塔克纳最终感染了许多意想不到的系统。因此，这种中毒开始渗透到每个人的人工智能中。 这是我们实现终结者/矩阵式存在的最合理方式吗？ 人类无法正确解释外部性的典型傲慢态度再加上我们抵制停止为了统治而互相残杀？ 我知道这只是周五晚上的瘾君子的想法 - 你不会错的哈哈。但尽管如此，这只是我最近的一个新想法，似乎值得思考。   由   提交 /u/DisingenouslyTowel   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1asv8xg/will_there_be_a_nightshade_equivalent_for/</guid>
-      <pubDate>Sat, 17 Feb 2024 06:22:14 GMT</pubDate>
-    </item>
-    <item>
       <title>为什么这么多人否认人工智能取代工作？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1asu9eu/why_are_so_many_people_in_denial_about_ai/</link>
       <description><![CDATA[这对于 Twitter 上的艺术家来说尤其明显。他们对人工智能可以在几秒钟内创作出比几周内更好的艺术感到非常兴奋。我从某些人那里看到的关于人工智能的心理体操之多令我震惊。人们怎么会看不到不祥之兆呢？   由   提交 /u/-__fuck__reddit__-   [链接] [评论]]]></description>
@@ -62,11 +76,11 @@
       <pubDate>Sat, 17 Feb 2024 05:23:50 GMT</pubDate>
     </item>
     <item>
-      <title>每日一分钟人工智能新闻 2/​​16/2024</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1astcef/oneminute_daily_ai_news_2162024/</link>
-      <description><![CDATA[ Reddit 在 IPO 前与人工智能公司签署内容许可协议。[1] 特朗普抱怨人工智能让他在打高尔夫球时看起来很胖。[2] OpenAI完成的交易使公司估值达到 800 亿美元。 [3] Google 有一个名为“Goose”的大型内部语言模型，旨在提高员工的工作效率。[4]  来源包括：https://bushaicave.com/2024/02/16/2-16- 2024/   由   提交 /u/Excellent-Target-847   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1astcef/oneminute_daily_ai_news_2162024/</guid>
-      <pubDate>Sat, 17 Feb 2024 04:32:16 GMT</pubDate>
+      <title>修改后的RTX 2080 Ti 22 GB拟用作AI加速器</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1asp5ho/modified_rtx_2080_ti_22_gb_are_proposed_to_be/</link>
+      <description><![CDATA[中国人注意到人工智能的发展速度，将 1 GB GDDR6 芯片重新焊接到 2 GB 版本，这使得 2080 Ti 22 gig GPU ，赋予 RTX Turing 旗舰产品第二次生命。 修改后的 RTX 2080 Ti 定位为人工智能任务的经济型解决方案，例如处理大型语言模型。   由   提交 /u/Puzzled-Vacation9470    reddit.com/r/ArtificialInteligence/comments/1asp5ho/modified_rtx_2080_ti_22_gb_are_propose_to_be/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1asp5ho/modified_rtx_2080_ti_22_gb_are_proposed_to_be/</guid>
+      <pubDate>Sat, 17 Feb 2024 01:03:24 GMT</pubDate>
     </item>
     <item>
       <title>无提示的思维链推理</title>
@@ -76,28 +90,14 @@
       <pubDate>Sat, 17 Feb 2024 00:11:20 GMT</pubDate>
     </item>
     <item>
-      <title>我的朋友劳埃德一定会很兴奋。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1asnhla/my_friend_lloyd_would_be_so_excited/</link>
-      <description><![CDATA[我的朋友 Lloyd 在人工智能学校，非常有动力，非常聪明。我们出去玩了一晚，他要做的所有事情都让我大吃一惊。  不幸的是，他被一位嫉妒的丈夫开枪打死，我不会详细说明，但请相信我，当我说劳埃德是一个特殊的人，他不值得发生在他身上的事情时。 他会对人工智能所取得的进步感到非常兴奋。   由   提交/u/exciter706  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1asnhla/my_friend_lloyd_would_be_so_excited/</guid>
-      <pubDate>Fri, 16 Feb 2024 23:49:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>十年后我们可以期待什么样的人工智能革命？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1asn8l3/what_kind_of_ai_revolutions_could_we_expect_10/</link>
-      <description><![CDATA[我想知道10年内会发生什么样的创新革命。您认为哪些行业受影响最大？会发生什么样令人难以置信的革命？哪一个最让你印象深刻？   由   提交 /u/JessicaBuccheri   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1asn8l3/what_kind_of_ai_revolutions_could_we_expect_10/</guid>
-      <pubDate>Fri, 16 Feb 2024 23:38:44 GMT</pubDate>
-    </item>
-    <item>
       <title>为什么人类在做机器人的工作，而人工智能正在接管人类的工作？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1aslxam/why_are_humans_doing_the_robotic_work_while_ai_is/</link>
-      <description><![CDATA[你们都看过 Sora 的公告，如果这还没有发生，那么 Sora 就会意识到人工智能正在真正以天文数字的速度进步步伐。这种威胁有很多原因，但至少是娱乐行业的每个人。在这一点上，人工智能在某种程度上取代人类艺术几乎是不可避免的，而且在小范围内它已经做到了。为什么我们决定采用人工智能的方向？我们本可以努力让人工智能在医学或恶劣的劳动条件方面提供帮助，但我们的目标是娱乐业？为什么？我知道水印不会有太大帮助，但说真的，需要有一种真正的方法来判断某些东西是否是人工智能生成的，并且需要在我们仍然有这种选择的情况下迅速发明它。天啊，这听起来太科幻了，我简直不敢相信这是真的。   由   提交/u/ekopwolston  [链接] [评论]]]></description>
+      <description><![CDATA[你们都已经看到了 Sora 的公告，如果这还没有发生，那么 Sora 就会意识到人工智能正在真正以天文数字的速度进步步伐。这种威胁有很多原因，但至少是娱乐行业的每个人。在这一点上，人工智能在某种程度上取代人类艺术几乎是不可避免的，而且在小范围内它已经做到了。为什么我们决定采用人工智能的方向？我们本可以努力让人工智能在医学或恶劣的劳动条件方面提供帮助，但我们的目标是娱乐业？为什么？我知道水印不会有太大帮助，但说真的，需要有一种真正的方法来判断某些东西是否是人工智能生成的，并且需要在我们仍然有这种选择的情况下迅速发明它。天啊，这听起来太科幻了，我简直不敢相信这是真的。   由   提交/u/ekopwolston  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1aslxam/why_are_humans_doing_the_robotic_work_while_ai_is/</guid>
       <pubDate>Fri, 16 Feb 2024 22:42:17 GMT</pubDate>
     </item>
     <item>
-      <title>新的反垃圾邮件/机器人规则 [请阅读]</title>
+      <title>新的反垃圾邮件/机器人规则[请阅读]</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/115jk6q/new_antispam_bot_rules_please_read/</link>
       <description><![CDATA[我们制定了一条规则，新帐户一天以上或 karma 低于 100 的用户不能发帖。他们可以发表评论，但不能提交实际的帖子。这是我们解决机器人垃圾邮件计划的一部分。对于给您带来的任何不便，我们深表歉意。 我们将在接下来的几天内进行一项民意调查，以了解 Reddit 子版块的普遍意愿以及如何改进，请注意。 作为请始终向我们提供反馈，如果您有兴趣帮助该子项目，请与我联系。  谢谢大家！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/115jk6q/new_antispam_bot_rules_please_read/</guid>
