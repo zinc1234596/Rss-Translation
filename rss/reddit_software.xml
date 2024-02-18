@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sun, 18 Feb 2024 00:51:10 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Feb 2024 03:12:06 GMT</lastBuildDate>
+    <item>
+      <title>寻求人工智能文章摘要器</title>
+      <link>https://www.reddit.com/r/software/comments/1athfh5/seeking_an_ai_article_summarizer/</link>
+      <description><![CDATA[大家好， 我正在寻找一个基于人工智能的文章摘要器（一个可以提供 url 或chrome/firefox 扩展）可以帮助我快速有效地处理信息。作为一名学生，我正在寻找免费或负担得起的选择。以下是我正在寻求的关键功能  该工具应在不牺牲重要细节的情况下抓住文章的精髓。 理想情况下，我更喜欢免费服务。不过，如果预算友好的付费选项能提供显着的价值，我愿意接受。  我已经尝试过：  TLDR 这：  有时太简短，缺乏关键的细微差别。 Kagi Summarizer： 出色的结果，但不幸的是与他们的付费搜索服务相关。 学术性：提供各个部分的结果。各个部分太简短，阅读所有部分会花费太长时间。  您能否建议一些替代方案？我渴望找到一种有效的方式来了解情况而又不花太多钱。   由   提交 /u/rusty Electron   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1athfh5/seeking_an_ai_article_summarizer/</guid>
+      <pubDate>Sun, 18 Feb 2024 00:53:13 GMT</pubDate>
+    </item>
     <item>
       <title>创始人，我提供免费的销售和营销咨询</title>
       <link>https://www.reddit.com/r/software/comments/1ategqp/founders_im_offering_free_sales_marketing/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[嗨，我正在寻找一款具有深色模式画布的白板软件，其功能如下：ctrl + z，擦除全部内容并擦除部分书写内容。&lt; /p&gt;   由   提交/u/_Arthxr  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1asquzu/paint_alternative_with_dark_mode_canvas/</guid>
       <pubDate>Sat, 17 Feb 2024 02:23:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>有什么软件可以将你的电脑变成文件服务器吗？</title>
-      <link>https://www.reddit.com/r/software/comments/1asp8p9/any_software_that_changes_your_pc_to_a_file_server/</link>
-      <description><![CDATA[Windows 10   由   提交 /u/solidprospect   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1asp8p9/any_software_that_changes_your_pc_to_a_file_server/</guid>
-      <pubDate>Sat, 17 Feb 2024 01:07:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
