@@ -4,7 +4,70 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 17 Feb 2024 21:09:36 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Feb 2024 00:51:41 GMT</lastBuildDate>
+    <item>
+      <title>PHP CMS 比较 #3 - 大小和性能</title>
+      <link>https://www.reddit.com/r/webdev/comments/1atgufo/php_cms_comparisons_3_size_and_performance/</link>
+      <description><![CDATA[    /u/distantnative   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1atgufo/php_cms_comparisons_3_size_and_performance/</guid>
+      <pubDate>Sun, 18 Feb 2024 00:25:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>我正在构建一项服务，允许应用程序开发人员创建帐户删除页面</title>
+      <link>https://www.reddit.com/r/webdev/comments/1atgshd/i_am_building_a_service_that_allows_app/</link>
+      <description><![CDATA[       由   提交/u/randomGuy23999  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1atgshd/i_am_building_a_service_that_allows_app/</guid>
+      <pubDate>Sun, 18 Feb 2024 00:23:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>是否可以将我的 Substack feed 集成到我的网站中？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1atg5j1/is_it_possible_to_integrate_my_substack_feed_into/</link>
+      <description><![CDATA[这可能是一个菜鸟问题。我白天是一名财务人员，致力于为自己创造一些东西。请放轻松。 我正在构建我的第一个网站。我对该网站的宏伟愿景的一部分是将我的 Substack 文章嵌入到该网站的博客页面上并可供查看。 这可能吗？我在 Substack 上创建的新文章会自动出现在我的网站上吗？ 这些文章会出现在网站本身内还是会打开到 Substack 页面？ 我相信这需要嵌入 Substack 代码进入网站代码？   由   提交/u/thisjustin93  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1atg5j1/is_it_possible_to_integrate_my_substack_feed_into/</guid>
+      <pubDate>Sat, 17 Feb 2024 23:53:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于政府合同或 rfps 的奇怪问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1atfxxt/weird_question_about_gov_contracts_or_rfps/</link>
+      <description><![CDATA[我刚刚看了电影《战犬》，这是一个关于孩子们在政府网站上找到的价值数百万美元武器合同的真实故事。  网络开发或应用程序有类似的东西吗？即使它不是政府或美国政府特有的？   由   提交 /u/IAmRules   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1atfxxt/weird_question_about_gov_contracts_or_rfps/</guid>
+      <pubDate>Sat, 17 Feb 2024 23:44:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>向后兼容性真的很重要吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1atf5kf/is_backwards_compatibility_actually_important/</link>
+      <description><![CDATA[具体讨论浏览器与 ES6 的兼容性，目前所有现代浏览器都支持它（最迟自 2017 年以来），并且考虑到大多数用户都已支持自动更新只允许“使用”的人使用不兼容的旧浏览器是使用 90 年代计算机的浏览器。如果有人使用旧浏览器，他们显然是故意这样做的，不断忽略每 5 分钟发生一次的弹出窗口并不容易，而且还有大量的安全漏洞，为什么我们还要考虑支持 7-10 的软件+ 岁？对于开发人员来说，这似乎是浪费时间，对于真正保持系统最新的人来说也带来不便，因为现在（取决于公司的公司）该网站可能会一起删除这些现代功能，然后提出一个问题，为什么还要写首先是 ES6 代码。   由   提交 /u/intoxatingBlackAle   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1atf5kf/is_backwards_compatibility_actually_important/</guid>
+      <pubDate>Sat, 17 Feb 2024 23:08:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了一个名称服务器检查应用程序</title>
+      <link>https://www.reddit.com/r/webdev/comments/1atefgs/i_created_a_nameserver_checking_app/</link>
+      <description><![CDATA[https://nameservercheck.scabidi.com 有些网站每天都会给你一定数量的检查，在这里你可以做任意数量的   由   提交 /u/Mrcool654321   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1atefgs/i_created_a_nameserver_checking_app/</guid>
+      <pubDate>Sat, 17 Feb 2024 22:36:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT 在代码中发现安全漏洞</title>
+      <link>https://www.reddit.com/r/webdev/comments/1atdptn/chatgpt_finds_security_bugs_in_code/</link>
+      <description><![CDATA[嗨， 我创建了此视频，展示如何使用 ChatGPT 扫描代码以查找漏洞。它的功能给我留下了深刻的印象。 我还讨论了何时以及如何使用 chatGPT 而不是传统的安全扫描器。  你们在编码时使用chatGPT 或任何其他LLM 吗？  视频链接：https://youtu.be/3FnZSVgiGHM?feature=shared   由   提交/u/Acrobatic_You_4295   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1atdptn/chatgpt_finds_security_bugs_in_code/</guid>
+      <pubDate>Sat, 17 Feb 2024 22:06:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么网络开发如此简单？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1atch7n/why_is_web_dev_so_easy/</link>
+      <description><![CDATA[我从 gamedev 切换到 webdev，相信我，游戏开发变得更加困难，尤其是在 3D 环境中工作时。 &lt; !-- SC_ON --&gt;  由   提交/u/MrBigDick05  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1atch7n/why_is_web_dev_so_easy/</guid>
+      <pubDate>Sat, 17 Feb 2024 21:12:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>您使用哪个操作系统来编码？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1atcgvk/which_os_do_you_use_to_code/</link>
+      <description><![CDATA[查看投票 &lt; /div&gt;  由   提交/u/meguminsdfc   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1atcgvk/which_os_do_you_use_to_code/</guid>
+      <pubDate>Sat, 17 Feb 2024 21:11:58 GMT</pubDate>
+    </item>
     <item>
       <title>Web 浏览器调试/控制台可以在单独的窗口中弹出？？？</title>
       <link>https://www.reddit.com/r/webdev/comments/1atc4jx/the_web_browser_debugconsole_can_pop_out_in_a/</link>
@@ -41,74 +104,11 @@
       <pubDate>Sat, 17 Feb 2024 20:12:23 GMT</pubDate>
     </item>
     <item>
-      <title>这可能看起来不属于这里，但我在一个网络应用程序的帮助下制作了这个“像素”绘画，我制作这个应用程序是为了帮助我保持组织性</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ataxjb/this_may_not_look_like_it_belongs_here_but_i_made/</link>
-      <description><![CDATA[   Summit - 14x18 木板上的油画。 花了大约 30 小时，由 4032 个小油漆像素组成   由   提交 /u/doctorpook   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ataxjb/this_may_not_look_like_it_belongs_here_but_i_made/</guid>
-      <pubDate>Sat, 17 Feb 2024 20:05:29 GMT</pubDate>
-    </item>
-    <item>
       <title>苹果/谷歌没有受到伤害</title>
       <link>https://www.reddit.com/r/webdev/comments/1atausp/no_applegoogle_harmed/</link>
       <description><![CDATA[     &lt; td&gt; 网络游戏会成为现实吗？ https://developer.mozilla.org/en-US/docs/Games/Introduction   由   提交/u/fellow_manusan  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1atausp/no_applegoogle_harmed/</guid>
       <pubDate>Sat, 17 Feb 2024 20:02:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>从盖茨比迁移到雨果</title>
-      <link>https://www.reddit.com/r/webdev/comments/1at9m6o/migrating_from_gatsby_to_hugo/</link>
-      <description><![CDATA[       由   提交/u/saeedesmaili   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1at9m6o/migrating_from_gatsby_to_hugo/</guid>
-      <pubDate>Sat, 17 Feb 2024 19:10:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>网络复兴腾飞</title>
-      <link>https://www.reddit.com/r/webdev/comments/1at9idl/the_web_renaissance_takes_off/</link>
-      <description><![CDATA[   /u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1at9idl/the_web_renaissance_takes_off/</guid>
-      <pubDate>Sat, 17 Feb 2024 19:05:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>我对选择最适合我的网络后端语言感到困惑，有帮助吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1at9eqe/confused_in_my_choice_of_the_best_web_backend/</link>
-      <description><![CDATA[因此，我目前正在从一名初级 C++ 开发人员发展为一名经验丰富的开发人员，开始学习该语言的复杂性，到目前为止，我我喜欢它！ 现在，我遇到了一个问题，一个强制性项目（可以说是我的第一个真正的交易项目）落入了我的手中，现在我陷入了困境。 （我已经批准了 wtvr，因为我计划成为长期维护者） 我使用 cpp 吗？训练自己了解新概念并成为专家等...如果您对如何或什么是适合我的专业水平的更好框架有建议。 我使用 Rust 吗？在非常宏伟的计划中，它只是一个更好的（我仍然喜欢c ++）C ++，具有非常好的开发生态系统（Axum等...）好处是我将留在系统中，速度极快，大男孩嗖嗖的语言，做我的事情并学习 rust！ 或者我只是放弃并喜欢做一些 Java 或 C#（不是 JS:)）或 wtvr，如果你在这个阵营，建议最好的语言/框架配对以获得从 cpp 的最佳过渡！ 提前致谢！   由   提交/u/AdearienRDDT  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1at9eqe/confused_in_my_choice_of_the_best_web_backend/</guid>
-      <pubDate>Sat, 17 Feb 2024 19:01:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>全职开发者们，今年你们拿到奖金了吗？还满意吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1at8yb5/full_time_devs_did_you_get_a_bonus_this_year_and/</link>
-      <description><![CDATA[很想看看其他开发人员的经验:)   由   提交 /u/FVCEGANG   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1at8yb5/full_time_devs_did_you_get_a_bonus_this_year_and/</guid>
-      <pubDate>Sat, 17 Feb 2024 18:42:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>无法从 FedX Track API 获取响应</title>
-      <link>https://www.reddit.com/r/webdev/comments/1at8oyx/unable_to_get_response_from_fedx_track_api/</link>
-      <description><![CDATA[您好， 希望每个人都做得很好，所以我正在按照提供的文档并使用 fedX 测试 FedX Track API apis-sandbox 端点。 我能够生成访问令牌，但我仍然无法从跟踪号码或收到错误的发货端点获得任何响应 &lt; p&gt;{“transactionId”：“6ae7b2d0-5a0e-495e-bc56-82f82d006a3a”，“错误”：[{“代码”：“NOT.FOUND.ERROR”，“消息”：“您请求的资源不再可用。请修改您的请求，然后重试。&quot;}]} ​ 我不确定我到底应该在有效负载中修改哪些内容才能使其正常工作我尝试过不同的跟踪号码，但都不起作用。 ​ 如有任何建议，我们将不胜感激。 ​ 我的Python代码如下 ​ 导入请求url =“https://apis-sandbox.fedex.com/oauth/token”有效负载 = grant_type=client_credentials&amp;client_id=Your_client_ID&amp;client_secret=Your_secret headers = { &#39;Content-Type&#39;: &#39;application/x-www-form-urlencoded&#39;; } response = requests.post(url, data=payload, headers=headers) print(response.text) access_token = response.json()[&#39;access_token&#39;] track_endpoint = &quot;https://apis-sandbox.fedex.com /track/v1/trackingnumbers” track_payload = { “trackingInfo”：[ { “trackingNumberInfo”：{ “trackingNumber”：“794843185271”; } } ], &quot;includeDetailedScans&quot;: True } track_headers = { &#39;Content-Type&#39;: &#39;application/json&#39;, &#39;X-locale&#39;: &#39;en_US&#39;, &#39;授权&#39;: f&quot;Bearer {access_token}&quot; } track_response = requests.post(track_endpoint, data=track_payload, headers=track_headers) print(track_response.text)  ​   由   提交/u/Wajeehrehman   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1at8oyx/unable_to_get_response_from_fedx_track_api/</guid>
-      <pubDate>Sat, 17 Feb 2024 18:30:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻求如何处理离岸团队项目转移的建议</title>
-      <link>https://www.reddit.com/r/webdev/comments/1at8kwp/seeking_advice_on_how_handle_transfer_of_project/</link>
-      <description><![CDATA[在这里发表第一篇文章，希望允许提出此类问题... 情况如下： 我被要求接管一家公司的 Drupal 网站，该公司的网站是由离岸团队构建的。该代码库位于离岸团队的 Bitbucket 存储库中。该网站托管在 Digital Ocean (DO) Droplet 上，但由该公司控制。离岸团队可以访问 DO 提供的访问令牌。代码推送不是通过管道处理的，而是“为了在数字海洋服务器上部署更改，我们在那里获取主分支的最新代码。” 对我来说，我已经成为开发人员十多年了，但不没有太多使用 DO 的经验（应用程序与 Droplet、设置 Bitbucket 和 DO 管道等）。  我想知道这个社区的人们是否有从离岸团队接管项目的经验，以及应该采取哪些步骤来确保过渡顺利。 谢谢请提前告知我是否可以提供任何其他信息。    由   提交 /u/recordnumber   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1at8kwp/seeking_advice_on_how_handle_transfer_of_project/</guid>
-      <pubDate>Sat, 17 Feb 2024 18:26:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>编辑器缩放</title>
-      <link>https://www.reddit.com/r/webdev/comments/1at850z/editor_scaling/</link>
-      <description><![CDATA[许多网站平台都具有工作区视图缩放功能，以便能够开发更高分辨率。但有时您想要缩放编辑器控件以适合您的设备宽度/首选项。有没有平台可以让你这样做？据我所知，没有一个。这是我本周构建的。看看这个：https://youtu.be/EaIdb3FI1-U   由   提交/u/cagdas_ucar   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1at850z/editor_scaling/</guid>
-      <pubDate>Sat, 17 Feb 2024 18:07:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>我是一个真正的响应式设计菜鸟，需要一些帮助......</title>
-      <link>https://www.reddit.com/r/webdev/comments/1at7dnz/im_a_real_noob_with_responsive_design_and_need/</link>
-      <description><![CDATA[嘿。 我真的是在用头撞砖墙。我目前正在参加 Coursera 的响应式设计课程，我需要制作一个响应式网站，使每三个图像更改为跨越两列并具有不同的边框。 我很确定我使用以下方法为网格类中的图像获取正确的代码： .grid img:nth-child(3n)  似乎没有什么正在改变。我已在下面添加了 HTML： ;  &lt;头&gt; &lt;元字符集=“UTF-8”&gt; &lt;meta http-equiv=“X-UA-兼容” content=“IE=边缘”&gt; &lt;元名称=“视口”内容=“宽度=设备宽度，初始比例=1.0”&gt; &lt;标题&gt;最终项目  &lt;/头&gt; &lt;正文&gt; &lt;标题&gt; &lt;h1 id=“top”&gt;最终项目&lt;/h1&gt; &lt;/标题&gt; &lt;主要&gt; &lt;p&gt;用您选择的图像和适当的标题替换所有图像。包括两段有关您网站内容的段落。不要删除跳到顶部链接。 &lt;p&gt;好吧，我真的不知道在这里要写什么，但我想我会贴一些我非常喜欢的书的封面。&lt;/p&gt; &lt;p&gt;该系列由 Rick Remender 撰写，美术来自 Wes Craig。&lt;/p&gt;  &lt;图&gt; &lt;img src=“images/image1.jpeg” alt=&quot;华林雏菊&quot;宽度=“200”&gt; 与黛西同行 &lt;/图&gt; &lt;图&gt; &lt;img src=“images/image2.jpeg” alt=“Blink-182 Live”宽度=“200”&gt; Blink-182 live &lt;/图&gt; &lt;图&gt; &lt;img src=“images/image3.jpeg” alt=&quot;Blink-182 Live Part 2&quot;宽度=“200”&gt; &lt;figcaption&gt;Blink-182 再活一次&lt;/figcaption&gt; &lt;/图&gt; &lt;图&gt; &lt;img src=“images/image4.jpeg” alt=“Grut ol&#39; House”宽度=“200”&gt; 大房子 &lt;/图&gt; &lt;图&gt; &lt;img src=“images/image5.jpeg” alt=&quot;一些洪水&quot;;宽度=“200”&gt; 洪水 &lt;/图&gt; &lt;图&gt; &lt;img src=“images/image6.jpeg” alt=&quot;更多洪水&quot;;宽度=“200”&gt; 更多的洪水 &lt;/图&gt; &lt;图&gt; &lt;img src=“images/image7.jpeg” alt=&quot;我的新车&quot;宽度=“200”&gt; &lt;figcaption&gt;这是一个新车家族。&lt;/figcaption&gt; &lt;/图&gt; &lt;图&gt; &lt;img src=“images/image8.jpeg” alt=&quot;温布利 AEW&quot;宽度=“200”&gt; &lt;figcaption&gt;那次我们去AEW&lt;/figcaption&gt; &lt;/图&gt; &lt;图&gt; &lt;img src=“images/image9.jpeg” alt=&quot;然后那里就黑了&quot;宽度=“200”&gt; AEW 的黑夜 &lt;/图&gt;  &lt;/主要&gt; &lt;页脚&gt; 跳转到顶部 &lt;/页脚&gt; &lt;/正文&gt; &lt;/html&gt;  这是我的CSS： html{scroll-behavior: smooth; } 正文 { 背景颜色：#dedede;内边距：5px；边距：15 像素；字体大小：25px；字体系列：Arial、无衬线字体； } h1 { 文本对齐：居中；字体系列：Arial、无衬线字体；字体大小：1.95em； } h2{ 文本对齐：中心； } li{ 顶部边距：20px; } .grid{ 显示：网格；网格模板列：95%； justify-content：空间均匀；行距：10px； } .grid img{ 宽度: 100%; } .label{ 文本对齐：中心；字体系列：&#39;Gill Sans&#39;、&#39;Gill Sans MT&#39;、Calibri、&#39;Trebuchet MS&#39;、sans-serif； } @media screen and (min-width:772px) { .grid{ grid-template-columns: 45% 45%;对齐项目：居中； .grid img{ 边框: 20px 实心 rgb(255, 0, 230);边框半径：400px； } .grid img:nth-child(3n){ 边框: 60px 实心 rgb(0, 38, 255);边框半径：500px；网格列：1跨度2； } }  我做错了什么？！预先感谢您的指导...   由   提交 /u/MarcusTYC   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1at7dnz/im_a_real_noob_with_responsive_design_and_need/</guid>
-      <pubDate>Sat, 17 Feb 2024 17:34:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
