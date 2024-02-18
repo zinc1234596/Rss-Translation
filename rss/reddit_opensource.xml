@@ -4,18 +4,25 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 18 Feb 2024 12:18:33 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Feb 2024 15:12:56 GMT</lastBuildDate>
+    <item>
+      <title>NxtCMS - NodeJS 无头 CMS</title>
+      <link>https://www.reddit.com/r/opensource/comments/1atw1lr/nxtcms_nodejs_headless_cms/</link>
+      <description><![CDATA[一项开源计划，旨在为下一代应用程序构建和维护功能齐全的 CMS。在 MongoDB 的支持下使用 NodeJS 和 NextJS 构建。 欢迎合作者加入团队并帮助我们开发。 Github : https://github.com/nxtopen/nxtcms 加入我们！  &amp; #32；由   提交/u/gilzonme  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1atw1lr/nxtcms_nodejs_headless_cms/</guid>
+      <pubDate>Sun, 18 Feb 2024 15:03:27 GMT</pubDate>
+    </item>
     <item>
       <title>自动化网络抓取开源库反馈和提示</title>
       <link>https://www.reddit.com/r/opensource/comments/1atstv1/an_automized_web_scraper_open_source_library/</link>
-      <description><![CDATA[嗨，我正在和一群人一起开发一个开源库，目标是让这个项目成为首选用于抓取的工具库，类似于数据科学中的 pandas，与经典库的区别在于利用 LLM 和代理技术，我知道这是一个相当雄心勃勃的目标，为此我向您询问一些方法的提示扩展维护者/贡献者以及如何发展此类项目。 此处存储库：https://github.com/ VinciGit00/Scrapegraph-ai   由   提交/u/lurenssss   [链接] [评论]]]></description>
+      <description><![CDATA[嗨，我正在和一群人一起开发一个开源库，目标是让这个项目成为首选用于抓取的工具库，类似于数据科学中的 pandas，与经典库的区别在于利用 LLM 和代理技术，我知道这是一个相当雄心勃勃的目标，为此我向您询问一些技巧和方法扩展维护者/贡献者以及如何发展此类项目。 此处存储库：https://github.com/ VinciGit00/Scrapegraph-ai   由   提交/u/lurenssss   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1atstv1/an_automized_web_scraper_open_source_library/</guid>
       <pubDate>Sun, 18 Feb 2024 12:16:39 GMT</pubDate>
     </item>
     <item>
       <title>更改海信 Vidaa 电视上的操作系统</title>
       <link>https://www.reddit.com/r/opensource/comments/1ats5a3/changing_os_on_my_hisense_vidaa_tv/</link>
-      <description><![CDATA[我非常讨厌海信 A7KAU 电视上的 Vidaa 操作系统，它太慢了，不稳定，让我很恼火。我想知道是否有办法在上面安装不同的操作系统，比如 Android TV。我真的不在乎需要做什么，因为我愿意尝试任何事情来实现这一点，只要我不必花很多钱购买某种设备。    由   提交 /u/TheShrubby   [链接] [评论]]]></description>
+      <description><![CDATA[我非常讨厌我的海信 A7KAU 电视上的 Vidaa 操作系统，它太慢了，不稳定，让我很恼火。我想知道是否有办法在上面安装不同的操作系统，比如 Android TV。我真的不在乎需要做什么，因为我愿意尝试任何事情来实现这一点，只要我不必花很多钱购买某种设备。    由   提交 /u/TheShrubby   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ats5a3/changing_os_on_my_hisense_vidaa_tv/</guid>
       <pubDate>Sun, 18 Feb 2024 11:35:03 GMT</pubDate>
     </item>
@@ -29,7 +36,7 @@
     <item>
       <title>我为 Rails 创建了一个开源项目，下一步是什么？</title>
       <link>https://www.reddit.com/r/opensource/comments/1atpn7q/i_created_an_open_source_project_for_rails_whats/</link>
-      <description><![CDATA[这是一个为 GDPR 合规性准备的 Rails 活动日志记录 gem。 现在我需要有关如何成功推动开源项目的反馈。 将其付诸实践。 https://loggableactivity -efe7b931c886.herokuapp.com/   由   提交/u/This_Routine_116   [链接] [评论]]]></description>
+      <description><![CDATA[这是一个为 GDPR 合规性准备的 Rails 活动日志记录 gem。我需要有关如何成功推动开源项目的反馈。 将其付诸实践。 https://loggableactivity -efe7b931c886.herokuapp.com/   由   提交/u/This_Routine_116   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1atpn7q/i_created_an_open_source_project_for_rails_whats/</guid>
       <pubDate>Sun, 18 Feb 2024 08:46:16 GMT</pubDate>
     </item>
@@ -64,7 +71,7 @@
     <item>
       <title>如何正确开源具有未知版权情况的老式字体的扩展 ASCII 艺术程序？</title>
       <link>https://www.reddit.com/r/opensource/comments/1atcpgt/how_to_properly_opensource_a_program_for_extended/</link>
-      <description><![CDATA[我计划创建一个程序，用于使用互联网早期的旧扩展 ASCII Art 字体创建文本。 &lt; pre&gt;╦ ┬┬┌─┌─┐ ┌┬┐┬ ┬┬┌─┐ ║ │├┴┐├┤ │ ├─┤│└─┐ ╩═╝┴┴ ┴└─┘ ┴ ┴┴┴ └─┘o  我计划在 MIT 甚至 MIT-0 下发布它。问题是，我无法找到该字体的创建者。由于它的版权情况未知，所以显然我不能在符号设计方面不加任何注释地在免费许可下发布整个程序。 处理这个问题的正确方法是什么？   由   提交/u/Qwert-4  /u/Qwert-4  reddit.com/r/opensource/comments/1atcpgt/how_to_properly_opensource_a_program_for_extended/&quot;&gt;[链接] [评论]]]></description>
+      <description><![CDATA[我计划创建一个程序，用于使用互联网早期的旧扩展 ASCII Art 字体创建文本。 &lt; pre&gt;╦ ┬┬┌─┌─┐ ┌┬┐┬ ┬┬┌─┐ ║ │├┴┐├┤ │ ├─┤│└─┐ ╩═╝┴┴ ┴└─┘ ┴ ┴┴┴ └─┘o  我计划在 MIT 甚至 MIT-0 下发布它。问题是，我无法找到该字体的创建者。由于它的版权情况未知，很明显我不能在符号设计方面不加任何注释地在免费许可下发布整个程序。 处理这个问题的正确方法是什么？   由   提交/u/Qwert-4  /u/Qwert-4  reddit.com/r/opensource/comments/1atcpgt/how_to_properly_opensource_a_program_for_extended/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1atcpgt/how_to_properly_opensource_a_program_for_extended/</guid>
       <pubDate>Sat, 17 Feb 2024 21:22:36 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[你好， 我正在构建一个开源项目，并且我已经发布了一个基本版本。然而，我有很多想要进行的更新，并且我很难确定首先执行哪些任务的优先级。我现在应该在文档页面上工作吗？或者我应该继续开发更多功能和示例，以便人们在 Github 上遇到该项目时发现可以轻松启动该项目？  我当前的目标是找到用户和维护者，甚至是少量时间的贡献者，他们只会测试项目，然后提供改进反馈。  项目链接：https://github.com/kindsmiles/pyvigate   由   提交 /u/metalvendetta   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1asy135/what_is_the_usual_strategy_of_building_and/</guid>
       <pubDate>Sat, 17 Feb 2024 09:26:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>付钱给人们从事开源工作实际上是件好事</title>
-      <link>https://www.reddit.com/r/opensource/comments/1askjro/paying_people_to_work_on_open_source_is_good/</link>
-      <description><![CDATA[    /u/David_AnkiDroid   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1askjro/paying_people_to_work_on_open_source_is_good/</guid>
-      <pubDate>Fri, 16 Feb 2024 21:44:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
