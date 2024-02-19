@@ -4,111 +4,111 @@
     <title>最新提交：ChatGPT</title>
     <link>https://www.reddit.com/r/ChatGPT/new</link>
     <description>Subreddit 讨论 ChatGPT 和 AI。不隶属于 OpenAI。</description>
-    <lastBuildDate>Mon, 19 Feb 2024 12:18:59 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Feb 2024 18:14:12 GMT</lastBuildDate>
     <item>
-      <title>当你告诉他们人工智能艺术就是艺术时，有些人会有什么反应。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1aulxex/how_some_people_react_when_you_tell_them_ai_art/</link>
-      <description><![CDATA[       由   提交 /u/255255255Girls   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1aulxex/how_some_people_react_when_you_tell_them_ai_art/</guid>
-      <pubDate>Mon, 19 Feb 2024 12:16:31 GMT</pubDate>
+      <title>……</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1auu3tt/_/</link>
+      <description><![CDATA[       由   提交/u/Relative_Aerie6089  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1auu3tt/_/</guid>
+      <pubDate>Mon, 19 Feb 2024 18:11:00 GMT</pubDate>
     </item>
     <item>
-      <title>哪一部会成为最好的电影？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1auln1w/which_one_would_make_the_best_movie/</link>
-      <description><![CDATA[       由   提交/u/Traditional-Loan129  /u/Traditional-Loan129  reddit.com/gallery/1ar34hc&quot;&gt;[链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1auln1w/which_one_would_make_the_best_movie/</guid>
-      <pubDate>Mon, 19 Feb 2024 12:00:14 GMT</pubDate>
+      <title>自定义 GPT 是在 GPT 4 上运行还是基于 GPT 3？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1auu1gw/do_custom_gpts_run_on_gpt_4_or_are_they_based_on_3/</link>
+      <description><![CDATA[我以为他们是 4，但是当使用 Copilot 和 Gemini 并与他们讨论自定义机器人时，他们都坚信 ChatGPT 自定义 GPT 是基于GPT 3 而不是最新的 4。我似乎从未注意到任何差异，但似乎无法在网上找到任何可靠的信息。只是想检查一下，因为我更喜欢使用自定义的，但不是使用 3。 谢谢！   由   提交/u/Nouns_2023   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1auu1gw/do_custom_gpts_run_on_gpt_4_or_are_they_based_on_3/</guid>
+      <pubDate>Mon, 19 Feb 2024 18:08:34 GMT</pubDate>
     </item>
     <item>
-      <title>ChatGPT Enterprise，没有限制吗？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1aulm7u/chatgpt_enteprise_no_limits/</link>
-      <description><![CDATA[如何在其他平台上使用ChatGPT enterprise？  我需要按照我建议的方式使用ChatGPT将word文档转录为html格式，以前我这样做，现在不再这样做了   由   提交/u/idontdevelopementapp  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1aulm7u/chatgpt_enteprise_no_limits/</guid>
-      <pubDate>Mon, 19 Feb 2024 11:58:48 GMT</pubDate>
+      <title>无法模仿儿童蜡笔绘画风格</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1autx5h/cant_emulate_kids_crayon_drawing_style/</link>
+      <description><![CDATA[我发现 ChatGPT [Bing] 非常擅长各种插图风格 [通过 Dall E 3]，尽管有时需要大量的哄骗。然而，我根本无法让它以幼儿园蜡笔画的风格输出。相反，无论我如何调整提示，大多数输出​​看起来都像儿童书籍插图或专业插画家的彩色铅笔渲染图。关于如何更接近我想要的东西有什么想法吗？最初我要求它以儿童蜡笔风格创建针叶树的图像。那不起作用，所以我只是想看看它是否可以像孩子一样用太阳做一棵树。结果是一样的，太复杂了。   由   提交 /u/Tabbinski   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1autx5h/cant_emulate_kids_crayon_drawing_style/</guid>
+      <pubDate>Mon, 19 Feb 2024 18:03:56 GMT</pubDate>
     </item>
     <item>
-      <title>型号 GPT4 Turbo 未使用其代币</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1aulfj4/model_gpt4_turbo_is_not_using_its_tokens/</link>
-      <description><![CDATA[嗨，我有这些文件需要分析。假设我的预算没有限制，所以我希望 gpt 读取最多 300 页的整个文件。原因是，我想要的信息可能分散在文件各处，因此嵌入效果并不好。由于某种原因，它仍然使用它们，因此一个文件可以有大约 60k 令牌，但它只能读取大约 5k。如何让它读取整个文件？   由   提交/u/hemmy_5  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1aulfj4/model_gpt4_turbo_is_not_using_its_tokens/</guid>
-      <pubDate>Mon, 19 Feb 2024 11:46:36 GMT</pubDate>
+      <title>在虚幻引擎中创建用于视觉蓝图生成的 ChatGPT 插件是否可行？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1autu2c/is_it_feasible_to_create_a_chatgpt_plugin_for/</link>
+      <description><![CDATA[大家好， 我最近一直在深入研究虚幻引擎，发现蓝图系统是一个非常强大的工具，可视化脚本。然而，作为一个新手，我有时很难想象如何构建不同的节点和组件来实现预期的结果。 这让我想知道：创建一个与网站交互的 ChatGPT 插件是否可行像 https://blueprintue.com/ 或其他蓝图创建者一样输出蓝图的视觉表示？我们的想法是拥有一个插件，您可以在其中描述您想要的功能，并且它将生成一个视觉蓝图，可以直接在虚幻引擎中使用或用作学习指南。 这样的该工具可以为试图学习虚幻引擎中的蓝图的新用户提供即时的视觉反馈和示例，从而显着降低他们的入门门槛。它可以作为交互式学习辅助工具，帮助用户通过实际的、直观的示例更好地理解蓝图的流程和结构。   由   提交 /u/GodIsAboutToCry   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1autu2c/is_it_feasible_to_create_a_chatgpt_plugin_for/</guid>
+      <pubDate>Mon, 19 Feb 2024 18:00:46 GMT</pubDate>
     </item>
     <item>
-      <title>💀💀（不是 gpt，而是它的一个分支）</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1auldp6/ik_not_gpt_but_a_fork_of_it/</link>
-      <description><![CDATA[     &lt; td&gt; ​ https://preview.redd.it/7efa72ug4jjc1.png?width=1250&amp;format=png&amp;auto=webp&amp;s=30586bc4a278 bb69b202e337b0b49258c82a89c9 https://preview。 redd.it/q2s4m8ej4jjc1.png?width=1084&amp;format=png&amp;auto=webp&amp;s=05f77843bbde116d4b492ca2b1b5db34972215f8 https://preview.redd.it/7mfb5b2n4jjc1.png?width=1271&amp;format=png&amp;auto=webp&amp;s=663ec7f9ea247 ff8c700fa2746e125565b6aeba0&lt; /a&gt;   由   提交/u/Kevin_0429   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1auldp6/ik_not_gpt_but_a_fork_of_it/</guid>
-      <pubDate>Mon, 19 Feb 2024 11:43:24 GMT</pubDate>
+      <title>一些很酷的机甲，基于我很久以前制作的流行角色和原创设计</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1autorr/some_cool_mecha_based_on_popular_characters_and/</link>
+      <description><![CDATA[     &lt; /td&gt;  由   提交 /u/Damascus_St33l   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1autorr/some_cool_mecha_based_on_popular_characters_and/</guid>
+      <pubDate>Mon, 19 Feb 2024 17:55:15 GMT</pubDate>
     </item>
     <item>
-      <title>通过我的 GPT 货币化</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1aul86v/monetizing_my_gpt/</link>
-      <description><![CDATA[我创建了一个 GPT，它获得了一些不错的流量（约 8k 视图/天）。你们知道如何利用这些流量来产生收入，而无需花费太多时间吗？   由   提交 /u/Paras_Chhugani   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1aul86v/monetizing_my_gpt/</guid>
-      <pubDate>Mon, 19 Feb 2024 11:33:52 GMT</pubDate>
+      <title>非常奇怪（且令人不安）的错误。 GPT 已经获得了我的 Google 搜索的访问权限，并将它们与公开的后端 OpenAI 提示训练一起注入到我的聊天中。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1autog7/very_odd_and_disturbing_bug_gpt_has_gained_access/</link>
+      <description><![CDATA[   /u/nanotothhemoon  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1autog7/very_odd_and_disturbing_bug_gpt_has_gained_access/</guid>
+      <pubDate>Mon, 19 Feb 2024 17:54:55 GMT</pubDate>
     </item>
     <item>
-      <title>每周自我推销大型主题 22, 19.02.2024 - 26.02.2024</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1aul6tr/weekly_selfpromotional_mega_thread_22_19022024/</link>
-      <description><![CDATA[所有关于你的人工智能产品和服务的自我推销帖子都应该作为评论出现在这个大型帖子中，而不是作为帖子出现在 subreddit 的一般提要中，它将帮助人们在没有垃圾邮件的情况下浏览 Reddit 子版块，并且所有人都可以找到您在一个地方构建的所有有趣的东西。 您可以简要介绍您的产品以及它将如何使用使用，记住 - 更好的点赞/参与，用户可以在顶部找到您的评论，因此相应地分享！   由   提交/u/hi_there_bitch  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1aul6tr/weekly_selfpromotional_mega_thread_22_19022024/</guid>
-      <pubDate>Mon, 19 Feb 2024 11:31:36 GMT</pubDate>
+      <title>自定义 GPT 上传文档的问题</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1authzr/issues_with_custom_gpt_uploaded_documents/</link>
+      <description><![CDATA[       由   提交/u/Ok-Associate7846   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1authzr/issues_with_custom_gpt_uploaded_documents/</guid>
+      <pubDate>Mon, 19 Feb 2024 17:48:01 GMT</pubDate>
     </item>
     <item>
-      <title>ChatGPT Vision 停止工作，每次上传图片时都会出现服务器错误</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1aul6bt/chatgpt_vision_stopped_working_every_time_i/</link>
-      <description><![CDATA[      图片总是正确上传，然后当我按下 Enter 键时 ChatGPT “认为”几秒钟后，它总是返回服务器错误。已经持续了好几天了，真的很烦人，有没有人也有过同样的经历？在移动设备和桌面设备上都会发生，尝试清除缓存并重新安装应用程序，但无济于事   由   提交/u/scapestrat0  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1aul6bt/chatgpt_vision_stopped_working_every_time_i/</guid>
-      <pubDate>Mon, 19 Feb 2024 11:30:43 GMT</pubDate>
+      <title>（快速）对人工智能启示录不可避免的思考</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1autgxj/quick_thoughts_on_the_inevitably_of_the_ai/</link>
+      <description><![CDATA[       由   提交 /u/greatintentionspod   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1autgxj/quick_thoughts_on_the_inevitably_of_the_ai/</guid>
+      <pubDate>Mon, 19 Feb 2024 17:46:49 GMT</pubDate>
     </item>
     <item>
-      <title>提示</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1aukwug/promts/</link>
-      <description><![CDATA[嘿伙计们！所以我现在已经学习快速工程一段时间了，它既有用又有趣！但我想问你们是否保存了任何有用或很酷的提示？ idrc 如果是越狱提示或其他任何东西，你们有没有很酷的提示，可以在 ChatGPT 中分享这项工作，提前致谢！   由   提交 /u/labaisfarmeris   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1aukwug/promts/</guid>
-      <pubDate>Mon, 19 Feb 2024 11:14:13 GMT</pubDate>
+      <title>ChatGPT 网络错误：原因及解决方案</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1aut3po/chatgpt_network_error_causes_and_solutions/</link>
+      <description><![CDATA[ 由   提交/u/shaper888  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1aut3po/chatgpt_network_error_causes_and_solutions/</guid>
+      <pubDate>Mon, 19 Feb 2024 17:32:37 GMT</pubDate>
     </item>
     <item>
-      <title>CustomGPT同时开始“查知识”和“分析”</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1aukpkf/customgpt_start_searching_knowladge_and_analyzing/</link>
-      <description><![CDATA[   有人知道如何解决这个问题吗？我真的很沮丧。它工作得很好，总是在我提供的文档中找到所有内容，但昨天它开始同时运行这两个操作。它从未完成搜索，分析后说它在文档中没有找到任何相关信息（该信息存在于我仔细检查过的文档中）。请帮忙   由   提交/u/SkurFy0812   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1aukpkf/customgpt_start_searching_knowladge_and_analyzing/</guid>
-      <pubDate>Mon, 19 Feb 2024 11:01:21 GMT</pubDate>
+      <title>人工智能在军事决策中的应用</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1auszzo/ai_in_military_decision_making/</link>
+      <description><![CDATA[      Sabine Hossenfelder 发布了一段关于在军事决策中使用人工智能的有趣视频。想知道您对此有何想法。   由   提交/u/PuzzledPuzzleMaker  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1auszzo/ai_in_military_decision_making/</guid>
+      <pubDate>Mon, 19 Feb 2024 17:28:46 GMT</pubDate>
     </item>
     <item>
-      <title>您购买什么纸质视图？第2.1部分（抱歉，忘记了一些）</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1aukmlc/what_paper_view_are_you_buying_part_21_sorry/</link>
-      <description><![CDATA[       由   提交/u/weeklyjo24  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1aukmlc/what_paper_view_are_you_buying_part_21_sorry/</guid>
-      <pubDate>Mon, 19 Feb 2024 10:55:54 GMT</pubDate>
+      <title>有人成功使用GPT4进行治疗吗？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1ausx21/anyone_successfully_used_gpt4_for_therapy/</link>
+      <description><![CDATA[鉴于我没有方便的治疗时间表，也没有资金，我正在考虑进行聊天以进行治疗。但我担心它不会有联系或“先见之明”需要帮助我取得进步。  有人试过这个吗？关于提示有什么建议吗？如何准备它来处理会话？风格建议 - 比如我应该指定它来复制特定的从业者吗？是否有某些治疗方法在这种介质中效果更好？ 任何建议表示赞赏。   由   提交/u/lulz_lurker  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1ausx21/anyone_successfully_used_gpt4_for_therapy/</guid>
+      <pubDate>Mon, 19 Feb 2024 17:25:27 GMT</pubDate>
     </item>
     <item>
-      <title>你正在安慰哪位蜘蛛侠？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1aukhno/which_spiderman_are_you_consooming/</link>
-      <description><![CDATA[       由   提交 /u/Treat_Street1993   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1aukhno/which_spiderman_are_you_consooming/</guid>
-      <pubDate>Mon, 19 Feb 2024 10:46:40 GMT</pubDate>
+      <title>新用户。 ChatGPT 不擅长填字游戏吗？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1ausjn8/new_user_is_chatgpt_bad_at_crossword_puzzles/</link>
+      <description><![CDATA[      ChatGPT4。答案是“赞美”   由   提交 /u/Gougeded   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1ausjn8/new_user_is_chatgpt_bad_at_crossword_puzzles/</guid>
+      <pubDate>Mon, 19 Feb 2024 17:11:04 GMT</pubDate>
     </item>
     <item>
-      <title>您对明年完全由人工智能模型生成一部完整的好莱坞故事片有何赌注？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1auke68/what_is_your_bet_on_the_year_in_which_a/</link>
-      <description><![CDATA[ 由   提交 /u/rhypple   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1auke68/what_is_your_bet_on_the_year_in_which_a/</guid>
-      <pubDate>Mon, 19 Feb 2024 10:40:15 GMT</pubDate>
+      <title>熊与橙色</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1ausi7w/bear_with_orange/</link>
+      <description><![CDATA[      &amp;# 32；由   提交/u/Parking_Ad5541   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1ausi7w/bear_with_orange/</guid>
+      <pubDate>Mon, 19 Feb 2024 17:09:32 GMT</pubDate>
     </item>
     <item>
-      <title>GPT 和插件</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1aukcch/gpts_and_plugins/</link>
-      <description><![CDATA[大家好！我创建了一些 GTP，我想知道是否可以将现有插件添加到我自己的 GPT 中。我怎样才能使这成为可能？谢谢    由   提交 /u/inkonwhitepaper   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1aukcch/gpts_and_plugins/</guid>
-      <pubDate>Mon, 19 Feb 2024 10:36:57 GMT</pubDate>
+      <title>也许下一步 OpenAI 会开发一个模型，为上传的视频添加声音？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1aus42q/maybe_as_a_next_step_openai_would_work_on_a_model/</link>
+      <description><![CDATA[ 由   提交 /u/Tribolonutus   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1aus42q/maybe_as_a_next_step_openai_would_work_on_a_model/</guid>
+      <pubDate>Mon, 19 Feb 2024 16:54:54 GMT</pubDate>
     </item>
     <item>
-      <title>ChatGPT 很快就会在您每次开始对话时记住您的提示</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1auk4y8/chatgpt_will_soon_have_memory_to_remember_your/</link>
-      <description><![CDATA[      ChatGPT 是流行的人工智能工具，变得更好。 ChatGPT 背后的公司 OpenAI 正在测试一项新功能，该功能允许聊天机器人记住您谈论的内容。   由   提交/u/Looksky_US  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1auk4y8/chatgpt_will_soon_have_memory_to_remember_your/</guid>
-      <pubDate>Mon, 19 Feb 2024 10:23:12 GMT</pubDate>
+      <title>ChatGPT 语音对话（浏览器）</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1aury5h/chatgpt_voice_conversations_browser/</link>
+      <description><![CDATA[我知道目前（除了第三方）无法通过浏览器进行语音对话。但我什至没有看到任何整合的时间表，也没有看到太多关于它的讨论。我是唯一一个真正希望在桌面/浏览器上看到这一点的人吗？    由   提交 /u/StillVikingabroad   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1aury5h/chatgpt_voice_conversations_browser/</guid>
+      <pubDate>Mon, 19 Feb 2024 16:48:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
