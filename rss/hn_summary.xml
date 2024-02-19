@@ -4,86 +4,88 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Mon, 19 Feb 2024 08:56:23 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Feb 2024 15:09:24 GMT</lastBuildDate>
     <item>
-      <title>生物学家在深海中突破性地发现了四种新的章鱼物种 [...]</title>
-      <link>https://t.me/hn_summary/74921</link>
-      <description><![CDATA[生物学家在哥斯达黎加近海深海发现了四种新的章鱼物种&lt; /a&gt;
-生物学家在哥斯达黎加附近的深海中突破性地发现了四种新的章鱼物种。这一发现，包括稀有的幼体和热液喷口，引起了科学家们的兴奋。这些章鱼是在通风口附近发现的，对于通常独居的生物来说，这是一个令人惊讶的栖息地选择。这一发现为章鱼研究打开了新的大门，并可能导致对深海生态系统的进一步探索。包括多拉多章鱼在内的新物种具有独特的特征，正在接受密切研究。这一发现标志着了解哥斯达黎加太平洋深海的重要一步，并凸显了海洋研究国际合作的重要性。]]></description>
-      <guid>https://t.me/hn_summary/74921</guid>
-      <pubDate>Mon, 19 Feb 2024 08:56:23 GMT</pubDate>
+      <title>[媒体] 在 Pydantic 和 Unix 时间戳的世界中，处理 [...] 时出现了一个奇怪的情况</title>
+      <link>https://t.me/hn_summary/74974</link>
+      <description><![CDATA[Pydantic 和 1970 年代时间戳的奇怪案例
+在 Pydantic 和 Unix 时间戳的世界中，处理 20 世纪 70 年代的数据时会出现一个奇怪的情况。虽然 Pydantic 通常会猜测时间戳是以秒还是毫秒为单位，但这可能会导致较旧的时间戳出现严重失真。当解析火星漫游者和阿波罗 13 号等任务的数据时，这个问题变得显而易见，后者显示的日期截然不同。这种差异是由于 Pydantic 将 1970 年代的时间戳解释为秒而不是毫秒而产生的。虽然这似乎是一种罕见的边缘情况，但它强调了明确数据格式以避免无声转换和错误的重要性。 Pydantic 团队正在研究一种解决方案，强调需要适当的软件工程并避免自动解析的诱惑。]]></description>
+      <guid>https://t.me/hn_summary/74974</guid>
+      <pubDate>Mon, 19 Feb 2024 15:09:24 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Oxide Computer 正在利用 3,000 磅重的刀片服务器重新构想私有云，其目标是 [...]</title>
-      <link>https://t.me/hn_summary/74920</link>
-      <description><![CDATA[Oxide 将私有云重新构想为 3000 磅重的刀片服务器
-Oxide Computer 正在利用 3,000 磅重的刀片服务器重新构想私有云，旨在彻底改变数据中心计算。 Oxide 的机架规模系统由前 Joyent 和 Sun Microsystems 专家创立，集成了直流供电和定制软件等超大规模功能，可实现高效电源管理。该平台配备 64 核 Epyc 3 处理器和定制虚拟机管理程序，提供主动工作负载管理和网络功能。虽然硬件选项有限，但 Oxide 计划推出基于 AMD Turin 平台的新计算节点。该公司对 AMD MI300A 等 APU 的关注展示了一种独特的加速计算方法。 Oxide 在 GitHub 上的开源软件堆栈确保了其创新硬件的使用寿命。]]></description>
-      <guid>https://t.me/hn_summary/74920</guid>
-      <pubDate>Mon, 19 Feb 2024 08:42:17 GMT</pubDate>
+      <title>[媒体]Google 的 Go 语言在 Tiobe 语言流行中的地位飙升至历史最高位置 [...]</title>
+      <link>https://t.me/hn_summary/74973</link>
+      <description><![CDATA[Go 语言在 Tiobe 指数中名列前茅
+谷歌的 Go 语言在 Tiobe 语言流行度指数中飙升至历史最高位置，目前排名第八。 Go 在 2009 年发布后最初受到欢迎，但在 2015 年经历了下滑，之后通过定期更新卷土重来。 Go 因其在 Docker 和 Kubernetes 中的使用而闻名，现在广泛应用于后端编程、Web 服务和 API。最近发布的 Go 1.22 包括对 for 循环的更改。此外，定位为C++继承者的谷歌Carbon语言首次进入前100名。 Go 的未来一片光明，预计将长期保持在前 10 名的位置。]]></description>
+      <guid>https://t.me/hn_summary/74973</guid>
+      <pubDate>Mon, 19 Feb 2024 15:05:19 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]空中客车公司首席执行官 Guillaume Faury 宣布了 A320neo 的继任者计划，该飞机将继续 [...]</title>
-      <link>https://t.me/hn_summary/74919</link>
-      <description><![CDATA[A320neo 继任者将基于可持续航空燃料：空中客车公司首席执行官
-空中客车公司首席执行官纪尧姆·福里 (Guillaume Faury) 宣布了 A320neo 后续机型的计划，该机型将使用可持续航空燃料，旨在帮助该行业到 2050 年实现碳中和。这款下一代单通道飞机将于 2030 年代首次亮相，将是专为可持续燃料消耗而设计的新平台。福里强调，这架飞机不会是现有型号的延伸，并将在空中客车公司的航空业绿色未来战略中发挥关键作用。这一创新方法标志着朝着减少行业环境影响迈出的重要一步。]]></description>
-      <guid>https://t.me/hn_summary/74919</guid>
-      <pubDate>Mon, 19 Feb 2024 08:14:06 GMT</pubDate>
+      <title>作者分享了他们戒掉咖啡因的个人经历以及他们[...]</title>
+      <link>https://t.me/hn_summary/74972</link>
+      <description><![CDATA[针对咖啡因的案例
+作者分享了他们戒掉咖啡因的个人经历，以及他们所经历的令人惊讶的好处，包括提高工作效率、减少焦虑和改善睡眠。他们提供了来自 r/decaf Reddit 子版块的见解，并深入研究了咖啡因对身体影响背后的科学，强调了个体差异如何发挥至关重要的作用。作者挑战了咖啡因消费的标准叙述，并鼓励读者考虑不摄入咖啡因的潜在好处。有争议的方面是作者对传统生产力研究的摒弃，而强调个人经验。令人惊讶的是作者意识到没有咖啡因生活可能会更好。]]></description>
+      <guid>https://t.me/hn_summary/74972</guid>
+      <pubDate>Mon, 19 Feb 2024 15:01:15 GMT</pubDate>
     </item>
     <item>
-      <title>Josh 是一个革命性的工具，通过介绍结合了 monorepos 和 multirepos 的优点 [...]</title>
-      <link>https://t.me/hn_summary/74918</link>
-      <description><![CDATA[乔什：只有一个历史
-Josh 是一个革命性的工具，通过引入闪电般快速、可逆的 git 历史过滤实现，结合了 monorepos 和 multirepos 的优点。与缓慢且具有破坏性的传统方法不同，Josh 允许将无缝历史记录过滤作为日常工作流程的一部分，而用户甚至不会注意到。通过在过滤器运行之间保留持久缓存，重新运行过滤器所需的工作与上次运行以来的更改数量成正比，而不是与历史记录的总长度成正比。这种创新的历史过滤方法为开发人员和 CI 系统开辟了新的可能性。]]></description>
-      <guid>https://t.me/hn_summary/74918</guid>
-      <pubDate>Mon, 19 Feb 2024 08:10:02 GMT</pubDate>
+      <title>[媒体]间歇性禁食 (IF) 对脑源性神经营养因子 (BD [...]</title>
+      <link>https://t.me/hn_summary/74971</link>
+      <description><![CDATA[间歇性禁食对 BDNF 水平和认知功能有不同的影响
+间歇性禁食（IF）对脑源性神经营养因子（BDNF）水平和认知功能有不同的影响。 BDNF 在认知功能、新陈代谢和能量稳态中发挥着至关重要的作用。 IF 已被证明可以通过刺激 BDNF 的产生来改善认知能力和代谢健康。然而，研究结果相互矛盾，一些研究显示 BDNF 水平增加，而另一些研究显示 BDNF 水平下降。研究的质量评估揭示了可能影响结果解释的偏差。了解 IF、BDNF 和认知健康之间的相互作用可能会为促进认知健康和潜在缓解与年龄相关的认知衰退带来令人兴奋的途径。 （根据故事文本的 60% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/74971</guid>
+      <pubDate>Mon, 19 Feb 2024 14:57:10 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在本文中，作者讨论了他们为 Bash 创建 OpenGL 绑定，这是一个公关 [...]</title>
-      <link>https://t.me/hn_summary/74917</link>
-      <description><![CDATA[Bash 的 OpenGL 绑定 (2018)
-在本文中，作者讨论了他们为 Bash 创建的 OpenGL 绑定，这个项目最初只是一个笑话，但后来变成了宝贵的学习经验。作者解释了他们在 Bash 中实现 OpenGL 支持时所面临的挑战以及他们为使其发挥作用而做出的设计选择。他们还强调显示列表的使用是一个被延续到其他项目的关键技巧。尽管 Bash 作为编程语言有局限性，但作者鼓励读者出于教育目的探索该项目。文章最后反思了该项目的实用性，并幽默地邀请与其他人分享链接。]]></description>
-      <guid>https://t.me/hn_summary/74917</guid>
-      <pubDate>Mon, 19 Feb 2024 07:19:46 GMT</pubDate>
+      <title>[媒体]大约一年前，OpenAI 在围绕其人工智能产品的炒作浪潮中如日中天 [...]</title>
+      <link>https://t.me/hn_summary/74970</link>
+      <description><![CDATA[我们不要再这样做了
+大约一年前，OpenAI 掀起了围绕其人工智能产品的炒作热潮，ChatGPT 测试表现出色，人工智能生成的图像充斥社交媒体。首席执行官萨姆·奥尔特曼 (Sam Altman) 成为全球名人，在大肆投资的同时警告人工智能的危险。然而，随着 OpenAI 推出视频创作人工智能 Sora，人们开始担心该技术对创意劳动和环境的影响。报告显示，ChatGPT 的受欢迎程度正在下降，OpenAI 正在争夺一种收入模式。虽然 Sora 的视频可能看起来令人印象深刻，但它们更多的是关于自动化，而不是真正的人工智能，引发了人们对公司动机和创意工作未来的疑问。我们不要再陷入炒作之中。]]></description>
+      <guid>https://t.me/hn_summary/74970</guid>
+      <pubDate>Mon, 19 Feb 2024 14:53:05 GMT</pubDate>
     </item>
     <item>
-      <title>浮点数确实很奇怪，但让我们先休息一下，开始进行基本的微积分练习。</title>
-      <link>https://t.me/hn_summary/74916</link>
-      <description><![CDATA[浮动很奇怪
-浮点数确实很奇怪，但让我们先休息一下，开始进行基本的微积分练习。这里我们不会证明这个极限，但让我们使用Python来对其进行数值近似。令人惊讶的是，当我们使 $x$ 变得越来越小时，近似值并不总是变得更好。事实上，它的误差可能超过 10%！但不用担心，通过涉及冗余计算的巧妙技巧，我们可以达到我们想要的确切结果。通过使用我们最喜欢的假设分析错误，我们揭示了错误的根源以及为什么一个函数比另一个函数更准确。最后，教训很明确：浮动确实很奇怪。]]></description>
-      <guid>https://t.me/hn_summary/74916</guid>
-      <pubDate>Mon, 19 Feb 2024 07:12:41 GMT</pubDate>
+      <title>阿斯利康 (AstraZeneca) 在肺癌治疗方面取得了重大进展，并取得了令人鼓舞的结果 [...]</title>
+      <link>https://t.me/hn_summary/74969</link>
+      <description><![CDATA[阿斯利康在肺癌治疗方面取得成功
+阿斯利康在肺癌治疗方面取得了重大进展，其令人鼓舞的结果正在改变癌症治疗的格局。他们的创新方法取得了显着的成功率，为患者和医疗保健专业人员带来了希望。在有限的时间内，您可以节省高达 40% 的标准数字访问费用，以随时了解癌症治疗的最新进展。不要错过这项在任何设备上获取优质新闻的重要优惠。立即订阅，在对抗肺癌的斗争中保持领先地位。]]></description>
+      <guid>https://t.me/hn_summary/74969</guid>
+      <pubDate>Mon, 19 Feb 2024 14:49:00 GMT</pubDate>
     </item>
     <item>
-      <title>教授的“对精益软件的呼吁”</title>
-      <link>https://t.me/hn_summary/74915</link>
-      <description><![CDATA[Niklaus Wirth 教授的“对精益软件的呼吁”
-Niklaus Wirth 教授在“对精益软件的呼吁”中论证了创建高效且简约的软件的重要性。他强调设计和实施需要简单化，以避免不必要的复杂性和臃肿。沃斯的请求挑战了功能丰富的软件的流行趋势，并主张回归更精简、更精简的程序。这种有争议的立场可能会引发开发人员和用户之间的争论，但 Wirth 的见解为精益软件开发的好处提供了全新的视角。]]></description>
-      <guid>https://t.me/hn_summary/74915</guid>
-      <pubDate>Mon, 19 Feb 2024 07:05:36 GMT</pubDate>
+      <title>由于周五早上的服务中断，我们经历了一次安全事件，导致一些[...]</title>
+      <link>https://t.me/hn_summary/74968</link>
+      <description><![CDATA[24/24 Wyze 安全事件更新&lt; br/&gt;
+亲爱的 Wyze 朋友们，
+由于周五早上的服务中断，我们遇到了安全事件，导致一些用户看到不正确的缩略图和活动视频。大约 13,000 名用户收到了来自非自己相机的缩略图，但只有 1,504 名用户点击了这些缩略图。其他人看不到您的缩略图。这是由第三方缓存客户端库在前所未有的负载条件下造成的。我们已经实施了新的验证措施，以防止将来出现这种情况。我们对此次违规行为表示歉意，并致力于改进我们的安全措施。如有任何与帐户相关的问题，请访问 support.wyze.com 。 
+威兹团队]]></description>
+      <guid>https://t.me/hn_summary/74968</guid>
+      <pubDate>Mon, 19 Feb 2024 14:44:55 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Bits Credit Card 是一家由 Y Combinator 支持的英国金融科技初创公司，正在招聘一名后端工程师 [...]</title>
-      <link>https://t.me/hn_summary/74914</link>
-      <description><![CDATA[Bits信用卡（YC S20）招募中&lt; br/&gt;
-Bits Credit Card 是一家由 Y Combinator 支持的英国金融科技初创公司，正在招聘一名后端工程师加入他们忠诚的小型团队。凭借超过 500 万美元的收入和为 250,000 名消费者提供服务，您将有机会对现实世界产生影响。要求包括 5 年以上软件开发经验、精通 JavaScript/Typescript 和 AWS 经验。 SaaS 产品经验和 AWS CDK 知识可加分。福利包括有竞争力的薪水、人寿保险和 28 天假期。面试过程包括电话、技术挑战和最后一轮与团队见面。加入 Bits Credit Card 专注于所有权和创新的团队。]]></description>
-      <guid>https://t.me/hn_summary/74914</guid>
-      <pubDate>Mon, 19 Feb 2024 07:01:32 GMT</pubDate>
+      <title>[媒体]如果公共住房适合所有人怎么办？</title>
+      <link>https://t.me/hn_summary/74967</link>
+      <description><![CDATA[如果公共住房适合所有人会怎样？
+受维也纳、芬兰和新加坡成功模式的启发，面向所有收入水平的公有住房的概念正在悄然发生革命，在美国越来越受欢迎。马里兰州蒙哥马利县以其创新的社会住房方法处于领先地位，吸引了亚特兰大和波士顿等城市的兴趣。通过利用公共资金并提供优惠的融资条件，这些项目正在重塑住房格局。然而，这种模式能否真正满足低收入人群的需求仍存在疑问。尽管存在一些争议，但像 The Laureate 这样的项目的成功凸显了混合收入住房为住房危机提供长期解决方案的潜力。 （根据 90% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/74967</guid>
+      <pubDate>Mon, 19 Feb 2024 14:40:51 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 大家好，请注意，Unraid 正在对其许可模式进行一些更改。</title>
-      <link>https://t.me/hn_summary/74913</link>
-      <description><![CDATA[PSA：Unraid 可能正在更改许可模式
-大家好，请注意，Unraid 正在对其许可模式进行一些更改。他们现在正在转向年度更新支持模式，这与他们的旧系统不同。新的更新工具旨在使过程更加顺畅并提供更好的发布信息。然而，一些代码片段表明用户可能需要支付年费才能继续接收操作系统更新。这一转变在 Unraid 用户中引发了一些争议，因此看看这在社区中的表现将会很有趣。请继续关注这个发展故事的更多更新。]]></description>
-      <guid>https://t.me/hn_summary/74913</guid>
-      <pubDate>Mon, 19 Feb 2024 06:46:24 GMT</pubDate>
+      <title>[媒体]摄影师在什罗普希尔捕捉到了带有彩虹翅膀的英国鸟类的令人惊叹的照片[...]</title>
+      <link>https://t.me/hn_summary/74966</link>
+      <description><![CDATA[英国鸟类在什罗普郡拍摄到彩虹翅膀
+摄影师在什罗普郡拍摄了带有彩虹翅膀的英国鸟类的令人惊叹的照片，这一壮举需要完美的时机和照明条件。摄影师利用先进的相机技术在早晨 15 分钟的短暂时间内在光线下拍摄，以达到令人着迷的效果。这些图像展示了光线以正确的角度照射鸟类时的“转变行为”，创造出独特而非凡的景象。摄影师形容这个过程非常困难，但最终还是有回报的，突出了每张照片中捕捉到的自然之美和复杂性。]]></description>
+      <guid>https://t.me/hn_summary/74966</guid>
+      <pubDate>Mon, 19 Feb 2024 14:34:44 GMT</pubDate>
     </item>
     <item>
-      <title>Castle Engine 是一款尖端游戏引擎，允许开发人员创建 2D 和 3D 游戏 [...]</title>
-      <link>https://t.me/hn_summary/74912</link>
-      <description><![CDATA[Castle Engine – 免费、操作系统、x 平台、2D/3D使用现代 Pascal 的游戏引擎
-Castle Engine 是一款尖端游戏引擎，允许开发人员使用现代 Pascal 创建 2D 和 3D 游戏。最好的部分？它是完全免费和开源的，任何想要将游戏创意变为现实的人都可以使用它。 Castle Engine 的与众不同之处在于它能够针对广泛的平台，包括台式机、移动设备，甚至任天堂 Switch 等游戏机。随着对 WebGL 和 Oculus VR 的支持即将到来，创造沉浸式游戏体验的可能性是无限的。立即加入 Castle Engine 社区并开始构建您的梦想游戏。]]></description>
-      <guid>https://t.me/hn_summary/74912</guid>
-      <pubDate>Mon, 19 Feb 2024 06:42:19 GMT</pubDate>
+      <title>[媒体]GCC 14 版本系列带来了支持新标准和提高性能的更改。</title>
+      <link>https://t.me/hn_summary/74965</link>
+      <description><![CDATA[移植到 GCC 14：C 语言问题
+GCC 14 版本系列带来了支持新标准和提高性能的更改。某些警告现在是错误，例如隐式 int 类型和函数声明。删除对旧 C 语言功能的支持可能会在移植到 GCC 14 时导致问题。函数原型中的拼写错误和不正确的返回语句用法现在被视为错误。指针类型转换和类型检查也已更新。这些更改旨在为程序员提供更清晰的反馈并提高代码质量。移植到 GCC 14 可能需要更新上游版本的源文件并解决历史上的 C 兼容性问题。 （根据故事文本的 65% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/74965</guid>
+      <pubDate>Mon, 19 Feb 2024 14:24:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
