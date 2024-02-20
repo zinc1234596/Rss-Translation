@@ -4,111 +4,111 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 20 Feb 2024 12:20:11 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Feb 2024 18:16:49 GMT</lastBuildDate>
     <item>
-      <title>如何让你的 React Router v6 数据路由器与 redux 一起工作？使用 redux-data-router！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1avff0v/how_do_you_get_your_react_router_v6_data_router/</link>
-      <description><![CDATA[   /u/cha0s  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1avff0v/how_do_you_get_your_react_router_v6_data_router/</guid>
-      <pubDate>Tue, 20 Feb 2024 11:25:24 GMT</pubDate>
+      <title>PWA 死了吗？还有其他选择吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1avojxf/are_pwa_dead_any_alternatives/</link>
+      <description><![CDATA[我与客户一起使用 PWA，我将所有表单从该网站提交到 PWA，他们可以在其中访问提交内容，PWA 是一个基本的 CRUD 网络应用程序。  随着苹果在欧盟取消 PWA 支持，我担心同样的事情也会在美国发生，我的客户会感到很困惑  很好奇是否有人知道商店中有任何可以使用 PWA 的应用程序替代我的 PWA。   由   提交 /u/Wvrcus   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1avojxf/are_pwa_dead_any_alternatives/</guid>
+      <pubDate>Tue, 20 Feb 2024 18:15:34 GMT</pubDate>
     </item>
     <item>
-      <title>将链接发送到我制作的网站时，图像仅向我们显示文件夹中的一张图像，没有样式。.如何更改此处显示的图像？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1avf8du/when_sending_the_link_to_the_website_i_made_the/</link>
-      <description><![CDATA[   /u/BallsDeap   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1avf8du/when_sending_the_link_to_the_website_i_made_the/</guid>
-      <pubDate>Tue, 20 Feb 2024 11:14:00 GMT</pubDate>
+      <title>帮助！在移动 Chrome 浏览器中查看 React 应用程序时，用户界面出现抖动</title>
+      <link>https://www.reddit.com/r/webdev/comments/1avnwiw/help_jittery_user_interface_when_react_app_is/</link>
+      <description><![CDATA[所以我有这个 React 应用程序，采用 tailwind css 样式；在桌面上一切都运行顺利，但是当我从移动设备上查看该应用程序时，在页面上向下滚动时感觉很紧张；我还有一个用于移动浏览器视图的响应式导航菜单；但从左到右的过渡是滞后的；就好像显示帧速率下降了。当我在移动浏览器中以“桌面站点”模式查看该应用程序时，它可以顺利运行。我不明白为什么会发生这种情况，请帮忙。   由   提交/u/GanjaGlobal  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1avnwiw/help_jittery_user_interface_when_react_app_is/</guid>
+      <pubDate>Tue, 20 Feb 2024 17:50:35 GMT</pubDate>
     </item>
     <item>
-      <title>2023 年顶级前端工具</title>
-      <link>https://www.reddit.com/r/webdev/comments/1avf3x8/top_frontend_tools_of_2023/</link>
-      <description><![CDATA[       由   提交/u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1avf3x8/top_frontend_tools_of_2023/</guid>
-      <pubDate>Tue, 20 Feb 2024 11:06:05 GMT</pubDate>
+      <title>那么，关于React。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1avn5lp/so_about_react/</link>
+      <description><![CDATA[我喜欢 React。 Hook 感觉就像是 JavaScript 的狂野西部和 MVC 等严格模式之间的一个很好的中间地带。函数组件（当我们编写时）是声明性的和表达性的。有大量的库和支持可供使用。 我的问题是，您在使用 React 时遇到了哪些问题？我听过一些不同的即兴抱怨，但我很想听到更直接的抱怨   由   提交 /u/tajetaje   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1avn5lp/so_about_react/</guid>
+      <pubDate>Tue, 20 Feb 2024 17:21:14 GMT</pubDate>
     </item>
     <item>
-      <title>我想切换到不同的技术堆栈，但缺乏我想要的技术的知识。我该如何进行切换？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1avez11/i_want_to_switch_to_a_different_tech_stack_but/</link>
-      <description><![CDATA[上下文：我是一名自由开发人员，专注于全栈 TypeScript 开发。我在这个生态系统中拥有多年的经验，并且还提供一些 Java 或 Kotlin 后端工作。我的客户为我预订了至少 3-6 个月，标准期限为 1 年。 我想知道除了我目前的产品组合中的技术之外，我想更改为其他技术是多么容易。我想在 Rails 或 PHP 方向发展自己。然而，到目前为止，我对这些技术几乎没有经验，并且想知道如何进行转换。在我看来，如果我只能提供与 JavaScript 相关的任何内容，对我来说风险就更高。 当然，我可以使用这些技术开发自己的产品并吸引用户 - 但这需要一些时间-消费。 是否有更短的方法来进入它？只是我什至无法在面试中回答我对 Rails/PHP 有多少 YOE 的问题。我如何提供我没有的东西？   由   提交/u/qthulunew  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1avez11/i_want_to_switch_to_a_different_tech_stack_but/</guid>
-      <pubDate>Tue, 20 Feb 2024 10:57:48 GMT</pubDate>
+      <title>反应JS</title>
+      <link>https://www.reddit.com/r/webdev/comments/1avn08l/react_js/</link>
+      <description><![CDATA[嘿！我是一名二年级理工科学生，这是我最后一个学期。我已经学会了React.js，但我没有写任何笔记或保存任何东西，现在我很后悔，因为我已经忘记了一切。我学习了几个星期，我想如果我有一个复习视频我就能记住它们。但我在 YouTube 上找到的都是待办事项列表之类的项目，很无聊。我需要一个用 React 制作的项目，该项目实际上很重要并且可以修改。请在评论中给我推荐一些 React.js 的项目制作视频。    由   提交/u/Altruistic_Gap2719   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1avn08l/react_js/</guid>
+      <pubDate>Tue, 20 Feb 2024 17:15:24 GMT</pubDate>
     </item>
     <item>
-      <title>如何通过自由职业赚钱</title>
-      <link>https://www.reddit.com/r/webdev/comments/1avevev/how_to_earn_money_freelancing/</link>
-      <description><![CDATA[对于 2 年全栈开发人员来说，作为自由职业者赚钱最现实的方式是什么？  除了使用 WebFlow 的基本 2D 网站之外，还有其他可行的选择吗？   由   提交 /u/DanielQuickSilver   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1avevev/how_to_earn_money_freelancing/</guid>
-      <pubDate>Tue, 20 Feb 2024 10:51:05 GMT</pubDate>
+      <title>处理联系表格</title>
+      <link>https://www.reddit.com/r/webdev/comments/1avmt5e/handle_contact_forms/</link>
+      <description><![CDATA[有自由职业者愿意提供一些关于他们如何处理客户网站上的联系表单的见解吗？您使用过并推荐什么好的服务吗？计划制作静态网站，但不确定联系表单数据发送到服务器后如何处理。    由   提交 /u/fl3ggm   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1avmt5e/handle_contact_forms/</guid>
+      <pubDate>Tue, 20 Feb 2024 17:08:03 GMT</pubDate>
     </item>
     <item>
-      <title>适合没有 Web 后端经验的经验丰富的开发人员的后端框架</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aveo0j/backend_framework_for_experienced_dev_without_web/</link>
-      <description><![CDATA[标题。  我有 5+ YOE，“通用”使用 Python 和 C++ 进行编程，很多使用 Typescript 进行 React，还有一些使用 Flask。我主要使用 MongoDB 我希望学习如何构建一个“正确的”数据库。 Web 后端（多个用户、登录、数据库、ORM 等...） Typescript 是理想的选择，尽管我对其他语言持开放态度。 目前考虑的框架：&lt; br /&gt; - Adonis：在 Typescript 中，读到了很多关于它的好东西，有点担心社区支持/学习资源的数量  - Django：看起来很扎实，但是学习资源数量巨大我读到它不是当今最现代的   由   提交/u/thibthib18  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aveo0j/backend_framework_for_experienced_dev_without_web/</guid>
-      <pubDate>Tue, 20 Feb 2024 10:37:24 GMT</pubDate>
+      <title>如何设计一个安全的个人博客？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1avmfhy/how_do_i_design_a_secure_personal_blog/</link>
+      <description><![CDATA[我很抱歉问这个问题，但在网络托管等方面我完全是菜鸟。我涉足了 html 和 css我在这些方面有些擅长。 我想创建一个个人改进博客网站。我的网站将包含标准内容，例如“关于我”和“关于我”。但我真的很想关注几件事，它们将基于马斯洛的需求层次。 这些是潜在的页面： 1) 个人健身取得很大进展照片和滑块之前/之后的照片。 2) 带有上述滑块之前/之后和进度照片的护肤页面。 3) 带有动态图表的财务页面。 所以，我的问题是： -您推荐哪个主机来使网站安全且快速加载？ 提前感谢您的回复:-)    由   提交/u/Full_Eye7824   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1avmfhy/how_do_i_design_a_secure_personal_blog/</guid>
+      <pubDate>Tue, 20 Feb 2024 16:52:57 GMT</pubDate>
     </item>
     <item>
-      <title>6个月要求加薪是否太早？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1aveep4/is_6_months_too_early_to_ask_of_for_a_raise/</link>
-      <description><![CDATA[6个月前加入新公司，一直表现良好。虽然我的工作只是后端，但实际上我在这里的大部分时间都在做全栈工作。此外，我从一位有相同经历的同事那里听说，尽管他做的工作较少（只与BE有关，而我两者都做），但他的收入比我多10%。那么我应该在下次绩效评估期间要求加薪吗？   由   提交/u/worknovel  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1aveep4/is_6_months_too_early_to_ask_of_for_a_raise/</guid>
-      <pubDate>Tue, 20 Feb 2024 10:20:11 GMT</pubDate>
+      <title>尝试将单选按钮文本置于按钮左侧。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1avluyo/trying_to_get_radio_button_text_to_left_of_button/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1avluyo/trying_to_get_radio_button_text_to_left_of_button/</guid>
+      <pubDate>Tue, 20 Feb 2024 16:30:26 GMT</pubDate>
     </item>
     <item>
-      <title>您可以合理地向客户保证多少 PageSpeed Insights 得分，并且仍然被认为令人印象深刻？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1avdq60/what_pagespeed_insights_score_can_you_reasonably/</link>
-      <description><![CDATA[你保证移动端和桌面端的分数相同吗？您是否会根据网站是否静态给出不同的分数？ 或者您根本不费心告诉客户（之前或之后），因为这对他们来说并不重要？如果是这样，我的目标应该是多少？   由   提交/u/klaydough777   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1avdq60/what_pagespeed_insights_score_can_you_reasonably/</guid>
-      <pubDate>Tue, 20 Feb 2024 09:34:30 GMT</pubDate>
+      <title>对办公室着装感到好奇</title>
+      <link>https://www.reddit.com/r/webdev/comments/1avlpmn/curious_on_office_attire/</link>
+      <description><![CDATA[我今天早上正在考虑的非技术相关问题。  您在办公室的着装要求是怎样的？在我之前的职位中，我是一名技术项目经理，所以我并不是每天都穿着套装；但因为我是面向客户的，所以我确保我的服装统一。  自从我成为 SDE 后，我不再面向客户，我通常会穿运动鞋、舒适的裤子、连帽衫、舒适的圆领衫等。即使在夏天，我也开始穿短裤工作（但不是篮球/健身短裤）。我知道我的组织中的高级工程师和高级工程师与多个团队合作，因此他们不会穿得休闲，但他们在我的组织中更多地面向客户。    由   提交/u/prm20_  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1avlpmn/curious_on_office_attire/</guid>
+      <pubDate>Tue, 20 Feb 2024 16:24:28 GMT</pubDate>
     </item>
     <item>
-      <title>有人有 nginx 下 http3/quic 的“最佳实践”指南吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1avddzy/anyone_have_a_best_practices_guide_for_http3quic/</link>
-      <description><![CDATA[我工作很快（由 https://http3check.net 验证/），但发现我网站的上传速度因此受到影响。 我后来添加了 http3_stream_buffer_size 1m; （默认为 64k&lt; /code&gt;）并且速度已经大大提高，至少提高了一个数量级。 这太棒了，“问题解决了”。但没有任何地方告诉我在设置快速设置时要这样做。我想知道我目前可能没有意识到的其他陷阱，或者应该针对大多数人的用例更改哪些其他默认设置。 谢谢。 &lt;!-- SC_ON - -&gt;  由   提交/u/codemunky  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1avddzy/anyone_have_a_best_practices_guide_for_http3quic/</guid>
-      <pubDate>Tue, 20 Feb 2024 09:10:36 GMT</pubDate>
+      <title>是否有类似 Behance 或 Dribbble 之类的用于开发工作的网站？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1avllet/is_there_any_website_like_behance_or_dribbble_for/</link>
+      <description><![CDATA[有很多设计作品集网站可以分享作品，比如Behance、Dribbble等...但我还没见过一个可以分享开发者项目的网站。我们确实有 Github，但除了搜索引擎之外，它没有任何影响力。 你知道我如何分享我的作品集，以便想要招聘的人可以找到它吗？   由   提交/u/leodavinci11   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1avllet/is_there_any_website_like_behance_or_dribbble_for/</guid>
+      <pubDate>Tue, 20 Feb 2024 16:19:48 GMT</pubDate>
     </item>
     <item>
-      <title>您能为经销商托管推荐一个可靠的邮箱吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1avdb1x/can_you_recommend_a_solid_mailbox_for_reseller/</link>
-      <description><![CDATA[我们托管我们构建的大部分网站，但我们的大多数客户都有自己的 IT 团队来管理域名和电子邮件。 &lt; p&gt;有时，我们的小客户也会要求电子邮件托管，但我不确定最好的解决方案是什么。 通常，我会鼓励客户设置自己的 365 或 Google Workspace 帐户，但什么是最好的解决方案？我们代表他们进行管理的最佳选择是什么？   由   提交 /u/tomjazzman   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1avdb1x/can_you_recommend_a_solid_mailbox_for_reseller/</guid>
-      <pubDate>Tue, 20 Feb 2024 09:05:05 GMT</pubDate>
+      <title>Tailwind + Stripe + Github 页面 + Rewrite.blog 免费模板</title>
+      <link>https://www.reddit.com/r/webdev/comments/1avlba1/tailwind_stripe_github_pages_rewriteblog_free/</link>
+      <description><![CDATA[       由   提交/u/tmoreton  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1avlba1/tailwind_stripe_github_pages_rewriteblog_free/</guid>
+      <pubDate>Tue, 20 Feb 2024 16:08:34 GMT</pubDate>
     </item>
     <item>
-      <title>更新：OneUptime - 开源 StatusPage.io + Incident.io + Loggly 替代方案。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1avcxg5/update_oneuptime_open_source_statuspageio/</link>
-      <description><![CDATA[OneUptime (https://github.com/oneuptime/oneuptime ）是 StausPage.io + UptimeRobot + Loggly + PagerDuty 的开源替代品。它 100% 免费，您可以在虚拟机/服务器上自行托管它。 ​ 新更新：我们现在支持 Fluentd (https://www.fluenced.org/) 用于日志提取，以便您可以使用 1000 多个来源，例如Docker、Syslog、Systemd 将日志发送到 OneUptime。由 Ceph 提供支持点击屋。摄取 PB 级日志并在几毫秒内进行搜索。从任何来源提取，当出现问题时提醒正确的团队成员。   由   提交/u/OuPeaNut   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1avcxg5/update_oneuptime_open_source_statuspageio/</guid>
-      <pubDate>Tue, 20 Feb 2024 08:38:16 GMT</pubDate>
+      <title>评论中的CodePen |如何在不同分辨率下保留图像长宽比并添加边框半径</title>
+      <link>https://www.reddit.com/r/webdev/comments/1avl0i8/codepen_in_the_comment_how_to_preserve_image/</link>
+      <description><![CDATA[       由   提交 /u/VLRbaXUjymAqyvaeLqUo   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1avl0i8/codepen_in_the_comment_how_to_preserve_image/</guid>
+      <pubDate>Tue, 20 Feb 2024 15:56:57 GMT</pubDate>
     </item>
     <item>
-      <title>用于工作的 Web 开发工具</title>
-      <link>https://www.reddit.com/r/webdev/comments/1avcwgw/web_dev_tools_used_for_work/</link>
-      <description><![CDATA[您好， 我的公司建议用户使用 Chrome，而不是其他浏览器。 将会使用 Chromium 浏览器对我来说比较明智，还是使用 Firefox 比较好？出于某种原因，我真的很喜欢 Firefox 的开发工具。   由   提交/u/Charming_Pop90  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1avcwgw/web_dev_tools_used_for_work/</guid>
-      <pubDate>Tue, 20 Feb 2024 08:36:12 GMT</pubDate>
+      <title>职业问题（？）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1avkxfo/career_quesiton/</link>
+      <description><![CDATA[各位，仅凭副学士学位是否可以在美国的 webdev 找到工作，还是需要学士学位？我有工作证和居留证。  如果是这种情况，大学的建议是什么？  谢谢。   由   提交 /u/CompleteMechanic6278   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1avkxfo/career_quesiton/</guid>
+      <pubDate>Tue, 20 Feb 2024 15:53:29 GMT</pubDate>
     </item>
     <item>
-      <title>oneword.domains 如何在不花费巨额成本的情况下跟踪 250 万个域名？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1avbwzp/how_does_oneworddomains_track_25m_domains_without/</link>
-      <description><![CDATA[大家好， 向你们技术奇才提出一个简单的问题。我们一直在查看 oneword.domains，他们每分钟都会检查各个 TLD 中 250 万个域名的可用性。有人知道如何在不收取大量 API 费用或不需要超级计算机的情况下做到这一点吗？ 他们是否使用 DNS 技巧、智能缓存或其他东西？很好奇这种事情是如何在不花太多钱的情况下工作的。 谢谢！   由   提交/u/AManFromEarth_  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1avbwzp/how_does_oneworddomains_track_25m_domains_without/</guid>
-      <pubDate>Tue, 20 Feb 2024 07:30:54 GMT</pubDate>
+      <title>Twitter 跟踪像素导致 WCAG 测试错误，有关于如何解决此问题的建议吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1avkor4/twitter_tracking_pixel_causing_wcag_testing/</link>
+      <description><![CDATA[我们的分析/营销团队正在通过 GTM 在每个页面加载上加载 Twitter 跟踪像素。 https://t.co/i/adsct?bci=3\&amp;eci=2\&amp;event\_id=xxx-xxx-xxx-xxx-x\&amp;事件=%5B%5B%xxxx%22%2C%7B%7D%5D%5D\&amp;集成=广告商\&amp;p\_id=Twitter\&amp;p\_user\_id =0\&amp;pl\_id=xxx\&amp;tw\_document\_href=https%3A%2F%2Fwww.WEBSITE.edu%2Fhyphenate\&amp;tw\_iframe\_status=0\&amp; ;tw\_order\_quantity=0\&amp;tw\_sale\_amount=0\&amp;txn\_id=obqia\&amp;type=javascript\&amp;version=2.3.29 ”高度＝“1”宽度＝“1” style=&quot;显示：无;&quot;&gt;&lt;img src=&quot;https://analytics.twitter.com/i/adsct?bci=3\&amp;eci=2\&amp;event\_id=xxx \&amp;事件=%5B%5B%22pageview%22%2C%7B%7D%5D%5D\&amp;集成=广告商\&amp;p\_id=Twitter\&amp;p\ _user\_id=0\&amp;pl\_id=xxxx\&amp;tw\_document\_href=https%3A%2F%2Fwww.WEBSITE.edu%2Fhyphenate\&amp;tw\_iframe\_status= 0\&amp;tw\_order\_quantity=0\&amp;tw\_sale\_amount=0\&amp;txn\_id=obqia\&amp;type=javascript\&amp;version= 2.3.29”高度＝“1”宽度＝“1” style=&quot;显示：无；&quot;&gt; 但是，加载的图像上没有 alt 标签，它炸毁了我们的 ADA/WCAG 扫描仪。  除了声称这是一个糟糕的误报之外，还有人有解决这个问题的好方法吗？ twitter 是否有一个设置可以让我们定义 alt 标签？ Twitter 是否有一个设置可以让我们定义 alt 标签？ &gt; 我是否需要编写一些糟糕的 javascript，在加载后在 DOM 中重写它？ 谢谢！  &amp;# 32；由   提交 /u/alphex   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1avkor4/twitter_tracking_pixel_causing_wcag_testing/</guid>
+      <pubDate>Tue, 20 Feb 2024 15:43:27 GMT</pubDate>
     </item>
     <item>
-      <title>必须使用 Bluehost 共享主机制作一个网站。不确定最好的方法。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1avbtdu/have_to_make_a_website_with_bluehost_shared/</link>
-      <description><![CDATA[我的大学有一个项目，其中我获得了一个 bluehost 子域，我的任务是使用它来创建一个您可以添加的网站，为尝试进一步学习的学生存储和展示资源。我不会承担任何可能是该项目五月之前的其他持续成本（无数据库费用）的费用。 我是 Web 开发的新手，我有一些 WordPress、javascript 的入门技能，并且框架（vue、next、svetle）以及一些 Netlify 和 MongoDB 等知识。  根据我的研究，我发现我无法真正在 Bluhost 共享上运行 Node JS，因此没有下一个 js 没有 javascript 服务器。我也许可以使用面板中包含的普通 JavaScript 和 MySQL 数据库，但这需要我学习 PHP。 有人对解决此问题的最佳方法有任何想法或建议吗？我不知道该怎么办。我缺乏经验，所以我在这方面遇到了困难 TLDR 必须使用 Bluehost 共享主机制作一个网站。不确定最好的方法。感谢您的帮助   由   提交 /u/Lazer_lad   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1avbtdu/have_to_make_a_website_with_bluehost_shared/</guid>
-      <pubDate>Tue, 20 Feb 2024 07:24:36 GMT</pubDate>
+      <title>全屏视频的分辨率</title>
+      <link>https://www.reddit.com/r/webdev/comments/1avkkye/resolution_for_full_screen_videos/</link>
+      <description><![CDATA[我目前正在构建一个网站，该网站的着陆页上有全屏视频作为背景，分辨率应该为 1920 x 1080 吗？关于如何将视频缩小到可接受的大小有什么想法吗？目前使用webm格式的amd文件大小为46mb！ MP4 是 27mb 我以为 webm 应该使用压缩？提前谢谢您    由   提交 /u/BoysenberryDapper141   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1avkkye/resolution_for_full_screen_videos/</guid>
+      <pubDate>Tue, 20 Feb 2024 15:39:04 GMT</pubDate>
     </item>
     <item>
-      <title>我如何在前端变得更好？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1avb4rm/how_do_i_get_better_at_front_end/</link>
-      <description><![CDATA[我真的很难处理 html 和 css，你们有什么提示或教程可以帮助吗？   由   提交 /u/centerdeveloper   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1avb4rm/how_do_i_get_better_at_front_end/</guid>
-      <pubDate>Tue, 20 Feb 2024 06:41:27 GMT</pubDate>
+      <title>有没有一种堆栈是你像躲避瘟疫一样回避的？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1avk1h2/is_there_a_stack_you_avoid_like_the_plague/</link>
+      <description><![CDATA[我从来没有申请过包含 Java 的工作（为什么 Kotlin 还没有被采用？！）   由   提交 /u/gotgel_fire   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1avk1h2/is_there_a_stack_you_avoid_like_the_plague/</guid>
+      <pubDate>Tue, 20 Feb 2024 15:16:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
