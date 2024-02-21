@@ -4,86 +4,88 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Wed, 21 Feb 2024 08:39:24 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Feb 2024 21:06:11 GMT</lastBuildDate>
     <item>
-      <title>[媒体]研究表明，通常与多动症相关的特征，例如冲动和d [...]</title>
-      <link>https://t.me/hn_summary/75279</link>
-      <description><![CDATA[研究表明，多动症可能是一种进化优势 
-研究表明，通常与多动症相关的特征，例如冲动和注意力分散，实际上可能是我们祖先的进化优势。虽然多动症通常被视为负面的，但研究人员发现这些特征可以帮助人们寻找新的食物觅食地。在《英国皇家学会学报 B》上发表的一项研究中，患有 ADHD 样症状的参与者更有可能放弃当前的觅食地并寻找新的觅食地，最终在游戏中获得更多分数。这挑战了多动症仅仅是一种疾病的观念，表明它可能在整个人类进化过程中的某些情况下具有益处。]]></description>
-      <guid>https://t.me/hn_summary/75279</guid>
-      <pubDate>Wed, 21 Feb 2024 08:39:24 GMT</pubDate>
+      <title>谷歌正在为其登录和注册页面提供全新的外观，其现代设计与 [...]</title>
+      <link>https://t.me/hn_summary/75399</link>
+      <description><![CDATA[更新了用于登录或注册 Google 帐户的用户界面
+谷歌正在为其登录和注册页面提供全新的外观，采用与 Material Design 相一致的现代设计。此更新在网络和移动设备上都可见，但不用担心，功能没有变化。管理员和最终用户无法控制此功能，因为它将自动为所有 Google Workspace 客户和个人 Google 帐号用户实施。请查看帮助中心，了解有关新 Google 登录页面的更多信息。]]></description>
+      <guid>https://t.me/hn_summary/75399</guid>
+      <pubDate>Wed, 21 Feb 2024 21:06:11 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]波音最近的危机，包括 737 Max 机队的停飞，造成了 [...]</title>
-      <link>https://t.me/hn_summary/75278</link>
-      <description><![CDATA[波音危机可能为中国飞机的飞越打开缺口
-波音公司最近的危机，包括 737 Max 机队的停飞，为中国飞机制造商创造了潜在获得市场份额的机会。在波音面临挑战和审查的情况下，中国喷气式飞机可能有机会填补市场空白。这种转变可能会对航空业和全球竞争产生重大影响。利用我们的限时优惠，在任何设备上访问基本 FT 新闻的标准数字访问可节省高达 40% 的费用。不要错过这个在这个关键时刻了解情况的机会。]]></description>
-      <guid>https://t.me/hn_summary/75278</guid>
-      <pubDate>Wed, 21 Feb 2024 08:09:11 GMT</pubDate>
+      <title>[媒体]英伟达公布了第四季度和 2024 财年的财务业绩，[...]</title>
+      <link>https://t.me/hn_summary/75398</link>
+      <description><![CDATA[Nvidia 公布第四季度和 2024 财年财务业绩 
+Nvidia 公布了第四季度和 2024 财年的财务业绩，展示了令人印象深刻的增长和成功。作为一项突破性举措，科学家们将利用由 NVIDIA CUDA 量子平台提供支持并由澳大利亚 Pawsey 超级计算研究中心的 NVIDIA Grace Hopper 超级芯片提供支持的最先进的量子计算模拟。此次合作将突破国家超级计算和量子计算创新中心的创新界限。请继续关注这一激动人心的开发的更多更新。]]></description>
+      <guid>https://t.me/hn_summary/75398</guid>
+      <pubDate>Wed, 21 Feb 2024 21:05:07 GMT</pubDate>
     </item>
     <item>
-      <title>嘿，游戏开发者！</title>
-      <link>https://t.me/hn_summary/75277</link>
-      <description><![CDATA[游戏编程模式
-嘿，游戏开发者！您是否正在努力使代码具有凝聚力且易于理解？游戏编程模式可以为您提供帮助。游戏中发现的这些模式将使您的代码更清晰、更易于理解且速度更快。提供印刷版、电子书、PDF 和网页格式，具有手工设计和精美的排版。最好的部分？本书的全部内容均可在网络上免费获取。由 Bob Nystrom 撰写，他分享了他在艺电多年的见解。读者对这本书赞不绝口，称其为游戏程序员的必备书籍。与鲍勃保持联系以获取更新和更正。]]></description>
-      <guid>https://t.me/hn_summary/75277</guid>
-      <pubDate>Wed, 21 Feb 2024 07:54:03 GMT</pubDate>
+      <title>[媒体] 在这篇博文中，我接受了将 10 亿行从 Postgres 移动到 S 的挑战 [...]</title>
+      <link>https://t.me/hn_summary/75397</link>
+      <description><![CDATA[以 100 美元的预算移动 10 亿个 Postgres 行&lt; br/&gt;
+在这篇博文中，我接受了以 100 美元的预算将 10 亿行从 Postgres 迁移到 Snowflake 的挑战。我讨论了所使用的工具和技术，例如并行处理和数据压缩，以优化性能并最大限度地降低成本。一项令人惊讶的优化是在 Postgres 中使用 TID Scan 来高效读取大量数据。我还强调了保持 Snowflake 仓库空闲以降低计算成本的重要性。虽然存在一些功能差距，但该方法有效地处理常见用例。总体而言，所构建系统的成本细分很详细，显示了该过程的实用性。 （根据 92% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/75397</guid>
+      <pubDate>Wed, 21 Feb 2024 21:01:02 GMT</pubDate>
     </item>
     <item>
-      <title>Microsoft OS/2 2.0 的罕见预览版（不是 IBM 的版本）最近在 eBay 上以 650 美元的价格出售。</title>
-      <link>https://t.me/hn_summary/75276</link>
-      <description><![CDATA[在 eBay 上出售的 Microsoft OS/2 2.0 预览版
-Microsoft OS/2 2.0 的罕见预览版（不是 IBM 的版本）最近在 eBay 上以 650 美元的价格出售。微软与IBM共同开发了OS/2，但在OS/2 1未能产生影响后，微软转向了Windows 3.0。在 Windows 3.0 取得成功后，OS/2 2.0 被推迟到 1992 年。在 eBay 上找到的预览版让我们可以一睹微软在合作关系结束之前在 32 位 OS/2 上的工作。这段操作系统历史揭示了 Microsoft 的早期开发工作以及 90 年代初科技行业的竞争格局。]]></description>
-      <guid>https://t.me/hn_summary/75276</guid>
-      <pubDate>Wed, 21 Feb 2024 07:51:58 GMT</pubDate>
+      <title>标题：Show HN：一项单功能工具的实验，售价 7164 美元/月</title>
+      <link>https://t.me/hn_summary/75396</link>
+      <description><![CDATA[展示 HN：单功能工具的实验，每月收入 7164 美元
+标题：Show HN：单功能工具的实验，每月 7164 美元
+
+在我关于创建 Index Rusher（一种用于更快 SEO 排名的索引工具）的详细故事中，我分享了我从想法到收入的旅程。该工具最初是为个人使用而构建的，只有一项功能，在意识到其潜力后公开发布。尽管起步不高，但战略增长黑客在 30 天内带来了超过 7000 美元的收入。关键策略包括交叉链接、社交媒体可见性、目录列表、赞助展示位置和联属合作伙伴关系。在收回成本和赚取利润后，未来的计划包括扩大用户群、提高口碑和探索新的营销途径。请继续关注该项目的最新进展。]]></description>
+      <guid>https://t.me/hn_summary/75396</guid>
+      <pubDate>Wed, 21 Feb 2024 20:57:57 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] github 项目适用于 100kHz 至 6GHz 2 端口、基于 USB 的 VNA（矢量网络分析仪）。</title>
-      <link>https://t.me/hn_summary/75275</link>
-      <description><![CDATA[基于 100kHz 至 6GHz 2 端口 USB 的 VNA
-github 项目适用于 100kHz 至 6GHz 2 端口、基于 USB 的 VNA（矢量网络分析仪）。它是作者首次尝试 VNA 的改进版本，不需要在 Windows 上进行任何安装或驱动程序。该项目仍在开发中，目前已提供初步规格。 VNA 的工作原理是通过 USB 将数据传输到 PC 应用程序，并在其中完成所有处理。该项目使用射频开关进行端口隔离，使用电阻回波损耗桥实现宽带宽，并为每个端口使用单独的接收路径。 VNA 由 USB 供电，并具有自己的 FPGA，用于与 RF 模块通信。]]></description>
-      <guid>https://t.me/hn_summary/75275</guid>
-      <pubDate>Wed, 21 Feb 2024 07:39:50 GMT</pubDate>
+      <title>[媒体] X.Org 服务器正在发生一些变化，旧的编译器支持被清除 [...]</title>
+      <link>https://t.me/hn_summary/75395</link>
+      <description><![CDATA[X.org 服务器清除了支持旧编译器的残余
+X.Org 服务器正在发生一些变化，旧的编译器支持最近被清除。这包括删除对旧 Sun 和 USL 编译器的支持，因为它们不再被使用，并且会导致新 Meson 构建系统出现问题。有些人可能会反对放弃对这些过时编译器的支持，但随着改用 Meson，有必要清理代码库。此外，还有一些有趣的补丁，例如 Oracle 的 Alan Coopersmith 发布的补丁。尽管缺乏新功能版本，X.Org Server 仍继续通过补丁版本解决安全问题。 2024 年是否会发布任何新功能还有待观察。]]></description>
+      <guid>https://t.me/hn_summary/75395</guid>
+      <pubDate>Wed, 21 Feb 2024 20:56:52 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]作者分享了他们为 macOS 开发命令行工具的经验，highli [...]</title>
-      <link>https://t.me/hn_summary/75274</link>
-      <description><![CDATA[您想发布适用于 macOS 的命令行工具
-作者分享了他们为 macOS 开发命令行工具的经验，强调了代码签名和公证的挑战。他们对 Apple 复杂且不透明的流程表示失望，并详细介绍了他们在让自己的工具在 macOS 上顺利运行时遇到的困难。作者还讨论了潜在的解决方法，并对因类似问题而放弃苹果生态系统的开发者表示同情。最终，他们提供了分发该工具的选项，并承认确保其在 macOS 上无缝运行所涉及的限制和复杂性。 （根据 90% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/75274</guid>
-      <pubDate>Wed, 21 Feb 2024 07:27:42 GMT</pubDate>
+      <title>[媒体] 对 NHTSA 延迟实施自适应驾驶梁 (ADB) 头感到沮丧 [...]</title>
+      <link>https://t.me/hn_summary/75394</link>
+      <description><![CDATA[破解高级欧洲车头灯 NHTSA 不想要你拥有
+由于对 NHTSA 延迟实施自适应驾驶光束 (ADB) 车头灯感到沮丧，许多美国驾驶员发现自己无法使用其他国家提供的先进车头灯技术。 SPAyceTech 推出了 Orbit，该软件允许用户访问车辆的诊断和配置设置，从而解锁像素车头灯、自适应巡航控制和车道保持辅助等以前无法访问的功能。有 500 多个可用的可配置项目，可能性是无限的。不过，在进行任何软件升级或拜访经销商之前，用户应谨慎操作并恢复到原始配置。]]></description>
+      <guid>https://t.me/hn_summary/75394</guid>
+      <pubDate>Wed, 21 Feb 2024 20:37:41 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]此 GitHub 项目旨在使用 Do [...] 在 AWS EC2 上部署高度可用的基础设施</title>
-      <link>https://t.me/hn_summary/75273</link>
-      <description><![CDATA[显示 HN：使用 Docker-compose 将高可用基础设施部署到 EC2 CDK
-此 GitHub 项目旨在使用 Docker Compose 和 CDK 在 AWS EC2 上部署高度可用的基础设施。它利用自动缩放组和弹性负载均衡器来确保可扩展性和可靠性。该项目的独特之处在于使用 Traefik 进行容器发现和滚动部署，以及利用 S3 进行配置文件存储和 ECR 进行容器存储库。该项目还提供有关 SSH 访问、更新基础设施以及管理与 AWS NAT 网关相关的成本的指导。用户必须安装 AWS CLI、CDK 和 Docker 才能有效使用此项目。]]></description>
-      <guid>https://t.me/hn_summary/75273</guid>
-      <pubDate>Wed, 21 Feb 2024 07:11:32 GMT</pubDate>
+      <title>[媒体]迄今为止最大规模的新冠疫苗研究发现了疫苗与疫苗之间的潜在联系[...]</title>
+      <link>https://t.me/hn_summary/75393</link>
+      <description><![CDATA[迄今为止最大规模的新冠疫苗研究发现与健康状况的关联 
+迄今为止最大规模的新冠疫苗研究发现了疫苗与某些健康状况之间的潜在联系。这项研究由插入组织的研究人员进行，分析了数百万疫苗接种者的数据，并确定了疫苗与特定健康状况风险增加之间的相关性。虽然这些发现仍处于初步阶段，还需要更多研究，但这项研究揭示了新冠疫苗的潜在副作用。这一有争议的发现引发了卫生专家和公众的争论，凸显了持续监测和研究在抗击疫情方面的重要性。]]></description>
+      <guid>https://t.me/hn_summary/75393</guid>
+      <pubDate>Wed, 21 Feb 2024 20:25:33 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 隆重推出 DeepComputing ROMA RISC-V 笔记本电脑，这是一款功能强大的创新设备，可 [...]</title>
-      <link>https://t.me/hn_summary/75272</link>
-      <description><![CDATA[深度计算 ROMA RISC-V 笔记本电脑
-隆重推出 DeepComputing ROMA RISC-V 笔记本电脑，这是一款功能强大的创新设备，将尖端技术与时尚设计相结合。这款笔记本电脑采用 RISC-V 架构，提供无与伦比的性能和效率。这款笔记本电脑的正常价格为 7,820.00 美元，现在折扣价为 5,865.00 美元。不要错过这个拥有一台真正独特的高性能笔记本电脑的机会，它一定会彻底改变您的工作和娱乐方式。立即试用 DeepComputing ROMA RISC-V 笔记本电脑！]]></description>
-      <guid>https://t.me/hn_summary/75272</guid>
-      <pubDate>Wed, 21 Feb 2024 07:09:27 GMT</pubDate>
+      <title>[媒体]波音公司在机舱面板被拆除后，解雇了 737 Max 项目负责人埃德·克拉克 (Ed Clark) [...]</title>
+      <link>https://t.me/hn_summary/75392</link>
+      <description><![CDATA[波音 737 MAX 项目负责人因机舱面板爆裂而被驱逐 
+波音公司已解除了 737 Max 项目负责人埃德·克拉克 (Ed Clark) 的职务，此前一架全新 737 Max 9 喷气式飞机因机舱面板爆炸而紧急迫降。此次事件导致 171 架飞机停飞，是波音公司发生的一系列安全危机中的最新一起。克拉克将由凯蒂·林戈尔德 (Katie Ringgold) 接替，并任命了一位新的质量高级副总裁。波音公司首席执行官戴夫·卡尔霍恩承认需要重新获得监管机构和航空公司的信心。美国联邦航空管理局 (FAA) 在审核波音公司的制造流程时限制了该公司 Max 的生产。]]></description>
+      <guid>https://t.me/hn_summary/75392</guid>
+      <pubDate>Wed, 21 Feb 2024 20:22:28 GMT</pubDate>
     </item>
     <item>
-      <title>准备好被艾伦·摩尔 (Alan Moore) 和史蒂夫·摩尔 (Steve Moore) 的合作杰作“The [...]</title>
-      <link>https://t.me/hn_summary/75271</link>
-      <description><![CDATA[月亮与蛇保险杠魔法书
-准备好被艾伦·摩尔和史蒂夫·摩尔在《月亮与蛇保险杠魔法书》中的合作杰作所着迷吧。这本图形魔法书是魔法世界的综合指南，由才华横溢的艺术家将其变为现实。从魔法理论的教学文章到占卜和魔法等娱乐活动，这本书承诺了无尽的神秘乐趣。探索魔法的历史，外星维度的旅行指南，并揭开月亮和蛇符号的终极含义。这本 352 页的精装本是出版界的一次胜利，它将把你的现实变成纯金。 2024 年 10 月 15 日上市。]]></description>
-      <guid>https://t.me/hn_summary/75271</guid>
-      <pubDate>Wed, 21 Feb 2024 06:50:17 GMT</pubDate>
+      <title>Oils 的最新版本是一个 Unix shell，引入了新功能，例如 JSON 解析器，可升级 [...]</title>
+      <link>https://t.me/hn_summary/75391</link>
+      <description><![CDATA[Oils 0.20.0 – Eggex、JSON 和 Android
+Oils 的最新版本是一个 Unix shell，引入了新功能，例如升级到 J8 表示法的 JSON 解析器和改进的 Eggex API。感谢社区的贡献，C++ 翻译现在基于 Android 构建。新的 JSON 库可以转换为 C++，并正在升级为 J8 Notation，保持向后兼容性。 YSH 现在支持代码和数据中的 J8 样式字符串，从而简化了字符串表示法。还讨论了 JSON8 和 TSV8 的错误处理增强功能以​​及未来的工作。作者在详细的 Zulip 线程中反思了 JSON 的工作以及设计变更的挑战。 （根据 59% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/75391</guid>
+      <pubDate>Wed, 21 Feb 2024 20:19:24 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 为 Ruby on Rails 开发设置 VS Code 可能具有挑战性，但本文 [...]</title>
-      <link>https://t.me/hn_summary/75270</link>
-      <description><![CDATA[一个不错的 VS Code 和 Ruby on Rails 设置&lt; br/&gt;
-为 Ruby on Rails 开发设置 VS Code 可能具有挑战性，但本文旨在通过提供精选的基本扩展列表来简化该过程。作者甚至创建了一个 VS Code 扩展包，用于一键安装所有推荐的扩展。本文涵盖了语言服务器、LSP 集成、linter/formatters 和 ERB 工具。作者建议同时使用 Shopify Ruby LSP 和 Solargraph 以获得最佳功能。此外，他们建议使用 Rufo 进行格式化并提供对 ERB 扩展的见解。总的来说，本指南提供了在 VS Code 中高效进行 Ruby on Rails 开发的全面设置。]]></description>
-      <guid>https://t.me/hn_summary/75270</guid>
-      <pubDate>Wed, 21 Feb 2024 06:47:11 GMT</pubDate>
+      <title>[媒体]科学家取得了一项突破性的发现，将大脑失衡与免疫系统联系起来 [...]</title>
+      <link>https://t.me/hn_summary/75390</link>
+      <description><![CDATA[科学家发现大脑失衡与慢性疲劳综合症之间存在联系 
+科学家们取得了一项突破性的发现，将大脑失衡和免疫系统异常与慢性疲劳综合症（CFS）联系起来，揭示了这种使人衰弱的疾病的生物学基础。这项涉及 17 名患者的研究发现，免疫系统异常可能会引发大脑活动的变化，从而导致疲劳感。这项发表在《自然通讯》上的研究标志着理解 ME/CFS 迈出了重要一步。这些发现挑战了患者在心理上驱动疾病的误解，并为新的治疗方法带来了希望。这项研究的综合方法被称赞为早该深入研究这种疾病的生物学。]]></description>
+      <guid>https://t.me/hn_summary/75390</guid>
+      <pubDate>Wed, 21 Feb 2024 20:18:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
