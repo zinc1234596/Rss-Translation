@@ -4,7 +4,16 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Wed, 21 Feb 2024 00:47:58 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Feb 2024 03:13:41 GMT</lastBuildDate>
+    <item>
+      <title>释放网络的力量：寻找业务线索！</title>
+      <link>https://feed.indiehackers.world/post/32097bd20d</link>
+      <description><![CDATA[探索 2024 年寻找潜在客户、合作伙伴和员工的前 20 个网站。利用庞大的信息网络来扩展您的人际网络。 #BusinessLeads #Networking
+https://www.octoparse.com/blog/websites-to-hunt-for-leads&lt; /a&gt;
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/32097bd20d</guid>
+      <pubDate>Wed, 21 Feb 2024 02:15:54 GMT</pubDate>
+    </item>
     <item>
       <title>寻求诚实的反馈：为非技术人员简化机器学习</title>
       <link>https://feed.indiehackers.world/post/13254e663a</link>
@@ -83,9 +92,9 @@ Discord 独立黑客聊天广告这里]]></description>
     <item>
       <title>里程碑式的销售：帮助独立黑客以经济实惠的方式启动项目</title>
       <link>https://feed.indiehackers.world/post/86faa963c1</link>
-      <description><![CDATA[独立黑客专场专为帮助社区建设者在不花太多钱的情况下提升他们的项目而设计。该软件包是直接且透明的 — 5 天的工作，无限的修改，以及 Figma 文件形式的全面设计供您拥有和构建。 
+      <description><![CDATA[独立黑客专场专为帮助社区建设者在不花太多钱的情况下提升他们的项目而设计。该软件包是直接且透明的 - 5 天的工作，无限的修改，以及 Figma 文件形式的全面设计供您拥有和构建。 
 所以您不确定如何开始或完善您的想法？我来这里是为了指导你。
-这个计划不仅验证了 Hack Design 的相关性，而且激励我继续为与我一起成长的社区提供帮助和提供价值。 Hack Design 的旅程才刚刚开始，第一次销售标志着一个里程碑，并提醒人们即使迈出一小步也可以产生影响。
+这个计划不仅验证了 Hack Design 的相关性，而且激励我继续为与我一起成长的社区提供帮助和提供价值。 Hack Design 的旅程才刚刚开始，第一次销售标志着一个里程碑，并提醒我们即使迈出一小步也可以产生影响。
 谨向我们将帮助的更多建设者以及我们将共同改造的无数项目致敬。前进！&lt;​​/p&gt;
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/86faa963c1</guid>
@@ -106,7 +115,7 @@ Discord 独立黑客聊天广告这里]]></description>
       <title>NLP Cloud 背后的技术堆栈</title>
       <link>https://feed.indiehackers.world/post/b3f0dd6038</link>
       <description><![CDATA[4 年前，当我开始 NLP Cloud 时，基础设施成本并不是真正的问题。然后法学硕士出现了，今天我的基础设施成本是巨大的......！这就是为什么容器编排和微服务是这里的关键：为了获得最便宜的 GPU 服务器并保持竞争力，与云无关非常重要。
-如果您有关于此技术堆栈的问题，我将非常乐意回答！
+如果您有关于此技术堆栈的问题，我将非常乐意回答您！
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/b3f0dd6038</guid>
       <pubDate>Tue, 20 Feb 2024 16:51:42 GMT</pubDate>
@@ -119,7 +128,7 @@ Discord 独立黑客聊天广告这里]]></description>
 最好是有兴趣或正在交易期权的人
 
 这是一个有偿职位！根据你的工作和与我在一起的时间长短，我会增加你的工资，让你进入管理层，如果你是公司不可或缺的一部分，我什至会考虑利润分享。
-读完本文后仍然感兴趣甚至兴奋吗？给我发一封电子邮件至 hel lo@theimpecc&amp;# x61;bleinvestor. com！
+读完本文后仍然感兴趣甚至兴奋吗？给我发一封电子邮件至 hel lo@theimpecc&amp;# 97;bleinvestor. com！
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/da4716f7df</guid>
       <pubDate>Tue, 20 Feb 2024 16:44:47 GMT</pubDate>
@@ -128,7 +137,7 @@ Discord 独立黑客聊天广告这里]]></description>
       <title>监控 Reddit 上的特定关键字</title>
       <link>https://feed.indiehackers.world/post/8c81921ded</link>
       <description><![CDATA[我猜你们中的一些人已经了解这些 API 端点，但对于那些不了解的人，我希望上述内容有所帮助！
-我还在我的网站上制作了关于此问题的全面操作指南：https://kwatch.io/how-to-monitor-keywords-on-reddit-with-golang&quot;&gt;https:// /kwatch.io/how-to-monitor-keywords-on-reddit-with-golang
+我还在我的网站上制作了关于此问题的全面操作指南：https:/ /kwatch.io/how-to-monitor-keywords-on-reddit-with-golang
 如果您知道更好的 Reddit 监控技术解决方案，我将非常高兴听到它们！
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/8c81921ded</guid>
@@ -157,17 +166,6 @@ Discord 独立黑客聊天广告这里]]></description>
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/2bf9583c1b</guid>
       <pubDate>Tue, 20 Feb 2024 16:05:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>新的 A/B 测试工具</title>
-      <link>https://feed.indiehackers.world/post/dfe00574e1</link>
-      <description><![CDATA[大家好！
-我想分享我最近创建的一个工具：https://github.com/qpackt/qpackt
-这是一个网络服务器，允许上传站点的多个版本并显示每个版本的一些基本分析。主要用于 A/B 测试，但也可以根据一些 url 参数提供不同的版本（这样您就可以比较不同推荐的参与度）。
-非常感谢任何反馈。谢谢！
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/dfe00574e1</guid>
-      <pubDate>Tue, 20 Feb 2024 15:55:04 GMT</pubDate>
     </item>
     </channel>
 </rss>
