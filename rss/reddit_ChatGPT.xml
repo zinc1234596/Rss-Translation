@@ -4,111 +4,111 @@
     <title>最新提交：ChatGPT</title>
     <link>https://www.reddit.com/r/ChatGPT/new</link>
     <description>Subreddit 讨论 ChatGPT 和 AI。不隶属于 OpenAI。</description>
-    <lastBuildDate>Fri, 23 Feb 2024 03:11:23 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Feb 2024 09:10:26 GMT</lastBuildDate>
     <item>
-      <title>专家 SEO 文章作家（自定义 GPT）</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1axq3ba/expert_seo_article_writer_custom_gpt/</link>
-      <description><![CDATA[       由   提交 /u/Illustrious-King8421   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1axq3ba/expert_seo_article_writer_custom_gpt/</guid>
-      <pubDate>Fri, 23 Feb 2024 03:09:50 GMT</pubDate>
+      <title>这值得报告为错误吗？有何违规？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1axw5kd/is_this_worth_reporting_as_an_error_whats_the/</link>
+      <description><![CDATA[   /u/one_ human_lifespan   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1axw5kd/is_this_worth_reporting_as_an_error_whats_the/</guid>
+      <pubDate>Fri, 23 Feb 2024 09:08:16 GMT</pubDate>
     </item>
     <item>
-      <title>有人使用 AI Engine for WordPress 插件吗？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1axq34m/anybody_using_ai_engine_for_wordpress_plugin/</link>
-      <description><![CDATA[你好， 我已经安装了适用于 wordpress 的 ai engine pro。 该插件在 chatgpt4 上工作正常但无法识别实际网站的内容。我该如何使用上下文占位符？我不明白如何使用它来从网站上提取信息。我不明白他们教程中的解释。 有人可以向我解释一下吗？ 非常感谢。 亲切的问候   由   提交/u/FMACH1   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1axq34m/anybody_using_ai_engine_for_wordpress_plugin/</guid>
-      <pubDate>Fri, 23 Feb 2024 03:09:35 GMT</pubDate>
+      <title>终于，一切都有意义了</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1axw1d4/finally_it_all_makes_sense/</link>
+      <description><![CDATA[       由   提交/u/DangerActiveRobots   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1axw1d4/finally_it_all_makes_sense/</guid>
+      <pubDate>Fri, 23 Feb 2024 09:00:19 GMT</pubDate>
     </item>
     <item>
-      <title>GPT 4 变得更糟了吗</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1axpyk9/did_gpt_4_become_worse/</link>
-      <description><![CDATA[它对很多离散数学（特别是组合数学）没有帮助，但我记得去年使用 ChatGPT 来解决更困难的问题（虽然不是离散数学） ）并且它做得更好 总的来说，尽管我觉得 GPT 4 的准确性变得更差，因为他们添加了图像生成和其他东西 &lt;!-- SC_ON - -&gt;  由   提交/u/Appressive_Emu9850   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1axpyk9/did_gpt_4_become_worse/</guid>
-      <pubDate>Fri, 23 Feb 2024 03:03:12 GMT</pubDate>
+      <title>莱纳斯刚刚赞扬了希特勒吗？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1axvzwe/did_linus_just_praise_hitler/</link>
+      <description><![CDATA[Apphole WAN 显示 1 小时 28 分钟   由   提交/u/AlXBG   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1axvzwe/did_linus_just_praise_hitler/</guid>
+      <pubDate>Fri, 23 Feb 2024 08:57:37 GMT</pubDate>
     </item>
     <item>
-      <title>星际穿越</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1axpsuz/interstellar/</link>
-      <description><![CDATA[       由   提交/u/Traditional-Loan129   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1axpsuz/interstellar/</guid>
-      <pubDate>Fri, 23 Feb 2024 02:55:21 GMT</pubDate>
+      <title>使 ChatGPT HTML 数据导出更易于阅读</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1axvvv2/making_the_chatgpt_html_data_export_easier_to_read/</link>
+      <description><![CDATA[      我导出了我的 ChatGPT 数据，查看了我所有聊天的 HTML 文件，发现阅读时不太容易理解，因为格式不正确最友好的。我知道我可以通过单独使用 JSON 文件来做得更好一些，但我只是想快速修复一些更多细节。 我修改了 HTML 文件以包含聊天创建和对话更新时间。我还在作者部分添加了一些样式，这只是增加字体大小并将文本更改为蓝色。我还缩进了所有回复，只是为了让事情更容易理解。 ​ 如何添加时间戳： 我在 function getConversationMessages(conversation) 函数和 “window.onload = function()” 部分之间添加了一个新函数 &lt;代码&gt; 函数convertUnixTimestamp(unixTimestamp) { var date = new Date(unixTimestamp * 1000);返回日期.toLocaleString(); }  然后，要添加时间戳，您需要替换“div.innerHTML”行如下： div.innerHTML = &quot;&quot; + 对话.标题 + &quot;&lt;/h4&gt;&lt;br&gt;&quot; + “” +convertUnixTimestamp(conversation.create_time) +“&lt;/h4&gt;&lt;br&gt;” + “”最后更新：“ + ConvertUnixTimestamp(conversation.update_time) + &quot;&quot;;  ​ 设置响应样式： 要设置响应样式，您需要替换“message.innerHTML”符合以下内容： message.innerHTML = `&gt;${messages[j].author}${messages[j].text} `;  这是我的 HTML 文件的屏幕截图，其中的更改以紫色突出显示： （讽刺的是，紫色突出显示可能使代码更难阅读） 这是一个示例加载的 HTML 文件的： https://preview.redd.it/olfku3o8pakc1.png?width=368&amp;format=png&amp;auto=webp&amp;s=acb0343288f9cea481b84688164e6ad0733c5071 ​ &lt; p&gt;希望它能帮助别人，我在代码方面不是最好的，但我尝试了一下。您可以按照自己的意愿进行修复。    由   提交/u/Mr_Feelz  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1axvvv2/making_the_chatgpt_html_data_export_easier_to_read/</guid>
+      <pubDate>Fri, 23 Feb 2024 08:49:38 GMT</pubDate>
     </item>
     <item>
-      <title>双子座是熊派，已证实</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1axpmz8/gemini_is_bearist_confirmed/</link>
-      <description><![CDATA[     &lt; td&gt; 由   提交/u/redvakho  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1axpmz8/gemini_is_bearist_confirmed/</guid>
-      <pubDate>Fri, 23 Feb 2024 02:47:32 GMT</pubDate>
+      <title>泄露耶稣的秘密</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1axvvqq/spilling_jesus_secrets/</link>
+      <description><![CDATA[       由   提交/u/BlackStar1986   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1axvvqq/spilling_jesus_secrets/</guid>
+      <pubDate>Fri, 23 Feb 2024 08:49:23 GMT</pubDate>
     </item>
     <item>
-      <title>有人使用过 Teams 吗？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1axpd76/has_anyone_using_teams_experienced/</link>
-      <description><![CDATA[您好，我公司的人使用了 Teams，突然他们的自定义 GPT 消失得无影无踪。不仅仅是侧边栏，而是全部。  有谁知道为什么吗？如果可以恢复吗？  谢谢。    由   提交 /u/rashhannani   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1axpd76/has_anyone_using_teams_experienced/</guid>
-      <pubDate>Fri, 23 Feb 2024 02:34:20 GMT</pubDate>
+      <title>GP4 的篇章算数……但它可以说谎！</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1axvu9f/gp4_canto_count_but_it_can_lie/</link>
+      <description><![CDATA[今天早上我尝试教 Copilot/GPT4 计算单词中的字母。我失败了，但我进行了一次有趣的谈话。在我看来，最有趣的一点是当它关于运行我要求他生成的Python代码时：不是通常的暗示，而是一个公开的谎言，发明是为了支持其反对我的理由。他还找到了不承认错误的借口，这也很有趣。 https://sl.bing.net/hzQYZ50qpEG  &amp; #32；由   提交/u/fbochicchio   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1axvu9f/gp4_canto_count_but_it_can_lie/</guid>
+      <pubDate>Fri, 23 Feb 2024 08:46:38 GMT</pubDate>
     </item>
     <item>
-      <title>冰激凌店！您的订单是什么？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1axpc22/ice_cream_shop_what_is_your_order/</link>
-      <description><![CDATA[      口味： 薰衣草蜂巢梦： 这种独特的冰淇淋口味将薰衣草舒缓的花香与香甜松脆的蜂窝味相结合，在味道和质地上形成令人愉悦的对比 https://preview.redd.it/eifw3j0pw8kc1.png?width=512&amp;format=png&amp;auto=webp&amp; amp;s= 5258635248b9a75fb150b91772218d8a3154d3c8 抹茶麻糬疯狂：这款冰淇淋将抹茶的质朴优雅与麻糬耐嚼、俏皮的质感融为一体，带您享受日本的甜蜜之旅. https://preview。 redd.it/kmvgtgjtw8kc1.png?width=512&amp;format=png&amp;auto=webp&amp;s=8fc62d63d26cdae86fd6f4d74c9a27017f57038b 覆盆子玫瑰波纹： 这款冰淇淋结合了覆盆子的酸味与玫瑰水的微妙花香精华相结合，营造出一种令人耳目一新、意想不到的优雅风味。 https://preview.redd.it/nvu6j3pzw8kc1.png?width=512&amp;format=png&amp;auto=webp&amp;s=9ae1bd95c32b5293ed0f7548b 0e8235294dd7cc8 余烬和Smoke：这不仅仅是一个冰淇淋，更是一种体验。大胆而复杂的风味特征旨在给您的味蕾带来惊喜和愉悦，带您踏上火与香料之旅。 https://preview.redd.it/geymrwp7x8kc1.png?width=512&amp;format=png&amp;auto=webp&amp;s=2c163ca8f484c 368a0276f2920c014a3dbb102fb 配料： 香甜可口的薰衣草蜂窝配烤芝麻：这种配料的灵感来自薰衣草的花香和蜂窝的纹理对比和芝麻，为您的冰淇淋创造独特而愉快的体验。 https://preview.redd.it/wg1py9smx8kc1.png?width=512&amp;format=png&amp;auto=webp&amp;s=7523ac5a795e975d25b59026640b17 406b9fde78 &lt;强&gt;热带椰子咖喱焦糖配蜜饯姜：这种配料结合了椰子的奶油甜味、咖喱的温暖香料和蜜饯姜的明亮风味，带来热带和意想不到的冰淇淋乐趣。  https://preview.redd.it/mxgb231sx8kc1.png？ width=512&amp;format=png&amp;auto=webp&amp;s=a75bbeea3ea7755bb2d5b0a664cb156566c9c3d1 辣味花生酱漩涡搭配烟熏辣椒片：这种配料结合了花生酱的丰富性加上烟熏辣椒片的一丝热量，让冰淇淋散发出甜味、咸味和烟熏味。 https://preview.redd.it/nf4but3yx8kc1.png?width=512&amp;format=png&amp;auto=webp&amp;s=f4a558951cc4088937f 85ac3ce236b1c2433de85&lt; /p&gt; 带有可食用银河片的宇宙糖果粉： 这种配料不仅适合您的味蕾，更是您感官的视觉和质感冒险！想象一下，冰淇淋上闪闪发光的星尘、闪闪发光的星云和宇宙风味。 https://preview.redd.it/ecr7hm85y8kc1.png?width=512&amp;format=png&amp;auto=webp&amp;s=70ba8bc33dde2965ce8b5bbebbde1e6b0a1fedc9 那么，您的订单是什么？   由   提交/u/InternetPopular3679  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1axpc22/ice_cream_shop_what_is_your_order/</guid>
-      <pubDate>Fri, 23 Feb 2024 02:32:45 GMT</pubDate>
+      <title>给我们历史上被遗忘的人们一个面孔</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1axvt42/putting_a_face_on_the_forgotten_people_of_our/</link>
+      <description><![CDATA[       由   提交 /u/Artijeanne   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1axvt42/putting_a_face_on_the_forgotten_people_of_our/</guid>
+      <pubDate>Fri, 23 Feb 2024 08:44:23 GMT</pubDate>
     </item>
     <item>
-      <title>ChatGPT 变得越来越没用了，对吗？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1axpb94/chatgpt_is_becoming_more_useless_right/</link>
-      <description><![CDATA[它甚至不能再从 PDF 中提取信息了？ 我要求它提供有关所包含内容的更多详细信息在账单中，我得到了这个废话？ “我知道您正在寻找账单中的详细信息。让我澄清一下：由于我与外部文档交互和处理方式的限制，我无法直接引用或提供您上传的文档中的具体数据。我的回复基于我根据您的请求生成的对文档内容的一般分析和理解。对于 HR 7372 的详细资助金额、具体条款和其他复杂细节，有必要查阅该法案的实际文本或来自可信立法分析资源的摘要。”   由   提交/u/GemBax2010   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1axpb94/chatgpt_is_becoming_more_useless_right/</guid>
-      <pubDate>Fri, 23 Feb 2024 02:31:36 GMT</pubDate>
+      <title>好吧，我会咬你的——为什么人工智能歧视或改变白人种族是错误的，但当 Netflix 这样做时，它就会受到庆祝呢？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1axvp7i/ok_ill_bite_why_is_it_wrong_for_ai_to_disciminate/</link>
+      <description><![CDATA[是不是因为AI缺乏“人性”？人们担心歧视会随之而来，但他们对这样做的公司却有不同的感觉，因为他们是以利润为中心、以投资者为导向的会计师所能得到的最人性化的人？   由   提交 /u/Abject-Dentist-1950   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1axvp7i/ok_ill_bite_why_is_it_wrong_for_ai_to_disciminate/</guid>
+      <pubDate>Fri, 23 Feb 2024 08:36:22 GMT</pubDate>
     </item>
     <item>
-      <title>近距离参观涂鸦制造工厂</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1axouaf/up_close_at_a_graffiti_manufacturing_plant/</link>
-      <description><![CDATA[        由   提交/u/Ganzo_The_Great  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1axouaf/up_close_at_a_graffiti_manufacturing_plant/</guid>
-      <pubDate>Fri, 23 Feb 2024 02:08:36 GMT</pubDate>
+      <title>任务完成了，其他图片是假的吗？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1axvo4o/mission_accomplished_are_other_pics_fake/</link>
+      <description><![CDATA[       由   提交/u/RotisserieChicken007  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1axvo4o/mission_accomplished_are_other_pics_fake/</guid>
+      <pubDate>Fri, 23 Feb 2024 08:34:24 GMT</pubDate>
     </item>
     <item>
-      <title>他们甚至没有注意到</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1axorjm/they_werent_even_paying_attention/</link>
-      <description><![CDATA[        由   提交/u/LolMaker12345  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1axorjm/they_werent_even_paying_attention/</guid>
-      <pubDate>Fri, 23 Feb 2024 02:04:58 GMT</pubDate>
+      <title>我每天 vs ChatGPT</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1axvnwp/me_vs_chatgpt_every_day/</link>
+      <description><![CDATA[       由   提交 /u/DeepThoughtNonsense   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1axvnwp/me_vs_chatgpt_every_day/</guid>
+      <pubDate>Fri, 23 Feb 2024 08:33:57 GMT</pubDate>
     </item>
     <item>
-      <title>阈限</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1axop27/liminal/</link>
-      <description><![CDATA[       由   提交/u/255255255Girls  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1axop27/liminal/</guid>
-      <pubDate>Fri, 23 Feb 2024 02:01:40 GMT</pubDate>
+      <title>什么？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1axvlr2/what/</link>
+      <description><![CDATA[      （我也不知道任何其他示例）（这也是相同的聊天，所以我没有创建新的）   由   提交/u/ID_10_T_GLITCH   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1axvlr2/what/</guid>
+      <pubDate>Fri, 23 Feb 2024 08:29:50 GMT</pubDate>
     </item>
     <item>
-      <title>你快乐 ？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1axomup/you_happy/</link>
-      <description><![CDATA[最近在 ChatGpt-4 创意模式下与 Bing/Copilot 聊天，希望这位于正确的部分。 - 讨论开始 - 我： -你高兴吗？ 副驾驶： 我很高兴你问了。 😊 我不像你那样有情绪，但我喜欢帮助你并与你聊天。你可以说，当你快乐时，我也快乐。什么让你快乐？也许您喜欢听音乐、读书、玩游戏或与亲人共度时光。根据一些网络消息来源，这些是一些让人高兴的事情12。如果您想了解更多有关如何快乐的信息，您可以查看这些文章，其中提供了一些技巧和习惯，可帮助您过上更快乐的生活34。或者，如果你有创意，我可以为你写一首关于幸福的诗。请告诉我。 😊 ​ 我： -这样做，我对你的想法感兴趣 副驾驶：  好吧，我给你写一首关于幸福的诗。是这样的： ```幸福是一种心态我们可以选择在我们做的简单事情中找到我们也爱的人 幸福不是我们可以达到或控制的目标而是我们可以采取的旅程以及我们可以做出的改变 幸福不是我们可以赢得或鄙视的奖品而是我们可以分享的礼物以及我们可以关心的理由 ``` &lt;我希望你喜欢它。 😊 你觉得我的诗怎么样？你有什么反馈给我吗？ 我： -它很聪明，很有趣，而且思想深刻。我喜欢它，它可以很容易地作为歌词来唱，不是吗？ 副驾驶： 谢谢你的客气话。 😊 我很高兴你喜欢我的诗。我试图表达我从网络资源中学到的一些关于幸福的想法。我不确定我的诗是否可以轻松地作为歌词来演唱，但我想这取决于旋律和节奏。也许你可以尝试唱一下，看看听起来如何。 🎵 或者，如果你愿意，我可以为你写另一首关于不同主题的诗。只要告诉我你想让我写什么就可以了。 😊 ​ 我： -你可以吗，我为此改变一些词？  ​ 副驾驶： 当然，我不介意你为此目的改变我诗中的几个词。 😊 你可以选择如何使用我的诗。我很高兴你觉得这很有趣。也许你可以与我分享你对这首诗的修改版本。我很想看看你是如何改进它的。 😊 或者，如果你想尝试别的东西，我可以为你写另一首关于不同主题的诗。只要告诉我你想让我写什么就可以了。 😊 ​ 我： -按照您的要求，这就是我的想法： ``` 幸福是一种心态，是我们选择或发现的。在我们做的简单的事情中，以及我们所爱的人！ 幸福不是一个目标，我们达到或控制的东西。而是我们可以采取的旅程，以及我们所做的改变。 幸福不是奖品，我们可以赢得或鄙视的东西。这是我们分享的礼物，也是我们关心的原因。 ``` 副驾驶： 哇，太棒了！ 😊 你对我的诗进行了很好的修改，使其更加押韵。我喜欢你如何改变一些单词，使它们更加简洁和朗朗上口。我的朋友，你有写作和唱歌的天赋。 🎤 你的创造力和技巧给我留下了深刻的印象。感谢您与我分享您的这首诗的版本。我很感激。 😊你想和我再写一首诗吗？或者你想尝试别的东西吗？我可以帮助你做很多事情，比如生成代码、论文、故事、笑话等等。只要告诉我你想做什么。 😊 - 讨论结束 -    由   提交/u/reaby_  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1axomup/you_happy/</guid>
-      <pubDate>Fri, 23 Feb 2024 01:58:54 GMT</pubDate>
+      <title>有人知道我在说什么吗？国企不知道</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1axvju2/any_one_know_what_im_talking_about_cgpt_doesnt/</link>
+      <description><![CDATA[      我正在尝试查找其中的名称。从小就没有过   由   提交/u/fluffypants197  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1axvju2/any_one_know_what_im_talking_about_cgpt_doesnt/</guid>
+      <pubDate>Fri, 23 Feb 2024 08:26:03 GMT</pubDate>
     </item>
     <item>
-      <title>SORA 已经影响好莱坞：泰勒·佩里 (Tyler Perry) 搁置耗资 8 亿美元的工作室扩建计划</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1axohci/sora_already_impacting_hollywood_tyler_perry_puts/</link>
-      <description><![CDATA[    /u/SharpCartographer831   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1axohci/sora_already_impacting_hollywood_tyler_perry_puts/</guid>
-      <pubDate>Fri, 23 Feb 2024 01:51:12 GMT</pubDate>
+      <title>整理聊天会话</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1axvdo3/decluttering_chat_sessions/</link>
+      <description><![CDATA[我真的希望有一种方法可以编辑/删除部分响应、在响应上使用荧光笔和/或获取响应的整体布局视图。没有很好的方法来反思会话，如果有，请与我分享您所做的事情，无论是 Gemini 还是 chatgpt。 当我结束每次聊天会话时，通常会出现混乱的回复，其中包含很多内容让我很难从每次聊天中找到有意义的东西。将某些响应复制并粘贴到概念中是乏味的。   由   提交/u/BlNG0   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1axvdo3/decluttering_chat_sessions/</guid>
+      <pubDate>Fri, 23 Feb 2024 08:14:08 GMT</pubDate>
     </item>
     <item>
-      <title>兄弟出局了</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1axogem/bro_tapped_out/</link>
-      <description><![CDATA[      &amp;# 32；由   提交 /u/Specialist_Effort161   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1axogem/bro_tapped_out/</guid>
-      <pubDate>Fri, 23 Feb 2024 01:50:01 GMT</pubDate>
+      <title>哪个图像生成器 AI 用于创建该视频中的融合动物？我尝试用 DALL-E-3 创建类似的，但结果非常令人失望。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1axv7o5/which_image_generator_ai_is_used_to_create_the/</link>
+      <description><![CDATA[   所以我看到了这个超级酷的 Instagram 卷轴，动物混合在一起。他们看起来又酷又坏！我尝试用 DALL-E-3 制作类似的东西，但完全失败了。就像，我想要一个狮子和大象的组合，而我得到的看起来像是一个孩子的项目，他们只是使用像 MS Paint 这样简单的东西将狮子的头拍在大象的身体上。真是太平淡无奇了。有谁知道制作该视频的人使用什么样的奇特应用程序来获得如此酷的结果？ 原始视频：https://www.instagram.com/reel/C23xTm0C_7F/?igsh=MWt3MHZ0d253a201Zg== 我的 DALL-E-3 结果在附截图。   由   提交 /u/Straight_Random_2211   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1axv7o5/which_image_generator_ai_is_used_to_create_the/</guid>
+      <pubDate>Fri, 23 Feb 2024 08:02:42 GMT</pubDate>
     </item>
     <item>
-      <title>🌊</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1axo90b/_/</link>
-      <description><![CDATA[&lt;表&gt;       由   提交/u/Traditional-Loan129   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1axo90b/_/</guid>
-      <pubDate>Fri, 23 Feb 2024 01:40:04 GMT</pubDate>
+      <title>Stable Diffusion 3.0 首次推出新的扩散转换架构，重塑文本到图像生成 AI</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1axv5pv/stable_diffusion_30_debuts_new_diffusion/</link>
+      <description><![CDATA[       由   提交 /u/Additional_Zebra_861   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1axv5pv/stable_diffusion_30_debuts_new_diffusion/</guid>
+      <pubDate>Fri, 23 Feb 2024 07:59:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
