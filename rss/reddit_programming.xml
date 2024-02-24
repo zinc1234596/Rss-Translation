@@ -4,7 +4,28 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Sat, 24 Feb 2024 00:44:26 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Feb 2024 03:13:19 GMT</lastBuildDate>
+    <item>
+      <title>对于大型科技公司来说，质量是一个难点</title>
+      <link>https://www.reddit.com/r/programming/comments/1ayjc0k/quality_is_a_hard_sell_in_big_tech/</link>
+      <description><![CDATA[ 由   提交/u/_PC__LOAD__LETTER_   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ayjc0k/quality_is_a_hard_sell_in_big_tech/</guid>
+      <pubDate>Sat, 24 Feb 2024 02:34:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>据报道估计被盗资金超过 10 亿美元，LockBit 被称为“网络犯罪独角兽”</title>
+      <link>https://www.reddit.com/r/programming/comments/1ayindt/lockbit_dubbed_cyber_crime_unicorn_after_reports/</link>
+      <description><![CDATA[ 由   提交/u/feross  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ayindt/lockbit_dubbed_cyber_crime_unicorn_after_reports/</guid>
+      <pubDate>Sat, 24 Feb 2024 02:01:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>JSR：目前我们对 Deno 新 JavaScript 包注册表的了解</title>
+      <link>https://www.reddit.com/r/programming/comments/1ayicrg/jsr_what_we_know_so_far_about_denos_new/</link>
+      <description><![CDATA[ 由   提交/u/feross  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ayicrg/jsr_what_we_know_so_far_about_denos_new/</guid>
+      <pubDate>Sat, 24 Feb 2024 01:47:31 GMT</pubDate>
+    </item>
     <item>
       <title>sync-secrets-action,在 GitHub 存储库之间同步存储库、Dependabot 和 Codespaces 秘密 + 变量,下载sync-secrets-action的源码_GitHub_帮酷</title>
       <link>https://www.reddit.com/r/programming/comments/1ayfi0t/github_cbrgmsyncsecretsaction_sync_repository/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[ 由   提交/u/Andre_Ferraz   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ay6uq1/how_did_i_become_an_engineer_manager_and_why_this/</guid>
       <pubDate>Fri, 23 Feb 2024 17:49:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何通过优化这 6 个主题使您的应用程序速度提高 80%</title>
-      <link>https://www.reddit.com/r/programming/comments/1ay6bch/how_to_make_your_application_80_faster_by/</link>
-      <description><![CDATA[如果您在后端使用数据库，那么瓶颈很可能就在那里。在考虑更改架构并增加不必要的复杂性之前，请快速查看我在此列出的六个主题并对其进行优化。   由   提交/u/entrepretayeb   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ay6bch/how_to_make_your_application_80_faster_by/</guid>
-      <pubDate>Fri, 23 Feb 2024 17:29:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>一篇关于 v lang 的精彩文章</title>
-      <link>https://www.reddit.com/r/programming/comments/1ay611l/an_amazing_article_about_v_lang/</link>
-      <description><![CDATA[ 由   提交/u/ringbuffer__  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ay611l/an_amazing_article_about_v_lang/</guid>
-      <pubDate>Fri, 23 Feb 2024 17:18:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>RGFW,一个非常简单易用的多平台单头框架库，用于创建 GUI 库或简单的 GUI 程序,下载RGFW的源码_GitHub_帮酷（轻量级 GLFW 替代方案）用 C 编写</title>
-      <link>https://www.reddit.com/r/programming/comments/1ay4tfm/github_colleaguerileyrgfw_a_multiplatform/</link>
-      <description><![CDATA[ 由   提交 /u/Comrade-Riley   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ay4tfm/github_colleaguerileyrgfw_a_multiplatform/</guid>
-      <pubDate>Fri, 23 Feb 2024 16:31:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
