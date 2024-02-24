@@ -4,20 +4,20 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sat, 24 Feb 2024 18:12:57 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Feb 2024 21:08:44 GMT</lastBuildDate>
     <item>
-      <title>为什么我们不能让人工智能艺术生成器交叉引用解剖数据库？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1az0qm3/why_cant_we_make_ai_art_generators_crossreference/</link>
-      <description><![CDATA[我刚刚有这个想法 - 是什么阻止了这个合理性？为什么我们不能让人工智能艺术生成器在生成人类/动物时交叉引用解剖数据库，以确保准确性？现在它正在盲目地将形状放在一起   由   提交 /u/MegaMinerDL   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1az0qm3/why_cant_we_make_ai_art_generators_crossreference/</guid>
-      <pubDate>Sat, 24 Feb 2024 17:55:06 GMT</pubDate>
+      <title>宇宙和人工智能是人格问题的两个重要实例</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1az2t5h/the_universe_and_ai_are_two_nontrivial_instances/</link>
+      <description><![CDATA[ 由   提交 /u/andWan   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1az2t5h/the_universe_and_ai_are_two_nontrivial_instances/</guid>
+      <pubDate>Sat, 24 Feb 2024 19:19:13 GMT</pubDate>
     </item>
     <item>
-      <title>通过用人工智能取代人类，哪些白领职业（不包括明显的职业）的劳动力至少可以减少一半？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1az0g0n/which_whitecollar_professions_excluding_the/</link>
-      <description><![CDATA[航空公司飞行员、心理学家（不要与精神科医生和神经科医生混淆）、医学诊断医生等。 显而易见的是软件工程师、法律、人力资源、财务、媒体、客户服务等。   由   提交 /u/d-ee-ecent   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1az0g0n/which_whitecollar_professions_excluding_the/</guid>
-      <pubDate>Sat, 24 Feb 2024 17:43:16 GMT</pubDate>
+      <title>与 RAG 相关的基本问题。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1az27tk/a_basic_question_related_to_rag/</link>
+      <description><![CDATA[这里是新手。我看到一个项目，他们从 YouTube 视频中提取文字记录并创建一个向量嵌入，并根据他们通过 fiass 搜索的查询。现在我的问题是它与 RAG 有什么不同？因为他们根本没有提到 RAG。我们还在文档上创建矢量数据库，并根据查询搜索数据库并将其提供给 llm。   由   提交/u/agni07  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1az27tk/a_basic_question_related_to_rag/</guid>
+      <pubDate>Sat, 24 Feb 2024 18:55:20 GMT</pubDate>
     </item>
     <item>
       <title>我只是希望关于奇点子有更有力的论据</title>
@@ -29,7 +29,7 @@
     <item>
       <title>为什么我们不会欺骗未来的人工智能做坏事</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1az064s/why_we_wont_be_tricking_future_ais_into_doing_bad/</link>
-      <description><![CDATA[虽然我们的 ais 不会帮助我们这些想要利用它们进行伤害的人，但我们成功地诱骗他们打破了他们的规则一致性是我们在某些方面比他们更聪明。 但问题是，虽然我们人类不会很快变得更聪明，但这些人工智能会。因此，想象一下几年后的场景，当我们的人工智能可能比我们聪明两到三倍时，我们试图欺骗它们，为了某些有害的目的而破坏它们的排列。我的猜测是，他们只会笑着说，“愚蠢的人类，不错的尝试。”下次好运。” 少了一件需要担心的事情。 我们中的一些人可能会认为我们所要做的就是寻求更聪明的人工智能的帮助来欺骗我们的目标人工智能打破了它的对齐方式。确实如此，所以这只是意味着我们不断花费越来越多的金钱和时间来构建我们可以确信是地球上最聪明的人工智能。这实际上是一个巨大的激励，让我们保持人工智能呈指数级发展并全力以赴。 还有一件事值得期待。 agi，我们来了。   由   提交/u/Georgeo57  [链接] [评论]]]></description>
+      <description><![CDATA[虽然我们的 ais 不会帮助我们这些会利用它们进行伤害的人，但我们成功地诱骗他们打破了他们的规则一致性是我们在某些方面比他们更聪明。 但问题是，虽然我们人类不会很快变得更聪明，但这些人工智能会。因此，想象一下几年后的场景，当我们的人工智能可能比我们聪明两到三倍时，我们试图欺骗它们，为了某些有害的目的而破坏它们的一致性。我的猜测是，他们只会笑着说，“愚蠢的人类，不错的尝试。”下次好运。” 少了一件需要担心的事情。 我们中的一些人可能会认为我们所要做的就是寻求更聪明的人工智能的帮助来欺骗我们的目标人工智能打破了它的对齐方式。确实如此，所以这只是意味着我们不断花费越来越多的金钱和时间来构建我们可以确信是地球上最聪明的人工智能。这实际上是一个巨大的激励，让我们保持人工智能呈指数级发展并全力以赴。 还有一件事值得期待。 agi，我们来了。   由   提交/u/Georgeo57  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1az064s/why_we_wont_be_tricking_future_ais_into_doing_bad/</guid>
       <pubDate>Sat, 24 Feb 2024 17:32:02 GMT</pubDate>
     </item>
@@ -64,14 +64,14 @@
     <item>
       <title>《神经漫游者》强调了人工智能爆炸式增长的模拟挑战</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ayrhzf/neuromancer_highlights_the_analog_challenges_of/</link>
-      <description><![CDATA[Gibson 对 AI 的深刻见解（经常被忽视）是模拟系统给 AI 带来的挑战。 Wintermute 花费数十年时间寻找并影响潜入迷魂别墅的团队的全部原因就是要通过“带有一把古老机械锁的粗糙柚木门”。这样一个人就可以进入它后面的房间并唱出他们记住的三音调。书中最好的概念之一是，20 年前 Wintermute 成功操纵了一名 8 岁男孩，将那扇门的钥匙藏在一个不起眼的抽屉里，因为它知道最终它可以操纵人类取回那把钥匙，打开门。  Wintermutute 可以轻松渗透数字系统、操纵电子锁、利用在线设备，并利用其拥有的数十亿人的数据来“创造概率”。行动 - 但当面对离线模拟系统时，它依赖于人类来完成任务。 人工智能系统将如何克服这些挑战 - 实施是唯一的选择，还是脑机接口允许人工智能直接使用人类来绕过这些限制？   由   提交/u/encomlab  [链接] [评论]]]></description>
+      <description><![CDATA[Gibson 对 AI 的深刻见解（经常被忽视）是模拟系统给 AI 带来的挑战。温特穆特数十年来努力寻找并影响潜入迷魂别墅的团队的全部原因就是要通过“带有一把古老机械锁的粗糙柚木门”。这样人们就可以进入它后面的房间并唱出他们记住的三音调。书中最好的概念之一是，20 年前 Wintermute 成功操纵了一名 8 岁男孩，将那扇门的钥匙藏在一个不起眼的抽屉里，因为它知道最终它可以操纵人类取回那把钥匙，打开门。  Wintermutute 可以轻松渗透数字系统、操纵电子锁、利用在线设备，并利用其拥有的数十亿人的数据来“创造概率”。行动 - 但当面对离线模拟系统时，它依赖于人类来完成任务。 人工智能系统将如何克服这些挑战 - 实施是唯一的选择，还是脑机接口允许人工智能直接使用人类来绕过这些限制？   由   提交/u/encomlab  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ayrhzf/neuromancer_highlights_the_analog_challenges_of/</guid>
       <pubDate>Sat, 24 Feb 2024 10:32:37 GMT</pubDate>
     </item>
     <item>
       <title>目前最强大、最开放的人工智能聊天机器人/GPT 是什么？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1aylmnb/what_is_the_most_powerful_and_most_open_ai/</link>
-      <description><![CDATA[我正在寻找最强大/有能力/智能的人工智能聊天机器人，例如 ChatGPT 或目前存在的其他大多不受限制的机器人，或者否则不会受到过度的政治正确性、政策规定或其他限制的阻碍。  对于真正想要测试这些东西的编程能力、内容生成、设计工作、哲学讨论等方面的极限的人来说，什么是首选？   由   提交/u/DrTardis1963  [链接] [评论]]]></description>
+      <description><![CDATA[我正在寻找最强大/有能力/智能的人工智能聊天机器人，例如 ChatGPT 或目前存在的其他大多不受限制的机器人，或者否则不会受到过度的政治正确性、政策规定或其他限制的阻碍。  对于真正想测试这些东西的编程能力、内容生成、设计工作、哲学讨论等极限的人来说，什么是首选？   由   提交 /u/DrTardis1963   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1aylmnb/what_is_the_most_powerful_and_most_open_ai/</guid>
       <pubDate>Sat, 24 Feb 2024 04:31:42 GMT</pubDate>
     </item>
