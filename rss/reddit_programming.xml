@@ -4,7 +4,77 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Sun, 25 Feb 2024 09:10:23 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Feb 2024 15:10:14 GMT</lastBuildDate>
+    <item>
+      <title>专业工程师的培养：里科弗海军上将</title>
+      <link>https://www.reddit.com/r/programming/comments/1azpajq/the_making_of_a_professional_engineer_admiral/</link>
+      <description><![CDATA[ 由   提交 /u/shrsv   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1azpajq/the_making_of_a_professional_engineer_admiral/</guid>
+      <pubDate>Sun, 25 Feb 2024 14:33:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>Zapier 如何自动化数十亿个任务</title>
+      <link>https://www.reddit.com/r/programming/comments/1azp5ul/how_zapier_automates_billions_of_tasks/</link>
+      <description><![CDATA[ 由   提交/u/sdxyz42   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1azp5ul/how_zapier_automates_billions_of_tasks/</guid>
+      <pubDate>Sun, 25 Feb 2024 14:27:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于车顶线性能模型您需要了解的一切</title>
+      <link>https://www.reddit.com/r/programming/comments/1azp2ea/everything_you_need_to_know_about_the_roofline/</link>
+      <description><![CDATA[ 由   提交/u/Odd_Cryptographer_69   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1azp2ea/everything_you_need_to_know_about_the_roofline/</guid>
+      <pubDate>Sun, 25 Feb 2024 14:22:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>从标识符生成 SVG 头像</title>
+      <link>https://www.reddit.com/r/programming/comments/1azo5ze/generating_svg_avatars_from_identifiers/</link>
+      <description><![CDATA[ 由   提交/u/nathiss  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1azo5ze/generating_svg_avatars_from_identifiers/</guid>
+      <pubDate>Sun, 25 Feb 2024 13:40:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何在Spring框架中使用@Component注解创建Bean并简要解释什么是构造型注解</title>
+      <link>https://www.reddit.com/r/programming/comments/1azo4za/how_to_use_component_annotation_to_create_bean_in/</link>
+      <description><![CDATA[ 由   提交 /u/sinarest   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1azo4za/how_to_use_component_annotation_to_create_bean_in/</guid>
+      <pubDate>Sun, 25 Feb 2024 13:39:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>graph：一个用于创建通用图形数据结构并修改、分析和可视化它们的 Go 库。</title>
+      <link>https://www.reddit.com/r/programming/comments/1azo2ig/graph_a_go_library_for_creating_generic_graph/</link>
+      <description><![CDATA[ 由   提交/u/cv-x   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1azo2ig/graph_a_go_library_for_creating_generic_graph/</guid>
+      <pubDate>Sun, 25 Feb 2024 13:35:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>2024 年 JavaScript 膨胀</title>
+      <link>https://www.reddit.com/r/programming/comments/1azn67j/javascript_bloat_in_2024/</link>
+      <description><![CDATA[ 由   提交/u/jpanixix  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1azn67j/javascript_bloat_in_2024/</guid>
+      <pubDate>Sun, 25 Feb 2024 12:49:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>LZAV 4.0 - 快速数据压缩算法（仅限标头 C/C++），比率现在优于 Zstd@-1</title>
+      <link>https://www.reddit.com/r/programming/comments/1azm8ig/lzav_40_fast_data_compression_algorithm/</link>
+      <description><![CDATA[ 由   提交/u/avaneev  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1azm8ig/lzav_40_fast_data_compression_algorithm/</guid>
+      <pubDate>Sun, 25 Feb 2024 11:56:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的堆栈数据结构的快速交互式心智模型</title>
+      <link>https://www.reddit.com/r/programming/comments/1azlmtm/my_quick_interactive_mental_model_of_the_stack/</link>
+      <description><![CDATA[ 由   提交/u/andycoupe  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1azlmtm/my_quick_interactive_mental_model_of_the_stack/</guid>
+      <pubDate>Sun, 25 Feb 2024 11:18:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>🔍 跟踪您作为工程师的成长</title>
+      <link>https://www.reddit.com/r/programming/comments/1azjwa3/track_your_growth_as_an_engineer/</link>
+      <description><![CDATA[ 由   提交/u/erFrankie99  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1azjwa3/track_your_growth_as_an_engineer/</guid>
+      <pubDate>Sun, 25 Feb 2024 09:25:44 GMT</pubDate>
+    </item>
     <item>
       <title>Shoelace：一个具有前瞻性的 Web 组件库。</title>
       <link>https://www.reddit.com/r/programming/comments/1azjlxv/shoelace_a_forwardthinking_library_of_web/</link>
@@ -15,16 +85,9 @@
     <item>
       <title>大型语言模型可以破解网站。</title>
       <link>https://www.reddit.com/r/programming/comments/1azjaom/large_language_models_can_hack_websites/</link>
-      <description><![CDATA[ 由   提交/u/Connect_Tear402   [链接] [评论]]]></description>
+      <description><![CDATA[ 由   提交/u/Connect_Tear402  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1azjaom/large_language_models_can_hack_websites/</guid>
       <pubDate>Sun, 25 Feb 2024 08:46:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>Adobe Animate cc 和 Action Script 3 中的 3D 旋转</title>
-      <link>https://www.reddit.com/r/programming/comments/1azi5p7/rotation_3d_in_adobe_animate_cc_action_script_3/</link>
-      <description><![CDATA[ 由   提交/u/ah2000ha  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1azi5p7/rotation_3d_in_adobe_animate_cc_action_script_3/</guid>
-      <pubDate>Sun, 25 Feb 2024 07:32:06 GMT</pubDate>
     </item>
     <item>
       <title>您可能不知道的 Google Cloud Spanner 5 大功能</title>
@@ -32,13 +95,6 @@
       <description><![CDATA[ 由   提交/u/ablx0000  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1azhkst/top_5_features_of_google_cloud_spanner_you_might/</guid>
       <pubDate>Sun, 25 Feb 2024 06:55:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们应该对编程的未来感到恐惧吗？</title>
-      <link>https://www.reddit.com/r/programming/comments/1azfhph/should_we_be_scared_about_our_future_in/</link>
-      <description><![CDATA[越来越多关于人工智能如何取代工作的新闻文章出现。然而，以我的愚见，现在已经在工作中使用过几次人工智能，但它还没有出现。关键词是，但恐惧仍在慢慢出现，我将来还能找到工作吗？大家觉得怎么样？   由   提交/u/gamerfiiend  [链接]  [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1azfhph/should_we_be_scared_about_our_future_in/</guid>
-      <pubDate>Sun, 25 Feb 2024 04:54:06 GMT</pubDate>
     </item>
     <item>
       <title>Java 工程：摘要#11</title>
@@ -53,62 +109,6 @@
       <description><![CDATA[ 由   提交 /u/ml_keychain   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1azb04x/codeforpeace_a_hackathon_supporting_ukraine_on/</guid>
       <pubDate>Sun, 25 Feb 2024 01:05:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>异步清理</title>
-      <link>https://www.reddit.com/r/programming/comments/1aza2yp/asynchronous_cleanup/</link>
-      <description><![CDATA[ 由   提交/u/simon_o   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1aza2yp/asynchronous_cleanup/</guid>
-      <pubDate>Sun, 25 Feb 2024 00:23:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>蓝天如何运作？</title>
-      <link>https://www.reddit.com/r/programming/comments/1az9v50/how_does_bluesky_work/</link>
-      <description><![CDATA[ 由   提交/u/steveklabnik1  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1az9v50/how_does_bluesky_work/</guid>
-      <pubDate>Sun, 25 Feb 2024 00:13:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>自然语言处理应用中的挑战</title>
-      <link>https://www.reddit.com/r/programming/comments/1az7rom/challenges_in_natural_language_processing/</link>
-      <description><![CDATA[ 由   提交/u/gckoch  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1az7rom/challenges_in_natural_language_processing/</guid>
-      <pubDate>Sat, 24 Feb 2024 22:44:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>作为后端工程师如何构建原型</title>
-      <link>https://www.reddit.com/r/programming/comments/1az5y4t/how_to_build_prototypes_as_a_backend_engineer/</link>
-      <description><![CDATA[ 由   提交 /u/buildtechcareer   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1az5y4t/how_to_build_prototypes_as_a_backend_engineer/</guid>
-      <pubDate>Sat, 24 Feb 2024 21:29:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>测试和 TDD：消除废话</title>
-      <link>https://www.reddit.com/r/programming/comments/1az4vv4/testing_and_tdd_stripping_away_the_bullshit/</link>
-      <description><![CDATA[ 由   提交 /u/Think-nothing-210   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1az4vv4/testing_and_tdd_stripping_away_the_bullshit/</guid>
-      <pubDate>Sat, 24 Feb 2024 20:46:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Gnuplot 6 附带饼图 [LWN.net]</title>
-      <link>https://www.reddit.com/r/programming/comments/1az3prr/gnuplot_6_comes_with_pie_lwnnet/</link>
-      <description><![CDATA[ 由   提交/u/hogney  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1az3prr/gnuplot_6_comes_with_pie_lwnnet/</guid>
-      <pubDate>Sat, 24 Feb 2024 19:57:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么 Apache Spark RDD 是不可变的？</title>
-      <link>https://www.reddit.com/r/programming/comments/1az2zfu/why_apache_spark_rdd_is_immutable/</link>
-      <description><![CDATA[ 由   提交/u/luminoumen  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1az2zfu/why_apache_spark_rdd_is_immutable/</guid>
-      <pubDate>Sat, 24 Feb 2024 19:26:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>满月时代码的工作方式有所不同</title>
-      <link>https://www.reddit.com/r/programming/comments/1az0kxr/the_code_worked_differently_when_the_moon_was_full/</link>
-      <description><![CDATA[ 由   提交/u/LinearArray  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1az0kxr/the_code_worked_differently_when_the_moon_was_full/</guid>
-      <pubDate>Sat, 24 Feb 2024 17:48:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
