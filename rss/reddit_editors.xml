@@ -4,7 +4,42 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Sun, 25 Feb 2024 09:10:18 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Feb 2024 12:17:18 GMT</lastBuildDate>
+    <item>
+      <title>停止代码：视频调度程序Internal_Error</title>
+      <link>https://www.reddit.com/r/editors/comments/1azlz1v/stopcode_video_scheduler_internal_error/</link>
+      <description><![CDATA[大家好，有人遇到过“Stopcode: Video Scheduler Internal_Error”的 BSOD 吗？通过 Media Encoder 导出时？请帮助我解决问题。 系统规格：Lenovo Ideapad Gaming 3 | Ryzen 5 5600H、RTX 3060、8GB RAM、512 SSD 素材规格：来自 GDrive 的 1080p 视频   由   提交 /u/neverthoughtabtit   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1azlz1v/stopcode_video_scheduler_internal_error/</guid>
+      <pubDate>Sun, 25 Feb 2024 11:40:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>停止代码：视频调度程序Internal_Error</title>
+      <link>https://www.reddit.com/r/editors/comments/1azlyrc/stopcode_video_scheduler_internal_error/</link>
+      <description><![CDATA[大家好，有人遇到过“Stopcode: Video Scheduler Internal_Error”的 BSOD 吗？通过 Media Encoder 导出时？请帮助我解决问题。 规格：Lenovo Ideapad Gaming 3 | Ryzen 5 5600H、RTX 3060、8GB RAM、512 SSD 视频：1080p 视频/最大比特率   由   提交 /u/neverthoughtabtit   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1azlyrc/stopcode_video_scheduler_internal_error/</guid>
+      <pubDate>Sun, 25 Feb 2024 11:39:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>Premiere 中的序列报告 - 这可能吗？</title>
+      <link>https://www.reddit.com/r/editors/comments/1azlgof/sequence_report_in_premiere_is_it_possible/</link>
+      <description><![CDATA[我正在寻找一种在 Premiere Pro 中导出序列报告的方法，类似于在 Avid 中的做法。本质上，我需要剪辑中使用的所有效果的列表，以及时间代码和剪辑信息。 目前，我在使用效果的位置留下标记，然后将这些标记导出为文本文件，但是这是一个漫长的过程，并且存在犯错的空间。    由   提交/u/jotomatoes  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1azlgof/sequence_report_in_premiere_is_it_possible/</guid>
+      <pubDate>Sun, 25 Feb 2024 11:08:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Compressor 将 ProRes RAW 转码为 4444 时出现问题</title>
+      <link>https://www.reddit.com/r/editors/comments/1azkqna/issues_transcoding_prores_raw_to_4444_with/</link>
+      <description><![CDATA[我有一堆在 A7S3 上使用 Ninja V 在 ProRes RAW 上拍摄的剪辑。我正在尝试使用 Compressor 将所有这些文件从 ProRes RAW 转码为 ProRes 4444，以便在 Resolve 中进行调色。我现在面临两个问题。一是每次我将 RAW 设置为 LOG 作为 Slog3/S-Gamut3.Cine 并将相机 LUT 设置为 None 时，实际的转码输出不在日志中，但预览显示正确的日志转换。我遇到的另一件事是音频突然消失，我检查了音频下的每个通道布局，但它们都不起作用。理想情况下，我希望它是立体声 (LR)，但从 Ninja V 发出的所有文件都是 4 通道 (LR C C)；然而，我只需要 L R，因为其他两个通道都很安静。这是我第一次使用 Compressor，通常我只会使用 FCPX，但这是一个更大的项目，我想简化一些事情。如有任何帮助，我们将不胜感激！ 系统规格：Macbook Pro 14 英寸 2021，M1 Max 32GB 内存 软件规格：Apple Compressor 4.7 素材规格：ProRes RAW/S-Log3 4.2k23 .976 fps   由   提交/u/IgnisAngelus96   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1azkqna/issues_transcoding_prores_raw_to_4444_with/</guid>
+      <pubDate>Sun, 25 Feb 2024 10:21:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>将 .txt 文件更改为 .srt 以进行 Premiere</title>
+      <link>https://www.reddit.com/r/editors/comments/1azk7m8/changing_a_txt_file_to_an_srt_for_premiere/</link>
+      <description><![CDATA[大家好！我正在编辑一个用孟加拉语拍摄的纪录片系列。译者已将英文翻译成.txt文件，格式如下： 1 00:00:30,23 --&gt; 00:00:35,21 我目前住在 Gajamahal 警察哨所附近。 2 00:00:36,10 --&gt; 00:00:38,23 我的职业是拉人力车。  ​ 当我将扩展名更改为 .srt（并取消选中隐藏扩展名）时，它仍然不会导入到 Premiere 中。有人有任何提示和技巧吗？我在线尝试了一些 .txt 到 .srt 转换器，但由于某种原因，时间码与文档不一致。预先感谢您的帮助！   由   提交 /u/legsiemaryrose   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1azk7m8/changing_a_txt_file_to_an_srt_for_premiere/</guid>
+      <pubDate>Sun, 25 Feb 2024 09:47:04 GMT</pubDate>
+    </item>
     <item>
       <title>最好的 Avid 训练营？</title>
       <link>https://www.reddit.com/r/editors/comments/1azgpl4/best_avid_bootcamp/</link>
@@ -74,41 +109,6 @@
       <description><![CDATA[REC709、REC2020 和 REC709 之间有什么区别？ P3 D65？以及在通常寻找最可食用能源的情况下哪一个最适合拍摄   由   提交/u/Mysterious_Prize1700   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1ays56k/whats_the_difference_between_rec709_rec2020_p3_d65/</guid>
       <pubDate>Sat, 24 Feb 2024 11:12:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>从同步剪辑创建组剪辑的最佳方式？</title>
-      <link>https://www.reddit.com/r/editors/comments/1aym32i/best_way_to_create_group_clips_from_sync_clips/</link>
-      <description><![CDATA[我已将每个摄像机单独同步到音频，但我想为我们同时滚动多个摄像机的镜头创建组剪辑，希望能够从同步我已经完成了。最简单的方法是什么？ 谢谢!!   由   提交/u/PuddlesTheGreat  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1aym32i/best_way_to_create_group_clips_from_sync_clips/</guid>
-      <pubDate>Sat, 24 Feb 2024 04:56:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>Avid 卸载程序错误</title>
-      <link>https://www.reddit.com/r/editors/comments/1ayg9al/avid_uninstaller_error/</link>
-      <description><![CDATA[我正在掸掉架子上的旧 MacBook Pro 上的灰尘，并希望卸载所有 Avid Link (2021.2.1) 和 Avid Link (2021.2.1)。 MC（2021.3），因为我不打算再次使用它进行编辑。我做的第一件事是更新到 Sonoma，我认为这导致与旧的 Avid Uninstaller (4.4.1) 不兼容。当我单击“卸载”时，我收到“预卸载任务中的错误取消了卸载”。我尝试过做一些研究，但最终不确定该去哪里。感谢您的任何建议。   由   提交 /u/OldIvory   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1ayg9al/avid_uninstaller_error/</guid>
-      <pubDate>Sat, 24 Feb 2024 00:11:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>120小时长片</title>
-      <link>https://www.reddit.com/r/editors/comments/1ayfbn2/120_hour_long_film/</link>
-      <description><![CDATA[大家好， 我是一名艺术家，我正在计划为期五天的持续表演工作，但我需要拍摄整个过程（我打算在画廊空间实时重播）。简而言之，我需要连续拍摄然后导出大约 120 小时的素材。请问有人对解决这个问题的最佳方法有什么建议吗？    由   提交 /u/FamiliarPassenger352   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1ayfbn2/120_hour_long_film/</guid>
-      <pubDate>Fri, 23 Feb 2024 23:32:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>这里有人跳过跑步吗？</title>
-      <link>https://www.reddit.com/r/editors/comments/1aydbgu/has_anyone_here_skipped_being_a_runner/</link>
-      <description><![CDATA[您的职业道路是什么？我并不是想跳过成为一名跑步者，我真的很想体验一下，但我遇到了一位正在为 BBC 编辑的编辑，他们说他们跳过成为跑步者是因为他们为一群独立人士工作过自由职业者作品（或者我记得他们是这么说的）。    由   提交/u/joshpostproduct  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1aydbgu/has_anyone_here_skipped_being_a_runner/</guid>
-      <pubDate>Fri, 23 Feb 2024 22:10:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>最喜欢的角色 关注/真实场景或文档？</title>
-      <link>https://www.reddit.com/r/editors/comments/1aycjm5/favorite_character_followvérité_scenes_or_docs/</link>
-      <description><![CDATA[您好！我正在开始制作一部由角色跟随/真实驱动的纪录片，虽然我之前已经编辑过这种类型的文档，但我很早就开始制作，并且作为制片人/编辑获得了很大的自由来拥有这部纪录片（以一种好的方式，而不是以“请为我们做工作”的方式） 为了庆祝这个项目的开始，我很想听听其他编辑们特别喜欢的场景或整个项目文档属于这一类。给我一些启发。 如果文档涉及硬主题，则加分。 干杯！ ​   由   提交 /u/SpicyPeanutSauce   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1aycjm5/favorite_character_followvérité_scenes_or_docs/</guid>
-      <pubDate>Fri, 23 Feb 2024 21:38:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
