@@ -4,111 +4,111 @@
     <title>最新提交：ChatGPT</title>
     <link>https://www.reddit.com/r/ChatGPT/new</link>
     <description>Subreddit 讨论 ChatGPT 和 AI。不隶属于 OpenAI。</description>
-    <lastBuildDate>Sun, 25 Feb 2024 21:10:53 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Feb 2024 03:12:15 GMT</lastBuildDate>
     <item>
-      <title>他花了一段时间但他到达了那里</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1azz1dw/took_him_a_while_but_he_got_there/</link>
-      <description><![CDATA[       由   提交/u/Krirby2  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1azz1dw/took_him_a_while_but_he_got_there/</guid>
-      <pubDate>Sun, 25 Feb 2024 21:10:06 GMT</pubDate>
+      <title>这是真实的还是人工智能的？我不知道。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1b077sr/is_this_real_or_ai_i_cant_tell/</link>
+      <description><![CDATA[       由   提交/u/chungus5992  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1b077sr/is_this_real_or_ai_i_cant_tell/</guid>
+      <pubDate>Mon, 26 Feb 2024 03:08:16 GMT</pubDate>
     </item>
     <item>
-      <title>如果美国大公司拥有自己的航空公司。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1azz0s7/if_large_american_corporations_had_their_own/</link>
-      <description><![CDATA[       由   提交/u/seboll13  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1azz0s7/if_large_american_corporations_had_their_own/</guid>
-      <pubDate>Sun, 25 Feb 2024 21:09:25 GMT</pubDate>
+      <title>验证码过多</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1b076ov/excessive_captchas/</link>
+      <description><![CDATA[今天，每当我与网页聊天互动时，突然就会被要求输入验证码。不只是一个，而是 20 个。对于每一个提示。太疯狂了！ 我已经清除了缓存、注销/登录并重新启动了计算机。无论我做什么，每次提示都会要求我输入验证码。这是针对 ChatGPT 4 和 3.5 的。 还有其他人遇到过这个问题并有什么建议吗？我联系了支持人员，但他们还没有完全提供帮助。   由   提交 /u/pancakeshack   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1b076ov/excessive_captchas/</guid>
+      <pubDate>Mon, 26 Feb 2024 03:06:39 GMT</pubDate>
     </item>
     <item>
-      <title>我对几乎所有人工智能模型的审查的理论：</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1azz00l/my_theory_on_the_censoring_of_almost_all_ai_models/</link>
-      <description><![CDATA[我们现在正处于一个人工智能的奇怪空间，本质上是“狂野西部时代”。有点像互联网的开始。目前，人工智能正在以疯狂的速度发展，其速度之快以至于立法的缓慢步伐永远无法跟上。正因为如此，我认为大多数公司都非常小心行事，以免过多扰乱水域。 想象人工智能不会有任何法律，可以制作什么样的内容，如何进行人工智能，这是不现实的。模型可以行动。我认为公司害怕为未来的法律提供弹药。看看泰勒·斯威夫特的深度造假事件就知道了。 我认为，一旦公司更清楚地了解他们对人工智能的用途和禁止用途，我们就会看到很多任意的审查制度淡出。 这至少是我的两分钱。   由   提交/u/Sumasson-  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1azz00l/my_theory_on_the_censoring_of_almost_all_ai_models/</guid>
-      <pubDate>Sun, 25 Feb 2024 21:08:33 GMT</pubDate>
+      <title>高级“摘要”提示提取较大的文本但仍保持详细，缩短但保留所有重要的见解和知识。不容易，总是失去洞察力</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1b06y01/advanced_summary_prompt_to_distill_larger_text/</link>
+      <description><![CDATA[我现在想提取更大、更复杂的营销教育成绩单，之后已经通过分块缩短了 50%，以消除对话内容，但保留内容的原始措辞，这很困难，但效果很好。 接下来的进一步总结确实很困难，下一步是将所有关键/重要/见解/课程/教学提取或提炼成详细的笔记/要点/教学要点。  “摘要”和“重写”这两个词不起作用，似乎总是会彻底改变内容并失去我从上面的删除绒毛提示中学到的关键见解，只有一个复杂的“编辑以去除绒毛并保留原始措辞等等”。键入提示有效，摘要和重写是魔鬼的话。 现在如何将其进一步提炼为真正的摘要，该摘要本身仍然很长（Chatgpt 内存中少于 4k 令牌）并保留 ALL/90 % 关键课程/见解和重要内容，但将文本大量压缩为原始内容的 20%，或者从 3 小时删除废话的文字记录开始，在 2000 字以内或更少的内容。 显然只是详细解释了什么在这种情况下，我想要的详细信息从来没有效果很好，缺少一些关键指令或关键的东西。 必须有一些高级提示可以很好地完成此任务，即使不完美。大多数摘要提示只是提供了可怕的高级概述，无法教给您任何东西，也无法在不再次阅读全文的情况下为以后的重新学习提供很好的参考。 我需要详细的笔记，我可以从中学习，不要丢失内容，但写得比原始对话文本短，但保留了关键内容。 非常感谢您，需要建立一个适当的知识库，正确总结大量内容而不丢失见解。 非常感谢您。 &gt;   由   提交/u/jayn35  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1b06y01/advanced_summary_prompt_to_distill_larger_text/</guid>
+      <pubDate>Mon, 26 Feb 2024 02:54:37 GMT</pubDate>
     </item>
     <item>
-      <title>专家 SEO 文章撰写者 - 使用 ChatGPT Plus 生成完全 SEO 优化的博客文章</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1azyzca/expert_seo_article_writer_generate_fully/</link>
-      <description><![CDATA[       由   提交 /u/Illustrious-King8421   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1azyzca/expert_seo_article_writer_generate_fully/</guid>
-      <pubDate>Sun, 25 Feb 2024 21:07:49 GMT</pubDate>
+      <title>每当我觉得双子座无法变得更搞笑时，就会有人超越它</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1b06wpp/every_time_i_think_gemini_cant_get_more_hilarious/</link>
+      <description><![CDATA[     &lt; /td&gt;  由   提交 /u/FitzyFarseer   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1b06wpp/every_time_i_think_gemini_cant_get_more_hilarious/</guid>
+      <pubDate>Mon, 26 Feb 2024 02:52:44 GMT</pubDate>
     </item>
     <item>
-      <title>使用此自定义 GPT 为 ChatGPT/Gemini/Midjourney AI 生成 AI 提示</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1azywwf/generate_ai_prompts_for_chatgptgeminimidjourney/</link>
-      <description><![CDATA[       由   提交/u/Senior_tasteey  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1azywwf/generate_ai_prompts_for_chatgptgeminimidjourney/</guid>
-      <pubDate>Sun, 25 Feb 2024 21:05:06 GMT</pubDate>
+      <title>有没有地方可以为不想注册 ChatGPT 的人请求 AI 图像？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1b06wbm/is_there_a_place_to_request_ai_images_for_people/</link>
+      <description><![CDATA[我正在想象类似 r/photoshopbattles 用于 AI 图像。    由   提交 /u/blushngush   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1b06wbm/is_there_a_place_to_request_ai_images_for_people/</guid>
+      <pubDate>Mon, 26 Feb 2024 02:52:08 GMT</pubDate>
     </item>
     <item>
-      <title>……他们被包围了</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1azyrwo/bazinga/</link>
-      <description><![CDATA[       由   提交/u/F0lks_  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1azyrwo/bazinga/</guid>
-      <pubDate>Sun, 25 Feb 2024 20:59:49 GMT</pubDate>
+      <title>查看我的新帐户</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1b06tru/check_out_my_new_account/</link>
+      <description><![CDATA[     &lt; td&gt; 有点自我推销，但我会开始记录我在 TikTok 上使用 ChatGPT 的情况。一定要看看 https://www.tiktok.com/@dailydoseof_gpt ?_t=8kC4TIcn3HT&amp;_r=1   由   提交/u/Boring-Company-1076   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1b06tru/check_out_my_new_account/</guid>
+      <pubDate>Mon, 26 Feb 2024 02:48:31 GMT</pubDate>
     </item>
     <item>
-      <title>这个讲故事的机器人突然开始无法回答我，我不知道为什么。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1azyjhs/this_story_telling_bot_has_randomly_just_started/</link>
-      <description><![CDATA[   当我问为什么它说它无法实现时，这基本上就是它告诉我的内容我的请求。半小时前还运行良好。然后突然之间，在它为我写的 35 章故事中表现出色后，它就让我崩溃了。我不明白为什么。真是令人沮丧，我怎么能进入这么远，然后它就开始像这样阻碍我。    由   提交/u/ImperialxWarlord  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1azyjhs/this_story_telling_bot_has_randomly_just_started/</guid>
-      <pubDate>Sun, 25 Feb 2024 20:50:20 GMT</pubDate>
+      <title>偏见仍然存在。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1b06m5u/the_bias_still_exists/</link>
+      <description><![CDATA[       由   提交 /u/FireCubX   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1b06m5u/the_bias_still_exists/</guid>
+      <pubDate>Mon, 26 Feb 2024 02:37:55 GMT</pubDate>
     </item>
     <item>
-      <title>还有其他人这样做吗？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1azyg6g/does_anybody_else_do_this/</link>
-      <description><![CDATA[       由   提交 /u/anonymous_account111   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1azyg6g/does_anybody_else_do_this/</guid>
-      <pubDate>Sun, 25 Feb 2024 20:46:46 GMT</pubDate>
+      <title>这张照片是在赏鲸之旅中拍摄的。大自然是奇妙的</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1b06gx0/took_this_photo_on_a_whale_watching_tour_nature/</link>
+      <description><![CDATA[   /u/Remarkable_Pick_494  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1b06gx0/took_this_photo_on_a_whale_watching_tour_nature/</guid>
+      <pubDate>Mon, 26 Feb 2024 02:30:56 GMT</pubDate>
     </item>
     <item>
-      <title>如果……会做油煎面包块</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1azyc5p/if_would_make_croutons/</link>
-      <description><![CDATA[       由   提交 /u/Ennyui   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1azyc5p/if_would_make_croutons/</guid>
-      <pubDate>Sun, 25 Feb 2024 20:42:13 GMT</pubDate>
+      <title>大家好！你懂得越多！</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1b06f88/hey_guys_the_more_you_know/</link>
+      <description><![CDATA[       由   提交/u/Specific-Ad-8028   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1b06f88/hey_guys_the_more_you_know/</guid>
+      <pubDate>Mon, 26 Feb 2024 02:28:43 GMT</pubDate>
     </item>
     <item>
-      <title>艾一直在变得更好</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1azy9he/ai_keeps_getting_better/</link>
-      <description><![CDATA[       由   提交 /u/255255255Girls   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1azy9he/ai_keeps_getting_better/</guid>
-      <pubDate>Sun, 25 Feb 2024 20:39:23 GMT</pubDate>
+      <title>微软使用ChatGPT模型来与ChatGPT竞争，这不是很奇怪吗？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1b06d42/isnt_it_weird_that_microsoft_is_using_chatgpt/</link>
+      <description><![CDATA[我一直在使用 copilot，它是一个非常简洁的产品。它提供了大部分 ChatGPT 功能以及一些插件。我觉得按照这个速度 Copilot 完全可以超越 ChatGPT。此时，微软不妨收购OpenAI。 ​   由   提交 /u/quebexer   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1b06d42/isnt_it_weird_that_microsoft_is_using_chatgpt/</guid>
+      <pubDate>Mon, 26 Feb 2024 02:25:45 GMT</pubDate>
     </item>
     <item>
-      <title>这给了我《战地：叛逆连队》的感觉</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1azxxqp/this_gives_me_battlefield_bad_company_vibes/</link>
-      <description><![CDATA[       由   提交/u/TheArisenRoyals  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1azxxqp/this_gives_me_battlefield_bad_company_vibes/</guid>
-      <pubDate>Sun, 25 Feb 2024 20:26:18 GMT</pubDate>
+      <title>我的 ChatGPT Twitch 机器人发送了一条有趣的回复</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1b063vz/my_chatgpt_twitch_bot_sent_an_interesting_reply/</link>
+      <description><![CDATA[       由   提交 /u/Ericakester   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1b063vz/my_chatgpt_twitch_bot_sent_an_interesting_reply/</guid>
+      <pubDate>Mon, 26 Feb 2024 02:13:19 GMT</pubDate>
     </item>
     <item>
-      <title>是真实的还是人工智能的？说不出来</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1azxxbl/is_it_real_or_ai_cant_tell/</link>
-      <description><![CDATA[       由   提交/u/Mr_Akihiro   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1azxxbl/is_it_real_or_ai_cant_tell/</guid>
-      <pubDate>Sun, 25 Feb 2024 20:25:51 GMT</pubDate>
+      <title>我无法忍受人工智能生成图像的“卡通”风格</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1b05zg0/i_cant_stand_the_cartoonish_style_of_ai_generated/</link>
+      <description><![CDATA[我注意到几乎所有人工智能生成的“艺术”或图像都有那种超级烦人的卡通外观。这是为什么？我认为会有更多种类的风格。   由   提交/u/robocub  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1b05zg0/i_cant_stand_the_cartoonish_style_of_ai_generated/</guid>
+      <pubDate>Mon, 26 Feb 2024 02:07:22 GMT</pubDate>
     </item>
     <item>
-      <title>DALLE3 还是不会拼写，但他们在谈论 AGI😆</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1azxsvj/dalle3_still_cant_spell_but_they_talking_about_agi/</link>
-      <description><![CDATA[       由   提交 /u/ResponsibleSteak4994   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1azxsvj/dalle3_still_cant_spell_but_they_talking_about_agi/</guid>
-      <pubDate>Sun, 25 Feb 2024 20:20:53 GMT</pubDate>
+      <title>如何让 ChatGPT 解读科学论文。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1b05vlc/how_to_get_chatgpt_to_interpret_scientific_paper/</link>
+      <description><![CDATA[我应该总结/分析“这篇”科学论文。但考虑到措辞/科学术语，我在这样做时遇到了困难。我怎样才能让 ChatGPT（或任何 AI）用我能理解的术语为我总结它。谢谢。    由   提交/u/dolphinsmasher4   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1b05vlc/how_to_get_chatgpt_to_interpret_scientific_paper/</guid>
+      <pubDate>Mon, 26 Feb 2024 02:02:15 GMT</pubDate>
     </item>
     <item>
-      <title>这是什么意思？ 👀</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1azxsph/what_does_this_mean/</link>
-      <description><![CDATA[       由   提交 /u/assymetry1   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1azxsph/what_does_this_mean/</guid>
-      <pubDate>Sun, 25 Feb 2024 20:20:41 GMT</pubDate>
+      <title>言语很难</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1b05ses/words_are_hard/</link>
+      <description><![CDATA[      &amp;# 32；由   提交/u/realdevtest  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1b05ses/words_are_hard/</guid>
+      <pubDate>Mon, 26 Feb 2024 01:58:10 GMT</pubDate>
     </item>
     <item>
-      <title>悲伤的孩子会成为糟糕的老师</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1azxsn3/sad_children_make_for_bad_teachers/</link>
-      <description><![CDATA[       由   提交 /u/Dantelechunk   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1azxsn3/sad_children_make_for_bad_teachers/</guid>
-      <pubDate>Sun, 25 Feb 2024 20:20:37 GMT</pubDate>
+      <title>你的设置是什么？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1b05okz/what_are_your_settings/</link>
+      <description><![CDATA[       由   提交/u/SevenSebastian  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1b05okz/what_are_your_settings/</guid>
+      <pubDate>Mon, 26 Feb 2024 01:52:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
