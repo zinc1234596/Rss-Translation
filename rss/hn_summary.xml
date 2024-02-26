@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Mon, 26 Feb 2024 08:48:18 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Feb 2024 18:11:31 GMT</lastBuildDate>
     <item>
-      <title>“console.log(DOOM)”项目允许用户直接在控制台中玩经典游戏 DOOM [...]</title>
-      <link>https://t.me/hn_summary/76168</link>
-      <description><![CDATA[console.log(DOOM)
-“console.log(DOOM)”项目允许用户直接在网络浏览器的控制台日志中玩经典游戏《DOOM》。通过利用 WebAssembly 和 base64 编码，游戏在隐藏的画布元素中呈现，并使用 console.log() 显示。该项目基于之前的作品（例如 Checkboxland 和 DOOM），通过 WebAssembly 构建，提供了一种独特的游戏体验方式。关键事件被转发到画布以确保流畅的游戏体验，并在游戏处理时显示加载消息。该项目非标准，不推荐用于生产现场。可以通过编辑文件和刷新浏览器来完成开发。]]></description>
-      <guid>https://t.me/hn_summary/76168</guid>
-      <pubDate>Mon, 26 Feb 2024 08:48:18 GMT</pubDate>
+      <title>[媒体] 如果您想在 Vim 中通过 scp 编辑远程文件，这里有一些方便的提示 [...]</title>
+      <link>https://t.me/hn_summary/76253</link>
+      <description><![CDATA[在 Vim 中通过 scp 编辑远程文件
+如果您想在 Vim 中通过 scp 编辑远程文件，请记住一些方便的提示。 Vim 6.x 附带了 netrw 插件，允许您通过各种协议编辑文件。为了避免远程主机上的用户名问题，请在打开文件时使用正确的语法。您还可以安全地保存密码并定义 ftp 端口。对于 Windows 用户，PuTTY 集成可以简化该过程。此外，利用 SSH 机制和最新版本的 netrw.vim 可以解决任何遗留问题。总的来说，这些技巧为在 Vim 中编辑远程文件提供了有效的解决方案。]]></description>
+      <guid>https://t.me/hn_summary/76253</guid>
+      <pubDate>Mon, 26 Feb 2024 18:11:31 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]我最近对谷歌失去了信任。</title>
-      <link>https://t.me/hn_summary/76167</link>
-      <description><![CDATA[失去对 Google 的信任
-我最近对谷歌失去了信任。他们对搜索算法和隐私政策的不断变化让我感到不安。依靠他们获取准确信息并保护我的个人数据变得越来越困难。我正在考虑切换到另一个重视透明度和用户隐私的搜索引擎。是时候掌控我的在线体验并找到一个我可以信任的平台了。 #GoogleTrustControversy：围绕 Google 处理用户数据和搜索算法的争议导致许多人质疑该公司的可信度。]]></description>
-      <guid>https://t.me/hn_summary/76167</guid>
-      <pubDate>Mon, 26 Feb 2024 08:43:13 GMT</pubDate>
+      <title>[媒体]有争议的新闻提醒：微软被指控向白人员工支付的工资低于[...]</title>
+      <link>https://t.me/hn_summary/76252</link>
+      <description><![CDATA[同样工作，微软向白人员工支付的工资低于非白人员工
+有争议的新闻提醒：微软被指控在同一份工作中向白人员工支付的工资低于非白人员工。这一令人震惊的揭露引发了愤怒，并呼吁科技行业内实现透明度和平等。像微软这样的公司是时候解决这些差异并确保所有员工（无论种族）获得公平的薪酬。 #EqualPay #TechIndustry #MicrosoftControversy]]></description>
+      <guid>https://t.me/hn_summary/76252</guid>
+      <pubDate>Mon, 26 Feb 2024 18:08:26 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Bluesky 首席执行官 Jay Graber 强调审核服务的重要性，同时维护 [...]</title>
-      <link>https://t.me/hn_summary/76166</link>
-      <description><![CDATA[Bluesky 首席执行官 Jay Graber 表示她不会“[通过广告影响网络”](https://news.ycombinator.com/item?id=39507753)
-Bluesky 首席执行官 Jay Graber 强调了审核服务的重要性，同时保持开放的创新生态系统。她讨论了快速变化的信息环境中集体智慧的必要性，以及第三方标签系统帮助解决深度造假内容等问题的潜力。 Graber 强调了去中心化社交网络为用户带来的好处，允许更多的自由和选择。她还谈到了 Bluesky 的商业模式，重点是在货币化之前向用户和开发者证明价值。 Graber 的方法旨在回归平台协议，确保社交媒体领域的开放性和创新。]]></description>
-      <guid>https://t.me/hn_summary/76166</guid>
-      <pubDate>Mon, 26 Feb 2024 08:35:07 GMT</pubDate>
+      <title>[媒体]谷歌的图像生成工具因争议而被下架后将重新启动 [...]</title>
+      <link>https://t.me/hn_summary/76251</link>
+      <description><![CDATA[Google 图片生成器因图像不准确而重新推出
+谷歌的图像生成工具因历史描述不准确而被下架，之后将重新启动。该工具是谷歌名为 Gemini 的人工智能模型套件的一部分，因根据用户提示生成种族多样化且历史上不准确的图像而面临强烈反对。这场争议引发了人工智能行业内关于人工智能开发的道德规范和细致专业知识需求的争论。谷歌首席执行官桑达尔·皮查伊(Sundar Pichai)强调了公司对人工智能的承诺，计划提供可以在谷歌搜索中完成任务的人工智能代理。谷歌聊天机器人更名为 Gemini 也引发了讨论，一些人称该工具太“觉醒”，另一些人则批评谷歌对待人工智能道德的做法。尽管遇到了挫折，谷歌仍在大力投资开发人工智能助手，这些助手可以执行除总结和生成待办事项列表等简单功能之外的广泛任务。重新推出图像生成器是 Google 打造真正的 AI 助手努力的一部分。]]></description>
+      <guid>https://t.me/hn_summary/76251</guid>
+      <pubDate>Mon, 26 Feb 2024 18:05:22 GMT</pubDate>
     </item>
     <item>
-      <title>justinpombrio.net 上的内容介绍了 Wadler 的“Prettier Pr [...]”的更具表现力的变体</title>
-      <link>https://t.me/hn_summary/76165</link>
-      <description><![CDATA[Wadler 打印机的变化
-justinpombrio.net 上的内容介绍了 Wadler 的“更具表现力的变体” Prettier Printer”用于代码格式化工具，如 gofmt 和 prettier。这篇文章解释了漂亮打印的概念，即 Wadler 最初的 Prettier 算法，并介绍了打印机的一个改进，可以在布局选择上提供更大的灵活性。这种变化包括新的操作，例如用于在符号之间进行选择的“x | y”和用于强制单行布局的“flat(x)”。这种变体允许对格式选择进行更多控制，例如在列表中添加尾随逗号。这篇文章提供了 Rust 的详细解释和实现，提供了一种独特的代码格式化方法。 （根据 19% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/76165</guid>
-      <pubDate>Mon, 26 Feb 2024 08:18:58 GMT</pubDate>
+      <title>我一直是 GNU/Linux 的长期用户，但是当我切换到 Mac 时，我错过了软件包管理 [...]</title>
+      <link>https://t.me/hn_summary/76250</link>
+      <description><![CDATA[我在 macOS 上使用 Nix
+我一直是 GNU/Linux 的长期用户，但是当我切换到 Mac 时，我错过了包管理系统。使用 Homebrew 一段时间后，我发现了 Nix，一个跨平台的包管理器，它从根本上改变了我的工作流程。借助 Nix，我可以轻松搜索、安装、升级和删除软件包，同时保持系统干净高效。 Nix 包的不变性允许轻松回滚和实验，而不会使系统混乱。虽然 Nix 可能没有像 Homebrew Cask 这样简单的方法来安装 GUI 应用程序，但它的强大功能和效率使其成为 macOS 用户的游戏规则改变者。尝试一下，亲身体验它的好处！]]></description>
+      <guid>https://t.me/hn_summary/76250</guid>
+      <pubDate>Mon, 26 Feb 2024 18:04:15 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]现役美国军人</title>
-      <link>https://t.me/hn_summary/76164</link>
-      <description><![CDATA[美国空军 DevOps 工程师在加沙抗议战争中自焚
-现役美国空军成员亚伦·布什内尔在以色列驻华盛顿大使馆外自焚，以抗议正在进行的以色列-哈马斯战争，称其为“种族灭绝”。 Bushnell 是一名 DevOps 工程师，他在因伤去世前在 Twitch 上直播了这一过程。由于军事法规禁止此类政治活动，该事件引发了争议。针对以色列在加沙的行动和美国对以色列的支持的抗议活动已变得普遍，自焚是一种历史性的抗议形式。这一令人震惊的事件凸显了围绕中东冲突的持续紧张局势。]]></description>
-      <guid>https://t.me/hn_summary/76164</guid>
-      <pubDate>Mon, 26 Feb 2024 08:06:50 GMT</pubDate>
+      <title>[媒体] Niklaus Wirth 是计算机科学领域的杰出人物，曾任苏黎世联邦理工学院教授 [...]</title>
+      <link>https://t.me/hn_summary/76249</link>
+      <description><![CDATA[“我一直将自己视为一名工程师” – 第 1/3 部分
+Niklaus Wirth 是计算机科学界的杰出人物，曾在苏黎世联邦理工学院担任教授三十多年。他开发了多种编程语言，并在瑞士开创了个人计算机。他的贡献为他赢得了多项著名奖项，包括 ACM 图灵奖。 Friedemann Mattern，计算机科学系教授，专注于分布式系统和普适计算。他在教学中强调批判性思维和跨学科交流。马特恩发表了大量著作，并且是受人尊敬的科学院的成员。他们在苏黎世联邦理工学院的工作对计算机科学领域产生了持久的影响。]]></description>
+      <guid>https://t.me/hn_summary/76249</guid>
+      <pubDate>Mon, 26 Feb 2024 18:03:09 GMT</pubDate>
     </item>
     <item>
-      <title>摘要：本文讨论了如何精简 Windows 3.1/3.11 以在最少的内存上运行，甚至 [...]</title>
-      <link>https://t.me/hn_summary/76163</link>
-      <description><![CDATA[精简 Windows 3.1/3.11 (2002)&lt; br/&gt;
-摘要：本文讨论了如何精简 Windows 3.1/3.11，使其在最少的内存上运行，甚至可以在软盘上运行。通过删除不必要的文件并利用 RAM 磁盘，作者能够在内存有限的旧计算机上运行 Windows。本文还提供了从头开始设置 Windows 的详细说明，包括控制面板和网络等不同功能所需的文件。作者强调使用 ZIP 文件来存储不必要的文件并最大限度地减少所需的空间。本文还探讨了使用压缩技术从单个软盘运行 Windows。 （根据 74% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/76163</guid>
-      <pubDate>Mon, 26 Feb 2024 07:57:41 GMT</pubDate>
+      <title>Apple 即将推出的 iOS 17.4 更新将影响渐进式 Web 应用程序 (PWA) 的可用性 [...]</title>
+      <link>https://t.me/hn_summary/76248</link>
+      <description><![CDATA[iOS 17.4也是对加密货币的攻击
+Apple 即将推出的 iOS 17.4 更新将影响渐进式 Web 应用程序 (PWA) 的可用性，影响 Kiwi News 等应用程序。此次更新将阻止 PWA 在 iOS 上作为独立应用程序打开，从而要求用户重新委派投票权并删除存储的私钥。苹果降级 PWA 功能的决定归因于欧盟关于浏览器中立性的规定，引起了开发者的争议和沮丧。此举被视为对加密创新和开放网络的攻击，限制了未经许可的创新，并使苹果对应用程序功能有更多的控制权。作者对苹果的行为表示失望，并呼吁重新考虑他们的做法。]]></description>
+      <guid>https://t.me/hn_summary/76248</guid>
+      <pubDate>Mon, 26 Feb 2024 18:00:03 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]以价格实惠的汽车而闻名的比亚迪，推出了一款高端电动汽车，令许多人感到惊讶 [...]</title>
-      <link>https://t.me/hn_summary/76162</link>
-      <description><![CDATA[比亚迪在同一周推出价值 23 万美元的超级跑车和 1.4 万美元的掀背车
-以其价格实惠的汽车而闻名的比亚迪推出了一款高端电动跑车阳王U9，令许多人感到惊讶，其售价为233,450美元，可与法拉利和兰博基尼竞争。该车可在 2.36 秒内达到 100 公里/小时，并具有舞蹈模式等独特功能。另一方面，比亚迪还推出了其广受欢迎的海豚掀背车的售价 13,865 美元的版本。尽管面临价格战和中国电动汽车增长放缓等挑战，比亚迪仍在国际扩张，埃隆·马斯克承认其竞争力。伯克希尔哈撒韦对比亚迪的投资激增，得益于创始人王传福的工程和生产人才。]]></description>
-      <guid>https://t.me/hn_summary/76162</guid>
-      <pubDate>Mon, 26 Feb 2024 07:56:37 GMT</pubDate>
+      <title>[媒体]埃隆·马斯克宣布开发新的电子邮件服务引发争议 [...]</title>
+      <link>https://t.me/hn_summary/76247</link>
+      <description><![CDATA[Elon Musk 将推出新的 Xmail 服务挑战 Gmail 
+就在 Gmail 将于 8 月 1 日关闭的传言被揭穿之际，埃隆·马斯克 (Elon Musk) 宣布开发一款名为 Xmail 的新电子邮件服务，引发了争议。马斯克对 Xmail 发布日期问题的神秘回答引发了许多猜测。然而，围绕此公告的安全风险令人担忧，因为网络犯罪分子可能会利用混乱来传播网络钓鱼消息。此外，马斯克可能面临挑战，因为一些现有的电子邮件服务已经使用 Xmail 这个名称。尽管大肆宣传，但马斯克的 Xmail 服务是否可能对 Gmail 的 20 亿用户产生重大影响仍不确定。]]></description>
+      <guid>https://t.me/hn_summary/76247</guid>
+      <pubDate>Mon, 26 Feb 2024 17:47:55 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]什么是深度学习？</title>
-      <link>https://t.me/hn_summary/76161</link>
-      <description><![CDATA[什么是深度学习？初学者教程
-深度学习是一项革命性技术，它使用神经网络自动执行任务并从数据中学习，就像人脑一样。本教程解释了深度学习的核心概念，例如神经网络、深度神经网络和激活函数。它还探讨了特征工程的重要性以及深度学习与传统机器学习的不同之处。本教程重点介绍深度学习在计算机视觉、语音识别、生成人工智能、翻译、时间序列预测、自动化、客户反馈和生物医学领域的应用。此外，它还讨论了不同类型的深度学习模型，包括监督学习、无监督学习、强化学习和生成对抗网络。 （根据故事文本的 54% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/76161</guid>
-      <pubDate>Mon, 26 Feb 2024 07:09:20 GMT</pubDate>
+      <title>[媒体] 隆重介绍 Darwin，您的新 Github 代理，它使用 AI 来自动化您的项目管理 [...]</title>
+      <link>https://t.me/hn_summary/76246</link>
+      <description><![CDATA[展示 HN：Darwin – 使用 AI 自动化您的 GitHub 项目
+隆重推出 Darwin，您的新 Github 代理，它使用 AI 来自动化您的项目管理任务。该工具由 Darwin 和 Marco Lamina 共同开发，旨在简化您的工作流程并使项目管理比以往更轻松。借助 Darwin，您可以自动执行重复性任务、分析数据并做出明智的决策，以优化项目的成功。告别手动流程，迎接更高效的 Darwin 工作方式。访问 darwin-ai.dev 立即开始。&lt; br/&gt;]]></description>
+      <guid>https://t.me/hn_summary/76246</guid>
+      <pubDate>Mon, 26 Feb 2024 17:46:50 GMT</pubDate>
     </item>
     <item>
-      <title>这篇文章讨论了 Apple 试图限制 iOS 上的网络应用程序和浏览器竞争，其中 [...]</title>
-      <link>https://t.me/hn_summary/76160</link>
-      <description><![CDATA[主屏幕优势
-这篇文章讨论了苹果公司试图限制 iOS 上的网络应用程序和浏览器竞争，特别是为了响应欧盟的数字市场法案。苹果的策略包括禁用 PWA 的重要功能，从而给用户和企业造成混乱和数据丢失。作者强调了苹果公司的欺骗策略，并试图将责任归咎于监管机构。文章强调了浏览器竞争的重要性以及对移动网络开发的潜在影响。总的来说，作者敦促读者了解苹果的行为及其对移动网络未来的影响。 （根据 52% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/76160</guid>
-      <pubDate>Mon, 26 Feb 2024 07:08:16 GMT</pubDate>
+      <title>你是如何找到人生目标的？</title>
+      <link>https://t.me/hn_summary/76245</link>
+      <description><![CDATA[您是如何找到人生目标的？&lt; br/&gt;
+作者分享了他们在多年的日常饮酒后戒酒并专注于锻炼以提高头脑清晰度的历程。尽管有这些积极的变化，他们仍在努力寻找生活的目标。他们质疑自己的工作、爱好和人际关系是否足以带来满足感。作者向分析性受众寻求建议，表达了对通用自助建议的沮丧，并寻求发现真正目的和意义的路线图。他们在追求成就感的过程中表现出的脆弱和诚实使得这篇文章具有相关性且发人深省。]]></description>
+      <guid>https://t.me/hn_summary/76245</guid>
+      <pubDate>Mon, 26 Feb 2024 17:45:45 GMT</pubDate>
     </item>
     <item>
-      <title>news.ycombinator.com 上帖子的作者正在他们的电子学习网站上寻求建议 [...]</title>
-      <link>https://t.me/hn_summary/76159</link>
-      <description><![CDATA[询问 HN：有关点击率、转化和验证的问题
-news.ycombinator.com 上帖子的作者是在他们的阿拉伯语电子学习网站 Nahda.io。在以每天 5 美元的预算运行定向广告后，他们观察到 35,000 次展示、1,29,000 次点击和 6 ​​次注册，转化率为 0.47%，点击率为 3.6%。他们质疑这些数字是否表明了一个有缺陷的想法或一个不需要的产品。作者正在寻求产品验证方面经验丰富的人士的见解。争议在于网站能否成功的不确定性，而主动寻求建议的做法值得赞扬。]]></description>
-      <guid>https://t.me/hn_summary/76159</guid>
-      <pubDate>Mon, 26 Feb 2024 06:55:08 GMT</pubDate>
+      <title>[媒体] 在 IETF 加密货币研究论坛小组正在进行的有关 KEM 组合器的辩论中，D [...]</title>
+      <link>https://t.me/hn_summary/76244</link>
+      <description><![CDATA[KEM 路径 – 了解关键封装机制
+在 IETF 加密货币研究论坛小组正在进行的关于 KEM 组合器的辩论中，Deirdre Connolly 的博客文章“如何持有 KEM”提供了关于如何处理这些复杂机制的令人耳目一新的诚实看法。这篇文章介绍了密钥封装机制 (KEM) 作为非对称加密之上的结构，为开发人员提供了简化的解释。该文章强调了了解 KEM 的重要性，深入探讨了 RSA 加密、不安全填充方案和创新的 X-Wing 混合 KEM 的挑战。争议在于关于 KEM 组合器的争论以及不同方法的安全影响，引发了 CFRG 内部的讨论。]]></description>
+      <guid>https://t.me/hn_summary/76244</guid>
+      <pubDate>Mon, 26 Feb 2024 17:37:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
