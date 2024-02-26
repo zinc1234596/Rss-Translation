@@ -4,7 +4,28 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Mon, 26 Feb 2024 03:13:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Feb 2024 06:15:16 GMT</lastBuildDate>
+    <item>
+      <title>使用 Go 和 Chi 构建 URL 缩短器，如 TINYURL</title>
+      <link>https://www.reddit.com/r/programming/comments/1b0a0rr/build_a_url_shortener_with_go_and_chi_like_tinyurl/</link>
+      <description><![CDATA[ 由   提交/u/schadokar  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b0a0rr/build_a_url_shortener_with_go_and_chi_like_tinyurl/</guid>
+      <pubDate>Mon, 26 Feb 2024 05:40:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>RSI 的键盘和桌椅？</title>
+      <link>https://www.reddit.com/r/programming/comments/1b09ft9/keyboards_and_desk_chairs_for_rsi/</link>
+      <description><![CDATA[我正在寻求帮助患有 RSI 的丈夫。他没有好的键盘或办公椅，这些都严重阻碍了他的编程能力。 他目前从事网络安全工作，但一直在该领域进行一些编程，但他现在有机会完全切换到编程。他热爱编程，但这确实影响了他的 RSI。他最常用的两个键是退格键和输入键，所以右手小指和手腕的小动作是最麻烦的。他还需要为他的办公椅提供一些扶手支撑，但考虑到可用的选项太多，我们都不知道从哪里开始。 有什么建议吗？   由   提交/u/Bekycheppy   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b09ft9/keyboards_and_desk_chairs_for_rsi/</guid>
+      <pubDate>Mon, 26 Feb 2024 05:07:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI会取代程序员吗？</title>
+      <link>https://www.reddit.com/r/programming/comments/1b08n80/is_ai_going_to_replace_programmers/</link>
+      <description><![CDATA[您认为人工智能会在 20-30 年内取代程序员或其中很大一部分吗？我正在研究系统，但我担心它们会取代我:(     提交者    /u/Canelitadelaurss   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b08n80/is_ai_going_to_replace_programmers/</guid>
+      <pubDate>Mon, 26 Feb 2024 04:23:12 GMT</pubDate>
+    </item>
     <item>
       <title>包子壳</title>
       <link>https://www.reddit.com/r/programming/comments/1b075x9/the_bun_shell/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[ 由   提交/u/micketic  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1azxwh4/speed_vs_marketing_dilemma_for_the_web/</guid>
       <pubDate>Sun, 25 Feb 2024 20:24:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>Redis 的力量：深入探讨缓存系统</title>
-      <link>https://www.reddit.com/r/programming/comments/1azxmsc/power_of_redis_a_deep_dive_into_caching_systems/</link>
-      <description><![CDATA[ 由   提交/u/elon_musk1017   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1azxmsc/power_of_redis_a_deep_dive_into_caching_systems/</guid>
-      <pubDate>Sun, 25 Feb 2024 20:14:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>NetBeans 能为我们带来一个像样的 VS Code Java 扩展吗？</title>
-      <link>https://www.reddit.com/r/programming/comments/1azxj1u/can_netbeans_bring_us_a_decent_java_extension_for/</link>
-      <description><![CDATA[ 由   提交 /u/wineandcode   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1azxj1u/can_netbeans_bring_us_a_decent_java_extension_for/</guid>
-      <pubDate>Sun, 25 Feb 2024 20:10:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>调度内部结构</title>
-      <link>https://www.reddit.com/r/programming/comments/1azx5ah/scheduling_internals/</link>
-      <description><![CDATA[ 由   提交 /u/TonTinTon   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1azx5ah/scheduling_internals/</guid>
-      <pubDate>Sun, 25 Feb 2024 19:54:45 GMT</pubDate>
     </item>
     </channel>
 </rss>

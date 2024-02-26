@@ -4,11 +4,32 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 26 Feb 2024 03:13:25 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Feb 2024 06:15:38 GMT</lastBuildDate>
+    <item>
+      <title>你觉得这些带回家的东西怎么样？他们太多了吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b09u6j/what_do_you_think_of_these_takehomes_are_they_too/</link>
+      <description><![CDATA[我一直在申请一些工作，并且收到了两次测试（不同的公司）。我感觉他们要求太多了。当然，你有一周的时间来完成它们，但考虑到候选人还有其他职责等等，这似乎有点过分。 后端实际作业 前端实际作业 特别是对于前端来说，他们希望你盲目地深入研究他们的文档并找出你能找到什么。您必须花费几个小时来掌握 API 并将其集成到您的应用程序中。他们连提示都没有，哈哈。是的，他们的文档长达 50 多页。当然，并不是所有内容都与作业相关。 我完全赞成带回家的作业而不是 leetcode/algo 问题，但我更喜欢它们更合理一些。我收到的另一份大约需要 30 分钟到一个小时，我们在后续会议中详细讨论了它 - 我将如何实现 X 或 Y，为什么我以某种方式处理问题等等，这很棒. 当然，这些作业都是无偿的。现在这已成为常态吗？   由   提交 /u/name-taken1   /u/name-taken1  reddit.com/r/webdev/comments/1b09u6j/what_do_you_think_of_these_takehomes_are_they_too/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b09u6j/what_do_you_think_of_these_takehomes_are_they_too/</guid>
+      <pubDate>Mon, 26 Feb 2024 05:30:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何使可能失败的技术面试取得成功？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b08tsl/how_can_i_make_a_probable_failed_tech_interview_a/</link>
+      <description><![CDATA[基本上我很确定我会失败，我感觉很没有准备。如何才能快速反弹？   由   提交/u/IdeaExpective3073  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b08tsl/how_can_i_make_a_probable_failed_tech_interview_a/</guid>
+      <pubDate>Mon, 26 Feb 2024 04:33:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>经济实惠的短信验证 API</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b07s3t/affordable_sms_verification_apis/</link>
+      <description><![CDATA[有哪些可靠且价格实惠的短信验证公司？我看过一些 Twilio，但有点太贵了。是否有任何替代方案可以在许多国家可靠地工作并且更便宜？   由   提交 /u/TheeConmann   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b07s3t/affordable_sms_verification_apis/</guid>
+      <pubDate>Mon, 26 Feb 2024 03:37:12 GMT</pubDate>
+    </item>
     <item>
       <title>最大的内容绘制元素</title>
       <link>https://www.reddit.com/r/webdev/comments/1b05swr/largest_contentful_paint_element/</link>
-      <description><![CDATA[我们正在创建一个用于商家合作伙伴结账页面的 Shopify 插件，但根据他们的测试，该插件会减慢页面速度 在 pageSpeed Insight 上运行测试时 - 它只是指向我们插件上的文本“清理塑料污染” 有人可以帮助我在这里提出一些优化建议吗？    &lt;查看&gt; &lt;文字大小=“中”&gt;{`添加`} &lt;文本外观=“成功”强调=“粗体”尺寸=“中”&gt; {`${donationCurrency}${donationAmount.toFixed(2)}`} ; &lt;文字大小=“中”&gt;{`清理塑料污染\n`} &lt;/查看&gt; &lt;了解更多&gt;&gt; &lt;/块布局&gt;    由   提交 /u/Come-Hither-Son   [链接] [评论]]]></description>
+      <description><![CDATA[我们正在创建一个用于商家合作伙伴结帐页面的 Shopify 插件，但根据他们的测试，该插件会减慢页面速度 在 pageSpeed Insight 上运行测试时 - 它只是指向我们插件上的文本“清理塑料污染” 有人可以帮助我在这里提出一些优化建议吗？    &lt;查看&gt; &lt;文字大小=“中”&gt;{`添加`} &lt;文本外观=“成功”强调=“粗体”尺寸=“中”&gt; {`${donationCurrency}${donationAmount.toFixed(2)}`} ; &lt;文字大小=“中”&gt;{`清理塑料污染\n`} &lt;/查看&gt; &lt;了解更多&gt;&gt; &lt;/块布局&gt;    由   提交 /u/Come-Hither-Son   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1b05swr/largest_contentful_paint_element/</guid>
       <pubDate>Mon, 26 Feb 2024 01:58:51 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[您好，只是对从事 Web 开发和工作的人员感到好奇。您也是游戏玩家，您每天在电脑/游戏机上盯着屏幕有多少小时？我是一名业余网络开发人员，做过自由职业，但主要使用 &amp;想要创业和创业的技能我想经营在线业务，而且我喜欢学习它。我从来都不是一个大玩家。 15 年前，18 岁时就完全停止了。我知道有很多专业网络开发人员也经常玩游戏，我很好奇你在屏幕上花费的时间，如果你曾经做过屏幕排毒，我知道游戏可以是社交的，但你仍然坐着花费大量时间进行和学习 Web 开发，身体或精神都不健康。   由   提交/u/redsnflr-  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1azvvlh/people_in_webdev_gaming/</guid>
       <pubDate>Sun, 25 Feb 2024 19:04:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>这里的菜鸟，我需要去掉这个边框，但我似乎找不到它写在哪里。我正在使用 React 和 Tailwind。我如何追踪其根本原因？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1azvk4w/noob_here_i_need_to_get_rid_of_this_border_but_i/</link>
-      <description><![CDATA[   /u/iiexistenzeii  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1azvk4w/noob_here_i_need_to_get_rid_of_this_border_but_i/</guid>
-      <pubDate>Sun, 25 Feb 2024 18:51:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>我有一个域名，我应该使用什么来部署和托管我的个人投资组合网站？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1azv9z2/i_have_a_domain_what_should_i_use_to_deploy_and/</link>
-      <description><![CDATA[大家好！  我获得了一个域名，目前正在开发我的个人作品集网站。我应该使用什么免费托管服务来部署我的网站？  我听说过 Vercel、GitHub Pages、Render.com 等，但我不知道该选择哪个。&lt; /p&gt;   由   提交/u/NightShadowGR   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1azv9z2/i_have_a_domain_what_should_i_use_to_deploy_and/</guid>
-      <pubDate>Sun, 25 Feb 2024 18:40:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>此流量合法吗</title>
-      <link>https://www.reddit.com/r/webdev/comments/1azv0fs/is_this_traffic_legit/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1azv0fs/is_this_traffic_legit/</guid>
-      <pubDate>Sun, 25 Feb 2024 18:30:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
