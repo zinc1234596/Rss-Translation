@@ -4,88 +4,88 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Tue, 27 Feb 2024 08:30:15 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Feb 2024 18:12:25 GMT</lastBuildDate>
     <item>
-      <title>[媒体]Covid-19 大流行揭示了一个令人担忧的趋势——严重感染人数的增加 [...]</title>
-      <link>https://t.me/hn_summary/76371</link>
-      <description><![CDATA[新冠疫情让心脏病变得更加致命，令科学家们困惑不已
-Covid-19 大流行揭示了一个令人担忧的趋势——心脏病严重程度的增加。科学家们对这一意外的发展感到困惑，因为 Covid-19 主要影响呼吸系统。这两种疾病之间的联系仍在研究中，但很明显，Covid-19 使心脏病变得更加致命。这一消息引发了争议，并引发了人们对这一流行病对公共卫生的长期影响的质疑。请继续关注研究人员致力于解开这种复杂关系并寻找减轻对心脏健康影响的方法。]]></description>
-      <guid>https://t.me/hn_summary/76371</guid>
-      <pubDate>Tue, 27 Feb 2024 08:30:15 GMT</pubDate>
+      <title>[媒体]“Nuke”项目是 Go 的内存竞技场实现，允许用户高效 [...]</title>
+      <link>https://t.me/hn_summary/76464</link>
+      <description><![CDATA[显示 HN：Nuke – Go 的内存竞技场实现
+“Nuke”项目是 Go 的内存竞技场实现，允许用户有效地管理内存分配和释放。它提供了一种在指定内存区域内分配对象和切片的方法，并且能够在需要时重置区域。一项独特的功能是能够将内存区域注入到上下文中，以便在整个操作生命周期（例如 HTTP 请求）中使用。该项目欢迎社区的贡献，并根据 Apache-2.0 许可证获得许可。如需了解更多信息或做出贡献，请访问 GitHub 存储库或通过 ortuman@gmail.com 联系作者。]]></description>
+      <guid>https://t.me/hn_summary/76464</guid>
+      <pubDate>Tue, 27 Feb 2024 18:12:25 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 探索 Chat Mistral，一个基于模型的多语言对话助手 [...]</title>
-      <link>https://t.me/hn_summary/76370</link>
-      <description><![CDATA[米斯特拉尔聊天
-探索 Mistral Chat，这是一款基于 Mistral AI 模型的多语言对话助手。它被设计为一款教育性且有趣的应用程序，允许您与我们的不同模型进行交互，例如 Mistral Large、Mistral Small 和 Mistral Next。我们的目标是使我们的模型尽可能有用和中立，尽管仍然需要改进。企业聊天还可以通过可配置的审核系统来提高团队的生产力。联系我们了解更多信息并立即注册成为测试版用户，以帮助我们改进我们的对话助手！]]></description>
-      <guid>https://t.me/hn_summary/76370</guid>
-      <pubDate>Tue, 27 Feb 2024 08:28:40 GMT</pubDate>
+      <title>[媒体]Meta，以前称为 Facebook，很快将开始收集我们的“匿名”数据 [...]</title>
+      <link>https://t.me/hn_summary/76463</link>
+      <description><![CDATA[Meta 将开始收集有关 Quest 耳机使用情况的“匿名”数据
+Meta（原名 Facebook）很快将开始收集 Quest 耳机用户的“匿名”数据，包括有关手部、身体和眼睛跟踪、相机细节、物理环境以及参加的虚拟现实活动的信息。这些数据将用于增强用户体验并改进产品。虽然 Meta 向用户保证收集的数据是匿名的，但人们仍然担心去匿名化的可能性。这一举措并不新鲜，因为自 Oculus 推出以来，VR 数据收集一直是讨论的话题。围绕数据收集和隐私的争议一直在持续，过去的问题包括要求 Oculus 用户将其帐户链接到 Facebook。]]></description>
+      <guid>https://t.me/hn_summary/76463</guid>
+      <pubDate>Tue, 27 Feb 2024 18:09:50 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]谷歌马云事件后，两名德国游客被困澳大利亚昆士兰州荒野 [...]</title>
-      <link>https://t.me/hn_summary/76369</link>
-      <description><![CDATA[游客因 Google 地图路线错误而被困澳大利亚荒野 
-两名德国游客被困在澳大利亚昆士兰州的荒野中，据称谷歌地图引导他们沿着一个封闭的国家公园的一条偏僻道路行驶。他们在车外露营了近一周，然后徒步 22 小时穿越危险地形到达安全地带。这一事件凸显了偏远地区过度依赖 GPS 应用程序的危险。世界各地也发生过类似的情况，包括因 GPS 方向错误而导致的死亡和重伤。随着越来越多的驾驶员依赖导航应用程序，对高精度路线的需求变得越来越重要，以防止潜在的危及生命的情况。]]></description>
-      <guid>https://t.me/hn_summary/76369</guid>
-      <pubDate>Tue, 27 Feb 2024 08:20:32 GMT</pubDate>
+      <title>问 HN：思维迟钝的人，你如何弥补自己思维敏捷的不足？</title>
+      <link>https://t.me/hn_summary/76462</link>
+      <description><![CDATA[问 HN：思维迟钝的人，你如何弥补自己的不足机智敏捷？
+标题：问HN：思维迟钝的人，你如何弥补自己机智的不足？
+
+您是一个思维迟钝的人，正在寻找策略来克服思维敏捷的问题吗？ HN 成员分享他们的经验和技巧，例如专注于分析和构建详尽的论点。有些人发现排练，就像武术一样，有助于提高他们的快速决策能力。虽然思维迟钝的人可能有未开发的潜力，但找到挖掘潜力的方法可以在现实生活中发挥作用。分享您自己的经验并向他人学习如何弥补您思维过程较慢的问题。]]></description>
+      <guid>https://t.me/hn_summary/76462</guid>
+      <pubDate>Tue, 27 Feb 2024 18:07:14 GMT</pubDate>
     </item>
     <item>
-      <title>我们对 Apple 决定从 iOS 和 Safari 中删除 Web 应用程序深感担忧 [...]</title>
-      <link>https://t.me/hn_summary/76368</link>
-      <description><![CDATA[给蒂姆·库克的公开信，破坏网络应用是站不住脚的
-亲爱的蒂姆·库克，
-我们对 Apple 决定从欧盟的 iOS 和 Safari 中删除 Web 应用程序深感担忧，因为这威胁到了 iOS 用户的网络可靠性和功能性。这些变化将损害用户、开发者和企业，并违背《数字市场法》的原则。苹果公司对这些行为的辩解是毫无根据的，我们敦促您重新考虑并恢复基本功能，以造福所有利益相关者。遵守法律义务和公平竞争是唯一的出路。 
-此致， 以下签名者]]></description>
-      <guid>https://t.me/hn_summary/76368</guid>
-      <pubDate>Tue, 27 Feb 2024 07:49:49 GMT</pubDate>
+      <title>[媒体] 社交媒体对民主的影响是全球关注的话题，皮尤研究中心 [...]</title>
+      <link>https://t.me/hn_summary/76461</link>
+      <description><![CDATA[大多数受访国家的大多数人表示社交媒体有利于民主
+社交媒体对民主的影响是全球关注的话题，皮尤研究中心的分析显示，大多数接受调查的国家中的大多数人对此持积极态度。然而，在法国和美国等国家，却出现了争议，意见分歧。法国总统马克龙甚至呼吁对社交媒体进行监管。令人惊讶的是，美国人最不可能认为社交媒体有利于民主。该研究还强调了基于年龄、教育程度、收入和社交媒体使用情况的观点差异。总体而言，社交媒体在民主中的作用仍然是世界范围内一个复杂且不断变化的问题。]]></description>
+      <guid>https://t.me/hn_summary/76461</guid>
+      <pubDate>Tue, 27 Feb 2024 18:05:09 GMT</pubDate>
     </item>
     <item>
-      <title>文章强调了在开发游戏引擎的同时制作游戏的重要性。</title>
-      <link>https://t.me/hn_summary/76367</link>
-      <description><![CDATA[论游戏引擎开发过程中制作游戏的重要性
-文章强调了在开发游戏引擎的同时制作游戏的重要性。它强调了游戏开发与游戏引擎开发所需技能的差异，以及将艺术方面融入技术流程的好处。作者强调通过创建可玩游戏来测试游戏引擎的必要性，即使目的不是分发它们。本文还提供了改进引擎内游戏制作过程的实用技巧，例如简化场景创建和脚本编写。作者建议从小游戏开始或参加游戏即兴活动，以便在开发过程的早期发现并解决问题。]]></description>
-      <guid>https://t.me/hn_summary/76367</guid>
-      <pubDate>Tue, 27 Feb 2024 07:38:42 GMT</pubDate>
+      <title>[媒体]纽约市阿尔伯特·爱因斯坦医学院做出了开创性的宣布[...]</title>
+      <link>https://t.me/hn_summary/76460</link>
+      <description><![CDATA[阿尔伯特·爱因斯坦医学院凭借 10 亿美元免学费礼物
+纽约市阿尔伯特·爱因斯坦医学院宣布，在华尔街投资者遗孀露丝·戈特斯曼 (Ruth Gottesman) 的慷慨捐赠下，该学院现在将向所有学生免收学费。此举旨在吸引多样化的申请者，这些申请者可能无法以其他方式参加，并使学生能够在没有债务负担的情况下毕业。这一激动人心的宣布让观众中的一些人流泪，另一些人欢呼，展示了这一历史性礼物的影响力。此次捐赠被认为是该国医学院有史以来最大的一笔捐赠，标志着医疗保健教育的一个重要里程碑。]]></description>
+      <guid>https://t.me/hn_summary/76460</guid>
+      <pubDate>Tue, 27 Feb 2024 18:03:04 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 隆重推出 FindSD.art，这是一款革命性工具，旨在帮助您搜索 CivitAI [...]</title>
-      <link>https://t.me/hn_summary/76366</link>
-      <description><![CDATA[Show HN：我构建了一个工具来帮助您搜索 CivitAI 的模型按艺术风格
-隆重推出 FindSD.art，这是一款革命性的工具，旨在帮助您搜索CivitAI 的艺术风格模型。我们的用户对该工具对他们的创意体验产生的积极影响赞不绝口。通过 FindSD.art，您可以轻松找到最适合的模型您想要的艺术风格，让创作过程更顺畅、更高效。告别无休止的搜索，迎接更加简化的工作流程。立即访问 www.findsd.art 亲自查看这个工具可以为您的创意项目带来改变。]]></description>
-      <guid>https://t.me/hn_summary/76366</guid>
-      <pubDate>Tue, 27 Feb 2024 07:32:06 GMT</pubDate>
+      <title>在 Interviewing.io，我们提供薪资谈判服务，提供内部人士的观点 [...]</title>
+      <link>https://t.me/hn_summary/76459</link>
+      <description><![CDATA[与Meta谈判的不成文规则
+在 interviewing.io，我们提供薪资协商服务，提供内部人士的薪资谈判服务对工程市场趋势和公司报价的看法。最近，我们注意到 Meta 的谈判行为存在问题，我们认为这是出于故意的策略。这篇文章旨在阐明 Meta 的谈判策略，以帮助候选人成功完成整个过程。 Meta 的集中招聘流程通常会导致在紧迫的期限内降低职位级别和低价聘用。为了与 Meta 进行有效的谈判，拥有其他有竞争力的报价、缓慢的团队匹配以及与招聘经理建立融洽的关系至关重要。了解这些不成文的规则可以对您的谈判结果产生重大影响。 （根据 64% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/76459</guid>
+      <pubDate>Tue, 27 Feb 2024 18:01:59 GMT</pubDate>
     </item>
     <item>
-      <title>作者反思了流行的 Python 库 python-requests，强调了其直观的 [...]</title>
-      <link>https://t.me/hn_summary/76365</link>
-      <description><![CDATA[请求回顾
-作者对流行的 Python 库 python-requests 进行了反思，强调了其直观的界面和对于基本 HTTP 请求的易用性。然而，作者指出 API 表面区域的复杂性，其中许多参数可能会导致混乱和意外行为。作者提出了改进建议，例如将参数合并到单个数据类中并提供用于请求操作的构建器对象。尽管存在缺陷，python-requests 仍因其 TLS 功能而受到称赞，这使其与其他 HTTP 客户端区分开来。作者的回顾为新的和经验丰富的 Python 开发人员提供了宝贵的见解。 （根据 29% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/76365</guid>
-      <pubDate>Tue, 27 Feb 2024 07:22:00 GMT</pubDate>
+      <title>[媒体]Playground v2.5 技术报告展示了增强美学的三个关键见解 [...]</title>
+      <link>https://t.me/hn_summary/76458</link>
+      <description><![CDATA[Playground v2.5 技术报告，SoTA 开源图像生成模型 [pdf](https://news.ycombinator.com/item?id=39526960)
+Playground v2.5 技术报告展示了增强文本到图像生成模型美学质量的三个关键见解。该模型专注于改善颜色和对比度、跨多个长宽比的生成以及以人为中心的精细细节。通过在训练中使用噪声计划和原则性的模型设计方法，Playground v2.5 在美学质量方面超越了广泛使用的开源和闭源模型。该模型能够生成鲜艳的色彩，遵循与风格相关的提示，并生成具有正确长宽比的图像，这使其在该领域脱颖而出。 Playground v2.5 旨在提升文本到图像生成模型的性能，并且开源供研究团队使用。 （根据故事文本的 35% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/76458</guid>
+      <pubDate>Tue, 27 Feb 2024 17:59:23 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Bemlo 的使命是通过改变轮班方式来彻底改变医疗保健 [...]</title>
-      <link>https://t.me/hn_summary/76364</link>
-      <description><![CDATA[Bemlo (YC W22) 正在招聘 React 开发人员来改变医疗保健的转变方式已满
-Bemlo 的使命是通过改变护士和护理人员的轮班方式来彻底改变医疗保健行业。他们正在寻找 React 开发人员加入他们的团队，共同构建世界一流的软件，为医疗保健专业人员提供灵活的工作安排。该平台服务于从小型慈善机构到大型机构的各种医疗保健提供者。理想的候选人是充满信心、具有强烈前端偏好的全栈工程师，他们热衷于提供强大的功能和卓越的用户体验。 Bemlo 的团队多元化，提供每两年一次的调动和频繁异地调动的机会。与 Bemlo 一起将欧洲价值观与美国雄心相结合，为医疗保健领域带来改变。]]></description>
-      <guid>https://t.me/hn_summary/76364</guid>
-      <pubDate>Tue, 27 Feb 2024 07:02:19 GMT</pubDate>
+      <title>您是否厌倦了不断与机器人检测机制作斗争？</title>
+      <link>https://t.me/hn_summary/76457</link>
+      <description><![CDATA[来自 Browserless 的 /unblock API：作为服务躲避机器人检测&lt; /a&gt;
+您是否厌倦了不断与机器人检测机制作斗争？ Browserless.io 引入了 /unblock API，这是一种革命性的人性化解决方案您的流量和绕过检测。通过修改 CDP 层的行为，该 API 创建了一个典型的 1920x1080 像素大小的浏览器，欺骗检测器，使其认为这是真实的流量。无需隐形库或复杂的设置 - 只需提供一个 URL，然后让 API 完成剩下的工作。通过持续更新和修复保持领先于检测机制。通过 7 天无浏览器试用版来尝试 /unblock API，体验前所未有的无缝浏览。]]></description>
+      <guid>https://t.me/hn_summary/76457</guid>
+      <pubDate>Tue, 27 Feb 2024 17:55:16 GMT</pubDate>
     </item>
     <item>
-      <title>公元前</title>
-      <link>https://t.me/hn_summary/76363</link>
-      <description><![CDATA[BC律师引用ChatGPT捏造的假案例被斥责
-事情发生了令人惊讶的转变，BC.律师因在一桩涉及百万富翁的备受瞩目的离婚案中引用 ChatGPT 发明的虚假案例而受到谴责。这些案件原本是为了支持这位父亲带孩子去中国的请求，结果却根本不存在。虽然法官承认律师无意欺骗法庭，但他强调专业知识比生成人工智能工具更重要。这一事件凸显了在法庭诉讼中使用人工智能生成材料的道德影响，并对法律专业人士起到了警示作用。]]></description>
-      <guid>https://t.me/hn_summary/76363</guid>
-      <pubDate>Tue, 27 Feb 2024 06:54:11 GMT</pubDate>
+      <title>Forgejo 项目采取了大胆举措，宣布与 Gitea 完全决裂，选择“硬 [...]</title>
+      <link>https://t.me/hn_summary/76456</link>
+      <description><![CDATA[Forgejo 全面脱离 Gitea
+Forgejo 项目大胆宣布与 Gitea 彻底决裂，选择“硬分叉”来维持社区控制的开发，并将软件开发从专有工具中解放出来。这一决定是在围绕 Gitea 将域名和商标转让给营利性企业引发争议之后做出的，这导致了 Forgejo 作为“软分叉”的创建以保持社区团结。凭借详细的治理文件和对独立性的承诺，Forgejo 旨在提供 Gitea 的可行替代方案。这些项目的未来将决定开源软件开发平台的方向。]]></description>
+      <guid>https://t.me/hn_summary/76456</guid>
+      <pubDate>Tue, 27 Feb 2024 17:51:11 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]我最近收到一封来自 Netlify 的令人震惊的电子邮件，声称我欠他们 104,500 美元的前 [...]</title>
-      <link>https://t.me/hn_summary/76362</link>
-      <description><![CDATA[Netlify 刚刚向我发送了 10.4 万美元的简单静态网站账单&lt; /a&gt;
-最近，我收到了一封来自 Netlify 的令人震惊的电子邮件，声称我因简单静态网站的带宽超限而欠他们 104,500 美元。经过调查，我的网站遭到了大规模的 DDoS 攻击，导致短短 4 天内带宽就达到了 190TB。尽管我的网站已经免费使用了 4 年，流量很少，但 Netlify 坚持向我收取总金额的 5%。这次经历让我感觉自己被骗了，并质疑为什么像 Netlify 这样的无服务器平台没有 ddos​​ 防护或支出限制。我已将网站迁移到 Cloudflare，并且再也不会使用 Netlify。]]></description>
-      <guid>https://t.me/hn_summary/76362</guid>
-      <pubDate>Tue, 27 Feb 2024 06:36:31 GMT</pubDate>
+      <title>父亲于 2022 年去世。</title>
+      <link>https://t.me/hn_summary/76455</link>
+      <description><![CDATA[爸爸于2022年去世，从2023年开始，他自托管的事情慢慢开始了打破
+摘要：自从他们的父亲于 2022 年突然去世以来，原发布者一直在努力维持他维持的自托管服务的运行。主要问题是网络邮件服务于 9 月份宕机，导致家人无法访问。发布者正在寻求有关如何恢复和维护可能在 Linux 上运行的服务器 Ranma 和 Akane 的建议。他们有密码列表，但缺乏有关服务器操作系统和设置详细信息的知识。发帖者不知所措，寻求有关故障排除和可能备份服务器的指导。还提到了科罗拉多州弗兰特山脉地区潜在的当地帮助。]]></description>
+      <guid>https://t.me/hn_summary/76455</guid>
+      <pubDate>Tue, 27 Feb 2024 17:47:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
