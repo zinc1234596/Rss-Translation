@@ -4,7 +4,21 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Thu, 29 Feb 2024 03:12:09 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Feb 2024 06:14:05 GMT</lastBuildDate>
+    <item>
+      <title>Chat GPT 4 Turbo 只能用于编码吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1b2t2ir/is_chat_gpt_4_turbo_only_for_coding/</link>
+      <description><![CDATA[我在这个人工智能行业已经落伍了。我在某处读到 ChatGPT-4 Turbo 已经可用。但我没有找到如何使用它的方法。只能用 API 进行编码吗？可以用来写吗？ 提前谢谢！   由   提交/u/Thick-Lecture-4030   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1b2t2ir/is_chat_gpt_4_turbo_only_for_coding/</guid>
+      <pubDate>Thu, 29 Feb 2024 05:54:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>每日一分钟人工智能新闻 2/​​28/2024</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1b2sdg4/oneminute_daily_ai_news_2282024/</link>
+      <description><![CDATA[ 阿里巴巴随着人工智能竞争的加剧，云计算大幅降价。[1]  Google 首席执行官告诉员工 Gemini AI 错误“不可接受”。[2] Google 推出 Genie strong&gt;，第一个可以从文本、图像生成视频游戏的 AI 模型。[3] StarCoder 2 是一种在大多数 GPU 上运行的代码生成 AI。 [4]  来源：https://bushaicave .com/2024/02/28/2-28-2024/   由   提交 /u/Excellent-Target-847   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1b2sdg4/oneminute_daily_ai_news_2282024/</guid>
+      <pubDate>Thu, 29 Feb 2024 05:15:39 GMT</pubDate>
+    </item>
     <item>
       <title>副驾驶变邪恶盗贼的故事不合逻辑。这听起来更像是热门黑客提示。召集所有侦探！</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1b2oem7/the_copilot_goes_evil_rogue_story_doesnt_add_up/</link>
@@ -48,25 +62,11 @@
       <pubDate>Wed, 28 Feb 2024 20:37:05 GMT</pubDate>
     </item>
     <item>
-      <title>它们是如何制作的？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1b2g00b/how_are_they_made/</link>
-      <description><![CDATA[所以我想在迷你电脑上制作一个像 chatGPT 这样的 AI，但它不想给我代码，它总是说“我没有”代码尝试使用 print text:hello from ai&quot;如果有人能帮助我制作一个，我就来这里。 。    由   提交 /u/imthecomrade   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1b2g00b/how_are_they_made/</guid>
-      <pubDate>Wed, 28 Feb 2024 20:10:29 GMT</pubDate>
-    </item>
-    <item>
       <title>帮助我们测试移动网络共享 – 在移动设备上易于使用的 AI 聊天，由您的 PC 提供支持</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1b2fjsn/help_us_test_mobile_tethering_easy_to_use_ai_chat/</link>
       <description><![CDATA[大家好， 我们正在寻找人员来帮助测试桌面到移动网络共享，我们刚刚在 Faraday 上发布的一项新功能。这是在移动设备上使用本地运行的人工智能模型的简单方法。您可以在 Mac 或 PC 上启动本地 LLM，并通过手机无缝地使用它们与 AI 聊天。 由于所有数据都是在您的计算机硬件上生成的（而不是在昂贵的云服务器上），它 100% 免费使用，您永远不必担心其他人控制您的数据。 这里是分步说明有关如何开始使用 Faraday 网络共享的步骤指南。请加入我们的 Discord 社区和 SubReddit！ 谢谢！ __ PS：对于那些从未使用过 Faraday 的人来说，这是一款零配置的 AI 桌面应用程序由本地运行的法学硕士支持的聊天和角色扮演。完整的本地聊天体验开箱即用；你永远不需要打开终端。 Faraday 可以在只有 8GB RAM 的 CPU 上运行，并且该应用程序将自动使用您的 GPU 来加速。我们拥有自己的角色中心，以及许多高级用户功能，例如传说书、作者注释、文本转语音等等！&lt; /p&gt;   由   提交 /u/PacmanIncarnate   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1b2fjsn/help_us_test_mobile_tethering_easy_to_use_ai_chat/</guid>
       <pubDate>Wed, 28 Feb 2024 19:52:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何利用人工智能来提高养鱼场的收入？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1b2elvd/how_can_i_use_ai_to_improve_revenue_on_a_fish_farm/</link>
-      <description><![CDATA[假设我在非洲拥有一个养鱼场。我种植、销售和出口鱼类，如何利用人工智能来改善我的业务、寻找新的商机并增加我的收入？    由   提交 /u/Goldiegoodie   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1b2elvd/how_can_i_use_ai_to_improve_revenue_on_a_fish_farm/</guid>
-      <pubDate>Wed, 28 Feb 2024 19:16:12 GMT</pubDate>
     </item>
     <item>
       <title>只是为了确认。关键论文《你所需要的就是注意力》的每一位作者（谷歌的作者）都已退出谷歌。这有点令人惊讶。只是想确认一下。</title>
