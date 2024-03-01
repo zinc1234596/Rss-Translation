@@ -4,7 +4,14 @@
     <title>最新提交：GPT3</title>
     <link>https://www.reddit.com/r/GPT3/new</link>
     <description>AI 文本生成技术的 Reddit 子版块</description>
-    <lastBuildDate>Fri, 01 Mar 2024 12:18:38 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 Mar 2024 15:11:21 GMT</lastBuildDate>
+    <item>
+      <title>使用此折扣代码可享受 10 美元折扣。</title>
+      <link>https://www.reddit.com/r/GPT3/comments/1b3wbfo/get_10_off_with_this_discount_code/</link>
+      <description><![CDATA[ 由   提交/u/drawxd  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/GPT3/comments/1b3wbfo/get_10_off_with_this_discount_code/</guid>
+      <pubDate>Fri, 01 Mar 2024 15:00:27 GMT</pubDate>
+    </item>
     <item>
       <title>遗憾的是，GPT-3.5 并没有想象中的朋友。</title>
       <link>https://www.reddit.com/r/GPT3/comments/1b3rmfj/sadly_gpt35_does_not_have_an_imaginary_friend/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[我可以使用哪些方法来评估模型是否适合我的目的？我这么问是因为我必须写一份关于我用 4 个不同的 llms 进行的实验的报告。但是我不确定 llms 通常使用什么指标。   由   提交/u/Neither_Chemistry_80   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/GPT3/comments/1an2dd5/what_are_some_metrics_to_evaluate_a_llm_model_for/</guid>
       <pubDate>Fri, 09 Feb 2024 23:49:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>[D] 如何用其他GPT模拟openai功能/工具？</title>
-      <link>https://www.reddit.com/r/GPT3/comments/1aibpm6/d_how_to_mimic_openai_functionstools_with_other/</link>
-      <description><![CDATA[我有兴趣探索针对特定场景使用替代 GPT 模型复制 OpenAI 功能的方法。想象一下有一个包含各种函数及其规范的字典。当用户提出问题时，系统应该能够正确识别这些功能并对其进行排序，以构建连贯的响应。此外，我对从头开始开发这样一个系统所需的基本步骤感到好奇。具体来说，从函数字典及其规范开始，如何设计一种生成代码响应的机制？感谢任何指导/输入，因为我从未自己训练过任何模型。 OpenAI 的回答对这个问题没有帮助:)   由   提交/u/mrg3_2013   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/GPT3/comments/1aibpm6/d_how_to_mimic_openai_functionstools_with_other/</guid>
-      <pubDate>Sun, 04 Feb 2024 01:16:26 GMT</pubDate>
     </item>
     </channel>
 </rss>
