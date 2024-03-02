@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Sat, 02 Mar 2024 00:36:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 02 Mar 2024 06:11:44 GMT</lastBuildDate>
     <item>
-      <title>[媒体]这本研究文章集探讨了语言与合作之间的关系[...]</title>
-      <link>https://t.me/hn_summary/77117</link>
-      <description><![CDATA[信息密度更大的人类语言：速度更快，广度更小
-这本研究文章集探讨了语言与认知之间的关系，强调了不同语言如何塑造我们对世界的理解。从语言相对论对颜色感知的影响到语言对时间和空间概念的影响，这些研究揭示了语言构建我们思维的复杂方式。有争议的是，性别刻板印象反映在语言的分布结构中，而令人惊讶的是，不同的语言表现出相似的编码效率。这项研究揭示了人类语言的复杂性及其在塑造我们的感知和与世界互动中的作用。 （根据故事文本的 34% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/77117</guid>
-      <pubDate>Sat, 02 Mar 2024 00:36:00 GMT</pubDate>
+      <title>[媒体] 45 年工程师马尔科姆 (Malcolm) 分享了他对电桑拿通风后的见解 [...]</title>
+      <link>https://t.me/hn_summary/77153</link>
+      <description><![CDATA[45 年工程师清理电桑拿通风&lt; br/&gt;
+马尔科姆 (Malcolm) 是一位 45 岁的工程师，他在自家后院桑拿房进行温度分析后，分享了他对电动桑拿房通风的见解。他将一份长达 34 页的芬兰关于桑拿通风的研究压缩为 9 页，纠正了拼写错误并扩展了细节，以便更好地理解。该研究的重点是电热桑拿房中的空气混合、温度和空调动态。马尔科姆的分析揭示了正确的进气口和排气口放置对于高效气流模式的重要性。这些信息挑战了传统的通风设置，并为寻求优化桑拿体验的电桑拿用户提供了宝贵的见解。 （根据 47% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/77153</guid>
+      <pubDate>Sat, 02 Mar 2024 06:11:44 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 据估计，全球有超过 10 亿人患有肥胖症，并且肥胖率还在不断增长 [...]</title>
-      <link>https://t.me/hn_summary/77116</link>
-      <description><![CDATA[研究估计，超过 1B 人患有肥胖症，其中包括 1.59 亿年轻人
-据估计，全球有超过 10 亿人患有肥胖症，其中儿童和青少年的肥胖率迅速上升。这项发表在《柳叶刀》上的研究强调，由于工业化生活方式，肥胖负担正在向低收入和中等收入国家转移。 Wegovy 和 Zepbound 等基于 GLP-1 的肥胖药物的出现带来了希望，但其高成本和短缺带来了挑战。该研究还讨论了体重不足率，强调解决营养不良和肥胖问题的重要性。使用 BMI 临界值来定义全球肥胖和体重不足存在局限性，但该研究为不断演变的全球肥胖危机提供了宝贵的见解。]]></description>
-      <guid>https://t.me/hn_summary/77116</guid>
-      <pubDate>Sat, 02 Mar 2024 00:00:44 GMT</pubDate>
+      <title>在本文中，作者反对将 Discord 用于自由软件/开源 (FOSS) [...]</title>
+      <link>https://t.me/hn_summary/77152</link>
+      <description><![CDATA[不要将 Discord 用于 FOSS
+在本文中，作者反对将 Discord 用于自由软件/开源 (FOSS) 项目，强调了对社区的负面影响，特别是对于有辅助功能需求、低端计算设备或受到美国制裁的国家的用户。作者强调了 FOSS 价值观与 Discord 对平台的控制之间的利益冲突。他们敦促读者考虑 SourceHut、Matrix 和 Zulip 等 FOSS 替代品，并与合作者认真讨论使用专有基础设施的长期影响。本文鼓励在自由和开源软件生态系统中进行明智的投资，并选择符合价值观的工具。]]></description>
+      <guid>https://t.me/hn_summary/77152</guid>
+      <pubDate>Sat, 02 Mar 2024 05:19:26 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] GitHub 上的“Payme”项目是一个库和 CLI 工具，用于为 SE [...]</title>
-      <link>https://t.me/hn_summary/77115</link>
-      <description><![CDATA[显示 HN：Payme，一个用于生成 QR 码的库和 CLI SEPA 付款
-GitHub 上的“Payme”项目是一个库和 CLI 工具，用于生成 SEPA 支付的 QR 码。它允许用户通过指定金额、收款人的 BIC 和 IBAN、交易目的和汇款消息等详细信息，轻松创建 SEPA 付款的二维码。用户可以将 QR 码输出自定义为文本或 PNG 文件。该项目的独特之处在于其简单易用，使其成为生成 SEPA 支付二维码的便捷工具。]]></description>
-      <guid>https://t.me/hn_summary/77115</guid>
-      <pubDate>Fri, 01 Mar 2024 23:41:36 GMT</pubDate>
+      <title>[媒体] 在“稀缺神话及其对人类社会的威胁”中，安德鲁·凯门多 (Andrew Kemendo) 挑战 [...]</title>
+      <link>https://t.me/hn_summary/77151</link>
+      <description><![CDATA[稀缺神话及其对人类社会的威胁 [pdf]( https://news.ycombinator.com/item?id=39569747)
+在《稀缺神话及其对人类社会的威胁》一书中，安德鲁·凯门多挑战了塑造历史、经济和政治思想的稀缺基本假设。他认为，第四纪巨型动物灭绝导致了普遍稀缺的神话，驱使人类走向竞争和囤积而不是合作和共享。凯门多提出了五项主张，强调了从游牧资源共享到灭绝后定居囤积的转变。他深入探讨了这一神话对经济和政治结构的影响，强调有必要重新评估我们在后稀缺世界中的资源分配方法。这篇发人深省的作品挑战了传统智慧，并为人类社会进化提供了全新的视角。 （根据故事文本的 53% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/77151</guid>
+      <pubDate>Sat, 02 Mar 2024 05:18:22 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]学术界有多崩溃？</title>
-      <link>https://t.me/hn_summary/77114</link>
-      <description><![CDATA[学术界有多崩溃？
-在这篇令人大开眼界的文章中，作者是一位经验丰富的公共广播和常春藤联盟公关领域的资深人士，他深入探讨了学术界破碎的本质。他们强调了由于学术研究往往乏味且渐进的性质，营销高等教育面临的困难。作者讨论了顶级学术人物中普遍存在的剽窃和学术不端行为，揭示了当今学术机构的空洞凭证主义和政治化信息娱乐。他们呼吁加强学术出版的审查和诚信，这表明人工智能技术可能是让学者承担责任的关键。作者呼吁读者保持怀疑态度，谨防学术界过于华丽的叙述。]]></description>
-      <guid>https://t.me/hn_summary/77114</guid>
-      <pubDate>Fri, 01 Mar 2024 23:39:33 GMT</pubDate>
+      <title>[媒体]莱博维茨的赞歌</title>
+      <link>https://t.me/hn_summary/77150</link>
+      <description><![CDATA[莱博维茨的赞歌
+《莱博维茨颂歌》是小沃尔特·米勒 (Walter M. Miller Jr.) 创作的一部后世界末日科幻小说，以核战争后的一座天主教修道院为背景。莱博维茨阿尔伯特骑士团的僧侣们为子孙后代保存科学知识。这部小说受到米勒在第二次世界大战中的经历的启发，探讨了宗教、重现以及教会与国家的主题。该书荣获1961年雨果奖，并且从未绝版。米勒独特的写作风格和复杂的主题使这部小说成为科幻小说的经典，其续集于1997年出版。（根据故事文本的31%进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/77150</guid>
+      <pubDate>Sat, 02 Mar 2024 05:17:16 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]SAAB 推出了一项突破性的超音速无人战斗飞行器研究，resem [...]</title>
-      <link>https://t.me/hn_summary/77113</link>
-      <description><![CDATA[SAAB超音速杀手无人机
-萨博公司推出了一项突破性的超音速无人战斗飞行器研究，类似于标志性的德拉肯飞机。该设计重点关注超声波阻力和涡翼干扰，表明具有 1.7 马赫的能力。凭借在打击任务、防空行动中的潜在应用，以及作为忠诚的僚机，SAAB UCAV 可以彻底改变空战。该概念展示了一个灵活的多用途系统，可以演变成一系列先进的平台。虽然还需要进一步开发，但 SAAB 的设计代表着在未来战争中集成载人和无人系统方面迈出了重要一步。英国军事航空界的关键人物吉姆·史密斯 (Jim Smith) 对这项尖端技术提供了宝贵的见解。]]></description>
-      <guid>https://t.me/hn_summary/77113</guid>
-      <pubDate>Fri, 01 Mar 2024 23:15:21 GMT</pubDate>
+      <title>[媒体]文章讨论了服务网格在 Kubernetes 部署中的重要性，高 [...]</title>
+      <link>https://t.me/hn_summary/77149</link>
+      <description><![CDATA[K8s 服务网格：账单到期
+本文讨论了服务网格在 Kubernetes 部署中的重要性，强调了加密流量、访问控制和增强监控的优势。它探索了流行的服务网格选项，例如 Linkerd、Cilium、Istio、Consul Connect 和云提供商产品。作者对 Linkerd 的定价模式表示惊讶，并讨论了服务网格格局的最新变化，包括思科对 Cilium 的收购。有争议的是，作者批评了 Istio 的复杂性，并质疑其与其他选项相比的价值。总的来说，本文对不断发展的服务网格世界及其对 Kubernetes 部署的影响提供了宝贵的见解。 （根据 89% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/77149</guid>
+      <pubDate>Sat, 02 Mar 2024 05:01:09 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Vision Pro 拆解显示，日本制造的零部件占新设备的 40%，并且 [...]</title>
-      <link>https://t.me/hn_summary/77112</link>
-      <description><![CDATA[Vision Pro 拆解日本制造部件占新设备的 40% 
-Vision Pro 拆解显示，日本制造的零部件占新设备的 40%，其中索尼是显示器和传感器的主要供应商。与最新 iPhone 中日本部件的 10% 相比，这是一个显着的增长。虽然该设备提供了令人印象深刻的功能和身临其境的体验，但它在重量上有所妥协，在长时间使用过程中可能会导致颈部和肩部疲劳。尽管如此，Apple 对技术和独特功能的投资使 Vision Pro 在不断增长的护目镜设备市场中取得了成功。这项技术的未来看起来充满希望，新的用途和更低的价格点推动了进一步的采用。]]></description>
-      <guid>https://t.me/hn_summary/77112</guid>
-      <pubDate>Fri, 01 Mar 2024 23:13:17 GMT</pubDate>
+      <title>[媒体] 在 coderoasis.com 上的这篇文章中，作者深入研究了 RSA c 的复杂世界 [...]</title>
+      <link>https://t.me/hn_summary/77148</link>
+      <description><![CDATA[从头开始在 Python 中实现 RSA
+在 coderoasis.com 上的这篇文章中，作者深入研究了错综复杂的问题RSA密码学的世界，以易于理解的方式解释算法背后的数学背景。本文涵盖了 RSA 的关键原理、密钥的生成、加密、解密以及扩展欧几里得算法的实现以及 Python 中模数的快速求幂。作者强调了正确实施和安全考虑的重要性，强调了加密技术不足可能产生的潜在漏洞。本文最后承诺，对于那些有兴趣深入研究从头开始在 Python 中实现 RSA 的人，未来的文章将扩展该主题。]]></description>
+      <guid>https://t.me/hn_summary/77148</guid>
+      <pubDate>Sat, 02 Mar 2024 04:55:03 GMT</pubDate>
     </item>
     <item>
-      <title>问HN：2024年你如何寻找就业机会？</title>
-      <link>https://t.me/hn_summary/77111</link>
-      <description><![CDATA[问HN：2024年你如何找到就业机会？
-作者回顾了他们过去二十年的职业历程，从通过职业发展和人际网络寻找机会到通过 LinkedIn 招聘。然而，他们现在发现自己在 2024 年的就业市场中举步维艰，感觉没有他们，世界已经继续前进。作者质疑网络是否仍然是关键，或者 IT 行业是否面临挑战。内容重点介绍了不断变化的求职格局以及当今时代许多专业人士在寻找就业机会时面临的不确定性。]]></description>
-      <guid>https://t.me/hn_summary/77111</guid>
-      <pubDate>Fri, 01 Mar 2024 23:12:13 GMT</pubDate>
+      <title>[媒体]Phrack #71 呼吁黑客和安全研究人员发表论文来贡献 [...]</title>
+      <link>https://t.me/hn_summary/77147</link>
+      <description><![CDATA[Phrack 71征文
+Phrack #71 正在呼吁黑客和安全研究人员为他们的杂志投稿，该杂志自 1985 年以来一直存在。在一个信息泛滥的世界中，Phrack 旨在为尖端安全研究和技术发现提供一个平台，否则这些研究和技术发现可能会失败。迷失在互联网的喧嚣中。他们正在寻找有关黑客攻击、漏洞利用开发、漏洞研究等的文章。 Phrack 为作家提供了一个独特的机会来分享他们的作品，而不必担心作品丢失或被商业化。如果您有突破性的研究或见解要分享，请考虑提交给 Phrack。 （根据故事文本的 50% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/77147</guid>
+      <pubDate>Sat, 02 Mar 2024 04:52:58 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]2001 年，MOTU 推出 FireNoodle 接口，彻底改变了音频行业 [...]</title>
-      <link>https://t.me/hn_summary/77110</link>
-      <description><![CDATA[Linux 兼容音频接口
-2001 年，MOTU 推出了可处理 24 位录音的 FireNoodle 接口，彻底改变了音频行业。这项突破性的技术可以以 795 英镑的实惠价格实现高质量的音频录制。如今，interfacelinux.com 提供了一系列与 Linux 兼容的音频接口提供与您的操作系统的无缝集成。无论您是专业音乐家还是业余爱好者，这些接口都可以提供无与伦比的性能和可靠性。告别兼容性问题，迎接 Linux 兼容音频接口带来无限可能的世界。]]></description>
-      <guid>https://t.me/hn_summary/77110</guid>
-      <pubDate>Fri, 01 Mar 2024 23:11:10 GMT</pubDate>
+      <title>[媒体]史蒂芬·柯维的《高效能人士的七个习惯》是一本开创性的书，它 [...]</title>
+      <link>https://t.me/hn_summary/77146</link>
+      <description><![CDATA[史蒂芬·柯维名言
+史蒂芬·柯维的《高效人士的七个习惯》是一本开创性的书，已成为有史以来最畅销的商业书籍之一。它因其对企业管理的影响力而被《时代》杂志、《福布斯》和《首席执行官》杂志认可。柯维在本书和《第八个习惯》中的引言提供了有关领导力、人际关系和个人成长的宝贵见解。他对选择、原则和信任的强调引起了各个领域读者的共鸣。柯维作为管理顾问的遗产超出了商业范围，使他的教义适用于任何寻求成为高效人才的人。]]></description>
+      <guid>https://t.me/hn_summary/77146</guid>
+      <pubDate>Sat, 02 Mar 2024 04:47:52 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在这项研究中，研究人员通过[...]实现了体内持久有效的基因沉默。</title>
-      <link>https://t.me/hn_summary/77109</link>
-      <description><![CDATA[通过“打了就跑”的表观基因组实现持久高效的体内基因沉默编辑
-在这项研究中，研究人员通过“打了就跑”的表观基因组编辑实现了体内持久有效的基因沉默。他们结合使用分子克隆和 mRNA 生产技术来提供针对小鼠 Pcsk9 基因 CGI 的 ETR 和 gRNA。使用 LNP 进行体外和体内实验可以有效传递基因编辑成分。流式细胞术和RNA测序用于分析基因沉默的影响，而WGMS用于评估DNA甲基化的变化。这种方法有望实现生物体中持久的基因沉默。 （根据故事文本的 50% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/77109</guid>
-      <pubDate>Fri, 01 Mar 2024 23:10:07 GMT</pubDate>
+      <title>[媒体] 网页内容讨论了 Go 1.22 中 for 循环行为的语义变化，强调 [...]</title>
+      <link>https://t.me/hn_summary/77145</link>
+      <description><![CDATA[Go 1.22 中的 For-Loop 语义变化：注意影响
+Web 内容讨论了 Go 1.22 中 for 循环行为的语义变化，强调了对代码行为的影响。这些更改会影响循环内声明的循环变量，从而导致每次迭代作用域的确定。本文提供了更改之前和之后的代码示例，突出显示了输出的差异。它还深入研究了这些变化背后的基本原理及其影响，包括由于隐式代码生成而带来的意外惊喜。争议源于人们认为传统 for 循环的新语义缺乏直观一致性。本文最后通过示例展示了捕获循环变量的延迟函数调用可能如何受到这些更改的影响。 （根据故事文本的 28% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/77145</guid>
+      <pubDate>Sat, 02 Mar 2024 04:46:49 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]FastUI 是一个旨在简化构建 Web 应用程序用户的过程的项目 [...]</title>
-      <link>https://t.me/hn_summary/77108</link>
-      <description><![CDATA[FastUI：更快地构建更好的 UI
-FastUI 是一个旨在简化使用声明性 Python 代码构建 Web 应用程序用户界面的过程的项目。它允许 Python 开发人员使用 React 创建响应式 Web 应用程序，而无需编写 JavaScript 或使用 npm。前端开发人员可以专注于构建可重用的组件，而后端则定义整个应用程序。 FastUI 由 Pydantic 模型和 TypeScript 接口组成，可在构建时和运行时验证用户界面。它包括用于构建 UI 组件的 PyPI 和 npm 包以及预构建的 React 应用程序。该项目遵循RESTful原则，实现组件的解耦部署和可重用。 FastUI 旨在提供一组丰富的组件，用于跨不同平台和语言构建应用程序。]]></description>
-      <guid>https://t.me/hn_summary/77108</guid>
-      <pubDate>Fri, 01 Mar 2024 23:09:02 GMT</pubDate>
+      <title>[媒体]在 FOSDEM 2024 上，人工智能和机器学习开发室讨论了开源人工智能模型，我 [...]</title>
+      <link>https://t.me/hn_summary/77144</link>
+      <description><![CDATA[FOSDEM 的开源人工智能
+在 FOSDEM 2024 上，人工智能和机器学习开发室讨论了开源人工智能模型，包括大型语言模型 (LLM)。许可证限制引起了争议，FSFE 强调了阻碍模型使用的道德限制。 OSI 正在致力于定义开源人工智能，强调四项基本自由的重要性。开放数据集也是一个焦点，人们对数据质量和语言多样性提出了担忧。 OpenLLM France 旨在为欧洲语言创建开源模型。对开源人工智能的明确定义的需求以及扩展到英语之外的努力是本次活动的主要收获。]]></description>
+      <guid>https://t.me/hn_summary/77144</guid>
+      <pubDate>Sat, 02 Mar 2024 04:45:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
