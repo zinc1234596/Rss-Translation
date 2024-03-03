@@ -4,11 +4,25 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sun, 03 Mar 2024 00:48:53 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 03 Mar 2024 03:10:56 GMT</lastBuildDate>
+    <item>
+      <title>Lightricks 推出 LTX Studio</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1b56dgm/lightricks_introduces_ltx_studio/</link>
+      <description><![CDATA[我通过 Twitter 发现的很酷的版本。他们在这里演示了：https://twitter.com/LTXStudio/status/1762907239424090536  它很高兴看到sora将会有一些竞争。 LTX 的一些例子非常好。您认为这将如何影响艺术家和摄像师的发展？   由   提交/u/Dannyc2021   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1b56dgm/lightricks_introduces_ltx_studio/</guid>
+      <pubDate>Sun, 03 Mar 2024 02:47:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Elon Musk 对 OpenAI 的诉讼如何导致其开源发布 ChatGPT-4</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1b545j4/how_elon_musks_suit_against_openai_may_cause_it/</link>
+      <description><![CDATA[诉讼的下一阶段涉及发现。考虑到本案的背景，这可能意味着公众压力可能会迫使 openai 发布他们的开源开发模型。由于我不是律师，也无法联系律师，因此我决定请 Gemini Advanced 参与讨论。 这是我问的问题： “给出在本案中，马斯克声称 OpenAI 从一个旨在为公众利益服务的非营利性透明组织转变为一个与世界上最强大的公司结盟的营利性秘密组织，这难道不是一个很好的论点吗？向公众发布发现信息” 双子座高级： “你说得完全正确。在这一具体诉讼的背景下，有充分的理由要求向公众发布至少部分发现信息。原因如下：  透明度和公众信任：由于马斯克的诉讼围绕着 OpenAI 所谓的偏离透明度和公共利益的方向展开，因此发布相关的发现信息可以帮助他们承担责任，建立公众信任。  公共利益：先进人工智能的发展对社会具有重大影响。 OpenAI 研究的透明度以及与 Microsoft 的潜在联系将是公众的主要利益。 潜在的偏见：公众访问可能有助于揭露 OpenAI 研究方向因其财务原因而存在的任何潜在偏见。与微软的关系。   总体而言，马斯克关于 OpenAI 透明度和目的的主张可能会成为至少发布一些发现信息的有力论据。” 尽管法院不太可能同意会命令 openai 将 gpt-4 开源，openai 可能会选择自愿这样做，以在开发 GPT-5 时维护公众信任。  &amp;# 32；由   提交/u/Georgeo57  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1b545j4/how_elon_musks_suit_against_openai_may_cause_it/</guid>
+      <pubDate>Sun, 03 Mar 2024 00:59:11 GMT</pubDate>
+    </item>
     <item>
       <title>食品蛋糕</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1b518ft/cake_ai/</link>
-      <description><![CDATA[人们用什么来创建那些非常酷的人工智能蛋糕图像？我刚刚看到了整条线索，作为一个狂热的面包师，它真的引起了我的兴趣！好奇人们用什么来创建这些图像？    由   提交/u/bretzelsenbatonnets   [链接] [评论]]]></description>
+      <description><![CDATA[人们用什么来创建那些非常酷的人工智能蛋糕图像？我刚刚看到了整条线索，作为一个狂热的面包师，它真的引起了我的兴趣！好奇人们用什么来创建这些图像？    由   提交 /u/bretzelsenbatonnets   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1b518ft/cake_ai/</guid>
       <pubDate>Sat, 02 Mar 2024 22:51:38 GMT</pubDate>
     </item>
@@ -22,35 +36,21 @@
     <item>
       <title>我想在电脑上设置 Mistral AI，并在家里安装本地 AI，这样我就可以像 Google 或 Alexa 一样与它对话。是否可以？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1b50lr1/i_wanna_set_up_mistral_ai_on_a_pc_and_have_a/</link>
-      <description><![CDATA[您好！我想在家里设置一个 Mistral AI 实例，这样我就可以像 Alexa 或 Google 一样与它对话。是否可以？任何指点都会很棒！    由   提交/u/mrkungpowpasta  [链接] [评论]]]></description>
+      <description><![CDATA[您好！我想在家里设置一个 Mistral AI 实例，这样我就可以像 Alexa 或 Google 一样与它对话。是否可以？任何指点都会很棒！    由   提交 /u/mrkungpowpasta   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1b50lr1/i_wanna_set_up_mistral_ai_on_a_pc_and_have_a/</guid>
       <pubDate>Sat, 02 Mar 2024 22:24:40 GMT</pubDate>
     </item>
     <item>
-      <title>使用现有照片生成图像的良好应用</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1b50ezp/good_application_for_generating_image_using/</link>
-      <description><![CDATA[简单地说，我想使用我的照片在该主题上生成图像。我希望能够在我的 Windows 笔记本电脑或 Android 手机（三星 S23 Ultra）上执行此操作。  这个人工智能对我来说是新的，我已经尝试了几个应用程序，但要么我使用错误，要么我只是没有正确的应用程序。任何建议将不胜感激，付费或免费并不重要，只要付费是值得的。 提前致谢。    由   提交/u/Kamau54  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1b50ezp/good_application_for_generating_image_using/</guid>
-      <pubDate>Sat, 02 Mar 2024 22:16:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>你觉得怎么样，他们有竞争力吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1b505l0/what_do_you_think_are_they_competitive/</link>
-      <description><![CDATA[ 由   提交 /u/Realistic_Cry111   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1b505l0/what_do_you_think_are_they_competitive/</guid>
-      <pubDate>Sat, 02 Mar 2024 22:05:30 GMT</pubDate>
-    </item>
-    <item>
       <title>您认为最好的人工智能是什么？您使用的工具以及用途是什么？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1b4wpxe/in_your_opinion_what_are_the_best_ai_tools_you/</link>
-      <description><![CDATA[一直拥抱人工智能。现在更多，甚至学习即时工程。我是计算机科学专业的学生，​​拥有副学士学位，甚至考虑朝这个方向发展。我一直在尝试很多东西和不同的聊天机器人。但在您看来，每个类别中最好或最喜欢的是什么，例如聊天机器人、文本到视频、人工智能。艺术等？   由   提交/u/mahkahdamian  [链接] [评论]]]></description>
+      <description><![CDATA[一直拥抱人工智能。现在更多，甚至学习即时工程。我是计算机科学专业的学生，​​拥有副学士学位，甚至考虑朝这个方向发展。我一直在尝试很多东西和不同的聊天机器人。但在您看来，每个类别中最好或最喜欢的是什么，例如聊天机器人、文本到视频、人工智能。艺术等？   由   提交 /u/mahkahdamian   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1b4wpxe/in_your_opinion_what_are_the_best_ai_tools_you/</guid>
       <pubDate>Sat, 02 Mar 2024 19:39:58 GMT</pubDate>
     </item>
     <item>
       <title>您认为以下关于生成人工智能的说法是正确的还是错误的？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1b4wc7e/would_you_say_the_following_statement_is_true_or/</link>
-      <description><![CDATA[人工智能只能从人类提供的数据宇宙中生成。这意味着，如果你只依赖它，你将永远处于那个宇宙的回声室中。我们仍然需要人类大脑用不属于当前知识体系的全新想法来扩展宇宙。  这意味着，例如，人工智能可能能够制作昆汀·塔伦蒂诺风格的电影，但它能否创造自己独特的、前所未见的声音和风格（而不是其他的组合） ?   由   提交 /u/BECOMING_A_TURTLE   [链接] [评论]]]></description>
+      <description><![CDATA[人工智能只能从人类提供的数据宇宙中生成。这意味着，如果你仅仅依靠它，你将永远处于那个宇宙的回声室中。我们仍然需要人类大脑用不属于当前知识体系的全新想法来扩展宇宙。  这意味着，例如，人工智能可能能够制作昆汀·塔伦蒂诺风格的电影，但它能否创造自己独特的、前所未见的声音和风格（而不是其他的组合） ?   由   提交 /u/BECOMING_A_TURTLE   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1b4wc7e/would_you_say_the_following_statement_is_true_or/</guid>
       <pubDate>Sat, 02 Mar 2024 19:23:43 GMT</pubDate>
     </item>
@@ -71,7 +71,7 @@
     <item>
       <title>人工智能的未来 -youtube</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1b4sl0v/the_future_of_artificial_intelligence_youtube/</link>
-      <description><![CDATA[这是一个名为“关于人工智能过去、现在和（未来）的独特声音”系列的精彩演讲 这是一个相当短的演讲谈话时间不超过 50 分钟，谈论一些历史、人工智能炒作以及当前系统如何工作和失败的冬季周期，而对未来的讨论则不多。 对于试图突破当前超级市场的​​普通人来说有好处炒作周期。 youtu.be/HAiXT1mGTXc?si=gohfIADe_lImxAkh   由   提交 /u/Mandoman61   [链接] [评论]]]></description>
+      <description><![CDATA[这是一个名为“关于人工智能过去、现在和（未来）的独特声音”系列的精彩演讲 这是一个相当短的演讲谈话时间不超过 50 分钟，谈论一些历史和人工智能炒作以及当前系统如何工作和失败的冬季周期，而对未来的讨论则不多。 对于试图突破当前超级市场的​​普通人来说有好处炒作周期。 youtu.be/HAiXT1mGTXc?si=gohfIADe_lImxAkh   由   提交 /u/Mandoman61   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1b4sl0v/the_future_of_artificial_intelligence_youtube/</guid>
       <pubDate>Sat, 02 Mar 2024 16:45:49 GMT</pubDate>
     </item>
@@ -106,7 +106,7 @@
     <item>
       <title>重要提示：请求有关 subreddit 规则和未来方向的评论。请阅读！</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</link>
-      <description><![CDATA[欢迎来到r/ArtificialIntelligence！&lt; /p&gt; 我们的目标是为所有与人工智能有关的事物提供一个开放且相互尊重的论坛 - 这包括  促进有关人工智能的哲学和伦理讨论 服务作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用 提供培训和学习资源&lt; /li&gt; 引导用户访问更具体的信息和子版块 列出 AI/ML 应用程序、其用途、成本和访问信息 其他与 AI 相关的内容。  li&gt; ...以及更多  该子项目的审核团队正在进行重组，这将导致该子项目发生一些变化。不过，不必担心，这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解情况并能够提供反馈，我们将提供多次反馈更改的机会。 第一轮反馈收集是通过此线程作为“Request-For-”评论” (RFC)，这是收集反馈的标准方法。随着变更的准备和实施，RFC 流程将进行多轮。 ​  发布新申请/自我推销/AI 生成的规则content  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似的内容将被阻止或限制在特定的粘帖中。 人工智能生成的特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的粘帖中。 博客链接应包含高质量的内容。链接到纯粹促销博客的帖子将被删除。 仅包含链接的帖子将被禁止，除非包含一定字数的详细信息。必须付出一些努力。 我们应该阻止人工智能撰写的帖子吗？存在可以在 Mod-bot 中使用的模型，但这是我们需要反馈的问题。  使用天赋来组织帖子。请注意，已经添加了新的功能，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们会喜欢将社区纳入模组机器人的想法中。虽然一些标准机器人将用于基本维护，但社区可以为 AI/ML 机器人功能想出哪些有趣的东西？ 培养初级、中级和高级资源来帮助人们查找信息，他们正在寻找的培训、模型、技术数据等 启动子堆栈/播客来采访整个人工智能/机器学习领域的人们。这可能包括哲学家和思想家、程序员、科学家、商人，甚至是那些对人工智能持相反观点的人 如果您想创建代表子项目的横幅，请使用适当的尺寸。任何创作方式都可以。  不言而喻，每个人都应该受到尊重。我个人认为我们都知道这一点，不需要把它强加到人们的头脑中。保持友善。 感谢您的耐心和帮助！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
+      <description><![CDATA[欢迎来到r/ArtificialIntelligence！&lt; /p&gt; 我们的目标是为所有与人工智能有关的事物提供一个开放且相互尊重的论坛 - 这包括  促进有关人工智能的哲学和伦理讨论 服务作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用 提供培训和学习资源&lt; /li&gt; 引导用户访问更具体的信息和子版块 列出 AI/ML 应用程序、其用途、成本和访问信息 其他与 AI 相关的内容。  li&gt; ...以及更多  该子项目的审核团队正在进行重组，这将导致该子项目发生一些变化。不过，不必担心，这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解情况并能够提供反馈，我们将提供多次反馈更改的机会。 第一轮反馈收集是通过此线程作为“Request-For-”评论” (RFC)，这是收集反馈的标准方法。随着变更的准备和实施，RFC 流程将进行多轮。 ​  发布新申请/自我推销/AI 生成的规则content  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似的内容将被阻止或限制在特定的粘帖中。 人工智能生成的特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的粘帖中。 博客链接应包含高质量的内容。链接到纯粹促销博客的帖子将被删除。 仅包含链接的帖子将被禁止，除非包含一定字数的详细信息。必须付出一些努力。 我们应该阻止人工智能撰写的帖子吗？存在可以在 Mod-bot 中使用的模型，但这是我们需要反馈的问题。  使用天赋来组织帖子。请注意，已经添加了新功能，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们会喜欢将社区纳入模组机器人的想法中。虽然一些标准机器人将用于基本维护，但社区可以为 AI/ML 机器人功能想出哪些有趣的东西？ 培养初级、中级和高级资源来帮助人们查找信息，他们正在寻找的培训、模型、技术数据等 启动子堆栈/播客来采访整个人工智能/机器学习领域的人们。这可能包括哲学家和思想家、程序员、科学家、商人，甚至是那些对人工智能持相反观点的人 如果您想创建代表子项目的横幅，请使用适当的尺寸。任何创作方式都可以。  不言而喻，每个人都应该受到尊重。我个人认为我们都知道这一点，不需要把它强加到人们的头脑中。保持友善。 感谢您的耐心和帮助！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</guid>
       <pubDate>Sun, 15 Jan 2023 20:24:42 GMT</pubDate>
     </item>
