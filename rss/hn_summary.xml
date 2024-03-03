@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Sun, 03 Mar 2024 18:13:53 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 03 Mar 2024 21:07:19 GMT</lastBuildDate>
     <item>
-      <title>rachel.fast.ai 上的文章挑战了 Highl [...] 的“人工智能将治愈癌症”的普遍信念。</title>
-      <link>https://t.me/hn_summary/77365</link>
-      <description><![CDATA[“人工智能将治愈癌症”误解了人工智能和医学
-关于 rachel.fast.ai 的文章挑战了普遍的信念通过强调人工智能在医学中的复杂性，“人工智能将治愈癌症”。虽然人工智能在检测疾病和预测结果方面显示出前景，但作者对其对患者的实际影响表示担忧。文章讨论了自动化决策系统如何对边缘化人群造成不成比例的伤害，并列举了导致饥饿、债务和医疗保健减少的错误示例。作者强调了将患者观点纳入医疗人工智能研究的重要性，并呼吁采用更多参与性的机器学习方法。总的来说，这篇文章对人工智能和医学的交叉点提供了一个发人深省的观点。]]></description>
-      <guid>https://t.me/hn_summary/77365</guid>
-      <pubDate>Sun, 03 Mar 2024 18:13:53 GMT</pubDate>
+      <title>[媒体] 在过去的 6 个月里，我们 Pythagora.ai 的团队一直致力于 GPT Pilot，这是一个真正的 A [...]</title>
+      <link>https://t.me/hn_summary/77393</link>
+      <description><![CDATA[我们在人工智能开发人员的 6 个月工作中学到了什么
+在过去 6 个月中，我们 Pythagora.ai 的团队在 GPT Pilot 工作，这是一个真正的人工智能开发人员，旨在自动化编码任务。一路走来，我们学到了宝贵的经验教训，例如人在循环中监督人工智能的重要性以及清晰的初始项目描述的必要性。令人惊讶的是，我们发现法学硕士在一次专注于一个问题并受益于详细日志和模块化代码时效果最佳。尽管面临挑战，我们仍然使用 GPT Pilot 成功创建了令人印象深刻的应用程序，例如 Prompt Lab，它增强了 OpenAI Playground 体验。请查看我们的博客，了解更多见解和我们所取得成就的示例。 （根据故事文本的 74% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/77393</guid>
+      <pubDate>Sun, 03 Mar 2024 21:07:19 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]皇家墨尔本理工大学的一个团队开发了一种具有超自然特性的3D打印钛结构[...]</title>
-      <link>https://t.me/hn_summary/77364</link>
-      <description><![CDATA[3D打印钛结构展现超自然力量
-RMIT 大学的一个团队开发了一种 3D 打印的钛结构，具有超自然的强度，可耐受高达 350°C 的温度。他们的目标是增强材料以承受高达 600 °C 的温度，用于航空航天或消防无人机应用。虽然该技术尚未广泛应用，但他们相信未来会变得更容易获得。该团队欢迎潜在应用的合作，并强调协作设计和解决问题的重要性。该研究发表在《Advanced Materials》上，并由澳大利亚研究委员会资助。]]></description>
-      <guid>https://t.me/hn_summary/77364</guid>
-      <pubDate>Sun, 03 Mar 2024 18:06:47 GMT</pubDate>
+      <title>[媒体] 介绍 Evo，这是由 Arc [...] 的研究人员开发的突破性 DNA 基础模型</title>
+      <link>https://t.me/hn_summary/77392</link>
+      <description><![CDATA[Evo：从分子到基因组规模的 DNA 基础建模 
+隆重推出 Evo，这是由 Arc Institute、斯坦福大学和 TogetherAI 的研究人员开发的突破性 DNA 基础模型。 Evo 是一个 70 亿参数模型，经过训练，可使用创新的 StripedHyena 架构以单核苷酸分辨率生成 DNA 序列。 Evo 可以预测基因的必要性，对 DNA、RNA 和蛋白质模式进行零次功能预测，甚至生成新型 CRISPR 系统。 Evo 能够生成全基因组规模的序列，有可能彻底改变药物发现、农业和可持续发展方面的生物研究和应用。然而，Evo 的安全和负责任的开发仍然是研究人员的首要任务。]]></description>
+      <guid>https://t.me/hn_summary/77392</guid>
+      <pubDate>Sun, 03 Mar 2024 21:05:15 GMT</pubDate>
     </item>
     <item>
-      <title>美英在入侵伊拉克之前未能了解萨达姆的真实意图。</title>
-      <link>https://t.me/hn_summary/77363</link>
-      <description><![CDATA[阿喀琉斯陷阱：美国如何致命地未能读懂萨达姆
-美英在入侵伊拉克之前未能了解萨达姆的真实意图。萨达姆在生命的最后几年里写小说并痴迷于阿拉伯语语法，他相信中央情报局知道伊拉克没有大规模杀伤性武器。他甚至询问部长们是否有任何隐藏的计划。由于缺乏与伊拉克的接触，华盛顿没有注意到萨达姆变成了一个受骗者。自克林顿政府以来，伊拉克政权更迭一直是美国的政策，阿尔·戈尔是其坚决拥护者。布什对萨达姆的个人恩怨以及共和党要求他完成其父亲开创的事业的压力导致了伊拉克战争。萨达姆坚信美国不会入侵，直到为时已晚，最终导致了他的垮台。]]></description>
-      <guid>https://t.me/hn_summary/77363</guid>
-      <pubDate>Sun, 03 Mar 2024 17:50:39 GMT</pubDate>
+      <title>[媒体]Meticulous 首席执行官 Gabriel 介绍了他们创建和维护 e2e 测试的工具 [...]</title>
+      <link>https://t.me/hn_summary/77391</link>
+      <description><![CDATA[Meticulous (YC S21) 正在招聘以消除 UI E2E 测试
+Meticulous 首席执行官 Gabriel 介绍了他们的工具，该工具可以为 Web 应用程序创建和维护 e2e 测试，无需开发人员干预，从而消除了不稳定的测试。该工具记录真实的用户会话以生成全面的测试套件，捕获 UI 错误和回归。该团队拥有顶级科技公司的经验，正在聘请一名创始工程师来塑造公司，并致力于构建一个用于重播会话的分布式系统。他们寻求技术精湛、具有 5 年以上经验、注重透明度和持续改进的协作型人才。 Meticulous 旨在彻底改变软件开发，正在寻找充满激情的工程师加入他们的团队。]]></description>
+      <guid>https://t.me/hn_summary/77391</guid>
+      <pubDate>Sun, 03 Mar 2024 21:04:11 GMT</pubDate>
     </item>
     <item>
-      <title>在一个充满营销、招揽、广告和政治接触的世界中，负担 [...]</title>
-      <link>https://t.me/hn_summary/77362</link>
-      <description><![CDATA[我将继续选择退出
-在一个充满营销、招揽、广告和政治接触的世界中，选择退出的负担落在了个人身上。从电子邮件营销活动到直邮邮件，持续不断的沟通可能会让人感到不知所措。作者对不得不不断选择退出不需要的消息表示沮丧，并呼吁转向选择加入系统。他们拒绝参与那些坚持要求他们关注的公司或活动，而宁愿只把时间花在他们真正关心的事情上。尽管过程很费力，作者发誓仍会继续选择退出，希望创造一个更加尊重和更少侵入的数字环境。]]></description>
-      <guid>https://t.me/hn_summary/77362</guid>
-      <pubDate>Sun, 03 Mar 2024 17:49:35 GMT</pubDate>
+      <title>[媒体]苹果秘密的 Project Titan，即传闻已久的无人驾驶汽车项目，已经停止 [...]</title>
+      <link>https://t.me/hn_summary/77390</link>
+      <description><![CDATA[泰坦的崩溃：苹果注定失败的汽车项目的简史&lt; /a&gt;
+苹果秘密的“泰坦计划”（Project Titan）是传闻已久的无人驾驶汽车项目，经过近十年的猜测和期待，现已正式关闭。尽管最初令人兴奋并抱有很高的期望，但苹果进军汽车行业面临着无数的挑战和挫折，导致该项目最终失败。从高调的招聘到与汽车制造商失败的合作，Apple Car 的历程是一个关于野心和局限性的警示故事。随着公司将重点转向自动驾驶系统和软件，苹果汽车野心的未来仍然不确定。苹果汽车项目的兴衰提醒我们，即使是世界上最有价值的公司也无法包揽一切。 （根据 95% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/77390</guid>
+      <pubDate>Sun, 03 Mar 2024 21:01:07 GMT</pubDate>
     </item>
     <item>
-      <title>由于 Kraken X53 无法 [...]</title>
-      <link>https://t.me/hn_summary/77361</link>
-      <description><![CDATA[使用 Python 和 Grafana 实现更好的 PC 散热
-由于 Kraken X53 无法根据液体温度控制风扇，升级到 Ryzen 5950X 会导致风扇速度不稳定并产生噪音。为了解决这个问题，编写了一个 Python 脚本来根据 CPU 和液体温度控制风扇和泵的速度，利用液体的热质量实现更平稳的冷却。通过与 sysfs 和 lm-sensors 连接，该脚本成功控制了风扇速度和温度。控制环路读取温度并调整泵、机箱风扇和散热器风扇的 PWM 负载。这种创新的解决方案可减少噪音、灰尘和潜在的节流，从而提高 PC 冷却效率。 （根据 47% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/77361</guid>
-      <pubDate>Sun, 03 Mar 2024 17:48:29 GMT</pubDate>
+      <title>[媒体]开源爱好者的激动人心的消息！</title>
+      <link>https://t.me/hn_summary/77389</link>
+      <description><![CDATA[2024 年 Google 编程之夏组织揭晓
+对于开源爱好者来说，这是一个令人兴奋的消息！ 2024 年 Google 编程之夏组织已经宣布，为新贡献者深入研究软件开发提供了独特的机会。参与者将与导师合作完成一个为期 12 周以上的项目，获得宝贵的经验并在开源社区中产生真正的影响。这个全球计划是在编码世界中学习和成长的绝佳方式。准备好加入才华横溢的 GSoC 贡献者行列，在技术的未来留下自己的印记。]]></description>
+      <guid>https://t.me/hn_summary/77389</guid>
+      <pubDate>Sun, 03 Mar 2024 20:57:01 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]中国犯罪团伙一直在美国各地建立非法杂草农场，挑战墨西哥 [...]</title>
-      <link>https://t.me/hn_summary/77360</link>
-      <description><![CDATA[中国犯罪团伙是美国各地非法杂草农场的幕后黑手 
-中国犯罪团伙一直在美国各地建立非法杂草农场，挑战墨西哥卡特尔对大麻市场的控制权。俄克拉荷马州、俄勒冈州、加利福尼亚州、新墨西哥州和缅因州等州的中国经营活动激增，其中一些与被称为“三合会”的犯罪集团有关。这些农场的蔓延难以遏制，逮捕和抓获事件变得越来越频繁。中国移民被以虚假借口引诱在这些农场长时间工作，利润可能会回流到中国。由于产品中发现有害化学物质，“三联杂草”的渗透引起了合法杂草行业的关注。]]></description>
-      <guid>https://t.me/hn_summary/77360</guid>
-      <pubDate>Sun, 03 Mar 2024 17:47:25 GMT</pubDate>
+      <title>[媒体]牛津大学的科学家们发现，物理学的基本原理表明，就像[...]</title>
+      <link>https://t.me/hn_summary/77388</link>
+      <description><![CDATA[牛津科学家称物理学的基本原理是错误的 
+牛津大学的科学家发现，同性电荷相斥、异性电荷相吸的物理学基本原理可能并不总是成立。通过研究，他们发现溶液中带负电的二氧化硅微粒实际上可以相互吸引，形成六边形排列的簇。这一令人惊讶的发现挑战了长期以来的信念，并可能改变科学家理解药物稳定性和疾病发展等过程的方式。研究还表明，所用溶剂的类型会影响带电粒子之间的相互作用，水会导致带负电粒子之间的吸引力，而酒精会导致带正电粒子之间的吸引力。]]></description>
+      <guid>https://t.me/hn_summary/77388</guid>
+      <pubDate>Sun, 03 Mar 2024 20:55:58 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] REST 是如何变得与 REST 相反的？</title>
-      <link>https://t.me/hn_summary/77359</link>
-      <description><![CDATA[REST 如何变得与 REST 相反？ （2022）
-在这篇文章中，Carson Gross 探讨了科技行业对 REST 一词的误解，强调了真正的 RESTful API 和 RPC 风格的 API 之间的混淆。他深入研究了 REST 的历史，强调了 Roy Fielding 的原始定义以及超文本作为约束的重要性。 Gross 将体现 REST 原则的 HTML 响应与不足的 JSON 响应进行了对比。他幽默地解释了行业如何转向将非 RESTful API 称为 RESTful，追踪从 XML-RPC 到 JSON 的演变以及 Richardson 成熟度模型的采用。最终，他主张回归真正的 REST 原则。 （根据故事文本的 59% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/77359</guid>
-      <pubDate>Sun, 03 Mar 2024 17:43:19 GMT</pubDate>
+      <title>[媒体] USB in a NutShell 是了解美国复杂性的综合指南 [...]</title>
+      <link>https://t.me/hn_summary/77387</link>
+      <description><![CDATA[USB 简述
+USB in a NutShell 是一本全面的指南，帮助您了解 USB 标准的复杂性，由于其大量文档，该标准可能会让人不知所措。作者对 USB 2.0 规范的关键章节进行了分解，重点介绍了与不同类型的开发人员最相关的部分。该标准涵盖数据流、电气信号、协议层和设备框架等各个方面。作者还讨论了 USB 速度的演变、总线拓扑的局限性以及主机控制器的作用。此外，本文还介绍了 USB 的独特功能，例如即插即用功能和动态可加载驱动程序。 （根据 98% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/77387</guid>
+      <pubDate>Sun, 03 Mar 2024 20:54:55 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 伦敦一家招聘机构的董事 George Ralph Dunn 分享了对 [...]</title>
-      <link>https://t.me/hn_summary/77358</link>
-      <description><![CDATA[为亿万富翁的家配备员工是什么感觉 
-伦敦一家招聘机构的董事乔治·拉尔夫·邓恩 (George Ralph Dunn) 分享了为亿万富翁（即所谓的“校长”）家庭配备人员的见解。从专为杜宾犬聘请厨师到为私人岛屿上的奢华派对配备人员，邓恩谨慎地驾驭着这个秘密行业。他讨论了避免不良雇主、在极端财富中保持观点以及将候选人的个性与校长相匹配。该行业的繁荣和差距可能令人不安，但邓恩强调为员工提供良好收入的重要性。邓恩注重声誉和客户满意度，揭示了超级富豪的幕后世界。 （根据故事文本的 73% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/77358</guid>
-      <pubDate>Sun, 03 Mar 2024 17:29:11 GMT</pubDate>
+      <title>[媒体]美国</title>
+      <link>https://t.me/hn_summary/77386</link>
+      <description><![CDATA[美国寻求在日本、韩国的帮助下重振闲置造船厂
+为了与中国快速增长的海军造船业竞争，美国正在日本和韩国的帮助下寻求重振闲置的造船厂。美国海军部长卡洛斯·德尔·托罗最近访问了两国的造船厂，提议开展合作，让休眠的美国造船厂重新焕发活力。这一合作伙伴关系旨在利用亚洲资本、工程师和造船专业知识来支持美国海军工业。这一备受争议的举动凸显了海军建设领域日益激烈的竞争，而国家间的合作则是振兴美国造船厂的独特途径。]]></description>
+      <guid>https://t.me/hn_summary/77386</guid>
+      <pubDate>Sun, 03 Mar 2024 20:49:50 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在关于用 Rust 编写在 user-spa 中运行的 Linux 调度程序系列的第 2 部分中 [...]</title>
-      <link>https://t.me/hn_summary/77357</link>
-      <description><![CDATA[用 Rust 编写一个在用户空间运行的 Linux 调度程序 (第 2 部分）
-在关于用 Rust 编写在用户空间中运行的 Linux 调度程序系列的第 2 部分中，作者深入研究了使用 Rust 创建一个通用框架来在用户空间中实现调度策略的可能性。通过将 Rust 和 eBPF 代码之间的低级通信抽象到一个单独的 crate 中，开发人员可以专注于制定调度策略，而无需处理复杂的内核细节。作者介绍了 scx_rustland_core crate，它简化了 Linux 调度程序的实现。这篇文章还包括有关 crate 提供的 API 的详细信息以及一个名为 scx_rlfifo 的新 Rust 调度程序的实际示例。 scx_rustland 代码的重构产生了更紧凑、更高效的调度程序。 （根据 69% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/77357</guid>
-      <pubDate>Sun, 03 Mar 2024 17:24:06 GMT</pubDate>
+      <title>[媒体] Organic Maps 是一款免费的 Android 和 iOS 离线地图应用程序，使用 OpenStreetMap 开发 [...]</title>
+      <link>https://t.me/hn_summary/77385</link>
+      <description><![CDATA[有机地图是一款为旅行者提供的免费 Android 和 iOS 离线地图应用&lt; /a&gt;
+Organic Maps 是一款使用 OpenStreetMap 数据开发的免费 Android 和 iOS 离线地图应用程序，注重隐私、节省电池且不收取数据费用。它提供详细的地图、自行车和徒步旅行路线、海拔剖面图和语音导航。该项目是社区驱动的、无广告的、开源的，并有捐款支持开发。该应用程序尊重隐私，不跟踪或收集数据，并且没有广告或烦人的功能。该项目由捐款和赠款资助，重点关注隐私和自由。用户无需编码技能即可做出贡献。该项目根据 Apache 许可证获得许可，并遵循 CNCF 行为准则。]]></description>
+      <guid>https://t.me/hn_summary/77385</guid>
+      <pubDate>Sun, 03 Mar 2024 20:48:46 GMT</pubDate>
     </item>
     <item>
-      <title>汽车和房屋的保险费用都在上涨，让许多消费者感到手头拮据。</title>
-      <link>https://t.me/hn_summary/77356</link>
-      <description><![CDATA[一切都在以惊人的速度上涨：为什么汽车、房屋保险费用昂贵风起云涌
-汽车和房屋的保险费用都在上涨，让许多消费者感到手头拮据。房主埃兹拉·克罗夫特 (Ezra Croft) 的保费上涨了 700 美元，而尽管在家工作，保罗·莫罗 (Paul Morro) 的汽车保险费用却增加了 600 美元。保险公司将这一激增归因于通货膨胀、维修成本上升以及自然灾害的增加。虽然一些消费者能够通过更换运营商来省钱，但许多消费者别无选择，只能支付更高的保费。随着费用持续攀升，一些人正在考虑缩小保险范围或不购买保险，这给个人和社区带来风险。]]></description>
-      <guid>https://t.me/hn_summary/77356</guid>
-      <pubDate>Sun, 03 Mar 2024 17:23:02 GMT</pubDate>
+      <title>[媒体]Mike Bostock 推出 Observable Framework 2.0 作为数据 p 的静态站点生成器 [...]</title>
+      <link>https://t.me/hn_summary/77384</link>
+      <description><![CDATA[Observable 框架中的有趣想法
+Mike Bostock 引入了 Observable Framework 2.0 作为数据项目、仪表板和报告的静态站点生成器。该框架允许将 JavaScript 无缝集成到 Markdown 中，从而创建具有反应性的交互式文档。显着的功能包括代码延迟加载、构建时缓存数据以及用于快速加载的数据加载机制。 Observable Framework 简化了文件格式，使其可以在任何文本编辑器和开源中进行编辑。与 Observable Notebooks 的比较突出了语言、反应性和文件格式复杂性方面的差异。这一创新框架为构建快速、交互式数据应用程序提供了强大的工具。 （根据 89% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/77384</guid>
+      <pubDate>Sun, 03 Mar 2024 20:41:41 GMT</pubDate>
     </item>
     </channel>
 </rss>

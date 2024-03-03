@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 03 Mar 2024 18:13:48 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 03 Mar 2024 21:10:52 GMT</lastBuildDate>
+    <item>
+      <title>除了想要获得信用之外，还有什么理由比 MIT-0 和 BSD0 更喜欢 MIT 和 BSD 2-Clause 许可证吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1b5oeq4/is_there_any_reason_besides_a_desire_for_credit/</link>
+      <description><![CDATA[标准 MIT（又名 X11）许可证要求在任何衍生产品中包含此许可证的副本。  &lt; p&gt;上述版权声明和本许可声明应包含在软件的所有副本或主要部分中。  与 BSD0 几乎相同。 MIT- 0 和 BSD0 （遗憾的是他们没有将其称为 BSD-0） 是排除此要求的这些许可证的版本。 是否有理由保留此要求？使用以前的许可证而不是公共领域的等效许可证，而不是希望合法地要求衍生作品的开发商提供信用？或者是否有法律原因说明常规 MIT 和 BSD 2-Clause 更好？   由   提交/u/Qwert-4  /u/Qwert-4  reddit.com/r/opensource/comments/1b5oeq4/is_there_any_reason_besides_a_desire_for_credit/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1b5oeq4/is_there_any_reason_besides_a_desire_for_credit/</guid>
+      <pubDate>Sun, 03 Mar 2024 18:41:44 GMT</pubDate>
+    </item>
     <item>
       <title>寻找高质量的语音克隆</title>
       <link>https://www.reddit.com/r/opensource/comments/1b5jnkj/looking_for_highquality_voice_cloning/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[       由   提交 /u/sanderspedro   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1b43fou/last_year_i_spent_28_days_building_goodtok_and/</guid>
       <pubDate>Fri, 01 Mar 2024 19:43:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>建立优秀开源社区的技巧</title>
-      <link>https://www.reddit.com/r/opensource/comments/1b41mf0/tips_on_building_a_great_open_source_community/</link>
-      <description><![CDATA[我正在寻求有关为我即将发布的开发人员工具构建杀手级开源社区的建议。 &lt;最初该项目是闭源的，但通过大量的用户访谈，我们发现人们确实希望在自己的云中部署该工具并添加修改。我对这种枢轴有强烈的感觉，但我没有任何创建开源社区的经验。您建议我如何在不发送垃圾邮件的情况下传播人们对我正在构建的工具的认识？  任何建议、技巧或文章都会非常有帮助！    由   提交/u/Ok_Post_149   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1b41mf0/tips_on_building_a_great_open_source_community/</guid>
-      <pubDate>Fri, 01 Mar 2024 18:30:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
