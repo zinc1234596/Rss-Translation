@@ -4,13 +4,55 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Sun, 03 Mar 2024 03:11:30 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 03 Mar 2024 09:11:45 GMT</lastBuildDate>
     <item>
-      <title>从仅在 C++ 中的 imgui 模块为 python 创建 python 绑定</title>
-      <link>https://www.reddit.com/r/programming/comments/1b536cx/creating_python_bindings_for_python_from_a_imgui/</link>
-      <description><![CDATA[ 由   提交/u/brennancurrier  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b536cx/creating_python_bindings_for_python_from_a_imgui/</guid>
-      <pubDate>Sun, 03 Mar 2024 00:14:45 GMT</pubDate>
+      <title>（甚至更多）您应该尝试的具有挑战性的编程项目</title>
+      <link>https://www.reddit.com/r/programming/comments/1b5cse0/even_more_challenging_programming_projects_you/</link>
+      <description><![CDATA[ 由   提交/u/payopt  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b5cse0/even_more_challenging_programming_projects_you/</guid>
+      <pubDate>Sun, 03 Mar 2024 09:00:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>价值 1.52 万亿美元的隐形问题：笨重的旧软件</title>
+      <link>https://www.reddit.com/r/programming/comments/1b5c762/the_invisible_152_trillion_problem_clunky_old/</link>
+      <description><![CDATA[我们是怎么到这里的？   由   提交 /u/Amichayg   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b5c762/the_invisible_152_trillion_problem_clunky_old/</guid>
+      <pubDate>Sun, 03 Mar 2024 08:21:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>白宫敦促开发人员放弃 C 和 C++</title>
+      <link>https://www.reddit.com/r/programming/comments/1b5bgeu/white_house_urges_developers_to_dump_c_and_c/</link>
+      <description><![CDATA[ 由   提交/u/paclogic  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b5bgeu/white_house_urges_developers_to_dump_c_and_c/</guid>
+      <pubDate>Sun, 03 Mar 2024 07:33:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>位图类和处理位图的步骤，以便可以处理 Action Script 3 编程</title>
+      <link>https://www.reddit.com/r/programming/comments/1b5bbgw/bitmap_class_and_steps_for_dealing_with_bitmaps/</link>
+      <description><![CDATA[ 由   提交/u/ah2000ha  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b5bbgw/bitmap_class_and_steps_for_dealing_with_bitmaps/</guid>
+      <pubDate>Sun, 03 Mar 2024 07:24:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>我构建了自己的 MFA TOTP 生成器</title>
+      <link>https://www.reddit.com/r/programming/comments/1b59j6w/i_built_my_own_mfa_totp_generator/</link>
+      <description><![CDATA[大家好，我想与大家分享我的个人项目。它是 ESP32 的 mfa totp 生成器。所有细节和促使我这样做的动机都在自述文件中。我希望这可以帮助改善其他人的 MFA 体验。谢谢。   由   提交/u/Positive_Method3022   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b59j6w/i_built_my_own_mfa_totp_generator/</guid>
+      <pubDate>Sun, 03 Mar 2024 05:36:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Go 中的 10 亿行挑战：九种解决方案从 1 分 45 秒到 4 秒</title>
+      <link>https://www.reddit.com/r/programming/comments/1b59eri/the_one_billion_row_challenge_in_go_from_1m45s_to/</link>
+      <description><![CDATA[ 由   提交 /u/avinassh   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b59eri/the_one_billion_row_challenge_in_go_from_1m45s_to/</guid>
+      <pubDate>Sun, 03 Mar 2024 05:29:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>第一个事务 — Etsy 提出的 SQL 问题</title>
+      <link>https://www.reddit.com/r/programming/comments/1b59dh4/first_transaction_sql_question_asked_by_etsy/</link>
+      <description><![CDATA[ 由   提交/u/Educational-Ad2036   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b59dh4/first_transaction_sql_question_asked_by_etsy/</guid>
+      <pubDate>Sun, 03 Mar 2024 05:26:55 GMT</pubDate>
     </item>
     <item>
       <title>PL/SQL 中的光标及其示例</title>
@@ -67,48 +109,6 @@
       <description><![CDATA[ 由   提交/u/samuellawrentz  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1b4tdfp/10_short_commandments_of_software_development/</guid>
       <pubDate>Sat, 02 Mar 2024 17:19:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>具有 Spring Cloud Gateway、OAuth2 和 Keycloak 的微服务</title>
-      <link>https://www.reddit.com/r/programming/comments/1b4rpqp/microservices_with_spring_cloud_gateway_oauth2/</link>
-      <description><![CDATA[ 由   提交/u/pmz  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b4rpqp/microservices_with_spring_cloud_gateway_oauth2/</guid>
-      <pubDate>Sat, 02 Mar 2024 16:08:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nevalang：一种基于流程的编程语言</title>
-      <link>https://www.reddit.com/r/programming/comments/1b4penv/nevalang_a_flowbased_programming_language/</link>
-      <description><![CDATA[ 由   提交 /u/urlaklbek   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b4penv/nevalang_a_flowbased_programming_language/</guid>
-      <pubDate>Sat, 02 Mar 2024 14:23:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>ChromaPalette - VSCode 版本 0.0.8 焕然一新</title>
-      <link>https://www.reddit.com/r/programming/comments/1b4p6lm/chromapalette_vscode_version_008_totaly_a_new_look/</link>
-      <description><![CDATA[ 由   提交/u/Charming-Treacle-726   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b4p6lm/chromapalette_vscode_version_008_totaly_a_new_look/</guid>
-      <pubDate>Sat, 02 Mar 2024 14:12:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>JSR 简介 - JavaScript 注册表</title>
-      <link>https://www.reddit.com/r/programming/comments/1b4nzvg/introducing_jsr_the_javascript_registry/</link>
-      <description><![CDATA[ 由   提交/u/m_hans_223344  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b4nzvg/introducing_jsr_the_javascript_registry/</guid>
-      <pubDate>Sat, 02 Mar 2024 13:13:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>AsciiDoc - 新的 Markdown 替代方案</title>
-      <link>https://www.reddit.com/r/programming/comments/1b4m42e/asciidoc_new_markdown_alternative/</link>
-      <description><![CDATA[ 由   提交/u/Hamza12700  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b4m42e/asciidoc_new_markdown_alternative/</guid>
-      <pubDate>Sat, 02 Mar 2024 11:23:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>FileQL 0.2.0 支持在查询中选择 is_file 或 dir</title>
-      <link>https://www.reddit.com/r/programming/comments/1b4lvrt/fileql_020_supports_selecting_is_file_or_dir_in/</link>
-      <description><![CDATA[ 由   提交 /u/AmrDeveloper   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b4lvrt/fileql_020_supports_selecting_is_file_or_dir_in/</guid>
-      <pubDate>Sat, 02 Mar 2024 11:08:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
