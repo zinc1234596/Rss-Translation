@@ -4,7 +4,7 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Sun, 03 Mar 2024 12:18:13 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 03 Mar 2024 15:10:03 GMT</lastBuildDate>
     <item>
       <title>搞笑且实际相关的编辑模因</title>
       <link>https://www.reddit.com/r/editors/comments/1b59o1p/hilarious_and_actually_relatable_editor_memes/</link>
@@ -57,7 +57,7 @@
     <item>
       <title>在 Resolve 中将立体声 wav 导出为单独的左右通道</title>
       <link>https://www.reddit.com/r/editors/comments/1b4mnzr/exporting_stereo_wav_as_separate_left_and_right/</link>
-      <description><![CDATA[我正在向发行商交付我的第一部微预算故事片。不用说，我正在边走边学。为了控制质量，他们要求音频是左右两个独立的轨道。Resolve 中时间轴上的音轨只是一个立体声 wav。我如何将其导出到 L 和 R 中，保持 L 和 R 混合中的细微差别，而不是简单地在 L 和 R 通道中使用碳警察？非常感谢帮助！谢谢。 Da Vinci Resolve 17，CPU 未知，RAM 32 GB   由   提交 /u/Laoisless   [链接] [评论]]]></description>
+      <description><![CDATA[我正在向发行商交付我的第一部微预算故事片。不用说，我正在边走边学。为了质量控制，他们要求音频是左右两个独立的轨道。Resolve 中时间轴上的音轨只是一个立体声 wav。我如何将其导出到 L 和 R 中，保持 L 和 R 混合中的细微差别，而不是简单地在 L 和 R 通道中使用碳警察？非常感谢帮助！谢谢。 Da Vinci Resolve 17，CPU 未知，RAM 32 GB   由   提交 /u/Laoisless   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1b4mnzr/exporting_stereo_wav_as_separate_left_and_right/</guid>
       <pubDate>Sat, 02 Mar 2024 11:58:25 GMT</pubDate>
     </item>
