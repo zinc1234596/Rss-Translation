@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Mon, 04 Mar 2024 10:51:27 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 Mar 2024 12:24:44 GMT</lastBuildDate>
+    <item>
+      <title>交互式实时文本到我的网站</title>
+      <link>https://www.reddit.com/r/software/comments/1b68o6i/interactive_live_text_to_my_website/</link>
+      <description><![CDATA[您好， 我有一个网站，想要从另一个网站复制实时文本。有没有任何应用程序或方法可以做到这一点？ 示例：世界上有 75 亿人。 我想复制上面的句子。但我想复制交互式文本。因此，如果原文作者将其更改为 80 亿，我希望文本自动更改。 欢迎任何提示！ 亲切的问候， 乔，荷兰   由   提交/u/jannetje10   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1b68o6i/interactive_live_text_to_my_website/</guid>
+      <pubDate>Mon, 04 Mar 2024 11:28:16 GMT</pubDate>
+    </item>
     <item>
       <title>Jitbit 宏录制器</title>
       <link>https://www.reddit.com/r/software/comments/1b66bbw/jitbit_macro_recorder/</link>
@@ -36,7 +43,7 @@
     <item>
       <title>Windows 保存旧帐户用户名的问题</title>
       <link>https://www.reddit.com/r/software/comments/1b5zpp7/issue_with_windows_saving_old_account_usernames/</link>
-      <description><![CDATA[嗨！我是一名跨性别者，早在我改名之前就已经使用我的电脑了。大多数情况下，这不是问题，因为在大多数地方，名称/帐户/任何内容都很容易更改，但我最近使用了任务调度程序和任务调度程序。当它最后要求我使用我的用户名和密码登录时，它显示了一大堆用户名，包括包含我的死名的用户名。它们没有在其他标准 Windows 事物和应用程序中列为帐户。我想知道如果可以的话如何删除它们。    由   提交 /u/Us3rN4m3T4k3nIsTaken   [链接] [评论]]]></description>
+      <description><![CDATA[嗨！我是一名跨性别者，早在我改名之前就已经使用我的电脑了。大多数情况下，这不是问题，因为在大多数地方，名称/帐户/任何内容都很容易更改，但我最近使用了任务计划程序和任务计划程序。当它最后要求我使用我的用户名和密码登录时，它显示了一大堆用户名，包括包含我的死名的用户名。它们没有在其他标准 Windows 事物和应用程序中列为帐户。我想知道如果可以的话如何删除它们。    由   提交 /u/Us3rN4m3T4k3nIsTaken   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1b5zpp7/issue_with_windows_saving_old_account_usernames/</guid>
       <pubDate>Mon, 04 Mar 2024 02:38:42 GMT</pubDate>
     </item>
@@ -85,7 +92,7 @@
     <item>
       <title>超时后锁定应用程序？</title>
       <link>https://www.reddit.com/r/software/comments/1b5o44l/lock_apps_after_a_timeout_period/</link>
-      <description><![CDATA[嘿，我正在寻找一款可以在一定时间后锁定应用程序（特别是不和谐）的软件，并且需要 PIN/密码访问。我喜欢我的电脑始终打开，因为我有一些脚本会将弹出窗口放在屏幕前面，以提醒我某些事情（例如待办事项列表，或一般心理健康相关的东西，但这意味着不和谐的通知当我不在家时弹出，任何人都可以阅读它们，这不是一个大问题，但我只是不喜欢这样...... 我见过一些东西可以将其锁定直到打开，但据我所知，他们不会在一段时间后自行锁定它，这正是我想要的。有类似的事情吗？ &lt;!-- SC_ON - -&gt;   提交者   /u/Serenity_557   [链接] [评论]]]></description>
+      <description><![CDATA[嘿，我正在寻找一款可以在一定时间后锁定应用程序（特别是不和谐）的软件，并且需要 PIN/密码访问。我喜欢我的电脑始终打开，因为我有一些脚本会在屏幕前面弹出窗口来提醒我某些事情（例如待办事项列表，或一般心理健康相关的东西，但这意味着不和谐的通知当我不在家时弹出，任何人都可以阅读它们，这不是一个大问题，但我只是不喜欢这样...... 我见过一些东西可以将其锁定直到打开，但据我所知，他们不会在一段时间后自行锁定它，这正是我想要的。有类似的事情吗？ &lt;!-- SC_ON - -&gt;   提交者   /u/Serenity_557   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1b5o44l/lock_apps_after_a_timeout_period/</guid>
       <pubDate>Sun, 03 Mar 2024 18:29:52 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[我需要一个可以在我的游戏上显示多个图片的程序，它不支持 Playstation 按钮图标，所以我只想能够叠加他们在游戏中处于领先地位，今天就到此为止。请提供任何帮助。   由   提交 /u/TidusBestia   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1b5hsob/display_overlaay_for_games/</guid>
       <pubDate>Sun, 03 Mar 2024 13:59:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>电子邮件客户端</title>
-      <link>https://www.reddit.com/r/software/comments/1b5h249/email_client/</link>
-      <description><![CDATA[专家您好！我很好奇这里是否有人使用过或正在使用 Titan 的电子邮件客户端和服务。根据该网站，价格为 1.99 美元。 我正在寻找一款可以在任何地方（本地 PC 和手机）使用的电子邮件客户端，这样我就可以摆脱 Gmail、Outlook 和 Yahoo个人电子邮件。这些帐户上的垃圾邮件数量超乎想象。 提前致谢！ ​ ​ &lt; /div&gt;  由   提交/u/RoadRider65  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1b5h249/email_client/</guid>
-      <pubDate>Sun, 03 Mar 2024 13:22:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
