@@ -4,7 +4,28 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 04 Mar 2024 12:25:12 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 Mar 2024 15:13:06 GMT</lastBuildDate>
+    <item>
+      <title>支付维护人员费用是件好事</title>
+      <link>https://www.reddit.com/r/opensource/comments/1b6d5ki/paying_maintainers_is_good/</link>
+      <description><![CDATA[     &lt; td&gt; 由   提交/u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1b6d5ki/paying_maintainers_is_good/</guid>
+      <pubDate>Mon, 04 Mar 2024 15:07:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>安装 Windows 后您要做的第一件事是什么？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1b6bikp/what_are_the_first_things_you_do_after_installing/</link>
+      <description><![CDATA[大家好，我目前正在开发一个开源程序，该程序可以自动执行标准 Windows OOBE 不允许我们个性化/执行的许多任务，如 Debloating、禁用（真正的）数据收集和遥测、安装所有第 3 方程序、驱动程序等。 我想知道我还可以将哪些内容集成到我的程序中，所以我问你，安装 Windows 后你要做的第一件事是什么？ （除了基准测试和安装 chrome）。我没有提到的书呆子技术和简单任务都值得赞赏。 感谢您的时间。   由   提交 /u/Flick9000   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1b6bikp/what_are_the_first_things_you_do_after_installing/</guid>
+      <pubDate>Mon, 04 Mar 2024 13:58:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找具有特定功能的书签管理器</title>
+      <link>https://www.reddit.com/r/opensource/comments/1b6alys/looking_for_bookmark_manager_with_specific/</link>
+      <description><![CDATA[长期以来，我一直在努力整理我的书签，我认为必须有一个解决方案。  我正在寻找一种根据标签对书签进行排序的方法，但更具体地说，能够选择多个标签并仅查看与每个选定标签匹配的项目。  例如，如果我有 3 个书签，其中一个标记为“汽车”，其中一个书签为“汽车”。一个标有“自行车”的以及一张标有“汽车、自行车”的标签我想要搜索包含汽车和汽车的页面的选项自行车，并且只显示第三个站点。我希望拥有一个大型标签库，因此能够查看所有书签中找到的所有标签的列表对我来说也很重要。  在完美的世界中，将会有一个带有复选框的列表，我可以单击或关闭这些复选框，并且可以单击“任何这些标签”。 /“所有这些标签”选项，但这不是必需的，只是一个很好的选择。  我用过 Edge、Chrome 和 Firefox，虽然它们都有一些有趣的书签相关功能，但它们都没有真正提供我一直向往的功能。我目前同时使用 Edge 和 Firefox，如果正确的扩展或应用程序只能在其他地方使用，我愿意更换浏览器。  提前感谢您的任何建议！   由   提交/u/BadAdviceBison  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1b6alys/looking_for_bookmark_manager_with_specific/</guid>
+      <pubDate>Mon, 04 Mar 2024 13:14:26 GMT</pubDate>
+    </item>
     <item>
       <title>开源跨平台渲染框架</title>
       <link>https://www.reddit.com/r/opensource/comments/1b673ly/open_source_crossplatform_rendering_framework/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[Nahimic 功能的替代方案 - 扬声器  虚拟环绕声 音量稳定器 夜间模式 带夜间模式的声音稳定器 声音跟踪器 - 可视化声音方向 耳机环绕声&lt; /li&gt; 带配置文件和智能配置文件的 EQ  麦克风  静态噪声悬浮 回声消除 横向降噪 语音稳定器 声音稳定 会议和聊天模式  ​   声音共享 - 连接 2 个设备 音轨 - 可视化声音方向  ​  适用于 Windows、Linux、macOS 如果不是免费的话，最好是 FOSS  ​ 功能 https://steelseries.com/blog/nahimic-vs -sonar-which-audio-software-should-you-pick-980 Nahimic https://www.msi.com/Landing/Nahimic https://steelseries .com/nahimic https://apps.microsoft.com/detail/9n36ppmp8s23 声纳 https://steelseries.com/gg/sonar/download  https://nl.steelseries.com/gg/sonar   由   提交 /u/RedditNoobie777   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1b4veox/stealseries_nahimicsonar_alternative/</guid>
       <pubDate>Sat, 02 Mar 2024 18:44:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google Summer of Code 组织宣布成立 20 周年！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1b4sxg6/google_summer_of_code_orgs_announced_20th/</link>
-      <description><![CDATA[ 由   提交/u/brlcad   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1b4sxg6/google_summer_of_code_orgs_announced_20th/</guid>
-      <pubDate>Sat, 02 Mar 2024 17:00:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>我可以向 GSoC 中的多个组织提交申请吗？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1b4qp19/can_i_submit_application_into_multiple/</link>
-      <description><![CDATA[问题2.我还可以向同一组织提交多个申请（针对不同的项目）吗？   由   提交 /u/PandeyyJi   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1b4qp19/can_i_submit_application_into_multiple/</guid>
-      <pubDate>Sat, 02 Mar 2024 15:23:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Fluent Emoji：动画版本是否包含在开源中？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1b4dnq4/microsoft_fluent_emoji_are_the_animated_versions/</link>
-      <description><![CDATA[您好，我知道开源 Fluent Emoji 存在某些例外情况（clippy、世界国旗、某些使用 Microsoft 品牌的表情符号等），但是我很好奇 3D 动画版本是否也是开源的？ 3D 动画版本参考此处。我不相信这些在原始的 MSFT GitHub 存储库中，但它们列在 Emojipedia 上，所以我只想确认一下。谢谢！   由   提交 /u/SkinADeer   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1b4dnq4/microsoft_fluent_emoji_are_the_animated_versions/</guid>
-      <pubDate>Sat, 02 Mar 2024 02:54:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
