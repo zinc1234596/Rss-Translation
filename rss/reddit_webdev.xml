@@ -4,7 +4,35 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 05 Mar 2024 09:11:40 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 Mar 2024 12:19:57 GMT</lastBuildDate>
+    <item>
+      <title>建立餐厅网站的最佳平台？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b73rqa/best_platform_for_building_a_restaurant_website/</link>
+      <description><![CDATA[大家好！我希望为我的快餐店建立一个网站，主要用于显示菜单，并有可能在线订购。由于我很少更新菜单，我试图避免按月订阅，但我知道这几乎是不可能的。有什么推荐的最好的在线订购平台，无需支付高额月费吗？谢谢你们！   由   提交/u/23AndyRT  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b73rqa/best_platform_for_building_a_restaurant_website/</guid>
+      <pubDate>Tue, 05 Mar 2024 12:13:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何在网络上创建这样的 3D 建模器？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b723vr/how_to_create_such_3d_modeller_in_the_web/</link>
+      <description><![CDATA[嘿，我环顾四周发现了这个。如何制作这样的东西？我相信应该使用诸如 Three.js 之类的东西，但除此之外，您还需要什么？也许已经有某种类型的库可以用于此目的。是否需要为此事先制作所有资源，某种模型等？ https:// kampu.lt/item/?aryid=6554   由   提交 /u/MythicalTV   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b723vr/how_to_create_such_3d_modeller_in_the_web/</guid>
+      <pubDate>Tue, 05 Mar 2024 10:28:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>何时以及如何在抽象类 (PHP) 中使用构造函数</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b722dp/when_and_how_to_use_constructors_in_abstract/</link>
+      <description><![CDATA[       由   提交/u/RichardMendes90  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b722dp/when_and_how_to_use_constructors_in_abstract/</guid>
+      <pubDate>Tue, 05 Mar 2024 10:26:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>我还能如何将我的项目列入简历？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b71k3x/how_else_can_i_put_my_projects_on_cv/</link>
+      <description><![CDATA[无法将它们发布到 github 上，这让我发疯，我还能如何发布它们？   由   提交/u/jason82829  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b71k3x/how_else_can_i_put_my_projects_on_cv/</guid>
+      <pubDate>Tue, 05 Mar 2024 09:51:51 GMT</pubDate>
+    </item>
     <item>
       <title>Cloudflare Workers/功能定价？</title>
       <link>https://www.reddit.com/r/webdev/comments/1b70kua/cloudflare_workers_functions_pricing/</link>
@@ -20,13 +48,6 @@
       <pubDate>Tue, 05 Mar 2024 08:13:40 GMT</pubDate>
     </item>
     <item>
-      <title>WebDevDaily.io 是浪费时间</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b7002w/webdevdailyio_is_a_waste_of_time/</link>
-      <description><![CDATA[老实说，这几乎是一个骗局。它最初是一个 100 天的挑战。为了保持这一势头，你必须每天编写一个项目。来自网站的此链接（！）对此进行了解释： https://www.webdevdaily.io/100-days- of-code 我继续进行了 66 天的连续测试...只是为了网站删除连续测试功能。直到昨天为止，还有一个排行榜，您可以在其中看到人们的各种表现。我是第二名。现在，连胜甚至还没有被计算在内。荒谬的。我为这个愚蠢的网站浪费了 66 天的生命。绝对不推荐它。抱歉我的咆哮，但我需要对此做点什么...    由   提交/u/Nicotiraboschi   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b7002w/webdevdailyio_is_a_waste_of_time/</guid>
-      <pubDate>Tue, 05 Mar 2024 08:01:22 GMT</pubDate>
-    </item>
-    <item>
       <title>如何使用 Tailwind CSS 和 Alpine.js 创建动画登录模式</title>
       <link>https://www.reddit.com/r/webdev/comments/1b6zzkk/how_to_create_an_animated_log_in_modal_with/</link>
       <description><![CDATA[ 由   提交 /u/Michael_andreuzza   [链接]   创建动画登录模态[评论]]]></description>
@@ -36,14 +57,14 @@
     <item>
       <title>学习在线课程，掌握职场技能</title>
       <link>https://www.reddit.com/r/webdev/comments/1b6zrw8/learning_angular/</link>
-      <description><![CDATA[我作为 .NET 后端开发人员已经工作多年了。我对 React、Blazor 和 Razor Pages 有一些经验。我对 html 和 css 也很熟悉，但没有设计大师。 我当前的工作场所在许多应用程序中使用 Angular，版本在 14 到 17 之间。由于我想更多地转向全栈，所以我决定尝试学习 Angular。 有没有人对要构建的材料或小型项目有建议，以更熟悉这些概念？支付 Pluralsight 或 Udemy 不是问题。我想打下坚实的基础，因为我在正常工作之间学习的时间有限。   由   提交/u/zaibuf  [链接] [评论]]]></description>
+      <description><![CDATA[我作为 .NET 后端开发人员已经工作多年了。我对 React、Blazor 和 Razor Pages 有一些经验。我对 html 和 css 也很满意，但没有设计大师。 我当前的工作场所在许多应用程序中使用 Angular，版本在 14 到 17 之间。由于我想更多地转向全栈，所以我决定尝试学习 Angular。 有没有人对要构建的材料或小型项目有建议，以更熟悉这些概念？支付 Pluralsight 或 Udemy 不是问题。我想打下坚实的基础，因为我在正常工作之间学习的时间有限。   由   提交/u/zaibuf  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1b6zrw8/learning_angular/</guid>
       <pubDate>Tue, 05 Mar 2024 07:45:27 GMT</pubDate>
     </item>
     <item>
       <title>您/公司主要在 Java Springboot 中使用哪种身份验证系统？</title>
       <link>https://www.reddit.com/r/webdev/comments/1b6z8gj/what_authentication_system_do_youcompanies/</link>
-      <description><![CDATA[我研究这个主题已经有一段时间了，那里有很多身份验证系统，我也不排除公司构建自己的身份验证系统（尽管这通常不是一个好的做法）。 我认为使用得更多的可能来自云服务，例如在 Microsoft 中，您有 Microsoft Azure Directory。 I也听说过很多关于 Keycloak 的事情，它似乎是 Java Springboot 应用程序的事实上的标准，因为它使得集成变得非常容易。 我的好奇心让我想问你，身份验证系统是做什么的你的公司/你在Java Springboot中开发时使用的？   由   提交/u/DRDRE1100   [链接] [评论]]]></description>
+      <description><![CDATA[我研究这个主题已经有一段时间了，那里有很多身份验证系统，我也不排除公司构建自己的身份验证系统（尽管这通常不是一个好的做法）。 我认为使用得更多的可能来自云服务，例如在 Microsoft 中，您有 Microsoft Azure Directory。 I也听说过很多关于 Keycloak 的事情，它似乎是 Java Springboot 应用程序的事实上的标准，因为它使得集成变得非常容易。 我的好奇心让我想问你，身份验证系统是做什么的你的公司/你在Java Springboot中开发时使用的？   由   提交/u/DRDRE1100  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1b6z8gj/what_authentication_system_do_youcompanies/</guid>
       <pubDate>Tue, 05 Mar 2024 07:09:07 GMT</pubDate>
     </item>
@@ -57,14 +78,14 @@
     <item>
       <title>需要有关涉及 CSS 和 SSL 的 WordPress 问题的帮助。任何人？</title>
       <link>https://www.reddit.com/r/webdev/comments/1b6wrqq/need_help_with_wordpress_issue_involving_css_and/</link>
-      <description><![CDATA[我不知道“基础级或专业级”有多少这是这个问题吗，我只是想寻求一些帮助来解决这个问题。 我对 WordPress 的了解大概只有 2%，起初我以为这只是一些基本/容易修复的东西，但它几乎已经花了 2 周的时间尝试了我在博客、YouTube 视频、Stackoverflow 等上找到的很多东西。 问题是当您使用 HTTP 访问页面时，这个网站可以正常运行并加载所有内容URL，但当您尝试使用 HTTPS 访问时，无法正确加载 CSS。 我认为这可能是 SSL 证书的问题或 CSS 的任何错误，但我尝试的一切都没有还没有成功，我开始在 Google 和 ChatGPT 上寻找它，但什么也没有。此时我感到非常疲惫和焦虑，因为我无法解决这个问题，也不知道该怎么办。 有人可以帮助我吗？我打算将链接放在这里，以防有人可以查看该问题。 这是您的时候使用 HTTP 访问网站，工作正常。 现在使用 HTTPS，但是同一个网站。 CSS 将无法加载。 如果有人知道这是什么以及为什么会发生这种情况，请发送帮助。  &amp; #32；由   提交 /u/veni-vidi-vic-i   [链接] [评论]]]></description>
+      <description><![CDATA[我不知道“基础级或专业级”有多少这是这个问题，我只是想寻求一些帮助来解决这个问题。 我对 WordPress 的了解大概只有 2%，起初我以为这只是一些基本/容易修复的东西，但它几乎已经花了 2 周时间尝试了我在博客、YouTube 视频、Stackoverflow 等上找到的很多东西。 问题是，当您使用 HTTP 访问该页面时，这个网站可以正常运行并加载所有内容。 URL，但当您尝试使用 HTTPS 访问时，无法正确加载 CSS。 我认为这可能是 SSL 证书的问题或 CSS 的任何错误，但我尝试的一切都没有还没有成功，我开始在 Google 和 ChatGPT 上寻找它，但什么也没有。此时我感到非常疲惫和焦虑，因为我无法解决这个问题，也不知道该怎么办。 有人可以帮助我吗？我打算将链接放在这里，以防有人可以查看该问题。 这是您的时候使用 HTTP 访问网站，工作正常。 现在使用 HTTPS，但是同一个网站。 CSS 将无法加载。 如果有人知道这是什么以及为什么会发生这种情况，请发送帮助。  &amp; #32；由   提交 /u/veni-vidi-vic-i   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1b6wrqq/need_help_with_wordpress_issue_involving_css_and/</guid>
       <pubDate>Tue, 05 Mar 2024 04:48:17 GMT</pubDate>
     </item>
     <item>
       <title>寻求建议：为初学者显示流程摘要的最佳 Web 堆栈</title>
       <link>https://www.reddit.com/r/webdev/comments/1b6v8fr/seeking_advice_best_web_stack_for_displaying/</link>
-      <description><![CDATA[大家好， 我正在开发一个项目，需要显示各种业务流程及其以清晰简洁的方式输入/输出以及相关角色。数据的结构如下：  流程级别、编号和名称，用于标识特定的业务流程。 输入和与每个流程相关的输出。 流程中涉及的角色，按职责分类（负责、批准、咨询、通知）。   ul&gt; 这是我要显示的摘要类型的示例：   进程级别 进程编号 流程名称 输入 输出 负责 批准 咨询 消息灵通    4 1.1.1.1 监控监管趋势 适用的监管法律 监管趋势监测报告 MANAGER 监管；副总裁监管 风险总监 利益相关者 董事会   I&#39;我对 Web 开发相对较新，正在寻找最合适的 Web 堆栈的建议，以帮助像我这样的初学者实现这一目标。关键标准是：  易于使用：对初学者友好且学习曲线平缓。 灵活性：  能够处理数据的动态特性（因为角色或进程的数量可能会发生变化）。 可扩展性： 可以从小规模开始，但能够扩大规模随着项目的发展。  我听说过各种技术，例如用于前端的 HTML/CSS、用于脚本编写的 JavaScript 或 Python，以及用于存储数据的 MySQL 或 MongoDB 等数据库。但是，我不确定如何针对我的特定用例将这些组合在一起，或者是否有更好的方法。 任何人都可以推荐最适合初学者的网络堆栈或特定技术吗？这种类型的项目？任何有关可以简化流程的框架、库或工具的建议将不胜感激。 提前感谢您的帮助！  业务流程表&lt; /p&gt;   进程ID 进程级别 进程编号 进程名称    P00001 4 1.1.1.1 监控监管趋势   ProcessInputs 表   InputID ProcessID 输入描述    IN00001 P00001 适用的监管法律  &lt; /tbody&gt; ProcessOutputs 表   OutputID ProcessID OutputDescription    OU00001 P00001 监管趋势监测报告   角色表   角色ID 角色名称    R00001 经理监管   R00002 副总裁法规   R00003 董事会   R00004 利益相关者&lt; /td&gt;   R00005 风险总监   流程角色工作表   AssociationID ProcessID RoleID IsResponsible IsApproval  IsConsult IsInformed    AC000001 P00001 R00001 是 否 否 否    AC000002 P00001 R00002 是 否 否 否&lt; /td&gt;   AC000003 P00001 R00005 否 是 否 否   AC000004 P00001 R00004 否 否 是 否   AC000005 P00001 td&gt; R00003 否 否 否 是       由   提交/u/secondr2020   [链接] [评论]]]></description>
+      <description><![CDATA[大家好， 我正在开发一个项目，需要显示各种业务流程及其以清晰简洁的方式输入/输出以及相关角色。数据的结构如下：  流程级别、编号和名称，用于标识特定的业务流程。 输入和与每个流程相关的输出。 流程中涉及的角色，按职责分类（负责、批准、咨询、通知）。   ul&gt; 这是我要显示的摘要类型的示例：   进程级别 进程编号 流程名称 输入 输出 负责 批准 咨询 消息灵通    4 1.1.1.1 监控监管趋势 适用的监管法律 监管趋势监测报告 MANAGER 监管；副总裁监管 风险总监 利益相关者 董事会   I&#39;我对 Web 开发相对较新，正在寻找最合适的 Web 堆栈的建议，以帮助像我这样的初学者实现这一目标。关键标准是：  易于使用：对初学者友好且学习曲线平缓。 灵活性：  能够处理数据的动态特性（因为角色或进程的数量可能会发生变化）。 可扩展性： 可以从小规模开始，但能够扩大规模随着项目的发展。  我听说过各种技术，例如用于前端的 HTML/CSS、用于脚本编写的 JavaScript 或 Python，以及用于存储数据的 MySQL 或 MongoDB 等数据库。但是，我不确定如何针对我的特定用例将这些组合在一起，或者是否有更好的方法。 有人可以推荐最适合初学者的网络堆栈或特定技术吗？这种类型的项目？任何有关可以简化流程的框架、库或工具的建议将不胜感激。 提前感谢您的帮助！  业务流程表&lt; /p&gt;   进程ID 进程级别 进程编号 进程名称    P00001 4 1.1.1.1 监控监管趋势   ProcessInputs 表   InputID ProcessID 输入描述    IN00001 P00001 适用的监管法律  &lt; /tbody&gt; ProcessOutputs 表   OutputID ProcessID OutputDescription    OU00001 P00001 监管趋势监测报告   角色表   角色ID 角色名称    R00001 经理监管   R00002 副总裁法规   R00003 董事会   R00004 利益相关者&lt; /td&gt;   R00005 风险总监   流程角色工作表   AssociationID ProcessID RoleID IsResponsible IsApproval  IsConsult IsInformed    AC000001 P00001 R00001 是 否 否 否    AC000002 P00001 R00002 是 否 否 否&lt; /td&gt;   AC000003 P00001 R00005 否 是 否 否   AC000004 P00001 R00004 否 否 是 否   AC000005 P00001 td&gt; R00003 否 否 否 是       由   提交/u/secondr2020   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1b6v8fr/seeking_advice_best_web_stack_for_displaying/</guid>
       <pubDate>Tue, 05 Mar 2024 03:30:54 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[       由   提交/u/kushal21346  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1b6syz8/issue_with_cookie/</guid>
       <pubDate>Tue, 05 Mar 2024 01:47:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>我正在考虑从 Elementor 切换到 Bricks</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b6stsi/i_am_considering_switching_to_bricks_from/</link>
-      <description><![CDATA[我唯一担心的是 Bricks 还太年轻，没有稳定的结构。我不希望重大更新破坏我的所有网站。您还认为 Bricks 和 Elementor 一样有可靠的未来吗？或者您认为用户群足够小，以至于在不久的将来可能会消失？我更喜欢测试帐户演示中的 Bricks，但我只是想确保切换是一个好的决定，你们觉得怎么样？    ;由   提交/u/jelery_celery  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b6stsi/i_am_considering_switching_to_bricks_from/</guid>
-      <pubDate>Tue, 05 Mar 2024 01:40:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源：Matro UI - React 组件库</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b6rdi4/open_source_matro_ui_components_library_for_react/</link>
-      <description><![CDATA[我的好朋友，一位高级 UI/UX 设计师，我和我为 React 创建了一个组件库。它称为 Matro UI，并且完全开源。我们一起花了一个月的时间才发布了这个 MVP，我真的希望它会随着时间的推移而越来越受欢迎。 看看，如果你觉得这有用，请给它一颗星。此外，我们正在寻找贡献者，如果这个项目成功，我们计划将其添加到 Open Collective 中。 网站 - https://matro-ui.github.io/ Github - https:/ /github.com/matro-ui/matro-ui/   由   提交/u/Revolutionary_Floor4   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b6rdi4/open_source_matro_ui_components_library_for_react/</guid>
-      <pubDate>Tue, 05 Mar 2024 00:35:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>Webflow 还是 Bubble.io？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b6ra21/webflow_or_bubbleio/</link>
-      <description><![CDATA[我很快就要建立一个网站/业务。我想自己构建它，但编码经验很少。这将是一个内容网站。很多博客风格的文章。它还需要有一个会员区域（因此需要登录功能）并且需要能够捕获人们的电子邮件。我希望它既美观又功能良好。哪一个是更好的选择？ Webflow 还是 Bubble.io？   由   提交/u/Fireoa-  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b6ra21/webflow_or_bubbleio/</guid>
-      <pubDate>Tue, 05 Mar 2024 00:31:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
