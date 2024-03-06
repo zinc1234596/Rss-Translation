@@ -4,9 +4,9 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Wed, 06 Mar 2024 06:15:45 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 Mar 2024 09:11:39 GMT</lastBuildDate>
     <item>
-      <title>win11 有什么让你失望的地方吗？</title>
+      <title>win11 有什么阻碍你的东西吗？</title>
       <link>https://www.reddit.com/r/software/comments/1b7sfy1/any_deal_breakers_in_win11_for_you/</link>
       <description><![CDATA[与自己争论是否应该升级到 Windows 11。 我对时尚的 UI 很感兴趣，但担心兼容性问题对于较旧的游戏（bfme2、要塞），小部件的动画臃肿且功能较差（阅读有关此三键上下文菜单的信息）。  运行 i7-8700k、3080ti 和 32GB 内存。  感谢您的意见！    由   提交 /u/imbadatchoosingnicks   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1b7sfy1/any_deal_breakers_in_win11_for_you/</guid>
@@ -43,7 +43,7 @@
     <item>
       <title>将 PNG 或 PDF 数据正确导入 EXCEL 文件的最佳方法</title>
       <link>https://www.reddit.com/r/software/comments/1b7kqcl/best_way_to_get_data_in_a_png_or_pdf_properly/</link>
-      <description><![CDATA[我的文档基本上充满了需要插入 Excel 文件的列和数据。我尝试过很多“转换器”例如，它们要么将每条数据堆叠在 A 列的顶部，要么将所有行数据粘贴到 A 行而不是 A-J 行。有没有什么好的地方或者更好的方法将图片/PDF 中的数据导入 Excel 文件？谢谢   由   提交 /u/babylmao   [链接] [评论]]]></description>
+      <description><![CDATA[我的文档基本上充满了需要插入 Excel 文件的列和数据。我尝试过许多“转换器”例如，它们要么将每条数据堆叠在 A 列的顶部，要么将所有行数据粘贴到 A 行而不是 A-J 行。有没有什么好的地方或者更好的方法将图片/PDF 中的数据导入 Excel 文件？谢谢   由   提交 /u/babylmao   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1b7kqcl/best_way_to_get_data_in_a_png_or_pdf_properly/</guid>
       <pubDate>Tue, 05 Mar 2024 23:51:23 GMT</pubDate>
     </item>
@@ -106,7 +106,7 @@
     <item>
       <title>mk 输入上的屏幕录制能够保存到 nas。</title>
       <link>https://www.reddit.com/r/software/comments/1b73782/screen_record_on_mk_input_able_to_save_to_nas/</link>
-      <description><![CDATA[我们需要确定是否有人正在更改共享电脑上的设置，或者这是否是一个错误，所以我需要一个具有这两个功能的屏幕录像机。  能够录制到 Synology NAS 录制鼠标/键盘输入并在一段不活动后暂停。  我查看了 sharex 工作流程，但没有找不到类似的东西。 我可以用 ffmpeg 和 autohotkey 破解一些东西，但它会很卡顿并且花费太多时间。 ​  div&gt;  由   提交/u/Comfortable_Bit_5954   [链接] [评论]]]></description>
+      <description><![CDATA[我们需要确定是否有人正在更改共享电脑上的设置，或者这是否是一个错误，所以我需要一个具有这两个功能的屏幕录像机。  能够录制到 Synology NAS 录制鼠标/键盘输入并在一段不活动后暂停。  我查看了 sharex 工作流程，但没有找不到类似的东西。 我可以用 ffmpeg 和 autohotkey 破解一些东西，但它会很卡顿并且花费太多时间。 ​  div&gt;  由   提交 /u/Comfortable_Bit_5954   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1b73782/screen_record_on_mk_input_able_to_save_to_nas/</guid>
       <pubDate>Tue, 05 Mar 2024 11:38:59 GMT</pubDate>
     </item>
