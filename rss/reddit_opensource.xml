@@ -4,7 +4,7 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 07 Mar 2024 06:15:51 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 Mar 2024 09:10:57 GMT</lastBuildDate>
     <item>
       <title>Penpot：开源设计工具（Figma/Adobe XD 的替代品）</title>
       <link>https://www.reddit.com/r/opensource/comments/1b8n7fo/penpot_an_open_source_design_tool_alternative_to/</link>
@@ -36,7 +36,7 @@
     <item>
       <title>开放式接口 - 使用法学硕士自助操作您的计算机</title>
       <link>https://www.reddit.com/r/opensource/comments/1b8cv7d/open_interface_selfoperate_your_computer_using/</link>
-      <description><![CDATA[      开放接口 - 使用 LLM 操作您的计算机 &lt; p&gt;完全用 Python 构建。使用的库： - Tkinter - PyAutoGUI - Pyinstaller  Github：https://github.com/AmberSahdev/Open-Interface/ 演示：https://github.com/AmberSahdev/Open-Interface/?tab=readme-ov-file#demo&lt; /a&gt; 安装： https://github.com/AmberSahdev/Open-Interface/?tab=readme-ov-file#install   由   提交/u/reasonableWiseguy   [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[      开放接口 - 使用法学硕士操作您的计算机 &lt; p&gt;完全用 Python 构建。使用的库： - Tkinter - PyAutoGUI - Pyinstaller  Github：https://github.com/AmberSahdev/Open-Interface/ 演示：https://github.com/AmberSahdev/Open-Interface/?tab=readme-ov-file#demo&lt; /a&gt; 安装： https://github.com/AmberSahdev/Open-Interface/?tab=readme-ov-file#install   由   提交/u/reasonableWiseguy   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1b8cv7d/open_interface_selfoperate_your_computer_using/</guid>
       <pubDate>Wed, 06 Mar 2024 22:10:56 GMT</pubDate>
     </item>
@@ -104,7 +104,7 @@
       <pubDate>Wed, 06 Mar 2024 08:50:40 GMT</pubDate>
     </item>
     <item>
-      <title>Podlite：一种通用的基于块的标记语言 - 开源规范（艺术许可证 2.0）</title>
+      <title>Podlite：一种通用的基于块的标记语言 - 开源规范（Artistic License 2.0）</title>
       <link>https://www.reddit.com/r/opensource/comments/1b7v01r/podlite_a_universal_blockbased_markup_language/</link>
       <description><![CDATA[       由   提交/u/zagap  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1b7v01r/podlite_a_universal_blockbased_markup_language/</guid>

@@ -4,7 +4,28 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Thu, 07 Mar 2024 06:15:31 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 Mar 2024 09:10:26 GMT</lastBuildDate>
+    <item>
+      <title>回顾会议揭秘</title>
+      <link>https://www.reddit.com/r/programming/comments/1b8pyem/retrospective_meetings_demystified/</link>
+      <description><![CDATA[ 由   提交/u/nicolaballotta  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b8pyem/retrospective_meetings_demystified/</guid>
+      <pubDate>Thu, 07 Mar 2024 08:51:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于选择副业项目</title>
+      <link>https://www.reddit.com/r/programming/comments/1b8okjx/on_picking_sideprojects/</link>
+      <description><![CDATA[ 由   提交/u/workflow91  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b8okjx/on_picking_sideprojects/</guid>
+      <pubDate>Thu, 07 Mar 2024 07:23:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>KCL v0.8 发布！用于配置的编程语言</title>
+      <link>https://www.reddit.com/r/programming/comments/1b8nipu/kcl_v08_released_a_programming_language_for/</link>
+      <description><![CDATA[ 由   提交/u/Peefy-  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b8nipu/kcl_v08_released_a_programming_language_for/</guid>
+      <pubDate>Thu, 07 Mar 2024 06:21:30 GMT</pubDate>
+    </item>
     <item>
       <title>野外解决算法问题</title>
       <link>https://www.reddit.com/r/programming/comments/1b8le1n/solving_algorithmic_problems_in_the_wild/</link>
@@ -50,7 +71,7 @@
     <item>
       <title>评价我的国际象棋项目，我希望听到一些建议</title>
       <link>https://www.reddit.com/r/programming/comments/1b8dywm/rate_my_chess_project_and_i_wish_hear_some_advice/</link>
-      <description><![CDATA[带有 GUI 的 C# 国际象棋游戏包含所有棋子可用走法的照明以及国际象棋的所有规则   由   提交 /u/AbdoViper   [链接] [评论]]]></description>
+      <description><![CDATA[带有 GUI 的 C# 国际象棋游戏包含所有棋子的可用走法和国际象棋的所有规则的照明   由   提交 /u/AbdoViper   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1b8dywm/rate_my_chess_project_and_i_wish_hear_some_advice/</guid>
       <pubDate>Wed, 06 Mar 2024 22:54:13 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[ 由   提交/u/srvaroa  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1b89oqk/alert_on_symptoms_not_causes/</guid>
       <pubDate>Wed, 06 Mar 2024 20:04:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>CAP 定理。坏的、坏的和丑陋的</title>
-      <link>https://www.reddit.com/r/programming/comments/1b8808e/the_cap_theorem_the_bad_the_bad_the_ugly/</link>
-      <description><![CDATA[ 由   提交/u/dtornow  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b8808e/the_cap_theorem_the_bad_the_bad_the_ugly/</guid>
-      <pubDate>Wed, 06 Mar 2024 19:00:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>现代 PHP 工具和框架</title>
-      <link>https://www.reddit.com/r/programming/comments/1b87uni/modern_php_tools_and_frameworks/</link>
-      <description><![CDATA[ 由   提交/u/apitester23  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b87uni/modern_php_tools_and_frameworks/</guid>
-      <pubDate>Wed, 06 Mar 2024 18:54:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>技术讲座周刊 #5：所有最近上传的技术会议讲座都集中在一处</title>
-      <link>https://www.reddit.com/r/programming/comments/1b87fxk/tech_talks_weekly_5_all_recently_uploaded_tech/</link>
-      <description><![CDATA[ 由   提交/u/TechTalksWeekly  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b87fxk/tech_talks_weekly_5_all_recently_uploaded_tech/</guid>
-      <pubDate>Wed, 06 Mar 2024 18:38:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
