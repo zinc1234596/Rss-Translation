@@ -4,7 +4,7 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 07 Mar 2024 15:11:45 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 Mar 2024 18:14:42 GMT</lastBuildDate>
     <item>
       <title>开源：现状和未来的希望</title>
       <link>https://www.reddit.com/r/opensource/comments/1b8vbis/open_source_current_state_and_future_hopes/</link>
@@ -15,7 +15,7 @@
     <item>
       <title>我建立了一个开源视觉审查和测试平台</title>
       <link>https://www.reddit.com/r/opensource/comments/1b8shni/ive_built_an_opensource_visual_review_and_testing/</link>
-      <description><![CDATA[       由   提交 /u/EvilSuppressor   [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[       由   提交/u/EvilSuppressor  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1b8shni/ive_built_an_opensource_visual_review_and_testing/</guid>
       <pubDate>Thu, 07 Mar 2024 11:34:44 GMT</pubDate>
     </item>
@@ -57,7 +57,7 @@
     <item>
       <title>开放式接口 - 使用法学硕士自助操作您的计算机</title>
       <link>https://www.reddit.com/r/opensource/comments/1b8cv7d/open_interface_selfoperate_your_computer_using/</link>
-      <description><![CDATA[      开放接口 - 使用 LLM 操作您的计算机 &lt; p&gt;完全用 Python 构建。使用的库： - Tkinter - PyAutoGUI - Pyinstaller  Github：https://github.com/AmberSahdev/Open-Interface/ 演示：https://github.com/AmberSahdev/Open-Interface/?tab=readme-ov-file#demo&lt; /a&gt; 安装： https://github.com/AmberSahdev/Open-Interface/?tab=readme-ov-file#install   由   提交/u/reasonableWiseguy   [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[      开放接口 - 使用法学硕士操作您的计算机 &lt; p&gt;完全用 Python 构建。使用的库： - Tkinter - PyAutoGUI - Pyinstaller  Github：https://github.com/AmberSahdev/Open-Interface/ 演示：https://github.com/AmberSahdev/Open-Interface/?tab=readme-ov-file#demo&lt; /a&gt; 安装： https://github.com/AmberSahdev/Open-Interface/?tab=readme-ov-file#install   由   提交/u/reasonableWiseguy   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1b8cv7d/open_interface_selfoperate_your_computer_using/</guid>
       <pubDate>Wed, 06 Mar 2024 22:10:56 GMT</pubDate>
     </item>
