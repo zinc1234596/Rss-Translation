@@ -4,7 +4,21 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Thu, 07 Mar 2024 09:09:23 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 Mar 2024 12:18:24 GMT</lastBuildDate>
+    <item>
+      <title>ComfyUI 已经支持 Stable Cascade 的 Canny ControlNet！</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1b8sjys/comfyui_already_supports_stable_cascades_canny/</link>
+      <description><![CDATA[使用方法：基于SC Vincentian图，只需在C阶段添加常规CN节点即可。 CN模型仍然是直接下载到/models/checkpoints。 ​ SC Canny CN模型：https://huggingface.co/stabilityai/stable-cascade/tree/main/controlnet 工作流程将统一共享于：&lt; a href=&quot;https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO&quot;&gt;https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO 感谢 ZHO ​   由   提交/u/Novita_ai   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1b8sjys/comfyui_already_supports_stable_cascades_canny/</guid>
+      <pubDate>Thu, 07 Mar 2024 11:38:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>银牌人工智能项目</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1b8r83d/the_silver_ai_project/</link>
+      <description><![CDATA[根据我在本论坛中获得的有关我们第一次努力的良好建议，“灰色人工智能项目”请参阅我们修订后的网站，提供免费的“面向非技术受众的人工智能课程“面对面”培训。和以前一样，欢迎所有评论。我希望这里的一些人发现它有助于向更广泛的受众传播信息。 https://www.silveraiproject.com ​   由   提交 /u/iotaDAOist   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1b8r83d/the_silver_ai_project/</guid>
+      <pubDate>Thu, 07 Mar 2024 10:17:31 GMT</pubDate>
+    </item>
     <item>
       <title>最优化的学习路径？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1b8poqv/most_optimal_study_path/</link>
@@ -78,23 +92,9 @@
     <item>
       <title>无论如何，为什么超级智能的通用人工智能会对我们感兴趣呢？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1b89w0j/why_would_a_superintelligent_agi_be_at_all/</link>
-      <description><![CDATA[我觉得所有这些对创造出比人类智能更强大的智能的恐惧实际上都是关于创造出一个仅比人类智能稍高一点点的智能比人类更伟大，而不是巨大。  稍微高一点的智能就在我们周围，它们与我们竞争，并且可能具有挑战性（我认为非常聪明、善于操纵的人类和公司）。这已经是一个问题，并且正在以如下方式发挥作用：社交媒体技术让人上瘾，只是为了丰富少数人的利益。 然而，像 AGI 这样的智能对我们来说既不需要也不感兴趣，就像我们对蚂蚁或果蝇或变形虫等更小的生物没有太多需求或兴趣。我们将存在于与它如此不同的层面上，以至于它不太可能想要与我们“竞争”。以任何方式与我们在一起或征服我们或任何会给我们带来不便的事情。我们就像蚂蚁在博士论文上匆匆忙忙，完全没有意识到我们与之共存的结构，因为我们完全无法理解它们。 甚至可能是这样的情况，我们已经与超级智能生命形式共存 - 对我来说，一个候选者是存在于我们周围和脚下的复杂真菌网络。我们怎么知道这些系统处理的问题不是比我们微不足道的人类大脑所能理解的复杂数百万倍？ 这给了我一些安慰； AGI 不会想杀死我们或与我们竞争资源，因为它实际上不需要这样做。它根本不在乎我们。   由   提交 /u/AlephMartian   [链接] [评论]]]></description>
+      <description><![CDATA[我觉得所有这些对创造出比人类智能更强大的智能的恐惧实际上都是关于创造出一个仅比人类智能稍高一点点的智能比人类更伟大，而不是巨大。  稍强一点的智能就在我们周围，它们与我们竞争，并且可能具有挑战性（我认为非常聪明、善于操纵的人类和公司）。这已经是一个问题，并且正在以如下方式发挥作用：社交媒体技术让人上瘾，只是为了丰富少数人的利益。 然而，像 AGI 这样的智能体，对我们来说没有必要或没有兴趣，就像 AGI 一样。我们对蚂蚁或果蝇或变形虫等更小的生物没有太多需求或兴趣。我们将存在于与它如此不同的层面上，以至于它不太可能想要与我们“竞争”。以任何方式与我们在一起或征服我们或任何会给我们带来不便的事情。我们就像蚂蚁在博士论文上匆匆忙忙，完全没有意识到我们与之共存的结构，因为我们完全无法理解它们。 甚至可能是这样的情况，我们已经与超级智能生命形式共存 - 对我来说，一个候选者是存在于我们周围和脚下的复杂真菌网络。我们怎么知道这些系统处理的问题不是比我们微不足道的人类大脑所能理解的复杂数百万倍？ 这给了我一些安慰； AGI 不会想杀死我们或与我们竞争资源，因为它实际上不需要这样做。它根本不在乎我们。   由   提交 /u/AlephMartian   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1b89w0j/why_would_a_superintelligent_agi_be_at_all/</guid>
       <pubDate>Wed, 06 Mar 2024 20:12:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>以某种方式总结 pdf 的最佳方法是什么？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1b8736x/what_is_the_best_way_to_summarize_a_pdf_in_a/</link>
-      <description><![CDATA[我有 50 页的合同协议，我需要以某种方式对其进行总结。我已经知道我想要的最终摘要是什么样的。 是否有一个 AI 工具或 Python 脚本可以在我给它文档 + 结构（段落标题和内容）后生成摘要版本我想要的是 ？    由   提交/u/Aymeric34  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1b8736x/what_is_the_best_way_to_summarize_a_pdf_in_a/</guid>
-      <pubDate>Wed, 06 Mar 2024 18:24:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国陆军探索 GPT-4 战场战略</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1b863to/us_army_explores_gpt4_for_battlefield_strategy/</link>
-      <description><![CDATA[ 由   提交/u/DumbMoneyMedia  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1b863to/us_army_explores_gpt4_for_battlefield_strategy/</guid>
-      <pubDate>Wed, 06 Mar 2024 17:47:41 GMT</pubDate>
     </item>
     <item>
       <title>新的反垃圾邮件/机器人规则 [请阅读]</title>
@@ -106,7 +106,7 @@
     <item>
       <title>重要提示：请求有关 subreddit 规则和未来方向的评论。请阅读！</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</link>
-      <description><![CDATA[欢迎来到r/ArtificialIntelligence！&lt; /p&gt; 我们的目标是为所有与人工智能有关的事物提供一个开放且相互尊重的论坛 - 这包括  促进有关人工智能的哲学和伦理讨论 服务作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用 提供培训和学习资源&lt; /li&gt; 引导用户访问更具体的信息和子版块 列出 AI/ML 应用程序、其用途、成本和访问信息 其他与 AI 相关的内容。  li&gt; ...以及更多  该子项目的审核团队正在进行重组，这将导致该子项目发生一些变化。不过，不必担心，这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解情况并能够提供反馈，我们将提供多次反馈更改的机会。 第一轮反馈收集是通过此线程作为“Request-For-”评论》 (RFC)，这是收集反馈的标准方法。随着变更的准备和实施，RFC 流程将进行多轮。 ​  发布新申请/自我推销/AI 生成的规则content  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似的内容将被阻止或限制在特定的粘帖中。 人工智能生成的特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的粘帖中。 博客链接应包含高质量的内容。链接到纯粹促销博客的帖子将被删除。 仅包含链接的帖子将被禁止，除非包含一定字数的详细信息。必须付出一些努力。 我们应该阻止人工智能撰写的帖子吗？存在可以在 Mod-bot 中使用的模型，但这是我们需要反馈的问题。  使用才华来组织帖子。请注意，已经添加了新的功能，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们会喜欢将社区纳入模组机器人的想法中。虽然一些标准机器人将用于基本维护，但社区可以为 AI/ML 机器人功能想出哪些有趣的东西？ 培养初级、中级和高级资源来帮助人们查找信息，他们正在寻找的培训、模型、技术数据等 启动子堆栈/播客来采访整个人工智能/机器学习领域的人们。这可能包括哲学家和思想家、程序员、科学家、商人，甚至是那些对人工智能持相反观点的人 如果您想创建代表子项目的横幅，请使用适当的尺寸。任何创作方式都可以。  不言而喻，每个人都应该受到尊重。我个人认为我们都知道这一点，不需要把它强加到人们的头脑中。保持友善。 感谢您的耐心和帮助！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
+      <description><![CDATA[欢迎来到r/ArtificialIntelligence！&lt; /p&gt; 我们的目标是为所有与人工智能有关的事物提供一个开放且相互尊重的论坛 - 这包括  促进有关人工智能的哲学和伦理讨论 服务作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用 提供培训和学习资源&lt; /li&gt; 引导用户访问更具体的信息和子版块 列出 AI/ML 应用程序、其用途、成本和访问信息 其他与 AI 相关的内容。  li&gt; ...以及更多  该子项目的审核团队正在进行重组，这将导致该子项目发生一些变化。不过，不必担心，这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解情况并能够提供反馈，我们将提供多次反馈更改的机会。 第一轮反馈收集是通过此线程作为“Request-For-”评论” (RFC)，这是收集反馈的标准方法。随着变更的准备和实施，RFC 流程将进行多轮。 ​  发布新申请/自我推销/AI 生成的规则content  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似的内容将被阻止或限制在特定的粘帖中。 人工智能生成的特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的粘帖中。 博客链接应包含高质量的内容。链接到纯粹促销博客的帖子将被删除。 仅包含链接的帖子将被禁止，除非包含一定字数的详细信息。必须付出一些努力。 我们应该阻止人工智能撰写的帖子吗？存在可以在 Mod-bot 中使用的模型，但这是我们需要反馈的问题。  使用才华来组织帖子。请注意，已经添加了新的功能，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们会喜欢将社区纳入模组机器人的想法中。虽然一些标准机器人将用于基本维护，但社区可以为 AI/ML 机器人功能想出哪些有趣的东西？ 培养初级、中级和高级资源来帮助人们查找信息，他们正在寻找的培训、模型、技术数据等 启动子堆栈/播客来采访整个人工智能/机器学习领域的人们。这可能包括哲学家和思想家、程序员、科学家、商人，甚至是那些对人工智能持相反观点的人 如果您想创建代表子项目的横幅，请使用适当的尺寸。任何创作方式都可以。  不言而喻，每个人都应该受到尊重。我个人认为我们都知道这一点，不需要把它强加到人们的头脑中。保持友善。 感谢您的耐心和帮助！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</guid>
       <pubDate>Sun, 15 Jan 2023 20:24:42 GMT</pubDate>
     </item>
