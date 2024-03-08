@@ -4,7 +4,21 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Fri, 08 Mar 2024 06:15:21 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 Mar 2024 09:12:21 GMT</lastBuildDate>
+    <item>
+      <title>你会买这个吗？</title>
+      <link>https://feed.indiehackers.world/post/b7b93e0672</link>
+      <description><![CDATA[嘿 IndieHackers，我根据自己的需要构建了这个 chrome 扩展。我决定分享它。作为 Gmail 的长期用户，我什至在 Gmail 主题上也没有见过这样的东西。我需要一个不会一直伤害我眼睛的黑暗简约主题。扩展已完成，有 5 个主题可供启动。我正在考虑提供一个有限公司；
+
+购买后，您将获得终身更新。
+您无需额外付费即可获得更多免费主题。
+您将获得添加的新功能。
+
+你会考虑购买吗？请分享您的想法。
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/b7b93e0672</guid>
+      <pubDate>Fri, 08 Mar 2024 08:11:31 GMT</pubDate>
+    </item>
     <item>
       <title>这家伙是如何被自己的初创公司解雇的……</title>
       <link>https://feed.indiehackers.world/post/0f5510d6d0</link>
@@ -30,7 +44,7 @@ Discord 独立黑客聊天广告这里]]></description>
     <item>
       <title>关于快速启动、更快失败的想法？</title>
       <link>https://feed.indiehackers.world/post/853517a5a3</link>
-      <description><![CDATA[希望了解我的 IndieHackers 同胞对“快速启动，更快失败”的看法——这是成功企业家的共同建议。 
+      <description><![CDATA[希望了解我的 IndieHackers 同胞对“快速启动，更快失败”的看法，这是成功企业家的共同建议。 
 这里的想法是快速推出多种产品，然后找出哪一款能够坚持下去。这是违反直觉的；但似乎很多人都在这样做。 
 我认为当您正在研究尚未经过市场测试的想法时，此策略会起作用。然而，当您进入成熟的市场时，您可能需要花时间找出正确的营销渠道。 
 很想听听您的想法。
@@ -41,7 +55,7 @@ Discord 独立黑客聊天广告这里]]></description>
     <item>
       <title>通过 BBC 网络抓取解锁实时新闻</title>
       <link>https://feed.indiehackers.world/post/d2bab5b8fb</link>
-      <description><![CDATA[从著名的 BBC 新闻网站检索、存储和评估有价值的数据。探索其结构并了解如何使用无代码工具抓取 BBC 新闻。随时了解情况并做出数据驱动的决策。 #BBCNews #WebScraping #DataAnalysis
+      <description><![CDATA[从著名的 BBC 新闻网站检索、存储和评估有价值的数据。探索其结构并了解如何使用无代码工具抓取 BBC 新闻。随时了解情况并做出数据驱动的决策。 #BBC新闻 #WebScraping #DataAnalysis
 https://www.octoparse.com/blog/how-to-scrape-bbc-news&lt; /a&gt;
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/d2bab5b8fb</guid>
@@ -113,12 +127,12 @@ Discord 独立黑客聊天广告这里]]></description>
     <item>
       <title>我的开源可视化编程语言登上了 HN 的头版！</title>
       <link>https://feed.indiehackers.world/post/7b81662bb1</link>
-      <description><![CDATA[嘿黑客们，
+      <description><![CDATA[嘿，黑客们，
 在 HN 上推出 Flyde 是我长久以来的目标，我终于做到了。
 我很高兴分享我已经登上了首页！
 Flyde，一种开源可视化编程语言。查看网站上的交互式示例和在线游乐场：https://www.flyde.dev。
-启动统计数据：4.5 小时后，我获得了 300 颗星，我在其基础上构建的 SaaS 产品获得了十多个订阅 (https://www.trigg.dev&quot;&gt;https:// /www.trigg.dev），以及一千多个网站访问。
-请随意加入讨论 - https://news.ycombinator.com/show 并希望获得有关的反馈飞离你们！
+启动统计数据：4.5 小时后，我获得了 300 颗星，十多个订阅我在其基础上构建的 SaaS 产品 (https://www.trigg.dev&quot;&gt;https:// /www.trigg.dev），以及一千多个网站访问。
+欢迎加入讨论 - https://news.ycombinator.com/show 并希望获得有关的反馈飞离你们！
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/7b81662bb1</guid>
       <pubDate>Thu, 07 Mar 2024 19:01:48 GMT</pubDate>
@@ -126,7 +140,7 @@ Discord 独立黑客聊天广告这里]]></description>
     <item>
       <title>技术经济学介绍</title>
       <link>https://feed.indiehackers.world/post/ca88b1d698</link>
-      <description><![CDATA[我创建了一个 Astro 主题，我们可以在现阶段的早期 Alpha 中考虑。我认为这很酷。
+      <description><![CDATA[我创建了一个 Astro 主题，我们可以在现阶段的早期 Alpha 中考虑。我觉得这很酷。
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/ca88b1d698</guid>
       <pubDate>Thu, 07 Mar 2024 18:48:59 GMT</pubDate>
@@ -183,14 +197,6 @@ docker cp wtk_website:/wtkapp/。 。
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/1ded0aaf86</guid>
       <pubDate>Thu, 07 Mar 2024 15:29:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>7 种生成型人工智能产品</title>
-      <link>https://feed.indiehackers.world/post/dee87eda91</link>
-      <description><![CDATA[在本练习中，我概述了 7 种类型的人工智能公司，并在此过程中希望概述这种新的人工智能游戏、如何玩它，以及理想情况下如何获胜。
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/dee87eda91</guid>
-      <pubDate>Thu, 07 Mar 2024 15:25:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
