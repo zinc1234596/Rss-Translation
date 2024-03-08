@@ -4,7 +4,28 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Fri, 08 Mar 2024 15:11:37 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 Mar 2024 18:14:21 GMT</lastBuildDate>
+    <item>
+      <title>[咆哮] 在我处理这个最新项目时 Premiere 崩溃的原因列表</title>
+      <link>https://www.reddit.com/r/editors/comments/1b9u8z9/rant_a_list_of_reasons_why_premiere_has_crashed/</link>
+      <description><![CDATA[ 我尝试在观看剪辑时更改音量 我创建了多机位剪辑 我打开了项目 我关闭了项目 我将渲染发送到媒体编码器 我尝试使用“导入”命令导入媒体 &lt; li&gt;我更改了工作区 我更改了剪辑的名称 太阳耀斑将 0 更改为 1 我打喷嚏太大声 &lt; li&gt;鼠标移动太快 打开firefox 更改了Windows声音输出 更改了Windows声音输入 一只蝴蝶扇动翅膀&lt; /li&gt; 试图挽救项目 Premiere 听到我大声说话    由   提交 /u/SlimySquid   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1b9u8z9/rant_a_list_of_reasons_why_premiere_has_crashed/</guid>
+      <pubDate>Fri, 08 Mar 2024 17:46:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>我可以发布未公开内容的受版权保护的音乐吗？</title>
+      <link>https://www.reddit.com/r/editors/comments/1b9t8m0/can_i_post_copyrighted_music_for_unmontized/</link>
+      <description><![CDATA[我在一家公司工作，该公司使用受版权保护的音乐为小型企业（TikTok、Instagram、Facebook）制作短片媒体以获得更多观看次数，但我可以这样做吗在未公开的帐户上发布带有受版权保护的音乐的视频，或者稍后它会回来咬我吗？我看到很多带有受版权保护的音乐的视频，但如果有人付钱给我制作这些内容，情况会改变吗？我们使用免版税音乐，但它也不流行。我知道 YouTube 不允许您使用受版权保护的音乐，但我仍然对 Facebook、TikTok 和 Instagram 在这方面的运作方式感到困惑。   由   提交/u/Bright-Childhood-718   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1b9t8m0/can_i_post_copyrighted_music_for_unmontized/</guid>
+      <pubDate>Fri, 08 Mar 2024 17:07:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>所有 NLE（Avid、Premiere、Resolve 和 FCP）的 Google 趋势</title>
+      <link>https://www.reddit.com/r/editors/comments/1b9rd02/google_trends_of_all_nles_avid_premiere_resolve/</link>
+      <description><![CDATA[https://trends.google.com/trends/explore?date=all&amp;q=%2Fm%2F079qd0,%2Fm%2F043dqq ,%2Fg%2F1q5y_dyrm,%2Fm%2F02ccw4&amp;hl=en-US Avid 现在看起来相当平淡。身高是2010年的，一直在下降。 首映似乎恰恰相反。自2010年左右开始稳步增长。（Final Cut 7于2011年被淘汰） Resolve自2017年以来一直在快速增长。 Final Cut自2011年以来一直在下降。我想知道为什么！&lt; /p&gt; 我的想法。这是有道理的，尽管我听到了对首映的所有负面声音，你可能会认为它的数量实际上会减少，但我们看到的恰恰相反。  关于Resolve，看起来它可以在3到5年内超越Premiere。相同的观众，几乎免费，更稳定，更先进。 Final Cut 的兴趣似乎正在下降。他们在自动转录等重要功能方面落后，而其他 3 家公司已经具备了这些功能。我认为它们还没有达到 Premiere 或 Resolve 状态。 Avid 在其利基市场中仍然稳固，并且不会改变。独立电影已经在 Premiere 和 Resolve 中进行剪辑。高端电影、电视节目和新闻仍然很受欢迎。新闻很有趣，因为它是 Avid 的大客户，但自从播客和 YouTube 如此流行以来，新闻兴趣多年来一直在下降。 想法？   由   提交 /u/Mamonimoni   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1b9rd02/google_trends_of_all_nles_avid_premiere_resolve/</guid>
+      <pubDate>Fri, 08 Mar 2024 15:53:58 GMT</pubDate>
+    </item>
     <item>
       <title>我是否已经为自己的失败做好了准备？</title>
       <link>https://www.reddit.com/r/editors/comments/1b9ogd6/am_i_setting_myself_up_for_failure/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[我已经远程工作了几年，每次我都必须与其他编辑协作，这很麻烦，最终导致了无休止的重复项目以及我的主要项目中的重复媒体。我最终说服他们参与团队项目，但现在我们在媒体映射方面遇到了问题。 据我了解，媒体是本地链接的。但是，当我链接媒体时，另一位编辑的一半内容会离线，而当他重新链接时，我这边也会离线。 我做错了什么吗？如何将我和其他编辑器的文件路径分开？或者这是一个错误？ 我使用的是 CC2023。   由   提交 /u/justfabian1   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1b8vtzg/media_management_on_premiere_team_project/</guid>
       <pubDate>Thu, 07 Mar 2024 14:21:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>这是真的 ？ （红色-尼康）</title>
-      <link>https://www.reddit.com/r/editors/comments/1b8usu6/is_this_true_red_nikon/</link>
-      <description><![CDATA[https://www.redsharknews.com/nikons-takeover-of-red-cinema-will-have-huge-implications ​ &lt; /div&gt;  由   提交 /u/BobZelin   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1b8usu6/is_this_true_red_nikon/</guid>
-      <pubDate>Thu, 07 Mar 2024 13:35:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>¿如何在 Stream Deck 中使用 Premiere Pro 的预设？</title>
-      <link>https://www.reddit.com/r/editors/comments/1b8t97p/how_to_use_presets_from_premiere_pro_in_a_stream/</link>
-      <description><![CDATA[我认为可以在首映道具的 Streamdeck 按钮中使用导入预设或效果，但我不知道如何操作。    由   提交 /u/Living-Signature9536    reddit.com/r/editors/comments/1b8t97p/how_to_use_presets_from_premiere_pro_in_a_stream/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1b8t97p/how_to_use_presets_from_premiere_pro_in_a_stream/</guid>
-      <pubDate>Thu, 07 Mar 2024 12:18:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>英国媒体制作状况。</title>
-      <link>https://www.reddit.com/r/editors/comments/1b8ssbn/state_of_media_production_in_the_uk/</link>
-      <description><![CDATA[这个。 https://www. change.org/p/jeremy-hunt-lied-to-parliament-uk-tv-product-is-dying-help-save-it   由   提交 /u/svelteoven   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1b8ssbn/state_of_media_production_in_the_uk/</guid>
-      <pubDate>Thu, 07 Mar 2024 11:52:23 GMT</pubDate>
     </item>
     </channel>
 </rss>

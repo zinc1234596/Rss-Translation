@@ -4,7 +4,28 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 08 Mar 2024 15:12:03 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 Mar 2024 18:14:55 GMT</lastBuildDate>
+    <item>
+      <title>我创建了 CurlerRoo，一个带有丰富附加功能的 cURL GUI 应用程序。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1b9ukv6/i_created_curlerroo_a_gui_app_for_curl_with_rich/</link>
+      <description><![CDATA[我在这个项目上花了 6 个多月的时间，今天，我决定将其开源。 如果你愿意的话直接使用 cURL 而不是使用 Postman 或 Insomnia 等流行的 REST 客户端，那么您可能会喜欢这个应用程序！因为它允许使用普通的 cURL 请求，并且还具有其他功能，例如格式化响应、搜索、从变量响应中提取值、链接请求... Reposity：https://github.com/CurlerRoo/CurlerRoo   由   提交 /u/pclover_dot_exe   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1b9ukv6/i_created_curlerroo_a_gui_app_for_curl_with_rich/</guid>
+      <pubDate>Fri, 08 Mar 2024 18:00:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>我构建了一个用于文件管理自动化的 CLI 工具</title>
+      <link>https://www.reddit.com/r/opensource/comments/1b9tq7m/ive_built_a_cli_tool_for_file_management/</link>
+      <description><![CDATA[我一直在尝试使用能够自动执行文件排序工作流程的工具。有一些有趣的工具，但没有一个允许我以简单的声明性方式编写自定义规则。 所以我自己构建了一个： https://github.com/leonmeka/sortql-cli 如果您觉得它有用，请告诉我！   由   提交 /u/SeaEstablishment1367   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1b9tq7m/ive_built_a_cli_tool_for_file_management/</guid>
+      <pubDate>Fri, 08 Mar 2024 17:26:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>除了 Let's create pottery 系列之外，还有其他开源替代品吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1b9qpe8/is_there_any_open_source_alternative_to_the_lets/</link>
+      <description><![CDATA[ 由   提交 /u/Skyfuzzball8312   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1b9qpe8/is_there_any_open_source_alternative_to_the_lets/</guid>
+      <pubDate>Fri, 08 Mar 2024 15:27:38 GMT</pubDate>
+    </item>
     <item>
       <title>ELI5请求：F/OSS许可证类型之间的差异</title>
       <link>https://www.reddit.com/r/opensource/comments/1b9q55h/eli5_request_difference_between_types_of_foss/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[       由   提交 /u/EvilSuppressor   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1b8shni/ive_built_an_opensource_visual_review_and_testing/</guid>
       <pubDate>Thu, 07 Mar 2024 11:34:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>我可以在要发布到公共领域的项目中使用 SIL 开放字体许可证下的字体吗？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1b8rtaa/can_i_use_a_font_under_sil_open_font_license_in_a/</link>
-      <description><![CDATA[Open Sans 是根据 SIL 开放字体许可证发布的，它比 CC0 施加了更多的限制。如果我将在 CC0 下发布包含此字体字形的作品（作为图像的文档），是否意味着我试图在公共领域下发布这些字形，而许可证不允许？   由   提交/u/Qwert-4  /u/Qwert-4  reddit.com/r/opensource/comments/1b8rtaa/can_i_use_a_font_under_sil_open_font_license_in_a/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1b8rtaa/can_i_use_a_font_under_sil_open_font_license_in_a/</guid>
-      <pubDate>Thu, 07 Mar 2024 10:54:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>Penpot：开源设计工具（Figma/Adobe XD 的替代品）</title>
-      <link>https://www.reddit.com/r/opensource/comments/1b8n7fo/penpot_an_open_source_design_tool_alternative_to/</link>
-      <description><![CDATA[       由   提交/u/hardwaresofton  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1b8n7fo/penpot_an_open_source_design_tool_alternative_to/</guid>
-      <pubDate>Thu, 07 Mar 2024 06:04:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>经过3年的工作和超过100万用户，完全开源我的“互联网操作系统”</title>
-      <link>https://www.reddit.com/r/opensource/comments/1b8m9pn/fully_opensourced_my_internet_os_after_3_years_of/</link>
-      <description><![CDATA[   /u/mitousa  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1b8m9pn/fully_opensourced_my_internet_os_after_3_years_of/</guid>
-      <pubDate>Thu, 07 Mar 2024 05:13:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
