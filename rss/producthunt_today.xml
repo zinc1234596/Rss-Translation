@@ -4,7 +4,7 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Fri, 08 Mar 2024 18:14:58 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 Mar 2024 21:11:56 GMT</lastBuildDate>
     <item>
       <title>数据驱动程序</title>
       <link>https://www.producthunt.com/posts/datadiver</link>
@@ -46,20 +46,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/realm-app</guid>
       <pubDate>Fri, 08 Mar 2024 08:04:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>目镜人工智能</title>
-      <link>https://www.producthunt.com/posts/ocular-ai</link>
-      <description><![CDATA[
-            工作的未来就在这里
-          
-
-讨论&lt; /a&gt;
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/ocular-ai</guid>
-      <pubDate>Fri, 08 Mar 2024 06:30:28 GMT</pubDate>
     </item>
     <item>
       <title>焦点节拍</title>
@@ -132,6 +118,20 @@
       <pubDate>Wed, 06 Mar 2024 17:55:32 GMT</pubDate>
     </item>
     <item>
+      <title>查找工具</title>
+      <link>https://www.producthunt.com/posts/findatool</link>
+      <description><![CDATA[
+            每项任务都有一个工具，我们帮助您找到它
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/findatool</guid>
+      <pubDate>Wed, 06 Mar 2024 14:54:43 GMT</pubDate>
+    </item>
+    <item>
       <title>必不可少的</title>
       <link>https://www.producthunt.com/posts/vital-4</link>
       <description><![CDATA[
@@ -174,6 +174,20 @@
       <pubDate>Mon, 04 Mar 2024 10:10:10 GMT</pubDate>
     </item>
     <item>
+      <title>酿酒厂2.0</title>
+      <link>https://www.producthunt.com/posts/distillery-2-0</link>
+      <description><![CDATA[
+            学习创作严肃的生成艺术
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/distillery-2-0</guid>
+      <pubDate>Fri, 01 Mar 2024 11:55:52 GMT</pubDate>
+    </item>
+    <item>
       <title>克莱弗列表</title>
       <link>https://www.producthunt.com/posts/kleverlist</link>
       <description><![CDATA[
@@ -200,20 +214,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/questflow-90258c5f-2e2f-4490-9012-1b7a198fe02e</guid>
       <pubDate>Wed, 31 Jan 2024 05:52:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>柠檬岩</title>
-      <link>https://www.producthunt.com/posts/lemonrocks</link>
-      <description><![CDATA[
-            通过机器学习和人工智能增强的数据驱动型初创公司跟踪平台
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/lemonrocks</guid>
-      <pubDate>Wed, 03 Jan 2024 14:02:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
