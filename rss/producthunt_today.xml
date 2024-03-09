@@ -4,7 +4,7 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Sat, 09 Mar 2024 03:15:14 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 09 Mar 2024 06:16:46 GMT</lastBuildDate>
     <item>
       <title>航空同步</title>
       <link>https://www.producthunt.com/posts/aerosync</link>
@@ -132,6 +132,20 @@
       <pubDate>Wed, 06 Mar 2024 17:55:32 GMT</pubDate>
     </item>
     <item>
+      <title>干合并</title>
+      <link>https://www.producthunt.com/posts/drymerge</link>
+      <description><![CDATA[
+            使用简单的英语实现自动化工作
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/drymerge</guid>
+      <pubDate>Wed, 06 Mar 2024 04:40:02 GMT</pubDate>
+    </item>
+    <item>
       <title>必不可少的</title>
       <link>https://www.producthunt.com/posts/vital-4</link>
       <description><![CDATA[
@@ -200,20 +214,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/questflow-90258c5f-2e2f-4490-9012-1b7a198fe02e</guid>
       <pubDate>Wed, 31 Jan 2024 05:52:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>柠檬岩</title>
-      <link>https://www.producthunt.com/posts/lemonrocks</link>
-      <description><![CDATA[
-            通过机器学习和人工智能增强的数据驱动型初创公司跟踪平台
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/lemonrocks</guid>
-      <pubDate>Wed, 03 Jan 2024 14:02:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
