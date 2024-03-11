@@ -4,7 +4,49 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 11 Mar 2024 00:48:35 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 Mar 2024 03:15:15 GMT</lastBuildDate>
+    <item>
+      <title>需要帮助。当我只刷新一次时，此错误不断出现，即使在等待一周并解锁限制后再次尝试，此错误仍然仅在一次尝试后出现。无论如何要直接联系元开发人员吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bbskrj/help_needed_this_error_keeps_showing_up_when_i/</link>
+      <description><![CDATA[   /u/HelloOnion  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bbskrj/help_needed_this_error_keeps_showing_up_when_i/</guid>
+      <pubDate>Mon, 11 Mar 2024 02:39:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>如果我想创建网站或论坛，如何跟踪没有帐户的人的 IP 日志？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bbsf8v/how_do_i_keep_track_of_ip_logs_of_people_with_no/</link>
+      <description><![CDATA[如果我想创建一个网站或论坛，我如何跟踪没有帐户的访问者（包括下载的访问者）的 IP 日志文件？   由   提交 /u/Macronicus   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bbsf8v/how_do_i_keep_track_of_ip_logs_of_people_with_no/</guid>
+      <pubDate>Mon, 11 Mar 2024 02:32:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>保护 API 密钥的最佳方法</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bbsafp/best_approach_to_secure_api_keys/</link>
+      <description><![CDATA[你好 我对开源 Web 开发相对较新，特别是制作 Web 地图应用程序。  我使用 openlayers、html css 和 javascript 来制作我的应用程序。  对于某些功能，我依赖 Mapbox 隐藏 API 密钥的最佳方法是什么？   由   提交 /u/SuchALoserYeah   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bbsafp/best_approach_to_secure_api_keys/</guid>
+      <pubDate>Mon, 11 Mar 2024 02:25:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>LLRT（低延迟运行时）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bbs7pb/llrt_low_latency_runtime/</link>
+      <description><![CDATA[       由   提交/u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bbs7pb/llrt_low_latency_runtime/</guid>
+      <pubDate>Mon, 11 Mar 2024 02:22:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>奇怪的 Hubspot 表单问题没有显示，但我在检查时可以看到。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bbrzd6/weird_hubspot_form_issue_not_showing_but_i_can/</link>
+      <description><![CDATA[我正在学习 React/TypeScript 并构建一个网站。我创建了一个 hubspot 表单，它在本地运行时有效。所以我推到了我的 gh 页面。我发现我需要购买托管 bc 我无法在页面之间导航..但是现在当我在本地运行时我看不到表单，但是当我检查 DOM 时我可以看到我为其创建的类名。它显示了表格所在的彩色框。关于我可能已经做了什么或需要做什么来修复它有什么想法吗？   由   提交/u/sirch05  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bbrzd6/weird_hubspot_form_issue_not_showing_but_i_can/</guid>
+      <pubDate>Mon, 11 Mar 2024 02:10:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>多个客户的联系表格？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bbqwdq/contact_forms_for_multiple_clients/</link>
+      <description><![CDATA[我不想仅仅为了通过联系表单发送电子邮件而经历创建后端的麻烦。  有什么我可以使用的东西，我可以通过我的域向我的客户发送密钥和消息吗？不会暴露任何私人电子邮件的内容。   由   提交 /u/DecagramGameDev   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bbqwdq/contact_forms_for_multiple_clients/</guid>
+      <pubDate>Mon, 11 Mar 2024 01:18:33 GMT</pubDate>
+    </item>
     <item>
       <title>JWT 作为 cookie</title>
       <link>https://www.reddit.com/r/webdev/comments/1bbpjmu/jwt_as_cookie/</link>
@@ -15,14 +57,14 @@
     <item>
       <title>有没有抽象BaaS的github项目？ （Firebase/Supabase/Pocketbase/等）</title>
       <link>https://www.reddit.com/r/webdev/comments/1bbobh1/is_there_a_github_project_that_abstracts_baas/</link>
-      <description><![CDATA[似乎每隔一个月就会有一个新的 BaaS 进入竞技场，拥有自己的 SDK、客户端库、CLI 等。如果能换一个新的 BaaS 就好了。应用程序从一种 BaaS 转移到另一种 BaaS 并不令人头疼。大多数 BaaS 都有 Rest/GraphQL API 来管理它们，所以我认为技术上可以将它们全部抽象到客户端库中吗？  我猜是淋浴想法。如果有人最终制作了一个 github 项目，请将其称为 BaaS Pro Shop。   由   提交 /u/velocd   [链接] [评论]]]></description>
+      <description><![CDATA[似乎每隔一个月就有一个新的 BaaS 进入竞技场，拥有自己的 SDK、客户端库、CLI 等。如果能换一个新的 BaaS 就好了。应用程序从一种 BaaS 转移到另一种 BaaS 并不令人头疼。大多数 BaaS 都有 Rest/GraphQL API 来管理它们，所以我认为技术上可以将它们全部抽象到客户端库中吗？  我猜是淋浴想法。如果有人最终制作了一个 github 项目，请将其称为 BaaS Pro Shop。   由   提交 /u/velocd   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1bbobh1/is_there_a_github_project_that_abstracts_baas/</guid>
       <pubDate>Sun, 10 Mar 2024 23:20:15 GMT</pubDate>
     </item>
     <item>
       <title>需要一些好的文档来复习。</title>
       <link>https://www.reddit.com/r/webdev/comments/1bbo5me/need_some_good_docs_for_refresher/</link>
-      <description><![CDATA[我在大学学习了 Javascript、HTML 5、CSS、CSS 3、Bootstrap、Angular JS、Jquery 和 Jquery mobile，但已经过去几年了。一直在努力寻找其他工作，决定尝试做自由职业，但想要一些 pdf 形式或电子书形式的手册和/或指南，我可以参考以刷新我的记忆。   由   提交 /u/TheChiarra   [链接] [评论]]]></description>
+      <description><![CDATA[我在大学学习了 Javascript、HTML 5、CSS、CSS 3、Bootstrap、Angular JS、Jquery 和 Jquery mobile，但已经过去几年了。一直在努力寻找其他工作，决定尝试一下自由职业，但想要一些 pdf 形式或电子书形式的手册和/或指南，我可以参考以刷新我的记忆。   由   提交 /u/TheChiarra   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1bbo5me/need_some_good_docs_for_refresher/</guid>
       <pubDate>Sun, 10 Mar 2024 23:13:09 GMT</pubDate>
     </item>
@@ -36,7 +78,7 @@
     <item>
       <title>您如何与客户处理托管和域名所有权？</title>
       <link>https://www.reddit.com/r/webdev/comments/1bbnrsa/how_do_you_handle_hosting_and_domain_ownership/</link>
-      <description><![CDATA[假设您为客户构建了一个网站，但您自己不托管该网站，也不想处理从客户处获得定期付款的问题支付他们的托管和域名费用。 您是否只是在托管/域名和其他服务上记帐，第一次付款，然后将帐户处理给客户？客户续订此类服务是否足够容易？ 我不是全职开发人员，我不想进行交易，也没有自己正确托管网站和处理其域名的知识，所以我更多地寻找“这是您的网站，这里是密钥，您只需每年向公司支付托管和域名费用，这是您的帐户。”解决方案类型。   由   提交 /u/Dont_Blinkk   [链接] [评论]]]></description>
+      <description><![CDATA[假设您为客户构建了一个网站，但您自己不托管该网站，也不想处理从客户那里获得定期付款的问题支付他们的托管和域名费用。 您是否只是在托管/域名和其他服务上记帐，第一次付款，然后将帐户处理给客户？客户续订此类服务是否足够容易？ 我不是全职开发人员，我不想进行交易，也没有自己正确托管网站和处理其域名的知识，所以我更多地寻找“这是您的网站，这里是密钥，您只需每年向公司支付托管和域名费用，这是您的帐户。”解决方案类型。   由   提交 /u/Dont_Blinkk   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1bbnrsa/how_do_you_handle_hosting_and_domain_ownership/</guid>
       <pubDate>Sun, 10 Mar 2024 22:57:15 GMT</pubDate>
     </item>
@@ -62,53 +104,11 @@
       <pubDate>Sun, 10 Mar 2024 21:02:00 GMT</pubDate>
     </item>
     <item>
-      <title>去护照还是不去护照</title>
+      <title>护照还是不护照</title>
       <link>https://www.reddit.com/r/webdev/comments/1bbkr1w/to_passport_or_not_to_passport/</link>
       <description><![CDATA[因此寻求一些建议。我正在全力为节点中的应用程序构建身份验证系统。它使用用户名/电子邮件和登录密码，一切都工作得很好。 我的下一步是实现某种基于会话的系统，最初我用 JWT 设置它，但发现这些不利于身份验证，因为会使身份验证无效令牌并不简单 无论如何，找到一个关于使用用户名/密码组合实现会话的好的教程/指南似乎几乎是不可能的，但我找到了使用 Passport 的负载。 我的问题是，Passport 是一个很好用的第三方身份验证插件吗？转向实现它是否有意义？ 提前致谢。  &amp; #32；由   提交/u/preacher2041   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1bbkr1w/to_passport_or_not_to_passport/</guid>
       <pubDate>Sun, 10 Mar 2024 20:52:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找小型项目创意</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bbjq4u/looking_for_small_projekt_ideas/</link>
-      <description><![CDATA[就像标题说我正在寻找一些独特或很酷的项目。任何意见将不胜感激。需要一个公司项目，我有机会加入，但我的头脑一片空白。 请不要使用计算器或井字游戏    ;由   提交 /u/avadakava   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bbjq4u/looking_for_small_projekt_ideas/</guid>
-      <pubDate>Sun, 10 Mar 2024 20:10:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>Vscode 仍然是首选环境吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bbiisk/is_vscode_still_the_go_to_env/</link>
-      <description><![CDATA[我最近看到 fireship 有一个视频谈论了一些我什至没有想到的其他编码环境，最近我在 vscode 上遇到了跟不上的问题处理项目错误，无论是添加还是清除它们，以及其他一些看起来很慢的事情。  vscode 仍然是开发的首选吗，至少对于前端来说，我也使用 intellij 来做后端 java，不确定是否有什么东西可以更好地为 java 做。 或者是像 zed 和atom 这样的东西只是编码得更好、更快、更强，但它只是没有超越流行？我只是希望参与社区并激发他们的想法   由   提交 /u/Trueleo1   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bbiisk/is_vscode_still_the_go_to_env/</guid>
-      <pubDate>Sun, 10 Mar 2024 19:22:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何与网络开发机构建立更多的分包合作伙伴关系？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bbih10/how_to_get_more_subcontracting_partnerships_with/</link>
-      <description><![CDATA[大家好，我在一家数字咨询公司工作，主要从事网站开发和网站管理。我们正在尝试通过瞄准其他忙于工作的机构来发展和扩大业务，将一些工作借给我们以换取佣金，基本上是分包。我想知道与其中一些企业联系以实际达成分包交易的最佳第一步是什么？谢谢大家，我会尽力回复每一条评论。    由   提交 /u/Wild_Dragonfruit_184   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bbih10/how_to_get_more_subcontracting_partnerships_with/</guid>
-      <pubDate>Sun, 10 Mar 2024 19:20:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>Show HN：妻子找不到开发工作，所以我构建了一个工具来自动搜索</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bbhkxm/show_hn_wife_couldnt_find_a_dev_job_so_i_built_a/</link>
-      <description><![CDATA[ 由   提交/u/drakedemon  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bbhkxm/show_hn_wife_couldnt_find_a_dev_job_so_i_built_a/</guid>
-      <pubDate>Sun, 10 Mar 2024 18:43:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了协作文本编辑器 - l4r.app</title>
-      <link>https://www.reddit.com/r/webdev/comments/1baueue/i_created_collaborative_text_editor_l4rapp/</link>
-      <description><![CDATA[    &lt; /a&gt;   由   提交 /u/HamzaKhuswan   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1baueue/i_created_collaborative_text_editor_l4rapp/</guid>
-      <pubDate>Sat, 09 Mar 2024 22:40:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>不再是静态：通过动态配置改变前端部署</title>
-      <link>https://www.reddit.com/r/webdev/comments/1batyw1/static_no_more_transforming_frontend_deployment/</link>
-      <description><![CDATA[       由   提交/u/domemvs  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1batyw1/static_no_more_transforming_frontend_deployment/</guid>
-      <pubDate>Sat, 09 Mar 2024 22:21:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
