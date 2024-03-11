@@ -4,86 +4,88 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Mon, 11 Mar 2024 15:10:38 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 Mar 2024 18:12:47 GMT</lastBuildDate>
     <item>
-      <title>嘿，HN，我们是 Onedoc 的联合创始人，该平台提供了更好的 PDF 创建方式。</title>
-      <link>https://t.me/hn_summary/78776</link>
-      <description><![CDATA[启动 HN：Onedoc (YC W24) – 更好的创建方式PDF
-嘿，HN，我们是 Onedoc 的联合创始人，该平台提供了更好的 PDF 创建方式。我们开发了开源库react-print-pdf来帮助开发人员自动设计和生成PDF文档。我们的平台允许用户使用网络技术设计文档，然后自动生成 PDF，从而简化了 PDF 创建过程。凭借对 Tailwind CSS、Chakra UI 组件、LaTeX 和 Markdown 的支持等功能，Onedoc 为创建具有专业外观的文档提供了用户友好的体验。在我们的网站上免费试用我们的平台，看看创建完全控制布局和设计的 PDF 是多么容易。]]></description>
-      <guid>https://t.me/hn_summary/78776</guid>
-      <pubDate>Mon, 11 Mar 2024 15:10:38 GMT</pubDate>
+      <title>标题：Rnote – 一款基于矢量的开源绘图应用程序</title>
+      <link>https://t.me/hn_summary/78811</link>
+      <description><![CDATA[Rnote – 一款基于矢量的开源绘图应用
+标题：Rnote – 一款基于矢量的开源绘图应用
+
+Rnote 是一款多功能绘图应用程序，专注于手写笔输入和压力敏感功能。用户可以创建各种形状、自定义背景并使用不同的文档布局。该应用程序提供独特的功能，例如笔声音和可重新配置的手写笔按钮快捷键。但是，免责声明警告说，文件格式仍然不稳定，可能会导致版本之间的兼容性问题。 Rnote 适用于 Linux、MacOS 和 Windows，并提供安装和降级选项。该应用程序包含捆绑字体，并根据 GPL-3.0 或更高版本获得许可。有关更多信息，请访问 Github 存储库。]]></description>
+      <guid>https://t.me/hn_summary/78811</guid>
+      <pubDate>Mon, 11 Mar 2024 18:12:47 GMT</pubDate>
     </item>
     <item>
-      <title>Temu 所有者 PDD 的前雇员因竞业禁止协议而面临监视和破产。</title>
-      <link>https://t.me/hn_summary/78775</link>
-      <description><![CDATA[Temu 所有者 PDD 的前工人因非竞争
-Temu 所有者 PDD 的前雇员因竞业禁止协议而面临监视和破产。这些协议给那些离开公司的人带来了痛苦和经济困难。这种情况引发了对此类协议的合法性和道德的争议。本文揭示了前工人面临的斗争以及竞业禁止对他们生活的影响。利用我们的限时优惠，在任何设备上访问基本 FT 新闻的标准数字访问可节省高达 40% 的费用。随时取消。]]></description>
-      <guid>https://t.me/hn_summary/78775</guid>
-      <pubDate>Mon, 11 Mar 2024 15:08:34 GMT</pubDate>
+      <title>第五巡回法院最近裁定，成人内容网站的年龄验证要求 [...]</title>
+      <link>https://t.me/hn_summary/78810</link>
+      <description><![CDATA[第五巡回法院宣布年龄验证完全符合第一修正案
+第五巡回法院最近裁定，德克萨斯州法律 HB 1181 规定的成人内容网站的年龄验证要求完全符合第一修正案。法院以较低的审查标准、合理的依据来判定该法律是否合宪，与此前法院的裁决相悖。持异议的法官认为，该法律不仅影响淫秽言论，还影响合法言论，需要严格审查。大多数人的意见倾向于 1968 年的金斯伯格诉纽约案，但持不同意见的人指出，并非所有的性表达都是淫秽的。该裁决引发了对该案适用不同审查标准的争议和争论。 （根据 65% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/78810</guid>
+      <pubDate>Mon, 11 Mar 2024 18:07:41 GMT</pubDate>
     </item>
     <item>
-      <title>在“XY 监视器的秘密生活”中，Jed Margolin 深入研究了 XY 监视器的内部工作原理 [...]</title>
-      <link>https://t.me/hn_summary/78774</link>
-      <description><![CDATA[XY 显示器的秘密生活
-在《XY 显示器的秘密生活》中，Jed Margolin 深入研究了 XY 显示器的内部工作原理，在计算机图形行业中也称为“随机扫描”，在视频游戏社区中也称为“矢量游戏”。 Margolin 解释了 XY 监视器的组件，包括阴极射线管 (CRT)、偏转放大器和高压电源。他讨论了 CRT 的电子光学，详细介绍了电子枪、控制栅极、聚焦栅极和阳极。 Margolin 还探索了静电和磁偏转方法，强调了每种方法的优点和缺点。本文全面介绍了 XY 显示器背后的技术，揭示了游戏历史中鲜为人知的方面。 （根据故事文本的 22% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/78774</guid>
-      <pubDate>Mon, 11 Mar 2024 15:07:30 GMT</pubDate>
+      <title>在 dazkins.com 上查看我的新 1 量子位量子电路模拟器！</title>
+      <link>https://t.me/hn_summary/78809</link>
+      <description><![CDATA[展示 HN：具有交互式布洛赫球的 1 量子位量子电路模拟器&lt; /a&gt;
+在 dazkins.com 上查看我的新 1 量子位量子电路模拟器！这个交互式工具允许您使用布洛赫球体可视化量子态。想了解更多有关量子位的信息吗？请查看我的博客文章以获取详细说明。请注意，该模拟器目前仅与桌面设备兼容。通过这种创新的教育工具探索量子计算的迷人世界。]]></description>
+      <guid>https://t.me/hn_summary/78809</guid>
+      <pubDate>Mon, 11 Mar 2024 18:06:36 GMT</pubDate>
     </item>
     <item>
-      <title>欢迎来到 ICLR 博客文章网站！</title>
-      <link>https://t.me/hn_summary/78773</link>
-      <description><![CDATA[ICLR 博文
-欢迎来到 ICLR 博客文章网站！在这里，您将找到由机器学习和人工智能领域的专家撰写的一系列富有洞察力和发人深省的博客文章。从前沿研究到实际应用，我们的博客涵盖了广泛的主题，一定会引起您的兴趣。单击链接探索我们的最新帖子并了解行业的最新趋势。不要错过这个有关人工智能的宝贵资源！]]></description>
-      <guid>https://t.me/hn_summary/78773</guid>
-      <pubDate>Mon, 11 Mar 2024 14:55:23 GMT</pubDate>
+      <title>[媒体]Linus Torvalds 发布了 Linux 内核 6.8 版，并指出它花了很长时间 [...]</title>
+      <link>https://t.me/hn_summary/78808</link>
+      <description><![CDATA[Linux 6.9将率先突破一千万Git对​​象
+Linus Torvalds 发布了 Linux 内核 6.8 版本，并指出该版本的提交计数需要更长的时间才能下降。内核现在包含近千万个 Git 对象，这是该项目的一个里程碑。最重要的新增功能是针对 Intel GPU 的新 Xe drm 驱动程序，同时还支持 Amazon Web Services 的“Nitro”技术以及对 bcachefs 文件系统的改进。此外，该内核现在支持 Raspberry Pi 5 的图形硬件和任天堂的 Switch Online 控制器。 Torvalds 呼吁内核开发人员测试新版本，并感谢那些为 6.9 版本做出贡献的人。]]></description>
+      <guid>https://t.me/hn_summary/78808</guid>
+      <pubDate>Mon, 11 Mar 2024 18:05:34 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在 Colbert.nl，我们开发了一种独特的方法来执行数据库中存储的公式[...]</title>
-      <link>https://t.me/hn_summary/78772</link>
-      <description><![CDATA[使用几乎标准的 SQL 执行存储在数据库字段中的公式 
-在Colbert.nl，我们开发了一种独特的方法来执行公式使用几乎标准的 SQL 存储在数据库字段中。这允许用户汇总满足特定 Def 条件的所有分数的总和，而无需进行复杂的编程。我们的创新方法简化了数据分析和流程，使企业更容易从数据库中提取有价值的见解。使用 Colbert.nl.]]></description>
-      <guid>https://t.me/hn_summary/78772</guid>
-      <pubDate>Mon, 11 Mar 2024 14:54:19 GMT</pubDate>
+      <title>[媒体]Zama 是一家总部位于巴黎的初创公司，其同态 en [...]</title>
+      <link>https://t.me/hn_summary/78807</link>
+      <description><![CDATA[Zama 的同态加密技术以近 400 美元的估值获得 7300 万美元
+总部位于巴黎的初创公司 Zama 已为其同态加密技术筹集了 7300 万美元的资金，使其估值接近 4 亿美元。尽管面临可扩展性和复杂性方面的挑战，Zama 的数据安全创新方法还是吸引了大量投资。 Zama 专注于区块链交易和人工智能数据交换，已签署超过 5000 万美元的合同。联合创始人 Rand Hindi 在计算机科学和人工智能方面的背景，加上首席技术官 Pascal Paillier 在密码学方面的专业知识，使 Zama 成为该领域的领导者。虽然同态加密市场仍在兴起，但 Zama 正在为数字世界中隐私优先的应用程序铺平道路。]]></description>
+      <guid>https://t.me/hn_summary/78807</guid>
+      <pubDate>Mon, 11 Mar 2024 18:04:29 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]以色列人权组织指责该国未能遵守国际法院的裁决 [...]</title>
-      <link>https://t.me/hn_summary/78771</link>
-      <description><![CDATA[以色列人权组织指责该国不遵守国际法院的裁决&lt; /a&gt;
-以色列人权组织指责该国未能遵守国际法院的裁决，为加沙提供人道主义援助。这项裁决是针对南非关于种族灭绝的申诉而发布的，要求以色列防止伤害平民、向加沙提供援助并惩罚煽动种族灭绝的行为。尽管受到美国和欧盟的压力，以色列仍未完全执行这些措施。缺乏援助导致了人道主义危机，国际特赦组织警告说存在饥荒和种族灭绝的风险。敦促国际社会推动停火并归还哈马斯扣押的人质。]]></description>
-      <guid>https://t.me/hn_summary/78771</guid>
-      <pubDate>Mon, 11 Mar 2024 14:53:15 GMT</pubDate>
+      <title>[媒体] GitHub 上的人工智能控制器接口 (AICI) 项目允许用户 [...]</title>
+      <link>https://t.me/hn_summary/78806</link>
+      <description><![CDATA[将 HN：提示显示为 (WASM) 程序&lt; br/&gt;
+GitHub 上的人工智能控制器接口 (AICI) 项目允许用户构建实时指导大型语言模型 (LLM) 输出的控制器。这些控制器可以实现受限解码、提示和生成文本的动态编辑，以及跨多个并行生成的协调执行。 AICI 旨在通过抽象底层 LLM 推理和服务引擎的实现细节来简化控制器策略的开发，以改进 LLM 生成。它专为本地和云执行而设计，利用轻量级 WebAssembly (Wasm) 模块。 AICI 灵活、安全、快速，是微软研究院开发的原型。它提供了进一步探索和开发自定义控制器的全面指南。 （根据故事文本的 58% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/78806</guid>
+      <pubDate>Mon, 11 Mar 2024 18:02:23 GMT</pubDate>
     </item>
     <item>
-      <title>Telegram 是一款流行的消息应用程序，其用户数量已达到 9 亿的里程碑，并且即将 [...]</title>
-      <link>https://t.me/hn_summary/78770</link>
-      <description><![CDATA[Telegram 拥有 9 亿用户并接近盈利，创始人考虑 IPO
-Telegram 是一款流行的消息应用程序，其用户数量已达到 9 亿的里程碑，并且即将实现盈利。创始人帕维尔·杜罗夫（Pavel Durov）正在考虑通过首次公开募股（IPO）让公司上市。这一消息令许多人感到惊讶，因为 Telegram 过去因其在隐私和加密方面的立场而面临争议。尽管如此，该应用程序仍然越来越受欢迎，并可能很快成为科技行业的主要参与者。]]></description>
-      <guid>https://t.me/hn_summary/78770</guid>
-      <pubDate>Mon, 11 Mar 2024 14:50:11 GMT</pubDate>
+      <title>问HN：有没有办法为iPhone制作一个自毁按钮？</title>
+      <link>https://t.me/hn_summary/78805</link>
+      <description><![CDATA[问HN：有没有办法制作一个自毁按钮适用于 iPhone？
+news.ycombinator.com 上这篇文章的作者是对为 iPhone 创建自毁按钮的可能性感到好奇。他们的灵感来自于发现 iPhone 可以通过轻敲背面来设置运行自动化。虽然他们承认可能有适当的保护措施来防止手机过热，但他们推测了潜在的解决方法。手机自毁按钮的想法既有趣又充满争议，因为它引发了有关安全措施的问题。]]></description>
+      <guid>https://t.me/hn_summary/78805</guid>
+      <pubDate>Mon, 11 Mar 2024 17:55:16 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Extropic 正在通过全栈硬件平台彻底改变人工智能世界 [...]</title>
-      <link>https://t.me/hn_summary/78769</link>
-      <description><![CDATA[Extropic正在构建什么
-Extropic 正在通过全栈硬件平台彻底改变人工智能世界，该平台利用物质的自然波动来实现生成人工智能。这种新颖的范式将硬件扩展扩展到数字计算限制之外，从而使人工智能加速器更快、更节能。通过直接将基于能量的模型实现为参数化随机模拟电路，Extropic 加速器在运行时间和能源效率方面实现了显着改进。从超导处理器到半导体设备，Extropic 正在为所有人都能使用的热力学 AI 加速铺平道路。 Extropic 专注于能源效率和可扩展性，将重新定义人工智能的未来。]]></description>
-      <guid>https://t.me/hn_summary/78769</guid>
-      <pubDate>Mon, 11 Mar 2024 14:49:08 GMT</pubDate>
+      <title>[媒体]备受期待的 Kdenlive 24.02 版本已经发布，对 [...]</title>
+      <link>https://t.me/hn_summary/78804</link>
+      <description><![CDATA[Kdenlive 24.02开源视频编辑器发布
+备受期待的 Kdenlive 24.02 版本现已发布，它对 Qt6 和 KDE Frameworks 6 进行了重大升级，奠定了更强大的基础。 Linux 用户将受益于改进的 Wayland 支持，而 Windows、MacOS 和 Linux 用户将体验到对 DirectX、Metal 和 Vulkan 的本机支持带来的性能提升。但是，有一些已知问题需要注意，例如 Windows 和 AppImage 中主题未正确应用。尽管如此，团队仍致力于根据用户的反馈来完善和改进 Kdenlive。性能增强、项目完整性测量和生活质量改进使该版本成为视频编辑领域的游戏规则改变者。]]></description>
+      <guid>https://t.me/hn_summary/78804</guid>
+      <pubDate>Mon, 11 Mar 2024 17:50:11 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 2000 年前，在伊拉克发现的一个陶罐被认为是电池 [...]</title>
-      <link>https://t.me/hn_summary/78768</link>
-      <description><![CDATA[2K年前的船只，用作电池
-2000年前，在伊拉克发现的一个陶罐被认为是能够发电的电池。尽管有些人认为它可能是来自另一个世界的物体，但最被接受的理论是它被用来激励物体。然而，由于没有确凿的证据证明其功能，因此围绕其真实性和实际用途存在争议。尽管如此，古代电池的想法仍然很有趣，并挑战着我们对过去文明技术的信念。尽管它在入侵伊拉克期间消失了，但巴格达电池的谜团仍未解开。 （根据 96% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/78768</guid>
-      <pubDate>Mon, 11 Mar 2024 14:40:02 GMT</pubDate>
+      <title>[媒体]今天，我们很高兴地推出 JSON Canvas，这是 Obsidian Canvas 的新名称，同时 [...]</title>
+      <link>https://t.me/hn_summary/78803</link>
+      <description><![CDATA[JSON Canvas：无限画布数据的开放文件格式
+今天，我们很高兴推出 JSON Canvas（Obsidian Canvas 的新名称），以及它自己的专用站点和开源资源，网址为 jsoncanvas.org。 JSON Canvas 是一种可自由实现的文件格式，可在任何应用程序或工具中导入、导出和存储，所有这些都在 GitHub 上的 MIT 许可下进行。创建此格式是为了确保无限的画布数据存储在本地、可以离线访问并且完全在您的控制之下。虽然无限画布工具越来越受欢迎，但 JSON Canvas 旨在为使用这些应用程序创建的数据提供持久性、可读性、互操作性和可扩展性。该规范目前为 1.0 版本，并计划未来改进。]]></description>
+      <guid>https://t.me/hn_summary/78803</guid>
+      <pubDate>Mon, 11 Mar 2024 17:41:03 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]GrapheneOS 通过 [...] 发现了蓝牙内存损坏的一个严重漏洞</title>
-      <link>https://t.me/hn_summary/78767</link>
-      <description><![CDATA[GrapheneOS 通过 ARM MTE 发现蓝牙内存损坏
-GrapheneOS 通过 ARM MTE 技术发现了蓝牙内存损坏的严重漏洞。这一发现凸显了移动设备中安全措施的重要性，因为此漏洞可能会被恶意行为者利用。通过发现这个问题，GrapheneOS 正在采取主动措施来保护用户免受潜在的网络威胁。为了获得更安全的浏览体验，请考虑在您的平台上使用 Mastodon 的本机应用程序之一。通过 GrapheneOS 随时了解情况并保持安全。]]></description>
-      <guid>https://t.me/hn_summary/78767</guid>
-      <pubDate>Mon, 11 Mar 2024 14:38:57 GMT</pubDate>
+      <title>[媒体] JSON Canvas 是一种专为无限画布数据设计的开放文件格式，允许用户 [...]</title>
+      <link>https://t.me/hn_summary/78802</link>
+      <description><![CDATA[JSON Canvas – 无限画布数据的开放文件格式
+JSON Canvas 是一种开放文件格式，专为无限画布数据而设计，允许用户在空间上查看和组织信息。创建这种带有 .canvas 扩展名的格式是为了提供使用无限画布应用程序创建的数据的寿命、可读性和所有权。 JSON Canvas 最初是为 Obsidian 开发的，可以在任何应用程序中作为导入、导出或存储格式自由实现。此开源资源鼓励数据组织的自由和探索，使其成为在数字白板体验中寻求互操作性和可扩展性的用户的宝贵工具。]]></description>
+      <guid>https://t.me/hn_summary/78802</guid>
+      <pubDate>Mon, 11 Mar 2024 17:39:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
