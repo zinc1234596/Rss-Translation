@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 11 Mar 2024 09:13:31 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 Mar 2024 15:13:22 GMT</lastBuildDate>
+    <item>
+      <title>是否有界面类似于 iWork 的开源办公套件？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1bc3nfu/is_there_an_opensource_office_suite_with_an/</link>
+      <description><![CDATA[LibreOffice 在界面方面很大程度上尝试复制 MS Word。它有一些可用的界面选择，但与 iWork 套件（Pages、Numbers、Keynote）没有任何相似之处。是否有开源办公套件或 LibreOffice 模式允许以这种方式更改界面？   由   提交/u/Qwert-4  /u/Qwert-4  reddit.com/r/opensource/comments/1bc3nfu/is_there_an_opensource_office_suite_with_an/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1bc3nfu/is_there_an_opensource_office_suite_with_an/</guid>
+      <pubDate>Mon, 11 Mar 2024 13:50:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找CCTV软件来替代SwanView</title>
+      <link>https://www.reddit.com/r/opensource/comments/1bc0u43/looking_for_cctv_software_to_replace_swanview/</link>
+      <description><![CDATA[有谁知道我可以用什么好的开源闭路电视软件来替代 SwanView 闭路电视系统中使用的糟糕软件。 他们的软件太糟糕了，时间戳无法正确匹配，并且在错误的时间下载视频，所以我想更换它。有人有什么好的建议吗？    由   提交/u/nose_gnome  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1bc0u43/looking_for_cctv_software_to_replace_swanview/</guid>
+      <pubDate>Mon, 11 Mar 2024 11:20:02 GMT</pubDate>
+    </item>
     <item>
       <title>是否会分析更多的人工智能系统？</title>
       <link>https://www.reddit.com/r/opensource/comments/1bby5bn/will_more_ai_systems_be_analyzed/</link>
@@ -43,7 +57,7 @@
     <item>
       <title>完全控制您的 Discord Rich Presence</title>
       <link>https://www.reddit.com/r/opensource/comments/1bbebqd/take_full_control_of_your_discord_rich_presence/</link>
-      <description><![CDATA[编写了一个简单的 python 脚本，允许您使用 Discord 允许我们使用的所有配置功能来完全控制您的 Discord Rich Presence。您可以在终端内运行脚本，也可以直接使用最新版本中包含的编译后的可执行文件运行它。祝您玩得开心！ https://github.com/ThatSINEWAVE/Discord-Rich-Presence   由   提交 /u/MonsterDavidOFFICIAL   [链接] [评论]]]></description>
+      <description><![CDATA[编写了一个简单的 Python 脚本，允许您使用 Discord 允许我们使用的所有配置功能来完全控制您的 Discord Rich Presence。您可以在终端内运行脚本，也可以直接使用最新版本中包含的已编译可执行文件运行它。祝您玩得开心！ https://github.com/ThatSINEWAVE/Discord-Rich-Presence   由   提交 /u/MonsterDavidOFFICIAL   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1bbebqd/take_full_control_of_your_discord_rich_presence/</guid>
       <pubDate>Sun, 10 Mar 2024 16:27:13 GMT</pubDate>
     </item>
@@ -64,7 +78,7 @@
     <item>
       <title>Radicle：开源、点对点、GitHub 替代方案</title>
       <link>https://www.reddit.com/r/opensource/comments/1bb6b6z/radicle_opensource_peertopeer_github_alternative/</link>
-      <description><![CDATA[       由   提交/u/1_like_science   [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[       由   提交/u/1_like_science  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1bb6b6z/radicle_opensource_peertopeer_github_alternative/</guid>
       <pubDate>Sun, 10 Mar 2024 09:25:27 GMT</pubDate>
     </item>
@@ -85,7 +99,7 @@
     <item>
       <title>pmGenerator - 探索具有压缩分离的希尔伯特系统 (GPLv3)</title>
       <link>https://www.reddit.com/r/opensource/comments/1bb552f/pmgenerator_explore_hilbert_systems_with/</link>
-      <description><![CDATA[我想推广我的工具来协助证明理论的研究（希望符合非过度自我推销指南）：   pmGenerator 可以构建并且（详尽地）在希尔伯特系统中收集用户可定义的公理集的压缩分离证明。  当前的 1.2 版本支持两种推理规则： D 规则：将树统一（在公式上）与 modus ponens (⊢ψ,⊢ψ→φ ⇒ ⊢φ)相结合 &lt; li&gt;N 规则：必要性 (⊢ψ ⇒ ⊢□ψ)，可以选择启用  项目的自述文件还重点介绍了我为其生成（可下载）证明集合的几个系统。 我启动了一个证明最小化挑战作为项目的一部分。  该工具最简单的功能之一是它可以打印 D-proofs的公式。例如，DD2D1D2DD2D1311 是基于三个公理的 15 个步骤的 D 证明，./pmGenerator -c -n -s CpCqp,CCpCqrCCpqCpr,CCNpNqCqp --parse DD2D1D2DD2D1311 -u &gt; 结果 [0] DD2D1D2DD2D1311: 1. 0→(Ø0→0) (1) 2. Ø0→(Ø1→Ø0) (1) 3. (Ø 1→Ø0)→(0→1) (3) 4. ((Ø1→Ø0)→(0→1))→(Ø0→((Ø1→Ø0)→(0→1) )) (1) 5. Ø0→((Ø1→Ø0)→(0→1)) (D):3,4 6. (Ø0→((Ø1→Ø0)→(0→ 1)))→((Ø0→(Ø1→Ø0))→(Ø0→(0→1))) (2) 7. (Ø0→(Ø1→Ø0))→(Ø 0→(0→1)) (D):5,6 8. Ø0→(0→1) (D):2,7 9. (Ø0→(0→1))→((Ø0→ 0)→(Ø0→1)) (2) 10. (Ø0→0)→(Ø0→1) (D):8,9 11. ((Ø0→0)→(Ø0→1 ))→(0→((Ø0→0)→(Ø0→1))) (1) 12. 0→((Ø0→0)→(Ø0→1)) (D):10, 11 13. (0→((Ø0→0)→(Ø0→1)))→((0→(Ø0→0))→(0→(Ø0→1))) (2) 14 . (0→(Ø0→0))→(0→(Ø0→1)) (D):12,13 15. 0→(Ø0→1) (D):1,14   其中 -c -n -s CpCqp,CCpCqrCCpqCpr,CCNpNqCqp 表示 (1): 0→(1→0), ( 2）：（0→（1→2））→（（0→1）→（0→2）），和（3）：（Ø0→Ø1）→（1→ 0) 被配置为公理（在普通波兰表示法中给出）。 还有更多功能，例如生成、搜索、减少、转换、提取数据......   我很高兴收到一些反馈。包括建议，我可以更好地宣传这一点。 不幸的是，通知相关社区（也与寻找数理逻辑中的形式证明有关）没有得到任何反馈。我真的不明白为什么我会被这样迷惑。我缺乏一个由具有相似兴趣的人组成的社区。   由   提交/u/xamid  [链接] [评论]]]></description>
+      <description><![CDATA[我想推广我的工具来协助证明理论的研究（希望符合非过度自我推销指南）：   pmGenerator 可以构建并且（详尽地）在希尔伯特系统中收集用户可定义的公理集的压缩分离证明。  当前的 1.2 版本支持两种推理规则： D 规则：将树统一（在公式上）与 modus ponens (⊢ψ,⊢ψ→φ ⇒ ⊢φ)相结合 &lt; li&gt;N 规则：必要性 (⊢ψ ⇒ ⊢□ψ)，可以选择启用  项目的自述文件还重点介绍了我为其生成（可下载）证明集合的几个系统。 我启动了一个证明最小化挑战作为项目的一部分。  该工具最简单的功能之一是它可以打印 D-proofs的公式。例如，DD2D1D2DD2D1311 是基于三个公理的 15 个步骤的 D 证明，./pmGenerator -c -n -s CpCqp,CCpCqrCCpqCpr,CCNpNqCqp --parse DD2D1D2DD2D1311 -u &gt; 结果 [0] DD2D1D2DD2D1311: 1. 0→(Ø0→0) (1) 2. Ø0→(Ø1→Ø0) (1) 3. (Ø 1→Ø0)→(0→1) (3) 4. ((Ø1→Ø0)→(0→1))→(Ø0→((Ø1→Ø0)→(0→1) )) (1) 5. Ø0→((Ø1→Ø0)→(0→1)) (D):3,4 6. (Ø0→((Ø1→Ø0)→(0→ 1)))→((Ø0→(Ø1→Ø0))→(Ø0→(0→1))) (2) 7. (Ø0→(Ø1→Ø0))→(Ø 0→(0→1)) (D):5,6 8. Ø0→(0→1) (D):2,7 9. (Ø0→(0→1))→((Ø0→ 0)→(Ø0→1)) (2) 10. (Ø0→0)→(Ø0→1) (D):8,9 11. ((Ø0→0)→(Ø0→1 ))→(0→((Ø0→0)→(Ø0→1))) (1) 12. 0→((Ø0→0)→(Ø0→1)) (D):10, 11 13. (0→((Ø0→0)→(Ø0→1)))→((0→(Ø0→0))→(0→(Ø0→1))) (2) 14 . (0→(Ø0→0))→(0→(Ø0→1)) (D):12,13 15. 0→(Ø0→1) (D):1,14   其中 -c -n -s CpCqp,CCpCqrCCpqCpr,CCNpNqCqp 表示 (1): 0→(1→0), ( 2）：（0→（1→2））→（（0→1）→（0→2）），和（3）：（Ø0→Ø1）→（1→ 0) 被配置为公理（在普通波兰表示法中给出）。 还有更多功能，例如生成、搜索、减少、转换、提取数据......   我很高兴收到一些反馈。包括建议，我可以更好地宣传这一点。 不幸的是，通知相关社区（也关注在数理逻辑中寻找形式证明）没有得到任何反馈。我真的不明白为什么我会被这样迷惑。我缺少一个由具有相似兴趣的人组成的社区。   由   提交/u/xamid  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1bb552f/pmgenerator_explore_hilbert_systems_with/</guid>
       <pubDate>Sun, 10 Mar 2024 08:06:38 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[而不是使用付费服务？ 我想扩展到每天 40-50 次聊天。 &lt; p&gt;我想使用开源，因为这样我就有能力控制聊天的隐私。   由   提交/u/igaloly  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1bawe5u/is_it_crazy_to_use_open_source_self_hosted_video/</guid>
       <pubDate>Sun, 10 Mar 2024 00:07:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>为我的项目寻求反馈</title>
-      <link>https://www.reddit.com/r/opensource/comments/1barbdz/seeking_feedback_for_my_project/</link>
-      <description><![CDATA[r/dotnet 社区大家好！&lt; /p&gt; 我想分享一个我长期以来一直热衷的项目，该项目完全用 .NET 构建。它称为 musoq，允许在不同的数据源上使用 SQL 语法。我很乐意邀请​​您访问我的项目的 GitHub 个人资料以进一步探索它。我们将非常感谢您的反馈和建议。最近，我又采取了一步来降低进入门槛，准备了一个 CLI 工具来轻松使用该项目。 在我继续改进该项目时，您对该项目的指导、想法和想法对我来说非常宝贵。 。非常感谢您抽出宝贵的时间，即使只是阅读这篇文章:)   由   提交 /u/Puchaczov   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1barbdz/seeking_feedback_for_my_project/</guid>
-      <pubDate>Sat, 09 Mar 2024 20:28:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>只是另一个 android 库</title>
-      <link>https://www.reddit.com/r/opensource/comments/1baq8x7/just_another_android_library/</link>
-      <description><![CDATA[       由   提交 /u/Junior_Mushroom8983   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1baq8x7/just_another_android_library/</guid>
-      <pubDate>Sat, 09 Mar 2024 19:43:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
