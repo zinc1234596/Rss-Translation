@@ -4,7 +4,56 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Mon, 11 Mar 2024 09:13:04 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 Mar 2024 12:19:29 GMT</lastBuildDate>
+    <item>
+      <title>如何使用 Flexsearch 将搜索添加到网站</title>
+      <link>https://www.reddit.com/r/programming/comments/1bc1muu/how_to_add_search_to_a_website_using_flexsearch/</link>
+      <description><![CDATA[ 由   提交/u/pdycnbl  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1bc1muu/how_to_add_search_to_a_website_using_flexsearch/</guid>
+      <pubDate>Mon, 11 Mar 2024 12:08:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>编码挑战 - Fornite 的中断监视器</title>
+      <link>https://www.reddit.com/r/programming/comments/1bc0i66/coding_challenge_fornites_outage_monitor/</link>
+      <description><![CDATA[ 由   提交/u/curious_drive  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1bc0i66/coding_challenge_fornites_outage_monitor/</guid>
+      <pubDate>Mon, 11 Mar 2024 10:59:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>我如何破解使用 WordPress 构建的课程平台 [附解释]</title>
+      <link>https://www.reddit.com/r/programming/comments/1bc0gsm/how_i_hacked_a_course_platform_built_with/</link>
+      <description><![CDATA[ 由   提交/u/Mte90  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1bc0gsm/how_i_hacked_a_course_platform_built_with/</guid>
+      <pubDate>Mon, 11 Mar 2024 10:57:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>为我的自动化游戏发挥最后一点 JavaScript 性能</title>
+      <link>https://www.reddit.com/r/programming/comments/1bbzuxh/squeezing_last_bit_of_javascript_performance_for/</link>
+      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1bbzuxh/squeezing_last_bit_of_javascript_performance_for/</guid>
+      <pubDate>Mon, 11 Mar 2024 10:16:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>代码理解调查</title>
+      <link>https://www.reddit.com/r/programming/comments/1bbzh1j/code_comprehension_survey/</link>
+      <description><![CDATA[ 由   提交/u/Ok-Assistance7485   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1bbzh1j/code_comprehension_survey/</guid>
+      <pubDate>Mon, 11 Mar 2024 09:50:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>成为更好的开发人员的 10 条原则</title>
+      <link>https://www.reddit.com/r/programming/comments/1bbz890/10_principles_for_being_a_better_developer/</link>
+      <description><![CDATA[ 由   提交/u/congolomera  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1bbz890/10_principles_for_being_a_better_developer/</guid>
+      <pubDate>Mon, 11 Mar 2024 09:32:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Puppeteer 测试网络蓝牙</title>
+      <link>https://www.reddit.com/r/programming/comments/1bbz1n6/test_web_bluetooth_with_puppeteer/</link>
+      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1bbz1n6/test_web_bluetooth_with_puppeteer/</guid>
+      <pubDate>Mon, 11 Mar 2024 09:19:40 GMT</pubDate>
+    </item>
     <item>
       <title>如何使用 Astrojs 和 Tailwind CSS 创建和打印发票</title>
       <link>https://www.reddit.com/r/programming/comments/1bbynd4/how_to_create_and_print_an_invoice_with_astrojs/</link>
@@ -18,13 +67,6 @@
       <description><![CDATA[ 由   提交/u/i4technolab  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1bbyfja/nextgen_programming_languages_shaping_the_future/</guid>
       <pubDate>Mon, 11 Mar 2024 08:35:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google Apps 脚本 + OpenAI</title>
-      <link>https://www.reddit.com/r/programming/comments/1bby4wp/google_apps_script_openai/</link>
-      <description><![CDATA[用例我们如何在 gSheet 中调用 OpenAI 来生成文本描述并将其翻译成多种语言。  我们也可以将其用于产品背景生成器。   由   提交/u/Temporary_Balance158   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1bby4wp/google_apps_script_openai/</guid>
-      <pubDate>Mon, 11 Mar 2024 08:14:10 GMT</pubDate>
     </item>
     <item>
       <title>Docker 基础镜像以及在哪里找到它们的终极指南</title>
@@ -67,48 +109,6 @@
       <description><![CDATA[ 由   提交/u/_Marak_  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1bbwwih/i_made_a_library_for_building_browser_games_that/</guid>
       <pubDate>Mon, 11 Mar 2024 06:44:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>Delphi 是内存安全语言吗？</title>
-      <link>https://www.reddit.com/r/programming/comments/1bbvn7f/is_delphi_a_memory_safe_language/</link>
-      <description><![CDATA[ 由   提交/u/waozen  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1bbvn7f/is_delphi_a_memory_safe_language/</guid>
-      <pubDate>Mon, 11 Mar 2024 05:20:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>两年后，深度学习仍然面临同样的根本挑战</title>
-      <link>https://www.reddit.com/r/programming/comments/1bbvjpp/two_years_later_deep_learning_is_still_faced_with/</link>
-      <description><![CDATA[ 由   提交/u/waozen  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1bbvjpp/two_years_later_deep_learning_is_still_faced_with/</guid>
-      <pubDate>Mon, 11 Mar 2024 05:14:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>labyrinthos ：一种交互式在线工具，允许用户使用递归除法算法生成自定义迷宫</title>
-      <link>https://www.reddit.com/r/programming/comments/1bbvfb6/labyrinthos_an_interactive_online_tool_that/</link>
-      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1bbvfb6/labyrinthos_an_interactive_online_tool_that/</guid>
-      <pubDate>Mon, 11 Mar 2024 05:07:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>新算法可以快速解析字符串中的浮点数，无需查找表！ （自述文件中的一篇文章）</title>
-      <link>https://www.reddit.com/r/programming/comments/1bbv2pi/new_algorithm_to_parse_floats_from_strings/</link>
-      <description><![CDATA[ 由   提交/u/sukawarayuuta   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1bbv2pi/new_algorithm_to_parse_floats_from_strings/</guid>
-      <pubDate>Mon, 11 Mar 2024 04:47:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAPI 生成器 v7.4.0 发布</title>
-      <link>https://www.reddit.com/r/programming/comments/1bbuhxu/openapi_generator_v740_released/</link>
-      <description><![CDATA[ 由   提交/u/wing328  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1bbuhxu/openapi_generator_v740_released/</guid>
-      <pubDate>Mon, 11 Mar 2024 04:15:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Blipsort（一种通常比原始 pdqsort 更快的排序）现在是完全通用的且仅限标头，并且可以选择提供自定义比较器。它在算术和指针类型上使用无分​​支 Lomuto，在自定义类型上使用分支 Hoare。</title>
-      <link>https://www.reddit.com/r/programming/comments/1bbse38/blipsort_a_sort_that_is_often_faster_than_the/</link>
-      <description><![CDATA[ 由   提交/u/R3dB3dH3d  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1bbse38/blipsort_a_sort_that_is_often_faster_than_the/</guid>
-      <pubDate>Mon, 11 Mar 2024 02:30:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
