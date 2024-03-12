@@ -4,88 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Tue, 12 Mar 2024 15:05:31 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 Mar 2024 21:09:56 GMT</lastBuildDate>
     <item>
-      <title>伟大的美洲驼（以及鸵鸟和鸸鹋）的崩溃是对戏剧性的令人着迷的观察 [...]</title>
-      <link>https://t.me/hn_summary/78957</link>
-      <description><![CDATA[伟大的美洲驼（以及鸵鸟和鸸鹋）崩溃
-美洲驼（以及鸵鸟和鸸鹋）的灭绝是对过去二十年来美国外来动物急剧减少的一个有趣的观察。虽然鸡、牛、猪和火鸡的数量保持稳定，但美洲驼、鸵鸟和鸸鹋的数量却大幅下降。这篇文章探讨了这种崩溃背后的原因，从法规的变化到美国人看待动物的文化转变。它还深入探讨了投资外来牲畜的投机性质，以及“傻钱”在推动这些另类动物的繁荣和随后的萧条中的作用。]]></description>
-      <guid>https://t.me/hn_summary/78957</guid>
-      <pubDate>Tue, 12 Mar 2024 15:05:31 GMT</pubDate>
+      <title>电子表格不仅仅是一个数字处理工具；它还是一个数字处理工具。</title>
+      <link>https://t.me/hn_summary/79026</link>
+      <description><![CDATA[电子表格是一个模拟机
+电子表格不仅仅是一个数字处理工具；它还是一个数字处理工具。它是一个模拟机，允许用户在细胞网格内构建和操作虚拟世界。从预测未来到分析复杂系统，电子表格已在从小企业到生物实验室等各个领域变得至关重要。电子表格的强大功能、透明度和易用性使其成为思考未来的多功能工具。尽管对用户预测未来的愿望感到惊讶，第一个电子表格 VisiCalc 的创建者还是利用了人类对模拟和担心即将发生的事情的强烈渴望。电子表格无处不在，影响着我们理解周围世界以及与周围世界互动的方式。]]></description>
+      <guid>https://t.me/hn_summary/79026</guid>
+      <pubDate>Tue, 12 Mar 2024 21:09:56 GMT</pubDate>
     </item>
     <item>
-      <title>问 HN：哪些问题值得用低代码后端解决？</title>
-      <link>https://t.me/hn_summary/78956</link>
-      <description><![CDATA[询问 HN：值得使用低代码后端解决的问题吗？ 
-作者开发了一个低代码后端构建器，可以轻松编写后端函数。他们现在正在寻找值得用这个工具解决的问题来测试其功能。尽管研究了其他低代码工具，但他们还没有找到合适的挑战。他们正在向社区寻求雄心勃勃或很酷的问题，这些问题可以通过低代码后端构建器来解决。如果您已将类似的工具用于有趣的用例或遇到问题，作者正在寻找有关如何评估其构建器的有效性的意见。]]></description>
-      <guid>https://t.me/hn_summary/78956</guid>
-      <pubDate>Tue, 12 Mar 2024 14:56:14 GMT</pubDate>
+      <title>[媒体]Chyrp Lite 是一款超轻量级 tumblelogging 引擎，可让您托管博客 [...]</title>
+      <link>https://t.me/hn_summary/79025</link>
+      <description><![CDATA[Chyrp Lite – 使用 PHP 和 SQLite 的超轻量级 Tumblelogging 引擎&lt; /a&gt;
+Chyrp Lite 是一款超轻量级的 Tumblelogging 引擎，可让您轻松在自己的 Web 服务器上托管博客。您可以选择传统的博客布局或对其进行自定义以创建独特的网络发布平台。借助响应式 HTML5，您的博客将可以在各种设备上访问。无论您喜欢纯文本帖子还是多媒体体验，Feathers and Pages 系统都可以灵活地创建内容。主要功能包括易于安装、经 W3C 验证的 HTML5、对不同内容格式的支持、使用 Twig 模板引擎进行主题定制以及用户管理选项。]]></description>
+      <guid>https://t.me/hn_summary/79025</guid>
+      <pubDate>Tue, 12 Mar 2024 21:01:49 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]“同性恋炸弹”概念是一种假想的心理化学武器，由该单位提出[...]</title>
-      <link>https://t.me/hn_summary/78955</link>
-      <description><![CDATA[同性恋炸弹
-“同性恋炸弹”概念是一种假想的心理化学武器，由美国空军于1994年提出。这一想法涉及向敌军散布性信息素，以产生相互的性吸引力，造成混乱和恐慌。尽管身体喷雾剂中含有人类信息素，但没有科学研究支持它们影响行为的能力。泄露的文件显示，有关使用春药诱导敌军“同性恋行为”的讨论被认为令人厌恶，但不致命。负责这个想法的莱特实验室甚至因其对“同性恋炸弹”的研究而获得了搞笑诺贝尔和平奖。]]></description>
-      <guid>https://t.me/hn_summary/78955</guid>
-      <pubDate>Tue, 12 Mar 2024 14:51:09 GMT</pubDate>
+      <title>[媒体]Discord 正在通过推出专用 SDK 供开发人员创建 emb [...]</title>
+      <link>https://t.me/hn_summary/79024</link>
+      <description><![CDATA[Discord开放开发者SDK以在平台内启用更多游戏和应用
+Discord 正在通过推出专用 SDK 来改变现状，供开发人员在平台内创建嵌入式应用程序和游戏。这一举措为在聊天中共享体验开辟了一个可能性的世界，并有可能增加可用活动。该平台还重新引入应用程序推介，为开发者提供为其创意获得资金的机会。此外，Discord 正在试验允许用户将应用程序添加到其帐户的技术，确保这些体验能够跨服务器跟随他们。这些更新是在最近一轮裁员之后发布的，因为该公司旨在加强其业务模式。]]></description>
+      <guid>https://t.me/hn_summary/79024</guid>
+      <pubDate>Tue, 12 Mar 2024 20:49:43 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Apple 将在欧盟推出 iOS 应用程序的 Web 分发，允许开发者 [...]</title>
-      <link>https://t.me/hn_summary/78954</link>
-      <description><![CDATA[Apple 将允许在欧盟通过网络分发 iOS 应用&lt; /a&gt;
-Apple 将在欧盟推出 iOS 应用程序的 Web 分发，允许开发者直接从自己的网站分发应用程序。此更新将于今年春季晚些时候发布，将要求开发人员满足特定标准并致力于保护用户的持续要求。要获得资格，开发者必须在欧盟注册 Apple 开发者计划，拥有至少两年的良好信誉，并同意承担各种责任。此外，过去一年安装量超过 100 万次的开发者将需缴纳核心技术费。非营利组织、教育机构和政府实体可能有资格获得费用减免。]]></description>
-      <guid>https://t.me/hn_summary/78954</guid>
-      <pubDate>Tue, 12 Mar 2024 14:27:58 GMT</pubDate>
+      <title>[媒体] 隆重推出 StableBuild，这是一款革命性工具，可确保您的 Docker 容器 [...]</title>
+      <link>https://t.me/hn_summary/79023</link>
+      <description><![CDATA[展示 HN：StableBuild – 使任何 Docker 容器具有确定性 
+隆重推出 StableBuild，这是一款革命性工具，可确保您的 Docker 容器每次都具有确定性。我们的平台支持所有主要存储库，提供历史和当前镜像以保证成功的软件构建。使用 StableBuild 告别不可预测的构建，迎接稳定性。访问 www.stablebuild.com 了解更多信息并开始制作您的 Docker 容器坚如磐石。]]></description>
+      <guid>https://t.me/hn_summary/79023</guid>
+      <pubDate>Tue, 12 Mar 2024 20:43:36 GMT</pubDate>
     </item>
     <item>
-      <title>询问 HN：API 调用收费多少？</title>
-      <link>https://t.me/hn_summary/78953</link>
-      <description><![CDATA[询问 HN：API 调用收费多少？
-news.ycombinator.com 上帖子的作者是寻求有关其 SaaS Web 应用程序的 API 调用收费多少的建议。他们正在考虑采用 5 美元加每次通话 0.001 美元的定价模式，旨在在拨打几次电话的用户和拨打数千次电话的用户的承受能力之间取得平衡。作者正在寻求意见，以找到一个不会阻止潜在用户的公平价格点。这篇文章提出了如何有效地将 API 使用货币化的问题，引发了技术社区对定价策略的讨论。]]></description>
-      <guid>https://t.me/hn_summary/78953</guid>
-      <pubDate>Tue, 12 Mar 2024 14:10:49 GMT</pubDate>
+      <title>[媒体]VLC，开源视频播放器，下载量已超过 50 亿次，现已预 [...]</title>
+      <link>https://t.me/hn_summary/79022</link>
+      <description><![CDATA[VLC 下载量突破 50 亿次，准备 Vision Pro 应用 
+开源视频播放器 VLC 的下载量已超过 50 亿次，目前正准备为苹果耳机推出 Vision Pro 应用程序。尽管 Netflix 等流媒体服务兴起，VLC 仍然很受欢迎，仅桌面版最新版本的下载量就超过 3.35 亿次。 Videolan 团队还在开发用于网络播放的 VLC WebAssembly 版本。此外，VLC 的成功凸显了流媒体服务与盗版之间持续不断的斗争。其他新闻方面，VR 初创公司 Dreamscape Immersive 在关闭其洛杉矶办事处后，正在转向 VR 教育。科技界还见证了苹果公司的罚款、新 Chromecast 的传闻以及 VR 耳机销量的飙升。]]></description>
+      <guid>https://t.me/hn_summary/79022</guid>
+      <pubDate>Tue, 12 Mar 2024 20:42:34 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]美国东部春末夏初</title>
-      <link>https://t.me/hn_summary/78952</link>
-      <description><![CDATA[周期性蝉的双重出现不是蝉-Geddon - 它是漫威
-由于缺乏周期性蝉，美国东部的春末夏初一直很安静，但今年，两批不同的蝉将出现，这是罕见的事件。 13岁和17岁的孩子在时间和空间上将重合，这让科学家们兴奋不已。此次出现将展示这些昆虫独特的生命周期，数百万年来它们塑造了美国东部的森林。虽然蝉看起来势不可挡，但它们通过为捕食者提供盛宴并影响树木的生长模式，在生态系统中发挥着至关重要的作用。今年的盛会是一场不容错过的盛会，预计下一次双重盛会要到 2037 年才会出现。]]></description>
-      <guid>https://t.me/hn_summary/78952</guid>
-      <pubDate>Tue, 12 Mar 2024 14:02:43 GMT</pubDate>
+      <title>[媒体]鸡税，即对轻型卡车和货车征收 25% 的关税，自 1 [...]</title>
+      <link>https://t.me/hn_summary/79021</link>
+      <description><![CDATA[鸡税是时候消亡了
+鸡税是对轻型卡车和货车征收 25% 的关税，自 1963 年以来一直存在，是林登·B·约翰逊 (Lyndon B. Johnson) 为了通过美国汽车工人联合会投票赢得连任而采取的策略。福特最近因对其 Transit Connect 货车进行错误分类而规避税收而面临 3.65 亿美元的罚款。该法律为美国汽车制造商创造了一个不公平的竞争环境，抑制了卡车市场的竞争和创新。福特在小型 Maverick 皮卡上的成功证明了对紧凑型卡车的需求，但鸡税阻止了外国制造商进入市场。废除税收可以为消费者带来更多选择，并提高公司的盈利能力。]]></description>
+      <guid>https://t.me/hn_summary/79021</guid>
+      <pubDate>Tue, 12 Mar 2024 20:33:26 GMT</pubDate>
     </item>
     <item>
-      <title>2021 年 12 月，Kickstarter 员工对来自 [...] 的 1 亿美元投资报价感到惊讶</title>
-      <link>https://t.me/hn_summary/78951</link>
-      <description><![CDATA[Kickstarter 使用区块链的 1 亿美元交易&lt; br/&gt;
-2021 年 12 月，Kickstarter 员工对一群投资者提出的 1 亿美元投资报价感到惊讶，该公司估值为 4 亿美元。这笔交易有一个陷阱：Kickstarter 必须转向区块链技术，此举引发了创作者和粉丝的强烈反对，导致项目损失和声誉受损。这个曾经备受喜爱的众筹平台一直在与领导层变动、工会运动失败和增长停滞等问题作斗争。这项投资被视为一个重置的机会，但相反，它凸显了平衡行善使命与风险投资利益的挑战。有争议的区块链转向最终给 Kickstarter 带来了混乱和持续的挣扎。 （根据 50% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/78951</guid>
-      <pubDate>Tue, 12 Mar 2024 13:47:34 GMT</pubDate>
+      <title>荷兰政府</title>
+      <link>https://t.me/hn_summary/79020</link>
+      <description><![CDATA[荷兰政府。自豪地宣布将利用欧洲最大的互联网交易所
+荷兰政府自豪地宣布计划利用欧洲最大的互联网交易所来增强国家安全，防范俄罗斯和中国黑客。新的《荷兰情报与安全法案》赋予荷兰机构广泛的权力，允许他们拦截通信、入侵全球计算机以及收集和存储电缆数据。该法律还扩大了监督和授权程序，并提出了重大修改，以进一步提高监视能力。这些变化引起了人们对侵犯隐私和人权的担忧，特别是考虑到欧洲人权法院的先例。该法律的广泛适用性以及缺乏对荷兰或欧盟个人的具体保护使其独特且充满争议。]]></description>
+      <guid>https://t.me/hn_summary/79020</guid>
+      <pubDate>Tue, 12 Mar 2024 20:31:22 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在科技工作者难以找到工作的就业市场中，人工智能的影响 [...]</title>
-      <link>https://t.me/hn_summary/78950</link>
-      <description><![CDATA[人工智能如何扰乱对软件工程师的需求：来自 2000 万个工作岗位的数据
-在科技工作者难以找到工作的就业市场中，人工智能对软件工程师需求的影响越来越明显。分析 2000 万个科技职位空缺的数据可以明显看出，对人工智能研究科学家和机器学习工程师的需求正在蓬勃发展，而其他工程职位却在下降。令人惊讶的是，工程师的工资仍然停滞不前，表明供需之间处于平衡状态。与普遍看法相反，公司裁员与雇用更多人工智能人才之间没有显着相关性。未来的工程角色可能会转向人工智能专业知识，这使得软件工程师将机器学习技能融入到他们的技能中是有益的。]]></description>
-      <guid>https://t.me/hn_summary/78950</guid>
-      <pubDate>Tue, 12 Mar 2024 13:38:28 GMT</pubDate>
+      <title>[媒体]《阿奇特雷扎的渔夫》（La Terra Trema）是意大利新现实主义电影的里程碑 [...]</title>
+      <link>https://t.me/hn_summary/79019</link>
+      <description><![CDATA[Aci Trezza (La terra trema) 的渔民 
+《阿奇特雷扎的渔夫》（La Terra Trema）是意大利新现实主义电影的里程碑，由卢奇诺·维斯康蒂执导。影片讲述了瓦拉斯特罗一家的故事，他们是西西里岛贫困渔民，与剥削和苦难作斗争。维斯康蒂的人文主义方法超越了政治教条，创造了丰富而复杂的叙事。这部电影最初在财务上失败了，现在被认为是维斯康蒂最重要的作品之一。它深刻地描绘了传统社会中的社会不公正、代际鸿沟和妇女的斗争。凭借令人惊叹的电影摄影和引人入胜的故事情节，《La Terra Trema》仍然是永恒的经典，不断引起观众的共鸣。 （根据 97% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/79019</guid>
+      <pubDate>Tue, 12 Mar 2024 20:19:13 GMT</pubDate>
     </item>
     <item>
-      <title>问 HN：未来什么不会改变？</title>
-      <link>https://t.me/hn_summary/78949</link>
-      <description><![CDATA[问 HN：未来什么不会改变？
-标题：问 HN：未来什么不会改变？
-
-在不断发展的软件开发世界中是否有常数？加入 news.ycombinator.com 上的讨论，分享您的想法关于该领域的哪些方面不太可能改变的想法。从编码语言到项目管理技术，您认为什么能够经受住时间的考验？加入对话，看看您的预测是否与技术社区中的其他人一致。]]></description>
-      <guid>https://t.me/hn_summary/78949</guid>
-      <pubDate>Tue, 12 Mar 2024 13:19:17 GMT</pubDate>
+      <title>[媒体]以色列经济因加沙毁灭性战争而陷入瘫痪，导致19.4 [...]</title>
+      <link>https://t.me/hn_summary/79018</link>
+      <description><![CDATA[穷困潦倒：加沙5个月的种族灭绝战争如何让以色列陷入瘫痪经济
+以色列经济因加沙地带的毁灭性战争而陷入瘫痪，导致国内生产总值下降 19.4%，并造成大量失业。这场冲突令投资者望而却步，扰乱了劳动力市场，并造成了严重的经济衰退。主要工业已陷入停顿，港口因也门军队和伊拉克抵抗组织的袭击而遭受严重损失。随着国际法院裁决后各国停止武器出口，该政权的军事工业也面临挑战。据估计，经济影响将超过 1000 亿美元，复苏之路还很漫长。 （根据故事文本的 70% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/79018</guid>
+      <pubDate>Tue, 12 Mar 2024 20:16:08 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Aira 是一家瑞典热泵初创公司，其使命是通过宣布 [...]</title>
-      <link>https://t.me/hn_summary/78948</link>
-      <description><![CDATA[瑞典热泵初创公司计划让欧洲摆脱天然气依赖
-Aira 是一家瑞典热泵初创公司，其使命是通过向传统锅炉宣战，让欧洲摆脱对天然气的依赖。由于建筑造成了欧洲三分之一的碳排放，该公司首席执行官大胆宣称锅炉是敌人。尽管面临着热泵技术的负面报道和绿色政策延迟等挑战，艾拉决心彻底改变家庭供暖。令人惊讶的是，热泵行业在欧洲的销售额十年来首次下降，凸显了围绕推动供暖系统脱碳的争议和紧迫性。]]></description>
-      <guid>https://t.me/hn_summary/78948</guid>
-      <pubDate>Tue, 12 Mar 2024 13:15:13 GMT</pubDate>
+      <title>[媒体]如果美国撤资法案针对 [...]</title>
+      <link>https://t.me/hn_summary/79017</link>
+      <description><![CDATA[如果美国撤资法案成为法律，TikTok 计划采取全面法律行动
+如果美国针对该应用的撤资法案成为法律，TikTok 正准备打一场全面的法律战。中国母公司字节跳动有限公司对于是否考虑出售这款病毒式视频应用程序犹豫不决，并计划首先排除所有法律挑战。这一有争议的举动可能会导致美国和中国政府之间的摊牌，因为强制出售需要得到中国的批准，而中国已经表示反对这一举动。这项立法的结果仍不确定，但 TikTok 已准备好战斗到底，以保护自己的利益。]]></description>
+      <guid>https://t.me/hn_summary/79017</guid>
+      <pubDate>Tue, 12 Mar 2024 20:15:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
