@@ -4,7 +4,42 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 13 Mar 2024 12:20:44 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 Mar 2024 15:13:10 GMT</lastBuildDate>
+    <item>
+      <title>“开源公司”是一回事吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1bdttal/is_open_source_company_a_thing/</link>
+      <description><![CDATA[大家好， 我和一个朋友进行了长时间的讨论，对开源公司有一些想法&lt; br /&gt; 每个人都可以访问所有内容（可能对任何支付工具/客户数据库都有一些有限的访问权限）。这是一件事吗？  当然，我看到了很多问题和限制，但我非常有兴趣知道它是否曾经存在，并且拥有一个足够大的社区以使其长期持续 &lt; p&gt;​ 谢谢!!   由   提交 /u/Josso_l   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1bdttal/is_open_source_company_a_thing/</guid>
+      <pubDate>Wed, 13 Mar 2024 15:09:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>FOSS Backstage 的三个视角</title>
+      <link>https://www.reddit.com/r/opensource/comments/1bdt8xb/three_perspectives_from_foss_backstage/</link>
+      <description><![CDATA[    /u/opensourceinitiative   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1bdt8xb/three_perspectives_from_foss_backstage/</guid>
+      <pubDate>Wed, 13 Mar 2024 14:46:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>ORT 社区日明确定义</title>
+      <link>https://www.reddit.com/r/opensource/comments/1bdt8wr/clearlydefined_at_the_ort_community_days/</link>
+      <description><![CDATA[       由   提交 /u/opensourceinitiative   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1bdt8wr/clearlydefined_at_the_ort_community_days/</guid>
+      <pubDate>Wed, 13 Mar 2024 14:45:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>开源机械软件</title>
+      <link>https://www.reddit.com/r/opensource/comments/1bdt73f/open_source_mechanic_software/</link>
+      <description><![CDATA[大家好！我很好奇是否有人遇到过任何适用于小型机械店的自托管/开源软件或解决方案，这些软件或解决方案能够执行诸如允许存储和创建发票、跟踪车辆及其维修状态之类的操作（也可能能够）从邮件服务器向客户发送有关更新的电子邮件）。零件库存管理等。如果可能的话，我更喜欢在我自己的 Proxmox 环境中自行托管它。我从事 IT 工作，但我不是任何程序员，仅供参考。谢谢！   由   提交/u/Computermaster26   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1bdt73f/open_source_mechanic_software/</guid>
+      <pubDate>Wed, 13 Mar 2024 14:43:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>刚刚开源了一个用 Svelte + Sveltekit 制作的设计系统管理器</title>
+      <link>https://www.reddit.com/r/opensource/comments/1bdsybz/just_opensourced_a_design_system_manager_made/</link>
+      <description><![CDATA[我想分享一个我过去几个月一直在从事的项目，并且刚刚将其开源。 它是一个免费的 Web 应用程序，用于创建、管理和分发设计令牌。您可以创建设计系统、添加组和设计令牌，并将它们导出为代码。 它具有一些很酷的功能：  从模板启动组和设计系统。 批量编辑令牌。 别名令牌。 阴影生成器。  支持不同的主题。 将令牌导出到 CSS、Less、SCSS、JSON、Tailwind 配置等！  应用程序 URL： https://token-base.com 仓库网址：https://github.com/mateoroldos/tokenbase 目前仅在桌面上可用。它是一个编码+UI设计的工具，并且这两项任务主要在桌面上完成。将所有信息都放入较小的屏幕中也是不可能的。 我们很乐意接受意见和合作！    由   提交 /u/Total-Sheepherder251    reddit.com/r/opensource/comments/1bdsybz/just_opensourced_a_design_system_manager_made/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1bdsybz/just_opensourced_a_design_system_manager_made/</guid>
+      <pubDate>Wed, 13 Mar 2024 14:33:13 GMT</pubDate>
+    </item>
     <item>
       <title>ImageFan Reloaded - 一个轻量级的基于选项卡的图像查看器</title>
       <link>https://www.reddit.com/r/opensource/comments/1bdpfc9/imagefan_reloaded_a_lightweight_tabbased_image/</link>
@@ -22,14 +57,14 @@
     <item>
       <title>Windows 活动记录器</title>
       <link>https://www.reddit.com/r/opensource/comments/1bdmrh8/windows_activity_logger/</link>
-      <description><![CDATA[嘿，我正在寻找一个工具，可以让我记录我当时使用的应用程序。在最好的情况下，它也会记录窗口名称。  我想知道我在不手动设置秒表的情况下在不同项目上花费了多少时间。   由   提交 /u/basecatcherz   [链接] [评论]]]></description>
+      <description><![CDATA[嘿，我正在寻找一个工具，可以让我记录我当时使用的应用程序。在最好的情况下，它也会记录窗口名称。  我想知道我在不手动设置秒表的情况下在不同项目上花费了多少时间。   由   提交/u/basecatcherz   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1bdmrh8/windows_activity_logger/</guid>
       <pubDate>Wed, 13 Mar 2024 08:56:38 GMT</pubDate>
     </item>
     <item>
       <title>我制作了一个“构建您自己的决策树/投资模型”构建器</title>
       <link>https://www.reddit.com/r/opensource/comments/1bdgm1o/i_made_a_build_your_own_decision_tree_investment/</link>
-      <description><![CDATA[如果您深入研究了用于自动化模型或算法投资和交易的免费且低成本的基于订阅的网络工具领域，那么您已经可能遇到类似以下情况：具有各种标准和排序条件的决策树结构，允许用户单击并拖动节点来进行子决策、执行数学函数并对结果进行排序。它们真的很狡猾，每当我需要引用数据端点或实现底层平台不支持的算法时，它们总是让我感到沮丧。 因此，上周我决定构建自己的“ “模型生成器”利用我已经聚合的一些数据和算法。就像我有时可能成为的优秀小程序员一样，我最初寻找一个开源实现作为基础。然而，尽管我付出了努力，但我终其一生都找不到一个。 所以我做了一个。 😁 您可以在这里找到它：https://github.com/mjgood/DecisionTreeAggregator。像这样的东西正是我上周一直在寻找的东西。我对结果非常满意，并且非常期待将其整合到引发这一努力的原始项目中。它的构建没有使用任何第三方 JavaScript 库，并在 MIT 许可证下发布，因此现在您也可以在您的所有项目和网站中构建投资模型生成器！ &lt;!-- SC_ON - -&gt;  由   提交/u/mjgood91  [链接] [评论]]]></description>
+      <description><![CDATA[如果您深入研究了用于自动化模型或算法投资和交易的免费且低成本的基于订阅的网络工具领域，那么您已经可能遇到类似以下情况：具有各种标准和排序条件的决策树结构，允许用户单击并拖动节点来进行子决策、执行数学函数并对结果进行排序。它们真的很狡猾，每当我需要引用数据端点或实现底层平台不支持的算法时，它们总是让我感到沮丧。 所以，上周我决定构建自己的“ “模型生成器”利用我已经聚合的一些数据和算法。就像我有时可能成为的优秀小程序员一样，我最初寻找一个开源实现作为基础。然而，尽管我付出了努力，但我终其一生都找不到一个。 所以我做了一个。 😁 您可以在这里找到它：https://github.com/mjgood/DecisionTreeAggregator。像这样的东西正是我上周一直在寻找的东西。我对结果非常满意，并且非常期待将其整合到引发这一努力的原始项目中。它的构建没有使用任何第三方 JavaScript 库，并在 MIT 许可证下发布，因此现在您也可以在您的所有项目和网站中构建投资模型生成器！ &lt;!-- SC_ON - -&gt;  由   提交/u/mjgood91  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1bdgm1o/i_made_a_build_your_own_decision_tree_investment/</guid>
       <pubDate>Wed, 13 Mar 2024 02:48:21 GMT</pubDate>
     </item>
@@ -57,7 +92,7 @@
     <item>
       <title>全职工作的专业人士是否有资格参加 GSoC？如果没有，请建议让有影响力的开源贡献在简历中看起来更好并获得一些钱。</title>
       <link>https://www.reddit.com/r/opensource/comments/1bd4kz9/are_full_time_working_professionals_eligible_for/</link>
-      <description><![CDATA[我来自三级学院，一直想以良好的能力为开源做出贡献，以便在简历和金钱上获得足够的认可，从来不知道像 GSoC 这样的东西存在，我现在正在工作，我有资格获得它吗？如果不是，那么我还必须通过哪些其他途径在开源领域做出有意义的贡献，以获得更好的职业前景，当然还可以从中赚到一些钱？我擅长 Golang、Kubernetes、gRPC、Python、Rest。   由   提交 /u/Specialist-Animal915    reddit.com/r/opensource/comments/1bd4kz9/are_full_time_working_professionals_eligible_for/&quot;&gt;[链接] [评论]]]></description>
+      <description><![CDATA[我来自三级学院，一直想以良好的能力为开源做出贡献，以便在简历和金钱上获得足够的认可，从来不知道像 GSoC 这样的东西存在，我现在正在工作，我有资格获得它吗？如果不是，那么我还必须通过哪些其他途径在开源方面做出有意义的贡献才能获得更好的职业前景，当然还可以从中赚到一些钱？我擅长 Golang、Kubernetes、gRPC、Python、Rest。   由   提交 /u/Specialist-Animal915    reddit.com/r/opensource/comments/1bd4kz9/are_full_time_working_professionals_eligible_for/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1bd4kz9/are_full_time_working_professionals_eligible_for/</guid>
       <pubDate>Tue, 12 Mar 2024 18:28:53 GMT</pubDate>
     </item>
@@ -74,41 +109,6 @@
       <description><![CDATA[ 由   提交/u/iamjessew  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1bd2we1/just_launched_an_open_source_mlops_tool_beta/</guid>
       <pubDate>Tue, 12 Mar 2024 17:23:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>Chrome 扩展程序可立即将网页变成打砖块游戏</title>
-      <link>https://www.reddit.com/r/opensource/comments/1bd1lbi/chrome_extension_that_instantly_transforms/</link>
-      <description><![CDATA[我编写了一个普通的 js 脚本，可以立即将网页转换为打砖块游戏。 想要分享，因为它比我期待着，如果它能娱乐某人，我会很高兴:) 演示：https://www .youtube.com/watch?v=IUTXInFyjXE ​ 我将其作为可移植性的 Chrome 扩展进行共享，并且它是开源的。 仓库：https://github.com/canalun/brick-break-anywhere chrome 扩展：https://chromewebstore.google.com/detail/brick-break-anywhere /lkbkphlgmknnachlgmbdmoepfnfdeckb ​ 仅供参考：困难如下：  确定哪些 DOM 元素应计为块（有很多“不可见”元素，不应将它们视为块） 通过shadow root和iframe（同源）查询元素 等...  li&gt;    由   提交 /u/canalun   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1bd1lbi/chrome_extension_that_instantly_transforms/</guid>
-      <pubDate>Tue, 12 Mar 2024 16:32:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>OPENSOURCE - 使用多个引擎搜索</title>
-      <link>https://www.reddit.com/r/opensource/comments/1bczbbj/opensource_search_with_multiple_engines/</link>
-      <description><![CDATA[https://moarsearch.github.io/    由   提交/u/recovo_recovo   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1bczbbj/opensource_search_with_multiple_engines/</guid>
-      <pubDate>Tue, 12 Mar 2024 15:00:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mindful 桌面 + Openbox 虚拟机</title>
-      <link>https://www.reddit.com/r/opensource/comments/1bcy447/the_mindful_desktop_an_openbox_vm/</link>
-      <description><![CDATA[ 由   提交/u/fd93_blog   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1bcy447/the_mindful_desktop_an_openbox_vm/</guid>
-      <pubDate>Tue, 12 Mar 2024 14:08:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>[隐私] 哪个最好？信号与矩阵协议</title>
-      <link>https://www.reddit.com/r/opensource/comments/1bcwt26/privacy_which_is_the_best_signal_vs_matrix/</link>
-      <description><![CDATA[在我不自行托管服务器的情况下，就数据机密性而言，哪一个最安全？   由   提交/u/clara59000  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1bcwt26/privacy_which_is_the_best_signal_vs_matrix/</guid>
-      <pubDate>Tue, 12 Mar 2024 13:06:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>VLC 下载量突破 50 亿次，准备 Vision Pro 应用程序</title>
-      <link>https://www.reddit.com/r/opensource/comments/1bcvndv/vlc_surpasses_five_billion_downloads_preps_vision/</link>
-      <description><![CDATA[   /u/SvensKia  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1bcvndv/vlc_surpasses_five_billion_downloads_preps_vision/</guid>
-      <pubDate>Tue, 12 Mar 2024 12:06:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
