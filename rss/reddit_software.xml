@@ -4,7 +4,21 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Wed, 13 Mar 2024 00:47:33 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 Mar 2024 03:13:16 GMT</lastBuildDate>
+    <item>
+      <title>MP3文件分割器</title>
+      <link>https://www.reddit.com/r/software/comments/1bde614/mp3_file_splitter/</link>
+      <description><![CDATA[我有一堆 MP3 格式的长有声读物，长达七、八或九个小时。  我想自动将它们分成几个小部分。据说每次10分钟左右。如果它能够自动检测静音（例如场景变化或章节中断）并在那里进行分割，那将会很有帮助。  我花了几个小时进行搜索。我尝试过各种软件，但没有成功。 其中一种有效，它将文件分成 10 分钟的部分，但中断出现在句子中间，并且损失了几秒钟每次休息时的音频。  WavePad 在之前的帖子中被推荐。听起来正是我想要的。但是当我尝试运行它时安装程序崩溃了。  我无法理解 Audiocity 是如何工作的。我不需要复杂的音频编辑工具，只需将其分成几个部分即可。  有什么建议吗？必须是Windows软件。  ​   由   提交 /u/Mr_Justin_Thyme   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1bde614/mp3_file_splitter/</guid>
+      <pubDate>Wed, 13 Mar 2024 00:56:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>我需要快速批量重命名文件的帮助</title>
+      <link>https://www.reddit.com/r/software/comments/1bde1g3/i_need_help_with_renaming_files_quickly_in_bulk/</link>
+      <description><![CDATA[好的，这就是我必须开始的示例： “Manhwa”的标题是“给我那个奶嘴！”它目前有 (79) 个章节，我下载它们的网站将它们以 (10) 为一组的文件夹放在文件夹中，所以现在我想将每个章节（它自己的文件夹）转换为带有“Calibre”的 .CBZ 文件。  ​ 问题是： 许多文件夹的当前名称是：“给我那个奶嘴！” [EN]”该文件夹内还有几个名为“Episode 001.CBZ”或“Episode 002.CBZ”的其他文件夹，有些甚至被命名为“Season 1 Finale”之类的名称。或“第二季首映”。我想将所有这些更改为以下内容： “给我那个奶嘴！第1章然后继续，直到所有（79）当前章节都被重命名。但我不知道从哪里开始做这一切。 ​ 我只需要重命名每个文件：  1-40  第 41 - 42 章缺失。他们一定是“第一季大结局”和“第二季首映”。  所以我想快速重命名前1-40，然后重命名另外2个，然后快速重命名43-78。 79将是“第二季大结局”。因此，如果有一种方法可以立即快速重命名大部分文件，那就太好了。  ​ 我确实有“批量重命名实用程序”程序但我不知道如何重命名大多数文件。一旦获得“多数”，我就可以逐个文件地处理文件。完毕。    由   提交 /u/DawnRenee1988   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1bde1g3/i_need_help_with_renaming_files_quickly_in_bulk/</guid>
+      <pubDate>Wed, 13 Mar 2024 00:50:41 GMT</pubDate>
+    </item>
     <item>
       <title>寻找用于持续网络监控的免费 Windows 软件</title>
       <link>https://www.reddit.com/r/software/comments/1bddt80/looking_for_free_windows_software_for_continuous/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[我真的想替换默认的 Windows ui/shell，同时还拥有壁纸引擎并能够在未来版本的 Windows 上使用该软件。   由   提交/u/Technical_Instance_2   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1bcwktk/are_there_any_good_windows_shell_replacements_for/</guid>
       <pubDate>Tue, 12 Mar 2024 12:55:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于帮助自然疗法医学实践的人工智能/机器学习平台。</title>
-      <link>https://www.reddit.com/r/software/comments/1bcvuly/regarding_aiml_platforms_that_help_naturopathic/</link>
-      <description><![CDATA[尝试衡量市场上是否有很多此类平台以及是否需要它..  一个基于网络的平台，它提供：通过分析血液检测结果数据，通过人工智能/机器学习，系统可以更深入地了解患者的健康状况，并为从业者提供对患者健康状况更可行的评估。 &lt; !-- SC_ON --&gt;  由   提交 /u/Zealousideal_Ear8556   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1bcvuly/regarding_aiml_platforms_that_help_naturopathic/</guid>
-      <pubDate>Tue, 12 Mar 2024 12:17:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>正在寻找 Windows Server 2003 KB942610</title>
-      <link>https://www.reddit.com/r/software/comments/1bcuytb/looking_for_windows_server_2003_kb942610/</link>
-      <description><![CDATA[您好，我正在寻找 Microsoft 不再提供的此知识库。有人知道可以下载它的存储库吗？ 这是我找到的类似的 msot https://www.betaarchive.com/wiki/index.php?title=Microsoft_KB_Archive/942610 谢谢！   由   提交 /u/emisofi   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1bcuytb/looking_for_windows_server_2003_kb942610/</guid>
-      <pubDate>Tue, 12 Mar 2024 11:28:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
