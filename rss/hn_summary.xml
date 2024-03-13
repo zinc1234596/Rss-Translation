@@ -4,86 +4,88 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Wed, 13 Mar 2024 09:05:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 Mar 2024 12:16:49 GMT</lastBuildDate>
     <item>
-      <title>[媒体] Swift Signal 是一个 Swift 包，它提供受 Solid [...] 启发的反应性计算</title>
-      <link>https://t.me/hn_summary/79095</link>
-      <description><![CDATA[显示 HN：刚刚在 Swift 中实现了 Solid.js 信号
-Swift Signal 是一个 Swift 包，它提供受 Solid 启发的反应性计算，提供核心库和 SwiftUI 集成库。它允许创建信号、效果和计算值，与 Solid 类似，但语言风格有所不同。该项目的目标是在 Swift 应用程序中实现细粒度的反应性，特别是在 SwiftUI 中。它的与众不同之处在于提供了一种使用信号在 SwiftUI 和其他 UI 框架之间传递数据的方法。作者警告说，这是一个实验性软件包，并建议在生产应用程序中使用它时要小心。欢迎贡献，但应首先讨论重大更改。]]></description>
-      <guid>https://t.me/hn_summary/79095</guid>
-      <pubDate>Wed, 13 Mar 2024 09:05:26 GMT</pubDate>
+      <title>[媒体] 厌倦了复杂的模板语言？</title>
+      <link>https://t.me/hn_summary/79113</link>
+      <description><![CDATA[显示 HN：gomponents，纯 Go 中的 HTML 组件 
+厌倦了复杂的模板语言？尝试使用纯 Go 语言的 gonponents、HTML 组件。这些组件呈现为 HTML 5，从而可以轻松构建可重用组件，而无需学习新的模板语言。组件只是函数，对于熟悉 HTML 的人来说很简单。 gomponents 还提供内联 if 语句、将数据映射到组件、使用 CSS 类进行样式设置以及注入原始 HTML 的功能等功能。最好的部分？这一切都只是 Go，包含自动完成、类型安全和常见的 HTML 元素。查看 Github 存储库或在 localhost:8080 上尝试示例应用程序。]]></description>
+      <guid>https://t.me/hn_summary/79113</guid>
+      <pubDate>Wed, 13 Mar 2024 12:16:49 GMT</pubDate>
     </item>
     <item>
-      <title>在 Susam Pal 的文章“IRC 的简单性”中，作者强调了 I [...]</title>
-      <link>https://t.me/hn_summary/79094</link>
-      <description><![CDATA[IRC 的简单性（2022）
-在 Susam Pal 的文章“IRC 的简单性”中，作者强调了互联网中继聊天 (IRC) 协议的简单性以及它如何培养年轻计算机爱好者的创造力。本文讨论了阅读和理解 IRC 服务器和客户端之间交换的有效负载是多么容易，从而使业余编程项目可以轻松访问它。作者分享了一个最小的 IRC 会话示例，展示了加入频道和发布消息是多么简单。尽管很简单，本文还是指出了处理身份验证和消息长度限制等细节的重要性。作者还提供了连接 Libera Chat 网络的便捷方法，鼓励读者探索 IRC。 （根据 90% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/79094</guid>
-      <pubDate>Wed, 13 Mar 2024 08:37:14 GMT</pubDate>
+      <title>[媒体] Servo 在 Rust 中开发 Web 渲染引擎方面取得了重大进展，[...]</title>
+      <link>https://t.me/hn_summary/79112</link>
+      <description><![CDATA[您现在可以在 GitHub 和 Open Collective 上赞助 Servo 
+Servo 在使用 Rust 开发 Web 渲染引擎方面取得了重大进展，提供了作为 WebKit 和 Chromium 替代品的潜力。通过 GitHub 或 Open Collective 支持 Servo，您可以帮助推进项目并为构建更加模块化和可重用的 Web 平台做出贡献。捐款用于支付项目成本和开发工作，技术指导委员会对资金使用情况保持透明。也欢迎为特定工作提供更多捐款或资金。与我们一起发挥 Servo 的全部潜力并塑造 Rust 生态系统。]]></description>
+      <guid>https://t.me/hn_summary/79112</guid>
+      <pubDate>Wed, 13 Mar 2024 12:15:45 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]谷歌宣布他们将限制与选举相关的查询类型 [...]</title>
-      <link>https://t.me/hn_summary/79093</link>
-      <description><![CDATA[Google 限制 Gemini 聊天机器人选举答案
-谷歌宣布，他们将限制其聊天机器人 Gemini 响应的与选举相关的查询类型，以防止错误信息和干扰即将到来的 2024 年选举。这一决定是一项预防措施，旨在确保向用户提供的信息的准确性和可靠性。此举引发了一些人的争议，他们认为这可能会限制对重要信息的访问，但谷歌坚持认为有必要保护选举过程的完整性。]]></description>
-      <guid>https://t.me/hn_summary/79093</guid>
-      <pubDate>Wed, 13 Mar 2024 08:36:10 GMT</pubDate>
+      <title>隆重推出 i3wm Alt+Tab 工作区切换器，它是 i3 窗口管理器用户的游戏规则改变者。</title>
+      <link>https://t.me/hn_summary/79111</link>
+      <description><![CDATA[显示 HN：I3wm Alt+Tab 工作区切换器&lt; br/&gt;
+隆重推出 i3wm Alt+Tab 工作区切换器，它是 i3 窗口管理器用户的游戏规则改变者。该工具通过将深受喜爱的 Alt+Tab 功能引入 i3 环境，彻底改变了工作区切换。告别笨重的导航，迎接无缝的生产力。该工具模仿 Windows 中窗口切换的便捷性，是任何想要简化工作流程的人的必备工具。查看 GitHub 页面了解更多详细信息，并准备好将您的工作空间游戏提升到新的水平。]]></description>
+      <guid>https://t.me/hn_summary/79111</guid>
+      <pubDate>Wed, 13 Mar 2024 12:06:39 GMT</pubDate>
     </item>
     <item>
-      <title>奇异值分解 (SVD) 的证明是一个强大的概念，它说明了每一个 [...]</title>
-      <link>https://t.me/hn_summary/79092</link>
-      <description><![CDATA[奇异值分解的证明
-奇异值分解 (SVD) 的证明是一个强大的概念，它指出每个矩阵都可以使用域和范围空间的适当基进行对角化。麻省理工学院教授 Gilbert Strang 提供了关于 SVD 的精彩讲座，其中包括存在性证明。为了清楚起见，这篇文章将证明分为两部分。 SVD 适用于复杂矩阵，但该证明侧重于实值矩阵。通过仔细浏览证明，读者可以在根据需要查阅细节的同时掌握全局。关键步骤涉及定义新的向量和矩阵，以矩阵形式表达关系，最终证明 SVD。 （根据 43% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/79092</guid>
-      <pubDate>Wed, 13 Mar 2024 08:34:07 GMT</pubDate>
+      <title>[媒体]巨型红杉在英国蓬勃发展，进口树木很好地适应了气候[...]</title>
+      <link>https://t.me/hn_summary/79110</link>
+      <description><![CDATA[巨型红杉是英国景观中快速生长的特征
+巨型红杉在英国蓬勃发展，进口树木能够很好地适应气候并捕获大量碳。这项由伦敦大学学院研究人员和邱园皇家植物园领导的研究发现，这些巨大的树木每年可以吸收 85 公斤的碳。尽管红杉在加利福尼亚州处于濒危状态，但英国仍拥有约 50 万棵红杉。这项研究采用先进的激光扫描技术，为英国巨杉的生长速度和恢复力提供了宝贵的见解，强调了它们对减缓气候变化的潜在影响以及长期植树战略的重要性。]]></description>
+      <guid>https://t.me/hn_summary/79110</guid>
+      <pubDate>Wed, 13 Mar 2024 11:56:33 GMT</pubDate>
     </item>
     <item>
-      <title>OpenDevin 是一个专注于推广开源软件和技术的 Twitter 帐户。</title>
-      <link>https://t.me/hn_summary/79091</link>
-      <description><![CDATA[OpenDevin
-OpenDevin 是一个专注于推广开源软件和技术的 Twitter 帐户。该帐户强调了开源项目的重要性，并鼓励技术社区内的合作。通过分享与开源开发相关的新闻、更新和资源，OpenDevin 旨在教育和激励其他人为开源运动做出贡献。通过在 Twitter 上关注 OpenDevin 加入对话并了解有关开源软件优势的更多信息。]]></description>
-      <guid>https://t.me/hn_summary/79091</guid>
-      <pubDate>Wed, 13 Mar 2024 08:15:57 GMT</pubDate>
+      <title>在 1999 年对 Linux 创始人 Linus Torvalds 的采访中，我们一睹他的风采 [...]</title>
+      <link>https://t.me/hn_summary/79109</link>
+      <description><![CDATA[专访：Linus Torvalds (1999)
+在 1999 年对 Linux 创始人 Linus Torvalds 的采访中，我们可以一睹他的个人生活和成长经历。尽管莱纳斯是一位技术天才，但他形容自己是一个彻头彻尾的极客，没有社交礼仪，不受女孩欢迎，对运动也不感兴趣。他讲述了他的非宗教观点、他的记者家庭，以及他在祖父的帮助下早期接触计算机的经历。令人惊讶的是，他承认对公开演讲感到紧张，这展现了这位科技偶像更人性化的一面。这次采访提供了对革命性操作系统背后的人的独特而个人的看法。 （根据 41% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/79109</guid>
+      <pubDate>Wed, 13 Mar 2024 11:51:27 GMT</pubDate>
     </item>
     <item>
-      <title>谷歌决定禁止 Gemini AI 中的选举查询引发了关于平衡赌注的辩论 [...]</title>
-      <link>https://t.me/hn_summary/79090</link>
-      <description><![CDATA[Google 禁止 Gemini AI 中的选举查询引发争论 
-谷歌决定禁止 Gemini AI 中的选举查询引发了一场关于信息适度与自由获取之间平衡的争论。此举旨在打击政治错误信息，凸显了这家科技巨头维护民主进程的承诺。这项全球禁令自印度选举以来一直延续，凸显了整个行业在政治背景下趋于温和的趋势。随着人工智能继续影响公共话语，开发人员面临着确保负责任的使用同时维护民主价值观的挑战。需要共同努力建立透明的指导方针并提高用户的数字素养，以负责任地驾驭在线信息环境。]]></description>
-      <guid>https://t.me/hn_summary/79090</guid>
-      <pubDate>Wed, 13 Mar 2024 08:13:53 GMT</pubDate>
+      <title>[媒体]在本周的博客中，我们深入研究了 CORDIC 算法，这是 FPGA 工程师的重要工具[...]</title>
+      <link>https://t.me/hn_summary/79108</link>
+      <description><![CDATA[Cordic 算法、理论和 FPGA 使用
+在本周的博客中，我们深入研究了 CORDIC 算法，这是 FPGA 工程师经常被忽视的重要工具。 CORDIC 算法由 Jack Volder 于 1959 年开发，用于三角函数和指数函数的科学计算器。它的独特之处在于其无需专用乘法器或除法器即可运行的能力，使其对于 DSP 和工业控制应用而言非常高效。该算法的多功能性使其能够以线性、圆形或双曲线配置以及旋转或矢量模式运行。虽然 CORDIC 算法在收敛性和输入范围方面存在局限性，但它仍然是生成正弦波和余弦波、实现数学函数等的强大工具。探索其在 FPGA 中的实现，并在我们即将发布的博客中关注未来的应用。]]></description>
+      <guid>https://t.me/hn_summary/79108</guid>
+      <pubDate>Wed, 13 Mar 2024 11:15:13 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]圣罗莎一家人在飞机失事后奇迹般地生还了一场小型飞机失事 [...]</title>
-      <link>https://t.me/hn_summary/79089</link>
-      <description><![CDATA[飞机展开降落伞并迫降后受轻伤&lt; br/&gt;
-圣罗莎的一个家庭在一次小型飞机失事中奇迹般地生还，飞机发动机故障，导致机上降落伞展开，将他们轻轻地降落到门多西诺县的地面。飞行员反应敏捷，启动了西锐机身降落伞系统 (CAPS)，挽救了机上两名成人和一名 2 岁儿童的生命。尽管飞机在最终坠落地面之前被树木缠住，但一家人只受了轻伤，这在最坏的情况下确实是一个奇迹。这是该地区近两年来发生的第二起小型飞机失事事件，均造成轻伤，无人死亡。]]></description>
-      <guid>https://t.me/hn_summary/79089</guid>
-      <pubDate>Wed, 13 Mar 2024 07:52:36 GMT</pubDate>
+      <title>[媒体]令人失望的是，日本的太空一号火箭未能进入轨道，因为我[...]</title>
+      <link>https://t.me/hn_summary/79107</link>
+      <description><![CDATA[日本太空一号火箭发射后不久爆炸
+令人失望的是，日本的太空一号火箭在升空后几秒钟爆炸，未能进入轨道。携带政府间谍卫星模型的固体燃料凯罗斯火箭在半空中起火，碎片落到附近山区。这次挫折对日本太空发展的雄心是一个打击。幸运的是，没有造成人员伤亡，消防队员成功扑灭了火灾。该事件凸显了太空探索的挑战和风险，展示了火箭发射的不可预测性。]]></description>
+      <guid>https://t.me/hn_summary/79107</guid>
+      <pubDate>Wed, 13 Mar 2024 10:58:03 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]摩托罗拉最新的廉价手机 2024 年 Moto G Power 5G 和 Moto G 5G 展现了 [...]</title>
-      <link>https://t.me/hn_summary/79088</link>
-      <description><![CDATA[摩托罗拉最新的廉价手机看起来出奇的好
-摩托罗拉最新的廉价手机 2024 Moto G Power 5G 和 Moto G 5G 在 NFC、纯素皮革背板、microSD 卡插槽和耳机插孔方面表现出色。 G Power 5G 甚至还提供无线充电功能，这在廉价手机中是罕见的功能。这两款手机的起价分别为 199 美元和 299 美元，其中 G Power 配备 6.7 英寸 1080p LCD 和 MediaTek Dimensity 7020 芯片组。 G 5G 配备高通 Snapdragon 4 Gen 1 芯片组和 6.6 英寸 720p LCD。这两款手机都有很有前途的功能，但执行力将是关键。 Moto G Power 将于 3 月 22 日开始上市，Moto G 5G 将于 3 月 21 日上市。]]></description>
-      <guid>https://t.me/hn_summary/79088</guid>
-      <pubDate>Wed, 13 Mar 2024 07:44:30 GMT</pubDate>
+      <title>[媒体]投资者知道大多数初创公司都会失败，但 RevenueCat 的一份新报告显示 [...]</title>
+      <link>https://t.me/hn_summary/79106</link>
+      <description><![CDATA[新报告显示，大多数订阅移动应用都不赚钱&lt; /a&gt;
+投资者知道大多数初创公司都会失败，但 RevenueCat 的一份新报告显示，大多数订阅移动应用程序也很难赚钱。一年后，前 5% 的应用程序产生的收入是后四分之一的应用程序的 200 倍，而月收入中位数不到 50 美元。健康和健身应用程序表现最佳，而旅行和生产力应用程序则表现不佳。令人惊讶的是，只有 3.5% 的应用程序收入达到 10,000 美元，这是全职应用程序开发所需的数字。报告还预测未来订阅价格将会上涨，以及订阅模式与其他变现方式的结合。]]></description>
+      <guid>https://t.me/hn_summary/79106</guid>
+      <pubDate>Wed, 13 Mar 2024 10:45:56 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Tex Live 2024 已发布，现在可以通过 torrent 文件和 [...]</title>
-      <link>https://t.me/hn_summary/79087</link>
-      <description><![CDATA[TeX Live 2024 已发布 - ISO 可通过 torrent 文件和磁铁下载
-Tex Live 2024 已发布，现在可以通过 torrent 文件和磁力链接下载。该 torrent 文件由作者创建并最初播种，可从 timstewart 下载.io。用于获取 TeX Live 作为 ISO 映像的官方网页即将更新。这是作者第六年协助这一过程，他们很高兴能够帮助尽可能多的用户访问 TeX Live。十多年来，LaTeX 一直是作者生产力和乐趣的源泉。]]></description>
-      <guid>https://t.me/hn_summary/79087</guid>
-      <pubDate>Wed, 13 Mar 2024 07:39:24 GMT</pubDate>
+      <title>[媒体] 标题：2024 年 NSFW 人工智能聊天机器人的预期</title>
+      <link>https://t.me/hn_summary/79105</link>
+      <description><![CDATA[预计 2024 年 NSFW 人工智能聊天机器人
+标题：2024 年预期的 NSFW 人工智能聊天机器人
+
+在 Nextpart AI，我们很自豪地推出先进的人工智能聊天机器人技术，该技术正在彻底改变用户在线交互的方式。我们的聊天机器人根据聊天内容生成图像，为用户提供更真实的体验。通过提供 14 种不同语言的应用程序，我们正在培育一个更加国际化的社区。我们优先考虑隐私和安全，对所有聊天内容进行加密并支持加密支付。然而，值得注意的是，我们的聊天机器人尚未得到 Google Play 和 Apple Store 的支持。与我们一起体验人工智能的好处！]]></description>
+      <guid>https://t.me/hn_summary/79105</guid>
+      <pubDate>Wed, 13 Mar 2024 10:36:50 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]《Ars 电影时间旅行指南》全面介绍了好莱坞如何 [...]</title>
-      <link>https://t.me/hn_summary/79086</link>
-      <description><![CDATA[以科学逻辑和娱乐价值评分的穿越电影
-《Ars 电影时间旅行指南》全面介绍了好莱坞多年来如何描绘时间旅行。从牛顿力学到量子力学，现实世界科学的演变都反映在这些电影中。该指南根据每部电影的娱乐价值和科学逻辑对每部电影进行评估，为观众提供穿越时空电影世界的便捷工具。虽然有些电影擅长讲故事，但缺乏科学准确性，而另一些电影则为了技术精确性而牺牲叙事。本指南精选了 20 部跨越几十年、不同类型的代表性影片，展示了最好和最差的时间旅行电影，突出了对完美时间旅行电影的持续追求。]]></description>
-      <guid>https://t.me/hn_summary/79086</guid>
-      <pubDate>Wed, 13 Mar 2024 07:16:14 GMT</pubDate>
+      <title>[媒体] 看看这个使用虚幻引擎 5 创建的、手持冰枪的未来女孩。</title>
+      <link>https://t.me/hn_summary/79104</link>
+      <description><![CDATA[虚幻引擎 5 制作的拿着冰枪的未来女孩 
+看看这个使用虚幻引擎 5 创建的配备冰枪的未来女孩。该设计具有巨大的耳机、冷冻枪和冰罐，让观众对她的故事感到好奇。艺术家从毒瘤中汲取灵感，为这个角色增添了独特的魅力。在 80.lv 上探索该项目背后的令人惊叹的视觉效果和创新概念.]]></description>
+      <guid>https://t.me/hn_summary/79104</guid>
+      <pubDate>Wed, 13 Mar 2024 10:33:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
