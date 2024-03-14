@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Wed, 13 Mar 2024 20:57:06 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 Mar 2024 03:11:55 GMT</lastBuildDate>
     <item>
-      <title>[媒体] 隆重推出 Storybook 8，这是用于构建的行业标准 UI 工具的最新版本 [...]</title>
-      <link>https://t.me/hn_summary/79213</link>
-      <description><![CDATA[故事书8
-隆重推出 Storybook 8，这是用于构建、测试和记录组件和页面的行业标准 UI 工具的最新版本。该版本有来自 218 位贡献者的 8,865 次提交和 773 个 PR，包括内置可视化测试、React 服务器组件支持、升级的 Vue 和 React 控制自动生成以及更快的测试构建等重大改进。新的 Visual Tests 插件可以轻松检测 UI 错误，而实验性的 React Server 组件支持和改进的控件自动生成增强了用户体验。 Storybook 8 还具有重新架构的 Vite 支持、Vitest 测试和 Vite 5 兼容性，以及更新的移动和桌面 UI。此外，消除非 React 项目的 React 依赖以及特定于框架的改进使 Storybook 8 比以往更快、更兼容、更稳定。 （根据故事文本的 70% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/79213</guid>
-      <pubDate>Wed, 13 Mar 2024 20:57:06 GMT</pubDate>
+      <title>[媒体]什么是启蒙？</title>
+      <link>https://t.me/hn_summary/79265</link>
+      <description><![CDATA[什么是启蒙？作者：伊曼努尔·康德
+伊曼努尔·康德的《什么是启蒙运动？》挑战个人摆脱自我强加的未成年人或无法独立思考的状态。康德认为，懒惰和怯懦导致许多人仍然是未成年人，依赖他人为他们思考。他强调运用自己的理解和敢于求知的重要性。康德强调公开使用理性的自由的必要性，同时承认对私人使用的限制。他批评对启蒙运动的永久监护，并呼吁不断进步和改革。康德的著作呼吁人们采取行动接受启蒙并独立思考。 （根据 79% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/79265</guid>
+      <pubDate>Thu, 14 Mar 2024 03:11:55 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] jacobin.com 上的《科技巨头是我们镀金时代的强盗大亨》深入探讨了 [...]</title>
-      <link>https://t.me/hn_summary/79212</link>
-      <description><![CDATA[科技巨头是我们镀金时代的强盗大亨 
-科技巨头是我们镀金时代的强盗大亨”，位于 jacobin.com 深入探讨了 Apple 和 Epic Games 之间持续不断的不和，强调了 Apple 试图阻止 Epic 访问其欧洲开发者平台的行为。文章讨论了技术垄断和寡头垄断的影响，与镀金时代的强盗大亨进行了类比。它强调了有必要对这些塑造市场并影响我们生活的强大公司进行民主控制。这篇文章还涉及世界各地为遏制科技巨头的力量并保护消费者和国家免受其负面影响而采取的监管措施。]]></description>
-      <guid>https://t.me/hn_summary/79212</guid>
-      <pubDate>Wed, 13 Mar 2024 20:53:01 GMT</pubDate>
+      <title>[媒体] 美国房屋首付中位数</title>
+      <link>https://t.me/hn_summary/79264</link>
+      <description><![CDATA[美国各州的房屋首付中位数
+在本文中，朱莉·皮斯利 (Julie Peasley) 按美国各州绘制了单户住宅首付中位数的地图，显示华盛顿特区、佛罗里达州和夏威夷的首付最高，为 98,670 美元。数据显示，各州的首付金额差异很大，有些州的首付金额低于 10,000 美元。文章还讨论了远程工作对美国房地产市场的影响，房价快速上涨，租金攀升。这种数据驱动的分析为美国房地产市场的现状提供了宝贵的见解。]]></description>
+      <guid>https://t.me/hn_summary/79264</guid>
+      <pubDate>Thu, 14 Mar 2024 02:43:43 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]AMD 通过新的更高密度芯片扩展了其 Spartan UltraScale+ FPGA 系列 [...]</title>
-      <link>https://t.me/hn_summary/79211</link>
-      <description><![CDATA[将 AMD Spartan UltraScale+ 系列扩展到 16 纳米并进入 2040 年代
-AMD 扩展了 Spartan UltraScale+ FPGA 系列，推出了更高密度的新型芯片，这些芯片具有新功能和用于内存控制器的强化 IP。这些成本优化的芯片是在较旧的节点上生产的，但预计仍将持续到 2040 年代。 Spartan 系列正在采用更现代化的工艺，加入 Zynq UltraScale+ 和 Artix UltraScale+ 系列。这些 FPGA 通常用于设计周期较长的产品，预计将在未来几十年内继续使用。此更新让您快速了解 Spartan UltraScale+ 系列中的新型号。]]></description>
-      <guid>https://t.me/hn_summary/79211</guid>
-      <pubDate>Wed, 13 Mar 2024 20:47:55 GMT</pubDate>
+      <title>尼古拉斯·布尔巴基 (Nicolas Bourbaki) 是一群法国数学家的化名，他们聚集在 [...]</title>
+      <link>https://t.me/hn_summary/79263</link>
+      <description><![CDATA[尼古拉斯·布尔巴基
+尼古拉斯·布尔巴基 (Nicolas Bourbaki) 是一群法国数学家的笔名，他们在 20 世纪 30 年代聚集在一起，编写了一本新的分析教科书。该项目扩展为一系列名为《数学原理》的教科书，涵盖集合论、抽象代数和拓扑等主题。该小组的成立是为了回应在第一次世界大战中失去一代法国数学家的情况，旨在使课程材料现代化。布尔巴基严谨而抽象的数学方法影响了 20 世纪中叶的数学领域，但近年来其影响力有所减弱。尽管如此，他们仍在继续出版新卷，最新一卷是在 2023 年。（摘要基于 14% 的故事文本。）]]></description>
+      <guid>https://t.me/hn_summary/79263</guid>
+      <pubDate>Thu, 14 Mar 2024 02:35:38 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]阿诺德·勋伯格，这位毫不妥协的现代主义作曲家，在何家找到了一个不太可能的家 [...]</title>
-      <link>https://t.me/hn_summary/79210</link>
-      <description><![CDATA[阿诺德·勋伯格改变了好莱坞
-阿诺德·勋伯格，一位毫不妥协的现代主义作曲家，尽管他的前卫音乐与电影业盛行的文化规范发生冲突，但他却在好莱坞找到了一个不太可能的家。勋伯格对好莱坞作曲家（包括跟随他学习的伦纳德·罗森曼）的影响在经典电影的不和谐配乐中显而易见。圣莫尼卡的室内乐系列《蓝花楹音乐》通过多样化的节目向勋伯格致敬，展示了他的作品及其对约翰·科尔特兰等爵士音乐家的影响。勋伯格的遗产通过他在洛杉矶的家人以及他对音乐的持久影响、挑战传统调性并扩展和声领域而得以延续。]]></description>
-      <guid>https://t.me/hn_summary/79210</guid>
-      <pubDate>Wed, 13 Mar 2024 20:41:20 GMT</pubDate>
+      <title>[媒体]为什么这么多年轻人得癌症？</title>
+      <link>https://t.me/hn_summary/79262</link>
+      <description><![CDATA[为什么这么多年轻人患癌症？数据说明了什么
+越来越多的年轻人被诊断出患有癌症，全球早发癌症的发病率呈上升趋势。肥胖、饮食变化和遗传线索等因素正在被探索为潜在的影响因素，但整体情况仍不清楚。人口结构向年轻化的转变推动了早期筛查的推动，倡导者发起了针对 50 岁以下人群的活动。然而，筛查障碍、获得医疗保健的不平等以及系统性种族主义仍然是普遍存在的问题。研究人员正在深入研究微生物组的组成和国际合作，以收集更多数据并了解导致早发癌症增加的复杂因素。 （根据 84% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/79262</guid>
+      <pubDate>Thu, 14 Mar 2024 02:29:32 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]由英国癌症研究中心资助并由牛津大学领导的一项开创性研究[...]</title>
-      <link>https://t.me/hn_summary/79209</link>
-      <description><![CDATA[人工智能揭示前列腺癌不仅仅是一种疾病&lt; br/&gt;
-由英国癌症研究中心资助、牛津大学和曼彻斯特大学领导的一项开创性研究表明，前列腺癌不仅仅是一种疾病，还包括两种不同的亚型，称为进化型。利用人工智能技术，研究人员能够分析前列腺癌患者的 DNA 数据并识别这些不同的亚型，这可能会彻底改变该疾病的诊断和治疗方式。这些发现可能会在未来挽救数千人的生命，并带来基于基因检测的个性化治疗。这项由国际团队进行的研究强调了前列腺癌的复杂性以及定制治疗方案的潜力。]]></description>
-      <guid>https://t.me/hn_summary/79209</guid>
-      <pubDate>Wed, 13 Mar 2024 20:36:45 GMT</pubDate>
+      <title>我们实验语言学系的一份新报告显示，[...]</title>
+      <link>https://t.me/hn_summary/79261</link>
+      <description><![CDATA[仅剩 20 个 JavaScript 运行时
+我们实验语言学系的一份新报告显示，JavaScript 运行时只剩下 20 个，并且新运行时的名称排列必须为“Node”。该博客文章按品牌潜力对可用名称进行排名，其中“oden”和“nedo”等名称脱颖而出。该帖子还估计，到 2029 年，所有 24 种排列都将被认领。对最终的 JavaScript 运行时提出了一个幽默的建议，称其为“完成”。作者敦促开发者社区首先认领剩余的名字。]]></description>
+      <guid>https://t.me/hn_summary/79261</guid>
+      <pubDate>Thu, 14 Mar 2024 02:10:22 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在危机不断升级的世界里，富人变得越来越难以为继。</title>
-      <link>https://t.me/hn_summary/79208</link>
-      <description><![CDATA[为什么这个世界买不起富人
-在危机不断升级的世界中，富人变得越来越难以为继。前 1% 的人获得的全球财富几乎是其他人口总和的两倍，排放的二氧化碳相当于最贫困人口的三分之二。经济不平等导致社会功能失调，暴力、健康问题和环境问题发生率更高。解决不平等问题对于可持续的未来至关重要，因为更平等的社会在健康、社会和环境领域表现更好。政策制定者必须迅速采取行动，通过累进税制、堵住税收漏洞和促进公平商业惯例，扭转日益加剧的不平等现象。减少经济不平等对于解决世界危机至关重要。]]></description>
-      <guid>https://t.me/hn_summary/79208</guid>
-      <pubDate>Wed, 13 Mar 2024 20:33:11 GMT</pubDate>
+      <title>[媒体]以色列对加沙文化遗产的系统性破坏是一个毁灭性的现实 [...]</title>
+      <link>https://t.me/hn_summary/79260</link>
+      <description><![CDATA[以色列正在系统性地破坏加沙的文化遗产
+以色列对加沙文化遗产的系统性破坏是一个毁灭性的现实，但在冲突讨论中却常常被忽视。蓄意针对文化遗址，包括图书馆、博物馆和历史古迹，对加沙丰富的历史和当代文化生活造成了不可挽回的损害。对这些遗址的破坏，以及对艺术家、音乐家和知识分子的杀害，是世界各地冲突中使用的一种战略策略，目的是抹去国家象征、统治人民并通过掠夺获取财富。加沙文化遗产的丧失是一场悲剧，在该地区持续不断的暴力和苦难中，不应忘记这一悲剧。 （根据故事文本的 71% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/79260</guid>
+      <pubDate>Thu, 14 Mar 2024 02:02:17 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 加州人厌倦了自动驾驶汽车占领他们的街道，而一辆新的双 [...]</title>
-      <link>https://t.me/hn_summary/79207</link>
-      <description><![CDATA[加州城市试图从自动驾驶汽车手中夺回对街道的控制权公司
-加州人已经厌倦了自动驾驶汽车占领他们的街道，一项新法案《加州参议院法案 915》旨在让城市对这些自动驾驶汽车有更多的控制权。该法案由州参议员戴夫·科特斯 (Dave Cortese) 发起，将允许城市为自动驾驶汽车公司颁发自己的许可证，对允许运营的汽车数量施加限制，并制定运营法规。此举是在自动驾驶汽车引发行人受伤和交通中断事件之后做出的。该法案被视为让这些公司承担责任并确保公共安全的一种方式。争议在于目前缺乏针对自动驾驶汽车的问责措施，而令人惊讶的是，城市可能很快就会拥有对其进行监管的权力。]]></description>
-      <guid>https://t.me/hn_summary/79207</guid>
-      <pubDate>Wed, 13 Mar 2024 20:31:06 GMT</pubDate>
+      <title>[媒体] YubiKey OTP Provisioner (yop) 是一个命令行工具，可同步存储的 OTP 凭证 [...]</title>
+      <link>https://t.me/hn_summary/79259</link>
+      <description><![CDATA[显示 HN：跨多个 Yubikey 同步 OTP 凭证&lt; br/&gt;
+YubiKey OTP Provisioner (yop) 是一个命令行工具，可将存储的 OTP 凭证同步到多个 YubiKey，解决跨设备保持凭证同步的问题。它通过从通行证存储将凭证配置到 YubiKeys 来自动化该过程。 yop 假设通行证存储专门用于 OTP 凭证，并且对其可以处理的加密文件数量有限制。它通过提供原子同步操作、试运行模式以及用于管理 YubiKeys 上凭证的选项而脱颖而出。使用 ppx 安装很简单。总体而言，yop 简化了多个 YubiKey 上 OTP 凭证的管理。]]></description>
+      <guid>https://t.me/hn_summary/79259</guid>
+      <pubDate>Thu, 14 Mar 2024 01:58:12 GMT</pubDate>
     </item>
     <item>
-      <title>在 Tonik，我们了解在线浏览时隐私的重要性。</title>
-      <link>https://t.me/hn_summary/79206</link>
-      <description><![CDATA[无代码炒作列车
-在 Tonik，我们了解在线浏览时隐私的重要性。我们的隐私偏好中心允许您控制浏览器中存储的数据，使您能够禁用网站运行可能不需要的某些类型的存储。无论是出于营销、分析还是个性化目的，我们都相信将控制权交还给您。通过按类别管理您的同意偏好，您可以确保更加定制和安全的浏览体验。立即加入我们，掌控您的在线隐私。]]></description>
-      <guid>https://t.me/hn_summary/79206</guid>
-      <pubDate>Wed, 13 Mar 2024 20:30:01 GMT</pubDate>
+      <title>[媒体] 从 PyPI 下载 Python 包时要小心，研究人员发现 [...]</title>
+      <link>https://t.me/hn_summary/79258</link>
+      <description><![CDATA[针对加密钱包的供应链攻击
+从 PyPI 下载 Python 包时要小心，因为研究人员发现了七个旨在窃取加密货币的恶意包。这些软件包旨在窃取 BIP39 助记词，让黑客能够访问用户的钱包。这些软件包在被删除之前已被下载了近 7,500 次。这项名为 BIPClip 的活动于 2022 年 12 月上旬开始，强调了针对加密资产的供应链攻击的持续威胁。 PyPI 是黑客的热门目标，他们经常冒充合法软件包来部署恶意软件。此次事件提醒大家保持警惕，确保您的加密货币钱包安全。]]></description>
+      <guid>https://t.me/hn_summary/79258</guid>
+      <pubDate>Thu, 14 Mar 2024 01:47:05 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在最近的一次谈话中，我决定不再将法学硕士称为人工智能。</title>
-      <link>https://t.me/hn_summary/79205</link>
-      <description><![CDATA[别再说人工智能了
-在最近的一次谈话中，我决定不再将法学硕士称为人工智能。这是我对围绕它们的持续炒作的小小的反抗。虽然我发现法学硕士对我的工作非常有用并且很有帮助，但我相信称他们为人工智能赋予了他们比他们应得的更多的权力。它们不是智能，而是超强的建议引擎。尽管它们对某些行业产生了负面影响，但我认为是时候停止使用人工智能一词来描述它们了。让我们认清他们的真实面目，远离夸大的炒作。]]></description>
-      <guid>https://t.me/hn_summary/79205</guid>
-      <pubDate>Wed, 13 Mar 2024 20:28:28 GMT</pubDate>
+      <title>[媒体]比特币雾运营商罗曼·斯特林戈夫 (Roman Sterlingov) 被判洗钱 4 亿美元 [...]</title>
+      <link>https://t.me/hn_summary/79257</link>
+      <description><![CDATA[比特币雾运营商因在暗网上洗钱 4 亿美元比特币而被定罪
+比特币雾 (Bitcoin Fog) 运营商罗曼·斯特林戈夫 (Roman Sterlingov) 因在暗网上洗钱 4 亿美元的比特币而被定罪。尽管斯特林戈夫坚称自己无罪，但有证据表明，斯特林戈夫经营着运行时间最长的比特币洗钱服务，吸引了试图隐藏非法收益的犯罪分子。该试验揭示了比特币雾（Bitcoin Fog）的内部运作方式，这是一种加密货币混合器，收取费用以重新分配比特币，据称这种方式使比特币无法追踪。有罪判决凸显了司法部为追究罪犯责任所做的不懈努力，并通过国际合作最终逮捕了斯特林戈夫。该案引发了人们对加密货币调查中追踪技术的合法性和有效性的质疑。]]></description>
+      <guid>https://t.me/hn_summary/79257</guid>
+      <pubDate>Thu, 14 Mar 2024 01:46:01 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]我最近发现福特一直在与我的保险公司共享我的驾驶数据[...]</title>
-      <link>https://t.me/hn_summary/79204</link>
-      <description><![CDATA[福特通过 LexisNexis 向保险公司共享驾驶数据&lt; br/&gt;
-我最近发现福特一直通过 LexisNexis 与我的保险公司共享我的驾驶数据。这导致利宝互助银行 (Liberty Mutual) 由于记录了我的剧烈加速而放弃了我的客户身份。现在，我正在努力寻找负担得起的保险，报价高达每月 899 美元。有谁知道如何选择退出此数据共享？我的驾驶习惯在我不知情的情况下受到监控，这一事实令人担忧，并使我陷入困境。任何想法或建议将不胜感激。]]></description>
-      <guid>https://t.me/hn_summary/79204</guid>
-      <pubDate>Wed, 13 Mar 2024 20:22:23 GMT</pubDate>
+      <title>[媒体]Adobe Firefly，一款新的人工智能图像创建工具，因重复同样的事情而面临批评 [...]</title>
+      <link>https://t.me/hn_summary/79256</link>
+      <description><![CDATA[Adobe Firefly 重复了与 Google Gemini 相同的 AI 错误 
+Adobe Firefly 是一款新的人工智能图像创建工具，它因重复与谷歌现已关闭的 Gemini 工具相同的有争议的错误而面临批评。这两种工具都因在历史背景下不准确地描绘种族和族裔群体而受到批评，例如展示为纳粹德国而战的黑人士兵或将黑人插入美国开国元勋的场景中。尽管 Adob​​e 和 Google 拥有不同的公司文化，但它们都依赖相似的图像生成技术。这场争议凸显了科技公司在确保人工智能模型避免种族主义刻板印象同时准确再现历史事件方面面临的挑战。以遵守版权法而闻名的 Adob​​e 尚未对批评做出回应。]]></description>
+      <guid>https://t.me/hn_summary/79256</guid>
+      <pubDate>Thu, 14 Mar 2024 01:44:57 GMT</pubDate>
     </item>
     </channel>
 </rss>
