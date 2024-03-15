@@ -4,7 +4,23 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Fri, 15 Mar 2024 06:15:59 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 Mar 2024 09:11:55 GMT</lastBuildDate>
+    <item>
+      <title>我们花了 6 个月的时间和 1,000 名用户在区块链上构建了一个开发人员生产力工具。</title>
+      <link>https://feed.indiehackers.world/post/f0b2be5839</link>
+      <description><![CDATA[今天，Perspect 在 Product Hunt 上推出
+第 0 个月启动区块链
+第 1 个月构建 MVP - 0 位用户
+第 2 个月推出封闭测试版 - 100 位用户
+第 3 个月修复 MVP - 150 位用户
+第 4 个月公开测试版 - 250 位用户
+第 5 个月 ETH 丹佛 - 637 位用户
+第 6 个月在 PH 上发布 - 1,050 位用户
+希望得到反馈
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/f0b2be5839</guid>
+      <pubDate>Fri, 15 Mar 2024 08:17:42 GMT</pubDate>
+    </item>
     <item>
       <title>名称建议：SimpleURL 与 LeanURL、复数与单数</title>
       <link>https://feed.indiehackers.world/post/f61dac4642</link>
@@ -229,13 +245,6 @@ Discord 独立黑客聊天广告这里]]></description>
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/b35cded298</guid>
       <pubDate>Mon, 11 Mar 2024 07:42:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>🧑‍🚀 10 个行之有效的策略来提高你的生产力</title>
-      <link>https://feed.indiehackers.world/post/14d12e08b1</link>
-      <description><![CDATA[Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/14d12e08b1</guid>
-      <pubDate>Fri, 08 Mar 2024 09:58:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
