@@ -4,7 +4,35 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sat, 16 Mar 2024 03:12:21 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 16 Mar 2024 06:12:48 GMT</lastBuildDate>
+    <item>
+      <title>克劳德提供通过基本的谷歌搜索就可以轻松找到的完全错误的信息，这正常吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bfz3wk/is_it_normal_for_claude_to_give_completely_wrong/</link>
+      <description><![CDATA[我让 Claude 告诉我可以在哪张专辑中找到某首特定歌曲，但它给了我错误的信息。然后我用谷歌搜索了同样的问题并得到了正确的答案。克劳德经常犯这样基本的错误吗？ 这首歌叫做《恐龙》，来自前卫摇滚乐队 King Crimson。   由   提交/u/elmayab   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bfz3wk/is_it_normal_for_claude_to_give_completely_wrong/</guid>
+      <pubDate>Sat, 16 Mar 2024 05:43:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>没有情感=没有真正的同理心。我们应该让人工智能有感觉吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bfyix5/no_emotions_no_real_empathy_should_we_want_ai_to/</link>
+      <description><![CDATA[（这篇文章有点推测性，一点技术含量都没有） 今天的 AI 很友好，但感觉不太好情感或同理心。经过训练，它可以通过一种简单的调节形式表现出具有同理心的外表，这大致相当于通过直接向人类大脑注射多巴胺来训练人类。人工智能或许能够在某种程度上模拟心理状态，但它无法以任何方式替代体验和关联他人的​​感受，而这正是人类共情的根源。几乎所有人类的移情行为都建立在替代体验的基础上。 在下个世纪，我们将变得越来越依赖自主的人工智能代理。人工智能将能够独立研究新技术，并比我们做得更好。当然，我们会尽可能多地让人类参与进来，但最终我们仍然会对人工智能给予很大的信任，并给予它很大的自主权来解决问题。 &lt; p&gt;那么我们真的想把我们的生活托付给那些没有、也不能感受到同理心的东西吗？是 AGI 更好的长期模型。也就是说，也许我们应该尝试模仿情感和同理心的神经生物学基础（在计算主题的层面上，而不是单个神经元的层面上）。是的，这确实意味着人工智能将能够承受痛苦，这本身就是一个道德蠕虫。   由   提交 /u/HumanSpinach2   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bfyix5/no_emotions_no_real_empathy_should_we_want_ai_to/</guid>
+      <pubDate>Sat, 16 Mar 2024 05:07:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>利用低端翻新服务器进行“组合”研究</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bfxj2b/utilizing_low_end_refurbished_servers_to_perform/</link>
+      <description><![CDATA[作为我不断扩展的未完成项目的一部分，我最近购买了一台翻新的 Dell PowerEdge 塔式服务器，配备双 12 核 Xeon 处理器和 256 GB RAM（加上一些翻新的 SAS 驱动器），用于尝试设置 AI 管道。  为此，我设置了 ProxMox，然后创建了一堆虚拟机，安装了无头 Ubuntu 服务器，并加载了带有 7b 模型的 Ollama（主要是 Mistral，但也在尝试其他模型）。为了将所有内容连接在一起，我创建了另一个虚拟机并设置 NodeRed 来开始构建工作流程。 然后（虽然可能不是唯一的）我想出了尝试使用简化流程的想法有点类似于人工智能在材料科学研究中的应用（本质上是产生各种材料可以组合的方式，例如，制造更好的电池）。 当然，我不是材料科学家或者研究人员，而且几乎不知道我在做什么...因此，我使用工作流程进行以下操作：  从 arXiv 随机抽取论文， 将它们解析成块 逐步将块输入 7b 模型进行汇总 循环过程以增量汇总这些汇总块的组合 存储这些汇总进入一个可怕的数据库 随机选择其中两个或多个摘要 将它们输入到模型中，并提示询问如何组合这些概念 输入这些将结果放入模型中，以创建潜在的搜索词，以确定是否存在类似的内容。 根据这些词执行网络搜索 存储这些搜索的热门结果中的链接，以便将来使用（以及尚未经过深思熟虑的步骤。  不可否认，这是相当多的垃圾和无意义的想法，到目前为止我才完全运行了几天。   p&gt; 但它确实产生了一些想法，虽然不是独一无二的，但我发现值得注意，其中包括：  利用汽车上的 GPS、摄像头和其他传感器来绘制地图道路损坏并在 Lora 上发送位置标记以指示基础设施修复需求 安装可充电空气“除尘器”使用无人机清除数据中心设备和家庭中的灰尘 在厕所中安装通风口和风扇以提取和存储甲烷用于发电  这些在我什至已经开始挖掘其中有多少与输入其中的论文相关。 我最惊讶的是我能够让它产生一些“创新”的结果。和可行的想法..并且使用相对低端的旧翻新设备（而且我什至让它实际工作）做到了这一点。   由   提交 /u/IWantAGI   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bfxj2b/utilizing_low_end_refurbished_servers_to_perform/</guid>
+      <pubDate>Sat, 16 Mar 2024 04:10:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能会成为更好的伴侣吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bfwiaj/will_ai_make_better_companions/</link>
+      <description><![CDATA[您对人工智能成为人类比其他人类更好的伴侣有何看法？ 人工智能是否能够显着减轻新冠病毒的流行？我们今天看到的孤独和抑郁？ 您认为会有哪些负面影响或意想不到的后果？    由   提交 /u/Difficult_Routine361   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bfwiaj/will_ai_make_better_companions/</guid>
+      <pubDate>Sat, 16 Mar 2024 03:16:30 GMT</pubDate>
+    </item>
     <item>
       <title>每日一分钟人工智能新闻 3/15/2024</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bfut8o/oneminute_daily_ai_news_3152024/</link>
@@ -27,27 +55,6 @@
       <pubDate>Sat, 16 Mar 2024 00:53:55 GMT</pubDate>
     </item>
     <item>
-      <title>AI Data Poison Taster：减轻基础模型数据中毒攻击的框架</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bfry02/ai_data_poison_taster_a_framework_for_mitigating/</link>
-      <description><![CDATA[摘要： 随着大规模基础模型在人工智能系统中变得越来越普遍，数据中毒攻击的风险也随之增加。这些攻击旨在通过将精心设计的恶意数据点引入训练集中来操纵模型的行为。本白皮书提出了一种新颖的防御框架 - AI Data Poison Taster - 作为抵御此类攻击的第一道防线。我们的框架从中世纪雇佣毒物品尝者来防范暗杀企图的实践中汲取灵感，使用一个小型的专门模型来检测和隔离异常的、潜在有毒的数据，然后再到达主要的基础模型。  简介： 经过大量数据训练的基础模型构成了现代人工智能系统的基石。然而，它们对大型且通常未经整理的数据集的依赖使它们容易受到数据中毒攻击。在这些攻击中，恶意行为者将精心设计的数据点注入训练集中，导致模型学习意想不到的有害行为。随着基础模型在各个领域进行调整和部署，此类攻击的影响可能是深远而严重的。 AI 数据毒物品尝者框架：我们提出的框架引入了一个小型的、专门的“毒物品尝者”框架。位于数据输入和主要基础模型之间的模型。该品尝者模型经过训练，可以检测传入数据中可能表明中毒企图的异常和可疑模式。该框架的关键组成部分：  毒物品尝者模型：一个小型、计算高效的模型（例如， ，Tiny Llama）专门针对预期数据域内的异常检测任务进行了培训。 严格输入验证：一组预定义的严格验证规则，用于过滤掉不符合预期格式的数据点，数据类型或值范围。 异常检测：应用无监督机器学习技术（例如聚类、降维）来检测和标记显着偏离正常值的数据点。 隔离机制：可疑数据点被隔离，以供人工审核，并可能用于重新训练品尝者模型。 迭代细化：根据新的中毒尝试和专家反馈，定期更新和细化品尝者模型。  好处和影响： AI Data Poison Taster 框架提供了一种经济高效的模块化解决方案，以减轻数据中毒风险。通过在恶意数据点到达主模型之前捕获和过滤它们，可以降低成功投毒攻击的可能性。  该框架可以轻松集成到现有的人工智能管道中，提供额外的安全层，而无需对核心架构进行重大修改。 未来方向：  ​ 虽然 AI Data Poison Taster 框架是朝着更强大的 AI 安全性迈出的有希望的一步，但它并不是灵丹妙药。需要进一步研究来开发先进技术来检测更复杂的中毒企图，以及安全聚合来自不可信来源的数据的方法。与其他防御措施（例如安全飞地和来源跟踪）集成可以进一步增强该框架的有效性。 ​ 随着人工智能系统变得越来越融入我们的生活，确保它们的安全和完整性至关重要。 AI Data Poison Taster 框架代表了一种实用、适应性强的方法，可以减轻数据中毒攻击的风险。通过学习历史实践并利用专业模型的力量，我们可以构建更具弹性的人工智能系统，以抵御不断变化的威胁形势。   由   提交/u/Certain_End_5192   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bfry02/ai_data_poison_taster_a_framework_for_mitigating/</guid>
-      <pubDate>Fri, 15 Mar 2024 23:35:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>总结整本书/章节的最佳人工智能或工具是什么？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bfqmsq/whats_the_best_ai_or_tool_for_summarizing_entire/</link>
-      <description><![CDATA[NotebookLM 允许我上传书籍并在其中搜索内容，但它的上下文窗口很小，因此无法进行广泛的摘要。您知道还有哪些其他工具可以做到这一点？也许将单个章节上传到claude 3 就可以了？顺便问一下，有没有可以上传书籍的AI，你可以询问整本书，因为它经过它的训练（不需要每次问问题时都重新阅读） &lt; !-- SC_ON --&gt;  由   提交 /u/saimonlanda   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bfqmsq/whats_the_best_ai_or_tool_for_summarizing_entire/</guid>
-      <pubDate>Fri, 15 Mar 2024 22:37:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>广告拦截AI在哪里？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bfpmbk/ad_block_ai_where/</link>
-      <description><![CDATA[我真的缺少一个 ad.blocking ai。如果它真的能过滤掉每个网页上的所有广告，我什至愿意付费。我非常讨厌这些广告……也在 Reddit 上。相当烦人的东西。 是否存在值得信赖的广告拦截人工智能？   由   提交 /u/Herz_aus_Stahl   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bfpmbk/ad_block_ai_where/</guid>
-      <pubDate>Fri, 15 Mar 2024 21:54:07 GMT</pubDate>
-    </item>
-    <item>
       <title>机器人的 21 条定律</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bfompq/the_21_laws_of_robotics/</link>
       <description><![CDATA[]]></description>
@@ -60,13 +67,6 @@
       <description><![CDATA[在快速发展的人工智能和区块链技术领域，由 Wynd Network 提供支持的 GRASS 正在取得重大进展。随着人工智能不断重塑各行业，对创新数据解决方案的需求激增。 GRASS 成为一股先锋力量，利用人工智能和去中心化技术提供无与伦比的数据可访问性和效率。该计划在 Solana 上引入了有史以来第一个第 2 层数据汇总，这是区块链可扩展性和人工智能实用程序方面的突破性发展，从而在历史上占有一席之地。 什么是 GRASS 和 Wynd Network？ 什么是 GRASS 和 Wynd Network？强&gt; GRASS 处于 Wynd Network 使命的最前沿，即利用去中心化技术和人工智能之间的协同作用来增强数据可访问性。 Solana 上第 2 层数据汇总的引入标志着一次重大飞跃，展示了可扩展性、效率以及人工智能在区块链技术中的集成的潜力。这一举措尤其重要，因为它促进了潜在的空投，吸引了投资者群体和技术爱好者的极大关注。 在 450 万美元的强劲资金支持下，Wynd Network 和 GRASS 展现了坚实的基础和承诺达到他们的愿景。 “耕种”$GRASS 的概念非常简单，参与者可以通过共享一小部分未使用的互联网带宽来获得奖励，从而为人工智能驱动的去中心化数据网络做出贡献。 为什么选择 GRASS重要 人工智能的出现给数据抓取带来了挑战，许多网站屏蔽了传统数据中心的IP。 GRASS 以其去中心化物理基础设施网络 (DePIN) 正面应对这一挑战，利用住宅 IP 和 Chromium 浏览器来绕过这些障碍。这不仅可以实现更高效的数据收集，还可以显着降低基础设施成本，说明将人工智能与去中心化网络相结合的实际好处。 社区参与和发展  GRASS 社区和 Wynd 网络的发展证明了他们的技术创新和所提供的令人信服的价值主张。该项目的 Discord 频道拥有超过 210,000 名会员，为爱好者和参与者培育了一个充满活力的生态系统，凸显了人们对人工智能驱动的去中心化技术的广泛兴趣。 通过 GRASS 赚钱  GRASS 为用户提供了一种简单的方式，只需共享其未使用的互联网带宽的 0.03% 即可赚取 $GRASS 代币。该系统通过用户友好的浏览器扩展程序实现，体现了人工智能和区块链技术的无缝集成，使参与既轻松又安全。用户可以通过利用额外的计算机或虚拟机灵活地扩大参与范围，从而优化他们的收入潜力。 开始使用 GRASS 加入 GRASS 计划很简单： 在 https://app.getgrass.io/register/ 使用邀请码：1OG5c89A3GBmjet。这一独家邀请阶段提供了一个独特的机会，让您能够站在人工智能驱动的去中心化的最前沿（注意：使用此代码为双方带来好处）。如果 mod 要求我删除它，我会的，但目前没有开放注册。 安装 GRASS 扩展即可自动开始赚钱，将 AI 无缝集成到您的日常数字交互中。 &lt; p&gt;保持联系并了解情况 GRASS 团队致力于主要通过 Twitter 和 Discord 与社区保持积极和透明的沟通。这一承诺确保用户在参与过程中随时了解情况并获得支持。 有关更多详细信息和更新，请访问 getgrass.io   由   提交 /u/SupremeLynx   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bfnfnb/grass_aidriven_decentralization_with_wynd_network/</guid>
       <pubDate>Fri, 15 Mar 2024 20:19:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>每日人工智能新闻摘要 (03/15/2024)</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bflomw/daily_ai_news_summary_03152024/</link>
-      <description><![CDATA[ Apple 收购加拿大的 Darwin AI OpenAI &gt; 与Le Monde和Prisa Media合作 Figure 01现在可以与人们进行全面对话 &lt; li&gt;Assort Health 融资 350 万美元，为医疗保健呼叫中心扩展首个生成式 AI 特斯拉 推出新的 FSD Beta v12更新  [1] https://techcrunch.com/2024/03/14/apple-acquires-ai-startup-specializing-in-overlooking-manufacturing-components/ [2] https://openai.com/blog/global-news-partnerships-le- monde-and-prisa-media [3] https://twitter.com/figure_robot /status/1767913661253984474 [4] https://www.assorthealth.com/blog-posts/assort-health-secures-3-5-million-to-scale-first-生成人工智能for-healthcare-呼叫中心 [5] https://electrek.co/2024/03/12/tesla-pushes-new-fsd-beta-v12- update-no-new-note-but-musk-big-release/ 更详细地分析最新的人工智能和技术每日时事通讯中的新闻。   由   提交 /u/Used-Bat3441    reddit.com/r/ArtificialInteligence/comments/1bflomw/daily_ai_news_summary_03152024/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bflomw/daily_ai_news_summary_03152024/</guid>
-      <pubDate>Fri, 15 Mar 2024 19:04:42 GMT</pubDate>
     </item>
     <item>
       <title>每日两分钟人工智能更新 (03/815/2024)：来自 Apple、Cerebras Systems、Microsoft、Databricks、Oracle、Qualcomm 和 MIT 的新闻</title>
