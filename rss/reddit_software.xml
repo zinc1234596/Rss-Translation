@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sat, 16 Mar 2024 15:10:40 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 16 Mar 2024 18:13:55 GMT</lastBuildDate>
+    <item>
+      <title>视窗11</title>
+      <link>https://www.reddit.com/r/software/comments/1bgbpvo/windows_11/</link>
+      <description><![CDATA[每个人都会在 2025 年底使用 w11 还是在 mac 上继续使用 w10 或 Linux   &lt; p&gt;问题： 在网上查了一下， w11 好像有很多不好的地方 有些人说 w11 没有什么问题。似乎 Reddit 网站上的很多人都不知道 w11 的坏处   由   提交 /u/Fly-Hiklnf-6193   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1bgbpvo/windows_11/</guid>
+      <pubDate>Sat, 16 Mar 2024 17:46:12 GMT</pubDate>
+    </item>
     <item>
       <title>Aspect 照片管理器预览版 36 添加了 Linux 上缺少的拖放支持</title>
       <link>https://www.reddit.com/r/software/comments/1bg58x4/aspect_photo_organizer_preview_36_adds_missing/</link>
@@ -64,7 +71,7 @@
     <item>
       <title>如何下载SAM录音？</title>
       <link>https://www.reddit.com/r/software/comments/1bg1n0i/how_to_download_sam_recording/</link>
-      <description><![CDATA[我最近发现了这个网站，想知道是否有办法下载它发出的音频，而不仅仅是播放它？： &lt; p&gt;https://discordier.github.io/sam/   由   提交 /u/HubbaYeet   [链接] [评论]]]></description>
+      <description><![CDATA[我最近发现了这个网站，想知道是否有办法下载它发出的音频而不只是播放它？： &lt; p&gt;https://discordier.github.io/sam/   由   提交 /u/HubbaYeet   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1bg1n0i/how_to_download_sam_recording/</guid>
       <pubDate>Sat, 16 Mar 2024 08:44:50 GMT</pubDate>
     </item>
@@ -92,7 +99,7 @@
     <item>
       <title>有什么可以替代卷轴的吗？ （“通过 Twitter 滚动”）</title>
       <link>https://www.reddit.com/r/software/comments/1bfteia/any_replacements_for_scroll_scroll_by_twitter/</link>
-      <description><![CDATA[我真的很喜欢 Scroll 的商业理念，您每月支付订阅费，然后合作网站禁用其网站上的广告，以换取按比例削减订阅费费用。 我第一次听说它是通过有关 Mozilla 的“Better Web with Scroll”的新闻：https://blog.mozilla.org/en/products/firefox /try-our-latest-test-pilot-firefox-for-a-better-web-offering-privacy-and-faster-access-to-great-content/ 但我没有使用 Firefox，所以我直接支付了Scroll的订阅费用。但后来 Twitter 收购了 Scroll：https:// www.theverge.com/2021/5/4/22417852/twitter-buying-scroll-subscription-service-news-revue-newsletter 然后它被纳入 Twitter Blue 中，我不再为其付费。现在，浏览“X Premium”页面，我没有看到任何迹象表明该功能仍然存在。 Soooo...有人知道 Scroll 是否有替代品吗？还有其他公司突然出现并承诺同样的事情吗？    由   提交 /u/Drakinite2   [链接] [评论]]]></description>
+      <description><![CDATA[我真的很喜欢 Scroll 的商业理念，您每月支付订阅费，然后合作网站禁用其网站上的广告，以换取按比例削减订阅费费用。 我第一次听说它是通过有关 Mozilla 的“Better Web with Scroll”的新闻：https://blog.mozilla.org/en/products/firefox /try-our-latest-test-pilot-firefox-for-a-better-web-offering-privacy-and-faster-access-to-great-content/ 但我没有使用 Firefox，所以我直接支付了Scroll的订阅费。但后来 Twitter 收购了 Scroll：https:// www.theverge.com/2021/5/4/22417852/twitter-buying-scroll-subscription-service-news-revue-newsletter 然后它被纳入 Twitter Blue 中，我不再为其付费。现在，浏览“X Premium”页面，我没有看到任何迹象表明该功能仍然存在。 Soooo...有人知道 Scroll 是否有替代品吗？还有其他公司突然出现并承诺同样的事情吗？    由   提交 /u/Drakinite2   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1bfteia/any_replacements_for_scroll_scroll_by_twitter/</guid>
       <pubDate>Sat, 16 Mar 2024 00:42:14 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[请告诉我如何让它停止   由   提交 /u/Shadows_Attack   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1bft8h1/i_downloaded_super_simple_button_masher_but_when/</guid>
       <pubDate>Sat, 16 Mar 2024 00:34:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>在搜索栏上显示音频波形的视频播放器</title>
-      <link>https://www.reddit.com/r/software/comments/1bft32l/video_player_that_shows_audio_waveform_on_the/</link>
-      <description><![CDATA[大家好，我正在尝试找到一个视频播放器，可以在搜索栏上显示整个视频的音频级别。类似这张图 https://postimg.cc/FYQ1dXKb 这是在QuickTime 播放器，但我使用 Windows，所以这不是一个选项。有谁知道有什么好的视频应用吗？或者也许是 VLC 的插件之类的？一直在网上搜索，但除了 2010 年代早期的 EOS 应用程序之外，我找不到很多关于 EOS 的信息。   由   提交/u/Donnerdog   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1bft32l/video_player_that_shows_audio_waveform_on_the/</guid>
-      <pubDate>Sat, 16 Mar 2024 00:27:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
