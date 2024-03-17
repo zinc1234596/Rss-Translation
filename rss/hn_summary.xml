@@ -4,89 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Sun, 17 Mar 2024 06:14:23 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 17 Mar 2024 12:11:30 GMT</lastBuildDate>
     <item>
-      <title>[媒体]交互式 Smartlog (ISL) 是 Git 存储库的革命性图形界面 [...]</title>
-      <link>https://t.me/hn_summary/79817</link>
-      <description><![CDATA[展示 HN：交互式 Smartlog VSCode 扩展 – 交互式 Git GUI
-Interactive Smartlog (ISL) 是 Git 存储库的革命性图形界面，可简化开发人员与提交历史记录的交互。凭借分支可视化、未提交更改的轻松管理和冲突解决等功能，ISL 简化了 Git 工作流程。该扩展还允许直接从 UI 运行 Git 命令，使变基和合并冲突等任务变得轻而易举。此外，ISL 与 GitHub 无缝集成以进行代码审查，从而增强整体源代码控制体验。对于希望优化 Git 工作流程并简化编码流程的开发人员来说，此扩展是一个游戏规则改变者。]]></description>
-      <guid>https://t.me/hn_summary/79817</guid>
-      <pubDate>Sun, 17 Mar 2024 06:14:23 GMT</pubDate>
+      <title>十年前，随着经济增长和工资上涨，政治格局更加平静。</title>
+      <link>https://t.me/hn_summary/79835</link>
+      <description><![CDATA[托马斯·皮凯蒂失败的革命
+十年前，随着经济增长和工资上涨，政治格局更加平静。随后，托马斯·皮凯蒂（Thomas Piketty）的著作《二十一世纪的资本》风靡全球，重点关注财富不平等和顶层 1% 的权力。皮凯蒂的分析与“占领”和“英国未削减”等运动产生了共鸣，强调了代际不公平以及继承在财富积累中的作用。尽管皮凯蒂提出了全球财富税等解决方案，但左派一直在努力将反对意见转化为变革性的政治行动。随着社会努力应对日益严重的不平等和资产所有权问题，皮凯蒂的著作提出了关于资本主义的未来以及扭转根深蒂固趋势的挑战的问题。 （根据 92% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/79835</guid>
+      <pubDate>Sun, 17 Mar 2024 12:11:30 GMT</pubDate>
     </item>
     <item>
-      <title>在 20 世纪 90 年代，计算机是魔法，我们是巫师。</title>
-      <link>https://t.me/hn_summary/79816</link>
-      <description><![CDATA[我们是巫师 – 学习 Perl 的前言&lt; br/&gt;
-在 20 世纪 90 年代，计算机是魔法，我们是巫师。 Larry Wall 1993 年为《Learning Perl》写的前言启发了年轻的我，当时我偶然发现了这本书，封面上有一只美洲驼，书名似乎拼写错误。 Perl 的魔力在于你，它是由像你这样的人为像你这样的人创造的。这是一种充满奇怪符文和古老圣歌的语言，有些简单，有些困难，但值得一游。就这样吧！所以就这么做吧！与语法博士、大法师、另一个 Perl 黑客 Randal L. Schwartz 教授一起，与 Perl 一起进行有趣而神奇的冒险。]]></description>
-      <guid>https://t.me/hn_summary/79816</guid>
-      <pubDate>Sun, 17 Mar 2024 05:51:45 GMT</pubDate>
+      <title>七年前，我怀着利用人类驾驶技术的愿景踏上了 comma.ai 的旅程 [...]</title>
+      <link>https://t.me/hn_summary/79834</link>
+      <description><![CDATA[模仿学习
+七年前，我踏上了 comma.ai 的旅程使用人类驾驶数据来训练自动驾驶模型的愿景。从图像预测转向角的最初尝试失败了，导致开发了车道位置模型作为校正因子。尽管在定义车道线的基本事实方面遇到了困难，但我们在将它们从系统中删除方面取得了进展。现在，我们已经找到了行为克隆的潜在解决方案，强调了训练模型中反相关错误的重要性。关键在于准确估计累积误差以实现成功的端到端驾驶。]]></description>
+      <guid>https://t.me/hn_summary/79834</guid>
+      <pubDate>Sun, 17 Mar 2024 12:10:25 GMT</pubDate>
     </item>
     <item>
-      <title>通过光学和电子的详细解释探索复杂的微芯片世界 [...]</title>
-      <link>https://t.me/hn_summary/79815</link>
-      <description><![CDATA[微芯片的工作原理
-访问 exclusivearchitecture.com，探索错综复杂的微芯片世界，详细了解光学和电子原理。我的插图曾出现在《Popular Mechanics》和 Google 人工智能博客等著名出版物中，展示了这些微型设备背后的复杂性和创新。深入研究技术文章，揭示微芯片的内部工作原理并更深入地了解其功能。探索迷人的技术世界，发现这些小部件如何在我们的日常生活中发挥至关重要的作用。]]></description>
-      <guid>https://t.me/hn_summary/79815</guid>
-      <pubDate>Sun, 17 Mar 2024 05:50:40 GMT</pubDate>
+      <title>[媒体]令人惊讶的是，谷歌学术搜索“当然，这里是”揭示了一个完整的[...]</title>
+      <link>https://t.me/hn_summary/79833</link>
+      <description><![CDATA[Google 学术搜索：“当然，这里是”-ChatGPT -LLM 
+令人惊讶的是，谷歌学术搜索“当然，这里是”显示了大量学术论文，其中包含明显由 ChatGPT 撰写的部分。这些部分通常以“当然，这是所提供部分的简明摘要”开头，使它们很容易被发现。争议在于学术论文中人工智能生成内容的使用，引发了对学术工作真实性和原创性的质疑。访问 simonwillison.net 深入研究这一有趣的发现。]]></description>
+      <guid>https://t.me/hn_summary/79833</guid>
+      <pubDate>Sun, 17 Mar 2024 11:37:12 GMT</pubDate>
     </item>
     <item>
-      <title>Be Well Tuned 提供了一本独特的指南，帮助您改善大脑和生活，没有任何废话。</title>
-      <link>https://t.me/hn_summary/79814</link>
-      <description><![CDATA[关于调整大脑的基本设置
-Be Well Tuned 提供了一本独特的指南，帮助您改善大脑和生活，没有任何废话。该信息以要点形式呈现，具有清晰的结果和跟踪进度的详细信息。没有宗教或神秘的含义，只有详细的因果模型来帮助您理解和做出改变。重点是调整大脑的基本设置以获得持久的结果。该网站假设您能够思考并鼓励您挑战自己以学习和成长。技能树效果强大，说明清晰，如果需要帮助，可以寻求支持。请记住，在尝试用认知来解决问题之前，请考虑大脑的生物学方面。]]></description>
-      <guid>https://t.me/hn_summary/79814</guid>
-      <pubDate>Sun, 17 Mar 2024 05:39:04 GMT</pubDate>
+      <title>[媒体]分析师警告称，随着微软计划分阶段实施，企业将面临挑战 [...]</title>
+      <link>https://t.me/hn_summary/79832</link>
+      <description><![CDATA[经典 Outlook for Windows 即将终结&lt; br /&gt;
+分析师警告说，企业将面临挑战，因为微软计划逐步淘汰经典的 Outlook for Windows，支持最早可能会在 2029 年结束。新的 Outlook 缺乏关键功能，例如离线支持和与 COM 加载项的兼容性。微软敦促公司转向网络插件，但一些客户对此表示怀疑。与 Teams 和 Copilot 的集成已经在进行中，预计将于 2025 年过渡到新的 Outlook。虽然有些人认为 Slack 等消息传递平台是未来，但微软对电子邮件采取了谨慎的态度，并计划集成更新的协作技术从长远来看。]]></description>
+      <guid>https://t.me/hn_summary/79832</guid>
+      <pubDate>Sun, 17 Mar 2024 11:20:05 GMT</pubDate>
     </item>
     <item>
-      <title>佛蒙特大学教授吉姆·赫弗伦 (Jim Hefferon) 在他的网站上提供免费数学教科书 [...]</title>
-      <link>https://t.me/hn_summary/79813</link>
-      <description><![CDATA[免费数学文本
-佛蒙特大学教授 Jim Hefferon 在他的网站上提供免费数学课本  hefferon.net。这些本科教材以及练习答案和课堂幻灯片都是免费提供的。除了数学资源外，赫弗伦还提供计算、大提琴、慢跑和业余无线电的材料。文本和其他资源的 LaTeX 源可以在他的 git 存储库中找到。对于免费寻找高质量数学材料的学生和教育工作者来说，该网站是一个宝贵的资源。]]></description>
-      <guid>https://t.me/hn_summary/79813</guid>
-      <pubDate>Sun, 17 Mar 2024 05:23:57 GMT</pubDate>
+      <title>[媒体] Liebreich：净零排放将比你想象的更难 - 也更容易。</title>
+      <link>https://t.me/hn_summary/79831</link>
+      <description><![CDATA[Liebreich：净零将比您想象的更难 - 也更容易。第二部分：更容易
+在文章的第二部分中，Michael Liebreich 探讨了净零转型的牛市案例，介绍了转型的五位超级英雄。第一个超级英雄是指数级增长，展示了太阳能光伏、风能和电池技术的快速进步。第二个超级英雄是系统解决方案，强调采用综合方法解决可再生能源变化的重要性。第三个超级英雄是大国竞争，突出了钢铁、航运和水泥等难以减排行业的脱碳进展。利布里奇的乐观态度源于清洁能源技术的显着增长和投资，为更加可持续的未来铺平了道路。 （根据故事文本的 52% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/79831</guid>
+      <pubDate>Sun, 17 Mar 2024 11:14:00 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 针对 STM8 的 C 编译器的比较提供了对 [...]</title>
-      <link>https://t.me/hn_summary/79812</link>
-      <description><![CDATA[针对STM8的C编译器比较
-针对 STM8 的 C 编译器的比较深入分析了每个编译器的优缺点。 SDCC 因其出色的标准合规性、代码速度、操作系统支持和免费 GPL 许可证而脱颖而出。 Raisonance 擅长生成最小的代码，而 IAR 则提供良好的标准合规性和代码速度。 Cosmic 在代码速度和大小之间取得了平衡。令人惊讶的是，尽管生成的浮点代码最慢，SDCC 在大多数方面都优于竞争对手。总体而言，每种编译器都有其独特的优势，因此在选择适合 STM8 开发的编译器时必须考虑具体需求。]]></description>
-      <guid>https://t.me/hn_summary/79812</guid>
-      <pubDate>Sun, 17 Mar 2024 05:03:19 GMT</pubDate>
+      <title>[媒体]摘要：Twitter 帐户“海绵宝宝的引力崩溃”探讨了幽默 [...]</title>
+      <link>https://t.me/hn_summary/79830</link>
+      <description><![CDATA[海绵宝宝重力塌陷
+摘要：推特账户“海绵宝宝的重力崩溃”探讨了如果海绵宝宝经历重力崩溃会发生什么的幽默和荒谬的概念。通过巧妙而独特的推文，该帐户想象了心爱的卡通人物被吸进黑洞或在自身重量下崩溃的情景。虽然有些人可能会因为主题的黑暗性质而觉得内容有争议，但海绵宝宝的粉丝会欣赏角色冒险中的创意和娱乐性转折。跟随我们一起探索大家最喜爱的海绵的异想天开和超凡脱俗。]]></description>
+      <guid>https://t.me/hn_summary/79830</guid>
+      <pubDate>Sun, 17 Mar 2024 10:58:52 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在本文中，Jakob Huber 探讨了 SIMD（单指令、多 Da [...]</title>
-      <link>https://t.me/hn_summary/79811</link>
-      <description><![CDATA[使用 SIMD 进行哈希处理：线性哈希和双重哈希 (2018)
-在本文中，Jakob Huber 探讨了 SIMD（单指令、多数据）在线性哈希和双哈希等哈希技术中的使用。 SIMD 允许在一条指令中高效处理多个值，使其成为哈希函数的理想选择。本文深入探讨了实现细节，包括 Xeon Phi 和 Haswell 处理器上的冲突和选择性加载的高级指令。一个独特的方面是使用分散和聚集操作进行碰撞检测。本文还讨论了在单独的哈希表中存储重复值的好处。总的来说，本文提供了利用 SIMD 技术优化哈希技术的宝贵见解。 （根据 95% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/79811</guid>
-      <pubDate>Sun, 17 Mar 2024 05:02:16 GMT</pubDate>
+      <title>LLM4Decompile 是一个开源项目，专注于使用 Large Language 反编译二进制代码 [...]</title>
+      <link>https://t.me/hn_summary/79829</link>
+      <description><![CDATA[LLM4Decompile：用LLM反编译二进制代码
+LLM4Decompile 是一个开源项目，专注于使用大型语言模型 (LLM) 反编译二进制代码。该项目旨在通过创建一个评估反编译代码的可重新编译性和可重新执行性的基准来评估反编译过程。通过在汇编源对数据集上训练 DeepSeek-Coder 模型，该项目通过强调反编译过程中语法完整性（可重新编译性）和语义正确性（可重新执行性）的重要性而脱颖而出。该项目提供了各种具有不同参数大小的LLM模型，并提供了如何使用模型进行反编译的指导。此外，该项目还包括一个评估工具 Decompile-Eval，用于评估反编译代码的质量。]]></description>
+      <guid>https://t.me/hn_summary/79829</guid>
+      <pubDate>Sun, 17 Mar 2024 10:43:46 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 网站：blinry.org</title>
-      <link>https://t.me/hn_summary/79810</link>
-      <description><![CDATA[使用软件定义无线电可以做的五十件事 
-标题：使用软件定义无线电可以做的五十件事
-网站：blinry.org
-
-与我一起通过软件定义无线电 (SDR) 进行电磁频谱冒险！探索我们周围的无形世界，从广播和电视传输到 Wi-Fi 和电话通信。只需一个 USB 适配器和天线套件，您就可以探索这个领域的 50 个令人兴奋的事物。采用“Make 50 of Something”技术来激发您的创造力并离开您的舒适区。从收听调频广播和跟踪飞机到解码数字广播和读取邻居的传感器，可能性是无限的。开始并解锁电磁频谱的奇迹！ （根据故事文本的 28% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/79810</guid>
-      <pubDate>Sun, 17 Mar 2024 04:51:33 GMT</pubDate>
+      <title>问 HN：如何开始使用本地语言模型？</title>
+      <link>https://t.me/hn_summary/79828</link>
+      <description><![CDATA[询问 HN：如何开始使用本地语言模型？
+news.ycombinator.com 上这篇文章的作者是努力了解如何开始使用本地语言模型。他们涉足了各种工具和安装，例如 Talk to a Transformer 和 Umbrel LlamaGPT，但在可用信息的海洋中感到迷失，尤其是自从 llama 模型发布以来。他们提到了 HuggingFace 的混乱以及由于文件大小限制而在 Windows 上运行 Mozilla Llamafiles 的困难。作者正在寻求有关如何掌握这些技术并跟上该领域快节奏进步的建议。]]></description>
+      <guid>https://t.me/hn_summary/79828</guid>
+      <pubDate>Sun, 17 Mar 2024 10:40:41 GMT</pubDate>
     </item>
     <item>
-      <title>在日本，随着气候变化和海水减少，海女潜水的古老传统正面临挑战。</title>
-      <link>https://t.me/hn_summary/79809</link>
-      <description><![CDATA[日本AMA潜水员的困境
-在日本，随着气候变化和贝类数量减少威胁到这些自由潜水渔民的生计，古老的海女潜水传统正面临挑战。像中田绫美这样的海女潜水员体现了数百年来以最小的生态影响收获贝类和海藻的做法。尽管面临困难并且年轻一代的兴趣下降，这些女性仍然继续潜水，依靠传统方法和祈祷获得保护。由于制定了严格的法规来确保可持续发展，海员潜水仍然是一项热爱的工作，而不是一项有利可图的职业。随着活跃潜水员数量的减少，这一独特文化遗产的未来悬而未决。 （根据 86% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/79809</guid>
-      <pubDate>Sun, 17 Mar 2024 04:43:27 GMT</pubDate>
+      <title>[媒体] 拒绝邀请就是为了控制您的时间并优先考虑真正的事情 [...]</title>
+      <link>https://t.me/hn_summary/79827</link>
+      <description><![CDATA[拒绝邀请
+拒绝邀请就是为了控制您的时间并优先考虑对您真正重要的事情。跳过那些不会给你的生活增加价值的活动和会议的有争议的建议可能会引起一些人的注意，但当你参加时留下难忘的时刻的想法是一个独特的转折。礼貌地拒绝邀请并提供传统社交聚会替代方案的建议巧妙且令人耳目一新。最终，信息很明确：明智地、毫无歉意地度过你的时间，专注于给你带来快乐和成就感的事情。]]></description>
+      <guid>https://t.me/hn_summary/79827</guid>
+      <pubDate>Sun, 17 Mar 2024 10:18:32 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 通过 Low-tech 杂志关于构建 s 的指南来发现过去技术的力量 [...]</title>
-      <link>https://t.me/hn_summary/79808</link>
-      <description><![CDATA[低科技杂志强调过去技术的潜力 
-通过 Low-tech 杂志关于构建小型太阳能系统的指南来发现过去技术的力量。这本综合指南涵盖了创建可为各种设备供电的独立光伏系统的所有要点。了解如何利用太阳能并减少对传统能源的依赖。在高科技世界中拥抱低技术解决方案的简单性和效率。今天就开始您的可持续能源独立之旅。]]></description>
-      <guid>https://t.me/hn_summary/79808</guid>
-      <pubDate>Sun, 17 Mar 2024 04:40:53 GMT</pubDate>
+      <title>【媒体】特斯拉正面临动荡时期，股价暴跌，未来充满不确定性。</title>
+      <link>https://t.me/hn_summary/79826</link>
+      <description><![CDATA[特斯拉现在正在被彻底摧毁
+特斯拉正面临着一个动荡的时期，其股价暴跌，未来充满不确定性。分析师预测，随着竞争对手（尤其是来自中国的竞争对手）占据电动汽车市场更大份额，今年将出现平稳增长，2025 年将出现下滑。特斯拉的转售价值正在下降，其汽车是市场上贬值最严重的汽车之一。埃隆·马斯克的行为，包括传播虚假信息和种族主义比喻，引起了股东的担忧。该公司在“全自动驾驶”方面的努力遭遇挫折，而竞争对手却在前进。尽管承认面临挑战，特斯拉的领导层仍然乐观，但投资者是否会坚持下去还不确定。]]></description>
+      <guid>https://t.me/hn_summary/79826</guid>
+      <pubDate>Sun, 17 Mar 2024 09:34:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
