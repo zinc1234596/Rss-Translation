@@ -4,7 +4,14 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Sun, 17 Mar 2024 03:12:27 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 17 Mar 2024 06:13:59 GMT</lastBuildDate>
+    <item>
+      <title>如何将 gopro 素材转换为适合手机全屏显示？</title>
+      <link>https://www.reddit.com/r/editors/comments/1bgozf7/how_can_i_convert_gopro_footage_to_fit_a_phones/</link>
+      <description><![CDATA[您好，如果这是一件微不足道的事情，我们深表歉意。 我有一个 gopro，当我将其更改为 9:16 AR 时，它不占据全屏。显然，如果我希望它占据全屏，侧面将被剪切，但我不知道该怎么做。我可以使用什么软件以及该工具的名称是什么？ 非常感谢   由   提交/u/fatpastaa8989   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1bgozf7/how_can_i_convert_gopro_footage_to_fit_a_phones/</guid>
+      <pubDate>Sun, 17 Mar 2024 04:22:24 GMT</pubDate>
+    </item>
     <item>
       <title>Avid 代理不会重新链接</title>
       <link>https://www.reddit.com/r/editors/comments/1bgi9c8/avid_proxies_wont_relink/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[大家好， 我一开始从事叙事和文档项目的混合工作，但多年来，最终转变为更专注于文档。最近，我什至对这些项目进行了大量的编辑和额外的编辑，这很棒，但我一直担心与脚本世界相距太远。 我联系了一些人，并且能够接受 AE 即将推出的剧本短片的采访，其中还附有一位相当大的独立导演和剪辑师。在同意发言时间后，我突然意识到，我实际上已经有 4 年时间没有​​从头开始构建 Avid 项目了，更不用说叙事项目了。 我对自己的技术能力很有信心，但我更关心的是对项目构建和整体脚本化工作流程有点生疏（当前摄取、同步、组织、日志记录、视觉特效等的最佳实践是什么） 任何人都可以提供我可以提供的任何建议吗跟我一起通话吗？在我们发言之前，有哪些问题需要问或者我应该记住什么？ 感谢社区可以提供的所有见解！   由   提交 /u/NapoleonsPocket   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1bfqg33/advice_for_a_doc_ae_interviewing_for_narrative/</guid>
       <pubDate>Fri, 15 Mar 2024 22:29:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>试图让 AAF 做 OMF 所做的事情？</title>
-      <link>https://www.reddit.com/r/editors/comments/1bfo441/trying_to_get_an_aaf_to_do_what_an_omf_has_done/</link>
-      <description><![CDATA[大家好， 在确定正确的音频导出时遇到一些问题。我正在使用 Davinci 进行编辑，但我主要使用 Premiere Pro。编辑项目时，我通过 Premiere 导出 OMF 并将其发送到音频混音器以调平音频并清理它以进行最终混音/母带。 我正在尝试使用此编辑器发送他的音频用于音频混合的项目，但 Resolve 没有发送 OMF 的选项。我们在使用 AAF 预设的 Protools 时遇到了一些问题。该音频将在 AAF 中混合，但它似乎没有提供与 OMF 相同的选项。 · 在整个过程的不同片段中，音频经常与 H.264 参考视频失去同步。视频。 · 没有像 OMF 那样可以拖动波形音频并延长时间或时间线中的音乐剪辑的选项 · 音频似乎合并在一个轨道上，而不是每个轨道都是自己的 如果有人能够深入了解 Protools 使用哪些导出设置，从而能够调整音乐或扩展剪辑，而无需发送原始音频文件，我们将不胜感激。我们本质上是在尝试平衡 HOST 1 音频、HOST 2 音频、Foley 音频和音乐音频，所有这些都作为各自独立的轨道，并且能够在任一方向上推/拉任一部分几秒钟的覆盖范围，以填补盲点。 非常感谢任何帮助或见解。   由   提交 /u/reelwestcoast   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1bfo441/trying_to_get_an_aaf_to_do_what_an_omf_has_done/</guid>
-      <pubDate>Fri, 15 Mar 2024 20:48:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
