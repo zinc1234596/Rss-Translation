@@ -4,7 +4,14 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Tue, 19 Mar 2024 09:11:09 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 Mar 2024 12:19:20 GMT</lastBuildDate>
+    <item>
+      <title>戴尔 S2722QC 显示器校准</title>
+      <link>https://www.reddit.com/r/editors/comments/1bii8wy/dell_s2722qc_monitor_calibration/</link>
+      <description><![CDATA[大家好， 我不确定这是否是正确的 Reddit 子版块，但让我们尝试一下。 我最近买了一个戴尔 S2722QC 适用于我的 MacBook Pro 13 英寸 M1 2020 和我的 PC（第一个通过 USB-C，第二个通过 HDMI）。我有一个 datacolor SpyderX Pro 校准工具，我尝试用它校准两台显示器（MacBook 和 Dell）。我首先使用附带的 SpyderX 软件开始，然后使用 DisplayCal 进行校准。目的是在 macOS 和我的 PC 上对两台显示器进行颜色匹配。问题是，仅当我使用我的 PC 或 Mac 时，即使对于戴尔显示器，颜色也不匹配，即使屏幕上的设置是相同的，并且在 DisplayCal 或 SpyderX 上使用相同的设置创建的配置文件。可以肯定的是，该显示器的 DisplayCal 上的正确设置是什么，以便我确信我在两台显示器上获得一致的结果计算机和操作系统？是否有可能使输出与校准完全匹配？这不是校准的全部意义吗？谢谢！   由   提交/u/ar1814  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1bii8wy/dell_s2722qc_monitor_calibration/</guid>
+      <pubDate>Tue, 19 Mar 2024 11:44:16 GMT</pubDate>
+    </item>
     <item>
       <title>将静态照片纳入纪录片编辑 - 寻找示例</title>
       <link>https://www.reddit.com/r/editors/comments/1bibuo9/incorporating_still_photos_in_documentary_editing/</link>
@@ -27,13 +34,6 @@
       <pubDate>Mon, 18 Mar 2024 20:16:18 GMT</pubDate>
     </item>
     <item>
-      <title>客户未按约定分配工作</title>
-      <link>https://www.reddit.com/r/editors/comments/1bhxmg0/client_not_assigning_work_agreed_upon/</link>
-      <description><![CDATA[我 2 个月前与一位客户达成了一笔交易。客户正在寻找一名编辑每周制作视频，未来每周制作 2 个视频。 我们签署了一份合同，其中规定了以下工作流程，但到目前为止我只制作了 2 个视频。  我该如何与客户解决这种情况？   由   提交/u/aregulargirl089  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1bhxmg0/client_not_assigning_work_agreed_upon/</guid>
-      <pubDate>Mon, 18 Mar 2024 18:15:28 GMT</pubDate>
-    </item>
-    <item>
       <title>可以在视频中创建超链接吗？</title>
       <link>https://www.reddit.com/r/editors/comments/1bhwsxh/possible_to_create_a_hyperlink_within_a_video/</link>
       <description><![CDATA[嗨！ 刚刚收到商业客户的请求，要求在视频中添加超链接。本质上，他们的想法是在最后一帧上，他们想要一个可点击的 URL。这还有可能吗？我一直在进行研究，我所能找到的就是在视频描述框中添加超链接。 任何反馈/见解都是有帮助的，非常感谢！ 系统规格：不适用 软件规格：Premiere Pro 2024 素材规格：不适用 编辑：拼写错误（写为“为客户”，本意为写“来自客户”）   由   提交 /u/discoslowmo   [链接] [评论]]]></description>
@@ -48,7 +48,7 @@
       <pubDate>Mon, 18 Mar 2024 15:21:34 GMT</pubDate>
     </item>
     <item>
-      <title>联系过去的制作人以获取工作机会</title>
+      <title>向过去的制作人寻求工作机会</title>
       <link>https://www.reddit.com/r/editors/comments/1bhshu4/reaching_out_to_past_producers_for_work/</link>
       <description><![CDATA[我希望在职业生涯早期就学到的一件事是，特别是作为一名自由编辑，你的网络是你工作的动力。  近年来，我在建立网络方面做得更好了，并且能够始终保持（大部分）稳定的工作，但现在，像很多人一样，速度有点慢了。&lt; /p&gt; 所以我想给我过去工作过的一些制作人发电子邮件，但每次我开始写电子邮件时，我都会感到尴尬，感觉就像我在乞求工作，而我很好奇其他人如何表达这些类型的事情而不听起来绝望？ 你写信只是说嘿进展如何，还是特别询问他们是否有任何即将开始的项目可以让你参与？&lt; /p&gt;   由   提交/u/Jaw327  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1bhshu4/reaching_out_to_past_producers_for_work/</guid>
@@ -64,7 +64,7 @@
     <item>
       <title>[PREMIERE PRO ISSUE] 时间轴中的颜色标签未出现在垃圾箱中</title>
       <link>https://www.reddit.com/r/editors/comments/1bhq4gs/premiere_pro_issue_colour_labels_in_timeline_not/</link>
-      <description><![CDATA[[PREMIERE PRO ISSUE]  我有一个工作流程，首先浏览我的项目箱，添加我想要的剪辑，然后在我的时间轴中标记它们。这次我决定激活“显示源剪辑名称和标签”因此它也会在原始文件夹中为剪辑添加标签。 但是，我没有意识到，当我将所选剪辑的新时间线拖到垃圾箱中以便按标签排列它们时，它不会保留我分配的标签 - 有什么办法可以做到这一点吗？我真的不想仔细检查并重新标记它们 lmao   由   提交 /u/LemonAccomplished771   [链接] [评论]]]></description>
+      <description><![CDATA[[PREMIERE PRO ISSUE]  我有一个工作流程，首先浏览我的项目箱，添加我想要的剪辑，然后在我的时间轴中标记它们。这次我决定激活“显示源剪辑名称和标签”因此它也会在原始文件夹中为剪辑添加标签。 但是，我没有意识到，当我将所选剪辑的新时间线拖到垃圾箱中以按标签排列它们时，它不会保留我分配的标签 - 有什么办法可以做到这一点吗？我真的不想仔细检查并重新标记它们 lmao   由   提交 /u/LemonAccomplished771   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1bhq4gs/premiere_pro_issue_colour_labels_in_timeline_not/</guid>
       <pubDate>Mon, 18 Mar 2024 12:59:44 GMT</pubDate>
     </item>
