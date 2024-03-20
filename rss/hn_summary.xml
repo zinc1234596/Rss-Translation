@@ -4,7 +4,79 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Wed, 20 Mar 2024 05:20:58 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 Mar 2024 08:56:21 GMT</lastBuildDate>
+    <item>
+      <title>庆祝 Curl 成立 26 周年，作者回顾了过去一年的改进和翻新 [...]</title>
+      <link>https://t.me/hn_summary/80355</link>
+      <description><![CDATA[Curl 今天 26 岁了
+庆祝curl成立26周年，作者回顾了过去一年为保持互联网传输基础的牢固而进行的改进和翻新。他们幽默地拿安装数量开玩笑，开玩笑地暗示安装数量为 80 亿，但也承认存在不确定性。作者重点介绍了 Curl 正在进行的工作以及对其持续成功的奉献精神，为又一年的进步举杯。]]></description>
+      <guid>https://t.me/hn_summary/80355</guid>
+      <pubDate>Wed, 20 Mar 2024 08:56:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 jmduke.com 上的这篇文章中，作者讨论了捕获隐性知识的挑战 [...]</title>
+      <link>https://t.me/hn_summary/80354</link>
+      <description><![CDATA[使用奇怪的测试来捕获隐性知识
+在 jmduke.com 上的这篇文章中，作者讨论了在像 Buttondown 这样的复杂代码库中捕获隐性知识。他们强调了传统文档的局限性，并建议使用测试来捕获重要的步骤和约束。作者提供了如何将此方法应用于添加新 Django 模块和记录枚举值等任务的示例。他们强调测试驱动的不变量的自记录性质，并鼓励读者考虑测试是否可以在代码审查中发现问题。这种在代码中记录和执行规范的独特方法既实用又富有洞察力。]]></description>
+      <guid>https://t.me/hn_summary/80354</guid>
+      <pubDate>Wed, 20 Mar 2024 08:42:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 sethmlarson.dev 上的这篇文章中，我讨论了正则表达式字符“[...]</title>
+      <link>https://t.me/hn_summary/80353</link>
+      <description><![CDATA[正则表达式字符“$”并不意味着“end-of-”字符串”
+在这篇关于 sethmlarson.dev 的文章中，我讨论了Python 正则表达式模块中的正则表达式字符“$”。虽然“^”通常表示“字符串开头”，但“$”并不总是如预期的那样表示“字符串结尾”。在 Python 中，禁用多行模式后，“$”可以匹配字符串末尾或字符串末尾之前的尾随换行符。要在 Python 中匹配没有换行符的字符串末尾，可以使用“\z”或“\Z”而不是“$”。本文对不同平台如何处理此行为进行了比较，并提供了有效使用正则表达式的见解。]]></description>
+      <guid>https://t.me/hn_summary/80353</guid>
+      <pubDate>Wed, 20 Mar 2024 08:32:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]构建系统在开发领域经常被忽视，但它们是必不可少的[...]</title>
+      <link>https://t.me/hn_summary/80352</link>
+      <description><![CDATA[点菜构建系统：理论与实践（2020）
+构建系统在开发领域经常被忽视，但它们是每个开发人员使用的基本工具。在本文中，我们提出了一个用于开发和比较构建系统的独特框架，使我们能够通过组合现有组件来创建新系统。此修订版包含更多细节和关于实际应用的新部分。提供的可执行代码允许读者探索和实现这些概念。深入构建系统的世界，发现软件开发这一关键方面的新视角。]]></description>
+      <guid>https://t.me/hn_summary/80352</guid>
+      <pubDate>Wed, 20 Mar 2024 08:28:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]世界气象组织在一份令人震惊的报告中透露，所有主要行业 [...]</title>
+      <link>https://t.me/hn_summary/80351</link>
+      <description><![CDATA[WMO警告称，随着主要指标突破图表，气候变化加速
+世界气象组织在一份令人震惊的报告中透露，气候变化的所有主要指标都达到了前所未有的水平，其中一些指标上升得如此之快，以至于“破纪录”。气候变化加剧的自然灾害给数百万人的生命造成了严重破坏，导致全球数十亿美元的经济损失。 WMO 2023 年全球气候状况报告描绘了气候变化步伐加快的严峻景象，强调迫切需要采取行动减轻其破坏性影响。]]></description>
+      <guid>https://t.me/hn_summary/80351</guid>
+      <pubDate>Wed, 20 Mar 2024 07:28:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]微软宣布将阻止俄罗斯公司使用其云服务 [...]</title>
+      <link>https://t.me/hn_summary/80350</link>
+      <description><![CDATA[微软现在阻止俄罗斯公司使用其云服务
+微软宣布，作为对该国制裁的一部分，它将阻止俄罗斯公司使用其云服务。预计亚马逊和谷歌也将效仿这一举措。俄罗斯公司被敦促转向当地服务提供商。这一决定并不令人意外，因为俄罗斯自入侵乌克兰以来一直面临经济制裁。继俄罗斯被从 SWIFT 金融交易处理系统中删除以及 Visa 和 MasterCard 退出后，这一最新发展被视为对俄罗斯市场的重大破坏。]]></description>
+      <guid>https://t.me/hn_summary/80350</guid>
+      <pubDate>Wed, 20 Mar 2024 07:06:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]加入 Ashby，Y Combinator 2019 年冬季初创公司，因为我们目前正在招聘工程师 [...]</title>
+      <link>https://t.me/hn_summary/80349</link>
+      <description><![CDATA[Ashby (YC W19) 正在欧洲、中东和非洲地区招聘工程经理
+加入 Y Combinator 2019 年冬季初创公司 Ashby，因为我们目前正在 EMEA 地区招聘工程经理。我们的团队致力于突破界限并提供一流的工作。如果您是一位对技术和创新充满热情的才华横溢的领导者，这可能是您的绝佳机会。立即申请并成为令人兴奋和开创性的事物的一部分。加入我们 Ashby，成为塑造技术未来的团队的一员。立即前往 www.ashbyhq.com 申请。]]></description>
+      <guid>https://t.me/hn_summary/80349</guid>
+      <pubDate>Wed, 20 Mar 2024 07:02:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>联想宣布推出最新的商务笔记本电脑 ThinkPad L 系列和 Thin [...]</title>
+      <link>https://t.me/hn_summary/80348</link>
+      <description><![CDATA[联想宣布推出 ThinkPad，以实现“更好的可持续性和更长的可修复性”
+联想宣布推出最新商务笔记本电脑ThinkPad L系列和ThinkPad X13系列，展现创新和可持续发展。这些新型号具有增强的可修复性、更多的回收材料、高效的电源管理以及具有内置安全性的强大处理能力。这些笔记本电脑提供各种外形尺寸，包括 13 英寸或 13 英寸二合一、14 英寸，并在 ThinkPad L16 中引入了新的 16 英寸显示屏。这些笔记本电脑配备可选的更高分辨率摄像头、改进的散热性能以及对 Wi-Fi 7 和 4G LTE 或 5G 的支持，有望增强用户体验。此外，联想致力于可持续发展和可访问性，具有改进的可修复性、显示亮度的新技术以及包容性的触觉标记等功能。这些笔记本电脑中包含英特尔酷睿 Ultra 处理器和 AMD 锐龙 PRO 7030 系列处理器，可提供增强的人工智能功能，从而提高性能和效率。联想致力于可持续发展、可修复性和尖端技术，使其在行业中脱颖而出。 （根据 59% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/80348</guid>
+      <pubDate>Wed, 20 Mar 2024 06:58:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]专利流氓是我们经济的主要威胁，造成数十亿美元的损失和潜在的损失 [...]</title>
+      <link>https://t.me/hn_summary/80347</link>
+      <description><![CDATA[EFF：告诉国会：我们不能再承受更多不良专利&lt; /a&gt;
+专利流氓是对我们经济的主要威胁，造成数十亿美元的损失，并可能因其侵权要求而毁掉小公司。 2014 年，最高法院的一项裁决开创了打击专利流氓的先例，但现在 PERA 和 PREVAIL 两项法案威胁要撤销这些保护。参议员汤姆·蒂利斯和克里斯·库恩斯正在推动这些法案，但我们需要您的帮助来阻止它们。和我们一起告诉国会，我们不能再承受更多的不良专利。]]></description>
+      <guid>https://t.me/hn_summary/80347</guid>
+      <pubDate>Wed, 20 Mar 2024 06:54:25 GMT</pubDate>
+    </item>
     <item>
       <title>[媒体] Open Salamander 是一款适用于 Windows 的两面板文件管理器，最初是 [...]</title>
       <link>https://t.me/hn_summary/80346</link>
@@ -12,80 +84,6 @@
 Open Salamander 是一款适用于 Windows 的两面板文件管理器，最初由 Petr Šolín 于 1997 年开发，名为 Servant Salamander。该项目后来更名为 Altap Salamander，并最终于 2023 年作为 Open Salamander 5.0 开源。该项目的独特之处在于它是一个纯WinAPI应用程序，不使用任何MFC等框架。它欢迎贡献并提供各种功能和插件，尽管某些插件可能需要更新或替换。 Open Salamander 根据 GPLv2 及更高版本获得许可。]]></description>
       <guid>https://t.me/hn_summary/80346</guid>
       <pubDate>Wed, 20 Mar 2024 05:20:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>问 HN：你是如何摆脱困境的？</title>
-      <link>https://t.me/hn_summary/80345</link>
-      <description><![CDATA[问 HN：你是如何摆脱困境的？&lt; /a&gt;
-标题：问 HN：你是如何摆脱困境的？
-
-您是否因抑郁、失业、缺乏信心或恐惧而陷入困境？我们中的许多人都体验到了巨大的潜力，但感觉我们已经浪费了它。如果您已成功克服这些挑战并且现在过着令您自豪的生活，我们希望收到您的来信。分享您如何扭转局面的故事和建议，并激励其他可能陷入困境的人。加入 news.ycombinator.com 上的讨论。]]></description>
-      <guid>https://t.me/hn_summary/80345</guid>
-      <pubDate>Wed, 20 Mar 2024 05:11:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]“不要问，只问”网站解决了人们进入[...]的常见问题</title>
-      <link>https://t.me/hn_summary/80344</link>
-      <description><![CDATA[不要问问，只问&lt; br/&gt;
-“不要问，只问”网站解决了人们进入在线聊天室并询问周围是否有专家但没有实际说明他们的问题的常见问题。这被认为是懒惰的行为，并且会阻止知识渊博的人提供帮助。解决方案是直接提出您的问题，提供相关信息。通过这样做，您更有可能收到有用的回复。这种方法鼓励在线社区内的责任感、信心和包容性。该网站还引用了其他常见的沟通陷阱，并提供了有效提问的资源。]]></description>
-      <guid>https://t.me/hn_summary/80344</guid>
-      <pubDate>Wed, 20 Mar 2024 05:07:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>这项研究挑战了传统观念，即火和烹饪是人类的关键因素 [...]</title>
-      <link>https://t.me/hn_summary/80343</link>
-      <description><![CDATA[研究认为发酵食品而不是火是人脑的关键时刻成长
-这项研究挑战了传统观念，即火和烹饪是人类大脑生长的关键因素，并提出发酵食品发挥着关键作用。外部发酵假说认为，我们的祖先无意中食用了发酵食品，从而更容易吸收和消化营养，为大脑发育释放能量。这一意外发现可能对人类进化产生重大影响，并可能影响肠道健康和心理健康的现代研究。该研究强调了发酵食品在维持健康的肠道微生物组和整体健康方面的重要性。]]></description>
-      <guid>https://t.me/hn_summary/80343</guid>
-      <pubDate>Wed, 20 Mar 2024 05:02:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>作者讨论了 Rust 编译时间慢的常见痛点，并探索了 [...]</title>
-      <link>https://t.me/hn_summary/80342</link>
-      <description><![CDATA[我将 Rust 编译时间提高了 75%&lt; br/&gt;
-作者讨论了 Rust 编译时间慢的常见痛点，并探索了改进方法，重点关注了前端 Rust Web 框架 Leptos。它们涵盖了诸如调整 opt-level、使用名为 Mold 的新链接器以及名为 Cranelift 的替代代码生成器等优化。作者提供了有关如何实现这些优化的详细说明，并分享了比较他们自己的站点和更复杂的站点的干净和增量编译时间的基准测试结果。本文提供了改进 Rust 编译时间的实用见解和解决方案，使其成为寻求优化工作流程的开发人员的宝贵资源。 （根据 52% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/80342</guid>
-      <pubDate>Wed, 20 Mar 2024 04:58:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 在此 Web 内容中，我们探索使用 C 程序创建 Tree-sitter 语法。</title>
-      <link>https://t.me/hn_summary/80341</link>
-      <description><![CDATA[让我们创建一个 Tree-sitter 语法
-在此 Web 内容中，我们探索使用 C 程序创建 Tree-sitter 语法。语法是用 JavaScript 描述的，但用于生成 C 中的解析器。通过在自定义 C 代码中实现外部扫描器，我们可以覆盖解析器优先级并跟踪上下文状态。内容深入探讨了在遇到特定标记时尽早结束段落、在 C 中实现外部扫描器以及在解析器中管理块结构。作者强调了数据结构在编程中的重要性，并提供了实现功能性 Tree-sitter 语法的详细见解。 （根据故事文本的 34% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/80341</guid>
-      <pubDate>Wed, 20 Mar 2024 04:54:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 这个 GitHub 项目提供了一个程序，可以计算至少 n o [...]</title>
-      <link>https://t.me/hn_summary/80340</link>
-      <description><![CDATA[显示 HN：至少 n
-这个 GitHub 项目提供了一个程序，用于计算 N 个给定概率中至少有 n 个解析为 true 的概率。该解决方案基于数学公式，该程序简化了计算过程。作者一步步解释了解决方案，展示了如何递归计算概率。该项目因其对数学概念的清晰解释和实现而脱颖而出，使其成为解决涉及多个事件的概率问题的有用工具。]]></description>
-      <guid>https://t.me/hn_summary/80340</guid>
-      <pubDate>Wed, 20 Mar 2024 04:47:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] Meta，以前称为 Facebook，正在展示其与 fediverse 的集成 [...]</title>
-      <link>https://t.me/hn_summary/80339</link>
-      <description><![CDATA[Meta 展示 Threads Fediverse 集成
-Meta（以前称为 Facebook）正在通过其 Threads 应用程序展示其与联邦宇宙的集成。这种集成将允许用户在不同平台上分享他们的帖子，同时覆盖多个受众。然而，围绕集成存在一些争议，例如无法保证其他链接平台上的帖子删除以及当前 alpha 测试中的功能有限。尽管存在怀疑，Meta 仍保证他们有良好的意图，并希望成为 Fediverse 社区的积极成员。 FediForum 会议为开发者提供了在 Fediverse 中展示其工作的机会，促进透明度和协作。]]></description>
-      <guid>https://t.me/hn_summary/80339</guid>
-      <pubDate>Wed, 20 Mar 2024 04:43:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]IMDEA材料研究所的研究人员在[...]</title>
-      <link>https://t.me/hn_summary/80338</link>
-      <description><![CDATA[研究人员展示了碳纳米管片的突破性可回收性
-IMDEA 材料研究所的研究人员在碳纳米管 (CNT) 片材的可回收性方面取得了突破性突破，同时保持了其基本特性。这项研究发表在《Carbon》杂志上，标志着朝着可持续纳米结构材料和碳纳米管纤维彻底改变绿色能源的潜力迈出了重要一步。 Anastasiia Mikhalchan 博士强调了这项工作的重要性，强调回收的碳纳米管材料可以保留其机械和电气性能，为二氧化碳密集型材料提供可持续的替代品。该研究采用 FCCVD 合成工艺的创新方法为高性能碳纳米管材料在各行业的广泛采用奠定了基础。]]></description>
-      <guid>https://t.me/hn_summary/80338</guid>
-      <pubDate>Wed, 20 Mar 2024 04:39:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]在最近的一项研究中，研究人员发现，一些长期经历过的脑雾[...]</title>
-      <link>https://t.me/hn_summary/80337</link>
-      <description><![CDATA[长时间的新冠脑雾可能是由于大脑血管受损造成的
-在最近的一项研究中，研究人员发现，一些长期新冠患者经历的脑雾可能是由于大脑血管受损造成的。这一发现揭示了该病毒的神经症状，并可能为那些遭受长期影响的人带来新的治疗选择。该研究强调了了解 Covid-19 对身体的全面影响的重要性，而不仅仅是最初的感染。这项研究在探索病毒对大脑的长期影响方面具有开创性，为那些与挥之不去的症状作斗争的人带来了希望。]]></description>
-      <guid>https://t.me/hn_summary/80337</guid>
-      <pubDate>Wed, 20 Mar 2024 04:35:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
