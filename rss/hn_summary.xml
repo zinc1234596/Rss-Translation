@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Wed, 20 Mar 2024 08:56:21 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 Mar 2024 18:07:30 GMT</lastBuildDate>
     <item>
-      <title>庆祝 Curl 成立 26 周年，作者回顾了过去一年的改进和翻新 [...]</title>
-      <link>https://t.me/hn_summary/80355</link>
-      <description><![CDATA[Curl 今天 26 岁了
-庆祝curl成立26周年，作者回顾了过去一年为保持互联网传输基础的牢固而进行的改进和翻新。他们幽默地拿安装数量开玩笑，开玩笑地暗示安装数量为 80 亿，但也承认存在不确定性。作者重点介绍了 Curl 正在进行的工作以及对其持续成功的奉献精神，为又一年的进步举杯。]]></description>
-      <guid>https://t.me/hn_summary/80355</guid>
-      <pubDate>Wed, 20 Mar 2024 08:56:21 GMT</pubDate>
+      <title>[媒体]通用汽车的数据共享丑闻让一些车主陷入困境，因为他们不知道[...]</title>
+      <link>https://t.me/hn_summary/80448</link>
+      <description><![CDATA[通用汽车的数据共享丑闻表明需要更好的联网汽车同意
+通用汽车的数据共享丑闻让一些车主陷入困境，因为他们在不知情的情况下同意与第三方共享驾驶数据，从而影响了他们获得汽车保险的能力。该问题源于通用汽车的 OnStar 联网汽车服务 Smart Driver，该服务可以监控驾驶习惯并与保险公司共享数据。数据共享实践缺乏明确的同意和透明度引发了人们对隐私和知情同意的担忧。随着欧洲 GDPR 等法规以及加利福尼亚州和马萨诸塞州的新数据隐私法，对更好的联网汽车同意实践的需求变得越来越明显。]]></description>
+      <guid>https://t.me/hn_summary/80448</guid>
+      <pubDate>Wed, 20 Mar 2024 18:07:30 GMT</pubDate>
     </item>
     <item>
-      <title>在 jmduke.com 上的这篇文章中，作者讨论了捕获隐性知识的挑战 [...]</title>
-      <link>https://t.me/hn_summary/80354</link>
-      <description><![CDATA[使用奇怪的测试来捕获隐性知识
-在 jmduke.com 上的这篇文章中，作者讨论了在像 Buttondown 这样的复杂代码库中捕获隐性知识。他们强调了传统文档的局限性，并建议使用测试来捕获重要的步骤和约束。作者提供了如何将此方法应用于添加新 Django 模块和记录枚举值等任务的示例。他们强调测试驱动的不变量的自记录性质，并鼓励读者考虑测试是否可以在代码审查中发现问题。这种在代码中记录和执行规范的独特方法既实用又富有洞察力。]]></description>
-      <guid>https://t.me/hn_summary/80354</guid>
-      <pubDate>Wed, 20 Mar 2024 08:42:15 GMT</pubDate>
+      <title>该文章讨论了加州有组织零售犯罪的兴起，批评者认为 [...]</title>
+      <link>https://t.me/hn_summary/80447</link>
+      <description><![CDATA[犯罪团伙偷窃从钱包到电动工具的所有物品 
+文章讨论了加州有组织零售犯罪的兴起，批评者认为最近的刑事司法改革无意中助长了犯罪网络。加州公路巡逻队的任务是解决这个问题，州长加文·纽瑟姆为执法工作拨款数百万美元。这篇文章重点介绍了一个案件，侦探们从一家化妆品店和清算仓库中追回了价值数百万美元的被盗物品。批评者质疑有组织零售犯罪统计数据的准确性，一些人指责全国零售联合会夸大问题，以证明增加警察经费是合理的。围绕这一问题的争议凸显了打击有组织犯罪团伙的复杂性。]]></description>
+      <guid>https://t.me/hn_summary/80447</guid>
+      <pubDate>Wed, 20 Mar 2024 18:06:25 GMT</pubDate>
     </item>
     <item>
-      <title>在 sethmlarson.dev 上的这篇文章中，我讨论了正则表达式字符“[...]</title>
-      <link>https://t.me/hn_summary/80353</link>
-      <description><![CDATA[正则表达式字符“$”并不意味着“end-of-”字符串”
-在这篇关于 sethmlarson.dev 的文章中，我讨论了Python 正则表达式模块中的正则表达式字符“$”。虽然“^”通常表示“字符串开头”，但“$”并不总是如预期的那样表示“字符串结尾”。在 Python 中，禁用多行模式后，“$”可以匹配字符串末尾或字符串末尾之前的尾随换行符。要在 Python 中匹配没有换行符的字符串末尾，可以使用“\z”或“\Z”而不是“$”。本文对不同平台如何处理此行为进行了比较，并提供了有效使用正则表达式的见解。]]></description>
-      <guid>https://t.me/hn_summary/80353</guid>
-      <pubDate>Wed, 20 Mar 2024 08:32:09 GMT</pubDate>
+      <title>[媒体]OpenAI 的 GPT 商店是一个由生成式 AI 模型驱动的定制聊天机器人市场，[...]</title>
+      <link>https://t.me/hn_summary/80446</link>
+      <description><![CDATA[OpenAI 的聊天机器人商店充斥着垃圾邮件
+OpenAI 的 GPT 商店是一个由生成式 AI 模型驱动的定制聊天机器人市场，由于充斥着垃圾邮件和可能侵犯版权的 GPT，因此面临着争议。尽管努力进行节制，该商店仍然充斥着宣扬学术不诚实、冒充公众人物以及试图越狱 OpenAI 模型的 GPT。该商店的快速增长引发了人们对质量和遵守 OpenAI 自身条款的担忧。由于该公司计划允许 GPT 开发者将他们的创作货币化，因此出现了未经授权的 GPT 将如何影响版权所有者的问题。 GPT 商店的现状令人对其未来的成功产生怀疑。]]></description>
+      <guid>https://t.me/hn_summary/80446</guid>
+      <pubDate>Wed, 20 Mar 2024 18:00:20 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]构建系统在开发领域经常被忽视，但它们是必不可少的[...]</title>
-      <link>https://t.me/hn_summary/80352</link>
-      <description><![CDATA[点菜构建系统：理论与实践（2020）
-构建系统在开发领域经常被忽视，但它们是每个开发人员使用的基本工具。在本文中，我们提出了一个用于开发和比较构建系统的独特框架，使我们能够通过组合现有组件来创建新系统。此修订版包含更多细节和关于实际应用的新部分。提供的可执行代码允许读者探索和实现这些概念。深入构建系统的世界，发现软件开发这一关键方面的新视角。]]></description>
-      <guid>https://t.me/hn_summary/80352</guid>
-      <pubDate>Wed, 20 Mar 2024 08:28:05 GMT</pubDate>
+      <title>[媒体] Leo C.</title>
+      <link>https://t.me/hn_summary/80445</link>
+      <description><![CDATA[优化黑洞合并波形计算（Bluesky线程） 
+duetosymmetry.com 的研究员 Leo C. Stein 分享了关于优化黑洞合并波形计算的解释线程。该帖子讨论了一篇关于优化 PN 参数和修复 NR 波形混合的 BMS 框架的新论文。该论文深入研究了引力波的技术细节，并为那些寻求快速总结的人提供了模因式的 TL;DR。这个交互式 Web 应用程序需要 JavaScript，并深入研究黑洞合并和波形计算的复杂性。探索该主题，以独特且内容丰富的方式探讨这个引人入胜的主题。]]></description>
+      <guid>https://t.me/hn_summary/80445</guid>
+      <pubDate>Wed, 20 Mar 2024 17:59:15 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]世界气象组织在一份令人震惊的报告中透露，所有主要行业 [...]</title>
-      <link>https://t.me/hn_summary/80351</link>
-      <description><![CDATA[WMO警告称，随着主要指标突破图表，气候变化加速
-世界气象组织在一份令人震惊的报告中透露，气候变化的所有主要指标都达到了前所未有的水平，其中一些指标上升得如此之快，以至于“破纪录”。气候变化加剧的自然灾害给数百万人的生命造成了严重破坏，导致全球数十亿美元的经济损失。 WMO 2023 年全球气候状况报告描绘了气候变化步伐加快的严峻景象，强调迫切需要采取行动减轻其破坏性影响。]]></description>
-      <guid>https://t.me/hn_summary/80351</guid>
-      <pubDate>Wed, 20 Mar 2024 07:28:46 GMT</pubDate>
+      <title>[媒体] Xwayland 最近合并了 HiDPI 支持，这对 Wayland 用户来说是一个游戏规则改变者 [...]</title>
+      <link>https://t.me/hn_summary/80444</link>
+      <description><![CDATA[Xwayland 中合并了 HiDPI 支持
+Xwayland 最近合并了 HiDPI 支持，对于饱受扩展问题困扰的 Wayland 用户来说，这改变了游戏规则。虽然 Xwayland 传统上对所有表面应用统一的比例，但此更新允许根据输出比例进行动态缩放。这意味着在 root Xwayland 上运行的 X11 客户端现在可以调整其渲染比例以匹配它们所在的 Wayland 输出。这种创新的解决方案为 Qt 或 GTK 等 X11 客户端无缝适应不同的规模开辟了新的可能性。这一开发标志着在改善 Xwayland 在 Wayland 环境中的兼容性和用户体验方面向前迈出了重要一步。]]></description>
+      <guid>https://t.me/hn_summary/80444</guid>
+      <pubDate>Wed, 20 Mar 2024 17:34:05 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]微软宣布将阻止俄罗斯公司使用其云服务 [...]</title>
-      <link>https://t.me/hn_summary/80350</link>
-      <description><![CDATA[微软现在阻止俄罗斯公司使用其云服务
-微软宣布，作为对该国制裁的一部分，它将阻止俄罗斯公司使用其云服务。预计亚马逊和谷歌也将效仿这一举措。俄罗斯公司被敦促转向当地服务提供商。这一决定并不令人意外，因为俄罗斯自入侵乌克兰以来一直面临经济制裁。继俄罗斯被从 SWIFT 金融交易处理系统中删除以及 Visa 和 MasterCard 退出后，这一最新发展被视为对俄罗斯市场的重大破坏。]]></description>
-      <guid>https://t.me/hn_summary/80350</guid>
-      <pubDate>Wed, 20 Mar 2024 07:06:38 GMT</pubDate>
+      <title>问 HN：如何开始基因组学？</title>
+      <link>https://t.me/hn_summary/80443</link>
+      <description><![CDATA[询问 HN：如何开始基因组学？ 
+您是否有兴趣深入基因组学世界，但没有任何湿实验室经验？你不是一个人。许多人渴望了解更多有关生物技术和基因组学的知识，但不知道从哪里开始。该论坛是寻求有关如何开始该领域的建议和指导的好地方。加入讨论并从业内经验丰富的专业人士那里获得宝贵的见解。不要因为缺乏经验而阻碍您追求基因组学的热情。]]></description>
+      <guid>https://t.me/hn_summary/80443</guid>
+      <pubDate>Wed, 20 Mar 2024 17:33:00 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]加入 Ashby，Y Combinator 2019 年冬季初创公司，因为我们目前正在招聘工程师 [...]</title>
-      <link>https://t.me/hn_summary/80349</link>
-      <description><![CDATA[Ashby (YC W19) 正在欧洲、中东和非洲地区招聘工程经理
-加入 Y Combinator 2019 年冬季初创公司 Ashby，因为我们目前正在 EMEA 地区招聘工程经理。我们的团队致力于突破界限并提供一流的工作。如果您是一位对技术和创新充满热情的才华横溢的领导者，这可能是您的绝佳机会。立即申请并成为令人兴奋和开创性的事物的一部分。加入我们 Ashby，成为塑造技术未来的团队的一员。立即前往 www.ashbyhq.com 申请。]]></description>
-      <guid>https://t.me/hn_summary/80349</guid>
-      <pubDate>Wed, 20 Mar 2024 07:02:34 GMT</pubDate>
+      <title>[媒体] 隆重推出 Google Scholar PDF 阅读器，这是一款方便的工具，可让您轻松 [...]</title>
+      <link>https://t.me/hn_summary/80442</link>
+      <description><![CDATA[Google 学术 PDF 阅读器
+隆重推出 Google Scholar PDF 阅读器，这是一款方便的工具，可让您在阅读时轻松复制和粘贴引文、保存引文以供以后使用以及查找相关文章。该阅读器可以选择适合您喜好的显示主题，无论是浅色、深色还是夜间模式，都能提供个性化的阅读体验。访问 Chrome 网上应用店页面，详细了解这款由 Sam Yuan、Danni Chen、Ishana Narayanan、Janelle Wen、Hanshen Wang 和 Alex Verstak 开发的创新工具。]]></description>
+      <guid>https://t.me/hn_summary/80442</guid>
+      <pubDate>Wed, 20 Mar 2024 17:31:57 GMT</pubDate>
     </item>
     <item>
-      <title>联想宣布推出最新的商务笔记本电脑 ThinkPad L 系列和 Thin [...]</title>
-      <link>https://t.me/hn_summary/80348</link>
-      <description><![CDATA[联想宣布推出 ThinkPad，以实现“更好的可持续性和更长的可修复性”
-联想宣布推出最新商务笔记本电脑ThinkPad L系列和ThinkPad X13系列，展现创新和可持续发展。这些新型号具有增强的可修复性、更多的回收材料、高效的电源管理以及具有内置安全性的强大处理能力。这些笔记本电脑提供各种外形尺寸，包括 13 英寸或 13 英寸二合一、14 英寸，并在 ThinkPad L16 中引入了新的 16 英寸显示屏。这些笔记本电脑配备可选的更高分辨率摄像头、改进的散热性能以及对 Wi-Fi 7 和 4G LTE 或 5G 的支持，有望增强用户体验。此外，联想致力于可持续发展和可访问性，具有改进的可修复性、显示亮度的新技术以及包容性的触觉标记等功能。这些笔记本电脑中包含英特尔酷睿 Ultra 处理器和 AMD 锐龙 PRO 7030 系列处理器，可提供增强的人工智能功能，从而提高性能和效率。联想致力于可持续发展、可修复性和尖端技术，使其在行业中脱颖而出。 （根据 59% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/80348</guid>
-      <pubDate>Wed, 20 Mar 2024 06:58:31 GMT</pubDate>
+      <title>[媒体] 在这篇博文中，我们深入探讨了在 Ruby 中管理架构迁移的挑战 [...]</title>
+      <link>https://t.me/hn_summary/80441</link>
+      <description><![CDATA[使用强迁移的 Ruby on Rails 应用程序的数据库迁移实践
+在这篇博文中，我们深入探讨了在 Ruby on Rails 项目中管理架构迁移的挑战，以及如果处理不当，它们将如何导致问题。我们引入了 Strong Migrations，这是一个可以帮助避免与迁移相关的常见问题的宝石。本文提供了有关数据库管理实践的实用建议，包括以安全方式添加、删除和更新列的策略。强大的迁移可以防范风险变更，确保部署顺利进行。此外，我们还提供了有关在生产环境中处理迁移、避免停机以及备份重要性的提示。保持信息灵通并快乐编码！]]></description>
+      <guid>https://t.me/hn_summary/80441</guid>
+      <pubDate>Wed, 20 Mar 2024 17:19:48 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]专利流氓是我们经济的主要威胁，造成数十亿美元的损失和潜在的损失 [...]</title>
-      <link>https://t.me/hn_summary/80347</link>
-      <description><![CDATA[EFF：告诉国会：我们不能再承受更多不良专利&lt; /a&gt;
-专利流氓是对我们经济的主要威胁，造成数十亿美元的损失，并可能因其侵权要求而毁掉小公司。 2014 年，最高法院的一项裁决开创了打击专利流氓的先例，但现在 PERA 和 PREVAIL 两项法案威胁要撤销这些保护。参议员汤姆·蒂利斯和克里斯·库恩斯正在推动这些法案，但我们需要您的帮助来阻止它们。和我们一起告诉国会，我们不能再承受更多的不良专利。]]></description>
-      <guid>https://t.me/hn_summary/80347</guid>
-      <pubDate>Wed, 20 Mar 2024 06:54:25 GMT</pubDate>
+      <title>嘿，HN！</title>
+      <link>https://t.me/hn_summary/80440</link>
+      <description><![CDATA[启动 HN：CamelQA (YC W24) – 测试移动应用程序的 AI 
+嘿，HN！我们是camelQA，我们正在通过我们的人工智能代理彻底改变移动应用程序的质量检查，该代理使用计算机视觉自动执行测试。告别不稳定的 UI 测试和脆弱的脚本 -camelQA 将自然语言测试用例转换为在我们设备场中的真实 iOS 和 Android 设备上运行的测试。我们独特的方法将可访问性元素数据与自定义的仅视觉 RCNN 对象检测模型相结合，使我们即使没有关联的可访问性元素也可以检测元素。最好的部分是什么？我们不需要访问您的源代码并适用于所有应用程序类型。查看我们在模拟 iPhone 上控制维基百科的演示，并登录到我们的沙盒 HN 帐户以查看我们的前端的运行情况。加入我们，彻底改变应用程序测试！]]></description>
+      <guid>https://t.me/hn_summary/80440</guid>
+      <pubDate>Wed, 20 Mar 2024 17:14:43 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Open Salamander 是一款适用于 Windows 的两面板文件管理器，最初是 [...]</title>
-      <link>https://t.me/hn_summary/80346</link>
-      <description><![CDATA[Open Salamander 是一款快速可靠的 Windows 两面板文件管理器
-Open Salamander 是一款适用于 Windows 的两面板文件管理器，最初由 Petr Šolín 于 1997 年开发，名为 Servant Salamander。该项目后来更名为 Altap Salamander，并最终于 2023 年作为 Open Salamander 5.0 开源。该项目的独特之处在于它是一个纯WinAPI应用程序，不使用任何MFC等框架。它欢迎贡献并提供各种功能和插件，尽管某些插件可能需要更新或替换。 Open Salamander 根据 GPLv2 及更高版本获得许可。]]></description>
-      <guid>https://t.me/hn_summary/80346</guid>
-      <pubDate>Wed, 20 Mar 2024 05:20:58 GMT</pubDate>
+      <title>[媒体] 介绍 GNOME 46“Kathmandu”，这是 GNOME 项目 6 m 后的最新版本 [...]</title>
+      <link>https://t.me/hn_summary/80439</link>
+      <description><![CDATA[GNOME 46“加德满都”简介
+隆重推出 GNOME 46“Kathmandu”，这是 GNOME 项目经过 6 个月的努力发布的最新版本。文件应用程序中提供了新的全局搜索功能，增强了性能，并对在线帐户进行了重大升级，支持 Microsoft OneDrive。设置应用程序已经过改进，导航更加方便，触摸板设置也得到扩展。还强调了辅助功能改进、系统增强以及更好的核心应用程序（例如软件、地图和日历）。在底层，GNOME 46 带来了性能、安全性和渲染方面的改进。另外，欢迎新应用程序加入 GNOME Circle 和开发人员增强功能。准备好探索 GNOME 46 中的新功能！ （根据 97% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/80439</guid>
+      <pubDate>Wed, 20 Mar 2024 17:13:38 GMT</pubDate>
     </item>
     </channel>
 </rss>

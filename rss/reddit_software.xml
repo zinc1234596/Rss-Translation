@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Wed, 20 Mar 2024 15:12:37 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 Mar 2024 18:14:12 GMT</lastBuildDate>
+    <item>
+      <title>有没有一种软件可以让 Windows 认为它​​在 720p 显示器上运行在 1080p 显示器上？</title>
+      <link>https://www.reddit.com/r/software/comments/1bjk39a/is_there_a_software_that_can_make_windows_think/</link>
+      <description><![CDATA[所以我有一个朋友root了他的iPhone 7。他得到了这个软件，可以让手机“以更高分辨率运行”。显然，它实际上并没有显示更高的分辨率，但手机认为它是，所以文本和应用程序的大小看起来更小。有时它看起来真的很酷，但有时它让文字看起来很糟糕。我记得他说过“增加像素密度”之类的话。但我不确定。遗憾的是我再也联系不到他了。 有没有办法在 Windows 上获得类似的结果？   由   提交 /u/RiverHe1ghts   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1bjk39a/is_there_a_software_that_can_make_windows_think/</guid>
+      <pubDate>Wed, 20 Mar 2024 18:08:36 GMT</pubDate>
+    </item>
     <item>
       <title>如果应用程序需要运行时包，该包是否必须安装在同一驱动器上？</title>
       <link>https://www.reddit.com/r/software/comments/1bjey45/if_an_app_requires_a_runtime_package_does_the/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[我只是想检查这个链接是否合法，我想知道是否有链接安全检查器之类的东西，如果有的话在哪里可以我找到一个了吗？   由   提交/u/Coolusername_5  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1bj0iwh/are_there_any_link_checker_websites/</guid>
       <pubDate>Wed, 20 Mar 2024 00:40:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>SSD修复软件好用吗？</title>
-      <link>https://www.reddit.com/r/software/comments/1bj02vm/good_ssd_repair_software/</link>
-      <description><![CDATA[在 Windows 10 上，SSD 是东芝 2TB 的，我收到它作为礼物，但我不认为它是 Canvio 之一？&lt; /p&gt; 我使用它不到一年就损坏了，我修复了一次，但几天之内它又损坏了。我想这可能是因为我在将笔记本电脑置于睡眠模式时插入了电源，也许吧？无论如何，我不关心恢复任何剩余文件，因为我拥有重要的一切，我只是想尝试修复它，因为我正在寻找一台新笔记本电脑并需要一些东西来保存我的文件！   由   提交 /u/youhypnotizemealways   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1bj02vm/good_ssd_repair_software/</guid>
-      <pubDate>Wed, 20 Mar 2024 00:21:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
