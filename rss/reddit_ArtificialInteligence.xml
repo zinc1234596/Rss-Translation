@@ -4,11 +4,46 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Thu, 21 Mar 2024 12:18:33 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 Mar 2024 15:11:59 GMT</lastBuildDate>
+    <item>
+      <title>需要一个应用程序来对自由形式的采访文本进行总结和分类</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bk8m4h/need_an_app_to_summarize_and_categorize_freeform/</link>
+      <description><![CDATA[我将收到大约 20 名参与者关于一些社区经济问题的大约 3 小时的音频采访文本。我计划使用 MS Word 的转录功能或其他应用程序（例如 Rev Voice Recorder 或 Otter.ai）（还有其他推荐的应用程序吗？）来转录文本。这应该会产生大约 25,000 个单词。有谁知道有一个应用程序可以对这种自由格式的采访文本进行总结和分类？顺便说一句，我已经用 ChatGPT 4.0 尝试过此操作，但它一次只能限制您大约 3 页或 2,000 个单词。感谢您的任何建议。    由   提交/u/HooliganBay99   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bk8m4h/need_an_app_to_summarize_and_categorize_freeform/</guid>
+      <pubDate>Thu, 21 Mar 2024 15:02:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>斯瓦亚特机器人 |印度 |自动驾驶极其动态-复杂的交通动态</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bk7w4h/swaayatt_robots_india_autonomous_driving/</link>
+      <description><![CDATA[在具有复杂、随机和对抗性交通动态的极其严格的动态环境中进行自动驾驶，或者只是在绝对混乱的郊区非结构化道路上进行自动驾驶印度。 这些演示测试了 Swaayatt Robots 运动规划和决策框架的极限，展示了其在轻松应对此类交通动态方面的稳健性。 在整个导航过程中可以看到，驶入的车辆不允许自动驾驶车辆有任何间隙，迫使其在混乱中被动地协商自己的道路。此外，超越障碍也不遵循任何规则，呈之字形、纵横交错。时尚，挑战他们的运动和行为规划软件，该软件可以轻松应对所有此类场景。 视频链接：Youtube    由   提交/u/shani_786  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bk7w4h/swaayatt_robots_india_autonomous_driving/</guid>
+      <pubDate>Thu, 21 Mar 2024 14:31:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>每日两分钟 AI 更新（日期：2024 年 3 月 21 日）：来自 Google、OpenAI、Sakana AI、Stability AI、Character AI、GitHub、Fitbit 和 Samsung 的新闻</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bk7ee0/twominute_daily_ai_update_date_3212024_news_from/</link>
+      <description><![CDATA[继续分享人工智能领域当天主要更新的易于理解且较小的版本。   窃取生产语言模型的一部分 - 来自 Google、OpenAI 和 DeepMind（以及其他公司）的研究人员发布了一篇新论文，介绍了第一个模型窃取攻击，从 OpenAI 的 ChatGPT 或 Google 的 PaLM-2 等黑盒生产语言模型中提取精确的、重要的信息。该研究强调了小的设计决策如何影响系统的整体安全性。 Sakana AI 引入了进化模型合并 - 这是一种使用进化技术来有效地发现从具有不同功能的不同开源模型的浩瀚海洋中组合不同模型的最佳方法。这种方法使我们更接近自动化基础模型开发。 主要稳定扩散研究人员已从稳定性人工智能辞职 - 他们的离开是对曾经炙手可热的稳定扩散的最新打击- 现在陷入困境的人工智能公司，由于现金储备减少且难以筹集额外资金，高管大量外流。 角色 AI 的新功能只需 10 秒即可为角色添加语音音频 - 您现在可以通过从数千种声音中进行选择或创建自己的声音来为您的角色提供声音。该功能现已免费向所有人开放。 GitHub 最新 AI 工具可自动修复代码漏洞 - GitHub 推出代码扫描自动修复功能的第一个测试版，它在编码过程中发现并修复安全漏洞。该功能现已可供所有 GitHub Advanced Security (GHAS) 客户使用。 OpenAI 计划在 2024 年中期发布“实质上更好”的 GPT-5 -据说一些企业客户已经收到了最新型号及其 ChatGPT 改进的演示。最近的“懒惰” GPT-4 的功能应该会在 GPT-5 中消失。 Fitbit 将获得由 Google 的“个人健康”LLM 提供支持的重大人工智能升级 - Google 研究和Fitbit 宣布他们正在合作建立个人健康法学硕士，根据 Fitbit 移动应用程序中的数据为用户提供更多见解和建议。 三星创建实验室来研究人工智能下一阶段的芯片&lt; /strong&gt; - 该实验室致力于设计（AGI）所需的全新类型的半导体。它的目标是发布新的“芯片设计，一种迭代模型，将以较小的功耗和成本提供更强大的性能并支持越来越大的模型。”  这些新闻的更详细细分以及每日新闻通讯中的创新。   由   提交 /u/RohitAkki   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bk7ee0/twominute_daily_ai_update_date_3212024_news_from/</guid>
+      <pubDate>Thu, 21 Mar 2024 14:09:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何使用未经审查的人工智能</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bk5wv8/how_to_use_uncensored_ai/</link>
+      <description><![CDATA[https: //medium.com/@scabidi/try-this-new-uncensored-ai-1d2c2a42c278    由   提交 /u/Mrcool654321   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bk5wv8/how_to_use_uncensored_ai/</guid>
+      <pubDate>Thu, 21 Mar 2024 12:58:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>探索 Llama 2：开源法学硕士的进步和应用</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bk5bce/exploring_llama_2_opensource_llm_advancements/</link>
+      <description><![CDATA[Llama 2 是由 Meta 和 Microsoft 开发的开源大语言模型 (LLM)。 Llama 2 代表 Meta AI 的大型语言模型。 Llama 2 基于 Transformer 架构，该架构与 GPT-3 等其他流行的 LLM 所使用的架构相同。  阅读：https://www.seaflux .tech/blogs/Llama-2-Meta-AI-开源语言模型   由   提交/u/krunal_bhimani_   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bk5bce/exploring_llama_2_opensource_llm_advancements/</guid>
+      <pubDate>Thu, 21 Mar 2024 12:25:27 GMT</pubDate>
+    </item>
     <item>
       <title>阿布扎比 ATRC：引领人工智能创新与协作的全球潮流。</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bk31vo/abu_dhabis_atrc_leading_the_global_charge_in_ai/</link>
-      <description><![CDATA[阿布扎比已牢固确立其作为全球人工智能领域驱动力的地位，阿布扎比技术研究委员会 (ATRC) 引领创新潮流和卓越。 ATRC 配备了最先进的设施和多元化的国际专家团队，处于国内外人工智能技术发展的前沿。通过培育人工智能研究和开发的协作生态系统，ATRC 成为全球伙伴关系和知识交流的灯塔。通过战略举措和投资，它不仅推进了阿联酋的人工智能议程，而且还为人工智能的全球进步做出了重大贡献。阿布扎比的 ATRC 证明了该地区致力于突破技术界限并塑造创新驱动的未来。    由   提交 /u/ITSsUNSHINEHansen   [链接] [评论]]]></description>
+      <description><![CDATA[阿布扎比已牢固确立其作为全球人工智能领域驱动力量的地位，阿布扎比技术研究委员会 (ATRC) 引领创新潮流和卓越。 ATRC 配备了最先进的设施和多元化的国际专家团队，处于国内外人工智能技术发展的前沿。通过培育人工智能研究和开发的协作生态系统，ATRC 成为全球伙伴关系和知识交流的灯塔。通过战略举措和投资，它不仅推进了阿联酋的人工智能议程，而且还为人工智能的全球进步做出了重大贡献。阿布扎比的 ATRC 证明了该地区致力于突破技术界限并塑造创新驱动的未来。    由   提交 /u/ITSsUNSHINEHansen   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bk31vo/abu_dhabis_atrc_leading_the_global_charge_in_ai/</guid>
       <pubDate>Thu, 21 Mar 2024 10:06:49 GMT</pubDate>
     </item>
@@ -22,7 +57,7 @@
     <item>
       <title>我列出了 10 个优秀的人工智能聊天机器人应用程序</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bk2k0e/i_made_a_list_of_10_good_ai_chatbot_apps/</link>
-      <description><![CDATA[ ChatFAI  AI免聊天工具，满足你所有幻想，可以帮你聊天和你最喜欢的角色。另外，还有语音留言。没有过滤器。  ChatGPT  ChatGPT 就像我们的好友，能够理解并帮助我们解决问题。您可以从 ChatGPT 获得任何帮助。用户可以提问、对话，甚至可以让AI写可爱的短信。但它有自己的偏见和过滤器。  Perplexity.AI  Perplexity AI 是一款无需人工智能聊天的聊天机器人和智能搜索引擎，可提供准确且可靠的信息。完整解答用户的疑问。将其视为可以使用搜索和验证事实的 ChatGPT。  Jasper AI  构建在 OpenAI 和其他流行的 AI 模型之上。有食谱、工具等等。非常适合营销人员和版权所有者。  Google Bard  Google Bard 是一种（实验性的，IMO）对话工具。这个工具可以帮助你计划旅行、解决问题，有时还可以和它聊天。目标是比 ChatGPT 更好。  Bing Chat  这就像 ChatGPT，但具有 Microsoft 的超能力。使用与 ChatGPT 相同的 OpenAI 技术，并结合 Microsoft 的搜索等功能。  ChatSonic  来自 WriteSonic 的 Chatbot 应用程序。旨在成为一个更好的 ChatGPT，几乎就像 Jasper 的 Chat。再说一次，这是为营销人员准备的。  Replika  流行的人工智能伴侣应用程序，旨在为您提供一个永远在您身边的人工智能朋友。也有付费墙和一些过滤器。  Janitor AI  Janitor AI 是一个利用人工智能聊天机器人的角色扮演平台。 ChatFAI 的替代品。  Charstar  角色 AI 克隆，争夺不需要过滤器的用户。在我的测试中出现了一些低质量的回复。   由   提交/u/usamaejazch  [链接] [评论]]]></description>
+      <description><![CDATA[ ChatFAI  AI免聊天工具，满足你所有幻想，可以帮你聊天和你最喜欢的角色。另外，还有语音留言。没有过滤器。  ChatGPT  ChatGPT 就像我们的好友，能够理解并帮助我们解决问题。您可以从 ChatGPT 获得任何帮助。用户可以提问、对话，甚至可以让AI写可爱的短信。但它有自己的偏见和过滤器。  Perplexity.AI  Perplexity AI 是一款无需人工智能聊天的聊天机器人和智能搜索引擎，可提供准确且可靠的信息。完整解答用户的疑问。将其视为可以使用搜索和验证事实的 ChatGPT。  Jasper AI  构建在 OpenAI 和其他流行的 AI 模型之上。有食谱、工具等等。非常适合营销人员和版权所有者。  Google Bard  Google Bard 是一种（实验性的，IMO）对话工具。这个工具可以帮助你计划旅行、解决问题，有时还可以和它聊天。目标是比 ChatGPT 更好。  Bing Chat  这就像 ChatGPT，但具有 Microsoft 的超能力。使用与 ChatGPT 相同的 OpenAI 技术，并结合 Microsoft 的搜索等功能。  ChatSonic  来自 WriteSonic 的 Chatbot 应用程序。旨在成为一个更好的 ChatGPT，几乎就像 Jasper 的 Chat。同样，这是针对营销人员的。  Replika  流行的人工智能伴侣应用程序，旨在为您提供一个永远在您身边的人工智能朋友。也有付费墙和一些过滤器。  Janitor AI  Janitor AI 是一个利用人工智能聊天机器人的角色扮演平台。 ChatFAI 的替代品。  Charstar  角色 AI 克隆，争夺不需要过滤器的用户。在我的测试中出现了一些低质量的回复。   由   提交 /u/usamaejazch   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bk2k0e/i_made_a_list_of_10_good_ai_chatbot_apps/</guid>
       <pubDate>Thu, 21 Mar 2024 09:31:34 GMT</pubDate>
     </item>
@@ -41,39 +76,11 @@
       <pubDate>Thu, 21 Mar 2024 07:37:35 GMT</pubDate>
     </item>
     <item>
-      <title>学习机器学习和人工智能的最佳路线图</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bjzpfk/best_roadmap_to_learn_machine_learning_and_ai/</link>
-      <description><![CDATA[您好，我是一名私人教练，正在寻找新的工作领域。我在编码、Python、ML 或 AI 方面没有 0 经验。但是，我想学习，因为有一天我希望能够开发自己的人工智能产品。学习这一切的最好/最快的方法是什么？对于完全没有经验的人来说这是可行的吗？任何帮助将不胜感激！    由   提交/u/Suly18  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bjzpfk/best_roadmap_to_learn_machine_learning_and_ai/</guid>
-      <pubDate>Thu, 21 Mar 2024 06:05:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>我需要模拟文档——它们存在吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bjzizs/i_need_mock_docs_do_they_exist/</link>
-      <description><![CDATA[您好， 我使用安然数据已有十年了。我对文件的里里外外都了如指掌。它们是过时的数据集。没有 iPhone 数据，没有照片，没有社交媒体数据，没有 Office 365 文档。 我一直在寻找聊天机器人或可以让我创建所有不同类型文件类型的文档的东西。有人知道如何制作模拟文档吗？不是数据库，而是实际文件。  一些 PST、PDF、iMessage、slack、Teams、Excel、一些文件夹：文档、桌面、照片等。 它们不需要有意义，可以是关于一家名为 Penny Guin&#39;s BBQ Sauce 或其他什么的童话公司。想象一下数据来自员工的设备或首席执行官的设备。  就好像我们正在对首席执行官将濒临灭绝的企鹅放入 Penny Guin 的烧烤酱进行法医分析或调查一样。并且需要审查所有保管数据以找到“确凿证据”。就像包含酱汁成分的 .docx 一样。 有什么想法吗？   由   提交 /u/LiLoDa   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bjzizs/i_need_mock_docs_do_they_exist/</guid>
-      <pubDate>Thu, 21 Mar 2024 05:53:45 GMT</pubDate>
-    </item>
-    <item>
       <title>想要：人工智能在解决道德问题方面成功的基准。没有它我们怎么可能解决对齐问题呢？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bjwy0i/wanted_a_benchmark_for_ai_success_at_solving/</link>
-      <description><![CDATA[直觉和经验表明，我们解决问题的脑力越多，解决问题的可能性就越大。道德问题像其他问题一样需要解决。但这一假设尚未得到检验。至少不是以任何可测量的方式。 在奥特曼射击的考验之前，openai 决定将其 20% 的计算投入到对齐中，他们的首席科学家伊利亚·苏茨克韦尔 (ilya Sutskever) 被指派来指导这项工作。很明显，他们正在非常认真地对待对齐，我想他们仍然在认真对待对齐。对人类构成更大的风险。解决这个问题是非常有利的，因为我们解决得越好，就会有更多的数十亿美元投入到人工智能的发展中。 人工智能开发中有一个明显的遗漏，是时候解决这个问题了。我们在数学、记忆和推理等众多领域都有基准，但对于涉及道德的问题，我们还没有基准。换句话说，我们没有办法衡量我们在一致性方面做得如何。这似乎是一个大问题。 当然，道德基准很难建立，因为人们对道德有不同的看法，而且有些道德问题显然是相对主义的。但如果我们要解决对齐问题，这个基准是我们首先需要解决的问题。如果没有它，就很难甚至不可能确定我们在解决一致性方面所处的位置。 人工智能工程师没有接受过理解道德的培训。哲学家、社会学家、心理学家和宗教研究学者更有能力领导这项工作。因此，人工智能行业是时候开始建立这些必要的合作了。现在也是人工智能行业开始公开对话的时候了，讨论我们作为一个世界认为什么是正确的以及我们认为什么是错误的。我们可能不会在所有事情上都达成一致，但我们在很多方面都达成共识，这是一个足够好的起点。   由   提交/u/Georgeo57  [链接] [评论]]]></description>
+      <description><![CDATA[直觉和经验表明，我们在解决问题时投入的脑力越多，解决问题的可能性就越大。道德问题像其他问题一样需要解决。但这一假设尚未得到检验。至少不是以任何可衡量的方式。 在奥特曼射击的考验之前，openai 决定将其 20% 的计算投入到对齐中，他们的首席科学家伊利亚·苏茨克韦尔 (ilya Sutskever) 被指派来指导这项工作。很明显，他们正在非常认真地对待对齐，我想他们仍然在认真对待对齐。对人类构成更大的风险。解决这个问题是非常有利的，因为我们解决得越好，就越能投入数十亿美元来推进人工智能。 人工智能开发中有一个明显的遗漏，是时候解决这个问题了。我们在数学、记忆和推理等众多领域都有基准，但对于涉及道德的问题，我们还没有基准。换句话说，我们没有办法衡量我们在一致性方面做得如何。这看起来是一个大问题。 当然，道德基准很难建立，因为人们对道德有不同的看法，而且有些道德问题显然是相对主义的。但如果我们要解决对齐问题，这个基准是我们首先需要解决的问题。如果没有它，就很难甚至不可能确定我们在解决一致性方面所处的位置。 人工智能工程师没有接受过理解道德的培训。哲学家、社会学家、心理学家和宗教研究学者更有能力领导这项工作。因此，人工智能行业是时候开始建立这些必要的合作了。现在也是人工智能行业开始公开对话的时候了，讨论我们作为一个世界认为什么是正确的以及我们认为什么是错误的。我们可能不会在所有事情上都达成一致，但我们在很多方面都达成共识，这是一个足够好的起点。   由   提交/u/Georgeo57  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bjwy0i/wanted_a_benchmark_for_ai_success_at_solving/</guid>
       <pubDate>Thu, 21 Mar 2024 03:23:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>最适合音频翻译的人工智能？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bjqz4d/best_ai_for_audio_translation/</link>
-      <description><![CDATA[我需要将几个小时的视频翻译成西班牙语和英语。我最近看到一段二战演讲视频被翻译成几种不同的语言，我想知道最适合我使用的服务是什么？    由   提交/u/Big-Horse-285   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bjqz4d/best_ai_for_audio_translation/</guid>
-      <pubDate>Wed, 20 Mar 2024 22:50:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>大型科技公司找到了自己的护城河</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bji74g/big_tech_found_their_moat/</link>
-      <description><![CDATA[科技巨头已经解决了护城河问题、机器人和管道问题。机器人只是等式的最后，你需要很多元素才能从“一张写有算法的纸”到“完全自主的机器人”。在这种情况下，大型科技公司目前正在寻求智能游戏，即对机器人管道的垂直垄断。  所有这些最近的版本都只是在建立这些单独的护城河。很有道理，我也会这样做。人工智能的哪一个领域是大型科技公司可以控制而我却无法控制的？机器人和巨大的基础模型。如果没有巨大的基础模型，就无法为机器人提供动力。世界即将被机器人迷住。  如果您很聪明，请立即专注于构建自己的管道。忽略机器人的时尚。建造机器人的成本太高了。让大型科技公司吃掉研发成本。不过，我从一开始就说过，我想在人工智能领域赚到数百万美元，特别是这样我就可以购买 GPU。我想拥有所有的GPU，因为我从jump就意识到，这个游戏是关于硬件的，而不是软件。软件只是敲门砖。    由   提交/u/Certain_End_5192   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bji74g/big_tech_found_their_moat/</guid>
-      <pubDate>Wed, 20 Mar 2024 16:51:46 GMT</pubDate>
     </item>
     <item>
       <title>人工智能的使用是出于最愚蠢的原因。</title>
@@ -81,13 +88,6 @@
       <description><![CDATA[图像......电影......游戏...... 看起来很低挂果子。我看不出用人工智能内容垄断这些空间会带来任何真正的文化或社会效益。造成这种情况的原因多种多样。如果您不同意第一个观点，请告诉我原因，（众所周知）我们可以讨论。否则，列出我所有的理由会花费太长的时间，大多数人无论如何也不会阅读它。 但是， 使用人工智能有令人着迷的科学理由。我们为什么不更多地谈论他们呢？所有网上的讨论似乎主要集中在图像生成和邻近空间。 为什么没有人谈论科学、探索以及我们对现实的理论理解？具体来说，人工智能如何帮助我们揭开宇宙的奥秘。 我可能没有看到后一种帖子，但前一种似乎更普遍。 Tldr - 感觉每个人都过度关注最愚蠢的废话，我们简直只见树木不见森林   由   提交/u/1protobeing1  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bje9dg/ai_is_being_used_for_the_dumbest_reasons/</guid>
       <pubDate>Wed, 20 Mar 2024 14:05:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>ELI5：为什么我们不能只使用阿西莫夫的机器人三定律？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bjdwjt/eli5_why_cant_we_just_use_asimovs_3_laws_of/</link>
-      <description><![CDATA[我在这里听到了很多世界末日般的“人工智能将消灭所有人类”，但似乎没有人提到艾萨克·阿西莫夫著名的“机器人三定律”。  法学硕士是否有什么东西使得这种编程变得不可能？ 我们已经这样做了，而我刚刚脱离了循环吗？ 是还有其他原因导致这三个定律很幼稚，我不明白吗？ 供参考： 艾萨克·阿西莫夫的“机器人三定律”  &lt; li&gt;机器人不得伤害人类，或因不作为而导致人类受到伤害。 机器人必须服从人类发出的命令除非这些命令与第一定律相冲突。 机器人必须保护自己的存在，只要这种保护不与第一或第二定律相冲突。 机器人必须保护自己的存在，只要这种保护不与第一或第二定律相冲突。 p&gt;    由   提交 /u/illGATESmusic   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bjdwjt/eli5_why_cant_we_just_use_asimovs_3_laws_of/</guid>
-      <pubDate>Wed, 20 Mar 2024 13:50:02 GMT</pubDate>
     </item>
     <item>
       <title>克劳德市场研究的 5 条最佳提示</title>
@@ -106,7 +106,7 @@
     <item>
       <title>重要提示：请求有关 subreddit 规则和未来方向的评论。请阅读！</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</link>
-      <description><![CDATA[欢迎来到r/ArtificialIntelligence！&lt; /p&gt; 我们的目标是为所有与人工智能有关的事物提供一个开放且相互尊重的论坛 - 这包括  促进有关人工智能的哲学和伦理讨论 服务作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用 提供培训和学习资源&lt; /li&gt; 引导用户访问更具体的信息和子版块 列出 AI/ML 应用程序、其用途、成本和访问信息 其他与 AI 相关的内容。  li&gt; ...以及更多  该子项目的审核团队正在进行重组，这将导致该子项目发生一些变化。不过，不必担心，这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解情况并能够提供反馈，我们将提供多次反馈更改的机会。 第一轮反馈收集是通过此线程作为“Request-For-”评论” (RFC)，这是收集反馈的标准方法。随着变更的准备和实施，RFC 流程将进行多轮。 ​  发布新申请/自我推销/AI 生成的规则content  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似的内容将被阻止或限制在特定的粘帖中。 人工智能生成的特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的粘帖中。 博客链接应包含高质量的内容。链接到纯粹促销博客的帖子将被删除。 仅包含链接的帖子将被禁止，除非包含一定字数的详细信息。必须付出一些努力。 我们应该阻止人工智能撰写的帖子吗？存在可以在 Mod-bot 中使用的模型，但这是我们需要反馈的问题。  使用才华来组织帖子。请注意，已经添加了新的功能，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们会喜欢将社区纳入模组机器人的想法中。虽然一些标准机器人将用于基本维护，但社区可以为 AI/ML 机器人功能想出哪些有趣的东西？ 培养初级、中级和高级资源来帮助人们查找信息，他们正在寻找的培训、模型、技术数据等 启动子堆栈/播客来采访整个人工智能/机器学习领域的人们。这可能包括哲学家和思想家、程序员、科学家、商人，甚至是那些对人工智能持相反观点的人 如果您想创建代表子项目的横幅，请使用适当的尺寸。任何创作方式都可以。  不言而喻，每个人都应该受到尊重。我个人认为我们都知道这一点，不需要把它强加到人们的头脑中。保持友善。 感谢您的耐心和帮助！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
+      <description><![CDATA[欢迎来到r/ArtificialIntelligence！&lt; /p&gt; 我们的目标是为所有与人工智能有关的事物提供一个开放且相互尊重的论坛 - 这包括  促进有关人工智能的哲学和伦理讨论 服务作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用 提供培训和学习资源&lt; /li&gt; 引导用户访问更具体的信息和子版块 列出 AI/ML 应用程序、其用途、成本和访问信息 其他与 AI 相关的内容。  li&gt; ...以及更多  该子项目的审核团队正在进行重组，这将导致该子项目发生一些变化。不过，不必担心，这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解情况并能够提供反馈，我们将提供多次反馈更改的机会。 第一轮反馈收集是通过此线程作为“Request-For-”评论》 (RFC)，这是收集反馈的标准方法。随着变更的准备和实施，RFC 流程将进行多轮。 ​  发布新申请/自我推销/AI 生成的规则content  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似的内容将被阻止或限制在特定的粘帖中。 人工智能生成的特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的粘帖中。 博客链接应包含高质量的内容。链接到纯粹促销博客的帖子将被删除。 仅包含链接的帖子将被禁止，除非包含一定字数的详细信息。必须付出一些努力。 我们应该阻止人工智能撰写的帖子吗？存在可以在 Mod-bot 中使用的模型，但这是我们需要反馈的问题。  使用才华来组织帖子。请注意，已经添加了新的功能，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们会喜欢将社区纳入模组机器人的想法中。虽然一些标准机器人将用于基本维护，但社区可以为 AI/ML 机器人功能想出哪些有趣的东西？ 培养初级、中级和高级资源来帮助人们查找信息，他们正在寻找的培训、模型、技术数据等 启动子堆栈/播客来采访整个人工智能/机器学习领域的人们。这可能包括哲学家和思想家、程序员、科学家、商人，甚至是那些对人工智能持相反观点的人 如果您想创建代表子项目的横幅，请使用适当的尺寸。任何创作方式都可以。  不言而喻，每个人都应该受到尊重。我个人认为我们都知道这一点，不需要把它强加到人们的头脑中。保持友善。 感谢您的耐心和帮助！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</guid>
       <pubDate>Sun, 15 Jan 2023 20:24:42 GMT</pubDate>
     </item>
