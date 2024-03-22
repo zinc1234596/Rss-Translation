@@ -4,11 +4,18 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Fri, 22 Mar 2024 03:12:33 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 Mar 2024 06:14:39 GMT</lastBuildDate>
+    <item>
+      <title>利息问题 - MXF 转码 - Davinci Resolve to Avid Workflow</title>
+      <link>https://www.reddit.com/r/editors/comments/1bkr66c/interest_issue_mxf_transcodes_davinci_resolve_to/</link>
+      <description><![CDATA[您好， 底部的规格 我已经到目前为止，我的整个职业生涯一直在进行 Resolve to Avid 工作流程（转码）（5 年，AE/初级编辑）。  工作流程 -  我在解析中进行 1920x1080 转码 (MXF OP-Atom [DNxHR LB]) 我将它们吐出到 Avid MediaFiles / MXF Resolve 渲染完成后，我将该文件夹重命名为一个数字，然后返回 Avid 开始创建 .mdb 文件的索引进程 完成 .mdb 文件后，将其拖到 Avid 容器中，然后它会填充剪辑  &amp;# x200b; 问题 -   当我将 .mdb 文件拖入垃圾箱时。什么都没发生。它似乎被锁定，无法复制到垃圾箱。我以前从未发生过这种情况。这特别奇怪，因为它以前曾在这个系统上运行过。同一项目，我没有对 Avid 本身进行任何类型的升级。  ​ 快速说明 -   我之前遇到过一个问题，我无法删除垃圾箱中的任何内容或垃圾箱本身。我在网上发现这是一个权限问题，我必须以管理员身份运行 Avid。从技术上来说，这个问题在我这样做之后就开始了。我不明白为什么它会影响它。  （这是我遵循的过程的链接：https://wikis.utexas.edu/display/comm/AVID-How+to+Enable+Administrator+Permissions+in+ Windows+10 ) ​ 我知道这是一个相当小众的工作流程，因为当我向我展示它时，与我合作过的大多数 AE 都感到惊讶。因此，我向熟悉工作流程的任何人发出蝙蝠信号。我知道你在那里！ （旁注 - 任何阅读本文但不了解此工作流程的人，这是我的回应： https://youtube.com/shorts/YiJFqkVVq2g?si=vY2vOxtm2a_oJ7lp ) 我已经做了很多在网上搜索，我什么也没找到。在你问之前......是的，我已经重新启动了系统，甚至重新安装了 avid。  我已经做了一个解决方法，我只是创建了 Quicktime 转码并采用常规的 Avid 方式，所以这并不是一个可怕的情况。 Buuuut...我相信你们中的许多人也受到这个问题的困扰，我只需要知道解决方法。解决方法还不够。特别是因为这是一个经过考验的真实工作流程。 ​ 如果您有任何想法，请告诉我。  ​ ​ ​ 规格：&lt; /p&gt; 操作系统： Windows 10  媒体/项目存储： Samsung 2TB SSD（格式：ExFAT） ^ 媒体是从 Mac 复制的，因此是 ExFAT。这是我对可能导致该问题的唯一合理假设，因为我知道 ExFAT 有时可能很粗略。  AVID 版本： 2023.12.58093 CPU： Intel Core i5 - 12400F RAM： 16GB DDR4 GPU： 3060 ti Founders Edition  ​ 这是我的个人系统。我在工作计算机（后期设施）上从未遇到过这些问题。这些奇怪的计算机始终是我个人的，并且通常（至少对于离线编辑而言）比工作计算机更强大且更昂贵。  这里没有意义。只是您常用的快速后期制作发泄方式。  ​ ​   由   提交/u/burntbread___   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1bkr66c/interest_issue_mxf_transcodes_davinci_resolve_to/</guid>
+      <pubDate>Fri, 22 Mar 2024 04:44:47 GMT</pubDate>
+    </item>
     <item>
       <title>免费文件同步/Mac 问题</title>
       <link>https://www.reddit.com/r/editors/comments/1bkpddz/free_file_syncmac_question/</link>
-      <description><![CDATA[M3 pro 14&quot; MacBook Pro 36GB 统一内存 512GB 存储。 Sonoma 14.4 我有 2 个 2TB（T7 屏蔽）外部 SSD。 1 个正在工作，1 个作为第一个的备份/克隆。 我的工作驱动器已用完大约 800GB，我一直在使用免费文件同步（设置为更新同步，没有设置其他参数/​​过滤器）&lt; /p&gt; 但是今晚我的备份突然用完了 1.7TB。我删除了它并从我的工作驱动器中再次运行 FFS 更新同步，现在使用的数量更接近了。  然而，两者之间仍然存在大约 15GB 的差异（非工作/备份驱动器仍然有更多的使用量）。当我使用 FFS 检查文件以及文件模仿是什么时，它说需要更新 800gb（这不是真的）。​​ 我很困惑，不明白为什么我要更新在 finder、FFS 和我的手动检查上得到的答案截然不同。有人帮我吗？   由   提交 /u/snickerdoodledates   [链接] [评论]]]></description>
+      <description><![CDATA[M3 pro 14&quot; MacBook Pro 36GB 统一内存 512GB 存储。 Sonoma 14.4 在 FCP 10.7 中编辑 我有 2 个 2TB（T7 屏蔽）外部 SSD。 1 个正在工作，1 个作为第一个的备份/克隆。 我的工作驱动器已用完大约 800GB，我一直在使用免费文件同步（设置为更新同步，没有设置其他参数/​​过滤器）&lt; /p&gt; 但是今晚我的备份突然用完了 1.7TB。我删除了它并从我的工作驱动器中再次运行 FFS 更新同步，现在使用的数量更接近了。  然而，两者之间仍然存在大约 15GB 的差异（非工作/备份驱动器仍然有更多的使用量）。当我使用 FFS 检查文件以及文件模仿是什么时，它说需要更新 800gb（这不是真的）。​​ 我很困惑，不明白为什么我要更新在 finder、FFS 和我的手动检查上得到的答案截然不同。有人帮我吗？   由   提交 /u/snickerdoodledates   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1bkpddz/free_file_syncmac_question/</guid>
       <pubDate>Fri, 22 Mar 2024 03:04:20 GMT</pubDate>
     </item>
@@ -34,25 +41,11 @@
       <pubDate>Thu, 21 Mar 2024 22:01:21 GMT</pubDate>
     </item>
     <item>
-      <title>关于当前业务状况的更多坏消息</title>
-      <link>https://www.reddit.com/r/editors/comments/1bkelrw/more_bad_news_about_the_current_state_of_the/</link>
-      <description><![CDATA[https://deadline.com/2024/03/hollywood-contraction-unscripted-tv-business-crushing-grim-reality-1235863807/   由   提交/u/24framespersec   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1bkelrw/more_bad_news_about_the_current_state_of_the/</guid>
-      <pubDate>Thu, 21 Mar 2024 19:08:48 GMT</pubDate>
-    </item>
-    <item>
       <title>为什么我的镜头看起来像垃圾</title>
       <link>https://www.reddit.com/r/editors/comments/1bkednw/why_does_my_footage_look_like_crap/</link>
       <description><![CDATA[最近用我的 FX6 在 PGA 赛事中拍摄。那是一个寒冷多云的日子，但我认为我的色温和曝光设置正确。使用 SmallHD 显示器通过 Mark Bone 的 Canon Cinema LUT 进行预览。当我尝试编辑时，我的所有颜色要么浑浊，要么褪色。看起来我并没有曝光过度（尽管天空在镜头中被吹掉了）。任何有关下次如何拍摄或评分的建议将不胜感激。 TIA。 这是一些片段。 JPG ​ Final Cut Pro X 10.7.1 Sony FX-6 S-Log3 SmallHD 显示器 Mark Bone Cinema LUT Apple MacBook Pro M1 Sonoma 14.4 ​   由   提交 /u/bayoyong   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1bkednw/why_does_my_footage_look_like_crap/</guid>
       <pubDate>Thu, 21 Mar 2024 19:00:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>你知道你有麻烦了，当......</title>
-      <link>https://www.reddit.com/r/editors/comments/1bke1bw/you_know_you_in_trouble_when/</link>
-      <description><![CDATA[当客户推荐一首 Nickelback 歌曲进行编辑时，您知道自己遇到了麻烦   由   提交/u/24framespersec   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1bke1bw/you_know_you_in_trouble_when/</guid>
-      <pubDate>Thu, 21 Mar 2024 18:45:48 GMT</pubDate>
     </item>
     <item>
       <title>我们专业人士的定期 Mod 请求：请签到并向在“询问任何事情”和“职业”主题上发帖的人员提供建议。</title>
@@ -109,6 +102,13 @@
       <description><![CDATA[ 去年 12 月，我很高兴开始在一家西海岸公司工作，负责编辑长篇教育视频 - 他们相当有名，而且似乎严格业务行为规范。我的工作性质是承包商工作，但我是一名 W2 兼职员工（我猜，permalance）。  我与制片人保持着良好的关系，坚持我的标准，并且大多数时候都按时交付。然而，工作进展缓慢——我四处打听，听说公司优先聘用专职编辑，而我是其中的一名辅助编辑；该公司还将工作平均分配给自由职业者，这样每个人都高兴。  了解比赛的情况后，我突然感到压力很大。我开始付出 1.5 倍的努力，并尽力清晰地沟通。我什至向制片人询问反馈，首席制片人说她对我很满意，并且一直在四处传播，以便更多的制片人知道我的电话号码。二月份我确实从一位新制片人那里得到了一个项目。 (&lt;3)  但工作速度更加缓慢 - 我从 12 月的每周工作 4 天，变成了 3 月的每月 4 天……今天我收到一封电子邮件，通知我我我现在是 1099 非雇员......   我想在这家公司全职工作，即使每小时工资更少，因为必须在“空闲”、“”之间切换模式“创造性工作”和“面包工作”并没有真正帮助我的心理健康。我在网上查找并找到了不同的答案，我觉得这是寻求见解的更好地方。  我是否应该担心与制作人沟通我的需求和疑虑？  我应该如何提出“晋升”或其他任何要求？ 作为企业文化的新手，我应该联系人力资源部门而不是生产商吗？  “permalance”、“full-time”、“part-time”、“freelance”是什么意思？真正的意思是??    由   提交 /u/freduwuwu   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1bjxpgg/would_it_be_appropriatebeneficial_to_ask_for_a/</guid>
       <pubDate>Thu, 21 Mar 2024 04:03:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何编辑采访以使其自然且具有相关性？</title>
+      <link>https://www.reddit.com/r/editors/comments/1bjrhe4/how_to_edit_interviews_to_keep_them_natural_and/</link>
+      <description><![CDATA[大家好！ 我收到了制作人的反馈，要求我添加笑声、微笑等时刻，尤其是在一开始，是为了让我的采访感觉更具有相关性。  有时我太关注叙事节拍/采访可能会感觉有点僵硬。  是否有人有随时剪辑采访的技巧，让他们感觉自然，但仍保留叙述？ 非常感谢您的见解！ &lt; !-- SC_ON --&gt;  由   提交 /u/indymoguler   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1bjrhe4/how_to_edit_interviews_to_keep_them_natural_and/</guid>
+      <pubDate>Wed, 20 Mar 2024 23:10:58 GMT</pubDate>
     </item>
     </channel>
 </rss>

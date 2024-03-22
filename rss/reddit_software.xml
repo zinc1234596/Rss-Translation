@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Fri, 22 Mar 2024 03:12:38 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 Mar 2024 06:14:45 GMT</lastBuildDate>
+    <item>
+      <title>Mega easy DAW，即跨平台？</title>
+      <link>https://www.reddit.com/r/software/comments/1bksf5e/mega_easy_daw_that_is_cross_platform/</link>
+      <description><![CDATA[我需要 Mac 和 Windows 上的 DAW。我需要它非常易于使用。我对水果循环软件感到完全不知所措。真的只在 Vegas Pro 中编辑过我的音频。我在几个项目中使用过车库乐队。但我希望不同操作系统的计算机之间有一个一致的工作流程。主要是我只需要一个具有多种音频效果的多轨编辑器，这些编辑器组织整齐，而且看起来不像百科全书中的术语表。我不在乎是否必须购买一个，只要它简单并且在两个系统上都可以。   由   提交/u/SolidIcecube  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1bksf5e/mega_easy_daw_that_is_cross_platform/</guid>
+      <pubDate>Fri, 22 Mar 2024 06:08:10 GMT</pubDate>
+    </item>
     <item>
       <title>Mosbys 护理助理必备知识第四版 CD</title>
       <link>https://www.reddit.com/r/software/comments/1bkp054/mosbys_essentials_for_nursing_assistants_4th/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[嗨/r/software！&lt; /p&gt; 我正在努力帮助我们公司将手动簿记流程转变为更加自动化且不易出错的流程。以下是我希望放入软件解决方案中的逻辑的概括。 我们通过各种第三方销售产品。每个第三方经销商都有自己的 IF/THEN 之类的逻辑来影响价格。示例： 如果 reseller_1 的买家收入 &gt; X 和产品 A THEN $A IF 经销商_1 的买家收入 &gt; Y 和产品 A THEN $B 如果来自 reseller_2 的买家的员工人数 &gt; Y 并购买产品&gt; 1 THEN $A IF 经销商_2 的买家的员工人数 &gt; Z 并购买产品 = 1 THEN $C 您知道有任何类型的软件可以支持构建此产品和经销商逻辑吗？目前，这一切都是电子表格中的手动操作。发票并不重要，重要的是报告（或者通过 Tableau 访问后端来创建我们自己的报告）。 感谢您的帮助！ &lt;!-- SC_ON - -&gt;  由   提交/u/rigamaroo138  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1bk95cu/billing_and_crm_system_with_custom_logic_for/</guid>
       <pubDate>Thu, 21 Mar 2024 15:24:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>Alt Photoshop，我忘记名字了</title>
-      <link>https://www.reddit.com/r/software/comments/1bk79m1/alt_photoshop_that_i_forget_the_name/</link>
-      <description><![CDATA[因此，一旦在旧的 reddit 帖子上发现了这个，这是某人制作并在 Reddit 上共享的替代 Photoshop，它是基于网络的，而且实际上是免费的。无需下载、安装，只需点击网站、登录即可使用。这正是我现在需要的，但忘记了该网站的名称。有人知道吗？   由   提交 /u/UOSenki   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1bk79m1/alt_photoshop_that_i_forget_the_name/</guid>
-      <pubDate>Thu, 21 Mar 2024 14:02:59 GMT</pubDate>
     </item>
     </channel>
 </rss>

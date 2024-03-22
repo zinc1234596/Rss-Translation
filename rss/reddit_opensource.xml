@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 22 Mar 2024 03:13:07 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 Mar 2024 06:15:17 GMT</lastBuildDate>
+    <item>
+      <title>R2R - 一个开源平台，使开发人员能够构建最好的 RAG 系统。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1bkq6cj/r2r_an_open_source_platform_that_enables/</link>
+      <description><![CDATA[大家好， TL;DR: Owen 与 SciPhi 一起，SciPhi 是一个 云平台，简化了生产就绪检索的部署和优化-面向开发人员的增强生成 (RAG) 管道。构建于强大开源 R2R 框架，SciPhi 使构建者能够专注于创建创新应用程序，而不是管理基础设施。 我今天刚刚推出了我们的云产品，我正在寻找高度相关的 subreddits 来发布它。它由我们用于部署生产就绪 RAG 的开源框架提供支持。如果您一直在寻找一种简单有效的方法来部署构造良好的 RAG 管道，那么这就是它。 我真的希望你们中的一些人都有机会检查一下并让我知道您的想法 - 我很高兴能分享我们一直在努力的事情。   由   提交/u/docsoc1  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1bkq6cj/r2r_an_open_source_platform_that_enables/</guid>
+      <pubDate>Fri, 22 Mar 2024 03:47:50 GMT</pubDate>
+    </item>
     <item>
       <title>感觉我开发开源软件的进度很慢，但是很稳定。你如何保持动力？</title>
       <link>https://www.reddit.com/r/opensource/comments/1bkh0sf/feeling_my_progress_at_developing_open_source/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[   /u/iByteABit   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1bj8kae/tic_tac_toes_a_three_dimensional_tic_tac_toe_game/</guid>
       <pubDate>Wed, 20 Mar 2024 08:24:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>类似于 Autodesk ImageModeler 的图像匹配软件？ （不包括 Fspy）</title>
-      <link>https://www.reddit.com/r/opensource/comments/1bj4rpy/image_matching_software_simmilar_to_autodesk/</link>
-      <description><![CDATA[大多数优秀的汽车 3D 建模教程都使用 ImageModeler。但该软件已经有十年历史了，Autodesk 不再提供任何下载，而且互联网上所有破解的 Autodesk ImageModeler 应用程序似乎都太粗略了。  有 Fspy，但它不支持多图像匹配，而 autodesk 可以做到这一点。有人有建议吗？    由   提交/u/Theon01678   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1bj4rpy/image_matching_software_simmilar_to_autodesk/</guid>
-      <pubDate>Wed, 20 Mar 2024 04:08:23 GMT</pubDate>
     </item>
     </channel>
 </rss>
