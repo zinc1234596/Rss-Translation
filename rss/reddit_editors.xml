@@ -4,7 +4,14 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Fri, 22 Mar 2024 06:14:39 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 Mar 2024 09:13:27 GMT</lastBuildDate>
+    <item>
+      <title>Silverstack 中的转码代理</title>
+      <link>https://www.reddit.com/r/editors/comments/1bkucad/transcode_proxy_in_silverstack/</link>
+      <description><![CDATA[大家好， 我即将开展一项 DIT 工作，需要我在现场进行转码和同步编辑代理。编辑说，他希望仍然保留所有音轨名称，因此Resolve代理工作流程将无法工作，因为Resolve将覆盖音轨名称并将其替换为相机文件名。  我之前使用过Silverstack，我能够在其中同步和转码代理，并且代理的音轨仍然具有原始音轨名称。然而，今天测试后发现，转码剪辑的音轨名称被相机文件名覆盖。因此，我想知道是否应该在 Silverstack 中调整一个设置来保留音轨名称？ 或者，是否有其他软件可以用来转码和同步音频，但仍保留音频曲目名称。 提前谢谢您！    由   提交 /u/Ototoman   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1bkucad/transcode_proxy_in_silverstack/</guid>
+      <pubDate>Fri, 22 Mar 2024 08:28:14 GMT</pubDate>
+    </item>
     <item>
       <title>利息问题 - MXF 转码 - Davinci Resolve to Avid Workflow</title>
       <link>https://www.reddit.com/r/editors/comments/1bkr66c/interest_issue_mxf_transcodes_davinci_resolve_to/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[ 去年 12 月，我很高兴开始在一家西海岸公司工作，负责编辑长篇教育视频 - 他们相当有名，而且似乎严格业务行为规范。我的工作性质是承包商工作，但我是一名 W2 兼职员工（我猜，permalance）。  我与制片人保持着良好的关系，坚持我的标准，并且大多数时候都按时交付。然而，工作进展缓慢——我四处打听，听说公司优先聘用专职编辑，而我是其中的一名辅助编辑；该公司还将工作平均分配给自由职业者，这样每个人都高兴。  了解比赛的情况后，我突然感到压力很大。我开始付出 1.5 倍的努力，并尽力清晰地沟通。我什至向制片人询问反馈，首席制片人说她对我很满意，并且一直在四处传播，以便更多的制片人知道我的电话号码。二月份我确实从一位新制片人那里得到了一个项目。 (&lt;3)  但工作速度更加缓慢 - 我从 12 月的每周工作 4 天，变成了 3 月的每月 4 天……今天我收到一封电子邮件，通知我我我现在是 1099 非雇员......   我想在这家公司全职工作，即使每小时工资更少，因为必须在“空闲”、“”之间切换模式“创造性工作”和“面包工作”并没有真正帮助我的心理健康。我在网上查找并找到了不同的答案，我觉得这是寻求见解的更好地方。  我是否应该担心与制作人沟通我的需求和疑虑？  我应该如何提出“晋升”或其他任何要求？ 作为企业文化的新手，我应该联系人力资源部门而不是生产商吗？  “permalance”、“full-time”、“part-time”、“freelance”是什么意思？真正的意思是??    由   提交 /u/freduwuwu   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1bjxpgg/would_it_be_appropriatebeneficial_to_ask_for_a/</guid>
       <pubDate>Thu, 21 Mar 2024 04:03:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何编辑采访以使其自然且具有相关性？</title>
-      <link>https://www.reddit.com/r/editors/comments/1bjrhe4/how_to_edit_interviews_to_keep_them_natural_and/</link>
-      <description><![CDATA[大家好！ 我收到了制作人的反馈，要求我添加笑声、微笑等时刻，尤其是在一开始，是为了让我的采访感觉更具有相关性。  有时我太关注叙事节拍/采访可能会感觉有点僵硬。  是否有人有随时剪辑采访的技巧，让他们感觉自然，但仍保留叙述？ 非常感谢您的见解！ &lt; !-- SC_ON --&gt;  由   提交 /u/indymoguler   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1bjrhe4/how_to_edit_interviews_to_keep_them_natural_and/</guid>
-      <pubDate>Wed, 20 Mar 2024 23:10:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
