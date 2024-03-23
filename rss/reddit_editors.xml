@@ -4,7 +4,14 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Sat, 23 Mar 2024 03:13:54 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 23 Mar 2024 06:18:14 GMT</lastBuildDate>
+    <item>
+      <title>为什么编辑会失败或退出？</title>
+      <link>https://www.reddit.com/r/editors/comments/1blkmel/why_editors_fail_or_quit/</link>
+      <description><![CDATA[如果你想在这个领域生存下去，哪些事情不能做？   由   提交/u/True-End-2680   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1blkmel/why_editors_fail_or_quit/</guid>
+      <pubDate>Sat, 23 Mar 2024 05:25:33 GMT</pubDate>
+    </item>
     <item>
       <title>有小孩的编辑 - 您如何安排日程？</title>
       <link>https://www.reddit.com/r/editors/comments/1blfwoy/editors_who_have_toddlers_how_do_you_manage_your/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[有人有从后期制作角色过渡到制作角色的经验吗？或任何有关最佳方法的提示。我目前是一名自由编辑，但我也有相当多的拍摄经验，因为我是在那个时候开始进入这个行业的，每个人都必须对一切都有所了解。坦率地说，剪辑在英国被严重低估，无论是在经济上还是在人们的认知方面（尽管我进入它是因为它可能是创作电影和电影中最重要的方面之一）媒体）给那些显然知道自己在做什么的人。现在每个拥有计算机的人都是“编辑”，这一点尤其正确。  我已经拥有自己的相机装备（佳能 C70 - 目前非常流行的文档相机，这也是我所使用的 - 麦克风、三脚架等），并且正在考虑尝试将更多精力转移到拍摄上。  任何提示都会很棒。   由   提交/u/-SidSilver-  /u/-SidSilver- reddit.com/r/editors/comments/1bkxidl/transitioning_from_post_to_Production_uk/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1bkxidl/transitioning_from_post_to_production_uk/</guid>
       <pubDate>Fri, 22 Mar 2024 11:58:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>Silverstack 中的转码代理</title>
-      <link>https://www.reddit.com/r/editors/comments/1bkucad/transcode_proxy_in_silverstack/</link>
-      <description><![CDATA[大家好， 我即将开展一项 DIT 工作，需要我在现场进行转码和同步编辑代理。编辑说，他希望仍然保留所有音轨名称，因此Resolve代理工作流程将无法工作，因为Resolve将覆盖音轨名称并将其替换为相机文件名。  我之前使用过Silverstack，我能够在其中同步和转码代理，并且代理的音轨仍然具有原始音轨名称。然而，今天测试后发现，转码剪辑的音轨名称被相机文件名覆盖。因此，我想知道是否应该在 Silverstack 中调整一个设置来保留音轨名称？ 或者，是否有其他软件可以用来转码和同步音频，但仍保留音频曲目名称。 提前谢谢您！    由   提交 /u/Ototoman   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1bkucad/transcode_proxy_in_silverstack/</guid>
-      <pubDate>Fri, 22 Mar 2024 08:28:14 GMT</pubDate>
     </item>
     </channel>
 </rss>

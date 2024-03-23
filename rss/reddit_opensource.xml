@@ -4,7 +4,7 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 23 Mar 2024 03:14:37 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 23 Mar 2024 06:18:50 GMT</lastBuildDate>
     <item>
       <title>使用本地 API 的 GUI 有声读物/TTS 生成器（基于 XTTS）</title>
       <link>https://www.reddit.com/r/opensource/comments/1blg1f7/a_gui_audiobook_tts_generator_working_with_local/</link>
@@ -78,7 +78,7 @@
     <item>
       <title>开源 PDF 编辑器 Redux？</title>
       <link>https://www.reddit.com/r/opensource/comments/1bke33a/opensource_pdf_editor_redux/</link>
-      <description><![CDATA[做了一些研究（google-fu）并发现了这个 subreddit 和这篇文章： https://www.reddit.com/r/opensource/comments/dej32w/opensource_pdf_viewer_and_editor/ 现在，该帖子截至 /this/ 帖子已有 4 年历史，我想知道是否有人拥有他们所了解的最新工具，或者旧工具是否没有更新等等。我不想破坏旧帖子，也想根据我想要编辑的内容重新提出问题。 我从 Bitsavers 的大量扫描中发现了一份 PDF 文档。 - 在数据表/数据簿库中。 https://archive.org/details/bitsavers_necdatabooterCatalog_23751145 但是......所说的文件相当......荒谬。该文档的大部分内容都严重混乱。例如，它从文档第 236 页，到 239、240，然后到第 399 页，直到至少 407 页...非常混乱。 （编辑到上面，结果是跳转到第 399 页是因为我打印了数据表的几个不同小节，/BUT/ 数据表的 /ARE/ 部分不合适，正如我在上述特定 archive.org页面，数据页237/238位于pdf页358-359） 所以我想要什么尝试做的是重新排序文档中的页面，然后尝试将文档重新提交回互联网档案馆？或者至少上传一个固定且按页面顺序排列的版本，以便人们可以打印出他们想要的数据表，而不必到处搜索相关页面？ 所以我想要使用的软件将在至少能够在略多于 400 页的文档（准确地说是 418 页）中重新排序页面 ​ 任何帮助将不胜感激。 &lt; /div&gt;  由   提交 /u/dracosilv   [链接] [评论]]]></description>
+      <description><![CDATA[做了一些研究（google-fu）并发现了这个 subreddit 和这篇文章： https://www.reddit.com/r/opensource/comments/dej32w/opensource_pdf_viewer_and_editor/ 现在，该帖子截至 /this/ 帖子已有 4 年历史，我想知道是否有人拥有他们所了解的最新工具，或者旧工具是否没有更新等等。我不想破坏旧帖子，也想根据我想要编辑的内容重新提出问题。 我从 Bitsavers 的大量扫描中发现了一份 PDF 文档。 - 在数据表/数据簿库中。 https://archive.org/details/bitsavers_necdatabooterCatalog_23751145 但是......所说的文件相当......荒谬。该文档的大部分内容都严重混乱。例如，它从文档第 236 页，到 239、240，然后到第 399 页，直到至少 407 页...非常混乱。 （编辑以上内容，结果是跳转到第 399 页是因为我打印了数据表的几个不同小节，/BUT/ 数据表的 /ARE/ 部分不合适，正如我在上述特定 archive.org页面，数据页237/238位于pdf页358-359） 所以我想要什么尝试做的是重新排序文档中的页面，然后尝试将文档重新提交回互联网档案馆？或者至少上传一个固定且按页面顺序排列的版本，以便人们可以打印出他们想要的数据表，而不必到处搜索相关页面？ 所以我想要使用的软件将在至少能够在略多于 400 页的文档（准确地说是 418 页）中重新排序页面 ​ 任何帮助将不胜感激。 &lt; /div&gt;  由   提交 /u/dracosilv   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1bke33a/opensource_pdf_editor_redux/</guid>
       <pubDate>Thu, 21 Mar 2024 18:47:50 GMT</pubDate>
     </item>
@@ -104,11 +104,11 @@
       <pubDate>Thu, 21 Mar 2024 07:42:28 GMT</pubDate>
     </item>
     <item>
-      <title>Redis 采用双源可用许可 |雷迪斯</title>
-      <link>https://www.reddit.com/r/opensource/comments/1bjx7fk/redis_adopts_dual_sourceavailable_licensing_redis/</link>
-      <description><![CDATA[       由   提交 /u/rnmkrmn   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1bjx7fk/redis_adopts_dual_sourceavailable_licensing_redis/</guid>
-      <pubDate>Thu, 21 Mar 2024 03:37:21 GMT</pubDate>
+      <title>推荐开源会计和税务软件？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1bjwc4a/recommend_opensource_accounting_tax_software/</link>
+      <description><![CDATA[嗨！ 有人能为小型企业（公司）推荐一款像样的开源/Linux 会计软件吗？可以是本地/基于云的。似乎大多数开源会计软件都缺乏税务报告和强大的工资单。主要需求是：  不同项目的时间跟踪功能 工资功能 直接存款可选，不是必需的 &lt; /li&gt; 不同项目的费用跟踪 税务报告（吐出 940/941/1120s 等表格，无需我手动填写这些表格） 能够生成财务报表（损益表、资产负债表、现金流量表） 能够生成通用文件格式，以便将来导入到其他软件中，例如 QB  我简要地了解了但乍一看似乎都不符合标准：Frappe、GnuCash、OpenMiracle、LedgerSMB、GNUHata、iDempiere、Apache OFBiz、Akaunting、GoDBLedger 谢谢！   由   提交/u/_lOOOl_   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1bjwc4a/recommend_opensource_accounting_tax_software/</guid>
+      <pubDate>Thu, 21 Mar 2024 02:53:10 GMT</pubDate>
     </item>
     </channel>
 </rss>

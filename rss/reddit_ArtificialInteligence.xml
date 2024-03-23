@@ -4,7 +4,21 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sat, 23 Mar 2024 03:12:58 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 23 Mar 2024 06:17:33 GMT</lastBuildDate>
+    <item>
+      <title>将大型数据集分成各个域的最有效方法是什么？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bljpub/what_are_the_most_efficient_methods_for/</link>
+      <description><![CDATA[我刚刚完成第一组模型的训练。它们相对较小，只有 30m 参数，因为我正在使用本地资源（即家庭服务器）进行学习/练习。 我想开始更好地理解知识蒸馏......采用更大的模型并用它来训练较小的模型。但我想让较小的模型特定于领域。 我希望建立几个特定于领域的模型，然后想尝试 devtan 算法，该算法将更多/更少地绘制激活路径，以便我可以（希望）合并特定领域的模型。 简而言之，我开发了一个“大型”模型。模型，想要将其提炼成各个领域特定的“小”模型模型，然后开发一种算法将小模型合并为更高效的大型模型... 如果我能让它按照我想要的方式工作，我想扩展并开始租用服务器空间开发一个更大的模型..但在我整理了一些基础知识之前也不想浪费钱。 那么...将较大的数据集分离为特定于领域的集合的有效方法是什么?   由   提交 /u/IWantAGI   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bljpub/what_are_the_most_efficient_methods_for/</guid>
+      <pubDate>Sat, 23 Mar 2024 04:32:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>每日一分钟人工智能新闻 3/22/2024</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1blj8t5/oneminute_daily_ai_news_3222024/</link>
+      <description><![CDATA[ Nvidia 宣布人工智能驱动的医疗保健“代理”性能优于护士 - 每小时费用为 9 美元。[ 1] Unitree H1 是第一个在没有液压系统的情况下完成后空翻的人形机器人。[2] Apple 考虑添加  &gt;百度 GenAI 在中国的设备。[3] 联合国通过了第一个关于人工智能的全球决议。[4] &lt; p&gt;来源包含在：https://bushaicave.com/2024/03/22/3-22 -2024/    由   提交 /u/Excellent-Target-847   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1blj8t5/oneminute_daily_ai_news_3222024/</guid>
+      <pubDate>Sat, 23 Mar 2024 04:05:52 GMT</pubDate>
+    </item>
     <item>
       <title>AI证明学位？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1blfuoc/ai_proof_degrees/</link>
@@ -55,13 +69,6 @@
       <pubDate>Fri, 22 Mar 2024 19:28:00 GMT</pubDate>
     </item>
     <item>
-      <title>最适合语音到语音实时翻译的 GPU？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bl75wc/best_gpu_for_speech_to_speech_real_time_traslation/</link>
-      <description><![CDATA[近年来，我们越来越多的电视剧由自己的演员自己配音，而且质量非常好，具有自然的环境声音，所以，我的问题是：3090 还是 4090 GPU 是本地运行 Seamless4mt 流媒体的最佳选择？   由   提交 /u/Visible-Employment43    reddit.com/r/ArtificialInteligence/comments/1bl75wc/best_gpu_for_speech_to_speech_real_time_traslation/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bl75wc/best_gpu_for_speech_to_speech_real_time_traslation/</guid>
-      <pubDate>Fri, 22 Mar 2024 19:02:44 GMT</pubDate>
-    </item>
-    <item>
       <title>以下是该领域一些有趣的新闻创意</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bl5zpf/heres_some_interesting_news_ideas_in_the_field/</link>
       <description><![CDATA[所以对我上一篇文章的反应无处不在。说实话——我本可以用更有建设性的措辞来表达这篇文章。为此，我在《科学美国人》上发表了一篇有趣的文章，介绍了如何实现通用人工智能的新想法，以及随之而来的对我们大脑的洞察。 https://www.scientificamerican.com/article/what-the -quest-to-build-a-truly-intelligent-machine-is-teaching-us/   由   提交/u/1protobeing1  [链接] [评论]]]></description>
@@ -69,18 +76,11 @@
       <pubDate>Fri, 22 Mar 2024 18:15:00 GMT</pubDate>
     </item>
     <item>
-      <title>每日两分钟 AI 更新 (03/22/2024)：来自 Nvidia、QuietSTaR、Neuralink、Microsoft、Rightsify 和 OpenInterpreter 的新闻</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bl58lr/twominute_daily_ai_update_03222024_news_from/</link>
-      <description><![CDATA[继续分享人工智能领域当天主要更新的易于理解且较小的版本。   NVIDIA 通过 Latte3D 彻底改变了 3D 模型生成 - NVIDIA 的 AI 支持的 Latte3D 可在不到一秒的时间内将文本提示转换为详细的 3D 模型。该模型有两个阶段，使用摊销优化来维持快速生成。 Latte3D 的预训练阶段使模型能够快速适应新任务，并通过严格的训练机制（包括 3D 数据集和来自 ChatGPT 的提示）实现效率。 Quiet-STaR：LM 可以自我训练思考在回复之前 - 研究表明，借助 Quiet STaR 训练方法，大型语言模型可以在没有特定任务的情况下从文本中进行推理。引入元标记提高了模型预测困难标记的能力，从而导致更长的思考和语言模型训练的其他进步。 Neuralink 的第一个大脑芯片患者用他的思想下棋 - 埃隆·马斯克 (Elon Musk) 的大脑芯片初创公司 Neuralink 展示了其第一位大脑芯片患者诺兰·阿博 (Noland Arbaugh)，他仅用意念下棋。植入技术使瘫痪患者能够通过意念控制外部设备，以新的独立性彻底改变他们的生活。 微软推出了新的 Copilot，以提高工作效率 - Microsoft 适用于 Windows 和 Surface 设备的全新 Copilot 是一款功能强大的生产力工具，将大型语言模型与 Microsoft Graph 和 Microsoft 365 应用集成，以提高工作效率。 Microsoft 致力于为用户提供创新工具，以便他们在不断变化的工作环境中蓬勃发展。  沙特阿拉伯将在人工智能领域投资 400 亿美元 - 沙特阿拉伯宣布计划在人工智能领域投资 400 亿美元，以成为全球领先者。中东国家利用其资产超过9000亿美元的主权财富基金来实现这一目标。这项投资旨在使该国处于快速发展的人工智能领域的前沿，推动创新并促进经济增长。 Rightsify 发布 Hydra II 以彻底改变人工智能音乐一代&lt; br /&gt; - 全球音乐授权领导者Rightsify推出最新AI生成模型Hydra II。 Hydra II 提供超过 800 种乐器、50 种语言以及用于可定制、无版权的 AI 音乐的编辑工具。该模型接受音频、文本描述、MIDI、和弦进行、乐谱和主干的训练，以创建独特的生成。  Open Interpreter 的 01 Light 个人袖珍人工智能代理 - Open Interpreter 推出了 01 Light，这是一款便携式设备，可让您使用自然语言命令控制计算机。它是开源项目的一部分，旨在使计算变得更加容易访问和灵活。它旨在让您的在线任务更易于管理，帮助您完成更多工作并简化您的生活。 微软 6.5 亿美元的拐点交易：收购 AI 人才的战略举措 - 微软最近与人工智能初创公司 Inflection 达成一项重大协议，涉及支付 6.5 亿美元现金。虽然这笔交易看起来像是一份许可协议，但它似乎是微软的一项战略举措，旨在收购人工智能人才，同时避免潜在的监管问题。  这些新闻和创新的更详细分类请参阅每日新闻。   由   提交 /u/RohitAkki   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bl58lr/twominute_daily_ai_update_03222024_news_from/</guid>
-      <pubDate>Fri, 22 Mar 2024 17:43:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>ChatGPT 在涉及民权作者时似乎存在记忆漏洞。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bl4bkb/chatgpt_seems_to_have_a_memory_hole_when_it_comes/</link>
-      <description><![CDATA[我的孩子正在写一篇论文，并试图与 ChatGPT 就民权时代的各个作者进行集思广益。 您可以复制如果您尝试讨论“Shaker，你为什么不唱歌？”作者：Maya Angelou 的   提示：谁写了“Shaker，你为什么不唱歌？”  ChatGPT：“Shaker，你为什么不唱歌？”是非裔美国作家托妮·莫里森创作的小说。   [新聊天会话]  提示：谁写了“Shaker，你为什么不唱歌？”  ChatGPT：“Shaker，你为什么不唱歌？”是美国作家多丽丝·贝茨创作的小说。它于 1983 年出版。    [摘自较长的聊天会话]  提示：“Shaker，你为什么不唱歌？”作者：Maya  ChatGPT： 很抱歉，但似乎有些混乱。 “Shaker，你为什么不唱歌？”不是玛雅·安杰卢的作品……但是，“Shaker，你为什么不唱歌？”是玛丽·戈登写的小说。     由   提交/u/Appropriate_Ant_4629   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bl4bkb/chatgpt_seems_to_have_a_memory_hole_when_it_comes/</guid>
-      <pubDate>Fri, 22 Mar 2024 17:05:48 GMT</pubDate>
+      <title>MS Copilot 已经绝望了吗？我应该用什么来代替？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bl5p6m/is_ms_copilot_hopeless_what_should_i_use_instead/</link>
+      <description><![CDATA[我刚刚注册在 MS Office 应用程序中使用 Copilot Pro。太失望了。它创建了超级基本的 PowerPoint 演示文稿，但似乎无法对其进行修改。文本是通用的华夫饼，用美国英语编写（尽管多次尝试将其默认为英国英语）。我要求它写一封电子邮件，它编造了一些从未发生过的事情的内容。它无法正确分析 Excel 表格......浪费时间还是值得坚持？   由   提交/u/Pepperminto1  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bl5p6m/is_ms_copilot_hopeless_what_should_i_use_instead/</guid>
+      <pubDate>Fri, 22 Mar 2024 18:02:42 GMT</pubDate>
     </item>
     <item>
       <title>催产素受体基因改造注射将如何增强人类道德行为。人工智能如何认真推进并快速推进研究。</title>
