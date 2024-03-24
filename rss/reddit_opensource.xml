@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 24 Mar 2024 03:11:58 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 Mar 2024 06:13:55 GMT</lastBuildDate>
+    <item>
+      <title>请说出一些适用于 Windows 和 Linux 的开源视频播放器。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1bmc45g/please_name_some_open_source_video_player_for/</link>
+      <description><![CDATA[玩家不需要跨平台。我正在寻找适用于两个平台的优秀视频播放器，它可能不是同一个应用程序。例如，对于Linux，有MPV，对于Windows，有MPC-HC，我对这两个有问题，所以我需要更改。另外，VLC 在我的两个操作系统上都存在问题，因此请建议我使用 VLC、MPV 和 MPC-HC 以外的其他操作系统。   由   提交​​ /u/LivingGraveGround   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1bmc45g/please_name_some_open_source_video_player_for/</guid>
+      <pubDate>Sun, 24 Mar 2024 04:20:16 GMT</pubDate>
+    </item>
     <item>
       <title>语义版本 GitHub 操作</title>
       <link>https://www.reddit.com/r/opensource/comments/1bm8qzg/semantic_version_github_action/</link>
@@ -92,7 +99,7 @@
     <item>
       <title>Burr：构建有状态人工智能应用程序的新框架</title>
       <link>https://www.reddit.com/r/opensource/comments/1bl43sp/burr_a_new_framework_for_building_stateful_ai/</link>
-      <description><![CDATA[大家好！想分享我一直在做的事情——寻找我们可以支持的反馈/评论/贡献/新用户。  github.com/dagworks-inc/burr  如果您愿意视频概述而不是文本，我的合著者在这里浏览它：https： //www.loom.com/share/a10f163428b942fea55db1a84b1140d8?sid=1512863b-f533-4a42-a2f3-95b13deb07c9。我们还有一篇博文对此进行了很好的总结：https://blog.dagworks.io /p/burr-develop-stateful-ai-applications。  我们试图解决的问题是大多数人工智能代理/聊天机器人框架过于关注“魔法”。 -- 例如以一种创建引人注目的演示的方式将 LLM 调用连接在一起，但在生产中绝对是一团糟。  当我开发时，我真的希望完全控制代码（或委托给我选择的框架），并了解应用程序中随时发生的所有情况。经过一些尝试/错误，我们提出了状态机的基本抽象。对于软件工程来说，这并不是什么新鲜事（前端/游戏/等等……一直在使用这种模型），但我认为人们才刚刚开始更严格地思考人工智能应用程序，并将开始抛弃复杂的框架。那些启用可见性/调试的。 Burr 通过定义“操作”来工作。作为从状态读取/写入的Python函数，然后在应用程序中将它们连接在一起。它配备了遥测 UI + 大量集成/功能。它使您能够跟踪状态、调试状态更改并从任意点重新加载，以确定您的应用程序为何做出该决定。 有趣的是，我们认为该模型比人工智能应用程序更有价值。例如，机器学习训练例程和模拟都可以很好地表示为状态机。  寻找：  反馈——这个问题有意义/真实吗？关于存储库/交付我们可以改进的任何方面。 用户 - 如果您在生产中使用 LLM（或任何需要状态的东西）进行构建并发现这很有趣，我们很乐意进行自定义入门。请给我写信！ 贡献者 - 我们收集了一些很好的第一期，并且有很多集成功能需要构建，所有这些都来自 Python API -&gt; FE，如果您有兴趣，请联系    由   提交 /u/benizzy1   [链接] [评论]]]></description>
+      <description><![CDATA[大家好！想分享我一直在做的事情——寻找我们可以支持的反馈/评论/贡献/新用户。  github.com/dagworks-inc/burr  如果您愿意视频概述而不是文本，我的合著者在这里浏览它： https： //www.loom.com/share/a10f163428b942fea55db1a84b1140d8?sid=1512863b-f533-4a42-a2f3-95b13deb07c9。我们还有一篇博文对此进行了很好的总结：https://blog.dagworks.io /p/burr-develop-stateful-ai-applications。  我们试图解决的问题是大多数人工智能代理/聊天机器人框架过于关注“魔法”。 -- 例如以一种创建引人注目的演示的方式将 LLM 调用连接在一起，但在生产中绝对是一团糟。  当我开发时，我真的希望完全控制代码（或委托给我选择的框架），并了解应用程序中随时发生的所有情况。经过一些尝试/错误，我们提出了状态机的基本抽象。对于软件工程来说，这并不是什么新鲜事（前端/游戏/等等......一直在使用这种模型），但我认为人们才刚刚开始更严格地思考人工智能应用程序，并将开始抛弃复杂的框架，转而使用那些启用可见性/调试的。 Burr 通过定义“操作”来工作。作为从状态读取/写入的Python函数，然后在应用程序中将它们连接在一起。它配备了遥测 UI + 大量集成/功能。它使您能够跟踪状态、调试状态更改并从任意点重新加载，以确定您的应用程序为何做出该决定。 有趣的是，我们认为该模型比人工智能应用程序更有价值。例如，机器学习训练例程和模拟都可以很好地表示为状态机。  寻找：  反馈——这个问题有意义/真实吗？关于存储库/交付我们可以改进的任何方面。 用户 - 如果您在生产中使用 LLM（或任何需要状态的东西）进行构建并发现这很有趣，我们很乐意进行自定义入门。请给我写信！ 贡献者 - 我们收集了一些很好的第一期，并且有很多集成功能需要构建，所有这些都来自 Python API -&gt; FE，如果您有兴趣，请联系    由   提交 /u/benizzy1   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1bl43sp/burr_a_new_framework_for_building_stateful_ai/</guid>
       <pubDate>Fri, 22 Mar 2024 16:57:09 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[   /u/Haarolean  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1bkzmjg/kafbat_ui_for_apache_kafka_v10_is_out/</guid>
       <pubDate>Fri, 22 Mar 2024 13:46:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有一个平台可以请求开发开源插件？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1bkvcgl/is_there_a_platform_to_request_opensource_plugins/</link>
-      <description><![CDATA[ 由   提交/u/gilzonme  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1bkvcgl/is_there_a_platform_to_request_opensource_plugins/</guid>
-      <pubDate>Fri, 22 Mar 2024 09:42:14 GMT</pubDate>
     </item>
     </channel>
 </rss>

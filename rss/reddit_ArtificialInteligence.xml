@@ -4,7 +4,21 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sun, 24 Mar 2024 03:11:06 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 Mar 2024 06:12:55 GMT</lastBuildDate>
+    <item>
+      <title>反人工智能运动</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bmddbk/anti_ai_movement/</link>
+      <description><![CDATA[大家对反人工智能运动有何看法？具体来说，我指的是社会对人工智能生成的内容的抵制，包括但不限于禁止培训法学硕士的开源许可，要求披露人工智能在产品和服务中的使用，以及由人类劳工在产品上制作标签以允许消费者明智的选择。 我认为人工智能很酷且令人兴奋，但它也有可能通过造成大规模失业来彻底摧毁经济。社会是否应该抵制这种行为？如果是的话，那会是什么样子？   由   提交/u/shadowisadog  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bmddbk/anti_ai_movement/</guid>
+      <pubDate>Sun, 24 Mar 2024 05:36:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>每日一分钟人工智能新闻 3/23/2024</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bmbzva/oneminute_daily_ai_news_3232024/</link>
+      <description><![CDATA[ OpenAI 据报道正在致力于促进其未发布的人工智能 (AI) 文本到视频的集成模特索拉 (Sora) 涉足电影制作。[1] 巴基斯坦、新加坡创作者打造了第一部有关先知穆罕默德生平的人工智能生成系列节目。[2] Reddit 今年早些时候，向人工智能公司出售了价值 2.03 亿美元的合同，以获取其数据。 Reddit 股票首日收盘上涨近 48%。[3] 日本人工智能公司“Sakana AI”开发了一种创造超高收益的方法通过结合现有的 AI 模型来构建性能模型，并使用进化算法尝试大量组合并创建高性能的 LLM 和图像生成模型。[4] 来源包括：https://bushaicave.com/2024/03/23/3-23-2024/&lt; /li&gt;    由   提交 /u/Excellent-Target-847   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bmbzva/oneminute_daily_ai_news_3232024/</guid>
+      <pubDate>Sun, 24 Mar 2024 04:13:34 GMT</pubDate>
+    </item>
     <item>
       <title>AI模型设计的核心技能</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bm8oym/core_skills_for_ai_model_design/</link>
@@ -48,13 +62,6 @@
       <pubDate>Sat, 23 Mar 2024 21:45:01 GMT</pubDate>
     </item>
     <item>
-      <title>Photoshop AI 生成填充功能使用哪些 AI 工具？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bm2k4w/what_ai_tools_are_used_for_photoshop_ai/</link>
-      <description><![CDATA[您好， Photoshop AI 生成填充功能是否使用 OpenAI API 等工具？我目前正在开展一个学校项目，想要合并类似的内容。 谢谢   由   提交 /u/helloworld1981   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bm2k4w/what_ai_tools_are_used_for_photoshop_ai/</guid>
-      <pubDate>Sat, 23 Mar 2024 20:50:17 GMT</pubDate>
-    </item>
-    <item>
       <title>自托管 AI：Apple M 处理器 vs NVIDIA GPU，路在何方？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bm1po1/self_hosted_ai_apple_m_processors_vs_nvidia_gpus/</link>
       <description><![CDATA[尝试找出本地运行 AI 的最佳方式。看起来配备 M2 处理器和大量 RAM 的 MAC STUDIO 可能是最简单的方法。然而，好的 NVIDIA GPU 速度要快得多？   由   提交 /u/estebansaa   [链接] [评论]]]></description>
@@ -81,13 +88,6 @@
       <description><![CDATA[现在问题开始了。几周前，我发布了这篇文章： “开源、分布式、去中心化人工智能：众包如何支付海量数据和计算费用” https://www.reddit.com/r/ArtificialInteligence/s/rQFHoo9aLl 它提出了一些emad 可能会面临的问题。这就是悬而未决的事情。 我一直很钦佩他的开源方法，但一直不明白为什么他只专注于视频生成，而不是扩展到提供信息和代码的生成人工智能。我希望他的想法是参与这一切。  这可能是人工智能领域的一个关键时刻，类似于 22 年 11 月 openai 推出 chatgpt 的情况。那里有数百万开源人工智能工程师。这是一个号召他们将研究转向去中心化人工智能的号角吗？我真的希望如此！ 我很想知道他的众包方法是什么。绕过传统金融市场，允许投资者从一开始就为这个新行业提供资金，而不是限制富人的初始投资，这不是很好吗？ llama 受到限制性许可，不允许轻易商业化，musk 在 Apache.2 下开源 grok，开发人员可以从中赚到所有他们想要的钱。我不知道emad的净资产是多少，所以很难说他是否愿意为这个新企业投入大量资金。但如果埃隆真的致力于开源，他可以轻松地投入数亿美元。这可能是他的 openai 版本 2。我相信此举也不会损害他针对 sam 的案子，哈哈。 （等不及该试验进入发现阶段，我们就会知道 openai 是否已经拥有 agi！） 然后需要进行研究来克服一些技术障碍分散式、分布式人工智能。我们在这里看到什么样的时间框架？  仍然存在很多问题，但这可能是人工智能真正的游戏规则改变者。 emad 可能刚刚以改变整个竞争环境的方式推动了我们的人工智能革命。   由   提交/u/Georgeo57  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1blrtrg/emad_mostaque_just_stepped_down_as_ceo_of/</guid>
       <pubDate>Sat, 23 Mar 2024 13:11:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要建议：应对小说写作中的作家障碍</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1blotmk/advice_needed_dealing_with_writers_block_in/</link>
-      <description><![CDATA[大家好，我目前正在写一本小说，但我正面临作家的障碍，正在努力为我的故事想出新的想法。一位作家同事建议使用人工智能写作工具来帮助我集思广益，构思新的情节曲折和人物发展。你们中有人使用人工智能工具进行创意写作项目吗？它如何影响你的写作过程？有什么适合小说作家的工具推荐吗？或者如果您有任何更好的建议，请与我分享。  谢谢！    由   提交/u/DazzlingDiana7  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1blotmk/advice_needed_dealing_with_writers_block_in/</guid>
-      <pubDate>Sat, 23 Mar 2024 10:12:58 GMT</pubDate>
     </item>
     <item>
       <title>我观看了 Sam Altman 最近在 Lex Fridman 进行的 2 小时采访 - 以下是我们都应该知道的关键要点</title>
