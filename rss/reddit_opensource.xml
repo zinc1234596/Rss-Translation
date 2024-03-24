@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 24 Mar 2024 00:53:25 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 Mar 2024 03:11:58 GMT</lastBuildDate>
+    <item>
+      <title>语义版本 GitHub 操作</title>
+      <link>https://www.reddit.com/r/opensource/comments/1bm8qzg/semantic_version_github_action/</link>
+      <description><![CDATA[我做了这个 GH 操作来处理在存储库上创建语义版本化标签。我知道存在诸如“请发布”之类的操作，但说服大型工程团队采用诸如传统提交之类的标准可能相当具有挑战性。目前，该操作旨在减少装饰，仅进行版本控制和标记。欢迎反馈！ https://github.com/flatherskevin/semver-action   由   提交 /u/TnyTmCruise   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1bm8qzg/semantic_version_github_action/</guid>
+      <pubDate>Sun, 24 Mar 2024 01:23:50 GMT</pubDate>
+    </item>
     <item>
       <title>记录会议的开源社区</title>
       <link>https://www.reddit.com/r/opensource/comments/1bm6xbn/open_source_communities_that_record_their_meetings/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[ 由   提交/u/gilzonme  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1bkvcgl/is_there_a_platform_to_request_opensource_plugins/</guid>
       <pubDate>Fri, 22 Mar 2024 09:42:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>R2R - 一个开源平台，使开发人员能够构建最好的 RAG 系统。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1bkq6cj/r2r_an_open_source_platform_that_enables/</link>
-      <description><![CDATA[大家好， TL;DR: Owen 与 SciPhi 一起，SciPhi 是一个 云平台，简化了生产就绪检索的部署和优化-面向开发人员的增强生成 (RAG) 管道。构建于强大开源 R2R 框架，SciPhi 使构建者能够专注于创建创新应用程序，而不是管理基础设施。 我今天刚刚推出了我们的云产品，我正在寻找高度相关的 subreddits 来发布它。它由我们用于部署生产就绪 RAG 的开源框架提供支持。如果您一直在寻找一种简单有效的方法来部署构造良好的 RAG 管道，那么这就是它。 我真的希望你们中的一些人都有机会检查一下并让我知道您的想法 - 我很高兴能分享我们一直在努力的事情。   由   提交/u/docsoc1  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1bkq6cj/r2r_an_open_source_platform_that_enables/</guid>
-      <pubDate>Fri, 22 Mar 2024 03:47:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
