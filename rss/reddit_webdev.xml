@@ -4,7 +4,35 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 24 Mar 2024 06:13:51 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 Mar 2024 09:13:37 GMT</lastBuildDate>
+    <item>
+      <title>在 Websocket 和 HTTP 轮询之间进行选择以进行实时更新</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bmfyqr/choosing_between_websockets_and_http_polling_for/</link>
+      <description><![CDATA[我正在为一个电子学习平台构建一个后端，我们在检查学生的文档和详细信息后对其进行验证。前端团队请求使用 Websockets，因为他们需要在每个学生批准或拒绝后更新待处理的学生列表。我建议改为使用 HTTP 轮询。您认为我们应该在这两个选项中选择什么，或者您还有其他建议吗？    由   提交 /u/uttamkadyan   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bmfyqr/choosing_between_websockets_and_http_polling_for/</guid>
+      <pubDate>Sun, 24 Mar 2024 08:32:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>德文郡 物价有多贵？他并不便宜。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bmfvsg/how_expensive_is_devon_he_aint_cheap/</link>
+      <description><![CDATA[查看大量有关 Devon 的帖子和 Youtube 视频，但所有内容都集中在它的功能上。有人尝试过定价这个想要抢走所有人工作的小混蛋要花多少钱吗？ 它本质上是一个 Chat GPT 4 包装器，当前的 API 价格为 0.01 美元/1000 输入代币和 0.03 美元/1000 输出代币 如果你看一下演示中的时间戳，Devon 似乎并不比人类快多少，这对我来说表明那里正在进行大量的试验和错误。 Devn 可能需要一两个小时才能完成相当小/相当大的任务，如果他一直在研究 Chat GPT API，那么 8 到 2000 万个令牌都不是不现实的。 这意味着Devon 目前的价格可能约为 320 美元/小时，而这还是在 Cognition Labs 收取费用之前，我确信他们会希望 Devon 的价格为 20 美元/小时。 此外，Devon 所做的几乎所有事情都会有由人工审核、清理和最终确定，假设人工成本为 60 美元/小时。让我们给德文郡一些信任，并说即使经历了所有的尝试和错误，它也能用人类一半的时间完成任务。人类需要 8 小时完成的典型任务： 人类 = 8 小时 @ 60 美元/小时 = 480 美元。 德文郡 = 4 小时 @ 340 美元/小时 + 人类（3 小时 @ 60 美元） /hour) = $1540 这还没有考虑到 Devon 所做的工作中 50% 以上可能都是垃圾，更不用说不断将代码库和业务详细信息发送到OpenAI。 您如何看待这些数字？我是不是太高了，或者错过了什么，或者？   由   提交 /u/mdizak   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bmfvsg/how_expensive_is_devon_he_aint_cheap/</guid>
+      <pubDate>Sun, 24 Mar 2024 08:26:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>大多数网络应用程序只能在单个服务器上运行</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bmfrjm/majority_of_web_apps_could_just_run_on_a_single/</link>
+      <description><![CDATA[随着我关注 Web 开发场景，这种情绪变得越来越强烈。当然，有很多（绝对数量）需要复杂的基础设施，但大多数网站和应用程序在繁忙的一天中获得的 rps 不到 10 rps 和 50 rps。  如果世界各地都有端点但仍需要访问数据，则延迟显然会较低。如果数据库距离该端点 200 毫秒，那么距离客户端 20 毫秒有什么意义？是的，有人必须为所有基础设施付费。 显然，缓存很有用，但这是通过 CDN 或普通的 http 缓存获得的。通常整个事情都可以在 cdn 上进行，只需在更新后推送新文件即可。也许某些动态功能需要一些 api 端点，但可以使用 JavaScript 等进行处理。  大多数项目也可以在 5 美元 vps 的容器中运行。这可能也会更快，至少它正在运行并且可能使用本地数据库。   由   提交 /u/yksvaan   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bmfrjm/majority_of_web_apps_could_just_run_on_a_single/</guid>
+      <pubDate>Sun, 24 Mar 2024 08:18:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>我怎样才能创建这样的东西？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bmf2sz/how_can_i_create_something_like_this/</link>
+      <description><![CDATA[   https://preview.redd.it/0ncrxbb4j8qc1.png?width=2880&amp;format=png&amp;auto=webp&amp;s=c2cc2f0846fd f0f36930c33de184834b794a8a4c 我最近访问了一个网站 - https://mccann.fr/，我看到了一个非常酷的互动部分块。我很长时间以来一直想创建这样的东西，但没有任何参考可以向人们展示，但这个网站具有与我需要的完全相同的实现。我知道它是在画布上构建的，但我真的无法理解所有物理和运动是如何实现的。谁能帮我解决这个问题吗？   由   提交/u/rayjaywolf   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bmf2sz/how_can_i_create_something_like_this/</guid>
+      <pubDate>Sun, 24 Mar 2024 07:30:41 GMT</pubDate>
+    </item>
     <item>
       <title>动态网站前端和后端技术建议</title>
       <link>https://www.reddit.com/r/webdev/comments/1bmdpm2/recommendations_for_frontend_and_backend/</link>
@@ -71,7 +99,7 @@
     <item>
       <title>E2E 测试中 QA 自动化的真正下一步是什么？</title>
       <link>https://www.reddit.com/r/webdev/comments/1bm76cj/whats_really_next_for_qa_automation_in_e2e_testing/</link>
-      <description><![CDATA[大家好， 在转向软件工程之前，我已经从事 QA 四年了。我已经看到很多关于测试生成中人工智能的讨论，但我还没有相信它。我不认为你使用人工智能生成高质量的自动化测试。一切进展如此之快，我很好奇：  您认为 QA 自动化的下一个重大飞跃是什么，尤其是 E2E 测试？我们缺少什么？ 如果不是人工智能测试生成，那又是什么？    由   提交 /u/Longjumping-Yak4911    reddit.com/r/webdev/comments/1bm76cj/whats_really_next_for_qa_automation_in_e2e_testing/&quot;&gt;[链接] [评论]]]></description>
+      <description><![CDATA[大家好， 在转向软件工程之前，我已经从事 QA 四年了。我看过很多关于测试生成中人工智能的讨论，但我还没有相信它。我不认为你使用人工智能生成高质量的自动化测试。一切进展如此之快，我很好奇：  您认为 QA 自动化的下一个重大飞跃是什么，尤其是 E2E 测试？我们缺少什么？ 如果不是人工智能测试生成，那又是什么？    由   提交 /u/Longjumping-Yak4911    reddit.com/r/webdev/comments/1bm76cj/whats_really_next_for_qa_automation_in_e2e_testing/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1bm76cj/whats_really_next_for_qa_automation_in_e2e_testing/</guid>
       <pubDate>Sun, 24 Mar 2024 00:09:29 GMT</pubDate>
     </item>
@@ -81,34 +109,6 @@
       <description><![CDATA[我制作此工具是为了帮助我提高对工作申请的响应并更快地申请工作。它需要您当前的简历和职位描述，并让您下载针对该职位的定制版本以及求职信。您还可以使用它来简单地转换或升级您的简历格式（/convert），甚至可以通过在 /optimize 的第二步中添加其他说明来翻译您的简历。例如，附加说明：“将此简历从西班牙语翻译成英语”。它使用法学硕士，因此回复可能需要几分钟的时间。我在解决问题时免费使用它！ 输出是这个项目的主要焦点 - 一份漂亮的简历，可以增加你获得面试/工作的机会。我努力让前端变得容易接受，但这不是我的专长。当然，我很高兴收到任何反馈:) - https://resumai.co/ -带示例输出的登陆页面。忽略结帐并直接前往 https://resumai.co/optimize - https://resumai.co/convert - 一个简单的简历转换为经过验证的简历格式  &amp;# 32；由   提交 /u/Ok_Net_6384   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1bm7158/i_made_a_tool_to_automate_tailoring_your_resume/</guid>
       <pubDate>Sun, 24 Mar 2024 00:02:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Github Actions 进行 SFTP 部署</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bm6wgj/sftp_deployment_with_github_actions/</link>
-      <description><![CDATA[大家好， 希望你们一切都好！ 在过去的几天里，我我一直在学习 Git Hub 并在我的开发过程中使用它（目前正在开发自定义 WordPress 主题）。我主要是独自工作，所以我从来没有真正被打扰过。 我真正喜欢的是通过 Git Hub 操作自动将本地更改部署到 Web 服务器的想法。我想设置两个动作 - 一个在合并到我的“暂存”场景时会自动触发。分支来使用这些更改更新我的暂存环境，以及我将手动触发的一个分支，以将我的实时网站与最新的主分支同步。 在设置它们时，我想知道部署到的选项非常有限使用 SFTP 的服务器。我只找到了一些过时且非常不受欢迎的插件，例如“wlixcc/SFTP-Deploy-Action”，只有215颗星。 然后我想： 这实际上是吗？一个东西？我的想法是一种不寻常的方法吗？还有更好的解决方案吗？你们是怎么做到的？ 我很想听听你们的观点！ 顺便说一句：我的网络主机只允许 SFTP 和 SHH 连接。我也考虑过像“DeployHQ”这样的第三方服务，但我绝对更喜欢使用 GitHub。   由   提交 /u/whereismybentley   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bm6wgj/sftp_deployment_with_github_actions/</guid>
-      <pubDate>Sat, 23 Mar 2024 23:57:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个去中心化的视频/流媒体平台，用户可以在其中管理和拥有整个平台。轻松托管您自己的内容，如果您愿意，也可以分享。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bm610n/i_created_a_decentralized_videostreaming_platform/</link>
-      <description><![CDATA[    /u/Making-Burgers-Soon   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bm610n/i_created_a_decentralized_videostreaming_platform/</guid>
-      <pubDate>Sat, 23 Mar 2024 23:18:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>滑动手势 - 是否有一些特殊技巧可以阻止 iPhone 将上下滑动注册为左右滑动？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bm5uh2/swipe_gestures_is_there_some_special_trick_to/</link>
-      <description><![CDATA[iPhone 不是向下滚动，而是注册一个向下的条纹，就像向右滑动一样，并触发“下一个”滚动条。  iPhone 不会向上滚动，而是将向上滑动视为向左滑动，并触发“上一个”屏幕。功能。 左右滑动可以正常工作。我只需要停止垂直滑动除了滚动之外的任何操作。由于某种原因，iPhone 坚持向上滑动为左滑动，向下滑动为右滑动。 // 初始化状态变量 let startX = null;让startY = null;让 isDragging = false;常量水平阈值 = 50; // 根据需要调整此阈值 constverticalThreshold = 1000; // 根据需要调整此阈值 // 触摸启动的事件处理程序 function onTouchStart(event) { startX = event.touches[0].clientX; startY = event.touches[0].clientY; isDragging = true; } // 触摸移动的事件处理函数 function onTouchMove(event) { if (!isDragging) return; const deltaX = event.touches[0].clientX - startX; const deltaY = event.touches[0].clientY - startY; // 如果水平移动大于水平阈值且大于垂直移动， // 阻止默认行为（滚动）并处理滑动操作 if (Math.abs(deltaX) &gt; Horizo​​ntalThreshold &amp;&amp; Math.abs(deltaX) &gt; Math.abs(deltaY) &amp;&amp; Math.abs(deltaY)  startX) { previous(); } } else if (endX &lt; startX) { next(); } } // 重置状态 startX = null;开始Y=空；拖动=假； } // 附加触摸事件监听器 document.addEventListener(&#39;touchstart&#39;, onTouchStart); document.addEventListener(&#39;touchmove&#39;, onTouchMove); document.addEventListener(&#39;touchend&#39;, onTouchEnd);    由   提交 /u/NoMuddyFeet   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bm5uh2/swipe_gestures_is_there_some_special_trick_to/</guid>
-      <pubDate>Sat, 23 Mar 2024 23:10:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>我纯粹出于懒惰而开发了一个应用程序</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bm55um/i_built_an_app_out_of_sheer_laziness/</link>
-      <description><![CDATA[       由   提交/u/Jacoby_Broadnax   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bm55um/i_built_an_app_out_of_sheer_laziness/</guid>
-      <pubDate>Sat, 23 Mar 2024 22:40:48 GMT</pubDate>
     </item>
     </channel>
 </rss>
