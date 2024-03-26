@@ -4,21 +4,7 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Tue, 26 Mar 2024 09:13:41 GMT</lastBuildDate>
-    <item>
-      <title>生活收件箱</title>
-      <link>https://www.producthunt.com/posts/livinginbox</link>
-      <description><![CDATA[
-            通过世界一流的推荐了解潜在客户的最新情况。
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/livinginbox</guid>
-      <pubDate>Tue, 26 Mar 2024 01:20:43 GMT</pubDate>
-    </item>
+    <lastBuildDate>Tue, 26 Mar 2024 12:20:45 GMT</lastBuildDate>
     <item>
       <title>答案镜头</title>
       <link>https://www.producthunt.com/posts/answer-lens</link>
@@ -32,6 +18,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/answer-lens</guid>
       <pubDate>Tue, 26 Mar 2024 00:50:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>独裁套房</title>
+      <link>https://www.producthunt.com/posts/diktatorial-suite</link>
+      <description><![CDATA[
+            通过短信进行 AI 音频母带处理
+          
+
+讨论&lt; /a&gt;
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/diktatorial-suite</guid>
+      <pubDate>Mon, 25 Mar 2024 23:17:47 GMT</pubDate>
     </item>
     <item>
       <title>词汇拼字游戏</title>
@@ -60,20 +60,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/budgets-planner</guid>
       <pubDate>Mon, 25 Mar 2024 16:36:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>Hygraph Studio [测试版]</title>
-      <link>https://www.producthunt.com/posts/hygraph-studio-beta</link>
-      <description><![CDATA[
-            下一代无头 CMS：释放内容的全部潜力
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/hygraph-studio-beta</guid>
-      <pubDate>Mon, 25 Mar 2024 16:15:56 GMT</pubDate>
     </item>
     <item>
       <title>移动应用程序：查找航班优惠</title>
@@ -149,7 +135,7 @@
       <title>艾尼</title>
       <link>https://www.producthunt.com/posts/earnie-ai</link>
       <description><![CDATA[
-            您的人工智能学习伴侣
+            您的AI学习伴侣
           
 
 讨论&lt; /a&gt;
@@ -214,6 +200,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/gdocweb</guid>
       <pubDate>Tue, 12 Mar 2024 21:27:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>德玛Q</title>
+      <link>https://www.producthunt.com/posts/dermaq</link>
+      <description><![CDATA[
+            利用人工智能评估秃头程度
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/dermaq</guid>
+      <pubDate>Tue, 05 Mar 2024 05:45:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
