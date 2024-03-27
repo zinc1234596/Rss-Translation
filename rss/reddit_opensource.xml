@@ -4,11 +4,11 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 27 Mar 2024 12:22:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 Mar 2024 15:13:11 GMT</lastBuildDate>
     <item>
       <title>Python 的 Makefile 解析器库</title>
       <link>https://www.reddit.com/r/opensource/comments/1boxcyh/makefile_parser_library_for_python/</link>
-      <description><![CDATA[大家好！  我很自豪地介绍一个我认为有用的 Python Makefile 解析器！ 链接是 Thanatisia/makefile-parser-python 最近，我一直在计划一个涉及在 Python 中使用 Makefile 的副项目，并且我需要使用Makefile 解析器 ala json 或 pyyaml - 您可以将 Makefile 作为对象/字典/列表导入到 python 中。因此，我开始寻找 Makefile 解析器。  我发现的唯一解析器是 PyMake(2)，它很酷，但据我记忆，它自 2017 年以来就没有更新过，而且它更像是一个 CLI 实用程序，因此考虑到这一点，我想要实现它 我希望这对我来说是有用的，目前我正在一个业余项目中使用它，并且我能够对其进行格式化，以便它打印出典型的Makefile 结构一目了然，非常好。   由   提交 /u/Cybasura   [链接] [评论]]]></description>
+      <description><![CDATA[大家好！  我很自豪地推出一个我认为有用的 Python Makefile 解析器！ 链接是 Thanatisia/makefile-parser-python 最近，我一直在计划一个涉及在 Python 中使用 Makefile 的副项目，并且我需要使用Makefile 解析器 ala json 或 pyyaml - 您可以将 Makefile 作为对象/字典/列表导入到 python 中。因此，我开始寻找 Makefile 解析器。  我发现的唯一解析器是 PyMake(2)，它很酷，但据我记忆，它自 2017 年以来就没有更新过，而且它更像是一个 CLI 实用程序，因此考虑到这一点，我想要实现它 我希望这对我来说是有用的，目前我正在一个业余项目中使用它，并且我能够对其进行格式化，以便它打印出典型的Makefile 结构一目了然，非常好。   由   提交 /u/Cybasura   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1boxcyh/makefile_parser_library_for_python/</guid>
       <pubDate>Wed, 27 Mar 2024 09:03:03 GMT</pubDate>
     </item>
@@ -50,7 +50,7 @@
     <item>
       <title>我们可以将我的 HVAC 机械公司的所有流程开源吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1bosf99/can_we_make_all_the_processes_of_my_hvac/</link>
-      <description><![CDATA[我们该怎么做？   由   提交/u/thumpsky   [链接] [评论]]]></description>
+      <description><![CDATA[我们该怎么做？   由   提交/u/thumpsky  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1bosf99/can_we_make_all_the_processes_of_my_hvac/</guid>
       <pubDate>Wed, 27 Mar 2024 03:44:04 GMT</pubDate>
     </item>
@@ -85,7 +85,7 @@
     <item>
       <title>GitHub 替代方案 - Radile</title>
       <link>https://www.reddit.com/r/opensource/comments/1boh8pt/a_github_alternative_radicle/</link>
-      <description><![CDATA[如果有人对微软拥有 Github 和 Open AI 并积极游说政府确保“AI 安全”感到害怕，那么是时候探索一个真正的同行了点对点代码协作网络。  Radicle 团队今天发布了他们的产品，将 git 扩展为真正的 P2P。  这可能更符合 Linus Torvald 关于如何使用 git 的最初愿景。不是技术垄断拥有的 Github。  https://x.com/radicle/status/1772659708978991605?s =20 https://radicle.xyz/guides/user   由   提交 /u/Correct-External-778   [链接] [评论]]]></description>
+      <description><![CDATA[如果有人对微软拥有 Github 和 Open AI 并积极游说政府确保“人工智能安全”感到害怕，那么是时候探索一个真正的同行了点对点代码协作网络。  Radicle 团队今天发布了他们的产品，将 git 扩展为真正的 P2P。  这可能更符合 Linus Torvald 关于如何使用 git 的最初愿景。不是技术垄断拥有的 Github。  https://x.com/radicle/status/1772659708978991605?s =20 https://radicle.xyz/guides/user   由   提交 /u/Correct-External-778   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1boh8pt/a_github_alternative_radicle/</guid>
       <pubDate>Tue, 26 Mar 2024 19:52:17 GMT</pubDate>
     </item>
