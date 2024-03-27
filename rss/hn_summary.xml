@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Tue, 26 Mar 2024 15:11:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 Mar 2024 00:33:01 GMT</lastBuildDate>
     <item>
-      <title>[媒体] Pinnacle 是对 1986 年经典作品《The Sentinel》的现代致敬，可在 [...]</title>
-      <link>https://t.me/hn_summary/81357</link>
-      <description><![CDATA[Pinnacle – 对 1986 年经典作品《哨兵》的现代致敬
-Pinnacle 是对 1986 年经典作品《The Sentinel》的现代致敬，可在 Viperfish.com.au。 Mac Gatekeeper 最初可能会阻止该应用程序运行，但用户可以通过右键单击 .app 文件并选择打开来轻松绕过此操作。 Pinnacle 的创建者不支付加入开发者计划的费用，因此用户在尝试安装该软件时可能会遇到麻烦。这个独特的项目为《哨兵》的粉丝提供了有趣的体验，而无需支付传统的开发人员费用。]]></description>
-      <guid>https://t.me/hn_summary/81357</guid>
-      <pubDate>Tue, 26 Mar 2024 15:11:07 GMT</pubDate>
+      <title>[媒体]永久炖菜，也称为永久汤或猎人炖菜，是一种将食物与食物混合在一起的锅[...]</title>
+      <link>https://t.me/hn_summary/81454</link>
+      <description><![CDATA[永久炖菜
+永久炖汤，也称为永远汤或猎人炖汤，是一种不断煮熟和补充食物的锅。这个概念可以追溯到中世纪，并且在南亚和东亚国家仍然盛行。令人惊讶的是，有些炖菜已经烹饪了几十年，其中曼谷的一种炖菜已经烹饪了 49 年以上。纽约一家餐厅采取了一项颇具争议的举措，在八个多月的时间里提供永久炖菜。最近，布鲁克林的一家永久炖菜俱乐部因每周举办一次食用炖菜的聚会而受到关注，有数百人参加并贡献食材。炖菜持续了令人印象深刻的 60 天。]]></description>
+      <guid>https://t.me/hn_summary/81454</guid>
+      <pubDate>Wed, 27 Mar 2024 00:33:01 GMT</pubDate>
     </item>
     <item>
-      <title>嗨，HN！</title>
-      <link>https://t.me/hn_summary/81356</link>
-      <description><![CDATA[推出 HN：CommodityAI (YC W24) – 为商品交易者提供货运管理
-嗨，HN！我们是 CommodityAI 的联合创始人，该平台可以简化管理商品运输的复杂流程。全球商品贸易涉及大量流程、文件和协调，导致代价高昂的错误和低效率。我们的人工智能驱动解决方案简化了数据预处理，使用 OCR 和索引方法自动化业务流程，并使用户能够更有效地采取行动和工作流程。我们的平台已经为客户节省了时间和金钱，美国最大的农产品贸易商之一使用它处理了超过一百万份文件。观看我们的视频，看看它是如何工作的！我们欢迎熟悉商品交易行业的人士提供反馈。]]></description>
-      <guid>https://t.me/hn_summary/81356</guid>
-      <pubDate>Tue, 26 Mar 2024 15:03:29 GMT</pubDate>
+      <title>[媒体]事情发生了令人惊讶的转变，一位瑞典土地所有者成功地争取了 [...]</title>
+      <link>https://t.me/hn_summary/81453</link>
+      <description><![CDATA[瑞典土地所有者在与地质学家的法庭斗争后可以保留14公斤陨石
+令人惊讶的是，一位瑞典土地所有者不顾地质学家的法律诉讼，成功保住了一颗落在他土地上的 14 公斤陨石。法院裁定，这块陨石由铁制成，应被视为发现它的土地的一部分，因此不能轻易分离。最初发现这块陨石的地质学家声称拥有该陨石的所有权，但法院没有发现任何证据表明有协议允许他们拿走这块陨石。此案凸显了围绕陨石所有权的复杂法律问题以及尊重产权的重要性，即使在外太空领域也是如此。]]></description>
+      <guid>https://t.me/hn_summary/81453</guid>
+      <pubDate>Wed, 27 Mar 2024 00:27:56 GMT</pubDate>
     </item>
     <item>
-      <title>该项目是 CVE-2024-1086 的概念验证漏洞利用，这是一种通用本地权限 Esca [...]</title>
-      <link>https://t.me/hn_summary/81355</link>
-      <description><![CDATA[针对 CVE-2024-1086 的 Debian/Ubuntu 权限提升 PoC 漏洞&lt; /a&gt;
-该项目是 CVE-2024-1086 的概念验证漏洞，CVE-2024-1086 是一个通用本地权限提升漏洞，影响 v5.14 和 v6.6 之间的 Linux 内核，包括 Debian、Ubuntu 和 KernelCTF。该漏洞在 KernelCTF 图像中的成功率为 99.4%。作者在他们的博客上提供了该漏洞的详细描述。该项目包含一些警告，例如某些内核配置的兼容性问题以及网络活动频繁的系统上的网络不稳定。该漏洞可以在 Debian、Ubuntu 和 KernelCTF 系统上轻松配置、构建和运行，并提供预编译的二进制文件。作者强调，该项目仅用于教育/研究目的，不纵容任何恶意或非法使用。]]></description>
-      <guid>https://t.me/hn_summary/81355</guid>
-      <pubDate>Tue, 26 Mar 2024 15:00:53 GMT</pubDate>
+      <title>[媒体]六年来，我筛选网上讣告评论，纠正错别字，删除不正确的内容[...]</title>
+      <link>https://t.me/hn_summary/81452</link>
+      <description><![CDATA[死亡与错别字：我六年来筛选在线讣告评论
+六年来，我筛选网上讣告评论，纠正拼写错误并删除不适当的消息。令人惊讶的是，我评论的大部分内容都是垃圾邮件，而不是攻击性内容。这份工作让人精神疲惫，尤其是在处理家庭纠纷和疏远时。 Covid-19 大流行带来了新一波的悲痛，一些人认为这是一场骗局。尽管面临挑战，我还是在下班后的拳击课上找到了安慰，并发现了一个帮助我应对困难的社区。最终，我的经验告诉我，如果我们只用拼写错误进行交流，悲伤的语言就可以得到改善。]]></description>
+      <guid>https://t.me/hn_summary/81452</guid>
+      <pubDate>Tue, 26 Mar 2024 23:49:42 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]作者讨论了他们关于基于波形的音乐处理和深度学习的教程 [...]</title>
-      <link>https://t.me/hn_summary/81354</link>
-      <description><![CDATA[在波形域中生成音乐（2020）&lt; br/&gt;
-作者讨论了他们在 ISMIR 2019 上提出的基于波形的音乐处理和深度学习的教程。他们深入研究了在波形域中建模音乐背后的动机，强调了挑战和好处。他们解释了波形在捕捉声音中的重要性以及相位建模的复杂性。这篇文章涵盖了生成模型，包括隐式和显式模型，以及使用条件信号来影响样本生成。讨论还涉及基于可能性的模型和密集调节信号的重要性。作者旨在引发讨论并提供对波形领域音乐生成的见解。 （根据故事文本的 22% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/81354</guid>
-      <pubDate>Tue, 26 Mar 2024 14:58:16 GMT</pubDate>
+      <title>[媒体] 今天是具有纪念意义的一天，Affinity 加入了 Canva 大家庭。</title>
+      <link>https://t.me/hn_summary/81451</link>
+      <description><![CDATA[亲和力正在加入 Canva
+今天是具有纪念意义的一天，Affinity 加入了 Canva 大家庭。这一激动人心的合作伙伴关系将使我们能够继续为创意人员提供专业级软件，同时为我们的产品开辟新的可能性。我们的核心价值观与 Canva 让所有人都能接触到设计的承诺完美契合。请放心，您的 Affinity 应用程序将继续照常接收更新和支持。未来是光明的，我们很高兴能够共同开启这一新篇章。与我们一起创造一个人人都能接触到设计的世界。 （根据 81% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/81451</guid>
+      <pubDate>Tue, 26 Mar 2024 23:48:38 GMT</pubDate>
     </item>
     <item>
-      <title>BAML 是一种新的编程语言，旨在简化调用大型语言的过程 [...]</title>
-      <link>https://t.me/hn_summary/81353</link>
-      <description><![CDATA[显示 HN - BAML：一种用于获取结构化数据的新编程语言法学硕士
-BAML 是一种新的编程语言，旨在简化在代码中调用大型语言模型 (LLM) 的过程。该项目旨在解决将通常讲英语的法学硕士与使用类型的代码集成的挫败感。 BAML 采用类型优先的方法，允许用户在 BAML 文件中定义输入和输出的类型、提示模板、重试和回退。该项目的独特之处在于为 LLM 提供类型安全保证、提供出色开发人员体验的工具以及对 OpenAI 和 Azure 等各种 LLM 提供商的支持。该项目还提供工具、VSCode 扩展和入门项目以方便集成。 （根据 38% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/81353</guid>
-      <pubDate>Tue, 26 Mar 2024 14:43:37 GMT</pubDate>
+      <title>Java Development Kit 22 已发布，具有 12 项新功能和主要的安全增强功能。</title>
+      <link>https://t.me/hn_summary/81450</link>
+      <description><![CDATA[Java 22 的新功能和安全增强功能一览 
+Java Development Kit 22 已发布，具有 12 项新功能和主要的安全增强功能。新版本包含 Amber、Loom 和巴拿马等项目的功能，在易用性、可理解性、稳健性和性能方面提供了改进。值得注意的功能包括用于安全数据共享的范围值、用于自定义操作的流收集器以及用于简化并发编程的结构化并发。该更新还引入了类文件 API、G1 垃圾收集器的区域固定、字符串模板、向量 API 等。 JDK 22 中的安全增强功能包括新的系统设置显示选项、新的非对称密钥接口以及 PKI 的附加根 CA 证书。 （根据 97% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/81450</guid>
+      <pubDate>Tue, 26 Mar 2024 23:47:34 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在这篇文章中，我对 2015 年讨论 functi 的一篇热门文章做出了迟来的回应 [...]</title>
-      <link>https://t.me/hn_summary/81352</link>
-      <description><![CDATA[异步函数没有颜色
-在这篇文章中，我对 2015 年讨论异步编程中的函数着色的热门文章做出了最新回应。虽然原始文章提出了有趣的规则和概念，但我认为 async/await 的引入通过解决许多回调式问题彻底改变了环境。我深入研究了从同步函数调用异步函数的细微差别，强调了最终结果的重要性及其提供的灵活性。我还谈到了不同执行模型的重要性以及采用异步原语的好处。总的来说，我主张对函数着色和异步编程的不断发展的本质有更细致的理解。 （根据 98% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/81352</guid>
-      <pubDate>Tue, 26 Mar 2024 14:19:25 GMT</pubDate>
+      <title>[媒体]南加州穆列塔警察局一直在使用乐高头和em [...]</title>
+      <link>https://t.me/hn_summary/81449</link>
+      <description><![CDATA[乐高头​​像照片增加了加州关于警务和隐私的辩论
+南加州穆列塔警察局一直在社交媒体帖子中使用乐高头像和表情符号来遮盖嫌疑人的脸部，引发了关于警务和隐私的辩论。该部门对乐高头的使用迅速传播开来，促使乐高要求他们停止使用其知识产权。加州的新法律要求警察部门在 14 天内从社交媒体上删除照片，但某些情况除外。议员科里·杰克逊质疑使用乐高头是否是纳税人资金的最佳用途，并正在就其他机构试图规避法律的行为寻求法律意见。这场争议凸显了执法实践中透明度和隐私之间的平衡。]]></description>
+      <guid>https://t.me/hn_summary/81449</guid>
+      <pubDate>Tue, 26 Mar 2024 23:32:24 GMT</pubDate>
     </item>
     <item>
-      <title>固定电话正在消失。</title>
-      <link>https://t.me/hn_summary/81351</link>
-      <description><![CDATA[固定电话正在消失。但对某些人来说，它们是生命线
-在华盛顿州恩努克劳等农村地区，固定电话是许多人的生命线，尤其是在停电和紧急情况下。尽管固定电话用户数量急剧下降，并且 AT&amp;T 等提供商希望逐步淘汰该服务，但数百万人仍然依赖铜线固定电话来确保安全。 AT&amp;T 试图停止加州部分地区的固定电话服务，引发了对老年人、残疾人和低收入人群安全的担忧。尽管人们正在推动蜂窝或 VoIP 服务等替代服务的发展，但传统固定电话的可靠性和安全性对于那些依赖传统固定电话的人来说仍然是无与伦比的。]]></description>
-      <guid>https://t.me/hn_summary/81351</guid>
-      <pubDate>Tue, 26 Mar 2024 14:18:21 GMT</pubDate>
+      <title>[媒体]阿尔弗雷德韦格纳研究所最近进行的一项研究揭示了令人震惊的冰损失[...]</title>
+      <link>https://t.me/hn_summary/81448</link>
+      <description><![CDATA[研究报告格陵兰冰川巨大的冰损失
+阿尔弗雷德韦格纳研究所最近进行的一项研究显示，格陵兰岛北纬 79° 冰川的冰损失令人震惊，自 1998 年以来厚度减少了 160 多米。冰川舌下方温暖的海水正在融化冰，而高气温则形成了湖泊位于表面，通过巨大的通道流入海洋。令人惊讶的是，自 2018 年以来，融化速度有所下降，这可能是由于海洋流入温度降低所致。研究人员预测冰川舌将在未来几年分裂，强调研究这一过程对于了解全球变暖对冰稳定性影响的重要性。]]></description>
+      <guid>https://t.me/hn_summary/81448</guid>
+      <pubDate>Tue, 26 Mar 2024 23:30:19 GMT</pubDate>
     </item>
     <item>
-      <title>GitHub 上的知识图语言 (KGL) 项目提供了一种用于交互的查询语言 [...]</title>
-      <link>https://t.me/hn_summary/81350</link>
-      <description><![CDATA[显示HN：KGL，一种知识图查询语言
-GitHub 上的知识图语言 (KGL) 项目提供了一种查询语言，通过接受语义三元组并对它们进行索引以进行查询，从而与图进行交互。它可用于查找与节点关联的属性、返回连接的节点、根据条件过滤查询以及描述图中节点之间的关系。该项目通过提供过滤器查询、内省模式和描述运算符等功能而脱颖而出。它还提供了用于创建和查询知识图的Python API。该项目的自述文件作为官方语言参考，并根据 MIT 许可证获得许可。]]></description>
-      <guid>https://t.me/hn_summary/81350</guid>
-      <pubDate>Tue, 26 Mar 2024 14:05:35 GMT</pubDate>
+      <title>背压是软件工程中的一个常见问题，但并不总是很好理解。</title>
+      <link>https://t.me/hn_summary/81447</link>
+      <description><![CDATA[背压解释 - 通过软件的数据流的阻力 
+背压是软件工程中的一个常见问题，但并不总是很好理解。它是指反对通过软件传输所需数据的阻力或力量。当输出数据的计算速度慢于输入数据的速度时，就会发生这种情况。减轻背压的策略包括控制生产者、缓冲或丢弃数据。示例范围从文件系统操作到服务器通信和 UI 渲染。选择正确的策略取决于具体的用例和用户体验考虑因素。最终，有效处理背压对于维持系统性能和防止内存崩溃至关重要。 （根据 92% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/81447</guid>
+      <pubDate>Tue, 26 Mar 2024 23:27:15 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Hybrid-Net 是一个人工智能驱动的多模式项目，专注于音乐，利用 Transfor [...]</title>
-      <link>https://t.me/hn_summary/81349</link>
-      <description><![CDATA[Hybrid-Net：实时音源分离，生成歌词，和弦、节拍
-Hybrid-Net 是一个专注于音乐的人工智能多模式项目，它利用基于 Transformer 的模型实时生成任何歌曲的和弦、节拍、歌词、旋律和标签。该项目包括各种 Transformer 模型，例如 U-Net、Pitch-Net、Beat-Net、Chord-Net 和 Segment-Net，它们协同工作以建立音乐不同方面之间的关联。该项目提供和弦检测、节拍跟踪、音高跟踪、音乐结构分析、歌词识别和人工智能生成的标签等功能。它还支持音源分离、速度调整和音调转换。该项目通过在实时环境中提供一整套与音乐相关的功能而脱颖而出。]]></description>
-      <guid>https://t.me/hn_summary/81349</guid>
-      <pubDate>Tue, 26 Mar 2024 14:04:29 GMT</pubDate>
+      <title>印度一家虾加工厂的新任总经理 Joshua Farinella 发现了 [...]</title>
+      <link>https://t.me/hn_summary/81446</link>
+      <description><![CDATA[举报人称，Choice Canning 向美国运送非法虾 
+印度一家虾加工厂的新任总经理约书亚·法里内拉(Joshua Farinella)发现了一些令人不安的做法，包括强迫劳动、过度拥挤以及被运往美国的受污染虾。这家工厂由 Choice Canning 租赁，为沃尔玛等商店供应了数百万磅的虾。举报人法里内拉发现了认证和抗生素使用方面的差异，引发了争议。 Choice Canning 否认了这些指控，并援引了 Farinella 的犯罪记录并维持了高质量标准。审计显示该工厂存在不卫生状况，但公共审计却给该工厂提供了良好的健康证明。这个故事揭示了全球虾业的阴暗面。 （根据 41% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/81446</guid>
+      <pubDate>Tue, 26 Mar 2024 23:11:05 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]不幸的是，Android 上的 VLC 用户在更新应用程序时面临着困境。</title>
-      <link>https://t.me/hn_summary/81348</link>
-      <description><![CDATA[如果不提供 Google 私人签名密钥，VLC 无法在 Android 上更新&lt; /a&gt;
-不幸的是，Android 上的 VLC 用户在更新应用程序时面临着困境。 Google 要求用户提供私人签名密钥才能更新其设备上的 VLC。谷歌这一有争议的举动引发了关注隐私和安全的用户的愤怒。如果不提供这些密钥，用户将无法接收流行媒体播放器的更新。这引发了关于谷歌等科技巨头对我们在设备上使用的应用程序的控制权的重要问题。]]></description>
-      <guid>https://t.me/hn_summary/81348</guid>
-      <pubDate>Tue, 26 Mar 2024 14:01:55 GMT</pubDate>
+      <title>[媒体]我们很高兴地宣布 Qubes OS 4.2.1 稳定版发布！</title>
+      <link>https://t.me/hn_summary/81445</link>
+      <description><![CDATA[Qubes OS 4.2.1已发布
+我们很高兴地宣布 Qubes OS 4.2.1 稳定版发布！此补丁版本整合了 Qubes 4.2.0 发布以来的所有安全补丁、错误修复和更新，为用户安装最新稳定版本提供了安全便捷的方式。新功能包括所有 4.2 dom0 更新、Fedora 39 模板以及作为默认内核的 Linux 6.6.x。用户可以从网站下载ISO和验证文件。请务必注意 Qubes OS 4.2 的新签名密钥，我们鼓励用户对其进行身份验证。补丁版本并不意味着新的主要或次要版本，而是包括特定点之前的所有更新。]]></description>
+      <guid>https://t.me/hn_summary/81445</guid>
+      <pubDate>Tue, 26 Mar 2024 23:09:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
