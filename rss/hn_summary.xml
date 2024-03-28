@@ -4,88 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Thu, 28 Mar 2024 15:10:20 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 Mar 2024 21:06:05 GMT</lastBuildDate>
     <item>
-      <title>[媒体]经过四年的开发，开源FuryGPU已经在游戏中亮相，因此[...]</title>
-      <link>https://t.me/hn_summary/81703</link>
-      <description><![CDATA[新的开源 GPU 向所有人免费
-经过四年的开发，游戏软件开发人员 Dylan Barrie 推出了开源 FuryGPU。基于 Xilinx FPGA 设计，GPU 原型可以在 Quake Timedemo 中实现约 44fps 的速度。 Barrie 自学了 SystemVerilog 和 KiCAD，将他的愿景变为现实，其中最具挑战性的方面是创建 Windows 驱动程序。尽管性能令人印象深刻，Barrie 强调 FuryGPU 是一个创客项目，无意与商业 GPU 竞争。该项目将是开源的，尚待法律考虑。虽然 FuryGPU 并不是 GPU 领域的游戏规则改变者，但它的进展正在受到密切关注。]]></description>
-      <guid>https://t.me/hn_summary/81703</guid>
-      <pubDate>Thu, 28 Mar 2024 15:10:20 GMT</pubDate>
+      <title>[媒体] 隆重推出 Seeturn，这是一款利用 GPT-3.5 和 GPT-4 技术的基于人工智能的代码翻译器 [...]</title>
+      <link>https://t.me/hn_summary/81762</link>
+      <description><![CDATA[展示 HN：Seeturn – 基于人工智能的代码翻译器 
+隆重推出基于 AI 的代码翻译器 Seeturn，它利用 GPT-3.5 和 GPT-4 技术在各种编程语言之间无缝翻译代码。只需输入您的脚本并单击“翻译”即可在汇编语言、Bash、C、C#、C++ 等之间进行转换。从 HTML 到 Python，Seeturn 都能满足您的需求。对于希望简化工作流程并轻松在语言之间切换的开发人员来说，这一创新工具是一个游戏规则改变者。告别手动翻译，让 Seeturn 为您完成这项工作。查看 seeturn.netlify.app 体验未来代码翻译。]]></description>
+      <guid>https://t.me/hn_summary/81762</guid>
+      <pubDate>Thu, 28 Mar 2024 21:06:05 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在 brooker.co.za 上的这篇文章中，作者讨论了纠删码的概念作为 [...]</title>
-      <link>https://t.me/hn_summary/81702</link>
-      <description><![CDATA[纠删码与尾部延迟
-在 brooker.co.za 上的这篇文章中，作者讨论了纠删码的概念，作为减少尾部延迟和提高系统可用性的强大工具。他们将纠删码与对冲（Jeff Dean 和 Luiz Barroso 推广的一种技术）进行了比较，并强调了纠删码在处理延迟、可用性、负载平衡和分散负载方面的灵活性和效率。作者强调了纠删码对尾部延迟和可用性的重大影响，使其成为构建延迟敏感或可用性敏感系统时值得考虑的有价值的技术。这篇文章还涉及纠删码的数学基础及其在存储和网络中的广泛应用。]]></description>
-      <guid>https://t.me/hn_summary/81702</guid>
-      <pubDate>Thu, 28 Mar 2024 15:08:14 GMT</pubDate>
+      <title>作者正在与自己的情商作斗争，感到有自我意识，但无法 [...]</title>
+      <link>https://t.me/hn_summary/81761</link>
+      <description><![CDATA[问 HN：如何提高情商 
+作者正在与自己的情商作斗争，感觉有自我意识，但无法在不引起负面情绪的情况下有效沟通。他们正在寻找一本类似于《妈妈测试》的书来发现客户，但重点是情商。他们想要一本能够提供有关如何有效沟通和理解他人观点的具体逐字建议的书。这种对提高情商的实用指导的追求凸显了作者以精确且可行的方式提高人际交往能力的愿望。]]></description>
+      <guid>https://t.me/hn_summary/81761</guid>
+      <pubDate>Thu, 28 Mar 2024 21:05:00 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在 www.emoses.org 上，作者介绍了 Go 中表示状态变化的模式 [...]</title>
-      <link>https://t.me/hn_summary/81701</link>
-      <description><![CDATA[在 Go 中将状态表示为接口
-在 www.emoses.org 上，作者介绍了一种模式在 Go 中通过使用接口来表示系统中的状态变化。该模式涉及 Resolver、Executor 和 Resolved，它们全部由同一结构实现。作者解释了这种模式背后的动机，强调需要在不同状态下处理不同的操作。他们还讨论了一种混乱的替代方法，并强调使用 Go 中的接口来有效管理状态更改的简单性和清晰度。这种独特的模式提供了一种巧妙的解决方案，可以使用 Go 接口处理系统中的状态更改。]]></description>
-      <guid>https://t.me/hn_summary/81701</guid>
-      <pubDate>Thu, 28 Mar 2024 15:03:37 GMT</pubDate>
+      <title>[媒体]Keeling Labs 成立于 2022 年，其使命是通过应用 Ma [...]</title>
+      <link>https://t.me/hn_summary/81760</link>
+      <description><![CDATA[Keeling Labs (YC W23) 正在为应用材料公司招聘一名高级数据工程师网格中的机器学习
+Keeling Labs 成立于 2022 年，其使命是通过应用机器学习优化电网中的能源存储来应对气候变化。他们已经取得了重大进展，包括通过 Y Combinator、筹集资金以及在加利福尼亚州部署他们的 ML 模型。现在，他们专注于将其技术扩展到更多的电网市场，并建立一个更大的模型来运行巨型电池。他们正在寻找一名高级数据工程师加入他们的团队，负责扩展数据管道、与网格基础设施集成以及优化云资源。该职位提供了对气候变化产生真正影响的机会，并具有全面的健康福利和无限的 PTO。]]></description>
+      <guid>https://t.me/hn_summary/81760</guid>
+      <pubDate>Thu, 28 Mar 2024 21:02:25 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在对已婚夫妇常见年龄差异的分析中，数据来自 2022 年美国 [...]</title>
-      <link>https://t.me/hn_summary/81700</link>
-      <description><![CDATA[已婚夫妇常见的年龄差异
-在对已婚夫妇常见年龄差异的分析中，2022 年美国社区调查的数据显示，三分之一的男女已婚家庭的配偶年龄相差不到一年，其中丈夫的年龄通常较大。令人惊讶的是，年龄差距并没有随着年龄的增长而显着增加，更大的差距在第二次和第三次婚姻以及同性婚姻中更为常见。使用 R 和 Adob​​e Illustrator 对数据进行分析，突显已婚夫妇之间不同年龄差距的普遍性。这一发人深省的分析促使人们进一步探索人际关系中的年龄差异如何随着时间的推移而演变。]]></description>
-      <guid>https://t.me/hn_summary/81700</guid>
-      <pubDate>Thu, 28 Mar 2024 14:54:30 GMT</pubDate>
+      <title>[媒体]PyPI 是开源开发人员的重要存储库，最近面临供应链问题 [...]</title>
+      <link>https://t.me/hn_summary/81759</link>
+      <description><![CDATA[PyPI 在抵御供应链攻击的同时停止了新用户和项目
+PyPI 是开源开发人员的重要存储库，最近面临供应链攻击，导致新项目创建和用户注册暂时停止。攻击者上传了感染用户设备的恶意软件包，并利用误植来诱骗用户安装它们。这一事件突显了软件开发生态系统中日益增长的威胁，类似的攻击针对的是 GitHub 和 Python 开发人员。恶意代码隐藏在合法包中，使得检测变得困难。开发者必须保持警惕，在安装前彻底检查软件包，以防范此类攻击。]]></description>
+      <guid>https://t.me/hn_summary/81759</guid>
+      <pubDate>Thu, 28 Mar 2024 20:59:49 GMT</pubDate>
     </item>
     <item>
-      <title>我抓取了 OpenAI 社区论坛的所有内容，并编译了有关帖子讨论、标签、观点的数据，[...]</title>
-      <link>https://t.me/hn_summary/81699</link>
-      <description><![CDATA[显示 HN：我抓取了 OpenAI 社区论坛的所有内容 
-我抓取了 OpenAI 的所有社区论坛，并整理了有关帖子讨论、标签、视图、回复、点赞、参与者、字数、作者信息、情绪等的数据。这些数据包括帖子 ID、时间戳、类别、相关主题、情绪得分和内容嵌入。这个全面的数据集为 OpenAI 社区的讨论和互动提供了宝贵的见解。探索 julep-ai.github.io 发现论坛内的趋势和模式。]]></description>
-      <guid>https://t.me/hn_summary/81699</guid>
-      <pubDate>Thu, 28 Mar 2024 14:45:54 GMT</pubDate>
+      <title>[媒体]Babylon.js 7.0 现已发布，标志着新功能和优化的一年，推动 [...]</title>
+      <link>https://t.me/hn_summary/81758</link>
+      <description><![CDATA[Babylon 7.0 已推出
+Babylon.js 7.0 现已发布，标志着新功能和优化突破 Web 渲染界限的一年。亮点是引入了 Node Geometry，允许创建者在运行时构建复杂的几何图形，而无需下载大量资源。全局照明增加了逼真的灯光效果，而高斯斑点渲染则提供了无与伦比的视觉保真度。 Ragdoll 物理、WebXR 支持、Apple Vision Pro 兼容性和高级动画更新进一步增强了该平台。这个社区驱动的平台还引入了 Greased Line 系统、高级地面投影、无缝纹理贴花和 MMD 支持。与我们一起庆祝 Babylon.js 7.0 的强大、美丽、简单和开放！]]></description>
+      <guid>https://t.me/hn_summary/81758</guid>
+      <pubDate>Thu, 28 Mar 2024 20:57:15 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Dioxus 0.5 是一次重大更新，为构建库带来了重大变化 [...]</title>
-      <link>https://t.me/hn_summary/81698</link>
-      <description><![CDATA[Dioxus 0.5：Rust 中的 Web、桌面、移动应用
-Dioxus 0.5 是一个重大更新，为 Rust 中构建 GUI 的库带来了重大变化。该更新包括对核心的完全重写，删除所有不安全代码，并引入信号作为组件的核心状态原语。信号始终是复制的，不需要手动订阅，使状态管理变得更加容易。此更新还删除了生命周期和作用域，简化了组件声明和运行时函数的使用。通过这些变化，Dioxus 的目标是让应用程序开发变得更容易、更高效，同时满足新手和经验丰富的 Rust 开发人员的需求。 （根据故事文本的 35% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/81698</guid>
-      <pubDate>Thu, 28 Mar 2024 14:44:51 GMT</pubDate>
+      <title>[媒体]令人震惊的是，加拿大皇家骑警的一份秘密报告警告说，一旦加拿大人 [...]</title>
+      <link>https://t.me/hn_summary/81757</link>
+      <description><![CDATA[皇家骑警报告警告加拿大人一旦意识到自己有多破产，可能会反抗&lt; /a&gt;
+加拿大皇家骑警的一份秘密报告令人震惊，警告称，一旦加拿大人意识到自己的经济形势严峻，他们可能会反抗。该报告预测生活水平将恶化，尤其是对于可能永远买不起房的年轻一代来说。它还强调了割让北极领土的压力越来越大，并警告错误信息和阴谋论助长了社会和政治两极分化。由于生产率下降和住房负担能力创历史新高，该报告为加拿大的未来描绘了一幅黯淡的图景。这份有争议的报告揭示了加拿大人在努力应对其财务现实时可能发生的内乱。]]></description>
+      <guid>https://t.me/hn_summary/81757</guid>
+      <pubDate>Thu, 28 Mar 2024 20:24:30 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]谷歌的 Lars Bergstrom 在 Twitter 上分享了一些有趣的见解，揭示了 [...]</title>
-      <link>https://t.me/hn_summary/81697</link>
-      <description><![CDATA[Google 的 Lars Bergstrom：Rust 团队的工作效率是使用 C++ 的团队的两倍
-来自 Google 的 Lars Bergstrom 在 Twitter 上分享了一些有趣的见解，揭示 Rust 团队的生产力是使用 C++ 的团队的两倍。这一声明引发了开发商的争论，一些人质疑这一说法的有效性。围绕 Rust 与 C++ 生产力的争议引起了技术社区许多人的关注。这是一个大胆的声明，让许多人想知道在软件开发中使用 Rust 相对于 C++ 的潜在好处。]]></description>
-      <guid>https://t.me/hn_summary/81697</guid>
-      <pubDate>Thu, 28 Mar 2024 14:30:43 GMT</pubDate>
+      <title>[媒体] 乙酸盐是一种关键的生物分子，在新陈代谢和表观遗传学中发挥着至关重要的作用。</title>
+      <link>https://t.me/hn_summary/81756</link>
+      <description><![CDATA[重新审视醋酸盐：代谢、表观遗传学关系中的关键生物分子&lt; /a&gt;
+乙酸盐是一种关键的生物分子，在新陈代谢和表观遗传学中发挥着至关重要的作用。虽然补充醋酸盐与减肥、心脏保护和抗炎作用等多种健康益处有关，但它也与癌症等疾病有关。醋酸盐的双重声誉凸显了其对人类健康的复杂性。富含微生物可利用碳水化合物 (MAC) 的高纤维饮食可促进肠道健康和醋酸盐的产生，从而有助于整体健康。然而，高脂肪、高热量饮食中的醋酸盐会导致肥胖和代谢综合征。了解乙酸盐的来源和代谢，包括其在肝脏和肠道微生物群中的作用，对于理解其对人类健康的影响至关重要。 （根据故事文本的 6% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/81756</guid>
+      <pubDate>Thu, 28 Mar 2024 20:15:53 GMT</pubDate>
     </item>
     <item>
-      <title>戴尔要求员工返回办公室，否则可能会错过晋升机会，sparkin [...]</title>
-      <link>https://t.me/hn_summary/81696</link>
-      <description><![CDATA[戴尔：返回办公室或放弃晋升&lt; br/&gt;
-戴尔要求员工返回办公室，否则可能会错过晋升机会，这引发了员工的困惑和强烈反对。该公司从重视远程工作转向优先考虑办公室工作，引发了人们对隐形裁员的担忧，并对女性和残疾人产生了不成比例的影响。工作场所文化专家杰西卡·克里格尔表示，戴尔强制重返办公室是一种“精简员工队伍”的方式，可能会导致一些员工辞职。这项有争议的政策反映出，尽管员工不满并担心远程工作对经济和商业地产的影响，但企业仍倾向于取消远程工作政策。]]></description>
-      <guid>https://t.me/hn_summary/81696</guid>
-      <pubDate>Thu, 28 Mar 2024 14:19:36 GMT</pubDate>
+      <title>[媒体] 想要升级您的收件箱吗？</title>
+      <link>https://t.me/hn_summary/81755</link>
+      <description><![CDATA[为什么 Gmail 用户改用 Fastmail
+想要升级您的收件箱吗？ Fastmail 提供屏蔽电子邮件、标签、文件夹、别名和个人域等生产力功能来简化您的工作流程。数字学习设计师 Barry Sampson 分享了他如何最大化他的 Fastmail 帐户。 Fastmail 的吸引力在于隐私、开放标准和卓越的客户服务。适用于个人和企业帐户的灵活工作流程，结合受 PARA 方法和 Trusted Trio 启发的独特标签技术，可增强组织能力。屏蔽电子邮件以及集成日历和联系人等功能使 Fastmail 成为全面的解决方案。自定义域、别名和颜色编码组织进一步个性化体验。 Fastmail 是提高工作效率和保护隐私的不二之选。]]></description>
+      <guid>https://t.me/hn_summary/81755</guid>
+      <pubDate>Thu, 28 Mar 2024 20:02:14 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 介绍 3D 打印二进制恩尼格玛 (10 Enigma) – 终极加密和解密 [...]</title>
-      <link>https://t.me/hn_summary/81695</link>
-      <description><![CDATA[Show HN：我制作了一个用于手动加密的二进制恩尼格玛机
-隆重推出 3D 打印二进制恩尼格玛机 (10 Enigma) – 受二战恩尼格玛机启发的终极加密和解密设备。这种手动设备为无需电池的现代通信提供了简单性和安全性。请务必小心，因为机器需要精确处理和定位环才能正确操作。通过将文本转换为简化的二进制文件并费力地按下相应的按钮来加密消息。按照相反的相同过程进行解密。从解码秘密消息中获利并尝试破解所提供的谜题。该设备的机械结构通过详细的组装说明进行了解释。使用二进制恩尼格玛体验前所未有的加密！]]></description>
-      <guid>https://t.me/hn_summary/81695</guid>
-      <pubDate>Thu, 28 Mar 2024 14:18:30 GMT</pubDate>
+      <title>[媒体]波音公司的质量经理约翰·巴尼特 (John Barnett) 在首席执行官的领导下面临着充满敌意的工作环境 [...]</title>
+      <link>https://t.me/hn_summary/81754</link>
+      <description><![CDATA[波音对所有记得如何制造飞机的人做了什么
+波音公司的质量经理约翰·巴尼特 (John Barnett) 在首席执行官吉姆·麦克纳尼 (Jim McNerney) 的领导下面临着充满敌意的工作环境。麦克纳尼对削减成本和外包的关注导致了波音公司质量和安全性的下降。巴尼特被称为“沼泽”，他试图维护安全标准，但因指出飞机的缺陷而面临报复。波音公司的有毒文化最终导致了 737 MAX 坠机事件，暴露了该公司对安全的漠视。巴尼特的举报工作揭露了该公司的不道德行为，并促使美国联邦航空局加强审查。尽管面临强烈反对，巴尼特还是坚持了正确的做法，并揭露了波音制造流程中的缺陷。 （根据故事文本的 74% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/81754</guid>
+      <pubDate>Thu, 28 Mar 2024 19:55:38 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]标题：Reddit内部人士在IPO后一直在抛售股票</title>
-      <link>https://t.me/hn_summary/81694</link>
-      <description><![CDATA[Reddit 内部人士在 IPO 后一直在抛售股票&lt; br/&gt;
-标题：Reddit 内部人士在 IPO 后一直在抛售股票
-
-最近，有消息称 Reddit 的内部人士在公司 IPO 后抛售了他们的股票。这引起了一些人的关注，并引发了投资者和分析师的争议。许多人质疑这些销售背后的动机以及这对公司的未来意味着什么。对于一个以透明度和社区参与为荣的平台来说，这是一个令人惊讶的转变。只有时间才能证明这将如何影响 Reddit 的市场轨迹。请继续关注这个发展故事的更新。]]></description>
-      <guid>https://t.me/hn_summary/81694</guid>
-      <pubDate>Thu, 28 Mar 2024 14:16:26 GMT</pubDate>
+      <title>[媒体]台湾数字部长和活动家唐奥最近在一次暗杀中幸存 [...]</title>
+      <link>https://t.me/hn_summary/81753</link>
+      <description><![CDATA[台湾数位部长活动人士唐凤在暗杀企图中幸存&lt; br/&gt;
+台湾数字部长兼活动家唐奥最近在一次暗杀行动中幸存。这一令人震惊的事件引发争议，并引发人们对台湾政治人物安全的担忧。尽管遭受攻击，唐仍然坚韧不拔，并继续倡导数字权利和社会正义。请继续关注这个发展故事的更新。 #AudreyTang #台湾#ActivistSurvives]]></description>
+      <guid>https://t.me/hn_summary/81753</guid>
+      <pubDate>Thu, 28 Mar 2024 19:43:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
