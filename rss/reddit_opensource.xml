@@ -4,7 +4,7 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 28 Mar 2024 06:15:04 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 Mar 2024 09:13:23 GMT</lastBuildDate>
     <item>
       <title>学术项目的开源许可证</title>
       <link>https://www.reddit.com/r/opensource/comments/1bpjg7p/opensource_licenses_in_academic_projects/</link>
@@ -36,7 +36,7 @@
     <item>
       <title>您能帮助我们让我们的开源库在 Product Hunt 上得到推荐吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1bpc0ky/can_you_help_us_get_our_open_source_lib_to_be/</link>
-      <description><![CDATA[    /u/pjbacelar   [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[   /u/pjbacelar  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1bpc0ky/can_you_help_us_get_our_open_source_lib_to_be/</guid>
       <pubDate>Wed, 27 Mar 2024 20:25:05 GMT</pubDate>
     </item>
@@ -64,7 +64,7 @@
     <item>
       <title>Python 的 Makefile 解析器库</title>
       <link>https://www.reddit.com/r/opensource/comments/1boxcyh/makefile_parser_library_for_python/</link>
-      <description><![CDATA[大家好！  我很自豪地推出一个我认为有用的 Python Makefile 解析器！ 链接是 Thanatisia/makefile-parser-python 最近，我一直在计划一个涉及在 Python 中使用 Makefile 的副项目，并且我需要使用Makefile 解析器 ala json 或 pyyaml - 您可以将 Makefile 作为对象/字典/列表导入到 python 中。因此，我开始寻找 Makefile 解析器。  我发现的唯一解析器是 PyMake(2)，它很酷，但据我记忆，它自 2017 年以来就没有更新过，而且它更像是一个 CLI 实用程序，因此考虑到这一点，我想要实现它 我希望这对我来说是有用的，目前我正在一个业余项目中使用它，并且我能够对其进行格式化，以便它打印出典型的Makefile 结构一目了然，非常好。   由   提交 /u/Cybasura   [链接] [评论]]]></description>
+      <description><![CDATA[大家好！  我很自豪地介绍一个我认为有用的 Python Makefile 解析器！ 链接是 Thanatisia/makefile-parser-python 最近，我一直在计划一个涉及在 Python 中使用 Makefile 的副项目，并且我需要使用Makefile 解析器 ala json 或 pyyaml - 您可以将 Makefile 作为对象/字典/列表导入到 python 中。因此，我开始寻找 Makefile 解析器。  我发现的唯一解析器是 PyMake(2)，它很酷，但据我记忆，它自 2017 年以来就没有更新过，而且它更像是一个 CLI 实用程序，因此考虑到这一点，我想要实现它 我希望这对我来说是有用的，目前我正在一个业余项目中使用它，并且我能够对其进行格式化，以便它打印出典型的Makefile 结构一目了然，非常好。   由   提交 /u/Cybasura   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1boxcyh/makefile_parser_library_for_python/</guid>
       <pubDate>Wed, 27 Mar 2024 09:03:03 GMT</pubDate>
     </item>
@@ -99,7 +99,7 @@
     <item>
       <title>Google Summer of Code 申请问题</title>
       <link>https://www.reddit.com/r/opensource/comments/1bot9or/google_summer_of_code_application_question/</link>
-      <description><![CDATA[有谁知道如果同一个组织有不同的项目可用，您是否可以提交多个提案？ 谢谢   由   提交 /u/krashbic   [链接] [评论]]]></description>
+      <description><![CDATA[有谁知道如果同一个组织有不同的可用项目，您是否可以提交多个提案？ 谢谢   由   提交/u/krashbic  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1bot9or/google_summer_of_code_application_question/</guid>
       <pubDate>Wed, 27 Mar 2024 04:29:58 GMT</pubDate>
     </item>
