@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Thu, 28 Mar 2024 21:06:05 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 Mar 2024 00:47:15 GMT</lastBuildDate>
     <item>
-      <title>[媒体] 隆重推出 Seeturn，这是一款利用 GPT-3.5 和 GPT-4 技术的基于人工智能的代码翻译器 [...]</title>
-      <link>https://t.me/hn_summary/81762</link>
-      <description><![CDATA[展示 HN：Seeturn – 基于人工智能的代码翻译器 
-隆重推出基于 AI 的代码翻译器 Seeturn，它利用 GPT-3.5 和 GPT-4 技术在各种编程语言之间无缝翻译代码。只需输入您的脚本并单击“翻译”即可在汇编语言、Bash、C、C#、C++ 等之间进行转换。从 HTML 到 Python，Seeturn 都能满足您的需求。对于希望简化工作流程并轻松在语言之间切换的开发人员来说，这一创新工具是一个游戏规则改变者。告别手动翻译，让 Seeturn 为您完成这项工作。查看 seeturn.netlify.app 体验未来代码翻译。]]></description>
-      <guid>https://t.me/hn_summary/81762</guid>
-      <pubDate>Thu, 28 Mar 2024 21:06:05 GMT</pubDate>
+      <title>隆重推出 Grok-1.5，这是一种尖端的大型语言模型 (LLM)，能够处理 lo [...]</title>
+      <link>https://t.me/hn_summary/81795</link>
+      <description><![CDATA[Grok-1.5
+推出 Grok-1.5，这是一种尖端的大型语言模型 (LLM)，能够处理多达 128K 个标记的长上下文，显着扩展了其内存容量。在 Haystack 评估中，Grok-1.5 展示了在冗长上下文中嵌入文本的完美检索结果。 Grok-1.5 基于使用 JAX、Rust 和 Kubernetes 的自定义分布式训练框架构建，可确保在大规模 GPU 集群上进行训练的强大而灵活的基础设施。当我们准备向早期测试人员发布 Grok-1.5 时，我们渴望收到反馈以进一步增强其功能。随着我们不断发展 Grok，请继续关注未来几天令人兴奋的新功能。如果您有兴趣使用我们的创新培训堆栈，请申请加入我们的团队。]]></description>
+      <guid>https://t.me/hn_summary/81795</guid>
+      <pubDate>Fri, 29 Mar 2024 00:47:15 GMT</pubDate>
     </item>
     <item>
-      <title>作者正在与自己的情商作斗争，感到有自我意识，但无法 [...]</title>
-      <link>https://t.me/hn_summary/81761</link>
-      <description><![CDATA[问 HN：如何提高情商 
-作者正在与自己的情商作斗争，感觉有自我意识，但无法在不引起负面情绪的情况下有效沟通。他们正在寻找一本类似于《妈妈测试》的书来发现客户，但重点是情商。他们想要一本能够提供有关如何有效沟通和理解他人观点的具体逐字建议的书。这种对提高情商的实用指导的追求凸显了作者以精确且可行的方式提高人际交往能力的愿望。]]></description>
-      <guid>https://t.me/hn_summary/81761</guid>
-      <pubDate>Thu, 28 Mar 2024 21:05:00 GMT</pubDate>
+      <title>[媒体] rev.ng 反编译器已开源，后端现已可供公众使用。</title>
+      <link>https://t.me/hn_summary/81794</link>
+      <description><![CDATA[rev.ng 反编译器开源
+rev.ng 反编译器已经开源，现在有后端可供公众使用。该版本包括初始文档并邀请用户加入 UI 的封闭测试版。该反编译器专注于自动数据结构恢复、现代用户体验、协作逆向、广泛的平台支持和可扩展性。用户可以通过安装并反编译简单程序来尝试rev.ng。 UI 基于 VSCode，并允许交互式更改。 UI 的协作性质使多个用户能够同时处理同一个项目。该反编译器支持广泛的架构和 ABI，使其成为逆向工程的多功能工具。 （根据故事文本的 57% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/81794</guid>
+      <pubDate>Fri, 29 Mar 2024 00:42:39 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Keeling Labs 成立于 2022 年，其使命是通过应用 Ma [...]</title>
-      <link>https://t.me/hn_summary/81760</link>
-      <description><![CDATA[Keeling Labs (YC W23) 正在为应用材料公司招聘一名高级数据工程师网格中的机器学习
-Keeling Labs 成立于 2022 年，其使命是通过应用机器学习优化电网中的能源存储来应对气候变化。他们已经取得了重大进展，包括通过 Y Combinator、筹集资金以及在加利福尼亚州部署他们的 ML 模型。现在，他们专注于将其技术扩展到更多的电网市场，并建立一个更大的模型来运行巨型电池。他们正在寻找一名高级数据工程师加入他们的团队，负责扩展数据管道、与网格基础设施集成以及优化云资源。该职位提供了对气候变化产生真正影响的机会，并具有全面的健康福利和无限的 PTO。]]></description>
-      <guid>https://t.me/hn_summary/81760</guid>
-      <pubDate>Thu, 28 Mar 2024 21:02:25 GMT</pubDate>
+      <title>[媒体] Twitter（现称为 X）被发现向执法机构出售用户数据 [...]</title>
+      <link>https://t.me/hn_summary/81793</link>
+      <description><![CDATA[Twitter 在抱怨监视的同时向政府间谍出售数据
+Twitter（现称为 X）被发现通过一家名为 Dataminr 的监控公司向执法机构出售用户数据，尽管此前曾起诉美国政府要求监控做法的透明度。这一爆料让该公司和倡导言论自由的埃隆·马斯克都陷入了妥协的境地。出售的数据可以实时监控在线活动，包括抗议活动。虽然这种做法违背了 Twitter 自己的政策，但从技术上讲，它在到达政府机构之前会经过一家中间数据公司。这种有争议的做法在马斯克上任之前就一直在持续，凸显了情况的两面性。]]></description>
+      <guid>https://t.me/hn_summary/81793</guid>
+      <pubDate>Fri, 29 Mar 2024 00:37:32 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]PyPI 是开源开发人员的重要存储库，最近面临供应链问题 [...]</title>
-      <link>https://t.me/hn_summary/81759</link>
-      <description><![CDATA[PyPI 在抵御供应链攻击的同时停止了新用户和项目
-PyPI 是开源开发人员的重要存储库，最近面临供应链攻击，导致新项目创建和用户注册暂时停止。攻击者上传了感染用户设备的恶意软件包，并利用误植来诱骗用户安装它们。这一事件突显了软件开发生态系统中日益增长的威胁，类似的攻击针对的是 GitHub 和 Python 开发人员。恶意代码隐藏在合法包中，使得检测变得困难。开发者必须保持警惕，在安装前彻底检查软件包，以防范此类攻击。]]></description>
-      <guid>https://t.me/hn_summary/81759</guid>
-      <pubDate>Thu, 28 Mar 2024 20:59:49 GMT</pubDate>
+      <title>电动汽车车主面临着一个令人惊讶的问题——轮胎快速烧毁。</title>
+      <link>https://t.me/hn_summary/81792</link>
+      <description><![CDATA[没有人告诉电动车车主轮胎烧坏的速度 
+电动汽车车主面临着一个令人惊讶的问题——轮胎快速烧毁。由于电动汽车的重量和即时动力，不仅会更快地磨损橡胶和道路，而且许多车主从未被告知这一潜在问题。这种教育的缺乏凸显了汽车购买过程中的差距，电动汽车车主期望与内燃机汽车车主类似的轮胎磨损。米其林和固特异等公司认识到独特的要求，现在专门销售电动汽车轮胎。随着电动汽车市场的增长，需要更好的教育和产品开发来解决维护成本并为客户提供更好的价值。]]></description>
+      <guid>https://t.me/hn_summary/81792</guid>
+      <pubDate>Fri, 29 Mar 2024 00:25:26 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Babylon.js 7.0 现已发布，标志着新功能和优化的一年，推动 [...]</title>
-      <link>https://t.me/hn_summary/81758</link>
-      <description><![CDATA[Babylon 7.0 已推出
-Babylon.js 7.0 现已发布，标志着新功能和优化突破 Web 渲染界限的一年。亮点是引入了 Node Geometry，允许创建者在运行时构建复杂的几何图形，而无需下载大量资源。全局照明增加了逼真的灯光效果，而高斯斑点渲染则提供了无与伦比的视觉保真度。 Ragdoll 物理、WebXR 支持、Apple Vision Pro 兼容性和高级动画更新进一步增强了该平台。这个社区驱动的平台还引入了 Greased Line 系统、高级地面投影、无缝纹理贴花和 MMD 支持。与我们一起庆祝 Babylon.js 7.0 的强大、美丽、简单和开放！]]></description>
-      <guid>https://t.me/hn_summary/81758</guid>
-      <pubDate>Thu, 28 Mar 2024 20:57:15 GMT</pubDate>
+      <title>[媒体]气候变化导致的极地冰融化正在影响地球自转，缓慢[...]</title>
+      <link>https://t.me/hn_summary/81791</link>
+      <description><![CDATA[气候变化引起的极地冰融化正在减慢地球自转
+气候变化导致的极地冰融化正在影响地球自转，使其减慢。这种现象以及核心速度减慢等其他因素正在影响计时并导致通用时和原子时之间缺乏同步。研究人员邓肯·阿格纽将极地冰的加速融化与地球自转联系起来，将其比作滑冰者伸出手臂以减速。这种意想不到的连接对全球计时基础设施产生了影响，未来可能需要减去一秒而不是添加一秒。关于闰秒及其对各种系统的影响的争论仍在继续，未来时间的计算和调整方式可能会发生变化。]]></description>
+      <guid>https://t.me/hn_summary/81791</guid>
+      <pubDate>Fri, 29 Mar 2024 00:00:45 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]令人震惊的是，加拿大皇家骑警的一份秘密报告警告说，一旦加拿大人 [...]</title>
-      <link>https://t.me/hn_summary/81757</link>
-      <description><![CDATA[皇家骑警报告警告加拿大人一旦意识到自己有多破产，可能会反抗&lt; /a&gt;
-加拿大皇家骑警的一份秘密报告令人震惊，警告称，一旦加拿大人意识到自己的经济形势严峻，他们可能会反抗。该报告预测生活水平将恶化，尤其是对于可能永远买不起房的年轻一代来说。它还强调了割让北极领土的压力越来越大，并警告错误信息和阴谋论助长了社会和政治两极分化。由于生产率下降和住房负担能力创历史新高，该报告为加拿大的未来描绘了一幅黯淡的图景。这份有争议的报告揭示了加拿大人在努力应对其财务现实时可能发生的内乱。]]></description>
-      <guid>https://t.me/hn_summary/81757</guid>
-      <pubDate>Thu, 28 Mar 2024 20:24:30 GMT</pubDate>
+      <title>犹他州通过了开创性的立法《人工智能政策法案》，成为 [...]</title>
+      <link>https://t.me/hn_summary/81790</link>
+      <description><![CDATA[犹他州通过人工智能立法
+犹他州通过了开创性的《人工智能政策法案》，成为首批监管人工智能的州之一。该法律规定了使用人工智能系统的实体的披露义务，特别是在生成式人工智能交互中。不遵守规定可能会导致巨额罚款。人工智能政策办公室和人工智能学习实验室计划的成立旨在鼓励创新，同时确保消费者保护。该计划的参与者可以获得监管缓解，以在监督下测试他们的人工智能应用程序。 Snell &amp; Wilmer 将密切关注这一不断变化的法律格局。]]></description>
+      <guid>https://t.me/hn_summary/81790</guid>
+      <pubDate>Thu, 28 Mar 2024 23:55:39 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 乙酸盐是一种关键的生物分子，在新陈代谢和表观遗传学中发挥着至关重要的作用。</title>
-      <link>https://t.me/hn_summary/81756</link>
-      <description><![CDATA[重新审视醋酸盐：代谢、表观遗传学关系中的关键生物分子&lt; /a&gt;
-乙酸盐是一种关键的生物分子，在新陈代谢和表观遗传学中发挥着至关重要的作用。虽然补充醋酸盐与减肥、心脏保护和抗炎作用等多种健康益处有关，但它也与癌症等疾病有关。醋酸盐的双重声誉凸显了其对人类健康的复杂性。富含微生物可利用碳水化合物 (MAC) 的高纤维饮食可促进肠道健康和醋酸盐的产生，从而有助于整体健康。然而，高脂肪、高热量饮食中的醋酸盐会导致肥胖和代谢综合征。了解乙酸盐的来源和代谢，包括其在肝脏和肠道微生物群中的作用，对于理解其对人类健康的影响至关重要。 （根据故事文本的 6% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/81756</guid>
-      <pubDate>Thu, 28 Mar 2024 20:15:53 GMT</pubDate>
+      <title>[媒体]Meta（原名 Facebook）已停止其原始流媒体内容制作 [...]</title>
+      <link>https://t.me/hn_summary/81789</link>
+      <description><![CDATA[Facebook 让 Netflix 查看用户私信，停止流媒体以让 Netflix 满意&lt; /a&gt;
+由于成本削减和裁员，Meta（原名 Facebook）已停止其原创流媒体内容制作，包括贾达·萍克特·史密斯 (Jada Pinkett Smith) 的《红桌谈话》(Red Table Talk) 等热门节目。然而，最近公布的反垄断诉讼法庭文件称，Meta 终止了流媒体业务，以取悦其最大广告客户之一的 Netflix。该诉讼称，Facebook 允许 Netflix 访问用户的私人消息，以换取广告支出，从而使 Netflix 能够影响重大商业决策。 Meta 尚未对这些指控发表评论，但围绕 Facebook 和 Netflix 之间关系的争议引发了有关用户隐私和流媒体行业竞争的问题。]]></description>
+      <guid>https://t.me/hn_summary/81789</guid>
+      <pubDate>Thu, 28 Mar 2024 23:50:03 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 想要升级您的收件箱吗？</title>
-      <link>https://t.me/hn_summary/81755</link>
-      <description><![CDATA[为什么 Gmail 用户改用 Fastmail
-想要升级您的收件箱吗？ Fastmail 提供屏蔽电子邮件、标签、文件夹、别名和个人域等生产力功能来简化您的工作流程。数字学习设计师 Barry Sampson 分享了他如何最大化他的 Fastmail 帐户。 Fastmail 的吸引力在于隐私、开放标准和卓越的客户服务。适用于个人和企业帐户的灵活工作流程，结合受 PARA 方法和 Trusted Trio 启发的独特标签技术，可增强组织能力。屏蔽电子邮件以及集成日历和联系人等功能使 Fastmail 成为全面的解决方案。自定义域、别名和颜色编码组织进一步个性化体验。 Fastmail 是提高工作效率和保护隐私的不二之选。]]></description>
-      <guid>https://t.me/hn_summary/81755</guid>
-      <pubDate>Thu, 28 Mar 2024 20:02:14 GMT</pubDate>
+      <title>[媒体]您在寻找更多游戏吗？</title>
+      <link>https://t.me/hn_summary/81788</link>
+      <description><![CDATA[末日验证码
+您在寻找更多游戏吗？查看《Doom Captcha》，这是一个有趣的项目，您必须击败敌人才能完成验证码。别太认真了，一切都很有趣。您甚至可以使用 iddqd 等作弊码立即完成验证码。该项目成为 Product Hunt 当天的顶级产品，令仅仅一个周末就开发出该项目的创建者感到惊讶。如果您喜欢 Doom Captcha，请查看创建者的其他项目。 《毁灭战士》的创造者约翰·卡马克甚至喜欢它！]]></description>
+      <guid>https://t.me/hn_summary/81788</guid>
+      <pubDate>Thu, 28 Mar 2024 23:44:29 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]波音公司的质量经理约翰·巴尼特 (John Barnett) 在首席执行官的领导下面临着充满敌意的工作环境 [...]</title>
-      <link>https://t.me/hn_summary/81754</link>
-      <description><![CDATA[波音对所有记得如何制造飞机的人做了什么
-波音公司的质量经理约翰·巴尼特 (John Barnett) 在首席执行官吉姆·麦克纳尼 (Jim McNerney) 的领导下面临着充满敌意的工作环境。麦克纳尼对削减成本和外包的关注导致了波音公司质量和安全性的下降。巴尼特被称为“沼泽”，他试图维护安全标准，但因指出飞机的缺陷而面临报复。波音公司的有毒文化最终导致了 737 MAX 坠机事件，暴露了该公司对安全的漠视。巴尼特的举报工作揭露了该公司的不道德行为，并促使美国联邦航空局加强审查。尽管面临强烈反对，巴尼特还是坚持了正确的做法，并揭露了波音制造流程中的缺陷。 （根据故事文本的 74% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/81754</guid>
-      <pubDate>Thu, 28 Mar 2024 19:55:38 GMT</pubDate>
+      <title>雷迪斯有限公司</title>
+      <link>https://t.me/hn_summary/81787</link>
+      <description><![CDATA[取代 Redis 的竞赛
+Redis Ltd. 最近宣布将 Redis“内存数据存储”项目转向非免费、可获取源代码的许可证，这在开源社区引发了争议。这一举措导致了多个 Redis 替代品的出现，包括 KeyDB 和 Linux 基金会的 Valkey 项目。更改许可的决定引发了人们对 Redis 的未来以及对 Linux 发行版、用户和提供商的影响的质疑。此外，向 SSPL 和 RSAL 等使用限制许可证的转变引发了关于云提供商对开源项目贡献的争论。业界正在见证一场取代 Redis 的竞赛，Valkey 成为了一个突出的竞争者。 （根据 63% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/81787</guid>
+      <pubDate>Thu, 28 Mar 2024 23:34:54 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]台湾数字部长和活动家唐奥最近在一次暗杀中幸存 [...]</title>
-      <link>https://t.me/hn_summary/81753</link>
-      <description><![CDATA[台湾数位部长活动人士唐凤在暗杀企图中幸存&lt; br/&gt;
-台湾数字部长兼活动家唐奥最近在一次暗杀行动中幸存。这一令人震惊的事件引发争议，并引发人们对台湾政治人物安全的担忧。尽管遭受攻击，唐仍然坚韧不拔，并继续倡导数字权利和社会正义。请继续关注这个发展故事的更新。 #AudreyTang #台湾#ActivistSurvives]]></description>
-      <guid>https://t.me/hn_summary/81753</guid>
-      <pubDate>Thu, 28 Mar 2024 19:43:59 GMT</pubDate>
+      <title>Xr0.dev 推出了 Xr0，这是一个工具，通过保证 c [...] 的安全性，使 C 程序比 Rust 更安全。</title>
+      <link>https://t.me/hn_summary/81786</link>
+      <description><![CDATA[Xr0 使 C 比 Rust 更安全
+Xr0.dev 介绍了 Xr0，一个使 C 程序比Rust 通过保证编译时的安全性。通过形式化和验证函数接口，Xr0 消除了常见的安全问题，例如释放后使用和空指针取消引用。虽然 Rust 解决了 C 的安全问题，但其复杂性和严格的所有权模型可能会阻碍其广泛采用。 Xr0关注接口形式，认为这是C程序不安全的根本原因。通过使用安全语义注释函数并验证其合规性，Xr0 为 C 语言的安全挑战提供了灵活实用的解决方案。这种创新方法可能会在不影响简单性和控制的情况下增强安全性，从而彻底改变系统编程。 （根据 57% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/81786</guid>
+      <pubDate>Thu, 28 Mar 2024 23:32:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
