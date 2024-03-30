@@ -4,7 +4,21 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sat, 30 Mar 2024 09:10:39 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 Mar 2024 12:17:36 GMT</lastBuildDate>
+    <item>
+      <title>更改控制器输入的程序</title>
+      <link>https://www.reddit.com/r/software/comments/1brfvgd/program_to_change_controller_input/</link>
+      <description><![CDATA[尝试玩《Forbidden West》后，我注意到我的控制器没有在 RT 触发器上输入足够的力，游戏无法将其视为输入。是否有软件可以改变游戏/计算机认为其输入的内容。作为参考，如果我按下右扳机，它只会提供 11k 的力量，而游戏只有在力量为 12k 时才会将其作为输入（数字可能有点错误） 编辑： https ://preview.redd.it/1mc5w0dcqgrc1.png?width=499&amp;format=png&amp;auto=webp&amp;s=a526e19094dfd5e2cc5e703b2b6494a4d7b07aa0 这是来自 Joy.cpl 的原始数据。我的触发器 z 轴可以达到 0（一直按下 RT），游戏将其视为未触发   由   提交 /u/Elkoria   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1brfvgd/program_to_change_controller_input/</guid>
+      <pubDate>Sat, 30 Mar 2024 11:41:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>找到了有史以来最好的下载管理器</title>
+      <link>https://www.reddit.com/r/software/comments/1brfgdf/found_the_best_download_manger_for_all_time/</link>
+      <description><![CDATA[File Centipede：文件传输和 Torrent 的瑞士军刀 主要功能  全面的协议支持： HTTP、HTTPS、FTP、FTPS、Magnet Links、BitTorrent、WebDAV、SSH、SFTP。 强大的浏览器集成：直接从网站下载音频和视频流（包括加密流）。 高度可定制：修改标头、cookie、用户代理，以及定制下载的速度限制。 辅助工具包：包括 HTTP 请求程序、文件合并工具、编码器/解码器和正则表达式测试程序。  独立且用户友好：由活跃的个人而不是大公司开发。高级版本是免费的，您是否希望使用网站上的每日激活码或支持该项目与捐款。未来计划推出更多功能。注意：深色模式正在开发中！对于某些人来说可能会破坏交易  它就像fdm，但在steriods上 文件蜈蚣   由   提交 /u/while_true_sleep   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1brfgdf/found_the_best_download_manger_for_all_time/</guid>
+      <pubDate>Sat, 30 Mar 2024 11:16:44 GMT</pubDate>
+    </item>
     <item>
       <title>PDF 阅读器能够删除不需要的页面</title>
       <link>https://www.reddit.com/r/software/comments/1brd0f0/pdf_reader_with_the_ability_to_remove_unwanted/</link>
@@ -22,19 +36,19 @@
     <item>
       <title>特定网站上的反向图像搜索</title>
       <link>https://www.reddit.com/r/software/comments/1brck06/reverse_image_search_on_a_specific_site/</link>
-      <description><![CDATA[大家好， 我正在寻找 Google 反向图像搜索的替代方案。我试图解决的问题：偶尔我会在英文网站上找到一些工具、硬件，并且我想在一些本地商店网站上找到相同的产品。然而，通常这需要很长时间，因为硬件通常没有明确定义的名称，而且我还必须翻译它才能在本地商店网站上搜索它。 因此，我曾经使用反向谷歌图像搜索“站点：”已指定，但现在不可能了。 是否有任何网络或桌面工具可以帮助在特定网站上搜索类似图像？ 感谢您的帮助！   由   提交 /u/mamapower   [链接] [评论]]]></description>
+      <description><![CDATA[大家好， 我正在寻找 Google 反向图像搜索的替代方案。我试图解决的问题：偶尔我会在英文网站上找到一些工具、硬件，并且我想在一些本地商店网站上找到相同的产品。然而，通常这需要很长时间，因为硬件通常没有明确定义的名称，而且我还必须翻译它才能在本地商店网站上搜索它。 因此，我过去常常使用反向 Google 图像搜索“站点：”已指定，但现在不可能了。 是否有任何网络或桌面工具可以帮助在特定网站上搜索类似图像？ 感谢您的帮助！   由   提交 /u/mamapower   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1brck06/reverse_image_search_on_a_specific_site/</guid>
       <pubDate>Sat, 30 Mar 2024 08:00:23 GMT</pubDate>
     </item>
     <item>
-      <title>是否有适用于 Windows 的程序能够准确复制文件和目录，包括它们的（时间戳等）元数据，最好创建有关副本的报告？</title>
+      <title>Windows 上是否有任何程序能够准确复制文件和目录，包括它们的（时间戳等）元数据，最好创建有关副本的报告？</title>
       <link>https://www.reddit.com/r/software/comments/1brbcga/are_there_any_programs_for_windows_capable_of/</link>
       <description><![CDATA[我问这个问题是因为当您在文件资源管理器中复制†文件时，“创建日期”会显示在“文件资源管理器”中。副本的时间是创建副本的时间，而不是创建原始文件的时间，这通常是更有用的数据。‡（我仍然想要该信息，因此我需要一份报告。） 我我希望能够在我的计算机上以及不同的驱动器之间无损地复制文件，以便我可以放心地在源上删除它们。 我目前拥有的最接近此功能的程序是 DMDE（一个很棒的数据恢复程序）以及好的磁盘复制软件），它可以完成文件的任务，但显然不能完成文件夹的任务。您可以复制选定的驱动器扇区，大概以这种方式制作目录的精确副本，但确定该目录中涉及的确切扇区听起来就像地狱。 （我可以对整个驱动器进行簇映射，但只能对几个文件进行簇映射？而且我不知道 NTFS/exFAT/FAT32/等如何存储目录信息...） †其中包括“移动”。文件到不同的驱动器上 - 真的很困惑，为什么经过 40 年的发展，它不是至少在现代 Windows 中的内置选项，用于“星际迷航传送”到不同的驱动器上。 （即在删除原始文件的同时创建副本）一键/快捷方式跨驱动器文件。 这是我希望程序拥有的另一个功能！ ‡也很困惑为什么现代文件系统仍然具有如此原始的版本控制 - 现在已经是 2024 年了，你会认为我们会有更多比此时的单个创建/修改/访问次数...   由   提交 /u/GrantExploit   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1brbcga/are_there_any_programs_for_windows_capable_of/</guid>
       <pubDate>Sat, 30 Mar 2024 06:40:25 GMT</pubDate>
     </item>
     <item>
-      <title>是否有任何适用于 Windows 的语音转文本（听写/转录）软件是免费或便宜且永久许可（无需订阅或高价）、不是仅限实时（接受音频文件）、最好是本地的（没有）云依赖），GitHub 不是 IKEA 软件（它们提供了可执行文件）吗？</title>
+      <title>是否有任何适用于 Windows 的语音转文本（听写/转录）软件是免费或便宜且永久许可的（无需订阅或高价），不是仅限实时（接受音频文件），最好是本地的（没有）云依赖），GitHub 不是 IKEA 软件（它们提供了可执行文件）吗？</title>
       <link>https://www.reddit.com/r/software/comments/1brbcca/is_there_any_speechtotext_dictationtranscription/</link>
       <description><![CDATA[设法压缩标题中的几乎所有内容。 现在，了解更多详细信息...： &lt;理想情况下，我希望它能够进行转录（带时间戳）和听写（不），并将不同的说话者识别为不同的。一些先进的技术/人工智能魔法可以自动识别给出样本语音的人，我们将非常感激，尽管我非常怀疑这是否能以低廉的价格获得。 现在，称我为挑剔， 但我不想为此支付 350 美元以上（看着你，龙），或者因为我未能支付某个月的费用而被锁定（看着你......很多地方），或者必须设置一个坚固的扬声器麦克风或虚拟音频电缆设置（看看你，Microsoft Word 和 Google Docs），最好（但不是绝对）不想依赖可以出售我的数据并随时关闭/撤销我的访问权限（看看你，很多地方，包括 YouTube），或者必须像某种黑客一样自己编译它（看看你，Whisper 等）。 次要问题是性能——我有大约 100 GB 的音频，总计数百小时，但我不会太介意几天不使用计算机来处理我积累的所有内容。 那么...我幻想的语音转文本工具是否存在？如果没有，最接近的是什么？（注意：目前，我的后备方案是 Whisper，说实话，看看设置过程，它看起来还不错 - 如果满足以下条件，我会接受宜家软件：有手持式安装指南。不过，仍然不太了解其功能。）   由   提交 /u/GrantExploit   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1brbcca/is_there_any_speechtotext_dictationtranscription/</guid>
@@ -57,7 +71,7 @@
     <item>
       <title>有人能帮我吗？</title>
       <link>https://www.reddit.com/r/software/comments/1br4qa3/can_someone_help_me/</link>
-      <description><![CDATA[由于某种原因，每次我去录制 CS 1.6 时，录制根本不起作用，音频输出正常，但屏幕被冻结在视频中。我正在为我的视频卡（amd）使用该软件。我已经将其设置为录制桌面，但它仍然不起作用：/。它是 rx 550 4gb   由   提交 /u/imoarai   [链接] [评论]]]></description>
+      <description><![CDATA[由于某种原因，每次我去录制 CS 1.6 时，录制根本不起作用，音频输出正常，但屏幕被冻结视频中。我正在为我的视频卡（amd）使用该软件。我已经将其设置为录制桌面，但它仍然不起作用：/。它是 rx 550 4gb   由   提交 /u/imoarai   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1br4qa3/can_someone_help_me/</guid>
       <pubDate>Sat, 30 Mar 2024 00:50:08 GMT</pubDate>
     </item>
@@ -71,7 +85,7 @@
     <item>
       <title>帮助设置自动表单填写工具 (Windows)</title>
       <link>https://www.reddit.com/r/software/comments/1br0hll/help_setting_up_an_automatic_form_filling_tool/</link>
-      <description><![CDATA[大家好！我正在寻找一种方法来自动化我的部分工作。我负责通过网络表单下订单，所订购的商品记录在电子表格中（目前为 Google 表格）。我正在寻找一种从电子表格中获取数据并将其自动填充到网络表单中的方法。我的电子表格记录了每个商品的产品编号以及要购买的商品数量，并且订单表单以相同的模式布局，每个商品编号和商品数量都有一个不同的字段，可以通过选项卡进行浏览。 &lt; p&gt;针对特定计划的任何建议或指导将不胜感激，并且可能会减少我一周的时间！   由   提交/u/Time_Safe4178  [链接] [评论]]]></description>
+      <description><![CDATA[大家好！我正在寻找一种方法来自动化我的部分工作。我负责通过网络表单下订单，所订购的商品记录在电子表格中（目前为 Google 表格）。我正在寻找一种从电子表格中获取数据并将其自动填充到网络表单中的方法。我的电子表格记录了每个商品的产品编号以及要购买的商品数量，并且订单表单以相同的模式布局，每个商品编号和商品数量都有一个不同的字段，可以通过选项卡进行浏览。 &lt; p&gt;针对特定计划的任何建议或指导将不胜感激，并且可能会减少我一周的时间！   由   提交/u/Time_Safe4178   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1br0hll/help_setting_up_an_automatic_form_filling_tool/</guid>
       <pubDate>Fri, 29 Mar 2024 21:51:13 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[有没有一种软件可以扫描区块链上的每个钱包？并注意那些表现出色且交易总是成功的钱包吗？我正在考虑制作一个能够做到这一点的 SaaS，并出售其每月使用的功能。 因此，人们基本上每月向我的网站支付 100 美元，然后他们就可以使用一个工具来显示最好的钱包，并在这些钱包买入/卖出时提醒他们。   由   提交 /u/GameControl21   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1bqx98d/software_that_scans_crypto_wallets/</guid>
       <pubDate>Fri, 29 Mar 2024 19:12:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>分区软件不允许我格式化 micro SD 卡</title>
-      <link>https://www.reddit.com/r/software/comments/1bqwwex/partition_software_wont_let_me_format_micro_sd/</link>
-      <description><![CDATA[我的笔记本电脑内的适配器中有一张 128 GB 微型 SD 卡。我正在尝试将其格式化为 fat32，以便破解我的 Nintendo 2DS。我免费安装了 minitool 分区向导，但没有看到任何“格式”选项，但在免费版本的视频中它是存在的。请帮忙。 ​ 如果有任何重要意义，该卡目前处于 exFAT 格式。   由   提交 /u/realkeyscoding   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1bqwwex/partition_software_wont_let_me_format_micro_sd/</guid>
-      <pubDate>Fri, 29 Mar 2024 18:49:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>将电子书（pdf、epub）转换为有声读物的最佳软件？</title>
-      <link>https://www.reddit.com/r/software/comments/1bqwbse/best_software_to_convert_an_ebookpdf_epub_to_an/</link>
-      <description><![CDATA[正在寻找一种工具，最好是免费但愿意付费的工具，可以将我的一些电子书转换为有声读物，以便我可以在旅行时收听&lt; /p&gt;   由   提交 /u/lovesprite   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1bqwbse/best_software_to_convert_an_ebookpdf_epub_to_an/</guid>
-      <pubDate>Fri, 29 Mar 2024 18:23:50 GMT</pubDate>
     </item>
     </channel>
 </rss>

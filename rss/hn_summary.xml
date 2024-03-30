@@ -4,88 +4,88 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Sat, 30 Mar 2024 09:06:27 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 Mar 2024 12:17:17 GMT</lastBuildDate>
     <item>
-      <title>[媒体]引力波能否成为人类生存的关键？</title>
-      <link>https://t.me/hn_summary/82023</link>
-      <description><![CDATA[引力波可能使人类生命成为可能
-引力波可能是人类生存的关键吗？研究表明，人类生命必需的元素，如碘和溴，是在引力波引起的天体物理事件中产生的。由引力波发射引起的中子星碰撞通过快速中子捕获过程产生这些元素。该论文探讨了这些事件（例如千新星）如何在为人类生命提供必要元素方面发挥了至关重要的作用。这项开创性的研究凸显了天体物理学和人类生物学的相互关联性，表明引力波可能使人类生命成为可能。]]></description>
-      <guid>https://t.me/hn_summary/82023</guid>
-      <pubDate>Sat, 30 Mar 2024 09:06:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>令人兴奋的消息！</title>
-      <link>https://t.me/hn_summary/82022</link>
-      <description><![CDATA[Show HN：我为独立黑客构建了一个快速启动的设计套件
-令人兴奋的消息！我们的独立黑客设计套件现已于 3 月 28 日开放预发布。借助我们的设计套件，您可以成为创建可转换的产品和登陆页面的专家。从登陆页面到网络应用程序，我们为您提供了可定制的元素和 Figma 设计。我们透明的定价提供 45 美元的标准套餐或 60 美元的高级套餐，均包含终身更新。与 Shayan 和其他独立黑客一起使用我们的设计套件制作令人惊叹的现代登陆页面。不要错过这个快速有效启动的机会。]]></description>
-      <guid>https://t.me/hn_summary/82022</guid>
-      <pubDate>Sat, 30 Mar 2024 09:02:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>《孤岛惊魂》于 2004 年上映，讲述了杰克·卡弗 (Jack Carver) 在我的 [...]</title>
-      <link>https://t.me/hn_summary/82021</link>
-      <description><![CDATA[20年前《孤岛惊魂》发布
-《孤岛惊魂》于 2004 年上映，讲述了杰克·卡弗在一个神秘的热带群岛寻找失踪记者的故事。该游戏由 Crytek 开发、育碧发行，因其视觉效果和游戏机制而受到好评。尽管采用线性结构，《孤岛惊魂》仍以其开放式第一人称射击游戏玩法确立了该系列的形象。该游戏的成功导致了续集、电影改编和翻拍。 《孤岛惊魂》获得了积极评价和商业成功，销量超过 250 万份。该游戏的源代码于 2023 年被泄露，加剧了其备受争议的历史。 《孤岛惊魂》仍然是游戏行业的一个重要里程碑。 （根据 60% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/82021</guid>
-      <pubDate>Sat, 30 Mar 2024 08:45:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]我们几周来一直遭受无情的 DDoS 攻击，有数百万次尝试 [...]</title>
-      <link>https://t.me/hn_summary/82020</link>
-      <description><![CDATA[我们受到 DDoS 攻击，但我们什么也没做&lt; br/&gt;
-数周以来，我们一直遭受无情的 DDoS 攻击，有数百万次尝试下载我们的安装文件。令人惊讶的是，我们选择不采取任何回应。尽管攻击持续不断，我们的服务器仍然几乎处于闲置状态，因为我们的服务旨在毫无问题地处理数十亿个请求。通过保持简单并避免第三方服务，我们能够在不激活任何防御机制的情况下抵御攻击。我们的整体方法使用 Golang 和 Rust 等框架，使我们能够轻松处理大量流量。我们的部署过程得到了简化，使用二进制文件可以在任何 Linux 服务器上轻松部署。]]></description>
-      <guid>https://t.me/hn_summary/82020</guid>
-      <pubDate>Sat, 30 Mar 2024 08:41:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]Stability AI 创始人 Emad Mostaque 的价值数十亿美元的初创公司由于 unp [...]</title>
-      <link>https://t.me/hn_summary/82019</link>
-      <description><![CDATA[Stability AI 创始人破产了他价值数十亿美元的初创公司&lt; br/&gt;
-Stability AI 创始人 Emad Mostaque 的价值数十亿美元的初创公司由于未付账单、搞砸的合同以及与 Nvidia 首席执行官的灾难性会面而陷入困境。 Mostaque 的浮夸主张和超支导致 Stability 的垮台，这家曾经很有前途的人工智能初创公司。尽管莫斯塔克试图保持控制权，但越来越大的压力迫使他辞去首席执行官职务。 Coatue 和 Lightspeed 等投资者推动出售，但莫斯塔克拒绝辞职引发了进一步的动荡。由于现金储备不断减少和筹款尝试失败，Stability 的未来仍然充满不确定性。莫斯塔克雄心勃勃的愿景与财务现实发生冲突，导致他曾经繁荣的公司令人震惊地崩溃。 （根据 48% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/82019</guid>
-      <pubDate>Sat, 30 Mar 2024 08:33:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国人正在拥抱一个被称为“YOLOing”的新消费时代，因为他们优先考虑体验 [...]</title>
-      <link>https://t.me/hn_summary/82018</link>
-      <description><![CDATA[美国人 YOLO 支出增加，但储蓄跌至大衰退时期的低点
-美国人正在拥抱一个被称为“YOLOing”的新消费时代，因为在大流行之后，他们优先考虑体验而不是储蓄。去年，国际旅行和现场娱乐支出激增，而个人储蓄则跌至大衰退以来的最低点。尽管人们担心信用卡债务上升和通货膨胀，消费者仍在继续在旅行、音乐会和其他体验上挥霍。经济学家预测，这种趋势将持续下去，年轻一代将带头优先考虑旅行和难忘的经历，而不是物质财富。消费习惯的转变正在重塑大流行后的经济，并对美联储管理服务业通胀提出挑战。]]></description>
-      <guid>https://t.me/hn_summary/82018</guid>
-      <pubDate>Sat, 30 Mar 2024 08:22:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>在《欧洲物理学快报》上发表的一项开创性研究中，由 David Röhlig 领导的团队提出 [...]</title>
-      <link>https://t.me/hn_summary/82017</link>
-      <description><![CDATA[关于弹性连续变化的新型声学晶体的提案
-在《欧洲物理学快报》上发表的一项开创性研究中，由 David Röhlig 领导的团队提出了一种新型声学晶体，其弹性特性连续变化，偏离了传统的阶跃函数不连续性。通过高性能计算机模拟，他们发现即使与理想材料特性的微小偏差也可能导致声子能带结构发生显着变化，从而产生更大的声子带隙和多个声子带隙。这种创新方法可以彻底改变声机械传感器和执行器的设计，并增强各种环境下的隔音效果。]]></description>
-      <guid>https://t.me/hn_summary/82017</guid>
-      <pubDate>Sat, 30 Mar 2024 08:01:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>标题：Wayland 破解你的糟糕软件</title>
-      <link>https://t.me/hn_summary/82016</link>
-      <description><![CDATA[Wayland 破坏你的糟糕软件
-标题：Wayland 破解你的糟糕软件
+      <title>亚当斯吹捧的纽约人工智能聊天机器人告诉企业要违法</title>
+      <link>https://t.me/hn_summary/82042</link>
+      <description><![CDATA[亚当斯吹捧的纽约人工智能聊天机器人告诉企业违法
+亚当斯吹捧的纽约人工智能聊天机器人告诉企业要违法
 
-X11 已经过时，不适合现代系统，Wayland 成为更好的替代方案。与 Xorg 相比，Wayland 提供了更高的性能、安全性和电池寿命。来自 Asahi Linux 的 Marcan 解释了 Wayland 优势背后的技术原因。 Wayland 的架构简化了流程，从而提高了效率并简化了维护。 Wayland 的安全性得到了增强，对屏幕录制和击键捕获具有严格的权限。屏幕共享通过 PipeWire 和 xdg-desktop-portal 单独处理，确保高效、安全地访问显示内容。总体而言，Wayland 是桌面环境的未来，提供更优化、更安全的用户体验。 （根据 43% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/82016</guid>
-      <pubDate>Sat, 30 Mar 2024 06:39:20 GMT</pubDate>
+纽约市的人工智能聊天机器人是政府改善商业运营举措的一部分，但被发现向用户提供不准确且有时有害的信息。该机器人由微软的 Azure AI 服务提供支持，一直在住房政策、工人权利和商业法规方面提供错误建议。房东、企业主和消费者都被机器人误导了，引发了人们对其可能产生的潜在法律责任的担忧。尽管该市保证该机器人只是一个试点项目并将得到改进，但专家和倡导者呼吁立即采取行动纠正正在传播的错误信息。]]></description>
+      <guid>https://t.me/hn_summary/82042</guid>
+      <pubDate>Sat, 30 Mar 2024 12:17:17 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 隆重推出 Paparazzi Docs，这是一款革命性的工具，可简化您的产品文档 [...]</title>
-      <link>https://t.me/hn_summary/82015</link>
-      <description><![CDATA[显示 HN：我制作了一个工具来简化您的产品文档工作流程&lt; /a&gt;
-隆重推出 Paparazzi Docs，这是一款革命性的工具，可简化您的产品文档流程。告别手动更新屏幕截图的繁琐任务，因为 Paparazzi Docs 会自动捕获并更新产品 UI 的图像。借助这一创新工具，维护准确且最新的文档从未如此简单。访问 www.paparazzidocs.com 简化您的工作流程并提升您的文档游戏。]]></description>
-      <guid>https://t.me/hn_summary/82015</guid>
-      <pubDate>Sat, 30 Mar 2024 06:35:16 GMT</pubDate>
+      <title>20 年前，当 Gmail 推出时，许多人认为这是一个骗局，因为它承诺提供 1 GB [...]</title>
+      <link>https://t.me/hn_summary/82041</link>
+      <description><![CDATA[Gmail 20 周年
+20 年前，当 Gmail 推出时，许多人认为这是一个骗局，因为它承诺提供 1 GB 的存储空间并且完全免费。尽管最初遭到质疑，Gmail 仍然成为科技爱好者的必备工具，并彻底改变了电子邮件。如今，Gmail 拥有 12 亿用户，是一种实际必需品。然而，随着其他消息应用程序占据主导地位，Gmail 的核心作用受到质疑。谷歌对搜索的关注和细微的调整使得 Gmail 基本保持不变。虽然电子邮件对于有形记录仍然很重要，但 Gmail 作为互联网护照的身份是不可否认的。谷歌的目标是让电子邮件变得不那么费力，让收件箱重新充满乐趣。]]></description>
+      <guid>https://t.me/hn_summary/82041</guid>
+      <pubDate>Sat, 30 Mar 2024 12:07:10 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Open-Parse 是一个开源项目，旨在简化准备 c [...]</title>
-      <link>https://t.me/hn_summary/82014</link>
-      <description><![CDATA[显示 HN：LLM 的开源、高性能布局解析&lt; /a&gt;
-Open-Parse 是一个开源项目，旨在简化法学硕士分析复杂文档的准备过程。它提供最先进的深度学习模型，易于实施和灵活的启发式选项，可实现更快的解析。该项目对文档进行可视化分析，支持基本的markdown，并提供高精度的表格提取。它还允许轻松实施后处理步骤，并提供强大的编辑器支持。 Open-Parse 因其专注于视觉驱动的解析和高精度表格支持而脱颖而出，使其成为文档分析任务的宝贵工具。]]></description>
-      <guid>https://t.me/hn_summary/82014</guid>
-      <pubDate>Sat, 30 Mar 2024 06:31:12 GMT</pubDate>
+      <title>最近，NetBSD 中包含的 xz 压缩库中发现了一个后门。</title>
+      <link>https://t.me/hn_summary/82040</link>
+      <description><![CDATA[Xz 库上的 NetBSD/Pkgsrc
+最近，NetBSD 中包含的 xz 压缩库中发现了一个后门。然而，NetBSD 中的 xz 版本是安全的，不会受到后门的影响，因为它早于代码更改。该攻击似乎针对 Linux/glibc，但有必要检查是否有任何其他尝试破坏该库。使用 pkgsrc 中的 xz（非默认设置）的 NetBSD 用户需要采取预防措施，因为该版本受到影响。这一发现敲响了警钟，促使内部进一步讨论如何继续下去。]]></description>
+      <guid>https://t.me/hn_summary/82040</guid>
+      <pubDate>Sat, 30 Mar 2024 12:03:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>亲爱的 HN 发帖者，让我们专注于为我们的讨论增加价值，而不是诉诸点击 [...]</title>
+      <link>https://t.me/hn_summary/82039</link>
+      <description><![CDATA[致 HN 海报：请添加值，修正标题，使其不点击诱饵
+亲爱的 HN 发帖者，让我们专注于为我们的讨论增加价值，而不是诉诸点击诱饵标题。参与有意义的对话并为我们的社区提供有价值的见解非常重要。因此，让我们共同努力提高帖子质量，使 HN 成为一个对每个人来说信息更丰富、更具吸引力的平台。谢谢您的合作。]]></description>
+      <guid>https://t.me/hn_summary/82039</guid>
+      <pubDate>Sat, 30 Mar 2024 11:59:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>苏格兰的《仇恨犯罪和公共秩序法》将“煽动”对战争的仇恨定为犯罪行为 [...]</title>
+      <link>https://t.me/hn_summary/82038</link>
+      <description><![CDATA[苏格兰仇恨犯罪法
+苏格兰《仇恨犯罪和公共秩序法》将“煽动”对受保护特征（包括种族、年龄、残疾、宗教和变性身份）的仇恨定为刑事犯罪。该法案包括指定的“第三方报告中心”，其中一个位于格拉斯哥的一家性用品商店。该法案还伴随着一场备受争议和嘲笑的宣传活动，其中包括姜黄色的“仇恨怪物”。批评者担心该法案会抑制合法的言论自由，特别是批评宗教的言论。该法案的措辞依赖于“理性人”的想法，呼应了苏格兰启蒙运动对理性的强调。然而，该法案对仇恨的宽泛定义引发了人们对过度扩张和压制不同意见的担忧。]]></description>
+      <guid>https://t.me/hn_summary/82038</guid>
+      <pubDate>Sat, 30 Mar 2024 11:30:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenAI 推出了语音引擎，这是一种语音克隆技术，可以复制任何扬声器 [...]</title>
+      <link>https://t.me/hn_summary/82037</link>
+      <description><![CDATA[OpenAI 表示它可以从 15 秒的音频中克隆语音&lt; /a&gt;
+OpenAI 推出了语音引擎，这是一种语音克隆技术，可以在分析 15 秒的音频后复制任何说话者。该公司宣称其能够生成具有情感和真实声音的自然语音。尽管该技术在阅读辅助和语言翻译方面显示出良好的前景，但人们仍严重担心该技术可能被误用于深度伪造目的。 OpenAI 正在努力解决隐私问题，并计划实施安全措施，包括“禁止语音列表”，以防止人工智能生成的演讲者冒充知名人物。定价细节表明语音引擎可能是有声读物制作的一个经济高效的选择。尽管具有潜力，但由于涉及重大风险，该技术尚未准备好广泛使用。]]></description>
+      <guid>https://t.me/hn_summary/82037</guid>
+      <pubDate>Sat, 30 Mar 2024 11:26:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]SHH（Systemd Hardening Helper）是一个提供自动 systemd 服务硬 [...]</title>
+      <link>https://t.me/hn_summary/82036</link>
+      <description><![CDATA[显示 HN：SHH（Systemd 强化助手） – 自动 systemd 服务强化
+SHH（Systemd Hardening Helper）是一个提供由 strace 分析引导的自动 systemd 服务强化的项目。它旨在通过分析 systemd 服务的行为并基于此分析创建强化配置来提高 systemd 服务的安全性。该项目提供了从源代码构建的安装说明，以及为 Debian 和 Arch Linux 用户提供的预构建包。作者提到不支持在服务管理器的每用户实例中运行的服务。 SHH 的与众不同之处在于，它通过运行时分析提供指导性的服务强化方法。该项目已获得 GPLv3 许可。]]></description>
+      <guid>https://t.me/hn_summary/82036</guid>
+      <pubDate>Sat, 30 Mar 2024 11:22:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]OpenUI 是一个旨在使构建 UI 组件的过程变得有趣、快速、 [...]</title>
+      <link>https://t.me/hn_summary/82035</link>
+      <description><![CDATA[Wandb/openui：发挥你的想象力描述 UI&lt; br/&gt;
+OpenUI 是一个旨在使构建 UI 组件的过程变得有趣、快速且灵活的项目。它允许用户使用他们的想象力描述 UI 并查看它的实时渲染，并且能够将 HTML 转换为 React、Svelte、Web 组件等。该项目是开源的，不像其他工具那么完善，但 W&amp;B 正在使用它来测试和原型下一代工具，以在法学硕士的基础上构建强大的应用程序。用户可以尝试现场演示或在本地运行 OpenUI 来探索其功能。该项目通过提供独特的 UI 设计和开发方法而脱颖而出。]]></description>
+      <guid>https://t.me/hn_summary/82035</guid>
+      <pubDate>Sat, 30 Mar 2024 11:18:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]MyScaleDB 是一个基于 ClickHouse 构建的开源 SQL 矢量数据库，针对 AI [...]</title>
+      <link>https://t.me/hn_summary/82034</link>
+      <description><![CDATA[展示 HN：MyScaleDB 开源：一个可供构建的 SQL 矢量数据库带有SQL的AI APP
+MyScaleDB 是一个基于 ClickHouse 构建的开源 SQL 矢量数据库，针对 AI 应用程序进行了优化。它允许开发人员有效地管理和处理海量数据。主要功能包括 SQL 兼容性、快速矢量搜索以及通过元数据过滤提高准确性。 MyScaleDB 利用尖端的 OLAP 架构提供无与伦比的性能和可扩展性。与其他矢量数据库相比，MyScale 功能更强大、性能更佳且更具成本效益，适合大型程序员社区。该项目还提供了详细的基准和文档。该项目与 ClickHouse 的集成确保了快速的分析和数据扫描速度，使其成为结合结构化和矢量搜索操作的理想选择。 （根据故事文本的 63% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/82034</guid>
+      <pubDate>Sat, 30 Mar 2024 11:14:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]即将发布的 Java 开发工具包 23 将引入令人兴奋的新功能 [...]</title>
+      <link>https://t.me/hn_summary/82033</link>
+      <description><![CDATA[Java 23 计划功能
+即将发布的 Java Development Kit 23 将引入令人兴奋的新功能，包括模式中基本类型的集成、类文件 API 的增强以及模式匹配的改进。 Oracle 2024 年 Java 路线图包括 Amber、Babylon 和 Valhalla 等项目，旨在提高生产力和性能。所提出的功能，例如在调用超类构造函数之前执行语句、字符串模板、流收集器、作用域值以及矢量 API 的演变，都展示了 Java 对创新和效率的承诺。这些进步凸显了 Java 的适应性，并有望提升该语言在现代软件开发中的能力。]]></description>
+      <guid>https://t.me/hn_summary/82033</guid>
+      <pubDate>Sat, 30 Mar 2024 11:07:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
