@@ -4,18 +4,60 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 29 Mar 2024 21:11:43 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 Mar 2024 00:45:26 GMT</lastBuildDate>
+    <item>
+      <title>我该如何制作类似于 Instagram Reels 的东西？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1br4iln/how_would_i_go_about_making_something_similar_to/</link>
+      <description><![CDATA[Instagram Reels 概念 我想制作一个具有类似布局的视频共享平台到 Instagram Reels 获取我的作品集项目。预先感谢您的帮助:)   由   提交 /u/PoliceTen7   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1br4iln/how_would_i_go_about_making_something_similar_to/</guid>
+      <pubDate>Sat, 30 Mar 2024 00:40:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>移动浏览器的网页测试</title>
+      <link>https://www.reddit.com/r/webdev/comments/1br3xj1/web_page_testing_for_mobile_browsers/</link>
+      <description><![CDATA[现在大家都用什么来测试移动版网站。我正在尝试找到比 Chrome 的“开发人员工具”和 Firefox 开发人员版本更好的东西。它们对于常规网站来说工作正常，但当您尝试查看移动版本时，尽管能够使用响应式设计功能，但确实有点中断。  有没有任何人都可以推荐的 IDE 或好的浏览器插件？   由   提交 /u/cyberbless   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1br3xj1/web_page_testing_for_mobile_browsers/</guid>
+      <pubDate>Sat, 30 Mar 2024 00:13:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>这些网站是用什么类型的语言构建的？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1br3aaq/what_type_of_languages_are_these_websites_built/</link>
+      <description><![CDATA[我找到了很多不同的网站，用于类似鼠标点击测试，例如 https: //cpstest.org/ 我认为这只是 HTML 和一些类似 JS 的混合？我检查了该页面，看到提到“Ripple”，这还是一种语言吗？我对它没有太多了解，也从未亲自听说过它。   由   提交 /u/Hockeylockerpock   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1br3aaq/what_type_of_languages_are_these_websites_built/</guid>
+      <pubDate>Fri, 29 Mar 2024 23:45:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>客户端安全是否已经消亡——还是未来的重要组成部分？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1br2brg/is_client_side_security_dead_or_a_crucial_part_of/</link>
+      <description><![CDATA[   /u/fagnerbrack  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1br2brg/is_client_side_security_dead_or_a_crucial_part_of/</guid>
+      <pubDate>Fri, 29 Mar 2024 23:05:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻求有关如何实现不和谐风格输入栏的建议</title>
+      <link>https://www.reddit.com/r/webdev/comments/1br264c/looking_for_advice_on_how_to_implement/</link>
+      <description><![CDATA[      在离开多年后，我对 javascript 还很陌生，我正在尝试通过构建很酷的交互来重新开始使用它。我正在寻找有关框架或库的建议，用于制作仅前端模拟版本的不一致输入 *针对斜线自动完成 *为任何参数输入这些小斑点。  我不知道从哪里开始，所以任何建议都会有帮助！现在我主要使用 svelte 和 javascript（不是 typescript，因为我所做的一切都是为了模型目的，我不想学习它：D） https://preview.redd.it/jl9scl6oscrc1.png?width=672&amp;format=png&amp; ;auto=webp&amp;s=bf8c9b4da376da4ed4c76e68af2de09724ef79e9   由   提交 /u/blaineranium   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1br264c/looking_for_advice_on_how_to_implement/</guid>
+      <pubDate>Fri, 29 Mar 2024 22:59:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>公司产品的 API 堆栈</title>
+      <link>https://www.reddit.com/r/webdev/comments/1br0035/api_stack_for_a_company_product/</link>
+      <description><![CDATA[嗨， 我的团队正在研究我们公司新产品的堆栈。我们预计每个实例有大约 2000 个客户端。每个客户端都会有自己的实例api+db。该项目包括一个前端、一个移动应用程序和一个 API。我们是一个由 3 名工程师组成的团队，我们对 golang/java/typescript/python 有一些经验。我们的前端将基于 sveltekit，我们首先想将它用于我们的 api，但它缺乏一些功能来帮助我们快速构建和扩展。我们的老板想要最好的，并且可以让我们花时间去尝试和学习。我们预计在年底基础建立后扩大团队规模。 到目前为止，我们已经：  Python：Django Rest Looks很好，但对于 api 来说可能太重了 Fast Api 看起来真的很好，我们只是对类型提示太轻感到有点伤痕累累。如何使用它？  Golang Echo 一位同事有过使用 echo 的经历，他喜欢它，只是看起来“清淡” 杜松子酒 看起来不错，相当标准，但可能太清淡了，我们也不想花太多钱很多时间来构建我们自己的框架，插件 orm/auth/validation 等 Typescript Fastify 看起来很棒，但我们可能需要构建我们自己的框架，再次看起来不错 Nest 我们尝试过，我们不喜欢它 Adonis 看起来棒极了，但事实上它是由两个在 Reddit 上看起来很奇怪的人维护的，这一点是不可接受的  我们想要避免 Java/php 或任何非类型化语言 如果你有时间，有时间选择最好的电池，维护框架，有时间学习如何处理它，有结构的框架等等，那会是什么？   由   提交/u/bhalqo   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1br0035/api_stack_for_a_company_product/</guid>
+      <pubDate>Fri, 29 Mar 2024 21:32:11 GMT</pubDate>
+    </item>
     <item>
       <title>需要帮助，我有一些想法可以使大家受益。这是一个非常需要的帖子：请注意。</title>
       <link>https://www.reddit.com/r/webdev/comments/1bqz8qo/need_help_and_i_have_some_ideas_to_benefit/</link>
-      <description><![CDATA[大家好，我带着问题、羞耻和想法来到这个小组。这是题外话，我希望它有机会被看到。 ​ 我是一名需要帮助的 Web 开发人员，但我不知道到哪里去此时转动。这是我大部分时间都花在 Reddit 上的地方，我想我决定在这里发帖的原因是因为我是你们中的一员，我知道这里的一些人可以感同身受。  ​ 当我有一点时间的时候，我就从事我梦想的事业，我正在开始在线网站设计服务。在空闲时间我不会浪费时间。我真的觉得我已经并且正在全力以赴。我一直在为门仪表板送货和勤杂工工作来度日。但为了我儿子值得。  ​ 我的时间已经临近，驱逐信就在这里。我即将失去我的家。我正在寻求帮助，如果有人可以捐赠任何金额，以实现我的资金目标，并且我可以保住我的家。  ​ 我终于到达终点线，并从下周开始在一家公司获得一个很好的职位。如果我能保住我的家，我知道我可以成为一个成功、快乐和富有成效的人。 ​ 我觉得在政府的援助和当地的帮助下我已经用尽了所有选择慈善机构（没有资金）在这种经济形势下每个机构都负担过重，这似乎正在发生。 ​ 一方面，互联网是一个神奇的地方在我看来，人们找到了社区、同情心和理解，而另一方面，我看到人们受到残酷的对待。我写这篇文章不是为了被嘲笑，我很羞于这样做，但我知道生活不必如此。我一直是一个乐于助人的人，而且我也有这样做的历史。 ​ 我正在建立和设立一个非营利机构实际上会有工作电话号码和链接来帮助我的当地社区。当前可用的信息已经过时，许多机构现已关闭，其电话号码和网址无法正常工作。 ​ 我的建议：  ​ 我将创建一个小型网站，显示谁为我提供了帮助并更新我的融资目标。最后，我会将网站打造成一个社区环境，供所有 Reddit 内外的开发者前来阅读、学习或贡献。我将为那些想要贡献的人开放一个 GitHub 存储库。我将支付第一年的托管和域名费用。这将需要一些时间，这将是一个副项目，我希望其他人愿意创建这个空间。  ​ 我打算尝试使用 gofundme 链接发布此内容，但我不知道是否允许。我也愿意接受加密货币捐赠。我可能会在单独的帖子中发布 gofundme。请DM我获取信息，或者如果可以的话我不介意公开发布。  ​ 我很难寻求帮助，我想“我明白了。”，直到我没有。如果这篇文章冒犯了任何人，我很抱歉。 ​ 请帮助其他开发人员 ​ 感谢您花时间阅读我的帖子。    由   提交/u/Ok_Item_9   [链接] [评论]]]></description>
+      <description><![CDATA[大家好，我带着问题、羞耻和想法来到这个小组。这是题外话，我希望它有机会被看到。 ​ 我是一名需要帮助的网络开发人员，但我不知道到哪里去此时转动。这是我大部分时间都花在 Reddit 上的地方，我想我决定在这里发帖的原因是因为我是你们中的一员，我知道这里的一些人可以感同身受。  ​ 当我有一点时间的时候，我就从事我梦想的事业，我正在开始在线网站设计服务。在空闲时间我不会浪费时间。我真的觉得我已经并且正在全力以赴。我一直在为门仪表板送货和勤杂工工作以度日。但为了我儿子值得。  ​ 我的时间已经临近，驱逐信就在这里。我即将失去我的家。我正在寻求帮助，如果有人可以捐赠任何金额，以实现我的资金目标，并且我可以保住我的家。  ​ 我终于到达终点线，并从下周开始在一家公司获得一个很好的职位。如果我能保住我的家，我知道我可以成为一个成功、快乐和富有成效的人。 ​ 我觉得在政府的援助和当地的帮助下我已经用尽了所有选择慈善机构（没有资金）在这种经济形势下每个机构都负担过重，这似乎正在发生。 ​ 一方面，互联网是一个神奇的地方在我看来，人们找到了社区、同情心和理解，而另一方面，我看到人们受到残酷的对待。我写这篇文章不是为了被嘲笑，我很羞于这样做，但我知道生活不必如此。我一直是一个乐于助人的人，而且我也有这样做的历史。 ​ 我正在建立和设立一个非营利机构实际上会有工作电话号码和链接来帮助我的当地社区。当前可用的信息已经过时，许多机构现已关闭，其电话号码和网址无法正常工作。 ​ 我的建议：  ​ 我将创建一个小型网站，显示谁为我提供了帮助并更新我的融资目标。最后，我会将网站打造成一个社区环境，供所有 Reddit 内外的开发者前来阅读、学习或贡献。我将为那些想要贡献的人开放一个 GitHub 存储库。我将支付第一年的托管和域名费用。这将需要一些时间，这将是一个副项目，我希望其他人愿意创建这个空间。  ​ 我打算尝试使用 gofundme 链接发布此内容，但我不知道是否允许。我也愿意接受加密货币捐赠。我可能会在单独的帖子中发布 gofundme。请DM我获取信息，或者如果可以的话我不介意公开发布。  ​ 我很难寻求帮助，我想“我明白了。”，直到我没有。如果这篇文章冒犯了任何人，我很抱歉。 ​ 请帮助其他开发人员 ​ 感谢您花时间阅读我的帖子。    由   提交/u/Ok_Item_9   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1bqz8qo/need_help_and_i_have_some_ideas_to_benefit/</guid>
       <pubDate>Fri, 29 Mar 2024 21:02:05 GMT</pubDate>
     </item>
     <item>
       <title>如何实现像YouTube一样的单按钮社交分享弹出窗口？</title>
       <link>https://www.reddit.com/r/webdev/comments/1bqz2xh/how_to_achieve_singlebutton_social_share_popup/</link>
-      <description><![CDATA[      我有一个关于特定 Web 开发技术的一般性问题，但我没有运气随处寻找答案。我正在寻找网站的社交共享解决方案。具体来说，我正在寻找两件事：  该技术的术语/行话术语 在网站上实现该技术的最佳方式  ​ YouTube 上的单按钮共享 我需要一个单击链接/按钮来打开社交共享弹出窗口。我在 WordPress 上执行此操作，但我认为这些问题与平台无关（参考规则 #1），答案可以帮助其他人尝试完成同样的事情。 到目前为止，我已经了解了插件解决方案，但奇怪的是，我没有找到任何提供此功能的解决方案。他们中的许多人都提供“计时器”。在“n”之后自动启动的弹出窗口秒，但这不一样。 我需要一个像 YouTube 这样的解决方案，提供一个“分享”按钮当您单击它时，会弹出一个带有社交共享图标的弹出窗口。 作为参考，我在 Elementor 中构建了一个 DIY 解决方案，但模式在网络后不会自动关闭图标被选中或帖子已完成社交发布。 技术主管认为应该有一些东西，比如他在 2012 年在旧网站上使用的原始 JavaScript/CSS 插件。我马上就来存在死胡同和误报。 感谢任何帮助！   由   提交/u/Agitated_Writing_693   [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[      我有一个关于特定 Web 开发技术的一般性问题，但我没有运气随处寻找答案。我正在寻找网站的社交共享解决方案。具体来说，我正在寻找两件事：  该技术的术语/行话术语 在网站上实现该技术的最佳方式  ​ YouTube 上的单按钮共享 我需要一个单击链接/按钮来打开社交共享弹出窗口。我在 WordPress 上执行此操作，但我认为这些问题与平台无关（参考规则 #1），答案可以帮助其他人尝试完成同样的事情。 到目前为止，我已经了解了插件解决方案，但奇怪的是，我没有找到任何提供此功能的解决方案。其中许多都提供“计时器”功能。在“n”之后自动启动的弹出窗口秒，但这不一样。 我需要一个像 YouTube 这样的解决方案，提供一个“分享”按钮当您单击它时，会弹出一个带有社交共享图标的弹出窗口。 作为参考，我在 Elementor 中构建了一个 DIY 解决方案，但模式在网络后不会自动关闭图标被选中或帖子已完成社交发布。 技术主管认为应该有一些东西，比如他在 2012 年在旧网站上使用的原始 JavaScript/CSS 插件。我马上就来存在死胡同和误报。 感谢任何帮助！   由   提交/u/Agitated_Writing_693   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1bqz2xh/how_to_achieve_singlebutton_social_share_popup/</guid>
       <pubDate>Fri, 29 Mar 2024 20:53:05 GMT</pubDate>
     </item>
@@ -43,7 +85,7 @@
     <item>
       <title>帮助在 php 中为 vercel 上托管的静态 html 网站发送电子邮件</title>
       <link>https://www.reddit.com/r/webdev/comments/1bqyaj2/help_sending_email_in_php_for_static_html_site/</link>
-      <description><![CDATA[      您好， 我正在尝试用 HTML 构建一个静态站点，然后用 php 发送一个联系表单。有人有这方面的例子吗？我需要 vercel-php 包吗？  这是我的文件结构： https://preview.redd.it/0folzvq8ybrc1.png?width=280&amp;format=png&amp;auto=webp&amp;s=a81c9511e2caab167ab5960146112d500cef4b32  这是维塞尔。 json: { “函数”: { “api/*.php”: { “运行时”: “vercel-php@0.7.0&quot; } } } ​  这是联系表单的 JS： https://preview.redd.it/l1u2k9naybrc1.png?width=678&amp;format=png&amp;auto=webp&amp;s=0b24a7e8019c091b5c5d270ee6defe4032 a9b837 我是什么我失踪了？当我部署到 vercel 时，出现错误： 错误：以下无服务器函数包含无效的“运行时”：16:03:38.142 - api/sendmail (nodejs18.x)。了解更多信息：https://vercel.com/guides/serverless-function-contains-invalid-runtime -错误16:03:38.317   由   提交/u/la712  [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[      您好， 我正在尝试用 HTML 构建一个静态站点，然后用 php 发送一个联系表单。有人有这方面的例子吗？我需要 vercel-php 包吗？  这是我的文件结构： https://preview.redd.it/0folzvq8ybrc1.png?width=280&amp;format=png&amp;auto=webp&amp;s=a81c9511e2caab167ab5960146112d500cef4b32  这是维塞尔。 json: { “函数”: { “api/*.php”: { “运行时”: “vercel-php@0.7.0&quot; } } } ​  这是联系表单的 JS： https://preview.redd.it/l1u2k9naybrc1.png?width=678&amp;format=png&amp;auto=webp&amp;s=0b24a7e8019c091b5c5d270ee6defe4032 a9b837 我是什么我失踪了？当我部署到 vercel 时，出现错误： 错误：以下无服务器函数包含无效的“运行时”：16:03:38.142 - api/sendmail (nodejs18.x)。了解更多：https://vercel.com/guides/serverless-function-contains-invalid-runtime -错误16:03:38.317   由   提交/u/la712  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1bqyaj2/help_sending_email_in_php_for_static_html_site/</guid>
       <pubDate>Fri, 29 Mar 2024 20:07:25 GMT</pubDate>
     </item>
@@ -62,53 +104,11 @@
       <pubDate>Fri, 29 Mar 2024 18:33:31 GMT</pubDate>
     </item>
     <item>
-      <title>亲爱的全栈 Web 开发人员......</title>
+      <title>亲爱的全栈 Web 开发人员..</title>
       <link>https://www.reddit.com/r/webdev/comments/1bqwhdp/dear_fullstack_web_developers/</link>
-      <description><![CDATA[首先，你好吗？ 我想问一下，你在自由职业方面有多成功，是吗？感觉自己更受欢迎？ 如果您作为一名员工在一家公司工作，然后做了一些自由职业，您最喜欢哪一种？   由   提交 /u/Mammoth-Asparagus498   [链接] [评论]]]></description>
+      <description><![CDATA[首先，你好吗？ 我想问一下，你在自由职业方面有多成功，是吗？感觉自己更受欢迎？ 如果您作为一名员工在一家公司工作，然后做了一些自由职业，您最喜欢哪一种？   由   提交/u/Mammoth-Asparagus498  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1bqwhdp/dear_fullstack_web_developers/</guid>
       <pubDate>Fri, 29 Mar 2024 18:30:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>刚刚拒绝了本次筛选</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bqvpr2/just_declined_this_screening/</link>
-      <description><![CDATA[      我被要求对高级职位进行hirevue筛选。这是 6 个行为问题（告诉我一次你在有限的信息下快速做出选择的经历，等等），然后是一个编码挑战，后面是 2 个逻辑游戏。不过，对我来说最有趣的是底部的评论基本上说人类甚至不会看这个。  他们希望我花一个小时的时间来获得面试的机会。我礼貌地告诉他们去捣沙子。我是不是反应过度了？人们这样做吗？我希望这种做法不会变得普遍。我可以从招聘团队的角度看到它的好处，但感觉对候选人来说非常不体贴，我认为他们因此失去了很多有才华的人的兴趣。 &lt;!-- SC_ON - -&gt;  由   提交 /u/brain-juice   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bqvpr2/just_declined_this_screening/</guid>
-      <pubDate>Fri, 29 Mar 2024 17:59:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>您最喜欢的深色模式网站？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bqv4b0/your_favourite_dark_mode_website/</link>
-      <description><![CDATA[您个人最喜欢的深色模式网站是什么？ 我从我的开始：Letterboxhd。网站和应用程序在深/灰/浅绿色组合下看起来都很棒。   由   提交 /u/pacodecrypto   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bqv4b0/your_favourite_dark_mode_website/</guid>
-      <pubDate>Fri, 29 Mar 2024 17:35:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>NodeJS，导入自定义函数</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bqueyl/nodejs_importing_custom_functions/</link>
-      <description><![CDATA[我正在使用 NodeJS 和 Express。我在 /server.js 文件中编写了自定义函数，但我想将这些函数移动到 /functions 文件夹中。 我已将以下代码添加到 /server.js 文件中，是这样吗导入自定义函数的正确方法是什么？ const findSummation = require(&quot;./functions/findSummation.js&quot;); findSummation.js 是否正确？ js 文件本身需要任何额外的导入或导出语句才能正确连接吗？我刚刚将工作函数代码从 /server.js 复制到该函数的这个新文件中。   由   提交/u/avidrunner84  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bqueyl/nodejs_importing_custom_functions/</guid>
-      <pubDate>Fri, 29 Mar 2024 17:06:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>css 和 tailwind css 有什么区别</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bqtyfl/what_is_difference_between_css_and_tailwind_css/</link>
-      <description><![CDATA[Tailwind css，用于轻松设计网站样式。我想要更多的 css 或顺风 css   由   提交/u/Background_Ask_1457   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bqtyfl/what_is_difference_between_css_and_tailwind_css/</guid>
-      <pubDate>Fri, 29 Mar 2024 16:47:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>NextJS 和 MERN 的网站优化哪个更好？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bqtoje/website_optimization_is_better_on_nextjs_or_mern/</link>
-      <description><![CDATA[      我是 Web 开发新手。我也在 NextJS 和 MERN 上构建了简单的静态网站。我发现 MERN 网站的性能得分为 55（当然包大小更大），比 NextJS（得分 - 95）高。但是NextJS有几点我不太喜欢，也不想用。 所以，我想知道需要哪些技能，需要花多少功夫去优化带有 MERN 的全栈网站？ （Lighthouse 说我的 MERN 网站存在图像和文本问题） https://preview.redd.it/at2qp0xevarc1.png?width=1159&amp;format=png&amp;auto=webp&amp;s=76d6b1ca7d339ed076b610ee7f3ccdd65d72f4c7  NextJS 默认情况下是这样的非常好，但我想用 MERN 来做，但我也想确保这不会花费我太多的时间和时间，并且仍然学习如何优化网站。 这需要什么手动优化网站的元素，如捆绑包大小、图像、文本，需要花费多少精力？我可以根据屏幕尺寸动态更改图像/文本分辨率吗？请救救我！   由   提交 /u/Himankshu   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bqtoje/website_optimization_is_better_on_nextjs_or_mern/</guid>
-      <pubDate>Fri, 29 Mar 2024 16:35:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何从独立开发者转型为受资助的领导者？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bqt4q7/how_to_transition_from_a_solo_developer_to_a/</link>
-      <description><![CDATA[Reddit 各位程序员大家好， 我作为一名自由 Web 开发人员已经工作了 16 年+ 年。在大流行期间，我使用 PHP/Laravel 构建了一个 EdTech 应用程序，并成功运行了一年多，并一路赚钱。我构建 MVP 的速度以及为了快速构建它而选择的技术堆栈使得维护和扩展变得困难，因为从长远来看我承担了太多的技术债务，因此我决定为了利益而封存 MVP我失去了理智，回到了绘图板，这次使用了更好/更现代的工具，即 Payload CMS、Typescript、AWS 等。  我想 100% 专注于推动这个产品向前发展，因为我已经看到了已证实的需求，但我自 2015 年以来一直经营的维持我发展的业务受到了加拿大经济衰退的严重影响，从而影响了我的开发生产力。  我正在向社区寻求建议，了解我需要采取哪些步骤来获得投资者的支持、将公司搬到美国、雇用一个小团队并继续努力重新启动和扩展规模产品。  这里有人做过吗？似乎有一些途径可以实现我所描述的目标（YC，angel.co），但哪一种是最公平且剥削性最少的？请告知是否有更好的 Reddit 子版块，我应该在其中发布这个问题。我选择 r/webdev 是因为我已经成为这里的成员很长时间了，并且最熟悉这里的社区。  提前致谢  inb4“申请YC”。在最后一轮申请 YC 时，我没有成功，但是，我申请时没有经验丰富的联合创始人，我知道这与申请 YC 时的普遍看法相悖。如果/当我再次申请时，我会确保首先找到一位联合创始人。     由   提交 /u/alifeinbinary   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bqt4q7/how_to_transition_from_a_solo_developer_to_a/</guid>
-      <pubDate>Fri, 29 Mar 2024 16:13:04 GMT</pubDate>
     </item>
     </channel>
 </rss>
