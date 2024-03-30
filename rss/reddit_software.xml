@@ -4,7 +4,42 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sat, 30 Mar 2024 12:17:36 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 Mar 2024 15:12:29 GMT</lastBuildDate>
+    <item>
+      <title>可以同时播放多个文件的音频播放器</title>
+      <link>https://www.reddit.com/r/software/comments/1brid52/audio_player_that_can_play_multiple_files/</link>
+      <description><![CDATA[有没有可以同时播放多个音频文件的音频播放软件？喜欢 这个 vocalremover.org &gt; 或任何音乐分割工具。 我需要它来播放音乐。 我知道我可以使用任何 DAW 或视频编辑软件，但我更喜欢一个播放器这样做。   由   提交/u/Gerry_Biscotti   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1brid52/audio_player_that_can_play_multiple_files/</guid>
+      <pubDate>Sat, 30 Mar 2024 13:51:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>制作用户友好的模块化文档的最佳程序是什么？</title>
+      <link>https://www.reddit.com/r/software/comments/1bricx9/whats_the_best_program_to_make_a_userfriendly/</link>
+      <description><![CDATA[我脑子里有这个想法，应该可以实现，但我不知道该从什么程序开始。  为了简化，假设有一个包含 4 个象限 (1,2,3,4) 的文档。以及一组模块（假设 A-Z），每个模块具有不同的用户可填写内容（模块 A 只是一个文本框，模块 B 有复选框，模块 C 有一些文本和一些复选框等） 我希望用户能够选择一个象限，插入他们选择的模块，填写它，然后创建结果表单的文件（首选 PDF）。因此，用户选择1A、2C、3B、4F，模块被插入到适当的象限中，然后他们填写所述模块中的数据，并可以保存文件。 我已经探索了使用某些东西的可能性就像 Excel 一样简单，但这似乎不太直观。是否有一个我忽略的程序对此有好处？   由   提交 /u/RW_Blackbird   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1bricx9/whats_the_best_program_to_make_a_userfriendly/</guid>
+      <pubDate>Sat, 30 Mar 2024 13:51:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>与 Memex 的 Web 注释（共享） - 有建议吗？</title>
+      <link>https://www.reddit.com/r/software/comments/1bri8ya/web_annotation_sharing_with_memex_suggestions/</link>
+      <description><![CDATA[大家好， 几年前，我发现 Memex、Hypothes.is 等注释工具有多么出色用于协作和众包知识共享（例如事实核查和调查性新闻、项目筛选、其他合作研究……）。为这样的项目做了一些志愿者。启动了对工具及其功能的市场研究，以提出理想的注释和协作工具箱...但它停止了并且从未实现。 现在我正在考虑购买终身许可证并支持此（部分操作系统）之一： https://memex.garden/old-home-2 ...我尝试过位几年卡戈。 不确定它是最好的，正如所说，理想情况下我会（有一个我的克隆）首先研究市场......我什至不确定我会找到短期内有时间使用它。但也许是时候跳了:)。 欢迎任何想法！ (*) 简而言之，我的预期用途：突出显示并参考特定信息，评论并“现场”讨论、标记、记录、组织并与研究社区中没有许可证的其他成员共享。正在同步移动设备和 Windows...   由   提交/u/Hasse72  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1bri8ya/web_annotation_sharing_with_memex_suggestions/</guid>
+      <pubDate>Sat, 30 Mar 2024 13:45:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>正在寻找一个图像查看器，可以让我将其变成半透明并且能够点击。</title>
+      <link>https://www.reddit.com/r/software/comments/1brh2pc/looking_for_an_image_viewer_that_will_let_me_make/</link>
+      <description><![CDATA[我正在学习新的键盘布局。我希望能够以不占用空间的方式在我的显示器上显示此布局。理想情况下，我希望有一个可以单击的浮动透明版本的布局。有没有好的图像查看器具有这种能力？我什至可以使用 Microsoft 的 PowerToys 处理始终位于顶部的部分。   由   提交 /u/moonflower_C16H17N3O   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1brh2pc/looking_for_an_image_viewer_that_will_let_me_make/</guid>
+      <pubDate>Sat, 30 Mar 2024 12:47:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>帮我找到这个我一生都找不到的 98/00 软件。</title>
+      <link>https://www.reddit.com/r/software/comments/1brgkba/help_me_find_this_9800_software_that_for_the_life/</link>
+      <description><![CDATA[我记得小时候看过很多这样的东西。基本上，它是一个可以运行动画的exe文件，它会冻结你的桌面并添加一些效果。它的背景是你的桌面，我可以将它与它进行最接近的比较是我在搜索这个时发现的（耐克广告）叫做：运动员末日（足球桌面毁灭者），它在 youtube 上，我希望我可以发布链接。我正在寻找的那个扮演一个喝醉的家伙，他会在你的工具栏上行走并在行走过程中呕吐，使整个屏幕摇晃，让孩子我头晕了。 它们不是“虚拟宠物”。或“桌面好友”或者一个可爱的动漫头像会留在你的电脑上。 这是我的第四个？发帖询问其他订阅者，要么它实际上是丢失的媒体，要么是我 4 岁的时候编造的。   由   提交/u/zzalgo   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1brgkba/help_me_find_this_9800_software_that_for_the_life/</guid>
+      <pubDate>Sat, 30 Mar 2024 12:20:03 GMT</pubDate>
+    </item>
     <item>
       <title>更改控制器输入的程序</title>
       <link>https://www.reddit.com/r/software/comments/1brfvgd/program_to_change_controller_input/</link>
@@ -74,41 +109,6 @@
       <description><![CDATA[由于某种原因，每次我去录制 CS 1.6 时，录制根本不起作用，音频输出正常，但屏幕被冻结视频中。我正在为我的视频卡（amd）使用该软件。我已经将其设置为录制桌面，但它仍然不起作用：/。它是 rx 550 4gb   由   提交 /u/imoarai   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1br4qa3/can_someone_help_me/</guid>
       <pubDate>Sat, 30 Mar 2024 00:50:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找软件从（特定）文件夹中提取 XML，将其放入 SQL 数据库，然后从文件夹中删除它</title>
-      <link>https://www.reddit.com/r/software/comments/1br1e9u/looking_for_software_to_pull_xml_from_specific/</link>
-      <description><![CDATA[正如标题所示，我需要软件来完成我上面提到的操作。如果可能的话，如果它有某种事务日志就好了。   由   提交/u/mb_angel  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1br1e9u/looking_for_software_to_pull_xml_from_specific/</guid>
-      <pubDate>Fri, 29 Mar 2024 22:27:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>帮助设置自动表单填写工具 (Windows)</title>
-      <link>https://www.reddit.com/r/software/comments/1br0hll/help_setting_up_an_automatic_form_filling_tool/</link>
-      <description><![CDATA[大家好！我正在寻找一种方法来自动化我的部分工作。我负责通过网络表单下订单，所订购的商品记录在电子表格中（目前为 Google 表格）。我正在寻找一种从电子表格中获取数据并将其自动填充到网络表单中的方法。我的电子表格记录了每个商品的产品编号以及要购买的商品数量，并且订单表单以相同的模式布局，每个商品编号和商品数量都有一个不同的字段，可以通过选项卡进行浏览。 &lt; p&gt;针对特定计划的任何建议或指导将不胜感激，并且可能会减少我一周的时间！   由   提交/u/Time_Safe4178   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1br0hll/help_setting_up_an_automatic_form_filling_tool/</guid>
-      <pubDate>Fri, 29 Mar 2024 21:51:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 Adob​​e Acrobat PDF 中复制和粘贴时符号不一致</title>
-      <link>https://www.reddit.com/r/software/comments/1bqz5h7/inconsistent_symbols_when_copying_and_pasting_in/</link>
-      <description><![CDATA[当我尝试从 PDF 复制并粘贴文本时，我看到这些奇怪的符号。我该如何修复它？我使用 Adob​​e Acrobat https:/ /preview.redd.it/cesvy9937crc1.jpg?width=616&amp;format=pjpg&amp;auto=webp&amp;s=df80b5e623d582e8c956d822bce19bf6d803065d   由   提交 /u/Matycl   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1bqz5h7/inconsistent_symbols_when_copying_and_pasting_in/</guid>
-      <pubDate>Fri, 29 Mar 2024 20:57:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>我应该将我的初创公司重新定位为开发者沙箱/学习社区吗？</title>
-      <link>https://www.reddit.com/r/software/comments/1bqxt8h/should_i_repurpose_my_startup_as_a_developer/</link>
-      <description><![CDATA[我开始开发只是为了构建“我完美的技术堆栈”，并学习我之外的开发层日常工作职责。当我对初创公司产生兴趣时，我尝试将其转变为社交平台。技术不断进步，我继续学习大量技能，但我永远无法成功获得稳定的用户群。 现在怎么办？！ As作为一名技术人员，我喜欢拥有这个可以用作开发沙箱的全栈平台的挑战和学习体验。我的托管/维护成本每月不到 150 美元。 帮助我集思广益，如何使其对其他人有用。其他开发人员是否可以使用类似的东西来练习、试验堆栈的任何层（前端、后端、基础设施、人工智能、自动化、移动等）的编码？ ...或我应该找一个营销人员来碰碰运气以吸引用户吗？ ...或者我应该开源它吗？ ...还有其他想法吗？  技术堆栈 - Google Cloud、Typescript、NodeJs、React、React-Native、Postgres、Redis、OpenAI   由   提交/u/zizzle6717   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1bqxt8h/should_i_repurpose_my_startup_as_a_developer/</guid>
-      <pubDate>Fri, 29 Mar 2024 19:43:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>扫描加密钱包的软件</title>
-      <link>https://www.reddit.com/r/software/comments/1bqx98d/software_that_scans_crypto_wallets/</link>
-      <description><![CDATA[有没有一种软件可以扫描区块链上的每个钱包？并注意那些表现出色且交易总是成功的钱包吗？我正在考虑制作一个能够做到这一点的 SaaS，并出售其每月使用的功能。 因此，人们基本上每月向我的网站支付 100 美元，然后他们就可以使用一个工具来显示最好的钱包，并在这些钱包买入/卖出时提醒他们。   由   提交 /u/GameControl21   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1bqx98d/software_that_scans_crypto_wallets/</guid>
-      <pubDate>Fri, 29 Mar 2024 19:12:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
