@@ -4,88 +4,88 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Sat, 30 Mar 2024 12:17:17 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 31 Mar 2024 00:36:42 GMT</lastBuildDate>
     <item>
-      <title>亚当斯吹捧的纽约人工智能聊天机器人告诉企业要违法</title>
-      <link>https://t.me/hn_summary/82042</link>
-      <description><![CDATA[亚当斯吹捧的纽约人工智能聊天机器人告诉企业违法
-亚当斯吹捧的纽约人工智能聊天机器人告诉企业要违法
+      <title>[媒体]在制作相机的过程中，阳光对PCB的影响是意想不到的[...]</title>
+      <link>https://t.me/hn_summary/82139</link>
+      <description><![CDATA[阳光对摄像头 PCB 的影响
+在制作相机的过程中，阳光对 PCB 的影响出乎意料地令人着迷。当从肯塔基州的原型机传输图像时，阳光在 PCB 上显示出神秘的痕迹，这些痕迹原来是图像传感器背面的 BGA 电路。这种现象对紫外线很敏感，甚至在打开窗户的环境紫外线下也会发生。在圣何塞，阳光导致原型出现故障，特别是影响芯片级封装的组件。这种对阳光的独特敏感性使 Photon 成为出色的阳光探测器，凸显了相机设计中适当外壳材料的重要性。]]></description>
+      <guid>https://t.me/hn_summary/82139</guid>
+      <pubDate>Sun, 31 Mar 2024 00:36:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>问HN：为什么没有杂牌喷墨打印机？</title>
+      <link>https://t.me/hn_summary/82138</link>
+      <description><![CDATA[问HN：为什么没有杂牌喷墨打印机？&lt; /a&gt;
+news.ycombinator.com 上这篇文章的作者是质疑为什么市场上没有可以与廉价品牌产品竞争的杂牌喷墨打印机。用户对主要制造商计划淘汰的喷墨打印机以及更换打印机头等组件的高成本表示失望。欧盟对此作出了回应，颁布了可维修性强制令，但作者指出，备件可能仍然有固定的有效期。这篇文章提出了这样一个问题：是否存在 DIY 或“亚洲克隆”的喷墨打印机，可以为主要供应商提供更实惠、更可持续的替代品。]]></description>
+      <guid>https://t.me/hn_summary/82138</guid>
+      <pubDate>Sun, 31 Mar 2024 00:27:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 1995 年，萨尔瓦多的故意杀人率是世界上最高的，每人 139 起。</title>
+      <link>https://t.me/hn_summary/82137</link>
+      <description><![CDATA[萨尔瓦多注意事项
+1995年，萨尔瓦多的故意杀人案发生率是世界上最高的，为每10万人中有139起，但在纳伊布·布克莱总统的领导下奇迹般地扭转局面，到2023年，该比率下降至每10万人中有2.4起。布克莱的反犯罪打击行动被誉为“全球故意杀人案之一”。现代历史上最成功的人之一。该国的历史充满了内乱、军事独裁和持续十多年的残酷内战。在这部对萨尔瓦多过去和现在的全面概述中，还探讨了萨尔瓦多帮派的崛起及其对美国（尤其是洛杉矶）的影响。 （根据故事文本的 7% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/82137</guid>
+      <pubDate>Sun, 31 Mar 2024 00:18:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]我最近从 eBay 购买了一块老式 8086 芯片进行逆向工程，结果发现 [...]</title>
+      <link>https://t.me/hn_summary/82136</link>
+      <description><![CDATA[假冒 8086 处理器
+我最近在 eBay 上购买了一块老式 8086 芯片进行逆向工程，结果发现这是一块被重新标记为 8086 的假冒芯片。该假冒芯片原来是 Uncommissed Logic Array，一种门阵列，与正品完全不同8086处理器。该假冒芯片的双极晶体管数量不到 1000 个，远少于真正的 8086 中的 29,000 个 MOS 晶体管。这一发现凸显了半导体假冒的风险以及购买芯片时谨慎的重要性。请在 Twitter 上关注我：@kenshirriff，了解有关对真实 8086 进行逆向工程的更多更新。]]></description>
+      <guid>https://t.me/hn_summary/82136</guid>
+      <pubDate>Sun, 31 Mar 2024 00:04:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]在“失败综合症”中，作者探讨了管理者如何经常责怪员工[...]</title>
+      <link>https://t.me/hn_summary/82135</link>
+      <description><![CDATA[准备失败综合症 (1998)
+在《失败综合症》一书中，作者探讨了管理者如何经常将绩效不佳归咎于员工，而不是审视自己在这种情况下的角色。这种心态可能会导致有毒的工作环境，让员工注定会失败。这篇文章要求管理者对自己在员工绩效问题中所扮演的角色承担责任，而不是仅仅将责任归咎于员工。这篇发人深省的文章最初发表在 1998 年的《哈佛商业评论》上，揭示了一个在当今工作场所仍然具有争议性的话题。]]></description>
+      <guid>https://t.me/hn_summary/82135</guid>
+      <pubDate>Sat, 30 Mar 2024 23:56:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>疫苗投资是理所当然的事——那我们为什么不这样做呢？</title>
+      <link>https://t.me/hn_summary/82134</link>
+      <description><![CDATA[疫苗投资是理所当然的 – 那么我们为什么不呢做吗？
+投资疫苗是理所当然的事，但许多人没有利用这个机会。疫苗投资具有拯救生命和预防疾病传播的潜力，其好处是显而易见的。尽管如此，这方面似乎缺乏行动。利用我们的限时优惠，在任何设备上以标准数字方式访问优质 FT 新闻可节省高达 40% 的费用。不要错过这个了解情况并为全球健康做出贡献的机会。]]></description>
+      <guid>https://t.me/hn_summary/82134</guid>
+      <pubDate>Sat, 30 Mar 2024 23:51:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>2000 年代爱尔兰的房地产泡沫导致价格翻了两番，然后暴跌一半以上。</title>
+      <link>https://t.me/hn_summary/82133</link>
+      <description><![CDATA[爱尔兰房地产泡沫为何破裂
+2000 年代爱尔兰的房地产泡沫导致价格翻了两番，然后暴跌一半以上。爱尔兰建造过多房屋的神话已被揭穿，2011 年只有 10% 的房屋空置。泡沫不是由自由放任政策造成的，而是由农村地区的税收优惠政策造成的。建筑率和价格之间的相关性并不能反驳供求规律，因为信贷条件在推动价格上涨方面发挥了至关重要的作用。理解这些误区对于防止将来犯同样的错误至关重要。 （根据 57% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/82133</guid>
+      <pubDate>Sat, 30 Mar 2024 23:47:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]震颤性谵妄是由酒精戒断引起的快速发作的精神错乱，伴有症状 [...]</title>
+      <link>https://t.me/hn_summary/82132</link>
+      <description><![CDATA[震颤性谵妄
+震颤性谵妄是由酒精戒断引起的一种快速发作的精神错乱，症状包括颤抖、幻觉和心率不齐。如果不及时治疗，可能会致命，死亡率为 15% 至 40%。治疗包括苯二氮卓类药物和硫胺素，预防包括逐渐减少饮酒。震颤性谵妄在有大量饮酒和酗酒史的人中最常见。马克·吐温和约瑟夫·康拉德等作家在文学作品中描述了这种情况。 “谵妄”这个名字来自拉丁语，意思是“走出犁沟”。 （根据故事文本的 44% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/82132</guid>
+      <pubDate>Sat, 30 Mar 2024 23:43:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>标题：加拿大的枫糖浆储备几乎空了</title>
+      <link>https://t.me/hn_summary/82131</link>
+      <description><![CDATA[加拿大的枫糖浆储备几乎空了
+标题：加拿大的枫糖浆储备几乎空了
 
-纽约市的人工智能聊天机器人是政府改善商业运营举措的一部分，但被发现向用户提供不准确且有时有害的信息。该机器人由微软的 Azure AI 服务提供支持，一直在住房政策、工人权利和商业法规方面提供错误建议。房东、企业主和消费者都被机器人误导了，引发了人们对其可能产生的潜在法律责任的担忧。尽管该市保证该机器人只是一个试点项目并将得到改进，但专家和倡导者呼吁立即采取行动纠正正在传播的错误信息。]]></description>
-      <guid>https://t.me/hn_summary/82042</guid>
-      <pubDate>Sat, 30 Mar 2024 12:17:17 GMT</pubDate>
+摘要：加拿大的枫糖浆储备对于满足全球需求至关重要，但由于收获季节不佳，枫糖浆储备几乎耗尽。短缺导致价格上涨，并引发人们对枫糖浆行业影响的担忧。争议在于对生产者和消费者的潜在经济影响。这种意外的短缺凸显了枫糖浆供应链的脆弱性，以及需要更好的管理策略以确保未来市场的稳定。]]></description>
+      <guid>https://t.me/hn_summary/82131</guid>
+      <pubDate>Sat, 30 Mar 2024 23:37:07 GMT</pubDate>
     </item>
     <item>
-      <title>20 年前，当 Gmail 推出时，许多人认为这是一个骗局，因为它承诺提供 1 GB [...]</title>
-      <link>https://t.me/hn_summary/82041</link>
-      <description><![CDATA[Gmail 20 周年
-20 年前，当 Gmail 推出时，许多人认为这是一个骗局，因为它承诺提供 1 GB 的存储空间并且完全免费。尽管最初遭到质疑，Gmail 仍然成为科技爱好者的必备工具，并彻底改变了电子邮件。如今，Gmail 拥有 12 亿用户，是一种实际必需品。然而，随着其他消息应用程序占据主导地位，Gmail 的核心作用受到质疑。谷歌对搜索的关注和细微的调整使得 Gmail 基本保持不变。虽然电子邮件对于有形记录仍然很重要，但 Gmail 作为互联网护照的身份是不可否认的。谷歌的目标是让电子邮件变得不那么费力，让收件箱重新充满乐趣。]]></description>
-      <guid>https://t.me/hn_summary/82041</guid>
-      <pubDate>Sat, 30 Mar 2024 12:07:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>最近，NetBSD 中包含的 xz 压缩库中发现了一个后门。</title>
-      <link>https://t.me/hn_summary/82040</link>
-      <description><![CDATA[Xz 库上的 NetBSD/Pkgsrc
-最近，NetBSD 中包含的 xz 压缩库中发现了一个后门。然而，NetBSD 中的 xz 版本是安全的，不会受到后门的影响，因为它早于代码更改。该攻击似乎针对 Linux/glibc，但有必要检查是否有任何其他尝试破坏该库。使用 pkgsrc 中的 xz（非默认设置）的 NetBSD 用户需要采取预防措施，因为该版本受到影响。这一发现敲响了警钟，促使内部进一步讨论如何继续下去。]]></description>
-      <guid>https://t.me/hn_summary/82040</guid>
-      <pubDate>Sat, 30 Mar 2024 12:03:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>亲爱的 HN 发帖者，让我们专注于为我们的讨论增加价值，而不是诉诸点击 [...]</title>
-      <link>https://t.me/hn_summary/82039</link>
-      <description><![CDATA[致 HN 海报：请添加值，修正标题，使其不点击诱饵
-亲爱的 HN 发帖者，让我们专注于为我们的讨论增加价值，而不是诉诸点击诱饵标题。参与有意义的对话并为我们的社区提供有价值的见解非常重要。因此，让我们共同努力提高帖子质量，使 HN 成为一个对每个人来说信息更丰富、更具吸引力的平台。谢谢您的合作。]]></description>
-      <guid>https://t.me/hn_summary/82039</guid>
-      <pubDate>Sat, 30 Mar 2024 11:59:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>苏格兰的《仇恨犯罪和公共秩序法》将“煽动”对战争的仇恨定为犯罪行为 [...]</title>
-      <link>https://t.me/hn_summary/82038</link>
-      <description><![CDATA[苏格兰仇恨犯罪法
-苏格兰《仇恨犯罪和公共秩序法》将“煽动”对受保护特征（包括种族、年龄、残疾、宗教和变性身份）的仇恨定为刑事犯罪。该法案包括指定的“第三方报告中心”，其中一个位于格拉斯哥的一家性用品商店。该法案还伴随着一场备受争议和嘲笑的宣传活动，其中包括姜黄色的“仇恨怪物”。批评者担心该法案会抑制合法的言论自由，特别是批评宗教的言论。该法案的措辞依赖于“理性人”的想法，呼应了苏格兰启蒙运动对理性的强调。然而，该法案对仇恨的宽泛定义引发了人们对过度扩张和压制不同意见的担忧。]]></description>
-      <guid>https://t.me/hn_summary/82038</guid>
-      <pubDate>Sat, 30 Mar 2024 11:30:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI 推出了语音引擎，这是一种语音克隆技术，可以复制任何扬声器 [...]</title>
-      <link>https://t.me/hn_summary/82037</link>
-      <description><![CDATA[OpenAI 表示它可以从 15 秒的音频中克隆语音&lt; /a&gt;
-OpenAI 推出了语音引擎，这是一种语音克隆技术，可以在分析 15 秒的音频后复制任何说话者。该公司宣称其能够生成具有情感和真实声音的自然语音。尽管该技术在阅读辅助和语言翻译方面显示出良好的前景，但人们仍严重担心该技术可能被误用于深度伪造目的。 OpenAI 正在努力解决隐私问题，并计划实施安全措施，包括“禁止语音列表”，以防止人工智能生成的演讲者冒充知名人物。定价细节表明语音引擎可能是有声读物制作的一个经济高效的选择。尽管具有潜力，但由于涉及重大风险，该技术尚未准备好广泛使用。]]></description>
-      <guid>https://t.me/hn_summary/82037</guid>
-      <pubDate>Sat, 30 Mar 2024 11:26:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]SHH（Systemd Hardening Helper）是一个提供自动 systemd 服务硬 [...]</title>
-      <link>https://t.me/hn_summary/82036</link>
-      <description><![CDATA[显示 HN：SHH（Systemd 强化助手） – 自动 systemd 服务强化
-SHH（Systemd Hardening Helper）是一个提供由 strace 分析引导的自动 systemd 服务强化的项目。它旨在通过分析 systemd 服务的行为并基于此分析创建强化配置来提高 systemd 服务的安全性。该项目提供了从源代码构建的安装说明，以及为 Debian 和 Arch Linux 用户提供的预构建包。作者提到不支持在服务管理器的每用户实例中运行的服务。 SHH 的与众不同之处在于，它通过运行时分析提供指导性的服务强化方法。该项目已获得 GPLv3 许可。]]></description>
-      <guid>https://t.me/hn_summary/82036</guid>
-      <pubDate>Sat, 30 Mar 2024 11:22:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]OpenUI 是一个旨在使构建 UI 组件的过程变得有趣、快速、 [...]</title>
-      <link>https://t.me/hn_summary/82035</link>
-      <description><![CDATA[Wandb/openui：发挥你的想象力描述 UI&lt; br/&gt;
-OpenUI 是一个旨在使构建 UI 组件的过程变得有趣、快速且灵活的项目。它允许用户使用他们的想象力描述 UI 并查看它的实时渲染，并且能够将 HTML 转换为 React、Svelte、Web 组件等。该项目是开源的，不像其他工具那么完善，但 W&amp;B 正在使用它来测试和原型下一代工具，以在法学硕士的基础上构建强大的应用程序。用户可以尝试现场演示或在本地运行 OpenUI 来探索其功能。该项目通过提供独特的 UI 设计和开发方法而脱颖而出。]]></description>
-      <guid>https://t.me/hn_summary/82035</guid>
-      <pubDate>Sat, 30 Mar 2024 11:18:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]MyScaleDB 是一个基于 ClickHouse 构建的开源 SQL 矢量数据库，针对 AI [...]</title>
-      <link>https://t.me/hn_summary/82034</link>
-      <description><![CDATA[展示 HN：MyScaleDB 开源：一个可供构建的 SQL 矢量数据库带有SQL的AI APP
-MyScaleDB 是一个基于 ClickHouse 构建的开源 SQL 矢量数据库，针对 AI 应用程序进行了优化。它允许开发人员有效地管理和处理海量数据。主要功能包括 SQL 兼容性、快速矢量搜索以及通过元数据过滤提高准确性。 MyScaleDB 利用尖端的 OLAP 架构提供无与伦比的性能和可扩展性。与其他矢量数据库相比，MyScale 功能更强大、性能更佳且更具成本效益，适合大型程序员社区。该项目还提供了详细的基准和文档。该项目与 ClickHouse 的集成确保了快速的分析和数据扫描速度，使其成为结合结构化和矢量搜索操作的理想选择。 （根据故事文本的 63% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/82034</guid>
-      <pubDate>Sat, 30 Mar 2024 11:14:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]即将发布的 Java 开发工具包 23 将引入令人兴奋的新功能 [...]</title>
-      <link>https://t.me/hn_summary/82033</link>
-      <description><![CDATA[Java 23 计划功能
-即将发布的 Java Development Kit 23 将引入令人兴奋的新功能，包括模式中基本类型的集成、类文件 API 的增强以及模式匹配的改进。 Oracle 2024 年 Java 路线图包括 Amber、Babylon 和 Valhalla 等项目，旨在提高生产力和性能。所提出的功能，例如在调用超类构造函数之前执行语句、字符串模板、流收集器、作用域值以及矢量 API 的演变，都展示了 Java 对创新和效率的承诺。这些进步凸显了 Java 的适应性，并有望提升该语言在现代软件开发中的能力。]]></description>
-      <guid>https://t.me/hn_summary/82033</guid>
-      <pubDate>Sat, 30 Mar 2024 11:07:28 GMT</pubDate>
+      <title>[媒体] 认识三个以独特方式感知世界的人。</title>
+      <link>https://t.me/hn_summary/82130</link>
+      <description><![CDATA[认识三个可能与您看待世界不同的人
+认识三个以独特方式感知世界的人。梅根·西姆斯 (Meagan Sims) 是一位患有色盲的艺术家，她看到的一切都是灰色的。尽管如此，她还是找到了一种通过艺术用她看不到的颜色来表达自己的方法。康塞塔·安蒂科（Concetta Antico）是一名四色视者，声称能看到我们大多数人无法感知的数千种颜色。尽管像杂货店购物这样的日常任务可能会让人难以承受，但她的超凡视野使她成为了一名成功的艺术家。凯特琳·霍瓦 (Kaitlyn Hova) 是一位具有联觉的音乐家，当她听到声音时，她会看到颜色和形状。她利用自己独特的能力将音乐、神经科学和编码融入到她的职业生涯中。]]></description>
+      <guid>https://t.me/hn_summary/82130</guid>
+      <pubDate>Sat, 30 Mar 2024 23:33:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
