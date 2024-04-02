@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 02 Apr 2024 09:12:40 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Apr 2024 12:21:34 GMT</lastBuildDate>
+    <item>
+      <title>Kyoo 更新：硬件转码、OIDC、Simkl 同步！</title>
+      <link>https://www.reddit.com/r/opensource/comments/1btwg8e/kyoo_updates_hardware_transcodes_oidc_simkl_sync/</link>
+      <description><![CDATA[ 由   提交/u/Anonymus-Raccoon  /u/Anonymus-Raccoon  reddit.com/r/selfhosted/comments/1btwe31/kyoo_updates_hardware_transcodes_oidc_simkl_sync/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1btwg8e/kyoo_updates_hardware_transcodes_oidc_simkl_sync/</guid>
+      <pubDate>Tue, 02 Apr 2024 11:34:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>我建立了一个将 LLM 与 DBMS 集成的项目（最后）。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1btvjrj/ive_built_a_project_that_integrates_llm_with_dbms/</link>
+      <description><![CDATA[你们中的许多人都提到了将 LLM 与 SQL 数据库集成的需要。于是，我主动搭建了LLM4SQL：https://github.com/gd03champ/llm4sql 什么是 LLM4SQL？ LLM4SQL 利用 LLM ( sqlcoder ) 让您使用自然语言提示来简化 SQL 查询！每个用户输入都会提示来自数据库的所需表描述，将 LLM 与数据库深度集成 目标是开发一个操作系统仪表板软件，将 DBMS 与 LLM 深度集成，以便可以从数据库中检索任何数据或分析图。使用自然语言的 DBMS 我们仍处于开发初期，但基本的 MVP 已经启动并运行。我正在积极寻找合作者来： 增强人工智能查询生成 集成更多数据库 深化法学硕士集成 实施错误处理和重新提示 开发数据可视化功能 技术堆栈：LLM4SQL 是在前端使用 React、Node.js 后端和用于运行 LLM 的 Ollama 构建的 &lt;我是一名大学生，刚刚接触开源，但我非常高兴看到你们对此有何看法！我还附上了一些关于仪表板现在在存储库中的外观的屏幕截图 查看：https:// github.com/gd03champ/llm4sql   由   提交/u/GD-Champ  /u/GD-Champ  reddit.com/r/opensource/comments/1btvjrj/ive_built_a_project_that_integrates_llm_with_dbms/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1btvjrj/ive_built_a_project_that_integrates_llm_with_dbms/</guid>
+      <pubDate>Tue, 02 Apr 2024 10:42:50 GMT</pubDate>
+    </item>
     <item>
       <title>SpiceDB Playground 现已开源</title>
       <link>https://www.reddit.com/r/opensource/comments/1bttoni/spicedb_playground_is_now_open_source/</link>
@@ -43,7 +57,7 @@
     <item>
       <title>为非营利项目寻求更新的跨平台应用程序模板</title>
       <link>https://www.reddit.com/r/opensource/comments/1bthpkv/seeking_updated_crossplatform_app_template_for/</link>
-      <description><![CDATA[社区您好！我是一家非营利组织的首席技术官，目前正在开发一款跨平台应用程序来帮助我们完成使命。我的背景是计算机科学和技术，并且精通 React JS、Visual Studio Code 和 Android Studio 进行仿真。我从头开始，希望利用现有的开源模板来避免重新发明页面和导航等基本功能。我找到了一些选项，但它们似乎已经过时了。我正在寻求以下模板的建议： 现代且维护良好，具有最新的代码和依赖项 轻松适应非营利环境 跨平台兼容（理想情况下）适合React JS）包含基本的应用程序结构和功能（如导航）任何有关模板或资源的建议将不胜感激！另外，如果我可以在特定的论坛、社区或平台上找到更多信息，请告诉我。 预先感谢您的帮助！ &lt;!-- SC_ON - -&gt;  由   提交 /u/DebianDayman   [链接] [评论]]]></description>
+      <description><![CDATA[社区您好！我是一家非营利组织的首席技术官，目前正在开发一款跨平台应用程序来帮助我们完成使命。我的背景是计算机科学和技术，并且精通 React JS、Visual Studio Code 和 Android Studio 进行仿真。我从头开始，希望利用现有的开源模板来避免重新发明页面和导航等基本功能。我找到了一些选项，但它们似乎已经过时了。我正在寻求以下模板的建议： 现代且维护良好，具有最新的代码和依赖项 轻松适应非营利环境 跨平台兼容（理想情况下）适合React JS）包含基本的应用程序结构和功能（如导航）任何有关模板或资源的建议将不胜感激！另外，如果我可以在特定的论坛、社区或平台上找到更多信息，请告诉我。预先感谢您的帮助！ &lt;!-- SC_ON - -&gt;  由   提交 /u/DebianDayman   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1bthpkv/seeking_updated_crossplatform_app_template_for/</guid>
       <pubDate>Mon, 01 Apr 2024 22:21:59 GMT</pubDate>
     </item>
@@ -71,7 +85,7 @@
     <item>
       <title>专有语音文件格式</title>
       <link>https://www.reddit.com/r/opensource/comments/1btacts/proprietary_voice_file_formats/</link>
-      <description><![CDATA[据我了解，macOS系统以及siri和alexa都使用专有格式来存储语音。我在谷歌上搜索了好几个小时，但我找不到任何关于任何人正在研究对这些文件格式进行逆向工程或尝试添加自定义语音或调整现有语音的信息。然而，我发现成百上千的请求将这些声音切换为自定义声音。  为什么没人调查呢？其他一切都被拆除和越狱，但声音似乎是一个禁忌。   由   提交 /u/andreasbeer1981   [链接] [评论]]]></description>
+      <description><![CDATA[据我了解，macOS系统以及siri和alexa都使用专有格式来存储语音。我在谷歌上搜索了好几个小时，但我找不到任何关于任何人正在研究对这些文件格式进行逆向工程或尝试添加自定义语音或调整现有语音的信息。然而，我发现成百上千的请求将这些声音切换为自定义声音。  为什么没人调查呢？其他一切都被拆除和越狱，但声音似乎是一个禁忌。   由   提交/u/andreasbeer1981   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1btacts/proprietary_voice_file_formats/</guid>
       <pubDate>Mon, 01 Apr 2024 17:46:53 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[GIMP 无法满足我的需求，作为一名会计师，客户经常向我发送 .heic 格式，但 Paint 无法打开它们。有没有类似的东西可以用于基本编辑（主要是裁剪）。   由   提交/u/rpgedgar  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1bt82jw/whats_a_good_open_source_photo_viewereditor_for/</guid>
       <pubDate>Mon, 01 Apr 2024 16:21:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>保持专注的自由选择？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1bt34w2/foss_alternatives_for_stay_focused/</link>
-      <description><![CDATA[是否有任何免费且开源的 Android 应用程序可以像 Stayfree 或 Stay Focus 应用程序一样工作？   由   提交 /u/the-big-smoke   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1bt34w2/foss_alternatives_for_stay_focused/</guid>
-      <pubDate>Mon, 01 Apr 2024 13:01:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源 UI 设计</title>
-      <link>https://www.reddit.com/r/opensource/comments/1bt1sco/open_source_ui_designs/</link>
-      <description><![CDATA[您好！想知道是否有人对开源设计有任何建议，供一些编码人员参考和构建组件/屏幕/ui。  类似于 https://www.uidesigndaily.com/ 的东西将是完美的。或者也许是一个由设计师组成的中心，他们有一些 Figma 设计，他们希望自愿成为程序员练习的参考？  提前感谢您的任何建议   由   提交 /u/EDICOdesigns   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1bt1sco/open_source_ui_designs/</guid>
-      <pubDate>Mon, 01 Apr 2024 11:57:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
