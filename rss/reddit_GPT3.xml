@@ -4,7 +4,14 @@
     <title>最新提交：GPT3</title>
     <link>https://www.reddit.com/r/GPT3/new</link>
     <description>AI 文本生成技术的 Reddit 子版块</description>
-    <lastBuildDate>Wed, 03 Apr 2024 21:10:47 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Apr 2024 00:48:36 GMT</lastBuildDate>
+    <item>
+      <title>Nvidia 按产品线划分的收入</title>
+      <link>https://www.reddit.com/r/GPT3/comments/1bv5uni/nvidias_revenue_by_product_line/</link>
+      <description><![CDATA[     &lt; td&gt; 计算在人工智能和数据中发挥着关键作用吗？ &lt;!-- SC_ON - -&gt;  由   提交/u/FarPercentage6591   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/GPT3/comments/1bv5uni/nvidias_revenue_by_product_line/</guid>
+      <pubDate>Wed, 03 Apr 2024 22:06:31 GMT</pubDate>
+    </item>
     <item>
       <title>使用 GPT 模型分析 MongoDB 中的一些数据的过程是怎样的？</title>
       <link>https://www.reddit.com/r/GPT3/comments/1bu6wmu/what_would_be_the_process_to_use_a_gpt_model_to/</link>
@@ -36,7 +43,7 @@
     <item>
       <title>如何使LLM输出输入中某些内容的准确位置？</title>
       <link>https://www.reddit.com/r/GPT3/comments/1bsv5sh/how_to_make_llm_output_the_exact_position_of/</link>
-      <description><![CDATA[要求 LLM 检查/解释/校对输入内容非常容易。但是，例如，如果我们想要构建类似于语法的东西，其中 LLM 可以帮助识别输入中的确切问题，您该怎么做？ 示例： 输入：校对如下句子：“这个句子中有一个拼写错误。”输出：（只是我们对由空格分割的位置进行编码的示例）  { 2: { suggest: &quot;sentence&quot;, Reason: &quot;typo&quot; } }, 3: { suggest: &quot;has&quot;, Reason: &quot;grammar&quot;, }, } 或者另一个类似的用例是输出输入的语义上接近的子部分的范围以用于分块的目的。为了节省输出标记，我们并不真正希望 LLM 输出整个小节列表，而只是输出开始和结束位置。 所以，是的，有没有使用 LLM 来解决这些问题的解决方案？或者必须为此微调专门的模型？   由   提交/u/Living-Classroom5030  /u/Living-Classroom5030 reddit.com/r/GPT3/comments/1bsv5sh/how_to_make_llm_output_the_exact_position_of/&quot;&gt;[链接] [评论]]]></description>
+      <description><![CDATA[要求 LLM 检查/解释/校对输入内容非常容易。但是，例如，如果我们想要构建类似于语法的东西，其中 LLM 可以帮助识别输入中的确切问题，您该怎么做？ 示例： 输入：校对如下句子：“这个句子中有一个拼写错误。”输出：（只是一个例子，我们对由空格分割的位置进行编码）  { 2: { suggest: &quot;sentence&quot;, Reason: &quot;typo&quot; }, 3: { suggest: &quot;has&quot;, Reason: &quot;grammar&quot;, }, } 或者另一个类似的用例是输出输入的语义上接近的子部分的范围以用于分块的目的。为了节省输出标记，我们并不真正希望 LLM 输出整个小节列表，而只是输出开始和结束位置。 所以，是的，有没有使用 LLM 来解决这些问题的解决方案？或者必须为此微调专门的模型？   由   提交/u/Living-Classroom5030  /u/Living-Classroom5030 reddit.com/r/GPT3/comments/1bsv5sh/how_to_make_llm_output_the_exact_position_of/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/GPT3/comments/1bsv5sh/how_to_make_llm_output_the_exact_position_of/</guid>
       <pubDate>Mon, 01 Apr 2024 05:02:37 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[大家好，使用 Langchain，有没有人有协调多代理的中央代理的 Python 脚本示例（即，这是一个多代理框架，而不是一个多工具框架）。 我已经在谷歌上搜索过这个，但似乎找不到任何东西。 非常感谢对此的任何帮助。   由   提交/u/redd-dev  /u/redd-dev  reddit.com/r/GPT3/comments/1bn8klp/examples_of_langchain_python_scripts_of_a_central/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/GPT3/comments/1bn8klp/examples_of_langchain_python_scripts_of_a_central/</guid>
       <pubDate>Mon, 25 Mar 2024 08:27:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>新 OSS 项目的反馈请求</title>
-      <link>https://www.reddit.com/r/GPT3/comments/1blp2rb/feedback_request_for_a_new_oss_project/</link>
-      <description><![CDATA[大家好，我对构建尊重会话用户访问权限的 RAG 管道的所有复杂性感到沮丧。所以我建立了一个快速的周末项目。 PromptSage 是一个最小的提示生成器，具有内置的安全/隐私/访问控制，并且与 langchain 和该领域的其他主要工具兼容。希望得到任何和所有反馈！ https://github.com/alexmavr/promptsage   由   提交/u/405q  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/GPT3/comments/1blp2rb/feedback_request_for_a_new_oss_project/</guid>
-      <pubDate>Sat, 23 Mar 2024 10:29:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
