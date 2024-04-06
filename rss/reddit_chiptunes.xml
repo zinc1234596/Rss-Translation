@@ -4,7 +4,14 @@
     <title>最新提交：chiptunes</title>
     <link>https://www.reddit.com/r/chiptunes/new</link>
     <description>一个致力于音乐的社区，从最少的事情中获得最大的收益。老游戏风格的音乐，例如C64、Atari、NES、Gameboy、Sega Genesis、Adlib、OPM、MOD等。</description>
-    <lastBuildDate>Sat, 06 Apr 2024 09:12:10 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Apr 2024 12:18:42 GMT</lastBuildDate>
+    <item>
+      <title>Furnace .vgm 导出问题</title>
+      <link>https://www.reddit.com/r/chiptunes/comments/1bx9xub/problems_with_furnace_vgm_export/</link>
+      <description><![CDATA[嗨！ 我在 Furnace (system=Sega Genesis) 中导出 .vgm 时遇到一些奇怪的问题：&lt; /p&gt;  如果我在任何 FM 乐器上使用 LFO 进行音调调制（颤音），则导出的 .vgm 文件中的音调会走调。在 Furnace 中播放时听起来很正常，但当我导出到 .vgm 时，听起来真的很不协调。我可以轻松地重现这一点，只需创建一个 FM 乐器，设置 FMS/PMS=7，输入几个启用颤音的音符，然后输入几个不带颤音的音符（禁用具有“10|00”效果的颤音）。当使用 10xy 效果禁用 LFO 时，音高似乎无法正确重置，因此在 .vgm 导出中音高会走调。 此外，PCM 通道中的样本播放也不会。除非我手动输入平移效果（08xy），否则似乎在 .vgm 导出中工作。默认情况下，我只是在 PCM 通道中获得静音，但如果我将平移设置为“08|11”，那么我就可以播放样本。同样，在 Furnace 播放中一切听起来都很正常，只有当我导出到 .vgm 时才会出现问题。   ​ 任何人都可以确认这些是否是错误，还是我做错了什么？还有其他人有同样的行为吗？感谢您的帮助:) 我使用的是 Furnace 0.6.1，我的 vgm 播放器是 Plogue Chipsynth MD。    ;由   提交/u/bleepin_tunes  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/chiptunes/comments/1bx9xub/problems_with_furnace_vgm_export/</guid>
+      <pubDate>Sat, 06 Apr 2024 12:06:05 GMT</pubDate>
+    </item>
     <item>
       <title>芯片音乐生活</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1bx50v6/chiptune_life/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[       由   提交/u/CatpricornStudios  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1bv930k/bjorn_johanson_natare_celeriter_capricornus/</guid>
       <pubDate>Thu, 04 Apr 2024 00:19:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>终末洞穴仪式（现场表演）</title>
-      <link>https://www.reddit.com/r/chiptunes/comments/1buwmgj/terminal_burrow_ritual_field_performance/</link>
-      <description><![CDATA[      GINKO ULTRA 作曲/演奏/现场录制    由   提交 /u/GINKO-ULTRA-3000   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/chiptunes/comments/1buwmgj/terminal_burrow_ritual_field_performance/</guid>
-      <pubDate>Wed, 03 Apr 2024 16:13:41 GMT</pubDate>
     </item>
     </channel>
 </rss>

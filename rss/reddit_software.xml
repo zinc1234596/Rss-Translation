@@ -4,7 +4,21 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sat, 06 Apr 2024 09:11:56 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Apr 2024 12:18:30 GMT</lastBuildDate>
+    <item>
+      <title>小大鼠的问题</title>
+      <link>https://www.reddit.com/r/software/comments/1bx9jje/issues_with_littlebigmouse/</link>
+      <description><![CDATA[Littlebigmouse 是对齐不同分辨率显示器的完美程序，但对我来说它无法打开。我不明白为什么，因为我只是运行 .exe 文件并以正常方式安装它。我什至禁用了 Windows 防病毒软件，这样它就不会干扰，但运气不佳。下载后，就是不想打开。我运行的是 Windows 11 家庭版。有什么帮助吗？   由   提交/u/welcome_to_taco_tue  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1bx9jje/issues_with_littlebigmouse/</guid>
+      <pubDate>Sat, 06 Apr 2024 11:43:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>损坏的驱动器</title>
+      <link>https://www.reddit.com/r/software/comments/1bx98bc/broken_drives/</link>
+      <description><![CDATA[所以我正在寻找一个 windows 或 linux 的软件。我有一堆 USB 驱动器和 SD 卡已损坏，我正在尝试格式化它们，甚至给它们最后一次机会 2 。我最近购买了一个标称 128gb 的 USB 驱动器，但根据我的测试，它是 32gb 是否有软件可以将其格式化为正确的大小或在其上重新安装供应商的固件？   由   提交/u/Axel_11778   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1bx98bc/broken_drives/</guid>
+      <pubDate>Sat, 06 Apr 2024 11:24:51 GMT</pubDate>
+    </item>
     <item>
       <title>驱动程序助推器的最佳替代品</title>
       <link>https://www.reddit.com/r/software/comments/1bx6r6v/best_alternative_for_driver_booster/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[ 由   提交/u/inform880  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1bwmdpn/looking_for_ocr_type_software_that_lets_me/</guid>
       <pubDate>Fri, 05 Apr 2024 16:28:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>文件资源管理器替代方案 - 小型企业</title>
-      <link>https://www.reddit.com/r/software/comments/1bwluf6/file_explorer_alternative_small_business/</link>
-      <description><![CDATA[我拥有一家小型企业，该企业正在使用名为“文件柜”的程序。这太可怕了。传统的文件资源管理器更易于使用，并且占用的资源更少。然而，文件柜确实有一些我喜欢的功能。您是否知道文件资源管理器的替代方案可以执行以下操作。 1) 限制用户移动或删除文件的能力。两者都可能合适，但我希望在他们尝试移动或删除某些内容时显示一个对话框。如果不是对话框，则仅限制移动和删除。 2) 将显示 PDF 和 Microsoft 产品的预览。 3) 这不太重要，但可以自动创建文件夹。我得到的每个新客户基本上都会得到它自己的文件夹树。我不想一遍又一遍地重新创建它。 4）提供技术支持 我目前为我们当前的系统支付了大量费用，因此成本不高这确实是一个问题。    由   提交 /u/flactuary   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1bwluf6/file_explorer_alternative_small_business/</guid>
-      <pubDate>Fri, 05 Apr 2024 16:06:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>有谁知道这是什么资源监控软件吗？</title>
-      <link>https://www.reddit.com/r/software/comments/1bwlhhy/anyone_know_what_resource_monitor_software_this_is/</link>
-      <description><![CDATA[可能是一个 Rainmeter 皮肤，但我不确定，如果有人知道我在哪里可以找到它那就太好了。  https://preview.redd .it/98i3i086nosc1.png?width=1597&amp;format=png&amp;auto=webp&amp;s=1abf0b81c935232e15c196725d53ca8781ebaa77   由   提交/u/Working_System_1748   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1bwlhhy/anyone_know_what_resource_monitor_software_this_is/</guid>
-      <pubDate>Fri, 05 Apr 2024 15:52:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
