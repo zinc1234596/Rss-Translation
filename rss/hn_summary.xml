@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Mon, 08 Apr 2024 03:07:22 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Apr 2024 08:43:57 GMT</lastBuildDate>
     <item>
-      <title>[媒体] AIOS 是一个大型语言模型 (LLM) 代理操作系统，集成了大型语言 [...]</title>
-      <link>https://t.me/hn_summary/83433</link>
-      <description><![CDATA[AIOS：LLM代理操作系统
-AIOS 是一个大型语言模型（LLM）代理操作系统，它将大型语言模型集成到操作系统中，创建一个具有“灵魂”的操作系统，这是迈向通用人工智能（AGI）的一步。它优化资源分配，实现代理并发执行，并为开发人员提供工具服务。更新包括 shell 模拟器、快速 API 调用和预提交测试用例。该项目为运行代理提供交互和部署模式，并提供详细的设置说明。鼓励为建立一个有凝聚力的 AIOS-Agent 生态系统做出贡献。加入 Discord 社区进行讨论和协作。联系开发人员解决问题或贡献。]]></description>
-      <guid>https://t.me/hn_summary/83433</guid>
-      <pubDate>Mon, 08 Apr 2024 03:07:22 GMT</pubDate>
+      <title>西南航空从丹佛飞往休斯敦的航班因发动机盖脱落而引发恐慌 [...]</title>
+      <link>https://t.me/hn_summary/83461</link>
+      <description><![CDATA[从丹佛起飞的西南波音 737-800 航班失去了发动机盖
+西南航空从丹佛飞往休斯敦的航班因发动机盖脱落并撞到襟翼而引发恐慌，最终安全返回丹佛国际机场。美国联邦航空管理局将调查这一事件。乘客们被安排搭乘另一趟飞往休斯敦的航班，比原计划晚了三个小时。西南航空强调安全是重中之重，目前没有人员伤亡。这一事件加剧了影响波音飞机的一系列机械问题，引发了人们对飞机安全的担忧。波音公司拒绝发表评论，请向西南航空询问更多信息。]]></description>
+      <guid>https://t.me/hn_summary/83461</guid>
+      <pubDate>Mon, 08 Apr 2024 08:43:57 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在《自然》杂志上发表的一项开创性研究中，科学家们成功地使[...]</title>
-      <link>https://t.me/hn_summary/83432</link>
-      <description><![CDATA[新疗法可恢复老年小鼠衰老的免疫系统&lt; br/&gt;
-在《自然》杂志上发表的一项开创性研究中，科学家们利用靶向抗体治疗成功地恢复了老年小鼠衰老的免疫系统的活力。通过消除导致慢性炎症的特定干细胞，研究小组恢复了免疫系统的平衡，从而改善了对疫苗的反应并更好地防止感染。这种创新方法可能对预防与年龄相关的疾病和增强免疫力产生深远的影响。虽然该疗法尚未准备好进行人体试验，但研究人员希望它最终可以用于解决各种免疫相关疾病。]]></description>
-      <guid>https://t.me/hn_summary/83432</guid>
-      <pubDate>Mon, 08 Apr 2024 03:01:47 GMT</pubDate>
+      <title>在最近针对谷歌隐身模式的集体诉讼和解中，这家科技巨头 [...]</title>
+      <link>https://t.me/hn_summary/83460</link>
+      <description><![CDATA[针对 Google 隐身模式的集体诉讼
+在最近针对谷歌隐身模式的集体诉讼和解中，这家科技巨头同意删除用户私下浏览网络时收集的数十亿条数据记录。这项和解协议揭示了谷歌的数据收集做法，即使是在隐私浏览模式下也是如此。作为协议的一部分，谷歌必须更新隐身模式启动页面，以明确说明其从第三方网站收集数据的做法。此案凸显了围绕科技公司隐私和数据收集正在进行的争论。我作为检方的专家证人参与其中，我参与的细节可能会也可能不会公开。]]></description>
+      <guid>https://t.me/hn_summary/83460</guid>
+      <pubDate>Mon, 08 Apr 2024 08:38:53 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Kuto 是一个反向 JavaScript 捆绑器，它提供了一种独特的方法来在 [...]</title>
-      <link>https://t.me/hn_summary/83431</link>
-      <description><![CDATA[Kuto，一个反向 JavaScript 捆绑器
-Kuto 是一个反向 JavaScript 捆绑器，它提供了一种在网络上传输代码的独特方法。通过重用客户端已有的代码，它可以显着减少下载大小并缩短启动时间。 Kuto 在具有大型 JS 包和 ESM 代码的现实网站上效果最佳。它打破了传统的缓存规范，但利用浏览器功能来提高速度。虽然它可能并不适合所有场景，但 Kuto 值得在企业应用程序或社交媒体平台上探索。该工具仍在不断发展，欢迎对其性能提供反馈。总的来说，Kuto 提出了一种创新的代码捆绑和更新解决方案。]]></description>
-      <guid>https://t.me/hn_summary/83431</guid>
-      <pubDate>Mon, 08 Apr 2024 02:22:05 GMT</pubDate>
+      <title>介绍 Finboard，这是针对美国上市公司的预算友好型财务数据库， [...]</title>
+      <link>https://t.me/hn_summary/83459</link>
+      <description><![CDATA[展示 HN：Finboard – 经济实惠的金融数据库&lt; br /&gt;
+隆重推出 Finboard，这是面向美国和日本市场上市公司的预算友好型财务数据库。通过免费试用和每月仅 5 美元的低廉费用，用户无需花太多钱即可访问公司财务信息。随时通过网络轻松取消。不要让高昂的成本阻碍您获取重要的财务信息。立即尝试 Finboard，无需支付高昂的价格即可随时了解最新情况。]]></description>
+      <guid>https://t.me/hn_summary/83459</guid>
+      <pubDate>Mon, 08 Apr 2024 07:56:37 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]美国</title>
-      <link>https://t.me/hn_summary/83430</link>
-      <description><![CDATA[植物采矿 – 通过植物提取矿物质
-美国能源部正在投资 1000 万美元探索植物采矿，这是一种利用植物从土壤中提取矿物质的过程，首先是镍。这一举措支持拜登总统加强国内关键材料供应链并满足清洁能源技术需求的议程。镍对于电动汽车和其他应用中的锂离子电池至关重要。 ARPA-E 探索性主题 PHYTOMINES 旨在开发技术来优化超富集植物对镍的吸收，并了解影响植物采矿潜力的因素。这种创新方法可以彻底改变采矿业并减少对传统采矿方法的需求。]]></description>
-      <guid>https://t.me/hn_summary/83430</guid>
-      <pubDate>Mon, 08 Apr 2024 02:08:28 GMT</pubDate>
+      <title>[媒体]巴西最高法院已下令对埃隆·马斯克(Elon Musk)进行调查，涉嫌散播 [...]</title>
+      <link>https://t.me/hn_summary/83458</link>
+      <description><![CDATA[巴西最高法院下令对埃隆·马斯克假新闻进行调查
+巴西最高法院已下令对埃隆·马斯克进行调查，罪名是涉嫌散布假新闻和妨碍司法公正。法官亚历山大·德·莫赖斯 (Alexandre de Moraes) 指控马斯克煽动犯罪并威胁要违反法院命令。这项调查是针对巴西数字民兵传播诽谤性假新闻的更大规模调查的一部分。以倡导言论自由而闻名的马斯克尚未对调查发表评论。这场争议凸显了巴西关于言论自由与法律界限的争论，批评者指责德莫赖斯进行政治迫害。马斯克无视法院命令并威胁关闭其社交媒体平台 X，引发了一场法律战，并可能带来严重后果。]]></description>
+      <guid>https://t.me/hn_summary/83458</guid>
+      <pubDate>Mon, 08 Apr 2024 07:54:33 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在《细胞》杂志上发表的一项开创性研究中，弗洛尔大学的研究人员 [...]</title>
-      <link>https://t.me/hn_summary/83429</link>
-      <description><![CDATA[自闭症和多动症与生命早期肠道菌群紊乱有关
-在《细胞》杂志上发表的一项开创性研究中，佛罗里达大学和林雪平大学的研究人员发现，幼儿期肠道菌群紊乱与晚年自闭症和多动症的发展之间存在密切关联。这项前瞻性研究是 ABIS 项目的一部分，对 16,000 多名儿童从出生到二十几岁进行了跟踪调查，并确定了与神经系统疾病相关的关键生物标志物。令人惊讶的是，婴儿期使用抗生素和耳部感染等因素被发现会增加这些疾病的风险。该研究强调了未来早期筛查和预防措施的潜力。]]></description>
-      <guid>https://t.me/hn_summary/83429</guid>
-      <pubDate>Mon, 08 Apr 2024 01:50:17 GMT</pubDate>
+      <title>Gnome 46 终端到底快了多少？</title>
+      <link>https://t.me/hn_summary/83457</link>
+      <description><![CDATA[Gnome 46 终端到底快了多少？ 
+VTE 库为各种 GNOME 终端仿真器提供支持，在 GNOME 46 周期中已经看到了显着的性能改进。输入延迟是终端性能的关键指标，已使用硬件输入延迟测试仪进行测量，提供准确的端到端延迟测量。结果表明，VTE 终端已得到显着改进，现在的性能与快速 Alacritty 终端相当。这些改进归因于 VTE 重绘计时器的更改。涉及 neovim 设置的实际测试也显示出令人印象深刻的延迟改进。此外，vtebench 套件还用于测量 PTY 读取和解析性能，发现 VTE 中潜在的崩溃。 （根据 82% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/83457</guid>
+      <pubDate>Mon, 08 Apr 2024 07:27:22 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]庆祝色彩和色彩科学十周年，社区回顾十年 [...]</title>
-      <link>https://t.me/hn_summary/83428</link>
-      <description><![CDATA[色彩科学十年回顾
-庆祝颜色和颜色科学十周年，社区回顾了十年来在颜色科学复杂领域的热情讨论和贡献。尽管人类视觉一直是个谜，但 Color 已成为该领域领先的开源库。展望未来，该团队将探索 GPU 集成和 Python 数组 API 标准等潜在进步。虽然稳定版本尚未发布，但未来看起来很光明，因为他们的目标是在下一个十年继续他们的工作。加入 Github 上的讨论或联系颜色开发人员以获取更多信息。]]></description>
-      <guid>https://t.me/hn_summary/83428</guid>
-      <pubDate>Mon, 08 Apr 2024 01:13:04 GMT</pubDate>
+      <title>[媒体]去中心化交易平台 Uniswap 在 2019 年达到了一个重要的里程碑 [...]</title>
+      <link>https://t.me/hn_summary/83456</link>
+      <description><![CDATA[去中心化交易所 Uniswap 历史交易量突破 2T 美元
+Uniswap 是去中心化交易平台，其历史交易量突破了 2 万亿美元，达到了一个重要的里程碑。这一成就凸显了去中心化金融（DeFi）平台在加密货币领域的日益普及和成功。 Uniswap 友好的用户界面和高效的交易系统吸引了大量用户，促进其快速增长。这一里程碑证明了去中心化交易所在彻底改变传统金融体系方面的力量和潜力。]]></description>
+      <guid>https://t.me/hn_summary/83456</guid>
+      <pubDate>Mon, 08 Apr 2024 07:22:16 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 我的儿子和其他 27 人在跳伞中心死亡。</title>
-      <link>https://t.me/hn_summary/83427</link>
-      <description><![CDATA[我的儿子和其他 27 人在跳伞中心死亡。怎么还开着？
-自 1985 年以来，加利福尼亚州洛迪降落伞中心已造成 28 人死亡，其中包括泰勒·特纳 (Tyler Turner)，他在 2016 年的一次跳伞事故中不幸身亡。尽管死亡人数众多，但泰勒的母亲弗朗辛·特纳 (Francine Turner) 并不知道该中心的情况危险的声誉。她现在倡导对跳伞行业实行更严格的监管，并对该中心仍在运营感到震惊。争议在于，尽管造成多人死亡，洛迪降落伞中心仍继续开放，引发了对该行业安全和监管的质疑。]]></description>
-      <guid>https://t.me/hn_summary/83427</guid>
-      <pubDate>Mon, 08 Apr 2024 00:14:45 GMT</pubDate>
+      <title>问 HN：对于业余项目，你如何离开业余爱好模式并进入商业模式？</title>
+      <link>https://t.me/hn_summary/83455</link>
+      <description><![CDATA[问HN：如何离开爱好模式进入商业模式，一个业余项目？
+news.ycombinator.com 上这篇文章的作者是努力将他们的编程业余项目从业余爱好模式转变为商业模式。最初是与朋友一起有趣地探索新框架和工具，现在已经发展成为一项潜在的注册业务。他们面临着放弃业余爱好者倾向并专注于将项目转变为盈利企业的大局的挑战。作者正在寻求有关如何成功过渡并将他们的项目提升到新水平的建议。]]></description>
+      <guid>https://t.me/hn_summary/83455</guid>
+      <pubDate>Mon, 08 Apr 2024 07:19:13 GMT</pubDate>
     </item>
     <item>
-      <title>Scipy 的最新版本 1.13 带来了大量的增强功能、错误修复和文档 [...]</title>
-      <link>https://t.me/hn_summary/83426</link>
-      <description><![CDATA[Scipy 1.13
-Scipy 的最新版本 1.13 带来了大量的增强功能、错误修复和文档更新。从将 cdflib 精度收紧到 1e-15，到添加更快的逆 Wishart rvs 和 logpdf，此更新涵盖了广泛的改进。显着的变化包括增加了对一维稀疏数组的 DOK 支持、重写 amos F77 代码以及启用阶乘近似。该版本还包括统计、linalg 和特殊功能等各种模块的维护更新、弃用和增强。此外，还修复了构建警告、文档改进和测试套件增强。 （根据 44% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/83426</guid>
-      <pubDate>Mon, 08 Apr 2024 00:12:11 GMT</pubDate>
+      <title>[媒体]Ragdoll Studio 是一个免费的开源人工智能软件项目，旨在完善艺术 [...]</title>
+      <link>https://t.me/hn_summary/83454</link>
+      <description><![CDATA[展示 HN：Ragdoll Studio 中的完美艺术和摄影（FOSS AI 软件)
+Ragdoll Studio 是一个免费的开源人工智能软件项目，旨在完善艺术和摄影。它提供用于与 Ragdoll 交互的 Web 应用程序和库，重点关注基于 RAG 的学习。该项目的与众不同之处在于提供了用于设置 API 和前端的演示和安装说明。通过在所有 CPU 核心上运行服务器，Ragdoll Studio 确保有效处理并发请求。该项目还包括 Ragdoll 应用程序和 API 的使用说明，以及潜在用例的案例研究。]]></description>
+      <guid>https://t.me/hn_summary/83454</guid>
+      <pubDate>Mon, 08 Apr 2024 07:15:09 GMT</pubDate>
     </item>
     <item>
-      <title>在自主武器领域，保护平民的承诺是虚假的。</title>
-      <link>https://t.me/hn_summary/83425</link>
-      <description><![CDATA[自主武器：保护平民的虚假承诺&lt; br/&gt;
-在自主武器领域，保护平民的承诺是虚假的。许多专家和研究人员深入研究了围绕高度自动化和自主技术的伦理问题，质疑人类对致命自主武器的有意义的控制。人工智能算法在杀伤链目标识别中的使用以及人工智能改变战争的潜力引发了重大的道德困境。围绕 Kargu-2 无人机等自主武器的争论凸显了这一领域的意识和治理的必要性。自主武器与国际人道法的兼容性仍然是一个有争议的问题，专家预测人工智能将推动战争发生转变。]]></description>
-      <guid>https://t.me/hn_summary/83425</guid>
-      <pubDate>Sun, 07 Apr 2024 23:31:55 GMT</pubDate>
+      <title>在一项突破性的发展中，伊恩·伯克哈特 (Ian Burkhart)，历史上为数不多的真正的机器人之一，已经 [...]</title>
+      <link>https://t.me/hn_summary/83453</link>
+      <description><![CDATA[Neuralink 缺少什么
+在一项突破性的进展中，历史上为数不多的真正的机器人之一伊恩·伯克哈特（Ian Burkhart）已经能够通过脑机接口暂时恢复单手的运动能力。然而，埃隆·马斯克 (Elon Musk) 旗下的 BCI 公司 Neuralink 的首次亮相，引发了人们对该技术未来的质疑。尽管马斯克设想了一个人类可以直接从计算机获取知识的世界，但支持这种进步所需的伦理影响和社会结构仍然不确定。尽管 BCI 研究取得了进展，但材料不兼容、信号解码和监管批准等挑战对广泛实施构成了重大障碍。 BCI 技术对残疾人的潜在好处是巨大的，但如果不解决基本的社会问题，人类和人工智能之间的共生关系的承诺可能仍然遥不可及。]]></description>
+      <guid>https://t.me/hn_summary/83453</guid>
+      <pubDate>Mon, 08 Apr 2024 07:14:05 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 法国贵族布冯伯爵乔治·路易斯·勒克莱尔 (Georges-Louis Leclerc) 长期以来一直了解进化论 [...]</title>
-      <link>https://t.me/hn_summary/83424</link>
-      <description><![CDATA[比达尔文早100年了解进化论的法国贵族 
-杰森·罗伯茨 (Jason Roberts) 在一本新书中透露，法国贵族布丰伯爵乔治·路易斯·勒克莱尔 (Georges-Louis Leclerc) 早在达尔文之前就了解了进化论。布冯的开创性想法可以追溯到 1740 年代，其中包括物种变化和灭绝的概念，以及对繁殖的观察，这些观察预示着 DNA 的发现。尽管面临争议和异端指控，布冯在生态学方面的开创性工作以及他对自然复杂性和多变性的信念使他有别于同时代的人。罗伯茨旨在阐明布冯的贡献，并希望重申他在历史上应有的地位。]]></description>
-      <guid>https://t.me/hn_summary/83424</guid>
-      <pubDate>Sun, 07 Apr 2024 23:20:49 GMT</pubDate>
+      <title>[媒体]联合音乐家和联合工人正在推动艺术家更公平的收入分配[...]</title>
+      <link>https://t.me/hn_summary/83452</link>
+      <description><![CDATA[Spotify 取消 1k 流下的所有曲目
+United Musicians 和 Allied Workers 正在推动 Spotify 和 Apple Music 等流媒体平台上的艺术家获得更公平的收入分配。他们向国会提出了《音乐家生活工资法案》，以帮助艺术家建立可持续的职业生涯。与此同时，自上市以来面临财务亏损的 Spotify 计划提高定价以创造更多收入。部分国家/地区的客户每月账单将增加 1-2 美元，以支付有声读物和新视频学习内容的费用。此举导致 Spotify 股价上涨 4.6%，但长期影响仍不确定。]]></description>
+      <guid>https://t.me/hn_summary/83452</guid>
+      <pubDate>Mon, 08 Apr 2024 07:13:01 GMT</pubDate>
     </item>
     </channel>
 </rss>

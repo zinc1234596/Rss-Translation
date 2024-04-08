@@ -4,7 +4,7 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Mon, 08 Apr 2024 06:15:09 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Apr 2024 09:13:09 GMT</lastBuildDate>
     <item>
       <title>Chrome 扩展：一种通过键盘快捷键单击特定部分的方法？</title>
       <link>https://www.reddit.com/r/software/comments/1byq2yy/chrome_extension_a_way_to_click_specific_portion/</link>
@@ -22,7 +22,7 @@
     <item>
       <title>我的鼠标和触控板会自行推动。</title>
       <link>https://www.reddit.com/r/software/comments/1bynnbs/my_mouse_and_track_pad_are_pushing_by_themselves/</link>
-      <description><![CDATA[我今天早上第一次注意到这一点，我尝试了我的鼠标和触摸板，以前从未这样做过，现在它们都这样做了。它必须是软件，但所有驱动程序都是最新的，并且我已经重新启动了多次。有人可以帮忙吗？   由   提交/u/Honest-Ad7230   /u/Honest-Ad7230  reddit.com/r/software/comments/1bynnbs/my_mouse_and_track_pad_are_pushing_by_themselves/&quot;&gt;[链接] [评论]]]></description>
+      <description><![CDATA[我今天早上第一次注意到它，我尝试了我的鼠标和触摸板，以前从未这样做过，现在它们都这样做了。它必须是软件，但所有驱动程序都是最新的，并且我已经重新启动了多次。有人可以帮忙吗？   由   提交/u/Honest-Ad7230   /u/Honest-Ad7230  reddit.com/r/software/comments/1bynnbs/my_mouse_and_track_pad_are_pushing_by_themselves/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1bynnbs/my_mouse_and_track_pad_are_pushing_by_themselves/</guid>
       <pubDate>Mon, 08 Apr 2024 03:19:15 GMT</pubDate>
     </item>
@@ -57,7 +57,7 @@
     <item>
       <title>开源（或以其他方式抵抗 enshittification）笔记应用程序具有与拥有个人不和谐服务器类似的体验？</title>
       <link>https://www.reddit.com/r/software/comments/1byfvc1/open_source_or_otherwise_resistant_to/</link>
-      <description><![CDATA[随着不和谐一点一点地消失，我想在它真正成为问题之前把所有的笔记都从那里取出来，但我&#39;我不知道该用什么。我需要的主要功能是： - 简单直观的 UI，不是过于简约，老实说，Discord 和 OneNote 看起来非常相似，而且正好在我需要的位置，我确实更喜欢 UX 更简单，OneNote 有就像，比我需要的功能多得多，有时它会因此而变得烦人（这就是我首先转向不和谐的原因） - 类似于不和谐频道的多个类别，我可以在其中留下自己的笔记顺序方式  - 能够在在线时嵌入在线托管图像和 YouTube 视频，如果将链接放入注释中时自动变为超链接，那就太好了。以不和谐的方式嵌入网站通常是我需要的更重要的功能之一。 - 允许媒体，最好使用本地托管。我也不介意在备用计算机上设置一个服务器，如果有必要保持它运行良好的话（虽然我很容易迷失在复杂的东西中，如果它比在 Linux 上设置一个修改过的《我的世界》服务器困难得多，那可能是太多） - 离线运行，这样即使失去连接我也不会被操 - 在 Android 和 Windows 上都存在，能够在两个设备之间同步，如前所述，如果这需要设置我自己的服务器，那很好，我想可能很难找到可以在设备之间同步所有内容并且是自由开源软件并且不需要您自己的服务器的东西  - 不错，但不是真的必不可少：让其他人看到我的笔记的能力 - 黑暗/夜间模式 ​ 现在，我知道有一些更多或OneNote 不太能满足这些需求，但问题是，像 Discord 一样，它们都是一种软件即服务类型的交易，不断更新，毫无疑问最终会被杀掉或通过 enshitification 变得无法使用。例如，如果设备之间的同步功能仅通过在两个设备位于同一网络上时在本地共享信息来实现，那就太好了，这样它就不会依赖于任何在停止盈利时可能被关闭的服务器。   由   提交/u/ShardPerson  [链接] [评论]]]></description>
+      <description><![CDATA[随着不和谐一点一点地消失，我想在它真正成为问题之前把我所有的笔记都从那里取出来，但我&#39;我不知道该用什么。我需要的主要功能是： - 简单直观的 UI，不是过于简约，老实说，Discord 和 OneNote 看起来非常相似，而且正好在我需要的位置，我确实更喜欢 UX 更简单，OneNote 有就像，比我需要的功能多得多，有时它会因此而变得烦人（这就是我首先转向不和谐的原因） - 类似于不和谐频道的多个类别，我可以在其中留下自己的笔记顺序方式  - 能够在在线时嵌入在线托管图像和 YouTube 视频，如果将链接放入注释中时自动变为超链接，那就太好了。以不和谐的方式嵌入网站通常是我需要的更重要的功能之一。 - 允许媒体，最好使用本地托管。我也不介意在备用计算机上设置一个服务器，如果有必要保持它运行良好的话（虽然我很容易迷失在复杂的东西中，如果它比在 Linux 上设置一个修改过的《我的世界》服务器困难得多，那可能是太多） - 离线运行，这样即使失去连接我也不会被操 - 在 Android 和 Windows 上都存在，能够在两个设备之间同步，如前所述，如果这需要设置我自己的服务器，那很好，我想可能很难找到可以在设备之间同步所有内容并且是自由开源软件并且不需要您自己的服务器的东西  - 不错，但不是真的必不可少：让其他人看到我的笔记的能力 - 黑暗/夜间模式 ​ 现在，我知道有一些更多或OneNote 不太能满足这些需求，但问题是，像 Discord 一样，它们都是一种软件即服务类型的交易，不断更新，毫无疑问最终会被杀掉或通过 enshitification 变得无法使用。例如，如果设备之间的同步功能仅通过在两个设备位于同一网络上时在本地共享信息来实现，那就太好了，这样它就不会依赖于任何在停止盈利时可能被关闭的服务器。   由   提交/u/ShardPerson  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1byfvc1/open_source_or_otherwise_resistant_to/</guid>
       <pubDate>Sun, 07 Apr 2024 21:24:24 GMT</pubDate>
     </item>
@@ -71,7 +71,7 @@
     <item>
       <title>为什么软件在过去几年里变得越来越糟糕？</title>
       <link>https://www.reddit.com/r/software/comments/1byczy2/why_did_software_become_worse_in_the_last_few/</link>
-      <description><![CDATA[我见过基本功能分散在应用程序、破碎的云服务，甚至是使用起来很痛苦的大预算银行应用程序。可靠性和安全性也常常让人感到缺乏。 为什么会发生这种情况，我有一些理论：我们是否都太分心而无法集中精力工作？该行业是否过于关注最新趋势，而不是第一次就把事情做好？简单的编码工具是否会导致开发人员不掌握基础知识？ 此外，人工智能的兴起对软件质量意味着什么？事情在好转之前会变得更糟吗？ 让你发疯的糟糕软件的最糟糕的例子是什么？是否有卓越品质的光辉范例给您带来希望？   由   提交/u/laurentiurad  [链接] [评论]]]></description>
+      <description><![CDATA[我见过基本功能分散在应用程序、破碎的云服务，甚至是使用起来很痛苦的大预算银行应用程序。可靠性和安全性也常常让人感到缺乏。 为什么会发生这种情况，我有一些理论：我们是否都太分心而无法集中精力工作？该行业是否过于关注最新趋势，而不是第一次就把事情做好？简单的编码工具是否会导致开发人员不掌握基础知识？ 此外，人工智能的兴起对软件质量意味着什么？事情在好转之前会变得更糟吗？ 让你发疯的糟糕软件的最糟糕的例子是什么？有哪些卓越品质的光辉典范给您带来希望？   由   提交 /u/laurentiurad   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1byczy2/why_did_software_become_worse_in_the_last_few/</guid>
       <pubDate>Sun, 07 Apr 2024 19:31:07 GMT</pubDate>
     </item>
@@ -83,7 +83,7 @@
       <pubDate>Sun, 07 Apr 2024 18:31:16 GMT</pubDate>
     </item>
     <item>
-      <title>如何下载整个 Youtube 播放列表（无需命令或程序）</title>
+      <title>如何下载整个 YouTube 播放列表（无命令或程序）</title>
       <link>https://www.reddit.com/r/software/comments/1bybd1a/how_to_download_an_entire_youtube_playlist_no/</link>
       <description><![CDATA[有没有办法下载整个 youtube 播放列表（视频）并全部下载，我看到很多 github 的东西，这让我很头疼有没有什么可以简单地复制并粘贴播放列表链接并全部下载？   由   提交 /u/Far_Panda1911   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1bybd1a/how_to_download_an_entire_youtube_playlist_no/</guid>
