@@ -4,7 +4,55 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Mon, 08 Apr 2024 00:14:45 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Apr 2024 03:07:22 GMT</lastBuildDate>
+    <item>
+      <title>[媒体] AIOS 是一个大型语言模型 (LLM) 代理操作系统，集成了大型语言 [...]</title>
+      <link>https://t.me/hn_summary/83433</link>
+      <description><![CDATA[AIOS：LLM代理操作系统
+AIOS 是一个大型语言模型（LLM）代理操作系统，它将大型语言模型集成到操作系统中，创建一个具有“灵魂”的操作系统，这是迈向通用人工智能（AGI）的一步。它优化资源分配，实现代理并发执行，并为开发人员提供工具服务。更新包括 shell 模拟器、快速 API 调用和预提交测试用例。该项目为运行代理提供交互和部署模式，并提供详细的设置说明。鼓励为建立一个有凝聚力的 AIOS-Agent 生态系统做出贡献。加入 Discord 社区进行讨论和协作。联系开发人员解决问题或贡献。]]></description>
+      <guid>https://t.me/hn_summary/83433</guid>
+      <pubDate>Mon, 08 Apr 2024 03:07:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]在《自然》杂志上发表的一项开创性研究中，科学家们成功地使[...]</title>
+      <link>https://t.me/hn_summary/83432</link>
+      <description><![CDATA[新疗法可恢复老年小鼠衰老的免疫系统&lt; br/&gt;
+在《自然》杂志上发表的一项开创性研究中，科学家们利用靶向抗体治疗成功地恢复了老年小鼠衰老的免疫系统的活力。通过消除导致慢性炎症的特定干细胞，研究小组恢复了免疫系统的平衡，从而改善了对疫苗的反应并更好地防止感染。这种创新方法可能对预防与年龄相关的疾病和增强免疫力产生深远的影响。虽然该疗法尚未准备好进行人体试验，但研究人员希望它最终可以用于解决各种免疫相关疾病。]]></description>
+      <guid>https://t.me/hn_summary/83432</guid>
+      <pubDate>Mon, 08 Apr 2024 03:01:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]Kuto 是一个反向 JavaScript 捆绑器，它提供了一种独特的方法来在 [...]</title>
+      <link>https://t.me/hn_summary/83431</link>
+      <description><![CDATA[Kuto，一个反向 JavaScript 捆绑器
+Kuto 是一个反向 JavaScript 捆绑器，它提供了一种在网络上传输代码的独特方法。通过重用客户端已有的代码，它可以显着减少下载大小并缩短启动时间。 Kuto 在具有大型 JS 包和 ESM 代码的现实网站上效果最佳。它打破了传统的缓存规范，但利用浏览器功能来提高速度。虽然它可能并不适合所有场景，但 Kuto 值得在企业应用程序或社交媒体平台上探索。该工具仍在不断发展，欢迎对其性能提供反馈。总的来说，Kuto 提出了一种创新的代码捆绑和更新解决方案。]]></description>
+      <guid>https://t.me/hn_summary/83431</guid>
+      <pubDate>Mon, 08 Apr 2024 02:22:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]美国</title>
+      <link>https://t.me/hn_summary/83430</link>
+      <description><![CDATA[植物采矿 – 通过植物提取矿物质
+美国能源部正在投资 1000 万美元探索植物采矿，这是一种利用植物从土壤中提取矿物质的过程，首先是镍。这一举措支持拜登总统加强国内关键材料供应链并满足清洁能源技术需求的议程。镍对于电动汽车和其他应用中的锂离子电池至关重要。 ARPA-E 探索性主题 PHYTOMINES 旨在开发技术来优化超富集植物对镍的吸收，并了解影响植物采矿潜力的因素。这种创新方法可以彻底改变采矿业并减少对传统采矿方法的需求。]]></description>
+      <guid>https://t.me/hn_summary/83430</guid>
+      <pubDate>Mon, 08 Apr 2024 02:08:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 在《细胞》杂志上发表的一项开创性研究中，弗洛尔大学的研究人员 [...]</title>
+      <link>https://t.me/hn_summary/83429</link>
+      <description><![CDATA[自闭症和多动症与生命早期肠道菌群紊乱有关
+在《细胞》杂志上发表的一项开创性研究中，佛罗里达大学和林雪平大学的研究人员发现，幼儿期肠道菌群紊乱与晚年自闭症和多动症的发展之间存在密切关联。这项前瞻性研究是 ABIS 项目的一部分，对 16,000 多名儿童从出生到二十几岁进行了跟踪调查，并确定了与神经系统疾病相关的关键生物标志物。令人惊讶的是，婴儿期使用抗生素和耳部感染等因素被发现会增加这些疾病的风险。该研究强调了未来早期筛查和预防措施的潜力。]]></description>
+      <guid>https://t.me/hn_summary/83429</guid>
+      <pubDate>Mon, 08 Apr 2024 01:50:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]庆祝色彩和色彩科学十周年，社区回顾十年 [...]</title>
+      <link>https://t.me/hn_summary/83428</link>
+      <description><![CDATA[色彩科学十年回顾
+庆祝颜色和颜色科学十周年，社区回顾了十年来在颜色科学复杂领域的热情讨论和贡献。尽管人类视觉一直是个谜，但 Color 已成为该领域领先的开源库。展望未来，该团队将探索 GPU 集成和 Python 数组 API 标准等潜在进步。虽然稳定版本尚未发布，但未来看起来很光明，因为他们的目标是在下一个十年继续他们的工作。加入 Github 上的讨论或联系颜色开发人员以获取更多信息。]]></description>
+      <guid>https://t.me/hn_summary/83428</guid>
+      <pubDate>Mon, 08 Apr 2024 01:13:04 GMT</pubDate>
+    </item>
     <item>
       <title>[媒体] 我的儿子和其他 27 人在跳伞中心死亡。</title>
       <link>https://t.me/hn_summary/83427</link>
@@ -36,54 +84,6 @@ Scipy 的最新版本 1.13 带来了大量的增强功能、错误修复和文�
 杰森·罗伯茨 (Jason Roberts) 在一本新书中透露，法国贵族布丰伯爵乔治·路易斯·勒克莱尔 (Georges-Louis Leclerc) 早在达尔文之前就了解了进化论。布冯的开创性想法可以追溯到 1740 年代，其中包括物种变化和灭绝的概念，以及对繁殖的观察，这些观察预示着 DNA 的发现。尽管面临争议和异端指控，布冯在生态学方面的开创性工作以及他对自然复杂性和多变性的信念使他有别于同时代的人。罗伯茨旨在阐明布冯的贡献，并希望重申他在历史上应有的地位。]]></description>
       <guid>https://t.me/hn_summary/83424</guid>
       <pubDate>Sun, 07 Apr 2024 23:20:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>盲人互联网用户正面临着容易出错的人工智能辅助工具的挑战，这些辅助工具旨在帮助 [...]</title>
-      <link>https://t.me/hn_summary/83423</link>
-      <description><![CDATA[盲人互联网用户与容易出错的人工智能辅助工具作斗争 
-盲人互联网用户正面临着容易出错的人工智能辅助工具的挑战，这些辅助工具旨在帮助他们浏览网络。尽管技术不断进步，但这些辅助设备经常会出现错误，阻碍了视力障碍人士的使用。这场争议凸显了为所有人平等获取在线信息而进行的持续斗争。令人惊讶的是，即使使用人工智能，盲人用户的在线体验仍然遇到障碍。这个问题强调了继续努力改善所有互联网用户的可访问性的重要性。]]></description>
-      <guid>https://t.me/hn_summary/83423</guid>
-      <pubDate>Sun, 07 Apr 2024 22:45:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 西南航空一架波音 737 飞机发生了一次可怕的事故，当时其发动机盖发生故障 [...]</title>
-      <link>https://t.me/hn_summary/83422</link>
-      <description><![CDATA[西南航空飞机上的波音 737 发动机盖被撕掉
-西南航空的一架波音 737 飞机在起飞过程中发生了一次可怕的事故，发动机盖脱落，撞到了机翼襟翼。尽管存在恐慌，飞机还是安全降落在丹佛，乘客们被重新预订了另一趟飞往休斯敦的航班。此前，西南航空本周早些时候因发动机起火而取消了另一趟航班。美国联邦航空管理局正在调查这两起事件。安全是航空公司的首要任务，维护团队正在对飞机进行检查。通过《财富》欧洲首席执行官周刊了解最新商业新闻。]]></description>
-      <guid>https://t.me/hn_summary/83422</guid>
-      <pubDate>Sun, 07 Apr 2024 22:22:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] Flyweight 是专为 SQLite 设计的 Node.js ORM，为 [...]</title>
-      <link>https://t.me/hn_summary/83421</link>
-      <description><![CDATA[Flyweight：专门针对 SQLite 的 Node.js ORM 
-Flyweight 是专门为 SQLite 设计的 Node.js ORM，提供用于基本操作的简单 API 以及创建和解析 SQL 查询的能力。它提供简写 JSON 函数，支持创建具有布尔值和日期等附加类型的表，并提供插入、更新、获取和删除数据的方法。该项目还包括迁移、正则表达式、默认值和事务等功能。与其他 ORM 不同，Flyweight 允许轻松自定义 SQL 查询、支持动态内容并自动处理 JSON 解析和类型。该项目还包括有关使用和测试的详细文档。]]></description>
-      <guid>https://t.me/hn_summary/83421</guid>
-      <pubDate>Sun, 07 Apr 2024 22:16:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>一架波音 737-800 飞机在飞行中发动机罩脱落后紧急迫降。</title>
-      <link>https://t.me/hn_summary/83420</link>
-      <description><![CDATA[波音 737-800 发动机罩分离后紧急迫降
-一架波音 737-800 飞机在飞行中发动机罩脱落后紧急迫降。该事件引起乘客恐慌，并引发对飞机安全的担忧。飞机安全着陆，但围绕该事件的争议引发了有关商业航空公司维护和检查程序的讨论。这一突发事件提醒人们在航空旅行期间确保乘客安全的重要性。请继续关注这个发展故事的更新。 #Boeing737 #EmergencyLanding #SafetyFirst]]></description>
-      <guid>https://t.me/hn_summary/83420</guid>
-      <pubDate>Sun, 07 Apr 2024 22:10:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年，日全食将经过北美，这是作者认为罕见的事件 [...]</title>
-      <link>https://t.me/hn_summary/83419</link>
-      <description><![CDATA[Eclipse 2024
-2024年，日全食将掠过北美，这是作者家人热切期盼的罕见事件。全食路径将包括德克萨斯州、中西部东部和五大湖地区的主要城市，数百万人可以到达。作者强调了位于本影中心以获得最佳体验的重要性，因为部分相位并不能捕捉到日食的真正本质。作者分享了观看日食的技巧，包括不要浪费宝贵的时间拍照。文章还讨论了日食的周期性和目睹日全食的独特体验。]]></description>
-      <guid>https://t.me/hn_summary/83419</guid>
-      <pubDate>Sun, 07 Apr 2024 22:09:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>尽管做出了努力，软件质量在过去十年中却有所下降。</title>
-      <link>https://t.me/hn_summary/83418</link>
-      <description><![CDATA[为什么软件质量比十年前差了&lt; br/&gt;
-尽管做出了努力，软件质量在过去十年中却有所下降。现代软件的复杂性、可靠性的缺乏、可用性问题和安全漏洞都导致了这场持续的危机。该行业面临着能力危机，分心和缺乏焦点会导致更多的错误和可用性问题。像 Martin Fowler 这样的思想领袖影响着工程实践，但争议和高级编程语言已经将焦点从真正的工程上转移开。随着软件变得更加抽象，工程师可能缺乏对底层原理的深入理解。软件质量的未来仍然不确定，人工智能可能会加剧当前的危机。]]></description>
-      <guid>https://t.me/hn_summary/83418</guid>
-      <pubDate>Sun, 07 Apr 2024 21:49:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
