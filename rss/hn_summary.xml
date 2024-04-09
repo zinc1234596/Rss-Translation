@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Mon, 08 Apr 2024 18:07:17 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Apr 2024 00:00:55 GMT</lastBuildDate>
     <item>
-      <title>[媒体] Neco 是一个 C 库，它使用协程提供并发性，使并发 I/O [...]</title>
-      <link>https://t.me/hn_summary/83530</link>
-      <description><![CDATA[显示 HN：Neco – C 协程库&lt; br/&gt;
-Neco 是一个使用协程提供并发性的 C 库，使并发 I/O 和网络编程变得更加容易。它具有用于各种操作的协程、同步机制、对截止日期和取消的支持，以及用于网络、信号、随机数据、流和缓冲 I/O 的附加 API。该项目旨在为 C 程序提供快速的单线程并发性，类似于 pthreads 或 Go 的简单性，并提供用于并发网络和 I/O 的 API。它通过提供轻量级运行时、公平且确定性的调度程序、快速的用户空间上下文切换和跨平台支持而脱颖而出。该项目还包括启动协程、使用通道、生成器、连接到服务器和创建服务器的用法示例。 （根据故事文本的 54% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/83530</guid>
-      <pubDate>Mon, 08 Apr 2024 18:07:17 GMT</pubDate>
+      <title>[媒体] Fastmonitor.io 提供连续的页面速度和稳定性监控，以帮助网站 [...]</title>
+      <link>https://t.me/hn_summary/83608</link>
+      <description><![CDATA[显示 HN：连续页面速度和稳定性监控&lt; br/&gt;
+Fastmonitor.io 提供持续的页面速度和稳定性监控，以帮助网站所有者确保在网络流量方面每一毫秒都很重要。通过免费监控网站速度，用户可以优化网站，防止流量浪费，无论是来自广告、搜索引擎优化还是社交媒体。对于任何希望最大限度地提高在线影响力并充分利用网络流量的人来说，此工具都是必不可少的。]]></description>
+      <guid>https://t.me/hn_summary/83608</guid>
+      <pubDate>Tue, 09 Apr 2024 00:00:55 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]西南航空一架航班从丹佛国际机场起飞时发生令人震惊的事件 [...]</title>
-      <link>https://t.me/hn_summary/83529</link>
-      <description><![CDATA[西南航空航班起飞时发动机部件从波音飞机上掉落&lt; /a&gt;
-西南航空一架航班从丹佛国际机场起飞时发生了一起令人震惊的事件，部分发动机盖脱落并撞击了机翼襟翼。尽管经历了可怕的经历，飞行员还是安全地将飞机返回机场，机上135名乘客没有受伤。这一事件加剧了困扰波音公司的一系列问题，其中包括最近涉及阿拉斯加航空波音 737 MAX 9 飞机的事件。美国联邦航空管理局正在调查该事件，司法部已对波音公司遵守安全法规的情况展开刑事调查。]]></description>
-      <guid>https://t.me/hn_summary/83529</guid>
-      <pubDate>Mon, 08 Apr 2024 18:04:13 GMT</pubDate>
+      <title>在 images.wur.nl 上探索 1.18k 幅植物根系图画集。</title>
+      <link>https://t.me/hn_summary/83607</link>
+      <description><![CDATA[1.18k植物根系图
+在 images.wur 上探索 1.18k 幅植物根系图集。 nl。这些详细的插图展示了支持植物生长和发育的复杂根系网络。从简单的图表到复杂的结构，每幅图画都提供了对土壤下隐藏世界的独特视角。使 Javascript 能够充分利用这个迷人集合的交互功能。]]></description>
+      <guid>https://t.me/hn_summary/83607</guid>
+      <pubDate>Mon, 08 Apr 2024 23:50:20 GMT</pubDate>
     </item>
     <item>
-      <title>Rotz 是一个用 Rust 编写的多功能跨平台点文件管理器。</title>
-      <link>https://t.me/hn_summary/83528</link>
-      <description><![CDATA[Rotz：用 Rust 编写的跨平台点文件管理器&lt; br/&gt;
-Rotz 是一个用 Rust 编写的多功能跨平台点文件管理器。借助 Rotz，您可以使用 yaml、toml 或 json 配置文件轻松指定链接点文件的位置以及要安装的软件。这使得管理配置文件变得轻而易举，从而可以跨不同操作系统进行无缝定制。 Rotz 是一款功能强大的工具，可简化您的设置并确保所有设备的一致性。在 volllly.github.io 上查看 Rotz 并掌控一切今天的点文件。]]></description>
-      <guid>https://t.me/hn_summary/83528</guid>
-      <pubDate>Mon, 08 Apr 2024 18:02:09 GMT</pubDate>
+      <title>在人工智能模型快速发展的世界中，对开放大型语言模型（L [...]</title>
+      <link>https://t.me/hn_summary/83606</link>
+      <description><![CDATA[Hello OLMo：真正开放的LLM
+在人工智能模型快速发展的世界中，对开放大型语言模型（LLM）的需求猛增。艾伦人工智能研究所 (AI2) 发布了 OLMo 7B，这是一个真正开放的、最先进的大型语言模型，以及预训练数据和训练代码。这使得研究人员和开发人员能够共同推进语言模型的科学发展。 OLMo 提供训练数据、模型权重和评估方法的完全透明性，从而获得更精确、环保和持久的结果。通过让 OLMo 全面向公众开放，AI2 旨在构建世界上最好的开放语言模型，并推广负责任的人工智能技术。]]></description>
+      <guid>https://t.me/hn_summary/83606</guid>
+      <pubDate>Mon, 08 Apr 2024 23:40:45 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]路易斯安那州用于应对气候变化的数十亿联邦资金实际上可能 [...]</title>
-      <link>https://t.me/hn_summary/83527</link>
-      <description><![CDATA[用于应对气候变化的联邦资金最终可能会提振化石燃料&lt; /a&gt;
-路易斯安那州用于应对气候变化的数十亿联邦资金实际上可能最终会增加化石燃料的使用，因为与主要石油和天然气公司相关的行业捕获和埋藏二氧化碳的项目获得了慷慨的税收补贴。路易斯安那州有着利用灾害来促进化石燃料行业发展的历史，现在碳捕获项目正在将该行业转变为缓解气候变化的关键组成部分，同时继续生产为地球供暖的产品。批评者认为，这种方法转移了经过验证的可再生能源开发的资源，并引发了对潜在环境危害的担忧。]]></description>
-      <guid>https://t.me/hn_summary/83527</guid>
-      <pubDate>Mon, 08 Apr 2024 18:00:36 GMT</pubDate>
+      <title>[媒体]日本顶级电信公司和报纸已发出警告 [...]</title>
+      <link>https://t.me/hn_summary/83605</link>
+      <description><![CDATA[“社会秩序可能崩溃”：日本两家顶级公司担心不受控制人工智能
+日本最大的电信公司和报纸对不受控制的人工智能发出警告，担心它可能导致社会崩溃。该提案敦促官员修改有关人工智能的法律，因为它已经对用户产生了负面影响。这些公司强调了如果人工智能不受控制，信任、民主和社会秩序将面临风险的担忧。他们呼吁政府采取行动并制定更强有力的法律来保护选举、国家安全和版权。在承认人工智能重要性的同时，他们强调监管的必要性。该报告还提到欧盟的人工智能法案可以作为其他国家的潜在模式。订阅 Eye on AI 时事通讯，随时了解人工智能对业务的影响。]]></description>
+      <guid>https://t.me/hn_summary/83605</guid>
+      <pubDate>Mon, 08 Apr 2024 23:38:11 GMT</pubDate>
     </item>
     <item>
-      <title>Tor 项目网站上的博客文章深入探讨了以色列监视的全球影响 [...]</title>
-      <link>https://t.me/hn_summary/83526</link>
-      <description><![CDATA[以色列“国防”技术对隐私和人权的全球影响
-Tor 项目网站上的博客文章深入探讨了以色列监控技术对隐私和人权的全球影响。它突显了监控工具的惊人复杂性和广泛采用，特别是在压迫性政权中。这篇文章揭露了风险投资公司在促进这些技术扩散方面的共谋，并呼吁全球采取立场反对利用这些技术进行压迫。该帖子还强调了问责的必要性，敦促科技工作者和国际社会将诚信置于​​利润之上。它展示了以色列公司参与监控的例子以及抵制其正常化的迫切需要。]]></description>
-      <guid>https://t.me/hn_summary/83526</guid>
-      <pubDate>Mon, 08 Apr 2024 17:59:32 GMT</pubDate>
+      <title>[媒体]戏剧性的驾驶舱音频捕捉到西南航空公司飞行员在发生事故后宣布紧急情况 [...]</title>
+      <link>https://t.me/hn_summary/83604</link>
+      <description><![CDATA[戏剧性音频：西南航空公司飞行员在发动机盖撕裂后宣布紧急情况
+戏剧性的驾驶舱音频捕捉到西南航空飞行员在起飞后不久发动机盖脱落后宣布紧急情况。乘客和空乘人员听到一声巨响，视频片段显示机盖在风中飘动。飞行员计划襟翼打开着陆，但损坏的发动机撞到了其中一个襟翼。飞机安全着陆，没有人员受伤。该事件是由于 2017 年制造的飞机出现机械问题造成的。波音公司面临着安全问题，最近阿拉斯加航空的一架波音 737 MAX 9 飞机在飞行途中发生了近乎灾难性的井喷事故，导致了刑事调查和 10 亿美元的诉讼。]]></description>
+      <guid>https://t.me/hn_summary/83604</guid>
+      <pubDate>Mon, 08 Apr 2024 23:35:37 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]人情味仍然占据主导地位。</title>
-      <link>https://t.me/hn_summary/83525</link>
-      <description><![CDATA[Anthropic 的 Haiku 在工具使用方面击败了 GPT-4 Turbo 
-人性化的接触仍然占主导地位。在一项开创性的研究中，Anthropic 的 Haiku 算法在工具使用任务中优于强大的 GPT-4 Turbo。这一令人惊讶的结果展示了 Anthropic 人工智能技术的独特功能，并凸显了人类创造力与先进机器学习算法之间持续存在的争论。这项研究的影响是深远的，可能对人工智能的未来发展产生重大影响。在我们的网站上探索完整的研究，以了解有关这一令人着迷的发现的更多信息。]]></description>
-      <guid>https://t.me/hn_summary/83525</guid>
-      <pubDate>Mon, 08 Apr 2024 17:56:58 GMT</pubDate>
+      <title>[媒体] 超过 92,000 台报废的 D-Link NAS 设备正在成为攻击者的主动攻击目标，例如 [...]</title>
+      <link>https://t.me/hn_summary/83603</link>
+      <description><![CDATA[92,000 个 D-Link NAS 设备中的严重 RCE 漏洞现已被攻击
+攻击者利用关键的远程代码执行零日漏洞积极攻击超过 92,000 个报废的 D-Link NAS 设备。该漏洞通过硬编码帐户和命令注入问题促成，允许威胁参与者部署 Mirai 恶意软件变体以进行大规模 DDoS 攻击。尽管 D-Link 不再支持这些设备，但他们发布了安全公告，敦促用户淘汰或更换它们。这些设备缺乏自动更新功能，使所有者容易受到持续攻击。 D-Link 警告不要在线暴露 NAS 设备，因为它们是勒索软件攻击的常见目标。]]></description>
+      <guid>https://t.me/hn_summary/83603</guid>
+      <pubDate>Mon, 08 Apr 2024 23:33:04 GMT</pubDate>
     </item>
     <item>
-      <title>但丁的早期作品《La Vita Nuova》是他的杰作《The Div [...]</title>
-      <link>https://t.me/hn_summary/83524</link>
-      <description><![CDATA[这是但丁的地狱——我们只是生活在其中
-但丁的早期作品《新生活》是他的杰作《神曲》的诱人前奏。在这篇神秘的文本中，但丁表达了他对比阿特丽斯的爱，以及他以前所未有的方式描写她的野心。比阿特丽斯死后写给佛罗伦萨的一封隐藏的信给但丁的故事增添了一层神秘色彩。即将上映的纪录片《但丁》由国家人文基金会资助，探讨但丁的政治生活和他从佛罗伦萨流亡的经历。这部电影以对学者的采访和戏剧化的时刻为特色，深入探讨了但丁作品的变革性技巧和他的诗歌的持久影响。 （根据 63% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/83524</guid>
-      <pubDate>Mon, 08 Apr 2024 17:53:25 GMT</pubDate>
+      <title>[媒体]特斯拉已经解决了一起备受瞩目的致命事故案件，其中自动驾驶仪的壮举[...]</title>
+      <link>https://t.me/hn_summary/83602</link>
+      <description><![CDATA[特斯拉与家人达成和解，家人称自动驾驶仪导致了他的致命事故
+特斯拉已经解决了一起备受瞩目的案件，该案件涉及自动驾驶功能启用时发生的致命事故。和解条款并未披露，但审判定于周一开始。受害者沃尔特·黄 (Walter Huang) 的家人声称，特斯拉过度推销了 Autopilot 的功能，导致了致命事故。此次和解协议达成对特斯拉来说正值关键时刻，该公司因其自动驾驶技术而面临审查。该案例凸显了有关自动驾驶系统安全性和有效性的持续争论。和解后特斯拉股价上涨 5%。]]></description>
+      <guid>https://t.me/hn_summary/83602</guid>
+      <pubDate>Mon, 08 Apr 2024 23:30:30 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 令人惊讶的是，Cloudflare 位于波特兰的主要数据中心经历了 [...]</title>
-      <link>https://t.me/hn_summary/83523</link>
-      <description><![CDATA[重大数据中心电源故障（再次）：Cloudflare Code Orange 已测试&lt; /a&gt;
-令人惊讶的是，Cloudflare 位于波特兰的主要数据中心在不到五个月的时间里经历了第二次停电。尽管最初感到震惊，但自第一次事件发生以来，该团队一直在努力改进其系统和流程。这次停电是对橙色代码响应的实际测试，事实证明，该响应成功地最大限度地减少了对客户的影响。通过自动故障转移和增强的弹性措施，大多数服务在断电后几分钟内即可启动并运行。该事件凸显了持续改进和为意外事件做好准备对于维持 Cloudflare 客户的高可用性的重要性。]]></description>
-      <guid>https://t.me/hn_summary/83523</guid>
-      <pubDate>Mon, 08 Apr 2024 17:34:45 GMT</pubDate>
+      <title>[媒体]无人机袭击乌克兰扎波罗热核电站，造成严重影响 [...]</title>
+      <link>https://t.me/hn_summary/83601</link>
+      <description><![CDATA[无人机袭击乌克兰扎波罗热核电站现场
+国际原子能机构（IAEA）表示，无人机袭击了乌克兰扎波罗热核电站，对核安全构成严重威胁。这是自 2022 年 11 月以来首次针对欧洲最大核电站的直接军事攻击，违反了保护此类设施的既定原则。虽然没有关键系统受到损坏，但该事件凸显了冲突期间持续存在的风险。国际原子能机构专家确认了现场的实际影响和人员伤亡，强调需要停止对核设施的攻击，以防止潜在的灾难。该事件凸显了维护核安全原则的重要性。]]></description>
+      <guid>https://t.me/hn_summary/83601</guid>
+      <pubDate>Mon, 08 Apr 2024 23:22:55 GMT</pubDate>
     </item>
     <item>
-      <title>Pentaborane(9) 是一种无机化合物，化学式为 B5H9，以其高反应活性而闻名 [...]</title>
-      <link>https://t.me/hn_summary/83522</link>
-      <description><![CDATA[五硼烷(9)
-Pentaborane(9) 是一种无机化合物，化学式为 B5H9，以其高反应性和毒性而闻名。由于其高燃烧热，它曾经被认为是火箭或喷气燃料。该化合物具有独特的结构，五个硼原子排列成四角锥体。尽管五硼烷具有作为燃料的潜力，但它的极度易燃性、毒性和自燃倾向使其非常危险。该化合物最终因无法使用而被丢弃，最后一批库存已于 2000 年被销毁。由于其危险特性和有毒废气，将其用作燃料引起了争议。 （根据 87% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/83522</guid>
-      <pubDate>Mon, 08 Apr 2024 17:32:10 GMT</pubDate>
+      <title>[媒体]美国</title>
+      <link>https://t.me/hn_summary/83600</link>
+      <description><![CDATA[许多抗癌药物在加速批准后 5 年后仍未得到证实 
+美国 FDA 的加速审批计划允许尽早获得有前途的药物，但一项新的研究表明，大多数以这种方式批准的抗癌药物在五年内不会显示出益处。尽管如此，许多药物在没有证明临床益处​​的情况下就转为常规批准。罕见或晚期癌症患者的选择可能有限，因此医生准确解释证据至关重要。该计划的最新更新赋予 FDA 在未履行承诺的情况下撤回药品的更大权力。患者了解加速审批药物的不确定性至关重要。]]></description>
+      <guid>https://t.me/hn_summary/83600</guid>
+      <pubDate>Mon, 08 Apr 2024 23:20:23 GMT</pubDate>
     </item>
     <item>
-      <title>在这篇博文中，我深入分析了黑客新闻 (HN) 数据，从 [...]</title>
-      <link>https://t.me/hn_summary/83521</link>
-      <description><![CDATA[黑客新闻 (HN) – 第 1 部分：分析 
-在这篇博文中，我深入分析了 Hacker News (HN) 数据，从约 4000 万个项目和约 50 万个用户中提取见解。分析显示，HN 上的活跃贡献者有所下降，其中定期提交故事是成功获得业力积分的关键。令人惊讶的是，到 2023 年，关于人工智能的讨论已经超过了软件开发和商业主题。用户参与趋势显示过去三年贡献者的净流失，引发了关于平台增长限制和用户迁移的理论。该分析还探讨了用户业力与故事分享一致性之间的相关性，强调了一致的故事提交对于 HN 成功的重要性。此外，分析还发现了用户业力数据中的异常情况，引发了对其作为指标可靠性的质疑。这篇文章最后总结了对该项目的个人反思以及在分析历史 HN 内容时的发现。 （根据 80% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/83521</guid>
-      <pubDate>Mon, 08 Apr 2024 17:29:36 GMT</pubDate>
+      <title>问 HN：公共 GitHub 存储库对于 2024 年的求职申请有多重要？</title>
+      <link>https://t.me/hn_summary/83599</link>
+      <description><![CDATA[询问 HN：公共 GitHub 存储库对于求职申请有多重要2024年？
+作者是一位拥有丰富经验并成功退出初创公司的高级软件工程师，他质疑公共 GitHub 存储库在求职申请中的重要性。尽管他们拥有出色的简历和量身定制的求职信，但他们甚至在没有第一次打电话的情况下就收到了通用的拒绝信。作者想知道他们缺乏在线存在（包括没有公开代码示例）是否阻碍了他们的求职。他们质疑 2024 年这些在线个人资料的必要性，以及问题是否出在他们的简历和求职信中。争议在于关于在线存在在求职申请中的重要性的争论，而令人惊讶的因素是作者在没有在线存在的情况下取得了成功的职业生涯。]]></description>
+      <guid>https://t.me/hn_summary/83599</guid>
+      <pubDate>Mon, 08 Apr 2024 23:18:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
