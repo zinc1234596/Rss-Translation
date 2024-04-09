@@ -4,7 +4,14 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Tue, 09 Apr 2024 00:49:13 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Apr 2024 03:14:20 GMT</lastBuildDate>
+    <item>
+      <title>有什么好的ssd推荐吗？</title>
+      <link>https://www.reddit.com/r/editors/comments/1bzhujr/any_good_ssd_suggestions/</link>
+      <description><![CDATA[我目前正在从外部硬盘驱动器进行编辑，速度非常慢。只是减慢了编辑过程。我的笔记本电脑容量为 500GB，我更喜欢使用外部 SSD 并使用外部硬盘来存储积压的项目 我可以使用哪些好的外部 SSD 来加快我的编辑速度很多？   由   提交/u/danial_yahaya210   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1bzhujr/any_good_ssd_suggestions/</guid>
+      <pubDate>Tue, 09 Apr 2024 03:10:26 GMT</pubDate>
+    </item>
     <item>
       <title>Premiere Pro 编辑助理</title>
       <link>https://www.reddit.com/r/editors/comments/1bza46o/edit_assistant_with_premiere_pro/</link>
@@ -64,7 +71,7 @@
     <item>
       <title>LinkedIn 学习 VS Udemy？</title>
       <link>https://www.reddit.com/r/editors/comments/1byjs8s/linkedin_learning_vs_udemy/</link>
-      <description><![CDATA[所以我从学校获得了 LinkedIn Learning，而不在我当地的图书馆之一刚刚为我提供了 udemy 课程的访问权限。 （一年 22 小时对于免费上一堆课程来说还不错，尤其是钢琴） 但是你们更喜欢真正学习剪辑/After Effects、电影摄影等哪些课程？  我仍然倾向于 LinkedIn，因为你仍然可以正常通过图书卡免费获得它，而且它的结构更像是一所学校，而不是一堆随机学习。  你们都认为哪个更好，对于 Adob​​e 的东西你们推荐哪些课程？   由   提交/u/Crazyking224  [链接] [评论]]]></description>
+      <description><![CDATA[因此，我从学校获得了 LinkedIn Learning，而不在我当地的图书馆之一刚刚为我提供了 udemy 课程的访问权限。 （一年 22 小时对于免费上一堆课程来说还不错，尤其是钢琴） 但是你们更喜欢真正学习剪辑/After Effects、电影摄影等哪些课程？  我仍然倾向于 LinkedIn，因为你仍然可以正常通过图书卡免费获得它，而且它的结构更像是一所学校，而不是一堆随机学习。  你们都认为哪个更好，对于 Adob​​e 的东西你们推荐哪些课程？   由   提交/u/Crazyking224  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1byjs8s/linkedin_learning_vs_udemy/</guid>
       <pubDate>Mon, 08 Apr 2024 00:12:31 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[大家好， 现在正在制作系列纪录片，大部分时间和金钱已经花在上面了。然而，我的时间线上有一些空白需要用国际新闻片段来填补（监狱、骚乱、其他东西）。你知道最优惠的价格在哪里吗？例如，Getty Images 的单次拍摄价格为 700 美元甚至更高，因此很快就超出了预算。 在半岛电视台 2009 年的一篇帖子中，他们说他们的镜头可以免费使用 - 但我认为这是特别的来自加沙的镜头，而不是他们未来的整个目录...有人有从他们那里购买的经验吗？ 任何提示表示赞赏！    ;由   提交/u/Filmmaking_David   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1bxkd3q/licencing_news_footage_best_deals/</guid>
       <pubDate>Sat, 06 Apr 2024 19:46:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>优化使用 6K BRAW 文件编辑剧集内容的工作流程</title>
-      <link>https://www.reddit.com/r/editors/comments/1bxiixy/optimizing_workflow_for_editing_episodic_content/</link>
-      <description><![CDATA[我目前正在探索优化编辑剧集内容的工作流程的方法，其中涉及使用 6K BRAW 文件。  这是我当前的流程：  获取 6K BRAW 文件以编辑剧集内容。 使用以下命令将文件编码为 ProRes 422 4K Adobe Media Encoder (AME)。 在 ProRes 422 中创建 480p 代理，以便在 Premiere Pro 中进行高效编辑。 在 Premiere Pro 中编辑代理，合并客户反馈并进行必要的更改。 完成编辑并导出到 ProRes 422，以便在 DaVinci Resolve 中进行调色。 在 DaVinci Resolve 中对素材进行调色，利用 ProRes 422 文件。 将分级的素材带回 Premiere Pro 以获得最终效果和过渡。 导出最终项目。  - 现在，我正在考虑另一种工作流程：  获取 6K BRAW 文件来编辑剧集内容。 直接从 720p 或 1080p ProRes 422 格式的 BRAW 文件创建代理。 利用 Premiere 的“链接全分辨率媒体”功能在 Premiere Pro 中编辑代理。功能。 直接从 BRAW 文件或之前编码的 ProRes 422 文件在 DaVinci Resolve 中对素材进行调色。 将调色后的素材导出为单独的 4K ProRes 422 剪辑。 将分级剪辑带回 Premiere Pro 并完成项目。我想知道您认为哪种工作流程更直观、更优化。   工作流程 1： 获取 6K BRAW 文件 → 编码为 ProRes 422 4K → 创建 480p 代理 → 在 Premiere Pro 中编辑 → 在 DaVinci Resolve 中调色 → 在 Premiere Pro 中最终确定 工作流程 2： 获取 6K BRAW 文件 → 以 720p 或 1080p ProRes 422 创建代理 → 在 Premiere Pro 中使用全分辨率链接进行编辑 → 在 DaVinci Resolve 中调色 → 导出分级剪辑 → 在 Premiere Pro 中最终确定   由   提交 /u/CineTechWiz   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1bxiixy/optimizing_workflow_for_editing_episodic_content/</guid>
-      <pubDate>Sat, 06 Apr 2024 18:28:29 GMT</pubDate>
     </item>
     </channel>
 </rss>

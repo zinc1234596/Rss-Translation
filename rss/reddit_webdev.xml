@@ -4,20 +4,13 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 09 Apr 2024 00:49:47 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Apr 2024 03:14:49 GMT</lastBuildDate>
     <item>
-      <title>我维护这个播放列表已经五年多了。在学习和编码时戴上耳机真是太棒了。希望你喜欢它！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bzerg0/ive_maintaining_this_playlist_for_over_five_years/</link>
-      <description><![CDATA[      也非常适合玩《最终幻想》，我忘了补充。    由   提交/u/neonderthals  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bzerg0/ive_maintaining_this_playlist_for_over_five_years/</guid>
-      <pubDate>Tue, 09 Apr 2024 00:44:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>亲爱的四维意识广播者（上帝？），请带我们离开服务器农场</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bzepzw/dear_4_dimensional_broadcasters_of_consciousness/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bzepzw/dear_4_dimensional_broadcasters_of_consciousness/</guid>
-      <pubDate>Tue, 09 Apr 2024 00:42:23 GMT</pubDate>
+      <title>求职板网站理念</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bzgvt2/job_board_website_idea/</link>
+      <description><![CDATA[所以我计划了一个网站，用最基本的术语来说，它将是订阅以查看适合特定行业的职位列表池这样就节省了搜索每个公司网站的时间。我正在寻找一种无代码网站构建解决方案，该解决方案最适合与人工智能解决方案集成，以扫描网站上的新职位列表，将它们分类到一个池中，并将它们列在我的网站上供订阅者查看。 但是，一开始成本对我来说是一个大问题，我希望以最低的成本启动并运行它，希望不要每月支付大笔订阅费用。有人有任何可以提供帮助的建议或想法吗？   由   提交/u/robbbb1029  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bzgvt2/job_board_website_idea/</guid>
+      <pubDate>Tue, 09 Apr 2024 02:23:28 GMT</pubDate>
     </item>
     <item>
       <title>我可以这样做还是有更好的方法？</title>
@@ -109,6 +102,13 @@
       <description><![CDATA[嗨，我想知道具有大型社区的模因网站的最佳堆栈，包括添加、创建、投票模因、消息传递、等候室等。是吗？可以以便宜的方式完成吗？   由   提交 /u/Mammoth-Top7942    reddit.com/r/webdev/comments/1bz3jh6/what_tech_would_you_use_for_making_meme_site/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1bz3jh6/what_tech_would_you_use_for_making_meme_site/</guid>
       <pubDate>Mon, 08 Apr 2024 17:16:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>奇怪的顺风类名称</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bz3cyh/bizarre_tailwind_class_names/</link>
+      <description><![CDATA[为什么display: none叫hidden，而visibility: hide code&gt; 称为 invisible？这是不直观的并且注定会引起混乱。这让我感到困惑。   由   提交/u/citrus1330  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bz3cyh/bizarre_tailwind_class_names/</guid>
+      <pubDate>Mon, 08 Apr 2024 17:09:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
