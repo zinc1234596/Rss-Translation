@@ -4,7 +4,7 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 09 Apr 2024 15:11:56 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Apr 2024 18:14:04 GMT</lastBuildDate>
     <item>
       <title>Next.js 中 Shopify 商店的高性能店面 - 完全免费</title>
       <link>https://www.reddit.com/r/opensource/comments/1bzudsn/performant_storefront_for_shopify_stores_in/</link>
@@ -25,13 +25,6 @@
       <description><![CDATA[是否有任何工具可以获取 github 事件列表（例如 https://api.github.com/repos/internetarchive/openlibrary/events）并将它们放在一个漂亮的页面上，以便您可以查看最近存储库中发生的情况?   由   提交/u/raybb   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1bztcyh/is_there_any_tool_to_show_a_timeline_github/</guid>
       <pubDate>Tue, 09 Apr 2024 14:20:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>我建立了一个 File-over-app 目录</title>
-      <link>https://www.reddit.com/r/opensource/comments/1bzsfsv/i_built_a_fileoverapp_directory/</link>
-      <description><![CDATA[大家好，我是 Latitude 的创始人。 我最近开始沉迷于“file-over-app”理念。通过您可以控制的文件使用产品的想法，文件的格式易于阅读和检索。我构建了这个目录来组织遵循相同原则的工具。最酷的是它们中的大多数都是开源的，您甚至可以通过它们进行过滤。 https://fileoverapp.latitude .so/ 现在我正在寻找更多东西。如果您知道类似的软件，您可以贡献并提交产品。我很想听听您的建议！   由   提交 /u/EloquentPickle   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1bzsfsv/i_built_a_fileoverapp_directory/</guid>
-      <pubDate>Tue, 09 Apr 2024 13:39:44 GMT</pubDate>
     </item>
     <item>
       <title>提交您的“一切开放——利用开源开展业务”提案</title>
@@ -109,6 +102,13 @@
       <description><![CDATA[我正在帮助一些人学习 Web 开发。我想给他们一些“真实”的东西构建开源项目。 我想我可以向社区询问社区想要构建的一些东西。 chrome 扩展，或者 npm 模块，或者 React 组件，任何东西。 不一定是新的东西，也可以是更好的东西。 关闭我的脑海中浮现出一个 React 简单的日期选择器组件或颜色选择器组件。它们存在很多，但它们都是复杂的，有很多选项，简单但好的例子并不多。 另一个想法是一个开源网络地图，它显示经常被洪水淹没的城市区域。  如果您有任何想法，请告诉我。 此外，其他 webdev 学生可以使用此帖子回复作为自己作品集的素材。 注意: 这不是一个促销帖子。我并不是在寻找新学员或寻求推广任何东西。他们只是想要一些“真实”的人。工作，特别是开源项目最好从头开始。   由   提交/u/anonperson2021   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1bz1nzl/need_some_open_source_web_project_ideas_for/</guid>
       <pubDate>Mon, 08 Apr 2024 16:04:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>错过了 GSOC 截止日期</title>
+      <link>https://www.reddit.com/r/opensource/comments/1byvzja/missed_gsoc_deadline/</link>
+      <description><![CDATA[今天看到这张海报，我真的会用头撞墙来从事 SU2 CFD 项目 我该怎么办做   由   提交 /u/Dofosz   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1byvzja/missed_gsoc_deadline/</guid>
+      <pubDate>Mon, 08 Apr 2024 11:56:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
