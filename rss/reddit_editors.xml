@@ -4,11 +4,32 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Tue, 09 Apr 2024 21:11:32 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Apr 2024 00:47:29 GMT</lastBuildDate>
+    <item>
+      <title>如何打开 Premiere Pro..</title>
+      <link>https://www.reddit.com/r/editors/comments/1c087vw/how_do_i_open_premiere_pro/</link>
+      <description><![CDATA[一个为我编辑的人给我买了 Premiere Pro，通过 Google 云端硬盘发送给我，我已经下载了该文件 - 现在怎么办？我到底要怎么打开这个lmao   由   提交/u/wowzas396  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1c087vw/how_do_i_open_premiere_pro/</guid>
+      <pubDate>Wed, 10 Apr 2024 00:35:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要帮助：在 Adob​​e Premiere 中消除主题的光泽</title>
+      <link>https://www.reddit.com/r/editors/comments/1c04ruz/help_needed_removing_shine_from_subject_in_adobe/</link>
+      <description><![CDATA[大家好， 我在 Adob​​e Premiere 中遇到问题。在我们的播客视频中，拍摄对象（始终保持静止）的额头和脸颊显得闪亮。我尝试了几种方法来去除光泽，但我正在努力寻找一种不会影响视频质量和颜色的解决方案。 有人有任何去除光泽的提示或技术吗？在不牺牲视频质量的情况下从 Adob​​e Premiere 中的主题中获得光芒？如果您能提供任何建议或指导，我将不胜感激！ 提前致谢！   由   提交/u/zasafras12   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1c04ruz/help_needed_removing_shine_from_subject_in_adobe/</guid>
+      <pubDate>Tue, 09 Apr 2024 22:07:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>编辑 NVME 存储帮助</title>
+      <link>https://www.reddit.com/r/editors/comments/1c03yu6/editing_nvme_storage_assistance/</link>
+      <description><![CDATA[嘿！我只是想与人们吐槽我的想法，以确保我的想法是正确的 -  我们目前有 4 名编辑直接对我们的 QNAP 进行猛烈攻击，QNAP 在 RAID 中有 4 个 NVME M.2 驱动器。我们最近获悉，团队将于周一扩大到 8 人，他们将在销售部门原来所在的另一个办公室工作。因此，我想要执行以下操作 -  移除一张 Thunderbolt 卡并将其替换为双 25Gbe QNAP 卡。将其绑定到 Mikrotik Switch，然后为每个剪辑师提供一个 Sonnet 10Gbe SFP+ 至 Thunderbolt 盒。 50Gbit 输入到 Switch，然后 10Gbit 输出到每个剪辑师 我们以全速拍摄和编辑在最新的 IMac 上以 4K 分辨率（主要是来自 GoPro 和索尼 A7 的素材） 我尝试让剪辑师在剪辑时使用 1/2 或 1/4 以减少负载，但他们似乎坚持自己的方式并希望以全分辨率进行编辑。 此设置是否足以确保他们从 Thunderbolt 迁移到 Fibre 时仍然可以以全分辨率进行编辑？ &lt; !-- SC_ON --&gt;  由   提交 /u/themilkybark   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1c03yu6/editing_nvme_storage_assistance/</guid>
+      <pubDate>Tue, 09 Apr 2024 21:35:00 GMT</pubDate>
+    </item>
     <item>
       <title>（媒体管理）除非全部重命名，否则不会安装多个 SxS 卡</title>
       <link>https://www.reddit.com/r/editors/comments/1c036ru/media_management_multiple_sxs_cards_wont_mount/</link>
-      <description><![CDATA[所以，这是我第一次使用 SxS 卡进行工作。 我们有一台新的 Mac Studio (M2 Max)，我有 4 个 Sonnet TB3 单读卡器（未通电）。我遇到的一个奇怪的问题是，我无法插入多个 SxS 卡，除非我将它们从“无标题”重命名。所以，我目前要做的就是放入一个，重命名它，弹出它，重复，然后我可以加载所有 4 个。 这不是一个大问题，因为我按顺序卸载，而不是在同时，所以在完成一次加载后，我浪费了一分钟左右的时间来做重命名的事情。 。 。但这很烦人，因为我必须等待整个队列完成才能放入下一组，而不是在前一组完成后才能弹出新组。 有什么想法吗？&lt; /p&gt; 如果有任何其他信息有帮助，请告诉我，我不确定还有什么可能会影响此问题。   由   提交/u/VogonPoetryTour   [链接] [评论]]]></description>
+      <description><![CDATA[所以，这是我第一次使用 SxS 卡进行工作。 我们有一台新的 Mac Studio (M2 Max)，我有 4 个 Sonnet TB3 单读卡器（未通电）。我遇到的一个奇怪的问题是，我无法插入多个 SxS 卡，除非我将它们从“无标题”重命名。所以，我目前要做的就是放入一个，重命名它，弹出它，重复，然后我可以加载所有 4 个。 这不是一个大问题，因为我按顺序卸载，而不是在同时，所以在完成一次加载后，我浪费了一分钟左右的时间来做重命名的事情。 。 。但这很烦人，因为我必须等待整个队列完成才能放入下一组，而不是在前一组完成后才能弹出新组。 有什么想法吗？&lt; /p&gt; 如果有任何其他信息有帮助，请告诉我，我不确定还有什么可能会影响此问题。 *编辑 - 添加更多信息* 因此，XQD 也会发生这种情况。我的旧 mac mini 上的 CF 卡之前也出现过类似的问题，但更新后问题就消失了。 。 。但在那一个上，没有什么可以让我同时安装多张卡。   由   提交/u/VogonPoetryTour   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1c036ru/media_management_multiple_sxs_cards_wont_mount/</guid>
       <pubDate>Tue, 09 Apr 2024 21:04:10 GMT</pubDate>
     </item>
@@ -25,13 +46,6 @@
       <description><![CDATA[嗨，我想知道你在节拍上切入的位置。一般来说，在带有鼓的 4/4 流行音乐中，第 1 拍和第 3 拍有底鼓，第 2 拍和第 4 拍有军鼓（较高音）。实际上，军鼓通常具有更清晰的声音，我看到很多人切割军鼓，但所有其他元素（例如和弦）通常随着底鼓的节拍而变化。铙钹通常位于第 1 节拍，其长时间持续的声音有时与交叉淡入淡出一起使用。如果你不想变得可预测，你什么时候才能停止总是以相同的节拍进行剪辑呢？您对在哪里剪切、什么通常更动态等有什么建议吗？   由   提交 /u/According-College-63   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1c00dyh/edit_on_beat_44/</guid>
       <pubDate>Tue, 09 Apr 2024 19:09:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>你工作中的KPI是如何计算的？</title>
-      <link>https://www.reddit.com/r/editors/comments/1c004kg/how_is_your_kpi_calculated_at_work/</link>
-      <description><![CDATA[我在哈萨克斯坦的一家 SMM 公司工作，担任视频编辑，负责管理各种 Instagram 帐户。我有稳定的薪水，但我的老板对如何计算我的绩效指标有点困惑。我每天必须做 2 项任务。 1 个卷轴 - 1 个任务，1 个视频着色 - 0.5 个任务。问题是他们可以给我 4 种颜色，我会在 2 小时内完成，或者他们可以给我 2 个困难的卷轴，这可能需要 10 小时（例如）。我公司一天的工作时间是6小时。此外，许多小时似乎不计入计数。我对如何计算您的有效性感兴趣？   由   提交 /u/Suspicious-Ruin1380    reddit.com/r/editors/comments/1c004kg/how_is_your_kpi_calculated_at_work/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1c004kg/how_is_your_kpi_calculated_at_work/</guid>
-      <pubDate>Tue, 09 Apr 2024 18:59:08 GMT</pubDate>
     </item>
     <item>
       <title>字幕中的斜体（首映）</title>
@@ -95,20 +109,6 @@
       <description><![CDATA[我刚刚收到一个听起来非常有趣的项目。他们希望我用拼贴风格、VHS 效果和一些粗糙的贴纸等视觉特效来修饰一些较旧的素材。想必大家都知道这种风格。他们还经常在简报中提到人工智能，我不确定他们实际上是指人工智能还是只是将其用作流行词。但他们说我可以从这些材料中获得一些乐趣，看看我能想出什么。  所以我想利用这个机会在实际的商业环境中使用一些人工智能工具，因为我还没有机会。也许交换一些背景，改变风格等。  目前使用哪些工具来实现此目的？这种项目仍然有跑道吗？   由   提交 /u/Zeigerful   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1bzp9bg/which_ai_tool_to_actually_use_in_a_commercial_to/</guid>
       <pubDate>Tue, 09 Apr 2024 10:59:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>大预算项目 - 1/3 相机部分失焦。</title>
-      <link>https://www.reddit.com/r/editors/comments/1bzmyyr/big_budget_project_13_cameras_partly_out_of_focus/</link>
-      <description><![CDATA[大家好，我最近拍摄了一个对我来说非常重要的项目，拍摄后意识到，一台相机经常失焦。不完全，但只是不锋利。我尝试使用 Topaz Video AI，但它看起来仍然不太好。其他相机之间存在明显的差异，特别是因为数字清晰度等。它并不是完全不可用或完全糟糕，但焦点看起来不像其他相机那么好。对我来说这是显而易见的。对于我的客户......我不知道。现在我只是不知道该怎么办。我们无法重新拍摄所有内容，由于情况不同，这种选择是不可能的。你有什么建议吗？这是我的第一个真正的大项目，事情是 - 输出持续大约 3 小时。假设……在这 3 小时中，我使用不清晰的相机大约 40 分钟。而从这40分钟开始，相机大约有30分钟不清晰。那不酷...您有任何提示（让 futere 明确地观看所有摄像机上的焦点...是的...它是手动设置的...）或建议，如何立即在帖子中修复它哈哈？ 非常感谢您... （素材：4k 和全高清，50fps，C-Log3，佳能 R6） 系统规格：Macbook M2 Pro，32GB 内存）   由   提交 /u/Grouchy-Swing-2174   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1bzmyyr/big_budget_project_13_cameras_partly_out_of_focus/</guid>
-      <pubDate>Tue, 09 Apr 2024 08:23:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>明天与故事片制片人坐下来</title>
-      <link>https://www.reddit.com/r/editors/comments/1bzi8he/sit_down_with_a_feature_film_producer_tomorrow/</link>
-      <description><![CDATA[13 年来，我主要编辑企业视频、体育电视和商业内容。最近，尽管我在叙事方面投入了越来越多的工作（所有短片），但它似乎已经引起了人们的注意。  明天我将与一位当地的故事片制片人坐下来，他曾与一些顶级导演、演员和其他大牌制片人合作过。更令人惊奇的是，制片人竟然主动联系我来开会。我非常兴奋，但又非常紧张。我真的很擅长做自己，但这是我一直在努力迈进的那只脚，感觉就像永远一样。我只是不想把事情搞砸。  我已经发布过很多次关于希望进入剪辑领域的帖子，我希望我长期以来成为一名故事片剪辑师的梦想能够实现。我相信这个 Reddit 子版块的一部分帮助我实现了这个机会。但我总是可以利用更多良好的氛围。所以无论你能分享和传递什么正能量，我都会很感激。  至少你们给了我很大的信心和充足的理由让我更加努力。所以谢谢。我希望让大家随时了解最新情况    由   提交/u/toolatetoblink  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1bzi8he/sit_down_with_a_feature_film_producer_tomorrow/</guid>
-      <pubDate>Tue, 09 Apr 2024 03:30:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
