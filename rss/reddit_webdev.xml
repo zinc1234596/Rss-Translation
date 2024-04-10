@@ -4,7 +4,14 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 10 Apr 2024 00:47:55 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Apr 2024 03:14:13 GMT</lastBuildDate>
+    <item>
+      <title>CORS问题，它被使用了吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c0bc8e/cors_question_is_it_even_being_used/</link>
+      <description><![CDATA[我有一个使用 Express 创建并通过 Fly 托管的后端应用程序。它在 myApp-API.fly.dev 上上线。我拥有 myApp 域。我设置了 DNS，以便 api.myApp.com 指向它。 ​ 我有一个通过 netlify 托管的前端，并位于 myApp.netlify.app 上。我设置了 DNS 记录，以便 myApp.com 指向它。  API 位于 https://api.myApp.com，前端位于 https://myApp.com，为什么这不能免除 CORS？他们不在同一个域吗？为了解决这个问题，我想我必须编辑我的 API 以在源中包含前端 URL。但哪个网址呢？ myApp.com 或 myApp.netlify.com？  我真的很困惑为什么这里需要 CORS！   由   提交/u/Sebi97  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c0bc8e/cors_question_is_it_even_being_used/</guid>
+      <pubDate>Wed, 10 Apr 2024 03:04:44 GMT</pubDate>
+    </item>
     <item>
       <title>投资组合推荐</title>
       <link>https://www.reddit.com/r/webdev/comments/1c07zm2/portfolio_recommendations/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[是否有一个在线页面可以读取特殊字符以查看 JavaScript 中是否缺少或有效？我想使用特殊字符，但我不知道哪些可以使用，哪些不能使用。   由   提交 /u/DashTeamRacing   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1c016zg/how_to_check_whatif_special_characters_work_on/</guid>
       <pubDate>Tue, 09 Apr 2024 19:43:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>请为我指明建立公司网页的正确方向！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c00wgv/point_me_the_right_direction_to_build_a_company/</link>
-      <description><![CDATA[嘿，大家希望您度过愉快的一天！我想为移动压力清洗业务创建一个网页，但在尝试通过 wix 和 GoDaddy 创建它时遇到了一些问题。  我正在寻找一些基本的东西来放置公司名称服务信息和一些图片来展示我们所做的工作。  任何人都可以为我指出正确的方向吗，即使是雇用一名网页设计师，我只是在手机上努力做到这一点。  消息和聊天也可以！实际上只是在寻找建议来帮助我的业务页面变得生动起来。提前输入   由   提交/u/Mdad1988  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c00wgv/point_me_the_right_direction_to_build_a_company/</guid>
-      <pubDate>Tue, 09 Apr 2024 19:30:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
