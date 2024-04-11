@@ -4,111 +4,111 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Thu, 11 Apr 2024 12:20:32 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Apr 2024 18:15:06 GMT</lastBuildDate>
     <item>
-      <title>Confused Unga Bunga - PHP/MySQL Web 应用程序的云托管</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c1dmtm/confused_unga_bunga_cloud_hosting_for_phpmysql/</link>
-      <description><![CDATA[我正在 VPS 托管上阅读和观看不同的视频。为了您的方便，我会很简短，但我会感谢您对此的建议。  我有一个使用 MySql 和 PHP 构建的 Web 应用程序。您可以将其视为包含优质文章的优质博客网站。  我还有一个用于收集电子邮件的登陆页面 - 某种 MVP。  对于 MVP，我知道我可以获得基本的共享主机，而且我不会有任何问题。当我开始深入研究云托管服务的兔子洞时，困惑就发生了。  Web 应用程序每月将有大约 1000-5000 名访问者，并且数据库中将包含重要数据（例如付费用户信息和文章）。我研究过 digitalocean 和 hetzner 托管，我知道我至少需要学习 Linux、云计算基础知识以及安全性如何工作。我读了很多书，但仍然停留在同一个困惑的地方。  这是我需要时间学习的东西吗？我认为托管就像拖动文件、连接域一样简单！奇迹发生了，您的网站在互联网上上线并准备好运行。但云托管似乎比这困难得多。  对某些人来说，这似乎是一个愚蠢的问题，我很感谢您向我解释这一点。请随时向我指出学习资源，我可以在其中清楚地了解该主题。非常感谢！    由   提交/u/QuantumShit00   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c1dmtm/confused_unga_bunga_cloud_hosting_for_phpmysql/</guid>
-      <pubDate>Thu, 11 Apr 2024 12:19:39 GMT</pubDate>
+      <title>Laravel Facades - 编写可测试代码</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c1ltdc/laravel_facades_write_testable_code/</link>
+      <description><![CDATA[Laravel 严重依赖 Facades。有些人可能认为它们是反模式，但我相信如果正确使用它们，它们可以产生干净且可测试的代码。在本文中，我将向您展示如何操作。 https://blog.oussama -mater.tech/facades-write-testable-code/ 新手可能会发现它有点难以掌握，所以请，欢迎任何反馈。我希望这篇文章能被大家理解，所以欢迎提出建议！   由   提交 /u/According_Ant_5944   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c1ltdc/laravel_facades_write_testable_code/</guid>
+      <pubDate>Thu, 11 Apr 2024 18:07:28 GMT</pubDate>
     </item>
     <item>
-      <title>从可排序列表拖放到类似网格的列表</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c1ceb9/drag_and_drop_from_a_sortable_list_to_a_gridlike/</link>
-      <description><![CDATA[我正在创建一个 TS 应用程序，我想要一个包含元素的可排序列表和一个可捕捉的网格状元素，我可以在其中拖放（并复制/复制）列表中的元素，然后将它们排列在周围等。我为此使用 Shopify/Draggable.js，所以基本上是 可排序列表和可交换。 基本上我需要的是两个容器，一个是可排序的，另一个是网格可快照的（可交换的）。如果我像这样单独声明它们：   const sortable = new Sortable(document.querySelectorAll(&#39;.draggable-container&#39;), {draggable: &#39;.draggable-element&#39;, }); const swappable = new Swappable(document.querySelectorAll(&#39;.grid-container&#39;), {draggable: &#39;.grid-cell&#39;, 插件: [Plugins.Snappable], });  我无法在两者之间拖动任何元素。  我设法让这样的东西发挥作用的唯一方法是同时声明两个可排序对象，就像在多个容器示例中一样，但这不是我想要的，因为我想我喜欢最好保留可捕捉/交换功能，并且我还想基本上在元素上从可排序容器复制/创建一个新副本到可交换元素上。 这可能吗？如果是这样，任何有关我如何实现这一目标的例子都将受到欢迎。  或者，我也可以通过任何其他方式实现这一目标（例如不同的库）。提前致谢。   由   提交/u/vargvikernes666   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c1ceb9/drag_and_drop_from_a_sortable_list_to_a_gridlike/</guid>
-      <pubDate>Thu, 11 Apr 2024 11:11:40 GMT</pubDate>
+      <title>使用 Figma 组件库的 Gradio UI 更快地制作原型</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c1lpc2/prototype_even_faster_with_the_gradio_ui_for/</link>
+      <description><![CDATA[       由   提交/u/feross  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c1lpc2/prototype_even_faster_with_the_gradio_ui_for/</guid>
+      <pubDate>Thu, 11 Apr 2024 18:03:01 GMT</pubDate>
     </item>
     <item>
-      <title>你能给我推荐一个 HTML 预处理器吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c1cb2g/can_you_suggest_me_an_html_preprocessor/</link>
-      <description><![CDATA[大家好， 最近我不得不构建很多 html 模板。它们是委托给我的虚拟网站。然后，客户会将它们转换为 React/Vue/Angular（或其他），但他们需要我为他们提供人类可读的 html、CSS 和普通 JavaScript 库（如果使用的话）（轮播、下拉菜单等）。 网上搜了一下，好像是Pug 可以做我需要的事情。  您知道还有其他工具可以更好地满足我的需求吗？非常感谢。    ;由   提交 /u/ImThePirateCaptain   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c1cb2g/can_you_suggest_me_an_html_preprocessor/</guid>
-      <pubDate>Thu, 11 Apr 2024 11:06:22 GMT</pubDate>
+      <title>如果我使用 cookie 来存储用户的刷新令牌，我是否需要征得他们的许可才能这样做？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c1lf6j/if_i_use_a_cookie_to_store_my_users_refresh_token/</link>
+      <description><![CDATA[我看到很多网站询问有关存储 cookie 的问题，我通常都会拒绝。刷新令牌 cookie 会被视为“必要”的吗？我不会跟踪任何人的网站历史记录或任何东西。    由   提交 /u/little_hoarse   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c1lf6j/if_i_use_a_cookie_to_store_my_users_refresh_token/</guid>
+      <pubDate>Thu, 11 Apr 2024 17:51:38 GMT</pubDate>
     </item>
     <item>
-      <title>获取并使用哪些报告来推动网站改进？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c1bp7o/which_reports_to_obtain_and_use_to_drive_website/</link>
-      <description><![CDATA[大家好， 正在从事一个交给我的项目，我想知道我应该使用什么样的工具最初使用“分析”我正在谈论像 Lighthouse 这样的工具，这些工具可以为我提供详细检查和修复技术 SEO 所需的所有信息（逐页） ） 格式。可能指出可访问性缺陷等的工具。 我不是在寻找在源代码上运行的工具，因为我已经设置了 linting。只是尝试生成一些深入的报告作为第一步，以便我可以开始分类和确定优先级。   由   提交/u/ajskates98  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c1bp7o/which_reports_to_obtain_and_use_to_drive_website/</guid>
-      <pubDate>Thu, 11 Apr 2024 10:29:14 GMT</pubDate>
+      <title>使用 Figma 组件库的 Gradio UI 更快地制作原型</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c1ld5b/prototype_even_faster_with_the_gradio_ui_for/</link>
+      <description><![CDATA[       由   提交/u/feross  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c1ld5b/prototype_even_faster_with_the_gradio_ui_for/</guid>
+      <pubDate>Thu, 11 Apr 2024 17:49:21 GMT</pubDate>
     </item>
     <item>
-      <title>Safari 上不再提供自动播放功能了吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c1bnl2/autoplay_is_not_available_on_safari_anymore/</link>
-      <description><![CDATA[我之前曾就此发表过一篇文章，但现在从所有可能的角度进行故障排除后，我得出的结论是 safari 根本不再支持自动播放？过去有人在 Safari 中使用过自动播放功能吗？现在我必须使用 GIF 来制作动画，这相当繁重... 故障排除：  删除了音轨 使用 Javascript 手动添加自动播放（也在反应中尝试过） 使用静音、内联播放、自动播放、循环 尝试过不同的环境，本地与网络服务器 尝试了不同的格式 H. 265、WebM、Mp4、H.264 更新了浏览器设置并确保勾选了自动播放  下面是我的代码 &lt; ;video src=&#39;https://www.mattiasbaldi.com/wp-content/uploads/2023/12/sharp-wireframing.webm&#39; 静音播放内联自动播放循环&gt;; &lt;脚本&gt; window.onload = function() { var video = document.querySelectorAll(&#39;video&#39;); video.forEach(function(video) { video.load(); video.autoplay = true; video.muted = true; video.loop = true; video.controls = false; }); }; &lt;/脚本&gt;    由   提交/u/Environmental_Gap_65   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c1bnl2/autoplay_is_not_available_on_safari_anymore/</guid>
-      <pubDate>Thu, 11 Apr 2024 10:26:18 GMT</pubDate>
+      <title>最近遇到很多声称自己是全栈开发人员但没有经验的人？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c1jwm8/recently_met_multiple_people_who_claim_they_are/</link>
+      <description><![CDATA[嘿伙计们，我有点慢，但在过去的几周里，我遇到了很多声称自己是全栈开发人员的人。我知道技术/编程/编码很重要，每个人都想参与其中，包括我。  我的问题是，如果这些人的 github 存储库的全部或大部分都是他们在训练营等中完成的练习，他们如何找到工作？如果有这么多这样的人，人力资源或招聘经理如何筛选这些个人资料和投资组合？我只是不明白一个人如何能够凭借自己的作品集脱颖而出，甚至获得初次面试的机会。    由   提交 /u/WhichEstablishment96   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c1jwm8/recently_met_multiple_people_who_claim_they_are/</guid>
+      <pubDate>Thu, 11 Apr 2024 16:48:17 GMT</pubDate>
     </item>
     <item>
-      <title>尽管图像大小为 1MB，但 Lighthouse 性能得分仍为 100%</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c1b6ip/lighthouse_performance_score_100_despite_1mb_image/</link>
-      <description><![CDATA[我确信它并不完美，但我一直在使用 Lighthouse 来检查我制作的网站。我刚刚意识到我忘记优化图像，这意味着它是 1MB（优化后为 100KB），但 Lighthouse 仍然给出了 100% 的性能分数。  你知道为什么它不能捕捉到这个吗？有更好的工具吗？    由   提交/u/james_codes  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c1b6ip/lighthouse_performance_score_100_despite_1mb_image/</guid>
-      <pubDate>Thu, 11 Apr 2024 09:56:01 GMT</pubDate>
+      <title>像“column-count: 3”和“column-fill:balanced”之类的东西，但平衡是基于其子项的大小，而不仅仅是子项的数量？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c1jr16/something_like_columncount_3_with_columnfill/</link>
+      <description><![CDATA[基本上，我想要有 3 列，它们将包含一组不同大小的子项数组，我不想分解这些子项，所以每个子项将有一个标题和一些链接。我希望它均匀地填充 3 列，所以就像如果可能有 5 组项目，并且第一个项目很大，那么它将是单独的，然后第二个和第三个将放在第二列，第四个和第五个将放在最后一栏。 但它是 CMS 驱动的，因此我需要能够在不知道哪些内容很大的情况下执行此操作。当然，我可以运行一些 JavaScript 来弄清楚并相应地定位它们，但我觉得仅仅在 css 中就必须存在一些东西？ 我接近了 flex、flex-direction: column 和手动设置该元素的高度，但我不喜欢手动设置高度，而且它也不能均匀地间隔它们......如果子元素足够少，最后一个可能会非常短甚至未使用。 并且显示：网格不起作用，因为它们的大小都不同，因此会有看起来很奇怪的空块。 有什么想法吗？我肯定错过了一些东西。   由   提交 /u/werdnaegni   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c1jr16/something_like_columncount_3_with_columnfill/</guid>
+      <pubDate>Thu, 11 Apr 2024 16:41:53 GMT</pubDate>
     </item>
     <item>
-      <title>您知道生成源代码的在线网站建设者吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c1avf0/do_you_know_online_website_builders_that_generate/</link>
-      <description><![CDATA[我正在寻找一个可以导出源代码的在线网站构建器，我可以将其部署到任何我想要的地方。 理想情况下，它应该是免费的，带有模板，并且能够与 GitHub 集成。  感谢您提供任何信息。   由   提交/u/aksuta   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c1avf0/do_you_know_online_website_builders_that_generate/</guid>
-      <pubDate>Thu, 11 Apr 2024 09:34:11 GMT</pubDate>
+      <title>防止功能膨胀</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c1j53c/preventing_feature_bloat/</link>
+      <description><![CDATA[我有一个网络应用程序，目前只是一个基于教育的日历，其中包含一个待办事项列表，用于显示您下周要做的事情，即按截止日期排名。然而，待办事项列表是有缺陷的，例如，如果你两周后有期末考试，它可能比你一周半后到期的小作业更重要。为了防止这种情况，我添加了用户可以选择的类别（例如测验、测试、家庭作业等），待办事项列表将考虑这些类别并将其优先排列。  此外，我想到了在应用程序中内置成绩簿的想法，以便您可以将成绩附加到作业中，如果您输入老师的教学大纲的工作方式，它会给您运行的平均成绩、最高和最低期末成绩等（有些大学没有用户可见的运行成绩簿，因此您只能在期中和学期末知道自己的成绩）。 但是，我正在运行的问题与此相关的是，用户可能不需要所有这些必需的功能，而只是将其用作面向教育的日历。那么，你们中的任何人对如何允许这两种用例有想法吗？   由   提交 /u/Ok_Independent_2620   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c1j53c/preventing_feature_bloat/</guid>
+      <pubDate>Thu, 11 Apr 2024 16:17:02 GMT</pubDate>
     </item>
     <item>
-      <title>网页助手</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c1aqsj/web_assistant/</link>
-      <description><![CDATA[大家好，我运行一个大型应用程序，可以帮助人们管理建筑项目。我想在应用程序中添加一个人工智能风格的机器人。  我的用户应该能够向他们询问基本的网站帮助和支持问题，机器人可以使用网站上的知识库来回答这些问题。  我还想让它能够执行诸如“为 XYZ 项目添加 10 张椅子”或“预订 John 在周五处理 XYZ 项目”等任务以及其他可能更复杂的任务。  实现这一目标的过程是怎样的？我会让开发人员参与其中，但我想首先了解这个过程，以及它是否可以实现。    由   提交/u/Interesting_Buy_5039   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c1aqsj/web_assistant/</guid>
-      <pubDate>Thu, 11 Apr 2024 09:25:09 GMT</pubDate>
+      <title>有谁知道一个 js 库可以帮助我重新创建类似这个 3d 列表的东西？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c1iyn2/does_anyone_know_a_js_library_that_can_help_me/</link>
+      <description><![CDATA[屏幕录制示例： https:// Streamable.com/88yc7y 我查看了 Flutter.js 中的一个函数，但它在我正在构建的项目中不起作用。只是想知道是否有人知道这样做的图书馆 - 努力寻找任何有用的资源、指南等。   由   提交/u/infj-t   /u/infj-t  reddit.com/r/webdev/comments/1c1iyn2/does_anyone_know_a_js_library_that_can_help_me/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c1iyn2/does_anyone_know_a_js_library_that_can_help_me/</guid>
+      <pubDate>Thu, 11 Apr 2024 16:09:47 GMT</pubDate>
     </item>
     <item>
-      <title>小型企业网站开发 - 定价</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c1al5o/website_development_for_small_businesses_pricing/</link>
-      <description><![CDATA[大家好，我正在努力了解英国和爱尔兰网站开发的定价。我一直在比较当地和全国的价格，我对价格的差异感到摸不着头脑。  例如，在本地，我发现单页网站的定价为 490 欧元到 700 欧元，但在全国范围内可以找到 300 欧元到 1000 欧元的价格 - 所有这些都包含类似的服务。如果加上电子商务，价格可能会上涨到 3000 欧元甚至更高。  是什么推动了价格的上涨？成本差异巨大的背后是什么？  创建一个商业网站似乎比以往任何时候都需要更少的时间、精力和技能。我明白没有人愿意看到价格方面的竞争，但现在肯定有些最高价格太高了    由   提交 /u/LilyLure   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c1al5o/website_development_for_small_businesses_pricing/</guid>
-      <pubDate>Thu, 11 Apr 2024 09:13:47 GMT</pubDate>
+      <title>考虑 Webflow（作为高级开发人员）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c1ict4/considering_webflow_as_a_sr_developer/</link>
+      <description><![CDATA[我见过一些用 webflow 制作的营销网站，如果用 css 和 JavaScript 来构建，这将是一场噩梦。有时它并不总是表现出色，但视觉效果却很棒。  在我目前的角色中，我作为一名用户体验工程师进行设计和开发，这些年来头衔已经发生了一些变化，但我从事设计和开发已经有十多年了。 在某些情况下，我会在 Figma 中构建高保真原型，并将其转换为代码、组件和/或页面。或者只是在浏览器中开发时进行设计。 我从来都不是特别喜欢无代码构建器，但我可能愿意在营销登陆页面方面保持低调，以便提高我的工作水平. 有人从开发者变成了“webflow 开发者”吗？您在导出后对其进行更改的体验如何？它吐出的代码是无意义的吗？  您是否依赖 Webflow 进行更改？   由   提交 /u/outsiders_fm   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c1ict4/considering_webflow_as_a_sr_developer/</guid>
+      <pubDate>Thu, 11 Apr 2024 15:45:14 GMT</pubDate>
     </item>
     <item>
-      <title>ElephantSQL：生命周期终止公告</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c19whu/elephantsql_end_of_life_announcement/</link>
-      <description><![CDATA[    /u/LifelessPhoenix   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c19whu/elephantsql_end_of_life_announcement/</guid>
-      <pubDate>Thu, 11 Apr 2024 08:24:49 GMT</pubDate>
+      <title>终于明白响应式设计了！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c1hjw9/finally_understand_responsive_design/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c1hjw9/finally_understand_responsive_design/</guid>
+      <pubDate>Thu, 11 Apr 2024 15:12:17 GMT</pubDate>
     </item>
     <item>
-      <title>如何使用 Tailwind CSS 和 Alpinejs 创建登录/注册表单</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c19w34/how_to_create_a_loginregister_form_with_tailwind/</link>
-      <description><![CDATA[ 由   提交 /u/Michael_andreuzza   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c19w34/how_to_create_a_loginregister_form_with_tailwind/</guid>
-      <pubDate>Thu, 11 Apr 2024 08:24:00 GMT</pubDate>
+      <title>这怎么可以允许？？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c1hhaa/how_can_this_be_allowed/</link>
+      <description><![CDATA[      怎么可能允许强制订阅拒绝cookie？最近在几个网站上看到了这个。有 GDPR 专家愿意解释一下这种漆黑的深色图案是如何被允许的吗？   由   提交 /u/Typhann   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c1hhaa/how_can_this_be_allowed/</guid>
+      <pubDate>Thu, 11 Apr 2024 15:09:26 GMT</pubDate>
     </item>
     <item>
-      <title>在服务器中保存用户套接字 ID 映射。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c193ya/saving_user_socket_id_map_in_the_server/</link>
-      <description><![CDATA[我一直在开发一个简单的随机聊天 Telegram 迷你 Web 应用程序，它具有以下堆栈：React、Express、Mongodb、Node 和 Socket.IO。目前仅提供文本消息。当用户连接时，我将他们的 userId 和 SocketId 保存在 UserSocketMap{} 中。如果地图中有两个以上，我只需移动并匹配两个随机用户，然后从地图中删除这两个用户。然后，我将这两个用户及其 roomID 添加到另一个 UserRoomIdMap 中。此外，我有一个 OnlineUserMap 来跟踪有多少用户在线。 我的问题是：我不确定这是否是正确的方法，尽管它在开发中运行良好。我也不确定它是否会扩大规模。非常感谢任何建议。   由   提交/u/tewojacinto   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c193ya/saving_user_socket_id_map_in_the_server/</guid>
-      <pubDate>Thu, 11 Apr 2024 07:29:55 GMT</pubDate>
+      <title>出现在滚动条上的组件</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c1hcl7/components_that_appear_on_scroll/</link>
+      <description><![CDATA[我是一个刚刚进入前端开发的人，我一直在尝试在我的页面上添加一个功能，其中某些元素（标题/图像/当用户向下滚动时，段落）就会显示在页面中。我正在使用 React，老实说到目前为止我还没有找到任何好的解决方案。我尝试过使用一些外部包，但它们不能很好地工作，并且有很多阻止平滑滚动的错误。 我希望得到一个特定于 React 的答案，但非常欢迎通用的解决方案！    由   提交/u/xsazn2  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c1hcl7/components_that_appear_on_scroll/</guid>
+      <pubDate>Thu, 11 Apr 2024 15:04:00 GMT</pubDate>
     </item>
     <item>
-      <title>用于简单博客的静态网站生成器，我可以通过 FTP 上传其 zip 文件进行安装</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c18sas/static_website_generator_for_simple_blog_whose/</link>
-      <description><![CDATA[应该在简单的网络空间上运行。 Jekyll 和 Co 因通过终端安装而被淘汰。我已经尝试过 Bludit 和 Grav，但是哦，好吧。也许有人可以推荐其他东西，否则我可能会使用 Publii，我喜欢它的界面和功能，但我更喜欢没有额外桌面应用程序的选项。谢谢，祝您平安。   由   提交 /u/Piehnat   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c18sas/static_website_generator_for_simple_blog_whose/</guid>
-      <pubDate>Thu, 11 Apr 2024 07:08:46 GMT</pubDate>
+      <title>2024 年最受全栈开发者欢迎的技术堆栈是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c1glpg/whats_the_most_popular_tech_stack_for_full_stack/</link>
+      <description><![CDATA[我是一名初级全栈开发人员，我投入了大量时间来学习和使用 MERN 堆栈构建项目。不幸的是，现在我正在申请全职职位，我觉得这个技术堆栈没有需求。我正在考虑为后端学习 Spring Boot 和 PostgreSQL，因为前端仍然需要 React。你有什么想法？   由   提交 /u/OmarAdharn   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c1glpg/whats_the_most_popular_tech_stack_for_full_stack/</guid>
+      <pubDate>Thu, 11 Apr 2024 14:33:36 GMT</pubDate>
     </item>
     <item>
-      <title>您对在同一域上运行多个应用程序（每个应用程序都有自己的子域）有何看法？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c18a26/what_are_your_thoughts_on_running_multiple_apps/</link>
-      <description><![CDATA[对于拥有多个应用程序的独立黑客/开发人员，您会推荐上述方法还是每个应用程序使用单个域？ &lt; !-- SC_ON --&gt;  由   提交/u/d41_fpflabs  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c18a26/what_are_your_thoughts_on_running_multiple_apps/</guid>
-      <pubDate>Thu, 11 Apr 2024 06:36:30 GMT</pubDate>
+      <title>商家资料 API 的第 3 方选项</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c1gkin/3rd_party_options_for_business_profile_api/</link>
+      <description><![CDATA[大家好， 是否有任何第三方选项可以访问 Google Business Profile API？我的朋友正在为他的客户构建一个仪表板，以便他们可以查看所有 Google 评论并在单个仪表板上回复它们。然而，Google 拒绝了他的 API 访问请求，因为他管理的客户少于 10 个。... 我只是想帮助这里的朋友。如果您有任何选择，请分享。   由   提交/u/denslemmebob   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c1gkin/3rd_party_options_for_business_profile_api/</guid>
+      <pubDate>Thu, 11 Apr 2024 14:32:13 GMT</pubDate>
     </item>
     <item>
-      <title>面向专业 React 开发人员的专业/严肃 WordPress 课程</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c1862b/professional_serious_wordpress_course_for_a/</link>
-      <description><![CDATA[嘿伙计们， 我是一名全职 React 开发人员，希望能够完成一些额外的小任务到处为朋友和朋友的朋友赚钱。 由于大多数小型企业都有 WP 网站，因此我希望能够自信地使用它。目前我对此几乎没有经验。 我正在寻找面向想要进行高质量 WP 开发的人的付费课程，这意味着如何开发/维护一个简单的网站，选择正确的扩展和插件、如何维护它们、有关它们的安全问题、一般最佳实践等。 谢谢:)   由   提交/u/Low-Sample9381   /u/Low-Sample9381 reddit.com/r/webdev/comments/1c1862b/professional_serious_wordpress_course_for_a/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c1862b/professional_serious_wordpress_course_for_a/</guid>
-      <pubDate>Thu, 11 Apr 2024 06:29:46 GMT</pubDate>
+      <title>最好的跨浏览器/设备测试软件？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c1gf1p/best_cross_browserdevice_testing_software/</link>
+      <description><![CDATA[我对 Web 开发相当陌生，想知道哪种跨浏览器/平台/设备测试软件是最好的（或最常用的）。我看过 BrowserStack、Sauce Labs 等的一些示例，但我无法真正评估哪一个具有最好的功能和背后的优惠价格。  在线搜索感觉有点偏见，所以我希望在这里得到见解。   由   提交 /u/Levveking   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c1gf1p/best_cross_browserdevice_testing_software/</guid>
+      <pubDate>Thu, 11 Apr 2024 14:25:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
