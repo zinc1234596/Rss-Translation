@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Wed, 10 Apr 2024 21:01:41 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Apr 2024 00:48:16 GMT</lastBuildDate>
     <item>
-      <title>[媒体]Mux 是一个视频平台，旨在简化开发人员在工作时面临的挑战 [...]</title>
-      <link>https://t.me/hn_summary/83929</link>
-      <description><![CDATA[Mux (YC W16) 正在招聘一名高级产品设计师，对此我们感到很兴奋开发工具
-Mux 是一个视频平台，旨在简化开发人员在使用视频技术时面临的挑战。从编码和流媒体到监控，Mux 致力于为每个人提供更好的视频。我们正在寻找一位对开发工具充满热情的高级产品设计师加入我们多元化且才华横溢的团队。 Mux 拥有经验丰富的创始人和顶级投资者，提供了与领先公司合作并在视频技术领域产生真正影响的独特机会。如果您准备好成长、分享我们的价值观并为我们的使命做出贡献，我们希望听到您的声音！]]></description>
-      <guid>https://t.me/hn_summary/83929</guid>
-      <pubDate>Wed, 10 Apr 2024 21:01:41 GMT</pubDate>
+      <title>[媒体]“校园枪支检测”项目旨在解决校园枪击问题 [...]</title>
+      <link>https://t.me/hn_summary/83951</link>
+      <description><![CDATA[我建立了一个系统来检测学校中的枪支并拨打 911
+“学校枪支检测”项目旨在通过创建一个系统来解决校园枪击问题，该系统使用摄像头和音频检测方法来识别学校中是否存在枪支，并自动拨打 911。该系统包括供政府使用的仪表板来跟踪呼叫以及发出警报的原因。作者强调需要改进功能，例如枪声音频机器学习检测、增强的仪表板功能和更好的摄像头检测。该项目通过为学校安全和潜在的未来硬件集成提供全面的解决方案而脱颖而出。]]></description>
+      <guid>https://t.me/hn_summary/83951</guid>
+      <pubDate>Thu, 11 Apr 2024 00:48:16 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在本文中，我们提出了一种通过 incor 改进大型语言模型的新方法 [...]</title>
-      <link>https://t.me/hn_summary/83928</link>
-      <description><![CDATA[迈向推理最佳专家混合大型语言模型
-在本文中，我们提出了一种通过结合专家混合框架来改进大型语言模型的新方法。通过利用多个专业模型的优势，我们的目标是在自然语言处理任务中实现推理最优。我们的实验结果证明了这种方法在提高一系列基准的模型性能方面的有效性。这种创新方法为增强语言模型的能力和推进 NLP 领域提供了一个有前景的方向。争议在于实现和训练如此复杂模型的潜在挑战，而独特之处在于专家混合框架中对推理最优性的关注。]]></description>
-      <guid>https://t.me/hn_summary/83928</guid>
-      <pubDate>Wed, 10 Apr 2024 20:59:06 GMT</pubDate>
+      <title>[媒体]费城联邦储备银行最近的一份报告显示，U [...]</title>
+      <link>https://t.me/hn_summary/83950</link>
+      <description><![CDATA[美联储研究中信用卡拖欠率创历史新低
+费城联邦储备银行最近发布的报告显示，第四季度美国信用卡拖欠率创下历史新高。约 3.5% 的卡余额至少逾期 30 天，这是自 2012 年以来的最高数字。逾期 60 和 90 天的债务比例也有所增加。该数据突显了许多美国人面临的财务困境，当前的经济气候可能导致这些令人震惊的数字。]]></description>
+      <guid>https://t.me/hn_summary/83950</guid>
+      <pubDate>Thu, 11 Apr 2024 00:44:13 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在这条推文中，Karpathy 以任何人都可以理解的方式打破了 llm.c 的复杂概念 [...]</title>
-      <link>https://t.me/hn_summary/83927</link>
-      <description><![CDATA[Karpathy：用外行术语解释 llm.c [tweet](https ://news.ycombinator.com/item?id=39995279)
-在这条推文中，Karpathy 以任何人都能理解的方式分解了 llm.c 的复杂概念。通过简化技术术语，他使更广泛的受众能够理解。这条推文是专家如何以清晰简洁的方式传达知识的一个很好的例子。 Karpathy 用外行人的语言解释 llm.c 的能力既令人惊讶又令人印象深刻，展示了他使困难的概念变得容易掌握的天赋。无论您是初学者还是专家，这条推文一定会给您带来启发和教育。]]></description>
-      <guid>https://t.me/hn_summary/83927</guid>
-      <pubDate>Wed, 10 Apr 2024 20:57:03 GMT</pubDate>
+      <title>[媒体] 旧金山的轻轨系统将不再使用过时的软盘进行升级 [...]</title>
+      <link>https://t.me/hn_summary/83949</link>
+      <description><![CDATA[旧金山轻轨从软盘升级&lt; br /&gt;
+旧金山的轻轨系统将从使用过时的软盘升级为更现代的系统。当前的控制系统依赖于三张五英寸软盘，存在数据退化和潜在灾难性故障的风险。尽管该系统是在 1998 年安装的，当时硬盘驱动器已经很普遍，但由于升级费用昂贵，该机构继续使用软盘。升级将是一个漫长而昂贵的项目，希望获得州和联邦拨款的资助。软盘在现代技术中的独特使用凸显了公共交通基础设施改进的必要性。]]></description>
+      <guid>https://t.me/hn_summary/83949</guid>
+      <pubDate>Thu, 11 Apr 2024 00:29:07 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Funkwhale 是一个被高度低估的 Fediverse 项目，有潜力与 mai [...]</title>
-      <link>https://t.me/hn_summary/83926</link>
-      <description><![CDATA[Funkwhale 可能是最被忽视的 Fediverse 项目
-Funkwhale 是一个被高度低估的 Fediverse 项目，它有潜力与 Spotify 和 Apple Music 等主流音乐平台竞争。虽然它缺乏公共歌曲目录，但其社交功能允许用户与朋友联系并共享私人库，从而创建独特且广泛的音乐收藏。独立唱片公司也可以通过宣传他们的艺术家并提供各种访问选项来从 Funkwhale 中受益。令人惊讶的是，与其他 Fediverse 项目不同，Funkwhale 不需要庞大的用户群就能发挥作用。尽管 Funkwhale 具有潜力，但它在另类音乐平台的讨论中仍然被忽视。你尝试过吗？您觉得还缺少什么？]]></description>
-      <guid>https://t.me/hn_summary/83926</guid>
-      <pubDate>Wed, 10 Apr 2024 20:16:18 GMT</pubDate>
+      <title>隆重介绍 Kagi Search 的新设计！</title>
+      <link>https://t.me/hn_summary/83948</link>
+      <description><![CDATA[介绍 Kagi 搜索的新设计
+隆重介绍 Kagi Search 的新设计！从 3 月 26 日开始，所有新客户的订阅中都将包含本地化销售税。从 4 月 9 日开始，现有客户的发票中将添加销售税/增值税。如果您使用其他方式付款，则需要在购买积分时选择销售税区域。这一变化意味着受影响会员的最终价格上涨，因为卡吉现在有法定的销售税义务。我们将吸收过去两年的追溯销售税/增值税成本。如有任何疑问，请联系我们，并敬请关注常见问题解答。页。令人兴奋的改进和错误修复也即将推出！]]></description>
+      <guid>https://t.me/hn_summary/83948</guid>
+      <pubDate>Thu, 11 Apr 2024 00:22:02 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 黑客新闻 Blogroll 项目是由用户共享的个人博客的精选列表 [...]</title>
-      <link>https://t.me/hn_summary/83925</link>
-      <description><![CDATA[显示 HN：黑客新闻博客
-黑客新闻 Blogroll 项目是用户在黑客新闻线程上共享的个人博客的精选列表。该项目的目的是为用户提供一个发现新博客和公共领域知识的集中位置。作者通过实现一个 cron 作业来定期更新 blogroll 来区分该项目，并计划添加用户提交和编辑博客描述的功能。该项目使用 Rails 7 和 Tabler UI 以及各种 gem。用户可以通过电子邮件联系作者提出反馈或建议。]]></description>
-      <guid>https://t.me/hn_summary/83925</guid>
-      <pubDate>Wed, 10 Apr 2024 20:04:41 GMT</pubDate>
+      <title>[媒体] 为什么在主机显示器关闭时远程桌面速度很慢，除非使用 HDMI 线？</title>
+      <link>https://t.me/hn_summary/83947</link>
+      <description><![CDATA[为什么主机显示器关闭时远程桌面速度很慢，除非 HDMI 电缆已连接使用过吗？
+自从升级到新电脑和 Windows 10 以来，当我尝试在显示器关闭的情况下远程访问桌面时，遇到了严重的延迟。将 HDMI 电缆与 DisplayPort 电缆一起使用可以解决该问题，但这是一个奇怪的解决方法。我怀疑当操作系统停止检测监视器时 GPU 会进入低功耗状态。我尝试在 BIOS 中禁用 ULPS 和省电设置，但没有成功。有些人建议使用虚拟 HDMI 插头或虚拟显示驱动程序，但我正在寻找真正的解决方案。这个问题似乎是 Windows 10 和现代硬件所特有的，因为我在使用 Windows 7 时从未遇到过此问题。]]></description>
+      <guid>https://t.me/hn_summary/83947</guid>
+      <pubDate>Thu, 11 Apr 2024 00:00:53 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Fairphone 推出了 Fairbuds，这是一款遵循该公司精神的无线耳机 [...]</title>
-      <link>https://t.me/hn_summary/83924</link>
-      <description><![CDATA[Fairbud 是 Fairphone 的证明，证明我们可以制造更好的微型小工具
-Fairphone 推出了 Fairbuds，这是一款遵循该公司可持续发展和可修复性精神的无线耳机。 Fairbuds 的售价为 149 欧元，配备可更换组件、方便操作的非焊接电池以及两年保修（可延长至三年）。这些耳塞配备蓝牙 5.3、主动降噪和用于定制的 Fairbuds 应用程序，在以使用即扔产品为主的市场中提供独特的环保和以所有权为导向的升级。 Fairphone 对公平和回收材料、公平工厂和电子废物中和的承诺为行业树立了新标准。]]></description>
-      <guid>https://t.me/hn_summary/83924</guid>
-      <pubDate>Wed, 10 Apr 2024 20:02:06 GMT</pubDate>
+      <title>[媒体] ETag 和 HTTP 缓存对于 GET 请求中的客户端缓存至关重要。</title>
+      <link>https://t.me/hn_summary/83946</link>
+      <description><![CDATA[ETag 和 HTTP 缓存
+ETag 和 HTTP 缓存对于 GET 请求中的客户端缓存至关重要。该工作流程涉及使用 ETag 标头和条件标头（例如 If-Match 或 If-None-Match）。该过程可能会令人困惑，但理解它对于高效缓存至关重要。通过生成 ETag 并进行比较，服务器可以确定缓存的数据是否仍然有效，从而导致 304 Not Modified 响应或包含更新内容的 200 OK 响应。 Go 中的服务器演示了如何为动态 GET 请求实现此缓存工作流程。弱 ETag 可以轻松验证缓存内容，确保高效的客户端缓存。 （根据 86% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/83946</guid>
+      <pubDate>Wed, 10 Apr 2024 23:56:49 GMT</pubDate>
     </item>
     <item>
-      <title>在“How I Write Tests in Go”中，作者讨论了他们编写单元 te 的首选方法 [...]</title>
-      <link>https://t.me/hn_summary/83923</link>
-      <description><![CDATA[我如何在 Go 中编写测试
-在“How I Write Tests in Go”中，作者讨论了他们使用内置测试包在 Go 中编写单元测试的首选方法。他们演示了测试一个简单的函数 addNumbers，并讨论了表驱动测试和并行运行测试等技术。作者还分享了他们对表格测试以及针对特定情况使用子测试的看法。它们提供了测试功能的示例，并强调了以清晰且有组织的方式编写测试的好处。作者强调了 Go 编程中有效的单元测试实践的重要性。 （根据 36% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/83923</guid>
-      <pubDate>Wed, 10 Apr 2024 19:53:30 GMT</pubDate>
+      <title>OpenGrok 是一个用 Java 编写的快速且可用的源代码搜索和交叉引用引擎。</title>
+      <link>https://t.me/hn_summary/83945</link>
+      <description><![CDATA[OpenGrok：快速且可用的源代码搜索和交叉引用引擎
+OpenGrok 是一个用 Java 编写的快速且可用的源代码搜索和交叉引用引擎。它可以帮助用户搜索、交叉引用和导航其源代码树，了解各种程序文件格式和版本控制历史记录。该项目最初由 Sun Microsystems 构思，提供了一个非常快速的源浏览器，并且可以作为 Docker 容器运行。 OpenGrok 使用语义版本控制进行更新，主要更新需要完全重新索引和配置更改。该项目欢迎贡献，并有一个负责任的安全漏洞披露流程。该项目的独特之处在于其源代码搜索和交叉引用的速度和可用性。]]></description>
+      <guid>https://t.me/hn_summary/83945</guid>
+      <pubDate>Wed, 10 Apr 2024 23:52:46 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]作者对网络上空洞、无趣的笑话盛行表示失望 [...]</title>
-      <link>https://t.me/hn_summary/83922</link>
-      <description><![CDATA[除了笑话之外什么都给我
-作者对电影评论网站 Letterboxd 上盛行的空洞、无趣的笑话表示失望，强调缺乏实质性评论以及大量的俏皮话。他们认为，网站的社交动态优先考虑快速、引人注目的幽默，而不是深思熟虑的分析，最终会削弱用户体验。作者质疑为什么这么多人在网络空间中默认幽默，并感叹数字通信中持续开玩笑和讽刺的普遍文化。他们呼吁转向更真实的表达和有意义的互动，敦促作家认真对待自己，才能得到认真对待。 （根据 82% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/83922</guid>
-      <pubDate>Wed, 10 Apr 2024 19:24:48 GMT</pubDate>
+      <title>[媒体] Z 世代越来越渴望成为有影响力的人，被名誉的​​诱惑和 [...]</title>
+      <link>https://t.me/hn_summary/83944</link>
+      <description><![CDATA[人工智能影响者正在接管 Instagram，毁掉 Z 世代的成名机会&lt; /a&gt;
+Z 世代越来越渴望成为有影响力的人，被数字世界中名誉和财富的诱惑所吸引。然而，影响者的格局正在迅速变化，人工智能影响者的崛起威胁着传统的人类影响者。公司正在投资 Miquela、Imma 和 Shudu 等人工智能模型，这些模型获得了数百万粉丝和利润丰厚的品牌交易。人工智能影响者提供具有成本效益、引人入胜的内容的潜力对品牌很有吸引力，但也引发了人们对真实性和信任度的质疑。随着人工智能技术的进步，影响力的未来可能会转向人工智能实体，这给饱和市场中有抱负的人类影响者带来了挑战。 （根据 97% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/83944</guid>
+      <pubDate>Wed, 10 Apr 2024 23:48:43 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]根据我作为一名自学成才的开发人员的经验，我了解到，当 [...]</title>
-      <link>https://t.me/hn_summary/83921</link>
-      <description><![CDATA[当你不知道某事时，不要害怕承认
-根据我作为一名自学成才的开发人员的经验，我知道当你不知道某些事情时承认是可以的。在我的整个职业生涯中，我一直在与冒名顶替综合症作斗争，但我发现诚实地面对自己的知识差距实际上帮助我取得了成功。在面试前端电子商务职位时，我承认我不知道 Javascript 事件循环的细节，但我因为愿意学习而被录用。我相信，对未知事物持开放态度并渴望学习是个人和职业成长的关键。抓住向他人学习并传授您所知道的知识的机会，可以创造出支持性和成功的团队动力。]]></description>
-      <guid>https://t.me/hn_summary/83921</guid>
-      <pubDate>Wed, 10 Apr 2024 19:21:14 GMT</pubDate>
+      <title>Substack 作者对该平台的关注功能感到震惊，声称它阻碍了 subscr [...]</title>
+      <link>https://t.me/hn_summary/83943</link>
+      <description><![CDATA[Substack 作者担心关注功能导致订阅量“直线下降”
+Substack 作者对该平台的关注功能感到震惊，声称它阻碍了订阅量的增长。作者珍娜·卡德莱克 (Jeanna Kadlec) 在社交媒体上表达了沮丧之情，称随着关注者数量的增加，订阅量正在下降。一些用户报告用户增长趋于平缓，担心 Substack 正在转向社交媒体模式来销售广告空间。尽管 Substack 声称关注者推动了付费订阅，但由于关注者和订阅者之间的差异，作家们正在考虑转向 Patreon。争议在于关注功能对作家收入的影响，因为他们发现自实施以来订阅量有所下降。]]></description>
+      <guid>https://t.me/hn_summary/83943</guid>
+      <pubDate>Wed, 10 Apr 2024 23:33:36 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Lenssort 是一个使用面部识别和图像像素排序来创建 [...]</title>
-      <link>https://t.me/hn_summary/83920</link>
-      <description><![CDATA[镜头排序，屏蔽像素排序毛刺效果&lt; br/&gt;
-Lenssort 是一个使用面部识别和图像像素排序来创建有故障的、类似 Snapchat 的镜头的项目。它通过结合像素排序（作者参与的另一个项目）而与众不同。该工具可用于对脸部的不同部分进行排序，例如眼睛、脸部、泪痕等，并提供反转遮罩或调整的选项排序角度。该项目可以使用 Docker 运行，也可以使用 Python 3.6 或更高版本手动运行，需要 dlib Python 绑定。作者还列出了未来的改进，例如公开像素排序参数和添加更多遮罩组合。]]></description>
-      <guid>https://t.me/hn_summary/83920</guid>
-      <pubDate>Wed, 10 Apr 2024 19:18:40 GMT</pubDate>
+      <title>您还需要 IPv4 吗？</title>
+      <link>https://t.me/hn_summary/83942</link>
+      <description><![CDATA[您还需要 IPv4 吗？
+在当今的网络世界中您还需要 IPv4 吗？答案可能是否定的。借助 IPv6 以及 NAT64 和 DNS64 等巧妙解决方案，设备可以与 IPv6 和 IPv4 主机无缝通信。 CLAT 和 SIIT 机制允许在路由器级别进行转换，确保甚至传统设备也可以连接。仅 IPv6 首选 DHCP 选项进一步简化了向仅 IPv6 网络的过渡。随着这些进步，对 IPv4 的需求正在减少，使得过渡到 IPv6 的理由比以往任何时候都更加充分。 （根据 62% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/83942</guid>
+      <pubDate>Wed, 10 Apr 2024 23:18:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
