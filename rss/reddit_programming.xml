@@ -4,7 +4,14 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Fri, 12 Apr 2024 09:13:07 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Apr 2024 10:16:43 GMT</lastBuildDate>
+    <item>
+      <title>十年且仍在计数：我与微服务的情缘</title>
+      <link>https://www.reddit.com/r/programming/comments/1c24qf9/ten_years_and_counting_my_affair_with/</link>
+      <description><![CDATA[ 由   提交/u/lantskip  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1c24qf9/ten_years_and_counting_my_affair_with/</guid>
+      <pubDate>Fri, 12 Apr 2024 09:21:16 GMT</pubDate>
+    </item>
     <item>
       <title>嗡嗡作响的错误</title>
       <link>https://www.reddit.com/r/programming/comments/1c24cfl/bugs_that_buzzed_a_lot/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[ 由   提交 /u/fosterfriendship   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1c1slh3/jenkins_was_invented_bc_an_engineer_got_tired_of/</guid>
       <pubDate>Thu, 11 Apr 2024 22:36:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源 Pivotal Tracker 到快捷方式导入器</title>
-      <link>https://www.reddit.com/r/programming/comments/1c1rqlq/open_source_pivotal_tracker_to_shortcut_importer/</link>
-      <description><![CDATA[ 由   提交 /u/DrawTheCatEyesSharp   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1c1rqlq/open_source_pivotal_tracker_to_shortcut_importer/</guid>
-      <pubDate>Thu, 11 Apr 2024 22:02:21 GMT</pubDate>
     </item>
     </channel>
 </rss>

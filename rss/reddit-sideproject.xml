@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>r/SideProject - 共享业余项目的社区</title>
+    <link>https://www.reddit.com/r/SideProject/</link>
+    <description>r/SideProject 是一个 Reddit 子版块，用于分享和接收有关副项目的建设性反馈。</description>
+    <lastBuildDate>Fri, 12 Apr 2024 10:18:16 GMT</lastBuildDate>
+    <item>
+      <title>简化云开发：模块化，就像用乐高积木搭建一样</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1c25er9/streamlining_cloud_development_modular_like/</link>
+      <description><![CDATA[嘿r/SideProject社区！&lt; /p&gt; 我们正在研究一种新的云开发方法，我们需要您的见解！想象一下构建基于云的工具，例如组装乐高积木，选择正确的部件并只制作真正独特的东西。这是我们技术产品背后的核心理念。 问题：大公司和初创公司花费过多的时间和资源重新开发已经存在的功能，只是为了获得所有权并为其量身定制解决方案。特定的要求，这通常会导致效率低下。相反，选择传统的按需 API 也会带来一系列重大风险。如果不深入了解这些服务的运作方式或对其基础设施和代码的访问方式，企业将面临这些服务的可持续性和安全性的不确定性、潜在的数据管理问题以及难以预测的成本波动的脆弱性。 我们的解决方案：我们提出了一种模型，其中基本的云功能作为云组件出售，并部署在各个 GCP 项目中。当客户购买云组件时，他们将获得整个设置的所有权：组件、其部署、源代码存储库和即用型 CI/CD 管道。这使得每个云组件都可以立即使用，并且可以 100% 根据业务需求进行定制。如果这种模式被证明是成功的，我们计划建立一个入职流程，让其他公司效仿，允许他们通过我们的平台销售他们的产品/API，从而培育一个完全可定制的云解决方案市场。 &lt;未来愿景：为了帮助公司在云中构建更好的工具，我们还设想我们的平台不断发展，以促进技术自由职业者和公司之间的联系。虽然这方面与我们的主要主题略有不同，但该计划旨在通过利用外部专业知识来定制和增强云组件，进一步简化云开发，同时帮助打造每个客户的项目或产品中真正独特的东西。 当前阶段：我们已经开发了可供部署的特定云组件，包括进出公共场所的人员计数器、最先进的 (SOTA) 物体检测器、视频相似度评估器、图像语料库的主题建模器以及由文本引导的“任何内容检测器”（可以检测图像中的任何内容）。缺少的是云组件购买的前端，当然还有我们的第一批客户。我们在这里衡量的是这种业务模式的可行性和市场兴趣。 我们的不同之处：与典型的按需云服务不同，我们的模式确保客户在私有环境中拥有自己部署的云组件，从而消除与第三方请求的交互。这种所有权意味着完全的定制能力以及对基础设施和代码的控制。 我们正在寻求您的反馈：这个想法可行吗？企业是否有兴趣以这种方式集成云组件？我们正在寻找积极和消极的反馈来完善我们的方法。 挑战：我们的主要不确定性围绕着市场对这种集成方法的兴趣以及该概念的整体可行性. 我们相信这可以显着简化云开发，但您的反馈至关重要。您认为这种方法有潜力吗？您能想到任何问题或改进吗？ 您的见解可以帮助塑造一个更高效、可定制和所有权驱动的技术格局。   由   提交/u/Key_Tennis1911   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1c25er9/streamlining_cloud_development_modular_like/</guid>
+      <pubDate>Fri, 12 Apr 2024 10:06:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 AI/ML 领域工作 4 年后，我创建了 Elephant.ai，因为我厌倦了在干旱时无法卖水的 AI 聊天机器人 - 来认识一下真正能达成交易的 AI 聊天机器人！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1c25e41/after_4_years_in_aiml_i_built_elephantai_because/</link>
+      <description><![CDATA[在过去四年里深入研究 AI/ML 研究，我对 AI 聊天机器人的现状深感沮丧对于商业网站。从 Chatbase 到不太知名的网站，它们似乎都缺少……某些东西。当然，他们可以鹦鹉学舌地回复一些信息，但是吸引客户并进行实际销售呢？算了——完全没用。 就在那时，我决定卷起袖子，建立Elephant.ai。为什么叫大象？因为它永远不会忘记从您的内容中学到的东西 - 您的企业网站、您的文档、您的视频、图像、概念、问答等。 这就是大象的特点。 ai apart：  真正智能：Elephant.ai 不仅仅是 Chatgpt 智能的翻版。我们的团队对其人工智能进行了深度定制和微调，使其超越了典型模型。它通过理解和适应企业的独特需求，提供量身定制的精确响应。 从一切事物中学习：Elephant.ai 不仅限于基于文本的理解。它可以消化您的网站内容、文档、概念、视频和图像，使其比典型的聊天机器人更加了解情况。 销售机器：与主要设计的典型聊天机器人不同在客户支持方面，Elephant.ai 充当积极的销售代理。 Elephant.ai 以经验丰富的销售代表的技巧安排通话、收集潜在客户、说服潜在客户并处理异议。 图像功能：用户可以直接向 Elephant.ai 发送图像消息，并根据视觉内容进行智能响应，增强交互可能性。 无缝人工接管：想与真人聊天吗？立即从人工智能切换到人工支持！ 高级分析：深入了解客户互动，以更好地定制您的服务。 定制潜在客户表单：通过聊天界面有效捕获潜在客户的信息。 持续改进周期：在 AI 最新进展的支持下，Elephant.ai 不断发展。它从每次交互中学习，随着时间的推移获得新的见解并完善其理解。这种持续改进可确保其随着您的业务和客户需求的发展而保持有效。 用户友好的设计：我们在设计 Elephant.ai 时考虑到了可用性。它具有干净、直观的界面，可以让用户进行愉快的交互，而这一点在其他人工智能解决方案中经常被忽视。 完全可定制：调整其学习、响应以及处理对话的方式，甚至自定义外观以匹配您网站的主题，确保其无缝融入您的网站。  但这是最好的部分 - 我们将全力以赴网络-零利润模式。这意味着什么？对于您推荐给 Elephant.ai 的每位付费客户，所有利润都会通过70% 的终身经常性佣金返还给营销人员。 （请访问我们网站上的联属页面以了解更多相关信息）是的，您没看错。业内没有其他人提供如此高的佣金。我们非常认真地支持支持我们的社区。 是的，它免费开始。小型网站可以永远免费。 我们相信，支持我们的营销人员是我们共同成功的关键。我们希望打造一个繁荣的社区，让每个人都受益——帮助您的业务发展对我们也有帮助。 我很想听听您的想法、反馈或任何建议。我们如何才能让 Elephant.ai 为您提供更好的服务？在我们不断完善和增强我们的平台的过程中，您的意见非常宝贵。 查看演示：Elephant.ai 在商业网站上的实际应用： https://reddit.com/link /1c25e41/video/exe3v9zwt0uc1/player https://reddit.com /link/1c25e41/video/9l6rxqzwt0uc1/player https://reddit .com/link/1c25e41/video/f7jc59zwt0uc1/player   由   提交/u/Mr_John_Shelby  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1c25e41/after_4_years_in_aiml_i_built_elephantai_because/</guid>
+      <pubDate>Fri, 12 Apr 2024 10:05:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>我找不到具有我想要的功能和简单/最小用户界面的菜谱管理器，所以我构建了一个。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1c24lwv/i_couldnt_find_a_recipe_manager_with_the_features/</link>
+      <description><![CDATA[我喜欢烹饪，但我真的很讨厌大多数食谱网站。它们充斥着随机的生活故事和广告。 最糟糕的是，食谱成分和说明甚至没有紧密结合在一起，这意味着我在查看食谱时必须点击一堆或滚动整个地方在手机/平板电脑上。 所以我有几个要求：  简单、易于使用的用户界面 食谱信息不混乱，相关数据在任何屏幕尺寸上都保持在一起 快速的用户界面和搜索 无广告  来自ManageMeals. 我自己已经使用了一段时间，并决定将其开放给其他人。 https://managemeals.com/   由   提交/u/whatsontv222  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1c24lwv/i_couldnt_find_a_recipe_manager_with_the_features/</guid>
+      <pubDate>Fri, 12 Apr 2024 09:12:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>立即将任何 URL 转换为病毒式视频剪辑！只需输入链接即可观看魔法发生 - 非常适合社交媒体。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1c24bnh/transform_any_url_into_viral_video_clips/</link>
+      <description><![CDATA[我们构建了一个工具，可让您从任何网址生成短格式视频内容。 输入网址，该工具将抓取页面，对其进行总结，然后创建一个可以在社交媒体上分享的短视频剪辑。 寻找人们尝试一下并提供反馈 300 个免费积分（生成 3 个）视频）注册时（无需信用卡） 在这里尝试 - https://www.fromurl.com/&lt; /a&gt;   由   提交/u/Arah44  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1c24bnh/transform_any_url_into_viral_video_clips/</guid>
+      <pubDate>Fri, 12 Apr 2024 08:53:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个黑曜石插件来为您组织文件</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1c249ms/i_made_an_obsidian_plugin_that_organizes_your/</link>
+      <description><![CDATA[       由   提交 /u/SpaceTraveler611    [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1c249ms/i_made_an_obsidian_plugin_that_organizes_your/</guid>
+      <pubDate>Fri, 12 Apr 2024 08:49:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个工具，可以在几秒钟内创建您的下一个 Spotify 播放列表。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1c23yn0/i_made_a_tool_to_create_your_next_spotify/</link>
+      <description><![CDATA[ 由   提交/u/Hugues_Staz   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1c23yn0/i_made_a_tool_to_create_your_next_spotify/</guid>
+      <pubDate>Fri, 12 Apr 2024 08:28:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>GPT4-turbo-2024-04-09 前端代码能力有了巨大的提升。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1c1y4tr/gpt4turbo20240409s_frontend_code_capability_has/</link>
+      <description><![CDATA[&lt;表&gt;   我在 Twitter 上看到 OpenAI 发帖说 ChatGPT 也更新到了最新的 GPT4- Turbo-2024-04-09版本。 然后，我测试了我生成Tailwind CSS的GPT，发现新版本生成的网页质量有了显着提高。结果令人惊叹！ 我这里有一些提示供大家测试。  为飞机票预订网站设计一个登陆页面。  编写一个登录表单，左右布局、大尺寸标题、右侧漂亮的图像。 为 iOS 编写定价页面应用程序，提供 3 个价格，突出显示中间价格的套餐。  我的 GPT 链接在这里。 https://chat.openai.com/g/g-hrRKy1YYK-tailwind-css-builder-windchat 预览插件链接在这里，它是一个 Chrome 扩展程序。 https:// chrome.google.com/webstore/detail/ipafbgdehdljgphjgfmpkohhbelebdhm ​ 这个Chrome扩展是我做的，已经一年了。之前GPT的前端代码能力不好，导致这个工具不太好用。 这次更新之后，GPT4的能力有了很大的提升，感觉AI网页生成领域即将掀起另一波热情。 这确实是过去六个月中我们收到的最令人振奋的消息。 ​  https://preview.redd .it/m0t8o0pzkytc1.png?width=738&amp;format=png&amp;auto=webp&amp;s=fd7e5fca7b018a9b7df6733e2216b69fb8689a2d ​ https://preview.redd.it/w36ppuxujytc1.png?width=2580&amp;format= png&amp;auto=webp&amp;s=119069f41bd4e18d179fd1091d562a4a7a9c3cf6 https://preview.redd.it/tvxa0f2wjytc1.png?width=2580&amp;format=png&amp;auto=webp&amp;s=57a1572c4e2824a70d93237833e0d 43b45271208 https://preview.redd.it/kbf8ickqkytc1.png?width=2590&amp;格式=png&amp;auto=webp&amp;s=e39363aa4154a8d5c3756eeec14f5c0f660f31cb   由   提交/u/jcwsw129  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1c1y4tr/gpt4turbo20240409s_frontend_code_capability_has/</guid>
+      <pubDate>Fri, 12 Apr 2024 02:43:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>我为自己的简单需求构建了一个工具，现在正在帮助超过 1000 名用户在 Google 上高效搜索</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1c1vwgw/i_built_a_tool_for_my_simple_need_that_is_now/</link>
+      <description><![CDATA[   在过去的几年里，我对保存的内容越来越多感到非常沮丧。我有 3k 个书签，Twitter / X 上有 500 多个书签，LinkedIn 上有 800 多个书签，我再也没有打开过其中任何一个。 我的默认首选搜索引擎 Google 仍然依赖于基于页面排名的结果填充与 SEO 内容和广告。我与 50 多名用户讨论了他们如何使用搜索、社交媒体、书签等。我从中学到的见解促使我构建了一个简单的工具 Stacks。 这是一个搜索副驾驶工具，使用跨平台的书签、研究笔记、新闻通讯和知识库中隐藏和遗忘的知识提供建议。 https://betterstacks.com&quot;&gt;https://betterstacks.com /betterstacks.com   由   提交/u/tanayl27  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1c1vwgw/i_built_a_tool_for_my_simple_need_that_is_now/</guid>
+      <pubDate>Fri, 12 Apr 2024 00:58:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>无计划地启动</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1c1vj2r/launching_without_a_plan/</link>
+      <description><![CDATA[我在 r/saas 中发布了此内容也是，但我认为这是一个更合适的地方。  我决定尝试一些新的东西，只是完整地发送一个项目，而没有真正计划任何事情。我知道这通常是不行的，但我觉得我倾向于过度分析，最终会害死我。 我过去通过制作其他 SaaS 产品赚了一些钱（少于总共 1000 美元），我感觉每次启动 MVP 后，我都会陷入“分析瘫痪”的无限循环中。并最终自我破坏。 所以，我决定这一次，我只是要构建一些对自己有用的有趣的东西，然后看看这种氛围会把我带向何方。我的目标实际上只是回到基础并重新爱上构建，因此我将尽力缩短周期时间，快速迭代，并从字面上看用户反馈将我带向何方。 就上下文而言，我正在从事的项目是电子邮件第一参谋长。对于 MVP，它基本上只是带有电子邮件地址的 ChatGPT，但它可以做一些很酷的事情，例如每天早上向您发送自定义的每日摘要、安排会议和分析文档。我想我应该让 MVP 保持超级简单，并尽可能快地启动，所以它非常简单。 尽管功能有限，但我已经看到了一些有趣的用法，并且很多不同类型的用户。很大一部分人来自“较老”的行业，这些行业的技术不太先进（或者至少我认为他们的技术不太先进），而且我认为他们中的很多人没有太多使用人工智能，所以它看到他们第一次使用它的方式有点酷。 我认为我的松散的长期计划是看看人们如何使用它，并尝试将其打造成针对特定垂直领域的更全面的助手。即使当我把它打出来时，它看起来有点梦幻，但如果它不起作用，我想我不会太在意，因为这是一个有趣的项目，所以我认为没有什么办法我在这里输了。 不过我很好奇 - 这种方法对其他人有效吗？只是跟随氛围，看看它会把你带到哪里，还是成功总是经过精心设计的？   由   提交 /u/Perfect_Principle688   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1c1vj2r/launching_without_a_plan/</guid>
+      <pubDate>Fri, 12 Apr 2024 00:41:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>烤我的网站 Indie Hacker Stacks - 发现独立黑客使用哪些工具来构建他们的产品</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1c1pqi5/roast_my_website_indie_hacker_stacks_discover/</link>
+      <description><![CDATA[大家好！ 我很高兴向您介绍 Indie Hacker Stacks。这是我一直在开发的一个平台，可以让独立黑客发现他们的同行用来构建产品的工具。这包括数据库、分析、电子邮件服务等工具。 我意识到目前没有一个中心位置可供独立黑客分享和了解我们在项目中使用的工具，所以我决定创建一个。 我刚刚推出了该网站的第一个小型版本，我邀请您作为早期用户加入。作为回报，您将拥有一个终生免费帐户和一个展示您产品的绝佳平台！ 我们会不断添加功能改进，并在路线图上列出一个大列表，因此这将是一个令人兴奋的空间! 我很快就会进行第二轮。每个创建回避的人都会收到通知。因此，如果您希望添加一些功能，我们可以保持联系。 如果您可以尝试 Indie Hacker Stacks 并就以下内容提供反馈，我将不胜感激： • (Sub ）主页上的标题 • 入门流程（尤其是添加产品） • 网站的整体概念和实用性 • 您缺少什么/想看看 感谢您的宝贵时间！ 访问此处：indiehackerstacks.com    由   提交 /u/Bright-Vegetable8852    reddit.com/r/SideProject/comments/1c1pqi5/roast_my_website_indie_hacker_stacks_discover/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1c1pqi5/roast_my_website_indie_hacker_stacks_discover/</guid>
+      <pubDate>Thu, 11 Apr 2024 20:43:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>我自己构建了一个更便宜的 Quizlet 替代品</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1c1p13v/i_built_a_much_cheaper_replacement_for_quizlet_on/</link>
+      <description><![CDATA[所有学生可能都知道 Quizlet。对于那些不这样做的人来说，这是一个非常受欢迎的应用程序，其主要目的是教授词汇。就在最近，他们开始对基本功能收取每月 7 美元的费用。这就是我关于 TurboTerms 的想法的诞生。由于我自己也是一名学生，我知道并不是每个人都能负担得起每月 7 美元的订阅费用。这就是为什么我决定一次只充99ct。购买该应用程序的每个人都将获得新功能，而无需再次付费。经过一个月的工作终于完成了。 我的应用程序称为 TurboTerms，现已在 AppStore 上提供！我很高兴听到您的意见。 https://apps.apple.com/us /app/turboterms/id6479650868 正在处理 img zck2y7bymosc1...   由   提交 /u/TheBeaconCrafter   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1c1p13v/i_built_a_much_cheaper_replacement_for_quizlet_on/</guid>
+      <pubDate>Thu, 11 Apr 2024 20:15:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>我在色情网站上做广告的经历</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1c1hqjq/my_experience_advertising_on_porn_sites/</link>
+      <description><![CDATA[上周，我冒险投资了 200 美元在色情网站上做广告，尽管我的业务与成人内容无关。 &lt; p&gt;TLDR：我花​​了 70 美元打断了 4,632 人的色情会议。 为什么我想进行这个实验？ 这里有两种思想流派。首先，定量分析： * 30%的在线流量是色情内容。 * 70%的流量来自我的人群（18-24岁的男性）。 * 90%每次点击费用更便宜。 其次，我构建 iOS 应用的使命是让人们能够始终如一地追求健身目标。我个人的信念（这是一个有争议的话题）是，色情网站的普通用户更有可能渴望生活发生积极的变化。变得健康往往是实现这一目标的起点。 我如何做广告？ 与拥有自己广告网络的 Meta 或 Google 不同，我在色情网站上做广告您需要使用第三方网络。我选择 ExoClick 进行广告分发，因为它们已经成熟并提供有吸引力的定位和重定向机制。我为所有广告变体选择了横幅广告，主要是因为设计非常耗时，而且我希望统一以简化流程。 我的广告效果如何？ 一些重要信息前言：我只了解广告策略和优化的基础知识。最初的前期投资为200美元；但是，我在花费 70 美元后暂停了所有广告（您很快就会明白原因）。 在投入 70 美元后，我获得了 100 万次展示、4,906 次点击和 2 次下载。 来自一开始，我对展示次数印象深刻，点击率告诉我我的广告引起了人们的兴趣。我对此很满意，所以我让它们继续运行，而不是暂停和重新设计。然而，几天过去了，点击次数和下载次数之间出现了显着的差异。通常，这意味着转化渠道不好；您将潜在客户重定向到一个使他们失去兴趣的页面。我只向 iPhone 用户展示我的广告，我的重定向将他们直接带到 App Store 页面。虽然该应用程序仍处于起步阶段，但我得到了良好的评论，而且其宣传清晰简洁。所以，混乱就开始了。我想，“还有什么比把用户直接带到 App Store 更好的呢？”。我可以切换内容并重定向到我的登陆页面，但不可否认，它首先需要做一些工作。 这里是真正有趣的部分：直接进入 App Store 的 4,906 次点击应该意味着我的 App Store 展示次数约为 4,906那个时间段，但数字仅为 274。 想法和评估 这 274 次展示比我每天的平均 30-40 次显着上升，而且我并没有在另一个平台上运行任何并行活动。我知道通过广告来到我的 App Store 页面的人已经被注册。我可以解释增量的唯一方法是潜在客户在处理业务时意外点击我的广告并快速离开重定向的情况。 Relate 对意外横幅广告点击的调查显示，预计意外点击高达 60%。 我绝不是专家，很可能犯了错误/错过了更好地优化事情的方法。然而，到目前为止，我从所有这一切中得到的结论是，色情网站上的广告点击量很大一部分是意外的。这可能是由于它们以垃圾邮件的方式呈现给网站用户。 总而言之，我花了 70 美元打断了 4,632 人的色情会话（假设这 274 人是无法刷卡的人）足够快）。   由   提交 /u/Mean_Instruction3753   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1c1hqjq/my_experience_advertising_on_porn_sites/</guid>
+      <pubDate>Thu, 11 Apr 2024 15:20:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们讨厌语音笔记，因此我们创建了 WhatsApp 语音笔记到文本转换器</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1c1epy3/we_hate_voice_notes_so_we_created_a_whatsapp/</link>
+      <description><![CDATA[       由   提交 /u/usevoicenope   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1c1epy3/we_hate_voice_notes_so_we_created_a_whatsapp/</guid>
+      <pubDate>Thu, 11 Apr 2024 13:12:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>我构建了一个免费扩展程序，可以从您的 Google 搜索中删除不需要的网站（例如 Quora.com）</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1c1aahi/i_built_a_free_extension_to_remove_unwanted_sites/</link>
+      <description><![CDATA[       由   提交/u/thegoenning  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1c1aahi/i_built_a_free_extension_to_remove_unwanted_sites/</guid>
+      <pubDate>Thu, 11 Apr 2024 08:52:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>经过 1.5 年的开发，我在两周前发布了我的副项目</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1c182sv/i_released_my_side_project_2_weeks_ago_after_15/</link>
+      <description><![CDATA[在过去几年的生活中经历了很多起起落落之后，我终于成功发布了一个我一直在做的副项目两年。 这是一个发票 API，您可以将其集成到任何应用程序中，它会生成动态且可自定义的发票，其中包括付款链接，以便您的客户可以更轻松、更快速地向您付款。  过去一年我为此付出了很多努力，因为我的朝九晚五的工作让我筋疲力尽。我曾在下班后、周​​末、公共假期等工作。但我终于可以说它“发布”了，感觉很棒。我说带引号发布是因为开发还没有结束。我计划添加数十个独特的模板、一个在线发票生成器，这样不仅开发人员可以使用该平台，还有其他一些东西。我长期致力于此，并且我 100% 致力于让这个应用程序取得成功。 让我知道您的想法！ https://invoicingapi.com   由   提交/u/beaver316  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1c182sv/i_released_my_side_project_2_weeks_ago_after_15/</guid>
+      <pubDate>Thu, 11 Apr 2024 06:24:06 GMT</pubDate>
+    </item>
+    </channel>
+</rss>

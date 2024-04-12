@@ -2,9 +2,9 @@
 <rss version="2.0">
   <channel>
     <title>Product Hunt——每天最好的新产品</title>
-    <link>http://www.producthunt.com</link>
+    <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Fri, 12 Apr 2024 09:13:42 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Apr 2024 10:17:19 GMT</lastBuildDate>
     <item>
       <title>燕尾魔法</title>
       <link>https://www.producthunt.com/posts/dovetail-magic</link>
@@ -18,20 +18,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/dovetail-magic</guid>
       <pubDate>Thu, 11 Apr 2024 22:07:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>超级场景7</title>
-      <link>https://www.producthunt.com/posts/superscene-7</link>
-      <description><![CDATA[
-            最潮流3D插画构造器大更新
-          
-
-讨论&lt; /a&gt;
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/superscene-7</guid>
-      <pubDate>Thu, 11 Apr 2024 21:17:06 GMT</pubDate>
     </item>
     <item>
       <title>坎帕纳</title>
@@ -60,6 +46,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/chapter-one-ai</guid>
       <pubDate>Thu, 11 Apr 2024 20:33:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>赌注</title>
+      <link>https://www.producthunt.com/posts/stake-4</link>
+      <description><![CDATA[
+            初创企业的股权专家
+          
+
+讨论&lt; /a&gt;
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/stake-4</guid>
+      <pubDate>Thu, 11 Apr 2024 18:42:07 GMT</pubDate>
     </item>
     <item>
       <title>获取我的作品集</title>
@@ -146,18 +146,18 @@
       <pubDate>Thu, 11 Apr 2024 00:44:08 GMT</pubDate>
     </item>
     <item>
-      <title>谷歌轴子</title>
-      <link>https://www.producthunt.com/posts/google-axion</link>
+      <title>埃尔布特</title>
+      <link>https://www.producthunt.com/posts/erbut</link>
       <description><![CDATA[
-            Google 首款专为数据中心设计的基于 Arm 的定制 CPU
+            简单、优雅，永远属于您！
           
 
-讨论&lt; /a&gt;
+讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/google-axion</guid>
-      <pubDate>Thu, 11 Apr 2024 00:27:09 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/erbut</guid>
+      <pubDate>Thu, 11 Apr 2024 00:22:29 GMT</pubDate>
     </item>
     <item>
       <title>API巡检</title>
@@ -188,18 +188,18 @@
       <pubDate>Tue, 09 Apr 2024 12:45:54 GMT</pubDate>
     </item>
     <item>
-      <title>人性化我</title>
-      <link>https://www.producthunt.com/posts/humanizer-me</link>
+      <title>珀斯皮克</title>
+      <link>https://www.producthunt.com/posts/perspik</link>
       <description><![CDATA[
-            用您的声音构建未来
+            一个社交讨论平台
           
 
-讨论&lt; /a&gt;
+讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/humanizer-me</guid>
-      <pubDate>Tue, 09 Apr 2024 09:51:37 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/perspik</guid>
+      <pubDate>Tue, 09 Apr 2024 10:25:35 GMT</pubDate>
     </item>
     <item>
       <title>相关文档</title>
