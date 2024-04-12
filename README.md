@@ -5,3 +5,7 @@
 ## Translation source converted
  - source001 [https://www.reddit.com/r/SideProject/new.rss](https://www.reddit.com/r/SideProject/new.rss) -> [reddit-sideproject](rss/reddit-sideproject.xml)
  - source001 [https://www.reddit.com/r/SideProject/new.rss](https://www.reddit.com/r/SideProject/new.rss) -> [reddit-sideproject](rss/reddit-sideproject.xml)
+ - source001 [https://www.reddit.com/r/SideProject/new.rss](https://www.reddit.com/r/SideProject/new.rss) -> [reddit-sideproject](rss/reddit-sideproject.xml)
+ - source002 [https://www.producthunt.com/feed](https://www.producthunt.com/feed) -> [ProductHunt](rss/ProductHunt.xml)
+ - source001 [https://www.reddit.com/r/SideProject/new.rss](https://www.reddit.com/r/SideProject/new.rss) -> [reddit-sideproject](rss/reddit-sideproject.xml)
+ - source002 [https://www.producthunt.com/feed](https://www.producthunt.com/feed) -> [ProductHunt](rss/ProductHunt.xml)
