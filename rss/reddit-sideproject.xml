@@ -4,13 +4,62 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个 Reddit 子版块，用于分享和接收有关副项目的建设性反馈。</description>
-    <lastBuildDate>Sun, 14 Apr 2024 07:53:27 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 14 Apr 2024 11:18:51 GMT</lastBuildDate>
     <item>
-      <title>在 FutureAPIs.com 上轻松发现和共享 API</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1c3o5uh/discover_and_share_apis_easily_on_futureapiscom/</link>
-      <description><![CDATA[我推出了 FutureAPIs.com，以简化项目或初创公司的 API 查找和推广过程。检查一下并让我知道您的想法以帮助改进它！ FutureAPIs.com    由   提交/u/plentyy341   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1c3o5uh/discover_and_share_apis_easily_on_futureapiscom/</guid>
-      <pubDate>Sun, 14 Apr 2024 07:52:13 GMT</pubDate>
+      <title>图灵眼图片| AI检测工具网站。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1c3qqi5/turing_eye_pics_ai_detector_tool_website/</link>
+      <description><![CDATA[你好。我使用 Hugginface 上提供的模型制作了图像 AI 检测器和文本 AI 检测器。我是软件开发新手，我将其作为一种爱好。我对CSS知识很少。我以前从未做过设计。你认为我可以对外表做出哪些改变？我正在等待您的评论。 网站：https://www.turingeyepics.com/   由   提交/u/Famous-Asuction-93   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1c3qqi5/turing_eye_pics_ai_detector_tool_website/</guid>
+      <pubDate>Sun, 14 Apr 2024 10:47:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>我刚刚制作了一个开源的一体式 IP 工具箱</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1c3qow1/i_just_made_an_open_sourced_allinone_ip_toolbox/</link>
+      <description><![CDATA[大家好！我很高兴与大家分享我最新的开源项目“MyIP”。 - 用于管理和了解互联网连接的一体化解决方案。该工具在构建时考虑到了简单性和效率，非常适合开发人员、技术爱好者或任何对在线形象感兴趣的人。您可以通过最少的设置轻松地将其部署在您自己的服务器上。  在 GitHub 上查看：https://github.com/jason5ng32/MyIP 主要功能包括：  查看您的 IP：使用多个 IPv4 和 IPv6 源检测您的本地和外部 IP。  IP 信息：提供任何 IP 地址的详细信息，包括国家、地区、ASN 和地理位置。 可用性检查： strong&gt; 测试对 Google、GitHub、YouTube、ChatGPT 等网站的可访问性。 WebRTC 检测：识别 WebRTC 连接期间使用的 IP 地址。 DNS 泄漏测试：评估使用 VPN 或代理时 DNS 泄漏的风险。 速度测试：测量通过各种边缘网络的网络速度。  代理规则测试：验证代理软件设置的正确性。 全局延迟测试：测量跨服务器的延迟 MTR 测试：结合 Traceroute 和 ping 来提供网络诊断。 DNS 解析器：执行域名解析来自多个来源进行污染检查。 深色模式：根据系统设置在浅色和深色模式之间自动切换，并提供手动切换选项。 &lt; 极简模式：精简版，缩短页面长度，以便快速访问。 搜索IP信息：允许查询任何IP地址的详细信息。 搜索IP信息： li&gt; 支持 PWA： 可以作为桌面应用程序安装在手机上，也可以作为 Chrome 应用程序安装在计算机上。 键盘快捷键： 支持所有功能快捷方式，轻松访问。 全球互联网接入指标：根据测试结果表明全球互联网接入的可行性。 多-语言支持：提供英语、中文和法语版本。  这是一个开源项目，我期待您的贡献和反馈，以帮助制作 MyIP对每个人都更有用。让我们合作并增强其能力！   由   提交/u/jason5ng32  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1c3qow1/i_just_made_an_open_sourced_allinone_ip_toolbox/</guid>
+      <pubDate>Sun, 14 Apr 2024 10:45:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻求反馈：作为独立开发者构建 OgtAI (https://ogt.ai)（另一个 GPT 包装器）</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1c3qoc9/seeking_feedback_building_ogtai_httpsogtai_yet/</link>
+      <description><![CDATA[您好/r/SideProject社区，  我已经踏上了独立开发之旅，以创建我真正热衷的东西 - OgtAI。作为一名孤独的开发人员，每一行代码、设计选择和功能都是个人决定，我终于准备好与了解副项目价值的社区分享它。 关于 OgtAI： 从本质上讲，OgtAI 是一个旨在通过人工智能增强创意和分析任务。到目前为止，我开发的功能允许用户：  生成图像：将文本提示转换为令人惊叹的图像。非常适合艺术家、内容创作者或任何需要视觉灵感的人。 与媒体互动：从 YouTube 视频、网页和各种媒体格式中分析并获取见解，从而使数字内容的消费更具吸引力和信息量。 全面的媒体环境：超越传统媒体，OgtAI旨在通过人工智能驱动的方法为分析文档（PDF、DOCX、PPTX）、电子表格甚至 JSON 数据提供身临其境的体验。  我为什么在这里：  我不只是在寻找用户；我也在寻找用户。我正在寻找合作者、反馈和一些指导。构建 OgtAI 是一段个人成长和技术挑战的旅程，现在，我需要您的见解来让它变得更好。  您认为哪些功能最吸引人？ 如何改善用户体验以更好地满足您的需求？ &lt; li&gt;您认为有哪些功能缺失或可以增强吗？  ​ 特别优惠： 立即注册并赚取 1 美元积分，开始您的 OgtAI 之旅。 加入对话： 如果您有兴趣探索 OgtAI 或者只是想帮助其他开发人员，我邀请您可以深入探讨并分享您的想法。您可以直接在 Discord、GitHub 上或通过下面列出的任何联系人联系。每一条反馈都是让 OgtAI 为每个人提供更好服务的垫脚石。  电子邮件： [support@ogt.ai](mailto:support@ogt.ai) | [contact@ogt.ai](mailto:联系人@ogt.ai)  期待您的反馈， https:/ /ogt.ai   由   提交 /u/EasyMushroom3649   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1c3qoc9/seeking_feedback_building_ogtai_httpsogtai_yet/</guid>
+      <pubDate>Sun, 14 Apr 2024 10:44:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻求反馈：作为独立开发者构建 OgtAI（另一个 GPT 包装器）</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1c3qkqa/seeking_feedback_building_ogtai_yet_another_gpt/</link>
+      <description><![CDATA[    /u/EasyMushroom3649    [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1c3qkqa/seeking_feedback_building_ogtai_yet_another_gpt/</guid>
+      <pubDate>Sun, 14 Apr 2024 10:37:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>FoundIt - 找到合适的人才来颠覆您的想法</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1c3pzfx/foundit_find_the_right_talent_to_confound_your/</link>
+      <description><![CDATA[我想到了一个潜在的网络应用程序，人们可以在这里找到他们想要创业的行业中的技术人员、开发人员设计师和任何技能的人都可以拥有自己的个人资料，包括工作示例、评级等；用户能够建立一个团队，与适合该工作的人员一起创建自己的业务，有什么想法？   由   提交/u/lewisjb33  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1c3pzfx/foundit_find_the_right_talent_to_confound_your/</guid>
+      <pubDate>Sun, 14 Apr 2024 09:56:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>ReadReviews.dev：一个方便的工具，可以使情感分析变得更容易。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1c3ptyu/readreviewsdev_a_handy_tool_to_make_sentimental/</link>
+      <description><![CDATA[tl;dr  添加任何 iOS 应用程序、加载评论并通过 GPT 运行它- 4 进行分析并提取关键痛点、需要改进的地方等。 非常适合监视您的竞争对手、研究任何市场或学习如何改进您的产品 -- - 您问的情感分析是什么？  情感分析是分析数字文本以确定消息的情感基调是否存在的过程。是积极的、消极的还是中性的。  为什么使用这样的工具？  从自己和竞争对手的错误中学习。  让您的研究更加轻松。  帮助您打造更好的产品。  更好地了解您的受众。  ​ 还有比客户本人更了解客户需求的来源吗？研究和获取知识的方法有很多。  ​ 阅读评论就是其中之一。现在，由于人工智能，这个过程变得比以往任何时候都容易。 ReadReviews.dev  演示视频： https://twitter.com/filippkowalski/status/1774769280413757879  &lt; /div&gt;  由   提交/u/mdfk_13  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1c3ptyu/readreviewsdev_a_handy_tool_to_make_sentimental/</guid>
+      <pubDate>Sun, 14 Apr 2024 09:45:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>专为科技专业的学生打造！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1c3ppz9/exclusively_for_students_in_tech/</link>
+      <description><![CDATA[大家好，我最近创建了这个网站，用于列出所有机会，无论是学生项目、导师奖学金还是女性项目。 目前我已经添加了 16 个这样的程序，并尝试每天添加更多。数据将根据正在进行的项目每周更新。我正在积极为学生研究更多此类计划 ​ 欢迎任何反馈，如果我的数据有误或类似情况，请告诉我  如果你喜欢它，请查看 github 的页脚并为我加注星标  ​ 请查看：https://www.stacksaway.tech/   由   提交/u/yeonw  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1c3ppz9/exclusively_for_students_in_tech/</guid>
+      <pubDate>Sun, 14 Apr 2024 09:38:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>烤我的副业项目</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1c3pmza/roast_my_side_project/</link>
+      <description><![CDATA[https://www.stacksaway.tech/    由   提交/u/yeonw  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1c3pmza/roast_my_side_project/</guid>
+      <pubDate>Sun, 14 Apr 2024 09:32:24 GMT</pubDate>
     </item>
     <item>
       <title>我建立了一个免费的在线人工智能二维码生成器</title>
@@ -41,7 +90,7 @@
       <pubDate>Sun, 14 Apr 2024 07:07:56 GMT</pubDate>
     </item>
     <item>
-      <title>嘿伙计们，请烤一下我的作品集</title>
+      <title>嘿伙计们，请烤我的投资组合</title>
       <link>https://www.reddit.com/r/SideProject/comments/1c3n9wo/hey_guys_please_roast_my_portfolio/</link>
       <description><![CDATA[我的作品集链接：🔗 https://rohitdasu.dev &lt; /p&gt;   由   提交 /u/Nerd-Mard   /u/Nerd-Mard  reddit.com/r/SideProject/comments/1c3n9wo/hey_guys_please_roast_my_portfolio/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1c3n9wo/hey_guys_please_roast_my_portfolio/</guid>
@@ -60,55 +109,6 @@
       <description><![CDATA[ 由   提交/u/Harsh2Vyas   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1c3mwgv/free_landing_page_service/</guid>
       <pubDate>Sun, 14 Apr 2024 06:29:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>我列出了一些对商业有用的人工智能应用程序/工具。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1c3m0k6/i_made_a_list_of_helpful_ai_appstools_for_business/</link>
-      <description><![CDATA[https://billionAI.co 我目前正在填充列表，其中 80% 的项目是我个人使用/曾经使用过的。 😅 现在我需要“外部”的眼光/评论 - 看看它是否真的对人们有帮助。 感谢您的宝贵时间。    由   提交 /u/UXHelpline   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1c3m0k6/i_made_a_list_of_helpful_ai_appstools_for_business/</guid>
-      <pubDate>Sun, 14 Apr 2024 05:33:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sentinel - 用 Python 构建的数字取证工具</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1c3l2qy/sentinel_a_digital_forensics_tool_built_in_python/</link>
-      <description><![CDATA[大家好！我目前正在开发一个名为 Sentinel 的工具。最初打算成为著名取证操作系统的一部分，我决定作为目前唯一的开发人员继续该项目。 Sentinel 是一款用于调查协助的一体化工具，从 API 利用到编译数据。该工作仍在进行中，但请随时查看此处的 GitHub 页面。 Sentinel 具有许多功能，从 IP 跟踪到 Virustotal 扫描，所有这些功能都可以在您的终端上实现！ 在此处查看 Sentinel！ 在此处查看 Sentinel！ a&gt;   由   提交/u/TheMaestro810   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1c3l2qy/sentinel_a_digital_forensics_tool_built_in_python/</guid>
-      <pubDate>Sun, 14 Apr 2024 04:35:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>这份报告看起来如何？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1c3kbg0/how_does_this_report_look/</link>
-      <description><![CDATA[嗨，Reditter 我目前正在构建一个工具，帮助处于创意阶段的企业家/骗子快速验证他们的想法。当然，这不是您需要的唯一验证，而是一个好的开始。 作为其中的一部分，我正在构建一个 报告屏幕，以提供有关活动完成后其活动效果的结果。 请分享您对此的反馈寻找初学者。 报告屏幕链接。  上下文： 活动：注册 MVPTester.com 的用户创建活动、设定目标并定义活动运行的时间表。 ​ ​   由   提交/u/thearunkumar   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1c3kbg0/how_does_this_report_look/</guid>
-      <pubDate>Sun, 14 Apr 2024 03:50:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们推出了轮班跟踪应用程序 MVP。欢迎所有反馈！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1c3k3jq/we_launched_our_shift_tracking_app_mvp_all/</link>
-      <description><![CDATA[   查看我们的 GitHub 提交，我们于今年 1 月 27 日启动了这个项目，作为一种排序给自己一点动力去完成个人项目的挑战。我们是两个朋友，他们喜欢从事独立应用程序项目，但希望稍微放松一下，推出一个半成品 MVP，以便再次发挥作用。 选择项目的灵感是为了帮助我看到我自己的母亲和朋友作为护士试图管理他们的工作日程所经历的痛苦。由于这是 MVP，更多更新正在进行中，但希望从其他志同道合的人那里获得一些反馈。 链接   由   提交/u/rocky_tower  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1c3k3jq/we_launched_our_shift_tracking_app_mvp_all/</guid>
-      <pubDate>Sun, 14 Apr 2024 03:37:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>15pages.com - 一项帮助创建和组织视觉上令人惊叹的读书笔记的服务</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1c3jzcp/15pagescom_a_service_that_helps_create_and/</link>
-      <description><![CDATA[      🚀📚 15 页 - https ://www.15pages.com/ 我找不到可以通过单击按钮方便地可视化我的读书笔记的服务，所以我做了这个。创建书架并将您的书籍保存到其中。跟踪阅读状态，创建评论，然后开始收集笔记（引用、摘要、想法、问题或常识）。 连接到 Unsplash API 以获取书架和笔记图像，并连接到 Open Library 以进行所有图书搜索. 欢迎任何反馈或改进想法！接下来我将开始实施人工智能功能，根据之前的评分推荐下一篇阅读内容。 创建和管理书架 查找图书（开放图书馆 API） 选择您的版本并添加到您的书架之一 &lt; p&gt;整理书籍 跟踪笔记 &lt; p&gt;添加和编辑注释 https://preview.redd.it/5j2pshty0euc1 .png?width=1510&amp;format=png&amp;auto=webp&amp;s=0e29e5244c3f290f198b8eb29d37959d5cb88db2 可视化笔记 https://preview.redd.it/o9ae8jl91euc1.png?width=1377&amp;format =png&amp;auto=webp&amp;s=5d26a336cca538fc0ef5efe68cca44c174bd2b21 用于获取笔记和书架图像的 Unsplash API 发布评论并跟踪状态 https://www.15pages.com   由   提交/u/sometimearoundmidnig   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1c3jzcp/15pagescom_a_service_that_helps_create_and/</guid>
-      <pubDate>Sun, 14 Apr 2024 03:30:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找职能经理对新的 Slack 应用程序进行 Beta 测试</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1c3j5mm/seeking_people_managers_to_beta_test_a_new_slack/</link>
-      <description><![CDATA[嗨！ 您是一名职能经理或者您认识吗？ 我的 Slack 应用程序， Agendaful 现已处于内测阶段，我希望吸引一些测试版用户。 Agendaful 帮助管理者他们的直接下属直接在 Slack 中创建协作式 1:1 会议议程。我已经为该应用程序创建了 MVP，并且希望让一些真正的人使用它，这样我就可以继续获得有关它的反馈并为其添加新功能。 如果您有兴趣，请留言我。我很高兴与您安排一次演示通话。 如果您认识可能对此感兴趣的人，请将此消息传递给他们。 我希望 Agendaful 能够提供帮助经理和他们的直接下属专注于他们在一起的时间里真正重要的事情，并促进积极的改变和成长。 谢谢，我真的很感激！ 🙏🏼 ​   由   提交 /u/davidfwct   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1c3j5mm/seeking_people_managers_to_beta_test_a_new_slack/</guid>
-      <pubDate>Sun, 14 Apr 2024 02:43:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>我开发了一款名为 Favs 的应用程序来捕捉个性化的生活瞬间</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1c3ivgk/i_built_an_app_called_favs_to_capture_lifes/</link>
-      <description><![CDATA[      我构建了一款名为 Favs 的应用程序，可让您创建个性化页面来记录您的热情 - 从旅行冒险到珍贵的回忆。使用您自己的风格自定义每个页面，并使用多媒体元素增强您的条目。 Favs 是提升您记笔记体验并保留最重要时刻的完美工具。 请尝试一下：https://apps.apple.com/us/app/favs-save-your-favorites/id6479577811?platform=iphone ​ ​ https://preview.redd.it/knqgz 0envcuc1.png?width=1920&amp;format=png&amp;auto=webp&amp;s=9ebaa6a735cac8771abaa0e30fe5aba6c31f5因为 &lt; p&gt;​   由   提交/u/xiongshi8080  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1c3ivgk/i_built_an_app_called_favs_to_capture_lifes/</guid>
-      <pubDate>Sun, 14 Apr 2024 02:27:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
