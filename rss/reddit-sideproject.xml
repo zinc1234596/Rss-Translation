@@ -4,7 +4,49 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个 Reddit 子版块，用于分享和接收有关副项目的建设性反馈。</description>
-    <lastBuildDate>Sat, 13 Apr 2024 21:09:39 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 14 Apr 2024 01:11:20 GMT</lastBuildDate>
+    <item>
+      <title>有人有兴趣合作开发和发行新的棋盘游戏吗？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1c3h808/anyone_interested_in_partnering_to_develop_and/</link>
+      <description><![CDATA[我设计了一个新词/演绎/派对游戏并且愿意与热爱棋盘游戏并想要建立和经营业务的人合作。如果您位于DMV 就更好了😊。    由   提交 /u/WiseOrchid9982   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1c3h808/anyone_interested_in_partnering_to_develop_and/</guid>
+      <pubDate>Sun, 14 Apr 2024 00:59:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国体育的简单网站（记分牌、赛程表等）。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1c3g4ul/simple_website_for_usa_sports_scoreboard_schedule/</link>
+      <description><![CDATA[一个简单的网站，显示 NFL、MLB、MLS、NHL 的赛程表、比分和即将举行的比赛。这是我的第一个真正的项目，仍在学习中。自从我上一篇文章以来，我正在将其转换为体育记分板网站，所以体育场天气有点过时了哈哈。该网站不需要注册。人们可以将其保存为书签并查看当天的比赛。 我想分享我一直在从事的一个令人兴奋的项目，Stadium-Weather.com。作为一名铁杆体育迷，我经常发现自己忙着分别查看比赛日程和天气预报。就在那时，我决定为所有与比赛日相关的事情创建一个一站式中心。这是我第一次访问 API 并自己为前端进行改造。 Stadium-Weather.com 是什么？  📅 &lt;强&gt;完整的比赛时间表：决不会错过 NFL、MLS、NHL 和 MLB 比赛的开球或第一场比赛（在赛季中）。 您可以创建一个帐户，并收藏您的团队，因此它会显示在列表的第一位！我不太确定我还会向注册用户添加什么（也许比赛开始时会发出通知？） 🌦️ 实时天气更新： 显示比赛当天的天气主队的体育场，因此这可以帮助您做出理想的选择。目前，这仅适用于 MLB 比赛。  我几个月前发布了此内容，但此后我重新设计了该页面，并添加了更多体育项目。我很想听听是否有人有任何具体的建议或他们希望看到的功能。   由   提交 /u/Old-Injury1973    reddit.com/r/SideProject/comments/1c3g4ul/simple_website_for_usa_sports_scoreboard_schedule/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1c3g4ul/simple_website_for_usa_sports_scoreboard_schedule/</guid>
+      <pubDate>Sun, 14 Apr 2024 00:05:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>职业转变研究项目...我如何利用 Python 探索并（可能）改变我的 SEO 职业 (X-post)</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1c3eg83/career_change_research_projecthow_im_leveraging/</link>
+      <description><![CDATA[我希望允许在此发布此项目，因为这是一个关于改变我的职业道路的副项目。 虽然我虽然我在就业市场上并不活跃，但我确实认为有必要探索可能的职业转型，因为人工智能的性质、它在 3-5 年内如何改变搜索引擎（我的主观信念）以及最近裁员的性质。因此，我创建了这个项目，使用无监督机器学习来寻找可能的相关职业。如果 SEO 不再可行。 我写了这篇 Medium 文章，首先介绍了我为什么开始有这种感觉，然后展示了我如何利用 OpenAI 的 API 的技术教程，然后展示了由此产生的类似职业可能是可行的过渡候选人。 文章链接： 我如何使用嵌入和余弦相似度来探索我的（可能的）SEO 职业转型 I也希望这是一本有趣且富有洞察力的读物。我认为它对于任何其他想要使用某种数据驱动方法来探索职业变化的人来说都是有用的。   由   提交/u/thetrexx  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1c3eg83/career_change_research_projecthow_im_leveraging/</guid>
+      <pubDate>Sat, 13 Apr 2024 22:47:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>我全职工作，在三周内构建了一个大脑训练应用程序，很想听听您的想法！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1c3dh53/working_full_time_i_built_a_brain_training_app_in/</link>
+      <description><![CDATA[   /u/taiomi  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1c3dh53/working_full_time_i_built_a_brain_training_app_in/</guid>
+      <pubDate>Sat, 13 Apr 2024 22:03:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个可以轻松将博客转换为 EPUB 的工具 - 感谢反馈！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1c3ctdn/i_made_a_tool_to_easily_convert_blogs_to_epub/</link>
+      <description><![CDATA[大家好！我构建了一个名为 Blog to EPUB 的工具，可以轻松地将博客文章转换为 EPUB 格式。 请访问 https: //blog2epub.vercel.app/ 我希望得到一些反馈！ 提前致谢！   由   提交 /u/exponentyl   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1c3ctdn/i_made_a_tool_to_easily_convert_blogs_to_epub/</guid>
+      <pubDate>Sat, 13 Apr 2024 21:34:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了一个更加“禅宗”的 YouTube</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1c3cn1u/i_created_a_more_zen_youtube/</link>
+      <description><![CDATA[   您好， 我总是找到推荐的视频和主页光是面部表情缩略图就让人分心。另外，即使我订阅了某些频道，其他频道也会以各种方式出现在我的提要上，他们只是希望您继续滚动。 所以我构建了这个应用程序 - ZenTube。  p&gt; 基本上，这是一个无干扰的 YouTube。 它仅显示您添加的频道，不显示其他内容。 您可以对它们进行分类和排序。&lt; /p&gt; 所以如果我想查看编码频道，我点击编码类别，它就会只显示我订阅的编码频道。 到目前为止我很喜欢它，该怎么办你觉得呢？ https://itunes.apple.com/ WebObjects/MZStore.woa/wa/viewSoftware?id=6480412927 https://preview.redd.it/21od80gv dbuc1.png?width=750&amp;format=png&amp;auto=webp&amp;s=eb2ba9e2cbed05849800436451790de61479e ca3  https://preview.redd.it/mk0z6xfvdbuc1.png？ width=750&amp;format=png&amp;auto=webp&amp;s=e4383e12bf23bfb1bde5b33d8dba72a843ccd184   由   提交 /u/HonestNest   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1c3cn1u/i_created_a_more_zen_youtube/</guid>
+      <pubDate>Sat, 13 Apr 2024 21:26:22 GMT</pubDate>
+    </item>
     <item>
       <title>刚刚在 RapidAPI 上发布了我的第一个 API：批量域可用性检查器 🎉</title>
       <link>https://www.reddit.com/r/SideProject/comments/1c3bg46/just_dropped_my_first_api_on_rapidapi_bulk_domain/</link>
@@ -67,48 +109,6 @@
       <description><![CDATA[    &lt; /a&gt;   由   提交/u/the_snow_princess  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1c37q4j/ai_code_interpreter_with_anthropic_tool_calling/</guid>
       <pubDate>Sat, 13 Apr 2024 17:51:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>想要以非母语人士的身份写日记，最终开发了一个 AI 日记应用程序</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1c37dr2/wanted_to_journal_as_a_nonnative_speaker_ended_up/</link>
-      <description><![CDATA[大家好，我想分享一个我一直在做的副项目，名为 AI Voice Journal。与这里的一些令人惊叹的项目相比，它可能看起来很不起眼，但这对我来说是一次巨大的个人旅程。 这就是我构建它的原因：  我的女儿今年出生了，我想要一种写日记的方式。但我的打字速度很慢，而且作为一个非英语母语人士，我很难清楚地表达自己的想法。 我想要一个应用程序，可以帮助我记日记、提高英语水平，甚至编译我的文章。将想法分解成书  所以，我自己建造了它。我不是软件工程师，没有应用程序开发经验。但我对自己所取得的成就感到非常兴奋。该应用程序超出了我的预期！我用它与人合着了几本书，您可以在这里查看：AI 语音日记书籍。 &lt; p&gt;您可以在App Store下载该应用：AI语音日记。 我非常感谢您为像我这样的新手应用程序开发人员提供的任何反馈或提示！   由   提交 /u/ShyElk84   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1c37dr2/wanted_to_journal_as_a_nonnative_speaker_ended_up/</guid>
-      <pubDate>Sat, 13 Apr 2024 17:36:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 dossier.pw 上烤我的登陆页面！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1c36wsd/roast_my_landing_page_at_dossierpw/</link>
-      <description><![CDATA[您好！ 我已经构建了一项服务，可以连接来自不同来源的所有文档，然后允许工程师和支持代理用自然语言查询！它还会促使工程师在发出拉取请求时创建和更新文档。 请在 https://dossier 上烘烤我的登陆页面。密码。我渴望让它变得更好！ 如果您在一个可能从中受益的组织工作，也请告诉我！我们目前正在筹集资金。   由   提交 /u/workbooksforadults   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1c36wsd/roast_my_landing_page_at_dossierpw/</guid>
-      <pubDate>Sat, 13 Apr 2024 17:15:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>每个 SaaS 都需要的全新超快速、美观且符合 GDPR 的分析工具！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1c36obe/new_superfast_awesomelooking_and_gdprcompliant/</link>
-      <description><![CDATA[   /u/Low-Limit-2160   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1c36obe/new_superfast_awesomelooking_and_gdprcompliant/</guid>
-      <pubDate>Sat, 13 Apr 2024 17:04:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>我在 2024 年做了一个 ChatGPT 包装器。烤我吧。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1c36ktw/i_made_a_chatgpt_wrapper_in_2024_roast_me/</link>
-      <description><![CDATA[我建立了一个网站，可让您将 YouTube 烹饪视频转换为食谱，其中包含分步说明、成分列表等。它使用 OpenAI api  我知道 ChatGPT 包装器在 2024 年并不是突破性的，但我认为它解决了一个真正的问题，即必须不断倒带、观看 50 个不可跳过的广告（感谢 YouTube）并拿到手机做饭时屏幕脏了。 它完全免费试用，但需要少量订阅才能使用一些高级功能。 有人真的会使用这个吗？烤我吧。   由   提交 /u/DrSteelfist   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1c36ktw/i_made_a_chatgpt_wrapper_in_2024_roast_me/</guid>
-      <pubDate>Sat, 13 Apr 2024 17:00:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>对我的项目的反馈</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1c36h0d/feedback_for_my_project/</link>
-      <description><![CDATA[    &gt; &lt; td&gt; 大家好，过去几个月我一直在研究一些东西，并发布了它。 并且会我真的很想从你们那里得到一些关于我可以做些什么来让它变得更好的见解。 目前仅适用于 Android，在 Playstore 上，提前感谢...   由   提交/u/Inknown-Date-355   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1c36h0d/feedback_for_my_project/</guid>
-      <pubDate>Sat, 13 Apr 2024 16:55:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>您的用户中有多少比例选择终身购买？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1c36fie/what_percentage_of_your_users_choose_lifetime/</link>
-      <description><![CDATA[大家好，如果您向用户提供一次性无限制购买选项。除此之外，还有其他类型的订阅，例如按月或按年。您的客户中有多少比例选择终身选项？  我有一个带有按月和按年订阅选项的 iOS 应用程序，最近收到来自多个潜在用户的消息，如果我能提供终身购买选项，那就太好了。  如果您愿意详细说明终身购买的性能和盈利能力，我们将不胜感激。  &amp;# 32；由   提交 /u/emrepun   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1c36fie/what_percentage_of_your_users_choose_lifetime/</guid>
-      <pubDate>Sat, 13 Apr 2024 16:53:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
