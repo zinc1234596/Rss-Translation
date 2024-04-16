@@ -4,7 +4,35 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个 Reddit 子版块，用于分享和接收有关副项目的建设性反馈。</description>
-    <lastBuildDate>Tue, 16 Apr 2024 03:14:31 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Apr 2024 06:15:39 GMT</lastBuildDate>
+    <item>
+      <title>对于那些在您的网站上投放广告的人，您使用什么服务？为什么？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1c58un4/for_those_who_run_ads_on_your_website_what/</link>
+      <description><![CDATA[ 由   提交/u/the_grayhorse  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1c58un4/for_those_who_run_ads_on_your_website_what/</guid>
+      <pubDate>Tue, 16 Apr 2024 06:04:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的印象增加了 98%，个人资料访问量增加了 520%，并在 Twitter 上获得了 125 个新关注者。如何？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1c57jps/my_impressions_went_up_by_98_profile_visits/</link>
+      <description><![CDATA[我在 Twitter 上写下了关于我的印象数如何提高 98%、个人资料访问量如何跃升 520%、以及如何在 Twitter 上获得 125 个新关注者的所有内容，请参见 周一营销。请读一读。   由   提交 /u/wadpreneur   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1c57jps/my_impressions_went_up_by_98_profile_visits/</guid>
+      <pubDate>Tue, 16 Apr 2024 04:45:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>为所有平台生成 Firestore 类型定义的 CLI 工具</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1c57gnh/a_cli_tool_that_generates_firestore_type/</link>
+      <description><![CDATA[大家好 :) 很高兴与大家分享我一直在开发的一款名为 Typesync 的工具，我希望它能让使用 Firestore 的开发人员的生活变得更轻松。&lt; /p&gt; 在使用 Firestore 数据库时，开发人员经常面临在不同平台之间保持类型定义同步的挑战。无论您使用 TypeScript、Swift 还是 Java，维护一致的模式很快就会变得令人头疼。 Typesync 旨在永久解决这个问题。它允许您在所谓的 Typesync 架构中维护 Firestore 架构的单一事实来源。有了这个架构，您就可以使用 CLI 工具轻松地为多个平台（例如 TypeScript、Python、Swift 等）生成类型定义。 Typesync 还允许您生成其他有用的内容，例如 Firestore 规则、Cloud Functions 样板和模型文档。 Typesync CLI 是开源的。 TypeScript 和 Python 生成器已准备就绪，我们目前支持 5 个平台。接下来是 Swift 和安全规则生成器。 请随意浏览我们的文档：https://docs.typesync.org  以及我们位于 https://github.com/kafkas/typesync 的 GitHub 存储库。欢迎所有贡献！ 期待收到您的反馈！   由   提交 /u/akafkas   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1c57gnh/a_cli_tool_that_generates_firestore_type/</guid>
+      <pubDate>Tue, 16 Apr 2024 04:40:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>不仅仅是另一个待办事项应用程序，但有点。寻找反馈！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1c56397/not_just_another_todo_app_but_kinda_looking_for/</link>
+      <description><![CDATA[嘿，初创公司的朋友们！我想了解您对我和朋友正在构建的项目的看法。 ​ 故事/问题： ​  几个月前，我和一个朋友被解雇了我们的软件工作。我们在被解雇大约一个月后进行了交谈，双方都反思了专注于我们自己打算做的项目是多么困难。除了准备面试和申请新工作之外，我们似乎都面临着制定和组织议程的问题。我们都遇到的一个大问题是无休止地检查电子邮件以获取对他们发送的应用程序的任何回复... ​ 我开始使用一个应用程序阻止应用程序有助于消除干扰，而且效果非常好。我遇到的大问题是：我遇到了某些需要我屏蔽的应用程序（主要是 LinkedIn）的任务。 ​ 解决方案： ​ 我的朋友建议构建一个使用应用程序阻止的应用程序，重点关注任务完成，而不是设置阻止这些应用程序的时间（这是所有这些应用程序的功能-阻止/聚焦应用程序使用）。这样，当您想要完成一项任务（例如：“检查电子邮件是否有回复”）时，您可以在完成其他任务时将电子邮件设置为阻止，然后当您执行电子邮件检查任务时，您就可以设置您根据该任务需要使用的电子邮件应用程序，并且在您完成该任务之前它将被解锁。 ​ 我们迄今为止构建的应用程序提供了很多功能应用程序阻止和解除阻止、任务组织方式的灵活性，我们目前正在研究人工智能集成，以帮助组织任务，而无需太多的心理负担。 ​ ​ p&gt; 我们在 https://www.focalios.com 上共同推出了一个简单的候补名单页面，并且希望能提供一些反馈您是否认为这值得追求。 ​ 顺便说一句，我已经使用了很多待办事项应用程序，它们很有帮助，但我还没有找到一个没有足够摩擦力让我想尝试另一种的。如果您有适合您的建议，请告诉我！我很想尝试一下。 ​ 干杯    ;由   提交 /u/8thsense   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1c56397/not_just_another_todo_app_but_kinda_looking_for/</guid>
+      <pubDate>Tue, 16 Apr 2024 03:25:04 GMT</pubDate>
+    </item>
     <item>
       <title>一个浏览器扩展，可帮助为每个网站创建自定义键绑定</title>
       <link>https://www.reddit.com/r/SideProject/comments/1c55lhv/a_browser_extension_that_helps_create_custom_key/</link>
@@ -81,34 +109,6 @@
       <description><![CDATA[不到一个小时前，我启动了 Validea！有了它，您将能够  快速验证一个想法（110秒就足够了，我有视频证明）： 了解潜力 查找竞争对手 查找您的潜在用户在哪里 获取简短的营销计划 获取 MVP 指南 获取产品 了解监管和法律考虑因素  跟踪结构化且经过验证的想法  让我知道什么你认为！ https://validea.co   由   提交 /u/namoriam   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1c51n4i/i_built_a_startup_idea_validator_now_youll_need/</guid>
       <pubDate>Mon, 15 Apr 2024 23:54:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>创建并启动我的第一个应用程序 - 面包预算！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1c4yxkn/create_and_launched_my_first_app_bread_budgeting/</link>
-      <description><![CDATA[   在过去的 4 个月里，我一直在构建 Bread - 游戏化预算应用程序。许多朋友告诉我，他们希望更好地跟踪自己的个人财务状况，但现有的工具（应用程序、网站和电子表格）对于他们的目的而言过于复杂。  因此，我创建了我的第一个应用程序“面包预算”，其目标是让预算变得有趣和愉快。它通过可收藏的面包人物来奖励良好的消费习惯。每个月保持在你的预算之内将使布拉德（拟人化的面包片）活下去，但如果超出你的预算，就会看着他在你眼前燃烧。  该应用程序还具有自定义类别和银行同步功能（适用于美国账户），以及人工智能驱动的交易自动分类 让我知道您的想法！ ​ https: //preview.redd.it/lcsnyr6stpuc1.png?width=1290&amp;format=png&amp;auto=webp&amp;s=08221fb26a924b90e20769c37449ee9ce83c9920 https://preview.redd.it/etbt8s6stpuc1.png?width=1290&amp;format=png&amp;auto=webp&amp;放大器; s=4a7acb75509122195d2861d2fb23e5e98378b260  https://preview.redd.it/qdlwnt6stpuc1.png?width=1290&amp;format=png&amp;auto=webp&amp;s=72d1489170936f1dd5588b1b433d64ee3205471e https://preview.redd.it/fgt9xs6stpuc1.png?width=1290&amp;format=png&amp;auto= webp&amp;s=a44c98da0651dd7d75c7c5b0f1bc9fc88888aba6 https://preview.redd.it/3wla2u6stpuc1.png?width=1290&amp;format=png&amp;auto=webp&amp;s=b34e04485e9dbe83e1571b7f7b4d15da51cddeca App Store 链接 着陆页   由   提交/u/chowzedong  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1c4yxkn/create_and_launched_my_first_app_bread_budgeting/</guid>
-      <pubDate>Mon, 15 Apr 2024 21:59:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>什么 API 可以加速您的业余项目？分享您的梦想工具！ 🌟</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1c4yk8q/what_api_would_turbocharge_your_side_project/</link>
-      <description><![CDATA[嘿，独立黑客！ 👋  我的使命是收集可以增强您的开发过程的 API 的终极愿望清单。想象一下，拥有一个神奇的工具，可以让一切变得更加顺畅 - 无论是人工智能、网络开发、数据处理还是其他领域。 什么 API 可以让您的梦想副项目成为现实？嘿，谁知道呢？你的想法可能会激发出一些令人难以置信的东西——我什至可能会为你把它变成现实。 😎  在下面发表评论，让我们开始这个 API 愿望清单聚会吧！ 🎉   由   提交/u/Affectionate-Olive80   /u/Affectionate-Olive80 reddit.com/r/SideProject/comments/1c4yk8q/what_api_would_turbocharge_your_side_project/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1c4yk8q/what_api_would_turbocharge_your_side_project/</guid>
-      <pubDate>Mon, 15 Apr 2024 21:44:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>dEv-Commerce：无头电子商务解决方案</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1c4y0dc/devcommerce_the_headless_ecommerce_solution/</link>
-      <description><![CDATA[大家好，我非常高兴能够介绍 dEv-Commerce。通过创建无头电子商务平台，我们使电子商务网站更加灵活、可扩展并提高性能。一切都集中在一个简单的 API 中。电子商务网站很难构建，现有的解决方案也不适合其用途。我们彻底改变了这一点，以便电子商务网站易于构建并适合特定用途。 https:// devcommerce.co.uk   由   提交/u/HugeStomach1829  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1c4y0dc/devcommerce_the_headless_ecommerce_solution/</guid>
-      <pubDate>Mon, 15 Apr 2024 21:23:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>烤我的候补名单登陆页面</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1c4xxsu/roast_my_waitlist_landing_page/</link>
-      <description><![CDATA[我快速为我正在尝试验证的产品创意制作了一个候补登录页面。如果您能提供有关清晰度/结构/设计的反馈，我将不胜感激。我希望在英雄部分添加演示视频，以更好地解释价值主张。谢谢！  登陆页面：SubmitFast  &amp;# 32；由   提交 /u/Absolutelyphenomenal   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1c4xxsu/roast_my_waitlist_landing_page/</guid>
-      <pubDate>Mon, 15 Apr 2024 21:20:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
