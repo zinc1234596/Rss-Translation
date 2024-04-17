@@ -4,7 +4,49 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个 Reddit 子版块，用于分享和接收有关副项目的建设性反馈。</description>
-    <lastBuildDate>Wed, 17 Apr 2024 03:12:55 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Apr 2024 06:18:38 GMT</lastBuildDate>
+    <item>
+      <title>我做了一个 chrome 扩展，基本上是一个由 CHAT Gpt 提供支持的更便宜的 Grammarly 版本</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1c62jxp/i_made_a_chrome_extension_basically_a_cheaper/</link>
+      <description><![CDATA[我会说双语，我和很多客户聊天，有些是法语，有些是英语，我的法语很糟糕哈哈，所以我想要一个语法上的替代方案它只是用任何语言重写任何东西......所以看起来我不像没有上过学 经过几个月的深夜和无数杯咖啡，我很高兴终于揭开了我的面纱最新项目，电子邮件耳语者。它是一款 Chrome 扩展程序，旨在利用 ChatGPT 的强大功能来完善您的写作。  ​ https： //chromewebstore.google.com/detail/email-whisperer-gpt-ai-em/iilfbdcjfcbfelllghamdbpoombfapfj   由   提交/u/sandyboxymu  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1c62jxp/i_made_a_chrome_extension_basically_a_cheaper/</guid>
+      <pubDate>Wed, 17 Apr 2024 06:07:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找有关我的数据产品的反馈</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1c61ibq/looking_for_feedback_on_my_data_product/</link>
+      <description><![CDATA[我创建了一项服务，每天向我发送与推荐系统（数据科学/人工智能）相关的工作，甚至找到了一些工作我面试过。我意识到这可能对计算机视觉或 NLP 等其他专业领域的其他人有所帮助，他们可以按地区使用不同的堆栈（如 AWS 或 GCP），也可能对任何依赖在互联网上发布职位来吸引候选人的领域有所帮助。目标是让求职者依靠此电子邮件程序来查找最近发布的职位，这样他们就不必不断搜索，而是花时间提高他们的作品集或面试技巧。  出于以下几个原因，我想远离具有搜索功能的典型网站：  已经有大量网站这样做了。创建出色的搜索体验并非易事。 求职者希望在发布职位信息时了解职位信息，这意味着当他们只能将职位信息发送到电子邮件时，网站只会给流程增加阻力。   我正在考虑将其作为 B2C 模式来运行，并收取大约 5 美元/月的费用，甚至可能是 B2B 模式，为覆盖大量人群的工作类型投放广告。如果我要戳破我的想法，我会说假设求职者不想自己寻找工作是一个关键假设。我知道我觉得坐下来等待工作发给我太容易了，有时我觉得我应该做得更多。然而，当我准备面试时，试图比自动化工具做得更好通常只是浪费精力。您如何看待这个想法和商业模式？   由   提交 /u/living_david_aloca   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1c61ibq/looking_for_feedback_on_my_data_product/</guid>
+      <pubDate>Wed, 17 Apr 2024 05:03:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>为 Github 生成 YouTube 嵌入内容</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1c61cd4/generate_a_youtube_embed_for_github/</link>
+      <description><![CDATA[        由   提交/u/hashimindie  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1c61cd4/generate_a_youtube_embed_for_github/</guid>
+      <pubDate>Wed, 17 Apr 2024 04:54:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>刚刚启动了我的副业项目！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1c60yap/just_launched_my_side_project/</link>
+      <description><![CDATA[大家好！ 我最近刚刚启动了我的业余项目 joltdrop.com。  它允许您使用二维码与二维码生成器和管理器配对在设备之间无缝传输文件。  如果有人有兴趣使用它，我很乐意提供一些会员资格。   由   提交 /u/Tall-Pudding6572    reddit.com/r/SideProject/comments/1c60yap/just_launched_my_side_project/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1c60yap/just_launched_my_side_project/</guid>
+      <pubDate>Wed, 17 Apr 2024 04:32:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个 Chrome 扩展来自动化并扩展您的 Twitter(X)</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1c60ufj/i_made_a_chrome_extension_to_automate_grow_your/</link>
+      <description><![CDATA[      在过去 3 个月里，我&#39;我们一直致力于开发 Qura，这是一款利用 AI 为您带来真正、可衡量的增长的 Chrome 扩展程序。  古拉网站&lt; /p&gt; 在 3 个多月的时间里，我一直在测试、训练和改进模型，以获得有机参与 看到增长后 Qura 能够通过早期用户实现，现在向公众开放，其中 50% 面向早期用户。  Qura 3 个月增长   由   提交/u/Direct-Stay-8156   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1c60ufj/i_made_a_chrome_extension_to_automate_grow_your/</guid>
+      <pubDate>Wed, 17 Apr 2024 04:26:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>您首选的技术堆栈是什么？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1c60mgi/whats_your_preferred_tech_stack/</link>
+      <description><![CDATA[我使用 Remix 进行全栈开发，使用 Tailwind 进行样式设计  很想知道流行的偏好   由   提交 /u/AdityaSaroj   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1c60mgi/whats_your_preferred_tech_stack/</guid>
+      <pubDate>Wed, 17 Apr 2024 04:13:44 GMT</pubDate>
+    </item>
     <item>
       <title>我们刚刚在 Product Hunt 上首次亮相，您的支持将使一切变得不同！</title>
       <link>https://www.reddit.com/r/SideProject/comments/1c5yg2o/weve_just_debuted_on_product_hunt_and_your/</link>
@@ -27,7 +69,7 @@
       <pubDate>Wed, 17 Apr 2024 01:12:47 GMT</pubDate>
     </item>
     <item>
-      <title>尝试制作一个职业路径的谷歌地图</title>
+      <title>尝试制作一个用于职业道路的谷歌地图</title>
       <link>https://www.reddit.com/r/SideProject/comments/1c5wpuk/trying_to_make_a_google_maps_for_career_paths/</link>
       <description><![CDATA[   /u/abzgupta  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1c5wpuk/trying_to_make_a_google_maps_for_career_paths/</guid>
@@ -67,48 +109,6 @@
       <description><![CDATA[      Focal 的下一个激动人心的更新已经发布！您现在可以在 Focal 工作区中查询和聊天所有数据和文档！游戏规则改变者，可将您的 AI 能力扩展到所有文档！很高兴终于将其交到客户手中！我渴望得到一些反馈，看看可以在哪里改进。如果您对此有任何想法，请随时联系我！ ​ https://preview.redd.it/8wbp7mf4axuc1.png?width=2934&amp;format=png&amp;auto=webp&amp;s=71 312c5fe35a1bca8087596f9d04cc1a7975ca73    由   提交/u/adeperio  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1c5u8rh/just_released_ai_chat_with_your_workspace/</guid>
       <pubDate>Tue, 16 Apr 2024 23:05:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>领英勘探</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1c5u894/linkedin_prospecting/</link>
-      <description><![CDATA[谁有 Linkedin 勘探工具供我查看？  &amp; #32；由   提交/u/muba1527  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1c5u894/linkedin_prospecting/</guid>
-      <pubDate>Tue, 16 Apr 2024 23:04:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>我喜欢这个子版块</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1c5u7l1/i_love_this_subreddit/</link>
-      <description><![CDATA[从纯粹实用的角度来看，这个 Reddit 子版块可以说是地球上最有用的 我遇到过相关的合法困境通过联系这个社区来解决业务   由   提交/u/muba1527  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1c5u7l1/i_love_this_subreddit/</guid>
-      <pubDate>Tue, 16 Apr 2024 23:04:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>邀请机器人</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1c5u5zt/invite_bot/</link>
-      <description><![CDATA[这里有人需要制作一个 subreddit 自动邀请机器人  - 在评论和帖子中查找关键字  - 根据关键字向用户发送自动邀请   由   提交/u/muba1527  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1c5u5zt/invite_bot/</guid>
-      <pubDate>Tue, 16 Apr 2024 23:02:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>销售量</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1c5u4ja/sales/</link>
-      <description><![CDATA[linkedin 的良好勘探工具吗？   由   提交/u/muba1527  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1c5u4ja/sales/</guid>
-      <pubDate>Tue, 16 Apr 2024 23:00:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>厌倦了盯着空白页？ Worddraft 可以帮助您启动您的写作项目。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1c5ttms/tired_of_staring_at_a_blank_page_worddraft_helps/</link>
-      <description><![CDATA[ 大家好，我构建 Worddraft 是为了成为作家的头脑风暴伙伴。它旨在让内容创建的早期阶段变得更容易、更轻松。 有人有兴趣尝试一下并分享他们的真实想法吗？您的意见将有助于塑造这个项目 - 请尝试 https://worddraft.net/    由   提交/u/Leather-Ad-6175   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1c5ttms/tired_of_staring_at_a_blank_page_worddraft_helps/</guid>
-      <pubDate>Tue, 16 Apr 2024 22:47:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个反应电子邮件拖放编辑器！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1c5tfdh/i_created_a_reactemail_draganddrop_editor/</link>
-      <description><![CDATA[我创建了一个react-email拖放编辑器！ 电子邮件设计总是令人头疼，所以我想我创建一个基于react-email的拖放设计器。仍在进行中，但如果您有兴趣，请在此处查看：https://app.next-plus.co.uk     由   提交 /u/next-plus   /u/next-plus  reddit.com/r/SideProject/comments/1c5tfdh/i_created_a_reactemail_draganddrop_editor/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1c5tfdh/i_created_a_reactemail_draganddrop_editor/</guid>
-      <pubDate>Tue, 16 Apr 2024 22:30:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
