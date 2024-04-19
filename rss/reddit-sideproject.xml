@@ -4,7 +4,14 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个 Reddit 子版块，用于分享和接收有关副项目的建设性反馈。</description>
-    <lastBuildDate>Fri, 19 Apr 2024 00:53:37 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Apr 2024 03:12:57 GMT</lastBuildDate>
+    <item>
+      <title>查看我们的登陆页面 - pixieapp.xyz</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1c7mayt/review_our_landing_page_pixieappxyz/</link>
+      <description><![CDATA[Pixie 是一个简化研究驱动内容创建的工作区。它将内容研究和创作的过程无缝集成在一个平台中。 请查看我们，随时提供反馈并加入我们的候补名单:)   由   提交/u/Agreeable_Ad6424   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1c7mayt/review_our_landing_page_pixieappxyz/</guid>
+      <pubDate>Fri, 19 Apr 2024 02:54:47 GMT</pubDate>
+    </item>
     <item>
       <title>我正在制作一款应用程序，供充满热情的人们分享您的工艺和爱好故事 - 您会使用它作为产品构建者吗？</title>
       <link>https://www.reddit.com/r/SideProject/comments/1c7jnpl/im_making_an_app_for_passionate_people_to_share/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>您如何发展您的 SaaS 产品？</title>
       <link>https://www.reddit.com/r/SideProject/comments/1c7j2lh/how_are_you_growing_your_saas_product/</link>
-      <description><![CDATA[大家好，我开始对我的 SaaS 工具 - LinkSend.io 进行出站冷电子邮件营销活动 该产品的挑战是其低廉的价格，所以我想知道我可以使用哪些其他策略来加速免费用户的速度。 您使用什么策略进行分发？有机内容、付费媒体、冷外展还是其他？ 谢谢！   由   提交/u/joaogonzalez   [链接] [评论]]]></description>
+      <description><![CDATA[大家好，我开始对我的 SaaS 工具 - LinkSend.io 进行出站冷电子邮件营销活动 该产品面临的挑战是其低廉的价格，所以我想知道我可以使用哪些其他策略来加速免费用户的速度。 您使用什么策略进行分发？有机内容、付费媒体、冷外展还是其他？ 谢谢！   由   提交/u/joaogonzalez   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1c7j2lh/how_are_you_growing_your_saas_product/</guid>
       <pubDate>Fri, 19 Apr 2024 00:15:14 GMT</pubDate>
     </item>
@@ -36,7 +43,7 @@
     <item>
       <title>我构建这个应用程序是为了自动化获取 Word 文档内容所经历的无聊过程</title>
       <link>https://www.reddit.com/r/SideProject/comments/1c7igro/i_built_this_app_to_automate_the_boring_process_i/</link>
-      <description><![CDATA[最近我给老板写了很多提案，我必须在网上搜索内容并复制粘贴到word中并格式化它。所以我决定使用ai生成内容并插入到word中，这样我所做的就是格式化它，所以我构建了 https://samuelaidoo45.github .io/wdcg/   由   提交/u/Leather-Ad-6175   [链接] [评论]]]></description>
+      <description><![CDATA[最近我为老板写了很多提案，我必须在线搜索内容并将它们复制粘贴到 word 中并进行格式化。所以我决定使用 ai 生成内容并插入到 word 中，这样我所做的就是格式化它，所以我创建了 https://samuelaidoo45.github.io/wdcg/    提交人    /u/Leather-Ad-6175   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1c7igro/i_built_this_app_to_automate_the_boring_process_i/</guid>
       <pubDate>Thu, 18 Apr 2024 23:47:38 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[    /u/CowNo3051    [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1c7dyxb/i_made_a_free_app_to_generate_sql_queries_with_ai/</guid>
       <pubDate>Thu, 18 Apr 2024 20:39:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>我构建了一个 AI 工具，每周创建 100 多个独特的 Shorts 视频，以在自动驾驶仪上为我的匿名频道提供内容（你好👋Tiktok 货币化）</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1c7dl7b/i_build_an_ai_tool_that_create_100_unique_shorts/</link>
-      <description><![CDATA[嘿伙计们， 我在 Tiktok 上运营匿名频道（为了增加我微薄的收入而进行的业余项目😅） &lt;我一开始是手动创建视频，但很快我的开发者思维（尤其是我懒惰的一面）就占了上风。  因此，我构建了流程，并寻找一种解决方案来实现每个步骤的工业化和自动化。这就是我如何创建一个真正的内容制作机器，当然还集成了人工智能（用于图像创建、语音、脚本、背景音乐选择、字幕等）。 这个工具还允许我集成最佳实践提高保留率（并最大化货币化🤑） 我想公开开放我的工具，并与一小群高度忠诚的用户一起改进它。 所以，我发布首先在这里看看是否有兴趣并加入一些测试版用户（最好是运行的人（也包括匿名频道）。 等候名单链接：https://boostshort.com/ Chuss ✌️    提交者    /u/Nicolasrny   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1c7dl7b/i_build_an_ai_tool_that_create_100_unique_shorts/</guid>
-      <pubDate>Thu, 18 Apr 2024 20:24:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
