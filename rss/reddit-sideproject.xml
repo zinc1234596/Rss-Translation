@@ -4,7 +4,35 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个 Reddit 子版块，用于分享和接收有关副项目的建设性反馈。</description>
-    <lastBuildDate>Fri, 19 Apr 2024 21:11:39 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Apr 2024 00:53:58 GMT</lastBuildDate>
+    <item>
+      <title>创建了一个遵循零基预算方法的预算应用程序</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1c8cvyd/created_a_budgeting_app_that_follows_zero_based/</link>
+      <description><![CDATA[      有人有兴趣通过 TestFlight 成为 Beta 测试人员吗？它正处于 MVP 阶段，但我将在接下来的一两个月内安排发布。 欢迎提出任何问题或反馈！   由   提交/u/BudgetProgramming   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1c8cvyd/created_a_budgeting_app_that_follows_zero_based/</guid>
+      <pubDate>Sat, 20 Apr 2024 00:44:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>我使用智能过滤器创建了一个人工智能驱动的工作板来帮助您找到梦想的工作</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1c8aysa/i_created_an_aipowered_job_board_using_smart/</link>
+      <description><![CDATA[大家好，我很高兴能分享一个我已经工作了大约一年的项目。我开发了一个工作委员会，旨在帮助求职者找到他们梦想的工作，并帮助招聘人员找到完美的候选人。它使用人工智能驱动的智能匹配和过滤来改进搜索过程。请花点时间查看一下，我很想听听您的反馈！ https://skillexchange.xyz/   由   提交/u/lolaks181203  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1c8aysa/i_created_an_aipowered_job_board_using_smart/</guid>
+      <pubDate>Fri, 19 Apr 2024 23:14:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>为推销电话构建提词器，始终保持自信、准时并达成更多交易。轻松旋转。请参阅演示 https://salesmagic.vercel.app。如有任何反馈，我们将不胜感激。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1c8a7ev/building_a_teleprompter_for_cold_call_sales/</link>
+      <description><![CDATA[SalesMagic 演示&lt; /p&gt; 计划添加大量其他功能，例如人工智能生成的脚本和用于处理客户异议的分支。  我认为这里真正的 USP 是分析，准确记下您的潜在客户在哪些节点上挂断电话并不断改进您的脚本 我可以看到这对于初级特别提款权，但希望收到有关此具体想法的任何反馈。  这对其他行业也有用吗？就像内容创作者录制自己叙述的爆头视频一样？    由   提交 /u/freakH3O   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1c8a7ev/building_a_teleprompter_for_cold_call_sales/</guid>
+      <pubDate>Fri, 19 Apr 2024 22:40:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个 25 分钟的简约计时器</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1c88nit/i_built_a_25_min_minimalistic_timer/</link>
+      <description><![CDATA[大家好！ 我很难一次专注于我的项目超过 15 分钟，而不会被 Twitter 分散注意力/ Instagram。我发现番茄工作法有助于管理干扰，所以我搜索了一个产品。然而，他们中的许多人都有混乱的界面，其中包括任务跟踪器和其他可能分散自己注意力的功能。因此，我决定为自己构建一个具有我能想到的最简约的用户界面。这是：https://www.zentimer.work/ 我认为有两个必须具备的功能对于 MVP：  将其安装为 PWA 的选项，以便可以将其作为独立应用程序保存在桌面或移动设备上，以便快速访问。 网络推送即使屏幕已关闭，计时器结束时也会发出通知提醒您。  按照“接受或离开”的方法，我暂时省略了其他功能，因此没有设置或自定义。  技术堆栈：next js、tailwind、next-pwa + web-push  请随意提供您想到的任何反馈！   由   提交 /u/AlexGerasim   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1c88nit/i_built_a_25_min_minimalistic_timer/</guid>
+      <pubDate>Fri, 19 Apr 2024 21:34:50 GMT</pubDate>
+    </item>
     <item>
       <title>我和我的女朋友创建了宠物管理服务</title>
       <link>https://www.reddit.com/r/SideProject/comments/1c87l3z/me_a_my_gf_created_a_pet_mamagement_service/</link>
@@ -81,34 +109,6 @@
       <description><![CDATA[我是一名一年级计算机科学学生，正在寻找项目创意。不喜欢游戏，但对其他任何事情都持开放态度。 我最近的项目：-Capacitated VRP。 -康威的生命游戏桌面壁纸。 感谢我能得到的任何帮助，谢谢哈哈   由   提交 /u/ViewPuzzled5301   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1c84ta2/personal_projects_help/</guid>
       <pubDate>Fri, 19 Apr 2024 18:56:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>烤我的着陆页</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1c84ruq/roast_my_landing_page/</link>
-      <description><![CDATA[大家好！ 👋 一个人给我发消息说着陆页上的文案乏味且无力。 你在想什么？ 我在看在我的着陆页上获取残酷的反馈。 您可以在这里找到它postboost.co 谢谢提前。   由   提交/u/rergun  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1c84ruq/roast_my_landing_page/</guid>
-      <pubDate>Fri, 19 Apr 2024 18:54:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们如何在移动应用程序中出售我们的第一个订阅，以便您也可以这样做</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1c84f65/how_we_sold_our_first_subscriptions_in_our_mobile/</link>
-      <description><![CDATA[大家好， 一个半月前，我们推出了Monnelia，一个提供高级计划的免费债务偿还规划器。在免费版本中，你基本上可以做几乎所有的事情；高级版本是为那些想要进一步了解自己的债务或有特殊情况（例如每周或每两个月还款一次的债务）的人而设计的。 现在，让我们深入探讨主题的核心：我们是如何销售第一批订阅的？在进行任何营销活动之前，我们成功销售了一份年度计划！这说明了应用程序商店的力量；即使没有营销，您仍然可以产生下载，如果您的产品足够引人注目，您最终会从中赚钱。强大的品牌也是游戏规则的改变者，因为它增强了人们对您产品的信心。 接下来，我们在专门的 Reddits 子版块上发布了内容。虽然这可能不会直接带来收入，但我们从用户那里收集了宝贵的反馈。 Reddit 确实是收集反馈和改进产品的金矿。 我们超过 50% 的下载量来自应用商店中的自然搜索，我们销售的订阅也源自这种自然流量。然而，收集反馈是改进我们产品的关键，就在过去一周，我们的销售额有所增加。 如果这篇文章有一个要点，那就是你最好不要过度关注从一开始就在销售。相反，专注于收集用户的相关意见，结果就会自然而然地出现。   由   提交 /u/pierreasr   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1c84f65/how_we_sold_our_first_subscriptions_in_our_mobile/</guid>
-      <pubDate>Fri, 19 Apr 2024 18:40:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>帮助您开始撰写 B2B 冷邮件的工具</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1c83d8h/tool_to_give_you_a_head_start_writing_b2b_cold/</link>
-      <description><![CDATA[   /u/cupojoe4me  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1c83d8h/tool_to_give_you_a_head_start_writing_b2b_cold/</guid>
-      <pubDate>Fri, 19 Apr 2024 17:57:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>点击率计算器</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1c82yir/ctr_calculator/</link>
-      <description><![CDATA[    &gt;  &amp;# 32；由   提交 /u/Motorschpocht   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1c82yir/ctr_calculator/</guid>
-      <pubDate>Fri, 19 Apr 2024 17:40:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
