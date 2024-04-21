@@ -4,11 +4,53 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个 Reddit 子版块，用于分享和接收有关副项目的建设性反馈。</description>
-    <lastBuildDate>Sun, 21 Apr 2024 12:21:23 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Apr 2024 15:12:11 GMT</lastBuildDate>
+    <item>
+      <title>构建我的第一个 Saas 副项目的第一周的 3 个重要经验教训</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1c9jrbt/top_3_lessons_from_my_first_week_building_my/</link>
+      <description><![CDATA[虽然很早，但其他新手也能体会到一些独特的见解。 1.注重功能&gt; UI 很容易迷失专注于让一切看起来漂亮。最好专注于功能并让您的应用程序正常运行，然后再担心美观。请记住，目标是尽快获得更快的反馈迭代周期。 2.一致性&gt;智力  我是一个平庸的程序员，实际上我是一个sh%t程序员。但我每天都会出现。真正对我有帮助的是诺亚·卡根的 100 天挑战，我必须连续 100 天这样做才能放弃。设定这样的目标可以让沮丧的时刻更容易度过，而且我的编程技能已经提高了 2 倍。 3.公开构建 最后，您需要公开构建。在 Twitter 上定期发帖的 5 天内，我的关注者数量从 0 增加到 60，并为我的 SaaS 等候名单生成了 10 封电子邮件。这可能看起来不多，但请记住，这只是几天的工作之后的事情。 如果您有兴趣关注我的旅程，请查看我的 Twitter https://twitter.com/jack_mitchell01 对于较长的内容，我将从周五开始每周写一份时事通讯 -&gt; jackmitchell.co    由   提交/u/Jack2398  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1c9jrbt/top_3_lessons_from_my_first_week_building_my/</guid>
+      <pubDate>Sun, 21 Apr 2024 14:52:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>探矿工具</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1c9irn0/prospecting_tool/</link>
+      <description><![CDATA[我的业余项目兄弟姐妹 我需要一些 Linkedin 勘探工具（不是 Sales Navigator） 谁能帮忙🫡??   由   提交/u/muba1527  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1c9irn0/prospecting_tool/</guid>
+      <pubDate>Sun, 21 Apr 2024 14:08:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>CoinCurrently：更多配色方案</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1c9ihtg/coincurrently_more_color_schemes/</link>
+      <description><![CDATA[     &lt; td&gt; 由   提交/u/barcode972  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1c9ihtg/coincurrently_more_color_schemes/</guid>
+      <pubDate>Sun, 21 Apr 2024 13:56:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了一个公共社区</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1c9hg7w/i_created_a_community_to_build_in_public/</link>
+      <description><![CDATA[大家好，过去几天我正在为创始人建立一个 Discord 服务器，以便公开构建、共享资源并互相问责。&lt; /p&gt; 我正在争论是否应该将其分享给任何人加入或将其保留在谷歌表单注册之后，这样我至少可以在人们进来时对其进行审查，并确保它不会被机器人淹没。  在加入之前添加需要填写的表单是否会完全阻止您，或者服务器中没有垃圾邮件和机器人是否值得？   由   提交/u/Tephra9977   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1c9hg7w/i_created_a_community_to_build_in_public/</guid>
+      <pubDate>Sun, 21 Apr 2024 13:06:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>我为前端开发创建了这个免费的 SAAS 主题</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1c9gvu1/i_created_this_free_saastheme_for_frontend/</link>
+      <description><![CDATA[      ​ SAAS-主题 你可以使用它通过 GitHub 免费：https://github.com/IAMROWSAN/SAAS-THEME    由   提交/u/ROWSAN_  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1c9gvu1/i_created_this_free_saastheme_for_frontend/</guid>
+      <pubDate>Sun, 21 Apr 2024 12:38:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>在浏览器中执行 SQL：WebAssembly 实验！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1c9gnjc/executing_sql_in_your_browser_a_webassembly/</link>
+      <description><![CDATA[大家好， 我最近一直在深入研究 WebAssembly，探索它在网络上的功能。 &lt; p&gt;​ 只是想分享一下，我创建了一个小项目，您可以在其中使用 WebAssembly 直接在浏览器中执行 SQL。另外，您甚至可以导出 SQLite 数据库。数据持久化是通过OPFS来处理的。此外，为了保持主线程畅通无阻，我实现了 Web Workers，以便在单独的工作线程中执行 SQL 查询，从而使主线程可以自由用于 UI 渲染。 ​ &lt; p&gt;查看一下：https://waah-sql.vercel.app/ 您可以还可以在 GitHub 上找到代码：https://github.com/iamsahebgiri/waah-sql 让我知道您的想法！ 在浏览器中运行 SQL   由   提交 /u/Spiritual-Nerve-1422   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1c9gnjc/executing_sql_in_your_browser_a_webassembly/</guid>
+      <pubDate>Sun, 21 Apr 2024 12:26:21 GMT</pubDate>
+    </item>
     <item>
       <title>Deno + Deno Deploy 是我最喜欢的副项目后端</title>
       <link>https://www.reddit.com/r/SideProject/comments/1c9g6ig/deno_deno_deploy_is_my_new_favorite_backend_for/</link>
-      <description><![CDATA[只是想分享一下，我今天早上正在做一个小项目，该项目将 Siri 连接到 OpenAI 函数调用，稍后在 Notion 上创建一个任务。我发现 Deno Deploys 允许您以与 Netlify 前端类似的方式从存储库部署功能。  首先，Deno - 哇，真是一次体验。它支持 typescript，无需任何配置（没有 webpack 之类的东西）。它内置了更改后重新启动功能。 Deno Deploy 允许每月 100 万次免费调用。它们有域、环境变量。他们也有 cron 作业。我希望他们有类似于 SQS 的东西并且能够从消息队列触发功能。但对于较小的项目来说，它非常整洁！ 我最终使用expressjs 在单个 lambda 内进行路由。确实有一个正在运行的 API 在 15 以内。超酷。不确定我是否会在更复杂的项目中达到峰值，但实际上为什么不呢..可以使用分支作为临时版本，因此您基本上可以拥有多个临时环境。像 SQS 这样的东西对我来说确实是一个游戏改变。   由   提交 /u/OkMeeting8253   [链接] [评论]]]></description>
+      <description><![CDATA[只是想分享一下，我今天早上正在做一个小项目，该项目将 Siri 连接到 OpenAI 函数调用，稍后在 Notion 上创建一个任务。我发现 Deno Deploys 允许您以与 Netlify 前端类似的方式从存储库部署功能。  首先，Deno - 哇，真是一次体验。它支持 typescript，无需任何配置（没有 webpack 之类的东西）。它内置了更改后重新启动功能。 Deno Deploy 允许每月 100 万次免费调用。它们有域、环境变量。他们也有 cron 作业。我希望他们有类似于 SQS 的东西并且能够从消息队列触发功能。但对于较小的项目来说，它非常整洁！ 我最终使用expressjs 在单个 lambda 内进行路由。确实有一个正在运行的 API 在 15 以内。超酷。不确定我是否会在更复杂的项目中达到峰值，但实际上为什么不呢？可以使用分支作为暂存版本，因此您基本上可以拥有多个暂存环境。像 SQS 这样的东西对我来说确实是一个游戏改变。   由   提交 /u/OkMeeting8253   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1c9g6ig/deno_deno_deploy_is_my_new_favorite_backend_for/</guid>
       <pubDate>Sun, 21 Apr 2024 12:01:10 GMT</pubDate>
     </item>
@@ -22,7 +64,7 @@
     <item>
       <title>您想与其他独立黑客竞争吗？</title>
       <link>https://www.reddit.com/r/SideProject/comments/1c9fewr/do_you_want_to_compete_with_other_indie_hackers/</link>
-      <description><![CDATA[大家好，我正在寻找有兴趣了解他们与其他独立黑客相比的生产力如何的人。 我希望举办一场 5-10 人的锦标赛，他们做得越多，排名就越高。 让我们互相激励，争取第一名！ 如果你感兴趣在下面发表评论，我将为您提供更多详细信息👇   由   提交/u/jaiten_thomas   [链接] [评论]]]></description>
+      <description><![CDATA[大家好，我正在寻找有兴趣了解自己与其他独立黑客相比的工作效率的人。 我希望举办一场 5-10 人的锦标赛，他们做得越多，排名就越高。 让我们互相激励，争取第一名！ 如果你感兴趣在下面发表评论，我将为您提供更多详细信息👇   由   提交/u/jaiten_thomas   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1c9fewr/do_you_want_to_compete_with_other_indie_hackers/</guid>
       <pubDate>Sun, 21 Apr 2024 11:16:06 GMT</pubDate>
     </item>
@@ -62,53 +104,11 @@
       <pubDate>Sun, 21 Apr 2024 08:30:58 GMT</pubDate>
     </item>
     <item>
-      <title>介绍我们的人工智能驱动平台：通过简单描述来创建应用程序！</title>
+      <title>介绍我们的人工智能驱动平台：通过简单描述即可创建应用程序！</title>
       <link>https://www.reddit.com/r/SideProject/comments/1c9cckc/introducing_our_aidriven_platform_create_apps_by/</link>
       <description><![CDATA[嘿r/SideProject， 我们很高兴与大家分享，我们正在开发一个可以简化应用程序创建的人工智能平台。您不需要任何编码技能 - 只需描述您的应用创意，我们的人工智能即可处理其余的事情！ ​ 当前进度： 我们正在微调功能并为抢先体验做好准备。我们的目标是确保流畅高效的用户体验。 ​ 加入我们的抢先体验！ 希望成为第一批探索我们的平台？在此注册抢先体验：https://tally.so/r/n0xNrZ   由   提交 /u/Significant-Bad7066    reddit.com/r/SideProject/comments/1c9cckc/introducing_our_aidriven_platform_create_apps_by/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1c9cckc/introducing_our_aidriven_platform_create_apps_by/</guid>
       <pubDate>Sun, 21 Apr 2024 07:47:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的第一个副业项目上线了 |纳斯达克 100 指数公司新闻摘要及市场情绪</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1c9bit9/my_first_side_project_is_live_nasdaq100_companies/</link>
-      <description><![CDATA[大家好， 我非常高兴能分享这个。是的，这是我第一个上线的副业项目。它是一个旨在提供纳斯达克 100 指数公司相关新闻摘要的工具。它还分析该消息是看涨还是看跌该股票。  我想为自己构建这个。我想要一种快速了解市场趋势的方法，而无需浏览数百个新闻网站。我开发了一个通知系统，可以提醒我重大更新。由于我已经拥有了这些数据，因此我决定将其放在网络上。  我很想得到您对此工具的反馈。任何改进建议将不胜感激。如果您觉得它有用，请随时分享给其他可能受益的人！  链接：https://aimarketmood.com/ &lt;!-- SC_ON - -&gt;  由   提交/u/uniqueaakash13  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1c9bit9/my_first_side_project_is_live_nasdaq100_companies/</guid>
-      <pubDate>Sun, 21 Apr 2024 06:52:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>通过 Rentless 彻底改变租赁体验 - 寻求反馈和合作者。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1c9baus/revolutionising_the_rental_experience_with/</link>
-      <description><![CDATA[嘿r/sideproject社区，&lt; /p&gt; 我们推出了 Rentless，这是一个旨在简化、转变和增强租户和房东的租赁流程的平台。通过利用先进的匹配算法，我们正在解决常见的问题，例如未经验证的列表、竞争激烈的租赁市场以及在澳大利亚寻找新房通常需要投入的大量时间。 主要特点：&lt; /strong&gt;  经过验证的列表：每处房产都经过彻底检查，以确保可靠性。 用户匹配：连接潜在租户和房东根据详细偏好来优化兼容性。 共同租赁：将潜在租户配对，以支持他们的申请作为联合融资选项。  我们正处于早期阶段，希望获得您对以下方面的反馈：  用户体验和界面 您认为缺少的功能&lt; /li&gt; 总体印象或您建议的任何调整  此外，如果您有兴趣合作或 Beta 测试，请告诉我们。 查看 Rentless （免费注册）并在下面告诉我们您的想法！   由   提交 /u/Just-Season-472   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1c9baus/revolutionising_the_rental_experience_with/</guid>
-      <pubDate>Sun, 21 Apr 2024 06:37:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻求反馈。制作了用于电话营销/录制头像视频/播客的提词器。https://salesmagic.vercel.app</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1c9b4ts/looking_for_feedback_made_a_teleprompter_for_cold/</link>
-      <description><![CDATA[       由   提交/u/freakH3O   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1c9b4ts/looking_for_feedback_made_a_teleprompter_for_cold/</guid>
-      <pubDate>Sun, 21 Apr 2024 06:27:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[免费，无广告] Android 应用，优化电池寿命</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1c9anc4/free_no_ads_android_app_for_battery_life/</link>
-      <description><![CDATA[将锂离子电池的电量保持在 40% 到 80% 之间，以延长锂离子电池的使用寿命，并接收有关何时连接/断开充电器的通知。  我编写的供自己使用的小应用程序。 2017年发布，前几天更新。链接： https://play.google.com/store/apps /details?id=biz.binarysolutions.healthybatterycharging    由   提交/u/BinarySolutions  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1c9anc4/free_no_ads_android_app_for_battery_life/</guid>
-      <pubDate>Sun, 21 Apr 2024 05:56:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>刚刚在 PH 上推出 TurnHerToAI，更新了服务条款以使其合法</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1c99uev/just_launched_turnhertoai_on_ph_updated_tos_to_be/</link>
-      <description><![CDATA[嘿伙计们，感谢您对我上一篇文章的批评和评论，我更新了 turnhertoai .com 的 ToS 并调整产品以使其严格合法。  turnhertoai.com 旨在将社交媒体体验转变为深度互动和吸引人的体验，而不是盲目消费和注定失败的内容。滚动，你现在可以与你暗恋的人工智能聊天，与你宠物的人工智能一起玩乐，或者与你上帝的人工智能一起探索灵性。希望您喜欢它！ 尝试一下该产品，如果您喜欢它，请在 ProductHunt 上评分！ https://www.producthunt.com/posts/turnhertoai   由   提交 /u/No_Parsnip7051   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1c99uev/just_launched_turnhertoai_on_ph_updated_tos_to_be/</guid>
-      <pubDate>Sun, 21 Apr 2024 05:05:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>为共享经济和租赁初创公司寻找技术联合创始人</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1c99s9h/looking_for_a_technical_cofounder_for_a_startup/</link>
-      <description><![CDATA[嘿，大家好，我是一家初创公司的创始人，目前从事共享经济和租赁业务。过去两年我一直在探索这个领域，但那是我在大学时的兼职。我很快就会毕业，并将全职从事该项目。目标是建立一个满足各种租赁需求（短期和长期）的平台/社区。我有一些行业领导者作为我们的顾问。 我目前正在寻找一位对解决该行业问题有兴趣的技术联合创始人。如果有兴趣，请告诉我:)   由   提交 /u/xaviourtron   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1c99s9h/looking_for_a_technical_cofounder_for_a_startup/</guid>
-      <pubDate>Sun, 21 Apr 2024 05:02:04 GMT</pubDate>
     </item>
     </channel>
 </rss>
