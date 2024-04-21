@@ -4,20 +4,62 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个 Reddit 子版块，用于分享和接收有关副项目的建设性反馈。</description>
-    <lastBuildDate>Sun, 21 Apr 2024 09:12:21 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Apr 2024 12:21:23 GMT</lastBuildDate>
+    <item>
+      <title>Deno + Deno Deploy 是我最喜欢的副项目后端</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1c9g6ig/deno_deno_deploy_is_my_new_favorite_backend_for/</link>
+      <description><![CDATA[只是想分享一下，我今天早上正在做一个小项目，该项目将 Siri 连接到 OpenAI 函数调用，稍后在 Notion 上创建一个任务。我发现 Deno Deploys 允许您以与 Netlify 前端类似的方式从存储库部署功能。  首先，Deno - 哇，真是一次体验。它支持 typescript，无需任何配置（没有 webpack 之类的东西）。它内置了更改后重新启动功能。 Deno Deploy 允许每月 100 万次免费调用。它们有域、环境变量。他们也有 cron 作业。我希望他们有类似于 SQS 的东西并且能够从消息队列触发功能。但对于较小的项目来说，它非常整洁！ 我最终使用expressjs 在单个 lambda 内进行路由。确实有一个正在运行的 API 在 15 以内。超酷。不确定我是否会在更复杂的项目中达到峰值，但实际上为什么不呢..可以使用分支作为临时版本，因此您基本上可以拥有多个临时环境。像 SQS 这样的东西对我来说确实是一个游戏改变。   由   提交 /u/OkMeeting8253   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1c9g6ig/deno_deno_deploy_is_my_new_favorite_backend_for/</guid>
+      <pubDate>Sun, 21 Apr 2024 12:01:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>免费使用开发者工具：devtools.world</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1c9g1ik/free_to_use_developer_tools_devtoolsworld/</link>
+      <description><![CDATA[https://devtools.world   由   提交 /u/Typical-Start5717    reddit.com/r/SideProject/comments/1c9g1ik/free_to_use_developer_tools_devtoolsworld/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1c9g1ik/free_to_use_developer_tools_devtoolsworld/</guid>
+      <pubDate>Sun, 21 Apr 2024 11:53:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>您想与其他独立黑客竞争吗？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1c9fewr/do_you_want_to_compete_with_other_indie_hackers/</link>
+      <description><![CDATA[大家好，我正在寻找有兴趣了解他们与其他独立黑客相比的生产力如何的人。 我希望举办一场 5-10 人的锦标赛，他们做得越多，排名就越高。 让我们互相激励，争取第一名！ 如果你感兴趣在下面发表评论，我将为您提供更多详细信息👇   由   提交/u/jaiten_thomas   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1c9fewr/do_you_want_to_compete_with_other_indie_hackers/</guid>
+      <pubDate>Sun, 21 Apr 2024 11:16:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了一个 CLI PaaS，用于快速轻松地将应用程序部署到 VPS</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1c9egbz/i_created_a_cli_paas_for_fast_and_easy_app/</link>
+      <description><![CDATA[ 由   提交 /u/Primary-Wait3600   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1c9egbz/i_created_a_cli_paas_for_fast_and_easy_app/</guid>
+      <pubDate>Sun, 21 Apr 2024 10:13:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找有关我一直在构建的 DevOps Copilot 的反馈。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1c9e3jw/looking_for_feedback_on_a_devops_copilot_ive_been/</link>
+      <description><![CDATA[我几个月前开始构建depX，现在它处于公开测试版。它是一个 DevOps Copilot，可以使用简单的英语配置云基础设施和部署代码。希望在这里得到任何工程师的反馈。 它解决了以下问题陈述：  DevOps 工程师在部署云基础设施时花费大部分时间编写代码。 DevOps 工程师必须学习多种工具来完成同一任务。    由   提交/u/N3cromorph98  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1c9e3jw/looking_for_feedback_on_a_devops_copilot_ive_been/</guid>
+      <pubDate>Sun, 21 Apr 2024 09:49:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>概念博客简介</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1c9e0zl/introducing_notion_blog/</link>
+      <description><![CDATA[      ​ https://reddit.com/link/1c9e0zl/video/7dhnllwxzsvc1/player 为热爱 Notion 和想要自行托管他们的博客。  我用它建立了我的博客。在这里查看：https://github.com /Utkarshn10/notion-blog    由   提交/u/Leather_Ad_6035   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1c9e0zl/introducing_notion_blog/</guid>
+      <pubDate>Sun, 21 Apr 2024 09:45:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>用于保存图库的网络应用程序 - 希望得到反馈</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1c9dlhl/webapp_for_saving_image_galleries_would_love/</link>
+      <description><![CDATA[当我喜欢的画廊页面的链接被删除时，我感到很恼火，所以我制作了一个应用程序来保存我喜欢的画廊。这是 NSFW，所以请注意！如果您想尝试一下并提供反馈，请访问 pixheap.com   由   提交 /u/pixheap   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1c9dlhl/webapp_for_saving_image_galleries_would_love/</guid>
+      <pubDate>Sun, 21 Apr 2024 09:14:11 GMT</pubDate>
+    </item>
     <item>
       <title>我想我要放弃创业了！</title>
       <link>https://www.reddit.com/r/SideProject/comments/1c9cz80/i_think_im_quitting_entrepreneurship/</link>
       <description><![CDATA[我已经踏上这个旅程两年了，总是在完成工作后尝试通过建立副业来使其发挥作用。但我遇到的困难是营销。与（建设或团队管理）营销等其他任务相比，营销感觉像是一件苦差事，所以我无法进入心流状态。问题是我已经尝试了阳光下的一切（课程、书籍、辅导） ）它们都很耗时，没有真正的投资回报率“我在学习过程中感觉很好，但没有任何东西转化为我的手艺”。 我想你不可能成为一个营销技巧不好的企业家。因此，除非我在接下来的几个月内找到解决方案，否则我将永远放弃这个问题🙁。   由   提交/u/Think-Competition-12   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1c9cz80/i_think_im_quitting_entrepreneurship/</guid>
       <pubDate>Sun, 21 Apr 2024 08:30:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>为移动应用开发者构建人工智能驱动的应用商店优化 (ASO) 平台</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1c9cf3g/built_an_aidriven_app_store_optimization_aso/</link>
-      <description><![CDATA[大家好！我推出了 GrowASO，这是一个帮助移动应用开发者（iOS、Android）使用 AI 增加应用下载量的平台。  它具有许多功能，例如人工智能列表优化器、应用程序图标优化器、关键字排名跟踪和关键字研究（提供合理且准确的关键字流量和难度估计）。  我期待听到应用开发者的反馈！您可以在这里使用它： GrowASO   由   提交 /u/Minimum_Paper102   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1c9cf3g/built_an_aidriven_app_store_optimization_aso/</guid>
-      <pubDate>Sun, 21 Apr 2024 07:52:44 GMT</pubDate>
     </item>
     <item>
       <title>介绍我们的人工智能驱动平台：通过简单描述来创建应用程序！</title>
@@ -41,7 +83,7 @@
       <pubDate>Sun, 21 Apr 2024 06:37:40 GMT</pubDate>
     </item>
     <item>
-      <title>寻找反馈。制作了一个用于推销电话/录制爆头视频/播客的提词器。 https://salesmagic.vercel.app</title>
+      <title>寻求反馈。制作了用于电话营销/录制头像视频/播客的提词器。https://salesmagic.vercel.app</title>
       <link>https://www.reddit.com/r/SideProject/comments/1c9b4ts/looking_for_feedback_made_a_teleprompter_for_cold/</link>
       <description><![CDATA[       由   提交/u/freakH3O   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1c9b4ts/looking_for_feedback_made_a_teleprompter_for_cold/</guid>
@@ -55,60 +97,18 @@
       <pubDate>Sun, 21 Apr 2024 05:56:11 GMT</pubDate>
     </item>
     <item>
-      <title>刚刚在 PH 上推出 TurnHerToAI，更新了服务条款使其合法</title>
+      <title>刚刚在 PH 上推出 TurnHerToAI，更新了服务条款以使其合法</title>
       <link>https://www.reddit.com/r/SideProject/comments/1c99uev/just_launched_turnhertoai_on_ph_updated_tos_to_be/</link>
       <description><![CDATA[嘿伙计们，感谢您对我上一篇文章的批评和评论，我更新了 turnhertoai .com 的 ToS 并调整产品以使其严格合法。  turnhertoai.com 旨在将社交媒体体验转变为深度互动和吸引人的体验，而不是盲目消费和注定失败的内容。滚动，你现在可以与你暗恋的人工智能聊天，与你宠物的人工智能一起玩乐，或者与你上帝的人工智能一起探索灵性。希望您喜欢它！ 尝试一下该产品，如果您喜欢它，请在 ProductHunt 上评分！ https://www.producthunt.com/posts/turnhertoai   由   提交 /u/No_Parsnip7051   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1c99uev/just_launched_turnhertoai_on_ph_updated_tos_to_be/</guid>
       <pubDate>Sun, 21 Apr 2024 05:05:45 GMT</pubDate>
     </item>
     <item>
-      <title>为共享经济和租赁领域的初创公司寻找技术联合创始人</title>
+      <title>为共享经济和租赁初创公司寻找技术联合创始人</title>
       <link>https://www.reddit.com/r/SideProject/comments/1c99s9h/looking_for_a_technical_cofounder_for_a_startup/</link>
       <description><![CDATA[嘿，大家好，我是一家初创公司的创始人，目前从事共享经济和租赁业务。过去两年我一直在探索这个领域，但那是我在大学时的兼职。我很快就会毕业，并将全职从事该项目。目标是建立一个满足各种租赁需求（短期和长期）的平台/社区。我有一些行业领导者作为我们的顾问。 我目前正在寻找一位对解决该行业问题有兴趣的技术联合创始人。如果有兴趣，请告诉我:)   由   提交 /u/xaviourtron   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1c99s9h/looking_for_a_technical_cofounder_for_a_startup/</guid>
       <pubDate>Sun, 21 Apr 2024 05:02:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的第一个独立应用程序 |生产力杂志|自由的</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1c99k8t/my_first_indie_app_productivity_journal_free/</link>
-      <description><![CDATA[大家好！ 我很高兴宣布推出我的第一个应用程序 Glyph - Productivity Journal！ 🎉 它现已在 App Store 上架，我迫不及待地想让大家尝试一下。 Glyph 不仅仅是一款生产力应用程序；它还是一款生产力应用程序。它旨在帮助您在美观直观的界面中整理想法、养成习惯并跟踪进度。无论您是学生、专业人士，还是喜欢保持井井有条的人，Glyph 都能让您的生活变得更轻松。 以下是一些主要功能： 📝 **轻松写日记：** 随时随地快速记下您的想法、主意和反思。 🎯 **习惯设置：** 设定可实现的习惯并跟踪您随时间的进展。 📅 **每日计划器：** 有效地计划你的一天并掌控你的任务。 📈 **进度跟踪：** 通过富有洞察力的图表和图表可视化你的进度。 &lt; p&gt;🔒 **安全私密：** 您的数据经过加密且安全，因此您可以安心地记日记。 第一个版本花了我大约一个月的时间来创建，一周的时间才完成接受审查，我会根据您的反馈不断努力改进它。所以，如果你尝试一下，我很想听听你的想法！您的反馈对于使 Glyph 成为最好的产品非常宝贵。 立即下载 Glyph Productivity Journal 并掌控您的生产力之旅！ 🚀 https://apps.apple.com/app/glyph-productivity- Journal/id6492925190 PS：应用程序中的所有功能都是免费的，没有付费墙！ 此外，如果您想跟随我创建应用程序和导航技术的旅程请通过 Twitter 与我联系 - https://twitter.com/nitinfication 感谢您的支持！ 🙏   由   提交/u/Winter_Death_  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1c99k8t/my_first_indie_app_productivity_journal_free/</guid>
-      <pubDate>Sun, 21 Apr 2024 04:48:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>[包含源代码] 电子邮件通讯业务帮助我创造了 10 万美元的 ARR</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1c997bz/source_code_included_email_newsletter_business/</link>
-      <description><![CDATA[大家好 👋， 我一直致力于改进电子邮件通讯注册的用户体验，并决定创建面向极简主义和易用性的登陆页面模板。经过一些调整和测试后，我对结果非常满意！ https://newsletter-landing-page-olive.vercel.app/&quot;&gt;https:// /newsletter-landing-page-olive.vercel.app/ 无论您是要推出新产品、建立社区，还是只是想扩大电子邮件列表，这都可能会有所帮助！我也把源代码放进去了，希望对你有帮助:)   由   提交 /u/kouyaruten   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1c997bz/source_code_included_email_newsletter_business/</guid>
-      <pubDate>Sun, 21 Apr 2024 04:26:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>Beleave：一个帮助您轻松离开多个 Reddit 子版块的网站</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1c98n9m/beleave_a_website_to_help_you_leave_multiple/</link>
-      <description><![CDATA[嗨。我想离开多个 Reddit 社区，但使用官方 Reddit 应用程序离开多个 Reddit 子版块很麻烦。我必须单击每个 Reddit 子版块，等待其加载，然后单击“已加入”按钮。按钮，然后去寻找下一个 Reddit 子版块。所以，我决定将其自动化。 Beleave 是一个网站，您只需标记要离开的子版块，然后单击“离开社区”即可。它使用 Reddit 的 API 来保留所有选定的 subreddits。它是完全免费的。我什至没有在其中放置广告。 您可以在此处 找到它  由   提交 /u/Viirock   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1c98n9m/beleave_a_website_to_help_you_leave_multiple/</guid>
-      <pubDate>Sun, 21 Apr 2024 03:53:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>良好的用户体验网站</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1c985vp/good_ux_sites/</link>
-      <description><![CDATA[大家好，我正在为一个微型 SaaS 在线创建新网站，我对用户体验应该是什么样子感到困惑。 2024 年有哪些现代设计网站可供借鉴？   由   提交/u/NewMe80  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1c985vp/good_ux_sites/</guid>
-      <pubDate>Sun, 21 Apr 2024 03:24:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>免费 Shopify 网站设计</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1c97fge/free_shopify_website_design/</link>
-      <description><![CDATA[我已经开始提供网页设计服务，目前正在为认真的企业提供免费的 Shopify 网站设计。 我所要求的一切回报是： - 视频推荐 - 推荐 - 考虑建立长期业务关系  这是我设计的示例网站：https://d61c76-2.myshopify.com 请随时私信我或通过以下方式与我联系：WhatsApp：+1(202)-263-9854 电子邮件：&lt; a href=&quot;mailto:Bambad429@gmail.com&quot;&gt;Bambad429@gmail.com   由   提交/u/Kitchen-Masterpiece7  /u/Kitchen-Masterpiece7  reddit.com/r/SideProject/comments/1c97fge/free_shopify_website_design/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1c97fge/free_shopify_website_design/</guid>
-      <pubDate>Sun, 21 Apr 2024 02:42:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个网络应用程序，可以将 Youtube 视频转换为分步教程指南</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1c96j7a/i_made_a_web_app_that_converts_youtube_videos/</link>
-      <description><![CDATA[嘿伙计们。过去一个月我一直在做这个副业项目。它会生成 YouTube 视频的分步教程指南，您无需观看长视频即可跟随。最适合教程视频，但也适用于其他视频。没有BS。开门见山。  这些指南是根据纯文字记录生成的，因此您不必担心它是人工智能。这是我作为一个完全初学者的第一个项目。为了摆脱教程地狱，我必须做一些事情。  如果您有任何建议或者遇到任何问题或错误，请告诉我。我会尽力尽快修复它们。我非常感谢您对此的反馈。可以直接给我留言。  链接如下：stepify.tech  &amp;# 32；由   提交/u/saucethasavage  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1c96j7a/i_made_a_web_app_that_converts_youtube_videos/</guid>
-      <pubDate>Sun, 21 Apr 2024 01:53:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
