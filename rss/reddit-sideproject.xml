@@ -4,7 +4,42 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个 Reddit 子版块，用于分享和接收有关副项目的建设性反馈。</description>
-    <lastBuildDate>Sun, 21 Apr 2024 15:12:11 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Apr 2024 18:15:54 GMT</lastBuildDate>
+    <item>
+      <title>今天我在github上免费发布了我制作的图书生成器软件🔥</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1c9ojs6/i_released_the_book_generator_software_i_made_for/</link>
+      <description><![CDATA[我今天发布了用于生成电子书并随后将其作为开源软件出售的脚本。  放心使用吧！  当然，它在 GPT-4 上工作得最好，但在 3.5 上也能正常工作。  这是一个很棒的工具，可以获取任何书籍主题的草稿。 在这里找到它 ➡️  https://github.com/bitsbard/bookGenerator   由   提交 /u/bitsbard   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1c9ojs6/i_released_the_book_generator_software_i_made_for/</guid>
+      <pubDate>Sun, 21 Apr 2024 18:13:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>反应式 DOM——终于！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1c9oi1d/reactive_dom_finally/</link>
+      <description><![CDATA[       由   提交 /u/beforesemicolon   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1c9oi1d/reactive_dom_finally/</guid>
+      <pubDate>Sun, 21 Apr 2024 18:11:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>第 12 天 - 在初次接触后，您如何跟进潜在客户？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1c9nwfj/day_12_how_do_you_follow_up_with_potential/</link>
+      <description><![CDATA[我将在接下来的几天里尝试这些单行问题，因为实际上没有必要解释它们。 😎   由   提交/u/Romanmark747  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1c9nwfj/day_12_how_do_you_follow_up_with_potential/</guid>
+      <pubDate>Sun, 21 Apr 2024 17:46:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>我在 PlayStore 上的第一个 Flutter 游戏</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1c9ngdn/my_first_flutter_game_on_playstore/</link>
+      <description><![CDATA[   /u/GNNK71  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1c9ngdn/my_first_flutter_game_on_playstore/</guid>
+      <pubDate>Sun, 21 Apr 2024 17:27:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>测试已知内容收入技术</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1c9mh7n/testing_a_knew_content_income_technique/</link>
+      <description><![CDATA[嗨，最近我听说有人花了几个月的时间建立 YouTube 频道，在抛弃它们之前将其货币化。我想尝试一下，看看它是否有效，这样你们就不必跟随我的旅程了。以下是我在 https://www.youtube.com/@SecurityCentral570/shorts 上测试的频道的链接   由   提交 /u/Linkezd   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1c9mh7n/testing_a_knew_content_income_technique/</guid>
+      <pubDate>Sun, 21 Apr 2024 16:45:18 GMT</pubDate>
+    </item>
     <item>
       <title>构建我的第一个 Saas 副项目的第一周的 3 个重要经验教训</title>
       <link>https://www.reddit.com/r/SideProject/comments/1c9jrbt/top_3_lessons_from_my_first_week_building_my/</link>
@@ -50,7 +85,7 @@
     <item>
       <title>Deno + Deno Deploy 是我最喜欢的副项目后端</title>
       <link>https://www.reddit.com/r/SideProject/comments/1c9g6ig/deno_deno_deploy_is_my_new_favorite_backend_for/</link>
-      <description><![CDATA[只是想分享一下，我今天早上正在做一个小项目，该项目将 Siri 连接到 OpenAI 函数调用，稍后在 Notion 上创建一个任务。我发现 Deno Deploys 允许您以与 Netlify 前端类似的方式从存储库部署功能。  首先，Deno - 哇，真是一次体验。它支持 typescript，无需任何配置（没有 webpack 之类的东西）。它内置了更改后重新启动功能。 Deno Deploy 允许每月 100 万次免费调用。它们有域、环境变量。他们也有 cron 作业。我希望他们有类似于 SQS 的东西并且能够从消息队列触发功能。但对于较小的项目来说，它非常整洁！ 我最终使用expressjs 在单个 lambda 内进行路由。确实有一个正在运行的 API 在 15 以内。超酷。不确定我是否会在更复杂的项目中达到峰值，但实际上为什么不呢？可以使用分支作为暂存版本，因此您基本上可以拥有多个暂存环境。像 SQS 这样的东西对我来说确实是一个游戏改变。   由   提交 /u/OkMeeting8253   [链接] [评论]]]></description>
+      <description><![CDATA[只是想分享一下，我今天早上正在做一个小项目，该项目将 Siri 连接到 OpenAI 函数调用，稍后在 Notion 上创建一个任务。我发现 Deno Deploys 允许您以与 Netlify 前端类似的方式从存储库部署功能。  首先，Deno - 哇，真是一次体验。它支持 typescript，无需任何配置（没有 webpack 之类的东西）。它内置了更改后重新启动功能。 Deno Deploy 允许每月 100 万次免费调用。它们有域、环境变量。他们也有 cron 作业。我希望他们有类似于 SQS 的东西并且能够从消息队列触发功能。但对于较小的项目来说，它非常整洁！ 我最终使用expressjs 在单个 lambda 内进行路由。确实有一个正在运行的 API 在 15 以内。超酷。不确定我是否会在更复杂的项目中达到峰值，但实际上为什么不呢..可以使用分支作为临时版本，因此您基本上可以拥有多个临时环境。像 SQS 这样的东西对我来说确实是一个游戏改变。   由   提交 /u/OkMeeting8253   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1c9g6ig/deno_deno_deploy_is_my_new_favorite_backend_for/</guid>
       <pubDate>Sun, 21 Apr 2024 12:01:10 GMT</pubDate>
     </item>
@@ -74,41 +109,6 @@
       <description><![CDATA[ 由   提交 /u/Primary-Wait3600   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1c9egbz/i_created_a_cli_paas_for_fast_and_easy_app/</guid>
       <pubDate>Sun, 21 Apr 2024 10:13:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找有关我一直在构建的 DevOps Copilot 的反馈。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1c9e3jw/looking_for_feedback_on_a_devops_copilot_ive_been/</link>
-      <description><![CDATA[我几个月前开始构建depX，现在它处于公开测试版。它是一个 DevOps Copilot，可以使用简单的英语配置云基础设施和部署代码。希望在这里得到任何工程师的反馈。 它解决了以下问题陈述：  DevOps 工程师在部署云基础设施时花费大部分时间编写代码。 DevOps 工程师必须学习多种工具来完成同一任务。    由   提交/u/N3cromorph98  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1c9e3jw/looking_for_feedback_on_a_devops_copilot_ive_been/</guid>
-      <pubDate>Sun, 21 Apr 2024 09:49:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>概念博客简介</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1c9e0zl/introducing_notion_blog/</link>
-      <description><![CDATA[      ​ https://reddit.com/link/1c9e0zl/video/7dhnllwxzsvc1/player 为热爱 Notion 和想要自行托管他们的博客。  我用它建立了我的博客。在这里查看：https://github.com /Utkarshn10/notion-blog    由   提交/u/Leather_Ad_6035   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1c9e0zl/introducing_notion_blog/</guid>
-      <pubDate>Sun, 21 Apr 2024 09:45:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于保存图库的网络应用程序 - 希望得到反馈</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1c9dlhl/webapp_for_saving_image_galleries_would_love/</link>
-      <description><![CDATA[当我喜欢的画廊页面的链接被删除时，我感到很恼火，所以我制作了一个应用程序来保存我喜欢的画廊。这是 NSFW，所以请注意！如果您想尝试一下并提供反馈，请访问 pixheap.com   由   提交 /u/pixheap   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1c9dlhl/webapp_for_saving_image_galleries_would_love/</guid>
-      <pubDate>Sun, 21 Apr 2024 09:14:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>我想我要放弃创业了！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1c9cz80/i_think_im_quitting_entrepreneurship/</link>
-      <description><![CDATA[我已经踏上这个旅程两年了，总是在完成工作后尝试通过建立副业来使其发挥作用。但我遇到的困难是营销。与（建设或团队管理）营销等其他任务相比，营销感觉像是一件苦差事，所以我无法进入心流状态。问题是我已经尝试了阳光下的一切（课程、书籍、辅导） ）它们都很耗时，没有真正的投资回报率“我在学习过程中感觉很好，但没有任何东西转化为我的手艺”。 我想你不可能成为一个营销技巧不好的企业家。因此，除非我在接下来的几个月内找到解决方案，否则我将永远放弃这个问题🙁。   由   提交/u/Think-Competition-12   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1c9cz80/i_think_im_quitting_entrepreneurship/</guid>
-      <pubDate>Sun, 21 Apr 2024 08:30:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>介绍我们的人工智能驱动平台：通过简单描述即可创建应用程序！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1c9cckc/introducing_our_aidriven_platform_create_apps_by/</link>
-      <description><![CDATA[嘿r/SideProject， 我们很高兴与大家分享，我们正在开发一个可以简化应用程序创建的人工智能平台。您不需要任何编码技能 - 只需描述您的应用创意，我们的人工智能即可处理其余的事情！ ​ 当前进度： 我们正在微调功能并为抢先体验做好准备。我们的目标是确保流畅高效的用户体验。 ​ 加入我们的抢先体验！ 希望成为第一批探索我们的平台？在此注册抢先体验：https://tally.so/r/n0xNrZ   由   提交 /u/Significant-Bad7066    reddit.com/r/SideProject/comments/1c9cckc/introducing_our_aidriven_platform_create_apps_by/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1c9cckc/introducing_our_aidriven_platform_create_apps_by/</guid>
-      <pubDate>Sun, 21 Apr 2024 07:47:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
