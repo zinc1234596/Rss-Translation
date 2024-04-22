@@ -4,7 +4,84 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个 Reddit 子版块，用于分享和接收有关副项目的建设性反馈。</description>
-    <lastBuildDate>Mon, 22 Apr 2024 18:15:27 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Apr 2024 21:11:11 GMT</lastBuildDate>
+    <item>
+      <title>我制作了一个 Mac 应用程序，可以减少或消除全天的上下文切换</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cam2q1/i_made_a_mac_app_that_reduces_or_eliminates/</link>
+      <description><![CDATA[     &lt; /td&gt; 在整个工作日以及每次我们必须切换流程的上下文时，在数十个应用程序或网站之间切换确实很常见生产力受到打击。因此，有一个工具可以让您完成许多不同的事情，但又不会因为 UI 上的大量按钮或键盘快捷键而让您感到不知所措。 人们常常向我推荐我自己认为有用的工具。毫无疑问会提高我的工作效率，但只需一眼，我就可以看出该工具需要大量的时间投入和精力来克服陡峭的学习曲线。 我需要一些您只需安装即可使用的东西运行并使用数周或数月，无需花一个小时进行设置或观看入门视频。这就是我创建 Monarch 的原因。 Monarch 是一款类似于“控制中心”的应用程序。适用于您的 Mac，可让您打开和退出应用程序、运行音量/麦克风控制等系统命令、搜索剪贴板历史记录、选择和管理颜色、随处快速记笔记、轻松浏览器书签控制、管理 Apple 提醒、运行计算等等等... 所有这些都不会让您因大量配置和 UI 选项而感到不知所措。许多用户表示他们已经每天使用 Monarch，有些甚至说没有它就感觉赤身裸体。 您可以在 https://monarchlauncher 上查看。 .com，如果您有疑问，这里还有常见问题解答，当然您也可以在这里提问！我很想听听您的想法！ ​ 小细节可以让您加快速度。下面是一个示例： 在这里，我正在搜索 Google 文档的书签，按住 cmd 键，我最喜欢的浏览器就会显示在右侧。通过单击任何浏览器，我可以专门在该浏览器中打开链接。如果我仅按 Enter 键，书签将在创建它的浏览器中打开（在本例中为 Brave） 搜索应用和书签，左下角有时间敏感提醒   由   提交/u/theeringfour  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cam2q1/i_made_a_mac_app_that_reduces_or_eliminates/</guid>
+      <pubDate>Mon, 22 Apr 2024 21:09:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>什么网站扫描 Reddit 来寻找问题想法？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1calypv/what_site_scanned_reddit_for_problem_ideas/</link>
+      <description><![CDATA[一些想法，有人发布了他们制作的一个很酷的网站，该网站扫描了 reddit 来寻找新业务的问题/想法。有人记得这个网站是什么吗？   由   提交/u/dave_mays  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1calypv/what_site_scanned_reddit_for_problem_ideas/</guid>
+      <pubDate>Mon, 22 Apr 2024 21:05:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>这个网站有 100 多个隐藏的机会</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1callpu/100_of_hidden_opportunies_with_this_website/</link>
+      <description><![CDATA[如果您对项目没有想法，那么这个网站将非常有价值。总而言之，这是废弃网站和应用程序的第一个市场，请在此处留下您的邮件以获取早期访问权限：https://deadproduct.com    提交人    /u/filthyrichboy   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1callpu/100_of_hidden_opportunies_with_this_website/</guid>
+      <pubDate>Mon, 22 Apr 2024 20:50:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>我根据 Alex Hormozi 的书 $100M Offers 构建了一个应用程序，可以帮助您创建更好的优惠</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1call54/i_built_an_app_based_on_alex_hormozis_book_100m/</link>
+      <description><![CDATA[大家好， 去年，我读了 Alex Hormozi 的书《1 亿美元的优惠》，觉得这本书很棒。我受到很大的启发，因此决定创建一个网络应用程序，将所有关键概念提炼为创建报价的逐步过程。 我去年完成了该应用程序，但我被另一个项目转移了注意力，从未启动过它。 昨天，当我修改当前应用程序的报价时，这个项目提醒了我。它对于帮助我组织思想并更客观地处理事情非常有用。  我想我应该与您分享它，以防您发现它像我一样有帮助！ https: //www.offerwiz.io   由   提交 /u/iskandarchacra   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1call54/i_built_an_app_based_on_alex_hormozis_book_100m/</guid>
+      <pubDate>Mon, 22 Apr 2024 20:49:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI 内容生成工具 - contentlia.com</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cal9r1/ai_content_generation_tool_contentliacom/</link>
+      <description><![CDATA[我最新的副业项目需要诚实的反馈https://contentlia.com 注册后，您可以生成高清图像、内容、配音，使用连接到网络的聊天机器人，使用聊天机器人分析网页，以便我们可以提出有关该网页的问题并分析文件。  这都是相当标准的东西，但它被放在一个漂亮的界面中。    由   提交/u/flipsnapnet  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cal9r1/ai_content_generation_tool_contentliacom/</guid>
+      <pubDate>Mon, 22 Apr 2024 20:29:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>contentlia.com - 人工智能内容生成工具</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cal9kb/contentliacom_ai_content_generation_tool/</link>
+      <description><![CDATA[我最新的副业项目需要诚实的反馈https://contentlia.com 注册后，您可以生成高清图像、内容、配音，使用连接到网络的聊天机器人，使用聊天机器人分析网页，以便我们可以提出有关该网页的问题并分析文件。  这都是相当标准的东西，但它被放在一个漂亮的界面中。    由   提交/u/flipsnapnet  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cal9kb/contentliacom_ai_content_generation_tool/</guid>
+      <pubDate>Mon, 22 Apr 2024 20:29:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>contentlia.com - 人工智能内容生成工具</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cal9fh/contentliacom_ai_content_generation_tool/</link>
+      <description><![CDATA[我最新的副业项目需要诚实的反馈https://contentlia.com 注册后，您可以生成高清图像、内容、配音，使用连接到网络的聊天机器人，使用聊天机器人分析网页，以便我们可以提出有关该网页的问题并分析文件。  这都是相当标准的东西，但它被放在一个漂亮的界面中。    由   提交/u/flipsnapnet  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cal9fh/contentliacom_ai_content_generation_tool/</guid>
+      <pubDate>Mon, 22 Apr 2024 20:29:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>contentlia.com - 人工智能内容生成工具</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cal9dx/contentliacom_ai_content_generation_tool/</link>
+      <description><![CDATA[我最新的副业项目需要诚实的反馈https://contentlia.com 注册后，您可以生成高清图像、内容、配音，使用连接到网络的聊天机器人，使用聊天机器人分析网页，以便我们可以提出有关该网页的问题并分析文件。  这都是相当标准的东西，但它被放在一个漂亮的界面中。    由   提交/u/flipsnapnet  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cal9dx/contentliacom_ai_content_generation_tool/</guid>
+      <pubDate>Mon, 22 Apr 2024 20:29:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>我构建了一个 AI 视觉板生成器</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cakb08/i_built_an_ai_vision_board_generator/</link>
+      <description><![CDATA[嘿伙计们！我注意到互联网上创建虚拟愿景板的选项非常有限，因此启发我自己创建一个。 它称为 VisionSidekick - 您只需选择您想要的目标的类别即可实现（个人成长、健康与健身、财富、职业等），您回答一些具体问题，以便为您的图像量身定制，选择您的艺术和板风格，然后选择您想要保留的图像并将它们拖放到您的板上。  我试图保持它超级简单和用户友好，所以我很高兴你们尝试它！ 我们很快就会推出；只需前往 http://visionsidekick.com 进行预注册。  快乐表现！ 🌟   由   提交/u/MacaronIndividual476   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cakb08/i_built_an_ai_vision_board_generator/</guid>
+      <pubDate>Mon, 22 Apr 2024 19:48:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个绘画应用程序，您可以嵌入到您自己的网站上（或在我的网站上使用）</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cair5x/i_made_a_paint_app_you_can_embed_on_your_own/</link>
+      <description><![CDATA[嗨 - 我制作了一个绘画应用程序，您可以将其嵌入到您自己的网站上。它在我的网站上可供任何人使用，但如果您有网站，也欢迎您使用它。应用程序页面上有信息。 该应用程序是用 vanilla js 构建的，完全在浏览器中运行，服务器端没有任何反应。这使得它非常私密，并且非常快速（并且易于扩展）。我不确定如何营销该应用程序，或者是否可以添加一些功能，使其对可能想要使用它的其他网站更有用？ 您可以在此处查看它：https://brush.ninja/create/drawing/  &amp;# 32；由   提交/u/BinaryMoon  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cair5x/i_made_a_paint_app_you_can_embed_on_your_own/</guid>
+      <pubDate>Mon, 22 Apr 2024 18:48:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>我用 C++ 从头开始​​重建了 Redis</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cair1d/i_rebuilt_redis_from_scratch_in_c/</link>
+      <description><![CDATA[我用 C++ 从头开始​​构建了我的流行内存键值数据库 Redis 版本！  我的 redis 支持实际版本在启动时支持的所有命令。你可以使用官方的 redis-cli 与我的 redis 对话，它不会知道你是在与我的实现对话还是实际的对话，因为我还实现了 redis 使用的 RESP 协议来序列化客户端和服务器之间的通信。  以下是与官方 redis 的性能比较： 我的实现： SET: 207468.88 请求/秒 GET: 213675.22 请求/秒  官方Redis： SET：每秒222222.23个请求 GET：每秒222717.16个请求 我的redis有几个不同的地方：  &gt;我为每个客户端使用一个线程而不是事件循环。是的，我确实实现了必要的锁定基础设施以避免数据竞争。  &gt;我支持通过简单的 json 而不是二进制 .rdb 文件持久存储到磁盘。快照线程每隔几分钟就会唤醒一次，并将内存中的数据转储到磁盘。  这是我第一次构建完整的数据库服务器应用程序。一路上我学到了很多小但重要的东西，例如：惰性密钥删除、死锁避免、原始套接字调用、读取缓存以及多个序列化协议的挑战。  刚刚开始进行副项目，非常欢迎任何反馈:) Github 链接： https://github.com/agparv19/redis    由   提交 /u/According-Rich183    reddit.com/r/SideProject/comments/1cair1d/i_rebuilt_redis_from_scratch_in_c/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cair1d/i_rebuilt_redis_from_scratch_in_c/</guid>
+      <pubDate>Mon, 22 Apr 2024 18:48:19 GMT</pubDate>
+    </item>
     <item>
       <title>Dothttp、vscode 中的 http 开发友好</title>
       <link>https://www.reddit.com/r/SideProject/comments/1cahip7/dothttp_http_in_vscode_dev_friendly/</link>
@@ -32,83 +109,6 @@
       <description><![CDATA[你好r/sideproject， 我一直在开发一个名为 Eureka 的业余项目。它的目的是简化在线家具购物体验。上周推出后，我很想从你们那里得到一些反馈 Eureka 旨在通过提供一个干净、简单的界面来帮助用户浏览经常令人不知所措的在线家具购物世界：&lt; /p&gt;  使用反映其需求和偏好的特定关键字（例如“耐用”、“现代”或“绿色”）搜索家具。 在一个屏幕上比较来自宜家、亚马逊和沃尔玛等不同卖家的选项。 将产品保存到个性化心愿单以供日后查看或购买。 通过共享心愿单在决策过程中与其他人协作 直接从我们的平台结帐（此功能即将推出）。  这个概念源于个人对现有杂乱且充满广告的在线购物体验的沮丧。我想创建一个专注、无广告的环境，让人们可以轻松地找到他们需要的东西。 由于这是一个副项目转变为潜在的初创公司，我很想得到：  对用户界面和整体用户体验的反馈。 有关用户获取和扩展的有效策略的建议。  挑战：&lt; /strong&gt; 我最大的障碍是微调用户界面，使其尽可能直观，并制定与潜在用户产生共鸣的营销方法。 如果您有经验在电子商务、UI/UX、营销领域，或者只是对 Eureka 如何改进有一些想法，请分享 非常感谢您花时间阅读 Eureka。我期待您的宝贵反馈！ Eureka &lt;!-- SC_ON - -&gt;  由   提交/u/How_i_met_your_bro  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1cag5qx/eureka_simplifying_online_furniture_shopping/</guid>
       <pubDate>Mon, 22 Apr 2024 17:06:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个使用 AI 创建着色页的网站</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1caeioq/i_made_a_site_to_create_coloring_pages_using_ai/</link>
-      <description><![CDATA[   /u/Curious-Painting3012   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1caeioq/i_made_a_site_to_create_coloring_pages_using_ai/</guid>
-      <pubDate>Mon, 22 Apr 2024 16:01:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>第 13 天-您最大的客户来源是什么？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cadwbj/day_13_what_is_your_largest_source_of_clients/</link>
-      <description><![CDATA[☝️   由   提交/u/Romanmark747  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cadwbj/day_13_what_is_your_largest_source_of_clients/</guid>
-      <pubDate>Mon, 22 Apr 2024 15:35:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>CatClick，专业点击速度测试网站</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cadp9k/catclick_a_pro_click_speed_test_website/</link>
-      <description><![CDATA[https://moaiemoji.github.io/catclick/  一个 CPS 测试网站，有一个额外的战斗模式，点击你可以获得积分，其他人点击会让你失去积分。 特点：  &lt; li&gt;CPS 测试 有趣的战斗游戏模式 点击速度排行榜 多种类型的测试 跟踪统计数据&lt; /li&gt; 通过 GameJolt 保存进度    由   提交 /u/Themadpunter   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cadp9k/catclick_a_pro_click_speed_test_website/</guid>
-      <pubDate>Mon, 22 Apr 2024 15:27:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>我为visionOS开发了应用程序并正在审查中。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cadove/i_develoved_app_for_visionos_and_under_review/</link>
-      <description><![CDATA[我想成为一名独立开发者，是否值得从中赚取额外收入？   由   提交 /u/Satriawaaans   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cadove/i_develoved_app_for_visionos_and_under_review/</guid>
-      <pubDate>Mon, 22 Apr 2024 15:27:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>80 岁生日礼物创意</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cado9j/80th_birthday_gift_ideas/</link>
-      <description><![CDATA[我创建了一个博客网站，专门为 80 岁以上的人策划礼物创意，灵感来自于我自己为祖母选择礼物的困境。 此博客对于面临类似挑战的任何人来说都是有用的资源。为您所爱的人寻找贴心且难忘的礼物。 查看 80thgifts.c​​om   由   提交 /u/JayzeeZhang   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cado9j/80th_birthday_gift_ideas/</guid>
-      <pubDate>Mon, 22 Apr 2024 15:26:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>帮助我的 API 货币化并缩短开发时间的最佳服务/平台是什么？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cad4ew/what_is_the_best_serviceplatform_to_help_monetize/</link>
-      <description><![CDATA[我使用 Python FastAPI 创建了许多 API 并将它们部署到 Google App Engine。我正在尝试通过创建自己的网站来通过这些 API 货币化，该网站将使用户能够注册、订阅付费计划并使用这些 API。我需要在此网站上实现的一些功能包括：   用户帐户（身份验证、客户仪表板、API 密钥等） 管理仪表板（统计、计费）管理等） 订阅计划和订阅计划计费网关（Stripe、PayPal 等） API 网关（API 密钥生成、速率限制、使用情况跟踪、缓存、监控等）  &amp;# x200b; 我可以使用什么工具来避免编写所有这些样板代码？   由   提交/u/RoflCopper87   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cad4ew/what_is_the_best_serviceplatform_to_help_monetize/</guid>
-      <pubDate>Mon, 22 Apr 2024 15:04:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>我在 AI Collection 上创建了顶级 AI 应用程序的 3D 视图</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cacyur/i_created_a_3d_view_of_the_top_ai_applications_on/</link>
-      <description><![CDATA[     &lt; /td&gt; 我认为在 AI Collection 上添加顶级应用程序的 3D 显示会很酷 - 看看 此处 该网站是用 Qwik 和 Turso 和我构建的使用 Three.js 进行 3D 显示和动画。 https://preview.redd.it/5wet6epap1wc1.jpg?width=2164&amp;format=pjpg&amp;auto=webp&amp;s=e8738afdb66fa2e24246970a3e2496d0fed7470b   由   提交 /u/kerbelp   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cacyur/i_created_a_3d_view_of_the_top_ai_applications_on/</guid>
-      <pubDate>Mon, 22 Apr 2024 14:58:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>忙碌的？使用此工具获取人工智能驱动的比特币更新！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cacybr/busy_get_aipowered_bitcoin_updates_with_this_tool/</link>
-      <description><![CDATA[大家好！ BTCAura 是一个为交易者和加密爱好者量身定制的新闻聚合平台，提供人工智能驱动的市场趋势和对价格影响的见解。 &lt; p&gt;工作原理  从各种可信来源收集有关比特币的最新新闻。 根据新闻报道的潜在影响来识别和过滤新闻报道 BTCAura AI 每小时生成摘要，包括关键亮点。 根据重要新闻报道检测主要趋势。  以下是我需要您帮助的地方：  摘要是否易于理解且有帮助？ 总体用户体验和界面建议。 趋势工具是否有用？ 还有什么您希望 BTCAura 做的事情吗？     ;由   提交 /u/BorodaChe   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cacybr/busy_get_aipowered_bitcoin_updates_with_this_tool/</guid>
-      <pubDate>Mon, 22 Apr 2024 14:58:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>创建了一个插件，无需任何付费墙或 API 密钥即可使文本听起来很专业</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cacvkx/created_a_plugin_that_makes_text_sound/</link>
-      <description><![CDATA[大家好 创建了一个插件，使您的评论电子邮件等文本听起来专业，无需 api 密钥，可以免费使用 &lt; a href=&quot;https://chromewebstore.google.com/detail/text-professionalizer/ejfkecbiplcflogglbibmmhklopeogdh&quot;&gt;https://chromewebstore.google.com/detail/text-professionalizer/ejfkecbiplcflogglbibmmhklopeogdh 最佳部分它会替换您选择的文本，因此无需复制粘贴等 让我知道您对同一内容的想法    ;由   提交/u/Gold_Arrival1690   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cacvkx/created_a_plugin_that_makes_text_sound/</guid>
-      <pubDate>Mon, 22 Apr 2024 14:55:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>一家技术/工程初创公司即将推出。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cacs98/a_techengineering_startup_launching_soon/</link>
-      <description><![CDATA[大家好。说实话——当你周围都是主要是人工智能的初创公司时，在一家严肃的工程初创公司工作感觉很好。好的，我们即将推出，我们的目标客户是电信公司、移动网络运营商、互联网服务提供商、网络工程师、承包商以及所有处理光纤网络的人。 With www.splice.me 您可以管理光纤熔接表/图表。它就像一个用于接线图的网络应用程序，但用于光纤。尚未完成，但已经上线并免费使用（直到我们完成、启动并开始获得收入）。 关注 https://www.reddit.com/r/FiberOpticSaaS/一些 youtube 解释https://youtu.be /YE5waiUHxaY 欢迎提供反馈。   由   提交/u/vgreddit3  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cacs98/a_techengineering_startup_launching_soon/</guid>
-      <pubDate>Mon, 22 Apr 2024 14:51:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>这个工具会让寻找联合创始人变得更容易吗？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cacm6l/will_this_tool_make_it_easier_to_find_a_cofounder/</link>
-      <description><![CDATA[我正在构建一个工具来促进 SaaS 领域人员之间的联系。如果您正在开发一个项目并且正在寻找联合创始人，请查看此处。 &lt; p&gt;请在评论中告诉我您的想法。   由   提交/u/n_ozone  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cacm6l/will_this_tool_make_it_easier_to_find_a_cofounder/</guid>
-      <pubDate>Mon, 22 Apr 2024 14:44:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
