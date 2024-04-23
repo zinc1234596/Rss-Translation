@@ -4,7 +4,28 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个 Reddit 子版块，用于分享和接收有关副项目的建设性反馈。</description>
-    <lastBuildDate>Tue, 23 Apr 2024 00:54:37 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Apr 2024 03:13:01 GMT</lastBuildDate>
+    <item>
+      <title>为什么我们在发布后不到一个月的时间内就合并了初创公司</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cauadj/why_we_merged_startups_less_than_a_month_from/</link>
+      <description><![CDATA[      发布不到 1 个月，用户不到 100 名，Qura 达到了一个里程碑：我们第一次成功合并 Qura 的目标是打造社交媒体增长的终极工具箱，从 X( Twitter）。 我们决定与 YtoX 合并，YtoX 是一个将 YouTube 视频转换为线程的工具 现在，与  合并Qura 用户可以：  使用我们训练有素的模型轻松创建回复，以提高参与度 自动执行重复任务 将 Youtube 视频重新利用为病毒式传播只需单击一下即可建立线程我们的目标保持不变，现在我们更有信心我们的产品可以帮助增长。  我们还应该添加哪些其他功能来为用户提供X(Twitter) 增长的优势？  古拉英雄部分  YtoX 功能&lt; /p&gt; ​   由   提交/u/Direct-Stay-8156   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cauadj/why_we_merged_startups_less_than_a_month_from/</guid>
+      <pubDate>Tue, 23 Apr 2024 03:11:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>业余项目的电子邮件捕获</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cat6ob/email_capture_for_side_project/</link>
+      <description><![CDATA[正在构建一个 SaaS 应用程序，以 HTML、Vanilla JS 和 CSS 作为前端，而服务器端则在 FastApi 上用 Python 构建。我很感激任何简单的解决方案示例，用于捕获新用户的电子邮件和密码以创建他们的个人资料、注册后的用户身份验证以及自动向新用户发送电子邮件。谢谢   由   提交/u/lyomann92  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cat6ob/email_capture_for_side_project/</guid>
+      <pubDate>Tue, 23 Apr 2024 02:17:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于转录 YouTube 视频的想法的意见</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1carz4h/opinion_on_the_idea_regarding_transcribing/</link>
+      <description><![CDATA[大家好，我是一名企业家，正在寻找构建我的下一个 SaaS 的想法，并且我看到了一些待售的 SaaS，提供来自 YouTube 网址的 YouTube 视频转录。我想知道这样做是否合法，为了争论，可以说它不用于商业用途。只是想知道您对此的想法？   由   提交/u/Sandeep_bh  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1carz4h/opinion_on_the_idea_regarding_transcribing/</guid>
+      <pubDate>Tue, 23 Apr 2024 01:20:20 GMT</pubDate>
+    </item>
     <item>
       <title>Tori Chrome Extension - 受 Sololeveling 启发的 AI 生产力教练（即 Goku、Luffy、Zoro、Mikasa 等）。 Beta 版发布，加入 200 多名用户。</title>
       <link>https://www.reddit.com/r/SideProject/comments/1car7pp/tori_chrome_extension_ai_productivity_coaches/</link>
@@ -13,7 +34,7 @@
       <pubDate>Tue, 23 Apr 2024 00:44:30 GMT</pubDate>
     </item>
     <item>
-      <title>我创建了一个自动化平台，可以在 Telegram 频道中查找、编录和发布工作机会</title>
+      <title>我创建了一个自动化平台，用于在 Telegram 频道中查找、分类和发布工作机会</title>
       <link>https://www.reddit.com/r/SideProject/comments/1caq20p/i_created_an_automated_platfor_that_finds/</link>
       <description><![CDATA[它会自动抓取招聘网站、提取职位空缺、过滤无薪职位、根据技术对职位空缺进行分类并在其渠道中发布每个职位空缺（例如： JAVA 提供 JAVA 作业的特定通道，Node.js 提供 Node.js 通道...）。  对于在特定技术（JAVA、Node.js、React、.NET ...）、某些行业（社交媒体、云、项目管理...）寻找工作的人来说，这非常有用。 .) 或在特定城市寻找工作（伦敦、纽约、马德里...）。 你可以看看在 Telegram 中寻找 NotificaJobs，你会找到所有频道。还有网站：https://notificajobs.com 我们的 Telegram 频道拥有超过 27,000 名用户，用户数量超过 500 名网站上每天都有。 由于项目需要一些时间来维护，而我们目前没有时间，所以我们正在考虑出售它。因此，如果有人感兴趣，请告诉我们:)   由   提交 /u/palmeritox   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1caq20p/i_created_an_automated_platfor_that_finds/</guid>
@@ -64,7 +85,7 @@
     <item>
       <title>我为数字健康创建了免费的网络应用程序</title>
       <link>https://www.reddit.com/r/SideProject/comments/1caoips/i_created_free_web_app_for_digital_wellbeing/</link>
-      <description><![CDATA[这是我的第一个业余项目。数字健康领域。现在可用于眼睛干涩、眼部肌肉和颈部。对于每一个花几个小时在电脑前放松的人来说应该是理想的选择。现在包含简单的可视化，并寻找可视化锻炼进度的最佳方法或某种锻炼游戏化的方法。很高兴听到任何反馈。 dotyklab.com 技术堆栈包含机器学习和算法，并且更好地在机器学习友好的设备上运行。 &lt; /div&gt;  由   提交/u/iu5334  [链接] [评论]]]></description>
+      <description><![CDATA[这是我的第一个副业。数字健康领域。现在它可以用于干眼症、眼部肌肉和颈部。应该是每个在电脑前花费数小时的人的理想选择，可以很好地放松身心。现在包含简单的可视化，并寻找可视化锻炼进度的最佳方法或某种锻炼游戏化的方法。很高兴收到任何反馈。dotyklab.com 技术堆栈包含 ML 和算法，最好在 ML 友好设备上运行。    提交人    /u/iu5334   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1caoips/i_created_free_web_app_for_digital_wellbeing/</guid>
       <pubDate>Mon, 22 Apr 2024 22:44:21 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[     &lt; /td&gt; 网站：https://monarchlauncher.com 整个工作日在数十个应用程序或网站之间切换是很常见的，每次我们必须切换上下文时，我们的流程和生产力都会受到影响。因此，有一个工具可以让您完成许多不同的事情，但又不会因为 UI 上的大量按钮或键盘快捷键而让您感到不知所措。 人们常常向我推荐我自己认为有用的工具。毫无疑问会提高我的工作效率，但只需一眼，我就可以看出该工具需要大量的时间投入和精力来克服陡峭的学习曲线。 我需要一些您只需安装即可使用的东西运行并使用数周或数月，无需花一个小时进行设置或观看入门视频。这就是我创建 Monarch 的原因。 Monarch 是一款类似于“控制中心”的应用程序。适用于您的 Mac，可让您打开和退出应用程序、运行音量/麦克风控制等系统命令、搜索剪贴板历史记录、选择和管理颜色、随处快速记笔记、轻松浏览器书签控制、管理 Apple 提醒、运行计算等等等... 所有这些都不会让您因大量配置和 UI 选项而感到不知所措。许多用户表示他们已经每天使用 Monarch，有些甚至说没有它就感觉赤身裸体。 您可以在 https://monarchlauncher 上查看。 .com，如果您有疑问，这里还有常见问题解答，当然您也可以在这里提问！我很想听听您的想法！ 小细节可以大大加快您的速度。下面是一个示例： 在这里，我正在搜索 Google 文档的书签，按住 cmd 键，我最喜欢的浏览器就会显示在右侧。通过单击任何浏览器，我可以专门在该浏览器中打开链接。如果我仅按 Enter 键，书签将在创建它的浏览器中打开（在本例中为 Brave） 搜索应用和书签，左下角有时间敏感提醒   由   提交/u/theeringfour  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1cam2q1/i_made_a_mac_app_that_reduces_or_eliminates/</guid>
       <pubDate>Mon, 22 Apr 2024 21:09:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>什么网站扫描 Reddit 来寻找问题想法？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1calypv/what_site_scanned_reddit_for_problem_ideas/</link>
-      <description><![CDATA[一些想法，有人发布了他们制作的一个很酷的网站，该网站扫描了 reddit 来寻找新业务的问题/想法。有人记得这个网站是什么吗？   由   提交/u/dave_mays  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1calypv/what_site_scanned_reddit_for_problem_ideas/</guid>
-      <pubDate>Mon, 22 Apr 2024 21:05:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>这个网站有 100 多个隐藏的机会</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1callpu/100_of_hidden_opportunies_with_this_website/</link>
-      <description><![CDATA[如果您对项目没有想法，那么这个网站将非常有价值。总而言之，这是废弃网站和废弃网站的第一个市场。应用程序，请在此处留下您的邮件以便尽早访问：https://deadproduct.com &lt;!-- SC_ON - -&gt;  由   提交 /u/filthyrichboy   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1callpu/100_of_hidden_opportunies_with_this_website/</guid>
-      <pubDate>Mon, 22 Apr 2024 20:50:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI 内容生成工具 - contentlia.com</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cal9r1/ai_content_generation_tool_contentliacom/</link>
-      <description><![CDATA[我最新的副业项目需要诚实的反馈https://contentlia.com 注册后，您可以生成高清图像、内容、配音，使用连接到网络的聊天机器人，使用聊天机器人分析网页，以便我们可以提出有关该网页的问题并分析文件。  这都是相当标准的东西，但它被放在一个漂亮的界面中。    由   提交/u/flipsnapnet  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cal9r1/ai_content_generation_tool_contentliacom/</guid>
-      <pubDate>Mon, 22 Apr 2024 20:29:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
