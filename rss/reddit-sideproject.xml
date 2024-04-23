@@ -4,7 +4,91 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个 Reddit 子版块，用于分享和接收有关副项目的建设性反馈。</description>
-    <lastBuildDate>Tue, 23 Apr 2024 09:12:46 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Apr 2024 12:23:21 GMT</lastBuildDate>
+    <item>
+      <title>我为 notions.so 做了 UX/UI 增强</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cb34eb/i_made_a_uxui_enhancement_for_notionsso/</link>
+      <description><![CDATA[这是一个浏览器扩展，用于增强 Notion.so 的 UI/UX 体验。 https://notionpower.app/ 几个月来，Notion 一直是我组织生活的首选。但我很快就遇到了一个反复出现的烦恼：缺乏固定的目录（TOC）。这种不断滚动导航成为一个真正的痛点。当我深入研究 Notion 时，出现了其他挫折： ​ - 板视图中分散注意力的水平滚动条。  - 有限的文本大小控制（仅缩小，不放大）。  - 难以关闭 AI 助手弹出窗口。  - ... ​ 为了解决这些问题，我开发了 Notion Power，这是一个浏览器扩展，包含 20 多种功能，可以简化您的工作流程并提高生产力。 我渴望听到您的反馈和建议！ 谢谢。    ;由   提交/u/kevin4dev  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cb34eb/i_made_a_uxui_enhancement_for_notionsso/</guid>
+      <pubDate>Tue, 23 Apr 2024 12:17:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>问：我从未见过人们尝试围绕他们的 SideProject 创建社区；为什么不？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cb2qs5/question_i_never_see_people_try_to_create_a/</link>
+      <description><![CDATA[嗨 SideProject 社区！我现在已经在自己的 SideProject 上工作了一段时间，并且一直很感兴趣地关注这个社区。有时，当有人分享他/她的副项目时，他们也会分享他们的技巧或经验，通常技巧是围绕你的项目创建一个社区或粉丝群，或类似的东西。这可以用来与最终用户保持密切联系，获得反馈，引起轰动，并帮助在 ProductHunt 上成功启动等。但！我在 Reddit 上从未见过有人真正这样做。为什么不？这样不行吗？不允许？ Reddit 不实用吗？人们认为这行不通吗？或者，当您尝试展示/推广您的 Reddit 社区时，人们会做出负面反应？ 想听听您对此的想法！ 谢谢，祝您的项目一切顺利！    由   提交/u/dontcarezysss   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cb2qs5/question_i_never_see_people_try_to_create_a/</guid>
+      <pubDate>Tue, 23 Apr 2024 11:58:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>我用 Flutter 构建了一个 PDF 阅读器应用程序。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cb2bzj/i_built_a_pdf_reader_app_with_flutter/</link>
+      <description><![CDATA[   我挑战自己在 12 个月内构建 12 个应用程序（类似于 Levelsio）。因此，上周我构建了一个简单的 PDF 阅读器应用程序。 主要功能  ✨ 直观的界面：凭借干净直观的界面，浏览 PDF 从未如此简单。轻松滑动、缩放和滚动即可轻松访问您的文档。  ✨ 闪电般的性能：简单的 PDF 阅读器针对速度进行了优化，让您可以立即打开大型 PDF 文件，没有任何滞后或延迟。享受流畅的滚动和快速的页面加载，以获得无缝的阅读体验。  ✨ 搜索：使用我们的搜索功能准确找到您要查找的内容。快速搜索整个 PDF 库或特定文档以查找关键字或短语。  ✨ 离线访问：随时随地离线访问您的 PDF。即使您未连接到互联网，也可以访问它们。 ​ 在此处查看：https://play.google.com/store/apps/details?id=com.onejobdev.simple_pdf_viewer_advanced_features  ​ https:/ /preview.redd.it/wfz64dbot7wc1.png?width=810&amp;format=png&amp;auto=webp&amp;s=8c25c5290251884e05727823db52cd4482c45d30 https://preview.redd.it/tbak3dbot7wc1.png?width=810&amp;format=png&amp;auto=webp&amp;s =e929f6cc5758672681307ad4bcf1a2d07cc5fa29 https ://preview.redd.it/9cp5acbot7wc1.png?width=810&amp;format=png&amp;auto=webp&amp;s=9d35fcce4581a2c10dc9c1277bab07fbb9d0e388 https://preview.redd.it/f2gpvfbot7wc1.png?width=810&amp;format=png&amp;auto=webp ＆amp; ;s=2d9873c698cbed4793a5e75e36201c00a4a8bc4c   由   提交/u/coold007  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cb2bzj/i_built_a_pdf_reader_app_with_flutter/</guid>
+      <pubDate>Tue, 23 Apr 2024 11:36:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何获得客户以及每个人如何获得数十万潜在客户和客户的真相（可视化）。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cb23es/the_truth_of_how_to_get_clients_and_how_everyone/</link>
+      <description><![CDATA[   /u/Low-Limit-2160   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cb23es/the_truth_of_how_to_get_clients_and_how_everyone/</guid>
+      <pubDate>Tue, 23 Apr 2024 11:23:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了 Greetio 来发送带有个性化人工智能辅助诗歌的在线卡片</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cb1wex/i_made_greetio_to_send_online_cards_with/</link>
+      <description><![CDATA[大家好！ 我很高兴能分享一个我一直热衷于的项目，名为 问候。这是一个独特的平台，将传统贺卡的魅力与人工智能的创新相结合，为任何场合创作个性化的诗歌。 无论是生日、周年纪念日，还是只是一个简单的“想你”时刻， Greetio 提供了一种真诚的方式来表达您的感受。我们的人工智能辅助诗歌增添了个人风格，超越了商店购买的卡片中的通用信息。 为了庆祝发布，我们提供独家25% 折扣使用促销代码 LAUNCH25，有效期至 2024 年 5 月 1 日。我们相信每个人、每个时刻都是特别的，我们希望您能够体验 Greetio 的与众不同。 请访问 www.greetio.co 并发送您的第一张电子贺卡！ 感谢您让我分享与大家一起。我很想听听您的想法和反馈！ Russ   由   提交/u/kinorouk  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cb1wex/i_made_greetio_to_send_online_cards_with/</guid>
+      <pubDate>Tue, 23 Apr 2024 11:12:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用加密货币在亚马逊上购物</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cb1pqe/shop_on_amazon_with_crypto/</link>
+      <description><![CDATA[     &lt; td&gt; 通过 Paybcn，您可以使用加密货币购买数百万种产品。避免代币转换和利润税，以简化您的投资组合管理。今天是全球发布，我们在 Product Hunt 上已经排名第五，时间不多了！   由   提交/u/NightWithAnxiety  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cb1pqe/shop_on_amazon_with_crypto/</guid>
+      <pubDate>Tue, 23 Apr 2024 11:01:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>希望得到您的反馈</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cb1dal/would_love_your_feedback/</link>
+      <description><![CDATA[我正在处理工具目录scaleupbox.com 我正在努力让它对公共建筑爱好者来说更好、更有用。  不久前列出了 900 多个工具 最近完善了 100 多个工具已死并被删除 更新了 70％ 的工具的屏幕截图，并且仍在进行中，这是一项艰巨的任务 市场上有数千种人工智能工具爆炸式增长，增加了一个新类别对于人工智能工具。将在这里不断更新新工具 现在任何人都可以提交他们的产品进行列表  希望得到您的反馈来帮助我进一步完善和增强它。 &lt; p&gt;检查一下并告诉我您的想法！   由   提交 /u/DesignWithTK   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cb1dal/would_love_your_feedback/</guid>
+      <pubDate>Tue, 23 Apr 2024 10:41:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>https://contentcenter.io/</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cb19tj/httpscontentcenterio/</link>
+      <description><![CDATA[ 初创公司名称 / URL：内容中心 - https://contentcenter.io 总部所在地：巴西 电梯演讲 / 解释视频：一体化内容营销工具 - 内容生成。关键词研究。SEO 优化。 更多详细信息： MVP 已构建，并且已有用户注册 本月您要实现哪些目标？增加注册人数并修复已知问题。 目前完全免费。     提交人    /u/Scared-Release7240   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cb19tj/httpscontentcenterio/</guid>
+      <pubDate>Tue, 23 Apr 2024 10:35:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>您如何激励并让您的联属合作伙伴满意？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cb0ziv/how_do_you_incentivize_and_keep_your_affiliate/</link>
+      <description><![CDATA[我们最近使用联营公司作为新的分销渠道。我们有几家公司签约，我们开始获得销售。其中一些是博客，一些是市场。 但是......我们希望在获得更多内容之前确保让这些人满意。 所以， &lt; ul&gt; 如何让联属合作伙伴满意？ 如何让他们愿意与您合作？  有关此主题的任何资源可供阅读？谢谢！   由   提交 /u/katyawithak   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cb0ziv/how_do_you_incentivize_and_keep_your_affiliate/</guid>
+      <pubDate>Tue, 23 Apr 2024 10:16:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>候补名单还有效吗？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cb0ywb/does_waitlist_even_work/</link>
+      <description><![CDATA[我已经启动了许多旧项目并为其设置了候补名单，但我从未有过任何候补名单工作。 几个月前，我推出了一个反馈管理软件，并放弃了等待名单。刚刚推出并营销它，效果非常好 我现在想测试新功能，并正在尝试等待名单的想法，但我仍然不确定它是否会起作用。  &gt;你如何验证新功能的想法？   由   提交/u/priyanka_pd   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cb0ywb/does_waitlist_even_work/</guid>
+      <pubDate>Tue, 23 Apr 2024 10:15:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了一个工具来提高网站 SEO 排名，希望得到一些反馈</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cb0kdo/ive_created_a_tool_to_boost_website_seo_rankings/</link>
+      <description><![CDATA[我创建了一个工具，用于检查网站 SEO 并提供优化建议以获得更高的网站可见度。如果您对这个工具感兴趣，请随意尝试一下。如果您能提供任何反馈，我将非常感激。这是网站地址。   由   提交/u/Abject_Trouble6538  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cb0kdo/ive_created_a_tool_to_boost_website_seo_rankings/</guid>
+      <pubDate>Tue, 23 Apr 2024 09:49:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个工具来为您的 YouTube 内容寻找赞助商（使用 AI）</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cb0d7d/i_made_a_tool_to_find_sponsors_for_your_youtube/</link>
+      <description><![CDATA[       由   提交/u/hashpanak  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cb0d7d/i_made_a_tool_to_find_sponsors_for_your_youtube/</guid>
+      <pubDate>Tue, 23 Apr 2024 09:35:26 GMT</pubDate>
+    </item>
     <item>
       <title>我创建了 iOS 应用程序。 Planky - 家庭锻炼</title>
       <link>https://www.reddit.com/r/SideProject/comments/1cazypb/i_created_ios_app_planky_home_workout/</link>
@@ -25,90 +109,6 @@
       <description><![CDATA[我刚刚在 iOS 中启动了一款名为“Better Morning”的应用程序。它旨在帮助您养成健康的早晨习惯，从消除睡眠期间的干扰开始，并具有任务警报和早晨例行记录器。 （而且我们没有任何广告或废话订阅！） 我希望这个应用程序可以帮助您的日常生活，我们真的很期待收到反馈，因为我们昨天刚刚推出了该应用程序！&lt; /p&gt; http://apps.apple.com/us/app/ better-morning-alarm-routine/id6480510515   由   提交 /u/forestinseoul   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1cazd5y/i_made_a_morning_habbit_app/</guid>
       <pubDate>Tue, 23 Apr 2024 08:25:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>对于免费或廉价的等候名单/时事通讯服务有什么建议吗？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1caz2c6/any_suggestions_for_a_free_or_cheap_waiting_list/</link>
-      <description><![CDATA[大家好， 祝大家度过愉快的一天^^ 就像标题一样，我正在寻找基于云的服务（托管，而不是自托管），以拥有等待用户名单。我正在为一个列表网站提供午餐，并希望有一些登陆页面来开始获得吸引力。 如果您还有任何其他建议，我会洗耳恭听......谢谢！   由   提交/u/open-listings  /u/open-listings  reddit.com/r/SideProject/comments/1caz2c6/any_suggestions_for_a_free_or_cheap_waiting_list/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1caz2c6/any_suggestions_for_a_free_or_cheap_waiting_list/</guid>
-      <pubDate>Tue, 23 Apr 2024 08:03:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>制作了世界各地温泉的互动名录</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cayr5k/made_an_interactive_directory_of_hot_springs/</link>
-      <description><![CDATA[动机 决定通过制作一个现代目录来提高我的前端工程技能。寻找您对外观和外观的反馈应用程序的感觉！ (https://hotspringslist.com) 灵感来自日本有关温泉和浴室的深厚文化。世界各地有如此多的温泉，我对澳大利亚和美国所提供的温泉感到惊讶，更不用说其他未知的宝石了。 它是如何制作的 抄袭的博客列出世界各地的温泉 将结果输入 Google Maps Places API 将结果加载到 Supabase 使用 GPT-3.5/4 创建描述 已清理（仍在清理数据） 使用列表创建了 NextJS 应用 在 Vercel 上发布 &lt;!-- SC_ON - -&gt;  由   提交 /u/AristidesNakos   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cayr5k/made_an_interactive_directory_of_hot_springs/</guid>
-      <pubDate>Tue, 23 Apr 2024 07:41:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>在短短 24 小时内，已有 50 多人加入了我的 SaaS 的候补名单。它是一个分析用户评论的工具，可以识别应用程序中的痛点并建议您下一步该做什么</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1caynpu/in_just_24_hours_50_people_have_joined_the/</link>
-      <description><![CDATA[我已经为此工作了一个月，我决定验证我的想法，我的候补名单中已经有 50 多人，这非常好对我来说很兴奋。实际产品不仅仅是痛点分析器，它是MagicKit，你自己检查一下⤵ https://yep .so/p/magic-kit   由   提交/u/Adorable_Monitor_187   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1caynpu/in_just_24_hours_50_people_have_joined_the/</guid>
-      <pubDate>Tue, 23 Apr 2024 07:35:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 Product Hunt 中引入 Prompty：通过增强的 Prompt 工程彻底改变您的 AI 工作流程！ 🚀</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cay7cu/introducing_prompty_on_product_hunt_revolutionize/</link>
-      <description><![CDATA[嘿 r/SideProject 伙计们！ 🎉 我很高兴分享我最新的副业 Prompty，它刚刚在 Product Hunt 上推出！它旨在通过增强即时工程来优化人工智能交互。如果您想使用人工智能简化工作流程，我很乐意您查看并分享您的想法！ 🚀🛠️ #AI #生产力 https://www.producthunt.com/posts/prompty    由   提交 /u/milkoslavov   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cay7cu/introducing_prompty_on_product_hunt_revolutionize/</guid>
-      <pubDate>Tue, 23 Apr 2024 07:04:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>我为独立黑客制作了一个每日迷你游戏！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1caxyu1/i_built_a_daily_minigame_for_indiehackers/</link>
-      <description><![CDATA[   嘿独立制作者，我喜欢构建免费的副项目，这次是迷你游戏，您可以像wordle一样每天玩，但您必须猜测每个徽标属于哪些工具。 容易吗？好吧，让我们看看在 60 秒内旋转徽标和打乱工具名称时您能找到多少个！ https://ramen.tools/game&quot;&gt;https://ramen.tools/game /ramen.tools/game 玩游戏并登上排行榜！玩得开心！ :) 请告诉我你的想法。 ​ 你了解你的工具吗？  &amp; #32；由   提交 /u/samuel_pigny   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1caxyu1/i_built_a_daily_minigame_for_indiehackers/</guid>
-      <pubDate>Tue, 23 Apr 2024 06:48:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>取得初步成功后寻求增长策略</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1caxxa3/seeking_growth_strategies_after_initial_success/</link>
-      <description><![CDATA[嗨， 我推出了AIHeadshotMasters 几个月前，一款使用 AI 提供专业头像的工具，无需进行实体拍照，价格仅为 12 美元。最初，我利用 Facebook LTD 群组的大幅折扣来吸引第一批用户，然后将利润再投资到影响者营销中，这极大地帮助了获得吸引力。 虽然我们仍然看到影响者的一些增长，但步伐已经放慢了。我正在寻找可能有助于突破这一瓶颈的见解或策略。这里有人经历过类似的挑战吗？在最初的激增之后，您发现什么策略可以有效地维持增长？ 感谢您的建议   由   提交/u/Dry_Recipe_6606   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1caxxa3/seeking_growth_strategies_after_initial_success/</guid>
-      <pubDate>Tue, 23 Apr 2024 06:45:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>我没想到我的免费工具会如此首次亮相！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1caxtlx/i_never_expected_such_a_debut_for_my_free_tool/</link>
-      <description><![CDATA[几天前，我推出了一个免费工具，以避免人们不断打开电子表格来浪费时间。我没想到首次亮相会如此成功。这个项目是我启动的第一个项目之一，旨在解决我的挫败感，但没有任何具体的沟通策略。此外，我还推出了一款专为销售专业人士量身定制的付费工具，该工具同样有效，但我很难在其用户中获得吸引力。  到目前为止，我们已经收到了许多有希望的评论，包括我们正在使用的新技术工具的创建者的认可（嗨r/DuckDB）并出现在著名的数据工程师通讯中，例如 blef.fr。远远超出我的预期。  该工具已被全球用户使用。从免费工具开始似乎比直接使用付费工具更好。  相信自己，相信社区，并大胆尝试您的项目！  非常感谢您对 ducklingfile.com 的反馈（请记住，它是一个免费工具，用于查看、重新排序、重命名、下载电子表格，并直接使用 SQL 对其进行过滤，所有这些都无需后端调用以增强隐私）。   由   提交 /u/theodorebrgn   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1caxtlx/i_never_expected_such_a_debut_for_my_free_tool/</guid>
-      <pubDate>Tue, 23 Apr 2024 06:39:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>我构建了一个简单的工具来帮助您分解增长目标，找出您每天、每周、每月需要多少用户📈</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1caxkfh/i_built_a_simple_tool_to_help_you_break_down_your/</link>
-      <description><![CDATA[ 由   提交/u/0_ human0   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1caxkfh/i_built_a_simple_tool_to_help_you_break_down_your/</guid>
-      <pubDate>Tue, 23 Apr 2024 06:21:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>来与其他人分享您的项目。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cawo2j/come_share_your_project_with_other_folks/</link>
-      <description><![CDATA[大家好，我正在设置一个虚拟活动，人们可以来分享他们一直在从事的项目。参与者可以分享自己的项目，也可以查看其他人一直在从事的有趣项目。以下是一些后勤工作 格式  每次通话将有 4 - 5 名参与者，以保持轻松和集中 参与者可以选择演示或只是查看项目（我将确保每次通话中至少有 1 - 2 位演示者） 通话将持续约 1 小时  谁这是为什么？  如果您已经构建了一个很酷的项目并想要分享/收集反馈 如果您喜欢探索人们正在从事的项目 如果您想结识其他黑客并扩展您的网络  如果这听起来像您，请随时发表评论/私信我，我会安排好后勤工作并将您安排进去一个电话。   由   提交/u/dennis3124  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cawo2j/come_share_your_project_with_other_folks/</guid>
-      <pubDate>Tue, 23 Apr 2024 05:23:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Linklasso：自动将 SAAS 提交到启动目录的桌面应用程序</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cawn0h/linklasso_desktop_app_that_automates_submission/</link>
-      <description><![CDATA[当努力让您的网站/应用程序在搜索引擎中排名第一时，反向链接非常重要。 Linklasso 会自动将您的 SAAS 提交到启动目录，以便您可以获得反向链接。 您可以在此处获取它&gt;   由   提交 /u/Viirock   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cawn0h/linklasso_desktop_app_that_automates_submission/</guid>
-      <pubDate>Tue, 23 Apr 2024 05:21:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>在几分钟内创建并共享您的 AI 电子表格生成器</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cavl2s/create_and_share_your_ai_spreadsheet_generator_in/</link>
-      <description><![CDATA[URL：https://tablesmith.io/blog/ create_and_publish_ai/ 现场演示：https://tablesmith.io/share/XzczU243OjE=  这是 Tablesmith 的博客文章。 Tablesmith 是一款隐私至上的跨平台电子表格自动化工具。感兴趣的？在 Tablesmith 主页上查看更多现场演示。   由   提交/u/matrix0110  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cavl2s/create_and_share_your_ai_spreadsheet_generator_in/</guid>
-      <pubDate>Tue, 23 Apr 2024 04:20:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么我们在发布后不到一个月的时间内就合并了初创公司</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cauadj/why_we_merged_startups_less_than_a_month_from/</link>
-      <description><![CDATA[      发布不到 1 个月，用户不到 100 名，Qura 达到了一个里程碑：我们第一次成功合并 Qura 的目标是打造社交媒体增长的终极工具箱，从 X( Twitter）。 我们决定与 YtoX 合并，YtoX 是一个将 YouTube 视频转换为线程的工具 现在，与  合并Qura 用户可以：  使用我们训练有素的模型轻松创建回复，以提高参与度 自动执行重复任务 将 Youtube 视频重新利用为病毒式传播只需单击一下即可建立线程我们的目标保持不变，现在我们更有信心我们的产品可以帮助增长。  我们还应该添加哪些其他功能来为用户提供X(Twitter) 增长的优势？  古拉英雄部分  YtoX 功能&lt; /p&gt; ​   由   提交/u/Direct-Stay-8156   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cauadj/why_we_merged_startups_less_than_a_month_from/</guid>
-      <pubDate>Tue, 23 Apr 2024 03:11:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
