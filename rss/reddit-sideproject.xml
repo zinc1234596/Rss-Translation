@@ -4,7 +4,84 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个 Reddit 子版块，用于分享和接收有关副项目的建设性反馈。</description>
-    <lastBuildDate>Tue, 23 Apr 2024 06:17:21 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Apr 2024 09:12:46 GMT</lastBuildDate>
+    <item>
+      <title>我创建了 iOS 应用程序。 Planky - 家庭锻炼</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cazypb/i_created_ios_app_planky_home_workout/</link>
+      <description><![CDATA[      https://preview.redd.it/f36wk8zb37wc1.png?width=4312&amp;format=png&amp;auto=webp&amp;s=4e34c92fb2bede8362845b89e431c2ce4a3170cd 你们好，了不起的 Reddit 人！今天是我的应用程序 Planky 的发布，所以我非常感谢您的支持。 Planky，您可以享受有效的锻炼，逐步增强您的力量，通过方便的待办事项清单安排您的一天，并通过 30 天的挑战来挑战自己 https://reddit.com/link/1cazypb/video/buh9nitc37wc1/player &lt;强&gt;在AppStore中下载： https://apps.apple.com/ua/ app/home-workout-planky/id6450213765   由   提交/u/skreep1  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cazypb/i_created_ios_app_planky_home_workout/</guid>
+      <pubDate>Tue, 23 Apr 2024 09:07:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了一个开源 MacOS 应用程序来使用设置配置文件组织窗口。我很想听听您的反馈！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1caztqi/i_have_created_an_opensource_macos_application_to/</link>
+      <description><![CDATA[大家好， 作为一名独立开发人员，我发现自己要处理很多任务，从编码和测试到制作内容对于我的应用程序和网站。我注意到我浪费了大量时间来回切换、打开窗口和调整窗口大小以满足特定任务的需要。 我搜索了可以帮助我完成此任务的工具，发现大多数现有应用程序（免费和付费）要求我记住组织窗口的快捷键。但是，每次需要时我仍然必须这样做。 这就是我创建排列窗口的原因，支持配置文件的开源 MacOS 应用程序。 其工作原理如下：  您捕获最适合您的窗口配置。 将其另存为配置文件。 下次需要该配置时，只需加载该配置文件即可。  无需记住热键！你猜怎么着？它甚至支持关闭不相关的窗口。 我很想听听您对此的反馈。我应该添加更多功能吗？ 干杯， Cam   由   提交 /u/Haunting-Web-6251   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1caztqi/i_have_created_an_opensource_macos_application_to/</guid>
+      <pubDate>Tue, 23 Apr 2024 08:58:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个早晨习惯应用程序</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cazd5y/i_made_a_morning_habbit_app/</link>
+      <description><![CDATA[我刚刚在 iOS 中启动了一款名为“Better Morning”的应用程序。它旨在帮助您养成健康的早晨习惯，从消除睡眠期间的干扰开始，并具有任务警报和早晨例行记录器。 （而且我们没有任何广告或废话订阅！） 我希望这个应用程序可以帮助您的日常生活，我们真的很期待收到反馈，因为我们昨天刚刚推出了该应用程序！&lt; /p&gt; http://apps.apple.com/us/app/ better-morning-alarm-routine/id6480510515   由   提交 /u/forestinseoul   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cazd5y/i_made_a_morning_habbit_app/</guid>
+      <pubDate>Tue, 23 Apr 2024 08:25:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>对于免费或廉价的等候名单/时事通讯服务有什么建议吗？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1caz2c6/any_suggestions_for_a_free_or_cheap_waiting_list/</link>
+      <description><![CDATA[大家好， 祝大家度过愉快的一天^^ 就像标题一样，我正在寻找基于云的服务（托管，而不是自托管），以拥有等待用户名单。我正在为一个列表网站提供午餐，并希望有一些登陆页面来开始获得吸引力。 如果您还有任何其他建议，我会洗耳恭听......谢谢！   由   提交/u/open-listings  /u/open-listings  reddit.com/r/SideProject/comments/1caz2c6/any_suggestions_for_a_free_or_cheap_waiting_list/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1caz2c6/any_suggestions_for_a_free_or_cheap_waiting_list/</guid>
+      <pubDate>Tue, 23 Apr 2024 08:03:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>制作了世界各地温泉的互动名录</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cayr5k/made_an_interactive_directory_of_hot_springs/</link>
+      <description><![CDATA[动机 决定通过制作一个现代目录来提高我的前端工程技能。寻找您对外观和外观的反馈应用程序的感觉！ (https://hotspringslist.com) 灵感来自日本有关温泉和浴室的深厚文化。世界各地有如此多的温泉，我对澳大利亚和美国所提供的温泉感到惊讶，更不用说其他未知的宝石了。 它是如何制作的 抄袭的博客列出世界各地的温泉 将结果输入 Google Maps Places API 将结果加载到 Supabase 使用 GPT-3.5/4 创建描述 已清理（仍在清理数据） 使用列表创建了 NextJS 应用 在 Vercel 上发布 &lt;!-- SC_ON - -&gt;  由   提交 /u/AristidesNakos   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cayr5k/made_an_interactive_directory_of_hot_springs/</guid>
+      <pubDate>Tue, 23 Apr 2024 07:41:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>在短短 24 小时内，已有 50 多人加入了我的 SaaS 的候补名单。它是一个分析用户评论的工具，可以识别应用程序中的痛点并建议您下一步该做什么</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1caynpu/in_just_24_hours_50_people_have_joined_the/</link>
+      <description><![CDATA[我已经为此工作了一个月，我决定验证我的想法，我的候补名单中已经有 50 多人，这非常好对我来说很兴奋。实际产品不仅仅是痛点分析器，它是MagicKit，你自己检查一下⤵ https://yep .so/p/magic-kit   由   提交/u/Adorable_Monitor_187   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1caynpu/in_just_24_hours_50_people_have_joined_the/</guid>
+      <pubDate>Tue, 23 Apr 2024 07:35:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 Product Hunt 中引入 Prompty：通过增强的 Prompt 工程彻底改变您的 AI 工作流程！ 🚀</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cay7cu/introducing_prompty_on_product_hunt_revolutionize/</link>
+      <description><![CDATA[嘿 r/SideProject 伙计们！ 🎉 我很高兴分享我最新的副业 Prompty，它刚刚在 Product Hunt 上推出！它旨在通过增强即时工程来优化人工智能交互。如果您想使用人工智能简化工作流程，我很乐意您查看并分享您的想法！ 🚀🛠️ #AI #生产力 https://www.producthunt.com/posts/prompty    由   提交 /u/milkoslavov   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cay7cu/introducing_prompty_on_product_hunt_revolutionize/</guid>
+      <pubDate>Tue, 23 Apr 2024 07:04:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>我为独立黑客制作了一个每日迷你游戏！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1caxyu1/i_built_a_daily_minigame_for_indiehackers/</link>
+      <description><![CDATA[   嘿独立制作者，我喜欢构建免费的副项目，这次是迷你游戏，您可以像wordle一样每天玩，但您必须猜测每个徽标属于哪些工具。 容易吗？好吧，让我们看看在 60 秒内旋转徽标和打乱工具名称时您能找到多少个！ https://ramen.tools/game&quot;&gt;https://ramen.tools/game /ramen.tools/game 玩游戏并登上排行榜！玩得开心！ :) 请告诉我你的想法。 ​ 你了解你的工具吗？  &amp; #32；由   提交 /u/samuel_pigny   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1caxyu1/i_built_a_daily_minigame_for_indiehackers/</guid>
+      <pubDate>Tue, 23 Apr 2024 06:48:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>取得初步成功后寻求增长策略</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1caxxa3/seeking_growth_strategies_after_initial_success/</link>
+      <description><![CDATA[嗨， 我推出了AIHeadshotMasters 几个月前，一款使用 AI 提供专业头像的工具，无需进行实体拍照，价格仅为 12 美元。最初，我利用 Facebook LTD 群组的大幅折扣来吸引第一批用户，然后将利润再投资到影响者营销中，这极大地帮助了获得吸引力。 虽然我们仍然看到影响者的一些增长，但步伐已经放慢了。我正在寻找可能有助于突破这一瓶颈的见解或策略。这里有人经历过类似的挑战吗？在最初的激增之后，您发现什么策略可以有效地维持增长？ 感谢您的建议   由   提交/u/Dry_Recipe_6606   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1caxxa3/seeking_growth_strategies_after_initial_success/</guid>
+      <pubDate>Tue, 23 Apr 2024 06:45:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>我没想到我的免费工具会如此首次亮相！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1caxtlx/i_never_expected_such_a_debut_for_my_free_tool/</link>
+      <description><![CDATA[几天前，我推出了一个免费工具，以避免人们不断打开电子表格来浪费时间。我没想到首次亮相会如此成功。这个项目是我启动的第一个项目之一，旨在解决我的挫败感，但没有任何具体的沟通策略。此外，我还推出了一款专为销售专业人士量身定制的付费工具，该工具同样有效，但我很难在其用户中获得吸引力。  到目前为止，我们已经收到了许多有希望的评论，包括我们正在使用的新技术工具的创建者的认可（嗨r/DuckDB）并出现在著名的数据工程师通讯中，例如 blef.fr。远远超出我的预期。  该工具已被全球用户使用。从免费工具开始似乎比直接使用付费工具更好。  相信自己，相信社区，并大胆尝试您的项目！  非常感谢您对 ducklingfile.com 的反馈（请记住，它是一个免费工具，用于查看、重新排序、重命名、下载电子表格，并直接使用 SQL 对其进行过滤，所有这些都无需后端调用以增强隐私）。   由   提交 /u/theodorebrgn   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1caxtlx/i_never_expected_such_a_debut_for_my_free_tool/</guid>
+      <pubDate>Tue, 23 Apr 2024 06:39:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>我构建了一个简单的工具来帮助您分解增长目标，找出您每天、每周、每月需要多少用户📈</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1caxkfh/i_built_a_simple_tool_to_help_you_break_down_your/</link>
+      <description><![CDATA[ 由   提交/u/0_ human0   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1caxkfh/i_built_a_simple_tool_to_help_you_break_down_your/</guid>
+      <pubDate>Tue, 23 Apr 2024 06:21:57 GMT</pubDate>
+    </item>
     <item>
       <title>来与其他人分享您的项目。</title>
       <link>https://www.reddit.com/r/SideProject/comments/1cawo2j/come_share_your_project_with_other_folks/</link>
@@ -32,83 +109,6 @@
       <description><![CDATA[      发布不到 1 个月，用户不到 100 名，Qura 达到了一个里程碑：我们第一次成功合并 Qura 的目标是打造社交媒体增长的终极工具箱，从 X( Twitter）。 我们决定与 YtoX 合并，YtoX 是一个将 YouTube 视频转换为线程的工具 现在，与  合并Qura 用户可以：  使用我们训练有素的模型轻松创建回复，以提高参与度 自动执行重复任务 将 Youtube 视频重新利用为病毒式传播只需单击一下即可建立线程我们的目标保持不变，现在我们更有信心我们的产品可以帮助增长。  我们还应该添加哪些其他功能来为用户提供X(Twitter) 增长的优势？  古拉英雄部分  YtoX 功能&lt; /p&gt; ​   由   提交/u/Direct-Stay-8156   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1cauadj/why_we_merged_startups_less_than_a_month_from/</guid>
       <pubDate>Tue, 23 Apr 2024 03:11:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>业余项目的电子邮件捕获</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cat6ob/email_capture_for_side_project/</link>
-      <description><![CDATA[正在构建一个 SaaS 应用程序，以 HTML、Vanilla JS 和 CSS 作为前端，而服务器端则在 FastApi 上用 Python 构建。我很感激任何简单的解决方案示例，用于捕获新用户的电子邮件和密码以创建他们的个人资料、注册后的用户身份验证以及自动向新用户发送电子邮件。谢谢   由   提交/u/lyomann92  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cat6ob/email_capture_for_side_project/</guid>
-      <pubDate>Tue, 23 Apr 2024 02:17:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于转录 YouTube 视频的想法的意见</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1carz4h/opinion_on_the_idea_regarding_transcribing/</link>
-      <description><![CDATA[大家好，我是一名企业家，正在寻找构建我的下一个 SaaS 的想法，并且我看到了一些待售的 SaaS，提供来自 YouTube 网址的 YouTube 视频转录。我想知道这样做是否合法，为了争论，可以说它不用于商业用途。只是想知道您对此的想法？   由   提交/u/Sandeep_bh  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1carz4h/opinion_on_the_idea_regarding_transcribing/</guid>
-      <pubDate>Tue, 23 Apr 2024 01:20:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tori Chrome Extension - 受 Sololeveling 启发的 AI 生产力教练（即 Goku、Luffy、Zoro、Mikasa 等）。 Beta 版发布，加入 200 多名用户。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1car7pp/tori_chrome_extension_ai_productivity_coaches/</link>
-      <description><![CDATA[   /u/JL-Engineer  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1car7pp/tori_chrome_extension_ai_productivity_coaches/</guid>
-      <pubDate>Tue, 23 Apr 2024 00:44:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个自动化平台，可以在 Telegram 频道中查找、编录和发布工作机会</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1caq20p/i_created_an_automated_platfor_that_finds/</link>
-      <description><![CDATA[它会自动抓取招聘网站、提取职位空缺、过滤无薪职位、根据技术对职位空缺进行分类并在其渠道中发布每个职位空缺（例如： JAVA 提供 JAVA 作业的特定通道，Node.js 提供 Node.js 通道...）。  对于在特定技术（JAVA、Node.js、React、.NET ...）、某些行业（社交媒体、云、项目管理...）寻找工作的人来说，这非常有用。 .) 或在特定城市寻找工作（伦敦、纽约、马德里...）。 你可以看看在 Telegram 中寻找 NotificaJobs，你会找到所有频道。还有网站：https://notificajobs.com 我们的 Telegram 频道拥有超过 27,000 名用户，用户数量超过 500 名网站上每天都有。 由于项目需要一些时间来维护，而我们目前没有时间，所以我们正在考虑出售它。因此，如果有人感兴趣，请告诉我们:)   由   提交 /u/palmeritox   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1caq20p/i_created_an_automated_platfor_that_finds/</guid>
-      <pubDate>Mon, 22 Apr 2024 23:50:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>通过一个业余项目赚到了我的第一笔互联网资金</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1capz51/made_my_first_internet_through_a_hacked_together/</link>
-      <description><![CDATA[到目前为止只有 3 美元左右，哈哈，但这是一个开始。  这个想法是：我经常很难想出给朋友、家人或同事的生日或活动的礼物创意。我创建了一个网站，用户只需填写一个简短的表格即可获得量身定制的礼物推荐+向您显示亚马逊产品链接。它是免费的，用户无需注册。当有人通过显示的亚马逊联属链接购买商品时，我会获得报酬。  这是链接：giftgabble.com 随意烘焙并提供反馈！ 开发说明：  技术堆栈：NextJS、OpenAI、AWS Lambda（解决愚蠢的 vercel API 超时问题） 花费的钱：~域名 12 美元（P.S 域名驱动开发），第三方 Amazon API 15 美元 花费的时间：2 天让功能在本地运行，1 周用于 UI / UX 并做好产品准备    由   提交 /u/BuffaloOwn2649   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1capz51/made_my_first_internet_through_a_hacked_together/</guid>
-      <pubDate>Mon, 22 Apr 2024 23:46:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于发票生成器应用程序的问题</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1capz3e/question_about_invoice_generator_app/</link>
-      <description><![CDATA[我开发了一个发票生成器应用程序，用户（雇主）​​可以在其中存储他们的公司名称和发票详细信息的其余部分，然后发送到 但是，由于法律原因，我的朋友建议我在发票发送后阻止用户（雇主）​​编辑他们的公司名称。 在这种情况下我该怎么办？&lt; /p&gt;   由   提交/u/ProfessionalSet755   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1capz3e/question_about_invoice_generator_app/</guid>
-      <pubDate>Mon, 22 Apr 2024 23:46:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI 驱动的求职委员会每周发布 300 多个新职位列表</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1capxaz/over_300_new_job_listings_weekly_on_aipowered_job/</link>
-      <description><![CDATA[大家好！自从我推出求职板以来，这是令人兴奋的一周，该求职板旨在通过人工智能驱动的智能过滤器和技能匹配帮助您找到梦想的工作。目前，每周新增 300 个新工作机会，已有 650 名用户注册并正在使用该平台。此外，现在您可以成为会员，并通过所有付费推荐赚取 30% 的经常性佣金。我很想听听您的反馈，以继续改善您的体验。 https://skillexchange.xyz/   由   提交/u/lolaks181203  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1capxaz/over_300_new_job_listings_weekly_on_aipowered_job/</guid>
-      <pubDate>Mon, 22 Apr 2024 23:44:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>去哪里购买 SaaS 企业？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1capr5c/where_to_buy_saas_businesses/</link>
-      <description><![CDATA[大家好，我是一名收购企业家，希望将几家 SaaS 公司添加到我的投资组合中。我目前正在通过 flippa 和 acquire.com 以及一些小众网站进行采购，但在获得好的交易流程方面遇到了困难。 这里有人对如何/在哪里进行场外交易有什么建议吗？如果您有兴趣出售您的 saas 业务/项目或认识任何可能的人，请回复或直接发信息给我。    提交人    /u/CanPrimary8484   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1capr5c/where_to_buy_saas_businesses/</guid>
-      <pubDate>Mon, 22 Apr 2024 23:37:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了这个社交媒体应用程序来帮助内向的人沟通。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1capins/i_created_this_social_media_app_to_help/</link>
-      <description><![CDATA[检查一下并告诉我如何改进:) https://linktr.ee/talkula   由   提交/u/robogram96  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1capins/i_created_this_social_media_app_to_help/</guid>
-      <pubDate>Mon, 22 Apr 2024 23:26:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创造了我们自己的德文！没有候补名单！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1capg3s/i_created_our_own_devin_no_waitlist/</link>
-      <description><![CDATA[它被称为 AI 驱动开发环境的 AIDDE。 它是一个从文本生成代码的编码工具。在文本字段中输入您的项目想法，然后点击“计划项目”。项目计划完成后，点击“生成代码”，它应该以正确的语法返回 python 代码。 当前模型可以处理基本的编码任务，例如“计算器”、“计算器”和“计算器”。或“基本视频游戏”。沿着这些思路的任务。虽然您不需要知道如何编码来使用它，但您至少需要知道如何将代码复制并粘贴到 VSC 之类的东西中并运行它并进行一些非常基本的故障排除。 请尝试一下并给我反馈！ AIDDE 位于此处    由   提交/u/Electronic-Kick-1255   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1capg3s/i_created_our_own_devin_no_waitlist/</guid>
-      <pubDate>Mon, 22 Apr 2024 23:23:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>我为数字健康创建了免费的网络应用程序</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1caoips/i_created_free_web_app_for_digital_wellbeing/</link>
-      <description><![CDATA[这是我的第一个业余项目。数字健康领域。现在可用于眼睛干涩、眼部肌肉和颈部。对于每一个花几个小时在电脑前放松的人来说应该是理想的选择。现在包含简单的可视化，并寻找可视化锻炼进度的最佳方法或某种锻炼游戏化的方法。很高兴听到任何反馈。 dotyklab.com 技术堆栈包含机器学习和算法，并且更好地在机器学习友好的设备上运行。 &lt; /div&gt;  由   提交/u/iu5334  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1caoips/i_created_free_web_app_for_digital_wellbeing/</guid>
-      <pubDate>Mon, 22 Apr 2024 22:44:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
