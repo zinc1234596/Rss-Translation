@@ -4,11 +4,39 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个 Reddit 子版块，用于分享和接收有关副项目的建设性反馈。</description>
-    <lastBuildDate>Thu, 25 Apr 2024 03:13:13 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Apr 2024 06:16:23 GMT</lastBuildDate>
+    <item>
+      <title>接受 OpenAI GPT-4 Vision 和 ElevenLabs 的考验</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cckjui/get_roasted_with_openai_gpt4_vision_and_elevenlabs/</link>
+      <description><![CDATA[        由    /u/DeadPukka 提交   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cckjui/get_roasted_with_openai_gpt4_vision_and_elevenlabs/</guid>
+      <pubDate>Thu, 25 Apr 2024 05:59:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Counterview：如果你没有对第一个版本感到尴尬，那么你发布得太晚了。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ccjqvy/counterview_if_you_are_not_embarrassed_by_first/</link>
+      <description><![CDATA[大约两周前，我推出了我的 MVP。我一直在想“如果你没有因为第一个版本而感到尴尬，那么你发布得太晚了”。  ...我在 Twitter 上发布了。人们开始使用这个应用程序，他们报告了很多小而令人讨厌的错误，而我完全忽略了这些错误。  虽然核心功能完美无缺，但我搞乱了身份验证部分（它是一个多租户应用程序）。我把事情搞得太复杂了，以为我会在旅途中解决它们。  事实证明，我完全错了。 人们面临着登录和未经授权访问管理员的问题。是的，我的错误。我拥有它。  过去 7 天我把自己锁在房间里，从头开始重新设计了整个应用程序。我推出了我很乐意使用并自豪地出售给其他人的版本。  我认为快速启动并不总是一个好建议。如果您身处竞争激烈的市场，则需要花时间并付出艰苦的努力，为您的应用程序做好上市准备。  我的下一个目标是营销和吸引我的初始用户。我还在起草一封电子邮件，向我的前几个用户解释情况。然而，我学到了一个教训 - 并想与您分享。 不要急于。 ​   由   提交 /u/kkatdare   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ccjqvy/counterview_if_you_are_not_embarrassed_by_first/</guid>
+      <pubDate>Thu, 25 Apr 2024 05:09:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Reddit 未读评论 - 我已更新浏览器扩展以获取新评论，以处理新的 Reddit 设计</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ccivyi/reddit_unread_comments_i_have_updated_my_browser/</link>
+      <description><![CDATA[       由   提交/u/nemanja_codes  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ccivyi/reddit_unread_comments_i_have_updated_my_browser/</guid>
+      <pubDate>Thu, 25 Apr 2024 04:19:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>刚刚推出 ColdCraft，一款 LinkedIn 和 Gmail 个性化冷电子邮件扩展</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ccis5q/just_launched_coldcraft_a_linkedin_gmail/</link>
+      <description><![CDATA[     &lt; /td&gt; 过去几周一直在加班开发ColdCraft ，一款 Chrome 扩展程序，可与您的简历 + GCal + Gmail + LinkedIn 集成，以快速制作超个性化的冷电子邮件。 作为一名学生，我看到人们每周都会发送数十封冷电子邮件。招聘季节询问咖啡聊天、实习、合作等问题，并希望大大加快这一过程。 在康奈尔大学年度工程推介竞赛中，该项目获得了 LinkedIn + Cisco 颁发的奖项，并于今天公开启动。请考虑尝试一下并分享任何反馈！ https://preview.redd.it/b4x6z40iwjwc1.png?width=1280&amp;format=png&amp;auto=webp &amp;s= a5135d6ac6b33ea55f69f422d5975b44c6dec7c2   由   提交 /u/LAcuber   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ccis5q/just_launched_coldcraft_a_linkedin_gmail/</guid>
+      <pubDate>Thu, 25 Apr 2024 04:13:40 GMT</pubDate>
+    </item>
     <item>
       <title>我制作了一个完全免费的招聘网站。</title>
       <link>https://www.reddit.com/r/SideProject/comments/1cchgpz/i_made_a_completely_free_job_posting_website/</link>
-      <description><![CDATA[我制作了我的第一个副产品，https://mashoorfor.vercel .app/ 一个应用程序，任何人都可以在职位列出后免费手动或自动发布职位，然后通过 reddit、discord 和电子邮件在相关社区之间共享。  欢迎任何反馈！网站：https://mashoorfor.vercel.app/&lt; br /&gt; 技术：Sveltekit (Js) db: turso    由   提交 /u/Namenottakenno   [链接] [评论]]]></description>
+      <description><![CDATA[我制作了我的第一个副产品，https://mashoorfor.vercel .app/ 一个应用程序，任何人都可以在职位列出后手动或自动免费发布职位，然后通过 reddit、discord 和电子邮件在相关社区之间共享。  欢迎任何反馈！网站：https://mashoorfor.vercel.app/&lt; br /&gt; 技术：Sveltekit (Js) db: turso    由   提交 /u/Namenottakenno   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1cchgpz/i_made_a_completely_free_job_posting_website/</guid>
       <pubDate>Thu, 25 Apr 2024 03:03:18 GMT</pubDate>
     </item>
@@ -81,34 +109,6 @@
       <description><![CDATA[这里需要一些认真的帮助！有了 MVP（最小可行产品）的想法，但我的银行账户尖叫着“不可能！”现在，但我想开始。 问题是：我应该学习自己编码并节省一些现金，还是聘请开发人员并更快地启动它？  有人曾经走过这条路吗？对于初学者来说，编码是一场彻头彻尾的噩梦，还是我真的可以构建一些像样的东西？或者也许有一些偷偷摸摸的方法可以在预算有限的情况下找到一个好的开发人员？  感谢所有建议（特别是涉及省钱的建议）！ 谢谢大家   由   提交/u/vibe_keeper  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1cc9gsv/running_my_mvp_on_a_budget_code_myself_or_hire_a/</guid>
       <pubDate>Wed, 24 Apr 2024 20:59:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>我曾经非常努力地想要拥有一个富有成效和健康的日常生活，直到我找到了解决方案！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cc8evu/i_used_to_struggle_so_hard_to_have_a_productive/</link>
-      <description><![CDATA[大家好！ 我是一名高中生，不是最聪明的......所以我必须通过以下方式来平衡它：工作比别人多得多... 我以前学习很辛苦，就浪费时间玩电子游戏什么的，拖拖拉拉，把工作拖到最后一刻。 作为新年决心，我决定锁定并制作了自己的概念仪表板，它将养成习惯游戏化，使我的日常工作更加高效和健康。它也让我非常容易融入我的生活！ 基本上，这个模板给你的积分越多，你完成的任务越多，你的连胜次数就越大，然后这些积分可以用来升级一个可爱的角色，我正在考虑稍后进行更多游戏化！ （买东西，有点RPG氛围） 你现在可以在这里免费尝试：https://www.notion.so/templates/studysprint-building-a-routine-becomes-a-fun-game-beta 如果可以的话，请分享一些反馈！！   由   提交 /u/FanaticRoute   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cc8evu/i_used_to_struggle_so_hard_to_have_a_productive/</guid>
-      <pubDate>Wed, 24 Apr 2024 20:17:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个工具，可以消除网络应用程序中的所有混乱，并向您展示一个干净的界面</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cc81za/i_made_a_tool_that_removes_all_the_clutter_from/</link>
-      <description><![CDATA[   /u/dji29i  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cc81za/i_made_a_tool_that_removes_all_the_clutter_from/</guid>
-      <pubDate>Wed, 24 Apr 2024 20:02:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>Next.js 入门模板</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cc74g1/nextjs_starter_template/</link>
-      <description><![CDATA[嗨， 我为 next.js 创建了一个入门模板，它还包含 typescript、tailwind、shadcn/ui、next -auth、测试工具和更多有用的功能。 因此，我想请求反馈和任何缺失的功能。 如果您喜欢这个项目，如果您离开，我将不胜感激一个明星。 🌟 https://github.com/Skolaczk/next-starter &lt; /div&gt;  由   提交 /u/Skolaczk   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cc74g1/nextjs_starter_template/</guid>
-      <pubDate>Wed, 24 Apr 2024 19:25:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>今天在 ProductHunt 上推出了我的人工智能客户支持票务软件！如果你们能测试一下，我将不胜感激。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cc6zxh/launched_my_ai_customer_support_ticketing/</link>
-      <description><![CDATA[   /u/pubgupdates  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cc6zxh/launched_my_ai_customer_support_ticketing/</guid>
-      <pubDate>Wed, 24 Apr 2024 19:20:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
