@@ -4,7 +4,98 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个 Reddit 子版块，用于分享和接收有关副项目的建设性反馈。</description>
-    <lastBuildDate>Thu, 25 Apr 2024 15:12:45 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Apr 2024 18:15:34 GMT</lastBuildDate>
+    <item>
+      <title>Chrome 扩展程序可让您的促销保持正轨，跟踪您的获奖情况，这样您就不会错过年度审核的时间</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ccy0o3/chrome_extension_to_stay_on_track_for_your/</link>
+      <description><![CDATA[链接：https://chromewebstore.google.com/detail/bragbook/namikjhjblpmhligdeojbehjgfjefadf ​ 请告诉我这是否对您有帮助以及我可以如何改进它    提交人    /u/ToeZealousideal2623   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ccy0o3/chrome_extension_to_stay_on_track_for_your/</guid>
+      <pubDate>Thu, 25 Apr 2024 18:07:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>烤我的网站！ ~我的身体已经准备好了</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ccxskk/roast_my_site_my_body_is_ready/</link>
+      <description><![CDATA[我最近为我的 YouTube 频道创建了一个网站 - 它是关于西班牙语的网络安全/IT。令人尴尬的是，我选择了 WordPress，因为我认为我会比学习如何成为一名全栈开发人员更容易，哈哈。你怎么看呢？我该如何改进？我如何为我的社区找到“客座”作家。   由   提交 /u/Cyber​​ShellSecurity   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ccxskk/roast_my_site_my_body_is_ready/</guid>
+      <pubDate>Thu, 25 Apr 2024 17:59:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>我正在打造最好的目标追踪器！ 😬</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ccxsk7/im_building_the_best_goal_tracker_out_there/</link>
+      <description><![CDATA[   /u/devarifhossain   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ccxsk7/im_building_the_best_goal_tracker_out_there/</guid>
+      <pubDate>Thu, 25 Apr 2024 17:59:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>分析网站 (Insighta)</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ccxqpk/analytics_website_insighta/</link>
+      <description><![CDATA[我想与您分享我一直在使用 Next.js 开发的 SaaS 项目。它由两台服务器组成：第一个服务器处理订阅、用户、计划和前端，使用 Next.js 构建，而第二个服务器处理网站分析、访问、API 密钥和我们将很快讨论的自定义操作。我们的想法是提供一项类似于 Google Analytics 的网站分析服务，但有一些区别：  您可以创建多个具有可自定义权限的 API 密钥，以检索数据并通过 API 将其显示在仪表板上如果您不想在网站的仪表板上查看它，则可以请求。 您可以根据您选择的订阅包添加多个网站。  最突出的功能是自定义操作。该站点不仅提供用户和访问计数，还允许您执行自定义日志记录。您可以编写自己的日志消息，该消息接受触发操作时替换的参数。例如，您可以创建一个名为“新用户”的操作消息如下： “名为 {{userName}} 的新用户刚刚创建了一个帐户，他们的电子邮件是 {{userEmail}}。” 当触发操作时，您在请求中传递这些参数。此功能对于错误日志记录特别有用。 此外（这是未来的功能），您将拥有可以根据需要自定义的计数器。例如，您可以跟踪一周、一个月或一年内有多少用户访问了您的网站，并将其与前一年进行比较。 这还不是全部；还有更多功能即将推出。我希望您访问该网站，进行测试，并向我提供您的反馈。如果有人遇到错误或有任何建议，请随时与我联系。 我期待您的反馈，如果有人有兴趣订阅计划，请随时与我联系。  网站链接   由   提交 /u/IndividualFew7269   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ccxqpk/analytics_website_insighta/</guid>
+      <pubDate>Thu, 25 Apr 2024 17:58:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>如果您正在测试早期产品，我会很高兴您的反馈</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ccwylz/if_youre_into_testing_really_early_products_i/</link>
+      <description><![CDATA[   今天启动 Product Hunt。 &lt; p&gt;如果有人正在测试早期产品，我会很高兴收到您的反馈！    由   提交/u/stefanvujicic30   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ccwylz/if_youre_into_testing_really_early_products_i/</guid>
+      <pubDate>Thu, 25 Apr 2024 17:30:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>构建一个应用程序来跟踪习惯和目标。灵感来自《一年十二周》（书）。想听听您的想法！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ccwnfv/building_an_app_to_track_habits_and_goals/</link>
+      <description><![CDATA[       由   提交 /u/reflex8n   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ccwnfv/building_an_app_to_track_habits_and_goals/</guid>
+      <pubDate>Thu, 25 Apr 2024 16:39:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了截图向导API – 即时网页捕获</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ccwce0/i_made_screenshot_wizard_api_instant_web_page/</link>
+      <description><![CDATA[引入屏幕截图向导 API！通过简单的 POST 请求即可立即捕获网站的高质量屏幕截图。测试期间免费！ https://screenshotwizard.com/   由   提交/u/MRpluto0   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ccwce0/i_made_screenshot_wizard_api_instant_web_page/</guid>
+      <pubDate>Thu, 25 Apr 2024 16:27:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>7 天之内，随心所欲地使用 easycoverletter.com！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ccvqsb/7_days_to_use_easycoverlettercom_as_much_as_you/</link>
+      <description><![CDATA[为我和我的朋友构建了这个东西。这比 chatGPT 对你来说要好得多。 你只需将你的工作链接和工作链接扔到恢复。  我们将在几秒钟内阅读工作要求、公司信息和您的经历。    由   提交 /u/what-you-need-is-you   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ccvqsb/7_days_to_use_easycoverlettercom_as_much_as_you/</guid>
+      <pubDate>Thu, 25 Apr 2024 16:04:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>将怀疑转化为动力：我父亲的怀疑推动了我的成功🚀</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ccvnyn/turning_doubt_into_drive_my_dads_skepticism/</link>
+      <description><![CDATA[您是否曾与他人分享过您的业余项目，却只得到不太热情的回应？当我第一次告诉父亲我的游戏化 AI 生产力应用程序 BeeDone 时，就发生了这种情况。 我很高兴向他展示初始版本，希望他能为我感到自豪。相反，他却对我说：“没有人会为此付费。”哎哟，对吧？ 但我没有让它压垮我，而是把它当作一个挑战。这种怀疑态度并没有阻止我；相反，它起到了相反的作用。它重新激发了我取得成功并证明这是可能的决心。 快进到今天，BeeDone 不再只是一个业余项目——它正在支付账单。当我把这个消息告诉我爸爸时，他惊讶不已。 所以，这是我的建议：将怀疑态度作为动力。让它推动你更加努力地工作，完善你的想法，并将你的愿景变成现实。你对项目的信念是你最强大的动力。让这团火继续燃烧！    提交人    /u/yelkamel   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ccvnyn/turning_doubt_into_drive_my_dads_skepticism/</guid>
+      <pubDate>Thu, 25 Apr 2024 16:01:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>不懂前端</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ccvbg1/dont_know_frontend/</link>
+      <description><![CDATA[您好，我有一个在 Spring Boot 中开发一个应用程序的想法。我在春天表现很好，但不知道前端如何管理它？ ??   由   提交/u/sourabhm125  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ccvbg1/dont_know_frontend/</guid>
+      <pubDate>Thu, 25 Apr 2024 15:47:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>不懂前端</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ccvb51/dont_know_frontend/</link>
+      <description><![CDATA[您好，我有一个在 Spring Boot 中开发一个应用程序的想法。我在春天表现很好，但不知道前端如何管理它？ ??   由   提交/u/sourabhm125  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ccvb51/dont_know_frontend/</guid>
+      <pubDate>Thu, 25 Apr 2024 15:47:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>大家好。我构建这个是为了正确显示我的多动症症状。我正在设计一种方法来衡量它们与我的药物和饮食之间的关系。希望得到一些反馈:)这都是本地的、自托管的，其想法是您可以分析自己，而不会将数据丢失给云提供商！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ccv8ru/hey_guys_i_built_this_to_properly_show_how_my/</link>
+      <description><![CDATA[ 由   提交/u/Hewlbern   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ccv8ru/hey_guys_i_built_this_to_properly_show_how_my/</guid>
+      <pubDate>Thu, 25 Apr 2024 15:44:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>仅针对人工智能公司职位的职位搜索引擎</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ccuy3s/job_search_engine_only_for_jobs_in_ai_companies/</link>
+      <description><![CDATA[人工智能正在成为趋势，人们每天都在创建公司来解决许多具有挑战性的问题。许多人都希望在 Open AI、Anthropic 等热门公司找到工作。但是还有数百家其他公司正在这个领域开展创新工作，我为那些寻求突破或提升职业生涯的人创建了这个搜索引擎。我现在已经爬取了 100 多家公司，1000 多个职位。他们给出的薪水令人印象深刻。希望大家觉得有用 https://aijobster.work/   由   提交/u/hr1383  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ccuy3s/job_search_engine_only_for_jobs_in_ai_companies/</guid>
+      <pubDate>Thu, 25 Apr 2024 15:32:36 GMT</pubDate>
+    </item>
     <item>
       <title>从我的错误中吸取教训</title>
       <link>https://www.reddit.com/r/SideProject/comments/1cctuim/learn_from_my_mistake/</link>
@@ -18,97 +109,6 @@
       <description><![CDATA[       由   提交 /u/yellowshaded   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1ccttw8/i_made_an_extension_today_you_can_drag_tasks_to/</guid>
       <pubDate>Thu, 25 Apr 2024 14:47:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>非中国制造产品两年编目结果</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cctshl/the_results_of_two_years_of_cataloging_products/</link>
-      <description><![CDATA[在过去的两年里，我一直在寻找中国产品的替代品，我想分享一个我保存发现的小项目：&lt; a href=&quot;https://chinalternative.com/&quot;&gt;Chinaalternative.com。由于我住在欧洲，某些产品在其他地方可能不太容易买到，但我仍然很高兴能够找到大多数产品的替代品。它还受到 /r/avoidChineseProducts 的启发，这是一个充满搜索非中国制造商品的社区。 我的下一个目标是改进搜索，能够处理不同的零售商并支持每个商品有多个国家/地区。不管怎样，请告诉我你的想法！ PS：我还为非中国制造的科技项目创建了一个侧面项目：avoidchinese .tech   由   提交 /u/apmechev   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cctshl/the_results_of_two_years_of_cataloging_products/</guid>
-      <pubDate>Thu, 25 Apr 2024 14:45:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>我在业余时间制作游戏，这是我的新 Suika 游戏 - “Striped Fruit”（Android 和 IOS）。如有任何反馈，我们将不胜感激！链接在评论里。有代码就没有广告！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cctckh/i_make_games_in_my_spare_time_and_here_is_my_new/</link>
-      <description><![CDATA[   /u/PandaQA   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cctckh/i_make_games_in_my_spare_time_and_here_is_my_new/</guid>
-      <pubDate>Thu, 25 Apr 2024 14:27:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了 NexusTrade，一个无代码人工智能驱动的算法交易和金融研究平台</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cctaa0/i_created_nexustrade_a_nocode_aipowered/</link>
-      <description><![CDATA[    /u/Starks-Technology   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cctaa0/i_created_nexustrade_a_nocode_aipowered/</guid>
-      <pubDate>Thu, 25 Apr 2024 14:24:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>希望您对我的新生产力工具（我知道我知道）和提货页有诚实的意见</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ccsvfo/would_love_your_honest_opinion_about_my_new/</link>
-      <description><![CDATA[   /u/Yanaytsabary  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ccsvfo/would_love_your_honest_opinion_about_my_new/</guid>
-      <pubDate>Thu, 25 Apr 2024 14:07:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么大多数店主不知道 Telegram 迷你应用程序？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ccsqta/why_arent_most_shop_owners_unaware_of_telegram/</link>
-      <description><![CDATA[   /u/Bigdab42  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ccsqta/why_arent_most_shop_owners_unaware_of_telegram/</guid>
-      <pubDate>Thu, 25 Apr 2024 14:02:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>利用人工智能编写我的第一本有关数字资产托管的电子书：财务崩溃</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ccsb5m/leveraging_ai_for_my_first_ebook_on_digital_asset/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ccsb5m/leveraging_ai_for_my_first_ebook_on_digital_asset/</guid>
-      <pubDate>Thu, 25 Apr 2024 13:44:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何让我的应用程序变得更好？ AI购物助手！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ccs2dj/how_do_i_make_my_app_better_ai_shopping_assistant/</link>
-      <description><![CDATA[您好！我创建了一款应用程序，它使用人工智能来帮助您为朋友或亲人找到完美的礼物。 Giftfairy 是您的人工智能购物助手，您所要做的就是回答有关礼物接收者的个性和信息的问题。兴趣，Giftfairy 会推荐 10 种个性化礼物创意。请注意，我们正在查询 OpenAI 的 API，并且我们正在使用亚马逊附属链接（*希望*）从这个副项目中赚一些钱。任何想法、意见、建议都非常受欢迎！谢谢！！ 这是链接：https://agiftfairy.com/    由   提交 /u/No-Accountant-9492   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ccs2dj/how_do_i_make_my_app_better_ai_shopping_assistant/</guid>
-      <pubDate>Thu, 25 Apr 2024 13:33:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>大规模法学硕士处理 - 寻找早期采用者和反馈</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ccs173/llm_processing_at_scale_looking_for_early/</link>
-      <description><![CDATA[大家好， LabelLM (app.labellm.com) 使大规模数据上使用 LLM 变得非常简单，可靠且准确。 即使是非技术人员（例如 Shopify 店主）也可以使用它对产品进行分类、生成营销文案和分析产品评论，所有这些都在一个工具中完成，并且可处理的数据点数量没有限制。对于机器学习工程师或数据科学家等技术人员来说，LabelLM 可以更轻松地进行大规模的快速工程和处理。在幕后，我们负责性能指标和护栏。 我们正在寻找早期用户和反馈来帮助改进我们的产品。非常感谢您的反馈。此外，我们还可以获得该工具的 10 个免费积分:)。    由   提交/u/Adventurous_Muffin68   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ccs173/llm_processing_at_scale_looking_for_early/</guid>
-      <pubDate>Thu, 25 Apr 2024 13:31:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>利用 AI 总结 YouTube 视频的观看者情绪</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ccs0hs/summarize_a_youtube_videos_viewer_sentiment_with/</link>
-      <description><![CDATA[大家好，我花了很多时间阅读 YouTube 评论，所以想为什么不利用它制作一个情绪分析工具。 这一切都是在一个周末完成的，但是很有效。如果我得到一些好的反馈，可能会制作一个付费产品，目前它是免费的，但价格有限。 请随意尝试并留下任何反馈 - https://tubemood.app/analysis   由   提交 /u/Fluid_Bathroom3501   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ccs0hs/summarize_a_youtube_videos_viewer_sentiment_with/</guid>
-      <pubDate>Thu, 25 Apr 2024 13:30:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>BuildBasic：通过快速文档而不是长视频来学习构建计算器</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ccqyor/buildbasic_learn_to_build_a_calculator_by_quick/</link>
-      <description><![CDATA[ 由   提交/u/robogram96  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ccqyor/buildbasic_learn_to_build_a_calculator_by_quick/</guid>
-      <pubDate>Thu, 25 Apr 2024 12:42:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>Graphite：一种快速、简单的数据可视化方法</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ccqxwf/graphyte_a_quick_easy_way_to_visualize_data/</link>
-      <description><![CDATA[     &lt; td&gt; https://preview.redd.it/rc9u3adojmwc1.png?width=1920&amp;format=png&amp;auto=webp&amp;s=6abef5e13e051caa6cb752c369edf2581fef9ce  嗨，我我正在开发一个简单的网络应用程序，以帮助快速轻松地可视化数据。我的目标是将整个过程压缩为三个简单的步骤：  添加数据（或连接/上传数据源） 选择可视化 查看（或导出为图像、代码等）  这是登录页面的链接https://graphyte。 afordiazero.com。 非常需要并感谢您的反馈。   由   提交 /u/Additional_Bird8852   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ccqxwf/graphyte_a_quick_easy_way_to_visualize_data/</guid>
-      <pubDate>Thu, 25 Apr 2024 12:41:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的新在线免费工具，如果您使用二维码，请尝试一下</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ccqnmm/my_new_online_free_tool_if_youre_using_qr_codes/</link>
-      <description><![CDATA[       由   提交/u/iancona  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ccqnmm/my_new_online_free_tool_if_youre_using_qr_codes/</guid>
-      <pubDate>Thu, 25 Apr 2024 12:27:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>我开发了一种发现和推广 SaaS 的新方法</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ccpqb8/i_have_developed_a_new_way_to_discover_and/</link>
-      <description><![CDATA[介绍一下：SaaS轮盘 我是ScreenshotBoost的制作者，这是一个小工具为屏幕截图添加动画。 为了推广它，我决定创建一些免费工具并将它们添加到其中。 这就是我创建 SaaS Roulette 的原因。  简而言之，它是一个每次单击“下一步”时都会显示随机 SaaS 的工具。按钮。 如果您想查看，请点击以下链接https://screenshotboost.com/tools/saasroulette / 玩得开心！我希望您会喜欢它。 ps：如果您希望将您的 SaaS 添加到列表中并获得免费的反向链接，请随时评论您的网址。 Screenshotboost 的 DR 并不是很高（目前为 1.8），但反向链接仍然是反向链接:)   由   提交 /u/axenlader   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ccpqb8/i_have_developed_a_new_way_to_discover_and/</guid>
-      <pubDate>Thu, 25 Apr 2024 11:38:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
