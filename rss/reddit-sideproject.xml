@@ -4,9 +4,37 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个 Reddit 子版块，用于分享和接收有关副项目的建设性反馈。</description>
-    <lastBuildDate>Thu, 25 Apr 2024 00:56:27 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Apr 2024 03:13:13 GMT</lastBuildDate>
     <item>
-      <title>在旧金山找个地方大便（不是在街上）</title>
+      <title>我制作了一个完全免费的招聘网站。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cchgpz/i_made_a_completely_free_job_posting_website/</link>
+      <description><![CDATA[我制作了我的第一个副产品，https://mashoorfor.vercel .app/ 一个应用程序，任何人都可以在职位列出后免费手动或自动发布职位，然后通过 reddit、discord 和电子邮件在相关社区之间共享。  欢迎任何反馈！网站：https://mashoorfor.vercel.app/&lt; br /&gt; 技术：Sveltekit (Js) db: turso    由   提交 /u/Namenottakenno   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cchgpz/i_made_a_completely_free_job_posting_website/</guid>
+      <pubDate>Thu, 25 Apr 2024 03:03:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找黑客制作的优秀人工智能工具！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ccgczk/hunt_for_great_ai_tools_made_by_hackers/</link>
+      <description><![CDATA[大家好，我是 AI 黑客的创造者。 我的热情是寻找优秀的利基 AI 工具并分享给更多人。 我会在我的 X 上免费为您点赞：Boost AI Traffic (@BoostAITraffic) / X ( twitter.com)  如果您正在构建很酷的人工智能工具，请分享！   由   提交 /u/Difficult-Grass-6859   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ccgczk/hunt_for_great_ai_tools_made_by_hackers/</guid>
+      <pubDate>Thu, 25 Apr 2024 02:08:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>Svvarm：直观、LLM 驱动的任务/工作流程自动化 - 产品演示</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ccfvfv/svvarm_intuitive_llm_driven_taskworkflow/</link>
+      <description><![CDATA[社区您好， 我正在寻找有关我们的演示视频和自动化构建器的反馈。您能否分享一下您对演示的清晰度和可理解性的看法？另外，您是否希望在未来的演示中更全面地介绍任何特定功能或用例？我们将非常感谢您的意见！ 谢谢！ 演示： https://www.youtube.com/watch?v=7koFokBiHpE 网站：https： //svvarm.tech 游乐场：​​https://svvarm.tech/playground   由   提交/u/svvarm_ai   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ccfvfv/svvarm_intuitive_llm_driven_taskworkflow/</guid>
+      <pubDate>Thu, 25 Apr 2024 01:45:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>额外学分</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ccexie/extra_credit/</link>
+      <description><![CDATA[嘿大家，我想看看你们是否可以观看我的视频！观看次数最多的人会为我们的成绩加分！  https://youtu.be/MIO50w2De8Y?feature=shared   由   提交 /u/Remarkable-Bridge-72   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ccexie/extra_credit/</guid>
+      <pubDate>Thu, 25 Apr 2024 00:59:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>在旧金山找个地方拉屎（不要在街上）</title>
       <link>https://www.reddit.com/r/SideProject/comments/1ccee4r/find_a_place_to_shit_in_sf_not_on_the_street/</link>
       <description><![CDATA[       由   提交/u/gurbazo  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1ccee4r/find_a_place_to_shit_in_sf_not_on_the_street/</guid>
@@ -22,12 +50,12 @@
     <item>
       <title>我正在构建一个体育统计扫描应用程序（用于投注？）并寻求反馈</title>
       <link>https://www.reddit.com/r/SideProject/comments/1ccblem/i_am_building_a_sports_stats_scanner_app_for/</link>
-      <description><![CDATA[我在这个 Reddit 子版块上发帖可能还为时过早，因为我仍在积极构建 MVP，但我正在寻求一些反馈，尤其是来自体育迷的反馈。  我正在构建一个工具，允许您通过组合 200 多种不同的条件来创建体育比赛警报（“弱者目前正在输掉比赛，但另一支球队的传球次数多了 4 倍 + 天气”）很明显，顶级球员目前都在场上”）。  如果条件匹配，用户会收到通知并做任何他们想做的事情（做笔记？下注？等等...）。我们提供工具，但让用户用它做他们想做的事。  我记得看到过类似的股票项目，但没有找到任何体育项目。如果您是体育迷，或者“认真的体育爱好者”，并且想尝试一下，请通过 DM 联系我，以便我可以与您分享 MVP。也很高兴在这里回答任何问题！   由   提交 /u/SportScanner   [链接] [评论]]]></description>
+      <description><![CDATA[我在这个 Reddit 子版块上发帖可能还为时过早，因为我仍在积极构建 MVP，但我正在寻求一些反馈，尤其是来自体育迷的反馈。  我正在构建一个工具，允许您通过组合 200 多种不同的条件来创建体育比赛警报（“弱者目前正在输掉比赛，但另一支球队的传球次数多了 4 倍 + 天气”）很明显，顶级球员目前都在场上”）。  如果条件匹配，用户会收到通知并做任何他们想做的事情（记笔记？下注？等等...）。我们提供工具，但让用户用它做他们想做的事。  我记得看到过类似的股票项目，但没有找到任何体育项目。如果您是体育迷，或者“认真的体育爱好者”，并且想尝试一下，请通过 DM 联系我，以便我可以与您分享 MVP。也很高兴在这里回答任何问题！   由   提交 /u/SportScanner   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1ccblem/i_am_building_a_sports_stats_scanner_app_for/</guid>
       <pubDate>Wed, 24 Apr 2024 22:27:05 GMT</pubDate>
     </item>
     <item>
-      <title>自制烘焙演示视频</title>
+      <title>烤我自制的演示视频</title>
       <link>https://www.reddit.com/r/SideProject/comments/1ccaphd/roast_my_homemade_demo_video/</link>
       <description><![CDATA[大家好， 我刚刚推出了产品的新版本。您对这个简单的视频有什么反馈吗？ 脚本： 您是否厌倦了设置繁琐的表单？ 不断混合使用短 URL 工具、登陆页面软件和表单构建器. 没有任何简单的集成和简单的分析？ 为什么不让它变得更容易呢？ ​ https://reddit.com/link/1ccaphd/video/20c6uh6a0iwc1/player &lt;!-- SC_ON - -&gt;  由   提交/u/joaogonzalez   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1ccaphd/roast_my_homemade_demo_video/</guid>
@@ -78,37 +106,9 @@
     <item>
       <title>今天在 ProductHunt 上推出了我的人工智能客户支持票务软件！如果你们能测试一下，我将不胜感激。</title>
       <link>https://www.reddit.com/r/SideProject/comments/1cc6zxh/launched_my_ai_customer_support_ticketing/</link>
-      <description><![CDATA[    /u/pubgupdates   [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[   /u/pubgupdates  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1cc6zxh/launched_my_ai_customer_support_ticketing/</guid>
       <pubDate>Wed, 24 Apr 2024 19:20:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>Automad 2 的现场演示，这是一个免费的开源 CMS 和基于块的页面构建器</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cc5tgk/a_livedemo_for_automad_2_a_free_and_opensource/</link>
-      <description><![CDATA[       由   提交 /u/marcantondahmen   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cc5tgk/a_livedemo_for_automad_2_a_free_and_opensource/</guid>
-      <pubDate>Wed, 24 Apr 2024 18:32:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>我如何使用人工智能和自动化来撰写高质量、SEO 优化的博客文章</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cc5jbq/how_i_use_ai_automation_to_write_high_quality_seo/</link>
-      <description><![CDATA[       由   提交 /u/TacticalConsultant   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cc5jbq/how_i_use_ai_automation_to_write_high_quality_seo/</guid>
-      <pubDate>Wed, 24 Apr 2024 18:21:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>reelworldapp.com</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cc54b2/reelworldappcom/</link>
-      <description><![CDATA[      &amp;# 32；由   提交/u/erloom4854  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cc54b2/reelworldappcom/</guid>
-      <pubDate>Wed, 24 Apr 2024 18:05:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>朝九晚五同行业的副业？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cc516s/side_hustle_in_the_same_industry_as_95/</link>
-      <description><![CDATA[有人在朝九晚五的行业里有副业吗？你是如何处理的？ 你认为如果你的老板/同事发现了，事情会变得尴尬吗？   由   提交 /u/thisismeihere   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cc516s/side_hustle_in_the_same_industry_as_95/</guid>
-      <pubDate>Wed, 24 Apr 2024 18:02:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
