@@ -4,7 +4,84 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个 Reddit 子版块，用于分享和接收有关副项目的建设性反馈。</description>
-    <lastBuildDate>Fri, 26 Apr 2024 06:17:18 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Apr 2024 09:13:14 GMT</lastBuildDate>
+    <item>
+      <title>出售数据</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cdgmfk/sell_data/</link>
+      <description><![CDATA[我每天都会抓取一些有价值的数据。有什么简单的方法（讨厌 DevOps）可以向非技术用户出售这些数据的订阅？   由   提交 /u/LouisDeconinck   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cdgmfk/sell_data/</guid>
+      <pubDate>Fri, 26 Apr 2024 09:00:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>哪个 Windows 操作系统最好？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cdgm83/which_windows_os_is_the_best/</link>
+      <description><![CDATA[查看投票 &lt; /div&gt;  由   提交/u/alesoftware  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cdgm83/which_windows_os_is_the_best/</guid>
+      <pubDate>Fri, 26 Apr 2024 09:00:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>您可以在 Product Hunt 免费获得当日排名第一的产品</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cdgl81/you_can_get_1_product_of_the_day_on_product_hunt/</link>
+      <description><![CDATA[       由   提交/u/taishikato   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cdgl81/you_can_get_1_product_of_the_day_on_product_hunt/</guid>
+      <pubDate>Fri, 26 Apr 2024 08:58:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们的博客上有许多秘密信息</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cdgkp1/many_secret_info_on_our_blog/</link>
+      <description><![CDATA[     &lt; /td&gt;  由   提交/u/alesoftware  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cdgkp1/many_secret_info_on_our_blog/</guid>
+      <pubDate>Fri, 26 Apr 2024 08:57:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>我做了一个OIDC认证库，支持自托管，并且有完整的测试用例。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cdgiym/i_made_an_oidc_authentication_library_that/</link>
+      <description><![CDATA[https://github.com/chuck1in/nw -auth 基于OIDC流程做了一个身份认证库，支持GitHub、微信、Google、Twitter、飞书、新浪等第三方平台。理论上也支持自部署OIDC认证服务器。由于没有宣传，不知道有没有用户在使用。 🎉 这个库的特点如下：  🍒 代码量小 🍋 暴露接口很少 🥝 无运行时依赖  最近利用业余时间给这个库添加了一个自测页面，方便大家通过可视化界面确认图书馆的三方登录功能是否可以正常运行。 本页面是用sveltekit制作的。我不是专门研究前端的。我本以为没有太多工作，但最终却花费了很多时间和精力。如果你觉得这个库有用，希望你能给我一些⭐以示鼓励。感谢您的支持。 如果您愿意为这个库贡献代码，您只需在现有结构的基础上添加更多第三方登录平台即可。 👏👏👏   由   提交 /u/chuck1inzl   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cdgiym/i_made_an_oidc_authentication_library_that/</guid>
+      <pubDate>Fri, 26 Apr 2024 08:53:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>iOS 版 Pong Wars，我两个月的业余项目</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cdgcwh/pong_wars_for_ios_my_sideproject_for_2_months/</link>
+      <description><![CDATA[您好，SideProject！ Pong Wars - 一款适用于 iOS 的快节奏街机游戏现已在 Product Hunt 上线！ 在过去的 2 个月里，我一直在在看到 Koen Van Gilst 的开源实现后的一个晚上。 一个周末，我从他的 JavaScript 实现中创建了一个开源分支，将其移植到 Swift（带有 SpriteKit）https://github.com/frederik-jacques/pong-wars。但随着时间的推移，它意外地变成了一款真正的游戏😬 今天我很高兴终于能与大家分享 Pong Wars！ 🙋🏼‍♂️ 你需要做什么？ 游戏的目标是在 30 秒内从对手手中夺取尽可能多的棋子。 您可以与电脑对战，但在一台设备上与好友正面对战会更有趣。更有趣的是，每个图块都有一个可能的能力，您可以使用它来赢得游戏！  💙 让我知道你的想法！ 请随时在下面发表评论或通过电子邮件联系 (frederik@ the-nerd.be)! 弗雷德里克   由   提交 /u/thenerd_be   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cdgcwh/pong_wars_for_ios_my_sideproject_for_2_months/</guid>
+      <pubDate>Fri, 26 Apr 2024 08:41:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>我究竟做错了什么？ - 每日发布</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cdg950/what_am_i_doing_wrong_dailylaunch/</link>
+      <description><![CDATA[      嘿 Reddit 社区， 在 DailyLaunch.site，我们致力于克服产品发布的挑战。我们独特的策略确保每件产品都通过独特的日常功能获得应有的关注。 🚀 早鸟特惠：每月启动我们令人难以抗拒的优惠 - 产品第一天起价仅为 1 美元！ 💡 动态定价：为了让事情变得令人兴奋，我们每天都会稍微提高价格，营造一种紧迫感并鼓励快速采取行动。 🔄 每月重置：随着日历的翻转，我们达到了重置按钮，让您有机会获得 1 美元起的超值优惠。 📅 按时间顺序预订：目前，我们重视公平性和简单性，这就是我们根据收到电子邮件的顺序预订产品的原因。不过，我们计划在不久的将来实现这一流程的自动化。 尽管访客不断流入和流出，但需求似乎难以捉摸。我们在这里摸不着头脑，试图找出缺少的内容。 有了您的反馈，我们相信我们可以继续改进 DailyLaunch 并共同成长。我们正在积极寻找企业家和产品所有者加入我们这一激动人心的旅程。如果您想参与其中，请联系我们。   由   提交/u/miracsengonul  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cdg950/what_am_i_doing_wrong_dailylaunch/</guid>
+      <pubDate>Fri, 26 Apr 2024 08:33:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>一个专门用于分享您最喜欢的带有时间戳的电影/电视节目场景的网站 - scenestamps.com</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cdg92x/a_website_dedicated_for_sharing_your_favorite/</link>
+      <description><![CDATA[创作者们大家好， 我推出了一个专门用于分享场景的网站，其中包含各种电影和电视的描述和时间戳显示。我正在收集您在这些领域的观点和建议，以改进网站并扩大我的覆盖范围。  链接：https://scenestamps.com 您无需注册/登录浏览网站。 Scenestamps 功能：  搜索：您可以直接搜索场景或来源。  上传帖子：您可以注册您的 Google 帐户，登录并立即开始发帖。与该特定域中的其他网站不同，用户可以上传帖子。  帖子有两种类型 - 场景 - 来源 &lt; p&gt;来源是电影、电视节目、纪录片等...一个来源可以有多个场景。在创建场景帖子时，可以在那里选择来源。  场景发布将包含时间戳字段。  有两种类型： - 单个 - 场景发生的时间戳的一个输入字段。 - 从-到 - 两个输入字段，场景发生的起点和终点。 分享帖子：分享源帖子和场景帖子均提供此功能，您可以通过该功能将帖子分享到您最喜欢的社交媒体平台 标记系统：您可以添加标记到场景帖子。您还可以通过点击它来获取具有该标签名称的所有场景。  我认为想要创建场景的人相当少，但是，我想让这是最好的，所以请在回复中或在 reddit.com/scenestamps.com 或消息中发布任何问题或建议如果你愿意的话可以找我！   由   提交/u/pinto2198  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cdg92x/a_website_dedicated_for_sharing_your_favorite/</guid>
+      <pubDate>Fri, 26 Apr 2024 08:33:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>每日灵感：认识我们每天分享励志视频的新 BOT</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cdfxma/daily_dose_of_inspiration_meet_our_new_bot_that/</link>
+      <description><![CDATA[介绍我们的最新作品 - 一个旨在每天提升和激励您的 BOT！这款 BOT 独特地融合了励志主题和视觉上令人惊叹的内容，可以让您的一天焕然一新，振奋精神。准备好带着我们每天的动力踏上积极和个人成长的旅程。加入社区，分享您的故事，让我们互相激励，走向伟大。请继续关注我们专门的 BOT 为您带来的日常灵感！ https： //www.instagram.com/soul.shifts_?igsh=Y3R4OGNpemhjOGV4&amp;utm_source=qr 请查看我们的 Instagram 页面并提供反馈。   由   提交/u/savineeth  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cdfxma/daily_dose_of_inspiration_meet_our_new_bot_that/</guid>
+      <pubDate>Fri, 26 Apr 2024 08:11:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一款 iOS 应用程序，让孩子们只需通过说话即可制作图画书</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cdfn4b/i_made_an_ios_app_that_lets_kids_make_picture/</link>
+      <description><![CDATA[我根据 6 岁女儿的意见，将 Storee Time 作为一个副业项目。该应用程序可以让孩子们提示两代人工智能模型生成图画书供他们阅读。他们还可以探索世界各地其他孩子创作的书籍。我是一名长期的后端开发人员和企业家，只做过 B2B。 我已经到了一个阶段，我实际上非常喜欢我所构建的东西（当然它可以改进，我尝试每天留出一些时间来做一点）但我不知道如何获得更多下载。第一周我就收到了大约 70 个用户。 有人对如何吸引更多用户有什么想法吗？  https://apps.apple.com/sa/app/storee-time /id6479522868 我制作了一个抖音，我根本不使用社交媒体，所以这对我来说是一个学习。如果有人愿意的话，我也很感激对此的反馈？ 非常感谢！  https://www.tiktok.com/@storeetimeapp   由   提交/u/f3ydr4uth4   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cdfn4b/i_made_an_ios_app_that_lets_kids_make_picture/</guid>
+      <pubDate>Fri, 26 Apr 2024 07:50:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找两个项目的同行。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cdempb/looking_for_peers_for_two_projects/</link>
+      <description><![CDATA[ 人工智能约会帮助大师。就像我们有健身教练应用程序，类似于帮助约会的应用程序。  一个网站，某人可以在其中撰写故事/想法，并且任何其他人都可以继续。  如果有兴趣可以联系我。    由   提交 /u/NewKidInOldTown   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cdempb/looking_for_peers_for_two_projects/</guid>
+      <pubDate>Fri, 26 Apr 2024 06:42:32 GMT</pubDate>
+    </item>
     <item>
       <title>请给我一些关于我的新副项目的反馈：将 Youtube 视频转换为 Twitter 线程和带有图像的博客</title>
       <link>https://www.reddit.com/r/SideProject/comments/1cdd165/please_give_me_some_feedbacks_for_my_new/</link>
@@ -15,7 +92,7 @@
     <item>
       <title>我做了一个网站，里面收藏了 1024 块石头。</title>
       <link>https://www.reddit.com/r/SideProject/comments/1cdcuy9/i_made_a_website_which_is_a_collection_of_1024/</link>
-      <description><![CDATA[   /u/illyadrop  [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[        由    /u/illyadrop   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1cdcuy9/i_made_a_website_which_is_a_collection_of_1024/</guid>
       <pubDate>Fri, 26 Apr 2024 04:55:14 GMT</pubDate>
     </item>
@@ -32,83 +109,6 @@
       <description><![CDATA[所以我的时事通讯是关于寻找有利可图的初创公司和微型 SaaS 创意，您可以获得有利可图的止痛药创意，您可以解决这些创意并在互联网上赚大钱通过解决人们的问题。我还提供了简短的案例研究和有关其他初创公司和微型SaaS的最新新闻，这些公司通过解决问题获得了可观的收入。我仅仅通过在正确的关键字上撰写时事通讯帖子，就将其关注者从 0 名增加到 110 名，以便它在 Google 上排名。如果您想加入：MillionDollarProblems   由   提交/u/gary_king_001   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1cdbk1c/i_grew_my_newsletter_to_110_subscribers_in_less/</guid>
       <pubDate>Fri, 26 Apr 2024 03:44:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>网站中植入的ko-fi已被取消页面发布。怎么解决呢？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cd9i3u/the_kofi_implanted_in_the_website_has_been/</link>
-      <description><![CDATA[我开发的用于检查网站 SEO 排名的工具 SeonaAI 遇到了一个小问题。我已将 Ko-fi 集成到我的网站中，但由于某种原因，Ko-fi 取消了我的页面的发布，并且他们没有向我发送任何有关它的电子邮件通知。还有其他人遇到过这个问题吗？如果您访问 SeonaAI 网站，您会看到左下角的 Ko-fi 按钮显示错误。其他人是如何解决类似情况的？我正在寻找反馈。   由   提交/u/Abject_Trouble6538  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cd9i3u/the_kofi_implanted_in_the_website_has_been/</guid>
-      <pubDate>Fri, 26 Apr 2024 02:00:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>NPS 图像编辑器：具有强大颜色选择器的 MS 绘图和剪切工具替代品</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cd9fs1/nps_image_editor_ms_paint_and_snipping_tool/</link>
-      <description><![CDATA[NPS 是一款免费的图像编辑器，其灵感来自经典的 MS Paint，具有更多高级功能，如滤镜、透明度和图层。与 GIMP 或 Paint.NET 不同，它保持简单的操作简单 - 拖动图像的一角即可调整大小，选择并移动，而无需使用单独的“选择”和“移动”工具等。 它针对屏幕截图编辑进行了高度优化。您可以使用“快速截图”作为 Windows 截图工具的替代方案，使用常规的 Print Scr 键捕获即时屏幕截图，然后剪辑其内容（而不必使用延迟来捕获工具提示等内容），并在多显示器设置中快速将屏幕截图裁剪到特定屏幕。我最近添加了“波纹删除”，以便快速删除图像中间的内容，同时一步调整所有内容的大小。 颜色选择器非常强大，可以独立于图像编辑器使用。它具有多个色彩空间，包括 RGB/HSL/HSV/Lab/YUV 和罕见的 HCL，支持从屏幕上的任何点（包括其他应用程序）抓取颜色，并允许您快速复制/粘贴多种标准格式的颜色值。如果您尝试在编辑 CSS 代码时生成配色方案，这非常有用。 我多年来一直在业余时间研究它，最近发布了一个增加图层蒙版支持的更新。它目前仅适用于 Windows，但我最终计划让它跨平台。我很想得到一些反馈！ 在这里获取：https://nps.nookkin.com/ 屏幕截图：https://nps.nookkin.com/screenshots.ndoc    提交人    /u/n00kkin   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cd9fs1/nps_image_editor_ms_paint_and_snipping_tool/</guid>
-      <pubDate>Fri, 26 Apr 2024 01:57:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>资金经理应用程序</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cd91d0/money_manager_app/</link>
-      <description><![CDATA[     &lt; td&gt; 大家好，经过长时间的开发，我的资金经理应用程序已在 Play 商店上线。应用程序仍处于初始阶段，正在开发更多功能。请尝试并给我建议和反馈 请加入discord讨论    由   提交/u/Globin_dev  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cd91d0/money_manager_app/</guid>
-      <pubDate>Fri, 26 Apr 2024 01:38:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>适用于所有生产力应用程序的中枢神经系统</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cd85pw/a_central_nervous_system_for_all_your/</link>
-      <description><![CDATA[嘿，r/SideProject 社区！  我很高兴能分享一个我热爱的项目——Assista，一个支持语音的人工智能助手，旨在改变我们与生产力应用程序的交互方式。由于在多个生产力应用程序之间不断切换（每年可能会浪费多达 32 天）的挫败感，我们创建了 Assista 作为一个统一平台，集成了 Gmail、Notion、HubSpot、Trello 和 Google 日历等各种工具。 借助 Assista，您可以从单一界面使用语音或文本命令跨各种工具执行许多任务。这可以节省时间，减少信息过载和上下文切换，并提高注意力。想象一下，在一个地方管理任务、组织日程安排和接收更新！ 我们为 Assista 提供了无缝应用集成和机器学习算法等功能，可根据您的工作习惯个性化操作。我们的目标是让您的工作流程更加高效、直观地符合您的风格。 我很想听听您的想法、反馈，甚至探索潜在的合作！让我们讨论一下 Assista 这样的技术如何让我们的数字工作环境变得更有效率、压力更小。  今天，我们推出了 Product Hunt，感谢您的支持和反馈！ https://www.producthunt.com/posts/assista-ai  谢谢花时间检查一下！ 🚀    由   提交 /u/Several_Control1995   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cd85pw/a_central_nervous_system_for_all_your/</guid>
-      <pubDate>Fri, 26 Apr 2024 00:56:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>ScriX - Chrome 扩展程序，可将任何音频实时总结为要点</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cd7c6m/scrix_chrome_extension_that_summarizes_any_audio/</link>
-      <description><![CDATA[       由   提交/u/compressor0101  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cd7c6m/scrix_chrome_extension_that_summarizes_any_audio/</guid>
-      <pubDate>Fri, 26 Apr 2024 00:18:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>烘烤我的产品</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cd6f63/roast_my_product/</link>
-      <description><![CDATA[我正在构建 Aimdoc.ai，一个让您可以使用的工具直接在冷电子邮件模板中部署个性化外展助理。 我会说烤我的着陆页，但我已经知道这很糟糕。 以下是它的工作原理： &gt;  上传知识 这是您的代理在与潜在客户和潜在客户互动时可以访问的信息  根据您的品牌量身定制 上传徽标并设置您的配色方案  个性化 指定您的目标角色以及代理的总体目标 li&gt;  当潜在客户互动时收到通知，了解意图，个性化您的跟进  这是我最初想法的一个支点，这也是我最初的想法这是一个多面手的解决方案。 非常感谢任何反馈。谢谢！   由   提交/u/SuddenEmployment3  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cd6f63/roast_my_product/</guid>
-      <pubDate>Thu, 25 Apr 2024 23:39:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>从心碎到区块链：我的分手如何推动了数字画布革命</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cd66iu/from_heartbreak_to_blockchain_how_my_breakup/</link>
-      <description><![CDATA[   所以，这是独家新闻。  在经历了五年的恋爱关系后，我的女朋友离开了我，因为我没有赚大钱，这意味着没有闪亮的戒指。啊对？原来，她和钱袋子先生交往已经半年了。这就像一列货运列车一样击中了我，让我思考 – 我需要立即做出改变。 快进一点，我一头扎进编码领域，并偶然发现了区块链的热潮。一件事引发了另一件事，然后砰的一声，我找到了互联网广告的元祖，百万美元主页。灯泡时刻！我想，为什么不在 2020 年代重新启动这个坏男孩呢？混合区块链进行交易和租赁空间，将视频和 GIF 与常见的图片一起加入，你就对经典有了新的认识。 向 ChatGPT4 致以崇高的敬意 – 这家伙一直是我的得力助手，帮助我穿越一些相当茂密的科技丛林。现在，我可能梦想太大了，以为我可以把心痛变成赚钱的东山再起。但是嘿，我们来了。  如果您对我的旅程感兴趣并且有疑问或只是想聊天？滑入我的私信。如果您想查看该项目，请欢迎加入！   由   提交 /u/hyjjek   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cd66iu/from_heartbreak_to_blockchain_how_my_breakup/</guid>
-      <pubDate>Thu, 25 Apr 2024 23:28:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>炒作：随机的人正在注册我的人工智能辅助语音邮件应用程序的测试版列表</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cd2tug/hyped_random_people_are_signing_up_to_my_beta/</link>
-      <description><![CDATA[大家好！我太兴奋了！在推出了一些半成品（而且大多是半成品）的产品后，却获得了不冷不热的成功。今天我真是太兴奋了。在过去的几周里，我一直非常热衷于人工智能辅助语音邮件应用程序的新项目，它可以代表您接听电话并通过推送消息向您发送摘要。  我一生中第一次从一个登陆页面开始测试吸引力，然后花了几个月的时间构建一个我没有验证的产品。  今天它开始发生（不确定流量来自哪里），但前几个人在我的 Beta 发布等待名单上注册了。无论如何：我仍然需要赚取一次下载或美元。但我非常兴奋的是，我现在可以向人们发送有关我的项目的电子邮件。  如果您认为这是一个很酷的主意，请告诉我（或者嘲笑我！）这是我构建的登陆页面网站&lt; /a&gt;   由   提交 /u/Human-Possession135    reddit.com/r/SideProject/comments/1cd2tug/hyped_random_people_are_signing_up_to_my_beta/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cd2tug/hyped_random_people_are_signing_up_to_my_beta/</guid>
-      <pubDate>Thu, 25 Apr 2024 21:07:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>我正在构建一个人工智能驱动的平台来重命名你的模因</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cd2n6z/im_building_an_aipowered_platform_for_renaming/</link>
-      <description><![CDATA[      我发现自己正在滚动浏览我不断增长的模因收藏，并且花了一段时间！ 我尝试搜索文件名，但它们的命名都是随意的。  因此，我在 Bubble 上构建了一个平台，允许您上传最多 1,000 个 meme，然后将其发送到 OpenAI，OpenAI 为每个 meme 提供描述性关键字。这些被放入新的文件名并压缩。 不过我正在尝试推销它。当然，在 9gag 和 Reddit 上发布了一些表情包，并在 TikTok 上宣传了它的视频，但尚未销售。我猜到目前为止只过了一天。 我还应该使用其他渠道吗？考虑支付 9gag 和 Reddit 上的广告费用。想法？ 谢谢！   由   提交/u/thatotherguy234   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cd2n6z/im_building_an_aipowered_platform_for_renaming/</guid>
-      <pubDate>Thu, 25 Apr 2024 21:00:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>我为陌生电话制作了一个漂亮的提词器</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cd2ftc/i_built_a_beautiful_teleprompter_for_cold_calls/</link>
-      <description><![CDATA[    &lt; /a&gt;   由   提交/u/freakH3O   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cd2ftc/i_built_a_beautiful_teleprompter_for_cold_calls/</guid>
-      <pubDate>Thu, 25 Apr 2024 20:53:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>有趣的派对或办公室宾果游戏机</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cd2acu/fun_party_or_office_bingo_maker/</link>
-      <description><![CDATA[      非商业性质，最初只是为我的朋友玩的一个有趣的宾果游戏，我希望它能给你带来和我的朋友圈一样多的快乐 :)    由   提交  /u/jojo-dev   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cd2acu/fun_party_or_office_bingo_maker/</guid>
-      <pubDate>Thu, 25 Apr 2024 20:47:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
