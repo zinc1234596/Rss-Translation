@@ -4,7 +4,56 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个 Reddit 子版块，用于分享和接收有关副项目的建设性反馈。</description>
-    <lastBuildDate>Fri, 26 Apr 2024 09:13:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Apr 2024 12:22:14 GMT</lastBuildDate>
+    <item>
+      <title>7 个无代码 + AI 工具，让你成为百万富翁</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cdjxi4/7_nocode_ai_tools_that_will_make_you_a_millionaire/</link>
+      <description><![CDATA[   /u/Bogong_Moth  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cdjxi4/7_nocode_ai_tools_that_will_make_you_a_millionaire/</guid>
+      <pubDate>Fri, 26 Apr 2024 12:19:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何正确软启动？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cdjtvf/how_to_soft_launch_properly/</link>
+      <description><![CDATA[大家好！我在这里潜水了一段时间，这个 subreddit 中发布和分享的所有附带项目都给了我启发。 因此，我继续创建了自己的附带项目 HomeWallet。这是一款个人财务应用程序，可让家庭、夫妇和团体轻松地从更大的视角查看他们的财务状况，获得见解，并且可以轻松、顺畅地保持更新数据的习惯，而无需将银行账户连接到应用程序。我根据我一直为家人使用的 Google 表格原型构建了它。我认为它会引起其他人的共鸣： - 发现很难跟上记录 - 不太信任第三方应用程序来连接银行和信用卡账户 - 想要在洞察力层面上更多地了解他们的财务状况。 话虽如此，我已经使用 streamlit 构建了我的 MVP，部署在 heroku 中，并且它已经上线。但是，我还没有为它创建登录页面。 你们能给我一些建议吗？我还应该做些什么来正确地软启动它？人们通常这么早就做广告吗？我是否保持登录页面简单？你们如何与用户取得联系？ 我的目标是让早期用户看到价值，获得反馈，并希望迭代到更成熟的 Web 应用程序（通过 JS 环境）和移动应用程序。 我很想听听你的意见。 谢谢！    提交人    /u/Possible-Alfalfa-893   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cdjtvf/how_to_soft_launch_properly/</guid>
+      <pubDate>Fri, 26 Apr 2024 12:14:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>完全诚实地烤我的生产力仪表板。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cdj7p4/be_fully_honest_and_roast_my_productivity/</link>
+      <description><![CDATA[嘿伙计们， 我是一名学生，有些天我很难尊重我的任务和我的 为了解决这个问题，我构建了一个免费的概念模板来跟上我所有的待办事项，当我完成它们时 - 连续完成的次数越大 - 我获得的积分奖励就越多。这些点数可以用来升级你拥有的可爱宠物角色。 将来，我希望加强它的游戏方面，使其更加有趣。 &lt; p&gt;所以我想请你们对我的这个模板进行诚实的审查！ 这里是链接：您现在可以在这里免费试用：https://www.notion.so/templates/studysprint-building-a-routine-becomes- a-fun-game-beta 我期待听到您（诚实的！）对此的想法！   由   提交 /u/FanaticRoute   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cdj7p4/be_fully_honest_and_roast_my_productivity/</guid>
+      <pubDate>Fri, 26 Apr 2024 11:42:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>向我的周末项目问好！我的第一个集成人工智能的应用程序</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cdj1xz/say_hello_to_my_weekend_project_my_first/</link>
+      <description><![CDATA[一周前，我意识到提出创意、独特且不那么通用的英雄文本副本被证明是一件令人头疼的事情。在我多次处理类似问题时，有人问我如何改进他们的英雄文本，但我却一无所获。每个人都指出人工智能生成的文本太笼统，解释性不够，而且随处可见。 就我个人而言，这解决了我每次尝试构建一些有趣的东西时绞尽脑汁的问题以及冲动的问题。放弃它，因为我浪费了太多时间试图写出正确的东西 - 希望这已经足够了。没有人应该处理这个问题，尤其是当刚开始成为一名独立黑客或喜欢构建人们喜欢使用的酷东西的人时。 所以我上周末构建了 HeroGem，剩下的时间都花在了构建 HeroGem 上。本周对其进行了改进，使其更加用户友好。就 MVP 而言，我认为这足以进行测试。我希望一些 Beta 测试人员或用户向我提供有关其工作效果的反馈。 从我自己的模拟来看，它似乎每次刷新都会生成更好的精致副本，因此请让我知道您对手柄的想法我已将其包含在应用程序中或此处。 请随意测试一下， 它是完全免费的。我可能应该提到它目前由 GPT3.5-Turbo 提供支持 - 这是为大多数人服务而不用尽我自己的代币的最佳方式。但是，一旦有足够多的用户感兴趣，我非常愿意将其升级到 GPT-4，因为它会产生最佳结果。 https://reddit.com/link/1cdj1xz/video/6q7yiqey7twc1/player    ;由   提交 /u/Tlaley   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cdj1xz/say_hello_to_my_weekend_project_my_first/</guid>
+      <pubDate>Fri, 26 Apr 2024 11:33:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>用于检查谁没有在 Instagram 上关注您的 Web 应用程序</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cdipbc/webapp_to_check_who_is_not_following_you_back_on/</link>
+      <description><![CDATA[嘿， 当要检查谁没有在 Instagram 上关注您时，可以使用第三方来自 App Store 的派对工具。你必须通过这些应用程序登录，然后你才能看到谁没有关注你。  但是，一段时间后你就不能再使用它们了。它们大多数时候不起作用，更重要的是，如果您使用这些工具，Instagram 会暂停您的帐户。一旦您的帐户被暂停，很可能就无法挽回了。  那么，该怎么办呢？只需手动检查谁没有回复？好吧，这可能适用于粉丝数少于 100 人的帐户，但即便如此，这也是一项乏味的工作。  一种新方法是下载您的 Instagram 关注者和关注者数据。您可以选择时间范围以及数据格式（HTML 和 JSON）。这里的好处是，您似乎可以根据需要多次执行此操作，例如每天几次。  有了您的关注数据，您现在可以比较这些数据。 YouTube 上的大多数教程都建议使用列表比较工具，因此您可以访问网站并手动粘贴文件内容并让它们进行比较。这里的缺点是，你仍然需要手动做一些事情，一旦你犯了一个小错误，结果可能无法反映实际的跟随者情况。  这就是我创建 Sweepgram 的原因。这个方便的工具可以自动比较您的关注者和关注者数据的过程。  它是如何工作的？   使用 JSON 格式请求您的所有时间的关注者和关注者数据 数据下载准备就绪后，下载 ZIP 存档并将其提交到 Sweepgram&lt; br /&gt; 任何不关注您的用户都将被列出，并附上其个人资料的链接 奖励：它也可以作为渐进式网络使用应用程序，例如在 Chrome 中，您只需浏览该网站并单击“安装应用程序”即可。在您的菜单中，它将把 PWA 添加到您的手机 值得信赖：该工具是免费且开源的，因此，如果您不信任我或我的服务器，您可以创建自己的版本软件简介  周末愉快！ 亲切的问候  &amp;# 32；由   提交 /u/Fit_Fee9549   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cdipbc/webapp_to_check_who_is_not_following_you_back_on/</guid>
+      <pubDate>Fri, 26 Apr 2024 11:14:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个应用程序，利用实时文本功能来编辑、突出显示、模糊、像素化......寻求您的反馈以改进该应用程序。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cdhqax/i_made_an_app_utilizing_live_text_functionality/</link>
+      <description><![CDATA[   大家好， 引入实时文本检测iOS 16 中的 API，我利用它的强大功能创建了一个可简化文本编辑的应用程序。只需选择照片或屏幕截图，然后单击一下，您就可以编辑、突出显示、模糊或像素化实时文本。大多数功能都是免费的，我的应用程序还提供一次性购买选项。我渴望听到您的反馈，以进一步增强我的应用程序！” 您可以从此处下载：https://apps.apple.com/us/app/screenshot-editor-textmask/id6467501452 https://preview.redd.it/vmkfcfr1uswc1.png?width=1972&amp;format=png&amp;自动= webp&amp;s=469777354a5cb4703efe34e3fdf08682928f8b54   由   提交/u/khuong291  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cdhqax/i_made_an_app_utilizing_live_text_functionality/</guid>
+      <pubDate>Fri, 26 Apr 2024 10:15:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>婴儿/童装服装市场</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cdh82g/a_clothing_marketplace_for_baby_kids_clothes/</link>
+      <description><![CDATA[这可以支持向传统慈善机构/旧货店出售/购买/捐赠。 您能看到其中的价值吗？ p&gt;   由   提交 /u/stackdynamicsam   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cdh82g/a_clothing_marketplace_for_baby_kids_clothes/</guid>
+      <pubDate>Fri, 26 Apr 2024 09:42:29 GMT</pubDate>
+    </item>
     <item>
       <title>出售数据</title>
       <link>https://www.reddit.com/r/SideProject/comments/1cdgmfk/sell_data/</link>
@@ -60,55 +109,6 @@
       <description><![CDATA[创作者们大家好， 我推出了一个专门用于分享场景的网站，其中包含各种电影和电视的描述和时间戳显示。我正在收集您在这些领域的观点和建议，以改进网站并扩大我的覆盖范围。  链接：https://scenestamps.com 您无需注册/登录浏览网站。 Scenestamps 功能：  搜索：您可以直接搜索场景或来源。  上传帖子：您可以注册您的 Google 帐户，登录并立即开始发帖。与该特定域中的其他网站不同，用户可以上传帖子。  帖子有两种类型 - 场景 - 来源 &lt; p&gt;来源是电影、电视节目、纪录片等...一个来源可以有多个场景。在创建场景帖子时，可以在那里选择来源。  场景发布将包含时间戳字段。  有两种类型： - 单个 - 场景发生的时间戳的一个输入字段。 - 从-到 - 两个输入字段，场景发生的起点和终点。 分享帖子：分享源帖子和场景帖子均提供此功能，您可以通过该功能将帖子分享到您最喜欢的社交媒体平台 标记系统：您可以添加标记到场景帖子。您还可以通过点击它来获取具有该标签名称的所有场景。  我认为想要创建场景的人相当少，但是，我想让这是最好的，所以请在回复中或在 reddit.com/scenestamps.com 或消息中发布任何问题或建议如果你愿意的话可以找我！   由   提交/u/pinto2198  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1cdg92x/a_website_dedicated_for_sharing_your_favorite/</guid>
       <pubDate>Fri, 26 Apr 2024 08:33:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>每日灵感：认识我们每天分享励志视频的新 BOT</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cdfxma/daily_dose_of_inspiration_meet_our_new_bot_that/</link>
-      <description><![CDATA[介绍我们的最新作品 - 一个旨在每天提升和激励您的 BOT！这款 BOT 独特地融合了励志主题和视觉上令人惊叹的内容，可以让您的一天焕然一新，振奋精神。准备好带着我们每天的动力踏上积极和个人成长的旅程。加入社区，分享您的故事，让我们互相激励，走向伟大。请继续关注我们专门的 BOT 为您带来的日常灵感！ https： //www.instagram.com/soul.shifts_?igsh=Y3R4OGNpemhjOGV4&amp;utm_source=qr 请查看我们的 Instagram 页面并提供反馈。   由   提交/u/savineeth  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cdfxma/daily_dose_of_inspiration_meet_our_new_bot_that/</guid>
-      <pubDate>Fri, 26 Apr 2024 08:11:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一款 iOS 应用程序，让孩子们只需通过说话即可制作图画书</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cdfn4b/i_made_an_ios_app_that_lets_kids_make_picture/</link>
-      <description><![CDATA[我根据 6 岁女儿的意见，将 Storee Time 作为一个副业项目。该应用程序可以让孩子们提示两代人工智能模型生成图画书供他们阅读。他们还可以探索世界各地其他孩子创作的书籍。我是一名长期的后端开发人员和企业家，只做过 B2B。 我已经到了一个阶段，我实际上非常喜欢我所构建的东西（当然它可以改进，我尝试每天留出一些时间来做一点）但我不知道如何获得更多下载。第一周我就收到了大约 70 个用户。 有人对如何吸引更多用户有什么想法吗？  https://apps.apple.com/sa/app/storee-time /id6479522868 我制作了一个抖音，我根本不使用社交媒体，所以这对我来说是一个学习。如果有人愿意的话，我也很感激对此的反馈？ 非常感谢！  https://www.tiktok.com/@storeetimeapp   由   提交/u/f3ydr4uth4   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cdfn4b/i_made_an_ios_app_that_lets_kids_make_picture/</guid>
-      <pubDate>Fri, 26 Apr 2024 07:50:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找两个项目的同行。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cdempb/looking_for_peers_for_two_projects/</link>
-      <description><![CDATA[ 人工智能约会帮助大师。就像我们有健身教练应用程序，类似于帮助约会的应用程序。  一个网站，某人可以在其中撰写故事/想法，并且任何其他人都可以继续。  如果有兴趣可以联系我。    由   提交 /u/NewKidInOldTown   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cdempb/looking_for_peers_for_two_projects/</guid>
-      <pubDate>Fri, 26 Apr 2024 06:42:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>请给我一些关于我的新副项目的反馈：将 Youtube 视频转换为 Twitter 线程和带有图像的博客</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cdd165/please_give_me_some_feedbacks_for_my_new/</link>
-      <description><![CDATA[       由   提交/u/Friendly_Food9585   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cdd165/please_give_me_some_feedbacks_for_my_new/</guid>
-      <pubDate>Fri, 26 Apr 2024 05:04:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>我做了一个网站，里面收藏了 1024 块石头。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cdcuy9/i_made_a_website_which_is_a_collection_of_1024/</link>
-      <description><![CDATA[        由    /u/illyadrop   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cdcuy9/i_made_a_website_which_is_a_collection_of_1024/</guid>
-      <pubDate>Fri, 26 Apr 2024 04:55:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于跟踪支出、投资和净资产的薄荷替代品</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cdcmbk/mint_alternative_for_tracking_spending/</link>
-      <description><![CDATA[      随着 Mint 关闭，我想快速回答以下问题：  我做了什么这个月花了？上个月？今年？ 我最大的支出类别是什么？ 我可以在哪些方面减少支出？今年的旅行与 2023 年相比如何？ 有任何异常交易吗？  我在 https://jch.app/posts/previewing-mint-alternative。您可以通过从 Mint 或 PersonalCapital 导入 CSV 来亲自尝试。 这个月我花了多少钱？ Mint 是当我 2008 年开始使用它时，我感到很惊讶。它帮助我了解我的钱都在做什么。当我还是一个身无分文的学生时，最棒的是它是免费的！让负债累累的人再订阅一次并不会赚到任何钱。 我很乐意为那些不希望自己的财务状况存储在云端的精通技术的人提供高级的自托管版本。在所有竞争中，有一个利基市场可以帮助人们管理财务，而无需出售人们的个人数据或昂贵的订阅。 https://jch。应用程序   由   提交/u/paverbrick  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cdcmbk/mint_alternative_for_tracking_spending/</guid>
-      <pubDate>Fri, 26 Apr 2024 04:41:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>在不到 1 个月的时间里，我的时事通讯从零营销增加到了 110 名订阅者。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cdbk1c/i_grew_my_newsletter_to_110_subscribers_in_less/</link>
-      <description><![CDATA[所以我的时事通讯是关于寻找有利可图的初创公司和微型 SaaS 创意，您可以获得有利可图的止痛药创意，您可以解决这些创意并在互联网上赚大钱通过解决人们的问题。我还提供了简短的案例研究和有关其他初创公司和微型SaaS的最新新闻，这些公司通过解决问题获得了可观的收入。我仅仅通过在正确的关键字上撰写时事通讯帖子，就将其关注者从 0 名增加到 110 名，以便它在 Google 上排名。如果您想加入：MillionDollarProblems   由   提交/u/gary_king_001   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cdbk1c/i_grew_my_newsletter_to_110_subscribers_in_less/</guid>
-      <pubDate>Fri, 26 Apr 2024 03:44:08 GMT</pubDate>
     </item>
     </channel>
 </rss>

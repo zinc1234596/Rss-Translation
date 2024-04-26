@@ -4,7 +4,21 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Fri, 26 Apr 2024 09:13:18 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Apr 2024 12:22:22 GMT</lastBuildDate>
+    <item>
+      <title>深渊漫游者</title>
+      <link>https://www.producthunt.com/posts/deepwander</link>
+      <description><![CDATA[
+            人工智能促进内省，提高自我意识。
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/deepwander</guid>
+      <pubDate>Fri, 26 Apr 2024 06:08:59 GMT</pubDate>
+    </item>
     <item>
       <title>填写安排</title>
       <link>https://www.producthunt.com/posts/fillout-scheduling</link>
@@ -62,18 +76,18 @@
       <pubDate>Thu, 25 Apr 2024 23:07:46 GMT</pubDate>
     </item>
     <item>
-      <title>调色板</title>
-      <link>https://www.producthunt.com/posts/palette-d406e418-0c40-4e58-aed9-52936d9845b4</link>
+      <title>宝石</title>
+      <link>https://www.producthunt.com/posts/gems-3</link>
       <description><![CDATA[
-            社交平台可将您的所有兴趣集中在一处
+            从您所有的知识中获取现成可用的答案
           
 
-讨论
+讨论&lt; /a&gt;
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/palette-d406e418-0c40-4e58-aed9-52936d9845b4</guid>
-      <pubDate>Thu, 25 Apr 2024 08:01:43 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/gems-3</guid>
+      <pubDate>Thu, 25 Apr 2024 12:51:53 GMT</pubDate>
     </item>
     <item>
       <title>习惯</title>
@@ -163,21 +177,21 @@
       <title>心情</title>
       <link>https://www.producthunt.com/posts/moodset</link>
       <description><![CDATA[
-音乐增强情绪追踪
-
+            音乐增强情绪追踪
+          
 
 讨论
-|
-链接
+            |
+            链接
 ]]></description>
       <guid>https://www.producthunt.com/posts/moodset</guid>
       <pubDate>Thu, 18 Apr 2024 22:29:48 GMT</pubDate>
     </item>
     <item>
-      <title>Langfuse 2.0：法学硕士工程平台</title>
+      <title>Langfuse 2.0 - 法学硕士工程平台</title>
       <link>https://www.producthunt.com/posts/langfuse-2-0-llm-engineering-platform</link>
       <description><![CDATA[
-            跟踪、指标、评估、提示管理和游乐场 🪢
+            跟踪、评估、提示管理、游乐场和数据集
           
 
 讨论
@@ -200,20 +214,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/highlights-fa915501-9da2-49ca-8d10-e6391f1c7c4c</guid>
       <pubDate>Wed, 28 Feb 2024 17:16:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>取消身体</title>
-      <link>https://www.producthunt.com/posts/unbody</link>
-      <description><![CDATA[
-            一行代码即可实现自定义数据的自定义 AI
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/unbody</guid>
-      <pubDate>Mon, 12 Feb 2024 20:11:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
