@@ -4,7 +4,35 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个 Reddit 子版块，用于分享和接收有关副项目的建设性反馈。</description>
-    <lastBuildDate>Fri, 26 Apr 2024 03:14:11 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Apr 2024 06:17:18 GMT</lastBuildDate>
+    <item>
+      <title>请给我一些关于我的新副项目的反馈：将 Youtube 视频转换为 Twitter 线程和带有图像的博客</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cdd165/please_give_me_some_feedbacks_for_my_new/</link>
+      <description><![CDATA[       由   提交/u/Friendly_Food9585   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cdd165/please_give_me_some_feedbacks_for_my_new/</guid>
+      <pubDate>Fri, 26 Apr 2024 05:04:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>我做了一个网站，里面收藏了 1024 块石头。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cdcuy9/i_made_a_website_which_is_a_collection_of_1024/</link>
+      <description><![CDATA[   /u/illyadrop  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cdcuy9/i_made_a_website_which_is_a_collection_of_1024/</guid>
+      <pubDate>Fri, 26 Apr 2024 04:55:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>用于跟踪支出、投资和净资产的薄荷替代品</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cdcmbk/mint_alternative_for_tracking_spending/</link>
+      <description><![CDATA[      随着 Mint 关闭，我想快速回答以下问题：  我做了什么这个月花了？上个月？今年？ 我最大的支出类别是什么？ 我可以在哪些方面减少支出？今年的旅行与 2023 年相比如何？ 有任何异常交易吗？  我在 https://jch.app/posts/previewing-mint-alternative。您可以通过从 Mint 或 PersonalCapital 导入 CSV 来亲自尝试。 这个月我花了多少钱？ Mint 是当我 2008 年开始使用它时，我感到很惊讶。它帮助我了解我的钱都在做什么。当我还是一个身无分文的学生时，最棒的是它是免费的！让负债累累的人再订阅一次并不会赚到任何钱。 我很乐意为那些不希望自己的财务状况存储在云端的精通技术的人提供高级的自托管版本。在所有竞争中，有一个利基市场可以帮助人们管理财务，而无需出售人们的个人数据或昂贵的订阅。 https://jch。应用程序   由   提交/u/paverbrick  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cdcmbk/mint_alternative_for_tracking_spending/</guid>
+      <pubDate>Fri, 26 Apr 2024 04:41:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>在不到 1 个月的时间里，我的时事通讯从零营销增加到了 110 名订阅者。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cdbk1c/i_grew_my_newsletter_to_110_subscribers_in_less/</link>
+      <description><![CDATA[所以我的时事通讯是关于寻找有利可图的初创公司和微型 SaaS 创意，您可以获得有利可图的止痛药创意，您可以解决这些创意并在互联网上赚大钱通过解决人们的问题。我还提供了简短的案例研究和有关其他初创公司和微型SaaS的最新新闻，这些公司通过解决问题获得了可观的收入。我仅仅通过在正确的关键字上撰写时事通讯帖子，就将其关注者从 0 名增加到 110 名，以便它在 Google 上排名。如果您想加入：MillionDollarProblems   由   提交/u/gary_king_001   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cdbk1c/i_grew_my_newsletter_to_110_subscribers_in_less/</guid>
+      <pubDate>Fri, 26 Apr 2024 03:44:08 GMT</pubDate>
+    </item>
     <item>
       <title>网站中植入的ko-fi已被取消页面发布。怎么解决呢？</title>
       <link>https://www.reddit.com/r/SideProject/comments/1cd9i3u/the_kofi_implanted_in_the_website_has_been/</link>
@@ -15,7 +43,7 @@
     <item>
       <title>NPS 图像编辑器：具有强大颜色选择器的 MS 绘图和剪切工具替代品</title>
       <link>https://www.reddit.com/r/SideProject/comments/1cd9fs1/nps_image_editor_ms_paint_and_snipping_tool/</link>
-      <description><![CDATA[NPS 是一款免费图像编辑器，其灵感源自经典的 MS Paint，具有滤镜、透明度和图层等更高级的功能。与 GIMP 或 Paint.NET 不同，它使简单的操作保持简单——拖动图像的一角即可调整大小，一次选择和移动，而不需要单独的“选择”操作。和“移动”工具等等。 它针对屏幕截图编辑进行了高度优化。您可以使用“快速截图”作为 Windows 截图工具的替代方案，使用常规 Print Scr 键捕获即时屏幕截图，然后剪辑其内容（而不必使用延迟来捕获工具提示等内容），并快速将屏幕截图裁剪到多屏幕中的特定屏幕。 - 监视器设置。我最近添加了“波纹删除”允许快速删除图像中间的内容，同时一步调整其大小。 颜色选择器非常强大，可以独立于图像编辑器使用。它具有多种色彩空间，包括 RGB/HSL/HSV/Lab/YUV 和罕见的 HCL，支持从屏幕上的任何点（包括其他应用程序）抓取颜色，并允许您以多种标准格式快速复制/粘贴颜色值。如果您在编辑 CSS 代码时尝试生成配色方案，这非常有用。 多年来我一直在业余时间研究它，最近发布了一个添加了图层蒙版支持的更新。目前它仅适用于 Windows，但我最终计划使其跨平台。我希望得到一些反馈！ 在此处获取：https://nps.nookkin.com/ 屏幕截图：https://nps.nookkin.com/screenshots.ndoc   由   提交 /u/n00kkin   [链接] [评论]]]></description>
+      <description><![CDATA[NPS 是一款免费的图像编辑器，其灵感来自经典的 MS Paint，具有更多高级功能，如滤镜、透明度和图层。与 GIMP 或 Paint.NET 不同，它保持简单的操作简单 - 拖动图像的一角即可调整大小，选择并移动，而无需使用单独的“选择”和“移动”工具等。 它针对屏幕截图编辑进行了高度优化。您可以使用“快速截图”作为 Windows 截图工具的替代方案，使用常规的 Print Scr 键捕获即时屏幕截图，然后剪辑其内容（而不必使用延迟来捕获工具提示等内容），并在多显示器设置中快速将屏幕截图裁剪到特定屏幕。我最近添加了“波纹删除”，以便快速删除图像中间的内容，同时一步调整所有内容的大小。 颜色选择器非常强大，可以独立于图像编辑器使用。它具有多个色彩空间，包括 RGB/HSL/HSV/Lab/YUV 和罕见的 HCL，支持从屏幕上的任何点（包括其他应用程序）抓取颜色，并允许您快速复制/粘贴多种标准格式的颜色值。如果您尝试在编辑 CSS 代码时生成配色方案，这非常有用。 我多年来一直在业余时间研究它，最近发布了一个增加图层蒙版支持的更新。它目前仅适用于 Windows，但我最终计划让它跨平台。我很想得到一些反馈！ 在这里获取：https://nps.nookkin.com/ 屏幕截图：https://nps.nookkin.com/screenshots.ndoc    提交人    /u/n00kkin   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1cd9fs1/nps_image_editor_ms_paint_and_snipping_tool/</guid>
       <pubDate>Fri, 26 Apr 2024 01:57:39 GMT</pubDate>
     </item>
@@ -55,13 +83,6 @@
       <pubDate>Thu, 25 Apr 2024 23:28:48 GMT</pubDate>
     </item>
     <item>
-      <title>我最近在做的一个网站，让你探索网络！很想听听你的想法</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cd4b21/a_site_ive_been_working_on_recently_lets_you/</link>
-      <description><![CDATA[ 由   提交 /u/Optimal_Gap_1244   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cd4b21/a_site_ive_been_working_on_recently_lets_you/</guid>
-      <pubDate>Thu, 25 Apr 2024 22:12:45 GMT</pubDate>
-    </item>
-    <item>
       <title>炒作：随机的人正在注册我的人工智能辅助语音邮件应用程序的测试版列表</title>
       <link>https://www.reddit.com/r/SideProject/comments/1cd2tug/hyped_random_people_are_signing_up_to_my_beta/</link>
       <description><![CDATA[大家好！我太兴奋了！在推出了一些半成品（而且大多是半成品）的产品后，却获得了不冷不热的成功。今天我真是太兴奋了。在过去的几周里，我一直非常热衷于人工智能辅助语音邮件应用程序的新项目，它可以代表您接听电话并通过推送消息向您发送摘要。  我一生中第一次从一个登陆页面开始测试吸引力，然后花了几个月的时间构建一个我没有验证的产品。  今天它开始发生（不确定流量来自哪里），但前几个人在我的 Beta 发布等待名单上注册了。无论如何：我仍然需要赚取一次下载或美元。但我非常兴奋的是，我现在可以向人们发送有关我的项目的电子邮件。  如果您认为这是一个很酷的主意，请告诉我（或者嘲笑我！）这是我构建的登陆页面网站&lt; /a&gt;   由   提交 /u/Human-Possession135    reddit.com/r/SideProject/comments/1cd2tug/hyped_random_people_are_signing_up_to_my_beta/&quot;&gt;[链接] [评论]]]></description>
@@ -85,30 +106,9 @@
     <item>
       <title>有趣的派对或办公室宾果游戏机</title>
       <link>https://www.reddit.com/r/SideProject/comments/1cd2acu/fun_party_or_office_bingo_maker/</link>
-      <description><![CDATA[      非商业用途，最初是为我的朋友们提供的一个有趣的废话宾果游戏，我希望它给您带来的快乐就像它给我带来的快乐一样多朋友组:)   由   提交/u/jojo-dev  [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[      非商业性质，最初只是为我的朋友玩的一个有趣的宾果游戏，我希望它能给你带来和我的朋友圈一样多的快乐 :)    由   提交  /u/jojo-dev   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1cd2acu/fun_party_or_office_bingo_maker/</guid>
       <pubDate>Thu, 25 Apr 2024 20:47:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Snippy（更智能的 Clippy）：让 AI 代理查看您的屏幕，有趣的项目</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cd27mu/snippy_the_smarter_clippy_letting_an_ai_agent/</link>
-      <description><![CDATA[   /u/diamondbishop  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cd27mu/snippy_the_smarter_clippy_letting_an_ai_agent/</guid>
-      <pubDate>Thu, 25 Apr 2024 20:44:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>发货快吗？需要时间方面的帮助。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cd1sf7/ship_fast_need_help_with_timing/</link>
-      <description><![CDATA[嗨，我正在开发 SaaS，以轻松创建、共享和回答问题。我的目标受众是 B2B，内部沟通。我每天投入 1-2 小时来构建它，而且由于我是编程新手，所以速度很慢。我在经济上不会依赖这个项目，我更多地将其视为未来可能成为一名全职企业家的学习曲线的一部分。 我感觉我将能够建立一个不错且有用的产品。我可能会在 3-4 周内推出它，它已经提供了一些价值。在这里，我谈论的是我所认为的产品的免费部分。我已经有了想要构建什么样的高级功能的想法，但这还需要一两个月的时间。最重要的是，这将需要更多地关注法律部分（例如使用条款），并且我需要实现一个支付提供商。 在许多帖子中我读到：尽早交付 MVP 不需要货币化。另一方面，我认为发布后我需要投入大量时间进行营销，我在这里读到很多评论，付费用户通常在注册后很快就会订阅付费计划。  你觉得怎么样？尽快开始不货币化？或者再投入 2 个月的时间，而不是完全专注于营销？   由   提交/u/ResolutionExisting64  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cd1sf7/ship_fast_need_help_with_timing/</guid>
-      <pubDate>Thu, 25 Apr 2024 20:28:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用人工智能帮助我完成我的第一本书</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cd1kdu/using_ai_for_helping_me_with_my_first_book/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cd1kdu/using_ai_for_helping_me_with_my_first_book/</guid>
-      <pubDate>Thu, 25 Apr 2024 20:20:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
