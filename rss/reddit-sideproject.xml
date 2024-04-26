@@ -4,7 +4,35 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个 Reddit 子版块，用于分享和接收有关副项目的建设性反馈。</description>
-    <lastBuildDate>Fri, 26 Apr 2024 00:54:16 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Apr 2024 03:14:11 GMT</lastBuildDate>
+    <item>
+      <title>网站中植入的ko-fi已被取消页面发布。怎么解决呢？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cd9i3u/the_kofi_implanted_in_the_website_has_been/</link>
+      <description><![CDATA[我开发的用于检查网站 SEO 排名的工具 SeonaAI 遇到了一个小问题。我已将 Ko-fi 集成到我的网站中，但由于某种原因，Ko-fi 取消了我的页面的发布，并且他们没有向我发送任何有关它的电子邮件通知。还有其他人遇到过这个问题吗？如果您访问 SeonaAI 网站，您会看到左下角的 Ko-fi 按钮显示错误。其他人是如何解决类似情况的？我正在寻找反馈。   由   提交/u/Abject_Trouble6538  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cd9i3u/the_kofi_implanted_in_the_website_has_been/</guid>
+      <pubDate>Fri, 26 Apr 2024 02:00:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>NPS 图像编辑器：具有强大颜色选择器的 MS 绘图和剪切工具替代品</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cd9fs1/nps_image_editor_ms_paint_and_snipping_tool/</link>
+      <description><![CDATA[NPS 是一款免费图像编辑器，其灵感源自经典的 MS Paint，具有滤镜、透明度和图层等更高级的功能。与 GIMP 或 Paint.NET 不同，它使简单的操作保持简单——拖动图像的一角即可调整大小，一次选择和移动，而不需要单独的“选择”操作。和“移动”工具等等。 它针对屏幕截图编辑进行了高度优化。您可以使用“快速截图”作为 Windows 截图工具的替代方案，使用常规 Print Scr 键捕获即时屏幕截图，然后剪辑其内容（而不必使用延迟来捕获工具提示等内容），并快速将屏幕截图裁剪到多屏幕中的特定屏幕。 - 监视器设置。我最近添加了“波纹删除”允许快速删除图像中间的内容，同时一步调整其大小。 颜色选择器非常强大，可以独立于图像编辑器使用。它具有多种色彩空间，包括 RGB/HSL/HSV/Lab/YUV 和罕见的 HCL，支持从屏幕上的任何点（包括其他应用程序）抓取颜色，并允许您以多种标准格式快速复制/粘贴颜色值。如果您在编辑 CSS 代码时尝试生成配色方案，这非常有用。 多年来我一直在业余时间研究它，最近发布了一个添加了图层蒙版支持的更新。目前它仅适用于 Windows，但我最终计划使其跨平台。我希望得到一些反馈！ 在此处获取：https://nps.nookkin.com/ 屏幕截图：https://nps.nookkin.com/screenshots.ndoc   由   提交 /u/n00kkin   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cd9fs1/nps_image_editor_ms_paint_and_snipping_tool/</guid>
+      <pubDate>Fri, 26 Apr 2024 01:57:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>资金经理应用程序</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cd91d0/money_manager_app/</link>
+      <description><![CDATA[     &lt; td&gt; 大家好，经过长时间的开发，我的资金经理应用程序已在 Play 商店上线。应用程序仍处于初始阶段，正在开发更多功能。请尝试并给我建议和反馈 请加入discord讨论    由   提交/u/Globin_dev  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cd91d0/money_manager_app/</guid>
+      <pubDate>Fri, 26 Apr 2024 01:38:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>适用于所有生产力应用程序的中枢神经系统</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cd85pw/a_central_nervous_system_for_all_your/</link>
+      <description><![CDATA[嘿，r/SideProject 社区！  我很高兴能分享一个我热爱的项目——Assista，一个支持语音的人工智能助手，旨在改变我们与生产力应用程序的交互方式。由于在多个生产力应用程序之间不断切换（每年可能会浪费多达 32 天）的挫败感，我们创建了 Assista 作为一个统一平台，集成了 Gmail、Notion、HubSpot、Trello 和 Google 日历等各种工具。 借助 Assista，您可以从单一界面使用语音或文本命令跨各种工具执行许多任务。这可以节省时间，减少信息过载和上下文切换，并提高注意力。想象一下，在一个地方管理任务、组织日程安排和接收更新！ 我们为 Assista 提供了无缝应用集成和机器学习算法等功能，可根据您的工作习惯个性化操作。我们的目标是让您的工作流程更加高效、直观地符合您的风格。 我很想听听您的想法、反馈，甚至探索潜在的合作！让我们讨论一下 Assista 这样的技术如何让我们的数字工作环境变得更有效率、压力更小。  今天，我们推出了 Product Hunt，感谢您的支持和反馈！ https://www.producthunt.com/posts/assista-ai  谢谢花时间检查一下！ 🚀    由   提交 /u/Several_Control1995   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cd85pw/a_central_nervous_system_for_all_your/</guid>
+      <pubDate>Fri, 26 Apr 2024 00:56:45 GMT</pubDate>
+    </item>
     <item>
       <title>ScriX - Chrome 扩展程序，可将任何音频实时总结为要点</title>
       <link>https://www.reddit.com/r/SideProject/comments/1cd7c6m/scrix_chrome_extension_that_summarizes_any_audio/</link>
@@ -36,7 +64,7 @@
     <item>
       <title>炒作：随机的人正在注册我的人工智能辅助语音邮件应用程序的测试版列表</title>
       <link>https://www.reddit.com/r/SideProject/comments/1cd2tug/hyped_random_people_are_signing_up_to_my_beta/</link>
-      <description><![CDATA[大家好！我太兴奋了！在发布了几款半成品（而且大部分都是半途而废）的产品后，我收到了不温不火的成功。今天我非常兴奋。在过去的几周里，我一直非常热衷于一个人工智能辅助语音邮件应用程序的新项目，它可以代表您接听电话并通过推送消息向您发送摘要。  我一生中第一次从一个登陆页面开始测试牵引力，然后花了几个月的时间构建一个我没有验证的产品。  今天它开始发生（不确定流量来自哪里），但前几个人注册了我的 Beta 版发布等待名单。无论如何：我仍然必须赚取一次下载或一美元。但我很高兴现在有人可以通过电子邮件向我发送有关我的项目的信息。  如果您认为这是一个很酷的想法，请告诉我（或者嘲笑我！）这是我建立的登陆页面网站    提交人    /u/Human-Possession135   [link] [评论]]]></description>
+      <description><![CDATA[大家好！我太兴奋了！在推出了一些半成品（而且大多是半成品）的产品后，却获得了不冷不热的成功。今天我真是太兴奋了。在过去的几周里，我一直非常热衷于人工智能辅助语音邮件应用程序的新项目，它可以代表您接听电话并通过推送消息向您发送摘要。  我一生中第一次从一个登陆页面开始测试吸引力，然后花了几个月的时间构建一个我没有验证的产品。  今天它开始发生（不确定流量来自哪里），但前几个人在我的 Beta 发布等待名单上注册了。无论如何：我仍然需要赚取一次下载或美元。但我非常兴奋的是，我现在可以向人们发送有关我的项目的电子邮件。  如果您认为这是一个很酷的主意，请告诉我（或者嘲笑我！）这是我构建的登陆页面网站&lt; /a&gt;   由   提交 /u/Human-Possession135    reddit.com/r/SideProject/comments/1cd2tug/hyped_random_people_are_signing_up_to_my_beta/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1cd2tug/hyped_random_people_are_signing_up_to_my_beta/</guid>
       <pubDate>Thu, 25 Apr 2024 21:07:51 GMT</pubDate>
     </item>
@@ -81,34 +109,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1cd1kdu/using_ai_for_helping_me_with_my_first_book/</guid>
       <pubDate>Thu, 25 Apr 2024 20:20:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个超级简单的便当演示创建工具，我认为这是赢得所有这些的工具</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cd1h21/i_created_a_super_simple_bento_presentation/</link>
-      <description><![CDATA[       由   提交 /u/MisterrPink   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cd1h21/i_created_a_super_simple_bento_presentation/</guid>
-      <pubDate>Thu, 25 Apr 2024 20:16:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>LinkedIn 个人资料到 Google 表格</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cd1cxn/linkedin_profile_to_google_sheets/</link>
-      <description><![CDATA[您好，我正在构建一个 Chrome 扩展程序，该扩展程序主要将 LinkedIn 个人资料数据（例如姓名、URL 和公司）发送到 Google 表格。 &lt;您认为这对出境游的人有好处吗？  很想知道你的想法   由   提交/u/b0bx42  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cd1cxn/linkedin_profile_to_google_sheets/</guid>
-      <pubDate>Thu, 25 Apr 2024 20:12:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>LinkedIn 个人资料到 Google 表格</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cd1cw3/linkedin_profile_to_google_sheets/</link>
-      <description><![CDATA[您好，我正在构建一个 Chrome 扩展程序，该扩展程序主要将 LinkedIn 个人资料数据（例如姓名、URL 和公司）发送到 Google 表格。 &lt;您认为这对出境游的人有好处吗？  很想知道你的想法   由   提交/u/b0bx42  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cd1cw3/linkedin_profile_to_google_sheets/</guid>
-      <pubDate>Thu, 25 Apr 2024 20:12:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了 MentorAI，您可以在这里获得关于生活的坚忍建议。即使是最微不足道的事情；）</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cd1b3i/i_created_mentorai_where_you_can_get_stoic_advice/</link>
-      <description><![CDATA[ 由   提交/u/niceAI505  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cd1b3i/i_created_mentorai_where_you_can_get_stoic_advice/</guid>
-      <pubDate>Thu, 25 Apr 2024 20:10:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
