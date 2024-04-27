@@ -4,7 +4,28 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个 Reddit 子版块，用于分享和接收有关副项目的建设性反馈。</description>
-    <lastBuildDate>Sat, 27 Apr 2024 09:11:32 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Apr 2024 12:20:13 GMT</lastBuildDate>
+    <item>
+      <title>我开发了一个免费使用的浏览器，它可以在其他浏览器中运行，并仅以文本格式显示任何网页。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cecywk/i_developed_a_free_to_use_browser_that_works/</link>
+      <description><![CDATA[请查看此处并分享您的想法。我希望这个应用程序能够用于改善心理健康和提高注意力。 点击此处。 textbrowser.ajitsing.in    由   提交 /u/Ajithimself   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cecywk/i_developed_a_free_to_use_browser_that_works/</guid>
+      <pubDate>Sat, 27 Apr 2024 12:05:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>轻松在网络上发布您的 AI 应用程序</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cec64t/publishing_your_ai_application_on_the_web_with/</link>
+      <description><![CDATA[您好， 如果您正在开发AI 应用程序，或者正在开发过程中，本公告可能会引起您的极大兴趣。我目前正在开发一种工具，旨在促进 AI 应用程序的在线发布。此工具支持同步和异步应用程序，并包括响应流等功能，所有这些都在用户友好的聊天界面中实现。此外，它完全用 Python 实现。 对于那些对早期访问感兴趣的人，我邀请您加入我们的候补名单。加入后，您还将获得我开发的几个开源应用程序的访问权限，这些应用程序可以作为您项目的宝贵参考。请参阅以下候补名单链接： https://cycls.typeform.com/waitlist1?typeform-source=docs.cycls.com  感谢您的关注，我期待帮助您将您的 AI 应用程序带给更广泛的受众。    提交人    /u/moonbunR   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cec64t/publishing_your_ai_application_on_the_web_with/</guid>
+      <pubDate>Sat, 27 Apr 2024 11:19:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>我为 Instagram 食谱建立了一个搜索引擎</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ceb1ai/i_built_a_search_engine_for_instagram_recipes/</link>
+      <description><![CDATA[Instagram 是我寻找食谱的首选地点之一，但我发现很难搜索特定的食谱，这就是为什么我本周致力于创建 Instagram 食谱搜索引擎。 链接：http://culinaire.me/instagram-recipes。 它使用自然语言处理来查找与用户查询相关的食谱。找到的食谱是使用我编写的脚本从 Instagram 上抓取的。 我正在逐步将更多食谱添加到索引中，并致力于改进该工具。我还发布了一个食谱卡生成器（https://culinaire.me/recipe-cards），我最终会将其连接到此工具，以便您可以打印找到的食谱。 我欢迎反馈！ :)    由    /u/Chucki_e 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ceb1ai/i_built_a_search_engine_for_instagram_recipes/</guid>
+      <pubDate>Sat, 27 Apr 2024 10:06:16 GMT</pubDate>
+    </item>
     <item>
       <title>介绍 InvoQuik！</title>
       <link>https://www.reddit.com/r/SideProject/comments/1ce9wd2/introducing_invoquik/</link>
@@ -15,7 +36,7 @@
     <item>
       <title>有人构建“社区驱动的 SEO”工具吗？</title>
       <link>https://www.reddit.com/r/SideProject/comments/1ce7o5w/anyone_building_communitydriven_seo_tools/</link>
-      <description><![CDATA[哇哦！这里有很多很棒的副业。坦白说：我最近才回到 Reddit。但我很高兴发现所有高质量的对话。 但是好吧，我开始重新开始自己的一些副业。目前痴迷于“社区驱动的 SEO”（或 cSEO）以及与之相关的任何工具（包括新的社区平台）。 还有人听说过 cSEO 吗？或者对它了解很多？    提交人    /u/georgesiosi   [链接] [评论]]]></description>
+      <description><![CDATA[太棒了！这里有很多很棒的副业项目。坦白说：我最近才回到 Reddit。但我对我发现的所有高质量的会议感到惊喜。  但是好吧，我开始重新开始做一些自己的副业了。当前的痴迷是“社区驱动的SEO”。 （或 cSEO）以及与之相关的任何工具（包括新的社区平台）。 还有其他人听说过 cSEO 吗？或者了解多少？   由   提交 /u/georgesiosi   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1ce7o5w/anyone_building_communitydriven_seo_tools/</guid>
       <pubDate>Sat, 27 Apr 2024 06:22:31 GMT</pubDate>
     </item>
@@ -43,7 +64,7 @@
     <item>
       <title>我们也可以在 X 上连接</title>
       <link>https://www.reddit.com/r/SideProject/comments/1ce1alc/lets_connect_on_x_too/</link>
-      <description><![CDATA[这个 subreddit 很棒，但我也想以更非正式的方式联系。 您的 X 用户名是什么？ 您的项目网址是什么？ Twitter：maplethorpej 项目：深度研究内容生成器    由   提交  /u/Maplethorpej   [link] [评论]]]></description>
+      <description><![CDATA[这个 Reddit 子版块很棒，但我也想以更非正式的方式进行联系。 你的 X 用户名是什么？  您的项目网址是什么？ Twitter：maplethorpej 项目: 深度研究内容生成器   由   提交 /u/Maplethorpej   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1ce1alc/lets_connect_on_x_too/</guid>
       <pubDate>Sat, 27 Apr 2024 00:33:00 GMT</pubDate>
     </item>
@@ -64,7 +85,7 @@
     <item>
       <title>有谁知道任何兼容 Android 的转录应用程序没有这些限制？</title>
       <link>https://www.reddit.com/r/SideProject/comments/1ce0b2a/does_anyone_know_of_any_androidcompatible/</link>
-      <description><![CDATA[嘿 👋 我目前正在免费试用 Vomo.ai，非常喜欢它转录 YouTube 视频、一键批量导入录音以及它的 AI 分析功能。但是，它仅适用于 Apple 设备，我也使用 Android。 我听说 Audiopen 不错，但它对录音长度和转录数量有限制，与 Vomo 的无限制方法相比，这有点限制。有人知道任何没有这些限制的 Android 兼容转录应用程序吗？寻找像 Vomo 一样多功能的东西。谢谢任何提示！    提交人    /u/Ok-Half4948   [链接] [评论]]]></description>
+      <description><![CDATA[嘿 👋 我目前正在免费试用 Vomo.ai，并且非常喜欢它来转录 YouTube 视频，其中之一-点击批量导入录音，及其AI分析功能。不过，它只适用于Apple设备，我也用Android。 听说Audiopen还不错，但是它对录音长度和转录数量有限制，相对于Vomo的无限限制有点限制方法。有谁知道任何兼容 Android 的转录应用程序没有这些限制？正在寻找像 Vomo 这样多功能的东西。感谢您的任何提示！   由   提交/u/Ok-Half4948  /u/Ok-Half4948 reddit.com/r/SideProject/comments/1ce0b2a/does_anyone_know_of_any_android兼容/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1ce0b2a/does_anyone_know_of_any_androidcompatible/</guid>
       <pubDate>Fri, 26 Apr 2024 23:47:00 GMT</pubDate>
     </item>
@@ -83,32 +104,11 @@
       <pubDate>Fri, 26 Apr 2024 23:35:55 GMT</pubDate>
     </item>
     <item>
-      <title>无论是内向的人还是 Talkula 上的任何一个人，都可以享受平静的对话</title>
+      <title>作为内向者或任何人在 Talkula 上享受平静的对话</title>
       <link>https://www.reddit.com/r/SideProject/comments/1cdwlde/enjoy_peaceful_conversations_as_an_introvert_or/</link>
       <description><![CDATA[   /u/robogram96  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1cdwlde/enjoy_peaceful_conversations_as_an_introvert_or/</guid>
       <pubDate>Fri, 26 Apr 2024 21:05:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能启发的社交媒体书签 - 无需注册，无需注册。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cdw22s/ai_inspired_social_media_bookmark_no_sign_up_no/</link>
-      <description><![CDATA[    /u/NewOCLibraryReddit   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cdw22s/ai_inspired_social_media_bookmark_no_sign_up_no/</guid>
-      <pubDate>Fri, 26 Apr 2024 20:43:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>制作了一个用于分享您的编码项目的网站</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cdvoi8/made_a_website_for_sharing_your_coding_projects/</link>
-      <description><![CDATA[我为项目共享而制作。您可以评论、点赞和保存项目。你们会用这个吗？如果是这样，你们希望看到哪些功能？   由   提交/u/_Soixante_Neuf_  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cdvoi8/made_a_website_for_sharing_your_coding_projects/</guid>
-      <pubDate>Fri, 26 Apr 2024 20:28:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>视频描述器 - 使用 OpenAI 的 Vision API 来描述 YouTube 视频中发生的情况</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cdvhq2/video_describer_using_openais_vision_api_to/</link>
-      <description><![CDATA[我创建了这个小型业余项目，以了解如何使用 OpenAI 的 API，并将其视觉功能扩展为不仅可以描述图像，还可以还有视频。 GitHub 上的源代码。   由   提交 /u/WillRoque   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cdvhq2/video_describer_using_openais_vision_api_to/</guid>
-      <pubDate>Fri, 26 Apr 2024 20:20:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
