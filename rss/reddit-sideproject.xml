@@ -4,7 +4,70 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个 Reddit 子版块，用于分享和接收有关副项目的建设性反馈。</description>
-    <lastBuildDate>Sun, 28 Apr 2024 12:22:21 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Apr 2024 15:12:17 GMT</lastBuildDate>
+    <item>
+      <title>特价</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cf7ueg/special_offer/</link>
+      <description><![CDATA[大家好， 希望你们一切都好。 我叫 Vidit Gupta，是一名IIT Kharagpur 的四年级学生。我正在构建 Leadseeder，这是一款旨在通过自动化连接请求、跟进和提供有价值的分析来增强 LinkedIn 网络的工具。  我非常重视您对改进和改进 Leadseeder 的见解。 您的反馈至关重要，为了表示我们的谢意，提供详细反馈的参与者将获得免费的 6- Leadseeder 推出后订阅一个月。 请花点时间完成此调查：https://forms.gle/HAbjTDSNsj36L22u8&lt; /a&gt; 感谢您的时间和支持！ 最诚挚的问候， Vidit Gupta   由   提交 /u/vidiit   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cf7ueg/special_offer/</guid>
+      <pubDate>Sun, 28 Apr 2024 14:35:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>尝试看看我一天建立的网站</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cf7afz/try_a_look_at_the_sites_ive_built_in_one_day/</link>
+      <description><![CDATA[https://token-calculator.net   由   提交 /u/Ok-Discount-6010   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cf7afz/try_a_look_at_the_sites_ive_built_in_one_day/</guid>
+      <pubDate>Sun, 28 Apr 2024 14:10:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>我已经发布了我的第一个 iOS 和 Android 益智游戏，我正在寻找诚实的反馈</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cf770o/ive_published_my_first_ios_and_android_puzzle/</link>
+      <description><![CDATA[       嘿 Reddit 用户！ 经过几周的工作，并分享了最初的概念（几年前制作了多人网络版本https ://flipcards.online/），我和朋友们一起创建了我的游戏的移动版本，我就这么做了。 这个概念很简单：给你一张照片和一组对应于顺时针或逆时针旋转 90 度的动作。然后，您需要在 4 张旋转照片中找到哪一张对应于回合结束前的旋转总和。 我还添加了 3 个难度级别，以及一种供用户使用自己的方法可以玩的照片。 链接：  iOS：https://apps.apple.com/jo/app/flipcards-photo-puzzle-game/id6478083199 Android：https://play.google.com/store/apps/details?id=dev.halftheopposite.flipcards&lt; /li&gt;  我正在寻找以下方面的诚实反馈：  概念和实现：足够有趣吗？ 教程：是够清楚了吗？ 以及您能想到的任何改进：商店视觉、商店标题、商店描述、游戏玩法、设置等。  如果有人好奇的话我使用过的技术堆栈：React Native、Expo、Skia。 https://preview.redd.it/v1z0or6798xc1.jpg?width=2400&amp;format=pjpg&amp;auto=webp&amp;s=d9c6b89ac8f5595b097e392db5e 4feab2b752583    由   提交 /u/halftheopposite   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cf770o/ive_published_my_first_ios_and_android_puzzle/</guid>
+      <pubDate>Sun, 28 Apr 2024 14:05:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Firestore 的架构管理工具</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cf6hc5/schema_management_tool_for_firestore/</link>
+      <description><![CDATA[Hey Redditors :) 很高兴分享我一直在开发的一个名为 Typesync 的 CLI 工具，我希望它能让使用 Firestore 的开发人员的生活变得更轻松。  在使用 Firestore 数据库时，开发人员经常面临在不同平台之间保持类型定义同步的挑战。无论您使用 TypeScript、Swift 还是 Java，维护一致的架构很快就会变得令人头疼。 ​ Typesync 旨在永久解决这个问题。它允许您在所谓的 Typesync 架构中维护 Firestore 架构的单一事实来源。有了这个架构，您就可以使用 CLI 工具轻松地为多个平台（例如 TypeScript、Python、Swift 等）生成类型定义。 Typesync 还可以让您生成其他有用的内容，例如 Firestore 规则、Cloud Functions 样板文件和模型文档。 请随意浏览我们的文档，网址为 https://docs.typesync.org 和我们的 GitHub 存储库 https://github.com/kafkas/typesync  如果您觉得它有用，请考虑在 GitHub 上给我们一个 ⭐，以帮助我们成长:)   由   提交 /u/akafkas   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cf6hc5/schema_management_tool_for_firestore/</guid>
+      <pubDate>Sun, 28 Apr 2024 13:31:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>我在短短几个小时内就开始了 Simple Designn 服务🚀。 5美元设计服务。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cf6eda/the_simple_deisgn_service_i_started_in_just_few/</link>
+      <description><![CDATA[现在的图形设计真的很难做到。于是我在短短2个小时内就推出了一个简单又有趣的图形设计服务。制作了一个登陆页面，添加了付款方式，仅此而已。该服务价格为 5 美元/每个项目。没有复杂性。只是简单的解决方案。 看看您是否有兴趣 🙂 感谢您的时间   由   提交/u/NoMuscle1255   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cf6eda/the_simple_deisgn_service_i_started_in_just_few/</guid>
+      <pubDate>Sun, 28 Apr 2024 13:27:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>2FAGuard - 用于管理 2FA 身份验证代码的 Windows 应用程序</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cf5egx/2faguard_windows_app_for_managing_2fa/</link>
+      <description><![CDATA[      https://preview.redd.it/x3jv0bmor7xc1.png?width=1774&amp;format=png&amp;auto=webp&amp;s=2e2a6c5922aad24ce eaaea26834eb3fa8f16bec1  我创建了 2FAGuard，这是一个应用程序，可让您将所有 2FA 令牌安全地存储在 Windows 设备上并轻松访问它们当你需要它们时。您的密钥根据最新的安全标准进行加密，并安全地存储在您的设备上。  ↕️ 导入和导出导出：您可以完全控制您的数据。从其他应用导入现有令牌或导出数据以在其他地方使用。 🛡️ 设计安全：您的数据使用最新的安全标准进行加密，并安全地存储在您的设备上。  🔒 支持 Windows Hello：使用指纹、面部或硬件安全密钥快速安全地访问您的令牌。 💡 深色模式&lt; /strong&gt;：现代时尚的设计，在浅色和深色模式下看起来都很棒。 📦 便携式版本：您可以将 2FAGuard 作为便携式应用程序使用，无需安装，例如USB 记忆棒上 🌍 多语言：2FAGuard 目前提供英语、德语和中文（简体）版本。    由   提交 /u/TimoKoessler   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cf5egx/2faguard_windows_app_for_managing_2fa/</guid>
+      <pubDate>Sun, 28 Apr 2024 12:36:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>为我的初创公司创建了流量来源图。欢迎提出修改建议</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cf5718/created_a_traffic_sources_map_for_my_startup_feel/</link>
+      <description><![CDATA[经过多次调整，我终于准备好了我们新产品的“alpha”版本。 因此，我决定记下我的 SaaS 的潜在流量来源，并认为它也可能对其他人有所帮助。 我不是专家，所以如果我遗漏了任何内容，请随时纠正我并建议更多来源。 这是Miro 板网址    提交人    /u/hov26   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cf5718/created_a_traffic_sources_map_for_my_startup_feel/</guid>
+      <pubDate>Sun, 28 Apr 2024 12:25:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 BentoSocialStyle 制作令人惊叹的、可共享的 Bento 风格的 Twitter/产品在线形象！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cf56ck/craft_a_stunning_shareable_bentostyle_of/</link>
+      <description><![CDATA[简介：BentoSocialStyle 为您的 Twitter 或 Product Hunt 状态创建令人惊叹的、可共享的 Bento 风格图像。  实时链接：https://bentosocialstyle.vercel.app   由   提交/u/lmas3009  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cf56ck/craft_a_stunning_shareable_bentostyle_of/</guid>
+      <pubDate>Sun, 28 Apr 2024 12:24:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>CoinCurrently：小部件</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cf55dw/coincurrently_widgets/</link>
+      <description><![CDATA[      &amp;# 32；由   提交/u/barcode972  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cf55dw/coincurrently_widgets/</guid>
+      <pubDate>Sun, 28 Apr 2024 12:22:42 GMT</pubDate>
+    </item>
     <item>
       <title>我开始制作的简讯在 6 周内就从 0 增加到了 1,300+</title>
       <link>https://www.reddit.com/r/SideProject/comments/1cf42xc/a_newsletter_i_started_went_from_0_to_1300_in_6/</link>
@@ -22,7 +85,7 @@
     <item>
       <title>改善着陆页上的用户体验</title>
       <link>https://www.reddit.com/r/SideProject/comments/1cf3kcb/improving_user_experience_on_your_landing_page/</link>
-      <description><![CDATA[嗨，Redditors 的朋友们！ 我想分享我最近发现的一个小亮点，它显著改善了我网站的用户体验：浮动操作按钮 (FAB)。如果您不熟悉它们，FAB 是一种号召性用语，它会跟随访问者在网站上的任何地方，轻轻地推动他们采取所需的操作。 以下是我认为 FAB 是游戏规则改变者的原因： 1. 增加点击次数：FAB 很难被忽视。通过将“联系我们”、“订阅”或“立即购买”等重要操作放在显眼的浮动位置，用户更有可能注意到它们，从而点击它们。自从实施 FAB 以来，我注意到我网站的参与度指标显著提高。 2.降低跳出率： 是否曾经访问过某个网站，感觉杂乱无章，甚至在进一步浏览之前就跳出？FAB 可以为用户提供一条清晰的路径，让他们采取行动而不会迷失在杂乱中，从而帮助缓解此问题。通过简化导航并提供对主要功能的快速访问，FAB 鼓励用户在您的网站上停留更长时间，从而降低跳出率。 3. 整洁的网页： 说到杂乱，FAB 是整理网页的绝佳工具。您不必将每个重要操作都塞进标题或侧边栏，而是可以将它们整齐地放在一个时尚的浮动按钮中。这不仅可以提高网站的视觉吸引力，还可以通过为用户呈现更干净、更有条理的界面来增强网站的可用性。 总体而言，浮动操作按钮可以成为提高用户参与度、降低跳出率和创造更简化的浏览体验的强大工具。如果您尚未在网站上尝试过 FAB，我强烈建议您尝试一下！    提交人    /u/Emotional-Effect-374   [链接] [评论]]]></description>
+      <description><![CDATA[嘿各位 Reddit 用户！ 我想分享我最近发现的一个小宝石，它显着改善了我网站上的用户体验：浮动操作按钮 (FAB)。如果您不熟悉它们，FAB 是号召性用语，可以跟踪访问者在您网站上的任何位置，轻轻地推动他们采取所需的操作。 这就是我认为 FAB 的原因游戏规则改变者： 1. 点击次数增加： FAB 不容错过。通过放置“联系我们”等重要操作， “订阅”，或“立即购物”在突出的浮动位置，用户更有可能注意到它们，因此点击它们。自从实施 FAB 以来，我注意到我的网站上的参与度指标显着增加。 2.降低跳出率：曾经登陆过一个网站，感到被杂乱的内容淹没，甚至在进一步探索之前就跳出了？ FAB 可以为用户提供清晰的采取行动的途径，而不会在混乱中迷失方向，从而帮助缓解这一问题。通过简化导航并提供对关键功能的快速访问，FAB 鼓励用户在您的网站上停留更长时间，从而降低跳出率。 3.整理网页：说到整理，FAB 是整理网页的绝佳工具。您无需将每个重要操作都塞到标题或侧边栏中，而是可以将它们巧妙地隐藏在时尚的浮动按钮中。这不仅可以提高网站的视觉吸引力，还可以通过向用户提供更清晰、更有组织的界面来增强其可用性。 总体而言，浮动操作按钮可以成为提高用户参与度、降低跳出率的强大工具。 ，并创造更简化的浏览体验。如果您尚未在网站上尝试过 FAB，我强烈建议您尝试一下！   由   提交 /u/Emotional-Effect-374   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1cf3kcb/improving_user_experience_on_your_landing_page/</guid>
       <pubDate>Sun, 28 Apr 2024 10:47:53 GMT</pubDate>
     </item>
@@ -36,7 +99,7 @@
     <item>
       <title>如何制作这样的视频？</title>
       <link>https://www.reddit.com/r/SideProject/comments/1cf31ei/how_to_create_such_videos/</link>
-      <description><![CDATA[嘿， 我正在尝试构建一个登陆页面，并访问了其他一些网站，我喜欢他们的视频在他们的登陆页面。我想做一些应用程序演示视频，例如这个。无论如何，您知道如何制作一个，它们的确切名称是什么以及常用来制作它们的应用程序吗？ 任何线索将不胜感激。    由   提交 /u/Hsrah1   [链接] [评论]]]></description>
+      <description><![CDATA[嘿， 我正在尝试构建一个登陆页面，并访问了其他一些网站，我喜欢他们的视频在他们的登陆页面。我想做一些应用程序演示视频，例如这个。无论如何，您知道如何制作一个，它们的确切名称是什么以及通常用于制作它们的任何应用程序吗？ 任何线索将不胜感激。    由   提交 /u/Hsrah1   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1cf31ei/how_to_create_such_videos/</guid>
       <pubDate>Sun, 28 Apr 2024 10:12:28 GMT</pubDate>
     </item>
@@ -46,69 +109,6 @@
       <description><![CDATA[嘿 Redditers， 今天距离 Larafast 首次销售正好 2 个月，我想总结一下这段奇妙的旅程。  在 2 个月内，Larafast - Laravel Starter Kit 实现了 102 次销售，总收入达到 13,000 美元。  如果你在 2024 年 2 月 27 日问我，我认为我可以从 Larafast 赚多少钱，我会说我很乐意赚 1000 美元。正如我之前提到的，即使 Larafast 不赚钱，它仍然为我节省了大量构建新项目的时间，所以无论如何这是双赢的。但我们来了。  为什么我说它不应该存在，是因为这个想法是在加入独立黑客并向他们所有人学习和启发之后产生的。没有他们，这个项目就不会存在。  感谢大家抽出时间。  P.S.如果您想加入其他 100 多家创客行列并快速构建您的 SaaS -&gt; larafast.com 是您这个周末的首选工具！    由   提交 /u/karakhanyan  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1cf28zm/the_project_that_should_not_have_been_existed/</guid>
       <pubDate>Sun, 28 Apr 2024 09:19:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个小网站，通过解决五个日常国际象棋难题来提高您的国际象棋技能并与其他人竞争</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cf27n7/i_created_a_small_website_to_improve_your_chess/</link>
-      <description><![CDATA[       由   提交/u/Vincenius_   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cf27n7/i_created_a_small_website_to_improve_your_chess/</guid>
-      <pubDate>Sun, 28 Apr 2024 09:16:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>独立黑客可以从 YCombinator 学到的教训</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cf1z7k/lessons_indie_hackers_can_learn_from_ycombinator/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cf1z7k/lessons_indie_hackers_can_learn_from_ycombinator/</guid>
-      <pubDate>Sun, 28 Apr 2024 09:00:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的第一个为钢琴爱好者打造的 iOS 应用程序</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cf1a9q/my_first_ios_app_built_for_piano_lover/</link>
-      <description><![CDATA[   嗨，redditor！我是一名古典音乐爱好者。我从26岁开始练习钢琴，现在已经坚持练习了快三年了。我很享受在其中度过的每一刻。我制作了这个应用程序来记录我所做的每一次练习。它让我高兴并不断鼓励我前进。希望您喜欢！ https://apps.apple.com/us/app/ only-practice/id6476144775它可以记录你在每首曲子上花费的每一分钟。 并且只是告诉你我在这三年里达到了什么。我会不断改进这个应用程序并继续练习钢琴！ https://preview.redd.it/id9e9xw3i6xc1.png?width=1170&amp;format=png&amp;auto=webp&amp;s=ff016fa97abaf3667ab34bb579c1ea6bb5df7499 div&gt;  由   提交/u/Waste_Matter_4573   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cf1a9q/my_first_ios_app_built_for_piano_lover/</guid>
-      <pubDate>Sun, 28 Apr 2024 08:12:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>更改播放列表图像 - Spotify：用于更改 Spotify 播放列表图像、名称和描述的工具。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cf14zp/change_playlist_image_spotify_tool_to_change_your/</link>
-      <description><![CDATA[更改播放列表图像 - Spotify 是一款网络应用程序，可帮助您更改 Spotify 播放列表图像、名称和说明。它会显示指示器，以便您知道哪些播放列表详细信息可以更改，哪些不能更改。 您可以获取它此处   由   提交 /u/Viirock   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cf14zp/change_playlist_image_spotify_tool_to_change_your/</guid>
-      <pubDate>Sun, 28 Apr 2024 08:03:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>厌倦了没有入围吗？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cf0xb1/tired_of_not_getting_shortlisted/</link>
-      <description><![CDATA[easycoverletter.com - 只需输入您的工作链接和职位链接即可。继续吧，剩下的事情我们会处理的。  听我说 - 直接将其发送到招聘人员的电子邮件中。我们已经看到这种方式为申请人带来了良好的结果。    由   提交 /u/what-you-need-is-you   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cf0xb1/tired_of_not_getting_shortlisted/</guid>
-      <pubDate>Sun, 28 Apr 2024 07:48:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>Beleave：帮助用户一次离开多个 Reddit 子版块。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cf0ddf/beleave_helps_users_leave_multiple_subreddits_at/</link>
-      <description><![CDATA[您是否处于大量 Reddit 子版块中并想离开它们？手动执行此操作很痛苦。 Beleave 使您能够标记要离开的子版块，然后只需单击“离开社区”即可。就这么简单。 您可以在此处   由   提交 /u/Viirock   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cf0ddf/beleave_helps_users_leave_multiple_subreddits_at/</guid>
-      <pubDate>Sun, 28 Apr 2024 07:11:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>Beta 版发布：LlamaGen.Ai – 塑造人工智能驱动漫画的未来！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cezsrg/beta_launch_llamagenai_shape_the_future_of/</link>
-      <description><![CDATA[与您的漫画创作人工智能副驾驶 LlamaGen.Ai 一起踏上 Beta 之旅！经过 4 个月的专注开发，我和我的联合创始人邀请您体验 https://llamagen.ai/。加入我们的使命，打造一个繁荣的艺术创新中心。您的反馈对于完善我们的平台和激励漫画行业至关重要。让我们一起重新定义讲故事的艺术。分享您的想法并成为革命的一部分！   由   提交 /u/terry_zhang   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cezsrg/beta_launch_llamagenai_shape_the_future_of/</guid>
-      <pubDate>Sun, 28 Apr 2024 06:34:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>面向 iOS 和 Android 开发者的人工智能驱动的应用商店优化 (ASO) 平台</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cezj66/an_aidriven_app_store_optimization_aso_platform/</link>
-      <description><![CDATA[大家好！  我很高兴分享我的平台，GrowASO (GrowASO) Growaso.com&quot;&gt;https://www.growaso.com），帮助移动应用开发者使用人工智能提高应用下载量和关键字排名。  GrowASO 的一些主要功能：  AI 列表优化器（使用 GPT 自动为 App Store 和 Google Play 推荐优化的应用列表文本）&lt; /li&gt; AI 图标优化器（AI 生成应用图标以运行快速实验并提高转化率） 关键字排名跟踪（iPhone、iPad、Android 关键字排名跟踪） 关键字研究（给定关键字的流量和难度估计以及主要竞争对手）  我希望这对移动应用开发者有利，我期待听到您的反馈你用吧！如有任何疑问，请随时告诉我。  谢谢！   由   提交 /u/Inevitable_Buddy1869   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cezj66/an_aidriven_app_store_optimization_aso_platform/</guid>
-      <pubDate>Sun, 28 Apr 2024 06:17:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Betafocus - 与您的 Android 应用的 Beta 测试人员联系</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cezelh/betafocus_connect_with_beta_testers_for_your/</link>
-      <description><![CDATA[嘿！ 我刚刚启动了Betafocus.app&lt; /a&gt;，一个将 Android 开发者与 Beta 测试人员联系起来的平台。Google 在发布应用程序之前提出了 20 名 Beta 测试人员的新要求，我知道找到可靠且积极参与的测试人员有多么困难。 &lt; p&gt;Betafocus 旨在让开发人员更轻松地找到测试人员并与之联系，他们可以提供有价值的反馈来帮助改进他们的应用程序。对于测试人员来说，这是一个在其他人之前尝试新应用程序并为开发做出贡献的好方法。他们的发展。 看看并告诉我你的想法！ [链接到 Betafocus.app] 很高兴听到您关于如何改进平台的反馈和建议！   由   提交/u/alc90  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cezelh/betafocus_connect_with_beta_testers_for_your/</guid>
-      <pubDate>Sun, 28 Apr 2024 06:08:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
