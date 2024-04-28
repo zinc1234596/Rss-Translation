@@ -4,7 +4,35 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个 Reddit 子版块，用于分享和接收有关副项目的建设性反馈。</description>
-    <lastBuildDate>Sun, 28 Apr 2024 15:12:17 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Apr 2024 18:14:21 GMT</lastBuildDate>
+    <item>
+      <title>我创建了一个网站，您可以在其中发布产品</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cfcem3/i_created_a_site_where_you_can_launch_a_product/</link>
+      <description><![CDATA[📆 从5月1日开始，作为DailyLaunch，我们提供为您的产品发布提供智能且简约的平台。 🚀 仅限机会：无需每月订阅费 💼 目标大，无成本：以智能方式介绍您的产品并确保您的位置现在就在市场上。 您愿意在这个激动人心的旅程中与我一起成长，并在 DailyLaunch.site 上有一个明智的开始吗？   由   提交/u/miracsengonul  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cfcem3/i_created_a_site_where_you_can_launch_a_product/</guid>
+      <pubDate>Sun, 28 Apr 2024 17:52:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>软件平台的雏形，您可以在其中与 API 交互以飞来飞去并与人们见面。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cfc1bs/beginnings_of_a_software_platform_where_you/</link>
+      <description><![CDATA[    /u/UnitOfYellow   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cfc1bs/beginnings_of_a_software_platform_where_you/</guid>
+      <pubDate>Sun, 28 Apr 2024 17:37:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了一个简单的工具来简化您共享移动应用程序链接的方式。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cfawnm/i_created_a_simple_tool_to_simplify_the_way_you/</link>
+      <description><![CDATA[嘿，应用程序开发人员朋友们， 我为 Android 和 iOS 开发应用程序已经有一段时间了，我通常会制作来自 Admob 广告的收入。但有一件烦人的事情：当我分享我的应用链接时，我必须询问人们他们拥有什么类型的手机，以便我可以向他们发送正确的链接。 我曾经使用 onelinkto 来实现此目的，但是它不允许我按照我想要的方式自定义链接。所以，我决定制作自己的工具。这有点棘手，因为我更喜欢移动应用程序而不是网络应用程序，但我在 Twitter 上发现了一个名为 Shipfast 的有用工具，我用它制作了一个简单的网站。 我确保保留它可以免费使用，但您创建的每个应用程序都需要支付少量的一次性费用，以帮助支付服务器成本。另外，我添加了一些很酷的功能，例如为您的应用程序制作登陆页面以及创建隐私政策等法律页面。 如果您正在处理同样的链接共享问题，您应该查看我的工具：&lt; a href=&quot;https://apppa.ge&quot;&gt;AppPage。尝试一下，让我知道你的想法！   由   提交 /u/redd9it   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cfawnm/i_created_a_simple_tool_to_simplify_the_way_you/</guid>
+      <pubDate>Sun, 28 Apr 2024 16:48:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Laravel Dismissibles：一个用于轻松处理服务器端可关闭、重复出现的对象（如弹出窗口/通知/模式）的包。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cfave3/laravel_dismissibles_a_package_for_easily/</link>
+      <description><![CDATA[      我创建了我的第一个 PHP 包。快来看看 🙌🏻！    提交人    /u/Rellix77   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cfave3/laravel_dismissibles_a_package_for_easily/</guid>
+      <pubDate>Sun, 28 Apr 2024 16:47:23 GMT</pubDate>
+    </item>
     <item>
       <title>特价</title>
       <link>https://www.reddit.com/r/SideProject/comments/1cf7ueg/special_offer/</link>
@@ -27,7 +55,7 @@
       <pubDate>Sun, 28 Apr 2024 14:05:50 GMT</pubDate>
     </item>
     <item>
-      <title>Firestore 的架构管理工具</title>
+      <title>Firestore 架构管理工具</title>
       <link>https://www.reddit.com/r/SideProject/comments/1cf6hc5/schema_management_tool_for_firestore/</link>
       <description><![CDATA[Hey Redditors :) 很高兴分享我一直在开发的一个名为 Typesync 的 CLI 工具，我希望它能让使用 Firestore 的开发人员的生活变得更轻松。  在使用 Firestore 数据库时，开发人员经常面临在不同平台之间保持类型定义同步的挑战。无论您使用 TypeScript、Swift 还是 Java，维护一致的架构很快就会变得令人头疼。 ​ Typesync 旨在永久解决这个问题。它允许您在所谓的 Typesync 架构中维护 Firestore 架构的单一事实来源。有了这个架构，您就可以使用 CLI 工具轻松地为多个平台（例如 TypeScript、Python、Swift 等）生成类型定义。 Typesync 还可以让您生成其他有用的内容，例如 Firestore 规则、Cloud Functions 样板文件和模型文档。 请随意浏览我们的文档，网址为 https://docs.typesync.org 和我们的 GitHub 存储库 https://github.com/kafkas/typesync  如果您觉得它有用，请考虑在 GitHub 上给我们一个 ⭐，以帮助我们成长:)   由   提交 /u/akafkas   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1cf6hc5/schema_management_tool_for_firestore/</guid>
@@ -36,7 +64,7 @@
     <item>
       <title>我在短短几个小时内就开始了 Simple Designn 服务🚀。 5美元设计服务。</title>
       <link>https://www.reddit.com/r/SideProject/comments/1cf6eda/the_simple_deisgn_service_i_started_in_just_few/</link>
-      <description><![CDATA[现在的图形设计真的很难做到。于是我在短短2个小时内就推出了一个简单又有趣的图形设计服务。制作了一个登陆页面，添加了付款方式，仅此而已。该服务价格为 5 美元/每个项目。没有复杂性。只是简单的解决方案。 看看您是否有兴趣 🙂 感谢您的时间   由   提交/u/NoMuscle1255   [链接] [评论]]]></description>
+      <description><![CDATA[现在的图形设计真的很难做到。于是我只用了2个小时就推出了一个简单又有趣的图形设计服务。制作了一个登陆页面，添加了付款方式，仅此而已。该服务价格为 5 美元/每个项目。没有复杂性。只是简单的解决方案。 看看您是否有兴趣 🙂 感谢您的时间   由   提交/u/NoMuscle1255   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1cf6eda/the_simple_deisgn_service_i_started_in_just_few/</guid>
       <pubDate>Sun, 28 Apr 2024 13:27:31 GMT</pubDate>
     </item>
@@ -48,9 +76,9 @@
       <pubDate>Sun, 28 Apr 2024 12:36:13 GMT</pubDate>
     </item>
     <item>
-      <title>为我的初创公司创建了流量来源图。欢迎提出修改建议</title>
+      <title>为我的初创公司创建了流量源地图。欢迎提出修改建议</title>
       <link>https://www.reddit.com/r/SideProject/comments/1cf5718/created_a_traffic_sources_map_for_my_startup_feel/</link>
-      <description><![CDATA[经过多次调整，我终于准备好了我们新产品的“alpha”版本。 因此，我决定记下我的 SaaS 的潜在流量来源，并认为它也可能对其他人有所帮助。 我不是专家，所以如果我遗漏了任何内容，请随时纠正我并建议更多来源。 这是Miro 板网址    提交人    /u/hov26   [链接] [评论]]]></description>
+      <description><![CDATA[经过多次旋转，我终于得到了“alpha”我们的新产品版本已准备就绪。 因此，我决定记下我的 SaaS 的潜在流量来源，并认为它也可能对其他人有所帮助。 我不是专家，所以请随意如果我错过了任何内容，请纠正我并建议更多来源。 这是 Miro 板url   由   提交/u/hov26  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1cf5718/created_a_traffic_sources_map_for_my_startup_feel/</guid>
       <pubDate>Sun, 28 Apr 2024 12:25:07 GMT</pubDate>
     </item>
@@ -81,34 +109,6 @@
       <description><![CDATA[https://axehound.net 想要一种近乎即时的方式来浏览 eBay 快速发展的吉他市场，所以我做了这个。构建它有很多乐趣。感谢反馈！   由   提交/u/mattygrocks  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1cf3lnb/axehound_a_fast_guitar_search_engine/</guid>
       <pubDate>Sun, 28 Apr 2024 10:50:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>改善着陆页上的用户体验</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cf3kcb/improving_user_experience_on_your_landing_page/</link>
-      <description><![CDATA[嘿各位 Reddit 用户！ 我想分享我最近发现的一个小宝石，它显着改善了我网站上的用户体验：浮动操作按钮 (FAB)。如果您不熟悉它们，FAB 是号召性用语，可以跟踪访问者在您网站上的任何位置，轻轻地推动他们采取所需的操作。 这就是我认为 FAB 的原因游戏规则改变者： 1. 点击次数增加： FAB 不容错过。通过放置“联系我们”等重要操作， “订阅”，或“立即购物”在突出的浮动位置，用户更有可能注意到它们，因此点击它们。自从实施 FAB 以来，我注意到我的网站上的参与度指标显着增加。 2.降低跳出率：曾经登陆过一个网站，感到被杂乱的内容淹没，甚至在进一步探索之前就跳出了？ FAB 可以为用户提供清晰的采取行动的途径，而不会在混乱中迷失方向，从而帮助缓解这一问题。通过简化导航并提供对关键功能的快速访问，FAB 鼓励用户在您的网站上停留更长时间，从而降低跳出率。 3.整理网页：说到整理，FAB 是整理网页的绝佳工具。您无需将每个重要操作都塞到标题或侧边栏中，而是可以将它们巧妙地隐藏在时尚的浮动按钮中。这不仅可以提高网站的视觉吸引力，还可以通过向用户提供更清晰、更有组织的界面来增强其可用性。 总体而言，浮动操作按钮可以成为提高用户参与度、降低跳出率的强大工具。 ，并创造更简化的浏览体验。如果您尚未在网站上尝试过 FAB，我强烈建议您尝试一下！   由   提交 /u/Emotional-Effect-374   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cf3kcb/improving_user_experience_on_your_landing_page/</guid>
-      <pubDate>Sun, 28 Apr 2024 10:47:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI 自动化 YouTube 短频道。该管道涉及根据检索的维基百科文章生成脚本。寻找提示法学硕士制作更有趣的脚本并防止他们编写通用内容的技巧。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cf3kax/ai_automated_youtube_short_channel_the_pipeline/</link>
-      <description><![CDATA[    /u/pcouy   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cf3kax/ai_automated_youtube_short_channel_the_pipeline/</guid>
-      <pubDate>Sun, 28 Apr 2024 10:47:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何制作这样的视频？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cf31ei/how_to_create_such_videos/</link>
-      <description><![CDATA[嘿， 我正在尝试构建一个登陆页面，并访问了其他一些网站，我喜欢他们的视频在他们的登陆页面。我想做一些应用程序演示视频，例如这个。无论如何，您知道如何制作一个，它们的确切名称是什么以及通常用于制作它们的任何应用程序吗？ 任何线索将不胜感激。    由   提交 /u/Hsrah1   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cf31ei/how_to_create_such_videos/</guid>
-      <pubDate>Sun, 28 Apr 2024 10:12:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>这个不应该存在的项目在 2 个月内赚了 13,000 美元</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cf28zm/the_project_that_should_not_have_been_existed/</link>
-      <description><![CDATA[嘿 Redditers， 今天距离 Larafast 首次销售正好 2 个月，我想总结一下这段奇妙的旅程。  在 2 个月内，Larafast - Laravel Starter Kit 实现了 102 次销售，总收入达到 13,000 美元。  如果你在 2024 年 2 月 27 日问我，我认为我可以从 Larafast 赚多少钱，我会说我很乐意赚 1000 美元。正如我之前提到的，即使 Larafast 不赚钱，它仍然为我节省了大量构建新项目的时间，所以无论如何这是双赢的。但我们来了。  为什么我说它不应该存在，是因为这个想法是在加入独立黑客并向他们所有人学习和启发之后产生的。没有他们，这个项目就不会存在。  感谢大家抽出时间。  P.S.如果您想加入其他 100 多家创客行列并快速构建您的 SaaS -&gt; larafast.com 是您这个周末的首选工具！    由   提交 /u/karakhanyan  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cf28zm/the_project_that_should_not_have_been_existed/</guid>
-      <pubDate>Sun, 28 Apr 2024 09:19:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
