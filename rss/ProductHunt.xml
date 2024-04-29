@@ -4,7 +4,7 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Mon, 29 Apr 2024 12:23:06 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Apr 2024 15:12:45 GMT</lastBuildDate>
     <item>
       <title>轮廓</title>
       <link>https://www.producthunt.com/posts/profolio-3</link>
@@ -34,6 +34,34 @@
       <pubDate>Mon, 29 Apr 2024 05:07:05 GMT</pubDate>
     </item>
     <item>
+      <title>多克普洛伊</title>
+      <link>https://www.producthunt.com/posts/dokploy</link>
+      <description><![CDATA[
+            Heroku、Vercel 和 Netlify 的开源替代品
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/dokploy</guid>
+      <pubDate>Mon, 29 Apr 2024 03:52:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>恍惚</title>
+      <link>https://www.producthunt.com/posts/trancy-2</link>
+      <description><![CDATA[
+使用 YouTube AI 双语字幕进行语言学习
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/trancy-2</guid>
+      <pubDate>Mon, 29 Apr 2024 02:50:18 GMT</pubDate>
+    </item>
+    <item>
       <title>视频稳定</title>
       <link>https://www.producthunt.com/posts/stable-video</link>
       <description><![CDATA[
@@ -60,34 +88,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/play-ai</guid>
       <pubDate>Sat, 27 Apr 2024 18:13:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>支出</title>
-      <link>https://www.producthunt.com/posts/payout</link>
-      <description><![CDATA[
-            美国股息投资者的股息分析器
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/payout</guid>
-      <pubDate>Sat, 27 Apr 2024 13:16:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>砖中心</title>
-      <link>https://www.producthunt.com/posts/brickcenter</link>
-      <description><![CDATA[
-            AI 乐高生成器、定制小人仔和乐高创作
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/brickcenter</guid>
-      <pubDate>Sat, 27 Apr 2024 04:30:13 GMT</pubDate>
     </item>
     <item>
       <title>SaaS 周期</title>
@@ -205,7 +205,7 @@
       <title>克卢比斯特里</title>
       <link>https://www.producthunt.com/posts/clubistry</link>
       <description><![CDATA[
-            管理您的俱乐部：网站、会员资格、续订等
+            管理您的俱乐部网站、会员资格、续订等
           
 
 讨论
