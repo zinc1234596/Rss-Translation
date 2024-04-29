@@ -4,18 +4,60 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个 Reddit 子版块，用于分享和接收有关副项目的建设性反馈。</description>
-    <lastBuildDate>Mon, 29 Apr 2024 06:16:46 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Apr 2024 09:13:50 GMT</lastBuildDate>
+    <item>
+      <title>担心与家人和朋友保持关系，制作了这个应用程序。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cfukgg/got_concerned_about_keeping_relations_with_my/</link>
+      <description><![CDATA[您好！我开发了一个名为 Knei 的网络应用程序来保持联系并发展个人关系。它提醒您定期联系，提供一个空间来记录谈话笔记并选择对话主题。 建立关系是推动我在 Knei 工作的一项挑战。前一段时间，我意识到，如果一个人不努力维持联系，他们就会消失。因此，一个与家人和朋友进行深思熟虑的联系的工具可以帮助我们过上更好的生活。 我想邀请您查看 knei.space。欢迎分享您的想法，我们非常感激。   由   提交/u/eyedle416  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cfukgg/got_concerned_about_keeping_relations_with_my/</guid>
+      <pubDate>Mon, 29 Apr 2024 09:10:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>我用 Gleam 构建了一个国际象棋服务器！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cfujz7/i_built_a_chess_server_with_gleam/</link>
+      <description><![CDATA[大家好，我构建了一个国际象棋服务器，您可以在其中实时玩服务器端机器人。您可以在 shahmat.org 上查看。我用 Gleam 构建它，这是一种编译为 erlang 的函数式编程语言。如果您有兴趣，这里是服务器的源代码。我已经在为服务器开发下一个重要功能：玩家对玩家实时国际象棋。    由   提交 /u/macroby   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cfujz7/i_built_a_chess_server_with_gleam/</guid>
+      <pubDate>Mon, 29 Apr 2024 09:09:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>构建一个关心您的 SEO 的应用程序（自动驾驶）</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cftser/built_an_app_that_takes_care_about_your_seo_on/</link>
+      <description><![CDATA[刚刚发布contentpie.ai ContentPie可以： - 在自动驾驶仪上创建在 Google 上排名靠前的文章 - 找到最佳的关键字来撰写（根据您的业务量身定制） - 一键将文章发布到您的网站（与您的网站集成） 好奇您对该项目的看法！   由   提交 /u/EugeneZolotarenko   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cftser/built_an_app_that_takes_care_about_your_seo_on/</guid>
+      <pubDate>Mon, 29 Apr 2024 08:16:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>我开发了一个工具来减少您的垃圾邮件并保护您的隐私</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cftmby/ive_built_a_tool_to_reduce_your_email_spam_and/</link>
+      <description><![CDATA[r/sideproject 社区大家好！  在这里潜伏了很长时间，在收到其他独立黑客朋友的鼓励后，在这里发布了这篇文章！我刚刚开始我的第三个职业生涯，离开了 15 年的基础设施/后端工程师。我是营销、销售和公共建筑领域的新手，我很高兴能向大家学习！  我构建了一个名为 MaskThis.email 的小工具/服务，可以帮助您维护隐私并减少垃圾邮件为您提供一次性电子邮件别名，您可以使用它来注册订阅、时事通讯等，而无需暴露您的主要电子邮件地址。  在更高的定价层，您还可以选择以 JSON webhook 的形式接收电子邮件，以便您可以在上面构建自己的工具/解决方案。 希望获得任何反馈：这可能对你有用？也感谢任何有关文案、消息和网站的反馈。  感谢您花时间阅读本文！  警告： - 这是一项单向电子邮件服务，因此您只能接收电子邮件，而不能通过别名发送电子邮件。    由   提交/u/TheOneTechGuy42   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cftmby/ive_built_a_tool_to_reduce_your_email_spam_and/</guid>
+      <pubDate>Mon, 29 Apr 2024 08:04:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建 Moonlink 是为了与任何人分享您最喜欢的电影、书籍和歌曲</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cft0u9/i_built_moonlink_for_sharing_your_favourite/</link>
+      <description><![CDATA[我构建了 Moonlink，您可以在类似个人简介的页面上与任何人分享您最喜欢的电影、电视节目、书籍和歌曲，这样您就不必担心不必在聊天中一次又一次地输入您最喜欢的推荐或重复自己。 您只需分享您的个人简介链接即可。  如果您有任何反馈或建议，请告诉我。  https://www.moonlink.site &lt;!-- SC_ON - -&gt;  由   提交/u/winter-m00n   /u/winter-m00n  reddit.com/r/SideProject/comments/1cft0u9/i_built_moonlink_for_sharing_your_favourite/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cft0u9/i_built_moonlink_for_sharing_your_favourite/</guid>
+      <pubDate>Mon, 29 Apr 2024 07:23:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>全新四合一应用程序 - 健身、营养、睡眠和目标 - zakun.ai</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cfsolh/new_4in1_app_fitness_nutrition_sleep_and_goals/</link>
+      <description><![CDATA[ 由   提交 /u/zhakunai    [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cfsolh/new_4in1_app_fitness_nutrition_sleep_and_goals/</guid>
+      <pubDate>Mon, 29 Apr 2024 07:00:09 GMT</pubDate>
+    </item>
     <item>
       <title>烘烤这项社会倡议</title>
       <link>https://www.reddit.com/r/SideProject/comments/1cfr33b/roast_this_social_initiative/</link>
-      <description><![CDATA[功能：  对工作量和工作时间方面的经验进行匿名调查。 汇总与工作时间相关的各种统计数据，可按照职业、地区、组织、行业等条件进行搜索。 它是作为一项社会倡议开始的，目前尚无商业化的计划。  链接： 着陆页：https://workhours.global/ 备注：  欢迎来自任何方面的反馈。 我怀疑统计数据搜索结果页面存在用户体验问题。 哪里是提高调查参与度的最佳渠道？  许多在线社区都有禁止调查/禁止民意调查的规定，这可以理解。   谢谢。    提交人    /u/Standard-Ant874   [link] [comments]]]></description>
+      <description><![CDATA[它的作用：  对有关工作量和工作时间的体验进行匿名调查. 汇总与工作时间相关的各种统计数据，可按职业、地区、组织、行业等标准进行搜索。 它是作为一项社会倡议开始的，没有计划将其商业化  链接： 登陆页面：https: //workhours.global/ 备注：  来自任何方面的反馈 表示赞赏。 我怀疑统计搜索结果页面存在用户体验问题。 提高调查参与度的最佳渠道在哪里？  许多在线社区都有禁止调查/禁止民意调查的规定，这还算可以理解。   谢谢。   由   提交 /u/Standard-Ant874   /u/Standard-Ant874 reddit.com/r/SideProject/comments/1cfr33b/roast_this_social_initiative/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1cfr33b/roast_this_social_initiative/</guid>
       <pubDate>Mon, 29 Apr 2024 05:17:09 GMT</pubDate>
     </item>
     <item>
       <title>免费视频编辑！我将为您编辑以换取评论。</title>
       <link>https://www.reddit.com/r/SideProject/comments/1cfqxkq/free_video_editing_ill_edit_for_you_in_return_for/</link>
-      <description><![CDATA[大家好。多年来我一直在为我的朋友和雇主编辑视频。我正在考虑让这个超越业余爱好，并可能为更大的社区做出贡献，甚至作为我的第二职业，因为我喜欢这样做。但在我做出信仰飞跃之前，我想接触更多样化的视频主题，因为我之前主要制作视频博客。 所以，如果您可以将您的原始素材和制作想法发送给我，我将为您制作视频，并希望与您进行 15 分钟的交谈以征求意见。我会保证您的数据安全，不会与其他人共享。 如果您有兴趣，请致电 206-335-6844 或 [shawn@seedots.fund](mailto:​​shawn@seedots.fund)   由   提交/u/shawnneal158  [链接] [评论]]]></description>
+      <description><![CDATA[大家好。多年来我一直在为我的朋友和雇主编辑视频。我正在考虑让这个超越业余爱好，并可能为更大的社区做出贡献，甚至作为我的第二职业，因为我喜欢这样做。但在我做出信仰飞跃之前，我想接触更多样化的视频主题，因为我之前主要制作视频博客。 所以，如果您可以将您的原始素材和制作想法发送给我，我将为您制作视频，并希望与您进行 15 分钟的交谈以征求意见。我会保证您的数据安全，不会与其他人分享。 如果您有兴趣，请通过 [​​shawn@seedots .fund](mailto:​​shawn@seedots.fund)   由   提交/u/shawnneal158  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1cfqxkq/free_video_editing_ill_edit_for_you_in_return_for/</guid>
       <pubDate>Mon, 29 Apr 2024 05:07:36 GMT</pubDate>
     </item>
@@ -67,48 +109,6 @@
       <description><![CDATA[https://reddit.com /link/1cff85l/video/cj2td8a9y9xc1/player 在 https://www.deepgaze 免费试用.ca/   由   提交/u/freegold4me  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1cff85l/this_is_how_you_can_use_ai_to_generate_exposure/</guid>
       <pubDate>Sun, 28 Apr 2024 19:48:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>新社交网络</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cfec22/new_social_network/</link>
-      <description><![CDATA[您好！ 自从我和我的团队开发一个新的独特社交网络以来，已经过去了 6 个月，而它是从未存在过的东西前。我们在这里开放了等候名单：www.mateble.app 如果您好奇，可以联系我，我会的很高兴为您提供信息！   由   提交/u/-CuriousSoul-  /u/-CuriousSoul- reddit.com/r/SideProject/comments/1cfec22/new_social_network/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cfec22/new_social_network/</guid>
-      <pubDate>Sun, 28 Apr 2024 19:11:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一款隐私友好且简单的应用程序来追踪我的月经</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cfdq4y/i_made_a_privacy_friendly_and_simple_app_to_track/</link>
-      <description><![CDATA[我知道有很多经期跟踪应用程序。但其中大多数都有太多我不需要的信息和功能。 Google Play 商店中的 LadyLog   由   提交/u/earlyowlsoftware  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cfdq4y/i_made_a_privacy_friendly_and_simple_app_to_track/</guid>
-      <pubDate>Sun, 28 Apr 2024 18:47:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于上帝眼中的进化论的书</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cfdj11/book_about_what_evolution_would_look_like_to_god/</link>
-      <description><![CDATA[我撰写并出版了一本书，探讨我们作为生物体的存在如何在所有空间和时间中出现。这样做，为我们的每一次生活经历提供了最终的、真实的背景。  任何对存在问题的新方法感兴趣的人都会喜欢它。我希望这里的每个人都这样做。 www.vitaglyph.com   由   提交 /u/askagm   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cfdj11/book_about_what_evolution_would_look_like_to_god/</guid>
-      <pubDate>Sun, 28 Apr 2024 18:39:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>我构建了一个工具，无需使用第三方应用程序即可轻松找到不关注您的人</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cfdc7a/i_built_a_tool_thats_easy_to_find_people_that_do/</link>
-      <description><![CDATA[ 由   提交/u/omfgshelly  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cfdc7a/i_built_a_tool_thats_easy_to_find_people_that_do/</guid>
-      <pubDate>Sun, 28 Apr 2024 18:31:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个网站，您可以在其中发布产品</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cfcem3/i_created_a_site_where_you_can_launch_a_product/</link>
-      <description><![CDATA[📆 从5月1日开始，作为DailyLaunch，我们提供为您的产品发布提供智能且简约的平台。 🚀 仅限机会：无需每月订阅费 💼 目标大，无成本：以智能方式介绍您的产品并确保您的位置现在就在市场上。 您愿意在这个激动人心的旅程中与我一起成长，并在 DailyLaunch.site 上有一个明智的开始吗？   由   提交/u/miracsengonul  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cfcem3/i_created_a_site_where_you_can_launch_a_product/</guid>
-      <pubDate>Sun, 28 Apr 2024 17:52:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>软件平台的雏形，您可以在其中与 API 交互以飞来飞去并与人们见面。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cfc1bs/beginnings_of_a_software_platform_where_you/</link>
-      <description><![CDATA[    /u/UnitOfYellow   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cfc1bs/beginnings_of_a_software_platform_where_you/</guid>
-      <pubDate>Sun, 28 Apr 2024 17:37:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
