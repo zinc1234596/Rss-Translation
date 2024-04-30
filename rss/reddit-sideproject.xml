@@ -4,7 +4,56 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个 Reddit 子版块，用于分享和接收有关副项目的建设性反馈。</description>
-    <lastBuildDate>Mon, 29 Apr 2024 21:11:27 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Apr 2024 00:54:20 GMT</lastBuildDate>
+    <item>
+      <title>反馈请求：电影发行的新想法 - 需要您的见解</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cgeinc/feedback_request_new_ideas_in_film_distribution/</link>
+      <description><![CDATA[ 由   提交/u/Strange_Laugh   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cgeinc/feedback_request_new_ideas_in_film_distribution/</guid>
+      <pubDate>Mon, 29 Apr 2024 23:55:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>卷轴世界。这是不是一个好主意？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cgdj6m/reelworld_is_it_a_good_idea/</link>
+      <description><![CDATA[ReelWorld 查看民意调查   由   提交/u/erloom4854  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cgdj6m/reelworld_is_it_a_good_idea/</guid>
+      <pubDate>Mon, 29 Apr 2024 23:11:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>具有 Expo 和应用商店经验</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cgdfvf/experience_with_expo_and_app_stores/</link>
+      <description><![CDATA[大家好，我一直在从事一个 Web 副业项目，知道如果它受到关注，我会使用 Expo 在 React Native 上再次做这个项目。最近有人有这方面的经验吗？我知道自从几年前我上次查看以来，这里已经取得了进展，但是开发体验如何，即使有 Expo，应用程序商店是否也是一个很大的麻烦？ 提前感谢您的见解。  p&gt;   由   提交/u/jftf  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cgdfvf/experience_with_expo_and_app_stores/</guid>
+      <pubDate>Mon, 29 Apr 2024 23:07:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>音乐家的 MIDI 诊断</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cgca1v/midi_diagnostics_for_musicians/</link>
+      <description><![CDATA[https://thompsondt.gitlab.io/ midi-lab/ 嘿r/sideproject，我写的这个简短而甜蜜查看 MIDI 的工具。对于其他 MIDI 软件项目来说，它非常方便，可以作为 MIDI 消息中发生的事情的简单事实来源。 促使这是我的另一个 MIDI 项目，而且我了解到您可以在浏览器中执行 MIDI 。我认为它对音乐家和开发人员都很有用。不过我想保持简单。 以下是一些我希望您重点关注的反馈具体领域： 1. 解决问题：您最后一次用 MIDI 抓耳挠腮是什么时候？发生了什么事？ 2. 格式：如果您过去遇到过问题，当前的格式（终端中的简单登录）解决这些问题的实用性如何？ 3. 整体美观：您对该实用程序的第一印象是什么？ 当然，我愿意接受各种建议和反馈。我有一些改进它的想法，但我想把它放在那里并获得更多的意见 - 特别是，如果您是开发人员或音乐家，并且 MIDI 是您工作或副业的一部分。 &lt; p&gt;谢谢！   由   提交 /u/thompsoda   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cgca1v/midi_diagnostics_for_musicians/</guid>
+      <pubDate>Mon, 29 Apr 2024 22:18:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>我正准备为我的业余项目推出公开测试版：iight - 基于云的无头 CMS</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cgc08a/im_gearing_up_to_launch_a_public_beta_for_my_side/</link>
+      <description><![CDATA[       由   提交/u/portal_dive  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cgc08a/im_gearing_up_to_launch_a_public_beta_for_my_side/</guid>
+      <pubDate>Mon, 29 Apr 2024 22:07:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>我建立了一个汽车共享平台</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cgbg1n/i_built_a_carsharing_platform/</link>
+      <description><![CDATA[      我构建了一个汽车共享平台和一个移动应用程序，旨在成为 P2P 汽车共享的更便宜的替代方案。我知道大型平台收取高额费用，我真的很喜欢车辆共享的想法，并希望使其对最终用户来说更实惠，对车主来说更有利可图。最初的计划是获得一些风险投资资金购买一支小型车队并投资营销来开始，但事实证明这是一件很难做到的事情。 如果有人在世界任何地方拥有一支车队并且有兴趣实现租赁流程的自动化，我很乐意合作，因为我很自豪能让这个东西达到其目的。 或者，还有一个免费使用的平台来跟踪您的汽车和它允许您远程执行一些很酷的事情，例如打开/关闭继电器防盗器或锁定/解锁车门。 https://preview.redd.it/2lrp3jfxnhxc1.png?width=4000&amp;format=png&amp;auto=webp&amp;s=7ae38c8db2e9e40ef4e8 9bbddb2fab449b1072a5&lt; /p&gt; https://hastecarsharing.com    ;由   提交 /u/False-Photograph816   /u/False-Photograph816  reddit.com/r/SideProject/comments/1cgbg1n/i_built_a_carsharing_platform/&quot;&gt;[链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cgbg1n/i_built_a_carsharing_platform/</guid>
+      <pubDate>Mon, 29 Apr 2024 21:45:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>与全世界创建、分享和探索列表！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cgargd/create_share_and_explore_lists_with_the_world/</link>
+      <description><![CDATA[    /u/yvzyldrm   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cgargd/create_share_and_explore_lists_with_the_world/</guid>
+      <pubDate>Mon, 29 Apr 2024 21:17:50 GMT</pubDate>
+    </item>
     <item>
       <title>您从哪里找到项目的设计灵感？</title>
       <link>https://www.reddit.com/r/SideProject/comments/1cga7oj/where_do_you_find_design_inspirations_for_your/</link>
@@ -18,13 +67,6 @@
       <description><![CDATA[几天前，在我的一次团契中，我认识的一个人与我分享了他对下一步要采取的步骤感到有点困惑的情况。  他经营着一家年轻的公关公司，他与我分享了他对新应用程序的一个绝妙想法，但事实证明，组建合适的团队对他来说很棘手。他说，在他加入一些开发人员后，他与一些开发人员的最初对话感觉更像是权力斗争，而不是合作讨论，因为他不太擅长技术。  您如何驾驭开发者世界中有时膨胀的自我意识，并建立一个每个人都尊重彼此专业知识的团队？  这是寻找对项目充满热情而不仅仅是技术实力的开发人员的理想解决方案吗？   由   提交 /u/squad_ace   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1cga5mw/some_devs_have_this_ego_right_that_doesnt_help/</guid>
       <pubDate>Mon, 29 Apr 2024 20:54:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个游戏来帮助提高我的单词记忆力并让我全天玩一些有趣的事情</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cga5b8/i_created_a_game_to_help_improve_my_word_recall/</link>
-      <description><![CDATA[   自从成为父母后，我的大脑就一直很糊涂。或者，也许是年龄的原因。 文字游戏有帮助。但我错过了这个我曾经在课堂后面的笔记本空白处玩的游戏。 两个月前，我决定将它构建成一个应用程序。这个 Reddit 子版块给了我坚持下去的灵感。所以你是我第一个分享的人。在我的脑海里，你们是我的家人，但仍然......我很害怕，伙计们。 关于该项目：LetrLink，文字游戏 ​ LetrLink:一个新的文字游戏 它叫做 LetrLink。这是一个简单但极具挑战性的文字游戏。  你得到一个单词，你必须一次最多改变一个字母来组成一个新单词。  例如，上面下一个单词的两个示例可以是“GOLD”或“GOLD”。或“旅馆”。或者“LEDGE”！ 现在，以新单词为起点，重复。如果您的计划正确，这将使您的单词链增长。 如果您的单词链超过了挑战长度，您就赢了！  我如何尝试让它变得有吸引力 ​ 一条获胜词链和两个徽章 有一个徽章系统，你可以分享您的成绩和比赛统计数据的图像（包括比赛和连胜）。 ​ 游戏统计 我还尝试使其美观且设计周到。例如，如果您登录，则可以跨设备保存游戏。  有内置的支持和邀请功能。  每天都会出现一个新单词，每天都有机会赢得新徽章、提高您的统计数据并与您的朋友和家人分享新成果。 最重要的是，您不需要线索和提示，这使得一些文字游戏有时会令人沮丧。 而且你可以在周围有各种噪音的情况下玩这个游戏，一整天都可以放下并拿起它。即使在获胜后，您也可以重玩它，或者根据需要制作任意长的链条。 货币化 没有任何广告。但如果您喜欢这款游戏，如果您捐赠一杯咖啡或以每月 1 美元的价格成为我的 Kofi 页面的会员，我将非常感激。 开发信息  技术堆栈：FlutterFlow + Firebase + Cloud Functions (Dart) 开发时间：2 个月（每天大约 1-2 小时，通常在晚上） 您的反馈 我真的很喜欢您的反馈和营销建议。到目前为止，我计划在文字游戏论坛和 Reddit 子版块上发帖，并可能进行 Facebook 营销和内容营销/SEO。 TL;DR：LetrLink 是一款令人上瘾的文字游戏，挑战你通过一次改变一个字母来创造最长的单词链。  链接：  LetrLink：https://www.letrlink.com letrlink.com 喜欢这个游戏吗？您的捐款有助于降低运营成本：https://ko-fi.com/letrlink    由   提交 /u/gijuts   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cga5b8/i_created_a_game_to_help_improve_my_word_recall/</guid>
-      <pubDate>Mon, 29 Apr 2024 20:53:52 GMT</pubDate>
     </item>
     <item>
       <title>我创建了一个提取食谱的应用程序</title>
@@ -43,14 +85,14 @@
     <item>
       <title>我构建了一个情绪追踪器，可以根据您听的音乐为您提供有关您情绪的更多信息。</title>
       <link>https://www.reddit.com/r/SideProject/comments/1cg9om3/i_built_a_mood_tracker_that_gives_you_more_info/</link>
-      <description><![CDATA[几年前，我的国家爆发了一场战争，不久之后我就被解雇了。我很好奇我的情绪状态与之前相比有何变化，以及我处于这种状态多久了。但由于我没有写情绪日记，所以我没有任何这方面的数据。然后我开始感兴趣是否有任何指标可以反映情绪。在阅读了大量研究之后，我意识到音乐是完美的选择。由于市场上没有这样的产品，所以我决定自己创建这样的产品。  上周五，我在 Product Hunt 上推出了这个应用。考虑到这是我的第一次经历，而且我根本不是营销人员，所以一切都很顺利。在大约 80 种产品中，我一天开始时排名第 5，结束时排名第 7。现在我想与您分享。  我想进一步开发该应用程序并添加更多内容。我很想听听你对此有何看法。我还想得到您关于该应用程序对您的便利程度以及您的整体用户体验的诚实反馈。 目前，该应用程序仅适用于 Android。 在 Google Play 上查看。   由   提交 /u/moodsetman   [链接] [评论]]]></description>
+      <description><![CDATA[几年前，我的国家爆发了一场战争，不久之后，我被解雇了。我很好奇，想知道我的情绪状态与之前相比发生了怎样的变化，以及我处于这种状态的时间有多长。但由于我没有记情绪日记，所以我没有任何这方面的数据。然后我开始对是否有任何指标可以反映情绪感兴趣。在阅读了大量研究之后，我意识到音乐非常适合这一点。由于市场上没有类似的东西，我决定自己创建这样的产品。  上周五，我在 Product Hunt 上推出了这款应用。考虑到这是我的第一次体验，而且我根本不是营销人员，所以一切都很顺利。在约 80 种产品中，我当天的排名从第 5 位开始，最终排在第 7 位。现在我想与大家分享。  我想进一步开发该应用程序并添加更多功能。我很想知道您对此的看法。我还想听听您对该应用程序的便捷程度以及整体用户体验的诚实反馈。 目前，该应用程序仅适用于Android。 在Google Play上查看。    提交人    /u/moodsetman   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1cg9om3/i_built_a_mood_tracker_that_gives_you_more_info/</guid>
       <pubDate>Mon, 29 Apr 2024 20:35:47 GMT</pubDate>
     </item>
     <item>
       <title>任何人都可以提供 eli5 来托管移动应用程序的后端 / docker / Postgres 吗？</title>
       <link>https://www.reddit.com/r/SideProject/comments/1cg9mrc/can_anyone_give_an_eli5_for_hosting_backend/</link>
-      <description><![CDATA[前端开发，构建了一个应用程序，使用 docker 和 Postgres 在 fastApi 中获取后端，真的不知道从哪里开始托管，因为我还没有之前的投资组合项目还没有超过 Heroku 免费级别！ 我很想学习 aws，这样当我的应用程序很可能失败时，我希望能在我的职业生涯中取得一点进步，但我并没有那么依赖于想法如果有更简单或更经济高效的方法，我肯定会选择最经济高效的路线哈哈   由   提交 /u/Whisky-Toad   [链接] [评论]]]></description>
+      <description><![CDATA[前端开发，构建了一个应用程序，使用 docker 和 Postgres 在 fastApi 中获取后端，真的不知道从哪里开始托管，因为我以前没有在投资组合项目中使用过 heroku 免费套餐！ 很想学习 aws，这样当我的应用程序很可能会失败时，我希望可以稍微提升我的职业生涯，但如果有更简单或更具成本效益的方法，我并不那么执着，我肯定会选择最具成本效益的路线哈哈    提交人    /u/Whisky-Toad   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1cg9mrc/can_anyone_give_an_eli5_for_hosting_backend/</guid>
       <pubDate>Mon, 29 Apr 2024 20:33:42 GMT</pubDate>
     </item>
@@ -67,48 +109,6 @@
       <description><![CDATA[   /u/IffyNibba01   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1cg959c/im_building_an_ai_to_help_you_improve_at_chess/</guid>
       <pubDate>Mon, 29 Apr 2024 20:14:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>构建了一个基于体育的股票市场应用程序，您可以在整个赛季中“投资”球队</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cg94q0/built_a_sportsbased_stock_market_app_where_you/</link>
-      <description><![CDATA[每个人都有 10,000 美元的游戏币，球队的股价会根据他们赢得冠军的概率而波动。 最终赢得冠军的球队将支付每股 100 美元。 目前仅限 MLB，但最终目标是  添加更多联赛，例如 ETF 、选项等。 短期市场，例如网球锦标赛和季后赛锦标赛。  用户相互买卖股票（因此决定公平市场价值），而不仅仅是从“房子”买卖。 不同的方法奖金，前 10 名队伍将根据排名获得 x 金额。冠军球队每股100美元，第二名球队每股80美元，依此类推。  www.fan-folio.com   由   提交/u/assou  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cg94q0/built_a_sportsbased_stock_market_app_where_you/</guid>
-      <pubDate>Mon, 29 Apr 2024 20:14:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻求专家建议：对博客主题和方法的反馈</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cg8sye/seeking_expert_advice_feedback_on_blog_topic_and/</link>
-      <description><![CDATA[大家好 我创建这篇文章是为了获得一些关于我已经启动的副项目的反馈和建议几个月前。 为了给您提供一些背景信息，我的网站的灵感来自几年前的 IndieHackers 等平台。就像 IndieHackers 对创始人所做的那样，我的重点是对产品在 ProductHunt 等平台上获得关注的创作者和创始人进行书面采访。通过这些采访，我的目标是深入研究他们的故事，探索他们的旅程，并阐明他们所创造的产品 但是，在这个过程中我遇到了一些挑战。尽管我努力联系（通过电子邮件或 X 上的 DM）并发出面试邀请，但我注意到大多数创作者缺乏回应。这让我怀疑我的网站主题是否引起了目标受众的共鸣，或者我的方法是否错误。 因此，我向你们，这个社区的专家寻求建议。您认为该网站的概念相关且引人注目吗？您有什么建议或建议的调整或支点吗？  提前感谢大家的支持和指导。我真的很感激！   由   提交/u/TheWhistler7  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cg8sye/seeking_expert_advice_feedback_on_blog_topic_and/</guid>
-      <pubDate>Mon, 29 Apr 2024 20:01:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>制造了教授AI</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cg7t28/made_professorai/</link>
-      <description><![CDATA[这样做是为了通过自定义聊天机器人和图书馆系统解决导师昂贵、与老师相处的时间有限以及对课程材料理解不力的问题，以帮助学生在 AP 课程中表现更好。 https://www.producthunt.com/posts/professorai-2 &lt; !-- SC_ON --&gt;  由   提交 /u/Pretzkid21   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cg7t28/made_professorai/</guid>
-      <pubDate>Mon, 29 Apr 2024 19:21:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>建立了一种与朋友分摊账单的简单有趣的方式</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cg7rzz/built_an_easy_and_fun_way_to_split_bills_with/</link>
-      <description><![CDATA[ 由   提交 /u/dqnamo    [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cg7rzz/built_an_easy_and_fun_way_to_split_bills_with/</guid>
-      <pubDate>Mon, 29 Apr 2024 19:20:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>我正在开发一个应用程序来帮助业余天文学家。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cg71sm/im_building_an_app_to_help_hobby_astronomers/</link>
-      <description><![CDATA[我会保持简短和亲切。 - 听说过 PCPartPicker 吗？凉爽的。就是这样 - 但对于天文学家来说 - AstroPartPicker.com  - 目前有一个由 7 人组成的小团队正在努力实现这一目标社区（正如我们经常看到的新手进入这个爱好询问是否有某种零件选择器来帮助他们构建他们的装备，或者购买什么零件）  - 为观察者和开发人员构建天文摄影师，拥有设备构建器、知识资源中心、天气和与天文学相关的各种工具。 - 一个热情的项目，正在寻找图形设计师、社交社区经理、前端/后端的 React / Django 开发人员、营销人员内容和译者 很高兴被嘲笑或向我们提出想法:-)   由   提交 /u/AstroPartPicker   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cg71sm/im_building_an_app_to_help_hobby_astronomers/</guid>
-      <pubDate>Mon, 29 Apr 2024 18:51:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>我正在寻找商业伙伴</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cg6g32/i_am_looking_for_a_business_partner/</link>
-      <description><![CDATA[大家好，我叫麦。我之所以伸出援手，是因为我渴望为我一直在开发的电子商务企业寻找合作伙伴。目前，我正在寻找社交媒体和 Discord 经理。更重要的是，我需要一位时装设计师来监督我们的服装部门。这是一个初创公司的情况，因此虽然不涉及薪水，但我提供合作机会。 如果您有兴趣，请在 Instagram 上通过 @Mindmeldco 私信我，或发送电子邮件至：mahmoudsmmour@gmail.com   由   提交 /u/Msmmour   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cg6g32/i_am_looking_for_a_business_partner/</guid>
-      <pubDate>Mon, 29 Apr 2024 18:27:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
