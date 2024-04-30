@@ -4,11 +4,60 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个 Reddit 子版块，用于分享和接收有关副项目的建设性反馈。</description>
-    <lastBuildDate>Tue, 30 Apr 2024 06:17:01 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Apr 2024 09:13:46 GMT</lastBuildDate>
+    <item>
+      <title>我已经让验证你的副项目变得很容易了！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cgo5jb/ive_made_it_easy_to_validate_your_sideproject/</link>
+      <description><![CDATA[我创建了一个工具，使像你我这样的创始人/企业家能够验证商业想法。我试图制作一款产品，使您能够专注于验证您的想法，而不是创建登陆页面和创建营销材料。如果你想看看，我刚刚推出了 Product Hunt。 https://www.producthunt.com/posts/preto-app &lt; !-- SC_ON --&gt;  由   提交/u/Defiant_Author_6634   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cgo5jb/ive_made_it_easy_to_validate_your_sideproject/</guid>
+      <pubDate>Tue, 30 Apr 2024 08:55:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dawarich — Google 位置历史记录/Google 地图时间线替代方案</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cgo33h/dawarich_google_location_historygoogle_maps/</link>
+      <description><![CDATA[      所以，我喜欢将我的位置可视化。我喜欢 Google 地图时间轴，我只是认为 Google 对我的了解足够多了。 因此，我构建了 Dawarich 来控制我的位置跟踪，并且由于我拥有所有数据，因此我可以计算任何统计数据我想要。 它是开源且可自行托管的，因此您也可以这样做。 如果您使用 Google 地图和/或 OwnTracks 跟踪您的位置，则可以导出您的数据并将其上传到 Dawarich。 https://github.com/Freika/dawarich 我之前已经在 r/selfhosted 中发布了我的这个项目（https://www.reddit.com/r/selfhosted/comments/1bvoe8a/dawarich\_google\_location \_historygoogle\_maps/），但从那时起我引入了多个更新。  几张图片，以便您了解它的外观 带有位置历史记录的地图 按年按月统计页   由   提交 /u/Freika   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cgo33h/dawarich_google_location_historygoogle_maps/</guid>
+      <pubDate>Tue, 30 Apr 2024 08:50:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>刚刚在 TestFlight 上发布了我的第一个 IP 摄像机应用程序。感谢您的所有想法！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cgnzdb/just_made_my_first_ever_app_for_ip_cameras/</link>
+      <description><![CDATA[大家好，如果您家里有 IP 摄像头并且拥有这些原始 OEM 应用程序之一，您可能想知道您的安全源的私密性如何。您的数字隐私是否只是另一次数据泄露？您是否拥有多个品牌的网络摄像机并且必须在多个应用程序之间切换？  通过 Cam Hero (camhero.app)，我的目标是解决其中一些问题以及更多问题。目标是  提供无忧、隐私保护 功能丰富的数字 NVR 应用程序 Cam Hero 还具有设备上智能功能人工智能功能可实现更细粒度的监控、记录和过滤事件。 从 Apple Silicon MacBook 和 iPad 开始，我打算在未来扩展对其他设备和平台的支持，如果一切顺利！  Cam Hero 可在 Apple TestFlight 上使用：https: //testflight.apple.com/join/msfEvNlG  如果您拥有 IP 摄像头（或没有！），如果您能将我的第一个应用程序拿出来，那就太好了旋转！任何反馈都将受到高度赞赏。  如果您不喜欢测试 TestFlight 应用程序，我希望很快就能为您带来真正的 App Store 应用程序！  谢谢！    由   提交 /u/cc_camouflaged   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cgnzdb/just_made_my_first_ever_app_for_ip_cameras/</guid>
+      <pubDate>Tue, 30 Apr 2024 08:43:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>构建了一个幻想股票市场游戏应用程序，教您交易和投资！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cgmw1h/built_a_fantasy_stock_market_game_app_that/</link>
+      <description><![CDATA[嘿，建设者和创客:)  建立了一种有趣且无风险的方式来学习股票交易并有可能赢得真正的奖励。它被称为StockPe.app——终极幻想股票市场游戏应用程序！ ​ &lt; p&gt;什么是 StockPe？ StockPe 不仅仅是另一个股票模拟器。这是一个游戏化的学习平台，可让您参加虚拟锦标赛、建立自己的投资组合并赢得大奖！ ​ 为什么选择 StockPe？ &lt; /p&gt;  开始使用虚拟货币进行交易并磨练您的技能，然后再进入真实市场。 参加锦标赛并攀登排行榜以获得真正的现金奖励！ &lt; li&gt;在安全的模拟环境中体验买卖股票的快感。 与朋友分享应用程序并赚取奖励金币！  ​&lt; /p&gt; StockPe 功能：   在现场比赛中与其他玩家一起测试您的技能。 跟踪您的虚拟资产并了解您的投资策略如何付诸实践。 随时获取帮助并解答您的问题。 了解您如何在竞争中脱颖而出并登上顶峰!  ​ 如何玩？   下载 StockPe 应用程序 (&lt; a href=&quot;https://stockpe.app.link/GePHxSA82Fb&quot;&gt;适用于 Android 和 iOS)。 注册免费帐户。 加入锦标赛并开始交易！  ​ 对于任何想要了解股票交易、与朋友竞争并有可能获胜的人来说，StockPe 是一个完美的平台真正的金钱，同时开始成为股市大师的旅程！ 我一直在寻找改进应用程序的方法。请在下面的评论中告诉我们您的想法和反馈！ ⬇️    由   提交/u/donaltramp699   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cgmw1h/built_a_fantasy_stock_market_game_app_that/</guid>
+      <pubDate>Tue, 30 Apr 2024 07:24:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>我构建了一个工具来轻松共享私有 GitHub 存储库</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cgmtv3/i_built_a_tool_to_easily_share_private_github/</link>
+      <description><![CDATA[我找不到一种无缝的方式来与其他人、招聘人员等共享我的私人存储库......，所以我们构建了 GitShare。一个只需链接即可共享私有仓库的平台，无需一一添加协作者。您还可以与没有 GitHub 帐户的人分享！并且不用担心隐私 - 我们通过 GitHub 应用程序访问您的私人存储库。我们全部使用 Next.js、React 和 Django 构建。哦，你知道，它仍处于测试版。请查看此处 我们非常感谢您对 ProductHunt 的支持！：https://www.producthunt.com/posts/gitshare 以下是我们将来可能会为 GitShare 实施的一些想法！ ​  您正在构建一个应用程序并希望在 GitHub 上保持其私密性。借助 GitShare，您可以生成链接并在申请工作或实习时与招聘人员共享，让他们可以查看您项目的源代码。另外，当您共享存储库时，您将获得查看次数和其他指标等见解。 您希望在一个位置展示特定的私有或公共存储库，以及说明、演示等. 使用 GitShare，您可以使用展示您所有项目的个性化链接创建自己的投资组合。 希望从您的存储库中赚钱，这可能会吸引某些用户的兴趣？只需添加付费墙并通过按月订阅或一次性付款来控制访问即可！  我们很乐意听到您的反馈、想法和您希望看到的重要功能未来我们将继续开发该项目！   由   提交/u/anonc3a  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cgmtv3/i_built_a_tool_to_easily_share_private_github/</guid>
+      <pubDate>Tue, 30 Apr 2024 07:20:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>导师-受训者媒人？不，我们正在构建更酷的东西</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cgmqzp/mentormentee_matchmaker_nah_were_building/</link>
+      <description><![CDATA[是否曾经感觉你的大脑是一个经验的宝库，只是乞求分享？或者也许您是一个好奇的嵌合体，渴望一些专家的见解？ 好吧，不用再担心了！我们正在酝酿一个革命性的项目，以前所未有的方式连接导师和受训者，而你就是我们需要的秘密武器。 ‍‍ 要点如下：我们正在构建一个平台，打破导师和学员之间的障碍。没有更多的看门人，没有更多的限制——只有纯粹、纯粹的知识交换。 但事情是这样的：我们需要您的帮助来确保我们走在正确的轨道上。因此，如果您对以下内容感兴趣：  塑造知识共享的未来 在一个项目上留下您的印记，该项目可以改变游戏  然后转到这个漂亮的小表格并填写您的想法：gyaanjunction.com 只需要一秒钟，您的见解就值得黄金（或者比特币，无论您喜欢哪种）。 你还在等什么？立即成为Knowledge Connectoid，帮助我们打造真正史诗般的作品！ P.S.分享就是关爱，所以传播出去，让你的网络知道！  在“引用方式”字段中，请从下拉列表中选择“Gourab” 非常感谢:)     由   提交/u/kikimora47   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cgmqzp/mentormentee_matchmaker_nah_were_building/</guid>
+      <pubDate>Tue, 30 Apr 2024 07:15:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>我想测试自己 6 个月</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cgm36c/i_want_to_test_myself_for_6_months/</link>
+      <description><![CDATA[简单的这个...  我刚刚结束了一些科技产品销售，所以给自己赢得了一些喘息的空间. 我有 6 个月的空闲时间来构建 MVP 产品。我想加入一些人工智能。 我应该构建或学习什么？我希望你们决定，我将在博客中记录我的过程，并且我将给最好的想法一部分利润？我们在想什么？   由   提交 /u/aideasfactory   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cgm36c/i_want_to_test_myself_for_6_months/</guid>
+      <pubDate>Tue, 30 Apr 2024 06:30:43 GMT</pubDate>
+    </item>
     <item>
       <title>您将如何通过创建小型新闻更新的新闻通讯解析器获利？</title>
       <link>https://www.reddit.com/r/SideProject/comments/1cgkr9h/how_would_you_monetize_a_newsletter_parser_that/</link>
-      <description><![CDATA[Hey Reddit fam！ 所以这是独家新闻：我一直非常热衷于科技——人工智能、机器学习、初创公司、你的名字。但了解所有最新消息确实很浪费时间，不是吗？另外，每份时事通讯都有自己的风格，有时您想要的只是有趣的部分，而不是费力地浏览大量的文字。 这就是我对此所做的：我&#39;我正在编写这个网络应用程序，它可以将那些冗长的科技新闻通讯分解成简洁的新闻片段。可以把它想象成科技新闻的 CliffNotes！这不仅仅是浏览关键词；它确实抓住了内容的要点，因此您始终可以轻松地了解内容。 此外，我还添加了一些漂亮的功能，例如上下文感知搜索和个性化列表，这些功能可以根据特定主题跟踪更新实际内容，而不仅仅是标题。 我真的需要你在一些事情上的帮助：  制作一些cash：对于如何在不让用户烦恼的情况下将其货币化有什么想法吗？您愿意为这样的东西付出什么代价？ 这是一个好主意吗？我的意思是，您会使用这样的东西吗？您认为人们会觉得它有帮助吗？ 有什么建议吗？您会添加或更改任何内容以使其对您更有用吗？  如果您想查看的话，这是我的项目 - newsramen.com   由   提交/u/Mental_Squash_2282   [链接] [评论]]]></description>
+      <description><![CDATA[Hey Reddit fam！ 所以这是独家新闻：我一直非常热衷于科技——人工智能、机器学习、初创公司、你说出它的名字。但了解所有最新消息确实很浪费时间，不是吗？另外，每份时事通讯都有自己的风格，有时您想要的只是有趣的部分，而不是费力地浏览大量的文字。 这就是我对此所做的：我&#39;我正在编写这个网络应用程序，它可以将那些冗长的科技新闻通讯分解成简洁的新闻片段。可以把它想象成科技新闻的 CliffNotes！这不仅仅是浏览关键词；它确实抓住了内容的要点，因此您始终可以轻松地了解内容。 此外，我还添加了一些漂亮的功能，例如上下文感知搜索和个性化列表，这些功能可以根据特定主题跟踪更新实际内容，而不仅仅是标题。 我真的需要你在一些事情上的帮助：  制作一些cash：对于如何在不让用户烦恼的情况下将其货币化有什么想法吗？您愿意为这样的东西付出什么代价？ 这是一个好主意吗？我的意思是，您会使用这样的东西吗？您认为人们会觉得它有帮助吗？ 有什么建议吗？您会添加或更改任何内容以使其对您更有用吗？  如果您想查看的话，这是我的项目 - newsramen.com   由   提交/u/Mental_Squash_2282   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1cgkr9h/how_would_you_monetize_a_newsletter_parser_that/</guid>
       <pubDate>Tue, 30 Apr 2024 05:06:57 GMT</pubDate>
     </item>
@@ -22,7 +71,7 @@
     <item>
       <title>鉴于此免责声明，我是否需要他们的书面同意才能创建使用数据集的交互式图表，即使是非商业用途？我看到一些静态图表引用这个数据集作为来源。</title>
       <link>https://www.reddit.com/r/SideProject/comments/1cgkehn/given_this_disclaimer_do_i_need_their_written/</link>
-      <description><![CDATA[“免责声明 © 2021 世界黄金协会。版权所有。  此信息仅供一般信息和教育目的。它不是也不应被解释为购买或出售黄金、任何黄金相关产品或任何其他产品、证券或投资的要约，或征求购买或出售要约的要约。它不会也不应被解释为赞助、倡导、认可或促销黄金、任何黄金相关产品或任何其他产品、证券或投资。 此信息并不旨在做出任何就黄金、任何黄金相关产品或任何其他产品、证券或投资的购买、销售或其他处置提供建议或提供任何投资或其他建议，包括但不限于任何黄金相关交易适当的建议潜在投资者的任何投资目标或财务状况。不应依赖任何此类信息来做出投资黄金、任何黄金相关产品或任何其他产品、证券或投资的决定。在做出任何投资决定之前，潜在投资者应寻求财务顾问的建议，考虑其个人财务需求和情况，并仔细考虑与该投资决定相关的风险。 任何复制、再版或再分发未经世界黄金协会或相应版权所有者事先书面同意，明确禁止复制、分发或以其他方式使用本文件中的统计数据和信息，包括通过框架或类似方式，除非下文另有规定。 根据公平的行业惯例，允许出于审查和评论（包括媒体评论）的目的使用本文档中的分析，但须满足以下两个先决条件：(i) 仅提取有限的数据或使用分析； (ii) 对这些统计数据的任何及所有使用均须明确承认世界黄金协会以及相关第三方（如适用）作为其来源。不允许复制、分发或以其他方式使用本文档的全部或大部分或其包含的统计数据。  虽然此处传达的任何信息的准确性都经过检查，但世界黄金协会及其任何附属机构均不能保证此类准确性。在任何情况下，世界黄金协会或其任何附属机构均不对依赖此类信息做出的任何决定或采取的行动负责，也不对由此类信息引起的、与之相关的或与之相关的任何后果性、特殊性、惩罚性、附带性、间接性或类似损害承担责任。此类信息，即使已被告知可能发生此类损害。”   由   提交/u/Desperate_Place8485   [链接] [评论]]]></description>
+      <description><![CDATA[“免责声明 © 2021 世界黄金协会。版权所有。  此信息仅供一般信息和教育目的。它不是也不应被解释为购买或出售黄金、任何黄金相关产品或任何其他产品、证券或投资的要约，或征求购买或出售要约的要约。它不会也不应被解释为赞助、倡导、认可或促销黄金、任何黄金相关产品或任何其他产品、证券或投资。 此信息并不旨在做出任何就黄金、任何黄金相关产品或任何其他产品、证券或投资的购买、销售或其他处置提供建议或提供任何投资或其他建议，包括但不限于任何黄金相关交易适当的建议潜在投资者的任何投资目标或财务状况。不应依赖任何此类信息来做出投资黄金、任何黄金相关产品或任何其他产品、证券或投资的决定。在做出任何投资决定之前，潜在投资者应寻求财务顾问的建议，考虑其个人财务需求和情况，并仔细考虑与该投资决定相关的风险。 任何复制、再版或再分发未经世界黄金协会或相应版权所有者事先书面同意，明确禁止复制、分发或以其他方式使用本文件中的统计数据和信息，包括通过框架或类似方式，除非下文另有规定。 根据公平的行业惯例，允许出于审查和评论（包括媒体评论）的目的使用本文档中的分析，但须满足以下两个先决条件：(i) 仅提取有限的数据或使用分析； (ii) 对这些统计数据的任何及所有使用均须明确承认世界黄金协会以及相关第三方（如适用）作为其来源。不允许复制、分发或以其他方式使用本文档的全部或大部分或其包含的统计数据。  虽然此处传达的任何信息的准确性都经过检查，但世界黄金协会及其任何附属机构均不能保证此类准确性。在任何情况下，世界黄金协会或其任何附属机构均不对依赖此类信息做出的任何决定或采取的行动负责，也不对由此类信息引起的、与之相关的或与之相关的任何后果性、特殊性、惩罚性、附带性、间接性或类似损害承担责任。此类信息，即使已通知此类损害的可能性。”   由   提交/u/Desperate_Place8485   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1cgkehn/given_this_disclaimer_do_i_need_their_written/</guid>
       <pubDate>Tue, 30 Apr 2024 04:46:59 GMT</pubDate>
     </item>
@@ -34,7 +83,7 @@
       <pubDate>Tue, 30 Apr 2024 03:29:27 GMT</pubDate>
     </item>
     <item>
-      <title>我制作了一个应用程序，可以推荐有趣的文章供您阅读，而且没有广告！</title>
+      <title>我制作了一款应用程序，可以推荐有趣的文章供您阅读，而且没有广告！</title>
       <link>https://www.reddit.com/r/SideProject/comments/1cgiviw/i_made_an_app_that_recommends_interesting/</link>
       <description><![CDATA[厌倦了在阅读文章时看到广告？厌倦了寻找新文章来阅读？  Bind 向您展示来自优质出版商的有趣文章，没有广告！ 是的，我知道有... Google 新闻 (呃）。但 Bind 更擅长以下一些功能：  无广告：哎呀，也没有弹出窗口。  文章仅来自高质量出版商：是的，没有来自 TMZ 的文章。是的，Google，最后一次，我不关心泰勒·斯威夫特在和谁约会 简单的用户体验：Bind 很简单。你看到一篇你喜欢的文章吗？向下滚动阅读。您看到一篇文章您不喜欢，请跳至下一篇！   请尝试一下，如果您有任何反馈，请告诉我！自从我“推出”以来，我得到了很好的反馈。几个月前，但希望获得更多意见:)  readbind.io  &lt; !-- SC_ON --&gt;  由   提交/u/columbusjane  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1cgiviw/i_made_an_app_that_recommends_interesting/</guid>
@@ -60,55 +109,6 @@
       <description><![CDATA[   大家好，这里是 Syahru。 我最近喜欢制作 YouTube 缩略图，当我在 Google 上寻找灵感时，我意识到大部分收藏都会像这样 https://preview.redd.it/8x2fikz5rixc1.png?width=854&amp;format=png&amp;auto=webp&amp;s=786c8c95a055db0 094f7d038299359c29c2b244f&lt; /p&gt; 因此，我正在构建 Calm Thumbnail，这是一个平静的 YouTube 缩略图集合，但仍然可以使用创造好奇心差距。让我知道你们的想法：D https://preview.redd.it/eyogsnxhtixc1.png?width=976&amp;format=png&amp;auto=webp&amp;s=4cefa6994bb84ae0d88aee6641902a7276a6bc10   由   提交 /u/cadavercrafter   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1cggoq2/i_create_a_collection_of_calm_thumbnail_for/</guid>
       <pubDate>Tue, 30 Apr 2024 01:35:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>反馈请求：电影发行的新想法 - 需要您的见解</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cgeinc/feedback_request_new_ideas_in_film_distribution/</link>
-      <description><![CDATA[ 由   提交/u/Strange_Laugh   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cgeinc/feedback_request_new_ideas_in_film_distribution/</guid>
-      <pubDate>Mon, 29 Apr 2024 23:55:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>ReelWorld。这是个好主意吗？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cgdj6m/reelworld_is_it_a_good_idea/</link>
-      <description><![CDATA[ReelWorld 查看民意调查   由   提交/u/erloom4854  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cgdj6m/reelworld_is_it_a_good_idea/</guid>
-      <pubDate>Mon, 29 Apr 2024 23:11:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>拥有 Expo 和应用商店的经验</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cgdfvf/experience_with_expo_and_app_stores/</link>
-      <description><![CDATA[大家好，我一直在为 Web 开发一个业余项目，如果这个项目得到关注，我会使用 Expo 在 React Native 上再次开发。最近有人有这方面的经验吗？我知道自从几年前我上次看这个项目以来，这里已经取得了进展，但是开发体验如何？即使使用 Expo，应用商店是否也很麻烦？ 提前感谢您的见解。    提交人    /u/jftf   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cgdfvf/experience_with_expo_and_app_stores/</guid>
-      <pubDate>Mon, 29 Apr 2024 23:07:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>音乐家的 MIDI 诊断</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cgca1v/midi_diagnostics_for_musicians/</link>
-      <description><![CDATA[https://thompsondt.gitlab.io/midi-lab/ 嗨，r/sideproject，我制作了这个简短而精致的工具来查看 MIDI。它对其他 MIDI 软件项目非常有用，可以作为 MIDI 消息中发生的事情的简单真实来源。 促使我制作这个工具的原因是我有另一个 MIDI 项目，而且我了解到你可以在浏览器中执行 MIDI。我认为它对音乐家和开发人员都很有用。但我想让它保持简单。 以下是我希望您关注的一些特定反馈领域：1. 解决问题：您上次为 MIDI 而困惑是什么时候？当时发生了什么？ 2. 格式：如果您过去遇到过问题，那么当前格式（终端中的简单日志）对于解决这些问题有多实用？ 3. 整体美学：您对该实用程序的第一印象是什么？ 当然，我愿意接受各种建议和反馈。我有一些改进它的想法，但我想把它放在那里并获得更多的意见——特别是，如果你是一名开发人员或音乐家，并且 MIDI 是你工作或副业的一部分。 谢谢！    提交人    /u/thompsoda   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cgca1v/midi_diagnostics_for_musicians/</guid>
-      <pubDate>Mon, 29 Apr 2024 22:18:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>我正准备为我的业余项目推出公开测试版：iight - 基于云的无头 CMS</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cgc08a/im_gearing_up_to_launch_a_public_beta_for_my_side/</link>
-      <description><![CDATA[        提交人    /u/portal_dive   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cgc08a/im_gearing_up_to_launch_a_public_beta_for_my_side/</guid>
-      <pubDate>Mon, 29 Apr 2024 22:07:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>我建立了一个汽车共享平台</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cgbg1n/i_built_a_carsharing_platform/</link>
-      <description><![CDATA[      我构建了一个汽车共享平台和一个移动应用程序，旨在成为 P2P 汽车共享的更便宜的替代方案。我知道大型平台收取高额费用，我真的很喜欢车辆共享的想法，并希望使其对最终用户来说更实惠，对车主来说更有利可图。最初的计划是获得一些风险投资资金购买一支小型车队并投资营销来开始，但事实证明这是一件很难做到的事情。 如果有人在世界任何地方拥有一支车队并且有兴趣实现租赁流程的自动化，我很乐意合作，因为我很自豪能让这个东西达到其目的。 或者，还有一个免费使用的平台来跟踪您的汽车和它允许您远程执行一些很酷的事情，例如打开/关闭继电器防盗器或锁定/解锁车门。 https://preview.redd.it/2lrp3jfxnhxc1.png?width=4000&amp;format=png&amp;auto=webp&amp;s=7ae38c8db2e9e40ef4e8 9bbddb2fab449b1072a5&lt; /p&gt; https://hastecarsharing.com    ;由   提交 /u/False-Photograph816   /u/False-Photograph816  reddit.com/r/SideProject/comments/1cgbg1n/i_built_a_carsharing_platform/&quot;&gt;[链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cgbg1n/i_built_a_carsharing_platform/</guid>
-      <pubDate>Mon, 29 Apr 2024 21:45:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>与全世界创建、分享和探索列表！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cgargd/create_share_and_explore_lists_with_the_world/</link>
-      <description><![CDATA[    /u/yvzyldrm   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cgargd/create_share_and_explore_lists_with_the_world/</guid>
-      <pubDate>Mon, 29 Apr 2024 21:17:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
