@@ -3,10 +3,38 @@
   <channel>
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
-    <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Wed, 01 May 2024 03:15:11 GMT</lastBuildDate>
+    <description>r/SideProject 是一个 Reddit 子版块，用于分享和接收有关副项目的建设性反馈。</description>
+    <lastBuildDate>Wed, 01 May 2024 06:17:55 GMT</lastBuildDate>
     <item>
-      <title>我制作“AuthGPT”是为了帮助开发人员轻松保护自定义 GPT 操作。</title>
+      <title>Hotkys：各种应用程序的快捷方式集合以及用于查看和运行它们的 Raycast 扩展</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cheylx/hotkys_collection_of_shortcuts_for_various_apps/</link>
+      <description><![CDATA[我热衷于提高生产力并探索提高生产力的有效方法。我经常搜索 IntelliJ IDEA 等 IDE 的快捷方式列表和打印备忘单VS 代码。随着时间的推移，我积累了各种笔记，并在需要时引用它们。 虽然 IntelliJ、VS Code 和 Obsidian 等一些应用程序提供了命令面板来快速执行命令，而无需记住快捷方式，但大多数应用程序都没有。 有一天，我决定停止添加分散的笔记，并创建一个开源项目，将这些快捷方式编译成可搜索的列表。这导致了 hotkys.com 的创建。 为了寻求更快的访问速度，作为 Raycast 的重度用户，我开发了 Raycast 扩展。最初，它只是提供快速访问，但我很快将其增强为直接执行快捷方式，功能类似于通用命令面板，但有一些限制。 当前限制：  Hotkys 目前针对 macOS 用户。如果有需求，我计划扩大对 Windows/Linux 的支持。 通用快捷方式数据库，无需用户特定的自定义。 Raycast 扩展在很大程度上取决于根据活动应用程序包确定相关快捷方式ID。这意味着当您在浏览器或终端应用程序中使用网络应用程序时，事情不会那么顺利和快速。 该扩展将所有快捷方式加载为一个大型 JSON 文件。尽管我已经实现了缓存和后台更新，但可能会出现扩展问题，但这是可以管理的。  访问网站 hotkys .com 并在 Raycast Store 查看 Raycast 扩展。 贡献欢迎通过 GitHub。 https://reddit.com/link/1cheylx/video/3gpt0qk88rxc1/player   由   提交 /u/izerored   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cheylx/hotkys_collection_of_shortcuts_for_various_apps/</guid>
+      <pubDate>Wed, 01 May 2024 06:11:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>客户永远是对的还是只是要求？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1chenyg/is_the_customer_always_right_or_just_demanding/</link>
+      <description><![CDATA[我们发现一些用户将我们与竞争对手进行比较。他们告诉我们添加他们拥有的功能或折扣/交易。我们有一段时间避免这样做。但我们不断被问到同样的问题。 现在我脑子里浮现出这样的想法： “客户永远是对的” 您怎么看？  在这种情况下，客户是对的吗？还是要求很高？ 你怎么知道要添加哪些功能？  &lt;!-- SC_ON - -&gt;  由   提交 /u/-maxify   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1chenyg/is_the_customer_always_right_or_just_demanding/</guid>
+      <pubDate>Wed, 01 May 2024 05:53:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能简历评估员</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1chelzs/ai_resume_rater/</link>
+      <description><![CDATA[大家好，谈论人工智能，我有一些非技术朋友正在招聘技术候选人，他们不确定简历/个人资料是否符合他们的职位描述/要求，所以我写了一个小程序，利用人工智能帮助他们根据职位描述分析和评估简历，并意识到对于其他初创公司或招聘人员等非常有用，如果有人有兴趣将此项目投入生产，让我知道，这是演示视频 https://reddit.com/link /1chelzs/video/hj6aqppd7rxc1/player   由   提交 /u/maxlibin   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1chelzs/ai_resume_rater/</guid>
+      <pubDate>Wed, 01 May 2024 05:49:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>习惯跟踪爱好者制作了一个习惯跟踪应用程序</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1chcbf3/habit_tracking_aficionado_made_a_habit_tracker_app/</link>
+      <description><![CDATA[        由   提交 /u/InevitableCheek7297   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1chcbf3/habit_tracking_aficionado_made_a_habit_tracker_app/</guid>
+      <pubDate>Wed, 01 May 2024 03:34:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了“AuthGPT”来帮助开发人员轻松保护自定义 GPT 操作。</title>
       <link>https://www.reddit.com/r/SideProject/comments/1chbo9n/i_made_authgpts_to_help_developers_easily/</link>
       <description><![CDATA[    /u/Spiritual_Ranger9377   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1chbo9n/i_made_authgpts_to_help_developers_easily/</guid>
@@ -22,7 +50,7 @@
     <item>
       <title>应用程序演示录制？</title>
       <link>https://www.reddit.com/r/SideProject/comments/1chbbz0/app_demo_recording/</link>
-      <description><![CDATA[大家好，如果这不属于我们，很高兴删除，但我想这里有这么多人在创建应用程序，可能有人可以伸出援手。您如何录制应用程序演示？我想在我的登陆页面上展示一个演示。我使用的是windows机器。我尝试使用 snagit 但它看起来像垃圾？    由   提交/u/khalant1989   [链接] [评论]]]></description>
+      <description><![CDATA[大家好，如果这不属于我，很高兴删除，但我想这里有这么多人在创建应用程序，可能有人可以伸出援手。您如何录制应用程序演示？我想在我的登陆页面上展示一个演示。我使用的是windows机器。我尝试使用 snagit 但它看起来像垃圾？    由   提交/u/khalant1989   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1chbbz0/app_demo_recording/</guid>
       <pubDate>Wed, 01 May 2024 02:43:21 GMT</pubDate>
     </item>
@@ -34,7 +62,7 @@
       <pubDate>Wed, 01 May 2024 02:26:29 GMT</pubDate>
     </item>
     <item>
-      <title>我创建了一个将博客文章转换为播客的工具</title>
+      <title>我创建了一个将博客文章转换成播客的工具</title>
       <link>https://www.reddit.com/r/SideProject/comments/1ch93d0/i_created_a_tool_that_converts_blog_posts_into/</link>
       <description><![CDATA[https://a-to-p.vercel.app 可让您将博客文章转换为播客剧集。 我正在开发一个新版本，可让您一次性转换整个博客。新版本将让您在 15 分钟内轻松从无到有，拥有一个完整的库。这是生成的剧集的链接。听一听吧！    提交人    /u/collin_code_77   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1ch93d0/i_created_a_tool_that_converts_blog_posts_into/</guid>
@@ -50,14 +78,14 @@
     <item>
       <title>你好哦</title>
       <link>https://www.reddit.com/r/SideProject/comments/1ch797x/hellooo/</link>
-      <description><![CDATA[大家好，我想帮助那些不喜欢编辑或不擅长编辑的小 YouTube 用户（或任何人）。我非常喜欢编辑，并且很乐意帮助人们！对于视频创作来说，剪辑是非常重要的事情。所以我想帮助您制作最好的内容如果您有兴趣请告诉我（DMS 是开放的）是的，我确实收费，但几乎是最低的（我说的是最多 10 美元）如果您有兴趣，请告诉我   由   提交 /u/Chickenugget0414   [链接] [评论]]]></description>
+      <description><![CDATA[大家好，我想帮助那些不喜欢编辑或不擅长编辑的小型 YouTuber（或任何人）。我非常喜欢编辑并且很乐意帮助人们！对于视频创作来说，剪辑是非常重要的事情。所以我想帮助您制作最好的内容如果您有兴趣请告诉我（DMS 是开放的）是的，我确实收费，但几乎是最低的（我说的是最多 10 美元）如果您有兴趣，请告诉我   由   提交/u/Chickenugget0414   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1ch797x/hellooo/</guid>
       <pubDate>Tue, 30 Apr 2024 23:30:22 GMT</pubDate>
     </item>
     <item>
       <title>Feedpulse 新闻 API</title>
       <link>https://www.reddit.com/r/SideProject/comments/1ch4kbr/feedpulse_news_api/</link>
-      <description><![CDATA[大家好，请在rapidapi hub 上查看 feedpulse 新闻 api  https://rapidapi.com/ochiengotieno304/api/feedpulse2。以实惠的定价模式获取来自全球 50 多个国家/地区和 13 万个新闻源的最新新闻源。   由   提交 /u/_ochi   [链接] [评论]]]></description>
+      <description><![CDATA[大家好，请在rapidapi hub 上查看 feedpulse 新闻 api  https://rapidapi.com/ochiengotieno304/api/feedpulse2。通过实惠的定价模式获取来自全球 50 多个国家/地区和 13 万个新闻源的最新新闻源。   由   提交 /u/_ochi   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1ch4kbr/feedpulse_news_api/</guid>
       <pubDate>Tue, 30 Apr 2024 21:36:17 GMT</pubDate>
     </item>
@@ -81,34 +109,6 @@
       <description><![CDATA[大家好， 过去两周我一直对我的项目感到沮丧。我尝试了广告、联系相关人员/群组等来接触更多用户，但没有任何帮助。 然后我开始思考，也许这个平台是错误的。如今，人们倾向于安装应用程序来使用社交媒体，而我的项目仅在网络上（https://shouterra.com） 我知道广告应该首先成为更多用户的答案，但也许我从一开始就通过推送网络做错了？难道是我想错了？另外，开发移动应用程序是一项艰苦的工作，我无法根据我目前的日常生活正确规划它。 （也许我几乎无法尝试该网站的网络视图） 您对此有何看法？   由   提交 /u/demongibi   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1ch48kd/do_i_really_need_an_app_for_my_project/</guid>
       <pubDate>Tue, 30 Apr 2024 21:23:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>实施等候名单值得吗？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ch3wm0/is_implementing_a_waiting_list_worth_it/</link>
-      <description><![CDATA[ 由   提交 /u/victorv01   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ch3wm0/is_implementing_a_waiting_list_worth_it/</guid>
-      <pubDate>Tue, 30 Apr 2024 21:09:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>我为所有纹身爱好者构建了一个应用程序</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ch3enu/i_have_build_an_app_for_all_tattoo_lovers/</link>
-      <description><![CDATA[作为一名充满激情的纹身爱好者，我创建了一款名为 Tatt Ai 的革命性应用程序，为所有纹身爱好者提供在线纹身服务。有了 Tatt Ai，获得完美纹身从未如此简单。 无论您是想获得第一个纹身还是添加到现有的纹身系列中，Tatt Ai 都能满足您的需求。我们的应用程序将您与来自世界各地的才华横溢的纹身艺术家联系起来，让您只需在手机上轻按几下即可浏览他们的作品集、阅读评论并预约预约。 忘记花几个小时研究纹身吧商店和艺术家——Tatt Ai 简化了流程，让您所需的一切触手可及。您可以在一个方便的地方探索不同的纹身风格、尺寸和价格。 Tatt Ai 不仅让您更轻松地找到完美的纹身艺术家，而且还为艺术家提供了一个展示自己纹身的平台。为更广泛的受众工作。这为纹身爱好者和艺术家创造了双赢的局面，使该应用程序成为任何想要纹身的人的必备工具。 那么为什么还要等待呢？立即下载 Tatt Ai，开始您的纹身之旅！您可以在 Playstore 和 应用商店。无论您是经验丰富的纹身老手还是人体艺术领域的新手，Tatt Ai 都能让您的纹身体验无缝且难忘。    ;由   提交 /u/mikeluiz   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ch3enu/i_have_build_an_app_for_all_tattoo_lovers/</guid>
-      <pubDate>Tue, 30 Apr 2024 20:49:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>大工程VS。小项目，你需要什么开始？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ch3bhk/big_project_vs_small_project_what_do_you_need/</link>
-      <description><![CDATA[愿景 对于一个小型项目，您的愿景可能是一个简单的草图或您想要实现的目标的项目符号列表。这可以让您集中注意力，并帮助您确定所需的特定资源，例如时间、材料，或者可能只是特定的软件程序。  对于一个大项目，愿景需要更加详细。把它想象成一个蓝图。它应该概述项目的目标、阶段和潜在的挑战。这可以帮助您将大项目分解为更小的、可管理的任务。然后，您可以评估每个阶段所需的资源，无论是雇用团队、获取特定设备还是获得资金。 因此，无论规模大小，强大的愿景都是启动板！它为您的项目（无论大小）提供方向，并帮助您收集实现项目所需的工具。 这有意义吗，伙计们，有什么要补充的吗？    由   提交/u/vibe_keeper  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ch3bhk/big_project_vs_small_project_what_do_you_need/</guid>
-      <pubDate>Tue, 30 Apr 2024 20:45:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>我正在从头开始构建一个 javascript MMO（第 1 部分）</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ch26a1/im_building_a_javascript_mmo_from_scratch_part_1/</link>
-      <description><![CDATA[我正在构建一个从头开始编写的 javascript MMO 所有代码都将完全开放-源码，并将与社区一起逐步构建，这个概念让我想起了 r/Place 所以我想得到来自其他 Reddit 用户的意见。这个想法是我在中学时产生的，从那时起就一直困扰着我。 这个想法 这款游戏将围绕“反向彩票”概念。一路上的每个人都将成为赢家，除了最高层的人，他基本上将为参与彩票的每个人的奖金提供资金。工作吗？  这一切都以 BOX 为中心，这是游戏中每个人都永远关注的物品。 BOX 会以 1 张门票的价格自行启动。 当玩家购买此盒子时，他们可以在盒子上放置图像和一些文本，游戏中的每个人现在都可以看到。 然后该盒子会立即以双倍的价格重新列出。现在，该盒子已列出 2 张门票，并开始倒计时 1 小时。 现在，玩家 2 出现并从玩家 1 处购买了该盒子，这使得玩家 1 的门票翻倍。 玩家 2 现在拥有该盒子，并且可以用他们喜欢的任何东西替换图像和横幅。 这种加倍机制现在会继续下去，直到一小时的完整倒计时期间没有人购买盒子。 当这种情况发生时，留下盒子的人现在可以保留盒子作为战利品，所以现在除了他们之外，一路上每个人的钱都增加了一倍。他们失去了所有彩票，只留下了盒子，他们赢得了（或输了）彩票，为其他人的奖金提供了资金。 此时，盒子被重新初始化，因此现在列出了一个新盒子拍卖 1 张票，彩票再次开始。  堆栈 我将使用 NodeJS 和 Express 来进行 对于前端，我将使用 React。 我们要构建的第一步是 在这里发帖是为了对概念本身进行压力测试并引起兴趣！ 这是感兴趣的人的网站： &lt; href=&quot;https://theboxmmo.com&quot;&gt;theboxmmo.com 解释这个想法的 YouTube 视频： 构建 Javascript MMO #1：想法和方法计划 Github： 前端 服务器 Discord： https ://discord.gg/UJYTW9kdDZ   由   提交 /u/b___d   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ch26a1/im_building_a_javascript_mmo_from_scratch_part_1/</guid>
-      <pubDate>Tue, 30 Apr 2024 19:59:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
