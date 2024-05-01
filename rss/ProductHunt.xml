@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Product Hunt — 每天提供最好的新产品</title>
+    <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Wed, 01 May 2024 18:16:16 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2024 21:11:40 GMT</lastBuildDate>
     <item>
       <title>iOS 版克劳德</title>
       <link>https://www.producthunt.com/posts/claude-for-ios</link>
       <description><![CDATA[
-            Anthropic 的官方人工智能助手，就在你的后口袋里
+            Anthropic 的官方人工智能助手，就在你的后兜里
           
 
 讨论
@@ -48,6 +48,20 @@
       <pubDate>Wed, 01 May 2024 03:11:41 GMT</pubDate>
     </item>
     <item>
+      <title>排序</title>
+      <link>https://www.producthunt.com/posts/rankify</link>
+      <description><![CDATA[
+            即时 AI SEO 关键词研究生成器
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/rankify</guid>
+      <pubDate>Wed, 01 May 2024 01:04:06 GMT</pubDate>
+    </item>
+    <item>
       <title>Windows 版圆弧</title>
       <link>https://www.producthunt.com/posts/arc-for-windows</link>
       <description><![CDATA[
@@ -79,12 +93,12 @@
       <title>数据交换中心</title>
       <link>https://www.producthunt.com/posts/datashake-hub</link>
       <description><![CDATA[
-            无代码数据聚合和导出
-          
+无代码数据聚合和导出
 
-讨论&lt; /a&gt;
-            |
-            链接
+
+讨论
+|
+链接
 ]]></description>
       <guid>https://www.producthunt.com/posts/datashake-hub</guid>
       <pubDate>Tue, 30 Apr 2024 15:44:22 GMT</pubDate>
@@ -132,20 +146,6 @@
       <pubDate>Tue, 30 Apr 2024 08:27:37 GMT</pubDate>
     </item>
     <item>
-      <title>燕尾频道</title>
-      <link>https://www.producthunt.com/posts/channels-by-dovetail</link>
-      <description><![CDATA[
-            将用户反馈转化为实时见解
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/channels-by-dovetail</guid>
-      <pubDate>Tue, 30 Apr 2024 05:11:25 GMT</pubDate>
-    </item>
-    <item>
       <title>马厩钱</title>
       <link>https://www.producthunt.com/posts/stables-money</link>
       <description><![CDATA[
@@ -163,7 +163,7 @@
       <title>心灵之旅</title>
       <link>https://www.producthunt.com/posts/mindtrip</link>
       <description><![CDATA[
-            AI旅行平台，为您个性化
+            AI旅行平台，为您量身定制
           
 
 讨论
@@ -188,15 +188,15 @@
       <pubDate>Mon, 22 Apr 2024 20:01:49 GMT</pubDate>
     </item>
     <item>
-      <title>Loom AI 工作流程</title>
+      <title>Loom 人工智能工作流程</title>
       <link>https://www.producthunt.com/posts/loom-ai-workflows</link>
       <description><![CDATA[
-            只需点击一下即可将任何 Loom 视频转换为可共享的文档
-          
+只需单击一下，即可将任何 Loom 视频转换为可共享的文档
+
 
 讨论
-            |
-            链接
+|
+链接
 ]]></description>
       <guid>https://www.producthunt.com/posts/loom-ai-workflows</guid>
       <pubDate>Fri, 12 Apr 2024 22:05:06 GMT</pubDate>
