@@ -4,7 +4,91 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个 Reddit 子版块，用于分享和接收有关副项目的建设性反馈。</description>
-    <lastBuildDate>Wed, 01 May 2024 06:17:55 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2024 09:14:27 GMT</lastBuildDate>
+    <item>
+      <title>我制作了一个可以创建个性化锻炼计划的工具</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1chhlvg/i_made_a_tool_that_creates_personalized_workout/</link>
+      <description><![CDATA[我无法找到适合我需求的锻炼计划。 在人工智能和锻炼数据库等的帮助下经过艰苦的努力，我们建立了 faitness.io 它比其他替代方案便宜得多，并且您可以免费获得 1 次锻炼你注册吧。 我朝九晚六工作，并在业余时间建造了这个。随意烤，告诉我你的想法。 劳动节快乐   由   提交 /u/babygirlsundae   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1chhlvg/i_made_a_tool_that_creates_personalized_workout/</guid>
+      <pubDate>Wed, 01 May 2024 09:11:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>用 Go 编写的微型纳米博客平台 (littr)</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1chhj48/tiny_nanoblogging_platform_written_in_go_littr/</link>
+      <description><![CDATA[大家好！只是想过来和大家分享我的一个项目。它就像一个简单的社交网络平台，用于微（纳米）博客、分享图片和 GIF。您还可以在从 PC 到 Android 手机或 iPhone 的各种设备上接收通知。通知通过浏览器中的 webpush 服务工作。这让我得出一个结论：这是一个很小的*平台，可以发布垃圾邮件等等。 我还写了一篇关于 littr 的详细文章，其中包含屏幕截图本身： https://krusty.space/projects/litter  该项目几乎完全用 Go 编写语言。这是一个评估 go-app PWA 框架的选项和功能的实验项目。前端和后端使用 REST JSON API 相互通信。您可以在此处浏览存储库：https://github.com/krustowski/litter-go  感谢您的关注，欢迎任何评论或反应。 *大约 16 MB 原始二进制文件（发送到客户端时压缩） &lt;!-- SC_ON - -&gt;  由   提交/u/1dk_b01   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1chhj48/tiny_nanoblogging_platform_written_in_go_littr/</guid>
+      <pubDate>Wed, 01 May 2024 09:06:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>tab-pal：一个命令行应用程序，用于在 Tableau 中创建和编辑自定义调色板。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1chh13f/tabpal_a_commandline_app_for_creating_and_editing/</link>
+      <description><![CDATA[希望这个社区中的某个人觉得它有用... 我是一名数据分析师，我已经厌倦了每次我想要更改自定义调色板时编辑我的 Preferences.tps 文件...因此我创建了一个 TUI 以使其更容易、更快且更漂亮： https://github.com/ben-n93/tab-pal 您可以从命令启动应用程序-line 并进行任何您想要的更改，它将反映在 Tableau 中。 如果 tab-pal 找不到您的首选项文件，则可能需要进行配置 - 创建一个名为 TAB_PAL_FILE 指向您的首选项文件的位置。   由   提交 /u/Ok-Frosting7364    reddit.com/r/SideProject/comments/1chh13f/tabpal_a_commandline_app_for_creating_and_editing/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1chh13f/tabpal_a_commandline_app_for_creating_and_editing/</guid>
+      <pubDate>Wed, 01 May 2024 08:31:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wanlanid，一种在分散注意力的世界中自我成长的新方式。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1chgstv/wanlanid_a_new_way_of_selfgrowth_in_a_distracting/</link>
+      <description><![CDATA[      https://preview.redd.it/xyh8zq3twrxc1.png?width=1080&amp;format=png&amp;auto=webp&amp;s=12be55cd3e22 b3949c5a25d71294c64d7621ab0a 看看https://wanlanid.com/ 你们呢想想看？我刚刚推出，需要更多反馈。 谢谢。   由   提交/u/Electrical_Mention60   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1chgstv/wanlanid_a_new_way_of_selfgrowth_in_a_distracting/</guid>
+      <pubDate>Wed, 01 May 2024 08:14:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们开发了旅行和打包应用程序 - Time2Pack</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1chgoi8/weve_built_travel_packing_app_time2pack/</link>
+      <description><![CDATA[嘿！我和我丈夫制作了一个名为 Time2Pack 的旅行和打包应用程序。目前，它仅在 Apple Store 上架，但我们正在努力尽快将其推向 Android 平台。 它有什么作用？嗯，它可以帮助你计划你的旅行，制作装箱单（根据用户的反馈这是最好的），检查你旅行的天气，并离线存储你的机票、文件和预订。另外，它还会根据您的旅行日期整理您手机中的照片。 我们即将推出更多炫酷功能，但由于我们都是全职工作，因此需要一些时间。 Time2Pack 是我们的业余项目。 您可以在此处找到该应用程序：https://apps.apple。 com/app/time2pack/id1661273747 我们的网站在这里：https://time2pack.app/  我们免费提供第一次旅行。之后，如果旅行者分享该应用程序，他/她可以获得另一次免费旅行（这有助于传播我们的应用程序），或者用户可以购买订阅。我们正在考虑根据用户的反馈更改旅行套餐的订阅。 我们真的很想听听您的想法，即使并不都是积极的。另外，请告诉我们您在最近的旅行中遇到的任何问题（痛点）以及您认为我们应该添加到应用程序中的内容！  提前致谢！   由   提交/u/Kate_Hur  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1chgoi8/weve_built_travel_packing_app_time2pack/</guid>
+      <pubDate>Wed, 01 May 2024 08:06:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>MotionShot 4 月份统计数据</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1chgeon/april_stats_for_motionshot/</link>
+      <description><![CDATA[收入 - $2,3k [🔻56%] MRR - $63 [🔺200%] 虽然收入有所下降，我对此感到很高兴，因为与三月份的病毒式发布相比，我正在寻找有机增长它的方法。根据客户的反馈，该产品也有了很大的更新。这里有一些 - 更平滑的突出显示 - 缩放指针，突出显示和显示注释 - 更好的非英语配音 - 带有预填充注释的 Chrome 扩展 ❤️ - 全屏指南播放器 - 自定义 ElevenLabs 😎 - 注释字体样式 /&gt; - 自定义品牌🤯 - 改进的中心页面🥳 - 公共路线图 - 中心页面的自定义子域😇 目前LTD有10%的折扣！抓住它并为您的产品、工具和 SOP 制定指南。为 MotionShot 新的一个月感到兴奋。干杯🍻   由   提交/u/pskd73  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1chgeon/april_stats_for_motionshot/</guid>
+      <pubDate>Wed, 01 May 2024 07:47:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>我为附近的众包咖啡店和烘焙店制作了一个应用程序（iOS、iPadOS、macOS）</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1chg5y9/i_made_an_app_for_crowdsourcing_coffee_shops_and/</link>
+      <description><![CDATA[       由   提交 /u/betzerra   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1chg5y9/i_made_an_app_for_crowdsourcing_coffee_shops_and/</guid>
+      <pubDate>Wed, 01 May 2024 07:29:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>我将对广告的不满转化为一个简单的 Chrome 扩展</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1chg24g/i_converted_my_frustration_with_ads_into_a_simple/</link>
+      <description><![CDATA[嘿骗子们，上周末我做了一个小项目，在 Chrome 浏览器中隐藏打开的浏览器标签页中的广告。 我做了这个扩展是因为我无法专注于阅读新闻、文章、帖子。被分散注意力的广告激怒了。我认为这就是广告的目的。为了分散你的注意力！  因此，我构建了一种算法，从当前选项卡中挖出广告并对其进行模糊处理，这样它就不再是我的焦点了。现在，我可以专注于网站的内容，这就是我打开网站的目的，对吧？  AdBlur 还可以在 X（以前的 Twitter）提要和评论线程中隐藏广告。 AdBlur 可在 Chrome 网上应用店中使用。您可以轻松地将 AdBlur 集成到多个 Chrome 浏览器和设备中，以实现即时自动广告屏蔽功能。这是一个付费扩展，价格为 0.99 美元/月。这涵盖了您的所有设备和浏览器。 只需在 Chrome 网上应用店中搜索“模糊广告”即可找到 AdBlur &lt; p&gt;让我知道您的想法🤔 免责声明：  AdBlur 不是英国媒体报道软件，不会跟踪您的网络活动。 AdBlur 不会使用任何分析工具来跟踪您的数据。 AdBlur 不会展示广告，并且不会将用户数据发送到任何地方。    由   提交 /u/mosyMaxine   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1chg24g/i_converted_my_frustration_with_ads_into_a_simple/</guid>
+      <pubDate>Wed, 01 May 2024 07:22:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>引导或资助</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1chfxg4/bootstrap_or_funding/</link>
+      <description><![CDATA[我正在计划建立我的初创公司，但我对风险投资不感兴趣，因为我将把某种形式的控制权交给投资者我想完全控制我的初创公司及其运作方式，我愿意引导这家初创公司直到最后，无论成功还是失败。但我想知道其他人对这个话题的看法是什么，为什么你会选择自举而不是融资，反之亦然，以及哪一种最适合初创公司创始人。我希望得到您的意见。谢谢!!!   由   提交 /u/Mikelwinemi   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1chfxg4/bootstrap_or_funding/</guid>
+      <pubDate>Wed, 01 May 2024 07:13:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mac 菜单栏的 CPU 使用率和内存监控器！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1chfr8k/a_cpu_usage_and_memory_monitor_for_your_macs_menu/</link>
+      <description><![CDATA[https:/ /apps.apple.com/au/app/mactop/id6493642225?mt=12 我为您的 Mac 工具栏构建了一个 CPU 使用情况和内存监视器，它超级轻巧，色彩丰富，有 9 种花哨的颜色。享受吧！   由   提交 /u/Big_Crow3061   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1chfr8k/a_cpu_usage_and_memory_monitor_for_your_macs_menu/</guid>
+      <pubDate>Wed, 01 May 2024 07:02:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>我构建人们真正正在寻找的产品的分步指南</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1chffwz/my_stepbystep_guide_to_build_a_product_people_are/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1chffwz/my_stepbystep_guide_to_build_a_product_people_are/</guid>
+      <pubDate>Wed, 01 May 2024 06:42:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>最先进的人工智能平台正在建设中，需要一些反馈</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1chf4hi/state_of_the_art_ai_platform_under_construction/</link>
+      <description><![CDATA[我和我的合作伙伴一直在开发一个新的人工智能平台，我很想听听您的想法。 想象一下：您可以在几分钟内为您的企业构建自定义 AI 解决方案，而无需编写代码或成为数据专家或深度学习 AI 模型。该平台连接到您现有的数据源，如数据库、营销工具甚至自定义应用程序。然后，它会分析您的数据并建议提供可操作见解的预构建仪表板和工具。这些工具可以是任何东西，从预测设备故障到了解客户行为或您能想到的任何内容。然后，您甚至可以进一步自定义这些工具，在其他系统中触发操作，并将它们直接集成到现有应用程序中 我们已经通过了 POC，目前正在努力实现 MVP，所以我非常重视您的反馈。比如您认为这个平台可以解决什么样的业务问题？或者在这样的 AI 工具中，哪些功能对您来说最重要？或者您过去是否曾为构建自定义 AI 解决方案而苦苦挣扎？    提交人    /u/Vegetable-Court6632   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1chf4hi/state_of_the_art_ai_platform_under_construction/</guid>
+      <pubDate>Wed, 01 May 2024 06:21:53 GMT</pubDate>
+    </item>
     <item>
       <title>Hotkys：各种应用程序的快捷方式集合以及用于查看和运行它们的 Raycast 扩展</title>
       <link>https://www.reddit.com/r/SideProject/comments/1cheylx/hotkys_collection_of_shortcuts_for_various_apps/</link>
@@ -15,7 +99,7 @@
     <item>
       <title>客户永远是对的还是只是要求？</title>
       <link>https://www.reddit.com/r/SideProject/comments/1chenyg/is_the_customer_always_right_or_just_demanding/</link>
-      <description><![CDATA[我们发现一些用户将我们与竞争对手进行比较。他们告诉我们添加他们拥有的功能或折扣/交易。我们有一段时间避免这样做。但我们不断被问到同样的问题。 现在我脑子里浮现出这样的想法： “客户永远是对的” 您怎么看？  在这种情况下，客户是对的吗？还是要求很高？ 你怎么知道要添加哪些功能？  &lt;!-- SC_ON - -&gt;  由   提交 /u/-maxify   [链接] [评论]]]></description>
+      <description><![CDATA[我们发现一些用户将我们与竞争对手进行比较。他们告诉我们要添加他们已有的功能或折扣/优惠。 我们暂时避免了这种情况。但我们不断被问到同样的问题。 现在我脑子里有这样的想法： “顾客永远是对的” 你怎么看？  在这种情况下，顾客是对的吗？还是要求苛刻？ 您如何知道要添加哪些功能？     提交人    /u/-maxify   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1chenyg/is_the_customer_always_right_or_just_demanding/</guid>
       <pubDate>Wed, 01 May 2024 05:53:08 GMT</pubDate>
     </item>
@@ -25,90 +109,6 @@
       <description><![CDATA[大家好，谈论人工智能，我有一些非技术朋友正在招聘技术候选人，他们不确定简历/个人资料是否符合他们的职位描述/要求，所以我写了一个小程序，利用人工智能帮助他们根据职位描述分析和评估简历，并意识到对于其他初创公司或招聘人员等非常有用，如果有人有兴趣将此项目投入生产，让我知道，这是演示视频 https://reddit.com/link /1chelzs/video/hj6aqppd7rxc1/player   由   提交 /u/maxlibin   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1chelzs/ai_resume_rater/</guid>
       <pubDate>Wed, 01 May 2024 05:49:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>习惯跟踪爱好者制作了一个习惯跟踪应用程序</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1chcbf3/habit_tracking_aficionado_made_a_habit_tracker_app/</link>
-      <description><![CDATA[        由   提交 /u/InevitableCheek7297   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1chcbf3/habit_tracking_aficionado_made_a_habit_tracker_app/</guid>
-      <pubDate>Wed, 01 May 2024 03:34:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了“AuthGPT”来帮助开发人员轻松保护自定义 GPT 操作。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1chbo9n/i_made_authgpts_to_help_developers_easily/</link>
-      <description><![CDATA[    /u/Spiritual_Ranger9377   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1chbo9n/i_made_authgpts_to_help_developers_easily/</guid>
-      <pubDate>Wed, 01 May 2024 03:00:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>构建下一个大型社交网络 - TapIn - 立即与您附近的每个人联系</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1chbdc4/building_the_next_big_social_network_tapin/</link>
-      <description><![CDATA[嗨， 我是一名开发人员，在加拿大出生和长大。新冠疫情过后，我注意到整体社交互动和人与人之间的联系有所下降。因此，我挑战自己创建一个应用程序，使人们能够实时联系，在您离开每个位置后聊天就会消失。 一旦您进入餐厅、房屋、健身房、咖啡馆等位置，或者在大学，TapIn 会自动检测您的存在，并将您添加到与附近每个人的群聊中，或者允许您开始私人对话。它的美妙之处在于，在您离开后，聊天记录会在 48 小时内自动从您过去的聊天记录中删除，因此您无需管理您的聊天记录。此外，我们直观的设计确保了每个人的用户友好性。 Apple/IOS：https:/ /apps.apple.com/us/app/tapin/id6469473366 Google/Android：https://play.google.com/store/apps/details?id=com.tapin.securim 我们已经发布了测试版，并且正在希望与用户一起加入/测试。期待与大家交流:)   由   提交/u/hodanmo15  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1chbdc4/building_the_next_big_social_network_tapin/</guid>
-      <pubDate>Wed, 01 May 2024 02:45:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>应用程序演示录制？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1chbbz0/app_demo_recording/</link>
-      <description><![CDATA[大家好，如果这不属于我，很高兴删除，但我想这里有这么多人在创建应用程序，可能有人可以伸出援手。您如何录制应用程序演示？我想在我的登陆页面上展示一个演示。我使用的是windows机器。我尝试使用 snagit 但它看起来像垃圾？    由   提交/u/khalant1989   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1chbbz0/app_demo_recording/</guid>
-      <pubDate>Wed, 01 May 2024 02:43:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>新西兰市场的简单移动套餐比较</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1chb00t/a_simple_mobile_plans_comparison_for_new_zealand/</link>
-      <description><![CDATA[      https://preview.redd.it/6idnde1n7qxc1.png?width=1772&amp;format=png&amp;auto=webp&amp;s=9a184817d2b69675f900bd4f0df69a246d07dfd1 大家好 我为新西兰市场制作了一个简单的https://www.mobileplans.co.nz/比较网站。 我在这个域名上呆了一段时间，所以我想为什么不这样做呢？ 这是大约 8 个月前的事，但现在分享它，因为它获得了一些 SEO 流量。 我的计划是为更困难的项目积累时间，因为我正在努力恢复我的编码信心。 并且还可以从中赚取一些每次点击费用，到目前为止，我在 2 年内赚了 459 新西兰元四月份的几周，因为我与该行业已有关系。   由   提交/u/dtyurkov  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1chb00t/a_simple_mobile_plans_comparison_for_new_zealand/</guid>
-      <pubDate>Wed, 01 May 2024 02:26:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个将博客文章转换成播客的工具</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ch93d0/i_created_a_tool_that_converts_blog_posts_into/</link>
-      <description><![CDATA[https://a-to-p.vercel.app 可让您将博客文章转换为播客剧集。 我正在开发一个新版本，可让您一次性转换整个博客。新版本将让您在 15 分钟内轻松从无到有，拥有一个完整的库。这是生成的剧集的链接。听一听吧！    提交人    /u/collin_code_77   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ch93d0/i_created_a_tool_that_converts_blog_posts_into/</guid>
-      <pubDate>Wed, 01 May 2024 00:55:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个应用程序来帮助患有精神疾病的患者使治疗尽可能有效</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ch7do3/i_made_an_app_to_help_patients_experiencing/</link>
-      <description><![CDATA[    /u/therapyJerry   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ch7do3/i_made_an_app_to_help_patients_experiencing/</guid>
-      <pubDate>Tue, 30 Apr 2024 23:36:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>你好哦</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ch797x/hellooo/</link>
-      <description><![CDATA[大家好，我想帮助那些不喜欢编辑或不擅长编辑的小型 YouTuber（或任何人）。我非常喜欢编辑并且很乐意帮助人们！对于视频创作来说，剪辑是非常重要的事情。所以我想帮助您制作最好的内容如果您有兴趣请告诉我（DMS 是开放的）是的，我确实收费，但几乎是最低的（我说的是最多 10 美元）如果您有兴趣，请告诉我   由   提交/u/Chickenugget0414   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ch797x/hellooo/</guid>
-      <pubDate>Tue, 30 Apr 2024 23:30:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>Feedpulse 新闻 API</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ch4kbr/feedpulse_news_api/</link>
-      <description><![CDATA[大家好，请在rapidapi hub 上查看 feedpulse 新闻 api  https://rapidapi.com/ochiengotieno304/api/feedpulse2。通过实惠的定价模式获取来自全球 50 多个国家/地区和 13 万个新闻源的最新新闻源。   由   提交 /u/_ochi   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ch4kbr/feedpulse_news_api/</guid>
-      <pubDate>Tue, 30 Apr 2024 21:36:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>一款适合内向者与其他人进行和平、愉快对话的社交媒体应用程序</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ch4elt/a_social_media_app_for_introverts_to_have/</link>
-      <description><![CDATA[       由   提交/u/robogram96  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ch4elt/a_social_media_app_for_introverts_to_have/</guid>
-      <pubDate>Tue, 30 Apr 2024 21:29:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>这个saas存在吗？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ch4b4l/does_this_saas_exists/</link>
-      <description><![CDATA[大家好，reddit 朋友们，我正在寻找可以执行此操作的 SaaS 是否有一款产品可以记录您的演练通过 Chrome 扩展进行 SAAS，您会获得一个唯一的链接，然后将其发送给您的客户，当它们打开时，它会在 Web 应用程序内为他们触发引导演练（用户指导）？  示例：我的客户在如何更改其徽标方面遇到困难，他们在我的支持系统上提出查询，我们向他们发送了我们仪表板的唯一链接，以指导他们？ 谢谢   由   提交/u/b0bx42  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ch4b4l/does_this_saas_exists/</guid>
-      <pubDate>Tue, 30 Apr 2024 21:25:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的项目真的需要一个应用程序吗？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ch48kd/do_i_really_need_an_app_for_my_project/</link>
-      <description><![CDATA[大家好， 过去两周我一直对我的项目感到沮丧。我尝试了广告、联系相关人员/群组等来接触更多用户，但没有任何帮助。 然后我开始思考，也许这个平台是错误的。如今，人们倾向于安装应用程序来使用社交媒体，而我的项目仅在网络上（https://shouterra.com） 我知道广告应该首先成为更多用户的答案，但也许我从一开始就通过推送网络做错了？难道是我想错了？另外，开发移动应用程序是一项艰苦的工作，我无法根据我目前的日常生活正确规划它。 （也许我几乎无法尝试该网站的网络视图） 您对此有何看法？   由   提交 /u/demongibi   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ch48kd/do_i_really_need_an_app_for_my_project/</guid>
-      <pubDate>Tue, 30 Apr 2024 21:23:04 GMT</pubDate>
     </item>
     </channel>
 </rss>
