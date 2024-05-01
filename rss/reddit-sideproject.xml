@@ -3,17 +3,45 @@
   <channel>
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
-    <description>r/SideProject 是一个 Reddit 子版块，用于分享和接收有关副项目的建设性反馈。</description>
-    <lastBuildDate>Wed, 01 May 2024 00:58:37 GMT</lastBuildDate>
+    <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
+    <lastBuildDate>Wed, 01 May 2024 03:15:11 GMT</lastBuildDate>
+    <item>
+      <title>我制作“AuthGPT”是为了帮助开发人员轻松保护自定义 GPT 操作。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1chbo9n/i_made_authgpts_to_help_developers_easily/</link>
+      <description><![CDATA[    /u/Spiritual_Ranger9377   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1chbo9n/i_made_authgpts_to_help_developers_easily/</guid>
+      <pubDate>Wed, 01 May 2024 03:00:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>构建下一个大型社交网络 - TapIn - 立即与您附近的每个人联系</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1chbdc4/building_the_next_big_social_network_tapin/</link>
+      <description><![CDATA[嗨， 我是一名开发人员，在加拿大出生和长大。新冠疫情过后，我注意到整体社交互动和人与人之间的联系有所下降。因此，我挑战自己创建一个应用程序，使人们能够实时联系，在您离开每个位置后聊天就会消失。 一旦您进入餐厅、房屋、健身房、咖啡馆等位置，或者在大学，TapIn 会自动检测您的存在，并将您添加到与附近每个人的群聊中，或者允许您开始私人对话。它的美妙之处在于，在您离开后，聊天记录会在 48 小时内自动从您过去的聊天记录中删除，因此您无需管理您的聊天记录。此外，我们直观的设计确保了每个人的用户友好性。 Apple/IOS：https:/ /apps.apple.com/us/app/tapin/id6469473366 Google/Android：https://play.google.com/store/apps/details?id=com.tapin.securim 我们已经发布了测试版，并且正在希望与用户一起加入/测试。期待与大家交流:)   由   提交/u/hodanmo15  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1chbdc4/building_the_next_big_social_network_tapin/</guid>
+      <pubDate>Wed, 01 May 2024 02:45:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>应用程序演示录制？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1chbbz0/app_demo_recording/</link>
+      <description><![CDATA[大家好，如果这不属于我们，很高兴删除，但我想这里有这么多人在创建应用程序，可能有人可以伸出援手。您如何录制应用程序演示？我想在我的登陆页面上展示一个演示。我使用的是windows机器。我尝试使用 snagit 但它看起来像垃圾？    由   提交/u/khalant1989   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1chbbz0/app_demo_recording/</guid>
+      <pubDate>Wed, 01 May 2024 02:43:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>新西兰市场的简单移动套餐比较</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1chb00t/a_simple_mobile_plans_comparison_for_new_zealand/</link>
+      <description><![CDATA[      https://preview.redd.it/6idnde1n7qxc1.png?width=1772&amp;format=png&amp;auto=webp&amp;s=9a184817d2b69675f900bd4f0df69a246d07dfd1 大家好 我为新西兰市场制作了一个简单的https://www.mobileplans.co.nz/比较网站。 我在这个域名上呆了一段时间，所以我想为什么不这样做呢？ 这是大约 8 个月前的事，但现在分享它，因为它获得了一些 SEO 流量。 我的计划是为更困难的项目积累时间，因为我正在努力恢复我的编码信心。 并且还可以从中赚取一些每次点击费用，到目前为止，我在 2 年内赚了 459 新西兰元四月份的几周，因为我与该行业已有关系。   由   提交/u/dtyurkov  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1chb00t/a_simple_mobile_plans_comparison_for_new_zealand/</guid>
+      <pubDate>Wed, 01 May 2024 02:26:29 GMT</pubDate>
+    </item>
     <item>
       <title>我创建了一个将博客文章转换为播客的工具</title>
       <link>https://www.reddit.com/r/SideProject/comments/1ch93d0/i_created_a_tool_that_converts_blog_posts_into/</link>
-      <description><![CDATA[https://a-to -p.vercel.app 可让您将博客文章转换为播客剧集。 我正在开发一个新版本，可让您一次性转换整个博客。新版本将让您在 15 分钟内轻松从无到有完整的库。这是生成的剧集的链接。听听吧！   由   提交/u/collin_code_77   [链接] [评论]]]></description>
+      <description><![CDATA[https://a-to-p.vercel.app 可让您将博客文章转换为播客剧集。 我正在开发一个新版本，可让您一次性转换整个博客。新版本将让您在 15 分钟内轻松从无到有，拥有一个完整的库。这是生成的剧集的链接。听一听吧！    提交人    /u/collin_code_77   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1ch93d0/i_created_a_tool_that_converts_blog_posts_into/</guid>
       <pubDate>Wed, 01 May 2024 00:55:00 GMT</pubDate>
     </item>
     <item>
-      <title>我制作了一款应用程序，帮助患有精神疾病的患者获得尽可能有效的治疗</title>
+      <title>我制作了一个应用程序来帮助患有精神疾病的患者使治疗尽可能有效</title>
       <link>https://www.reddit.com/r/SideProject/comments/1ch7do3/i_made_an_app_to_help_patients_experiencing/</link>
       <description><![CDATA[    /u/therapyJerry   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1ch7do3/i_made_an_app_to_help_patients_experiencing/</guid>
@@ -22,14 +50,14 @@
     <item>
       <title>你好哦</title>
       <link>https://www.reddit.com/r/SideProject/comments/1ch797x/hellooo/</link>
-      <description><![CDATA[大家好，我想帮助那些不喜欢编辑或不擅长编辑的小 YouTuber（或任何人）。我非常喜欢编辑，也很乐意帮助别人！在视频创作方面，编辑是一件非常重要的事情。所以我想帮助你把内容做到最好。如果你有兴趣，请告诉我（dms 是开放的）。是的，我会收费，但确实是最低的（我说的是最高 10 美元）。如果你有兴趣，请直接发信息     提交人    /u/Chickenugget0414   [链接] [评论]]]></description>
+      <description><![CDATA[大家好，我想帮助那些不喜欢编辑或不擅长编辑的小 YouTube 用户（或任何人）。我非常喜欢编辑，并且很乐意帮助人们！对于视频创作来说，剪辑是非常重要的事情。所以我想帮助您制作最好的内容如果您有兴趣请告诉我（DMS 是开放的）是的，我确实收费，但几乎是最低的（我说的是最多 10 美元）如果您有兴趣，请告诉我   由   提交 /u/Chickenugget0414   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1ch797x/hellooo/</guid>
       <pubDate>Tue, 30 Apr 2024 23:30:22 GMT</pubDate>
     </item>
     <item>
       <title>Feedpulse 新闻 API</title>
       <link>https://www.reddit.com/r/SideProject/comments/1ch4kbr/feedpulse_news_api/</link>
-      <description><![CDATA[大家好，请在rapidapi hub 上查看 feedpulse 新闻 api  https://rapidapi.com/ochiengotieno304/api/feedpulse2。通过实惠的定价模式获取来自全球 50 多个国家/地区和 13 万个新闻源的最新新闻源。   由   提交 /u/_ochi   [链接] [评论]]]></description>
+      <description><![CDATA[大家好，请在rapidapi hub 上查看 feedpulse 新闻 api  https://rapidapi.com/ochiengotieno304/api/feedpulse2。以实惠的定价模式获取来自全球 50 多个国家/地区和 13 万个新闻源的最新新闻源。   由   提交 /u/_ochi   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1ch4kbr/feedpulse_news_api/</guid>
       <pubDate>Tue, 30 Apr 2024 21:36:17 GMT</pubDate>
     </item>
@@ -55,7 +83,7 @@
       <pubDate>Tue, 30 Apr 2024 21:23:04 GMT</pubDate>
     </item>
     <item>
-      <title>实行等候名单值得吗？</title>
+      <title>实施等候名单值得吗？</title>
       <link>https://www.reddit.com/r/SideProject/comments/1ch3wm0/is_implementing_a_waiting_list_worth_it/</link>
       <description><![CDATA[ 由   提交 /u/victorv01   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1ch3wm0/is_implementing_a_waiting_list_worth_it/</guid>
@@ -64,51 +92,23 @@
     <item>
       <title>我为所有纹身爱好者构建了一个应用程序</title>
       <link>https://www.reddit.com/r/SideProject/comments/1ch3enu/i_have_build_an_app_for_all_tattoo_lovers/</link>
-      <description><![CDATA[作为一名热情的纹身爱好者，我创建了一款名为 Tatt Ai 的革命性应用程序，为所有纹身爱好者提供在线纹身服务。有了 Tatt Ai，获得完美的纹身从未如此简单。 无论您是想获得第一个纹身还是添加现有纹身，Tatt Ai 都能满足您的需求。我们的应用程序将您与来自世界各地的才华横溢的纹身艺术家联系起来，让您可以浏览他们的作品集、阅读评论，只需在手机上轻点几下即可预约。 忘掉花费数小时研究纹身店和艺术家吧——Tatt Ai 简化了流程，将您需要的一切带到您的指尖。您可以在一个方便的地方探索不同的纹身风格、尺寸和价格。 Tatt Ai 不仅可以让您更轻松地找到完美的纹身艺术家，而且还为艺术家提供了一个向更广泛的受众展示其作品的平台。这为纹身爱好者和艺术家创造了双赢的局面，使该应用成为任何想要纹身的人的必备应用。 还等什么？立即下载 Tatt Ai，开始您的纹身之旅吧！它在 Playstore 和 Appstore 上可用。无论您是经验丰富的纹身老手还是人体艺术界的新手，Tatt Ai 都能让您的纹身体验无缝且难忘。    提交者    /u/mikeluiz   [链接] [评论]]]></description>
+      <description><![CDATA[作为一名充满激情的纹身爱好者，我创建了一款名为 Tatt Ai 的革命性应用程序，为所有纹身爱好者提供在线纹身服务。有了 Tatt Ai，获得完美纹身从未如此简单。 无论您是想获得第一个纹身还是添加到现有的纹身系列中，Tatt Ai 都能满足您的需求。我们的应用程序将您与来自世界各地的才华横溢的纹身艺术家联系起来，让您只需在手机上轻按几下即可浏览他们的作品集、阅读评论并预约预约。 忘记花几个小时研究纹身吧商店和艺术家——Tatt Ai 简化了流程，让您所需的一切触手可及。您可以在一个方便的地方探索不同的纹身风格、尺寸和价格。 Tatt Ai 不仅让您更轻松地找到完美的纹身艺术家，而且还为艺术家提供了一个展示自己纹身的平台。为更广泛的受众工作。这为纹身爱好者和艺术家创造了双赢的局面，使该应用程序成为任何想要纹身的人的必备工具。 那么为什么还要等待呢？立即下载 Tatt Ai，开始您的纹身之旅！您可以在 Playstore 和 应用商店。无论您是经验丰富的纹身老手还是人体艺术领域的新手，Tatt Ai 都能让您的纹身体验无缝且难忘。    ;由   提交 /u/mikeluiz   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1ch3enu/i_have_build_an_app_for_all_tattoo_lovers/</guid>
       <pubDate>Tue, 30 Apr 2024 20:49:36 GMT</pubDate>
     </item>
     <item>
       <title>大工程VS。小项目，你需要什么开始？</title>
       <link>https://www.reddit.com/r/SideProject/comments/1ch3bhk/big_project_vs_small_project_what_do_you_need/</link>
-      <description><![CDATA[愿景 对于一个小型项目，您的愿景可能是一个简单的草图或您想要实现的目标的项目符号列表。这可以让您集中注意力，并帮助您确定所需的特定资源，例如时间、材料，或者可能只是特定的软件程序。  对于一个大项目，愿景需要更加详细。把它想象成一个蓝图。它应该概述项目的目标、阶段和潜在的挑战。这可以帮助您将大项目分解为更小的、可管理的任务。然后，您可以评估每个阶段所需的资源，无论是雇用团队、获取特定设备还是获得资金。 因此，无论规模大小，强大的愿景都是启动板！它为您的项目（无论大小）提供方向，并帮助您收集实现它所需的工具。 这有意义吗，伙计们，有什么要补充的吗？    由   提交/u/vibe_keeper  [链接] [评论]]]></description>
+      <description><![CDATA[愿景 对于一个小型项目，您的愿景可能是一个简单的草图或您想要实现的目标的项目符号列表。这可以让您集中注意力，并帮助您确定所需的特定资源，例如时间、材料，或者可能只是特定的软件程序。  对于一个大项目，愿景需要更加详细。把它想象成一个蓝图。它应该概述项目的目标、阶段和潜在的挑战。这可以帮助您将大项目分解为更小的、可管理的任务。然后，您可以评估每个阶段所需的资源，无论是雇用团队、获取特定设备还是获得资金。 因此，无论规模大小，强大的愿景都是启动板！它为您的项目（无论大小）提供方向，并帮助您收集实现项目所需的工具。 这有意义吗，伙计们，有什么要补充的吗？    由   提交/u/vibe_keeper  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1ch3bhk/big_project_vs_small_project_what_do_you_need/</guid>
       <pubDate>Tue, 30 Apr 2024 20:45:54 GMT</pubDate>
     </item>
     <item>
-      <title>对我的海报的评论！！！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ch30lv/reviews_on_my_poster/</link>
-      <description><![CDATA[      给我的海报设计打分10分？   由   提交/u/Phoenix-0008   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ch30lv/reviews_on_my_poster/</guid>
-      <pubDate>Tue, 30 Apr 2024 20:33:41 GMT</pubDate>
-    </item>
-    <item>
       <title>我正在从头开始构建一个 javascript MMO（第 1 部分）</title>
       <link>https://www.reddit.com/r/SideProject/comments/1ch26a1/im_building_a_javascript_mmo_from_scratch_part_1/</link>
-      <description><![CDATA[我正在构建一个从头开始编写的 javascript MMO 所有代码都将完全开放-源码，并将与社区一起逐步构建，这个概念让我想起了 r/Place 所以我想得到来自其他 Reddit 用户的意见。这个想法是我在中学时产生的，从那时起就一直困扰着我。 这个想法 这款游戏将围绕“反向彩票”概念。一路上的每个人都将成为赢家，除了最高层的人，他基本上将为参与彩票的每个人的奖金提供资金。工作吗？  这一切都以 BOX 为中心，这是游戏中每个人都永远关注的物品。 BOX 会以 1 张门票的价格自行启动。 当玩家购买此盒子时，他们可以在盒子上放置图像和一些文本，游戏中的每个人现在都可以看到。 然后该盒子会立即以双倍的价格重新列出。现在，该盒子已列出 2 张门票，并开始倒计时 1 小时。 现在，玩家 2 出现并从玩家 1 处购买了该盒子，这使得玩家 1 的门票翻倍。 玩家 2 现在拥有该盒子，并且可以用他们喜欢的任何东西替换图像和横幅。 这种加倍机制现在会继续下去，直到一小时的完整倒计时期间没有人购买盒子。 当这种情况发生时，留下盒子的人现在可以保留盒子作为奖杯，所以现在除了他们之外，一路上每个人的钱都增加了一倍。他们失去了所有彩票，只留下了盒子，他们赢得了（或输了）彩票，为其他人的奖金提供了资金。 此时，盒子被重新初始化，因此现在列出了一个新盒子拍卖 1 张票，彩票再次开始。  堆栈 我将使用 NodeJS 和 Express 来进行 对于前端，我将使用 React。 我们要构建的第一步是 在这里发帖是为了对概念本身进行压力测试并引起兴趣！ 这是感兴趣的人的网站： &lt; href=&quot;https://theboxmmo.com&quot;&gt;theboxmmo.com 解释这个想法的 YouTube 视频： 构建 Javascript MMO #1：想法和方法计划 Github： 前端 服务器 Discord： https ://discord.gg/UJYTW9kdDZ   由   提交 /u/b___d   [链接] [评论]]]></description>
+      <description><![CDATA[我正在构建一个从头开始编写的 javascript MMO 所有代码都将完全开放-源码，并将与社区一起逐步构建，这个概念让我想起了 r/Place 所以我想得到来自其他 Reddit 用户的意见。这个想法是我在中学时产生的，从那时起就一直困扰着我。 这个想法 这款游戏将围绕“反向彩票”概念。一路上的每个人都将成为赢家，除了最高层的人，他基本上将为参与彩票的每个人的奖金提供资金。工作吗？  这一切都以 BOX 为中心，这是游戏中每个人都永远关注的物品。 BOX 会以 1 张门票的价格自行启动。 当玩家购买此盒子时，他们可以在盒子上放置图像和一些文本，游戏中的每个人现在都可以看到。 然后该盒子会立即以双倍的价格重新列出。现在，该盒子已列出 2 张门票，并开始倒计时 1 小时。 现在，玩家 2 出现并从玩家 1 处购买了该盒子，这使得玩家 1 的门票翻倍。 玩家 2 现在拥有该盒子，并且可以用他们喜欢的任何东西替换图像和横幅。 这种加倍机制现在会继续下去，直到一小时的完整倒计时期间没有人购买盒子。 当这种情况发生时，留下盒子的人现在可以保留盒子作为战利品，所以现在除了他们之外，一路上每个人的钱都增加了一倍。他们失去了所有彩票，只留下了盒子，他们赢得了（或输了）彩票，为其他人的奖金提供了资金。 此时，盒子被重新初始化，因此现在列出了一个新盒子拍卖 1 张票，彩票再次开始。  堆栈 我将使用 NodeJS 和 Express 来进行 对于前端，我将使用 React。 我们要构建的第一步是 在这里发帖是为了对概念本身进行压力测试并引起兴趣！ 这是感兴趣的人的网站： &lt; href=&quot;https://theboxmmo.com&quot;&gt;theboxmmo.com 解释这个想法的 YouTube 视频： 构建 Javascript MMO #1：想法和方法计划 Github： 前端 服务器 Discord： https ://discord.gg/UJYTW9kdDZ   由   提交 /u/b___d   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1ch26a1/im_building_a_javascript_mmo_from_scratch_part_1/</guid>
       <pubDate>Tue, 30 Apr 2024 19:59:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>在我为我的业余项目制作的登陆页面上寻求反馈</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ch1mwy/seeking_feedback_on_the_landing_page_i_made_for/</link>
-      <description><![CDATA[大家好， 我已经间歇性地从事我的业余项目一年多了，而且我非常即将开始寻找 Beta 测试人员来收集有关产品的第一轮反馈。 业余项目的简要概述：我正在开发一个应用程序，旨在帮助有抱负的产品经理学习必要的理论 作为 PM 工作了近十年，当我看到“产品管理”训练营向想要进入 PM 职业的人收取的流程和费用时，我真的感到很沮丧路径，或希望获得新技能的产品经理。因此，我的任务是创建一个简单的应用程序，可以以更小的成本和更灵活的方式教授其中一些技能。 简而言之，如果您能提供在我开始寻找愿意对我的应用程序进行 Beta 测试的人员之前，请在我的目标网页上提供一些反馈。 以下是链接：https:/ /productme.org 干杯！   由   提交 /u/pmmod   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ch1mwy/seeking_feedback_on_the_landing_page_i_made_for/</guid>
-      <pubDate>Tue, 30 Apr 2024 19:37:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找有关我的自我提升应用程序的想法反馈</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ch1d1d/looking_for_idea_feedback_on_my_self_improvement/</link>
-      <description><![CDATA[所以我创建了这个名为 Improvescape 的应用程序，这是一个自我改进的应用程序，可以构建小型社区，让您通过友好的竞争对自己的目标负责。你每天设定三个想要完​​成的目标。然后你拍一张完成该目标的照片和标题，然后选择你完成的目标，你点击输入日志，你现在在你的小组排行榜上得到一分，你的日志会被发送到群聊中，你的所有朋友都会收到你完成的通知你的目标。我两个月前发布了这个应用程序，但我们的增长一直停滞不前。我们所有的增长都是有机的，我们很快就会实现盈利。不过我想知道你们对这个想法有何看法   由   提交 /u/InitialQuote5295   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ch1d1d/looking_for_idea_feedback_on_my_self_improvement/</guid>
-      <pubDate>Tue, 30 Apr 2024 19:25:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>一个管理你的愿望清单的应用程序</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ch08eq/an_app_to_manage_your_bucket_list/</link>
-      <description><![CDATA[制作了一个名为 Lifelist 的应用程序。由于缺乏动力而放弃了以下是它的特点。   创建、编辑和删除存储桶列表 根据类别和完成状态过滤存储桶 将存储桶与 Google 日历同步 下载 PDF 格式的存储桶 根据“范围”对存储桶列表进行分类 -Streak 功能可激励用户执行日常存储桶 引入“模板存储桶”，用户可以在自己的存储桶中进行克隆帐户 多语言支持  发帖看看是否值得继续。我对这个应用程序有很多想法。    由   提交/u/footballforus  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ch08eq/an_app_to_manage_your_bucket_list/</guid>
-      <pubDate>Tue, 30 Apr 2024 18:39:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
