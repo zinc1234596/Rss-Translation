@@ -4,111 +4,111 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个 Reddit 子版块，用于分享和接收有关副项目的建设性反馈。</description>
-    <lastBuildDate>Thu, 02 May 2024 15:13:12 GMT</lastBuildDate>
-    <item>
-      <title>我为社交媒体制作了慧俪轻体。将相似的帖子分组并总结为一句话。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cihgzw/i_made_weight_watchers_for_social_media_groups/</link>
-      <description><![CDATA[       由   提交 /u/shortsnipadm   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cihgzw/i_made_weight_watchers_for_social_media_groups/</guid>
-      <pubDate>Thu, 02 May 2024 14:45:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 Node.js 中生成任何视频的免费转录</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cihc41/generate_free_transcript_of_any_video_in_nodejs/</link>
-      <description><![CDATA[在这个项目中，我使用了 CPU 版本的 Whisper 自动语音识别 (ASR) 模型。您可以相应地选择型号以达到不同的性能水平。最近，我还添加了 CUDA 支持。 https://github.com/ChetanXpro/nodejs-whisper   由   提交 /u/Tinku_raja   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cihc41/generate_free_transcript_of_any_video_in_nodejs/</guid>
-      <pubDate>Thu, 02 May 2024 14:39:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的第一个 SaaS 产品如何在一个月内获得超过 1.5k 名用户和 150 名付费客户的？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cih6cx/how_did_i_achieve_over_15k_users_and_150_paying/</link>
-      <description><![CDATA[一个月前，我决定在 Product Hunt 上推出我的产品，这是一个流行的新兴科技创业平台。 在发布日，我准备了一份关于突出功能的详细介绍，以及一个应用程序工作原理的现场演示视频。这种对细节的关注帮助我的产品迅速引起关注，从第一天开始，社区就开始出现积极的评论。此外，我们还向那些在 Product Hunt 上对我们做出积极回应的人发送了 30% 的折扣代码。 在发布后的一个月内，该产品取得了令人印象深刻的数字，拥有超过 1,500 个注册用户和超过 150 个付费用户。这种快速增长不仅是成功发布活动的结果，也是电子书阅读社区中真正需求的证据。 从这个过程中，我学到了三个教训： 1) 充分的准备是成功发布日的关键；2) 与社区的真诚互动可以改善产品和关系； 3）监控和分析结果以调整策略，使产品更符合用户需求。 这是我用我的第一个 SaaS 产品所取得的成就，如果我不尝试的话，我想我不可能实现这个成就。    submitted by    /u/itman89   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cih6cx/how_did_i_achieve_over_15k_users_and_150_paying/</guid>
-      <pubDate>Thu, 02 May 2024 14:32:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>我正在制作 Windows 桌面小部件应用程序！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cih35g/i_am_making_a_windows_desktop_widget_application/</link>
-      <description><![CDATA[我已经开发这个应用程序一个月了，刚刚完成了网站的重新制作。我的目标是在未来的某个时候通过使我的应用程序更易于使用并具有更广泛的小部件定制功能来与 rainmeter 相媲美。  我真的希望为应用程序和网站提供尽可能详细的反馈： https://drimiteros.github.io/MyWidget.github.io/ 谢谢！   由   提交/u/_slDev_  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cih35g/i_am_making_a_windows_desktop_widget_application/</guid>
-      <pubDate>Thu, 02 May 2024 14:28:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>我构建了一个开源快速阅读器，优先考虑隐私、用户界面和可定制性</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cif2nw/i_built_an_opensource_speed_reader_that/</link>
-      <description><![CDATA[      我创建了一个快速阅读网络应用程序，它将所有内容本地存储在浏览器的存储中。该应用程序称为 Axym，我将其构建为付费应用程序的直接替代方案 - 我不想支付替代方案的每月订阅费用。 直接测试或继续阅读其功能。  它是自托管的，并且有一个docker存储库。如果您对代码感兴趣或想记住该项目，在 GitHub 上加注星标. UI 我非常相信彻底的简单性，这就是为什么 UI 默认隐藏所有非必要信息并具有非常重要的功能。微妙的强调色。这是它的样子： https ://preview.redd.it/9v4yjozvc0yc1.png?width=1370&amp;format=png&amp;auto=webp&amp;s=bd3125c627f39378536d54ad743bc68071a3f15d 设置面板：&lt; /p&gt; 目前有 9 个设置选项。您可以选择 6 种不同的字体（Open Sans、Merriweather、Poppins、Inter、InterTight、Roboto、RobotoCondensed）。如果您愿意，我可以添加更多设置/字体。 https://preview.redd.it/1wnq9sh1d0yc1.png?width=819&amp;format=png&amp;auto=webp&amp;s=315356bcbe7a4d19f0559f213be9a5659db94 db3 导入选项： 您可以从 URL、上传文件、剪贴板或通过 GET 请求导入文本。新文本部分如下所示： https://preview.redd.it/ix7h6sp4e0yc1.png?width=825&amp;format=png&amp;auto=webp&amp;s=153b30affd7631824e12b26825e9a90de6d664ee 保存的文本面板 您的所有文本以及您的设置都存储在浏览器的本地存储中。该应用程序可以处理最大 100Mb 的文件，但对于大于 5Mb 的文件，您必须增加浏览器的本地存储限制。文本的状态（例如您的位置）会实时更新，并且其来源也会保存。 https://preview.redd.it/jz5c2qrpf0yc1.png?width=1488&amp;format=png&amp;auto=webp&amp;s=3e14ad0ce205754 2152b31fc65c899fcb3dceeaa 感谢您的阅读。如果您有任何问题，或者想查看其他功能，在此处快速发帖&lt;     由   提交 /u/Pristine-Adeptness-1   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cif2nw/i_built_an_opensource_speed_reader_that/</guid>
-      <pubDate>Thu, 02 May 2024 13:01:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了扭曲的派对游戏。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cieydx/i_made_twisted_party_game/</link>
-      <description><![CDATA[       由   提交 /u/Infinite-Nobody-8505   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cieydx/i_made_twisted_party_game/</guid>
-      <pubDate>Thu, 02 May 2024 12:55:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的第一个开源 React 库发布！ BiteConsent 简介</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cie00u/my_first_opensource_react_library_release/</link>
-      <description><![CDATA[       由   提交/u/shiro90  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cie00u/my_first_opensource_react_library_release/</guid>
-      <pubDate>Thu, 02 May 2024 12:06:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>我构建了一个愚蠢的网络应用程序，它可以给你赞美</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cidy7w/i_built_a_silly_web_app_which_gives_you/</link>
-      <description><![CDATA[  由    /u/0_human0  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cidy7w/i_built_a_silly_web_app_which_gives_you/</guid>
-      <pubDate>Thu, 02 May 2024 12:04:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个应用程序来通过 Reddit 验证商业想法</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cidx7k/i_made_an_app_to_validate_business_ideas_with/</link>
-      <description><![CDATA[大家好， 我是一名 21 岁的学生，目前正在构建项目并在大学退学后学习创业知识。 &lt; p&gt;我一直在努力想出人们真正在寻找的商业想法，尤其是在我的旅程的开始阶段。 人们说“抓紧自己的痒”，这就是我的想法。但我确实找不到当前解决方案无法解决的问题。我总是在构建那些突然想到的项目，但最终没有人使用它们。 我开始发现 Reddit 是一个隐藏的宝石，可以倾听并找出人们的痛点和问题。正在谈论他们生活中的话题。 你几乎可以找到每个领域的 Reddit 子版块。在对某个特定的 Reddit 子版块有了一定的了解之后，你肯定可以找到该领域的人们所共有的一些问题。 我发现自己一直在浏览 Reddit。我花了一些时间来过滤掉那些我正在寻找的人们抱怨某些事情的帖子/评论。 所以我想出了这个想法：为什么不构建一个工具来接受你的想法和搜索自动获取相关帖子/评论，为您生成分析并提供来源？ 然后我花了两周时间构建该工具：IdeaWIP.com 。现在，每当我心中有了一个想法，但不确定人们是否遇到我的想法可以解决的问题时，我会在几分钟内得到分析，而不是在 Reddit 上花费几个小时。 所以，总的来说，这就是我“验证”的方式。我的想法。 感谢您的阅读！ 我也很好奇您如何找到您的产品创意以及如何在构建它们之前对其进行验证。 我在这里专心等待， 埃文。   由   提交/u/evanyang0202   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cidx7k/i_made_an_app_to_validate_business_ideas_with/</guid>
-      <pubDate>Thu, 02 May 2024 12:02:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>对那些已经启动了副项目的人的问题</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ciduol/question_to_those_who_have_launched_side_projects/</link>
-      <description><![CDATA[我现在正在做几个副业项目。当我取得进步时，更好的或不同的想法就会出现，产品也会时不时地发生变化。我感觉自己陷入了无限循环。对于那些已经启动了副业项目的人来说，什么时候或什么时刻让您决定“这就足够了”？   由   提交 /u/DuckStriking7742   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ciduol/question_to_those_who_have_launched_side_projects/</guid>
-      <pubDate>Thu, 02 May 2024 11:59:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>您希望在词汇训练器中看到哪些功能？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cidru2/which_features_would_you_like_to_see_in_a_vocab/</link>
-      <description><![CDATA[过去两个月我一直在开发词汇训练器。对于那些使用类似于 Quizlet 等产品的人来说，哪些功能对您来说特别重要？ 我的应用程序最卖点之一可能是价格，它是终身 99 克拉，而不是像 7 美元/月那样Quizlet 的收费标准。 我很想听听您对此主题的想法！ PS：如果有人想查看该应用程序，请点击以下链接：https://apps.apple.com/us/app/turboterms-vocab-trainer/id6479650868 ?l=en-US   由   提交 /u/TheBeaconCrafter   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cidru2/which_features_would_you_like_to_see_in_a_vocab/</guid>
-      <pubDate>Thu, 02 May 2024 11:54:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个超级简单的基于人工智能的优先待办事项列表应用程序！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cidkd5/i_made_a_super_easy_ai_powered_prioritization/</link>
-      <description><![CDATA[       由   提交/u/Tanybos5  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cidkd5/i_made_a_super_easy_ai_powered_prioritization/</guid>
-      <pubDate>Thu, 02 May 2024 11:44:02 GMT</pubDate>
-    </item>
+    <lastBuildDate>Thu, 02 May 2024 18:16:25 GMT</lastBuildDate>
     <item>
       <title>打造您一直想要的营销副驾驶！ ;)</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cidhlj/building_a_marketing_copilot_that_you_always/</link>
-      <description><![CDATA[WaxWing 今天在 Product Hunt 上推出！ 😍我们的 MarketingGPT 配备了 1000 个案例研究、趋势和您的见解，像专业人士一样指导！  500 多种营销策略 详细的 SOP 您的上下文感知副驾驶 与网站和网站集成工具  请查看并提供您的支持和反馈 → https://www.producthunt .com/posts/waxwing非常感谢！ ♥️   由   提交 /u/Soggy_Presence9621   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cidhlj/building_a_marketing_copilot_that_you_always/</guid>
-      <pubDate>Thu, 02 May 2024 11:40:00 GMT</pubDate>
+      <link>https://www.reddit.com/r/SideProject/comments/1cimjcc/building_a_marketing_copilot_that_you_always/</link>
+      <description><![CDATA[WaxWing 今天在 Product Hunt 上推出！ 😍 我们的 MarketingGPT 配备了数千个案例研究、趋势和您的见解，像专业人士一样提供指导！   500 多种营销策略 详细的 SOP  您的上下文感知副驾驶 与网站和网站集成工具   请查看并提供您的支持和反馈 → https://www.producthunt .com/posts/waxwing  非常感谢！ ♥️   由   提交 /u/Soggy_Presence9621   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cimjcc/building_a_marketing_copilot_that_you_always/</guid>
+      <pubDate>Thu, 02 May 2024 18:11:44 GMT</pubDate>
     </item>
     <item>
-      <title>我制作了一个应用程序，可以通过回答几个问题来帮助您构建微型网站</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cidb7w/i_made_an_app_that_helps_you_build_a_microsite_by/</link>
-      <description><![CDATA[   /u/morion4000  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cidb7w/i_made_an_app_that_helps_you_build_a_microsite_by/</guid>
-      <pubDate>Thu, 02 May 2024 11:30:32 GMT</pubDate>
+      <title>我终于做到了！我迈出了第一步</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cimg9y/i_finally_did_it_i_made_the_first_step/</link>
+      <description><![CDATA[大家好， 经过多年的自学开发，我决定准备推出我的第一个应用程序。 我正在为 SaaS 应用程序和电子商务构建 Symfony 样板。我正在为新项目添加我希望拥有的一切。付款、用户身份验证、带有表格过滤的管理面板、几个主题等。  我购买了域名并设置了服务器。 （这是第一步😅）我一直梦想通过我构建的 SaaS 谋生。  我已经准备好进行开发了，但我很想听听你们对样板的看法？您希望我补充哪些您以前没有见过的内容？在处理此类 SaaS 时，您喜欢什么、讨厌什么？  欢迎并感谢任何其他反馈！别对我太客气！  祝大家好运！    由   提交 /u/Ok_Remove3123   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cimg9y/i_finally_did_it_i_made_the_first_step/</guid>
+      <pubDate>Thu, 02 May 2024 18:08:21 GMT</pubDate>
     </item>
     <item>
-      <title>我为 Apple 设备编写了一个免费的 GeoGuessr 游戏</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cid9z7/i_coded_a_free_geoguessr_game_for_apple_devices/</link>
-      <description><![CDATA[    &lt; /a&gt;  我刚刚在 AppStore 上发布了我的新应用程序 TurboGuessr。我花了很多时间编写这个代码，因为我之前只使用过 Flutter，而 Swift 对我来说是全新的。 该应用程序的工作方式与 GeoGuessr 的工作方式相同 - 你会得到一个“街景”图像（我实际上使用的是 Apple LookAround，它几乎相同，但不需要我花费任何费用），你必须猜测这张图像是在哪里拍摄的。你可以移动并找到线索来识别位置。 大多数像这样的开发者喜欢对此类游戏收取订阅费，但因为我不会因为你玩这个而产生任何经常性费用游戏我决定让所有人和所有其他国家/地区免费使用全球模式，一次购买 1.99 美元，希望可以覆盖 100 美元的苹果开发计划的费用。 如果你想看看，这里是链接：https://apps.apple.com/de/app /turboguessr-guess-locations/id6480343469?l=en-US   由   提交/u/TheBeaconCrafter  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cid9z7/i_coded_a_free_geoguessr_game_for_apple_devices/</guid>
-      <pubDate>Thu, 02 May 2024 11:28:43 GMT</pubDate>
+      <title>关注 2024 年欧洲杯的应用程序。网站、Android + IOS 应用程序。分享您的想法。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cimcwy/app_to_follow_euro_2024_championship_website/</link>
+      <description><![CDATA[        由    /u/LarsSven  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cimcwy/app_to_follow_euro_2024_championship_website/</guid>
+      <pubDate>Thu, 02 May 2024 18:04:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>你们对 SaaS 终身优惠有何看法？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cim3wg/how_do_you_guys_feel_about_lifetime_deals_for_saas/</link>
+      <description><![CDATA[大家好!! 我们创建了一个名为 Next Starter AI 的样板，它可以加快您的 SaaS 流程并使其变得简单市场。我们最初的吸引力非常成功，但我们一直在研究如何吸引更多人。在此过程中，我们遇到了各种终身优惠平台，例如 Appsumo。作为买家，您对 SaaS 终身优惠有何看法？有人购买过并长期使用该产品吗？ 如果您想在这里查看我们的产品，请访问：https://appsumo.com/products/next-starter-ai?utm_source=partner-link&amp;utm_medium=referral&amp;utm_campaign=partner- 210696   由   提交/u/SpringWater200  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cim3wg/how_do_you_guys_feel_about_lifetime_deals_for_saas/</guid>
+      <pubDate>Thu, 02 May 2024 17:54:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>Prattl——LinkedIn 人工智能助理</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cilsbi/prattl_ai_assistant_for_linkedin/</link>
+      <description><![CDATA[       https://www.prattl.ai Chrome 网上应用店：https://chromewebstore.google.com/detail/prattl-ai/jkefaopmikfappkiohamgddppldifkcn 这是我从一直启动到制作的第一个个人项目。欢迎反馈和问题！ https ://preview.redd.it/hr2qpc4hv1yc1.png?width=1280&amp;format=png&amp;auto=webp&amp;s=1a82f640fcbfdcef0af2f4835861a9c8ac127f09  &amp;# 32；由   提交 /u/zoeboym   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cilsbi/prattl_ai_assistant_for_linkedin/</guid>
+      <pubDate>Thu, 02 May 2024 17:41:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>YouTube 播放列表随机发生器</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cilb7i/youtube_playlist_randomizer/</link>
+      <description><![CDATA[       由   提交/u/Life_Ad_2142   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cilb7i/youtube_playlist_randomizer/</guid>
+      <pubDate>Thu, 02 May 2024 17:21:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>更快地构建 AI SaaS：使用预构建的 AI 应用程序 - 分享您的想法</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cil928/build_ai_saas_faster_with_prebuilt_ai_apps_share/</link>
+      <description><![CDATA[我们已经构建了一个 Next.js &amp; Supabase 样板以及一些预构建的 AI 应用程序。目标是帮助人们快速设置代码来构建他们的想法原型，然后将其转化为人工智能应用程序。我们目前正在使用 OpenAI。在代码包中，我们提供了构建 SaaS 所需的一切，如网站模板、电子邮件、用户身份验证、支付等，以及 6 个流行的 AI 应用程序，这些应用程序经过优化，可轻松定制。 我们即将推出关于 Product Hunt，因此我们希望获得有关该产品以及发布的一些反馈。 如果您能提供帮助，请发表评论，我将回复我们的产品链接。   由   提交/u/phobase  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cil928/build_ai_saas_faster_with_prebuilt_ai_apps_share/</guid>
+      <pubDate>Thu, 02 May 2024 17:18:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了这个 Leetcode 扩展，为任何问题提供交互式演练</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cil2q9/i_made_this_leetcode_extension_that_provides/</link>
+      <description><![CDATA[免费！您可以在此处找到它。 该扩展程序可以帮助您：  理解问题 制定计划 编写解决方案  我设计了导师，以便它能够解决您遇到的困难大多数人都使用这些信息来生成像这样的个性化问题分解（爬楼梯 - 分解) https://reddit.com/link/1cil2q9/video/0b34e23mp1yc1/玩家   由   提交 /u/with_mocha   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cil2q9/i_made_this_leetcode_extension_that_provides/</guid>
+      <pubDate>Thu, 02 May 2024 17:11:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个带有人工智能代理的搜索引擎 - 为新演示寻找测试用户</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cikmu9/i_made_a_search_engine_with_ai_agents_looking_for/</link>
+      <description><![CDATA[    /u/Inevitable-Baker-504   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cikmu9/i_made_a_search_engine_with_ai_agents_looking_for/</guid>
+      <pubDate>Thu, 02 May 2024 16:53:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>我构建了一个 CLI 工具来统一 JavaScript 包管理器和运行时</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cijuzy/i_built_a_cli_tool_to_unify_javascript_package/</link>
+      <description><![CDATA[大家好！ 我很高兴分享 px，一个小型轻量级 CLI 工具用于将 JavaScript 包管理器和运行时统一在一个工具中！ https://pxcli.com/ 如今，我们有多个包管理器（以及现在流行的运行时），而且这很常见开发人员在处理多个项目时每天都会使用多个工具。这会在切换项目时造成混乱，特别是在管理依赖项或运行 npm 脚本时。 因此，我创建了 px。它检测正在使用的包管理器并将命令转发到正确的工具。这样，您在处理不同项目时无需更改工作流程。 它还附带了一些 DX 改进，例如自动 Typescript 类型管理和自动 运行 脚本使用 npm 时（例如 px dev 而不是 npm run dev）。 请让我知道您的想法，欢迎任何反馈！ 🤗 https://pxcli.com/   由   提交 /u/SolidIncident5982   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cijuzy/i_built_a_cli_tool_to_unify_javascript_package/</guid>
+      <pubDate>Thu, 02 May 2024 16:21:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>启动了我的独立 SaaS 项目 - IncidentHub</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cijqiz/launched_my_solo_saas_project_incidenthub/</link>
+      <description><![CDATA[它是一个监控第三方云和 SaaS 服务并通知您的工具，主要面向 techops/SRE 人员。我根据过去的工作经验构建了这个工具，我觉得需要这样一个工具，并且必须对修补在一起的脚本感到满意。  https://incidenthub.cloud/ 我是这个项目的独立开发者。我职业生涯的大部分时间都在后端开发/运维，所以我的前端技能还不是很好，这在 UI 中可能很明显:) 如果你尝试一下，请分享任何反馈 - 全部感谢反馈。谢谢。 它也在 ProductHunt 上 - https://www.producthunt.com/products/incidenthub   由   提交/u/Best-Repair762  /u/Best-Repair762 reddit.com/r/SideProject/comments/1cijqiz/launched_my_solo_saas_project_incidenthub/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cijqiz/launched_my_solo_saas_project_incidenthub/</guid>
+      <pubDate>Thu, 02 May 2024 16:16:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>我做了一项分析投资组合的服务 - 友善地烘烤它</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cijm14/i_made_a_service_that_analyzes_investment/</link>
+      <description><![CDATA[最近被解雇后，我和 2 个朋友有时间从事这个工作 3 个多月了。  该服务名为 Insightfol.io，它应该可以帮助您更好地了解您的投资组合。理想情况下，我们将帮助用户了解他们的投资是否符合他们的目标、风险偏好或他们是否支付过多。最重要的是，我们使用人工智能（希望）使其更容易理解。 尝试一下，我想了解我们是否走在正确的道路上！ &lt; /div&gt;  由   提交/u/mmauer0102  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cijm14/i_made_a_service_that_analyzes_investment/</guid>
+      <pubDate>Thu, 02 May 2024 16:11:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>我做了一个AI创意写作工具</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cijew0/i_made_an_ai_creative_writing_tool/</link>
+      <description><![CDATA[       由   提交 /u/CallFromMargin   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cijew0/i_made_an_ai_creative_writing_tool/</guid>
+      <pubDate>Thu, 02 May 2024 16:03:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>k8sAI - 我的 Kubernetes 开源 GPT CLI 工具</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ciivhl/k8sai_my_opensource_gpt_cli_tool_for_kubernetes/</link>
+      <description><![CDATA[我想分享一个我一直在从事的名为 k8sAI 的开源项目。它是一位个人 AI Kubernetes 专家，可以回答有关集群的问题、建议命令，甚至执行相关的 kubectl 命令来帮助诊断集群并提出修复建议，所有这些都可以在 CLI 中完成！  k8s，这个工具确实简化了我的工作流程。我可以询问有关我的集群的问题，k8sAI 将运行 kubectl 命令来收集信息，然后回答这些问题。它还为我在我的集​​群中发现了几个问题 - 我所要做的就是将其指向正确的方向。我真的很喜欢制作和使用这个，所以我认为它对其他人可能有用。额外的好处是，您不再需要复制并粘贴到 ChatGPT 中！ k8sAI 使用只读 kubectl 命令运行，以确保您的集群保持安全。 您所需要的一切是 OpenAI API 密钥和有效的 kubectl 配置。使用以下方式开始与 k8sAI 聊天： $ pip install k8sAI $ k8sAI chat  或解决问题：  $ k8sAI fix -p=&quot;查看测试命名空间中失败的 pod&quot;  很想得到你们的任何反馈！ 这是仓库&lt; /a&gt; 适合任何想看的人   由   提交/u/Wild_Plantain528   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ciivhl/k8sai_my_opensource_gpt_cli_tool_for_kubernetes/</guid>
+      <pubDate>Thu, 02 May 2024 15:42:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>终于推出MVP了</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ciir6m/finally_launched_the_mvp/</link>
+      <description><![CDATA[https://seniorai.ai 构建软件并让人工智能了解整个项目。寻找人们尝试 MVP 并提供反馈。 （免费） 通常，当你处理代码时，你会处理别人的代码，尤其是在公司，你要么需要了解它（这需要很多文件意识），要么你需要一个初级人员来了解项目，或者您需要系统设计级别的建议，或者您需要知道，如果您进行某种更改，它不会产生您目前不知道的错误，这样的例子不胜枚举。我一开始是为自己建造的。它确实有很大帮助。   由   提交/u/Emotional_Thought_99   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ciir6m/finally_launched_the_mvp/</guid>
+      <pubDate>Thu, 02 May 2024 15:37:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
