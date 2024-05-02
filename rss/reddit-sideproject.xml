@@ -3,8 +3,64 @@
   <channel>
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
-    <description>r/SideProject 是一个 Reddit 子版块，用于分享和接收有关副项目的建设性反馈。</description>
-    <lastBuildDate>Thu, 02 May 2024 18:16:25 GMT</lastBuildDate>
+    <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
+    <lastBuildDate>Thu, 02 May 2024 21:11:25 GMT</lastBuildDate>
+    <item>
+      <title>我为 SaaS 创始人制作了一个减少客户流失的工具</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ciqo20/i_made_a_churn_reducer_for_saas_founders/</link>
+      <description><![CDATA[作为一名 SaaS 创始人，我在客户流失方面遇到了很多麻烦： ❌ 客户流失的原因是什么？  ❌我需要改进什么才能留住他们？ ❌我可以提出什么建议来阻止他们离开？ ❌等等。  面对所有这些问题，我决定实施一个解决方案并与其他人分享。 它允许您创建取消流程： ✅了解客户取消的原因 ✅ 为他们提供一些东西来阻止他们离开 ✅ 在他们取消时接收反馈 ✅ 接收 AI 改进建议 ✅ 全部无需编码 我希望这会有所帮助。 您可以在 https: //ehurn.com   由   提交 /u/Mammoth-Doughnut-713   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ciqo20/i_made_a_churn_reducer_for_saas_founders/</guid>
+      <pubDate>Thu, 02 May 2024 20:58:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>我正在构建一个名为 Aaro 的移动优先个人知识管理 (PKM) 工具。它可以通过插件无限扩展（可以相互扩展），从而可以轻松定制您的系统。所有数据都存储在可探索的图形数据库中，并且可以与 GPT 集成以提供指导。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cipl67/im_building_a_mobilefirst_personal_knowledge/</link>
+      <description><![CDATA[    /u/zuluana   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cipl67/im_building_a_mobilefirst_personal_knowledge/</guid>
+      <pubDate>Thu, 02 May 2024 20:14:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>验证或探讨我的合法方“药物”替代产品创意</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cioyds/validate_or_roast_my_legal_party_drug_replacement/</link>
+      <description><![CDATA[我的灵感来自 https://www.madmonq。 gg/ 来取代和教育那些参加狂欢派对或聚会时使用 MDMA 或其他物质等药物的社会。由于派对药物通常含有未知或有害的掺杂剂，可能导致严重的健康问题，包括服用过量。然而，我的想法是推出一种专为狂欢和派对爱好者设计的合法非处方补充剂。 与许多随着时间的推移而降低精神和身体健康的药物不同，这不仅可以促进持久的能量和更好的效果不仅能补水，还能支持认知健康，与其他只注重能量和“冲刺”功能的派对补充剂相比，它是一款出色的产品。和欣快感。  关键成分可能是以下成分的组合：  咖啡因 维生素 B 和 C L-茶氨酸 牛磺酸 电解质 镁  TL;DR：一种合法的非处方咖啡因补充剂在狂欢和派对上安全地增强能量，这是 MDMA 的更健康替代品。   由   提交/u/alfredosaucey123   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cioyds/validate_or_roast_my_legal_party_drug_replacement/</guid>
+      <pubDate>Thu, 02 May 2024 19:49:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>用于构建托管 SaaS 的私人聊天机器人的技术堆栈</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ciovmt/tech_stack_for_building_a_private_chatbot_hosting/</link>
+      <description><![CDATA[我和一个朋友决定为不使用公共 LLM 的私人机构构建一个私人托管聊天机器人服务，因为它们涉及公共信息。我们仍在决定技术堆栈，目前还不确定使用什么。  对于堆栈，我们的想法如下：   考虑学习和使用 Next.js，我喜欢拥有无服务器后端的想法。最有可能将所有这些托管在 Vercel 上。我有使用 Flask 和在 Render 上托管后端服务器的经验。我认为迁移到 Next.js 对于这个项目来说会更好。  PostgreSQL 作为数据库，也许使用 Neon 来托管它。我认为将 prisma 与此结合使用将是一个很好的组合。我目前在 Railway 上托管我的数据库，因为它非常便宜，并且认为切换到另一个平台对于这个项目来说可能是一个更好的主意。 出于安全考虑，我正在考虑 Clerk，我听说过一些好消息。绝对不想实施我们自己的安全措施，我们都 100% 都不够好。 前端使用 React+Next，使用 tailwind css。我们在前端工作/设计方面都很糟糕，所以我认为顺风会很有帮助。事实证明，它对我当前的项目非常有帮助。 用于 SMTP 服务的 Mailgun，可能是 sendgrid，但目前使用 Mailgun  如果我缺少任何内容，请告诉我知道。顺便说一句，如果我们看起来缺乏经验，那是因为我们都刚刚大学毕业，所以至少可以说我们不是最经验丰富的开发人员。   由   提交/u/westesolutions  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ciovmt/tech_stack_for_building_a_private_chatbot_hosting/</guid>
+      <pubDate>Thu, 02 May 2024 19:46:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>经过 2 年的开发和 3 次调整，发布了代码预审工具的第一个版本。需要您的反馈。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cio55n/released_1st_version_of_code_prereview_tool_after/</link>
+      <description><![CDATA[   /u/hov26  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cio55n/released_1st_version_of_code_prereview_tool_after/</guid>
+      <pubDate>Thu, 02 May 2024 19:17:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个应用程序，让写电子邮件变得非常有趣</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cio2zc/i_made_an_app_that_makes_writing_emails_actually/</link>
+      <description><![CDATA[   /u/sgasser88  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cio2zc/i_made_an_app_that_makes_writing_emails_actually/</guid>
+      <pubDate>Thu, 02 May 2024 19:14:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>单一仪表板中的 LLM 技术报告</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cinjz8/llm_technical_reports_in_a_single_dashboard/</link>
+      <description><![CDATA[  由    /u/v4nn4  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cinjz8/llm_technical_reports_in_a_single_dashboard/</guid>
+      <pubDate>Thu, 02 May 2024 18:53:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了一个小网站。用于上传文件和匿名共享！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cin01l/i_created_a_small_website_for_uploading_files_and/</link>
+      <description><![CDATA[拖放、存储和共享！ 无需注册的文件共享服务。 - 匿名！ 上传最大 5GB 的文件。 您的上传文件还将托管长达 30 天，同时为您提供足够的灵活性。  https://shareallfiles.net/ ​   由   提交/u/mandatario01  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cin01l/i_created_a_small_website_for_uploading_files_and/</guid>
+      <pubDate>Thu, 02 May 2024 18:30:12 GMT</pubDate>
+    </item>
     <item>
       <title>打造您一直想要的营销副驾驶！ ;)</title>
       <link>https://www.reddit.com/r/SideProject/comments/1cimjcc/building_a_marketing_copilot_that_you_always/</link>
@@ -20,9 +76,9 @@
       <pubDate>Thu, 02 May 2024 18:08:21 GMT</pubDate>
     </item>
     <item>
-      <title>关注 2024 年欧洲杯的应用程序。网站、Android + IOS 应用程序。分享您的想法。</title>
+      <title>关注 2024 年欧洲锦标赛的应用程序。网站、Android + IOS 应用程序。分享你的意见。</title>
       <link>https://www.reddit.com/r/SideProject/comments/1cimcwy/app_to_follow_euro_2024_championship_website/</link>
-      <description><![CDATA[        由    /u/LarsSven  提交  [链接] [评论] ]]></description>
+      <description><![CDATA[    /u/LarsSven    [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1cimcwy/app_to_follow_euro_2024_championship_website/</guid>
       <pubDate>Thu, 02 May 2024 18:04:32 GMT</pubDate>
     </item>
@@ -36,79 +92,23 @@
     <item>
       <title>Prattl——LinkedIn 人工智能助理</title>
       <link>https://www.reddit.com/r/SideProject/comments/1cilsbi/prattl_ai_assistant_for_linkedin/</link>
-      <description><![CDATA[       https://www.prattl.ai Chrome 网上应用店：https://chromewebstore.google.com/detail/prattl-ai/jkefaopmikfappkiohamgddppldifkcn 这是我从一直启动到制作的第一个个人项目。欢迎反馈和问题！ https ://preview.redd.it/hr2qpc4hv1yc1.png?width=1280&amp;format=png&amp;auto=webp&amp;s=1a82f640fcbfdcef0af2f4835861a9c8ac127f09  &amp;# 32；由   提交 /u/zoeboym   [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[       https://www.prattl.ai Chrome 网上应用店：https://chromewebstore.google.com/detail/prattl-ai/jkefaopmikfappkiohamgddppldifkcn 这是我从一直启动到制作的第一个个人项目。欢迎反馈和问题！ https ://preview.redd.it/hr2qpc4hv1yc1.png?width=1280&amp;format=png&amp;auto=webp&amp;s=1a82f640fcbfdcef0af2f4835861a9c8ac127f09   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1cilsbi/prattl_ai_assistant_for_linkedin/</guid>
       <pubDate>Thu, 02 May 2024 17:41:18 GMT</pubDate>
     </item>
     <item>
       <title>YouTube 播放列表随机发生器</title>
       <link>https://www.reddit.com/r/SideProject/comments/1cilb7i/youtube_playlist_randomizer/</link>
-      <description><![CDATA[       由   提交/u/Life_Ad_2142   [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[        提交人    /u/Life_Ad_2142   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1cilb7i/youtube_playlist_randomizer/</guid>
       <pubDate>Thu, 02 May 2024 17:21:03 GMT</pubDate>
     </item>
     <item>
       <title>更快地构建 AI SaaS：使用预构建的 AI 应用程序 - 分享您的想法</title>
       <link>https://www.reddit.com/r/SideProject/comments/1cil928/build_ai_saas_faster_with_prebuilt_ai_apps_share/</link>
-      <description><![CDATA[我们已经构建了一个 Next.js &amp; Supabase 样板以及一些预构建的 AI 应用程序。目标是帮助人们快速设置代码来构建他们的想法原型，然后将其转化为人工智能应用程序。我们目前正在使用 OpenAI。在代码包中，我们提供了构建 SaaS 所需的一切，如网站模板、电子邮件、用户身份验证、支付等，以及 6 个流行的 AI 应用程序，这些应用程序经过优化，可轻松定制。 我们即将推出关于 Product Hunt，因此我们希望获得有关该产品以及发布的一些反馈。 如果您能提供帮助，请发表评论，我将回复我们的产品链接。   由   提交/u/phobase  [链接] [评论]]]></description>
+      <description><![CDATA[我们已经构建了一个 Next.js &amp; Supabase 样板以及一些预构建的 AI 应用程序。目标是帮助人们快速设置代码来构建他们的想法原型，然后将其转化为人工智能应用程序。我们目前正在使用 OpenAI。在代码包中，我们提供了构建 SaaS 所需的一切，如网站模板、电子邮件、用户身份验证、支付等，以及 6 个流行的 AI 应用程序，这些应用程序经过优化，可轻松定制。 我们即将推出关于 Product Hunt，因此我们希望获得有关该产品以及发布的一些反馈。 如果您可以提供帮助，请发表评论，我将回复我们的产品链接。   由   提交/u/phobase  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1cil928/build_ai_saas_faster_with_prebuilt_ai_apps_share/</guid>
       <pubDate>Thu, 02 May 2024 17:18:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了这个 Leetcode 扩展，为任何问题提供交互式演练</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cil2q9/i_made_this_leetcode_extension_that_provides/</link>
-      <description><![CDATA[免费！您可以在此处找到它。 该扩展程序可以帮助您：  理解问题 制定计划 编写解决方案  我设计了导师，以便它能够解决您遇到的困难大多数人都使用这些信息来生成像这样的个性化问题分解（爬楼梯 - 分解) https://reddit.com/link/1cil2q9/video/0b34e23mp1yc1/玩家   由   提交 /u/with_mocha   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cil2q9/i_made_this_leetcode_extension_that_provides/</guid>
-      <pubDate>Thu, 02 May 2024 17:11:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个带有人工智能代理的搜索引擎 - 为新演示寻找测试用户</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cikmu9/i_made_a_search_engine_with_ai_agents_looking_for/</link>
-      <description><![CDATA[    /u/Inevitable-Baker-504   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cikmu9/i_made_a_search_engine_with_ai_agents_looking_for/</guid>
-      <pubDate>Thu, 02 May 2024 16:53:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>我构建了一个 CLI 工具来统一 JavaScript 包管理器和运行时</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cijuzy/i_built_a_cli_tool_to_unify_javascript_package/</link>
-      <description><![CDATA[大家好！ 我很高兴分享 px，一个小型轻量级 CLI 工具用于将 JavaScript 包管理器和运行时统一在一个工具中！ https://pxcli.com/ 如今，我们有多个包管理器（以及现在流行的运行时），而且这很常见开发人员在处理多个项目时每天都会使用多个工具。这会在切换项目时造成混乱，特别是在管理依赖项或运行 npm 脚本时。 因此，我创建了 px。它检测正在使用的包管理器并将命令转发到正确的工具。这样，您在处理不同项目时无需更改工作流程。 它还附带了一些 DX 改进，例如自动 Typescript 类型管理和自动 运行 脚本使用 npm 时（例如 px dev 而不是 npm run dev）。 请让我知道您的想法，欢迎任何反馈！ 🤗 https://pxcli.com/   由   提交 /u/SolidIncident5982   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cijuzy/i_built_a_cli_tool_to_unify_javascript_package/</guid>
-      <pubDate>Thu, 02 May 2024 16:21:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>启动了我的独立 SaaS 项目 - IncidentHub</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cijqiz/launched_my_solo_saas_project_incidenthub/</link>
-      <description><![CDATA[它是一个监控第三方云和 SaaS 服务并通知您的工具，主要面向 techops/SRE 人员。我根据过去的工作经验构建了这个工具，我觉得需要这样一个工具，并且必须对修补在一起的脚本感到满意。  https://incidenthub.cloud/ 我是这个项目的独立开发者。我职业生涯的大部分时间都在后端开发/运维，所以我的前端技能还不是很好，这在 UI 中可能很明显:) 如果你尝试一下，请分享任何反馈 - 全部感谢反馈。谢谢。 它也在 ProductHunt 上 - https://www.producthunt.com/products/incidenthub   由   提交/u/Best-Repair762  /u/Best-Repair762 reddit.com/r/SideProject/comments/1cijqiz/launched_my_solo_saas_project_incidenthub/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cijqiz/launched_my_solo_saas_project_incidenthub/</guid>
-      <pubDate>Thu, 02 May 2024 16:16:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>我做了一项分析投资组合的服务 - 友善地烘烤它</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cijm14/i_made_a_service_that_analyzes_investment/</link>
-      <description><![CDATA[最近被解雇后，我和 2 个朋友有时间从事这个工作 3 个多月了。  该服务名为 Insightfol.io，它应该可以帮助您更好地了解您的投资组合。理想情况下，我们将帮助用户了解他们的投资是否符合他们的目标、风险偏好或他们是否支付过多。最重要的是，我们使用人工智能（希望）使其更容易理解。 尝试一下，我想了解我们是否走在正确的道路上！ &lt; /div&gt;  由   提交/u/mmauer0102  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cijm14/i_made_a_service_that_analyzes_investment/</guid>
-      <pubDate>Thu, 02 May 2024 16:11:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>我做了一个AI创意写作工具</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cijew0/i_made_an_ai_creative_writing_tool/</link>
-      <description><![CDATA[       由   提交 /u/CallFromMargin   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cijew0/i_made_an_ai_creative_writing_tool/</guid>
-      <pubDate>Thu, 02 May 2024 16:03:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>k8sAI - 我的 Kubernetes 开源 GPT CLI 工具</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ciivhl/k8sai_my_opensource_gpt_cli_tool_for_kubernetes/</link>
-      <description><![CDATA[我想分享一个我一直在从事的名为 k8sAI 的开源项目。它是一位个人 AI Kubernetes 专家，可以回答有关集群的问题、建议命令，甚至执行相关的 kubectl 命令来帮助诊断集群并提出修复建议，所有这些都可以在 CLI 中完成！  k8s，这个工具确实简化了我的工作流程。我可以询问有关我的集群的问题，k8sAI 将运行 kubectl 命令来收集信息，然后回答这些问题。它还为我在我的集​​群中发现了几个问题 - 我所要做的就是将其指向正确的方向。我真的很喜欢制作和使用这个，所以我认为它对其他人可能有用。额外的好处是，您不再需要复制并粘贴到 ChatGPT 中！ k8sAI 使用只读 kubectl 命令运行，以确保您的集群保持安全。 您所需要的一切是 OpenAI API 密钥和有效的 kubectl 配置。使用以下方式开始与 k8sAI 聊天： $ pip install k8sAI $ k8sAI chat  或解决问题：  $ k8sAI fix -p=&quot;查看测试命名空间中失败的 pod&quot;  很想得到你们的任何反馈！ 这是仓库&lt; /a&gt; 适合任何想看的人   由   提交/u/Wild_Plantain528   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ciivhl/k8sai_my_opensource_gpt_cli_tool_for_kubernetes/</guid>
-      <pubDate>Thu, 02 May 2024 15:42:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>终于推出MVP了</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ciir6m/finally_launched_the_mvp/</link>
-      <description><![CDATA[https://seniorai.ai 构建软件并让人工智能了解整个项目。寻找人们尝试 MVP 并提供反馈。 （免费） 通常，当你处理代码时，你会处理别人的代码，尤其是在公司，你要么需要了解它（这需要很多文件意识），要么你需要一个初级人员来了解项目，或者您需要系统设计级别的建议，或者您需要知道，如果您进行某种更改，它不会产生您目前不知道的错误，这样的例子不胜枚举。我一开始是为自己建造的。它确实有很大帮助。   由   提交/u/Emotional_Thought_99   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ciir6m/finally_launched_the_mvp/</guid>
-      <pubDate>Thu, 02 May 2024 15:37:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
