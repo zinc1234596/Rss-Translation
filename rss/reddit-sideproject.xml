@@ -4,9 +4,51 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个 Reddit 子版块，用于分享和接收有关副项目的建设性反馈。</description>
-    <lastBuildDate>Thu, 02 May 2024 12:22:43 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2024 15:13:12 GMT</lastBuildDate>
     <item>
-      <title>我的第一个开源 React 库发布！介绍 BiteConsent</title>
+      <title>我为社交媒体制作了慧俪轻体。将相似的帖子分组并总结为一句话。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cihgzw/i_made_weight_watchers_for_social_media_groups/</link>
+      <description><![CDATA[       由   提交 /u/shortsnipadm   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cihgzw/i_made_weight_watchers_for_social_media_groups/</guid>
+      <pubDate>Thu, 02 May 2024 14:45:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 Node.js 中生成任何视频的免费转录</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cihc41/generate_free_transcript_of_any_video_in_nodejs/</link>
+      <description><![CDATA[在这个项目中，我使用了 CPU 版本的 Whisper 自动语音识别 (ASR) 模型。您可以相应地选择型号以达到不同的性能水平。最近，我还添加了 CUDA 支持。 https://github.com/ChetanXpro/nodejs-whisper   由   提交 /u/Tinku_raja   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cihc41/generate_free_transcript_of_any_video_in_nodejs/</guid>
+      <pubDate>Thu, 02 May 2024 14:39:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的第一个 SaaS 产品如何在一个月内获得超过 1.5k 名用户和 150 名付费客户的？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cih6cx/how_did_i_achieve_over_15k_users_and_150_paying/</link>
+      <description><![CDATA[一个月前，我决定在 Product Hunt 上推出我的产品，这是一个流行的新兴科技创业平台。 在发布日，我准备了一份关于突出功能的详细介绍，以及一个应用程序工作原理的现场演示视频。这种对细节的关注帮助我的产品迅速引起关注，从第一天开始，社区就开始出现积极的评论。此外，我们还向那些在 Product Hunt 上对我们做出积极回应的人发送了 30% 的折扣代码。 在发布后的一个月内，该产品取得了令人印象深刻的数字，拥有超过 1,500 个注册用户和超过 150 个付费用户。这种快速增长不仅是成功发布活动的结果，也是电子书阅读社区中真正需求的证据。 从这个过程中，我学到了三个教训： 1) 充分的准备是成功发布日的关键；2) 与社区的真诚互动可以改善产品和关系； 3）监控和分析结果以调整策略，使产品更符合用户需求。 这是我用我的第一个 SaaS 产品所取得的成就，如果我不尝试的话，我想我不可能实现这个成就。    submitted by    /u/itman89   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cih6cx/how_did_i_achieve_over_15k_users_and_150_paying/</guid>
+      <pubDate>Thu, 02 May 2024 14:32:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>我正在制作 Windows 桌面小部件应用程序！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cih35g/i_am_making_a_windows_desktop_widget_application/</link>
+      <description><![CDATA[我已经开发这个应用程序一个月了，刚刚完成了网站的重新制作。我的目标是在未来的某个时候通过使我的应用程序更易于使用并具有更广泛的小部件定制功能来与 rainmeter 相媲美。  我真的希望为应用程序和网站提供尽可能详细的反馈： https://drimiteros.github.io/MyWidget.github.io/ 谢谢！   由   提交/u/_slDev_  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cih35g/i_am_making_a_windows_desktop_widget_application/</guid>
+      <pubDate>Thu, 02 May 2024 14:28:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>我构建了一个开源快速阅读器，优先考虑隐私、用户界面和可定制性</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cif2nw/i_built_an_opensource_speed_reader_that/</link>
+      <description><![CDATA[      我创建了一个快速阅读网络应用程序，它将所有内容本地存储在浏览器的存储中。该应用程序称为 Axym，我将其构建为付费应用程序的直接替代方案 - 我不想支付替代方案的每月订阅费用。 直接测试或继续阅读其功能。  它是自托管的，并且有一个docker存储库。如果您对代码感兴趣或想记住该项目，在 GitHub 上加注星标. UI 我非常相信彻底的简单性，这就是为什么 UI 默认隐藏所有非必要信息并具有非常重要的功能。微妙的强调色。这是它的样子： https ://preview.redd.it/9v4yjozvc0yc1.png?width=1370&amp;format=png&amp;auto=webp&amp;s=bd3125c627f39378536d54ad743bc68071a3f15d 设置面板：&lt; /p&gt; 目前有 9 个设置选项。您可以选择 6 种不同的字体（Open Sans、Merriweather、Poppins、Inter、InterTight、Roboto、RobotoCondensed）。如果您愿意，我可以添加更多设置/字体。 https://preview.redd.it/1wnq9sh1d0yc1.png?width=819&amp;format=png&amp;auto=webp&amp;s=315356bcbe7a4d19f0559f213be9a5659db94 db3 导入选项： 您可以从 URL、上传文件、剪贴板或通过 GET 请求导入文本。新文本部分如下所示： https://preview.redd.it/ix7h6sp4e0yc1.png?width=825&amp;format=png&amp;auto=webp&amp;s=153b30affd7631824e12b26825e9a90de6d664ee 保存的文本面板 您的所有文本以及您的设置都存储在浏览器的本地存储中。该应用程序可以处理最大 100Mb 的文件，但对于大于 5Mb 的文件，您必须增加浏览器的本地存储限制。文本的状态（例如您的位置）会实时更新，并且其来源也会保存。 https://preview.redd.it/jz5c2qrpf0yc1.png?width=1488&amp;format=png&amp;auto=webp&amp;s=3e14ad0ce205754 2152b31fc65c899fcb3dceeaa 感谢您的阅读。如果您有任何问题，或者想查看其他功能，在此处快速发帖&lt;     由   提交 /u/Pristine-Adeptness-1   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cif2nw/i_built_an_opensource_speed_reader_that/</guid>
+      <pubDate>Thu, 02 May 2024 13:01:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了扭曲的派对游戏。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cieydx/i_made_twisted_party_game/</link>
+      <description><![CDATA[       由   提交 /u/Infinite-Nobody-8505   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cieydx/i_made_twisted_party_game/</guid>
+      <pubDate>Thu, 02 May 2024 12:55:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的第一个开源 React 库发布！ BiteConsent 简介</title>
       <link>https://www.reddit.com/r/SideProject/comments/1cie00u/my_first_opensource_react_library_release/</link>
       <description><![CDATA[       由   提交/u/shiro90  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1cie00u/my_first_opensource_react_library_release/</guid>
@@ -15,7 +57,7 @@
     <item>
       <title>我构建了一个愚蠢的网络应用程序，它可以给你赞美</title>
       <link>https://www.reddit.com/r/SideProject/comments/1cidy7w/i_built_a_silly_web_app_which_gives_you/</link>
-      <description><![CDATA[ 由   提交/u/0_ human0   [链接] [评论]]]></description>
+      <description><![CDATA[  由    /u/0_human0  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1cidy7w/i_built_a_silly_web_app_which_gives_you/</guid>
       <pubDate>Thu, 02 May 2024 12:04:07 GMT</pubDate>
     </item>
@@ -41,7 +83,7 @@
       <pubDate>Thu, 02 May 2024 11:54:55 GMT</pubDate>
     </item>
     <item>
-      <title>我制作了一个超级简单的人工智能驱动的优先待办事项列表应用程序！</title>
+      <title>我制作了一个超级简单的基于人工智能的优先待办事项列表应用程序！</title>
       <link>https://www.reddit.com/r/SideProject/comments/1cidkd5/i_made_a_super_easy_ai_powered_prioritization/</link>
       <description><![CDATA[       由   提交/u/Tanybos5  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1cidkd5/i_made_a_super_easy_ai_powered_prioritization/</guid>
@@ -57,7 +99,7 @@
     <item>
       <title>我制作了一个应用程序，可以通过回答几个问题来帮助您构建微型网站</title>
       <link>https://www.reddit.com/r/SideProject/comments/1cidb7w/i_made_an_app_that_helps_you_build_a_microsite_by/</link>
-      <description><![CDATA[        由    /u/morion4000   [链接] [评论] ]]></description>
+      <description><![CDATA[   /u/morion4000  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1cidb7w/i_made_an_app_that_helps_you_build_a_microsite_by/</guid>
       <pubDate>Thu, 02 May 2024 11:30:32 GMT</pubDate>
     </item>
@@ -67,48 +109,6 @@
       <description><![CDATA[    &lt; /a&gt;  我刚刚在 AppStore 上发布了我的新应用程序 TurboGuessr。我花了很多时间编写这个代码，因为我之前只使用过 Flutter，而 Swift 对我来说是全新的。 该应用程序的工作方式与 GeoGuessr 的工作方式相同 - 你会得到一个“街景”图像（我实际上使用的是 Apple LookAround，它几乎相同，但不需要我花费任何费用），你必须猜测这张图像是在哪里拍摄的。你可以移动并找到线索来识别位置。 大多数像这样的开发者喜欢对此类游戏收取订阅费，但因为我不会因为你玩这个而产生任何经常性费用游戏我决定让所有人和所有其他国家/地区免费使用全球模式，一次购买 1.99 美元，希望可以覆盖 100 美元的苹果开发计划的费用。 如果你想看看，这里是链接：https://apps.apple.com/de/app /turboguessr-guess-locations/id6480343469?l=en-US   由   提交/u/TheBeaconCrafter  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1cid9z7/i_coded_a_free_geoguessr_game_for_apple_devices/</guid>
       <pubDate>Thu, 02 May 2024 11:28:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>200 亿美元收购 Figma 的后果，Figma 创始人的 8 个产品教训</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cid9mt/20_billion_figma_acquisition_fallout_8_product/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cid9mt/20_billion_figma_acquisition_fallout_8_product/</guid>
-      <pubDate>Thu, 02 May 2024 11:28:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于跟踪我的汽车维护情况的桌面应用程序</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cicylj/desktop_application_to_track_maintenance_of_my/</link>
-      <description><![CDATA[大家好， 我正在开发一个应用程序，它可以让我记录我的汽车服务、加油并保留我的信息文件（发票、帐单）都集中在与特定记录相关的一个位置，然后可以轻松地按年份过滤这些记录，或者我可以通过输入主要关键字来搜索特定记录。我还添加了自动备份，因此在我的应用程序中，我选择了一个 Dropbox Desktop 文件夹，一旦应用程序关闭，就会在其中自动创建备份。主数据库和文件存储在本地计算机本身上，因此该应用程序完全离线工作。接下来，我正在考虑为特定汽车实现 PDF 记录导出。 仍然有一些错误需要清理，但总的来说，我对结果感到满意。 https://reddit.com/link/1cicylj/video/yjkjrdhnwzxc1/player   由   提交 /u/Adventurous-Bug2020    reddit.com/r/SideProject/comments/1cicylj/desktop_application_to_track_maintenance_of_my/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cicylj/desktop_application_to_track_maintenance_of_my/</guid>
-      <pubDate>Thu, 02 May 2024 11:11:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>从您的公司知识中立即获得人工智能驱动的答案</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cicc08/instantly_get_ai_powered_answers_from_your/</link>
-      <description><![CDATA[大家好！ Burhan 来自 QueryPal &gt; 工程团队 🚀 我很高兴与大家分享，我们刚刚在 Product Hunt 上推出了 QueryPal！ 看看 👀 https://www.producthunt.com/posts/querypal-2 QueryPal 不仅仅是一个聊天机器人，它是第一个基于 Slack 的综合机器人，使用我们独特的专有技术深入理解语言和上下文的技术。这项先进技术使 QueryPal 能够准确掌握对话的细节和总体主题。 QueryPal 的与众不同之处在于其无缝集成。它可以轻松地与您现有的工具（如 Notion、Google Drive、Jira、Confluence 等）连接，无需任何手动设置。安装后，它可以有效地回答您的问题并管理重复的查询，从而显着减少日常干扰并增强团队沟通。 🎁 为了庆祝我们的发布，我们提供独家 14 天免费试用。通过在 https://www.querypal.com/ 注册，开始回收团队的时间和脑力。 另外，如果您决定在试用后作为付费客户加入我们，请使用代码 PHQUERY50，地址为 [hello@querypal.com](mailto:&lt; a href=&quot;mailto:hello@querypal.com&quot;&gt;hello@querypal.com）第一个月可享受 50% 的折扣。此优惠对 5 月 8 日之前注册的前 20 支团队有效。   由   提交 /u/burhandraksibai   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cicc08/instantly_get_ai_powered_answers_from_your/</guid>
-      <pubDate>Thu, 02 May 2024 10:34:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>性能咖啡：产品创意反馈</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cic8iu/performance_coffee_product_idea_feedback/</link>
-      <description><![CDATA[您好r/SideProject。我正在试水特种级性能咖啡业务，需要尽可能多的初步反馈。您会购买吗？优点、缺点等等。 这是我的登陆页面的链接：Ground Tonic 这是一家研磨咖啡企业，销售富含维生素/分钟和抗氧化剂的特级咖啡。它针对的是那些希望从超市普通咖啡中获得更多咖啡的高绩效人士。 让我知道您的想法，我们非常感谢任何反馈。谢谢！   由   提交 /u/GroundTonic   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cic8iu/performance_coffee_product_idea_feedback/</guid>
-      <pubDate>Thu, 02 May 2024 10:28:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个应用程序来阻止垃圾邮件电话和消息</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cibwhk/i_made_an_app_to_block_spam_calls_messages/</link>
-      <description><![CDATA[       由   提交 /u/kilomray   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cibwhk/i_made_an_app_to_block_spam_calls_messages/</guid>
-      <pubDate>Thu, 02 May 2024 10:07:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一款免费应用程序，可以屏蔽 Youtube Shorts 和 Instagram Reels，以消除干扰</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cibwgo/i_made_a_free_app_that_blocks_youtube_shorts_and/</link>
-      <description><![CDATA[   /u/WallHabit  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cibwgo/i_made_a_free_app_that_blocks_youtube_shorts_and/</guid>
-      <pubDate>Thu, 02 May 2024 10:07:44 GMT</pubDate>
     </item>
     </channel>
 </rss>

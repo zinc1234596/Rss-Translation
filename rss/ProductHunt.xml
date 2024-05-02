@@ -4,9 +4,9 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Thu, 02 May 2024 12:22:47 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2024 15:13:17 GMT</lastBuildDate>
     <item>
-      <title>AI 助手和 Bot Builder</title>
+      <title>人工智能助手和机器人生成器</title>
       <link>https://www.producthunt.com/posts/ai-assistant-and-bot-builder</link>
       <description><![CDATA[
             无需代码即可直观地构建自定义 AI 助手
@@ -90,6 +90,20 @@
       <pubDate>Wed, 01 May 2024 12:27:31 GMT</pubDate>
     </item>
     <item>
+      <title>功能面板</title>
+      <link>https://www.producthunt.com/posts/featurepanel</link>
+      <description><![CDATA[
+            让客户知道所请求的功能何时启动
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/featurepanel</guid>
+      <pubDate>Wed, 01 May 2024 10:30:15 GMT</pubDate>
+    </item>
+    <item>
       <title>全风CSS</title>
       <link>https://www.producthunt.com/posts/fullwindcss</link>
       <description><![CDATA[
@@ -132,29 +146,15 @@
       <pubDate>Tue, 30 Apr 2024 07:24:50 GMT</pubDate>
     </item>
     <item>
-      <title>蒙特利人工智能2.0</title>
-      <link>https://www.producthunt.com/posts/monterey-ai-2-0</link>
+      <title>莫奇人工智能专业版</title>
+      <link>https://www.producthunt.com/posts/mockey-ai-pro</link>
       <description><![CDATA[
-产品洞察的副驾驶
+25 多个类别的免费 AI 模型
 
 
 讨论
 |
 链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/monterey-ai-2-0</guid>
-      <pubDate>Mon, 29 Apr 2024 20:23:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>莫奇人工智能专业版</title>
-      <link>https://www.producthunt.com/posts/mockey-ai-pro</link>
-      <description><![CDATA[
-            5k+ 酷炫 AI 模型模板，再见无聊的模型
-          
-
-讨论
-            |
-            链接
 ]]></description>
       <guid>https://www.producthunt.com/posts/mockey-ai-pro</guid>
       <pubDate>Sat, 27 Apr 2024 12:33:13 GMT</pubDate>
@@ -163,32 +163,32 @@
       <title>太平鸟</title>
       <link>https://www.producthunt.com/posts/waxwing</link>
       <description><![CDATA[
-            每项营销任务的人工智能副驾驶
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/waxwing</guid>
-      <pubDate>Wed, 24 Apr 2024 17:15:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>韋萊</title>
-      <link>https://www.producthunt.com/posts/y-gy</link>
-      <description><![CDATA[
-一个简单的链接缩短器和二维码创建器
+每项营销任务的 AI 副驾驶
 
 
 讨论
 |
 链接
 ]]></description>
+      <guid>https://www.producthunt.com/posts/waxwing</guid>
+      <pubDate>Wed, 24 Apr 2024 17:15:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>Y.GY</title>
+      <link>https://www.producthunt.com/posts/y-gy</link>
+      <description><![CDATA[
+            一个简单的链接缩短器和二维码创建器
+          
+
+讨论&lt; /a&gt;
+            |
+            链接
+]]></description>
       <guid>https://www.producthunt.com/posts/y-gy</guid>
       <pubDate>Fri, 19 Apr 2024 10:42:21 GMT</pubDate>
     </item>
     <item>
-      <title>查询伙伴</title>
+      <title>查询宝</title>
       <link>https://www.producthunt.com/posts/querypal-2</link>
       <description><![CDATA[
             从您的公司知识中立即获得人工智能驱动的答案
