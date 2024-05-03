@@ -3,8 +3,57 @@
   <channel>
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
-    <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Thu, 02 May 2024 21:11:25 GMT</lastBuildDate>
+    <description>r/SideProject 是一个 Reddit 子版块，用于分享和接收有关副项目的建设性反馈。</description>
+    <lastBuildDate>Fri, 03 May 2024 00:57:27 GMT</lastBuildDate>
+    <item>
+      <title>五颗天星</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1civu6f/the_five_celestial_star/</link>
+      <description><![CDATA[ 由   提交/u/5celestial_star  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1civu6f/the_five_celestial_star/</guid>
+      <pubDate>Fri, 03 May 2024 00:53:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了幻灯片生成器，这是一个 Google Workspace 插件，用于将 Google 文档转换为幻灯片</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1civgna/i_made_slides_generator_a_google_workspace_addon/</link>
+      <description><![CDATA[它从 Google 文档生成 Google 幻灯片演示文稿，包括标题和正文（带有格式和超链接）、表格、图像和视频。免费使用！ 您可以从 Google Workspace Marketplace。安装后，转到 Google 文档，点击右下角的显示侧面板图标，然后点击幻灯片生成器图标即可开始。 https://www.automativeapps.com/slidesgenerator   由   提交/u/johnvoon  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1civgna/i_made_slides_generator_a_google_workspace_addon/</guid>
+      <pubDate>Fri, 03 May 2024 00:33:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linktree 但你用的是你的脸而不是二维码</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ciublb/linktree_but_you_use_your_face_instead_of_a_qr/</link>
+      <description><![CDATA[      嗨！我认为看到其他人的社交媒体而不必打开应用程序并在每个应用程序中输入他们的名字会很酷，所以我制作了一个应用程序。 我喜欢将其描述为 linktree，但相反使用二维码时，您可以使用脸部:) App Store https://reddit.com/link/1ciublb/video/urtmru0ii3yc1/player&lt; /a&gt;   由   提交/u/Key_Sandwich7505   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ciublb/linktree_but_you_use_your_face_instead_of_a_qr/</guid>
+      <pubDate>Thu, 02 May 2024 23:38:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>我构建了一个 API，可以将临时图像 URL 即时转换为永久链接！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1citb11/i_built_an_api_that_convert_temporary_image_urls/</link>
+      <description><![CDATA[嘿，开发人员朋友们， 在从事 AI 图像生成器项目（我的另一个令人兴奋的副业项目）时，我遇到了一个令人沮丧的障碍。我生成的所有图像都带有临时 URL，这意味着我的数据库充满了无用的链接。经过三天艰苦的寻找解决方案后，我意识到大多数现有选项要么太麻烦，要么太具有侵入性。想想：安装庞大的 SDK 并维护无穷无尽的软件包。此外，我尝试的 JavaScript 包与 React 或 Next.js 等框架不能很好地配合。 我偶然发现了几家似乎解决了这个问题的公司，但他们的解决方案不仅价格昂贵，它们还包含大量我不需要的功能。知道你们中的一些人可能面临同样的问题，我决定自己解决问题。这就是为什么我构建了 https://imageurl.dev 一个简单、经济高效的工具，旨在将临时图像 URL 转换为永久的优化版本。最好的部分是什么？它比您每月的咖啡预算便宜！ 我努力让一切变得简单且用户友好。如果您需要任何特定功能或有疑问，请随时与我们联系。我来这里是为了帮助您的开发之旅更加顺利。 祝您编码愉快！   由   提交 /u/mufcruz   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1citb11/i_built_an_api_that_convert_temporary_image_urls/</guid>
+      <pubDate>Thu, 02 May 2024 22:51:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>适合初创公司的经济实惠的簿记和发票软件吗？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cit6jt/affordable_bookkeeping_and_invoicing_software_for/</link>
+      <description><![CDATA[我很快就会为我的一个副业项目组建一家有限责任公司，但不确定如何进行簿记。你们都用什么？试图避免出现这样的情况：我最终为一些可能会委托给实习生的事情向一些注册会计师支付了一大笔钱（如果这很重要的话，可以组建一家特拉华州有限责任公司）。谢谢。    由   提交/u/Appropriate_Nose_847   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cit6jt/affordable_bookkeeping_and_invoicing_software_for/</guid>
+      <pubDate>Thu, 02 May 2024 22:46:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>营销工具目录</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ciss2x/directory_of_marketing_tools/</link>
+      <description><![CDATA[我是一名营销人员和企业家，令我惊讶的是营销人员使用了如此之多的不同软件工具和平台。  这很疯狂。  但是，在企业家方面，其他创作者总是对使用什么营销工具感到好奇。  所以我创建了这个目录。它仍然是一个 WIP，但它正在出现。  如有任何反馈，我将不胜感激！ https://marketertools.co/   由   提交 /u/princess_chef   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ciss2x/directory_of_marketing_tools/</guid>
+      <pubDate>Thu, 02 May 2024 22:28:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>开发可帮助业务人员更好地了解技术堆栈的应用程序</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cir2q0/working_on_app_that_helps_business_people/</link>
+      <description><![CDATA[    /u/bittemitallem   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cir2q0/working_on_app_that_helps_business_people/</guid>
+      <pubDate>Thu, 02 May 2024 21:15:33 GMT</pubDate>
+    </item>
     <item>
       <title>我为 SaaS 创始人制作了一个减少客户流失的工具</title>
       <link>https://www.reddit.com/r/SideProject/comments/1ciqo20/i_made_a_churn_reducer_for_saas_founders/</link>
@@ -18,13 +67,6 @@
       <description><![CDATA[    /u/zuluana   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1cipl67/im_building_a_mobilefirst_personal_knowledge/</guid>
       <pubDate>Thu, 02 May 2024 20:14:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>验证或探讨我的合法方“药物”替代产品创意</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cioyds/validate_or_roast_my_legal_party_drug_replacement/</link>
-      <description><![CDATA[我的灵感来自 https://www.madmonq。 gg/ 来取代和教育那些参加狂欢派对或聚会时使用 MDMA 或其他物质等药物的社会。由于派对药物通常含有未知或有害的掺杂剂，可能导致严重的健康问题，包括服用过量。然而，我的想法是推出一种专为狂欢和派对爱好者设计的合法非处方补充剂。 与许多随着时间的推移而降低精神和身体健康的药物不同，这不仅可以促进持久的能量和更好的效果不仅能补水，还能支持认知健康，与其他只注重能量和“冲刺”功能的派对补充剂相比，它是一款出色的产品。和欣快感。  关键成分可能是以下成分的组合：  咖啡因 维生素 B 和 C L-茶氨酸 牛磺酸 电解质 镁  TL;DR：一种合法的非处方咖啡因补充剂在狂欢和派对上安全地增强能量，这是 MDMA 的更健康替代品。   由   提交/u/alfredosaucey123   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cioyds/validate_or_roast_my_legal_party_drug_replacement/</guid>
-      <pubDate>Thu, 02 May 2024 19:49:35 GMT</pubDate>
     </item>
     <item>
       <title>用于构建托管 SaaS 的私人聊天机器人的技术堆栈</title>
@@ -50,7 +92,7 @@
     <item>
       <title>单一仪表板中的 LLM 技术报告</title>
       <link>https://www.reddit.com/r/SideProject/comments/1cinjz8/llm_technical_reports_in_a_single_dashboard/</link>
-      <description><![CDATA[  由    /u/v4nn4  提交  [链接] [评论]]]></description>
+      <description><![CDATA[ 由   提交/u/v4nn4  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1cinjz8/llm_technical_reports_in_a_single_dashboard/</guid>
       <pubDate>Thu, 02 May 2024 18:53:14 GMT</pubDate>
     </item>
@@ -67,48 +109,6 @@
       <description><![CDATA[WaxWing 今天在 Product Hunt 上推出！ 😍 我们的 MarketingGPT 配备了数千个案例研究、趋势和您的见解，像专业人士一样提供指导！   500 多种营销策略 详细的 SOP  您的上下文感知副驾驶 与网站和网站集成工具   请查看并提供您的支持和反馈 → https://www.producthunt .com/posts/waxwing  非常感谢！ ♥️   由   提交 /u/Soggy_Presence9621   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1cimjcc/building_a_marketing_copilot_that_you_always/</guid>
       <pubDate>Thu, 02 May 2024 18:11:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>我终于做到了！我迈出了第一步</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cimg9y/i_finally_did_it_i_made_the_first_step/</link>
-      <description><![CDATA[大家好， 经过多年的自学开发，我决定准备推出我的第一个应用程序。 我正在为 SaaS 应用程序和电子商务构建 Symfony 样板。我正在为新项目添加我希望拥有的一切。付款、用户身份验证、带有表格过滤的管理面板、几个主题等。  我购买了域名并设置了服务器。 （这是第一步😅）我一直梦想通过我构建的 SaaS 谋生。  我已经准备好进行开发了，但我很想听听你们对样板的看法？您希望我补充哪些您以前没有见过的内容？在处理此类 SaaS 时，您喜欢什么、讨厌什么？  欢迎并感谢任何其他反馈！别对我太客气！  祝大家好运！    由   提交 /u/Ok_Remove3123   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cimg9y/i_finally_did_it_i_made_the_first_step/</guid>
-      <pubDate>Thu, 02 May 2024 18:08:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>关注 2024 年欧洲锦标赛的应用程序。网站、Android + IOS 应用程序。分享你的意见。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cimcwy/app_to_follow_euro_2024_championship_website/</link>
-      <description><![CDATA[    /u/LarsSven    [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cimcwy/app_to_follow_euro_2024_championship_website/</guid>
-      <pubDate>Thu, 02 May 2024 18:04:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>你们对 SaaS 终身优惠有何看法？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cim3wg/how_do_you_guys_feel_about_lifetime_deals_for_saas/</link>
-      <description><![CDATA[大家好!! 我们创建了一个名为 Next Starter AI 的样板，它可以加快您的 SaaS 流程并使其变得简单市场。我们最初的吸引力非常成功，但我们一直在研究如何吸引更多人。在此过程中，我们遇到了各种终身优惠平台，例如 Appsumo。作为买家，您对 SaaS 终身优惠有何看法？有人购买过并长期使用该产品吗？ 如果您想在这里查看我们的产品，请访问：https://appsumo.com/products/next-starter-ai?utm_source=partner-link&amp;utm_medium=referral&amp;utm_campaign=partner- 210696   由   提交/u/SpringWater200  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cim3wg/how_do_you_guys_feel_about_lifetime_deals_for_saas/</guid>
-      <pubDate>Thu, 02 May 2024 17:54:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>Prattl——LinkedIn 人工智能助理</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cilsbi/prattl_ai_assistant_for_linkedin/</link>
-      <description><![CDATA[       https://www.prattl.ai Chrome 网上应用店：https://chromewebstore.google.com/detail/prattl-ai/jkefaopmikfappkiohamgddppldifkcn 这是我从一直启动到制作的第一个个人项目。欢迎反馈和问题！ https ://preview.redd.it/hr2qpc4hv1yc1.png?width=1280&amp;format=png&amp;auto=webp&amp;s=1a82f640fcbfdcef0af2f4835861a9c8ac127f09   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cilsbi/prattl_ai_assistant_for_linkedin/</guid>
-      <pubDate>Thu, 02 May 2024 17:41:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>YouTube 播放列表随机发生器</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cilb7i/youtube_playlist_randomizer/</link>
-      <description><![CDATA[        提交人    /u/Life_Ad_2142   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cilb7i/youtube_playlist_randomizer/</guid>
-      <pubDate>Thu, 02 May 2024 17:21:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>更快地构建 AI SaaS：使用预构建的 AI 应用程序 - 分享您的想法</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cil928/build_ai_saas_faster_with_prebuilt_ai_apps_share/</link>
-      <description><![CDATA[我们已经构建了一个 Next.js &amp; Supabase 样板以及一些预构建的 AI 应用程序。目标是帮助人们快速设置代码来构建他们的想法原型，然后将其转化为人工智能应用程序。我们目前正在使用 OpenAI。在代码包中，我们提供了构建 SaaS 所需的一切，如网站模板、电子邮件、用户身份验证、支付等，以及 6 个流行的 AI 应用程序，这些应用程序经过优化，可轻松定制。 我们即将推出关于 Product Hunt，因此我们希望获得有关该产品以及发布的一些反馈。 如果您可以提供帮助，请发表评论，我将回复我们的产品链接。   由   提交/u/phobase  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cil928/build_ai_saas_faster_with_prebuilt_ai_apps_share/</guid>
-      <pubDate>Thu, 02 May 2024 17:18:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
