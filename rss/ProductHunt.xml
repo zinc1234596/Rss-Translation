@@ -4,9 +4,9 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Fri, 03 May 2024 09:13:40 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 May 2024 12:21:38 GMT</lastBuildDate>
     <item>
-      <title>Synthesia 富有表现力的人工智能头像</title>
+      <title>Synthesia 推出富有表现力的 AI 虚拟形象</title>
       <link>https://www.producthunt.com/posts/expressive-ai-avatars-by-synthesia</link>
       <description><![CDATA[
             在几分钟内使用人工智能头像创建栩栩如生的视频
@@ -20,15 +20,29 @@
       <pubDate>Fri, 03 May 2024 07:01:33 GMT</pubDate>
     </item>
     <item>
-      <title>GitHub Copilot 工作区</title>
-      <link>https://www.producthunt.com/posts/github-copilot-workspace</link>
+      <title>回声鸭</title>
+      <link>https://www.producthunt.com/posts/echoduck</link>
       <description><![CDATA[
-            Copilot 原生开发环境，专为日常任务而设计
+            随时随地私密共享文件
           
 
 讨论
             |
             链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/echoduck</guid>
+      <pubDate>Fri, 03 May 2024 06:55:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>GitHub Copilot 工作区</title>
+      <link>https://www.producthunt.com/posts/github-copilot-workspace</link>
+      <description><![CDATA[
+Copilot 原生开发环境，专为日常任务而设计
+
+
+讨论
+|
+链接
 ]]></description>
       <guid>https://www.producthunt.com/posts/github-copilot-workspace</guid>
       <pubDate>Fri, 03 May 2024 00:58:48 GMT</pubDate>
@@ -62,15 +76,29 @@
       <pubDate>Thu, 02 May 2024 15:09:00 GMT</pubDate>
     </item>
     <item>
+      <title>办公室懒鬼</title>
+      <link>https://www.producthunt.com/posts/office-slacker</link>
+      <description><![CDATA[
+            愚蠢的应用程序帮助办公室偷懒者假装忙于工作
+          
+
+讨论&lt; /a&gt;
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/office-slacker</guid>
+      <pubDate>Thu, 02 May 2024 10:23:43 GMT</pubDate>
+    </item>
+    <item>
       <title>AI 助手和 Bot Builder</title>
       <link>https://www.producthunt.com/posts/ai-assistant-and-bot-builder</link>
       <description><![CDATA[
-            无需代码即可直观地构建自定义 AI 助手
-          
+无需代码，直观构建自定义 AI 助手
+
 
 讨论
-            |
-            链接
+|
+链接
 ]]></description>
       <guid>https://www.producthunt.com/posts/ai-assistant-and-bot-builder</guid>
       <pubDate>Thu, 02 May 2024 07:20:30 GMT</pubDate>
@@ -93,29 +121,15 @@
       <title>Playbook x GPT</title>
       <link>https://www.producthunt.com/posts/playbook-x-gpt</link>
       <description><![CDATA[
-使用 GPT 搜索您的图片和视频
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/playbook-x-gpt</guid>
-      <pubDate>Thu, 02 May 2024 01:32:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>爱彼迎图标</title>
-      <link>https://www.producthunt.com/posts/airbnb-icons</link>
-      <description><![CDATA[
-            来自世界上最伟大偶像的非凡体验
+            使用 GPT 搜索您的图像和视频
           
 
-讨论&lt; /a&gt;
+讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/airbnb-icons</guid>
-      <pubDate>Wed, 01 May 2024 23:23:27 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/playbook-x-gpt</guid>
+      <pubDate>Thu, 02 May 2024 01:32:45 GMT</pubDate>
     </item>
     <item>
       <title>魔法射击</title>
@@ -132,57 +146,43 @@
       <pubDate>Wed, 01 May 2024 14:03:05 GMT</pubDate>
     </item>
     <item>
-      <title>功能面板</title>
-      <link>https://www.producthunt.com/posts/featurepanel</link>
+      <title>龙波罗</title>
+      <link>https://www.producthunt.com/posts/rompolo-2</link>
       <description><![CDATA[
-            让客户知道所请求的功能何时启动
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/featurepanel</guid>
-      <pubDate>Wed, 01 May 2024 10:30:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>工作董事会</title>
-      <link>https://www.producthunt.com/posts/job-boardly</link>
-      <description><![CDATA[
-在几分钟内启动一个功能齐全、搜索引擎友好的招聘板
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/job-boardly</guid>
-      <pubDate>Wed, 01 May 2024 09:07:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>WIZPR 戒指</title>
-      <link>https://www.producthunt.com/posts/wizpr-ring</link>
-      <description><![CDATA[
-            智能AI环，即时语音接入AI
+            使用二维码/链接创建和共享数码相册
           
 
 讨论&lt; /a&gt;
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/wizpr-ring</guid>
-      <pubDate>Tue, 30 Apr 2024 07:24:50 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/rompolo-2</guid>
+      <pubDate>Wed, 01 May 2024 10:45:24 GMT</pubDate>
     </item>
     <item>
-      <title>康登斯</title>
-      <link>https://www.producthunt.com/posts/condens</link>
+      <title>蒙特利人工智能2.0</title>
+      <link>https://www.producthunt.com/posts/monterey-ai-2-0</link>
       <description><![CDATA[
-            增强您的用户体验研究分析
+            产品洞察副驾驶
           
 
 讨论
             |
             链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/monterey-ai-2-0</guid>
+      <pubDate>Mon, 29 Apr 2024 20:23:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>康登斯</title>
+      <link>https://www.producthunt.com/posts/condens</link>
+      <description><![CDATA[
+增强您的用户体验研究分析能力
+
+
+讨论
+|
+链接
 ]]></description>
       <guid>https://www.producthunt.com/posts/condens</guid>
       <pubDate>Wed, 17 Apr 2024 11:55:29 GMT</pubDate>
