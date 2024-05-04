@@ -4,13 +4,48 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个 Reddit 子版块，用于分享和接收有关副项目的建设性反馈。</description>
-    <lastBuildDate>Sat, 04 May 2024 18:14:38 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 May 2024 21:11:52 GMT</lastBuildDate>
     <item>
-      <title>有声读物人工智能可视化</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ck6mi3/audiobook_ai_visualisation/</link>
-      <description><![CDATA[我一直在考虑一个将有声读物中的场景可视化的项目。作为一个狂热的听众，我时常感到有必要。尤其是当我在不做任何其他事情的情况下聆听时，看这些图像会很有趣。我做了一些简单的尝试，但我想在花一些真正的努力之前得到你的意见。你认为它有用、无聊还是毫无意义？   由   提交/u/MLC_Money  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ck6mi3/audiobook_ai_visualisation/</guid>
-      <pubDate>Sat, 04 May 2024 18:13:04 GMT</pubDate>
+      <title>【自我宣传】烤我的第一个Web端项目</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ckahn8/self_promo_roast_my_first_web_side_project/</link>
+      <description><![CDATA[嘿伙计们👋， 我是一名初级人工智能工程师，这终于是我的业余项目的第一个版本在过去的 6 周里我们一直在努力！！！ 对于那些询问技术堆栈的人来说是：Supabase、Svelte、Sveltekit、Tailwind、Modal serverless 还有很多东西需要解决这样做，但该网站已经启动并运行并且非常有吸引力。请尝试一下，订阅即可免费获得免费积分： -&gt; Stablelab 这个网站的想法：为某些使用最新开放的用例提供非常快速、方便的特定 AI 管道模型，例如使用脸部生成贴纸，以现有图像的风格生成新图像（可以是艺术品，照片......），... 对于那些对 AI 有一点了解的人，这就是 ComfyUI，其底层具有稳定的扩散，我不会像许多 AI 公司那样只是将 OpenAI 包装起来。 顺便说一句，目前这为我提供了 0 美元，我的产品/市场契合度非常差，如果您有任何改进的想法，请 MP 我。 https://reddit.com/link/1ckahn8/video/hqnjvmp35hyc1/player   由   提交/u/Impact31  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ckahn8/self_promo_roast_my_first_web_side_project/</guid>
+      <pubDate>Sat, 04 May 2024 21:04:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>我开发了一个生产力应用程序</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ck9dww/i_built_a_productivity_application/</link>
+      <description><![CDATA[我构建了 www.MindSprint.app 一个番茄计时器帮助您保持正轨并提高生产力。可在网络和移动设备上访问，易于使用且免费。使用 vanilla JS 和 tailwind CSS 构建。请尝试一下并分享您的诚实意见。欢迎所有反馈或建设性批评。我将继续改进该应用程序，因此您的反馈对我很有价值。   由   提交 /u/wikskold   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ck9dww/i_built_a_productivity_application/</guid>
+      <pubDate>Sat, 04 May 2024 20:14:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>这个产品有用吗</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ck8j2f/will_this_product_work/</link>
+      <description><![CDATA[大家好，希望你们都过得很好，请提供您宝贵的反馈https://smartfluence.fr/我很想听听我们如何才能不断改进 Smartfluence 完全自动化您所有的影响者活动。 请就设计、功能和价格提供您的反馈，我们可以改进我们的产品，谢谢。     提交人    /u/Saraarts1   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ck8j2f/will_this_product_work/</guid>
+      <pubDate>Sat, 04 May 2024 19:36:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>构建了一个 AI 应用程序，可以使用免费的 AI API 来比较任何产品</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ck7lhl/built_an_ai_app_that_compares_any_products_using/</link>
+      <description><![CDATA[     &lt; td&gt; 上周，当每个人都在争论兔子 r1 与人类 AI 引脚时，我创建了一个小工具，它浏览了所有 YouTube 视频，并给了我一个两者都经过审查。 结果非常好，所以我决定将其制作成一个网站，免费提供这个有点具有挑战性，但我找到了正确的 API！ 请随时向我提供有关用户体验或想法的反馈🙏 Promnai.com 上的兔子 r1 VS 人类 AI 引脚   由   提交/u/Ofily0x0  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ck7lhl/built_an_ai_app_that_compares_any_products_using/</guid>
+      <pubDate>Sat, 04 May 2024 18:56:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的第一个公共项目</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ck6tsw/my_first_public_side_project/</link>
+      <description><![CDATA[受到很多人分享他们成功的业余项目的启发，我也想分享我的一个项目。我一直发现公开我的应用程序具有挑战性，更不用说从中获利。我觉得这是朝这个方向迈出的一小步。 这是我使用 Alpine JS 和 TailwindCSS 制作的一个简单的发票管理应用程序。我使用 HTML5UP 的模板作为登陆页面。我在这里（或其他 Reddit 子版块）看到了类似的分享，并决定自己尝试一下。 虽然我还不打算从中赚钱，但如果有任何建议，我会很感激，关于应用程序任何方面的建议和批评。   由   提交 /u/Conscious-Tomato-513   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ck6tsw/my_first_public_side_project/</guid>
+      <pubDate>Sat, 04 May 2024 18:21:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>对我们的项目和登陆页面进行反馈交流？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ck6rdq/feedback_exchange_for_our_projects_landing_pages/</link>
+      <description><![CDATA[大家好， 几个月前我启动了我的业余项目，构建/营销这个项目非常棒，但获得那些早期活跃用户的验证和见解绝对具有挑战性。 我觉得设置一个“反馈交易”主题来帮助彼此验证和完善我们的项目。 工作原理：  发布您的项目：评论并附上您的项目链接，并表明您是在寻找有关着陆页、实际项目/应用还是两者的反馈，以及您特别寻找反馈的任何其他内容。 获取反馈：我会深入研究，查看您的项目，并直接在评论中提供反馈。 回报反馈：一旦您获得反馈，现在轮到您回复该评论并提供您对他们项目的反馈了。 获得更多反馈：在您第一次互相反馈交换之后，在该主题中发布另一条评论，请求更多反馈。这个循环应该鼓励积极参与并确保每个人都能平等受益。  我将通过提供前 10 条评论的反馈来开始此过程。希望在那之后，你们都可以结伴而行，开始行动。    提交人    /u/nostorbe   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ck6rdq/feedback_exchange_for_our_projects_landing_pages/</guid>
+      <pubDate>Sat, 04 May 2024 18:19:09 GMT</pubDate>
     </item>
     <item>
       <title>烘烤我的 saas 想法</title>
@@ -20,7 +55,7 @@
       <pubDate>Sat, 04 May 2024 18:04:06 GMT</pubDate>
     </item>
     <item>
-      <title>从来没见过人工智能这样说话😭</title>
+      <title>从来没见过AI这么说话😂</title>
       <link>https://www.reddit.com/r/SideProject/comments/1ck6c5h/never_seen_an_ai_talk_like_this/</link>
       <description><![CDATA[        由   提交/u/AcidAce7  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1ck6c5h/never_seen_an_ai_talk_like_this/</guid>
@@ -36,12 +71,12 @@
     <item>
       <title>我需要为我的业余项目购买一台 Macbook（之前从未使用过 Swift），而 eBay 列表并不容易浏览。所以我正在做我的业余项目的一个业余项目——Macbook finder。想法？使用 eBay API + Flask。</title>
       <link>https://www.reddit.com/r/SideProject/comments/1ck4df7/i_needed_to_buy_a_macbook_for_my_side_project_had/</link>
-      <description><![CDATA[        提交者    /u/MzCWzL   [链接] [评论] ]]></description>
+      <description><![CDATA[    /u/MzCWzL   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1ck4df7/i_needed_to_buy_a_macbook_for_my_side_project_had/</guid>
       <pubDate>Sat, 04 May 2024 16:32:53 GMT</pubDate>
     </item>
     <item>
-      <title>精美的开源作品集助您求职</title>
+      <title>精美的开源产品组合将让您受聘</title>
       <link>https://www.reddit.com/r/SideProject/comments/1ck2fq3/beautiful_open_source_portfolio_that_will_get_you/</link>
       <description><![CDATA[嘿，偷看 我创建了一个漂亮的作品集，您可以自由使用和修改。 &lt; p&gt;https://preview.redd.it/ffmv4iaadfyc1。 png?width=1495&amp;format=png&amp;auto=webp&amp;s=abe6222865355b4a6c9de6e4bf2503c191cb4529 您可以在此处实时查看：https://renas.se/ 这里是开源代码：https://github。 com/meganide/Portfolio 如果这对您有任何帮助并且您想表示一些支持，请通过在 X/Twitter，我在这里分享有关编程和构建 SaaS 的更有价值的建议，以便您可以开始在线赚钱。 https://twitter.com/renas_dev   由   提交/u/Meganide97  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1ck2fq3/beautiful_open_source_portfolio_that_will_get_you/</guid>
@@ -69,46 +104,11 @@
       <pubDate>Sat, 04 May 2024 13:49:37 GMT</pubDate>
     </item>
     <item>
-      <title>在 ProductHunt 上发布？我们应该在一周中的某一天发布吗？</title>
+      <title>在 ProductHunt 上启动？我们应该和一周中的任何特定一天一起吗？</title>
       <link>https://www.reddit.com/r/SideProject/comments/1ck0ey7/launch_on_producthunt_should_we_and_any_specific/</link>
       <description><![CDATA[ 由   提交/u/projectbios  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1ck0ey7/launch_on_producthunt_should_we_and_any_specific/</guid>
       <pubDate>Sat, 04 May 2024 13:31:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI 待办事项列表：简化和游戏化日常任务</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ck00uf/ai_todo_list_simplify_and_gamify_everyday_tasks/</link>
-      <description><![CDATA[      你可能会问，为什么还要一个待办事项列表？ 原因如下：普通的待办事项列表无法激励用户完成任务并实现目标！使用 Orp，它可以将您的传统待办事项列表变成游戏任务，一旦完成，您就可以收集积分并兑换真正的奖励！ 我是一个慢性拖延症患者，我尝试过很多方法来克服这个习惯，但都失败了。对我来说没有什么效果！所以我开始构建这个应用程序，通过使用奖励作为完成任务的激励，帮助像我这样的人提高工作效率。目前该应用程序处于开发阶段，如果您有兴趣，您可以通过加入我的候补名单来帮助我 www.orpapp.com，这样您就可以成为我们的 beta 测试员，您的意见很重要，并将用于增强应用程序！非常感谢 ;)    提交人    /u/Major_Perception9411   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ck00uf/ai_todo_list_simplify_and_gamify_everyday_tasks/</guid>
-      <pubDate>Sat, 04 May 2024 13:11:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>终身优惠是否比按月订阅更好？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cjzohf/is_a_lifetime_deal_better_than_a_monthly/</link>
-      <description><![CDATA[我正在开发我的 SaaS，这是一个 chrome 扩展应用程序，用于简化协作，因为您可以在任何网页上插入便签。 链接在这里：https://trytagu.com 因此，在继续开发以验证这个想法之前，我正在寻找一些收入，显然这会增强我的动力，我提供终身交易以及每月订阅。 我认为拥有终身交易可能很有趣，并且在早期阶段是一个令人信服的论据，因为它是一个有吸引力的论据，推动用户购买，绝对不是长期选择。 你怎么看？    提交人    /u/FanaticRoute   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cjzohf/is_a_lifetime_deal_better_than_a_monthly/</guid>
-      <pubDate>Sat, 04 May 2024 12:54:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>烤我的着陆页。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cjzdgl/roast_my_landing_page/</link>
-      <description><![CDATA[我构建了此页面 并希望获得一些帮助来了解如何改进登陆页面。此外，任何有关产品本身的反馈也将不胜感激。 非常欢迎任何意见和反馈:)   由   提交 /u/Yasmin_smith_220101   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cjzdgl/roast_my_landing_page/</guid>
-      <pubDate>Sat, 04 May 2024 12:38:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>我构建了一个样板，可在 1 分钟内发布候补名单</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cjz7k0/i_built_a_boilerplate_to_publish_waitlist_within/</link>
-      <description><![CDATA[   /u/rook1e_dev  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cjz7k0/i_built_a_boilerplate_to_publish_waitlist_within/</guid>
-      <pubDate>Sat, 04 May 2024 12:29:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们制作了一款应用程序，让你可以随时对互联网上的每个页面发表评论</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cjyrt7/we_made_an_app_which_allows_you_to_always_comment/</link>
-      <description><![CDATA[      嗨！ 使用我们的应用程序，您可以浏览互联网，您可以随时在每个页面上发表评论、评论或标记人员！我们遇到了很多真正需要这个的情况：  当网站没有评论部分时 当评论被（严格）审核时 &lt; li&gt;当您需要创建另一个帐户只是为了说些什么时 当您需要搜索正确的评论网站以了解人们对我所在网站的评价时  &gt;如果我只是想轻松分享我正在阅读的页面，而不需要使用其他平台  我们很高兴终于可以分享我们的这个 SideProject与你们一起，我们非常感谢您的反馈！ 下载应用程序：https: //www.foill.com/app 站点：https://www.foill.com/  PS 1：我们的愿望清单上有一个插件版本（仍在寻找合适的开发人员） PS 2：我们知道过去甚至有类似的项目目前 https://preview。 redd.it/4wkij5izdeyc1.png?width=1421&amp;format=png&amp;auto=webp&amp;s=db05553a92ca09ec00b1bdfe149b7b1fb035cbd5   由   提交/u/dontcarezysss   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cjyrt7/we_made_an_app_which_allows_you_to_always_comment/</guid>
-      <pubDate>Sat, 04 May 2024 12:06:04 GMT</pubDate>
     </item>
     </channel>
 </rss>
