@@ -3,10 +3,45 @@
   <channel>
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
-    <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Sat, 04 May 2024 15:12:25 GMT</lastBuildDate>
+    <description>r/SideProject 是一个 Reddit 子版块，用于分享和接收有关副项目的建设性反馈。</description>
+    <lastBuildDate>Sat, 04 May 2024 18:14:38 GMT</lastBuildDate>
     <item>
-      <title>精美的开源产品组合将让您受聘</title>
+      <title>有声读物人工智能可视化</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ck6mi3/audiobook_ai_visualisation/</link>
+      <description><![CDATA[我一直在考虑一个将有声读物中的场景可视化的项目。作为一个狂热的听众，我时常感到有必要。尤其是当我在不做任何其他事情的情况下聆听时，看这些图像会很有趣。我做了一些简单的尝试，但我想在花一些真正的努力之前得到你的意见。你认为它有用、无聊还是毫无意义？   由   提交/u/MLC_Money  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ck6mi3/audiobook_ai_visualisation/</guid>
+      <pubDate>Sat, 04 May 2024 18:13:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>烘烤我的 saas 想法</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ck6f4a/roast_my_saas_idea/</link>
+      <description><![CDATA[我的想法是让独立黑客更容易获取和组织有关其应用程序的反馈。这将是一个小脚本标签，人们可以将其放在他们的网站上，显示反馈按钮。单击它会打开一个反馈模式。 应用程序创建者可以在我的网站上看到反馈、用户上传的图像、用户提供反馈表的设备等。客户还可以收到电子邮件通知和其他集成，例如 notion、slack 等。 我知道以前已经这样做过，但所有解决方案的每月订阅费用都非常昂贵。我的想法是一次性支付约 10 美元即可终身使用该小部件。  这值得建设吗？  我知道这会让我自己的项目变得更容易一些。还有其他独立黑客对此感兴趣吗？  我还可以添加哪些其他功能来使其与其他类似产品区分开来？   由   提交 /u/DrSteelfist   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ck6f4a/roast_my_saas_idea/</guid>
+      <pubDate>Sat, 04 May 2024 18:04:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>从来没见过人工智能这样说话😭</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ck6c5h/never_seen_an_ai_talk_like_this/</link>
+      <description><![CDATA[        由   提交/u/AcidAce7  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ck6c5h/never_seen_an_ai_talk_like_this/</guid>
+      <pubDate>Sat, 04 May 2024 18:00:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何在 0 名关注者的情况下为您的 SaaS 带来流量</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ck62t6/how_to_drive_traffic_to_your_saas_with_0_followers/</link>
+      <description><![CDATA[您好！我最近预启动了 SaaS，并在 0 名关注者的情况下获得了 95,000 的自然流量。  我做的主要事情是专注于有机排名平台。最好的例子包括   Reddit Tiktok  Youtube / instgram reels X / Twitter 社区   如果您发布专注于讲述故事的有趣帖子或视频，那么令人难以置信的是会有多少人支持您。  如果您有兴趣查看我的完整策略，请查看我最近的视频此处   由   提交/u/Jack2398  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ck62t6/how_to_drive_traffic_to_your_saas_with_0_followers/</guid>
+      <pubDate>Sat, 04 May 2024 17:48:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>我需要为我的业余项目购买一台 Macbook（之前从未使用过 Swift），而 eBay 列表并不容易浏览。所以我正在做我的业余项目的一个业余项目——Macbook finder。想法？使用 eBay API + Flask。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ck4df7/i_needed_to_buy_a_macbook_for_my_side_project_had/</link>
+      <description><![CDATA[        提交者    /u/MzCWzL   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ck4df7/i_needed_to_buy_a_macbook_for_my_side_project_had/</guid>
+      <pubDate>Sat, 04 May 2024 16:32:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>精美的开源作品集助您求职</title>
       <link>https://www.reddit.com/r/SideProject/comments/1ck2fq3/beautiful_open_source_portfolio_that_will_get_you/</link>
       <description><![CDATA[嘿，偷看 我创建了一个漂亮的作品集，您可以自由使用和修改。 &lt; p&gt;https://preview.redd.it/ffmv4iaadfyc1。 png?width=1495&amp;format=png&amp;auto=webp&amp;s=abe6222865355b4a6c9de6e4bf2503c191cb4529 您可以在此处实时查看：https://renas.se/ 这里是开源代码：https://github。 com/meganide/Portfolio 如果这对您有任何帮助并且您想表示一些支持，请通过在 X/Twitter，我在这里分享有关编程和构建 SaaS 的更有价值的建议，以便您可以开始在线赚钱。 https://twitter.com/renas_dev   由   提交/u/Meganide97  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1ck2fq3/beautiful_open_source_portfolio_that_will_get_you/</guid>
@@ -22,7 +57,7 @@
     <item>
       <title>用于扫描国际象棋符号并将其转换为国际象棋游戏的国际象棋应用程序</title>
       <link>https://www.reddit.com/r/SideProject/comments/1ck0t72/chess_app_for_scanning_chess_notations_and/</link>
-      <description><![CDATA[     &lt; /td&gt; 嘿大家，我最近在 App Store 和 Google Play Store 上发布了一款用于扫描国际象棋比赛记分表的应用程序。  您可以在此处查看该应用程序：https://chessdigitizer.com/download &lt; p&gt;https://preview.redd.it/ihgd6c4pzeyc1。 png?width=3072&amp;format=png&amp;auto=webp&amp;s=6ddb1e719974dac75d3c23021a3319e22244064b   由   提交/u/DayGroundwriting557   [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[     &lt; /td&gt; 嘿大家，我最近在 App Store 和 Google Play Store 上发布了一个用于扫描国际象棋比赛记分表的应用程序。  您可以在此处查看该应用程序：https://chessdigitizer.com/download &lt; p&gt;https://preview.redd.it/ihgd6c4pzeyc1。 png?width=3072&amp;format=png&amp;auto=webp&amp;s=6ddb1e719974dac75d3c23021a3319e22244064b   由   提交/u/DayGroundwriting557   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1ck0t72/chess_app_for_scanning_chess_notations_and/</guid>
       <pubDate>Sat, 04 May 2024 13:51:56 GMT</pubDate>
     </item>
@@ -34,7 +69,7 @@
       <pubDate>Sat, 04 May 2024 13:49:37 GMT</pubDate>
     </item>
     <item>
-      <title>在 ProductHunt 上启动？我们应该和一周中的任何特定一天一起吗？</title>
+      <title>在 ProductHunt 上发布？我们应该在一周中的某一天发布吗？</title>
       <link>https://www.reddit.com/r/SideProject/comments/1ck0ey7/launch_on_producthunt_should_we_and_any_specific/</link>
       <description><![CDATA[ 由   提交/u/projectbios  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1ck0ey7/launch_on_producthunt_should_we_and_any_specific/</guid>
@@ -43,14 +78,14 @@
     <item>
       <title>AI 待办事项列表：简化和游戏化日常任务</title>
       <link>https://www.reddit.com/r/SideProject/comments/1ck00uf/ai_todo_list_simplify_and_gamify_everyday_tasks/</link>
-      <description><![CDATA[      为什么要另一个待办事项列表？您可能会问！ 原因如下：普通的待办事项列表不会激励用户完成任务并实现目标！有了 Orp，它将您传统的待办事项列表变成游戏任务，一旦完成，您就可以收集积分并兑换真正的奖励！  我是一个长期拖延者，我试图找到很多解决方案来克服这个习惯，但都失败了。没有什么真正适合我！因此，我开始构建这个应用程序，通过使用奖励作为完成任务的激励来帮助像我这样的人提高工作效率。目前该应用程序正处于开发阶段，如果您有兴趣，可以在这里加入我的候补名单www.orpapp.com来帮助我，这样您就可以成为我们的 Beta 测试员，您的意见很重要，并将用于增强应用程序！非常感谢;)   由   提交 /u/Major_Perception9411   [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[      你可能会问，为什么还要一个待办事项列表？ 原因如下：普通的待办事项列表无法激励用户完成任务并实现目标！使用 Orp，它可以将您的传统待办事项列表变成游戏任务，一旦完成，您就可以收集积分并兑换真正的奖励！ 我是一个慢性拖延症患者，我尝试过很多方法来克服这个习惯，但都失败了。对我来说没有什么效果！所以我开始构建这个应用程序，通过使用奖励作为完成任务的激励，帮助像我这样的人提高工作效率。目前该应用程序处于开发阶段，如果您有兴趣，您可以通过加入我的候补名单来帮助我 www.orpapp.com，这样您就可以成为我们的 beta 测试员，您的意见很重要，并将用于增强应用程序！非常感谢 ;)    提交人    /u/Major_Perception9411   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1ck00uf/ai_todo_list_simplify_and_gamify_everyday_tasks/</guid>
       <pubDate>Sat, 04 May 2024 13:11:59 GMT</pubDate>
     </item>
     <item>
       <title>终身优惠是否比按月订阅更好？</title>
       <link>https://www.reddit.com/r/SideProject/comments/1cjzohf/is_a_lifetime_deal_better_than_a_monthly/</link>
-      <description><![CDATA[我正在开发一个 SaaS，它是一个 Chrome 扩展应用程序，可以让协作更加顺畅，因为您可以在任何网页上插入便签。 链接在这里：https://trytagu.com 所以我之前正在寻找一些收入继续开发以验证这个想法，显然会增强我的动力，我提供终身优惠以及每月订阅。 我认为终身优惠可能会很有趣并且令人信服这是早期阶段的论点，因为它是推动用户购买的一个有吸引力的论点，绝对不是长期的选择。 你的想法是什么？   由   提交 /u/FanaticRoute   [链接] [评论]]]></description>
+      <description><![CDATA[我正在开发我的 SaaS，这是一个 chrome 扩展应用程序，用于简化协作，因为您可以在任何网页上插入便签。 链接在这里：https://trytagu.com 因此，在继续开发以验证这个想法之前，我正在寻找一些收入，显然这会增强我的动力，我提供终身交易以及每月订阅。 我认为拥有终身交易可能很有趣，并且在早期阶段是一个令人信服的论据，因为它是一个有吸引力的论据，推动用户购买，绝对不是长期选择。 你怎么看？    提交人    /u/FanaticRoute   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1cjzohf/is_a_lifetime_deal_better_than_a_monthly/</guid>
       <pubDate>Sat, 04 May 2024 12:54:40 GMT</pubDate>
     </item>
@@ -62,53 +97,18 @@
       <pubDate>Sat, 04 May 2024 12:38:15 GMT</pubDate>
     </item>
     <item>
-      <title>我创建了一个样板，可以在 1 分钟内发布候补名单</title>
+      <title>我构建了一个样板，可在 1 分钟内发布候补名单</title>
       <link>https://www.reddit.com/r/SideProject/comments/1cjz7k0/i_built_a_boilerplate_to_publish_waitlist_within/</link>
       <description><![CDATA[   /u/rook1e_dev  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1cjz7k0/i_built_a_boilerplate_to_publish_waitlist_within/</guid>
       <pubDate>Sat, 04 May 2024 12:29:30 GMT</pubDate>
     </item>
     <item>
-      <title>我们制作了一个应用程序，让您可以随时对互联网上的每个页面发表评论</title>
+      <title>我们制作了一款应用程序，让你可以随时对互联网上的每个页面发表评论</title>
       <link>https://www.reddit.com/r/SideProject/comments/1cjyrt7/we_made_an_app_which_allows_you_to_always_comment/</link>
       <description><![CDATA[      嗨！ 使用我们的应用程序，您可以浏览互联网，您可以随时在每个页面上发表评论、评论或标记人员！我们遇到了很多真正需要这个的情况：  当网站没有评论部分时 当评论被（严格）审核时 &lt; li&gt;当您需要创建另一个帐户只是为了说些什么时 当您需要搜索正确的评论网站以了解人们对我所在网站的评价时  &gt;如果我只是想轻松分享我正在阅读的页面，而不需要使用其他平台  我们很高兴终于可以分享我们的这个 SideProject与你们一起，我们非常感谢您的反馈！ 下载应用程序：https: //www.foill.com/app 站点：https://www.foill.com/  PS 1：我们的愿望清单上有一个插件版本（仍在寻找合适的开发人员） PS 2：我们知道过去甚至有类似的项目目前 https://preview。 redd.it/4wkij5izdeyc1.png?width=1421&amp;format=png&amp;auto=webp&amp;s=db05553a92ca09ec00b1bdfe149b7b1fb035cbd5   由   提交/u/dontcarezysss   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1cjyrt7/we_made_an_app_which_allows_you_to_always_comment/</guid>
       <pubDate>Sat, 04 May 2024 12:06:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻求对我新推出的反馈</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cjyod5/seeking_feedback_on_my_newly_launched/</link>
-      <description><![CDATA[在过去的三个月里，我致力于创建一个名为 LiFE RPG 的工具，它代表利用游戏化实现有效的个人成长。我们的目标是让自我完善和实现人生目标不仅可行，而且令人愉快。 您可以通过下面的链接查看我的产品。 https://www.producthunt.com/products/life-rpg 不是想推销，而是渴望听到您的宝贵反馈。 让我知道在类似产品的未来迭代中应该注意哪些点。 非常感谢您的意见！✨    由   提交 /u/heyalbertco   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cjyod5/seeking_feedback_on_my_newly_launched/</guid>
-      <pubDate>Sat, 04 May 2024 12:00:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>文本 2 测验：只需点击一下即可从文本到测验</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cjym48/text_2_quiz_from_text_to_quiz_in_a_click/</link>
-      <description><![CDATA[      嘿伙计们，我制作了我的第一个付费人工智能将输入转换为可下载测验的项目。 如果你们能看一下登陆页面并向我提供您的任何反馈，我将不胜感激。 有如果您对生成的产品感兴趣，还有一个 PDF/PowerPoint 示例。   由   提交/u/Infinite_Temporary86   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cjym48/text_2_quiz_from_text_to_quiz_in_a_click/</guid>
-      <pubDate>Sat, 04 May 2024 11:57:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>帮我收集使用情况</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cjy8p7/help_me_to_collect_usage/</link>
-      <description><![CDATA[大家好， 我正在制作一个分析网站，我想为我的博客网站收集数据，你们能帮忙吗打开我的网站并随机点击即可。 链接：https://blog-starter-kit -new.vercel.app/   由   提交 /u/manstartitoff   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cjy8p7/help_me_to_collect_usage/</guid>
-      <pubDate>Sat, 04 May 2024 11:35:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>750 多个可行的 SaaS 创业创意 🧑‍💻</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cjy1yr/750_saas_startup_ideas_for_you_that_work/</link>
-      <description><![CDATA[嘿👋 链接：https:// /submityoursaas.com/saasideas/ 因此，我一直在收集经过验证的种子资金的各种 SaaS 初创公司的列表 ✅ 希望与所有人分享该列表！要免费下载，只需输入 0 美元，或者输入更多即可给我买一杯咖啡！干杯！ 为了更好地了解此类项目作为副项目启动所需的资源，我使用了 Web Archive。  输入任何初创公司的链接，查看它早期的样子以及他们首先发布的功能。 如果您为该产品留下星级评级，那就太好了换取Gumroad ⭐️🙏 点赞帖子让大家看到！ ⬆️   由   提交/u/Ok_Cap9063   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cjy1yr/750_saas_startup_ideas_for_you_that_work/</guid>
-      <pubDate>Sat, 04 May 2024 11:24:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 SwiftUI 构建 Vercel 管理应用程序</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cjy1fu/built_a_vercel_management_app_using_swiftui/</link>
-      <description><![CDATA[        提交人    /u/Moralberto   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cjy1fu/built_a_vercel_management_app_using_swiftui/</guid>
-      <pubDate>Sat, 04 May 2024 11:23:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
