@@ -4,7 +4,7 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Sun, 05 May 2024 12:21:32 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 May 2024 15:13:35 GMT</lastBuildDate>
     <item>
       <title>Iconbuddy Figma 插件</title>
       <link>https://www.producthunt.com/posts/iconbuddy-figma-plugin</link>
@@ -48,6 +48,20 @@
       <pubDate>Sat, 04 May 2024 10:34:25 GMT</pubDate>
     </item>
     <item>
+      <title>洛伊特</title>
+      <link>https://www.producthunt.com/posts/logoit</link>
+      <description><![CDATA[
+            徽标变得简单
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/logoit</guid>
+      <pubDate>Thu, 02 May 2024 22:22:30 GMT</pubDate>
+    </item>
+    <item>
       <title>MoneyMate - 家务和津贴</title>
       <link>https://www.producthunt.com/posts/moneymate-chores-allowance</link>
       <description><![CDATA[
@@ -65,12 +79,12 @@
       <title>Copilot 工作区 Raycast 扩展</title>
       <link>https://www.producthunt.com/posts/copilot-workspace-raycast-extension</link>
       <description><![CDATA[
-            从任何地方获取想法并将其转化为代码
-          
+从任何地方获取想法并将其转化为代码
+
 
 讨论
-            |
-            链接
+|
+链接
 ]]></description>
       <guid>https://www.producthunt.com/posts/copilot-workspace-raycast-extension</guid>
       <pubDate>Thu, 02 May 2024 10:47:21 GMT</pubDate>
@@ -107,29 +121,15 @@
       <title>特工人员</title>
       <link>https://www.producthunt.com/posts/agentcrew</link>
       <description><![CDATA[
-100% 免费工具，立即使用 AI 自动化您的任务
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/agentcrew</guid>
-      <pubDate>Sun, 28 Apr 2024 14:20:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>在信息中</title>
-      <link>https://www.producthunt.com/posts/inforida</link>
-      <description><![CDATA[
-            将学校带入数字时代
+            100% 免费工具，可利用 AI 自动化您的任务
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/inforida</guid>
-      <pubDate>Sun, 28 Apr 2024 10:01:45 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/agentcrew</guid>
+      <pubDate>Sun, 28 Apr 2024 14:20:48 GMT</pubDate>
     </item>
     <item>
       <title>锤子</title>
