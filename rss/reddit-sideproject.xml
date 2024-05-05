@@ -4,11 +4,74 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个 Reddit 子版块，用于分享和接收有关副项目的建设性反馈。</description>
-    <lastBuildDate>Sun, 05 May 2024 15:13:28 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 May 2024 18:15:01 GMT</lastBuildDate>
+    <item>
+      <title>Parsedog - 用于从 PDF 和图像中提取数据的类型安全 SDK</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ckx0fv/parsedog_typesafe_sdk_for_extracting_data_from/</link>
+      <description><![CDATA[大家好！我为 Parsedog 发布了 v0.1.0。这是一种以类型安全的方式从 PDF 和图像中提取数据的简单方法。继续注册，我将给您 1000 页的免费配额来使用它（AWS Textract 价值 65 美元）。 https://parsedog.io/ 如果您想请求功能或提供反馈，我将非常高兴！您可以在 Discord、Twitter、Telegram 中进行操作 - 无论您喜欢什么地方   由   提交 /u/gsemyongha   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ckx0fv/parsedog_typesafe_sdk_for_extracting_data_from/</guid>
+      <pubDate>Sun, 05 May 2024 17:52:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>作为 SaaS 构建者，您在社交媒体上推广产品时面临哪些障碍？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ckvt70/as_a_saas_builder_what_all_hurdles_you_face_while/</link>
+      <description><![CDATA[Redditers 大家好， 我有一个问题要问所有 SaaS 构建者。您在社交媒体上营销产品时面临哪些障碍？ 特别是在 X/Twitter、Instagram 上。    由   提交 /u/wadpreneur   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ckvt70/as_a_saas_builder_what_all_hurdles_you_face_while/</guid>
+      <pubDate>Sun, 05 May 2024 16:58:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了一个网站来阅读免费的非小说类书籍摘要</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ckvrc7/ive_created_a_site_to_read_free_nonfiction_book/</link>
+      <description><![CDATA[https://www.summrize.com/  大家好！我知道很多人都想在生活中腾出更多时间读书，但并不总是有时间这样做。因此，我创建了 Summrize，一个免费阅读非小说类图书摘要的在线平台。对于每本书，我都浓缩了最重要的概念、引言、可行的见解、框架和案例研究，并以漂亮的格式呈现它们。您可以保存最能引起您共鸣的片段，并在其他平台上分享！我们知道还存在其他类似的平台（Blinkist、Shortform），但我在 Summrize 上的目标是免费获取知识，因为我们相信让每个人都能获得可以帮助人们改变生活的宝贵知识！请查看我们的网站，如果内容对您有用，请与朋友/家人分享，并考虑加入我们的时事通讯以获取更多见解！ 也支持我们的 Product Hunt！ https://www.producthunt.com/posts/summrize   由   提交/u/chowzedong  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ckvrc7/ive_created_a_site_to_read_free_nonfiction_book/</guid>
+      <pubDate>Sun, 05 May 2024 16:56:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>简化策略？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ckvczn/strategies_for_simplifying/</link>
+      <description><![CDATA[我有一个想从事的市场式项目的想法，但我脑子里想的是一个庞大、功能丰富、成熟、复杂的 Web 应用愿景。我知道这样的事情不可能凭空而来，但我不知道如何简化或从哪里开始，我陷入了分析瘫痪。 您使用过哪些策略来简化和过滤一个想法并将其分解为可管理的部分，让您感觉可以开始构建而不会不知所措？    提交人    /u/Katydid789   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ckvczn/strategies_for_simplifying/</guid>
+      <pubDate>Sun, 05 May 2024 16:38:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>请烤我们的网站！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ckupa5/please_roast_our_site/</link>
+      <description><![CDATA[大家好，我和我的朋友现在在读大学，我们想学习制作一个网站。因此，我们认为我们将创建一个无广告的信息网站，并使用最佳堆栈+最佳实践来构建它，因此我们在这个过程中学习。 我们去了每个国家+州并找到了官方来源每个公共假期页面并在此处进行策划。我们知道有很多网站都这样做，它们要么有缺陷，要么充满广告。我们的座右铭是尽可能让它看起来时尚和快速。另外，我们很快就会开源！ 站点：allpublicholidays.com 注意：请不要客气，因为我们计划在这里收集反馈并建立更多精彩的网站！   由   提交/u/GiniMiniManeMo   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ckupa5/please_roast_our_site/</guid>
+      <pubDate>Sun, 05 May 2024 16:09:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们的目标是改变数字营销机构和小企业主的链接建设格局。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ckub2s/our_goal_is_to_change_the_linkbuilding_landscape/</link>
+      <description><![CDATA[在 2019 年出售最后一个专注于 SEO 的 SaaS 业务后，我继续通过我的数字营销机构与客户合作。对于其他机构或个体企业主来说，想要提高其网站的权威性和竞争性排名的一个常见问题是，您很可能需要反向链接，好的反向链接和大量的反向链接。购买像样的反向链接每个链接可能要花费 150-1,000 美元以上。 您可以进行所有您想要的页面搜索引擎优化，但如果没有您想要开展业务的利基市场的权威，Google 不会重视您的内容与其他具有高权威的内容一样高。 大多数人不知道这一点，但数字营销机构实际上属于 Facebook 或 Discord 上的这些地下群组，您可以在其中发布网站的利基市场，然后发布您的内容正在寻找链接。从那里，您可以与其他代理机构所有者直接消息以交换（非互惠）反向链接。 这是乏味且耗时的。 为了解决这个问题和许多其他问题，我们建立了LinkRocket.ai，这是一个连接来自世界各地的用户的平台，其使命是通过我们的创新软件平台简化链接构建过程。我们的目标是提供一个由利基相关网站组成的动态网络，使我们的用户能够获得和交换有针对性的反向链接，从而增强他们的在线形象。所有这一切都是通过信用系统完成的，该系统奖励用户为他人建立链接。 用户通过完成反向链接请求来获得信用，然后他们可以获取这些信用并请求指向自己网站的反向链接。  &gt;   由   提交/u/jmf421  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ckub2s/our_goal_is_to_change_the_linkbuilding_landscape/</guid>
+      <pubDate>Sun, 05 May 2024 15:51:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>我做了一个基于人工智能的情书生成器，我应该如何推广它？，需要反馈。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cku9ft/i_made_an_ai_based_love_letter_generator_how/</link>
+      <description><![CDATA[   /u/mars_resident_1   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cku9ft/i_made_an_ai_based_love_letter_generator_how/</guid>
+      <pubDate>Sun, 05 May 2024 15:49:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>我建立了一个免费的小网站，可以为您提供重要新闻的快速摘要。它每六个小时自动更新一次。希望您觉得它有用且有帮助</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cku3jd/i_built_a_free_little_website_that_gives_you/</link>
+      <description><![CDATA[ 由   提交 /u/HaywardUCuddleme    [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cku3jd/i_built_a_free_little_website_that_gives_you/</guid>
+      <pubDate>Sun, 05 May 2024 15:41:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个日记应用程序，也可以跟踪时间</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cktiol/i_made_a_journaling_app_that_can_also_track_time/</link>
+      <description><![CDATA[它最初是一个简单的日记应用程序。您可以为不同的活动创建标签，以便您可以全天快速捕获它们。在上次更新中，我添加了记录标签时间的功能。在这里查看： https://www.recapme.de/ 还有很多功能我想添加，也许您也有一些功能想法？   由   提交/u/earlyowlsoftware  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cktiol/i_made_a_journaling_app_that_can_also_track_time/</guid>
+      <pubDate>Sun, 05 May 2024 15:15:14 GMT</pubDate>
+    </item>
     <item>
       <title>我为《卫报》上超过 200 万条与图书相关的评论建立了一个搜索引擎</title>
       <link>https://www.reddit.com/r/SideProject/comments/1ckt722/i_built_a_search_engine_for_over_2_million/</link>
-      <description><![CDATA[大家好。gb.tachy.org 是我使用 Nextjs 创建的网站。 我经常浏览《卫报》网站上关于书籍的用户评论，以查看关于我读过的书的讨论或寻找新书来阅读。没有很好的方法来搜索这些评论，所以我把它们放在一个提供全文搜索的 Meilisearch 实例中。虽然搜索速度相当快，但由于我没有使用特别高性能的数据结构，完整的评论线程可能需要一段时间才能加载。    提交人    /u/takenschmaken   [链接] [评论]]]></description>
+      <description><![CDATA[大家好。 gb.tachy.org是我用Nextjs做的一个网站。 我经常在卫报上浏览用户对书籍的评论网站查看有关我读过的书籍的讨论或查找新书来阅读。没有一个很好的方法来搜索这些评论，因此我将它们放在提供全文搜索的 Meilisearch 实例中。虽然搜索速度相当快，但完整的评论线程可能需要一段时间才能加载，因为我没有使用性能特别好的数据结构。   由   提交 /u/takenschmaken   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1ckt722/i_built_a_search_engine_for_over_2_million/</guid>
       <pubDate>Sun, 05 May 2024 15:00:52 GMT</pubDate>
     </item>
@@ -20,7 +83,7 @@
       <pubDate>Sun, 05 May 2024 14:51:53 GMT</pubDate>
     </item>
     <item>
-      <title>我制作了一个 AI 工具来检测社交媒体上的 AI 面孔</title>
+      <title>我制作了一个人工智能工具来检测社交媒体上的人工智能面孔</title>
       <link>https://www.reddit.com/r/SideProject/comments/1cksvbs/i_made_an_ai_tool_to_detect_ai_faces_on_social/</link>
       <description><![CDATA[   /u/decive-deeface  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1cksvbs/i_made_an_ai_tool_to_detect_ai_faces_on_social/</guid>
@@ -46,69 +109,6 @@
       <description><![CDATA[       由   提交/u/hopelessfacet12   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1ckrvaa/made_a_video_about_how_i_built_an_ai_browser_that/</guid>
       <pubDate>Sun, 05 May 2024 13:58:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>颜色选择器 – 从图像中提取颜色的工具</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ckrptj/color_picker_tool_for_extracting_colors_from/</link>
-      <description><![CDATA[您好，我是 Rayid，一名前端 Web 开发人员，热衷于创建解决实际问题的工具。今天，我很高兴向大家介绍我的第一个副业项目 - 图像颜色选择器 Web 应用程序。 问题：曾经偶然发现过一个引人注目的网站，并希望您能够在您自己的项目中捕捉并使用这些迷人的颜色？我当然有，这就是我开发这个工具的原因。我想要一个可以有效地从图像中提取颜色并保存以供以后使用的工具。 **解决方案：**为了克服上述问题，我构建了 Color Picker – 一个使用 React 和 Tailwind 构建的 Web 应用程序，后端由 Firebase 提供支持。该工具允许用户使用吸管从图像中提取颜色，提供多种格式以方便使用。用户可以轻松保存、共享和导出他们的颜色。此外，此工具会自动命名颜色代码，以便您可以轻松地将它们实现到您的代码中。 您可以在此处查看我的网络应用程序：https ://imgcolorpicker.vercel.app 我很想听听您对该工具的想法和体验。快乐着色！   由   提交 /u/tobi_tensei   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ckrptj/color_picker_tool_for_extracting_colors_from/</guid>
-      <pubDate>Sun, 05 May 2024 13:50:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>当潜在客户发帖时收到提醒</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ckrjag/get_alerts_when_potential_customers_post/</link>
-      <description><![CDATA[我构建了一个个人工具，当我的产品的潜在客户在 Reddit 上发帖时，它会使用 AI 来提醒我。  还有其他人对这个工具感兴趣吗？你会付什么钱？ 14/月 听起来合理吗？   由   提交/u/chinkapin_  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ckrjag/get_alerts_when_potential_customers_post/</guid>
-      <pubDate>Sun, 05 May 2024 13:41:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>利用 YouTube 热门视频的总结见解，有效探索 Top Side Hustle 创意</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ckrhp0/efficiently_explore_top_side_hustle_ideas_with/</link>
-      <description><![CDATA[您是否对副业感兴趣，但没有时间筛选无数 YouTube 视频以获取最佳建议？ Lilys AI 为您提供来自观看次数最多的 YouTube 视频中关于副业的整齐总结的笔记，让您能够快速吸收关键见解和可行的技巧。 我们的摘要减少了废话，重点关注内容的实质内容，这样您就可以花更多时间根据好的建议采取行动，而不是寻找建议。每个摘要都链接回原始视频，以便在需要时进行更深入的探索。 加入 Lilys AI，简化您的副业研究并高效启动您的下一个项目！ 此处查看我们的最新摘要。 尝试一下，看看您花了多少时间可以保存，同时仍然获得您需要的所有重要信息！   由   提交/u/East-Fee-1935   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ckrhp0/efficiently_explore_top_side_hustle_ideas_with/</guid>
-      <pubDate>Sun, 05 May 2024 13:39:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>开发世界上第一个用于招聘的人工智能工具套件</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ckrd0d/developing_the_worlds_first_ai_toolsuite_for/</link>
-      <description><![CDATA[嗨，我是 Leon，一名专业招聘人员。我见过并测试过很多招聘领域的软件，尤其是用于招聘的 AI 软件。但是，我一直质疑急于用 AI 完全自动化招聘流程的做法。坦率地说，这并不现实。即使 AI 足够先进，招聘从根本上来说仍然是以人为中心的领域。你真的想接受机器的面试吗？ 尽管如此，我坚信 AI 具有巨大的潜力来增强招聘的各个方面，不仅适用于招聘人员，也适用于负责自己招聘的企业家。这就是我和我的合伙人在过去几个月里一直在开发 Hiringtools AI 的原因。我们正处于最后阶段，准备很快推出 BETA 版本。 我们欢迎任何有兴趣探索我们的平台或提供改进建议的人。欢迎随时在此处注册等候名单，我们会在上线后通知您：https://getwaitlist.com/waitlist/16546 查看 Hiringtools AI：https://hiringtoolsai.framer.website/ 祝好，Leon    提交人    /u/kranzelbart   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ckrd0d/developing_the_worlds_first_ai_toolsuite_for/</guid>
-      <pubDate>Sun, 05 May 2024 13:32:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>这是我的周一营销通讯的第七次连续发布，今天我向其中添加了推荐。你介意订阅它吗？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ckr2xu/its_7th_streak_of_my_monday_marketing_newsletter/</link>
-      <description><![CDATA[Redditers 大家好， 大约 7 周前，我开始了我的旅程，开始了周一营销通讯。  今天，我启用了推荐部分，以展示时事通讯的可信度。 每个星期一我都会与订阅者分享有价值的版本，这个星期一它将是“在社交媒体上迷因或不迷因”。    由   提交 /u/wadpreneur   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ckr2xu/its_7th_streak_of_my_monday_marketing_newsletter/</guid>
-      <pubDate>Sun, 05 May 2024 13:18:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>四个月后，我终于有勇气在 Product Hunt 上发布 Indietool.io</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ckr0so/its_been_4_months_now_i_have_courage_to_launch/</link>
-      <description><![CDATA[我已经在产品上工作了 4 个月。我终于有勇气在 Product Hunt 上发布产品了。 它现在在 PH 上线了。 希望得到您的支持！ PH 链接：https://www.producthunt.com/posts/indietool 欣赏猫在 YouTube 视频中谈论发布会 - 有声音更好。 https://www.youtube.com/watch?v=9gaC7yo8fEA    由   提交 /u/ProfessionalSet755   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ckr0so/its_been_4_months_now_i_have_courage_to_launch/</guid>
-      <pubDate>Sun, 05 May 2024 13:14:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>CoinCurrently：交易标记</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ckqytx/coincurrently_transaction_markers/</link>
-      <description><![CDATA[      大家好，周日快乐！我只是想分享 CounCurrently iOS 的最新功能。长期以来，您一直能够创建投资组合并添加交易，但现在如果打开设置，它们也会显示在图表中。方便吗？Ps。标记中的字母将在下次更新时变为白色。随时查看应用程序！www.coincurrently.app    提交人    /u/barcode972   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ckqytx/coincurrently_transaction_markers/</guid>
-      <pubDate>Sun, 05 May 2024 13:11:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么我没有更快（更快）地开始构建软件产品？啊</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ckqd1d/why_did_i_not_start_building_software_products/</link>
-      <description><![CDATA[我一直喜欢构建东西，但我从未真正完成过任何东西 - 我测试了一些小想法；我从来没有想过我构建的那些程序可以作为服务出售，并且有一天可以摆脱朝九晚五的生活。 去年，我想从头到尾构建一些东西。它始于我构建 Context Bio（示例：https://ctx.bio），这是我为许多人构建的生物工具中的链接现在几个月了。它最初是一个副项目，构建起来很有趣。我只是不断地添加功能。 构建这个平台，作为一名工程师，我学到了很多东西。我现在拥有了令我满意的软件堆栈以及用于简化我的工作的技术/服务。 两周前，我从 Context 中抽出了一些时间，看看它在没有我的情况下会如何运作，但更多重要的是，为了交流而构建其他东西，因为我“需要休息一下”。 规则是快速构建一些东西，不到一个月，并在此过程中学习一些东西（一个新的图书馆，技能等）。 今天 - 2 周后 - 产品已完成 95%，这真是令人兴奋！另外，我有几个新想法可以实施到我最初构建的平台中，所以这对我来说是一个巨大的胜利。它给了我对未来的希望，我不需要很多个月的时间来从头到尾构建一些东西。 我现在唯一的遗憾是为什么我没有早点开始构建完整的产品，而且更快。我一直都知道这将是我喜欢做的事情，但我从未真正投入。我一直在拖延这个想法。 古老的假设和“更快”。现在时间已经无法倒转了但如果您正在考虑开始您的副业项目，那就去做吧（现在）。快速失败并转向下一个想法。以后少后悔。   由   提交 /u/tjmakingof   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ckqd1d/why_did_i_not_start_building_software_products/</guid>
-      <pubDate>Sun, 05 May 2024 12:40:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>烤我的投资组合！ （开源）</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ckqbgi/roast_my_portfolio_opensource/</link>
-      <description><![CDATA[大家好！我是一名 15 岁的 Web 开发人员，希望在我的作品集上找到一些残酷的诚实。我完全自己构建了它，并且它在 GitHub 上开源。您还可以在 wendoj.vercel.app 上查看实时版本。 我仍在学习入门知识，所以我愿意接受任何和所有的反馈。严厉，诚实，但希望也有一点帮助！让我知道您认为哪些方面可以改进，哪些完全有效，以及您想到的任何其他内容。 提前致谢！ P.S. Don&#39;如果您对细节感兴趣，请不要忘记查看代码。   由   提交 /u/RadishGobbler   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ckqbgi/roast_my_portfolio_opensource/</guid>
-      <pubDate>Sun, 05 May 2024 12:37:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
