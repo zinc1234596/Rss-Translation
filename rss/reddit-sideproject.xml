@@ -4,16 +4,72 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个 Reddit 子版块，用于分享和接收有关副项目的建设性反馈。</description>
-    <lastBuildDate>Sat, 04 May 2024 21:11:52 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 May 2024 00:58:26 GMT</lastBuildDate>
     <item>
-      <title>【自我宣传】烤我的第一个Web端项目</title>
+      <title>您的浏览器现在打开了多少个选项卡？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ckfbyq/how_many_tabs_do_you_have_open_right_now_on_your/</link>
+      <description><![CDATA[大家好！我正在为我的新 SaaS 做一些研究，您只需回答就会对我有很大帮助 🤗 查看民意调查   由   提交 /u/PactoCopernico   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ckfbyq/how_many_tabs_do_you_have_open_right_now_on_your/</guid>
+      <pubDate>Sun, 05 May 2024 00:56:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>在几分钟内本地化您的应用程序 🌐 - 我的周末项目</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cke4zw/localize_your_app_in_minutes_my_weekend_project/</link>
+      <description><![CDATA[      使用 AI 在几分钟内获得准确的应用程序本地化。选择您的语言和接收 40 多个市场的翻译。不再需要将字符串复制并粘贴到 Xcode 中。 这个想法是在我开发自己的 iOS 应用程序时诞生的。我发现从法学硕士中为每种语言手动复制和粘贴应用程序字符串非常乏味且耗时。我创建了字符串目录来自动化该过程并为开发人员节省时间。 从 Xcode 导出字符串目录，上传并选择最多 40 种语言。 很想听听您的反馈&lt; /p&gt;   由   提交 /u/roundedvision    [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cke4zw/localize_your_app_in_minutes_my_weekend_project/</guid>
+      <pubDate>Sat, 04 May 2024 23:57:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>免费为您的网站提供 Macos 风格通知 (popnboost.com)</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cke21w/macos_style_notifications_for_your_website_for/</link>
+      <description><![CDATA[       由   提交/u/kervanaslan  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cke21w/macos_style_notifications_for_your_website_for/</guid>
+      <pubDate>Sat, 04 May 2024 23:52:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>我为了好玩构建了一个开源随机困境生成器</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ckc7aa/i_built_an_open_source_random_dilemma_generator/</link>
+      <description><![CDATA[上周，我 9 岁的儿子走到我面前问我“你愿意在公共场合拉裤子还是喝变质牛奶？”,我很感兴趣。事实证明，这并不是他自己编造的，而是从纸牌游戏中得到的困境。  几天前的晚上，我决定将其中一些卡片数字化并创建一个简单的开源应用程序 为它。 只是一个有趣的项目；真的没有货币化或更大的目标。 链接：https://dilemma.wtf 技术堆栈：  后端：Laravel 前端：纯 HTML 和 Tailwind，带有少量 Alpine.js 部署：Laravel Forge ，链接到 Hetzner VPS 应用程序本身非常简单。只是一堆 Markdown 文件和一个选择两个随机文件的控制器    由   提交/u/arondeparon  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ckc7aa/i_built_an_open_source_random_dilemma_generator/</guid>
+      <pubDate>Sat, 04 May 2024 22:23:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>通过开始开发 MVP 赚取了 4 万多美元</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ckbzma/generated_40k_by_starting_to_develop_mvps/</link>
+      <description><![CDATA[大家好 我想分享一下我如何通过开始开发 MVP 赚取 4 万美元以上的故事。 （免责声明，我不销售或有兴趣销售任何类型的课程。）我拥有一家网站开发/管理公司，从那时起，我主要针对需要普通网站的人，例如商业网站或夫妻网站商店网站。然而，这些都是低价销售，与他们合作是最困难的，因为他们非常挑剔，要求每天进行 100 次编辑。我想远离这个领域，所以我开始瞄准那些想要创建 MVP 但又不想花费 3 万美元以上的新企业主或初创公司。因此，我开始对每个 MVP 软件和 Web 软件收取 5000 美元的费用，到目前为止进展顺利。我认为这是扩大我的公司规模的最佳方式，回顾过去，我想如果我没有做出开始研究 MVP 的决定，那么我就会放弃为夫妻店或低预算客户工作。最小的细节，不欣赏你正在做的事情。    由   提交 /u/Wild_Dragonfruit_184   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ckbzma/generated_40k_by_starting_to_develop_mvps/</guid>
+      <pubDate>Sat, 04 May 2024 22:13:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>我构建了一个人工智能应用程序，可以帮助您实时回答面试问题</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ckbhp2/i_built_an_ai_app_that_helps_you_answer_interview/</link>
+      <description><![CDATA[ 由   提交/u/PuzzleheadedTackle27  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ckbhp2/i_built_an_ai_app_that_helps_you_answer_interview/</guid>
+      <pubDate>Sat, 04 May 2024 21:50:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>稍后我将重构该代码 |傲慢</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ckb8fh/ill_refactor_that_code_later_arrogantto/</link>
+      <description><![CDATA[      https://arrogantto.shop 介绍最新的“代码置信度”设计，现已在 Arrogantto 发售。自信地提升您的编码风格！ buildinpublic #CodeConfidence #coding #tech #programming   由   提交 /u/Zealousideal_North83   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ckb8fh/ill_refactor_that_code_later_arrogantto/</guid>
+      <pubDate>Sat, 04 May 2024 21:39:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>LifeLog：将您的数字聊天变成个性化的记忆小册子</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ckaojn/lifelog_transform_your_digital_chats_into/</link>
+      <description><![CDATA[      我很高兴分享 LifeLog，这是我一直在开发的一个独特项目一会儿吧。 LifeLog 将您的数字对话（Whatsapp 对话）转化为制作精美的个性化小册子，提供了一种新的方式来可视化和珍惜塑造我们生活的关系和互动。 从安全提取聊天数据到设计每个页面， LifeLog 反映个人故事，结合自制人工智能算法、数据可视化、设计和讲故事，创造出真正个人化的东西。这不仅仅是一本小册子；它是一本小册子。它是您数字遗产的有形部分，展示了您对话中的见解和记忆。 我创建 LifeLog 是为了探索我们数字交流背后更深层的叙述，并为每个人提供一种独特的方式来联系他们的个人和共享内容历史。我很想听听您的想法、反馈以及对增强此项目的任何见解！ 查看一下看看您的聊天内容讲述了哪些故事！ https://reddit.com /link/1ckaojn/video/eqdsii5h6hyc1/player 如果您感兴趣并想了解更多幕后内容或更新，请在 Instagram 上关注该项目 生活日志。您的支持帮助我成长并不断创新。感谢您查看 LifeLog！   由   提交/u/Low_Prior_2296   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ckaojn/lifelog_transform_your_digital_chats_into/</guid>
+      <pubDate>Sat, 04 May 2024 21:13:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>[自我宣传] 吐槽我的第一个 Web 项目</title>
       <link>https://www.reddit.com/r/SideProject/comments/1ckahn8/self_promo_roast_my_first_web_side_project/</link>
-      <description><![CDATA[嘿伙计们👋， 我是一名初级人工智能工程师，这终于是我的业余项目的第一个版本在过去的 6 周里我们一直在努力！！！ 对于那些询问技术堆栈的人来说是：Supabase、Svelte、Sveltekit、Tailwind、Modal serverless 还有很多东西需要解决这样做，但该网站已经启动并运行并且非常有吸引力。请尝试一下，订阅即可免费获得免费积分： -&gt; Stablelab 这个网站的想法：为某些使用最新开放的用例提供非常快速、方便的特定 AI 管道模型，例如使用脸部生成贴纸，以现有图像的风格生成新图像（可以是艺术品，照片......），... 对于那些对 AI 有一点了解的人，这就是 ComfyUI，其底层具有稳定的扩散，我不会像许多 AI 公司那样只是将 OpenAI 包装起来。 顺便说一句，目前这为我提供了 0 美元，我的产品/市场契合度非常差，如果您有任何改进的想法，请 MP 我。 https://reddit.com/link/1ckahn8/video/hqnjvmp35hyc1/player   由   提交/u/Impact31  [链接] [评论]]]></description>
+      <description><![CDATA[大家好 👋 ， 我是一名初级 AI 工程师，这是我过去 6 周一直在从事的一个业余项目的第一个版本！！！ 对于那些询问技术栈的人，是：Supabase、Svelte、Sveltekit、Tailwind、Modal serverless 还有很多事情要做，但该网站已经启动并运行并且非常吸引人。请尝试一下，您可以免费获得免费积分作为订阅： -&gt; Stablelab 本网站的理念：使用最新的开放模型，为某些用例提供非常快速、方便的特定 AI 管道，例如使用脸部生成贴纸、以现有图像的风格生成新图像（可以是艺术品、照片......），...... 对于那些对 AI 有所了解的人来说，这是 ComfyUI 和 Stable Diffusion 的底层，我不仅仅是像许多 AI 公司那样将 OpenAI 包装起来。 顺便说一句，目前这为我提供了 0 美元，我的产品/市场契合度很差，如果您有任何改进想法，请 MP 我。 https://reddit.com/link/1ckahn8/video/hqnjvmp35hyc1/player    由   提交  /u/Impact31   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1ckahn8/self_promo_roast_my_first_web_side_project/</guid>
       <pubDate>Sat, 04 May 2024 21:04:28 GMT</pubDate>
     </item>
     <item>
-      <title>我开发了一个生产力应用程序</title>
+      <title>我构建了一个生产力应用程序</title>
       <link>https://www.reddit.com/r/SideProject/comments/1ck9dww/i_built_a_productivity_application/</link>
       <description><![CDATA[我构建了 www.MindSprint.app 一个番茄计时器帮助您保持正轨并提高生产力。可在网络和移动设备上访问，易于使用且免费。使用 vanilla JS 和 tailwind CSS 构建。请尝试一下并分享您的诚实意见。欢迎所有反馈或建设性批评。我将继续改进该应用程序，因此您的反馈对我很有价值。   由   提交 /u/wikskold   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1ck9dww/i_built_a_productivity_application/</guid>
@@ -22,7 +78,7 @@
     <item>
       <title>这个产品有用吗</title>
       <link>https://www.reddit.com/r/SideProject/comments/1ck8j2f/will_this_product_work/</link>
-      <description><![CDATA[大家好，希望你们都过得很好，请提供您宝贵的反馈https://smartfluence.fr/我很想听听我们如何才能不断改进 Smartfluence 完全自动化您所有的影响者活动。 请就设计、功能和价格提供您的反馈，我们可以改进我们的产品，谢谢。     提交人    /u/Saraarts1   [链接] [评论]]]></description>
+      <description><![CDATA[大家好，希望你们一切顺利，请提供宝贵的反馈 https://smartfluence.fr/ 我很想听听我们如何不断改进 Smartfluence 可以完全自动化您的所有影响者活动。  请就设计、功能和定价提供反馈，我们可以改进我们的产品，谢谢。    由   提交/u/Saraarts1  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1ck8j2f/will_this_product_work/</guid>
       <pubDate>Sat, 04 May 2024 19:36:41 GMT</pubDate>
     </item>
@@ -43,7 +99,7 @@
     <item>
       <title>对我们的项目和登陆页面进行反馈交流？</title>
       <link>https://www.reddit.com/r/SideProject/comments/1ck6rdq/feedback_exchange_for_our_projects_landing_pages/</link>
-      <description><![CDATA[大家好， 几个月前我启动了我的业余项目，构建/营销这个项目非常棒，但获得那些早期活跃用户的验证和见解绝对具有挑战性。 我觉得设置一个“反馈交易”主题来帮助彼此验证和完善我们的项目。 工作原理：  发布您的项目：评论并附上您的项目链接，并表明您是在寻找有关着陆页、实际项目/应用还是两者的反馈，以及您特别寻找反馈的任何其他内容。 获取反馈：我会深入研究，查看您的项目，并直接在评论中提供反馈。 回报反馈：一旦您获得反馈，现在轮到您回复该评论并提供您对他们项目的反馈了。 获得更多反馈：在您第一次互相反馈交换之后，在该主题中发布另一条评论，请求更多反馈。这个循环应该鼓励积极参与并确保每个人都能平等受益。  我将通过提供前 10 条评论的反馈来开始此过程。希望在那之后，你们都可以结伴而行，开始行动。    提交人    /u/nostorbe   [link] [comments]]]></description>
+      <description><![CDATA[大家好， 几个月前我启动了我的业余项目，构建/营销这个东西非常棒，但是让那些早期的活跃用户进行验证和洞察绝对是具有挑战性的。 我认为建立“反馈交易”会很酷。线程来帮助彼此验证和完善我们的项目。 工作原理：  发布您的项目：使用链接发表评论到您的项目，并指出您是否正在寻找有关着陆页、实际项目/应用程序或两者的反馈，以及您专门寻求反馈的其他任何内容。 获取反馈：我将深入了解您的项目，并直接在评论中提供反馈。 回报反馈：收到反馈后，现在轮到您用对他们项目的反馈来回应该评论。 获取更多反馈：&lt; /strong&gt; 在第一次相互反馈交易后，在该线程中发布另一条评论，寻求更多反馈。这个周期应该鼓励积极参与并确保每个人都平等受益。  我将通过为前 10 条评论提供反馈来开始这一过程。希望在那之后你们都可以结对并开始行动。   由   提交 /u/nostorbe   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1ck6rdq/feedback_exchange_for_our_projects_landing_pages/</guid>
       <pubDate>Sat, 04 May 2024 18:19:09 GMT</pubDate>
     </item>
@@ -53,62 +109,6 @@
       <description><![CDATA[我的想法是让独立黑客更容易获取和组织有关其应用程序的反馈。这将是一个小脚本标签，人们可以将其放在他们的网站上，显示反馈按钮。单击它会打开一个反馈模式。 应用程序创建者可以在我的网站上看到反馈、用户上传的图像、用户提供反馈表的设备等。客户还可以收到电子邮件通知和其他集成，例如 notion、slack 等。 我知道以前已经这样做过，但所有解决方案的每月订阅费用都非常昂贵。我的想法是一次性支付约 10 美元即可终身使用该小部件。  这值得建设吗？  我知道这会让我自己的项目变得更容易一些。还有其他独立黑客对此感兴趣吗？  我还可以添加哪些其他功能来使其与其他类似产品区分开来？   由   提交 /u/DrSteelfist   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1ck6f4a/roast_my_saas_idea/</guid>
       <pubDate>Sat, 04 May 2024 18:04:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>从来没见过AI这么说话😂</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ck6c5h/never_seen_an_ai_talk_like_this/</link>
-      <description><![CDATA[        由   提交/u/AcidAce7  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ck6c5h/never_seen_an_ai_talk_like_this/</guid>
-      <pubDate>Sat, 04 May 2024 18:00:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在 0 名关注者的情况下为您的 SaaS 带来流量</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ck62t6/how_to_drive_traffic_to_your_saas_with_0_followers/</link>
-      <description><![CDATA[您好！我最近预启动了 SaaS，并在 0 名关注者的情况下获得了 95,000 的自然流量。  我做的主要事情是专注于有机排名平台。最好的例子包括   Reddit Tiktok  Youtube / instgram reels X / Twitter 社区   如果您发布专注于讲述故事的有趣帖子或视频，那么令人难以置信的是会有多少人支持您。  如果您有兴趣查看我的完整策略，请查看我最近的视频此处   由   提交/u/Jack2398  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ck62t6/how_to_drive_traffic_to_your_saas_with_0_followers/</guid>
-      <pubDate>Sat, 04 May 2024 17:48:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>我需要为我的业余项目购买一台 Macbook（之前从未使用过 Swift），而 eBay 列表并不容易浏览。所以我正在做我的业余项目的一个业余项目——Macbook finder。想法？使用 eBay API + Flask。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ck4df7/i_needed_to_buy_a_macbook_for_my_side_project_had/</link>
-      <description><![CDATA[    /u/MzCWzL   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ck4df7/i_needed_to_buy_a_macbook_for_my_side_project_had/</guid>
-      <pubDate>Sat, 04 May 2024 16:32:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>精美的开源产品组合将让您受聘</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ck2fq3/beautiful_open_source_portfolio_that_will_get_you/</link>
-      <description><![CDATA[嘿，偷看 我创建了一个漂亮的作品集，您可以自由使用和修改。 &lt; p&gt;https://preview.redd.it/ffmv4iaadfyc1。 png?width=1495&amp;format=png&amp;auto=webp&amp;s=abe6222865355b4a6c9de6e4bf2503c191cb4529 您可以在此处实时查看：https://renas.se/ 这里是开源代码：https://github。 com/meganide/Portfolio 如果这对您有任何帮助并且您想表示一些支持，请通过在 X/Twitter，我在这里分享有关编程和构建 SaaS 的更有价值的建议，以便您可以开始在线赚钱。 https://twitter.com/renas_dev   由   提交/u/Meganide97  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ck2fq3/beautiful_open_source_portfolio_that_will_get_you/</guid>
-      <pubDate>Sat, 04 May 2024 15:07:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>我在我的 AI 工具中添加了一项新功能：您现在可以通过自动过渡等功能创建更好的短视频。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ck13pl/ive_added_a_new_feature_to_my_ai_tool_you_can_now/</link>
-      <description><![CDATA[   /u/VICODE78  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ck13pl/ive_added_a_new_feature_to_my_ai_tool_you_can_now/</guid>
-      <pubDate>Sat, 04 May 2024 14:05:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于扫描国际象棋符号并将其转换为国际象棋游戏的国际象棋应用程序</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ck0t72/chess_app_for_scanning_chess_notations_and/</link>
-      <description><![CDATA[     &lt; /td&gt; 嘿大家，我最近在 App Store 和 Google Play Store 上发布了一个用于扫描国际象棋比赛记分表的应用程序。  您可以在此处查看该应用程序：https://chessdigitizer.com/download &lt; p&gt;https://preview.redd.it/ihgd6c4pzeyc1。 png?width=3072&amp;format=png&amp;auto=webp&amp;s=6ddb1e719974dac75d3c23021a3319e22244064b   由   提交/u/DayGroundwriting557   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ck0t72/chess_app_for_scanning_chess_notations_and/</guid>
-      <pubDate>Sat, 04 May 2024 13:51:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>我为静态站点构建了一个简单的云存储解决方案 VariableAsAService</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ck0rgb/i_built_variableasaservice_an_easy_cloud_storage/</link>
-      <description><![CDATA[       由   提交/u/xdfreddie  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ck0rgb/i_built_variableasaservice_an_easy_cloud_storage/</guid>
-      <pubDate>Sat, 04 May 2024 13:49:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 ProductHunt 上启动？我们应该和一周中的任何特定一天一起吗？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ck0ey7/launch_on_producthunt_should_we_and_any_specific/</link>
-      <description><![CDATA[ 由   提交/u/projectbios  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ck0ey7/launch_on_producthunt_should_we_and_any_specific/</guid>
-      <pubDate>Sat, 04 May 2024 13:31:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
