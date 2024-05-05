@@ -4,7 +4,35 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个 Reddit 子版块，用于分享和接收有关副项目的建设性反馈。</description>
-    <lastBuildDate>Sun, 05 May 2024 06:16:13 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 May 2024 09:13:47 GMT</lastBuildDate>
+    <item>
+      <title>寻求帮助来验证我的工作委员会项目的需求</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ckn476/looking_for_help_to_validate_the_need_of_my_job/</link>
+      <description><![CDATA[作为一个业余项目，我正在与一位朋友一起在一个专注于技术领域远程工作的招聘网站上工作。您是否使用招聘网站来寻找工作机会？如果有，是哪些？如果不是，您使用哪些渠道？   由   提交/u/CUCVjobs  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ckn476/looking_for_help_to_validate_the_need_of_my_job/</guid>
+      <pubDate>Sun, 05 May 2024 09:05:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>无纸化SaaS</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ckmtna/paperless_saas/</link>
+      <description><![CDATA[我有一个计划部署的 SaaS 想法： 将一款成熟的开源软件 Paperless-ngx (https://github.com/paperless-ngx/paperless-ngx) 作为 Web 服务提供给那些没有技术能力设置服务器和 Docker 容器的人。 这样，客户将获得自己的扫描文档存档空间，而无需备份、监控等。 每个客户都将获得自己的空间，以子域的形式，例如 https://client1.appname.com。 我将收取较低的月费，以支付管理和服务器成本。一个想法是根据使用的存储提供计划。 每个用户都将获得自己的 docker 容器，这可能会消耗大量资源。 容器/子域编排代码即将完成（使用 Python）。 我愿意接受建议，为什么不接受商业提案。    提交人    /u/sugarvagos   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ckmtna/paperless_saas/</guid>
+      <pubDate>Sun, 05 May 2024 08:44:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>烤我的新投资组合网站！ 🙌🏻</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cklitg/roast_my_new_portfolio_website/</link>
+      <description><![CDATA[      https://preview.redd.it/91y24vzq5kyc1.jpg?width=2028&amp;format=pjpg&amp;auto=webp&amp;s=2f28cc50fc3ada77313e150fbd6d1014424b46eb 一直想创建一个真正的作品集网站谈论我的个性并散发出无印良品的氛围。我想我终于做到了！看看我的新作品集网站：https://liyuxuan.dev/精心制作。 这不仅仅是一个地方展示我的项目以及我生活的其他方面。你可以欣赏几首宁静的音乐，弹点钢琴，看看我做过的一些小实验，看看我推荐的一些电影和书籍，找一些彩蛋动画👀 放出来在社区中，很高兴收到有关您对此投资组合网站的看法的任何反馈。哪些方面还可以做得更好？很想听听您的想法！！ 想知道技术堆栈吗？ -- NextJS、tailwindCSS、supabase、shadcn/ui、velite (mdx)、howler（用于声音~）   由   提交/u/bubbling-fish  /u/bubbling-fish  reddit.com/r/SideProject/comments/1cklitg/roast_my_new_portfolio_website/&quot;&gt;[链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cklitg/roast_my_new_portfolio_website/</guid>
+      <pubDate>Sun, 05 May 2024 07:11:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>我根据赔率创建了一个自定义 2024 年欧元投注网站 – 寻求您的反馈！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ckl7jb/i_created_a_custom_euro_2024_betting_site_based/</link>
+      <description><![CDATA[大家好， 我很高兴与大家分享我一直在研究的东西——一个针对 2024 年欧洲杯的定制梦幻足球网站，该网站使用真实投注赔率，而不仅仅是正确比分的标准分数。它旨在为您的投注体验增添更多策略和刺激！ 网站功能：  基于赔率的投注：每场比赛都有动态计算的赔率，让您有机会像专业人士一样制定投注策略。 梦幻联赛整合：您可以创建私人联赛与朋友竞争，让欧洲杯期间的每场比赛都更加激动人心。 完全免费：该网站完全免费使用。没有隐藏费用，只有纯粹的乐趣。  我建立这个网站是为了增强我们对 2024 年欧洲杯的享受，我很乐意得到您的意见。无论是功能请求、您发现的错误还是一般反馈，我都乐意倾听。您的见解非常宝贵，因为我的目标是改进网站。 请随时提问或提出改进建议。让我们让这种投注体验尽可能令人兴奋和用户友好！ 感谢您查看！ 网站： https://goalgamblers.com    提交人    /u/Jeroen124   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ckl7jb/i_created_a_custom_euro_2024_betting_site_based/</guid>
+      <pubDate>Sun, 05 May 2024 06:50:22 GMT</pubDate>
+    </item>
     <item>
       <title>将 YouTube 视频转换为摘要、主题和帖子</title>
       <link>https://www.reddit.com/r/SideProject/comments/1ckk3zv/turn_youtube_videos_to_a_summary_thread_and_post/</link>
@@ -13,7 +41,7 @@
       <pubDate>Sun, 05 May 2024 05:35:54 GMT</pubDate>
     </item>
     <item>
-      <title>寻求副业项目合作者！</title>
+      <title>寻找副项目合作者！</title>
       <link>https://www.reddit.com/r/SideProject/comments/1ckis6g/seeking_side_project_collaborators/</link>
       <description><![CDATA[大家好， 我渴望参与业余项目并与充满热情的个人合作。无论您有一个现有的项目还是只是一个好主意，我都乐意贡献 如果您是技术爱好者或有好主意但缺乏技术专业知识的人，让我们合作并创造一些令人惊叹的东西！  在下面给我留言或评论，让我们开始吧！ 查看我的作品集 https: //armaan-dev.vercel.app   由   提交/u/armaan-dev   reddit.com/r/SideProject/comments/1ckis6g/seeking_side_project_collaborators/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1ckis6g/seeking_side_project_collaborators/</guid>
@@ -41,7 +69,7 @@
       <pubDate>Sat, 04 May 2024 23:57:00 GMT</pubDate>
     </item>
     <item>
-      <title>免费为您的网站提供 Macos 风格通知 (popnboost.com)</title>
+      <title>为您的网站免费提供 Macos 风格通知（popnboost.com）</title>
       <link>https://www.reddit.com/r/SideProject/comments/1cke21w/macos_style_notifications_for_your_website_for/</link>
       <description><![CDATA[       由   提交/u/kervanaslan  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1cke21w/macos_style_notifications_for_your_website_for/</guid>
@@ -71,7 +99,7 @@
     <item>
       <title>稍后我将重构该代码 |傲慢</title>
       <link>https://www.reddit.com/r/SideProject/comments/1ckb8fh/ill_refactor_that_code_later_arrogantto/</link>
-      <description><![CDATA[      https://arrogantto.shop 介绍最新的“代码置信度”设计，现已在 Arrogantto 发售。自信地提升您的编码风格！ buildinpublic #CodeConfidence #coding #tech #programming   由   提交 /u/Zealousideal_North83   [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[      https://arrogantto.shop 推出最新的“代码信心”设计，现已在 Arrogantto 上提供。自信地提升你的编码风格！ buildinpublic #CodeConfidence #coding #tech #programming    提交人    /u/Zealousideal_North83   [link] [comments] ]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1ckb8fh/ill_refactor_that_code_later_arrogantto/</guid>
       <pubDate>Sat, 04 May 2024 21:39:08 GMT</pubDate>
     </item>
@@ -81,34 +109,6 @@
       <description><![CDATA[      我很高兴分享 LifeLog，这是我一直在开发的一个独特项目一会儿吧。 LifeLog 将您的数字对话（Whatsapp 对话）转变为制作精美的个性化小册子，提供了一种新的方式来可视化和珍惜塑造我们生活的关系和互动。 从安全提取聊天数据到设计每个页面， LifeLog 反映个人故事，结合自制人工智能算法、数据可视化、设计和讲故事，创造出真正个人化的东西。这不仅仅是一本小册子；它是一本小册子。它是您数字遗产的有形部分，展示了您对话中的见解和记忆。 我创建 LifeLog 是为了探索我们数字交流背后更深层的叙述，并为每个人提供一种独特的方式来联系他们的个人和共享内容历史。我很想听听您的想法、反馈以及对增强此项目的任何见解！ 查看一下看看你的聊天要讲述什么故事！ https://reddit.com /link/1ckaojn/video/eqdsii5h6hyc1/player 如果您感兴趣并想了解更多幕后内容或更新，请在 Instagram 上关注该项目 生活日志。您的支持帮助我成长并不断创新。感谢您查看 LifeLog！   由   提交/u/Low_Prior_2296   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1ckaojn/lifelog_transform_your_digital_chats_into/</guid>
       <pubDate>Sat, 04 May 2024 21:13:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>【自我宣传】烤我的第一个Web端项目</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ckahn8/self_promo_roast_my_first_web_side_project/</link>
-      <description><![CDATA[嘿伙计们👋， 我是一名初级人工智能工程师，这终于是我的业余项目的第一个版本在过去的 6 周里我们一直在努力！！！ 对于那些询问技术堆栈的人来说是：Supabase、Svelte、Sveltekit、Tailwind、Modal serverless 还有很多事情要做这样做，但该网站已经启动并运行并且非常有吸引力。请尝试一下，订阅即可免费获得免费积分： -&gt; Stablelab 这个网站的想法：为某些使用最新开放的用例提供非常快速、方便的特定 AI 管道模型，例如使用脸部生成贴纸，以现有图像的风格生成新图像（可以是艺术品，照片......），... 对于那些对 AI 有一点了解的人，这就是 ComfyUI，其背后有稳定的扩散，我不只是像许多 AI 公司那样包装 OpenAI。 顺便说一句，目前这为我提供了 0 美元，我的产品/市场契合度非常差，如果您有任何改进的想法，请 MP 我。 https://reddit.com/link/1ckahn8/video/hqnjvmp35hyc1/player   由   提交/u/Impact31  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ckahn8/self_promo_roast_my_first_web_side_project/</guid>
-      <pubDate>Sat, 04 May 2024 21:04:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>我构建了一个生产力应用程序</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ck9dww/i_built_a_productivity_application/</link>
-      <description><![CDATA[我构建了 www.MindSprint.app 一个番茄计时器帮助您保持正轨并提高生产力。可在网络和移动设备上访问，易于使用且免费。使用 vanilla JS 和 tailwind CSS 构建。请尝试一下并分享您的诚实意见。欢迎所有反馈或建设性批评。我将继续改进该应用程序，因此您的反馈对我很有价值。   由   提交 /u/wikskold   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ck9dww/i_built_a_productivity_application/</guid>
-      <pubDate>Sat, 04 May 2024 20:14:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>这个产品有用吗</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ck8j2f/will_this_product_work/</link>
-      <description><![CDATA[大家好，希望你们一切顺利，请提供宝贵的反馈 https://smartfluence.fr/ 我很想听听我们如何不断改进 Smartfluence 可以完全自动化您的所有影响者活动。  请就设计、功能和定价提供反馈，我们可以改进我们的产品，谢谢。    由   提交/u/Saraarts1  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ck8j2f/will_this_product_work/</guid>
-      <pubDate>Sat, 04 May 2024 19:36:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>构建了一个 AI 应用程序，可以使用免费的 AI API 来比较任何产品</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ck7lhl/built_an_ai_app_that_compares_any_products_using/</link>
-      <description><![CDATA[     &lt; td&gt; 上周，当每个人都在争论兔子 r1 与人类 AI 引脚时，我创建了一个小工具，它浏览了所有 YouTube 视频，并给了我一个两者都经过审查。 结果非常好，所以我决定将其制作成一个网站，免费提供这个有点具有挑战性，但我找到了正确的 API！ 请随时向我提供有关用户体验或想法的反馈🙏 Promnai.com 上的兔子 r1 VS 人类 AI 引脚   由   提交/u/Ofily0x0  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ck7lhl/built_an_ai_app_that_compares_any_products_using/</guid>
-      <pubDate>Sat, 04 May 2024 18:56:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
