@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Product Hunt — 每天提供最好的新产品</title>
+    <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Mon, 06 May 2024 09:14:17 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 May 2024 12:22:52 GMT</lastBuildDate>
     <item>
       <title>亚马逊 Q 开发者</title>
       <link>https://www.producthunt.com/posts/amazon-q-developer</link>
       <description><![CDATA[
-            亚马逊对 Github 副驾驶的回应
-          
+亚马逊对 Github copilot 的回答
+
 
 讨论
-            |
-            链接
+|
+链接
 ]]></description>
       <guid>https://www.producthunt.com/posts/amazon-q-developer</guid>
       <pubDate>Mon, 06 May 2024 04:17:04 GMT</pubDate>
@@ -46,20 +46,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/iconbuddy-figma-plugin</guid>
       <pubDate>Sun, 05 May 2024 07:00:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>邻里共享</title>
-      <link>https://www.producthunt.com/posts/neighborhoodshare</link>
-      <description><![CDATA[
-            抛弃云端，就近共享
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/neighborhoodshare</guid>
-      <pubDate>Sun, 05 May 2024 06:55:45 GMT</pubDate>
     </item>
     <item>
       <title>内容饼</title>
@@ -130,6 +116,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/breadcrumbs-3</guid>
       <pubDate>Thu, 02 May 2024 11:22:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>修订版</title>
+      <link>https://www.producthunt.com/posts/qrev</link>
+      <description><![CDATA[
+            Salesforce 的开源 AI 优先替代品
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/qrev</guid>
+      <pubDate>Wed, 01 May 2024 15:18:36 GMT</pubDate>
     </item>
     <item>
       <title>标志</title>
