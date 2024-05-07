@@ -4,16 +4,93 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个 Reddit 子版块，用于分享和接收有关副项目的建设性反馈。</description>
-    <lastBuildDate>Tue, 07 May 2024 18:16:20 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 May 2024 21:11:34 GMT</lastBuildDate>
     <item>
-      <title>我为企业家和初创公司构建了 EaseMetrics - Google Analytics 4 的分析替代品</title>
+      <title>独立艺术市场</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cmmpeo/indie_art_marketplace/</link>
+      <description><![CDATA[艺术、网络漫画和杂志（非 NFT）的在线市场，用户可以将它们组织成收藏并通过应用程序访问。收藏可以展示和共享。  商店页面可以定制以匹配艺术主题。与痒类似。   由   提交/u/BodybuilderNo2828   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cmmpeo/indie_art_marketplace/</guid>
+      <pubDate>Tue, 07 May 2024 21:06:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>我做了一个平台来分享通过筛选的简历。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cmm5z3/i_made_a_platform_to_share_resumes_that_passed/</link>
+      <description><![CDATA[   /u/jmstreamm  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cmm5z3/i_made_a_platform_to_share_resumes_that_passed/</guid>
+      <pubDate>Tue, 07 May 2024 20:44:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bigcapital - Quickbooks 的自托管开源替代品</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cmlyeb/bigcapital_a_selfhosted_and_open_source/</link>
+      <description><![CDATA[ 由   提交/u/AdInner8113  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cmlyeb/bigcapital_a_selfhosted_and_open_source/</guid>
+      <pubDate>Tue, 07 May 2024 20:35:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>为我的应用程序提供建议，根据您的一天推荐音乐</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cmlfv4/advice_for_my_app_that_recommends_music_based_on/</link>
+      <description><![CDATA[        提交人    /u/CoreMusicApp   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cmlfv4/advice_for_my_app_that_recommends_music_based_on/</guid>
+      <pubDate>Tue, 07 May 2024 20:14:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>👋我制作了一个带有日历和时间线模式的现代日记应用程序</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cmknzh/i_made_a_modern_journaling_app_with_calendar_and/</link>
+      <description><![CDATA[      嗨， 我是一名 36 岁的法国开发者，拥有 11 年移动应用经验。为这个应用程序工作了几个月，我很自豪能在这里与您分享。 🍏 iOS 应用商店链接 🤖 Android Play 商店链接 ​ https://preview.redd.it/vhfy6nxc52zc1.png?width=2048&amp;format=png&amp;auto=webp&amp;s=4b25090e5e2c5edd2ca6a6593 2d81a936f57d8b7 &lt;强&gt;它包括：  日历模式可帮助您跟踪进度 时间线模式可查看您之前的条目 FaceID /生物识别锁 智能提示建议，帮助您书写日记 视频模式 文字+照片模式   即将推出  心情日记追踪器 情绪日记追踪器 目标日记追踪器 iOS和 Android 主屏幕小部件  👋 您能帮忙吗？我正在努力开发 ULY，现在我需要您的帮助帮助使其变得更好！如果您对新功能或改进有建议，或者只是想分享您使用该应用程序的体验，您的反馈对我来说非常宝贵。 我可以&#39;迫不及待想听听大家的消息！ 😊 高蒂埃   由   提交 /u/ApparenceKit   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cmknzh/i_made_a_modern_journaling_app_with_calendar_and/</guid>
+      <pubDate>Tue, 07 May 2024 19:42:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>敏捷规划器 - 日程安排变得简单 [需要反馈]</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cmkb5x/agile_planner_scheduling_made_simple_feedback/</link>
+      <description><![CDATA[到目前为止，我已经断断续续地致力于这个项目大约 3 年了。到目前为止，我所掌握的内容如下： Agile Planner 是一个动态的智能调度系统，具有日志记录、序列化和自定义调度算法等专有工具。我设计了一种完全集成的面向对象语言，以进一步自动化您日常的日程安排需求（想想 Trello，但增强了自动化）。设置并完成日程安排后，您可以快速将日程安排导出到 Google 日历。它还为每个会话提供 HTML 页面分析（假设您在脚本中提供指定的“HTML”标签）。 目前该项目仅限于终端界面与电子表格布局。我的下一个目标是创建一个合适的前端，以便这个项目能够获得一些真正的吸引力。 让我知道你的想法:)  &amp; #32；由   提交/u/ShowerAlarming6303  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cmkb5x/agile_planner_scheduling_made_simple_feedback/</guid>
+      <pubDate>Tue, 07 May 2024 19:27:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>制作了一个关于我的黑客马拉松经历的视频——构建一个可以自动阻止干扰的人工智能浏览器</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cmjvh2/made_a_video_about_my_hackathon_experience_built/</link>
+      <description><![CDATA[https://youtu.be/MDtsAX0bfXQ   由   提交/u/hopelessfacet12   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cmjvh2/made_a_video_about_my_hackathon_experience_built/</guid>
+      <pubDate>Tue, 07 May 2024 19:08:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>自动化社交媒体和电子商务产品推广理念的反馈请求</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cmjlmq/feedback_request_for_automated_social_media/</link>
+      <description><![CDATA[我的想法是创建一个自动化解决方案，与在线商店数据库同步，根据预定义的标准（如受欢迎程度、折扣、名称、或随机），然后通过获取产品数据（例如标题和名称）在社交媒体平台上安排有关这些产品的帖子。描述，并根据商店的信息生成社交媒体帖子描述 + 通过拍摄产品图片并将其放在带有“夏季促销”等文字的背景上来创建图像或“X% 折扣”。  我对这个想法的理由：  这对于拥有大量产品系列或许多 SKU 的企业尤其有利，因为它可以确保具有高潜力或高潜力的产品利润率随时得到提升，无需持续的人工监督。这种自动化有助于更有效地管理大量库存，并确保每件产品都有机会被客户看到。 您认为这是一个可行的解决方案吗？您认为这可能有哪些缺点？   由   提交/u/alfredosaucey123   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cmjlmq/feedback_request_for_automated_social_media/</guid>
+      <pubDate>Tue, 07 May 2024 18:57:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Android 版照片地图应用程序</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cmji0x/photo_map_app_for_android/</link>
+      <description><![CDATA[     &lt; td&gt; https://play.google.com/store/apps/details?id=com.levionsoftware.instagram_map 这是一款在互动世界中显示来自不同来源的个人照片的应用程序地图。   由   提交/u/levsw  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cmji0x/photo_map_app_for_android/</guid>
+      <pubDate>Tue, 07 May 2024 18:53:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>为了好玩，我构建了一个像 codepen 这样的实时编辑器</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cmiplu/i_built_a_live_editor_like_codepen_for_fun/</link>
+      <description><![CDATA[我最近使用了 codepen，并且非常好奇它是如何工作的。由于我有时间，所以我决定构建类似的东西。显然不如真实的完整，但仍然是一个很好的学习体验。 Github 上的代码  现场修补它！   由   提交 /u/IOChidi   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cmiplu/i_built_a_live_editor_like_codepen_for_fun/</guid>
+      <pubDate>Tue, 07 May 2024 18:21:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>四月份的服务器账单到底是怎么回事？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cmio4g/whats_the_heck_with_the_april_server_bill/</link>
+      <description><![CDATA[我刚刚收到了 Render 发来的四月份服务器账单，这是关于我已经公开开发了一段时间的副项目的。账单是 14 美元，项目收入为 0 美元，我该如何让项目继续存在？ 我正在构建 https://techinterviewexp.site，这是一个人们可以分享面试经验并帮助他人准备面试的平台。 它的 DAU 数量不错，我会继续在 X(@hsnice16) 上分享。 我尝试添加 Google Ads 来产生一些收入，但众所周知，Google 不喜欢好的网站，除非你把它们弄得乱七八糟，这样他们就可以说这个网站有很多内容。 我还在页脚中添加了我的 GitHub 赞助商页面链接，这样社区就可以帮助保持这个项目的活力，但到目前为止我还没有成功。 现在，我正在考虑添加一个可关闭的横幅，它会从底部弹出，通知你可以支持这个项目。 你有什么建议？（这个项目也可供购买）    由    /u/hsnice   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cmio4g/whats_the_heck_with_the_april_server_bill/</guid>
+      <pubDate>Tue, 07 May 2024 18:19:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>我为企业家和初创公司构建了 EaseMetrics - Google Analytics 4 的分析替代方案</title>
       <link>https://www.reddit.com/r/SideProject/comments/1cmih7e/i_built_easemetrics_analytics_alternative_to/</link>
-      <description><![CDATA[嘿 r/SideProject ， 随着 Google Analytics 4 转向企业用户，我们推出了 Easymetrics (https://easemetrics.com/) - 一款功能强大、注重隐私的分析替代方案，专为企业家和初创公司设计。 为什么选择 Easymetrics？  功能丰富：享受实时数据、推动者和推动者、地理位置、渠道类型等。 设计隐私：我们确保您的数据和用户隐私受到保护。 用户友好：专为易于使用而量身定制，没有过多的复杂性。  Beta 测试邀请： Easymetrics 处于仅限邀请的 Beta 阶段。我们正在寻找渴望利用详细见解而无需支付企业价格的企业家。在 easemetrics.com 注册。 我们需要您的意见：  分析工具中您必须具备哪些功能？ 我们如何改善您的数据分析体验？  加入 Easymetrics，以您应得的简单性和隐私性获得您的初创公司所需的见解。    提交人    /u/vctt   [链接] [评论]]]></description>
+      <description><![CDATA[嘿 r/SideProject , 随着 Google Analytics 4 转向企业用户，我们推出了 Easymetrics (https://easemetrics.com/ )——专为企业家和初创公司设计的强大、注重隐私的分析替代方案。 为什么选择 Easymetrics？  功能丰富：享受实时数据、影响力、地理位置、渠道类型等。 隐私设计：我们确保您的数据和用户隐私受到保护。 用户友好：专为易用性而设计，但又不会过于复杂。  Beta 测试邀请：&lt; /strong&gt; Easymetrics 正处于仅限邀请的测试阶段。我们正在寻找渴望利用详细见解而无需企业价格标签的企业家。在 easemetrics.com 上注册。 我们需要您的意见： &lt; ul&gt; 您的分析工具必须具备哪些功能？ 我们如何让您的数据分析体验变得更好？  加入 Easymetrics，通过您应得的简单性和隐私性获得您的初创公司所需的见解。   由   提交/u/vctt  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1cmih7e/i_built_easemetrics_analytics_alternative_to/</guid>
       <pubDate>Tue, 07 May 2024 18:11:18 GMT</pubDate>
     </item>
     <item>
-      <title>总的想法是，您可以选择您一直在经历的旅程，无论是与朋友外出游玩还是跨大陆旅行。理想情况下，您应该有更多的活动和照片。如果我希望这成为现实，我需要投入更多，所以我只是在寻找一些反馈。反应和火灾</title>
+      <title>总的想法是，您可以选择一个您一直在经历的旅程，无论您是与朋友外出游玩还是跨大陆旅行。理想情况下，您应该有更多的活动和照片。如果我希望这成为现实，我需要投入更多，所以我只是在寻找一些反馈。反应和火灾</title>
       <link>https://www.reddit.com/r/SideProject/comments/1cmhvas/the_general_idea_is_you_pick_a_journey_youve_been/</link>
       <description><![CDATA[    /u/BBRRE   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1cmhvas/the_general_idea_is_you_pick_a_journey_youve_been/</guid>
@@ -22,93 +99,16 @@
     <item>
       <title>我用 C++ 创建了地址簿。</title>
       <link>https://www.reddit.com/r/SideProject/comments/1cmhut5/i_created_address_book_in_c/</link>
-      <description><![CDATA[非常简单的 C++ 通讯录。 不确定这是否好，但我很想得到一些反馈！ 不确定这是否好，但我很想得到一些反馈！ p&gt; 存储库：https://github.com/IMCGKN/AddressBook   由   提交 /u/IMCG_KN   [链接] [评论]]]></description>
+      <description><![CDATA[非常简单的 C++ 通讯录。 不确定这是否好，但我很想得到一些反馈！  p&gt; 存储库：https://github.com/IMCGKN/AddressBook   由   提交 /u/IMCG_KN   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1cmhut5/i_created_address_book_in_c/</guid>
       <pubDate>Tue, 07 May 2024 17:45:09 GMT</pubDate>
     </item>
     <item>
       <title>你想变得更好吗？</title>
       <link>https://www.reddit.com/r/SideProject/comments/1cmhsyc/you_wanna_be_better/</link>
-      <description><![CDATA[IWBH 是一个自我提升的平台。 没有搞笑的和与自我提升无关的内容。 只有事实和想法让你变得更好。 帮助别人变得更好，自己也变得更好 IWBH | 拥抱自我修养  它已经有 10 个用户了，这对我来说很棒，因为这是我有史以来第一次发布。 我喜欢的是人们是为了想法而加入，而不是为了超级超级创新；有人甚至通过写帖子来帮助我。 P.S. 我不太喜欢做前端，但是我在前端方面做得是我最好的，所以请考虑到这一点 :D   由    /u/Independent-Back3441  提交  [链接] [评论]]]></description>
+      <description><![CDATA[IWBH是一个自我提升的平台。  没有任何搞笑且与自我提升无关的内容。只有让你变得更好的事实和想法。  帮助别人变得更好，自己也变得更好 IWBH | 拥抱自我修养  它已经有 10 个用户了，这对我来说太棒了，因为它是我的第一次发布。我喜欢的是人们为了这个想法而加入，而不是为了超大型的创新；有人甚至通过写帖子来帮助我。  P.S.我不太喜欢做前端，但我已经为前端做了最好的工作，所以请考虑到这一点:D  &amp;# 32；由   提交/u/Independent-Back3441  /u/Independent-Back3441 reddit.com/r/SideProject/comments/1cmhsyc/you_wanna_be_better/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1cmhsyc/you_wanna_be_better/</guid>
       <pubDate>Tue, 07 May 2024 17:42:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>使下载更快，响应更快！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cmhpia/make_downloads_quicker_responses_faster/</link>
-      <description><![CDATA[为您的网站提供的附加服务，通过下载过程使您的主服务器多样化。 如果您处理大量下载，此服务可能会受益您可以为客户提供更快的下载速度，从而提供更好的用户体验，并减轻服务器压力 存储库链接位于：werniq/TurboLoad (github.com)   由   提交/u/Independent-Back3441   /u/Independent-Back3441 reddit.com/r/SideProject/comments/1cmhpia/make_downloads_quicker_responses_faster/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cmhpia/make_downloads_quicker_responses_faster/</guid>
-      <pubDate>Tue, 07 May 2024 17:38:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>我将在未来几天重新发明 MSN Messenger！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cmhiw4/i_will_be_reinventing_msn_messenger_in_the_coming/</link>
-      <description><![CDATA[X 上的一篇帖子回忆了 MSN Messenger 昔日的辉煌岁月，我受到了启发！ 它不会完整版本中提供的大部分功能，但我认为我可以用这个想法创建一个最小可行产品。它将有个人资料和与表情符号的一对一聊天，以及带有状态的名称。就像 MSN 一样，但有了 Emoji 才能跟上时代！ 我也一直在考虑创建一个 Linktree 类型的项目，但作为一个独特的功能，能够直接向该人发送消息。这是结合这些想法的绝佳机会！ 该应用程序将使用唯一的用户名，而不是电子邮件地址，该用户名也用于用户的个人资料。 这是如何实现的声音？您是否渴望获得您的用户名？   由   提交/u/Polymedia_NL  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cmhiw4/i_will_be_reinventing_msn_messenger_in_the_coming/</guid>
-      <pubDate>Tue, 07 May 2024 17:30:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>我做了一个猫吊床，可以挂在你的电脑椅上</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cmh0am/i_made_a_cat_hammock_that_attaches_to_your/</link>
-      <description><![CDATA[    /u/StuPicklesIRL   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cmh0am/i_made_a_cat_hammock_that_attaches_to_your/</guid>
-      <pubDate>Tue, 07 May 2024 17:08:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>更新：我建立了一个价格搜索引擎，可以立即找到给定产品的更好报价。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cmgwr1/update_i_built_a_price_search_engine_to_instantly/</link>
-      <description><![CDATA[大家好。 25天前，我告诉你我建立的价格搜索引擎。我在评论和私信中都得到了非常有价值的反馈。感谢迄今为止的支持，你们确实推动了它的前进。  那么它是关于什么的？ 我构建了一个无广告的价格搜索引擎，可以在网络上找到任何产品的最佳价格。 &lt;在网上购物时，价格差异很大，尤其是在电子产品市场。然而，要获得这些节省的费用，我需要花费数小时的搜索时间，就我个人而言，我经常会得到垃圾广告搜索结果。完成研究后，我仍然有一种感觉，由于广告垃圾邮件，我实际上错过了给定产品的最佳报价。  这就是我建立自己的价格搜索的原因。它完全没有广告。在搜索栏中输入产品 URL 后，它会识别该产品及其规格。然后，它会搜索互联网，看看其他网上商店是否有针对给定产品的更好报价。为了保持搜索结果完全公正，它不会通过广告来盈利，而是通过用户为服务付费来盈利。您可以通过支付特定搜索费用或购买订阅来解锁搜索结果。  有什么新变化？ 此前，搜索时间最多需要 10 小时。你嘲笑我这么长的搜索时间有多糟糕。这就是为什么我过去几周几乎只专注于这个问题。我能够尽可能多地并行化。 搜索时间现在不到 3 分钟！ （平均大约 2 分钟）。 如果能得到您的诚实反馈就太好了。它适用于美元、瑞士法郎以及德国和奥地利。 P.s.用户已经通过搜索发现了超过 40k 的节省。  以下是搜索链接：https://josepha.io/    由   提交 /u/Fun-Leadership-7323   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cmgwr1/update_i_built_a_price_search_engine_to_instantly/</guid>
-      <pubDate>Tue, 07 May 2024 17:04:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>我 12 天前在 r/cc 上发起了一个无需信任的庞氏骗局，并且没有停止的迹象</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cmgw2s/i_launched_a_trustless_ponzi_on_rcc_12_days_ago/</link>
-      <description><![CDATA[      因此，我在 r/CryptoCurrency 上软启动了一款 Arbitrum 应用程序，让用户可以托管或加入无需信任的庞氏游戏. 您“投资” ETH 并赚取高达 100% 的投资回报率，投资回报率由后续“投资者”支付存款。 问题是，只有当您达到 1-100% 投资回报率阈值（由游戏主机设置）时，您的资金才会被释放。 如果游戏在此之前过期 -  我与过去类似游戏的不同之处在于，我创建了一个累积奖金功能，它将所有这些未释放的资金汇集在一起​​，并将其提供给最后加入游戏的玩家。随着累积奖金呈指数增长，它会激励玩家无限期地加入。 问题是每次新存款都会重置 10 小时的游戏计时器。 因此，这款游戏是自发布以来现已上线（超过 12 天）： https://preview.redd.it/28x34iytc1zc1.jpg?width=1179&amp;format=pjpg&amp;auto=webp&amp;s=92f0c46484bbe407f10120613746711e 493a1cb3 每次我想都会最后结束有人加入并重置计时器。 最后一个存入分钟的玩家。 0.003 ETH 目前正在寻求兑现 0.257 ETH 或超过 85 倍。 或者，如果有足够多的人跟随他加入，他的存款将获得 100% 的回报。 您认为结果如何？还能持续多久？ P.S.该应用程序称为 ponzimarket，这些是合约 - https://github.com/swagamoney/ponzi .contracts（应用程序链接也在那里） P.P.S.我认为这是不言而喻的，但是这是非常危险的，不要玩你无法承受损失的东西。   由   提交/u/swagamoney  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cmgw2s/i_launched_a_trustless_ponzi_on_rcc_12_days_ago/</guid>
-      <pubDate>Tue, 07 May 2024 17:03:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>构建具有自定义主题分组模型的新闻应用。处于早期阶段，但已启动 TestFlight。期待反馈。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cmgqbb/building_a_news_app_with_custom_topic_grouping/</link>
-      <description><![CDATA[       由   提交/u/prasad1287  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cmgqbb/building_a_news_app_with_custom_topic_grouping/</guid>
-      <pubDate>Tue, 07 May 2024 16:57:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>烤我的投资组合</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cmgprg/roast_my_portfolio/</link>
-      <description><![CDATA[      各位，我正在制作一个新的作品集 😁 它仍然缺少几个部分，并且正在建设中，但我感谢你们的建议，您认为我应该添加或改进哪些内容？ 🤔 🌐 yossthedev.pages.dev   由   提交/u/yossthedev  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cmgprg/roast_my_portfolio/</guid>
-      <pubDate>Tue, 07 May 2024 16:56:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>对于旅行者：我根据安全性和旅游拥堵计算对旅游较少的国家进行了排名</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cmgnuy/for_travelers_i_ranked_lesser_traveled_countries/</link>
-      <description><![CDATA[       由    /u/arvando  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cmgnuy/for_travelers_i_ranked_lesser_traveled_countries/</guid>
-      <pubDate>Tue, 07 May 2024 16:54:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>我在 chrome 上发现了这个很酷的扩展程序，它也可以与 brave 一起使用。这是一个交互式扩展程序，允许我询问有关文档的问题或总结任何 PDF、网站等。我绝对建议尝试一下。最好的是它是免费的！！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cmghwm/i_found_this_cool_extension_on_chrome_and_it/</link>
-      <description><![CDATA[ 由   提交/u/No_mono_aware  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cmghwm/i_found_this_cool_extension_on_chrome_and_it/</guid>
-      <pubDate>Tue, 07 May 2024 16:46:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>我做了一个儿童应用程序</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cmgdvs/i_made_a_kids_app/</link>
-      <description><![CDATA[在我工作的初创公司倒闭后，我已经失业有一段时间了。  我制作了一个儿童应用程序作为业余项目，让我在弄清楚下一步该做什么的同时保持忙碌。我从未制作过 B2C 应用程序，也不知道如何获得下载。  该应用程序可以让 4-6 岁的孩子创建自己的图画书。我希望获得有关如何吸引更多下载以及如何让人们更有可能升级到高级版的反馈和建议。 自发布以来，我已获得 82 次下载，并且正在努力实现我的目标本周发布！ https://apps.apple.com/gb/ app/storee-time/id6479522868   由   提交/u/f3ydr4uth4   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cmgdvs/i_made_a_kids_app/</guid>
-      <pubDate>Tue, 07 May 2024 16:42:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>我开发了一款产品，利用人工智能让文案写作变得简单</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cmgayf/i_built_a_product_to_make_copy_writing_easy_with/</link>
-      <description><![CDATA[大家好， 我构建了一个产品，您可以在其中为任何内容编写副本。从写博客文章到 Facebook 广告文案，它涵盖了一切。如果这对您有用，请告诉我。 https://copie.io/?utm_source =reddit   由   提交 /u/heyarviind   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cmgayf/i_built_a_product_to_make_copy_writing_easy_with/</guid>
-      <pubDate>Tue, 07 May 2024 16:38:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
