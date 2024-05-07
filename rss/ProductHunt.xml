@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Product Hunt — 每天提供最好的新产品</title>
+    <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Tue, 07 May 2024 09:14:47 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 May 2024 12:22:24 GMT</lastBuildDate>
     <item>
       <title>筹款现场指南 v3</title>
       <link>https://www.producthunt.com/posts/fundraising-field-guide-v3</link>
@@ -20,15 +20,15 @@
       <pubDate>Tue, 07 May 2024 09:12:25 GMT</pubDate>
     </item>
     <item>
-      <title>AI插图生成器</title>
+      <title>AI插画生成器</title>
       <link>https://www.producthunt.com/posts/ai-illustration-generator</link>
       <description><![CDATA[
-            几分钟内即可绘制出风格一致的插图
-          
+几分钟内即可制作风格一致的插图
+
 
 讨论
-            |
-            链接
+|
+链接
 ]]></description>
       <guid>https://www.producthunt.com/posts/ai-illustration-generator</guid>
       <pubDate>Mon, 06 May 2024 07:31:27 GMT</pubDate>
@@ -76,7 +76,7 @@
       <pubDate>Sun, 05 May 2024 00:41:38 GMT</pubDate>
     </item>
     <item>
-      <title>推送信标</title>
+      <title>PushBeacon</title>
       <link>https://www.producthunt.com/posts/pushbeacon</link>
       <description><![CDATA[
             轻松向您的所有设备发送自定义通知
@@ -121,12 +121,12 @@
       <title>布卢姆海狸</title>
       <link>https://www.producthunt.com/posts/bloombeaver</link>
       <description><![CDATA[
-您的友好潜在客户管理平台
-
+            您友好的潜在客户管理平台
+          
 
 讨论
-|
-链接
+            |
+            链接
 ]]></description>
       <guid>https://www.producthunt.com/posts/bloombeaver</guid>
       <pubDate>Wed, 01 May 2024 14:23:27 GMT</pubDate>
@@ -205,12 +205,12 @@
       <title>质量保证</title>
       <link>https://www.producthunt.com/posts/qaing</link>
       <description><![CDATA[
-3 秒内完成错误报告
-
+            3 秒内完成错误报告
+          
 
 讨论
-|
-链接
+            |
+            链接
 ]]></description>
       <guid>https://www.producthunt.com/posts/qaing</guid>
       <pubDate>Fri, 12 Apr 2024 05:40:11 GMT</pubDate>
