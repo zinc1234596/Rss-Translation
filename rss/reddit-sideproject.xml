@@ -4,18 +4,67 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个 Reddit 子版块，用于分享和接收有关副项目的建设性反馈。</description>
-    <lastBuildDate>Wed, 08 May 2024 21:13:38 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 May 2024 00:55:49 GMT</lastBuildDate>
+    <item>
+      <title>被YC拒绝</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cnkauc/rejectedbyyc/</link>
+      <description><![CDATA[&lt;表&gt;    &gt;   由   提交/u/leonagano  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cnkauc/rejectedbyyc/</guid>
+      <pubDate>Thu, 09 May 2024 00:41:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>接下来你想看什么？我建立了这个电影和电视节目页面来发现精彩的影片。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cnixr9/what_do_you_want_to_watch_next_i_built_this_movie/</link>
+      <description><![CDATA[   /u/alp82  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cnixr9/what_do_you_want_to_watch_next_i_built_this_movie/</guid>
+      <pubDate>Wed, 08 May 2024 23:36:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>ROAST my MVP：一款帮助拉丁美洲开发者找到更好工作的“应用程序”</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cngz6f/roast_my_mvp_an_app_to_help_latam_developers_find/</link>
+      <description><![CDATA[大家好。几个月前，我开始研究这个想法，因为我想换掉在一家当地公司（乌拉圭）的工作，在一家外国公司担任承包商，获得一份薪水更高的远程工作，但挑战是没有地方集中了此类职位。 当然，有些招聘网站上有“全球”招聘信息。或“拉丁美洲”类别，甚至带有过滤器的 LinkedIn，但即使这样还不够。主要是因为 LinkedIn 过滤器在尝试搜索此类职位时非常糟糕，而且招聘委员会没有足够的职位。 因此，我决定创建一个快速的 Python 应用程序来读取来自多个不同职位的职位网站，并在我这边进行过滤。 我从未真正完成这个想法，因为我找到了我最初正在寻找的工作。但最近我想起了这一点，尽管这对很多人来说确实是一个解决方案（当你在拉丁美洲的科技行业工作时，最常见的事情是当你获得一些经验后，在一家外国公司找到一份工作）。  我稍微改变了程序的逻辑，并且能够使其适用于几个源。问题是，在至少稍微验证一下这个想法之前，我不想花时间创建后端和 UI，所以我选择了我能想到的最简单的解决方案：Google 电子表格。 对于有兴趣查看的人，请点击以下链接：https://docs.google.com/电子表格/d/1rM5IjolfuQYfrqmIv3eCZZp6zWRfnnqnLDOOHAvNJK8/edit?usp=sharing - 目前它有大约 1000 个可用职位。 它有 3 个按职位过滤的选项卡，以及一个额外的常规选项卡，其中包含不&#39; t 匹配其他选项卡的过滤器，以便用户可以搜索其他位置。 这个想法是进一步完善程序，以在过滤器中包含更多来源和位置，并在搜索过程中获取第一批用户。这个流程。然后，一旦我完善了选择和分类过程（基本上是应用程序的核心），创建了 UI 和后端，并在分发方面做得更强大了。 如果您愿意提供帮助，我将非常感激一些反馈（即使现在除了电子表格我没有什么可以展示的了，哈哈） 感谢您的宝贵时间！    ;由   提交/u/Southern_Mud_58   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cngz6f/roast_my_mvp_an_app_to_help_latam_developers_find/</guid>
+      <pubDate>Wed, 08 May 2024 22:11:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们制作了一个分析投资组合的工具 - 寻求反馈！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cngvss/we_made_a_tool_to_analyze_investment_portfolios/</link>
+      <description><![CDATA[我和两个朋友花了 3 个多月的时间来研究这个问题： 这个工具叫做 &lt; a href=&quot;https://insightfol.io/&quot;&gt;Insightfol.io 它应该可以帮助您更好地了解您的投资组合。理想情况下，我们将帮助用户了解他们的投资是否符合他们的目标、风险偏好或他们是否支付过多。最重要的是，我们使用人工智能（希望）使其更容易理解。 尝试一下，我想了解我们是否走在正确的道路上！ &lt; /div&gt;  由   提交/u/micha_allemagne  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cngvss/we_made_a_tool_to_analyze_investment_portfolios/</guid>
+      <pubDate>Wed, 08 May 2024 22:07:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个应用程序来提醒忘记参加会议的人</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cngdw9/i_made_an_app_to_remind_people_that_forget_to/</link>
+      <description><![CDATA[       由   提交/u/rbatista191  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cngdw9/i_made_an_app_to_remind_people_that_forget_to/</guid>
+      <pubDate>Wed, 08 May 2024 21:47:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>创业挑战：为我们雄心勃勃的应用程序寻求后端架构和资金方面的建议</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cnfs6l/startup_challenges_seeking_advice_on_backend/</link>
+      <description><![CDATA[嘿，我是阿塞拜疆的一名产品设计师，我有一个社交网络项目。有文档、用户流程、Figma 设计、营销计划、增长计划和商业计划以及所有详细信息。此外，我还有一位联合创始人，他是一名 IOS 开发人员，还有一名 DevOps 工程师和一名中级 Java 开发人员。这意味着设计、营销、移动开发和业务都没有问题。 但主要问题是后端。开发人员需要架构。我遇到了很多中先生。初级开发者和他们说，如果没有投资，你不可能制作出这个应用程序。他们仅需要大量的架构和代码审查。我的一些朋友试图帮助我进行架构，但他们中途放弃了团队。 对此我能做什么？我找不到任何投资，但我正在尝试用我的薪水和债务投资这个项目，但我现在已经筋疲力尽了。我们和我的联合创始人在一起大概有一年多了，还没有一个产品可以介绍给用户。 有的导师说你的产品功能很多，他们说我需要删掉一些功能。我认为如果我这样做，我无法与我的竞争对手进行比较，并且没有任何产品的手段。 很快，我需要帮助）   由   提交 /u/khayallius   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cnfs6l/startup_challenges_seeking_advice_on_backend/</guid>
+      <pubDate>Wed, 08 May 2024 21:22:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>我开设了一门免费课程来帮助人们发展任何现有的在线业务（SaaS 和 E-Comm）</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cnfots/i_made_a_free_course_to_help_people_grow_any/</link>
+      <description><![CDATA[      https://preview.redd.it/8ja8ljyer9zc1.png?width=1897&amp;format=png&amp;auto=网页p&amp; ;s=f4999ded7fa508174635c1835e713f9e5850853b   由   提交 /u/christfire   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cnfots/i_made_a_free_course_to_help_people_grow_any/</guid>
+      <pubDate>Wed, 08 May 2024 21:18:26 GMT</pubDate>
+    </item>
     <item>
       <title>我构建了我一直想要的 AI meme 应用程序</title>
       <link>https://www.reddit.com/r/SideProject/comments/1cnerq2/i_built_the_ai_meme_app_i_always_wanted/</link>
-      <description><![CDATA[大家好， 如果您像我一样并且在创建有趣的表情包时遇到困难，那么这个应用程序可能适合您！我想要一种方法来使用我拍摄的照片即时创建模因，但我找不到方法来做到这一点。所以我构建了它！ 认识 gigglz.app。只需上传照片，按下按钮，人工智能就会将您的照片变成搞笑的模因。 无需注册即可免费试用！ 如果有任何反馈，请告诉我你的想法。   由   提交 /u/EuphoricBuffalo3542   [链接] [评论]]]></description>
+      <description><![CDATA[大家好， 如果您和我一样，在创建搞笑表情包方面遇到了麻烦，那么这款应用可能适合您！我想找到一种方法来使用我拍摄的照片即时创建表情包，但我找不到方法。所以我创建了它！ 了解gigglz.app。只需上传照片，按下按钮，AI 即可将您的照片变成搞笑的表情包。 免费试用，无需注册！ 欢迎任何反馈，请告诉我您的想法。    提交人    /u/EuphoricBuffalo3542   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1cnerq2/i_built_the_ai_meme_app_i_always_wanted/</guid>
       <pubDate>Wed, 08 May 2024 20:39:03 GMT</pubDate>
     </item>
     <item>
       <title>我制作了一个可以生成任何内容测验的应用程序 - Quizopia (Android/iOS) 评论中的链接</title>
       <link>https://www.reddit.com/r/SideProject/comments/1cneq58/i_made_an_app_that_can_generate_quizes_on/</link>
-      <description><![CDATA[       由   提交 /u/negleft   [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[       由   提交/u/negleft  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1cneq58/i_made_an_app_that_can_generate_quizes_on/</guid>
       <pubDate>Wed, 08 May 2024 20:37:13 GMT</pubDate>
     </item>
@@ -29,7 +78,7 @@
     <item>
       <title>外包开发</title>
       <link>https://www.reddit.com/r/SideProject/comments/1cnduba/outsourcing_development/</link>
-      <description><![CDATA[我的一个朋友有一个问题... 他正在建立一家 B2B 科技初创公司，但无法真正离开他的公司第一份工作;他今年 39 岁，是一家 5 口人​​的唯一收入。他完成了原型的构建，并让客户准备好了并等待，但现在他正在考虑将 MVP 开发工作外包给成本更低的国家/地区的开发人员。  他相信，通过使用他拥有的资金，他会在高薪方面受到巨大打击并自己建造这一切。  我想知道这里是否有人采取了类似的方法，通过外包一些他们在技术上可以自己完成的事情。它有多大好处？ 大家有什么想法吗？   由   提交/u/vibe_keeper  [链接] [评论]]]></description>
+      <description><![CDATA[我的一个朋友有个问题…… 他正在创建一家 B2B 科技初创公司，但又不能辞去第一份工作；他今年 39 岁，是 5 口之家的唯一收入来源。他完成了原型的构建，客户也已准备就绪，正在等待，但现在他想，他或许可以将 MVP 开发工作外包给成本较低的国家的开发人员，而不是放弃我高薪的工作，自己做这件事。 他确信，通过使用他所拥有的资金，他将承受高薪薪水的巨大损失，并自己完成所有工作。 我想知道这里是否有人采取过类似的方法，将他们技术上可以自己完成的事情外包出去。这能有多大好处？ 大家有什么想法吗？    提交人    /u/vibe_keeper   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1cnduba/outsourcing_development/</guid>
       <pubDate>Wed, 08 May 2024 19:59:40 GMT</pubDate>
     </item>
@@ -60,55 +109,6 @@
       <description><![CDATA[   /u/CalendarVarious3992   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1cnd8hk/i_built_chatgptqueue_chrome_extension_allows_you/</guid>
       <pubDate>Wed, 08 May 2024 19:33:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>我刚刚制作了一个软件来彻底改变体育俱乐部的管理</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cnd4jo/i_just_made_a_software_to_revolutionize_sports/</link>
-      <description><![CDATA[大家好，我是 Nick，一个名为 Linify，旨在让体育俱乐部管理更轻松。我们集成了日程管理、社区参与和物品租赁等功能。然而，我们在销售方面遇到了困难，确实需要有关如何改进的建议。 我们拥有的功能：  日程安排和会话管理&lt; /li&gt; 社区参与工具 针对成员的通知和更新  计划添加：  &lt; li&gt;人工智能数据导入 基于位置的管理工具 新的支付选项  我们将不胜感激任何反馈或建议，特别是来自那些有软件销售或体育管理经验。感谢您帮助我们！ 此版本的重点是征求反馈，并公开分享您在销售方面面临的挑战，邀请宝贵的社区建议。 https://www.linify.app/   由   提交/u/ivanoff19  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cnd4jo/i_just_made_a_software_to_revolutionize_sports/</guid>
-      <pubDate>Wed, 08 May 2024 19:28:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们制作了一款应用程序，让工程随叫随到不再那么糟糕</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cncznp/we_made_an_app_to_make_engineering_oncall_less/</link>
-      <description><![CDATA[嘿r/sideproject， 我和妻子都是开发人员，我们都认为待命可能是工作中最糟糕的部分。 我们决定构建一些东西来尝试进行待命问题处理得更快一些。 基本上，Pandem.dev 是一个添加到公司 Slack 频道的工具，它每当出现待命 ping 时，都会以有用的信息进行响应。 我们基本上会索引所有以前的事件，当 Pagerduty 收到任何新的待命通知单时，它会以过去相关问题的列表进行响应. 我们还致力于允许模型在您的待命运行手册和文档上进行训练，以便它可以在出现新问题时提出解决方案并启动诊断或调试步骤。  p&gt; 让我知道您的想法，我们将不胜感激！   由   提交 /u/adawgdeloin   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cncznp/we_made_an_app_to_make_engineering_oncall_less/</guid>
-      <pubDate>Wed, 08 May 2024 19:23:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>在我的业余项目中添加了一个用于付款的抽屉</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cncqwt/added_a_drawer_for_payment_in_my_side_project/</link>
-      <description><![CDATA[ 由   提交 /u/hsnice    [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cncqwt/added_a_drawer_for_payment_in_my_side_project/</guid>
-      <pubDate>Wed, 08 May 2024 19:13:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>您如何管理您的业余项目的社交媒体页面？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cncm2z/how_do_you_manage_social_media_pages_for_your/</link>
-      <description><![CDATA[我相信我们大多数人都有很多事情要做，但是我们需要营销我们的产品，而社交媒体是一个好地方只是。  但说实话，管理社交媒体帐户可能是一项耗时的苦差事，尤其是当您有几个产品/项目需要维护和一份工作时。  这就是 AI Engager 的用武之地 - 一种人工智能工具，可以为您在社交媒体上创建、安排和发布高质量的内容，而无需您费力。现在，您可以专注于对您的业务最重要的事情 - 发展和运营您的业务。 (https://aiengager.com) AI Engager 使用图像创建高质量内容，以吸引 Facebook 上的受众，推特。不再需要花费大量时间集思广益、设计图形和安排帖子 - 我们已经满足您的要求了！ 立即试用 AI Engager。无需信用卡，请访问 https://aiengager.com 免费开始。 如果您有功能请求，请随时联系我们，我们可以讨论一下。    由   提交 /u/josylad   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cncm2z/how_do_you_manage_social_media_pages_for_your/</guid>
-      <pubDate>Wed, 08 May 2024 19:07:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>我应该继续吗？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cncimn/should_i_keep_going/</link>
-      <description><![CDATA[我现在已经读到第五章了，但是继续读下去值得吗？ https://linlinwebnovel.blogspot.com/2024/05/episode-5-cinque-quest-part -1.html   由   提交 /u/cool12345678908956   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cncimn/should_i_keep_going/</guid>
-      <pubDate>Wed, 08 May 2024 19:03:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>我需要更改产品名称吗？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cnc6d4/do_i_need_to_change_the_name_of_my_product/</link>
-      <description><![CDATA[不久前我选择了一个域名和一个品牌名称。我现在发现其他人拥有 .com 这个名称，看起来像是一家相当成功的企业。我是否需要选择不同的名称，或者可以使用相同的名称并只是作为竞争对手吗？他们的业务和我的业务非常不同 - 不同的产品等。 或者 - 我认为可能是这种情况 - 我需要更改名称吗？   由   提交/u/ClaudioKilgannon37   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cnc6d4/do_i_need_to_change_the_name_of_my_product/</guid>
-      <pubDate>Wed, 08 May 2024 18:48:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个用于生成皮克斯风格头像的网站</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cnc3ws/i_made_a_website_for_pixarstyle_avatar_generation/</link>
-      <description><![CDATA[   /u/tonyleung1998  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cnc3ws/i_made_a_website_for_pixarstyle_avatar_generation/</guid>
-      <pubDate>Wed, 08 May 2024 18:45:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
