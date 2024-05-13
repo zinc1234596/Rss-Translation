@@ -4,18 +4,25 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个 Reddit 子版块，用于分享和接收有关副项目的建设性反馈。</description>
-    <lastBuildDate>Mon, 13 May 2024 00:57:07 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 May 2024 03:14:32 GMT</lastBuildDate>
+    <item>
+      <title>我制作了一个可以帮助您管理 WordPress 网站的应用程序</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cqou3n/i_made_an_application_that_helps_you_manage_your/</link>
+      <description><![CDATA[我构建 WP Foundry 是为了管理我自己的 WordPress 网站，最近决定发布它。  所有当前的 WordPress 管理应用程序（ManageWP、WP Remote、WP Umbrella 等）都非常昂贵，我认为我可以将其作为成本低得多的解决方案提供。 Windows、OSX 和 Linux。不涉及任何服务器，您的网站数据也不会被共享。 有一个免费套餐，使您能够管理单个网站，还有一个付费套餐（目前为 5 美元/年），可以删除单个网站限制。它包含一年的更新，但在您的计划生效期间，该应用程序可以继续以最新可用版本永久使用。 我目前正在添加更多功能，并寻求有关改进和改进内容的反馈。优先考虑。请随时通过 DM 或通过网站与我联系。谢谢！ https://wpfoundry.app   由   提交 /u/mikeywazowski   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cqou3n/i_made_an_application_that_helps_you_manage_your/</guid>
+      <pubDate>Mon, 13 May 2024 02:40:39 GMT</pubDate>
+    </item>
     <item>
       <title>分享你的侧面项目，我可能会为你做免费品牌:)</title>
       <link>https://www.reddit.com/r/SideProject/comments/1cqmsa3/share_your_side_porject_i_might_do_free_branding/</link>
-      <description><![CDATA[让我们看看你在做什么，如果我觉得有趣，我会免费做它的品牌 &lt; !-- SC_ON --&gt;  由   提交/u/No_Ok_Yes_Why  [链接] [评论]]]></description>
+      <description><![CDATA[让我们看看你在做什么，如果我发现它有趣，我会免费做它的品牌 &lt; !-- SC_ON --&gt;  由   提交/u/No_Ok_Yes_Why  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1cqmsa3/share_your_side_porject_i_might_do_free_branding/</guid>
       <pubDate>Mon, 13 May 2024 00:53:17 GMT</pubDate>
     </item>
     <item>
       <title>C++ 代码生成器帮助构建分布式应用程序</title>
       <link>https://www.reddit.com/r/SideProject/comments/1cqmdy8/c_code_generator_to_help_build_distributed/</link>
-      <description><![CDATA[嗨。我有一个 C++ 代码生成器，可以帮助构建分布式应用程序。它作为 3 层系统实现。 中层和前层是开源的。后层和中间层仅在 Linux 上运行。前层是便携式的。如果我们使用我的软件作为项目的一部分，我愿意在六个月内每周花 16 小时在该项目上。还有推荐奖金。   由   提交 /u/Middlewarian   [链接] [评论]]]></description>
+      <description><![CDATA[嗨。我有一个 C++ 代码生成器，可以帮助构建分布式应用程序。它作为一个 3 层系统实现。 中层和前层是开源的。后层和中间层仅在 Linux 上运行。前层是便携式的。如果我们使用我的软件作为项目的一部分，我愿意在六个月内每周花 16 小时在该项目上。还有推荐奖金。   由   提交 /u/Middlewarian   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1cqmdy8/c_code_generator_to_help_build_distributed/</guid>
       <pubDate>Mon, 13 May 2024 00:32:28 GMT</pubDate>
     </item>
@@ -71,7 +78,7 @@
     <item>
       <title>我需要你帮我解决我的第一个人工智能聊天机器人副项目的问题。</title>
       <link>https://www.reddit.com/r/SideProject/comments/1cqjc11/i_need_you_to_roast_the_crap_out_of_my_first_ai/</link>
-      <description><![CDATA[我最近制作了一个名为 voidchats.com 的网络应用程序。这是一个聊天机器人网站，你可能会发现人工智能比我的烹饪技巧更有个性。我的设计技能为 0，所以我已经准备好接受您的残酷烘烤，就像感恩节火鸡一样！ 无论如何，请查看 Voidchats.com，在评论中添加一些阴影，帮助我减少尴尬。    由   提交/u/why_chasing_Star  [链接] [评论]]]></description>
+      <description><![CDATA[我最近制作了一个名为 voidchats.com 的网络应用程序。这是一个聊天机器人网站，你可能会发现人工智能比我的烹饪技巧更有个性。我的设计技能为 0，所以我已经准备好接受您的残酷烘烤，就像感恩节火鸡一样！ 无论如何，请查看 Voidchats.com，在评论中添加一些阴影，帮助我减少尴尬。    由   提交 /u/why_chasing_Star   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1cqjc11/i_need_you_to_roast_the_crap_out_of_my_first_ai/</guid>
       <pubDate>Sun, 12 May 2024 22:04:30 GMT</pubDate>
     </item>
@@ -92,7 +99,7 @@
     <item>
       <title>魔法共享：快速共享大文件</title>
       <link>https://www.reddit.com/r/SideProject/comments/1cqgfdw/magic_share_quickly_share_large_files/</link>
-      <description><![CDATA[大家好。  我创建这个网站是为了使用“魔法”快速轻松地共享文件链接。我这样做是出于必要，因为我一直需要在多台计算机之间传输项目的数据文件，而通过 Github 来完成这件事需要很长时间。我知道电子邮件也可以使用，但对于大于 25MB 的文件，gmail 会开始将文件放入驱动器中，这会慢慢占用空间。  https://magicshare.vercel.app/ 检查一下并让我知道你在想什么！   由   提交/u/Concient_Sea9723   [链接] [评论]]]></description>
+      <description><![CDATA[大家好。  我创建这个网站是为了使用“魔法”快速轻松地共享文件。链接。我这样做是出于必要，因为我一直需要在多台计算机之间传输项目的数据文件，而通过 Github 来完成这件事需要很长时间。我知道电子邮件也可以使用，但对于大于 25MB 的文件，gmail 会开始将文件放入您的驱动器中，这会慢慢占用空间。  https://magicshare.vercel.app/ 检查一下并让我知道你在想什么！   由   提交/u/Concient_Sea9723   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1cqgfdw/magic_share_quickly_share_large_files/</guid>
       <pubDate>Sun, 12 May 2024 19:55:37 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[我看到很多帖子，人们都在谈论他们多么怀念 2009 年的约会应用程序。所以大约 7 个月前，我低下头并学会了如何编码。 起初应用程序没有通过应用程序审核，但我不断改进和完善它，直到最终通过！  这就是为什么今天我非常兴奋地向您介绍 Closr：婚姻约会应用程序。正如标题所示，Closr 旨在通过鼓励深层联系来帮助您更接近婚姻目标。 其工作原理如下： ​ &lt; ol&gt; 核心价值观：首先，应用程序会提出一些深入的问题，以了解您在一段关系中看重什么。 高级过滤：然后，它会使用您的核心价值观来过滤掉那些没有核心价值观的人。相同的值。 即时连接：无需再次匹配。立即通过您自己的信息或您选择的 50 个破冰方案开始建立联系。 AI 约会创意：在 AI 为您开绿灯后，使用符合您共同兴趣的约会创意开始您的第一次约会！  如果您担心安全，Closr 会使用严格的准则、照片分析、自然语言处理和行为分析来保护社区。如果您想隐藏一点，也可以使用隐身模式！ 该应用程序完全免费，没有广告，我不会出售您的数据，所以没有任何压力，尝试一下，然后告诉我什么你想。 完全免责声明，当这个应用程序在几个月内变得越来越大时，我将不得不将其货币化，以支付人工智能和服务器成本，并删除任何漏掉的机器人。作为一个没有股东的独立开发者，我可以并且会尽可能保持负担得起。  如果您有任何反馈或意见，请告诉我。如果您想要 Google 版本，请告诉我，我会为您制作。 感谢您的阅读！让我们一起让约会应用再次变得伟大。 关闭：约会App For Marriage 已在 App Store 上架。   由   提交 /u/makedatingappsgreat   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1cqg1y5/i_created_an_app_like_og_tinder/</guid>
       <pubDate>Sun, 12 May 2024 19:39:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>烤我的新人工智能平台</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cqeqc8/roast_my_new_ai_platform/</link>
-      <description><![CDATA[      请烤一下我的新ai文本转语音平台，您的所有建议都接受您可以自由转换10,000个字符，我们有29 种语言和口音，以及用于自定义结果语音的简单仪表板，谢谢大家。    由   提交/u/dicart99  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cqeqc8/roast_my_new_ai_platform/</guid>
-      <pubDate>Sun, 12 May 2024 18:41:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
