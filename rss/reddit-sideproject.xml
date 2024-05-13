@@ -4,7 +4,35 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个 Reddit 子版块，用于分享和接收有关副项目的建设性反馈。</description>
-    <lastBuildDate>Mon, 13 May 2024 03:14:32 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 May 2024 06:17:46 GMT</lastBuildDate>
+    <item>
+      <title>从业余项目到初创公司：正确的工具如何加速我的旅程</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cqsd66/from_side_project_to_startup_how_the_right_tools/</link>
+      <description><![CDATA[   /u/Weary-Step-8818   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cqsd66/from_side_project_to_startup_how_the_right_tools/</guid>
+      <pubDate>Mon, 13 May 2024 06:11:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>我建立了一个网站，可以根据您的食谱创建杂货清单</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cqrnbc/i_built_a_website_that_creates_grocery_lists/</link>
+      <description><![CDATA[       由   提交 /u/PeterLQor   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cqrnbc/i_built_a_website_that_creates_grocery_lists/</guid>
+      <pubDate>Mon, 13 May 2024 05:24:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>我构建了一个 API，可以通过编程方式将临时图像 URL 转换为永久链接！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cqrhq8/i_built_an_api_that_convert_temporary_image_urls/</link>
+      <description><![CDATA[嘿，开发人员朋友们， 在从事 AI 图像生成器项目（我的另一个令人兴奋的副业项目）时，我遇到了一个令人沮丧的障碍。我生成的所有图像都带有临时 URL，这意味着我的数据库充满了无用的链接。经过三天艰苦的寻找解决方案后，我意识到大多数现有选项要么太麻烦，要么太具有侵入性。想想：安装庞大的 SDK 并维护无穷无尽的软件包。此外，我尝试的 JavaScript 包与 React 或 Next.js 等框架不能很好地配合。 我偶然发现了几家似乎解决了这个问题的公司，但他们的解决方案不仅价格昂贵，它们还包含大量我不需要的功能。知道你们中的一些人可能面临同样的问题，我决定自己解决问题。这就是为什么我构建了 https://imageurl.dev 一个简单、经济高效的工具，旨在将临时图像 URL 转换为永久的优化版本。最好的部分是什么？它比您每月的咖啡预算便宜！ 我努力让一切变得简单且用户友好。如果您需要任何特定功能或有疑问，请随时与我们联系。我来这里是为了帮助您的开发之旅更加顺利。 祝您编码愉快！   由   提交 /u/mufcruz   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cqrhq8/i_built_an_api_that_convert_temporary_image_urls/</guid>
+      <pubDate>Mon, 13 May 2024 05:14:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>运行一个副业项目要花多少钱</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cqr27x/how_much_does_it_cost_to_run_a_side_project/</link>
+      <description><![CDATA[根据我的经验：  域名：取决于域名的“好”程度域名为：~$30/年 开发工具：GitHub Copilot、Vercel、Supabase 等：~$300+/年 公司：大多数时候你需要拥有“公司”在向用户收费之前。 Stripe Atlas 费用为 500 美元/年 Apple：如果您在 Apple 设备上分发，则每年需要支付 99 美元的开发者认证费用。  ​  ​ 相当昂贵（至少对我来说）。你们还花什么钱，还有更便宜的选择吗？   由   提交 /u/kouyaruten   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cqr27x/how_much_does_it_cost_to_run_a_side_project/</guid>
+      <pubDate>Mon, 13 May 2024 04:48:04 GMT</pubDate>
+    </item>
     <item>
       <title>我制作了一个可以帮助您管理 WordPress 网站的应用程序</title>
       <link>https://www.reddit.com/r/SideProject/comments/1cqou3n/i_made_an_application_that_helps_you_manage_your/</link>
@@ -62,23 +90,16 @@
       <pubDate>Sun, 12 May 2024 22:57:12 GMT</pubDate>
     </item>
     <item>
-      <title>我最近更新了我的第一个小部件，这是一个猜图像是否是人工智能生成的游戏！</title>
+      <title>我最近更新了我的第一个小部件，这是一个你可以猜测图像是否是人工智能生成的游戏！</title>
       <link>https://www.reddit.com/r/SideProject/comments/1cqk3zx/i_recently_updated_my_first_widget_a_game_where/</link>
       <description><![CDATA[       由   提交 /u/char1l   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1cqk3zx/i_recently_updated_my_first_widget_a_game_where/</guid>
       <pubDate>Sun, 12 May 2024 22:40:00 GMT</pubDate>
     </item>
     <item>
-      <title>前 1000 名早期采用者的终身访问权...</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cqjjzo/lifetime_access_to_the_first_1000_early_adopters/</link>
-      <description><![CDATA[我正在构建眨眼主义者的​​替代品。注册抢先体验并终身访问内容。仅限 1000 名早期用户。快点🚀   由   提交/u/abhishekinc   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cqjjzo/lifetime_access_to_the_first_1000_early_adopters/</guid>
-      <pubDate>Sun, 12 May 2024 22:14:34 GMT</pubDate>
-    </item>
-    <item>
       <title>我需要你帮我解决我的第一个人工智能聊天机器人副项目的问题。</title>
       <link>https://www.reddit.com/r/SideProject/comments/1cqjc11/i_need_you_to_roast_the_crap_out_of_my_first_ai/</link>
-      <description><![CDATA[我最近制作了一个名为 voidchats.com 的网络应用程序。这是一个聊天机器人网站，你可能会发现人工智能比我的烹饪技巧更有个性。我的设计技能为 0，所以我已经准备好接受您的残酷烘烤，就像感恩节火鸡一样！ 无论如何，请查看 Voidchats.com，在评论中添加一些阴影，帮助我减少尴尬。    由   提交 /u/why_chasing_Star   [链接] [评论]]]></description>
+      <description><![CDATA[我最近制作了一个名为 voidchats.com 的网络应用程序。这是一个聊天机器人网站，你可能会发现人工智能比我的烹饪技巧更有个性。我的设计技能为 0，所以我已经准备好接受您的残酷烘烤，就像感恩节火鸡一样！ 无论如何，请查看 Voidchats.com，在评论中添加一些阴影，帮助我减少尴尬。    由   提交/u/why_chasing_Star  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1cqjc11/i_need_you_to_roast_the_crap_out_of_my_first_ai/</guid>
       <pubDate>Sun, 12 May 2024 22:04:30 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[       由   提交/u/Comfortable_Grade_29   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1cqiis8/tkanks_reddit_got_54_visit_in_less_than_24h_to_my/</guid>
       <pubDate>Sun, 12 May 2024 21:27:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>陷入两个副业项目之间</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cqibvi/stuck_between_two_side_projects/</link>
-      <description><![CDATA[项目 A：一款我喜欢开发过程的游戏，主要是作为工作中放松的一种方式。这是我用虚幻引擎开发的游戏，我很高兴设计机制以及其他玩家可以享受的东西。虽然它有发展壮大的潜力，但我实际上并不认为它会广泛流行，但我确实认为它对于一款独立游戏来说是“成功的” 项目 B：一款金融人工智能应用程序。我为此创建了一个可靠的原型作为一个学术研究项目，之前它是一个个人项目，现在自从我毕业后它又成为一个个人项目。这有很大的潜力，但市场有些饱和。我喜欢其中的研究部分，数据和金融，但所有框架的应用程序开发过程等我不太喜欢 总的来说，我的人告诉我坚持项目 A 并进行在切换回项目 B 之前先完成它。特别是因为 B 感觉更像是我为实际工作所做的工作   由   提交 /u/PixelSteel   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cqibvi/stuck_between_two_side_projects/</guid>
-      <pubDate>Sun, 12 May 2024 21:19:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>魔法共享：快速共享大文件</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cqgfdw/magic_share_quickly_share_large_files/</link>
-      <description><![CDATA[大家好。  我创建这个网站是为了使用“魔法”快速轻松地共享文件。链接。我这样做是出于必要，因为我一直需要在多台计算机之间传输项目的数据文件，而通过 Github 来完成这件事需要很长时间。我知道电子邮件也可以使用，但对于大于 25MB 的文件，gmail 会开始将文件放入您的驱动器中，这会慢慢占用空间。  https://magicshare.vercel.app/ 检查一下并让我知道你在想什么！   由   提交/u/Concient_Sea9723   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cqgfdw/magic_share_quickly_share_large_files/</guid>
-      <pubDate>Sun, 12 May 2024 19:55:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个像 OG Tinder 这样的应用程序</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cqg1y5/i_created_an_app_like_og_tinder/</link>
-      <description><![CDATA[我看到很多帖子，人们都在谈论他们多么怀念 2009 年的约会应用程序。所以大约 7 个月前，我低下头并学会了如何编码。 起初应用程序没有通过应用程序审核，但我不断改进和完善它，直到最终通过！  这就是为什么今天我非常兴奋地向您介绍 Closr：婚姻约会应用程序。正如标题所示，Closr 旨在通过鼓励深层联系来帮助您更接近婚姻目标。 其工作原理如下： ​ &lt; ol&gt; 核心价值观：首先，应用程序会提出一些深入的问题，以了解您在一段关系中看重什么。 高级过滤：然后，它会使用您的核心价值观来过滤掉那些没有核心价值观的人。相同的值。 即时连接：无需再次匹配。立即通过您自己的信息或您选择的 50 个破冰方案开始建立联系。 AI 约会创意：在 AI 为您开绿灯后，使用符合您共同兴趣的约会创意开始您的第一次约会！  如果您担心安全，Closr 会使用严格的准则、照片分析、自然语言处理和行为分析来保护社区。如果您想隐藏一点，也可以使用隐身模式！ 该应用程序完全免费，没有广告，我不会出售您的数据，所以没有任何压力，尝试一下，然后告诉我什么你想。 完全免责声明，当这个应用程序在几个月内变得越来越大时，我将不得不将其货币化，以支付人工智能和服务器成本，并删除任何漏掉的机器人。作为一个没有股东的独立开发者，我可以并且会尽可能保持负担得起。  如果您有任何反馈或意见，请告诉我。如果您想要 Google 版本，请告诉我，我会为您制作。 感谢您的阅读！让我们一起让约会应用再次变得伟大。 关闭：约会App For Marriage 已在 App Store 上架。   由   提交 /u/makedatingappsgreat   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cqg1y5/i_created_an_app_like_og_tinder/</guid>
-      <pubDate>Sun, 12 May 2024 19:39:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
