@@ -4,7 +4,49 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个 Reddit 子版块，用于分享和接收有关副项目的建设性反馈。</description>
-    <lastBuildDate>Tue, 14 May 2024 03:15:03 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 May 2024 06:18:42 GMT</lastBuildDate>
+    <item>
+      <title>我的第一个 SaaS</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1crkrsd/my_first_saas/</link>
+      <description><![CDATA[       由   提交/u/rakesh_at_reddit   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1crkrsd/my_first_saas/</guid>
+      <pubDate>Tue, 14 May 2024 05:40:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>我为您制作了一个 QR 码 API 即服务，具有最先进的功能，价格比其他服务便宜 5-50 倍</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1crkmhi/i_made_a_qr_code_api_as_a_service_with_the_most/</link>
+      <description><![CDATA[嗨，我是 Liam - QR-API.com 的创建者刚刚在 PH 上推出的 ：https://www.producthunt.com/posts/qr-api- com。  看看现有的 QR 码 API 解决方案，我发现它们要么太贵 - 订阅计划每月只能为您提供几千个请求，要么太简单 - 没有针对 QR 码的高级样式。 因此，我决定将 QR 码 API 的体验提升到一个新的水平：最强大的功能并继续构建，价格优惠 5-50 倍，无需按月订阅 - 为您需要的内容支付积分。  目前，以下功能正在运行： - 静态二维码 API - 记录、跟踪和导出 API 请求报告 - 上传和管理徽标 /&gt; - 多个API密钥，为每个密钥设置特定的限制配额 - 将二维码配置保存为预设（模板），使端点更干净 我计划带来更多功能： - 批量QR 码生成 - 更高级的模板：嵌入 vCard、WiFi 贴纸等中的 QR 码 - QR 码阅读器 - Nocode 平台集成  这是我的第一个公开的独立产品（实际上第一个是一个有点克隆，但我不认为我会公开它），我希望你可以尝试它并给我反馈，免费1000名额。很高兴听到大家的来信。  PS：我也给你一些折扣：PH50OFF（前 10 次购买）和 PH30OFF（前 50 次购买）。  &amp;# 32；由   提交 /u/PyTsRs   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1crkmhi/i_made_a_qr_code_api_as_a_service_with_the_most/</guid>
+      <pubDate>Tue, 14 May 2024 05:31:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个 FOMO 定价表生成器来帮助提高您的销量</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1crjqqd/i_made_a_fomo_pricing_table_generator_to_help/</link>
+      <description><![CDATA[大家好，我是 Eoin，我创建了小型 SaaS 初创公司。今天我要推出 FomoPricing！ 它是一个定价表生成器，但您可以创建分层的早鸟折扣，以增加发布时的销售额。 我们的想法是创建多层折扣例如前 10 名顾客可享受 50 美元 折扣，后 100 名顾客可享受 20 美元 折扣。这会产生一种FOMO 和稀缺的感觉&gt; 围绕您的产品，反过来可以帮助创造动力并增加您的销量。 您可以在 FomoPricing.com 上查看。 。让我知道你们的想法！   由   提交/u/elefphlant  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1crjqqd/i_made_a_fomo_pricing_table_generator_to_help/</guid>
+      <pubDate>Tue, 14 May 2024 04:36:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>我正在创建一个带有提醒等功能的跨平台笔记应用程序！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1crjqgw/im_creating_a_crossplatform_notetaking/</link>
+      <description><![CDATA[   /u/CodeByExample  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1crjqgw/im_creating_a_crossplatform_notetaking/</guid>
+      <pubDate>Tue, 14 May 2024 04:36:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找有关社交体育赛事平台的反馈！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1criuew/looking_for_feedback_on_a_social_sporting_event/</link>
+      <description><![CDATA[大家好！ 我们认为我们发现体育赛事社区需要一个更具社交性的平台，用户可以通过该平台组织可以创建、查找并参加其所在地区的当地体育赛事。我们希望得到您对这个想法的反馈。我们的目标是首先构建一款专门用于在某个区域创建临时体育赛事的应用程序，用户可以在其中发布体育赛事并查看其所在地区正在进行的活动。最终，我们希望提供高级功能，让个人或组织可以举办大型活动，例如锦标赛或联赛，供本地用户查找。任何想法或建议将不胜感激。   由   提交/u/Altruistic-Walrus440    reddit.com/r/SideProject/comments/1criuew/looking_for_feedback_on_a_social_sporting_event/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1criuew/looking_for_feedback_on_a_social_sporting_event/</guid>
+      <pubDate>Tue, 14 May 2024 03:44:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>用一个词来描述您的 SaaS？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1crit3i/one_word_that_describes_your_saas/</link>
+      <description><![CDATA[用一个词来描述您的 SaaS？ 我的是营销！ &lt; !-- SC_ON --&gt;  由   提交 /u/niepreneur   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1crit3i/one_word_that_describes_your_saas/</guid>
+      <pubDate>Tue, 14 May 2024 03:42:42 GMT</pubDate>
+    </item>
     <item>
       <title>我扩展了 Shadcn UI 按钮以包含加载状态逻辑以及新的样式和效果。</title>
       <link>https://www.reddit.com/r/SideProject/comments/1cri5lo/i_extended_the_shadcn_ui_button_to_include/</link>
@@ -67,48 +109,6 @@
       <description><![CDATA[我正在寻找博客作者和时事通讯创作者加入 https://indie -starter.dev 用于我的高级独立入门套件，但我很难找到足够的它们。    由   提交/u/PerspectiveGrand716   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1cr9mzp/any_idea_where_to_find_affiliates/</guid>
       <pubDate>Mon, 13 May 2024 20:32:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>我构建了一个简单的 iOS 任务捕获应用程序，可以同步到您的菜单栏</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cr8aq8/i_built_a_simple_ios_task_capture_app_that_syncs/</link>
-      <description><![CDATA[       由   提交/u/levi_nels  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cr8aq8/i_built_a_simple_ios_task_capture_app_that_syncs/</guid>
-      <pubDate>Mon, 13 May 2024 19:39:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>出售我的第一个小型独立黑客项目</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cr7dxo/selling_my_first_tiny_indie_hacking_project/</link>
-      <description><![CDATA[    /u/hsnice   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cr7dxo/selling_my_first_tiny_indie_hacking_project/</guid>
-      <pubDate>Mon, 13 May 2024 19:02:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>疯狂的是我一直致力于一个有趣的项目，类似于今天的 OpenAI 版本：gpt-4o，但当然不太先进</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cr7bb1/crazy_how_ive_been_working_on_a_fun_project/</link>
-      <description><![CDATA[https://github.com/sri0606/pragYantra   由   提交/u/Dull_Barnacle2284   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cr7bb1/crazy_how_ive_been_working_on_a_fun_project/</guid>
-      <pubDate>Mon, 13 May 2024 19:00:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>分享旅行计划的网站</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cr6s9b/website_for_sharing_travel_plans/</link>
-      <description><![CDATA[这是我构建的第一个大项目，我使用了 React 和 Firebase。这还没有完全完成，我想实现更多功能（语义搜索、位置 API、过滤选项、域等），为此我需要投入大量时间和金钱，在此之前我想要知道这是否是一个值得追求的想法。 https://journey-3930f.web.app/ 如果有人可以上传自己的旅行日志，我将不胜感激任何反馈。一般规则：不要包括航班价格，但请记下所有其他信息，包括从您的第一个地点出发的任何交通、酒店、食物...   由   提交 /u/BBRRE   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cr6s9b/website_for_sharing_travel_plans/</guid>
-      <pubDate>Mon, 13 May 2024 18:38:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个网站，任何人都可以在其中创建公共墙，任何人都可以发布任何内容</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cr5qlv/i_have_created_a_website_where_anyone_can_create/</link>
-      <description><![CDATA[我创建了一个网站，任何人都可以在其中创建公共墙，任何人都可以发布任何内容 这是一个简单的地方，任何人都可以在互联网上创建他们自己的公共墙。  您可以创建自己的墙 与您的朋友分享您的墙。 匿名获取反馈（或不） 或者可能只是让自己被网上的人嘲笑。 这取决于用户是否允许匿名发帖。 创建墙的用户还可以回复发布在其墙上的消息。  链接：https://vibewall .me/   由   提交/u/manojahi77  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cr5qlv/i_have_created_a_website_where_anyone_can_create/</guid>
-      <pubDate>Mon, 13 May 2024 17:57:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>HubTemplate 是 Fl​​utter 样板</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cr5a7r/hubtemplate_a_flutter_boilerplate/</link>
-      <description><![CDATA[HubTemplate 与任何其他 Flutter 样板不同。它适用于移动设备、Web 和 MacOS，并为所有这些平台提供订阅和通知配置。 HubTemplate 具有一组功能，可让您在几天内启动 SaaS。 HubTemplate 提供电子邮件和电话身份验证、通知、订阅、Stripe 集成、具有 50 多个不同颜色主题的主题管理器、响应式设计，适合任何屏幕。这是登陆页面的链接。如果您认为这对其他人有用并且当然想支持我，请告诉我您对此有何看法，请转发。 https://workhubtemplate.framer.website/ 这里还有一个介绍视频。 https://www.loom.com/share/7227685ad5f34b289da9fdfd1a7ecdcb?sid=910d3067-8fe 3-4e2c-b638-aaf2035b92a2 &lt; /div&gt;  由   提交/u/Resident-Valuable539  /u/Resident-Valuable539 reddit.com/r/SideProject/comments/1cr5a7r/hubtemplate_a_flutter_boilerplate/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cr5a7r/hubtemplate_a_flutter_boilerplate/</guid>
-      <pubDate>Mon, 13 May 2024 17:38:36 GMT</pubDate>
     </item>
     </channel>
 </rss>
