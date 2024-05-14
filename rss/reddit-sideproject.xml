@@ -4,7 +4,98 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个 Reddit 子版块，用于分享和接收有关副项目的建设性反馈。</description>
-    <lastBuildDate>Tue, 14 May 2024 12:23:59 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 May 2024 15:14:56 GMT</lastBuildDate>
+    <item>
+      <title>只需 1 美元即可申请为您的产品做广告</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cruk6r/made_an_application_to_advertise_your_product_for/</link>
+      <description><![CDATA[嘿，我在无聊时制作了这个有趣的应用程序。所以基本上它的作用是，您支付一美元，您的产品就会在主页上展示，直到下一个人支付一美元并取代您。我知道这不是一个独特的想法或很有创意，但我是一名大学生，没有任何好主意来构建，所以在我的空闲时间做了这个。尝试一下 。烤吧。告诉我是否可以添加任何内容。玩得开心 链接：https://one-buck.vercel.app &lt; p&gt;谢谢   由   提交 /u/Dal-Chawal    reddit.com/r/SideProject/comments/1cruk6r/made_an_application_to_advertise_your_product_for/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cruk6r/made_an_application_to_advertise_your_product_for/</guid>
+      <pubDate>Tue, 14 May 2024 15:12:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>HubTemplate 全栈移动样板</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cruja1/hubtemplate_a_full_stack_mobile_boilerplate/</link>
+      <description><![CDATA[HubTemplate 与任何其他 Flutter 样板不同。它适用于移动设备、Web 和 MacOS，并为所有这些平台提供订阅和通知配置。 HubTemplate 具有一组功能，可让您在几天内启动 SaaS。 HubTemplate 提供电子邮件和电话身份验证、通知、订阅、Stripe 集成、具有 50 多个不同颜色主题的主题管理器、响应式设计，适合任何屏幕。这是登陆页面的链接。如果您认为这对其他人有用并且当然想支持我，请告诉我您对此有何看法，请转发。 https://workhubtemplate.framer.website/ 这里还有一个介绍视频。 https://www.loom.com/share/7227685ad5f34b289da9fdfd1a7ecdcb?sid=910d3067-8fe 3-4e2c-b638-aaf2035b92a2 &lt; /div&gt;  由   提交/u/Resident-Valuable539  /u/Resident-Valuable539 reddit.com/r/SideProject/comments/1cruja1/hubtemplate_a_full_stack_mobile_boilerplate/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cruja1/hubtemplate_a_full_stack_mobile_boilerplate/</guid>
+      <pubDate>Tue, 14 May 2024 15:11:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>想要一些想法</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1crtqid/want_some_ideas/</link>
+      <description><![CDATA[嘿伙计们..我是新来的，但听说过有关此子的好消息。我从事会计行业，想知道我可以做哪些副业项目来为他人增加价值。   由   提交/u/another_ human_0   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1crtqid/want_some_ideas/</guid>
+      <pubDate>Tue, 14 May 2024 14:37:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>我如何与 Marvin 一起获得“每日最佳产品”——从想法到现实仅用了 4 天。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1crt7lx/how_i_got_the_product_of_the_day_with_marvin_from/</link>
+      <description><![CDATA[   https://preview.redd.it/9eowr6sxfe0d1.png?width=1832&amp;format=png&amp;auto=webp&amp;s=271a8d027a2b 0a7fc721e5ada6fe2c3e7441379e  周四早上，当我在推特上滚动《厄运》并向抱怨它的人们阅读时，我想到了这个想法。我发现在为 WrapFast 开发 Stripe 支付时也遇到过痛苦。 ​ 我快速浏览了一下，没有找到任何可以自动执行此操作、无需点击并消除所有摩擦的东西。 ​ 如果开发Chrome 扩展很困难，因为我以前从未这样做过。事实证明不是，它只是 JS+HTML+CSS 和一个 Manifest 文件。 ​ 上午 9:49 我已经创建了存储库。  https://preview。 redd.it/gifd0dmige0d1.png?width=1968&amp;format=png&amp;auto=webp&amp;s=829f5a2879a0b995ab68d6a67ce0cfcc82a4d35a  借助 ChatGPT 和我有限的 Web 开发技能，我一天就开发完成了。  https://preview.redd.it/t39oeoukge0d1.png?width=2018&amp;format=png&amp;auto=webp&amp;s=9ba331f83d1e41b81b4c7f1a5b2fb385e1c6 56e1  星期五，我花一天时间开发登陆页面。很高兴我有 ShipFast 样板，因为这是我使用它的第三个页面，所以我正在飞行并准备好它并运行到一天结束时。 Stripe 支付、交易电子邮件、MongoDB Atlas 中的数据库...这个简单项目在一天内所需的一切。 感谢上帝，我已经开发了 Marvin，因为我在 mongodb 上遇到了一个错误，不得不测试付款大约 50 次，直到我修复它 ​ 周六我准备了产品搜寻发射。录制演示视频、准备材料、推文、调整一些文案和一些小事情...  https://preview.redd.it/tu8x9fznge0d1.png?width=2016&amp;format=png&amp;auto=webp&amp;s=1ff94969ae53 42401d970f16960bcd8b3f9b447b  周日，我于太平洋标准时间上午 00:01 启动。发布了发布公告推文，在 LinkedIn 上发帖，并花了一天时间在 Twitter 和 PH 上进行互动。我很幸运，人们喜欢这条推文，一些大型独立黑客转发了这条推文，它像病毒一样传播开来。 ​ 当排名揭晓时，我名列前茅（我不能相信吧！）Marvin 一整天都保持在#1。 ​ 就是这样！这就是我如何在短短 4 天内从想法到现实赢得了我的第一个 Product Hunt 徽章🏆 ​ 感谢大家的支持！ 🫶🏼    由   提交 /u/juanjovn   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1crt7lx/how_i_got_the_product_of_the_day_with_marvin_from/</guid>
+      <pubDate>Tue, 14 May 2024 14:14:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Reddit 的 TweetDeck</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1crt6xs/tweetdeck_for_reddit/</link>
+      <description><![CDATA[       所以基本上我开始在 reddit 的 tweetdeck 上工作，我已经精疲力尽了...我正在寻找你的验证、支持和反馈...  你愿意吗用它？  您最希望看到哪些功能？ 有人愿意帮助我处理前端（react）吗？   https:// /preview.redd.it/wvxnqbw2ge0d1.png?width=1685&amp;format=png&amp;auto=webp&amp;s=61c22bb81a4dd84e115e0a26567a8f1eff78bcb5   由   提交/u/warezak_  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1crt6xs/tweetdeck_for_reddit/</guid>
+      <pubDate>Tue, 14 May 2024 14:13:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>网站通知管理器</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1crt416/notification_manager_for_websites/</link>
+      <description><![CDATA[嘿， 我为非开发人员企业主开发了一个简单、用户友好的通知工具。供用户试用并提供反馈。您将获得免费访问权限，我很想听听您的诚实意见。感兴趣的？  在这里尝试   由   提交/u/FMPICA   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1crt416/notification_manager_for_websites/</guid>
+      <pubDate>Tue, 14 May 2024 14:10:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>烘烤/反馈我的着陆页</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1crsvdp/roastfeedback_my_landing_page/</link>
+      <description><![CDATA[您的自主业务分析师 - https://bianalytiq.com/   由   提交/u/ondro949  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1crsvdp/roastfeedback_my_landing_page/</guid>
+      <pubDate>Tue, 14 May 2024 14:00:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>构建 PDF 到 HTML 转换器（业余项目）</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1crsrjg/building_pdf_to_html_converter_side_project/</link>
+      <description><![CDATA[大家好，我正在构建一个将 PDF 转换为 HTML 的工具。这是第一天！您对我可以使用哪些工具进行 PDF 解析有什么建议吗？让我知道。   由   提交 /u/WeirdBroad9385   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1crsrjg/building_pdf_to_html_converter_side_project/</guid>
+      <pubDate>Tue, 14 May 2024 13:55:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>制作了一个简单的盒子呼吸应用程序来帮助控制你的焦虑和放松🙂</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1crsnnb/made_a_simple_boxbreathing_app_to_help_control/</link>
+      <description><![CDATA[ 由   提交/u/ialwaysfinis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1crsnnb/made_a_simple_boxbreathing_app_to_help_control/</guid>
+      <pubDate>Tue, 14 May 2024 13:51:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了一个免费网站来通过提示发现新字体</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1crshcq/i_made_a_free_site_to_discover_new_fonts_with_a/</link>
+      <description><![CDATA[      https://preview.redd.it/e8siixtmbe0d1.png?width=2638&amp;format=png&amp;auto=webp&amp;s=25d3c36746d8f33f20de75c8fe302 49fc5ca81a0 我我发现自己浪费时间不断地滚动浏览谷歌字体的大量列表，试图找到与我在各种项目中想要的确切氛围相匹配的字体。为了解决这个问题，我根据字体描述和提示实现了字体语义搜索。现在，您只需输入您想要的项目氛围，它就会推荐最相关的氛围。 fontvibes.com   由   提交 /u/lmfork   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1crshcq/i_made_a_free_site_to_discover_new_fonts_with_a/</guid>
+      <pubDate>Tue, 14 May 2024 13:43:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>我刚刚推出了 Outlook 电子邮件生产力工具！寻找反馈！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1crrpc6/i_just_launched_an_email_productivity_tool_for/</link>
+      <description><![CDATA[嘿各位企业家！ 我很高兴与大家分享我最近推出的一款生产力工具，它改变了我的游戏规则团队的电子邮件工作流程：切换 Outlook。 我们都知道重复发送电子邮件的困难。 Toggles 可帮助您自动执行这些任务，并腾出宝贵的时间来专注于最重要的事情 - 发展您的业务！ 以下是 Toggles for Outlook 可以为您做的事情：  &lt; strong&gt;轻松插入带有动态变量的可自定义电子邮件模板，以实现个性化通信（告别复制粘贴！）。 创建和管理多个动态电子邮件签名以提升您在整个团队中的专业形象。 自动执行重复操作，例如只需单击一下即可添加附件和链接（不再浪费时间搜索文件）。 通过共享模板、群组规则等促进团队协作  Toggles 有何不同？  &lt; li&gt;超越基本 Outlook 功能：与“我的模板”不同和“快速行动” Toggles 提供动态内容和操作捆绑，以实现真正简化的体验。 免费入门计划：免费试用核心功能，然后升级到高级计划以获取高级功能和团队协作工具。  我很想听听您的意见！  您是否正在为团队中的电子邮件超载而苦苦挣扎？ 在电子邮件通信方面您最大的痛点是什么？  请随时给我发私信或回复任何问题/评论/反馈！  附注以下是一些有用的链接：  网站： https://www.gettoggles.com 下载 Outlook 切换： https://appsource.microsoft.com/en-us/product/web-apps/WA200006828  &lt; /div&gt;  由   提交/u/codylettau  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1crrpc6/i_just_launched_an_email_productivity_tool_for/</guid>
+      <pubDate>Tue, 14 May 2024 13:07:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一本数字杂志来帮助创意人员驾驭人工智能</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1crr7ie/i_made_a_digital_magazine_to_help_creatives/</link>
+      <description><![CDATA[大家好， 一直在研究一些特别的东西，我非常自豪和兴奋终于与大家分享！ 《Mahazine》是第一本专门针对创意人员的人工智能数字杂志，刚刚推出了第二期！ 您现在已经知道了——人工智能正在改变游戏规则，这本杂志深入探讨了它如何改变创意工作。想想有关设计、建筑、时尚等方面人工智能的鼓舞人心的文章！此外，还有实用教程帮助您入门。 https://www.mahage.ai/themahazine 请在评论中告诉我您的想法！您对人工智能驱动的创造力的哪些方面最好奇？ P.S.传播这个词！与您可能喜欢的创意人员分享此内容。   由   提交/u/majipark  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1crr7ie/i_made_a_digital_magazine_to_help_creatives/</guid>
+      <pubDate>Tue, 14 May 2024 12:43:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>🌐✨ 通过 Product Hunt 中的 LemmiLink 揭开 SEO 飙升的秘密！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1crqu28/uncover_the_secret_to_skyrocketing_your_seo_with/</link>
+      <description><![CDATA[您好， 我们很高兴推出 LemmiLink，这是一个旨在彻底变革的新网络链接平台SEO 专业人士管理链接构建策略的方式。 LemmiLink 现已在 Product Hunt 上上线，它提供了一套量身定制的高级功能，旨在优化您在全球范围内的 SEO 工作。 LemmiLink 的主要功能： - 国际影响力&lt; /strong&gt;：轻松管理和实施跨全球各个市场的链接建设活动。 - 页面位置跟踪：监控页面的搜索引擎位置以动态调整策略。 - 网站提交：轻松添加和管理您自己的网站，供其他人在其链接构建策略中考虑。 - 联属计划：受益于我们的联属计划，该计划会奖励您的推荐和扩大我们的社区。 - 透明指标：访问不受操纵的透明指标，以确保 SEO 工作的完整性和有效性。 - 用户友好的界面：干净、直观的界面，可简化您的工作流程，使链接管理比以往更加高效。 我们相信 LemmiLink 可以通过提供工具显着提高您的 SEO 效果既强大又易于使用。 👉 支持我们的 Product Hunt 并帮助塑造 SEO 的未来！ 在这里为 LemmiLink 投票！ 我们渴望听到您的反馈和建议。您的意见将指导我们使 LemmiLink 变得更好、更能满足您的 SEO 需求。与我们一起踏上重新定义全球 SEO 实践的旅程。 感谢您关注我们并提供支持！   由   提交 /u/FianSeo   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1crqu28/uncover_the_secret_to_skyrocketing_your_seo_with/</guid>
+      <pubDate>Tue, 14 May 2024 12:24:06 GMT</pubDate>
+    </item>
     <item>
       <title>我为 UX/UI 设计师提供了一种在数小时内创建自定义设计组合的方法</title>
       <link>https://www.reddit.com/r/SideProject/comments/1crqmkh/i_made_a_way_for_uxui_designers_to_create_a/</link>
@@ -18,97 +109,6 @@
       <description><![CDATA[      描述使用此的 SaaS    由   提交/u/Blackx_1  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1crqf1z/describes_your_saas/</guid>
       <pubDate>Tue, 14 May 2024 12:02:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们如何使用 Facebook 广告和 SEO 扩展接发品牌，在 6 个月内实现 80,000 美元的投资回报率（详细细分）</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1crpqdm/how_we_scaled_a_hair_extension_brand_using/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1crpqdm/how_we_scaled_a_hair_extension_brand_using/</guid>
-      <pubDate>Tue, 14 May 2024 11:23:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>构建了一个简单的分步工具，可以为您的特定设置找到合适的集线器或扩展坞</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1crpdwp/built_a_simple_stepbystep_tool_to_find_the_right/</link>
-      <description><![CDATA[   /u/penaltyornot  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1crpdwp/built_a_simple_stepbystep_tool_to_find_the_right/</guid>
-      <pubDate>Tue, 14 May 2024 11:03:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个网站来增加您的自然流量。 -对于任何在线销售的人-</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1croxdc/i_made_a_site_to_grow_your_organic_traffic_for/</link>
-      <description><![CDATA[大家好， 我很高兴宣布在 Product Hunt 上推出 BlogFAST！ 与 BlogFAST 一起，您✨ 毫不费力地增加您的有机谷歌流量。  故事时间：在过去的两年里，我和我的商业伙伴成功创办了一家初创公司。尽管我们取得了成功，但我们面临着重大挑战：我们的自然流量开始减少，影响了我们稳定的每月收入。当我们让第一批企业主加入 BlogFAST 时，我们意识到这个问题比我们最初想象的更为普遍。  解决方案：这就是我们创建 BlogFAST 的原因。该工具通过针对用户积极搜索的内容量身定制的特定博客来提升您的域名。一致的发布和准确的 SERP 定位相结合，旨在显着增加您的流量和潜在客户。 🙌随着我们不断增强 BlogFAST 并使其更加用户友好和有效。 我希望你们喜欢并支持它 产品搜寻🚀 PS：我们正在赠送终身包，您可能想在它可用时使用它:) 感谢您的支持❤️！ -卢卡   由   提交 /u/Dalla_JL   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1croxdc/i_made_a_site_to_grow_your_organic_traffic_for/</guid>
-      <pubDate>Tue, 14 May 2024 10:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>一个意想不到的项目在短短 2 个月内就赚了 11,300 美元</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1crox0h/an_unexpected_project_earned_113k_in_just_2_months/</link>
-      <description><![CDATA[嘿 Redditers， 自 Next Starter AI 推出和首次销售以来已经过去了近 2 个月，我想分享这段令人难以置信的旅程的总结。 在 2 个月内，Next Starter AI - Next.js 打字稿样板套件与最佳营销/SEO 工具包实现了 64 笔销售，总收入达到 11,300 美元。 如果你在 2024 年 3 月 18 日问我，我认为我可以从 Next Starter AI 赚多少钱，我会说我很乐意赚 3500 美元。正如我之前提到的，即使 Next Starter AI 不赚钱，它仍然为我节省了大量构建新项目的时间，所以无论如何这是双赢的。  但我们来了。 我称其为一个意想不到的项目，因为这个想法是在加入独立黑客并向他们学习并受到他们的启发后产生的。没有他们，这个项目就不会存在。 感谢大家抽出时间。 P.S.如果您想加入其他 60 多个创客并快速构建您的 SaaS -&gt; https://nextstarter.store/ 是您这个周末的首选工具！ &lt;!-- SC_ON - -&gt;  由   提交/u/SpringWater200  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1crox0h/an_unexpected_project_earned_113k_in_just_2_months/</guid>
-      <pubDate>Tue, 14 May 2024 10:33:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>您觉得我们的独立游戏预告片怎么样？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cror59/what_do_you_think_of_our_indie_game_trailer/</link>
-      <description><![CDATA[   /u/100xJude  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cror59/what_do_you_think_of_our_indie_game_trailer/</guid>
-      <pubDate>Tue, 14 May 2024 10:22:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>出售我的在线代理机构。对于所有热切的企业家，我正在低价出售我功能齐全的营销机构！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cro0km/selling_my_online_agency_to_all_you_eager/</link>
-      <description><![CDATA[仅向我发送消息以获取重要买家的信息。愿意帮助买家完成每一步。配备了从网站到标准操作程序和渠道所需的一切。   由   提交 /u/Milkychungus   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cro0km/selling_my_online_agency_to_all_you_eager/</guid>
-      <pubDate>Tue, 14 May 2024 09:32:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果您可以根据 hashnode 博客文章🪄 创建歌曲会怎么样？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1crnujb/what_if_you_can_create_songs_from_your_hashnode/</link>
-      <description><![CDATA[   /u/lapstjup  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1crnujb/what_if_you_can_create_songs_from_your_hashnode/</guid>
-      <pubDate>Tue, 14 May 2024 09:20:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>构建 Fynk：人工智能驱动的合同管理</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1crnhvj/building_fynk_aipowered_contract_management/</link>
-      <description><![CDATA[Fynk 今天在 Product Hunt 上推出！  Fynk 是终极人工智能合约管理平台🚀 为什么选择 fynk？   人工智能合约分析 批量导入合约 人工智能引导合约创建 自定义编辑器和自定义合约数字签名 无缝处理通过电子邮件发送的合同  从草稿📄到签名✒️，fynk 简化了每一步！ 请向我们展示一些爱产品搜寻 → https://www.producthunt.com/posts/fynk  让我们开始吧！ 🚀非常感谢！ ♥️   由   提交 /u/Soggy_Presence9621   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1crnhvj/building_fynk_aipowered_contract_management/</guid>
-      <pubDate>Tue, 14 May 2024 08:55:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>浏览器模型 - 为令人惊叹的演示创建网站模型</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1crn86a/browser_mockup_create_website_mockups_for/</link>
-      <description><![CDATA[ 由   提交 /u/Evening-Schedule-662   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1crn86a/browser_mockup_create_website_mockups_for/</guid>
-      <pubDate>Tue, 14 May 2024 08:35:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>刚刚在 ProductHunt 上推出了我的产品！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1crn5n6/just_launched_my_product_on_producthunt/</link>
-      <description><![CDATA[大家好，我刚刚在 ProductHunt 上推出了我的产品 这里。它是一个在线工具，可让您通过压缩图像质量为模因添加复古外观：  复古功能：降低图像分辨率、添加噪点、模糊以及应用彩色滤镜，使您的模因看起来怀旧并在数字小巷中低语。 格式自由：使用 jpeg、png、gif 和 webp 格式，从几乎任何图像创建您的杰作。 标题：添加您自己的为图像添加搞笑的字幕，打造个性化风格。 完全免费：我们已经告别了烦人的水印。它完全免费，供您享受制作表情包的乐趣。 隐私很重要：我们明白 - 您的数据很重要。这就是为什么我们的工具不需要登录。随心所欲地制作表情包，而不必担心任何数据泄露。 简单和速度：制作表情包再简单不过了！我们的工具保证了一个简单的过程和超快的操作。  我希望你们喜欢并支持它ProductHunt。 如果您喜欢它，请投票，以感谢您付出的时间和精力。 谢谢   由   提交 /u/gazelleye   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1crn5n6/just_launched_my_product_on_producthunt/</guid>
-      <pubDate>Tue, 14 May 2024 08:30:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>考虑为中型/大型公司构建库存管理软件 (IMS)，有什么建议吗？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1crmk8m/thinking_about_building_inventory_management/</link>
-      <description><![CDATA[大多数初创公司和副项目都专注于中小型企业 (SMB)，因此我认为大公司的竞争一定会较少。  我拥有构建此类软件的专业工作经验，大多数大公司都希望为其业务提供完整的企业资源规划 (ERP) 套件。我决定首先关注一个方面，即库存管理软件，允许用户管理他们的库存，如库存、产品和发货。 对我有什么建议吗？如何接触这些公司，如何说服他们，如何向他们进行营销，更注重技术或业务，任何你能想到的。   由   提交 /u/twitchpeep   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1crmk8m/thinking_about_building_inventory_management/</guid>
-      <pubDate>Tue, 14 May 2024 07:45:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>刚刚在 ProductHunt 上推出，第一个人工智能网页设计师和开发人员 Wegic</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1crmgvt/just_launched_on_producthunt_the_first_ai_web/</link>
-      <description><![CDATA[      大家好， 我很高兴地宣布在 Product Hunt 上推出 Wegic！ Wegic 是第一个人工智能网页设计师和开发人员，由最新的 GPT-4o 模型提供支持。通过直观的对话简化网站创建。 使用 Wegic，您可以：  ✨通过简单的对话轻松创建和修改网站。 💖享受多语言支持，让您可以轻松地用您喜欢的语言进行交流。  -✍🏻让Wegic帮助您生成多种语言的网站，不仅仅是英语。 -👏 触手可及即可访问设计灵感网站、网站构建器和界面设计工具。 🙌随着我们不断增强Wegic 并使其更加用户友好和有效。 我希望你们喜欢并支持它 Product Hunt🚀 感谢您的支持❤️！ Wegic 创始团队 https://reddit.com/link/1crmgvt/video/niye35scic0d1/player&lt; /p&gt;   由   提交 /u/ArtichokeSavings6045   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1crmgvt/just_launched_on_producthunt_the_first_ai_web/</guid>
-      <pubDate>Tue, 14 May 2024 07:38:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个 100% 免费的便当网格生成器，以令人惊叹的图形来提高您的业务参与度！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1crm7av/i_made_a_100_free_bento_grid_generator_to_boost/</link>
-      <description><![CDATA[   /u/Limitless2115  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1crm7av/i_made_a_100_free_bento_grid_generator_to_boost/</guid>
-      <pubDate>Tue, 14 May 2024 07:19:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
