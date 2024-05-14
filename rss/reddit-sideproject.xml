@@ -4,7 +4,42 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个 Reddit 子版块，用于分享和接收有关副项目的建设性反馈。</description>
-    <lastBuildDate>Tue, 14 May 2024 00:56:16 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 May 2024 03:15:03 GMT</lastBuildDate>
+    <item>
+      <title>我扩展了 Shadcn UI 按钮以包含加载状态逻辑以及新的样式和效果。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cri5lo/i_extended_the_shadcn_ui_button_to_include/</link>
+      <description><![CDATA[我对必须实现自定义 {isLoading ? (...) : (...)} 每次我开始处理新项目时都会使用 Shadcn 按钮编写代码。 因此，我扩展了原始组件以包含开箱即用的加载状态，所有这些您要做的就是将任何状态传递给 isLoading 属性，并为 isLoadingText 提供一个字符串以在加载时显示。简单！ 我还添加了一堆样式和悬停效果，就像传递一个道具来激活一样简单。类名称使用 Shadcn 变量，因此会自动与您现有的主题颜色集成。 寻找有关我的小副项目的任何反馈！网站链接如下：https://extendedshadcn.com  &amp; #32；由   提交 /u/Effective-Pirate5049    reddit.com/r/SideProject/comments/1cri5lo/i_extended_the_shadcn_ui_button_to_include/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cri5lo/i_extended_the_shadcn_ui_button_to_include/</guid>
+      <pubDate>Tue, 14 May 2024 03:06:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用差异隐私查询私有数据</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1crgya1/query_private_data_using_differential_privacy/</link>
+      <description><![CDATA[构建了一个平台，使用拉普拉斯机械装置向数据添加拉普拉斯噪声。希望对我所构建的内容有一些反馈。  https://querydp.streamlit.app/   由   提交/u/No-Restaurant-5742   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1crgya1/query_private_data_using_differential_privacy/</guid>
+      <pubDate>Tue, 14 May 2024 02:05:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>您如何检测网站上的关键字？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1crgr9i/how_do_you_detect_the_keywords_on_your_website/</link>
+      <description><![CDATA[嘿，朋友们！几天前，我们推出了SEOAI。它是一个旨在检测网页上的关键字并为其分配分数的工具，从而帮助您优化网站内容。每个人都可以免费使用它进行检查。  自推出以来，我们收到了大量的建议，这些建议对改进我的网站工具非常有帮助。我们已考虑您的建议，对首页界面的风格进行了调整。  展望未来，我们计划推出一项根据检测到的关键字生成文章的功能。该功能目前正在不断开发和完善中。您对这个即将推出的功能感觉如何？您认为这对您有帮助吗？如果您有任何其他想法或想法，为什么不与我们分享呢？  无论主题如何，我们都洗耳恭听。   由   提交/u/Sea-Attention6930    reddit.com/r/SideProject/comments/1crgr9i/how_do_you_detect_the_keywords_on_your_website/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1crgr9i/how_do_you_detect_the_keywords_on_your_website/</guid>
+      <pubDate>Tue, 14 May 2024 01:55:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>构建 LocalPanda - 帮助本地企业推动本地 SEO</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1crg2ky/building_localpanda_helping_local_businesses/</link>
+      <description><![CDATA[大家好，我正在构建 LocalPanda (localpanda.ai)，这是一个帮助本地企业在 Google 上发展的工具，我寻求反馈。 我目前正在努力争取客户 - 请建议获得早期客户的最佳方式，并随时批评这个商业理念。 此外，还有什么办法吗？这里的本地企业想在 Google 上发展壮大吗？   由   提交/u/dhruvbhatia7  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1crg2ky/building_localpanda_helping_local_businesses/</guid>
+      <pubDate>Tue, 14 May 2024 01:20:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>我做了一个有趣的心理数学小游戏</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1crfw7a/i_made_a_fun_little_mental_maths_game/</link>
+      <description><![CDATA[嗨，这是我制作的一个小网站，可让您完成快速心理数学测试。我发现一个类似的网站可以做到这一点，但它不允许使用十进制数字，所以我想创建一些可以让我做到这一点的东西。这是我第一次创建一些我希望其他人能够使用的东西，所以如果您对网站或开发有任何反馈，我很乐意听到！ https://mental-math-gold.vercel.app/   由   提交/u/johndoe42945   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1crfw7a/i_made_a_fun_little_mental_maths_game/</guid>
+      <pubDate>Tue, 14 May 2024 01:11:36 GMT</pubDate>
+    </item>
     <item>
       <title>大家好！我们是一个独立团队，致力于睡眠质量和追踪器的研究。您愿意花一点时间参与这项 1-2 分钟的简短调查，帮助探索改善睡眠的方法吗</title>
       <link>https://www.reddit.com/r/SideProject/comments/1cre14d/hello_everyone_were_an_independent_team_doing_a/</link>
@@ -74,41 +109,6 @@
       <description><![CDATA[HubTemplate 与任何其他 Flutter 样板不同。它适用于移动设备、Web 和 MacOS，并为所有这些平台提供订阅和通知配置。 HubTemplate 具有一组功能，可让您在几天内启动 SaaS。 HubTemplate 提供电子邮件和电话身份验证、通知、订阅、Stripe 集成、具有 50 多个不同颜色主题的主题管理器、响应式设计，适合任何屏幕。这是登陆页面的链接。如果您认为这对其他人有用并且当然想支持我，请告诉我您对此有何看法，请转发。 https://workhubtemplate.framer.website/ 这里还有一个介绍视频。 https://www.loom.com/share/7227685ad5f34b289da9fdfd1a7ecdcb?sid=910d3067-8fe 3-4e2c-b638-aaf2035b92a2 &lt; /div&gt;  由   提交/u/Resident-Valuable539  /u/Resident-Valuable539 reddit.com/r/SideProject/comments/1cr5a7r/hubtemplate_a_flutter_boilerplate/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1cr5a7r/hubtemplate_a_flutter_boilerplate/</guid>
       <pubDate>Mon, 13 May 2024 17:38:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>研究基于队列的学习的想法</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cr4rz7/researching_an_idea_around_cohortbased_learning/</link>
-      <description><![CDATA[大家好。我正在研究基于队列的学习的想法，希望得到您的反馈。 您是否曾经开始在线课程但从未完成？那么这项调查适合您！这是一个简短的调查，旨在详细了解您为何陷入困境。请采纳和/或广泛分享。预先致谢！ 点击此处参加调查   由   提交/u/throtaway_boulder  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cr4rz7/researching_an_idea_around_cohortbased_learning/</guid>
-      <pubDate>Mon, 13 May 2024 17:17:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>BlueCtrlP - 用于副项目的部署工具</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cr3ft1/bluectrlp_deployment_tool_for_sideprojects/</link>
-      <description><![CDATA[ 由   提交/u/Classic_Extreme2813  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cr3ft1/bluectrlp_deployment_tool_for_sideprojects/</guid>
-      <pubDate>Mon, 13 May 2024 16:23:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>带视频的贺卡 - 需要帮助</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cr3a8r/greeting_cards_with_video_need_help/</link>
-      <description><![CDATA[您好！  我们正在推出一家名为 Forever Card 的贺卡/礼品卡公司。我们相信，通过提供第一个无摩擦、易于使用的贺卡/礼品卡解决方案，我们可以颠覆这个价值 3000 亿美元的行业。我们希望您在以下领域提供帮助： 反馈 &lt; ul&gt; 我们很想听听您对卡片、用户体验以及我们如何改进的看法。 现在为发送 65 亿张卡片的人们提供了直接面向消费者的服务，只需简单地希望有更方便的方式来发送它们 我们还为想要发送问候语和问候语的企业提供 B2B 服务。带有视频的大规模礼品卡。  资金  我们是预种子，拥有具有颠覆性潜力的最小可行产品。我们需要资金来启动市场。  网络  现在我们是一个小团队，我们将寻找更多有才华的人并提供帮助随着我们的发展，从您的网络中传播有关此服务的信息。  尝试一张卡并向我们提供反馈使用优惠券代码“FREECARD”结帐时发送一张免费卡。 融资/投资 -我们现在正在进行众筹活动。对于那些想跳过此选项并讨论更大的投资选择（15,000 美元以上）的人，请与我们的首席执行官联系linkedin 并安排通话。 Forever Card 业务详细信息&lt; /a&gt;   由   提交/u/Great_Yard8780  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cr3a8r/greeting_cards_with_video_need_help/</guid>
-      <pubDate>Mon, 13 May 2024 16:16:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>找到我的“为什么”并创建 BeeDone 来帮助其他人也这样做🌱</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cr2wel/finding_my_why_and_creating_beedone_to_empower/</link>
-      <description><![CDATA[寻找“为什么”的旅程– 我们所做的事情背后的驱动目标 – 通常可能是一条蜿蜒的道路。对我来说，这是一种将我的职业生涯与我的核心价值观和热情结合起来的追求。我想创造出一些东西，它不仅能实现某种目的，还能与我对技术改善我们生活的潜力的信念产生共鸣。 BeeDone 就是这样诞生的。在离开了一份与我良心不符的工作后，我决定是时候专注于开发一个应用程序来帮助其他人追寻他们的“为什么”。我们的目标是设计一款工具，帮助用户克服阻碍他们实现梦想和抱负的惰性。 BeeDone 不仅仅是检查任务；它还可以帮助用户完成任务。这是为了引导用户充分发挥其潜力。通过结合游戏化，该应用程序使目标实现变得奖励和吸引人，将平凡变成一种令人愉快的体验。借助 AI 驱动的提示，BeeDone 提供温和的推动，让用户保持正轨、受到启发并不断前进。 通过 BeeDone，我见证了人们日常生活和长期生活中令人难以置信的转变。学期目标。我从用户那里听到的故事激发了我的热情并强化了我的“为什么” – 使个人能够实现自己的能力并实现自己的抱负。 对于所有有抱负且经验丰富的副项目创建者，我鼓励您反思自己的“原因”。您的项目背后更深层次的原因是什么？它如何反映您的价值观以及如何为他人服务？ 我相信，当我们的工作深深植根于我们的“为什么”时，它就超越了单纯的副业项目。它成为一项使命、一项遗产和变革的催化剂。 让我们分享我们的经验。你的业余项目如何帮助你或其他人追寻你的“为什么”？您一路走来学到了什么教训？ 不断突破界限，让我们继续有目的地创造！   由   提交 /u/yelkamel   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cr2wel/finding_my_why_and_creating_beedone_to_empower/</guid>
-      <pubDate>Mon, 13 May 2024 16:01:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的客户门户应用程序的相关 subreddit 是什么？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cr2la7/what_is_a_relevant_subreddit_for_my_client_portal/</link>
-      <description><![CDATA[您好，我正在寻找相关的 Reddit 子版块，以找到感兴趣的人使用 Arkito ，它是一个从 Google 云端硬盘文件创建客户端门户的工具。 有什么建议吗？   由   提交/u/_stanleon  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cr2la7/what_is_a_relevant_subreddit_for_my_client_portal/</guid>
-      <pubDate>Mon, 13 May 2024 15:48:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
