@@ -4,7 +4,14 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个 Reddit 子版块，用于分享和接收有关副项目的建设性反馈。</description>
-    <lastBuildDate>Wed, 15 May 2024 00:56:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 May 2024 03:16:02 GMT</lastBuildDate>
+    <item>
+      <title>针对每月吸引 1-3 个新付费客户的小型 SaaS 的建议</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cs9eqt/advice_for_a_small_saas_that_gets_13_new_paying/</link>
+      <description><![CDATA[大家好！我构建并维护了 SliderUI - 一个 SaaS，允许用户构建图像滑块并将其嵌入到自己的网站上。它自 2017 年起就已上线，但我最近重建了它并开始在我的开源 jQuery 滑块插件 bxSlider 上宣传它。我希望能够描述该应用程序的统计数据和流量，并寻求有关后续步骤的帮助。 以下是该应用程序的详细信息：  针对注册用户获得包含所有功能的 7 天免费试用 要继续使用该应用，需一次性支付 1.99 美元 每月独立访问者：~1,100 (主要来自 bxSlider 推荐） 每月免费试用用户注册：90-120 每月新增付费用户：1-3  我的问题：  我如何开始与用户讨论他们遇到的问题？试用期已过的电子邮件用户是否会感到反感？我应该向付费用户发送电子邮件告知他们的痛点吗？ 我应该重新评估定价模式，提高价格还是按月订阅？ 我如何考虑为他们产生更多流量？该应用程序？我对是否要在社区发帖犹豫不决，因为担心被视为垃圾邮件或推销产品。  提前感谢您提供的所有帮助。 &lt; !-- SC_ON --&gt;  由   提交 /u/stevenwando   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cs9eqt/advice_for_a_small_saas_that_gets_13_new_paying/</guid>
+      <pubDate>Wed, 15 May 2024 01:50:07 GMT</pubDate>
+    </item>
     <item>
       <title>寻找合作伙伴</title>
       <link>https://www.reddit.com/r/SideProject/comments/1cs8824/looking_for_partner/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[   /u/RuinRoutine2183  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1crzag3/i_built_another_habittracking_app_but_i_am/</guid>
       <pubDate>Tue, 14 May 2024 18:26:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>我构建了一个工具，可以使用 AI 在图像中添加文本突出显示</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1crz06p/i_built_a_tool_to_add_the_highlighting_of_text_in/</link>
-      <description><![CDATA[https://twitter.com/BansalRahul14/status /1790373135549649208   由   提交 /u/raxrb   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1crz06p/i_built_a_tool_to_add_the_highlighting_of_text_in/</guid>
-      <pubDate>Tue, 14 May 2024 18:14:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
