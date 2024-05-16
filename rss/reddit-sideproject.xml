@@ -3,8 +3,92 @@
   <channel>
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
-    <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Thu, 16 May 2024 18:16:01 GMT</lastBuildDate>
+    <description>r/SideProject 是一个 Reddit 子版块，用于分享和接收有关副项目的建设性反馈。</description>
+    <lastBuildDate>Thu, 16 May 2024 21:12:39 GMT</lastBuildDate>
+    <item>
+      <title>我们推出了 Cleano - 一款用于清理 Mac 开发工作站的应用程序</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ctnxk3/we_have_launched_cleano_an_app_to_clean_your_mac/</link>
+      <description><![CDATA[      您好！ 上次我们（我和我的朋友）正在构建一个应用程序来清理各种Xcode 之后的东西。作为一名开发人员，我厌倦了苹果相关的东西加载我的驱动器并且需要数百GB才能完成我的工作。  https://preview.redd .it/94qgttggsu0d1.png?width=2880&amp;format=png&amp;auto=webp&amp;s=75ea7bf068299589f38a4522d564d9d27fe87913 功能  模拟器清理。这是通过“simctl”进行的正确清理，因此您甚至不需要重新启动 Xcode 即可生效 SPM 存储库缓存。 Swift PM 单独存储包的 github 存储库，并且永远不会删除它们，除非您通过 cli 请求。 派生数据，您尝试修复奇怪的 Xcode 链接问题的第一件事:)  目前正在开发的一些功能：  桌面小部件，因此您只需单击鼠标即可删除派生数据 支持更多包管理器，例如 CocoaPods；他们还拥有大量似乎被忽略的缓存  链接 我们还有一个单独的 GitHub 存储库（我们是开发人员，对吧？）跟踪问题和功能请求：https://deszip.github.io/Cleaner-Tracker/ &lt; /div&gt;  由   提交/u/Deszip_  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ctnxk3/we_have_launched_cleano_an_app_to_clean_your_mac/</guid>
+      <pubDate>Thu, 16 May 2024 21:06:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>最受欢迎的黑客新闻讨论的每日摘要</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ctnoy9/daily_summarizations_of_the_most_popular_hacker/</link>
+      <description><![CDATA[      大家好， 如果您正在寻找一个出色的资源，提供投票最高的黑客新闻讨论的每日摘要，请查看我在 nevix 上创建了此页面。最初，我加入了人工智能生成的封面图片，但经过多次调整后，它们仍然没有达到我的预期。因此，我决定完全删除它们，并专注于仅提供标题和摘要（包括评论摘要！）。我发现它非常实用，希望您也能如此。 屏幕截图： https://preview.redd.it/3roqxqttqu0d1.png?width=1500&amp;format=png&amp;auto=webp&amp;s=d1ac2403e07d985e7e6ae53f1 BC7735dae9c86ef 祝您阅读愉快！   由   提交 /u/lickwood91   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ctnoy9/daily_summarizations_of_the_most_popular_hacker/</guid>
+      <pubDate>Thu, 16 May 2024 20:57:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>我可以在我的博客上免费使用个人项目计划吗？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ctn5fr/can_i_use_free_for_personal_projects_plan_on_my/</link>
+      <description><![CDATA[有一些我喜欢的字体，但数量有限。我不会通过我的博客获得任何金钱，因为它不会有任何附属机构或cookies或类似的东西，只是为了写一些狗屎。这被认为是商业的还是个人的？   由   提交 /u/unnombreguay   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ctn5fr/can_i_use_free_for_personal_projects_plan_on_my/</guid>
+      <pubDate>Thu, 16 May 2024 20:35:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>我构建了一个免费工具来为您的业务提供软件推荐</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ctmm9n/i_built_a_free_tool_to_provide_software/</link>
+      <description><![CDATA[ 由   提交/u/empirical_  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ctmm9n/i_built_a_free_tool_to_provide_software/</guid>
+      <pubDate>Thu, 16 May 2024 20:15:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>3 名斯坦福大学学生与 AI 创作者一起创建了一个短视频广告生成器</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ctlrps/3_stanford_students_created_a_short_video_ads/</link>
+      <description><![CDATA[大家好，我和我的朋友们为了让 Glato AI 落地而努力了近半年，是时候将其展现出来了看看大家的想法！ Glato AI 背后的故事非常个人化： ❌ 我在为我的上一个产品 AI Anywhere 制作视频内容时真的遇到了困难。&lt; /p&gt; 聘请视频创作者要么非常耗时，要么非常昂贵。 由于我是一名白手起家的创始人，所以我必须 DIY 我的视频🤦‍♀️ 随着时间的推移，我发现这是不可持续的。就在那时，Glato AI 的想法诞生了！如果我们可以使用人工智能来自动化整个视频创建过程会怎么样？ 通过 Glato AI，我希望为像我这样的企业主和营销人员腾出大量时间。我希望几年前就有这样的经历。 Glato AI 的工作原理如下： ✅ 使用我们的 AI 模型生成视频脚本，该模型接受过获胜广告和病毒趋势的训练  ✅ 使用真实创作者的数字克隆制作引人入胜的 UGC 风格广告 ✅ 自动添加幕后花絮、字幕和视觉效果 ✅ 您只需输入产品链接即可- 如此简单🤘 在我看来，这比传统的视频创作方法要好得多： 1️⃣ 无需雇用创作者或花时间手动创建内容 2️⃣ 富有表现力、与观众产生共鸣的时尚视频 3️⃣ 现在，您可以大规模创建个性化视频，并对它们进行 A/B 测试以获得最佳性能 我真诚地希望 Glato AI 能够达到其他忙碌的创始人和营销人员的聚集地。这对我来说已经改变了游戏规则:) 🐱 我们今天在 ProductHunt 上发布，请给我们投票 🥺 https://www.producthunt.com/posts/glato-ai-beta 🥺 非常感谢您的支持！ 另请查看 Glato AI https://glato.ai 并制作两个免费视频广告！迫不及待地想看看您要创建什么！   由   提交/u/Azure-Vision  /u/Azure-Vision reddit.com/r/SideProject/comments/1ctlrps/3_stanford_students_created_a_short_video_ads/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ctlrps/3_stanford_students_created_a_short_video_ads/</guid>
+      <pubDate>Thu, 16 May 2024 19:42:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>我建立了一个免费工具来收集简历反馈</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ctljyl/i_built_a_free_tool_to_crowd_source_resume/</link>
+      <description><![CDATA[        提交人    /u/Powerful_Camel9945   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ctljyl/i_built_a_free_tool_to_crowd_source_resume/</guid>
+      <pubDate>Thu, 16 May 2024 19:34:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>免费节省 Linkedin 时间</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ctl4x7/save_hours_on_linkedin_for_free/</link>
+      <description><![CDATA[Leadseeder 是一款 LinkedIn 自动化工具，可通过自动发送连接请求、访问和跟进来简化专业人士的交流。其直观的分析仪表板为创始人、人力资源、营销人员和自由职业者带来了翻天覆地的变化。 以下是扩展程序的链接：https://chromewebstore.google.com/search/leadseeder?hl=en-US&amp;utm_source=ext_sidebar    提交人    /u/vidiit   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ctl4x7/save_hours_on_linkedin_for_free/</guid>
+      <pubDate>Thu, 16 May 2024 19:17:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>面向专业人士和初创公司的 AI CxO 套件</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ctkd55/suite_of_ai_cxo_for_professionals_and_startups/</link>
+      <description><![CDATA[您好！ 👋 令人兴奋的消息：Cognitiev PRO 现已开始 Product Hunt！ 我们面向初创企业和中小企业的企业 AI 解决方案两年仅需 149 美元，包括每日 100 次 AI 生成 (GPT -4、愿景、插件）。 非常感谢迄今为止支持我们的所有人！如果您刚刚加入我们，请查看并分享您的支持。每一点都有助于我们成长！ https://www.producthunt.com/posts/cognitiev -pro-2 感谢您的支持！ 💙   由   提交/u/MediocrePspecial65  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ctkd55/suite_of_ai_cxo_for_professionals_and_startups/</guid>
+      <pubDate>Thu, 16 May 2024 18:46:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>烤我的技术博客网站</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ctkbag/roast_my_technical_blog_site/</link>
+      <description><![CDATA[大家好 我最近创建了一个关于编程和面试相关内容的 WordPress 博客。 链接到我的博客- https://getlearntech.com/。  我是后端开发人员，前端工作不多。 我的博客处于早期阶段，我想把它做得更好。我正在寻找一些改进建议。   由   提交/u/tech_learner_123  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ctkbag/roast_my_technical_blog_site/</guid>
+      <pubDate>Thu, 16 May 2024 18:44:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>任务管理器 - 生产力引擎：掌控您的时间</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ctk6ae/task_manager_productivity_powerhouse_take_control/</link>
+      <description><![CDATA[功能：  高效的任务管理 任务类别 任务详细信息输入 快速操作按钮 自动任务排序 已完成的任务存档 可视化任务板  这是演示： https://www .youtube.com/watch?v=x7xafIy5FgM   由   提交/u/Goloverse  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ctk6ae/task_manager_productivity_powerhouse_take_control/</guid>
+      <pubDate>Thu, 16 May 2024 18:38:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>智能目标跟踪器 - 智能目标，大成果：目标设定革命</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ctk4ai/smart_goals_tracker_smart_goals_big_results_goal/</link>
+      <description><![CDATA[特点：  智能目标输入 自动计算 全面的目标视图 成就分析 基于状态的目标组织 过滤目标信息  &lt; p&gt;这是演示： https://www.youtube.com/watch?v= QT8dd0x6buE   由   提交/u/Goloverse  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ctk4ai/smart_goals_tracker_smart_goals_big_results_goal/</guid>
+      <pubDate>Thu, 16 May 2024 18:36:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>系列追踪器 - Binge Better：最大化娱乐</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ctk2jy/series_tracker_binge_better_maximize_entertainment/</link>
+      <description><![CDATA[特点：  流派组织 详细系列信息 灵活的过滤选项 视觉系列图库 可重复观看列表  以下是演示： https://www.youtube.com/watch?v=mKBN53a4nEc &lt; /div&gt;  由   提交/u/Goloverse  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ctk2jy/series_tracker_binge_better_maximize_entertainment/</guid>
+      <pubDate>Thu, 16 May 2024 18:34:08 GMT</pubDate>
+    </item>
     <item>
       <title>我一直在利用空闲时间构建这个文字游戏。外言网</title>
       <link>https://www.reddit.com/r/SideProject/comments/1ctjjpw/i_have_been_spending_my_free_time_building_this/</link>
@@ -13,7 +97,7 @@
       <pubDate>Thu, 16 May 2024 18:12:37 GMT</pubDate>
     </item>
     <item>
-      <title>检查域名 - 基于 AI 的域名建议和查找工具</title>
+      <title>检查域名 - 基于人工智能的域名建议和查找工具</title>
       <link>https://www.reddit.com/r/SideProject/comments/1ctjhnn/check_for_domains_ai_based_domain_suggest_finder/</link>
       <description><![CDATA[我创建了检查域名，因为我花费了相当多的钱花一些时间为我的业余项目寻找吸引人的域名。很长一段时间以来，我一直想构建一些东西，使用人工智能并构建这个工具看起来是个好主意，我不需要付出太多努力就可以做到。一如既往，一旦你真正开始做事情就会变得更加困难，所以我最终花费了比预期更多的时间来构建它。你越接近问题，你发现的就越多。在技​​术问题和功能方面。 一旦开始从事某些工作，您就会意识到为了可用，您需要添加越来越多的功能。因此，我最终得到了一长串功能，其中一些我已经实现，另一些等待实现。 在此阶段，检查域可用于搜索域，方法是描述启动想法或提供关键字/标签列表。您可以分享搜索以获得朋友的反馈。我正在努力添加历史记录并将某些域添加到收藏夹。 请分享您的反馈，并让我知道您是否希望在此工具中拥有特殊功能。在 reddit 上或在网站上请求功能。   由   提交 /u/teaganga   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1ctjhnn/check_for_domains_ai_based_domain_suggest_finder/</guid>
@@ -25,90 +109,6 @@
       <description><![CDATA[我最近推出了我的第一个 SaaS，它仍处于早期阶段。但我想让它变得更好。这是我的着陆页的链接 https://promptg.ai/   由   提交/u/Horror_Confidence_13   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1ctj1l9/roast_my_landing_page/</guid>
       <pubDate>Thu, 16 May 2024 17:52:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>刚刚在我的绘图网站上实现了额外的调色板。测试“复古”调色板</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ctgii1/just_implemented_additional_color_palettes_on_my/</link>
-      <description><![CDATA[    /u/Stixv   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ctgii1/just_implemented_additional_color_palettes_on_my/</guid>
-      <pubDate>Thu, 16 May 2024 16:06:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>我想构建这个来提高客户参与度 发展您的 b2bSaaS！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ctge88/i_wanted_to_build_this_to_create_better_client/</link>
-      <description><![CDATA[   /u/killer_carlson  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ctge88/i_wanted_to_build_this_to_create_better_client/</guid>
-      <pubDate>Thu, 16 May 2024 16:02:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>我构建了一个免费的 Chrome 扩展，将 LLM 直接集成到浏览器中，这样您就可以更好更快地完成工作</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ctfupz/i_built_a_free_chrome_extension_that_integrates/</link>
-      <description><![CDATA[LLM 会给你超能力，但是使用它们来完成你的工作会遇到太多摩擦。因此，我构建了一个 Chrome 扩展，让您可以从您工作的地方使用可重复使用的提示以及当前页面的内容来调用像 Gemini 和 ChatGPT 这样的 LLM。  我认为这个想法是有道理的，但我非常希望得到反馈！您可以从此处了解更多信息并下载：https://www.asksteve.to 谢谢！&lt; /p&gt;   由   提交/u/rajatrocks  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ctfupz/i_built_a_free_chrome_extension_that_integrates/</guid>
-      <pubDate>Thu, 16 May 2024 15:38:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Diagramix] - 在 ChatGPT 的帮助下轻松创建美人鱼图</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ctfoyi/diagramix_create_effortless_mermaid_diagrams_with/</link>
-      <description><![CDATA[       由   提交 /u/kamalkishor1991   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ctfoyi/diagramix_create_effortless_mermaid_diagrams_with/</guid>
-      <pubDate>Thu, 16 May 2024 15:31:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>最佳网站建设者或最佳招聘平台？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ctfm6h/best_website_builder_or_best_hiring_platform/</link>
-      <description><![CDATA[开始割草业务，希望拥有一个网站，仅用于显示有关定价和我提供的产品等信息。这主要是我的一个地方显示信息，没什么太复杂的，所以我正在考虑尝试使用网络构建器来构建自己。该网站的复杂部分将是预订我的服务并向潜在客户发送实时自动回复 如果它变得太复杂并且我需要添加更多功能，我可能不得不雇用一名开发人员来帮我解决这个问题。  那么你们使用什么招聘平台，因为我不确定网络构建器是否可以为我集成一些功能，但如果可以的话请告诉我   由   提交/u/vibe_keeper  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ctfm6h/best_website_builder_or_best_hiring_platform/</guid>
-      <pubDate>Thu, 16 May 2024 15:27:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>检查域名：AI 域名建议工具</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ctfjb9/check_for_domains_ai_domain_name_suggest_tool/</link>
-      <description><![CDATA[ 由   提交/u/teaganga  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ctfjb9/check_for_domains_ai_domain_name_suggest_tool/</guid>
-      <pubDate>Thu, 16 May 2024 15:24:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>我构建了一个应用程序，可以将 Notion 变成社交媒体调度工具！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ctf93l/i_built_an_app_that_turns_notion_into_a_social/</link>
-      <description><![CDATA[嗨！ 我的一生几乎都在 Notion 上，这对这里的很多人来说可能都是如此，而且我可以从其他应用程序/笔记中卸载到 Notion 中的任务越多，我感觉就越有组织性和生产力。 我在社交媒体上工作了很多，到目前为止我使用过的日程安排应用程序都没有感觉到“足够集成到我现有的工作流程中。不得不打开他们专用的应用程序/界面，上传所有内容，并使其与我的其余工作脱节，这感觉就像一件苦差事。 所以......我构建了 https://notionscheduler.app 🎉 NotionScheduler 是您的 Notion 工作区和您想要将内容发布到的社交媒体平台（Instagram、Facebook）之间的桥梁、Twitter、LinkedIn、TikTok）。这个想法是，您可以为所有工作和内容建立一个中心位置，并在您计划好后将其自动发布到社交媒体。 它为您创建一个数据库，您可以然后填充您的内容，在日历视图中显示等，为您提供其他社交媒体调度工具的许多优势，但直接在 Notion 中。 我很乐意获得一些关于此的反馈？您喜欢什么、不喜欢什么、什么有效、什么无效等等？   由   提交 /u/Pr4w   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ctf93l/i_built_an_app_that_turns_notion_into_a_social/</guid>
-      <pubDate>Thu, 16 May 2024 15:12:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>每个星期一我都会发送一份时事通讯，其中包含利用您在社交媒体上的影响力的最佳方法！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cteupo/every_monday_i_send_out_a_newsletter_edition/</link>
-      <description><![CDATA[如果您热衷于在社交媒体上发挥自己的影响力，周一营销是您可以免费订阅的时事通讯。  时事通讯版本正在被社区积极接受。  为什么要以忧郁的心情开始你的周一？相反，从周一营销开始。    由   提交 /u/niepreneur   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cteupo/every_monday_i_send_out_a_newsletter_edition/</guid>
-      <pubDate>Thu, 16 May 2024 14:55:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>为社交媒体营销人员构建人工智能 - 根据讨论创建、分析和安排时间</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ctelkp/built_an_ai_for_social_media_marketers_create/</link>
-      <description><![CDATA[    /u/Current-Payment-5403   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ctelkp/built_an_ai_for_social_media_marketers_create/</guid>
-      <pubDate>Thu, 16 May 2024 14:43:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>我使自动查找关键字提示变得非常容易。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cte8fo/i_made_it_super_easy_to_find_keyword_ideas/</link>
-      <description><![CDATA[几个月前，我决定构建一个工具来帮助进行关键字研究，并且我需要一种有效的方法来找到正确的关键字。我考虑过使用 Google 自动完成作为生成关键字的来源，结果证明这是完美的解决方案。 我致力于构建一个 API，以便我可以以编程方式获取这些 Google 自动完成建议并制定我的关键字研究流程甚至更加高效。经过努力构建它，现在它可以在一秒内可靠地找到 10-15 个关键字建议 - 对于任何关键字！最近我已经将这个 API 作为自己的产品公开，我很乐意让您尝试一下。其工作原理如下： 您免费注册并获得唯一的 API 密钥。然后，您使用关键字、语言和位置向 API 发出请求。该 API 将以 JSON 格式返回该关键字的所有 Google 自动完成建议，以便您轻松查看、解析和操作结果。 如果您想尝试一下，可以在 keywordsquill 找到它。 .com。如果您有任何反馈或建议，我将不胜感激，如果您想更大规模地尝试，请使用代码“REDDIT”获得 75% 的积分折扣。提前致谢！   由   提交 /u/GamingMattYT   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cte8fo/i_made_it_super_easy_to_find_keyword_ideas/</guid>
-      <pubDate>Thu, 16 May 2024 14:27:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>第一次为我的项目进行 SEO，太棒了！您的 SEO 副业进展如何？您取得了成功吗？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ctcvgm/first_time_getting_any_seo_for_my_project_awesome/</link>
-      <description><![CDATA[   /u/Limitless2115  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ctcvgm/first_time_getting_any_seo_for_my_project_awesome/</guid>
-      <pubDate>Thu, 16 May 2024 13:26:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的 Fiverr 开发者噩梦</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ctcmcs/my_fiverr_developer_nightmare/</link>
-      <description><![CDATA[因此，我决定在 Fiverr 上雇用一名开发人员来帮助我完成一个项目，尽管我不顾所有友好的建议，因为我一直在雇用另一个平台从。这看起来是一个快速而简单的解决方案，对吗？错了。 我雇用的那个人声称自己是编码神童，但他的工作完全是一场灾难。草率的代码、错过最后期限，最糟糕的是，零沟通。试图挽救该项目是一场噩梦。 经验教训：坚持有效的方法，不要试图走捷径。 你们中有人经历过类似的事情吗？  p&gt;  有哪些关于审查自由职业者或平台以避免陷入同一陷阱的提示？   由   提交/u/quality_mute_  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ctcmcs/my_fiverr_developer_nightmare/</guid>
-      <pubDate>Thu, 16 May 2024 13:14:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
