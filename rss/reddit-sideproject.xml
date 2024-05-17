@@ -4,7 +4,77 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个 Reddit 子版块，用于分享和接收有关副项目的建设性反馈。</description>
-    <lastBuildDate>Fri, 17 May 2024 15:13:18 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 May 2024 18:16:49 GMT</lastBuildDate>
+    <item>
+      <title>GPT4 聊天机器人</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cuc6yk/gpt4_chatbot/</link>
+      <description><![CDATA[     我觉得 GPT 在编码问题上更好一点，但我无力继续订阅……作为一名学生等等。 发现了这个有趣的页面，让我可以在不订阅 OpenAI 的情况下使用 GPT 4。大多数情况下工作正常。 https:// modelcentral.ai/models/76bfb816-c968-41a7-a3f2-25001b4d9acf/view https://preview.redd.it/x6kux0od211d1.png?width=1127&amp;format=png&amp;auto=webp&amp;s=7a0399804326226cf7 d137aa201d41d6b623df7b   由   提交 /u/Ok-Region-4964   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cuc6yk/gpt4_chatbot/</guid>
+      <pubDate>Fri, 17 May 2024 18:13:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>兼容的室友在这里找到协作生活</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cuc2it/where_compatible_roommates_find_collaborative/</link>
+      <description><![CDATA[大家好！ 🌟 对于那些一直在寻找合适室友的人来说，这是一个令人兴奋的消息：我很高兴向大家介绍 Split ，一项全新的室友配对服务，旨在连接志趣相投的人。无论您是企业家、创造者，还是只是寻求协作生活安排的人，我们都能满足您的需求！ 🚀 是什么让斯普利特与众不同？我们正在利用人工智能的力量，确保为您匹配到一个不仅兼容，而且能够真正补充您的生活方式和愿望的人。想象一下，与一个不仅是室友，而且是您的创意和创业企业的合作伙伴一起生活的人。 🏠 我们已经在加利福尼亚和迈阿密等地看到了令人难以置信的共享生活空间，现在我们将其带来概念给您 - 与一个扭曲。 👉 请访问我们的网站以了解更多信息并了解其工作原理：https:// split.framer.ai/ 💬我很想听听您的想法和反馈。如果您有任何问题或建议，请随时在评论中提出。让我们一起让共享生活变得精彩！   由   提交/u/ZAROV8862   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cuc2it/where_compatible_roommates_find_collaborative/</guid>
+      <pubDate>Fri, 17 May 2024 18:08:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Easy train GPT2 通过一个提示在您的计算机上本地训练 gpt2</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cubzb1/easy_train_gpt2_train_gpt2_locally_on_your/</link>
+      <description><![CDATA[      它使用 ollama 基于单个提示生成数据集提示，然后在该模型上训练 gpt2，并允许您像聊天机器人界面一样在 gui 本身中测试经过训练的 gpt2 模型   由   提交 /u/Impossible_Belt_7757   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cubzb1/easy_train_gpt2_train_gpt2_locally_on_your/</guid>
+      <pubDate>Fri, 17 May 2024 18:04:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了一份时事通讯，以便您可以及时了解人工智能的热潮。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cubwi9/i_created_a_newsletter_so_you_can_keep_up_with/</link>
+      <description><![CDATA[大家好，我是 Azan，我爱 AI。 我是我的家人和朋友来找我的家伙如果他们需要有关人工智能历史等的快速课程。 因为我非常热衷于人工智能领域，而且几乎是第一批获得人工智能新消息的人之一。&lt; /p&gt; 我创建了这份免费时事通讯，以便人们可以跟上它，今天我刚刚发表了我的第一篇文章。 我每周将发送电子邮件 2-3 次或更多次，我会如果您有兴趣，可以订阅，不胜感激。 它的名字是“Nowadays In AI” https ://nowadaysinai.substack.com/ 让我知道你对此的看法。  TY   由   提交/u/azancopy  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cubwi9/i_created_a_newsletter_so_you_can_keep_up_with/</guid>
+      <pubDate>Fri, 17 May 2024 18:01:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用适用于 Chrome 的 AI 进行检查</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cuavd1/inspect_with_ai_for_chrome/</link>
+      <description><![CDATA[      我正在开发一个 Chrome 扩展程序，允许您选择网页上的任何元素并快速修改 TailwindCSS， CSS 或 HTML。人工智能负责编码，你只需告诉它你想做什么。我认为它比市场上的 CSS 编辑器插件具有更专业的效果。 很快我将添加撤消和转发功能，以便您可以轻松管理更改。 什么您对这种插件有何看法？我很想听听您的反馈和建议。提前致谢！   由   提交/u/malamatcaga   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cuavd1/inspect_with_ai_for_chrome/</guid>
+      <pubDate>Fri, 17 May 2024 17:19:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>我做了一个猴子类型黑客，我想展示它</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cuasie/i_made_a_monkeytype_hack_and_i_want_to_show_it/</link>
+      <description><![CDATA[   我想从头开始说清楚，我只做了这个出于纯粹的好奇心，我不打算通过在排行榜排名中推广作弊行为来破坏网站的礼貌和本质。这就是为什么我不会公开代码。 所以我制作了一个 chrome 扩展，它只会破坏 monkeytype&lt; 中的打字测试/a&gt; （目前我的最大实际速度是 76 wpm）。 我只需要按下空格键，其他的事情就搞定了。 我真的没想到它会这么好。现在我想真正向其他人展示这一点（但我不想通过共享代码来搞乱排行榜排名）。 所以告诉我你的想法 &lt; p&gt;视频演示  &amp;# 32；由   提交 /u/Amazing-Lab-5846   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cuasie/i_made_a_monkeytype_hack_and_i_want_to_show_it/</guid>
+      <pubDate>Fri, 17 May 2024 17:16:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>如果您厌倦了低观看次数和低关注者，请点击此帖子！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cuaoa8/click_this_post_if_you_are_tired_of_getting_low/</link>
+      <description><![CDATA[大家好， 您是否厌倦了浏览量低但贴了这么多标签？ 低尽管在 Instagram 上花费了 100 美元来“提升”转化率您的广告？ 我是一名数字营销顾问，专门从事在线策略重新设计、制作引人入胜的内容和策略改进。 我专门研究 Instagram 和网站。  &gt; 我已经为我的客户证明了自己的工作，使他们的转化率比以前高得多，带来了关注者和许多观点。 如果您想查看我的工作，或者有任何想法问题，请DM我！ 如果您想工作并讨论价格，也请DM我 P.S.我无法同时与太多人一起工作，所以先到先得。   由   提交 /u/Trnqui1ity   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cuaoa8/click_this_post_if_you_are_tired_of_getting_low/</guid>
+      <pubDate>Fri, 17 May 2024 17:11:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>为 Android 构建了一个新的媒体小部件 - 也可以在锁定屏幕上使用！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cua6uw/built_a_new_media_widget_for_android_works_on/</link>
+      <description><![CDATA[   /u/inventor_black  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cua6uw/built_a_new_media_widget_for_android_works_on/</guid>
+      <pubDate>Fri, 17 May 2024 16:52:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>第一个个人项目！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cu8e0y/first_solo_project/</link>
+      <description><![CDATA[过去 10 年我一直从事技术工作，但从未担任过工程师。去年年底我被解雇了，我决定自己从头到尾建立一个项目。  结果是封面！ https://www.trycover.co&lt; /p&gt; 我喜欢观看/发现/获得推荐的电视节目，但忘记了我正在观看的内容/正在观看的剧集。说实话，当我知道有这么多东西并且感觉自己在这一切上都落后时，我有点不知所措/令人沮丧。我不喜欢现在的任何选项，所以认为这将是一个很好的项目。我现在正在积极跟踪 63 个节目，其中 113 个节目在我的排队列表中。  希望得到任何和所有反馈！    由   提交 /u/redditbin   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cu8e0y/first_solo_project/</guid>
+      <pubDate>Fri, 17 May 2024 15:39:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>TestSprite 即将在《今日产品搜寻》中排名第一！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cu87z7/testsprite_is_approaching_daily_1_on_product_hunt/</link>
+      <description><![CDATA[你好，我美丽的朋友们！ 😊🌟我们很乐意得到您的支持！💪🏼 TestSprite 已在 Product Hunt 🚀 上正式上线，我们很高兴与大家分享！ 您的点赞和评论对我们来说意义重大！ https://www.producthunt.com/posts/testsprite-beta 编码员可以现在使用 TestSprite 的无代码、全自动 AI 测试器加快他们的 QA 和测试框架。它可以将整体测试速度提高高达 1000 倍。 TestSprite 非常适合后端 API，它可以提出计划、生成代码并轻松集成到 DevOps 流程中。 为了表达我们的谢意，我们将关注在 TestSprite 上投票或评论的每个人的个人资料，并且我们将为您的产品提供同样的支持，包括撰写深思熟虑的评论作为回报。✨   由   提交 /u/TestSprite_Shawnie   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cu87z7/testsprite_is_approaching_daily_1_on_product_hunt/</guid>
+      <pubDate>Fri, 17 May 2024 15:32:07 GMT</pubDate>
+    </item>
     <item>
       <title>我将审查您的项目并帮助您制定策略以实现 7 位数的收入。</title>
       <link>https://www.reddit.com/r/SideProject/comments/1cu7m06/ill_review_your_project_and_help_give_you_a/</link>
@@ -13,7 +83,7 @@
       <pubDate>Fri, 17 May 2024 15:08:03 GMT</pubDate>
     </item>
     <item>
-      <title>构建了一个开源 Chrome 扩展来发现 API 行为并让 LLM 对其进行解释</title>
+      <title>开发了一个开源 chrome 扩展来发现 API 行为并让 LLM 对其进行解释</title>
       <link>https://www.reddit.com/r/SideProject/comments/1cu724o/built_an_open_source_chrome_extension_to_discover/</link>
       <description><![CDATA[       由   提交/u/Ok-Craft-9908   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1cu724o/built_an_open_source_chrome_extension_to_discover/</guid>
@@ -22,7 +92,7 @@
     <item>
       <title>使用 Auto-LinkedIn 自动化您的 LinkedIn 任务 - Node.js 和 Puppeteer 项目</title>
       <link>https://www.reddit.com/r/SideProject/comments/1cu6eyg/automate_your_linkedin_tasks_with_autolinkedin_a/</link>
-      <description><![CDATA[嘿 Reddit！ 我很高兴与大家分享我一直在做的一个项目，叫做 Auto LinkedIn。如果你厌倦了 LinkedIn 上的重复任务，并且想节省时间，这个项目就适合你！ 什么是 Auto LinkedIn？ Auto LinkedIn 是一个使用 Node.js 和 Puppeteer 自动执行各种 LinkedIn 任务的工具。无论您需要搜索个人资料、发送连接请求还是访问个人资料，Auto LinkedIn 都能满足您的需求。 主要功能  登录/注销：自动完成登录和注销过程。 个人资料搜索：根据关键字和连接级别搜索 LinkedIn 个人资料。 连接请求：发送个性化的连接请求。 个人资料访问：自动访问个人资料。 （正在进行中）消息传递：向您的联系人发送消息（即将推出）。  为什么使用 Auto LinkedIn？  节省时间：自动执行重复性任务并专注于重要的事情。 可扩展：轻松处理大规模操作。 可定制：根据需要修改和扩展功能满足您的需求。  嘿 Reddit！ 我很高兴与大家分享我一直在做的一个项目，叫做 Auto LinkedIn。如果您厌倦了 LinkedIn 上的重复任务并想节省时间，这个项目就适合您！ 什么是 Auto LinkedIn？ Auto LinkedIn 是一种使用 Node.js 和 Puppeteer 自动执行各种 LinkedIn 任务的工具。无论您是需要搜索个人资料、发送连接请求还是访问个人资料，Auto LinkedIn 都能满足您的需求。 主要功能  登录/注销：自动完成登录和注销过程。 个人资料搜索：根据关键字和连接级别搜索 LinkedIn 个人资料。 连接请求：发送个性化连接请求。 个人资料访问：自动访问个人资料。 （正在进行中）消息传递：向您的联系人发送消息（即将推出）。  为什么使用 Auto LinkedIn？  节省时间：自动执行重复性任务并专注于重要的事情。 可扩展：轻松处理大规模操作。 可定制：根据您的需要修改和扩展功能。  如何开始  克隆存储库：  ​ git clone [https://github.com/Ranork/Auto-Linkedin.git](https://github.com/Ranork/Auto-Linkedin.git)   安装依赖项： npm install 配置您的 .env 文件：添加您的 LinkedIn 凭据。 4. 运行应用程序： npm run start  示例用法 以下是如何搜索个人资料和发送连接请求的简单示例： const client = new LinkedIn({ headless: true }); await client.login(process.env.USERNAME, process.env.PASSWORD); const profile = await client.searchPeople({ keywords: &#39;venture capital&#39;, network: [&#39;S&#39;] }, 200); for (let p of profile) { await p.connectionRequest(client, &#39;嗨！请接受我的请求&#39;); }  参与其中 如果您有兴趣为该项目做出贡献，请查看 GitHub 上的存储库。欢迎随时做出贡献！ GitHub 存储库：Auto LinkedIn    提交人    /u/Ranorkk   [链接] [评论]]]></description>
+      <description><![CDATA[嘿 Reddit！ 我很高兴分享我一直在从事的一个项目，名为 Auto LinkedIn&lt; /强&gt;。如果您厌倦了 LinkedIn 上的重复性任务并希望节省时间，这个项目适合您！ 什么是 Auto LinkedIn？ Auto LinkedIn 是一个自动化各种 LinkedIn 的工具使用 Node.js 和 Puppeteer 执行任务。无论您需要搜索个人资料、发送连接请求还是访问个人资料，Auto LinkedIn 都能满足您的需求。 主要功能  登录/退出&lt; /strong&gt;：自动执行登录和注销过程。 个人资料搜索：根据关键字和连接级别搜索 LinkedIn 个人资料。 连接请求：发送个性化连接请求。 个人资料访问：自动访问个人资料。 （正在进行中）消息传送 strong&gt;：向您的联系人发送消息（即将推出）。  为什么使用自动 LinkedIn？  节省时间：自动化重复性任务并专注于重要的事情。 可扩展：轻松处理大规模操作。 可定制：修改和根据您的需求扩展功能。  嘿 Reddit！ 我很高兴分享我一直在从事的一个名为 Auto LinkedIn 的项目。如果您厌倦了 LinkedIn 上的重复性任务并希望节省时间，这个项目适合您！ 什么是 Auto LinkedIn？ Auto LinkedIn 是一个自动化各种 LinkedIn 的工具使用 Node.js 和 Puppeteer 执行任务。无论您需要搜索个人资料、发送连接请求还是访问个人资料，Auto LinkedIn 都能满足您的需求。 主要功能  登录/退出：自动登录和注销过程。 个人资料搜索：根据关键字和连接级别搜索 LinkedIn 个人资料。 连接请求：发送个性化连接请求。 个人资料访问：自动访问个人资料。 （正在进行中）消息传递：向您的联系人发送消息（即将推出）。  为什么使用自动 LinkedIn？  节省时间：自动执行重复性任务并专注于重要的事情。 可扩展：轻松处理大规模操作。 可定制：根据您的需求修改和扩展功能.  如何开始  克隆存储库：  ​ &lt; pre&gt;git 克隆 [https://github.com/Ranork/Auto-Linkedin.git](https://github.com/Ranork/Auto-Linkedin.git)  &lt; ol&gt; 安装依赖项： npm install 配置您的 .env 文件：添加您的 LinkedIn 凭据。 4. 运行应用程序： npm run start  用法示例 以下是如何搜索配置文件的快速示例并发送连接请求： const client = new LinkedIn({ headless: true });等待 client.login(process.env.USERNAME, process.env.PASSWORD); const profile = wait client.searchPeople({ keywords: &#39;风险投资&#39;, 网络: [&#39;S&#39;] }, 200); for (let p of profile) { wait p.connectionRequest(client, &#39;嗨！请接受我的请求&#39;); }  参与 如果您有兴趣为该项目做出贡献，请查看 GitHub 上的存储库。随时欢迎贡献！ GitHub 存储库：Auto LinkedIn &lt; !-- SC_ON --&gt;  由   提交 /u/Ranorkk   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1cu6eyg/automate_your_linkedin_tasks_with_autolinkedin_a/</guid>
       <pubDate>Fri, 17 May 2024 14:20:09 GMT</pubDate>
     </item>
@@ -36,79 +106,9 @@
     <item>
       <title>获得瑞士工作 - 一个响应在瑞士寻找工作的人们的小项目</title>
       <link>https://www.reddit.com/r/SideProject/comments/1cu5of5/get_a_swiss_job_a_small_project_to_respond_to/</link>
-      <description><![CDATA[我在瑞士生活了几年，越来越多的人向我寻求有关如何在这里找到工作的建议。 最初在同一个域上，我打开了一系列有用的信息和方向，但我发现人们真正寻找的是一个更现代的分类网站，所以这个项目诞生了，我很好奇它是如何实现的 除了常规的工作公告板外，我还将提供与在瑞士工作主题严格相关的文章和信息指南。 链接：https://getaswissjob.com/ 你们觉得怎么样？ 谢谢！ 由 DeepL.com 翻译（免费版）   由   提交 /u/dom9301k   [链接] [评论]]]></description>
+      <description><![CDATA[我在瑞士生活了几年，越来越多的人向我寻求有关如何在这里找到工作的建议。 最初在同一个域上，我打开了一系列有用的信息和方向，但我发现人们真正寻找的是一个更现代的分类网站，所以这个项目诞生了，我很好奇它是如何实现的 除了常规的工作公告板外，我还将提供与在瑞士工作主题严格相关的文章和信息指南。 链接：https://getaswissjob.com/ 你们觉得怎么样？ 谢谢！   由   提交 /u/dom9301k   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1cu5of5/get_a_swiss_job_a_small_project_to_respond_to/</guid>
       <pubDate>Fri, 17 May 2024 13:49:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>刚刚推出了我的应用程序，可让您与 YouTube 视频聊天</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cu5mym/just_launched_my_app_that_lets_you_chat_with/</link>
-      <description><![CDATA[我很兴奋（有点紧张）地宣布我刚刚推出了我的应用程序。它可以让您与 YouTube 视频聊天并提出任何问题，从而无需观看整个视频即可轻松快速获取所需信息。 该应用程序目前免费，我希望获得您的反馈。你喜欢/不喜欢什么？还有什么更好的呢？随着我不断改进应用程序，您的反馈将非常有价值。 感谢您的支持！ 应用商店链接   由   提交/u/youask_ai   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cu5mym/just_launched_my_app_that_lets_you_chat_with/</guid>
-      <pubDate>Fri, 17 May 2024 13:47:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>🚀✨ 适用于网络和社交媒体的快速图像优化工具</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cu42pi/fast_image_optimization_tool_for_web_and_social/</link>
-      <description><![CDATA[   登陆页面 🚀✨ 轻松减小图像尺寸，加快加载时间并改善用户体验！&lt; /p&gt; 🌐 boostedpic.pages.dev ✨ 功能  🔑 强大的图像压缩：在不影响质量的情况下显着减小图像文件大小。 📦 多种导出格式：以 JPEG、PNG、WebP 等流行格式导出压缩图像等等。 💻 离线功能：无需互联网连接！在您的设备上本地压缩图像。 🔓 开源：我们的应用程序是开源的，允许完全透明和社区贡献。 🔒 隐私友好：您的图像永远不会离开您的设备 - 我们不向外部服务器发送任何数据。 🎨 直观的界面：简单且用户友好的设计，可实现无缝压缩体验。 🌐 跨平台：得益于其渐进式网络应用程序 (PWA) 性质，我们的应用程序可通过现代网络浏览器在所有平台和设备上无缝运行。 ⚙️ 可自定义设置：调整压缩级别、输出质量等以满足您的需求。 ⚡ 快速且轻量级：针对任何设备上的速度和低资源使用率进行了优化。    由   提交 /u/yossthedev   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cu42pi/fast_image_optimization_tool_for_web_and_social/</guid>
-      <pubDate>Fri, 17 May 2024 12:37:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个开源视频转换 API（用于人类的 ffmpeg - StreamPot.io）</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cu3n33/i_made_an_opensource_video_transformation_api/</link>
-      <description><![CDATA[        提交人    /u/InternationalAct3494   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cu3n33/i_made_an_opensource_video_transformation_api/</guid>
-      <pubDate>Fri, 17 May 2024 12:14:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>创始人案例研究 - Pieter Levels 如何发展壮大</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cu3jax/founder_case_study_how_pieter_levels_made_it_big/</link>
-      <description><![CDATA[    /u/ButWhatIfItsNotTrue   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cu3jax/founder_case_study_how_pieter_levels_made_it_big/</guid>
-      <pubDate>Fri, 17 May 2024 12:09:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源代码的超级病毒文字游戏</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cu2t5k/the_superviral_word_game_with_open_source_code/</link>
-      <description><![CDATA[    &lt; /a&gt;   由   提交/u/theillarionov  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cu2t5k/the_superviral_word_game_with_open_source_code/</guid>
-      <pubDate>Fri, 17 May 2024 11:27:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>我构建了一个超级简单的宏跟踪器</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cu2no7/i_built_a_super_simple_macro_tracker/</link>
-      <description><![CDATA[我最近体重增加了一些，现在几乎有 200 磅，这太疯狂了，我身高 6 英尺 2 英寸，所以 BMI 属于超重范围，而不是肥胖。所以说到底，我想减肥并跟踪我吃的东西，所以搜索了一个应用程序。以下是我发现的大多数问题。 并非每个都易于使用，条形码扫描始终是一项高级功能，要求提供我的健康数据，需要帐户注册。 我实际上喜欢一款名为 Fitbee 的应用程序，但它仅适用于 iOS，我喜欢我的三星，所以作为一名开发人员，我制作了一个跨平台的应用程序，可在 iOS 和 Android 上运行。 它们在两个应用商店上都上线了，请试用它们。 AppStore =&gt; https://apple.co/4bjMFeh PlayStore =&gt; https://play.google.com/store/apps/details?id=me.aravi.calfox 最后，挑战 我也想给自己一个小挑战，你可以评论一个缺失的功能并获得至少 5 个赞，我会在 2 天内将该功能添加到应用程序中并向大家发布一个版本。你可以在这里快速注册测试版 https://tally.so/r/m6dE8B    提交人    /u/aravichowkam   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cu2no7/i_built_a_super_simple_macro_tracker/</guid>
-      <pubDate>Fri, 17 May 2024 11:18:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>您使用什么工具进行团队内部反馈和赞美？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cu2mvc/what_tool_are_you_using_for_intrateam_feedback/</link>
-      <description><![CDATA[我在工作中收到的大多数反馈和赞美总是在懈怠中迷失，我无法随着时间的推移回顾它们以不断进步。因此，我正在开发一个具有两个主要功能的项目。  给予其他团队成员并接收反馈（可以是文本、音频或视频） 赞扬其他团队会员因工作出色或特殊场合而获得奖励。 （想象一下为一位同事录制一个特殊的生日视频，这样就不会迷失在懈怠中）。该产品将被游戏化，以促进健康的反馈和补充文化。  我想知道您目前使用什么工具来实现此目的，或者您希望在此类软件中看到什么。 谢谢。   由   提交 /u/Melodic_Key_5940   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cu2mvc/what_tool_are_you_using_for_intrateam_feedback/</guid>
-      <pubDate>Fri, 17 May 2024 11:17:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>出售我的项目！ Meme 代币工具 ⚒️</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cu2ibk/selling_my_project_meme_token_tools/</link>
-      <description><![CDATA[Gm gm。我建立了一个小型平台，该平台只是铸造 meme 代币，称为 meme 代币工具。 我对该平台有更大的计划，但不再有时间投入其中。 我每个月都有稳定的几笔销售。（请参阅下面发布的地址）。 目前，我正在撰写一篇中等文章，并在 reddit 和其他社交媒体上发表了几篇帖子。 在愿意投入营销精力的人的手中，它有潜力做得很好。 如有任何问题或要约，请直接留言，将接受 SOL 或 WIF 付款！ 23kNXUeBB3xmXwqX7D5ZRS5jaJiVU7bQThKb2k7174fF    提交人    /u/Potential_Bid1627   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cu2ibk/selling_my_project_meme_token_tools/</guid>
-      <pubDate>Fri, 17 May 2024 11:09:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>我在手机上花费了太多时间，因此我创建了一个好友以防止过多的屏幕时间</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cu20g0/i_spent_too_much_time_on_my_phone_so_i_created_a/</link>
-      <description><![CDATA[       大家好👋， 在过去的两年里，我注意到我在手机上花费了太多时间📱，尤其是 YouTube Shorts 和 Instagram。 要解决这个问题为此，我创建了 FlowBuddy，这是一款旨在通过独特的方式帮助减少手机成瘾的应用程序 - 一个激励和支持您的好友😊 我很想听听您对如何改进它的想法和反馈🙏  您可以从 App Store 免费下载 FlowBuddy：https://apple.co/3K2RWLt 🚀&lt; /p&gt; 干杯！ ✨ PS：无需注册。您也可以给我发消息以获取促销代码（[hello@flowbuddy.app](mailto:hello@flowbuddy.app))😊 FlowBuddy 展示    由   提交/u/berncoflow  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cu20g0/i_spent_too_much_time_on_my_phone_so_i_created_a/</guid>
-      <pubDate>Fri, 17 May 2024 10:38:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>我终于完成了一些事情 - 介绍 SnapShrink 我 1.5 年来第一个完成的项目！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cu1vjt/i_finally_finished_something_introducing/</link>
-      <description><![CDATA[嘿 Reddit 用户， 在过去 1.5 年（也是过去 7 年中的第二次）从事大型项目之后，范围随着新功能的不断扩展，我决定退后一步，创建一些我可以真正完成的简单但有用的东西。隆重推出 SnapShrink，这是一款用于批量图像调整大小和压缩的简单工具。 借助 SnapShrink，您可以轻松调整图像大小并压缩 Web、社交媒体等。最精彩的部分是：我计划很快发布源代码，这样您就可以免费推出自己的版本！ 为了感谢这个令人惊叹的社区，任何想要使用 SnapShrink 的人都可以请联系我，我将免费为您提供一个 PRO 计划。 请访问 SnapShrink 让我知道你的想法！ 干杯！   由   提交/u/d05cfea  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cu1vjt/i_finally_finished_something_introducing/</guid>
-      <pubDate>Fri, 17 May 2024 10:29:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
