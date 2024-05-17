@@ -4,7 +4,77 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个 Reddit 子版块，用于分享和接收有关副项目的建设性反馈。</description>
-    <lastBuildDate>Thu, 16 May 2024 21:12:39 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 May 2024 00:56:15 GMT</lastBuildDate>
+    <item>
+      <title>制作了一个小工具来覆盖你的 Reddit 评论历史记录</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ctslgk/made_a_lil_tool_to_override_your_reddit_comment/</link>
+      <description><![CDATA[我最近被解雇了，作为一名大型技术工程师，我的工作是将 AI 世代集成到您可能使用过的一系列服务中过去十年。我没有像我应该的那样苦苦钻研 leetcode，而是花了一周的时间编写了一个小 API，它使用语言模型来覆盖我的 Reddit 评论。该程序的工作原理是使用有趣的虚假事实等提示编辑您的帖子（请参阅我的历史记录，哈哈），然后在足够的时间过去后很快tm最终删除它们。 ...但是为什么？ 我认为通过让你的内容变得临时化来从所有社交媒体网站中消除一些多巴胺真的很酷，而且我发现 Reddit 不那么容易上瘾当我的评论是短暂的。除此之外，互联网上的网站正在存档您删除的帖子，其他网站正在使用您的内容作为人工智能训练数据。这不适合我，所以我开始了这个项目。 我很乐意与社区合作，我对功能有很多想法，并且愿意接受功能请求。如果有人对此感兴趣，我什至可以回答软件开发问题。 https://ultimatedestroy.com &lt; /div&gt;  由   提交 /u/Unusule   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ctslgk/made_a_lil_tool_to_override_your_reddit_comment/</guid>
+      <pubDate>Fri, 17 May 2024 00:45:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Made Tapflow – 最简单但功能强大的课程生成器。今天推出！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ctryx6/made_tapflow_the_simplest_yet_powerful_course/</link>
+      <description><![CDATA[   /u/hewmax  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ctryx6/made_tapflow_the_simplest_yet_powerful_course/</guid>
+      <pubDate>Fri, 17 May 2024 00:12:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>我正在建立一个网站，与其他创始人一起发现新市场和想法</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ctqeho/i_am_building_a_site_to_discover_new_markets_and/</link>
+      <description><![CDATA[大家好，Trendful 是一个新闻通讯/社区，旨在帮助您找到下一个大创意、趋势或市场。  免费订阅者将获得每两周一次的关于新商业理念和趋势的报告。  我们还计划制定一个专业计划，其中包括在线社区、更深入的报告等等。 如果有人感兴趣，请考虑查看此处。当第一份报告发布时，如果您能提供任何反馈，我们将不胜感激。    由   提交/u/huntern_  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ctqeho/i_am_building_a_site_to_discover_new_markets_and/</guid>
+      <pubDate>Thu, 16 May 2024 22:56:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>项目：Detach - 在几秒钟内创建并安排您在 todolists 中的任务，https://www.joindetach.com</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ctq8rf/project_detach_create_and_schedule_your_tasks_in/</link>
+      <description><![CDATA[       由   提交/u/robogram96  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ctq8rf/project_detach_create_and_schedule_your_tasks_in/</guid>
+      <pubDate>Thu, 16 May 2024 22:49:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>完成了我的第一个 C++ 实际项目！幕府 - 回合制卡牌游戏</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ctpw1g/finished_my_first_real_project_in_c_shogunate/</link>
+      <description><![CDATA[     &lt; /td&gt; https://github.com/Dilabun/Shogunate   由   提交/u/SnooHamsters2005   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ctpw1g/finished_my_first_real_project_in_c_shogunate/</guid>
+      <pubDate>Thu, 16 May 2024 22:32:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>在营销我的应用程序一周后，我的第一笔销售额为 10 美元。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ctput0/i_got_my_first_sale_of_10_after_marketing_my_app/</link>
+      <description><![CDATA[   我是名为 https://closey.io 它本质上是一个设计动态销售脚本的平台，您可以在接到电话推销时通过提词器读出这些脚本。 Closey.io 您基本上可以导航使用键盘箭头按下整个脚本，并根据客户的响应方式实时更改销售脚本，即随对话一起移动的销售脚本。我看到很多视频，销售人员在打电话给潜在客户时，面前都会有一些关于概念的段落，我觉得应该有更好的方法来组织这些信息。 我早期的营销方法只是喷雾和祈祷，我在所有相关的 Reddits 子版块上共享了该平台，但并没有真正产生太大的吸引力。 我研究并找到了一种“破解”的方法。无需花费一美元即可实现增长。 基本上，我在 Linkedin 上搜索了过去 24 小时内与推销电话主题相关的帖子，然后我会检查是否有任何评论或OP 本身正在与陌生电话作斗争，如果他们的问题是我的应用程序可以帮助解决的问题，我会在他们的帖子上发表评论，解释我的价值主张 令我惊讶的是，而不是被我无耻的插件关闭，人们非常高兴并且非常喜欢该应用程序的想法。我的假设是因为这个策略针对的是具有高度意图的潜在客户，这意味着我只会接触真正有这个问题的人。  每天像这样营销我的应用程序大约一周后，我的目标网页获得了 100 位唯一访问者，并转化了一名出站销售顾问并帮助其他销售团队优化的用户他们的流程，他真的很喜欢这个应用程序，甚至说他会推荐它给他的客户。 这给了我概念证明并验证了这个想法（我之前其他人也对此感兴趣，但没有人为该项目投入资金）。从现在开始，我将扩大规模，通过电子邮件营销直接接触人们，并在 YouTube、Reddit、Tiktok 等多个渠道上遵循我的相同策略。  关键要点：一开始，做一些无法扩展的事情，手动访问社交网站，查找面临您确切问题的人并直接联系。反应对我来说是惊人的。  将随时向大家通报最新情况。   由   提交 /u/freakH3O   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ctput0/i_got_my_first_sale_of_10_after_marketing_my_app/</guid>
+      <pubDate>Thu, 16 May 2024 22:31:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>彩票式的初创公司所有权？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ctpm17/lotterystyle_startup_ownership/</link>
+      <description><![CDATA[r/sideproject 社区大家好 ✨&lt; /p&gt; 我是 SaaSquare.co（致力于买卖 SaaS 初创公司的市场）团队的一员。 我们试图扩大我们的覆盖范围并提高用户参与度，因此我们尝试实施新功能，例如共同所有权或投资微型初创公司，但这很难做到，主要是由于严格的法规，所以我们提出了一个新想法. 想法：将副项目的价值分解为更小的部分，类似于彩票。 参与者可以购买这些门票，然后，通过随机抽签，一位幸运的获奖者将获得副项目的共同所有权。 他的模式旨在让投资变得既有趣又方便，而且没有复杂性和监管。  工作原理：  我们的平台上列出了一个副业项目，并明确说明了其估值。 总价值分为一组门票数量，每张门票的售价仅占项目总价值的一小部分。 所有门票售完后，将随机抽取一名获胜者，该获胜者将获得项目的所有权或重要股份。 &lt; /ol&gt; 我们相信这可以为收购副业项目增添乐趣，甚至可以帮助更多人参与创业生态系统。 我们很乐意听取您的意见：   您有兴趣参与这样的模式吗？ 您对这种彩票式的所有权有什么顾虑或建议？ PS。我们知道这可能会用于恶意目的。我们正在寻找可靠的第三方进行验证。   感谢您的阅读🚀 查看民意调查   由   提交 /u/Fox-noir   /u/Fox-noir  reddit.com/r/SideProject/comments/1ctpm17/lotterystyle_startup_ownership/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ctpm17/lotterystyle_startup_ownership/</guid>
+      <pubDate>Thu, 16 May 2024 22:20:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>我构建了一个 Chrome 扩展程序来自动扫描您的扩展 LinkedIn 网络以寻找工作机会。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ctpfzs/i_built_a_chrome_extension_to_automatically_scan/</link>
+      <description><![CDATA[我正在就业市场上，一个对我有帮助的策略是向你的朋友或（家庭）网络询问他们认识的人公司正在招聘（这里没有什么突破性的）。 我构建了一个 Chrome 扩展程序来帮助进行此搜索：它会循环浏览某人的 LinkedIn 联系人列表中的个人资料，并在他们的公司寻找工作机会，因此您可以询问您的朋友或前同事的介绍。寻求反馈！ https://chromewebstore.google.com/detail/innetwork -job-finder/ipclfaglfidjcfpnhpafgegpghigcog   由   提交 /u/chimneys_smokestacks   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ctpfzs/i_built_a_chrome_extension_to_automatically_scan/</guid>
+      <pubDate>Thu, 16 May 2024 22:12:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了一个 Youtube 按成绩单搜索应用程序！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cto5rh/i_created_a_youtube_search_by_transcript_app/</link>
+      <description><![CDATA[      https://preview.redd.it/rl6vcgy9uu0d1.jpg?width=1842&amp;format=pjpg&amp;auto=webp&amp;s=b545fb3d 26016fb3508bd9502f618e9805ce61e0 我刚刚启动了一款通过 Transcript 搜索 YouTube 的应用。我为那些想要在 TikTok、Instagram 或 Snapchat 上查找短视频剪辑的完整视频，但不知道视频的标题是什么或是谁发布的人创建了它。使用 Invenio（应用程序名称），您只需输入剪辑中的几个单词，我们的人工智能应用程序将搜索超过 10 亿个 YouTube 视频，在几秒钟内找到原始视频。 该应用程序的设计非常简约。您可以执行广泛的搜索来搜索平台上的每个视频，也可以过滤到特定频道的视频。这在尝试从播客频道（长达一小时的视频）中查找特定剪辑时非常有用。它还会告诉您剪辑中提到的第二个短语。 链接：https://apps.apple.com/us/app/invenio-search-by-transcript/id6498974299 让我知道你的想法！我有 10 次免费搜索试用，然后按月/按年订阅。   由   提交 /u/Etiekyed   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cto5rh/i_created_a_youtube_search_by_transcript_app/</guid>
+      <pubDate>Thu, 16 May 2024 21:15:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Template369 - 最好的 Flutter 入门样板</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cto5ef/template369_the_best_flutter_starter_boilerplate/</link>
+      <description><![CDATA[       由   提交 /u/Themarkofboss   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cto5ef/template369_the_best_flutter_starter_boilerplate/</guid>
+      <pubDate>Thu, 16 May 2024 21:15:27 GMT</pubDate>
+    </item>
     <item>
       <title>我们推出了 Cleano - 一款用于清理 Mac 开发工作站的应用程序</title>
       <link>https://www.reddit.com/r/SideProject/comments/1ctnxk3/we_have_launched_cleano_an_app_to_clean_your_mac/</link>
@@ -39,76 +109,6 @@
       <description><![CDATA[大家好，我和我的朋友们为了让 Glato AI 落地而努力了近半年，是时候将其展现出来了看看大家的想法！ Glato AI 背后的故事非常个人化： ❌ 我在为我的上一个产品 AI Anywhere 制作视频内容时真的遇到了困难。&lt; /p&gt; 聘请视频创作者要么非常耗时，要么非常昂贵。 由于我是一名白手起家的创始人，所以我必须 DIY 我的视频🤦‍♀️ 随着时间的推移，我发现这是不可持续的。就在那时，Glato AI 的想法诞生了！如果我们可以使用人工智能来自动化整个视频创建过程会怎么样？ 通过 Glato AI，我希望为像我这样的企业主和营销人员腾出大量时间。我希望几年前就有这样的经历。 Glato AI 的工作原理如下： ✅ 使用我们的 AI 模型生成视频脚本，该模型接受过获胜广告和病毒趋势的训练  ✅ 使用真实创作者的数字克隆制作引人入胜的 UGC 风格广告 ✅ 自动添加幕后花絮、字幕和视觉效果 ✅ 您只需输入产品链接即可- 如此简单🤘 在我看来，这比传统的视频创作方法要好得多： 1️⃣ 无需雇用创作者或花时间手动创建内容 2️⃣ 富有表现力、与观众产生共鸣的时尚视频 3️⃣ 现在，您可以大规模创建个性化视频，并对它们进行 A/B 测试以获得最佳性能 我真诚地希望 Glato AI 能够达到其他忙碌的创始人和营销人员的聚集地。这对我来说已经改变了游戏规则:) 🐱 我们今天在 ProductHunt 上发布，请给我们投票 🥺 https://www.producthunt.com/posts/glato-ai-beta 🥺 非常感谢您的支持！ 另请查看 Glato AI https://glato.ai 并制作两个免费视频广告！迫不及待地想看看您要创建什么！   由   提交/u/Azure-Vision  /u/Azure-Vision reddit.com/r/SideProject/comments/1ctlrps/3_stanford_students_created_a_short_video_ads/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1ctlrps/3_stanford_students_created_a_short_video_ads/</guid>
       <pubDate>Thu, 16 May 2024 19:42:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>我建立了一个免费工具来收集简历反馈</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ctljyl/i_built_a_free_tool_to_crowd_source_resume/</link>
-      <description><![CDATA[        提交人    /u/Powerful_Camel9945   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ctljyl/i_built_a_free_tool_to_crowd_source_resume/</guid>
-      <pubDate>Thu, 16 May 2024 19:34:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>免费节省 Linkedin 时间</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ctl4x7/save_hours_on_linkedin_for_free/</link>
-      <description><![CDATA[Leadseeder 是一款 LinkedIn 自动化工具，可通过自动发送连接请求、访问和跟进来简化专业人士的交流。其直观的分析仪表板为创始人、人力资源、营销人员和自由职业者带来了翻天覆地的变化。 以下是扩展程序的链接：https://chromewebstore.google.com/search/leadseeder?hl=en-US&amp;utm_source=ext_sidebar    提交人    /u/vidiit   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ctl4x7/save_hours_on_linkedin_for_free/</guid>
-      <pubDate>Thu, 16 May 2024 19:17:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>面向专业人士和初创公司的 AI CxO 套件</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ctkd55/suite_of_ai_cxo_for_professionals_and_startups/</link>
-      <description><![CDATA[您好！ 👋 令人兴奋的消息：Cognitiev PRO 现已开始 Product Hunt！ 我们面向初创企业和中小企业的企业 AI 解决方案两年仅需 149 美元，包括每日 100 次 AI 生成 (GPT -4、愿景、插件）。 非常感谢迄今为止支持我们的所有人！如果您刚刚加入我们，请查看并分享您的支持。每一点都有助于我们成长！ https://www.producthunt.com/posts/cognitiev -pro-2 感谢您的支持！ 💙   由   提交/u/MediocrePspecial65  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ctkd55/suite_of_ai_cxo_for_professionals_and_startups/</guid>
-      <pubDate>Thu, 16 May 2024 18:46:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>烤我的技术博客网站</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ctkbag/roast_my_technical_blog_site/</link>
-      <description><![CDATA[大家好 我最近创建了一个关于编程和面试相关内容的 WordPress 博客。 链接到我的博客- https://getlearntech.com/。  我是后端开发人员，前端工作不多。 我的博客处于早期阶段，我想把它做得更好。我正在寻找一些改进建议。   由   提交/u/tech_learner_123  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ctkbag/roast_my_technical_blog_site/</guid>
-      <pubDate>Thu, 16 May 2024 18:44:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>任务管理器 - 生产力引擎：掌控您的时间</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ctk6ae/task_manager_productivity_powerhouse_take_control/</link>
-      <description><![CDATA[功能：  高效的任务管理 任务类别 任务详细信息输入 快速操作按钮 自动任务排序 已完成的任务存档 可视化任务板  这是演示： https://www .youtube.com/watch?v=x7xafIy5FgM   由   提交/u/Goloverse  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ctk6ae/task_manager_productivity_powerhouse_take_control/</guid>
-      <pubDate>Thu, 16 May 2024 18:38:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>智能目标跟踪器 - 智能目标，大成果：目标设定革命</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ctk4ai/smart_goals_tracker_smart_goals_big_results_goal/</link>
-      <description><![CDATA[特点：  智能目标输入 自动计算 全面的目标视图 成就分析 基于状态的目标组织 过滤目标信息  &lt; p&gt;这是演示： https://www.youtube.com/watch?v= QT8dd0x6buE   由   提交/u/Goloverse  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ctk4ai/smart_goals_tracker_smart_goals_big_results_goal/</guid>
-      <pubDate>Thu, 16 May 2024 18:36:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>系列追踪器 - Binge Better：最大化娱乐</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ctk2jy/series_tracker_binge_better_maximize_entertainment/</link>
-      <description><![CDATA[特点：  流派组织 详细系列信息 灵活的过滤选项 视觉系列图库 可重复观看列表  以下是演示： https://www.youtube.com/watch?v=mKBN53a4nEc &lt; /div&gt;  由   提交/u/Goloverse  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ctk2jy/series_tracker_binge_better_maximize_entertainment/</guid>
-      <pubDate>Thu, 16 May 2024 18:34:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>我一直在利用空闲时间构建这个文字游戏。外言网</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ctjjpw/i_have_been_spending_my_free_time_building_this/</link>
-      <description><![CDATA[我需要玩家！它的名字叫outword.me。你每天都会收到一组随机字母，需要从中找出 2 个单词，然后将每个单词的分数相乘即可得到最终分数。  请尝试一下https://outword.me &lt;!-- SC_ON - -&gt;  由   提交 /u/GeneSy   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ctjjpw/i_have_been_spending_my_free_time_building_this/</guid>
-      <pubDate>Thu, 16 May 2024 18:12:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>检查域名 - 基于人工智能的域名建议和查找工具</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ctjhnn/check_for_domains_ai_based_domain_suggest_finder/</link>
-      <description><![CDATA[我创建了检查域名，因为我花费了相当多的钱花一些时间为我的业余项目寻找吸引人的域名。很长一段时间以来，我一直想构建一些东西，使用人工智能并构建这个工具看起来是个好主意，我不需要付出太多努力就可以做到。一如既往，一旦你真正开始做事情就会变得更加困难，所以我最终花费了比预期更多的时间来构建它。你越接近问题，你发现的就越多。在技​​术问题和功能方面。 一旦开始从事某些工作，您就会意识到为了可用，您需要添加越来越多的功能。因此，我最终得到了一长串功能，其中一些我已经实现，另一些等待实现。 在此阶段，检查域可用于搜索域，方法是描述启动想法或提供关键字/标签列表。您可以分享搜索以获得朋友的反馈。我正在努力添加历史记录并将某些域添加到收藏夹。 请分享您的反馈，并让我知道您是否希望在此工具中拥有特殊功能。在 reddit 上或在网站上请求功能。   由   提交 /u/teaganga   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ctjhnn/check_for_domains_ai_based_domain_suggest_finder/</guid>
-      <pubDate>Thu, 16 May 2024 18:10:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>烤我的着陆页</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ctj1l9/roast_my_landing_page/</link>
-      <description><![CDATA[我最近推出了我的第一个 SaaS，它仍处于早期阶段。但我想让它变得更好。这是我的着陆页的链接 https://promptg.ai/   由   提交/u/Horror_Confidence_13   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ctj1l9/roast_my_landing_page/</guid>
-      <pubDate>Thu, 16 May 2024 17:52:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
