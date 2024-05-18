@@ -4,7 +4,77 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个 Reddit 子版块，用于分享和接收有关副项目的建设性反馈。</description>
-    <lastBuildDate>Sat, 18 May 2024 18:16:14 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 May 2024 21:10:58 GMT</lastBuildDate>
+    <item>
+      <title>YouTube到MP3</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cv722t/youtube_to_mp3/</link>
+      <description><![CDATA[您好，我是一名软件后端开发人员，我编写 Java Web 应用程序和 REST API。我开发了这个 API，目前在 RapidAPI 市场上，您可以转换和下载多种格式的 YouTube 视频。  易于与任何类型的前端技术集成，这是网址：https:// rapidapi.com/marcocollat​​ina/api/youtube-to-mp315 我们希望进一步成长和改进！ 非常感谢您的反馈，谢谢。 干杯。   由   提交/u/Collaxx87  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cv722t/youtube_to_mp3/</guid>
+      <pubDate>Sat, 18 May 2024 20:55:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI造型助理应用程序</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cv71w8/ai_styling_assistant_app/</link>
+      <description><![CDATA[嘿伙计们，我是一名应届毕业生，试图更好地构建应用程序，所以我构建了 style.ai。 您可以上传您的着装照片并获取如下建议：  合身分析：衣服太宽松、太紧或恰到好处 颜色分析：提供相关反馈突出您皮肤的颜色 建议服装的配饰和发型 总体评论以及如何改善您的外观  我正在寻求反馈关于此应用程序以及更好地营销它的想法！ 应用程序链接：https://apps.apple.com/us/app/style-ai-outfit-analysis/id6476942167 常见问题解答： 应用程序如何制作钱？ 还没有。我正在尝试获得一些初步反馈来改进产品。我倾向于巧妙的广告，因为我不喜欢订阅。 我的图像安全吗？ 图像由 OpenAI API 处理并从其服务器中删除。该图像仅存储在您的设备本地。   由   提交 /u/Visible_Muffin4340   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cv71w8/ai_styling_assistant_app/</guid>
+      <pubDate>Sat, 18 May 2024 20:54:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>想要一本个性化的电子书吗？检查我的新项目！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cv6y8y/want_a_personalized_ebook_check_my_new_project_out/</link>
+      <description><![CDATA[https://www.my-aistory.com/   经过 3 个月的编码/学习，我构建了我的第一个全栈项目。 通过利用 openai 的 chatgpt-4 和 dall-e-3 API，您可以发挥创意，用您选择的任何情节制作关于您自己的个性化电子书。 这非常适合欢笑、快速阅读或睡前故事。 祝您玩得开心，请给我任何反馈   由   提交 /u/Unlikely_End_8760   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cv6y8y/want_a_personalized_ebook_check_my_new_project_out/</guid>
+      <pubDate>Sat, 18 May 2024 20:50:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的 Safari 浏览器免费广告拦截器：AdBlock Bolt</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cv6ta5/my_free_adblocker_for_safari_adblock_bolt/</link>
+      <description><![CDATA[    &lt; /a&gt;  大家好， 您知道可以在 Safari 中屏蔽广告吗？&lt; br /&gt; 我很高兴地告诉您，使用我的应用程序可以免费AdBlock Bolt！ 它注重效率和隐私（不收集任何数据）。 https://preview.redd.it/kg5r6vmjv81d1.png?width= 100&amp;format=png&amp;auto=webp&amp;s=3cf8e71ee02ce3a24d4c26bd3208dfd2ef8a5bbd 去年我给应用程序带来了两项重大更新：  重新设计了它的 UI具有引人注目的大切换（也从 UIKit 变为 SwiftUI）以及下载时间和有效性等多项改进。 添加了一项名为 Bolt+ 的高级功能，可以更广泛地阻止广告和跟踪器，例如它适用于系统级别，而不仅仅是 Safari。 （请注意，Bolt 的主要功能从一开始就是免费的）  从那时起，我就能够进行多次更新以带来整体改进：  翻译成更多语言（现已支持 10 种语言） Bolt+ 可以一次性购买，而不再只能订阅  Bolt+ 订阅者如果愿意，可以升级到一次性购买  该应用程序也已登陆 macOS 和 VisionOS 新图标和 AppStore 屏幕截图 ...  尽管它是一个小应用程序，但它仍然让我学到了很多东西：swiftui、内容拦截器、网络扩展（dns） -设置）、订阅、应用内购买、临时价格变化、应用商店优化等等。 Bolt 使用 适用于 Safari 的内容拦截器 自 iOS9 起可用。 Bolt+，覆盖整个系统，是一个基于 DNS 的拦截器：使用 ≥iOS14 网络扩展 . 如果您想看看，该应用程序可以在 AppStore 上找到： https://apps.apple.com/app/apple-store/id1041834536 （免费） 如果您有任何意见/反馈/问题，请告诉我！ https://preview.redd.it/5eku7snsu81d1.png?width=1495&amp;format=png&amp;auto=webp&amp;s=8bd150a652ae142e44584b6 fb0850eb44d084201   由   提交/u/J0kers-LucaOZ   /u/J0kers-LucaOZ reddit.com/r/SideProject/comments/1cv6ta5/my_free_adblocker_for_safari_adblock_bolt/&quot;&gt;[链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cv6ta5/my_free_adblocker_for_safari_adblock_bolt/</guid>
+      <pubDate>Sat, 18 May 2024 20:43:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Web 应用程序的法律文本</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cv6p5d/legal_texts_for_a_webapp/</link>
+      <description><![CDATA[我最近开始建立一些网站，打算发布到网络上。但我知道至少在欧盟你需要法律文本。比如隐私政策、服务条款等。现在的问题是：我如何获得这些文本。所有这些独立黑客都使用什么资源或服务吗？他们都关心这些吗？    提交人    /u/neminemtwitch   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cv6p5d/legal_texts_for_a_webapp/</guid>
+      <pubDate>Sat, 18 May 2024 20:38:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>作为产品设计师我如何进行市场研究</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cv5zgb/how_i_approach_market_research_as_a_product/</link>
+      <description><![CDATA[作为一名产品设计师，我进行市场研究的方式就像进行用户访谈或对特定用户流的竞争对手分析一样。  ‍ 倾听他人的声音 ‍ 人是我们洞察力的命脉。我经常会见许多人，倾听他们的意见，了解他们的动机和挫折，并了解他们的核心动机。 ‍ 观察用户互动 ‍ 我定期进行 Zoom 通话，观察人们如何管理他们的工作流程，无论是当前产品还是未来概念。我要求他们展示如何完成特定任务并大声思考。例如，他们是否使用 Google 表格手动跟踪某些活动？或者如果我无法与人通话，我将使用 posthog.com 等工具来观看预先录制的会话。 &lt; p&gt; 确定解决方法  发现用户创建的解决方案是我最喜欢的活动之一，它通常会带来创新，例如在创建 emailmu.com 时，我寻找可能被忽视但实际上代表着严重低效率的日常行为。 ‍ 观察效率低下 ‍ 例如，我观察到营销人员管理电子邮件的效率很低——对他们希望稍后引用的消息进行分类和排序。同样，其他人使用单独的 Google 电子表格来跟踪竞争对手网站上的更改，或对这些网站的不同部分进行大量屏幕截图。 ‍ 了解日常运营 ‍ 我深入研究什么占据了他们大部分时间，什么让他们沮丧到足以放弃，什么让他们兴奋，以及他们热情讨论什么话题。 ‍&lt; /p&gt; 关注细节 ‍ 在设计 UI 时，我会优先考虑产生重大影响的细微调整。我将同样的原则应用于市场研究，针对大公司经常忽视的小而重要的问题，并考虑微妙的变化如何提高用户满意度。 ‍ 寻求共同主题 ‍ 我搜索市场上反复出现的问题，类似于我确定要实施的新功能的方式。解决共同挑战比关注孤立事件更具规模和影响力。 ‍ 观行胜于言辞 ‍ 我密切关注人们实际使用产品做什么，而不是他们声称会做什么。通常，用户的意图与其实际行为之间存在脱节，尤其是在涉及购买或使用产品时。   由   提交/u/Loud-Jelly-4120   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cv5zgb/how_i_approach_market_research_as_a_product/</guid>
+      <pubDate>Sat, 18 May 2024 20:06:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>改善 linkedin 个人资料的证书</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cv5jhv/certificates_to_improve_linkedin_profile/</link>
+      <description><![CDATA[Coursera 的证书是否值得付费以改善您的 linkedin 个人资料？  &amp;# 32；由   提交/u/No-Taro4751  /u/No-Taro4751 reddit.com/r/SideProject/comments/1cv5jhv/certificates_to_improve_linkedin_profile/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cv5jhv/certificates_to_improve_linkedin_profile/</guid>
+      <pubDate>Sat, 18 May 2024 19:46:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>我对发票的看法</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cv5a8x/my_take_on_invoicing/</link>
+      <description><![CDATA[   https://reddit .com/link/1cv5a8x/video/a9ah7vjrl81d1/player 嘿人类同胞👋 在 Sketch 中手工制作像素完美的多语言发票几个月后，我决定构建我自己的发票生成器。从一开始，我就清楚地知道自己想要什么，所以在接下来的两年里，我花了周末和晚上的时间来围绕 4 个核心想法创造一些东西： 上下文 - 我喜欢当工具适应我并帮助我做出明智的决定时。这就是为什么发票不仅仅是一个简单的表格。  自动化 - 本质上，我是一名工程师，自动化手动、容易出错和烦人的任务给我带来了快乐。这就是为什么 Invoicy 可以让您自动化几乎所有事情。  可本地化 - 我可以告诉您，可能没有什么比维护多种语言的发票更烦人的了。这就是为什么我想让这件事尽可能简单。  表现力 - 我喜欢颜色、奇怪的形状和独特性，这就是为什么我想在像发票这样冷的地方推广它。您没有理由不能在特殊的日子寄送色彩更丰富的发票。  除了这些以技术为导向的核心理念之外，我还看重具有以下特点的产品：  隐私不是事后的想法 你拥有自己的数据 该软件给人一种原生的感觉 不会为了外观而牺牲可用性  最后，说实话，发票软件并没有晚上叫醒我，我就不再为此而生活和呼吸。然而，一个坚持其价值观、帮助实现目标、让生活更愉快的酷产品是我可以支持的。 这是网页：https://incognitum.lt/invoicy/ 可以免费试用，但如果您愿意，您可以在 Mac App Store 上兑换以下 3 个终身代码永久使用： L4K4Y7YFAPA4 LAE7FR3PWFFW JYHH3YP3R7MK   由   提交 /u/ThePattio   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cv5a8x/my_take_on_invoicing/</guid>
+      <pubDate>Sat, 18 May 2024 19:35:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的小脚本现在是我的第一个业余项目！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cv3ser/my_small_script_is_now_my_first_ever_side_project/</link>
+      <description><![CDATA[8 个月前，我正在管理一场小型高尔夫锦标赛，并创建了一个小脚本来处理记分卡计算。大约 8 个月后，我现在已经获得了我的第一个 MVP，但我真的很犹豫如何继续。  非常感谢任何反馈和提示，尤其是在营销方面。 以下是网站链接： Golfmot.com   由   提交/u/Narrmann   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cv3ser/my_small_script_is_now_my_first_ever_side_project/</guid>
+      <pubDate>Sat, 18 May 2024 18:28:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>我想创建一个软件。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cv3lzc/i_want_to_create_a_software/</link>
+      <description><![CDATA[ 由   提交 /u/Economy-Cupcake6148    reddit.com/r/SaaS/comments/1cuw8bc/i_want_to_create_a_software/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cv3lzc/i_want_to_create_a_software/</guid>
+      <pubDate>Sat, 18 May 2024 18:20:19 GMT</pubDate>
+    </item>
     <item>
       <title>我想创建一个软件。</title>
       <link>https://www.reddit.com/r/SideProject/comments/1cv3ga5/i_want_to_create_a_software/</link>
@@ -13,7 +83,7 @@
       <pubDate>Sat, 18 May 2024 18:13:18 GMT</pubDate>
     </item>
     <item>
-      <title>这有助于小型初创企业</title>
+      <title>这有助于小型初创公司</title>
       <link>https://www.reddit.com/r/SideProject/comments/1cv3f81/this_helps_small_startups/</link>
       <description><![CDATA[刚刚编码了这个，它对我帮助很大旅程开始网站，可让您宣传您的初创公司。很多人访问该网站，以前的用户会获得有关电子邮件的信息。总而言之，这是值得的。   由   提交 /u/Economy-Cupcake6148    reddit.com/r/SideProject/comments/1cv3f81/this_helps_small_startups/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1cv3f81/this_helps_small_startups/</guid>
@@ -27,7 +97,7 @@
       <pubDate>Sat, 18 May 2024 16:39:19 GMT</pubDate>
     </item>
     <item>
-      <title>预算跟踪器 - 如何在概念中进行资金管理</title>
+      <title>预算追踪器 - 如何在 Notion 中进行资金管理</title>
       <link>https://www.reddit.com/r/SideProject/comments/1cv1bbm/budget_tracker_how_to_do_money_management_in/</link>
       <description><![CDATA[功能：  收入跟踪 费用跟踪&lt; /li&gt; 交易分类 过滤交易 支持文档上传 按时长查看交易  此处是演示： https://www.youtube.com/watch?v=YyAD3zoWev0   由   提交/u/Goloverse  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1cv1bbm/budget_tracker_how_to_do_money_management_in/</guid>
@@ -39,76 +109,6 @@
       <description><![CDATA[特点：  类型组织 全面的电影详细信息 灵活的过滤选项 视觉电影库 轻松更新 可重复观看列表  这是演示： https://www.youtube.com/watch?v=UTmVfsR1OaA    由   提交/u/Goloverse  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1cv1afu/movie_tracker_never_miss_a_blockbuster_maximizing/</guid>
       <pubDate>Sat, 18 May 2024 16:36:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>梦想目的地 - 终极梦想目的地旅行追踪器！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cv19fl/dream_destinations_ultimate_dream_destinations/</link>
-      <description><![CDATA[功能：  定制旅行计划 可扩展列表 全面的目的地详细信息 轻松导航 更新旅行状态 提高效率的快速按钮 灵活的过滤&lt; /li&gt;  这是演示： https://www.youtube.com/watch?v=98ahyxUJjI4&quot;&gt; youtube.com/watch?v=98ahyxUJjI4   由   提交/u/Goloverse  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cv19fl/dream_destinations_ultimate_dream_destinations/</guid>
-      <pubDate>Sat, 18 May 2024 16:35:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一种产品，可以帮助消除在线食谱中的混乱</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cv121j/i_created_a_product_that_can_help_remove_the/</link>
-      <description><![CDATA[我厌倦了必须滚动浏览不相关的故事和文本来查找成分和说明，所以我创建了这个工具，它只提取有用的部分食谱，然后保存我最喜欢的。  仍在开发中，但欢迎提供所有反馈！   由   提交 /u/Maleficent_Soup_2532   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cv121j/i_created_a_product_that_can_help_remove_the/</guid>
-      <pubDate>Sat, 18 May 2024 16:26:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>曾经在 React/Next.js 中纠结过多步表单吗？ ‍</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cv0ct5/ever_wrestle_with_multistep_forms_in_reactnextjs/</link>
-      <description><![CDATA[我知道我做到了。这就是我构建这个开源项目 - FormulateFlow 的原因： 只需输入您需要的页面数量以及您想要捕获的信息即可！ 90% 的样板代码已为您生成 https://drive.google.com/file/d/1npAQ -kwl1h6pQrwQlZE3tJawE4BjafF3/view?usp=sharing Formulate 将使用此技术堆栈生成代码：  Next.js 14 Tailwind CSS Zod React Hook Form Zustand  如果这不是您常用的技术堆栈，则不担心！ FormulateFlow 可能还不是完美的选择。但是，嘿，也许它会为您的下一个项目激发一些灵感？ 请随时在 GitHub 上查看并告诉我您的想法！  https://github.com/XamHans/formulateflow  &amp; #32；由   提交/u/XamHans  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cv0ct5/ever_wrestle_with_multistep_forms_in_reactnextjs/</guid>
-      <pubDate>Sat, 18 May 2024 15:53:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么这里的每个帖子都被否决了。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cuzebh/why_is_every_post_here_downvoted/</link>
-      <description><![CDATA[这是怎么回事？这里有一些很棒的项目，但它们都被否决了。    由   提交/u/Salty-Head-4013  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cuzebh/why_is_every_post_here_downvoted/</guid>
-      <pubDate>Sat, 18 May 2024 15:09:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>快速微调 OpenAI 模型</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cuz4xd/quickly_finetune_openai_models/</link>
-      <description><![CDATA[      我需要快速微调项目的 GPT 模型，并意识到一个简单的、现成的模型有多么有用-go 模板可以同时具有前端和后端。因此，我制作了一个 GPT 微调工具包：一个简单、简单的工具，可以为每个人简化此过程:) 祝微调愉快！ &lt; a href=&quot;https://github.com/DorsaRoh/gpt-finetune-kit&quot;&gt;https://github.com/DorsaRoh/gpt-finetune-kit   由   提交/u/dor_roh  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cuz4xd/quickly_finetune_openai_models/</guid>
-      <pubDate>Sat, 18 May 2024 14:57:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>刚刚推出了一个简单、免费的 URL 缩短器</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cuyztt/just_launched_a_simple_free_and_url_shortener/</link>
-      <description><![CDATA[嗨，我刚刚开发了一个 URL 缩短器，“vist.li”，它的灵感来自访问链接，它不需要注册，我们可以自定义我们的 url slug。 查看 https://vist.li/ 并让我知道您的想法！    由   提交/u/pandamore11  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cuyztt/just_launched_a_simple_free_and_url_shortener/</guid>
-      <pubDate>Sat, 18 May 2024 14:50:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能推广工具</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cuyujy/ai_outreach_tool/</link>
-      <description><![CDATA[这个 Reddit 子版块上有人制作了一个外展工具，可以生成用于外展的脚本。有谁知道这是谁以及该产品叫什么哈哈我不记得了？   由   提交/u/Any-Brief-1751   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cuyujy/ai_outreach_tool/</guid>
-      <pubDate>Sat, 18 May 2024 14:43:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>我和朋友们开发了 Airy——一款人工智能智能日记应用程序，并且希望获得反馈</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cuytl9/friends_and_i_built_an_airy_an_ai_smart/</link>
-      <description><![CDATA[大家好， 我和我的朋友刚刚完成了我们的应用程序的开发，Airy！ Airy 是一款智能日记应用程序，可简化创建富含照片、基于活动的子弹日记的过程，通过照片和摘要丰富条目，提供自我反思的见解和分析，并为情感和个人发展提供个性化提示。 我们很高兴收到你们的任何反馈，也很乐意听到你们的想法和反馈！ 您可以从 App Store 免费下载 Airy：https://apps.apple.com/us/app/airy-ai-powered-smart-journal/id6477373044 您可以在以下网站了解有关 Airy 的更多信息：https://www.airyai.app/ 如果您有任何反馈、意见或想法，请告诉我！ 非常感谢！    ;由   提交/u/Airy_0101   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cuytl9/friends_and_i_built_an_airy_an_ai_smart/</guid>
-      <pubDate>Sat, 18 May 2024 14:42:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>我做了一个 SvelteKit 样板</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cuylwk/i_made_a_sveltekit_boilerplate/</link>
-      <description><![CDATA[嘿，当我想创建一个新的 SvelteKit 项目时，我厌倦了必须重新实现所有重要的东西，所以我构建了 SupaKit来解决这个问题。 这是一个 SvelteKit 样板，其中包含身份验证、支付、数据库、电子邮件和 UI 组件，您可以在 supakit.app https://preview.redd.it/mlwyvr0r371d1.png?width=1899&amp;format=png&amp;auto=webp&amp;s=9198dd223ad9866ce98e5d1cba0598acdad20af6   由   提交/u/Leap90  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cuylwk/i_made_a_sveltekit_boilerplate/</guid>
-      <pubDate>Sat, 18 May 2024 14:32:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>每个人都为自己的利基创建目录，您也可以这样做，而且可以做得很快！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cuy2dq/everyone_creates_directories_for_their_niche_you/</link>
-      <description><![CDATA[大家好， 随着最近目录项目的大肆宣传，我创建了一个入门工具包来创建目录项目分钟。  您所要做的就是将类别更改为您自己的类别（有一个目录网站最受欢迎的类别列表），选择一个主题，然后添加您的产品。就是这样。  您可以在此处查看演示：https://www.youtube.com/watch? v=ontW0yKI-Tg 链接：https://larafast.com/projects/directories   由   提交 /u/karakhanyan  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cuy2dq/everyone_creates_directories_for_their_niche_you/</guid>
-      <pubDate>Sat, 18 May 2024 14:05:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
