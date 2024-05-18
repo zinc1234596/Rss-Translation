@@ -2,9 +2,9 @@
 <rss version="2.0">
   <channel>
     <title>Product Hunt——每天最好的新产品</title>
-    <link>http://www.producthunt.com</link>
+    <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Sat, 18 May 2024 09:13:38 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 May 2024 12:21:31 GMT</lastBuildDate>
     <item>
       <title>采访聊天</title>
       <link>https://www.producthunt.com/posts/interviews-chat</link>
@@ -76,7 +76,7 @@
       <pubDate>Fri, 17 May 2024 15:00:54 GMT</pubDate>
     </item>
     <item>
-      <title>六精灵</title>
+      <title>西克斯尔夫</title>
       <link>https://www.producthunt.com/posts/sixelf</link>
       <description><![CDATA[
             无缝跟踪您的所有设计贡献
@@ -93,18 +93,18 @@
       <title>步行游戏：Explora</title>
       <link>https://www.producthunt.com/posts/walking-games-explora</link>
       <description><![CDATA[
-游戏化的步数追踪应用，激励你每天走路
-
+            游戏化计步器应用程序，激发每天步行的动力
+          
 
 讨论
-|
-链接
+            |
+            链接
 ]]></description>
       <guid>https://www.producthunt.com/posts/walking-games-explora</guid>
       <pubDate>Fri, 17 May 2024 13:40:56 GMT</pubDate>
     </item>
     <item>
-      <title>参与意见箱</title>
+      <title>EngageWith 建议箱</title>
       <link>https://www.producthunt.com/posts/engagewith-suggestion-box</link>
       <description><![CDATA[
             员工匿名问答、建议、投票支持您的数字总部
