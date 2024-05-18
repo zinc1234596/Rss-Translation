@@ -4,11 +4,74 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个 Reddit 子版块，用于分享和接收有关副项目的建设性反馈。</description>
-    <lastBuildDate>Sat, 18 May 2024 12:21:26 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 May 2024 15:14:04 GMT</lastBuildDate>
+    <item>
+      <title>为什么这里的每个帖子都被否决了。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cuzebh/why_is_every_post_here_downvoted/</link>
+      <description><![CDATA[这是怎么回事？这里有一些很棒的项目，但它们都被否决了。    由   提交/u/Salty-Head-4013  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cuzebh/why_is_every_post_here_downvoted/</guid>
+      <pubDate>Sat, 18 May 2024 15:09:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>快速微调 OpenAI 模型</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cuz4xd/quickly_finetune_openai_models/</link>
+      <description><![CDATA[      我需要快速微调项目的 GPT 模型，并意识到一个简单的、现成的模型有多么有用-go 模板可以同时具有前端和后端。因此，我制作了一个 GPT 微调工具包：一个简单、简单的工具，可以为每个人简化此过程:) 微调愉快！ &lt; a href=&quot;https://github.com/DorsaRoh/gpt-finetune-kit&quot;&gt;https://github.com/DorsaRoh/gpt-finetune-kit   由   提交/u/dor_roh  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cuz4xd/quickly_finetune_openai_models/</guid>
+      <pubDate>Sat, 18 May 2024 14:57:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>刚刚推出了一个简单、免费的 URL 缩短器</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cuyztt/just_launched_a_simple_free_and_url_shortener/</link>
+      <description><![CDATA[嗨，我刚刚开发了一个 URL 缩短器，“vist.li”，它的灵感来自访问链接，它不需要注册，我们可以自定义我们的 url slug。 查看 https://vist.li/ 并让我知道您的想法！    由   提交/u/pandamore11  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cuyztt/just_launched_a_simple_free_and_url_shortener/</guid>
+      <pubDate>Sat, 18 May 2024 14:50:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能推广工具</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cuyujy/ai_outreach_tool/</link>
+      <description><![CDATA[这个 Reddit 子版块上有人制作了一个外展工具，可以生成用于外展的脚本。有谁知道这是谁以及该产品叫什么哈哈我不记得了？   由   提交/u/Any-Brief-1751   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cuyujy/ai_outreach_tool/</guid>
+      <pubDate>Sat, 18 May 2024 14:43:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>我和朋友们开发了 Airy——一款人工智能智能日记应用程序，并且希望获得反馈</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cuytl9/friends_and_i_built_an_airy_an_ai_smart/</link>
+      <description><![CDATA[大家好， 我和我的朋友刚刚完成了我们的应用程序的开发，Airy！ Airy 是一款智能日记应用程序，可简化创建富含照片、基于活动的子弹日记的过程，通过照片和摘要丰富条目，提供自我反思的见解和分析，并为情感和个人发展提供个性化提示。 我们很高兴收到你们的任何反馈，也很乐意听到你们的想法和反馈！ 您可以从 App Store 免费下载 Airy：https://apps.apple.com/us/app/airy-ai-powered-smart-journal/id6477373044 您可以在以下网站了解有关 Airy 的更多信息：https://www.airyai.app/ 如果您有任何反馈、意见或想法，请告诉我！ 非常感谢！    ;由   提交/u/Airy_0101   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cuytl9/friends_and_i_built_an_airy_an_ai_smart/</guid>
+      <pubDate>Sat, 18 May 2024 14:42:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个 SvelteKit 样板</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cuylwk/i_made_a_sveltekit_boilerplate/</link>
+      <description><![CDATA[嘿，当我想创建一个新的 SvelteKit 项目时，我厌倦了必须重新实现所有重要的东西，所以我构建了 SupaKit来解决这个问题。 这是一个 SvelteKit 样板，其中包含身份验证、支付、数据库、电子邮件和 UI 组件，您可以在 supakit.app https://preview.redd.it/mlwyvr0r371d1.png?width=1899&amp;format=png&amp;auto=webp&amp;s=9198dd223ad9866ce98e5d1cba0598acdad20af6   由   提交/u/Leap90  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cuylwk/i_made_a_sveltekit_boilerplate/</guid>
+      <pubDate>Sat, 18 May 2024 14:32:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>每个人都为自己的利基创建目录，您也可以这样做，而且可以做得很快！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cuy2dq/everyone_creates_directories_for_their_niche_you/</link>
+      <description><![CDATA[大家好， 随着目录项目最近的大肆宣传，我创建了一个入门工具包来创建目录项目分钟。  您所要做的就是将类别更改为您自己的类别（有一个目录网站最受欢迎的类别列表），选择一个主题，然后添加您的产品。就是这样。  您可以在此处查看演示：https://www.youtube.com/watch? v=ontW0yKI-Tg 链接：https://larafast.com/projects/directories   由   提交 /u/karakhanyan  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cuy2dq/everyone_creates_directories_for_their_niche_you/</guid>
+      <pubDate>Sat, 18 May 2024 14:05:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个应用程序，可以让您对事物进行评分，并查看其他人如何评价您。希望得到反馈！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cux1in/i_made_an_app_that_lets_you_rate_things_and_see/</link>
+      <description><![CDATA[        提交人    /u/had12e1r   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cux1in/i_made_an_app_that_lets_you_rate_things_and_see/</guid>
+      <pubDate>Sat, 18 May 2024 13:12:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>我建立了一个社交媒体概念，让你死后重生。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cuwh8n/i_built_a_social_media_concept_where_you_die_and/</link>
+      <description><![CDATA[      这个。这个想法是为了让你不要执着于“你”的想法。  https://preview.redd .it/t9mxvk1ek61d1.png?width=2880&amp;format=png&amp;auto=webp&amp;s=daf9cf085464ebf1c28d4507124c1c88112d599f   由   提交 /u/SecretaryNo6984   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cuwh8n/i_built_a_social_media_concept_where_you_die_and/</guid>
+      <pubDate>Sat, 18 May 2024 12:42:05 GMT</pubDate>
+    </item>
     <item>
       <title>我为非母语人士构建了多语言 AI ​​pdf 阅读器</title>
       <link>https://www.reddit.com/r/SideProject/comments/1cuvs1q/i_built_a_multilingual_ai_pdf_reader_for/</link>
-      <description><![CDATA[      大家好！ 😄 我总是发现很难专注于用非我母语编写的长文档。（尤其是技术论文）当文档不是用英语编写时，与国际团队沟通也很困难共享语言。 🌏 因此，我构建了一个 PDF 翻译器 + 多语言 PDF 聊天应用程序，让您可以用您*我们*的语言阅读、讨论和理解 PDF！  该应用 🖊️ 以低成本生成格式化+翻译的 pdf 💬 让您可以用自己的语言与 AI 讨论 pdf（即与 pdf 聊天） 我很想听听您对该应用程序的反馈，特别是如果您的母语不是英语或在国际团队中工作！ 🚀 我现在向所有新帐户免费添加 100 个积分，因此您无需支付任何费用即可试用！ （以下是链接：https://home.pinnint.com/ ) 也很高兴收到功能请求和问题！我会尽快回来。谢谢！ 🥳 https://preview。 redd.it/m7xas3d6s11d1.png?width=2112&amp;format=png&amp;auto=webp&amp;s=b9c37bee00225679155446fd75b8d1296b0b186c   由   提交/u/bizsta-9622  /u/bizsta-9622  reddit.com/r/SideProject/comments/1cuvs1q/i_built_a_multilingual_ai_pdf_reader_for/&quot;&gt;[链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[      大家好！😄 我总是发现很难集中注意力阅读用非母语语言编写的长篇文档（尤其是技术论文）。当文档不是用通用语言编写时，与国际团队沟通也很困难。 🌏 因此，我构建了一个 PDF 翻译器 + 多语言 PDF 聊天应用程序，可让您以您的*我们的*语言阅读、讨论和理解 PDF！ 该应用程序 🖊️ 以低成本生成格式化 + 翻译的 pdf 💬 让您使用 AI 以自己的语言讨论 pdf（即与 pdf 聊天） 我很乐意听到您对该应用程序的反馈，特别是如果您不是以英语为母语的人或在国际团队中工作！ 🚀 我现在向所有新帐户免费添加 100 个积分，因此您无需支付任何费用即可试用！（这是链接：https://home.pinnint.com/） 很高兴收到功能请求和问题！我会尽快回复。 谢谢！ 🥳 https://preview.redd.it/m7xas3d6s11d1.png?width=2112&amp;format=png&amp;auto=webp&amp;s=b9c37bee00225679155446fd75b8d1296b0b186c    提交人    /u/bizsta-9622   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1cuvs1q/i_built_a_multilingual_ai_pdf_reader_for/</guid>
       <pubDate>Sat, 18 May 2024 12:02:37 GMT</pubDate>
     </item>
@@ -29,7 +92,7 @@
     <item>
       <title>Roompilot - 协助管理度假租赁物业</title>
       <link>https://www.reddit.com/r/SideProject/comments/1cuv2nz/roomspilot_assisting_in_managing_vacation_rental/</link>
-      <description><![CDATA[       由   提交/u/Past-Act-1900   [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[        提交人    /u/Past-Act-1900   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1cuv2nz/roomspilot_assisting_in_managing_vacation_rental/</guid>
       <pubDate>Sat, 18 May 2024 11:18:50 GMT</pubDate>
     </item>
@@ -46,69 +109,6 @@
       <description><![CDATA[      🚀 BoostedPic：快速图像优化工具 ✨ 功能 🔑 强大的图像压缩：在不影响质量的情况下显着减小图像的文件大小。 📦 多种导出格式：以 JPEG、PNG、WebP 等流行格式导出压缩图像。 💻 离线功能：无需互联网连接！在您的设备上本地压缩图像。 🔓 开源：我们的应用程序是开源的，允许完全透明和社区贡献。 🔒 隐私友好：您的图像永远不会离开您的设备 - 我们不会将任何数据发送到外部服务器。 🎨 直观的界面：简单且用户友好的设计，带来无缝的压缩体验。 🌐 跨平台：由于其渐进式网络应用程序 (PWA) 性质，我们的应用程序可以通过现代网络浏览器在所有平台和设备上无缝运行。 ⚙️ 可自定义设置：调整压缩级别、输出质量等以满足您的需求。 ⚡ 快速且轻量级：针对任何设备上的速度和低资源使用率进行了优化。 🌐 boostedpic.pages.dev&lt; /p&gt;   由   提交/u/yossthedev  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1cutp2s/i_am_building_this_image_compressor_tool_happy_to/</guid>
       <pubDate>Sat, 18 May 2024 09:44:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否有论坛或 Reddit 可供人们免费测试我的产品？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cutlda/is_there_a_forum_or_a_reddit_where_people_will/</link>
-      <description><![CDATA[我去过一个调查论坛，人们会通过交换调查链接，互相帮助进行论文或产品的研究或营销调查。应用测试中有类似的东西吗？    提交人    /u/qqbbomg1   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cutlda/is_there_a_forum_or_a_reddit_where_people_will/</guid>
-      <pubDate>Sat, 18 May 2024 09:36:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>音频可视化工具</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cutfj9/audio_visualizer/</link>
-      <description><![CDATA[       我创建了一个音频可视化工具。 这是一个有趣的小副项目，可以更好地理解 Web Audio API 和 Canvas API。 查看并告诉我你认为呢。这是链接。 欢迎提供反馈和建设性批评。 https://i.redd.it/g9lp5vzpk51d1.gif https://i.redd.it/x6ofackqk51d1.gif   由   提交/u/anya_tech  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cutfj9/audio_visualizer/</guid>
-      <pubDate>Sat, 18 May 2024 09:24:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>Substack 推荐一天内吸引了 21 个用户</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cusfgw/substack_recommendations_got_me_21_users_in_a_day/</link>
-      <description><![CDATA[    &lt; /a&gt;  我已经使用 substack 近一个月了，我会说它是最好的之一那里的平台， 我经营一份名为indieniche的时事通讯，在那里我采访了很多创始人，分享他们的产品故事，可以帮助您扩展业务的提示、增长技巧、工具和产品。我当时也开始使用笔记，我对我的其他一些时事通讯做了一些小建议并得到了一些反馈。很多人从我这里得到了很多推荐。有些得到了 10，有些得到了 15，这仍然是我的最高 21，我在笔记上写了一些关于如何 推荐帮助我的作家订阅者从我这里获得了更多用户。您可以在此处阅读相关内容，如果您觉得有用，请不要忘记订阅   由   提交 /u/sky-builder   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cusfgw/substack_recommendations_got_me_21_users_in_a_day/</guid>
-      <pubDate>Sat, 18 May 2024 08:10:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>从 YouTube 视频获取 TLDR</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cusc3d/get_tldr_from_youtube_videos/</link>
-      <description><![CDATA[大家好， 我想快速开发一些东西来获得后端、前端和一些云技能。 所以我在几天内开发了这个： https://www.vlog-post.com/  这只是一个最低限度的 MVP，请让我知道您的想法。 已经在处理我的下一个实际项目了...    由   提交/u/mufra  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cusc3d/get_tldr_from_youtube_videos/</guid>
-      <pubDate>Sat, 18 May 2024 08:03:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>我为亚洲小说的翻译者和读者构建了网络小说人工智能</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cus5yf/i_built_webnovels_ai_for_translators_and_readers/</link>
-      <description><![CDATA[这里有太多人工智能生成的垃圾邮件，我有点不情愿，但我想我还是要发布它。我和我的朋友们在业余时间建立了网络小说人工智能，因为我们都是亚洲小说的翻译者和读者。天知道我们在业余时间或在手机上阅读了多少小说，而对译者和读者来说，一个明显的障碍是为非专业译者提供的工具或支持非常少。 输入，Webnovels AI，可能是同类工具中的第一个工具，其功能集提供了以下所有内容，并且随着我们构建更多内容，还会提供更多内容。我们自己目前正在使用该工具，从 1 小时的编辑和手动翻译到 &lt; 1 小时的编辑和手动翻译，这确实是一次疯狂的体验。 15 分钟 一些功能包括 ✅ 从 txt、pdf、epub 或 docx 导入 ✅ 小说后台翻译 ✅ 自动生成词汇表 ✅ 带上您自己的 GPT 密钥 我们也刚刚推出了producthunt！ - https://www.producthunt.com/posts/webnovels-ai P.S这仍然不是一个 100% 完美的产品，但我们对此感到非常满意，并将修复因此出现的任何错误或问题，我还大大降低了成本，因为我认为值得考虑我们允许的内容用户可以使用它，我们对您可以做什么没有真正的信用限额或许多其他人为限制，我们正在为我们的社区构建这一点。我们将在您订阅的整个生命周期内尊重任何订阅者，但绝不会再让其如此便宜！哈哈哈哈   由   提交/u/yamibae  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cus5yf/i_built_webnovels_ai_for_translators_and_readers/</guid>
-      <pubDate>Sat, 18 May 2024 07:51:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>第一次 CTO 有哪些值得阅读的好书/博客？ / 招聘</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1curmki/what_are_good_booksblogs_to_read_for_a_first_time/</link>
-      <description><![CDATA[我们的初创公司最近在发展方面取得了巨大的里程碑，我们计划聘请第一位 CTO。 所以到目前为止，《谁》这本书是由亲密的人推荐的。 如果你是我：  你会使用哪些资源？ 什么你会寻找什么？ 你会读什么？    由   提交/u/misha_startup   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1curmki/what_are_good_booksblogs_to_read_for_a_first_time/</guid>
-      <pubDate>Sat, 18 May 2024 07:12:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>您的私人助理，可以创建自定义新闻通讯、播客和卷轴，让您随时了解自己的兴趣！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cuqkel/your_personal_assistant_that_creates_custom/</link>
-      <description><![CDATA[    /u/SuryaYem   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cuqkel/your_personal_assistant_that_creates_custom/</guid>
-      <pubDate>Sat, 18 May 2024 06:01:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>这个网站有 100 多个隐藏的机会</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cupm1a/100_of_hidden_opportunies_with_this_website/</link>
-      <description><![CDATA[ 由   提交/u/filthyrichboy  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cupm1a/100_of_hidden_opportunies_with_this_website/</guid>
-      <pubDate>Sat, 18 May 2024 04:59:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个提词器来帮助您在录制视频时听起来更加自信</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cuofzu/i_made_a_teleprompter_to_help_you_sound_more/</link>
-      <description><![CDATA[   /u/freakH3O   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cuofzu/i_made_a_teleprompter_to_help_you_sound_more/</guid>
-      <pubDate>Sat, 18 May 2024 03:50:04 GMT</pubDate>
     </item>
     </channel>
 </rss>
