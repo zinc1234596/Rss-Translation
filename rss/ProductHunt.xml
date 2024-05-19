@@ -2,9 +2,9 @@
 <rss version="2.0">
   <channel>
     <title>Product Hunt——每天最好的新产品</title>
-    <link>http://www.producthunt.com</link>
+    <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Sun, 19 May 2024 03:15:07 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 May 2024 06:16:04 GMT</lastBuildDate>
     <item>
       <title>采访聊天</title>
       <link>https://www.producthunt.com/posts/interviews-chat</link>
@@ -107,12 +107,12 @@
       <title>参与意见箱</title>
       <link>https://www.producthunt.com/posts/engagewith-suggestion-box</link>
       <description><![CDATA[
-员工匿名问答、建议、为您的数字总部投票 
-
+            员工匿名问答、建议、投票支持您的数字总部
+          
 
 讨论
-|
-链接
+            |
+            链接
 ]]></description>
       <guid>https://www.producthunt.com/posts/engagewith-suggestion-box</guid>
       <pubDate>Fri, 17 May 2024 08:48:37 GMT</pubDate>
@@ -163,18 +163,18 @@
       <title>整洁的表情符号</title>
       <link>https://www.producthunt.com/posts/neatemoji</link>
       <description><![CDATA[
-Chrome 扩展程序可在任何地方将文本转换为表情符号
-
+            Chrome 扩展程序可在任何地方将文本转换为表情符号
+          
 
 讨论
-|
-链接
+            |
+            链接
 ]]></description>
       <guid>https://www.producthunt.com/posts/neatemoji</guid>
       <pubDate>Thu, 16 May 2024 18:02:05 GMT</pubDate>
     </item>
     <item>
-      <title>应用存储</title>
+      <title>应用商店</title>
       <link>https://www.producthunt.com/posts/appstor</link>
       <description><![CDATA[
             轻松组织、管理和交易您的软件工具
