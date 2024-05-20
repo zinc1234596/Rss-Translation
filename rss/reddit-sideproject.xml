@@ -4,9 +4,86 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个 Reddit 子版块，用于分享和接收有关副项目的建设性反馈。</description>
-    <lastBuildDate>Mon, 20 May 2024 09:16:29 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 May 2024 12:25:41 GMT</lastBuildDate>
     <item>
-      <title>我构建了一个工具，可以为您的网站标签标题添加动画，以增加您的销量！</title>
+      <title>docbot - 具有移动用户界面和协作聊天的人工智能文档检索。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cweafk/docbot_ai_document_retrieval_with_a_mobile_ui_and/</link>
+      <description><![CDATA[ 由   提交/u/docbotart  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cweafk/docbot_ai_document_retrieval_with_a_mobile_ui_and/</guid>
+      <pubDate>Mon, 20 May 2024 12:24:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>破解时事通讯代码 -</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cwdvme/crack_the_newsletter_code/</link>
+      <description><![CDATA[多年来，人们一直在尝试打破新闻通讯混乱/组织/管理收件箱新闻通讯，但它们都很糟糕！ 解决方案？想法？   由   提交/u/CaddoTime  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cwdvme/crack_the_newsletter_code/</guid>
+      <pubDate>Mon, 20 May 2024 12:02:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>共享、分摊并简化您的开支！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cwdl56/share_split_and_streamline_your_expenses/</link>
+      <description><![CDATA[        提交人    /u/New-Armadillo-736​​5   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cwdl56/share_split_and_streamline_your_expenses/</guid>
+      <pubDate>Mon, 20 May 2024 11:47:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>大家好，我只是想分享一个自定义 ChatGPT UI 的浏览器扩展</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cwdee5/hey_guys_i_just_wanted_to_share_a_browser/</link>
+      <description><![CDATA[      这不是最花哨的那里有东西，但如果您仍在使用 ChatGPT 并在用户界面方面寻找一些不同的东西，为什么不提供 GPThemes 尝试一下？它是适用于 Chrome 和 Firefox（桌面版和 Android）的浏览器扩展，可为您的 ChatGPT 网站带来全新的外观。  主要功能  自定义主题：使用您的强调色个性化 ChatGPT 并查看实时预览。 li&gt; 现代主题：浅色、深色和黑色 (AMOLED) 选项打造时尚外观. 聊天气泡：时尚的设计可将您的消息与人工智能回复区分开来。 轻松主题切换：通过浮动按钮。 广泛兼容性：GPThemes 支持最新的 ChatGPT UI、GPT-4o 以及以前的版本，确保为所有用户提供无缝体验。  透明  GPThemes 请求两项权限：  存储：记住您在所有 ChatGPT 页面上选择的主题和强调色。 访问 chat.openai.com（旧）和 chatgpt.com （新）域：修改网站在 ChatGPT 中的外观。  开源代码：您可以确切地看到 GPThemes 的功能。  下载   GPThemes - Chrome 网上应用店  GPThemes - Firefox 插件  GPThemes - GitHub  抢先体验 GPThemes 浏览器扩展 - 深色主题   由   提交 /u/fossyourself   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cwdee5/hey_guys_i_just_wanted_to_share_a_browser/</guid>
+      <pubDate>Mon, 20 May 2024 11:36:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>“失败”的 Product Hunt 发布带来了 25 个新用户</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cwdcz7/failed_product_hunt_launch_resulted_in_25_new/</link>
+      <description><![CDATA[大家好。 我想分享我的旅程以及从启动我的 Web 应用程序出现在 Product Hunt 上（两次）。 我的第一次发布是在去年 10 月。我对 Product Hunt 还很陌生，阅读并看到了提供成功发布各种提示和技巧的帖子。 所以我继续并忽略了所有这些。 我花了大约 30 分钟准备启动页面，截取了一些服务的屏幕截图，并安排在第二天进行。 启动日进展顺利 - 获得了 90 多个点赞、20-30 条评论，并且15 个注册加入我的等候名单。 如果你问我的话，结果太棒了！它验证了我的想法，我引起了一些人的兴趣，并且我得到了一些初步反馈。 现在，大约 7 个月后，我的应用程序经历了一些巨大的转变，改进了用户体验和新功能，我安排了我的应用程序第二次发布 Product Hunt - 这次提前 30 天。 由于我投入了大量时间来改进应用程序并（试图）为其建立受众群体，所以我认为最好这样做就在这一次。 即使做了所有这些准备，结果也不是很好。我的观众很少，周二似乎是发布最繁忙的一天（竞争很多）。考虑到这一点，我的结果如下： - 95 票赞成（第 20 名） - 6-7 条评论（大部分只是“恭喜发布”） - 我的网站有 90 名独立访问者 - 25 名新用户 - 2 名付费用户 结论：Product Hunt 并未消亡——它仍然为初创公司带来价值。您只需要花时间围绕您的产品和发布建立受众群体并进行宣传，即可进入前 5 名。即使您确实进入前 5 名，注册量和付费用户也并不能保证 - 这一切都取决于您的产品/服务的质量及其提供的价值。   由   提交/u/claud-fmd  /u/claud-fmd  reddit.com/r/SideProject/comments/1cwdcz7/failed_product_hunt_launch_resulted_in_25_new/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cwdcz7/failed_product_hunt_launch_resulted_in_25_new/</guid>
+      <pubDate>Mon, 20 May 2024 11:34:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>我已经创建了这个工具用于图像优化</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cwcxem/i_have_created_this_tool_for_image_optimization/</link>
+      <description><![CDATA[      BoostedPic 🚀 简介  🌐 网站 🔑 强大的图像压缩：在不影响质量的情况下显着减小图像的文件大小。 📦 多种导出格式：以 JPEG、PNG、WebP 等流行格式导出压缩图像。 💻 离线功能：无需互联网连接！在您的设备上本地压缩图像。 🔓 开源：我们的应用程序是开源的，允许完全透明和社区贡献。 🔒 隐私友好：您的图像永远不会离开您的设备 - 我们不会将任何数据发送到外部服务器。 🎨 直观的界面：简单且用户友好的设计，带来无缝的压缩体验。 🌐 跨平台：由于其渐进式网络应用程序 (PWA) 性质，我们的应用程序可以通过现代网络浏览器在所有平台和设备上无缝运行。 ⚙️ 可自定义设置：调整压缩级别、输出质量等以满足您的需求。 ⚡ 快速且轻量级：针对任何设备上的速度和低资源使用率进行了优化。   由   提交/u/yossthedev  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cwcxem/i_have_created_this_tool_for_image_optimization/</guid>
+      <pubDate>Mon, 20 May 2024 11:08:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>交互式 UI：掌握 ReactJS 进行 Web 开发</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cwcpwo/interactive_uis_mastering_reactjs_for_web/</link>
+      <description><![CDATA[   /u/anujtomar_17  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cwcpwo/interactive_uis_mastering_reactjs_for_web/</guid>
+      <pubDate>Mon, 20 May 2024 10:56:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>为这本书工作了 3 年。它在几个月前推出，并且已经出现在 MKBHD 视频中。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cwc3ux/working_on_this_book_for_3_years_launched_it_a/</link>
+      <description><![CDATA[      我花了三年时间才完成。 （它是 100% 自行出版，未经 Google 认可。） 所以……我写了一本书。这是一本不同的书，有独特的方法。这不是一本小说或一本技术书。这是一本传记，一家公司的传记。我希望它有两个目的：激励创始人和吸引室内设计师。 这一切都始于三年前。我和我的妻子正在讨论客厅的室内设计，她提出了我们应该在咖啡桌上拥有哪些漂亮的书籍。看了她最喜欢的产品后，我意识到对于科技初创公司来说，没有什么比这更好的了。数字产品是无形的，如果将它们变成有形的，并为您的家庭办公室或客厅提供一本精美的艺术/装饰书，那该有多酷？ 将我的特殊兴趣与我妻子的装饰目标结合起来的想法陷入了困境在我的脑后有一段时间。我找啊找啊。我只能找到这些与设计、建筑、时尚或旅行相关的书籍。与科技初创公司无关。对我来说，下一个合乎逻辑的步骤就是自己做…… 哦……这是一个多么大的“错误”啊。整个项目是在晚上和周末完成的——前半部分是在我的初创公司工作，后半部分是在帮助创建 Webflow 实验室。你不知道我“退出”这个项目多少次。最后，毅力和纪律是实现这一目标的关键。 在我的创始人之旅中，我收集了一些关于成功（和不成功）科技初创公司的笔记，以帮助我向他们学习。我决定写下 Google 的精彩故事：一家真正的世代相传的公司，也是世界上最有价值的公司之一。 我非常高兴和满意地向您介绍“Google - 第一个 25 年” ”。这本书颂扬了这家科技巨头从斯坦福大学到全球主导地位的不可思议的旅程背后的思想。 我完全不知道这本书的格式和概念是否有意义，也不知道它是否有读者愿意投资（169 美元）。以下是一些独特的功能： ▪ 丝绸精装 ▪ 限量版 ▪ 手绘边缘 ▪ 超过 30 个手工制作插图 我只制作了 1,000 份。如果这本书的概念看起来足够有趣，请发表评论，我很想知道您的想法！ 无论如何，这个项目都是一次超级有趣的旅程，离开我的舒适区是最好的学习方式讲故事、图形设计和产品制造。 至少，我希望这能激励您回到自己的业余项目并完成它们！   由   提交 /u/johndamaia   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cwc3ux/working_on_this_book_for_3_years_launched_it_a/</guid>
+      <pubDate>Mon, 20 May 2024 10:17:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>为这本书工作了 3 年。它在几个月前推出，并且已经出现在 MKBHD 视频中。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cwc2bb/working_on_this_book_for_3_years_launched_it_a/</link>
+      <description><![CDATA[      我花了三年时间才完成。 （它是 100% 自行出版，未经 Google 认可。） 所以……我写了一本书。这是一本不同的书，有独特的方法。这不是一本小说或一本技术书。这是一本传记，一家公司的传记。我希望它有两个目的：激励创始人和吸引室内设计师。 这一切都始于三年前。我和我的妻子正在讨论客厅的室内设计，她提出了我们应该在咖啡桌上拥有哪些漂亮的书籍。看了她最喜欢的产品后，我意识到对于科技初创公司来说，没有什么比这更好的了。数字产品是无形的，如果将它们变成有形的，并为您的家庭办公室或客厅提供一本精美的艺术/装饰书，那该有多酷？ 将我的特殊兴趣与我妻子的装饰目标结合起来的想法陷入了困境在我的脑后有一段时间。我找啊找啊。我只能找到这些与设计、建筑、时尚或旅行相关的书籍。与科技初创公司无关。对我来说，下一个合乎逻辑的步骤就是自己做…… 哦……这是一个多么大的“错误”啊。整个项目是在晚上和周末完成的——前半部分是在我的初创公司工作，后半部分是在帮助创建 Webflow 实验室。你不知道我“退出”这个项目多少次。最后，毅力和纪律是实现这一目标的关键。 在我的创始人之旅中，我收集了一些关于成功（和不成功）科技初创公司的笔记，以帮助我向他们学习。我决定写下 Google 的精彩故事：一家真正的世代相传的公司，也是世界上最有价值的公司之一。 我非常高兴和满意地向您介绍“Google - 第一个 25 年” ”。这本书颂扬了这家科技巨头从斯坦福大学到全球主导地位的不可思议的旅程背后的思想。 我完全不知道这本书的格式和概念是否有意义，也不知道它是否有读者愿意投资（169 美元）。以下是一些独特的功能： ▪ 丝绸精装 ▪ 限量版 ▪ 手绘边缘 ▪ 超过 30 个手工制作插图 我只制作了 1,000 份。如果这本书的概念看起来足够有趣，请发表评论，我很想知道您的想法！ 无论如何，这个项目都是一次超级有趣的旅程，离开我的舒适区是最好的学习方式讲故事、图形设计和产品制造。 至少，我希望这能激励您回到自己的业余项目并完成它们！   由   提交 /u/johndamaia   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cwc2bb/working_on_this_book_for_3_years_launched_it_a/</guid>
+      <pubDate>Mon, 20 May 2024 10:14:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>我 4 个月前推出了一个网站审核工具，4 个月内收入 6800 美元。评价我的进步！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cwbzlj/i_launched_a_website_audit_tool_4_months_ago_68k/</link>
+      <description><![CDATA[我构建了一个网站审核工具，GetWebsite.Report ( &lt; a href=&quot;https://getwebsite.report/&quot;&gt;https://getwebsite.report/ ），提供全面的页面审核，其中包含个性化见解和人工智能驱动的可操作修复程序，以改进设计、可用性和用户体验。今天是发布 4 个月周年纪念日！ 我们于 1 月份在 Product Hunt 上发布，最终成为当天排名第三的产品。自推出以来的 4 个月内，它已获得 14,000 次会话，总收入为 6,800 美元。 我做得好吗？我渴望听到您对此事的想法和反馈。请分享您的诚实反馈   由   提交/u/trippy_hustler  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cwbzlj/i_launched_a_website_audit_tool_4_months_ago_68k/</guid>
+      <pubDate>Mon, 20 May 2024 10:09:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>想象一下在没有代码的情况下抓取任何网站🤯 - 希望得到反馈🙏</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cwb94t/imagine_scraping_any_website_without_code_would/</link>
+      <description><![CDATA[       由   提交/u/feliche93  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cwb94t/imagine_scraping_any_website_without_code_would/</guid>
+      <pubDate>Mon, 20 May 2024 09:19:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>我构建了一个工具，可以为您网站的选项卡标题添加动画效果，以增加您的销售额！</title>
       <link>https://www.reddit.com/r/SideProject/comments/1cwavyi/i_built_a_tool_that_animates_your_websites_tab/</link>
       <description><![CDATA[   /u/PactoCopernico   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1cwavyi/i_built_a_tool_that_animates_your_websites_tab/</guid>
@@ -22,7 +99,7 @@
     <item>
       <title>创建这个平台最初是作为一个副项目，现在正在帮助许多人启动他们的副项目</title>
       <link>https://www.reddit.com/r/SideProject/comments/1cwahbe/created_this_platform_initially_as_a_side_project/</link>
-      <description><![CDATA[大家好 我们开始构建Peerlist作为一个副项目。这个想法只是为了为设计师和开发人员创建更好的档案。这个小型副项目发生了转变，我们得以成为一家受资助的初创公司！  但是，由于对业余项目的热爱，我们构建了一个名为 Peerlist Project Spotlight 的东西。这是所有设计师和开发人员启动他们的副项目的启动板。每周都会有一些发布，您可以在其中获得初步反馈来验证您的想法和一些早期采用者。  我们为这些发布添加了点赞和评论，以保持人们对他们的发布和副项目的积极性。  人们正在 Peerlist Project Spotlight 上构建和发布一些令人惊奇的东西 - 我们有一个 OSS 邮件列表管理器、一个 Typeform 克隆、一个 g-meet 记录器、一个邮件工匠、一个邮件审核工具、一个 SEO 研究工具和密码管理器，所有这些都在过去 2 周内完成！ 因此，如果您想启动您的项目，或者如果您正在寻找一些构建副项目的想法，您应该检查一下同行项目焦点！   由   提交 /u/hey_yogini   [链接] [评论]]]></description>
+      <description><![CDATA[大家好 我们开始构建Peerlist作为一个副项目。这个想法只是为了为设计师和开发人员创建更好的档案。这个小型副项目发生了转变，我们得以成为一家受资助的初创公司！  但是，由于对业余项目的热爱，我们构建了一个名为 Peerlist Project Spotlight 的东西。这是所有设计师和开发人员启动他们的副项目的启动板。每周都会发布一次，您可以获得初步反馈以验证您的想法和一些早期采用者。  我们为这些发布添加了点赞和评论，以保持人们对他们的发布和副项目的积极性。  人们正在 Peerlist Project Spotlight 上构建和发布一些令人惊奇的东西 - 我们有一个 OSS 邮件列表管理器、一个 Typeform 克隆、一个 g-meet 记录器、一个邮件工匠、一个邮件审核工具、一个 SEO 研究工具和密码管理器，所有这些都在过去 2 周内完成！ 因此，如果您想启动您的项目，或者如果您正在寻找一些构建副项目的想法，您应该检查一下同行项目焦点！   由   提交 /u/hey_yogini   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1cwahbe/created_this_platform_initially_as_a_side_project/</guid>
       <pubDate>Mon, 20 May 2024 08:22:16 GMT</pubDate>
     </item>
@@ -32,83 +109,6 @@
       <description><![CDATA[大家好！ 刚刚推出了一个我曾经使用过的 tiktok/instagram 跟踪工具：  &lt; li&gt;跟踪我们的社交媒体帐户 跟踪我们的竞争对手帐户 跟踪与我们合作的任何影响者。  我们发现很难跟踪一次性完成所有这些，并希望构建这个。 希望得到您的反馈，如果这是您过去遇到的问题。 https://www.producthunt.com/posts/track-my-videos   由   提交 /u/gametimeeeee   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1cwabu6/launched_a_video_tracking_tool_and_would_love/</guid>
       <pubDate>Mon, 20 May 2024 08:10:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>彻底改变人工智能研究/学习和开发</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cw9xmg/revolutionizing_ai_researchlearning_and/</link>
-      <description><![CDATA[我开发了一个用于设计人工智能系统的游乐场，很想听听您的想法！！ 在过去的一年里我开始研究这个项目，以帮助简化神经网络的设计和开发。我想在这里分享它，以尽可能帮助新人了解深度学习。您基本上可以直观地设计、构建、训练和部署人工智能网络等等。非常感谢您的反馈和支持！我会让您亲自看看。 产品搜寻的启动：https://www.producthunt.com/posts/neuralhub-beta Producthunt.com/posts/neuralhub-beta   由   提交/u/s_n_dev  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cw9xmg/revolutionizing_ai_researchlearning_and/</guid>
-      <pubDate>Mon, 20 May 2024 07:41:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>我终于完成了我的第一个公共项目构建。这很简单</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cw9r9v/ive_finally_completed_my_first_build_in_public/</link>
-      <description><![CDATA[      您可以访问它 - keyscripter.vercel .app   由   提交/u/armedrossie  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cw9r9v/ive_finally_completed_my_first_build_in_public/</guid>
-      <pubDate>Mon, 20 May 2024 07:29:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>ArenaCombat.TV - 我建立了一个电子竞技流媒体网站</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cw8l5f/arenacombattv_i_built_an_esports_streaming_site/</link>
-      <description><![CDATA[        提交人    /u/christo_man   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cw8l5f/arenacombattv_i_built_an_esports_streaming_site/</guid>
-      <pubDate>Mon, 20 May 2024 06:06:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>你是怎么赚到第一笔1000美元的？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cw8k5d/how_did_you_made_you_first_1000/</link>
-      <description><![CDATA[大家好 我正在开发一个平台，帮助人们通过写作/指导/咨询或方式赚取第一笔1000美元SaaS 工具。这些方法帮助我每个月赚到 2000 美元。 我很好奇你是如何以及何时赚到第一个 1000 美元的 谢谢你   由   提交 /u/Independent_Wolf8370   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cw8k5d/how_did_you_made_you_first_1000/</guid>
-      <pubDate>Mon, 20 May 2024 06:04:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>隆重推出 One Tab Group 2.0：终极浏览器选项卡和选项卡组管理器。现在有了窗口管理 - 控制您打开的窗口选项卡。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cw4nrn/introducing_one_tab_group_20_the_ultimate_browser/</link>
-      <description><![CDATA[    /u/xiaolooboding   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cw4nrn/introducing_one_tab_group_20_the_ultimate_browser/</guid>
-      <pubDate>Mon, 20 May 2024 02:10:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>你们中有多少人以前雇用过“产品化服务”？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cw4d07/how_many_of_you_have_hired_productized_services/</link>
-      <description><![CDATA[我见过设计师和文案撰写者的格式。现在我已经看到了一些“按需开发”的例子。输入 studios/agenices，想知道作为这些服务的客户的体验是否良好。  有没有好的地方可以雇用或找到此类服务？    由   提交 /u/srlechuga   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cw4d07/how_many_of_you_have_hired_productized_services/</guid>
-      <pubDate>Mon, 20 May 2024 01:55:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>云托管提供商比较运行多个副项目的成本效益</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cw34y6/cloud_hosting_provider_comparison_for_running/</link>
-      <description><![CDATA[我希望将多个小型负载应用程序工作负载作为容器运行，并使用每个应用程序自己的 PostgreSQL 数据库，每个应用程序的容量跨每个计算和数据库选项进行池化具有成本效益。我想在 Docker 容器中运行 .Net Blazor 和 WebApi 应用程序。提供商应符合 GDPR 规定。 我正在考虑：  Digital Ocean Render.com Fly.io  我已经忽略了 Azure，因为它的定价难以预测且支持选项不佳。  您可以推荐哪些提供商来运行几个小型副项目？    由   提交 /u/innovasior   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cw34y6/cloud_hosting_provider_comparison_for_running/</guid>
-      <pubDate>Mon, 20 May 2024 00:50:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>Vocabulary AI - 学习单词和提高词汇量的终极应用程序。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cw2hml/vocabulary_ai_ultimate_app_to_learn_words_and/</link>
-      <description><![CDATA[    /u/DonOfAustins   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cw2hml/vocabulary_ai_ultimate_app_to_learn_words_and/</guid>
-      <pubDate>Mon, 20 May 2024 00:16:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果您已经开始了一个 SideProject，您在哪里找到您的开发人员？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cw16fq/if_youve_started_a_sideproject_where_did_you_find/</link>
-      <description><![CDATA[作为一名编码技能低于初学者的非编码企业家，我想知道其他人在哪里为他们的项目外包开发人员。我一直坐在自学/自编码的 MVP 上，需要一个更锋利的工具来计算出完整的堆栈。我的 SideProject 专注于 IT 领域内的 B2B 通信 (React)。 您可以通过哪些途径/网站找到您的开发/全栈开发。    由   提交 /u/signoutandrefresh   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cw16fq/if_youve_started_a_sideproject_where_did_you_find/</guid>
-      <pubDate>Sun, 19 May 2024 23:12:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI 中的插件和搜索</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cw0lfu/plugins_and_search_in_ai/</link>
-      <description><![CDATA[     &lt; /td&gt;  由   提交/u/bishalsaha99  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cw0lfu/plugins_and_search_in_ai/</guid>
-      <pubDate>Sun, 19 May 2024 22:46:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>我使用 nextjs 和 Tiptap 为写作助理做了一个概念验证</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cvzscg/i_made_a_proof_of_concept_for_a_writing_assistant/</link>
-      <description><![CDATA[       由   提交/u/AlexKul_943  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cvzscg/i_made_a_proof_of_concept_for_a_writing_assistant/</guid>
-      <pubDate>Sun, 19 May 2024 22:08:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
