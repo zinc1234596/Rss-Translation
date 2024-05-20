@@ -4,11 +4,25 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个 Reddit 子版块，用于分享和接收有关副项目的建设性反馈。</description>
-    <lastBuildDate>Mon, 20 May 2024 03:14:41 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 May 2024 06:17:28 GMT</lastBuildDate>
+    <item>
+      <title>ArenaCombat.TV - 我建立了一个电子竞技流媒体网站</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cw8l5f/arenacombattv_i_built_an_esports_streaming_site/</link>
+      <description><![CDATA[        提交人    /u/christo_man   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cw8l5f/arenacombattv_i_built_an_esports_streaming_site/</guid>
+      <pubDate>Mon, 20 May 2024 06:06:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>你是怎么赚到第一笔1000美元的？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cw8k5d/how_did_you_made_you_first_1000/</link>
+      <description><![CDATA[大家好 我正在开发一个平台，帮助人们通过写作/指导/咨询或方式赚取第一笔1000美元SaaS 工具。这些方法帮助我每个月赚到 2000 美元。 我很好奇你是如何以及何时赚到第一个 1000 美元的 谢谢你   由   提交 /u/Independent_Wolf8370   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cw8k5d/how_did_you_made_you_first_1000/</guid>
+      <pubDate>Mon, 20 May 2024 06:04:27 GMT</pubDate>
+    </item>
     <item>
       <title>隆重推出 One Tab Group 2.0：终极浏览器选项卡和选项卡组管理器。现在有了窗口管理 - 控制您打开的窗口选项卡。</title>
       <link>https://www.reddit.com/r/SideProject/comments/1cw4nrn/introducing_one_tab_group_20_the_ultimate_browser/</link>
-      <description><![CDATA[        提交人    /u/xiaoluoboding   [链接] [评论] ]]></description>
+      <description><![CDATA[    /u/xiaoluoboding   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1cw4nrn/introducing_one_tab_group_20_the_ultimate_browser/</guid>
       <pubDate>Mon, 20 May 2024 02:10:26 GMT</pubDate>
     </item>
@@ -22,7 +36,7 @@
     <item>
       <title>云托管提供商比较运行多个副项目的成本效益</title>
       <link>https://www.reddit.com/r/SideProject/comments/1cw34y6/cloud_hosting_provider_comparison_for_running/</link>
-      <description><![CDATA[我希望将多个小型负载应用程序工作负载作为容器运行，并使用每个应用程序自己的 PostgreSQL 数据库，每个应用程序的容量跨每个计算和数据库选项进行池化具有成本效益。我想在 Docker 容器中运行 .Net Blazor 和 WebApi 应用程序。提供商应符合 GDPR 规定。 我正在考虑：  Digital Ocean Render.com Fly.io  我已经忽略了 Azure，因为它的定价难以预测且支持选项不佳。  您可以推荐哪些提供商来运行几个小型副项目？    由   提交 /u/innovasior   [链接] [评论]]]></description>
+      <description><![CDATA[我希望将多个小负载应用程序工作负载作为容器运行，每个工作负载都有自己的 PostgreSQL 数据库，每个应用程序的容量都集中在每个计算和数据库选项中，以实现成本效益。我想在 docker 容器中运行 .Net Blazor 和 WebApi 应用程序。提供商应符合 GDPR 要求。 我正在考虑：  Digital Ocean Render.com Fly.io  我已经忽略了 Azure，因为它的定价不可预测，支持选项很差。 您可以推荐哪些提供商来运行几个小型附带项目？    提交人    /u/innovasior   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1cw34y6/cloud_hosting_provider_comparison_for_running/</guid>
       <pubDate>Mon, 20 May 2024 00:50:41 GMT</pubDate>
     </item>
@@ -71,7 +85,7 @@
     <item>
       <title>介绍 Receiptor - 简化费用管理</title>
       <link>https://www.reddit.com/r/SideProject/comments/1cvwi11/introducing_receiptor_expense_management/</link>
-      <description><![CDATA[查看我们的新应用 Receiptor！借助 Web 和移动组件（目前在应用商店中上线），Receiptor 可让您和您的团队轻松提交费用 - 以及跟踪、管理、创建费用报告等。 在过去 2 年中，当我们构建 Receiptor 时，我们始终牢记一件事 - “这是否尽可能简单？” - 我们相信它是。没有学习曲线，只是一个简单易用的费用管理软件，适用于希望保持流程简单的各种规模的企业！ 如果这里有人想尝试一下，那就太好了！欢迎随时联系我们，或在这里预约我们的快速演示！    提交人    /u/receiptor   [link] [comments]]]></description>
+      <description><![CDATA[查看我们的新应用程序Receiptor！通过网络和移动组件（目前在应用商店中），Receiptor 允许您和您的团队轻松提交费用 - 以及跟踪、管理、创建费用报告等。 当我们构建时在过去的两年里，我们的接收者始终牢记一件事——“这有那么简单吗？” - 我们相信确实如此。没有学习曲线，只是一个简单易用的费用管理软件，适合希望保持流程简单的各种规模的企业！ 如果这里有人想给它一个机会，那就太好了射击！欢迎随时联系我们或在此处与我们预订快速演示！   由   提交 /u/receiptor   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1cvwi11/introducing_receiptor_expense_management/</guid>
       <pubDate>Sun, 19 May 2024 19:42:30 GMT</pubDate>
     </item>
@@ -83,7 +97,7 @@
       <pubDate>Sun, 19 May 2024 19:42:07 GMT</pubDate>
     </item>
     <item>
-      <title>我们创建了一个 Discord 歌曲生成机器人</title>
+      <title>我们构建了一个歌曲生成 Discord 机器人</title>
       <link>https://www.reddit.com/r/SideProject/comments/1cvwf48/we_built_a_song_generation_discord_bot/</link>
       <description><![CDATA[    &lt; /a&gt;  我为一家名为 Lazy AI 的人工智能公司运营一个 Discord 社区，也是社区中的成员之一我向我提出了一个歌曲生成 Discord 机器人的想法。我只知道它们是“喵”，所以所有的功劳都归功于喵！  我帮助喵建立了一个 Discord 机器人，然后喵将该机器人连接到一个定制训练的歌曲生成人工智能模型（嗯，有不止一个，因为一个写歌词，一个做音乐，一个同步，一个主持人 - 屏蔽艺术家名字和脏话等，但它总是被称为一个人工智能模型） 这就是结果：一个 Discord 机器人，根据一个短句子制作一首完整的歌曲。  我厌倦了只在我的 WhatsApp 上吹嘘它，可能这里也没有人会那么关心哈哈哈，但这是我作为其中一员而感到非常自豪的事情。享受吧。   由   提交/u/chief-imagineer  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1cvwf48/we_built_a_song_generation_discord_bot/</guid>
@@ -95,20 +109,6 @@
       <description><![CDATA[大家好，只是发帖分享我的副业：https://www.resuma.cc/&quot;&gt;https:// /www.resuma.cc/ 求职者的指标 - 这样他们就可以跟踪他们的简历何时被查看，并及时向雇主发送跟进信息。 I过去 10 年里，我一直在人力资源技术领域工作，令人震惊的是，招聘者失误的频率如此之高，而这通常可以通过及时跟进来解决。  希望得到您的反馈！   由   提交/u/First-Freedom2054  /u/First-Freedom2054 reddit.com/r/SideProject/comments/1cvweba/my_side_project_would_love_feedback/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1cvweba/my_side_project_would_love_feedback/</guid>
       <pubDate>Sun, 19 May 2024 19:37:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>我建立了一个网站来为您的社交媒体帐户创建个人资料图片</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cvw1c5/i_built_a_website_to_create_profile_pictures_for/</link>
-      <description><![CDATA[ 由   提交/u/LionCat2002   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cvw1c5/i_built_a_website_to_create_profile_pictures_for/</guid>
-      <pubDate>Sun, 19 May 2024 19:21:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>通过 YourWay.Store 上创新的按投票付费功能推动您的业余项目！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cvw0px/boost_your_side_project_with_the_innovative/</link>
-      <description><![CDATA[利用 YourWay.Store 上创新的按投票付费功能推动您的业余项目！ r/SideProject 社区，您好， 我很高兴能够为那些我们正在做副业项目！我叫 Andy Mixlab Lopez，是 YourWay.Store 的所有者，该平台旨在通过我们创新的按次付费为创作者和企业家提供支持-投票竞赛。 什么是按票付费？ 我们的按票付费功能允许您举办竞赛，参与者可以投票他们最喜欢的作品。每次投票都会产生收入，由创作者、社区和平台分享。 它如何使副项目受益：  &lt;强&gt;将你的努力货币化：为你提交的内容获得的每一次投票赚取收入，为你的业余项目提供直接的收入来源。 提高参与度：鼓励你的观众积极参与，提高项目的知名度和参与度。 获得宝贵的反馈：使用投票结果来衡量兴趣并获得对您的项目的建设性反馈。 扩大您的影响力：向更广泛的受众展示您的作品，帮助您建立更大的网络并获得更多曝光度。 公平收入分享：我们从竞赛投票产生的利润中提供公平的佣金分成，使所有参与者受益。 可定制的投票定价：定制投票价格以最大限度地提高参与度和盈利能力。 &lt; /ol&gt; 如何开始：  提交您的项目：轻松提交您的副项目，无论是应用程序，艺术品、原型或任何创意作品，通过我们的平台。 推广您的参赛作品：与您的网络分享您提交的内容并鼓励您的观众投票。 每次投票赚取佣金：每次投票都会收取佣金，收入由平台、社区和参赛者分配。  要了解其运作方式，查看我们的 YouTube 促销活动：YourWay.Store 按投票付费促销活动。 了解更多： 访问我们的主页，了解按次付费竞赛的运作方式及其提供的好处：YourWay.Store 主页。 有关我们创新的按票付费功能及其如何为内容创作者提供帮助的更多详细信息，您可以在此处阅读更多信息：YourWay.Store 上的创新内容创建。 为什么这很重要：&lt; /p&gt; 在一个致力于分享和接收业余项目反馈的社区中，按投票付费功能提供了一种创新的方式来产生收入并吸引受众。无论您的业余项目是业余爱好、潜在的初创企业还是创造性的努力，此工具都可以帮助您最大限度地努力并实现您的目标。 我在这里回答任何问题并讨论此功能的作用可以使您的特定项目受益。让我们共同努力，通过创新创收和积极的社区参与，使我们的副业项目更加成功！ 此致， Andy Mixlab Lopez YourWay.Store 所有者 [ yourwaystore1@gmail.com]() 520-256-4701   由   提交 /u/YourWayStore   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cvw0px/boost_your_side_project_with_the_innovative/</guid>
-      <pubDate>Sun, 19 May 2024 19:21:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
