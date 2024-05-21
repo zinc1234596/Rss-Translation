@@ -4,7 +4,84 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个 Reddit 子版块，用于分享和接收有关副项目的建设性反馈。</description>
-    <lastBuildDate>Mon, 20 May 2024 21:11:39 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 May 2024 00:56:33 GMT</lastBuildDate>
+    <item>
+      <title>EyeGestures 更新 #3 - Polar.sh/NativeSensors 上的第一波订阅 - 你太棒了</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cwvbrd/eyegestures_update_3_first_wave_of_subscriptions/</link>
+      <description><![CDATA[大家好， 今天我们终于开始在 Polar.sh/NativeSesnors ! 对于那些不知道 polar.sh 是什么的人，它是开源项目获得社区支持的工具，允许设计者设计一些交换——比如面向订阅者的软件发布、资金问题等。  我知道这不是很多，但我们有14位订阅者！我想对大家和你们每一个人表示感谢！  很长一段时间，我们的内容大多是一两个人看到的，但现在看来我们有更多的人可以互动了！  对于那些不熟悉 EyeGestures 的人 - 我们是一个用于网络摄像头（基本上是任何设备）的开源注视跟踪引擎，其目的是民主化和增加数字空间的可访问性（如果你摔断了手臂） ，或者损坏你的脊髓，你基本上就无法使用你的设备了）。 在 Polar.sh/NativeSesnors&lt; 上查看我们&lt; /a&gt;！如果您喜欢我们正在做的事情，请随时支持，但即使免费订阅也很棒 - 无论如何您都可以访问我们的应用程序！  &amp;# 32；由   提交/u/TraditionalDistrict9  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cwvbrd/eyegestures_update_3_first_wave_of_subscriptions/</guid>
+      <pubDate>Tue, 21 May 2024 00:48:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>🚀 来认识一下 genson-rs：快速生成千兆字节数据的 JSON 模式！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cwuyqa/meet_gensonrs_blazingfast_json_schema_generation/</link>
+      <description><![CDATA[嘿伙计们！ 我很高兴宣布启动我的第一个 Rust 项目 - genson-rs！这种闪电般快速的 JSON 模式推理引擎可以在短短几秒钟内从千兆字节的 JSON 数据生成模式。 ⚡️ 为什么选择 genson-rs？  速度：瞬间处理巨大的 JSON 数据集。 效率：针对性能和最少的资源使用进行了优化。 Rust-Powered：利用 Rust 的安全性和并发功能。  我很想听听你的想法！非常感谢您的反馈和问题。 🙌 在这里查看：https://github.com/junyu-w/genson-rs  编码愉快！   由   提交/u/gopherman12  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cwuyqa/meet_gensonrs_blazingfast_json_schema_generation/</guid>
+      <pubDate>Tue, 21 May 2024 00:30:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>ArenaCombat.TV - 我建立了一个电子竞技流媒体网站</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cwu7ap/arenacombattv_i_built_an_esports_streaming_site/</link>
+      <description><![CDATA[        提交人    /u/christo_man   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cwu7ap/arenacombattv_i_built_an_esports_streaming_site/</guid>
+      <pubDate>Mon, 20 May 2024 23:53:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>新的无代码 Telegram 机器人生成器 - 寻求反馈！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cwt82t/new_nocode_telegram_bot_builder_seeking_feedback/</link>
+      <description><![CDATA[      创客们您好， 我刚刚推出了一个名为Telegram Bot Builder，旨在帮助您在没有任何编码经验的情况下创建 Telegram 机器人。它非常直观，只需点击几下即可让您的机器人上线。 功能： - 实时更新 - 快速部署 - 简单、用户友好的界面 p&gt; 我很想从这个社区获得一些反馈。您希望看到哪些功能？有任何改进建议吗？ 请访问 tgbotbuilder.com。 提前感谢您的支持输入！   由   提交 /u/OxRagnarok   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cwt82t/new_nocode_telegram_bot_builder_seeking_feedback/</guid>
+      <pubDate>Mon, 20 May 2024 23:07:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>新的无代码电报机器人构建器 - 寻求反馈！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cwt7zs/new_nocode_telegram_bot_builder_seeking_feedback/</link>
+      <description><![CDATA[      创客们您好， 我刚刚推出了一个名为Telegram Bot Builder，旨在帮助您在没有任何编码经验的情况下创建 Telegram 机器人。它非常直观，只需点击几下即可让您的机器人上线。 功能： - 实时更新 - 快速部署 - 简单、用户友好的界面 p&gt; 我很想从这个社区获得一些反馈。您希望看到哪些功能？有任何改进建议吗？ 请访问 tgbotbuilder.com。 提前感谢您的支持输入！   由   提交 /u/OxRagnarok   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cwt7zs/new_nocode_telegram_bot_builder_seeking_feedback/</guid>
+      <pubDate>Mon, 20 May 2024 23:07:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么在 WhatsApp 营销上睡觉是一个错误</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cwt51z/why_sleeping_on_whatsapp_marketing_is_a_mistake/</link>
+      <description><![CDATA[许多企业都忽视了一个强大的营销策略：WhatsApp 营销。 WhatsApp 拥有 27.8 亿月活跃用户和惊人的 98% 消息阅读率，是一座等待开采的金矿。以下是您如何充分利用它的方法。 利用无与伦比的参与率 了解 WhatsApp 参与率的价值。几乎您发送的每条消息都会被阅读，与电子邮件或社交媒体相比，您的受众更有可能与您的内容互动。 集成无缝广告 使用 WhatsApp Business 应用程序创建可直接引导至 WhatsApp 聊天的 Facebook 和 Instagram 广告。这使潜在客户可以直接与您的品牌联系，开始建立信任并提高转化率的对话。 自动跟进 设置自动关注来推动顾客完成购买。例如，如果客户放弃购物车，您可以通过 WhatsApp 发送友好提醒以完成购买。个性化的后续行动可以显着降低购物车放弃率。 将 WhatsApp 与您的网站集成 向您的网站添加 WhatsApp 按钮，以便与您的网站直接聊天。团队。这种即时的个人互动可以极大地提高转化率。例如，美容公司 Maniko 通过将 WhatsApp 集成到其网站并使用自动化服务流程，克服了客户服务挑战，从而提高了客户参与度并减少了服务工作量。 建立专用渠道  设置专门的 WhatsApp 频道来吸引受众。用它来分享更新、独家优惠和有价值的内容。这有助于营造一种社区意识，让您的受众与您的品牌保持联系。 有效重新定位 重新吸引那些选择加入您频道的用户鼓励重复购买。根据他们之前的互动发送有针对性的消息，提供特别优惠或新产品推荐。例如，家具品牌 Mobly Living 使用与其网站小部件集成的个性化 WhatsApp 活动，使收入增加了 30%，客户参与度提高了 40%。 所需的软件和工具 所需的软件和工具  strong&gt; 要有效实施这些策略，请使用以下软件工具和流程：  WhatsApp Business 应用程序：从 App Store 下载或Google Play 商店，用于创建和管理您的商家资料。  如何让用户在 WhatsApp 上与您互动，并扩大您的 WhatsApp 商家联系人列表。  如何让用户在 WhatsApp 上与您互动，并扩大您的 WhatsApp 商家联系人列表。 em&gt;  Facebook 广告管理工具 ：设计和投放 Facebook 和 Instagram 广告，引导用户进行 WhatsApp 聊天。 Clickiny.com：在您的网站上添加 WhatsApp 聊天选项，引导客户进行聊天。对于欧盟用户，请选中 GDPR 选项。  当客户在 WhatsApp 上与您互动时，他们可以选择加入。您也可以这样做以换取交付与他们的兴趣和需求相关的内容。 自动化 WhatsApp 营销  Brevo 或 Charles：用于营销自动化和创建包含 WhatsApp 通知的工作流程。  不要错过 WhatsApp 营销。它是一个强大的工具，可以改善客户互动并促进您的业务。   由   提交 /u/Emotional-Effect-374   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cwt51z/why_sleeping_on_whatsapp_marketing_is_a_mistake/</guid>
+      <pubDate>Mon, 20 May 2024 23:03:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>saalikmueen/go-grpc-实现：Golang + Gin + Docker + gRPC + NGINX</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cwsnbi/saalikmubeengogrpcimplementation_golang_gin/</link>
+      <description><![CDATA[       由   提交/u/saalik_m   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cwsnbi/saalikmubeengogrpcimplementation_golang_gin/</guid>
+      <pubDate>Mon, 20 May 2024 22:40:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>破损的古董</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cwru53/broken_antique/</link>
+      <description><![CDATA[   关于慢性病的歌曲💔 非常感谢任何愿意听它的人🎵🤞 整个音乐世界的新手。    由   提交/u/Working_Garden_915   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cwru53/broken_antique/</guid>
+      <pubDate>Mon, 20 May 2024 22:05:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>隆重推出 Dawnvox - 一款面向小型企业、电子商务和初创企业的人工智能驱动的客户反馈工具！立即享受 50% 折扣！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cwr8k6/introducing_dawnvox_an_ai_driven_customer/</link>
+      <description><![CDATA[嘿 Redditors！ 我很高兴地宣布推出 Dawnvox (www.dawnvox.com)，这是一款专为小型企业、电子商务平台和初创企业设计的产品！我们与 113 位客户成功完成了 Beta 阶段的合作，现在我们已准备好向更广泛的受众推出并继续获取您的意见！ Dawnvox 提供的内容： 客户反馈收集：轻松从客户那里收集有价值的见解，以了解他们的需求并改进您的产品或服务。 人工智能情绪分析：人工智能分析反馈并发现关键情绪，帮助您快速做出明智的产品决策。 具有基于事件的触发器的有针对性的调查：设置根据特定用户操作触发的有针对性的调查，确保您在适当的时刻获得相关反馈。 特别发布优惠： 购买订阅的前 100 名用户可以使用优惠券 LAUNCH50 享受 50% 的折扣！此外，您将终身受益于当前定价。 查看我们并立即开始：www.dawnvox.com 感谢您的支持，这对我们意义重大😊    提交人    /u/bernardino_luca   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cwr8k6/introducing_dawnvox_an_ai_driven_customer/</guid>
+      <pubDate>Mon, 20 May 2024 21:39:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>过去 9 个月我热衷的项目是制作一款可以离线使用的露营资源应用程序。现已全面发布 iOS 和 Android 版本！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cwqpsp/my_passion_project_for_the_last_9_months_has_been/</link>
+      <description><![CDATA[   我制作了一个应用程序，为您提供露营资源，并且图片可以下载，因此一切都可以离线使用！我最初是在雷尼尔山和一些朋友露营时想到的，我们想玩一个 3 人纸牌游戏，但不知道任何游戏，也没有任何手机服务。从那里我们集思广益，讨论了当我们没有服务时我们一直想要的更多东西。因此它有关于急救、狗急救、纸牌游戏、结、生存技巧、星座、云、篝火游戏、一般危险（毒藤识别等）、树木、动物、爬行动物和鱼类识别、国家公园指南等部分。这是我在过去 9 个月里一直热衷的一个项目，希望收到任何意见或反馈，并希望人们发现它有帮助！ iOS 商店 Google Play https://preview.redd.it/a898qca5en1d1.png?width=1242&amp;format=png&amp;auto=webp&amp;s=ec087a598ffeccf5f1425edd526e8f6 e38cd46f0 https://preview.redd.it/gxdjqea5en1d1.png ?width=1242&amp;format=png&amp;auto=webp&amp;s=816f6f801b2828db8d743846f67745c0f43ef4c6 https://preview.redd.it/ls28qca5en1d1.png?width=1242&amp;format=png&amp;auto=webp&amp;s=8b542cdb310ec7f0e9e8220ffa7 fc16cddc48419 https://preview.redd.it/3n1g3da5en1d1 .png?width=1242&amp;format=png&amp;auto=webp&amp;s=404d42ec6afc18fdb10e7576346235f615a72a3c https://preview.redd.it/ph69zxa5en1d1.png?width=1242&amp;format=png&amp;auto=webp&amp;s=a41decad66d0f456efc2 5049ee3c306338725ef0   由   提交 /u/readytofall   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cwqpsp/my_passion_project_for_the_last_9_months_has_been/</guid>
+      <pubDate>Mon, 20 May 2024 21:17:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>建立了我的第一个网站... BuyReddit - 从 Reddit 查找最佳产品</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cwqp4s/built_my_first_site_buyreddit_find_the_best/</link>
+      <description><![CDATA[  由    /u/Primary_Primary_567  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cwqp4s/built_my_first_site_buyreddit_find_the_best/</guid>
+      <pubDate>Mon, 20 May 2024 21:16:25 GMT</pubDate>
+    </item>
     <item>
       <title>淹没在家庭作业中？我们正在打造 Sia，您的人工智能导师！</title>
       <link>https://www.reddit.com/r/SideProject/comments/1cwqh1c/drowning_in_homework_were_building_sia_your_ai/</link>
@@ -27,88 +104,11 @@
       <pubDate>Mon, 20 May 2024 20:46:06 GMT</pubDate>
     </item>
     <item>
-      <title>Taskade AI - 带有内置 AI 助手的一体化工作区！</title>
+      <title>Taskade AI——内置 AI 助手的一体化工作区！</title>
       <link>https://www.reddit.com/r/SideProject/comments/1cwpv63/taskade_ai_the_allinone_workspace_with_a_builtin/</link>
       <description><![CDATA[努力跟上溢出的收件箱、无休止的会议和分散的项目？我们都经历过。 隆重推出 Taskade AI，这是团队协作和生产力的未来！ Taskade 不仅仅是一个项目管理工具；它还是一个项目管理工具。它是为您提供简化工作流程、创意头脑风暴和人工智能辅助的一站式商店。 以下是 Taskade AI 成为生产力助推器的原因：  您的个人 AI 梦想团队：想象一下，拥有一支全天候工作的 AI 助理团队，专为满足您的特定需求而定制。生成动态工作流程、自动执行任务，并在项目中与人工智能聊天。 每一步都采用人工智能：通过人工智能驱动的头脑风暴激发创造力，生成待办事项列出和项目计划，并使用思维导图可视化您的工作。无论您的项目处于哪个阶段，Tasade AI 都会为您提供支持。 无缝协作：轻松共享项目、邀请团队成员以及举行实时视频会议，所有这些都可以在 Taskade 中完成。确保每个人都保持在同一页面上，跨设备无限制共享和实时同步。  但是等等，还有更多！  &lt; li&gt;无限工作空间和团队：通过安全、划分的工作空间轻松管理多个项目和团队。适应任何团队结构，让每个人都拥有高级权限。 人工智能驱动的工作流程：超越简单的自动化！为营销、项目管理等打造定制 AI 代理。让 AI 管理任务、生成报告并充当团队的虚拟扩展。 自然语言的力量：通过自然语言处理利用 AI 的力量。使用简单的命令添加截止日期、更改格式并提高工作效率。  r/Taskade  是团队的第二大脑。请随意尝试分享您的反馈 -&gt; https://www.taskade.com/   由   提交/u/donaltramp699   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1cwpv63/taskade_ai_the_allinone_workspace_with_a_builtin/</guid>
       <pubDate>Mon, 20 May 2024 20:41:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>制作了一个工具来为您的广告、内容、演示、营销创建 AI Actor，...这是演示</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cwpny7/made_a_tool_to_create_ai_actor_for_your_ads/</link>
-      <description><![CDATA[       由   提交/u/Even_Spot_3936   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cwpny7/made_a_tool_to_create_ai_actor_for_your_ads/</guid>
-      <pubDate>Mon, 20 May 2024 20:33:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>开发一种工具，可以自动化 LinkedIn 活动以实现营销目的。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cwpelh/developing_a_tool_that_automates_linkedin/</link>
-      <description><![CDATA[我开始开发一个在 linkedin 中自动执行任务的工具。使用nodejs和puppeteer。我编写了个人资料搜索、个人资料访问和连接请求功能。使用它来执行批量任务，但我不知道如何进一步改进。 给我建议对于那些想要查看github 存储库   由   提交/u/Ranorkk  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cwpelh/developing_a_tool_that_automates_linkedin/</guid>
-      <pubDate>Mon, 20 May 2024 20:22:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于我的生日提醒 microSaaS 的 AMA</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cwp8l6/ama_about_my_birthday_reminder_microsaas/</link>
-      <description><![CDATA[www.birthdaytexts.com 删除Facebook后，我想要一个简单的生日短信提醒。我很容易错过日历通知，因此我为自己构建了这个工具。  目前大约有 110 名用户，并且提供慷慨的免费套餐。每月收入约10美元。    由   提交/u/OK_Maybe_No_Yes   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cwp8l6/ama_about_my_birthday_reminder_microsaas/</guid>
-      <pubDate>Mon, 20 May 2024 20:15:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个 Chrome 扩展，让 Reddit 侧边栏真正有用（Redbar）</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cwp3i2/i_made_a_chrome_extension_to_make_the_reddit/</link>
-      <description><![CDATA[    /u/aseemthakar   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cwp3i2/i_made_a_chrome_extension_to_make_the_reddit/</guid>
-      <pubDate>Mon, 20 May 2024 20:10:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>我将每周构建一个新的人工智能工具，给我建议，完成后我将开源代码。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cwowt6/ill_be_building_a_new_ai_tool_each_week_give_me/</link>
-      <description><![CDATA[自我的 AI 工具订阅推出以来的过去几周服务&lt; /a&gt;（您每月支付订阅费才能访问一系列工具）。我大约每周都会构建和发布一个新工具。 到目前为止，我已经构建了：  YouTube 摘要器 语音克隆器 仅需要一张自拍照的人工智能头像生成器（由 InstantID 提供） 基于 GPT4 的简历生成器 QR 代码艺术生成器  对于下一步要构建什么有什么建议吗？它不一定与人工智能相关 查看民意调查   由   提交/u/sim04ful  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cwowt6/ill_be_building_a_new_ai_tool_each_week_give_me/</guid>
-      <pubDate>Mon, 20 May 2024 20:02:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>我从哪里开始？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cwoo0a/where_do_i_start_from/</link>
-      <description><![CDATA[大家好， 我是一名企业家，已经经营着一家成功的企业，但即使是我有时也会陷入困境。我有一个名为 DevStream 的热情项目，我真的很想实现它，但我不知道从哪里开始。 DevStream 背后的想法是创建一个简化开发流程的平台，使开发人员能够更轻松地在一个地方进行协作、跟踪进度和管理他们的项目。 我已经承担了如此多的责任，找到时间和资源来启动 DevStream 是很困难的。 还有其他人经历过这种情况吗？在管理主要业务的同时，您是如何将副业项目变成现实的？有什么工具或建议有帮助吗？ 谢谢！   由   提交 /u/skrt_pls   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cwoo0a/where_do_i_start_from/</guid>
-      <pubDate>Mon, 20 May 2024 19:52:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>你能检查一下我的ios应用程序吗？等待您的改进意见</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cwo88d/could_you_please_check_my_ios_app_waiting_for/</link>
-      <description><![CDATA[       由   提交/u/Background_Fault_289   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cwo88d/could_you_please_check_my_ios_app_waiting_for/</guid>
-      <pubDate>Mon, 20 May 2024 19:34:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个应用程序来帮助您跟踪体重和在健身房的锻炼情况</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cwnroa/i_made_an_app_to_help_you_track_your_weight_and/</link>
-      <description><![CDATA[我开发了一个应用程序来帮助自己跟踪体重和锻炼情况，以持续改进我的举重，并通过测量和统计数据确保一切顺利正确的方向。 您可以创建锻炼计划，从不同的锻炼类型中进行选择，根据自己的锻炼方式定制锻炼，然后在计划内执行每次锻炼，同时记下时间、距离、 次数或每组的次数和重量。  您还可以每天跟踪您的体重，在日志中添加可选注释或图像以进一步跟踪您的进度。 您还可以创建测量值来跟踪您的进度，方式。 我不太善于言辞，但非常感谢任何反馈或建议！如果人们觉得它有用，我计划继续开发它！ Lifesync - 体重和锻炼   由   提交/u/Little_Court_7721   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cwnroa/i_made_an_app_to_help_you_track_your_weight_and/</guid>
-      <pubDate>Mon, 20 May 2024 19:15:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>我构建了一个本地优先、隐私优先的笔记和生产力应用程序</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cwme4q/i_built_a_localfirst_privacyfirst_note_taking/</link>
-      <description><![CDATA[   /u/ButterscotchLeft4455   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cwme4q/i_built_a_localfirst_privacyfirst_note_taking/</guid>
-      <pubDate>Mon, 20 May 2024 18:19:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>我构建了一个本地优先、隐私优先的笔记和生产力应用程序</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cwmbtl/i_built_a_localfirst_privacyfirst_note_taking/</link>
-      <description><![CDATA[   /u/ButterscotchLeft4455   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cwmbtl/i_built_a_localfirst_privacyfirst_note_taking/</guid>
-      <pubDate>Mon, 20 May 2024 18:16:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>我构建了一个可以嵌入到您的网站中的聊天机器人，专为初创企业和个体企业家而设计！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cwm63v/i_built_a_chat_bot_you_can_embed_in_your_site/</link>
-      <description><![CDATA[      大家好！我最新的副项目是一个可以嵌入到您的网站上的聊天小部件。其目标是通过为看到您网站的任何人提供与您的团队的直接沟通渠道，帮助您与用户交谈并转化潜在客户。当然，我们还使您能够使用人工智能自动回复，但为了实现个人风格，您可以使用电子邮件、短信、Slack 或您选择的任何通信平台收到通知并回复用户。  由于你们是理想的客户，我们的重点是比竞争对手更简单、更便宜。链接在评论里。  https://preview.redd .it/n7gqhdjqgm1d1.png?width=1400&amp;format=png&amp;auto=webp&amp;s=d54ff4b97fb37b167f7ba5f4fe45d0f1c860cf88   由   提交 /u/BuffaloOwn2649   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cwm63v/i_built_a_chat_bot_you_can_embed_in_your_site/</guid>
-      <pubDate>Mon, 20 May 2024 18:10:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
