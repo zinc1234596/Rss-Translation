@@ -4,7 +4,49 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个 Reddit 子版块，用于分享和接收有关副项目的建设性反馈。</description>
-    <lastBuildDate>Thu, 23 May 2024 00:56:29 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 May 2024 03:14:56 GMT</lastBuildDate>
+    <item>
+      <title>我制作了一个应用程序来帮助在亚马逊上找到更便宜的商品报价 - 测试版</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cyia4f/i_made_an_app_to_help_find_cheaper_offers_for/</link>
+      <description><![CDATA[      内容：用于查看、过滤和轻松对亚马逊仓库交易进行排序。目前仅限于美国市场，但我会随时增加覆盖范围。 原因：方便方便&lt; /strong&gt; 和负担耐用性。这是由于个人在亚马逊网站上无法有效浏览交易而感到沮丧。他们有无数的翻新商品或类似的新商品，但没有好的方法可以在不点击各个页面的情况下搜索和整理它们。 在为我的朋友和家人构建原型后，我意识到大多数人似乎能够找到感兴趣的商品，价格比预期便宜得多。就在那时，我有了向外部开放这个项目的想法，以获取想法/反馈进行迭代，并希望帮助人们在购买任何东西之前找到更便宜的替代品。 这个版本是一轮反馈后的第一次迭代HN 导致围绕专门商店重建应用程序。商店和子类别的数量将根据兴趣和反馈而变化。 地点：https://amznbargains。 com  技术位：设计围绕 3 个关键部分：  一组运行的带头工人24/7 识别、收集和组织亚马逊优惠 用于存储和提供优惠的后端 供用户交互的响应式前端 &lt; /ul&gt; ​ 技术堆栈：后端： - 核心：通过 PM2 + Bash 的 Nodejs - 工作人员：旋转 VPN 后面的 Proxmox 虚拟机 - 数据库：PostgreSQL（通过 Supabase）前端： - 核心：Sveltekit - CSS：Tailwind CSS - UI 框架：Shadcn-svelte - 测试：Playwright - CDN、DNS 和 DNS托管：Cloudflare - 分析：合理   这并不意味着只是一个无耻的插件，我真的很想听听您的反馈、批评、问题或想法。 小心！ https://preview.redd.it/xuxk2qou832d1.png?width=1338&amp;format=png&amp;auto=webp&amp;s=0d99e81b6563966b19908fe891591ea3aac1cd43   由   提交/u/crazyCalamari   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cyia4f/i_made_an_app_to_help_find_cheaper_offers_for/</guid>
+      <pubDate>Thu, 23 May 2024 02:36:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个应用程序来 A/B 测试你的约会资料照片</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cyi7si/i_made_an_app_to_ab_test_your_dating_profile/</link>
+      <description><![CDATA[swipetest.io 去年，我和交往 5 年的女友分手了，我发现自己使用的约会应用程序结果令人沮丧。我开始在我的个人资料上测试不同的照片，经过多次迭代，开始获得更多匹配。我发现我的许多不太好的照片在应用程序上的表现让我感到惊讶。尽管如此，我还是不满意这些应用程序没有提供好的方法来定量确定我最好的照片。因此，我创建了 swipetest.io，让其他用户对您的照片进行投票，这样您就可以客观地确定最佳照片。    由   提交 /u/twoplus2is4minus1is3   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cyi7si/i_made_an_app_to_ab_test_your_dating_profile/</guid>
+      <pubDate>Thu, 23 May 2024 02:33:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>革命性的营销应用程序需要开发人员</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cyi0p3/devs_needed_for_revolutionary_marketing/</link>
+      <description><![CDATA[大家好，我正在构建一个新的强大营销平台（在该行业工作了 3 年）。我需要帮助来构建它。目前我的团队由我和另一位开发人员组成。这将是一个为期3个月的项目。我不想透露太多信息。堆栈：反应|节点 Js |各种 AWS 服务。您将获得公平报酬。我需要其他开发人员，因为我在最大的银行之一担任软件工程师，从事一份要求很高的全职工作。如果您有兴趣，这是我公司的电子邮件：simple@simplesoftwareservices.com |网站：https://www.simplesoftwareservices.com     ;由   提交/u/Jimmymercury44  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cyi0p3/devs_needed_for_revolutionary_marketing/</guid>
+      <pubDate>Thu, 23 May 2024 02:22:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>SEO AI 添加了代码更改检测部分。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cyi02v/seo_ai_adds_code_changes_detection_section/</link>
+      <description><![CDATA[大家好！我很高兴地宣布，我们的 SEO AI 现在添加了一个新功能部分 - “代码更改”。这个新部分专门用于网页代码问题的初步诊断。我们知道，有时即使是最小的代码问题也会对 SEO 产生重大影响。这正是我们添加代码更改部分的原因。  我们期待您的反馈，并将继续改进我们的功能以更好地满足您的需求。   由   提交/u/Sea-Attention6930    reddit.com/r/SideProject/comments/1cyi02v/seo_ai_adds_code_changes_detection_section/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cyi02v/seo_ai_adds_code_changes_detection_section/</guid>
+      <pubDate>Thu, 23 May 2024 02:21:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>认识一下将借口变成动力的机器人！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cyhx8m/meet_the_bot_that_turns_excuses_into_motivation/</link>
+      <description><![CDATA[大家好！ 我是一名开发人员，和我的朋友一起，我们正在致力于一些令人兴奋的事情相信可以改变您的健身之旅！想象一下：一个你可以与之交谈的健身机器人，给它任何借口，它都会以专为你量身定制的个性化动机做出回应。不仅仅是文字，还有符合您场景的图片。我们可以将其称为“终极健身房激励机器人”。现在，但我们需要您的帮助来命名它并使其变得更好！ 它的作用如下： 交互式响应：&lt; /em&gt; 给出任何借口，例如“我太累了”。 “我没有时间，”或“我没心情”或任何其他内容，并获得量身定制的激励响应。 自定义图像：每个响应都附带一个自定义图像，让您在视觉上受到启发。 个性化动机：机器人会适应您的具体情况和需求，确保每次互动都让您感觉独特并令人鼓舞。 为什么它很棒： &lt; p&gt;参与：它不仅仅是一个聊天机器人；它还是一个聊天机器人。这是您的个人激励教练。 有趣：互动且个性化，让体验变得愉快。 有效：视觉和文字动力结合起来给你额外的推动力。 但是我们需要您的反馈！ 命名我们的机器人：投票或建议在评论中说出您自己的想法！ 您想要的功能：告诉我们您希望在此机器人中看到哪些功能。 反馈&amp;建议：关于如何使其成为有史以来最好的健身机器人有什么想法吗？ 帮助我们命名我们的机器人！ 我们对这个项目感到非常兴奋，并且可以迫不及待想听听您的想法。您的反馈将帮助我们创造出真正令人惊叹的东西。让我们一起让健身变得有趣、充满动力！ 感谢您的支持！ 查看投票&lt; /a&gt;   由   提交/u/Wooden-Pie-3735   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cyhx8m/meet_the_bot_that_turns_excuses_into_motivation/</guid>
+      <pubDate>Thu, 23 May 2024 02:17:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>免费人工智能求职信生成器</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cygosc/free_ai_cover_letter_builder/</link>
+      <description><![CDATA[写求职信是令人畏惧的。你想让我写一篇关于在你们公司工作的同人小说吗？ 最近，我看到越来越多的求职申请需要这些毫无意义的论文。求职者绝对没有时间这样做。  就在那时，它击中了我。如果其他人没有花时间写这些信件或者他们提交了一封通用的信件，那么您可以在求职过程中获得巨大的优势。 这导致我添加了一个 由 AI 驱动的 ProRes.ai 求职信撰写者。您不必浪费一个小时写一篇文章来吸引潜在雇主，您只需填写一些有关您自己的基本信息，复制并粘贴有关工作的详细信息，我的人工智能将为您创建一封量身定制的求职信。 现在，您可以申请大多数人因为不想写求职信而回避的职位，而且您可以在几秒钟内完成。 如果您最终尝试了，请告诉我。我正在尽力做到最好！   由   提交/u/SaltNo8237  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cygosc/free_ai_cover_letter_builder/</guid>
+      <pubDate>Thu, 23 May 2024 01:13:41 GMT</pubDate>
+    </item>
     <item>
       <title>我构建了一个 Spotify 插件，可以创建“每日发现”播放列表</title>
       <link>https://www.reddit.com/r/SideProject/comments/1cygc0b/i_built_a_spotify_addon_that_creates_a_discover/</link>
@@ -13,7 +55,7 @@
       <pubDate>Thu, 23 May 2024 00:55:53 GMT</pubDate>
     </item>
     <item>
-      <title>节省屏幕时间，将您的文章转换成音频（英语、葡萄牙语和西班牙语）</title>
+      <title>将文章转换为音频（英语、葡萄牙语和西班牙语），节省屏幕时间</title>
       <link>https://www.reddit.com/r/SideProject/comments/1cyfy3i/saving_screen_time_turning_your_articles_into/</link>
       <description><![CDATA[大家好， 我刚刚推出了我的新产品 NarratoriFY！它是一个 Chrome 扩展程序，可将您喜爱的文章和新闻通讯转换为音频。节省屏幕时间并聆听您的内容。 好奇吗？看看：NarratoriFY 感谢任何反馈！ &lt;!-- SC_ON - -&gt;  由   提交 /u/Traditional-Bag5260    reddit.com/r/SideProject/comments/1cyfy3i/ saving_screen_time_turning_your_articles_into/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1cyfy3i/saving_screen_time_turning_your_articles_into/</guid>
@@ -29,19 +71,19 @@
     <item>
       <title>具有云和 DevOps 技能的数据工程师希望加入副业</title>
       <link>https://www.reddit.com/r/SideProject/comments/1cyeio7/data_engineer_with_cloud_devops_skills_looking_to/</link>
-      <description><![CDATA[大家好， 我是一名拥有 3 年以上经验的数据工程师，我很高兴能从事副业。我在数据工程、云服务（AWS、Azure、GCP）、DevOps（CI/CD、Docker、Kubernetes）和构建 API 方面拥有扎实的技能。我的适应能力很强，不依赖于任何特定的工具或技术。 我想开始一份副业，但首先，我想通过与已经从事这项工作的人一起工作来学习。基本上，我很乐意为现有的项目或想法做出贡献。如果你有很酷的事情要做并且需要一个可靠的合作伙伴，让我们聊聊吧！我很乐意提供帮助并共同成长。 DM 已开放    提交人    /u/Suspicious-Use7032   [链接] [评论]]]></description>
+      <description><![CDATA[大家好， 我是一名拥有 3 年以上经验的数据工程师，我很高兴能够深入研究副业。我在数据工程、云服务（AWS、Azure、GCP）、DevOps（CI/CD、Docker、Kubernetes）和构建 API 方面拥有扎实的技能。我的适应能力很强，不受任何特定工具或技术的束缚。 我想开始一项副业，但首先，我想通过与已经在做这件事的人一起工作来学习。基本上，我很乐意为现有的项目或想法做出贡献。如果您正在做一些很酷的事情并且需要一个可靠的合作伙伴，让我们聊天吧！我渴望提供帮助并共同成长。 DM 是开放的   由   提交 /u/Suspicious-Use7032    reddit.com/r/SideProject/comments/1cyeio7/data_engineer_with_cloud_devops_skills_looking_to/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1cyeio7/data_engineer_with_cloud_devops_skills_looking_to/</guid>
       <pubDate>Wed, 22 May 2024 23:25:14 GMT</pubDate>
     </item>
     <item>
       <title>更新：现在您可以以光速交付您的初创公司</title>
       <link>https://www.reddit.com/r/SideProject/comments/1cydcbl/update_now_you_can_ship_your_startup_at_the_speed/</link>
-      <description><![CDATA[更新： 抱歉，网站已关闭，但 Netlify DNS 出现问题，现在网站正在运行，如果您对该服务感兴趣，请留下您的电子邮件  您好，我们是 8 名开发人员，在为 Web 和移动设备构建 ui 方面拥有超过 5 的经验，我们正在创建这项服务，承诺通过我们所谓的并行编程尽可能快地构建您的用户界面，其中我们每个人都获得一个屏幕并在不到一天的时间内构建它，让我看看您对我们新服务的评论，这是链接：https://uisquad.co/    ;由   提交/u/filthyrichboy  [链接] [评论]]]></description>
+      <description><![CDATA[更新： 抱歉，网站已关闭，但 Netlify DNS 出现问题，现在网站正在运行，如果您对该服务感兴趣，请留下您的电子邮件  您好，我们是 8 名开发人员，在为 Web 和移动设备构建 ui 方面拥有超过 5 的经验，我们正在创建这项服务，承诺通过我们所说的并行编程尽快构建您的用户界面，我们每个人都获得一个屏幕并在不到一天的时间内构建它，让我看看您对我们新服务的评论，这是链接：https://uisquad.co/    ;由   提交 /u/filthyrichboy   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1cydcbl/update_now_you_can_ship_your_startup_at_the_speed/</guid>
       <pubDate>Wed, 22 May 2024 22:31:24 GMT</pubDate>
     </item>
     <item>
-      <title>您的业​​余项目使用哪些营销渠道？</title>
+      <title>您为您的副业项目使用了哪些营销渠道？</title>
       <link>https://www.reddit.com/r/SideProject/comments/1cydbxd/what_marketing_channels_are_you_using_for_your/</link>
       <description><![CDATA[想知道哪些营销渠道适合您。 - 您花钱是为了增加曝光度吗？ - 您是否探索过合作与各种评论者/影响者？ 提前致谢   由   提交/u/inventor_black  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1cydbxd/what_marketing_channels_are_you_using_for_your/</guid>
@@ -50,12 +92,12 @@
     <item>
       <title>UI返工反馈</title>
       <link>https://www.reddit.com/r/SideProject/comments/1cybo17/ui_rework_feedback/</link>
-      <description><![CDATA[不久前我在这里分享了我的 SAAS 应用 Loocent，但最近我发布了一个重大更新，我个人对此感到非常兴奋。还有一些工作要做，以消除所有更改带来的错误，我知道它目前正在破坏平板电脑等屏幕尺寸的布局，我很快就会着手修复这个问题，但总的来说，我很想得到一些来自大家的反馈。    提交人    /u/virus200   [link] [评论]]]></description>
+      <description><![CDATA[不久我就在这里分享了我的 SAAS 应用程序 Loocent但我最近推出了一项大型更新，我个人对此感到非常兴奋。仍然需要做一些工作来消除所有更改中的错误，我知道它目前正在破坏平板电脑等屏幕尺寸的布局，我很快就会对此进行修复，但总的来说很想从人们那里得到一些反馈。   由   提交 /u/virus200   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1cybo17/ui_rework_feedback/</guid>
       <pubDate>Wed, 22 May 2024 21:20:25 GMT</pubDate>
     </item>
     <item>
-      <title>我构建了一个 macOS 迫切需要的发票制作工具！</title>
+      <title>我构建了一个迫切需要的 MacOS 发票制作器！</title>
       <link>https://www.reddit.com/r/SideProject/comments/1cybjlf/i_built_an_invoice_maker_macos_desperately_needed/</link>
       <description><![CDATA[   https://preview.redd.it/gunxojqhgy1d1.png?width=2560&amp;format=png&amp;auto=webp&amp;s=ad1b78e18b31 630d4762061b34b2d67f3bde2854 在查看了此处的评论后，我构建了Invoice Maker怎么没有好的本地发票应用程序。我希望我在这方面做了一些好事。看看并让我知道你的想法。谢谢:) https://apps.apple.com/us/app/invoice-generator-估计/id6446822833   由   提交 /u/Cherucole   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1cybjlf/i_built_an_invoice_maker_macos_desperately_needed/</guid>
@@ -67,48 +109,6 @@
       <description><![CDATA[我在 ecomm 工作，主要为我的公司做 UX/UI 设计。有很多想法可以自动化一些商店经理遇到的一些日常任务和功能请求。想知道开发人员是否有兴趣与我合作开发一些 Shopify SaaS 应用程序？ LMK!   由   提交 /u/SML​​XL   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1cybc08/any_shopify_devs_wanna_collab/</guid>
       <pubDate>Wed, 22 May 2024 21:06:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>这是我在扩大产品规模之前的准备</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cyae6h/heres_my_preparation_before_scaling_up_my_product/</link>
-      <description><![CDATA[如果我们不以正确的方式扩展产品可能会是一场噩梦。大家好，我是 Rully，一位喜欢构建东西的独立制作者。  一个小故事，很久以前我还不知道并使用VPS的时候。我将共享主机用于我的爱好和小型企业。但是，问题是： 1. 我无法获得无限带宽的托管 2. 找到一个在 1 个捆绑包中支持 NodeJS、Ruby、Python 和其他服务的托管提供商并不容易&lt; br /&gt; 3. 通常，当实现第 2 点时。价格太高了，我买不起。  这就是我推出 JustAHost 的原因。下一步是什么？通过添加更多服务器位置来扩展。  第一个服务地点是在美国。然后，我可以缓慢但肯定地添加更多服务器位置来满足客户的需求，特别是对于有 GDPR 法规的欧洲。  在此之前，我不想着急。我想确保我可以为所有地区实施相同的功能和服务。因此，我首先创建一个样板/框架/架构来实现这一目标。  然后，我可以安全地添加更多服务器位置。现在，我有 7 个具有相同功能、优势和服务的服务器位置。  如果您对我们正在构建的内容感兴趣，您可以在 justahost.cloud 尝试我们的 7 天试用版  干杯， - Rully   由   提交 /u/DeVoresyah   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cyae6h/heres_my_preparation_before_scaling_up_my_product/</guid>
-      <pubDate>Wed, 22 May 2024 20:26:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找SaaS套件的前端重度合作伙伴</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cya8bo/looking_for_frontend_heavy_partner_for_saas_kit/</link>
-      <description><![CDATA[我目前在 breakneck.dev 运行 saas 样板工具包 它与通常的 nextjs/laravel 全栈有点不同，因为它只是 c# / aspnetcore 中的后端部分，因此人们可以构建 api 产品、Web 项目或移动应用程序。 &lt; p&gt;我正在考虑添加所有其他样板所具有的更多可视化部分和功能，但我不想自己编写代码。我的反应还好，但仅此而已。我也不是特别喜欢构建前端。 我正在寻找真正喜欢前端并且可能喜欢设计的人。我认为这会带来更好的产品，也会让我承担更多责任，而且会更有趣。 也许会把它变成更优质的样板产品。后端功能更加丰富，并且由真正了解后端的人构建。而且正面看起来更好看，而且是由真正了解设计的人制作的。  卖点不是“3天内构建你的SaaS”，而是“构建高质量的产品”。反而。我认为无论如何，船舶快速方法都被夸大了。 如果您有兴趣，请通过私信联系我。我已经在做销售了。虽然时间不多，但仍然如此。   由   提交 /u/Venisol   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cya8bo/looking_for_frontend_heavy_partner_for_saas_kit/</guid>
-      <pubDate>Wed, 22 May 2024 20:19:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么这么难</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cy9v8m/why_so_hard/</link>
-      <description><![CDATA[我最近听说了 SaaS 商业模式。对这种工作方式感到惊讶并决定尝试一下。编写了一个简单的应用程序并启动了它。  访问者正在查看产品，但一个月内没有收到任何付款（一次性付款收入模式）。  接下来我应该做什么？我很高兴听到您的建议！   由   提交 /u/Economy-Cupcake6148    reddit.com/r/SideProject/comments/1cy9v8m/why_so_hard/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cy9v8m/why_so_hard/</guid>
-      <pubDate>Wed, 22 May 2024 20:04:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个应用程序来增加访问者对您网站的信任</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cy9gpq/i_made_an_app_to_increase_visitors_trust_on_your/</link>
-      <description><![CDATA[嘿 Reddit， 在看到这么多独立黑客取得巨大成功后，我刚刚加入了社区。 今天的市场已经非常饱和，当我在寻找有用的编码工具时，我永远不知道哪些工具是可靠的，哪些只是刚刚出现的东西，但它说成百上千的人已经在使用它。&lt; /p&gt; 这就是我创建 isVerified 的原因 — 帮助您脱颖而出并向访问者证明您的网站拥有流量，这是一种构建网站的方式赢得潜在客户的信任。 您认为这样的应用程序在每天创建数百个新 SaaS 的世界中有用吗？ 我欢迎任何批评、建议和想法。    由   提交/u/Single_Bet_9179   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cy9gpq/i_made_an_app_to_increase_visitors_trust_on_your/</guid>
-      <pubDate>Wed, 22 May 2024 19:48:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>财务报告的最佳 GPT</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cy9fds/best_gpt_for_financial_reports/</link>
-      <description><![CDATA[您好，我想知道是否有人知道好的 GPT，可以分析财务数据并提供良好的反馈和建议。我尝试过使用 OpenAI，但效果不是很好。也许我的提示不是最佳的。写提示时有哪些技巧？谢谢   由   提交 /u/Optimal-Summer7158   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cy9fds/best_gpt_for_financial_reports/</guid>
-      <pubDate>Wed, 22 May 2024 19:46:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>Project Detach - 创建待办事项列表并在 30 秒内安排一些任务</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cy9c1z/project_detach_create_todolist_and_schedule_a_few/</link>
-      <description><![CDATA[ 由   提交/u/robogram96  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cy9c1z/project_detach_create_todolist_and_schedule_a_few/</guid>
-      <pubDate>Wed, 22 May 2024 19:43:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
