@@ -4,7 +4,84 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个 Reddit 子版块，用于分享和接收有关副项目的建设性反馈。</description>
-    <lastBuildDate>Thu, 23 May 2024 21:11:59 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 May 2024 00:56:51 GMT</lastBuildDate>
+    <item>
+      <title>创建了第一个开源人工记忆！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cz8c8j/created_the_first_opensource_artificial_memory/</link>
+      <description><![CDATA[大家好， 我想与大家分享我的一些旅程，也许可以得到一些建议或找到一些人对合作感兴趣。 大约六个月前，我受到 RewindAI 的启发，决定创建自己的本地记忆应用程序，名为“Recall”。我的想法是构建一些可以捕获和索引数字活动的东西，以便以后轻松记住和查找信息。 经过几个月的努力，我终于让 Recall 达到了运行良好的程度。我已经设法向他询问我一周前的活动信息，其中包含详细信息以及当地 llms 的所有信息！看到它组合在一起并真正实现我希望的效果真是令人兴奋。 但是，我昨天发现新的 Copilot+ 笔记本电脑有一个名为“召回”的功能。其作用几乎相同，但更好。有点震惊。我当时以为我有一些独特的东西，结果发现它已经大范围地存在了。 所以，现在我不知道该怎么想。我没有放弃，而是决定开源 Recall 并将其重命名为 reMind。我相信通过分享，也许你们中的一些人可能会有想法或想要帮助改进它。如果您有兴趣，我很乐意听取您的意见！ [Github](https://github. com/DonTizi/ReMind) [网站](http://www.recallmemory.io) 如果您可以在 Product Hunt 上为该申请投票，那就太好了：[ProductHunt](https ://www.producthunt.com/posts/remind-ai) 感谢您的阅读！如果您有任何问题或建议，请随时分享。   由   提交/u/DonTizi  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cz8c8j/created_the_first_opensource_artificial_memory/</guid>
+      <pubDate>Fri, 24 May 2024 00:41:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>有一个网站发布奥兰多周边当地牛肉的价格。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cz7v0t/there_is_a_site_that_you_post_prices_of_beef_at/</link>
+      <description><![CDATA[我觉得这个网站对那些生活拮据的人会有好处，可以去查找牛肉的实际价格。您可以发布肉的图片、价格以及您的同伴想要在帖子中包含的其他内容。您还可以给小费并询问特定地点的价格。   由   提交 /u/NewOCLibraryReddit   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cz7v0t/there_is_a_site_that_you_post_prices_of_beef_at/</guid>
+      <pubDate>Fri, 24 May 2024 00:16:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>我为 GPT-4o 等视觉语言模型制作了一个 PDF/URL Scraper。这是有关如何执行此操作的完整指南！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cz71qo/i_made_a_pdfurl_scraper_for_visionlanguage_models/</link>
+      <description><![CDATA[   /u/Emcf   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cz71qo/i_made_a_pdfurl_scraper_for_visionlanguage_models/</guid>
+      <pubDate>Thu, 23 May 2024 23:36:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>与价值数百万美元的公司竞争的 SaaS</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cz67sh/saas_that_competes_with_multimillion_dollar/</link>
+      <description><![CDATA[您好，我们提供了一个独特的机会来获取与价值数百万美元的公司竞争的 SaaS。 更多信息： https://www.sideprojectors.com/project/43082/all -in-one-ecommercepos-platform   由   提交/u/Commercial_Sundae_42   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cz67sh/saas_that_competes_with_multimillion_dollar/</guid>
+      <pubDate>Thu, 23 May 2024 22:56:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>我构建了一个 F1 客户端，它在比赛当天比您最喜欢的车队还要快！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cz5wn5/i_built_an_f1_client_that_is_faster_than_your/</link>
+      <description><![CDATA[   /u/_rittik  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cz5wn5/i_built_an_f1_client_that_is_faster_than_your/</guid>
+      <pubDate>Thu, 23 May 2024 22:42:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>试用我们的免费组织结构图工具</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cz5mvj/roast_our_free_org_chart_tool/</link>
+      <description><![CDATA[你们的孩子们怎么样？我们构建了一个免费的开源组织结构图构建器，因为我们在网上发现的所有其他工具都糟糕透顶。 请改进我们的工具，以便我们改进它。 https://whale-hackathon-2024.vercel.app/ 干杯， &lt; !-- SC_ON --&gt;  由   提交 /u/vanbutselegary   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cz5mvj/roast_our_free_org_chart_tool/</guid>
+      <pubDate>Thu, 23 May 2024 22:29:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>基于短片段的视频识别服务</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cz54zn/video_identification_service_based_on_short/</link>
+      <description><![CDATA[服务理念——通过用户分享的视频片段识别热门电影：  用户来了互联网（社交媒体）上的一段短视频，其中没有任何电影名称的指示。这是营销人员在 TikTok 或 Facebook 等平台上采用的常见策略。这些视频引人入胜，引起人们的兴趣，用户试图在线找到相应的电影，但却很困难。 这就是新服务发挥作用的地方。用户访问网站（或应用程序），从社交媒体平台输入视频的链接，然后收到电影标题、视频中事件发生的电影分钟以及立即导航到电影的选项合作伙伴流媒体服务之一上的页面。在那里，他们可以找到详细的描述以及购买或观看（如果已拥有）的选项。  结果：  该服务将高度积极的目标流量从社交媒体重定向到流媒体服务 它会产生点播电影标题的购买  您如何看待这种视频识别服务的可能商业模式？ 您认为这个概念在普通用户中的可行性和需求如何？   由   提交 /u/exdxv   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cz54zn/video_identification_service_based_on_short/</guid>
+      <pubDate>Thu, 23 May 2024 22:07:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何0$营销101？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cz4rub/how_to_0_marketing_101/</link>
+      <description><![CDATA[我最近这里开发了一个应用程序如果需要它的人知道它的存在，我会非常高兴。整个想法是一个 0 美元的项目，这意味着 0 美元的托管、0 美元的域名、0 美元的额外资源（如图标和视觉效果）。我应该尝试什么 SERP？或者撰写与应用程序相关的文章作为有机营​​销？社交媒体内容创作？   由   提交/u/Dull_Paramedic_6391   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cz4rub/how_to_0_marketing_101/</guid>
+      <pubDate>Thu, 23 May 2024 21:50:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了一种方法，可以自动在 Strava 新闻源中隐藏您的活动</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cz4pl2/i_created_a_way_to_automatically_hide_your/</link>
+      <description><![CDATA[并非所有活动都值得起立鼓掌。因此，我会在 Strava 的新闻源中隐藏某些活动（特别是带有巨大图像的 Peloton 类）。我想将其自动化，在看到其他人在 Strava 论坛上也有同样的需求后，我继续构建它。 如果您可以从中受益并希望有更多活动选择隐藏，请随时私信我。 https://hidemyrides.com/    由   提交/u/SingleExcitement  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cz4pl2/i_created_a_way_to_automatically_hide_your/</guid>
+      <pubDate>Thu, 23 May 2024 21:47:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>我建立了一个免费网站，帮助美国军事人员了解如何为退伍做好准备。我主要强调医疗和 VA 流程，但也涉及国防部计划，例如 TAP 和 Skillbridge。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cz4fap/i_built_a_free_website_to_help_us_military/</link>
+      <description><![CDATA[2023 年 11 月，我在服役 20 年后从军队退役，当我退伍时，我意识到我正经历着最后期限的挤压和日程安排冲突属于退出过程一部分的不同组织之间的关系。尽管我读过有关简历、工作面试、实习等等的内容，但我对过去 6 个月的混乱毫无准备。所以我创建了这个网站来分享我的经验 - 我想保持它免费（现在我可以负担得起）。  我使用了“课程模板”，这样我就可以将内容分成几个部分 - 而且课程格式允许人们跟踪他们已经看过的内容。  截至今天，我的网站已有 1800 次访问，但访问量很少。我有一些想要实现的更新，但在我采取步骤添加视频并在每个主题背后添加背景、深度和一些个性之前，我需要一些关于以下内容的反馈： 1 ）这些信息对任何人都有价值吗？我是否涵盖了其他人已经解决过的问题？ 2）用户界面如何？ （我尽量保持简单，以便可以在任何平台上轻松阅读 - 到目前为止，它已被浏览了约 1500 个移动平台/约 350 个台式机/8 平板电脑。 3）如上所述，我想要添加视频。您想看一个头部说话的视频（只有我和模糊的背景）吗？我是否也应该将其发布到 YouTube 上？ 4) 我还没有涉足社交媒体，因为我不想不知所措，但如果我这样做，我应该从哪里开始 - FB、Insta、TikTok？ 5）我会接受任何和所有其他反馈。  网站：www.thegettingoutguys.com ** 将来我会改变名称从“伙计们”改为“小队”，因为它应该包括我们军队中的每个人。 《伙计们》当时节奏很快，朗朗上口。  谢谢。    由   提交 /u/halfadashi   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cz4fap/i_built_a_free_website_to_help_us_military/</guid>
+      <pubDate>Thu, 23 May 2024 21:36:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>在（任何）IRC 客户端上模拟 AOL Instant Messenger？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1cz4b2a/emulating_aol_instant_messenger_on_any_irc_client/</link>
+      <description><![CDATA[寻找最简单的方式来模拟 AIM/AOL 以获得乐趣；希望使其成为我网站的标准 IRC。 欢迎提出任何建议。   由   提交/u/sk_nkw_rks   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1cz4b2a/emulating_aol_instant_messenger_on_any_irc_client/</guid>
+      <pubDate>Thu, 23 May 2024 21:31:22 GMT</pubDate>
+    </item>
     <item>
       <title>我构建了一个免费的 ASO 关键字优化器 ChatGPT 工具来帮助您进行关键字研究，以在应用商店中排名更高。</title>
       <link>https://www.reddit.com/r/SideProject/comments/1cz23dd/i_built_a_free_aso_keyword_optimizer_chatgpt_tool/</link>
@@ -32,83 +109,6 @@
       <description><![CDATA[    &lt; /a&gt;  我一直在构建一个网络安全调查平台，其中包含许多不同工具的混搭以及一些自定义功能，到目前为止它具有：  40 多种功能 安全手册（主题工具集合） 收集数据集的能力&lt; /li&gt; AI 安全副驾驶（……你必须在某个地方添加 Chat Jippity，对吧？） 持续监控能力  我要使用主题是尝试以“数据是美丽的”方式可视化工具......所以大量的图表和图表以及从各地提取数据集 现在我正在尝试学习一些营销并继续开发更多工具，直到我们第一次购买🫡欢迎任何反馈 网站是https://srcport.com    由   提交/u/Netcat2  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1cz1ckw/im_building_a_cyber_security_investigation/</guid>
       <pubDate>Thu, 23 May 2024 19:27:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>有任何正在寻找易于集成的反馈系统的副项目吗？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cz18qm/any_sideprojects_looking_for_an_easy_to_integrate/</link>
-      <description><![CDATA[所以我和我的朋友决定一起做这个项目，它是一个可以帮助其他 SaaS 构建者非常轻松地集成反馈系统的产品，同时也是一个非常完整的反馈方式。  我们得到了：  反馈小部件（它可以帮助您通过在 SaaS 网页中嵌入按钮来收集反馈）。 一个非常简单且高效的仪表板，具有不同的优先级，可以按主题等进行过滤... 一个新的浏览器扩展，可以通过在网络上的任何位置留下便签来与您的团队进行沟通（当尝试修复问题并通知您的团队时）开发人员，或为设计师寻找灵感......）。  这是登陆页面。 （我们很快就会添加我们自己的域名哈哈） 我很想听听您是否真的会使用这个产品！   由   提交 /u/FanaticRoute   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cz18qm/any_sideprojects_looking_for_an_easy_to_integrate/</guid>
-      <pubDate>Thu, 23 May 2024 19:23:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源 Gmail 自动化 CLI，用于 AI 支持的邮件合并和发送冷外展。看看吧，如果喜欢的话就加星标吧！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cz0o7g/open_source_gmail_automation_cli_for_ai_powered/</link>
-      <description><![CDATA[    /u/TheAreaProblem   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cz0o7g/open_source_gmail_automation_cli_for_ai_powered/</guid>
-      <pubDate>Thu, 23 May 2024 19:00:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>简而言之...</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cz0hkk/in_a_nutshell/</link>
-      <description><![CDATA[       由   提交/u/Radiant-Run4940  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cz0hkk/in_a_nutshell/</guid>
-      <pubDate>Thu, 23 May 2024 18:52:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>我做了一个短篇小说阅读应用程序：Kestrel</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cyzwvc/i_made_a_short_story_reading_app_kestrel/</link>
-      <description><![CDATA[应用程序是流动的、不断发展的事物。一月份，我萌生了制作一款应用程序来阅读小型历史事件的想法，比如鸸鹋大战。我觉得这很有趣，但最终我读完了东西。应用程序不断发展，我意识到我只是想花 5 分钟阅读一些有思想且有趣的内容。这就是 Kestrel 的火花，这是一款用于一口大小阅读的新应用程序。我还意识到，TikTok 非常适合让人们感到被关注，而 Kestrel 的目标是让人们感到被倾听。  如果您有兴趣查看：https://apps.apple .com/us/app/kestrel-stories/id6499554155   由   提交 /u/nothenryhill   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cyzwvc/i_made_a_short_story_reading_app_kestrel/</guid>
-      <pubDate>Thu, 23 May 2024 18:28:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>从就业过渡到通过副业赚钱</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cyzt0q/transitioning_from_employment_to_earning_from/</link>
-      <description><![CDATA[我希望这是提出这个问题的正确位置。我很好奇人们如何从为别人工作过渡到从自己的副业项目中赚钱，特别是当这些项目发展或采用付费模式时。  您是否成立了一家公司？可以在不成立公司的情况下做到这一点吗？ 您是否继续从事日常工作，同时从副业项目中获得资金？    由   提交/u/user90857  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cyzt0q/transitioning_from_employment_to_earning_from/</guid>
-      <pubDate>Thu, 23 May 2024 18:23:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个私人教练应用程序，您可以与它聊天和锻炼</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cyz58r/ive_created_a_personal_trainer_app_whom_you_can/</link>
-      <description><![CDATA[      欢迎尝试出 https://apps.apple.com/am/ app/jamie-ai-fitness-coach/id1615934122   由   提交/u/likwifi_  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cyz58r/ive_created_a_personal_trainer_app_whom_you_can/</guid>
-      <pubDate>Thu, 23 May 2024 17:56:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>30characters：一款帮助您更快地撰写有效搜索广告的 AI 工具。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cyz121/30characters_an_ai_tool_to_help_you_write/</link>
-      <description><![CDATA[       由   提交/u/rsam87   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cyz121/30characters_an_ai_tool_to_help_you_write/</guid>
-      <pubDate>Thu, 23 May 2024 17:52:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>我从制作第一个产品中学到了什么</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cyy2pj/what_ive_learned_from_making_my_first_product/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cyy2pj/what_ive_learned_from_making_my_first_product/</guid>
-      <pubDate>Thu, 23 May 2024 17:11:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>推荐、连接并获利🌐💫</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cyxn5n/refer_connect_and_profit/</link>
-      <description><![CDATA[       由   提交/u/Langaroo_US  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cyxn5n/refer_connect_and_profit/</guid>
-      <pubDate>Thu, 23 May 2024 16:54:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了顶级公司所有注册会计师职位的目录。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cyxjxy/ive_created_a_directory_of_all_cpa_jobs_at_top/</link>
-      <description><![CDATA[大家好，过去几个月我一直在努力创建所有公司的所有 CPA 职位的视图。 为什么？ 如果我正在寻找新工作，我不想访问每个会计师事务所的网站。 我也不想 100%依赖于对少数职位过度激励的招聘人员。 有注册会计师愿意提供一些反馈吗？ https://allfirmjobs.com/   由   提交 /u/simoncpa   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cyxjxy/ive_created_a_directory_of_all_cpa_jobs_at_top/</guid>
-      <pubDate>Thu, 23 May 2024 16:50:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>翻译、配音和口型同步任何视频 - app.vivalabs.ai</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1cyxh3m/translate_dub_lip_sync_any_video_appvivalabsai/</link>
-      <description><![CDATA[       由   提交 /u/CrackerNine   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1cyxh3m/translate_dub_lip_sync_any_video_appvivalabsai/</guid>
-      <pubDate>Thu, 23 May 2024 16:47:36 GMT</pubDate>
     </item>
     </channel>
 </rss>
