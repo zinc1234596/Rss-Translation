@@ -3,8 +3,22 @@
   <channel>
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
-    <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Fri, 24 May 2024 21:11:47 GMT</lastBuildDate>
+    <description>r/SideProject 是一个 Reddit 子版块，用于分享和接收有关副项目的建设性反馈。</description>
+    <lastBuildDate>Sat, 25 May 2024 00:55:20 GMT</lastBuildDate>
+    <item>
+      <title>为您提供免费文案</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1czyil0/giving_you_free_copywriting/</link>
+      <description><![CDATA[我将免费为您撰写一份副本。 我已经为一位客户做过这件事了（为他们建立了一个引导磁铁）。他们为此付给我 0 美元，但却能从中赚取数千美元。 这就是您得到的 - · 如果我的副本成功，您可以以 0 美元的小成本赚取数千美元（1000 美元以上）。 · 如果您不喜欢它，可以将其扔掉。 · 您完全不必承担任何风险。 · 您可以节省所有的文案费用。 您需要做的就是找到一种衡量我的副本效果的方法。 如果您有兴趣，请给我留言 - 我只会再接手 2-3 个免费项目。    提交人    /u/copywriter_for_fun   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1czyil0/giving_you_free_copywriting/</guid>
+      <pubDate>Fri, 24 May 2024 23:31:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>一秒将 JSON 数组转换为图表！自由的</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1czx0hh/convert_json_arrays_to_graphs_in_one_second_free/</link>
+      <description><![CDATA[亲爱的 reddit 副项目大家庭，我想介绍一下我最新的副项目：图表转换器！ TL;DR; url: https://chartconvert.com 这是一个从 json 数组制作图形和图表的工具。完全免费使用。目前它仅适用于平面 json 数组结构，但我将使其适用于 csv 和 markdown 数据。将来，可以直接将 Excel 文件作为数据导入，或许还可以将创建的图表下载为 Excel。 我从小做起，很乐意听取您的意见并获得您的建议。如果你想和我一起参与这项工作，也可以写。   由   提交/u/Ranorkk  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1czx0hh/convert_json_arrays_to_graphs_in_one_second_free/</guid>
+      <pubDate>Fri, 24 May 2024 22:21:05 GMT</pubDate>
+    </item>
     <item>
       <title>第一个网站项目：免费的私人视频转换器 - 感谢反馈！</title>
       <link>https://www.reddit.com/r/SideProject/comments/1czvemq/first_website_project_a_free_private_video/</link>
@@ -29,14 +43,14 @@
     <item>
       <title>饮水之友 API</title>
       <link>https://www.reddit.com/r/SideProject/comments/1cztd3g/drinkingmate_api/</link>
-      <description><![CDATA[我做了一个小项目，希望得到社区的反馈。我认为这个想法非常好。这是一个寻找饮酒伙伴的 API。无需注册。基本上，该应用程序只有一个按钮 - 当您按下它时，其他也想喝酒的人会在一个小时内看到您。 https://github.com/msobin/drinking-mate    提交人    /u/No_Sentence9826   [链接] [评论]]]></description>
+      <description><![CDATA[我做了一个小型宠物项目，很想从社区获得一些反馈。我认为这个想法非常好。这是一个用于寻找酒友的 API。无需注册。基本上，该应用程序只有一个按钮 - 当您按下它时，其他也想喝一杯的人会在一个小时内看到您。 https://github.com/msobin/drinking-mate   由   提交/u/No_Sentence9826   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1cztd3g/drinkingmate_api/</guid>
       <pubDate>Fri, 24 May 2024 19:40:32 GMT</pubDate>
     </item>
     <item>
       <title>需要对我的 nocode SaaS 提供反馈</title>
       <link>https://www.reddit.com/r/SideProject/comments/1czsrsz/feedback_for_my_nocode_saas_needed/</link>
-      <description><![CDATA[我为 B2B 销售人员创建了一个 nocode SaaS，只需邀请一个额外的电子邮件地址即可帮助减少会议缺席情况： https://sendattend.com 嘲笑我吧：）    提交人    /u/da0_1   [link] [评论]]]></description>
+      <description><![CDATA[我为 B2B 销售人员创建了一个 nocode SaaS，只需邀请一个额外的电子邮件地址即可帮助减少会议缺席情况： &lt; p&gt;https://sendattend.com 烤我吧:)   由   提交/u/da0_1  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1czsrsz/feedback_for_my_nocode_saas_needed/</guid>
       <pubDate>Fri, 24 May 2024 19:15:02 GMT</pubDate>
     </item>
@@ -55,16 +69,16 @@
       <pubDate>Fri, 24 May 2024 18:53:01 GMT</pubDate>
     </item>
     <item>
-      <title>链接缩短服务替代品？</title>
+      <title>链接缩短服务替代方案？</title>
       <link>https://www.reddit.com/r/SideProject/comments/1czs7zm/link_shortening_service_alternative/</link>
       <description><![CDATA[嘿大家，我正在为我的副项目寻找链接缩短服务，但我正在努力寻找适合我需求的服务 我的副项目基本上做的是每天从不同来源获取一堆链接，为了跟踪流量和其他指标，我想使用链接缩短服务，因为它们通常包括不错的分析仪表板 我真的很喜欢 LinkDrip(.)io，基本上是因为他们的计划允许无限链接（并且我需要处理大量链接），但他们目前没有 API，看起来像该项目处于非活动状态。 您知道类似的工具吗？没有考虑像 t(.)ly 或 bit(.)ly 这样的大链接，因为它们限制了您每月可以创建的链接数量，而且对于我需要处理的链接数量来说，它变得非常昂贵 &lt; /div&gt;  由   提交/u/Southern_Mud_58   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1czs7zm/link_shortening_service_alternative/</guid>
       <pubDate>Fri, 24 May 2024 18:51:41 GMT</pubDate>
     </item>
     <item>
-      <title>我抄袭了一家月收入 4 万美元的 SAAS 公司——事情是这样的……</title>
+      <title>我复制了每月 4 万美元的 SAAS 业务 – 发生了什么……</title>
       <link>https://www.reddit.com/r/SideProject/comments/1czrq1h/i_copied_a_40kmonth_saas_business_heres_what/</link>
-      <description><![CDATA[在为我的 SaaS 企业苦苦思索无数想法之后，我决定采取大胆的一步，复制一个经过验证的概念，每月产生 4 万美元的经常性收入 ( MRR）。以下是我的旅程的展开过程以及随之而来的疯狂结果。 https://youtu.be/rpVGWzrfWK0?si =g3Q5c42Zj7pp_qZ_   由   提交/u/sabli-jr  /u/sabli-jr  reddit.com/r/SideProject/comments/1czrq1h/i_copied_a_40kmonth_saas_business_heres_what/&quot;&gt;[链接] [评论]]]></description>
+      <description><![CDATA[在为我的 SaaS 创业公司考虑了无数想法之后，我决定迈出大胆的一步，复制一个经过验证的概念，该概念可产生 4 万美元的月度经常性收入 (MRR)。以下是我的旅程如何展开以及随之而来的疯狂结果。 https://youtu.be/rpVGWzrfWK0?si=g3Q5c42Zj7pp_qZ_    提交人    /u/sabli-jr   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1czrq1h/i_copied_a_40kmonth_saas_business_heres_what/</guid>
       <pubDate>Fri, 24 May 2024 18:30:17 GMT</pubDate>
     </item>
@@ -83,7 +97,7 @@
       <pubDate>Fri, 24 May 2024 18:12:05 GMT</pubDate>
     </item>
     <item>
-      <title>我们每天都免费看广告吧？他们应该付钱给我们观看所有这些广告，但他们不会所以我的网站将是一切的开始，但我需要你的帮助！请问您能帮助我创建一个建立在透明基础上的全民基本收入制度吗？</title>
+      <title>我们每天都免费看广告，对吧？他们应该付钱让我们看这些广告，但他们不会。所以我的网站将是一切的开始，但我需要你的帮助！请问，你能帮我创建一个建立在透明基础上的全民基本收入系统吗？</title>
       <link>https://www.reddit.com/r/SideProject/comments/1czr2qv/we_all_watch_advertisements_every_day_for_free/</link>
       <description><![CDATA[一切从一开始就完全公开 我需要你的帮助来建立信任 你每天都免费看广告，对吧？他们应该付钱给你来做这件事，我的网站将发起这波浪潮和运动，让每个人都为观看广告付费。我们正在创建一个人人都能理解的真正的全民基本收入制度。 一切从一开始就完全公开，我需要你的帮助来建立信任。一开始是免费的，直到每个人都注册并看到一切如何运作。然后，我们就可以开始收取广告费了。广告目前是免费的，用户可以像 Facebook 或其他社交媒体网站一样使用它 - 您免费发布并免费观看。 用户与广告的周期如何？广告商工作 想要投放广告的用户只需支付每条广告 2-20 美元起的小额费用，即可获得 30 天无限制浏览和链接点击的权限。这笔费用的 25% 进入有形现金池，35% 用于旨在改善世界的未来计划。与 Facebook 广告和 Google 广告相比，您可能只需支付 100 至 1000 美元一天的费用，并按每次链接点击付费。我们有能力通过合适的社区来主导这个行业。 广告由用户发布并免费展示给用户，让每个人都看到这如何能够创建一个真正的全民基本收入体系。我们将证明观看广告是令人愉快的，完成任务、推荐他人和使用该网站可以为您赚取真正的金钱。 透明且值得信赖 您将看到 Stripe 将如何发展向您付款以及 Stripe 是什么（领先的支付处理商）。一切都不会被隐瞒。 我是一个单身黑人，拥有 6 年编程知识和 3 年网页设计知识，所有这些知识都是从 YouTube 完全孤立地学到的。我不会以任何理由离开我的房间，但到了去非洲的时候，我会履行我的承诺。 没有人可以说我在骗人，因为在它启动之前你会看到一切。我正在做 Facebook 广告所做的事情，通过我的网站在我的网站上做广告。不同之处在于，在我发布广告并且广告商开始付费后，用户将从这些广告中获得收益。这清楚吗？我真的想让你明白这一点。这不可能是一个骗局。其他人也在这样做，而且它是100%免费的。我不获取个人信息；只有 Stripe 才会让您获得报酬。 Stripe 可以通过简单的 Google 搜索进行验证。 我们的愿景 该网站可以实现 3D 化，并且做到 100% 透明。部分资金将用于重建非洲和应对全球变暖。所有加入的用户都将对功能更改、损坏的内容以及修复的内容拥有发言权。你是我小组的一员。我需要你来完成这项工作，并向世界展示我不是在开玩笑。 观看我正在做的一切、编码以及其间的一切，这样你就明白我在做什么。这个系统可以为我们所有人观看互联网上的每一个广告付费。我们，普通人，可以创建自己的系统来修复这个世界。对于任何需要开展业务的人来说，广告都可以负担得起，而且拥有更多的钱并不会让你的事情变得更容易。每个人都有同样的机会被看到。这只是我计划的开始。只有认真的会员才能看到我正在制作的第二个网站。 加入运动 这只是我制作的。没有其他人提供帮助；不包括其他人。这整件事都是我自己做的。它拥有 Facebook 拥有的一切：消息、个人资料、视频播放器、帮助中心、支持、上传等。它还有更多：抽奖、升级和播放。硬币乘数系统，以及让每个人都推出该网站的推荐系统。 目前没有任何付费。我们作为一个团队正在创造它。将此视为我们正在创建的一个开源网站，旨在整合观看广告作为每个人获得基本收入的一种方式。如果您推荐其他人并且他们使用该网站，您就可以真正赚钱。你会看到来龙去脉，告诉我解决问题，然后你会验证这一切。 没有什么是隐藏的。我知道有太多的骗局，但在您的帮助和完全透明的情况下，从付款到支付处理器，到资金如何循环、资金来自何处以及将用于哪些项目，每一件事都将得到解决从头到尾都是公开的。我们将成功在 iclickwave.com 上创建人人都能理解的全民基本收入。 请问我可以获得您的支持吗？  &amp;# 32；由   提交 /u/Impossible-Decision1    reddit.com/r/SideProject/comments/1czr2qv/we_all_watch_advertisements_every_day_for_free/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1czr2qv/we_all_watch_advertisements_every_day_for_free/</guid>
@@ -95,20 +109,6 @@
       <description><![CDATA[我在业余项目中发现了很多成功/快乐。 但是，常常感到孤独。&lt; /p&gt; 所以我做了这个叫做 Nights &amp; 的东西。周末——你可以在晚上和周末做你的副业项目。周末放学/下班后。 你会和一群其他人一起做他们的副业/爱好。 6 周。任何想法。每周我们都会举办一次讲座和一个研讨会（设计、营销、写作、成长） 完全远程/全球。任何想法都可以。无论您是在建造火箭、人工智能应用程序，还是开办一家制作可爱日记的电子商务商店，这都没关系。 6 月 15 日开始。 查看： https://buildspace.so/begin   由   提交 /u/Farzaa   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1czqu3z/i_made_a_free_6week_program_to_help_you_work_on/</guid>
       <pubDate>Fri, 24 May 2024 17:52:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>患有信息肥胖症？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1czqrfx/suffering_from_infobesity/</link>
-      <description><![CDATA[Infobesity 是一种常见、严重且代价高昂的疾病，在全球范围内持续增加。 我想要新闻和社交的悬崖笔记媒体。帖子按相似性分组并总结为一句话。最近也更新了 UI。如果您喜欢/讨厌/对任何事情感到困惑，请告诉我。谢谢！ https://shortsnip.com   由   提交 /u/shortsnipadm   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1czqrfx/suffering_from_infobesity/</guid>
-      <pubDate>Fri, 24 May 2024 17:49:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 iOS 热门新闻应用中排名第 56！希望得到一些反馈</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1czqg8r/made_it_to_56_in_top_news_apps_for_ios_would_love/</link>
-      <description><![CDATA[   /u/schultz7  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1czqg8r/made_it_to_56_in_top_news_apps_for_ios_would_love/</guid>
-      <pubDate>Fri, 24 May 2024 17:36:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
