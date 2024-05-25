@@ -4,7 +4,35 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个 Reddit 子版块，用于分享和接收有关副项目的建设性反馈。</description>
-    <lastBuildDate>Sat, 25 May 2024 03:15:03 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 May 2024 06:18:14 GMT</lastBuildDate>
+    <item>
+      <title>月亮塔</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d057xb/moontower/</link>
+      <description><![CDATA[Moontower 是一个固执己见的期权分析平台，帮助期权交易者做出更好的决策。它包括 20 多个专有图表、教育组件、期权计算器等等。    由   提交 /u/Present_Sea8043   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d057xb/moontower/</guid>
+      <pubDate>Sat, 25 May 2024 05:53:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>我做了一件对每个人都有益的事</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d03oko/i_started_something_which_benefits_everyone/</link>
+      <description><![CDATA[大家好， 我已经成为一名企业家 15 年了，构建了各种失败和成功的项目。我最近的一次尝试是一款名为 TextCraftAI 的电子邮件自动化工具，在 Product Hunt 上推出后获得了巨大的关注，目前有 504 名注册客户在使用该产品。 在推出并获得关注后，许多人找到我来构建他们梦想的产品。他们经常分享与不可靠的国外开发商打交道、赔钱以及永远无法完成产品的挫败感。凭借我在大公司和初创公司工作的丰富开发经验，我看到了做出改变的机会。 这就是我创建 MVP Cat 的原因( https ://mvpcat.com）。我的服务帮助企业家在短短 20 天内以实惠的价格将他们梦想的产品变为现实。我了解某些开发服务可能会非常昂贵且令人失望，这就是为什么我们专注于在不花太多钱的情况下提供高质量的产品。 请随时访问我们的网站并分享您的反馈或随意批评它 。我总是愿意安排电话来了解有关您的项目和您面临的困难的更多信息。让我们一起创造伟大的东西。   由   提交 /u/pilotcodex   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d03oko/i_started_something_which_benefits_everyone/</guid>
+      <pubDate>Sat, 25 May 2024 04:14:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>去年毕业，我一直在独自开发一款 Roguelike，而不是找工作</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d03dsx/graduated_last_year_and_ive_been_solodeveloping_a/</link>
+      <description><![CDATA[        提交人    /u/Vortexile   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d03dsx/graduated_last_year_and_ive_been_solodeveloping_a/</guid>
+      <pubDate>Sat, 25 May 2024 03:56:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个开源应用程序，用于将图像转换为文本提示</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d02qym/i_made_an_open_source_app_for_turn_image_to_text/</link>
+      <description><![CDATA[我刚刚开源了一个 Web 应用程序，该应用程序使用复制 api 将图像转换为文本提示。我花了大约2天的时间构建了这个代码库的相当基础的版本，可以作为开发模板，只需稍作修改即可快速部署到vercel 欢迎使用， 如果您喜欢，请给个星 如果您有任何问题，可以在此处发表评论或提出问题 访问：https://github.com/wuyasong/imagetoprompt-ai   由   提交/u/owys128  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d02qym/i_made_an_open_source_app_for_turn_image_to_text/</guid>
+      <pubDate>Sat, 25 May 2024 03:18:49 GMT</pubDate>
+    </item>
     <item>
       <title>不要雇佣朋友来做你的业余项目</title>
       <link>https://www.reddit.com/r/SideProject/comments/1d028xc/dont_hire_friends_to_work_on_your_side_project/</link>
@@ -27,14 +55,14 @@
       <pubDate>Sat, 25 May 2024 02:01:51 GMT</pubDate>
     </item>
     <item>
-      <title>Linkedin ext：自动评论帖子（即使带有图片）</title>
+      <title>Linkedin ext：自动评论帖子（即使有图像）</title>
       <link>https://www.reddit.com/r/SideProject/comments/1d012j6/linkedin_ext_autocomment_on_posts_even_with_images/</link>
       <description><![CDATA[       由   提交/u/Witty_Side8702  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1d012j6/linkedin_ext_autocomment_on_posts_even_with_images/</guid>
       <pubDate>Sat, 25 May 2024 01:43:46 GMT</pubDate>
     </item>
     <item>
-      <title>我们制作了 Linktree 替代品</title>
+      <title>我们做了一个 Linktree 替代品</title>
       <link>https://www.reddit.com/r/SideProject/comments/1d00qyu/we_made_a_linktree_alternative/</link>
       <description><![CDATA[   我们制作了一个更便宜的版本： $0、$9/年、$19/年（不是每月！），我们正在努力以更便宜的成本提供大部分高级功能。  非常感谢您的建议🙏   由   提交/u/KennStack  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1d00qyu/we_made_a_linktree_alternative/</guid>
@@ -50,7 +78,7 @@
     <item>
       <title>一秒将 JSON 数组转换为图表！自由的</title>
       <link>https://www.reddit.com/r/SideProject/comments/1czx0hh/convert_json_arrays_to_graphs_in_one_second_free/</link>
-      <description><![CDATA[亲爱的 reddit 的 sideproject 家人，我想介绍我最新的 side project：Chart Converter！ TL;DR; url：https://chartconvert.com 这是一个从 json 数组制作图形和图表的工具。完全免费使用。目前它仅适用于平面 json 数组结构，但我会让它适用于 csv 和 markdown 数据。将来，可以直接将 Excel 文件作为数据导入，并可能将创建的图表下载为 Excel。 我从小处做起，我很乐意听到您的意见并得到您的建议。如果您想和我一起做这项工作，您也可以写信。    提交人    /u/Ranorkk   [链接] [评论]]]></description>
+      <description><![CDATA[亲爱的 reddit 副项目大家庭，我想介绍一下我最新的副项目：图表转换器！ TL;DR; url: https://chartconvert.com 这是一个从 json 数组制作图形和图表的工具。完全免费使用。目前它仅适用于平面 json 数组结构，但我将使其适用于 csv 和 markdown 数据。将来，可以直接将 Excel 文件作为数据导入，或许还可以将创建的图表下载为 Excel。 我从小做起，很乐意听取您的意见并获得您的建议。如果你想和我一起参与这项工作，也可以写。   由   提交/u/Ranorkk  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1czx0hh/convert_json_arrays_to_graphs_in_one_second_free/</guid>
       <pubDate>Fri, 24 May 2024 22:21:05 GMT</pubDate>
     </item>
@@ -81,34 +109,6 @@
       <description><![CDATA[我做了一个小型宠物项目，很想从社区获得一些反馈。我认为这个想法非常好。这是一个用于寻找酒友的 API。无需注册。基本上，该应用程序只有一个按钮 - 当您按下它时，其他也想喝一杯的人会在一个小时内看到您。 https://github.com/msobin/drinking-mate   由   提交/u/No_Sentence9826   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1cztd3g/drinkingmate_api/</guid>
       <pubDate>Fri, 24 May 2024 19:40:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要对我的 nocode SaaS 提供反馈</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1czsrsz/feedback_for_my_nocode_saas_needed/</link>
-      <description><![CDATA[我为 B2B 销售人员创建了一个 nocode SaaS，只需邀请一个额外的电子邮件地址即可帮助减少会议缺席情况： &lt; p&gt;https://sendattend.com 烤我吧:)   由   提交/u/da0_1  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1czsrsz/feedback_for_my_nocode_saas_needed/</guid>
-      <pubDate>Fri, 24 May 2024 19:15:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的应用程序注册时间不到 3 分钟，但很多用户表示注册时间太长。我错过了什么吗？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1czsm3c/it_takes_less_than_3_minutes_for_signup_on_my_app/</link>
-      <description><![CDATA[我构建了这个应用程序 - 它就像用于联合创始人匹配的 Tinder/Hinge。入职流程本质上需要一些联系信息，然后询问一些有关用户作为创始人的个人资料的问题。 我们的应用程序刚刚拥有 3000 名用户，但其中超过 300 名用户是停留在入职流程上。我们还收到了一些关于冗长的入职反馈。 有什么想法吗？ CoffeeSpace 入门示例   由   提交/u/java_nova   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1czsm3c/it_takes_less_than_3_minutes_for_signup_on_my_app/</guid>
-      <pubDate>Fri, 24 May 2024 19:08:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>我为欧洲初创公司建立了一个工作委员会：eu/acc jobs 🇪🇺💼</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1czs941/i_built_a_job_board_for_european_startups_euacc/</link>
-      <description><![CDATA[嗨，reddit！今天我推出了一个工作公告板，将欧洲初创企业与人才联系起来。欧洲科技界正在开始腾飞，有很多举措致力于改善生态系统。对于那些正在寻找科技工作或想要招聘的人来说，这是一个很好的机会。 这项计划是eu/acc 社区的一部分，旨在加速欧洲的创新和技术进步，同时推动更多有利于初创企业的法规。 我很乐意听取您对此、这个想法和整个网站的反馈。该网站的移动视图现在看起来有点粗糙，因此最好在桌面上查看🙏我现在的计划是开始向该领域的人们发送电子邮件，但可能你们中的一些人有更好的想法。 如果有人想发布工作，我很感激您的惠顾，我很乐意为您提供 30％ 的折扣代码。  这是链接：https://euaccjobs.webflow.io/  周末愉快！    提交人    /u/usiriczman   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1czs941/i_built_a_job_board_for_european_startups_euacc/</guid>
-      <pubDate>Fri, 24 May 2024 18:53:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>链接缩短服务替代方案？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1czs7zm/link_shortening_service_alternative/</link>
-      <description><![CDATA[嘿大家，我正在为我的副项目寻找链接缩短服务，但我正在努力寻找适合我需求的服务 我的副项目基本上做的是每天从不同来源获取一堆链接，为了跟踪流量和其他指标，我想使用链接缩短服务，因为它们通常包括不错的分析仪表板 我真的很喜欢 LinkDrip(.)io，基本上是因为他们的计划允许无限链接（并且我需要处理大量链接），但他们目前没有 API，看起来像该项目处于非活动状态。 您知道类似的工具吗？没有考虑像 t(.)ly 或 bit(.)ly 这样的大链接，因为它们限制了您每月可以创建的链接数量，而且对于我需要处理的链接数量来说，它变得非常昂贵 &lt; /div&gt;  由   提交/u/Southern_Mud_58   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1czs7zm/link_shortening_service_alternative/</guid>
-      <pubDate>Fri, 24 May 2024 18:51:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
