@@ -4,7 +4,42 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个 Reddit 子版块，用于分享和接收有关副项目的建设性反馈。</description>
-    <lastBuildDate>Sun, 26 May 2024 03:13:27 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 May 2024 06:16:34 GMT</lastBuildDate>
+    <item>
+      <title>启动拥有 100 个用户的 BIP</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d0u8mo/starting_a_bip_with_100_users/</link>
+      <description><![CDATA[ 由   提交/u/bernardino_luca  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d0u8mo/starting_a_bip_with_100_users/</guid>
+      <pubDate>Sun, 26 May 2024 05:15:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>已经做了9个月了，仍然没有赚到一毛钱，但已经花了超过13k。会喜欢任何指导。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d0tl3e/been_at_it_for_9_months_and_still_havent_made_a/</link>
+      <description><![CDATA[一些背景故事 我启动了Emailemu.com 于 2023 年 11 月推出，作为一个中心，您可以在其中发现、保存、跟踪和分析来自顶级公司的电子邮件。 对于我的第一次发布来说，这次发布非常稳定 前 30 天：  1.3 万页面浏览量 1.1 万唯一访客 120 个新帐户  前 90 天：  16000 页面浏览量  2.8k 唯一身份访问者 220 个帐户  自那时起：  每月平均页面浏览量为 7,100 次 每月访问量为 1,200 人 总共创建了 400 个帐户  当前情况 我们还没有成功地将任何免费用户转化为付费客户。 自 1 月份以来，我已在开发、后端服务和 SEO 代理机构上投入了 13,847 美元，但在营销上没有花一毛钱. 用户对话 每隔几周，我就会与营销人员和创始人（我们的目标受众）聊天，以更好地了解他们面临的挑战。这些讨论揭示了将我们的平台发展成为更全面的竞争性研究工具的巨大机会，这一点经常自然而然地出现。 愿景 这些见解明确了我们的长期目标：成为“营销内容和竞争对手跟踪的玻璃门”。 赌注 通过建立广泛的数据库在营销内容方面，我们希望吸引希望增强战略或监控竞争对手的创始人和企业。最终，这应该会为那些重视获取我们的数据和见解的人带来收入来源。 困境 到目前为止，我已经资助了一切我自己，虽然由于我的日常工作，我并没有陷入财务困境，但我正在思考我是否离这个项目太近而无法客观地看待它。我应该继续投资，还是应该调整支出？ 问题 我应该专注于尽快盈利，还是坚持长期投资- 长期愿景，因为我目前有奢侈这样做？我很想听听您的想法或建议。 我的计划 我倾向于坚持长期愿景。我的目标是在接下来的六个月内通过更多内容和品牌来丰富网站，以增加流量。然后，我将探索重要的盈利机会。 与此同时，我正在研究广告赞助以产生一些收入并尝试削减成本。幸运的是，我找到了一位渴望保持技能的开发人员，这应该有助于降低开发成本。   由   提交/u/Loud-Jelly-4120   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d0tl3e/been_at_it_for_9_months_and_still_havent_made_a/</guid>
+      <pubDate>Sun, 26 May 2024 04:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>ZAMP 简介：零配置 Apache MySQL PHP 服务器管理应用程序</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d0syyy/introducing_zamp_zero_configuration_apache_mysql/</link>
+      <description><![CDATA[这是我第一次这样做，我很高兴向您介绍 ZAMP 服务器，这是一个简化设置过程的应用程序建立和管理本地 Web 开发环境。借助 ZAMP，您可以获得一个零配置堆栈，其中包括 Apache、MySQL 和 PHP，所有这些都捆绑到一个用户友好的包中。ZAMP 允许在应用内加载多个项目，以便更轻松地导航并节省时间。 不要犹豫，请访问 github 存储库以了解有关 ZAMP 的更多信息 功能：  零配置：只需安装并运行。无需花费数小时配置您的环境。 集成管理：通过单一界面轻松管理 Apache、MySQL 和 PHP 服务。 扩展管理：通过简单的复选框界面启用或禁用 PHP 扩展。 版本控制：轻松下载并在不同的 PHP 版本之间切换。 &lt; li&gt;拖放项目设置：只需将项目文件夹拖放到 ZAMP 中即可开始。  我需要您的帮助： 我正在创建这个应用程序，希望它对其他人来说确实有用，并且它可以帮助新的网络开发人员创建应用程序。 目前，该项目刚刚开始创建，我要求你们提供反馈意见以改进它。 此外，我需要你们帮助我找到好的新想法来实施，同时也人们做出贡献 到项目。我现在19岁，我怀念经验：这就是为什么我需要你的帮助。如果你认为这个项目有趣，请留下一个星星：D Github 上的下载链接   由   提交 /u/Dovahkciin   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d0syyy/introducing_zamp_zero_configuration_apache_mysql/</guid>
+      <pubDate>Sun, 26 May 2024 03:54:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>我将制作一个 UGC 视频来免费宣传您的产品/服务</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d0sh6w/ill_make_an_ugc_video_to_promote_your/</link>
+      <description><![CDATA[大家好， 我正在使用 AI Actors 构建一个 UGC 视频生成器。我需要在我的网站上进行一些展示，所以只需将您的网站放在这篇文章中，我将为您制作一个免费的 UGC 视频（我也会将其放在我的登陆页面上） 再见！    由   提交/u/Even_Spot_3936   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d0sh6w/ill_make_an_ugc_video_to_promote_your/</guid>
+      <pubDate>Sun, 26 May 2024 03:23:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Party Ai 终极派对游戏！听取了您的反馈并改进了我的设计！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d0sc1z/party_ai_ultimate_party_game_took_your_feedback/</link>
+      <description><![CDATA[大家好！上次发布时我得到了一些非常好的建议，我觉得现在该项目更加完整并且看起来更“游戏”。我还添加了游戏预告片，并重新制作了所有 Play 商店和 ios 屏幕截图。 我还没有收到很多关于实际游戏玩法的反馈，所以如果更多人可以尝试一下，我真的很高兴并提供一些反馈。 我一直是 Jackbox 游戏和 Balderdash 等游戏的粉丝，因此我决定创建一个应用程序，最多可以让 10 人同时玩，以尝试吸引您的朋友猜测你的答案，而人工智能也会给出答案并创建提示。它有大量不同的类别，并且可以免费玩。 谢谢！ 游戏预告片：https://www.youtube.com/watch?v=QY3hDYxdOnA Google Play：https://play.google.com/store/apps/details?id=com.luck3yapps.revel_ai IOS：&lt; a href=&quot;https://apps.apple.com/us/app/revel-ai/id6448139181&quot;&gt;https://apps.apple.com/us/app/revel-ai/id6448139181   由   提交/u/codyweis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d0sc1z/party_ai_ultimate_party_game_took_your_feedback/</guid>
+      <pubDate>Sun, 26 May 2024 03:14:37 GMT</pubDate>
+    </item>
     <item>
       <title>Yapm：注重隐私的离线密码管理器</title>
       <link>https://www.reddit.com/r/SideProject/comments/1d0s5y5/yapm_a_privacyfocused_offline_password_manager/</link>
@@ -71,44 +106,9 @@
     <item>
       <title>我制作了一个免费工具来帮助您为下一个项目获取一个好的域名</title>
       <link>https://www.reddit.com/r/SideProject/comments/1d0kp25/i_made_a_free_tool_to_help_you_snag_a_good_domain/</link>
-      <description><![CDATA[我一直在寻找可以在未来的项目或业务中使用的优质域名。 找到优质且价格实惠的域名的最佳方法是搜索过期/已删除的域名网站并希望能幸运，但是这些网站中的大多数都非常难以导航，并且需要您每天手动检查。 &lt; p&gt;作为自己解决问题的一种方法，我决定构建域名抢劫，它可以帮助您为您的下一个域名抢夺有价值的域名通过发送符合您搜索条件的已删除域名的每日摘要来开展业务或创意。 我今天推出了 v1，如果您有时间查看，我希望得到一些反馈。干杯！   由   提交 /u/LieIgnorant6304   [链接] [评论]]]></description>
+      <description><![CDATA[我一直在寻找好的域名，以便在未来的项目或业务中使用。 找到优质且价格合理的域名的最佳方式是搜索已过期/已删除的域名网站，并希望能幸运地找到，但是大多数此类网站都难以导航，需要您每天手动检查。 为了自己解决这个问题，我决定构建Domain Heist，它通过发送符合您搜索条件的已删除域名的每日摘要，帮助您为下一个业务或想法抢占有价值的域名。 我今天推出了 v1，如果您有时间查看，我将非常乐意提供一些反馈。干杯！    提交人    /u/LieIgnorant6304   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1d0kp25/i_made_a_free_tool_to_help_you_snag_a_good_domain/</guid>
       <pubDate>Sat, 25 May 2024 20:23:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>我正在做一个社会实验，需要你的帮助</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d0kno9/im_doing_a_social_experiment_and_i_need_your_help/</link>
-      <description><![CDATA[下面是指向 Google Slides 文档的链接。任何知道此链接的人都可以编辑幻灯片。以下是我希望您执行的操作： https://docs.google.com/presentation  添加任何内容。可以是文本、图片、另一张幻灯片，任何您想要的内容。 与尽可能多的人分享此链接。     提交人    /u/Kendelstar5   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d0kno9/im_doing_a_social_experiment_and_i_need_your_help/</guid>
-      <pubDate>Sat, 25 May 2024 20:21:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>看了很多 Tarpit Idea 讨论，所以我创建了一个免费工具。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d0k358/been_seeing_lots_of_tarpit_idea_discourse_so_i/</link>
-      <description><![CDATA[我最近看到了很多关于如何确定一个想法是否是 tarpit 的帖子，所以我决定制作一个免费工具来帮助。该工具可帮助通过各种指标衡量您的想法，并提供为什么某个想法是或不是 tarpit 的理由。 查看 https://www.IsItATarpit.com 如果您想尝试一下。很高兴听到任何反馈；我希望该工具对你们中的一些人有用。 :)   由   提交 /u/cyailein   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d0k358/been_seeing_lots_of_tarpit_idea_discourse_so_i/</guid>
-      <pubDate>Sat, 25 May 2024 19:54:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>从初学者到生产。我们首款采用虚幻引擎 5 的人工智能驱动儿童应用程序！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d0jg5z/from_beginners_to_production_our_first_aipowered/</link>
-      <description><![CDATA[二月份，我和我的前同事开始了一项有趣的挑战。由于游戏开发经验为零，我们决定进入虚幻引擎 5。我们的想法是为孩子们构建一款由 AI 支持的应用程序，为他们提供一个可爱的 3D 角色，以便在大人不在身边或感到不舒服时与他们交谈与成年人讨论某些事情。我们看到了孩子们如何与 Alexa 和 Siri 互动，但大多数对话都令人失望。这激励我们创造出更好的东西。 经过几个月的学习、实验和克服多项挑战，我们很高兴地宣布，我们刚刚在 Google Play 商店推出了我们的第一个移动应用！ Google Play 商店 我们计划添加其他功能可能还有新的应用程序，因此您的反馈、评论或建议将会非常有帮助。这是我们的预告片： YouTube 预告片   由   提交/u/futurefunstudios   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d0jg5z/from_beginners_to_production_our_first_aipowered/</guid>
-      <pubDate>Sat, 25 May 2024 19:23:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何为您的着陆页编写转换内容</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d0j576/how_to_write_converting_content_for_your_landing/</link>
-      <description><![CDATA[仅仅拥有有吸引力的目标网页是不够的；还需要更多的努力。内容或“副本”必须具有说服力和相关性。您的文案应涵盖几个关键点，以有效地将访问者转化为潜在客户。 解决痛点 识别并阐明目标受众面临的问题。例如，如果您销售生产力软件，您可能会解决杂乱的工作流程的痛点：“难以跟踪任务和截止日期？” 展示您的解决方案 &lt; p&gt;清楚地解释您的产品/服务如何解决痛点。例如，“我们直观的任务管理系统简化了您的工作流程，确保轻松满足最后期限。” 包括社会证明 社会证明对于说服访问者非常有效。使用与您合作过的品牌的徽标、推荐、评论或统计数据来显示其他人已从您的解决方案中受益。例如，展示类似的感言：“我从来不知道管理项目可以这么简单！” - John D.，首席执行官。” 预先回应异议 在潜在异议出现之前预测并解决它们。如果一个常见的反对意见是成本，您可能会反驳：“免费开始，看看您的生产力有何不同。”无需信用卡。” 建立信任 建立信任对于转化至关重要。除了使用社交证明之外，您还可以通过以下方式建立信任：  以对话语气写作并直接向访问者讲话。 引用统计数据支持你的主张。例如，“加入超过 10,000 名满意的客户。” 使用案例研究来展示与您的受众相关的成功案例。例如，“了解 X 公司如何利用我们的软件将生产力提高 30%。” 对您的旅程和经历保持相关和诚实，同时关注他们的  使用点击触发器 在 CTA 附近添加以下元素：“30 天退款保证”或“今天加入成千上万满意的客户！” 这是我第一次尝试编写信息丰富的文本，我试图保持简短。如果您已经达到这一点，我将非常感谢您提供的任何反馈。无论是清晰度、组织性、语气还是您注意到的其他任何方面，您的见解都将帮助我改进。  祝你有美好的一天！   由   提交 /u/Matox-_-   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d0j576/how_to_write_converting_content_for_your_landing/</guid>
-      <pubDate>Sat, 25 May 2024 19:09:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>为业余项目寻找合作者</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d0j1rn/finding_collaborators_for_a_side_project/</link>
-      <description><![CDATA[如何找到有兴趣构建业余项目（可能是开源的）以获取乐趣的合作者。这个或其他 Reddit 子版块在这方面有用吗？    由   提交 /u/rcglider   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d0j1rn/finding_collaborators_for_a_side_project/</guid>
-      <pubDate>Sat, 25 May 2024 19:04:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
