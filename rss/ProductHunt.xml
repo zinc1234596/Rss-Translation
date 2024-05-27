@@ -2,14 +2,14 @@
 <rss version="2.0">
   <channel>
     <title>Product Hunt——每天最好的新产品</title>
-    <link>http://www.producthunt.com</link>
+    <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Mon, 27 May 2024 09:14:03 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 May 2024 12:24:08 GMT</lastBuildDate>
     <item>
       <title>条纹66</title>
       <link>https://www.producthunt.com/posts/streaks66</link>
       <description><![CDATA[
-            带人工智能的日常习惯跟踪器
+            人工智能日常习惯跟踪器
           
 
 讨论
@@ -23,7 +23,7 @@
       <title>&udm=14</title>
       <link>https://www.producthunt.com/posts/udm-14</link>
       <description><![CDATA[
-            无需任何额外工作即可快速获得无人工智能搜索的方法
+            无需任何额外工作即可快速获得免费人工智能搜索的方法
           
 
 讨论&lt; /a&gt;
@@ -37,12 +37,12 @@
       <title>字符映射表4.0</title>
       <link>https://www.producthunt.com/posts/charmap-4-0</link>
       <description><![CDATA[
-            适用于 iPhone 和 iPhone 的 Unicode 查看器和键盘
-          
+适用于 iPhone 和 iPhone 的 Unicode 查看器和键盘
+
 
 讨论
-            |
-            链接
+|
+链接
 ]]></description>
       <guid>https://www.producthunt.com/posts/charmap-4-0</guid>
       <pubDate>Sun, 26 May 2024 17:45:59 GMT</pubDate>
@@ -51,12 +51,12 @@
       <title>产品是什么</title>
       <link>https://www.producthunt.com/posts/what-the-product</link>
       <description><![CDATA[
-            您的即时产品分析工具
-          
+您的即时产品分析工具
+
 
 讨论
-            |
-            链接
+|
+链接
 ]]></description>
       <guid>https://www.producthunt.com/posts/what-the-product</guid>
       <pubDate>Sat, 25 May 2024 23:33:59 GMT</pubDate>
@@ -65,7 +65,7 @@
       <title>ChatGPT 记事本</title>
       <link>https://www.producthunt.com/posts/chatgpt-notepad</link>
       <description><![CDATA[
-            编辑更少，创造更多 – 非常适合格式化 GPT 内容。
+            编辑更少，创建更多 – 非常适合格式化 GPT 内容
           
 
 讨论&lt; /a&gt;
@@ -90,7 +90,7 @@
       <pubDate>Sat, 25 May 2024 08:33:17 GMT</pubDate>
     </item>
     <item>
-      <title>愛琪</title>
+      <title>爱奇艺</title>
       <link>https://www.producthunt.com/posts/iki-ai</link>
       <description><![CDATA[
             LLM驱动的智能知识界面
@@ -163,7 +163,7 @@
       <title>玛莉</title>
       <link>https://www.producthunt.com/posts/marlee</link>
       <description><![CDATA[
-            借助 AI 更快地打造更好的团队
+            利用人工智能更快地打造更好的团队
           
 
 讨论
@@ -174,7 +174,7 @@
       <pubDate>Tue, 07 May 2024 10:14:04 GMT</pubDate>
     </item>
     <item>
-      <title>服装.fm</title>
+      <title>Outfit.fm</title>
       <link>https://www.producthunt.com/posts/outfit-fm</link>
       <description><![CDATA[
             您的虚拟更衣室
@@ -202,7 +202,7 @@
       <pubDate>Wed, 17 Apr 2024 15:06:16 GMT</pubDate>
     </item>
     <item>
-      <title>CoinPays 支付网关</title>
+      <title>CoinPays支付网关</title>
       <link>https://www.producthunt.com/posts/coinpays-payment-gateway</link>
       <description><![CDATA[
             使用加密货币安全快速地支付
