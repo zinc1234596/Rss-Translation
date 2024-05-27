@@ -3,112 +3,112 @@
   <channel>
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
-    <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Mon, 27 May 2024 15:14:20 GMT</lastBuildDate>
+    <description>r/SideProject 是一个 Reddit 子版块，用于分享和接收有关副项目的建设性反馈。</description>
+    <lastBuildDate>Mon, 27 May 2024 21:12:56 GMT</lastBuildDate>
     <item>
-      <title>从副业项目转变为全职项目。启动我的游戏应用程序，让您可以与朋友竞争，并且希望得到一些反馈和测试版用户。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d1tnno/made_the_switch_from_side_project_to_full_time/</link>
-      <description><![CDATA[我一直在从事一个名为 RivalRyze 的业余项目。 4 个月前，我辞去了工作，一直在努力争取 MVP。在这个平台上，用户可以与自己、社区以及朋友/敌人竞争。目前，我们支持每一款 Steam/PSN 游戏。 以下是我们在此版本中重点关注的功能列表：  Web 平台可让您连接所有游戏游戏配置文件 展示您的游戏成就、游戏库、成就 自定义积分系统 跨平台支持每个 SINGLY steam、psn 游戏及其所有成就 不同的挑战模式： 排名竞赛（竞技游戏） 成就猎人 白金追求 完成者  成就全球/每周排行榜 Discord 机器人： 当朋友获得成就时，在您的 Discord 服务器中获取更新  li&gt; 挑战更新 完整游戏库   如果您对其中任何内容感兴趣，请随时向我发送DM 和我将邀请您参加内测。   由   提交 /u/FredlyFire   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d1tnno/made_the_switch_from_side_project_to_full_time/</guid>
-      <pubDate>Mon, 27 May 2024 15:06:53 GMT</pubDate>
+      <title>口音 - 任何句子中每个单词的精确发音反馈</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d220ah/accent_precise_feedback_on_pronunciation_for/</link>
+      <description><![CDATA[您是否见过一种工具，可以针对您想要练习的任何句子提供逐字精确的发音反馈？ &lt;当谈到学习发音时，语音识别技术是许多人的首选。如果它明白你所说的，那么你就可以走了。但这只是简单的通过或失败。 我设想的是一种更详细的方法。语音转文本 API 通常会提供单词级概率，显示系统识别每个单词的信心。高概率意味着您的发音已经掌握，而低概率则表明还有改进的空间。我们的想法是利用这些概率来提供更精确的反馈。 我整理了一些文档工具。但在开始开发之前，我想确保我没有重新发明轮子。如果您知道任何可以执行此操作的工具，请告诉我！我真的很感激任何反馈。 有些人可能认为这样的工具可能会延续语言歧视。由于开发了这样的应用程序，我可能会被称为口音主义者，甚至更糟糕的是，种族主义者。至少我对此并不虚伪。电视节目主持人经常用同样完美、标准的口音宣扬种族主义和多样性。口音胜于雄辩！   由   提交/u/8ta4  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d220ah/accent_precise_feedback_on_pronunciation_for/</guid>
+      <pubDate>Mon, 27 May 2024 20:52:52 GMT</pubDate>
     </item>
     <item>
-      <title>Zeve AI Planner 更新：Motion 和 Sunsama 替代方案</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d1ticw/update_on_zeve_ai_planner_motion_sunsama/</link>
-      <description><![CDATA[   /u/iayazalam  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d1ticw/update_on_zeve_ai_planner_motion_sunsama/</guid>
-      <pubDate>Mon, 27 May 2024 15:00:40 GMT</pubDate>
+      <title>用于分析 Instagram 卷轴的 Chrome 扩展</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d21vx6/chrome_extension_to_analyse_instagram_reels/</link>
+      <description><![CDATA[    &lt; /a&gt;  这里是链接 - Insta Insight https://chromewebstore.google.com/detail/insta-insight/pknilpgbmejebohnilnmdmhjkmjddajf?authuser=0&amp;hl=en    由   提交 /u/_procastinating   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d21vx6/chrome_extension_to_analyse_instagram_reels/</guid>
+      <pubDate>Mon, 27 May 2024 20:47:37 GMT</pubDate>
     </item>
     <item>
-      <title>Fatms + AI 的彭博终端</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d1ti23/a_bloomberg_terminal_for_fatms_ai/</link>
-      <description><![CDATA[大家好， 我刚刚启动了我的副项目 Field Hawk，它是使用人工智能的 Bloomberg 终端。 Field Hawk 利用先进的人工智能和深度分析来实时洞察您的土壤、天气和作物状况，并提供个性化、可操作的建议。我们的平台可帮助您优化种植时间、灌溉计划和肥料使用，同时预测和预防潜在的病虫害爆发。最重要的是，它完全免费。 请访问 https://fieldhawk.ai/ 查看我们的信息  由   提交 /u/robloxaccountbuyer   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d1ti23/a_bloomberg_terminal_for_fatms_ai/</guid>
-      <pubDate>Mon, 27 May 2024 15:00:21 GMT</pubDate>
+      <title>🚀 介绍 MixMyAI</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d20yb8/introducing_mixmyai/</link>
+      <description><![CDATA[🚀 介绍 MixMyAI！ 🌟 满足您所有人工智能需求的一站式解决方案。不同供应商无需支付月费 - 只需随用随付！ 💰 所有模型都在一个屋檐下，从视觉、图像到文本。 📸📝 💸 史上最便宜的价格！ 🤑 MixMyAI 提供封闭和开源模型，为您提供最佳的定价选择。 📊 始终保持最新型号——旧型号已退役！ 🔄 🔒 隐私第一！ 🙌 我们不会在我们的服务器上存储您的任何聊天记录。我们透明的仪表板可帮助您跟踪您的支出。 💡📈 🖥️ 强大的用户界面！ 🔍 搜索您的聊天记录、保存提示、使用各种工具并调整每个 LLM 设置。 MixMyAI 让这一切变得简单易用！ 📂✨ 🌟 MixMyAI：您所有的人工智能需求都集中在一个地方！ 🏆 享受最人性化的界面、无缝搜索以及对人工智能模型的最终控制。今天就开始体验差异吧！ 🚀🌐 请访问我们   由   提交 /u/Adventurous_Tune_882   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d20yb8/introducing_mixmyai/</guid>
+      <pubDate>Mon, 27 May 2024 20:09:24 GMT</pubDate>
     </item>
     <item>
-      <title>如果你有 SaaS，请查看这个拥有 +300 个 SaaS 分销渠道的网站，以吸引付费客户 - 试用我们的演示</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d1ss45/if_you_have_a_saas_check_this_website_with_300/</link>
-      <description><![CDATA[       由   提交 /u/Inevitable-Baker-504   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d1ss45/if_you_have_a_saas_check_this_website_with_300/</guid>
-      <pubDate>Mon, 27 May 2024 14:28:03 GMT</pubDate>
+      <title>预防</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d1zz7i/profylix/</link>
+      <description><![CDATA[嘿r/SideProject， 我很高兴与大家分享我的业余项目 Profylix。 Profylix 是一个平台，可让您创建可定制的个人资料，以展示您独特的身份、兴趣和成就。 为什么选择 Profylix？  定制 ：定制您的个人资料以反映您的个性和风格。 联系：与他人分享您的个人资料并根据共同兴趣进行联系。 可见度：在您的个人和职业网络中脱颖而出。  参与其中！ 我们正在寻找早期采用者注册并帮助我们塑造Profylix 的未来。通过注册，您将获得独家更新、抢先体验以及提供宝贵反馈的机会。 此处注册 加入我们这个激动人心的旅程！ 感谢您的关注！   由   提交 /u/isuckatcodelol   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d1zz7i/profylix/</guid>
+      <pubDate>Mon, 27 May 2024 19:34:31 GMT</pubDate>
     </item>
     <item>
-      <title>我擅长销售，但需要销售产品</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d1srrr/im_good_with_sales_but_need_a_product_to_sell/</link>
-      <description><![CDATA[大家好！ 我已经在软件领域工作了一段时间，但是，我还没有什么天赋足以开始开发我自己的 SaaS 东西了。  不过，我擅长的是销售。入站、出站、推销电话，应有尽有。  这里有人希望增加产品销量吗？  我绝不拥有提供这些服务或任何类似服务的企业。我只是厌倦了为某人工作，并认为是时候与某人一起工作了。 我工作过的一些空间：  教育科技 &lt; li&gt;内容管理（社交媒体） 餐厅管理  我愿意接受任何想法！ &lt;!-- SC_ON - -&gt;  由   提交 /u/Mighty_zinger21   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d1srrr/im_good_with_sales_but_need_a_product_to_sell/</guid>
-      <pubDate>Mon, 27 May 2024 14:27:37 GMT</pubDate>
+      <title>免费启动 SaaS 并提高知名度的平台列表</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d1zomu/list_of_platform_to_start_your_saas_and_boost/</link>
+      <description><![CDATA[与这个小组中的很多人一样，我正在开发一个项目，但我希望它会变得更大。但更大意味着更多的流量，而且很难不付出代价就获得知名度。希望有很多平台可以推出您的产品，但是您还有更多平台吗？ 我将用您的答案更新列表，以使我的帖子有所帮助！   Product Hunt 微型发布 indiepa Betalist App Sumo 替代方案。我 pitchwall indiehackers indiehackerstacks toolfinder    由   提交 /u/Thibots   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d1zomu/list_of_platform_to_start_your_saas_and_boost/</guid>
+      <pubDate>Mon, 27 May 2024 19:23:41 GMT</pubDate>
     </item>
     <item>
-      <title>我为个体企业家建立了一个免费的商业计划生成器</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d1spdb/i_built_a_free_business_plan_generator_for/</link>
-      <description><![CDATA[   /u/kronopsizm   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d1spdb/i_built_a_free_business_plan_generator_for/</guid>
-      <pubDate>Mon, 27 May 2024 14:24:26 GMT</pubDate>
+      <title>这是构建我的项目的美好一周！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d1ycxp/been_a_great_week_building_out_my_project/</link>
+      <description><![CDATA[在过去的一周里，我：  将 Google Search Console 集成到我的 SEO 工具中， 设置一些见解，通过网站上按优先顺序排列的网页列表来回答一系列有关网络性能的简单问题， 创建了一个简单模式按钮，可以解决问题的核心没有大数据的干扰（尽管仍然有大数据）， 制作了动态更新菜单以适应尽可能多的网站更新， 并设置一个预先计算的网站测量值的数据库表，以便在从数据库中挖掘好东西时更快地响应和页面加载。  很高兴看到这来自一个极客工具对于每个人来说，GSC 集成只是部分设置。就这个软件的可能性而言，即使是早期的数据也能改变游戏规则。 这是一个巨大的个人胜利，而且附带的好处也不错……在遇到一些问题后，我自己的网站正在蓬勃发展。新代码发现了新问题...看到我的宝宝长大并做我想做的事情真是太棒了。 任何胜利都是好的胜利，但该死的是到达这里的旅程，并且我什至不“在那里”。    由   提交/u/Comptrio  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d1ycxp/been_a_great_week_building_out_my_project/</guid>
+      <pubDate>Mon, 27 May 2024 18:29:30 GMT</pubDate>
     </item>
     <item>
-      <title>烤我的 BI 产品</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d1sd2g/roast_my_bi_product/</link>
-      <description><![CDATA[您好，我的公司最近上线了，我们提供人工智能数据分析师（我知道最近出现了很多这样的产品）作为产品。鉴于该小组的成员可能是我们的目标群体，我想问你们中是否有人愿意检查该产品（免费）并为此付出两分钱。您可以在 www.turbular.com   &amp;# 找到该网站32；由   提交/u/RaeudigerRaffi  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d1sd2g/roast_my_bi_product/</guid>
-      <pubDate>Mon, 27 May 2024 14:08:27 GMT</pubDate>
+      <title>IdeaRoost.app - 本质上是该子项目的货币化版本，但没有垃圾邮件，它直接奖励贡献者。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d1xqq0/idearoostapp_essentially_a_monetized_version_of/</link>
+      <description><![CDATA[   /u/Radiant-Run4940  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d1xqq0/idearoostapp_essentially_a_monetized_version_of/</guid>
+      <pubDate>Mon, 27 May 2024 18:03:02 GMT</pubDate>
     </item>
     <item>
-      <title>我最新的实验是一个社交网络，它能把地方的照片变成诗歌</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d1sbun/my_newest_experiment_is_a_social_network_kinda/</link>
-      <description><![CDATA[        提交人    /u/Gmoi6   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d1sbun/my_newest_experiment_is_a_social_network_kinda/</guid>
-      <pubDate>Mon, 27 May 2024 14:06:52 GMT</pubDate>
+      <title>我制作了一款免费应用程序，通过游戏化的方式帮助您实现目标（无需任何经验，也无需外包）</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d1xhze/i_made_a_free_app_that_is_a_gamified_approach_to/</link>
+      <description><![CDATA[    /u/statisfai   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d1xhze/i_made_a_free_app_that_is_a_gamified_approach_to/</guid>
+      <pubDate>Mon, 27 May 2024 17:52:44 GMT</pubDate>
     </item>
     <item>
-      <title>Lazy-Test.com ：使用 AI 创建测验，测试您的知识并与朋友分享/竞争</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d1s3bo/lazytestcom_create_quizzes_with_ai_test_your/</link>
-      <description><![CDATA[       由   提交 /u/Remarkable-Face-3017   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d1s3bo/lazytestcom_create_quizzes_with_ai_test_your/</guid>
-      <pubDate>Mon, 27 May 2024 13:56:24 GMT</pubDate>
+      <title>在拥挤的市场中，新的招聘委员会有意义吗？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d1xekm/does_a_new_job_board_makes_sense_in_a_crowded/</link>
+      <description><![CDATA[今天我发布了一篇 Medium 帖子来解释我们创建求职板的原因。 我很乐意收到有关以下方面的反馈：其背后的原因以及指导我们的四个原则：  找工作应该是免费的，或者至少价格合理。 寻找相关机会应该简单快捷. 求职者应该远离诈骗。 求职者应该能够使用与招聘人员相同的人工智能工具。  https://medium.com/@gusepo/navigating-the-job-market-storm-b​​ad5bb8dc548   由   提交/u/CUCVjobs  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d1xekm/does_a_new_job_board_makes_sense_in_a_crowded/</guid>
+      <pubDate>Mon, 27 May 2024 17:48:30 GMT</pubDate>
     </item>
     <item>
-      <title>刚刚在 App Store 上推出了我的第一个应用程序 - Dailies</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d1rh7t/just_launched_my_first_app_on_the_app_store/</link>
-      <description><![CDATA[      大家好！我非常高兴能与这个社区分享一个重要的里程碑：经过七个月的开发，我推出了我的第一个 iOS 应用 Dailies。到目前为止，我的旅程并非一帆风顺；它始于早期的挣扎，随着我深入研究这个过程，这种挣扎慢慢变成了一种激情。 该应用的主要理念是让它不仅仅是一个习惯追踪器；它是日记、待办事项列表和生产力追踪器的混合体——所有这些都融入了一个直观的应用中。当您使用它来管理您的日常任务和追踪您的习惯时，您将获得金币。然后，您可以在完全控制的物品商店中使用这些硬币，这样您就可以奖励自己的辛勤工作而不会感到任何内疚。 您可以在这里的 App Store 上查看：( https://apps.apple.com/us/app/dailies-habit/id6502421000 )。如需更深入地了解 Dailies 提供的功能以及它如何帮助您，请查看此处的指南：( https://dailieshabit.com/guide/ )。 非常感谢您的反馈。它对于完善 Dailies 并使其变得更好非常有价值。非常感谢您的支持，我迫不及待地想听到您的想法。   由    /u/aymantj  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d1rh7t/just_launched_my_first_app_on_the_app_store/</guid>
-      <pubDate>Mon, 27 May 2024 13:26:21 GMT</pubDate>
+      <title>吐槽我的产品：fullscrap.com（一款免费的 Google 地图抓取工具，带有 WhatsApp 检查器）</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d1wzmv/roast_my_product_fullscrapcom_a_free_google_maps/</link>
+      <description><![CDATA[      嗨，有, 当我在寻找公司时，我发现在 WhatsApp 上更容易得到答案。今天有谷歌地图抓取工具，但我不知道它们有什么用。所以我制作了这个工具来提取按行业、国家、城市分类的任何类型的业务，然后我告诉你它们是否在 WhatsApp 上。尝试 FullScrap，它 100% 免费 https://preview.redd.it/a30hlda7e03d1.png?width=2872&amp;format=png&amp;auto=webp&amp;s =f20be08b0b4da95c70697a8a7d956d503f6c06cc    由   提交/u/n1colasss  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d1wzmv/roast_my_product_fullscrapcom_a_free_google_maps/</guid>
+      <pubDate>Mon, 27 May 2024 17:30:20 GMT</pubDate>
     </item>
     <item>
-      <title>寻找 Android 应用程序的测试人员 - “Soul Shine”每日肯定</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d1r9os/looking_for_testers_for_an_android_app_soul_shine/</link>
-      <description><![CDATA[       由   提交/u/saasidea02  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d1r9os/looking_for_testers_for_an_android_app_soul_shine/</guid>
-      <pubDate>Mon, 27 May 2024 13:15:32 GMT</pubDate>
+      <title>寻求有关产品化服务初创公司定价的建议：按月付费还是一次性付费？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d1w39p/seeking_advice_on_pricing_for_a_productized/</link>
+      <description><![CDATA[大家好， 我正处于推出产品化服务初创公司的早期阶段，需要一些有关定价策略的建议。我将提供的服务主要针对 Android 应用程序的两个主要领域：  Android 应用程序大小缩减：帮助初创公司和公司优化并减小其 Android 大小应用程序，这可以带来更好的性能和用户体验。 Android 应用程序安全保护：实施安全措施以保护 Android 应用程序免受漏洞和威胁。  我目前在两种定价模式之间左右为难：  每月订阅：向客户收取持续优化和保护服务的每月费用。 一次性费用：为全面的优化和安全包提供一次性付款选项。  此外，我不确定这些服务的适当价格范围。鉴于它们在应用程序性能和安全性方面提供的价值，我希望在初创公司的承受能力和所涉及工作的公平报酬之间取得平衡。 以下是我的一些具体问题：  您认为哪种定价模式对这个利基市场的潜在客户更具吸引力？ 在决定按月订阅还是一次性付费时，我应该考虑哪些因素？  li&gt; 关于如何确定这些服务的定价范围有什么建议吗？ 是否有任何行业基准或类似服务的示例可供参考？  我非常感谢您能分享的任何见解或经验，特别是如果您在自己的企业中面临过类似的决策。 提前感谢您的帮助！ &lt; !-- SC_ON --&gt;  由   提交/u/rahuljindal1   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d1w39p/seeking_advice_on_pricing_for_a_productized/</guid>
+      <pubDate>Mon, 27 May 2024 16:51:54 GMT</pubDate>
     </item>
     <item>
-      <title>GiggleOhms：通过模因学习</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d1r0wu/giggleohmslearn_by_memes/</link>
-      <description><![CDATA[分享我的免费应用程序咯咯欧姆。我想为硬件工程师创建一些学习应用程序，并提出了一个通过模因学习工程的想法。所有模因都是人工智能生成的，因此幽默感是有问题的:))但它仍然很有趣且有用。适用于 IOS 和 Android。看看吧！   由   提交 /u/Brilliant-Bike4963    reddit.com/r/SideProject/comments/1d1r0wu/giggleohmslearn_by_memes/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d1r0wu/giggleohmslearn_by_memes/</guid>
-      <pubDate>Mon, 27 May 2024 13:02:44 GMT</pubDate>
+      <title>我见过的每一个 CMS 都很糟糕，所以我做了一个免费的</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d1v8xd/every_cms_ive_seen_sucks_so_i_made_a_free_one/</link>
+      <description><![CDATA[当我在制作我的最后一个项目时，我想添加一个博客。结果发现没有一个工具可以让你（以一种简单的方式）做到这一点。它总是一些过度的 API 和臃肿的软件 + 你必须在你的堆栈中添加另一个我不喜欢的工具。 所以我最终创建了一个 JSON 对象，其中包含我所有的博客信息，然后我使用我的数据库来提供它。它工作得很好，但没有编辑器很难创建博客。 我去推特上问其他人是否有同样的问题，不出所料，他们确实有。这促使我制作了 tinycms，这是一个免费的所见即所得编辑器，可用于制作可以使用自己的数据库提供服务的博客。 希望这有帮助！    提交人    /u/rahulsingh_ca   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d1v8xd/every_cms_ive_seen_sucks_so_i_made_a_free_one/</guid>
+      <pubDate>Mon, 27 May 2024 16:15:55 GMT</pubDate>
     </item>
     <item>
-      <title>寻找工程经理课程</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d1qjhp/looking_for_an_engineering_manager_course/</link>
-      <description><![CDATA[我正在寻找工程领导力研讨会，但没有找到任何有价值的东西。我对花哨的证书不感兴趣；我只想从经验丰富的工程经理那里获得实用知识并立即应用这些技能。你有什么建议？您对此类课程有何看法？   由   提交 /u/Sea-Camel3140   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d1qjhp/looking_for_an_engineering_manager_course/</guid>
-      <pubDate>Mon, 27 May 2024 12:37:16 GMT</pubDate>
+      <title>让您的想象力带您踏上属于您自己的冒险之旅🔥🌅</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d1uu68/let_your_imagination_take_you_on_your_very_own/</link>
+      <description><![CDATA[       由   提交/u/Full_Fish7306   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d1uu68/let_your_imagination_take_you_on_your_very_own/</guid>
+      <pubDate>Mon, 27 May 2024 15:58:32 GMT</pubDate>
     </item>
     <item>
-      <title>启动了我的项目并完成了第一笔销售。下一步是什么？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d1qiz3/launched_my_project_and_made_the_first_sale_whats/</link>
-      <description><![CDATA[大家好， 我最近推出了我的语言学习应用程序，LingoFella，旨在利用人工智能让学习新语言变得有趣和个性化。我很高兴与大家分享，我已经完成了第一笔销售，并开始获得一些关注。 但是，我发现维持稳定的新用户流具有挑战性。我目前专注于土耳其境内的营销（因为这是我的国家，很多人试图学习外语并离开这个国家）。我正在考虑利用有影响力的人来提高知名度和用户参与度。 我希望得到一些建议：  寻找有影响力的人：您如何识别和接触有影响力的人，尤其是在教育或语言学习领域？ 营销策略：是否有最适合像我这样的教育应用程序的特定营销策略？ 用户保留：在语言学习应用等竞争激烈的市场中，有什么提高用户保留的建议吗？  您可以分享的任何见解、经验或资源都将非常有用感谢。感谢您的帮助！   由   提交/u/I_tech  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d1qiz3/launched_my_project_and_made_the_first_sale_whats/</guid>
-      <pubDate>Mon, 27 May 2024 12:36:28 GMT</pubDate>
+      <title>只需几分钟即可创建测验的工具！ （无脸频道）</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d1uktm/tool_for_creating_quizzes_in_just_a_few_minutes/</link>
+      <description><![CDATA[~6 个月前，我想在主要频道之外推出一个 Youtube 频道。我不想做简单的转发，所以我寻找了很多利基，然后我找到了测验利基。经过几次很长的视频编辑后，我决定创建一个工具来自动化此过程：autostud.ai！该工具的测试版终于开放了。因此，请随时向我提供您的反馈。编辑几乎不受限制，并且免费试用可以免费渲染！ 我的频道之一：https:// www.youtube.com/@ben_quiz/shorts   由   提交/u/emilemoureau  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d1uktm/tool_for_creating_quizzes_in_just_a_few_minutes/</guid>
+      <pubDate>Mon, 27 May 2024 15:47:06 GMT</pubDate>
     </item>
     <item>
-      <title>亲切的吐槽：我重新设计了我的 SAAS (hunchbank.com) 登陆页面，为软启动做准备。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d1qdwv/kindly_roast_i_redesigned_my_saas_hunchbankcom/</link>
-      <description><![CDATA[   /u/pystar  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d1qdwv/kindly_roast_i_redesigned_my_saas_hunchbankcom/</guid>
-      <pubDate>Mon, 27 May 2024 12:28:57 GMT</pubDate>
+      <title>如何使用 python 永远保持活跃</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d1uj8x/how_to_stay_active_forever_using_python/</link>
+      <description><![CDATA[        提交人    /u/OCEANOFANYTHING   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d1uj8x/how_to_stay_active_forever_using_python/</guid>
+      <pubDate>Mon, 27 May 2024 15:45:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
