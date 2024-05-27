@@ -3,112 +3,112 @@
   <channel>
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
-    <description>r/SideProject 是一个 Reddit 子版块，用于分享和接收有关副项目的建设性反馈。</description>
-    <lastBuildDate>Mon, 27 May 2024 12:24:02 GMT</lastBuildDate>
+    <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
+    <lastBuildDate>Mon, 27 May 2024 15:14:20 GMT</lastBuildDate>
     <item>
-      <title>寻找同行合作进行游戏开发。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d1puvu/looking_for_peers_to_collaborate_for_game/</link>
-      <description><![CDATA[想法：一款骑马游戏，多人或单人游戏，玩家必须杀死其他人才能完成游戏。p2p射击游戏。将首先将其制作成移动设备。 我正在寻找可以负责设计和前端部分的人。后端部分我可以做。    提交人    /u/stilldonoknowmyname   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d1puvu/looking_for_peers_to_collaborate_for_game/</guid>
-      <pubDate>Mon, 27 May 2024 11:59:27 GMT</pubDate>
+      <title>从副业项目转变为全职项目。启动我的游戏应用程序，让您可以与朋友竞争，并且希望得到一些反馈和测试版用户。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d1tnno/made_the_switch_from_side_project_to_full_time/</link>
+      <description><![CDATA[我一直在从事一个名为 RivalRyze 的业余项目。 4 个月前，我辞去了工作，一直在努力争取 MVP。在这个平台上，用户可以与自己、社区以及朋友/敌人竞争。目前，我们支持每一款 Steam/PSN 游戏。 以下是我们在此版本中重点关注的功能列表：  Web 平台可让您连接所有游戏游戏配置文件 展示您的游戏成就、游戏库、成就 自定义积分系统 跨平台支持每个 SINGLY steam、psn 游戏及其所有成就 不同的挑战模式： 排名竞赛（竞技游戏） 成就猎人 白金追求 完成者  成就全球/每周排行榜 Discord 机器人： 当朋友获得成就时，在您的 Discord 服务器中获取更新  li&gt; 挑战更新 完整游戏库   如果您对其中任何内容感兴趣，请随时向我发送DM 和我将邀请您参加内测。   由   提交 /u/FredlyFire   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d1tnno/made_the_switch_from_side_project_to_full_time/</guid>
+      <pubDate>Mon, 27 May 2024 15:06:53 GMT</pubDate>
     </item>
     <item>
-      <title>kelvin - 终端密码管理器</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d1p9r1/kelvin_terminal_password_manager/</link>
-      <description><![CDATA[     &lt; /td&gt; 在学习了一些 Rust 之后，我决定开始研究这个。 kelvin 是一个密码管理器，例如1password 但用于终端。 kelvin 生成从终端到剪贴板的强密码。生成的密码可以加密并与域名或它们对应的内容一起保存在本地。所有加密的密码都保存在本地，以便授权用户稍后解密。 kelvin 将数据保存在本地，并使用 gnu gpg 加密隐藏目录。 将来 kelvin 将成为带有 tui 的终端应用程序，进行守护进程，以便当用户想要获取密码时可以通过键绑定启动它或向保管库添加密码。   由   提交 /u/dompehbright   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d1p9r1/kelvin_terminal_password_manager/</guid>
-      <pubDate>Mon, 27 May 2024 11:22:34 GMT</pubDate>
+      <title>Zeve AI Planner 更新：Motion 和 Sunsama 替代方案</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d1ticw/update_on_zeve_ai_planner_motion_sunsama/</link>
+      <description><![CDATA[   /u/iayazalam  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d1ticw/update_on_zeve_ai_planner_motion_sunsama/</guid>
+      <pubDate>Mon, 27 May 2024 15:00:40 GMT</pubDate>
     </item>
     <item>
-      <title>我做了一个工具IMGCentury！每月 5 万用户并且还在不断增长</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d1p764/i_made_a_tool_imgcentury_50k_monthly_users_and/</link>
-      <description><![CDATA[      工具名称为 IMGCentury，网址为 img century.com 。在这个网站上，您可以轻松压缩图像而不损失质量。  IMGCentury 图像压缩器！ 下载压缩图片！ 以下是您可以使用 IMGCentury 执行的操作：  隐私第一：您的图像永远不会上传到服务器。一切都在您的浏览器中进行。 高容量：一次压缩超过 2GB 的图像文件。 支持大文件 ：单张图片最大可压缩至500MB。 批量压缩：一次性压缩多张不同格式的图片。 方便下载：将所有压缩文件下载为单个 ZIP 文件。 灵活选项：使用滑块调整压缩级别或指定所需的确切大小。  还有更多。    由   提交/u/kAcom24  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d1p764/i_made_a_tool_imgcentury_50k_monthly_users_and/</guid>
-      <pubDate>Mon, 27 May 2024 11:18:06 GMT</pubDate>
+      <title>Fatms + AI 的彭博终端</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d1ti23/a_bloomberg_terminal_for_fatms_ai/</link>
+      <description><![CDATA[大家好， 我刚刚启动了我的副项目 Field Hawk，它是使用人工智能的 Bloomberg 终端。 Field Hawk 利用先进的人工智能和深度分析来实时洞察您的土壤、天气和作物状况，并提供个性化、可操作的建议。我们的平台可帮助您优化种植时间、灌溉计划和肥料使用，同时预测和预防潜在的病虫害爆发。最重要的是，它完全免费。 请访问 https://fieldhawk.ai/ 查看我们的信息  由   提交 /u/robloxaccountbuyer   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d1ti23/a_bloomberg_terminal_for_fatms_ai/</guid>
+      <pubDate>Mon, 27 May 2024 15:00:21 GMT</pubDate>
     </item>
     <item>
-      <title>自由职业者与全职网络开发人员？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d1p5ye/freelance_vs_fulltime_web_developers/</link>
-      <description><![CDATA[我的兄弟是技术领域的新手，他有点像中间人。他有关于建立美容产品电子商务网站的新项目；拥有出色的结帐流程、产品目录和运输集成，这将使网站看起来非常棒。 他没有太多的技术知识，因此他需要优秀的 Web 开发人员，但他也在寻找能够赢得胜利的开发人员不要倾家荡产（负担得起）。他的预算约为每位开发人员每月 1200-1500 美元。 但是，他不确定使用哪种招聘模式：自由职业者、兼职还是全职？雇用自由开发人员或全职开发人员的利弊是什么？ 在开始网络开发项目之前，您如何选择完美的招聘模式？请提出建议。   由   提交/u/thomas_locke95   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d1p5ye/freelance_vs_fulltime_web_developers/</guid>
-      <pubDate>Mon, 27 May 2024 11:15:51 GMT</pubDate>
+      <title>如果你有 SaaS，请查看这个拥有 +300 个 SaaS 分销渠道的网站，以吸引付费客户 - 试用我们的演示</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d1ss45/if_you_have_a_saas_check_this_website_with_300/</link>
+      <description><![CDATA[       由   提交 /u/Inevitable-Baker-504   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d1ss45/if_you_have_a_saas_check_this_website_with_300/</guid>
+      <pubDate>Mon, 27 May 2024 14:28:03 GMT</pubDate>
     </item>
     <item>
-      <title>非常高兴能在 Product Hunt 上启动我的项目！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d1opt6/super_excited_to_launch_my_project_on_product_hunt/</link>
-      <description><![CDATA[      我已经制作新闻通讯大约 4 个月了，我非常兴奋即将在 Product Hunt 上推出！ 我收到了大量反馈，并进行了大量调整，以提供最佳的阅读价值/时间。 Success Stacks 专注于每周向您发送创业书籍，以及所有关键要点、引言和可操作的步骤，以便您可以实际应用每本书的概念并开始采取行动. 它解决的问题如下：  我发现寻找新书阅读或观看企业主推荐书籍的 YouTube 视频很无聊。 我发现自己在读 300 页的书，而这些书可以用三到四页来概括。 在大学、工作和运动中，我几乎没有时间读书。 &gt;  如何解决这些问题：  要点：我们从顶级创业书籍中提取最重要的经验教训。 励志名言：获得激励行业领导者的有力话语。 可行步骤：您可以立即实施的实用建议。  我希望您喜欢它！我将在下面放置一些链接。非常感谢您！  https://preview.redd.it/s3mguc717y2d1.png?width=1920&amp;format=png&amp;auto=webp&amp;s=23becfc0b43d09aa65bfb8497ea58d073360952c  &amp; #32；由   提交 /u/Party_Major5753   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d1opt6/super_excited_to_launch_my_project_on_product_hunt/</guid>
-      <pubDate>Mon, 27 May 2024 10:45:52 GMT</pubDate>
+      <title>我擅长销售，但需要销售产品</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d1srrr/im_good_with_sales_but_need_a_product_to_sell/</link>
+      <description><![CDATA[大家好！ 我已经在软件领域工作了一段时间，但是，我还没有什么天赋足以开始开发我自己的 SaaS 东西了。  不过，我擅长的是销售。入站、出站、推销电话，应有尽有。  这里有人希望增加产品销量吗？  我绝不拥有提供这些服务或任何类似服务的企业。我只是厌倦了为某人工作，并认为是时候与某人一起工作了。 我工作过的一些空间：  教育科技 &lt; li&gt;内容管理（社交媒体） 餐厅管理  我愿意接受任何想法！ &lt;!-- SC_ON - -&gt;  由   提交 /u/Mighty_zinger21   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d1srrr/im_good_with_sales_but_need_a_product_to_sell/</guid>
+      <pubDate>Mon, 27 May 2024 14:27:37 GMT</pubDate>
     </item>
     <item>
-      <title>您口袋里的私人教练</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d1ollf/a_personal_trainer_in_your_pocket/</link>
-      <description><![CDATA[大纲 是否曾经停下来想知道为什么您有这么多不同的应用程序用于不同的功能，而这些应用程序都对您自己的健康做出了贡献？我这样做了，我给你带来了“健康应用程序”。如果我有一个应用程序用于跟踪我的力量训练，另一个应用程序用于跟踪我的卡路里摄入量，另一个应用程序用于跟踪我的习惯和情绪（是的，心理健康与您的身体健康密切相关），我看不到相关性和趋势或每个“子功能”之间的相似之处。 Apple Health 试图通过将所有数据整合到一个位置并提供每个部分的趋势来实现这一目标，但由您来确定这些部分之间的统计数据。如果他们可以 24/7 与您联系，那么这就是您口袋里的私人教练。  公司 我没有办法用复杂的功能替换现有的应用程序，但有办法为您正确整合和评估数据。例如，人们使用 Strava 已经有十多年了，我永远没有办法取代他们现有的功能，因为它已经更新了很多年。尽管如此，我还是希望有一种方法可以从 myfitnesspal、strong、apple health 等应用程序中导入数据。我的目标是将这些应用程序的功能包含到“健康应用程序”中，以允许尚未使用过的人入门这些应用程序之前都有一个地方记录信息，以减少摩擦并帮助人们实现目标。  关于我 关于我的一些信息以及为什么我开始让这成为现实。我个人一直在健身之旅。我在中学时很胖，并多次遭受同龄人的言论、目光和排斥。我有一两个亲密的朋友，其余的让我感觉自己像个局外人。我搬到了城市，这引发了我生活的变化。在两年半的时间里，我从每天放学回家，玩 6 个小时的电子游戏，吃垃圾食品，到仔细控制自己的饮食，大部分时间在健身房呆 2 个小时，然后卖掉了我的 Xbox。如果我在完成学业之前就已经做到了，那么我想向我周围的人展示，无论是比我年长的人还是世界另一端的陌生人，我也可以做到。  统一信息 该应用程序旨在将您的所有数据整合到一个地方，并使用人工智能（我知道它被过度使用）来识别您的健康、身体和心理领域之间的趋势，这可能会影响您的进步并阻碍您实现目标。目的是为使用“健康应用程序”的人创造尽可能少的摩擦。 “你面对的摩擦越少，你就越容易展现出更坚强的自我。让它变得简单背后的想法不仅仅是做简单的事情。我们的想法是让当下尽可能容易地做那些从长远来看有回报的事情。 - James Clear，《原子习惯》。 鸣谢 是时候给予应有的赞扬了。 Macrofactor 是这个应用程序的主要灵感。实时更新卡路里摄入量以改善实现您的目标让我想到如果这可以适用于您健康的所有领域会怎么样？调整健身房的组数以促进肌肉生长。调整跑步强度以最大限度地提高赛事或体育比赛的恢复能力。随着人工智能变得越来越强大，相关性和机器学习能力只会不断提高。布局类似于应用程序“Strong”，我喜欢这些简单的部分作为引人注目的小部件。 感谢消息 如果您已经读到这里，我非常高兴感谢它，并要求您订阅健康应用程序以了解有关未来开发的任何新闻。这是一个非常雄心勃勃的项目，所以我期待它在未来会带来什么。如果您有任何想法，尤其是关于我错过的字体、反馈或注意事项，请在下面发表评论。我感谢所有希望支持我并见证这个想法成为现实的人。   由   提交 /u/Fit-Fun6903    reddit.com/r/SideProject/comments/1d1ollf/a_personal_trainer_in_your_pocket/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d1ollf/a_personal_trainer_in_your_pocket/</guid>
-      <pubDate>Mon, 27 May 2024 10:37:36 GMT</pubDate>
+      <title>我为个体企业家建立了一个免费的商业计划生成器</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d1spdb/i_built_a_free_business_plan_generator_for/</link>
+      <description><![CDATA[   /u/kronopsizm   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d1spdb/i_built_a_free_business_plan_generator_for/</guid>
+      <pubDate>Mon, 27 May 2024 14:24:26 GMT</pubDate>
     </item>
     <item>
-      <title>我刚刚推出了 SaaS</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d1olf3/i_just_launched_my_saas/</link>
-      <description><![CDATA[大家好，我刚刚推出了 Saas 的测试版 Task Fusion 。这应该是一个公开测试版，我将在其中收集并迭代反馈。如果您能检查一下并提供任何反馈，我会很高兴。 SaaS 是一款应用程序，可让您连接和管理 Google Tasks 的多个帐户，以便您可以在以下位置查看所有这些帐户的任务列表：一种观点。  许多像我一样的人在工作和个人生活中使用 Google Tasks。有些人还为不同的业务拥有单独的账户。我一直在寻找一种在桌面浏览器上同时管理多个帐户的解决方案，我也看到很多人在网上询问这个问题，以及博客和文章提到这是一个缺失的功能。希望这能为某人提供价值。   由   提交 /u/dazzaondmic   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d1olf3/i_just_launched_my_saas/</guid>
-      <pubDate>Mon, 27 May 2024 10:37:13 GMT</pubDate>
+      <title>烤我的 BI 产品</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d1sd2g/roast_my_bi_product/</link>
+      <description><![CDATA[您好，我的公司最近上线了，我们提供人工智能数据分析师（我知道最近出现了很多这样的产品）作为产品。鉴于该小组的成员可能是我们的目标群体，我想问你们中是否有人愿意检查该产品（免费）并为此付出两分钱。您可以在 www.turbular.com   &amp;# 找到该网站32；由   提交/u/RaeudigerRaffi  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d1sd2g/roast_my_bi_product/</guid>
+      <pubDate>Mon, 27 May 2024 14:08:27 GMT</pubDate>
     </item>
     <item>
-      <title>如果你不会画画，如何设计纹身 - 设计从未如此简单：认识 Sketch Logo AI！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d1oein/how_to_design_a_tattoo_if_you_cant_draw_designing/</link>
-      <description><![CDATA[   /u/TofuCat1804  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d1oein/how_to_design_a_tattoo_if_you_cant_draw_designing/</guid>
-      <pubDate>Mon, 27 May 2024 10:23:28 GMT</pubDate>
+      <title>我最新的实验是一个社交网络，它能把地方的照片变成诗歌</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d1sbun/my_newest_experiment_is_a_social_network_kinda/</link>
+      <description><![CDATA[        提交人    /u/Gmoi6   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d1sbun/my_newest_experiment_is_a_social_network_kinda/</guid>
+      <pubDate>Mon, 27 May 2024 14:06:52 GMT</pubDate>
     </item>
     <item>
-      <title>为我的人工智能简历定制应用程序寻找反馈</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d1o5cc/looking_for_feedback_for_my_aipowered_resume/</link>
-      <description><![CDATA[ 由   提交/u/Fast-Society7107  /u/Fast-Society7107 reddit.com/r/jobsearchhacks/comments/1d1nw2o/looking_for_feedback_for_my_aipowered_resume/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d1o5cc/looking_for_feedback_for_my_aipowered_resume/</guid>
-      <pubDate>Mon, 27 May 2024 10:05:24 GMT</pubDate>
+      <title>Lazy-Test.com ：使用 AI 创建测验，测试您的知识并与朋友分享/竞争</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d1s3bo/lazytestcom_create_quizzes_with_ai_test_your/</link>
+      <description><![CDATA[       由   提交 /u/Remarkable-Face-3017   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d1s3bo/lazytestcom_create_quizzes_with_ai_test_your/</guid>
+      <pubDate>Mon, 27 May 2024 13:56:24 GMT</pubDate>
     </item>
     <item>
-      <title>印第安纳州拉斐特警方不知道的非法入境的更清晰版本是，当他们试图从无辜公民手中拿走手机时，第二个摄像头记录了一切</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d1o4bs/more_clear_version_of_the_unlawful_entry/</link>
-      <description><![CDATA[       由   提交/u/xboystudio  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d1o4bs/more_clear_version_of_the_unlawful_entry/</guid>
-      <pubDate>Mon, 27 May 2024 10:03:29 GMT</pubDate>
+      <title>刚刚在 App Store 上推出了我的第一个应用程序 - Dailies</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d1rh7t/just_launched_my_first_app_on_the_app_store/</link>
+      <description><![CDATA[      大家好！我非常高兴能与这个社区分享一个重要的里程碑：经过七个月的开发，我推出了我的第一个 iOS 应用 Dailies。到目前为止，我的旅程并非一帆风顺；它始于早期的挣扎，随着我深入研究这个过程，这种挣扎慢慢变成了一种激情。 该应用的主要理念是让它不仅仅是一个习惯追踪器；它是日记、待办事项列表和生产力追踪器的混合体——所有这些都融入了一个直观的应用中。当您使用它来管理您的日常任务和追踪您的习惯时，您将获得金币。然后，您可以在完全控制的物品商店中使用这些硬币，这样您就可以奖励自己的辛勤工作而不会感到任何内疚。 您可以在这里的 App Store 上查看：( https://apps.apple.com/us/app/dailies-habit/id6502421000 )。如需更深入地了解 Dailies 提供的功能以及它如何帮助您，请查看此处的指南：( https://dailieshabit.com/guide/ )。 非常感谢您的反馈。它对于完善 Dailies 并使其变得更好非常有价值。非常感谢您的支持，我迫不及待地想听到您的想法。   由    /u/aymantj  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d1rh7t/just_launched_my_first_app_on_the_app_store/</guid>
+      <pubDate>Mon, 27 May 2024 13:26:21 GMT</pubDate>
     </item>
     <item>
-      <title>一个免费的 Chrome 扩展程序来加速您的网站</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d1o0uc/a_free_chrome_extension_to_speed_up_your_website/</link>
-      <description><![CDATA[    &lt; /a&gt;   由   提交/u/al_gsy  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d1o0uc/a_free_chrome_extension_to_speed_up_your_website/</guid>
-      <pubDate>Mon, 27 May 2024 09:57:21 GMT</pubDate>
+      <title>寻找 Android 应用程序的测试人员 - “Soul Shine”每日肯定</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d1r9os/looking_for_testers_for_an_android_app_soul_shine/</link>
+      <description><![CDATA[       由   提交/u/saasidea02  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d1r9os/looking_for_testers_for_an_android_app_soul_shine/</guid>
+      <pubDate>Mon, 27 May 2024 13:15:32 GMT</pubDate>
     </item>
     <item>
-      <title>Reddit + Discord 宠物项目</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d1o0j1/reddit_discord_pet_project/</link>
-      <description><![CDATA[不久前就想到了这一点。一开始更像是一个学习项目，但我想，为什么不正确地做，看看会发生什么。 主要想法是将 reddit 的讨论功能和 Q+A 方面与实时聊天功能合并起来 因此，用户可以创建频道（例如 subreddits），然后在其中创建讨论，人们可以在其中聊天。  还有一个可选的投票系统。因此，如果讨论的创建者想要设置辩论，那么将有 2 个选项，然后用户可以将他们的投票添加到民意调查中。用户名旁边还有一个标签，因此您可以在与他们交谈时看到他们的选择，并尝试改变他们的意见。管理员还可以删除消息并将人们从讨论中踢出。 *此外，还有很多示例/填充数据 atm，因为 ive 最近才推出它。  我并不期待这会带来什么巨大的结果（它是我第一个合适的网络应用程序之一），但是任何反馈都会受到赞赏。 切线 (tanagent.pythonanywhere.com)   由   提交/u/sumin101  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d1o0j1/reddit_discord_pet_project/</guid>
-      <pubDate>Mon, 27 May 2024 09:56:40 GMT</pubDate>
+      <title>GiggleOhms：通过模因学习</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d1r0wu/giggleohmslearn_by_memes/</link>
+      <description><![CDATA[分享我的免费应用程序咯咯欧姆。我想为硬件工程师创建一些学习应用程序，并提出了一个通过模因学习工程的想法。所有模因都是人工智能生成的，因此幽默感是有问题的:))但它仍然很有趣且有用。适用于 IOS 和 Android。看看吧！   由   提交 /u/Brilliant-Bike4963    reddit.com/r/SideProject/comments/1d1r0wu/giggleohmslearn_by_memes/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d1r0wu/giggleohmslearn_by_memes/</guid>
+      <pubDate>Mon, 27 May 2024 13:02:44 GMT</pubDate>
     </item>
     <item>
-      <title>Google Podcasts 已死，因此我创建了自己的 Podcast 应用 :)</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d1nqjv/google_podcasts_is_dead_so_i_built_my_own_podcast/</link>
-      <description><![CDATA[    &lt; /a&gt;  我使用 Google 播客已有多年，但现在他们将其关闭（已经在 https://killedbygoogle.com/ 上）。我真的很喜欢这个应用程序，但找不到好的替代品，所以我决定启动一个副项目来创建一个具有相同外观和感觉的类似应用程序。我花了 10 周的时间来开发它，我的应用程序 Podcast Kiosk 的第一个版本现已上线！您可以在 www.podcastkiosk.com 上找到应用商店链接。我很想听听大家的想法以及您希望添加哪些功能。非常感谢您查看:) Android：https ://play.google.com/store/apps/details?id=com.thinkaholic.podcast_kiosk iOS：https://apps.apple.com/us/app/podcast-kiosk/id6502185679 https://preview.redd.it/b6qzvdy4vx2d1.png?width=2160&amp;format=png&amp;auto =webp&amp; s=c7b378fcf536301f835eb60b0495526f7c3ff4b1  https://preview.redd.it/owf6kdy4vx2d1.png?width=2160&amp;format=png&amp;auto=webp&amp;s=cb2ea163297a01e6e3bdd03e41631c4011f54828 https://preview.redd.it/vb542qw6vx2d1.png?width=2160&amp;format=png&amp; ;自动= webp&amp;s=15f940a1d71cdf30ed57efa87dcfab5e1d3565b6 https://preview.redd.it/sdaq5ww6vx2d1.png?width=2160&amp;format=png&amp;auto=webp&amp;s=dc2d4d95a68335b6e60f1fd128779d2427022a31   由   提交 /u/martynvdl   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d1nqjv/google_podcasts_is_dead_so_i_built_my_own_podcast/</guid>
-      <pubDate>Mon, 27 May 2024 09:36:17 GMT</pubDate>
+      <title>寻找工程经理课程</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d1qjhp/looking_for_an_engineering_manager_course/</link>
+      <description><![CDATA[我正在寻找工程领导力研讨会，但没有找到任何有价值的东西。我对花哨的证书不感兴趣；我只想从经验丰富的工程经理那里获得实用知识并立即应用这些技能。你有什么建议？您对此类课程有何看法？   由   提交 /u/Sea-Camel3140   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d1qjhp/looking_for_an_engineering_manager_course/</guid>
+      <pubDate>Mon, 27 May 2024 12:37:16 GMT</pubDate>
     </item>
     <item>
-      <title>ProductHunt 之后：SEO、冷邮件、广告...？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d1ms6v/after_producthunt_seo_cold_email_ads/</link>
-      <description><![CDATA[我们刚刚推出 ProductHunt，现在是时候专注于获得第一批客户了。 我们可以采用以下几种方法关于它。就上下文而言，我们是一款 B2B 软件，可帮助其他企业创建 AI 副驾驶并将其添加到其 SaaS 应用程序中。 详细信息。 所以问题是：如果您有 B2B SaaS，您关注的是什么发布后？  从长远来看，SEO 似乎是最好的，但围绕人工智能作为搜索词的所有内容都非常拥挤，谁知道人工智能通常会对搜索做什么。 由于成本原因，付费广告大多无法实现。 我们已经尝试过冷电子邮件，但尚未取得任何成功。有趣的是，人们似乎不会检查这些电子邮件。 也许是附属机构？还有其他吗？ 提前感谢您的提示。   由   提交/u/rehance_ai   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d1ms6v/after_producthunt_seo_cold_email_ads/</guid>
-      <pubDate>Mon, 27 May 2024 08:23:31 GMT</pubDate>
+      <title>启动了我的项目并完成了第一笔销售。下一步是什么？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d1qiz3/launched_my_project_and_made_the_first_sale_whats/</link>
+      <description><![CDATA[大家好， 我最近推出了我的语言学习应用程序，LingoFella，旨在利用人工智能让学习新语言变得有趣和个性化。我很高兴与大家分享，我已经完成了第一笔销售，并开始获得一些关注。 但是，我发现维持稳定的新用户流具有挑战性。我目前专注于土耳其境内的营销（因为这是我的国家，很多人试图学习外语并离开这个国家）。我正在考虑利用有影响力的人来提高知名度和用户参与度。 我希望得到一些建议：  寻找有影响力的人：您如何识别和接触有影响力的人，尤其是在教育或语言学习领域？ 营销策略：是否有最适合像我这样的教育应用程序的特定营销策略？ 用户保留：在语言学习应用等竞争激烈的市场中，有什么提高用户保留的建议吗？  您可以分享的任何见解、经验或资源都将非常有用感谢。感谢您的帮助！   由   提交/u/I_tech  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d1qiz3/launched_my_project_and_made_the_first_sale_whats/</guid>
+      <pubDate>Mon, 27 May 2024 12:36:28 GMT</pubDate>
     </item>
     <item>
-      <title>与您的客户交谈</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d1mbwy/talk_to_your_customers/</link>
-      <description><![CDATA[     &lt; td&gt; 我当前的项目 我决定专注于一个项目，并投入至少 4 到 5 个月的时间。 它是一个变更日志和反馈工具 在变更日志方面，您可以发布项目的更新，并通过电子邮件通知用户。  就反馈而言，用户可以创建卡片来请求功能或报告错误。 与您的用户交谈 1 周的 MVP    由   提交/u/Mans__js   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d1mbwy/talk_to_your_customers/</guid>
-      <pubDate>Mon, 27 May 2024 07:49:46 GMT</pubDate>
+      <title>亲切的吐槽：我重新设计了我的 SAAS (hunchbank.com) 登陆页面，为软启动做准备。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d1qdwv/kindly_roast_i_redesigned_my_saas_hunchbankcom/</link>
+      <description><![CDATA[   /u/pystar  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d1qdwv/kindly_roast_i_redesigned_my_saas_hunchbankcom/</guid>
+      <pubDate>Mon, 27 May 2024 12:28:57 GMT</pubDate>
     </item>
     </channel>
 </rss>
