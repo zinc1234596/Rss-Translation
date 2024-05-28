@@ -3,12 +3,68 @@
   <channel>
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
-    <description>r/SideProject 是一个 Reddit 子版块，用于分享和接收有关副项目的建设性反馈。</description>
-    <lastBuildDate>Tue, 28 May 2024 09:13:41 GMT</lastBuildDate>
+    <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
+    <lastBuildDate>Tue, 28 May 2024 12:23:51 GMT</lastBuildDate>
+    <item>
+      <title>您的业​​余项目使用哪种技术？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d2i47t/which_tech_do_you_use_for_your_sideprojects/</link>
+      <description><![CDATA[我正在用 Angular 学习 asp.net，希望能够产生一些我作为副项目的想法（不是专业开发人员）。 我很好奇你们用什么来制作 webapi   由   提交 /u/ThibaultKm   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d2i47t/which_tech_do_you_use_for_your_sideprojects/</guid>
+      <pubDate>Tue, 28 May 2024 12:20:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>🚀 React ChatBotify：用于创建灵活且可扩展的聊天机器人的现代 React 库</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d2hueg/react_chatbotify_a_modern_react_library_for/</link>
+      <description><![CDATA[      大家好！ 😊 我在 10 个月前首次开源并发布了 React ChatBotify，我很高兴它慢慢地得到了采用。也有越来越多的用户表示满意，这对开源工作来说是真诚的激励和鼓舞。 最初的版本提供了很多功能，但在过去的几个月里，我做了一个大量更新支持更多用例，例如与法学硕士集成。目前，我实际上正在开发 v2.0.0 版本来支持主题。高层的想法是允许用户从各种主题中进行选择并提交自己的主题，从而培育一个协作社区。有关该方法的详细信息（您可能会或可能不会感兴趣）记录在主题存储库自述文件中。 除了分享这个我希望你们中的一些人可能会觉得有用的项目之外，我还希望找到有兴趣为开源做出贡献的个人来帮助策划最初的 v2.0.0 版本的主题。目前有 11 个主题由几个人贡献，但拥有更多主题可供选择将有助于通过提供更多选项来使主要版本更具影响力。下面可以找到该项目的链接，我很乐意提供更多详细信息和说明：  🌐 网站 📝 概述 💻 GitHub 💬 Discord   最后，我们始终欢迎反馈/贡献/建议，因此请随时分享您的想法。感谢您读到这里！ 🚀   由   提交 /u/FruznFever   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d2hueg/react_chatbotify_a_modern_react_library_for/</guid>
+      <pubDate>Tue, 28 May 2024 12:05:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>来看看 Kwizzy，一款每日问答游戏！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d2h6gr/check_out_kwizzy_a_daily_trivia_game/</link>
+      <description><![CDATA[您每天与来自世界各地的玩家玩一次，回答相同的 5 个问题。尝试看看你能在排行榜上获得多高的成绩！  请访问 https://kwizzy.app   由   提交/u/INFINITI2021   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d2h6gr/check_out_kwizzy_a_daily_trivia_game/</guid>
+      <pubDate>Tue, 28 May 2024 11:28:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 React Native Starter AI 发布您的移动应用</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d2h49s/publish_your_mobile_app_with_react_native_starter/</link>
+      <description><![CDATA[      https://preview.redd.it/owrfuvwai53d1.png?width=1356&amp;format=png&amp;auto=webp&amp;s=fd1b9a9b 76c86097aac77c9798f0f65f0c5717f6&lt; /a&gt; 大家好！首次创始人😊 我制作了一个特殊的移动应用程序样板，以便您可以更快地启动移动应用程序并简化营销流程：https://www.reactnativestarter.ai/ 几个小时前我开始了我的第一个移动应用程序样板。  在过去的三年里，我作为开发人员致力于为我所工作的公司的成功做出贡献。  一路走来，我还帮助朋友将他们的项目变为现实。 但是，我却无法实施自己的项目。 朋友项目的成功让我意识到我在开发这些项目时使用的样板是有效的。 这种情况鼓励我创建自己的项目。 虽然有很多可用于 Web 应用程序的样板文件，我发现它们在移动领域并不那么普遍，因此我决定创建 React Native Starter AI。  我现在就在这里。 我很高兴收到每个人的反馈。我有几个问题，我对您的观点特别感兴趣。 您认为我可以通过这个样板获得成功吗？ 设计怎么样？ 你认为这对你有什么好处吗？ 这个页面会让你改变吗？   由   提交 /u/Wise-Addendum6268    reddit.com/r/SideProject/comments/1d2h49s/publish_your_mobile_app_with_react_native_starter/&quot;&gt;[链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d2h49s/publish_your_mobile_app_with_react_native_starter/</guid>
+      <pubDate>Tue, 28 May 2024 11:24:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>社交行动 - 几秒钟内屏蔽或关注数十个账户</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d2gmb4/social_actions_block_or_follow_tens_of_accounts/</link>
+      <description><![CDATA[了解“社交操作”，您可以在其中创建列表，并在一分钟内阻止/取消阻止/关注/取消关注数十个帐户。  任何人都可以免费使用，并且仍处于测试阶段。因此，如果您有兴趣注册生成自己的列表，请给我发消息，因为我将亲自授予您访问权限，以确保在我将其提供给所有人之前它正常工作。  它的工作原理非常简单，这里有一个关于如何使用它的简短视频 https://youtu.be/BCOdGVzSdpI&quot;&gt;https://youtu.be/BCOdGVzSdpI /youtu.be/BCOdGVzSdpI  我希望你喜欢它，如果你有任何可能有用的想法，请随时提出。 哦，你可以在 https://social-actions.cybrarist.com    由   提交 /u/cybrarist   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d2gmb4/social_actions_block_or_follow_tens_of_accounts/</guid>
+      <pubDate>Tue, 28 May 2024 10:54:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>我构建了一个简单的后端工具 - 欢迎反馈！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d2gcev/i_built_a_simple_backend_tool_feedback_welcomed/</link>
+      <description><![CDATA[      大家好， 作为一名开发人员，我厌倦了管理数据库和后端复杂性。因此，我创建了 JustBackend，这是一个易于使用的 REST API，可以轻松处理后端。 它非常适合：   MicroSaaS 项目 快速原型制作 快速模型  我很想听听您的想法和想法任何改进建议！ https://justbackend.com JustBackend.com   由   提交/u/v_br   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d2gcev/i_built_a_simple_backend_tool_feedback_welcomed/</guid>
+      <pubDate>Tue, 28 May 2024 10:36:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>Made ChainClarity：加密货币白皮书的人工智能解释器</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d2g20m/made_chainclarity_an_aiexplainer_for_crypto/</link>
+      <description><![CDATA[   /u/-Entrepreneur-  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d2g20m/made_chainclarity_an_aiexplainer_for_crypto/</guid>
+      <pubDate>Tue, 28 May 2024 10:16:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了一个发票网站来帮助您避免受到审计。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d2f8ol/i_made_an_invoice_site_to_help_prevent_you_from/</link>
+      <description><![CDATA[有一天，在检查我的电子邮件时，我注意到我的客户不断询问有关发票的问题。我还意识到，寄出发票后，我往往会丢失它。这促使我考虑构建一个发票应用程序，该应用程序可以存储发票以供将来审核，并可以通过电子邮件发送。 https: //www.invoicesonic.com/    由   提交/u/ProfessionalSet755   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d2f8ol/i_made_an_invoice_site_to_help_prevent_you_from/</guid>
+      <pubDate>Tue, 28 May 2024 09:20:08 GMT</pubDate>
+    </item>
     <item>
       <title>刚刚开始寻找产品，需要你们的支持🙏🙏🙏</title>
       <link>https://www.reddit.com/r/SideProject/comments/1d2ey3t/just_launched_on_product_hunt_need_your_support/</link>
-      <description><![CDATA[大家好，我们今天早上刚刚在 product hunt 上推出了我们的产品 pitchdeck design，需要您的点赞才能成为当天的 #1 产品， Pitchdeck design 是一个目录，它整理了 300 多个来自筹集资金、制作演示文稿和购买演示文稿模板的创始人的演示文稿列表，我过去 4 个月一直在构建这个产品，您的点赞对我来说意义重大，可以让我的产品获得更多的知名度  期待您对此的支持，这对我来说意义重大，请点击此链接为我点赞🙏🙏🙏🙏🙏    提交人    /u/sky-builder   [链接] [评论]]]></description>
+      <description><![CDATA[大家好，我们刚刚在产品上推出了我们的产品pitchdeck design今天早上寻找并投票以获得当天排名第一的产品， Pitchdeck design 是一个目录，它从已筹集资金的创始人那里策划了 300 多个融资演讲稿的列表，制作融资演讲稿并购买宣传材料模板，在过去的 4 个月里我一直在构建这个产品，您的支持对我来说意义重大，可以让我的产品获得更多的知名度 期待您对此的支持，它对我来说意义重大，请点击此链接为我投票 🙏🙏🙏🙏🙏   由   提交 /u/sky-builder   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1d2ey3t/just_launched_on_product_hunt_need_your_support/</guid>
       <pubDate>Tue, 28 May 2024 08:59:31 GMT</pubDate>
     </item>
@@ -27,7 +83,7 @@
       <pubDate>Tue, 28 May 2024 08:34:30 GMT</pubDate>
     </item>
     <item>
-      <title>我最新的业余项目：使用 Flowtrail AI 创建的交互式仪表板</title>
+      <title>我的最新业余项目：使用 Flowtrail AI 创建的交互式仪表板</title>
       <link>https://www.reddit.com/r/SideProject/comments/1d2ehlf/my_latest_side_project_interactive_dashboard/</link>
       <description><![CDATA[       由   提交/u/hashim_ea  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1d2ehlf/my_latest_side_project_interactive_dashboard/</guid>
@@ -36,7 +92,7 @@
     <item>
       <title>🔥 烤我的登陆页面</title>
       <link>https://www.reddit.com/r/SideProject/comments/1d2doy4/roast_my_landing_page/</link>
-      <description><![CDATA[嗨r/SideProject！第一次创始人:)  我目前正在制作一个日记应用程序，刚刚完成了它的登陆页面：https: //sunrise-app.com/ 我希望得到大家的反馈。具体来说，我的问题如下： - 我需要该应用程序的视频演示吗？ - 您对文案有何看法？ - 您能够轻松掌握价值主张吗？  - 设计怎么样？ - CTA 展示位置正确吗？ - 此页面会转化您吗？ 非常感谢！   由   提交/u/Ok-Stand1794  /u/Ok-Stand1794 reddit.com/r/SideProject/comments/1d2doy4/roast_my_landing_page/&quot;&gt;[链接] [评论]]]></description>
+      <description><![CDATA[嗨 r/SideProject！我是第一次在这里创业 :)  我目前正在制作一款日记应用，刚刚完成了它的登陆页面：https://sunrise-app.com/ 我很乐意听取大家的反馈。具体来说，我的问题如下： - 我需要该应用的视频演示吗？ - 你觉得这个文案怎么样？ - 你能轻松掌握价值主张吗？ - 设计怎么样？ - CTA 位置正确吗？ - 这个页面能吸引你吗？ 非常感谢！    提交人    /u/Ok-Stand1794   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1d2doy4/roast_my_landing_page/</guid>
       <pubDate>Tue, 28 May 2024 07:25:27 GMT</pubDate>
     </item>
@@ -50,65 +106,9 @@
     <item>
       <title>寻找...</title>
       <link>https://www.reddit.com/r/SideProject/comments/1d2cvkd/looking_for/</link>
-      <description><![CDATA[大家好。  我是一名技术创始人，拥有 MVP，我想让它出现在人们的眼前。可能我不是唯一一个 😅  我正在寻找类似的东西，我支付 200 美元，其他人将我的 (AI) 应用程序列在一堆“列表”和“聚合器”网站上。他们还在 /r/entrepreneur 和 /r/saas 和其他一些地方发布帖子。  基本上，这对我来说时间投入相对较低，但我获得了一些急需的知名度。  我确信我见过提供这种“我们会在任何地方列出你”的服务服务，但现在我找不到任何服务！！ ​ 请在下面点赞并评论您使用过或提供的列表、帖子、社交推送或类似服务。现在没有 DM，在这里分享您的报价让其他人也看到会更有帮助。我的预算最高为 500 美元，具体取决于报价。    提交人    /u/National-Task2832   [link] [评论]]]></description>
+      <description><![CDATA[大家好。  我是一名技术创始人，拥有 MVP，我希望将其展示在一些人的眼前。也许我不是唯一一个😅  我正在寻找类似的东西，我支付 200 美元，其他人将我的（AI）应用程序列在一堆“列表”上。和“聚合器”网站。他们还在 /r/entrepreneur 和 /r/saas 和其他一些地方。基本上，我的时间投入相对较低，但我获得了一些急需的可见性。  我确信我见过提供这种“我们将在任何地方列出您”的服务。以前有过服务，但我现在找不到其中任何一个！！ ​ 请在下面对您使用过或提供的任何服务进行投票和评论，帖子、社交推送或类似内容。目前没有 DM，在这里分享您的优惠以供其他人查看会更有帮助。我的预算最多为 500 美元，具体取决于报价。   由   提交/u/National-Task2832  /u/National-Task2832 reddit.com/r/SideProject/comments/1d2cvkd/looking_for/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1d2cvkd/looking_for/</guid>
       <pubDate>Tue, 28 May 2024 06:28:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在 7 分钟内识别您的理想客户</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d2cng3/how_to_identify_your_ideal_customers_in_7_minutes/</link>
-      <description><![CDATA[让我分享一个我们用来识别客户的快速练习 为每个场景至少写下 5 点： &lt;产品名称&gt;如果出现以下情况，则不适合您： &lt;产品名称&gt;适合你，如果：  让我给你举个例子👇🏽  Boringlaunch 不适合你，如果： 1. 你还没有验证你的想法。 2. 您还没有与任何客户交谈。 3. 您正在建立代理机构、目录、服务或生物工具。 4. 您的营销预算为 0 美元。 5. 您已经在 50 多个优质平台上列出了您的产品。 6. 您的网站 DR &gt;30，并且您希望提高您的域名权重，而不是在各个平台上提高产品知名度，以向其他人展示您的产品广泛的受众。  Boringlaunch 适合您，如果： 1. 您已经验证了您的产品创意 2. 您希望增加来自 Google 的自然流量 3. 您了解您的目标受众. 4. 您正在构建人工智能产品或 SaaS。 5. 您希望在 100 多个平台上提交您的产品，但您不想花时间为您的 SaaS 寻找相关平台，并且提交您的产品。6. 您的网站的域名权限 (DA) 较低。  通过了解您的理想客户是谁，您可以调整您的营销工作，以有效地吸引他们并与他们互动。&lt; /a&gt;   由   提交 /u/gamifykaran   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d2cng3/how_to_identify_your_ideal_customers_in_7_minutes/</guid>
-      <pubDate>Tue, 28 May 2024 06:12:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>我构建了一个不露面的短裤生成器，可以自动生成短裤。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d2chp3/i_built_a_faceless_shorts_generator_that/</link>
-      <description><![CDATA[大家好， 我一直在开发一个名为 Quickshorts.co，我很乐意收到您的反馈和意见。它是一款旨在帮助内容创作者自动为 TikTok、YouTube 和 Instagram 等平台生成短视频的工具。 其工作原理如下：  创建您的系列：用户可以选择主题、选择旁白声音并设置视频长度。 自动生成：系统然后自动创建短片并发送到用户的收件箱。 预览和编辑：用户可以在发布之前预览视频并进行任何必要的编辑。  我真的很想听听大家对这个概念的看法。您看到任何潜在的改进吗？您想看到什么功能吗？任何积极或建设性的反馈，我们将不胜感激！ 提前致谢！   由   提交 /u/Tanzirulhuda   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d2chp3/i_built_a_faceless_shorts_generator_that/</guid>
-      <pubDate>Tue, 28 May 2024 06:01:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>我在 ChatGPT 侧边栏中构建了 Pin 聊天的扩展</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d2c82d/i_built_an_extension_to_pin_chats_in_chatgpt/</link>
-      <description><![CDATA[       由   提交 /u/averagenbichqenjoyer   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d2c82d/i_built_an_extension_to_pin_chats_in_chatgpt/</guid>
-      <pubDate>Tue, 28 May 2024 05:43:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年 12 个令人兴奋的编程项目创意</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d2bxu6/12_exciting_programming_project_ideas_for_2024/</link>
-      <description><![CDATA[       由   提交 /u/nokesh-full-stack   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d2bxu6/12_exciting_programming_project_ideas_for_2024/</guid>
-      <pubDate>Tue, 28 May 2024 05:24:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>通过艾威。 ME 发现数千种人工智能工具并提交以推广您的人工智能产品或工具！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d2br4g/via_aiwith_me_discover_thousands_of_ai_tools_and/</link>
-      <description><![CDATA[      这个AI导航网站是我在学习NextJS时搭建的；一路上寻找解决问题的AI工具，发现了很多有趣的AI产品；其中很多产品都很棒。我认为为我的浏览器添加书签是个好主意，但我想与世界上的每个人分享它，所以我有了这个网站。 现在你可以在 AIWITH 中做到这一点。 ME 寻找您工作、生活、学习所需的人工智能产品；我有很多类别可供选择：编程、艺术、写作、视频、生活方式、健康，凡是你能想到的，我都会尝试每天更新数据。 https://preview.redd.it/d3bznvorp33d1.png?width=3024&amp;format=png&amp; ;auto=webp&amp;s=87936215215e22d52c0a65605ac223ad58efed66 AIWITH.ME现已可以访问   由   提交 /u/Enough-Ad5201    reddit.com/r/SideProject/comments/1d2br4g/via_aiwith_me_discover_thousands_of_ai_tools_and/&quot;&gt;[链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d2br4g/via_aiwith_me_discover_thousands_of_ai_tools_and/</guid>
-      <pubDate>Tue, 28 May 2024 05:13:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>您是没有营销经验的技术创始人吗？以下是如何开始：</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d2a6zk/are_you_a_technical_founder_with_no_marketing/</link>
-      <description><![CDATA[大家好！ 我是 Nouman Rahman，一位营销机构所有者，热衷于帮助像您这样的企业实现在线目标目标。 您是否面临这些挑战？  网站流量低 转化率低 难以接触到目标受众 对最佳营销策略感到困惑  如果是这样，您并不孤单！许多企业都在努力应对不断变化的在线营销世界。 这就是为什么我本周向有限数量的企业提供免费营销审核！ 在审核期间，我将分析您当前的营销工作并提供以下方面的见解：  您的目标受众和消息传递 营销渠道的有效性 网站转化率优化 内容营销策略 搜索引擎优化和付费广告机会（如果适用）  6 个月的营销路线图  审核结束时，您将获得清晰的路线图，以改善您的在线形象并吸引更多客户！ 以下是申请免费营销审核的方法：  支持此帖子！ 在下面留下评论，描述您的业务和您的业务最大的营销挑战。 本周我将联系一些选定的企业进行免费咨询。  不要错过这个机会让您的业务更上一层楼！ 附注点赞这篇文章并发表评论可以帮助我吸引更多可以从此优惠中受益的企业。   由   提交/u/Nouman-Rahman   /u/Nouman-Rahman reddit.com/r/SideProject/comments/1d2a6zk/are_you_a_technical_Founder_with_no_marketing/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d2a6zk/are_you_a_technical_founder_with_no_marketing/</guid>
-      <pubDate>Tue, 28 May 2024 03:38:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>面试副驾驶 - 利用人工智能面试副驾驶在求职面试中脱颖而出</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d29tf3/interview_copilot_ace_your_job_interviews_with_ai/</link>
-      <description><![CDATA[介绍 AI Copilot，它可以在面试过程中立即理解并回答您的问题。 面试 AI Copilot 是一款充当面试工具的工具面试期间的副驾驶，为您提供找到工作所需的所有答案。 实时语音转录：该应用程序的语音转录可立即将面试官的口头技术问题转换为文本，这样您就不会错过任何一个问题。单个查询。 即时最佳解决方案：使用尖端人工智能，当面试官提出每个问题时，您都会得到理想的解决方案/答案 - 不再茫然。 行业特定知识库：Interview Copilot 借鉴了庞大的行业特定知识库，确保您能够访问相关的最新信息，从而使您比其他候选人更具竞争优势。 https://interviewcopilot.top/ 期待您的反馈   由   提交 /u/DangerousBake7752   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d29tf3/interview_copilot_ace_your_job_interviews_with_ai/</guid>
-      <pubDate>Tue, 28 May 2024 03:17:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>帮助我选择职业道路！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d29sgm/help_to_choose_my_career_path/</link>
-      <description><![CDATA[大家好！ 这是我第二次在这里发帖。我已经毕业有一段时间了，但仍然没有找到一份正式的工作。我手下几乎没有付费项目。我来自南亚，不打算很快离开我的国家。这里的科技行业主要是基于网络的，但从事网络开发并不是我的专长。这是个人选择，尽管在该领域有很多东西需要学习和工作。 在空闲时间，我解决了 leetcode 和 hackerrank 上的问题。我用蟒蛇做的。所以，我认为我有一个不错的基础。现在我想实践我所学到的东西。具体来说，我想构建一些有用的东西来解决现实生活中的问题。理想情况下，我想开发一种产品，如果用户觉得有帮助就可以推出。帮助我继续。谢谢。   由   提交/u/Exciting_Analysis453  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d29sgm/help_to_choose_my_career_path/</guid>
-      <pubDate>Tue, 28 May 2024 03:16:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
