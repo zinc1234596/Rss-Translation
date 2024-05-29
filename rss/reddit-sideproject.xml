@@ -4,7 +4,35 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Wed, 29 May 2024 18:16:33 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 May 2024 21:11:52 GMT</lastBuildDate>
+    <item>
+      <title>实时加密货币筛选器</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d3lou7/realtime_crypto_screener/</link>
+      <description><![CDATA[      基本过滤器，简洁干净的用户界面，完全免费。请检查并说出您的想法 https://momentumseeker.tiiny.site/ https://preview.redd.it/03kcs26xbf3d1.png?width=1599&amp;format=png&amp;auto=webp&amp;s=a22b07913ddecbfd2b4868b52ce198f3a19e05d2   由    /u/moon34870  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d3lou7/realtime_crypto_screener/</guid>
+      <pubDate>Wed, 29 May 2024 20:16:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>看看任何人如何可以将自己变成 AI 电子书！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d3jvxs/checkout_how_anyone_can_turn_themselves_into_an/</link>
+      <description><![CDATA[        提交人    /u/Full_Fish7306   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d3jvxs/checkout_how_anyone_can_turn_themselves_into_an/</guid>
+      <pubDate>Wed, 29 May 2024 18:57:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>烤我的登陆页面</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d3jpi1/roast_my_landing_page/</link>
+      <description><![CDATA[大家好！ 我刚刚完成了我即将推出的软件的登陆页面，这是我作为副业开发的。这是我第一次尝试向公众推广我的作品，我希望得到一些诚实的反馈。请记住，这是我第二次尝试制作一个看起来有点专业的登陆页面，简约是我的首要任务之一。 在此处查看页面：https://drimiteros.github.io/SecretScribble.github.io/ 提前谢谢大家！    提交人    /u/_slDev_   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d3jpi1/roast_my_landing_page/</guid>
+      <pubDate>Wed, 29 May 2024 18:50:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>我已经推出了我的评论营销工具，我需要一些建议。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d3jcuf/i_have_lunched_my_comment_marketing_tool_and_i/</link>
+      <description><![CDATA[首先，让我自我介绍一下。我是 Zuch，一名独立开发者，我想就我的产品征求一些建议。 我最近推出了我的评论营销工具 replyaibot.com 。这个想法的产生是因为我注意到社交媒体上有很多帖子寻求帮助。如果你的产品或服务可以解决发帖人遇到的问题，你可以在这里推广你的产品，而不会引起任何反感。事实上，这正是发生的事情。通过这种方法，我每天都会获得几个注册用户。 它目前还不是自动评论器。它是一个 Discord 机器人，可以实时监听社交媒体并提供回复建议。我想问问我是否应该把它做成自动回复器。 非常感谢任何回复。   由    /u/Zuch-Huang  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d3jcuf/i_have_lunched_my_comment_marketing_tool_and_i/</guid>
+      <pubDate>Wed, 29 May 2024 18:34:49 GMT</pubDate>
+    </item>
     <item>
       <title>在家学习的高收入技能 - 副项目</title>
       <link>https://www.reddit.com/r/SideProject/comments/1d3istb/high_income_skills_to_learn_at_home_side_project/</link>
@@ -15,7 +43,7 @@
     <item>
       <title>我的项目在简历上看起来会很好吗？还是它只是 GPT 包装器？</title>
       <link>https://www.reddit.com/r/SideProject/comments/1d3h1l8/would_my_project_look_good_on_a_resume_or_is_it/</link>
-      <description><![CDATA[大家好， 我目前是一名大学二年级学生，我正在尝试为我的 CS 简历制作一些项目，使用 Python、Java、C++ 和 JS/TS。对于这个项目，我尝试结合 Python 和某种 AI/RAG。 我的项目是一个利用 RAG 的 AI，以便通过教学法帮助大学学生学习。本质上： 用户开始一个新的学习课程，并提示他们上传他们的笔记/学习文档（可以是打字的、手写的等等）。 之后，人工智能处理笔记，然后询问用户他们到底想要学习什么，然后人工智能开始向用户询问有关笔记的问题。 然后，用户使用文本或麦克风回答问题，然后人工智能根据笔记和一般知识对用户的答案进行评分。 人工智能本质上取代了会考用户的同学。 我以前没有编写过这么大的项目，也没有编写过 Web 开发/人工智能项目，但我打算使用： 对于前端： 带有 React.js 的 TypeScript Tailwind CSS Redux 后端： FastAPI - Python PostgreSQL LangChain Hugging Face Tesseract OCR PyMuPDF OpenCV Auth0 服务器： AWS Docker Kubernetes 听起来怎么样？    提交人    /u/MrMrag   [link] [评论]]]></description>
+      <description><![CDATA[大家好， 我目前是一名大学二年级学生，我正在尝试为我的 CS 简历制作一些项目，使用 Python、Java、C++ 和 JS/TS。对于这个项目，我尝试结合 Python 和某种 AI/RAG。 我的项目是一个利用 RAG 的 AI，以便通过教学法帮助大学学生学习。本质上： 用户开始一个新的学习课程，并提示他们上传他们的笔记/学习文档（可以是打字的、手写的等等）。 之后，人工智能处理笔记，然后询问用户他们到底想要学习什么，然后人工智能开始向用户询问有关笔记的问题。 然后，用户使用文本或麦克风回答问题，然后人工智能根据笔记和一般知识对用户的答案进行评分。 人工智能本质上取代了会测验用户的同学。 我以前没有编写过这么大的项目，或者 Web 开发/人工智能项目，但我打算使用： 对于前端： 带有 React.js 的 TypeScript Tailwind CSS Redux 后端： FastAPI - Python PostgreSQL LangChain Hugging Face Tesseract OCR PyMuPDF OpenCV Auth0 服务器： AWS Docker Kubernetes 听起来怎么样？    提交人    /u/MrMrag   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1d3h1l8/would_my_project_look_good_on_a_resume_or_is_it/</guid>
       <pubDate>Wed, 29 May 2024 16:58:18 GMT</pubDate>
     </item>
@@ -27,16 +55,9 @@
       <pubDate>Wed, 29 May 2024 16:36:18 GMT</pubDate>
     </item>
     <item>
-      <title>简单多项式绘图仪</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d3eu9x/simple_polynomial_plotter/</link>
-      <description><![CDATA[  由    /u/Designer-View7048  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d3eu9x/simple_polynomial_plotter/</guid>
-      <pubDate>Wed, 29 May 2024 15:23:33 GMT</pubDate>
-    </item>
-    <item>
       <title>我的产品是否太令人困惑？</title>
       <link>https://www.reddit.com/r/SideProject/comments/1d3efqv/is_my_product_too_confusing/</link>
-      <description><![CDATA[我已经花了一年时间打造 Scipress.io，但还没有卖出任何一款产品。我知道它有市场，因为我有直接竞争对手（Medium、Substack、Material for MkDocs 等）。我甚至有 130 个注册用户，但大多数用户似乎都流失了。 我对我的产品非常满意，但我开始怀疑我的信息传递。例如，有人告诉我  &quot;我不会使用它，因为我不想出售我的内容&quot; 但您不必在 Scipress 上出售内容；这是一个&quot;选择加入&quot;功能。 &quot;我不想为别人写作&quot; 但是我并没有要求你为我写作。你拥有你自己的所有内容，并且你是自己作品的作者。 &quot;费用是多少？&quot; 费用在主页上注明！  最重要的是，很多人发帖后立即流失。 我的产品清楚吗？希望在这方面得到一些反馈。    提交人    /u/neb2357   [链接] [评论]]]></description>
+      <description><![CDATA[我花了一年时间打造 Scipress.io，但还没有卖出任何产品。我知道它有市场，因为我有直接竞争对手（Medium、Substack、Material for MkDocs 等）。我甚至有 130 个注册用户，但大多数用户似乎都流失了。 我对我的产品非常满意，但我开始怀疑我的信息传递。例如，有人告诉我  &quot;我不会使用它，因为我不想出售我的内容&quot; 但您不必在 Scipress 上出售内容；这是一个&quot;选择加入&quot;功能。 &quot;我不想为别人写作&quot; 但是我并没有要求你为我写作。你拥有你自己的所有内容，并且你是自己作品的作者。 &quot;费用是多少？&quot; 费用在主页上注明！  最重要的是，很多人发帖后立即流失。 我的产品清楚吗？希望在这方面得到一些反馈。    提交人    /u/neb2357   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1d3efqv/is_my_product_too_confusing/</guid>
       <pubDate>Wed, 29 May 2024 15:06:22 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[      只是想分享一下我过去两周一直在做的事情。 https://preview.redd.it/6ljd69sb4d3d1.png?width=1920&amp;format=png&amp;auto=webp&amp;s=eee579004c97fd34c4184d81827458738efbd729 https://preview.redd.it/c6b52xse4d3d1.png?width=1920&amp;format=png&amp;auto=webp&amp;s=3bb7b62739c6b2173c8604788fe1222627b0051a https://preview.redd.it/pxbtmw9i4d3d1.png?width=1920&amp;format=png&amp;auto=webp&amp;s=da0ce29846ffe093cc000d74fb0c85b98ed90885 每次我完成一个应用程序的构建时，我都会遇到一个障碍，不知道如何继续前进 - 因此被迫处理临时的编码障碍。 我觉得没有应用程序解决方案可以帮助我前进或开发下一个应用程序，所以我创建了 Phases - 一个项目跟踪工具牢记 3 个目标：  跟踪现有应用的不同版本、生命周期或阶段，以了解其随着时间的推移如何进展并反映我的成就。 将我的所有应用创意放在一个地方，而不是在不同的笔记应用上列出无尽的清单，我可能永远都不会阅读这些清单。因此，这创建了可操作的步骤来构建应用创意并将其发布出去，而不是重新访问列表，希望我会渴望或有动力然后继续。 最后，列出我历史上所有最自豪的项目。我无法将它们全部添加到我的投资组合中，但我仍然希望跟踪它们，以防我想修改它们或从中汲取灵感。  告诉我你的想法，这样当我部署时，我可以分享链接给那些会觉得有用的人。它不打算成为 SaaS 应用程序或赚钱工具，只是更好地实现项目目标的一种手段。    提交人    /u/Tlaley   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1d3bf0o/i_made_a_project_tracking_tool_for_better/</guid>
       <pubDate>Wed, 29 May 2024 12:50:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找 shopify 应用的电子商务联合创始人</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d3b4fr/looking_for_ecommerce_cofounder_for_shopify_app/</link>
-      <description><![CDATA[我正在寻找一位有 shopify 商店经验的电子商务专家。  我有一个应用程序的想法。实际上，我已经构建并发布了一次应用程序，但有点不尽人意。 它基本上是关于商家商店中发生的所有事情的审计日志。由于某种原因，它没有内置到 shopify 中，现有的应用程序看起来最多只能算是中等水平。  我正在寻找一个可以从非技术/客户角度深入了解商家实际工作方式、用户体验等的人。 我需要关于诸如“商家是否使用管理 UI，或者每个正规商店是否都使用 ERP/PIM”之类的反馈？“人们关心 GDPR 吗？我的意思是我接触过的每家企业都关心……”。  我是一名经验丰富的开发人员。 我已经开发过一次应用程序，所以我知道会出现一些技术限制。 50/50 合作伙伴关系。 这是一个附带项目。不会有资金。没有团队。不需要招聘。 我们应该能够轻松地将应用程序概念化，解决一些问题并在 1-2 个月内进入商店。 我通常认为许多 shopify 应用程序质量真的很低。电子商务领域专家和优秀的开发人员可能会找到越来越多的想法来转化为应用程序。    提交人    /u/Venisol   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d3b4fr/looking_for_ecommerce_cofounder_for_shopify_app/</guid>
-      <pubDate>Wed, 29 May 2024 12:34:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>新的副项目 - 商业、人工智能、加密货币和金融博客</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d3b1e5/new_side_project_blog_on_business_ai_crypto_and/</link>
-      <description><![CDATA[      大家好， 我很高兴与大家分享我最新的副业 - 我的新博客，Nicolazzze.blog！这个博客是我对商业、人工智能、加密和金融的热情的结晶，我渴望听到这个社区对此的看法。 https://preview.redd.it/a80dqpzc0d3d1.png?width=1920&amp;format=png&amp;auto=webp&amp;s=79da2459ce553859c0d6521e8fb36eb385f66c9a 在博客上，你会发现： • 关于人工智能的最新进展 • 加密货币投资综合指南 • 管理个人和企业财务的专家提示 • 对当前商业机会和趋势的见解 我期待收到您的反馈和建议。请花点时间访问Nicolazzze.blog并让我知道您的想法。随着我继续发展和改进这个项目，您的意见将非常宝贵。 感谢您的时间和支持！    提交人    /u/NicolzzzzE   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d3b1e5/new_side_project_blog_on_business_ai_crypto_and/</guid>
-      <pubDate>Wed, 29 May 2024 12:30:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>[反馈请求] CSV,JSON 转 API 服务</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d3al9p/feedback_request_csvjson_to_api_service/</link>
-      <description><![CDATA[大家好， 我正在做一个业余项目，希望得到你们对这个想法的反馈。该项目是一个数据到 API 服务，用户只需点击几下即可轻松将其 CSV 或 JSON 文件转换为功能性 API。该服务还包括用于安全访问控制的 API 密钥管理。 该服务的主要功能包括：  支持 CSV 和 JSON 文件格式 使用可自定义的端点和参数自动生成 API 用于安全访问和控制的 API 密钥管理 数据发生变化时实时更新 轻松与其他应用程序和系统集成 全面的文档和开发人员资源  目标是简化将静态数据文件转换为动态交互式 API 的过程，这些 API 可用于数据分析、应用程序开发等各种目的。纳入 API 密钥管理可确保数据访问的安全性和可控性。 我将非常感谢您对这个想法的想法和反馈。    提交人    /u/darvour   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d3al9p/feedback_request_csvjson_to_api_service/</guid>
-      <pubDate>Wed, 29 May 2024 12:06:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
