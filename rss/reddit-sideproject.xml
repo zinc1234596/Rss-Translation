@@ -4,20 +4,34 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Wed, 29 May 2024 01:00:14 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 May 2024 03:15:11 GMT</lastBuildDate>
+    <item>
+      <title>Prepair——针对软件工程师的有趣模拟面试挑战！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d31afa/prepair_fun_mock_interview_challenge_for_software/</link>
+      <description><![CDATA[大家好， 在科技行业就业市场不景气、招聘冻结的背景下，我和我的朋友开发了 Prepair，这是一款受街机游戏启发的游戏化模拟面试工具，供软件工程师使用。非常感谢您提供反馈！ 以下是我们旨在通过这个项目解决的问题：  与真正的软件专业人士进行模拟面试的费用可能非常昂贵，30 分钟的面试通常要花费 100-200 美元。我们尝试使用人工智能来制作一种更实惠但质量更高的替代方案。 根据我们的经验，很多公司不会进行 leetcode 风格的 DSA 面试，但大多数面试准备服务都专注于这个领域。Prepair 将提出各种风格的问题，这些问题可能对您来说更实用。 面试最终是一场比赛，但很难快速衡量你的水平。使用 Prepair 的排行榜看看你在与潜在候选人以及过去的自己相比能获得多高的分数！  TLDR：就把它想象成一个面向开发人员的 Duolingo-vibe 模拟面试工具吧。 尝试一下并分享你的想法 :) 谢谢。 项目链接：https://www.letsprepair.com/    提交人    /u/Proud_Nothing_1043   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d31afa/prepair_fun_mock_interview_challenge_for_software/</guid>
+      <pubDate>Wed, 29 May 2024 02:14:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>每天 900 美元能给你带来什么？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d30yer/what_would_900day_do_for_you/</link>
+      <description><![CDATA[        提交人    /u/mydailyblueprint   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d30yer/what_would_900day_do_for_you/</guid>
+      <pubDate>Wed, 29 May 2024 01:56:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们做大2B客户，没有做2C用户，8年后我们决定降价80%</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d30uh4/we_made_large_2b_clients_but_none_2c_users_after/</link>
+      <description><![CDATA[  由    /u/Xiaowen-Z  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d30uh4/we_made_large_2b_clients_but_none_2c_users_after/</guid>
+      <pubDate>Wed, 29 May 2024 01:51:03 GMT</pubDate>
+    </item>
     <item>
       <title>我刚刚启动了 - SendVocal - ▶︎ ၊၊||၊|။||||။‌‌‌‌‌၊|• 0:10 -- 使用 AI 转录发送语音消息🔥</title>
       <link>https://www.reddit.com/r/SideProject/comments/1d2ymtf/i_just_launched_sendvocal_010_send_voice/</link>
       <description><![CDATA[        提交人    /u/xindex   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1d2ymtf/i_just_launched_sendvocal_010_send_voice/</guid>
       <pubDate>Wed, 29 May 2024 00:02:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>我正在 Popeyes 中创建一个激励机器人</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d2xxpd/im_creating_a_motivational_bot_in_popeyes/</link>
-      <description><![CDATA[大家好 我和我的开发人员朋友在 Popeyes 吃三明治拼盘（双份薯条）。我们深思后发现我们又把饮食搞砸了！该死！我们需要改变。我们需要动力。所以我们想到了一个主意，创建一个激励聊天机器人，根据您的情况量身定制，为您提供动力。我们立即开始构建它，并想问问大家这个想法是好是坏。  有什么想法吗？     提交人    /u/Wooden-Pie-3735   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d2xxpd/im_creating_a_motivational_bot_in_popeyes/</guid>
-      <pubDate>Tue, 28 May 2024 23:29:40 GMT</pubDate>
     </item>
     <item>
       <title>一款比较本地杂货店价格的应用程序</title>
@@ -78,7 +92,7 @@
     <item>
       <title>您是否已拥有在线 saas/工具？来这里...</title>
       <link>https://www.reddit.com/r/SideProject/comments/1d2t2k3/do_you_already_have_a_online_saastool_come_here/</link>
-      <description><![CDATA[大家好！ 我正在为我的博客准备一些内容，我很乐意听取你们的评论！ 我的问题是： - 你的 saas/工具叫什么名字？ - 这个想法从何而来？ - 你什么时候意识到这是值得付出努力的事情？ - 对初学者最好的建议是什么！ 我的想法是在我的博客上发表一些文章，所以如果你想附上你的 X(Twitter)！ 谢谢你的合作！    提交人    /u/Secret-Ad-3894   [链接] [评论]]]></description>
+      <description><![CDATA[大家好！ 我正在为我的博客准备一些内容，我很乐意听取你们的评论！ 我的问题是： - 你的 saas/工具叫什么名字？ - 这个想法从何而来？ - 你什么时候意识到这是值得付出努力的事情？ - 对刚开始的人最好的建议是什么！ 我的想法是在我的博客上写一些内容，所以如果你想附上你的 X(Twitter)！ 谢谢你的合作！    提交人    /u/Secret-Ad-3894   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1d2t2k3/do_you_already_have_a_online_saastool_come_here/</guid>
       <pubDate>Tue, 28 May 2024 20:06:42 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[      大家好， 我想分享一下我刚刚发布的一款名为 PuzzleMath 的新游戏！ （www.puzzlemath.io） 游戏的目的是将数字和运算符结合起来，直到获得网格中存在的结果。 你怎么看？ 目前，该游戏仅通过浏览器提供，但我也在考虑一个应用程序。 欢迎您的意见/批评：D !!! https://preview.redd.it/nse1dpdry​​73d1.png?width=968&amp;format=png&amp;auto=webp&amp;s=c98e253ade51d58c5752967f67570f3c20c0ae8f    提交人    /u/LeMatt_1991   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1d2s5r8/a_puzzle_math_game/</guid>
       <pubDate>Tue, 28 May 2024 19:32:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>我建立了一个简单的命令行工具。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d2rxkd/i_built_a_simply_commandline_tool/</link>
-      <description><![CDATA[我将此工具称为AOs。 最初该项目是用 Python 编写的，但后来我改用了 C#。早在 2020 年，我也开始将其作为一个业余项目来工作。 我脑海中保留了一些想象中的客户，起初我试图创建一个更像虚拟的 CMD 克隆，它实际上什么都做不了，但后来它慢慢变成了可以真正做某事的东西。 AOs 的目标很简单。更好地自定义命令行以及一些基本功能，如语法高亮和自动完成建议。 目前它仅支持 Windows。 如果有人可以拆开代码并给我一些关于项目和代码的反馈，我会非常高兴。我愿意接受所有批评。 注意：我曾经从我的另一个帐户发布了关于它的帖子，它确实得到了很多应得的批评，特别是在它的自述文件中，所以我花了一些时间（没有比我想承认的更长）来重写自述文件。    提交人    /u/SrijSriv211   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d2rxkd/i_built_a_simply_commandline_tool/</guid>
-      <pubDate>Tue, 28 May 2024 19:23:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>Beta 测试人员？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d2rtm0/beta_testers/</link>
-      <description><![CDATA[我正在构建 Canny 的替代方案，目的是拥有一个可以通过电子邮件、小部件或您的页面与用户共享的更改日志  使用您的个性化域名反馈部分，您的用户可以在其中询问您有关功能、报告错误等。 PING ME 我会发送给您     提交人    /u/Mans__js   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d2rtm0/beta_testers/</guid>
-      <pubDate>Tue, 28 May 2024 19:18:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
