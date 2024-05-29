@@ -4,7 +4,56 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Wed, 29 May 2024 03:15:11 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 May 2024 06:17:36 GMT</lastBuildDate>
+    <item>
+      <title>吐槽我的新项目：BabblerAI，一个通过与 AI 对话来学习语言的新平台</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d357c2/roast_my_new_project_babblerai_a_new_platform_for/</link>
+      <description><![CDATA[我正在寻找新用户（目前我们有 100 多名用户）来帮助我改进我的新项目。它包括一次慷慨的试用，因此您可以获得一个想法并轻松地嘲笑我。 尝试一下并告诉我，欢迎任何评论！谢谢！ https://babblerai.com/    由   提交  /u/h_rules   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d357c2/roast_my_new_project_babblerai_a_new_platform_for/</guid>
+      <pubDate>Wed, 29 May 2024 06:03:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>我建立了一个简单的命令行工具。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d34vgs/i_built_a_simply_commandline_tool/</link>
+      <description><![CDATA[      我将这个工具称为 AOs。 https://github.com/SrijanSriv211/AOs https://i.redd.it/fdcpx82cya3d1.gif https://i.redd.it/0e21p9q3za3d1.gif 最初这个项目是用 Python 编写的，但后来我改用 C#。 2020 年，我也开始将其作为业余爱好项目。 我脑海中保留了一些想象中的客户，起初我尝试创建一个更像虚拟的 CMD 克隆（因为我当时正在学习 C#），它实际上什么都做不了，但后来它慢慢变成了可以做某事的东西。 AO 的目标很简单。为了更好地自定义命令行以及一些基本功能，如语法高亮和自动完成建议或类似的东西。 目前它仅支持 Windows。 如果有人可以拆开代码并给我一些关于项目的反馈，我会非常高兴。我愿意接受所有批评。  注意：我曾经从我的另一个帐户发布了关于它的帖子，它确实得到了很多应得的批评，特别是在它的自述文件中，所以我花了一些时间（没有比我想承认的更长）来重写自述文件。     提交人    /u/SrijSriv211   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d34vgs/i_built_a_simply_commandline_tool/</guid>
+      <pubDate>Wed, 29 May 2024 05:41:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>我想在终身交易中添加 30 天试用方法，使用 stripe 和 next js。我该如何添加它，我在创建付款链接部分看不到添加试用期的选项。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d34ux9/i_want_to_add_30_day_trail_method_in_a_lifetime/</link>
+      <description><![CDATA[  由    /u/Big-Control-1125  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d34ux9/i_want_to_add_30_day_trail_method_in_a_lifetime/</guid>
+      <pubDate>Wed, 29 May 2024 05:40:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>让我（高级用户体验/用户界面设计师）批评一下你的项目登陆页面，并重新设计我最讨厌的那个</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d34l1e/let_me_sr_uxui_designer_roast_your_projects/</link>
+      <description><![CDATA[哟！五月对我来说是一个疯狂的自由职业月，六月看起来要好多了。想以零压力、零最后期限的方式开始这个月。 标题说明了一切。留下你的项目网址，我会录制一段 2-3 分钟的简短视频，分享我的想法和反馈。如果我实在受不了你的网站，我会在 Framer 中重新设计它。 干杯！    提交人    /u/pasta_nick_   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d34l1e/let_me_sr_uxui_designer_roast_your_projects/</guid>
+      <pubDate>Wed, 29 May 2024 05:22:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>LocalLlama 基准测试：本地 LLms 硬件比较</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d34jb9/localllama_benchmark_comparing_hardware_for_local/</link>
+      <description><![CDATA[      包括我在内的许多人都在寻找最佳硬件选项来在本地运行 LLM。我创建了一个简单的应用程序来收集用户的数据并允许比较不同的硬件选项。 收集的所有数据都是完全开放的，可以作为 json 下载。 该应用程序处于非常早期的开发阶段。洞察和比较部分仍在进行中。我将不胜感激任何帮助或反馈 GitHub 链接：LocalLlama-Benchmark https://preview.redd.it/n7ml3ircva3d1.png?width=1591&amp;format=png&amp;auto=webp&amp;s=accd6715f16a66b34416aa3837424660662a8a58    由    /u/0ssamaak0  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d34jb9/localllama_benchmark_comparing_hardware_for_local/</guid>
+      <pubDate>Wed, 29 May 2024 05:18:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>想要出售我的数字产品市场 – 现在值得出售还是暂缓出售？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d3445m/want_to_sell_my_digital_products_marketplace/</link>
+      <description><![CDATA[我有一个名为 Digital Mine 的副项目（一个寻找能让你的生活更轻松的最佳数字产品的市场），这是我 1 个月前建立的。 但我现在想卖掉它，因为我必须专注于其他重要项目，而且我没有时间进行营销。它功能齐全且可扩展。 售价仅为 1000 美元 这是实时链接：Digital Mine    提交人    /u/gary_king_001   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d3445m/want_to_sell_my_digital_products_marketplace/</guid>
+      <pubDate>Wed, 29 May 2024 04:52:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>创始人们，在购买订阅之前，你们考虑过多少次？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d33sfi/founders_how_many_times_do_you_think_before/</link>
+      <description><![CDATA[大家好！ 作为早期创始人，我一直在尽可能地削减成本，尤其是在订阅方面。 我正在与同样在创业的朋友分享我的一些订阅服务。 我很好奇这是否是早期创始人中常见的问题，订阅共享平台是否可以帮助解决该问题。如果答案是肯定的，请分享您的想法并帮助我验证这个想法，以便了解我可以采取的后续步骤。 当然，我知道有些工具您不能与任何人分享。 考虑建立一个登陆点来收集等候名单上的人。    提交人    /u/hov26   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d33sfi/founders_how_many_times_do_you_think_before/</guid>
+      <pubDate>Wed, 29 May 2024 04:32:05 GMT</pubDate>
+    </item>
     <item>
       <title>Prepair——针对软件工程师的有趣模拟面试挑战！</title>
       <link>https://www.reddit.com/r/SideProject/comments/1d31afa/prepair_fun_mock_interview_challenge_for_software/</link>
@@ -60,55 +109,6 @@
       <description><![CDATA[大家好， 我过去在翻译我的网络应用程序时遇到了很多麻烦，所以我制作了一个工具来帮助这个过程。我总是使用 i18next 进行本地化，所以这个工具是围绕这个框架设计的。我已经将它用于我自己的许多应用程序，它非常有用。 注册和测试都是免费的。我本月早些时候部署了，所以我肯定在寻找反馈和建议。请让我知道你的想法！ 如果你有兴趣，你可以在 https://www.i18now.ai/ 上试用它。另外 - 如果你好奇，我使用 DeepL 来生成翻译。它被评为最好的 AI 翻译引擎，远远超过了谷歌翻译和微软翻译。    提交人    /u/aybar   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1d2uf1k/i_made_a_tool_to_automatically_translate_i18next/</guid>
       <pubDate>Tue, 28 May 2024 20:59:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>我已经推出了一个免费数据库，其中包含 1000 多个人们在 Google 上积极搜索的微型 SaaS 创意，因此您可以围绕它们构建应用程序来提供解决方案，并将现有需求转化为流量和销售</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d2uasc/ive_launched_a_free_database_with_1000_micro_saas/</link>
-      <description><![CDATA[      我刚刚推出了一个免费数据库，其中包含 1000 多个人们在 Google 上积极搜索的微型 SaaS 创意，这些创意基于平均每月搜索量和在 Google 上排名的难度。 👉🏽 https://microsaasvault.com 这些正是人们正在搜索的东西，您可以围绕它们构建应用程序来提供解决方案🧠并将现有的搜索需求引导至流量和销售。 您可以根据产品创意的搜索量或关键字难度对其进行排序，并应用过滤器仅显示特定的想法。这样，您就可以挑选竞争最低、需求最高的创意。  https://preview.redd.it/5amgaglhc83d1.png?width=1536&amp;format=png&amp;auto=webp&amp;s=dae3857494fecb9b4cf44551b525f533c3168423 最好的部分是什么？ 它是 100% 免费的，并且会经常添加新想法，因此您永远不会缺少新的机会！🔥 👉🏽 https://microsaasvault.com    由   提交  /u/helloitspaco   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d2uasc/ive_launched_a_free_database_with_1000_micro_saas/</guid>
-      <pubDate>Tue, 28 May 2024 20:54:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>在工作和家庭之间，您如何找出时间来从事副业？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d2u7tk/between_work_and_family_how_do_you_find_time_to/</link>
-      <description><![CDATA[我目前有一份朝九晚五的工作，同时还兼职做厨师，经营一家外包公司。我在这里发表文章的坏处是，我现在正试图建立一种技术，让人们的家务活自动完成，这基本上只是扩大我在外包公司的工作范围，同时我还是一个好丈夫和两个可爱孩子的父亲。 我一直很忙，没有像往常一样有那么多时间，我觉得我不喜欢它对我与家人的关系的影响。如果你也处于类似的情况，你是如何在工作、家庭和你的副业之间找到平衡的？    提交人    /u/Spartan_gun   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d2u7tk/between_work_and_family_how_do_you_find_time_to/</guid>
-      <pubDate>Tue, 28 May 2024 20:51:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>为您的业务或服务提供解释视频</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d2u746/explainer_videos_for_your_business_or_services/</link>
-      <description><![CDATA[快来加入我们，创建精彩社区 https://www.reddit.com/r/explainervideos    提交人    /u/Odd_Past6780   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d2u746/explainer_videos_for_your_business_or_services/</guid>
-      <pubDate>Tue, 28 May 2024 20:50:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>SaaS 登陆页面反馈</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d2t7af/feedback_on_saas_landing_page/</link>
-      <description><![CDATA[目前正在准备发布，很高兴找到第一批 beta 用户。如果您有兴趣，请联系我们，我们很乐意与您讨论。 感谢对网页的任何建设性反馈。 bergamot-ai.de    由   提交  /u/logheatgarden   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d2t7af/feedback_on_saas_landing_page/</guid>
-      <pubDate>Tue, 28 May 2024 20:11:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>您是否已拥有在线 saas/工具？来这里...</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d2t2k3/do_you_already_have_a_online_saastool_come_here/</link>
-      <description><![CDATA[大家好！ 我正在为我的博客准备一些内容，我很乐意听取你们的评论！ 我的问题是： - 你的 saas/工具叫什么名字？ - 这个想法从何而来？ - 你什么时候意识到这是值得付出努力的事情？ - 对刚开始的人最好的建议是什么！ 我的想法是在我的博客上写一些内容，所以如果你想附上你的 X(Twitter)！ 谢谢你的合作！    提交人    /u/Secret-Ad-3894   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d2t2k3/do_you_already_have_a_online_saastool_come_here/</guid>
-      <pubDate>Tue, 28 May 2024 20:06:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻求有关人工智能宗教产品的反馈</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d2stys/seeking_feedback_on_aiintegrated_religious_product/</link>
-      <description><![CDATA[大家好， 我们致力于“利用人工智能增强宗教友谊”。&quot;我们正在开发一种新的 AI 集成数字产品，结合 ChatGPT 技术来增强宗教体验和陪伴。 我们正在寻找：  1946 年至 1970 年之间出生的教会成员 积极参与教会活动 我们也欢迎可能从该产品中受益的老年人家属的见解  我们需要什么：  30-60 分钟的在线采访，以收集您的想法和反馈  补偿：  参与者将获得 50 美元的奖励  感兴趣吗？  请在下方发表评论或直接给我留言，我们将提供有关如何参与的更多详细信息。  我们期待听到您的声音和在您的帮助下使这个项目取得成功！    由   提交  /u/Cheap-Interview-5273   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d2stys/seeking_feedback_on_aiintegrated_religious_product/</guid>
-      <pubDate>Tue, 28 May 2024 19:58:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>益智数学游戏</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d2s5r8/a_puzzle_math_game/</link>
-      <description><![CDATA[      大家好， 我想分享一下我刚刚发布的一款名为 PuzzleMath 的新游戏！ （www.puzzlemath.io） 游戏的目的是将数字和运算符结合起来，直到获得网格中存在的结果。 你怎么看？ 目前，该游戏仅通过浏览器提供，但我也在考虑一个应用程序。 欢迎您的意见/批评：D !!! https://preview.redd.it/nse1dpdry​​73d1.png?width=968&amp;format=png&amp;auto=webp&amp;s=c98e253ade51d58c5752967f67570f3c20c0ae8f    提交人    /u/LeMatt_1991   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d2s5r8/a_puzzle_math_game/</guid>
-      <pubDate>Tue, 28 May 2024 19:32:27 GMT</pubDate>
     </item>
     </channel>
 </rss>
