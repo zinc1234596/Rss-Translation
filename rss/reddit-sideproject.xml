@@ -4,20 +4,97 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Fri, 31 May 2024 18:16:42 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 May 2024 21:12:35 GMT</lastBuildDate>
+    <item>
+      <title>大家好！我是一名大学生，热衷于创作令人惊叹的图片并帮助他人。我开始从事这项自由职业服务作为副业。希望我们将来能合作！祝您有美好的一天！链接：https://www.fiverr.com/johns_edit</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d56c9o/hi_there_im_a_university_student_with_a_passion/</link>
+      <description><![CDATA[        提交人    /u/balabala1111111111   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d56c9o/hi_there_im_a_university_student_with_a_passion/</guid>
+      <pubDate>Fri, 31 May 2024 21:11:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>我正在开发一款像社交媒体一样的学习应用程序，这样你就可以把自己卷入知识中</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d55ues/im_building_a_learning_app_that_works_like_a/</link>
+      <description><![CDATA[        由    /u/FellowKidsFinder69   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d55ues/im_building_a_learning_app_that_works_like_a/</guid>
+      <pubDate>Fri, 31 May 2024 20:50:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>我已开始撰写有关域名机会的新闻通讯。我需要 20 位关注者，您能帮忙吗？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d55is9/ive_started_a_newsletter_about_domain/</link>
+      <description><![CDATA[       由    /u/joanmiro  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d55is9/ive_started_a_newsletter_about_domain/</guid>
+      <pubDate>Fri, 31 May 2024 20:35:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>模因搜索工具</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d55cxw/meme_search_tool/</link>
+      <description><![CDATA[  由    /u/osmarks  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d55cxw/meme_search_tool/</guid>
+      <pubDate>Fri, 31 May 2024 20:28:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>RiftSpy.GG - 又一个个人资料追踪器</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d54uz4/riftspygg_yet_another_profile_tracker/</link>
+      <description><![CDATA[RiftSpy 是典型的基本玩家追踪器，我使用 NextJS 14 App Router 出于爱好而构建了它。 主要特点：  个人资料搜索：轻松搜索玩家个人资料以收集有关他们的游戏统计信息。 比赛历史：访问详细的比赛历史以查看过去的比赛和表现。 排名信息：随时了解排名统计数据和进度，包括分区、LP 和胜负率。 冠军精通：追踪每个冠军的精通进度并展示你的专业知识。 比赛详情：深入了解特定的比赛细节。排行榜：查看任何地区、任何层级和任何部门的排名。 实时游戏：通过自动实时游戏检测，RiftSpy 会在检测到您正在玩游戏时在您的个人资料上显示横幅，以便您在玩游戏时查看对手的排名。  所有使用 Riot API 完成的操作，希望它能够继续在多个用户同时使用的情况下顺利运行，但如果出现一些问题，我也不会感到惊讶（我总是错过很多问题）。 所有搜索到的个人资料都会在 mongodb 中存储 3 分钟，然后被删除并重新获取新数据（这可能需要增加，谁知道呢）。这只是让您可以浏览您的个人资料而无需较长的加载时间。 - 因此，直播游戏可能需要长达 3 分钟才能显示在您的个人资料上。 可以在此处访问：https://riftspy.vercel.app/ 如果您愿意，请随意为其加注星标（非常感谢）：https://github.com/danblock97/lol-tracker 我还有一个 discord 机器人，它也允许您搜索任何 LoL 或 TFT 玩家以查看他们的统计数据。 可以通过其网页访问该机器人，您可以在其中将其添加到您的服务器：https://astrostats.vercel.app/ 也请随意为其加注星标！ （如果您想要）：https://github.com/danblock97/AstroStats    由   提交  /u/Goldiez_Boi   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d54uz4/riftspygg_yet_another_profile_tracker/</guid>
+      <pubDate>Fri, 31 May 2024 20:07:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>我为自己的企业创建的工具——您感兴趣吗？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d54sea/a_tool_i_created_for_my_business_would_you_be/</link>
+      <description><![CDATA[      大家好， 我一直在做一个小项目，它确实帮助我营销了我的应用程序，我想知道它是否也对其他人有用。  我创建了一个软件，用于自动查找并与社交媒体上正在讨论我的应用所解决的问题的人互动。它为我节省了大量时间，并大大增加了我的关注者和影响力。  它的作用如下： 在社交媒体上搜索有关特定问题的相关对话。 自动关注并与讨论这些问题的用户互动。 简化了在一个地方跟踪所有互动的过程。  我正在考虑改进用户界面，使其更易于使用，如下面的模型所示  https://preview.redd.it/yk000dk2jt3d1.jpg?width=1110&amp;format=pjpg&amp;auto=webp&amp;s=27ed0b98b89e51753cec139eb6bf593353b4331f 其他人会发现这个工具对他们自己的业务有用吗？ 我很想听听你的想法和建议！  谢谢！ 噪音    由    /u/noise_in_paris 提交   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d54sea/a_tool_i_created_for_my_business_would_you_be/</guid>
+      <pubDate>Fri, 31 May 2024 20:03:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>将聊天机器人与 WhatsApp 集成，为小型企业提供服务</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d54ct1/integrating_chatbots_with_whatsapp_for_small/</link>
+      <description><![CDATA[大家好！ 我最近为一些小型企业开发了一些聊天机器人，这些企业无法访问 Facebook 的官方 WhatsApp API，但想要一个专用电话号码来协助他们的客户。 为了实现这一目标，我使用 OpenAI 和 whatsapp-web.js（一个通过 WhatsApp Web 浏览器应用程序运行的 NodeJS WhatsApp 客户端库）编写了一个连接。值得注意的是，这个库不使用官方的 Meta/Facebook API。 我的一个客户使用此设置来教授语言。用户可以发送语音或文本消息，助手会以语音和文本进行响应。另一个客户使用它从数据库中检索法律文件。 考虑到功能和潜在好处，我正在考虑创建一个平台，以系统化使用 OpenAI 和 WhatsApp Web JS 设置机器人的过程。该平台允许客户扫描二维码链接他们的 WhatsApp 帐户并设置 AI 指令，以及管理文档和 API 功能。 我没有创建 SaaS 或销售数字产品的经验；所以我不知道如何处理这个问题。 你们有人对这样的服务感兴趣吗？    提交人    /u/Advanced-Drawing-670   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d54ct1/integrating_chatbots_with_whatsapp_for_small/</guid>
+      <pubDate>Fri, 31 May 2024 19:45:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们制作了一款通过互动音频游戏来帮助人们对抗孤独的应用程序</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d54bon/we_made_an_app_to_help_combat_loneliness_with/</link>
+      <description><![CDATA[      表情符号和表情包无法解决我们面临的无声战斗。我们的应用促进脆弱性，恢复失传的对话艺术，并为在线、分散或繁忙的社区提供有趣的数字第三空间。 GroupMe、Whatsapp 和 Slack 非常适合消息传递，但并不总是为欢乐和亲密的时刻而构建。 这就是我们邀请您分享反馈的原因。 https://linktr.ee/saltandlight.community 我们的游戏 Salt + Light 的演示    提交人    /u/Significant_Aioli971   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d54bon/we_made_an_app_to_help_combat_loneliness_with/</guid>
+      <pubDate>Fri, 31 May 2024 19:43:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个关于如何将具有自定义知识库的 AI 聊天机器人免费集成到你的网站的教程</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d53puh/i_made_a_tutorial_about_how_to_integrate_an_ai/</link>
+      <description><![CDATA[        由    /u/LimeLom1 提交   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d53puh/i_made_a_tutorial_about_how_to_integrate_an_ai/</guid>
+      <pubDate>Fri, 31 May 2024 19:17:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用这款出色的 Chrome 扩展程序将 ChatGPT 和 Gemini 体验提升到新水平！🚀 第一天就获得第一笔销售！- 请提供反馈</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d5333c/boost_chatgpt_gemini_experience_to_the_next_level/</link>
+      <description><![CDATA[大家好！ 我想分享一下我创建 Chrome 扩展程序的故事，该扩展程序旨在增强您的 ChatGPT 和 Google Gemini 交互。此外，我很高兴地宣布我们在第一天就取得了第一笔销售！我来这里是为了参加 AMA 会议，并欢迎大家提出反馈意见。 如果您想查看它，可以在此处访问它。 我为什么构建这个扩展程序： 作为 ChatGPT 和 Gemini 的频繁用户，我发现自己经常要处理多个聊天，努力跟踪重要的对话，并希望有一种更有效的方式来共享文档。这次经历启发我开发一个扩展程序来解决这些常见的痛点，并简化像我这样的用户的工作流程。 它解决了哪些问题：  无缝文档上传：该扩展程序允许您毫不费力地将 PDF、Word 文档和其他文件直接上传到您的聊天中，从而实现更顺畅、更高效的沟通。 增强的书签管理器：使用我们先进的书签系统轻松浏览您的重要消息。再也不会忘记关键对话。 多聊天管理：使用我们改进的批处理功能选择、删除和存档多个聊天。精确地大规模管理您的聊天。 用户友好界面：干净直观的设计确保无缝的用户体验，使导航变得轻而易举。 可自定义的设置：定制设置以完美适应您的工作流程，提高您的整体效率。 顶级安全性：我们优先考虑您的隐私，并提供强大的安全措施来随时保护您的数据。 快速访问选项：一键式操作简化了您的聊天管理，使您的体验顺畅无忧。 明暗模式：根据您的视觉偏好或一天中的时间在明暗主题之间进行选择，以获得最佳舒适度。  我们的第一笔销售： 在推出扩展程序的第一天，我们很高兴收到了第一笔销售。一位用户立即看到了价值并进行了购买，证实了对我们产品的需求。这一早期成功令人难以置信地鼓舞人心，并再次证明我们走在正确的道路上。 我很高兴听到您的想法，回答任何问题并收到您的反馈。让我们一起让数字通信变得更好！ 问我任何事情！🚀    提交人    /u/hadnazzar   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d5333c/boost_chatgpt_gemini_experience_to_the_next_level/</guid>
+      <pubDate>Fri, 31 May 2024 18:50:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>通过此项目学习 Next.js</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d52qff/learning_nextjs_with_this_project/</link>
+      <description><![CDATA[我刚刚开始学习 Next.js 并创建了 TicketHive。 在此，用户可以创建一个帐户并创建在线活动并为其设置票价。有点像 TicketMaster 的在线活动复制品。到目前为止，我只创建了前端并逐步完善。欢迎任何形式的贡献和反馈。由于我是 Next Js 的新手，请接受一些问题。希望收到你们的意见。 GitHub 链接：https://github.com/sahilmhr/tickethive    提交人    /u/nuttkracker   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d52qff/learning_nextjs_with_this_project/</guid>
+      <pubDate>Fri, 31 May 2024 18:36:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人用 Reddit 推出他们的 saas 吗？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d52dah/anyone_launch_their_saas_with_reddit/</link>
+      <description><![CDATA[我在 YouTube 上找到了一段非常详细的视频，视频中有一个家伙创建了两家公司，最初主要使用 Reddit，后来又添加了 Facebook 和 Facebook 广告。我正在寻找其他类似的真实案例……    提交人    /u/Large-Strawberry4281   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d52dah/anyone_launch_their_saas_with_reddit/</guid>
+      <pubDate>Fri, 31 May 2024 18:20:19 GMT</pubDate>
+    </item>
     <item>
       <title>弹性：合作交易网络</title>
       <link>https://www.reddit.com/r/SideProject/comments/1d529q7/resilience_cooperative_transaction_networks/</link>
       <description><![CDATA[        提交人    /u/arkad-IV   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1d529q7/resilience_cooperative_transaction_networks/</guid>
       <pubDate>Fri, 31 May 2024 18:16:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>赠送 3 个代码以获取有关我的 Saas 的一些反馈！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d51va0/giving_away_3_codes_to_get_some_feedback_on_my/</link>
-      <description><![CDATA[我决定提供 3 个代码来解锁我的 SaaS 基本计划，这样我就可以获得一些反馈！ 这些是代码： 95f5e724-da46-4dbc-9547-5ef93d4d4018 4b6efd04-4643-4dd5-af07-c7663b1f660b 2ce8e2d6-6b66-4b82-bb61-e709afb8855a  如果您获得代码，请给我一些反馈！    提交人    /u/Pure_Bit_2981   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d51va0/giving_away_3_codes_to_get_some_feedback_on_my/</guid>
-      <pubDate>Fri, 31 May 2024 17:59:01 GMT</pubDate>
     </item>
     <item>
       <title>赠送 3 个代码以获取有关我的 Saas 的一些反馈！</title>
@@ -32,83 +109,6 @@
       <description><![CDATA[嗨， 我正在尝试开发网站和应用程序，但我经常发现我的设计结果很平庸，因为我的整个职业生涯中，我主要只是用代码开发其他设计师的作品。我花了很多时间浏览 Dribbble、Behance 和其他设计灵感网站，但我的结果仍然不如我想要的那样好。我最终在设计上花费的时间比我认为的要多得多。 我也尝试过各种人工智能工具来加快流程和提高质量，但老实说，它们中的大多数都很糟糕。它们要么不能产生我需要的质量，要么需要大量调整，这违背了使用它们的初衷。 我正在寻找那些始终如一地快速创建出色设计的人的建议。我的项目并不特别需要完整的设计，只要有模型或草稿就好了    提交人    /u/ekinsdrow   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1d51mww/how_do_you_usually_make_design_for_your_projects/</guid>
       <pubDate>Fri, 31 May 2024 17:48:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI 股票/加密货币预测</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d515zx/ai_stockcrypto_predictions/</link>
-      <description><![CDATA[      您好！我们向您介绍一项预测股票价格和加密股票的服务。您可以使用通用的预测模型，也可以创建自己的预测模型，并使用指标和新闻调整预测 - https://predict-time-series-app.vercel.app/ https://preview.redd.it/i914ki0rps3d1.png?width=686&amp;format=png&amp;auto=webp&amp;s=0456f97a94a1ecf110b49292282999e729a1c4e4 https://preview.redd.it/y4ufv8a4qs3d1.png?width=782&amp;format=png&amp;auto=webp&amp;s=102ac18d419ecf66bf4f9e44edee0f880aa4ac48 https://preview.redd.it/nvk8490gqs3d1.png?width=774&amp;format=png&amp;auto=webp&amp;s=c07ad4a57e99e68f675d4993151a46dbec0ab585    提交人    /u/AkimovIvan   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d515zx/ai_stockcrypto_predictions/</guid>
-      <pubDate>Fri, 31 May 2024 17:28:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>SellMyMVP.com：为企业家和 MVP 创造空间</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d50a6s/sellmymvpcom_creating_a_space_for_entrepreneurs/</link>
-      <description><![CDATA[      我正在创建一个名为 SellMyMVP.com 的空间 如果您有一个 MVP，您想要出售 - 您可以注册并添加您的软件。  如果您是企业家、非技术创始人，甚至是想要学习的学生 - 您可以浏览列出的 MVP，看看是否可以从某些东西开始？ --- 我知道它已经从各个方面被争论了一百万次。但我想更多地探索销售未盈利软件的想法。 技术人员通常不会向有实际问题的真实人员验证“商业理念”。但我相信，为实现创业梦想所付出的血汗和泪水值得更多的机会。 非常感谢您的任何反馈（谢谢！） ​ https://preview.redd.it/vk2vxvagis3d1.png?width=972&amp;format=png&amp;auto=webp&amp;s=aa312de386634d2bf198cf9219e9529cdf053b26 免责声明：我是25 年，验证 SellMyMVP.com 的商业理念。一旦我获得足够的注册，我将扩展该网站。    提交人    /u/consultali   [link] [comments] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d50a6s/sellmymvpcom_creating_a_space_for_entrepreneurs/</guid>
-      <pubDate>Fri, 31 May 2024 16:51:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>我发布了一款适用于 iOS 的休闲反应游戏。与好友一起玩，获得最快时间，并登上排行榜榜首！这款游戏老少皆宜，欢迎提供任何反馈！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d4zwdm/i_released_a_casual_reaction_game_for_ios_play/</link>
-      <description><![CDATA[        提交人    /u/littleserver   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d4zwdm/i_released_a_casual_reaction_game_for_ios_play/</guid>
-      <pubDate>Fri, 31 May 2024 16:35:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>我认为我的独立黑客之旅中最令人满意的部分是编写代码来跟踪 Sketch Logo AI 收入😊我为此创建了一个 Discord 机器人。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d4zt4u/i_think_the_most_satisfying_part_of_my_indie/</link>
-      <description><![CDATA[       由    /u/TofuCat1804  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d4zt4u/i_think_the_most_satisfying_part_of_my_indie/</guid>
-      <pubDate>Fri, 31 May 2024 16:31:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>食谱制作器（食谱扫描仪和书籍打印应用程序）</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d4zkaq/cookbook_maker_recipe_scanner_book_printing_app/</link>
-      <description><![CDATA[大家好 r/SideProject！我想就一款一天前刚刚获准在谷歌和苹果应用商店上架的应用获得一些早期反馈！今年 1 月，我的妻子和母亲都表示有兴趣打印一些手写的食谱卡片，并打印出一本书，复印多份，然后送给家人。当时我很喜欢 ChatGPT，心想“嘿，ChatGPT 能做到这一点吗？”。事实证明，ChatGPT 在查看食谱卡片图像并在最少提示的情况下找出标题、配料、步骤和份量方面做得相当不错。在 ChatGPT API 和确定一定有一些具有 API 的打印服务之间，我认为这可能会成为一款很酷的应用。几个月后，我做了一些工作，但还没有用户来试用它。如果您有时间查看，我很乐意听取任何早期反馈：https://reciscan.app iPhone：https://apps.apple.com/us/app/reciscan/id6478405196?platform=iphone Google Play：https://play.google.com/store/apps/details?id=com.dustinrunnells.reciscan&amp;pcampaignid=web_share 如果您真的想印刷一本书并需要，请随时给我发私信救命！    由    /u/drunnells  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d4zkaq/cookbook_maker_recipe_scanner_book_printing_app/</guid>
-      <pubDate>Fri, 31 May 2024 16:20:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>我即将为游戏玩家推出我的日历和日程安排 SaaS！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d4ydic/im_about_to_launch_my_calendar_and_scheduling/</link>
-      <description><![CDATA[大家好！我即将在接下来的几天内推出我的第一个商业化副业项目。今天，我将与我的目标受众中的一小部分测试人员进行 beta 测试，这是我第一次分享它。我想分享一些经验，希望它能帮助到其他人。 我一直都有副业，但大多数时候都是自由职业和面向客户。我最终决定，是时候停止搁置半成品项目，并经历我听过成千上万其他人谈论的过程了。 在开始解决自己的问题之前，我构思了大约一周。我真的很喜欢游戏，但随着年龄的增长，与一起玩游戏的玩家保持联系变得越来越困难。我们长大了，结婚了，有了孩子，开始了职业生涯，改变了时区等等。我决定开发一个调度软件来帮助解决这些问题，于是 ArcadeCal 诞生了。 我确实发出了早期的调查问卷以进行验证，但这是错误的。有人说“是的，我愿意为此付费”与有人真正输入他们的信用卡详细信息有很大不同。许多说“是的，我愿意为此付费”的人在我提供免费的 beta 测试访问权限时甚至没有回应。但我稍后会讲到这一点。调查确实让它看起来是个好主意，所以我开始构建。 我使用了我喜欢的 Sveltekit + FaunaDB 堆栈来构建应用程序，并注册了 Outseta 来负责身份验证和计费。我花了大约一个月的时间早晚进行黑客攻击才完成了第 0 版。以下是我从构建中学到的东西：  程序员讨厌日期时间是有原因的。说真的，我从事专业编码近十年了，现在我意识到为什么没有人喜欢大量使用日期时间。我花了整整两天的时间才让所有的时区转换逻辑正常工作。我学到了很多关于 Javascript 如何处理不同格式的日期时间的知识，并且我在网上与了解我的痛苦的其他开发人员建立了联系。 如果你采用一种新工具来简化事情，从长远来看可能需要更长的时间。我喜欢 Outseta 提供的一切，但我绝对应该花时间学习技术，阅读所有文档，并在尝试使用它作为绕过计费的捷径之前尽早提出问题。内置的 CRM、支持和电子邮件平台让我毫不费力，但我可能可以选择另一家身份验证提供商并更快地进入市场。但是，既然我知道了这个工具，我很高兴拥有它。 Tailwind 并不是那么糟糕。我曾经讨厌 Tailwind。几年前，我写了一本关于 CSS 的入门书，并认为自己是 CSS 纯粹主义者。但是，我使用了一个以 Tailwind 为依赖项的 UI 库，因此我不得不使用它。现在我真的很喜欢它。在这方面我感到非常谦卑，尽管我仍然更喜欢原始 CSS ;)  构建之后，我对 10 位用户进行了 beta 测试。我原本希望有 20 位，但令我惊讶的是，提供免费访问权限不足以吸引人们。时间就是金钱，我并没有直接提供这种交换。然而，在 30 分钟内，我从 10 位注册的用户那里得到了宝贵的反馈。查看好友活动的流程混乱且不直观。免费用户可以绕过移动设备上的付费墙（哎呀），大约 30% 的时间登录都会直接失败。我很高兴完成了测试，我认为应用程序因此变得更好。 现在，我即将发布。我当然害怕会出现更多错误，但我必须记住 2 件事：  我正在解决自己的问题。如果没有人使用该应用程序，我自己就有了这个工具，我对此感到兴奋。 在过去的 6 周里我学到了很多东西。如果最终没有成功，我对我记在笔记本上的其他想法感到非常兴奋。 我可以说我做到了。这比说我没有尝试要好。  我希望其中一些可以帮助其他从事副业项目的独立黑客。当我发布这个时，请为我祈祷，几个月后我会带着更新回来。在此期间，我很乐意回答您的任何问题，如果您想查看 ArcadeCal，请访问 此处。我也很乐意接受任何反馈。    由    /u/Hexigonz 提交   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d4ydic/im_about_to_launch_my_calendar_and_scheduling/</guid>
-      <pubDate>Fri, 31 May 2024 15:30:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>用简单的英语搜索 API</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d4y5xm/search_for_apis_in_plain_english/</link>
-      <description><![CDATA[大家好： 我和我的联合创始人建立了一个门户网站，以便于搜索、了解和集成大型企业所需的服务。我们通过允许纯英语搜索并为每个服务添加一个聊天机器人来实现这一点，该聊天机器人可以阅读文档并回答特定于服务的问题。请在此处查看并让我们知道您的想法！： https://platoportal.com    提交人    /u/Ok-Barracuda-119   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d4y5xm/search_for_apis_in_plain_english/</guid>
-      <pubDate>Fri, 31 May 2024 15:21:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>创建了一个简单的网站，其中包含 300 多个 SaaS 分销渠道，以吸引付费客户</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d4xvvs/created_a_simple_website_with_300_saas/</link>
-      <description><![CDATA[        提交人    /u/alexanderisora   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d4xvvs/created_a_simple_website_with_300_saas/</guid>
-      <pubDate>Fri, 31 May 2024 15:08:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>我开发了一个人工智能来管理我的待办事项清单</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d4xt26/i_built_an_ai_to_manage_my_todo_list/</link>
-      <description><![CDATA[项目 ​ https://reddit.com/link/1d4xt26/video/mzpgx4mq1s3d1/player    提交人    /u/YashGhela   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d4xt26/i_built_an_ai_to_manage_my_todo_list/</guid>
-      <pubDate>Fri, 31 May 2024 15:05:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们回答了 9 个问题，在 30 天内将想法转化为实际成果</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d4x78s/9_questions_we_answered_to_go_from_idea_to_in_30/</link>
-      <description><![CDATA[ 人们在社交媒体上谈论这个问题还是在寻找解决方案？ 人们会付费解决这个问题吗？ 谁是我们的主要客户？ 我们能在 2-3 天内开发出解决核心问题的解决方案吗？ 这个解决方案能为用户节省时间或金钱，从而增加价值吗？ 我们如何联系主要客户，收集反馈，并获得 10 笔销售？ 我们如何收集早期采用者的推荐？ 我们如何吸引 1,000 多名用户访问我们的网站？  我们需要跟踪哪些数据才能获得见解？     由    /u/gamifykaran 提交   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d4x78s/9_questions_we_answered_to_go_from_idea_to_in_30/</guid>
-      <pubDate>Fri, 31 May 2024 14:39:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么没有人做这个？所以我创建了互联网朋友的 CHATGPT。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d4x57p/why_isnt_anyone_working_on_this_so_i_built_the/</link>
-      <description><![CDATA[为了找到与我志同道合的人，我在 twitter 和 reddit 上发了数千条冷淡的私信。在互联网上找朋友太难了，如果人工智能能帮我们缩小范围会怎么样？ 所以我开发了一个应用，它能在一个文本中帮你找到理解你的人。我正在推出安卓版的测试版，如果有人感兴趣的话可以在下面留言。（Playstore 还没有向公众开放）。 https://reddit.com/link/1d4x57p/video/34xawmvnwr3d1/player    提交人    /u/coderinlaw   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d4x57p/why_isnt_anyone_working_on_this_so_i_built_the/</guid>
-      <pubDate>Fri, 31 May 2024 14:36:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
