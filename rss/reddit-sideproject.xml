@@ -4,11 +4,95 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Sat, 01 Jun 2024 15:12:14 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Jun 2024 18:16:01 GMT</lastBuildDate>
+    <item>
+      <title>我根据艾森豪威尔矩阵开发了一个待办事项应用程序</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d5t0xy/i_built_a_todo_app_based_on_the_eisenhower_matrix/</link>
+      <description><![CDATA[      多年来，我一直使用艾森豪威尔矩阵来处理我的任务。作为一名软件开发人员，知道什么是紧急的、什么是重要的，对于知道在哪里花费时间和精力至关重要 这个框架也帮助我完成了硕士和博士学位，但我从未见过其他工具关注它。 所以，它在这里，https://quadra.day。是免费的，并将您的任务和笔记存储在本地。 如果它对您有用，请告诉我！ https://preview.redd.it/an3u669m304d1.png?width=4406&amp;format=png&amp;auto=webp&amp;s=7c73f8e8e94f953b3a62b55a21d5e94150282979    提交人    /u/acfilho77   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d5t0xy/i_built_a_todo_app_based_on_the_eisenhower_matrix/</guid>
+      <pubDate>Sat, 01 Jun 2024 18:09:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>模式发生器</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d5sqb0/a_pattern_generator/</link>
+      <description><![CDATA[这是一个 SVG 图案生成器。这就是它的全部功能。我希望得到一些关于如何改进它的建设性反馈。提前谢谢您     提交人    /u/Perfecto_24   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d5sqb0/a_pattern_generator/</guid>
+      <pubDate>Sat, 01 Jun 2024 17:56:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>我正在考虑将 ptz 摄像机做成类似 JIBO 的设备……</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d5s9xw/im_considering_making_a_ptz_camera_into_a_sort_of/</link>
+      <description><![CDATA[请注意，我在这个问题上可能听起来相当不聪明，甚至有点疯狂，但请忍耐一下。  我想知道是否可行将 raspberry pi 连接到 ptz 摄像头，并使用 gpt 或 huggingface 控制摄像头的电机、摄像头的麦克风和扬声器，使其可以用作可移动的头部、眼睛、耳朵和语音盒。这只是一个疯狂的想法，但我想我会把它抛出来，看看是否有人对这个问题有想法。我的摄像头是 heimvision hm203，我有一个 rpi 4b，还有一台使用 windows 10 的笔记本电脑和一部使用 android 10 的手机，而且我住在离一元店步行距离内，所以我可以买到基本的 usb 电缆等。我很想看看大家有什么想法。 Ps，抱歉，我在触摸屏上打字很差劲，出现了错别字    提交人    /u/Suicidal_Snowman   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d5s9xw/im_considering_making_a_ptz_camera_into_a_sort_of/</guid>
+      <pubDate>Sat, 01 Jun 2024 17:35:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的第一个产品——我正在创建基于 NLP 的产品。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d5s8lf/my_first_product_i_am_in_process_of_creating_nlp/</link>
+      <description><![CDATA[      大家好，我正在构建产品，需要您提供宝贵的验证。  我正在构建一个产品，用户可以在其中搜索与 saas 相关的任何内容，例如 ERP、crm 或任何其他内容，它可以帮助用户导航并实现该工作。  努力创造更多价值。 请提供您的验证，并且至少一个输入对我继续使用或停止使用该产品来说是巨大的财富。😐您可以建议我并可以在此处添加更多商业价值点。 谢谢    提交人    /u/Sharath0605   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d5s8lf/my_first_product_i_am_in_process_of_creating_nlp/</guid>
+      <pubDate>Sat, 01 Jun 2024 17:34:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了一个类似 4chan 的垃圾发布网站，没有任何审核。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d5rj7c/i_made_4chanlike_shit_posting_site_with_0/</link>
+      <description><![CDATA[  由    /u/Apprehensive-Key9995  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d5rj7c/i_made_4chanlike_shit_posting_site_with_0/</guid>
+      <pubDate>Sat, 01 Jun 2024 17:01:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的绘图网站项目的功能和 QoL 改进展示</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d5qhoe/features_and_qol_improvements_showcase_for_my/</link>
+      <description><![CDATA[        由    /u/Stixv  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d5qhoe/features_and_qol_improvements_showcase_for_my/</guid>
+      <pubDate>Sat, 01 Jun 2024 16:12:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>这里有人想建立个人品牌吗？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d5qgxz/anyone_here_looking_to_build_a_personal_brand/</link>
+      <description><![CDATA[引人注目的 我提供完整的个人品牌设计（或重新设计），只需 89 美元！其中包括：  引人注目的横幅吸引注意力 LinkedIn 特色部分展示您的专业知识 引人入胜的轮播设计讲述您的故事 社交媒体帖子模板轻松创建内容 时尚的 Instagram 亮点留下持久的印象 以及像专业人士一样打造自己的品牌所需的任何其他东西！  不要再混迹于众了。引起注意。获得聘用。 名额有限！直接发私信给我，认领您的名额。   由    /u/Nouman-Rahman  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d5qgxz/anyone_here_looking_to_build_a_personal_brand/</guid>
+      <pubDate>Sat, 01 Jun 2024 16:11:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>大家好，我刚刚推出了食谱卡路里分析器。你们觉得怎么样？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d5qgjm/hello_amazing_people_i_just_launched_recipe/</link>
+      <description><![CDATA[        由    /u/BillyCompCoder  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d5qgjm/hello_amazing_people_i_just_launched_recipe/</guid>
+      <pubDate>Sat, 01 Jun 2024 16:11:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何理解我的 Stripe 交易数据</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d5q4hd/how_i_make_sense_of_my_stripe_transaction_data/</link>
+      <description><![CDATA[       由    /u/pystar  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d5q4hd/how_i_make_sense_of_my_stripe_transaction_data/</guid>
+      <pubDate>Sat, 01 Jun 2024 15:56:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>我在这个饱和的市场中创建了一个免费的发票生成器，但这还不是全部</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d5pune/i_built_a_free_invoice_builder_in_this_saturated/</link>
+      <description><![CDATA[      嗨 Redditors， 我很高兴地宣布推出一款全新的免费发票生成器，专为自由职业者和小企业主设计。我知道，我知道——市场上充斥着发票工具。但这就是为什么你应该尝试一下这个的原因： https://autosistant.co/tools/invoice 为什么要使用另一个发票生成器？  来自自由职业者，为自由职业者：我自己也曾担任过自由职业者，我知道使用 Word 文档手动管理发票的痛苦。我经历过这种情况——文件散落在各处，很难跟踪付款和到期日。此工具正是针对这种挫败感而创建的，旨在简化您的生活。 AI 面向未来：虽然我们目前提供的产品是一款功能强大且用户友好的发票生成器，但这只是一个开始。我们正在开发一款满足您所有文档需求的 AI 助手。想象一下，拥有一个 AI 助手，可以在一个地方管理您的传入和传出文档！您可以省去所有繁琐的数据输入工作。 更多功能即将推出：我们正在根据用户反馈积极开发其他功能。您的意见将有助于打造一款真正满足您需求的工具。最好的部分是什么？作为早期采用者，您将能够影响我们开发的方向并首先获得新功能的使用权。  免费发票生成器 下一步是什么？ 令人兴奋的是！我看到同事们整晚都在浏览大量的信用卡申请表，我觉得这里的一个小工具肯定可以为他们节省大量的时间和精力。这就是我下一步计划关注的重点： 从物理文档中提取数据以便于查看和分析  上面的免费工具只是我旅程的开始。当我推出新功能时，肯定会分享更多更新。 如果您希望在 Autosistant.co 上看到任何功能，请告诉我    提交人    /u/IndieHackerWannabe   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d5pune/i_built_a_free_invoice_builder_in_this_saturated/</guid>
+      <pubDate>Sat, 01 Jun 2024 15:44:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>我建立了一个更好的 Spotify 发布雷达</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d5pu8k/i_built_a_better_spotify_release_radar/</link>
+      <description><![CDATA[我刚刚发布了 brew.fm 的 v2 版本。第一个版本发布于 2 年前，拥有超过 4000 名用户。 它会在 Spotify 上创建自动播放列表，其中包含您播放列表中已有艺术家的新音乐。这是让您的播放列表保持新鲜的最简单方法。 免费版本包括...   无限自动播放列表 每日更新 可选的每周电子邮件，其中包含新版本 无限制地将新音乐添加到现有播放列表中     提交人    /u/bardyhardy   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d5pu8k/i_built_a_better_spotify_release_radar/</guid>
+      <pubDate>Sat, 01 Jun 2024 15:43:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作自定义风格的二维码 AI 艺术 - aetherqr.com</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d5pg74/i_make_customstyled_qr_code_ai_art_aetherqrcom/</link>
+      <description><![CDATA[        提交人    /u/freegold4me   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d5pg74/i_make_customstyled_qr_code_ai_art_aetherqrcom/</guid>
+      <pubDate>Sat, 01 Jun 2024 15:25:52 GMT</pubDate>
+    </item>
     <item>
       <title>val - 评估任何公司</title>
       <link>https://www.reddit.com/r/SideProject/comments/1d5p401/val_value_any_company/</link>
-      <description><![CDATA[大家好， 想分享一个新项目，val。Val 旨在通过自动收集大多数财务数据来帮助简化投资评估流程，让您专注于简单地评估任何公司。Val 还会自动从各种来源建议共识估计，这些估计可以在您制定自己的预测时用作参考。 在设计 val 时，我想要一些简单、快速且易于使用的东西。希望你们能查看并提供任何反馈！ https://val-ue.vercel.app/  谢谢！    提交人    /u/nreHieS   [链接] [评论]]]></description>
+      <description><![CDATA[大家好， 想分享一个新项目，val。Val 旨在通过自动收集大多数财务数据来帮助简化投资评估流程，让您专注于简单地评估任何公司。Val 还会自动从各种来源建议一致估计，这些估计可以在您制定自己的预测时用作参考。 在设计 val 时，我想要一些最简单、快速且易于使用的东西。希望你们能查看并提供任何反馈！ https://val-ue.vercel.app/  谢谢！    提交人    /u/nreHieS   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1d5p401/val_value_any_company/</guid>
       <pubDate>Sat, 01 Jun 2024 15:10:28 GMT</pubDate>
     </item>
@@ -20,95 +104,11 @@
       <pubDate>Sat, 01 Jun 2024 14:51:22 GMT</pubDate>
     </item>
     <item>
-      <title>我制作定制风格的二维码 AI 艺术</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d5oah0/i_make_customstyled_qr_code_ai_art/</link>
-      <description><![CDATA[      大家好，我今天将推出 https://www.aetherqr.com/，如果您有兴趣，请随时查看！ 谢谢！ https://preview.redd.it/xnkmrgzv0z3d1.png?width=538&amp;format=png&amp;auto=webp&amp;s=0df811f9f6eeec11ce83758c375b12725549ef60    提交人    /u/freegold4me   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d5oah0/i_make_customstyled_qr_code_ai_art/</guid>
-      <pubDate>Sat, 01 Jun 2024 14:32:40 GMT</pubDate>
-    </item>
-    <item>
       <title>我正在开发一款应用程序，以最简单的方式帮助打击诈骗。</title>
       <link>https://www.reddit.com/r/SideProject/comments/1d5o7q8/im_building_an_app_that_will_help_fight_scam_in/</link>
       <description><![CDATA[      https://apps.apple.com/gh/app/scamalert/id6503147139    由   提交  /u/Frederick_Abila   [link] [评论] ]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1d5o7q8/im_building_an_app_that_will_help_fight_scam_in/</guid>
       <pubDate>Sat, 01 Jun 2024 14:29:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>我为我们开发人员创建了一个 AI 造型师，因为我们需要帮助😂</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d5o47k/i_built_an_ai_stylist_for_us_developers_because/</link>
-      <description><![CDATA[        提交人    /u/professional_pan   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d5o47k/i_built_an_ai_stylist_for_us_developers_because/</guid>
-      <pubDate>Sat, 01 Jun 2024 14:24:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个 Starter Story 替代方案，分解了企业的社交媒体营销策略</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d5n9sl/i_made_a_starter_story_alternative_that_breaks/</link>
-      <description><![CDATA[我一直是 Starter Story 的忠实粉丝，并且想构建一些类似的东西，但更专注于在社交媒体上成长起来的企业的社交媒体策略。 所以，这就是我所做的😬 每个人都知道社交媒体是企业非常重要的营销渠道，但很难弄清楚到底要发布什么。因此，我和我的联合创始人建立了 thecontentmarketingblueprint.com，以分解已在社交媒体上成功发展的企业的社交媒体策略，以便其他创始人可以从他们的剧本中学习。 在某些情况下，我的联合创始人（社交媒体上的@MengMengDuck）和我（社交媒体上的@YourAverageTechBro）都将我们自己的社交媒体帐户发展到数十万粉丝，并且还帮助其他品牌/企业发展页面，所以我们不是两个不知道社交媒体如何运作的随机人哈哈。 希望你喜欢！    提交人    /u/YourAverageTechBro   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d5n9sl/i_made_a_starter_story_alternative_that_breaks/</guid>
-      <pubDate>Sat, 01 Jun 2024 13:42:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>这个网站能让你从竞争对手那里窃取流量吗？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d5mj4l/this_site_lets_you_steal_traffic_from_your/</link>
-      <description><![CDATA[受到 Jake Ward 的“SEO Heist”的启发，他从竞争对手那里偷走了 360 万访客，一个很棒的 POC，但我相信他可以做得更好。 首先，流量并不等于会购买其产品的访客， 2，他注重内容数量而不是质量， ...所以我建立了 https://seoheister.com    提交人    /u/existnotyes   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d5mj4l/this_site_lets_you_steal_traffic_from_your/</guid>
-      <pubDate>Sat, 01 Jun 2024 13:04:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个使用人工智能创建定制课程的网站</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d5lq4f/i_made_a_website_to_create_custom_courses_using_ai/</link>
-      <description><![CDATA[      大家好 在这个想法上工作了一段时间后，我终于接近启动我的副项目了。 您可以为您喜欢的任何主题和专业知识创建基于文本的课程。这节省了大量搜索无数在线课程的时间，以找到价格合适的课程。您可以利用 LLM 知识在几分钟内以低廉的价格创建自己的定制课程。 欢迎随时查看并分享您的反馈。 P.S 您还不能购买额外的学分 https://www.academai.pro https://preview.redd.it/sd8jo3s8dy3d1.png?width=3456&amp;format=png&amp;auto=webp&amp;s=2177a5361740f4353da98c4945aad1c99e1a7811 https://preview.redd.it/ohmwl3i5dy3d1.png?width=3456&amp;format=png&amp;auto=webp&amp;s=10246e432a47e6180b6d06892dd5a2a41e14d971    提交人    /u/Physical-Garbage6387   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d5lq4f/i_made_a_website_to_create_custom_courses_using_ai/</guid>
-      <pubDate>Sat, 01 Jun 2024 12:18:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>我又制作了一个生产力工具——集任务、时间跟踪、心情和日记于一体</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d5lphs/i_made_a_yet_another_productivity_tool_allinone/</link>
-      <description><![CDATA[        由    /u/H4rry5lol 提交   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d5lphs/i_made_a_yet_another_productivity_tool_allinone/</guid>
-      <pubDate>Sat, 01 Jun 2024 12:17:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个工具来帮助您保持网站的正常运行。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d5l0pw/i_made_a_tool_to_help_you_keep_your_website_up/</link>
-      <description><![CDATA[       由    /u/vkwebdev  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d5l0pw/i_made_a_tool_to_help_you_keep_your_website_up/</guid>
-      <pubDate>Sat, 01 Jun 2024 11:36:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>我做了一个应用程序，可以把你的生日变成一份简讯</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d5kzxk/i_made_an_app_that_turns_your_birthdays_into_a/</link>
-      <description><![CDATA[        由    /u/Transferitore  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d5kzxk/i_made_an_app_that_turns_your_birthdays_into_a/</guid>
-      <pubDate>Sat, 01 Jun 2024 11:34:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的 AI 创业公司，从 0 到 1</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d5kmeb/my_ai_startup_0_to_1/</link>
-      <description><![CDATA[大家好， 在这篇文章中，我将分享一些我如何创办我的 AI 初创公司以及它的发展情况（仍处于非常早期的阶段）。 失败 我大约 6 个月前开始开发一个用于拨打餐厅电话的 AI 系统，但之前没有做过任何研究（剧透：彻底失败）。我开发了该产品（1-2 个月）并将其推向市场。我认为这是一个好主意，甚至写了一些帖子深入讨论它。然而，该产品完全失败了——没有人愿意使用它，即使是免费的！因此，我没有浪费时间寻找会使用它的人（我联系了 100 多人），而是转向了。我将 AI 系统重新设计成一个有趣的平台，您可以在其中与 AI 进行流畅的对话。 防止失败 市场调研！对于第二次尝试和新产品创意，我进行了研究，以查看是否存在市场契合度和潜在吸引力。我没有具体的数据，但想快速行动。我查看了类似应用的搜索趋势，在论坛上询问该产品是否有用，并得到了积极的回应（我知道，这不是最好的市场调研，但我必须继续前进）。 新产品 我花了将近一个月的时间开发了这个新产品创意。这个产品是关于什么的？这是一款用于练习任何语言的流畅和常见对话的应用程序，例如在星巴克点咖啡或在街上问路。您可以以有趣的方式练习任何常见情况，并增加目标以使对话充满活力。我计划添加一些功能，让您在学习另一种语言的同时，与他人进行更愉快的对话。 第一个里程碑！ 在联系了一些我之前联系过的人、发表了新帖子并与潜在用户互动后，我实现了第一个重大里程碑：一周内获得了 20 位用户。这个数字似乎不大，但它表明该产品具有潜力，这让我非常兴奋。 走向市场契合之路、100 位用户以及更多！（目前在这里） 现在，我正在考虑如何实现下一个目标：根据反馈改进产品、研究如何更有效地帮助用户以及规划下一个营销策略。 目前就这些了！ 想尝试一下吗？看看吧 - 它是免费的。 https://www.lantalk.xyz/    提交人    /u/Standard_Mode9882   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d5kmeb/my_ai_startup_0_to_1/</guid>
-      <pubDate>Sat, 01 Jun 2024 11:10:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个网站来轻松增强你的自我意识</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d5k6hs/i_made_a_site_to_enhance_your_selfawareness_with/</link>
-      <description><![CDATA[我制作这款应用是因为我一直想知道是什么促使我做无用功。接受治疗对我来说总是太大的一步，而仔细阅读我的日记记录又太费事。使用 FindYourTriggers，您可以上传您的实体日记，使用数字日记，或者只是倾泻您的想法，剩下的就交给应用吧。如果您想自我提升，但又很懒惰或像我一样有其他优先事项，我建议您试用免费测试版。 我仍在寻找更简单的方式来分享想法，如果您使用不同的方法或有任何想法，我很乐意听到，因为日记并不适合所有人。 这个视频比我构建它的原因以及我如何使用它的文字更好地解释了它。 https://youtube.com/shorts/rxADX5-1mYM?si=mAJhsI7TRKFbfmnf    提交人    /u/tristan_louwr   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d5k6hs/i_made_a_site_to_enhance_your_selfawareness_with/</guid>
-      <pubDate>Sat, 01 Jun 2024 10:39:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>通过 perfectdayoff.info 发现您的完美桥梁假期 - 欢迎反馈！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d5jhov/discover_your_perfect_bridge_holidays_with/</link>
-      <description><![CDATA[大家好！我最近推出了一个名为PerfectDayOff.info的小型实用网站，旨在帮助您确定最佳的过渡假期，以最大限度地利用您的休息时间。此工具可让您轻松找到延长周末的完美日期。  我很乐意收到您的反馈和建议，以进一步改进它。查看它并告诉我您的想法！    提交人    /u/elbruto12   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d5jhov/discover_your_perfect_bridge_holidays_with/</guid>
-      <pubDate>Sat, 01 Jun 2024 09:50:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>几分钟内分享您的联盟计划</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d5imil/share_your_affiliate_program_in_minutes/</link>
-      <description><![CDATA[        提交人    /u/francescochi   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d5imil/share_your_affiliate_program_in_minutes/</guid>
-      <pubDate>Sat, 01 Jun 2024 08:45:04 GMT</pubDate>
     </item>
     </channel>
 </rss>
