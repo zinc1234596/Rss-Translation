@@ -4,7 +4,56 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Sat, 01 Jun 2024 18:16:01 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Jun 2024 21:12:34 GMT</lastBuildDate>
+    <item>
+      <title>开源 ML 股票分析平台</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d5w5gh/opensource_ml_stock_analysis_platform/</link>
+      <description><![CDATA[大家好， 在过去的一年里，我一直在研究我的宠物项目 stocknear ，以帮助小投资者通过高质量数据 + 机器学习算法击败对冲基金，这些算法大多基于某些论文来预测趋势、价格变动、情绪分析等。 该项目是 100% 开源的，具有 MIT 许可证。 前端基于 Sveltekit 和 Tailwindcss。后端是 FastAPI、Fastify 和 Pocketbase 的组合。 我想开源这个项目的原因是为了打击 enshitification，而且这个领域充斥着骗子和致富计划。我想成为少数真正帮助股票市场用户的人之一，没有广告，没有跟踪每个动作或任何可疑的东西。由用户构建、为用户服务的 ML 股票分析平台。 Repo：https://github.com/stocknear 网站：https://stocknear.com/    提交人    /u/realstocknear   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d5w5gh/opensource_ml_stock_analysis_platform/</guid>
+      <pubDate>Sat, 01 Jun 2024 20:32:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>logohero.io 中添加了更多图案</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d5w158/more_patterns_added_to_logoheroio/</link>
+      <description><![CDATA[      我已经将许多不同的图案添加到 www.logohero.io - 查看它！ 而且，它是免费的，并且永远都是免费的！ https://preview.redd.it/8kkmpw4xr04d1.png?width=1708&amp;format=png&amp;auto=webp&amp;s=24ad9c13963fdc15447f1c848be31e5463b4a464   由    /u/NoTraffic9367  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d5w158/more_patterns_added_to_logoheroio/</guid>
+      <pubDate>Sat, 01 Jun 2024 20:26:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>是的，另一个生产力应用程序...我希望有人喜欢它！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d5vqww/yep_another_productivity_app_i_hope_someone_likes/</link>
+      <description><![CDATA[       由    /u/wikskold  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d5vqww/yep_another_productivity_app_i_hope_someone_likes/</guid>
+      <pubDate>Sat, 01 Jun 2024 20:13:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>看看其他人如何在 Reddit 上自我推广</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d5vogz/see_how_others_selfpromote_on_reddit/</link>
+      <description><![CDATA[嗨，Reddit 开发者和企业家们！👋 您是否想过如何在 Reddit 上为您的项目获得更多关注？我开发了一个简单的工具，可以帮助您快速了解哪些自我推广帖子在特定 subreddit 中最受欢迎。 只需输入您感兴趣的 subreddit，我的工具就会向您显示过去 30 天最受欢迎的自我推广帖子。您可以：  查看哪些帖子获得了最多的赞成和评论。 分析这些成功帖子的共同特征。 获得灵感并优化您自己的发帖策略。  这是这个免费工具的链接：rposter.io。查看它，看看它是否可以为您的推广工作带来新的推动力！   由    /u/Zuch-Huang  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d5vogz/see_how_others_selfpromote_on_reddit/</guid>
+      <pubDate>Sat, 01 Jun 2024 20:10:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>ProductHunt 发布支持 VSCode 扩展</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d5v17f/producthunt_launch_support_vscode_extension/</link>
+      <description><![CDATA[大家好，我为开发人员推出了一个免费的 VSCode 扩展，它会在您的光标旁边添加一只可爱的鸭子，对您的操作（如写入/删除等）做出反应。如果您喜欢该扩展，我期待社区提供一些反馈和支持 :) 谢谢！ https://www.producthunt.com/posts/quacktrack    提交人    /u/Snoo92978   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d5v17f/producthunt_launch_support_vscode_extension/</guid>
+      <pubDate>Sat, 01 Jun 2024 19:41:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>我正在构建一个应用程序，使用 ai 从 typescript 类型生成模拟数据</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d5ud4e/im_building_an_app_that_generates_mock_data_from/</link>
+      <description><![CDATA[​ https://reddit.com/link/1d5ud4e/video/jc085qk2e04d1/player ​ 我在做一个业余项目的时候，有创建这个应用程序的动机，我想要一个可以生成看起来真实的数据的工具，但是我发现的工具并没有满足所有要求: - 易于使用 - 能够直接粘贴带有类型/接口的 TypeScript 代码并复制 JSON 结果 - 根据生成的数据填写相关字段 - 无需注册即可试用 你会使用这样的东西吗？你愿意为这项服务付费吗？如果有人知道已经勾选这些框的工具，请在此处发表评论    提交人    /u/nobaianobaianobaia   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d5ud4e/im_building_an_app_that_generates_mock_data_from/</guid>
+      <pubDate>Sat, 01 Jun 2024 19:10:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们如何在几个月内从 0 个付费客户发展到 100 个付费客户</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d5u3ra/how_we_went_from_0_to_100_paid_customers_in_a_few/</link>
+      <description><![CDATA[大家好！ 去年，我们在这里分享了我们工具的 Beta 测试阶段，在获得了非常积极的反响后，我们随后宣布正式推出 AllInvestView。 什么是 AllInvestView？ 对于那些刚接触这一领域的人来说，AllInvestView 是一款投资追踪器，它通过提供股票、固定收益和收益追踪的专用工具而脱颖而出。主要功能包括用于快速访问和编辑交易详细信息的高效票务系统、用于最佳资产配置的高级工具、股息预测、基准测试和税务报告支持。 我们的付费客户之旅 我们获取付费客户的道路是一次令人兴奋且富有教育意义的经历。以下是我们的方法：  社区参与： Reddit 和 Twitter：我们首先与 Reddit 和 Twitter 上的社区合作进行 Beta 测试。这些平台的反馈和支持非常棒，帮助我们改进了产品。 SEO 和 Facebook 广告：我们投资了 SEO，现在取得了可喜的成果。但是，Facebook 广告的效果并不理想。  网红营销： 网红分享被证明非常有效。通过与分享其使用 AllInvestView 的积极体验的网红合作，我们能够覆盖更广泛的受众。  终身优惠 (LTD) ： 我们推出了临时终身优惠以感谢新用户。这一策略非常有效，因为许多用户厌倦了订阅模式，更喜欢一次性付款。 LTD 不仅增加了用户忠诚度，还鼓励他们报告错误并测试新功能。  AppSumo 发布： 我们在 AppSumo  上的发布改变了游戏规则。它为我们提供了接触新用户的大量机会。尽管 AppSumo 的佣金很高，但该平台为我们的用户群增长做出了很大贡献，我们对这一反响感到非常高兴。   解决用户痛点 我们的用户面临的最常见痛点之一是将他们的头寸和交易从不同的经纪商导入 AllInvestView。 我们的解决方案：  交互式导入功能：我们开发了一种交互式导入功能，用户可以轻松地从任何经纪商提交导出文件。 与数据聚合器合作：我们还与数据聚合器合作，自动为用户同步经纪商数据，进一步简化流程。  我们正在不断改进和扩展 AllInvestView，如果没有您的支持，我们不可能做到这一点。 加入我们！对于所有新用户，我们邀请您加入我们的旅程。查看我们在 AppSumo 上的限时优惠促销活动：AppSumo 上的 AllInvestView。 再次感谢您的大力支持！ 干杯！    提交人    /u/elraman   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d5u3ra/how_we_went_from_0_to_100_paid_customers_in_a_few/</guid>
+      <pubDate>Sat, 01 Jun 2024 18:58:56 GMT</pubDate>
+    </item>
     <item>
       <title>我根据艾森豪威尔矩阵开发了一个待办事项应用程序</title>
       <link>https://www.reddit.com/r/SideProject/comments/1d5t0xy/i_built_a_todo_app_based_on_the_eisenhower_matrix/</link>
@@ -60,55 +109,6 @@
       <description><![CDATA[        由    /u/BillyCompCoder  提交  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1d5qgjm/hello_amazing_people_i_just_launched_recipe/</guid>
       <pubDate>Sat, 01 Jun 2024 16:11:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何理解我的 Stripe 交易数据</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d5q4hd/how_i_make_sense_of_my_stripe_transaction_data/</link>
-      <description><![CDATA[       由    /u/pystar  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d5q4hd/how_i_make_sense_of_my_stripe_transaction_data/</guid>
-      <pubDate>Sat, 01 Jun 2024 15:56:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>我在这个饱和的市场中创建了一个免费的发票生成器，但这还不是全部</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d5pune/i_built_a_free_invoice_builder_in_this_saturated/</link>
-      <description><![CDATA[      嗨 Redditors， 我很高兴地宣布推出一款全新的免费发票生成器，专为自由职业者和小企业主设计。我知道，我知道——市场上充斥着发票工具。但这就是为什么你应该尝试一下这个的原因： https://autosistant.co/tools/invoice 为什么要使用另一个发票生成器？  来自自由职业者，为自由职业者：我自己也曾担任过自由职业者，我知道使用 Word 文档手动管理发票的痛苦。我经历过这种情况——文件散落在各处，很难跟踪付款和到期日。此工具正是针对这种挫败感而创建的，旨在简化您的生活。 AI 面向未来：虽然我们目前提供的产品是一款功能强大且用户友好的发票生成器，但这只是一个开始。我们正在开发一款满足您所有文档需求的 AI 助手。想象一下，拥有一个 AI 助手，可以在一个地方管理您的传入和传出文档！您可以省去所有繁琐的数据输入工作。 更多功能即将推出：我们正在根据用户反馈积极开发其他功能。您的意见将有助于打造一款真正满足您需求的工具。最好的部分是什么？作为早期采用者，您将能够影响我们开发的方向并首先获得新功能的使用权。  免费发票生成器 下一步是什么？ 令人兴奋的是！我看到同事们整晚都在浏览大量的信用卡申请表，我觉得这里的一个小工具肯定可以为他们节省大量的时间和精力。这就是我下一步计划关注的重点： 从物理文档中提取数据以便于查看和分析  上面的免费工具只是我旅程的开始。当我推出新功能时，肯定会分享更多更新。 如果您希望在 Autosistant.co 上看到任何功能，请告诉我    提交人    /u/IndieHackerWannabe   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d5pune/i_built_a_free_invoice_builder_in_this_saturated/</guid>
-      <pubDate>Sat, 01 Jun 2024 15:44:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>我建立了一个更好的 Spotify 发布雷达</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d5pu8k/i_built_a_better_spotify_release_radar/</link>
-      <description><![CDATA[我刚刚发布了 brew.fm 的 v2 版本。第一个版本发布于 2 年前，拥有超过 4000 名用户。 它会在 Spotify 上创建自动播放列表，其中包含您播放列表中已有艺术家的新音乐。这是让您的播放列表保持新鲜的最简单方法。 免费版本包括...   无限自动播放列表 每日更新 可选的每周电子邮件，其中包含新版本 无限制地将新音乐添加到现有播放列表中     提交人    /u/bardyhardy   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d5pu8k/i_built_a_better_spotify_release_radar/</guid>
-      <pubDate>Sat, 01 Jun 2024 15:43:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作自定义风格的二维码 AI 艺术 - aetherqr.com</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d5pg74/i_make_customstyled_qr_code_ai_art_aetherqrcom/</link>
-      <description><![CDATA[        提交人    /u/freegold4me   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d5pg74/i_make_customstyled_qr_code_ai_art_aetherqrcom/</guid>
-      <pubDate>Sat, 01 Jun 2024 15:25:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>val - 评估任何公司</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d5p401/val_value_any_company/</link>
-      <description><![CDATA[大家好， 想分享一个新项目，val。Val 旨在通过自动收集大多数财务数据来帮助简化投资评估流程，让您专注于简单地评估任何公司。Val 还会自动从各种来源建议一致估计，这些估计可以在您制定自己的预测时用作参考。 在设计 val 时，我想要一些最简单、快速且易于使用的东西。希望你们能查看并提供任何反馈！ https://val-ue.vercel.app/  谢谢！    提交人    /u/nreHieS   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d5p401/val_value_any_company/</guid>
-      <pubDate>Sat, 01 Jun 2024 15:10:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>警报机器人业务 - Alertify</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d5op26/alert_bot_bussiness_alertify/</link>
-      <description><![CDATA[大家好。我了解大量的网络抓取。所以我开始了一项服务业务，我为学生制作警报机器人。那么警报机器人到底是什么？它只是每隔 10 分钟左右抓取一次大学网站，以获取通知、更新和通告，如果添加了任何新内容，它就会将其发送到专用的 whatsapp 组。那么机器人的所有者通过购买它能得到什么？他可以从组织某些事情的人那里获得赞助，并可以通过推广他们赚钱。我甚至可以从公司获得促销，并可以推广它们，并向不同团体的所有者提供折扣。您可以访问 https://www.alertify.tech/ 了解更多信息。如果这对你们来说似乎无关紧要，我很抱歉，但它不在印度，我想它可以让我赚一些钱。你对此有什么看法。请告诉我。 （此外，如果有任何印度大学生有兴趣为他们的大学制作这样的机器人，可以给我发私信）    提交人    /u/Grouchy-Breakfast-20   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d5op26/alert_bot_bussiness_alertify/</guid>
-      <pubDate>Sat, 01 Jun 2024 14:51:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>我正在开发一款应用程序，以最简单的方式帮助打击诈骗。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d5o7q8/im_building_an_app_that_will_help_fight_scam_in/</link>
-      <description><![CDATA[      https://apps.apple.com/gh/app/scamalert/id6503147139    由   提交  /u/Frederick_Abila   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d5o7q8/im_building_an_app_that_will_help_fight_scam_in/</guid>
-      <pubDate>Sat, 01 Jun 2024 14:29:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
