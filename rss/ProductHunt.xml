@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Fri, 31 May 2024 21:12:40 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Jun 2024 01:00:48 GMT</lastBuildDate>
     <item>
       <title>和平脉动</title>
       <link>https://www.producthunt.com/posts/peacepulse</link>
@@ -90,6 +90,20 @@ Telegram 和 TON 区块链上的边玩边赚策略游戏
       <pubDate>Thu, 30 May 2024 19:04:17 GMT</pubDate>
     </item>
     <item>
+      <title>因沃亚</title>
+      <link>https://www.producthunt.com/posts/invoya-1</link>
+      <description><![CDATA[
+自动化 Stripe 发票，无需支付 0.4% 的费用
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/invoya-1</guid>
+      <pubDate>Thu, 30 May 2024 16:26:59 GMT</pubDate>
+    </item>
+    <item>
       <title>GOAT 滑块</title>
       <link>https://www.producthunt.com/posts/goat-slider</link>
       <description><![CDATA[
@@ -132,34 +146,6 @@ Goat Slider Webflow 应用
       <pubDate>Thu, 30 May 2024 12:00:38 GMT</pubDate>
     </item>
     <item>
-      <title>热情</title>
-      <link>https://www.producthunt.com/posts/zest-2dbf1b37-b73e-4f92-a290-ffe003f4ab08</link>
-      <description><![CDATA[
-延长您的健康寿命
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/zest-2dbf1b37-b73e-4f92-a290-ffe003f4ab08</guid>
-      <pubDate>Thu, 30 May 2024 04:40:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>前夕</title>
-      <link>https://www.producthunt.com/posts/eve-9</link>
-      <description><![CDATA[
-您的 AI 伙伴，帮助您管理工作压力
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/eve-9</guid>
-      <pubDate>Tue, 28 May 2024 15:24:30 GMT</pubDate>
-    </item>
-    <item>
       <title>自我治疗</title>
       <link>https://www.producthunt.com/posts/self-therapy</link>
       <description><![CDATA[
@@ -200,6 +186,20 @@ Goat Slider Webflow 应用
 ]]></description>
       <guid>https://www.producthunt.com/posts/share-brewfiles</guid>
       <pubDate>Mon, 20 May 2024 22:46:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>博客固定</title>
+      <link>https://www.producthunt.com/posts/blogtopin</link>
+      <description><![CDATA[
+在几分钟内将您的博客文章转换为 Pinterest 图钉
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/blogtopin</guid>
+      <pubDate>Tue, 14 May 2024 20:37:51 GMT</pubDate>
     </item>
     <item>
       <title>DocentPro——探索世界</title>
