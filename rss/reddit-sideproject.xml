@@ -4,7 +4,56 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Sun, 02 Jun 2024 18:17:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 02 Jun 2024 21:12:31 GMT</lastBuildDate>
+    <item>
+      <title>CLIPPyX：人工智能图像搜索工具，提供基于内容、文本和视觉的全系统相似性搜索</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d6my7q/clippyx_ai_powered_image_search_tool_offers/</link>
+      <description><![CDATA[       按图像标题搜索：输入描述性文字或短语，使用 CLIPPyX 将返回与该语义含义或标题相关的所有图像。 按图像中的文本内容搜索：提供描述性文字或短语，使用光学字符识别 (OCR) 和文本嵌入模型，CLIPPyX 将返回所有文本在语义上与所提供文本相似的图像。 按图像相似性搜索：提供现有图像作为参考，CLIP 将使用 CLIP 找到视觉上相似的图像  https://i.redd.it/ecnnjw89084d1.gif  GitHub Repo     由   提交  /u/0ssamaak0   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d6my7q/clippyx_ai_powered_image_search_tool_offers/</guid>
+      <pubDate>Sun, 02 Jun 2024 20:45:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个简单的 PDF 编辑器。Windows 将其检测为病毒。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d6metz/i_made_a_simple_pdf_editor_windows_detects_it_as/</link>
+      <description><![CDATA[我是初学者，决定尝试使用 AI 制作一个简单的项目，但 Windows 给它一个病毒误报。有人有这方面的经验吗？是否可以修复？我把它发布在 github 上： https://github.com/Mexie-GH/MexieSimplePDF    提交人    /u/Mexie__   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d6metz/i_made_a_simple_pdf_editor_windows_detects_it_as/</guid>
+      <pubDate>Sun, 02 Jun 2024 20:21:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>烤我的登陆页面!!!</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d6mcxh/roast_my_landing_page/</link>
+      <description><![CDATA[大家好！ 我很乐意听到您对我的登陆页面的想法：AI Auto Parts。 任何建议、意见或反馈都将不胜感激！    提交人    /u/smokedX   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d6mcxh/roast_my_landing_page/</guid>
+      <pubDate>Sun, 02 Jun 2024 20:19:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>你们是如何管理应用程序的变更日志的？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d6l781/how_do_you_guys_manage_your_changelog_for_your/</link>
+      <description><![CDATA[  由    /u/Mans__js  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d6l781/how_do_you_guys_manage_your_changelog_for_your/</guid>
+      <pubDate>Sun, 02 Jun 2024 19:28:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们为 SEO、摄影师、电子商务人士提供的副项目</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d6kilg/our_side_project_for_seo_photographers_ecommerce/</link>
+      <description><![CDATA[嗨，r/sideproject， 作为一名在代理机构工作的数字营销人员，我经常为 B2B 和电子商务客户批量优化图片而苦恼。无论是产品列表、博客文章和 SEO，还是分享照片，可用的工具要么限制我一次可以压缩的文件数量，要么质量明显较低，要么需要付费。批量减小文件大小和保持图像质量之间的平衡始终是一种妥协。 这种挫败感让我和我的合作伙伴走上了创建自己的解决方案的道路。以下是我们遵循的流程： 研究：我们首先与我所在领域的其他人以及电子商务经理和摄影师交谈，尽管挑战巨大而深刻，但我们决定从融合点开始。  开发：我的合作伙伴是一名拥有压缩技术专利的精英工程师。他在 1 周内就准备好了 MVP。  构建和迭代：这是我们寻求您的指导和意见的地方。您的反馈和建议对于我们继续开发和改进此工具至关重要。  我们如何改善我们的用户体验？您希望我们接下来开发哪些功能？我们的目标是帮助尽可能多的专业人士。  这是我们的附带项目的链接：https://resizeimage.io/ 期待您的反馈 TLDR：为 SEO、电子商务和专业摄影师构建了一个批量图像调整器和压缩器。寻求反馈。    提交人    /u/datkilledme   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d6kilg/our_side_project_for_seo_photographers_ecommerce/</guid>
+      <pubDate>Sun, 02 Jun 2024 18:58:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>对新的兼职自由职业平台感兴趣吗？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d6kgfv/interested_in_a_new_freelance_platform_for_side/</link>
+      <description><![CDATA[大家好！ 我们很高兴地宣布推出 Uptiers，这是一个类似于 Fiverr 的新自由职业平台。 作为一名自由职业者，过去 6 年来，我经历了 Fiverr 和 Upwork 等平台上激烈竞争的挑战。这就是我们创建 Uptiers 的原因，这是一个旨在更适合初学者的平台。 我们的主要差异化因素之一是我们的快速支付系统。与其他可能需要等待 15 天或更长时间的平台不同，Uptiers 会在项目完成后 2 天内发放付款。这可确保您快速轻松地获得资金。 我们也了解负担能力的重要性。这就是我们为自由职业者（15%）和客户（5%）提供低平台费用的原因。这样，您就可以保留更多的收入，并使 Uptiers 成为市场双方都有吸引力的选择。 那么，您还在等什么？立即注册 Uptiers 并体验不同之处！    提交人    /u/Aqsa_Zahid   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d6kgfv/interested_in_a_new_freelance_platform_for_side/</guid>
+      <pubDate>Sun, 02 Jun 2024 18:56:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>我为 Notion 创建了一个演示模式。（每周为我节省了几个小时）</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d6k75l/i_created_a_presentation_mode_for_notion_saves_me/</link>
+      <description><![CDATA[        由    /u/Cliometric  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d6k75l/i_created_a_presentation_mode_for_notion_saves_me/</guid>
+      <pubDate>Sun, 02 Jun 2024 18:45:03 GMT</pubDate>
+    </item>
     <item>
       <title>我为应用商店优化（ASO）构建了一个免费的关键词研究人工智能工具，以帮助您的应用在应用商店中获得更高的排名。</title>
       <link>https://www.reddit.com/r/SideProject/comments/1d6jgd9/i_built_a_free_keyword_research_ai_tool_for_app/</link>
@@ -60,55 +109,6 @@
       <description><![CDATA[      让我知道您的想法！ :) 在此处查看代码 Twitter (X) https://preview.redd.it/wxwy2k3vq64d1.png?width=564&amp;format=png&amp;auto=webp&amp;s=348a44f11fda7d925926da98e26eea9d6d6e4e25 https://preview.redd.it/r68i30svq64d1.png?width=900&amp;format=png&amp;auto=webp&amp;s=ea184f6cd40ec98b36215ecf86a1ac1d7b5a687f    提交人    /u/blissfulprotons   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1d6h6z4/cool_effect_maker/</guid>
       <pubDate>Sun, 02 Jun 2024 16:31:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>周末项目：猜图片提示游戏 - 欢迎反馈！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d6gh5u/weekend_project_guesstheimage_prompt_game/</link>
-      <description><![CDATA[大家好， 我想和大家分享我的周末项目 - 它被称为猜图片提示！您可以在 GitHub 上找到该项目：猜图片提示。 这是一个简单的游戏，给你一张图片，你必须猜出相应的提示。我想在周末练习我的编码技能并探索一些新技术。任何反馈、建议或新功能的想法都将不胜感激。 感谢您花时间查看我的项目。我希望你喜欢玩它，就像我喜欢构建它一样！ 猜得开心！    提交人    /u/haaphboil   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d6gh5u/weekend_project_guesstheimage_prompt_game/</guid>
-      <pubDate>Sun, 02 Jun 2024 15:59:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 9-5 工作期间创建新项目</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d6fj3q/building_a_new_project_during_95_work/</link>
-      <description><![CDATA[我正在考虑构建一个新的生产力 SaaS 平台，以帮助人们发挥他们的下一个潜力。考虑今天或明天在 Twitter 上直播。如果有人想看看，你可以访问 https://x.com/RobbiShalev?t=IZdwMq0LlzA2WQTBkWnT3g&amp;s=09    提交人    /u/Robbi_Chatwizz   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d6fj3q/building_a_new_project_during_95_work/</guid>
-      <pubDate>Sun, 02 Jun 2024 15:15:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>尖峰点是指从那里看不到更高点的点。我在评论中链接到了一张交互式地图，上面列出了所有 601 个高度超过 300 米的尖峰点。Android 上现在有一款免费应用可供使用。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d6f0im/a_pinnacle_point_is_a_point_from_which_no_higher/</link>
-      <description><![CDATA[        提交人    /u/JamesonLKJ   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d6f0im/a_pinnacle_point_is_a_point_from_which_no_higher/</guid>
-      <pubDate>Sun, 02 Jun 2024 14:51:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>在几个周末内制作了一个快速版本控制和 CI/CD 工具</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d6db3k/made_a_prompt_versioning_and_cicd_tool_in_a_few/</link>
-      <description><![CDATA[寻求反馈和一般想法 我为使用 LLM 提示的组织和个人制作了一个超级有用的工具，用于存储、管理、版本控制和测试它们 您拥有提示存储库，您可以提交并通过 API 检索这些提示。您还可以添加一些测试用例来帮助减少幻觉 看看它，它被称为 Prompteams (prompteams.com)，它是 100% 免费的，已经有 200 多个用户    提交人    /u/Individual_Log_7549   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d6db3k/made_a_prompt_versioning_and_cicd_tool_in_a_few/</guid>
-      <pubDate>Sun, 02 Jun 2024 13:27:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>在收到反馈后，我们重新推出了个性化扑克牌！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d6cpq2/after_taking_feedback_were_back_with_personalized/</link>
-      <description><![CDATA[       由    /u/TheDevCards  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d6cpq2/after_taking_feedback_were_back_with_personalized/</guid>
-      <pubDate>Sun, 02 Jun 2024 12:56:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>无代码 discord 机器人构建工具</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d6cj7g/nocode_discord_bot_build_tool/</link>
-      <description><![CDATA[大家好，我们已正式将我的无代码 discord 机器人构建器发布到公开测试版。我们正​​在寻找可以帮助我们测试的人，您制作的任何机器人都是 100% 免费的，并且将保持这种状态。  如果您有兴趣，请告诉我们 https://discord.gg/TNS22vKsXt。如果您知道有兴趣的人，请务必邀请他们。 https://botwiz.dev 我们目前正在测试实时共同创建功能。     提交人    /u/Ok_Anxiety3970   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d6cj7g/nocode_discord_bot_build_tool/</guid>
-      <pubDate>Sun, 02 Jun 2024 12:46:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>由于最近的泄漏，创建了一个免费的 Google 关键字跟踪器</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d6cezl/created_a_free_google_keyword_tracker_because_of/</link>
-      <description><![CDATA[        由    /u/GeekLifer 提交   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d6cezl/created_a_free_google_keyword_tracker_because_of/</guid>
-      <pubDate>Sun, 02 Jun 2024 12:39:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
