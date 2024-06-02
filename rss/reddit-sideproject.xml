@@ -4,18 +4,53 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Sun, 02 Jun 2024 12:22:05 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 02 Jun 2024 15:12:10 GMT</lastBuildDate>
+    <item>
+      <title>尖峰点是指从那里看不到更高点的点。我在评论中链接到了一张交互式地图，上面列出了所有 601 个高度超过 300 米的尖峰点。Android 上现在有一款免费应用可供使用。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d6f0im/a_pinnacle_point_is_a_point_from_which_no_higher/</link>
+      <description><![CDATA[        提交人    /u/JamesonLKJ   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d6f0im/a_pinnacle_point_is_a_point_from_which_no_higher/</guid>
+      <pubDate>Sun, 02 Jun 2024 14:51:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>在几个周末内制作了一个快速版本控制和 CI/CD 工具</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d6db3k/made_a_prompt_versioning_and_cicd_tool_in_a_few/</link>
+      <description><![CDATA[寻求反馈和一般想法 我为使用 LLM 提示的组织和个人制作了一个超级有用的工具，用于存储、管理、版本控制和测试它们 您拥有提示存储库，您可以提交并通过 API 检索这些提示。您还可以添加一些测试用例来帮助减少幻觉 查看它，它被称为 Prompteams (prompteams.com)，它是 100% 免费的，已有 200 多个用户    提交人    /u/Individual_Log_7549   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d6db3k/made_a_prompt_versioning_and_cicd_tool_in_a_few/</guid>
+      <pubDate>Sun, 02 Jun 2024 13:27:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>在收到反馈后，我们重新推出了个性化扑克牌！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d6cpq2/after_taking_feedback_were_back_with_personalized/</link>
+      <description><![CDATA[       由    /u/TheDevCards  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d6cpq2/after_taking_feedback_were_back_with_personalized/</guid>
+      <pubDate>Sun, 02 Jun 2024 12:56:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>无代码 discord 机器人构建工具</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d6cj7g/nocode_discord_bot_build_tool/</link>
+      <description><![CDATA[大家好，我们已正式将我的无代码 discord 机器人构建器发布到公开测试版。我们正​​在寻找可以帮助我们测试的人，您制作的任何机器人都是 100% 免费的，并且将保持这种状态。  如果您有兴趣，请告诉我们 https://discord.gg/TNS22vKsXt。如果您知道有兴趣的人，请务必邀请他们。 https://botwiz.dev 我们目前正在测试实时共同创建功能。     提交人    /u/Ok_Anxiety3970   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d6cj7g/nocode_discord_bot_build_tool/</guid>
+      <pubDate>Sun, 02 Jun 2024 12:46:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>由于最近的泄漏，创建了一个免费的 Google 关键字跟踪器</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d6cezl/created_a_free_google_keyword_tracker_because_of/</link>
+      <description><![CDATA[        由    /u/GeekLifer 提交   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d6cezl/created_a_free_google_keyword_tracker_because_of/</guid>
+      <pubDate>Sun, 02 Jun 2024 12:39:59 GMT</pubDate>
+    </item>
     <item>
       <title>我建立了一个名为 epicgamerspot 的游戏网站，游戏主持人可以在这里通过主持和玩游戏赚钱。</title>
       <link>https://www.reddit.com/r/SideProject/comments/1d6btnr/ive_built_a_gaming_website_called_epicgamerspot/</link>
-      <description><![CDATA[我想知道我是否可以创建一个平台，让游戏玩家通过玩或托管 cod、apex、valorant 和 fortnite 等游戏来赚钱。所以我决定使用他们的私人游戏代码作为游戏主持人托管他们私人游戏的方式。 游戏主持人将为玩家构建一个游戏模板，供他们在网站主页上查看，如果玩家有兴趣，他们可以加入，游戏主持人可以让游戏免费、付费或基于订阅的游戏。 我们还为玩家提供了获得报酬的方式：如果游戏主持人找不到玩家，那么他们可以雇佣玩家为他们寻找玩家。  我还计划不允许任何 onlyfans 的人加入该平台。 epicgamerspot.com  我很乐意收到一些反馈。    提交人    /u/Alert-Ad-5918   [link] [评论]]]></description>
+      <description><![CDATA[我想知道我是否可以创建一个平台，让玩家可以通过玩或托管诸如 cod、apex、valorant 和 fortnite 之类的游戏来赚钱。所以我决定使用他们的私人游戏代码作为游戏主持人托管私人游戏的方式。 游戏主持人将构建一个游戏模板供玩家在网站主页上查看，如果玩家有兴趣，他们可以加入，游戏主持人可以使游戏免费、付费或基于订阅的游戏。 我们还为玩家提供了获得报酬的方式：如果游戏主持人找不到玩家，那么他们可以雇用玩家为他们寻找玩家。 我还计划不允许任何 onlyfans 加入该平台。 https://epicgamerspot.com 我很想得到一些反馈。    提交人    /u/Alert-Ad-5918   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1d6btnr/ive_built_a_gaming_website_called_epicgamerspot/</guid>
       <pubDate>Sun, 02 Jun 2024 12:05:33 GMT</pubDate>
     </item>
     <item>
       <title>免费 AI 简历生成器</title>
       <link>https://www.reddit.com/r/SideProject/comments/1d6brjp/free_ai_resume_builder/</link>
-      <description><![CDATA[大家好， 我非常高兴能与大家分享我一直在研究的东西：ProRes。这是一款人工智能工具，可帮助您轻松创建出色的简历和求职信。 我为什么制作 ProRes 我帮助母校进行模拟技术面试，我看到很多有才华的人很难获得面试机会，不是因为他们不合格，而是因为他们的简历和求职信没有展现出他们的实力。看到优秀的人仅仅因为他们的申请没有脱颖而出而错失机会，真是令人沮丧。这就是我创建 ProRes 的原因——帮助人们以最佳方式展示他们的技能和经验，并提高他们获得面试机会。 prores.ai 有什么酷炫之处？  易于使用：您无需成为技术奇才或写作专家即可使用它。 AI 魔法：我们的 AI 会获取职位描述，并定制您的简历和求职信，以完美匹配。 量身定制的应用程序：轻松针对特定职位定制您的简历，以确保其突出显示每个雇主所寻找的内容。 灵活：您可以调整和自定义所有内容，以确保它适合您。 节省时间：不再需要花费数小时尝试从头开始撰写完美的简历或求职信。  工作原理  输入您的信息：填写您的工作经历、技能以及所有有用的信息。 描述职位：复制粘贴职位列表中的信息，包括职位名称、公司和职位描述。 生成：让 ProRes 发挥其魔力，为您创建精美的简历或求职信。 自定义：在内置编辑器中进行任何您想要的调整，以添加您的个人风格。  我真的认为 ProRes 可以帮助很多人，无论您是刚刚开始职业生涯还是拥有多年经验。这一切都是为了确保您因正确的原因而受到关注。 尝试一下，然后告诉我您的想法！您的反馈对我而言意义重大，因为我将继续致力于改进该工具。 您是否认为添加一个可以代表您申请工作的“机器人”会是一个很酷的补充？    提交人    /u/SaltNo8237   [链接] [评论]]]></description>
+      <description><![CDATA[大家好， 我非常高兴能与大家分享我一直在研究的东西：ProRes。这是一款人工智能工具，可帮助您轻松创建出色的简历和求职信。 我为什么制作 ProRes 我帮助母校进行模拟技术面试，我看到很多有才华的人很难获得面试机会，不是因为他们不合格，而是因为他们的简历和求职信没有展现出他们的实力。看到优秀的人仅仅因为他们的申请没有脱颖而出而错失机会，真是令人沮丧。这就是我创建 ProRes 的原因——帮助人们以最佳方式展示他们的技能和经验，并提高他们获得面试机会。 prores.ai 有什么酷炫之处？  易于使用：您无需成为技术奇才或写作专家即可使用它。 AI 魔法：我们的 AI 会获取职位描述，并定制您的简历和求职信，以完美匹配。 量身定制的应用程序：轻松针对特定职位定制您的简历，以确保其突出显示每个雇主所寻找的内容。 灵活：您可以调整和自定义所有内容，以确保它适合您。 节省时间：不再需要花费数小时尝试从头开始撰写完美的简历或求职信。  工作原理  输入您的信息：填写您的工作经历、技能以及所有有用的信息。 描述职位：复制粘贴职位列表中的信息，包括职位名称、公司和职位描述。 生成：让 ProRes 发挥其魔力，为您创建精美的简历或求职信。 自定义：在内置编辑器中进行任何您想要的调整，以添加您的个人风格。  我真的认为 ProRes 可以帮助很多人，无论您是刚刚开始职业生涯还是拥有多年经验。这一切都是为了确保您因正确的原因而受到关注。 尝试一下，然后告诉我您的想法！您的反馈对我而言意义重大，因为我将继续致力于改进该工具。 您是否认为添加一个可以代表您申请工作的“机器人”会是一个很酷的补充？    提交人    /u/SaltNo8237   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1d6brjp/free_ai_resume_builder/</guid>
       <pubDate>Sun, 02 Jun 2024 12:02:05 GMT</pubDate>
     </item>
@@ -48,13 +83,6 @@
       <pubDate>Sun, 02 Jun 2024 10:17:28 GMT</pubDate>
     </item>
     <item>
-      <title>寻求有关我的 SaaS 的反馈</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d69ndw/looking_for_feedback_on_my_saas/</link>
-      <description><![CDATA[刚刚推出了一款使用高质量 AI 博客“窃取”竞争对手流量的应用程序。 这是登陆页面：https://seoheister.com 我想要关于功能、改进、营销、登陆页面或任何真正的东西的想法。    提交人    /u/existnotyes   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d69ndw/looking_for_feedback_on_my_saas/</guid>
-      <pubDate>Sun, 02 Jun 2024 09:39:38 GMT</pubDate>
-    </item>
-    <item>
       <title>我创建了一个待办事项列表应用程序，可以轻松在移动设备上管理长列表（杂货、旅行打包等），无需拖放</title>
       <link>https://www.reddit.com/r/SideProject/comments/1d69eld/i_created_a_todo_list_app_that_makes_it_easy_to/</link>
       <description><![CDATA[      我今天在 ProductHunt 上推出了 listlessapp.com。这是一款待办事项列表应用，可让您在移动设备上轻松管理长列表（杂货、旅行打包等），而无需无休止地拖放。  如果您认为它很有用并且今天有时间，请在 ProductHunt 上点赞，我们将不胜感激； https://www.producthunt.com/posts/listless 任何反馈也非常欢迎！     提交人    /u/DelPrive235   [链接] [评论] ]]></description>
@@ -81,34 +109,6 @@
       <description><![CDATA[https://feedbackloopv2.vercel.app/（我将很快添加域名） 很高兴收到任何反馈    提交人    /u/FanaticRoute   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1d68sp1/yet_again_a_roast_my_landing_page_post/</guid>
       <pubDate>Sun, 02 Jun 2024 08:36:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一项服务，为创始人和小型企业获取来自 Reddit 的客户和反馈。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d678kt/i_created_a_service_for_founders_and_small/</link>
-      <description><![CDATA[作为一名热衷于打造产品的独立黑客，我在 Reddit 上分享我的作品，并通过这种方式获得了许多客户和宝贵的反馈。这启发我创建了 Redditors，这是一项服务，通过各种子版块上独特而详细的帖子向 Reddit 受众推广您的产品、网站或应用，确保您在产品发布后 24 小时内收到客户和反馈。    提交人    /u/gary_king_001   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d678kt/i_created_a_service_for_founders_and_small/</guid>
-      <pubDate>Sun, 02 Jun 2024 06:44:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>下载令人惊叹的音频可视化</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d66e9k/download_stunning_audio_visualizations/</link>
-      <description><![CDATA[        提交人    /u/abhay18e   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d66e9k/download_stunning_audio_visualizations/</guid>
-      <pubDate>Sun, 02 Jun 2024 05:46:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI 自适应故事游戏</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d649ti/ai_adaptive_story_game/</link>
-      <description><![CDATA[      与传统的故事游戏不同，这款由 LLM 驱动的游戏允许玩家做任何他们想做的事情，故事会动态调整根据用户的行为和选择，每场游戏都会有独特的冒险。 这个示例游戏是关于古希腊故事“奥德赛”，但你可以使用代码为任何你想要的故事创建故事游戏！ 在此处查看代码 使用 Easy AI Finetune Kit 制作 https://preview.redd.it/a8yyypjiv24d1.png?width=2128&amp;format=png&amp;auto=webp&amp;s=55ac4c50dba2b1385b15f225348ada6e6be07da1    提交人    /u/blissfulprotons   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d649ti/ai_adaptive_story_game/</guid>
-      <pubDate>Sun, 02 Jun 2024 03:30:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>添加了由 AI 提供支持的 YouTube 章节摘要</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d635ji/aipowered_youtube_chapter_summaries_added/</link>
-      <description><![CDATA[      随着 Platen 的不断发展，我们开始制作 Youtube 视频并面临着自己的内容营销挑战。本着简化内容创建的精神，我们创建了一个内部 Youtube 章节摘要生成器，我们最近将其添加到我们现有的模板中。 就提示而言，它非常基础，但简化了从成绩单中复制和粘贴以及重新提示的过程，并且适合我们更大的内容营销工具套件 工作原理  提供您的 youtube 视频链接（必须是公开或未列出的） 等待几分钟并收到结果  https://preview.redd.it/jycmrfl8k24d1.png?width=3024&amp;format=png&amp;auto=webp&amp;s=70442ec76caab45e5a5399cd344a466b42ebc3bf 根据目前的反馈，我们发现它对大多数视频都有效，但对于超过 1 小时的视频，效果往往会有所不同，因为时间戳并不总是匹配。 尝试一下您的内容，并制作youtube 章节摘要    由   提交  /u/_colemurray   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d635ji/aipowered_youtube_chapter_summaries_added/</guid>
-      <pubDate>Sun, 02 Jun 2024 02:25:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
