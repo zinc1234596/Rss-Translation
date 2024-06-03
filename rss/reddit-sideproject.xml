@@ -4,7 +4,84 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Mon, 03 Jun 2024 09:14:16 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Jun 2024 12:25:15 GMT</lastBuildDate>
+    <item>
+      <title>我过去几周的副业 - BalvanChat</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d72mk9/my_side_project_from_the_past_few_weeks_balvanchat/</link>
+      <description><![CDATA[嗨， 几周前，我决定制作一个小型桌面聊天应用程序，该应用程序不需要中间人，您可以自行托管。 它没有太多的商业价值（除了可能对毒贩和黑帮有用，因为它是匿名的 E2E 加密 - 尽管如此，他们最好使用其他解决方案）。我在设计不同的相互依赖的系统和 UI 设计时也获得了很大的乐趣，最大限度地减少了模块之间的依赖关系等等。 如果有人觉得它有用，我会在这里发布，也许是为了学习目的，如果没有别的。 它由 Python、pywebview、htmlx css 和 flask 制作。 无论如何，这里是 git： https://github.com/xxzoltanxx/Balvan-Chat/tree/0.6.0    提交人    /u/Reasonable-Zone-7909   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d72mk9/my_side_project_from_the_past_few_weeks_balvanchat/</guid>
+      <pubDate>Mon, 03 Jun 2024 11:57:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>我辞去了朝九晚五的工作去追求我的梦想。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d72mhg/i_quit_my_95_job_to_pursue_my_dreams/</link>
+      <description><![CDATA[大约 6 个月前，我决定我需要创建自己的项目。在这 6 个月期间，我创建了 2 个 SaaS 并投资了 1 个 SaaS。由于这些成功的举措，我在 4 个月内获得了近 4 万美元的收入。 现在我辞去了工作，专注于我的新项目并开发我的旧项目。所以我开始从事我的第三个副业：发布 AI 移动应用程序 - React Native Starter AI ( Reactnativeboilerplate.dev )  我很乐意听取您的反馈，以决定是继续工作并添加新功能还是停止。    提交人    /u/SpringWater200   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d72mhg/i_quit_my_95_job_to_pursue_my_dreams/</guid>
+      <pubDate>Mon, 03 Jun 2024 11:57:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>制作了抽认卡制作应用程序！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d72hey/made_a_flashcard_making_app/</link>
+      <description><![CDATA[我正在复习本科考试，并使用 chatgpt API 来编写抽认卡，我的朋友说它们比 quizlets AI 更好，所以制作了一个基本的 flask 网站，以便她也可以使用它。现在我已经用 django 后端和登录等一切让它变得漂亮起来。服务器是位于伦敦的 dropocean，所以如果它有点慢，我深表歉意在这里    提交人    /u/Tricky_Witness_1717   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d72hey/made_a_flashcard_making_app/</guid>
+      <pubDate>Mon, 03 Jun 2024 11:49:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了用于团队建设和无缝项目协作的网络应用程序</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d726om/i_made_networking_app_for_team_building_seamless/</link>
+      <description><![CDATA[此应用适用于想要与志同道合的人一起积极创建项目而不是被动地待在 100 多人社区的人。无需事先建立联系 &gt; 任何人都可以围绕自己的项目/想法建立自己的梦之队，也可以加入现有团队，为项目带来技能。团队可以即时访问私人空间，该空间专为活跃项目而设计，带有实时共享工具。 您可以查看现有项目中的团队角色，并轻松决定是否要参与该项目。有超过 30 个业务类别可供选择，个性化档案可帮助您根据人们想成为您团队一员时获得的优惠建立自己的团队。 我们的远大愿景是改变整个在线网络，使其更加活跃、更加基于团队合作，而不是所有人都在大社区中单独行动。 我们今天推出了，如果您想尝试一下（100% 免费），只需前往 https://www.solvearn.net    提交人    /u/solvearn   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d726om/i_made_networking_app_for_team_building_seamless/</guid>
+      <pubDate>Mon, 03 Jun 2024 11:32:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>为我不断发展的机构寻找全栈开发人员</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d71ysz/seeking_fullstack_developer_for_my_growing_agency/</link>
+      <description><![CDATA[大家好！ 希望你们都一切顺利。我建立自己的机构已经一年多了，我们希望增加为客户创建和销售的应用程序数量。为了实现这一目标，我需要更多有才华的开发人员加入团队或作为值得信赖的自由职业者与我们合作。您将是帮助我们发展和增加收入的关键一员。 我正在寻找能够使用 JavaScript 构建 Web 和移动应用程序的人，尤其是使用 React 和 MongoDB。如果您有 AI 经验，那将是一个很大的优势，因为我们即将有一个需要这种专业知识的项目。 我们的大多数项目都有 2-3 个月的时间表，我们提供每月 2000 至 2500 美元的薪水。你可以兼职或全职工作——最重要的是完成工作，而不是你在电脑前花了多少时间。 我通常通过不同的平台招聘，我想尝试更多的平台，所以如果你对在这个预算内如何找到优秀的开发人员有什么建议，我很乐意听取。 谢谢！    提交人    /u/vibe_keeper   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d71ysz/seeking_fullstack_developer_for_my_growing_agency/</guid>
+      <pubDate>Mon, 03 Jun 2024 11:19:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了一个个人理财工具来简化我的生活。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d71o75/i_built_a_personal_finance_tool_to_simplify_my/</link>
+      <description><![CDATA[       由    /u/grokking_growth  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d71o75/i_built_a_personal_finance_tool_to_simplify_my/</guid>
+      <pubDate>Mon, 03 Jun 2024 11:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>一个简单的 API，用于收集有关招聘市场的见解并访问 JSON 格式的数百万个招聘信息</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d71kqv/a_simple_api_to_gather_insights_into_the_hiring/</link>
+      <description><![CDATA[       由    /u/foorilla  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d71kqv/a_simple_api_to_gather_insights_into_the_hiring/</guid>
+      <pubDate>Mon, 03 Jun 2024 10:54:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>求职者必备的 ChatGPT</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d71f13/chatgpt_on_steroids_for_job_seekers/</link>
+      <description><![CDATA[        提交者    /u/Fast-Society7107   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d71f13/chatgpt_on_steroids_for_job_seekers/</guid>
+      <pubDate>Mon, 03 Jun 2024 10:44:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>三个月前，我失业了😅</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d715uc/three_months_ago_i_lost_my_job/</link>
+      <description><![CDATA[三个月前，我失业了😅。所以，我开始着手我的第一个业余项目：一个简单的习惯追踪器 HabitRadar。 我希望得到您的反馈，以决定是继续努力并添加新功能还是停止。    提交人    /u/goharyi   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d715uc/three_months_ago_i_lost_my_job/</guid>
+      <pubDate>Mon, 03 Jun 2024 10:26:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>一款管理应用程序订阅的应用程序……</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d7112a/an_app_to_manage_app_subscriptions/</link>
+      <description><![CDATA[我开发了一个应用程序来帮助管理订阅。我们都有订阅，而且每月和每年支付的费用可能超出预期。  是的，我明白其中的讽刺。一个 SaaS 应用程序可以帮助节省 SaaS 应用程序的费用。但如果你每周花 1 美元，可以节省 500 美元的续订费用，而这笔费用是你不想要或不需要的，那么也许这是值得的。  你怎么看👍👎 https://app.subradar.io/    提交人    /u/This_Tax162   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d7112a/an_app_to_manage_app_subscriptions/</guid>
+      <pubDate>Mon, 03 Jun 2024 10:17:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个可以加速开发的工具，其中包含现成的 API</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d70w9u/i_made_a_tool_to_speed_up_development_with_ready/</link>
+      <description><![CDATA[嘿！ 我正在构建一个名为 dubvid 的工具，然后我意识到我必须出于不同原因创建不同的 api，因此我创建了 tinyapis， Tinyapis 是预定义 api 的集合，您可以在项目中使用这些 api 来加快开发速度，节省创建这些功能的时间来节省时间，例如删除图像背景、base64 转换为 pdf 等    提交人    /u/shayannadeem321   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d70w9u/i_made_a_tool_to_speed_up_development_with_ready/</guid>
+      <pubDate>Mon, 03 Jun 2024 10:08:56 GMT</pubDate>
+    </item>
     <item>
       <title>传奇的开发人员，但不知道要构建什么？</title>
       <link>https://www.reddit.com/r/SideProject/comments/1d6zsg0/legendary_developer_but_dont_know_what_to_build/</link>
@@ -32,83 +109,6 @@
       <description><![CDATA[我们想为我们的产品添加一个新的分销渠道。目标是在 Google 搜索中获得排名。 我们尝试过付费获取反向链接，但有点贵。 既然有人说内容营销“便宜”...我会试一试。 人们说“只要开始写博客文章”，就好像这样就能很快让你在 Google 上获得链接一样。或者只要开始制作“好内容”。 你们是如何进行内容营销的？ 在此过程中犯了什么错误？ 要使用哪些工具？    提交人    /u/hey_corina   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1d6yx4s/anyone_killing_it_with_content_marketing_on_a/</guid>
       <pubDate>Mon, 03 Jun 2024 07:40:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>第一个项目</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d6yhzx/first_project/</link>
-      <description><![CDATA[大家好，我刚刚在产品搜索中首次发布 - noleetcheat，想听听你们的想法。我可以添加或更改什么？     由   提交  /u/Live-Experience-602   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d6yhzx/first_project/</guid>
-      <pubDate>Mon, 03 Jun 2024 07:09:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>我下班后正在制作一款工厂自动化游戏作为副业！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d6y32b/im_making_a_factory_automation_game_as_a_side/</link>
-      <description><![CDATA[        由    /u/KirousGames  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d6y32b/im_making_a_factory_automation_game_as_a_side/</guid>
-      <pubDate>Mon, 03 Jun 2024 06:39:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>意外发射的故事</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d6y1au/accidental_launch_story/</link>
-      <description><![CDATA[大家好， 我想分享一个关于我的小型初创公司 Validea 的有趣而出乎意料的故事，以及它教给我的关于尽早发布的宝贵经验。Validea 是一个平台，其他创始人可以使用人工智能快速验证他们的创业想法。我已经研究了一段时间，并计划在它完善并达到我的标准后在 ProductHunt（和其他平台）上发布它。但这从未发生过...... 大约 1.5 个月前，我创建了一个发布草稿并在 ProductHunt 上安排了一个发布日期，以为到那时我会准备好。然而，生活变得忙碌，我一直在重新安排发布时间，因为我对应用程序的当前状态不满意。我在 Twitter 和 Reddit 上公开谈论 Validea，每天获得 3-4 个注册，但我还没有进行“大型发布”然而 - 反馈总是半正面的，这对我来说还不够。 昨天，发生了一件意想不到的事情。我的通知开始每 5-10 分钟就出现一次新注册。我感到很困惑，然后检查了统计数据。来自 ProductHunt 的访问量达到数百次。原来是我忘了重新安排发布日期，Validea 自动启动了！ 起初，我很害怕，以为应用程序还没有为此做好准备。但当我打开 ProductHunt 页面时，我看到 Validea 是当天排名前五的产品之一，有很多很棒的评论和赞成票。我至少感到很震惊。 通常，人们会精心计划他们的发布并寻求外部支持来提升排名，但我的应用程序自己进入了前五名，因为人们真的很喜欢它。当然，也有一些关于不完善的 UI/UX 的抱怨，以及应用程序几次崩溃，但总体而言，反馈非常积极。 这次经历教会了我一个重要的教训：尽早发布，不要害怕。如果你的产品满足了真正的需求，即使它并不完美，人们也会喜欢和使用它。社区的反响非常好，我非常高兴。 我现在正在努力解决问题并完善 Validea 以满足每个人的期望。我想分享这个故事，鼓励其他人勇敢地迈出第一步，尽早推出他们的产品。有时，学习和成长的最好方法就是把自己放在那里，看看会发生什么。 感谢阅读！    提交人    /u/namoriam   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d6y1au/accidental_launch_story/</guid>
-      <pubDate>Mon, 03 Jun 2024 06:36:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>在图片中隐藏密码。介绍，ImagePass</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d6xwpm/hide_your_password_in_images_introducing_imagepass/</link>
-      <description><![CDATA[嗨，我正在制作一个 SaaS 产品，它允许用户在任何图像中隐藏密码。 目前，这只是一个登录页面，而不是产品（即将推出） https://imagepass.streamlit.app 它是如何工作的？：  对于加密，只需输入要隐藏的密码，选择所需的图像并点击加密。 对于解密，选择您已隐藏密码的图像并点击解密  链接末尾有一个表格。请让我知道您的评论     提交人    /u/Soul__Reaper_   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d6xwpm/hide_your_password_in_images_introducing_imagepass/</guid>
-      <pubDate>Mon, 03 Jun 2024 06:27:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>只需 1 美元即可在此网站上宣传您的产品（更新）</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d6xgha/advertise_your_product_for_just_1_dollar_on_this/</link>
-      <description><![CDATA[2 周前，我在 reddit 上推出了我的趣味网站 onebuck.site。我收到了一些很棒的反馈，这是该产品的第三次迭代。首先，我的网站的功能是： 您支付 1 美元，您的产品将在当前产品展示半小时后开始在着陆页上展示半小时，下一个人支付 1 美元。现在，如果您支付 5 美元，您的产品将在 9 个著名的 subreddit 上分享，这些 subreddit 会为您的网站和产品带来数千流量，并在我的个人 twitter 帐户上分享，平均每篇帖子的展示次数约为 500-600 次。功能管道中的下一个是产品搜索提交，以及提交到其他几个目录。 试试看。嘲笑它。建议添加一些功能以及您希望在其中看到的任何其他内容。 谢谢    提交人    /u/Dal-Chawal   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d6xgha/advertise_your_product_for_just_1_dollar_on_this/</guid>
-      <pubDate>Mon, 03 Jun 2024 05:56:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用复古物品的应用创意</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d6x7vy/ideas_for_applications_using_retro_items/</link>
-      <description><![CDATA[你好！😃 我出生于 80 年代末，对那个时代的复古文化和物品情有独钟。 我对使用寻呼机或盒式磁带播放器等物品创建应用程序很感兴趣。 您对想要看到的应用程序有什么想法或建议吗？ 我很想听听您的想法。🙏 谢谢！    提交人    /u/twone315   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d6x7vy/ideas_for_applications_using_retro_items/</guid>
-      <pubDate>Mon, 03 Jun 2024 05:40:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻求反馈：改进 ASMR YouTube 频道的视觉效果</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d6x7gi/feedback_wanted_improving_visual_effects_for_asmr/</link>
-      <description><![CDATA[你好！😃 我们最近开通了一个 ASMR YouTube 频道。我们的视频上传流程如下  随机混合各种声源，例如音效、自然声音和白噪声 使用生成式 AI 生成图像 结合步骤 1 中的音频和步骤 2 中的图像来创建 2 小时的视频 上传视频  我们目前对视频和视觉效果的质量不满意，希望得到改进建议。 此外，我们计划运营一个由 AI 生成的 Lo-Fi 播放列表的频道。我们很想听听您对什么样的音乐和视觉效果会有吸引力的想法。 谢谢！🙏    提交人    /u/twone315   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d6x7gi/feedback_wanted_improving_visual_effects_for_asmr/</guid>
-      <pubDate>Mon, 03 Jun 2024 05:39:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>改进面部识别工作时间跟踪应用程序的建议</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d6x70p/suggestions_for_improving_facial_recognition_work/</link>
-      <description><![CDATA[你好！😃 我们最近推出了一款 SaaS 应用程序，可使用基于摄像头的面部识别来追踪专注工作时间。🎦 主要功能包括  使用面部识别追踪工作时间（不传输或存储视频） 付费用户可以查看每日/每周/每月数据（免费用户只能查看当天的数据）  我们了解使用面部识别可能会引起某些用户的担忧。 我们将非常感谢您提供有关如何更好地解释此功能的建议。此外，我们欢迎任何有关我们服务的反馈。🙏 谢谢！    提交人    /u/twone315   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d6x70p/suggestions_for_improving_facial_recognition_work/</guid>
-      <pubDate>Mon, 03 Jun 2024 05:39:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻求对 ToDoList 应用程序移动版本的反馈</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d6x6lq/seeking_feedback_on_mobile_version_of_todolist/</link>
-      <description><![CDATA[你好！😃 我们最近推出了 ToDoList 应用程序作为 Google Chrome 扩展程序。🗒️ 使用此扩展程序，您可以直接从浏览器的侧面板管理任务列表。 以下是主要功能  检查今天的剩余时间 管理您的 ToDoList 添加和播放 YouTube 链接 使用各种主题进行自定义  我们的许多用户特别喜欢可自定义的主题功能。 我们正在考虑将此扩展程序作为具有相同功能和同步功能的移动应用程序推出。我们很乐意听到您对如何提高可用性的想法。 请分享您对潜在移动应用程序和同步功能的宝贵反馈。 🙏 谢谢！    由   提交  /u/twone315   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d6x6lq/seeking_feedback_on_mobile_version_of_todolist/</guid>
-      <pubDate>Mon, 03 Jun 2024 05:38:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的故事是关于构建一个 Chrome 扩展程序来管理我在 LinkedIn 上找到的潜在客户。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d6wu8w/my_story_of_building_a_chrome_extension_to_manage/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d6wu8w/my_story_of_building_a_chrome_extension_to_manage/</guid>
-      <pubDate>Mon, 03 Jun 2024 05:15:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>为您的 SAAS 提供免费的专家 UI/UX 反馈</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d6wkz5/giving_free_expert_uiux_feedback_for_your_saas/</link>
-      <description><![CDATA[你好。 我是 UI/UX 设计师，正在从事我的新项目。在创建社区方面，我已准备好为您的 Side 项目提供免费定制设计反馈，并帮助您提升用户体验！ 只需将您的项目链接/设计或任何有关项目的设计问题发送给我，最多可在 2 天内收到反馈： https://simonishvili.com/consultation/ 关于我 - 我是 Irakli，产品设计师，12 年以上经验*:* simonishvili.com    提交人    /u/simonishvili   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d6wkz5/giving_free_expert_uiux_feedback_for_your_saas/</guid>
-      <pubDate>Mon, 03 Jun 2024 04:59:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
