@@ -4,11 +4,39 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Mon, 03 Jun 2024 00:58:39 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Jun 2024 03:15:00 GMT</lastBuildDate>
+    <item>
+      <title>需要反馈：Next-Blog 是一个具有高级功能的 CMS 吗？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d6u0pc/feedback_needed_nextblog_a_cms_with_premium/</link>
+      <description><![CDATA[嗨，我目前正在创建 Next-Blog，这是一个开箱即用的快速、SEO 友好的基于博客的 CMS，支持多个主题、类似 Notion 的所见即所得编辑器、AI 助理作家、管理仪表板以及自定义现代布局和组件。 我已经研究了一个月，但我想得到大家的反馈，以更好地规划未来的发展时间表。 请留下建设性的批评和您希望在初始公开版本中看到的功能。 GitHub：https://github.com/MODSetter/next-blog    提交人    /u/Uiqueblhats   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d6u0pc/feedback_needed_nextblog_a_cms_with_premium/</guid>
+      <pubDate>Mon, 03 Jun 2024 02:31:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>TripArai，一款功能强大且易于使用的旅行计划应用程序</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d6tyf7/triparai_a_powerful_and_easy_to_use_travel/</link>
+      <description><![CDATA[大家好！ 我叫 Derpnshire，我的梦想之一是大学毕业后创办一家移动软件公司。现在我已经毕业了，我想和大家分享我一直在从事的一个主要项目（至少对我来说是主要项目）。 TripArai - 旅行计划器是一款旨在让您的假期计划更易于组织和管理的应用程序。我经常和家人一起旅行，和你们中的许多人一样，我害怕计划阶段，因为有很多事情需要考虑。通过 TripArai，我的目标是让这个过程尽可能简单和愉快。 TripArai 的主要吸引力在于简单的 UX/UI 以及拖放节点系统，您可以在其中随意添加/编辑/删除信息。其他功能包括：  预算/费用跟踪器 上传文档的能力 用于共享图片、行程和提问的社区论坛 一种“AI”（处于测试阶段）功能，可以根据您的喜好自动生成行程。  目前，在我的数据库中，TripArai 仅支持亚洲的少数几个城市，但路线图已经到位，以支持世界各地的大多数主要城市。 TripArai完全免费下载，但需要您注册才能创建行程。专业订阅还可获得更多功能。 Google Play Store 下载链接 iOS/iPadOS Appstore 下载链接 非常感谢您花时间阅读我的帖子，我对创造事物充满热情，特别是在科技领域。我愿意接受任何批评、意见和建议。 我希望 TripArai 在您计划下一个梦想假期时对您有所帮助！再次感谢！:D    提交人    /u/Derpnshire   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d6tyf7/triparai_a_powerful_and_easy_to_use_travel/</guid>
+      <pubDate>Mon, 03 Jun 2024 02:27:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>我申请了练习行为面试问题的申请</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d6tewh/i_made_an_application_to_practice_behavioral/</link>
+      <description><![CDATA[作为一个在行为面试练习方面遇到困难的人，我一直希望有一个平台专门帮助解决工作准备的这一特定方面。 介绍 Zilta，一个人工智能面试官，旨在根据候选人所追求的特定角色和相应的职位描述来评估候选人。使用 Zilta，您可以收到关于面试的个性化反馈，从而改进和提高您的表现。 目前，有一个候补名单，我希望你们都加入。相信我，这个工具真的很有帮助（而且非常实惠）。 这也是我的第一个副业，所以你的支持对我来说意义重大！:) 查看：https://zilta.io/    提交人    /u/invigorating_fella   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d6tewh/i_made_an_application_to_practice_behavioral/</guid>
+      <pubDate>Mon, 03 Jun 2024 01:58:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>四款全新每日文字游戏 - CleverGoat.com</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d6te5j/four_brand_new_daily_word_games_clevergoatcom/</link>
+      <description><![CDATA[      Clever Goat 主页 大家好！ 我们最近创建了 Clever Goat，刚刚推出了四个全新的单词游戏供大家享受！  Proximity - 猜出秘密单词。对于您做出的每次猜测，游戏都会告诉您该单词与秘密单词的接近程度。这是 Semantle 的简易版本（我们也运行 Semanle） Word Grid - 我们个人最喜欢的！使用符合行和列值的单词完成 3x3 网格 Flipple - 您有一个起始词和一个目标词。您需要通过一次翻转一个字母来到达目标词。每个单词都必须是有效单词 Categories - 您能分成四组四个单词并找到类别吗？  在 clevergoat.com 查看它们 谢谢！    提交人    /u/SuchTown32   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d6te5j/four_brand_new_daily_word_games_clevergoatcom/</guid>
+      <pubDate>Mon, 03 Jun 2024 01:57:25 GMT</pubDate>
+    </item>
     <item>
       <title>构建一个应用程序来帮助你找到举办私人活动的酒吧</title>
       <link>https://www.reddit.com/r/SideProject/comments/1d6rqtz/building_an_app_to_help_you_find_bars_to_host/</link>
-      <description><![CDATA[我一直是朋友圈的策划者，通常会组织朋友的生日、告别派对等。寻找举办活动的酒吧是一个非常烦人的过程。大多数酒吧的网站上都没有列出私人活动的详细信息，您必须联系他们以获取更多信息。我正在开发一款应用，作为您开始搜索过程的第一个地方，以帮助在联系酒吧之前缩小选择范围。 有没有人遇到过这个问题？ https://www.guestlist.bar/    提交人    /u/MundaneResolve4416   [链接] [评论]]]></description>
+      <description><![CDATA[我一直是朋友圈的策划者，通常会组织朋友的生日聚会、告别派对等。寻找一家酒吧来举办活动是一个非常烦人的过程。大多数酒吧的网站上都没有列出私人活动的详细信息，您必须联系他们以获取更多信息。我正在开发一款应用，作为您开始搜索过程的第一个地方，以帮助在联系酒吧之前缩小选择范围。 有没有人遇到过这个问题？ https://www.guestlist.bar/    提交人    /u/MundaneResolve4416   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1d6rqtz/building_an_app_to_help_you_find_bars_to_host/</guid>
       <pubDate>Mon, 03 Jun 2024 00:30:16 GMT</pubDate>
     </item>
@@ -81,34 +109,6 @@
       <description><![CDATA[大家好！ 我很乐意听到您对我的登陆页面的想法：AI Auto Parts。 任何建议、意见或反馈都将不胜感激！    提交人    /u/smokedX   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1d6mcxh/roast_my_landing_page/</guid>
       <pubDate>Sun, 02 Jun 2024 20:19:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>你们是如何管理应用程序的变更日志的？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d6l781/how_do_you_guys_manage_your_changelog_for_your/</link>
-      <description><![CDATA[  由    /u/Mans__js  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d6l781/how_do_you_guys_manage_your_changelog_for_your/</guid>
-      <pubDate>Sun, 02 Jun 2024 19:28:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们为 SEO、摄影师、电子商务人士提供的副项目</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d6kilg/our_side_project_for_seo_photographers_ecommerce/</link>
-      <description><![CDATA[嗨，r/sideproject， 作为一名在代理机构工作的数字营销人员，我经常为 B2B 和电子商务客户批量优化图片而苦恼。无论是产品列表、博客文章和 SEO，还是分享照片，可用的工具要么限制我一次可以压缩的文件数量，要么质量明显较低，要么需要付费。批量减小文件大小和保持图像质量之间的平衡始终是一种妥协。 这种挫败感让我和我的合作伙伴走上了创建自己的解决方案的道路。以下是我们遵循的流程： 研究：我们首先与我所在领域的其他人以及电子商务经理和摄影师交谈，尽管挑战巨大而深刻，但我们决定从融合点开始。  开发：我的合作伙伴是一名拥有压缩技术专利的精英工程师。他在 1 周内就准备好了 MVP。  构建和迭代：这是我们寻求您的指导和意见的地方。您的反馈和建议对于我们继续开发和改进此工具至关重要。  我们如何改善我们的用户体验？您希望我们接下来开发哪些功能？我们的目标是帮助尽可能多的专业人士。  这是我们的附带项目的链接：https://resizeimage.io/ 期待您的反馈 TLDR：为 SEO、电子商务和专业摄影师构建了一个批量图像调整器和压缩器。寻求反馈。    提交人    /u/datkilledme   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d6kilg/our_side_project_for_seo_photographers_ecommerce/</guid>
-      <pubDate>Sun, 02 Jun 2024 18:58:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>对新的兼职自由职业平台感兴趣吗？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d6kgfv/interested_in_a_new_freelance_platform_for_side/</link>
-      <description><![CDATA[大家好！ 我们很高兴地宣布推出 Uptiers，这是一个类似于 Fiverr 的新自由职业平台。 作为一名自由职业者，过去 6 年来，我经历了 Fiverr 和 Upwork 等平台上激烈竞争的挑战。这就是我们创建 Uptiers 的原因，这是一个旨在更适合初学者的平台。 我们的主要差异化因素之一是我们的快速支付系统。与其他可能需要等待 15 天或更长时间的平台不同，Uptiers 会在项目完成后 2 天内发放付款。这可确保您快速轻松地获得资金。 我们也了解负担能力的重要性。这就是我们为自由职业者（15%）和客户（5%）提供低平台费用的原因。这样，您就可以保留更多的收入，并使 Uptiers 成为市场双方都有吸引力的选择。 那么，您还在等什么？立即注册 Uptiers 并体验不同之处！    提交人    /u/Aqsa_Zahid   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d6kgfv/interested_in_a_new_freelance_platform_for_side/</guid>
-      <pubDate>Sun, 02 Jun 2024 18:56:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>我为 Notion 创建了一个演示模式。（每周为我节省了几个小时）</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d6k75l/i_created_a_presentation_mode_for_notion_saves_me/</link>
-      <description><![CDATA[        由    /u/Cliometric 提交   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d6k75l/i_created_a_presentation_mode_for_notion_saves_me/</guid>
-      <pubDate>Sun, 02 Jun 2024 18:45:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
