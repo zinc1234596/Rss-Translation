@@ -4,7 +4,77 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Wed, 05 Jun 2024 21:14:05 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jun 2024 03:15:11 GMT</lastBuildDate>
+    <item>
+      <title>我开发了一个工具让你不再接听电话</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d989x2/i_built_a_tool_to_never_answer_a_phone_call_again/</link>
+      <description><![CDATA[        由    /u/bartasius  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d989x2/i_built_a_tool_to_never_answer_a_phone_call_again/</guid>
+      <pubDate>Thu, 06 Jun 2024 03:00:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>没什么特别的，只是构建了一个 VS Code 扩展来帮助共享代码更新。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d988d5/nothing_fancy_just_built_a_vs_code_extension_to/</link>
+      <description><![CDATA[        提交人    /u/Atthewall   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d988d5/nothing_fancy_just_built_a_vs_code_extension_to/</guid>
+      <pubDate>Thu, 06 Jun 2024 02:58:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>这就是我如何验证我的新创业公司并在 24 小时内完成第一笔销售</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d980tj/this_is_how_i_validated_my_new_startup_and_made/</link>
+      <description><![CDATA[2 天前，我推出了一家名为 Redditors 的服务型初创公司。我们的平台有助于在 Reddit 上推广初创公司、产品或网站，以吸引客户并在正式发布后收集反馈。我创建了一个简单的登陆页面，集成了 Tally Forms 和 Lemon Squeezy 进行支付，并在线推出了该平台。发布后，我在 Twitter 上发布了相关信息，并获得了一些参与。令人惊讶的是，参与帖子的其中一位用户最终下了订单。我很乐意听取您的反馈以及进一步扩展的任何技巧！查看：Redditors    提交人    /u/gary_king_001   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d980tj/this_is_how_i_validated_my_new_startup_and_made/</guid>
+      <pubDate>Thu, 06 Jun 2024 02:47:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>KeyPush：由 ChatGPT 提供支持的搜索引擎</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d97fws/keypush_chatgpt_powered_search_engine/</link>
+      <description><![CDATA[我建立了一个搜索引擎，使用 ChatGPT 来获取网络结果 + 提供 AI 驱动的摘要。它类似于 bing，但我们使用 ChatGPT 而不是 Copilot，因为它拥有所有 AI 中最高的 elo 评级。我们的网站是 keypush.ai，很快就会变成 keypush.com 尝试一下，让我知道你的想法！    提交人    /u/keypushai   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d97fws/keypush_chatgpt_powered_search_engine/</guid>
+      <pubDate>Thu, 06 Jun 2024 02:16:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>有谁有兴趣一起建立多代理 LLM 吗？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d971ql/anyone_interested_in_building_an_multiagentic_llm/</link>
+      <description><![CDATA[我已经开始了这个项目。由于我的资源不是很多，我使用的是微软的 Phi 3 模型的量化指令版本。（顺便说一下，它是开源的）这个想法是针对特定任务对其进行微调，在这种情况下，学习有关 AI 的一切。因此，一个学习 AI 以构建另一个强大的 AI 的 AI。我们都以我们认为最优化的方式为其做出贡献。     提交人    /u/akitsushima   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d971ql/anyone_interested_in_building_an_multiagentic_llm/</guid>
+      <pubDate>Thu, 06 Jun 2024 01:56:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何在 Product Hunt 上获胜</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d9622h/how_to_win_on_product_hunt/</link>
+      <description><![CDATA[        提交人    /u/mkchoi212   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d9622h/how_to_win_on_product_hunt/</guid>
+      <pubDate>Thu, 06 Jun 2024 01:05:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>我建立并设计了一个美国经济表现的仪表板</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d95afu/i_built_and_designed_a_dashboard_for_us_economic/</link>
+      <description><![CDATA[        提交人    /u/blackboyx9x   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d95afu/i_built_and_designed_a_dashboard_for_us_economic/</guid>
+      <pubDate>Thu, 06 Jun 2024 00:26:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>公共场所建筑：哪种游戏类型是首选。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d92dkh/building_in_public_which_game_type_is_preferred/</link>
+      <description><![CDATA[你好 reddit 😁 我正在开发一款家庭游戏，大约 3 年前我的家人开始制作这款游戏​​。我想与任何我能联系到的人分享这款游戏。这款游戏非常适合家庭，适合 3 岁以上的儿童。 我的困惑是，我不确定我应该把它做成实体纸牌游戏、应用程序还是其他什么。我们通常在车里玩。 你和你的家人会喜欢什么样的游戏？ 提前感谢大家的意见！    提交人    /u/Own_Ladder9066   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d92dkh/building_in_public_which_game_type_is_preferred/</guid>
+      <pubDate>Wed, 05 Jun 2024 22:09:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>构建桌面应用程序来击败算法</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d91cel/building_a_desktop_app_to_beat_the_algorithm/</link>
+      <description><![CDATA[大家好！ 首先，此应用程序将仅供桌面使用，因为我没有手机成瘾，而是“消费愚蠢内容”成瘾。 像你们中的许多人一样，算法（尤其是 YouTube 上的算法）让我不知所措。我没有取得尽可能多的成就，因为我花了很多时间在网上浏览无意义的内容。我尝试过许多扩展程序和应用程序，但都没有用。因此，我决定构建自己的桌面应用程序（适用于 Mac，如果有足够的兴趣，也可能适用于 Windows）来帮助击败算法。 我们得到的大部分建议只是“断网兄弟，摸摸草地”，但我整天都在笔记本电脑上工作，因为我是一名软件工程师，这需要我连接到互联网。我的许多爱好，如音乐制作，也与我的笔记本电脑有关。我不能简单地断开连接，而且互联网整体上很棒——只是这些令人上瘾的网站会浪费我们太多宝贵的时间。 所以，我要构建一个桌面应用程序，它不仅允许我们屏蔽网站，还可以半屏蔽网站，并发送消息，例如“嘿，你今天已经在 YouTube 上花了 2 个小时。你确定你需要花更多时间吗？”和“你的目标之一是学钢琴。练习钢琴不是比上 Instagram 更好吗？” 这就是“nosurf”的目标——提醒我们为什么要屏蔽这些网站。“为什么”非常强大，而且我们经常会忘记。该应用程序还将显示您在网站上花费时间的实时仪表板，让您真正了解您花费最多时间的地方。 最后一个功能将是一个焦点模式选项，您可以在其中锁定预定义的时间。这还将增加分析功能，以便您实际了解每周在深度工作上花费了多少时间，而不会受到播客、YouTube 等的干扰。 如果您有兴趣获得早期访问权限，请访问 nosurf.io 加入候补名单。    提交人    /u/Past-Parsley5184   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d91cel/building_a_desktop_app_to_beat_the_algorithm/</guid>
+      <pubDate>Wed, 05 Jun 2024 21:25:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>我用 4 小时 15 分钟开发了一个非常愚蠢的 Web 应用程序</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d916i4/i_built_a_very_stupid_web_application_in_4_hours/</link>
+      <description><![CDATA[厌倦了理性投资？查看 Random Stonk，让机会掌控一切！ 我感到无聊，想知道我能多快编写和发布最简单的 Web 应用程序。结果，大约需要 4 小时 15 分钟。该应用程序非常简单：每天从列表中选择一个新的股票行情机，收集前一天开盘价和收盘价，并将数据显示给用户。我写它不是为了炫耀，而是为了练习构建和启动 Web 应用程序。页面上有一个小费按钮，因为我确实在域名上花了 20 美元，但是即使我一分钱都没赚到，我仍然会学到很多关于启动网络应用程序的知识。 我甚至会在明天在 ProductHunt 上直播，因为为什么不呢。 祝你副业好运！    提交人    /u/Viking_Sec   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d916i4/i_built_a_very_stupid_web_application_in_4_hours/</guid>
+      <pubDate>Wed, 05 Jun 2024 21:18:31 GMT</pubDate>
+    </item>
     <item>
       <title>请批评一下我的开发者社交网络想法</title>
       <link>https://www.reddit.com/r/SideProject/comments/1d90wd9/please_roast_my_developer_social_network_idea/</link>
@@ -18,13 +88,6 @@
       <description><![CDATA[当一个朋友不断向我发送 PDF 文件进行翻译时，我意识到对 PDF 解决方案的广泛需求，于是决定创建 pdfequips.com。现在，它成为了一个免费且易于使用的 PDF 工具集合，用于合并、拆分、压缩、转换、旋转、OCR 和向 PDF 文件添加水印。在过去的一年里，我广泛开发了该网站，利用了前端和后端的各种开源工具。    提交人    /u/No_Spare_5337   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1d90kri/i_built_an_online_pdf_management_platform_using/</guid>
       <pubDate>Wed, 05 Jun 2024 20:53:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>提高个人生产力的必备办公工具</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d90htv/essential_office_tools_for_personal_productivity/</link>
-      <description><![CDATA[ 用于笔记记录和整理：我使用 Notion 和 Evernote 来集中跟踪任务、项目和笔记。Microsoft OneNote 也很棒，特别是如果您使用其他 Microsoft Office 产品。这些工具帮助我保持井然有序，并确保我可以轻松访问所有重要信息。 用于转录和总结：我创建了 Vomo.ai 来转录会议和讲座。它非常准确，支持多种语言，并且可以一键从 iPhone 导入语音备忘录。 Vomo 中的 AI 助手还可以帮助总结要点，为我复习笔记节省了大量时间。欢迎尝试！ 用于沟通和协作：对于团队沟通，Slack 是不可或缺的，并且可以与许多其他工具集成。Zoom 是我首选的虚拟会议平台，因为它可靠且功能齐全。Google Workspace，包括 Gmail、Google Docs 和 Google Drive，非常适合实时协作和云存储。  这些工具让我的工作生活变得更加轻松和高效。我希望您觉得它们和我一样有用！    提交人    /u/Jolly_East_3450   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d90htv/essential_office_tools_for_personal_productivity/</guid>
-      <pubDate>Wed, 05 Jun 2024 20:49:54 GMT</pubDate>
     </item>
     <item>
       <title>用于浏览网页和使用语音听写的 Chrome 扩展程序</title>
@@ -46,69 +109,6 @@
       <description><![CDATA[      大家好！ 我介绍的 Alva AI 是您值得信赖的副驾驶系统，擅长协助您完成各种日常任务，例如组织您的日程安排和监督您的目标。 将其添加到您的浏览器是免费的 - https://chromewebstore.google.com/detail/alva-ai-your-gpt-ai-copil/ineaaocgdoopigebjdpdbjhiememmnjb https://preview.redd.it/bw2gglzx6t4d1.png?width=1280&amp;format=png&amp;auto=webp&amp;s=2ef8aa17dce3fcdba4d6fe9b33d901760dfbac91 https://preview.redd.it/74kxipay6t4d1.png?width=1280&amp;format=png&amp;auto=webp&amp;s=72c0233d71a6301aa07f68b80315927f43c74c6b https://preview.redd.it/hv62fury6t4d1.png?width=1280&amp;format=png&amp;auto=webp&amp;s=23bf68ada6494814f1304759c135ae4bc53051ba https://preview.redd.it/fcb3fm5z6t4d1.png?width=1280&amp;format=png&amp;auto=webp&amp;s=c78c99fb2a4d4062fff0f037989047245717dfb0 https://preview.redd.it/s809xykz6t4d1.png?width=1280&amp;format=png&amp;auto=webp&amp;s=4a75817d807157f4ab0d48c14b96cba3fc8c1f1a 免费下载 https://chromewebstore.google.com/detail/alva-ai-your-gpt-ai-copil/ineaaocgdoopigebjdpdbjhiememmnjb 另请查看 https://www.alva.solutions/ 上的更多扩展程序    提交人    /u/alvasolutions   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1d8zbe4/my_first_sidebar_extension_alva_ai_your_ai_copilot/</guid>
       <pubDate>Wed, 05 Jun 2024 20:00:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>你们的副项目怎么样了，炮制野人。我希望你们都能成功。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d8xzrs/whats_up_you_side_project_concocting_savages_i/</link>
-      <description><![CDATA[我刚刚推出了 venter.vip — 这是一个分享高度个人/高度机密秘密的专属社区。它通过加密保护登录凭据（密钥）、随机化它们，使它们无法被猜测或使用 彩虹表 之类的东西破解，同时将发布的秘密与任何特定密钥持有者分开，为 Reddit 提供了更高程度的匿名性。它是为那些希望认真了解世界底层并了解人们所持有的东西的人精心策划的。 如果这听起来很有趣，我鼓励您尽快加入，因为我准备部署的下一个功能构成了一个投资机会；密钥持有者将能够以盈利的方式向新用户出售他们的密钥集（在此过程中与新用户达成交易）。该项目昨天刚刚推出，欢迎大家提供任何反馈！祝大家创作愉快！    由    /u/Vainmein 提交   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d8xzrs/whats_up_you_side_project_concocting_savages_i/</guid>
-      <pubDate>Wed, 05 Jun 2024 19:06:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>开发人员，为什么不使用设计系统或模板来获得更好的用户界面？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d8xq13/devs_why_dont_you_use_design_systems_or_templates/</link>
-      <description><![CDATA[大家好！ 我注意到许多开发人员分享他们的业余项目，并表达了对他们的 UI 和设计的不满。此外，我还发现许多着陆页可以通过基本的设计原则得到显著改进。 这让我很疑惑：为什么不使用开源设计系统或购买价格合理的网页着陆页模板呢？ 作为一名设计师，我很好奇是否需要一种替代解决方案来帮助开发人员轻松提升他们的业余项目的设计。 谢谢！    提交人    /u/kzmskrttt   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d8xq13/devs_why_dont_you_use_design_systems_or_templates/</guid>
-      <pubDate>Wed, 05 Jun 2024 18:55:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个人工智能驱动的 Reddit 研究工具</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d8xe5u/i_made_an_aipowered_reddit_research_tool/</link>
-      <description><![CDATA[我创建 Prelto 是为了解决我自己在 Reddit 上进行客户和市场研究的问题。Reddit 上有很多定性见解，无论您是试图找到要解决的痛点还是更好地了解您的客户。但是，如果您像我一样手动操作，那么理解所有这些信息可能会非常耗时。 快速概览： 您插入您感兴趣的子版块，Prelto 会根据您自定义的分类法对所有帖子进行分类。默认类别为：痛点、习惯和偏好以及产品反馈。 您可以提出问题并获得详细答案，并参考原始帖子或评论。例如：  “数据工程师在使用数据仓库时面临的主要痛点是什么？” “这个社区对 Snowflake 的普遍看法是什么？”  Prelto 还可以检测数据中的模式，您可以将模式范围限定到您选择的主题。例如，您可以在提及特定关键字的帖子中找到模式。 前 50 位客户将获得 25 美元的免费积分。 https://prelto.com 如果您有任何问题或反馈，请告诉我。    提交人    /u/WildShallot   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d8xe5u/i_made_an_aipowered_reddit_research_tool/</guid>
-      <pubDate>Wed, 05 Jun 2024 18:41:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>我几乎追踪我的整个数字存在</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d8xbkn/i_track_almost_my_entire_digital_presence/</link>
-      <description><![CDATA[最近，我创建了 hindsight，这是一款开源 Android 应用，每 2 秒截取一次屏幕截图并将其存储在本地。它具有将屏幕截图上传到个人服务器的功能，以及一些用于查看和搜索图像内文本的基本脚本。我使用 rem 在我的 Mac 上执行相同的操作。 我认为这些数据开辟了很多很酷的机会，尤其是在个人人工智能和自动自我量化方面！我想到的一些想法：  游戏化屏幕时间减少 使用当前信息查找您过去见过的虚假信息的虚假新闻检测器 创建人工智能twitter 提要摘要图像 心理健康追踪器 创建一个互惠互利的白盒替代方案来取代监控资本主义  好奇人们还有什么其他想法！    提交人    /u/Repulsive-Tank-2858   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d8xbkn/i_track_almost_my_entire_digital_presence/</guid>
-      <pubDate>Wed, 05 Jun 2024 18:38:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>拥有自己的网站托管“公司”</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d8wwj4/own_webhosting_company/</link>
-      <description><![CDATA[Hello world! 我们最近在 www.hostpro.hu 推出了新的网络托管服务！ 如果您是个人或小型企业，为什么选择我们？  可靠的服务器：我们自己的服务器确保平稳运行。 易于管理：使用我们的 HestiaCP 控制面板，您可以轻松管理您的网站、DNS、电子邮件和数据库。 24/7 支持：无论何时您需要帮助，我们的团队（目前只有我）随时待命。  为什么选择我们作为合作伙伴？ HostPro 不仅提供网络托管服务，还提供合作伙伴计划。如果您给我们带来客户，我们将在第一年将他们套餐费用的 50% 转给您。例如，如果客户订阅一整年，您可以预期获得约 15 欧元（目前，我们仅提供每月续订）。 可用套餐和折扣： 我们的网站仍处于早期阶段，我们的服务处于测试阶段，因此目前只有一个套餐可用一个月。首次购买时使用“START50”优惠券代码可获得 50% 的折扣，将成本从 6 欧元降至仅 3 欧元。 我们欢迎所有建议、想法、定价请求和套餐扩展需求。您可以通过 DM 或 [admin@hostpro.hu]() 与我们联系。 附言。附有 HestiaCP 控制面板的图像。    提交人    /u/No_Dig9528   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d8wwj4/own_webhosting_company/</guid>
-      <pubDate>Wed, 05 Jun 2024 18:21:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>我即将开展的项目获得了第一份愿望清单！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d8wv5k/my_upcoming_project_got_its_first_wishlists/</link>
-      <description><![CDATA[大家好， 我只是想和大家分享这个，因为我非常兴奋！我是兼职新手，最近推出了我的网站，它将托管我即将推出的项目（软件）。任何加入该网站的人都可以选择在产品发布时收到通知，而且在短短几天内，已有 4 人将其列入愿望清单！ 这似乎不算什么，但作为一个初学者，这对我来说感觉很疯狂！这是我继续前进所需要的反馈。    提交人    /u/_slDev_   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d8wv5k/my_upcoming_project_got_its_first_wishlists/</guid>
-      <pubDate>Wed, 05 Jun 2024 18:19:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>推出了一款名为 Thiara 的 MVP</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d8wupy/launched_a_mvp_called_thiara/</link>
-      <description><![CDATA[      大家好，我启动了 Thiara，这是一个提示管理器，您可以在其中创建和分类您的 LLM 提示。无需再浪费时间创建或重做提示！使用您保存的模板，只需根据需要进行调整即可 - 非常简单，可节省大量时间！ 链接：https://thiara.vercel.app    由   提交  /u/andydev404   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d8wupy/launched_a_mvp_called_thiara/</guid>
-      <pubDate>Wed, 05 Jun 2024 18:19:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>构建视频收集工具</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d8wspr/building_a_video_collection_tool/</link>
-      <description><![CDATA[一直在使用 HeySure.app。它可让您收集来自客户、客户或员工的视频回复，并将其转化为故事。  设置品牌 设置要问的问题 分享收集链接 获取回复 发布并嵌入或下载它们  它可帮助您获取推荐，收集用例、员工评论、访谈等。 查看 heysure.app 了解更多信息    提交人    /u/pskd73   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d8wspr/building_a_video_collection_tool/</guid>
-      <pubDate>Wed, 05 Jun 2024 18:16:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>Bigcapital - Quickbooks 的自托管开源替代品，发布 v0.17.0，带有附件、银行信息和打印资源表。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d8wonn/bigcapital_a_selfhosted_and_open_source/</link>
-      <description><![CDATA[  由    /u/AdInner8113  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d8wonn/bigcapital_a_selfhosted_and_open_source/</guid>
-      <pubDate>Wed, 05 Jun 2024 18:12:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
