@@ -4,7 +4,63 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Thu, 06 Jun 2024 12:24:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jun 2024 15:14:39 GMT</lastBuildDate>
+    <item>
+      <title>BeeDone：释放你的潜力 - 两年的业余项目在 Product Hunt 上线</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d9jpnm/beedone_unlock_your_potential_2_years_side/</link>
+      <description><![CDATA[        由    /u/yelkamel  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d9jpnm/beedone_unlock_your_potential_2_years_side/</guid>
+      <pubDate>Thu, 06 Jun 2024 14:36:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>EyeGestures 更新 #4（我认为是第 4 次）- EyePilot 发布</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d9jghf/eyegestures_update_4_i_think_it_is_4th_eyepilot/</link>
+      <description><![CDATA[大家好， 我有时会发布我开源非盈利副项目的进展，为了保持这一传统，这里发布下一个项目。我们刚刚发布了新应用程序的 alpha 版本，作为我们新视线跟踪引擎的展示。  基本上，它基于 EyeGestures，我们很乐意了解您的反馈。 从这里获取： https://polar.sh/NativeSensors/posts/how-to-use-eyepilot 您可以使用 EyeGestures 引擎访问我们的 repo，以在此处构建类似的应用程序： https://github.com/NativeSensors/EyeGestures  祝好， NativeSensors    提交人    /u/TraditionalDistrict9   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d9jghf/eyegestures_update_4_i_think_it_is_4th_eyepilot/</guid>
+      <pubDate>Thu, 06 Jun 2024 14:25:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>[项目介绍] Nuxt 静态登陆页面模板 - 使用 Tailwind 和 Nuxt 构建静态网站的样板</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d9inrf/project_introduction_nuxt_static_landing_page/</link>
+      <description><![CDATA[      https://github.com/ekayx/nuxt-static-landing-page-template?tab=readme-ov-file 大家好， 我想分享我一直在做的一个小项目：Nuxt 静态登陆页面模板。 它是什么？ 这是一个使用 Nuxt.js 和 Tailwind CSS 构建静态网站的入门模板。组件来自 TailGrids。我创建它是为了帮助开发人员（主要是我自己）节省设置静态网站的时间和精力。 查看： 该项目是开源的。非常感谢 GitHub 上的反馈和星标！这是链接：GitHub - Nuxt 静态登陆页面模板。 我很想听听你的想法，特别是关于库的选择。 谢谢！    提交人    /u/Dev79243   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d9inrf/project_introduction_nuxt_static_landing_page/</guid>
+      <pubDate>Thu, 06 Jun 2024 13:51:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>我已经创建了 Frodo，一个私人网络应用程序，用于在本地运行 LLama 3:)</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d9iie1/ive_created_frodo_a_private_webapp_to_run_llama_3/</link>
+      <description><![CDATA[  由    /u/wavyrhq  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d9iie1/ive_created_frodo_a_private_webapp_to_run_llama_3/</guid>
+      <pubDate>Thu, 06 Jun 2024 13:44:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何与自由开发人员协商价格？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d9idhg/how_do_you_negotiate_rates_with_freelance/</link>
+      <description><![CDATA[我的小侄子即将与自由开发者就他的项目协商费率，他需要一些指导。您会如何建议初出茅庐的企业家与自由开发者进行费率谈判？ 有什么技巧或策略可以确保双方达成公平交易？    提交人    /u/billy_gaht   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d9idhg/how_do_you_negotiate_rates_with_freelance/</guid>
+      <pubDate>Thu, 06 Jun 2024 13:37:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>🚀 刚刚推出 BankStmtConverter.com：总收入 201 美元，月经常性收入 120 美元！需要前进的建议！🌟</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d9i9qd/just_launched_bankstmtconvertercom_201_total/</link>
+      <description><![CDATA[嗨，Sideproject 家族！ 我很高兴地宣布推出 BankStmtConverter.com，这是一个我倾注了全部心血的平台。我们已经看到了一些进展，总收入为 $201，每月经常性收入 (MRR) 为 $120！ 但在这里我需要您的见解：根据这些初始数字，您认为继续推进这个项目是明智之举吗？您的经验和观点将对我做出这个决定非常有价值。 此外，我想分享一下这个工具背后的主要目标：将那些讨厌的点阵 PDF 转换为 Excel 格式。这是一个小众但至关重要的需求，我决心有效地解决它。我仍在努力培训各种银行对账单格式 期待听到您的想法和建议！让我们继续保持势头！🚀    提交人    /u/optimoapps   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d9i9qd/just_launched_bankstmtconvertercom_201_total/</guid>
+      <pubDate>Thu, 06 Jun 2024 13:32:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们在 Product Hunt 上首次发布的详细回顾</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d9hxpu/a_detailed_recap_of_our_first_launch_on_product/</link>
+      <description><![CDATA[大家好， 我们最近首次在 Product Hunt 上推出了我们的数据库性能管理工具，我想分享我们的经验和成果。对于那些准备发布 Product Hunt 的创始人来说，这可能很有价值。 以下是此次发布的摘要：  我们为什么决定在 Product Hunt 上发布我们的产品？  为了与首次访问该网站的现有受众建立更多信任。 为了获得长期的 SEO 优势。 为了吸引新的受众。  我们为什么决定在周末发布？ 我们的假设是： 周末竞争较低应该会增加我们被推荐的机会（我们不怕竞争对手，但数据库性能管理工具的目标受众与销售 GPT 助理的目标受众不同，后者更广泛）。 与我们的目标受众相交的 Product Hunt 受众在工作日忙于他们的初创公司，可能会在周末尝试新技术 🙂    200 票赞成。 1000 名访客（1 周内）。 10% 转化率 - 100 个注册（1 周内）。  我们是如何准备的？  我们制作了视频、图片和清晰的描述。 收集了好友和频道列表以分享有关发布的信息。 在 Product Hunt 上准备产品页面。 要求我们的家人在周六给我们 24 小时时间🙏  我们是如何发布的？  在社交媒体上发布帖子。 向好友发送消息。 向 4000 名用户发送电子邮件。 向一些公共数据库相关群组发送消息。 一整天，我们都在回复问题和反馈。  我们面临一些挑战：  我们没有准备电子邮件、给朋友和用户的消息以及社交媒体的内容，这在发布日浪费了大量宝贵的时间。 经验教训：应提前准备好消息以节省发布日的时间。 我们不知道太平洋时间 00:00 之后，Product Hunt 可能会削减赞成票并改变您的排名。经验教训：坚持到最后。 发布日后，我们收到了很多赞成票。经验教训：用户、朋友和社区需要时间来支持你，因此在开始后立即通知他们非常重要。  我们取得的成果：  每日第四款产品，并在 Newsletter 中推荐。 本周第五款开发者工具。 在 ProductHunt Newsletter 中推荐。 赞同票数：247。 访客数：459（5 天内）。 注册人数：26（5% 转化率）。      提交人    /u/ragabekov   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d9hxpu/a_detailed_recap_of_our_first_launch_on_product/</guid>
+      <pubDate>Thu, 06 Jun 2024 13:17:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>我打造了一款游戏化生产力应用程序</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d9hid5/i_built_a_gamified_productivity_app/</link>
+      <description><![CDATA[大家好！ 我很高兴与大家分享我创建的一款名为Dailies的应用程序——旨在让提高工作效率不仅有益而且有趣。它的工作原理如下：  每日：设置重复的习惯，以便始终实现您的每日目标。 事件：您记录的每个操作都记录在日记般的日历中，帮助您记录工作效率的历史记录。 记忆：待办事项列表，您可以在其中为每项完成的任务赚取金币。 购物：使用您的金币购买个性化奖励，例如与朋友外出一天，这样您就可以毫无负罪感地享受空闲时间。  每项完成的任务都会为您赚取金币，将您的日常职责变成有趣且有益的体验。您设定目标和奖励，让工作效率成为个人满足感。    提交人    /u/aymantj   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d9hid5/i_built_a_gamified_productivity_app/</guid>
+      <pubDate>Thu, 06 Jun 2024 12:56:29 GMT</pubDate>
+    </item>
     <item>
       <title>🚀 **新的 Android 应用提醒：费用跟踪、记笔记、任务安排等等！** 📱</title>
       <link>https://www.reddit.com/r/SideProject/comments/1d9gtn8/new_android_app_alert_expense_tracking_note/</link>
@@ -53,62 +109,6 @@
       <description><![CDATA[        提交人    /u/AlenV   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1d9feu7/i_created_an_application_for_sharing_your/</guid>
       <pubDate>Thu, 06 Jun 2024 10:58:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>我构建了一款聊天式笔记应用程序 Strflow – 现在正在寻找 iOS Beta 测试人员！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d9er1n/i_built_a_chatstyle_note_app_strflow_now_looking/</link>
-      <description><![CDATA[      嗨 r/SideProject 👋， 我正在开发一款名为 Strflow 的聊天式笔记应用。在今年早些时候发布 Mac 应用后，我一直在开发 iOS 版本，并最终完成了 Beta 版。我现在正在寻找测试人员。 Strflow 是作为 Swift 中的原生应用实现的，我专注于创建一种与 macOS 和 iOS 协调的简单设计。 如果您有兴趣，请从 strflow.app 加入 TestFlight 并提供反馈。我将不胜感激！    提交人    /u/eguchi1904   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d9er1n/i_built_a_chatstyle_note_app_strflow_now_looking/</guid>
-      <pubDate>Thu, 06 Jun 2024 10:15:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>我正在开发一项产品功能，您可以在其中添加您的附带项目，用户可以直接通过平台访问。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d9enpa/im_working_on_a_product_feature_where_you_can_add/</link>
-      <description><![CDATA[我正在开发一个产品功能，您可以在其中添加您的副项目，并且用户可以直接通过平台访问。这有点像产品搜索。但我想知道我是否应该添加一个功能，让您可以聘请联盟营销人员，您可以选择希望他们找到多少用户来注册您的项目。当用户数量达到您想要的最大数量并且他们注册时，您才需要向联盟营销人员付费。你们觉得怎么样。https://product.developerscope.com    提交人    /u/Alert-Ad-5918   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d9enpa/im_working_on_a_product_feature_where_you_can_add/</guid>
-      <pubDate>Thu, 06 Jun 2024 10:08:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>不要犯我犯过的错误</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d9elkj/dont_make_the_same_mistakes_i_made/</link>
-      <description><![CDATA[让我们来谈谈当你不具备审查和测试开发人员的技术技能时，该如何招聘他们。 我以为我从一个朋友推荐的招聘平台上为我的项目找到了一位评价很高的开发人员，真是走运。事情开始很顺利，但很快，我就跟不上技术方面的问题了，只能相信流程。大错特错。不仅成本迅速增加，而且开发人员还在中途弃坑。我只剩下一个半生不熟的项目和耗尽的预算。 有人有过类似的经历吗？ 如果你不是技术专家，如何确保你雇佣了合适的人才？    提交人    /u/value_que   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d9elkj/dont_make_the_same_mistakes_i_made/</guid>
-      <pubDate>Thu, 06 Jun 2024 10:04:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>构建了一个工具来展示 Chrome 网上应用店评论并筛选出最好的评论。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d9eflm/built_a_tool_to_showcase_chrome_web_store_reviews/</link>
-      <description><![CDATA[https://asss.june07.com 抓取商店、过滤和显示。该小部件可嵌入。类似于 Trust Pilot 或 Embed Social。 将很快添加 Edge，以便跨多个商店的单个应用程序可以合并到同一个小部件中。 无论如何，希望得到一些用户的反馈，特别是 Chrome 扩展程序的开发人员，他们可能会觉得这很有用。    提交人    /u/june07r   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d9eflm/built_a_tool_to_showcase_chrome_web_store_reviews/</guid>
-      <pubDate>Thu, 06 Jun 2024 09:53:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个工具，让你可以将任何图像转换为宝丽来/instax mini 胶片格式</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d9edrv/i_build_a_tool_which_lets_you_convert_any_image/</link>
-      <description><![CDATA[这个想法来自我的女朋友，她想以精确的格式打印出此类图像作为礼物。 我认为这可能对其他人也有用，所以我决定在周末围绕这个做一个小型副项目并将其公开。 您上传图像，然后将收到一个 pdf 文件，然后您可以将其打印出来。 单张图像均采用 instax mini 胶片格式（62mm x 46mm） www.retrosnapz.com    提交人    /u/juliandev01   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d9edrv/i_build_a_tool_which_lets_you_convert_any_image/</guid>
-      <pubDate>Thu, 06 Jun 2024 09:49:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>我构建了一个洞察工具</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d9e8pj/i_build_a_insight_tool/</link>
-      <description><![CDATA[Company Insights 可以快速向您显示有关公司的重要见解，帮助您了解竞争情况并找到增长机会。它专为营销人员、销售代表、投资者、初创企业家和其他各种专业人士而设计。    提交人    /u/ad-insights   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d9e8pj/i_build_a_insight_tool/</guid>
-      <pubDate>Thu, 06 Jun 2024 09:39:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>快速将 SVG 转换为任意格式</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d9e20j/quick_and_fast_svg_to_whatever/</link>
-      <description><![CDATA[https://replicon.june07.com    由   提交  /u/shizuka28m   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d9e20j/quick_and_fast_svg_to_whatever/</guid>
-      <pubDate>Thu, 06 Jun 2024 09:25:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>构建 Shopify 应用程序样板以便快速发布。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d9dwdq/building_a_shopify_app_boilerplate_to_ship_fast/</link>
-      <description><![CDATA[在过去的几年中，我已转向 Shopify 开发，并发现它非常有益。我使用 Laravel、NestJs、Go 和各种其他技术构建了 Shopify 应用程序。然而，一个反复出现的挑战是需要快速发货。为了解决这个问题，我开始了一个个人项目来创建 Shopifast，这是一个旨在加快发货过程的工具。 在开发 Shopifast 的过程中，我重组了我的大部分技术堆栈，以更好地与 Shopify 的生态系统保持一致，并为我的应用程序获得至关重要的 Shopify 徽章，最值得注意的是“为 Shopify 构建”徽章。这个徽章特别难以获得，因为我的应用程序最初是作为非嵌入式解决方案开发的。将使用多样化技术堆栈构建的大型应用程序转换为符合 Shopify Polaris 指南是一个复杂且耗时的过程。 克服这些挑战的关键是从 Shopify 的最佳实践开始，确保开发过程顺利而高效。今天，我很高兴与您分享 Shopifast。此样板简单、可扩展、用户友好，并配备了您开始 Shopify 应用开发之旅所需的一切。  非常感谢  的启发！    提交人    /u/Adibe-Mohamed   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d9dwdq/building_a_shopify_app_boilerplate_to_ship_fast/</guid>
-      <pubDate>Thu, 06 Jun 2024 09:13:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
