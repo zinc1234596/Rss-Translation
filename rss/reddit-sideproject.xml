@@ -4,7 +4,35 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Thu, 06 Jun 2024 03:15:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jun 2024 06:18:11 GMT</lastBuildDate>
+    <item>
+      <title>我们已经推出了 Astro 的组件库 fulldev-ui！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d9b9fu/weve_launched_fulldevui_a_component_library_for/</link>
+      <description><![CDATA[用于内容驱动网站的 Astro UI 库 快速构建内容驱动的网站，具有现代设计、静态/服务器渲染和 CSS 级联样式的强大功能。 我们最近推出了，请在 https://ui.full.dev/overview/introduction/ 找到我们&gt; 我们邀请您在 discord 上讨论产品。    提交人    /u/FriendAlert2486   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d9b9fu/weve_launched_fulldevui_a_component_library_for/</guid>
+      <pubDate>Thu, 06 Jun 2024 06:01:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>我在六个月前推出了我的人工智能工具</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d9aqne/i_launched_my_ai_tool_6_months_ago/</link>
+      <description><![CDATA[6 个月前，我启动了我的业余项目，一个可以让你获得专业头像的 AI 工具 AIHeadshotmasters 我尝试了不同的营销策略，甚至使用有影响力的人来推广我的工具，但我仍然没有足够的流量。我应该建立一些新的东西还是更专注于营销这个工具？任何诚实的建议都将不胜感激。    提交人    /u/Dry_Recipe_6606   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d9aqne/i_launched_my_ai_tool_6_months_ago/</guid>
+      <pubDate>Thu, 06 Jun 2024 05:27:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>这是一封个性化程度很高的电子邮件吗？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d9agi4/is_this_a_well_personalized_email/</link>
+      <description><![CDATA[https://reddit.com/link/1d9agi4/video/l8le2irywv4d1/player 这是使用用于个性化冷电子邮件的AI工具创建的。 您认为它写的电子邮件有多好？    由   提交  /u/cupojoe4me   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d9agi4/is_this_a_well_personalized_email/</guid>
+      <pubDate>Thu, 06 Jun 2024 05:09:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>我开发了一款习惯追踪应用</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d99chl/i_build_a_habits_tracker_app/</link>
+      <description><![CDATA[      大家好！我是一名独立开发者。 我构建了一款名为 Atomic - Habit Tracker 的应用程序。如果您想养成良好的习惯，打破不良习惯并保持日常生活规律，Atomic 是您的完美伴侣。 Atomic 具有直观的界面和强大的功能，可帮助您成为最好的自己。 Atomic - 习惯追踪器 为什么选择 Atomic？  养成良好习惯：使用名称、描述、图标和颜色等个性化详细信息快速添加您想要培养的习惯。 打破坏习惯：通过跟踪进度并可视化您实现积极改变的旅程，识别并克服那些阻碍您前进的习惯。 日常例行检查表：通过全面的日常例行检查表保持井然有序和负责，轻松管理您的任务。 小部件：多个可视化小部件选项，始终位于主屏幕顶部。 GitHub Board 启发：受到 GitHub 板的简单性和有效性的启发，Atomic 的仪表板提供了您习惯的清晰概览，让您在观察连续性增长时保持动力。 日历视图：通过直观的日历视图轻松管理您过去的完成情况，让您完全控制您的习惯跟踪体验。 励志名言：无论您是经历困难时期，还是需要额外的推动力来完成工作，激励视图总会帮助您。 游戏化：每次完成习惯时，您都有机会获得一块拼图。收集所有碎片来解开谜题。 iCloud 共享：您的习惯跟踪数据会立即通过 iCloud 在您的 Apple 设备之间共享。 注重隐私：您的数据完全私密，并安全地存储在您的设备上。无需登录、服务器或云存储，确保您的隐私得到优先保护。  在此处下载 Atomic： https://apps.apple.com/app/id6478046939 我很乐意听到您的反馈。 有关更多信息，请访问 https://indiegoodies.com/atomic    提交人    /u/khuong291   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d99chl/i_build_a_habits_tracker_app/</guid>
+      <pubDate>Thu, 06 Jun 2024 04:01:53 GMT</pubDate>
+    </item>
     <item>
       <title>我开发了一个工具让你不再接听电话</title>
       <link>https://www.reddit.com/r/SideProject/comments/1d989x2/i_built_a_tool_to_never_answer_a_phone_call_again/</link>
@@ -81,34 +109,6 @@
       <description><![CDATA[我最近开始了一个小型 SaaS 项目。和所有刚起步的人一样，你会去 product hunt 和类似的网站开展业务。但在我看来，这有一个问题。有时你的产品没有人看。你得不到预期的流量等等。另外，从我的角度来看，更多的人去 product hunt 是为了发布产品，而不是看产品。 所以我想出了一个让这个系统更好地运行的概念。想象一个平台，你一次只能看到一种产品。每 24 小时这个产品就会变化一次。每个人都可以提交他们的产品，每个人成为那个产品的几率都是一样的。但有一个问题。你只有在查看/评论过上一个产品后才能提交产品。您还可以添加不同的时间段： 观看 7 种产品 = 每周展示 1 种产品 30 种产品 = 1 个月 或者采用不同的方法： 每查看一种产品，您的产品被选中的机会就会增加  因此，每个人都希望为了自己的利益而评论和观看他人的产品。 在构建它之前，我想分享这个想法。 也许存在这样的事情，或者这个概念存在重大缺陷。 那么你的想法是什么？    提交人    /u/neminemtwitch   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1d90wd9/please_roast_my_developer_social_network_idea/</guid>
       <pubDate>Wed, 05 Jun 2024 21:06:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>我使用开源软件构建了一个在线 PDF 管理平台</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d90kri/i_built_an_online_pdf_management_platform_using/</link>
-      <description><![CDATA[当一个朋友不断向我发送 PDF 文件进行翻译时，我意识到对 PDF 解决方案的广泛需求，于是决定创建 pdfequips.com。现在，它成为了一个免费且易于使用的 PDF 工具集合，用于合并、拆分、压缩、转换、旋转、OCR 和向 PDF 文件添加水印。在过去的一年里，我广泛开发了该网站，利用了前端和后端的各种开源工具。    提交人    /u/No_Spare_5337   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d90kri/i_built_an_online_pdf_management_platform_using/</guid>
-      <pubDate>Wed, 05 Jun 2024 20:53:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于浏览网页和使用语音听写的 Chrome 扩展程序</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d90d9e/chrome_extension_for_browsing_the_web_and/</link>
-      <description><![CDATA[我很高兴地宣布推出 Web Assist，这是一款适用于 Chrome 和 Edge 的尖端浏览器扩展程序，它彻底改变了您与网络互动的方式。无论您是在浏览网站、口述电子邮件还是执行日常在线任务，Web Assist 都可以让您通过语音免​​提完成所有操作。 🌟 主要功能： 🔹 轻松浏览：*使用直观的语音命令滚动浏览页面、播放视频、点击链接等。喜欢快捷方式？我们为你提供了常用命令的便捷快捷键。 🔹 探索网页：*无缝使用 Google 搜索、管理标签和收藏你喜爱的网站，所有这一切都无需动一根手指。 🔹 语音控制听写：*听写电子邮件、填写表格并享受自动文本格式化。需要更多功能吗？我们的集成应用可让你在文本编辑器中听写并直接从麦克风录制音频。 🔹 高级功能：*使用 Web Assist Premium 解锁高级功能，如页面加载识别、语音命令启动和可自定义的超时设置。 🔹 隐私至关重要：*你的隐私是我们的首要任务。 Web Assist 可确保不会将音频、文字记录或数据发送到我们的服务器，从而保证您的信息安全。 🌟好处： 🔹*提高生产力：*通过使用语音导航和口述来节省时间并提高效率，从而腾出双手执行其他任务。 🔹免费使用基本功能：*免费下载 Web Assist，开始免费享受一套强大的语音工具。 🔹*增强的可访问性：*Web Assist 旨在为身体有障碍的个人提供支持，它使每个人都能简单、快速地浏览网页。 准备好体验网页浏览的未来了吗？免费下载 Web Assist，了解语音控制如何增强您的在线体验。无论您是想节省时间、提高可访问性还是尝试新事物，Web Assist 都能让您的网络浏览更加顺畅和愉快。 Edge  https://microsoftedge.microsoft.com/addons/detail/cmkojcnichgfcdhlfalahahfaehnokobhrome Chrome Web Assist (google.com) 网站 Web Assist - 仅使用语音即可浏览网页 (webassistextension.com)    由   提交  /u/No-Impression9377   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d90d9e/chrome_extension_for_browsing_the_web_and/</guid>
-      <pubDate>Wed, 05 Jun 2024 20:44:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找营销人员/销售人员来合作项目</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d9035q/looking_for_a_marketer_sales_person_to/</link>
-      <description><![CDATA[您好， 我正在开展一个基于服务的项目（开发机构），正在寻找营销人员/销售人员进行合作。该机构位于美国 将在 DM 中分享链接     提交人    /u/Alarming_Management3   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d9035q/looking_for_a_marketer_sales_person_to/</guid>
-      <pubDate>Wed, 05 Jun 2024 20:32:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的第一个侧边栏扩展 - Alva AI 你的 AI 副驾驶</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d8zbe4/my_first_sidebar_extension_alva_ai_your_ai_copilot/</link>
-      <description><![CDATA[      大家好！ 我介绍的 Alva AI 是您值得信赖的副驾驶系统，擅长协助您完成各种日常任务，例如组织您的日程安排和监督您的目标。 将其添加到您的浏览器是免费的 - https://chromewebstore.google.com/detail/alva-ai-your-gpt-ai-copil/ineaaocgdoopigebjdpdbjhiememmnjb https://preview.redd.it/bw2gglzx6t4d1.png?width=1280&amp;format=png&amp;auto=webp&amp;s=2ef8aa17dce3fcdba4d6fe9b33d901760dfbac91 https://preview.redd.it/74kxipay6t4d1.png?width=1280&amp;format=png&amp;auto=webp&amp;s=72c0233d71a6301aa07f68b80315927f43c74c6b https://preview.redd.it/hv62fury6t4d1.png?width=1280&amp;format=png&amp;auto=webp&amp;s=23bf68ada6494814f1304759c135ae4bc53051ba https://preview.redd.it/fcb3fm5z6t4d1.png?width=1280&amp;format=png&amp;auto=webp&amp;s=c78c99fb2a4d4062fff0f037989047245717dfb0 https://preview.redd.it/s809xykz6t4d1.png?width=1280&amp;format=png&amp;auto=webp&amp;s=4a75817d807157f4ab0d48c14b96cba3fc8c1f1a 免费下载 https://chromewebstore.google.com/detail/alva-ai-your-gpt-ai-copil/ineaaocgdoopigebjdpdbjhiememmnjb 另请查看 https://www.alva.solutions/ 上的更多扩展程序    提交人    /u/alvasolutions   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d8zbe4/my_first_sidebar_extension_alva_ai_your_ai_copilot/</guid>
-      <pubDate>Wed, 05 Jun 2024 20:00:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
