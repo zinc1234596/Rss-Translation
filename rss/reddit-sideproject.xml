@@ -4,11 +4,95 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Thu, 06 Jun 2024 06:18:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jun 2024 09:14:54 GMT</lastBuildDate>
+    <item>
+      <title>构建 Shopify 应用程序样板以便快速发布。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d9dwdq/building_a_shopify_app_boilerplate_to_ship_fast/</link>
+      <description><![CDATA[在过去的几年中，我已转向 Shopify 开发，并发现它非常有益。我使用 Laravel、NestJs、Go 和各种其他技术构建了 Shopify 应用程序。然而，一个反复出现的挑战是需要快速发货。为了解决这个问题，我开始了一个个人项目来创建 Shopifast，这是一个旨在加快发货过程的工具。 在开发 Shopifast 的过程中，我重组了我的大部分技术堆栈，以更好地与 Shopify 的生态系统保持一致，并为我的应用程序获得至关重要的 Shopify 徽章，最值得注意的是“为 Shopify 构建”徽章。这个徽章特别难以获得，因为我的应用程序最初是作为非嵌入式解决方案开发的。将使用多样化技术堆栈构建的大型应用程序转换为符合 Shopify Polaris 指南是一个复杂且耗时的过程。 克服这些挑战的关键是从 Shopify 的最佳实践开始，确保开发过程顺利而高效。今天，我很高兴与您分享 Shopifast。此样板简单、可扩展、用户友好，并配备了您开始 Shopify 应用开发之旅所需的一切。  非常感谢  的启发！    提交人    /u/Adibe-Mohamed   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d9dwdq/building_a_shopify_app_boilerplate_to_ship_fast/</guid>
+      <pubDate>Thu, 06 Jun 2024 09:13:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>为所有人开源流行组件</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d9dmnz/opensource_trending_components_for_everyone/</link>
+      <description><![CDATA[大家好，我建立了一个项目，展示当前流行的组件/模板及其代码。它是免费使用的，每个人都可以在那里展示他们的组件。 这是项目，快去看看吧！ https://locus-project.vercel.app/    提交人    /u/MotorEnvironmental83   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d9dmnz/opensource_trending_components_for_everyone/</guid>
+      <pubDate>Thu, 06 Jun 2024 08:53:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了一个可以跟踪关键词并自动回复相关 Reddit 帖子的网站</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d9ddip/i_made_a_site_that_tracks_keywords_and_responds/</link>
+      <description><![CDATA[        由    /u/Tanzirulhuda 提交   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d9ddip/i_made_a_site_that_tracks_keywords_and_responds/</guid>
+      <pubDate>Thu, 06 Jun 2024 08:33:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>目录模板：如何选择最佳模板</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d9dd7o/directory_templates_how_to_pick_the_best_one/</link>
+      <description><![CDATA[创建目录网站可能是一项耗时的任务，但使用正确的目录模板可以大大简化该过程。本指南将通过讨论要考虑的关键因素和使用可自定义模板的好处，帮助您深入了解 Larafast 目录样板。 目录模板为何重要 模板在目录网站中的作用 目录模板旨在为未来的网站提供目录结构，并具有目录网站所需的功能，即类别、产品列表、管理面板来管理所有内容。一些目录需要用户订阅或一次性付款才能列出他们的产品，因此拥有预先构建的支付系统也是一个关键案例。 使用模板的好处 时间效率：模板通过提供预先设计的布局和功能来节省时间，让您专注于内容和自定义，而不是从头开始。 成本效益：使用模板比聘请设计师从头开始创建自定义网站更具成本效益。一致性：模板可确保整个网站的外观和感觉一致，这对于保持专业外观至关重要。功能性：许多模板都带有针对目录网站量身定制的内置功能，例如搜索功能、列表管理和用户评论系统。可定制性：高质量的模板提供自定义选项，可让您根据特定需求定制网站，而无需广泛的编码知识。 选择模板时要考虑的因素 自定义选项 选择目录模板时，考虑其提供的自定义级别至关重要。好的模板应该允许您调整颜色、字体、布局和其他设计元素以匹配您的品牌标识。寻找具有跨设计部分灵活定制以及编码灵活性的模板。 易于使用 模板的易用性会显著影响您的开发过程。选择一个用户友好且带有全面文档和支持的模板。一个有据可查的模板将节省您的时间和挫折感，使您更容易根据需要实施和修改。 SEO 优化 SEO 优化对于任何目录网站都至关重要，以确保您的列表出现在搜索引擎结果中。选择一个以 SEO 最佳实践为理念构建的模板，例如快速加载时间、移动响应能力和干净的代码。包含 SEO 工具或插件的模板可以进一步提高您网站的可见性。 为什么选择 Larafast 目录？ Larafast 目录：功能和优势 Larafast 目录是一个功能强大且灵活的目录模板，旨在帮助您轻松创建专业的目录网站。它提供了一系列专门为目录站点量身定制的功能，使其成为开发人员和企业的理想选择。 功能：  产品列表管理 预定义的热门类别 跨类别和产品搜索 类别和产品的 SEO 优化 自动生成站点地图以快速在 Google 上索引页面 管理面板用于管理类别、产品、用户等。 用户身份验证和仪表板 支付系统用于管理付费列表 博客 适合各种口味的 30 多个主题 文档和支持  好处：  通过干净、直观的界面增强用户体验 使用预构建的组件和布局节省时间 通过优化的代码和结构  通过选择满足您特定需求和目标的模板，您可以简化开发过程并创建不仅外观精美而且性能良好的网站。做出明智的选择，并使用正确的模板为成功的目录项目奠定基础。 获取 Larafast 目录 目录模板    提交人    /u/karakhanyans   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d9dd7o/directory_templates_how_to_pick_the_best_one/</guid>
+      <pubDate>Thu, 06 Jun 2024 08:32:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>五大商业创意 - 2024 年 6 月 2 日</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d9d4fi/five_business_ideas_june_2_2024/</link>
+      <description><![CDATA[        提交人    /u/gpirescampos   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d9d4fi/five_business_ideas_june_2_2024/</guid>
+      <pubDate>Thu, 06 Jun 2024 08:14:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>我建立了一个免费的副项目 Idea Generator，它还不错:)</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d9cs4p/i_built_a_free_side_project_idea_generator_and_it/</link>
+      <description><![CDATA[  由    /u/wisechacha  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d9cs4p/i_built_a_free_side_project_idea_generator_and_it/</guid>
+      <pubDate>Thu, 06 Jun 2024 07:48:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>我建立了一个非常简单的列表网站</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d9cnhi/i_built_a_very_simple_listings_website/</link>
+      <description><![CDATA[我建立了一个非常简单的网站，您可以在其中发布要出售的物品：https://lieks.lv 用户界面是拉脱维亚语，但浏览器翻译应该可以解决问题。您可以自由地使用用户 demo 和密码 demodemo 登录以查看物品管理的工作原理，您还可以在 https://lieks.lv/armands 下查看我的个人资料 该网站使用 https://remaketheweb.com/ 框架并托管在最便宜的 Digital Ocean 服务器上。    提交人    /u/armands   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d9cnhi/i_built_a_very_simple_listings_website/</guid>
+      <pubDate>Thu, 06 Jun 2024 07:39:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>2 年来致力于开发一款颠覆传统待办事项应用行业的应用</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d9cjmd/2_years_working_on_a_app_to_distrube_the_classic/</link>
+      <description><![CDATA[      现在是产品搜索发布日！  BeeDone Product Hunt 我需要你们支持与 VC 支持的初创公司竞争，也许我不应该在周二推出😭🤙  试一试，你可能会喜欢这个应用程序！     提交人    /u/yelkamel   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d9cjmd/2_years_working_on_a_app_to_distrube_the_classic/</guid>
+      <pubDate>Thu, 06 Jun 2024 07:30:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>我会购买 developernudes.com 来分享软件开发人员身着泳衣的照片，你愿意贡献吗？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d9ccag/ill_buy_developernudescom_to_share_pics_of/</link>
+      <description><![CDATA[  由    /u/joanmiro  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d9ccag/ill_buy_developernudescom_to_share_pics_of/</guid>
+      <pubDate>Thu, 06 Jun 2024 07:15:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>我开发了一个工具来下载 YouTube 转录内容，以便与 ChatGPT 聊天</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d9cc8h/i_developed_a_tool_to_download_youtube/</link>
+      <description><![CDATA[我是 YouTube 新闻迷。YouTube 是我遇到的几乎所有问题的首选之地。厨房水槽堵塞了？看看 YouTube。研究新技术？去 YouTube。需要了解选举最新消息吗？YouTube！ 在使用了这么多 YouTube 之后，再加上我对 ChatGPT 的热爱，我想通过 YouTube 视频“聊天”。YouTube 并不容易提取成绩单，而且 ChatGPT 对 YouTube 的支持也参差不齐。 🚀 我很高兴能分享一款工具，它可以简化从 YouTube 下载成绩单的过程，并使用 ChatGPT 与视频聊天——无需 Chrome 浏览器插件或 ChatGPT 插件！ 它的工作原理如下： 1️⃣ 找到您想要聊天的 YouTube 视频。复制 YouTube 网址。 2️⃣ 转到 https://videotobe.com/tools/youtube-transcript-downloader，粘贴 YouTube 网址，然后按“获取成绩单”。该工具将获取 YouTube 转录。使用复制按钮将转录复制到剪贴板。 3️⃣ 打开 ChatGPT 会话，粘贴转录，然后开始提问！总结视频内容，将其转换为博客文章，或者只是聊天。额外功能：当您使用 YouTube 转录工具时，使用该工具上的 Ctrl-F（或 Mac 上的 Command-F）在成绩单中找到任何关键术语并跳转到视频中的该位置。例如，搜索“hypotenuse”将带您到包含“hypotenuse”的行。单击该线即可在该精确位置播放视频。 查看演示 - https://youtu.be/T4l4YtH-qBo 很酷吧？尝试一下，让我知道你的想法！🌟    提交人    /u/meera_datey   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d9cc8h/i_developed_a_tool_to_download_youtube/</guid>
+      <pubDate>Thu, 06 Jun 2024 07:15:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>我将为您所有的副业项目提供免费的网站评价。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d9bz1t/im_offering_free_website_roast_for_all_your_side/</link>
+      <description><![CDATA[大家好，我最近重新命名了我的 sideproject，为了庆祝，我提供免费的网站吐槽。 您可以在此处提交您的链接：https://roastmywebsite.org（参见顶部横幅）。 我会尝试在 24 小时内提供结果。谢谢！:)    提交人    /u/RoastMyWebsite   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d9bz1t/im_offering_free_website_roast_for_all_your_side/</guid>
+      <pubDate>Thu, 06 Jun 2024 06:49:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>烤我的登陆页面🔥🔥</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1d9bw1e/roast_my_landing_page/</link>
+      <description><![CDATA[      我为我的Saas  https://supalogs.com    提交人    /u/Mans__js   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1d9bw1e/roast_my_landing_page/</guid>
+      <pubDate>Thu, 06 Jun 2024 06:43:20 GMT</pubDate>
+    </item>
     <item>
       <title>我们已经推出了 Astro 的组件库 fulldev-ui！</title>
       <link>https://www.reddit.com/r/SideProject/comments/1d9b9fu/weve_launched_fulldevui_a_component_library_for/</link>
-      <description><![CDATA[用于内容驱动网站的 Astro UI 库 快速构建内容驱动的网站，具有现代设计、静态/服务器渲染和 CSS 级联样式的强大功能。 我们最近推出了，请在 https://ui.full.dev/overview/introduction/ 找到我们&gt; 我们邀请您在 discord 上讨论产品。    提交人    /u/FriendAlert2486   [链接] [评论]]]></description>
+      <description><![CDATA[用于内容驱动网站的 Astro UI 库 快速构建内容驱动的网站，具有现代设计、静态/服务器渲染和 CSS 级联样式的强大功能。 我们最近推出了，请在 https://ui.full.dev/overview/introduction/ 我们邀请您在 discord 上讨论产品。    提交人    /u/FriendAlert2486   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1d9b9fu/weve_launched_fulldevui_a_component_library_for/</guid>
       <pubDate>Thu, 06 Jun 2024 06:01:24 GMT</pubDate>
     </item>
@@ -25,90 +109,6 @@
       <description><![CDATA[https://reddit.com/link/1d9agi4/video/l8le2irywv4d1/player 这是使用用于个性化冷电子邮件的AI工具创建的。 您认为它写的电子邮件有多好？    由   提交  /u/cupojoe4me   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1d9agi4/is_this_a_well_personalized_email/</guid>
       <pubDate>Thu, 06 Jun 2024 05:09:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>我开发了一款习惯追踪应用</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d99chl/i_build_a_habits_tracker_app/</link>
-      <description><![CDATA[      大家好！我是一名独立开发者。 我构建了一款名为 Atomic - Habit Tracker 的应用程序。如果您想养成良好的习惯，打破不良习惯并保持日常生活规律，Atomic 是您的完美伴侣。 Atomic 具有直观的界面和强大的功能，可帮助您成为最好的自己。 Atomic - 习惯追踪器 为什么选择 Atomic？  养成良好习惯：使用名称、描述、图标和颜色等个性化详细信息快速添加您想要培养的习惯。 打破坏习惯：通过跟踪进度并可视化您实现积极改变的旅程，识别并克服那些阻碍您前进的习惯。 日常例行检查表：通过全面的日常例行检查表保持井然有序和负责，轻松管理您的任务。 小部件：多个可视化小部件选项，始终位于主屏幕顶部。 GitHub Board 启发：受到 GitHub 板的简单性和有效性的启发，Atomic 的仪表板提供了您习惯的清晰概览，让您在观察连续性增长时保持动力。 日历视图：通过直观的日历视图轻松管理您过去的完成情况，让您完全控制您的习惯跟踪体验。 励志名言：无论您是经历困难时期，还是需要额外的推动力来完成工作，激励视图总会帮助您。 游戏化：每次完成习惯时，您都有机会获得一块拼图。收集所有碎片来解开谜题。 iCloud 共享：您的习惯跟踪数据会立即通过 iCloud 在您的 Apple 设备之间共享。 注重隐私：您的数据完全私密，并安全地存储在您的设备上。无需登录、服务器或云存储，确保您的隐私得到优先保护。  在此处下载 Atomic： https://apps.apple.com/app/id6478046939 我很乐意听到您的反馈。 有关更多信息，请访问 https://indiegoodies.com/atomic    提交人    /u/khuong291   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d99chl/i_build_a_habits_tracker_app/</guid>
-      <pubDate>Thu, 06 Jun 2024 04:01:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>我开发了一个工具让你不再接听电话</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d989x2/i_built_a_tool_to_never_answer_a_phone_call_again/</link>
-      <description><![CDATA[        由    /u/bartasius  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d989x2/i_built_a_tool_to_never_answer_a_phone_call_again/</guid>
-      <pubDate>Thu, 06 Jun 2024 03:00:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>没什么特别的，只是构建了一个 VS Code 扩展来帮助共享代码更新。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d988d5/nothing_fancy_just_built_a_vs_code_extension_to/</link>
-      <description><![CDATA[        提交人    /u/Atthewall   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d988d5/nothing_fancy_just_built_a_vs_code_extension_to/</guid>
-      <pubDate>Thu, 06 Jun 2024 02:58:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>这就是我如何验证我的新创业公司并在 24 小时内完成第一笔销售</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d980tj/this_is_how_i_validated_my_new_startup_and_made/</link>
-      <description><![CDATA[2 天前，我推出了一家名为 Redditors 的服务型初创公司。我们的平台有助于在 Reddit 上推广初创公司、产品或网站，以吸引客户并在正式发布后收集反馈。我创建了一个简单的登陆页面，集成了 Tally Forms 和 Lemon Squeezy 进行支付，并在线推出了该平台。发布后，我在 Twitter 上发布了相关信息，并获得了一些参与。令人惊讶的是，参与帖子的其中一位用户最终下了订单。我很乐意听取您的反馈以及进一步扩展的任何技巧！查看：Redditors    提交人    /u/gary_king_001   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d980tj/this_is_how_i_validated_my_new_startup_and_made/</guid>
-      <pubDate>Thu, 06 Jun 2024 02:47:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>KeyPush：由 ChatGPT 提供支持的搜索引擎</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d97fws/keypush_chatgpt_powered_search_engine/</link>
-      <description><![CDATA[我建立了一个搜索引擎，使用 ChatGPT 来获取网络结果 + 提供 AI 驱动的摘要。它类似于 bing，但我们使用 ChatGPT 而不是 Copilot，因为它拥有所有 AI 中最高的 elo 评级。我们的网站是 keypush.ai，很快就会变成 keypush.com 尝试一下，让我知道你的想法！    提交人    /u/keypushai   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d97fws/keypush_chatgpt_powered_search_engine/</guid>
-      <pubDate>Thu, 06 Jun 2024 02:16:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>有谁有兴趣一起建立多代理 LLM 吗？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d971ql/anyone_interested_in_building_an_multiagentic_llm/</link>
-      <description><![CDATA[我已经开始了这个项目。由于我的资源不是很多，我使用的是微软的 Phi 3 模型的量化指令版本。（顺便说一下，它是开源的）这个想法是针对特定任务对其进行微调，在这种情况下，学习有关 AI 的一切。因此，一个学习 AI 以构建另一个强大的 AI 的 AI。我们都以我们认为最优化的方式为其做出贡献。     提交人    /u/akitsushima   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d971ql/anyone_interested_in_building_an_multiagentic_llm/</guid>
-      <pubDate>Thu, 06 Jun 2024 01:56:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在 Product Hunt 上获胜</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d9622h/how_to_win_on_product_hunt/</link>
-      <description><![CDATA[        提交人    /u/mkchoi212   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d9622h/how_to_win_on_product_hunt/</guid>
-      <pubDate>Thu, 06 Jun 2024 01:05:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>我建立并设计了一个美国经济表现的仪表板</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d95afu/i_built_and_designed_a_dashboard_for_us_economic/</link>
-      <description><![CDATA[        提交人    /u/blackboyx9x   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d95afu/i_built_and_designed_a_dashboard_for_us_economic/</guid>
-      <pubDate>Thu, 06 Jun 2024 00:26:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>公共场所建筑：哪种游戏类型是首选。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d92dkh/building_in_public_which_game_type_is_preferred/</link>
-      <description><![CDATA[你好 reddit 😁 我正在开发一款家庭游戏，大约 3 年前我的家人开始制作这款游戏​​。我想与任何我能联系到的人分享这款游戏。这款游戏非常适合家庭，适合 3 岁以上的儿童。 我的困惑是，我不确定我应该把它做成实体纸牌游戏、应用程序还是其他什么。我们通常在车里玩。 你和你的家人会喜欢什么样的游戏？ 提前感谢大家的意见！    提交人    /u/Own_Ladder9066   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d92dkh/building_in_public_which_game_type_is_preferred/</guid>
-      <pubDate>Wed, 05 Jun 2024 22:09:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>构建桌面应用程序来击败算法</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d91cel/building_a_desktop_app_to_beat_the_algorithm/</link>
-      <description><![CDATA[大家好！ 首先，此应用程序将仅供桌面使用，因为我没有手机成瘾，而是“消费愚蠢内容”成瘾。 像你们中的许多人一样，算法（尤其是 YouTube 上的算法）让我不知所措。我没有取得尽可能多的成就，因为我花了很多时间在网上浏览无意义的内容。我尝试过许多扩展程序和应用程序，但都没有用。因此，我决定构建自己的桌面应用程序（适用于 Mac，如果有足够的兴趣，也可能适用于 Windows）来帮助击败算法。 我们得到的大部分建议只是“断网兄弟，摸摸草地”，但我整天都在笔记本电脑上工作，因为我是一名软件工程师，这需要我连接到互联网。我的许多爱好，如音乐制作，也与我的笔记本电脑有关。我不能简单地断开连接，而且互联网整体上很棒——只是这些令人上瘾的网站会浪费我们太多宝贵的时间。 所以，我要构建一个桌面应用程序，它不仅允许我们屏蔽网站，还可以半屏蔽网站，并发送消息，例如“嘿，你今天已经在 YouTube 上花了 2 个小时。你确定你需要花更多时间吗？”和“你的目标之一是学钢琴。练习钢琴不是比上 Instagram 更好吗？” 这就是“nosurf”的目标——提醒我们为什么要屏蔽这些网站。“为什么”非常强大，而且我们经常会忘记。该应用程序还将显示您在网站上花费时间的实时仪表板，让您真正了解您花费最多时间的地方。 最后一个功能将是一个焦点模式选项，您可以在其中锁定预定义的时间。这还将增加分析功能，以便您实际了解每周在深度工作上花费了多少时间，而不会受到播客、YouTube 等的干扰。 如果您有兴趣获得早期访问权限，请访问 nosurf.io 加入候补名单。    提交人    /u/Past-Parsley5184   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d91cel/building_a_desktop_app_to_beat_the_algorithm/</guid>
-      <pubDate>Wed, 05 Jun 2024 21:25:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>我用 4 小时 15 分钟开发了一个非常愚蠢的 Web 应用程序</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d916i4/i_built_a_very_stupid_web_application_in_4_hours/</link>
-      <description><![CDATA[厌倦了理性投资？查看 Random Stonk，让机会掌控一切！ 我感到无聊，想知道我能多快编写和发布最简单的 Web 应用程序。结果，大约需要 4 小时 15 分钟。该应用程序非常简单：每天从列表中选择一个新的股票行情机，收集前一天开盘价和收盘价，并将数据显示给用户。我写它不是为了炫耀，而是为了练习构建和启动 Web 应用程序。页面上有一个小费按钮，因为我确实在域名上花了 20 美元，但是即使我一分钱都没赚到，我仍然会学到很多关于启动网络应用程序的知识。 我甚至会在明天在 ProductHunt 上直播，因为为什么不呢。 祝你副业好运！    提交人    /u/Viking_Sec   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d916i4/i_built_a_very_stupid_web_application_in_4_hours/</guid>
-      <pubDate>Wed, 05 Jun 2024 21:18:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>请批评一下我的开发者社交网络想法</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1d90wd9/please_roast_my_developer_social_network_idea/</link>
-      <description><![CDATA[我最近开始了一个小型 SaaS 项目。和所有刚起步的人一样，你会去 product hunt 和类似的网站开展业务。但在我看来，这有一个问题。有时你的产品没有人看。你得不到预期的流量等等。另外，从我的角度来看，更多的人去 product hunt 是为了发布产品，而不是看产品。 所以我想出了一个让这个系统更好地运行的概念。想象一个平台，你一次只能看到一种产品。每 24 小时这个产品就会变化一次。每个人都可以提交他们的产品，每个人成为那个产品的几率都是一样的。但有一个问题。你只有在查看/评论过上一个产品后才能提交产品。您还可以添加不同的时间段： 观看 7 种产品 = 每周展示 1 种产品 30 种产品 = 1 个月 或者采用不同的方法： 每查看一种产品，您的产品被选中的机会就会增加  因此，每个人都希望为了自己的利益而评论和观看他人的产品。 在构建它之前，我想分享这个想法。 也许存在这样的事情，或者这个概念存在重大缺陷。 那么你的想法是什么？    提交人    /u/neminemtwitch   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1d90wd9/please_roast_my_developer_social_network_idea/</guid>
-      <pubDate>Wed, 05 Jun 2024 21:06:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
