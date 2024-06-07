@@ -4,11 +4,74 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Fri, 07 Jun 2024 18:18:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Jun 2024 21:14:34 GMT</lastBuildDate>
+    <item>
+      <title>跨平台剪贴板管理器。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dalc88/cross_platform_clipboard_manager/</link>
+      <description><![CDATA[      https://preview.redd.it/zhz79i5to75d1.png?width=1300&amp;format=png&amp;auto=webp&amp;s=4d9b1638dfc7101cecc73f1041bc9e49adc6fd86 大家好， 我学习 Web 开发已经 6 个多月了，最近完成了一个学习 React Native 的项目。我最终创建了一个桌面应用程序、一个移动应用程序和一个 Web 应用程序，用于跨平台共享链接、URL 和文本。如果你仔细想想，它就像一个剪贴板管理器，功能几乎就像一个聊天应用程序。 这个想法很简单：有时你想将链接从手机分享到 PC 或反之亦然，你必须克服（小）麻烦才能做到这一点。你可能会使用电子邮件或聊天应用程序，如 Instagram 或 Messenger。所以，我为此专门制作了一个应用程序，它可以保存你的链接以供日后使用。它目前在本地网络上运行，但我将来可能会添加云支持。 这不是一个突破性的产品，但在这个项目上工作了 3 个月让我学到了很多东西。您可以在此处下载并在桌面版 (Windows、Linux) 和移动设备 (Android) 上试用该应用程序。 我很乐意听到您的想法和反馈！ 谢谢！    提交人    /u/milo-191   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dalc88/cross_platform_clipboard_manager/</guid>
+      <pubDate>Fri, 07 Jun 2024 20:45:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>制作阵容网站</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dal7kq/made_a_lineup_website/</link>
+      <description><![CDATA[LineupX：用于 FPS 游戏阵容的开源社交媒体类网站 嗨，我想分享我的社区驱动的阵容开源项目。它使用 MERN 堆栈，我们目前支持 Valorant 和 CS2 等游戏。我们的噱头是，您无需观看长达 30 秒的视频来学习阵容，而是可以通过 3 张图片（站立位置、瞄准位置、着陆位置）来学习阵容。 网站：https://www.lineupx.net/ Github：https://github.com/shimupan/lineupx    提交人    /u/Kagiri13   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dal7kq/made_a_lineup_website/</guid>
+      <pubDate>Fri, 07 Jun 2024 20:40:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>分析历史就业数据的想法</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dakztx/idea_to_analyze_historical_jobs_data/</link>
+      <description><![CDATA[我想要使用前 12-24 个月的“招聘信息”数据（或收集这些数据）并进行时间序列分析。 我的目标是进行独立分析，以了解就业市场的动态。首先在一个小众技术领域，然后是所有类型的编码 / 编程 / 技术 / 工程工作。 因此，让我们挑选一个，比如说“COBOL 程序员”： 我想知道：  有多少个单独的列表（每个公司、招聘人员）； 唯一列表（匹配文本描述以删除招聘人员）； 它们列出多长时间； 它们是否会被添加和删除，或者是否会重新发布  有人可以推荐任何：  职位列表的元搜索引擎（聚合器） 抓取即服务 数据代理  理想情况下，如果历史数据集包含我想要的详细程度，我希望使用它。 （公司名称、职位、当前日期，最好还有完整的职位描述。） 或者与有可行的解决方案来收集数据的人合作。 到目前为止我发现了什么： 聚合器： TechJob 应用程序 DevJobsScanner (u/__dacia__) 我可以借鉴你的工作吗？ 抓取工具即服务： 许多都在 Google Ads 上做广告，但我还没有调查。你用过吗？ 数据经纪人： 肯定存在，但可能非常昂贵。我敢打赌对冲基金收集了所有这些数据。 有些在 Google Ads 上做广告。 你购买的数据可能比较旧，所以不是我需要的每周数据。   由    /u/ArtistSudden6000  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dakztx/idea_to_analyze_historical_jobs_data/</guid>
+      <pubDate>Fri, 07 Jun 2024 20:31:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>完成了我的副业项目 Zojir：找点事情做</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1daks30/completed_my_side_project_called_zojir_find/</link>
+      <description><![CDATA[大家好， 我一直在做这个副业。我创建了这个社交网站 https://www.zojir.com/，人们可以在这里分享和找到要做的事情。现在它已经很完整了。 网站上已经有一些内容，但仅限于澳大利亚。如果你搜索在悉尼或墨尔本要做的事情，那么你会发现很多建议。当然，随着用户开始进入并开始使用它并开始创建内容，那么会有更多的事情要做，但我不知道如何推广它，因为我没有足够的资金，也没有任何营销背景。我尝试联系一些有影响力的人，并向他们提供股权，以换取在 TikTok 上推广我的网站，但没有人同意。  我想就网站的用户界面获得反馈，以及它是否易于浏览和理解，以及任何可以改进的建议。 如何推广它？我不是营销专家，完全是出于好玩而构建的，我认为它很有潜力。你们觉得呢？ 有没有办法将网站游戏化，以便创建内容的人可以从中赚钱，因为也许那时人们会想使用它并创建内容？     提交人    /u/orispot   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1daks30/completed_my_side_project_called_zojir_find/</guid>
+      <pubDate>Fri, 07 Jun 2024 20:22:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>您如何让用户推荐您？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dajouy/how_do_you_ask_your_users_to_refer_you/</link>
+      <description><![CDATA[我们通过大量的营销活动不断成长，但我认为现在是时候使用口碑营销了。 YCombinator 声称，当有口碑营销和人们谈论您的产品时，您的成长会很快。 您如何让用户谈论您的产品？您如何激励他们向他人介绍您的产品？我觉得联盟营销对我们来说不起作用。（我们是 B2C） - 您认为我们应该如何为我们的产品做这件事？    提交人    /u/hey_corina   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dajouy/how_do_you_ask_your_users_to_refer_you/</guid>
+      <pubDate>Fri, 07 Jun 2024 19:37:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>我需要你的意见</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dajhnl/i_need_your_opinion/</link>
+      <description><![CDATA[      大家好， 我叫 Rudy，我想听听你对我的一个业余项目的看法。这个业余项目是一个简单的电子邮件验证 API，我想将其作为 SaaS 来提供。它仍处于开发阶段。当我看到竞争对手提出的荒谬层级时，我想到了这个想法。有些提供大约 5000 个积分，每月收费超过 100 美元，这太多了。但是，我不太了解电子邮件验证 API 的定价模型。所以我可能错了。  我希望您提供关于我是否应该继续开发它的诚实意见。换句话说，是否值得在这个项目上花费时间和金钱？  注意：下图是网页应用的主页，部分文字仅为占位符。 https://preview.redd.it/e5oswm8u975d1.png?width=1920&amp;format=png&amp;auto=webp&amp;s=a6cc1f1927fb22729e78d39d9870cc194abf6e06    提交人    /u/rudygnve   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dajhnl/i_need_your_opinion/</guid>
+      <pubDate>Fri, 07 Jun 2024 19:28:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>迈瓦基特清真寺的祈祷时间</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1daivvi/prayer_times_for_mawaqits_mosque/</link>
+      <description><![CDATA[      大家好， 我开发了一个小脚本，使用它可以显示您选择的清真寺的下一次祈祷时间Mawaqit。请注意，清真寺必须使用 Mawaqit 应用程序来管理其祈祷时间。 我目前正在进行： - macOS 移植， - windows 移植， - 让用户选择显示： • 下一次祈祷， • 当天的所有祈祷， • 仅祈祷的时间 • …    提交人    /u/matteoarnone_   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1daivvi/prayer_times_for_mawaqits_mosque/</guid>
+      <pubDate>Fri, 07 Jun 2024 19:04:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>我正在开发一个成人内容搜索和发现平台。这是一个包含前 100 个 nsfw 子版块的演示。文本搜索，上传以进行反向图片搜索，点击图片以查看更多类似图片，点按以避开类似内容。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1daiqxz/im_working_on_an_adult_content_search_discovery/</link>
+      <description><![CDATA[  由    /u/Pornly_io  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1daiqxz/im_working_on_an_adult_content_search_discovery/</guid>
+      <pubDate>Fri, 07 Jun 2024 18:58:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>首个自主 iOS 应用程序开发商 | CodelyX 加入等候名单并有机会在应用程序上线之前对其进行测试。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1daid2x/first_autonomous_ios_app_developer_codelyx_join/</link>
+      <description><![CDATA[        由    /u/aronb99   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1daid2x/first_autonomous_ios_app_developer_codelyx_join/</guid>
+      <pubDate>Fri, 07 Jun 2024 18:42:59 GMT</pubDate>
+    </item>
     <item>
       <title>Polymetric：解答您的市场研究问题的 AI 分析师</title>
       <link>https://www.reddit.com/r/SideProject/comments/1daho9p/polymetric_an_ai_analyst_for_your_market_research/</link>
-      <description><![CDATA[您是否正在探索新问题或产品领域？使用 Polymetric 与市场研究、调查和新闻聊天。 Polymetric 使用从数千个公共来源提取的数据构建简报来回答市场研究问题。在底层，它是一个 RAG 实现，调用 Gemini-1.5 Flash 和 GPT-4o。 请将此视为早期原型 - 非常欢迎反馈。感谢您的关注！    提交人    /u/Ok_Structure_2396   [链接] [评论]]]></description>
+      <description><![CDATA[您正在探索新问题或产品领域吗？使用 Polymetric 与市场研究、调查和新闻聊天。 Polymetric 使用从数千个公共来源提取的数据构建简报来回答市场研究问题。在底层，它是一个 RAG 实现，调用 Gemini-1.5 Flash 和 GPT-4o。 请将此视为早期原型 - 非常欢迎反馈。感谢您的关注！    提交人    /u/Ok_Structure_2396   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1daho9p/polymetric_an_ai_analyst_for_your_market_research/</guid>
       <pubDate>Fri, 07 Jun 2024 18:15:38 GMT</pubDate>
     </item>
@@ -46,69 +109,6 @@
       <description><![CDATA[         提交人    /u/HeyThanksIdiot   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1dagnrl/how_yall_getting_your_domains_pretty_sure_my/</guid>
       <pubDate>Fri, 07 Jun 2024 17:36:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>盆景的替代品</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dag2qd/a_bonsai_alternative/</link>
-      <description><![CDATA[我为小型服务型企业制作了一款更简单、更实惠的业务管理软件，这样我就可以降低软件成本。 它仍处于积极开发阶段，到目前为止，它具有：  调度链接  客户 CRM link-in-bio/潜在客户捕获生成器 表单生成器   自定义工作流程和集成即将推出。 我希望得到一些反馈。它有一个免费计划，你可以试试。    提交人    /u/1kgpotatoes   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dag2qd/a_bonsai_alternative/</guid>
-      <pubDate>Fri, 07 Jun 2024 17:12:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>收听播客的新方式</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1daf9nn/a_new_way_of_listening_to_podcasts/</link>
-      <description><![CDATA[Qupa 是一款由 AI 驱动的播客应用。您可以将其视为播客版的 Shazam。在收听时，当提到引起您兴趣的内容，您想要了解更多/查看/保存等时，您只需轻按一下即可获得所有信息和相关链接。如果您想查看，这里有一些演示视频。 https://subscribepage.io/fvN1Fi , https://x.com/QupaApp/status/1798407621461868888    提交人    /u/QupaApp   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1daf9nn/a_new_way_of_listening_to_podcasts/</guid>
-      <pubDate>Fri, 07 Jun 2024 16:39:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>烤制我的第一个网站，以便我可以学习。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dae9qi/roast_my_first_website_so_i_can_learn/</link>
-      <description><![CDATA[嘿，我刚刚启动了我的副项目。请批评它或​​给我一些意见，这样我才能得到一些适当的反馈并加以改进。我不会告诉你我们做了什么，我想看看你是否从我的网站获得并复制它。 我不能一直相信我妈妈，她一直说她喜欢它。我不认为她明白我们做的事情。 提前谢谢    提交人    /u/Sonexomo   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dae9qi/roast_my_first_website_so_i_can_learn/</guid>
-      <pubDate>Fri, 07 Jun 2024 15:57:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>启动 Reddit 帖子分析器</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dae4n6/launching_reddit_posts_analyser/</link>
-      <description><![CDATA[我创建了这个有趣的小工具作为一个附带项目。 我使用的技术堆栈： - Next JS 14 - 使用 Reddit API - 使用 Upstash（缓存响应） - 使用服务器操作（没有编写任何 API） - 对组件使用 Shadcn UI 使用它 输入您的 Reddit 用户名 → 获取您的帖子的性能图表。另外你得到   按赞同数快速排序 按 subreddit 总用户数排序 按评论最多的帖子排序   你可以查看一个示例，了解 Reddit 帖子分析器 的工作原理 希望你们喜欢它！    提交人    /u/deep_ak   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dae4n6/launching_reddit_posts_analyser/</guid>
-      <pubDate>Fri, 07 Jun 2024 15:51:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>36 个月内销售 Canva 模板赚了 43 万美元（案例研究）</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dadx9h/430k_in_36_months_selling_canva_templates_case/</link>
-      <description><![CDATA[大家好，我是 Salem，带来数字直销，这是一份简报，我会在其中回顾那些赚钱的数字产品副业！ 今天的特色是一家销售 canva 模板的 etsy 商店。这家商店成立不到 2 年，预计收入超过 43 万美元。 Canva 模板是 etsy 上的一个热门利基市场，一些商店通过销售 canva 模板赚了数百万美元。 一些统计数据 Etsy 商店名称：SoraCollective 利基市场：CanvaTemplates 设置日期：2022 年 6 月 23 日 销售额：17,542 AOV：25 美元 收入：438,550 美元 月收入：12,181 美元    提交人    /u/Ok_Cap9063   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dadx9h/430k_in_36_months_selling_canva_templates_case/</guid>
-      <pubDate>Fri, 07 Jun 2024 15:43:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>我将这样扰乱就业市场</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dadvxd/heres_how_ill_disturb_the_job_market/</link>
-      <description><![CDATA[我一直在开发 Resume.Ink，这是一个旨在让求职过程更顺畅的平台。受我自己求职挫折的启发，它可以帮助您自动为每份工作量身定制简历。您可以上传简历，它会根据职位发布的详细信息对其进行格式化和更新。 如果这听起来很有趣，请访问 resume.ink。我很乐意听取您的反馈！ 此外，这里是 ProductHunt 链接😉：https://www.producthunt.com/posts/resume-ink    提交人    /u/SamiH1   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dadvxd/heres_how_ill_disturb_the_job_market/</guid>
-      <pubDate>Fri, 07 Jun 2024 15:41:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个购买决策计算器，它可以决定你是否应该购买某样东西。你能演示一下并告诉我你的想法吗？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dad2b8/i_built_a_purchase_decision_calculator_that/</link>
-      <description><![CDATA[我制作了一个购买计算器（原型）。它的想法是，它可以公正地计算你是否应该购买某样东西（基于你想要和需要的程度、它的价格等）。它对冲动购物者或任何想控制支出的人都很有帮助。 当我发现自己购买了更多东西，后来却后悔不已时，我便有了这个想法。所以我想要一种更客观的方法来决定，这种方法会考虑多种因素，而不仅仅是新奇。 如果你能尝试一下并告诉我你的想法，我会非常高兴。在进一步开发它之前，我想了解它是否有市场，以及一些关于如何改进它的想法。 演示在这里，提前致谢：https://purchasecalculator.up.railway.app    提交人    /u/_steffanlynch   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dad2b8/i_built_a_purchase_decision_calculator_that/</guid>
-      <pubDate>Fri, 07 Jun 2024 15:07:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>您发现完成 UI 的最快、最简单的方法是什么？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dachm7/whats_the_fastest_and_easiest_way_you_have_found/</link>
-      <description><![CDATA[即 WYIWYG 构建器工具或 daisyui 组件库或某些 figma 到 AI 工具...任何东西    提交人    /u/techsin101   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dachm7/whats_the_fastest_and_easiest_way_you_have_found/</guid>
-      <pubDate>Fri, 07 Jun 2024 14:43:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>我想为建筑商建立一个营销 CRM</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dac0re/i_want_to_build_a_marketing_crm_for_builders/</link>
-      <description><![CDATA[嘿，这不是一篇“我开发了应用程序”的帖子，而是一篇“我想了解我应该开发什么”的帖子。 我一直在从事业余项目，在做了太多项目之后，我有点精疲力竭。我注意到销售和营销正在消耗我从开发中获得的精力。 所以，我正在考虑构建一个不错的营销 CRM，它可以帮助我，甚至让我对营销/销售感到兴奋。这次，我也想和这个 subreddit 中的人谈谈，看看我是否可以在开始之前了解要构建什么，避免再次耗尽我所有的精力 :P 如果存在这样的应用程序，你想要什么功能或愿望？我的一个想法是围绕产品演示发布的编辑工具。你用过什么工具吗？如果你愿意帮忙，我很乐意和你聊聊工具！ （并在我构建时提供免费试用）    提交人    /u/bizsta-9622   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dac0re/i_want_to_build_a_marketing_crm_for_builders/</guid>
-      <pubDate>Fri, 07 Jun 2024 14:24:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
