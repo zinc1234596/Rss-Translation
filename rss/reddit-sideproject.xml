@@ -4,7 +4,91 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Fri, 07 Jun 2024 15:13:42 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Jun 2024 18:18:06 GMT</lastBuildDate>
+    <item>
+      <title>Polymetric：解答您的市场研究问题的 AI 分析师</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1daho9p/polymetric_an_ai_analyst_for_your_market_research/</link>
+      <description><![CDATA[您是否正在探索新问题或产品领域？使用 Polymetric 与市场研究、调查和新闻聊天。 Polymetric 使用从数千个公共来源提取的数据构建简报来回答市场研究问题。在底层，它是一个 RAG 实现，调用 Gemini-1.5 Flash 和 GPT-4o。 请将此视为早期原型 - 非常欢迎反馈。感谢您的关注！    提交人    /u/Ok_Structure_2396   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1daho9p/polymetric_an_ai_analyst_for_your_market_research/</guid>
+      <pubDate>Fri, 07 Jun 2024 18:15:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们制作了 chatgpt 用于二手/转售购物 - 达到 1k MRR！🎉</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dahk82/we_made_chatgpt_for_shopping_for_secondhandresale/</link>
+      <description><![CDATA[      大家好！我和我的朋友对网上中高端时尚品牌的高价格感到沮丧，并且无法获得穿搭灵感 因此，在我们的气候技术课上，我们为我们的课程创建了一个名为 Encore 的 AI 时尚助手，它可以链接任何物品的最佳二手/更便宜的替代品，并提供风格/灵感/穿搭建议 如果您有兴趣尝试 - https://www.chat.shopencore.ai 输入您要查找的内容，与它聊天，它会搜索数百个转售/二手网站（如 Grailed、Thredup、Vinted、Depop 等） 我们的项目旨在减少时尚行业的碳足迹，这占全球二氧化碳排放量的 3-8%。谢谢！ https://preview.redd.it/rwx2j3wbx65d1.png?width=1828&amp;format=png&amp;auto=webp&amp;s=c571649f3207e9e36d20e7b83be258fe7d5275bd    提交人    /u/NoIndication7284   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dahk82/we_made_chatgpt_for_shopping_for_secondhandresale/</guid>
+      <pubDate>Fri, 07 Jun 2024 18:11:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用我的免费 Chrome 扩展程序诱使 GPT 4o 分析 50,000 多个单词</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dahje6/trick_gpt_4o_into_analyzing_50000_words_with_my/</link>
+      <description><![CDATA[假设：纯文本 (.txt) 文件是将大量文本数据提供给大型语言模型 (LLM) 的最有效方法。 解释：纯文本 (.txt) 文件重量轻、普遍可读，并且没有可能使文本处理复杂化的格式问题。GPT-4o 可以处理纯文本文件的批处理，允许其在单个批次中查询最多 50,000 个字符（约 10,000 个单词）。在处理较大的纯文本文件时，GPT-4o 会自动批量处理数据。 应用：我构建了一个免费的 Chrome 扩展程序，可以将任何网页，包括文章、论坛（如 Reddit）、博客、Wiki 等转换为纯文本 (.txt) 文件。我使用我的扩展程序下载了此 Wikipedia 页面作为纯文本文件，我将纯文本文件放入 ChatGPT 4o 中，它能够引用整个文件。  请亲自尝试我的扩展程序。任何反馈都将不胜感激！  https://chromewebstore.google.com/detail/webtxt-convert-webpages-t/omfmmfhmcicmgfihmjhoeehfahhjjhoc?hl=en&amp;authuser=0    提交人    /u/Fair_Perspective_761   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dahje6/trick_gpt_4o_into_analyzing_50000_words_with_my/</guid>
+      <pubDate>Fri, 07 Jun 2024 18:10:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>问我任何问题 - 我使用稳定扩散技术制作了一个 AI 头像应用程序</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dah2e4/ask_me_anything_i_made_this_a_ai_headshot_app/</link>
+      <description><![CDATA[      https://preview.redd.it/u7y25l3kt65d1.jpg?width=1920&amp;format=pjpg&amp;auto=webp&amp;s=e16f150db49be52c834f6236239fe63b129b577c 大家好，我使用稳定扩散制作了这款很棒的应用，使用人工智能生成逼真的头像。您可以问我有关该应用或我用于构建它的技术堆栈的任何问题。我很乐意聊聊这个。谢谢    由    /u/r_a_j_a_t   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dah2e4/ask_me_anything_i_made_this_a_ai_headshot_app/</guid>
+      <pubDate>Fri, 07 Jun 2024 17:52:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>交互式人工智能艺术简讯</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dah0yf/an_interactive_ai_art_newsletter/</link>
+      <description><![CDATA[        提交人    /u/kilroy123   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dah0yf/an_interactive_ai_art_newsletter/</guid>
+      <pubDate>Fri, 07 Jun 2024 17:50:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>你们是如何获得域名的？我确信我的流程存在缺陷。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dagnrl/how_yall_getting_your_domains_pretty_sure_my/</link>
+      <description><![CDATA[         提交人    /u/HeyThanksIdiot   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dagnrl/how_yall_getting_your_domains_pretty_sure_my/</guid>
+      <pubDate>Fri, 07 Jun 2024 17:36:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>盆景的替代品</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dag2qd/a_bonsai_alternative/</link>
+      <description><![CDATA[我为小型服务型企业制作了一款更简单、更实惠的业务管理软件，这样我就可以降低软件成本。 它仍处于积极开发阶段，到目前为止，它具有：  调度链接  客户 CRM link-in-bio/潜在客户捕获生成器 表单生成器   自定义工作流程和集成即将推出。 我希望得到一些反馈。它有一个免费计划，你可以试试。    提交人    /u/1kgpotatoes   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dag2qd/a_bonsai_alternative/</guid>
+      <pubDate>Fri, 07 Jun 2024 17:12:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>收听播客的新方式</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1daf9nn/a_new_way_of_listening_to_podcasts/</link>
+      <description><![CDATA[Qupa 是一款由 AI 驱动的播客应用。您可以将其视为播客版的 Shazam。在收听时，当提到引起您兴趣的内容，您想要了解更多/查看/保存等时，您只需轻按一下即可获得所有信息和相关链接。如果您想查看，这里有一些演示视频。 https://subscribepage.io/fvN1Fi , https://x.com/QupaApp/status/1798407621461868888    提交人    /u/QupaApp   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1daf9nn/a_new_way_of_listening_to_podcasts/</guid>
+      <pubDate>Fri, 07 Jun 2024 16:39:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>烤制我的第一个网站，以便我可以学习。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dae9qi/roast_my_first_website_so_i_can_learn/</link>
+      <description><![CDATA[嘿，我刚刚启动了我的副项目。请批评它或​​给我一些意见，这样我才能得到一些适当的反馈并加以改进。我不会告诉你我们做了什么，我想看看你是否从我的网站获得并复制它。 我不能一直相信我妈妈，她一直说她喜欢它。我不认为她明白我们做的事情。 提前谢谢    提交人    /u/Sonexomo   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dae9qi/roast_my_first_website_so_i_can_learn/</guid>
+      <pubDate>Fri, 07 Jun 2024 15:57:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>启动 Reddit 帖子分析器</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dae4n6/launching_reddit_posts_analyser/</link>
+      <description><![CDATA[我创建了这个有趣的小工具作为一个附带项目。 我使用的技术堆栈： - Next JS 14 - 使用 Reddit API - 使用 Upstash（缓存响应） - 使用服务器操作（没有编写任何 API） - 对组件使用 Shadcn UI 使用它 输入您的 Reddit 用户名 → 获取您的帖子的性能图表。另外你得到   按赞同数快速排序 按 subreddit 总用户数排序 按评论最多的帖子排序   你可以查看一个示例，了解 Reddit 帖子分析器 的工作原理 希望你们喜欢它！    提交人    /u/deep_ak   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dae4n6/launching_reddit_posts_analyser/</guid>
+      <pubDate>Fri, 07 Jun 2024 15:51:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>36 个月内销售 Canva 模板赚了 43 万美元（案例研究）</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dadx9h/430k_in_36_months_selling_canva_templates_case/</link>
+      <description><![CDATA[大家好，我是 Salem，带来数字直销，这是一份简报，我会在其中回顾那些赚钱的数字产品副业！ 今天的特色是一家销售 canva 模板的 etsy 商店。这家商店成立不到 2 年，预计收入超过 43 万美元。 Canva 模板是 etsy 上的一个热门利基市场，一些商店通过销售 canva 模板赚了数百万美元。 一些统计数据 Etsy 商店名称：SoraCollective 利基市场：CanvaTemplates 设置日期：2022 年 6 月 23 日 销售额：17,542 AOV：25 美元 收入：438,550 美元 月收入：12,181 美元    提交人    /u/Ok_Cap9063   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dadx9h/430k_in_36_months_selling_canva_templates_case/</guid>
+      <pubDate>Fri, 07 Jun 2024 15:43:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>我将这样扰乱就业市场</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dadvxd/heres_how_ill_disturb_the_job_market/</link>
+      <description><![CDATA[我一直在开发 Resume.Ink，这是一个旨在让求职过程更顺畅的平台。受我自己求职挫折的启发，它可以帮助您自动为每份工作量身定制简历。您可以上传简历，它会根据职位发布的详细信息对其进行格式化和更新。 如果这听起来很有趣，请访问 resume.ink。我很乐意听取您的反馈！ 此外，这里是 ProductHunt 链接😉：https://www.producthunt.com/posts/resume-ink    提交人    /u/SamiH1   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dadvxd/heres_how_ill_disturb_the_job_market/</guid>
+      <pubDate>Fri, 07 Jun 2024 15:41:46 GMT</pubDate>
+    </item>
     <item>
       <title>我制作了一个购买决策计算器，它可以决定你是否应该购买某样东西。你能演示一下并告诉我你的想法吗？</title>
       <link>https://www.reddit.com/r/SideProject/comments/1dad2b8/i_built_a_purchase_decision_calculator_that/</link>
@@ -25,90 +109,6 @@
       <description><![CDATA[嘿，这不是一篇“我开发了应用程序”的帖子，而是一篇“我想了解我应该开发什么”的帖子。 我一直在从事业余项目，在做了太多项目之后，我有点精疲力竭。我注意到销售和营销正在消耗我从开发中获得的精力。 所以，我正在考虑构建一个不错的营销 CRM，它可以帮助我，甚至让我对营销/销售感到兴奋。这次，我也想和这个 subreddit 中的人谈谈，看看我是否可以在开始之前了解要构建什么，避免再次耗尽我所有的精力 :P 如果存在这样的应用程序，你想要什么功能或愿望？我的一个想法是围绕产品演示发布的编辑工具。你用过什么工具吗？如果你愿意帮忙，我很乐意和你聊聊工具！ （并在我构建时提供免费试用）    提交人    /u/bizsta-9622   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1dac0re/i_want_to_build_a_marketing_crm_for_builders/</guid>
       <pubDate>Fri, 07 Jun 2024 14:24:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>余额 - 资金经理</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dac09m/balance_money_manager/</link>
-      <description><![CDATA[大家好，我开发了一款个人理财应用，您可以在其中添加收入和支出并跟踪现金流。我正在积极开发这款应用，使其功能更强大。目前，我正在寻找更多建议和反馈，以改进我的应用。  您可以下载并试用 https://play.google.com/store/apps/details?id=dev.globin.moneymanager 加入 discord 进行更多讨论     提交人    /u/Globin_dev   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dac09m/balance_money_manager/</guid>
-      <pubDate>Fri, 07 Jun 2024 14:23:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>最酷的（而且是崭新的）事业都是从 Side Projects 开始的！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dabwj2/the_coolest_and_spanking_new_businesses_that/</link>
-      <description><![CDATA[        提交者    /u/Every-Sir-8595   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dabwj2/the_coolest_and_spanking_new_businesses_that/</guid>
-      <pubDate>Fri, 07 Jun 2024 14:19:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>添加了新的免费视频模板</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dabhev/added_a_new_free_video_template/</link>
-      <description><![CDATA[      https://render.video/templates/chat-messages-video/ 免费视频模板    由   提交  /u/pklev1   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dabhev/added_a_new_free_video_template/</guid>
-      <pubDate>Fri, 07 Jun 2024 14:02:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>链接您的目标网页</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dabh3e/link_your_landing_page/</link>
-      <description><![CDATA[我给你我的 2 美分 🚀    由    /u/zalkazemi  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dabh3e/link_your_landing_page/</guid>
-      <pubDate>Fri, 07 Jun 2024 14:01:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>EyePilot 在 ProductHunt 上线！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dabgqo/eyepilot_launched_in_producthunt/</link>
-      <description><![CDATA[嘿，您今天可以访问我们的产品发布会！点赞并帮助我们打造开放辅助技术！让我们一起对抗残疾歧视！  https://www.producthunt.com/posts/eyepilot EyePilot 是一款基于 EyeGestures 的应用程序 [https://github.com/NativeSensors/EyeGestures\]，它展示了您可以使用我们的凝视追踪引擎进行设计！ 如果您不知道 EyeGestures 是什么，您可以关注我们的博客https://polar.sh/NativeSensors/posts/how-to-use-eyepilot 并进一步熟悉它。 基本上，我们是用于制作凝视追踪应用程序的 Python 库。    由    /u/TraditionalDistrict9  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dabgqo/eyepilot_launched_in_producthunt/</guid>
-      <pubDate>Fri, 07 Jun 2024 14:01:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>构建了另一个反馈收集工具（该工具具有 AI）</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dabaad/built_another_feedback_collection_tool_this_one/</link>
-      <description><![CDATA[大家好！我正在探索用户研究领域的不同问题和想法，并决定推出一款简单的产品，允许个人/团队收集来自用户的不同类型的反馈。很酷的部分是，您可以使用 AI 来寻找见解，如果您开始从不同的用户那里获得大量反馈，这将特别有用。很想得到您的反馈！;)  请访问我们：https://www.interfas.ai/    提交人    /u/Classic-Slide-6304   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dabaad/built_another_feedback_collection_tool_this_one/</guid>
-      <pubDate>Fri, 07 Jun 2024 13:54:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的周末项目——训练并部署一个人工智能模型来猜测你的狗的品种</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dab7fr/my_weekend_project_trained_and_deployed_an_ai/</link>
-      <description><![CDATA[       由    /u/unsignedfm  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dab7fr/my_weekend_project_trained_and_deployed_an_ai/</guid>
-      <pubDate>Fri, 07 Jun 2024 13:50:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>我使用 ChatGPT 为我的一位客户获取并分析了 100 万条与商店开业相关的 LinkedIn 帖子——所有这些都是在 3 天内用 Python 和 ChatGPT 完成的，为了好玩，我决定将其保留在一个快速而简单的 SaaS 中，并每天更新。所有这些只需不到 50 美元。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dab6os/i_used_chatgpt_to_fetch_and_analyze_1m_linkedin/</link>
-      <description><![CDATA[大家好， 我只是想分享我最近完成的一个小项目。我使用 ChatGPT 分析了 100 万条关于商店开业的 LinkedIn 帖子，并决定将其保留下来以测试 Dash Bootstrap。 无论如何，几天前，一位客户想了解有关零售业和商店开业的最新趋势的更多信息。我提议从 LinkedIn 获取数据并对其进行分类。 我编写了一些 Python 脚本（ChatGPT 为我编写）来从 LinkedIn 上抓取提到商店开业的帖子。收集了 100 万条帖子后，我发现这是一个大混乱；LinkedIn 搜索效率不高。 为了确保 ChatGPT 能给我们提供良好的见解（令人惊讶的是，ChatGPT 4 并不那么准确），我使用超过 500,000 篇文章对其进行了微调。这些文章是过去五年来为我们的客户从事不同主题工作的自由职业者分类的。这项额外的训练帮助 ChatGPT 更好地理解和分类 LinkedIn 帖子，但它仍然不完美。 我决定只是为了好玩创建一个小应用程序来显示数据。你可以在这里查看。该应用程序的前端也是用 Python 开发的，使用 Dash Bootstrap。你可以在这里查看该应用程序： 这里 我决定每天更新该应用程序。 如果你对细节感到好奇或有类似的项目，我很乐意聊聊！ 干杯， Skander    提交人    /u/nabskan   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dab6os/i_used_chatgpt_to_fetch_and_analyze_1m_linkedin/</guid>
-      <pubDate>Fri, 07 Jun 2024 13:49:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>今天我在我的小型 SaaS 上赚到了第一笔钱</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dab64z/today_i_earned_my_first_money_on_my_small_saas/</link>
-      <description><![CDATA[嗨！ 我是 Paul，一名专攻 React 的前端开发人员。我还可以用 PHP（Laravel）创建 REST API。 在完成朝九晚五的工作后，我在过去 30 天里一直在开发一款小型 SaaS 应用。几天前，我以 0 美元的营销费用获得了第一位以 10 美元购买高级计划的客户。 这种感觉真是太棒了！当然，10 美元不算什么，但这是我赚过的最令人满意的 10 美元！这让我想要构建更多的东西。我认为这是离开朝九晚五工作迈出的一小步。我将来会构建更多的东西！ 这就是我想说的全部内容。 感谢您的阅读，祝您有美好的一天！:)   由    /u/mpoweredo-  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dab64z/today_i_earned_my_first_money_on_my_small_saas/</guid>
-      <pubDate>Fri, 07 Jun 2024 13:49:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>创建成功 SaaS 变更日志的 5 个最佳实践</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1daakul/5_best_practices_for_creating_a_successful_saas/</link>
-      <description><![CDATA[大家好！🚀 我刚刚在 Twitter 上发布了有关创建成功的 SaaS 变更日志的 5 个最佳实践。🌟 变更日志不仅仅是列出更新 - 它们是一种向客户展示您致力于改善他们体验的方式。它们有助于吸引和留住用户、吸引新客户并减少客户流失。 对于那些管理 SaaS 产品的人来说，您如何处理变更日志？您有什么独特的技巧或经验可以分享吗？🤔 期待听到您的想法和故事！ 😊 https://supalogs.com/blog/5-best-practices-for-creating-a-successful-saas-changelog    由   提交  /u/Mans__js   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1daakul/5_best_practices_for_creating_a_successful_saas/</guid>
-      <pubDate>Fri, 07 Jun 2024 13:23:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻求对我的 T 恤设计生成器网站的反馈</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1daai1m/looking_for_feedback_on_my_tshirts_design/</link>
-      <description><![CDATA[大家好，这里的社区看起来棒极了。我想与大家分享我的新网站，它允许您创建 AI 生成的设计并将其打印在 T 恤上！请让我知道您对此的看法 :) https://wearmy.design    由   提交  /u/slateraligator   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1daai1m/looking_for_feedback_on_my_tshirts_design/</guid>
-      <pubDate>Fri, 07 Jun 2024 13:19:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一款利用相机生成抽认卡的 iOS 应用</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1da9h38/i_made_an_ios_app_that_generates_flashcards_with/</link>
-      <description><![CDATA[https://reddit.com/link/1da9h38/video/l99ws09j755d1/player    由   提交  /u/valentinmll   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1da9h38/i_made_an_ios_app_that_generates_flashcards_with/</guid>
-      <pubDate>Fri, 07 Jun 2024 12:31:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
