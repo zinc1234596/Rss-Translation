@@ -4,7 +4,63 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Sat, 08 Jun 2024 12:22:24 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Jun 2024 15:13:32 GMT</lastBuildDate>
+    <item>
+      <title>无论身在何处，都可实践第一性原理思考</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1db4u4n/practice_first_principles_thinking_from_wherever/</link>
+      <description><![CDATA[https://reddit.com/link/1db4u4n/video/tp97bztv3d5d1/player 几周前，我展示了一款使用 Elm 编程语言构建的新“自助”工具，旨在让用户练习第一性原理思考他们心中的任何事情。使用此工具可以仔细考虑和分解未来目标、重大决策或负担等事情。 我仔细听取了帖子的反响，大多数用户都在使用移动设备，尽管我没有针对移动设备优化应用程序…… 现在我很高兴地宣布，“问为什么”可以在移动设备上使用。本地优先，因此无需担心是否有互联网连接即可保存您的条目 在这里查看：https://askwhy.vercel.app 希望大家觉得它有用👍此外，如果有人感觉活泼，那么我欢迎任何想要为该应用程序做出贡献的人。 GitHub repo 可通过该应用程序访问。    提交人    /u/aplikethewatch   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1db4u4n/practice_first_principles_thinking_from_wherever/</guid>
+      <pubDate>Sat, 08 Jun 2024 14:59:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>我刚刚免费开源了我的第一个业余项目</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1db4tmv/i_just_open_sourced_my_first_side_project_for_free/</link>
+      <description><![CDATA[我今天非常兴奋。我刚刚根据 MIT 许可证将我的最新项目开源。 该项目使用 React、Next.js、Tailwind CSS、Framer-Motion、Shadcn UI、Magic UI、NextAuth、Supabase、Prisma 和 Goodreads Custom API 等尖端技术构建。 您可以在 https://quotesai.vercel.app 查看它。 通过开源这个项目，我邀请社区贡献、增强和扩展其功能。我将非常感谢您的贡献，无论是修复错误，添加新功能还是改进代码库。 我目前正在处理的一些未解决的问题包括添加支付网关（Stripe）和电子邮件订阅功能，以便根据用户选择的类别每天向用户发送 10 封电子邮件。 请随意从我的 GitHub 分叉或克隆存储库：https://github.com/DarkInventor/QuotesAI 请提交带有适当 README 文档的拉取请求，并提交详细说明您的添加或更改的消息。 我很高兴与其他开发人员合作，并看到这个项目如何通过开源的力量发展。 感谢您的贡献！    提交人    /u/innovativeframe   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1db4tmv/i_just_open_sourced_my_first_side_project_for_free/</guid>
+      <pubDate>Sat, 08 Jun 2024 14:58:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>为初学者提供免费工具来创建人工智能艺术和换脸</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1db4prg/free_tools_for_beginners_to_create_ai_art_and/</link>
+      <description><![CDATA[一切都是免费的，初学者可以尝试！ https://www.mimicpc.com/application/fooocus/  https://www.mimicpc.com/application/facefusion/    提交人    /u/Relevant_Advisor7279   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1db4prg/free_tools_for_beginners_to_create_ai_art_and/</guid>
+      <pubDate>Sat, 08 Jun 2024 14:53:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>🎉 我终于完成了我的第一个 SaaS 项目 - Reduced.to！希望得到您的反馈！🚀</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1db3stl/i_finally_finished_my_first_saas_project/</link>
+      <description><![CDATA[      嗨，Redditors！ 经过无数个深夜编码会议和无数杯咖啡，我很高兴介绍我的第一个 SaaS 项目：Reduced.to！🌟 我是一名软件开发人员，一直在不知疲倦地开发这个开源 URL 缩短器。这个周末，我把所有的时间都花在了集成付款上，它终于准备好了（差不多）！😅 什么是 Reduced.to？ Reduced.to 不仅仅是另一个 URL 缩短器。它包含各种功能，可帮助您以前所未有的方式管理和分析链接： 🔗 URL 缩短：在几秒钟内创建简短、可共享的链接。 📊 高级分析：跟踪您的点击次数，查看您的流量来自何处，等等。 💼 订阅计划：从免费版到专业版和商业版，每个人都能找到适合自己的计划。此外，如果您选择按年计费，还可以免费获得两个月的订阅！ （查看下面的定价页面！） 💻用户友好的仪表板：在直观的界面中管理所有链接并查看详细的分析。 以下是分析仪表板的预览： 分析仪表板 - 每个链接！ 我为什么要构建这个 我想创建一个不仅可以缩短 URL，还可以提供有关链接性能的有意义的见解的工具。无论您是营销人员、博主还是数据爱好者，Reduced.to 都能满足您的需求。 开源 最好的部分？它是开源的！您可以在此处找到代码。欢迎随时贡献代码、建议功能或报告问题。 我需要您的反馈！ 我还在完善一些东西，我很想听听您的想法。您觉得价格怎么样？功能如何？设计如何？欢迎提供任何反馈、建议或建设性批评！ 感谢您花时间查看 Reduced.to。我很高兴听到您的想法！ 祝您链接愉快！🚀    提交人    /u/origranot   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1db3stl/i_finally_finished_my_first_saas_project/</guid>
+      <pubDate>Sat, 08 Jun 2024 14:09:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>我正在开发一款完全免费（且无广告）的移动日历和计划器</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1db3quu/im_building_an_entirely_free_and_adfree_mobile/</link>
+      <description><![CDATA[      大家好，我正在开发 Creme，这是一款简单而强大的个人日历、计划器和提醒器应用程序。 当我开始搜索非标准 Apple、Microsoft 或 Google 日历的应用程序时，我注意到所有选项都需要订阅、充斥着广告，或者根本没有我想要的功能。因此，我的目标是将这些应用程序中的最佳功能结合起来，同时使其非常直观并且100% 免费。 一些主要功能包括事件（加上子任务）、自定义通知/提醒、重复事件、自定义标记和过滤、搜索、不同的可查看细分（日历、年度、每月、每日）和云同步。我还添加了几个选项，让 Creme 完全属于您自己，例如主题、精简/详细模式等等。 我仍处于开发阶段，因此我希望得到一些反馈，了解您目前的想法，以及您是否有任何想法希望在我今年夏天发布之前看到。  https://preview.redd.it/yb4ek7c2uc5d1.png?width=1000&amp;format=png&amp;auto=webp&amp;s=425ad19726dda0b0aebbec6add116c8bbc94a689    提交人    /u/cremecalendar   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1db3quu/im_building_an_entirely_free_and_adfree_mobile/</guid>
+      <pubDate>Sat, 08 Jun 2024 14:06:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的上一个广告遭到了批评（理所当然）。我为我的项目制作了一个新广告。这个广告好些了吗？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1db33yx/my_last_ad_got_roasted_rightfully_so_ive_put/</link>
+      <description><![CDATA[        提交人    /u/ReflectionRecipes   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1db33yx/my_last_ad_got_roasted_rightfully_so_ive_put/</guid>
+      <pubDate>Sat, 08 Jun 2024 13:34:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Giveway - 使用 Twinbees 将你的手机用作婴儿监视器</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1db30a7/giveway_use_your_phones_as_baby_monitor_with/</link>
+      <description><![CDATA[大家好， 我是 Twinbees 应用程序的创建者。 这是一款优雅的婴儿监控应用程序，可连接 2 部 iPhone，通过 5G 和 Wi-Fi 简单可靠地使用（也适用于 iPad 或 Apple Watch）。 Twinbees 是为所有父母开发的：疲惫不堪的父母、勇敢的父母、聋哑和听力障碍的父母、焦虑的父母、不需要视频的父母、不再想被传统婴儿监视器的哔哔声吵醒的浅睡者、睡眼惺忪和打鼾的爸爸（他们自己听不到哔哔声，但由于 Apple Watch 的存在，他们会很容易被吵醒）、每 2 分钟洗完澡就想着宝宝是否他们听到宝宝哭了，不想买几个月后就会过时无用的电子产品，宁愿挖出旧款 iPhone 6S 的人，还有精力邀请朋友和家人共进晚餐，觉得桌子中央的婴儿监视器不太好看的人，想要轻装上阵的人。 简而言之，对于所有坚持下来并内心深处知道他们会再次体验宁静夜晚的父母来说。 由于我需要在 App Store 上获得更多反馈和评分，因此我将免费提供 Twinbees 直到本周一。 请随时在下方发表评论或直接发私信给我。 您也可以查看我的 Instagram页面。 非常感谢您的关注！    由    /u/Ralph_Twinbees 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1db30a7/giveway_use_your_phones_as_baby_monitor_with/</guid>
+      <pubDate>Sat, 08 Jun 2024 13:29:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 tSNE 和三次样条插值对模型激活进行 3D 可视化</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1db2pur/3d_visualization_of_model_activations_using_tsne/</link>
+      <description><![CDATA[        由    /u/akitsushima  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1db2pur/3d_visualization_of_model_activations_using_tsne/</guid>
+      <pubDate>Sat, 08 Jun 2024 13:14:41 GMT</pubDate>
+    </item>
     <item>
       <title>DeveloperScope 是一个寻找潜在联合创始人或共同开展项目的平台。</title>
       <link>https://www.reddit.com/r/SideProject/comments/1db1j75/developerscope_a_platform_to_find_potential_co/</link>
@@ -48,67 +104,11 @@
       <pubDate>Sat, 08 Jun 2024 10:41:37 GMT</pubDate>
     </item>
     <item>
-      <title>我制作并用来记录和记忆新英语单词的应用程序</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dazy2g/the_app_i_made_and_use_to_journal_and_remember/</link>
-      <description><![CDATA[      wordble 的屏幕截图 嘿r/SideProject， 几周前，我分享了我的网络应用程序 Wordble (https://wordble.com)，它可以帮助您通过日记学习新单词。从那时起，我一直忙于根据您的反馈和我自己的想法做出一些改进。 Wordble 有什么新功能？ 以下是您可以做的一些新功能：  使用 Google 登录：现在您可以使用 google 和 github 登录。 CSV 导入：您可以使用 CSV 文件导入一组单词。如果您已经记录了单词，这将很有用。 每日单词提示：您每天都会得到一个新单词。  路线图上的下一步是什么？  对单词进行分类：按主题或上下文对单词进行分组，使其更容易复习。 可自定义的壁纸：壁纸功能应该有更多选项，因此您可以为您的设备创建更好的设计。 更多学习模式：除了测验之外，还有一些其他互动游戏，使学习更有趣。 分享您的列表：与朋友或 Wordble 社区分享您的单词列表，成为测验游戏的一部分，并从其他人那里发现新单词。  让我知道您想看到哪个功能或想到的任何其他功能 :) 为什么更新？ 我喜欢学习新单词，但发现很难记住所有单词。您的反馈有助于形成这些更新，使 Wordble 更加用户友好且有趣。我希望这些变化能让您更轻松地将新单词融入您的日常生活中。 如何开始 欢迎随时在 Wordble 查看更新后的 Wordble。它仍然免费，我很想听听您对新功能的看法。欢迎提供任何反馈或建议。 感谢您的支持！    提交人    /u/No-Honey6823   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dazy2g/the_app_i_made_and_use_to_journal_and_remember/</guid>
-      <pubDate>Sat, 08 Jun 2024 10:32:03 GMT</pubDate>
-    </item>
-    <item>
       <title>使用 React 和 Tailwind CSS 的待办事项列表网站</title>
       <link>https://www.reddit.com/r/SideProject/comments/1dazjwq/todo_list_website_using_react_and_tailwind_css/</link>
       <description><![CDATA[        提交人    /u/techsavy_dev   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1dazjwq/todo_list_website_using_react_and_tailwind_css/</guid>
       <pubDate>Sat, 08 Jun 2024 10:04:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻求有关 SaaS 理念的反馈</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dazea3/seeking_feedback_on_saas_idea/</link>
-      <description><![CDATA[大家好！ 作为一名使用 AWS 和云技术的经验丰富的软件工程师，我一直在考虑使用 AWS CDK 作为基础设施并使用 Next.js 作为前端来创建 SaaS 样板。在深入开发之前，我想从社区获得一些意见和反馈。 我们的想法是为快速构建和部署 SaaS 应用程序提供坚实的基础。它将包括预配置的后端组件，如身份验证、API 网关、无服务器功能、数据库集成等。前端将利用 Next.js 实现其服务器端渲染和现代 Web 应用功能。 我很想听听您的想法：  使用 AWS CDK 和 Next.js 的 SaaS 样板对您的项目有价值吗？ 您认为应该包含哪些特定的后端功能？ 您还有其他建议或反馈想要分享吗？  在我完善这个想法的过程中，非常感谢您的见解。期待您的意见！    提交人    /u/darvour   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dazea3/seeking_feedback_on_saas_idea/</guid>
-      <pubDate>Sat, 08 Jun 2024 09:54:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>ShipFast 的替代品？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1daz9p1/shipfast_alternatives/</link>
-      <description><![CDATA[大家好 有谁知道 shipfast 的免费或更便宜的替代品吗？我建立项目，但一开始总是被所有小事情搞得焦头烂额，所以 shipfast 真的能帮助我，但它太贵了 😭😭😭 有谁知道这些堆栈是否有样板模板：  NextJS MongoDB Stripe Google Auth Tailwind Mailgun  请帮忙 🙏🙏    提交人    /u/yesireNooo   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1daz9p1/shipfast_alternatives/</guid>
-      <pubDate>Sat, 08 Jun 2024 09:45:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>🚀 启动 Notify.pt - 轻松、无代码弹出通知！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dayu4s/launching_notifypt_effortless_nocode_popup/</link>
-      <description><![CDATA[嘿，SideProject 社区！🎉 我们很高兴介绍我们最新的附带项目：Notify.pt！🤩 Notify.pt 是您无需任何编码即可创建自定义弹出通知的首选 SaaS 解决方案。无论您是技术新手还是经验丰富的专业人士，我们的平台都可以让您非常轻松地设计具有个性化颜色、文本和按钮大小的引人入胜的弹出窗口。 主要特点：  自定义：通过选择颜色、文本和按钮大小来个性化您的弹出窗口。 灵活的触发器：选择弹出窗口的出现时间，例如当用户更改选项卡或鼠标离开网站时。 实时预览：使用我们的实时预览功能实时查看您的更改。  我们很高兴看到Notify.pt将如何提升您网站的参与度。它旨在帮助您无缝有效地与受众建立联系。 查看我们在 Product Hunt 上的发布，并向我们提供您的反馈！ 尽情享受吧！    提交人    /u/0xSmiley   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dayu4s/launching_notifypt_effortless_nocode_popup/</guid>
-      <pubDate>Sat, 08 Jun 2024 09:13:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>🥑 Awoocado - 寻求对我的初创公司登陆页面的反馈</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dayo71/awoocado_seeking_feedback_on_my_startups_landing/</link>
-      <description><![CDATA[嘿 r/SideProject！🚀 我是初创企业建设领域的新手，我很高兴与大家分享我最近的项目 - Awoocado。目前，它只是一个登陆页面，因为我正在测试市场，看看是否有人对此类应用感兴趣。我已经开始开发这个应用程序，但进展并不快，所以我想现在是收集一些反馈的好时机。 我很想听听您对 Awoocado 的见解。您认为哪些地方好？哪些地方可以改进？您的诚实反馈将非常有价值。 背景故事 📖 Awoocado 的想法起源于 2022 年，当时我编写了一个用于管理购物清单的私人网络应用程序。这是我和我妻子用来计划每周膳食、将其添加到购物清单并简化购物体验的工具。这帮助我们避免了冲动购物，从而节省了大量时间和金钱。 偶尔，我们会与朋友和家人分享我们的购物策略。他们的反应非常积极；几乎每个人都问他们如何开始使用该应用程序以及在哪里可以找到它。他们的兴趣让我意识到这种工具可能会有更广阔的市场。 这就是 Awoocado 想法诞生的方式。我决定将我们的私人工具变成一个精致的应用程序，让其他人可以从中受益。 这是登陆页面：https://awoocado.com 我期待听到您的想法！ 感谢您的时间和反馈！    提交人    /u/boolDev   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dayo71/awoocado_seeking_feedback_on_my_startups_landing/</guid>
-      <pubDate>Sat, 08 Jun 2024 09:01:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>SaaS 堆栈</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dayex1/stack_of_saas/</link>
-      <description><![CDATA[为什么我们看到大多数 saas 都是网站形式？为什么我们没有看到它以 Android 或 iPhone 应用程序的形式出现？如果你有一个，我很乐意在评论部分看到它     提交人    /u/Pristine-Resource809   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dayex1/stack_of_saas/</guid>
-      <pubDate>Sat, 08 Jun 2024 08:42:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>我购买了一次性 AI 驱动的应用程序来重命名和标记不同格式的图像。（适用于 Windows 和 Mac）</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1daxyuq/i_made_a_onetime_purchase_ai_powered_app_to/</link>
-      <description><![CDATA[   一个月前，我利用 Gpt-4 视觉功能为 Windows 开发了 RenAI，以重命名和标记图像，这对我来说是一个巨大的成功，几乎在第一周就获得了很多用户，我收到了很多开发 mac 版本的请求，第一次迭代的功能有点有限，但一个月后，对程序进行了一些改进，例如  -- RenAI 现在可以使用 Gemini API 密钥免费工作（除非您居住在欧洲或英国，在这种情况下您必须使用 VPN 或其他方式），还具有在 Gemini 和 OpenAI API 密钥之间交换的能力 -- 支持多种文件格式，如 Jpeg、Png、Gif、Webp、PSD、ICO、Tiff 和 BMP -- 输入图像没有大小限制，以前的版本有 20mb 的限制 - 比以前的版本快 2 倍 我的第一个产品很幸运能在一个月前在这个大型 YouTube 频道上展示，请随时查看：AI advantge Channel 网站：https://renameai.app     由   提交  /u/cjsalva   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1daxyuq/i_made_a_onetime_purchase_ai_powered_app_to/</guid>
-      <pubDate>Sat, 08 Jun 2024 08:11:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Caloriot 今天在 Product Hunt 上直播</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dax6r0/caloriot_is_live_on_product_hunt_today/</link>
-      <description><![CDATA[您好， 今天，Caloriot 在 ProductHunt 上发布了。 请加入此处的讨论： https://www.producthunt.com/posts/caloriot    由   提交  /u/WanMilBus   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dax6r0/caloriot_is_live_on_product_hunt_today/</guid>
-      <pubDate>Sat, 08 Jun 2024 07:16:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
