@@ -4,7 +4,49 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Mon, 10 Jun 2024 18:17:31 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Jun 2024 21:13:31 GMT</lastBuildDate>
+    <item>
+      <title>构建 Klipper 3D 打印机农场软件 #1 :)</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dcwang/building_klipper_3d_printer_farm_software_1/</link>
+      <description><![CDATA[        提交人    /u/sullyah   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dcwang/building_klipper_3d_printer_farm_software_1/</guid>
+      <pubDate>Mon, 10 Jun 2024 20:53:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>一个可以惹恼任何人的工具</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dcw7i6/a_tool_to_annoy_anyone/</link>
+      <description><![CDATA[大家好， 我创建了一个工具来骚扰任何人，比如你的老板、你的敌人，或者戏弄你的朋友。 这个工具叫做annoy.bot，它允许你向目标电子邮件或电话号码发送大量新闻通讯或短信/电话。 我想提出一些改进这个工具的想法。实际上，有两个提议，第一个只针对电子邮件目标，第二个针对电子邮件+电话。 让我知道你最好的想法。 干杯✌️    提交人    /u/carafes_03   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dcw7i6/a_tool_to_annoy_anyone/</guid>
+      <pubDate>Mon, 10 Jun 2024 20:49:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>您为 SP 投资了多少钱？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dcvt9j/how_much_money_have_you_invested_in_your_sp/</link>
+      <description><![CDATA[你在副业上投入了多少钱？ 我也想知道你最大的开支是什么（广告？开发人员？）    提交人    /u/Competitive_Echo9463   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dcvt9j/how_much_money_have_you_invested_in_your_sp/</guid>
+      <pubDate>Mon, 10 Jun 2024 20:33:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>一种为您的想法找到最佳加速器的工具！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dcv9za/a_tool_to_find_best_accelerator_for_your_idea/</link>
+      <description><![CDATA[我和 Crework 团队上周末开发了这个名为 Startup Navigator 的工具。  它可以帮助您找到适合您的初创企业的加速器计划。只需继续输入提示并获得符合您需求的建议。🚀 它列出了近 100 个加速器计划，我们还在添加更多。 为您的初创企业找到完美匹配从未如此简单。  查看 startupnavigator.live    提交人    /u/0xSatyajit   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dcv9za/a_tool_to_find_best_accelerator_for_your_idea/</guid>
+      <pubDate>Mon, 10 Jun 2024 20:11:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>用于开发云应用程序的 TypeScript 工具链</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dctpb1/typescript_toolchain_for_developing_cloud_apps/</link>
+      <description><![CDATA[在过去的一年里，我一直在开发一款基于我开发云应用程序（主要是在 AWS 上）的经验（即挫折）的开发人员工具。我的重点是统一基础设施和运行时逻辑，我相信这有可能大大简化事情。我想到的是一个名为 Synapse 的工具链：  GitHub Repo 网站  如果您熟悉 AWS CDK，那么 Synapse 就像是一种更灵活/符合人体工程学/功能更强大的 CDK。您可以在同一段代码中声明基础设施以及在该基础设施内运行的代码。我在 repo + 网站中的示例是对云资源的高级抽象，但您也可以操作单个 AWS 资源。这就是构建高级抽象的方式。 GitHub repo 目前基本为空，因为我一直在 monorepo 中私下开发。清理和移动代码需要一些时间，但如果有兴趣帮助开发，我可以优先考虑这一点！ 全面披露：我正试图围绕这个工具建立一家企业，但是，该工具本身是免费的，并且永远免费。    提交人    /u/JadenAtCohesible   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dctpb1/typescript_toolchain_for_developing_cloud_apps/</guid>
+      <pubDate>Mon, 10 Jun 2024 19:08:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>想成为独立黑客</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dcskfl/wanna_be_indie_hacker/</link>
+      <description><![CDATA[不知道该怎么办。一直在努力兼顾办公室工作和个人责任。 但我只抽出时间进行一些关于技术的深入工作（研究）。我感觉恢复了活力。否则我会一直脾气暴躁。 所以就像体育锻炼一样，我计划定期做一些研究来让自己精神焕发😌    提交人    /u/heena234_   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dcskfl/wanna_be_indie_hacker/</guid>
+      <pubDate>Mon, 10 Jun 2024 18:24:01 GMT</pubDate>
+    </item>
     <item>
       <title>适用于每个网站的语音转文本 - 适合最懒惰的人。（OpenAI WhisperAPI）。访问评论：)</title>
       <link>https://www.reddit.com/r/SideProject/comments/1dcs0b9/speech_to_text_for_every_website_for_the_laziest/</link>
@@ -22,7 +64,7 @@
     <item>
       <title>我和妻子开发了一个工具，以缓解她在填写工作时间表时的沮丧</title>
       <link>https://www.reddit.com/r/SideProject/comments/1dcrn4s/my_wife_and_i_built_a_tool_out_of_frustration_she/</link>
-      <description><![CDATA[大家好，Reddit 社区： 我想分享一个故事，关于工作中的挫折如何演变成一个新项目的想法，我们决定将这个项目命名为 Timesible。 几个月前，我的妻子向我抱怨她每个月必须在工作中填写的时间表，这有时会花费她很多时间，因为她必须每天回到 Jira 查找她这个月正在处理的任务并提交。该系统实际上全部在 Excel 表中实现，我很惊讶所有这些都可以进行多大程度的优化，从而使员工和雇主都受益，这就是我们决定为此构建工具的原因。 我们都有全职工作，所以我们花了将近 3 个月的时间才最终构建了一个小型 MVP，我们在下班后甚至周末都在开发它。 该产品还不够成熟，我们无法将其展示给中型/大型公司（例如我妻子的公司，正如所说，这是该项目的驱动点），目前我们仍处于收集来自同行的功能反馈并在此基础上进行迭代的阶段，以达到产品感觉非常完整的程度。此外，我们非常感谢你们关于设计/用户体验/功能/等方面的任何反馈/建议... 就未来计划而言，我们有一些想法，以实际获得我们的第一个社会证明，为我们的网站带来流量，并最终实现我们的第一笔销售🤞：  我们看到很多第一批采用者有时来自 LTD（例如 Appsumo），所以我们实际上可能会从这条路开始。 我们还被告知，在这个市场中，搜索引擎优化是需要关注的主要事情之一，因此我们计划更多地关注这一点。 最后，只与公司交谈，这可能是最难的......  非常感谢您的阅读，祝大家今天过得愉快😊    提交人    /u/Gaasre   [链接] [评论]]]></description>
+      <description><![CDATA[大家好，Reddit 社区： 我想分享一个故事，关于工作中的挫折如何演变成一个新项目的想法，我们决定将这个项目命名为 Timesible。 几个月前，我的妻子向我抱怨她每个月必须在工作中填写的时间表，这有时会花费她很多时间，因为她必须每天回到 Jira 查找她这个月正在处理的任务并提交。该系统实际上全部在 Excel 表中实现，我很惊讶所有这些都可以进行多大程度的优化，从而使员工和雇主都受益，这就是我们决定为此构建工具的原因。 我们都有全职工作，所以我们花了将近 3 个月的时间才最终构建了一个小型 MVP，我们在下班后甚至周末都在开发它。 该产品还不够成熟，我们无法将其展示给中型/大型公司（例如我妻子的公司，正如所说，这是该项目的驱动点），目前我们仍处于收集来自同行的功能反馈并在此基础上进行迭代的阶段，以达到产品感觉非常完整的程度。此外，我们非常感谢你们关于设计/用户体验/功能/等方面的任何反馈/建议... 就未来计划而言，我们有一些想法，以实际获得我们的第一个社会证明，为我们的网站带来流量，并最终实现我们的第一笔销售🤞：  我们看到很多第一批采用者有时来自 LTD（例如 Appsumo），所以我们实际上可能会从这条路开始。 我们还被告知，在这个市场中，搜索引擎优化是需要关注的主要事情之一，因此我们计划更多地关注这一点。 最后，只与公司交谈，这可能是最难的......  非常感谢您的阅读，祝大家今天愉快😊 PS：它尚未针对手机进行优化（很快）    提交人    /u/Gaasre   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1dcrn4s/my_wife_and_i_built_a_tool_out_of_frustration_she/</guid>
       <pubDate>Mon, 10 Jun 2024 17:46:26 GMT</pubDate>
     </item>
@@ -50,7 +92,7 @@
     <item>
       <title>Collava——一起拯救吧！</title>
       <link>https://www.reddit.com/r/SideProject/comments/1dcqo8j/collava_save_it_together/</link>
-      <description><![CDATA[刚刚启动了我的第一个 SASS。很高兴与你们分享！ Collava 是一个保存并与朋友和全世界分享您喜爱的链接、文章和资源的平台。 https://www.collava.app/ 希望你们会发现它和我一样有用！如果您有任何建议或问题，请告诉我！    提交人    /u/rwusc   [链接] [评论]]]></description>
+      <description><![CDATA[刚刚启动了我的第一个 SASS。很高兴与你们分享！ Collava 是一个保存并与朋友和全世界分享您喜爱的链接、文章和资源的平台。 https://www.collava.app/ 希望你们会像我一样觉得它很有用！如果您有任何建议或问题，请告诉我！    提交人    /u/rwusc   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1dcqo8j/collava_save_it_together/</guid>
       <pubDate>Mon, 10 Jun 2024 17:07:09 GMT</pubDate>
     </item>
@@ -67,48 +109,6 @@
       <description><![CDATA[我们是一支小团队，正在开展一个令人兴奋的项目，名为 Konektobet，这是一个宠物诊所推荐系统（特别是针对狗和猫主人）。我们需要达到 1,000 次下载量才能推进我们项目中一些关键的后续步骤，我们希望您能帮助我们。 如果您可以下载该应用，检查它，然后根据需要卸载它，我们将不胜感激！它完全免费，您可以在  https://play.google.com/store/apps/details?id=com.QuantumX.Konektobet 我们非常感谢您的帮助     提交人    /u/Beneficial_Ladder774   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1dcq7rq/need_your_help_download_our_pet_clinic/</guid>
       <pubDate>Mon, 10 Jun 2024 16:48:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Spensieur] 桌面上第一个离线/本地财务追踪器</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dcq193/spensieur_an_offlinelocal_first_finance_tracker/</link>
-      <description><![CDATA[      大家好， 8 个月前，我在这个子版块上分享了我的财务追踪器应用的第一个公开版本。根据反馈和我自己的日常使用情况，我一直在添加一些更有用的功能，并在此过程中修复了大量错误。 1.0 版应该很快就会在 Ms Store 上推出。 上一篇文章： https://www.reddit.com/r/SideProject/comments/17fiq1n/i_built_an_offline_first_desktop_app_to_track_my/ 加入 discord 小组参与其中：  https://discord.gg/Euj7FuQZVc  下载最新版本（Windows）： - https://github.com/noxasch/spensieur_release/releases/tag/v0.6.0%2B6 仪表板 账户列表 选项页面    提交人    /u/noxasch   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dcq193/spensieur_an_offlinelocal_first_finance_tracker/</guid>
-      <pubDate>Mon, 10 Jun 2024 16:41:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>我目前的副业</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dcpaxv/my_current_side_project/</link>
-      <description><![CDATA[我想我会为自己构建一个截图工具，因为我在 X 上发布了很多帖子。不想为此付费，所以我构建了它 - 就像我很多情况下做的那样。  它并不完美或 100% 完成。但我很想听到你的反馈 ❤️ www.snaphero.io  尝试一下并让我知道 🙏🏻    提交人    /u/NoTraffic9367   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dcpaxv/my_current_side_project/</guid>
-      <pubDate>Mon, 10 Jun 2024 16:10:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>自动生成并发布匿名视频</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dcp35d/generate_and_publish_faceless_videos_on_autopilot/</link>
-      <description><![CDATA[在网上看到几个类似的应用程序后，我创建了 aireelgenerator.com。我想学习如何使用视频生成库，所以我创建了这个。这是一款完全自动化创建无脸视频的应用程序。只需选择一个主题，它就会每天生成新视频并将其上传到您的 Youtube、TikTok、Instagram 或 Facebook 帐户。 理想情况下，我想继续添加功能，包括编辑时间轴等。 很想听听您的想法和反馈    提交人    /u/juan_cristobal_x   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dcp35d/generate_and_publish_faceless_videos_on_autopilot/</guid>
-      <pubDate>Mon, 10 Jun 2024 16:01:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>我正在为 AI 模型构建 Semrush/Ahrefs</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dcom9l/im_building_the_semrushahrefs_for_ai_models/</link>
-      <description><![CDATA[      我最近看到一条推文，它激发了我的一个想法： &quot;谁在构建 LLM 的 Semrush/Ahrefs？我认为品牌会想知道他们在 ChatGPT、Anthropic、Perplexity 等模型中的表现如何。” 这让我开始思考品牌如何在快速增长的 AI 语言模型中监控他们的存在和感知。因此，我创建了 HowHot.ai 来满足这一需求。 HowHot.ai 允许您：  输入您的品牌名称或关键字 生成相关提示以查询主要的 AI 模型，如 ChatGPT、Claude、Anthropic 等。 获取一份详细报告，比较您的品牌和产品与竞争对手的知名度  目标是帮助品牌、营销人员和代理机构保持其 AI 存在，并在没有任何技术专业知识的情况下与竞争对手进行对标。 https://preview.redd.it/xxbbzgrllr5d1.png?width=1282&amp;format=png&amp;auto=webp&amp;s=66b671f01db3d867a5737039c4ffed99a661ba21 我还处于早期阶段，因此非常感谢任何反馈。很高兴向感兴趣的测试人员提供早期访问权限。    提交人    /u/madredditscientist   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dcom9l/im_building_the_semrushahrefs_for_ai_models/</guid>
-      <pubDate>Mon, 10 Jun 2024 15:42:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>想法：发送约会应用程序/社交媒体对话的截图，我们会告诉你此人是否是人工智能</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dco9b0/idea_send_a_screenshot_of_dating_app_social_media/</link>
-      <description><![CDATA[我对面向消费者的 deepfake/ai 检测非常感兴趣，无论是允许用户验证聊天是否来自 AI 的服务，还是是否生成了特定的照片。  我想以消费者友好的方式打包它并推出。  有什么反馈吗？你会用这个吗？     提交人    /u/potatofan1738   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dco9b0/idea_send_a_screenshot_of_dating_app_social_media/</guid>
-      <pubDate>Mon, 10 Jun 2024 15:27:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>一种帮助您为您的创业想法找到最佳加速器和孵化器的工具。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dcnt4s/a_tool_to_find_the_best_accelerator_and_incubator/</link>
-      <description><![CDATA[大家好！我们建立了 https://www.startupnavigator.live/ 来帮助像你们这样的建设者找到合适的加速器和孵化器，它们可能能够帮助你更快地推进你的旅程 🏃‍♂️ 请尝试一下，然后告诉我你的想法。    提交人    /u/some_pm   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dcnt4s/a_tool_to_find_the_best_accelerator_and_incubator/</guid>
-      <pubDate>Mon, 10 Jun 2024 15:08:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
