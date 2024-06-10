@@ -4,7 +4,21 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Sun, 09 Jun 2024 21:12:58 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Jun 2024 01:00:16 GMT</lastBuildDate>
+    <item>
+      <title>针对在线代理商所有者的问题</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dc963d/question_for_online_agency_owners/</link>
+      <description><![CDATA[正如标题所说，我为我的代理机构创建了一个面板，该面板从我们的表单中获取我的所有潜在客户和联系请求。它将在我的面板中显示我的所有潜在客户，在创建面板之前，我遇到的最大问题是用什么来回复客户，或者这个客户到底在要求什么。因此，我要求我的团队为我们构建一个面板，该面板接收特定的报价或联系请求并使用 AI 创建回复，但不要让它听起来像 AI，而要让它听起来像代表创建的实际电子邮件回复。我们已经使用它有一段时间了，并添加了一些附加功能，例如查看用户推荐的网站、网站浏览量等。由于我们是一家网站/软件开发机构，因此这款软件确实为我们的代理机构提供了很大帮助。我正在考虑将其授权出去或向其他代理机构提供基于订阅的服务。我想问你们代理机构所有者，你们会使用这款软件吗？你们觉得怎么样？谢谢！    提交人    /u/Wild_Dragonfruit_184   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dc963d/question_for_online_agency_owners/</guid>
+      <pubDate>Mon, 10 Jun 2024 00:55:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了一个副项目，每天挑选 HN 中的精华并总结讨论。想法？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dc62g5/i_created_a_side_project_that_picks_the_best_of/</link>
+      <description><![CDATA[        提交者    /u/fuzzy_rock   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dc62g5/i_created_a_side_project_that_picks_the_best_of/</guid>
+      <pubDate>Sun, 09 Jun 2024 22:24:41 GMT</pubDate>
+    </item>
     <item>
       <title>我创建了一个 Web 应用程序来检查多个软件包存储库中的库名称。</title>
       <link>https://www.reddit.com/r/SideProject/comments/1dc3r5b/i_created_a_web_app_to_check_library_names/</link>
@@ -27,18 +41,11 @@
       <pubDate>Sun, 09 Jun 2024 20:23:24 GMT</pubDate>
     </item>
     <item>
-      <title>我用 Python 创建了一个 Windows 隐私工具，可以检测设置是否在用户不知情的情况下被更改。您觉得如何？</title>
+      <title>我用 Python 创建了一个 Windows 隐私工具，用于检测设置是否在用户不知情的情况下被更改。您觉得如何？</title>
       <link>https://www.reddit.com/r/SideProject/comments/1dc2kx7/i_created_a_windows_privacy_tool_in_python_that/</link>
       <description><![CDATA[        提交人    /u/Few-Lynx6217   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1dc2kx7/i_created_a_windows_privacy_tool_in_python_that/</guid>
       <pubDate>Sun, 09 Jun 2024 19:56:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>我正在开发一款通过歌词播放列表学习语言的应用程序</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dc2khg/i_am_building_an_app_to_learn_languages_from/</link>
-      <description><![CDATA[      作为一个既喜欢音乐又喜欢语言的人，我想找到一种方法来结合这两种兴趣。传统的语言学习方法可能很无聊，而且感觉与日常生活脱节。我在开车时和锻炼时听音乐，我意识到我可以从理解歌词、积累词汇量和同时提高发音中受益。 我正在开发一款使用歌词来帮助语言学习的 Android 应用。该应用将翻译歌词、帮助积累词汇量、提供测验并提供发音练习——所有这些都通过您最喜爱的音乐播放列表实现。如果这款应用发布，有人会感兴趣吗？ TuneVocab V1    提交人    /u/theherohero   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dc2khg/i_am_building_an_app_to_learn_languages_from/</guid>
-      <pubDate>Sun, 09 Jun 2024 19:55:48 GMT</pubDate>
     </item>
     <item>
       <title>我的副业：一个利用人工智能帮助你创造完美鸡尾酒配方的网站</title>
@@ -64,7 +71,7 @@
     <item>
       <title>利用免费营销工具解决我自己的问题</title>
       <link>https://www.reddit.com/r/SideProject/comments/1dc0znz/scratched_my_own_itch_with_free_marketing_tools/</link>
-      <description><![CDATA[我正在开展一个新的副业项目，为 SaaS 创始人和其他 solopreneurs 提供免费的营销工具。 当我从事上一个项目时，我最终每月花费 500-1000 美元购买关键字研究工具、影响者数据库、AI 编写器、无头 CMS 和一些其他营销工具。由于我每月只赚几千美元，这确实削减了我的利润。 我觉得这些工具中有很多都是基本的 CRUD 操作（没什么花哨的！）并且应该是免费的——为了解决我自己的难题，我建立了 RamenGrowth，它是 solopreneurs 可以使用的免费增长工具的集合。我从根本上相信，人工智能 + 全球人才的结合将降低现代 SaaS 的成本，我正抓住这一机遇。 非常希望收到您的反馈！    提交人    /u/Resident-Ganache1587   [链接] [评论]]]></description>
+      <description><![CDATA[我正在开展一个新的副业项目，为 SaaS 创始人和其他 solopreneurs 提供免费的营销工具。 当我从事上一个项目时，我最终每月花费 500-1000 美元购买关键字研究工具、影响者数据库、AI 编写器、无头 CMS 和一些其他营销工具。由于我每月只赚几千美元，这确实削减了我的利润。 我觉得这些工具中很多都是基本的 CRUD 操作（没什么花哨的！）并且应该是免费的——为了解决我自己的难题，我创建了 RamenGrowth，它是 solopreneurs 可以使用的免费增长工具的集合。我从根本上相信，人工智能 + 全球人才的结合将降低现代 SaaS 的成本，我正抓住这一机遇。 非常希望收到您的反馈！    提交人    /u/Resident-Ganache1587   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1dc0znz/scratched_my_own_itch_with_free_marketing_tools/</guid>
       <pubDate>Sun, 09 Jun 2024 18:48:02 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[正在寻找一个网站让我们联系起来。     由   提交  /u/softwareupload   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1dbyiin/anyone_need_a_web_and_mobile_app_developer/</guid>
       <pubDate>Sun, 09 Jun 2024 17:01:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>我需要你的帮助</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dby9ov/i_need_your_help/</link>
-      <description><![CDATA[我是一名经验丰富的软件开发人员，过去几年一直在各个平台上开发应用程序。 从技术角度来看，我可能能够轻松实现大多数应用程序创意，但我面临的问题是，在大多数情况下，我完全是独自构建这些愿景，有时很难完成。但如果我在团队中工作，或者有人也参与该项目，那么我就会获得完成该项目的另一种动力，我再次感受到职业生涯初期作为开发人员构建出色产品的喜悦。 我只是想找一个和我一样具有下一件大事驱动思维的人，来构建真正重要的东西。如果您愿意，请随时给我写私信。    提交人    /u/DutyCompetitive1328   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dby9ov/i_need_your_help/</guid>
-      <pubDate>Sun, 09 Jun 2024 16:50:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
