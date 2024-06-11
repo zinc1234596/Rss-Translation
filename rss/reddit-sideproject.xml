@@ -4,7 +4,35 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Tue, 11 Jun 2024 03:14:55 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Jun 2024 06:18:30 GMT</lastBuildDate>
+    <item>
+      <title>打造视频采集工具——HeySure</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dd6w2b/building_video_collection_tool_heysure/</link>
+      <description><![CDATA[两周来一直在开发 HeySure.app，现在它已准备好供公众使用。它可以让您收集来自客户/客户/员工的视频响应作为推荐、用例或任何采访，并将它们变成故事。然后，您可以将它们添加到墙上，下载或分享！ 它有多个用例，如 https://heysure.app/#use-cases 中所述，我每月收费 9 美元（与该领域的现有产品相比非常合理）。将为早期采用者提供非常好的折扣！    提交人    /u/pskd73   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dd6w2b/building_video_collection_tool_heysure/</guid>
+      <pubDate>Tue, 11 Jun 2024 05:49:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>远交=垃圾</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dd6cki/distocialgarbage/</link>
+      <description><![CDATA[不要使用 distosocial，产品很烂。这也是我从来不买测试版产品的原因    提交人    /u/muba1527   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dd6cki/distocialgarbage/</guid>
+      <pubDate>Tue, 11 Jun 2024 05:12:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>冷电子邮件和数据抓取的最佳工具是什么？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dd5mds/best_tools_for_cold_emailing_and_data_scraping/</link>
+      <description><![CDATA[我正在做一个涉及冷电子邮件和数据抓取的项目。您能推荐以下最佳工具吗： 冷电子邮件：  查找和验证电子邮件地址。 自动执行电子邮件活动。  数据抓取：  抓取网站以获取联系信息。 处理大规模抓取而无需 IP 阻止。  非常感谢任何建议或提示！ 谢谢！    提交人    /u/Srigbok_   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dd5mds/best_tools_for_cold_emailing_and_data_scraping/</guid>
+      <pubDate>Tue, 11 Jun 2024 04:28:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>我为人工智能聊天助手建立了一个网站模板</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dd5lyd/i_built_a_website_template_for_ai_chat_assistants/</link>
+      <description><![CDATA[如今有如此多的 AI 聊天助手和工具推出，我认为创建一个真正展示其功能的网站模板会很棒。 这就是我构建Ai Wingman的原因！ 什么是 Ai Wingman？ Ai Wingman 是一个 Framer 网站模板，旨在帮助开发人员以最佳方式展示他们的 AI 聊天助手。 以下是它提供的功能：  交互式聊天组件：通过动画屏幕和现场演示展示您的 AI 的实际运行。 12 个随时可发布的页面：从产品展示到定价和博客，让您的网站快速启动并运行。 轻量级暗模式：在时尚的浅色或精致的深色主题之间进行选择 - 或同时提供两者！ 美观，响应式设计：在任何设备上看起来都很棒，确保无缝的用户体验。  我最初为AI约会助手构建了这个模板，但它足够通用，适用于任何AI聊天助手产品。另外，我还提供了视频教程，使自定义变得非常简单，以满足您的特定用例。  在这里查看并告诉我你的想法！我随时欢迎来自这个很棒的社区的反馈。    提交人    /u/firdavsabdu   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dd5lyd/i_built_a_website_template_for_ai_chat_assistants/</guid>
+      <pubDate>Tue, 11 Jun 2024 04:28:05 GMT</pubDate>
+    </item>
     <item>
       <title>您认为对于新用户来说更好的用户体验是什么？</title>
       <link>https://www.reddit.com/r/SideProject/comments/1dd495g/what_do_you_think_is_the_better_ux_for_new_users/</link>
@@ -69,13 +97,6 @@
       <pubDate>Mon, 10 Jun 2024 21:22:30 GMT</pubDate>
     </item>
     <item>
-      <title>构建 Klipper 3D 打印机农场软件 #1 :)</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dcwang/building_klipper_3d_printer_farm_software_1/</link>
-      <description><![CDATA[        提交人    /u/sullyah   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dcwang/building_klipper_3d_printer_farm_software_1/</guid>
-      <pubDate>Mon, 10 Jun 2024 20:53:06 GMT</pubDate>
-    </item>
-    <item>
       <title>一个可以惹恼任何人的工具</title>
       <link>https://www.reddit.com/r/SideProject/comments/1dcw7i6/a_tool_to_annoy_anyone/</link>
       <description><![CDATA[大家好， 我创建了一个工具来骚扰任何人，比如你的老板、你的敌人，或者戏弄你的朋友。 这个工具叫做annoy.bot，它允许你向目标电子邮件或电话号码发送大量新闻通讯或短信/电话。 我想提出一些改进这个工具的想法。实际上，有两个提议，第一个只针对电子邮件目标，第二个针对电子邮件+电话。 让我知道你最好的想法。 干杯✌️    提交人    /u/carafes_03   [链接] [评论]]]></description>
@@ -85,30 +106,9 @@
     <item>
       <title>您为 SP 投资了多少钱？</title>
       <link>https://www.reddit.com/r/SideProject/comments/1dcvt9j/how_much_money_have_you_invested_in_your_sp/</link>
-      <description><![CDATA[你在自己的副业上投入了多少钱？ 你也想知道你最大的开支是什么（广告？开发者？）    提交人    /u/Competitive_Echo9463   [link] [评论]]]></description>
+      <description><![CDATA[你在副业上投入了多少钱？ 我也想知道你最大的开支是什么（广告？开发人员？）    提交人    /u/Competitive_Echo9463   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1dcvt9j/how_much_money_have_you_invested_in_your_sp/</guid>
       <pubDate>Mon, 10 Jun 2024 20:33:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>一种为您的想法找到最佳加速器的工具！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dcv9za/a_tool_to_find_best_accelerator_for_your_idea/</link>
-      <description><![CDATA[我和 Crework 团队上周末开发了这个名为 Startup Navigator 的工具。  它可以帮助您找到适合您的初创企业的加速器计划。只需继续输入提示并获得符合您需求的建议。🚀 它列出了近 100 个加速器计划，我们还在添加更多。 为您的初创企业找到完美匹配从未如此简单。  查看 startupnavigator.live    提交人    /u/0xSatyajit   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dcv9za/a_tool_to_find_best_accelerator_for_your_idea/</guid>
-      <pubDate>Mon, 10 Jun 2024 20:11:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于开发云应用程序的 TypeScript 工具链</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dctpb1/typescript_toolchain_for_developing_cloud_apps/</link>
-      <description><![CDATA[在过去的一年里，我一直在开发一款基于我开发云应用程序（主要是在 AWS 上）的经验（即挫折）的开发人员工具。我的重点是统一基础设施和运行时逻辑，我相信这有可能大大简化事情。我想到的是一个名为 Synapse 的工具链：  GitHub Repo 网站  如果您熟悉 AWS CDK，那么 Synapse 就像是一种更灵活/符合人体工程学/功能更强大的 CDK。您可以在同一段代码中声明基础设施以及在该基础设施内运行的代码。我在 repo + 网站中的示例是对云资源的高级抽象，但您也可以操作单个 AWS 资源。这就是构建高级抽象的方式。 GitHub repo 目前基本为空，因为我一直在 monorepo 中私下开发。清理和移动代码需要一些时间，但如果有兴趣帮助开发，我可以优先考虑这一点！ 全面披露：我正试图围绕这个工具建立一家企业，但是，该工具本身是免费的，并且永远免费。    提交人    /u/JadenAtCohesible   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dctpb1/typescript_toolchain_for_developing_cloud_apps/</guid>
-      <pubDate>Mon, 10 Jun 2024 19:08:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>想成为独立黑客</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dcskfl/wanna_be_indie_hacker/</link>
-      <description><![CDATA[不知道该怎么办。一直在努力兼顾办公室工作和个人责任。 但我只抽出时间进行一些关于技术的深入工作（研究）。我感觉恢复了活力。否则我会一直脾气暴躁。 所以就像体育锻炼一样，我计划定期做一些研究来让自己精神焕发😌    提交人    /u/heena234_   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dcskfl/wanna_be_indie_hacker/</guid>
-      <pubDate>Mon, 10 Jun 2024 18:24:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
