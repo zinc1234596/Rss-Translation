@@ -4,7 +4,91 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Tue, 11 Jun 2024 12:25:16 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Jun 2024 15:13:54 GMT</lastBuildDate>
+    <item>
+      <title>我开发了 Relaxer：呼吸练习 CLI 工具 🎈</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ddghxp/i_built_relaxer_breathing_exercises_cli_tool/</link>
+      <description><![CDATA[        提交人    /u/remvze   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ddghxp/i_built_relaxer_breathing_exercises_cli_tool/</guid>
+      <pubDate>Tue, 11 Jun 2024 15:10:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>开发了一个简历工具，让我获得了 Twitter 的面试机会。我应该启动它吗？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ddfyog/built_a_resume_tool_that_landed_me_an_interview/</link>
+      <description><![CDATA[      大家好， 我想分享我的历程，希望能从这个社区得到一些反馈。 作为一名 ML/AI 工程师，我亲身体验过就业市场的艰难。尽管我自认为简历很棒，但我还是遭到了无数次拒绝。每次拒绝都打击了我的信心，让我开始质疑自己做错了什么。 在经历了一轮特别令人沮丧的申请后，我决定自己动手。我意识到一份普通的简历不足以在当今竞争激烈的就业市场中脱颖而出。因此，我发挥自己的技能，构建了一个 AI 简历优化器。该工具会分析职位描述并定制我的简历，并针对每份申请专门制作求职信。 结果超出了我的预期。一旦我开始使用我的工具生成的优化简历和求职信，我就会开始收到积极的回应。我没有被拒绝，而是开始收到面试邀请，其中有一个来自 Twitter（令人震惊）。在短时间内，我收到了几个录用通知，最终，我得到了梦寐以求的工作。 这次经历很有趣。我的朋友鼓励我推出这个工具，以便其他可能面临同样挑战的人可以使用。他建议我将其作为产品推出，所以我正在为一个 mvp 开发前端（上图）。 我知道有类似的产品，如 Teal 和 Rez。但我觉得它们用起来很麻烦。我优化了我的产品以提高精度和速度。 它可以在不到 2 分钟的时间内为每份工作申请定制简历并创建量身定制的求职信，让您更有机会吸引招聘人员的眼球。  您认为这解决了一个痛苦的问题吗？您愿意为此付费吗？ 我很高兴得到一些验证，人们会像我一样发现这个工具很有用。 它不会是免费的，因为我必须为后端的一些基础设施付费。但我很高兴看到它是否能像帮助我一样帮助别人。我期待着问题或建议。 如果您想知道什么时候准备好（几天后），这里有一个链接来留下您的电子邮件。    提交人    /u/CalligrapherFine6407   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ddfyog/built_a_resume_tool_that_landed_me_an_interview/</guid>
+      <pubDate>Tue, 11 Jun 2024 14:48:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>我和一个朋友正在为开发人员打造一把瑞士军刀，我们刚刚发布了 2.0 版本</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ddf2qg/a_friend_and_i_are_building_a_swiss_army_knife/</link>
+      <description><![CDATA[        提交人    /u/traditionalbaguette   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ddf2qg/a_friend_and_i_are_building_a_swiss_army_knife/</guid>
+      <pubDate>Tue, 11 Jun 2024 14:10:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了一个网站，让你在创业前节省 6 个月的时间</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ddf011/i_made_a_site_to_save_you_6_months_before/</link>
+      <description><![CDATA[你好， 我现在已经启动了大约 13 家初创公司，所有这些公司都失败了，因为我试图解决不存在的问题。 因此，我想到了一个想法：每次我开始新事业时，我都会用 SEO 关键字检查我的想法，看看人们是否在搜索这个问题。 想知道你对这个产品的看法。 https://www.startupseocheck.com/    提交人    /u/ProfessionalSet755   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ddf011/i_made_a_site_to_save_you_6_months_before/</guid>
+      <pubDate>Tue, 11 Jun 2024 14:07:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>更新：冒险伙伴——让日常生活更加精彩！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ddekcq/update_adventure_buddy_making_daily_life_more/</link>
+      <description><![CDATA[大家好！ 我一直在分享我创建和发展 Adventure Buddy 的历程，这是一款旨在为您的日常生活增添乐趣的应用。距离我上次更新已经有一段时间了，所以这里是关于该应用的最新消息和一些令人兴奋的新功能： 快速回顾：什么是 Adventure Buddy？ Adventure Buddy 是一款动态应用，旨在帮助您更具冒险精神地生活。接受日常挑战，使用我们的地图功能探索新地方，并与志同道合的冒险家社区建立联系。凭借成就系统、事件跟踪和改进的用户体验等新功能，Adventure Buddy 可帮助您突破舒适区，让日常生活更加精彩。 有什么新功能？ 自上次更新以来，我一直在根据您的反馈努力改进该应用。以下是新功能：  新闻添加到单独页面 全新成就系统 修复错误，让好友请求处理更顺畅 整个应用中的新点击效果 增强的每日挑战、高级挑战和徽章排行榜过滤器 改进的弹出设计 添加了 Google 注册选项 修复应用图标的错误 整个应用中的新加载动画 简化高级套餐流程 大幅减少广告，带来更简洁的体验  重大改进：  简化注册：  您现在可以注册在使用 Google 时，注册时间从近 3 分钟缩短到仅 1 分钟。用户仍然需要输入他们的名字和姓氏，但现在更快捷、更安全了。  减少广告：  我已大幅减少广告数量，使应用体验更加简洁、愉快。  增强用户体验：  添加点击和加载动画，使应用响应更快、互动性更强。   挑战： 尽管有这些改进，但仍有一个重大挑战：扩大我们的用户群。虽然探索 Yes Theory 社区是一个很好的建议，我目前正在努力，但我仍在寻找更有效的方式来接触和吸引更多的受众。 您可以如何提供帮助： 我很乐意听听您关于如何发展我们社区的建议。哪些策略对您有效？您认为我应该探索哪些社区或平台？到目前为止，您的反馈非常宝贵，我很高兴听到您关于如何将 Adventure Buddy 提升到新水平的想法。 以前的帖子背景：  第一篇文章 第二篇文章  您可以在 Google Play 商店中搜索“Adventure Buddy”或点击以下链接找到 Adventure Buddy： Adventure Buddy 提前感谢大家的支持和反馈！    提交人    /u/Awkward-Tourist-3212   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ddekcq/update_adventure_buddy_making_daily_life_more/</guid>
+      <pubDate>Tue, 11 Jun 2024 13:48:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>我为苹果设备编写了一款免费的 GeoGuessr 游戏</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ddeh88/i_coded_a_free_geoguessr_game_for_apple_devices/</link>
+      <description><![CDATA[      该应用的工作方式与 GeoGuessr 相同 - 您会获得一张“街景”图像（我实际上使用的是 Apple LookAround，它几乎相同，但不花费我任何费用），然后您必须猜出这张图片是在哪里拍摄的。您可以移动并找到线索来确定位置。 大多数开发者喜欢对此类游戏收取订阅费，但由于您玩这款游戏不会给我带来任何经常性费用，因此我决定让所有人和所有其他国家/地区免费使用全球模式，只需购买 1.99 美元即可，希望能支付 100 美元苹果开发计划的费用。 如果您想查看，请访问以下链接：https://apps.apple.com/de/app/turboguessr-guess-locations/id6480343469?l=en-US 此外，欢迎随时对开发过程进行 AMA！   由    /u/TheBeaconCrafter  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ddeh88/i_coded_a_free_geoguessr_game_for_apple_devices/</guid>
+      <pubDate>Tue, 11 Jun 2024 13:44:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的 Product Hunt 发布经历</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ddeb0k/my_product_hunt_launch_experience/</link>
+      <description><![CDATA[大家好，我只是想分享我在 Product Hunt 上发布 (Formshare) 的经验。这是相当漫长的一天，我一路上学到了很多东西。 首先，我们设法在一天中大部分时间都保持在 6-7 位，这相当不错。然而，我们确实被一些可能获得付费点赞的产品挤到了第 11 位。这有点令人沮丧，但我想这就是游戏的本质。 获得这些结果的一个重要原因是我们从一开始就获得了推荐，这使得发布更加成功。PH 的新做法是，您看不到点赞，并且会在前 4 小时内轮换。所以，如果您要发布，请务必充分利用这段时间！ 另一个小推动是我们全天对 X 进行的更新。尽管我们没有从中获得大量流量，但有些人决定重新发布该链接，这很棒。我还向我们目前约 500 人的客户群发送了一封电子邮件，这肯定有帮助。 我也试图在 Reddit 上发布有关发布的信息，但没有成功。事实上，我犯了一个小错误，不小心在 Sass subreddit 上发布了帖子，而不是 Saas。是的，CSS 编译器 😀 一整天，很多人在 LinkedIn、Facebook 甚至 Instagram 上联系我，试图向我推销点赞。我的建议？不惜一切代价忽略他们。您不会想玩这个游戏的。 以下是一些统计数据：  我们网站的 800 个独立访客 Formshare 有 150 个新注册用户 Product Hunt 上有 156 个赞同  总体而言，我对结果感到满意。 作为之前发布产品但未引起注意的人，这次体验非常积极。 如果您打算在 PH 上发布产品，以下几点可能会有所帮助：  让现有用户群了解您的发布情况。 在社交媒体上定期提供更新。 利用前 4 个小时，在此期间，赞同计数会隐藏，特色产品会轮换。 避免与提供付费赞同的服务互动。 设定现实的期望！  …不要太沉迷于数字游戏。 感谢您的阅读，希望我的经验对你们有所帮助。 祝你好运！    由    /u/nikolay_dp 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ddeb0k/my_product_hunt_launch_experience/</guid>
+      <pubDate>Tue, 11 Jun 2024 13:36:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>您如何处理副业和日常工作带来的倦怠？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dddxke/how_do_you_handle_burnout_from_your_side_project/</link>
+      <description><![CDATA[我热爱我的工作，我真的热爱我的工作，但我认为我更热爱我的副业，因为我投入了大量的时间和热情。然而，这开始对我造成影响，因为我正在失去工作生活和个人生活之间的平衡，倦怠是真实存在的。 你们是如何应对倦怠的？我的意思是，我知道我需要更好的时间管理，但后来事情发生了，我想，然后它最终影响了我的生产力，我一直在考虑找另一个开发人员来帮助我的副业，即使我自己也是一名开发人员。我只是担心让别人参与我的副业，我的意思是，如果他们搞砸了怎么办？ 无论如何，你们是如何应对倦怠的？现在有什么挑战吗？我很想听听你的想法。    提交人    /u/maryhartwell   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dddxke/how_do_you_handle_burnout_from_your_side_project/</guid>
+      <pubDate>Tue, 11 Jun 2024 13:19:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>刚刚在 Product Hunt 上推出！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ddds79/just_launched_on_product_hunt/</link>
+      <description><![CDATA[大家好！ 今天，我们在 Product Hunt 上推出了 Zeacon，需要您的诚实反馈。Zeacon 是您的 24/7 人工智能营销人员，可优化您网站的视频以吸引、吸引和转化更多访问者。查看我们的发布并告诉我们您的想法！https://www.producthunt.com/posts/zeacon     提交人    /u/EducationalSlip5049   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ddds79/just_launched_on_product_hunt/</guid>
+      <pubDate>Tue, 11 Jun 2024 13:12:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>找到了这个有趣的副项目来检查你的打字速度</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dddeuz/found_this_fun_side_project_for_checking_your/</link>
+      <description><![CDATA[在寻找业余项目创意时，我偶然发现了这个简单有趣的业余项目 Minitype  简单的用户界面，练习打字的乐趣。我喜欢这样的项目，因此想与社区分享     由   提交  /u/consistent_dev   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dddeuz/found_this_fun_side_project_for_checking_your/</guid>
+      <pubDate>Tue, 11 Jun 2024 12:55:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们在 ProductHunt 上推出了它，现在怎么办？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ddcz3m/we_launched_on_producthunt_now_what/</link>
+      <description><![CDATA[大家好， 几天前我们在 Product hunt 上推出了 CUCV，我们没有在上面投入资金，只投入了我们仅有的一点时间（考虑到这是一个副项目）。 我们获得了相当多的赞同（30），但是没有评论/评价，网站点击量也非常少。 您认为值得投资我们的 PH 存在还是浪费时间？ https://www.producthunt.com/posts/cucv-curated-remote-jobs-in-tech     提交人    /u/CUCVjobs   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ddcz3m/we_launched_on_producthunt_now_what/</guid>
+      <pubDate>Tue, 11 Jun 2024 12:32:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>增强有效用户入职的力量！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ddcujk/adding_the_power_of_effective_user_onboarding/</link>
+      <description><![CDATA[      大家好， 在 Sketch Logo AI 上添加适当的用户入职体验后，收到了很多反馈，我着手解决这个问题。🚀🚀 你怎么看？有什么建议吗？ 如果您想查看：https://www.sketchlogo.ai/ https://reddit.com/link/1ddcujk/video/r12w767nqx5d1/player    提交人    /u/SketchDesign1   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ddcujk/adding_the_power_of_effective_user_onboarding/</guid>
+      <pubDate>Tue, 11 Jun 2024 12:26:06 GMT</pubDate>
+    </item>
     <item>
       <title>查看我们基于角色的待办事项应用程序，允许您的团队在成员之间轮换重复性任务！</title>
       <link>https://www.reddit.com/r/SideProject/comments/1ddcsux/check_out_our_rolebased_todo_app_allowing_your/</link>
@@ -25,90 +109,6 @@
       <description><![CDATA[大家好， 我目前正在开发一款应用，我一直在思考产品发布的重要性。产品发布在将潜在客户转化为用户方面不是潜在的中性因素，而考虑到工作量，则可能略显负面吗？例如，我个人经历过这样一种情况，有人宣布推出一款产品，我很想使用该服务，但在发布日期，出现了一些问题，我无法参与。从此再也没有听到或点击过与该项目相关的任何内容。 有人对此有什么想法吗？    提交人    /u/captainshargy   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1ddcm0t/why_should_one_start_a_product_launch/</guid>
       <pubDate>Tue, 11 Jun 2024 12:13:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个 Nuxt 3 SaaS 样板 - 更快发货</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ddchf3/i_made_a_nuxt_3_saas_boilerplate_ship_faster/</link>
-      <description><![CDATA[如果您想更快地交付您的创业公司，而不必担心开发身份验证、付款、政策页面和包含主要信息的登录页面。 访问https://rapidstack.in    提交人    /u/brunobrasil_ai   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ddchf3/i_made_a_nuxt_3_saas_boilerplate_ship_faster/</guid>
-      <pubDate>Tue, 11 Jun 2024 12:05:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>我不确定我的设计是否达到了标准。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ddcc5n/i_am_not_sure_if_my_design_is_hitting_the_mark/</link>
-      <description><![CDATA[昨天我重新设计了 cofounder.so 的登录页面，  更好的副本 干净的设计 Framer 开发  但我仍然不确定它是否达到了标准。 希望得到意见，这是链接 - 演示    提交人    /u/r0shan_jha   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ddcc5n/i_am_not_sure_if_my_design_is_hitting_the_mark/</guid>
-      <pubDate>Tue, 11 Jun 2024 11:58:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于腕部锻炼的 iOS 应用程序 - 无需应用内购买</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ddbzgd/ios_app_for_wrist_exercises_no_in_app_purchase/</link>
-      <description><![CDATA[Carpal 通过实时手部运动跟踪引导您进行有趣而有效的锻炼，以确保您做得正确。今天就开始您的健康双手之旅吧！免费试用，无需订阅。 App Store：https://apps.apple.com/us/app/carpal-tunnel-exercise/id6504142607 Product Hunt 支持：https://www.producthunt.com/products/carpal-tunnel-exercise     提交人    /u/im-here-to-lose-time   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ddbzgd/ios_app_for_wrist_exercises_no_in_app_purchase/</guid>
-      <pubDate>Tue, 11 Jun 2024 11:38:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了适合任何主题的测验/琐事应用程序</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ddb3wb/i_made_a_quiztrivial_app_for_any_topic/</link>
-      <description><![CDATA[大家好！ 我制作了这个测验应用，它可以生成任何主题的测验。您可以从任何建议的主题中进行选择，也可以输入自己的主题。您将获得一个为您独家生成的独特测验，您可以玩它，甚至可以与您的朋友分享！ 这开始是一个随机、有趣的项目，当时我们正在探索一些技术堆栈，但上周末我和我的朋友玩了将近一个小时！ 很想听到您的任何反馈或想法。 链接    提交人    /u/ritoromojo   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ddb3wb/i_made_a_quiztrivial_app_for_any_topic/</guid>
-      <pubDate>Tue, 11 Jun 2024 10:45:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>发现 Worklenz：一个开源、用户友好的项目管理工具！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ddb03y/discover_worklenz_an_open_source_userfriendly/</link>
-      <description><![CDATA[大家好， 我正在分享一些关于我一直在使用的工具的令人兴奋的消息，该工具名为 Worklenz。这是一款项目管理工具，最近开源了其代码，对于那些喜欢或需要软件透明度和定制化的人来说，这是一个绝佳的选择。 除了开源之外，Worklenz 真正与众不同之处在于其极其简单直观的 UI/UX。它旨在让项目管理和团队协作尽可能顺利。您无需精通技术即可浏览其功能，包括从任务管理和时间跟踪到强大的报告功能等。 无论您是小型团队还是大型企业的一员，Worklenz 都能满足您的需求。易于使用，非常适合那些可能觉得其他项目管理工具太复杂或难以应付的新用户。 如果您正在寻找一款易于使用、可定制且现已开源的项目管理工具，我强烈建议您尝试一下 Worklenz。它可能会彻底改变您的工作效率和团队协作。 网站：https://worklenz.com/ Github：https://github.com/Worklenz/worklenz 欢迎随时向我提问，我很想知道是否有其他人尝试过它！    提交人    /u/GayanThakshila   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ddb03y/discover_worklenz_an_open_source_userfriendly/</guid>
-      <pubDate>Tue, 11 Jun 2024 10:39:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>谈谈我的想法：为内容创建者推送通知</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ddauw3/roast_my_idea_push_notifications_for_content/</link>
-      <description><![CDATA[内容创作者有一个问题：他们依赖平台。我想出了一个解决方案，想知道你的想法 ⬇️ 创作者受制于平台推荐算法的变化。 更糟糕的是，他们不拥有自己的受众。如果社交网络禁止你，你将失去所有订阅者😵 只有时事通讯可以帮助你更加独立并建立受众。但电子邮件的效率越来越低。 这就是我为创作者创建推送通知解决方案的原因。 它是如何工作的？  分享您的推送订阅链接 您的受众只需单击一下即可订阅您的推送通知 您可以随时向他们发送通知，甚至可以从平台之外推广内容！  很高兴收到您的反馈！ （https://pushhh.it）    由    /u/nicolrx 提交   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ddauw3/roast_my_idea_push_notifications_for_content/</guid>
-      <pubDate>Tue, 11 Jun 2024 10:29:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>刚刚发布了我的副项目：适用于 iOS 和 macOS 的暗黑模式图标！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ddaqn1/just_released_my_side_project_dark_mode_icons_for/</link>
-      <description><![CDATA[        提交人    /u/viggozw   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ddaqn1/just_released_my_side_project_dark_mode_icons_for/</guid>
-      <pubDate>Tue, 11 Jun 2024 10:21:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 AI 生成 Tailwind 组件</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ddahem/generate_tailwind_components_with_ai/</link>
-      <description><![CDATA[      你好 Reddit！ 我很高兴介绍我的最新项目 TailwindAI，这是一个专为使用 Tailwind CSS 的开发人员提供的 AI 工具。这款创新工具可让您生成自定义 Tailwind CSS 组件，或者仅使用几个命令对现有组件进行迭代。 TailwindAI 的突出功能之一是它能够快速创建多个迭代，让您轻松探索各种设计选项。虽然它不提供直接的 HTML 代码编辑，但其迭代功能为您的设计过程提供了相当大的灵活性和易用性。 如果您能花点时间探索 TailwindAI 并分享您的想法，我将不胜感激。您的反馈非常有价值，将有助于进一步完善该工具。如果您觉得有用，请考虑注册。这将表明您的兴趣并鼓励我继续改进 TailwindAI。 在这里查看：tailwindai.dev 这个工具会对您的工作流程有所帮助吗？我期待听到您的想法！ https://preview.redd.it/1uxu6x2a2x5d1.png?width=1686&amp;format=png&amp;auto=webp&amp;s=98df90da6ea737427076aedd6951b659004b072b    提交人    /u/Free-Raspberry-9541   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ddahem/generate_tailwind_components_with_ai/</guid>
-      <pubDate>Tue, 11 Jun 2024 10:04:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>好的，我下定了决心。我要构建一个无代码的 Slack 机器人构建器！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ddacdr/ok_ive_made_up_my_mind_im_going_to_build_a_nocode/</link>
-      <description><![CDATA[​我想先用登陆页面测试需求。但是，我意识到我至少需要规划好机器人构建界面，这样人们才能知道产品是否适合他们。我已经整理了一个简短的 PRD，似乎我需要创建一个几乎和 Zapier 一样全面的东西 🤣 对于 MVP，我考虑专注于具有预览功能的 Block Kit 消息构建器（这将不同于 Slack 的官方网站，因为它实际上会发送消息）以及通过 webhook 进行集成。我认为这仍然值得，因为不需要为 Slack 机器人设置服务器。你们觉得怎么样？你有什么建议或疑虑吗？    提交人    /u/tamini_kim   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ddacdr/ok_ive_made_up_my_mind_im_going_to_build_a_nocode/</guid>
-      <pubDate>Tue, 11 Jun 2024 09:56:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作并训练了我自己的标签生成器</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dda7d4/i_made_and_trained_my_own_hashtag_generator/</link>
-      <description><![CDATA[我真的不喜欢选择主题标签，所以我构建了这个 AI 工具（不用担心，它不是另一个 GPT 包装器，它使用自定义循环神经网络）来提供帮助。  它已经在近 10 亿个数据点上进行了训练 - 而且非常有效！您给它一个主题标签，它将在几毫秒内输出下一个主题的 5 个建议。 我想与社区分享它 :) https://next-hashtag.instagram.mmediagroup.fr - 加载可能需要一秒钟，模型为 14mb 并完全在您自己的机器上以客户端方式运行，没有数据存储在任何地方，没有 API 调用，什么都没有。    提交人    /u/mwargan   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dda7d4/i_made_and_trained_my_own_hashtag_generator/</guid>
-      <pubDate>Tue, 11 Jun 2024 09:46:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>这个登陆页面够好吗？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dd9mmr/is_this_landing_page_good_enough/</link>
-      <description><![CDATA[我已经在我的 NextJs 登陆页面市场 (PagePin) 上推出了一个新的登陆页面 我希望对登陆页面 - pagep.in/designs/4 所以你们可以自由地批评这个设计。    提交人    /u/GreatImpact3761   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dd9mmr/is_this_landing_page_good_enough/</guid>
-      <pubDate>Tue, 11 Jun 2024 09:03:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>释放您机构的潜力：NOTION 中的一个强大操作系统</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dd9ksz/unleash_your_agencys_potential_one_powerful_os_in/</link>
-      <description><![CDATA[      想象一下管理您的整个机构 - 客户、项目和团队 - 从一个单一的、可定制的中心。Notion 的代理工作区 OS 使这成为现实。  准备好改变您的代理机构了吗？ 获取您的代理操作系统   轻松组织：抛弃分散的电子表格和断开连接的工具。在一个直观的平台中保持一切简化和可访问。 促进协作：通过实时共享工作区促进无缝团队合作。队友可以轻松协作、集思广益和跟踪进度。 触手可及的客户成功：为每个项目提供专用的工作区，给客户留下深刻印象。共享文件、更新和通信 - 全部在透明且有组织的系统内完成。  https://preview.redd.it/ybvzbgkeqw5d1.png?width=4375&amp;format=png&amp;auto=webp&amp;s=9e006cab424dbcfbc49d965da043e8f7f26aad3c      由   提交  /u/thegoodieslab   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dd9ksz/unleash_your_agencys_potential_one_powerful_os_in/</guid>
-      <pubDate>Tue, 11 Jun 2024 09:00:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
