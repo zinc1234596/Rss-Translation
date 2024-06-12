@@ -4,7 +4,21 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Wed, 12 Jun 2024 03:14:35 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Jun 2024 06:17:52 GMT</lastBuildDate>
+    <item>
+      <title>我创建了 QuillWord - 一款面向学生和研究人员的 AI 阅读和写作工具</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ddz2yz/i_built_quillword_an_ai_reading_writing_tool_for/</link>
+      <description><![CDATA[      大家好， 我开发了 QuillWord，这是一款 AI 阅读和写作工具，旨在使写作更轻松、更高效，QuillWord AI 填补了其他 AI 辅助工具留下的空白。无论是撰写文章、研究论文、产品描述、博客内容、聊天文档还是搜索互联网，QuillWord 都能简化流程，这源于我对常见辅助工具局限性的个人经验。 QuillWord 的功能：  内联 AI 建议：我们允许 AI 通过按 Tab 自动分段，如果您需要自动化，只需启用它即可。 大纲生成器：根据一个用户主题生成大纲 &amp;文档描述 释义：允许用户通过选择并询问AI来释义您的文本。 引用：我们与semanticscholar合作以集成自动引用支持，此外，我们还允许用户手动添加引用并由图书馆管理 AI电子邮件生成器：生成电子邮件并允许内联编辑，利用AI writer的技术。 PDF聊天：您可以与PDF文件或网站URL或任何文本聊天。 AI Copilot：您可以访问互联网以获取最新趋势（只需启用它）或连接到您的知识库以开始与多个文档或网站聊天。 AI角色：为了自定义响应，我还创建了角色，允许用户将自己的角色带入聊天如果您有任何好主意，您认为可以以任何方式帮助我们，请告诉我。  QuillWord - 一体式 AI 副驾驶 提前感谢您的支持和反馈！ 查看：QuillWord AI    提交人    /u/CarpenterMediocre623   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ddz2yz/i_built_quillword_an_ai_reading_writing_tool_for/</guid>
+      <pubDate>Wed, 12 Jun 2024 05:29:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>Zeacon 正艰难地争取 Product Hunt #1......</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ddxjth/zeacon_is_hanging_onto_product_hunt_1_by_a_thread/</link>
+      <description><![CDATA[      大家好！  今天在 Product Hunt 上，我介绍了 Zeacon – 24/7 视频营销商  到目前为止，我们目前保持着第一的位置，但竞争越来越激烈！！  如您支持我，我将非常高兴！！！  https://www.producthunt.com/posts/zeacon  https://preview.redd.it/1ysg2dwkd26d1.png?width=1728&amp;format=png&amp;auto=webp&amp;s=38e8286e6ab372581dec0cf831b3189363d8da60   由    /u/Varicoche  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ddxjth/zeacon_is_hanging_onto_product_hunt_1_by_a_thread/</guid>
+      <pubDate>Wed, 12 Jun 2024 03:57:13 GMT</pubDate>
+    </item>
     <item>
       <title>编辑内容后哪个更好？</title>
       <link>https://www.reddit.com/r/SideProject/comments/1ddvstx/which_is_better_after_editing_content/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[      大家好， 我开发了 QuillWord，这是一款 AI 阅读和写作工具，旨在使写作更轻松、更高效，QuillWord AI 填补了其他 AI 辅助工具留下的空白。无论是撰写文章、研究论文、产品描述、博客内容、聊天文档还是搜索互联网，QuillWord 都能简化流程，这源于个人对常见辅助工具限制的经验。 QuillWord 的功能：  内联 AI 建议：我们允许 AI 自动分段，只需按 Tab 键即可，如果您需要自动化，只需启用它即可。 大纲生成器：根据一个用户主题生成大纲 &amp;文档说明 释义：允许用户通过选择并询问 AI 来释义您的文本。 引用：我们与 semanticscholar 合作以集成自动引用支持，此外，我们还允许用户手动添加他们的引用并由图书馆管理 AI 电子邮件生成器：生成电子邮件并允许内联编辑，利用 AI 作家的技术。 PDF 聊天：您可以与 PDF 文件或网站 URL 或任何文本聊天。  AI Copilot：您可以访问互联网以获取最新趋势（只需启用它）或连接到您的知识库以开始与多个文档或网站聊天。 AI Persona：为了自定义响应，我还创建了角色，允许用户将自己的角色带入聊天中如果您有任何好的想法，您认为可以以任何方式帮助我们，请告诉我。  QuillWord - 一体式 AI Copilot 提前感谢您的支持和反馈！ 查看：QuillWord AI    由   提交  /u/Substantial-Active55   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1ddj7qn/i_built_quillword_an_ai_reading_writing_tool_for/</guid>
       <pubDate>Tue, 11 Jun 2024 17:03:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个网站来快速验证 SaaS 想法</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ddizpw/i_created_a_website_to_validate_a_saas_idea/</link>
-      <description><![CDATA[在浪费时间开发多个 SaaS 而没有首先验证想法之后，我意识到推出 SaaS 的最佳方式是“假装直到成功”。这就是为什么在开始开发任何东西之前推销你的想法并看看人们是否对它感兴趣很重要。  这就是我创建 Start List 的原因，这是一个让我们在几分钟内创建登录页面和等待列表的网站。我们所要做的就是添加登录页面的内容，然后发布它。  发布后，您可以开始营销产品，用户访问登录页面并注册等待列表。  有了这个等待列表，我们稍后可以通过他们的电子邮件与人们重新联系，并从应用程序启动时获得第一批用户反馈。 https://getstartlist.com/ 如果你们中有任何人有想要推出的想法，请不要犹豫，尝试一下并给我你的反馈！:)    提交人    /u/Tiny_Shoe1043   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ddizpw/i_created_a_website_to_validate_a_saas_idea/</guid>
-      <pubDate>Tue, 11 Jun 2024 16:54:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>构建工具将图像和/或 PDF 转换为表格</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ddiks7/build_an_tools_convert_images_andor_pdfs_to_tables/</link>
-      <description><![CDATA[  由    /u/Substantial-Active55  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ddiks7/build_an_tools_convert_images_andor_pdfs_to_tables/</guid>
-      <pubDate>Tue, 11 Jun 2024 16:37:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
