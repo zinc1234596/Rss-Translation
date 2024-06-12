@@ -4,7 +4,98 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Wed, 12 Jun 2024 15:12:49 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Jun 2024 18:18:22 GMT</lastBuildDate>
+    <item>
+      <title>使用视频数据构建 RAG 应用程序</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1decelw/using_video_data_for_building_rag_application/</link>
+      <description><![CDATA[有人使用视频中的数据构建 RAG 吗？我在想类似从视频中提取内容并生成嵌入的方法，就像典型的 RAG 一样。我看到很多应用程序都是基于文档和文本数据构建的，但基于视频数据构建的却不多。 是否有特定原因限制了使用视频中的数据的采用，或者它很常见而我只是不知道？    提交人    /u/dphntm1020   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1decelw/using_video_data_for_building_rag_application/</guid>
+      <pubDate>Wed, 12 Jun 2024 17:32:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>分享一些来自项目 IndieAnalytics 的指标...对于转化率低下的原因，您有什么想法吗？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dec6ur/sharing_some_metrics_from_project/</link>
+      <description><![CDATA[      我最近在 reddit 上发布了一篇关于我的项目 IndieAnalytics 的帖子，这是一个面向独立黑客和早期创始人的分析工具。可以将其视为 Google Analytics 或 MixPanel 的更易于使用的替代方案……但它还可以为您处理候补名单和联系表格。帖子在这里：https://www.reddit.com/r/SideProject/comments/1db6prx/i_built_a_free_tool_for_your_landing_pages_web/ 当然，我为我的着陆页使用自己的分析平台，并收集了一些分析数据，以了解我可以优化的地方。仪表板的一部分如下所示。 对我来说最有趣的部分是右下角的图表：页面滚动深度。基本上，它显示了有多少人访问了该页面，有多少人看到了我的页面的第一部分、第二部分、第三部分（定价页面）、第四部分。 我想弄清楚为什么没有人注册使用我的免费工具。从下面的数据来看，我的逻辑推理是：  看到我帖子的人决定访问我的 URL（因此我试图解决的问题对某些人来说很有趣） 许多人（50％）在页面的英雄部分之后停留（因此我的登录页面不会太丑以至于人们立即跳出） 大多数没有跳出的人（77％）最终查看了整个页面（因此我的解决方案足够有趣，他们想继续阅读） 大多数人（86％）都知道使用该平台是免费的（因为他们已经看到了定价页面）  我有几个假设：  人们认为我的解决方案足够有趣，可以继续阅读，但没有看到他们正在寻找的具体内容。 人们对免费产品持怀疑态度。 我提供的解决方案不够清晰（人们试图阅读整个页面以找出我是什么提供）  我很想知道是否有人对我的免费产品无法转换的原因有任何想法！ 感谢您的时间！ https://preview.redd.it/nzqa22fkb66d1.png?width=1399&amp;format=png&amp;auto=webp&amp;s=0944398ed7024091f01f8352b47beb70564fa96c    由    /u/MyEducatedGuess  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dec6ur/sharing_some_metrics_from_project/</guid>
+      <pubDate>Wed, 12 Jun 2024 17:23:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>我已经向我的网站添加了多种语言</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dec50f/ive_been_adding_multiple_languages_to_my_sites/</link>
+      <description><![CDATA[我一直在浏览我的网站并添加多种语言。例如，我有 Months To 和 Formulas Today，每个都有一个下拉菜单和语言选择器。我发现在静态网站生成中让语言和 URL 工作并不容易。但我认为我在这方面做得越来越好。我很感激任何人对这类变化的反馈。 我使用了谷歌翻译，并在可能的情况下对各种语言进行了抽查。我承认我正在使用自动化工具来获取翻译。 谢谢！    提交人    /u/cptrootbeer   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dec50f/ive_been_adding_multiple_languages_to_my_sites/</guid>
+      <pubDate>Wed, 12 Jun 2024 17:21:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>是否曾获得过 AWS、GCP 或 OpenAI 的信用？如果有，有多少？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1debwrq/ever_received_credits_from_aws_gcp_or_openai_if/</link>
+      <description><![CDATA[哦，还有 - 什么时候 😸 另外，想知道你做了什么来获得它们？或者有什么获得它们的技巧？ 背景：我们正在收购一家公司，他们位于欧盟。我们将为美国的所有 AWS、GCP 和 OpenAI 创建新帐户 我们今年也成立了公司，所以我们是一家新公司。    提交人    /u/chddaniel   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1debwrq/ever_received_credits_from_aws_gcp_or_openai_if/</guid>
+      <pubDate>Wed, 12 Jun 2024 17:11:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>穿西装</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1debwim/wearing_suit/</link>
+      <description><![CDATA[  由    /u/Odd_District_5173  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1debwim/wearing_suit/</guid>
+      <pubDate>Wed, 12 Jun 2024 17:11:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>我正在帮助创始人推广他们的 B2B 初创公司</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1debtpy/im_helping_founders_to_promote_their_b2b_startup/</link>
+      <description><![CDATA[        由    /u/WildCraft4115  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1debtpy/im_helping_founders_to_promote_their_b2b_startup/</guid>
+      <pubDate>Wed, 12 Jun 2024 17:08:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了 Emaki，这是一款可以让你创作简短的表情符号故事来分享的应用</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1debipv/ive_created_emaki_an_app_that_allows_you_to/</link>
+      <description><![CDATA[        由    /u/sido378   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1debipv/ive_created_emaki_an_app_that_allows_you_to/</guid>
+      <pubDate>Wed, 12 Jun 2024 16:55:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>本地接收支付处理器 webhook 事件的工具</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1debdpt/a_tool_to_receive_payment_processor_webhook/</link>
+      <description><![CDATA[我正致力于将 lemon squeezy 付款功能集成到应用程序中，这时我意识到，如果不先部署网站，就无法在本地测试 webhook。 因此，我使用 fastapi 制作了一个简单的 python 应用程序来接收 webhook 事件并将其转发到我的本地应用程序/网络服务器。该工具可用于来自本地网络之外的服务的任何 POST 请求，而不仅限于支付处理器。 请建议任何您认为在这样的工具中有用的功能以及任何可以执行此操作的现有工具（快速谷歌搜索没有产生任何好结果）。 谢谢。 Github URL：https://github.com/kry0sc0pic/WebhookRelay   由    /u/0xkryo  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1debdpt/a_tool_to_receive_payment_processor_webhook/</guid>
+      <pubDate>Wed, 12 Jun 2024 16:49:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>我会重新设计你的登陆页面，很有趣（免费）</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1deam01/ill_redesign_your_landing_page_for_fun_free/</link>
+      <description><![CDATA[作为一名产品设计师，我目前很享受重新设计页面作为一种*乐趣出口*。如果您允许我在社交媒体上发布我的重新设计，我很乐意免费改造您的登录页面或您想要的任何其他页面！ 这里没有任何陷阱 - 它完全免费，您无需进行进一步的沟通即可获得您的重新设计。我只需将其直接发送给您即可。 关于我：我有三年以上的设计经验，并且在登录页面设计方面经验丰富。 感兴趣吗？请随时给我发私信或发表评论并附上您网站的链接！    提交人    /u/Positive_Towel_966   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1deam01/ill_redesign_your_landing_page_for_fun_free/</guid>
+      <pubDate>Wed, 12 Jun 2024 16:17:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>DataAnalyst.com - 我推出了一个专门招聘网站，上面有精心挑选的数据分析师职位。以下是 17 个月后的进展总结</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dea5ca/dataanalystcom_i_launched_a_niche_job_board_with/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dea5ca/dataanalystcom_i_launched_a_niche_job_board_with/</guid>
+      <pubDate>Wed, 12 Jun 2024 15:58:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个工具，可以把任何数字转换成极其复杂的数学方程式</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1de9sj3/i_made_a_tool_that_turns_any_number_into_an/</link>
+      <description><![CDATA[        由    /u/xk4rimx 提交   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1de9sj3/i_made_a_tool_that_turns_any_number_into_an/</guid>
+      <pubDate>Wed, 12 Jun 2024 15:43:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>图腾 - 用于聚焦的进度条</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1de9owj/totem_a_progress_bar_for_focusing/</link>
+      <description><![CDATA[我开发了一个应用程序来帮助我在工作时不碰手机。我说出我想做什么以及要花多长时间，然后它会启动一个进度条来显示这段时间。就是这样！它会在整个会话期间保持开启状态，因此它充当物理提醒或“图腾”以保持专注。  查看：https://apps.apple.com/us/app/deep-work-timer-totem/id6503956026    提交人    /u/Kinslaer   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1de9owj/totem_a_progress_bar_for_focusing/</guid>
+      <pubDate>Wed, 12 Jun 2024 15:39:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个 100% 免费的 MyFitnessPal 替代品</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1de9bfl/i_made_a_100_free_alternative_to_myfitnesspal/</link>
+      <description><![CDATA[“天啊，又来一个？真的吗？” -你可能 我知道你在想什么，健身应用是一个竞争激烈的领域，每个人和他们的母亲都做过或者想过要做一个。 但这里有一个区别。 因为它是 100% 免费的，而且永远都是 100% 免费的。 一些最终消亡的小型健身应用只是试图成为 MyFitnessPal Jr。 他们会有一个高级订阅，当然，也许它更便宜，但通常不值得，免费层级不断缩小（MyFitnessPal 也是如此，他们已经对以前免费的功能（如条形码扫描仪）进行了付费），直到应用消亡，因为没有必要使用它，因为它只是现有应用的较差版本。 免费版本对我来说一直足够了，但是当他们拿走一个关键功能时，我决定制作自己的健身应用，但要比其他的更好。  而且因为我不是一家大公司，我不需要赚取 3 亿美元的收入（他们 2023 年的实际收入，哈哈），我只需维持我的服务器成本并无限期地维持这个东西。 我将运行应用内横幅广告（没有弹出窗口或随机视频或任何分散注意力的内容），目前的计算表明，这可以大规模支付我的所有费用。 但主要的一点是，它是 100% 免费的，它永远免费，你可以免费使用每个功能。 你知道你是怎么知道的吗？ 因为它被称为： 健康模式：免费健身 ➡️功能包括： - 食物 + 水跟踪，包括卡路里、宏量营养素、微量营养素 - 超过 250,000 种食物的食品数据库，并且还在不断增长 - 免费条码扫描器 - 定制食品 - 定制餐点-最喜欢的食物 -每天自定义卡路里、宏量营养素、微量营养素目标 -每天自定义膳食名称和编号（1-6） -体重跟踪 -身体测量跟踪包括：体脂百分比、腰围、手臂测量等等！ -每天最多 3 张进度图片，以捕捉您体格的不同方面 -体重变化 5 磅或以上时自适应卡路里重新计算（按比例改变自定义营养目标而不是覆盖） -锻炼记录 -预制锻炼 -自定义锻炼生成器 -不同类型的组合，热身、正常、递减组、失败组合 -内置自动休息计时器和已用运动计时器 - 查看肌肉恢复情况 - 查看之前的锻炼 还有更多内容！ ——————————————————— TLDR: 我制作了一款名为 HealthMode：免费健身 的免费健身应用，每个功能都是 100% 免费的，无需高级订阅或付费墙。 预计将于 6 月 21 日发布： 查看 Product Hunt Teaser 加入 500 多人参与 Beta 测试    由    /u/TiernanDeFranco 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1de9bfl/i_made_a_100_free_alternative_to_myfitnesspal/</guid>
+      <pubDate>Wed, 12 Jun 2024 15:22:48 GMT</pubDate>
+    </item>
     <item>
       <title>终身免费的电视遥控器应用程序。</title>
       <link>https://www.reddit.com/r/SideProject/comments/1de909e/lifetime_free_tv_remote_control_app/</link>
@@ -18,97 +109,6 @@
       <description><![CDATA[      etYourSize 是一款 iOS 和 Android 设备，仅需一张纸和智能手机即可测量脚部尺寸。 该应用允许用户将自己的脚部尺寸与最大品牌的鞋子尺码进行匹配。 这降低了卖家的退货率，并使网上买鞋变得轻松免费。 如果您愿意帮助我们，请给我发送您最喜欢的鞋子的名称、尺码以及您的脚的长度和宽度。或者下载应用程序；） 希望你喜欢我们的工具。 如果您有任何疑问，请告诉我。 GetYourSize.App的测量过程 GetYourSize.app的鞋子尺码匹配    由    /u/Cheesy_Mc_Cheese  提交  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1de8zxm/getyoursize_measure_your_feet_before_buying_shoes/</guid>
       <pubDate>Wed, 12 Jun 2024 15:09:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>创建一个网站来增加流量，保护反向链接，并为独立创始人吸引潜在客户。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1de8q8i/created_a_site_to_boost_traffic_secure_backlinks/</link>
-      <description><![CDATA[        由    /u/Inevitable-Baker-504   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1de8q8i/created_a_site_to_boost_traffic_secure_backlinks/</guid>
-      <pubDate>Wed, 12 Jun 2024 14:58:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>先解决我自己的问题！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1de8od3/solving_my_own_problem_first/</link>
-      <description><![CDATA[      过去几天，我一直在开发 Chrome 扩展程序来解决我经常遇到的一个问题：阅读长电子邮件并撰写连贯的回复。我以为 ChatGPT 可以提供帮助，但我不想复制和粘贴的麻烦。因此，我创建了 CoMailer AI，以生成具有我个人风格的专业电子邮件回复！我还添加了诸如语音转写回复和文本改写等功能。我很高兴与您分享这一点，更多功能即将推出！ 如果您有兴趣测试它，这里是链接：https://chromewebstore.google.com/detail/comailer-ai-personalized/ngajlmmfogbdpoonkhfdeehbpiobmgfo  目前正在进行 Beta 测试，它是免费的！ 我也很高兴成为您项目的第一个测试员。把网址发给我！    提交人    /u/adwaithks   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1de8od3/solving_my_own_problem_first/</guid>
-      <pubDate>Wed, 12 Jun 2024 14:56:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>我使用人工智能生成的人重建了 Facemash。投票选出谁最火，然后查看排行榜</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1de8c7b/i_rebuilt_facemash_with_ai_generated_people_vote/</link>
-      <description><![CDATA[        由    /u/Jonovono  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1de8c7b/i_rebuilt_facemash_with_ai_generated_people_vote/</guid>
-      <pubDate>Wed, 12 Jun 2024 14:41:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要反馈：我创建了 AI Toolhouse 一个 AI 工具目录来帮助您找到最好的 AI 工具！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1de82k6/need_feedback_i_created_ai_toolhouse_an_ai_tools/</link>
-      <description><![CDATA[      大家好， 我是 AI Toolhouse 的创建者，这是一个 AI 工具目录，列出了超过 3700 个 AI 工具。每天都有新工具推出，因此要及时了解最佳选项是一项挑战。这就是 AI Toolhouse 的用武之地！ 以下是我添加的一些很酷的功能  智能聊天机器人：根据您的需求快速查找工具。 智能聊天机器人：根据您的需求快速查找工具。 80 多个类别：工具井然有序，方便浏览。 简洁的界面：简单、用户友好的用户界面，让查找工具变得简单 详细描述：包括价格、功能等在内的深入信息。  我希望您能查看一下，并就如何使其变得更好给我反馈：AI Toolhouse - AI 工具目录 我正在尝试让它尽可能地适合所有人，为此我需要您的帮助。请大家帮我提供反馈😁 AI Toolhouse    提交人    /u/rathwiper   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1de82k6/need_feedback_i_created_ai_toolhouse_an_ai_tools/</guid>
-      <pubDate>Wed, 12 Jun 2024 14:30:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>我建立了一个模板市场，如果可能的话，希望得到一些反馈。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1de7hjd/i_built_a_template_marketplace_and_would_like_to/</link>
-      <description><![CDATA[大家好， 最近我一直在思考整个“市场”商业模式，为了更多地了解它并进行测试，我决定尝试在该领域内构建一些东西。因此，我花了几周时间构建了一个网站模板市场，如果可能的话，我很乐意得到一些反馈。 这个想法很简单，与其他模板市场类似，用户从一系列预建模板中找到他们喜欢的模板，付款，下载并获得该模板的完整商业使用权。 该项目名为 Plexfolio。请记住，由于我才刚刚开始，该网站仍然相对内容空白，但我很想获得有关商业模式的功能和可行性的一些反馈。 此外，如果有人有兴趣合作这个项目，我很乐意聊聊。 附言：我找不到 r/sideproject 的任何社区准则，因此如果反馈帖子违反任何准则，请告诉我，我会立即删除。 干杯    提交人    /u/WesamMikhail   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1de7hjd/i_built_a_template_marketplace_and_would_like_to/</guid>
-      <pubDate>Wed, 12 Jun 2024 14:05:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的副业是为我的其他副业制作病毒式视频</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1de6pei/my_side_project_is_making_viral_videos_for_my/</link>
-      <description><![CDATA[我已经构建了一个应用程序来帮助我为社交媒体创建短视频来推广我的应用程序。 我用它来为我的目标受众和利基市场制作视频来发展我的频道。 但是它可以用于许多其他方式。 您可以提供文本脚本或想法，它会创建带有画外音和人工智能视觉效果的完整编辑视频。 查看网站以查看示例及其工作原理。 很乐意听到您的反馈和改进方法。    提交人    /u/payamsaremi   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1de6pei/my_side_project_is_making_viral_videos_for_my/</guid>
-      <pubDate>Wed, 12 Jun 2024 13:30:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>我将无代码开发服务产品化</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1de63w0/i_productized_my_service_of_nocode_development/</link>
-      <description><![CDATA[雇用开发人员或传统机构的时间很长、很累，而且非常……非常昂贵。 此外，有时现成的软件不足以满足您的需求，或者对您的业务而言功能过于臃肿。 因此，我开始着手将我现有的技能打包到 DevGlide 中，这是一项产品化服务，专门为企业开发定制的内部软件。 想想 DesignJoy，但用于软件开发。 使用 DevGlide，开发速度更快，并且是企业获取定制内部软件的一种经济实惠的方式。只需支付固定的月费，您就可以获得专门的开发人员、无限制的开发请求和修订，以及实时跟踪以让您随时了解最新情况。 无需聘请开发人员，花费数小时审查自由职业者，或与代理机构签订具有约束力的合同 当您不需要我们进行任何开发时，您可以暂停订阅并在准备好时取消暂停，这样您就不会在此过程中损失任何金钱。 有什么问题吗？我很乐意回答 :) 编辑：该网站是 DevGlide    提交人    /u/Abdulaa_Ali   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1de63w0/i_productized_my_service_of_nocode_development/</guid>
-      <pubDate>Wed, 12 Jun 2024 13:02:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个无广告的产品搜索引擎。它可以立即找到给定产品的所有报价。它适用于德国、瑞士和奥地利。适用于每种产品。平均而言，您搜索的每件产品可节省 14%。请好好评价一下。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1de5v0z/i_have_created_an_adfree_product_search_engine_it/</link>
-      <description><![CDATA[        提交者    /u/Fun-Leadership-7323   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1de5v0z/i_have_created_an_adfree_product_search_engine_it/</guid>
-      <pubDate>Wed, 12 Jun 2024 12:49:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一款名为“专注”的生产力套件来对抗分心。（更多内容见评论）</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1de5ozm/i_made_a_productivity_suite_to_combat_my/</link>
-      <description><![CDATA[        提交人    /u/divine-architect   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1de5ozm/i_made_a_productivity_suite_to_combat_my/</guid>
-      <pubDate>Wed, 12 Jun 2024 12:41:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源 LinkedIn 抓取工具</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1de52gr/open_source_linkedin_scraper/</link>
-      <description><![CDATA[        提交人    /u/devildaniii   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1de52gr/open_source_linkedin_scraper/</guid>
-      <pubDate>Wed, 12 Jun 2024 12:08:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>嗨！受到 Wordle 的启发，我创建了 Stockdle — 一个每日股票猜谜挑战网站。该网站有两种模式：经典模式，你从提供的图表中猜出股票，票证模式是股票的 Wordle。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1de4hzv/hi_inspired_by_wordle_i_created_stockdlea_daily/</link>
-      <description><![CDATA[        提交人    /u/Stockdle   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1de4hzv/hi_inspired_by_wordle_i_created_stockdlea_daily/</guid>
-      <pubDate>Wed, 12 Jun 2024 11:37:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>我建立了一个简单的方法来制作具有 markdown 集成的作品集/博客</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1de4evd/i_built_an_easy_way_to_make_a_portfolio_blog/</link>
-      <description><![CDATA[portfolo.app 是一款使用 Markdown 创建简历和博客的简单应用程序。我为所有曾经对创建作品集的过程感到不知所措或只是没有时间从头开始创建作品集的人构建了它。    提交人    /u/drexty   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1de4evd/i_built_an_easy_way_to_make_a_portfolio_blog/</guid>
-      <pubDate>Wed, 12 Jun 2024 11:31:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>查看 Rad 相机！！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1de4abq/check_out_rad_camera/</link>
-      <description><![CDATA[Rad Camera 今天在 Product Hunt 上线了！ 如果您希望在早晨的例行工作中多出 15 分钟，Rad Camera 就是答案。这款 Chrome 扩展程序可让您在视频通话中立即看起来精致而专业 - 即使您刚起床。 我一直在使用 Rad Camera，它改变了游戏规则。 请查看我们的 Product Hunt 页面、给我们点赞并发表评论来表示您的支持。您的反馈非常宝贵！ https://www.producthunt.com/posts/rad-camera    提交人    /u/sias_01   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1de4abq/check_out_rad_camera/</guid>
-      <pubDate>Wed, 12 Jun 2024 11:24:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
