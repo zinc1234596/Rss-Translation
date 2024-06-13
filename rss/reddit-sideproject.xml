@@ -4,7 +4,98 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Thu, 13 Jun 2024 09:14:56 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jun 2024 12:24:49 GMT</lastBuildDate>
+    <item>
+      <title>我如何制作一个工具来发现并解决人们愿意付费的问题</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dexk97/how_i_made_a_tool_to_find_problems_to_solve_which/</link>
+      <description><![CDATA[嘿，骗子们！ 创始人经常会打造“聪明”或“独特”的产品，并希望事后能引起客户的兴趣。不幸的是，这几乎从来都行不通。创始人浪费时间打造的产品既不符合消费者需求，又无法提供足够的价值让人们购买。 我也犯过这个错误。过去，我浪费了大量时间打造产品，最后却默默无闻地推出了它们。 所以现在，我发誓要采取问题优先的方法。 这意味着要确定人们正在寻找解决方案的问题，以及他们愿意为此付费的问题。 我创建了一个小工具来搜索 reddit，查找“我该怎么做”和“帮我”类型的帖子。 ProblemFinder 可让您搜索 subreddits 和搜索术语，让您轻松找到正在寻找问题解决方案的潜在客户。 通过分析 Reddit 和其他社交媒体上的讨论，它突出显示用户面临的真正问题，指导产品开发以满足市场需求。这降低了创建缺乏需求的解决方案的风险，确保产品和用户要求之间更好地契合。 该工具处于早期 MVP 阶段 - 请查看（并留下反馈）！这是一个附带项目，但希望通过正确的反馈，我可以将其变成伟大的东西。 感谢所有反馈！    提交人    /u/welcome_to_milliways   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dexk97/how_i_made_a_tool_to_find_problems_to_solve_which/</guid>
+      <pubDate>Thu, 13 Jun 2024 12:16:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>希望对项目提出反馈</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dex8bp/wanting_feedback_on_a_project/</link>
+      <description><![CDATA[前段时间，我在寻找一款可以帮助我处理日常事务的应用，比如我可以添加我的日常事务，每天刷新日常任务，通知我有关任务的信息等，而不是一款简单的应用。  我没有找到任何这样的应用。所以我决定创建自己的应用，并包含我提到的所有这些功能。  我在寻求反馈。任何反馈都会受到热烈欢迎    提交人    /u/armaan-dev   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dex8bp/wanting_feedback_on_a_project/</guid>
+      <pubDate>Thu, 13 Jun 2024 11:58:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>我如何获得对我的开源副项目的支持？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dex5ax/how_can_i_get_support_for_my_opensource/</link>
+      <description><![CDATA[我正在利用业余时间开发一款 P2P 聊天应用，并通过朝九晚五的工作为其提供资金。我认为该项目已经足够成熟，我可以寻求支持。 经过&quot;研究&quot;（在 reddit 上征求反馈意见），我得出结论，出于许多充分的理由，我的应用必须开源。 虽然我创建了诸如资助平台帐户之类的东西，但我不知道如何鼓励那里的流量。 我希望达到可以通过捐赠来支付应用运营成本的水平。这不现实吗？    提交人    /u/Accurate-Screen8774   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dex5ax/how_can_i_get_support_for_my_opensource/</guid>
+      <pubDate>Thu, 13 Jun 2024 11:53:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要反馈：BeforeSunset AI 的 Oasis - 您梦想中的深度专注工作空间</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dewzu9/feedback_needed_oasis_by_beforesunset_ai_your/</link>
+      <description><![CDATA[      大家好， 我最近在今天推出的 BeforeSunset AI 中添加了一项名为 Oasis 的新功能。我想与大家分享并获得一些反馈！ https://preview.redd.it/uywx1z2vtb6d1.png?width=1280&amp;format=png&amp;auto=webp&amp;s=d436df4790e4b51476a0259bcdaa37bde1172814 主要特点：  AI 氛围生成器：使用 AI 自定义您的工作区环境。无论您想在熙熙攘攘的咖啡馆还是宁静的海滩工作，您都可以创造理想的环境。 番茄工作法：使用番茄工作法提高工作效率。设置专注工作的时间间隔，然后进行短暂休息，以保持全天的高能量水平。 子任务：将较大的任务分解为较小的、可管理的部分，以提高工作效率。 记笔记：将所有笔记保存在一个地方。无论是快速提醒还是长篇内容，都可以。 音乐和声音：从各种音乐和声音中进行选择，如爵士乐、低保真、鸟鸣声和白噪音，以增强您的注意力。 Spotify 集成即将推出！ 每日表现：获取每日激励信息，让您精神振奋、头脑集中。 共享工作区：在社交媒体上分享您的自定义工作区，以获得额外的 AI 积分。  最好的部分是，您将能够免费试用 Oasis 并亲自探索所有这些令人惊叹的功能。如果您是一个难以保持井然有序或保持专注的人，这可能会改变您的游戏规则。 寻求反馈 我真的很想知道大家对 Oasis 的看法。您认为生产力工具中最有用的功能是什么？有什么改进建议吗？ 让我们讨论并互相帮助，找到保持高效和积极性的最佳方法！ 链接：BeforeSunset AI 的 Oasis 期待您的想法和反馈！ 干杯。    由   提交  /u/productivelif   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dewzu9/feedback_needed_oasis_by_beforesunset_ai_your/</guid>
+      <pubDate>Thu, 13 Jun 2024 11:44:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们制作了一个无限制的免费图像转换工具</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dewmo6/weve_made_a_free_image_converter_tool_with_no/</link>
+      <description><![CDATA[嘿！我知道有很多图像转换工具，但几乎所有工具都有一定的限制或付费墙。我每周转换数百张图片，使用这些有限制的工具真的很令人沮丧。  有些可能会要求您注册 有些可能会要求您付费或订阅月度订阅 每天转换次数有限 或者它可能只是一个复杂的工具  这就是我创建这个免费工具的原因。无需注册或任何付款计划。您还可以将图像大小调整为特定尺寸或降低图像质量以优化其文件大小。 以下是我们可用的格式： PNG、JPG、WEBP、SVG、GIF、AVIF、TIFF、HEIC、HEIF 我们能够维持下去的唯一方法是使用展示广告。我们产生的收入主要用于我们的 AWS 服务器成本。我们几乎没有从中赚到任何钱。 再说一次，这不是什么突破性的工具，也不是什么包含 AI 的工具 😛 我只是想与其他人分享，因为我主要自己开发并每天使用它。如果您有任何反馈，请告诉我 :)    提交人    /u/TheDishonestHap   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dewmo6/weve_made_a_free_image_converter_tool_with_no/</guid>
+      <pubDate>Thu, 13 Jun 2024 11:22:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>我是一名 16 岁的开发者，创建了这个 Web 应用</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dewkh1/im_a_16yo_developer_and_created_this_webapp/</link>
+      <description><![CDATA[嗨，SideProject-Reddit， 我 16 岁，刚刚推出了一个我已经工作了几个月的生产力网站。它旨在帮助人们管理时间、保持井然有序并实现目标。一个很酷的功能是，用户可以给自己写电子邮件，这些电子邮件将在未来发送给自己。这是一种设置提醒或向未来的自己发送一些激励的方式。 我希望得到大家的反馈。你能看看并告诉我你的想法吗？  可用性：是否易于使用和导航？ 设计：看起来不错吗？任何设计技巧  这里如果你感兴趣！    提交人    /u/TechnicianOld2599   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dewkh1/im_a_16yo_developer_and_created_this_webapp/</guid>
+      <pubDate>Thu, 13 Jun 2024 11:19:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>我是否应该辞去朝九晚五的工作，专心开发我的应用程序？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dew3iy/should_i_quit_my_95_and_focus_on_building_my_app/</link>
+      <description><![CDATA[我目前是一名软件工程师，年薪 95,000 美元。但我一生中的大部分时间都不想朝九晚五地工作。我目前有开发个人助理应用的想法，但我没有时间。 我可能也很快就要升职了，但我觉得这个应用真的很受欢迎。我应该专注于自己开发它，辞掉朝九晚五的工作吗？我不想犯错误。    提交人    /u/boz_logan45   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dew3iy/should_i_quit_my_95_and_focus_on_building_my_app/</guid>
+      <pubDate>Thu, 13 Jun 2024 10:50:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>我将在一个月内帮助您建立个人品牌（免费！）</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1devss7/i_will_help_you_build_a_personal_brand_in_1_month/</link>
+      <description><![CDATA[嘿，骗子们！建立自己的品牌感觉不知所措吗？ 一样！这就是为什么我要为忙碌的企业家（像我们一样！）测试为您完成的个人品牌服务。 7 月免费 1 个月试用！名额有限！ 获取：  内容代笔（时事通讯、社交媒体） 品牌战略和设计 优化个人资料以吸引客户 每周 1：1 咨询  无风险机会来提升您的品牌和释放时间！ 以下是入门方法：  为这篇文章点赞 评论“Creator Kickstart”  附言 知道有人在个人品牌方面遇到困难吗？分享爱！此试用版也非常适合他们。    提交人    /u/Nouman-Rahman   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1devss7/i_will_help_you_build_a_personal_brand_in_1_month/</guid>
+      <pubDate>Thu, 13 Jun 2024 10:31:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>我雇佣的开发人员如何使用生成的 AI 代码并让我损失了金钱</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1devm07/how_a_developer_i_hired_used_generated_ai_codes/</link>
+      <description><![CDATA[我需要发泄并寻求一些建议。我聘请了一位开发人员来帮助我构建项目，但我不知道他决定使用 AI 生成的代码来加快速度。  起初，一切似乎都很棒，但他走的捷径最终让我付出了巨大的代价。我注意到他经常抱怨错误，因为 AI 代码充满了错误和安全问题，他懒得去修复。它使我的项目推迟了几个月，并耗尽了我的预算来解决这些问题。  有没有其他人遇到过类似的事情？  作为开发人员，使用 AI 生成代码是一种好的道德吗？  您如何确保您的开发人员负责任地使用 AI 并且不偷工减料？     提交人    /u/value_que   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1devm07/how_a_developer_i_hired_used_generated_ai_codes/</guid>
+      <pubDate>Thu, 13 Jun 2024 10:19:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Convoy Transports - Appzoro 的 Web 和移动应用程序项目</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1devkul/convoy_transports_web_and_mobile_application/</link>
+      <description><![CDATA[      通过其网站和移动应用程序对于 iOS 和 Android，Convoy Transports 是执法机构和官员实现无忧监狱运输的完美解决方案。 https://preview.redd.it/8dkqe2m1eb6d1.jpg?width=450&amp;format=pjpg&amp;auto=webp&amp;s=0c69f5ef0b3f5afc45cff7d1346b8b4b1f2e59d9    由    /u/Appzoro-Technologies  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1devkul/convoy_transports_web_and_mobile_application/</guid>
+      <pubDate>Thu, 13 Jun 2024 10:17:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了最便宜的一体化分析工具</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1devewx/i_created_the_cheapest_all_in_one_analytics_tool/</link>
+      <description><![CDATA[大家好， 我最近以独立开发者的身份创建了 Metricalp，这是一款无 cookie、注重隐私的分析工具。它最初是一个网络分析工具，然后我将它扩展到移动平台 iOS、Android 和 React Native。我自己为所有这些平台发布了 SDK。我将价格保持在市场最低水平。它是一个基于事件的工具，所以我添加了一些功能，比如会话重播。您可以从 https://www.metricalp.com/features 查看所有功能。现在我拥有 400 多名会员，盈利能力很强。 我想听听你们的意见，关于下一步应该做什么。我怎样才能在不提高价格的情况下发展它，并且始终保护隐私。    提交人    /u/metricalpanalytics   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1devewx/i_created_the_cheapest_all_in_one_analytics_tool/</guid>
+      <pubDate>Thu, 13 Jun 2024 10:06:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个简单的 Linux CLI 工具来阻止分散您注意力的应用程序和网站。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1devd7i/i_made_a_simple_linux_cli_tool_for_blocking_your/</link>
+      <description><![CDATA[       由    /u/ston3o  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1devd7i/i_made_a_simple_linux_cli_tool_for_blocking_your/</guid>
+      <pubDate>Thu, 13 Jun 2024 10:03:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>为开发人员和设计师创建线框图的附带项目</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dev7f1/a_side_project_to_create_wireframes_for/</link>
+      <description><![CDATA[在浏览 Peerlist Project Spotlight 时，我发现了这个非常酷的附带项目，它可以帮助你创建线框。虽然这有点基础，但我喜欢它的工作方式和使用 Nextjs 构建的方式。你可以在这里查看这个附带项目     提交人    /u/consistent_dev   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dev7f1/a_side_project_to_create_wireframes_for/</guid>
+      <pubDate>Thu, 13 Jun 2024 09:52:46 GMT</pubDate>
+    </item>
     <item>
       <title>使用 AI 漫画翻译器实现无缝漫画翻译！</title>
       <link>https://www.reddit.com/r/SideProject/comments/1deunt3/discover_seamless_manga_translations_with_ai/</link>
@@ -18,97 +109,6 @@
       <description><![CDATA[大家好！ 我一直在分享我创建和发展 Adventure Buddy 的历程，这是一款旨在为您的日常生活增添乐趣的应用。距离我上次更新已经有一段时间了，所以这里是关于该应用的最新消息和一些令人兴奋的新功能： 快速回顾：什么是 Adventure Buddy？ Adventure Buddy 是一款动态应用，旨在帮助您更具冒险精神地生活。接受日常挑战，使用我们的地图功能探索新地方，并与志同道合的冒险家社区建立联系。凭借成就系统、事件跟踪和改进的用户体验等新功能，Adventure Buddy 可帮助您突破舒适区，让日常生活更加精彩。 有什么新功能？ 自上次更新以来，我一直在根据您的反馈努力改进该应用。以下是新功能：  新闻添加到单独页面 全新成就系统 修复错误，让好友请求处理更顺畅 整个应用中的新点击效果 增强的每日挑战、高级挑战和徽章排行榜过滤器 改进的弹出设计 添加了 Google 注册选项 修复应用图标的错误 整个应用中的新加载动画 简化高级套餐流程 大幅减少广告，带来更简洁的体验  重大改进：  简化注册：  您现在可以注册在使用 Google 时，注册时间从近 3 分钟缩短到仅 1 分钟。用户仍然需要输入他们的名字和姓氏，但现在更快捷、更安全了。  减少广告：  我已大幅减少广告数量，使应用体验更加简洁、愉快。  增强用户体验：  添加点击和加载动画，使应用响应更快、互动性更强。   挑战： 尽管有这些改进，但仍有一个重大挑战：扩大我们的用户群。虽然探索 Yes Theory 社区是一个很好的建议，我目前正在努力，但我仍在寻找更有效的方式来接触和吸引更多的受众。 您可以如何提供帮助： 我很乐意听听您关于如何发展我们社区的建议。哪些策略对您有效？您认为我应该探索哪些社区或平台？到目前为止，您的反馈非常宝贵，我很高兴听到您关于如何将 Adventure Buddy 提升到新水平的想法。 以前的帖子背景：  第一篇文章 第二篇文章  您可以在 Google Play 商店中搜索“Adventure Buddy”找到 Adventure Buddy或点击以下链接： Adventure Buddy 提前感谢大家的支持和反馈！    提交人    /u/Awkward-Tourist-3212   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1deuesz/how_do_i_grow_my_user_base_seeking_your_advice/</guid>
       <pubDate>Thu, 13 Jun 2024 08:56:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>随时随地获取可信警报</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1deu634/trusted_alerts_anytime_anywhere/</link>
-      <description><![CDATA[      https://preview.redd.it/3m9aomqgwa6d1.png?width=1024&amp;format=png&amp;auto=webp&amp;s=bfaa02ebd6b2cad55051a9be775449890cbd5196 立即与可信赖的朋友和家人联系。只需单击一下，即可通过短信分享您的确切位置，确保您的亲人始终了解情况，您始终安全。简单、快速、可靠的安全触手可及 PlayStore 链接     提交人    /u/Just_Avocado2761   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1deu634/trusted_alerts_anytime_anywhere/</guid>
-      <pubDate>Thu, 13 Jun 2024 08:38:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>我为 Python 创建了一个小型网络爬虫</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1detuht/i_created_a_tiny_web_crawler_for_python/</link>
-      <description><![CDATA[        提交人    /u/Outrageous_Bee1412   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1detuht/i_created_a_tiny_web_crawler_for_python/</guid>
-      <pubDate>Thu, 13 Jun 2024 08:14:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要 Beta 测试人员</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1detrx4/needed_beta_testers/</link>
-      <description><![CDATA[嗨，交易员们， 我们正在为一款 AI 金融顾问应用寻找 100 名 beta 测试员。这款应用肯定会在交易时为您提供帮助，并且每个人都可以使用，无论是知识渊博的人还是刚刚开始交易的人。作为回报，我们将为所有测试人员提供一年的免费计划。请发送消息并附上您的电子邮件，我们稍后会与您联系并提供说明。 谢谢大家    提交人    /u/More-Razzmatazz-6804   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1detrx4/needed_beta_testers/</guid>
-      <pubDate>Thu, 13 Jun 2024 08:09:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>快速学习数据结构和算法</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1detrcx/learn_data_structures_and_algorithms_quickly/</link>
-      <description><![CDATA[我们创建了一个 Chrome 扩展程序来帮助我们更有效地学习 DSA！它提供了问题概述、提示和解决方案。如果遇到困难，您还可以询问自定义问题。 查看： - 网站：https://pawgrammer.myportfolio.rocks/ - 下载：https://chromewebstore.google.com/detail/pawgrammer/chlgnfnkaddfgonmcbcdgpdkgbjkjbma - 演示视频：https://youtu.be/Wnr1F4-0Ck4?si=4Gaj_K8p8wnDNOuw 目前，它仅支持Leetcode。我们下一步应该在哪个平台上工作？    提交人    /u/john_doe_username   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1detrcx/learn_data_structures_and_algorithms_quickly/</guid>
-      <pubDate>Thu, 13 Jun 2024 08:08:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>对业余项目志同道合</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dethy0/like_minds_for_a_side_project/</link>
-      <description><![CDATA[大家好，我有一个想法，目前还不存在，但一旦付诸实践，可能会对软件世界产生影响。我有兴趣与一些开发人员和设计师合作，就此集思广益。如果您对细节感兴趣的话。  欢迎随时联系 DM    提交人    /u/Last-Standard-1864   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dethy0/like_minds_for_a_side_project/</guid>
-      <pubDate>Thu, 13 Jun 2024 07:49:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>我正在开发一款针对妈妈心理健康的小型应用程序。值得吗？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1detg6p/im_starting_to_build_a_small_app_for_moms_mental/</link>
-      <description><![CDATA[大家好！ 我即将开始开发一款小型应用程序，用于帮助产后抑郁或分娩后感到悲伤的妈妈们的心理健康。 您对此有何看法？ 拥有这样的应用程序是个好主意吗？    提交人    /u/MarcDaul   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1detg6p/im_starting_to_build_a_small_app_for_moms_mental/</guid>
-      <pubDate>Thu, 13 Jun 2024 07:46:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>你还会使用二维码吗？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dete8e/do_you_even_use_qrs/</link>
-      <description><![CDATA[我启动的第一个项目是 QR 码生成器 - 它主要是为了开始工作，并尝试 Vercel + Next.js。 我很享受整体体验。但在过去的一年里，我并没有做太多事情。 现在是时候决定是否要续订域名了。  所以我的问题是 - 你甚至使用二维码吗？如果是 - 主要用途是什么？ 我想决定是否应该尝试向其中添加一些新功能 - 为此，我想了解现在二维码的用例是什么？    提交人    /u/bortor_studio   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dete8e/do_you_even_use_qrs/</guid>
-      <pubDate>Thu, 13 Jun 2024 07:42:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>轻松向客户发送表单提交时的自动电子邮件 | 无需编码 | FormNX</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1detdcq/sending_automatic_emails_to_customers_on_form/</link>
-      <description><![CDATA[        由    /u/Genuine-Helperr  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1detdcq/sending_automatic_emails_to_customers_on_form/</guid>
-      <pubDate>Thu, 13 Jun 2024 07:40:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一款针对注意力缺陷多动障碍 (ADHD) 的一站式人工智能生产力应用程序</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1desvrj/i_made_a_onestop_ai_productivity_app_for_adhd/</link>
-      <description><![CDATA[我花了数百个小时与全球数百名 ADHD 患者交谈，这让我意识到他们都在与干扰、不知所措和健忘作斗争。这就是我们构建 Saner.ai 的原因，让他们使用一流的 AI 助手，通过设计简单的笔记和待办事项列表应用程序来记录、回忆、创建见解并完成任务。  在此发布中，我们发布了其他功能，例如待办事项列表视图和 AI 任务助手、语音和录音笔记、选择要询问 AI 的特定文件夹/笔记... 我们现在启动，并希望听到您的想法和评论🙂    提交人    /u/anh690136   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1desvrj/i_made_a_onestop_ai_productivity_app_for_adhd/</guid>
-      <pubDate>Thu, 13 Jun 2024 07:06:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>Deckboard - 将您陈旧的、布满灰尘的 Android/iOS 设备变为适用于 Windows、MacOS 和 Linux 计算机的超级宏键盘</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1destlk/deckboard_turn_your_old_dusty_androidios_device/</link>
-      <description><![CDATA[      大家好！ 我非常高兴向你们展示 Deckboard 应用的第 3 版，这是我自 2007 年起一直在积极开发的应用。 2018. 最初，我制作此应用是为了将我旧的、未使用的三星平板电脑改造成类似 Elgato Stream Deck 的东西。 工作原理：  用户在他们的 PC 上安装服务器应用（适用于 Windows、MacOS 和 Linux） 在服务器应用上创建宏按钮并指定其操作。添加图像、图标、标签以自定义其外观。 在 Android/iOS 设备上安装客户端应用，并通过 Wi-Fi 或 USB（仅限 Android）将其连接到服务器应用 瞧！自定义宏按钮显示在设备的屏幕上。只需点击它们即可在您的电脑上启动操作。  在首次发布时，引入了几个宏操作，如宏按键、OBS 和 Streamlabs 控制、Twitch 聊天集成等。一些才华横溢的第三方开发人员还为 Deckboard 创建了扩展，如 TeamSpeak 和 Discord 集成。 Deckboard 客户端应用程序。显示基本宏按钮块、滑块输入块和图形块 现在在版本 3 中，我想介绍这些功能： 💡 可调整大小的宏块 💡 滑块输入宏 📈 图形显示 💭 Twitch 聊天框 这些功能将帮助用户实现更多自定义。猜猜怎么着？这些功能也可在应用程序的免费基本版本上使用。 获取 Deckboard 在 Product Hunt 上查看 Deckboard 希望你喜欢！    提交人    /u/rfbabeheer   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1destlk/deckboard_turn_your_old_dusty_androidios_device/</guid>
-      <pubDate>Thu, 13 Jun 2024 07:02:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的 UptimeRobot 替代方案</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1des21p/my_alternative_to_uptimerobot/</link>
-      <description><![CDATA[我构建了一个满足我需求的 UptimeRobot 替代方案，我很高兴为您的网站、SaaS、电子商务等提供这项服务。 介绍 Pulsetic - 一个网站监控工具，具有设计精美的默认状态页面和可自定义的状态徽章。Pulsetic 与众不同之处如下： 与 UptimeRobot 不同，Pulsetic 提供了一个白标徽章，可在您选择的任何页面上实时显示您的服务可用性。只需几分钟即可自定义它以匹配您的品牌 - 调整颜色、字体、符号、文本和背景。如需更多自定义，请使用自定义 CSS。 UptimeRobot 仅支持英语，但 Pulsetic 可满足全球受众的需求。它支持地球上的每一种语言，从西班牙语到斯瓦希里语，确保您无论身在何处都可以与客户沟通。 查看我的项目并告诉我您的想法：https://pulsetic.com/ https://pulsetic.com/uptimerobot-alternative/ 我很感激任何反馈或批评！    提交人    /u/andrewderjack   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1des21p/my_alternative_to_uptimerobot/</guid>
-      <pubDate>Thu, 13 Jun 2024 06:10:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>创建文本动画</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1derhb6/create_text_animation/</link>
-      <description><![CDATA[        提交人    /u/abhay18e   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1derhb6/create_text_animation/</guid>
-      <pubDate>Thu, 13 Jun 2024 05:32:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>50 多个目录来推广你的创业公司</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1der31n/50_directories_to_promote_your_startup/</link>
-      <description><![CDATA[我们正在策划您发展业务所需的盈利在线业务理念、工具和资源。不要忘记订阅我为 saas 创始人、独立黑客和刚进入商业领域的人撰写的新闻通讯来表示您的支持。 立即免费订阅 👉🏻 Starterpedia    由   提交  /u/AngryRecap   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1der31n/50_directories_to_promote_your_startup/</guid>
-      <pubDate>Thu, 13 Jun 2024 05:05:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
