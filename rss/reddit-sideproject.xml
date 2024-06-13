@@ -4,20 +4,76 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Wed, 12 Jun 2024 21:12:39 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jun 2024 00:58:24 GMT</lastBuildDate>
+    <item>
+      <title>客户发现</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1delzn5/customer_discovery/</link>
+      <description><![CDATA[大家好， 我正在创办一家名为 1ClickCampaign 的初创公司。我们正在开发一款非常酷的产品 - 用于 B2B 推广的数据 GPT。基本上，我们帮助企业从世界各地获取位置和基于行业的业务信息。我们不采用一刀切的方法，而是为不同类型的推广创建定制产品，解决特定市场的低效率问题，并使 B2B 营销流程更加顺畅。 我们正在尝试构建一种可扩展且非常高效的工具，针对特定行业提供专门为他们量身定制的数据。我们希望与对行业中当前使用的工具和渠道有所了解的人建立联系。我们想听听您的想法，看看我们的产品是否适合市场。 如果您愿意聊天，我们很乐意安排 30 分钟的简短通话。以下是一个 Calendly 链接，可轻松实现此操作：Calendly Link。    提交人    /u/Thunderrpopss   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1delzn5/customer_discovery/</guid>
+      <pubDate>Thu, 13 Jun 2024 00:26:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>用户界面调查 1</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1delo4b/user_interface_survey_1/</link>
+      <description><![CDATA[我正在做一个项目，真的需要一些关于中等保真度 UI 设计的基本反馈。如果你们中有几个人能参加这个 Google Forms 调查，我将不胜感激。我只需要 10 到 15 个回复。 顺便说一句，忽略关于唯一 ID 的部分。我本来打算在 Mechanical Turk 上运行这个，但这根本不可能（亚马逊需要很长时间才能批准我的帐户）。 谢谢！ https://forms.gle/v8vcnvGNpryCHbcJ7    提交人    /u/i_am_alberto   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1delo4b/user_interface_survey_1/</guid>
+      <pubDate>Thu, 13 Jun 2024 00:09:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>问题：您使用什么免费后端</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1deliop/question_what_free_backend_are_you_using/</link>
+      <description><![CDATA[为了缩短周转时间，我在 glitch.com 上使用基于 Nodejs 的后端，因为它只需单击一下即可为我提供一个具有合适主机名的快速服务器。如果我需要数据库，我会使用 MongoDB Atlas 并将其连接到 glitch 节点后端。 我很好奇其他人使用什么快速且免费的后端，没有 API 密钥/付款配置文件（如 firebase）。 感谢您的回答！    提交人    /u/cervere   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1deliop/question_what_free_backend_are_you_using/</guid>
+      <pubDate>Thu, 13 Jun 2024 00:02:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>Snoop Hawk - 跟踪网站，监控竞争对手，获取更新通知</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1delax5/snoop_hawk_track_websites_monitor_competitors_get/</link>
+      <description><![CDATA[      大家好 - 我今天在 Product Hunt 上启动了我的项目 Snoop Hawk。感谢任何支持！ Snoop Hawk 可自动化您的网络监控和分析。跟踪竞争对手的网站，监控价格变化，并获取缺货商品的警报。设置自定义作业，定义问题，安排运行，并轻松获得详细的见解。 我们能做什么 https://www.producthunt.com/posts/snoop-hawk    提交人    /u/alvisanovari   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1delax5/snoop_hawk_track_websites_monitor_competitors_get/</guid>
+      <pubDate>Wed, 12 Jun 2024 23:52:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一款免费应用，让您随时掌握最新潮流。跟踪 20 多个城市、10 多个播客和其他细分市场</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1del2km/i_made_a_free_app_for_staying_on_top_of_trends/</link>
+      <description><![CDATA[能够发现、理解和预测趋势可能是当今市场中最重要的概念之一。 乔布斯、恩戈齐、巴菲特（以及更多人）都通过一次又一次地押注趋势而获得了成功。 我很高兴与大家分享我过去一年一直在从事的一个项目，该项目可供所有人使用。它汇总了来自不同城市和领域的全球趋势。它包括每种趋势的摘要、观点和来源。 希望听到大家的反馈，并了解大家可能希望如何使用此工具。以下是链接：trndgtr.com 我最近还推出了一项能够搜索趋势的功能。人们表示这会很有用，所以我很高兴能在这里宣布这个消息。 感谢您的阅读，期待回答您的问题！！:)    提交人    /u/nooj8   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1del2km/i_made_a_free_app_for_staying_on_top_of_trends/</guid>
+      <pubDate>Wed, 12 Jun 2024 23:41:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>我正在通过奥斯卡颁奖典礼回顾电影史（不是以一种积极的方式）——直到 1954 年（第 27 届奥斯卡颁奖典礼），马龙白兰度在《码头风云》中的开创性表演</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dektzv/im_doing_a_retrospective_of_film_history_seen/</link>
+      <description><![CDATA[我一直想在博客上磨练自己作为电影评论家的水平，并决定通过奥斯卡颁奖典礼回顾电影史，每月发布一次左右，穿插其他评论，这很有趣。这是为了谴责该机构，并指出大多数决定都是基于工作室政治而不是艺术价值。然而，本月，我们将关注一部真正优秀的电影和电影表演发展的分水岭，即《码头风云》。 在成功或失败方面，其他电影包括朱迪·加兰的巨作《一个明星的诞生》、希区柯克的经典杰作《后窗》以及水下电影制作的诞生。希望您喜欢并随时转发给您认为可能会觉得有趣的任何人！ 第 1 部分 第 2 部分    提交人    /u/Flashpenny   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dektzv/im_doing_a_retrospective_of_film_history_seen/</guid>
+      <pubDate>Wed, 12 Jun 2024 23:30:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>我建立了一个维护管理系统</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dejtty/i_built_a_maintenance_management_system/</link>
+      <description><![CDATA[        提交人    /u/theasteve   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dejtty/i_built_a_maintenance_management_system/</guid>
+      <pubDate>Wed, 12 Jun 2024 22:44:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>我用 gpt-4o 制作了一个 AI 收据扫描仪：https://AutoExpense.ai</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dej825/i_built_an_ai_receipt_scanner_with_gpt4o/</link>
+      <description><![CDATA[大家好， 我花了上周的时间组装 AutoExpense.ai，一款由 gpt-4o 驱动的收据扫描仪。 它的不同之处：  gpt-4o 可让您以对话方式与其交互，因此您可以说“将此费用添加为注释‘现金支付’”或“将此费用保存到我的 LLC 而不是我的公司” gpt-4o 可以很好地处理复杂情况，例如手写、拆分账单、按比例分摊税款 您通过电子邮件和短信与其交互，因此不需要任何应用程序  请批评它，寻求任何和所有的反馈！   由    /u/Matthew_Tse  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dej825/i_built_an_ai_receipt_scanner_with_gpt4o/</guid>
+      <pubDate>Wed, 12 Jun 2024 22:17:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>向开发人员推出了我的第一个产品——如何找到我的第一批客户？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dehq9o/launched_my_first_product_for_the_developers_how/</link>
+      <description><![CDATA[大家好， 我是一名法国 IT 基础设施工程师，我最近推出了 Cloud-Runner.com，这是一个旨在为 CI/CD 工作负载提供高性能 GitLab 运行器的平台。我的产品针对速度和效率进行了优化，旨在缩短构建时间并简化 Gitlab 管道。 背景介绍：我之所以启动这个项目，是因为我注意到包括我在内的许多开发人员都在努力应对由于运行器性能不足而导致的缓慢且低效的 CI/CD 管道。经过大量的调整和优化，我们构建了一个可显著缩短管道时间的解决方案，我们目前的客户（主要是熟人）看到了很好的效果。 但现在，我需要你的帮助。我希望超越我的网络，并希望得到您对 Cloud-Runner 的反馈。以下是一些我确实需要一些建议的方面：  产品反馈：如果您有机会使用 Cloud-Runner，您觉得怎么样？您喜欢哪些功能，缺少哪些功能？您遇到过什么错误或问题吗？ SEO 提示：在 SEO 方面，哪些策略对您有用？我想确保寻找 GitLab Runner 解决方案的开发人员可以轻松找到我们。 客户获取：目前，我们的大多数客户都是通过个人联系而来的。我如何才能有效地在线接触新客户？在推出科技产品时，哪些营销策略或渠道对您最有效？ 增长黑客：您尝试过哪些增长黑客来吸引最初的客户？我对所有有创意的想法持开放态度！  提前感谢您的帮助！    提交人    /u/-cloudrunner-   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dehq9o/launched_my_first_product_for_the_developers_how/</guid>
+      <pubDate>Wed, 12 Jun 2024 21:13:04 GMT</pubDate>
+    </item>
     <item>
       <title>我 3 年前的开源 C++ 项目 - 用于宏的第二个键盘、CAN 和 Modbus Master GUI 以及许多其他东西</title>
       <link>https://www.reddit.com/r/SideProject/comments/1deh7v4/my_3_year_old_open_source_c_project_2nd_keyboard/</link>
       <description><![CDATA[]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1deh7v4/my_3_year_old_open_source_c_project_2nd_keyboard/</guid>
       <pubDate>Wed, 12 Jun 2024 20:51:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用大量数学知识在终端中旋转 3D 立方体</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1deh6z6/rotating_3d_cube_in_terminal_using_a_lot_maths/</link>
-      <description><![CDATA[        提交人    /u/Friendly_Dev_395   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1deh6z6/rotating_3d_cube_in_terminal_using_a_lot_maths/</guid>
-      <pubDate>Wed, 12 Jun 2024 20:50:30 GMT</pubDate>
     </item>
     <item>
       <title>价值 2500 美元的 Openai 积分</title>
@@ -53,62 +109,6 @@
       <description><![CDATA[我有很多静态网站，需要收集表单提交。我的客户也需要这样做。目前的解决方案很棒，但我们不想为此付出太多，而且他们的免费计划非常有限。 长话短说，我刚刚构建了自己的版本并公开提供，并提供慷慨的免费套餐。 这是网站： https://staticninja.com/forms 这是我解释如何在静态网站上使用（加上验证码）的博客文章： https://berkaycubuk.com/blog/adding-contact-form-to-static-sites/    提交人    /u/berkaycubuk   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1def2up/i_just_built_my_own_version_of_a_form_submission/</guid>
       <pubDate>Wed, 12 Jun 2024 19:22:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>我建立了一个人工智能，它通过观察你的屏幕和听你的口头解释来进行自我训练。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1deess0/i_built_an_ai_that_trains_itself_by_watching_your/</link>
-      <description><![CDATA[        提交人    /u/moremat_   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1deess0/i_built_an_ai_that_trains_itself_by_watching_your/</guid>
-      <pubDate>Wed, 12 Jun 2024 19:10:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>Paper JS 是一种完全用 JavaScript 编写 HTML 的新方法。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1deer1v/paper_js_is_a_new_way_to_write_html_entirely_in/</link>
-      <description><![CDATA[      Paper JS 是一种完全在 JavaScript 中编写 HTML 的新方法。 介绍 Paper JS 一种完全在 JavaScript 内部编写和构建 html 的新方法。由于该库只有 800 字节大小，因此在您的网站上留下的占用空间很小。 查看 GitHub 开始使用，如果发现错误或疑问，请给我发星号。    提交人    /u/Medical_Start4604   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1deer1v/paper_js_is_a_new_way_to_write_html_entirely_in/</guid>
-      <pubDate>Wed, 12 Jun 2024 19:08:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>计算您的每日饮水量，并通过日常水瓶进行可视化</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1deenu7/calculate_your_daily_water_intake_and_visualize/</link>
-      <description><![CDATA[Water Watch 可帮助您跟踪每日饮水量以及如何实现补水目标。记住您的饮水量可能很困难，特别是当您不确定容器能容纳多少水时。这就是为什么我使用预定义的瓶子来估算您的摄入量，或者上传您自己的瓶子的图片，以便为您提供视觉效果。查看：Water Watch    提交人    /u/EpicOverlord   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1deenu7/calculate_your_daily_water_intake_and_visualize/</guid>
-      <pubDate>Wed, 12 Jun 2024 19:04:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>我使用 MageForms 对反馈表进行了不同的诠释</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dee7fm/i_took_a_different_spin_at_feedback_forms_with/</link>
-      <description><![CDATA[各位开发者们好， 在我之前的工作中，我必须处理大量的表单数据，并且意识到这个过程是多么繁琐和低效。每当有人提交反馈表单时，大多数时候它都缺乏有用的数据，或者问题不相关。浏览这些表单并确定哪些用户可以成为倡导者以及哪些用户需要更多关注也是一个令人头疼的问题。 那时我决定构建 Mageforms。使用 Mageforms，我计划让 SaaS 所有者、初创公司以及任何希望获得反馈/调查的人能够创建用户喜欢填写的表单，通过根据用户的回答调整问题来收集尽可能多的相关数据，并根据用户的回答共享文档和博客等资源。 换句话说，它是表单和用户快速聊天之间的桥梁。 Mageforms 的主要功能：  问题会根据用户的回答动态调整。 用户可以根据他们的回答访问资源（如文档、社交媒体等）。 表单会从您的网站中学习，只询问有关您的产品/服务的有用且具体的问题。 我们执行情绪分析、提取关键字、创建摘要并为您收到的每个回复分配 NPS。  请在 https://mageforms.com。 我还有其他令人兴奋的功能计划很快添加！ 欢迎您的反馈、批评和建议。    提交人    /u/GroundbreakingEmu633   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dee7fm/i_took_a_different_spin_at_feedback_forms_with/</guid>
-      <pubDate>Wed, 12 Jun 2024 18:46:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>顶级社交媒体账户！🚀</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dee2a9/top_social_media_accounts/</link>
-      <description><![CDATA[大家好， 在 BeTheFounder，我们多年来一直沉浸在企业家生态系统中，关注了不同主题和领域的数千名专家。我们编制了三个精选文件，重点介绍了在 LinkedIn、YouTube 和 X（以前称为 Twitter） 上值得关注的最佳社交媒体帐户。 这些帐户涵盖商业、投资、营销、个人发展等领域。这些顶尖人才的见解可以让你的生活发生180 度的转变。 我们在 BeTheFounder 的使命是通过将个人与来自世界顶尖专家的课程联系起来来增强个人能力。有些帐户提供课程或一对一辅导，我们已将其包含在我们的网站上。 热门社交媒体帐户：  排名前 20 的 LinkedIn 帐户 排名前 10 的 YouTube 视频 排名前 30 的 X 帐户  查看这些课程，并让我们知道您认为哪些最有价值。加入我们，创建一个充满力量的个人社区，随时准备将他们的技能提升到一个新的水平。 要查看所有可用的课程，请访问BeTheFounder我们的免费/无需订阅网页，查看最适合您成为下一个创始人的课程 祝好， BeTheFounder团队    提交人    /u/BeFounder   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dee2a9/top_social_media_accounts/</guid>
-      <pubDate>Wed, 12 Jun 2024 18:40:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>简单项目 - 将电动鳄鱼夹变成达芬奇机械臂</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dedzoi/simple_project_turning_a_electrical_crocodile/</link>
-      <description><![CDATA[      您好， 当我在摆弄电子设备时，我意识到电动鳄鱼夹连接器可用于制造达芬奇手术机器人手。我从夹子上取下弹簧，并在夹子顶部焊接了一个钩子，然后将鱼线穿过夹子。拉动时，鳄鱼夹闭合。如何使用相同的绳子/金属棒原理使夹子闭合？  ^ 鳄鱼夹供参考 ^ 谢谢。    提交人    /u/Emmet2by4   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dedzoi/simple_project_turning_a_electrical_crocodile/</guid>
-      <pubDate>Wed, 12 Jun 2024 18:37:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用视频数据构建 RAG 应用程序</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1decelw/using_video_data_for_building_rag_application/</link>
-      <description><![CDATA[有人使用视频中的数据构建 RAG 吗？我在想类似从视频中提取内容并生成嵌入的方法，就像典型的 RAG 一样。我看到很多应用程序都是基于文档和文本数据构建的，但基于视频数据构建的并不多。 是否有特定原因限制了使用视频中的数据的采用，或者它很常见而我只是不知道？    提交人    /u/dphntm1020   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1decelw/using_video_data_for_building_rag_application/</guid>
-      <pubDate>Wed, 12 Jun 2024 17:32:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>分享一些来自项目 IndieAnalytics 的指标...对于转化率低下的原因，您有什么想法吗？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dec6ur/sharing_some_metrics_from_project/</link>
-      <description><![CDATA[      我最近在 reddit 上发布了一篇关于我的项目 IndieAnalytics 的帖子，这是一个面向独立黑客和早期创始人的分析工具。可以将其视为 Google Analytics 或 MixPanel 的更易于使用的替代方案……但它还可以为您处理候补名单和联系表格。帖子在这里：https://www.reddit.com/r/SideProject/comments/1db6prx/i_built_a_free_tool_for_your_landing_pages_web/ 当然，我为我的着陆页使用自己的分析平台，并收集了一些分析数据，以了解我可以优化的地方。仪表板的一部分如下所示。 对我来说最有趣的部分是右下角的图表：页面滚动深度。基本上，它显示了有多少人访问了该页面，有多少人看到了我的页面的第一部分、第二部分、第三部分（定价页面）、第四部分。 我想弄清楚为什么没有人注册使用我的免费工具。从下面的数据来看，我的逻辑推理是：  看到我帖子的人决定访问我的 URL（因此我试图解决的问题对某些人来说很有趣） 许多人（50％）在页面的英雄部分之后停留（因此我的登录页面不会太丑以至于人们立即跳出） 大多数没有跳出的人（77％）最终查看了整个页面（因此我的解决方案足够有趣，他们想继续阅读） 大多数人（86％）都知道使用该平台是免费的（因为他们已经看到了定价页面）  我有几个假设：  人们认为我的解决方案足够有趣，可以继续阅读，但没有看到他们正在寻找的具体内容。 人们对免费产品持怀疑态度。 我提供的解决方案不够清晰（人们试图阅读整个页面以找出我是什么提供）  我很想知道是否有人对我的免费产品无法转换的原因有任何想法！ 感谢您的时间！ https://preview.redd.it/nzqa22fkb66d1.png?width=1399&amp;format=png&amp;auto=webp&amp;s=0944398ed7024091f01f8352b47beb70564fa96c    由    /u/MyEducatedGuess  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dec6ur/sharing_some_metrics_from_project/</guid>
-      <pubDate>Wed, 12 Jun 2024 17:23:36 GMT</pubDate>
     </item>
     </channel>
 </rss>
