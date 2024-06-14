@@ -4,7 +4,7 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Fri, 14 Jun 2024 00:58:26 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Jun 2024 03:14:24 GMT</lastBuildDate>
     <item>
       <title>已实现主要用户流程。希望得到您的反馈。</title>
       <link>https://www.reddit.com/r/SideProject/comments/1dfejvu/main_user_flow_implemented_would_love_your/</link>
@@ -29,7 +29,7 @@
     <item>
       <title>每天大约有 200 个电话，开始真正发挥作用 – 接线员会为您拨打电话。</title>
       <link>https://www.reddit.com/r/SideProject/comments/1dfdnhs/starting_to_see_real_traction_at_about_200_calls/</link>
-      <description><![CDATA[像你们中的许多人一样，我一直在建造东西。￼大约一个月前，我整理了一个小项目，以求好玩。这次我认为它成功了。  我建造了很多垃圾 - 事实上，我建造的大多数东西都只有一个观众。 这个项目名为 Operator，最终变得有些不同。这是链接。 https://www.operator.tel 最初的想法是，我会用它来偶尔给我自己打电话。 有一家我非常喜欢的餐厅，那里总是有超长的等待时间，所以我用它来打电话并了解等待时间。我妻子的车正在维修，询问它是否准备好了很烦人，所以我让它帮我打电话。诸如此类的事情。 ￼ 最后，我终于有信心告诉几个朋友了。然后我问他们是否可以告诉他们的朋友……事情一周又一周地进展，现在我每天接到大约 200 个电话。没什么大不了的，但每周的电话数量都在增加。  事实证明，一个很大的用例是为英语不流利的人打电话。  我刚刚建立了一个可以翻译成其他语言的简单小网站，并让整个产品支持西班牙语、普通话和他加禄语——只是作为测试。  现在还处于早期阶段，我还在努力工作的同时还在摸索。我还没有向任何人收费，当你注册时，它声称会给人们 10 分钟的通话时间……但现在实际上是无限的。  只是分享一点牵引力，希望有些人会使用它。 我今天刚刚设置的一件事是 Discord，这样我就可以获得反馈，而不是在日志中查看错误和内容。所以如果你愿意的话，很高兴你能加入 discord。 https://discord.gg/nvWsnrVs    提交人    /u/allang   [link] [评论]]]></description>
+      <description><![CDATA[像你们中的许多人一样，我一直在建造东西。￼大约一个月前，我整理了一个小项目，以求好玩。这次我认为它成功了。  我建造了很多垃圾 - 事实上，我建造的大多数东西都只有一个观众。 这个项目名为 Operator，最终变得有些不同。这是链接。 https://www.operator.tel 最初的想法是，我会用它来偶尔给我自己打电话。 有一家我非常喜欢的餐厅，那里总是有超长的等待时间，所以我用它来打电话并了解等待时间。我妻子的车正在维修，询问它是否准备好了很烦人，所以我让它帮我打电话。诸如此类的事情。 ￼ 最后，我终于有信心告诉几个朋友了。然后我问他们是否可以告诉他们的朋友……事情一周又一周地进展，现在我每天接到大约 200 个电话。没什么大不了的，但每周的电话数量都在增加。  事实证明，一个很大的用例是为英语不流利的人打电话。  我刚刚建立了一个可以翻译成其他语言的简单小网站，并让整个产品支持西班牙语、普通话和他加禄语——只是作为测试。  现在还处于早期阶段，我还在努力工作的同时进行研究。我还没有向任何人收费，当你注册时，它声称会给人们 10 分钟的通话时间……但现在实际上是无限的。  只是分享一点牵引力，希望有些人会使用它。 我今天刚刚设置的一件事是 Discord，这样我就可以获得反馈，而不是在日志中查看错误和内容。所以如果你愿意的话，很高兴你能加入 discord。 https://discord.gg/nvWsnrVs    提交人    /u/allang   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1dfdnhs/starting_to_see_real_traction_at_about_200_calls/</guid>
       <pubDate>Fri, 14 Jun 2024 00:07:17 GMT</pubDate>
     </item>
@@ -60,13 +60,6 @@
       <description><![CDATA[在过去四年半的时间里，我深入研究了 AI/ML 领域，我对商业网站 AI 聊天机器人的现状深感沮丧。从 Chatbase 到那些鲜为人知的聊天机器人，它们似乎都缺少……一些东西。它们可以重复一些信息，当然，但吸引客户并实现实际销售？算了吧——完全没用。 就在那时，我决定撸起袖子，打造 Elephant.ai。为什么叫它 Elephant？因为它永远不会忘记从您的内容（您的商业网站、您的文档、您的视频、图片、概念、问答等）中学到的东西。 以下是 Elephant.ai 的与众不同之处：  真正智能：Elephant.ai 不仅仅是 Chatgpt 智能的翻版。我们的团队对其 AI 进行了深度定制和微调，使其超越了典型模型。它通过理解和适应企业的独特需求，提供量身定制的精确响应。 从一切事物中学习：Elephant.ai 不仅限于基于文本的理解。它可以消化您的网站内容、文档、概念、视频和图像，使其比典型的聊天机器人更具信息量。 销售机器：与主要用于客户支持的典型聊天机器人不同，Elephant.ai 充当了积极的销售代理。 Elephant.ai 可以像经验丰富的销售代表一样巧妙地安排通话、收集线索、说服潜在客户并处理异议。 图像功能：用户可以直接向 Elephant.ai 发送图像消息，它会根据视觉内容做出智能响应，从而增强交互可能性。 无缝人工接管：想与真人聊天？立即从 AI 切换到人工支持！ 高级分析：深入了解您的客户互动，以更好地定制您的服务。 定制潜在客户表单：直接通过聊天界面有效捕获潜在客户的信息。 持续改进周期：在 AI 最新进展的推动下，Elephant.ai 不断发展。它从每次互动中学习，获得新的见解并随着时间的推移完善其理解。这种持续改进可确保它在您的业务和客户需求发展过程中保持有效。 用户友好型设计：我们在设计 Elephant.ai 时就考虑到了可用性。它具有干净、直观的界面，使用户能够愉快地进行交互，而这在其他 AI 解决方案中经常被忽视。 完全可定制：调整其学习、响应、处理对话的方式，甚至自定义外观以匹配您网站的主题，确保它与您的网站无缝契合。  但这是最好的部分 - 我们将全力以赴实现净零利润模式。这是什么意思？所有利润都通过您推荐给 Elephant.ai 的每个付费客户的70% 终身经常性佣金返还给营销人员。（请访问我们网站上的联盟页面了解更多信息）是的，您没看错。业内没有其他人提供如此高的佣金。我们非常重视支持支持我们的社区。 我们相信，支持我们的营销人员是我们共同成功的关键。我们希望培育一个每个人都能受益的繁荣社区——帮助您的业务发展也会对我们有所帮助。 我很乐意听到您的想法、反馈或任何建议。我们如何才能让 Elephant.ai 更好地为您服务？在我们继续完善和增强我们的平台时，您的意见非常宝贵。 观看演示：Elephant.ai 在 ScrubDaddy 上运行 ScrubDaddy    提交人    /u/Accurate-Flamingo357   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1df944t/i_was_tired_of_ai_chatbots_that_couldnt_sell/</guid>
       <pubDate>Thu, 13 Jun 2024 20:39:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>在“史上最佳样板”中投票选出史上最佳样板！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1df8q3r/vote_for_the_best_boilerplates_on_best/</link>
-      <description><![CDATA[嗨，我刚刚创建了一个列出世界上最佳样板的平台！ 最佳样板由社区使用类似于 Reddit 的点赞系统投票选出。 该平台完全免费，任何人都可以提交他们的样板，所以不要犹豫！ 感谢您的支持。    提交人    /u/Temporary-Video-7222   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1df8q3r/vote_for_the_best_boilerplates_on_best/</guid>
-      <pubDate>Thu, 13 Jun 2024 20:23:07 GMT</pubDate>
     </item>
     <item>
       <title>我梦见了一些随机的事情，这意味着什么？</title>
@@ -109,6 +102,13 @@
       <description><![CDATA[        提交人    /u/SuperSaiyan1010   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1df6onz/i_was_tired_of_ancient_documentbased_note_taking/</guid>
       <pubDate>Thu, 13 Jun 2024 18:56:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>getscribix.com - 人工智能电子邮件助手软件</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1df6lj5/getscribixcom_ai_email_assistant_software/</link>
+      <description><![CDATA[        提交人    /u/Jaded_Peace_3405   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1df6lj5/getscribixcom_ai_email_assistant_software/</guid>
+      <pubDate>Thu, 13 Jun 2024 18:53:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
