@@ -4,7 +4,56 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Fri, 14 Jun 2024 06:18:53 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Jun 2024 09:13:59 GMT</lastBuildDate>
+    <item>
+      <title>我制作了一个工具，可以让您将 AI 聊天保存到文件中并将它们连接到不同的平台之间。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dfml2r/i_made_a_tool_that_allows_you_to_save_your_ai/</link>
+      <description><![CDATA[      大家好， 我是一个长期的 AI 用户（自 ChatGPT 测试版以来）。 在我的整个旅程中，我已经在不同的平台上使用过许多 AI 聊天机器人。 这个应用程序背后有一些故事，但这次我在这里只是为了与您分享并询问您的想法。也许您觉得它很有用，并想分享一些想法。 TopicsGPT 的缩略图之一 我创建了 TopicsGPT，这是一个 Chrome 扩展程序，可让您在不同的对话之间甚至在平台之间导入您的 AI 聊天。例如，我可以将我之前的五个对话（均涉及不同的主题）导入到一个对话中。这样，以前的对话就有点像数据库了，从而为 LLM 提供了大量信息，提高了性能。 它还允许您在平台之间执行此过程，因此我可以从 ChatGPT 获取对话并将其导入 Copilot、Gemini 或 Claude。该工具支持所有最著名和当前使用的平台。 另一个非常有用的功能是将您的聊天保存到 JSON 文件中。您可以将其保存到简单的 JSON 文件中，也可以保存到 JSON Plus（扩展的 JSON 文件）。 我设法创建了一个用户非常需要的功能，它可以捕获与 LLM 使用的完全相同的文件（信息）。它被称为 JSON Plus。扩展的 JSON 可以实现各种“魔法”。由于信息的分类方式与 LLM 从服务器读取信息的方式完全相同，因此您可以将其导入任何地方（任何其他平台、聊天或模型），并真正滥用它。 将您的聊天记录保存为 JSON 保存为 JSON 具有很大的潜力，但最重要的功能之一是能够存储您的聊天记录并在数据库中轻松使用它们。 您可以在一次导入或导出中选择最多 30 个聊天记录，并在选择之间切换。这样，您可以轻松地将聊天导入其他聊天，或者在几秒钟内将聊天保存到磁盘中。 这是我在 Reddit 和 Twitter 上分享的其中一个功能的演示： 这是我在 Reddit 和 Twitter 上分享的其中一个功能的演示： 如果您有兴趣进一步了解此工具的升级过程，您可以在 Twitter 上关注我。 如果您想查看该工具，这里有一个链接：https://chromewebstore.google.com/detail/topicsgpt-integrate-your/aahldcjkpfabmopbccgifcfgploddank 我想知道你们怎么想。我仍在探索所有这些功能，但我很想知道您是否有任何功能请求或想法。提前感谢任何反馈！    提交人    /u/Efistoffeles   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dfml2r/i_made_a_tool_that_allows_you_to_save_your_ai/</guid>
+      <pubDate>Fri, 14 Jun 2024 09:13:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了最简单的在线图片编辑工具</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dfmblu/i_made_the_simplest_image_editing_tool_online/</link>
+      <description><![CDATA[大家好！ 我刚刚发布了 ImgSimple，这是网上最简单的图片工具，我想与大家分享。ImgSimple 可让您轻松调整图片大小、转换文件类型、应用黑白或反色效果以及向 JPEG 添加地理标记。我之所以创建 ImgSimple，是因为我发现现有工具对于我的日常使用来说太复杂了。 我们目前在 Product Hunt 上线，我非常感谢您的反馈。查看并告诉我您的想法！ 感谢您的支持！    提交人    /u/juliandev01   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dfmblu/i_made_the_simplest_image_editing_tool_online/</guid>
+      <pubDate>Fri, 14 Jun 2024 08:54:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么人们在我的平台上注册，然后...什么也不做？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dfm74e/why_do_people_sign_up_on_my_platform_and_then_do/</link>
+      <description><![CDATA[我运营一个用于分享和发现项目创意的在线平台 (www.oasis-of-ideas.com)。在过去的一个月里，我注意到很多人注册了，然后基本上没有在平台上做任何事情。这让我很困惑。如果他们不想做任何事情，为什么要注册？如果他们想做某事，为什么不直接去做呢？有人能提供一些线索来解释为什么会这样吗？ 背景：  注册完全是可选的，只有当你想在平台上做某事时才需要注册（例如点赞、订阅新闻通讯、评论、回复或接收通知）。  重要的是，如果您只是想四处看看，则不需要它（主页上也这么说）。   非常感谢您的帮助！    提交人    /u/idea-scout   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dfm74e/why_do_people_sign_up_on_my_platform_and_then_do/</guid>
+      <pubDate>Fri, 14 Jun 2024 08:45:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>风险投资公司 Paradigm 募集 8.5 亿美元加密货币投资基金</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dfm3k9/vc_firm_paradigm_closes_850m_fund_for_crypto/</link>
+      <description><![CDATA[        由    /u/webbs3  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dfm3k9/vc_firm_paradigm_closes_850m_fund_for_crypto/</guid>
+      <pubDate>Fri, 14 Jun 2024 08:37:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们的副业项目变成了全职项目：一款新的 3D 设计工具</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dfm3jv/our_side_project_turned_fulltime_a_new_3d_design/</link>
+      <description><![CDATA[大家好，我们最初只是一个小型业余项目，现在已成为我们的全职工作！Xspiral 我们刚刚推出了一款旨在简化复杂设计任务的新 3D 设计工具。这是一段不可思议的旅程，我们很高兴与您分享。 我们渴望听到您将业余项目转变为全职项目的想法和经验。任何建议或反馈都非常感谢！    提交人    /u/xspiral_3d   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dfm3jv/our_side_project_turned_fulltime_a_new_3d_design/</guid>
+      <pubDate>Fri, 14 Jun 2024 08:37:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>我构建了 Routify，一个全球无服务器 API 网关</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dflxsc/ive_built_routify_a_global_serverless_api_gateway/</link>
+      <description><![CDATA[我构建了一个全局无服务器 API 网关，用于处理路由、身份验证、速率限制、负载平衡、监控、转换等。 Routify 使管理和保护公共 API 变得更加容易。它分布在全球许多地区，并充当您的客户端和服务之间的代理。您可以在几分钟内通过界面进行配置（无需代码）。 有三个主要概念：  路由 - 定义 API 中不同操作的路径（可以使用动态/可选/全部捕获参数） 后端 - 请求将被代理到的端点集群 中间件 - 在 Routify 边缘代理中以特定顺序执行并定义如何处理请求的函数。  您可以将其用作反向代理、不同云提供商中 API 之间的网关、地理负载平衡器或仅仅作为通过 API 的所有请求的监控工具。 Routify 处于公开测试阶段，（目前）可在https://routify.to 免费使用 查看并告诉我您的想法。  谢谢！    由   提交  /u/RoutifyTo   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dflxsc/ive_built_routify_a_global_serverless_api_gateway/</guid>
+      <pubDate>Fri, 14 Jun 2024 08:25:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>在基础数学网站上添加哪些功能</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dfkpx5/what_features_to_add_on_basic_math_site/</link>
+      <description><![CDATA[      我正在为我弟弟的班级建立一个基础数学网站。我应该如何改进用户界面，以及我应该添加哪些其他功能？    提交人    /u/yungloser69   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dfkpx5/what_features_to_add_on_basic_math_site/</guid>
+      <pubDate>Fri, 14 Jun 2024 06:56:55 GMT</pubDate>
+    </item>
     <item>
       <title>我开发了 Wavepilot，这是一款 AI 团队工作流工具，可以为任何项目创建定制的 AI。它通过自动化解决方案优化工作流并实时降低风险，帮助团队提前应对潜在问题。请访问 usewavepilot.com 并告诉我您的想法！:)</title>
       <link>https://www.reddit.com/r/SideProject/comments/1dfjqeu/ive_built_wavepilot_an_ai_team_workflow_tool_that/</link>
@@ -29,7 +78,7 @@
     <item>
       <title>到现在为止有多少个副业项目失败了？</title>
       <link>https://www.reddit.com/r/SideProject/comments/1dfed5t/how_many_failed_side_projects_until_now/</link>
-      <description><![CDATA[到目前为止，你们做了多少个业余项目。失败或成功，我只想知道你是如何产生这个想法、如何执行以及你的“运气”的故事  我一生中大约有 5 个失败的项目，总共花费了 30 多万美元。 我不得不让自己休息一年，每月工作 1000 美元，重新发现自己  你呢？     提交人    /u/Full_Employee_1978   [链接] [评论]]]></description>
+      <description><![CDATA[到目前为止，你们做了多少个业余项目。失败或成功，我只想知道你是如何产生这个想法、如何执行以及你的“运气”的  我一生中大约有 5 个失败的项目，总共花费超过 30 万美元。 我不得不让自己休息一年，每月工作 1000 美元，重新发现自己  你呢？     提交人    /u/Full_Employee_1978   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1dfed5t/how_many_failed_side_projects_until_now/</guid>
       <pubDate>Fri, 14 Jun 2024 00:43:43 GMT</pubDate>
     </item>
@@ -50,65 +99,16 @@
     <item>
       <title>我制作了一个 Chrome 扩展程序，可以从活动页面中提取文本</title>
       <link>https://www.reddit.com/r/SideProject/comments/1dfcqwh/i_made_a_chrome_extension_that_extracts_text_from/</link>
-      <description><![CDATA[我制作这个免费扩展程序是因为我厌倦了在学校阅读长篇文章。此扩展程序将网页上的所有文本转换为可下载的纯文本 (.txt) 文件，Chat GPT 可以轻松查询这些文本，并且使用纯文本文件而不是仅键入/粘贴提示时上下文限制几乎是 100 倍。 在这里。非常感谢您的反馈或功能请求！    提交人    /u/Fair_Perspective_761   [链接] [评论]]]></description>
+      <description><![CDATA[我制作了这个免费扩展程序，因为我厌倦了在学校阅读长篇文章。此扩展程序将网页上的所有文本转换为可下载的纯文本 (.txt) 文件，Chat GPT 可以轻松查询这些文本，并且使用纯文本文件而不是仅键入/粘贴提示时上下文限制几乎是 100 倍。 在这里。非常感谢您的反馈或功能请求！    提交人    /u/Fair_Perspective_761   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1dfcqwh/i_made_a_chrome_extension_that_extracts_text_from/</guid>
       <pubDate>Thu, 13 Jun 2024 23:23:18 GMT</pubDate>
     </item>
     <item>
       <title>我们创建了一个 100% 私密、100% 本地的 Perplexity。</title>
       <link>https://www.reddit.com/r/SideProject/comments/1dfcoc7/we_created_a_100_private_100_local_perplexity/</link>
-      <description><![CDATA[      这个项目源于对 AI 中简单、隐私优先选项的渴望。对 Copilot + Recall 的强烈反对是压垮骆驼的最后一根稻草，更不用说我不允许将工作数据与 ChatGPT 一起使用，等等。 如果您是开发人员，则可以使用 Ollama 或 llama.cpp，但有时我希望在不打开终端的情况下使用我的数据。 因此，这个项目诞生了。我和一个朋友一起开发了类似 Perplexity 的体验。 这个原生桌面应用程序： 从 Gmail、云端硬盘、日历等本地提取数据。将这些数据与您的本地数据一起索引/嵌入，然后在这些数据上运行本地 LLM + 信息提取器，以提供类似 Perplexity 的体验。无需云服务器！数据直接从您的服务传输到您的计算机。对于那些感兴趣的人，我们有一些关于如何构建它的说明： 跨平台框架 (Tauri) - Rust 后端 + ReactJS 前端。视频使用 Llama3 8b 的 Q5_K_M（但也适用于其他 LLM，包括 Phi3）。直接通过 OAuth 授权到 Gmail/Drive/Calendar - 数据仅在本地提取。目前是闭源的，但我们正在讨论开源 Knapsack。我们很乐意听听您对此的看法。如果您使用这样的工具，请告诉我们！我们需要动力来完成它并将其发布到世界各地。    提交人    /u/cll-knap   [链接] [评论] ]]></description>
+      <description><![CDATA[      这个项目源于对 AI 中简单、隐私优先选项的渴望。对 Copilot + Recall 的强烈反对是压垮骆驼的最后一根稻草，更不用说我不允许将工作数据与 ChatGPT 一起使用，等等。 如果您是开发人员，则可以使用 Ollama 或 llama.cpp，但有时我希望在不打开终端的情况下使用我的数据。 因此，这个项目诞生了。我和一个朋友一起开发了类似 Perplexity 的体验。 这个原生桌面应用程序： 从 Gmail、云端硬盘、日历等本地提取数据。将这些数据与您的本地数据一起索引/嵌入，然后在这些数据上运行本地 LLM + 信息提取器，以提供类似 Perplexity 的体验。无需云服务器！数据直接从您的服务传输到您的计算机。对于那些感兴趣的人，我们有一些关于如何构建它的说明： 跨平台框架 (Tauri) - Rust 后端 + ReactJS 前端。该视频使用 Llama3 8b 的 Q5_K_M（但也适用于其他 LLM，包括 Phi3）。直接通过 OAuth 连接到 Gmail/Drive/Calendar - 数据仅在本地提取。目前是闭源的，但我们正在讨论开源 Knapsack。我们很乐意听听您对此的想法。如果您使用这样的工具，请告诉我们！我们需要动力来完成它并将其发布到世界各地。    提交人    /u/cll-knap   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1dfcoc7/we_created_a_100_private_100_local_perplexity/</guid>
       <pubDate>Thu, 13 Jun 2024 23:19:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>希望利用人工智能制作视频、漫画书和游戏</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dfc782/looking_to_use_ai_to_create_videos_comic_books/</link>
-      <description><![CDATA[我正在寻找一些很酷的人加入我。我们的想法是使用 ChatGPT 等 AI 工具和其他 AI 生成器来制作电影、电视节目风格的视频甚至视频游戏。以下是我的想法： 这个项目是什么？  电影和电视节目视频：使用 AI 编写脚本、生成视觉效果并制作独特、有趣的内容。 视频游戏：探索 AI 如何帮助创建游戏叙事、角色和世界。 AI 工具：用于脚本的 ChatGPT、用于视觉效果的图像生成器以及用于效果和音乐的声音生成器。到目前为止，我已经创建了一些有趣的视频，以及一些带有音乐 AI 的歌曲。  我正在寻找的人：  AI 爱好者：任何对以创造性方式使用 AI 感到兴奋的人。 游戏玩家和开发人员：能够帮助将 AI 创意转化为可玩游戏的人。 创意头脑：作家、艺术家以及任何对电影、节目或游戏有酷炫想法的人。 实验：享受 AI 的乐趣，看看我们能创造什么。 协作：与志同道合的人一起工作并分享您的技能。 可能的利润：虽然这主要是为了好玩，但我们有可能在未来将我们的创作货币化。  如果您觉得这很有趣，请发表评论或给我留言。让我们聊聊，看看我们如何将一些很棒的 AI 驱动项目变为现实！    提交人    /u/Delycan   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dfc782/looking_to_use_ai_to_create_videos_comic_books/</guid>
-      <pubDate>Thu, 13 Jun 2024 22:58:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>我厌倦了在干旱时期无法卖水的人工智能聊天机器人，所以在人工智能/机器学习领域工作了 4.5 年后，我创建了 Elephant.ai——来见见真正能达成交易的人工智能聊天机器人！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1df944t/i_was_tired_of_ai_chatbots_that_couldnt_sell/</link>
-      <description><![CDATA[在过去四年半的时间里，我深入研究了 AI/ML 领域，我对商业网站 AI 聊天机器人的现状深感沮丧。从 Chatbase 到那些鲜为人知的聊天机器人，它们似乎都缺少……一些东西。它们可以重复一些信息，当然，但吸引客户并实现实际销售？算了吧——完全没用。 就在那时，我决定撸起袖子，打造 Elephant.ai。为什么叫它 Elephant？因为它永远不会忘记从您的内容（您的商业网站、您的文档、您的视频、图片、概念、问答等）中学到的东西。 以下是 Elephant.ai 的与众不同之处：  真正智能：Elephant.ai 不仅仅是 Chatgpt 智能的翻版。我们的团队对其 AI 进行了深度定制和微调，使其超越了典型模型。它通过理解和适应企业的独特需求，提供量身定制的精确响应。 从一切事物中学习：Elephant.ai 不仅限于基于文本的理解。它可以消化您的网站内容、文档、概念、视频和图像，使其比典型的聊天机器人更具信息量。 销售机器：与主要用于客户支持的典型聊天机器人不同，Elephant.ai 充当了积极的销售代理。 Elephant.ai 可以像经验丰富的销售代表一样巧妙地安排通话、收集线索、说服潜在客户并处理异议。 图像功能：用户可以直接向 Elephant.ai 发送图像消息，它会根据视觉内容做出智能响应，从而增强交互可能性。 无缝人工接管：想与真人聊天？立即从 AI 切换到人工支持！ 高级分析：深入了解您的客户互动，以更好地定制您的服务。 定制潜在客户表单：直接通过聊天界面有效捕获潜在客户的信息。 持续改进周期：借助 AI 的最新进展，Elephant.ai 不断发展。它从每次互动中学习，获得新的见解并随着时间的推移完善其理解。这种持续改进可确保它在您的业务和客户需求发展过程中保持有效。 用户友好型设计：我们在设计 Elephant.ai 时就考虑到了可用性。它具有干净、直观的界面，使用户能够愉快地进行交互，而这在其他 AI 解决方案中经常被忽视。 完全可定制：调整其学习、响应、处理对话的方式，甚至自定义外观以匹配您网站的主题，确保它与您的网站无缝契合。  但这是最好的部分 - 我们将全力以赴实现净零利润模式。这是什么意思？所有利润都通过您推荐给 Elephant.ai 的每个付费客户的70% 终身经常性佣金返还给营销人员。（请访问我们网站上的联盟页面了解更多信息）是的，您没看错。业内没有其他人提供如此高的佣金。我们非常重视支持支持我们的社区。 我们相信支持我们的营销人员是我们共同成功的关键。我们希望培育一个让每个人都受益的繁荣社区——帮助您的业务发展也会对我们有所帮助。 我很乐意听到您的想法、反馈或任何建议。我们如何才能让 Elephant.ai 更好地为您服务？在我们继续完善和增强我们的平台时，您的意见非常宝贵。 在此处索取 100% 免费无义务演示，观看 Elephant.ai 在您自己的商业网站上的实际操作：https://elephant.ai/book-a-demo 查看演示：Elephant.ai 在 ScrubDaddy 上运行 ScrubDaddy    提交人    /u/Accurate-Flamingo357   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1df944t/i_was_tired_of_ai_chatbots_that_couldnt_sell/</guid>
-      <pubDate>Thu, 13 Jun 2024 20:39:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>我梦见了一些最随机的事情，这意味着什么？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1df8krm/i_dream_the_most_random_things_what_does_that_mean/</link>
-      <description><![CDATA[  由    /u/Western_Play_7777  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1df8krm/i_dream_the_most_random_things_what_does_that_mean/</guid>
-      <pubDate>Thu, 13 Jun 2024 20:16:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>一款根据你手头现有食材提供食谱创意的机器人</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1df82ky/a_bot_to_provide_recipe_ideas_based_off_the/</link>
-      <description><![CDATA[  由    /u/alc90  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1df82ky/a_bot_to_provide_recipe_ideas_based_off_the/</guid>
-      <pubDate>Thu, 13 Jun 2024 19:55:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何坚持同一个副项目？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1df78o8/how_to_stick_to_same_side_project/</link>
-      <description><![CDATA[我喜欢从事业余项目，每天我都会有新的想法，想着可以做什么。  但是，我发现很难长期从事业余项目。例如，两年多前，我根据遇到的一个问题启动了一个小型业余项目，现在它有近 200 名用户，但我并不像刚开始时那样喜欢从事它。  我也使用业余项目来学习新技术。这可能就是我总是喜欢开始新项目的原因。 你有什么建议吗？     提交人    /u/liuuuk311   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1df78o8/how_to_stick_to_same_side_project/</guid>
-      <pubDate>Thu, 13 Jun 2024 19:20:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能预测谁将赢得 2024 年欧洲杯冠军</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1df755b/aipowered_predictions_on_who_will_win_uefa/</link>
-      <description><![CDATA[      献给足球迷们！为 2024 年欧洲足球锦标赛构建这个预测分析应用程序很有趣：https://euro2024.luzmo.com。您可以比较各支球队的实力，预测每场比赛的获胜者。目前包含资格赛的数据，但我计划在明天比赛开始后立即更新比赛数据。 还创建了一个 AI 模型来预测每场比赛的获胜概率以及比赛的不同阶段。好奇想知道这将有多准确！  数据来源：https://www.uefa.com/euro2024/ 使用的工具：Luzmo  让我知道你的想法！ https://preview.redd.it/s22ixvhh2e6d1.png?width=2778&amp;format=png&amp;auto=webp&amp;s=899077be012e3bb0bf51705e3154ec591c4ca842    提交人    /u/InsightScripter   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1df755b/aipowered_predictions_on_who_will_win_uefa/</guid>
-      <pubDate>Thu, 13 Jun 2024 19:16:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>100% 免费专业语音邮件问候</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1df73ip/100_free_pro_voicemail_greeting/</link>
-      <description><![CDATA[我刚刚启动了我的 1 小时副项目，免费创建专业且个性化的语音邮件问候语。  无需信用卡或注册。 在几秒钟内生成您的自定义音频文件并留下持久的印象！ 尝试：https://www.perfectgreet.site    提交人    /u/Ahmad-Ibrahim   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1df73ip/100_free_pro_voicemail_greeting/</guid>
-      <pubDate>Thu, 13 Jun 2024 19:14:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
