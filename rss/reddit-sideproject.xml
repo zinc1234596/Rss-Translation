@@ -4,11 +4,74 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Fri, 14 Jun 2024 18:18:05 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Jun 2024 21:13:39 GMT</lastBuildDate>
+    <item>
+      <title>Mase JS 是一种完全在 JavaScript 中编写 HTML 的新方法。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dg0xx6/mase_js_is_a_new_way_to_write_html_entirely_in/</link>
+      <description><![CDATA[      Mase JS 是一种完全在 JavaScript 中编写 HTML 的新方法。 介绍 Mase JS，这是一种完全在 JavaScript 中编写和构建 html 的新方法。由于库的大小仅为 800 字节，因此在您的网站上占用的空间很小。它使用自定义 JSON 格式，可在前端将 JavaScript 转换为 html。以前称为 PaperJS。 计划： 使用 nodejs 或 express 进行服务器端 / 后端渲染。 查看 GitHub 开始使用，另外，一个 star 就更好了，如果你发现错误或者想问我问题，请随时给我发私信或加入 Discord 服务器。    提交人    /u/Medical_Start4604   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dg0xx6/mase_js_is_a_new_way_to_write_html_entirely_in/</guid>
+      <pubDate>Fri, 14 Jun 2024 20:50:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>您最大的痛点是什么？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dg0qot/what_is_your_biggest_pain_point/</link>
+      <description><![CDATA[在中小型企业和初创公司的各个领域工作后，我注意到一些与产品或营销相关的挑战会重复出现。 例如，“从哪里获得创意”或“如何获得我的第一批客户”，我想构建一项服务或产品来帮助初始阶段（最高 2 万美元 MRR）。 什么对你有价值？你愿意支付固定金额还是一定比例的收入？    提交人    /u/Secret-Ad-3894   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dg0qot/what_is_your_biggest_pain_point/</guid>
+      <pubDate>Fri, 14 Jun 2024 20:41:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>我开发了 CopyClips，这是一款 AI 工具，可以在 60 秒内将任何文本或 URL 转换为 TikTok 风格的视频</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dg04ut/i_built_copyclips_an_ai_tool_to_convert_any_text/</link>
+      <description><![CDATA[      大家好！我构建 SaaS 产品已有一年多了，为了推广它们并吸引流量/用户，我主要依靠基于文本的内容营销，比如撰写博客、时事通讯等。我一直在研究扩展到 TikTok、Reels 和 Shorts 上的视频营销的方法，但没有花至少 30 分钟的时间，也没有费力地将我的博客复制/粘贴到 ChatGPT 中来创建脚本，找到匹配的素材片段，然后在 iMovie 上将它们编辑在一起，每次我创建博客文章或时事通讯时。 是的，我知道有一些工具可以自动化这个过程，但我找不到一个能让我有效地创建和管理跨多个项目的视频的工具，所以我最终构建了 CopyClips，它可以让您在不到一分钟的时间内轻松地从文本转换为 TikTok 风格的无脸视频。我一直在自己的博客和新闻通讯中使用该工具，并且扩展到视频内容大大增加了我网站的流量。 CopyClips 的主要功能包括：  从任何文本、URL 或提示开始创建 AI 生成的视频脚本（您也可以在不同的 LLM 之间进行选择，例如 ChatGPT、Llama 等）。 使用 Stable Diffusion 选择使用来自 Pexels/Pixabay 的素材或 AI 生成的图像（基于视频脚本）。 从 45 种不同的 AI 语音风格中进行选择以叙述您的视频，并可选择添加 TikTok 上流行的背景声音。 内置编辑器：编辑生成的视频，自定义文本叠加的样式，更改背景音乐，用素材或您自己的视频替换视频素材，重新生成 AI 画外音等等。 以高清质量和多种尺寸格式导出视频（9:16， 16:9、1:1、4:5） 协作：邀请团队成员进行协作，并创建组织来管理跨项目或客户的视频。  CopyClips 仍处于公开测试阶段，因此您可以免费制作您的第一个视频：https://copyclips.ai 查看一下，我很想听到您的反馈和想法！如果您想要折扣，请随时给我发私信，我会把折扣发给您 :) 视频编辑器    提交人    /u/0xdino   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dg04ut/i_built_copyclips_an_ai_tool_to_convert_any_text/</guid>
+      <pubDate>Fri, 14 Jun 2024 20:14:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一款 chatgpt 应用，让你以更少的钱像国际学生一样被 DRIPPED tf 所吸引 😩 [课堂项目]</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dfzuge/i_made_a_chatgpt_app_to_make_you_dripped_tf_out/</link>
+      <description><![CDATA[      你们都喜欢节俭吗？我和我的朋友对网上中高端时尚品牌的高价格感到沮丧，并因此无法获得穿搭灵感 因此，在我们的计算机项目课上，我们为我们的课程创建了一个名为 Encore 的人工智能时尚助手，它可以为任何中高端设计师产品链接最好的二手/更便宜的替代品 如果您有兴趣尝试一下 - https://www.chat.shopencore.ai 输入您要查找的内容，提供更细致入微的查询，与它聊天，它会在一个页面上搜索数百个转售/二手/拍卖网站（如 Grailed、Thredup、Vinted、Depop 等，以及谷歌没有优先考虑的网站）：) 期末考试后，我们的规模迅速扩大，因此我们很乐意收到任何反馈，谢谢！ 例如 w/ balenciiii https://preview.redd.it/ascl1rqjfl6d1.png?width=1606&amp;format=png&amp;auto=webp&amp;s=d7b67f46e55b442c2e00857c63458708f8942fd6    提交人    /u/NoIndication7284   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dfzuge/i_made_a_chatgpt_app_to_make_you_dripped_tf_out/</guid>
+      <pubDate>Fri, 14 Jun 2024 20:02:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>170 多个 AI 目录可供提交您的 AI 应用程序</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dfzisd/170_ai_directories_to_submit_your_ai_app/</link>
+      <description><![CDATA[大家好， 一份包含 170 多个 AI 目录的列表，您可以在其中提交您的 AI 应用程序并在其上传播消息！ 链接    提交人    /u/Ok_Cap9063   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dfzisd/170_ai_directories_to_submit_your_ai_app/</guid>
+      <pubDate>Fri, 14 Jun 2024 19:48:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>已售出第一份高级订阅 🎉🙌</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dfzh45/sold_first_premium_subscription/</link>
+      <description><![CDATA[        提交人    /u/0xManjeet   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dfzh45/sold_first_premium_subscription/</guid>
+      <pubDate>Fri, 14 Jun 2024 19:46:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>像电报这样的平台在开展业务方面是否未被充分利用？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dfyo41/are_platforms_like_telegram_underused_for/</link>
+      <description><![CDATA[我喜欢电报，因为它提供了一个独特的平台，具有集成和功能，可让您以非传统方式无缝地开展业务。 从开发人员的角度来看，我也喜欢它消除了构建前端的需要。与其他平台（例如 discord）相比，带有电报 API 的 DX 也要好得多。 话虽如此，我觉得我没有听到或看到足够多关于企业如何使用电报的信息。也许，我只是不知道在哪里看？ 如果您已经构建了一个利用电报作为集成支付的前端的产品，我很乐意听听您的经验以及您选择电报的原因。    提交人    /u/d41_fpflabs   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dfyo41/are_platforms_like_telegram_underused_for/</guid>
+      <pubDate>Fri, 14 Jun 2024 19:09:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>我打造了 VideoSnack - 利用 AI 将视频重新转化为文本内容</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dfyd2g/i_built_videosnack_repurpose_videos_to_text/</link>
+      <description><![CDATA[我正在为我的 SAAS 产品制作操作方法视频，我建立了自己的流程，我会将 Youtube 视频记录添加到 ChatGPT 中，并添加一些优化的提示，将其变成类似博客文章的教程。我会获取生成的文本，将其添加到 Google Docs 中，在那里对其进行格式化、添加图像、链接等，然后使用 DocPress（我为此目的构建的工具）将其导出到我的 WordPress 网站。 我以这种方式创建的博客文章实际上比视频获得了更多的点击量/流量，但我想这更多地与内容有关，我相信这并不适用于所有人。将您的 Youtube 视频转换为书面内容可以提高您的知名度，就像它对我一样，在博客文章中我总是包含视频，所以在某种程度上我在进行交叉推广。  基于这一经验，我构建了 VideoSnack，这是一个 Google Docs 插件（目前），只需点击几下即可完成所有这些操作。只需添加 YouTube 视频，设置您的选项，您就可以获得准备发布的博客文章或其他类型的内容，如时事通讯、摘要、教程、展示笔记等。  为什么首先将其构建为 Google Docs 插件？因为它是一种管理文本并在不同格式或位置重复使用的简便方法。  VideoSnack 每月提供 2 个视频的免费选项。如果您认为它可以为您提供帮助，请安装它并回来提供一些反馈，我们很乐意听到您的反馈并使其变得更好 :)    提交人    /u/alexjonesro   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dfyd2g/i_built_videosnack_repurpose_videos_to_text/</guid>
+      <pubDate>Fri, 14 Jun 2024 18:56:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 WhatsApp 与客户沟通并进行销售</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dfy90h/use_whatsapp_to_communicate_and_sell_to_your/</link>
+      <description><![CDATA[      大家好， 最近，我为一位经营快闪面包店的朋友开发了一个 whatsapp 聊天机器人。该机器人允许客户查看当前正在销售的产品，并允许客户通过 whatsapp 购买产品。它对她的客户很有效，并且确实简化了订购流程。（她是一家个人商店） 我想看看是否还有其他人可以使用类似的东西。  如果您是拥有数十或数百个客户（而不是数千个）的电子商务卖家，并且对类似的东西感兴趣，请联系我。很乐意为您提供演示和访问权限以进行测试。此时，我想将其限制为 5 个用户。 （如果您过去使用过类似的东西，我也很想听听您的反馈） 机器人运行中的屏幕截图    提交人    /u/HydroCaptain   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dfy90h/use_whatsapp_to_communicate_and_sell_to_your/</guid>
+      <pubDate>Fri, 14 Jun 2024 18:51:16 GMT</pubDate>
+    </item>
     <item>
       <title>我创建了我一直想要的标签管理器——“Flow”</title>
       <link>https://www.reddit.com/r/SideProject/comments/1dfxcj8/i_created_a_tab_manager_i_always_wanted_flow/</link>
-      <description><![CDATA[嗨，Redditors 的朋友们！ 我很高兴与你们分享我最新的创作。 Flow，一个可以帮助你的标签游戏步入正轨的 chrome 扩展程序 开源：没错，伙计们！Flow 是完全开源的，这意味着如果你愿意，你可以深入研究并为代码做出贡献。我相信透明度是建立信任和创造真正令人惊叹的东西的关键。 本地数据存储：你的数据只属于你自己 - Flow 将您的会话数据存储在你的机器本地，因此你不必担心敏感信息被发送到其他任何地方。 无需登录：Flow 不需要登录或任何个人信息。只需安装并开始流动！ 轻松的标签管理：创建会话，自动保存标签，无缝恢复等等。 简单：我保持界面简单易用。没有混乱或困惑。 尝试一下 Flow，看看它如何帮助您简化工作流程！ 您的反馈对于改进 Flow 非常有价值，所以不要犹豫，分享您的想法和建议。 网上商店链接：Flow - Tab Manager GitHub Repo：flow 歌曲来源https://bensound.com/free-music-for-videos 许可代码：ZLCZO4SK2QN32ZFQ    提交人    /u/PlagueDoctor0_0   [链接] [评论]]]></description>
+      <description><![CDATA[      https://reddit.com/link/1dfxcj8/video/u8yg1szvkl6d1/player 大家好！ 我很高兴与你们分享我最新的创作。 Flow，一个可以帮助你的标签游戏走上正轨的 chrome 扩展程序 开源：没错，伙计们！Flow 是完全开源的，这意味着如果你愿意，你可以深入研究并为代码做出贡献。我相信透明度是建立信任和创造真正令人惊叹的事物的关键。 本地数据存储：您的数据只属于您自己 - Flow 将您的会话数据本地存储在您的机器上，因此您不必担心敏感信息被发送到其他任何地方。 无需登录：Flow 不需要登录或任何个人信息。只需安装并开始流动！ 轻松的标签管理：创建会话、自动保存标签、无缝恢复等等。 简单：我保持界面简单易用。没有混乱或困惑。 尝试一下 Flow，看看它如何帮助您简化工作流程！ 您的反馈对于改进 Flow 非常有价值，所以不要犹豫，分享您的想法和建议。 网上商店链接：Flow - Tab Manager GitHub Repo：flow 歌曲来源https://bensound.com/free-music-for-videos 许可代码：ZLCZO4SK2QN32ZFQ    提交人    /u/PlagueDoctor0_0   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1dfxcj8/i_created_a_tab_manager_i_always_wanted_flow/</guid>
       <pubDate>Fri, 14 Jun 2024 18:12:16 GMT</pubDate>
     </item>
@@ -46,69 +109,6 @@
       <description><![CDATA[我想为两位开发人员、一位高级开发人员和一位初级全栈开发人员就某些服务的价格进行谈判，并且想确保质量不会出现问题。您有什么策略或技巧可以有效地进行谈判，同时确保最终产品或服务保持一流水平？ 非常感谢您的建议和经验！    提交人    /u/billy_gaht   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1dfuv2a/how_can_you_negotiate_prices_without_messing_up/</guid>
       <pubDate>Fri, 14 Jun 2024 16:24:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>为年轻人打造 ADHD 伙伴。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dfuswg/building_adhd_sidekicks_for_young_people/</link>
-      <description><![CDATA[        提交人    /u/JL-Engineer   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dfuswg/building_adhd_sidekicks_for_young_people/</guid>
-      <pubDate>Fri, 14 Jun 2024 16:21:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>你是如何找到你的副业的？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dfur65/how_did_you_find_your_side_project/</link>
-      <description><![CDATA[大家好，我是社区的新人，希望有一个自己的副业。我是一名经验丰富的全栈软件工程师，兴趣广泛，但我就是无法决定要做什么。我有一些想法，但没有一个能让我说“就是它了！这就是我从现在开始要追求的！”。 所以我在寻求建议、帮助或灵感。也许你关于如何找到你的项目的故事也能激励我。我现在有点迷茫，很想有一个值得花时间和享受旅程的项目。 如果你有关于如何找到（并决定）副业的其他提示和技巧，我非常感谢你的任何意见！    提交人    /u/nic_key   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dfur65/how_did_you_find_your_side_project/</guid>
-      <pubDate>Fri, 14 Jun 2024 16:19:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>推出“Just Try”：奖金 100 美元的挑战应用程序！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dfum9p/introducing_just_try_the_challenge_app_with_a_100/</link>
-      <description><![CDATA[推出一款利用挑战和创造力的全新社交互动应用。创建您想象中的任何挑战，让随机用户完成并通过 15 秒视频应对用户创建的挑战。第一个完成 100 个挑战的用户将赢得 100 美元。加入乐趣并释放您的创造力！在 Apple Store 上搜索 Just Try 或使用链接：https://apps.apple.com/us/app/just-try/id6502301348。    提交人    /u/NewtAffectionate1286   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dfum9p/introducing_just_try_the_challenge_app_with_a_100/</guid>
-      <pubDate>Fri, 14 Jun 2024 16:13:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个免费的无限批量图像压缩工具</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dfucwh/i_made_a_free_unlimited_bulk_image_compressor_tool/</link>
-      <description><![CDATA[  由    /u/_blueseal  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dfucwh/i_made_a_free_unlimited_bulk_image_compressor_tool/</guid>
-      <pubDate>Fri, 14 Jun 2024 16:02:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>Reddit 让我的副业有点火爆了！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dft49j/reddit_made_my_side_project_blow_up_a_little/</link>
-      <description><![CDATA[几周前，我为我的女儿制作了一张 2024 年欧洲杯挂图，因为我在网上找不到一张没有色块且能在 A4 上打印得很好的挂图。我在这里创建了一个帐户，因为我认为足球社区的一些人可能会喜欢它，一些版主很好心地允许我发布有关它的信息，而且（对我来说）它有点火爆了！ 为了响应请求，我开始制作不同的时区，现在全世界有 15 个时区。它似乎引起了世界各地人们的共鸣。 现在，它有来自 8,000 多个唯一 IP 的 10,000 多次访问。最初英国的图表最受欢迎，但现在它遍布世界各地：美国、澳大利亚、越南、东欧！一个来自缅甸的人让我在他的时区制作一个！互联网是多么神奇啊！ 我喜欢互联网最初的概念，所以让它完全免费：不需要注册，没有跟踪/cookies，没有广告。只有一个小费罐（现在还是空的哈哈）。 Reddit 上的人们真的让我印象深刻。 但是，是的，非常高兴一个真正的实际副项目有点成功，远远超出了我的预期！ https://printablewallcharts.com    提交人    /u/PrintableWallcharts   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dft49j/reddit_made_my_side_project_blow_up_a_little/</guid>
-      <pubDate>Fri, 14 Jun 2024 15:09:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>Wisha.me</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dfsk2m/wishame/</link>
-      <description><![CDATA[帮助建立（设计角色）www.wisha.me，这是一种与朋友和其他人共同纪念活动的方式，您还可以为访客创建一个愿望清单，以查看您活动的礼物创意。希望得到反馈/批评，谢谢！    由    /u/eikonnn  提交  [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dfsk2m/wishame/</guid>
-      <pubDate>Fri, 14 Jun 2024 14:45:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否有人根据别人的问题创建过盈利的 SaaS 工具？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dfs9c3/has_anyone_created_a_profitable_saas_tool_based/</link>
-      <description><![CDATA[我经常看到有人问：“如何找到一个有利可图的 SaaS 创意？”常见的建议是解决自己的问题，因为其他人可能也有同样的问题。另一个建议是在论坛和社区中寻找痛点，然后解决它们。 但许多开发人员没有特定问题，只是喜欢编码。我遇到过许多帖子，人们说要在各种论坛和社区中寻找公司或个人的痛点并解决他们的问题。 我很好奇，是否有人发现了一个问题，创建了一个 SaaS 工具来解决它，并且它最终带来了利润，即使他们与该问题的利基市场或先前知识没有任何联系。结果如何？    提交人    /u/dexter-dot   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dfs9c3/has_anyone_created_a_profitable_saas_tool_based/</guid>
-      <pubDate>Fri, 14 Jun 2024 14:32:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>立即注册即可获得整年免费订阅！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dfrw8l/signup_today_and_receive_a_full_year_free/</link>
-      <description><![CDATA[      在限期内，Langaroo 提供全年免费订阅！奖励计划允许我们尊贵的用户通过他们的忠诚和参与赚取真金白银，同时与来自世界各地的人们建立联系。该网站进一步详细说明了支付方式及其运作方式。  https://langarooaccess.co/langaroo/?via=6c4d4a03-9ba5-46be-aa4c-dcb5c2ec3796 网站：https://langaroo.co/rewards/     提交人    /u/Langaroo_US   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dfrw8l/signup_today_and_receive_a_full_year_free/</guid>
-      <pubDate>Fri, 14 Jun 2024 14:16:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一款应用，利用机器学习和 Spotify 来找到适合你一天的完美音乐。看看它，让我知道你的想法！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dfrqn4/i_made_an_app_that_uses_machine_learning_and/</link>
-      <description><![CDATA[        提交人    /u/such-animosity   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dfrqn4/i_made_an_app_that_uses_machine_learning_and/</guid>
-      <pubDate>Fri, 14 Jun 2024 14:09:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
