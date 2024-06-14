@@ -4,7 +4,56 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Thu, 13 Jun 2024 21:13:29 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Jun 2024 00:58:26 GMT</lastBuildDate>
+    <item>
+      <title>已实现主要用户流程。希望得到您的反馈。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dfejvu/main_user_flow_implemented_would_love_your/</link>
+      <description><![CDATA[        提交者    /u/akitsushima   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dfejvu/main_user_flow_implemented_would_love_your/</guid>
+      <pubDate>Fri, 14 Jun 2024 00:53:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>到现在为止有多少个副业项目失败了？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dfed5t/how_many_failed_side_projects_until_now/</link>
+      <description><![CDATA[到目前为止，你们做了多少个业余项目。失败或成功，我只想知道你是如何产生这个想法、如何执行以及你的“运气”的  我一生中大约有 5 个失败的项目，总共花费超过 30 万美元。 我不得不让自己休息一年，每月工作 1000 美元，重新发现自己  你呢？     提交人    /u/Full_Employee_1978   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dfed5t/how_many_failed_side_projects_until_now/</guid>
+      <pubDate>Fri, 14 Jun 2024 00:43:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>简单金融市场网站</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dfe0iv/simple_financial_markets_website/</link>
+      <description><![CDATA[这只是一个非常简单的网站，展示市场数据和一些动态列表和表格，仍处于开发阶段（需要几秒钟才能加载） https://docs.google.com/spreadsheets/d/e/2PACX-1vRfD32os0pIKxFM4K2xZhPXaNHz5H8wcfunPRV2yZ-PZhHs67aC​​HcQVRrNO1gRa6EhJb_bqP7lEsLLs/pubhtml?urp=gmail_link#    提交人    /u/Human-Cycle9184   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dfe0iv/simple_financial_markets_website/</guid>
+      <pubDate>Fri, 14 Jun 2024 00:25:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>每天大约有 200 个电话，开始真正发挥作用 – 接线员会为您拨打电话。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dfdnhs/starting_to_see_real_traction_at_about_200_calls/</link>
+      <description><![CDATA[像你们中的许多人一样，我一直在建造东西。￼大约一个月前，我整理了一个小项目，以求好玩。这次我认为它成功了。  我建造了很多垃圾 - 事实上，我建造的大多数东西都只有一个观众。 这个项目名为 Operator，最终变得有些不同。这是链接。 https://www.operator.tel 最初的想法是，我会用它来偶尔给我自己打电话。 有一家我非常喜欢的餐厅，那里总是有超长的等待时间，所以我用它来打电话并了解等待时间。我妻子的车正在维修，询问它是否准备好了很烦人，所以我让它帮我打电话。诸如此类的事情。 ￼ 最后，我终于有信心告诉几个朋友了。然后我问他们是否可以告诉他们的朋友……事情一周又一周地进展，现在我每天接到大约 200 个电话。没什么大不了的，但每周的电话数量都在增加。  事实证明，一个很大的用例是为英语不流利的人打电话。  我刚刚建立了一个可以翻译成其他语言的简单小网站，并让整个产品支持西班牙语、普通话和他加禄语——只是作为测试。  现在还处于早期阶段，我还在努力工作的同时还在摸索。我还没有向任何人收费，当你注册时，它声称会给人们 10 分钟的通话时间……但现在实际上是无限的。  只是分享一点牵引力，希望有些人会使用它。 我今天刚刚设置的一件事是 Discord，这样我就可以获得反馈，而不是在日志中查看错误和内容。所以如果你愿意的话，很高兴你能加入 discord。 https://discord.gg/nvWsnrVs    提交人    /u/allang   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dfdnhs/starting_to_see_real_traction_at_about_200_calls/</guid>
+      <pubDate>Fri, 14 Jun 2024 00:07:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个 Chrome 扩展程序，可以从活动页面中提取文本</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dfcqwh/i_made_a_chrome_extension_that_extracts_text_from/</link>
+      <description><![CDATA[我制作了这个免费扩展程序，因为我厌倦了在学校阅读长篇文章。此扩展程序将网页上的所有文本转换为可下载的纯文本 (.txt) 文件，Chat GPT 可以轻松查询这些文本，并且使用纯文本文件而不是仅键入/粘贴提示时上下文限制几乎是 100 倍。 在这里。非常感谢您的反馈或功能请求！    提交人    /u/Fair_Perspective_761   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dfcqwh/i_made_a_chrome_extension_that_extracts_text_from/</guid>
+      <pubDate>Thu, 13 Jun 2024 23:23:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们创建了一个 100% 私密、100% 本地的 Perplexity。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dfcoc7/we_created_a_100_private_100_local_perplexity/</link>
+      <description><![CDATA[      这个项目源于对 AI 中简单、隐私优先选项的渴望。对 Copilot + Recall 的强烈反对是压垮骆驼的最后一根稻草，更不用说我不允许将工作数据与 ChatGPT 一起使用，等等。 如果您是开发人员，则可以使用 Ollama 或 llama.cpp，但有时我希望在不打开终端的情况下使用我的数据。 因此，这个项目诞生了。我和一个朋友一起开发了类似 Perplexity 的体验。 这个原生桌面应用程序： 从 Gmail、云端硬盘、日历等本地提取数据。将这些数据与您的本地数据一起索引/嵌入，然后在这些数据上运行本地 LLM + 信息提取器，以提供类似 Perplexity 的体验。无需云服务器！数据直接从您的服务传输到您的计算机。对于那些感兴趣的人，我们有一些关于如何构建它的说明： 跨平台框架 (Tauri) - Rust 后端 + ReactJS 前端。该视频使用 Llama3 8b 的 Q5_K_M（但也适用于其他 LLM，包括 Phi3）。直接通过 OAuth 连接到 Gmail/Drive/Calendar - 数据仅在本地提取。目前是闭源的，但我们正在讨论开源 Knapsack。我们很乐意听听您对此的想法。如果您使用这样的工具，请告诉我们！我们需要动力来完成它并将其发布到世界各地。    提交人    /u/cll-knap   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dfcoc7/we_created_a_100_private_100_local_perplexity/</guid>
+      <pubDate>Thu, 13 Jun 2024 23:19:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>希望利用人工智能制作视频、漫画书和游戏</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dfc782/looking_to_use_ai_to_create_videos_comic_books/</link>
+      <description><![CDATA[我正在寻找一些很酷的人加入我。我们的想法是使用 ChatGPT 等 AI 工具和其他 AI 生成器来制作电影、电视节目风格的视频甚至视频游戏。以下是我的想法： 这个项目是什么？  电影和电视节目视频：使用 AI 编写脚本、生成视觉效果并制作独特、有趣的内容。 视频游戏：探索 AI 如何帮助创建游戏叙事、角色和世界。 AI 工具：用于脚本的 ChatGPT、用于视觉效果的图像生成器以及用于效果和音乐的声音生成器。到目前为止，我已经创建了一些有趣的视频，以及一些带有音乐 AI 的歌曲。  我正在寻找的人：  AI 爱好者：任何对以创造性方式使用 AI 感到兴奋的人。 游戏玩家和开发人员：能够帮助将 AI 创意转化为可玩游戏的人。 创意头脑：作家、艺术家以及任何对电影、节目或游戏有酷炫想法的人。 实验：享受 AI 的乐趣，看看我们能创造什么。 协作：与志同道合的人一起工作并分享您的技能。 可能的利润：虽然这主要是为了好玩，但我们有可能在未来将我们的创作货币化。  如果您觉得这很有趣，请发表评论或给我留言。让我们聊聊，看看我们如何将一些很棒的 AI 驱动项目变为现实！    提交人    /u/Delycan   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dfc782/looking_to_use_ai_to_create_videos_comic_books/</guid>
+      <pubDate>Thu, 13 Jun 2024 22:58:03 GMT</pubDate>
+    </item>
     <item>
       <title>我厌倦了在干旱时期无法卖水的人工智能聊天机器人，所以在人工智能/机器学习领域工作了 4.5 年后，我创建了 Elephant.ai——来见见真正能达成交易的人工智能聊天机器人！</title>
       <link>https://www.reddit.com/r/SideProject/comments/1df944t/i_was_tired_of_ai_chatbots_that_couldnt_sell/</link>
@@ -60,55 +109,6 @@
       <description><![CDATA[        提交人    /u/SuperSaiyan1010   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1df6onz/i_was_tired_of_ancient_documentbased_note_taking/</guid>
       <pubDate>Thu, 13 Jun 2024 18:56:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>getscribix.com - 人工智能电子邮件助手软件</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1df6lj5/getscribixcom_ai_email_assistant_software/</link>
-      <description><![CDATA[        提交人    /u/Jaded_Peace_3405   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1df6lj5/getscribixcom_ai_email_assistant_software/</guid>
-      <pubDate>Thu, 13 Jun 2024 18:53:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>带有 Auth 的全栈 Next.js 样板</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1df67sk/fullstack_nextjs_boilerplate_with_auth/</link>
-      <description><![CDATA[我正在将我上一个初创公司转换为可重复使用的NextJS (React) 模板/样板，以便人们（包括我）可以使用它来更快地构建 MVP 并启动而无需重写代码。一开始，它只是我重新利用代码的一种方式。 它附带以下内容，以最大限度地减少您的开发时间：  使用 NextAuth 进行身份验证，包括自定义登录页面 前端：登录页面、仪表板、40 多个 UI 组件 20 多个 UI 主题、使用主题生成器构建自己的主题的指南 后端：Supabase、Stripe、Next.js（/app 和 /page 路由器选项），准备在 Vercel 上托管 指南：有关如何从头开始设置您的网站、复制粘贴您的内容并启动您的初创公司的指南 信息：有用的信息，包括用于徽标生成和价值主张写作的经过审查的免费工具，以及如何将您的自定义电子邮件域排除在垃圾邮件文件夹（DMARC 等）之外。这将是一个概念页面，它将不断更新用户告诉我他们希望看到的其他信息。  在我发布后（7 月 1 日），我将向用户提供可以 git 克隆的 git 存储库的访问权限。样板和指南（将保持更新的概念页面）将永远属于您，并且可以用于您想要的任意数量的初创公司。 这对于那些了解 react 或 next.js 并且不想将大部分发布时间花在编写冗余代码上的人来说是完美的选择。 一旦您有了样板，您就可以使用 Vercel 和 Supabase 的免费套餐以$0/月的价格启动您的初创公司。随着您的成长，您可能希望切换到他们的付费计划。 如果您对项目或指南中应添加的内容有任何疑问或反馈，请在评论中告诉我或发送电子邮件至 sid at matherium dot com    提交人    /u/sid0913   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1df67sk/fullstack_nextjs_boilerplate_with_auth/</guid>
-      <pubDate>Thu, 13 Jun 2024 18:37:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>一周结束时您期待哪些指标？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1df5f09/what_metrics_do_you_look_forward_to_at_the_end_of/</link>
-      <description><![CDATA[      我正在开发一款生产力应用程序，它具有生成每周报告的功能。这些是我决定纳入的指标。 你们认为这些指标有见地吗？另外，成绩单的设计怎么样？    提交人    /u/Fabulous-Ad-3985   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1df5f09/what_metrics_do_you_look_forward_to_at_the_end_of/</guid>
-      <pubDate>Thu, 13 Jun 2024 18:04:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>考虑发布我的作品集，为业余项目吸引更多客户</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1df46pm/thinking_of_publishing_my_portfolio_to_get_more/</link>
-      <description><![CDATA[      有任何反馈吗？    由    /u/itguygeek  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1df46pm/thinking_of_publishing_my_portfolio_to_get_more/</guid>
-      <pubDate>Thu, 13 Jun 2024 17:11:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>列表网站</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1df3us4/listings_website/</link>
-      <description><![CDATA[嗨， 我已经建立了一个功能齐全的列表网站，它也是开源的。 欢迎所有人进行尝试，并且非常欢迎 NodeJS/JavaScript 专家做出贡献。  GitHub 链接：https://github.com/bacloud23/open-listings（请加星标✨⭐？） 演示网站链接：http://ns500199.ip-192-99-148.net/ 它仍然充满了错误，但欢迎贡献🤗😁  谢谢👍    提交人    /u/open-listings   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1df3us4/listings_website/</guid>
-      <pubDate>Thu, 13 Jun 2024 16:57:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>我可以在哪里学习营销？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1df27rz/where_i_can_learn_marketing/</link>
-      <description><![CDATA[您好，我开发软件，但缺乏营销技能来吸引用户，从而赚钱。 有哪些不错的网站可以学习如何销售应用程序？我知道没有什么魔术，但有一些模式或技巧可以增加成功率。 祝您有美好的一天。    提交人    /u/GlitteringCookie6282   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1df27rz/where_i_can_learn_marketing/</guid>
-      <pubDate>Thu, 13 Jun 2024 15:48:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>写了一本免费的简短书，介绍交友的技巧和窍门...略有不同。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1df27it/wrote_a_short_free_book_on_tips_and_tricks_for/</link>
-      <description><![CDATA[      大家好 👋 我从事人口健康工作，了解交朋友和建立关系的重要性，也了解这有多难。  我写了一本免费的简短书，其中包含一些与现代数字时代交朋友的技巧和窍门。  我只是想知道是否有人有兴趣看一看并对您的用户体验提供一些反馈。    提交人    /u/RosieInsights   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1df27it/wrote_a_short_free_book_on_tips_and_tricks_for/</guid>
-      <pubDate>Thu, 13 Jun 2024 15:48:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
