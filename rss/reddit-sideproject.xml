@@ -4,7 +4,77 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Fri, 14 Jun 2024 15:15:15 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Jun 2024 18:18:05 GMT</lastBuildDate>
+    <item>
+      <title>我创建了我一直想要的标签管理器——“Flow”</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dfxcj8/i_created_a_tab_manager_i_always_wanted_flow/</link>
+      <description><![CDATA[嗨，Redditors 的朋友们！ 我很高兴与你们分享我最新的创作。 Flow，一个可以帮助你的标签游戏步入正轨的 chrome 扩展程序 开源：没错，伙计们！Flow 是完全开源的，这意味着如果你愿意，你可以深入研究并为代码做出贡献。我相信透明度是建立信任和创造真正令人惊叹的东西的关键。 本地数据存储：你的数据只属于你自己 - Flow 将您的会话数据存储在你的机器本地，因此你不必担心敏感信息被发送到其他任何地方。 无需登录：Flow 不需要登录或任何个人信息。只需安装并开始流动！ 轻松的标签管理：创建会话，自动保存标签，无缝恢复等等。 简单：我保持界面简单易用。没有混乱或困惑。 尝试一下 Flow，看看它如何帮助您简化工作流程！ 您的反馈对于改进 Flow 非常有价值，所以不要犹豫，分享您的想法和建议。 网上商店链接：Flow - Tab Manager GitHub Repo：flow 歌曲来源https://bensound.com/free-music-for-videos 许可代码：ZLCZO4SK2QN32ZFQ    提交人    /u/PlagueDoctor0_0   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dfxcj8/i_created_a_tab_manager_i_always_wanted_flow/</guid>
+      <pubDate>Fri, 14 Jun 2024 18:12:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>经验丰富的数字产品设计师寻求合作</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dfxaw9/experienced_digital_product_designer_looking_to/</link>
+      <description><![CDATA[我是一名数字产品设计师，专门从事 B2B SaaS 和 AI 产品。一直在为初创公司设计以用户为中心的界面，但寻找优质客户却很困难。有什么建议吗？ 寻求以下方面的提示：  平台：最佳自由职业平台、设计社区等，用于寻找 B2B SaaS/AI 项目。 方法：有效的外展策略，与有前途的初创公司建立联系。 作品集：如何以吸引 B2B 客户的方式展示我的技能。  任何见解或成功案例都将不胜感激！    提交人    /u/colosus019   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dfxaw9/experienced_digital_product_designer_looking_to/</guid>
+      <pubDate>Fri, 14 Jun 2024 18:10:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>构建 Subjoin - 社区会员平台。第 3 周更新。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dfx7at/building_subjoin_community_membership_platform/</link>
+      <description><![CDATA[每周更新一点，让我保持正轨，对自己负责，同时还能对一周内所做的事情有个大概的了解。也许有人也会觉得很有趣。 我想说 MVP 已经准备好了！  您可以创建您的社区页面 集成您的 Stripe 创建产品（一次性付款）、会员资格（一次性或订阅） 会员、购买、仪表板的视图  本周过得怎么样：  一开始我进展得太快了，所以我不得不回过头来规范数据库表  教训：在建模数据时，请慢慢来，仔细思考。制作图表，记录任何需要了解全貌的东西  我感觉.. 很理想。我没有浪费太多时间摆弄“酷炫的技术”。当我开始构建副项目时，我经常这样做。你必须紧紧戴上经理的帽子才能把事情做好 我还实现了一种撰写文章的方法（非常手动），这样我就可以开始写博客文章/文章/指南等了  它正在慢慢成形，并成为一个社区会员平台，供创作者通过他们的作品获利；就像 Patreon - Gumroad - KoFi - BuyMeACoffee 组合。 接下来的一周我计划保持平稳 - 少开发，多营销和研究。  写几篇文章，只是为了在登陆页面上有一些链接 通过这些文章我可以教育如何使用这个平台让创作者赚钱 SEO 也不会有什么坏处，早点播下种子  更多地与创作者互动 我已经有很多好主意要实施  虽然回到了内容交付的绘图板上（我还没有支持，也许永远不会）  如果你对更频繁（通常是每天 + 咆哮）的更新感兴趣，请在 Twitter 上关注我：tjmakingof 很乐意与志同道合的建设者建立联系！ 你这一周过得怎么样去过吗？    由    /u/tjmakingof 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dfx7at/building_subjoin_community_membership_platform/</guid>
+      <pubDate>Fri, 14 Jun 2024 18:05:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>第一个 NPM 包 - Avatarium！一个用于制作有趣主题头像的 React 包</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dfwum5/first_npm_package_avatarium_a_react_package_for/</link>
+      <description><![CDATA[嘿 r/SideProjects！🎉 我刚刚发布了一款名为 Avatarium 的免费开源工具。这是一个 React 包，可帮助您轻松地将独特的主题头像添加到您的应用程序。基本上，我的想法是，这个包可以帮助为较小的应用程序提供更个性化的用户体验，而无需处理用户上传个人资料图片的所有烦人问题（存储、监控等） 我希望您查看它并了解它如何使您的项目受益。任何反馈都将不胜感激，因为这是我的第一个 npm 包/开源项目/产品搜索发布  https://www.producthunt.com/posts/avatarium 😅 编码愉快！🚀    提交人    /u/sabfry   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dfwum5/first_npm_package_avatarium_a_react_package_for/</guid>
+      <pubDate>Fri, 14 Jun 2024 17:50:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了 TrustLoop，在产品与市场契合之前开始收集评论</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dfv6ku/ive_built_trustloop_to_start_capturing_reviews/</link>
+      <description><![CDATA[大家好！我经营一家营销机构，过去一年多来我一直在做这个副业（是的，我知道）。在与客户交谈时，我开始听到一个反复出现的主题，所以我建立了 TrustLoop 来做以下几件事：  为您的业务/产品获取更多反馈 敦促那些留下积极反馈的人公开这样做  TrustLoops 软件背后的机制是一个调查生成器，它根据初始评级分成不同的调查。 因为如果用户不满意 - 作为产品所有者，您希望确切地知道是什么让他们感到沮丧，以便您可以修复它（但您不希望这永远公开）。 但是，如果用户满意，您不需要内部反馈（无需修复），而是希望他们留下公开评论！  无论如何，我们已经进行了几个月的测试并解决了错误 - 很高兴在下周公开之前将其开放。 https://www.trustloop.co/ 有 14 天的免费试用期，但如果您想尝试一下，请随时给我发私信以获得折扣。    提交人    /u/ChodeMcGee   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dfv6ku/ive_built_trustloop_to_start_capturing_reviews/</guid>
+      <pubDate>Fri, 14 Jun 2024 16:38:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何才能在不影响质量的情况下协商价格？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dfuv2a/how_can_you_negotiate_prices_without_messing_up/</link>
+      <description><![CDATA[我想为两位开发人员、一位高级开发人员和一位初级全栈开发人员就某些服务的价格进行谈判，并且想确保质量不会出现问题。您有什么策略或技巧可以有效地进行谈判，同时确保最终产品或服务保持一流水平？ 非常感谢您的建议和经验！    提交人    /u/billy_gaht   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dfuv2a/how_can_you_negotiate_prices_without_messing_up/</guid>
+      <pubDate>Fri, 14 Jun 2024 16:24:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>为年轻人打造 ADHD 伙伴。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dfuswg/building_adhd_sidekicks_for_young_people/</link>
+      <description><![CDATA[        提交人    /u/JL-Engineer   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dfuswg/building_adhd_sidekicks_for_young_people/</guid>
+      <pubDate>Fri, 14 Jun 2024 16:21:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>你是如何找到你的副业的？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dfur65/how_did_you_find_your_side_project/</link>
+      <description><![CDATA[大家好，我是社区的新人，希望有一个自己的副业。我是一名经验丰富的全栈软件工程师，兴趣广泛，但我就是无法决定要做什么。我有一些想法，但没有一个能让我说“就是它了！这就是我从现在开始要追求的！”。 所以我在寻求建议、帮助或灵感。也许你关于如何找到你的项目的故事也能激励我。我现在有点迷茫，很想有一个值得花时间和享受旅程的项目。 如果你有关于如何找到（并决定）副业的其他提示和技巧，我非常感谢你的任何意见！    提交人    /u/nic_key   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dfur65/how_did_you_find_your_side_project/</guid>
+      <pubDate>Fri, 14 Jun 2024 16:19:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>推出“Just Try”：奖金 100 美元的挑战应用程序！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dfum9p/introducing_just_try_the_challenge_app_with_a_100/</link>
+      <description><![CDATA[推出一款利用挑战和创造力的全新社交互动应用。创建您想象中的任何挑战，让随机用户完成并通过 15 秒视频应对用户创建的挑战。第一个完成 100 个挑战的用户将赢得 100 美元。加入乐趣并释放您的创造力！在 Apple Store 上搜索 Just Try 或使用链接：https://apps.apple.com/us/app/just-try/id6502301348。    提交人    /u/NewtAffectionate1286   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dfum9p/introducing_just_try_the_challenge_app_with_a_100/</guid>
+      <pubDate>Fri, 14 Jun 2024 16:13:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个免费的无限批量图像压缩工具</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dfucwh/i_made_a_free_unlimited_bulk_image_compressor_tool/</link>
+      <description><![CDATA[  由    /u/_blueseal  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dfucwh/i_made_a_free_unlimited_bulk_image_compressor_tool/</guid>
+      <pubDate>Fri, 14 Jun 2024 16:02:39 GMT</pubDate>
+    </item>
     <item>
       <title>Reddit 让我的副业有点火爆了！</title>
       <link>https://www.reddit.com/r/SideProject/comments/1dft49j/reddit_made_my_side_project_blow_up_a_little/</link>
@@ -15,7 +85,7 @@
     <item>
       <title>Wisha.me</title>
       <link>https://www.reddit.com/r/SideProject/comments/1dfsk2m/wishame/</link>
-      <description><![CDATA[帮助建立（设计角色）www.wisha.me，这是一种与朋友和其他人共同纪念活动的方式，您还可以创建一个愿望清单，供访客查看您活动的礼物创意。希望得到反馈/批评，谢谢！    由    /u/eikonnn  提交  [link] [comments]]]></description>
+      <description><![CDATA[帮助建立（设计角色）www.wisha.me，这是一种与朋友和其他人共同纪念活动的方式，您还可以为访客创建一个愿望清单，以查看您活动的礼物创意。希望得到反馈/批评，谢谢！    由    /u/eikonnn  提交  [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1dfsk2m/wishame/</guid>
       <pubDate>Fri, 14 Jun 2024 14:45:40 GMT</pubDate>
     </item>
@@ -34,81 +104,11 @@
       <pubDate>Fri, 14 Jun 2024 14:16:03 GMT</pubDate>
     </item>
     <item>
-      <title>我制作了一款应用，利用机器学习和 Spotify 来找到适合你一天的完美音乐。看看这个应用，让我知道你的想法！</title>
+      <title>我制作了一款应用，利用机器学习和 Spotify 来找到适合你一天的完美音乐。看看它，让我知道你的想法！</title>
       <link>https://www.reddit.com/r/SideProject/comments/1dfrqn4/i_made_an_app_that_uses_machine_learning_and/</link>
       <description><![CDATA[        提交人    /u/such-animosity   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1dfrqn4/i_made_an_app_that_uses_machine_learning_and/</guid>
       <pubDate>Fri, 14 Jun 2024 14:09:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>[iOS] 使用照片记录你去过和见过的世界的应用程序</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dfr8pn/ios_the_app_to_memoir_the_world_youve_been_seen/</link>
-      <description><![CDATA[我希望探索世界，你可能也一样。 当我看世界时，我也希望记录我所看到的世界。我的照片库就是我的旅程，我一直在思考如何更好地呈现我的冒险和经历。因此，创建一个使用照片来记录我的旅行的应用程序的想法应运而生。 Memoir 就是这样的应用程序。它访问并分析您 iPhone 上的照片库，以呈现独特的旅行记忆和旅程。 主要功能：  带有照片、城市名称的时间线 地图，在世界地图上显示照片。这是您去过和见过的世界。 相册和照片。为您收集所有城市相册，所有照片都在同一个城市。 刮刮地图和国旗。这是您的旅行统计数据。  网站：回忆录 - 带照片旅行 TestFlight：https://testflight.apple.com/join/QagvT3F3 我们非常感谢大家的反馈。感谢大家的支持！    提交人    /u/hagerhu   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dfr8pn/ios_the_app_to_memoir_the_world_youve_been_seen/</guid>
-      <pubDate>Fri, 14 Jun 2024 13:47:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>我建立了一个平台来启动尽可能多的候补名单或预售页面，以便在市场上快速验证您的想法！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dfr7fj/i_built_a_platform_to_launch_as_many_waitlist_or/</link>
-      <description><![CDATA[大家好， 我刚刚为我的一款无代码产品 Licode 推出了一项新功能，名为 Licode Page。只需一次订阅，您就可以启动任意数量的候补名单页面或预售页面（使用开箱即用的 Stripe 或 Lemon Squeezy）来验证您的想法。目前，我只有有限的终身优惠名额！ 渴望听到您的想法和反馈！:D 干杯，    提交人    /u/kelvinyinnyxian   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dfr7fj/i_built_a_platform_to_launch_as_many_waitlist_or/</guid>
-      <pubDate>Fri, 14 Jun 2024 13:45:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>我为 OSINT 顾问建立了这个网站，有什么想法可以将其提升到一个新的水平吗？（就流量和收入而言）</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dfqsw3/i_built_this_website_for_osint_consultants_any/</link>
-      <description><![CDATA[我两年前建立了这个内容微型利基网站，我正在对网站的内容和 UI/UX 进行全面更新，有什么想法或建议可以改进它吗？ 目前，该网站每月收入几美元，每天从谷歌获得大约 100 名访问者。 OSINTguide.com    提交人    /u/achahoud   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dfqsw3/i_built_this_website_for_osint_consultants_any/</guid>
-      <pubDate>Fri, 14 Jun 2024 13:26:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>我需要多少开发人员来开始构建我的产品？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dfqrgr/how_many_developers_do_i_need_to_start_building/</link>
-      <description><![CDATA[我知道很多人说当今世界有这么多创业公司，但我相信并非每个人都能成功，无论结果如何，从中获得的经验和教训将永远伴随着你。 我已经对大多数金融科技产品可能缺少什么以及如何改进我的产品进行了市场分析，但我不知道实际上需要多少开发人员才能开始。 目前预算紧张，有没有什么经济实惠的选择，或者你们认为我们应该聘请全职开发人员？ 不过，我们（我和我的联合创始人）要到 8 月才开始。    提交人    /u/itsmaddy_   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dfqrgr/how_many_developers_do_i_need_to_start_building/</guid>
-      <pubDate>Fri, 14 Jun 2024 13:24:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>我通过这款 SaaS 赚了 43,000 美元，并且我在 GitHub 上开源了我的整个项目</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dfqqt7/i_made_43000_on_this_saas_and_im_opensourcing_my/</link>
-      <description><![CDATA[2021 年，我和朋友创办了 CopywriterPro.ai。当时 GenAI 还不是主流，我们很难创建自己的内容。从那个痛点开始，我们开始构建，并在内容写作社区中迅速有机成长。我们俩都是技术娴熟的人，慢慢地，我们学会了如何处理销售、营销、客户支持等。 经过近三年的时间，创业成为我一生中做出的最好、最有回报的决定。我非常感谢我们迄今为止取得的一切成就。现在，我想回馈社区，尤其是 AI 内容写作社区。 在过去的三年里，我们学习了他们的工作流程，现在有很多 AI 内容写作工具。然而，它们都没有给 AI 内容作者自由，让他们根据每个企业的独特需求创建更好的内容。大多数平台都依赖相同的提示来满足不同的业务领域和需求。 这就是为什么我们完全开放 CopywriterPro 的源代码，以便内容作者可以根据他们的业务需求调整提示。我相信，通过从我们经验丰富的社区获得反馈，我们将能够掌握我们工具上的每个提示。 我们的代码库已经在 GitHub 上公开访问。如果您对我的项目给予评价，我将不胜感激。 我们的后端代码库：https://github.com/CopywriterPro-ai/copywriterproai-backend (Apache-2.0 许可证) 前端代码库：https://github.com/CopywriterPro-ai/copywriterproai-fronted (Apache-2.0 许可证) 我们的目标是提供自由地轻松创建更好的内容，提高未来信息内容的质量。最好的部分？用户可以免费使用自己的 API 密钥和 AI 模型。他们还可以根据需要编辑和调整提示，并部署和调整我们应用程序的自己的版本。 我们将很快在 Product Hunt 上推出 https://www.producthunt.com/products/copywriterpro 请随时分享您的反馈。此外，如果您投票给我们并支持我们的旅程，我将不胜感激。    提交人    /u/TheGopherBro   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dfqqt7/i_made_43000_on_this_saas_and_im_opensourcing_my/</guid>
-      <pubDate>Fri, 14 Jun 2024 13:23:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>是不是只有我一个人觉得 RocketDevs 的提示太荒谬了</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dfpuy1/is_it_just_me_or_are_the_rocketdevs_hints_getting/</link>
-      <description><![CDATA[感觉好像第二条评论有人推荐 RocketDevs。我明白，他们想要一些工作，这没什么可耻的，但现在这是垃圾邮件。我是唯一一个有这个问题的人吗？    由   提交  /u/blind675   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dfpuy1/is_it_just_me_or_are_the_rocketdevs_hints_getting/</guid>
-      <pubDate>Fri, 14 Jun 2024 12:40:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>从副业项目到全职</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dfpujm/side_project_to_full_time/</link>
-      <description><![CDATA[Hustlers， 我们需要您对我们周一推出的最新产品的反馈和支持。让我们知道您的想法，并确保注册以获得免费终身会员资格。我们的这个副业项目已经真正接管了，我们希望让尽可能多的人了解它。谢谢 https://www.producthunt.com/posts/dreamcanvas https://peerlist.io/ricruben/project/dreamcanvas    提交人    /u/Rude_Candidate_124   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dfpujm/side_project_to_full_time/</guid>
-      <pubDate>Fri, 14 Jun 2024 12:39:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>作为一名 20 岁的个人软件开发人员，我首次提出了应用程序。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dfpp8y/first_application_as_a_20_year_old_solo_software/</link>
-      <description><![CDATA[嗨，去年我和我的朋友们开始在晚上玩一种叫做“酒吧高尔夫”的派对游戏。这本质上是一种酒吧巡游，但增加了规则和积分系统。这个游戏真的很有趣，但记录分数却很困难（尤其是当你喝醉的时候）。 因为我想成为一名全职软件开发人员，所以我认为这可能是创建一个简单的应用程序来帮助跟踪分数作为一种学习方式的好机会。从那时起，该应用程序就不仅仅是一个积分跟踪器，现在还包括本地酒吧地图、自定义惩罚以及导出概述您所走路线的游戏摘要的选项等功能。  我刚刚将该应用程序发布到应用商店，可以在这里找到：`https://apps.apple.com/gb/app/pub-golf-the-party-game/id6503321296`，非常感谢任何反馈，因为这是我的第一个应用程序，我想知道我可能需要改进的地方，例如UI设计或任务流程。  该应用程序完全免费，但确实包含广告（希望它们能够平衡使用谷歌 API 获取地图数据的成本）。 该应用程序完全用 c# 构建，使用 .net maui，我仍然不确定是否会推荐 .net maui，因为我确实遇到了一些问题，但它们可能归结为我缺乏经验。 感谢阅读 :)    提交人    /u/DeclanTu   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dfpp8y/first_application_as_a_20_year_old_solo_software/</guid>
-      <pubDate>Fri, 14 Jun 2024 12:31:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>习惯雷达[前 1000 名用户可终身免费使用]</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dfpka0/habit_radar_first_1000_user_get_lifetime_access/</link>
-      <description><![CDATA[        提交人    /u/goharyi   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dfpka0/habit_radar_first_1000_user_get_lifetime_access/</guid>
-      <pubDate>Fri, 14 Jun 2024 12:24:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>我构建了一个自动化的 Notion 模板来替代 Typefully</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dfpc69/ive_built_an_automated_notion_template_to_replace/</link>
-      <description><![CDATA[我受够了在 Notion 上完成所有想法和帖子，然后不得不将它们移至 Typefully。 因此，我创建了一个 Notion 模板，该模板允许我集中管理我的帖子并使用 Make 制作的自动化功能将它们发布在 X / Twitter 上。 自动化功能已经为您构建，您只需对其进行配置即可。 使用 Make，您每月可获得 1,000 次免费操作。 这是链接：https://zaap.bio/benparker    提交人    /u/Expert_Sherbet9226   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dfpc69/ive_built_an_automated_notion_template_to_replace/</guid>
-      <pubDate>Fri, 14 Jun 2024 12:11:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
