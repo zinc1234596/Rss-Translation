@@ -4,7 +4,28 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Sat, 15 Jun 2024 21:12:42 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Jun 2024 01:03:16 GMT</lastBuildDate>
+    <item>
+      <title>我该如何营销我自主创业的公司？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dgutbt/how_can_i_market_my_bootstrapped_startup/</link>
+      <description><![CDATA[      大家好，我希望你和你的家人是幸福的。我在 iOS AppStore 上有一款名为“Eyezu”的应用程序，它可以向您显示哪里有好电话服务和坏电话服务，并指导您在城市的不同区域哪里可以获得电话信号。  你能帮我找出推销我的应用程序的最佳方法吗？我知道我的应用程序可以满足徒步旅行者等的需求，但你认识其他人吗？  显然资金有限，我从工资中为这个应用程序注入了资金。  谢谢     提交人    /u/Shewas_onlyXI   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dgutbt/how_can_i_market_my_bootstrapped_startup/</guid>
+      <pubDate>Sat, 15 Jun 2024 23:46:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>NotePad.ai 的 Alpha Demo（开源）</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dgu65o/alpha_demo_of_notepadai_open_source/</link>
+      <description><![CDATA[大家好，我制作了一个小型原型，我称之为“Notepad.ai”。一种与 LLM 交互的 UI 的新方法。 虽然我喜欢在聊天格式中使用 LLM，但我想看看以更长的格式进行操作会是什么样子。 它让您以一种非常自由的形式书写，就像 Windows 的记事本一样，但您可以选择按 ctrl+[ 以使用您选择的预设提示分析文本。 它还有其他一些小功能。它是 WIP 并且非常具有实验性。我将不胜感激任何反馈或想法。 视频：https://youtu.be/ntdlgFmSxQY 现场演示：https://dreamdimension.net/NotePad-AI/ Github repo：github.com/Dream-Dimension/NotePad-AI 我的更多项目：https://dreamdimension.net 祝您周末愉快！    提交人    /u/Dream-Dimension   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dgu65o/alpha_demo_of_notepadai_open_source/</guid>
+      <pubDate>Sat, 15 Jun 2024 23:13:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>您为数据库付了多少钱？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dgsz0v/how_much_are_you_paying_for_your_databases/</link>
+      <description><![CDATA[每当我从事需要数据库的项目时，我都会努力选择主要的云托管提供商之一，因为它太昂贵了，而免费套餐对于某些项目来说太小了。 这导致我致力于构建一个应用程序来处理在 vps 上启用备份的数据库启动，因为例如，使用 digitalocean 获得相同的规格，一个数据库每月需要花费约 140 美元。 我想知道我是不是唯一有这种感觉的人？ 您在哪里托管您的数据库，花费多少？    提交人    /u/Alter_nayte   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dgsz0v/how_much_are_you_paying_for_your_databases/</guid>
+      <pubDate>Sat, 15 Jun 2024 22:11:57 GMT</pubDate>
+    </item>
     <item>
       <title>推荐某人与灯塔项目分享他们的生活故事即可赚取 125 美元！</title>
       <link>https://www.reddit.com/r/SideProject/comments/1dgrcst/earn_125_for_referring_someone_to_share_their/</link>
@@ -20,7 +41,7 @@
       <pubDate>Sat, 15 Jun 2024 19:13:23 GMT</pubDate>
     </item>
     <item>
-      <title>隆重推出 Ranti：一体化提醒应用程序 – 现已开放 Beta 测试！</title>
+      <title>推出 Ranti：一体化提醒应用程序 – 现已开放 Beta 测试！</title>
       <link>https://www.reddit.com/r/SideProject/comments/1dgox0g/introducing_ranti_the_allinone_reminder_app_now/</link>
       <description><![CDATA[  由    /u/Moy_ore  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1dgox0g/introducing_ranti_the_allinone_reminder_app_now/</guid>
@@ -88,27 +109,6 @@
       <description><![CDATA[      大家好！我很高兴与大家分享我的第一个 iOS 应用 Trueroutes！ Trueroutes 旨在让导航重新充满乐趣和自由，用“直线”路线取代经典的转弯指引。体验。 App Store：https://apps.apple.com/app/trueroutes/id6478824430 功能  创建您可以随时访问的路线 使用多种颜色和图标自定义您的路线 通过自动切换到下一个目的地升级您的导航体验 实时活动让您随时了解最新情况 收藏最佳路线以便更快地访问 隐藏您不再使用但将来可能想要再次访问的路线 使用多个应用程序图标自定义您的应用程序 构建时考虑到您的隐私。您的位置不会在应用程序外共享。  如何联系我  Subreddit：即将推出 X：/TrueroutesApp 网站：即将推出 电子邮件：[social@trueroutes.app](mailto:social@trueroutes.app)  反馈 非常感谢大家的反馈。请随时提供您的想法、意见和创意！谢谢大家的支持！ 马修    提交人    /u/TrueroutesApp   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1dgkg4v/trueroutes_a_navigation_app_putting_the_fun_and/</guid>
       <pubDate>Sat, 15 Jun 2024 15:26:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的副业是否值得继续？或者我是否应该继续？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dgjuky/is_my_side_project_worth_continuing_or_should_i/</link>
-      <description><![CDATA[我一直在做一个业余项目，帮助创始人和初创公司在 Reddit 上营销。不过，我一直在关注其他更有潜力的项目。 在这个业余项目中，我通过制定策略和帖子来帮助推广初创公司、SaaS 或 Reddit 上的任何工具。这个过程目前 50% 是自动化的，50% 是手动的，这让我考虑放弃它。 我应该继续做这件事还是专注于我的其他项目？ 我希望你能就此提出反馈：Redditors    提交人    /u/gary_king_001   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dgjuky/is_my_side_project_worth_continuing_or_should_i/</guid>
-      <pubDate>Sat, 15 Jun 2024 14:59:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>Reddit 版本选择器扩展</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dgjf9h/reddit_version_chooser_extension/</link>
-      <description><![CDATA[      Reddit 版本选择器扩展 说明 Reddit 版本选择器是一个浏览器扩展，允许您一致使用特定版本的 Reddit：旧版本、新版本或最新的“新新”版本。这在 Reddit 在不同版本之间转换时特别有用，可确保一致的浏览体验。 功能  在 www.reddit.com、new.reddit.com 或 old.reddit.com 之间进行选择。 自动将 Reddit 页面重定向到您选择的版本。 处理特殊 URL，如 modmail 和媒体链接，而不重定向它们。 重试逻辑以处理间歇性加载问题。 加载尝试失败时通知用户。  我创建了这个简单的浏览器扩展，因为我厌倦了我的浏览器强迫我使用新版 Reddit。  ​ https://preview.redd.it/ps30halvyq6d1.png?width=354&amp;format=png&amp;auto=webp&amp;s=bfabcae3c977e53215b05119e425bedb4c4bb7df    提交人    /u/StinkyPete312   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dgjf9h/reddit_version_chooser_extension/</guid>
-      <pubDate>Sat, 15 Jun 2024 14:39:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>刚刚启动了我的新网站——一段充满激情和大量咖啡因的旅程！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dgiv9j/just_launched_my_new_website_a_journey_filled/</link>
-      <description><![CDATA[大家好，r/SideProject 以及各位开发者， 我很高兴与大家分享我倾注了心血的一件事情 - 我的全新网站上线了！🚀 我一直熬夜不眠，写着无数行代码，当然，还要喝大量的咖啡。但看到我的愿景变成现实，每一刻都值得。 我从头开始创建这个网站，旨在为访客创造无缝且引人入胜的体验。我希望您能查看并分享您的想法。无论是关于设计、功能的反馈，还是只是打个招呼，我都会在这里为您服务。 在这里查看：https://development.callipson.com 感谢您让我与大家分享这一里程碑。我期待您的反馈，并继续成长和改进。让我们一起创造伟大的事情！    提交人    /u/DutyCompetitive1328   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dgiv9j/just_launched_my_new_website_a_journey_filled/</guid>
-      <pubDate>Sat, 15 Jun 2024 14:12:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
