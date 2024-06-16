@@ -4,7 +4,28 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Sun, 16 Jun 2024 01:03:16 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Jun 2024 03:14:58 GMT</lastBuildDate>
+    <item>
+      <title>我无法通过博客获得 Google Adsense 批准。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dgyarp/i_could_not_get_google_adsense_approval_for_by/</link>
+      <description><![CDATA[我运营科技博客已经将近两个月了。博客名称是 getlearntech.com。我的流量不错，我申请了 Google Adsense，但我没有获得批准，谷歌也不会分享拒绝的原因，所以我找不到谷歌不批准的原因。有谁知道我必须改进什么才能获得批准。或者我可以尝试任何其他 Adsense 替代方案。    提交人    /u/tech_learner_123   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dgyarp/i_could_not_get_google_adsense_approval_for_by/</guid>
+      <pubDate>Sun, 16 Jun 2024 03:03:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>任务管理器和调度 CLI 与 Google 日历完全同步，完全使用专有脚本语言运行</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dgxy5g/task_manager_scheduling_cli_fully_synced_w_google/</link>
+      <description><![CDATA[        提交人    /u/Kindly_Pause_8522   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dgxy5g/task_manager_scheduling_cli_fully_synced_w_google/</guid>
+      <pubDate>Sun, 16 Jun 2024 02:42:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个小工具来帮助新的计算机科学毕业生快速建立作品集</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dgxjgb/i_made_a_little_tool_to_help_new_cs_grads_build/</link>
+      <description><![CDATA[      https://preview.redd.it/6d5inxbjfu6d1.png?width=1816&amp;format=png&amp;auto=webp&amp;s=f0a8da275f0e8f2186048260e988727bd19d5384 这是仪表板。请查看 https://www.thedevfolio.xyz   由    /u/Critical-Catch-7605  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dgxjgb/i_made_a_little_tool_to_help_new_cs_grads_build/</guid>
+      <pubDate>Sun, 16 Jun 2024 02:18:26 GMT</pubDate>
+    </item>
     <item>
       <title>我该如何营销我自主创业的公司？</title>
       <link>https://www.reddit.com/r/SideProject/comments/1dgutbt/how_can_i_market_my_bootstrapped_startup/</link>
@@ -15,14 +36,14 @@
     <item>
       <title>NotePad.ai 的 Alpha Demo（开源）</title>
       <link>https://www.reddit.com/r/SideProject/comments/1dgu65o/alpha_demo_of_notepadai_open_source/</link>
-      <description><![CDATA[大家好，我制作了一个小型原型，我称之为“Notepad.ai”。一种与 LLM 交互的 UI 的新方法。 虽然我喜欢在聊天格式中使用 LLM，但我想看看以更长的格式进行操作会是什么样子。 它让您以一种非常自由的形式书写，就像 Windows 的记事本一样，但您可以选择按 ctrl+[ 以使用您选择的预设提示分析文本。 它还有其他一些小功能。它是 WIP 并且非常具有实验性。我将不胜感激任何反馈或想法。 视频：https://youtu.be/ntdlgFmSxQY 现场演示：https://dreamdimension.net/NotePad-AI/ Github repo：github.com/Dream-Dimension/NotePad-AI 我的更多项目：https://dreamdimension.net 祝您周末愉快！    提交人    /u/Dream-Dimension   [链接] [评论]]]></description>
+      <description><![CDATA[大家好，我制作了一个小型原型，我称之为“Notepad.ai”。一种与 LLM 交互的 UI 的新方法。 虽然我喜欢在聊天格式中使用 LLM，但我想看看以更长的格式使用会是什么样子。 它让你以一种非常自由的形式书写，就像 Windows 的记事本一样，但你可以选择按 ctrl+[ 以使用你选择的预设提示来分析文本。 它还有其他一些小功能。它是 WIP 并且非常具有实验性。我将不胜感激任何反馈或想法。 视频：https://youtu.be/ntdlgFmSxQY 现场演示：https://dreamdimension.net/NotePad-AI/ Github repo：github.com/Dream-Dimension/NotePad-AI 我的更多项目：https://dreamdimension.net 祝您周末愉快！    提交人    /u/Dream-Dimension   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1dgu65o/alpha_demo_of_notepadai_open_source/</guid>
       <pubDate>Sat, 15 Jun 2024 23:13:19 GMT</pubDate>
     </item>
     <item>
       <title>您为数据库付了多少钱？</title>
       <link>https://www.reddit.com/r/SideProject/comments/1dgsz0v/how_much_are_you_paying_for_your_databases/</link>
-      <description><![CDATA[每当我从事需要数据库的项目时，我都会努力选择主要的云托管提供商之一，因为它太昂贵了，而免费套餐对于某些项目来说太小了。 这导致我致力于构建一个应用程序来处理在 vps 上启用备份的数据库启动，因为例如，使用 digitalocean 获得相同的规格，一个数据库每月需要花费约 140 美元。 我想知道我是不是唯一有这种感觉的人？ 您在哪里托管您的数据库，花费多少？    提交人    /u/Alter_nayte   [链接] [评论]]]></description>
+      <description><![CDATA[每当我从事需要数据库的项目时，我都会努力选择主要的云托管提供商之一，因为它太昂贵了，而免费套餐对于某些项目来说太小了。 这导致我致力于构建一个应用程序来处理在 vps 上启用备份的数据库启动，因为例如使用 digitalocean 获得相同的规格，一个数据库每月需要花费约 140 美元。 我想知道我是不是唯一有这种感觉的人？ 您在哪里托管您的数据库，花费多少？    提交人    /u/Alter_nayte   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1dgsz0v/how_much_are_you_paying_for_your_databases/</guid>
       <pubDate>Sat, 15 Jun 2024 22:11:57 GMT</pubDate>
     </item>
@@ -36,7 +57,7 @@
     <item>
       <title>是啊！我刚刚在 Indie Hacker Stacks 上收到了第 100 个产品列表！</title>
       <link>https://www.reddit.com/r/SideProject/comments/1dgp94w/yeah_i_just_received_the_100th_product_listing_on/</link>
-      <description><![CDATA[我大约 3 个月前建立了这个网站，现在它开始受到关注。它面向那些想要了解其他开发人员如何制作其产品的开发人员，我自己也对此感到好奇。 请访问 https://indiehackerstacks.com 查看     由   提交  /u/Bright-Vegetable8852   [link] [评论]]]></description>
+      <description><![CDATA[我大约 3 个月前建立了这个网站，它开始受到关注。它面向那些想知道其他开发人员如何制作其产品的开发人员，我自己也想知道这一点。 请访问 https://indiehackerstacks.com 查看     由   提交  /u/Bright-Vegetable8852   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1dgp94w/yeah_i_just_received_the_100th_product_listing_on/</guid>
       <pubDate>Sat, 15 Jun 2024 19:13:23 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[告诉我你的定价。我想要一个关于生活课程和上帝的应用程序。你必须允许我控制叙述。我只需要你来构建它。消息中包含定价和你构建的其他应用程序的示例。如果你没有任何示例可展示，请不要打扰我。谢谢。     提交人    /u/Kind-Perception9701   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1dgmk9d/i_would_like_to_hire_someone_to_build_me_a_app/</guid>
       <pubDate>Sat, 15 Jun 2024 17:06:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>不擅长社交媒体</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dglc1c/bad_at_social_media/</link>
-      <description><![CDATA[有人成功外包社交媒体曝光吗？ 我制作了一款大家似乎都很喜欢的游戏，这款游戏在 Reddit 上的几篇帖子和一位 Tik tok 用户发布的关于这款游戏的帖子中获得了一定的关注。我认为，如果社交媒体曝光率稳定，这款游戏可能更有潜力实现有机增长。另一方面，经常使用社交媒体对我来说并不好，而且我认为自己在发布帖子方面做得很差。 如果有人能帮我做这部分工作，我会非常高兴。有人成功找到合作伙伴了吗？    提交人    /u/Lukematikk   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dglc1c/bad_at_social_media/</guid>
-      <pubDate>Sat, 15 Jun 2024 16:08:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>难以置信！有人为我的应用付费 - 首次销售！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dgkz6n/unbelievable_someone_paid_for_my_app_first_sale/</link>
-      <description><![CDATA[        提交人    /u/RuinRoutine2183   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dgkz6n/unbelievable_someone_paid_for_my_app_first_sale/</guid>
-      <pubDate>Sat, 15 Jun 2024 15:51:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>Trueroutes：一款让旅行重拾乐趣和自由的导航应用！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dgkg4v/trueroutes_a_navigation_app_putting_the_fun_and/</link>
-      <description><![CDATA[      大家好！我很高兴与大家分享我的第一个 iOS 应用 Trueroutes！ Trueroutes 旨在让导航重新充满乐趣和自由，用“直线”路线取代经典的转弯指引。体验。 App Store：https://apps.apple.com/app/trueroutes/id6478824430 功能  创建您可以随时访问的路线 使用多种颜色和图标自定义您的路线 通过自动切换到下一个目的地升级您的导航体验 实时活动让您随时了解最新情况 收藏最佳路线以便更快地访问 隐藏您不再使用但将来可能想要再次访问的路线 使用多个应用程序图标自定义您的应用程序 构建时考虑到您的隐私。您的位置不会在应用程序外共享。  如何联系我  Subreddit：即将推出 X：/TrueroutesApp 网站：即将推出 电子邮件：[social@trueroutes.app](mailto:social@trueroutes.app)  反馈 非常感谢大家的反馈。请随时提供您的想法、意见和创意！谢谢大家的支持！ 马修    提交人    /u/TrueroutesApp   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dgkg4v/trueroutes_a_navigation_app_putting_the_fun_and/</guid>
-      <pubDate>Sat, 15 Jun 2024 15:26:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
