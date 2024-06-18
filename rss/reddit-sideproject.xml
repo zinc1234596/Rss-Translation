@@ -4,7 +4,35 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Tue, 18 Jun 2024 00:59:03 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jun 2024 03:15:35 GMT</lastBuildDate>
+    <item>
+      <title>构建终极增长外展工具..</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1diglmn/building_the_ultimate_growth_outreach_tool/</link>
+      <description><![CDATA[大家好， 凭借 15 年的工程师经验和数家初创公司的经验，我了解到推广对于为您的 SaaS 获取流量和客户至关重要。我正在开发一种可以自动推广的工具，可以为创始人和营销人员带来惊人的效果。 我正在寻找有兴趣在开发完成后试用这款强大的营销和推广工具的初始测试人员。最​​初，我将提供有限数量的终身订阅。如果您愿意尝试一下，这款工具可以带来令人印象深刻的效果。 准备就绪后，您有兴趣加入吗？    提交人    /u/WorldApprehensive314   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1diglmn/building_the_ultimate_growth_outreach_tool/</guid>
+      <pubDate>Tue, 18 Jun 2024 03:05:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>一个简单的 express cli 工具</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1digfyj/a_simple_express_cli_tool/</link>
+      <description><![CDATA[大家好， 我最近创建了一个 CLI 工具，可以作为 express-generator 的替代品。 它支持 TypeScript、ESM、Jest、路径别名和其他配置，非常适合用 express.js 快速设置一个侧面项目 如果你想使用这个 CLI，你可以简单地使用以下命令： ``` npx gen-express-cli@latest ``` 我非常乐于接受反馈来改进这个项目。 如果你喜欢它，请给我一个 star。 [Github](https://github.com/RulerChen/gen-express-cli) [NPM](https://www.npmjs.com/package/gen-express-cli)    由   提交  /u/Rulerchen   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1digfyj/a_simple_express_cli_tool/</guid>
+      <pubDate>Tue, 18 Jun 2024 02:56:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>展示您的项目，以便在我的新闻通讯中获得免费流量和 SEO。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1difvnt/showcase_your_projects_to_get_featured_in_my/</link>
+      <description><![CDATA[我每周撰写新闻通讯，介绍发展业务所需的有利可图的想法、工具和资源。 注册 Starterpedia 以考虑😍     提交人    /u/AngryRecap   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1difvnt/showcase_your_projects_to_get_featured_in_my/</guid>
+      <pubDate>Tue, 18 Jun 2024 02:26:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>我建立了一个免费的 AI 模拟面试官，用于系统设计面试！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dieet6/i_built_a_free_ai_mock_interviewer_for_system/</link>
+      <description><![CDATA[        提交人    /u/nlinx   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dieet6/i_built_a_free_ai_mock_interviewer_for_system/</guid>
+      <pubDate>Tue, 18 Jun 2024 01:12:33 GMT</pubDate>
+    </item>
     <item>
       <title>iOS 应用程序可根据您的电子邮件简报创建个人每日播客。</title>
       <link>https://www.reddit.com/r/SideProject/comments/1dic6yj/ios_app_that_creates_personal_daily_podcasts/</link>
@@ -29,7 +57,7 @@
     <item>
       <title>我制作了一个应用程序来记录未知的英语单词</title>
       <link>https://www.reddit.com/r/SideProject/comments/1di9o1t/i_made_an_app_to_journal_unknown_english_words/</link>
-      <description><![CDATA[      嘿r/SideProject， 几周前，我分享了我的网络应用程序 Wordble (https://wordble.com)，它可以帮助您通过日记学习新单词。从那时起，我一直忙于根据您的反馈和我自己的想法进行一些改进。 Wordble 有什么新功能？ 以下是您可以执行的一些新功能：  使用 Google 登录：现在您可以使用 google 和 github 登录。 CSV 导入：您可以使用 CSV 文件导入一组单词。如果您已经记录了单词，这将很有用。 每日单词提示：您每天都会得到一个新单词。  路线图上的下一步是什么？  对单词进行分类：按主题或上下文对单词进行分组，使其更容易复习。 可自定义的壁纸：壁纸功能应该有更多选项，因此您可以为您的设备创建更好的设计。 更多学习模式：除了测验之外，还有一些其他互动游戏，使学习更有趣。 分享您的列表：与朋友或 Wordble 社区分享您的单词列表，成为测验游戏的一部分，并从其他人那里发现新单词。  让我知道您想看到哪个功能或想到的任何其他功能 :) 为什么更新？ 我喜欢学习新单词，但发现很难记住所有单词。您的反馈有助于形成这些更新，使 Wordble 更加用户友好和有趣。我希望这些变化能让您更轻松地将新单词融入您的日常生活中。 如何开始 请随时在 Wordble 查看更新后的 Wordble。它仍然免费，我很想听听您对新功能的看法。任何反馈或建议都欢迎。 感谢您的支持！    提交人    /u/No-Honey6823   [link] [评论] ]]></description>
+      <description><![CDATA[      嘿r/SideProject， 几周前，我分享了我的网络应用程序 Wordble (https://wordble.com)，它可以帮助您通过日记学习新单词。从那时起，我一直忙于根据您的反馈和我自己的想法进行一些改进。 Wordble 有什么新功能？ 以下是您可以执行的一些新功能：  使用 Google 登录：现在您可以使用 google 和 github 登录。 CSV 导入：您可以使用 CSV 文件导入一组单词。如果您已经记录了单词，这将很有用。 每日单词提示：您每天都会得到一个新单词。  路线图上的下一步是什么？  对单词进行分类：按主题或上下文对单词进行分组，使其更容易复习。 可自定义的壁纸：壁纸功能应该有更多选项，因此您可以为您的设备创建更好的设计。 更多学习模式：除了测验之外，还有一些其他互动游戏，使学习更有趣。 分享您的列表：与朋友或 Wordble 社区分享您的单词列表，成为测验游戏的一部分，并从其他人那里发现新单词。  让我知道您想看到哪个功能或想到的任何其他功能 :) 为什么更新？ 我喜欢学习新单词，但发现很难记住所有单词。您的反馈有助于形成这些更新，使 Wordble 更加用户友好和有趣。我希望这些变化能让您更轻松地将新单词融入您的日常生活中。 如何开始 欢迎随时在 Wordble 查看更新后的 Wordble。它仍然免费，我很想听听您对新功能的看法。任何反馈或建议都欢迎。 感谢您的支持！    提交人    /u/No-Honey6823   [link] [评论] ]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1di9o1t/i_made_an_app_to_journal_unknown_english_words/</guid>
       <pubDate>Mon, 17 Jun 2024 21:33:42 GMT</pubDate>
     </item>
@@ -81,34 +109,6 @@
       <description><![CDATA[       由    /u/bishalsaha99  提交  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1di7odx/retro_crt_terminal_with_ai/</guid>
       <pubDate>Mon, 17 Jun 2024 20:10:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>学习人工智能</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1di6vti/learn_ai/</link>
-      <description><![CDATA[我希望学习人工智能并进行一些实际的项目实施。  有人可以推荐课程或任何学习材料吗？ 了解 Python，擅长脚本、正则表达式。    提交人    /u/honestcommenthai   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1di6vti/learn_ai/</guid>
-      <pubDate>Mon, 17 Jun 2024 19:38:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>开始业余时间玩指板运动并希望获得赞助😅</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1di6ogb/started_fingerboarding_on_the_side_and_hoping_to/</link>
-      <description><![CDATA[        提交人    /u/EndingRacism   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1di6ogb/started_fingerboarding_on_the_side_and_hoping_to/</guid>
-      <pubDate>Mon, 17 Jun 2024 19:29:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>公司数据 API</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1di6127/api_for_company_data/</link>
-      <description><![CDATA[有人知道用于获取公司信息的 API 吗，比如员工人数、徽标、行业等？    提交人    /u/nobaianobaianobaia   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1di6127/api_for_company_data/</guid>
-      <pubDate>Mon, 17 Jun 2024 19:02:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>新手入门，烤我的登陆页面</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1di5vif/new_to_this_roast_my_landing_page/</link>
-      <description><![CDATA[大家好，我刚刚改进了我的第一个 SAAS 登陆页面，我希望得到你们的诚实反馈。你认为这会转化吗？需要改进什么？需要删除什么？谢谢你的吐槽  这是我的网站 &gt; AI STUDYBUD     提交人    /u/Nnadivictory   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1di5vif/new_to_this_roast_my_landing_page/</guid>
-      <pubDate>Mon, 17 Jun 2024 18:56:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
