@@ -4,7 +4,84 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Tue, 18 Jun 2024 18:17:59 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jun 2024 21:12:12 GMT</lastBuildDate>
+    <item>
+      <title>我制作了一个可以随机组合图片的工具，这样我就可以拥有无​​限的个人资料图片，而且它不是人工智能</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dj1mvn/i_made_a_tool_that_randomly_combine_images_so_i/</link>
+      <description><![CDATA[      大家好，我制作了一个 Web 应用程序，只要输入任何文本，它就会随机选择单个图像并将它们组合起来以获得独特的图像。这不是人工智能，你基本上是上传按层（身体、手臂、眼睛……）分组的单个图像，你提供的文本将用于从每个层中随机选择每一块。这样，给定相同的一组图像和相同的文本，你将获得相同的图像，它非常适合头像，因为你可以输入电子邮件或用户名，这将产生一个独特的图像。 Ps：我制作了这个机器人部件，这是可以生成的示例 请随意尝试，它是免费的。 https://www.agorhash.com    提交人    /u/Maximum_Attempt   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dj1mvn/i_made_a_tool_that_randomly_combine_images_so_i/</guid>
+      <pubDate>Tue, 18 Jun 2024 21:10:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个工具来抛弃无用的 AWS UI</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dj0ipu/i_made_a_tool_to_ditch_the_useless_aws_ui/</link>
+      <description><![CDATA[        提交人    /u/Huge_Chocolate_2537   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dj0ipu/i_made_a_tool_to_ditch_the_useless_aws_ui/</guid>
+      <pubDate>Tue, 18 Jun 2024 20:23:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>我正在开发一个播客播放器来满足自己的需求</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dj03tt/im_building_a_podcast_player_to_scratch_my_own/</link>
+      <description><![CDATA[        提交人    /u/nullptroom   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dj03tt/im_building_a_podcast_player_to_scratch_my_own/</guid>
+      <pubDate>Tue, 18 Jun 2024 20:06:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>哪个是更好的副业：YouTube 还是自由职业？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dizooc/which_is_a_better_side_hustle_youtube_or/</link>
+      <description><![CDATA[我有一份全职内容写作工作。但现在我正在考虑进入那种单人创业的世界。我有两个选择：开设一个技术 YouTube 频道或在 Fiverr 和 Upwork 等平台上开始自由职业。我对这两个都没有经验。那么你认为我应该选择哪条路？    提交人    /u/keval_596   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dizooc/which_is_a_better_side_hustle_youtube_or/</guid>
+      <pubDate>Tue, 18 Jun 2024 19:48:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>在一个地方同步所有书签</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1diz8ik/sync_all_your_bookmarks_in_one_place/</link>
+      <description><![CDATA[我建立了一个平台来同步您最喜欢的应用程序和网站（reddit、X、Chrome、Github 等）的所有书签。AI 帮助组织和搜索它们。私人测试版即将开放：https://layter.ai    提交人    /u/Ok_End8833   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1diz8ik/sync_all_your_bookmarks_in_one_place/</guid>
+      <pubDate>Tue, 18 Jun 2024 19:29:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>远程孵化器理念的市场研究</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1diz5aw/market_research_for_remote_incubator_idea/</link>
+      <description><![CDATA[嗨，黑客们， 我正在考虑一项服务，加入费用为 1000 欧元，最多有 5 个名额。 一旦所有 5 个名额都填满，我们就会开始，并且保证所有 5 个人在 4 周内拥有一个可用的 MVP、一个登录页面、一些 SEO 和曝光（广告、电子邮件、有机），受众约为 10,000 人。 一切都建立在相同的技术堆栈上，客户拥有所有代码、资产和域。在第一个 MVP/验证阶段之后，他们“毕业”并开始工作。如果他们愿意，我们可以提供后续开发服务。 您觉得如何？基本上，它是关于利用我们的技能来增强数字企业家将他们的想法付诸实践的能力。它部分是咨询，部分是技术，部分是验证，部分是社区。而且我认为价格合理。 欢迎提出想法，如果您想注册，请直接给我发私信！    提交人    /u/edzorg   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1diz5aw/market_research_for_remote_incubator_idea/</guid>
+      <pubDate>Tue, 18 Jun 2024 19:25:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>API 故障和其他自定义网站事件的警报</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1diyz2u/alerts_for_api_failures_and_other_custom_website/</link>
+      <description><![CDATA[大家好，我可以使用你们的意见。我开始创建这个系统是为了我自己使用，但它已经形成了我认为对许多企业家都很有价值的东西。 如果您使用的服务会在后端的 API 调用失败时实时通知您，您希望通过哪种方式接收这些通知？ 这些通知中的每一个都会依次将您带到一个页面，您可以在该页面上查看哪个 API 端点失败、请求是什么以及其他此类详细信息。唯一的区别是，对于应用程序，您会在应用程序中看到它。对于其他人，您的手机浏览器会打开。 查看投票    提交人    /u/saas-rx   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1diyz2u/alerts_for_api_failures_and_other_custom_website/</guid>
+      <pubDate>Tue, 18 Jun 2024 19:18:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>变量转换 - 一个简单的变量大小写转换工具</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1diyxnz/variable_convert_a_simple_tool_for_converting/</link>
+      <description><![CDATA[您可以在 https://variableconvert.com 找到它，它源于我需要在蛇形和驼峰式命名法之间转换一堆变量，但我找不到相应的工具。  让我知道您希望看到哪些其他案例/转换！    提交人    /u/spacemew   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1diyxnz/variable_convert_a_simple_tool_for_converting/</guid>
+      <pubDate>Tue, 18 Jun 2024 19:16:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>改善用户入门</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1diyiq3/improving_user_onboarding/</link>
+      <description><![CDATA[      我正在致力于改善cvforge.app的入职体验，希望得到一些反馈！  cvforge 入职简历生成器    提交人    /u/ato_deshi   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1diyiq3/improving_user_onboarding/</guid>
+      <pubDate>Tue, 18 Jun 2024 19:00:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>构建网络新闻新家园</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dixrpf/building_a_new_home_for_news_online/</link>
+      <description><![CDATA[大家好 - 我是一名前记者，对互联网上的新闻分发模式感到沮丧。在所有错误信息和阴谋论中找到好的报道真的很难，而且像本地新闻这样的东西从一开始就没有真正浮出水面。 该项目名为 Forth (https://www.forth.news)，我很想听听您的想法。 我们还刚刚发布了一些宣言，让人们了解我们的使命：https://letsgo.forth.news    提交人    /u/MegalomaniacalGoat   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dixrpf/building_a_new_home_for_news_online/</guid>
+      <pubDate>Tue, 18 Jun 2024 18:28:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的副业 SaaS 仅用 15 天就实现了 1000 美元的销售额</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dixqiz/my_side_hustle_saas_reached_1k_in_sales_in_just/</link>
+      <description><![CDATA[我想告诉大家，我们的 SaaS 在不到 15 天的时间内正式突破了 1000 美元的收入里程碑。🎉 我的生活就像过山车一样，充满了漫长的工作、深夜和无数的怀疑时刻。对于那些刚刚起步或努力取得进展的人，我想提供一些实用的建议。 以下是我们达到 1000 美元大关的方法： 发布在目录中：我们将我们的 SaaS 列在一些在线目录中以提高知名度。 创建了 10 个博客：这些博客帮助我们构建内容并推动自然流量。 在社交媒体上活跃：我们与 Twitter、Reddit 和 Indie Hackers 上的社区分享了更新。 致所有梦想家和勤奋工作者，继续努力。  干杯。 网站演示    由    /u/WildCraft4115 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dixqiz/my_side_hustle_saas_reached_1k_in_sales_in_just/</guid>
+      <pubDate>Tue, 18 Jun 2024 18:27:13 GMT</pubDate>
+    </item>
     <item>
       <title>一开始销售很好，后来就没什么了。换成了终身交易 - 有什么建议吗？</title>
       <link>https://www.reddit.com/r/SideProject/comments/1dixfhr/first_sales_were_great_then_nothing_switched_to/</link>
@@ -32,83 +109,6 @@
       <description><![CDATA[大家好 :) 我是新来的，但我想我会来这里，因为我认为我和我的团队构建了一些非常酷的东西！但是我很想知道在我们构建它时社区的反馈。 Sonia 是一位认知行为治疗师，由人工智能驱动。 我们为什么要创建 Sonia？因为我们相信心理健康护理应该随时随地为任何人提供。每个人都有一部手机，但很少有人有数千美元的额外资金来投资他们的心理健康。我们不一定想取代治疗师，而是让那些无法定期看治疗师的人更快乐。 关于技术：Sonia 可以通过 iOS 应用程序通过语音和文本进行整个认知行为治疗 (CBT) 会话。我们已经将 CBT 的结构（情绪检查、议程设置、认知重构等）数字化重建为有限状态机。 LLM 代理在约 30 分钟的课程中遍历这些状态，但也有简短的约 5 分钟课程可作为简短的&quot;vent&quot; 课程。 Sonia 还采取了多项安全和隐私措施，例如在紧急情况下自动重定向到国家帮助热线。 我们很乐意从 Reddit 社区获得反馈，关于如何使 Sonia 更安全、更有效，以及任何可能很好实现/看到的功能！ 在此处下载应用程序： 下载 Sonia  如果您不想下载应用程序进行测试，请随时评论您可能想到的任何初步想法或潜在反馈 - 任何意见都值得赞赏！  提前感谢您的反馈 :) 干杯！    由    /u/subtlyforeseeable 提交   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1diwtf0/would_you_use_an_aipowered_therapist/</guid>
       <pubDate>Tue, 18 Jun 2024 17:49:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>免费 SEO（直到您开始看到结果）</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1divqnd/free_seo_until_you_start_seeing_results/</link>
-      <description><![CDATA[如果您是一家知名企业。 您拥有一个权威网站（我的意思是其他企业已经在提及您的网站）。 您正在通过其他方式产生销售。 然后我会免费做 SEO，直到您开始看到结果。 如果这项工作不能帮助您更有权威或者帮助您通过内容建立品牌，你可以拒绝这项工作，不需要继续与我合作，我也不会提出任何问题。    提交人    /u/olympikesoft   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1divqnd/free_seo_until_you_start_seeing_results/</guid>
-      <pubDate>Tue, 18 Jun 2024 17:04:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>您推荐哪个副项目可以赚点钱？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1div5eu/which_sideproject_do_you_recommend_to_earn_some/</link>
-      <description><![CDATA[大家好！我是一名 Django 开发人员（主要从事后端工作，但我也了解前端）。我有兴趣构建一个应用程序或一些可以出售的商业模式，以便每月赚取一些额外的收入。我并不想做太疯狂的事情，但少即是多。到目前为止，我所做的就是为当地企业（wordpress）制作一些网站，并为我认识的人解决一些计算机问题。一年前，我还尝试制作一款使用二维码和吸引人的外观的简单餐厅菜单软件，但酒店经营者对数字化并不太感兴趣，至少在我的国家是这样。几天来我一直在思考我能做什么，我想知道你是否知道在这个世界上可以开始的事情。谢谢！    提交人    /u/piikuman   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1div5eu/which_sideproject_do_you_recommend_to_earn_some/</guid>
-      <pubDate>Tue, 18 Jun 2024 16:39:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>Smash It！一款乒乓球表现追踪应用</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1diupip/smash_it_a_performance_tracking_app_for_table/</link>
-      <description><![CDATA[      Smash It!：群组页面 我创建了一个 Web 应用，用户可以加入群组并跟踪他们在群组内的表现。这个应用的灵感来自于我在 Web 开发训练营期间需要跟踪每个人在乒乓球上的表现，因为我们变得有竞争力，无法跟踪事情。 如果您打乒乓球，请随时试用。该应用目前处于测试阶段。 https://smash-it-table-tennis.com/   由    /u/excelsior1000  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1diupip/smash_it_a_performance_tracking_app_for_table/</guid>
-      <pubDate>Tue, 18 Jun 2024 16:21:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>您如何选择下次旅行的目的地？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1diuodb/how_do_you_choose_where_to_travel_next/</link>
-      <description><![CDATA[我经常旅行，所以我的朋友总是问我下一步该去哪里。我想他们不是唯一有这个问题的人，而且可以通过一些简单的问题和一个精心编写的自定义 GPT 来解决，其语气类似于我向朋友解释 BS 时的语气。 它的名字是我到底该去哪里旅行？ www.wtfshit.com 正在寻找关于这个 MVP 的反馈和功能请求。    提交人    /u/xenodochial90   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1diuodb/how_do_you_choose_where_to_travel_next/</guid>
-      <pubDate>Tue, 18 Jun 2024 16:20:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>我聘请了一位 ChatGPT 销售代表来帮您完成 WhatsApp 销售线索</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ditzx9/i_made_a_chatgpt_sales_rep_to_close_your_whatsapp/</link>
-      <description><![CDATA[        由    /u/abrownie_jr  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ditzx9/i_made_a_chatgpt_sales_rep_to_close_your_whatsapp/</guid>
-      <pubDate>Tue, 18 Jun 2024 15:52:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个 AI Nocode 抓取工具，可以从任何网站获取实时准确的数据 [json、xml、csv]！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ditio3/i_made_an_ai_nocode_scraper_that_get_real_time/</link>
-      <description><![CDATA[        提交人    /u/tuantruong84   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ditio3/i_made_an_ai_nocode_scraper_that_get_real_time/</guid>
-      <pubDate>Tue, 18 Jun 2024 15:31:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>为 Linkedin 制作了一个评论工具，以帮助建立联系和产生潜在客户</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dit3ot/made_an_commenting_tool_for_linkedin_to_help_with/</link>
-      <description><![CDATA[        由    /u/Witty_Side8702   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dit3ot/made_an_commenting_tool_for_linkedin_to_help_with/</guid>
-      <pubDate>Tue, 18 Jun 2024 15:13:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>Baatchit 介绍：一款开源、实时、端到端加密聊天应用程序 🌟</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1disxti/introducing_baatchit_an_opensource_realtime/</link>
-      <description><![CDATA[      https://preview.redd.it/gl9xqilhic7d1.png?width=1920&amp;format=png&amp;auto=webp&amp;s=a657f5c1797d8b7b2862728049534d012667a305 开源存储库链接 - GitHub 上的 Baatchit 我从头开始从事这个开源项目已经两个多月了。开发周期既充满挑战又收获颇丰。我的目标是构建一个应用程序，即使我作为开发人员，也无法特殊访问用户数据，从而确保每个人的最大隐私和安全。 主要功能✨  🔒 端到端加密：用于安全消息传递的高级加密。 🔑 私钥恢复：通过密码和 MFA 电子邮件验证进行安全密钥恢复。 📲 推送通知：即时更新，即使应用程序已关闭。 💬 实时消息传递：与他人即时通信。 🤝 好友功能：与朋友或群组联系和聊天。 🟢 用户状态：实时在线状态。 ⌨️ 打字指示器：查看其他人何时打字。 ✔️ 消息已读状态：了解消息何时被阅读。 ✏️ 编辑和删除消息：完全控制您的对话。 📁 文件共享：安全地共享文件。 🎉 GIF 发送：通过 Tenor 库发送 GIF。 📊 投票：创建投票以获取反馈。 🔒 OAuth 集成：使用 GitHub 和 Google 轻松登录。 📱 渐进式 Web 应用程序 (PWA)：在您的手机或桌面上安装该应用程序并享受类似原生应用程序的体验。  在整个旅程中，我克服了许多障碍，从实施端到端加密到集成 Google 身份验证和掌握套接字编程。我的主要目标是赢得开源社区的尊重，并为开源聊天应用程序树立标杆。 我希望 Baatchit 可以成为初学者的宝贵学习工具，并为寻求贡献的经验丰富的开发人员奠定坚实的基础。我全身心地投入到这个项目中，并对社区的潜在合作和改进感到兴奋。 感谢您参与这一旅程。您的支持和反馈对我来说意味着一切。让我们一起让 Baatchit 变得更好！    提交人    /u/rishibakshii   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1disxti/introducing_baatchit_an_opensource_realtime/</guid>
-      <pubDate>Tue, 18 Jun 2024 15:06:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>创建样板文件，在一周内交付移动应用程序。测试人员希望</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1disfk3/created_a_boilerplate_to_ship_making_mobile_apps/</link>
-      <description><![CDATA[嗨，开发者们 我是一名 Android 开发者，拥有超过 10 年的专业应用开发经验。几年前，我遇到了一个障碍。尽管开发了出色的 Android 应用，但我无法使用 iPhone 与朋友联系。我总是在能够将副业项目货币化之前就放弃了，而且我总是害怕构建应用程序的后端 考虑到我已经了解 Kotlin，我决定深入研究 Kotlin Multiplatform 来解决这些问题。 经过无数个小时的反复试验和发布多个应用程序后，我创建了一个样板，让我能够在一周内发布我的 MVP。 它使用 Kotlin 多平台构建，可以共享 99% 的代码，并且仅使用 Kotlin 即可发布两个平台（iOS 和 Android）。 为了避免在验证我的想法并获得一些关注（$$$）之前构建后端，我集成了 RevenueCat、Firebase Firestore 和 Auth。 我还在不断添加新功能，因为它是我用来构建自己的应用程序的模板，例如。我刚刚集成了一种让您开箱即用地调用 OpenAI API 并发送图像或文本的方法。我还致力于整合登陆页面。 您可以在 https://getmobilestack.com/ 查看有关样板的所有信息 我正在寻找另外 10 位有兴趣运送移动应用程序的制造商来免费测试样板。如果您有兴趣，只需在结帐时使用代码 REDDIT，先到先得。在 Discord 见。    提交人    /u/brahyamm   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1disfk3/created_a_boilerplate_to_ship_making_mobile_apps/</guid>
-      <pubDate>Tue, 18 Jun 2024 14:45:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>MyContacts.AI - 轻松创建、训练并与 AI 联系人互动</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dirmjk/mycontactsai_easily_create_train_and_interact/</link>
-      <description><![CDATA[        由    /u/aronprins 提交   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dirmjk/mycontactsai_easily_create_train_and_interact/</guid>
-      <pubDate>Tue, 18 Jun 2024 14:10:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>ASTROVOID *我的新游戏*</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dirm7i/astrovoid_my_new_game/</link>
-      <description><![CDATA[早上好，我来自巴西，我正在开发一款基于 Godot 引擎的游戏，它叫做 AstroVoid，这是一款 Momochromatic 街机游戏，你必须在小行星摧毁你的飞船之前逃离它们。就是这样，玩得开心！！！  它在 itch.io 上可用：https://pixeladodev.itch.io/astrovoid  我打算将它发布到 PC（Linux、Windows 和 Mac）和 Android 上！  我使用 Godot 4.2 开发我的游戏。    提交人    /u/ConsistentAbalone189   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dirm7i/astrovoid_my_new_game/</guid>
-      <pubDate>Tue, 18 Jun 2024 14:09:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
