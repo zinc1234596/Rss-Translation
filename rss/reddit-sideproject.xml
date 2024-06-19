@@ -4,7 +4,84 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Wed, 19 Jun 2024 09:17:13 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Jun 2024 12:26:11 GMT</lastBuildDate>
+    <item>
+      <title>我根据 r/startups 和 r/SideProject 的反馈改进了我的登录页面。您能再检查一下我是否做对了吗？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1djhpio/ive_made_improvements_to_my_landing_page_based_on/</link>
+      <description><![CDATA[这是我第一次准备服务发布，我感到有点不安全，因为我收到了一些关于我的登陆页面的负面反馈。我修复了一些问题并上传了一个新版本。您能就我更新后的登陆页面和我的服务给我反馈吗？您的意见真的很有帮助！ piazza.run    提交人    /u/Waste-Land-9986   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1djhpio/ive_made_improvements_to_my_landing_page_based_on/</guid>
+      <pubDate>Wed, 19 Jun 2024 12:16:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>棒球直播：请求 Beta 测试人员</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1djhgqk/baseball_live_request_for_beta_testers/</link>
+      <description><![CDATA[      我一直在开发一款 iPhone 应用程序，用于跟踪实时棒球比分、球队、球员、排名、新闻以及与棒球有关的一切其他信息。该应用程序可让您选择最喜欢的球队，主要提供每场大联盟比赛的投球细节、排名、赛程、获胜百分比、球员信息等。 棒球直播目前处于公开测试阶段，我正在寻找任何有兴趣在 App Store 广泛发布之前帮助我测试该应用程序的人。如果有兴趣，请填写此表单以注册访问测试版。 有关更多信息，请在 Twitter 上关注 BaseballLiveApp！ 主要功能：  游戏内 逐球数据 通知和锁定屏幕实时活动 得分表 获胜概率 回顾和预览 估计裁判好球区 可自定义的球员数据线  球队 时间表 排名 交易 新闻 球员名单  球员  统计数据 比赛日志 个人简介 交易  统计数据  排行榜  搜索  球员 球队 比赛   https://preview.redd.it/sa9j1spwpi7d1.png?width=1179&amp;format=png&amp;auto=webp&amp;s=99cbc15974ff21ddf67aeaaa4267af1272fcb8fe https://preview.redd.it/ygu49b9fqi7d1.png?width=1179&amp;format=png&amp;auto=webp&amp;s=cb7f4d0a790b678fb4bc6b44bd9d8a5046e88e2d https://preview.redd.it/3fs5pnrhqi7d1.png?width=1179&amp;format=png&amp;auto=webp&amp;s=49640e4737afef1cf197be77efa0cba98f5e770d https://preview.redd.it/si9jab1jqi7d1.png?width=1179&amp;format=png&amp;auto=webp&amp;s=7465760badf788adacc2f43f374b0a6930e87506    提交人    /u/chs5056   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1djhgqk/baseball_live_request_for_beta_testers/</guid>
+      <pubDate>Wed, 19 Jun 2024 12:03:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>这就是 Notion Killer 吗？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1djh4ql/is_this_the_notion_killer/</link>
+      <description><![CDATA[微软最近发布了 Microsoft Loop，这是 Notion 的一个非常明显的竞争对手。微软在通过用户界面传达该产品将挑战 Notion 的信息时几乎没有留下任何想象空间。 然而，为了击败 Notion，并说服像我这样的长期 Notion 用户转换过来，他们需要通过创新模板（我们的 SideProject）带来新的东西，他们似乎完全意识到了这一点。 这就是他们引入以下功能的原因：  由 ChatGPT 提供支持的 Copilot Loop Components（跨 Loop 和 Office 365 的实时可共享组件） 与所有 Office 365 应用程序完全集成  ….还有更多    提交人    /u/Emma-Lawrencee   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1djh4ql/is_this_the_notion_killer/</guid>
+      <pubDate>Wed, 19 Jun 2024 11:45:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>创建最大的图书馆</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1djgr4g/creating_the_biggest_book_library/</link>
+      <description><![CDATA[我正在创建现存最大的有组织的图书馆，并链接到搜索引擎中的每一本书页面（购买或阅读）。它将是一个专门的图书搜索引擎，字面意思。 包含的功能：  浏览我亲自策划的 1 亿本书数据库中的任何书籍（根本不使用 openLibrary） 每本书都将链接到包含 epub / pdf 书的网站 您可以在个人图书馆中创建和在书架上整理藏书 从 GoodReads、Storygraph、Kindle 等导入图书馆 搜索功能可为您提供类似查询的结果（主角是一位老单身母亲的书籍，充满爱和戏剧性以及幸福的结局） 根据您的图书馆内容和浏览历史记录量身定制的推荐系统（我已经有一个非常准确的推荐系统，它可以预测我朋友桌上有什么书） 免费提供的 API，提供非常有条理的图书信息（通过版本、作者、系列等相互链接）并可访问 50 个推荐功能。 DMCA 报告页面，我们将删除发布者不喜欢的任何链接。  我已经完成了 80% 的工作。目前正在设计布局和内容。我目前的问题是：  名称（我需要一个很酷的项目名称。像 Codex 或 Gutenberg 或类似的东西） 资金（我想我会建立一个 Patreon 来支持它，如果需要，因为我希望它可以免费使用。另外，我想把它做成一个应用程序，并根据需要添加功能），如果是 Patreon，那么有什么样的计划可以放在那里。 有什么潜在的想法吗？  让我知道你们的想法！我对此真的很兴奋    提交人    /u/Wrong_Swimming_9158   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1djgr4g/creating_the_biggest_book_library/</guid>
+      <pubDate>Wed, 19 Jun 2024 11:23:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>你们得到报酬了吗？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1djgq7z/you_guys_are_getting_paid/</link>
+      <description><![CDATA[        提交人    /u/Rutter_Boy   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1djgq7z/you_guys_are_getting_paid/</guid>
+      <pubDate>Wed, 19 Jun 2024 11:22:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>对于开发人员来说，测试应该有多复杂？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1djg650/how_complex_should_a_test_for_a_developer_be/</link>
+      <description><![CDATA[我过去曾聘请过开发人员，作为非技术所有者，我查看了投资组合并遵循了参考资料，但仍然被坏蛋困住了。最近，我被建议设置测试，我正在学习基础知识以帮助完成这项任务。  但测试应该有多复杂？我想确保他们具备所需的技能，但我不想让他们不知所措或浪费太多时间。  什么是良好的平衡？  测试应该是一个小项目，几个算法问题，还是完全不同的东西？你如何确保它反映他们将要做的实际工作？  关于设计这些测试的任何提示或哪些方法有效的例子    提交人    /u/value_que   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1djg650/how_complex_should_a_test_for_a_developer_be/</guid>
+      <pubDate>Wed, 19 Jun 2024 10:48:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的业余项目如何帮助我在期末考试中取得好成绩</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1djg306/how_my_side_project_helped_me_ace_my_finals/</link>
+      <description><![CDATA[大家好！我想分享一个小故事，关于我上学期期末考试时偶然发现的一个副业项目如何真正帮助了我。所以，我当时正在兼顾一份兼职工作、几门艰难的课程，并试图维持某种社交生活。你知道这是怎么回事。😅 一天晚上，我为一个特别棘手的家庭作业问题而绞尽脑汁。我在网上搜索参考资料，试图总结一个又长又无聊的课程视频。感觉我很快就一事无成。就在那时，一位朋友偶然提到了他们正在使用这个人工智能驱动的 Chrome 扩展程序来帮助学习。我很好奇，决定试一试。 我将这个扩展程序添加到我的浏览器中，老实说，它改变了游戏规则。它帮助我分解复杂的问题，快速找到学术参考资料，甚至总结那些无尽的课程视频。感觉就像我身边有一个私人学习助理。最好的部分是什么？它是免费的！ 长话短说，这个小工具为我节省了大量的时间和压力。我设法在期末考试中取得优异成绩，保住了工作，并且仍然和朋友们一起出去玩。如果你是一名学生或者只是一个热爱学习的人，我强烈建议你看看这样的工具。它们真的可以发挥作用。 它被称为 StudyGPT，希望它能有所帮助！    提交人    /u/No-Apartment-5274   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1djg306/how_my_side_project_helped_me_ace_my_finals/</guid>
+      <pubDate>Wed, 19 Jun 2024 10:42:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>通过 whatsapp 建立网站？这有需求吗？ - 正在研究</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1djfyq3/building_websites_via_whatsapp_is_this_in_demand/</link>
+      <description><![CDATA[  由    /u/yuvan_arvind  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1djfyq3/building_websites_via_whatsapp_is_this_in_demand/</guid>
+      <pubDate>Wed, 19 Jun 2024 10:35:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻求 Web3 项目的合作者</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1djfs65/seeking_collaborators_for_web3_projects/</link>
+      <description><![CDATA[大家好， 我是一家位于韩国的 Web3 公司的产品经理，我热衷于探索和构建创新的 Web3 解决方案。多年来，我在 Web3 生态系统的各个方面都积累了经验，我渴望与志同道合、有着同样热情的人合作。 如果您对开发 Web3 产品感兴趣，并且擅长提出创意想法，我很乐意与您联系！无论您是开发人员、设计师、营销人员，还是只是对 Web3 有浓厚兴趣的人，让我们一起合作开展一些激动人心的项目。 目标是从简单的想法开始，逐步构建一些有影响力的东西。这是一个学习、分享知识并可能创造一些可以在 Web3 领域有所作为的东西的绝佳机会。 如果您感兴趣或有任何想法，请发表评论或给我发消息。让我们讨论如何将这些想法变成现实！ 期待收到大家的来信。    提交人    /u/MathematicianRich413   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1djfs65/seeking_collaborators_for_web3_projects/</guid>
+      <pubDate>Wed, 19 Jun 2024 10:22:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>无用的应用程序副项目</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1djf7vl/useless_app_side_project/</link>
+      <description><![CDATA[我制作了一个应用，它通过说冷和热来为你指路。你还可以与朋友分享你的位置，这样他们就必须找到你。我非常希望得到一些意见和反馈，谢谢！ https://play.google.com/store/apps/details?id=com.hurae.warmcold&amp;pcampaignid=web_share https://apps.apple.com/us/app/warmcold/id1513920939?mt=8   由    /u/vonderdeckentok  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1djf7vl/useless_app_side_project/</guid>
+      <pubDate>Wed, 19 Jun 2024 09:45:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>从B2C到B2B的软转型</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1djf6m3/soft_pivoting_from_b2c_to_b2b/</link>
+      <description><![CDATA[他在那里做副业。 我一直在构建 https://www.easyappl.ai/，最近决定专注于招聘人员，帮助他们使用 AI 以 10 倍的速度找到合适的候选人。 最初，我是帮助候选人创建简历并申请工作，现在我认为转型是必要的，因为招聘人员非常热衷于使用该产品。这是我为他们制作的登陆页面 https://www.easyappl.ai/hire  价值主张是否合理，希望听到任何反馈。 干杯，    提交人    /u/AccomplishedCrow3818   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1djf6m3/soft_pivoting_from_b2c_to_b2b/</guid>
+      <pubDate>Wed, 19 Jun 2024 09:43:16 GMT</pubDate>
+    </item>
     <item>
       <title>轻松的简历生成器：10 分钟内创建您的简历！</title>
       <link>https://www.reddit.com/r/SideProject/comments/1djek2k/effortless_cv_builder_create_your_resume_in_under/</link>
@@ -32,83 +109,6 @@
       <description><![CDATA[        提交人    /u/gpirescampos   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1dje55b/five_business_ideas/</guid>
       <pubDate>Wed, 19 Jun 2024 08:28:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个可以在几秒钟内将 PDF 表格提取到 Excel 的工具！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1djdjgd/i_made_a_tool_to_extract_pdf_tables_to_excel_in/</link>
-      <description><![CDATA[      如果您有时间，我很乐意听取您的反馈！ 我之所以有这个想法，是因为我需要从 PDF 文件中提取一些表格，而网上已经有一些这样的选项。我认为我可以通过一些改进来让这个过程和工具变得更好。 此工具与其他在线工具的不同之处： - 它更加准确。 - 您下载的表格在 excel 文件中的格式非常完美。您不必手动拖动单元格来使文本适合。 - 我的工具需要尽可能少的努力。您需要做的就是单击网站上的 3 个按钮，然后就可以下载表格了。 您可以在以下位置查看：https://pdftoexceltables.com 谢谢！ https://reddit.com/link/1djdjgd/video/cuxr3q6ogh7d1/player    提交人    /u/sphorb   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1djdjgd/i_made_a_tool_to_extract_pdf_tables_to_excel_in/</guid>
-      <pubDate>Wed, 19 Jun 2024 07:45:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>请 SQL 专家为我的 SQL 工具提供反馈</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1djd3j6/calling_out_sql_experts_to_provide_feedback_for/</link>
-      <description><![CDATA[我发现自己和其他人使用 chatgpt 来编写查询，而其他 AI 工具则要求您粘贴架构 / 表来构建查询，为了解决这个问题，我正在构建本机 ai sql 编辑器，您可以在其中本地连接数据库，以便  您不需要像其他工具在网络上那样提供凭据 所有架构信息都可以在本地获得，因此无需一次又一次地复制架构 由于存在列类型和表关系的上下文，因此可以制作更准确的查询 您可以根据需要连接任意数量的数据库 它不仅是查询生成器，您还可以查询结果、过滤和导出它们 目前支持 postgres 和 MySQL  请留下您的任何反馈！ https://reddit.com/link/1djd3j6/video/1mzqq0zv9h7d1/player    由   提交  /u/Purple_Minute_4776   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1djd3j6/calling_out_sql_experts_to_provide_feedback_for/</guid>
-      <pubDate>Wed, 19 Jun 2024 07:14:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>从 MVP 开始，最终发展成为完整的产品——SocialHalt 介绍</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1djd0di/started_as_a_mvp_ended_up_a_full_product/</link>
-      <description><![CDATA[        提交人    /u/whatzup0101   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1djd0di/started_as_a_mvp_ended_up_a_full_product/</guid>
-      <pubDate>Wed, 19 Jun 2024 07:07:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>摩托车网络 - 连接、共享、骑行并加入全球摩托车手</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1djcuna/motorbike_network_connect_share_ride_join_bikers/</link>
-      <description><![CDATA[嗨 r/sideproject**！** 我很高兴与大家分享我的最新项目摩托车网络，该项目旨在连接来自世界各地的摩托车爱好者。过去几个月我一直在致力于这个项目，我相信它真的可以为希望联系、分享经验和一起骑行的骑手带来改变。 什么是摩托车网络？ 摩托车网络是一款创新的应用程序，旨在将现有平台的最佳功能整合到一个易于使用的应用程序中。无论您是寻找新朋友的单人骑行者，还是计划下一次长途骑行的团体组织者，Motorbike Network 都能满足您的所有骑行需求。 主要功能：  骑行计划/组织：轻松计划和组织与其他骑行者的团体骑行。创建路线、设置会面地点并邀请其他骑行者。 团体聚会：查找并加入您所在地区的骑行者聚会或组织您自己的聚会。与当地骑行者联系并分享您的激情。 摄影比赛：参加摄影比赛并展示您的骑行冒险经历。为您最喜爱的照片投票，看看您与其他爱好者相比如何。 全球社区：与来自世界各地的骑手联系，分享您的经验，并发现新的骑行伙伴。 其他附加功能：享受论坛、活动日历等其他功能，以增强您的摩托车骑行体验。  早期开发阶段： 请注意，摩托车网络仍处于早期开发阶段。目前，它具有非常基本的功能，尚未包含所有计划的功能。这是我需要你的帮助的地方！ 我为什么要建造这个： 我受到启发创建摩托车网络，因为我一直发现很难找到一个能够提供骑手所需的一切的单一平台。现有的应用程序和平台要么过于分散，要么缺乏基本功能。我希望提供一个全面的解决方案，该解决方案用户友好、功能丰富，并且专为骑行社区打造。 您可以如何提供帮助： 我希望从这个很棒的社区获得反馈，以帮助我改进 Motorbike Network。以下是您可以做出贡献的方式：  下载应用：Google Play 上的 Motorbike Network 试用：试用一下，看看它是否适合您的日常生活。 分享您的想法：让我知道您的想法！欢迎任何反馈、建议或功能请求。  下一步是什么？ 我对 Motorbike Network 有很大的计划，包括：  增强导航和路线规划功能。 与流行的自行车配件和装备集成。 更多互动社区活动和挑战。  您的反馈将有助于塑造应用程序的未来。非常感谢您抽出时间和支持。我期待听到您的想法！    提交人    /u/r00tus3r_   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1djcuna/motorbike_network_connect_share_ride_join_bikers/</guid>
-      <pubDate>Wed, 19 Jun 2024 06:57:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>登陆页面反馈</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1djcamh/feedback_on_landing_page/</link>
-      <description><![CDATA[        提交人    /u/oliviff   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1djcamh/feedback_on_landing_page/</guid>
-      <pubDate>Wed, 19 Jun 2024 06:20:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>你觉得这个想法怎么样？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1djbnio/what_do_you_think_about_this_idea/</link>
-      <description><![CDATA[每次使用 ChatGPT 时，我都发现复制和粘贴信息很麻烦，尤其是在回复电子邮件或 LinkedIn 聊天时。例如，在撰写电子邮件回复时，我需要粘贴整个对话历史记录。 为了解决这个问题，我正在考虑开发一种产品，它可以输入关键句子并生成回复，而无需将整个对话历史记录粘贴到 ChatGPT。 这有趣或有价值吗？我很想听听你的想法。    提交人    /u/BewilderedOrca   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1djbnio/what_do_you_think_about_this_idea/</guid>
-      <pubDate>Wed, 19 Jun 2024 05:38:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>我建立了一个登陆页面，但需要你的帮助来让它变得更好</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dj96k2/i_built_a_landing_page_but_need_your_help_to_make/</link>
-      <description><![CDATA[我为我的第一个移动产品创建了一个登录页面。它是关于您在使用照片旅行时去过和见过的旅程和世界。  这是我第一次向公众推出产品，我想让它更清晰、更好。 你能帮我审核一下吗？我相信你们中的一些人是这个领域的专家。 https://memoir.usistem.com     提交人    /u/hagerhu   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dj96k2/i_built_a_landing_page_but_need_your_help_to_make/</guid>
-      <pubDate>Wed, 19 Jun 2024 03:10:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>我建立了一个登陆页面，欢迎任何反馈或建议</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dj91kv/i_built_a_landing_page_and_welcome_any_feedback/</link>
-      <description><![CDATA[我为我的第一个移动产品创建了一个登录页面。它是关于您在使用照片旅行时去过和见过的旅程和世界。  这是我第一次向公众推出产品，我不确定我做对了。 你能帮我审核一下吗？我相信你们中的一些人是这个领域的专家。 https://memoir.usistem.com     提交人    /u/tanran   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dj91kv/i_built_a_landing_page_and_welcome_any_feedback/</guid>
-      <pubDate>Wed, 19 Jun 2024 03:03:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>扩展您的业务：数字产品无与伦比的潜力</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dj7yk1/scaling_your_business_the_unparalleled_potential/</link>
-      <description><![CDATA[        提交人    /u/Technical_Visual_272   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dj7yk1/scaling_your_business_the_unparalleled_potential/</guid>
-      <pubDate>Wed, 19 Jun 2024 02:06:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何轻松通过UI/UX设计阶段？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dj7u3r/how_to_get_theough_uiux_design_stage_with_little/</link>
-      <description><![CDATA[我是一名开发人员，希望将我的业余项目想法变成现实，但当想到如何度过 UI/UX 阶段时，我总是感到焦虑，因为我没有这些领域的经验，而且我很难进行设计。 你对我的项目的 UI/UX 设计有什么建议吗？有什么工具可以推荐吗？ 如果有兴趣的话，我也很乐意与设计师合作。    提交人    /u/physFx   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dj7u3r/how_to_get_theough_uiux_design_stage_with_little/</guid>
-      <pubDate>Wed, 19 Jun 2024 02:00:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于屏幕时间管理应用的反馈</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dj7oej/feedback_on_screentime_management_app/</link>
-      <description><![CDATA[      大家好，我正在为 buildspace 第 5 季打造 Hive，这是一款屏幕时间管理应用，它使用各种不同的研究技术让你的手机变得无聊。这里有一张图表可以总结一下。很乐意听取对这个项目的一些反馈。 https://preview.redd.it/z40zwfakpf7d1.png?width=1836&amp;format=png&amp;auto=webp&amp;s=11278f48f2fb35207dc90c7e32ccbdb8c1320bef    提交人    /u/compassWorn   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dj7oej/feedback_on_screentime_management_app/</guid>
-      <pubDate>Wed, 19 Jun 2024 01:52:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
