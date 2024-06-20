@@ -4,111 +4,111 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Thu, 20 Jun 2024 12:24:31 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Jun 2024 15:15:15 GMT</lastBuildDate>
     <item>
-      <title>作为一名教师，您是否有兴趣投资一项可以自动评分多项选择试卷的服务？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dka9ck/as_a_teacher_would_you_be_interested_in_investing/</link>
-      <description><![CDATA[该服务的工作原理如下： 上传您的文件并设置每个问题的正确答案作为基础。该服务将对学生试卷进行评分 查看投票    提交人    /u/Alternative-Low1217   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dka9ck/as_a_teacher_would_you_be_interested_in_investing/</guid>
-      <pubDate>Thu, 20 Jun 2024 12:20:54 GMT</pubDate>
+      <title>有人曾因为遇到挑战而想放弃副业吗？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dke1pc/anyone_ever_felt_like_quitting_a_side_project_due/</link>
+      <description><![CDATA[这里有没有人觉得他们的业余项目正在损害他们的心理健康？我最近对自己的业余项目感到压力很大。这应该是一项有趣且令人满足的事业，但由于我面临的所有障碍，我开始感到不知所措。  我大部分的空闲时间都花在修复难以解决的持久错误、性能优化和应用程序响应以及与第三方 API 集成的困难上。 我以为与我的日常工作相比，从事这项工作会更快乐，我的意思是这是一个业余项目，而不是一家初创公司，但事情并不容易。 你们有人经历过这种情况吗？你在业余项目中面临什么样的挑战？你是如何处理它们而不觉得你需要放弃的？愿意分享吗？  知道我不是唯一一个有此想法的人，我会非常高兴。    提交人    /u/michealsheen122   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dke1pc/anyone_ever_felt_like_quitting_a_side_project_due/</guid>
+      <pubDate>Thu, 20 Jun 2024 15:11:56 GMT</pubDate>
     </item>
     <item>
-      <title>向您的账户出售 2500 美元的 openai 信用额度和 1000 美元的 azure</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dka0h6/selling_2500_openai_credit_to_your_account_and/</link>
-      <description><![CDATA[一旦激活，信用额度可使用 6 个月，如果感兴趣请直接发信息给我     提交人    /u/Round-Volume-8898   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dka0h6/selling_2500_openai_credit_to_your_account_and/</guid>
-      <pubDate>Thu, 20 Jun 2024 12:07:52 GMT</pubDate>
+      <title>如何为你的产品寻找融资团队？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dkds7t/how_to_find_a_funding_team_for_your_products/</link>
+      <description><![CDATA[长话短说，我是 Rat Lab，从小就编程 25 年了。 过去 10 年，我积累了一些项目，但没有一个真正起步，有几个项目被推销给商会，但没有成功。 问题在于尝试筹集资金来构建这个东西，并进行推销和寻找投资者。引导是一个不错的选择，因为我可以在没有任何帮助的情况下构建产品。 尝试做营销、销售和客户服务，同时思考软件问题，这简直是疯了。 尝试过社交销售、一些冷消息传递，但没有成功。 在哪里可以找到具有相同动力来资助团队和推出产品的人？    提交人    /u/sintax3rr   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dkds7t/how_to_find_a_funding_team_for_your_products/</guid>
+      <pubDate>Thu, 20 Jun 2024 15:01:20 GMT</pubDate>
     </item>
     <item>
-      <title>mdx - 用于下载漫画的简单 CLI 应用程序</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dk9r0v/mdx_simple_cli_application_for_downloading_manga/</link>
-      <description><![CDATA[      demo.gif 特点：  适用于 Windows、MacOS、Linux。 下载多个章节。 以 CBZ、PDF、EPUB 格式保存漫画。 将多个章节保存在一个文件中。 自动生成下载文件的元数据，适用于电子阅读器。 搜索漫画。 显示有关漫画的信息。  Github 项目：https://github.com/arimatakao/mdx 我为自己创建了这个项目，但决定与大家分享。也许代码写得并不完美，但程序运行良好，并能正确执行其主要功能。我需要你的反馈。    提交人    /u/wolf_bit   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dk9r0v/mdx_simple_cli_application_for_downloading_manga/</guid>
-      <pubDate>Thu, 20 Jun 2024 11:53:54 GMT</pubDate>
+      <title>我想要一个类似 codepen.io 的 Python 版本，所以我创建了一个网站来运行和分享 Python 代码</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dkdqko/i_wanted_something_like_codepenio_for_python_so_i/</link>
+      <description><![CDATA[  由    /u/yogeshkd  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dkdqko/i_wanted_something_like_codepenio_for_python_so_i/</guid>
+      <pubDate>Thu, 20 Jun 2024 14:59:40 GMT</pubDate>
     </item>
     <item>
-      <title>你如何平衡朝九晚五的工作和你的副业？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dk9olx/how_do_you_balance_a_95_and_your_side_project/</link>
-      <description><![CDATA[我对整个副业项目还很陌生。我是一名软件工程师，每天早上 9 点上班，但我一直致力于开发我的游戏应用程序。最近我找了个人帮我开发游戏应用程序，这笔钱可不少。 与此同时，我是我所在工作的团队负责人，我真的很热爱我的工作，还不想辞职。我相信我可以兼顾两者，但我也不想两头都吃亏。所以，我在这里问大家如何才能有效地兼顾两者。 如果你以前做过这个，成功了吗？    提交人    /u/thomas_locke95   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dk9olx/how_do_you_balance_a_95_and_your_side_project/</guid>
-      <pubDate>Thu, 20 Jun 2024 11:50:06 GMT</pubDate>
+      <title>着陆页反馈请求</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dkddue/landing_page_feedback_request/</link>
+      <description><![CDATA[您好 r/SideProject， 大约一年前，我在这个子版块启动了我的业余项目 RambleFix，并计划在未来几周内发布一篇“一年后”的文章。  不过在此之前，我只是想快速看看我是否可以收集一些关于我的登陆页面的反馈，因为在过去的一年里我花了很多时间重新查找它，但总觉得获得一个新的视角很有帮助 - 我最近看了很多次，我担心我错过了一些显而易见的东西，这些东西可以更好地解释这个工具的作用！ 如果有人想让我知道他们的第一印象，或者他们认为它不尽如人意的地方，我将不胜感激，也非常乐意提出批评 :)  PS. 页面 -&gt; https://ramblefix.com  谢谢， 杰米    由    /u/jamie452  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dkddue/landing_page_feedback_request/</guid>
+      <pubDate>Thu, 20 Jun 2024 14:44:36 GMT</pubDate>
     </item>
     <item>
-      <title>如果您通过外包人才来经营您的业务，您会怎么做？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dk9dca/if_you_run_your_business_with_outsourced_talent/</link>
-      <description><![CDATA[我正在考虑通过外包人才来经营我的业务，​​并希望听取有这方面经验的人的意见。您如何有效地管理和整合外包团队成员？您使用什么工具和策略来确保顺畅的沟通和高质量的工作？ 任何关于寻找可靠的外包人才和维持一支有凝聚力的团队的建议都很好。    提交人    /u/squad_ace   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dk9dca/if_you_run_your_business_with_outsourced_talent/</guid>
-      <pubDate>Thu, 20 Jun 2024 11:31:59 GMT</pubDate>
+      <title>有谁愿意和我一起合作建立一个副项目吗？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dkdaut/anyone_willing_to_work_with_me_to_build_a_side/</link>
+      <description><![CDATA[大家好， 我正在尝试构建一个 UI，使某些后台流程变得简单。其中也会涉及 AI，但不会太复杂。它将是对最合适的 LLM 的 API 调用，并在 UI 中使用结果。 如果有人感兴趣，请告诉我。    提交人    /u/lazymoon69   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dkdaut/anyone_willing_to_work_with_me_to_build_a_side/</guid>
+      <pubDate>Thu, 20 Jun 2024 14:40:58 GMT</pubDate>
     </item>
     <item>
-      <title>Terrabuild：用于 mono-repo 的构建编排工具🥳</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dk8s3p/terrabuild_a_build_orchestration_tool_for_monorepo/</link>
-      <description><![CDATA[因此，去年我开始着手开发新工具来帮助管理工程团队。我担任 CTO 多年，过去十年主要在小公司工作，现在以自由职业者的身份工作。我一直对缺乏管理构建和发布的流程和结构感到惊讶。尽管在小公司工作（比如说少于 30 名开发人员/产品），但我总是惊讶于人们如何相互交流 - 我的意思是从不好的一面 - 尤其是考虑到他们工作的完成状态和影响时。 当然，我曾在资源匮乏、预算紧张的公司工作过。这并不坏，因为你必须选择你的战斗，但从我所看到和经历的情况来看，构建/测试/发布管理并不是团队的首要任务——我知道在这种情况下，这是我的角色，但如果可以的话，是时候为这些企业提出改进工具了。 今天，我正在交流我做的第一个产品：一个用于 mono-repos 的构建编排工具。它由我的公司 Magnus Opera 推广（我提醒你，我是一名自由职业者）。该工具名为 Terrabuild，可在此处获得：https://terrabuild.io。它稍后将在 GitHub 上提供——目前，不幸的是它是封闭源的。 这是一个非常简单的工具，基于 Merkle 树、类似 HCL 的语法、用于存储/恢​​复工件的后端和各种优化，以加快 CI 的速度。我知道它并不是那么新（我同意您在市场上有几种产品） - 但关键点不一定是工具，而是简单性以及后端在以后的指标和报告方面将提供什么。我明确针对团队规模较小且大多缺乏快速发展方法的公司。 我现在正在寻找 beta 测试人员。我想收集反馈并检查一切是否顺利运行😇不幸的是，我不能批准很多人，所以如果您想加入测试阶段，请联系我或在https://insights.magnusopera.io上申请一个帐户。目前它是免费的，但稍后将切换到订阅以支付账单😃 很高兴讨论 Terrabuild 的功能。此外，我愿意接受有关 Terrabuild、文档或任何有助于改进它的建议和评论。 感谢您的见解，请不要太苛刻，但无论如何要保持真实 - 这是我尝试商业化的第一个产品，我可能做错了一些事情（英语除外，这也是另一个问题）！ 干杯。    提交人    /u/groingroin   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dk8s3p/terrabuild_a_build_orchestration_tool_for_monorepo/</guid>
-      <pubDate>Thu, 20 Jun 2024 10:57:51 GMT</pubDate>
+      <title>还有谁还在他们的项目中添加博客？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dkda6d/who_else_is_still_adding_blogs_to_their_projects/</link>
+      <description><![CDATA[我曾经为自己建立的一个项目研究过内容营销，并研究过内容营销（通过博客/站内文章）是否仍然是人们为其网站吸引流量的流行方式，而结果却大相径庭。 不少人提到，谷歌的更新使得新网站根本无法获得任何排名，也无法完全抹去任何站内内容策略。 就我个人而言，我为以前的产品建立的博客仍然有不错的流量，我仍然打算将内容作为吸引流量到我产品的主要方式。 对于那些仍然这样做的人，你们面临的主要挑战是什么？对于那些不知道的人，你们依靠什么来为你的项目吸引流量？    提交人    /u/geeksg   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dkda6d/who_else_is_still_adding_blogs_to_their_projects/</guid>
+      <pubDate>Thu, 20 Jun 2024 14:40:06 GMT</pubDate>
     </item>
     <item>
-      <title>为内容创建者构建类似 G2/Trustpilot 的评论平台。如何在发布前增加用户列表</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dk8q92/building_a_review_platform_for_content_creators/</link>
-      <description><![CDATA[  由    /u/deepshaswat  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dk8q92/building_a_review_platform_for_content_creators/</guid>
-      <pubDate>Thu, 20 Jun 2024 10:54:34 GMT</pubDate>
+      <title>经过大量的时间和精力，我们终于推出了我们的一体化生产力平台！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dkd3ji/after_a_lot_of_time_and_effort_we_finally/</link>
+      <description><![CDATA[因此，我和我的商业伙伴一直在努力提高工作效率；我们是那种喜欢关注很多不同事物的人，因此我们很容易分心，我们发现在我们一起完成上一个项目时确实如此。我们需要跟踪很多不同的事情，因此在它们之间切换时我们很容易分心。  因此，我们建立了一个小平台来划分我们的工作 - 将所有工作放在一个地方，最大限度地减少切换，最大限度地减少干扰，最大限度地提高我们的工作效率。但我们意识到它还需要更多 - 例如，我们仍在为电子邮件设置标签，因此我们建立了链接。然后我们需要日历同步，然后我们希望能够看到任务板，然后我们想要安全地存储我们需要的所有密码，等等，直到突然间我们意识到我们实际上拥有一个完整的生活管理套件，这比我们最初正在做的事情有趣得多！  在过去的几个月里，我们一直在完善这个平台，现在我非常高兴与你们分享这个项目！ 在令人惊叹的创造力展示中，我们称之为 LIFE。如果您有任何反馈，请告诉我们！    提交人    /u/lifecorpglobal   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dkd3ji/after_a_lot_of_time_and_effort_we_finally/</guid>
+      <pubDate>Thu, 20 Jun 2024 14:32:13 GMT</pubDate>
     </item>
     <item>
-      <title>我已经为我的网站构建了自定义 Web 目录引擎，但我认为它失败了，因为我的利基市场太广。我应该转型还是继续努力？（长帖）</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dk8nyh/ive_build_custom_web_directory_engine_for_my/</link>
-      <description><![CDATA[  由    /u/joanmiro  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dk8nyh/ive_build_custom_web_directory_engine_for_my/</guid>
-      <pubDate>Thu, 20 Jun 2024 10:50:31 GMT</pubDate>
+      <title>使用词汇表 iOS 应用的无代码附带项目，潜力高达 3,490 美元</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dkcs83/no_code_side_project_with_3490_potential_using_a/</link>
+      <description><![CDATA[      https://preview.redd.it/30kce7gijq7d1.png?width=1280&amp;format=png&amp;auto=webp&amp;s=8552add0f10cae76e255f5674004de7dd45c2afa 大家好， 我注意到这个社区里有很多雄心勃勃的人，他们尝试了各种各样的项目。你们中的一些人具有营销技能，其他人拥有广泛的朋友网络，而一些人拥有适度的社交媒体关注者。 有无数的人通过移动应用赚钱的故事，你们中的许多人可以利用自己现有的技能和受众成为下一个成功案例，或者至少赚取一些被动收入。 以下是一些常见问题：  我不知道如何编码，我该从哪里开始？ 如果我花了 4 个月的时间开发一个应用程序，但它没有赚到钱怎么办？ 我不擅长设计，如何创建一个好看的应用程序？ 我没有 Mac，我可以使用 Windows PC 制作 iPhone 应用程序吗？  这些都是有效的问题，虽然我们可以更深入地研究每一个问题，但简单的答案是：不需要编码技能。使用应用模板快速验证您的想法。 您不必担心学习编码、花费数月开发应用或聘请设计师。您可以使用 Daily Word 应用等应用模板，该应用提供令人惊叹的设计，只需更改代码中的颜色或图像即可进行自定义。无需编码技能。 例如，词汇生成器应用最近在 Flippa 上以 3,490 美元的价格售出：Vocab Builder Sale。 Monkey Taps 的“Vocabulary - Learn Words Daily”等知名应用每月可产生 80,000 美元的收入：Monkey Taps Revenue。虽然您可能无法通过第一个应用赚到 80,000 美元，但这表明此类应用有市场。 即使您是开发人员，也可以花 2-4 个小时自定义和上传此应用，或者花 1-4 个月从头开始开发应用。 请分享您的想法、问题和反馈。我很乐意帮助您启动下一个 iOS 应用。    提交人    /u/_Apps4World_   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dkcs83/no_code_side_project_with_3490_potential_using_a/</guid>
+      <pubDate>Thu, 20 Jun 2024 14:18:36 GMT</pubDate>
     </item>
     <item>
-      <title>您喜欢做一些新的事情还是让现有的事物变得更好？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dk8mma/do_you_prefer_doing_something_new_or_making/</link>
-      <description><![CDATA[我相信在人工智能时代，制造更好的东西会有更多的优势。我很好奇你的想法 查看投票    由   提交  /u/mrbearteacher   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dk8mma/do_you_prefer_doing_something_new_or_making/</guid>
-      <pubDate>Thu, 20 Jun 2024 10:48:12 GMT</pubDate>
+      <title>2024 年，我将以一名开发人员为团队构建 SaaS 的技术栈</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dkc6i7/my_tech_stack_for_building_a_saas_in_2024_as_a/</link>
+      <description><![CDATA[        由    /u/ixartz   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dkc6i7/my_tech_stack_for_building_a_saas_in_2024_as_a/</guid>
+      <pubDate>Thu, 20 Jun 2024 13:52:36 GMT</pubDate>
     </item>
     <item>
-      <title>带有 YouTube 视频和简短说明的教育平台</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dk8bo4/educational_platform_with_youtube_videos_and_a/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dk8bo4/educational_platform_with_youtube_videos_and_a/</guid>
-      <pubDate>Thu, 20 Jun 2024 10:28:23 GMT</pubDate>
+      <title>我使用 ChatGPT 制作了一款（免费）课程制作器应用</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dkbrtf/i_made_a_free_course_maker_app_with_chatgpt/</link>
+      <description><![CDATA[        提交人    /u/kpsimon   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dkbrtf/i_made_a_free_course_maker_app_with_chatgpt/</guid>
+      <pubDate>Thu, 20 Jun 2024 13:34:21 GMT</pubDate>
     </item>
     <item>
-      <title>我们开发了适用于 Windows 和 Mac 的 YouTube 剪辑器</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dk84j5/we_have_develop_a_youtube_cutter_for_windows_and/</link>
-      <description><![CDATA[      我们为 Windows 和 Mac 开发了一款视频剪辑器，可让您从多个网站（包括 YouTube）剪切和下载视频或音频。 SurFast Video Downloader 工具可让您：  下载 YouTube 视频的一部分 将 YouTube 的一部分转换为视频到 MP3 将 YouTube 章节视频下载为单独文件 还支持抓取部分在线音频 除了 YouTube，还支持大多数网站  下载 YouTube 剪辑 您认为这是一个有趣且有用的功能吗？ 链接： https://www.nablamind.com/video-downloader    提交人    /u/Impressive_Bobcat235   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dk84j5/we_have_develop_a_youtube_cutter_for_windows_and/</guid>
-      <pubDate>Thu, 20 Jun 2024 10:14:50 GMT</pubDate>
+      <title>4 个步骤让我的项目销售额从 0 美元增长到 3.5 万美元</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dkbmdf/4_steps_that_took_my_project_from_0_to_35k_in/</link>
+      <description><![CDATA[大家好，我想分享我的故事，希望对大家有用。 12 月，我们（我和一个朋友）终于推出了我们的产品 JustBeepIt 的 alpha 版本，我们既没有营销预算，也没有任何销售。 因此，我们列出了可以用来提高知名度和销售额的所有免费方法：  Product Hunt 发布 Reddit、Medium、Indiehackers 帖子 AppSumo Select 发布 在 LinkedIn/Twitter 上活跃  1. 我们从 Product Hunt 发布开始。我们的目标显然是获得第一个位置。 我们非常认真地对待这件事，并提前 4 周开始准备。我们的策略是将我们的邮件列表扩大到 3-4k 人，我们会在发布当天向他们发送电子邮件/直接消息。那个策略很成功，我们获得了第一名。我在 Reddit 上写了一篇单独的帖子来描述我们的策略。（我会在评论中发布链接。） 2. 在 IndieHackers、Reddit 和 Medium 上发帖。 我开发了一种名为“Infinite Marketing Glitch”的发帖策略。这个想法很简单，每当我们取得成功时，无论大小，我都会写一篇帖子。例如：“我们的前 100 名用户”、“我们的第一笔销售”、“在 ProductHunt 上获得第一名”等。许多帖子都会迅速传播开来。它甚至会让我登上 IndieHackers 的主页。 3. 在 LinkedIn/Twitter 上活跃起来 这是一个许多创始人都忽略的简单策略。只需发布有关您公司的信息。我每周至少发布 5 篇关于我们的产品及其失败和成功的帖子。它目前为我们带来了近 40% 的整体流量。如果您的产品是 B2B，LinkedIn 尤其适用。Twitter 非常适合寻找首次使用者。通过发布有关我们公司的信息，我不仅吸引了数千人访问我们的登录页面，还将我的帐户关注者从 100 人增加到 2000 多人。 4. AppSumo Select 这是我们战略的最后一步。您可能知道 AppSumo，但您知道 AppSumo Select 吗？如果您加入该计划，他们会为您的广告付费，所以这对我们来说是件好事，因为我们没有营销预算。但要加入该计划，您的产品必须有独特之处。他们接受我们的原因很可能是因为我们的 ProductHunt 结果和大量好评。近 70% 的销售额来自这里。有一些产品通过这个项目赚的钱比我们多得多，但成功取决于很多因素。 综上所述，上个月我们的产品 JustBeepIt ( https://www.justbeepit.com/ ) 通过做我在这里描述的事情赚了 12,000 美元，总销售额达到了 35,000 美元。 如果您有任何疑问，请随时发表评论。    提交人    /u/hustle_fred   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dkbmdf/4_steps_that_took_my_project_from_0_to_35k_in/</guid>
+      <pubDate>Thu, 20 Jun 2024 13:27:25 GMT</pubDate>
     </item>
     <item>
-      <title>关于副项目的想法。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dk83ak/ideas_for_side_projects/</link>
-      <description><![CDATA[我是一名拥有 8 年经验的软件工程师。我正在寻找一系列项目来获得被动收入。我的目标是每天赚 150 美元左右。任何想法都会有所帮助。    提交人    /u/DueRevolution8087   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dk83ak/ideas_for_side_projects/</guid>
-      <pubDate>Thu, 20 Jun 2024 10:12:18 GMT</pubDate>
+      <title>我创建了这 5 个网站（赚了 5 万美元）</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dkbiei/i_made_these_5_websites_and_earned_50k/</link>
+      <description><![CDATA[完整视频    由    /u/mirza4real 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dkbiei/i_made_these_5_websites_and_earned_50k/</guid>
+      <pubDate>Thu, 20 Jun 2024 13:22:18 GMT</pubDate>
     </item>
     <item>
-      <title>我制作了一个工具来简化 TradingView 脚本的创建</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dk817n/i_made_a_tool_to_simplify_tradingview_script/</link>
-      <description><![CDATA[大家好！我是 Kris，一名全职 Pine Script 程序员。我在 Fiverr 上完成了 1,200 多个项目，获得了完美的客户满意度评分。您可以查看我的旅程以及一些关于现在成为自由职业者的提示。在过去三年中，我一直在与交易员合作并分析他们的要求，这激发了我创建 GetPineScript 项目的灵感。 GetPineScript 是一个 Pine Script 代码生成器，专为需要 TradingView 平台自定义指标或策略脚本的交易员而设计。该平台自动化了代码生成过程，可以轻松创建具有最需要和最常用功能的脚本，从而节省您的时间和精力。有一个免费计划，其中包含有限的指标和功能。 我很乐意收到您的反馈并回答您可能遇到的任何问题！ 交互式演示    提交人    /u/MrKrisWaters   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dk817n/i_made_a_tool_to_simplify_tradingview_script/</guid>
-      <pubDate>Thu, 20 Jun 2024 10:08:26 GMT</pubDate>
+      <title>谁有与 AI 影响者打交道的经验？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dkbakm/who_has_experience_with_ai_influencers/</link>
+      <description><![CDATA[我最近看到多篇帖子，有人说他们创造了人工智能生成的社交媒体影响者，并从中赚钱。所以我的问题是：谁关注人工智能影响者？你关注哪些影响者，为什么？    提交人    /u/NoSun8329   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dkbakm/who_has_experience_with_ai_influencers/</guid>
+      <pubDate>Thu, 20 Jun 2024 13:12:13 GMT</pubDate>
     </item>
     <item>
-      <title>我刚刚成立了我的产品化代理机构！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dk7pc6/i_just_launched_my_productized_agency/</link>
-      <description><![CDATA[TheLetterPilot.com 提供文案服务，每月收取固定费用，无需签订长期合同。 它为各种类型的副本提供快速周转（24-48 小时），包括销售页面、视频脚本、社交媒体帖子、博客文章等。 只需支付固定的月费，您就再也不必面对不可靠的文案和最后期限了。 让我知道你们的想法！    提交人    /u/nicole-08   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dk7pc6/i_just_launched_my_productized_agency/</guid>
-      <pubDate>Thu, 20 Jun 2024 09:46:21 GMT</pubDate>
+      <title>用户体验设计师的终极研究工具</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dkb4y2/ultimate_research_tool_for_ux_designers/</link>
+      <description><![CDATA[大家好！ 我们开发了一款产品，帮助用户体验设计师从经过验证的真实设计中寻找灵感。Refero 拥有最大的网页设计库和快速增长的 iOS 设计集合。我们拥有来自一流产品的约 66,000 个屏幕，可让您的设计过程更顺畅、更具创意。 我们希望您在 ProductHunt 上得到支持 https://www.producthunt.com/posts/refero-3-0-2/    提交人    /u/dice616   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dkb4y2/ultimate_research_tool_for_ux_designers/</guid>
+      <pubDate>Thu, 20 Jun 2024 13:04:38 GMT</pubDate>
     </item>
     <item>
-      <title>我制作了一个工具，它让你无需任何代码就可以从 Notion 创建应用程序。它包含登录系统、内置聊天、付款、表格、图表和 Notion 中控制的所有数据。寻找早期采用者来合作并提供反馈，并快速构建漂亮的应用程序和产品</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dk6r2o/i_made_a_tool_which_lets_you_create_an_app_from/</link>
-      <description><![CDATA[        提交人    /u/Wierd_Perception   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dk6r2o/i_made_a_tool_which_lets_you_create_an_app_from/</guid>
-      <pubDate>Thu, 20 Jun 2024 08:36:53 GMT</pubDate>
+      <title>更新我正在构建的工具，以帮助创意人员使用超逼真的 AI 人体模型快速生成用于 A/B 测试的产品图像，无需 Photoshop 技能 - 更新了 UI 以帮助区分何时需要生成新照片或编辑现有照片，欢迎任何反馈！caspa.ai</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dkax2h/update_on_the_tool_im_building_to_help_creatives/</link>
+      <description><![CDATA[        提交人    /u/Tim170   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dkax2h/update_on_the_tool_im_building_to_help_creatives/</guid>
+      <pubDate>Thu, 20 Jun 2024 12:54:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
