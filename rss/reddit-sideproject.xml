@@ -4,111 +4,111 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Thu, 20 Jun 2024 09:15:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Jun 2024 12:24:31 GMT</lastBuildDate>
+    <item>
+      <title>作为一名教师，您是否有兴趣投资一项可以自动评分多项选择试卷的服务？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dka9ck/as_a_teacher_would_you_be_interested_in_investing/</link>
+      <description><![CDATA[该服务的工作原理如下： 上传您的文件并设置每个问题的正确答案作为基础。该服务将对学生试卷进行评分 查看投票    提交人    /u/Alternative-Low1217   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dka9ck/as_a_teacher_would_you_be_interested_in_investing/</guid>
+      <pubDate>Thu, 20 Jun 2024 12:20:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>向您的账户出售 2500 美元的 openai 信用额度和 1000 美元的 azure</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dka0h6/selling_2500_openai_credit_to_your_account_and/</link>
+      <description><![CDATA[一旦激活，信用额度可使用 6 个月，如果感兴趣请直接发信息给我     提交人    /u/Round-Volume-8898   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dka0h6/selling_2500_openai_credit_to_your_account_and/</guid>
+      <pubDate>Thu, 20 Jun 2024 12:07:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>mdx - 用于下载漫画的简单 CLI 应用程序</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dk9r0v/mdx_simple_cli_application_for_downloading_manga/</link>
+      <description><![CDATA[      demo.gif 特点：  适用于 Windows、MacOS、Linux。 下载多个章节。 以 CBZ、PDF、EPUB 格式保存漫画。 将多个章节保存在一个文件中。 自动生成下载文件的元数据，适用于电子阅读器。 搜索漫画。 显示有关漫画的信息。  Github 项目：https://github.com/arimatakao/mdx 我为自己创建了这个项目，但决定与大家分享。也许代码写得并不完美，但程序运行良好，并能正确执行其主要功能。我需要你的反馈。    提交人    /u/wolf_bit   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dk9r0v/mdx_simple_cli_application_for_downloading_manga/</guid>
+      <pubDate>Thu, 20 Jun 2024 11:53:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>你如何平衡朝九晚五的工作和你的副业？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dk9olx/how_do_you_balance_a_95_and_your_side_project/</link>
+      <description><![CDATA[我对整个副业项目还很陌生。我是一名软件工程师，每天早上 9 点上班，但我一直致力于开发我的游戏应用程序。最近我找了个人帮我开发游戏应用程序，这笔钱可不少。 与此同时，我是我所在工作的团队负责人，我真的很热爱我的工作，还不想辞职。我相信我可以兼顾两者，但我也不想两头都吃亏。所以，我在这里问大家如何才能有效地兼顾两者。 如果你以前做过这个，成功了吗？    提交人    /u/thomas_locke95   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dk9olx/how_do_you_balance_a_95_and_your_side_project/</guid>
+      <pubDate>Thu, 20 Jun 2024 11:50:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>如果您通过外包人才来经营您的业务，您会怎么做？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dk9dca/if_you_run_your_business_with_outsourced_talent/</link>
+      <description><![CDATA[我正在考虑通过外包人才来经营我的业务，​​并希望听取有这方面经验的人的意见。您如何有效地管理和整合外包团队成员？您使用什么工具和策略来确保顺畅的沟通和高质量的工作？ 任何关于寻找可靠的外包人才和维持一支有凝聚力的团队的建议都很好。    提交人    /u/squad_ace   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dk9dca/if_you_run_your_business_with_outsourced_talent/</guid>
+      <pubDate>Thu, 20 Jun 2024 11:31:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Terrabuild：用于 mono-repo 的构建编排工具🥳</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dk8s3p/terrabuild_a_build_orchestration_tool_for_monorepo/</link>
+      <description><![CDATA[因此，去年我开始着手开发新工具来帮助管理工程团队。我担任 CTO 多年，过去十年主要在小公司工作，现在以自由职业者的身份工作。我一直对缺乏管理构建和发布的流程和结构感到惊讶。尽管在小公司工作（比如说少于 30 名开发人员/产品），但我总是惊讶于人们如何相互交流 - 我的意思是从不好的一面 - 尤其是考虑到他们工作的完成状态和影响时。 当然，我曾在资源匮乏、预算紧张的公司工作过。这并不坏，因为你必须选择你的战斗，但从我所看到和经历的情况来看，构建/测试/发布管理并不是团队的首要任务——我知道在这种情况下，这是我的角色，但如果可以的话，是时候为这些企业提出改进工具了。 今天，我正在交流我做的第一个产品：一个用于 mono-repos 的构建编排工具。它由我的公司 Magnus Opera 推广（我提醒你，我是一名自由职业者）。该工具名为 Terrabuild，可在此处获得：https://terrabuild.io。它稍后将在 GitHub 上提供——目前，不幸的是它是封闭源的。 这是一个非常简单的工具，基于 Merkle 树、类似 HCL 的语法、用于存储/恢​​复工件的后端和各种优化，以加快 CI 的速度。我知道它并不是那么新（我同意您在市场上有几种产品） - 但关键点不一定是工具，而是简单性以及后端在以后的指标和报告方面将提供什么。我明确针对团队规模较小且大多缺乏快速发展方法的公司。 我现在正在寻找 beta 测试人员。我想收集反馈并检查一切是否顺利运行😇不幸的是，我不能批准很多人，所以如果您想加入测试阶段，请联系我或在https://insights.magnusopera.io上申请一个帐户。目前它是免费的，但稍后将切换到订阅以支付账单😃 很高兴讨论 Terrabuild 的功能。此外，我愿意接受有关 Terrabuild、文档或任何有助于改进它的建议和评论。 感谢您的见解，请不要太苛刻，但无论如何要保持真实 - 这是我尝试商业化的第一个产品，我可能做错了一些事情（英语除外，这也是另一个问题）！ 干杯。    提交人    /u/groingroin   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dk8s3p/terrabuild_a_build_orchestration_tool_for_monorepo/</guid>
+      <pubDate>Thu, 20 Jun 2024 10:57:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>为内容创建者构建类似 G2/Trustpilot 的评论平台。如何在发布前增加用户列表</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dk8q92/building_a_review_platform_for_content_creators/</link>
+      <description><![CDATA[  由    /u/deepshaswat  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dk8q92/building_a_review_platform_for_content_creators/</guid>
+      <pubDate>Thu, 20 Jun 2024 10:54:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>我已经为我的网站构建了自定义 Web 目录引擎，但我认为它失败了，因为我的利基市场太广。我应该转型还是继续努力？（长帖）</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dk8nyh/ive_build_custom_web_directory_engine_for_my/</link>
+      <description><![CDATA[  由    /u/joanmiro  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dk8nyh/ive_build_custom_web_directory_engine_for_my/</guid>
+      <pubDate>Thu, 20 Jun 2024 10:50:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>您喜欢做一些新的事情还是让现有的事物变得更好？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dk8mma/do_you_prefer_doing_something_new_or_making/</link>
+      <description><![CDATA[我相信在人工智能时代，制造更好的东西会有更多的优势。我很好奇你的想法 查看投票    由   提交  /u/mrbearteacher   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dk8mma/do_you_prefer_doing_something_new_or_making/</guid>
+      <pubDate>Thu, 20 Jun 2024 10:48:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>带有 YouTube 视频和简短说明的教育平台</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dk8bo4/educational_platform_with_youtube_videos_and_a/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dk8bo4/educational_platform_with_youtube_videos_and_a/</guid>
+      <pubDate>Thu, 20 Jun 2024 10:28:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们开发了适用于 Windows 和 Mac 的 YouTube 剪辑器</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dk84j5/we_have_develop_a_youtube_cutter_for_windows_and/</link>
+      <description><![CDATA[      我们为 Windows 和 Mac 开发了一款视频剪辑器，可让您从多个网站（包括 YouTube）剪切和下载视频或音频。 SurFast Video Downloader 工具可让您：  下载 YouTube 视频的一部分 将 YouTube 的一部分转换为视频到 MP3 将 YouTube 章节视频下载为单独文件 还支持抓取部分在线音频 除了 YouTube，还支持大多数网站  下载 YouTube 剪辑 您认为这是一个有趣且有用的功能吗？ 链接： https://www.nablamind.com/video-downloader    提交人    /u/Impressive_Bobcat235   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dk84j5/we_have_develop_a_youtube_cutter_for_windows_and/</guid>
+      <pubDate>Thu, 20 Jun 2024 10:14:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于副项目的想法。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dk83ak/ideas_for_side_projects/</link>
+      <description><![CDATA[我是一名拥有 8 年经验的软件工程师。我正在寻找一系列项目来获得被动收入。我的目标是每天赚 150 美元左右。任何想法都会有所帮助。    提交人    /u/DueRevolution8087   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dk83ak/ideas_for_side_projects/</guid>
+      <pubDate>Thu, 20 Jun 2024 10:12:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个工具来简化 TradingView 脚本的创建</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dk817n/i_made_a_tool_to_simplify_tradingview_script/</link>
+      <description><![CDATA[大家好！我是 Kris，一名全职 Pine Script 程序员。我在 Fiverr 上完成了 1,200 多个项目，获得了完美的客户满意度评分。您可以查看我的旅程以及一些关于现在成为自由职业者的提示。在过去三年中，我一直在与交易员合作并分析他们的要求，这激发了我创建 GetPineScript 项目的灵感。 GetPineScript 是一个 Pine Script 代码生成器，专为需要 TradingView 平台自定义指标或策略脚本的交易员而设计。该平台自动化了代码生成过程，可以轻松创建具有最需要和最常用功能的脚本，从而节省您的时间和精力。有一个免费计划，其中包含有限的指标和功能。 我很乐意收到您的反馈并回答您可能遇到的任何问题！ 交互式演示    提交人    /u/MrKrisWaters   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dk817n/i_made_a_tool_to_simplify_tradingview_script/</guid>
+      <pubDate>Thu, 20 Jun 2024 10:08:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>我刚刚成立了我的产品化代理机构！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dk7pc6/i_just_launched_my_productized_agency/</link>
+      <description><![CDATA[TheLetterPilot.com 提供文案服务，每月收取固定费用，无需签订长期合同。 它为各种类型的副本提供快速周转（24-48 小时），包括销售页面、视频脚本、社交媒体帖子、博客文章等。 只需支付固定的月费，您就再也不必面对不可靠的文案和最后期限了。 让我知道你们的想法！    提交人    /u/nicole-08   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dk7pc6/i_just_launched_my_productized_agency/</guid>
+      <pubDate>Thu, 20 Jun 2024 09:46:21 GMT</pubDate>
+    </item>
     <item>
       <title>我制作了一个工具，它让你无需任何代码就可以从 Notion 创建应用程序。它包含登录系统、内置聊天、付款、表格、图表和 Notion 中控制的所有数据。寻找早期采用者来合作并提供反馈，并快速构建漂亮的应用程序和产品</title>
       <link>https://www.reddit.com/r/SideProject/comments/1dk6r2o/i_made_a_tool_which_lets_you_create_an_app_from/</link>
       <description><![CDATA[        提交人    /u/Wierd_Perception   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1dk6r2o/i_made_a_tool_which_lets_you_create_an_app_from/</guid>
       <pubDate>Thu, 20 Jun 2024 08:36:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>介绍我们的预诊断工具</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dk6jqx/introducing_our_prediagnostic_tool/</link>
-      <description><![CDATA[大家好，Reddit 社区， 我们很高兴地宣布推出全新的预诊断工具，旨在帮助用户根据自己的症状初步了解潜在的健康问题。我们非常重视您的反馈，并希望您能够尝试一下！ 我们的工具提供了初步分析，您可以与您的医疗保健提供者分享，以进行进一步评估。这是更好地了解您的健康状况的一步，我们需要您的帮助以确保它满足您的需求。 您如何参与： 1. 试用该工具：输入您的症状并进行初步健康分析。HealLabs 2. 分享您的想法：使用该工具后，请告诉我们您的想法。您的反馈对于我们不断改进至关重要。 后续步骤： 访问我们的登录页面：转到我们的登录页面，单击按钮访问该工具。 我希望它能帮助您更好地做出有关健康的决定。    提交人    /u/Former_Hand7292   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dk6jqx/introducing_our_prediagnostic_tool/</guid>
-      <pubDate>Thu, 20 Jun 2024 08:22:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mergeable：GitHub 拉取请求的更好收件箱</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dk5zk3/mergeable_a_better_inbox_for_github_pull_requests/</link>
-      <description><![CDATA[我构建了 Mergeable，一个更好的 GitHub 拉取请求收件箱。我对默认 PR 仪表板 提供的糟糕体验感到沮丧，它既低效又不灵活。  Mergeable 提供了一个可自定义的收件箱，支持多个 GitHub 实例，包括 GitHub Enterprise。用户可以创建自己的部分来跟踪他们感兴趣的 PR，这些部分被定义为 GitHub 搜索查询。它是一个客户端 Web 应用程序，这意味着它非常容易部署，并且不需要复杂的基础架构即可运行。 公共演示实例可在 https://mergeable.pages.dev 获得。    提交人    /u/pvcnt   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dk5zk3/mergeable_a_better_inbox_for_github_pull_requests/</guid>
-      <pubDate>Thu, 20 Jun 2024 07:40:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>视频🎥 - 3 分钟内无需编码即可创建注册表单</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dk541n/video_create_registration_form_without_coding_in/</link>
-      <description><![CDATA[  由    /u/Genuine-Helperr  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dk541n/video_create_registration_form_without_coding_in/</guid>
-      <pubDate>Thu, 20 Jun 2024 06:39:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻求 Web3 项目的合作者</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dk51mb/seeking_collaborators_for_web3_projects/</link>
-      <description><![CDATA[大家好， 希望这篇文章对你有帮助！ 我是一家韩国 Web3 公司的产品经理，热衷于探索和构建创新的 Web3 解决方案。多年来，我在 Web3 生态系统的各个方面都积累了经验，我渴望与志同道合、有着同样热情的人合作。 如果您对开发 Web3 产品感兴趣，并且善于提出创意，我很乐意与您联系！无论您是开发人员、设计师、营销人员，还是对 Web3 有浓厚兴趣的人，让我们一起合作开展一些激动人心的项目。 目标是从简单的想法开始，逐步构建一些有影响力的东西。这是学习、分享知识并可能创造一些可以在 Web3 领域有所作为的东西的绝佳机会。 如果您有兴趣或有任何想法，请发表评论或向我发送 DM。让我们讨论如何将这些想法变成现实！    提交人    /u/MathematicianRich413   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dk51mb/seeking_collaborators_for_web3_projects/</guid>
-      <pubDate>Thu, 20 Jun 2024 06:34:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>（澳大利亚）寻求建议和首席技术官联合创始人</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dk513b/australia_seeking_advice_and_a_cto_cofounder/</link>
-      <description><![CDATA[· 公司名称：MediSquared · 推介：一个在线预订平台，供医疗专业人士按时段（每日）租赁他们的咨询室。 · 首选联系方式：[admin@medisquared.com.au](mailto:admin@medisquared.com.au) 或 DM 这里 · 链接：www.medisquared.com 关于我： 我是一个有上进心的年轻人，在商业地产行业工作了近 8 年。在过去的 6 年里，我一直专注于办公室租赁，帮助从中小企业到大型跨国公司等各种企业制定工作场所战略，并为他们找到所需的办公室。过去 3 年，我取得了一些成就： · 2021 年最佳潜在客户生成器 · 2022 年最佳潜在客户生成器 · 2023 年杰出收入创造机构新星 在办公室租赁期间，我与大量医疗专业人士（即专家/外科医生、辅助医疗保健等）合作，帮助他们为他们的医疗实践寻找办公室。通过这样做，我注意到这些专业人士对定期（每日/半天）咨询室的需求很大，以便会见患者。 关于 MEDISQUARED： ~我们做什么？~ MediSquared 是一个在线预订平台，用于短期租赁和列出医疗咨询室。 ~我们是如何做到的？~ MediSquared 将拥有可用咨询室的医疗从业者与希望按时段租赁房间的其他从业者联系起来。 ~我们为什么这样做？~ 通过提供无缝高效的在线预订平台，为医疗保健提供者和业主提供灵活性和创造机会，彻底改变医疗保健行业 概述和目标： ~简化医疗空间预订~ 提供用户友好的在线平台，简化了查找和预订医疗咨询室的过程，使医疗专业人员更容易根据自己的需求获得合适的空间。 ~支持医疗从业者和空间提供者：~ 建立一个系统，使医疗专业人员可以方便地访问灵活的短期咨询空间，同时为业主和其他专家提供一个平台，以有效利用和获利他们空置的医疗设施，在医疗保健领域内建立一个共生网络。 ~创建创新的医疗行业实践：~ 创新和重塑医疗空间在医疗保健领域的利用方式，旨在提高效率，减少闲置房间时间，并支持从资深医生到新兴专家的不同医疗专业人员的动态工作时间表。 商业模式： ~免费列表；创收预订：~ MediSquared 提供了一种独特的模式，其中列出空间完全免费，为医疗专业人员和业主展示其可用房间消除了障碍。收入通过适度的预订费产生，确保 MediSquared 的成功与其用户的成功交易直接相关。这种方法将我们的利益与用户的利益结合起来，促进了互惠互利的生态系统。 ~透明和公平的费用结构：~ 我们的平台对每次预订收取 10% 的固定费用，确保透明度和公平性。此费用仅在成功预订交易后收取，保证我们的用户仅在赚钱时才被收取费用。这种结构旨在支持我们平台的财务可持续性，同时为我们的用户提供有竞争力的价格。  我目前开发了我的 MVP，它可以运行，但需要一些工作，因此我正在寻求愿意与我合作的 CTO 的帮助。 由于现在还为时过早，我无法提供薪水，但我非常愿意讨论提供业务股权。根据可以增加多少价值，可以接受多少百分比。    提交人    /u/connorb127   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dk513b/australia_seeking_advice_and_a_cto_cofounder/</guid>
-      <pubDate>Thu, 20 Jun 2024 06:33:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>我正在开发一款 iOS 应用程序，以便创作者能够快速轻松地将他们的文本转换为视觉效果！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dk4zos/im_building_an_ios_app_for_creators_to_quickly/</link>
-      <description><![CDATA[        提交人    /u/Difficult-Grass-6859   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dk4zos/im_building_an_ios_app_for_creators_to_quickly/</guid>
-      <pubDate>Thu, 20 Jun 2024 06:31:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>在网站设置上浪费了无数的时间后，我开发了一个由 AI 驱动的静态网站生成器，它支持 Tailwind CSS 并具有完整的代码控制功能。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dk4xx4/after_countless_hours_wasted_on_website_setup_i/</link>
-      <description><![CDATA[https://reddit.com/link/1dk4xx4/video/028kcbtg6o7d1/player    由   提交  /u/gachez98   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dk4xx4/after_countless_hours_wasted_on_website_setup_i/</guid>
-      <pubDate>Thu, 20 Jun 2024 06:27:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>我做了一个免费资源矢量插图网站</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dk3ajl/i_made_a_free_resource_vector_illustrations/</link>
-      <description><![CDATA[      大家好！作为一名设计师，我知道找到免费且可以商业使用的高质量矢量插图有多难。这就是为什么我建立了一个网站，您可以在其中访问不断增长的矢量插图库，完全免费，无需注册！ 这就是为什么此资源适合您的项目的原因：  完全免费用于商业用途：为您的商业项目，个人设计或其他任何内容获取矢量图，无需担心许可费用。 无需注册：省去注册的麻烦，直接下载所需内容。 每周更新：每周添加新内容，让您的设计保持新鲜。 请求自定义插图：有特定需求？留下您的请求评论，它可能会包含在未来的更新中！  我们的目标是让每个人都能获得高质量的设计资源。这些插图经过精心制作，可以增强您的项目，既专业又时尚。 查看并进入令人惊叹的免费矢量世界，可以提升您的创意项目！ https://preview.redd.it/csunjy7von7d1.png?width=1895&amp;format=png&amp;auto=webp&amp;s=9572439ae3143e092e34ba7cab4b87a19fd5ab21    提交人    /u/Affectionate-Ask-154   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dk3ajl/i_made_a_free_resource_vector_illustrations/</guid>
-      <pubDate>Thu, 20 Jun 2024 04:42:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>Web3 附带项目</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dk2vf1/web3_side_project/</link>
-      <description><![CDATA[大家好， 我正在寻找具有智能合约和后端开发经验并有兴趣合作开展业余项目的 Web3 开发人员。我是韩国一家 Web3 公司的产品经理，我对构建创新的 Web3 解决方案充满热情。如果您有兴趣联手创造一些令人兴奋的东西，请联系我们！    提交人    /u/MathematicianRich413   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dk2vf1/web3_side_project/</guid>
-      <pubDate>Thu, 20 Jun 2024 04:16:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>“准备好，开始，购物！在 SportyD.store 探索我们的产品系列！从时尚服装到最新小玩意 @ sportyd.store</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dk1fiv/ready_set_shop_explore_our_collection_of_products/</link>
-      <description><![CDATA[        提交人    /u/CertainBlood9091   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dk1fiv/ready_set_shop_explore_our_collection_of_products/</guid>
-      <pubDate>Thu, 20 Jun 2024 02:56:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>我如何在 2.5 周内从 0 到发货</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dk0bj0/how_i_went_from_0_shipped_product_in_under_25/</link>
-      <description><![CDATA[你好，企业家社区！ 我一直喜欢开发软件和制作表情包。在浏览 Instagram Reels 和 YouTube Shorts 时，我意识到可以通过以下方式制作短视频来制作表情包： a) 让您最喜欢的名人说任何话 b) 使用音频剪辑克隆任何声音并让它说任何话 **营销（2 天）：** 我对自己想要构建的内容有一个大致的想法，因此在开发之前我专注于营销。我认为 TikTok、Instagram Reels 和 YouTube Shorts 是最好的平台。我在每个平台上创建了帐户并发布了示例视频以使帐户合法化并防止它们被标记为机器人。发布后，我将社交媒体管理外包给了更有经验的人，这样我就可以专注于开发。 **开发（2 周）：** 凭借超过五年的创建多个网站的经验，我将样板代码与 Next.js、Node.js/Express 后端和 MongoDB 一起使用。我从后端开始以提高速度，然后转到前端。 **发货（1 天）：** 我从 GoDaddy 购买了域名，并使用 Vercel 进行前端部署，使用 DigitalOcean 进行后端部署。这些平台非常容易使用，不到一天就可以设置好。我发布了基本功能以快速推出产品，并在接下来的几天添加了更多功能和修饰。此策略有助于尽快为网站带来流量并改善 SEO。新用户最初不需要完美的体验；后续功能可以在首次发布和产品验证之后推出。 **后续行动** 继续扩大营销规模以推动网站访问量是我的首要任务，添加新功能紧随其后。这是我快速发货产品的秘诀。我已经这样做过很多次了，并且通过快速的市场验证迅速关闭了项目。 如果您对我所构建的内容感兴趣，请随时查看该网站（https://starvoiceai.com/）并提出您的任何问题！    提交人    /u/Valorantify   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dk0bj0/how_i_went_from_0_shipped_product_in_under_25/</guid>
-      <pubDate>Thu, 20 Jun 2024 01:58:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个免费的应用程序，用于创建单词猜猜和以产品为特色的激励帖子</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dk04ag/i_created_a_free_app_for_creating_word_guess_and/</link>
-      <description><![CDATA[      我发现人们喜欢猜单词并喜欢励志帖子，所以我创建了一个工具，可让您在展示产品的同时创建此类自动帖子。 尝试一下 https://tranxact.app/lp/engaging-posts/ 以产品为特色的励志帖子 以产品为特色的猜词帖子    由   提交  /u/object-reference   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dk04ag/i_created_a_free_app_for_creating_word_guess_and/</guid>
-      <pubDate>Thu, 20 Jun 2024 01:48:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>对 AI 表单自动填充器有什么建议吗？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dk0018/suggestions_for_ai_form_autofiller/</link>
-      <description><![CDATA[目前，我填写了很多表格（例如，当我购买东西、填写工作面试表等时）。 我想知道是否有人推荐 AI 表单填充 Chrome 扩展程序 - 这些扩展程序非常适合与 Arc 浏览器一起使用。 祝好， 丹尼尔。    提交人    /u/danielsultanca   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dk0018/suggestions_for_ai_form_autofiller/</guid>
-      <pubDate>Thu, 20 Jun 2024 01:42:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个网络应用程序，可让您在几秒钟内恢复您的照片。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1djzxi5/i_made_a_web_app_that_lets_you_restore_your/</link>
-      <description><![CDATA[        提交人    /u/Low-Temperature-4918   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1djzxi5/i_made_a_web_app_that_lets_you_restore_your/</guid>
-      <pubDate>Thu, 20 Jun 2024 01:39:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
