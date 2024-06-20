@@ -4,7 +4,63 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Thu, 20 Jun 2024 15:15:15 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Jun 2024 18:18:11 GMT</lastBuildDate>
+    <item>
+      <title>我做了一个军用飞机追踪网站</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dkihuw/i_made_a_military_aircraft_tracker_website/</link>
+      <description><![CDATA[        提交人    /u/the_pack_man   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dkihuw/i_made_a_military_aircraft_tracker_website/</guid>
+      <pubDate>Thu, 20 Jun 2024 18:16:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>让故事板变得简单</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dkhynp/make_storyboarding_easy/</link>
+      <description><![CDATA[大家好， 我们推出了一款出色的新产品，名为 Immersfy，它是您的 AI 故事板大师！🚀  它的设计旨在让故事板制作变得简单。  TLDR；它可以分析、分解场景并创建视觉杰作，节省 80% 的时间和 50% 的成本。  他们今天在 Product Hunt 上推出了！如果您能通过点赞来支持他们，那将非常有帮助，我保证只需不到一分钟 :)  https://www.producthunt.com/posts/immersfy 干杯，    提交人    /u/msbrothers   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dkhynp/make_storyboarding_easy/</guid>
+      <pubDate>Thu, 20 Jun 2024 17:54:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>43k/m 销售业务跟踪器模板</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dkhc12/43km_selling_business_tracker_templates/</link>
+      <description><![CDATA[大家好 - 我是来自Digital Dropshipping的 Salem - 我在这里研究成功的数字产品的案例研究以及它们是如何开始的。 今天，我介绍了一家绝对出色的 etsy 商店。这家商店的创建者是 Excel 和 Google 表格方面的专家，并创建了各种解决方案模板来帮助小企业主跟踪其业务绩效。 以下是一些统计数据： 商店名称：PrioriDigitalStudio 利基：商业追踪器模板 设置日期：2023 年 10 月 10 日 销售额：25,902 AOV：13.00 美元 收入：388,530 美元 月收入：43,170 美元 目标客户分析： 这家商店专门提供模板，以满足希望改善生活、组织起来和发展业务的个人和小企业主的需求。 如果您想要更多这些案例研究，请查看我的新闻通讯。我每周一和周四都会发布一个案例研究，其中包含各自的指标：盈利能力、收入、每月流量、发布时间等。    提交人    /u/Ok_Cap9063   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dkhc12/43km_selling_business_tracker_templates/</guid>
+      <pubDate>Thu, 20 Jun 2024 17:28:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>客户的工作进展缓慢，所以我制作了一个您可以拥有的电子邮件平台。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dkgwg8/client_work_has_been_slow_so_i_made_am_email/</link>
+      <description><![CDATA[我想开始制作自己的产品，以减少对客户工作的依赖。我的大多数想法至少需要交易电子邮件，而最便宜的方法是使用 AWS SES。 问题是他们的监控工具要么很糟糕，要么根本不能满足我的需要。这意味着构建自定义基础设施来跟踪电子邮件，或者使用其他东西。 许多现有的选择只是 AWS 包装器，您可以免费获得漂亮的 UI，但失去拥有 SES 帐户的好处。 所以像任何优秀的 UI 开发人员一样，我说“嘿，我可以自己构建一个电子邮件仪表板。” 所以我做到了。 为了让其他人不必再选择租用 SES 包装器，我将其开源，并提供专业的一次性购买升级选项。两者都是自己托管的，SST 负责 AWS 配置。  如果您想支持拥有自己的软件的想法，请在 https://www.double-zero.cloud/ 上向我表达您的爱意    提交人    /u/liltechnomancer   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dkgwg8/client_work_has_been_slow_so_i_made_am_email/</guid>
+      <pubDate>Thu, 20 Jun 2024 17:10:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个工具，可以以更低的价格找到二手高端/设计师物品♻️[课堂项目]</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dkfmc0/i_made_a_tool_for_finding_secondhand/</link>
+      <description><![CDATA[      https://preview.redd.it/jk7f443r4r7d1.png?width=848&amp;format=png&amp;auto=webp&amp;s=87fc39ad686bcd7c1bfbc01ee534cb586de5fefd 我会用它的 Kris 😩😩  大家好！我和我的朋友对网上中高端时尚品牌的高价格感到沮丧，并获得了服装灵感 所以在我们的计算机课上，我们为我们的课程创建了一个名为 Encore 的人工智能时尚助手，它可以链接任何物品的最佳二手/更便宜的替代品，并提供风格/灵感/服装建议 试试看：https://www.chat.shopencore.ai 输入您要查找的内容，与其聊天，它只需一次搜索就可以搜索数百个二手/转售/拍卖网站（例如，Grailed、Thredup、Poshmark、Ebay、Depop 和谷歌没有优先考虑的更多鲜为人知的网站） 我们的使用量很大，希望得到您的反馈。谢谢！ https://preview.redd.it/9wklm0fv4r7d1.png?width=1698&amp;format=png&amp;auto=webp&amp;s=71232dea5add2832456984f212c95f295cafb63c    提交人    /u/NoIndication7284   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dkfmc0/i_made_a_tool_for_finding_secondhand/</guid>
+      <pubDate>Thu, 20 Jun 2024 16:17:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了一个包装器：从单个提示生成声音效果</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dkfbbs/i_created_a_wrapper_generate_sound_effects_from_a/</link>
+      <description><![CDATA[  由    /u/leonagano  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dkfbbs/i_created_a_wrapper_generate_sound_effects_from_a/</guid>
+      <pubDate>Thu, 20 Jun 2024 16:04:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了 thisorthis.ai，这是一个功能强大的平台，可让您并排比较多个 AI 模型的响应。您可以与社区分享这些比较结果并收集投票以确定最佳响应。发现不同 AI 模型的优势并参与富有洞察力的讨论！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dkepck/i_created_thisorthisai_a_powerful_platform_that/</link>
+      <description><![CDATA[        提交人    /u/parth_amin   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dkepck/i_created_thisorthisai_a_powerful_platform_that/</guid>
+      <pubDate>Thu, 20 Jun 2024 15:38:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>着陆页演示（Notion Habit Tracker）</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dke62u/demo_on_landing_page_notion_habit_tracker/</link>
+      <description><![CDATA[       由    /u/laurieherault  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dke62u/demo_on_landing_page_notion_habit_tracker/</guid>
+      <pubDate>Thu, 20 Jun 2024 15:17:00 GMT</pubDate>
+    </item>
     <item>
       <title>有人曾因为遇到挑战而想放弃副业吗？</title>
       <link>https://www.reddit.com/r/SideProject/comments/1dke1pc/anyone_ever_felt_like_quitting_a_side_project_due/</link>
@@ -53,62 +109,6 @@
       <description><![CDATA[因此，我和我的商业伙伴一直在努力提高工作效率；我们是那种喜欢关注很多不同事物的人，因此我们很容易分心，我们发现在我们一起完成上一个项目时确实如此。我们需要跟踪很多不同的事情，因此在它们之间切换时我们很容易分心。  因此，我们建立了一个小平台来划分我们的工作 - 将所有工作放在一个地方，最大限度地减少切换，最大限度地减少干扰，最大限度地提高我们的工作效率。但我们意识到它还需要更多 - 例如，我们仍在为电子邮件设置标签，因此我们建立了链接。然后我们需要日历同步，然后我们希望能够看到任务板，然后我们想要安全地存储我们需要的所有密码，等等，直到突然间我们意识到我们实际上拥有一个完整的生活管理套件，这比我们最初正在做的事情有趣得多！  在过去的几个月里，我们一直在完善这个平台，现在我非常高兴与你们分享这个项目！ 在令人惊叹的创造力展示中，我们称之为 LIFE。如果您有任何反馈，请告诉我们！    提交人    /u/lifecorpglobal   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1dkd3ji/after_a_lot_of_time_and_effort_we_finally/</guid>
       <pubDate>Thu, 20 Jun 2024 14:32:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用词汇表 iOS 应用的无代码附带项目，潜力高达 3,490 美元</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dkcs83/no_code_side_project_with_3490_potential_using_a/</link>
-      <description><![CDATA[      https://preview.redd.it/30kce7gijq7d1.png?width=1280&amp;format=png&amp;auto=webp&amp;s=8552add0f10cae76e255f5674004de7dd45c2afa 大家好， 我注意到这个社区里有很多雄心勃勃的人，他们尝试了各种各样的项目。你们中的一些人具有营销技能，其他人拥有广泛的朋友网络，而一些人拥有适度的社交媒体关注者。 有无数的人通过移动应用赚钱的故事，你们中的许多人可以利用自己现有的技能和受众成为下一个成功案例，或者至少赚取一些被动收入。 以下是一些常见问题：  我不知道如何编码，我该从哪里开始？ 如果我花了 4 个月的时间开发一个应用程序，但它没有赚到钱怎么办？ 我不擅长设计，如何创建一个好看的应用程序？ 我没有 Mac，我可以使用 Windows PC 制作 iPhone 应用程序吗？  这些都是有效的问题，虽然我们可以更深入地研究每一个问题，但简单的答案是：不需要编码技能。使用应用模板快速验证您的想法。 您不必担心学习编码、花费数月开发应用或聘请设计师。您可以使用 Daily Word 应用等应用模板，该应用提供令人惊叹的设计，只需更改代码中的颜色或图像即可进行自定义。无需编码技能。 例如，词汇生成器应用最近在 Flippa 上以 3,490 美元的价格售出：Vocab Builder Sale。 Monkey Taps 的“Vocabulary - Learn Words Daily”等知名应用每月可产生 80,000 美元的收入：Monkey Taps Revenue。虽然您可能无法通过第一个应用赚到 80,000 美元，但这表明此类应用有市场。 即使您是开发人员，也可以花 2-4 个小时自定义和上传此应用，或者花 1-4 个月从头开始开发应用。 请分享您的想法、问题和反馈。我很乐意帮助您启动下一个 iOS 应用。    提交人    /u/_Apps4World_   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dkcs83/no_code_side_project_with_3490_potential_using_a/</guid>
-      <pubDate>Thu, 20 Jun 2024 14:18:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年，我将以一名开发人员为团队构建 SaaS 的技术栈</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dkc6i7/my_tech_stack_for_building_a_saas_in_2024_as_a/</link>
-      <description><![CDATA[        由    /u/ixartz   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dkc6i7/my_tech_stack_for_building_a_saas_in_2024_as_a/</guid>
-      <pubDate>Thu, 20 Jun 2024 13:52:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>我使用 ChatGPT 制作了一款（免费）课程制作器应用</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dkbrtf/i_made_a_free_course_maker_app_with_chatgpt/</link>
-      <description><![CDATA[        提交人    /u/kpsimon   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dkbrtf/i_made_a_free_course_maker_app_with_chatgpt/</guid>
-      <pubDate>Thu, 20 Jun 2024 13:34:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>4 个步骤让我的项目销售额从 0 美元增长到 3.5 万美元</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dkbmdf/4_steps_that_took_my_project_from_0_to_35k_in/</link>
-      <description><![CDATA[大家好，我想分享我的故事，希望对大家有用。 12 月，我们（我和一个朋友）终于推出了我们的产品 JustBeepIt 的 alpha 版本，我们既没有营销预算，也没有任何销售。 因此，我们列出了可以用来提高知名度和销售额的所有免费方法：  Product Hunt 发布 Reddit、Medium、Indiehackers 帖子 AppSumo Select 发布 在 LinkedIn/Twitter 上活跃  1. 我们从 Product Hunt 发布开始。我们的目标显然是获得第一个位置。 我们非常认真地对待这件事，并提前 4 周开始准备。我们的策略是将我们的邮件列表扩大到 3-4k 人，我们会在发布当天向他们发送电子邮件/直接消息。那个策略很成功，我们获得了第一名。我在 Reddit 上写了一篇单独的帖子来描述我们的策略。（我会在评论中发布链接。） 2. 在 IndieHackers、Reddit 和 Medium 上发帖。 我开发了一种名为“Infinite Marketing Glitch”的发帖策略。这个想法很简单，每当我们取得成功时，无论大小，我都会写一篇帖子。例如：“我们的前 100 名用户”、“我们的第一笔销售”、“在 ProductHunt 上获得第一名”等。许多帖子都会迅速传播开来。它甚至会让我登上 IndieHackers 的主页。 3. 在 LinkedIn/Twitter 上活跃起来 这是一个许多创始人都忽略的简单策略。只需发布有关您公司的信息。我每周至少发布 5 篇关于我们的产品及其失败和成功的帖子。它目前为我们带来了近 40% 的整体流量。如果您的产品是 B2B，LinkedIn 尤其适用。Twitter 非常适合寻找首次使用者。通过发布有关我们公司的信息，我不仅吸引了数千人访问我们的登录页面，还将我的帐户关注者从 100 人增加到 2000 多人。 4. AppSumo Select 这是我们战略的最后一步。您可能知道 AppSumo，但您知道 AppSumo Select 吗？如果您加入该计划，他们会为您的广告付费，所以这对我们来说是件好事，因为我们没有营销预算。但要加入该计划，您的产品必须有独特之处。他们接受我们的原因很可能是因为我们的 ProductHunt 结果和大量好评。近 70% 的销售额来自这里。有一些产品通过这个项目赚的钱比我们多得多，但成功取决于很多因素。 综上所述，上个月我们的产品 JustBeepIt ( https://www.justbeepit.com/ ) 通过做我在这里描述的事情赚了 12,000 美元，总销售额达到了 35,000 美元。 如果您有任何疑问，请随时发表评论。    提交人    /u/hustle_fred   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dkbmdf/4_steps_that_took_my_project_from_0_to_35k_in/</guid>
-      <pubDate>Thu, 20 Jun 2024 13:27:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了这 5 个网站（赚了 5 万美元）</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dkbiei/i_made_these_5_websites_and_earned_50k/</link>
-      <description><![CDATA[完整视频    由    /u/mirza4real 提交   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dkbiei/i_made_these_5_websites_and_earned_50k/</guid>
-      <pubDate>Thu, 20 Jun 2024 13:22:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>谁有与 AI 影响者打交道的经验？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dkbakm/who_has_experience_with_ai_influencers/</link>
-      <description><![CDATA[我最近看到多篇帖子，有人说他们创造了人工智能生成的社交媒体影响者，并从中赚钱。所以我的问题是：谁关注人工智能影响者？你关注哪些影响者，为什么？    提交人    /u/NoSun8329   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dkbakm/who_has_experience_with_ai_influencers/</guid>
-      <pubDate>Thu, 20 Jun 2024 13:12:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>用户体验设计师的终极研究工具</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dkb4y2/ultimate_research_tool_for_ux_designers/</link>
-      <description><![CDATA[大家好！ 我们开发了一款产品，帮助用户体验设计师从经过验证的真实设计中寻找灵感。Refero 拥有最大的网页设计库和快速增长的 iOS 设计集合。我们拥有来自一流产品的约 66,000 个屏幕，可让您的设计过程更顺畅、更具创意。 我们希望您在 ProductHunt 上得到支持 https://www.producthunt.com/posts/refero-3-0-2/    提交人    /u/dice616   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dkb4y2/ultimate_research_tool_for_ux_designers/</guid>
-      <pubDate>Thu, 20 Jun 2024 13:04:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>更新我正在构建的工具，以帮助创意人员使用超逼真的 AI 人体模型快速生成用于 A/B 测试的产品图像，无需 Photoshop 技能 - 更新了 UI 以帮助区分何时需要生成新照片或编辑现有照片，欢迎任何反馈！caspa.ai</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dkax2h/update_on_the_tool_im_building_to_help_creatives/</link>
-      <description><![CDATA[        提交人    /u/Tim170   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dkax2h/update_on_the_tool_im_building_to_help_creatives/</guid>
-      <pubDate>Thu, 20 Jun 2024 12:54:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
