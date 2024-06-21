@@ -4,7 +4,91 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Fri, 21 Jun 2024 12:23:55 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Jun 2024 15:18:27 GMT</lastBuildDate>
+    <item>
+      <title>吐槽我的电子邮件虚拟助理想法</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dl69oc/roast_my_email_virtual_assistant_idea/</link>
+      <description><![CDATA[嗨，Reddit！我想出了一个制作简单的 AI 电子邮件助手的想法。我知道有很多这样的产品，但它需要一点小改动。您只需注册，获得一个个性化的虚拟助手电子邮件地址，然后向其发送任何内容以获得 AI 生成的响应，无需使用 UI 或自定义应用程序。您还可以转发电子邮件以获取摘要或创建日历条目。您认为这有用吗？有什么建议或功能您希望看到吗？非常感谢！    提交人    /u/KLaci   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dl69oc/roast_my_email_virtual_assistant_idea/</guid>
+      <pubDate>Fri, 21 Jun 2024 15:08:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>摆脱 Stripe Tax 的最好方法是什么？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dl697g/what_is_the_best_way_to_get_rid_of_stripe_tax/</link>
+      <description><![CDATA[我正在构建一个通过 Stripe 收款的 SAAS。我无法创建 Stripe 账户，因为我的国家不在受支持的国家列表中。因此，我问了目前居住在欧洲的朋友。但在欧洲，税率很高，因此，我问了另一位目前居住在迪拜的朋友，他说税率是 5%，Stripe 也是这样吗？ 有什么办法可以解决这个问题吗，提前谢谢了    提交人    /u/Flashy-Foundation613   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dl697g/what_is_the_best_way_to_get_rid_of_stripe_tax/</guid>
+      <pubDate>Fri, 21 Jun 2024 15:07:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>我开发了一款应用，利用设备上的计算来编写和阅读儿童故事</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dl5vp3/i_built_an_app_that_uses_ondevice_computing_to/</link>
+      <description><![CDATA[      https://i.redd.it/48hlueqpux7d1.gif 在我休陪产假期间，我开始建立 Pico Library，让讲故事的时间对我和我的孩子都更有趣。作为一个新爸爸，我认为给我的孩子读书很重要。Pico Library 使用语言模型来编写故事，它可以利用 Apple 的设备个人语音功能大声朗读故事。一切都由设备计算提供支持，这意味着不需要互联网连接。 我对小型语言模型的潜力感到非常兴奋。语言模型的进步，再加上越来越强大的移动设备，使得我们可以把带有数十亿个参数的语言模型放在口袋里。我很高兴聊聊 Pico Library 中的技术，以及我开发第一个 iOS 应用程序的感受。我也很好奇其他人会用类似的技术构建什么。 该应用程序可以在 iOS 应用商店免费试用，并且可以与配备 Apple Silicon 的 iOS 设备和 MacBook 配合使用 https://apps.apple.com/us/app/pico-library/id6503027586 我也在 producthunt 上推出了：https://www.producthunt.com/posts/pico-library    提交人    /u/Gogoldenbears   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dl5vp3/i_built_an_app_that_uses_ondevice_computing_to/</guid>
+      <pubDate>Fri, 21 Jun 2024 14:51:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>我做了一个网站，可以随机播放 YouTube 音乐</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dl5esa/i_made_a_website_that_actually_randomizes_youtube/</link>
+      <description><![CDATA[        由    /u/Life_Ad_2142  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dl5esa/i_made_a_website_that_actually_randomizes_youtube/</guid>
+      <pubDate>Fri, 21 Jun 2024 14:31:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们创建了一个以人工智能为基础、以生产力为重点的邮件客户端 - Blinkfeed。您会尝试一下吗？您希望看到哪些功能？我们如何改进它？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dl5cel/we_created_a_mail_client_built_around_ai_with/</link>
+      <description><![CDATA[        提交人    /u/DukeOfApertureLabs   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dl5cel/we_created_a_mail_client_built_around_ai_with/</guid>
+      <pubDate>Fri, 21 Jun 2024 14:28:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>您为什么不使用这个？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dl50wx/why_are_you_not_using_this/</link>
+      <description><![CDATA[大家好， 我创建了 YourNextApp.Online，以帮助创始人无需编码即可使用带有自动 A/B 测试的登录页面来验证他们的商业想法。 您能否分享一下您个人不使用此工具的原因？您的具体反馈将非常宝贵。 感谢您的时间！    提交人    /u/fuzzylog1c-stuffs   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dl50wx/why_are_you_not_using_this/</guid>
+      <pubDate>Fri, 21 Jun 2024 14:14:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>简历优化工具帮助我的朋友获得了 Twitter 面试机会——需要反馈</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dl44ip/a_resume_optimizer_tool_that_got_my_friend_an/</link>
+      <description><![CDATA[大家好， 我们构建了一个简历优化工具，该工具使用人工智能来定制您的简历并为每份工作申请制作求职信。 它是由我的联合创始人开发的，他自己使用了它并进行了几次面试，包括一次 Twitter 面试。 我们对这个项目感到很兴奋，但我们想知道人们是否愿意付费使用它。 请在此处查看并给我您的反馈Resumeguru.pro    提交人    /u/speak2klein   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dl44ip/a_resume_optimizer_tool_that_got_my_friend_an/</guid>
+      <pubDate>Fri, 21 Jun 2024 13:33:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>S3xy 截图编辑器</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dl3km4/s3xy_screenshot_editor/</link>
+      <description><![CDATA[您是否还想创建大多数有影响力的人用来在 Twitter 和 LinkedIn 上分享截图的引人注目的截图图像。  我专门为这个用例制作了一个工具。它是 Picyard - https://www.picyard.in  我已经研究它一年多了。在此过程中添加了很多功能，如果您喜欢它，请考虑订阅，因为它每年只需 10 美元。  也与可能需要它的人分享。     提交人    /u/mediocre_man_online   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dl3km4/s3xy_screenshot_editor/</guid>
+      <pubDate>Fri, 21 Jun 2024 13:06:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>PushBeacon</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dl395q/pushbeacon/</link>
+      <description><![CDATA[例如，我在 LemonSqueezy 上使用 PushBeacon 进行付款，没有移动应用程序，因此当我收到付款时，我会在手机上收到通知。同样，当我的代码出现错误时，我会收到警报，让我知道发生了什么。没有历史记录，通知不会存储在任何地方以确保隐私。当您需要在没有移动通知的重要事件上收到警报时，这很有用。     提交人    /u/AbbreviationsFun5588   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dl395q/pushbeacon/</guid>
+      <pubDate>Fri, 21 Jun 2024 12:50:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>为你的业余项目提供免费的 SVG 插图</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dl2v9m/free_svg_illustrations_for_your_side_projects/</link>
+      <description><![CDATA[大家好，我使用 MIT 许可证创建了这些免费的 SVG 插图。  https://lukaszadam.com/illustrations 因此，您可以将它们用于您的商业项目，甚至无需链接回我。希望你喜欢它们！    提交人    /u/mikayosugano   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dl2v9m/free_svg_illustrations_for_your_side_projects/</guid>
+      <pubDate>Fri, 21 Jun 2024 12:31:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>创建了一个生物年龄计算器，根据生物标志物检查你的真实年龄</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dl2to4/created_a_biological_age_calculator_to_check_your/</link>
+      <description><![CDATA[       由    /u/smstal  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dl2to4/created_a_biological_age_calculator_to_check_your/</guid>
+      <pubDate>Fri, 21 Jun 2024 12:28:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Papcro - 从图像中提取手写文本</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dl2sdr/papcro_extract_handwritten_text_from_images/</link>
+      <description><![CDATA[大家好，我正在为 SaaS 启动候补名单，并且正在进行调查以帮助验证这个想法。  你们对这种产品感兴趣吗？请回答这张小表格以帮助制定项目。 1m 谢谢！ https://tally.so/r/mB1YbQ    提交人    /u/millionaire-000   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dl2sdr/papcro_extract_handwritten_text_from_images/</guid>
+      <pubDate>Fri, 21 Jun 2024 12:26:52 GMT</pubDate>
+    </item>
     <item>
       <title>免费访问平台来销售你的课程/会员资格或辅导</title>
       <link>https://www.reddit.com/r/SideProject/comments/1dl211q/access_for_free_to_a_platform_to_sell_your/</link>
@@ -25,90 +109,6 @@
       <description><![CDATA[我想开发一个可以快速将文字+图片生成短视频的工具，大家有什么建议吗？你觉得有潜力吗？    submitted by    /u/ljinkai   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1dl1nb1/text_generated_video_10x_faster/</guid>
       <pubDate>Fri, 21 Jun 2024 11:23:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>100 多个微型 SaaS 创意，你可以将其作为你的副项目开始</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dl16vx/100_micro_saas_ideas_that_you_can_start_as_your/</link>
-      <description><![CDATA[        由    /u/pubgupdates  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dl16vx/100_micro_saas_ideas_that_you_can_start_as_your/</guid>
-      <pubDate>Fri, 21 Jun 2024 10:56:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>例子：不要爱上解决方案，而要解决问题</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dl11s0/example_dont_fall_in_love_with_a_solution_solve_a/</link>
-      <description><![CDATA[我猜你听过这个建议。我听过，但我没有听。 我爱上了一个解决方案，或者说是一个功能——通过连接到 Strava 创建个性化的 AI 生成训练计划。我花了几个星期的时间，甚至花钱请人设计了一个更好的标志。这是一项投资，因为我相信这个想法会赚钱。 我到了最后，感觉有些不对劲。我不愿意暴露自己的弱点，也不愿意推销我所打造的东西。内心深处，我并不自豪。不出所料，我还没有赚到一分钱。 在反思了这个建议后，我意识到我错在哪里。我有一个问题——保持对比赛的积极性训练。我的解决方案并没有真正解决我的问题。我所做的只是顺应当前的潮流。  我专注于我能做些什么来解决我的问题，并建立了以下方法：  通过比较之前比赛的训练来与自己竞争 通过展示为比赛做准备所跑的总英里数来记住所付出的努力 通过倒计时和配速计算器专注于比赛当天 通过使训练计划可随时编辑来保持相关性  虽然我可以继续构建，但这是我第一次兴奋地推销我构建的东西。我甚至第一次在 ProductHunt 上发布 🎉 https://www.producthunt.com/posts/mytrainingplan 人们告诉你在生活中找到问题并解决它是有原因的。如果您和我处于同样的境地，请退一步，停止思考您的解决方案并定义问题。    提交人    /u/SingleExcitement   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dl11s0/example_dont_fall_in_love_with_a_solution_solve_a/</guid>
-      <pubDate>Fri, 21 Jun 2024 10:46:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>为独立制造商制造产品有其好处。好处多多 🙂</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dl11ao/making_products_for_indie_makers_has_its_benefits/</link>
-      <description><![CDATA[  由    /u/alexanderisora  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dl11ao/making_products_for_indie_makers_has_its_benefits/</guid>
-      <pubDate>Fri, 21 Jun 2024 10:46:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>响应 AI - 1 个推介 + 1 个主要列表 = 无限的 AI 视频和第一行。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dl06qd/response_ai_1_pitch_1_lead_list_unlimited_ai/</link>
-      <description><![CDATA[        提交人    /u/responseai   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dl06qd/response_ai_1_pitch_1_lead_list_unlimited_ai/</guid>
-      <pubDate>Fri, 21 Jun 2024 09:50:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>API 航班数据</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dl016r/api_flights_data/</link>
-      <description><![CDATA[我很高兴地宣布，我已经开发了一个新的航班数据 API。此 API 提供有关各种航班的全面和最新信息，包括出发和到达时间、航班状态、航空公司和航线。它旨在用户友好且高效，是需要访问可靠航班数据以开发应用程序的开发人员的理想工具。 https://rapidapi.com/lanchotech-lanchotech-default/api/flights89 使用此 API，用户可以：  检索实时航班状态更新 访问详细的航班时刻表 获取有关不同航空公司及其航线的信息 根据特定条件执行高级搜索  我一直致力于确保 API 强大、安全且易于集成到现有系统中。我们提供详细的文档和支持，帮助您快速入门并充分利用这个强大的工具。 如果您有任何疑问或需要更多信息，请随时联系我们。 希望这能满足您的需求！    提交人    /u/rujilan   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dl016r/api_flights_data/</guid>
-      <pubDate>Fri, 21 Jun 2024 09:39:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>我开发了一个免费的音频转换工具</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dkzu6x/i_developed_a_free_audio_conversion_tool/</link>
-      <description><![CDATA[        提交人    /u/Worldly_Cause6103   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dkzu6x/i_developed_a_free_audio_conversion_tool/</guid>
-      <pubDate>Fri, 21 Jun 2024 09:24:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>在为客户工作期间，我开发了 Waywise：一款适用于 iOS 的城市旅游指南应用</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dkzpq5/in_between_client_work_i_built_waywise_a_city/</link>
-      <description><![CDATA[        提交人    /u/____max   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dkzpq5/in_between_client_work_i_built_waywise_a_city/</guid>
-      <pubDate>Fri, 21 Jun 2024 09:15:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>“我创建了一个免费的音频格式转换工具，我正在寻找早期用户来试用它。”</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dkzn3t/ive_created_a_free_audio_format_conversion_tool/</link>
-      <description><![CDATA[      很高兴我刚刚在6月12日发布了我的新产品AudioZap-MP3 Conversion，目前支持三个平台：iPhone，iPad和Mac https://preview.redd.it/xpdsegjv7w7d1.png?width=2144&amp;format=png&amp;auto=webp&amp;s=d647b5db6d6bd28de7e13df7fa3f8a9b2658524d 主要功能： 支持多种音频格式之间的转换 例如：MP3、WAV、M4A、CAF、FLAC等。 音频编辑功能：裁剪、拼接，分割 我希望招募100位torrent用户来测试我的产品，并提供宝贵的建议，使工具App越来越好！非常感谢 AppStore：AudioZap - MP3    submitted by    /u/Worldly_Cause6103   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dkzn3t/ive_created_a_free_audio_format_conversion_tool/</guid>
-      <pubDate>Fri, 21 Jun 2024 09:10:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>推出Thin App，信息消费与传输的未来</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dkzdol/launching_thin_app_the_future_of_information/</link>
-      <description><![CDATA[大家好，我们刚刚发布。非常感谢大家的初步反馈。 Thin 简介：信息消费的未来 借助 Thin 进入信息的新时代。我们先进的平台提供简洁、强大的片段，可改变您获取信息的方式。从文摘到文章和博客，Thin 可快速访问高质量内容，这些内容经过专业压缩，方便您使用。 Thin 可满足创作者和消费者的需求。对于那些希望以简洁格式分享产品更新、新闻摘要或博客预览的人来说，Thin 提供了一个理想的平台。对于那些寻求最新简短新闻和见解的人来说，Thin 是您获取最新信息的首选来源。 提升您的知识。体验瘦身。 👉 https://thin.maarkar.in    由   提交  /u/AlmostSomeIt   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dkzdol/launching_thin_app_the_future_of_information/</guid>
-      <pubDate>Fri, 21 Jun 2024 08:52:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们的 AI 演示文稿制作器的 AI 搜索功能取得了令人兴奋的进展！非常适合那些不喜欢在制作幻灯片时在页面之间切换的人。接下来，我们将添加图表、时间线等。你觉得怎么样？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dkzcib/has_made_exciting_progress_on_the_ai_search/</link>
-      <description><![CDATA[      https://i.redd.it/cf046ctk1w7d1.gif    由   提交  /u/Loud-Amoeba-7738   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dkzcib/has_made_exciting_progress_on_the_ai_search/</guid>
-      <pubDate>Fri, 21 Jun 2024 08:49:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻求有关新 DevOps 学习平台概念的反馈</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dkz6b8/seeking_feedback_on_a_new_devops_learning/</link>
-      <description><![CDATA[  由    /u/Ordinary-Drag3233  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dkz6b8/seeking_feedback_on_a_new_devops_learning/</guid>
-      <pubDate>Fri, 21 Jun 2024 08:37:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>营销和 SEO 是强制性的 - AMA</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dkypc1/marketing_seo_are_mandatory_ama/</link>
-      <description><![CDATA[      出于某种原因，在进行一些 SEO 改进和营销合作之后，收入开始起飞 未来的我，记住：营销和SEO 增加价值。🚀📊    由   提交  /u/Jazzlike-Echidna-670   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dkypc1/marketing_seo_are_mandatory_ama/</guid>
-      <pubDate>Fri, 21 Jun 2024 08:02:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
