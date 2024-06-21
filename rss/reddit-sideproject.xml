@@ -4,13 +4,83 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Fri, 21 Jun 2024 18:17:40 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Jun 2024 21:13:35 GMT</lastBuildDate>
     <item>
-      <title>YouTube 播放列表生成器 – 根据文本描述创建播放列表</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dlanul/youtube_playlist_generator_create_playlists_based/</link>
-      <description><![CDATA[        提交人    /u/normhill22   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dlanul/youtube_playlist_generator_create_playlists_based/</guid>
-      <pubDate>Fri, 21 Jun 2024 18:14:34 GMT</pubDate>
+      <title>我创建了一个职位搜索引擎，每天从 15,000 多个公司招聘页面上抓取职位。目前有超过 50,000 个远程职位机会。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dleiac/i_built_a_jobs_search_engine_that_scrapes_jobs/</link>
+      <description><![CDATA[        提交人    /u/zsar0299   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dleiac/i_built_a_jobs_search_engine_that_scrapes_jobs/</guid>
+      <pubDate>Fri, 21 Jun 2024 20:59:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>我正在研究 Google 字体测试器、比较器和配对器。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dle58l/i_am_working_on_a_google_fonts_tester_comparer/</link>
+      <description><![CDATA[      我正在开发 Fontsdiff.com，这是一款可满足您所有排版需求的用户友好型工具。它允许您并排比较 Google 字体，找到完美的组合，探索和调整可变字体轴，并分析 x 高度和大写高度等排版细节。通过全面的字体探索（包括最新的 Google 字体）和深入的分析工具，Fontsdiff.com 可确保其同步模式的一致样式。您可以访问任何 Google 字体，尝试不同的样式，使用独特的字形微调设计，并预览所有可用的样式和粗细。 您的意见对于改进和增强此工具非常有价值。您认为它会增加任何价值吗？    提交人    /u/fontsdiff   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dle58l/i_am_working_on_a_google_fonts_tester_comparer/</guid>
+      <pubDate>Fri, 21 Jun 2024 20:43:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>我构建了一个 AI 工具，让你可以向有影响力的人提问。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dldupr/i_built_an_ai_tool_that_lets_you_ask_questions_to/</link>
+      <description><![CDATA[        由    /u/Comfortable-Rip-9277   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dldupr/i_built_an_ai_tool_that_lets_you_ask_questions_to/</guid>
+      <pubDate>Fri, 21 Jun 2024 20:30:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了一个网站来防止缺席、最大限度地减少取消以及过滤掉浪费时间的人。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dldugc/i_made_a_site_to_prevent_noshows_minimize/</link>
+      <description><![CDATA[        提交人    /u/Krxcken   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dldugc/i_made_a_site_to_prevent_noshows_minimize/</guid>
+      <pubDate>Fri, 21 Jun 2024 20:30:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>SnapNotes 进度更新！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dldnwq/snapnotes_progress_update/</link>
+      <description><![CDATA[大家好！ 自从上周末在这里发布帖子（见上面的链接）以来，SnapNotes 的发展势头强劲。以下是发生的事情的细分。 —我们的原始帖子获得了近 15,000 次浏览量！ —我们接受了 Betahunt.io 创作者的采访。我将在下面的评论中提供适当的超链接。 https://betahunt.io/clinical-transcriber-app-snapnotes-journey/ —我们收到了来自 Reddit 同行的多个开发支持邀请。对此心存感激！ —网站流量大幅提升。 —就在今天，我们向一家治疗中心展示了我们的产品，他们对产品非常感兴趣！我们确信，通过这个组织，我们将拥有更多的测试人员，从而带来付费客户。 即将推出： 我们将继续探索和推动应用程序功能。我们收到了扩展功能的请求，我们很高兴为潜在客户实现这些功能。我们还与社区合作伙伴合作，尽可能宣传我们的产品。 我们已将重点转向使用 Stripe 和用户身份验证逻辑建立中间件。这是从有用的想法转变为 MVP 测试并最终实现分发的关键一步。 我们计划再进行一两个月的 Beta 测试。此外，我们计划允许被动用户在接下来的一个月左右免费试用该应用程序。  在接下来的几个月里，我们将开始过渡到付费服务的过程。我们将淘汰现有的身份验证密钥，并要求用户过渡到付费密钥，只要我们的开发过程保持正常进行，更新将继续提高我们的整体质量。  想再次感谢所有参与 SnapNotes 讨论的人！非常感谢有机会与您分享我们的工作。 —SnapNotes 开发团队    提交人    /u/Electronic-Kick-1255   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dldnwq/snapnotes_progress_update/</guid>
+      <pubDate>Fri, 21 Jun 2024 20:22:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>在从事全职工作的同时，我开发了 Dailies：一款奖励生产力的应用程序。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dlck18/while_having_a_fulltime_job_i_built_dailies_an/</link>
+      <description><![CDATA[        提交人    /u/aymantj   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dlck18/while_having_a_fulltime_job_i_built_dailies_an/</guid>
+      <pubDate>Fri, 21 Jun 2024 19:34:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>SummarizeIt：人工智能驱动的文本、视频和音频摘要应用程序</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dlcifb/summarizeit_aipowered_summarization_app_for_text/</link>
+      <description><![CDATA[大家好！ 我很高兴与大家分享我最新的业余项目：SummarizeIt！ 什么是SummarizeIt？ SummarizeIt 是一款人工智能应用程序，旨在帮助您快速有效地总结文本、YouTube 视频、音频和网站。无论您是学生、专业人士，还是只是想节省时间的人，SummarizeIt 都可以让您在短短几秒钟内轻松获取任何内容的要点。 主要功能：  文本摘要：粘贴任何文本并获得简明摘要。 YouTube 视频摘要：只需输入视频链接，SummarizeIt 就会提供内容摘要。 音频摘要：上传音频文件以获取书面摘要。 网站摘要：输入 URL，SummarizeIt 将总结网页内容。 直观的设计：用户友好的界面，带来无缝体验。  我为什么要构建它： 我发现自己经常被纯粹的我每天需要处理大量信息。无论是出于工作、学习还是个人兴趣，我都需要一个工具来快速将内容提炼为最重要的要点。这就是我创建 SummarizeIt 的原因，帮助像我这样的人更好地管理时间并专注于真正重要的事情。 技术栈：  后端： Express.js 前端： Flutter（iOS 应用） AI 模型： GPT 用于摘要  反馈和建议： 我正处于这个项目的早期阶段，很乐意收到您的反馈！如果您有任何建议、功能请求或遇到任何错误，请告诉我。在我继续改进和开发 SummarizeIt 的过程中，您的意见非常宝贵。 下载并试用 SummarizeIt： 您可以从 App Store 下载 SummarizeIt https://apps.apple.com/us/app/summarizeit-tldr-transcribe/id6503246906。 谢谢！ 感谢您花时间查看 SummarizeIt。我期待听到您的想法和建议！    提交人    /u/Confident_Jury_9144   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dlcifb/summarizeit_aipowered_summarization_app_for_text/</guid>
+      <pubDate>Fri, 21 Jun 2024 19:33:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>正在尝试！！！🎶 用于产品营销的歌曲 + 视频</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dlcct2/just_trying_song_video_for_product_marketing/</link>
+      <description><![CDATA[        由    /u/Genuine-Helperr   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dlcct2/just_trying_song_video_for_product_marketing/</guid>
+      <pubDate>Fri, 21 Jun 2024 19:26:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了一个实践项目平台，帮助技术人员提高技能</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dlc2na/i_created_a_platform_for_handson_projects_to_help/</link>
+      <description><![CDATA[      我建立了techstarta.com，一个通过开展项目来磨练技术技能的平台。其理念是帮助技术人员提高和展示他们的技能，同时参与专家策划的项目，提交他们的工作，并获得同行和专家的反馈。它也游戏化了。目标是促进持续改进。很快，该平台将促进协作项目。让我知道你的想法。 https://preview.redd.it/iywtt0th2z7d1.png?width=3360&amp;format=png&amp;auto=webp&amp;s=44e8c07b4f675c17ed04a8f17e1036a957d1fed0    提交人    /u/jidesakin   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dlc2na/i_created_a_platform_for_handson_projects_to_help/</guid>
+      <pubDate>Fri, 21 Jun 2024 19:14:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个冥想指南，使用 ChatGPT 提供个性化的冥想体验，针对特定要求提出练习建议，提供有关所有主要冥想流派的信息，回答与您的冥想问题相关的各种个人问题。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dlbwk2/i_made_a_meditation_guide_that_uses_chatgpt_to/</link>
+      <description><![CDATA[        提交人    /u/Expensive_Peak_1401   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dlbwk2/i_made_a_meditation_guide_that_uses_chatgpt_to/</guid>
+      <pubDate>Fri, 21 Jun 2024 19:06:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>制作仅限本地的密码管理器</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dlb2x4/made_a_localonly_password_manager/</link>
+      <description><![CDATA[我一直想要一个可以在本地存储所有加密详细信息的密码管理器，所以我决定构建一个！我正在探索 Flutter，并认为这将是一个很酷的项目，值得尝试。 应用程序的概念  根密码：首次设置应用程序时，您将创建一个根密码。此根密码是使用 AES 加密所有详细信息的密钥。 本地存储：所有加密详细信息都本地存储在应用程序数据中。 备份：如果您要换手机或其他东西，您可以将加密详细信息备份到您的设备。然后，您可以将此备份导入新设备。由于备份文件已使用您的 root 密码加密，因此只能从应用程序内部读取它。  希望得到您的想法和反馈！ 这里是 repo 干杯！    提交人    /u/heyiamlucifer   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dlb2x4/made_a_localonly_password_manager/</guid>
+      <pubDate>Fri, 21 Jun 2024 18:31:54 GMT</pubDate>
     </item>
     <item>
       <title>我创建了一个名为 nodes.garden 的加密节点平台</title>
@@ -39,76 +109,6 @@
       <description><![CDATA[      我一直在构建一个名为 ScopeClear 的附带项目，非常感谢您提供反馈和想法。主要是，如果您是为客户创建提案的自由职业者或代理机构所有者，那么这就是我瞄准的受众。 作为 IT 项目经理，我每天都会讨论范围（哪些是其中的一部分，哪些不是）。此工具可帮助避免误解并确保与客户就明确的范围达成一致。 https://www.producthunt.com/posts/scopeclear 欢迎提供任何反馈！    提交人    /u/lksngy   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1dl9xqy/scopeclear_win_clients_with_clear_proposals/</guid>
       <pubDate>Fri, 21 Jun 2024 17:44:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一款手机游戏，你可以在其中利用现实世界的地点建立你的出租车业务</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dl9jz5/ive_made_a_mobile_game_where_you_can_build_up/</link>
-      <description><![CDATA[与 Taxi Rivals 在真实的地方建立您的出租车帝国！   战略性地开设出租车中心。 购买汽车并搭乘便车。 从他人那里偷窃。 增加安全性并雇用暴徒。 管理中央库存。 ... 等等  网站：https://TaxiRivals.com Playstore 链接：https://play.google.com/store/apps/details?id=com.cucumberdev.Taxi_Rivals 我需要您提供的任何反馈。   由    /u/Paizee  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dl9jz5/ive_made_a_mobile_game_where_you_can_build_up/</guid>
-      <pubDate>Fri, 21 Jun 2024 17:28:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个网络合成器，可以从任何文件的二进制代码生成声音</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dl8y2f/i_created_a_websynthesizer_that_generates_sound/</link>
-      <description><![CDATA[    /u/Interesting-Bed-4355   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dl8y2f/i_created_a_websynthesizer_that_generates_sound/</guid>
-      <pubDate>Fri, 21 Jun 2024 17:02:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>Product Hunt 的影响</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dl7ozl/product_hunt_impact/</link>
-      <description><![CDATA[      对于那些对 ProductHunt 的影响感到好奇的人 - 我今天一直徘徊在第 15 名左右，并且已经超过了&gt; 截至东部时间中午，来自 PH 的访问量达到 80 次（但尚未有付费客户）。考虑到我之前每天只获得少量访问量（第一次高峰是测试付费搜索广告），而且我没有社交关注者，我会接受。 也许最大的惊喜是来自朋友、家人和随机陌生人的支持量。跨过这条线肯定会给你一些额外的动力！ https://www.producthunt.com/posts/mytrainingplan https://preview.redd.it/387wvz7r7y7d1.png?width=2172&amp;format=png&amp;auto=webp&amp;s=b1b1827736aad53d3f0333dc726feb7a92c722a3 下午 1 点更新 - 获得了我的第一位客户！  看起来 PH 删除了一些给我点赞的帐户（可能是今天创建帐户的朋友？）     由    /u/SingleExcitement 提交   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dl7ozl/product_hunt_impact/</guid>
-      <pubDate>Fri, 21 Jun 2024 16:09:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>10015 工具 - 所有在线工具均在一个盒子里</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dl76ur/10015_tools_all_online_tools_in_one_box/</link>
-      <description><![CDATA[大家好。  我一直在开发 10015.io，它将各种工具（包括开发和设计工具）整合到一个方便的位置。它还有一个名为“产品查找器”的产品目录（https://10015.io/product-finder）。欢迎免费提交您的业余项目。     提交人    /u/fthtls   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dl76ur/10015_tools_all_online_tools_in_one_box/</guid>
-      <pubDate>Fri, 21 Jun 2024 15:48:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>刚刚推出：ScriptFast | AI 脚本编写工具</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dl6yql/just_launched_scriptfast_ai_scriptwriting_tool/</link>
-      <description><![CDATA[      大家好， 我很高兴地宣布推出 ScriptFast，这是一款人工智能工具，旨在帮助 YouTube 创作者制作引人入胜的专业级脚本。 ScriptFast 登陆页面 什么是 ScriptFast？ ScriptFast 利用人工智能的强大功能快速生成脚本，帮助内容创作者专注于他们最擅长的领域 - 创作精彩的视频！以下是一些主要功能：  AI 驱动的脚本：使用我们的 AI 驱动工具，可以比以往更快地生成脚本。 用户友好界面：简单直观的设计使脚本编写变得简单而高效。 导出选项：轻松以多种格式导出脚本以供共享和编辑。 保存您的工作：在应用程序内保存脚本以便于访问和编辑。  我为什么做这个 我想开一个 YouTube 频道，但在编写脚本方面遇到了困难。我意识到许多其他创作者可能面临同样的挑战，因此我创建了 ScriptFast 来简化这个过程。我希望这个工具能够像帮助我一样帮助其他人。 看看吧！ 您可以试用 ScriptFast，看看它如何改善您的脚本编写过程。它今天在 Product Hunt 上线了，我非常希望得到您的支持和反馈！如果您想测试今天才提供的免费版本，请访问此链接。 Product Hunt 链接： Product Hunt 上的 ScriptFast 请随意测试该工具并让我知道您的想法。您的反馈非常宝贵，因为我们会继续改进和添加新功能。如果您有任何问题或建议，请随时提出。 感谢您的支持！ 科尔    提交人    /u/AwkwardAd328   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dl6yql/just_launched_scriptfast_ai_scriptwriting_tool/</guid>
-      <pubDate>Fri, 21 Jun 2024 15:38:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>研究指导</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dl6nna/research_mentorship/</link>
-      <description><![CDATA[**令人兴奋的公告：研究指导计划！** 我很高兴地宣布启动一项新的研究指导计划，旨在支持对计算机科学（CS）和人工智能（AI）感兴趣的高中生。该计划旨在帮助您完成研究项目，制定提案，并协助撰写和发表学术论文。 **我的经历**  高中三年级 在 CS 和 AI 研究方面拥有丰富的经验 国际科学与工程博览会 (ISEF) 决赛入围者 在州、国家和国际层面获得认可的研究和工作 在排名前三的大学医学院实习 参加常春藤盟校的 2 个研究项目（&lt;50 被录取） 精通多种编程语言（例如 C++、Python 和 Java）  **计划的目的** 指导计划旨在：  为在 CS 和人工智能。 协助制定研究提案和项目。 提供撰写和发表学术论文的支持。 帮助贫困、低收入和第一代学生在 STEM 领域脱颖而出。  **资格**  面向来自贫困、低收入和第一代背景的高中生。 致力于定期的辅导课程和研究活动。 愿意积极参与并参与辅导过程。  **申请流程** 要申请辅导计划，请填写此申请表。您的回答将帮助我了解您的研究兴趣和目标。申请包括个人信息、研究兴趣和指导目标等部分。 表单链接：https://forms.gle/susvYdeLKZPiD7R37 **后续步骤** 您提交申请后，我将审核您的回复，如果被接受，我将在一周内与您联系，提供进一步的详细信息和说明。 如果您有任何疑问或需要更多信息，请随时通过 PM 直接与我联系！    提交人    /u/Puzzleheaded_Ice_271   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dl6nna/research_mentorship/</guid>
-      <pubDate>Fri, 21 Jun 2024 15:25:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>吐槽我的电子邮件虚拟助理想法</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dl69oc/roast_my_email_virtual_assistant_idea/</link>
-      <description><![CDATA[嗨，Reddit！我有一个关于简单的 AI 电子邮件助手的想法。我知道有很多这样的产品，但它会有一个小小的变化。您只需注册，获得一个个性化的虚拟助手电子邮件地址，然后向其发送任何内容以获得 AI 生成的响应，无需使用 UI 或自定义应用程序。您还可以转发电子邮件以获取摘要或创建日历条目。你觉得这个有用吗？有什么建议或功能你想看吗？非常感谢！    提交人    /u/KLaci   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dl69oc/roast_my_email_virtual_assistant_idea/</guid>
-      <pubDate>Fri, 21 Jun 2024 15:08:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>摆脱 Stripe Tax 的最好方法是什么？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dl697g/what_is_the_best_way_to_get_rid_of_stripe_tax/</link>
-      <description><![CDATA[我正在构建一个通过 Stripe 收款的 SAAS。我无法创建 Stripe 账户，因为我的国家不在受支持的国家列表中。因此，我问了目前居住在欧洲的朋友。但在欧洲，税率很高，因此，我问了另一位目前居住在迪拜的朋友，他说税率是 5%，Stripe 也是这样吗？ 有什么办法可以解决这个问题吗，提前谢谢了    提交人    /u/Flashy-Foundation613   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dl697g/what_is_the_best_way_to_get_rid_of_stripe_tax/</guid>
-      <pubDate>Fri, 21 Jun 2024 15:07:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>我开发了一款应用，利用设备上的计算来编写和阅读儿童故事</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dl5vp3/i_built_an_app_that_uses_ondevice_computing_to/</link>
-      <description><![CDATA[      https://i.redd.it/48hlueqpux7d1.gif 在我休陪产假期间，我开始建立 Pico Library，让讲故事的时间对我和我的孩子都更有趣。作为一个新爸爸，我认为给我的孩子读书很重要。Pico Library 使用语言模型来编写故事，它可以利用 Apple 的设备上个人语音功能大声朗读故事。一切都由设备上的计算提供支持，这意味着不需要互联网连接。 我对小型语言模型的潜力感到非常兴奋。语言模型的进步，再加上越来越强大的移动设备，使得我们可以把带有数十亿个参数的语言模型放在口袋里。我很高兴聊聊 Pico Library 中的技术，以及我开发第一个 iOS 应用程序的感受。我也很好奇其他人会用类似的技术构建什么。 该应用程序可以在 iOS 应用商店免费试用，并且可以与配备 Apple Silicon 的 iOS 设备和 MacBook 配合使用 https://apps.apple.com/us/app/pico-library/id6503027586 我也在 producthunt 上推出了：https://www.producthunt.com/posts/pico-library    提交人    /u/Gogoldenbears   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dl5vp3/i_built_an_app_that_uses_ondevice_computing_to/</guid>
-      <pubDate>Fri, 21 Jun 2024 14:51:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>我做了一个网站，可以随机播放 YouTube 音乐</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dl5esa/i_made_a_website_that_actually_randomizes_youtube/</link>
-      <description><![CDATA[        由    /u/Life_Ad_2142  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dl5esa/i_made_a_website_that_actually_randomizes_youtube/</guid>
-      <pubDate>Fri, 21 Jun 2024 14:31:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
