@@ -4,7 +4,28 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Fri, 21 Jun 2024 03:15:40 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Jun 2024 06:18:54 GMT</lastBuildDate>
+    <item>
+      <title>我们创办了一家新闻媒体公司！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dkx2u6/we_started_a_news_media_company/</link>
+      <description><![CDATA[我们撰写新闻文章的灵感来自付费媒体网站的内容，但设计得非常容易和快速阅读。很酷的是，虽然文章是由人类撰写的，但我们得到了人工智能助手的帮助，以研究、编辑和增强内容。  我们的目标是让信息更容易获取，这就是为什么我们的内容是并且永远是免费的。很快，我们将添加一项功能，您可以请求您希望我们报道的特定主题  我们希望您查看并告诉我们您的想法！ 网站：https://thegnosi.com 如果您喜欢我们报道的内容，请订阅！    提交人    /u/codepeach_   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dkx2u6/we_started_a_news_media_company/</guid>
+      <pubDate>Fri, 21 Jun 2024 06:10:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>您的 Side 项目使用的媒体库？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dkwbhs/media_library_for_your_side_projects/</link>
+      <description><![CDATA[我正在开发一款名为 https://textbeat.vercel.app 的应用。我需要添加免费的音频和视频文件，以便用户可以在应用中使用它们。 帮帮我：  获取免版税媒体内容的最佳来源是什么？ 将其添加到我的应用中的最佳方法是什么？     提交人    /u/vigneshvp   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dkwbhs/media_library_for_your_side_projects/</guid>
+      <pubDate>Fri, 21 Jun 2024 05:22:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 30 秒内向亲人发送在线贺卡</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dkv5vw/send_a_loved_one_an_online_card_in_30_seconds/</link>
+      <description><![CDATA[        由    /u/mrocke  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dkv5vw/send_a_loved_one_an_online_card_in_30_seconds/</guid>
+      <pubDate>Fri, 21 Jun 2024 04:13:05 GMT</pubDate>
+    </item>
     <item>
       <title>一款在 Reddit 上寻找想要你的产品的数千人的工具</title>
       <link>https://www.reddit.com/r/SideProject/comments/1dktw4m/a_tool_to_find_1000s_of_people_on_reddit_who_want/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[我构建了一个名为 The Summarized Times 的 Web 应用程序，它使用 NewsAPI 和 OpenAI 的 GPT-4 API 提供热门新闻文章的简明摘要。该应用程序获取最新标题，生成包含关键要点的简短摘要，并以干净的报纸式布局显示它们。该应用程序旨在帮助用户快速掌握当前新闻的要点，而无需 wa    提交人    /u/rodneyslafuente   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1dkmrol/the_summarized_times_a_web_app_for_concise_news/</guid>
       <pubDate>Thu, 20 Jun 2024 21:17:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>在滚动屏幕前做好 5 件重要的事情 - Todo Lock：屏幕时间控制</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dkm4xx/do_5_critical_things_before_dumb_scrolling_todo/</link>
-      <description><![CDATA[您好， 我通常在下班后拖延时间并滚动屏幕，但一年后我开始使用这种技术，在屏幕时间之前做 5 件重要的事情。通过使用此技术，我还构建了此应用程序：https://apps.apple.com/us/app/screen-time-control-todo-lock/id6494988155 主要思想是围绕这一点，阻止干扰，做 5 件重要的事情，然后享受滚动，不要为此感到内疚。 请让我知道您的想法？    提交人    /u/adriatikgashi   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dkm4xx/do_5_critical_things_before_dumb_scrolling_todo/</guid>
-      <pubDate>Thu, 20 Jun 2024 20:50:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>接受反馈并不断改进</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dklm7z/taking_on_feedback_and_improving_each_time/</link>
-      <description><![CDATA[重新设计了我的网页抓取服务网站！ (scrapeshack.com) 在收到有关我的网站消息的反馈后，我决定重建它。 它没有呈现公司的正确重点。该网站一开始就像是一家提供网页抓取服务的大型公司，然后以“关于我”结束，因为我是一名独立的自由职业者提供服务。 这很令人困惑 - 信息需要始终清晰。 因此，我决定更多地关注我可以为客户提供的个性化方面： 为他们量身定制的解决方案。 以下是新设计的快速滚动 - 这次直奔主题。 作为自由职业的初学者，我意识到虽然我不是 10x 编码员，但如果我坚持下去，旨在随着每次迭代不断改进，我将更接近我想要成为的那种开发人员。    提交人    /u/GloomyCardiologist96   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dklm7z/taking_on_feedback_and_improving_each_time/</guid>
-      <pubDate>Thu, 20 Jun 2024 20:27:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年辞职，打造 SaaS 产品</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dkese8/quit_my_job_in_2024_to_build_saas_products/</link>
-      <description><![CDATA[亲爱的 r/SideProject 社区，大家好！ 2024 年，我决定辞去 5 年来的工作，开始用 SaaS 产品取得成功。 当然，事情没有按计划进行！这是一段艰难的旅程，我知道它会很艰难。每天都要独自努力为某些人提供有用的东西。 我自学了如何编码、数据库、框架和一些设计基础知识。这让人不知所措，有很多起起落落！ 但今天是 UP 日，我想在这里分享它。我终于自豪地发布了我的第一个 SaaS 产品：sopot.io。一个简单的工具，可以将 Apple Notes 变成博客，帮助潜在用户只关注他们喜欢做的事情：写作。无需 Wordpress 配置、安装、自定义、代码等。 现在开始学习新东西：营销！ 不确定从哪里开始，但正在考虑用小预算投放一些 Facebook 广告来验证（或不验证！）这个想法？ 如果您对工具/登录页面或我的项目的后续步骤有任何反馈，我将很高兴听到！    提交人    /u/theophileiikv   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dkese8/quit_my_job_in_2024_to_build_saas_products/</guid>
-      <pubDate>Thu, 20 Jun 2024 15:42:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
