@@ -4,7 +4,63 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Sat, 22 Jun 2024 18:16:16 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Jun 2024 21:12:20 GMT</lastBuildDate>
+    <item>
+      <title>我开发了一款财务管理应用，可以和人工智能对话</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dm5o8c/i_built_a_finance_management_app_with_an_ai_i_can/</link>
+      <description><![CDATA[最近，我一直在尝试改善我的财务状况，并教自己控制购买我喜欢的每件新东西的冲动。老实说，这行不通。 所以，我做了一些不同寻常的事情。我开发了一个财务管理应用程序，并将其连接到一个为我的财务提供建议的人工智能。它可以帮助我决定是否应该买东西，如果时机不对，还可以制定一个储蓄计划。 这款应用的名字是 InnerWallet，明天将在 Product Hunt 上发布，如果有人想查看的话，希望得到你们的反馈！https://www.producthunt.com/products/innerwallet    提交人    /u/HERITAGEEXCLUSIVE   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dm5o8c/i_built_a_finance_management_app_with_an_ai_i_can/</guid>
+      <pubDate>Sat, 22 Jun 2024 21:10:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>Chrome 扩展程序可打击 Etsy 上的版权侵权行为</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dm43f1/chrome_extension_to_combat_copyright_infringement/</link>
+      <description><![CDATA[https://www.producthunt.com/posts/copycat-4    由   提交  /u/Puzzleheaded_One757   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dm43f1/chrome_extension_to_combat_copyright_infringement/</guid>
+      <pubDate>Sat, 22 Jun 2024 19:58:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的副业：Deep Soccer</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dm3ldz/my_side_project_deep_soccer/</link>
+      <description><![CDATA[嗨，我是 Miguel，我是一名物理学家，我是一名数据科学家。 我想向您展示我的工具： https://deep-soccer.com 它结合了足球和机器学习。您每周可以免费玩一场比赛，以便了解它的工作原理。 一些技术数据：  编程语言：主要是 Python。前端的 Javascript、html 和 css。 数据源：有数千个 api 提供足球数据。 用于预测的机器学习算法：主要是 LightGBM。 云端资源：谷歌云、AWS lambda 函数。  希望你喜欢， Miguel    提交人    /u/Commercial_Ad_1315   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dm3ldz/my_side_project_deep_soccer/</guid>
+      <pubDate>Sat, 22 Jun 2024 19:35:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>联合创始人的股权</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dm3baw/equity_stake_for_cofounder/</link>
+      <description><![CDATA[大家好，我是首次创办科技创业公司的创业者。目前，我正在商谈聘请一位营销专家作为联合创始人加入该项目。我的想法是给予公司股份，我考虑的是 10%，以换取所开展的工作和具体目标。例如，当我们达到 100,000 名用户后，此人将有权获得 10%。您觉得呢？您认为我应该设定更具体的目标吗，例如社交媒体帖子的数量、招募的影响者和实现的媒体报道？ 感谢您的反馈！    提交人    /u/Mother-Character3359   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dm3baw/equity_stake_for_cofounder/</guid>
+      <pubDate>Sat, 22 Jun 2024 19:21:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了世界上第一个表情包管理器</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dm3atz/i_made_worlds_first_memes_manager/</link>
+      <description><![CDATA[        提交人    /u/Proof-Put-4020   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dm3atz/i_made_worlds_first_memes_manager/</guid>
+      <pubDate>Sat, 22 Jun 2024 19:21:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Examify AI - 一家针对考试准备的 AI 初创公司</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dm2yjw/examify_ai_an_ai_startup_for_exam_preparation/</link>
+      <description><![CDATA[      经过数月的开发，我终于进入了我的业余项目 (Examify AI) 的阶段，现在我很高兴向公众开放它 前提是它使用 AI 生成过去试卷风格的复习试卷，然后还使用 AI标记您的答案并提供反馈 查看所用技术的摘要：  前端使用 Vue 3（typescript）和 Quasar 组件框架 Supabase 用于后端的所有内容（身份验证、数据库、边缘功能等） Cloudflare 页面用于托管前端。 Sendgrid 用于发送电子邮件 Ionos 用于 Web 域 Stripe 用于支付和订阅  很高兴为任何考虑在您自己的项目中工作的开发人员回答任何问题！ 我们也非常感谢任何反馈（积极的和建设性的） （链接在 reddit 页面上） https://preview.redd.it/m8dq42zl868d1.png?width=2201&amp;format=png&amp;auto=webp&amp;s=64856de25a1680cdb24c82b9c49d73cc107396db    提交人    /u/Examify-AI   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dm2yjw/examify_ai_an_ai_startup_for_exam_preparation/</guid>
+      <pubDate>Sat, 22 Jun 2024 19:05:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Goalie - 一款让您言出必行的应用程序 [免费赠送终身访问权限，外加奖金 $]</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dm2kjv/goalie_app_to_put_your_money_where_your_mouth_is/</link>
+      <description><![CDATA[       由    /u/Fit_Bee8519  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dm2kjv/goalie_app_to_put_your_money_where_your_mouth_is/</guid>
+      <pubDate>Sat, 22 Jun 2024 18:47:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>出售你的副业！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dm1zd5/sell_your_side_project/</link>
+      <description><![CDATA[你会以什么价格出售你的副业？ 在下面发表评论。有兴趣购买的人可以给你发消息    由   提交  /u/Long-Habit   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dm1zd5/sell_your_side_project/</guid>
+      <pubDate>Sat, 22 Jun 2024 18:21:15 GMT</pubDate>
+    </item>
     <item>
       <title>AI SaaS 应用程序下一个 js 布局模板（复制、粘贴和使用）</title>
       <link>https://www.reddit.com/r/SideProject/comments/1dm0uph/ai_saas_app_next_js_layout_template_copy_paste/</link>
@@ -53,62 +109,6 @@
       <description><![CDATA[您好 r/SideProject ， 我是 quadra 的 Antonio，我来向您介绍 Spaces。 quadra.day 是一个可以漂亮地组织您的任务和笔记的地方。任务和笔记属于您，即使您处于离线状态，也可以查看它们。 使用 Spaces，您可以添加链接、任务、使其加粗、斜体，并保存以便稍后查看。 只需创建一个帐户，即可享受您的笔记和笔记任务。 让我知道你们的想法！    提交人    /u/acfilho77   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1dlyf2m/introducing_spaces_from_quadraday/</guid>
       <pubDate>Sat, 22 Jun 2024 15:38:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>吐槽我的想法：我想帮助兼职者坚持下去</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dlxh44/roast_my_idea_i_want_to_help_side_hustlers_stay/</link>
-      <description><![CDATA[在作为 SWE 的日常工作和其他生活优先事项之间，我发现很难每天坚持做副业。 我想缓解这个问题，并且对如何做到这一点有一些想法，但不确定目前什么才是真正有价值的，所以我有一个问题要问大家：  你愿意花钱买一个应用来帮助你坚持做日常的副业吗？ 如果不是，它需要做什么才能让它变得毫不费力地花钱？  如果这个想法一开始就是个烂主意，我也想知道。感谢所有建议！    提交人    /u/chasepoirier   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dlxh44/roast_my_idea_i_want_to_help_side_hustlers_stay/</guid>
-      <pubDate>Sat, 22 Jun 2024 14:55:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>我列出了 60 多个目录供您提交新项目</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dlxce3/i_made_a_list_of_60_directories_to_submit_your/</link>
-      <description><![CDATA[大家好！ 如果您刚刚启动了一个新项目，您的域名权限可能非常低。您的内容对 Google 来说实际上是不可见的。 因此，我整理了一个免费的网站列表，您可以在其中提交以获取第一个反向链接并提高 DR。 我已经使用此列表将我的 DR 提高到 19。 在这里：https://refined.so/tools/seo-directories 希望您觉得有用。:)    提交人    /u/constantout   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dlxce3/i_made_a_list_of_60_directories_to_submit_your/</guid>
-      <pubDate>Sat, 22 Jun 2024 14:48:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>我做了一个有趣的网站，它会告诉你是否应该辞职</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dlwzvx/i_made_a_fun_website_which_tells_you_whether_you/</link>
-      <description><![CDATA[  由    /u/0_human0  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dlwzvx/i_made_a_fun_website_which_tells_you_whether_you/</guid>
-      <pubDate>Sat, 22 Jun 2024 14:32:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>LMPGPTFY - 让我为您提示 GPT</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dlwz6a/lmpgptfy_let_me_prompt_gpt_for_you/</link>
-      <description><![CDATA[您可能听说过臭名昭著的网站“让我帮您谷歌一下”。我写了这个网站，它与此类似，但模仿了 Chat GPT 功能。它应该很有趣也很讽刺，下次您遇到愚蠢的问题时，请尝试与他们分享我的新网站的链接： https://www.lmpgptfy.com/    提交人    /u/sc2bigjoe   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dlwz6a/lmpgptfy_let_me_prompt_gpt_for_you/</guid>
-      <pubDate>Sat, 22 Jun 2024 14:31:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>找不到科技领域的工作？合作、积累经验、共同学习！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dlwwy3/cant_find_a_job_in_tech_collaborate_gain/</link>
-      <description><![CDATA[我上大学的时候，有句俗语：“91% 的人都找不到游戏开发者的工作。”当我在求职时被拒绝时听到这句话，我感到很沮丧，我发现自己陷入了抑郁，准备放弃。 正是在那时，我决定做出改变，因为我知道我不是唯一一个有这种感觉的人。我创建了一个平台，人们可以加入项目并获得宝贵的经验。项目所有者可以分配任务，完成后所有任务都会添加到您的投资组合中。任何人都可以加入——无论您是从事技术、创意、商业还是营销领域的工作。 这个平台才刚刚起步，所以项目不多。 如果您正在寻找一种获得经验和参与项目或发布项目供其他人加入的方法，请查看我的平台。它可以免费使用：DeveloperScope。 我希望这可以帮助其他有和我相同感受的人。    提交人    /u/Alert-Ad-5918   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dlwwy3/cant_find_a_job_in_tech_collaborate_gain/</guid>
-      <pubDate>Sat, 22 Jun 2024 14:28:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>我花了几个月的时间创建了一款充分利用 iPhone 独特功能的应用程序 - 夜视应用程序</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dlwvl5/i_spent_months_creating_an_app_that_fully/</link>
-      <description><![CDATA[      正如标题所示，这款应用利用了 iPhone 设备独有的 LiDAR 传感器和 TrueDepth 摄像头，可以在弱光环境下捕捉图像并准确测量实时距离设备和物体之间的相互作用。 🎉目前，它是App Store上同类应用中，在用户体验和功能方面最强大的应用。 📲您可以在App Store上搜索“Night Vision”下载，也可以点击链接下载：https://apps.apple.com/app/id1668629667 https://preview.redd.it/t3g89nkzu48d1.png?width=3963&amp;format=png&amp;auto=webp&amp;s=1a2b017071f2c9ddeb5582627c9c1bf2a528f817    提交人    /u/XuhaiLuo   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dlwvl5/i_spent_months_creating_an_app_that_fully/</guid>
-      <pubDate>Sat, 22 Jun 2024 14:26:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>我建立了一个 Calendly 集成，可以防止缺席</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dlwmd1/i_built_a_calendly_integration_that_prevents/</link>
-      <description><![CDATA[        提交人    /u/Krxcken   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dlwmd1/i_built_a_calendly_integration_that_prevents/</guid>
-      <pubDate>Sat, 22 Jun 2024 14:14:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>我开发了一个应用程序，利用 OpenAI 机器人和 Whisper 实现实时语音对话。这是 Chatgpt 4o 语音聊天功能的绝佳替代品。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dlsu2m/i_built_an_application_that_brings_realtime/</link>
-      <description><![CDATA[        提交人    /u/Practical-Star995   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dlsu2m/i_built_an_application_that_brings_realtime/</guid>
-      <pubDate>Sat, 22 Jun 2024 10:40:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
