@@ -4,7 +4,35 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Sun, 23 Jun 2024 09:14:24 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Jun 2024 12:22:55 GMT</lastBuildDate>
+    <item>
+      <title>我在 Notion 中构建了这个笔记系统</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dmjph9/i_built_this_notes_taking_system_in_notion/</link>
+      <description><![CDATA[        提交人    /u/notionstore   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dmjph9/i_built_this_notes_taking_system_in_notion/</guid>
+      <pubDate>Sun, 23 Jun 2024 11:03:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>在推出我的第一款 SaaS 产品之前寻求反馈 - linkinbio.cc</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dmitqx/seeking_feedback_before_my_first_saas_launch/</link>
+      <description><![CDATA[      大家好， 我很高兴宣布推出我的第一个 SaaS 产品！作为一名新的独立黑客，我想在 Reddit 上分享它，然后再将其发布到所有主要社交平台上。 我很乐意听到您的反馈，无论是好的还是坏的。这将帮助我在向公众宣布之前进行一些最后的调整。 这是网站链接：https://linkinbio.cc/ 如果您愿意，您还可以注册并声明一个句柄。它是完全免费的。 我认为向您快速介绍一下我使用的技术堆栈会很酷。如果您选择或计划了其他任何内容，请告诉我。 技术堆栈：  前端：Preact、Tailwind、React-Query 后端：Spring Boot、Kotlin 数据库：Postgres 部署：Heroku  如果您有任何想法或建议，我洗耳恭听！ https://reddit.com/link/1dmitqx/video/akkpyw0voa8d1/player    提交人    /u/TheDeveloper12345   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dmitqx/seeking_feedback_before_my_first_saas_launch/</guid>
+      <pubDate>Sun, 23 Jun 2024 10:00:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>应对 SaaS 初创企业的最大挑战！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dmifht/tackling_the_biggest_challenges_of_saas_startups/</link>
+      <description><![CDATA[大家好！ 启动 SaaS 项目可能极具挑战性。从提出独特的想法到找到合适的团队并借鉴他人的经验，这是一个艰难的旅程。但你猜怎么着？我们在这里帮助您克服这些障碍！ 我们推出了一个专用的 Discord 频道，您可以在其中：  发现新的 SaaS 理念：从我们的社区分享的新鲜、创新的 SaaS 理念中获得灵感。 找到您的梦之队：与同样希望打造出令人惊叹的东西的才华横溢的个人建立联系。 向他人学习：听听其他 SaaS 制造商的成功、失败和经验教训。 获得社区支持：从了解 SaaS 初创企业磨难的志同道合的个人社区获得反馈、建议和精神支持。  无论您是刚刚起步，还是希望分享知识的经验丰富的企业家，我们的社区都是您的理想之地。让我们互相支持，将我们的 SaaS 梦想变成现实！ [加入我们的 Discord] 期待在那里见到你，共同创造伟大的东西！    提交人    /u/Emergency_Ant_4968   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dmifht/tackling_the_biggest_challenges_of_saas_startups/</guid>
+      <pubDate>Sun, 23 Jun 2024 09:32:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于营销的想法。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dmibgd/thoughts_on_marketing/</link>
+      <description><![CDATA[构建是创办任何事物（公司等）最简单的部分。 构建是确定性的、可预测的、由你掌控的。 你看到营销了吗？ 恰恰相反。 让你的应用走红的通常是最意想不到的事情。 你必须不断地把东西扔到墙上，希望最终能有一块粘住。 然后你必须不断地把那种东西扔到墙上的那个地方，直到厌烦。    提交人    /u/pystar   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dmibgd/thoughts_on_marketing/</guid>
+      <pubDate>Sun, 23 Jun 2024 09:23:52 GMT</pubDate>
+    </item>
     <item>
       <title>需要对 Landingpage SaaS 平台 (Honeybind) 的反馈</title>
       <link>https://www.reddit.com/r/SideProject/comments/1dmi37r/feedback_needed_for_landingpage_saas_platform/</link>
@@ -76,39 +104,11 @@
       <pubDate>Sun, 23 Jun 2024 06:23:01 GMT</pubDate>
     </item>
     <item>
-      <title>[免费优惠券] 推出 Word Power：文字拼图游戏</title>
+      <title>[免费优惠券] 推出 Word Power：文字益智游戏</title>
       <link>https://www.reddit.com/r/SideProject/comments/1dmfbga/free_coupon_introducing_word_power_the_word/</link>
       <description><![CDATA[  由    /u/BigAmount5064  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1dmfbga/free_coupon_introducing_word_power_the_word/</guid>
       <pubDate>Sun, 23 Jun 2024 05:51:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>您采用了什么系统来确保您的副业不会受到影响？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dmes43/what_systems_do_you_put_in_place_to_make_sure/</link>
-      <description><![CDATA[对于那些在兼顾主要工作或其他职责以及副业的人来说，你有什么系统来确保你的副业不会受到影响？平衡一切可能是一个真正的挑战。 你是否使用特定的工具、时间管理技巧、雇佣帮助或例程来让一切步入正轨？你如何保持动力并确保持续进步？    提交人    /u/billy_gaht   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dmes43/what_systems_do_you_put_in_place_to_make_sure/</guid>
-      <pubDate>Sun, 23 Jun 2024 05:15:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个网络应用程序来简化 OG 图像生成过程。这样，您的所有页面都具有独特的、上下文相关的 OG 图像，从而增加了您在社交分享中获得的点击量。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dmek7y/i_made_a_web_app_to_simplify_the_og_image/</link>
-      <description><![CDATA[        提交人    /u/saas-rx   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dmek7y/i_made_a_web_app_to_simplify_the_og_image/</guid>
-      <pubDate>Sun, 23 Jun 2024 05:01:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>我开发了一个 Figma 插件，可以在 30 秒内完成设计评审</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dme24k/i_built_a_figma_plugin_that_gives_me_design/</link>
-      <description><![CDATA[  由    /u/Aggravating-Box-1990  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dme24k/i_built_a_figma_plugin_that_gives_me_design/</guid>
-      <pubDate>Sun, 23 Jun 2024 04:30:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找可以作为 UX 设计师做出贡献的业余项目</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dmdzvt/looking_for_side_projects_to_contribute_to_as_a/</link>
-      <description><![CDATA[嗨！我正在寻找一些可以作为 UX 设计师做出贡献的业余项目，以便获得更多经验。 干杯！    由    /u/lweria  提交  [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dmdzvt/looking_for_side_projects_to_contribute_to_as_a/</guid>
-      <pubDate>Sun, 23 Jun 2024 04:26:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
