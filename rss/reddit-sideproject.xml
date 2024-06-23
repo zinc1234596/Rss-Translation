@@ -4,7 +4,77 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Sun, 23 Jun 2024 06:17:37 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Jun 2024 09:14:24 GMT</lastBuildDate>
+    <item>
+      <title>需要对 Landingpage SaaS 平台 (Honeybind) 的反馈</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dmi37r/feedback_needed_for_landingpage_saas_platform/</link>
+      <description><![CDATA[嘿 /r/SideProject， 我的国家阳光灿烂，所以我非常开心，希望你今天也过得很愉快！ 我们刚刚发布了 SaaS 平台 beta 版的登陆页面。该工具通过几个（如果我自己这么说的话）有价值的功能帮助 Shopify 用户增加收入，我希望你能查看我们的登陆页面并为我提供一些关于如何改进它的反馈。 你可以在这里找到它：https://honeybind.com 提前感谢你的帮助！    提交人    /u/IAmsterdam_   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dmi37r/feedback_needed_for_landingpage_saas_platform/</guid>
+      <pubDate>Sun, 23 Jun 2024 09:06:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>我做了一个自动化本地搜索引擎优化的副项目</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dmi2hl/i_made_a_side_project_to_automate_local_seo/</link>
+      <description><![CDATA[我是一家小型网络代理公司的老板，我每天都在帮助本地企业在 Google 上获得更多曝光度并吸引本地客户。 我正在实施的一种策略是内容旋转。本质上，您创建一个页面，然后复制它，只需更改文本的某些部分，例如城市名称。 有人说 Google 会对此进行惩罚，但我从未见过任何负面影响。我相信一切都要适度进行。 无论如何，我手动复制页面并替换文本已有一段时间了。这非常耗时。 所以，我想到了一个自动化这个过程的想法，并创建了 SpinPress。 它的工作原理：  您连接您的网站（实际上，您可以根据需要连接和管理任意数量的 WordPress 网站） 您在 wordpress 上创建一个模板，并使用 {{city}} 或 {{country}} 等变量的占位符。 您准备一些数据，一个包含所有变量值的 CSV 文件。 您将 csv 上传到 spinpress，它会自动批量复制页面  虽然我主要为 SEO 目的设计 SpinPress（这也是我自己使用它的方式），但我相信它在许多其他场景中也很有用。 我很乐意听到您的反馈。您会使用此工具吗？ 这是链接：https://spinpress.app    提交人    /u/Unusual_Bathroom5867   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dmi2hl/i_made_a_side_project_to_automate_local_seo/</guid>
+      <pubDate>Sun, 23 Jun 2024 09:05:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了一个网站，可以免费收听超过 20,000 本有声读物</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dmhfct/i_created_a_website_to_listen_to_over_20000/</link>
+      <description><![CDATA[      我一直在学习 Web 开发，我创建了 BookRadio，这是一个可以免费收听超过librivox 数据集免费提供 20,000 本有声读物。您还可以根据类型、语言和时长筛选书籍，并搜索任何类型的书籍以找到最适合自己的书籍。检查一下并让我知道你的想法。 https://preview.redd.it/m5res6n86a8d1.png?width=1920&amp;format=png&amp;auto=webp&amp;s=7294ebf74686b0d7d4cf99ab205dede505585994 链接- https://bookradio.vercel.app/ 技术栈- React、Golang、MongoDB    由   提交  /u/TopCoffee2396   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dmhfct/i_created_a_website_to_listen_to_over_20000/</guid>
+      <pubDate>Sun, 23 Jun 2024 08:18:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>出售你的副项目——不需要用户或收入。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dmhevh/sell_your_side_project_no_users_or_revenue_needed/</link>
+      <description><![CDATA[大家好 查看我们的市场以买卖附带项目 - www.sohonest.co 您不需要用户或收入。  我们目前有 80 个附带项目，平均价格为 4000 美元    由   提交  /u/Few-Ad-5185   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dmhevh/sell_your_side_project_no_users_or_revenue_needed/</guid>
+      <pubDate>Sun, 23 Jun 2024 08:17:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了一个网站，可以免费收听超过 20,000 本有声读物</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dmhdx7/i_created_a_website_to_listen_to_over_20000/</link>
+      <description><![CDATA[      我一直在学习 Web 开发，我创建了 BookRadio，一个你可以收听的网站从 librivox 数据集免费获取超过 20,000 本有声读物。您还可以根据类型、语言和时长筛选书籍，并搜索任何类型的书籍以找到最适合自己的书籍。检查一下并让我知道你的想法。 https://preview.redd.it/7fo1krjp5a8d1.png?width=1920&amp;format=png&amp;auto=webp&amp;s=420d990544b795ce9bfe459b79a7904b78772f3b 链接- https://bookradio.vercel.app/    由   提交  /u/TopCoffee2396   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dmhdx7/i_created_a_website_to_listen_to_over_20000/</guid>
+      <pubDate>Sun, 23 Jun 2024 08:15:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>将地理数据转换成声音</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dmgwc0/converting_geographic_data_into_sound/</link>
+      <description><![CDATA[        提交人    /u/Any_Perspective_291   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dmgwc0/converting_geographic_data_into_sound/</guid>
+      <pubDate>Sun, 23 Jun 2024 07:40:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>【提问】您认为AI能为老年人群（45岁以上）带来什么？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dmgvhq/inquiry_what_do_you_think_ai_can_bring_to_the/</link>
+      <description><![CDATA[Hi Reddit，我来自中国，我真诚地向大家征求一个问题。我国正面临人口老龄化问题，婴儿出生率持续下降，老年人口不断增加，老年人的消费能力也在增长。在这种背景下，您是否观察到您所在的国家、城市甚至您周围的人工智能应用\行业正在增加？您认为人工智能能为老年人带来什么？    提交人    /u/AdMuch3810   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dmgvhq/inquiry_what_do_you_think_ai_can_bring_to_the/</guid>
+      <pubDate>Sun, 23 Jun 2024 07:38:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一款名为 PrepPro 的应用程序——AI 面试准备工具</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dmgpxi/i_made_an_app_called_preppro_ai_interview_prep/</link>
+      <description><![CDATA[      https://www.preppro.tech/ 嗨 Redditors， 我很高兴与大家分享PrepPro 是一款人工智能驱动的应用，旨在帮助您自信地完成求职面试。作为一个经历过令人紧张的求职过程的人，我想创建一个工具，让面试准备变得更轻松、更有效。 功能：  人工智能驱动的工具：利用 GPT-3.5 Turbo（GPT-4 即将推出）生成量身定制的面试问题并练习您的答案。 自我面试练习：使用我们简单的网络摄像头界面进行模拟面试。没有录音，只有练习。 无限代数：无限制地进行尽可能多的练习。全面 支持：获得提示、策略和支持以提高您的表现。  定价： PrepPro Plus：每周 9.99 美元，提供免费试用选项。  无限制访问 AI 工具 自我面试练习课程 专门的客户支持  为什么选择 PrepPro？ 量身定制的准备：根据您的工作角色和行业个性化的面试问题。 方便的练习：通过我们用户友好的界面随时随地练习。 增强信心：反复练习有助于减少焦虑并为真正的面试建立信心。 我们很乐意听到您的想法和建议，以使 PrepPro 变得更好。 https://x.com/JayPateln7/ https://preview.redd.it/wl1g04c5x98d1.png?width=3456&amp;format=png&amp;auto=webp&amp;s=bf2cbf22bc05e3ff1867fa079bd727f07d46b887    提交人    /u/jaypateln   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dmgpxi/i_made_an_app_called_preppro_ai_interview_prep/</guid>
+      <pubDate>Sun, 23 Jun 2024 07:27:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么您会喜欢我们的新日记应用程序</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dmgma1/why_you_will_love_our_new_journaling_app/</link>
+      <description><![CDATA[每天花几分钟写日记有助于心理健康。但是，保持写作习惯可能具有挑战性。这就是我们制作Sunrise的原因，这是一款专为忙碌人士打造的日记应用程序。 如果您喜欢以下列表，那么您一定会喜欢我们的应用程序： - 为每周的每一天安排日记提示 - 可自定义的写作模板 - 五种不同的精美小部件 - 高级提醒设置 - 无需订阅或广告。只需支付 1.99 美元的一次性费用，即可终身访问。 - 一支以客户为中心的创始人团队，对心理健康充满热情 ❤️  在短短两周内，我们的候补名单就激增，超过 200 个注册，自上周推出以来，我们已飙升至韩国付费生产力应用程序排名第二！ 立即下载，了解我们排名飙升的原因！否则，在深入研究之前，请告诉我们您是否对某个功能感到好奇——我们会为您打造一款出色的日记应用程序。 🍎 iOS：https://apps.apple.com/app/apple-store/id6502430422 🤖 Android：https://play.google.com/store/apps/details?id=com.fimpact.sunrise 📩 联系电子邮件：[info@fimpact.tech](mailto:info@fimpact.tech) 🌐 网站：www.sunrise-app.com    由   提交  /u/Ok-Stand1794   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dmgma1/why_you_will_love_our_new_journaling_app/</guid>
+      <pubDate>Sun, 23 Jun 2024 07:20:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>因此我们转向了...</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dmfskf/so_we_pivoted/</link>
+      <description><![CDATA[因此，团队建立了一个网站，允许在 Stripe 上运行的企业以纯英语查询他们的交易，然后向他们的客户发送上下文电子邮件。 然而，在我们的网站副本中，我们专注于文本到 SQL 功能、AI 流行语、无 SQL 等。 现在，通过来自 beta 用户的反馈，我们实际上意识到我们构建的实际上是一个自动化营销工具，就像 Klaviyo，但是针对的是 Stripe 而不是 Shopify。 示例工作流程：1. 用户输入查询“过去 3 个月有多少客户没有支付订阅费用？”2. 然后向查询结果中的所有联系人发送包含可兑换折扣代码的上下文电子邮件。 我认为这个“枢轴”实际上更好，并且使我们对企业的用处更加明显。 告诉我我错了。    提交人    /u/pystar   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dmfskf/so_we_pivoted/</guid>
+      <pubDate>Sun, 23 Jun 2024 06:23:01 GMT</pubDate>
+    </item>
     <item>
       <title>[免费优惠券] 推出 Word Power：文字拼图游戏</title>
       <link>https://www.reddit.com/r/SideProject/comments/1dmfbga/free_coupon_introducing_word_power_the_word/</link>
@@ -39,76 +109,6 @@
       <description><![CDATA[嗨！我正在寻找一些可以作为 UX 设计师做出贡献的业余项目，以便获得更多经验。 干杯！    由    /u/lweria  提交  [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1dmdzvt/looking_for_side_projects_to_contribute_to_as_a/</guid>
       <pubDate>Sun, 23 Jun 2024 04:26:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>7 天 7 款应用</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dmds4m/7_apps_in_7_days/</link>
-      <description><![CDATA[大家好！我即将迎来一周的休假（相当于所有员工的一周假期），但我不想花时间睡觉和玩电子游戏，而是想挑战自己在这段时间里开发 7 个应用程序/微型软件即服务产品。我可能不得不每天花 16 个小时直接编码，但这可能有点自虐的乐趣。 到目前为止，我有以下应用程序想法  我应该在哪里吃饭？基本应用程序会随机为用户提供附近的餐厅供他们就餐。或者，它可以随机选择用户应该做的晚餐。我和我的室友总是费尽心思制定晚餐计划，而这个很简单，我可以在几个小时内完成。我以前用过类似的网站，但现在找不到了，所以我想做一个自己的版本。 通用文字游戏。类似于 Wordle 或 Connections。只是一个简单、有趣、有点上瘾的文字游戏。还不知道规则是什么，但我会在开始之前弄清楚。 卡路里追踪器。抱歉，名字很普通，暂时没有想法。这个应用程序的基础是一个通用的卡路里追踪器，但旗舰功能是允许用户拍摄他们的食物（比如在餐厅时），我会使用人工智能返回并记录这道菜的预估卡路里。 菜单解析器。我最近去了欧洲，在几家餐馆，我花了 10 分钟在谷歌上搜索菜肴，这样我就可以知道这些菜肴的配料是什么，看起来是什么样子。这个应用程序可以让用户扫描菜单并收到每道菜的照片库。照片很可能是 AI 生成的。 应用程序助手。 Chrome 扩展程序可让用户上传他们的简历和工作详细信息，然后在多个网站上预先填写通用应用程序问题。首先，该扩展程序适用的网站可能是 greenhouse、workday、linkedin 和 indeed。 不知道我将构建的最后两个。我的工作想法是一个应用程序，让用户输入一顿饭并返回葡萄酒搭配，以及一个应用程序，可以让人们与他们最喜欢的名人交谈（AI 语音）。  如果有人对如何改进这些基本想法有任何想法，或者对应用程序＃6 和＃7 有一些建议，我很乐意听到！我还在考虑在这里或在 tiktok 上记录这个睡眠不足、思维混乱的过程，如果有人认为这会引起兴趣的话。    提交人    /u/RevolutionaryElk4157   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dmds4m/7_apps_in_7_days/</guid>
-      <pubDate>Sun, 23 Jun 2024 04:13:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的新应用程序可供父母购买和出售轻度使用过的婴儿和儿童用品！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dmdn50/my_new_app_for_parents_to_buy_sell_gently_used/</link>
-      <description><![CDATA[大家好，我创建并发布了一款名为 Growr 的新应用，这是一个婴儿和儿童用品市场。 作为一名家长，我亲身体验过孩子们衣服、玩具和装备很快就穿不下了。这对钱包来说很沉重，而且造成了不必要的浪费。这就是我创建 Growr 的原因，这是一个专门用于买卖轻度使用过的婴儿和儿童用品的市场。我的目标是让每个人都能负担得起养育子女的费用，并让养育子女变得更可持续。 它的运作方式很简单 - 作为卖家，您可以列出您的婴儿或儿童物品，然后等待买家与您联系。作为买家，您可以寻找您想要的东西并开始与卖家聊天。这一切都是基于本地的，这也有助于社区建设。 我们正在构建各种功能，如评级系统、付款和交付选项，以便我们更好地支持社区。 您可以在此处找到链接： iPhone：https://apps.apple.com/be/app/growr/id6465306158 Android：https://play.google.com/store/apps/details?id=com.modoo.mothings 查看它们！如果您有任何反馈，请随时联系我们。谢谢！    由   提交  /u/mo-socks   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dmdn50/my_new_app_for_parents_to_buy_sell_gently_used/</guid>
-      <pubDate>Sun, 23 Jun 2024 04:05:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 Slack 中进行 360 度评审</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dmd759/run_360_degree_reviews_in_slack/</link>
-      <description><![CDATA[        提交人    /u/Intelligent-Ad2866   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dmd759/run_360_degree_reviews_in_slack/</guid>
-      <pubDate>Sun, 23 Jun 2024 03:39:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>新频道 - 需要反馈！🎉</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dmcmo6/new_channel_feedback_needed/</link>
-      <description><![CDATA[我的神经多样性视频观看次数刚刚达到 1000 次！🎉 我很乐意听取您的反馈和建议。查看并加入旅程！🌈 https://www.youtube.com/watch?v=i4eXolr-fPs&amp;t=465s #Neurodiversity #ADHD #Autism #MentalHealthMatters    提交人    /u/craprapsap   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dmcmo6/new_channel_feedback_needed/</guid>
-      <pubDate>Sun, 23 Jun 2024 03:07:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>介绍 Formzero：一款帮助处理表单集合的应用程序</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dmayjw/introducing_formzero_an_app_that_helps_handling/</link>
-      <description><![CDATA[大家好， 我很高兴向您介绍 Formzero：一个帮助您通过表单收集和管理潜在客户的网站，这些表单要么由平台构建器创建，要么集成到现有表单中。我们目前正在开发每个表单响应的协作功能，其中包括评论和标记。 我希望得到您的反馈，以及您认为有价值的任何功能。 很高兴收到您的来信。    提交人    /u/mquadrant   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dmayjw/introducing_formzero_an_app_that_helps_handling/</guid>
-      <pubDate>Sun, 23 Jun 2024 01:32:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个小工具来帮助 .NET 开发人员自动填写注册表单</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dmat25/i_made_a_little_tool_to_help_net_devs_autofill/</link>
-      <description><![CDATA[      https://preview.redd.it/24ffoomp888d1.png?width=1280&amp;format=png&amp;auto=webp&amp;s=8e9696b4ce6e21c238c5c3dad1ec6e1a2118340b https://chromewebstore.google.com/detail/testviper/ajefimafdlaghmpmlleolkhkdijgcn?hl=en-US&amp;utm_source=ext_sidebar 当学校教我们 .NET 时，我惊讶地发现只需编写很少的代码即可启动并运行 Web 应用。我特别喜欢 Identity Manager 功能，但它要求电子邮件和密码采用特定格式。我发现自己不断地复制和粘贴，浪费了本可以更好地用于开发和学习的时间。这就是我创建 test vipertestviper的原因，如果你也厌倦了重复的工作，那就尝试一下🙏🏼    提交人    /u/Critical-Catch-7605   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dmat25/i_made_a_little_tool_to_help_net_devs_autofill/</guid>
-      <pubDate>Sun, 23 Jun 2024 01:24:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了 bestvaluecpu.com 来帮助你找到最物有所值的 CPU</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dm9wph/i_built_bestvaluecpucom_to_help_you_find_the_best/</link>
-      <description><![CDATA[        由    /u/Similar-Silver8843   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dm9wph/i_built_bestvaluecpucom_to_help_you_find_the_best/</guid>
-      <pubDate>Sun, 23 Jun 2024 00:36:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>Loop：根据您的兴趣、动机等量身定制的电子邮件通讯</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dm8b38/loop_email_newsletter_tailored_toward_ur/</link>
-      <description><![CDATA[Loop 是一封每日电子邮件，其中包含来自各种媒体/来源（Youtube、arxiv、播客等）的相关内容，内容涉及您感兴趣的内容。 只需输入电子邮件、主题、您希望发送电子邮件的时间以及您对该主题感兴趣的原因，然后一切就绪！ 任何建议/批评都很棒！此外，如果有人想在我完成 mvp 后尝试一下，请告诉我！ 这也是夜间和周末 s5 的一部分，所以如果这里有人这样做，请随时联系。    提交人    /u/Secret-Bench-4914   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dm8b38/loop_email_newsletter_tailored_toward_ur/</guid>
-      <pubDate>Sat, 22 Jun 2024 23:15:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>来自印度偏远村庄的个体经营者通过 SaaS - Feather.so 每月赚取 1 万美元</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dm7fj2/this_solopreneur_from_a_remote_indian_village/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dm7fj2/this_solopreneur_from_a_remote_indian_village/</guid>
-      <pubDate>Sat, 22 Jun 2024 22:33:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们厌倦了官僚主义，所以我们建立了一个开源仓库来收集最好的指南</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dm6c8v/we_were_tired_of_bureaucracy_so_we_built_an/</link>
-      <description><![CDATA[今天，我们推出了 Tramitit(.)com，这是一个共享数据库，可以帮助以更简单的方式完成所有用户体验较差的本地程序！  工作原理：社区提供您可能遇到的每个可能的官僚程序的详细演练。 由社区为社区：本网站上的内容由社区策划、验证和评级。 欢迎可以帮助我们的用户的提供商：尽管我们的指南尽可能简单，但用户可能仍然更喜欢将任务委托给精心策划的提供商。  我们有点像是先有鸡还是先有蛋的问题：为了让流量回升并拥有贡献者，我们需要从添加一些内容开始 - 其中一些我们已经完成并修复了，其他的还没有。我们会随着时间的推移实现这一目标，并与可以提高质量的提供商合作！ 期待您的反馈！    提交人    /u/rbatista191   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dm6c8v/we_were_tired_of_bureaucracy_so_we_built_an/</guid>
-      <pubDate>Sat, 22 Jun 2024 21:41:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
