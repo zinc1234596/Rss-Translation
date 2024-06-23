@@ -4,7 +4,49 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Sat, 22 Jun 2024 21:12:20 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Jun 2024 01:02:17 GMT</lastBuildDate>
+    <item>
+      <title>刚刚构建了一个可以完美转录和格式化您的音频的 Al 应用程序！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dm9yjq/just_built_an_al_app_that_transcribes_and_formats/</link>
+      <description><![CDATA[      它仍处于开发阶段。欢迎提供反馈。 对于任何感兴趣的人：http://voxscribe-ai.vercel.app    提交人    /u/No-Conference-8133   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dm9yjq/just_built_an_al_app_that_transcribes_and_formats/</guid>
+      <pubDate>Sun, 23 Jun 2024 00:39:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了 bestvaluecpu.com 来帮助你找到最物有所值的 CPU</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dm9wph/i_built_bestvaluecpucom_to_help_you_find_the_best/</link>
+      <description><![CDATA[        由    /u/Similar-Silver8843   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dm9wph/i_built_bestvaluecpucom_to_help_you_find_the_best/</guid>
+      <pubDate>Sun, 23 Jun 2024 00:36:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Loop：根据您的兴趣、动机等量身定制的电子邮件通讯</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dm8b38/loop_email_newsletter_tailored_toward_ur/</link>
+      <description><![CDATA[Loop 是一封每日电子邮件，其中包含来自各种媒体/来源（Youtube、arxiv、播客等）的相关内容，内容涉及您感兴趣的内容。 只需输入电子邮件、主题、您希望发送电子邮件的时间以及您对该主题感兴趣的原因，然后一切就绪！ 任何建议/批评都很棒！此外，如果有人想在我完成 mvp 后尝试一下，请告诉我！ 这也是夜间和周末 s5 的一部分，所以如果这里有人这样做，请随时联系。    提交人    /u/Secret-Bench-4914   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dm8b38/loop_email_newsletter_tailored_toward_ur/</guid>
+      <pubDate>Sat, 22 Jun 2024 23:15:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>来自印度偏远村庄的个体经营者通过 SaaS - Feather.so 每月赚取 1 万美元</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dm7fj2/this_solopreneur_from_a_remote_indian_village/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dm7fj2/this_solopreneur_from_a_remote_indian_village/</guid>
+      <pubDate>Sat, 22 Jun 2024 22:33:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们厌倦了官僚主义，所以我们建立了一个开源仓库来收集最好的指南</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dm6c8v/we_were_tired_of_bureaucracy_so_we_built_an/</link>
+      <description><![CDATA[今天，我们推出了 Tramitit(.)com，这是一个共享数据库，可以帮助以更简单的方式完成所有用户体验较差的本地程序！  工作原理：社区提供您可能遇到的每个可能的官僚程序的详细演练。 由社区为社区：本网站上的内容由社区策划、验证和评级。 欢迎可以帮助我们的用户的提供商：尽管我们的指南尽可能简单，但用户可能仍然更喜欢将任务委托给精心策划的提供商。  我们有点像是先有鸡还是先有蛋的问题：为了让流量回升并拥有贡献者，我们需要从添加一些内容开始 - 其中一些我们已经完成并修复了，其他的还没有。我们会随着时间的推移实现这一目标，并与可以提高质量的提供商合作！ 期待您的反馈！    提交人    /u/rbatista191   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dm6c8v/we_were_tired_of_bureaucracy_so_we_built_an/</guid>
+      <pubDate>Sat, 22 Jun 2024 21:41:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>我为自由职业者制作了一个发票管理器</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dm5qb2/i_made_an_invoice_manager_for_freelancer/</link>
+      <description><![CDATA[大家好， 这是我的一个业余项目，我已经为此工作了 100 多个小时，它基本上是一个发票生成器。一开始，我在其他项目中非常需要它，我想要一些定制的、不太贵的东西，不幸的是，我没有找到足够“漂亮”的东西。 它的构建方式是，免费版保留并存储浏览器中的所有内容，因此它 100% 注重隐私，不会共享任何个人数据。还有一个专业版，您可以在其中更编程地使用它，您将能够使用 REST API 或 Webhook 来创建和检索每张发票的 PDF，或者通过 Woocommerce 或 Shopify 生成它们。 该应用支持法语、英语、波兰语、韩语和西班牙语，目前只有一个主题，但您可以轻松修改颜色主题（将来会有更多） 免费版本目前支持：  税收计算，将您的百分比输入设置中，发票将自动计算一切。净价 / 毛价。 产品项目 &amp;描述管理， 每个产品税（更改一种产品税） 折扣代码（百分比或固定） 运费 设置送货地址 打印或下载发票， 设置自定义徽标 自定义发票编号  至于专业版，我已经拥有：  shopify webhook 生成器，您可以在购买时轻松将其集成到您的系统中 从任何系统生成，因为您可以生成 API 密钥并将其直接与 REST API 集成。   我的计划是进一步研究它以在 UX 中拥有更多的控制权（目前主要关注的是后端），我想构建客户管理等功能或未付发票的电子邮件提醒。  这是一个非常有趣的项目！完全使用 Vue、Nuxt.js、TailwindCSS 构建。Nitro 作为后端，配备 Supabase，Kinde 用于 Auth。 https://invoices.mountain-web-studio.com/    提交人    /u/TheDarmaInitiative   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dm5qb2/i_made_an_invoice_manager_for_freelancer/</guid>
+      <pubDate>Sat, 22 Jun 2024 21:13:22 GMT</pubDate>
+    </item>
     <item>
       <title>我开发了一款财务管理应用，可以和人工智能对话</title>
       <link>https://www.reddit.com/r/SideProject/comments/1dm5o8c/i_built_a_finance_management_app_with_an_ai_i_can/</link>
@@ -67,48 +109,6 @@
       <description><![CDATA[介绍 Next js AI 工具布局 💫✨  GitHub 存储库（链接在末尾） 背景 旅程开始时，我总是觉得与其他 AI 应用程序相比，我无法为我的应用程序创建好看的专业仪表板。 所以我想为什么不构建一个高质量的 Next JS AI 布局并与大家分享。 功能  带有导航外壳的应用程序路由器布局 高质量侧边栏（编辑名称+图标） 使用 Shadcn 主题并快速更改外观  好处  模块化组件和基本组件，选择您需要的  注意这是一个项目的结构/布局脚手架。这是一个仅供查看的 UI 布局。 我希望它能够帮助您在更短的时间内构建出外观专业、可呈现的 AI 应用程序。 以下是承诺的 Next js AI 工具布局 repo 的链接： https://github.com/soulbliss/next-js-ai-tool-layout-1 祝您旅途愉快，好运连连！    提交人    /u/deep_ak   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1dm0uph/ai_saas_app_next_js_layout_template_copy_paste/</guid>
       <pubDate>Sat, 22 Jun 2024 17:29:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>我正在写一本书来简化学习 Hugo 静态站点生成器</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dm0imp/im_writing_a_book_to_simplify_learning_hugo/</link>
-      <description><![CDATA[大家好， 我正在写一本名为《简化版 Hugo》的书，帮助初学者学习 Hugo，帮助中级用户练习相关知识。 如果您曾经尝试自学 Hugo，那么您可能遇到问题或不明白如何使用它，如果是，那么这本书适合您。如果您有兴趣，我将在此处留下候补名单页面： https://berkaycubuk.com/simplified-hugo/ 谢谢。    提交人    /u/berkaycubuk   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dm0imp/im_writing_a_book_to_simplify_learning_hugo/</guid>
-      <pubDate>Sat, 22 Jun 2024 17:14:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>（当然）外出移动应用程序——有意义吗？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dlzn6q/of_course_mobile_app_for_going_out_makes_sense/</link>
-      <description><![CDATA[嘿，几个月前我发布了我的移动应用程序，我想学习 React Native，并有一个带有事件地图的产品，用于从各种来源出发并允许其他人创建这样的应用程序。 该应用程序可在https://tamotam.com（使用 Vercel&#39;e v0 的 AI 生成网站）上获得，代码是开源的https://github.com/tamotam-com/tamotam-app 你们认为继续开发它有意义吗？到目前为止，它已经有几百次下载，有点想知道它是否仍然有意义，即使开发人员对这个项目在 2 份新闻通讯中被推荐非常感兴趣 &amp; Reddit 上获得了相当多的赞成票（GitHub repo 中的所有链接）。 我学到了很多东西，集成了超酷的集成，但看到流量不足，我想我会专注于创建在 GitHub 上拥有活跃、贡献社区的课程，Discord 上有大约 1000 人，对于在线课程（目前质量较低/非常简单 - 市场验证），已经产生了一些“400-600 美元”/月并且在开源模式下运行良好 - https://github.com/Ditectrev    提交人    /u/Ditectrev   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dlzn6q/of_course_mobile_app_for_going_out_makes_sense/</guid>
-      <pubDate>Sat, 22 Jun 2024 16:35:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们创建了名为Slipe的社交媒体</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dlzmmp/we_are_made_social_media_named_slipe/</link>
-      <description><![CDATA[大家好！ 我和朋友六个月前决定开始创建一个社交网络，这个想法是我提出的，但我的朋友能够对其进行改进。 我们社交网络的全部意义在于，您无需访问用户个人资料即可查看用户的所有帖子。您只需向右滑动，或者在设置中启用倾斜滑动，然后通过倾斜手机来滑动帖子即可。 我们已经进行了封闭 Beta 测试，应用预计将在未来两周内在 Google Play 上发布。 我们的登陆点：https://slipe.space 顺便说一句，我们对您对我们的应用及其设计的看法很感兴趣。 https://reddit.com/link/1dlzmmp/video/yoyvpolsh58d1/player    提交人    /u/mrpip64   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dlzmmp/we_are_made_social_media_named_slipe/</guid>
-      <pubDate>Sat, 22 Jun 2024 16:34:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>为自己创建了一个微工具，以加快 iOS 应用的初步市场调研。我应该公开它吗？（Loom 视频上的演示）</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dlyq81/created_a_micro_tool_for_myself_to_speed_up/</link>
-      <description><![CDATA[    /u/funky_smuggler   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dlyq81/created_a_micro_tool_for_myself_to_speed_up/</guid>
-      <pubDate>Sat, 22 Jun 2024 15:52:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 Product Hunt 上推出 Scriptu.io - 寻求您的反馈！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dlyj1b/launching_scriptuio_on_product_hunt_seeking_your/</link>
-      <description><![CDATA[经过数月的辛勤工作，我很高兴地告诉大家，我的项目 Scriptu.io 将于本周一在 Product Hunt 上发布！🎉 Scriptu 是一个人工智能平台，旨在通过帮助您轻松生成、优化和安排帖子来增强 LinkedIn 参与度。它非常适合内容创建者、营销人员和希望改善其 LinkedIn 策略的机构。 📅 发布日期：周一 🔗 在此处查看：Scriptu.io 在 Product Hunt 上 我很乐意听到您的反馈和想法，以便让它变得更好。您的见解非常有价值。非常感谢您的支持！ 🚀 非常感谢 佩德罗    由   提交  /u/Independent-Turnip23   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dlyj1b/launching_scriptuio_on_product_hunt_seeking_your/</guid>
-      <pubDate>Sat, 22 Jun 2024 15:43:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>quadra.day 推出 Spaces</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dlyf2m/introducing_spaces_from_quadraday/</link>
-      <description><![CDATA[您好 r/SideProject ， 我是 quadra 的 Antonio，我来向您介绍 Spaces。 quadra.day 是一个可以漂亮地组织您的任务和笔记的地方。任务和笔记属于您，即使您处于离线状态，也可以查看它们。 使用 Spaces，您可以添加链接、任务、使其加粗、斜体，并保存以便稍后查看。 只需创建一个帐户，即可享受您的笔记和笔记任务。 让我知道你们的想法！    提交人    /u/acfilho77   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dlyf2m/introducing_spaces_from_quadraday/</guid>
-      <pubDate>Sat, 22 Jun 2024 15:38:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
