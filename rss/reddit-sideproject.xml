@@ -4,7 +4,42 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Tue, 25 Jun 2024 03:14:33 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Jun 2024 06:18:29 GMT</lastBuildDate>
+    <item>
+      <title>关于试用/评估期和免费套餐的想法</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dnxgep/thoughts_around_trialsevaluation_periods_and_free/</link>
+      <description><![CDATA[您如何确定是否提供试用等服务？ 对于我的工具将要使用的 B2B 领域，我已经与一些潜在客户进行了确认，并表示他们需要某种试用，因为做出购买决定的人可能不愿意在没有试用的情况下付款，因此我正在考虑在注册时提供试用期，该试用期将在 X 天后到期。 这对您有用吗？您如何通过试用来验证工具的价值？我对 B2C 体验不感兴趣，因为他们不是我的目标市场。 一般的想法是，如果我走长期试用或免费套餐路线，我将限制允许他们通过的量，而付费套餐将增加限制，直到基本上不受限制的专业套餐。    提交人    /u/ReachingForVega   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dnxgep/thoughts_around_trialsevaluation_periods_and_free/</guid>
+      <pubDate>Tue, 25 Jun 2024 04:27:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>着陆页反馈</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dnx57e/landing_page_feedback/</link>
+      <description><![CDATA[大家好，我正在和一个朋友一起做一个非常随机的业余项目。这个网站可以帮助用户为他们创建的内容生成字幕、翻译等，他们还可以使用自定义样式编辑带有字幕的视频（就像那些 tiktoks）。我的网站面向业余内容创作者，而不是大型专业创作者，因为我非常怀疑他们需要这样的自动化。 我的 MVP 工作仍在进行中，但我希望有人能给我一些关于我的登陆页面副本的指点。https://www.vidoren.com/    提交人    /u/Siddharth1India   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dnx57e/landing_page_feedback/</guid>
+      <pubDate>Tue, 25 Jun 2024 04:09:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>吐槽我的代理网站</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dnx1li/roast_my_agency_site/</link>
+      <description><![CDATA[大家好，我最近改版了我的代理网站 Mossoai，我们在那里构建 SaaS MVP。我想知道你们对此的看法。    提交人    /u/Fun_Truth6158   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dnx1li/roast_my_agency_site/</guid>
+      <pubDate>Tue, 25 Jun 2024 04:03:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>你们在哪里雇佣远程开发人员来构建 MVP？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dnwxdb/where_do_you_guys_hire_your_remote_devs_to_build/</link>
+      <description><![CDATA[  由    /u/BuffaloOwn2649  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dnwxdb/where_do_you_guys_hire_your_remote_devs_to_build/</guid>
+      <pubDate>Tue, 25 Jun 2024 03:57:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>我构建了一个 chrome 扩展程序，用于将 Notion 页面导出为卡片 -- Notion Exporter</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dnwkk6/i_build_a_chrome_extension_to_export_notion_page/</link>
+      <description><![CDATA[      大家好，我的工作要求我经常在X、Facebook 和 LinkedIn 上发帖，但是这些平台上的编辑体验不一致。例如，X 上的推文不能太长，而且我经常需要多次编辑我的内容才能将其发布到多个平台上。  我通常用 Notion 写内容，一直在寻找一个工具来帮助我在社交媒体上分享 Notion 内容，但一直没找到。因此，我创建了一个浏览器扩展，允许将 Notion 内容导出为卡片，非常方便上传到各个社交媒体平台。 有人需要吗？欢迎给我你的反馈！ Notion Exporter   由    /u/luosen08  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dnwkk6/i_build_a_chrome_extension_to_export_notion_page/</guid>
+      <pubDate>Tue, 25 Jun 2024 03:37:55 GMT</pubDate>
+    </item>
     <item>
       <title>为独立音乐艺术家打造一体化仪表板+人工智能工具</title>
       <link>https://www.reddit.com/r/SideProject/comments/1dnvnqs/building_an_allinone_dashboardai_tool_for/</link>
@@ -74,41 +109,6 @@
       <description><![CDATA[好吧，我目前正在做一个相当大的项目（个人）。 我已经工作了 4-5 个月，每天平均工作 8-12 个小时。天哪，这很快就让人应接不暇了。 我是一名设计师、翻译、校对员（ChatGPT）、前端和后端开发人员，从事 DevOps，很快就要成为一个小型志愿者 beta 测试小组的“经理”和招聘人员。之后，我将不得不处理广告活动（计划、执行）、社交媒体经理（如果（希望）成功的话），然后担任会计师、首席执行官、投资者和许多其他角色…… 我的工作与生活平衡远非我所说的“健康”。当我试图休息一段时间时 - 感觉那段时间被浪费了，我本可以工作。我睡觉的唯一原因是 - 这样我就可以刷新我的大脑并做更多的工作。 那么是的...你们是如何保持理智的？你有什么建议吗？或者你们都像我一样疯狂？    提交人    /u/spurkle   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1dnpy72/how_do_you_keep_sane/</guid>
       <pubDate>Mon, 24 Jun 2024 22:10:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>您会在哪里实施交互式音频技术来降低成本并加快流程？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dnpjp4/where_would_you_implement_an_interactive_audio/</link>
-      <description><![CDATA[我们开发了一个平台，创作者可以上传 pdf 格式的书面内容，这些内容将被转换为高质量的音频内容，听众可以实时互动，并且响应非常即时。它知道你在读哪一行，所以用户可以直接提问，而无需指定任何上下文。我们称之为“converse-books”。 我们认为它会在不同方面帮助人们，他们需要实时帮助特定创作者的内容。例如，在烹饪一位独家厨师的食谱时，这位厨师已经把它上传到了我们的平台上。用户可以提出问题，寻找食材的替代品，只需说“我没有这个”，“converse-book”就知道你在哪里卡住了。它还将为创作者提供一个新平台。 但现在我在想它是否真的有用，或者我是否太偏颇了，以至于我在开发一些根本不需要的东西。  请就此提出一些建议。即使您认为这个市场很难占领，也请提出一个利基市场，该技术将解决实际问题，并真正降低成本或节省时间，以便人们愿意付费。     提交人    /u/Realistic_Job_8277   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dnpjp4/where_would_you_implement_an_interactive_audio/</guid>
-      <pubDate>Mon, 24 Jun 2024 21:54:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>制作了一个工具，可以提取、合并和链接来自多个 SEC 文件的每个表格</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dnpaqs/made_a_tool_that_extracts_combines_and_links/</link>
-      <description><![CDATA[        提交人    /u/Gbox4   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dnpaqs/made_a_tool_that_extracts_combines_and_links/</guid>
-      <pubDate>Mon, 24 Jun 2024 21:43:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>学习平台，根据您的学习风格进行个性化设置</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dnoie6/learning_platform_personalized_to_your_learning/</link>
-      <description><![CDATA[这个项目耗费了我无数个夜晚和周末，但我对结果感到很兴奋。请让我和你分享我为什么对此充满热情，因为学习很难，而且不是每个人都能以同样的方式学习。学习很难，因为有些概念很难用语言理解，你需要图像、歌曲或故事来让它们留在你的大脑里。 Ignyt Learning 是一个由人工智能驱动的平台，你可以控制自己的学习方式，它通过图像、交互式示例、歌词、旋律和故事来创建课程计划和细节，以确保您获得最佳体验。    提交人    /u/Rough_Resolve_8798   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dnoie6/learning_platform_personalized_to_your_learning/</guid>
-      <pubDate>Mon, 24 Jun 2024 21:10:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>评价我的写作：让人工智能批评你的笔迹</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dnofm2/rate_my_writing_get_ai_to_critique_your/</link>
-      <description><![CDATA[嗨， 我开发了一个有趣的免费工具，它使用人工智能来分析你的笔迹并提供建设性的反馈，包括改进技巧。它完全免费使用——如果你好奇，就试试吧！ https://www.handwritingocr.com/rate-my-writing 祝你写作愉快！    提交人    /u/mateo999   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dnofm2/rate_my_writing_get_ai_to_critique_your/</guid>
-      <pubDate>Mon, 24 Jun 2024 21:06:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的最新项目是从现有网站创建 html 模板。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dnmtbb/my_latest_project_creates_html_templates_from/</link>
-      <description><![CDATA[这是我第一次向任何人展示我的最新项目 OffTheDom。我一直在开发一个网页理解软件包，这是我第一次尝试将它应用到某些东西上。它目前旨在帮助那些在从头开始创建 UI 时容易陷入困境的开发人员（例如我自己）。要使用它，您需要将 URL 复制到主页上的文本字段中，它应该会输出一个整体的 html 模板来呈现网站，但所有内容所在的占位符除外。 我很好奇这个网站是否可以处理任何数量的流量，但我也希望得到任何反馈。我有一长串的功能希望带到这个网站上，这将有助于我自己的工作流程（例如制作组件和资产），但我想知道从方向上看，这是否也是其他人会感兴趣的东西。让我知道你的想法！     由    /u/waves_are_cool 提交   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dnmtbb/my_latest_project_creates_html_templates_from/</guid>
-      <pubDate>Mon, 24 Jun 2024 19:59:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
