@@ -4,34 +4,20 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Tue, 25 Jun 2024 15:13:50 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Jun 2024 18:18:06 GMT</lastBuildDate>
     <item>
-      <title>资产管理者任务</title>
-      <link>https://www.producthunt.com/posts/asset-manager-quest</link>
+      <title>下班后</title>
+      <link>https://www.producthunt.com/posts/afterhour</link>
       <description><![CDATA[
-成为资产管理人的游戏
+股市超级应用
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/asset-manager-quest</guid>
-      <pubDate>Tue, 25 Jun 2024 06:36:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>故事生活</title>
-      <link>https://www.producthunt.com/posts/storylife</link>
-      <description><![CDATA[
-情侣定制相册
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/storylife</guid>
-      <pubDate>Tue, 25 Jun 2024 02:26:20 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/afterhour</guid>
+      <pubDate>Tue, 25 Jun 2024 06:45:05 GMT</pubDate>
     </item>
     <item>
       <title>新电脑点</title>
@@ -48,6 +34,20 @@
       <pubDate>Tue, 25 Jun 2024 00:34:29 GMT</pubDate>
     </item>
     <item>
+      <title>房地产投资模拟器（测试版）</title>
+      <link>https://www.producthunt.com/posts/real-estate-investing-simulator-beta</link>
+      <description><![CDATA[
+以有趣且零风险的方式学习房地产投资
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/real-estate-investing-simulator-beta</guid>
+      <pubDate>Mon, 24 Jun 2024 20:01:24 GMT</pubDate>
+    </item>
+    <item>
       <title>Notion 网站</title>
       <link>https://www.producthunt.com/posts/notion-sites-2</link>
       <description><![CDATA[
@@ -62,18 +62,32 @@
       <pubDate>Mon, 24 Jun 2024 19:45:39 GMT</pubDate>
     </item>
     <item>
-      <title>因素</title>
-      <link>https://www.producthunt.com/posts/faktor</link>
+      <title>人工智能流</title>
+      <link>https://www.producthunt.com/posts/ai-flow-4</link>
       <description><![CDATA[
-Chrome 缺少 2FA 代码自动完成功能
+连接 AI API
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/faktor</guid>
-      <pubDate>Mon, 24 Jun 2024 14:12:34 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/ai-flow-4</guid>
+      <pubDate>Mon, 24 Jun 2024 19:07:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>mypapers.ai</title>
+      <link>https://www.producthunt.com/posts/mypapers-ai</link>
+      <description><![CDATA[
+可视化日常 LLM 论文
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/mypapers-ai</guid>
+      <pubDate>Mon, 24 Jun 2024 15:51:09 GMT</pubDate>
     </item>
     <item>
       <title>猪拉丁语翻译器</title>
@@ -104,46 +118,32 @@ Chrome 缺少 2FA 代码自动完成功能
       <pubDate>Mon, 24 Jun 2024 10:17:03 GMT</pubDate>
     </item>
     <item>
-      <title>演示Dazzle</title>
-      <link>https://www.producthunt.com/posts/demodazzle</link>
+      <title>代码菜单</title>
+      <link>https://www.producthunt.com/posts/codemenu</link>
       <description><![CDATA[
-AI 驱动的演示，类似人类的交互
+片段管理器重新发明
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/demodazzle</guid>
-      <pubDate>Mon, 24 Jun 2024 10:12:03 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/codemenu</guid>
+      <pubDate>Fri, 21 Jun 2024 11:08:23 GMT</pubDate>
     </item>
     <item>
-      <title>有孩子的寄宿家庭</title>
-      <link>https://www.producthunt.com/posts/homestays-with-kids</link>
+      <title>臭氧</title>
+      <link>https://www.producthunt.com/posts/ozone-3</link>
       <description><![CDATA[
-结识志同道合的家庭并入住他们的住所
+使用 AI 在几秒钟内编辑视频
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/homestays-with-kids</guid>
-      <pubDate>Fri, 21 Jun 2024 09:55:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>质量展台</title>
-      <link>https://www.producthunt.com/posts/qualibooth</link>
-      <description><![CDATA[
-首屈一指的网页无障碍解决方案
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/qualibooth</guid>
-      <pubDate>Thu, 20 Jun 2024 09:12:45 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/ozone-3</guid>
+      <pubDate>Wed, 19 Jun 2024 00:47:36 GMT</pubDate>
     </item>
     <item>
       <title>Pixelmost - 使用 AI 制作应用程序模型</title>
