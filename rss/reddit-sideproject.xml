@@ -4,7 +4,28 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Tue, 25 Jun 2024 00:58:38 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Jun 2024 03:14:33 GMT</lastBuildDate>
+    <item>
+      <title>为独立音乐艺术家打造一体化仪表板+人工智能工具</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dnvnqs/building_an_allinone_dashboardai_tool_for/</link>
+      <description><![CDATA[这是根据我从未来用户那里收到的反馈之一采取的行动，能够随时随地在他们的手机上安装 Musuni 应用程序，因为我最初将其构建为桌面应用程序。 Musuni 是一个专为独立音乐艺术家设计的综合平台，提供流媒体数据、社交媒体分析和个性化音乐管理 AI 团队的无缝集成。 这是一个快速演练，有关具有代理工作流程的音乐管理 AI 团队的新更新，以及如何添加我的艺术家数据。 如果您还没有，请确保在musuni.io上注册候补名单 谢谢，请继续提供反馈。 https://www.youtube.com/watch?v=XKnSaTSiGeA    由    /u/gryot  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dnvnqs/building_an_allinone_dashboardai_tool_for/</guid>
+      <pubDate>Tue, 25 Jun 2024 02:49:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>MVP 反馈</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dnvgt2/mvp_feedback/</link>
+      <description><![CDATA[      大家好，我正在开发一款新产品，它是更广泛的卫生健身产品系列的一部分：一块小型吸水垫和人字拖，供您淋浴后更换。它让您的双脚远离脏地板，比纸巾更卫生，比在一只人字拖上保持平衡更容易。有什么想法吗？请告诉我您是否会使用它！我们还认为这对孩子们很有用。 这是我的网站：https://bareandbreezy.com/ 感谢您的反馈。 https://preview.redd.it/imt9i6extm8d1.png?width=646&amp;format=png&amp;auto=webp&amp;s=ee1634508b2d4b5d07a24081ee45a058385a5996    提交人    /u/SeaBrilliant1123   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dnvgt2/mvp_feedback/</guid>
+      <pubDate>Tue, 25 Jun 2024 02:38:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>你好！我创建了一个 QRCode 生成器。免费使用！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dnuf9v/hi_therei_have_created_a_qrcode_generator_free_to/</link>
+      <description><![CDATA[您可以在此处使用它：qrcode.landcreator.top 期待您的评论。    由   提交  /u/hastersun   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dnuf9v/hi_therei_have_created_a_qrcode_generator_free_to/</guid>
+      <pubDate>Tue, 25 Jun 2024 01:44:12 GMT</pubDate>
+    </item>
     <item>
       <title>我是不是唯一一个收件箱里塞满了我从未阅读但从未取消订阅的新闻通讯的人？我为我们建立了这个</title>
       <link>https://www.reddit.com/r/SideProject/comments/1dntd7b/am_i_the_only_one_with_an_inbox_full_of/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[这是我第一次向任何人展示我的最新项目 OffTheDom。我一直在开发一个网页理解软件包，这是我第一次尝试将它应用到某些东西上。它目前旨在帮助那些在从头开始创建 UI 时容易陷入困境的开发人员（例如我自己）。要使用它，您需要将 URL 复制到主页上的文本字段中，它应该会输出一个整体的 html 模板来呈现网站，但所有内容所在的占位符除外。 我很好奇这个网站是否可以处理任何数量的流量，但我也希望得到任何反馈。我有一长串的功能希望带到这个网站上，这将有助于我自己的工作流程（例如制作组件和资产），但我想知道从方向上看，这是否也是其他人会感兴趣的东西。让我知道你的想法！     由    /u/waves_are_cool 提交   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1dnmtbb/my_latest_project_creates_html_templates_from/</guid>
       <pubDate>Mon, 24 Jun 2024 19:59:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个简单且免费的路线图创建器</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dnlhsc/i_made_a_simple_free_roadmap_creator/</link>
-      <description><![CDATA[      您可以创建和分享您的路线图，非常适合副项目👉🏻 https://roadma.app    由   提交  /u/NoSecretary2996   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dnlhsc/i_made_a_simple_free_roadmap_creator/</guid>
-      <pubDate>Mon, 24 Jun 2024 19:05:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>今天发布了我的 Web 应用的测试版</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dnkkhq/launched_my_webapps_beta_version_today/</link>
-      <description><![CDATA[我推出了 GABCAN，它可以根据您的提示将您与其他人进行匹配，以进行头脑风暴、获得指导或只是通过一对一的音频/视频会议与同伴联系和聊天。 人工智能可以非常准确地将您与其他人进行匹配。我也进行了一些注册，准确地说是 11 个。但问题是，每个人在不同的时间使用该应用程序并发现它是一片沙漠，没有人可以匹配。 我也得到了一些非常好的反馈。但我真的需要进入一个相当大的池子才能让他们互相匹配。    提交人    /u/Distinct-Inside-355   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dnkkhq/launched_my_webapps_beta_version_today/</guid>
-      <pubDate>Mon, 24 Jun 2024 18:26:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>自带 API 密钥：在浏览器扩展中支持用户提供的 OpenAI 密钥和提示</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dnkemz/bring_your_own_api_key_supporting_userprovided/</link>
-      <description><![CDATA[  由    /u/siegerts  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dnkemz/bring_your_own_api_key_supporting_userprovided/</guid>
-      <pubDate>Mon, 24 Jun 2024 18:19:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
