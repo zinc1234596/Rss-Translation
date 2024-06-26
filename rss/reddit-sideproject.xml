@@ -4,7 +4,77 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Wed, 26 Jun 2024 18:16:53 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jun 2024 21:14:01 GMT</lastBuildDate>
+    <item>
+      <title>刚刚推出 SpeedyInvoicer – 一款生成发票的简单工具！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dp8xlm/just_launched_speedyinvoicer_a_simple_tool_for/</link>
+      <description><![CDATA[嗨 Redditors， 我很高兴地告诉大家，我刚刚发布了一款名为 SpeedyInvoicer 的全新网络应用！作为一名自由职业者，我一直在为繁琐的开票流程而苦恼，我想创建一款让这项任务尽可能简单直接的应用。 我创建 SpeedyInvoicer 的原因 这个想法是在我特别紧张的时期产生的，当时我被发票淹没，努力跟踪所有事情。我意识到必须有一种更好的方法 - 一种专注于生成发票的工具，没有所有使事情复杂化的额外功能。这就是 SpeedyInvoicer 诞生的原因。 SpeedyInvoicer 的功能： 快速生成专业发票：只需单击几下即可创建和发送发票。消除不必要的功能：一切都是为了让发票保持简单和高效。基于 Web 的访问：可在任何设备、任何地点、任何时间使用它。 我的旅程： 创建 SpeedyInvoicer 是一段不可思议的旅程。从集思广益到深夜编码，每一步都是由为自己和其他像我一样的人解决实际问题的愿望所驱动。现在，我很高兴与社区分享它。 更好开具发票的快速提示： 保持专业：始终包含您的公司名称、联系信息和清晰的服务细目。 设置明确的付款条件：指定到期日和付款方式以避免任何混淆。 及时跟进：如果付款逾期，请毫不犹豫地发送友好提醒。如果您正在寻找一种简单的方式来处理发票，请尝试使用 SpeedyInvoicer。  我很乐意听到您的反馈。 请访问 SpeedyInvoicer.com。 感谢您的阅读，欢迎在评论中分享您的发票技巧和经验。让我们互相帮助，让商业生活变得更轻松！    提交人    /u/Old_Activity9411   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dp8xlm/just_launched_speedyinvoicer_a_simple_tool_for/</guid>
+      <pubDate>Wed, 26 Jun 2024 20:39:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个人工智能礼宾服务，可以更轻松地搜索和预订纽约的餐厅</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dp8mjy/i_made_an_ai_concierge_that_makes_it_easier_to/</link>
+      <description><![CDATA[在纽约，每当我想和朋友一起吃饭时，我最终都需要提前很久计划（有时是几周）。这需要很多来回的努力。总会有一个人最终采取主动并实现这一目标。我觉得最近我见朋友的次数越来越少，因为总有人不主动。 :( 根据我的经验，有很多原因会导致这种情况发生：  许多时尚餐厅都被 Resy 机器人和市场预订一空 你必须考虑每个人的偏好，而且很难根据实际可用的内容搜索这些偏好、评分等。你必须使用谷歌地图评分和有关餐厅的信息以及 Resy 来查找可用性，但谷歌地图并不能使所有其他搜索变得简单（例如：允许携带狗） 人们在群聊中并不总是反应迅速 - 有没有遇到过这样的情况：一个朋友问你是否想出去玩，每个人都说是的，但没有人进一步询问？当然，每个人都很忙  所以我入侵了一个“AI 礼宾”工具。下面是它的工作原理：  你可以发送一个电话号码（由 Twilio 提供支持），并告诉它你的任何要求餐厅 - 街区、菜系、日期和人数，以及其他一些偏好，如户外座位、停车位、是否允许携带宠物 这项服务由 Gemini 提供支持，它将使用您的搜索条件来解析 Resy 和 Google。这些数据不会在其他任何地方使用，只会在 Gemini 中使用 “AI 礼宾”可以为您进行预订，或者以可视格式显示可用的内容，并提供唯一链接，您可以点击进入 Resy 自行进行预订 您可以轻松地与朋友分享链接！  如果您想尝试一下：  只需发送短信至此号码（如果 Reddit 允许我发布）：+1 (833) 476-1344 如果您想要了解未来改进的更新，也可以加入我们的列表推出： https://forms.gle/vSUHgjwWbbHDPkCF6  一些重要注意事项：此功能目前仅在纽约有效，并且仅在与号码进行 1:1 聊天时有效。如果人们发现这很有用，我对下一步有很多想法，包括添加群发短信、收集每个人的空闲情况和理想位置的方法等。 如果您尝试了，请告诉我您的想法！    提交人    /u/Ashamed-Boss-6506   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dp8mjy/i_made_an_ai_concierge_that_makes_it_easier_to/</guid>
+      <pubDate>Wed, 26 Jun 2024 20:26:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>我构建了一个更加以内容为主导的产品搜索替代方案。boostedlaunch.com</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dp8e04/i_built_a_more_content_driven_alternative_to/</link>
+      <description><![CDATA[        提交人    /u/FreeBeing6867   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dp8e04/i_built_a_more_content_driven_alternative_to/</guid>
+      <pubDate>Wed, 26 Jun 2024 20:16:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>这个人通过销售概念模板每月赚 2 万美元，以下是您可以通过任何在线业务做到这一点的方法</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dp7z7n/this_guy_makes_20kmonth_selling_notion_templates/</link>
+      <description><![CDATA[嗨，我是 Tony。 最近我看到了一条来自 Modest Midkus 的推文。对于那些不熟悉的人，Modest 是一位数字创作者，他拥有一些在线业务，其中一个是关于如何构建数字产品的课程，另一个是销售概念模板。 Modest 每月通过销售这些概念模板赚取约 2 万至 3 万美元。但他是如何做到的呢？ 在推文中，Modest 分享了他过去 2 个月网站的 SEO 统计数据。 他瞄准的关键字是“概念模板”从 4 月 2 日到 6 月 13 日，他获得了该关键字的以下统计信息：  总点击次数：4,275 总展示次数：135,394  因此，基本上每个月大约有 60K+ 人在 Google 上搜索概念模板，其中大约有 2K+ 人每月点击他的网站。 奇怪的是他甚至没有进入 Google 上该关键字的前 10 名！ 那么这意味着什么？ 基本上，Modest 找到了一个每月搜索量很高的关键字，并且他针对该关键字优化了他的网站（因为他在网站的几个关键区域提到了该关键字），从此，他的网站每月都获得了大量流量，他正在将这些流量转化为客户。尽管他在 Google 上的排名还没有进入前 10 名，但这一切都在发生（如果您搜索“notion templates”，他的网站 pathpages.com 大约排在第 14 位）。 您也可以这样做 我发现一些创业想法，您可以定位难度低（意味着很容易在 Google 上排名靠前）和搜索量高（意味着每月都有很多人搜索该关键字）的关键字。 我发现了一个与 Modest 在这里所做的事情非常相似的想法，请告诉我您的想法， 那么这个想法是什么？ Notion 模板市场 “一个为不同行业和用例提供广泛可定制的 Notion 模板的平台。用户可以浏览、购买和下载模板，以增强他们的 Notion 工作区并提高效率。&quot; 我可以定位哪些关键字？  关键字：best notion templates  关键字难度：19 平均搜索量：每月 1000 次  关键字：notion templates aesthetic  关键字难度：24 平均搜索量：每月 1600 次  关键字：notion calendar templates  关键字难度：19 平均搜索量：每月 880 次  关键字：notion journaling templates  关键字难度：22 平均搜索量：每月 720 次   总结是什么 如果您有在线业务的想法并希望获得客户，那么请找到您可以定位的关键字，这些关键字在 Google 中易于排名且搜索量高。Modest 无需过多宣传他的 notion 模板即可自动获得这些客户。谁不想要呢？睡觉时销售总是一件好事！ 您可能会说没问题，但已经有很多 Notion 模板市场。如果您在 Google 上查看，您会看到一些，但这不应该阻止您。仅仅因为某些东西已经存在并不意味着您不会成功。竞争对手是件好事，这就是为什么这 4 个关键词有很高的搜索量，但关键是要知道所有这些关键词的关键词难度都很低，这意味着它们很容易在 Google 上排名靠前，所以这里有很大的潜力。 如果您有兴趣，我每周都会分享这样的创业想法，所以如果您有兴趣，欢迎随时加入我这里。 您是否有一家在线业务，其中使用 SEO 作为严肃的营销渠道？让我知道，很想看看您在做什么。    提交人    /u/jottrled   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dp7z7n/this_guy_makes_20kmonth_selling_notion_templates/</guid>
+      <pubDate>Wed, 26 Jun 2024 19:59:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻求与 ShipFast 类似的潜在 NuxtJS 产品的反馈 - 享受 50% 折扣！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dp730c/seeking_feedback_on_a_potential_nuxtjs_product/</link>
+      <description><![CDATA[大家好， 我正在探索创建类似于 ShipFast 但专门针对 NuxtJS (Vue) 的产品的想法。搜索后，我找不到任何适合这个领域的东西，我很好奇其他人是否有同样的需求。 该产品将提供与 ShipFast 相同的功能，但专为 NuxtJS (Vue) 开发人员量身定制。计划价格为 40 美元，但我想在深入开发之前收集反馈并验证这个想法。 为了让交易更具吸引力，我为前 10 位分享电子邮件并表达兴趣的人提供 50% 的折扣。这样，您就可以支持开发并节省一些钱！ 您觉得怎么样？ NuxtJS（Vue）的 ShipFast 等效产品对您有用吗？ 如果您对折扣感兴趣，请此处留下您的电子邮件！ 感谢您的意见和支持！    提交人    /u/Assouuu   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dp730c/seeking_feedback_on_a_potential_nuxtjs_product/</guid>
+      <pubDate>Wed, 26 Jun 2024 19:22:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Next.js 入门模板</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dp6tp4/nextjs_starter_template/</link>
+      <description><![CDATA[嗨， 我为 next.js 创建了一个入门模板，它还包含 typescript、tailwind、shadcn/ui。我已经在这里写过它了，但我添加了一些新功能，例如：Stripe 和 i18n。 因此，我想征求反馈意见和任何缺失的功能。 如果您喜欢这个项目，请留下一颗星，我将不胜感激。🌟 您也可以为该项目做出贡献。❤️ https://github.com/Skolaczk/next-starter    提交人    /u/Skolaczk   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dp6tp4/nextjs_starter_template/</guid>
+      <pubDate>Wed, 26 Jun 2024 19:12:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了 Yosemite，一款密码恢复应用</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dp6dux/i_made_yosemite_a_password_recovery_app/</link>
+      <description><![CDATA[Yosemite 是 Instagram 的密码恢复应用程序。无需创建新的 Instagram 帐户，只需在 Yosemite 的帮助下恢复您的密码即可。    由   提交  /u/Cryptic09   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dp6dux/i_made_yosemite_a_password_recovery_app/</guid>
+      <pubDate>Wed, 26 Jun 2024 18:54:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mood Catcher - 你的个人情绪追踪器</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dp5yw5/mood_catcher_your_personal_mood_tracker/</link>
+      <description><![CDATA[🌟 使用 Mood Catcher 掌控您的情绪！🌟 了解和管理您的情绪对您的健康至关重要。定期跟踪您的情绪有助于您提高自我意识，识别模式并采取积极措施改善心理健康。这就是我创建 Mood Catcher 的原因。 ✨ Simply Mindful 是您此旅程的完美伴侣。使用我们的应用，您可以： 📝 随时记录您的情绪 📚 创建详细的日记条目 📈 可视化您过去 30 天的情绪进展 🔒 享受安全的身份验证和轻松的密码重置 🎨 自定义您的个人资料 今天就掌控您的情绪健康。访问 https://moodtracker.net 并开始您的心理健康之旅！ 保持正念，保持快乐！💚 心理健康 #MoodTracking #SimplyMindful #SelfCare #Mindfulness #Wellbeing    提交人    /u/Goldiez_Boi   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dp5yw5/mood_catcher_your_personal_mood_tracker/</guid>
+      <pubDate>Wed, 26 Jun 2024 18:36:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>验证你的客户并增加销售额 | 社会证明🧨</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dp5mof/verify_your_customers_and_increase_sales_social/</link>
+      <description><![CDATA[      https://reddit.com/link/1dp5mof/video/qz3l4mcqly8d1/player    由   提交  /u/malamatcaga   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dp5mof/verify_your_customers_and_increase_sales_social/</guid>
+      <pubDate>Wed, 26 Jun 2024 18:22:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ranti：AI 待办事项列表和订阅</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dp5jvt/ranti_ai_todo_list_subscriptions/</link>
+      <description><![CDATA[        提交人    /u/Moy_ore   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dp5jvt/ranti_ai_todo_list_subscriptions/</guid>
+      <pubDate>Wed, 26 Jun 2024 18:19:23 GMT</pubDate>
+    </item>
     <item>
       <title>寻求反馈。创建了一个网络应用程序，用于为社交媒体制作自定义照片和剪辑。</title>
       <link>https://www.reddit.com/r/SideProject/comments/1dp596s/seeking_feedback_created_a_web_app_to_make_custom/</link>
@@ -39,76 +109,6 @@
       <description><![CDATA[我将免费向前 10 个小型独立 SaaS 项目提供 Userscom.com 人工智能客户支持工具的付费计划访问权限！ 为什么免费？ 我希望您的反馈有助于改进我们的产品并了解有关我的工具的更多信息。 评论您的网站网址！ 这仅适用于独立创作者。您必须是一个或两个人的团队！    提交人    /u/pubgupdates   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1dp39z4/giving_away_free_access_to_the_paid_plan_of_my/</guid>
       <pubDate>Wed, 26 Jun 2024 16:44:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>我决定在 YouTube 上记录我的业余项目/创业项目。计划每周发布一篇 🤞 让我知道你们的想法！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dp2wr6/ive_decided_to_document_my_side_project_start_up/</link>
-      <description><![CDATA[        提交人    /u/SSJ2Teen-Gohan   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dp2wr6/ive_decided_to_document_my_side_project_start_up/</guid>
-      <pubDate>Wed, 26 Jun 2024 16:29:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>理解金钱：获得财务自由</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dp28v2/understand_money_to_get_financially_free/</link>
-      <description><![CDATA[没人教我们什么是钱？每个人都只教我们如何赚钱？可悲的是，教育系统也没有教这个。。 我坚信在开始赚钱之前，请先了解什么是钱？它是如何创造的？什么是通货膨胀？在你的银行账户里存钱是唯一的选择吗？ 没有人问这个基本问题。。 但在这里，我开始了名为“解码比特币”的新系列，在其中我讨论了货币是如何运作的。。 在这里加入我的旅程 我正在寻找对我的时事通讯的五条诚实的反馈。全部免费。 再见！ 提前谢谢！   由    /u/LazyBoy502  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dp28v2/understand_money_to_get_financially_free/</guid>
-      <pubDate>Wed, 26 Jun 2024 16:02:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个扩展程序，可让您向 Google 日历添加私人笔记</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dp1uuj/i_made_an_extension_that_lets_you_add_private/</link>
-      <description><![CDATA[      我一直都想在 Google 日历中添加私人笔记。我的整个生活都在 Google 日历中。因此，我组织了一场迷你黑客马拉松，并在上周末完成了它。 希望收到反馈。 :) Chrome 网上应用店中的“Google 日历的私人笔记”。 https://preview.redd.it/h48z1d41tx8d1.png?width=1280&amp;format=png&amp;auto=webp&amp;s=9ee78fe7af652873f543a5a8ee3d689d​​44b216ee    提交人    /u/dimadolgopolovn   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dp1uuj/i_made_an_extension_that_lets_you_add_private/</guid>
-      <pubDate>Wed, 26 Jun 2024 15:47:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个 S3xy 截图编辑器</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dp1jk5/i_made_a_s3xy_screenshot_editor/</link>
-      <description><![CDATA[大家好，我制作了一个截图编辑器，它可以帮助你创建非常好看的图像，然后你可以将其发布在 Twitter 和 LinkedIn 上以获得更多参与度。 请在此处查看：https://www.picyard.in 我使用 nextjs、mongodb、vercel、stripe 来制作这个产品。 最好的是，年度订阅费用仅为 10 美元/年。 我已经研究它一年多了。 让我知道你是否喜欢它。你的反馈对我很重要。    提交人    /u/mediocre_man_online   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dp1jk5/i_made_a_s3xy_screenshot_editor/</guid>
-      <pubDate>Wed, 26 Jun 2024 15:34:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>我正在列出有助于您发展业务的 AI 工具、SAAS 和应用程序。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dp1ecf/im_making_a_list_of_helpful_ai_tools_saas_and/</link>
-      <description><![CDATA[MavTools.com 我们很乐意听到您对此的看法以及您是否认为它有用。  TIA！😊    提交人    /u/HelloItsNavi   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dp1ecf/im_making_a_list_of_helpful_ai_tools_saas_and/</guid>
-      <pubDate>Wed, 26 Jun 2024 15:29:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>推出 Xoru - 无弹出窗口的 URL 缩短器！寻求反馈和成长秘诀</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dp1bai/introducing_xoru_popupfree_url_shortener_seeking/</link>
-      <description><![CDATA[大家好， 我很高兴与大家分享 Xoru，这是我使用真实后端（不是 BASS）的第一个项目！这是一款无弹出窗口的 URL 缩短器，专注于简单性和可靠性。 主要功能：  快速、可靠的 URL 缩短。 详细分析和二维码生成。 完全免费使用，无弹出窗口。  我很乐意听取您对 Xoru 的反馈！您希望添加哪些功能？此外，如果您能提供任何关于如何每月自然增加 200-300 名用户的技巧，我们将不胜感激。 在 xoru.xyz 查看 Xoru，让我们讨论如何让它变得更好！    提交人    /u/Embarrassed_Toe6858   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dp1bai/introducing_xoru_popupfree_url_shortener_seeking/</guid>
-      <pubDate>Wed, 26 Jun 2024 15:25:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>我需要 AI 图像处理方面的帮助</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dp14zd/i_need_assistance_in_my_ai_image_processing/</link>
-      <description><![CDATA[  由    /u/samz_101  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dp14zd/i_need_assistance_in_my_ai_image_processing/</guid>
-      <pubDate>Wed, 26 Jun 2024 15:18:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>我在一天之内构建出了产品搜索替代方案！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dp0ytg/i_built_a_product_hunt_alternative_in_a_day/</link>
-      <description><![CDATA[        提交人    /u/FreeBeing6867   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dp0ytg/i_built_a_product_hunt_alternative_in_a_day/</guid>
-      <pubDate>Wed, 26 Jun 2024 15:11:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>只需发布即可！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dp0rr6/just_post_it/</link>
-      <description><![CDATA[我创办了 Buildspace 的 Nights &amp; Weekends，以便让我在发布有关我的创业公司的帖子时保持责任心，因为这通常让我感到尴尬，而且我可能太在意别人的想法了！ 昨天我发布了我的第一篇 Twitter/X 帖子，它所获得的关注度让我大吃一惊。 到目前为止，它已经获得了 20K+ 的浏览量、100+ 条评论，并为我们带来了 10 多个候补名单注册，而我甚至没有在帖子中宣传（新手错误）。显然，并不是我所有的帖子都会有这种参与度，但它仍然非常有说服力。 无论如何，我只是想发布这个来鼓励那些在社交媒体上发帖感到太紧张的人！    提交人    /u/gabe_herotools   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dp0rr6/just_post_it/</guid>
-      <pubDate>Wed, 26 Jun 2024 15:03:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>汽车运输很糟糕，所以我们着手解决它</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dp0o2m/car_transport_sucks_so_we_set_out_to_fix_it/</link>
-      <description><![CDATA[      大家好！ 我正在为一个新项目集思广益，并意识到一些有趣的事情 - 很多人对运输汽车有很大的恐惧和焦虑。无论您是要搬到新州还是只需要运送汽车，找到安全且实惠的选择都是非常麻烦的。目前大多数服务都很糟糕。 这就是我们创建 Hippo Haul ( hippohaul.com ) 的原因！我们对此感到非常兴奋，并希望听到您的想法。查看网站并让我们知道您对文案和设计的想法。非常感谢你们的反馈，伙计们！ https://preview.redd.it/ytfdfusyjx8d1.png?width=1920&amp;format=png&amp;auto=webp&amp;s=396d42267ee9d606b28a7a155b9955ca75de299f    提交人    /u/hippohaul   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dp0o2m/car_transport_sucks_so_we_set_out_to_fix_it/</guid>
-      <pubDate>Wed, 26 Jun 2024 14:59:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
