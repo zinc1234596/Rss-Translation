@@ -4,7 +4,91 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Thu, 27 Jun 2024 15:16:04 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jun 2024 18:15:59 GMT</lastBuildDate>
+    <item>
+      <title>我使用人工智能为亚马逊制作了一个更好的搜索引擎（更新）</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dpxp7a/i_made_a_better_search_engine_for_amazon_using_ai/</link>
+      <description><![CDATA[我使用人工智能为亚马逊制作了一个更好的搜索引擎。它的工作原理类似于 chatGPT，你告诉它你需要什么产品，它就会去搜索整个亚马逊以寻找候选产品。之后，它会将找到的所有产品与你的要求进行比较，并根据它们与你要求的匹配程度对它们进行排名。 为了增加乐趣，我添加了一个“中国垃圾/直销”检测器，以确保您不会浪费时间寻找无尽的低质量产品。  请在此处查看：https://shopwithai.chat/ 或者在此处查看示例：https://shopwithai.chat/?chat=spsBqrz0Z 一个月前，我在这个 subreddit 上发布了关于此内容的帖子，并收到了你们的大量反馈！我将其中的许多内容合并到当前版本中，并试图使其更加准确和快速！ 我期待收到更多您的反馈。由于这现在越来越受到关注，对于任何有兴趣建立合作伙伴关系或协作的人，请随时在 reddit 上联系我！    提交人    /u/thelibrarian101   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dpxp7a/i_made_a_better_search_engine_for_amazon_using_ai/</guid>
+      <pubDate>Thu, 27 Jun 2024 17:59:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Snapceipt - 将纸质收据转化为消费洞察</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dpxnlj/snapceipt_turn_your_paper_receipts_into_spending/</link>
+      <description><![CDATA[        由    /u/anol1258  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dpxnlj/snapceipt_turn_your_paper_receipts_into_spending/</guid>
+      <pubDate>Thu, 27 Jun 2024 17:57:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>我仅用 24 小时就制作了一个名为 KlickPin 的简单 Web 应用工具！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dpxjhy/i_made_a_simple_web_app_tool_named_klickpin_in/</link>
+      <description><![CDATA[      我很高兴地告诉大家，我在短短 24 小时内就创建了一个名为 KlickPin 的简单 Web 应用工具！ KlickPin 是一个 Pinterest 下载工具，可帮助您以惊人的速度下载 Pinterest 视频、图片和 GIF 文件。其独特功能之一是快速加载页面和快速下载速度。您可以在不到 10 秒的时间内下载 50 MB 大小的视频文件，这比所有现有下载器都要快得多。 该网站基于 WordPress 构建，托管在 DigitalOcean 中，由 Cloudflare 提供支持，并使用 FlyingPress 缓存插件 来实现高速和 99 桌面页面速度得分。该主题是手工制作的，没有使用主题构建器，所有页面都使用自定义模板设计正确添加。 KlickPin 的便捷功能之一是其智能下载页面。它会检测之前输入的 URL 并将您定向到所需的下载器页面。例如，如果您在主页上输入GIF URL，您将进入下载器页面。到达那里后，您可以看到一个按钮，该按钮允许您下载另一个 GIF，从而简化了图像和视频的流程。 我昨天晚上开始了这个网站，并完成了工作进度。最大的优势是高速主题，超级移动响应能力，简洁明了的界面以及比任何其他现有下载器更快的下载速度。我邀请大家尝试一下，并希望听到您衷心的评论和反馈。您的建议将帮助我进一步改进该工具！ 请访问 KlickPin.com 查看！ KlickPin.com    提交人    /u/kAcom24   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dpxjhy/i_made_a_simple_web_app_tool_named_klickpin_in/</guid>
+      <pubDate>Thu, 27 Jun 2024 17:53:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个免费的入门项目，用于构建 AI 语音助手</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dpwkgp/i_made_a_free_starter_project_for_building_ai/</link>
+      <description><![CDATA[过去两周，我一直在致力于开发一个 AI 语音助手的入门项目。部分是为了教育价值，部分是为了与该领域的更多建设者建立联系。  这是一个通过 websockets 进行的简单实现，基于浏览器的语音活动检测，只要您自带 API 密钥，就可以使用现成的模型。 尝试一下，让我知道你的想法！ Repo：https://github.com/charlesyu108/voiceai-js-starter 演示：https://voiceai-js-starter.vercel.app/    提交人    /u/warmsaluter   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dpwkgp/i_made_a_free_starter_project_for_building_ai/</guid>
+      <pubDate>Thu, 27 Jun 2024 17:13:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>概念验证。这种产品有市场吗？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dpw0es/proof_of_concept_is_there_a_market_for_this_kind/</link>
+      <description><![CDATA[        由    /u/rossi1011  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dpw0es/proof_of_concept_is_there_a_market_for_this_kind/</guid>
+      <pubDate>Thu, 27 Jun 2024 16:50:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>我构建了一个工具，使写博客变得更轻松、更快捷、更有趣 - 加入测试版！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dpvvf1/i_built_a_tool_to_make_blogging_easier_faster_and/</link>
+      <description><![CDATA[大家好， 我很高兴邀请您参加我过去几个月一直在研究的博客文章撰写器的独家 Beta 测试。该工具旨在让您的内容创建过程更轻松、更高效，简而言之，它的作用如下：  根据您选择的关键字和目标受众生成标题和大纲。 从 Google 查找顶级来源来支持您的大纲。 根据大纲和来源创建完整的文章。 （没有 AI 的告密词，如 delve、embark、unleash 等。） 允许您在富文本编辑器中编辑内容，以及导出为 markdown 和 HTML。  为什么要参与？  节省时间：在不到 2 分钟的时间内从关键字到内容创建一篇完整的文章。 高质量文章：轻松制作经过充分研究的高质量内容。 独家访问：本次 Beta 测试只有 10 个名额。 个性化支持：我将与每位测试人员进行一对一的合作，帮助您高效使用该工具，节省写作时间并获得更高的排名。 影响力发展：您的反馈将直接塑造该工具的功能和改进，使其他博主、企业家和内容受益创作者。  我专注于一小群可以提供有意义反馈的忠实用户。如果您有兴趣参与，请在下方评论或向我发送 DM。我将提供有关如何获取访问权限的更多详细信息。名额有限，所以不要错过！ 谢谢，我期待与你们中的一些人合作！    提交人    /u/VaussTalks   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dpvvf1/i_built_a_tool_to_make_blogging_easier_faster_and/</guid>
+      <pubDate>Thu, 27 Jun 2024 16:44:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一款网络应用，让创始人在分享故事的同时赚钱</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dpvs1y/i_made_a_web_app_that_lets_founders_earn_money/</link>
+      <description><![CDATA[我每天朝九晚五地在一家拥有 2000 多万客户的实力雄厚的公司担任工程经理。 首先，我想说的是，你不需要为了不确定的事情而辞去收入丰厚的稳定工作。无论你多么坚信，多么想要，或者多么热爱你所做的事情，有一种叫做运气和失败经验的东西可以让你创造出非常伟大的东西。 我用六个月的时间制作了这个应用程序。我每天都在做它，不管我感觉如何，即使在我惊恐发作并去看心理医生的时候。我每天都在做，即使每天只有 15 分钟。 我总是会开始一些项目，然后在一段时间后放弃它们，但这次不同。关键是一致性。 我不知道我是否违反了这个 subreddit 的任何规则，但我希望我没有。那么让我来介绍一下这个产品吧。 它的名字是 Storyhex 一切都很简单。通过成为会员，您可以访问我们的平台，创始人可以在这里与您这样的志同道合的人分享他们的故事。  在这里，您可以使用我们先进的 Notion 类 AI 文本编辑器发布类似于 Medium 上的故事，或者分享您每天的产品成就，这些仅对会员开放。  当您添加新故事并与观众分享时，故事将部分可见。如果有人访问您的故事页面并点击“成为会员”按钮，您将获得 50% 的订阅收入。  此外，如果访问者订阅并继续其会员资格，您只需分享内容即可每月获得经常性收入。 目前，会员价格为每月 19.99 美元，但这仅适用于前 100 名创始人。 此外，您还将获得   类似 AI 文档编辑器的概念（带有 GPT 4） 待办事项列表（是的，我知道 :)） 每日日记框架 目标跟踪系统 背景噪音发生器  我希望这个产品能够成功。但即使没有，我也不会后悔一刻。 我很享受从事这项工作的每一分钟。 我学到了很多东西。 所以我非常需要反馈，如果我可以更改或修复某些内容，请告诉我。 非常感谢。干杯。 这是我的 Twitter：https://x.com/HrachMkr    提交人    /u/hrach_mkr   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dpvs1y/i_made_a_web_app_that_lets_founders_earn_money/</guid>
+      <pubDate>Thu, 27 Jun 2024 16:40:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>创建了一个应用程序来分享和阅读简短的文摘、文章和博客</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dpv0v1/created_an_app_to_share_read_short_digest/</link>
+      <description><![CDATA[      嗨， 我创建了一个应用程序，您可以在其中阅读和与他人分享任何信息丰富或有趣的精彩简短摘要和博客或新闻或文章。获得赞成和喜欢  希望大家喜欢。  Https://thin.maarkar.in     提交人    /u/AlmostSomeIt   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dpv0v1/created_an_app_to_share_read_short_digest/</guid>
+      <pubDate>Thu, 27 Jun 2024 16:09:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了 EasyDataViz：一款帮助研究人员简化数据可视化的工具，现已上线</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dpuy07/i_created_easydataviz_a_tool_to_simplify_data/</link>
+      <description><![CDATA[我知道你在想什么。数据可视化工具很难与之竞争。大牌占据主导地位，大多数新工具最终都很复杂且价格昂贵。 但我相信我的项目有所不同。 我制作了一款名为 EasyDataViz 的应用程序。这是一个让研究人员轻松进行数据可视化的工具。您可以快速创建高质量的图表，而无需麻烦。 它如何让数据可视化变得简单？ EasyDataViz 的重点是简单和速度。拖放您的 CSV 或 Excel 文件。几秒钟内即可获得专业图表。您无需特殊培训或技术技能即可使用它。 主要功能：  一键式图表：只需单击一下即可将原始数据转换为图表。 轻松的数据集成：从许多来源导入数据。在几秒钟内创建自定义图表。 可自定义的视觉效果：调整图表的每个部分以满足您的需求。 隐私第一：您的数据保留在您的浏览器中。它不会存储在其他地方。  我为什么构建 EasyDataViz： 我是计算机科学的博士生。我花了几个小时为我的论文制作图表。这是重复和缓慢的。我想要一个可以为像我这样的研究人员节省时间的工具。EasyDataViz 只是一个开始。我计划添加数据清理和 AI 机器人等功能来与您的数据聊天。 我推出 EasyDataViz 是为了获得反馈并使其变得更好。试用它并告诉我你的想法。您的见解将有助于打造一个可以帮助像我们这样的研究人员的工具。 尝试 EasyDataViz 并分享您的想法！ 感谢您的支持。    提交人    /u/seniel98   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dpuy07/i_created_easydataviz_a_tool_to_simplify_data/</guid>
+      <pubDate>Thu, 27 Jun 2024 16:06:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>我如何利用冷电子邮件建立起每月 6000 美元的业务</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dpuoni/how_i_built_a_6kmo_business_with_cold_email/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dpuoni/how_i_built_a_6kmo_business_with_cold_email/</guid>
+      <pubDate>Thu, 27 Jun 2024 15:55:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>我根据流行的 SaaS 样板创建了一个定制 MVP 开发的市场</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dpu50a/i_made_a_marketplace_for_custom_mvp_development/</link>
+      <description><![CDATA[嘿 Reddit！ 我最近推出了一个新的市场，它是 upwork 的替代品，可帮助您为新的 Web 应用项目找到合适的开发人员。它基于流行的 SaaS 样板，所有开发人员都是这些样板的原始创建者。 mvpbase.com 就是如此构建的 - 使用 SaaS 样板并与维护其代码的开发人员合作。我能够以 4,000 欧元的价格推出：3,000 欧元开发 + 1,000 欧元设计。从开始到生产大约需要 2 个月。 如果您计划构建并正在寻找开发人员，请告诉我您的想法！    提交人    /u/leanpreneur   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dpu50a/i_made_a_marketplace_for_custom_mvp_development/</guid>
+      <pubDate>Thu, 27 Jun 2024 15:31:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>基于 ML 的图形绘图工具——欢迎反馈！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dpu09v/ml_based_figure_drawing_tool_feedback_welcome/</link>
+      <description><![CDATA[大家好，这是这里的第一篇帖子！ 我开发了一个应用程序，使用姿势估计模型来获得躯干和四肢的粗略形状，以帮助您开始绘制人体。对于刚接触人体绘画的人来说，它将非常有用。 我还处于早期阶段，希望根据用户反馈改进该工具。如果您有时间，请在手机上尝试一下，然后告诉我您的想法。 提前感谢您的帮助！ 姿势估计绘图    提交人    /u/vinayakathavale   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dpu09v/ml_based_figure_drawing_tool_feedback_welcome/</guid>
+      <pubDate>Thu, 27 Jun 2024 15:26:11 GMT</pubDate>
+    </item>
     <item>
       <title>我创建了一个免费的大型动作模型并添加了网页浏览功能！（有点像 Perplexity，但更注重动作）</title>
       <link>https://www.reddit.com/r/SideProject/comments/1dptikz/i_created_a_free_large_action_model_and_added_web/</link>
@@ -25,90 +109,6 @@
       <description><![CDATA[因此，我正在寻找对使用 React Native 构建应用程序感兴趣的开发人员。该应用程序旨在提高工作效率，例如管理您的日常工作。如果您有兴趣，请 dm    由   提交  /u/armaan-dev   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1dpsc2g/anybody_interested_in_working_together_for_an_app/</guid>
       <pubDate>Thu, 27 Jun 2024 14:15:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>哪种宠物最难驯服？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dps0ns/which_pet_should_be_hardest_to_tame/</link>
-      <description><![CDATA[        提交人    /u/TheSpaceFudge   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dps0ns/which_pet_should_be_hardest_to_tame/</guid>
-      <pubDate>Thu, 27 Jun 2024 14:01:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>我免费制作的一些壁纸，https://simpleflow.gumroad.com/l/dzwwm</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dprw92/some_wallpapers_i_created_for_free/</link>
-      <description><![CDATA[        提交人    /u/simpleflow_designs   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dprw92/some_wallpapers_i_created_for_free/</guid>
-      <pubDate>Thu, 27 Jun 2024 13:56:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个欧盟人工智能法案合规助手并获得了我的前 10 个用户。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dprna3/i_built_an_eu_ai_act_compliance_assistant_and_got/</link>
-      <description><![CDATA[      我花了 2 周时间准备举办一场关于欧盟人工智能法案的网络研讨会，阅读了 400 多页的监管文件并做了笔记 我决定创建一个工具来解决我自己的问题，一个人工智能助手，可以回答我关于治理、合规性的所有问题，并让我了解整个法案。 该网站正在建设中，我仍在改进功能。 我希望其他人觉得它有用。让我知道你的想法。    提交人    /u/Stealth-Turtle   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dprna3/i_built_an_eu_ai_act_compliance_assistant_and_got/</guid>
-      <pubDate>Thu, 27 Jun 2024 13:44:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找人工智能副项目中的后端 DevOps 职位</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dprltq/looking_for_backend_devops_role_in_ai_sideproject/</link>
-      <description><![CDATA[大家好，每次我回顾这个业余项目的想法、创新和人们面临的问题时，我都觉得很有趣。我希望与大家合作，并作为团队成员以开发人员的身份加入正在进行的项目。我精通后端技术栈，如 node.js、Go、Rust 和所有用于部署的 devops 工具。如果您有任何机会，请给我发信息。 附言：我不是在要求薪水/有偿演出。 我只是想为这些令人惊叹的项目做出贡献。再见 ;)    提交人    /u/PalpitationUnique296   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dprltq/looking_for_backend_devops_role_in_ai_sideproject/</guid>
-      <pubDate>Thu, 27 Jun 2024 13:42:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>作为一名独立开发者，我推出了我的第一个 SaaS 产品，现在我正在寻找我的目标</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dprd5j/launching_my_first_saas_as_a_solo_dev_now_im/</link>
-      <description><![CDATA[我非常高兴地介绍 Lumeo，它是任何希望重复使用或在 LinkedIn 上创建内容的人的解决方案 这个想法来自于开始在 X 上创建内容，我想接触另一个受众，而不必费心用 LinkedIn 代码重写我的所有出版物 因此，我开发了一个工具，允许您通过删除文章、YouTube 视频或推文、来自 X 的帖子或长推文的 URL 或简单的文本来执行此操作。 我还集成了 LinkedIn API，以便能够规划这些出版物并能够更好地组织。 我来这里是想问你如何找到我的正确目标？我目前专注于自由开发者，因为我的第一个付费用户就是其中之一，我也为自己创建了它，他关注其中之一，而且开发人员通常有很多价值要交付，但他们很难交付它。 &#39;写得简单，但我意识到转化率不一定好，所以我想知道我是否应该改变目标或坚持这个目标，看看它是否会很有趣......我在很多 Discord 服务器或我的 X 社区上被搜索过。 你觉得我的方法怎么样？ 我经常被告知 Reddit 社区也提供了很好的建议（而且非常关键，但只要它是建设性的，它就很酷），这就是我今天写信给你的原因 如果您想查看该应用程序并尝试它，请不要犹豫，它在这里：https://lumeo.me    提交人    /u/Apprehensive_Pool766   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dprd5j/launching_my_first_saas_as_a_solo_dev_now_im/</guid>
-      <pubDate>Thu, 27 Jun 2024 13:31:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>我做了一个可以提高潜水时憋气能力的应用程序</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dpr5la/i_made_an_app_that_can_improve_the_ability_to/</link>
-      <description><![CDATA[      如果你渴望挑战自己，追求更深层次的水下探险体验，那么这款应用程序就是为你准备的！ 我们为你提供二氧化碳耐受性训练、氧气训练、最大限度呼吸暂停等功能时间测试，帮助你提高自由潜水、呼吸暂停和潜水技巧。 通过记录你的练习历史，并以直观、清晰的图表展示，你可以清楚地了解自己的训练进度，激励自己不断突破极限。 不要犹豫，立即下载此应用，让你的水下冒险更加刺激、更加充实！提高你的自由潜水技能，开始新的水下冒险！ https://preview.redd.it/htw2gbfx749d1.png?width=1242&amp;format=png&amp;auto=webp&amp;s=c8d5aefa24c0c4dc68a89e47d24eaaf9ec4da49d https://preview.redd.it/3d0azy1z749d1.png?width=1242&amp;format=png&amp;auto=webp&amp;s=950734210c7bf3a145d17c356052dff187f047a7 https://preview.redd.it/62bcfk60849d1.png?width=1242&amp;format=png&amp;auto=webp&amp;s=05bc847906d07a2d9e4d425d4a65d1b39898d557 https://preview.redd.it/xwanhk60849d1.png?width=1242&amp;format=png&amp;auto=webp&amp;s=7870f6e8720ae4bb6c246addeacd198dd9baf7ca    提交人    /u/undeadsun1   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dpr5la/i_made_an_app_that_can_improve_the_ability_to/</guid>
-      <pubDate>Thu, 27 Jun 2024 13:22:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>[帮助] 出售我的用于金融和其他应用的数据验证和比较工具</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dpqr8s/help_selling_my_data_validation_and_comparison/</link>
-      <description><![CDATA[大家好， 我期待您的建设性反馈和建议，以便最好地推销我的业余项目。 我开发了一个工具，用于将文件与金融交易进行比较。 最初，这是来自几个大客户的要求，他们需要从供应商那里导入原始数据，并验证它是否与他们自己的记录相匹配，无论这些记录是以前的条目、存储的数据还是 ETL 后转换。 主要特点：  适应性：该软件可以在不同场景中进行调整和重复使用。 灵活比较：它不需要文件完全相同。分析仅考虑使用分组或其他技术相互关联的字段。 广泛的用例：虽然最初专注于金融交易，但此工具可应用于广泛使用 Excel 的任何地方，因此用途非常广泛。 自动化集成：它可以由操作员手动使用，也可以集成到自动化流程中，以便在进入下一阶段或发布新组件之前验证数据。 交易验证：相同的方法已应用于验证交易文件，以管理不断变化的交易价格的复杂性。  目标： 我正在寻求有关如何有效销售此工具的建议和反馈。以下几个特定领域需要您的宝贵意见：  目标市场：除了金融交易之外，哪些行业或部门能从此工具中获益最多？ 定价策略：哪种定价模式（订阅、一次性购买、分级定价等）对潜在用户最有吸引力？ 营销渠道：什么是接触潜在客户的最佳平台或方法？ 功能增强：您认为还有什么其他功能或改进可以让该工具更具吸引力？  我很感激您能提供的任何见解或建议。 提前感谢您的时间和帮助！ 请随时给我发私信。    提交人    /u/Particular-Sea2005   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dpqr8s/help_selling_my_data_validation_and_comparison/</guid>
-      <pubDate>Thu, 27 Jun 2024 13:02:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>有哪些社交故事值得分享？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dpqngq/what_networking_story_is_worth_sharing/</link>
-      <description><![CDATA[有什么值得分享的社交故事吗？ 我先说说：我曾经参加过一次随机的技术聚会，结果坐在某人旁边的人后来是一家大公司的关键决策者。我们一拍即合，几周后，他们就成了我们最大的客户！一次随意的交谈竟然能促成一件大事，真是不可思议。 你呢？有没有什么意想不到的联系对你产生了重大影响？    提交人    /u/value_que   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dpqngq/what_networking_story_is_worth_sharing/</guid>
-      <pubDate>Thu, 27 Jun 2024 12:57:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>我建造了一个智能室内植物灌溉系统 - Siram</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dpqcfl/i_built_a_smart_houseplant_irrigation_system_siram/</link>
-      <description><![CDATA[      嘿大家好。我刚刚推出了我的硬件产品 - Siram，一种智能室内植物灌溉系统。这一切都是因为我几年前在一次为期一周的旅行后回到家中，看到室内植物快要枯萎了。我知道制造硬件产品并不是一件容易的事，更不用说将其商业化了，但作为一名工程师，我发现这非常有趣和充实。让我知道你的想法。欢迎随时询问我的旅程/过程或任何技术问题。     提交人    /u/jimmyasyraf   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dpqcfl/i_built_a_smart_houseplant_irrigation_system_siram/</guid>
-      <pubDate>Thu, 27 Jun 2024 12:41:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 GeographyGauntlet 测试你的地理技能</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dppen9/test_your_geography_skills_with_geographygauntlet/</link>
-      <description><![CDATA[大家好！ 过去一个月，我一直在开发一个名为 GeographyGauntlet 的副项目，我很乐意听取您的反馈！GeographyGauntlet 是一款快节奏的问答游戏，您有 15 秒的时间来回答每个问题。此外，还有专门针对国家和国旗的测验，以帮助您提高技能。我致力于让 GeographyGauntlet 成为最好的地理游戏，您的反馈将非常有价值。 查看并告诉我您的想法！我期待您的建议和评论。 尽情享受吧！ https://geogauntlet.vercel.app/    由    /u/Shaafy21 提交   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dppen9/test_your_geography_skills_with_geographygauntlet/</guid>
-      <pubDate>Thu, 27 Jun 2024 11:52:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>当求职者发送简历时，我们会向他们提供分析数据</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dppaln/were_giving_ghosted_jobseekers_analytics_when/</link>
-      <description><![CDATA[我们正在开发一些功能，帮助求职者和招聘人员更好地了解谁查看了简历、查看了多长时间以及他们如何处理了简历。求职是一件非常累人的事情，而且很多时候你都不知道为什么没有收到回复或者不适合。我们的首批功能包括文档托管、跟踪、显示查看者活动和持续时间。  尝试在 Resuma 免费跟踪你的下一份简历：https://www.resuma.cc/    提交人    /u/Big-Line7510   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dppaln/were_giving_ghosted_jobseekers_analytics_when/</guid>
-      <pubDate>Thu, 27 Jun 2024 11:46:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>主题选择</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dpp4v8/themeselection/</link>
-      <description><![CDATA[ThemeSelection 提供高级和免费管理模板和 UI 工具包，旨在帮助开发人员启动他们的项目。我们为不同的框架提供各种模板，包括 Bootstrap、React、Vue、NextJS、Laravel、Django、Asp.NET 等等。     提交人    /u/Life-Knowledge311   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dpp4v8/themeselection/</guid>
-      <pubDate>Thu, 27 Jun 2024 11:36:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
