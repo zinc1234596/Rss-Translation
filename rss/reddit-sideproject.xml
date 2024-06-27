@@ -4,111 +4,111 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Thu, 27 Jun 2024 06:18:46 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jun 2024 09:14:03 GMT</lastBuildDate>
+    <item>
+      <title>寻求反馈：人工智能后端软件生成器 [测试版]</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dpmonh/seeking_feedback_ai_powered_backend_software/</link>
+      <description><![CDATA[我们正在努力构建创建后端软件的最简单方法。目前处于隐身模式。 使用 CodeWords，一个使用简单英语生成软件的人工智能平台，就像用于软件生成的 DALL-E。 今天在 CodeWords 上，今天在 CodeWords 上，您可以生成无状态后端系统，或者我们称之为&quot;Codewords&quot; 函数，并辅以最小的 UI。 我们曾让人们构建 Instagram 帖子生成器、病毒式钩子生成器、记录对话摘要器、查找无麸质啤酒的应用程序的后端。 如果您有兴趣尝试该产品：在此处注册使用代码 [earlybird24]    提交人    /u/gvschaitanya   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dpmonh/seeking_feedback_ai_powered_backend_software/</guid>
+      <pubDate>Thu, 27 Jun 2024 08:57:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>ASTRAL PLANE • 预告片</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dpmmqu/astral_plane_teaser_trailer/</link>
+      <description><![CDATA[      大家好！你觉得我的 Webtoon Canvas 的这个名为“Astral Plane”的预告片怎么样？    提交人    /u/glitch_gram   [link] [comments] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dpmmqu/astral_plane_teaser_trailer/</guid>
+      <pubDate>Thu, 27 Jun 2024 08:53:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Informed-AI-News是一个基于人工智能的新闻聚合平台，旨在为用户提供经过精心挑选和组织的高质量新闻内容。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dpm7ws/informedainews_is_a_news_aggregation_platform/</link>
+      <description><![CDATA[介绍 大家好，我是江。 在信息过载的时代，我们可以轻松获取海量数据，但也有可能淹没在无关的噪音中，浪费宝贵的时间。我坚信，在今天的背景下，高效获取准确重要的信息，缩小信息差距，打破信息茧房的限制，仍然是至关重要的挑战。 为了解决这个问题，我开发了网站“Informed AI News”，致力于通过AI技术为大家提供精选的、易于消化的新闻内容，使大家在忙碌的生活中也能轻松掌握重大发展。 本质上，Informed AI News是一个信息聚合平台。它每天从多个维度评估 2000 多条最新新闻，挑选出优质信息。然后为每篇文章生成简明摘要，并将其汇编成相应的日报、周报和其他定期出版物。 这些由 AI 策划的出版物将涵盖政治、经济、技术、健康和人工智能等多个领域，满足我们用户的多样化需求。发布的范围和种类将不断扩大。 本网站如何筛选信息 信息评估流程采用8分量表，评分因素如下：  客观性：评估信息是否公正、无偏见。 社会影响力：信息对社会和公众影响的程度。 可信度：信息来源的可信度（例如，像BBC这样的知名媒体被认为可信度较高）。 潜力：信息引发进一步事件或变化的潜力。 实用性：信息在实际应用中对读者的可操作性。 娱乐价值：评估信息的娱乐价值信息。 合理性：评估文章内容是否合乎逻辑。 思想深度：评估信息的思想深度及其对任何知识领域的贡献。  得分是有权重的；例如，在工具箱部分，实用性得到更大的强调。 出版物中每条信息下方显示的“分数”可查看 AI 的详细评分和解释。    提交人    /u/Reasonable_Shame_554   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dpm7ws/informedainews_is_a_news_aggregation_platform/</guid>
+      <pubDate>Thu, 27 Jun 2024 08:23:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻求反馈：基于人工智能的 Slack Bot 用于工作流程增强</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dpm479/seeking_feedback_aipowered_slack_bot_for_workflow/</link>
+      <description><![CDATA[嗨，我正在开发一个 AI Slack 机器人来简化工作流程。我很感激您对当前功能的诚实反馈：  日程管理：使用自然语言添加日历事件或提醒。 &quot;@bot add meeting with Sarah tomorrow at 2pm&quot;  内容分析：总结、校对或分析 Slack 线程中的文本。 &quot;@bot summary this article&quot; &quot;@bot proofread this&quot;  任务管理：直接从 Slack 对话创建线性问题。  &quot;@bot 将此任务分配给 Jira 中的 Alex&quot;  知识集成：将线程摘要添加到 Notion 页面并更新数据库。 会议助理：自动转录和总结 Slack 会议。 客户支持：自动为 Intercom 和 Zendesk 等支持平台生成建议的回复。  我们需要您的意见：  您喜欢或不喜欢哪些功能，为什么？ 您会为这个机器人添加哪些功能？  您的反馈非常宝贵。谢谢！    提交人    /u/BewilderedOrca   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dpm479/seeking_feedback_aipowered_slack_bot_for_workflow/</guid>
+      <pubDate>Thu, 27 Jun 2024 08:15:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>哦不，不是另一个习惯应用程序......</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dplx9o/oh_no_not_another_habit_app/</link>
+      <description><![CDATA[我羞愧地低下了头，我又开发了一个习惯应用程序。 我知道，在你们对我大喊大叫之前，我为什么要犯下这种可怕的背叛行为，加入 50647 个其他失败的习惯应用程序，我确实与我的有所不同。 习惯应用程序很棒，但重点是什么？你想多锻炼，很好！但为什么呢？ 很长一段时间以来，我一直有目标，但如果没有实现目标的过程，目标就毫无意义，我每天都在努力，成功地成为了一名收入颇丰的开发人员，我也可以通过同样的过程熟练地骑山地自行车，日复一日地进行迭代，做同样的基本构建块，培养健康的习惯来形成技能。 我曾经通过写“不是待办事项清单”来做到这一点而是一个要完成的清单，上面列出了我在那天必须做的事情，才能实现我所设定的目标，因此这激发了我的第一个副业，Achievify！ 它很简单，为了帮助你变得更加注重过程，并建立健康的习惯来实现你的目标，你设定一个目标，列出实现该目标所需的任务，然后你可以轻松地安排你想要完成的时间，并让自己对实现目标负责。 我每天都在用它，我发现它非常有用，虽然还没有达到我想要的那种程度，但是我为我自己构建了它，所以我会继续构建它，让它变得有用，让我能够按计划实现我生活中的各种目标，目前我的目标是致富（基本上是在从事副业！），我的自行车目标和我的关系目标，我发现它让我对每天完成任务负责，因为我不想在日历上留下红色标记。  目前仅在 IOS 上，这是一件苦差事，我害怕为 Play 商店做这件事哈哈 https://apps.apple.com/us/app/achievify/id6502830428    提交人    /u/Whisky-Toad   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dplx9o/oh_no_not_another_habit_app/</guid>
+      <pubDate>Thu, 27 Jun 2024 08:01:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个 eBay 搜索网站，在浏览商品时几乎不需要加载时间</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dplult/i_made_an_ebay_searching_website_with_almost_no/</link>
+      <description><![CDATA[      https://bargaintime.co   由    /u/SIMMORSAL  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dplult/i_made_an_ebay_searching_website_with_almost_no/</guid>
+      <pubDate>Thu, 27 Jun 2024 07:56:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找合作者加入我的业余项目</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dplt8a/looking_for_collaborators_to_join_my_side_project/</link>
+      <description><![CDATA[大家好，我正在集思广益，目前正在为一款一体化行程旅行套件应用设计 UI/UX，希望简化和增强旅行者组织和管理行程的方式，让它们更轻松、更精确。 愿景如下：  一款跨平台应用，可轻松跨 iOS 和 Android 运行，并配有一个 WebApp 来镜像它 实时协作功能 集成 AI 以优化行程  根据提议的堆栈，我寻求 React Native 或 Flutter for FE 和 Python 或 Node for BE 来协助集成。产品经理也很好。我希望能够承担部署前的开发成本。  这对您有什么好处？  很遗憾，我现在无法提供补偿，但一旦产品获得关注，我一定会补偿您，不过我们可以很开心地将其变为现实  如果您对此感兴趣，我很乐意与您联系！请直接留言，我们可以进一步讨论细节 感谢您阅读到这里！！     提交人    /u/Last-Standard-1864   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dplt8a/looking_for_collaborators_to_join_my_side_project/</guid>
+      <pubDate>Thu, 27 Jun 2024 07:53:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>Scaler.pics</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dplnva/scalerpics/</link>
+      <description><![CDATA[        提交人    /u/ma-tei   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dplnva/scalerpics/</guid>
+      <pubDate>Thu, 27 Jun 2024 07:42:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Scaler.pics - 用于转换和调整图像大小的 API</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dpln4m/scalerpics_api_for_converting_and_resizing_images/</link>
+      <description><![CDATA[今天在 ProductHunt 上启动我的新项目 Scaler 🚀🚀 一种用于在服务器端有效转换和调整图像大小的 API，它可以处理包括 HEIC 在内的高分辨率图像，并可以防止服务器停止或崩溃。 https://scaler.pics    提交人    /u/ma-tei   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dpln4m/scalerpics_api_for_converting_and_resizing_images/</guid>
+      <pubDate>Thu, 27 Jun 2024 07:40:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>InnerPage – 匿名纯文本期刊</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dplk5y/innerpage_anonymous_textonly_journal/</link>
+      <description><![CDATA[大家好 Innerpage (https://www.innerpage.org) 是一个匿名日记本，您可以在其中倾诉自己的想法并理清思绪。它使用用户名 + 密码。无需电子邮件 / 手机。 最初，我为自己创建了这个，然后给了几个朋友访问权限，现在向所有人开放，以体验日记的奇妙之处。请尝试一下，让我知道您的想法。 附言：我几个小时前发过帖子，但在注册时遇到问题，所以再次发帖。发誓我不会再发垃圾邮件了    提交人    /u/TheInnerPage   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dplk5y/innerpage_anonymous_textonly_journal/</guid>
+      <pubDate>Thu, 27 Jun 2024 07:34:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>ProductHunt 上推出开源候补名单登陆页面</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dpleq6/open_source_waitlist_landing_page_on_producthunt/</link>
+      <description><![CDATA[      您好，我很高兴与您分享 Waitlist Landing Page。它旨在帮助企业在产品发布前推广其产品并建立社区。该项目是免费的开源项目。欢迎您的反馈！ https://preview.redd.it/mscfw480g29d1.jpg?width=1380&amp;format=pjpg&amp;auto=webp&amp;s=2bc47eacfcabcc60ff83f25e6e70841de8d8886f 如果您想支持我的项目，您可以在 producthunt 上点赞 :) https://www.producthunt.com/posts/waitlist-landing-page     由   提交  /u/lmarjinal1   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dpleq6/open_source_waitlist_landing_page_on_producthunt/</guid>
+      <pubDate>Thu, 27 Jun 2024 07:23:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>（调查）个体经营者面临的挑战</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dplayz/survey_solopreneur_challenges/</link>
+      <description><![CDATA[我正在开展一个项目，以支持像我这样的 solopreneur，并希望从这个伟大的社区获得一些关于我们面临的独特挑战的意见。 我创建了一个 Google 表单，以收集有关一系列困难对您有多重要的见解。这项调查快速、匿名，您的反馈将帮助我设计专门针对 solopreneur 的工具。 Solopreneur 挑战调查 作为感谢，项目完成后，参与者将获得宝贵资源的独家早期访问权。 （完成后只需 DM 我）    由    /u/Yassben 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dplayz/survey_solopreneur_challenges/</guid>
+      <pubDate>Thu, 27 Jun 2024 07:16:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>获得一个 CLI 应用程序，以前所未有的方式与 LLM 进行交流</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dpksnx/gottem_a_cli_app_to_talk_with_llms_like_never/</link>
+      <description><![CDATA[我看到了 YacineMTB 的一段视频，他展示了他的 neovim 插件来查询 LLM，非常简洁，这就是这个应用程序的全部灵感来源。 所以我继续用 golang 编写了一个 CLI 应用程序来与 LLM 对话，它使用 sqlite，所以你的密钥和聊天记录都在本地存储，它使用一个 cli 编辑器来查询 LLM，在聊天过程中切换 LLM，你会得到一个文本编辑器来查询 LLM，来自 LLM 的响应也会粘贴到这个编辑器中，所以你基本上可以在任何时间点编辑你的上下文。我打算让它更强大，引入一些功能，比如将文本选择下的缓冲区发送到 LLM、代码片段等，并提供自动完成功能，但那是以后的事了。 链接到项目。 https://github.com/Utility-Gods/gottem 链接到解释所有功能的博客文章。 https://orangegas.co/public/16/article/introducing-gottem:-a-powerful-cli-app-for-interacting-with-ai-apis-1719468569984    由    /u/what_mane_kya  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dpksnx/gottem_a_cli_app_to_talk_with_llms_like_never/</guid>
+      <pubDate>Thu, 27 Jun 2024 06:42:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>诺诺的奥德赛：史诗般的虚拟环球漫游</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dpkq3i/nonos_odyssey_epic_virtual_walkabout_around_the/</link>
+      <description><![CDATA[        由    /u/nonoumasy 提交   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dpkq3i/nonos_odyssey_epic_virtual_walkabout_around_the/</guid>
+      <pubDate>Thu, 27 Jun 2024 06:37:34 GMT</pubDate>
+    </item>
     <item>
       <title>一款鼓励约会的约会应用——无需离开平台即可匹配、聊天和预约约会</title>
       <link>https://www.reddit.com/r/SideProject/comments/1dpjx56/a_dating_app_that_encourages_dating_match_chat/</link>
       <description><![CDATA[全球首款约会应用 Farlo 将于 10 月推出！ 在当前的约会环境中，许多平台优先考虑无休止的滑动和消息传递，从而形成了一个没有实际结果的虚拟联系循环。结果是一种在数字领域蓬勃发展的约会文化，但却难以将这些联系转化为有意义的线下体验。为了解决这个问题，我们正在设计一款约会应用，鼓励用户在屏幕之外寻找真正的联系和有意义的互动。用户将能够匹配、聊天和预约约会，而无需离开我们的平台。工作原理：  匹配 - 你们都向右滑动。超级棒！ 计时器开始滴答作响 - 您有 7 天的时间聊天和建立在线联系。 如果火花四溅，请选择“准备约会” - 聊天屏幕顶部有一个图标，如果选中，则表示您觉得连接足够强，可以尝试第一次约会。一旦第二个用户选择“准备约会”选项，就可以开始了！ 找到完美的约会 - 系统会提示您通过我们精选的数据库找到完美的初次约会（包括咖啡、午餐、晚餐、饮料和基于经验的选项） 双方同意 - 最后选择“准备约会”的人将可以选择物流（地点和时间）。将向匹配对象发送提示以进行确认。 首次约会已确认 - 如果第一位用户同意，则预订成功！  其他几项注意事项...  为了鼓励认真约会，用户一次只能拥有 7 个活跃的匹配对象。匹配对象可以删除并替换为新匹配对象。 如果聊天 7 天过去了，而两个用户都没有表示他们已准备好约会，则匹配对象将过期并消失。  我们将非常感激您对应用程序本身的任何反馈以及您从上述内容中看到的任何挑战。    提交人    /u/FarloDating   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1dpjx56/a_dating_app_that_encourages_dating_match_chat/</guid>
       <pubDate>Thu, 27 Jun 2024 05:44:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要帮助验证我的项目想法</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dpjb4v/need_help_validating_my_project_idea/</link>
-      <description><![CDATA[需要帮助验证 MVP  我在验证 MVP 时遇到了一些问题。我对这个想法有相当积极的反馈，但不能说这是否足以进一步推进这个项目。一般来说，反馈是这个想法很酷，但就这个问题值得追求而言，没有什么。 我的项目是一个改善在线购物体验的工具。这是一个在线衣柜，是一种整理标签的方法，以防止在浏览热门交易页面时单击“在新选项卡中打开”。您将商品的 URL 粘贴到您的面板中，然后拖放以创建也可以用作链接的衣柜。 我的注册率相对较低，但我喜欢解决这个问题。我想看看你们有什么要说的，以及这是否是一个值得继续追求的问题  https://www.curate.fit/    提交人    /u/Chivylol   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dpjb4v/need_help_validating_my_project_idea/</guid>
-      <pubDate>Thu, 27 Jun 2024 05:05:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>每日民意调查应用程序</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dpj25s/an_app_for_daily_polls/</link>
-      <description><![CDATA[      我制作了一款应用，灵感来自 Wii 上的全民投票频道！您可以创建一个有趣的头像、添加好友，并每天两次回答民意调查。非常简单，但如果有人感兴趣的话，请查看！😁 应用程序链接：https://apps.apple.com/us/app/opinions-app/id6504508300    提交人    /u/RetiringSalt12   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dpj25s/an_app_for_daily_polls/</guid>
-      <pubDate>Thu, 27 Jun 2024 04:50:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个工具来帮助渗透测试人员生成渗透测试报告</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dphdri/i_created_a_tool_to_help_pentesters_generate/</link>
-      <description><![CDATA[嗨，我开发了一个工具 - https://terracotta.onelook.ai/ - 来帮助渗透测试人员生成渗透测试报告。我和朋友在渗透测试过程中面临的最大问题是上下文切换。我们必须随时记下笔记。渗透测试结束后，我们必须参考笔记来撰写一份关于发现的漏洞和攻击链的报告。 此工具通过分析渗透测试会话的记录来提供帮助。您可以选择向视频添加上下文。LLM 用于向视频添加上下文并对其进行分析。最后，LLM 还有助于根据视频中的信息和上下文起草渗透测试报告。报告采用 markdown 格式，您可以在浏览器中编辑它。 现在可以免费使用，欢迎任何反馈。谢谢！    由   提交  /u/hc_redveg   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dphdri/i_created_a_tool_to_help_pentesters_generate/</guid>
-      <pubDate>Thu, 27 Jun 2024 03:16:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>刚刚推出：Chart2Media - 创建和导出令人惊叹的图表作为视频或图像！寻求您的反馈</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dph8u3/just_launched_chart2media_create_and_export/</link>
-      <description><![CDATA[  由    /u/rkdevpr  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dph8u3/just_launched_chart2media_create_and_export/</guid>
-      <pubDate>Thu, 27 Jun 2024 03:09:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找开发人员加入我的软件项目🫡</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dph5ui/looking_for_developers_to_join_my_software_project/</link>
-      <description><![CDATA[大家好， 我目前正在开发一个软件应用程序，需要更多人手来帮忙。该产品仍处于早期阶段，我计划在未来 3-4 个月内将其货币化。不幸的是，我现在无法提供报酬，但一旦产品上线并获得关注，我一定会补偿你。 技术堆栈：  Next.js Express.js MongoDB  请在 Discord 上给我发私信以了解更多详细信息：发送请求至：r1cks._.s4nchez.    提交人    /u/r1ck-s4nchez   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dph5ui/looking_for_developers_to_join_my_software_project/</guid>
-      <pubDate>Thu, 27 Jun 2024 03:04:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>您想改进什么？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dpgigp/what_would_you_improve/</link>
-      <description><![CDATA[我在电子商务领域的第一步，我根据自己的经验写了这篇文章，现在我想通过它赚钱，你觉得这个页面怎么样？你可以互动一下并发送一些反馈吗？在评论中留言    提交人    /u/brisa100   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dpgigp/what_would_you_improve/</guid>
-      <pubDate>Thu, 27 Jun 2024 02:30:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个免费的人工智能面试训练器来训练你的面试</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dpejvm/i_created_a_free_aipowered_interview_trainer_to/</link>
-      <description><![CDATA[        提交人    /u/NetworkEducational81   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dpejvm/i_created_a_free_aipowered_interview_trainer_to/</guid>
-      <pubDate>Thu, 27 Jun 2024 00:51:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的应用程序的第一个视频（带音频），请提供反馈</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dpecy3/first_video_with_audio_for_my_app_please_give/</link>
-      <description><![CDATA[        由    /u/object-reference  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dpecy3/first_video_with_audio_for_my_app_please_give/</guid>
-      <pubDate>Thu, 27 Jun 2024 00:41:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>我为网页设计机构制作了一款利用人工智能的潜在客户生成软件</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dpe2ud/i_made_a_lead_generation_software_with_ai_for_web/</link>
-      <description><![CDATA[       由    /u/thijs-leadodo  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dpe2ud/i_made_a_lead_generation_software_with_ai_for_web/</guid>
-      <pubDate>Thu, 27 Jun 2024 00:28:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI 无代码文档</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dpdtnw/ai_nocode_documentation/</link>
-      <description><![CDATA[我正在开发一个由人工智能驱动的无代码开发人员文档平台。  它允许您使用优雅的模板以 markdown 编写文档，并在几分钟内实时发布。  您无需处理托管和开发来呈现文档，而是可以专注于以 markdown 编写并立即发布漂亮的文档。 我想知道有多少人愿意在产品完成后使用它。 如果是这样，请考虑加入我们的等待名单。 产品链接在评论中。    提交人    /u/Open-Guitar5445   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dpdtnw/ai_nocode_documentation/</guid>
-      <pubDate>Thu, 27 Jun 2024 00:15:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>我开发了一个 AI 机器人，可以在 Slack 上嘲笑你的团队</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dpcief/i_built_an_ai_bot_that_makes_fun_of_your_team_on/</link>
-      <description><![CDATA[大家好， 我是一家科技初创公司的创始人，自从我们完全远程办公以来，我注意到团队之间的随意对话大大减少。他们出席强制性会议，但除此之外，我们的 Slack 频道一直很安静。我们尝试了各种在线活动，但它们往往让人感觉很勉强，不像我们以前的办公室聊天或午餐外出那么自然。 作为一个周末业余爱好项目，我编写了一个简单的人工智能聊天机器人，它会偶尔在 Slack 上 ping 我们的员工，讲个笑话，引发对话。令我惊讶的是，它真的很有效！现在，人们在聊天中大笑，互相问私人问题，就像我们以前在午餐时坐下来一样建立联系。 我正在考虑将这个人工智能聊天机器人向公众开放。你们中有人有兴趣看看吗？如果是这样，请随时将您的电子邮件放入等候名单中。我很想听听你的想法，看看它是否也能帮助其他远程团队！我把它叫做 funpelican.com 干杯，    提交人    /u/JirkaStepanek   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dpcief/i_built_an_ai_bot_that_makes_fun_of_your_team_on/</guid>
-      <pubDate>Wed, 26 Jun 2024 23:13:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>🎮 Revisto - Minecraft Telegram Bot (MTB) 🤖 这款机器人可以帮助您在 Telegram 中查看 Minecraft 服务器中的在线玩家，并且具有一些很酷的功能 :3</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dpcd58/revisto_the_minecraft_telegram_bot_mtb_this_bot/</link>
-      <description><![CDATA[        提交人    /u/theRevisto   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dpcd58/revisto_the_minecraft_telegram_bot_mtb_this_bot/</guid>
-      <pubDate>Wed, 26 Jun 2024 23:06:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个 API 来从自然语言生成颜色代码</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dpcbr2/i_made_an_api_to_generate_colour_codes_from/</link>
-      <description><![CDATA[       由    /u/Potential_Action_658  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dpcbr2/i_made_an_api_to_generate_colour_codes_from/</guid>
-      <pubDate>Wed, 26 Jun 2024 23:05:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>经过深思熟虑后，开放我的应用程序以供免费使用</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dpcah9/opening_up_my_app_to_be_free_to_use_after/</link>
-      <description><![CDATA[几天前，我发布了我的第一个应用程序 NoteTube，但反响平平。现在可能已经是无用功了，但我想我应该在这里记录一些我认为下次应该做的事情。  保持 MVP 规模小巧 很容易沉迷于实现一些您认为会增加应用程序对受众价值的功能。但这样做的缺点是，可能会使没有人需要的产品的代码过于复杂。您的代码更容易出现错误，而且您还需要花费更多时间来构建某些东西，而实际上并没有验证您的想法。我觉得保持 MVP 规模小巧并获得有关应用程序核心理念的反馈是更好的做法。  不要等到开发应用后再开始吸引受众我做过一个经典的事情，就是等产品完成后再在社交媒体上推广。我避免这样做是因为我不想在公开开发时被人窃取我的想法。我现在的心态是，公开开发是必不可少的，尤其是对于刚起步的人来说。想法很廉价，执行更重要。公开开发，并尽早从人们那里获得反馈。我宁愿早点放弃，开发一款真正有吸引力应用，也不愿在花了几个月开发它之后才发现人们不想要我的应用。 不要抱有太高的期望。我不知道我期望的是什么，但我想人们会关心我的应用，因为我解决了一个相对复杂的问题。我必须记住，复杂的问题 != 值得解决的问题。我需要把我的自负从这个等式中剔除。   目前，我放弃了我的应用程序，以便在其货币化的同时获得关注。如果有人想尝试该工具，它现在免费开放 :) 如果您碰巧使用它，请随时提供一些反馈。  非常感谢大家的阅读。祝您黑客愉快！     提交人    /u/token-redditer   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dpcah9/opening_up_my_app_to_be_free_to_use_after/</guid>
-      <pubDate>Wed, 26 Jun 2024 23:03:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
