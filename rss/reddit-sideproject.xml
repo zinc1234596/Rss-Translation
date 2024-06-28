@@ -4,7 +4,63 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Fri, 28 Jun 2024 09:14:10 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jun 2024 12:24:44 GMT</lastBuildDate>
+    <item>
+      <title>使用 Claude 3.5 制作了一款应用程序，可以根据人们的描述来匹配他们，并告诉你为什么应该联系他们</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dqibcd/made_an_app_that_matches_people_based_on_their/</link>
+      <description><![CDATA[      我在这里写了它：ordinary.town    由    /u/controlprob 提交   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dqibcd/made_an_app_that_matches_people_based_on_their/</guid>
+      <pubDate>Fri, 28 Jun 2024 12:20:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>烤我的应用程序 - pitbullquiz.com</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dqhqo4/roast_my_app_pitbullquizcom/</link>
+      <description><![CDATA[production: https://www.pitbullquiz.com/ github repo 我只在 React 工作了大约 2 年，对 NodeJS 和 Express 有一点了解，对 Redux 完全是个菜鸟。我知道很多代码都很恶心和冗长，而且我肯定我在这里和那里使用了一些奇怪的约定。我想在某个时候仔细检查并清理它，使它成为一个更好的作品集。例如，我知道条形图可以分解成包装器组件......只是还没有时间这样做。 ResultsPage 中的所有内容都像一张烂蜘蛛网。 我最大的挑战是尝试防止服务器端和客户端渲染发生冲突。我一直遇到这个问题，刷新页面后，它会从服务器端渲染出一个空白的 DOM。我花了数周时间试图解决这个问题，最终决定采用一种黑客技术，只需在 URL 中设置一个锚点 /“#”。    提交人    /u/NaiveEye1128   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dqhqo4/roast_my_app_pitbullquizcom/</guid>
+      <pubDate>Fri, 28 Jun 2024 11:48:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>构建 GUI 工具来个性化 Tailwind 组件 - 希望得到一些反馈</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dqhed3/building_a_gui_tool_to_personalize_tailwind/</link>
+      <description><![CDATA[  由    /u/Exciting_Sea_8336  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dqhed3/building_a_gui_tool_to_personalize_tailwind/</guid>
+      <pubDate>Fri, 28 Jun 2024 11:28:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>作为非技术创始人/经理，还有其他人难以与开发人员沟通吗？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dqgqnh/does_anyone_else_struggle_to_communicate_with/</link>
+      <description><![CDATA[大家好， 我是一家开发机构的老板，说实话，有时我感觉自己在与开发团队沟通时说的是另一种语言。这不仅需要理解技术术语（他们非常擅长解释事物），更重要的是将我的想法和要求转化为对他们来说可行且清晰的内容。 我一直在思考这个挑战，想知道其他人是否也面临同样的情况。您是否发现自己很难表达自己的想法，或者担心重要的细节可能会在翻译中丢失？ 为了解决这个问题，我一直在考虑创建一个工具，有点像 Jira，但专为非技术人员设计。这个想法是通过使用 chatGPT 将我们的想法更轻松地转化为开发人员友好的行动项目，从而帮助弥合沟通鸿沟。它可以提供模板、引导提示，甚至一些人工智能辅助，以确保翻译中不会出现任何遗漏。 在我深入探讨这个问题之前，我想从这个社区了解一下情况：  您是否面临与开发团队的类似沟通挑战？ 您发现哪些工具或方法有助于弥合这一差距？ 像我设想的这种工具会不会是您所发现有价值的东西？  期待听到您的想法和经验！ 谢谢，    提交人    /u/freakH3O   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dqgqnh/does_anyone_else_struggle_to_communicate_with/</guid>
+      <pubDate>Fri, 28 Jun 2024 10:47:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>验证专为朋友和家人设计的生日提醒移动应用程序！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dqga2w/validating_a_birthday_reminder_mobile_app/</link>
+      <description><![CDATA[大家好！ 我经常不知道或忘记朋友和家人的生日，尤其是在穆斯林家庭中，生日也是伊斯兰的。我来自一个大家庭，家里的一位老成员（我的祖母）记得所有人的生日，并且是家庭中第一个送祝福的人。 我想制作一个应用程序，您可以在其中添加朋友、家人、近亲等的生日，并让应用程序在当天提醒您，甚至通过个性化消息祝福他们。 我目前正在验证这个想法，然后再制作 MVP，想知道这个想法是否有趣。 这是登陆页面：https://willy4522.softr.app 请告诉我您的想法！     由    /u/theIYD_ 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dqga2w/validating_a_birthday_reminder_mobile_app/</guid>
+      <pubDate>Fri, 28 Jun 2024 10:16:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的业余项目一点进展都没有。我觉得我完了</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dqg7kn/my_side_project_is_not_taking_off_at_all_i_think/</link>
+      <description><![CDATA[你们是如何成功发展自己的副业的？我有一个 IOS 应用程序，旨在帮助音乐节参与者发现和浏览音乐节日程安排、舞台和艺术家。 几个月前我推出了这个应用程序，但只获得了三个注册用户 - 我的妈妈和我的另外两个表兄弟，他们可能是因为我妈妈强迫他们注册的。我的表兄弟说这个应用程序很烂，但我不知道我是否应该相信他们，或者他们只是在仇恨他们 我自己开发了这个应用程序，但现在我认为这就是问题所在。我没有太多的技术知识，而人工智能帮助了我大部分工作。这可能是问题所在吗？或者也许应用程序只是需要可见性？ 我有一份 9-5 的工作，但我不打算永远依赖它 你认为我应该怎么做？我如何才能获得更多注册？    由    /u/naughty_bunnyy 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dqg7kn/my_side_project_is_not_taking_off_at_all_i_think/</guid>
+      <pubDate>Fri, 28 Jun 2024 10:12:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>我如何在运营服务 3 个月后最终实现销售</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dqg6yy/how_i_finally_made_sales_after_3_months_of/</link>
+      <description><![CDATA[      您好， 我是 Rully。我是一名全职软件工程师，正在努力成为一名个体经营者。我的一些产品/服务已经运营了一段时间。我想讲述其中一个故事。我会把它分成几个部分。 MVP 我 3 个月前推出了这项服务，其 MVP 功能非常少。它真的非常简约，我的服务是关于共享/云托管的。通常，托管服务提供商会提供像 WHMCS 这样的管理/仪表板 Web，对吗？猜猜怎么了？我没有使用它就推出了它！ 所以，我的目标是从业务核心开始。获得尽可能多的潜在客户，并建立用户群。然后，如果用户需要我什么怎么办？很简单，只需通过 whatsapp 发邮件给我。有用吗？是的，我也可以通过聊天直接与用户建立联系。 由此，我获得了 15-20 个免费试用/免费托管用户。 营销 说实话，我从 Marc Lou 那里学到了很多东西。他是一位拥有 20 多种产品的个体经营者。所以，我按照他说的做了。推广到 Reddit、ProductHunt 甚至 HackerRank。不仅如此，我还向我的亲朋好友等亲密网络推广，让他们尝试使用我的产品。 除此之外，我还发现人们喜欢独特的帖子。我正在做一个“隐蔽销售”的小实验。以下是详细信息： 将 NextJS 应用部署到共享主机（cPanel）而不是 Vercel 通常，人们会将他们的 NextJS 应用部署到 Vercel/Netlify。相反，我采用了一种不同的方法，即在共享主机（cPanel）上部署。然后我在 facebook 群组上分享，帖子中没有任何广告。 我从 1 篇帖子中能获得多少收益？  102 个赞 123 条评论 9 次分享  那么，我应该把我的产品链接放在哪里？是的，在回复所有这些评论的评论中。因此，人们会认为这篇文章是讨论而不是促销。所以，我又在另一个小组里做了一遍。 这次我赚了多少钱？  157 个赞 102 条评论 10 次分享  分析 红色圆圈显示我这样做之后，收入流量显著增加。但最后，我得到很多销售了吗？答案是否定的，只有少数用户注册了我的试用版。 销售 我们来谈谈销售部分。运行这项服务（包括上述营销）3 个月后，我终于从 MVP 改进了销售。那么，我改进了什么？  使用 WHMCS 添加会员区 添加更多产品，如域名注册和 Windows Server (RDP) 提供捆绑折扣（订购 1 年托管并获得免费域名或折扣域名）  通过这些改进，我终于实现了销售。订购最多的产品是 Windows Server (RDP)。为什么？因为我用噱头来推广它。如你所知，现在全世界很多人都在玩 Hamster Kombat 并手动进行点击。因此，我进行推广并告诉所有人，他们可以在 Windows Server (RDP) 上运行 Hamster Kombat 机器人。 在 Facebook 群组上推广 结果如下： 最终完成销售 如果您像我一样努力经营企业。请耐心等待，不要急于求成。不断改进并了解营销策略。了解用户行为。    提交人    /u/DeVoresyah   [link] [comments] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dqg6yy/how_i_finally_made_sales_after_3_months_of/</guid>
+      <pubDate>Fri, 28 Jun 2024 10:11:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>想象一下“概念”为您的目标提供任务！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dqfiiq/imagine_a_notion_that_gives_you_tasks_for_your/</link>
+      <description><![CDATA[      想象一下，在 Asana、Notion 或 Jira 这样的项目管理平台上，您会收到实现目标所需的任务、提示和策略？ 它允许您管理任务、请求分步指南、按时、按优先级等接收建议。 它就像一个真正的生产力辅助工具，可确保您没有任何空白页，并且您确切地知道下一步该做什么。 我正在使用这个平台。您觉得怎么样？它对您有用吗？  https://preview.redd.it/h0cx232d6a9d1.jpg?width=1093&amp;format=pjpg&amp;auto=webp&amp;s=4166101da2c79b9fd51f227808be5f8f21795f45    提交人    /u/Sarvaturi   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dqfiiq/imagine_a_notion_that_gives_you_tasks_for_your/</guid>
+      <pubDate>Fri, 28 Jun 2024 09:24:19 GMT</pubDate>
+    </item>
     <item>
       <title>（仅限女性）使用约会应用程序获取第二份收入？</title>
       <link>https://www.reddit.com/r/SideProject/comments/1dqeysw/women_only_second_income_using_dating_apps/</link>
@@ -53,62 +109,6 @@
       <description><![CDATA[https://reddit.com/link/1dqcwol/video/45ybws3u899d1/player 也许你可以用它来总结你的每日新闻？或者一篇论文？或者无聊的会议音频？或者一大堆别人说的废话？你们觉得这个 AI 摘要器能帮到你吗？    提交人    /u/Business-Client3858   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1dqcwol/i_built_an_ai_summarizer_does_anyone_think_its/</guid>
       <pubDate>Fri, 28 Jun 2024 06:18:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何建立候补名单</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dqbaki/how_to_build_waitlist/</link>
-      <description><![CDATA[我正在开发一个 Web 应用程序，我想设置一个等候名单，以便在开始时控制用户数量并收集反馈。我可以允许人们注册，然后逐个用户“打开大门”，也可以创建一个电子邮件列表，并在我们准备好后向他们发送应用程序链接。哪个是更好的选择？还有其他选择吗？ 编辑：澄清这是一个 Web 应用程序，而不是移动应用程序    由   提交  /u/treftwerk   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dqbaki/how_to_build_waitlist/</guid>
-      <pubDate>Fri, 28 Jun 2024 04:38:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个网站，你可以搜索总统辩论的精彩片段。只需输入查询，即可找到你要找的片段 👀</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dqawh0/i_made_a_website_so_you_can_search_for_moments/</link>
-      <description><![CDATA[  由    /u/benjaminreally  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dqawh0/i_made_a_website_so_you_can_search_for_moments/</guid>
-      <pubDate>Fri, 28 Jun 2024 04:15:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>请在 Google Play 商店中查看我的新编剧应用并提供反馈。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dqaftd/please_review_and_provide_feedback_for_my_new/</link>
-      <description><![CDATA[      https://play.google.com/store/apps/details?id=com.app.screenwritingapph  希望它对有抱负的作家非常有用，并且可以帮助更多人以行业格式讲述故事。     提交人    /u/LegendaryStudiosLLC   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dqaftd/please_review_and_provide_feedback_for_my_new/</guid>
-      <pubDate>Fri, 28 Jun 2024 03:50:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>Botbyte AI - 使用 OpenAI Assistant 构建你自己的聊天机器人</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dqa63l/botbyte_ai_build_your_own_chatbot_with_openai/</link>
-      <description><![CDATA[        提交人    /u/Impressive-Oil-9294   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dqa63l/botbyte_ai_build_your_own_chatbot_with_openai/</guid>
-      <pubDate>Fri, 28 Jun 2024 03:36:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Keto - 一个用于修复损坏的 TikTok/Instagram/Twitter/更多嵌入的 Discord 机器人</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dq95j6/keto_a_discord_bot_to_fix_broken/</link>
-      <description><![CDATA[      现有的机器人可以做到这一点，但它们通常只关注一个站点的嵌入。我没有在我的服务器上添加多个机器人，而是制作了一个可以完成所有工作的机器人。 支持的服务和用于更正嵌入的网站列表： TikTok - quickvids.app 和 vxtiktok.com Instagram - ig.itsnebula.net Twitter - twittpr.com Reddit - Discord 内置的自定义嵌入，rxddit.com 除了社交媒体网站外，我的机器人还可以处理歌曲链接，如果您发送 Spotify 链接，它会在下面添加一个按钮以在其中打开 Apple Music，反之亦然。 现在 Discord 已经推出了用户可安装的应用程序，您可以在管理员未邀请机器人的 DM、群聊和服务器中使用它！ 邀请 Discord 应用程序目录 GitHub https://keto.boats    由   提交  /u/stkc-win   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dq95j6/keto_a_discord_bot_to_fix_broken/</guid>
-      <pubDate>Fri, 28 Jun 2024 02:43:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>改变复制文本的方式 - CopyIn2Clicks</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dq6ijt/changing_the_way_you_copy_text_copyin2clicks/</link>
-      <description><![CDATA[       由    /u/Financial-Jacket7754  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dq6ijt/changing_the_way_you_copy_text_copyin2clicks/</guid>
-      <pubDate>Fri, 28 Jun 2024 00:24:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个免费的大型动作模型并添加了网页浏览功能！（有点像 Perplexity，但更注重动作）</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dq5n07/i_created_a_free_large_action_model_and_added_web/</link>
-      <description><![CDATA[    /u/nobilis_rex_   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dq5n07/i_created_a_free_large_action_model_and_added_web/</guid>
-      <pubDate>Thu, 27 Jun 2024 23:42:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>每日付费帖子</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dq47uq/daily_paid_post/</link>
-      <description><![CDATA[大家好， 我想分享一个我晚上用来放松的业余项目：每日付费帖子。这是一个平台，您可以花 1 美元发布内容，让全世界都看到，而无需回复或直接互动。这个想法是让消息随着时间的推移被发现和分享，类似于古罗马涂鸦（此处有示例）。 概念  单向发布：花 1 美元发布您的消息，然后让它自然而然地发生。没有回复或联系方式。 可发现性：由于帖子不计其数，每条消息都可能遗失，但可能在数月或数年后被发现。 永恒的互动：在消息发布很久之后才发现它们，这创造了一种独特、永恒的联系。  过去的教训 早在 2013 年，在我第一次创业冒险中，我就了解到总有人在研究同样的想法。这是一个宝贵的教训，让我保持动力和开放的心态。在从事这个项目时，我在 Reddit 上看到了一个类似的项目，这强化了这一想法。 我为什么创建这个 睡前对齐列和调整前端对我来说非常放松。它帮助我从正在从事的主要项目中解脱出来。它远非完美，但我决定发布它，看看它是否有可能为我们的创业之旅提供资金。一次 1 美元！哈哈！ 在 Daily Paid Post 上查看并告诉我您的想法！ 顺便说一句，是的，这是新帐户。我可能也会开始为我的主要项目进行互动。    提交人    /u/remybricaud   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dq47uq/daily_paid_post/</guid>
-      <pubDate>Thu, 27 Jun 2024 22:36:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
