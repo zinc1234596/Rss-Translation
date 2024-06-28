@@ -4,7 +4,14 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Fri, 28 Jun 2024 00:59:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jun 2024 03:15:34 GMT</lastBuildDate>
+    <item>
+      <title>Keto - 一个用于修复损坏的 TikTok/Instagram/Twitter/更多嵌入的 Discord 机器人</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dq95j6/keto_a_discord_bot_to_fix_broken/</link>
+      <description><![CDATA[      现有的机器人可以做到这一点，但它们通常只关注一个站点的嵌入。我没有在我的服务器上添加多个机器人，而是制作了一个可以完成所有工作的机器人。 支持的服务和用于更正嵌入的网站列表： TikTok - quickvids.app 和 vxtiktok.com Instagram - ig.itsnebula.net Twitter - twittpr.com Reddit - Discord 内置的自定义嵌入，rxddit.com 除了社交媒体网站外，我的机器人还可以处理歌曲链接，如果您发送 Spotify 链接，它会在下面添加一个按钮以在其中打开 Apple Music，反之亦然。 现在 Discord 已经推出了用户可安装的应用程序，您可以在管理员未邀请机器人的 DM、群聊和服务器中使用它！ 邀请 Discord 应用程序目录 GitHub https://keto.boats    由   提交  /u/stkc-win   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dq95j6/keto_a_discord_bot_to_fix_broken/</guid>
+      <pubDate>Fri, 28 Jun 2024 02:43:00 GMT</pubDate>
+    </item>
     <item>
       <title>改变复制文本的方式 - CopyIn2Clicks</title>
       <link>https://www.reddit.com/r/SideProject/comments/1dq6ijt/changing_the_way_you_copy_text_copyin2clicks/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>每日付费帖子</title>
       <link>https://www.reddit.com/r/SideProject/comments/1dq47uq/daily_paid_post/</link>
-      <description><![CDATA[大家好， 我想分享一个我晚上用来放松的业余项目：每日付费帖子。这是一个平台，您可以花 1 美元发布内容，让全世界都看到，而无需回复或直接互动。这个想法是让消息随着时间的推移被发现和分享，类似于古罗马涂鸦（此处有示例）。 概念  单向发布：花 1 美元发布您的消息，然后让它自然而然地发生。没有回复或联系方式。 可发现性：由于帖子不计其数，每条消息都可能遗失，但可能在数月或数年后被发现。 永恒的互动：在消息发布很久之后才发现它们，这创造了一种独特、永恒的联系。  过去的教训 早在 2013 年，在我第一次创业冒险中，我就了解到总有人在研究同样的想法。这是一个宝贵的教训，让我保持动力和开放的心态。在从事这个项目时，我在 Reddit 上看到了一个类似的项目，这强化了这一想法。 我为什么创建这个 睡前对齐列和调整前端对我来说非常放松。它帮助我从正在从事的主要项目中解脱出来。它远非完美，但我决定发布它，看看它是否有可能为我们的创业之旅提供资金。一次 1 美元！哈哈！ 在 Daily Paid Post 上查看并告诉我您的想法！ 顺便说一句，是的，这是新帐户。我可能也会开始为我的主要项目进行互动。    提交人    /u/remybricaud   [link] [评论]]]></description>
+      <description><![CDATA[大家好， 我想分享一个我晚上用来放松的业余项目：每日付费帖子。这是一个平台，您可以花 1 美元发布内容，让全世界都看到，而无需回复或直接互动。这个想法是让消息随着时间的推移被发现和分享，类似于古罗马涂鸦（此处有示例）。 概念  单向发布：花 1 美元发布您的消息，然后让它自然而然地发生。没有回复或联系方式。 可发现性：由于帖子不计其数，每条消息都可能遗失，但可能在数月或数年后被发现。 永恒的互动：在消息发布很久之后才发现它们，这创造了一种独特、永恒的联系。  过去的教训 早在 2013 年，在我第一次创业冒险中，我就了解到总有人在研究同样的想法。这是一个宝贵的教训，让我保持动力和开放的心态。在从事这个项目的过程中，我在 Reddit 上看到了一个类似的项目，这强化了这一想法。 我为什么创建这个 睡前对齐列和调整前端对我来说非常放松。它帮助我从正在从事的主要项目中解脱出来。它远非完美，但我决定发布它，看看它是否有可能为我们的创业之旅提供资金。一次 1 美元！哈哈！ 在 Daily Paid Post 上查看并告诉我您的想法！ 顺便说一句，是的，这是新帐户。我可能也会开始为我的主要项目进行互动。    提交人    /u/remybricaud   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1dq47uq/daily_paid_post/</guid>
       <pubDate>Thu, 27 Jun 2024 22:36:14 GMT</pubDate>
     </item>
@@ -85,7 +92,7 @@
     <item>
       <title>浏览器中的开源和注重隐私的离线翻译</title>
       <link>https://www.reddit.com/r/SideProject/comments/1dq0ma8/opensource_and_privacy_focused_offline/</link>
-      <description><![CDATA[大家好。我正在推出 Linguist Translate，这是一个开源的、功能齐全的翻译解决方案，带有嵌入式离线翻译器，该翻译器基于 Mozilla 创建的 Bergamot 项目。 网站：https://linguister.io GitHub：https://github.com/translate-tools/linguist 今天，Linguist 在 ProductHunt 上推出。真正关心隐私的人请支持该项目：https://www.producthunt.com/posts/linguist-translate Linguist 不仅仅是像许多其他扩展程序一样对 Google Translator 的包装。借助自定义翻译器，您可以将任何翻译服务与 Linguist 结合使用！您甚至可以在本地主机上部署任何机器翻译（如 LibreTranslate），然后将此服务添加到 Linguist。 包含所有功能：文本翻译、整页翻译、选定文本翻译、文本转语音、词典、历史记录等等。    提交人    /u/vitonsky   [link] [评论]]]></description>
+      <description><![CDATA[大家好。我正在推出 Linguist Translate，这是一个开源的、功能齐全的翻译解决方案，带有嵌入式离线翻译器，该翻译器基于 Mozilla 创建的 Bergamot 项目。 网站：https://linguister.io GitHub：https://github.com/translate-tools/linguist 今天，Linguist 在 ProductHunt 上推出。支持真正关心隐私的项目：https://www.producthunt.com/posts/linguist-translate Linguist 不仅仅是像许多其他扩展程序一样对 Google Translator 的包装。借助自定义翻译器，您可以将任何翻译服务与 Linguist 结合使用！您甚至可以在本地主机上部署任何机器翻译（如 LibreTranslate），然后将此服务添加到 Linguist。 包含所有功能：文本翻译、整页翻译、选定文本翻译、文本转语音、词典、历史记录等等。    提交人    /u/vitonsky   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1dq0ma8/opensource_and_privacy_focused_offline/</guid>
       <pubDate>Thu, 27 Jun 2024 20:01:59 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[有点想吐槽，但是还有人制作不依靠 AI 或不基于 AI 构建的工具吗？ 我并不是 AI 的忠实粉丝。不是因为技术，我认为它很棒，我偶尔会用。而是因为，像往常一样，大型科技公司正在使用和推广它，以获取金钱和权力。（这一次我希望一家大公司做个好人，为大众谋福利，而不是为个人谋利。我只能做梦，对吧？） 作为后端开发人员，我理解使用 AI 来增强现有产品，但纯粹依靠 AI 工作的产品，对我来说有点像作弊，因为真正的工作是在其他地方由其他东西完成的。 无论如何，只是吐槽一下。我希望我没有冒犯任何人。    提交人    /u/Stitch10925   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1dpzfel/ai_ai_everywhere/</guid>
       <pubDate>Thu, 27 Jun 2024 19:11:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>加入 Star Task 的封闭测试版 - 终极生产力应用程序！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dpzbho/join_the_closed_beta_for_star_task_the_ultimate/</link>
-      <description><![CDATA[大家好， 我很高兴地告诉大家，我的第一个应用 Star Task 即将于 7 月 12 日在 Google Play Store 上进入公开测试版！Star Task 旨在帮助您高效管理任务，具有实时列表共享、任务复制等功能。 我们目前处于封闭测试阶段，我很乐意邀请​​您加入并提供反馈。如果您有兴趣，请给我发送您的电子邮件地址，以便我将您添加到测试版中。或者，您可以使用我们网站上的“联系我们”页面请求访问权限。 查看我们的网站了解更多详情：https://startaskapp.com    提交人    /u/StarTaskApp   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dpzbho/join_the_closed_beta_for_star_task_the_ultimate/</guid>
-      <pubDate>Thu, 27 Jun 2024 19:06:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
