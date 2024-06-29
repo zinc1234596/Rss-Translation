@@ -4,7 +4,70 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Sat, 29 Jun 2024 06:17:11 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Jun 2024 09:14:42 GMT</lastBuildDate>
+    <item>
+      <title>小胜利：我的新项目刚刚完成了前两笔销售</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dr74vr/little_win_my_new_project_just_made_its_first_two/</link>
+      <description><![CDATA[自我介绍：我是 2x 职位公告板创始人。自 2022 年以来，我一直在为各种细分市场构建职位公告板。其中一些失败了。我现在靠 2 个职位公告板谋生。 几个月前，我在 Twitter 上看到 SaaS 样板正在兴起。因此，我认为如果 SaaS 样板有市场，那么招聘板样板也会有市场。 因此，我迅速贴出样板并在 Twitter 上发布（请注意，我是一名开发人员，因此我非常熟悉帮助我快速发布的工具） 我的堆栈：Nextjs、Supabase Postgres、TailwindCSS、Shadcn/UI 和 Lemon Squeezy。 人们立刻发现它很有用，我赚了很多钱，但我不知道 Lemon Squeezy 很快就会把我赶走。 在此期间，Lemon Squeezy 宣布他们将不再接受招聘板到他们的平台。这对我来说是一个沉重的打击，因为很多客户在这个公告发布后立即要求退款。这粉碎了我继续开发样板的动力。 但我注意到一个模式：很少有人在 Twitter 上给我发私信，询问我是否支持 Stripe 付款。 因此，经过深思熟虑，我再次从头开始更新堆栈并包括 Stripe，然后重新发送电子邮件。 在编写任何代码之前，我在 Twitter 上分享了我将集成 Stripe 的想法，并提供了一个付款链接来预订样板。两个人立即预订了它。所以，我继续编写代码。最后，样板已上线。 您可以在此处查看我的原始推文： https://x.com/NithurM/status/1799759501475934247 我将自己在构建和发展招聘板方面的 2 年经验应用到了这个样板中。最重要的是，它提供了对 pSEO、静态渲染等的开箱即用支持。 现在，我们有一个 discord 服务器，供招聘板创始人分享知识、获得帮助、请求反馈等。 您可以在 Twitter 上关注我的旅程。谢谢阅读 :)    提交人    /u/WordyBug   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dr74vr/little_win_my_new_project_just_made_its_first_two/</guid>
+      <pubDate>Sat, 29 Jun 2024 09:09:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的 Side Project 迎来了第一个 2000 名用户！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dr6wbr/i_got_my_first_2k_users_on_my_side_project/</link>
+      <description><![CDATA[我的二维码项目 Novu.Link 已拥有 2,000 名用户！这是一个平台，可让您制作单个动态二维码，然后可以根据您选择的规则重定向到许多目的地。 到目前为止，人们主要使用付费功能按时间和星期几（星期几）重定向，以及跟踪其代码的分析统计数据。我也有几个使用规则随机重定向到广告的项目；他们的外卖包装上有二维码，并通过它做广告。    提交人    /u/mwargan   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dr6wbr/i_got_my_first_2k_users_on_my_side_project/</guid>
+      <pubDate>Sat, 29 Jun 2024 08:52:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI 图像生成器 iOS 应用设计模板</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dr6u19/ai_image_generator_ios_app_design_templates/</link>
+      <description><![CDATA[大家好，我是 Iosi，一名热爱在业余时间创作设计资源的 iOS 应用设计师。 我一直在探索 Midjourney、DALL-E 和 Stable Diffusion 等 AI 趋势，并且整理了一个 AI 图像生成器 iOS 应用设计模板。 如果您有兴趣构建类似的东西，请查看此处（Figma 上的实时预览）。  您可以在此处获取并使用代码REDDIT25享受 25% 折扣。该折扣在接下来的 48 小时内有效  欢迎提供反馈。另外，你们当中有人计划构建 iOS 应用并需要设计模板吗？    提交人    /u/iosipratama   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dr6u19/ai_image_generator_ios_app_design_templates/</guid>
+      <pubDate>Sat, 29 Jun 2024 08:47:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>创建了一个工具，可以将 .gpx 或 .kml 文件转换为任何类型的事件或冒险的视频</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dr6raa/created_a_tool_that_turns_gpx_or_kml_files_into/</link>
+      <description><![CDATA[        提交人    /u/zitscher   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dr6raa/created_a_tool_that_turns_gpx_or_kml_files_into/</guid>
+      <pubDate>Sat, 29 Jun 2024 08:41:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>我将人工智能融入到我的日记应用程序中。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dr6n6x/i_integrated_ai_into_my_diary_app/</link>
+      <description><![CDATA[      根据您的日记数据，您可以与其聊天并向其询问有关您忘记的事情的建议或问题。  您觉得这些日记应用怎么样？ ONEDiary Link https://preview.redd.it/l4x9kvv42h9d1.png?width=1024&amp;format=png&amp;auto=webp&amp;s=6e93035482877e370294051f770886767a12b112    由   提交  /u/Silent_Window848   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dr6n6x/i_integrated_ai_into_my_diary_app/</guid>
+      <pubDate>Sat, 29 Jun 2024 08:33:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Midjourney Prompt Book - Prompts & Tips 现已在 Product Hunt 上线</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dr5xy5/midjourney_prompt_book_prompts_tips_is_live_on/</link>
+      <description><![CDATA[它可以让您将想象变成现实，突破创意障碍并提高工作效率。 想象一下，您正在创造您梦寐以求的最疯狂的图像，或者为视频游戏和电影设计令人惊叹的概念艺术，所有这一切都在眨眼之间完成。 如果您能查看并分享您的反馈，我们将不胜感激 https://www.producthunt.com/posts/midjourney-prompt-book-prompts-tips    提交人    /u/Brilliant_Humor2403   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dr5xy5/midjourney_prompt_book_prompts_tips_is_live_on/</guid>
+      <pubDate>Sat, 29 Jun 2024 07:43:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于我的 URL-shortner API 项目的问题</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dr5v5o/question_regarding_my_urlshortner_api_project/</link>
+      <description><![CDATA[大家好，我是一名计算机科学本科生。我一直在开发一个 URL 缩短 API 作为个人项目。 我一直在研究并想到“分析”是一个值得添加到我的项目中的功能。但是我真的不明白我应该在我的项目中添加什么样的分析功能。我已经添加了获取最近点击的链接和可检索的链接点击次数的功能。你们能否提供一些见解，让我知道我可以在我的项目中添加更多分析点，或者即使你们认为这些已经足够了。    提交人    /u/GoldenStaff2004   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dr5v5o/question_regarding_my_urlshortner_api_project/</guid>
+      <pubDate>Sat, 29 Jun 2024 07:37:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>我为 Pixabay 制作音乐和图像</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dr5tsp/i_make_music_and_images_for_pixabay/</link>
+      <description><![CDATA[      人物我不会为音乐或图片付费，但我经常得到小费，足以让我不断进步。到目前为止，据我所知，我的图片已被用作书籍封面，但不确定音乐。    提交人    /u/therealnickpanek   [link] [comments] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dr5tsp/i_make_music_and_images_for_pixabay/</guid>
+      <pubDate>Sat, 29 Jun 2024 07:34:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>这里</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dr4pde/aiseo/</link>
+      <description><![CDATA[AISEO 是一款人工智能写作助手，可提供无法检测到的人工智能内容。     提交人    /u/Double_Spot_580   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dr4pde/aiseo/</guid>
+      <pubDate>Sat, 29 Jun 2024 06:17:58 GMT</pubDate>
+    </item>
     <item>
       <title>有谁使用过 AI SEO 插件或者 AI 博客作者软件吗</title>
       <link>https://www.reddit.com/r/SideProject/comments/1dr3p99/does_anyone_use_ai_seo_plugin_or_ai_blog_writer/</link>
@@ -46,69 +109,6 @@
       <description><![CDATA[        提交人    /u/Open_Relative_591   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1dr01g7/built_a_linkedin_for_musicians_eventbrite_for/</guid>
       <pubDate>Sat, 29 Jun 2024 01:44:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了 FlowTunes - 人工智能生成的音乐，帮助人们集中注意力</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dqzqwp/i_built_flowtunes_aigenerated_music_for_focus/</link>
-      <description><![CDATA[      👋 嗨！我很乐意听取您的反馈。我创建 FlowTunes 是为了满足自己的需求；音乐可以集中注意力，并混合自定义背景音景。它简单而且免费。 flowtunes.app https://preview.redd.it/xj1t8pj6ye9d1.jpg?width=3200&amp;format=pjpg&amp;auto=webp&amp;s=d3f88e955415eccd64cfa019d07a4446d04a899e   由    /u/mitchcrowe  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dqzqwp/i_built_flowtunes_aigenerated_music_for_focus/</guid>
-      <pubDate>Sat, 29 Jun 2024 01:28:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>推出 MFA 助手：简化您的多因素身份验证！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dqzbv2/introducing_mfa_assistant_simplify_your/</link>
-      <description><![CDATA[嘿 Redditors！ 我很高兴分享我的副项目，MFA（多因素身份验证）助手，这是 Firefox 和 Chromium 的浏览器扩展，可自动执行繁琐的 MFA 过程。如果您厌倦了手动检索和输入 MFA 代码，那么此扩展非常适合您！ 主要功能：  自动代码检索：从您的电子邮件中获取 MFA 代码并安全地自动填充。 客户端操作：您的数据保持私密，无需后端服务器参与。 可选的长期身份验证：使用 Cloudflare Worker 进行扩展会话，无需频繁重新身份验证。 开源：查看代码并在 GitHub 上做出贡献。  好处：  节省时间：省去了手动输入 MFA 代码的麻烦。 提高生产力：简化您的工作流程，尤其是对于频繁用户。 增强的安全性：降低暴露 MFA 代码的风险。  入门：&gt;  安装：可在 Chrome 网上应用店、Firefox 附加组件和 Edge（审核中）上使用。 授权：按照提示通过 OAuth 访问您的 Gmail。 享受：让扩展程序轻松处理您的 MFA 代码！  查看一下，让我知道您的想法或建议。您的反馈非常宝贵！ GitHub 项目页面 期待让每个人都更轻松地使用 MFA！    提交人    /u/june07r   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dqzbv2/introducing_mfa_assistant_simplify_your/</guid>
-      <pubDate>Sat, 29 Jun 2024 01:06:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>建立了一个人工智能恶作剧网站！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dqz6ul/built_an_ai_prank_site/</link>
-      <description><![CDATA[请访问 www.prankify.lol 让我知道您对此的看法    由   提交  /u/Accomplished_Sir_414   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dqz6ul/built_an_ai_prank_site/</guid>
-      <pubDate>Sat, 29 Jun 2024 00:59:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>Modeldrop.ai：我制作了一款应用程序，可以一键在云端启动 AI 模型。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dqytir/modeldropai_i_made_an_app_to_one_click_launch_ai/</link>
-      <description><![CDATA[嗨，我是 siszero。我创建了 Modeldrop.ai。这款应用可轻松将开源 AI 模型部署到生产环境中。只需从 Huggingface 中选择一个模型，几秒钟后即可获得可用于生产的 REST API。 在开发其他与 AI 相关的应用时，我找不到一种简单且便宜的方法来部署 LLM 或稳定扩散等可视化模型。现有的解决方案（如复制）要么太贵，要么并不总是有我需要的模型。因此，我会陷入困境，无法专注于如何为模型设计和配置服务器和 API，而无法专注于我的 AI 项目。 由于我现在对部署模型有所了解，我想其他人可能也遇到了这个问题，可以使用一键式解决方案。这就是我构建 Modeldrop 的原因。 如果您正在使用 AI 构建应用程序并需要部署模型，请尝试 Modeldrop。给我发消息以获取 alpha 访问权限或直接访问网站。 请随时在此帖子中留下您的任何反馈。谢谢阅读！    提交人    /u/siszero   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dqytir/modeldropai_i_made_an_app_to_one_click_launch_ai/</guid>
-      <pubDate>Sat, 29 Jun 2024 00:39:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>对于社交媒体应用程序来说，最重要的营销策略是什么？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dqys08/what_is_the_most_important_marketing_strategy_for/</link>
-      <description><![CDATA[我正在开发一款 pickleball 应用，可让人们发布自己的空闲时间，以便其他人找到他们。我们刚刚在一个大城市试运行，我们想先在这里建立一个社区，然后再扩展到另一个城市（基于《冷启动问题》一书中的建议）。 近一个月以来，我们每天都在 Instagram 上发布帖子（没有任何付费广告），以便在发布前获得一些宣传（&lt;200 名粉丝，过去 30 天内达到 11,000 个账户），我们最近开始在 TikTok 上发布视频，我们正在利用本地 Facebook 群组与目标用户建立联系。 我们距离 Android 应用发布还有几周的时间，现在我们刚刚在 App Store 上线。我们计划在 Android 应用准备就绪后在 Instagram 和 TikTok 上进行付费营销。  我看到一些应用在第一天就吸引了数千名用户，但我们在过去 3 天内只有大约 40 名用户。这些应用是如何爆红的？我的营销策略中缺少什么？     提交人    /u/Hard_Blueberry2377   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dqys08/what_is_the_most_important_marketing_strategy_for/</guid>
-      <pubDate>Sat, 29 Jun 2024 00:37:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>B2B 网站通常很糟糕——让我们解决这个问题</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dqyowx/b2b_websites_are_generally_terrible_lets_fix_that/</link>
-      <description><![CDATA[      大多数制造商没有产品目录，也没有让客户建立报价的方式，更不用说获取订单状态的更新了。 我建立了 Enspan.io 来为所有人提供B2B 企业（制造商和服务提供商）提供客户自助服务的简便方法。 Enspan 处理从报价到订单到现金的流程以及从采购到付款的流程。它类似于 ERP，但它与交易对手（客户或供应商）实时共享数据。 例如：客户来到您的网站，浏览您的目录，创建报价。您以最佳报价回应报价，客户可以接受并将其转变为客户采购订单。当情况发生变化（例如运输）时，客户会收到电子邮件更新。最终，系统会自动向客户开具发票，客户也可以在线记录付款。 https://preview.redd.it/ylzpje4koe9d1.png?width=1828&amp;format=png&amp;auto=webp&amp;s=08b78e654fa6499b7853c534e17eb585cb516b87    提交人    /u/enspan   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dqyowx/b2b_websites_are_generally_terrible_lets_fix_that/</guid>
-      <pubDate>Sat, 29 Jun 2024 00:33:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>我推出了一款 100% 真实的社交应用和小工具 - 链接见评论</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dqyavg/i_launched_a_100_real_life_social_app_and_widget/</link>
-      <description><![CDATA[        提交人    /u/RiskDazzling7275   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dqyavg/i_launched_a_100_real_life_social_app_and_widget/</guid>
-      <pubDate>Sat, 29 Jun 2024 00:12:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>Slack 状态调度器</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dqx9jz/slack_status_scheduler/</link>
-      <description><![CDATA[这是我的第一个公开的业余项目。我真的需要一些反馈。 不是一个原创的想法。但我有很多功能正在开发中。  https://funqtion.slack.com/apps/A06MQD8RW57-status-scheduler    提交人    /u/Palestitan   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dqx9jz/slack_status_scheduler/</guid>
-      <pubDate>Fri, 28 Jun 2024 23:22:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>我已经开发了 Canva 的替代品，离线第一个移动应用程序 100% 免费</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dqva1n/i_have_built_a_canva_alternative_offline_first/</link>
-      <description><![CDATA[我已经构建了一个完全免费的 Canva 替代离线第一个移动应用程序，如果您想要更快的速度，也可以打开在线模式。 我将继续致力于此，视频中看到的功能将保持免费，新功能可能需要高级访问权限！享受 它开放预注册，第一个版本将改进用户体验并修复一些小错误，预计发布时间为 1 到 2 个月 https://play.google.com/store/apps/details?id=com.rembg.com.app&amp;pcampaignid=web_share    提交人    /u/techy-deutsch   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dqva1n/i_have_built_a_canva_alternative_offline_first/</guid>
-      <pubDate>Fri, 28 Jun 2024 21:50:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
