@@ -4,7 +4,49 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Sat, 29 Jun 2024 00:58:20 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Jun 2024 03:15:27 GMT</lastBuildDate>
+    <item>
+      <title>构建开源 Perplexity AI，100% 开源堆栈，没有 ClosedAI 密钥，哈哈</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dr0etc/building_an_opensource_perplexity_ai_100_open/</link>
+      <description><![CDATA[        提交人    /u/Minute_Yam_1053   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dr0etc/building_an_opensource_perplexity_ai_100_open/</guid>
+      <pubDate>Sat, 29 Jun 2024 02:03:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>解决终极问题：发现问题</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dr03af/solving_the_ultimate_problem_finding_problems/</link>
+      <description><![CDATA[大家好， 祝大家星期五快乐！ 作为创始人，我遇到的最艰巨的挑战之一是确定真正需要解决的问题😆 如果不解决真正的痛点，所有的努力都会白费。这就是为什么我要开发一个人工智能平台，旨在帮助创始人和专业人士查明和分析跨行业、特定工作角色和现有产品的普遍问题。 以下是独家新闻：我们的平台处理来自 Reddit 论坛、Quora、G2 等的数据，以发现真正的投诉、反馈和评论。这种数据驱动的方法旨在为创始人提供可行的见解，以创建真正满足市场需求的解决方案。 我也很想听听你的挑战！无论您是创始人、业务分析师还是任何领域的专业人士，您的意见都是无价的。让我们讨论一下您面临的障碍 — — 无论是在想法验证还是其他任何事情上。 期待您的想法和见解！😃    提交人    /u/Interesting-Hat4966   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dr03af/solving_the_ultimate_problem_finding_problems/</guid>
+      <pubDate>Sat, 29 Jun 2024 01:47:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>为音乐家建立了 LinkedIn + 为现场音乐建立了 Eventbrite——如何销售和货币化？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dr01g7/built_a_linkedin_for_musicians_eventbrite_for/</link>
+      <description><![CDATA[        提交人    /u/Open_Relative_591   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dr01g7/built_a_linkedin_for_musicians_eventbrite_for/</guid>
+      <pubDate>Sat, 29 Jun 2024 01:44:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了 FlowTunes - 人工智能生成的音乐，帮助人们集中注意力</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dqzqwp/i_built_flowtunes_aigenerated_music_for_focus/</link>
+      <description><![CDATA[      👋 嗨！我很乐意听取您的反馈。我创建 FlowTunes 是为了满足自己的需求；音乐可以集中注意力，并混合自定义背景音景。它简单而且免费。 flowtunes.app https://preview.redd.it/xj1t8pj6ye9d1.jpg?width=3200&amp;format=pjpg&amp;auto=webp&amp;s=d3f88e955415eccd64cfa019d07a4446d04a899e   由    /u/mitchcrowe  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dqzqwp/i_built_flowtunes_aigenerated_music_for_focus/</guid>
+      <pubDate>Sat, 29 Jun 2024 01:28:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>推出 MFA 助手：简化您的多因素身份验证！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dqzbv2/introducing_mfa_assistant_simplify_your/</link>
+      <description><![CDATA[嘿 Redditors！ 我很高兴分享我的副项目，MFA（多因素身份验证）助手，这是 Firefox 和 Chromium 的浏览器扩展，可自动执行繁琐的 MFA 过程。如果您厌倦了手动检索和输入 MFA 代码，那么此扩展非常适合您！ 主要功能：  自动代码检索：从您的电子邮件中获取 MFA 代码并安全地自动填充。 客户端操作：您的数据保持私密，无需后端服务器参与。 可选的长期身份验证：使用 Cloudflare Worker 进行扩展会话，无需频繁重新身份验证。 开源：查看代码并在 GitHub 上做出贡献。  好处：  节省时间：省去了手动输入 MFA 代码的麻烦。 提高生产力：简化您的工作流程，尤其是对于频繁用户。 增强的安全性：降低暴露 MFA 代码的风险。  入门：&gt;  安装：可在 Chrome 网上应用店、Firefox 附加组件和 Edge（审核中）上使用。 授权：按照提示通过 OAuth 访问您的 Gmail。 享受：让扩展程序轻松处理您的 MFA 代码！  查看一下，让我知道您的想法或建议。您的反馈非常宝贵！ GitHub 项目页面 期待让每个人都更轻松地使用 MFA！    提交人    /u/june07r   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dqzbv2/introducing_mfa_assistant_simplify_your/</guid>
+      <pubDate>Sat, 29 Jun 2024 01:06:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>建立了一个人工智能恶作剧网站！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dqz6ul/built_an_ai_prank_site/</link>
+      <description><![CDATA[请访问 www.prankify.lol 让我知道您对此的看法    由   提交  /u/Accomplished_Sir_414   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dqz6ul/built_an_ai_prank_site/</guid>
+      <pubDate>Sat, 29 Jun 2024 00:59:16 GMT</pubDate>
+    </item>
     <item>
       <title>Modeldrop.ai：我制作了一款应用程序，可以一键在云端启动 AI 模型。</title>
       <link>https://www.reddit.com/r/SideProject/comments/1dqytir/modeldropai_i_made_an_app_to_one_click_launch_ai/</link>
@@ -15,7 +57,7 @@
     <item>
       <title>对于社交媒体应用程序来说，最重要的营销策略是什么？</title>
       <link>https://www.reddit.com/r/SideProject/comments/1dqys08/what_is_the_most_important_marketing_strategy_for/</link>
-      <description><![CDATA[我正在开发一款 pickleball 应用，可让人们发布自己的空闲时间，以便其他人找到他们。我们刚刚在一个大城市试运行，我们想先在这里建立一个社区，然后再扩展到另一个城市（基于《冷启动问题》一书中的建议）。 近一个月以来，我们每天都在 Instagram 上发布帖子（没有任何付费广告），以便在发布前获得一些宣传（&lt;200 名粉丝，过去 30 天内达到 11,000 个账户），我们最近开始在 TikTok 上发布视频，我们正在利用本地 Facebook 群组与目标用户建立联系。 我们距离 Android 应用发布还有几周的时间，现在我们刚刚在 App Store 上线。我们计划在 Android 应用准备就绪后在 Instagram 和 TikTok 上进行付费营销。  我看到一些应用在第一天就吸引了数千名用户，但我们在过去 3 天内只有大约 40 名用户。这些应用是如何爆红的？我的营销策略中缺少什么？     提交人    /u/Hard_Blueberry2377   [link] [评论]]]></description>
+      <description><![CDATA[我正在开发一款 pickleball 应用，可让人们发布自己的空闲时间，以便其他人可以找到他们。我们刚刚在一个大城市进行了软启动，我们想先在这里建立一个社区，然后再扩展到另一个城市（基于《冷启动问题》一书中的建议）。 近一个月以来，我们每天都在 Instagram 上发布帖子（没有任何付费广告），以便在发布前获得一些宣传（&lt;200 名粉丝，过去 30 天内达到 11,000 个账户），我们最近开始在 TikTok 上发布视频，我们正在利用本地 Facebook 群组与目标用户建立联系。 我们距离 Android 应用还有几周的时间，现在我们刚刚在 App Store 上线。我们计划在 Android 应用准备就绪后在 Instagram 和 TikTok 上进行付费营销。  我看到一些应用在第一天就吸引了数千名用户，但我们在过去 3 天内只有大约 40 名用户。这些应用是如何爆红的？我的营销策略中缺少什么？     提交人    /u/Hard_Blueberry2377   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1dqys08/what_is_the_most_important_marketing_strategy_for/</guid>
       <pubDate>Sat, 29 Jun 2024 00:37:23 GMT</pubDate>
     </item>
@@ -67,48 +109,6 @@
       <description><![CDATA[        由    /u/chaz9127  提交  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1dqu2jy/autofilly_my_first_chrome_extension_looking_for/</guid>
       <pubDate>Fri, 28 Jun 2024 20:57:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>产品市场契合度——唯一重要的事情！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dqto6l/product_market_fit_the_only_thing_that_matters/</link>
-      <description><![CDATA[大家好， 我和我的联合创始人正在开展一个项目，旨在帮助创始人找到经过验证的客户痛点，我想得到您的反馈。 我们计划如何做到这一点？我们正在创建一个真实客户访谈库！ 我们的访谈库有数十个客户访谈，讨论专业和个人痛点 - 所有真实、潜在的机会，为您的下一次创业提供。通过我们的采访，您将了解到：  真正的客户痛点 这些痛点的当前解决方案 目前为解决这些痛点所花费的资金，以及这些解决方案的满意度 客户需求的相对重要性（即，痛点多/需求高 vs. 需求低/痛点低） 记录，甚至直接的客户联系信息（如果客户允许） 最终，建立一家客户绝对喜爱的初创公司和企业  我们已经开放了候补名单，也在寻找更多的客户采访以及来自潜在用户的反馈（也许是您？）。如果您被选中参加面试，我们将在平台上线时为您提供独家特权/访问权限。 我们始终喜欢任何类型的反馈，尤其是如果您喜欢或讨厌我们的想法！非常喜欢！    提交人    /u/Sad_Committee_7542   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dqto6l/product_market_fit_the_only_thing_that_matters/</guid>
-      <pubDate>Fri, 28 Jun 2024 20:39:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>我正在打造一个人工智能伴侣，帮助那些预算有限和正在寻找初次约会好去处的人推荐约翰内斯堡的餐馆和其他隐藏景点</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dqspzc/im_building_an_ai_companion_that_with_help/</link>
-      <description><![CDATA[我正在开发一款人工智能应用，帮助用户在我所在的城市约翰内斯堡找到餐馆或有趣的地方。作为约会应用的使用者，我有时很难想出第一次约会要去的地方，因为我害怕去一家昂贵的餐馆花很多钱，而且我显然也不想带我的约会对象去一个糟糕的地方，这就是 Molo Ai 的灵感来源。 Molo Ai 会询问你的预算，然后推荐一些地方，它会告诉你餐点的价格，甚至会为你找到去过同一地方的其他人的 TikTok 或 Instagram 视频，这样你就不会一无所知。对于那些想要在城市中寻找一些隐藏宝石的旅行者来说，它也很棒 如果您想尽快尝试，这里有一个候补名单的链接：https://www.moloai.com/hiddengems/    提交人    /u/Themba47   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dqspzc/im_building_an_ai_companion_that_with_help/</guid>
-      <pubDate>Fri, 28 Jun 2024 19:58:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>人们怀念 stumbleupon 吗？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dqsi86/do_people_miss_stumbleupon/</link>
-      <description><![CDATA[一直在考虑这个问题。这么多拥挤的订阅源。这么多内容。如果我们每天只查看一个网站会怎么样。 我觉得我们处在一个循环中，现在想要回归简单。有什么想法吗？    由    /u/Carleyley 提交   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dqsi86/do_people_miss_stumbleupon/</guid>
-      <pubDate>Fri, 28 Jun 2024 19:49:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>我开发了一款应用程序，让你可以在你最喜欢的播客播放器中朗读文章</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dqs6w3/i_built_an_app_to_have_articles_read_to_you_in/</link>
-      <description><![CDATA[Pod Narrator 获取文本或文章并将其传送到您最喜欢的播客播放器    提交人    /u/Aligned-Sea-7873   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dqs6w3/i_built_an_app_to_have_articles_read_to_you_in/</guid>
-      <pubDate>Fri, 28 Jun 2024 19:35:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找我的新服务的测试人员 - 免费一年订阅</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dqrxt7/looking_for_testers_for_my_new_service_free/</link>
-      <description><![CDATA[大家好！ 我很高兴介绍我的新服务 VerifiedCustomers。这是一项展示您已验证客户的提示通知服务。如果您使用的是 Stripe 或 LemonSqueezy，我很乐意让您免费试用！ VerifiedCustomers 会显示弹出窗口，其中包含从您这里购买或订阅您服务的用户，他们使用 X（Twitter）帐户来吸引潜在客户并建立信任。我们使用您的客户用于购买的电子邮件来验证他们，确保真实性并防止任何特殊干预。 我正在寻找测试人员来帮助查看对转化率的影响。为了表达我的谢意，我将免费提供一年的订阅（正常价格为 30 美元）。 在下面发表评论或给我发消息。    提交人    /u/malamatcaga   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dqrxt7/looking_for_testers_for_my_new_service_free/</guid>
-      <pubDate>Fri, 28 Jun 2024 19:24:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>创建了一个开源 AI 代理，可在值班期间提供帮助</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dqrred/created_an_opensource_ai_agent_that_helps_during/</link>
-      <description><![CDATA[大家好，我们很高兴向大家介绍我们过去几个月的工作。我们是两位联合创始人，我们都经历过值班的情况，我们觉得准备不足，相关人员不在身边帮忙，或者我们半夜被留在原地试图找出问题所在。 Merlinn 是一位开源 AI 值班开发人员，居住在 Slack 中。它可以通过连接到您最喜欢的工具并与您配对以对事件进行分类，帮助您缓解上述一些痛苦。我们还有一个托管在我们的云上的专业版。 我们的目标是帮助公司减少 MTTR、控制您的 SLA 并改善值班体验如果您对我们所做的事情感兴趣，可以加入我们的 Slack 社区。访问我们的网站进行了解。 就是这样！如果您有任何问题/反馈/想法，我们很乐意听取 :)    提交人    /u/Old_Cauliflower6316   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dqrred/created_an_opensource_ai_agent_that_helps_during/</guid>
-      <pubDate>Fri, 28 Jun 2024 19:16:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
