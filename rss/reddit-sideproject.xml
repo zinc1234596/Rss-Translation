@@ -4,7 +4,56 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Fri, 28 Jun 2024 21:13:59 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Jun 2024 00:58:20 GMT</lastBuildDate>
+    <item>
+      <title>Modeldrop.ai：我制作了一款应用程序，可以一键在云端启动 AI 模型。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dqytir/modeldropai_i_made_an_app_to_one_click_launch_ai/</link>
+      <description><![CDATA[嗨，我是 siszero。我创建了 Modeldrop.ai。这款应用可轻松将开源 AI 模型部署到生产环境中。只需从 Huggingface 中选择一个模型，几秒钟后即可获得可用于生产的 REST API。 在开发其他与 AI 相关的应用时，我找不到一种简单且便宜的方法来部署 LLM 或稳定扩散等可视化模型。现有的解决方案（如复制）要么太贵，要么并不总是有我需要的模型。因此，我会陷入困境，无法专注于如何为模型设计和配置服务器和 API，而无法专注于我的 AI 项目。 由于我现在对部署模型有所了解，我想其他人可能也遇到了这个问题，可以使用一键式解决方案。这就是我构建 Modeldrop 的原因。 如果您正在使用 AI 构建应用程序并需要部署模型，请尝试 Modeldrop。给我发消息以获取 alpha 访问权限或直接访问网站。 请随时在此帖子中留下您的任何反馈。谢谢阅读！    提交人    /u/siszero   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dqytir/modeldropai_i_made_an_app_to_one_click_launch_ai/</guid>
+      <pubDate>Sat, 29 Jun 2024 00:39:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>对于社交媒体应用程序来说，最重要的营销策略是什么？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dqys08/what_is_the_most_important_marketing_strategy_for/</link>
+      <description><![CDATA[我正在开发一款 pickleball 应用，可让人们发布自己的空闲时间，以便其他人找到他们。我们刚刚在一个大城市试运行，我们想先在这里建立一个社区，然后再扩展到另一个城市（基于《冷启动问题》一书中的建议）。 近一个月以来，我们每天都在 Instagram 上发布帖子（没有任何付费广告），以便在发布前获得一些宣传（&lt;200 名粉丝，过去 30 天内达到 11,000 个账户），我们最近开始在 TikTok 上发布视频，我们正在利用本地 Facebook 群组与目标用户建立联系。 我们距离 Android 应用发布还有几周的时间，现在我们刚刚在 App Store 上线。我们计划在 Android 应用准备就绪后在 Instagram 和 TikTok 上进行付费营销。  我看到一些应用在第一天就吸引了数千名用户，但我们在过去 3 天内只有大约 40 名用户。这些应用是如何爆红的？我的营销策略中缺少什么？     提交人    /u/Hard_Blueberry2377   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dqys08/what_is_the_most_important_marketing_strategy_for/</guid>
+      <pubDate>Sat, 29 Jun 2024 00:37:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>B2B 网站通常很糟糕——让我们解决这个问题</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dqyowx/b2b_websites_are_generally_terrible_lets_fix_that/</link>
+      <description><![CDATA[      大多数制造商没有产品目录，也没有让客户建立报价的方式，更不用说获取订单状态的更新了。 我建立了 Enspan.io 来为所有人提供B2B 企业（制造商和服务提供商）提供客户自助服务的简便方法。 Enspan 处理从报价到订单到现金的流程以及从采购到付款的流程。它类似于 ERP，但它与交易对手（客户或供应商）实时共享数据。 例如：客户来到您的网站，浏览您的目录，创建报价。您以最佳报价回应报价，客户可以接受并将其转变为客户采购订单。当情况发生变化（例如运输）时，客户会收到电子邮件更新。最终，系统会自动向客户开具发票，客户也可以在线记录付款。 https://preview.redd.it/ylzpje4koe9d1.png?width=1828&amp;format=png&amp;auto=webp&amp;s=08b78e654fa6499b7853c534e17eb585cb516b87    提交人    /u/enspan   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dqyowx/b2b_websites_are_generally_terrible_lets_fix_that/</guid>
+      <pubDate>Sat, 29 Jun 2024 00:33:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>我推出了一款 100% 真实的社交应用和小工具 - 链接见评论</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dqyavg/i_launched_a_100_real_life_social_app_and_widget/</link>
+      <description><![CDATA[        提交人    /u/RiskDazzling7275   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dqyavg/i_launched_a_100_real_life_social_app_and_widget/</guid>
+      <pubDate>Sat, 29 Jun 2024 00:12:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Slack 状态调度器</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dqx9jz/slack_status_scheduler/</link>
+      <description><![CDATA[这是我的第一个公开的业余项目。我真的需要一些反馈。 不是一个原创的想法。但我有很多功能正在开发中。  https://funqtion.slack.com/apps/A06MQD8RW57-status-scheduler    提交人    /u/Palestitan   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dqx9jz/slack_status_scheduler/</guid>
+      <pubDate>Fri, 28 Jun 2024 23:22:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>我已经开发了 Canva 的替代品，离线第一个移动应用程序 100% 免费</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dqva1n/i_have_built_a_canva_alternative_offline_first/</link>
+      <description><![CDATA[我已经构建了一个完全免费的 Canva 替代离线第一个移动应用程序，如果您想要更快的速度，也可以打开在线模式。 我将继续致力于此，视频中看到的功能将保持免费，新功能可能需要高级访问权限！享受 它开放预注册，第一个版本将改进用户体验并修复一些小错误，预计发布时间为 1 到 2 个月 https://play.google.com/store/apps/details?id=com.rembg.com.app&amp;pcampaignid=web_share    提交人    /u/techy-deutsch   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dqva1n/i_have_built_a_canva_alternative_offline_first/</guid>
+      <pubDate>Fri, 28 Jun 2024 21:50:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>最近在画画</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dqv05n/paintings_on_the_side_for_a_while_now/</link>
+      <description><![CDATA[        提交人    /u/AddyArt10   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dqv05n/paintings_on_the_side_for_a_while_now/</guid>
+      <pubDate>Fri, 28 Jun 2024 21:38:18 GMT</pubDate>
+    </item>
     <item>
       <title>https://github.com/mehmetkahya0/Web-Resource-Downloader</title>
       <link>https://www.reddit.com/r/SideProject/comments/1dqu7hq/httpsgithubcommehmetkahya0webresourcedownloader/</link>
@@ -22,7 +71,7 @@
     <item>
       <title>产品市场契合度——唯一重要的事情！</title>
       <link>https://www.reddit.com/r/SideProject/comments/1dqto6l/product_market_fit_the_only_thing_that_matters/</link>
-      <description><![CDATA[大家好， 我和我的联合创始人正在开展一个项目，旨在帮助创始人找到经过验证的客户痛点，我想得到您的反馈。 我们计划如何做到这一点？我们正在创建一个真实客户访谈库！ 我们的访谈库有数十个客户访谈，讨论专业和个人痛点 - 所有真实、潜在的机会，为您的下一次创业提供。通过我们的采访，您将了解到：  真正的客户痛点 这些痛点的当前解决方案 目前为解决这些痛点所花费的资金，以及这些解决方案的满意度 客户需求的相对重要性（即，痛点多/需求高 vs. 需求低/痛点低） 记录，甚至直接的客户联系信息（如果客户允许） 最终，建立一家客户绝对喜爱的初创公司和企业  我们已经开放了候补名单，也在寻找更多的客户采访以及来自潜在用户的反馈（也许是您？）。如果您被选中参加面试，我们将在平台上线时为您提供独家特权/访问权限。 我们总是喜欢任何类型的反馈，特别是如果您喜欢或讨厌我们的想法！非常喜欢！    提交人    /u/Sad_Committee_7542   [link] [评论]]]></description>
+      <description><![CDATA[大家好， 我和我的联合创始人正在开展一个项目，旨在帮助创始人找到经过验证的客户痛点，我想得到您的反馈。 我们计划如何做到这一点？我们正在创建一个真实客户访谈库！ 我们的访谈库有数十个客户访谈，讨论专业和个人痛点 - 所有真实、潜在的机会，为您的下一次创业提供。通过我们的采访，您将了解到：  真正的客户痛点 这些痛点的当前解决方案 目前为解决这些痛点所花费的资金，以及这些解决方案的满意度 客户需求的相对重要性（即，痛点多/需求高 vs. 需求低/痛点低） 记录，甚至直接的客户联系信息（如果客户允许） 最终，建立一家客户绝对喜爱的初创公司和企业  我们已经开放了候补名单，也在寻找更多的客户采访以及来自潜在用户的反馈（也许是您？）。如果您被选中参加面试，我们将在平台上线时为您提供独家特权/访问权限。 我们始终喜欢任何类型的反馈，尤其是如果您喜欢或讨厌我们的想法！非常喜欢！    提交人    /u/Sad_Committee_7542   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1dqto6l/product_market_fit_the_only_thing_that_matters/</guid>
       <pubDate>Fri, 28 Jun 2024 20:39:31 GMT</pubDate>
     </item>
@@ -36,7 +85,7 @@
     <item>
       <title>人们怀念 stumbleupon 吗？</title>
       <link>https://www.reddit.com/r/SideProject/comments/1dqsi86/do_people_miss_stumbleupon/</link>
-      <description><![CDATA[一直在考虑这个问题。这么多拥挤的订阅源。这么多内容。如果我们每天只查看一个网站会怎么样。 我觉得我们处于一个循环中，现在想要回归简单。有什么想法吗？    由    /u/Carleyley 提交   [link] [comments]]]></description>
+      <description><![CDATA[一直在考虑这个问题。这么多拥挤的订阅源。这么多内容。如果我们每天只查看一个网站会怎么样。 我觉得我们处在一个循环中，现在想要回归简单。有什么想法吗？    由    /u/Carleyley 提交   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1dqsi86/do_people_miss_stumbleupon/</guid>
       <pubDate>Fri, 28 Jun 2024 19:49:18 GMT</pubDate>
     </item>
@@ -60,55 +109,6 @@
       <description><![CDATA[大家好，我们很高兴向大家介绍我们过去几个月的工作。我们是两位联合创始人，我们都经历过值班的情况，我们觉得准备不足，相关人员不在身边帮忙，或者我们半夜被留在原地试图找出问题所在。 Merlinn 是一位开源 AI 值班开发人员，居住在 Slack 中。它可以通过连接到您最喜欢的工具并与您配对以对事件进行分类，帮助您缓解上述一些痛苦。我们还有一个托管在我们的云上的专业版。 我们的目标是帮助公司减少 MTTR、控制您的 SLA 并改善值班体验如果您对我们所做的事情感兴趣，可以加入我们的 Slack 社区。访问我们的网站进行了解。 就是这样！如果您有任何问题/反馈/想法，我们很乐意听取 :)    提交人    /u/Old_Cauliflower6316   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1dqrred/created_an_opensource_ai_agent_that_helps_during/</guid>
       <pubDate>Fri, 28 Jun 2024 19:16:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了 Blinkist / Shortform 的 100% 免费替代品！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dqr2fn/i_made_a_100_free_alternative_to_blinkist/</link>
-      <description><![CDATA[        提交人    /u/chowzedong   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dqr2fn/i_made_a_100_free_alternative_to_blinkist/</guid>
-      <pubDate>Fri, 28 Jun 2024 18:46:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的第一个项目“Rinko：一个仅限表情符号的社交网络！”</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dqqeaf/my_first_project_rinko_an_emojionly_social_network/</link>
-      <description><![CDATA[      大家好！我很高兴宣布“Rinko”，这是我在社交媒体上推出的动画表情符号！整个工作方式是，您从苹果提供的各种选项中输入任何表情符号，然后从我们 60 多个自定义动画库中选择一个动画。这些几乎无限的组合提供了一种不使用文本来表达自己的新方式。这解决了你们都面临的问题吗？可能不会！这是我认为很有趣的想法吗？是的！ （我从中学到了很多东西） https://apps.apple.com/us/app/rinko-social-emojis/id6449609810 https://reddit.com/link/1dqqeaf/video/6eujim2mtc9d1/player    提交人    /u/TraditionalMath6910   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dqqeaf/my_first_project_rinko_an_emojionly_social_network/</guid>
-      <pubDate>Fri, 28 Jun 2024 18:18:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>确保初创企业主取得成功的 7 个技巧</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dqp6jd/7_tips_to_ensure_success_as_a_startup_owner/</link>
-      <description><![CDATA[  由    /u/Reasonable_Aioli3143  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dqp6jd/7_tips_to_ensure_success_as_a_startup_owner/</guid>
-      <pubDate>Fri, 28 Jun 2024 17:26:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何解决冷启动问题？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dqoz2y/how_to_tackle_the_cold_start_problem/</link>
-      <description><![CDATA[为了便于理解，我正在开发一款约会应用，让用户在决定是否采取下一步行动并约会之前有一段有限的时间进行聊天（所有这些都可以在平台内完成）。 然而，约会应用存在冷启动问题 - 这意味着我们需要非常快地吸引大量用户才能使其正常运行。解决该行业这个问题的黄金标准是 Tinder，它进入了大学校园，并在学校之间有机地发展。我们的目标市场是可支配收入稍多一点的人（学生不多）。话虽如此，我们目前正在尝试/努力寻找一种好方法来接触 21-40 岁之间积极寻求约会的人。任何想法都将不胜感激！    提交人    /u/FarloDating   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dqoz2y/how_to_tackle_the_cold_start_problem/</guid>
-      <pubDate>Fri, 28 Jun 2024 17:17:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了 PunyPress，这是获取文章摘要的最便捷方式</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dqo6gh/i_built_punypress_the_most_convenient_way_to_get/</link>
-      <description><![CDATA[      在 URL 开头添加 `puny.press/`，注册或登录后，您将获得文章摘要。查看主站点 Puny.Press  看到我上面是如何直奔主题的了吗？我觉得大多数新闻文章不再这样做了。它们通常有一个点击诱饵标题，然后以一些填充段落开始，以便 SEO，然后可能会有一些烦人的全屏广告，这些广告会延迟，您必须滚动浏览，最后如果幸运的话，您会到达主要内容。  我厌倦了它，所以我做了 PunyPress。对我来说，重要的是我只需在 URL 前面添加 `puny.press/` 即可使其工作，这样您就无需下载应用程序，无需安装浏览器扩展，无需笨拙地将文章文本复制并粘贴到其他地方，只要您有浏览器而不是操作系统特定的功能，就可以工作。 希望得到反馈，如果您认为我应该继续努力，如果它有用！ PunyPress 徽标    提交人    /u/nadimify   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dqo6gh/i_built_punypress_the_most_convenient_way_to_get/</guid>
-      <pubDate>Fri, 28 Jun 2024 16:44:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>我开发了一个新闻助手，而不是新闻应用。它让你完全掌控自己的兴趣。我很乐意听取你的反馈！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dqnozr/ive_built_a_news_assistant_not_a_news_app_it/</link>
-      <description><![CDATA[新闻算法控制我们阅读的内容，根据我们最近的活动推荐新闻，这导致我们错过了许多其他兴趣。 所以我删除了算法并构建了Yem，您的完全可自定义的新闻助手。 它只遵循您要求的特定兴趣并为您带来最重要的更新。这样，您就可以毫不费力地了解您关心的一切。 您可以在此处下载 Yem 的 iOS 应用。我很乐意听到您的所有反馈！ yemnews.com    提交人    /u/Major_Protection_378   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dqnozr/ive_built_a_news_assistant_not_a_news_app_it/</guid>
-      <pubDate>Fri, 28 Jun 2024 16:23:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>用涂鸦进行动画链接</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dqn2w9/animation_chaining_with_doodle/</link>
-      <description><![CDATA[        提交人    /u/pusolito   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dqn2w9/animation_chaining_with_doodle/</guid>
-      <pubDate>Fri, 28 Jun 2024 15:58:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
