@@ -4,7 +4,42 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Sun, 30 Jun 2024 18:17:23 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 30 Jun 2024 21:13:06 GMT</lastBuildDate>
+    <item>
+      <title>介绍 SpeakDiary - 一款智能、富有创意且直观的日记应用，用于分享您所有的零散想法</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dsbmwn/introducing_speakdiary_a_smart_creative_and/</link>
+      <description><![CDATA[        提交人    /u/Tlaley   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dsbmwn/introducing_speakdiary_a_smart_creative_and/</guid>
+      <pubDate>Sun, 30 Jun 2024 21:08:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>有哪些常见迹象表明你的副业项目可能需要取消？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dsard4/what_are_the_common_signs_that_your_side_project/</link>
+      <description><![CDATA[问题在标题上。    由    /u/joanmiro  提交  [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dsard4/what_are_the_common_signs_that_your_side_project/</guid>
+      <pubDate>Sun, 30 Jun 2024 20:29:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>书单 📚</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ds9d3b/booklist/</link>
+      <description><![CDATA[我很乐意听取对最近的一个业余项目 Booklist 的反馈。 这是一款轻量级、简约的图书追踪工具。 ✅ 免费追踪您阅读的图书。 🚀 由 Google Books 提供支持  📊 追踪您的统计数据  🆕 创建自定义图书  💡 对功能提出建议和投票  💰 免费注册 → https://booklist.cc/signup.php    提交人    /u/victorjricci   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ds9d3b/booklist/</guid>
+      <pubDate>Sun, 30 Jun 2024 19:27:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>[寻求反馈] 介绍 Chekit</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ds8fti/seeking_feedback_introducing_chekit/</link>
+      <description><![CDATA[大家好！ 我今天推出了 Chekit https://chekit.io 的登陆页面和 Beta 版 🙂 我断断续续地在这个项目上工作了一段时间，但几个月前我加倍努力，现在我认为它已经准备好向世界发布了。我计划全职从事这项工作，并随着它的发展不断添加新功能，特别是在人工智能方面。 它基于 React/Vite、AWS 和 Vercel 构建。 如果您能看一看并提供任何反馈/建议/意见，我将不胜感激。 如果有人想注册 Beta 版，您可以在登陆页面上进行注册，我很乐意为这里的任何用户提供折扣（注册开放时）😁 提前谢谢你，戴夫 ❤️    提交人    /u/davedodea   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ds8fti/seeking_feedback_introducing_chekit/</guid>
+      <pubDate>Sun, 30 Jun 2024 18:47:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>我建立了一个开源的 Microsoft Recall</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ds8fbh/i_built_an_open_source_microsoft_recall/</link>
+      <description><![CDATA[      您是否曾梦想过生活在一个反乌托邦的世界，我们的人工智能统治者观察和判断我们的一举一动？现在，随着 OpenRecall，这个梦想离现实又近了一步。 受到微软最近发布的备受争议的 Recall 工具的启发，我决定创建自己的、稍微不那么令人毛骨悚然的版本。 OpenRecall 在后台静静运行，定期捕获桌面屏幕截图并在可配置的时间内记录您的活动。这些日志本地存储在您的机器上，目前可以通过聊天助手进行查询，以回答诸如“我从下午 3 点到 5 点都在做什么？”之类的问题或“写下我当天的工作日志。” 虽然我计划在未来开发一个 Web 应用程序来可视化这些日志，但 OpenRecall 目前可作为 CLI 工具使用。除了最初的概念之外，这个工具还有潜力发展成为一个主动的人工智能助手，提供有关你的活动的更多背景信息，并帮助你在计算机上更有效地实现目标。 这是一个快速的视频演示。 https://reddit.com/link/1ds8fbh/video/p05zv53j8r9d1/player 该项目是开源的，你可以在这里查看：https://github.com/amir-halloul/OpenRecall 请不要作恶并将其用于员工监视。如果您发现该项目很有趣，请随时为该存储库加注星标。 谢谢！    提交人    /u/H_Amir   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ds8fbh/i_built_an_open_source_microsoft_recall/</guid>
+      <pubDate>Sun, 30 Jun 2024 18:46:27 GMT</pubDate>
+    </item>
     <item>
       <title>寻求反馈</title>
       <link>https://www.reddit.com/r/SideProject/comments/1ds7oo9/looking_for_feedback/</link>
@@ -36,7 +71,7 @@
     <item>
       <title>关于技能分享的反馈</title>
       <link>https://www.reddit.com/r/SideProject/comments/1ds6pcq/feedback_about_skill_sharing/</link>
-      <description><![CDATA[大家好，我是一名自由职业者，我遇到了一个问题，是否可以分享或交换技能，例如，我想找人写博客，我擅长编码，这样我们就可以分享技能，因为我没有足够的钱雇人，所以我们可以交换技能吗？我有很多工作都需要其他技能，比如特定的编码语言。我是唯一遇到这个问题的人吗？你们是怎么解决这个问题的！如果有任何解决方案，请提出建议。    提交人    /u/No-Garlic6465   [链接] [评论]]]></description>
+      <description><![CDATA[大家好，我是一名自由职业者，我遇到了一个问题，是否可以分享或交换技能，例如，我想找人写博客，我擅长编码，这样我们就可以分享技能，因为我没有足够的钱雇人，所以我们可以交换技能吗？我有很多工作都需要其他技能，比如特定的编码语言。只有我一个人遇到这个问题吗？你们是怎么解决这个问题的！如果有任何解决方案，请提出建议。    提交人    /u/No-Garlic6465   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1ds6pcq/feedback_about_skill_sharing/</guid>
       <pubDate>Sun, 30 Jun 2024 17:29:07 GMT</pubDate>
     </item>
@@ -74,41 +109,6 @@
       <description><![CDATA[我很高兴与大家分享一个我已工作了大约一个月的项目——一种新型武器生成器！这是一款网络应用，可让您随机化自己的武器概念。无论您是想为改装产生有趣的想法，需要一些灵感来实现您当前的想法，想查看一些愚蠢的统计数据，还是只想与朋友分享一些想法，此工具都适合您。 您可以在此处查看： tf2weapongenerator.netlify.app （Reddit 似乎不喜欢 Netlify 链接） 功能：  随机武器生成：生成具有独特统计数据的各种武器。 类别特定和插槽特定的武器：通过选择类别和插槽自定义生成的武器。 可自定义的能量等级和属性计数：调整武器的能量等级及其属性数量。 武器类型覆盖：生成特定的武器类型以满足您的需求。 武器卡捕获：捕获并下载武器卡图像以进行共享或保存。 哈希链接地址：保存链接以随时访问您刚刚生成的武器。 有趣的背景：是的😎 移动友好：适用于移动设备😎  主页 开始生成！ 指定类和插槽 指定武器类型和功率等级！ 我希望大家尝试一下并分享您的反馈，这样我就可以做得更好。您的意见非常宝贵，因为我会继续改进生成器。如果您遇到任何错误或有任何功能要求，请告诉我！ 非常感谢 Siko01 构建了原始生成器，我在此基础上构建了生成器！ 出于某种原因，以下内容不允许出现在 Team Fortress 2 subreddits 上；我想它被解释为广告，也许是因为 Netlify 链接。因此，它没有引起任何人的注意，我也没有得到我需要的反馈。我不确定这个 subreddit 上有多少人玩 TF2，但尽管如此，任何反馈都是受欢迎的！ 我还在学习，所以提前谢谢你！    提交人    /u/seanonamonday   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1ds45f9/i_made_a_team_fortress_2_weapon_generator/</guid>
       <pubDate>Sun, 30 Jun 2024 15:32:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>我计划为 Gen AI 产品构建自动化测试平台</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ds44lu/i_am_planningto_build_automated_testing_platform/</link>
-      <description><![CDATA[大家好，有谁有数据科学背景吗？我正在为 GenAI 构建一个自动化测试工具，通过进行不同类型的测试来判断该工具是否遵循道德规范。有人有兴趣为这个模型付费吗？有人可以提供意见来推动我前进吗？谢谢。    提交人    /u/Sharath0605   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ds44lu/i_am_planningto_build_automated_testing_platform/</guid>
-      <pubDate>Sun, 30 Jun 2024 15:31:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个人工智能语音代理，可以使用公开可用的 API 接听客户电话</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ds3g5l/i_created_an_ai_voice_agent_which_can_take/</link>
-      <description><![CDATA[        由    /u/ANil1729 提交   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ds3g5l/i_created_an_ai_voice_agent_which_can_take/</guid>
-      <pubDate>Sun, 30 Jun 2024 15:01:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>做了一个绘画网站。每个人都在一块画布上作画。就是这样。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ds3ck7/made_a_paint_website_everyone_paints_on_one/</link>
-      <description><![CDATA[  由    /u/spideywastaken  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ds3ck7/made_a_paint_website_everyone_paints_on_one/</guid>
-      <pubDate>Sun, 30 Jun 2024 14:56:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>我在 GitHub 的 Chrome 扩展程序中添加了 Bring Your Own OpenAI API Key 功能</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ds3558/i_added_bring_your_own_openai_api_key/</link>
-      <description><![CDATA[        由    /u/siegerts  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ds3558/i_added_bring_your_own_openai_api_key/</guid>
-      <pubDate>Sun, 30 Jun 2024 14:47:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>我为 Windows 构建了一个 .procreate 缩略图处理程序</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ds2dbc/i_built_a_procreate_thumbnail_handler_for_windows/</link>
-      <description><![CDATA[        提交人    /u/Front_Ad_9616   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ds2dbc/i_built_a_procreate_thumbnail_handler_for_windows/</guid>
-      <pubDate>Sun, 30 Jun 2024 14:11:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
