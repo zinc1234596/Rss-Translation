@@ -4,7 +4,35 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Sun, 30 Jun 2024 03:15:13 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 30 Jun 2024 06:17:17 GMT</lastBuildDate>
+    <item>
+      <title>我已经构建了一个人工智能外观变换器，可以在几秒钟内改变你的外观。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1drv0vb/ive_build_an_aipowered_looks_changer_change_your/</link>
+      <description><![CDATA[  由    /u/Choice_Stable7672  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1drv0vb/ive_build_an_aipowered_looks_changer_change_your/</guid>
+      <pubDate>Sun, 30 Jun 2024 06:16:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>我已经构建了一个 Web 应用程序，借助 ChatGPT，可以非常轻松地创建功能齐全的应用程序 - 目前不需要 OpenAI API 密钥！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1druxfk/ive_built_a_web_app_that_makes_it_super_easy_to/</link>
+      <description><![CDATA[      https://preview.redd.it/n3ri1hhrhn9d1.jpg?width=1792&amp;format=pjpg&amp;auto=webp&amp;s=10615d5551321b655fdff792613de03ede3ad553 我很高兴介绍 TechRay 的 App Genie，或 App Genie！这个新应用程序使用自然语言提示将您的想法转化为功能齐全的 HTML、JavaScript 和 Tailwind CSS 应用程序。 🌟 主要特点：  自然语言输入：描述您应用的功能和设计，App Genie 会生成代码。 完全集成：生成有凝聚力的 HTML、JavaScript 和 Tailwind CSS 代码，可在修订后进行部署。 增量修订：使用自然语言提示轻松修复问题或进行更改。  🔐 API 密钥要求：要使用 App Genie，请输入您的 OpenAI API 密钥，该密钥安全地存储在您的浏览器中。 ⚠️ 重要提示：所有数据都本地存储在您的浏览器中。如果清除 cookie/缓存，您将丢失您的项目。经常保存你的工作！ 🎉限时优惠：在有限的时间内，我免费提供自己的 API 密钥，以便每个人都可以试用该应用程序而无需自己的密钥。 📺 观看演示：想知道它是如何工作的吗？观看我们 4 分钟的 YouTube 演示。 🌐立即尝试！在 appgenie.live 查看 App Genie，立即开始构建您的应用。 🌍 快速托管选项：我们建议使用 tiiny.host 或 GitHub Pages 快速轻松地将您的项目上线。 加入我们的社区，分享您的反馈，并向我们展示您使用 App Genie 创建的内容！ 快乐编码！ TechRay    提交人    /u/TheEnd9T1   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1druxfk/ive_built_a_web_app_that_makes_it_super_easy_to/</guid>
+      <pubDate>Sun, 30 Jun 2024 06:10:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个可以在几秒钟内创建网站的工具</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1druspe/i_made_a_tool_to_create_sites_in_seconds/</link>
+      <description><![CDATA[https://reddit.com/link/1druspe/video/cnfomx0hgn9d1/player    由   提交  /u/xioor   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1druspe/i_made_a_tool_to_create_sites_in_seconds/</guid>
+      <pubDate>Sun, 30 Jun 2024 06:01:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一款免费的安卓应用来帮助你整理你的求职申请</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1drue0z/i_made_a_free_android_app_to_help_you_organize/</link>
+      <description><![CDATA[      前几天我在浏览 Instagram，看到很多申请数百份工作的人都在 Google Sheet 上跟踪他们的所有申请。 虽然 Google Sheet 可以完成工作，但它仍然不够用户友好。人们花费大量时间优化和组织他们的 Excel 表格。 所以我认为构建一个 Android 应用来帮助您免费组织数百份工作申请会是一个很酷的周末项目！ 链接：https://play.google.com/store/apps/details?id=com.application.job_tracker 这是我作为独立黑客的第一个项目，所以请让我知道评论以及我在下一个项目中可以做得更好的地方。我完全可以接受严厉的批评，并会采纳您分享的所有建议，使我的下一个产品比这个更好！ https://preview.redd.it/w3bae2u2bn9d1.png?width=1024&amp;format=png&amp;auto=webp&amp;s=da3b847d6a68d2592449c99fdb88ae21e516e5c0    提交人    /u/Competitive-Wing1585   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1drue0z/i_made_a_free_android_app_to_help_you_organize/</guid>
+      <pubDate>Sun, 30 Jun 2024 05:33:01 GMT</pubDate>
+    </item>
     <item>
       <title>我为 YouTube 做了一个类似 letterboxd 的网站</title>
       <link>https://www.reddit.com/r/SideProject/comments/1drr1a4/i_made_a_site_like_letterboxd_for_youtube/</link>
@@ -81,34 +109,6 @@
       <description><![CDATA[      大家好， 我刚刚在 YOU-TLDR 中添加了一个很棒的新功能。对于那些您只对某些部分感兴趣的长视频来说，这是一个改变游戏规则的功能。 例如，我用它来关注 Andrew Huberman 在最近接受 Lex 采访时对人际关系的评论。它让我无需观看整个视频就能非常轻松地获得我想要的见解。 请点击此处查看。 演示    提交人    /u/alvisanovari   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1drl3i5/summarize_the_exact_part_of_a_youtube_video_you/</guid>
       <pubDate>Sat, 29 Jun 2024 21:08:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>测试我的基本数学应用程序</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1drkszl/roast_my_basic_math_app/</link>
-      <description><![CDATA[嗨，我创建了一个基本的数学应用程序来帮助学生进行心算。请随意破解它并嘲笑它。此外，任何功能想法都很棒！分数部分仍在开发中 App    由   提交  /u/yungloser69   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1drkszl/roast_my_basic_math_app/</guid>
-      <pubDate>Sat, 29 Jun 2024 20:54:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个可以执行任务+有AI搜索引擎的大型动作模型！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1drk4a9/i_made_a_large_action_model_that_can_execute/</link>
-      <description><![CDATA[        提交人    /u/nobilis_rex_   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1drk4a9/i_made_a_large_action_model_that_can_execute/</guid>
-      <pubDate>Sat, 29 Jun 2024 20:22:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>我开发了一款卡路里追踪应用，可以使用相机估算卡路里 📸🌮</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1drjz5x/i_built_a_calorie_tracking_app_that_estimates/</link>
-      <description><![CDATA[    /u/landtanin   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1drjz5x/i_built_a_calorie_tracking_app_that_estimates/</guid>
-      <pubDate>Sat, 29 Jun 2024 20:15:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>（第一）我的 iOS 音乐播放器 Muziqi 半年更新</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1drhrwx/first_biannual_update_for_muziqi_my_ios_music/</link>
-      <description><![CDATA[今年早些时候，我为专业用户发布了我的 iOS 音乐应用 Muiziqi。从那时起，我一直在进行重大更新。我的用户群一直在稳步增长，反馈良好，评价很高。有一个个人项目填补了市场空白，真正对人们有用，感觉很棒。它远没有产生明显的经济影响，但该应用的下载量和购买量正在增长。  自首次发布以来，我添加的功能列表（以及许多功能和界面改进）：  有声读物支持 喜欢的歌曲和专辑 收听统计 封面艺术编辑器 智能播放列表 速度控制  走到今天感觉很好，但还有很多事情要做。期待接下来的 6 个月。    提交人    /u/raheel_sawaali   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1drhrwx/first_biannual_update_for_muziqi_my_ios_music/</guid>
-      <pubDate>Sat, 29 Jun 2024 18:34:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
