@@ -4,7 +4,91 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Tue, 02 Jul 2024 09:14:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jul 2024 12:23:26 GMT</lastBuildDate>
+    <item>
+      <title>我制作了一个 Mac 菜单栏，以便通过通知 + 小部件避免错过 2024 年欧洲杯足球赛</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dtk5u8/i_made_a_mac_menu_bar_to_not_miss_a_euro2024/</link>
+      <description><![CDATA[        提交人    /u/slamingzone   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dtk5u8/i_made_a_mac_menu_bar_to_not_miss_a_euro2024/</guid>
+      <pubDate>Tue, 02 Jul 2024 12:04:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>介绍 Obsidian 和 Notion 的子应用 - note-markdown.vercel.app</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dtk1nd/introducing_obsidian_and_notions_child/</link>
+      <description><![CDATA[        由    /u/Unfair_Praline2017   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dtk1nd/introducing_obsidian_and_notions_child/</guid>
+      <pubDate>Tue, 02 Jul 2024 11:58:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>激动人心的更新：MONIAC 新增了入职流程！🚀</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dtk0jj/exciting_update_onboarding_flow_added_to_moniac/</link>
+      <description><![CDATA[      大家好， 我很高兴与大家分享我一直在为我的费用跟踪应用程序 MONIAC 进行的重大更新！作为每天使用此应用程序管理自己财务的开发人员，我一直在寻找使其更好、更用户友好的方法。🎉 我刚刚添加了一个新的入职流程，以帮助新用户加入并开始轻松跟踪他们的费用。以下是新 UI 的预览： MONIAC 入门 UI 通过新的入门流程，您可以自定义应用程序以满足您的需求，并熟悉费用跟踪的核心概念。 我使用 MONIAC 的目标是帮助像您和我这样的人更好地掌握我们的财务状况。我希望这次更新能让应用程序对您更有用。我很乐意听到您的反馈和任何建议！ 您可以通过以下链接尝试https://apps.apple.com/app/moniac/id1639349518 感谢您的支持，并帮助我使 MONIAC 达到最佳状态！😊     提交人    /u/FirmWatch4224   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dtk0jj/exciting_update_onboarding_flow_added_to_moniac/</guid>
+      <pubDate>Tue, 02 Jul 2024 11:56:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们采用按需付费定价模式构建了最实惠的 SEO 研究工具 - 试试看吧！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dtjsgx/we_built_the_most_affordable_seo_research_tool/</link>
+      <description><![CDATA[正如在座的许多人一样，我们认为现有 SEO 研究工具（如 Ahrefs 和 Semrush）的定价对于小型企业和独立开发者来说是难以承受的。并非所有人都愿意每月支付 100 美元以上，尤其是如果您偶尔使用该工具。因此，我们决定构建一个替代方案：一个具有所有基本功能且无需每月付费的 SEO 研究工具，采用随用随付的定价。了解 Telescope！ 我们与最大的 SEO 数据提供商合作，以确保我们拥有最准确的数据库，并从关键字研究、关键字数据概览和位置跟踪等基本工具开始。页面 SEO 和其他好东西也将很快添加。 在接下来的几天里，所有新用户都将获得初始积分来试用该平台并享受更低的价格。请随意尝试一下，让我们知道您的想法！您可以在https://withtelescope.com/注册谢谢！    提交人    /u/spacebox37   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dtjsgx/we_built_the_most_affordable_seo_research_tool/</guid>
+      <pubDate>Tue, 02 Jul 2024 11:43:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>我生下了 Obsidian 和 Notion 的孩子——介绍 NoteMarkdown</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dtji6q/i_gave_birth_to_obsidian_and_notions_baby/</link>
+      <description><![CDATA[这个想法很简单，将 markdown 编辑的所有基本功能打包到一个简单紧凑的基于 Web 的 markdown 编辑器中。受到 Obsidian 和 Notion 的极大启发，使用 NoteMarkdown，您可以创建迷你匿名博客文章、GitHub README、阅读和显示用 markdown 编写的笔记，还有更多用例。 去表达你的爱意 👉 note-markdown.vercel.app P.S 这是我有史以来第一个完全完善的公开项目，目前我无意将其货币化    提交人    /u/Unfair_Praline2017   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dtji6q/i_gave_birth_to_obsidian_and_notions_baby/</guid>
+      <pubDate>Tue, 02 Jul 2024 11:27:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>ROAST MY IDEA - 一个通用的 PWA（网络应用程序），用于保存你所有的互联网保存内容：链接、图片、视频、文件</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dtj8pj/roast_my_idea_a_universal_pwa_web_app_for_keeping/</link>
+      <description><![CDATA[嗨， 基本上我很沮丧，因为没有很好的方法来保存和找到我所有的互联网保存中的特定项目。 目前我正在使用电报，但它不是很好，因为链接无法与标题一起保存，所以我无法搜索并知道它是什么，直到我打开它。视频也是一样，如果我有 50 个，我无法在一秒钟内找到那个。 所以我正在考虑构建一个专门设计的 Web 应用程序，使搜索和存储适合互联网保存。 想法？    提交人    /u/impeter991   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dtj8pj/roast_my_idea_a_universal_pwa_web_app_for_keeping/</guid>
+      <pubDate>Tue, 02 Jul 2024 11:11:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>Spatial Boxer：一款 Vision Pro 游戏</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dtiuj7/spatial_boxer_a_vision_pro_game/</link>
+      <description><![CDATA[      这是我为 Apple Vision Pro 独立开发的第一款游戏之一。 您可以选择一首您喜欢的音乐。障碍物将根据节奏出现。用您的虚拟拳击手套击打它们并得分！并且，不要击中炸弹！ https://mszpro.com/spatial-boxer/ https://apps.apple.com/us/app/spatial-boxer/id6477150664?l=en-US 请尝试一下！直到七月底都是免费的。谢谢！ ✨    由   提交  /u/StillDelivery4503   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dtiuj7/spatial_boxer_a_vision_pro_game/</guid>
+      <pubDate>Tue, 02 Jul 2024 10:48:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>才华横溢的工程师 - 超过 164 名工程师参与，仅用 4 天就建成</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dtioy3/talented_engineers_built_in_4_days_with_over_164/</link>
+      <description><![CDATA[        由    /u/hirebarend  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dtioy3/talented_engineers_built_in_4_days_with_over_164/</guid>
+      <pubDate>Tue, 02 Jul 2024 10:38:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个应用程序来在多个网站上显示客户评论</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dtihnq/i_made_an_app_to_display_customers_review_on/</link>
+      <description><![CDATA[        由    /u/GlitteringManager523  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dtihnq/i_made_an_app_to_display_customers_review_on/</guid>
+      <pubDate>Tue, 02 Jul 2024 10:25:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>我无法让我的 SaaS 起飞。我将在下个月公开分享我创建公司过程中学到的一切。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dtif3p/i_could_not_get_my_saas_to_take_off_ill_spend_the/</link>
+      <description><![CDATA[大约 1.5 年前，我开始了我的创业之旅。我想在减肥领域创建一个 SasS。经过 1.5 年的跌宕起伏，是时候继续前进了。在我走向失败的旅程中，我学到了一些非常宝贵的教训。 如果我知道现在所知道的一切，那么这篇文章很可能就是一篇关于我成功的庆祝文章。 我还有一个月就要去找工作了，所以我想花点时间做一些有趣的事情： 公开创建一家公司。 我一直很钦佩那些公开创建公司的人，我从他们身上学到了很多东西。 不幸的是，绝大多数人只是在提供高层细节。 我是一名工程师，我一生都在制造产品。我所缺乏的是其他方面的经验。我必须通过艰难的方式才能明白为什么成功创办一家公司是如此的困难。 我想要这样做的原因有很多，但最重要的是： 我不想让我学到的所有教训都白费。 我学到了很多东西，我很乐意将这些知识传授给任何可能处于与我类似情况的人。那些想要创办自己的公司但不知道从哪里开始或面临哪些问题的人。 我最大的问题是：我不擅长理论性的东西。我需要具体的例子和解释。还有什么比实际做这件事更好的解释呢？ 我也喜欢教学。我每天都会看到非常有才华的人发帖，他们犯着我犯过的同样错误。希望通过分享我的失败经历，可以避免下一个人失败。 我知道你现在在想什么：如果我学到了这么多，为什么不把我所知道的一切应用到我现在的公司并拯救它呢？ 这是一个非常好的问题，你有一种神奇的方法可以直击问题的核心！ 现实情况是，我对自己所在的行业感到精疲力竭。我在这个领域已经努力了一年半多，我厌倦了自己的失败。此外，减肥领域非常残酷。我看到人们到处招揽客户赚大钱。他们向他们出售蛇油，而我甚至一个月都招不到 10 个人。 那么计划是什么？ 嗯，计划很简单：我将记录我正在做的所有事情，并每天发布有关如何创办 SaaS 公司的更新。我希望你能加入我的行列。 最初几天，我会谈谈我过去犯下的所有错误以及这次如何解决它们。 我会介绍商业计划、要生产什么产品以及如何让公司腾飞 这对你有什么好处？ 最糟糕的情况是你会看到我在公众面前失败，你会为我倾诉。如果发生这种情况，你可以利用我的痛苦来让自己感觉更好。“至少我不像那个在公众面前失败得一塌糊涂的人”你会告诉你的孙子。 最好的情况下，你可以看到整个过程是如何运作的，并为你自己的旅程学到一些有价值的东西。 哎呀，我们甚至可以建立一家盈利的公司，如果那样的话，每个人都可以喝啤酒！ 你想帮忙吗？ 一起来吧！ 告诉我你的想法，告诉我好的和坏的。告诉我我是个白痴，告诉我我是个天才。 我很想念有同事和人们谈论我的想法，所以我想找到尽可能多的朋友来分享我的旅程。 跟随我的人花时间阅读我的东西，所以我想把你当作投资者，当然不是金钱的投资者，但你仍然在投资。所以我想与投资者分享经营企业的那一面：投资者更新。如何编写它们，在其中写什么，如何使它们成为您公司的资产。 也许我会向所有感兴趣的人发送一封电子邮件，这样每个人都会收到每周的投资者更新，那将非常酷！ 我不知道如何公开构建，最好的策略是什么等等，所以我会在进行过程中弄清楚。 我可以在 Reddit、LinkedIn、X 等上发帖，但我不知道如何使其成为一个社区，对此的意见将不胜感激。 如果您设法阅读到这里，非常感谢，我真的很感激！下次更新见。 PS 我已经在几个 subreddits 中发布了这个，不是故意发送垃圾邮件。我正在尝试寻找合适的人，希望不会被他们全部禁止并最终一无所获。再次！    提交人    /u/mhdev91   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dtif3p/i_could_not_get_my_saas_to_take_off_ill_spend_the/</guid>
+      <pubDate>Tue, 02 Jul 2024 10:20:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>我觉得我已经筋疲力尽了。你如何处理朝九晚五的业余项目？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dticmc/i_think_im_burning_out_how_do_you_handle_a_95/</link>
+      <description><![CDATA[只有我这样吗？从早上 9 点工作到下午 5 点，还要处理一个副业项目，这真是太累了。我目前面临着一个副业项目的问题，整个事情让我感到很累。我为即将到来的艺术家开发了一个应用程序，以了解如何更好地让他们的歌曲在 Instagram 和 TikTok 等社交媒体平台上流行起来。  到目前为止，我的注册人数很多，但现在，应用程序仪表板运行不正常。我似乎找不到时间去修复它。我最近也在工作中升职了，这也加剧了这种情况。我觉得我的倦怠速度太快了，这会让我对一切都感到厌倦，最终辞职。 你们是如何管理倦怠的？还是说我是这个池子里唯一的一个？    提交人    /u/kairos_king   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dticmc/i_think_im_burning_out_how_do_you_handle_a_95/</guid>
+      <pubDate>Tue, 02 Jul 2024 10:15:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>Status Butler：Slack 集成，可为您安排状态更新。（https://statusbutler.funqtion.dev）</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dti821/status_butler_a_slack_integration_that_schedule/</link>
+      <description><![CDATA[        提交人    /u/Palestitan   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dti821/status_butler_a_slack_integration_that_schedule/</guid>
+      <pubDate>Tue, 02 Jul 2024 10:06:44 GMT</pubDate>
+    </item>
     <item>
       <title>愿意帮助一家初创公司进行品牌视觉设计、网页设计和开发，以便我可以更新我的投资组合。</title>
       <link>https://www.reddit.com/r/SideProject/comments/1dthe28/willing_to_help_one_start_up_with_brand_visuals/</link>
@@ -25,90 +109,6 @@
       <description><![CDATA[        提交人    /u/FragrantRow6193   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1dtgrio/tired_of_the_polarized_media_i_created_a_website/</guid>
       <pubDate>Tue, 02 Jul 2024 08:23:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>我已经开源了一个可以轻松自动收录 10,000 多个网站的网站目录系统 - https://github.com/someu/aigotools</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dtgqts/i_have_opensourced_a_site_directory_system_that/</link>
-      <description><![CDATA[        提交人    /u/emmylouei   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dtgqts/i_have_opensourced_a_site_directory_system_that/</guid>
-      <pubDate>Tue, 02 Jul 2024 08:22:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻求具有图像创建和编辑功能的人工智能文章作者和生成器的反馈和营销建议</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dtgp2f/looking_for_feedback_and_marketing_advice_for/</link>
-      <description><![CDATA[我想与大家分享我的最新项目 - Stryng！ Stryng 是一个基于 AI 的文章编写器和生成器，还包括一个带有 AI 助手的图像生成器和文章编辑器。以下是 Stryng 功能的简要介绍：  AI 文章写作：轻松生成有关各种主题的高质量文章。 图片生成器：为您的文章创建相关图片以增强视觉吸引力。 文章编辑器：使用我们直观的编辑器编辑和格式化您的文章。 AI 助手：获得语法、风格甚至内容建议方面的帮助。  我创建 Stryng 的目标是让每个人（从博主到营销人员）都能更轻松、更高效地创建内容。 虽然我已经能够通过 PPC Google 广告系列获得一些用户，但它非常昂贵，并且主要吸引转化率较低的免费用户。我希望从这个社区获得关于如何改进应用程序的诚实反馈，以及任何有助于提高订阅量和转化率的有效营销策略建议。 您可以查看登录页面并在此处试用 Stryng：https://stryng.io/。    提交人    /u/TheZbunj   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dtgp2f/looking_for_feedback_and_marketing_advice_for/</guid>
-      <pubDate>Tue, 02 Jul 2024 08:19:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何利用笔记应用实现月收入 5000 美元</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dtg9ce/how_to_reach_5kmonth_with_a_notetaking_app/</link>
-      <description><![CDATA[我最近开发了一款免费且简单的在线笔记应用程序，专注于速度、 功能和用户界面。我一直在向用户征求反馈，了解他们希望包含哪些功能，这样我就可以每天/每周开发这些功能来改进产品。我的目标是扩大我的用户群，并最终实施免费增值业务模式，以实现每月 5000 美元的收入目标。 对于那些想要尝试该产品的人：https://quicknotes.co/    提交人    /u/Classic_Beyond3895   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dtg9ce/how_to_reach_5kmonth_with_a_notetaking_app/</guid>
-      <pubDate>Tue, 02 Jul 2024 07:47:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>llamasheets - 为睡眠不足的创始人/分析师提供原生人工智能电子表格 + 图表</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dtg7mc/llamasheets_native_ai_spreadsheets_graphs_for/</link>
-      <description><![CDATA[      tldr;我们刚刚发布了公开测试版：https://llamasheets.vercel.app 现在是凌晨 2 点，我还在研究这个叫做 llamasheets 的东西。为什么？因为电子表格很烂，我认为我可以改进它们。 事情是这样的：  人工智能电子表格 与数据对话 生成的图表看起来像是喝了咖啡的松鼠制作的 非常适合那些不知道睡眠为何物的创始人/分析师  （注：如果您真的尝试它并且它崩溃了，就假装它是一个功能。我们破坏的是电子表格，而不是稳定性。） tbh，图表在灯光模式下看起来更好。    提交人    /u/ComradePeeks   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dtg7mc/llamasheets_native_ai_spreadsheets_graphs_for/</guid>
-      <pubDate>Tue, 02 Jul 2024 07:44:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个脾气暴躁的人工智能，可以嘲笑创业想法</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dtg5ih/i_made_a_grumpy_ai_that_roasts_startup_ideas/</link>
-      <description><![CDATA[        提交人    /u/FI_investor   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dtg5ih/i_made_a_grumpy_ai_that_roasts_startup_ideas/</guid>
-      <pubDate>Tue, 02 Jul 2024 07:40:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>家长聊天 - 人工智能辅助育儿应用</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dtg0f7/parent_chat_ai_assisted_app_for_parenting/</link>
-      <description><![CDATA[        提交人    /u/sculabobone   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dtg0f7/parent_chat_ai_assisted_app_for_parenting/</guid>
-      <pubDate>Tue, 02 Jul 2024 07:30:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>嘲笑我的想法，软件开发服务器</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dtfvvn/roast_my_idea_software_development_servers/</link>
-      <description><![CDATA[您是否认为，一种服务，其中软件开发所需的应用程序（nodejs、java、python 等）和操作系统可远程使用，并直接连接到 vscode 等编辑器，会起作用？  主要目标是能够在我们的个人计算机上工作，而不会使其疲劳，甚至不需要除 IDE 之外的任何其他功能。即使从平板电脑和手机也可以创建工作环境，访问各种操作系统和基础架构并将它们存储在包中。    提交人    /u/Ranorkk   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dtfvvn/roast_my_idea_software_development_servers/</guid>
-      <pubDate>Tue, 02 Jul 2024 07:21:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>我已经从我的 iOS 应用程序项目中赚了超过 120 万美元，问我任何事情！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dtfhdz/ive_made_over_12_million_from_my_ios_app_side/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dtfhdz/ive_made_over_12_million_from_my_ios_app_side/</guid>
-      <pubDate>Tue, 02 Jul 2024 06:53:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>NoteMarkdown.vercel.app - 极致而简单的 Markdown 编辑器</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dtfe50/notemarkdownvercelapp_the_ultimate_yet_simple/</link>
-      <description><![CDATA[        由    /u/Unfair_Praline2017  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dtfe50/notemarkdownvercelapp_the_ultimate_yet_simple/</guid>
-      <pubDate>Tue, 02 Jul 2024 06:47:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>通过单个 YouTube 视频生成无限内容</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dtfcu4/generate_endless_content_from_a_single_youtube/</link>
-      <description><![CDATA[      大家好，我想要分享我的业余项目 you-tldr.com 的一个令人兴奋的更新。 功能：you-tldr 是一款多功能 YouTube 视频工具，提供转录、摘要、测验创建以及将视频转换为各种内容格式（如博客、LinkedIn 帖子和 Twitter 帖子）的功能。 新功能：我们添加了一个多主题建议系统！  当您输入视频（尤其是较长的视频）时，AI 现在会在转换之前建议您选择多个主题。 这可让您从单个视频源生成多样化的内容。 您可以迭代不同的主题以创建更多社交媒体内容。  重要性：此功能可帮助内容创建者和营销人员最大化每个视频的价值，从单一来源生成多段有针对性的内容。 我很乐意听听您的想法或回答任何问题。请查看并告诉我您的想法！ 演示    由   提交  /u/alvisanovari   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dtfcu4/generate_endless_content_from_a_single_youtube/</guid>
-      <pubDate>Tue, 02 Jul 2024 06:45:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>Milmot.com - 为博客文章创建精美的图片</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dtf4ah/milmotcom_create_beautiful_images_for_blog_posts/</link>
-      <description><![CDATA[        由    /u/Dull_Significance469  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dtf4ah/milmotcom_create_beautiful_images_for_blog_posts/</guid>
-      <pubDate>Tue, 02 Jul 2024 06:28:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>我为 Instagram Reels 和 YouTube Shorts 制作了一个自动短视频生成器</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dtevgv/i_made_an_automated_short_video_generator_for/</link>
-      <description><![CDATA[      Cassette 旨在创建 30 秒简短的解释性视频，适用于 Instagram 卷轴或 YouTube 短片，无需离开您的终端。 它使用 g4f 的 GPT-3.5 Turbo 模型生成成绩单和 unrealspeech API 进行画外音生成（两者均免费）并允许多种定制选项 查看我的作品，如果您喜欢它，请通过加注 GitHub repo 来支持我 :)    提交人    /u/neptunym   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dtevgv/i_made_an_automated_short_video_generator_for/</guid>
-      <pubDate>Tue, 02 Jul 2024 06:12:48 GMT</pubDate>
     </item>
     </channel>
 </rss>
