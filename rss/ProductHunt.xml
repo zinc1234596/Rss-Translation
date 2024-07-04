@@ -4,21 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Thu, 04 Jul 2024 09:14:34 GMT</lastBuildDate>
-    <item>
-      <title>头像 - Figma 插件</title>
-      <link>https://www.producthunt.com/posts/avatars-a-figma-plugin</link>
-      <description><![CDATA[
-为您的项目提供一系列免费且有趣的头像
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/avatars-a-figma-plugin</guid>
-      <pubDate>Thu, 04 Jul 2024 06:17:25 GMT</pubDate>
-    </item>
+    <lastBuildDate>Thu, 04 Jul 2024 12:25:04 GMT</lastBuildDate>
     <item>
       <title>差分</title>
       <link>https://www.producthunt.com/posts/diffr-2</link>
@@ -93,7 +79,7 @@
       <title>没地方</title>
       <link>https://www.producthunt.com/posts/noplace</link>
       <description><![CDATA[
-找到您的社区
+查找您的社区
 
 
 讨论
@@ -191,7 +177,7 @@ Headless WordPress 入门套件
       <title>状态管家</title>
       <link>https://www.producthunt.com/posts/status-butler</link>
       <description><![CDATA[
-直接从 Slack 中的 Hometab 安排状态更新。
+直接从 Slack 中的 Hometab 安排状态更新
 
 
 讨论
@@ -200,6 +186,20 @@ Headless WordPress 入门套件
 ]]></description>
       <guid>https://www.producthunt.com/posts/status-butler</guid>
       <pubDate>Fri, 28 Jun 2024 16:33:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>气囊拍击</title>
+      <link>https://www.producthunt.com/posts/airclap</link>
+      <description><![CDATA[
+将任何文件发送到任何设备
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/airclap</guid>
+      <pubDate>Wed, 26 Jun 2024 16:13:31 GMT</pubDate>
     </item>
     <item>
       <title>少数</title>
