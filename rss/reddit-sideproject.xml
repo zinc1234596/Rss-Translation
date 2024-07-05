@@ -4,7 +4,63 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Fri, 05 Jul 2024 06:19:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jul 2024 09:15:36 GMT</lastBuildDate>
+    <item>
+      <title>*由人工智能驱动</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dvtcmw/powered_by_ai/</link>
+      <description><![CDATA[        提交人    /u/LeMatt_1991   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dvtcmw/powered_by_ai/</guid>
+      <pubDate>Fri, 05 Jul 2024 08:45:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个网站构建器，帮助情侣快速轻松地建立婚礼网站</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dvt56y/i_make_a_webbuilder_that_help_couple_to_build_the/</link>
+      <description><![CDATA[  由    /u/DinhNT  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dvt56y/i_make_a_webbuilder_that_help_couple_to_build_the/</guid>
+      <pubDate>Fri, 05 Jul 2024 08:30:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>可视化应用程序架构的简单方法</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dvt4nn/simple_way_to_visualize_architecture_of_your_app/</link>
+      <description><![CDATA[      嘿！我已经构建了https://archfy.tech/ Archfy 有两个主要功能 - 组件路线图和白板。在组件路线图中，您可以以树状形式从较大的组件到较小的组件可视化产品架构（例如，组件 1 由组件 2、组件 3 等组成）。在白板中，您可以创建某些功能、列表、代码片段等的逻辑。    提交人    /u/Desperate-Speech-845   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dvt4nn/simple_way_to_visualize_architecture_of_your_app/</guid>
+      <pubDate>Fri, 05 Jul 2024 08:29:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作的新 AI 工具，非常希望获得反馈和支持。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dvsjqp/new_ai_tool_i_made_would_really_like_feedback/</link>
+      <description><![CDATA[大家好！🎙️ 我非常高兴与我的两个朋友分享我一直在研究的一个项目。 我们一直对人工智能充满热情，经过数周的努力，我们创造了一些让我们真正引以为豪的东西：Genepod——一个由人工智能驱动的播客生成器，只需单击一下即可将您的想法转化为引人入胜的播客。 🪄 今天，我们在 Product Hunt 上推出了 Genepod，非常需要您的支持！ 如果您有时间，请查看并给我们点赞： 👉 Product Hunt：Genepod 如果您好奇想知道它的全部内容，请访问我们的网站： 👉 Genepod.io 非常感谢大家的支持，感谢大家帮助我们实现这个梦想！💖    提交人    /u/Mr_Lord_Kiki   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dvsjqp/new_ai_tool_i_made_would_really_like_feedback/</guid>
+      <pubDate>Fri, 05 Jul 2024 07:49:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Telegram 上的 Llama 3 可访问互联网 (Perplexity) 内联机器人</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dvs5e2/llama_3_on_telegram_with_internet_access/</link>
+      <description><![CDATA[        由    /u/sandoche   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dvs5e2/llama_3_on_telegram_with_internet_access/</guid>
+      <pubDate>Fri, 05 Jul 2024 07:21:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了一个免费工具来可视化你的 LinkedIn 帖子</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dvs23e/ive_created_a_free_tool_to_visualize_your/</link>
+      <description><![CDATA[        由    /u/louisetiennegirard  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dvs23e/ive_created_a_free_tool_to_visualize_your/</guid>
+      <pubDate>Fri, 05 Jul 2024 07:14:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>情绪分类与分析</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dvrw39/emotion_classification_analysis/</link>
+      <description><![CDATA[大家好！ 我想分享我使用 flask 构建的关于机器学习的项目，用户可以在其中表达自己的情绪并进行以下分类（悲伤、快乐、爱、愤怒、恐惧、惊讶）。我们使用 CNB 模型进行文本分类，准确率为 88%。 您可以在这里尝试： https://emotionclassification.pythonanywhere.com  注意： 预测可能会遇到意外的表达结果。  源代码：   Github：https://github.com/nordszamora/Emotion-Expression     由    /u/ThePawners 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dvrw39/emotion_classification_analysis/</guid>
+      <pubDate>Fri, 05 Jul 2024 07:03:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>仅 4 个月，收入 2.6 万美元，这仅仅是一个开始</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dvrc58/just_4_months_26k_revenue_and_thats_just_a/</link>
+      <description><![CDATA[周五快乐，制造商们。 随着过去一年样板的兴起，围绕它们的仇恨也随之增加。制造商被指责出售铲子，不提供任何价值，围绕样板的炒作等。 我们中的许多人，包括 Larafast，都被指责是 ShipFast 的抄袭者，尽管它适用于完全不同的技术 Laravel，而 ShipFast 适用于 Next.js。我们都使用相同的 DaisyUI+Tailwind，因此我们的设计组件看起来很相似。 无论如何，我在 4 个月前刚加入 IndieHackers 时制作了 Larafast，我受到 Marc 的 ShipFast 成功的启发，并决定制作同样的东西 - 用于快速创建 SaaS 应用程序的样板，但适用于 Laravel 开发人员。 人们喜欢它。我原本以为样板代码可以吸引初学者或中级开发人员，因为它不仅可以加快他们的工作流程，还可以成为一个学习点，了解最佳实践，查看一些功能等。但事实证明，许多拥有 7 年以上该领域经验的经验丰富的开发人员都爱上了 Larafast。 发布 10 天后，我就获得了第一笔销售。现在，4 个月后，Larafast 的收入为 26,000 美元，拥有 180 多个满意的客户。 现在，Larafast 已经从一个样板发展成为一个社区，您可以在其中获得帮助，分享您的想法和建议，并自己为代码做出贡献。 谢谢阅读。    提交人    /u/karakhanyans   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dvrc58/just_4_months_26k_revenue_and_thats_just_a/</guid>
+      <pubDate>Fri, 05 Jul 2024 06:26:47 GMT</pubDate>
+    </item>
     <item>
       <title>掌控您的课程收入。我制作了一个课程样板，您可以在几小时内启动您自己的课程平台。</title>
       <link>https://www.reddit.com/r/SideProject/comments/1dvqqxb/take_control_of_your_course_revenue_i_made_a/</link>
@@ -53,62 +109,6 @@
       <description><![CDATA[嘿，建设者们！ 我目前正在开展一个项目，为小企业主构建一个 Web 应用程序，以跟踪客户、销售、费用和库存数据。 我知道有很多类似的平台，但它们中的大多数都很昂贵，并且有很多不必要的功能，这给非技术小企业主带来了很多困惑。 我正在寻找任何可以帮助我将这个想法变为现实的反馈。  请查看此处的快速视频预览。 感谢您的时间！    提交人    /u/Remarkable_Novel_391   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1dvntzs/i_am_building_a_minimal_web_app_to_replace_excel/</guid>
       <pubDate>Fri, 05 Jul 2024 02:49:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Focal - 一款番茄工作法应用</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dvne0a/focal_a_pomodoro_app/</link>
-      <description><![CDATA[      Focal 是一个开源的番茄工作法应用。我知道现在已经有很多番茄工作法应用了，但我想有人可能会觉得这个和我一样有用。祝你有美好的一天。 https://preview.redd.it/0rdk1iys1mad1.png?width=1361&amp;format=png&amp;auto=webp&amp;s=792202056f5913c184d74bb48bbe1726e6d280c6    提交人    /u/aabiji   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dvne0a/focal_a_pomodoro_app/</guid>
-      <pubDate>Fri, 05 Jul 2024 02:23:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>厌倦了注册 URL 缩短器？这个周末我创建了一个免费、无需注册的 URL 缩短器！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dvl5gd/tired_of_signing_up_for_url_shorteners_i_built_a/</link>
-      <description><![CDATA[这个周末我有些空闲时间，决定将无聊的时间用于一个有趣的项目：构建一个简单但高效的 URL 缩短器！ 我已经厌倦了必须注册各种 URL 缩短服务，所以我创建了自己的 URL 缩短服务，您完全不需要注册。以下是您可能会喜欢它的原因：  超级简单快捷：无需注册。只需粘贴您的链接即可立即获得缩短的 URL。 完全免费：您可以随意使用它，无需花一分钱。 最小缺点：唯一的缺点是您无法跟踪生成的 URL 历史记录，但我认为易用性弥补了这一点！  如果您喜欢它并希望支持该项目，欢迎通过页脚中的“由 Tobias 用 ❤️‍🔥 制作”链接进行捐赠。您的支持意义重大！ 请随意尝试一下，让我知道您的想法。祝您缩短愉快！ 😊 这是项目：https://www.naturl.link/（看看我对名字做了什么？） （编辑：我正在调查一个错误，该错误导致缩短目前无法在移动设备上使用）    提交人    /u/TobiasRasmsn   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dvl5gd/tired_of_signing_up_for_url_shorteners_i_built_a/</guid>
-      <pubDate>Fri, 05 Jul 2024 00:15:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们创建了一个人工智能图像生成器，专为创建 B2B 用途的贴纸而设计。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dvjwgj/we_have_created_an_aipowered_image_generator/</link>
-      <description><![CDATA[        提交人    /u/Stickerit_ai   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dvjwgj/we_have_created_an_aipowered_image_generator/</guid>
-      <pubDate>Thu, 04 Jul 2024 23:09:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>面向英国居民的财务规划工具</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dvixwb/financial_planning_tool_for_uk_residents/</link>
-      <description><![CDATA[面向英国居民的简单财务规划工具：https://financial-planner.streamlit.app/  仍在努力添加更多功能，例如处理不同账户的不同税收处理等。但希望得到一些反馈！    提交人    /u/Educational-Let-5580   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dvixwb/financial_planning_tool_for_uk_residents/</guid>
-      <pubDate>Thu, 04 Jul 2024 22:21:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>嘲讽他人的 Twitter 个人资料</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dvir8d/roast_peoples_twitter_profiles/</link>
-      <description><![CDATA[我制作了一个 AI 机器人，它可以读取人们的 Twitter 个人资料并对其进行嘲讽。 您可以在以下位置查看：https://burnttweeter.com/ 我有一些朋友用过它，他们觉得它很有趣，所以这是一个很好的迹象。我几天前就开始做这件事了，并为此建立了一个网站和条纹。 如果能得到一些反馈就太好了！我知道这是有代价的，我会让它免费，但这会大大降低语音质量，目前 elevenlabs 的语音质量最好，所以我坚持使用它，尽管他们收取了 IMO 相当高的价格（他们可以这样做，因为质量很好）。 如果你决定购买，那就太棒了，如果你在 Twitter 上发布视频，我会给你折扣！ 我还在考虑创建一个免费版本，因为我从 Deepgram 获得了一些积分，但语音质量会差很多。不知道我是否应该这样做。    提交人    /u/bopcoi03   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dvir8d/roast_peoples_twitter_profiles/</guid>
-      <pubDate>Thu, 04 Jul 2024 22:12:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>我可以在这里分享我专注于 Micro SaaS 的博客的文章吗？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dvgu2m/can_i_share_the_articles_of_my_micro_saas_focused/</link>
-      <description><![CDATA[我爱Micro SaaS，做过3次Micro SaaS，有一个活跃的Micro SaaS，我在我的Micro SaaS博客上分享我所学到的东西，我的目标是写1000篇文章，彻底学习这个主题。 比如最近我的一个会员骂我，我很沮丧，我看了看会员时间，上面写着2分钟，他/她在2分钟内注册，然后骂我，为什么？ 等我冷静下来，我想看看会员动向，看到日志，我很震惊，他/她进入了添加页面，但是他/她没有添加就离开了，这是为什么？ 想了想，我意识到这个用户是看了YouTube视频后过来的，因为上面显示的是旧界面，我改了界面，这个用户以为系统不工作了，到处骂我。 我立刻开始拍摄新视频。我还在拍摄。例如，我今天发布了 5 个视频。&#39;:) 有这样的文章。当我在博客上写文章时，我可以在这里分享它们吗？    提交人    /u/ugur2nd   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dvgu2m/can_i_share_the_articles_of_my_micro_saas_focused/</guid>
-      <pubDate>Thu, 04 Jul 2024 20:43:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>这段视频吸引了 15 多名新候补成员加入我的项目</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dvfran/this_video_attracted_15_new_waitlist_members_for/</link>
-      <description><![CDATA[        由    /u/Massive_Sink_443   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dvfran/this_video_attracted_15_new_waitlist_members_for/</guid>
-      <pubDate>Thu, 04 Jul 2024 19:55:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>我免费创建了一个带有自定义 URL 的域名组合页面</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dvfp0c/i_built_a_domain_name_portfolio_page_with_a/</link>
-      <description><![CDATA[        提交人    /u/dotmine_com   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dvfp0c/i_built_a_domain_name_portfolio_page_with_a/</guid>
-      <pubDate>Thu, 04 Jul 2024 19:52:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
