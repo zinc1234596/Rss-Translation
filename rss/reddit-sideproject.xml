@@ -4,7 +4,84 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Sun, 07 Jul 2024 15:13:27 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jul 2024 18:16:06 GMT</lastBuildDate>
+    <item>
+      <title>类似 Youtube 的视频所有权买卖平台</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dxmz61/youtubelike_platform_to_buy_sell_ownership_of/</link>
+      <description><![CDATA[嗨 -- 我正在自学编码，并且我建立了一个项目，让观众可以购买和/或出售内容创建者所创建股份的部分所有权。  https://www.loom.com/share/19f2bfb909dc49a7b95cc716fac966be?sid=7e0752bf-a351-4c85-87d6-22be5ab50ea6 你们觉得怎么样？有用吗？很酷吗？我应该把它核爆吗？    提交人    /u/Gatsbyte   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dxmz61/youtubelike_platform_to_buy_sell_ownership_of/</guid>
+      <pubDate>Sun, 07 Jul 2024 18:15:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>我开发了一款应用程序来帮助人们发现当地的新自然空间</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dxmkzp/i_built_an_app_to_help_people_discover_new_nature/</link>
+      <description><![CDATA[      我们正在构建一个社交网络，帮助您找到新朋友和新地方，进行您最喜欢的户外运动  新的掷骰子功能可帮助您发现附近自然区域中的新地方。只需点击骰子按钮，应用就会推荐符合您偏好的附近公园、小径或自然景点。 工作原理： 掷骰子：点击按钮进行随机附近的冒险。 探索和分享：访问该地点，拍照并在应用中分享您的冒险经历。 掷骰子增加了自发性，帮助您找到隐藏的宝石，并且是围绕后院冒险的想法构建的！ 我很乐意听到有关此功能的一些反馈。如果您有兴趣，请随时加入 meet-me-outside.com 的候补名单    提交人    /u/vizik24   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dxmkzp/i_built_an_app_to_help_people_discover_new_nature/</guid>
+      <pubDate>Sun, 07 Jul 2024 17:59:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的 AdonisJS Boilerplate (turbosaas) 的 BIP 第一天 [公开构建]</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dxm2lc/day_1_of_my_bip_for_my_adonisjs_boilerplate/</link>
+      <description><![CDATA[大家好，这是我的项目第一天（其实不是，我开始得早一些）：使用 AdonisJS、Inertia 的样板 使用/呈现了哪些技术？  AdonisJS Inertia Stripe OpenAI TailwindCSS Vite (React)  为什么？ 首先，我想在启动项目时节省时间，我想你也一样，所以我尽可能多地包含了相关功能。 我厌倦了看到这样的态度：“在 1 小时内开发你的 SaaS，却编写出糟糕的代码！”此代码库的目的是提供尽可能高质量的代码，并在整个开发过程中保持该标准。您可能会多花 20 分钟来正确完成任务，但您将节省 2 小时的重构时间。 不，您不必为更新付费。（顺便问一下，WTF？） 为什么选择这些技术？ 我见过很多 NextJS 用于样板，我以前也使用过 NextJS，但我很快就放弃了它。  它很快就会变得一团糟 您忘记了什么是什么，然后开始做任何事情 每次更新都会破坏您的应用程序  而使用 AdonisJS，生活是美好的。已经有大量社区软件包可用，您需要的一切都在这里。 我提供什么？ 身份验证：社交身份验证、OTP、魔术链接和凭据，以及完整的帐户管理功能，如密码恢复。 支付和邮件集成：从开始到结束的无缝集成，有多个选项可供选择。 详细文档：对每个方面的详尽解释，甚至涵盖代码中最小、可能令人困惑的细节。 可维护和可扩展的代码：按功能组织，允许您轻松拖放功能以扩展功能。 开发人员工具：用于生成新功能和自动添加必要导入的便捷命令；在不到 10 秒的时间内启用/禁用功能的完整配置... 预制页面：可立即使用的页面，例如管理仪表板，用于自动更新 Stripe 上的产品等任务。 广泛的组件库：各种组件可简化开发。 我设计这个样板尽可能对开发人员友好且健壮，旨在从一开始就支持可维护性和可扩展性。 今天和前几天的总结 第 2 天 如果您以前从未设置过 Stripe，那么设置它是一场噩梦，它很快就会变得乏味。但我终于完成了所有的设置：一次性付款、订阅和订阅更新。很复杂。 今天 我终于实现了“忘记密码”选项，并且通过添加魔术链接（与 OTP 配合使用）完成了所有身份验证。 我还使用 GitHub Actions 设置了自动部署，一切运行良好。构建与操作一起运行以确保一切顺利进行，然后使用 SSH，我拉取项目，构建并启动它。 明天：我明天想做什么 明天，我想创建博客，因为是的，我也想包括一个博客，特别是尽快完成它，以便它可以在 turbosaas(dot)dev 上可用，并公开撰写我的构建。 它可能会使用 markdown。 感谢您公开阅读这个简短的构建，您还可以查看 turbosaas(dot)dev 上的进展情况。    提交人    /u/Ok_Bread_6005   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dxm2lc/day_1_of_my_bip_for_my_adonisjs_boilerplate/</guid>
+      <pubDate>Sun, 07 Jul 2024 17:37:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>构建了一个 AI 工具，可以帮助艺术家从他们的曲目中找到引人入胜的片段，从而吸引更多来自社交媒体的用户。链接 - https://harmonysnippetsai.onrender.com/</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dxm059/built_an_ai_tool_which_could_potentially_help/</link>
+      <description><![CDATA[        提交人    /u/Beneficial_Pie_7169   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dxm059/built_an_ai_tool_which_could_potentially_help/</guid>
+      <pubDate>Sun, 07 Jul 2024 17:34:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>招募志愿者：产品测试及反馈</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dxlpd6/seek_volunteers_product_test_and_feedback/</link>
+      <description><![CDATA[[个人理财 SaaS] 有人对个人理财感兴趣吗？我们建立了个性化（100％可定制）的财务跟踪系统，我渴望看到更多的用户反馈。 如果有兴趣，您是否愿意花至少 1 小时来测试并分享您的反馈？作为回报，我们将赠送您 1 年订阅。如果是，请填写以下 1 分钟表格： https://forms.gle/n5DmEHPMkfWDt8zK8 谢谢！    提交人    /u/columns_ai   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dxlpd6/seek_volunteers_product_test_and_feedback/</guid>
+      <pubDate>Sun, 07 Jul 2024 17:21:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个完整的 TS Boilerplate 来启动你的 Web 应用/SaaS</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dxldpa/i_made_a_complete_ts_boilerplate_to_launch_your/</link>
+      <description><![CDATA[我已经开始使用 Inertia 开发 AdonisJS Boilerplate。与一些以前的样板（如“Shipfast”）不同，它们通常提倡快速编码以快速获利，而我的目标是提供更清洁、更易于维护的解决方案。以下是我为使此样板尽可能易于访问和开发人员友好而添加的内容：  身份验证：社交身份验证、OTP、Magic Links 和凭据，以及完整的帐户管理功能（如密码恢复）。  付款和邮件集成：从头到尾无缝集成，有多种选项可供选择。  详细文档：对每个方面的详尽解释，甚至涵盖代码中最小、可能令人困惑的细节。  可维护和可扩展的代码：按功能组织，允许您轻松拖放功能以扩展功能。  开发人员工具：用于生成新功能和自动添加必要导入的便捷命令；完整的配置可在不到 10 秒的时间内启用/禁用功能...  预制页面：可立即使用的页面，例如管理仪表板，用于自动更新 Stripe 上的产品等任务。 广泛的组件库：各种组件可简化开发。  我设计这个样板尽可能对开发人员友好且强大，旨在从一开始就支持可维护性和可扩展性。 欢迎加入候补名单并查看网站！ https://turbosaas.dev Twitter 上的小演示：https://x.com/wailroth/status/1809653795582013717    由   提交  /u/Ok_Bread_6005   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dxldpa/i_made_a_complete_ts_boilerplate_to_launch_your/</guid>
+      <pubDate>Sun, 07 Jul 2024 17:07:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>安全介绍：离线个人信息库 - 寻求您的反馈</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dxl055/introducing_securely_offline_personal_information/</link>
+      <description><![CDATA[      大家好， 作为一名 Android 开发者，我经常面临一些启发新解决方案的挑战。有一次我去银行时发生了这样的事情。我需要我的银行账号，但是我把银行存折忘在家里了。虽然我的手机上有存折的图片，但我还是花了 5 分钟多的时间才在一片杂乱无章的截图中找到它。这次令人沮丧的经历激发了我的一个想法：开发一个应用程序，我可以轻松创建记录并附加图片或 PDF，以便将重要信息保存在一个有组织的地方。 主要特点：  仅离线存储：您的数据保留在您的设备上，确保完全的隐私和安全。 创建和附加记录：使用可自定义的记录存储各种类型的信息。将图像或 PDF 附加到每条记录。 ** 安全性**：使用生物特征认证保护您的数据。 有组织的类别：将您的信息整齐地分类为身份识别、财务、个人和自定义等部分。 自动注销：在一段时间不活动后自动注销以增强安全性。 我很乐意听到您的想法和建议。  感谢您的支持！    提交人    /u/War---Daddy   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dxl055/introducing_securely_offline_personal_information/</guid>
+      <pubDate>Sun, 07 Jul 2024 16:51:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个开源 Mailchimp RSS 到电子邮件的替代方案</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dxk6i6/i_made_an_open_source_mailchimp_rsstoemail/</link>
+      <description><![CDATA[        提交人    /u/elliotkillick   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dxk6i6/i_made_an_open_source_mailchimp_rsstoemail/</guid>
+      <pubDate>Sun, 07 Jul 2024 16:14:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>投资者更新 - 公开现场构建 SaaS，第 6 天</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dxjr0k/investor_update_livebuilding_a_saas_in_public_day/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dxjr0k/investor_update_livebuilding_a_saas_in_public_day/</guid>
+      <pubDate>Sun, 07 Jul 2024 15:56:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了一个数字无障碍工作委员会 + 社区</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dxj393/i_created_a_digital_accessibility_job_board/</link>
+      <description><![CDATA[大家好，我想与你们分享 Accessibility Cafe。作为一个非常关心无障碍和包容性的人，我觉得需要一个专门的空间，让数字无障碍专业人士和雇主可以交流。 目前，社区仅在 Discord 上。我正在努力添加允许求职者免费创建个人资料的功能。    提交人    /u/DigitalStation   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dxj393/i_created_a_digital_accessibility_job_board/</guid>
+      <pubDate>Sun, 07 Jul 2024 15:27:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>谁需要一份不错的额外收入？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dxivbg/who_needs_a_decent_side_income/</link>
+      <description><![CDATA[嘿， 有人有兴趣在不付出太多努力的情况下赚取可观的额外收入吗，哈哈    提交人    /u/Wide-Wilonla   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dxivbg/who_needs_a_decent_side_income/</guid>
+      <pubDate>Sun, 07 Jul 2024 15:17:38 GMT</pubDate>
+    </item>
     <item>
       <title>我建立了一种简单的方法来查找世界各地与您相关的职位公告板（按国家、语言、行业）！</title>
       <link>https://www.reddit.com/r/SideProject/comments/1dxin3y/i_built_an_easy_way_to_find_job_boards_relevant/</link>
@@ -27,88 +104,11 @@
       <pubDate>Sun, 07 Jul 2024 14:37:09 GMT</pubDate>
     </item>
     <item>
-      <title>创办 MVP 开发机构</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dxhxn5/starting_an_mvp_development_agency/</link>
-      <description><![CDATA[我是一名全栈工程师。我正在创办一家 MVP 开发机构。我提供的服务是在 14 天内构建和交付您的 MVP，无论是 AI 应用、SAAS、移动还是 Web 应用。我想构建一个固定价格的预算友好型应用。所以请建议我的基本价格应该是多少。 查看投票    由   提交 /u/wolfgunnblood   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dxhxn5/starting_an_mvp_development_agency/</guid>
-      <pubDate>Sun, 07 Jul 2024 14:35:25 GMT</pubDate>
-    </item>
-    <item>
       <title>寻找兴趣</title>
       <link>https://www.reddit.com/r/SideProject/comments/1dxhlvj/looking_for_interest/</link>
-      <description><![CDATA[你好！我正在考虑为梦幻足球创建一个 AI 机器人，它可以帮助你选秀、预测表现、放弃球员等等。 这里有人对这种事情感兴趣吗？每月大约需要花费 4 美元。 请告诉我，非常感谢所有反馈 :)    提交人    /u/cueiwlks   [link] [评论]]]></description>
+      <description><![CDATA[你好！我正在考虑为梦幻足球创建一个 AI 机器人，它可以帮助你选秀、预测表现、放弃球员等。 这里有人对这种事情感兴趣吗？每月大约需要花费 4 美元。 请告诉我，非常感谢所有反馈 :)    提交人    /u/cueiwlks   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1dxhlvj/looking_for_interest/</guid>
       <pubDate>Sun, 07 Jul 2024 14:20:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sitepeekpro — 免费检查您的网站竞争对手！这对您有用吗？期待任何反馈！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dxhiq6/sitepeekpro_check_your_website_competitor_for/</link>
-      <description><![CDATA[        提交人    /u/Spark_Chicken   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dxhiq6/sitepeekpro_check_your_website_competitor_for/</guid>
-      <pubDate>Sun, 07 Jul 2024 14:15:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>域名拍卖网站 - 需要反馈和意见</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dxh33e/a_domain_auctioning_website_need_feedback_and/</link>
-      <description><![CDATA[我确信很多人像我一样厌倦了当前的域名拍卖场景，领先的域名拍卖网站如 godaddy、sudo 等在很多方面都非常糟糕，我不喜欢使用它们。 因此，我正在考虑自己构建它，在托管的帮助下进行域名拍卖，我正在寻找来自社区的反馈和意见。 我们的想法是为竞标者和列出者提供一种安全可靠的方式来转移域名所有权和付款。托管服务将保留竞标者的付款，直到域名转移完成，然后将付款发放给列表者。 以下是我正在考虑的一些关键功能：  通过可信平台（如escrow.com 对竞标者和列表者进行验证，以确保交易顺利进行且无欺诈。 用于管理拍卖、投标和付款的用户友好界面 通过确保要求列表者支付每日列表费（例如每天几美分）来限制列表垃圾邮件和垃圾域名过度拥挤。 限制竞标者发送垃圾邮件/创建虚假账户来提高报价，方法是要求他们在出价前从钱包中承诺最低金额（也是最低费用），如果他们没有赢得竞标，承诺将退还给他们钱包。 提供更好的客户服务。  我很想知道您对此的想法、意见和反馈。作为竞标者或上架者，哪些功能对您来说最重要？您对使用托管服务有哪些顾虑或保留意见？ 如有任何反馈或意见，我们将不胜感激。谢谢！    提交人    /u/Dheeraj_PG   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dxh33e/a_domain_auctioning_website_need_feedback_and/</guid>
-      <pubDate>Sun, 07 Jul 2024 13:55:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用提示总结 GitHub 问题和讨论</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dxgi89/using_prompts_to_summarize_github_issues_and/</link>
-      <description><![CDATA[        由    /u/siegerts  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dxgi89/using_prompts_to_summarize_github_issues_and/</guid>
-      <pubDate>Sun, 07 Jul 2024 13:27:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>暑假期间快速赚钱的方法</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dxfbmb/tips_for_a_way_to_make_quick_money_while_on/</link>
-      <description><![CDATA[我有几个星期的暑假，需要一些赚钱的方法，有人有什么建议吗？我是一个有 3 年经验的木匠，我很灵巧，但我愿意做任何事情    提交人    /u/Successful_Peace2696   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dxfbmb/tips_for_a_way_to_make_quick_money_while_on/</guid>
-      <pubDate>Sun, 07 Jul 2024 12:24:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源PDF AI聊天</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dxf54y/open_source_pdf_ai_chat/</link>
-      <description><![CDATA[演示：https://pdfun.xyz/pdf-chat https://reddit.com/link/1dxf54y/vi​​deo/tg6h1w2293bd1/player    提交人    /u/dalenguyen   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dxf54y/open_source_pdf_ai_chat/</guid>
-      <pubDate>Sun, 07 Jul 2024 12:14:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>非常简单的徽标/dp动画</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dxejlw/a_dead_simple_logodp_animator/</link>
-      <description><![CDATA[我制作了一个非常快速简单的 Logo/dp 动画器。您可以将动画导出为 GIF 或 MP4。 寻求反馈/方向/意见以推动该项目向前发展。 如果您想尝试，也请告诉我。将分享链接。 Animaker    提交人    /u/Happy-Conversations   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dxejlw/a_dead_simple_logodp_animator/</guid>
-      <pubDate>Sun, 07 Jul 2024 11:38:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>想法：根据你的乐队选择创建 Spotify 队列</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dxeb93/idea_create_spotify_queue_based_on_your_band/</link>
-      <description><![CDATA[我对 Spotify 根据我当前心情创建播放列表的功能不满意。  我时不时会使用艺术家电台，但很多时候很快就会变得非常重复。此外，很难在同一个电台中结合多种风格。 如何通过选择将 x 首歌曲添加到队列中： * 两位或更多艺术家或流派 * 主流 &lt;&gt; 小众滑块 * 指定&quot;随机性&quot; 的数量以在队列中散布不同类型的音乐  您会使用类似的东西吗？我肯定会。发现新音乐会很棒。    提交人    /u/alp82   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dxeb93/idea_create_spotify_queue_based_on_your_band/</guid>
-      <pubDate>Sun, 07 Jul 2024 11:24:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>我为我的企业构建了 AI 产品摄影工具，下一步该怎么做？我如何找到客户？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dxdltm/i_built_ai_product_photography_tool_for_my/</link>
-      <description><![CDATA[我拥有一个健身服装品牌，销售女性健身和运动服装，主要是紧身裤。我面临的一个大问题是产品摄影。拍摄照片既昂贵又耗时，但另一个问题是编辑以使背景干净并准备好用于我的电子商务网站。 为了解决这个问题，我创建了Studiofy.ai - AI 驱动的产品摄影。它通过删除背景并添加逼真的阴影，将普通照片转换为工作室质量、可用于电子商务的图像。    提交人    /u/Money-Relative-1184   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dxdltm/i_built_ai_product_photography_tool_for_my/</guid>
-      <pubDate>Sun, 07 Jul 2024 10:38:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一款应用，让你可以在每天的视频中添加体育评论，就像一个真正的广播员在讲述你的生活一样</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dxdjsc/i_created_an_app_that_lets_you_add_sports/</link>
-      <description><![CDATA[嗨，Side Hustlers，我是 Jan！Niklas 和我刚刚在 7 天内从阳光明媚的马拉加推出了 Narrify AI。在猫咪 Gigi 的鼓励下，我们创建了一款应用，将日常视频转化为激动人心的体育评论体验。 我们的一周：  第 1 天：头脑风暴。 第 2 天：编写 MVP。 第 3 天：解决技术问题。 第 4 天：测试和改进。 第 5 天：集成付费墙。 第 6 天：最终调整。 第 7 天：发布！  总结：  一周时间紧张，但收获颇丰。 幽默很难设计。 专注的一周揭示了团队潜力。  现在在独立黑客页面上启动 Narrify AI。祝我们好运！ 保持创造力，Jan、Niklas 和 Gigi    提交人    /u/Secret_Tomatillo_508   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dxdjsc/i_created_an_app_that_lets_you_add_sports/</guid>
-      <pubDate>Sun, 07 Jul 2024 10:34:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么验证你的想法比完美更重要？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dxdhmm/why_validation_of_your_idea_is_more_important/</link>
-      <description><![CDATA[一旦有了商业想法，在投入大量时间和资源之前验证它至关重要。以下是一些需要考虑的关键点：  构建登陆页面🏗️：创建登陆页面可帮助您收集来自真实用户的反馈并在流程早期进行必要的调整。这比在 MVP 上浪费时间要轻松得多。 获取反馈💭：与潜在客户、导师和行业专家分享您的想法。他们的反馈可以提供宝贵的见解并帮助您完善您的概念。 评估市场需求📈：使用 Google 趋势、关键字研究和竞争对手分析等工具来评估对您的产品或服务的需求。确保您的想法有足够的市场。 了解您的竞争对手💼：研究您的竞争对手，了解他们的产品和策略。确定您的想法与众不同之处以及如何提供更好的解决方案。 如有必要，请调整：根据收集到的反馈，您可以通过登陆页面❤️轻松调整您的商业理念以满足客户需求  其余内容您可以在这里找到。  如果您想快速验证您的商业想法，请查看https://justvalidate.it/ ✌️    提交人    /u/lorum3   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dxdhmm/why_validation_of_your_idea_is_more_important/</guid>
-      <pubDate>Sun, 07 Jul 2024 10:30:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
