@@ -4,13 +4,20 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Sun, 07 Jul 2024 03:15:40 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jul 2024 06:18:04 GMT</lastBuildDate>
     <item>
-      <title>我创建了 Beehiiv 新闻通讯来分享我的创业故事</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dx685b/i_created_beehiiv_newlsetter_to_share_my_startup/</link>
-      <description><![CDATA[大家好， 我刚刚创建了 Beehiiv 新闻通讯，计划在其中分享我的进度以及在建立小型创业公司时学到的东西。如果您想订阅，可以在这里：https://rosishi.beehiiv.com/    提交人    /u/CelebrationSad2985   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dx685b/i_created_beehiiv_newlsetter_to_share_my_startup/</guid>
-      <pubDate>Sun, 07 Jul 2024 02:37:39 GMT</pubDate>
+      <title>我已经构建了一个名为 Mastoget 的 Mastodon 网络供稿检索器。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dx7h7f/i_have_built_a_mastodon_network_feed_retriever/</link>
+      <description><![CDATA[      https://mastoget.x10.bz Mastoget 是一个开源项目，其存储库位于 https://github.com/The-Mastoget-Organization/source 它使用一系列处理器、中继和实例选择器，由重定向器（主页）重定向。实例选择器由 cron-job.org 每 10 分钟刷新一次。 Mastoget 欢迎任何建议甚至吐槽（但不要冒犯，好吗）。 注意：这是一个由初学者创建的项目，托管在免费托管网站（x10 Hosting 和 Vercel）上。它还使用来自 x10 Hosting 和 Vercel 的免费子域名。  https://preview.redd.it/4nibafetq0bd1.png?width=1400&amp;format=png&amp;auto=webp&amp;s=d7d2c4d202597a62868ea4e60d618e523b92a839    提交人    /u/Bubbly-Football6923   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dx7h7f/i_have_built_a_mastodon_network_feed_retriever/</guid>
+      <pubDate>Sun, 07 Jul 2024 03:48:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>我已经建立了一个名为 x10 URL 的 URL 缩短器。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dx7az4/i_have_built_an_url_shortener_named_x10_url/</link>
+      <description><![CDATA[      https://url.x10.bz/  x10 URL 基于我的开源项目 https://github.com/thedoggybrad/urlshortener URL Shortener 和 https://github.com/thedoggybrad/xUI xUI。  它使用 XML 文件作为数据库（但我更改了它的权限，以便公众无法查看 XML 文件）和一些带有我的秘密 Anti-DDOS 保护的 PHP 脚本。 这个 URL 缩短器欢迎任何建议甚至嘲笑（只是不要冒犯，好吗）。 注意：这是一个由初学者创建的项目，它托管在免费托管网站（x10 Hosting）上。它还使用了 x10 Hosting 的免费子域名。 https://preview.redd.it/jc05z3d4o0bd1.png?width=1417&amp;format=png&amp;auto=webp&amp;s=18cb0a0fdbb462fbf5c4f69f905ec88c0e4d5da8    提交人    /u/Bubbly-Football6923   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dx7az4/i_have_built_an_url_shortener_named_x10_url/</guid>
+      <pubDate>Sun, 07 Jul 2024 03:38:31 GMT</pubDate>
     </item>
     <item>
       <title>坠落（第 1 集）坠入</title>
@@ -20,7 +27,7 @@
       <pubDate>Sun, 07 Jul 2024 00:46:52 GMT</pubDate>
     </item>
     <item>
-      <title>我正在制作一个平台，我们可以在线玩一字故事游戏，你觉得怎么样？</title>
+      <title>我正在制作一个平台，我们可以在线玩单词故事游戏，你觉得怎么样？</title>
       <link>https://www.reddit.com/r/SideProject/comments/1dx40iq/im_making_a_platform_where_we_can_play_the_1word/</link>
       <description><![CDATA[        提交人    /u/Majestic_Strain   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1dx40iq/im_making_a_platform_where_we_can_play_the_1word/</guid>
@@ -64,7 +71,7 @@
     <item>
       <title>本周您取得了哪些胜利？</title>
       <link>https://www.reddit.com/r/SideProject/comments/1dx0i8z/what_were_your_wins_this_week/</link>
-      <description><![CDATA[让我们来谈谈过去一周您在构建或开展业余项目时遇到的顺利事情。    提交人    /u/Ord_oh   [link] [comments]]]></description>
+      <description><![CDATA[让我们来谈谈过去一周你在构建或开展业余项目时遇到的顺利事情。    提交人    /u/Ord_oh   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1dx0i8z/what_were_your_wins_this_week/</guid>
       <pubDate>Sat, 06 Jul 2024 21:46:40 GMT</pubDate>
     </item>
@@ -90,7 +97,7 @@
       <pubDate>Sat, 06 Jul 2024 20:19:58 GMT</pubDate>
     </item>
     <item>
-      <title>毫无经验便开发并发布了 Alchemy AI 手机游戏，1 年后下载量达 5 万次</title>
+      <title>毫无经验便开发并发布 Alchemy AI 手机游戏 - 一年后下载量达 5 万次</title>
       <link>https://www.reddit.com/r/SideProject/comments/1dwyg8r/developing_and_launching_alchemy_ai_mobile_game/</link>
       <description><![CDATA[]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1dwyg8r/developing_and_launching_alchemy_ai_mobile_game/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[我有一些令人兴奋的消息要分享，我想你会觉得很有趣！经过多年的努力和无数次迭代，我开发了一个可以用描述性标签标记图像和视频的 AI 模型。这段旅程有点像爱迪生的旅程——找到了很多不制造 AI 的方法——但我很高兴地说，结果确实令人印象深刻。 几年前，我开发了 pury.fi 背后的 AI 模型，它可以实现 AI 图像审查和身体部位识别。基于这一经验，我专注于创建可以准确标记图像和视频的 AI。该 AI 模型目前支持 35 种不同的标签，专注于各种 NSFW 动作，并且远远优于在线提供的任何其他 NSFW 标记 AI。 此外，我还开发了一个插件，可以与 Stash（一种流行的开源本地托管媒体服务器）集成，允许 AI 直接在 Stash 中标记图像和视频。如果您有本地图像、视频，您可以利用这些 AI 模型来：  组织您的内容：轻松管理您的媒体。 自动标记：通过自动化大型媒体库的标记过程节省时间。 增强的搜索功能：使用更准确、更详细的标签更快地找到特定内容。 内容推荐：最终获得个性化的内容推荐。  以下是一些剪辑的演示，展示了 AI 结果在视频上的样子： AI 视频标记演示 要开始使用 AI 标记，请考虑成为 Patreon 会员并按照此处的快速入门指南进行操作： NSFW AI 标记快速入门指南 有关我的旅程和未来愿景的更多信息，请查看此帖子： AI 标记说明 如果您有任何疑问，请随时在这里或在 discord 中加入讨论： Discord 频道 欢迎加入讨论并探索此 AI 如何帮助您更有效地管理内容！    提交人    /u/Skier233   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1dwy2t7/nsfw_ai_video_and_image_tagging/</guid>
       <pubDate>Sat, 06 Jul 2024 19:54:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>YouTube 播放列表生成器 - 根据文本描述创建播放列表</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dwy1qa/youtube_playlists_generator_create_playlists/</link>
-      <description><![CDATA[        提交人    /u/normhill22   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dwy1qa/youtube_playlists_generator_create_playlists/</guid>
-      <pubDate>Sat, 06 Jul 2024 19:53:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
