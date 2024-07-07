@@ -4,7 +4,28 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Sun, 07 Jul 2024 06:18:04 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jul 2024 09:14:38 GMT</lastBuildDate>
+    <item>
+      <title>我制作了一个在 Reddit 上轻松寻找想法的工具</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dxbt5n/i_made_a_tool_to_find_ideas_easily_on_reddit/</link>
+      <description><![CDATA[        由    /u/evanyang0202  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dxbt5n/i_made_a_tool_to_find_ideas_easily_on_reddit/</guid>
+      <pubDate>Sun, 07 Jul 2024 08:33:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>我做了一个网站来列出最好的预告片</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dxb9in/i_made_a_website_to_list_the_best_teasers/</link>
+      <description><![CDATA[        提交人    /u/FlyNestor   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dxb9in/i_made_a_website_to_list_the_best_teasers/</guid>
+      <pubDate>Sun, 07 Jul 2024 07:55:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找讨厌营销的人</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dxas2m/looking_for_people_who_hate_marketing/</link>
+      <description><![CDATA[我创建了一个工具，可帮助创建数百个程序化 SEO 页面，以自动带来自然流量。  我正在寻找 beta 测试人员，但任何反馈都值得赞赏。 链接     提交人    /u/M4DR4T   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dxas2m/looking_for_people_who_hate_marketing/</guid>
+      <pubDate>Sun, 07 Jul 2024 07:21:42 GMT</pubDate>
+    </item>
     <item>
       <title>我已经构建了一个名为 Mastoget 的 Mastodon 网络供稿检索器。</title>
       <link>https://www.reddit.com/r/SideProject/comments/1dx7h7f/i_have_built_a_mastodon_network_feed_retriever/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[      此免费课程是 YouTube 视频，由 3 个 8 分钟长的教程视频组合而成。它鼓励会员加入：https://youtu.be/wPnpHXN_dwk 观看以下视频以查看其外观： https://reddit.com/link/1dwzct0/video/g1ve7b2noyad1/player    提交人    /u/Illustrious_Sir_7572   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1dwzct0/i_created_a_free_course_to_learn_the_basics_of/</guid>
       <pubDate>Sat, 06 Jul 2024 20:53:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>HackPath - 独立黑客的日志</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dwyn0g/hackpath_indie_hackers_journal/</link>
-      <description><![CDATA[我目前正在为独立黑客建立一个数字日志，以记录他们的思维过程并与其他有抱负的黑客分享。 https://hackpath.framer.website/ 如果您认为这很有趣，请务必订阅等候名单并在此处给我反馈。 谢谢    提交人    /u/fouad41   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dwyn0g/hackpath_indie_hackers_journal/</guid>
-      <pubDate>Sat, 06 Jul 2024 20:19:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>毫无经验便开发并发布 Alchemy AI 手机游戏 - 一年后下载量达 5 万次</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dwyg8r/developing_and_launching_alchemy_ai_mobile_game/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dwyg8r/developing_and_launching_alchemy_ai_mobile_game/</guid>
-      <pubDate>Sat, 06 Jul 2024 20:11:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>NSFW AI 视频和图像标记</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dwy2t7/nsfw_ai_video_and_image_tagging/</link>
-      <description><![CDATA[我有一些令人兴奋的消息要分享，我想你会觉得很有趣！经过多年的努力和无数次迭代，我开发了一个可以用描述性标签标记图像和视频的 AI 模型。这段旅程有点像爱迪生的旅程——找到了很多不制造 AI 的方法——但我很高兴地说，结果确实令人印象深刻。 几年前，我开发了 pury.fi 背后的 AI 模型，它可以实现 AI 图像审查和身体部位识别。基于这一经验，我专注于创建可以准确标记图像和视频的 AI。该 AI 模型目前支持 35 种不同的标签，专注于各种 NSFW 动作，并且远远优于在线提供的任何其他 NSFW 标记 AI。 此外，我还开发了一个插件，可以与 Stash（一种流行的开源本地托管媒体服务器）集成，允许 AI 直接在 Stash 中标记图像和视频。如果您有本地图像、视频，您可以利用这些 AI 模型来：  组织您的内容：轻松管理您的媒体。 自动标记：通过自动化大型媒体库的标记过程节省时间。 增强的搜索功能：使用更准确、更详细的标签更快地找到特定内容。 内容推荐：最终获得个性化的内容推荐。  以下是一些剪辑的演示，展示了 AI 结果在视频上的样子： AI 视频标记演示 要开始使用 AI 标记，请考虑成为 Patreon 会员并按照此处的快速入门指南进行操作： NSFW AI 标记快速入门指南 有关我的旅程和未来愿景的更多信息，请查看此帖子： AI 标记说明 如果您有任何疑问，请随时在这里或在 discord 中加入讨论： Discord 频道 欢迎加入讨论并探索此 AI 如何帮助您更有效地管理内容！    提交人    /u/Skier233   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dwy2t7/nsfw_ai_video_and_image_tagging/</guid>
-      <pubDate>Sat, 06 Jul 2024 19:54:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
