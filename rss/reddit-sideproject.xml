@@ -4,7 +4,84 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Mon, 08 Jul 2024 18:17:53 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jul 2024 21:13:48 GMT</lastBuildDate>
+    <item>
+      <title>我的项目：枢纽、测试和更多枢纽</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dykab4/my_project_pivots_testing_and_more_pivots/</link>
+      <description><![CDATA[我的业余项目叫做 Upvte。这是一个运动鞋排名平台，用户可以在上面为自己最喜欢的鞋子点赞。这个业务背后的想法是打破炒作，让人们决定哪些鞋子是最受欢迎的——而不是 Nike、Jordan 或任何其他公司。首页上会展示排名前 100 的鞋子。 然而，它并没有按计划顺利进行。我们吸引到的用户并没有像我们希望的那样频繁地回来，而那些回来的用户主要只是四处看看，并没有积极参与。 从那时起，我和我的商业伙伴开始测试让人们积极参与的方法。我们添加了一个简单的“支持或放弃”功能，让人们对他们想要支持的鞋子投赞成票，对他们想要放弃的鞋子投反对票。没有奏效。  然后，我们添加了运动鞋战斗功能 - 让两只鞋子进行面对面的战斗，看看谁会获胜。没用。我们更新了逻辑，让鞋子与相似的鞋子进行战斗。没用。我们添加了战斗统计数据来显示鞋子在战斗中的表现。没用。我们为完成 50 场战斗的用户添加了个性化的运动鞋精选。没用。我们添加了聊天功能，用户可以解锁成就。没用。没用。 在进行所有这些开发更新的同时，我们通过谷歌广告严格测试了不同的概念，以了解我们可以产生什么类型的流量/兴趣。在几周的时间里，我们轻松测试了十几个不同的想法。 你知道什么最受关注吗？运动鞋价格提醒/跟踪。这个想法很简单 - 你为一双鞋设定一个价格或价格范围，当鞋子达到你想要支付的价格时，我们会向你发送短信提醒。这是我们的价格跟踪器/警报工具（在开发中）的链接。 https://upvte.com/price-tracker    提交人    /u/MattyMatt146   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dykab4/my_project_pivots_testing_and_more_pivots/</guid>
+      <pubDate>Mon, 08 Jul 2024 21:11:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>小时候，我喜欢互动书。现在，我制作了一个应用程序！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dyj5oj/as_a_child_i_loved_interactive_books_now_ive_made/</link>
+      <description><![CDATA[大家好！😊 我很高兴向大家介绍 Chooz，这是一款可在 Google Play Store 上下载的互动故事应用。 小时候，我一直很喜欢选择自己喜欢的冒险类图书，这种热情激励我创建了 Chooz。这款应用让用户可以沉浸在引人入胜的故事中，每个选择都很重要。无论您是互动小说的粉丝，还是仅仅在寻找新的游戏体验，Chooz 都会根据您的每个决定提供个性化的冒险体验。 为什么选择 Chooz？  身临其境的故事：每个故事都旨在让您沉浸在独特的世界中。 选择和后果：您的决定会直接影响故事的进程。 定期内容更新：经常添加新故事和更新。 无需登录，无广告。  我们很乐意听到您的反馈和建议。尝试一下并分享您的想法！ 谢谢，Chooz 上见！📚✨    提交人    /u/Phobiie   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dyj5oj/as_a_child_i_loved_interactive_books_now_ive_made/</guid>
+      <pubDate>Mon, 08 Jul 2024 20:27:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>我正在开发一款应用，旨在帮助初创公司建立联系并更快成长。需要一些帮助。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dyit5t/im_developing_an_app_designed_to_help_startups/</link>
+      <description><![CDATA[虽然这个概念并不完全是新的，但我正在实现的功能旨在为初创公司创始人提供来自其他企业家的支持。该应用程序将提供对关键信息的访问以及营销、开发、行政或法律任务的帮助。我正在使用 Claude 构建这个 Web 应用程序，但在连接所有组件时遇到了麻烦。 这里有人有兴趣合作这个项目吗？    提交人    /u/InnerAntagonist   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dyit5t/im_developing_an_app_designed_to_help_startups/</guid>
+      <pubDate>Mon, 08 Jul 2024 20:13:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>低延迟，基本邮政编码 API</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dyirjv/low_latency_basic_zip_code_api/</link>
+      <description><![CDATA[必须为我的一个项目构建一个邮政编码距离流程，并决定在 RapidAPI 上发布它。  https://rapidapi.com/truvian-softworks-llc-truvian-softworks-llc-default/api/zip-code-distance-radius 邮政编码之间的直线距离，以及一定半径内的邮政编码。 RapidAPI 在 0 时所有东西都出现故障，但延迟似乎低于其他邮政编码 api。     提交人    /u/truvian_man   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dyirjv/low_latency_basic_zip_code_api/</guid>
+      <pubDate>Mon, 08 Jul 2024 20:11:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>从 whatsapp 聊天中构建您的登录页面 -- wheebot.online</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dyioca/build_your_landing_page_from_whatsapp_chat/</link>
+      <description><![CDATA[我们帮助非技术创始人仅通过 WhatsApp 聊天创建网站 https://reddit.com/link/1dyioca/video/d79789fpqcbd1/player 您现在可以在 wheebot[.]online 上免费试用，或在 WA 上通过 DM +12166770783 试用 在我们的免费计划中，您可以创建自己的网站并将其部署在自定义 wheebot 域中。 在我们的 5 美元/年计划中，您可以将其连接到子域，自行托管，获取源代码，获得优先支持等等！ 在您交谈或提供反馈之前，请花 100 秒试用产品，相信我 -你会喜欢的！    由   提交  /u/yuvan_arvind   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dyioca/build_your_landing_page_from_whatsapp_chat/</guid>
+      <pubDate>Mon, 08 Jul 2024 20:08:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用基于类型的 AI 模拟数据并生成和模拟 API 响应</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dyihi7/mocking_data_using_ai_based_on_type_and_generate/</link>
+      <description><![CDATA[几天前，我在这里发布了关于我的应用程序的信息，该应用程序基于 TypeScript 接口生成数据，使用 AI 根据给定的描述对数据进行建模，并使数据看起来逼真。该应用程序现在还生成一个端点，通过 API 访问数据，在设计应用程序原型时可将其用作路由。每个新帐户都有足够的积分来生成最多 125 行。我很感激任何关于新功能的反馈。 链接：https://mock-ts-data-ai.vercel.app/ https://reddit.com/link/1dyihi7/video/ca2zpgt1pcbd1/player    提交人    /u/nobaianobaianobaia   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dyihi7/mocking_data_using_ai_based_on_type_and_generate/</guid>
+      <pubDate>Mon, 08 Jul 2024 20:00:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>[需要建议] 我应该使用哪种分类算法？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dyhzr6/advice_needed_which_classification_algorithm/</link>
+      <description><![CDATA[大家好！仅供参考，我是 AI 领域的新手，想通过个人项目来尝试一下。 问题：我想使用 Riot 的 TFT API 获取不同比赛的数据，并对特定比赛所属的组合进行分类。问题是“组合”的多个组合落入单个存储桶中。您能否建议哪种分类算法最适合这项任务？ 示例：  https://imgur.com/a/iCSgOKT 所有这些变体均被视为“Reaper Kayn”组合。  如能得到任何建议，我们将不胜感激，如果需要进一步说明，请告知我。 提前谢谢您！    提交人    /u/Anywhere_Cheap   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dyhzr6/advice_needed_which_classification_algorithm/</guid>
+      <pubDate>Mon, 08 Jul 2024 19:40:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何制作出色的宣传视频？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dyhrux/how_to_make_good_promotional_video/</link>
+      <description><![CDATA[嗨，我目前正在制作一个 chrome 扩展程序，虽然我还没有发布产品，但我对如何销售它很好奇。我在这个频道上看到了很多精彩的视频，想知道是否有人对如何制作精彩的视频有什么建议，包括要说什么、如何构建视频以及要使用什么软件等。我目前使用的是 MacOS 并有 OBS，但你们使用不同的录制软件吗？非常感谢！    提交人    /u/ChaiGPT12   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dyhrux/how_to_make_good_promotional_video/</guid>
+      <pubDate>Mon, 08 Jul 2024 19:31:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>用于语义路由的 PyPI 包</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dyhn8y/pypi_package_for_sematic_routing/</link>
+      <description><![CDATA[大家好， 我想分享一个我一直在做的名为 SemRoute 的项目，我很乐意得到你们的反馈。SemRoute 是一个语义路由器，它使用向量嵌入根据语义含义路由查询。它设计灵活且易于使用，无需训练分类器或使用大型语言模型。 以下是简要概述： - 支持多种嵌入模型（OpenAI、MistralAI） - 提供动态和静态阈值 - 允许不同的评分方法（个体平均、质心） 您可以在 GitHub 上查看。我非常感谢这个社区对如何改进它或使用您认为它可能适合的案例的任何反馈或建议。 谢谢！    提交人    /u/Supernovae77   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dyhn8y/pypi_package_for_sematic_routing/</guid>
+      <pubDate>Mon, 08 Jul 2024 19:26:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了一个网站，让收集反馈变得像从婴儿那里偷糖果一样简单</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dyhd4z/i_made_a_site_to_make_gathering_feedback_as_easy/</link>
+      <description><![CDATA[想象一下，您正在开展一个项目，需要一种简单的方法来收集反馈。 您想让用户给您发送电子邮件或直接留言 - 哈欠！然后是 Feedbackfish，但这就像花一大笔钱买了一些不符合您项目主题的东西。 因此，为了节省时间并使事情变得简单，我创建了 Feedbackr。这是一个反馈小部件，设置起来就像电灯开关一样简单。 只需复制粘贴代码，调整外观以匹配您的项目，然后砰的一声 - 您就可以开始了。 哦，猜猜怎么着？您会以眨眼间更快的速度收到电子邮件通知，因此您不会错过任何反馈。 目前，Feedbackr 支持 React 和 Tailwind，因为它们就像前端开发的基本要素一样。 如果您厌倦了反馈头痛并想要一个尽可能轻松的工具，请尝试使用 Feedbackr。它使反馈收集变得简单（是的，真的）。 期待您的想法！    提交人    /u/0xSatyajit   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dyhd4z/i_made_a_site_to_make_gathering_feedback_as_easy/</guid>
+      <pubDate>Mon, 08 Jul 2024 19:15:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>免费简约的日常习惯追踪器</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dygbtt/free_minimalistic_daily_habit_tracker/</link>
+      <description><![CDATA[你好。 我最近为自己制作了一个日常习惯追踪器作为工具，人们似乎很喜欢它并且正在寻找类似的东西。所以我想我也可以在这里分享它，以防有人觉得它有用。 它完全免费使用，不需要创建帐户。 支持几个功能：  使用连续记录，跟踪每个习惯的每日和最长连续记录 暂停应用；如果您需要休息或离开，您可以暂停应用程序直到回来 连续记录冻结 - 在连续记录中断之前，您最多可以错过 3 天（与 Duolingo 类似的想法） 使用可视地图可视化您的一致性  链接：[https://rdht.vercel.app/]    提交人    /u/JaxTheRandomRedditor   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dygbtt/free_minimalistic_daily_habit_tracker/</guid>
+      <pubDate>Mon, 08 Jul 2024 18:33:39 GMT</pubDate>
+    </item>
     <item>
       <title>我为 Next.js、Tailwind 和 Shadcn 制作了一个可视化登陆页面构建器</title>
       <link>https://www.reddit.com/r/SideProject/comments/1dyfnsm/i_made_a_visual_landing_page_builder_for_nextjs/</link>
@@ -15,7 +92,7 @@
     <item>
       <title>在 Etsy 上销售 Power Bi 模板赚了 48,000 美元 [案例研究]</title>
       <link>https://www.reddit.com/r/SideProject/comments/1dyfn7n/48k_selling_power_bi_templates_on_etsy_case_study/</link>
-      <description><![CDATA[大家好，我是 Salem，来自 数字直销。正在对 Etsy 和 Gumroad 等平台上大获成功的数字产品进行案例研究。 今天介绍一款有趣的数字产品，我不知道销售 Power BI 是一件好事，而且可以在不到一年的时间内赚到 5 位数。这也很技术性，但很有趣。让我为你们分解一下这个数字。 统计数据： 商店名称： ~SmartMetrics~ 利基： Power BI 模板 设置日期： 2023 销售额： 186 AOV： $260.81 收入：$48,360 月收入：$5,373 目标客户分析 对 AI 感兴趣的人，更具体地说是对使用 chatGPT 进行提示工程感兴趣的人。他们在所有领域都有预先制作的提示模板 我研究此类业务并在免费的~每周新闻通讯~ 上分享它们，以及其他指标，例如它们推出的时间，预计的月利润，主要流量渠道等，对于任何可能认为这有帮助的人。    提交人    /u/Ok_Cap9063   [link] [评论]]]></description>
+      <description><![CDATA[大家好，我是 Salem，我来自数字直销。正在对在 Etsy 和 Gumroad 等平台上大获成功的数字产品进行案例研究。 今天介绍一款有趣的数字产品，我不知道销售 Power BI 是一件好事，而且可以在不到一年的时间内赚到 5 位数。这也很技术性，但很有趣。让我为你们分解一下这个数字。 统计数据： 商店名称： ~SmartMetrics~ 利基： Power BI 模板 设置日期： 2023 销售额： 186 AOV： $260.81 收入：$48,360 月收入：$5,373 目标客户分析 对 AI 感兴趣的人，更具体地说是对使用 chatGPT 进行提示工程感兴趣的人。他们在所有领域都有预先制作的提示模板 我研究此类业务并在免费的~每周新闻通讯~ 上分享它们，以及其他指标，例如它们推出的时间，预计的月利润，主要流量渠道等，对于任何可能认为这有帮助的人。    提交人    /u/Ok_Cap9063   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1dyfn7n/48k_selling_power_bi_templates_on_etsy_case_study/</guid>
       <pubDate>Mon, 08 Jul 2024 18:06:39 GMT</pubDate>
     </item>
@@ -32,83 +109,6 @@
       <description><![CDATA[      我受到这里的一篇文章的启发，并制作了这个  https://grill-it.vercel.app/    提交人    /u/Realhardik18   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1dyf0bi/i_made_a_free_website_which_roasts_you_based_on/</guid>
       <pubDate>Mon, 08 Jul 2024 17:41:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>正在寻找纽约的业余项目伙伴 - 有没有什么聚会场所可以推荐？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dyez0f/looking_for_fellow_side_project_people_in_nyc_any/</link>
-      <description><![CDATA[我晚上会做我的副业，很想在纽约找到一些很棒的空间、第三空间或其他可以找到其他做自己事情的人的地方。 我也刚搬到纽约，我在布鲁克林，但愿意旅行。很想知道你的想法和建议。    提交人    /u/thoughtful_thots   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dyez0f/looking_for_fellow_side_project_people_in_nyc_any/</guid>
-      <pubDate>Mon, 08 Jul 2024 17:39:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>Firebits.io 是一个现代知识管理系统 (KMS)，可帮助您组织和共享知识资源。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dyeqis/firebitsio_a_modern_knowledge_management_system/</link>
-      <description><![CDATA[        提交人    /u/Odd-Sense-5807   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dyeqis/firebitsio_a_modern_knowledge_management_system/</guid>
-      <pubDate>Mon, 08 Jul 2024 17:30:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要对用于记录客户、产品和交易数据的简单工具的反馈</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dyedjj/need_feedback_on_a_minimal_tool_to_record/</link>
-      <description><![CDATA[  由    /u/Remarkable_Novel_391  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dyedjj/need_feedback_on_a_minimal_tool_to_record/</guid>
-      <pubDate>Mon, 08 Jul 2024 17:15:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI新闻简报反馈</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dye89z/ai_newsletter_feedback/</link>
-      <description><![CDATA[大家好， 去年我推出了一份 AI 时事通讯，一直在努力寻找自己的节奏。 但是，我很乐意听取一些反馈和建议。 我有 261 个订阅者，打开率为 19%，点击率为 6% 只是想知道你们怎么想，以及我该如何改进。 这是链接 - THE Al STREET JOURNAL 谢谢！！    提交人    /u/EntrepreneurThen0187   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dye89z/ai_newsletter_feedback/</guid>
-      <pubDate>Mon, 08 Jul 2024 17:09:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了 Journer——一款让初学者轻松记日记的终极日记本。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dye653/i_created_journer_the_ultimate_journal_that/</link>
-      <description><![CDATA[        提交人    /u/Wonderful_Bar_7039   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dye653/i_created_journer_the_ultimate_journal_that/</guid>
-      <pubDate>Mon, 08 Jul 2024 17:07:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>将个人简介中的链接转变为引人入胜的迷你网站</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dydrhg/transform_your_link_in_bio_into_an_engaging/</link>
-      <description><![CDATA[https://reddit.com/link/1dydrhg/video/lyw87yx5rbbd1/player 使用 aye.so 将您个人简介中的链接转换为引人入胜的迷你网站！使用多功能小部件自定义您的页面，轻松收集电子邮件并提升您的在线形象。入门非常简单，只需不到一分钟即可免费注册。立即使用 aye.so 提升您的社交媒体形象！ 网站 → https://aye.so    提交人    /u/heyarviind   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dydrhg/transform_your_link_in_bio_into_an_engaging/</guid>
-      <pubDate>Mon, 08 Jul 2024 16:50:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>保护侧投影</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dydqfs/protecting_side_projectd/</link>
-      <description><![CDATA[大家好！我很好奇这里有没有人发起过一​​个真正成功的副业项目。你采取了哪些措施来保护它或授权它？你成立了有限责任公司吗？谢谢！    提交人    /u/Soubi_Doo2   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dydqfs/protecting_side_projectd/</guid>
-      <pubDate>Mon, 08 Jul 2024 16:49:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>我为纽约市合作公寓开发了一款应用程序</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dycne4/i_built_an_app_for_nyc_coop_buildings/</link>
-      <description><![CDATA[      我住在纽约市的一个小型合作社大楼里，很难跟踪可能影响建筑的生命周期，所以我决定构建一个简单的应用程序来收集与销售、违规、工作许可、检查相关的所有公共信息……它可以在应用商店免费获得。我希望它能帮助小型自管理建筑。 https://apps.apple.com/us/app/nyc-co-op/id1544827844    提交人    /u/Salty-Fox-3809   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dycne4/i_built_an_app_for_nyc_coop_buildings/</guid>
-      <pubDate>Mon, 08 Jul 2024 16:05:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>我厌倦了无休止的规划循环，所以我创建了这个人工智能工具</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dycgzo/im_tired_of_the_endless_cycle_of_planning_so_i/</link>
-      <description><![CDATA[      https://preview.redd.it/3ahyey68ibbd1.png?width=1900&amp;format=png&amp;auto=webp&amp;s=558ed6420a3fb078738d7d00bbb267f028f6ca2f https://preview.redd.it/bdtzk378ibbd1.png?width=1898&amp;format=png&amp;auto=webp&amp;s=15aaa7bd29957fdcef6dd552edc14a5a430b8c40    提交人    /u/NextAssist1038   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dycgzo/im_tired_of_the_endless_cycle_of_planning_so_i/</guid>
-      <pubDate>Mon, 08 Jul 2024 15:59:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>我推出了一款网络应用，只需 1 美元即可为您提供永久反向链接和大量可见性</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dyc5qp/i_launched_a_web_app_that_gives_you_a_permanent/</link>
-      <description><![CDATA[您可以将其称为 1 美元的营销平台。这是它的链接：https://www.pixel.estate  您将获得永久的反向链接和大量网站访问者。 您可以提交任何您想要的内容，社交媒体个人资料、帖子、博客或您自己的产品网站。 您的页面将被编入索引，您将长期获得关注。 基本上它是一个画布网格，您可以在其中以 1 美元购买一个位置。 让我知道您的反馈。我会大力营销这个网站，所以不要忘记认领您的像素。您将获得很多访客。    提交人    /u/metabhai   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dyc5qp/i_launched_a_web_app_that_gives_you_a_permanent/</guid>
-      <pubDate>Mon, 08 Jul 2024 15:46:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Centa：让 AI 通过拍摄一张照片来计算卡路里</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dybxqy/centa_let_ai_count_calories_by_taking_a_single/</link>
-      <description><![CDATA[大家好， 我开发了一款应用来解决我的体重问题。这是一款卡路里计算应用，无需搜索、思考、测量或手动输入。只需拍一张食物照片，就这么简单！人工智能会自动检测后台的所有内容。 如果您正在努力减肥，我很想看看我的应用是否能帮助您控制体重。以下是下载链接：https://centa.world/download 如果您有任何问题，请随时给我发消息 🌷 谢谢    提交人    /u/foratbahrani   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dybxqy/centa_let_ai_count_calories_by_taking_a_single/</guid>
-      <pubDate>Mon, 08 Jul 2024 15:36:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
