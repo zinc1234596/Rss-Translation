@@ -4,111 +4,111 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Mon, 08 Jul 2024 15:14:22 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jul 2024 18:17:53 GMT</lastBuildDate>
     <item>
-      <title>我制作了一个交互式表格，以便于比较 LLM 价格 - https://anotherwrapper.com/llm-pricing</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dyb0i1/i_made_an_interactive_table_make_it_easy_to/</link>
-      <description><![CDATA[        由    /u/stepitup9600   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dyb0i1/i_made_an_interactive_table_make_it_easy_to/</guid>
-      <pubDate>Mon, 08 Jul 2024 14:58:53 GMT</pubDate>
+      <title>我为 Next.js、Tailwind 和 Shadcn 制作了一个可视化登陆页面构建器</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dyfnsm/i_made_a_visual_landing_page_builder_for_nextjs/</link>
+      <description><![CDATA[        提交人    /u/tiapome   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dyfnsm/i_made_a_visual_landing_page_builder_for_nextjs/</guid>
+      <pubDate>Mon, 08 Jul 2024 18:07:16 GMT</pubDate>
     </item>
     <item>
-      <title>您如何跟上 Nextjs 生态系统的持续变化？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dyavxf/how_do_you_keep_up_with_continuous_changes_in/</link>
-      <description><![CDATA[Nextjs 生态系统发展迅速，在不断涌入的工具、文章和教程中保持更新是一项挑战。社交媒体可能会分散注意力，而 awesome-next 等存储库可能包含过时的信息。 为了解决这个问题，我构建了一个演示项目。我精心挑选了一些资源，例如以 Nextjs 为重点的课程、软件包和插件。我还收集了一些开源的真实网站，以便开发人员可以从源代码中学习。此外，我还提供了最佳文章和教程的链接，以便您随时了解行业最佳实践和最新消息。 如果有足够的兴趣，我将继续努力并更新内容。 欢迎提出建议，欢迎您的反馈。 https://nxthub.vercel.app    提交人    /u/PerspectiveGrand716   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dyavxf/how_do_you_keep_up_with_continuous_changes_in/</guid>
-      <pubDate>Mon, 08 Jul 2024 14:53:24 GMT</pubDate>
+      <title>在 Etsy 上销售 Power Bi 模板赚了 48,000 美元 [案例研究]</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dyfn7n/48k_selling_power_bi_templates_on_etsy_case_study/</link>
+      <description><![CDATA[大家好，我是 Salem，来自 数字直销。正在对 Etsy 和 Gumroad 等平台上大获成功的数字产品进行案例研究。 今天介绍一款有趣的数字产品，我不知道销售 Power BI 是一件好事，而且可以在不到一年的时间内赚到 5 位数。这也很技术性，但很有趣。让我为你们分解一下这个数字。 统计数据： 商店名称： ~SmartMetrics~ 利基： Power BI 模板 设置日期： 2023 销售额： 186 AOV： $260.81 收入：$48,360 月收入：$5,373 目标客户分析 对 AI 感兴趣的人，更具体地说是对使用 chatGPT 进行提示工程感兴趣的人。他们在所有领域都有预先制作的提示模板 我研究此类业务并在免费的~每周新闻通讯~ 上分享它们，以及其他指标，例如它们推出的时间，预计的月利润，主要流量渠道等，对于任何可能认为这有帮助的人。    提交人    /u/Ok_Cap9063   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dyfn7n/48k_selling_power_bi_templates_on_etsy_case_study/</guid>
+      <pubDate>Mon, 08 Jul 2024 18:06:39 GMT</pubDate>
     </item>
     <item>
-      <title>规划浪费时间，不如这样做——公开现场构建 SaaS，第 7 天</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dyansw/planning_is_a_waste_of_time_do_this_instead/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dyansw/planning_is_a_waste_of_time_do_this_instead/</guid>
-      <pubDate>Mon, 08 Jul 2024 14:44:06 GMT</pubDate>
+      <title>MakeItGrid | 免费便当格生成器</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dyfjsg/makeitgrid_free_bento_grid_generator/</link>
+      <description><![CDATA[大家好，Reddit 社区！我很高兴终于能分享我最新的业余项目 MakeItGrid — 我一直在努力开发用于创建和自定义便当网格的平台。 在过去的几周里，我一直在集思广益，寻找一种解决方案，为开发人员和设计人员简化网格设计。我注意到，虽然便当网格很流行，但许多人在创建响应式设计方面遇到了困难（包括我自己 😅）。这就是我创建 MakeItGrid 的原因，这是一款旨在让网格布局创建变得简单而高效的工具。以下是其背后的技术堆栈：  Next.js 14 用于前端 TypeScript 用于编程 Tailwind CSS 用于样式 Shadcn UI 用于组件 Vercel 用于托管  以下是该工具的一些主要功能： 🖌️ 灵活的布局：使用您选择的列、行和间隙创建网格布局。 📱 响应式设计：无缝组织您的网格布局以适应移动和桌面设备。 🎲 随机网格生成器：生成随机布局以进行试验并发现新设计。 📄 Code 导出：构建您的布局并以两种格式复制响应式代码：Tailwind CSS 和 CSS Grid。 🔗 CodeSandbox 集成：直接在 CodeSandbox 中测试生成的代码以查看其性能。 🌗 暗和亮模式：在暗和亮模式之间切换以获得舒适的用户体验。 🌐 C跨设备兼容性：可在任何设备上使用该工具！ 🚀 快速游览：包含快速指南，可帮助您了解平台的工作原理，其中包含“快速游览”按钮。 🔎 SEO 和性能优化：该项目对 SEO 友好且高效，在 PageSpeed Insights 上获得高分验证。 🖼️ 可自定义项目：通过添加和自定义图像来个性化每个网格项目，使您的网格真正独一无二。 📸 将网格下载为图像：捕获并下载整个网格布局作为图像，以便于共享和集成到其他项目中。 在此处查看 MakeItGrid：https://www.makeitgrid.com/ 哦，我有没有提到这个工具是开源的？如果您对它的工作原理感兴趣或想要做出贡献，请随时参与。我很乐意听到您的反馈和建议👏🏼我仍在学习和成长，希望您觉得它有用。谢谢！❤️    提交人    /u/Medium-Dragonfruit55   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dyfjsg/makeitgrid_free_bento_grid_generator/</guid>
+      <pubDate>Mon, 08 Jul 2024 18:02:45 GMT</pubDate>
     </item>
     <item>
-      <title>我们为 X、LinkedIn、Reddit、HN 等构建了社交聆听 AI</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dyakkk/we_built_a_social_listening_ai_for_x_linkedin/</link>
-      <description><![CDATA[嗨，Reddit 社区，我想分享我和 Pepe 构建的内容。Octolens.com 是一种社交聆听工具，可帮助早期 B2B 软件公司找到带有购买信号的社交帖子。 我自己作为早期创始人使用 Octolens 来每天成长。方法如下：  我跟踪与我们解决的痛点、品牌和竞争对手相关的关键字。Octolens 在 Reddit、X、LinkedIn 等网站上查找帖子，然后使用 AI 评估它们的相关性和购买信号。 我在 Slack 中收到有关高度相关帖子的警报。然后我与这些帖子互动以联系和转化潜在客户。  随着冷出站随着 AI 自动化和电子邮件垃圾邮件限制变得更具挑战性，利用意图信号比以往任何时候都更加重要。Octolens 有助于实现这一点。  这是一个付费工具。但我们网站上还有一个免费搜索工具可供使用（https://octolens.com/search）以及之前 YC 公司的免费目录，作为您可以期待的一些提及示例（https://octolens.com/mentions） 让我知道您的想法！     提交人    /u/ConcentrateNew2020   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dyakkk/we_built_a_social_listening_ai_for_x_linkedin/</guid>
-      <pubDate>Mon, 08 Jul 2024 14:40:09 GMT</pubDate>
+      <title>我制作了一个免费的网站，它会根据您的 reddit 活动对您进行嘲讽！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dyf0bi/i_made_a_free_website_which_roasts_you_based_on/</link>
+      <description><![CDATA[      我受到这里的一篇文章的启发，并制作了这个  https://grill-it.vercel.app/    提交人    /u/Realhardik18   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dyf0bi/i_made_a_free_website_which_roasts_you_based_on/</guid>
+      <pubDate>Mon, 08 Jul 2024 17:41:05 GMT</pubDate>
     </item>
     <item>
-      <title>对我为 gridstats.pro 制作的预告片有什么看法？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dyajzf/thoughts_on_my_trailer_video_for_gridstatspro/</link>
-      <description><![CDATA[        由    /u/nooby-xviii 提交   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dyajzf/thoughts_on_my_trailer_video_for_gridstatspro/</guid>
-      <pubDate>Mon, 08 Jul 2024 14:39:28 GMT</pubDate>
+      <title>正在寻找纽约的业余项目伙伴 - 有没有什么聚会场所可以推荐？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dyez0f/looking_for_fellow_side_project_people_in_nyc_any/</link>
+      <description><![CDATA[我晚上会做我的副业，很想在纽约找到一些很棒的空间、第三空间或其他可以找到其他做自己事情的人的地方。 我也刚搬到纽约，我在布鲁克林，但愿意旅行。很想知道你的想法和建议。    提交人    /u/thoughtful_thots   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dyez0f/looking_for_fellow_side_project_people_in_nyc_any/</guid>
+      <pubDate>Mon, 08 Jul 2024 17:39:38 GMT</pubDate>
     </item>
     <item>
-      <title>我最有用的工具：将 Youtube 视频转换为 Wordpress 博客（或重新利用任何其他媒体）</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dya247/my_most_useful_tool_turn_youtube_video_into_a/</link>
-      <description><![CDATA[        由    /u/theluk246  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dya247/my_most_useful_tool_turn_youtube_video_into_a/</guid>
-      <pubDate>Mon, 08 Jul 2024 14:17:53 GMT</pubDate>
+      <title>Firebits.io 是一个现代知识管理系统 (KMS)，可帮助您组织和共享知识资源。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dyeqis/firebitsio_a_modern_knowledge_management_system/</link>
+      <description><![CDATA[        提交人    /u/Odd-Sense-5807   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dyeqis/firebitsio_a_modern_knowledge_management_system/</guid>
+      <pubDate>Mon, 08 Jul 2024 17:30:01 GMT</pubDate>
     </item>
     <item>
-      <title>我创建这个网站是为了帮助我比较通勤情况</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dy9ixh/i_built_this_website_to_help_me_compare_commutes/</link>
-      <description><![CDATA[      当我在找公寓的时候，试图复制粘贴地址并弄清楚所有地方离公寓有多远是非常烦人的，比如工作的地方、我女朋友的住处、健身房等。所以，我制作了一个小计算器来帮助我。希望这对你们中的一些人也有用！P.S. 它是免费的，我们不存储数据 在 routecanvas.app 上查看 https://preview.redd.it/6du5tbqvvabd1.png?width=774&amp;format=png&amp;auto=webp&amp;s=b4da0fbcc3d21088fd79bce7e2e6d3b440355762 https://preview.redd.it/1c4ql8qvvabd1.png?width=768&amp;format=png&amp;auto=webp&amp;s=19b0adfdd3c2813f8081fca265e21e1e0a34deb1    提交人    /u/MaulFuse   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dy9ixh/i_built_this_website_to_help_me_compare_commutes/</guid>
-      <pubDate>Mon, 08 Jul 2024 13:55:06 GMT</pubDate>
+      <title>需要对用于记录客户、产品和交易数据的简单工具的反馈</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dyedjj/need_feedback_on_a_minimal_tool_to_record/</link>
+      <description><![CDATA[  由    /u/Remarkable_Novel_391  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dyedjj/need_feedback_on_a_minimal_tool_to_record/</guid>
+      <pubDate>Mon, 08 Jul 2024 17:15:26 GMT</pubDate>
     </item>
     <item>
-      <title>寻求购买副业</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dy997o/looking_to_buy_side_projects/</link>
-      <description><![CDATA[大家好， 如果您有一个尚未起步或需要比您更多的营销预算和经验的副业项目，我有兴趣接手它。我对 AI SaaS 项目特别感兴趣，但不是移动应用程序或 Chrome 扩展程序 - 只对 Web 应用程序感兴趣。无论它们是否产生收入，请随时分享您的列表或向我发送详细信息！ 谢谢！    提交人    /u/patienceneb   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dy997o/looking_to_buy_side_projects/</guid>
-      <pubDate>Mon, 08 Jul 2024 13:42:41 GMT</pubDate>
+      <title>AI新闻简报反馈</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dye89z/ai_newsletter_feedback/</link>
+      <description><![CDATA[大家好， 去年我推出了一份 AI 时事通讯，一直在努力寻找自己的节奏。 但是，我很乐意听取一些反馈和建议。 我有 261 个订阅者，打开率为 19%，点击率为 6% 只是想知道你们怎么想，以及我该如何改进。 这是链接 - THE Al STREET JOURNAL 谢谢！！    提交人    /u/EntrepreneurThen0187   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dye89z/ai_newsletter_feedback/</guid>
+      <pubDate>Mon, 08 Jul 2024 17:09:42 GMT</pubDate>
     </item>
     <item>
-      <title>我创建了一个使用 OpenAI 自动生成主题的黑客马拉松平台</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dy92l4/i_created_a_hackathon_platform_that_generates/</link>
-      <description><![CDATA[      我目前是菲律宾维萨亚斯大学的一名大学生（大三，计算机科学专业），我为我的 UP 同学创建了一个黑客马拉松平台。身份验证目前仅限于我们大学为我们提供的域：up.edu.ph 功能包括：  采用技术的全栈 Web 应用程序 带有 shadcn/ui 组件的 NextJS Firebase 服务（Firestore、Auth 等） Google Cloud 技术 Cloud Functions（用于后端内容） Cloud Tasks（用于计划的异步任务） Cloud Scheduler（用于 cron 作业）   使用 Cloud Scheduler 和 OpenAI API 自动生成主题/挑战 所有主题都是用 AI 生成的（所以也做了一些愚蠢的提示工程）  完全从头开始运行的管理仪表板😳  演示：https://www.youtube.com/watch?v=wG-az8V7i3g   我已经创建了一些其他 Web 应用程序，但我对这个特别自豪，因为我设法在大约 2 周内完成了所有工作😊 访问https://komshat.online/ https://preview.redd.it/zb2jhcg2sabd1.png?width=1901&amp;format=png&amp;auto=webp&amp;s=3de090570f95d697ebe2ffc1208154f545d7b390 https://preview.redd.it/l0726cg2sabd1.png?width=1901&amp;format=png&amp;auto=webp&amp;s=861c104374c2b356ff566150baf8818b8e4d984f    提交人    /u/struggling-dev   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dy92l4/i_created_a_hackathon_platform_that_generates/</guid>
-      <pubDate>Mon, 08 Jul 2024 13:34:20 GMT</pubDate>
+      <title>我创建了 Journer——一款让初学者轻松记日记的终极日记本。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dye653/i_created_journer_the_ultimate_journal_that/</link>
+      <description><![CDATA[        提交人    /u/Wonderful_Bar_7039   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dye653/i_created_journer_the_ultimate_journal_that/</guid>
+      <pubDate>Mon, 08 Jul 2024 17:07:14 GMT</pubDate>
     </item>
     <item>
-      <title>#Hackathon2023 创建的学习平台还有很长的路要走。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dy8zs7/way_further_for_hackathon2023_created_learning/</link>
-      <description><![CDATA[      在去年的黑客马拉松期间，一个由 20 名开发人员组成的（随机）团队基于我们的开源材料创建了一个令人印象深刻的学习平台，这个平台有点受欢迎（组织约 200 名关注者/ GitHub 上每天有几千次浏览量 - 尽管我认为它质量有点低，但目前，这是很好的市场验证）。 对于如何进一步发展、尝试使其成为一项真正的业务或将其作为业余爱好的一些反馈将不胜感激。 我通过在 Udemy 上销售这些材料每月赚取 400 至 600 美元的被动收入 &amp; Etsy。 Repo：https://github.com/Ditectrev/Practice-Exams-Platform WWW：https://education.ditectrev.com 编辑：一名学生甚至在上周创建了一个 iOS 应用程序：https://www.reddit.com/r/AWSCertifications/comments/1djf1ow/free\_ios\_app\_to\_study\_for\_aws\_azure\_gcp\_itl\_and/. 以下是自 WWW 推出以来该平台的一些分析数据。对我来说，它看起来很有希望，特别是订婚时间。 https://preview.redd.it/ht1rxmibrabd1.png?width=3338&amp;format=png&amp;auto=webp&amp;s=bfdcb6593daccaaad3965a788ed995329b421d26 https://preview.redd.it/s2kl97zdrabd1.png?width=3342&amp;format=png&amp;auto=webp&amp;s=79638cf84acd33d0b6d6cf2a714bf040f2494084    提交人    /u/Ditectrev   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dy8zs7/way_further_for_hackathon2023_created_learning/</guid>
-      <pubDate>Mon, 08 Jul 2024 13:30:57 GMT</pubDate>
+      <title>将个人简介中的链接转变为引人入胜的迷你网站</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dydrhg/transform_your_link_in_bio_into_an_engaging/</link>
+      <description><![CDATA[https://reddit.com/link/1dydrhg/video/lyw87yx5rbbd1/player 使用 aye.so 将您个人简介中的链接转换为引人入胜的迷你网站！使用多功能小部件自定义您的页面，轻松收集电子邮件并提升您的在线形象。入门非常简单，只需不到一分钟即可免费注册。立即使用 aye.so 提升您的社交媒体形象！ 网站 → https://aye.so    提交人    /u/heyarviind   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dydrhg/transform_your_link_in_bio_into_an_engaging/</guid>
+      <pubDate>Mon, 08 Jul 2024 16:50:53 GMT</pubDate>
     </item>
     <item>
-      <title>我制作了一个简单的应用程序，用于批量下载 YouTube 转录本</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dy8w7k/i_made_a_simple_app_for_downloading_youtube/</link>
-      <description><![CDATA[在听到我关注的几位 youtuber 描述了下载 youtube 成绩单的繁琐手动过程后，我制作了一个简单的应用程序来帮助任何人批量下载成绩单。  拖放每行一个 url 的文本文件，或手动输入 url。 hf 空间演示 --&gt; https://huggingface.co/spaces/neonwatty/youtube_shorts_transcript_downloader github repo --&gt; https://github.com/neonwatty/youtube_shorts_transcript_downloader    由   提交  /u/neonwatty   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dy8w7k/i_made_a_simple_app_for_downloading_youtube/</guid>
-      <pubDate>Mon, 08 Jul 2024 13:26:38 GMT</pubDate>
+      <title>保护侧投影</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dydqfs/protecting_side_projectd/</link>
+      <description><![CDATA[大家好！我很好奇这里有没有人发起过一​​个真正成功的副业项目。你采取了哪些措施来保护它或授权它？你成立了有限责任公司吗？谢谢！    提交人    /u/Soubi_Doo2   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dydqfs/protecting_side_projectd/</guid>
+      <pubDate>Mon, 08 Jul 2024 16:49:46 GMT</pubDate>
     </item>
     <item>
-      <title>寻求购买副业</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dy8v6k/looking_to_buy_side_projects/</link>
-      <description><![CDATA[大家好， 如果您有一个尚未起步或需要更多营销预算和经验的副业项目，我有兴趣接手它。我对 AI SaaS 项目特别感兴趣，但不是移动应用程序或 Chrome 扩展程序 - 只对 Web 应用程序感兴趣。无论它们是否产生收入，请随时分享您的列表或向我发送详细信息！ 谢谢！    提交人    /u/patienceneb   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dy8v6k/looking_to_buy_side_projects/</guid>
-      <pubDate>Mon, 08 Jul 2024 13:25:18 GMT</pubDate>
+      <title>我为纽约市合作公寓开发了一款应用程序</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dycne4/i_built_an_app_for_nyc_coop_buildings/</link>
+      <description><![CDATA[      我住在纽约市的一个小型合作社大楼里，很难跟踪可能影响建筑的生命周期，所以我决定构建一个简单的应用程序来收集与销售、违规、工作许可、检查相关的所有公共信息……它可以在应用商店免费获得。我希望它能帮助小型自管理建筑。 https://apps.apple.com/us/app/nyc-co-op/id1544827844    提交人    /u/Salty-Fox-3809   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dycne4/i_built_an_app_for_nyc_coop_buildings/</guid>
+      <pubDate>Mon, 08 Jul 2024 16:05:58 GMT</pubDate>
     </item>
     <item>
-      <title>我创建了编辑会员资格，每天可以访问数千个资源，并获得全天候编辑帮助</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dy8t2y/i_created_an_editing_membership_to_get_access_to/</link>
-      <description><![CDATA[      此会员资格是一个 whop 页面，允许您注册付费计划，该计划可让您在 discord 上超过 60 多个高级频道上获得数千个编辑资源。它旨在在任何平台上工作：https://whop.com/marketplace/eliteeditors/ 观看下面的视频以检查您获得了多少频道： https://reddit.com/link/1dy8t2y/video/4duyj3dxpabd1/player    提交人    /u/Illustrious_Sir_7572   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dy8t2y/i_created_an_editing_membership_to_get_access_to/</guid>
-      <pubDate>Mon, 08 Jul 2024 13:22:37 GMT</pubDate>
+      <title>我厌倦了无休止的规划循环，所以我创建了这个人工智能工具</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dycgzo/im_tired_of_the_endless_cycle_of_planning_so_i/</link>
+      <description><![CDATA[      https://preview.redd.it/3ahyey68ibbd1.png?width=1900&amp;format=png&amp;auto=webp&amp;s=558ed6420a3fb078738d7d00bbb267f028f6ca2f https://preview.redd.it/bdtzk378ibbd1.png?width=1898&amp;format=png&amp;auto=webp&amp;s=15aaa7bd29957fdcef6dd552edc14a5a430b8c40    提交人    /u/NextAssist1038   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dycgzo/im_tired_of_the_endless_cycle_of_planning_so_i/</guid>
+      <pubDate>Mon, 08 Jul 2024 15:59:11 GMT</pubDate>
     </item>
     <item>
-      <title>猜年龄游戏</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dy8pjj/an_ageguessing_game/</link>
-      <description><![CDATA[      大家好👋👋， 我最近推出了一款小型浏览器游戏：Ageguessr，游戏内容是猜测名人的年龄。 目前游戏的开发正在进行中暂停，我目前正在做其他事情，但我需要了解是否值得继续开发或彻底停止它...... 请随时给我留下反馈/建议！！ https://preview.redd.it/m1hhdyhhzabd1.png?width=797&amp;format=png&amp;auto=webp&amp;s=ad8e12b54c79a8eef710b2d6d4cb38be61c938e2    由    /u/LeMatt_1991  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dy8pjj/an_ageguessing_game/</guid>
-      <pubDate>Mon, 08 Jul 2024 13:17:59 GMT</pubDate>
+      <title>我推出了一款网络应用，只需 1 美元即可为您提供永久反向链接和大量可见性</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dyc5qp/i_launched_a_web_app_that_gives_you_a_permanent/</link>
+      <description><![CDATA[您可以将其称为 1 美元的营销平台。这是它的链接：https://www.pixel.estate  您将获得永久的反向链接和大量网站访问者。 您可以提交任何您想要的内容，社交媒体个人资料、帖子、博客或您自己的产品网站。 您的页面将被编入索引，您将长期获得关注。 基本上它是一个画布网格，您可以在其中以 1 美元购买一个位置。 让我知道您的反馈。我会大力营销这个网站，所以不要忘记认领您的像素。您将获得很多访客。    提交人    /u/metabhai   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dyc5qp/i_launched_a_web_app_that_gives_you_a_permanent/</guid>
+      <pubDate>Mon, 08 Jul 2024 15:46:03 GMT</pubDate>
     </item>
     <item>
-      <title>📝 𝙼𝚢𝚗𝚍𝚎𝚛𝚜 𝙽𝚘𝚝𝚎𝚜 - 我们永远不知道自己的兴趣𝚙𝚊𝚐𝚎 - 𝙿𝚕𝚎𝚊𝚜𝚎 𝚌𝚛𝚒𝚝𝚒𝚚𝚞𝚎（发音：[translate] 𝚑𝚘𝚠 𝙸 𝚍𝚒𝚍 𝚒𝚝 ✨）</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dy8ojt/𝙼𝚢𝚗𝚍𝚎𝚛𝚜_𝙽𝚘𝚝𝚎𝚜_𝚊𝚏𝚝𝚎𝚛_𝟽_𝚒𝚝𝚎𝚛𝚊𝚝𝚒𝚘𝚗𝚜_𝙸𝚖_𝚏𝚒𝚗𝚊𝚕𝚕𝚢_𝚑𝚊𝚙𝚙𝚢/</link>
-      <description><![CDATA[正如标题所说，我想我终于对我的登陆页面感到满意了！如果有什么我讨厌的事情，那就是构建这些。我发誓，一旦我开始工作，我体内的任何创造力都会消失。 好吧，我想我终于明白了！我很想得到你的批评：https://mynders.com 产品的功能是否清楚？我是否正确传达了它？产品入门感觉如何？ 我很想听听你在浏览时可能有的任何想法 :) 我是如何做到的：功劳归功劳 - 当我再次意识到这一点时，我非常厌倦重新开始，我不喜欢我之前的页面，并认为一定有一些开源登陆页面项目。幸运的是，不久前 shipixen 发布了一个名为 pageUI 的产品（我在 Google 上搜索过，但实际上在这个子版块找到了它）。 老实说，我对它的赞美真是无以言表。它让我的生活变得如此轻松。强烈推荐。    提交人    /u/Yanaytsabary   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dy8ojt/𝙼𝚢𝚗𝚍𝚎𝚛𝚜_𝙽𝚘𝚝𝚎𝚜_𝚊𝚏𝚝𝚎𝚛_𝟽_𝚒𝚝𝚎𝚛𝚊𝚝𝚒𝚘𝚗𝚜_𝙸𝚖_𝚏𝚒𝚗𝚊𝚕𝚕𝚢_𝚑𝚊𝚙𝚙𝚢/</guid>
-      <pubDate>Mon, 08 Jul 2024 13:16:41 GMT</pubDate>
+      <title>Centa：让 AI 通过拍摄一张照片来计算卡路里</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dybxqy/centa_let_ai_count_calories_by_taking_a_single/</link>
+      <description><![CDATA[大家好， 我开发了一款应用来解决我的体重问题。这是一款卡路里计算应用，无需搜索、思考、测量或手动输入。只需拍一张食物照片，就这么简单！人工智能会自动检测后台的所有内容。 如果您正在努力减肥，我很想看看我的应用是否能帮助您控制体重。以下是下载链接：https://centa.world/download 如果您有任何问题，请随时给我发消息 🌷 谢谢    提交人    /u/foratbahrani   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dybxqy/centa_let_ai_count_calories_by_taking_a_single/</guid>
+      <pubDate>Mon, 08 Jul 2024 15:36:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
