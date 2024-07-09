@@ -4,7 +4,28 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Tue, 09 Jul 2024 03:15:52 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jul 2024 06:18:50 GMT</lastBuildDate>
+    <item>
+      <title>构建基于身份的超级应用程序。从个人简介链接开始</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dytqd8/building_an_identity_based_super_app_starting_as/</link>
+      <description><![CDATA[        提交人    /u/Dr_Doer   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dytqd8/building_an_identity_based_super_app_starting_as/</guid>
+      <pubDate>Tue, 09 Jul 2024 04:39:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>minigrad - andrej karpathy 用 Go 语言实现的 micrograd</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dyt654/minigrad_andrej_karpathys_micrograd/</link>
+      <description><![CDATA[这个周末，我想学习更多关于 ML 的知识，并继续从事我的 ML 项目。所以我用 golang（重新）构建了 karpathy 的 micrograd。也学习了更多关于反向传播的知识。很想知道您的反馈。请做出贡献并在 GitHub repo 上留下一颗星。 github - https://github.com/0verread/minigrad    提交人    /u/ElegantGoose9   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dyt654/minigrad_andrej_karpathys_micrograd/</guid>
+      <pubDate>Tue, 09 Jul 2024 04:07:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>创建一个将语言学习过程游戏化的应用程序。搜索调查回复！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dyt1x6/creating_an_app_that_gamifies_the_language/</link>
+      <description><![CDATA[坦白说，我正在尝试获取我目前正在开展的项目的调查回复。但是，我也真的很好奇大家对游戏化语言学习过程的有效性有何看法（在您学习特定语言/文化时创建故事情节和世界供您跟随）？我愿意听取您的想法、建议、顾虑或问题！ 如果您有兴趣填写我提到的调查，请点击此处！我们正在进行研究，以了解用户如何与语言学习平台互动。如果您曾经使用过语言学习应用程序（Duolingo、Babbel 等），我们很乐意听取您的体验。它是完全匿名的，只需几分钟即可完成。谢谢！ https://forms.gle/AQoPHseq9Fx4tfPW6    由   提交  /u/Ok_Violinist8097   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dyt1x6/creating_an_app_that_gamifies_the_language/</guid>
+      <pubDate>Tue, 09 Jul 2024 04:01:18 GMT</pubDate>
+    </item>
     <item>
       <title>WhatsApp 网页扩展</title>
       <link>https://www.reddit.com/r/SideProject/comments/1dyrugu/extension_for_whatsapp_web/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[        提交人    /u/Snoo-34095   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1dylrnn/figma_mockups_for_online_music_discoverypromotion/</guid>
       <pubDate>Mon, 08 Jul 2024 22:12:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>微博 PWA 可让您轻松组织和查找帖子。你们觉得怎么样？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dylrkb/microblogging_pwa_that_lets_you_organize_and_find/</link>
-      <description><![CDATA[        提交者    /u/hmeeeeeeeed   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dylrkb/microblogging_pwa_that_lets_you_organize_and_find/</guid>
-      <pubDate>Mon, 08 Jul 2024 22:12:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>您是否害怕社交媒体但仍想让您的产品为人所知？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dykwrs/are_you_afraid_of_social_media_but_still_want_to/</link>
-      <description><![CDATA[我为我的 2 款 saas 产品做了很多 tiktok 营销，所以我想制作一个工具来帮助我找到开始视频的钩子。我不会撒谎，我是一名程序员，社交媒体现在真的让我感到害怕。部分原因是我把我的脸放在那里，然后得不到我想要的观看次数，而我的朋友也看到了......啊。无论如何，我自然而然地寻找一种自动化的方法，使其毫不费力，但也能获得好的内容，这样我就不会在那里放 AI 通用的东西。所以我为自己做了一个工具来找到开始我的视频的钩子。一旦你有了钩子，你所要做的就是拍摄一个模板 + 捕捉产品演示并将其附加到钩子上。我自己制作的视频获得了约 200 次观看，但是当我使用这些钩子时，它们跳到了约 600+ 希望很快每个视频的观看次数能突破 1k+。不确定它对您的需求有多大用处，但您可以在这里查看：https://creaty.io/    提交人    /u/Economy-Profile-3091   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dykwrs/are_you_afraid_of_social_media_but_still_want_to/</guid>
-      <pubDate>Mon, 08 Jul 2024 21:37:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的项目：枢纽、测试和更多枢纽</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dykab4/my_project_pivots_testing_and_more_pivots/</link>
-      <description><![CDATA[我的业余项目叫做 Upvte。这是一个运动鞋排名平台，用户可以在上面为自己最喜欢的鞋子点赞。这个业务背后的想法是打破炒作，让人们决定哪些鞋子是最受欢迎的——而不是 Nike、Jordan 或任何其他公司。首页上会展示排名前 100 的鞋子。 然而，它并没有按计划顺利进行。我们吸引到的用户并没有像我们希望的那样频繁地回来，而那些回来的用户主要只是四处看看，并没有积极参与。 从那时起，我和我的商业伙伴开始测试让人们积极参与的方法。我们添加了一个简单的“支持或放弃”功能，让人们对他们想要支持的鞋子投赞成票，对他们想要放弃的鞋子投反对票。没有奏效。  然后，我们添加了运动鞋战斗功能 - 让两只鞋子进行面对面的战斗，看看谁会获胜。没用。我们更新了逻辑，让鞋子与相似的鞋子进行战斗。没用。我们添加了战斗统计数据来显示鞋子在战斗中的表现。没用。我们为完成 50 场战斗的用户添加了个性化的运动鞋精选。没用。我们添加了聊天功能，用户可以解锁成就。没用。没用。 在进行所有这些开发更新的同时，我们通过谷歌广告严格测试了不同的概念，以了解我们可以产生什么类型的流量/兴趣。在几周的时间里，我们轻松测试了十几个不同的想法。 你知道什么最受关注吗？运动鞋价格提醒/跟踪。这个想法很简单 - 你为一双鞋设定一个价格或价格范围，当鞋子达到你想要支付的价格时，我们会向你发送短信提醒。这是我们的价格跟踪器/警报工具（在开发中）的链接。 https://upvte.com/price-tracker    提交人    /u/MattyMatt146   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dykab4/my_project_pivots_testing_and_more_pivots/</guid>
-      <pubDate>Mon, 08 Jul 2024 21:11:48 GMT</pubDate>
     </item>
     </channel>
 </rss>
