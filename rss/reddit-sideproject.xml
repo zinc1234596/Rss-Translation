@@ -4,7 +4,63 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Wed, 10 Jul 2024 09:13:56 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jul 2024 12:26:24 GMT</lastBuildDate>
+    <item>
+      <title>我为 macOS 开发了一个 iPod 音乐播放器</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dzuh6l/i_developed_an_ipod_music_player_for_macos/</link>
+      <description><![CDATA[       由    /u/DeathIskren  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dzuh6l/i_developed_an_ipod_music_player_for_macos/</guid>
+      <pubDate>Wed, 10 Jul 2024 12:25:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>对 Sideproject 的反馈</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dzubeo/feedback_for_sideproject/</link>
+      <description><![CDATA[我从事 IT 安全工作，因此每天都会收到很多漏洞警报。 我想过帮助其他需要帮助的人，但却无法访问我们拥有的所有资源。 选项包括： a) 免费的每日或每周新闻通讯 b) 付费（一次性 49 美元）Slack 频道 您更喜欢哪种选项，或者您有其他想法？    提交人    /u/feem2017   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dzubeo/feedback_for_sideproject/</guid>
+      <pubDate>Wed, 10 Jul 2024 12:17:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>启动这个 Web 项目的最简单方法是什么？快速 MVP 用于注册和登录，简单的脚本表单用于向供应商输出基于文本的电子邮件请求。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dzu0b8/what_is_the_absolute_simplest_way_to_start_this/</link>
+      <description><![CDATA[我是一名具有销售和营销背景的机械工程师。我有一个网络项目构想，我的网站用户将注册并可以访问一个简单的表单页面，该页面输出可复制的格式化文本，用于向供应商发送电子邮件请求。除了每个表单项之外，我还想有一个可选的演示视频（可能是 Youtube，也可能是私人托管的），详细解释问题和答案。 例如，我想让购买车辆的人注册并访问网站。然后，他们将能够生成格式化的文本，并将其放入电子邮件中发送给汽车经销商的销售人员。  注册/登录 - 用户免费访问  我想收集用户信息，例如电子邮件、姓名、公司、电话（可选），以建立电子邮件营销列表并允许活跃用户访问网站。 我想通过页面广告宣传我自己的产品（在此示例中，类似于宣传我自己的培训计划，以便与汽车经销商谈判）。  单选按钮选择：汽车、卡车、SUV 根据初始单选按钮选择，网页的其余部分将填充特定于汽车、卡车、SUV 的内容  例如，如果他们选择卡车，那么我希望显示“床长”或类似内容，如果他们选择汽车或 SUV，这些内容将被隐藏，并且一些标题将被折叠以获取更详细的功能（座位数、最小发动机尺寸等）。 他们将选择（使用单选按钮和简答题的组合）对他们来说重要的项目，而他们未选择的任何项目将不会填充到电子邮件文本输出中。有些答案是必需的（外部油漆颜色、汽油/柴油/电动、预算），有些则不需要（天窗）。 每个问题旁边都会有一个问号徽章，点击后可弹出解释视频“这是天窗是什么以及它们通常如何操作”   用户数量：&lt;100,000 名用户（可能更像是&lt;10,000） 我自己的技能：整体技术头脑，不怕电脑。研究生时期教过 Matlab 课程。我可以搞清楚最少的 Python 或脚本，但不需要管理我自己的 AWS 实例（尽管我对此很着迷）。我想要一个快速的 MVP，所以如果按月付费网站已经拥有很多这样的功能，我会很高兴。它需要完全专业，而不是明显被黑客攻击。  近期：生成实际的 Outlook / Gmail / 等电子邮件弹出窗口，他们只需添加供应商的电子邮件地址并按“发送”即可。 近期：将用户信息链接到 CRM（Hubspot） 中期：用户保留他们的请求并随着时间的推移将其保存在“项目”中。例如，“小苏西的第一辆车”。当预算发生变化时（爸爸拿到了年终奖金！），他们可以回到项目中并请求和更新预算，然后再发送自动填充的请求。 中等未来：供用户进行 Discord 类型讨论的社区功能。 遥远的未来：网站的部分内容或附加功能需要付费才能产生一些收入。 遥远的未来：生成式 AI 可以“提升”电子邮件的可读性。这可能是网站的“付费”部分。 遥远的未来：品牌 iPhone 和 Android 应用程序。  谢谢，干杯！    提交人    /u/friendofherschel   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dzu0b8/what_is_the_absolute_simplest_way_to_start_this/</guid>
+      <pubDate>Wed, 10 Jul 2024 12:01:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>我和女儿们开发了一个故事时间生成器应用程序</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dzttep/my_daughters_and_i_built_a_story_time_generator/</link>
+      <description><![CDATA[好吧，我 2 岁和 3 岁的孩子自己并没有编写任何代码，但他们非常参与这个过程，并且是出色的 beta 测试员。 我的女儿们喜欢我给她们讲故事。我们读了很多书，但她们喜欢我们用她们的想法编故事。她们会给米妮老鼠或飞机等东西命名，而我的工作就是为他们创作故事。虽然这一切都很有趣，但当你被要求连续 10 次为同一件事物想出一个故事时，想出一个有创意的故事可能很难。或者，有时我可能太累了，没有足够的创造力。 进入 StoryChef！ 一款简单的 iOS 应用，要求您输入一组成分（名词），然后我们将为您和孩子一起编写一个有趣的故事，并附上插图。这里的想法是创建一个我可以和他们一起使用的应用。我们轮流想出故事的食材，然后阅读它们。我的女儿们喜欢每晚编故事。我还认为，随着她们长大，她们可以使用 StoryChef 一起编故事，就像我小时候在长途汽车旅行中玩 MadLibs 一样。 我们有一个长期的路线图，其中包含我们正在研究的想法和功能。我们三个人都很乐意听到您的任何反馈，我们可以进一步采纳。谢谢！    提交人    /u/kleincodes12   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dzttep/my_daughters_and_i_built_a_story_time_generator/</guid>
+      <pubDate>Wed, 10 Jul 2024 11:51:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>您想在点餐前先看一下餐厅的菜单吗？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dzt820/would_you_like_to_see_your_restaurant_menu_items/</link>
+      <description><![CDATA[我正在建立一个美食视觉网站，人们可以在其中上传餐厅菜单的图片，并可以看到所有物品的图片以帮助他们点餐。你愿意为此付费吗？👀 帮我验证这个想法。    提交人    /u/preetramsha   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dzt820/would_you_like_to_see_your_restaurant_menu_items/</guid>
+      <pubDate>Wed, 10 Jul 2024 11:17:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>烤我的网站和应用程序</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dzt6a6/roast_my_website_app/</link>
+      <description><![CDATA[大家好， 我最近推出了 Thin 应用程序和网站。它本质上是一个可以阅读简短文摘、文章、新闻和博客的平台。目前，它主要关注新闻。 我的目标是创建一个社区，人们可以快速分享和阅读总结信息。 我希望大家能评论我的应用程序和网站，并提供我可以使用和实施的宝贵反馈。 链接：https://thin.maarkar.in 我创建的其他网站：https://frulow.com    提交人    /u/AlmostSomeIt   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dzt6a6/roast_my_website_app/</guid>
+      <pubDate>Wed, 10 Jul 2024 11:14:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>我构建了一个免费的 SDK，提供优质的动漫语录 | animekun.me</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dzsdc2/i_built_a_free_sdk_serving_quality_anime_quotes/</link>
+      <description><![CDATA[       获取随机动漫语录 获取 10 条随机动漫语录 按动漫标题获取随机动漫语录 获取10 个按动漫标题随机排列的动漫名言  animekun.me    提交人    /u/wolfgunnblood   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dzsdc2/i_built_a_free_sdk_serving_quality_anime_quotes/</guid>
+      <pubDate>Wed, 10 Jul 2024 10:26:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>产品理念：需要反馈</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dzrbm9/product_idea_need_feedback/</link>
+      <description><![CDATA[大家好，我是一名独立制造商，我需要一些关于我正在考虑研究的产品创意的反馈。一个 Slack 机器人，可以以动画视频格式生成一天结束时的报告，以便：  记录并突出显示团队的贡献。 同步整个团队当天所做的事情。 提及任何阻碍第二天解决进度的阻碍问题。  我在自己的工作中观察到，我合作过的一些最友善的创始人每隔一天都会手动向我们团队中表现最好的人大声喊话，当我得到这种关注时，这对我来说意义重大。我试图通过机器人为其他团队复制这种感觉，而不需要创始人花费大量时间研究当天发生的事情，这对于较大的团队来说可能是不可扩展的。 相反，他们可以简单地观看一天结束时的报告，并在团队顺利进行时每隔几天给予他们欢呼。 好奇想听听你的想法，这里有什么缺陷吗？ 你会为这样的东西付钱吗？ 我并不打算靠这个成为亿万富翁，但如果我可以为其他团队复制这种令人惊叹的因素，那就太好了。 谢谢。    提交人    /u/freakH3O   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dzrbm9/product_idea_need_feedback/</guid>
+      <pubDate>Wed, 10 Jul 2024 09:17:16 GMT</pubDate>
+    </item>
     <item>
       <title>吐槽我的业余项目</title>
       <link>https://www.reddit.com/r/SideProject/comments/1dzqptb/roast_my_side_project/</link>
@@ -53,62 +109,6 @@
       <description><![CDATA[大家好， 我不认识你，但我很怀念 2021-2022 年的时光，那时 IH 还是一个我们可以分享故事和挣扎并通过阅读这个论坛学到很多东西的地方。 它变得几乎不可读且限制性极强…… 我昨天发推文说要为 IH 建立一个 100% 开放和免费的社区。我得到了一百个赞和很多积极的人。所以我建了它 ;) 这只是一个开始，但如果你想加入派对：https://www.skool.com/indie-makers-5425/about    提交人    /u/xAvi_r   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1dzpuoy/i_miss_the_old_indiehackers_website_so_i_started/</guid>
       <pubDate>Wed, 10 Jul 2024 07:35:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>我给自己一个挑战：在 10 周内打造并推出一款产品。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dzptdj/gave_myself_a_challenge_to_build_and_launch_a/</link>
-      <description><![CDATA[我开始构建 draftalpha.com，并给自己一个挑战，在 10 周内构建和启动产品，为了负责任，我将在这里记录每周的进度。 我会在评论中继续添加每周的进度。    提交人    /u/nitesh_sharma_3   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dzptdj/gave_myself_a_challenge_to_build_and_launch_a/</guid>
-      <pubDate>Wed, 10 Jul 2024 07:32:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>查找和学习中文单词的网站</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dzpsi0/a_website_to_find_and_learn_chinese_words/</link>
-      <description><![CDATA[大家好，我是SEO新手，所以我建了一个网站来学习它。这是一个简单的静态网站，您可以在其中查找和学习中文单词。单词详细信息页面将以动画形式展示如何书写单词、其英文解释和中文示例。我还对一些单词进行了分类，例如关于爱情和旅行的单词，希望它们对您有所帮助。 https://chinesewords.co    提交人    /u/luosen08   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dzpsi0/a_website_to_find_and_learn_chinese_words/</guid>
-      <pubDate>Wed, 10 Jul 2024 07:31:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>谁需要一份不错的额外收入？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dzp7px/who_needs_a_decent_side_income/</link>
-      <description><![CDATA[嘿， 有人有兴趣在不付出太多努力的情况下赚取可观的额外收入吗？哈哈    提交人    /u/Wide-Wilonla   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dzp7px/who_needs_a_decent_side_income/</guid>
-      <pubDate>Wed, 10 Jul 2024 06:52:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个 Chrome 扩展程序，以便更快地在 Google 地图上搜索</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dzoxsj/i_made_a_chrome_extension_to_search_on_google/</link>
-      <description><![CDATA[        提交人    /u/BU_is_in_notion   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dzoxsj/i_made_a_chrome_extension_to_search_on_google/</guid>
-      <pubDate>Wed, 10 Jul 2024 06:34:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>哪种日程表显示看起来更好？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dznsgh/what_schedule_display_looks_better/</link>
-      <description><![CDATA[      训练实践展示的第一个变体 第二个，更简约的一个，我非常喜欢它，每个项目可以包含无限数量的训练天，所以这些框将根据训练量变成列。 起初，我们计划创建第一个时间表显示版本，但后来我们意识到，也许一个大的网格会让人迷失方向，并且与我们应用程序的简约风格不匹配，所以我们创建了第二个时间表外观，但我想知道如果你是我们服务的用户，你会喜欢什么时间表。    提交人    /u/Vzaje   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dznsgh/what_schedule_display_looks_better/</guid>
-      <pubDate>Wed, 10 Jul 2024 05:20:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>今天我创建了背景去除工具作为练习</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dznky9/today_i_created_background_removing_tool_as_a/</link>
-      <description><![CDATA[https://reddit.com/link/1dznky9/video/e9n1c08ojmbd1/player 我说过，我每天都会创建一个简单的工具，直到我提高我的编码技能，今天我决定使用 RemoveBG API 制作背景删除工具。这并不难，在 yt 上的几个教程的帮助下，大约花了 2/3 个小时。你觉得怎么样？     提交人    /u/PickleDue3394   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dznky9/today_i_created_background_removing_tool_as_a/</guid>
-      <pubDate>Wed, 10 Jul 2024 05:07:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>Thunderbit 推出语音笔记功能</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dzmxuf/introducing_voice_note_taker_by_thunderbit/</link>
-      <description><![CDATA[      大家好， 我们的团队使用 Thunderbit No Code 创建了一款名为 Voice Note Taker 的应用程序。它可以将您的语音转换为结构良好的笔记。您还可以选择使用 AI 提取到您自己的电子表格（例如 GSheets、Notion、Airtable）。 这是它的链接： https://thunderbit.com/product/ai-apps/voice-note-taker 直接重写 就像任何其他语音笔记本一样 :) 保存到电子表格 https://i.redd.it/gdkf8cysdmbd1.gif https://youtu.be/d8FbwS1dGI4 以下是一些表格模板供您使用：  日记/日志 产品创意 待办事项清单 会议记录 面试官反馈 头脑风暴会议 客户会议记录  欢迎任何反馈！咆哮也是可以接受的！    提交人    /u/Snoo98445   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dzmxuf/introducing_voice_note_taker_by_thunderbit/</guid>
-      <pubDate>Wed, 10 Jul 2024 04:30:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果有人感兴趣，我会出售我的项目</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dzmfgo/i_would_sell_my_project_if_any_interested/</link>
-      <description><![CDATA[我创建了一个完整的 Python 编程课程，但我不知道如何推销它，这里是它： https://python-mastery-academy.thinkific.com 如果您有兴趣，我向您出售所有文件和网站，以便您出售或创业或用它们做任何您想做的事情，请给我发私信。    提交人    /u/Professional_Tax5081   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dzmfgo/i_would_sell_my_project_if_any_interested/</guid>
-      <pubDate>Wed, 10 Jul 2024 04:01:04 GMT</pubDate>
     </item>
     </channel>
 </rss>
