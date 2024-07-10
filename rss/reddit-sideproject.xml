@@ -4,7 +4,35 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Wed, 10 Jul 2024 03:15:50 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jul 2024 06:18:49 GMT</lastBuildDate>
+    <item>
+      <title>哪种日程表显示看起来更好？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dznsgh/what_schedule_display_looks_better/</link>
+      <description><![CDATA[      训练实践展示的第一个变体 第二个，更简约的一个，我非常喜欢它，每个项目可以包含无限数量的训练天，所以这些框将根据训练量变成列。 起初，我们计划创建第一个时间表显示版本，但后来我们意识到，也许一个大的网格会让人迷失方向，并且与我们应用程序的简约风格不匹配，所以我们创建了第二个时间表外观，但我想知道如果你是我们服务的用户，你会喜欢什么时间表。    提交人    /u/Vzaje   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dznsgh/what_schedule_display_looks_better/</guid>
+      <pubDate>Wed, 10 Jul 2024 05:20:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>今天我创建了背景去除工具作为练习</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dznky9/today_i_created_background_removing_tool_as_a/</link>
+      <description><![CDATA[https://reddit.com/link/1dznky9/video/e9n1c08ojmbd1/player 我说过，我每天都会创建一个简单的工具，直到我提高我的编码技能，今天我决定使用 RemoveBG API 制作背景删除工具。这并不难，在 yt 上的几个教程的帮助下，大约花了 2/3 个小时。你觉得怎么样？     提交人    /u/PickleDue3394   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dznky9/today_i_created_background_removing_tool_as_a/</guid>
+      <pubDate>Wed, 10 Jul 2024 05:07:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Thunderbit 推出语音笔记功能</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dzmxuf/introducing_voice_note_taker_by_thunderbit/</link>
+      <description><![CDATA[      大家好， 我们的团队使用 Thunderbit No Code 创建了一款名为 Voice Note Taker 的应用程序。它可以将您的语音转换为结构良好的笔记。您还可以选择使用 AI 提取到您自己的电子表格（例如 GSheets、Notion、Airtable）。 这是它的链接： https://thunderbit.com/product/ai-apps/voice-note-taker 直接重写 就像任何其他语音笔记本一样 :) 保存到电子表格 https://i.redd.it/gdkf8cysdmbd1.gif https://youtu.be/d8FbwS1dGI4 以下是一些表格模板供您使用：  日记/日志 产品创意 待办事项清单 会议记录 面试官反馈 头脑风暴会议 客户会议记录  欢迎任何反馈！咆哮也是可以接受的！    提交人    /u/Snoo98445   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dzmxuf/introducing_voice_note_taker_by_thunderbit/</guid>
+      <pubDate>Wed, 10 Jul 2024 04:30:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>如果有人感兴趣，我会出售我的项目</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dzmfgo/i_would_sell_my_project_if_any_interested/</link>
+      <description><![CDATA[我创建了一个完整的 Python 编程课程，但我不知道如何推销它，这里是它： https://python-mastery-academy.thinkific.com 如果您有兴趣，我可以将全部文件和网站卖给您，以便您出售或创业或用它们做任何您想做的事情，请直接发信息给我。    提交人    /u/Professional_Tax5081   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dzmfgo/i_would_sell_my_project_if_any_interested/</guid>
+      <pubDate>Wed, 10 Jul 2024 04:01:04 GMT</pubDate>
+    </item>
     <item>
       <title>如何向特定群体宣传自己？</title>
       <link>https://www.reddit.com/r/SideProject/comments/1dzlk2q/how_to_advertise_myself_to_a_specific_community/</link>
@@ -81,34 +109,6 @@
       <description><![CDATA[        提交人    /u/Outside_Motor_556   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1dzeelt/experimental_blockchain_node_built_from_scratch/</guid>
       <pubDate>Tue, 09 Jul 2024 21:41:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找制作时间少于 20 分钟的简单素食食谱</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dzeaqd/find_easy_vegan_recipes_that_takes_20_minutes_to/</link>
-      <description><![CDATA[我建立了一个网站，您可以在其中找到易于制作的素食食谱 链接：https://easyveganrecipes.vercel.app/ 有过滤器可以按菜肴类型排序（主菜/配菜/甜点等...） 很乐意听到有关我需要构建什么的反馈，以便您每天实际使用它 我会构建任何功能请求！ 提前谢谢 :)    提交人    /u/b_e_r_t_   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dzeaqd/find_easy_vegan_recipes_that_takes_20_minutes_to/</guid>
-      <pubDate>Tue, 09 Jul 2024 21:37:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>用这个做饭已经一年多了。| Linktree 但更好。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dze5p8/been_cooking_on_this_for_over_a_year_now_linktree/</link>
-      <description><![CDATA[在搜索 SaaS 副业项目时，我注意到个人简介链接/微型网站空间已经饱和。许多服务功能有限，流量分析、SEO 控制和自定义等基本工具都被锁定在付费墙后面。这让我很不舒服，尤其是印度、非洲和东南亚等地区的人们负担不起每月 10 美元的费用。 这导致了 Mylinx 的创建。在短短 3 个月内，我构建了与 Linktree 类似的核心功能，添加了完全自定义、音乐/视频链接、QR 码、SEO 控制，并将应用程序本地化为 11 种以上的语言。与大型个人简介页面不同，Mylinx 优先考虑可访问性和可负担性。 我们现在拥有超过 1,000 名用户和 750,000 次页面点击量。查看 Mylinx.cc 并让我知道您的建议。我的目标是保持范围集中并支持即将到来的内容创作者以尽可能经济的方式提高他们的关注度和收入。干杯！ 开发人员：mylinx.cc/asad https://www.youtube.com/watch?v=3IDwtt090cY https://www.youtube.com/watch?v=BWgcjrciTCY    提交人    /u/Visible-Seaweed-1151   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dze5p8/been_cooking_on_this_for_over_a_year_now_linktree/</guid>
-      <pubDate>Tue, 09 Jul 2024 21:31:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找一个副业并在日常生活中获取这样的利润</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dzcrhn/looking_for_a_side_project_and_get_profits_like/</link>
-      <description><![CDATA[      给我发送消息‘info’以了解更多信息    提交人    /u/Double_Paramedic5798   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dzcrhn/looking_for_a_side_project_and_get_profits_like/</guid>
-      <pubDate>Tue, 09 Jul 2024 20:33:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个平台，可以使用世界地图轻松找到网页设计客户</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dzckao/ive_made_a_platform_to_find_web_design_clients/</link>
-      <description><![CDATA[      大家好， 最近，我开发了Webleadr。它是一个平台，你可以毫不费力地获得网页设计客户，通过使用过滤器在世界地图上获取没有网站的企业，比如只接收理发师或牙医。此外，你可以分析现有的商业网站，判断它们是否需要改进等。所有这一切都很容易！登陆页面上还有一个视频演示，你可以查看。 功能： - 在世界地图上获取企业 - 按类型或名称搜索企业数据，例如会计师 - 一键联系你的潜在客户 - 使用 Page Speed Insights/Lighthouse 同时对多个网站进行评分 - 发现“虚假”商业网站，例如使用 Facebook 页面作为其“网站”的企业 - 将业务数据导出到 CSV - 在所有设备之间同步 这也是一个正在进行的项目，我稍后会添加更多功能。    提交人    /u/1chbinamin   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dzckao/ive_made_a_platform_to_find_web_design_clients/</guid>
-      <pubDate>Tue, 09 Jul 2024 20:25:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
