@@ -4,7 +4,84 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Wed, 10 Jul 2024 06:18:49 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jul 2024 09:13:56 GMT</lastBuildDate>
+    <item>
+      <title>吐槽我的业余项目</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dzqptb/roast_my_side_project/</link>
+      <description><![CDATA[嘿 r/sideproject， 非常高兴地与大家分享，我刚刚启动了我的业余项目。 如果您正在寻找一款简单的笔记应用程序，请在此处查看：https://feeller.cc Feeller 设计简洁易用，非常适合记下和整理您的想法。我付出了很多努力来确保它看起来不错并且运行顺畅。 很想听到您的想法和任何反馈，所以请继续批评它。    提交人    /u/elitecarlson   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dzqptb/roast_my_side_project/</guid>
+      <pubDate>Wed, 10 Jul 2024 08:35:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的演示够好吗</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dzqkn5/is_my_demo_good_enough/</link>
+      <description><![CDATA[我一直在致力于创建一个 Fire 演示，以推动人们对我的新产品进行预先注册。 目前的策略是： 1. 应该引起目标受众共鸣的博客文章 - https://www.getdescriby.com/en/blog/the-silence  在右侧弹出的演示，吸引人们尝试一下。 尝试后，他们会被带到定价页面  我还能做些什么来使其变得更好？ 就上下文而言，我的应用目前处于预注册模式。我有 6 个朋友/朋友的朋友正在使用它，但在向我不认识的人发布它之前，还有一些安全方面的工作要做。    提交人    /u/lessis_amess   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dzqkn5/is_my_demo_good_enough/</guid>
+      <pubDate>Wed, 10 Jul 2024 08:25:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>我发布了我的第一个扩展：ChatGPT 底部复制代码按钮和统计信息 - 非常适合长代码片段！请留下评分 :)</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dzqf1v/i_pubished_my_first_extension_chatgpt_bottom_copy/</link>
+      <description><![CDATA[      此工具添加了一个“复制代码”按钮代码片段下方，这样无需滚动到顶部即可更轻松地复制和使用代码示例。它可以节省时间并有助于避免处理长消息时的性能问题。就我个人而言，我在滚动并生成助手消息时遇到了一些错误和减速。这对我来说是过去的事情了。此外，它可以显示代码统计信息，显示每个代码片段中的行数和字符数。对于识别代码长度的变化很有用。 附加 \&quot;复制代码\&quot;按钮位于代码片段下，以及代码统计信息 如果需要，您可以使用更简约的版本。 即使在生成消息时也能完美运行。 如果您觉得此扩展有用，请留下率。这可能会让我更接近获得该项目的“精选”Chrome 网上应用店徽章。任何反馈都值得赞赏。 Chrome：https://chromewebstore.google.com/detail/chatgpt-bottom-copy-code/kohaafgmbphenpkgbgaoinhiebojacnh?authuser=1&amp;hl=en-GB Edge：https://microsoftedge.microsoft.com/addons/detail/chatgpt-bottom-copy-code-/fdkfpajjlpmioomamefgdikcjmcfdckg Firefox：https://addons.mozilla.org/pl/firefox/addon/chatgpt-copy-code-button/ 隐私政策：https://strona.plus/privacy-policy 查看我的项目：https://strona.plus/projects    由   提交  /u/GeoDevPro   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dzqf1v/i_pubished_my_first_extension_chatgpt_bottom_copy/</guid>
+      <pubDate>Wed, 10 Jul 2024 08:14:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>📝 日志库</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dzqemi/logging_library/</link>
+      <description><![CDATA[大家好！👋 很高兴与大家分享我的最新项目 Logify – 一个适用于 JavaScript 和 TypeScript 项目的强大日志库。它易于使用、支持多种日志级别、可自定义的格式化程序，并且与 React 和 Next.js 配合使用效果很好。 在此处查看    提交人    /u/mvtasim   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dzqemi/logging_library/</guid>
+      <pubDate>Wed, 10 Jul 2024 08:13:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>我精心挑选了 176 个有用的*经过尝试和测试*的应用程序列表，以帮助您启动和扩展业务。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dzqb3l/i_curated_a_list_of_176_helpful_tried_tested_apps/</link>
+      <description><![CDATA[与少数独立开发者共同策划的列表：https://mavtools.com 我还应该包括什么？请提出建议。    提交人    /u/HelloItsNavi   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dzqb3l/i_curated_a_list_of_176_helpful_tried_tested_apps/</guid>
+      <pubDate>Wed, 10 Jul 2024 08:06:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么要为您的想法建立或不建立登陆页面？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dzq33y/why_do_you_build_or_not_build_landing_pages_for/</link>
+      <description><![CDATA[嘿， 我有一些关于为您的想法构建登录页面的未解决的问题。  您为什么要为您的想法构建或不构建登录页面？ 您通常如何验证您的想法？ 您是否更喜欢自己构建登录页面（编码）？为什么？     提交人    /u/lorum3   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dzq33y/why_do_you_build_or_not_build_landing_pages_for/</guid>
+      <pubDate>Wed, 10 Jul 2024 07:51:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>我怀念旧的 IndieHackers 网站，所以我创建了一个替代方案</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dzpuoy/i_miss_the_old_indiehackers_website_so_i_started/</link>
+      <description><![CDATA[大家好， 我不认识你，但我很怀念 2021-2022 年的时光，那时 IH 还是一个我们可以分享故事和挣扎并通过阅读这个论坛学到很多东西的地方。 它变得几乎不可读且限制性极强…… 我昨天发推文说要为 IH 建立一个 100% 开放和免费的社区。我得到了一百个赞和很多积极的人。所以我建了它 ;) 这只是一个开始，但如果你想加入派对：https://www.skool.com/indie-makers-5425/about    提交人    /u/xAvi_r   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dzpuoy/i_miss_the_old_indiehackers_website_so_i_started/</guid>
+      <pubDate>Wed, 10 Jul 2024 07:35:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>我给自己一个挑战：在 10 周内打造并推出一款产品。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dzptdj/gave_myself_a_challenge_to_build_and_launch_a/</link>
+      <description><![CDATA[我开始构建 draftalpha.com，并给自己一个挑战，在 10 周内构建和启动产品，为了负责任，我将在这里记录每周的进度。 我会在评论中继续添加每周的进度。    提交人    /u/nitesh_sharma_3   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dzptdj/gave_myself_a_challenge_to_build_and_launch_a/</guid>
+      <pubDate>Wed, 10 Jul 2024 07:32:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>查找和学习中文单词的网站</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dzpsi0/a_website_to_find_and_learn_chinese_words/</link>
+      <description><![CDATA[大家好，我是SEO新手，所以我建了一个网站来学习它。这是一个简单的静态网站，您可以在其中查找和学习中文单词。单词详细信息页面将以动画形式展示如何书写单词、其英文解释和中文示例。我还对一些单词进行了分类，例如关于爱情和旅行的单词，希望它们对您有所帮助。 https://chinesewords.co    提交人    /u/luosen08   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dzpsi0/a_website_to_find_and_learn_chinese_words/</guid>
+      <pubDate>Wed, 10 Jul 2024 07:31:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>谁需要一份不错的额外收入？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dzp7px/who_needs_a_decent_side_income/</link>
+      <description><![CDATA[嘿， 有人有兴趣在不付出太多努力的情况下赚取可观的额外收入吗？哈哈    提交人    /u/Wide-Wilonla   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dzp7px/who_needs_a_decent_side_income/</guid>
+      <pubDate>Wed, 10 Jul 2024 06:52:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个 Chrome 扩展程序，以便更快地在 Google 地图上搜索</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1dzoxsj/i_made_a_chrome_extension_to_search_on_google/</link>
+      <description><![CDATA[        提交人    /u/BU_is_in_notion   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1dzoxsj/i_made_a_chrome_extension_to_search_on_google/</guid>
+      <pubDate>Wed, 10 Jul 2024 06:34:11 GMT</pubDate>
+    </item>
     <item>
       <title>哪种日程表显示看起来更好？</title>
       <link>https://www.reddit.com/r/SideProject/comments/1dznsgh/what_schedule_display_looks_better/</link>
@@ -29,86 +106,9 @@
     <item>
       <title>如果有人感兴趣，我会出售我的项目</title>
       <link>https://www.reddit.com/r/SideProject/comments/1dzmfgo/i_would_sell_my_project_if_any_interested/</link>
-      <description><![CDATA[我创建了一个完整的 Python 编程课程，但我不知道如何推销它，这里是它： https://python-mastery-academy.thinkific.com 如果您有兴趣，我可以将全部文件和网站卖给您，以便您出售或创业或用它们做任何您想做的事情，请直接发信息给我。    提交人    /u/Professional_Tax5081   [链接] [评论]]]></description>
+      <description><![CDATA[我创建了一个完整的 Python 编程课程，但我不知道如何推销它，这里是它： https://python-mastery-academy.thinkific.com 如果您有兴趣，我向您出售所有文件和网站，以便您出售或创业或用它们做任何您想做的事情，请给我发私信。    提交人    /u/Professional_Tax5081   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1dzmfgo/i_would_sell_my_project_if_any_interested/</guid>
       <pubDate>Wed, 10 Jul 2024 04:01:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何向特定群体宣传自己？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dzlk2q/how_to_advertise_myself_to_a_specific_community/</link>
-      <description><![CDATA[我正在制作的 Windows 桌面应用即将完成。它是一种生产力、教育和辅助工具。它可以帮助某些特定视频游戏的玩家，它可以帮助有视力障碍的人、学习使用电脑的人，并且通常可以帮助人们提高工作效率。 我希望在盲人、低视力、残障人士 subreddit 上宣传该应用，但毫不奇怪，他们不允许自我宣传。游戏社区也是如此。 Reddit 一直是我宣传其他近期项目的最佳场所。我不确定如何针对低视力和游戏社区。 有什么建议或意见吗？谢谢！    提交人    /u/traditionalbaguette   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dzlk2q/how_to_advertise_myself_to_a_specific_community/</guid>
-      <pubDate>Wed, 10 Jul 2024 03:14:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>Grake！一种游戏化的语法学习方式。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dzjeml/grake_a_gamified_way_to_learn_grammar/</link>
-      <description><![CDATA[       由    /u/AristidesNakos  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dzjeml/grake_a_gamified_way_to_learn_grammar/</guid>
-      <pubDate>Wed, 10 Jul 2024 01:25:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>开始网上销售可能会很棘手 - 希望这能有所帮助 - 赢得一个网站</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dzj9ip/getting_started_selling_online_can_be_tricky/</link>
-      <description><![CDATA[赢得一个网站 建立一家电子商务商店可以说是开始网上赚钱的最佳方式之一。但是，要确切地知道如何开始可能会有点棘手。 许多人已经赢得了一个网站 - 免费进入，您可能是下一个...... 您一直想在线销售但不知道从哪里开始吗？ 或者您是否被高昂的设置和每月的入门费用所推迟？ 那么这场比赛对你来说将是完美的。 赢得网站（advertiseonline.co.nz） 为庆祝新的在线电子商务门户的发布，我们收到了有限数量的免费网站代码。 这个自助式电子商务网站 SAAS 使用简单，不收取交易费，并且加载和使用速度超快。 拥有数千名用户，数百万筹集的资金和超过 180 名员工，这个革命性的新电子商务平台不断正在开发中，是您新网上商店的完美基础。 更多详细信息请访问： 主页 (advertiseonline.co.nz)    提交人    /u/razmatazjaz   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dzj9ip/getting_started_selling_online_can_be_tricky/</guid>
-      <pubDate>Wed, 10 Jul 2024 01:18:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>其他人走弯路时，我们却走弯路，我们打造了一款新的客户支持工具，无需强迫用户与聊天机器人交谈</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dzhm6b/were_zigging_while_others_zag_building_a_new/</link>
-      <description><![CDATA[嗨，Reddit， 我和我的联合创始人刚刚开始一个新项目，我们正在构建客户支持工具 Sapien。我们看到这个领域的趋势是使用人工智能聊天机器人和人工智能对用户问题做出回答。我们亲身感受到了被困在聊天机器人中无法给我们想要的答案的不满，我们不认为人工智能是客户支持的圣杯，尤其是对于 SaaS 企业而言。在我们之前的公司，我们为拥有一支出色的客户支持团队而感到自豪，我们知道通过客户支持渠道与用户交谈是真正了解用户和打造优秀产品的最佳方式之一。 我们还知道，客户支持人员数量通常会随着客户群的增长而线性增长，我们正在寻找其他途径来帮助拉平这条曲线，并随着公司的发展扩大支持规模。 我们有很多想法，但我们正在尝试遵循初创企业的剧本，尽早启动和验证。 我们正在寻找我们的第一批用户，如果您正在运行任何规模的 SaaS 并且有兴趣尝试一种新颖的方法来支持您的客户，我们很乐意拥有您！ https://sapien.support/ 谢谢！    提交人    /u/SixWinged   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dzhm6b/were_zigging_while_others_zag_building_a_new/</guid>
-      <pubDate>Wed, 10 Jul 2024 00:00:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>我正在创建一个由 YCombinator 加速的初创企业目录</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dzgyr3/im_creating_a_directory_of_startups_accelerated/</link>
-      <description><![CDATA[目标是创建一个包含所有关键信息的单一目的地，这样人们就不需要在不同的地方搜索信息了 --&gt; https://accelerated.beehiiv.com/ 这是我的第二个副业，继 https://foundcy.beehiiv.com/ 之后，用于验证想法、迭代和构建产品。感谢您的反馈！    提交人    /u/Foundcy-2024   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dzgyr3/im_creating_a_directory_of_startups_accelerated/</guid>
-      <pubDate>Tue, 09 Jul 2024 23:30:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>请吐槽一下我的言语障碍应用程序</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dzgpqj/please_roast_my_speech_impediment_app/</link>
-      <description><![CDATA[我有言语障碍，所以我从不在大学讲座上提问。我每年要花 9,250 英镑假装我明白发生了什么。 我和一些朋友交谈过，意识到即使他们没有言语障碍，他们也在做同样的事情 - 为什么？因为在讲师那里提问真是太尴尬了。比如给医生打电话或把食物送回去 - 我是一个正常的成年人，应该可以做到，但有些事情就是......尴尬。 所以我做了问答，并有 3 个目标： 🟠 允许学生匿名现场提问✅ 🟣 学生是混蛋，所以这不可能完全匿名，否则他们只会将其用作 IHATEMYTEACHER 板。因此，这种匿名性是有条件的，因为房间的主人可以看到每个问题是谁问的✅🔴我的下一个目标是为讲师增加好处，所以这不仅仅是另一个噱头。我目前正在研究允许讲师在讲座结束后在应用程序中回答问题的功能。不用再在课后等待/回复 100 次相同问题的电子邮件了。 https://qplusa.co.uk 请尝试一下，任何反馈都会受到赞赏 - 即使你只是想告诉我它很糟糕！    提交人    /u/Dogb1te   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dzgpqj/please_roast_my_speech_impediment_app/</guid>
-      <pubDate>Tue, 09 Jul 2024 23:19:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>你觉得这样对吗？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dzgov8/does_this_look_right_to_you/</link>
-      <description><![CDATA[      https://preview.redd.it/m5skpfz8tkbd1.png?width=2578&amp;format=png&amp;auto=webp&amp;s=d08aa00dae520fb050be8d42f679651cb1d58f26 大家好！我和我的朋友正在开发一款有趣且免费的电影问答游戏：https://playlinked.net/ 这有点像《六度空间之凯文·贝肯》，玩家可以通过在同一部电影中一起出演的演员将两部电影联系起来。它旨在成为电影迷的日常小脑筋急转弯。 我想听听大家对设计的看法，看看我们喜欢什么，不喜欢什么。它看起来简洁干净吗？如果你想玩，请随意！也希望得到关于游戏玩法和体验的反馈。 非常感谢！    提交人    /u/Regular_Anybody9583   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dzgov8/does_this_look_right_to_you/</guid>
-      <pubDate>Tue, 09 Jul 2024 23:18:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>🚀 独家 Beta 版访问权！推出 Devliftoff：您的终极 AI 驱动项目管理工具 🚀</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dzg5cc/exclusive_beta_access_introducing_devliftoff_your/</link>
-      <description><![CDATA[我们很高兴推出 Devliftoff，这是一款革命性的 AI 驱动的项目管理工具，专为软件工程师和自由职业者打造。想象一下，无需复制代码即可启动您的项目，但成为您所在领域的真正创造力。我们为前 100 名注册用户提供独家 Beta 版访问权限！ 为什么选择 Devliftoff？ *🔹 AI 驱动的项目启动：*专门针对软件工程自动化用户故事、任务和项目计划。 *🔹 智能优先级排序：*AI 驱动的任务优先级排序，让您专注于最重要的事情。 *🔹 集成工作量估算：*使用 Planning Poker 和 T 恤尺码技术准确估算工作量。  *🔹 实时进度跟踪：*与实时 Scrum/Kanban 板和自动通知保持一致。  *🔹 自定义票证：*添加您自己的创意任务以及 AI 生成的任务，提升您的职业资本。 成为首批体验项目管理未来的人，并通过您的反馈帮助我们塑造 Devliftoff。立即加入我们的 Beta 计划！ 🌟 DM 我注册！🌟 期待您的想法和反馈！ Devliftoff #ProjectManagement #SoftwareEngineering #Freelancers #AI #TechInnovation #BetaAccess    提交人    /u/guapoghassan   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dzg5cc/exclusive_beta_access_introducing_devliftoff_your/</guid>
-      <pubDate>Tue, 09 Jul 2024 22:54:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>🌟 介绍“The Toxik Boss”论坛 🌟</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dzf958/introducing_the_toxik_boss_forum/</link>
-      <description><![CDATA[      嘿 Reddit 社区！ 👋 我很高兴与大家分享我的最新项目：The Toxik Boss。这是一个论坛网站，旨在让人们可以安全地发泄他们对工作和老板的不满。😤💼 目前它是 MVP，但我很乐意听取您的任何反馈！🙏 请随时查看并告诉我您的想法。您的意见非常宝贵！💬 谢谢！ 😊 https://www.thetoxikboss.com/ https://preview.redd.it/jzvcnrkaikbd1.png?width=1698&amp;format=png&amp;auto=webp&amp;s=a5c30d2b6295c8db95f6433da590ef5cdc91c7c4   由    /u/Federal-Addition-782  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dzf958/introducing_the_toxik_boss_forum/</guid>
-      <pubDate>Tue, 09 Jul 2024 22:16:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>我应该公开分享我的副业项目进展吗？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dzeevr/should_i_share_my_side_project_progress_in_public/</link>
-      <description><![CDATA[我听过很多关于初创公司 100% 公开透明地分享其副项目或初创公司进展的故事。 考虑做同样的事情，但担心会吸引模仿者。 但我的一部分在想......搞砸它，看看会发生什么。 有人支持或反对它吗？    提交人    /u/ebookroundup   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dzeevr/should_i_share_my_side_project_progress_in_public/</guid>
-      <pubDate>Tue, 09 Jul 2024 21:41:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>出于教育目的，使用 Rust 从头构建的实验性区块链节点</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1dzeelt/experimental_blockchain_node_built_from_scratch/</link>
-      <description><![CDATA[        提交人    /u/Outside_Motor_556   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1dzeelt/experimental_blockchain_node_built_from_scratch/</guid>
-      <pubDate>Tue, 09 Jul 2024 21:41:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
