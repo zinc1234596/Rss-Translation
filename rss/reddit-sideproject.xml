@@ -4,7 +4,42 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Thu, 11 Jul 2024 01:00:54 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jul 2024 03:17:10 GMT</lastBuildDate>
+    <item>
+      <title>工具和紧固件识别应用程序</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e0etf5/tool_and_fastener_identifying_app/</link>
+      <description><![CDATA[我开发了一款应用，通过上传或用相机拍摄的照片来识别不同的工具和紧固件。我会根据用户尝试识别的内容不断添加新内容。它目前还不能分辨尺寸（即将推出），但如果拍摄了单个物品并且其定义特征在照片中，它将识别工具/紧固件（如果没有，那么很快就会） https://play.google.com/store/apps/details?id=com.provectusdesign.armorum&amp;hl=en_US    提交人    /u/Wee1243   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e0etf5/tool_and_fastener_identifying_app/</guid>
+      <pubDate>Thu, 11 Jul 2024 03:07:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的第一个编码项目寻求反馈</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e0eo3h/my_first_coding_project_looking_for_feedback/</link>
+      <description><![CDATA[大家好，我很高兴与大家分享我的最新项目 Intelly Hire。这是一个人工智能驱动的平台，专门用于帮助计算机科学专业的学生和应届毕业生快速高效地找到工作。如果您是计算机科学专业的学生或应届毕业生，我很想听听您对该平台的看法。您认为哪些功能对求职最有帮助？请在此处查看：https://www.intellyhire.com/ 感谢您的反馈！    提交人    /u/Abject_Change_9199   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e0eo3h/my_first_coding_project_looking_for_feedback/</guid>
+      <pubDate>Thu, 11 Jul 2024 03:00:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>另一个习惯追踪应用程序：Habitex（需要 TestFlight 用户！）</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e0dhsb/yet_another_habit_tracker_app_habitex_testflight/</link>
+      <description><![CDATA[      大家好！我创建了一个新的习惯追踪应用。我知道这听起来可能很疯狂，但我从未找到过一款我真正喜欢的应用程序。 这次，我决定从一开始就让它变得完美（哈哈）。我从一开始就添加了很多很酷的功能。我根本不是设计师，但我试图让应用程序尽可能干净和真实。 如果有人感兴趣，这里有一个 TestFlight 链接。我计划本月发布它！https://testflight.apple.com/join/qAfPi1GK P.S.这是一个用 SwiftUI 编写的 iOS 应用程序，因此如果你们有任何技术问题，我非常乐意回答。 https://preview.redd.it/057f5ig3rsbd1.png?width=1753&amp;format=png&amp;auto=webp&amp;s=0958323432b836d7fccbcab1409dacbb2a427929    提交人    /u/Habitex   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e0dhsb/yet_another_habit_tracker_app_habitex_testflight/</guid>
+      <pubDate>Thu, 11 Jul 2024 01:59:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们制作了一个人工智能，利用 Reddit + YouTube 的集体智慧来回答任何问题。让 Gigabrain 为您进行 Reddit 研究 @ thegigabrain.com</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e0d38w/we_made_an_ai_that_harnesses_the_collective/</link>
+      <description><![CDATA[        提交人    /u/Mindless-Ad3825   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e0d38w/we_made_an_ai_that_harnesses_the_collective/</guid>
+      <pubDate>Thu, 11 Jul 2024 01:39:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人在您的网站上免费提供互连网以交换反馈吗？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e0cv2z/free_interlinking_on_your_site_in_exchange_of/</link>
+      <description><![CDATA[大家好，我正在创建一个自动互连的 AI 工具，只需单击一下即可为您的所有博客创建内部链接，从而节省长时间的手动链接。 只需提交您的站点地图并更新相关锚文本上的链接即可。 愿意在您网站的最多 500 个页面上创建内部链接，以换取您的宝贵反馈。 如果有兴趣，请填写此表格（不会超过 30 秒）https://tally.so/r/w4keqO  请分享您对 SaaS 想法的看法。    提交人    /u/dewanshijain   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e0cv2z/free_interlinking_on_your_site_in_exchange_of/</guid>
+      <pubDate>Thu, 11 Jul 2024 01:28:06 GMT</pubDate>
+    </item>
     <item>
       <title>您是承包商还是自由职业者？厌倦了开票的麻烦？看看这个...</title>
       <link>https://www.reddit.com/r/SideProject/comments/1e0c0n6/r_u_a_contractor_or_freelancer_tired_of_invoicing/</link>
@@ -50,7 +85,7 @@
     <item>
       <title>我编写了一个程序来从 pdf 文件中删除白色，并返回具有透明背景的 png。</title>
       <link>https://www.reddit.com/r/SideProject/comments/1e097z3/i_made_a_program_to_remove_the_white_from_a_pdf/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  这不是一个超级疯狂的东西，我敢肯定，还有其他版本，但我无法免费找到任何东西，我的同事们厌倦了必须手动做到这一点。他通常会在一个单个图像中获得40-200的PDF，并且只需要一个单个图像，并且只需删除了一个途径即可用来供您使用的途径。 我为自己有点骄傲，因为我没有做任何python。  https://github.com/KeithKorter/pdf_to_png    由   提交  /u/FvnGai   [链接] [评论]]]></description>
+      <description><![CDATA[这不是什么超级疯狂的东西，我相信还有其他版本，但我找不到任何免费的东西，我的同事厌倦了手动执行此操作。 他经常一次获得 40-200 个包含单个图像的 pdf，只需删除白色部分并保存为 png。好了，我已经为他找到了一种方法，只需指向包含所有文件和进程的文件夹！ 我对自己有点自豪，因为自从训练营以来我还没有做过任何 python。 我将代码和 exe 放在那里供任何人使用。我希望你能从中找到价值。  https://github.com/KeithKorter/pdf_to_png    由   提交  /u/FvnGai   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1e097z3/i_made_a_program_to_remove_the_white_from_a_pdf/</guid>
       <pubDate>Wed, 10 Jul 2024 22:39:26 GMT</pubDate>
     </item>
@@ -74,41 +109,6 @@
       <description><![CDATA[        由    /u/Majestic_Strain 提交   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1e07mle/just_finished_a_website_to_play_the/</guid>
       <pubDate>Wed, 10 Jul 2024 21:34:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>免费开源人工智能将语音转化为结构化笔记</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e07gsr/free_and_opensource_ai_to_turn_voice_into/</link>
-      <description><![CDATA[我们最近几个月发现的最佳生产力技巧是结构化格式的自动笔记。 现在，我们免费向所有人开源它。 这似乎是建立可扩展副业的好主意和坚实基础 - 如果您有任何疑问，请告诉我！ https://audioscribe.wordware.ai    提交人    /u/unable0   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e07gsr/free_and_opensource_ai_to_turn_voice_into/</guid>
-      <pubDate>Wed, 10 Jul 2024 21:27:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建并刚刚发布了一个免费工具来帮助消费者识别和避免雀巢、可口可乐、百事可乐、家乐氏、宝洁等大型企业的商品！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e05q13/i_built_and_just_released_a_free_tool_to_help/</link>
-      <description><![CDATA[        提交人    /u/Telescopeinthefuture   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e05q13/i_built_and_just_released_a_free_tool_to_help/</guid>
-      <pubDate>Wed, 10 Jul 2024 20:15:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>我即将推出我的 SaaS</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e04xac/im_about_to_launch_my_saas/</link>
-      <description><![CDATA[我即将推出我的 SaaS，https://disputeax.com。  我为每天面临 Stripe 争议问题的企业创建了 DisputeAx。DisputeAx 为大问题提供了极好的价格。  您应该查看 DisputeAx 的原因： - 比 Stripe 本身更优惠的价格，为您节省数千美元。 - 自动退款 - 电子邮件通知 - 争议历史记录 - 关键统计数据  它尚未 100% 准备好，但如果您有兴趣，可以注册。  我希望 https://disputeax.com 将是您一直在寻找的解决方案。    由    /u/innoplusdevs 提交   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e04xac/im_about_to_launch_my_saas/</guid>
-      <pubDate>Wed, 10 Jul 2024 19:43:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>您对 IllyVoIP 有何看法？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e04lb4/what_do_you_think_of_illyvoip/</link>
-      <description><![CDATA[大家好， 我想分享我最新的项目，自 2020 年以来一直在从事该项目，到今天已成功获得约 35,000 名客户。 我们在云端提供全球电信服务，请查看：https://illyvoip.com 我们的平台完全由内部开发，我们提供完全自动化的入职流程，任何人都可以使用任何网络浏览器在 3-4 分钟内拨打世界任何地方的电话。 感谢您的意见和建议！    提交人    /u/Prudent-Article5193   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e04lb4/what_do_you_think_of_illyvoip/</guid>
-      <pubDate>Wed, 10 Jul 2024 19:29:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>创办我的第一家 SaaS 初创公司</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e04f7b/launching_my_first_saas_startup/</link>
-      <description><![CDATA[        提交人    /u/aaffectionatekeyy   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e04f7b/launching_my_first_saas_startup/</guid>
-      <pubDate>Wed, 10 Jul 2024 19:22:36 GMT</pubDate>
     </item>
     </channel>
 </rss>
