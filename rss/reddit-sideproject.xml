@@ -4,111 +4,111 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Thu, 11 Jul 2024 15:13:52 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jul 2024 18:17:28 GMT</lastBuildDate>
     <item>
-      <title>我该如何开始？ - 公开现场构建 SaaS，第 10 天</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e0r8qj/how_do_i_get_started_livebuilding_a_saas_in/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e0r8qj/how_do_i_get_started_livebuilding_a_saas_in/</guid>
-      <pubDate>Thu, 11 Jul 2024 15:09:39 GMT</pubDate>
+      <title>系统设计面试速成课程</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e0vcy0/system_design_interview_crash_course/</link>
+      <description><![CDATA[大家好， 我和我的朋友们（都在 FAANG 公司）创建了一门免费课程，教授系统设计的基础知识。它针对的是初学者和那些准备面试的人 - www.sweetcodey.com。 需要一些关注/反馈。谢谢。    提交人    /u/RJ3241   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e0vcy0/system_design_interview_crash_course/</guid>
+      <pubDate>Thu, 11 Jul 2024 18:02:48 GMT</pubDate>
     </item>
     <item>
-      <title>我构建了一个免费的无代码 MVP Builder Guide AI Wrapper。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e0qwm7/i_build_a_free_nocode_mvp_builder_guide_ai_wrapper/</link>
-      <description><![CDATA[      我制作了免费的 AI 无代码 MVP 构建指南，想与大家分享！ 构建 MVP 可能很困难，特别是如果您不具备编码技能。 MVP 构建指南通过回答有关您的目标受众、核心功能和独特价值主张的几个简单问题来工作， 您将收到有关如何使用无代码工具构建 MVP 的详细指南。 在 MVP Recipes 上查看，如果您觉得有用，请告诉我！ https://preview.redd.it/ob94kve9lwbd1.jpg?width=765&amp;format=pjpg&amp;auto=webp&amp;s=16f02cb726bfe33660652ed9a16b1657f27c173a    提交人    /u/T4times   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e0qwm7/i_build_a_free_nocode_mvp_builder_guide_ai_wrapper/</guid>
-      <pubDate>Thu, 11 Jul 2024 14:55:07 GMT</pubDate>
+      <title>发布了 Botbyte AI - 一款可以嵌入到你网站的聊天机器人</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e0v3ya/released_botbyte_ai_a_chatbot_you_can_embed_in/</link>
+      <description><![CDATA[        由    /u/Impressive-Oil-9294   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e0v3ya/released_botbyte_ai_a_chatbot_you_can_embed_in/</guid>
+      <pubDate>Thu, 11 Jul 2024 17:52:27 GMT</pubDate>
     </item>
     <item>
-      <title>我构建了一套 AI 代理来帮助我优化预算并做出更好的投资决策</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e0qopg/i_built_a_suite_of_ai_agents_to_help_me_optimize/</link>
-      <description><![CDATA[我使用 ~Dagger~ 和 GitHub Actions 构建了一个容器管道，以自动执行获取、更新和构造数据以发送到代理工作流的过程，使用 ~LangChain~ 与多个 LLM 模型进行交互，这些模型使用工具和自定义函数来帮助我回答这些问题；  我和我的妻子是否可以从我们的支出中学到趋势和习惯，我们可以采取哪些可行的见解来帮助我们更好地实现财务目标？ 我如何分析和总结必要的信息和数据，以帮助我做出更明智的投资决策？  使用第一个管道（Budgeting Buddy）：  我使用 Google 表格中的 Tiller 插件从多家银行获取交易账户 我使用 GitHub Actions 每 4 天触发一次容器管道 第一个容器从电子表格中获取交易 另一个容器从 MongoDB 数据库获取交易，以筛选新交易 下一个容器使用零样本分类模型；facebook/bart-large-mnli 将我的交易分为不同的类别（杂货、零食、外卖、娱乐、交通、信用卡支付、购物、个人护理和医疗保健） 下一个容器将此数据写入 MongoDB 数据库 我重用从 MongoDB 获取数据的容器，并将输出传递给构造数据的方法。具体来说，我使用 Atlas Search 来汇总周和类别级别的数据 我将这个输出传递给一个容器，该容器进行多次 OpenAI 调用来执行任务，以生成细致入微的建议（基于历史支出）来帮助我预算 我将这个输出发送到另一个容器，该容器通过短信将此反馈发送回我  Dagger 模块：~https://daggerverse.dev/search?q=EmmS21~  我的第二条管道（投资优化器）：  从我的 Google 表格中获取数据（重用上一个管道中的模块） 专门提取我的债务并构造这些数据 我的 AI 代理与一些工具进行交互（获取股票 - 使用在 Dagger 模块内部运行的方法，plotly- 绘制可视化效果来解释决策的理由该函数使用通过搜索不同类型债务检索到的数据并对信息进行评级，即这种类型的债务对影响我的信用评分的因素有高、低还是中等影响，将LLM 产生的高、低和中等评级转换为乘数。该函数使用这些乘数来改变利率，不仅考虑利率，还考虑“债务的重要性”。我还有另一个函数，它说明了偿还所有最低还款额的逻辑，然后比较偿还每 1000 美元债务的利息节省与根据过去的回报投资高绩效股票的回报。每个选项分配百分比，并根据此分配剩余的可用资金。 输出通过另一个容器通过电子邮件发送给我。  我目前正在重建投资优化器，专注于帮助我做出明智的投资决策。这意味着考虑基本面分析，而不仅仅是历史回报率（即我正在查看 10 年期间的 10-Q 和 10-K 文件数据以及搜索数据，以构建 AI 代理，该代理每月将识别 2 只股票并生成这些股票的摘要以及可能推动其增长的因素。我会使用这些信息对股票进行更多研究，并在有意义的情况下进行投资）。这是我构建的演示文稿：~https://www.youtube.com/watch?v=YxfW-TgOGkc~     提交人    /u/MoodAppropriate4108   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e0qopg/i_built_a_suite_of_ai_agents_to_help_me_optimize/</guid>
-      <pubDate>Thu, 11 Jul 2024 14:45:37 GMT</pubDate>
+      <title>我开发了一个 ChatGPT 管理工具，一天内就获得了 7 个用户</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e0v2r0/i_build_a_chatgpt_management_tool_and_got_7_users/</link>
+      <description><![CDATA[大家好，我开发了一个 chrome 扩展程序，可帮助您管理 ChatGPT 中的聊天。您可以将聊天固定在顶部。您可以为标签提供自定义标签和颜色，以便轻松识别和过滤标签，您可以将聊天添加到文件夹，搜索聊天文件夹。如果您想结帐，可以在此处结帐 如果有人想购买高级版，这里有一个代码 I1NDK0OQ，可为您提供 30% 的折扣和 5 台设备的终身订阅    提交人    /u/rajguptta   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e0v2r0/i_build_a_chatgpt_management_tool_and_got_7_users/</guid>
+      <pubDate>Thu, 11 Jul 2024 17:51:01 GMT</pubDate>
     </item>
     <item>
-      <title>4 个付费客户，70 个用户，发布前 3 天，上线 1 周</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e0qeyo/4_paying_customers_70_users_3_days_before_launch/</link>
-      <description><![CDATA[今年夏天，我决定开始我的独立开发者/独行侠之旅。距离我在 ProductHunt 上发布我的第一个项目还有三天时间，我想分享我迄今为止的真实体验。 我在 2-3 周内构建了 BlitzToksAI。这是一个生成无脸 TikTok 视频的 AI 工具。它从上周四开始上线，所以正好一周。我计划在周日在 Product Hunt 上发布它，目标是最平静的一天，这样我就可以排名尽可能高，因为我在周中没有大量的粉丝可以竞争。 我在 X、Reddit、Hacker News 和 YouTube 上分享了这款应用。到目前为止，这为我带来了大约 70 个用户；其中 4 人购买了积分（一次性付款），总共有 390 位独立访客。我在 X 上获得了 40 位粉丝，从 0 开始。 显然，收入并不高，我也不认为发布后会有所改变。希望我能获得更多付费客户，但可以肯定的是，没有什么特别的。但是，这对我来说不是问题，因为我不相信独角兽项目。我未来的计划是继续构建越来越多的项目，分享我的旅程，与社区互动，理想情况下获得追随者。 到目前为止，我发现最积极的事情是我在构建和分享我的应用程序时想出的新想法数量。以前，我很难找到想法，但现在我保留了一份想法清单。所以，构建 -&gt; 发布并重复。周日是发布日；周一我开始一个新项目。 祝我发布顺利！我很乐意听取您对应用的反馈 — 包括着陆页和所有内容。我希望这不是垃圾邮件，但如果您愿意，我们可以在 X 上联系    提交人    /u/__proto__null   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e0qeyo/4_paying_customers_70_users_3_days_before_launch/</guid>
-      <pubDate>Thu, 11 Jul 2024 14:33:45 GMT</pubDate>
+      <title>我开发了一个 ChatGPT 管理工具，一天内就获得了 7 个用户</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e0v284/i_build_a_chatgpt_management_tool_and_got_7_users/</link>
+      <description><![CDATA[大家好，我开发了一个 chrome 扩展程序，可帮助您管理 ChatGPT 中的聊天。您可以将聊天固定在顶部。您可以为标签提供自定义标签和颜色，以便轻松识别和过滤标签，您可以将聊天添加到文件夹，搜索聊天文件夹。如果您想结帐，可以在此处结帐。发布第一天我就有 7 位用户 如果有人想购买高级版，这里有一个代码 I1NDK0OQ，可为您提供 30% 的折扣和 5 台设备的终身订阅    提交人    /u/rajguptta   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e0v284/i_build_a_chatgpt_management_tool_and_got_7_users/</guid>
+      <pubDate>Thu, 11 Jul 2024 17:50:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>在后端构建一些东西，有反馈吗？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e0ukvd/building_something_on_the_backend_feedback/</link>
+      <description><![CDATA[伙计们！ 构建一些工具来帮助具有前端经验的前端开发人员或创始人。有人愿意分享他们的经验并提供有关后端集成的一些意见吗？    提交人    /u/santhosh1993   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e0ukvd/building_something_on_the_backend_feedback/</guid>
+      <pubDate>Thu, 11 Jul 2024 17:30:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>我在 3 天内重建了角色 AI</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e0uiny/i_rebuilt_character_ai_in_3_days/</link>
+      <description><![CDATA[希望得到一些反馈 :) https://www.trycarson.com/?cid=side    由   提交  /u/Pitiful_Marzipan8911   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e0uiny/i_rebuilt_character_ai_in_3_days/</guid>
+      <pubDate>Thu, 11 Jul 2024 17:27:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>揭示条件统计数据在股票分析中的威力</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e0u8tk/unveiling_the_power_of_conditional_statistics_for/</link>
+      <description><![CDATA[大家好， 我很高兴地宣布 Patterns.ID 已正式进入公开测试阶段！ 自 1 月 29 日首次启动服务器以来，我们一直在努力工作，从 alpha 测试人员那里收集宝贵的反馈意见并改进我们的工具。 什么是 Patterns ID？ Patterns ID 是一个利用条件统计™ 功能的股票分析平台。这些是基于特定历史条件（星期几、RSI、市盈率等）的价格变化统计数据。我们的工具将这些统计数据应用于标准普尔 500 指数，为交易者提供独特的见解。 当前功能：  仪表板：全面了解任何标准普尔 500 指数股票。将其历史表现与条件统计数据™ 进行比较，以衡量潜在的交易结果。  最小最大值：发现每个指标的每日和每周最大赢家和输家。快速找到潜在的高动者。  股票筛选器：不仅根据传统指标而且根据条件统计数据™ 筛选股票。查找在您喜欢的条件下历史表现良好的股票。  最后，为了展示我对该平台的信心，我开始了一项名为#TradingInPublic的个人挑战，我将在其中使用 Patterns ID 记录我的投资历程。您可以在我的 YouTube 频道https://www.youtube.com/@tradingpublic上关注我。&gt; 我们渴望您体验 Patterns ID 并分享您的想法。您的反馈对于我们继续改进和扩展我们的平台至关重要。 附注：目前该应用程序在测试版上是免费的。    提交人    /u/dhevalon   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e0u8tk/unveiling_the_power_of_conditional_statistics_for/</guid>
+      <pubDate>Thu, 11 Jul 2024 17:16:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的副项目：现代内容创建者和博学者的工具目录</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e0twh7/my_sideproject_tools_directory_for_the_modern/</link>
+      <description><![CDATA[这是我已经做了几年的项目。我尝试了 3 次才把它做好，我记得之前在这里发过一篇关于它的帖子。这个项目已经困扰我很久了，我终于找到了一种方法来纠正它。同时看起来仍然很好。 我为现代内容创建者创建了一个工具网站，我想那里可能会有一些对你有价值的东西！https://polytools.blog/ 这里有大量的工具可以帮助您实现 #PKM #knowledgemangement #socialmedia #contentrepurposing 等。    提交人    /u/ulcweb   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e0twh7/my_sideproject_tools_directory_for_the_modern/</guid>
+      <pubDate>Thu, 11 Jul 2024 17:01:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>刚刚发布：在 Chrome 扩展程序“Add to Sheets”中查找任何网页上的所有电子邮件地址、链接和图片网址，并自动保存到 Google 表格中</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e0toid/just_released_find_all_email_addresses_links_and/</link>
+      <description><![CDATA[        提交人    /u/siegerts   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e0toid/just_released_find_all_email_addresses_links_and/</guid>
+      <pubDate>Thu, 11 Jul 2024 16:52:38 GMT</pubDate>
     </item>
     <item>
       <title>我制作了一个可以浏览网页的 AI 搜索引擎！请她实时汇总链接（包括 PDF）或从任何网站（亚马逊、Reddit……）获取信息</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e0qeku/i_made_an_ai_search_engine_that_can_browse_the/</link>
-      <description><![CDATA[        提交人    /u/nobilis_rex_   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e0qeku/i_made_an_ai_search_engine_that_can_browse_the/</guid>
-      <pubDate>Thu, 11 Jul 2024 14:33:18 GMT</pubDate>
+      <link>https://www.reddit.com/r/SideProject/comments/1e0sldi/i_made_an_ai_search_engine_that_can_browse_the/</link>
+      <description><![CDATA[        由    /u/nobilis_rex_  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e0sldi/i_made_an_ai_search_engine_that_can_browse_the/</guid>
+      <pubDate>Thu, 11 Jul 2024 16:06:36 GMT</pubDate>
     </item>
     <item>
-      <title>我正在开发一款产品，以便更快（更好地）分析客户反馈</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e0pyeb/im_working_on_a_product_to_analyze_customer/</link>
-      <description><![CDATA[        由    /u/giovannibrando  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e0pyeb/im_working_on_a_product_to_analyze_customer/</guid>
-      <pubDate>Thu, 11 Jul 2024 14:13:41 GMT</pubDate>
+      <title>介绍 Zerocrat - 注重隐私的会计套件</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e0s9vf/introducing_zerocrat_the_privacyfocused/</link>
+      <description><![CDATA[      过去 1.5 年，我一直在多伦多公共图书馆独自构建这个 SaaS 产品。  该应用程序采用零知识架构，完全端到端加密。 我受到了 Bitwarden 和 Tutanota 等项目的启发，并想为什么对于商业来说没有这样的东西呢？我知道这个领域的开源项目，但没有一个提供加密云环境 --- 所以我全心全意地致力于这项任务！ 请随意探索演示环境： https://demo.zerocrat.com/account/login/ 更多信息请参阅我们的主要登陆页面： https://zerocrat.com/ 如果您想了解更多关于我的信息，请查看我的 linkedin 个人资料： https://www.linkedin.com/in/adam-koza 谢谢！   由    /u/ZerocratAccounting  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e0s9vf/introducing_zerocrat_the_privacyfocused/</guid>
+      <pubDate>Thu, 11 Jul 2024 15:54:00 GMT</pubDate>
     </item>
     <item>
-      <title>C++代码生成器旨在帮助构建分布式应用程序</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e0ptq5/c_code_generator_intended_to_help_build/</link>
-      <description><![CDATA[嗨。我有一个 C++ 代码生成器，可帮助构建分布式应用程序。它以 3 层系统的形式实现。中间层和前端层是开源的。后端和中间层仅在 Linux 上运行。前端层是可移植的。如果我们将我的软件用作项目的一部分，我愿意每周花 16 个小时在项目上，为期六个月。还有推荐奖金。    提交人    /u/Middlewarian   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e0ptq5/c_code_generator_intended_to_help_build/</guid>
-      <pubDate>Thu, 11 Jul 2024 14:07:55 GMT</pubDate>
+      <title>误打误撞进入了 7 位数的 AI 商业世界：一个疯狂的转型故事</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e0s4r5/stumbled_into_a_7figure_ai_biz_a_wild_pivot_story/</link>
+      <description><![CDATA[大家好，r/SideProject， 我一直在写关于 AI 初创公司的新闻通讯，我听到了一个让我大吃一惊的故事。我想你们都会从中得到启发。 我最近采访了 Nathan Landman，他的经历可能会引起许多正在从事自己项目的人的共鸣：  他们意外地意识到他们的 AI 拍摄头像比拍摄服装照片要好得多 当场转向 AI 头像生成器 不知何故在几个月内就赚到了 7 位数。没有风险投资资金，只是自力更生的疯狂  确实是一个幸福的意外。让我思考我们所有的副业，有时真正的黄金就在我们意想不到的东西中。 一些随机的想法：  也许我们都太专注于我们的“大创意”而错过了场外很酷的东西？ 他们在教练和小企业主中找到了他们的人。利基市场可以偷偷获利。 听起来很俗气，但是......人工智能工具现在有点像副业的作弊代码。  我很好奇：  你们中有没有人偶然发现了与你开始构建的东西完全不同的东西？ 你们如何在不花钱做广告的情况下发展自己的项目？ 有人在他们的项目中玩人工智能吗？情况如何？  让我们交换一些故事。我敢打赌这里面肯定有一些疯狂的。 （顺便说一句，如果有人想要更多这些 AI 初创企业的故事，我会在我的新闻通讯 The Homebase 中收集它们。）    提交人    /u/aihomie   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e0s4r5/stumbled_into_a_7figure_ai_biz_a_wild_pivot_story/</guid>
+      <pubDate>Thu, 11 Jul 2024 15:48:08 GMT</pubDate>
     </item>
     <item>
-      <title>有人能告诉我他们每天或每周遇到的一些问题，可以借助软件解决吗</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e0phpr/can_anybody_suggest_me_some_problems_they_face_in/</link>
-      <description><![CDATA[  由    /u/Dazzling_Public5133  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e0phpr/can_anybody_suggest_me_some_problems_they_face_in/</guid>
-      <pubDate>Thu, 11 Jul 2024 13:53:25 GMT</pubDate>
+      <title>从 Side Project 到 SAAS：</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e0s33m/from_side_project_to_saas/</link>
+      <description><![CDATA[从副业到 SAAS：推出 GPT Power Manager 解决真正的 AI 工作流问题 大家好，SAAS 社区！👋 我很高兴与大家分享我开发和推出 GPT Power Manager 的历程，这是一款 Chrome 扩展程序，它正在改变人们与 ChatGPT 的互动方式。 起源 作为一名狂热的 ChatGPT 用户，我发现自己淹没在无数的对话中。重要的见解被遗漏了，我浪费时间浏览无尽的聊天。我想，“一定有更好的方法。”正是在那时，GPT Power Manager 的想法诞生了。 开发之旅  识别问题：缺乏用于 ChatGPT 对话的组织工具。 MVP 开发：从基本的标记和固定功能开始。 用户反馈：早期采用者帮助制定了产品路线图。 迭代：根据用户需求添加了颜色编码和文件夹管理。 完善：专注于创建与 ChatGPT 无缝集成的直观界面。  我们构建的主要功能：  🏷️ 自定义标记：轻松对对话进行分类 📌 聊天固定：让重要的聊天随时可访问 🎨 颜色编码：以可视化方式组织聊天📁 文件夹管理：为对话创建逻辑结构 🖥️ 直观的界面：旨在增强而不是复杂化 ChatGPT 体验  经验教训  倾听用户的意见：他们是功能创意和改进的最佳来源。 从小处着手，智能扩展：我们推出了核心功能，并根据需求进行扩展。 解决实际问题：专注于创造真正的价值，而不仅仅是“好用”的工具。 拥抱 SAAS 模型：它允许持续改进和可持续的业务。  展望未来 我们才刚刚开始！我们的路线图包括： - 高级搜索功能 - 团队协作功能 - 与其他 AI 平台集成 SAAS 先驱者的独家终身优惠 作为 SAAS 爱好者，我很高兴为您提供独家优惠： 🚀 终身访问：一次付费，永久使用！无需重复订阅。 🖥️ 多设备使用：一个许可证最多可用于 5 台设备。 💰 30% 发布折扣：结帐时使用代码 I1NDK0OQ。 这意味着您可以在所有设备上简化 ChatGPT 工作流程，而不必担心月费或设备限制。这是我们感谢早期采用者和 SAAS 社区成员支持的方式。 终身访问 GPT Power Manager 我在这里回答有关我们的开发过程、面临的挑战或未来计划的任何问题。有没有其他人从附带项目过渡到成熟的 SAAS？我很想听听你的经验和技巧！💬👇 附注：如果您对潜在的集成或合作伙伴关系感兴趣，请随时给我发私信。总是很高兴探索 SAAS 领域的协同效应！    提交人    /u/rajguptta   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e0s33m/from_side_project_to_saas/</guid>
+      <pubDate>Thu, 11 Jul 2024 15:46:09 GMT</pubDate>
     </item>
     <item>
-      <title>我制作了一份免费的时事通讯，其中包含您选择的主题的简化每日新闻，以练习语言（noospeak.com）</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e0p60w/i_made_a_free_newsletter_to_practice_languages/</link>
-      <description><![CDATA[        提交人    /u/imaginkation   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e0p60w/i_made_a_free_newsletter_to_practice_languages/</guid>
-      <pubDate>Thu, 11 Jul 2024 13:38:12 GMT</pubDate>
+      <title>我开发了一个免费的应用内工具，帮助应用创建者轻松收集反馈——Resubscribe AI</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e0rqkc/i_built_a_free_inapp_tool_to_help_app_creators/</link>
+      <description><![CDATA[        提交人    /u/muramasaquepasa   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e0rqkc/i_built_a_free_inapp_tool_to_help_app_creators/</guid>
+      <pubDate>Thu, 11 Jul 2024 15:30:52 GMT</pubDate>
     </item>
     <item>
-      <title>提高开发团队的生产力</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e0o7zv/boost_your_dev_team_productivity/</link>
-      <description><![CDATA[嗨！正在寻找几位工程团队负责人（从 CTO 到高级工程师），他们使用 Slack 和 GitLab/GitHub/JIRA 来测试我们的新生产力工具 我们的新解决方案将帮助您的团队更快地交付代码，让团队活动具有可见性，优先处理重要任务，并使您的团队作为一个高效的单位工作。一切都集中在一个地方 您无需浏览所有工具即可了解团队的进度，不会错过关键产品发布的截止日期，也不会让团队成员处理不优先的任务 如果您愿意尝试并提供一些反馈，请告诉我 PS：作为感谢，您可以在测试期间免费使用该工具！    提交人    /u/eqsbrilldev   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e0o7zv/boost_your_dev_team_productivity/</guid>
-      <pubDate>Thu, 11 Jul 2024 12:52:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>终于在 iOS 和 Android 上发布了我的第一款游戏</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e0np9p/finally_released_my_first_game_on_ios_and_android/</link>
-      <description><![CDATA[几个月来一直在筹备这个项目，真的很高兴终于可以向全世界发布了。我的最高分是 782，想知道是否有人能打败它，这很有趣 😁 可在 AppStore 和 Google Play 上获取：https://splashgame.app https://reddit.com/link/1e0np9p/video/jsuoqravuvbd1/player    提交人    /u/asharghi   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e0np9p/finally_released_my_first_game_on_ios_and_android/</guid>
-      <pubDate>Thu, 11 Jul 2024 12:25:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了 Blainy，一个为学生和研究人员提供的 AI 写作助手</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e0nkr3/i_built_blainy_an_ai_writing_assistant_for/</link>
-      <description><![CDATA[大家好， 作为一名兼顾工作和学习的兼职学生，我亲身体验过找时间写作业、按时完成任务等有多难。所以，这就是我创建 Blainy 的原因。这是一款人工智能写作助手，旨在让学术写作更轻松、更高效。 Blainy 不仅仅是市场上的另一种写作工具，我向你保证，因为它是为了解决学生和研究人员在撰写论文、作业、毕业论文或研究论文时面临的真正挑战而构建的。无论你是在与写作障碍作斗争，还是在研究论文中不知所措，或者只是时间不够，Blainy 都能让你的工作更轻松。 Blainy 的与众不同之处在于它专注于学术需求。它可以帮助您撰写论文、研究论文，甚至博客文章，其功能专为学术工作而设计。从生成大纲、想法到格式化引文，Blainy 让整个写作过程变得更容易。我开发这个工具是为了解决我遇到的问题，现在我想与你分享。 Blainy 可以为你节省工作时间，减轻压力，并帮助你创作出更高质量的作品。这就像拥有一个全天候知识渊博的写作伙伴。 Blainy 有一些很酷的功能可以让您的学术生活更轻松： AI 建议：在您键入时通过智能想法帮助解决写作障碍。 AI 自动化：获取有关撰写简介、结论、反对论点或整个段落的帮助。 释义：以不同的学术风格改写您的文本。 内置引用：在几秒钟内找到与您的主题或选定段落相关的引用。 抄袭检查：检查您的工作以保持其原创性。 文档聊天功能：回答有关任何研究论文或文档的问题。 所有这些功能均可通过免费的每日积分获得。我一直在努力添加更多功能来帮助您的学习。哪个功能对您来说最有用？我很想听听您的想法！    提交人    /u/MysticMegan1   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e0nkr3/i_built_blainy_an_ai_writing_assistant_for/</guid>
-      <pubDate>Thu, 11 Jul 2024 12:19:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>对于认真的语言学习者</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e0nkb1/for_serious_language_learners/</link>
-      <description><![CDATA[  由    /u/morpheem  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e0nkb1/for_serious_language_learners/</guid>
-      <pubDate>Thu, 11 Jul 2024 12:18:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>两周内有 40 位用户，现在怎么办？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e0msh9/40_users_in_2_weeks_what_now/</link>
-      <description><![CDATA[嗨！ 两周前我推出了我的 SaaS 初创公司 (https://bashnode.dev)，现在有 40 个非付费用户。虽然我非常高兴，因为我从来没有得到过这么“多”的用户在我的某个项目上吸引用户，我觉得我可以获得更多，但我不知道如何做。  Bashnode 是开发人员创建无代码自定义 CLI 的工具  到目前为止，我为吸引用户所做的事情如下：  我在发布期间创建了一个 producthunt 页面，获得了 90 多个赞。 我开始撰写博客文章来谈论我的初创公司，提供见解、教程等。 我在 reddit 上做了很多广告（非付费） 为我的初创公司开设了一个 twitter 帐户。  我还应该做些其他事情吗？比如付费广告？ 谢谢    提交人    /u/Basic-Client5887   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e0msh9/40_users_in_2_weeks_what_now/</guid>
-      <pubDate>Thu, 11 Jul 2024 11:36:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>我正在免费推出我的 SAAS</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e0ms21/im_launching_my_saas_for_free/</link>
-      <description><![CDATA[我正在免费推出我的 SAAS 你认为这是个好主意吗 ？ 所以我几乎完成了 MVP，我已经在登陆页面中实现了核心功能，用户可以立即免费试用，目前无需付费。 我的想法是像这样启动它，获取用户，获取他们的反馈，然后继续使用仪表板添加付费功能。 你们觉得怎么样？    提交人    /u/ComfortableWave9991   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e0ms21/im_launching_my_saas_for_free/</guid>
-      <pubDate>Thu, 11 Jul 2024 11:36:11 GMT</pubDate>
+      <title>我建立并推出了 Dialed——一款人工智能鼓舞人心的应用程序！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e0rpkb/i_built_and_launched_dialed_an_ai_pep_talk_app/</link>
+      <description><![CDATA[大学毕业后，我失去了很多来自亲密朋友的激励和鼓励，比如去健身房、学习等等。所以我开发了一个鼓舞人心的应用程序，随时为任何事情提供激励和动力！我有很多未来扩展计划！欢迎随时查看这里！    提交者    /u/Pickles1551   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e0rpkb/i_built_and_launched_dialed_an_ai_pep_talk_app/</guid>
+      <pubDate>Thu, 11 Jul 2024 15:29:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
