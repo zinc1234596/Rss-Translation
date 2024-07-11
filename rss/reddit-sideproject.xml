@@ -4,7 +4,42 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Thu, 11 Jul 2024 03:17:10 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jul 2024 06:18:36 GMT</lastBuildDate>
+    <item>
+      <title>多次预测：轻松在您最喜欢的 LLM 中运行相同的提示以提高准确性。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e0gohg/many_shot_predictions_easily_run_the_same_prompt/</link>
+      <description><![CDATA[      全部 - 您是否想过多次运行模型是否可以提高预测的准确性？受到一条推文的启发，有人在推文中通过模拟肯塔基赛马会的 100 场比赛结果赚了 2400 美元，我决定将这个想法付诸实践。 我构建了一个名为Many Shot Predictions的开源应用程序 - 这是一个简单的应用程序，旨在在各种模型中多次运行提示，有效地模拟蒙特卡罗预测方法。 为什么要进行 Many Shot Predictions？ 核心思想很简单：通过多次运行相同的提示，我们能否从模型中提取更好的准确性和预测能力？此应用程序可让您轻松执行这些模拟，从而提供一种利用多次迭代的优势来获得更可靠结果的方法。 功能  模型灵活性：从 Anthropic AI、OpenAI、Gemini 甚至本地模型（通过 transformers.js 的 Qwen-1.5-0.5B）中进行选择。 简单的界面：输入您的提示，选择您的选项，并定义模拟次数。 可视化：包括一个时尚的 shadcn 图表，用于直观表示结果。 开源：本着合作和改进的精神，该项目完全开源。在 GitHub 上查看并做出贡献！  工作原理  输入提示：输入您想要模拟的提示。 选择模型：从各种模型中进行选择。请注意，本地模型速度较慢，最适合用于测试。 运行模拟：定义迭代次数。该应用程序运行这些模拟并汇总结果。 查看结果：该应用程序以可视化方式呈现数据，使其易于解释和分析。  试试看  演示应用程序：在演示应用程序上测试本地模型。 GitHub Repo：在GitHub上克隆存储库并试验不同的模型。  让我知道你的想法！ 演示    提交人    /u/alvisanovari   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e0gohg/many_shot_predictions_easily_run_the_same_prompt/</guid>
+      <pubDate>Thu, 11 Jul 2024 04:51:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>评价我的产品理念：语音日志 - 将电报语音信息转换为精美的日志。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e0g6n4/rate_my_product_idea_voice_journal_turn_telegram/</link>
+      <description><![CDATA[大家好， 我一直在研究一个名为语音日记的产品创意。它将传统的日记实践与直接来自 Telegram 或 WhatsApp 的语音消息的便利性相结合（无需其他应用程序。只需将机器人添加到联系人并开始交谈）。语音日记转录语音消息并创建一个漂亮的日记，可以随时从语音日记网站访问。此外，用户可以使用我们的机器人询问旧日记的摘要。 我很想听听你对这个概念的想法和反馈。你觉得使用语音消息来增强你的日记体验怎么样？这是你能想象自己使用的东西吗？    提交人    /u/Adventurous-Bee1052   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e0g6n4/rate_my_product_idea_voice_journal_turn_telegram/</guid>
+      <pubDate>Thu, 11 Jul 2024 04:22:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>您无需成为营销专家即可发展您的业务。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e0fyz6/you_dont_need_to_be_a_marketing_expert_to_grow/</link>
+      <description><![CDATA[  由    /u/Nice_Aioli_9991  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e0fyz6/you_dont_need_to_be_a_marketing_expert_to_grow/</guid>
+      <pubDate>Thu, 11 Jul 2024 04:10:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个免费工具来制作前后图像对比的动画</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e0foxt/i_build_a_free_tool_to_animate_beforeandafter/</link>
+      <description><![CDATA[当我开发我的图像增强服务时，我经常需要记录动画前后图像比较。所以我自己解决了这个问题并创建了一个工具来做到这一点。 现在，它可以  从远程 URL 加载图像或从本地拖放图像，并提供靠近 imgsli.com 的比较滑块 滑块可以通过循环中的平滑曲线时间函数进行动画处理。  所有这些都是在浏览器中完成的，因此用户可以免费使用它。 但是，有一些功能计划但尚未实现，包括  直接从工具导出视频。这可能需要在服务器上渲染视频。 如果图像非常大，请最大化图像。 可自定义背景。  我使用 macOS 中的内置屏幕录像机（快捷方式：⌘+⇧+5）来获取动画视频。它如下所示。 动画图像比较 工具链接：https://pixels-ai.com/image-compare-tool    提交人    /u/chuckjchen   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e0foxt/i_build_a_free_tool_to_animate_beforeandafter/</guid>
+      <pubDate>Thu, 11 Jul 2024 03:54:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>每天编码简单工具的第二天 - 图像转换器</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e0f4q2/day_2_of_coding_simple_tools_every_day_image/</link>
+      <description><![CDATA[        由    /u/PickleDue3394   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e0f4q2/day_2_of_coding_simple_tools_every_day_image/</guid>
+      <pubDate>Thu, 11 Jul 2024 03:24:11 GMT</pubDate>
+    </item>
     <item>
       <title>工具和紧固件识别应用程序</title>
       <link>https://www.reddit.com/r/SideProject/comments/1e0etf5/tool_and_fastener_identifying_app/</link>
@@ -74,41 +109,6 @@
       <description><![CDATA[大家好，我想分享一个我一直在做的项目，叫做 SemRoute，我很乐意得到你们的反馈。SemRoute 是一个语义路由器，它使用向量嵌入根据语义含义路由查询。它设计灵活且易于使用，无需训练分类器或使用大型语言模型。下面是一个简要概述： - 支持多种嵌入模型（OpenAI、MistralAI） - 支持自定义嵌入模型 - 提供动态和静态阈值 - 允许不同的评分方法（个体平均、质心） 您可以在 GitHub 上查看它：https://github.com/HansalShah007/semroute。我非常感谢这个社区对如何改进它或您认为它可能适合的用例的任何反馈或建议。谢谢！    由   提交  /u/Supernovae77   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1e09njc/pypi_package_for_semantic_routing/</guid>
       <pubDate>Wed, 10 Jul 2024 22:58:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>佩洛西交易首次发布 - 当国会议员进行交易时收到通知</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e099y3/pelosi_trade_1st_launch_get_notified_when/</link>
-      <description><![CDATA[经过 3 个月的运行，这是我们在 Product Hunt 上的首次发布。 使用 Pelosi Trade，您可以及时获得公开国会交易详情的通知。   https://www.producthunt.com/posts/pelosi-trade https://pelositrade.com      提交人    /u/tim-r   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e099y3/pelosi_trade_1st_launch_get_notified_when/</guid>
-      <pubDate>Wed, 10 Jul 2024 22:41:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>我编写了一个程序来从 pdf 文件中删除白色，并返回具有透明背景的 png。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e097z3/i_made_a_program_to_remove_the_white_from_a_pdf/</link>
-      <description><![CDATA[这不是什么超级疯狂的东西，我相信还有其他版本，但我找不到任何免费的东西，我的同事厌倦了手动执行此操作。 他经常一次获得 40-200 个包含单个图像的 pdf，只需删除白色部分并保存为 png。好了，我已经为他找到了一种方法，只需指向包含所有文件和进程的文件夹！ 我对自己有点自豪，因为自从训练营以来我还没有做过任何 python。 我将代码和 exe 放在那里供任何人使用。我希望你能从中找到价值。  https://github.com/KeithKorter/pdf_to_png    由   提交  /u/FvnGai   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e097z3/i_made_a_program_to_remove_the_white_from_a_pdf/</guid>
-      <pubDate>Wed, 10 Jul 2024 22:39:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>有什么想法吗？：一款用于清仓旧货的新 Shopify 应用程序</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e08cud/any_thoughts_a_new_shopify_app_for_clearance_of/</link>
-      <description><![CDATA[所以我最近发布了这个 Shopify App，我一直用它来清理我合作的商店中的旧物品。https://apps.shopify.com/rusty-bucket。 如果您对我的想法有任何看法，我将不胜感激。 背景故事： 所以我最近一直在帮助一家 Shopify 商店处理管理方面的各种事务。这家商店有大量产品 - 数千种。因此，很难追踪在库存中放置时间过长的产品。当我们想要进行清仓大甩卖时，很难找到合适的产品。 唯一简单的方法是使用应用程序，但似乎没有集中的应用程序来管理清仓产品的识别，然后在一个集成的地方进行销售。  目前查找要清理库存的商品的过程似乎存在这些问题：  许多应用程序都是一招鲜，您需要为每个过程步骤使用不同的应用程序，即使用产品的创建日期创建集合的应用程序。 许多应用程序不可靠，您需要反复试验多个应用程序才能找到合适的应用程序。 如果您从商店中删除某个应用程序，它们通常会在店面中留下大量垃圾，您必须手动从代码中删除这些垃圾。  因此，我最终放弃了应用程序，转而专注于使用 API 选择清仓产品并编写各种脚本。但它给了我一个想法 - 为什么不制作一个应用程序，将处理清仓和旧库存的所有功能都集中在一个地方？我这样做的重点是让我自己和不太懂技术的店主能够更轻松地处理商店工作。 应用程序 我最近免费发布了 Rusty Bucket。整个想法是您可以根据年龄标准（即它们在您的商店中存放了多长时间）为您的产品制作收藏集。例如，如果您有一家自行车商店，您想识别出需要从库存中清除的几个季节的旧零件 - 收藏集将识别这一点。 然后使用相同的应用程序，您可以对这些收藏集执行各种操作，例如降价或批量停用。 为了解决应用程序混乱的问题，所有内容目前都在后端，您的店面没有任何变化，并且流程中的所有步骤都已得到满足。  未来 我正在寻找一些反馈，因为我正在权衡扩展应用程序并使其变得更大。 我正在考虑添加：  在一定时间段后自动更改价格 拍卖 干净的前端集成，没有混乱 对应清除的商品进行分类的更详细标准（即同时使用年龄和销售量） 产品年龄/销售分析 与 CMS 系统的连接  如果能看看是否值得在我的想法上进行构建，我将不胜感激。干杯。    提交人    /u/Illustrious_Bat896   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e08cud/any_thoughts_a_new_shopify_app_for_clearance_of/</guid>
-      <pubDate>Wed, 10 Jul 2024 22:04:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找替代营销策略</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e07yvo/looking_for_alternative_marketing_strategies/</link>
-      <description><![CDATA[您好！我是一位连续创业者，专攻订阅式 SaaS 产品，我满怀热情地在充满挑战、竞争不激烈的市场中采用游击战术推出了许多产品。 然而，即使采用这种方法，我仍感觉到一种趋势，即所有显而易见的营销方法（搜索/广告系统）都变得不那么民主。企业和风险投资支持的初创公司正在主导这些渠道，甚至让它们并不需要的次要利基市场变得价格高昂。“海洋正在变红”。 我想问您，您知道哪些营销策略可以被视为非竞争性或游击战术，能够替代众所周知的促销方法？ 我欢迎任何评论和问题，以及 DM。我已准备好分享我在连续创业和在充满挑战的条件下创业的经验。    提交人    /u/offtopfounder   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e07yvo/looking_for_alternative_marketing_strategies/</guid>
-      <pubDate>Wed, 10 Jul 2024 21:48:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>刚刚完成了一个玩戏剧/家庭游戏的网站：​​一个词的故事！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e07mle/just_finished_a_website_to_play_the/</link>
-      <description><![CDATA[        由    /u/Majestic_Strain 提交   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e07mle/just_finished_a_website_to_play_the/</guid>
-      <pubDate>Wed, 10 Jul 2024 21:34:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
