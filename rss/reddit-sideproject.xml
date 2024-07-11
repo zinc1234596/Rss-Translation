@@ -4,7 +4,84 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Thu, 11 Jul 2024 12:25:27 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jul 2024 15:13:52 GMT</lastBuildDate>
+    <item>
+      <title>我该如何开始？ - 公开现场构建 SaaS，第 10 天</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e0r8qj/how_do_i_get_started_livebuilding_a_saas_in/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e0r8qj/how_do_i_get_started_livebuilding_a_saas_in/</guid>
+      <pubDate>Thu, 11 Jul 2024 15:09:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>我构建了一个免费的无代码 MVP Builder Guide AI Wrapper。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e0qwm7/i_build_a_free_nocode_mvp_builder_guide_ai_wrapper/</link>
+      <description><![CDATA[      我制作了免费的 AI 无代码 MVP 构建指南，想与大家分享！ 构建 MVP 可能很困难，特别是如果您不具备编码技能。 MVP 构建指南通过回答有关您的目标受众、核心功能和独特价值主张的几个简单问题来工作， 您将收到有关如何使用无代码工具构建 MVP 的详细指南。 在 MVP Recipes 上查看，如果您觉得有用，请告诉我！ https://preview.redd.it/ob94kve9lwbd1.jpg?width=765&amp;format=pjpg&amp;auto=webp&amp;s=16f02cb726bfe33660652ed9a16b1657f27c173a    提交人    /u/T4times   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e0qwm7/i_build_a_free_nocode_mvp_builder_guide_ai_wrapper/</guid>
+      <pubDate>Thu, 11 Jul 2024 14:55:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>我构建了一套 AI 代理来帮助我优化预算并做出更好的投资决策</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e0qopg/i_built_a_suite_of_ai_agents_to_help_me_optimize/</link>
+      <description><![CDATA[我使用 ~Dagger~ 和 GitHub Actions 构建了一个容器管道，以自动执行获取、更新和构造数据以发送到代理工作流的过程，使用 ~LangChain~ 与多个 LLM 模型进行交互，这些模型使用工具和自定义函数来帮助我回答这些问题；  我和我的妻子是否可以从我们的支出中学到趋势和习惯，我们可以采取哪些可行的见解来帮助我们更好地实现财务目标？ 我如何分析和总结必要的信息和数据，以帮助我做出更明智的投资决策？  使用第一个管道（Budgeting Buddy）：  我使用 Google 表格中的 Tiller 插件从多家银行获取交易账户 我使用 GitHub Actions 每 4 天触发一次容器管道 第一个容器从电子表格中获取交易 另一个容器从 MongoDB 数据库获取交易，以筛选新交易 下一个容器使用零样本分类模型；facebook/bart-large-mnli 将我的交易分为不同的类别（杂货、零食、外卖、娱乐、交通、信用卡支付、购物、个人护理和医疗保健） 下一个容器将此数据写入 MongoDB 数据库 我重用从 MongoDB 获取数据的容器，并将输出传递给构造数据的方法。具体来说，我使用 Atlas Search 来汇总周和类别级别的数据 我将这个输出传递给一个容器，该容器进行多次 OpenAI 调用来执行任务，以生成细致入微的建议（基于历史支出）来帮助我预算 我将这个输出发送到另一个容器，该容器通过短信将此反馈发送回我  Dagger 模块：~https://daggerverse.dev/search?q=EmmS21~  我的第二条管道（投资优化器）：  从我的 Google 表格中获取数据（重用上一个管道中的模块） 专门提取我的债务并构造这些数据 我的 AI 代理与一些工具进行交互（获取股票 - 使用在 Dagger 模块内部运行的方法，plotly- 绘制可视化效果来解释决策的理由该函数使用通过搜索不同类型债务检索到的数据并对信息进行评级，即这种类型的债务对影响我的信用评分的因素有高、低还是中等影响，将LLM 产生的高、低和中等评级转换为乘数。该函数使用这些乘数来改变利率，不仅考虑利率，还考虑“债务的重要性”。我还有另一个函数，它说明了偿还所有最低还款额的逻辑，然后比较偿还每 1000 美元债务的利息节省与根据过去的回报投资高绩效股票的回报。每个选项分配百分比，并根据此分配剩余的可用资金。 输出通过另一个容器通过电子邮件发送给我。  我目前正在重建投资优化器，专注于帮助我做出明智的投资决策。这意味着考虑基本面分析，而不仅仅是历史回报率（即我正在查看 10 年期间的 10-Q 和 10-K 文件数据以及搜索数据，以构建 AI 代理，该代理每月将识别 2 只股票并生成这些股票的摘要以及可能推动其增长的因素。我会使用这些信息对股票进行更多研究，并在有意义的情况下进行投资）。这是我构建的演示文稿：~https://www.youtube.com/watch?v=YxfW-TgOGkc~     提交人    /u/MoodAppropriate4108   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e0qopg/i_built_a_suite_of_ai_agents_to_help_me_optimize/</guid>
+      <pubDate>Thu, 11 Jul 2024 14:45:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>4 个付费客户，70 个用户，发布前 3 天，上线 1 周</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e0qeyo/4_paying_customers_70_users_3_days_before_launch/</link>
+      <description><![CDATA[今年夏天，我决定开始我的独立开发者/独行侠之旅。距离我在 ProductHunt 上发布我的第一个项目还有三天时间，我想分享我迄今为止的真实体验。 我在 2-3 周内构建了 BlitzToksAI。这是一个生成无脸 TikTok 视频的 AI 工具。它从上周四开始上线，所以正好一周。我计划在周日在 Product Hunt 上发布它，目标是最平静的一天，这样我就可以排名尽可能高，因为我在周中没有大量的粉丝可以竞争。 我在 X、Reddit、Hacker News 和 YouTube 上分享了这款应用。到目前为止，这为我带来了大约 70 个用户；其中 4 人购买了积分（一次性付款），总共有 390 位独立访客。我在 X 上获得了 40 位粉丝，从 0 开始。 显然，收入并不高，我也不认为发布后会有所改变。希望我能获得更多付费客户，但可以肯定的是，没有什么特别的。但是，这对我来说不是问题，因为我不相信独角兽项目。我未来的计划是继续构建越来越多的项目，分享我的旅程，与社区互动，理想情况下获得追随者。 到目前为止，我发现最积极的事情是我在构建和分享我的应用程序时想出的新想法数量。以前，我很难找到想法，但现在我保留了一份想法清单。所以，构建 -&gt; 发布并重复。周日是发布日；周一我开始一个新项目。 祝我发布顺利！我很乐意听取您对应用的反馈 — 包括着陆页和所有内容。我希望这不是垃圾邮件，但如果您愿意，我们可以在 X 上联系    提交人    /u/__proto__null   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e0qeyo/4_paying_customers_70_users_3_days_before_launch/</guid>
+      <pubDate>Thu, 11 Jul 2024 14:33:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个可以浏览网页的 AI 搜索引擎！请她实时汇总链接（包括 PDF）或从任何网站（亚马逊、Reddit……）获取信息</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e0qeku/i_made_an_ai_search_engine_that_can_browse_the/</link>
+      <description><![CDATA[        提交人    /u/nobilis_rex_   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e0qeku/i_made_an_ai_search_engine_that_can_browse_the/</guid>
+      <pubDate>Thu, 11 Jul 2024 14:33:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>我正在开发一款产品，以便更快（更好地）分析客户反馈</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e0pyeb/im_working_on_a_product_to_analyze_customer/</link>
+      <description><![CDATA[        由    /u/giovannibrando  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e0pyeb/im_working_on_a_product_to_analyze_customer/</guid>
+      <pubDate>Thu, 11 Jul 2024 14:13:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>C++代码生成器旨在帮助构建分布式应用程序</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e0ptq5/c_code_generator_intended_to_help_build/</link>
+      <description><![CDATA[嗨。我有一个 C++ 代码生成器，可帮助构建分布式应用程序。它以 3 层系统的形式实现。中间层和前端层是开源的。后端和中间层仅在 Linux 上运行。前端层是可移植的。如果我们将我的软件用作项目的一部分，我愿意每周花 16 个小时在项目上，为期六个月。还有推荐奖金。    提交人    /u/Middlewarian   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e0ptq5/c_code_generator_intended_to_help_build/</guid>
+      <pubDate>Thu, 11 Jul 2024 14:07:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人能告诉我他们每天或每周遇到的一些问题，可以借助软件解决吗</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e0phpr/can_anybody_suggest_me_some_problems_they_face_in/</link>
+      <description><![CDATA[  由    /u/Dazzling_Public5133  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e0phpr/can_anybody_suggest_me_some_problems_they_face_in/</guid>
+      <pubDate>Thu, 11 Jul 2024 13:53:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一份免费的时事通讯，其中包含您选择的主题的简化每日新闻，以练习语言（noospeak.com）</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e0p60w/i_made_a_free_newsletter_to_practice_languages/</link>
+      <description><![CDATA[        提交人    /u/imaginkation   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e0p60w/i_made_a_free_newsletter_to_practice_languages/</guid>
+      <pubDate>Thu, 11 Jul 2024 13:38:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>提高开发团队的生产力</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e0o7zv/boost_your_dev_team_productivity/</link>
+      <description><![CDATA[嗨！正在寻找几位工程团队负责人（从 CTO 到高级工程师），他们使用 Slack 和 GitLab/GitHub/JIRA 来测试我们的新生产力工具 我们的新解决方案将帮助您的团队更快地交付代码，让团队活动具有可见性，优先处理重要任务，并使您的团队作为一个高效的单位工作。一切都集中在一个地方 您无需浏览所有工具即可了解团队的进度，不会错过关键产品发布的截止日期，也不会让团队成员处理不优先的任务 如果您愿意尝试并提供一些反馈，请告诉我 PS：作为感谢，您可以在测试期间免费使用该工具！    提交人    /u/eqsbrilldev   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e0o7zv/boost_your_dev_team_productivity/</guid>
+      <pubDate>Thu, 11 Jul 2024 12:52:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>终于在 iOS 和 Android 上发布了我的第一款游戏</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e0np9p/finally_released_my_first_game_on_ios_and_android/</link>
+      <description><![CDATA[几个月来一直在筹备这个项目，真的很高兴终于可以向全世界发布了。我的最高分是 782，想知道是否有人能打败它，这很有趣 😁 可在 AppStore 和 Google Play 上获取：https://splashgame.app https://reddit.com/link/1e0np9p/video/jsuoqravuvbd1/player    提交人    /u/asharghi   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e0np9p/finally_released_my_first_game_on_ios_and_android/</guid>
+      <pubDate>Thu, 11 Jul 2024 12:25:42 GMT</pubDate>
+    </item>
     <item>
       <title>我创建了 Blainy，一个为学生和研究人员提供的 AI 写作助手</title>
       <link>https://www.reddit.com/r/SideProject/comments/1e0nkr3/i_built_blainy_an_ai_writing_assistant_for/</link>
@@ -32,83 +109,6 @@
       <description><![CDATA[我正在免费推出我的 SAAS 你认为这是个好主意吗 ？ 所以我几乎完成了 MVP，我已经在登陆页面中实现了核心功能，用户可以立即免费试用，目前无需付费。 我的想法是像这样启动它，获取用户，获取他们的反馈，然后继续使用仪表板添加付费功能。 你们觉得怎么样？    提交人    /u/ComfortableWave9991   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1e0ms21/im_launching_my_saas_for_free/</guid>
       <pubDate>Thu, 11 Jul 2024 11:36:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>推出服务器资源管理器 - 使用直观的 SSH 客户端简化服务器管理</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e0mrf0/introducing_server_explorer_simplify_your_server/</link>
-      <description><![CDATA[      嗨 r/SideProject！ 我很高兴与大家分享我的最新项目 - Server Explorer。 Server Explorer 是一个 SSH 客户端，旨在使服务器管理变得简单而高效。通过用户友好的文件资源管理器界面，它可以帮助您像在本地计算机上一样浏览服务器的文件系统。以下是一些主要功能：  文件资源管理器界面：轻松浏览、管理、压缩、修改权限和编辑服务器文件。 Cron 作业管理：轻松列出、编辑和删除 cron 作业。 磁盘和Ram 空间显示：一目了然地查看可用磁盘空间。 集成代码编辑器：打开脚本文件以创建 cron 作业并直接运行脚本。 Docker 集成：无缝管理 Docker 映像和容器，具有详细的视图、日志和终端访问。 增强终端：快速访问命令历史记录，轻松重新运行或复制命令。  Server Explorer 旨在为开发人员和系统管理员简化服务器操作，使部署应用程序、监控服务器运行状况和调试配置等任务变得更加简单。 🔗 在这里查看：服务器资源管理器 我很乐意听到您的反馈并回答您可能遇到的任何问题。如果您有兴趣尝试或有改进建议，请随时告诉我！ 感谢您花时间阅读我的项目！ https://reddit.com/link/1e0mrf0/video/8lc08sjhlvbd1/player    提交人    /u/leDoc229   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e0mrf0/introducing_server_explorer_simplify_your_server/</guid>
-      <pubDate>Thu, 11 Jul 2024 11:35:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Shootmail：通过发送美观的电子邮件解决主要痛点</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e0mjqe/shootmail_solving_major_pain_with_sending_good/</link>
-      <description><![CDATA[从今天起，从您的软件发送邮件很容易，只需在任何优质电子邮件提供商上注册，验证您的域名，就可以开始了。主要的挑战在于设计电子邮件。设计电子邮件并不像设计网站那么简单，因为邮件客户端仍然不支持大多数 CSS 属性。您可以在 CanIEmail 上查看。然后是您的客户使用的暗模式和大量电子邮件客户端。所有电子邮件的显示方式都不同。 Shootmail 具有专门构建的、不断增长的电子邮件模板列表，您可以通过传递 JSON 配置并使用 Shootmail 的 SDK 发送来修改这些模板。它是一个完整的邮件平台，您可以在其中注册您的域名、发送电子邮件和跟踪分析。不仅仅是打开、点击和交付，还包括您的链接在地区、设备、浏览器等方面的表现。 考虑到不同规模的业务，定价是可以承受的，2000 封电子邮件起价为 5 美元。 链接：https://shootmail.app/    提交人    /u/subhendupsingh   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e0mjqe/shootmail_solving_major_pain_with_sending_good/</guid>
-      <pubDate>Thu, 11 Jul 2024 11:23:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>这里谁能从他们的项目中赚取每月 1000 美元</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e0lzcc/who_here_makes_1km_from_their_project/</link>
-      <description><![CDATA[我拥有一份商业通讯，其中介绍了其他企业家的成功历程，我想听听那些真正从他们的业务中赚到可观收入的人的故事，以便在我的其中一篇文章中介绍他们。 请简要告诉我们您的历程、您的收入以及您对业务的未来目标。 您可以在此处查看通讯：商业通讯    提交人    /u/FounderShark   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e0lzcc/who_here_makes_1km_from_their_project/</guid>
-      <pubDate>Thu, 11 Jul 2024 10:48:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>我尝试制作 pastebin 替代品供个人使用</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e0lvj9/i_try_making_pastebin_alternative_for_personal_use/</link>
-      <description><![CDATA[大家好！我最近创建了一个类似于 Pastebin 的工具，但没有任何广告。对我来说，这是一种在线分享和组织文本的好方法。我很乐意收到您的反馈和建议，以改进它。您希望看到哪些功能？ https://share.vichaaro.com/    提交人    /u/foundertanmay   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e0lvj9/i_try_making_pastebin_alternative_for_personal_use/</guid>
-      <pubDate>Thu, 11 Jul 2024 10:41:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>我如何通过将 Next.js 项目从 Vercel 迁移到 Cloudflare 来节省成本（并考虑将其转变为 SaaS）</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e0lpvc/how_i_saved_costs_by_migrating_my_nextjs_project/</link>
-      <description><![CDATA[        由    /u/PeaHuge8279   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e0lpvc/how_i_saved_costs_by_migrating_my_nextjs_project/</guid>
-      <pubDate>Thu, 11 Jul 2024 10:32:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>我发布了我的应用程序 Rapidemo，这是一款屏幕演示录像机，可以放大点击并添加自动字幕</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e0lhws/ive_released_my_app_rapidemo_a_screen_demo/</link>
-      <description><![CDATA[    /u/timkonie   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e0lhws/ive_released_my_app_rapidemo_a_screen_demo/</guid>
-      <pubDate>Thu, 11 Jul 2024 10:18:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>您的反馈如何帮助我们转型和改进</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e0l4b8/how_your_feedback_helped_us_pivot_and_improve/</link>
-      <description><![CDATA[我想分享一下我的创业公司“FinanceRants”幕后发生的事情。最近，我们决定根据大家的反馈调整我们的方法。最初，我们有不同的方向，但听到正面和负面的反馈都令人大开眼界。 你们中的一些人指出了我们没有考虑到的事情，这让我们意识到诚实的反馈是多么宝贵。好的、坏的，甚至是丑陋的——这一切都帮助我们将 FinanceRants 的未来愿景塑造得更好。我们认真考虑了你们的建议，并计划做出一些重大改变，以更好地满足潜在用户的需求。 这是一个旅程，我们感谢这个社区和其他社区的意见。每一条反馈都是改进我们平台的垫脚石。 我们很乐意继续这样的对话。您认为什么可以真正改变财务建议/指导工具？您的见解是我们前进的动力，所以不要犹豫！ 期待收到大家的来信！ PS。查看我们的新愿景页面：FinanceRants.com/vision    提交人    /u/mikelonggggggggg   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e0l4b8/how_your_feedback_helped_us_pivot_and_improve/</guid>
-      <pubDate>Thu, 11 Jul 2024 09:53:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>创建了一个 AI 稍后阅读工具 Unapod，您处理信息过载的方式可能会改变！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e0kqjk/created_an_ai_read_it_later_tool_unapod_how_you/</link>
-      <description><![CDATA[近年来，我们被来自 YouTube、Twitter、TikTok 和无数新闻媒体的信息淹没。这对初创公司、研究人员、投资者和知识密集型专业人士来说尤其具有挑战性。虽然订阅新闻 RSS 源有助于保持更新，但我们仍然遇到一些问题，例如多个渠道报道同一主题、忙碌的一天中没有足够的时间阅读所有内容以及信息重要性缺乏优先排序。 因此，我们构建了一个工具来帮助您有效地管理和提炼信息。在 Unapod 中，您可以： 选择您的兴趣：订阅新闻媒体 RSS 链接或提供特定的兴趣关键字。 AI 摘要：我们的 AI 会突出显示您保存的内容中的要点。 阅读或收听：通过阅读文章或在开车时收听音频播客来访问摘要内容。 如果您对该产品感兴趣，请告诉我，我们可以为 Unapod 提供早期访问权限。    提交人    /u/henryshiflow   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e0kqjk/created_an_ai_read_it_later_tool_unapod_how_you/</guid>
-      <pubDate>Thu, 11 Jul 2024 09:27:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>创建隐私政策和条款和条件的工具</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e0k6c3/tools_for_creating_privacy_policy_and_terms_and/</link>
-      <description><![CDATA[大家好，我计划将我的应用发布到应用商店，我想为该应用创建隐私政策和条款和条件。我该怎么做？    提交人    /u/Moy_ore   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e0k6c3/tools_for_creating_privacy_policy_and_terms_and/</guid>
-      <pubDate>Thu, 11 Jul 2024 08:47:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一款学习世界各国国旗的游戏</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e0jxrr/i_made_a_game_for_learning_the_country_flags_of/</link>
-      <description><![CDATA[嗨，r/SideProject！ 我一直都很喜欢地理，而且由于我童年时对足球的兴趣，我学会了很多国家的国旗。 很多，但不是全部！ 所以，我决定为任何喜欢国旗并想提高知识水平的人制作一款免费游戏。你可以与他人竞争，因为每场比赛都是计时的。 如果你想了解更多关于国旗的知识，还有一个迷你维基百科可用。 玩得开心！ https://flagmatch.com    提交人    /u/kyrylo   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e0jxrr/i_made_a_game_for_learning_the_country_flags_of/</guid>
-      <pubDate>Thu, 11 Jul 2024 08:30:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>我要向所有企业家提出一个严肃的问题</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e0jkmr/serious_question_for_all_the_entrepreneurs_here/</link>
-      <description><![CDATA[你是怎么想出这些想法的？我看到很多很酷的项目，也想自己做一个。问题是我真的想不出什么。你能告诉我你的思考过程吗？谢谢    提交人    /u/Luke03_RippingItUp   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e0jkmr/serious_question_for_all_the_entrepreneurs_here/</guid>
-      <pubDate>Thu, 11 Jul 2024 08:04:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
