@@ -4,13 +4,34 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Fri, 12 Jul 2024 00:59:35 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jul 2024 03:15:20 GMT</lastBuildDate>
     <item>
-      <title>你想在 2 个月内成为哪个版本？我建立了一个社区，让我们一起努力成为更好的自己</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e14pym/what_version_do_you_want_to_become_in_2_months_i/</link>
-      <description><![CDATA[       由    /u/Fit_Bee8519  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e14pym/what_version_do_you_want_to_become_in_2_months_i/</guid>
-      <pubDate>Fri, 12 Jul 2024 00:58:26 GMT</pubDate>
+      <title>Overtalk——一款免费的网络对讲机</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e16bpk/overtalk_a_free_walkietalkie_for_the_web/</link>
+      <description><![CDATA[        提交人    /u/va-santh   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e16bpk/overtalk_a_free_walkietalkie_for_the_web/</guid>
+      <pubDate>Fri, 12 Jul 2024 02:20:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>不要再在面试中表现糟糕了——我开发了一款应用程序来帮助练习 [uplevelprep.com]</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e159ab/stop_sucking_at_interviews_i_built_an_app_to_help/</link>
+      <description><![CDATA[        提交人    /u/matt8p   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e159ab/stop_sucking_at_interviews_i_built_an_app_to_help/</guid>
+      <pubDate>Fri, 12 Jul 2024 01:26:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>你想在 2 个月内变成什么样？我建立了一个社区，在这里我们一起努力，利用金钱的力量成为我们自己</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e15759/what_do_you_want_to_become_in_2_months_i_built_a/</link>
+      <description><![CDATA[        由    /u/Fit_Bee8519   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e15759/what_do_you_want_to_become_in_2_months_i_built_a/</guid>
+      <pubDate>Fri, 12 Jul 2024 01:22:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>介绍标记数据：为 Final Cut Pro 精心打造的前卫标记提取应用程序</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e155nr/introducing_marker_data_the_avantgarde_marker/</link>
+      <description><![CDATA[        由    /u/TheSpyWh0L0vedMe  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e155nr/introducing_marker_data_the_avantgarde_marker/</guid>
+      <pubDate>Fri, 12 Jul 2024 01:20:45 GMT</pubDate>
     </item>
     <item>
       <title>我会免费为你做广告</title>
@@ -71,7 +92,7 @@
     <item>
       <title>加入免费健身应用测试版</title>
       <link>https://www.reddit.com/r/SideProject/comments/1e112kz/join_free_fitness_app_beta/</link>
-      <description><![CDATA[我们正在构建一个表单识别工具，正在寻找参与者加入我们的测试版。如果您有兴趣，请直接发信息给我。    由    /u/olia_bi  提交  [链接] [评论]]]></description>
+      <description><![CDATA[我们正在构建一个表单识别工具，正在寻找参与者加入我们的测试版。如果您有兴趣，请直接发私信给我。    由    /u/olia_bi  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1e112kz/join_free_fitness_app_beta/</guid>
       <pubDate>Thu, 11 Jul 2024 22:04:58 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[无广告、非付费用户、自然流（搜索和注册）我应该担心吗？因为在某些国家，这看起来像是 VC 融资的不良数据？    由   提交  /u/LessDraw1644   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1e0zv43/my_app_2k_users_in_3_months/</guid>
       <pubDate>Thu, 11 Jul 2024 21:12:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>GolfEase 推出：过去几周内有 50 名用户 - 寻找下一步</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e0zs47/golfease_launch_50_users_in_past_weeks_looking/</link>
-      <description><![CDATA[      嘿 /r/SideProject， 几周前，我推出了我的 iOS 应用程序 GolfEase，现在有大约 50 个用户。我正在寻求有关如何继续成长的建议。  关于 GolfEase： GolfEase 是一款面向高尔夫球手的简单易用的应用程序，提供：  距离测量：到果岭的准确距离，以及某些球场的障碍物和地标的准确距离。 交互式地图：可视化您的位置并规划击球。 得分跟踪：轻松跟踪得分、推杆和开球。 深入统计数据：查看详细统计数据，如平均得分和开球准确度。 球员见解：确定优势和改进领域。 风向：在球场上不容易注意到风向时检查风向。  我知道市场竞争激烈，但我发现大多数高尔夫应用程序非常臃肿且难以使用。 GolfEase 保持简单。 您甚至不需要帐户。 只需在球场上输入您的差点并开始挥杆即可。  在 iOS App Store 这里 查看。   我所做的： 为了推广 GolfEase，我：  与 Reddit 上的高尔夫社区互动。  尝试过 Apple Search Ads，但发现每次点击的费用很高。    需要建议： 我接下来应该尝试哪些策略来吸引更多用户？ 有没有更具成本效益的方式来营销应用？欢迎提出任何建议。 谢谢！    提交人    /u/epppee   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e0zs47/golfease_launch_50_users_in_past_weeks_looking/</guid>
-      <pubDate>Thu, 11 Jul 2024 21:09:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>🕙 秒表/计时器小应用</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e0zj4f/stopwatchtimer_small_app/</link>
-      <description><![CDATA[        提交人    /u/maxpagesword   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e0zj4f/stopwatchtimer_small_app/</guid>
-      <pubDate>Thu, 11 Jul 2024 20:58:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>我启动了 B2C 副项目，但没有任何进展。我错过了什么？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e0zenx/i_launched_my_b2c_sideproject_but_not_getting_any/</link>
-      <description><![CDATA[TLDR：我建立了一个 B2C 服务，但很难让人们注册并收集反馈。链接如下。 大家好，像你们中的许多人一样，我很擅长构建事物，但获得用户完全是另一回事。 我刚刚启动了我的第二个项目，从我的第一个项目中吸取了很多教训。我的第一个项目在全职工作了 5 年后失败了。这是一款手机游戏，虽然它非常精致并吸引了一些大型出版商的注意，但最终它没有“粘性”他们正在寻找。 对于这个项目，我决心不再重复上次所犯的错误，主要是：  不要辞职（说真的，我辞去了第一份高薪工作，去追求一个甚至还没有达到 MVP 阶段的想法。这很糟糕，不要这样做。） 专注于一组核心功能 学会对“足够好”感到满意 快速交付并根据用户反馈进行迭代  对于我的第二个项目，我实际上设法坚持了这些要点，但我在最后一个方面遇到了麻烦。 我不知道如何说服除了几个朋友和家人之外的人尝试我的产品。即便如此，他们中的大多数人也会说“哇，这真的很酷，我一定会看看！”然后他们就懒得注册了。不过人们很忙，他们甚至可能不是目标客户，所以我明白。 我尝试过的方法  我尝试过在社交媒体上发帖，但我没有关注者，所以这就像对着虚空大喊大叫。例如，我在 X 上的帖子只有 1 次浏览，即使使用了热门标签也是如此。 我尝试过在一些 Facebook 群组上发帖，但它们都有禁止自我推销的规则，所以我的帖子只获得了几个赞，仅此而已。 尝试过在 Reddit 上发帖，但结果和上面一样。 我花了 25 美元在 Meta 广告上，并获得了惊人的 10% 的点击率，但他们都是 65 岁以上的人，所以并不是我的目标受众。当我将年龄范围限制在 18-45 岁时，点击量就慢了下来。即便如此，在花费 25 美元获得 200 次点击后，我也没有获得任何注册。 我正在尝试提交目录和 SEO，但这需要时间，而且是完全不同的麻烦。我认为我需要先解决为什么人们不先注册，然后再投入更多精力进行 SEO。  这篇文章很长，所以我会尽量总结一下。我的项目是 painterize.com，这是一个 Web 应用程序，可让您使用 AI 创建自己的墙壁艺术。在我建立它之前，我找不到这个领域的那么多服务，但在我建立它的 6 个月里，出现了许多服务。冒着自吹自擂的风险，我觉得我提供的功能和用户体验比他们所有人都好，所以我想找出我缺少的东西。 如果您读到这里，感谢您的阅读！我愿意回答任何问题/吐槽。    提交人    /u/DryBee2606   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e0zenx/i_launched_my_b2c_sideproject_but_not_getting_any/</guid>
-      <pubDate>Thu, 11 Jul 2024 20:52:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
