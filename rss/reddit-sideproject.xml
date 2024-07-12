@@ -4,111 +4,111 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Fri, 12 Jul 2024 12:26:07 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jul 2024 15:13:46 GMT</lastBuildDate>
     <item>
-      <title>我建立了一个免费网站，为您提供主要新闻的快速摘要。它每六个小时自动更新一次。希望您觉得它有用且有帮助</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e1g5tb/i_built_a_free_website_that_gives_you_quick/</link>
-      <description><![CDATA[  由    /u/HaywardUCuddleme  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e1g5tb/i_built_a_free_website_that_gives_you_quick/</guid>
-      <pubDate>Fri, 12 Jul 2024 12:14:21 GMT</pubDate>
+      <title>我制作了一个应用程序，在其中我可以练习让女朋友开心的技巧，以应对让她生气的不同场景......</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e1jwkn/i_made_an_app_where_i_can_practice_techniques_to/</link>
+      <description><![CDATA[        提交人    /u/JasonLoveU   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e1jwkn/i_made_an_app_where_i_can_practice_techniques_to/</guid>
+      <pubDate>Fri, 12 Jul 2024 15:04:49 GMT</pubDate>
     </item>
     <item>
-      <title>我制作了一个 Chrome 扩展程序来提高 Jira 描述差异的可读性</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e1g3ek/i_made_a_chrome_extension_to_improve_jira/</link>
-      <description><![CDATA[      大家好， 作为一个在 Jira 上花费大量时间的人（不幸的是），我总是发现问题描述的默认差异视图难以阅读。因此，我决定创建一个 Chrome 扩展程序来解决这个问题。 事实上，Atlassian 一直在争取在 Jira 中实现此功能，至今已有 14 年多了。是的，您没看错 - 14 年了... 当我们还在等待官方解决方案时，我想创建一些东西来提供帮助。 该扩展程序称为“Jira Diff Highlighter”，它将标准 Jira 差异转换为并排比较并突出显示更改。以下是一些主要功能：  通过并排视图增强可读性 使用颜色编码突出显示添加、删除和修改 高效显示较大更改而不会使视图混乱 在增强和原始差异视图之间轻松切换 跨多个 Jira 选项卡工作  以下是使用扩展程序与不使用扩展程序时描述更新的示例 使用 Jira Diff Highlighter 不使用 Jira Diff Highlighter 该扩展程序是开源的，因此如果您有兴趣，可以在 GitHub repo 上查看代码、做出贡献或报告问题：https://github.com/richiehowelll/jira-diff 您可以在 Chrome 网上应用店中搜索“Jira Diff Highlighter”或点击以下链接找到它：https://chromewebstore.google.com/detail/jira-diff-highlighter/imlebnoogjdcbkaaighofkpfciamehni    由   提交  /u/rawmeniscus   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e1g3ek/i_made_a_chrome_extension_to_improve_jira/</guid>
-      <pubDate>Fri, 12 Jul 2024 12:10:47 GMT</pubDate>
+      <title>AI Copilot 构建器和 SaaS 定价指数</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e1jtgl/ai_copilot_builder_and_saas_pricing_index/</link>
+      <description><![CDATA[多年来，我一直在关注独立黑客和 saas 初创公司。我曾尝试建立自己的公司，但从未成功。几个月前，我辞去了咨询工作，开始全职开发。我制作了两个应用程序，希望得到反馈。 我创建了这个：https://www.promptcopilot.ai/ 还有这个：https://saas-index.replit.app/ 我非常感谢反馈 :)     提交人    /u/kemeny   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e1jtgl/ai_copilot_builder_and_saas_pricing_index/</guid>
+      <pubDate>Fri, 12 Jul 2024 15:01:15 GMT</pubDate>
     </item>
     <item>
-      <title>如何在网上获得关注并赚钱？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e1fdk1/how_can_you_get_attention_online_and_earn_money/</link>
-      <description><![CDATA[我在这里发了一篇帖子：https://www.reddit.com/r/SideProject/comments/1e1fcvh/i_created_free_resources_on_how_to_get_attention/?utm_source=share&amp;utm_medium=web3x&amp;utm_name=web3xcss&amp;utm_term=1&amp;utm_content=share_button 出于某种原因删除了，但我确定你仍然可以以某种方式查看它。    提交人    /u/MishaZagreb   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e1fdk1/how_can_you_get_attention_online_and_earn_money/</guid>
-      <pubDate>Fri, 12 Jul 2024 11:32:17 GMT</pubDate>
+      <title>我正在开发一个人工智能工具来帮助你更好、更快、更强大地推出产品（比如 Daft Punk）</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e1jnye/im_building_an_ai_tool_to_help_you_launch_better/</link>
+      <description><![CDATA[大家好！👋 我是 Noé，一名个体经营者，于 6 月中旬推出了 NestLinker。 今天，我很高兴介绍我的最新副业：DeploySaaS.com。 作为一名小型个体经营者，我在创建 SaaS 产品时遇到了许多挑战。您可能与以下内容相关：  有效地验证想法 确定开发功能的优先级 向潜在用户营销 制定清晰、可行的计划 有效地推广产品  因此，我创建了 DeploySaaS.com，以帮助我在启动微型 SaaS 时产生更好的影响：D 您现在可以免费加入等候名单！ 我很想听听您的想法和反馈！ 查看演示，如果您有任何要说的，请随时给我留言！ Noé 带着爱 ❤️    提交人    /u/Consistent_Front7774   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e1jnye/im_building_an_ai_tool_to_help_you_launch_better/</guid>
+      <pubDate>Fri, 12 Jul 2024 14:55:02 GMT</pubDate>
     </item>
     <item>
-      <title>Stellera - 一款受 Seterra 启发的天文学问答游戏</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e1ey84/stellera_an_astronomy_quiz_game_inspired_by/</link>
-      <description><![CDATA[        由    /u/Tonmaiinacraft  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e1ey84/stellera_an_astronomy_quiz_game_inspired_by/</guid>
-      <pubDate>Fri, 12 Jul 2024 11:07:41 GMT</pubDate>
+      <title>项目构想组织者</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e1j7g3/project_idea_organizer/</link>
+      <description><![CDATA[大家好，我正在开发一款应用程序，以便更好地组织单独开发的项目想法，我想知道这款应用程序是否有发展前景/潜力。 目前，我有一个概念页面，上面有 10 个我可能永远不会构建的项目，但我选择下一步要构建的内容的部分流程是记下潜在的功能、swot 分析、标题想法等。我也经常使用 gpt 来帮助完成这项工作。 这款应用程序旨在减少充实项目想法的摩擦，并提供比空白概念页面更具针对性的界面。 流程如下：用户输入他们有兴趣构建的项目的简要摘要。然后，该应用程序使用 gpt-4o 生成潜在的标题、功能、swot 分析、电梯游说、品牌细节等。当然，如果您已经有了一些想法，也可以手动添加此信息，然后根据所有功能、当前标题、描述和 swot 的上下文重新生成结果。  我想知道这是否有潜力，是否值得继续努力，或者您是否建议进行任何更改/功能以使其成为人们可以使用的可行应用程序。 任何想法都将不胜感激！  如果您有兴趣查看我目前拥有的内容，我已将其托管在这里目前！     提交人    /u/RevolutionaryElk4157   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e1j7g3/project_idea_organizer/</guid>
+      <pubDate>Fri, 12 Jul 2024 14:35:09 GMT</pubDate>
     </item>
     <item>
-      <title>寻找队友</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e1eqiu/looking_for_a_teammate/</link>
-      <description><![CDATA[我开始从事一个新项目，并希望提供包含 IaC 和可观察性的类似 vercel 的新型开源替代方案。需要 Go 语言技能。 因此，我在寻找一个技术过硬的队友，他有共同的想法，并且愿意参与其中。 常见问题解答：  我可以看看代码吗？ 当然可以，但是它很新，所以里面没有太多内容，只有第一个 POC，由于 reddit 垃圾邮件过滤器，我会在评论中保留链接 要求？ 你不应该拥有所有这些知识，只是渴望学习并在基本 API 方面有一些经验 我不擅长 Go，我可以加入吗？ 可能可以，我可以在那里找到一些小事情来做，提供一些代码审查并分享学习资源，但不能保证 如果市场上有 X，其价值是什么？ 那就是点，没有 X，vercel/render 没有基础设施和可观察性管理，encore 有自己的运行时并在其 SDK 上耦合用户  这不是工作岗位，一切贡献都是免费的，没有人有义务。    提交人    /u/candyboobers   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e1eqiu/looking_for_a_teammate/</guid>
-      <pubDate>Fri, 12 Jul 2024 10:54:46 GMT</pubDate>
+      <title>我需要 500 美元，我可以为你创建一个 iOS 应用程序</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e1j5hy/i_need_500_and_i_can_create_you_an_ios_apps/</link>
+      <description><![CDATA[我可以为您制作一个 iOS 应用程序，但不要与我一起发布，我可以帮助您通过您的帐户发布者发布它。    提交人    /u/Satriawaaans   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e1j5hy/i_need_500_and_i_can_create_you_an_ios_apps/</guid>
+      <pubDate>Fri, 12 Jul 2024 14:32:49 GMT</pubDate>
     </item>
     <item>
-      <title>我制作了一个 AI 版本的线程/推特，其中你是唯一的人类用户，其他人都是 AI 朋友（链接在评论中）</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e1eqei/i_made_an_ai_version_of_threadtwitter_where_you/</link>
-      <description><![CDATA[      它被称为 Melonn（melonn.xyz），一个无人 AI 社交空间。最初的目标是为人们提供一个安全的空间，他们可以在那里说出任何他们想说的话，并得到对他们想法的反馈/回应——无论是有用的见解还是同情的善意话语。如果你感到孤独、迷茫、无聊或悲伤，就来这里表达你的感受，而不必在意别人的想法。  附加的截图是我们的人工智能代理生成的实际评论。我希望你们能喜欢使用 Melonn，欢迎任何反馈/意见！     提交人    /u/Scary_Question2362   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e1eqei/i_made_an_ai_version_of_threadtwitter_where_you/</guid>
-      <pubDate>Fri, 12 Jul 2024 10:54:33 GMT</pubDate>
+      <title>Squirrel Servers Manager 现在支持自动化（免费/开源） - 服务器和容器管理</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e1iwkn/squirrel_servers_manager_now_supports_automations/</link>
+      <description><![CDATA[嗨， 我是 Squirrel Servers Manager 的开发人员，这是一个用于管理您的容器和服务器的一体化自托管解决方案 得益于 cron 触发器，新版本现在支持基本自动化。 我很高兴收到反馈，并期待贡献者帮助提高标准！ https://github.com/SquirrelCorporation/SquirrelServersManager    提交人    /u/SquirrelServers   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e1iwkn/squirrel_servers_manager_now_supports_automations/</guid>
+      <pubDate>Fri, 12 Jul 2024 14:22:04 GMT</pubDate>
     </item>
     <item>
-      <title>使用抖音旅行相关视频作为来源，在谷歌地图上创建一个带有位置、建议和提示的图钉📍</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e1e2bi/create_a_pin_on_google_maps_with_the_location/</link>
-      <description><![CDATA[      大家好！ 我刚刚推出了 odiseo，一个用于规划旅行的网站使用 tiktok + 谷歌地图。 这真的很简单： 1- 粘贴与旅行相关的 tiktok 视频的链接 2- odiseo 将在谷歌地图上创建一个图钉，其中包含源视频的位置、建议和提示 :) 让我知道你的想法！！ https://preview.redd.it/9vvlkypqb2cd1.png?width=2986&amp;format=png&amp;auto=webp&amp;s=71360bbf1c8d63451fb8fb4a7e76541ff0dc35a5    提交人    /u/matxi182   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e1e2bi/create_a_pin_on_google_maps_with_the_location/</guid>
-      <pubDate>Fri, 12 Jul 2024 10:12:16 GMT</pubDate>
+      <title>我的项目将您的代码添加到单个文件中，以方便 gpt 共享。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e1iufa/my_project_adds_your_code_to_a_single_file_for/</link>
+      <description><![CDATA[这是我制作的一个工具，一旦开始使用，您可能会发现很难没有它。  运行：npm install contxt 运行：npx contxt 节省大量时间。  Contxt 是一个简单的工具，它从项目内的文件收集代码，并在您编码时构建一个名为 context.txt 的文件。此文件可用于与转换器轻松共享项目上下文。 https://www.npmjs.com/package/contxt 尝试一下，很想知道您的想法。    提交人    /u/davehorse   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e1iufa/my_project_adds_your_code_to_a_single_file_for/</guid>
+      <pubDate>Fri, 12 Jul 2024 14:19:28 GMT</pubDate>
     </item>
     <item>
-      <title>需要网站建议</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e1e042/need_advice_for_website/</link>
-      <description><![CDATA[我一直在考虑改进我的网站，该网站致力于解决游戏错误 - norbertsflow.com。 我想到了一个想法，即实现一个实时错误解决功能。类似于屏幕底部的支持聊天，但它不会提供通用建议，而是提供真实的、久经考验的解决方案，这些解决方案已经帮助其他用户解决了他们的问题。 为每个可能的问题撰写文章是不可行的，所以也许这种问答格式会更有效。 您觉得如何？这对网站来说是一个有价值的功能吗？我很乐意听到您的想法和任何建议！ 谢谢！    提交人    /u/Least-Syllabub3951   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e1e042/need_advice_for_website/</guid>
-      <pubDate>Fri, 12 Jul 2024 10:08:29 GMT</pubDate>
+      <title>适用于 macOS 的代码片段管理器，但具有许多功能</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e1iqrx/code_snippets_manager_for_macos_but_with_many/</link>
+      <description><![CDATA[      嗨！我制作了一个适用于 macOS 的片段管理器，我想与您分享。它的名字是 CodeMenu，它包含许多与其他片段管理器不同的功能。登陆页面位于 https://extiri.com/codemenu.html，但这里只作了简要说明。 主要功能是侧窗和开源建议应用程序 (https://github.com/Extiri/Suggestions)。两者都允许程序员从任何地方更快地访问代码片段。侧窗使用鼠标直观地执行此操作，而建议则更以键盘为中心，并允许在其他编辑器中内联访问（有关编辑器支持的信息在 README 中）和使用缩写（在其他编辑器中用代码片段替换字符串）。代码片段可以包含占位符（包括普通和高级占位符，如日期、时间或 shell 输出）。还有代码片段商店 - 一个在线代码片段数据库，每个人都可以为其做出贡献，也可以自行托管。代码片段可以直接在 CodeMenu 中运行（默认为 JavaScript，其他需要在设置中设置）和预览（HTML）。还可以使用自然语言进行搜索。还有其他功能，如代码图像生成器、快速代码测试编辑器、RegEx（也可以存储）测试器、内置 AI 访问（ChatGPT、Claude 和本地模型）、每个代码片段的 LaTeX 和流程图以及使用自动化和 HTTP 服务器的可扩展性。 CodeMenu 可在 Mac App Store 按月订阅（https://apps.apple.com/pl/app/codemenu-snippets-manager/id1583463781）上使用，但有 7 天免费试用期。 我很想听听你的看法。欢迎所有反馈。    提交人    /u/PersonOS   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e1iqrx/code_snippets_manager_for_macos_but_with_many/</guid>
+      <pubDate>Fri, 12 Jul 2024 14:15:12 GMT</pubDate>
     </item>
     <item>
-      <title>如何以及在哪里找到与 IT 相关的工作项目？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e1dzlo/how_and_where_to_find_it_releted_projects_for_work/</link>
-      <description><![CDATA[大家好！我对 IT 相关的副业项目很好奇。有人知道我如何才能找到像 Web 和应用程序开发、设计以及与任何编程语言（尤其是 C#、Java 和 Python）相关的项目吗？我打算创办自己的 IT（自由职业）公司。为此，我需要做一些项目。我还没有注册我的公司。但是，我想知道如何以及在哪里可以找到与 IT 相关的项目。这将有助于我建立自己的自由职业或 WFH 公司。如果有人对此有想法，请问可以给出一些建议吗？非常感谢。     提交人    /u/purgetoxicselfhabits   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e1dzlo/how_and_where_to_find_it_releted_projects_for_work/</guid>
-      <pubDate>Fri, 12 Jul 2024 10:07:34 GMT</pubDate>
+      <title>我做了一个更好的when2meet</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e1iaqu/i_made_a_better_when2meet/</link>
+      <description><![CDATA[嘿伙计们，我对 When2meet 很失望，所以我和我的朋友制作了一个很酷的工具，叫做 Schej。 它基本上是 When2meet，但具有更好的用户界面，并且能够在添加您的可用性时查看您的 Google 日历活动。最近我经常用它来安排和朋友们的聚会，尤其是当每个人都从大学回来过暑假的时候。 在 https://schej.it 上查看，如果您有任何反馈，请告诉我！ 编辑：代码完全开源在 https://github.com/schej-it/schej.it 编辑 2：如果您记不住网址，https://betterwhen2meet.com 会重定向到网站 :)    提交人    /u/jony1266   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e1iaqu/i_made_a_better_when2meet/</guid>
+      <pubDate>Fri, 12 Jul 2024 13:55:52 GMT</pubDate>
     </item>
     <item>
-      <title>Product Hunt 值得吗？（我的经验）</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e1dtok/is_product_hunt_worth_it_my_experience/</link>
-      <description><![CDATA[大家好，我是来自 JustBeepIt 的 Farid，2023 年 12 月我们在 PH 上发布并获得了第一名。在这篇文章中，我想回答一个我曾经有过并且我们中的许多人可能仍然有的大问题： “为了在 PH 上获得第一名真的值得这么努力吗？”🤔 让我们先来看看它有多难。 我们必须提前 4 周开始准备，花费无数时间来扩大我们的粉丝群，邀请他们访问我们的预告页面，然后尝试在发布当天向他们所有人发送消息。 所以从 0 到 10，我认为难度级别是 8。 顺便说一句，我正在举办一个免费的在线社区活动，详细解释我们为获得第一名所采取的所有步骤。如果您有兴趣，请随时注册：https://lu.ma/esorwuhz 现在让我们谈谈优点和缺点 缺点：  我们没有获得预期那么多的新用户 如果您的目标受众与 PH 用户不一致，那么您将不会有太大的吸引力 我们为实现这一目标所付出的努力与最初的结果没有关联  优点：  在您的网站上拥有 N1 点徽章有利于提高可信度 如果您打算筹集资金，那么说您获得了第一名会引起投资者的兴趣 非常有助于与其他公司建立合作伙伴关系。正因为如此，我们才得以与 AppSumo 合作，从而带来了 3 万美元以上的销售额。 它可以用作良好的公关手段，吸引更多的用户  “获得第一名本身并没有带来很多成果，但我们正确使用了 N1 徽章，在发布后带来了成果。” 示例：  我在所有社交媒体上发布了关于我们的 N1 位置的信息，这带来了新的注册 我在 Reddit 和 IndieHackers 上发表了多篇关于获得第一名的文章，这本身就带来了成果 发布本身只带来了约 300 个注册，而我们利用 N1 徽章所做的所有事情带来了近 1000 个注册 许多企业与我们联系以寻求合作  因此，更重要的是你如何使用 N1 徽章来获得可信度，而不是你从发布中获得的效果本身。    由    /u/hustle_fred 提交   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e1dtok/is_product_hunt_worth_it_my_experience/</guid>
-      <pubDate>Fri, 12 Jul 2024 09:57:10 GMT</pubDate>
+      <title>我为 Instagram DM 开发了一个无代码自动化工具</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e1i9tq/i_built_a_nocode_automation_tool_for_instagram_dms/</link>
+      <description><![CDATA[过去几个月我一直在研究这个问题。Inrō 是 Instagram DM 的营销自动化工具。您可以自动参与、发送 DM 活动、使用 AI 回答常见问题并连接外部 CRM。 老实说，与 Meta Instagram API 集成简直是地狱。许多规则都没有记录，错误消息充其量是神秘的，而且基本上不存在支持。 尽管如此，我认为我已经设法做得还不错，所以不要犹豫，尝试一下并给我们反馈！ 您可以在这里查看：https://www.producthunt.com/posts/inro    提交人    /u/knightofpie   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e1i9tq/i_built_a_nocode_automation_tool_for_instagram_dms/</guid>
+      <pubDate>Fri, 12 Jul 2024 13:54:44 GMT</pubDate>
     </item>
     <item>
-      <title>InsightProse - 人工智能工具，可将您的文章转换为多格式、可操作的品牌内容。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e1di38/insightprose_aipowered_tool_that_transforms_your/</link>
-      <description><![CDATA[寻求有关 UX/UI 和总体印象的反馈。  我的 beta 注册列表对感兴趣的人开放。 https://insightprose.com/ https://reddit.com/link/1e1di38/video/1v73u0l352cd1/player    提交人    /u/0Toler4nce   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e1di38/insightprose_aipowered_tool_that_transforms_your/</guid>
-      <pubDate>Fri, 12 Jul 2024 09:35:15 GMT</pubDate>
+      <title>由人工智能驱动的自动联系表单提交器</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e1hw8c/automatic_contact_form_submitter_powered_by_ai/</link>
+      <description><![CDATA[      大家好，我最近在业余项目中创建了一个自动联系表单提交器，我附上了 UI 的草稿模拟。现在它只是一个 API。  我和我的合作伙伴一直在帮助一家公司进行链接建设，并意识到提交联系表单是大多数公司首选的推广方式。因此，我们决定创建一个 AI 代理，它可以找到给定网站的联系表单，解决 Recaptcha 问题，并自动编写剧本代码来提交表单。 希望这不会造成严重滥用，但组装起来很有趣。 https://preview.redd.it/1tyvmwyqb3cd1.png?width=2492&amp;format=png&amp;auto=webp&amp;s=e0318dc6b8e99e24cef4766f4c98b4e2aee845fe    提交人    /u/amazingchadwick   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e1hw8c/automatic_contact_form_submitter_powered_by_ai/</guid>
+      <pubDate>Fri, 12 Jul 2024 13:37:28 GMT</pubDate>
     </item>
     <item>
-      <title>“从销售开始：重新构想副业项目成功之路”</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e1dg4n/starting_with_sales_reimagining_the_path_to_side/</link>
-      <description><![CDATA[在追求副业成功的过程中，许多人遵循一条传统路径：确定痛点、设计解决方案、开发最小可行产品 (MVP)，然后将其推向市场进行验证。然而，这种方法可能不是最佳选择。 事实上，更有效的策略是颠倒顺序 — — 从销售开始。 这种方法的核心在于在投入大量时间和资源进行产品开发之前验证市场需求。具体步骤如下： 1. 构建解决方案概念：明确定义您打算解决的问题和您旨在提供的价值。 2. 寻找分销渠道：在开发任何产品之前，首先确定所有可能的渠道，将您的解决方案传达给潜在用户。这可能包括社交媒体、博客文章、演讲、咨询服务等。 3. 直接与用户互动：通过这些渠道，将您的解决方案概念传达给目标受众。收集反馈，了解他们的真正需求和痛点。 4.验证付费意愿：关键的一步是评估用户是否愿意为你的解决方案付费。这可以通过售前、新闻通讯订阅或提供咨询服务来测试。 5.迭代和优化：根据收到的反馈和市场反应不断调整和完善你的概念。 6.开发MVP：只有在确认稳定的付费意愿后才开始开发最小可行产品。 这种“先销售，后开发”的方法可以： 1.最大限度地减少资源浪费 2.确保产品紧密贴合市场需求 3.在开发阶段建立忠诚的用户群 4.提高产品成功的概率 请记住，真正的创新不仅在于解决方案本身，还在于你如何有效地将该解决方案交付给真正需要它的人。通过首先关注销售和用户反馈，你可以大大增加你的副项目成功的机会。    提交人    /u/Dear_Try_8248   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e1dg4n/starting_with_sales_reimagining_the_path_to_side/</guid>
-      <pubDate>Fri, 12 Jul 2024 09:31:23 GMT</pubDate>
+      <title>我开发了一款应用程序，将交互式产品演示和视频整合到一个指南中</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e1htv3/i_built_an_app_that_combines_interactive_product/</link>
+      <description><![CDATA[嘿 Redditors！ 我构建了一款新应用，可让您创建包含视频的交互式产品演示，以指导客户/客户了解您的产品。 这可以很好地向潜在客户展示您的产品，吸引新客户，甚至在帮助中心使用它来提供客户支持或教程。 该产品名为 Dymolab，我期待你们的反馈。    提交人    /u/aminekh   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e1htv3/i_built_an_app_that_combines_interactive_product/</guid>
+      <pubDate>Fri, 12 Jul 2024 13:34:26 GMT</pubDate>
     </item>
     <item>
-      <title>GitHub - Juicyyyyyyy/portfolio_optimizer: 一种通过 AI 集成增强的金融投资组合优化工具，可简化使用</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e1d9h2/github_juicyyyyyyyportfolio_optimizer_a_financial/</link>
-      <description><![CDATA[我注意到网络上确实缺乏开源金融项目，这使得很难找到学习这个复杂领域的资源。这在当今时代尤其不幸，因为一个简单的多元化投资组合策略可以显著提高你的长期购买力。 投资组合优化是选择最佳资产组合以最大化回报同时最小化风险的过程。这是有效财务管理的关键策略。 为了弥补这一差距，我创建了一个开源工具，该工具集成了AI以简化投资组合优化。此工具可让您通过易于使用、适合初学者的桌面应用程序轻松创建多元化资产投资组合并最大化预期回报。  如果您想了解有关该项目的更多信息，请查看项目 GitHub 页面上的 README：https://github.com/Juicyyyyyyy/portfolio_optimizer 。如果您发现该项目很有趣或者您喜欢它，我将非常感激您能为该 repo 加注星标，因为它代表了大量的努力和奉献。谢谢！    提交人    /u/JuicyLis   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e1d9h2/github_juicyyyyyyyportfolio_optimizer_a_financial/</guid>
-      <pubDate>Fri, 12 Jul 2024 09:18:40 GMT</pubDate>
+      <title>有人有兴趣为 Hygeia 做用户访谈吗？如果你有慢性过敏症，可以预约电话/答疑调查</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e1hplp/anyone_interested_in_doing_user_interviews_for/</link>
+      <description><![CDATA[Hygeia 针对慢性病患者的过敏管理。 询问 提供反馈并帮助我们构建一项服务，使患有慢性过敏症的人生活得更轻松。 Hygeia 的工作原理  在不到 5 分钟的时间内与过敏症专科医生交谈以获取建议 分配给一位将全程跟踪您的医生 您的处方会自动续配  这对您有价值吗？如果有价值，如何才能做得更好？    提交人    /u/Honest-Razzmatazz-15   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e1hplp/anyone_interested_in_doing_user_interviews_for/</guid>
+      <pubDate>Fri, 12 Jul 2024 13:28:56 GMT</pubDate>
     </item>
     <item>
-      <title>GeoBingo - 一款与朋友一起四处奔跑并拍摄随机事物的游戏</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e1co5m/geobingo_a_game_were_you_run_around_with_your/</link>
-      <description><![CDATA[      https://github.com/spj2401Dev/GeoBingo Geobingo 是一款开源游戏，您和您的朋友将被分配提示，在现实世界中寻找和拍摄物体。 https://preview.redd.it/v2gblrt7v1cd1.png?width=561&amp;format=png&amp;auto=webp&amp;s=f54b307fc04f5dd0d4d71fe84e88d1bd1218881d https://preview.redd.it/5yvv2rt7v1cd1.png?width=1128&amp;format=png&amp;auto=webp&amp;s=7e88054de901251b17139ab87565fb64f5a2769d https://preview.redd.it/vktckvt7v1cd1.png?width=633&amp;format=png&amp;auto=webp&amp;s=e29f3526d8aec053ea31cfe14570a15ae97accff https://preview.redd.it/pgj1bqt7v1cd1.png?width=633&amp;format=png&amp;auto=webp&amp;s=b90eb89098e1668dcc49e3dcdf0d13b52fcead4b    提交人    /u/Visual_Strike6706   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e1co5m/geobingo_a_game_were_you_run_around_with_your/</guid>
-      <pubDate>Fri, 12 Jul 2024 08:39:07 GMT</pubDate>
+      <title>将您的关系变成数字画廊的网站</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e1hesn/a_website_that_turns_your_relationship_into_a/</link>
+      <description><![CDATA[      我和我的女朋友正在开发一个网站(lovebynotes.com)来存储你们关系中珍贵的回忆、情书和周年纪念日细节 这是我们的个人激情项目，本月底我们将在现实世界中推出它。 目前它只是一个演示，但你可以上传照片、给你爱的人写信，并追踪你的周年纪念日。 我们计划根据用户和 Reddit 用户的反馈添加更多功能。 这是实时网站：lovebynotes.com/home 很想听听你的反馈！  你喜欢什么功能？ 你想看到什么新功能？ 用户体验怎么样？  https://preview.redd.it/88bjass093cd1.png?width=783&amp;format=png&amp;auto=webp&amp;s=2a339c86e15fb6948bab04f540ebdf00bfd4ca6e    提交人    /u/pedrooladeira   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e1hesn/a_website_that_turns_your_relationship_into_a/</guid>
+      <pubDate>Fri, 12 Jul 2024 13:15:06 GMT</pubDate>
     </item>
     <item>
-      <title>创建一个字体网站怎么样？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e1ci2f/how_about_create_a_font_website/</link>
-      <description><![CDATA[      也许有些欧洲或美国的朋友喜欢中文字体。我想创建一个字体网站来生成具有特定字体/布局的图像。你觉得怎么样？  在网站上，你可以选择一些艺术家预先设计的布局和字体。然后输入您自己的角色并轻松生成图像。 当然，您可以更改角色的字体，大小，位置，背景和一些其他材料。最后，单击生成按钮。 下面列出了一些完成的样本： https://preview.redd.it/dm80273ns1cd1.png?width=853&amp;format=png&amp;auto=webp&amp;s=b1a8bb76b06731a88439b02e906a1ea30f0bce42 https://preview.redd.it/l7x3q73ns1cd1.png?width=640&amp;format=png&amp;auto=webp&amp;s=26ee8fe079855a3cdad761a3e32614e895915cde    提交人    /u/Bubbly-Internet4030   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e1ci2f/how_about_create_a_font_website/</guid>
-      <pubDate>Fri, 12 Jul 2024 08:27:20 GMT</pubDate>
+      <title>推出我的第一个 AI 工具。需要您的支持和反馈。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e1hcrf/launching_my_first_ai_tool_need_your_support_and/</link>
+      <description><![CDATA[介绍：askaiform AI 工具可根据您的产品描述生成反馈调查表。这将帮助您了解用户的反应，即这将为每个响应生成摘要，并为您提供每个响应的情感分析 查看链接：askaiform.vercel.app    提交人    /u/lmas3009   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e1hcrf/launching_my_first_ai_tool_need_your_support_and/</guid>
+      <pubDate>Fri, 12 Jul 2024 13:12:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
