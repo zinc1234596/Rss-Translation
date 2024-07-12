@@ -4,7 +4,49 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Fri, 12 Jul 2024 06:18:33 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jul 2024 09:15:12 GMT</lastBuildDate>
+    <item>
+      <title>GeoBingo - 一款与朋友一起四处奔跑并拍摄随机事物照片的游戏</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e1co5m/geobingo_a_game_were_you_run_around_with_your/</link>
+      <description><![CDATA[      https://github.com/spj2401Dev/GeoBingo Geobingo 是一款开源游戏，您和您的朋友将被分配提示，在现实世界中寻找和拍摄物体。 https://preview.redd.it/v2gblrt7v1cd1.png?width=561&amp;format=png&amp;auto=webp&amp;s=f54b307fc04f5dd0d4d71fe84e88d1bd1218881d https://preview.redd.it/5yvv2rt7v1cd1.png?width=1128&amp;format=png&amp;auto=webp&amp;s=7e88054de901251b17139ab87565fb64f5a2769d https://preview.redd.it/vktckvt7v1cd1.png?width=633&amp;format=png&amp;auto=webp&amp;s=e29f3526d8aec053ea31cfe14570a15ae97accff https://preview.redd.it/pgj1bqt7v1cd1.png?width=633&amp;format=png&amp;auto=webp&amp;s=b90eb89098e1668dcc49e3dcdf0d13b52fcead4b    提交人    /u/Visual_Strike6706   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e1co5m/geobingo_a_game_were_you_run_around_with_your/</guid>
+      <pubDate>Fri, 12 Jul 2024 08:39:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>创建一个字体网站怎么样？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e1ci2f/how_about_create_a_font_website/</link>
+      <description><![CDATA[      也许有些欧洲或美国的朋友喜欢中文字体。我想创建一个字体网站来生成具有特定字体/布局的图像。你觉得怎么样？  在网站上，你可以选择一些艺术家预先设计的布局和字体。然后输入您自己的角色并轻松生成图像。 当然，您可以更改角色的字体，大小，位置，背景和一些其他材料。最后，单击生成按钮。 下面列出了一些完成的样本： https://preview.redd.it/dm80273ns1cd1.png?width=853&amp;format=png&amp;auto=webp&amp;s=b1a8bb76b06731a88439b02e906a1ea30f0bce42 https://preview.redd.it/l7x3q73ns1cd1.png?width=640&amp;format=png&amp;auto=webp&amp;s=26ee8fe079855a3cdad761a3e32614e895915cde    提交人    /u/Bubbly-Internet4030   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e1ci2f/how_about_create_a_font_website/</guid>
+      <pubDate>Fri, 12 Jul 2024 08:27:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的副业开始受到关注。我们创建了人工智能虚拟客户来培训你和你的销售人员。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e1bj7i/my_side_project_is_starting_getting_attentions_we/</link>
+      <description><![CDATA[我们团队和我拥有多年的 SAAS 销售工程和销售培训师经验，为创始人和 SMB 销售主管带来顶级销售策略、培训和指导经验。 Peak Mojo 使用我们的 AI 角色扮演工具改变您的销售培训。以下是我们提供的服务：  AI 客户角色扮演：用于真实销售实践的虚拟 AI 角色。 Chrome 插件：从 LinkedIn 收集信息以获得真实场景。 模拟会议：经理审查模拟电话以评估新销售代表。  寻找早期采用者并帮助塑造我们的产品！回复以预订演示会议。我会和你坐下来讨论我们可以如何塑造产品以满足你的需要。 https://www.peakmojo.ai/    提交人    /u/buryhuang   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e1bj7i/my_side_project_is_starting_getting_attentions_we/</guid>
+      <pubDate>Fri, 12 Jul 2024 07:21:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的日记和计划应用程序 Penjo - Pencil Journal 最初是一个业余项目，现已推出 3.0 版本，具有设备上的文本识别和搜索功能</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e1ba32/started_as_a_side_project_my_journaling_planner/</link>
+      <description><![CDATA[嗨，r/SideProject， 我想介绍一下 Penjo，这是一款功能强大但简单的数字日记、规划器和日程应用程序，适用于 Apple 设备，尤其是 iPad。我的目标是创建一个日记应用程序，结合笔和纸的直观感觉（得益于 Apple Pencil 集成）以及数字生态系统的便利性和强大功能。经过一年多的开发和改进，Penjo 凭借 3.0 版达到了一个重要的里程碑，具有设备上手写文本识别和增强的搜索功能。 Penjo 可在 iPad、iPhone、Mac 和 Vision Pro 上使用，旨在帮助你保持井然有序并捕捉生活中的精彩瞬间。 主要功能包括：  以议程为中心的设计：帮助进行每日、每周和每月计划，并轻松在日、周、月和列表视图之间切换。 灵活的输入法：支持 Apple Pencil、文本、图像、形状和地图卡。 增强的搜索和设备上的文本识别：让你能够从手写笔记和图像中查找文本，并将手写笔记复制为文本。 Apple 日历集成：与 Apple 日历和其他日历（如 Google 和 Exchange）同步。 iCloud 同步：让你能够在所有 Apple 设备上访问和编辑笔记。 隐私保护：使用 FaceID/TouchID 保护日记。 小部件：从主屏幕轻松访问你最喜欢的日记  有一个免费版本可以开始使用，还有一个付费版本（一次性付款或 3 天试用月度订阅），其中包括  无限日记和页面， Apple 日历集成， iCloud 同步， 安全日记。  您可以在 https://www.penjoapp.com 上获得有关 Penjo 的更多信息。 您也可以在此处下载：https://apps.apple.com/app/apple-store/id6446053076 如果您有任何疑问，请随时在此处提问。欢迎提出任何反馈和建议。    由    /u/2afer 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e1ba32/started_as_a_side_project_my_journaling_planner/</guid>
+      <pubDate>Fri, 12 Jul 2024 07:04:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>您最喜欢的 AI API 是什么？或者您使用自己的 API 吗？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e1b7bj/what_is_your_favorite_ai_api_or_do_you_use_your/</link>
+      <description><![CDATA[大家好， 您最喜欢使用哪种 AI API？或者您更喜欢创建自己的解决方案？ 例如，HuggingFace、https://replicate.com/、https://fal.ai/ 用于图像 genAI    提交人    /u/Zestyclose_Score4262   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e1b7bj/what_is_your_favorite_ai_api_or_do_you_use_your/</guid>
+      <pubDate>Fri, 12 Jul 2024 07:00:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>我编写了一个将图像转换为 ASCII 艺术的程序</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e1b5g1/i_made_a_program_that_transforms_images_to_ascii/</link>
+      <description><![CDATA[        提交人    /u/bagelpatrol   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e1b5g1/i_made_a_program_that_transforms_images_to_ascii/</guid>
+      <pubDate>Fri, 12 Jul 2024 06:56:37 GMT</pubDate>
+    </item>
     <item>
       <title>每天创建简单工具的第三天 - 使用 DALL-E 2 的图像生成器</title>
       <link>https://www.reddit.com/r/SideProject/comments/1e198wg/day_3_of_creating_simple_tools_every_day_image/</link>
@@ -41,14 +83,14 @@
       <pubDate>Fri, 12 Jul 2024 02:20:36 GMT</pubDate>
     </item>
     <item>
-      <title>不要再在面试中表现糟糕了——我开发了一个应用程序来帮助练习 [uplevelprep.com]</title>
+      <title>不要再在面试中表现糟糕了——我开发了一款应用程序来帮助练习 [uplevelprep.com]</title>
       <link>https://www.reddit.com/r/SideProject/comments/1e159ab/stop_sucking_at_interviews_i_built_an_app_to_help/</link>
       <description><![CDATA[        提交人    /u/matt8p   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1e159ab/stop_sucking_at_interviews_i_built_an_app_to_help/</guid>
       <pubDate>Fri, 12 Jul 2024 01:26:03 GMT</pubDate>
     </item>
     <item>
-      <title>你想在 2 个月内变成什么样？我建立了一个社区，在这里，我们一起努力，利用金钱的力量成为我们自己</title>
+      <title>你想在 2 个月内变成什么样？我建立了一个社区，在这里我们一起努力，利用金钱的力量成为我们自己</title>
       <link>https://www.reddit.com/r/SideProject/comments/1e15759/what_do_you_want_to_become_in_2_months_i_built_a/</link>
       <description><![CDATA[        由    /u/Fit_Bee8519   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1e15759/what_do_you_want_to_become_in_2_months_i_built_a/</guid>
@@ -64,51 +106,9 @@
     <item>
       <title>我会免费为你做广告</title>
       <link>https://www.reddit.com/r/SideProject/comments/1e143l3/ill_make_your_ads_for_free/</link>
-      <description><![CDATA[首先，我没有什么可以推销的。 我的职业是从事广告行业，全职为一个全国性品牌制作广告 - 创意、设计等（很高兴交换 linkedin）。 我这边有空闲时间，我对你们正在从事的项目很感兴趣。 既然你们对自己所做的事情充满热情，甚至在空闲时间做这件事，那么我对广告也是一样。我不求报酬。我所要求的回报就是提供数据（点击率等），这样我就可以进一步改进我的工作。 需要说明的是，我不会为你支付媒体费用（永远不要将这些钥匙交给在线免费提供这些服务的人）。 如果您经营付费媒体，总部位于美国，并且有产品，我很乐意与您讨论。我一直很享受社交和建立积极的长期关系，很高兴能与您合作。  如果您在波士顿，可获得加分 :)    提交人    /u/creative5tuff   [link] [comments]]]></description>
+      <description><![CDATA[首先，我没有什么可以推销的。 我的职业是从事广告行业，全职为一个全国性品牌制作广告 - 创意、设计等（很高兴交换 linkedin）。 我这边有空闲时间，我对你们正在从事的项目很感兴趣。 既然你们对自己所做的事情充满热情，甚至在空闲时间做这件事，那么我对广告也是一样。我不求报酬。我所要求的回报就是提供数据（点击率等），这样我就可以进一步改进我的工作。 需要说明的是，我不会为你支付媒体费用（永远不要将这些钥匙交给在线免费提供这些服务的人）。 如果您经营付费媒体，总部位于美国，并且有产品，我很乐意与您讨论。我一直很享受社交和建立积极的长期关系，我很高兴能与您合作。  如果您在波士顿，可获得加分 :)    提交人    /u/creative5tuff   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1e143l3/ill_make_your_ads_for_free/</guid>
       <pubDate>Fri, 12 Jul 2024 00:26:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>我刚刚发布了我的应用程序 jobforge.ai，这是一款可以针对每份求职申请优化简历和求职信的工具。它还包括一个简历生成器。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e13n0z/i_just_released_my_app_jobforgeai_a_tool_that/</link>
-      <description><![CDATA[        提交人    /u/JobForge   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e13n0z/i_just_released_my_app_jobforgeai_a_tool_that/</guid>
-      <pubDate>Fri, 12 Jul 2024 00:03:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>我用 PHP 和 SQL 构建的招聘工具演示。这是我在短短几天内开发出来的 MVP 产品（我认为尽快将它展示给人们以征求反馈会很好）。非常感谢任何帮助！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e1317k/demo_of_a_recruiting_tool_i_built_in_php_and_sql/</link>
-      <description><![CDATA[        提交者    /u/Head-Gap-1717   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e1317k/demo_of_a_recruiting_tool_i_built_in_php_and_sql/</guid>
-      <pubDate>Thu, 11 Jul 2024 23:34:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>过滤 AWS ip-ranges.json 以仅显示您需要的内容</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e12eev/filter_aws_iprangesjson_to_just_what_you_need/</link>
-      <description><![CDATA[需要是发明之母，她启发了我们。在很多情况下，爬行-行走-跑步系列的爬行只是为了允许我们的云托管软件使用动态 IP 范围（而不是静态 IP 或 VPN 或其他任何东西）。 查看这里！    由   提交  /u/bottombutton   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e12eev/filter_aws_iprangesjson_to_just_what_you_need/</guid>
-      <pubDate>Thu, 11 Jul 2024 23:04:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>根据用户点击/移动的热图分析和特定的改进目标来生成改进的 UI/网站 - Heatbot.io（等候名单 + 预售开放！）</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e12dw5/generate_improved_uiwebsite_based_on_heatmap/</link>
-      <description><![CDATA[        提交人    /u/RightCover6081   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e12dw5/generate_improved_uiwebsite_based_on_heatmap/</guid>
-      <pubDate>Thu, 11 Jul 2024 23:04:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了所有 Google 天气图标的集合，这样你就不必费心了。请随意在你的项目中使用这些图标</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e11ky9/i_created_a_collection_of_all_the_google_weather/</link>
-      <description><![CDATA[        由    /u/MrDarrenGriffin 提交   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e11ky9/i_created_a_collection_of_all_the_google_weather/</guid>
-      <pubDate>Thu, 11 Jul 2024 22:27:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>我设计并组装了我的第一块定制手表</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e117fl/i_designed_and_assembled_my_first_custom_watch/</link>
-      <description><![CDATA[        提交人    /u/JohanLink   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e117fl/i_designed_and_assembled_my_first_custom_watch/</guid>
-      <pubDate>Thu, 11 Jul 2024 22:10:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
