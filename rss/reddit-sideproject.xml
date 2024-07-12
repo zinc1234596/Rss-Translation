@@ -4,111 +4,111 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Fri, 12 Jul 2024 15:13:46 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jul 2024 18:18:22 GMT</lastBuildDate>
     <item>
-      <title>我制作了一个应用程序，在其中我可以练习让女朋友开心的技巧，以应对让她生气的不同场景......</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e1jwkn/i_made_an_app_where_i_can_practice_techniques_to/</link>
-      <description><![CDATA[        提交人    /u/JasonLoveU   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e1jwkn/i_made_an_app_where_i_can_practice_techniques_to/</guid>
-      <pubDate>Fri, 12 Jul 2024 15:04:49 GMT</pubDate>
+      <title>经过两周多的失败，终于在 pygame 中实现了行进立方体</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e1ogke/finallyyy_implemented_marching_cubes_in_pygame/</link>
+      <description><![CDATA[      我受到了 sebastian lague 和他的关于行进立方体的编码冒险视频的启发，从那时起，我一直在反复试验以使这项工作成功，对于那些认为，我是如何在 pygame 中制作这个 3d 视觉效果的，我使用线性代数（旋转矩阵、相机矩阵和投影矩阵）来进行转换。我从 b3agz 的 github 上找到了行进立方体的三角测量表，所以感谢他，真的很想与你们分享我的进展 https://preview.redd.it/j3ibwslap4cd1.png?width=1082&amp;format=png&amp;auto=webp&amp;s=172189b3b5c00bc1bf2ec4303ad55be6f3e51935    提交人    /u/Own_Ad_3368   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e1ogke/finallyyy_implemented_marching_cubes_in_pygame/</guid>
+      <pubDate>Fri, 12 Jul 2024 18:12:20 GMT</pubDate>
     </item>
     <item>
-      <title>AI Copilot 构建器和 SaaS 定价指数</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e1jtgl/ai_copilot_builder_and_saas_pricing_index/</link>
-      <description><![CDATA[多年来，我一直在关注独立黑客和 saas 初创公司。我曾尝试建立自己的公司，但从未成功。几个月前，我辞去了咨询工作，开始全职开发。我制作了两个应用程序，希望得到反馈。 我创建了这个：https://www.promptcopilot.ai/ 还有这个：https://saas-index.replit.app/ 我非常感谢反馈 :)     提交人    /u/kemeny   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e1jtgl/ai_copilot_builder_and_saas_pricing_index/</guid>
-      <pubDate>Fri, 12 Jul 2024 15:01:15 GMT</pubDate>
+      <title>面向求职者的人工智能语音面试练习工具</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e1o6o5/aipowered_voice_interview_practice_tool_for_job/</link>
+      <description><![CDATA[大家好！ 自毕业以来，我一直全职编写不同的软件。在看到我的室友在练习面试时遇到困难后，我创建了Interview Buddy！ Interview Buddy 可以让你  上传简历并输入职位描述。 参与自定义的实时语音互动问题。 根据您的回答和经验获得反馈。  我希望这个工具可以帮助其他正在求职的人。 欢迎大家提供任何反馈，如果您喜欢这个工具，请考虑在Product Hunt上给我们点赞！    提交人    /u/williamwangmi   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e1o6o5/aipowered_voice_interview_practice_tool_for_job/</guid>
+      <pubDate>Fri, 12 Jul 2024 18:01:18 GMT</pubDate>
     </item>
     <item>
-      <title>我正在开发一个人工智能工具来帮助你更好、更快、更强大地推出产品（比如 Daft Punk）</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e1jnye/im_building_an_ai_tool_to_help_you_launch_better/</link>
-      <description><![CDATA[大家好！👋 我是 Noé，一名个体经营者，于 6 月中旬推出了 NestLinker。 今天，我很高兴介绍我的最新副业：DeploySaaS.com。 作为一名小型个体经营者，我在创建 SaaS 产品时遇到了许多挑战。您可能与以下内容相关：  有效地验证想法 确定开发功能的优先级 向潜在用户营销 制定清晰、可行的计划 有效地推广产品  因此，我创建了 DeploySaaS.com，以帮助我在启动微型 SaaS 时产生更好的影响：D 您现在可以免费加入等候名单！ 我很想听听您的想法和反馈！ 查看演示，如果您有任何要说的，请随时给我留言！ Noé 带着爱 ❤️    提交人    /u/Consistent_Front7774   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e1jnye/im_building_an_ai_tool_to_help_you_launch_better/</guid>
-      <pubDate>Fri, 12 Jul 2024 14:55:02 GMT</pubDate>
+      <title>介绍 Anidex：现实世界动物和鸟类的数字 Pokedex！🐦🌳</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e1nton/introducing_anidex_your_digital_pokedex_for/</link>
+      <description><![CDATA[大家好，r/sideproject 社区！ 我很高兴与大家分享我最新的业余项目 Anidex。Anidex 是现实世界动物和鸟类的数字图鉴。如果您热爱自然、野生动物和科技，那么这款应用就是为您准备的！ 功能：  扫描和识别动物 与动物交谈 离线扫描 保存扫描结果 喜欢的动物 排行榜和徽章 探索  技术栈  框架：Flutter 后端：Firebase 人工智能：Gemini 1.5 Pro  未来计划  增强的过滤和探索功能 多样化的排行榜 由人工智能驱动的 Quizlet iOS开发  如果我看到良好的用户采用率，我将继续构建和扩展 Anidex。 查看  GitHub Repo：GitHub 上的 Anidex 应用程序下载：下载 Anidex  我很乐意听到您的想法、反馈和任何建议。欢迎随时试用 Anidex 并分享您的反馈。    提交人    /u/footballforus   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e1nton/introducing_anidex_your_digital_pokedex_for/</guid>
+      <pubDate>Fri, 12 Jul 2024 17:46:24 GMT</pubDate>
     </item>
     <item>
-      <title>项目构想组织者</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e1j7g3/project_idea_organizer/</link>
-      <description><![CDATA[大家好，我正在开发一款应用程序，以便更好地组织单独开发的项目想法，我想知道这款应用程序是否有发展前景/潜力。 目前，我有一个概念页面，上面有 10 个我可能永远不会构建的项目，但我选择下一步要构建的内容的部分流程是记下潜在的功能、swot 分析、标题想法等。我也经常使用 gpt 来帮助完成这项工作。 这款应用程序旨在减少充实项目想法的摩擦，并提供比空白概念页面更具针对性的界面。 流程如下：用户输入他们有兴趣构建的项目的简要摘要。然后，该应用程序使用 gpt-4o 生成潜在的标题、功能、swot 分析、电梯游说、品牌细节等。当然，如果您已经有了一些想法，也可以手动添加此信息，然后根据所有功能、当前标题、描述和 swot 的上下文重新生成结果。  我想知道这是否有潜力，是否值得继续努力，或者您是否建议进行任何更改/功能以使其成为人们可以使用的可行应用程序。 任何想法都将不胜感激！  如果您有兴趣查看我目前拥有的内容，我已将其托管在这里目前！     提交人    /u/RevolutionaryElk4157   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e1j7g3/project_idea_organizer/</guid>
-      <pubDate>Fri, 12 Jul 2024 14:35:09 GMT</pubDate>
+      <title>4年积累的编程概念、架构、设计和学习总结</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e1nj6q/programming_concepts_architecture_design_and/</link>
+      <description><![CDATA[        提交人    /u/Outside_Motor_556   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e1nj6q/programming_concepts_architecture_design_and/</guid>
+      <pubDate>Fri, 12 Jul 2024 17:34:21 GMT</pubDate>
     </item>
     <item>
-      <title>我需要 500 美元，我可以为你创建一个 iOS 应用程序</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e1j5hy/i_need_500_and_i_can_create_you_an_ios_apps/</link>
-      <description><![CDATA[我可以为您制作一个 iOS 应用程序，但不要与我一起发布，我可以帮助您通过您的帐户发布者发布它。    提交人    /u/Satriawaaans   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e1j5hy/i_need_500_and_i_can_create_you_an_ios_apps/</guid>
-      <pubDate>Fri, 12 Jul 2024 14:32:49 GMT</pubDate>
+      <title>我制作了一个用自然语言快速创建日历事件的工具！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e1ngk2/i_made_a_tool_for_quickly_creating_calendar/</link>
+      <description><![CDATA[        由    /u/mikkel01 提交   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e1ngk2/i_made_a_tool_for_quickly_creating_calendar/</guid>
+      <pubDate>Fri, 12 Jul 2024 17:31:21 GMT</pubDate>
     </item>
     <item>
-      <title>Squirrel Servers Manager 现在支持自动化（免费/开源） - 服务器和容器管理</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e1iwkn/squirrel_servers_manager_now_supports_automations/</link>
-      <description><![CDATA[嗨， 我是 Squirrel Servers Manager 的开发人员，这是一个用于管理您的容器和服务器的一体化自托管解决方案 得益于 cron 触发器，新版本现在支持基本自动化。 我很高兴收到反馈，并期待贡献者帮助提高标准！ https://github.com/SquirrelCorporation/SquirrelServersManager    提交人    /u/SquirrelServers   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e1iwkn/squirrel_servers_manager_now_supports_automations/</guid>
-      <pubDate>Fri, 12 Jul 2024 14:22:04 GMT</pubDate>
+      <title>适合户外运动爱好者的数字变速箱</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e1ndna/digital_gearbox_for_outdoor_enthusiasts/</link>
+      <description><![CDATA[大家好，10 个月前我决定学习编程。我不知道具体原因，但我下定了决心。作为一个终生背包客，我知道我应该在这个领域创造一些东西，因为我了解它，所以我决定基本上制作一个“lighter pack”的克隆版，这是一个简单的应用程序，允许您将项目添加到列表中并跟踪您的总背包重量。我决定真正启动我的副项目，因为我认为现在它与其他项目不同。 主要区别：您只需将您曾经创建的项目标记为用于各种活动。这允许您按“活动”进行过滤，例如背包旅行、一日徒步旅行、登山等，这将为您提供该活动的总背包重量。实际上是创建单独的列表。有免费版和付费版。付费版增加了创建“旅行”的额外维度，并允许您将每个项目链接到不同的网站。非常适合那些想要与关注者分享他们的设置并通过参考链接获取可能的回扣的户外影响者。  正在努力开发 2.0 版本，这将大大扩展应用程序。路线图即将推出，但我对即将发生的事情更加兴奋。希望得到您的反馈。我在下面链接了我的一个共享列表。如果您愿意对此进行吐槽/评论，请单击菜单，然后单击“主页”将带您进入登录页面。除非这是您的一杯茶，否则无需注册，届时我欢迎您！     提交人    /u/khalant1989   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e1ndna/digital_gearbox_for_outdoor_enthusiasts/</guid>
+      <pubDate>Fri, 12 Jul 2024 17:28:07 GMT</pubDate>
     </item>
     <item>
-      <title>我的项目将您的代码添加到单个文件中，以方便 gpt 共享。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e1iufa/my_project_adds_your_code_to_a_single_file_for/</link>
-      <description><![CDATA[这是我制作的一个工具，一旦开始使用，您可能会发现很难没有它。  运行：npm install contxt 运行：npx contxt 节省大量时间。  Contxt 是一个简单的工具，它从项目内的文件收集代码，并在您编码时构建一个名为 context.txt 的文件。此文件可用于与转换器轻松共享项目上下文。 https://www.npmjs.com/package/contxt 尝试一下，很想知道您的想法。    提交人    /u/davehorse   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e1iufa/my_project_adds_your_code_to_a_single_file_for/</guid>
-      <pubDate>Fri, 12 Jul 2024 14:19:28 GMT</pubDate>
+      <title>免费使用我强大的 ChatGPT Wrapper 应用程序 - 提高您的工作效率 🚀</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e1n8jj/use_my_powerful_chatgpt_wrapper_app_for_free/</link>
+      <description><![CDATA[      大家好， 我每次在手机上执行拼写检查、评论生成等任务时都要复制粘贴/重新输入提示，对此我感到厌倦。因此，我制作了一个应用程序来解决这个问题。 介绍 Gprompt，这是 iPhone 的终极 ChatGPT 提示自动化。  无限创建和重复使用提示模板。 自定义样式和语气。 分享推文和LinkedIn 直接发布（永远不再复制）。 一切都保留在您的 ChatGPT 中。  根据您的需求进行转换：  翻译提示：翻译器 语法提示：词典 回复提示：社交帖子评论生成器 还有更多...  尝试一下：https://apps.apple.com/in/app/gprompt-ai-chat-assistant/id6451086523    提交人    /u/vigneshvp   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e1n8jj/use_my_powerful_chatgpt_wrapper_app_for_free/</guid>
+      <pubDate>Fri, 12 Jul 2024 17:22:19 GMT</pubDate>
     </item>
     <item>
-      <title>适用于 macOS 的代码片段管理器，但具有许多功能</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e1iqrx/code_snippets_manager_for_macos_but_with_many/</link>
-      <description><![CDATA[      嗨！我制作了一个适用于 macOS 的片段管理器，我想与您分享。它的名字是 CodeMenu，它包含许多与其他片段管理器不同的功能。登陆页面位于 https://extiri.com/codemenu.html，但这里只作了简要说明。 主要功能是侧窗和开源建议应用程序 (https://github.com/Extiri/Suggestions)。两者都允许程序员从任何地方更快地访问代码片段。侧窗使用鼠标直观地执行此操作，而建议则更以键盘为中心，并允许在其他编辑器中内联访问（有关编辑器支持的信息在 README 中）和使用缩写（在其他编辑器中用代码片段替换字符串）。代码片段可以包含占位符（包括普通和高级占位符，如日期、时间或 shell 输出）。还有代码片段商店 - 一个在线代码片段数据库，每个人都可以为其做出贡献，也可以自行托管。代码片段可以直接在 CodeMenu 中运行（默认为 JavaScript，其他需要在设置中设置）和预览（HTML）。还可以使用自然语言进行搜索。还有其他功能，如代码图像生成器、快速代码测试编辑器、RegEx（也可以存储）测试器、内置 AI 访问（ChatGPT、Claude 和本地模型）、每个代码片段的 LaTeX 和流程图以及使用自动化和 HTTP 服务器的可扩展性。 CodeMenu 可在 Mac App Store 按月订阅（https://apps.apple.com/pl/app/codemenu-snippets-manager/id1583463781）上使用，但有 7 天免费试用期。 我很想听听你的看法。欢迎所有反馈。    提交人    /u/PersonOS   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e1iqrx/code_snippets_manager_for_macos_but_with_many/</guid>
-      <pubDate>Fri, 12 Jul 2024 14:15:12 GMT</pubDate>
+      <title>看看我表弟使用 ChatGPT 创建的这些应用程序！HyroFits 和 HyroVault！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e1mo25/check_out_these_apps_my_cousin_created_using/</link>
+      <description><![CDATA[      你好！ 有机会的话，请查看我表弟使用 ChatGPT 和 Phind 从头开始​​创建的这些 React 应用程序！他几乎没有编码经验，以前从未构建过应用程序！ 在 HyroFits 上，您可以输入您的年龄、性别、室外温度和着装要求，应用程序会推荐时尚而实惠的服装。它可以帮助您节省浏览多个网站或商店的时间。在为他人寻找礼物时它也很有用。 另一个应用程序 HyroVault 可让您发布您一直在搜索但找不到的物品，希望如果有人看到您的帖子并拥有它，他们可以联系您并可能将其卖给您。例如，如果 HyroFits 推荐了您非常喜欢的服装，但不再出售，您可以在 HyroVault 上发布该物品，看看是否有人有它要出售。  我正在帮助他推广这些应用程序，因此请随意分享，任何反馈都将不胜感激！祝你周末愉快！ hyrofits.com hyrovault.com HyroFits 屏幕录制 HyroVault 屏幕截图    提交人    /u/theglf   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e1mo25/check_out_these_apps_my_cousin_created_using/</guid>
+      <pubDate>Fri, 12 Jul 2024 16:58:47 GMT</pubDate>
     </item>
     <item>
-      <title>我做了一个更好的when2meet</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e1iaqu/i_made_a_better_when2meet/</link>
-      <description><![CDATA[嘿伙计们，我对 When2meet 很失望，所以我和我的朋友制作了一个很酷的工具，叫做 Schej。 它基本上是 When2meet，但具有更好的用户界面，并且能够在添加您的可用性时查看您的 Google 日历活动。最近我经常用它来安排和朋友们的聚会，尤其是当每个人都从大学回来过暑假的时候。 在 https://schej.it 上查看，如果您有任何反馈，请告诉我！ 编辑：代码完全开源在 https://github.com/schej-it/schej.it 编辑 2：如果您记不住网址，https://betterwhen2meet.com 会重定向到网站 :)    提交人    /u/jony1266   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e1iaqu/i_made_a_better_when2meet/</guid>
-      <pubDate>Fri, 12 Jul 2024 13:55:52 GMT</pubDate>
+      <title>受到 perplexity.ai 的启发，我构建了一个由 LLM（AI）驱动的搜索引擎！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e1m7re/inspired_by_perplexityai_i_built_an_llm_ai/</link>
+      <description><![CDATA[大家好，正如标题所示，我构建了一个执行“RAG”或检索增强生成的基本搜索引擎。  它会抓取查询的前 15 个相关链接并进行总结。它还会为您的查询提供相关图像。 它与其他类似网站有何不同？速度，与其他 RAG 搜索引擎相比，它非常快，但可能不如 perplexity 那么快。它使用 groq LPU 进行快速 LLM 接口。  它还会为您提供与您的查询相关的前 2 个相关链接。您可以在此处尝试：https://brainjakai.xyz 请在评论中告诉我您对此的看法 :D   由    /u/divine-architect  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e1m7re/inspired_by_perplexityai_i_built_an_llm_ai/</guid>
+      <pubDate>Fri, 12 Jul 2024 16:40:00 GMT</pubDate>
     </item>
     <item>
-      <title>我为 Instagram DM 开发了一个无代码自动化工具</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e1i9tq/i_built_a_nocode_automation_tool_for_instagram_dms/</link>
-      <description><![CDATA[过去几个月我一直在研究这个问题。Inrō 是 Instagram DM 的营销自动化工具。您可以自动参与、发送 DM 活动、使用 AI 回答常见问题并连接外部 CRM。 老实说，与 Meta Instagram API 集成简直是地狱。许多规则都没有记录，错误消息充其量是神秘的，而且基本上不存在支持。 尽管如此，我认为我已经设法做得还不错，所以不要犹豫，尝试一下并给我们反馈！ 您可以在这里查看：https://www.producthunt.com/posts/inro    提交人    /u/knightofpie   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e1i9tq/i_built_a_nocode_automation_tool_for_instagram_dms/</guid>
-      <pubDate>Fri, 12 Jul 2024 13:54:44 GMT</pubDate>
+      <title>我制作的 AI 工具可以比任何摄影师更好地扩展任何照片</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e1lnvy/i_made_the_ai_tool_can_expand_any_photos_better/</link>
+      <description><![CDATA[        由    /u/Dry-Application3356   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e1lnvy/i_made_the_ai_tool_can_expand_any_photos_better/</guid>
+      <pubDate>Fri, 12 Jul 2024 16:17:14 GMT</pubDate>
     </item>
     <item>
-      <title>由人工智能驱动的自动联系表单提交器</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e1hw8c/automatic_contact_form_submitter_powered_by_ai/</link>
-      <description><![CDATA[      大家好，我最近在业余项目中创建了一个自动联系表单提交器，我附上了 UI 的草稿模拟。现在它只是一个 API。  我和我的合作伙伴一直在帮助一家公司进行链接建设，并意识到提交联系表单是大多数公司首选的推广方式。因此，我们决定创建一个 AI 代理，它可以找到给定网站的联系表单，解决 Recaptcha 问题，并自动编写剧本代码来提交表单。 希望这不会造成严重滥用，但组装起来很有趣。 https://preview.redd.it/1tyvmwyqb3cd1.png?width=2492&amp;format=png&amp;auto=webp&amp;s=e0318dc6b8e99e24cef4766f4c98b4e2aee845fe    提交人    /u/amazingchadwick   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e1hw8c/automatic_contact_form_submitter_powered_by_ai/</guid>
-      <pubDate>Fri, 12 Jul 2024 13:37:28 GMT</pubDate>
+      <title>不要让虚假的障碍破坏你的业余项目梦想——赶紧开始吧！🚀</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e1l9ou/dont_let_false_obstacles_derail_your_side_project/</link>
+      <description><![CDATA[您是否曾经觉得自己已经准备好一头扎进业余项目中，却发现自己被一些障碍所束缚，但仔细观察后，您会发现这些障碍根本不是障碍？“在正式注册公司之前，我不能开始”，或者“在开始之前，我需要 100% 确定我的想法”，这些话听起来很熟悉？ 好吧，我在这里告诉您，这些障碍通常是出于恐惧、不确定性或追求完美而自我强加的障碍。它们可能正是阻止我们迈出关键第一步的因素。 请记住，将您的业余项目变为现实的道路是一条多步骤的旅程，而不是一次成功的飞跃。关键是从一个可管理的任务开始。写下来，使其具体化，然后采取行动。这是为了积聚动力，一次完成一项任务。 当我开始开发我的生产力应用程序 BeeDone 时，我也陷入了“如果”和“直到”的网络中。但后来，我将注意力转移到我可以立即采取的下一步行动上。这并不是为了拥有所有答案或确保一切都完美无缺。这是关于进步，关于一周又一周地从 A 点移动到 B 点。 通过将旅程分解为更小、可实现的任务，我能够避开那些想象中的障碍并真正取得进展。你也可以做到！ 所以，让我们互相挑战，重新定义我们的障碍。让我们致力于写下我们的下一步行动并一个接一个地向前推进。短期目标会逐渐增加，不知不觉中，你就会回顾那些曾经看似无法完成的已完成任务。 在评论中分享你的第一个行动。让我们团结起来，互相支持，迈出最初的步伐。你的副业正在等着你——是时候开始了！    提交人    /u/yelkamel   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e1l9ou/dont_let_false_obstacles_derail_your_side_project/</guid>
+      <pubDate>Fri, 12 Jul 2024 16:01:20 GMT</pubDate>
     </item>
     <item>
-      <title>我开发了一款应用程序，将交互式产品演示和视频整合到一个指南中</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e1htv3/i_built_an_app_that_combines_interactive_product/</link>
-      <description><![CDATA[嘿 Redditors！ 我构建了一款新应用，可让您创建包含视频的交互式产品演示，以指导客户/客户了解您的产品。 这可以很好地向潜在客户展示您的产品，吸引新客户，甚至在帮助中心使用它来提供客户支持或教程。 该产品名为 Dymolab，我期待你们的反馈。    提交人    /u/aminekh   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e1htv3/i_built_an_app_that_combines_interactive_product/</guid>
-      <pubDate>Fri, 12 Jul 2024 13:34:26 GMT</pubDate>
+      <title>这些后退按钮中哪一个看起来最好？（如果它们都很烂，也请告诉我）</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e1l933/which_of_these_back_buttons_look_the_best_if_they/</link>
+      <description><![CDATA[        提交人    /u/nadimify   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e1l933/which_of_these_back_buttons_look_the_best_if_they/</guid>
+      <pubDate>Fri, 12 Jul 2024 16:00:46 GMT</pubDate>
     </item>
     <item>
-      <title>有人有兴趣为 Hygeia 做用户访谈吗？如果你有慢性过敏症，可以预约电话/答疑调查</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e1hplp/anyone_interested_in_doing_user_interviews_for/</link>
-      <description><![CDATA[Hygeia 针对慢性病患者的过敏管理。 询问 提供反馈并帮助我们构建一项服务，使患有慢性过敏症的人生活得更轻松。 Hygeia 的工作原理  在不到 5 分钟的时间内与过敏症专科医生交谈以获取建议 分配给一位将全程跟踪您的医生 您的处方会自动续配  这对您有价值吗？如果有价值，如何才能做得更好？    提交人    /u/Honest-Razzmatazz-15   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e1hplp/anyone_interested_in_doing_user_interviews_for/</guid>
-      <pubDate>Fri, 12 Jul 2024 13:28:56 GMT</pubDate>
+      <title>这是一个学校项目。如果您能尝试并测试一下，我将不胜感激。它非常简单，但对于项目来说已经足够好了。请给我一些意见。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e1l29d/this_is_a_school_project_i_would_really/</link>
+      <description><![CDATA[        提交者    /u/Single_Breadfruit_73   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e1l29d/this_is_a_school_project_i_would_really/</guid>
+      <pubDate>Fri, 12 Jul 2024 15:53:05 GMT</pubDate>
     </item>
     <item>
-      <title>将您的关系变成数字画廊的网站</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e1hesn/a_website_that_turns_your_relationship_into_a/</link>
-      <description><![CDATA[      我和我的女朋友正在开发一个网站(lovebynotes.com)来存储你们关系中珍贵的回忆、情书和周年纪念日细节 这是我们的个人激情项目，本月底我们将在现实世界中推出它。 目前它只是一个演示，但你可以上传照片、给你爱的人写信，并追踪你的周年纪念日。 我们计划根据用户和 Reddit 用户的反馈添加更多功能。 这是实时网站：lovebynotes.com/home 很想听听你的反馈！  你喜欢什么功能？ 你想看到什么新功能？ 用户体验怎么样？  https://preview.redd.it/88bjass093cd1.png?width=783&amp;format=png&amp;auto=webp&amp;s=2a339c86e15fb6948bab04f540ebdf00bfd4ca6e    提交人    /u/pedrooladeira   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e1hesn/a_website_that_turns_your_relationship_into_a/</guid>
-      <pubDate>Fri, 12 Jul 2024 13:15:06 GMT</pubDate>
+      <title>我是我最大的敌人 - 公开现场构建 SaaS，第 11 天</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e1kq2c/i_am_my_worse_enemy_livebuilding_a_saas_in_public/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e1kq2c/i_am_my_worse_enemy_livebuilding_a_saas_in_public/</guid>
+      <pubDate>Fri, 12 Jul 2024 15:39:04 GMT</pubDate>
     </item>
     <item>
-      <title>推出我的第一个 AI 工具。需要您的支持和反馈。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e1hcrf/launching_my_first_ai_tool_need_your_support_and/</link>
-      <description><![CDATA[介绍：askaiform AI 工具可根据您的产品描述生成反馈调查表。这将帮助您了解用户的反应，即这将为每个响应生成摘要，并为您提供每个响应的情感分析 查看链接：askaiform.vercel.app    提交人    /u/lmas3009   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e1hcrf/launching_my_first_ai_tool_need_your_support_and/</guid>
-      <pubDate>Fri, 12 Jul 2024 13:12:22 GMT</pubDate>
+      <title>测试、构建和自动化电子邮件和短信</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e1kbnw/test_build_and_automate_email_and_sms/</link>
+      <description><![CDATA[按需创建电子邮件帐户和电话号码，然后通过测试、代码、仪表板和 AI 自动化控制它们。构建复杂的电子邮件和 TXT 工作流、路由和 webhook；端到端测试应用程序；并与第三方电子邮件和 AI 提供商建立强大的集成。 MailSlurp     提交人    /u/Academic_Seesaw2890   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e1kbnw/test_build_and_automate_email_and_sms/</guid>
+      <pubDate>Fri, 12 Jul 2024 15:22:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
