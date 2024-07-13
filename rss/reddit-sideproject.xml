@@ -4,7 +4,42 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Sat, 13 Jul 2024 03:14:10 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jul 2024 06:17:48 GMT</lastBuildDate>
+    <item>
+      <title>我制作了一个 3D 地球仪 figma 插件</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e22ylm/i_built_a_3d_globe_figma_plugin/</link>
+      <description><![CDATA[我只用了 4 天就为 Figma 构建了一个很酷的 3D 地球仪插件！ 让我们回顾一下整个历程以及为实现它所付出的努力。 2024 年 7 月 9 日：想法迸发了！ 我立即开始为该插件进行概念验证。 2024 年 7 月 10 日：在探索了各种方法后，我成功地将一个球体导入了 Figma 画布，并附带控件。此外，还概述了插件的主要功能。 2024 年 7 月 11 日：创建登录页面并使用 Figma 作为提供商设置授权 2024 年 7 月 12 日： 制作演示视频 完成插件的开发。 将插件提交给 Figma。 部署了登录页面。 我的插件在同一天获得批准并发布！ 这段旅程非常紧张，但回报却无比丰厚。查看演示视频，了解如何使用我的 3D Globe 插件增强您的 Figma 项目！ 这是插件：https://www.figma.com/community/plugin/1393501538066213707/easy-globe https://reddit.com/link/1e22ylm/video/mh8usvn058cd1/player    提交人    /u/MotorEnvironmental83   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e22ylm/i_built_a_3d_globe_figma_plugin/</guid>
+      <pubDate>Sat, 13 Jul 2024 05:44:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Alystar.io 快速轻松地评估你的商业理念</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e21v7p/assess_your_business_idea_quickly_and_easily_with/</link>
+      <description><![CDATA[我创建了 Alystar.io 来帮助用户快速评估他们的业务、产品和/或服务理念。这是初稿 - mvp 1.0，因此，我们非常欢迎您提供建设性的反馈意见，以帮助我进一步深入研究并学习新技能。我会努力让它变得更好。感谢您分享您的反馈意见！    提交人    /u/HairEmergency2453   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e21v7p/assess_your_business_idea_quickly_and_easily_with/</guid>
+      <pubDate>Sat, 13 Jul 2024 04:37:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>C# 中的简单控制台解释器</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e21rlm/simple_console_interpreter_in_c/</link>
+      <description><![CDATA[作为背景，我之前看了这段视频 https://youtu.be/Eythq9848Fg?si=pGVrt3PzO1jJ1tzq，并受到启发，自己制作了一个计算器，如视频中展示的那样。 起初，它并没有成功，所以我放弃了，但最终，为了完成一个高中项目，我决定自己再试一次。 这一次，我成功地取得了一些进展，它现在可以支持括号、基本运算符和浮点数了。 我目前正在研究 sin、cos 和 tan 等基本函数，其中还有一些未完成的部分。 还有一些限制，例如由于代码是不久前写的，数据类型主要是浮点数（4 个字节），所以你输入的数字最多只能容纳 4 个字节。 由于我对词法分析器还不熟悉，所以一些实现可能会出现错误、崩溃或不准确的结果，如果你遇到任何问题，请随时指出它们.. 我也是 git hub 的新手，我感觉我一定是在使用 gitbash 时搞砸了一些东西.. 总的来说，这个项目教会了我关于词法分析器和标记化的知识，我打算扩展它来制作我自己的语法或编程语言。 https://github.com/Alex6683-bot/Simple-Console-Arithmetic-Interpreter 我也会尝试在整体上制作一个开发日志如果您愿意，可以开始您的旅程...  您可以自由地嘲笑我的代码😅.. 谢谢， 编码愉快！    提交人    /u/Alex6683   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e21rlm/simple_console_interpreter_in_c/</guid>
+      <pubDate>Sat, 13 Jul 2024 04:32:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>一个在本地模拟 Bitbucket 管道的项目</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e21nwk/a_project_to_simulate_bitbucket_pipelines_on_local/</link>
+      <description><![CDATA[大家好， 我制作了一个简单的 CLI 工具，用于在本地运行项目 bitbucket 管道。  作为开发人员，我经常发现新项目的前几次管道运行由于配置问题而失败。这可能非常耗时且令人沮丧，因为每次失败都需要推送到 Bitbucket，等待管道运行，然后查看结果以识别和修复问题。使用 Local-BBP，我可以在本地运行和调试这些管道，从而节省时间并减少实际环境中失败的运行次数。 Github 链接：https://github.com/zhex/local-bbp    提交人    /u/zhexx   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e21nwk/a_project_to_simulate_bitbucket_pipelines_on_local/</guid>
+      <pubDate>Sat, 13 Jul 2024 04:25:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个简单的 2D 街机游戏并且它在 PlayStore 上上线。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e21eny/i_made_a_simple_2d_arcade_game_and_its_live_on/</link>
+      <description><![CDATA[      我从 Instagram 的隐藏表情符号游戏中获得了这个想法，并将其变成了一个独立游戏。看看吧，让我知道你的反馈！ PlayStore 链接：https://play.google.com/store/apps/details?id=com.immanu10.pong    提交人    /u/immanu10   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e21eny/i_made_a_simple_2d_arcade_game_and_its_live_on/</guid>
+      <pubDate>Sat, 13 Jul 2024 04:11:25 GMT</pubDate>
+    </item>
     <item>
       <title>采用集中存储、分布式处理的迭代式人工智能模型解决问题的架构</title>
       <link>https://www.reddit.com/r/SideProject/comments/1e1z8v2/problemsolving_architecture_using_ai_models/</link>
@@ -74,41 +109,6 @@
       <description><![CDATA[正如标题所说。我建立了一个人工智能模型，该模型基于来自美国所有州的数据进行训练。必须创建一个训练一个模型的“链”，然后使用该模型训练下一个模型，等等。 构建起来并不难，但可能会节省我构建它所花的时间。如果有人认为它可能对他们有帮助，可以打包它。    提交人    /u/truvian_man   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1e1v7ao/any_interest_in_an_open_ai_fine_tuning_node/</guid>
       <pubDate>Fri, 12 Jul 2024 22:59:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能体育预测器</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e1u5fp/ai_sports_predictor/</link>
-      <description><![CDATA[我的产品是 www.scoresnippet.com，这是一份简报，每周发送重大比赛的足球预测。 我是一名数据科学家，有 AI / ML 模型方面的经验！设计和写作还不是我的强项，但 AI 方面一如既往地强大！ 如果您有任何反馈，我将不胜感激！    提交人    /u/GrouchyHoney7067   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e1u5fp/ai_sports_predictor/</guid>
-      <pubDate>Fri, 12 Jul 2024 22:12:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>终于启动了我的 iOS 应用程序！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e1ty2l/finally_launched_my_ios_app/</link>
-      <description><![CDATA[      我一直在开发一个简单的零基预算应用程序（类似于信封式预算），现在终于在 App Store 上提交并发布了！  它被称为 Budget Zero。它在一定程度上是免费的（仍在研究免费套餐应该在何时结束），之后则需要订阅。  欢迎随时查看并提供任何反馈！  https://preview.redd.it/ek6xbs1tu5cd1.jpg?width=1179&amp;format=pjpg&amp;auto=webp&amp;s=0b7faeca361b6bd69e0e6ae8cc3498cf660a166b    提交人    /u/BudgetProgramming   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e1ty2l/finally_launched_my_ios_app/</guid>
-      <pubDate>Fri, 12 Jul 2024 22:03:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>Stick arena 关闭了其服务器，因此我们重建了一个新的服务器，它是一个私人服务器，全天候开放供游戏！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e1qv1p/stick_arena_shut_down_its_servers_so_we_rebuilt_a/</link>
-      <description><![CDATA[女士们先生们，大家好， Stick Arena 服务器已开放，全天候 24/7 开放，就像您以前玩过的已关闭的原始服务器一样。 您想再次玩怀旧游戏还是留下来玩？ 我们有一个游戏社区，主要是美国玩家，但也有一些欧盟玩家可以一起玩。 有一些原始游戏中没有的更新：  更多颜色 更多旋转器 回合结束后有概率获得更多自定义奖励。 永久免费 LAB 通行证以及自定义地图创建和保存 + 游戏。  我们计划拥有带有 AI 等的游戏和练习模式。这需要时间，但我们正在实现目标。在我们进行此操作的同时，我们也欢迎想要帮助我们为游戏做出贡献的人这样做。这不需要太多的编码技能。 服务器 IP：3.145.15.34/sa.php 该服务器的社区所在的 Discord 服务器：https://discord.gg/Arn3jv9h 您需要什么才能玩游戏？  适用于 Windows 的 Flashbrowser 等软件。 https://github.com/radubirsan/FlashBrowser/releases/download/v0.81/v0.81_FlashBrowser_x64.exe Waterfox classic + Flash for Linux  快来玩得开心！看看    提交人    /u/_-JustPassingBy_-   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e1qv1p/stick_arena_shut_down_its_servers_so_we_rebuilt_a/</guid>
-      <pubDate>Fri, 12 Jul 2024 19:54:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>DocsCube 2.0 在 PH 上线 | B2B 交易室 + 工作流自动化</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e1ovl7/docscube_20_is_live_on_ph_b2b_deal_rooms_workflow/</link>
-      <description><![CDATA[      经过 2 年的努力，我们很高兴地宣布 DocsCube 2.0 在 Product Hunt 上线了！🎉 DocsCube 2.0 将销售和客户入职流程简化为一个可共享的交易室。轻松绘制您的交易流程，设置客户门户，并管理提案、跟进和入职清单。 👉 主要功能：  集中交易室：为会议摘要和交易相关材料创建专业空间。 无限电子签名：轻松签署提案和合同，按照您的节奏指导买家。 工作流程 + 表格：通过连接表格、文档和工作流程节省时间并自动执行日常任务。|  如果您能通过简短的评论和赞成来支持我们，我们将不胜感激。 💓 👉 这是我们发布的链接： https://www.producthunt.com/posts/docscube-2-0 https://preview.redd.it/bl9pqv0os4cd1.png?width=1200&amp;format=png&amp;auto=webp&amp;s=743a0cb3241df1e0fe0ce2fdc42c35dcf9465276    提交人    /u/inbpa   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e1ovl7/docscube_20_is_live_on_ph_b2b_deal_rooms_workflow/</guid>
-      <pubDate>Fri, 12 Jul 2024 18:30:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>GitHub 项目的每周新闻</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e1osf3/weekly_news_for_github_projects/</link>
-      <description><![CDATA[大家好， 为了消除与跟进超大型 GitHub 项目相关的麻烦，我和一组研究人员创建了 Weekly Project News，这是一项新闻通讯服务，它使用 LLM 每周总结 GitHub 项目的所有更改，并向您发送新闻通讯，以便您随时了解最新情况。 我们的新闻通讯有一些您可能关心的有用功能，包括：  提交、问题、拉取请求等的详尽摘要。 对问题和拉取请求中的讨论进行基本情绪分析 项目贡献者的快速统计概览  如果您想了解预期内容，这里有一个 ~存档示例~，这是我们为 React 的开源 GitHub 制作的。 如果您有兴趣收到自己项目或您感兴趣的开源项目的每周新闻，您可以在~此处~添加您的存储库&gt;    提交人    /u/MidshipCookie   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e1osf3/weekly_news_for_github_projects/</guid>
-      <pubDate>Fri, 12 Jul 2024 18:26:26 GMT</pubDate>
     </item>
     </channel>
 </rss>
