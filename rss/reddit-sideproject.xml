@@ -4,7 +4,49 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Sat, 13 Jul 2024 01:00:32 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jul 2024 03:14:10 GMT</lastBuildDate>
+    <item>
+      <title>采用集中存储、分布式处理的迭代式人工智能模型解决问题的架构</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e1z8v2/problemsolving_architecture_using_ai_models/</link>
+      <description><![CDATA[大家好！ 我正在构建一个解决问题的架构，我正在寻找问题作为建议，以便对其进行实战测试。如果您能评论您希望解决的问题，或者只是纯粹想看看您是否在生成的数据中找到任何有趣的结果，我将不胜感激。 架构/系统将细分问题并生成提案。一种特殊类型的提案称为外推，其中我从其他相关或不相关的领域中提取解决方案，并将其应用于目标问题的领域。如果您愿意，可以提出创新的建议。 如果您想私下分享一些信息，或者希望我更详细地解释架构的工作原理，请告诉我，我会直接留言给您！ 再次，如果您能建议一些我可以通过系统运行的真正问题或问题，我将不胜感激。 然后我会与您分享生成的提案，我们将看看它们是否有任何价值或用途：)    提交人    /u/akitsushima   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e1z8v2/problemsolving_architecture_using_ai_models/</guid>
+      <pubDate>Sat, 13 Jul 2024 02:16:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的第一个独立应用程序现已发布</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e1z098/my_first_indie_app_is_now_available/</link>
+      <description><![CDATA[      我想找到一款健身应用，在我锻炼时使用 Apple Watch 记录我的心率，并在我进入我想要的心率区时通知我。这款应用帮助我改善有氧运动。我找不到这样的应用，所以我自己做了一个。我花了大约半年的时间才完成它。 https://preview.redd.it/kl19drme27cd1.jpg?width=1284&amp;format=pjpg&amp;auto=webp&amp;s=e1d2918dd72e03d0e9e9dc6d18798b8a2f519afb    提交人    /u/treviknows   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e1z098/my_first_indie_app_is_now_available/</guid>
+      <pubDate>Sat, 13 Jul 2024 02:03:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>Detach - 无需教程的项目管理工具</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e1yrqx/detach_the_project_management_tool_without_the/</link>
+      <description><![CDATA[https://reddit.com/link/1e1yrqx/video/ya4g9fgez6cd1/player 免费试用，https://www.joindetach.com    提交人    /u/robogram96   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e1yrqx/detach_the_project_management_tool_without_the/</guid>
+      <pubDate>Sat, 13 Jul 2024 01:51:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>您如何让用户在您的 SaaS 中使用自定义域？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e1ykg6/how_do_you_enable_users_to_use_custom_domain_with/</link>
+      <description><![CDATA[我正在探索如何让我的用户为我提供的 saas 自定义域名。这样他们就可以将他们的域名与我的服务一起使用。 我只找到了 https://approximated.app/  还有其他方法或简单的方法吗？    提交人    /u/Zestyclose_Score4262   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e1ykg6/how_do_you_enable_users_to_use_custom_domain_with/</guid>
+      <pubDate>Sat, 13 Jul 2024 01:41:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了一个供业余用户创作漫画的平台</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e1yj9m/i_made_a_platform_for_amateur_usergenerated_comic/</link>
+      <description><![CDATA[      我受到了暴走漫画的启发，我想要一个现代的同类漫画。这个网站非常人性化，而且我没有投放任何广告。如果您觉得该应用程序有趣，请考虑通过购买其中一项订阅来支持该网站的开发。 https://preview.redd.it/r9beiih8x6cd1.png?width=1847&amp;format=png&amp;auto=webp&amp;s=8555d80f0d2986ab1094472e935bdafc24672dbb    提交人    /u/AggravatingSyrup2401   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e1yj9m/i_made_a_platform_for_amateur_usergenerated_comic/</guid>
+      <pubDate>Sat, 13 Jul 2024 01:39:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了一个免费的 Pinterest Pin Maker 来帮助您在 Pinterest 上成长</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e1yf1j/i_created_a_free_pinterest_pin_maker_to_help_you/</link>
+      <description><![CDATA[        由    /u/polnikale  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e1yf1j/i_created_a_free_pinterest_pin_maker_to_help_you/</guid>
+      <pubDate>Sat, 13 Jul 2024 01:33:29 GMT</pubDate>
+    </item>
     <item>
       <title>🍅 基于番茄工作法屏蔽网站的 Chrome 扩展程序</title>
       <link>https://www.reddit.com/r/SideProject/comments/1e1wae6/chrome_extension_that_blocks_sites_based_on/</link>
@@ -67,48 +109,6 @@
       <description><![CDATA[大家好， 为了消除与跟进超大型 GitHub 项目相关的麻烦，我和一组研究人员创建了 Weekly Project News，这是一项新闻通讯服务，它使用 LLM 每周总结 GitHub 项目的所有更改，并向您发送新闻通讯，以便您随时了解最新情况。 我们的新闻通讯有一些您可能关心的有用功能，包括：  提交、问题、拉取请求等的详尽摘要。 对问题和拉取请求中的讨论进行基本情绪分析 项目贡献者的快速统计概览  如果您想了解预期内容，这里有一个 ~存档示例~，这是我们为 React 的开源 GitHub 制作的。 如果您有兴趣收到自己项目或您感兴趣的开源项目的每周新闻，您可以在~此处~添加您的存储库&gt;    提交人    /u/MidshipCookie   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1e1osf3/weekly_news_for_github_projects/</guid>
       <pubDate>Fri, 12 Jul 2024 18:26:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>抓取六个月的数据，约 16,000,000 个项目</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e1opbm/scraping_6months_worth_of_data_16000000_items/</link>
-      <description><![CDATA[大家好， 我需要一些有这方面经验的人的建议。我对编程非常熟悉，但几天前才开始接触网络抓取。我有一个项目，我想抓取一个拍卖网站并建立一个数据库，其中包含所有列出和出售的物品的历史记录 + 竞标历史记录。幸运的是，该网站有一个隐藏的 API 端点，当我查询物品 ID 时，它会以 JSON 格式输出一堆信息。我最终考虑出售这些数据，或者如果有足够的兴趣，甚至可能设置一个 API。看起来我需要访问该 API 端点大约 1600 万次才能获取过去六个月的数据。 我已经整理好了所有用于轮换用户代理的 Scrapy 代码，但现在我需要在不被禁止的情况下扩展这个东西。从我研究的情况来看，听起来我需要使用代理。我尝试了一些付费的住宅代理，它们效果很好，但最终可能会花费我一大笔钱，因为这是按 GB 计费的。我听说过无限计划的坏消息，免费代理也不可靠。所以，我正在考虑建立自己的移动代理农场来降低成本。我有几个可以使用的 Raspberry Pi。我只需要加密狗 + SIM 卡。 您认为这是一个好举措吗？有没有更好的方法来处理这个问题？我只是在这里原地踏步吗？我甚至不确定这些数据是否会有市场，但无论如何，解决这个问题都很有趣。 谢谢！    提交人    /u/sugarfreecaffeine   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e1opbm/scraping_6months_worth_of_data_16000000_items/</guid>
-      <pubDate>Fri, 12 Jul 2024 18:22:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>经过两周多的失败，终于在 pygame 中实现了行进立方体</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e1ogke/finallyyy_implemented_marching_cubes_in_pygame/</link>
-      <description><![CDATA[      我受到了 sebastian lague 和他的关于行进立方体的编码冒险视频的启发，从那时起，我一直在反复试验以使这项工作成功，对于那些认为，我是如何在 pygame 中制作这个 3d 视觉效果的，我使用线性代数（旋转矩阵、相机矩阵和投影矩阵）来进行转换。我从 b3agz 的 github 上找到了行进立方体的三角测量表，所以感谢他，真的很想与你们分享我的进展 https://preview.redd.it/j3ibwslap4cd1.png?width=1082&amp;format=png&amp;auto=webp&amp;s=172189b3b5c00bc1bf2ec4303ad55be6f3e51935    提交人    /u/Own_Ad_3368   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e1ogke/finallyyy_implemented_marching_cubes_in_pygame/</guid>
-      <pubDate>Fri, 12 Jul 2024 18:12:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>面向求职者的人工智能语音面试练习工具</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e1o6o5/aipowered_voice_interview_practice_tool_for_job/</link>
-      <description><![CDATA[大家好！ 自毕业以来，我一直全职编写不同的软件。在看到我的室友在练习面试时遇到困难后，我创建了Interview Buddy！ Interview Buddy 可以让你  上传简历并输入职位描述。 参与自定义的实时语音互动问题。 根据您的回答和经验获得反馈。  我希望这个工具可以帮助其他正在求职的人。 欢迎大家提供任何反馈，如果您喜欢这个工具，请考虑在Product Hunt上给我们点赞！    提交人    /u/williamwangmi   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e1o6o5/aipowered_voice_interview_practice_tool_for_job/</guid>
-      <pubDate>Fri, 12 Jul 2024 18:01:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>介绍 Anidex：现实世界动物和鸟类的数字 Pokedex！🐦🌳</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e1nton/introducing_anidex_your_digital_pokedex_for/</link>
-      <description><![CDATA[大家好，r/sideproject 社区！ 我很高兴与大家分享我最新的业余项目 Anidex。Anidex 是现实世界动物和鸟类的数字图鉴。如果您热爱自然、野生动物和科技，那么这款应用就是为您准备的！ 功能：  扫描和识别动物 与动物交谈 离线扫描 保存扫描结果 喜欢的动物 排行榜和徽章 探索  技术栈  框架：Flutter 后端：Firebase 人工智能：Gemini 1.5 Pro  未来计划  增强的过滤和探索功能 多样化的排行榜 由人工智能驱动的 Quizlet iOS开发  如果我看到良好的用户采用率，我将继续构建和扩展 Anidex。 查看  GitHub Repo：GitHub 上的 Anidex 应用程序下载：下载 Anidex  我很乐意听到您的想法、反馈和任何建议。欢迎随时试用 Anidex 并分享您的反馈。    提交人    /u/footballforus   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e1nton/introducing_anidex_your_digital_pokedex_for/</guid>
-      <pubDate>Fri, 12 Jul 2024 17:46:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>4年积累的编程概念、架构、设计和学习总结</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e1nj6q/programming_concepts_architecture_design_and/</link>
-      <description><![CDATA[        提交人    /u/Outside_Motor_556   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e1nj6q/programming_concepts_architecture_design_and/</guid>
-      <pubDate>Fri, 12 Jul 2024 17:34:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个用自然语言快速创建日历事件的工具！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e1ngk2/i_made_a_tool_for_quickly_creating_calendar/</link>
-      <description><![CDATA[        由    /u/mikkel01 提交   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e1ngk2/i_made_a_tool_for_quickly_creating_calendar/</guid>
-      <pubDate>Fri, 12 Jul 2024 17:31:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
