@@ -4,7 +4,14 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Sun, 14 Jul 2024 01:05:12 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jul 2024 03:16:02 GMT</lastBuildDate>
+    <item>
+      <title>每天编写简单工具的第 5 天 - 迄今为止第一个与图像无关的工具 - 颜色代码转换器</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e2s6o7/day_5_of_coding_simple_tools_every_day_first_not/</link>
+      <description><![CDATA[    /u/PickleDue3394   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e2s6o7/day_5_of_coding_simple_tools_every_day_first_not/</guid>
+      <pubDate>Sun, 14 Jul 2024 03:09:23 GMT</pubDate>
+    </item>
     <item>
       <title>我建立了一个可扩展的流程，可以让我找到任何品牌的 10、100、1000 个目标社交影响者。</title>
       <link>https://www.reddit.com/r/SideProject/comments/1e2oclj/i_built_a_scalable_process_that_lets_me_find_any/</link>
@@ -43,7 +50,7 @@
     <item>
       <title>我的常青发布前检查清单。记下你以后可能需要的东西</title>
       <link>https://www.reddit.com/r/SideProject/comments/1e2kn17/my_evergreen_prelaunch_checklist_take_notes_you/</link>
-      <description><![CDATA[从我多年与 SaaS 创始人或初创公司合作的经验来看，这些是我向客户建议的第一步，以便他们清楚了解他们的产品。  请注意并充分利用这篇文章。  用户如何接触我的产品？  我是否明确定义了目标用户群？有没有经济有效的方法来定位他们？ 我如何制造轰动？例如 PR，专注于小众群体并为他们创造引人入胜的故事。 我如何经济高效地获得初始流量？例如，定位您的营销并根据放弃者尽早调整。 我可以借用流量吗？例如与提供具有良好吸引力的互补产品的大型企业合作。  如何确保我的用户开始使用它？  我的登录过程是否要求提供最少的关键信息？还有其他使用障碍吗？ 如果用户使用产品并想“下一步做什么？”，我是否有清晰直观的行动号召？  我如何提供第一个愉悦感？  用户是否在至少 2-3 个操作中获得愉悦感？ 是否希望大多数用户执行此工作流程并带来愉悦感？  用户为什么会再次使用？  了解放弃者 创建不惹人厌烦的产品外沟通策略。例如，哪些个性化电子邮件通信会导致返回登录。  这些应该是广泛的问题。除此之外，如果您有免费增值模式或有社交元素，您将需要检查其他几件事。 如果您没有明确的假设来解决上述问题，那么您可能还没有准备好启动。 您不需要所有问题的答案，但您应该有明确的假设，您可以测试、验证和更改。    提交人    /u/FoxBeneficial8102   [链接] [评论]]]></description>
+      <description><![CDATA[从我多年与 SaaS 创始人或初创公司合作的经验来看，这些是我向客户建议的第一步，以便他们清楚了解他们的产品。  请注意并充分利用这篇文章。  用户如何接触我的产品？  我是否明确定义了目标用户群？有没有经济有效的方法来定位他们？ 我如何制造轰动？例如 PR，专注于小众群体并为他们创造引人入胜的故事。 我如何经济高效地获得初始流量？例如，定位您的营销并根据放弃者尽早调整。 我可以借用流量吗？例如与提供具有良好吸引力的互补产品的大型企业合作。  如何确保我的用户开始使用它？  我的登录过程是否要求提供最少的关键信息？还有其他使用障碍吗？ 如果用户使用产品并想“下一步做什么？”，我是否有清晰直观的行动号召？  我如何提供第一个愉悦感？  用户是否在至少 2-3 个操作中获得愉悦感？ 是否希望大多数用户执行此工作流程并带来愉悦感？  用户为什么会再次使用？  了解放弃者 创建一个不惹人厌烦的产品外沟通策略。例如，哪些个性化电子邮件通信会导致返回登录。  这些应该是广泛的问题。除此之外，如果您有免费增值模式或有社交元素，您将需要检查其他几件事。 如果您没有明确的假设来解决上述问题，那么您可能还没有准备好启动。 您不需要所有问题的答案，但您应该有明确的假设，您可以测试、验证和更改。    提交人    /u/FoxBeneficial8102   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1e2kn17/my_evergreen_prelaunch_checklist_take_notes_you/</guid>
       <pubDate>Sat, 13 Jul 2024 20:58:54 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[大家好！ 网站上的垃圾邮件防护可能真的很令人头疼 仅使用 CAPTCHA、将单词列入黑名单或其他方法通常无法解决问题。 所以我决定创建一个项目来帮助其他人对抗垃圾邮件。 今天我推出了 spamhater.co - 它是一个用于过滤垃圾邮件内容的 AI 驱动的 API。 您可以轻松地将此 API 插入您的网站、应用程序、机器人、浏览器扩展或任何其他需要过滤用户输入的东西中。 API 有两个主要部分： 1. 管理您的规则 规则可以是各种各样的东西。从“禁止政治言论”和“禁止咒骂”到“只说英语”和 “禁止发布链接”。您甚至可以根据具体内容设置更复杂的规则。  检查内容  您发送要检查的文本，API 会给出判定结果。 根据响应，您可以决定如何处理内容。 例如，在将评论添加到数据库之前，您可以通过 API 运行它。如果它被标记为垃圾邮件，您可以阻止它 目前，它只能过滤文本，但我计划在未来添加图像、音频和视频过滤。 在这里查看：https://spamhater.co 我很想听听你的想法！ 感谢您的时间！    提交人    /u/Typical-Start5717   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1e2i7cb/i_just_launched_an_api_to_crush_spam/</guid>
       <pubDate>Sat, 13 Jul 2024 19:10:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个截图编辑器，可以将你过去的项目截图转换成漂亮统一的桌面模型</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e2i5vy/i_made_a_screenshot_editor_to_turn_your_past/</link>
-      <description><![CDATA[      https://reddit.com/link/1e2i5vy/video/50m64ks35ccd1/player 我最近想使我的网站和作品集现代化，但再次遇到了调整过去项目的旧截图的麻烦，才意识到它们不适合今年的 iPad 或 MacBook 屏幕。我还有几十张过期的截图，因为看起来不太好看，所以从来没有发布过。 使用 Framex.app，您可以截取任意旧截图并将其转换为任意大小的精美浏览器/桌面截图，或将其直接放入模型中。 当我决定构建这个工具时，它只是为了我自己，但我认为它是一种非常方便和简单的工具，可以让我在处理网站/小册子/作品集时更轻松。 www.framex.app    提交人    /u/ChrisTheCoder_   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e2i5vy/i_made_a_screenshot_editor_to_turn_your_past/</guid>
-      <pubDate>Sat, 13 Jul 2024 19:08:36 GMT</pubDate>
     </item>
     </channel>
 </rss>
