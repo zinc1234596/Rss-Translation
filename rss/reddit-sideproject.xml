@@ -4,7 +4,77 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Sun, 14 Jul 2024 21:12:04 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jul 2024 01:02:17 GMT</lastBuildDate>
+    <item>
+      <title>刚刚推出了一些新功能</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e3h5d9/just_launched_some_new_features/</link>
+      <description><![CDATA[      加入社区+1500 名用户现在即可成为高级用户，并使用我们的功能提高工作效率和创造力，只需每月 5 美元和每年 50 美元（节省 2 个月）即可生成精彩的内容  立即加入我们的“emperorai.net”     提交人    /u/The_Real_Paolo   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e3h5d9/just_launched_some_new_features/</guid>
+      <pubDate>Mon, 15 Jul 2024 00:15:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>每天编写简单工具的第六天 - 调色板生成器（仍然需要调整如何精确计算颜色值，但到目前为止还不错）</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e3h08r/day_6_of_coding_simple_tools_everyday_color/</link>
+      <description><![CDATA[    /u/PickleDue3394   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e3h08r/day_6_of_coding_simple_tools_everyday_color/</guid>
+      <pubDate>Mon, 15 Jul 2024 00:08:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>FormZero 简介：简化您的表单创建流程</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e3gvbh/introducing_formzero_simplify_your_form_building/</link>
+      <description><![CDATA[我很高兴向你们介绍我一直在做的一个项目，叫做 FormZero (https://formzero.io)。Formzero 是一个旨在简化为您的网站或应用程序构建表单的过程的工具。 以下是 Formzero 带来的一些功能： - 直观的界面 - 自定义选项 - 安全性和合规性 - 集成功能 - 响应式设计等 无论您是收集客户反馈，还是收集用户信息，Formzero 都可以简化流程并增强您的工作流程。 我很高兴与大家分享 Formzero，并希望听到您的反馈和建议。    提交人    /u/mquadrant   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e3gvbh/introducing_formzero_simplify_your_form_building/</guid>
+      <pubDate>Mon, 15 Jul 2024 00:01:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>我建立了一个 API 来获取任何域名的品牌数据</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e3grqo/i_built_an_api_to_get_brand_data_for_any_domain/</link>
+      <description><![CDATA[        提交人    /u/itradedaoptions   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e3grqo/i_built_an_api_to_get_brand_data_for_any_domain/</guid>
+      <pubDate>Sun, 14 Jul 2024 23:56:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了互联网上最大的基于地图的社会。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e3g78p/i_created_the_largest_mapbased_society_on_the/</link>
+      <description><![CDATA[      [ 由于违反 内容政策，被 Reddit 删除。 ]    由   提交  /u/worldmapxrev   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e3g78p/i_created_the_largest_mapbased_society_on_the/</guid>
+      <pubDate>Sun, 14 Jul 2024 23:30:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bigcapital 简介</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e3fmn2/introducing_bigcapital/</link>
+      <description><![CDATA[        提交人    /u/AdInner8113   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e3fmn2/introducing_bigcapital/</guid>
+      <pubDate>Sun, 14 Jul 2024 23:04:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>简单的微博平台</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e3fj8i/simple_microblogging_platform/</link>
+      <description><![CDATA[大家好，一段时间以来，我一直在尝试在 PWA（渐进式 Web 应用程序）上重新实现旧的 Twitter 功能。这是一个简单的微博平台，称为“littr”（用于将垃圾存储在某处），您可以在此发布帖子，创建最多三个选项的投票，您可以通过添加其他人来管理您的“流量”，您可以以某种方式安排您的个人资料。您还可以启用 webapp（webpush）通知，当与合适的浏览器（Android 的 Chrome 和 iOS 的 Safari）一起使用时，它也可以在手机上使用。 我还编写了一些关于该平台如何工作的简单手册，并提供了有关各个页面及其功能的一些详细信息。 https://krusty.space/projects/litter/ 运行平台可在 www.littr.eu 上找到，因此请加入并随意在那里发帖。实际版本是 v0.34.9（目前），但我也希望 v1.0.0 能真正实现。整个网站都在 auth-wall 后面，因此如果您不想分享您的个人电子邮件（例如，当您要重置密码时会检索电子邮件地址），则可以使用一些别名电子邮件。代码是开放的（请参阅 https://github.com/krustowski/litter-go） 非常感谢大家的任何反馈。非常感谢您的关注。    由   提交  /u/1dk_b01   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e3fj8i/simple_microblogging_platform/</guid>
+      <pubDate>Sun, 14 Jul 2024 23:00:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个简单的工具，可以帮助你找到下次旅行所需的插头</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e3ewha/i_built_a_simple_tool_that_helps_you_find_the/</link>
+      <description><![CDATA[      我抓取了 195 个国家的电压/插座/频率和插头数据，并构建了这个迷你工具，只需点击两次即可显示信息，并且用户界面非常漂亮。我在谷歌搜索此信息时产生了这个想法，然后被发送到随机文章，需要滚动 5-6 次才能显示此信息。  它的名字是：checkplug.com https://preview.redd.it/81o2268w8kcd1.png?width=3114&amp;format=png&amp;auto=webp&amp;s=00cb27681a0267d1fd52338e2575f0e8bffab122 该网站当前的商业模式是从亚马逊购买的所有适配器中抽取佣金网站上的链接。我添加的关键是使用根据用户所在国家/地区更新的动态链接。 后续步骤： - 考虑构建一个 API，让旅游网站将此信息放在他们的网站上（如 Airbnb / 航班预订等） - 添加嵌入代码，以便博主可以在他们的文章中精美地显示此信息。 我很乐意收到一些反馈！    提交人    /u/theyashbhardwaj   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e3ewha/i_built_a_simple_tool_that_helps_you_find_the/</guid>
+      <pubDate>Sun, 14 Jul 2024 22:32:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>您是否对一个可以让您与志同道合的人一起开展副业的平台感兴趣？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e3dynl/would_you_be_interested_in_a_platform_that/</link>
+      <description><![CDATA[大家好！ 我一直在考虑创建一个地方，将志同道合的人联系起来，共同从事业余项目。只是想看看是否有人对这样的事情感兴趣。 这个想法是创建一个平台，您可以在其中浏览希望联系并共同从事项目的人员列表。任何人都可以注册并创建自己的列表。 我知道存在类似的平台（CoFounderLab，YC Co-Founder Matching 等），但它们似乎都更倾向于专业方面。我想更多地关注业余项目、爱好和创造有趣的东西。 你会对此感兴趣吗？    提交人    /u/eepieh   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e3dynl/would_you_be_interested_in_a_platform_that/</guid>
+      <pubDate>Sun, 14 Jul 2024 21:53:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sketch2scheme：将手绘图表转换为数字方案</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e3dtgy/sketch2scheme_convert_handdrawn_diagrams_into/</link>
+      <description><![CDATA[      嘿！ 我很高兴与大家分享我的最新项目 - Sketch2scheme！ Sketch2scheme 是一种可轻松将手绘流程图和图表转换为数字方案的工具。无论您是在纸上集思广益还是在会议期间勾勒出想法，Sketch2scheme 都可以通过几次点击将您的草图数字化，从而节省您的时间和精力。 主要功能：  自动转换：AI 可识别草图中的节点、连接和文本，并自动将其转换为数字图表。 自动排列元素：无需手动对齐或排列元素 - Sketch2scheme 会为您完成。 多种导出选项：将您的图表导出为各种格式，如 PNG、SVG、PDF，甚至 Draw.io 兼容格式。 可编辑结果：您可以使用 draw.io 可视化编辑器或 Mermaid 代码编辑结果，确保您完全控制最终结果输出。  为何使用 Sketch2scheme？  节省时间： 转向数字化时，不要浪费时间从头开始。让 Sketch2scheme 完成繁重的工作。 易于使用： 只需绘制草图、扫描和转换即可。就是这么简单。 多功能性：适合专业人士、学生以及任何需要快速创建数字图表的人  定价：  常规计划：每月 9.9 美元，每天可识别 10 次，包括访问基本、可视化和代码编辑器（不过，我正在制定定价） 代理计划：自定义定价，提高限制并为团队和代理机构提供 API 访问权限。  我为何构建它：Sketch2scheme 的想法来自于不得不从头开始以数字方式重新绘制手绘图表的挫败感。虽然人工智能有时会犯错误，但编辑和导出结果的能力可确保用户可以根据需要优化他们的图表。 我希望您尝试一下，并告诉我您的想法。您的反馈对于我继续改进应用程序非常有价值。 https://sketch2scheme.com/ 期待您的想法和反馈！    提交人    /u/Dden77   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e3dtgy/sketch2scheme_convert_handdrawn_diagrams_into/</guid>
+      <pubDate>Sun, 14 Jul 2024 21:47:31 GMT</pubDate>
+    </item>
     <item>
       <title>推出 BiteStats：您的终极 DoorDash 和 Grubhub 费用追踪器</title>
       <link>https://www.reddit.com/r/SideProject/comments/1e3bxx7/introducing_bitestats_your_ultimate_doordash/</link>
@@ -29,7 +99,7 @@
     <item>
       <title>我做了一个软件设计学习平台，需要建议</title>
       <link>https://www.reddit.com/r/SideProject/comments/1e3a95t/i_made_a_software_design_learning_platform_need/</link>
-      <description><![CDATA[      我和我的朋友创建了一个软件设计学习网站平台，帮助学生和专业人士学习这些面试风格的概念。该网站和应用程序是用 wix 创建的，因此只需要很少的编码。它目前托管博客、课程和海报。需要帮助如何脱颖而出并更好地推销它。任何改进内容添加更多部分的建议也欢迎。    提交人    /u/apk_22   [link] [comments] ]]></description>
+      <description><![CDATA[      我和我的朋友创建了一个软件设计学习网站平台，帮助学生和专业人士学习这些面试风格的概念。该网站和应用程序是用 wix 创建的，因此只需要很少的编码。它目前托管博客、课程和海报。需要帮助如何脱颖而出并更好地推销它。任何改进内容添加更多部分的建议也欢迎。    提交人    /u/apk_22   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1e3a95t/i_made_a_software_design_learning_platform_need/</guid>
       <pubDate>Sun, 14 Jul 2024 19:07:25 GMT</pubDate>
     </item>
@@ -39,76 +109,6 @@
       <description><![CDATA[        提交人    /u/Potential_Action_658   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1e39yzr/i_built_a_chrome_extension_to_add_a_magic_color/</guid>
       <pubDate>Sun, 14 Jul 2024 18:55:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个应用程序，让人工智能生成推文</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e39kf6/i_made_an_app_get_ai_generated_tweets/</link>
-      <description><![CDATA[      一个用于获取 AI 生成的推文的小型附带项目Gemini API 链接：https://tweetcraft.vercel.app https://preview.redd.it/wkngy3uw3jcd1.png?width=1918&amp;format=png&amp;auto=webp&amp;s=f1dd1e50b4b287607e3b72404b5383084ee050d0   由    /u/Clean_Mention2022  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e39kf6/i_made_an_app_get_ai_generated_tweets/</guid>
-      <pubDate>Sun, 14 Jul 2024 18:38:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 YourWay.Store 提升您的副业：终极直播 SEO 平台！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e39k3t/elevate_your_side_project_with_yourwaystore_the/</link>
-      <description><![CDATA[      嘿 r/SideProject 社区！ 您是否正在寻找一种强大的方式来展示和货币化您的副项目？推出 YourWay.Store，这是一款终极直播 SEO 平台，旨在为创作者提供一整套成功功能。 主要功能：  具有高级 SEO 优化功能的直播： 提高知名度：我们的平台集成了 Yoast SEO 工具，可针对搜索引擎优化您的直播，帮助您的内容覆盖更广泛的受众。 吸引观众：与您的观众实时互动，在您的项目周围建立强大的社区。  广播投票竞赛： 按票数付费竞赛：举办竞赛，让观众投票选出他们最喜欢的内容。每次投票都会产生收入，因此无论比赛结果如何，每个参与者都有机会赚钱。 实时投票：在广播期间实时显示投票结果，增加刺激性和参与度。  灵活的获利选项： 订阅：为您的关注者提供订阅等级，为他们提供独家内容和访问权限。 按次付费和按消息付费：通过为视频、消息和直播会话设定自己的价格，将您的内容货币化。 多流：同时流式传输到多个平台，扩大您的覆盖面和潜在受众。  全面分析： 效果跟踪：访问详细的分析以更好地了解您的受众，并使用 Google Analytics 和 [Google Search Console]() 优化您的内容策略。  AI 内容审核： 安全环境：我们的 AI 工具通过审核内容和防止垃圾邮件来确保安全和温馨的空间。  轻松协作和共享： 群组功能：创建具有自己的新闻源和直播功能的群组，促进协作和社区建设。 内容上传和共享：轻松上传和分享视频、图片和其他内容与您的关注者。  法律和安全： 已验证的创建者：所有内容创建者都经过身份验证，以确保社区值得信赖。 安全付款：利用 Stripe 进行安全交易，利用 QuickBooks 进行无缝直接存款支付。   为什么选择 YourWay.Store？ YourWay.Store 是首屈一指的直播 SEO 平台，结合了先进的 SEO 工具、交互式功能和强大的货币化选项来支持和增强您的副业。无论您是艺术家、音乐家、开发人员还是企业家，YourWay.Store 都能为您提供成功所需的工具。 立即开始！ 使用 YourWay.Store 将您的副业转变为蓬勃发展的成功。 立即加入并开始利用这些强大的功能来实现您的目标。查看我们的 YouTube 视频，了解按次付费功能的实际效果！ https://preview.redd.it/wnzvxyzu3jcd1.png?width=2892&amp;format=png&amp;auto=webp&amp;s=7a1d1cf32c42d363f056aed95be1f59665af98a7    由    /u/YourWayStore  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e39k3t/elevate_your_side_project_with_yourwaystore_the/</guid>
-      <pubDate>Sun, 14 Jul 2024 18:37:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>面试——您能帮忙吗？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e39jy4/interviews_can_you_help/</link>
-      <description><![CDATA[大家好！我想采访 +/- 10 位普通人，以帮助验证围绕客户发现的创业想法。我很乐意与任何领域有专业经验的人交谈（至少 +/- 5 年）。 如果您愿意，我很乐意让您觉得值得 - 如果有兴趣，请给我发私信！    提交人    /u/610Ken   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e39jy4/interviews_can_you_help/</guid>
-      <pubDate>Sun, 14 Jul 2024 18:37:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>我做了一个论坛搜索引擎</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e39680/i_made_a_search_engine_for_forums/</link>
-      <description><![CDATA[我最近推出了 Heyystack 的测试版，这是一个论坛搜索引擎。主页更详细地介绍了它与其他搜索引擎的不同之处。希望大家尝试一下，然后告诉我他们的想法。  https://www.heyystack.com/    提交人    /u/flipflipflipidelphia   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e39680/i_made_a_search_engine_for_forums/</guid>
-      <pubDate>Sun, 14 Jul 2024 18:21:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>更新我的人工智能卡路里追踪应用程序</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e3943e/update_on_my_ai_calorie_tracking_app/</link>
-      <description><![CDATA[        提交人    /u/noise_in_paris   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e3943e/update_on_my_ai_calorie_tracking_app/</guid>
-      <pubDate>Sun, 14 Jul 2024 18:19:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻求项目指导</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e38s1q/seeking_guidance_for_my_project/</link>
-      <description><![CDATA[我正在寻求有关如何进行教授强加给我的项目构想的指导。这就是想法 团队编码游乐场：想象一个实时编码环境，您和您的团队可以一起编辑代码，管理文件夹，并使用细粒度的权限控制访问。当然，内置版本控制！ 人工智能驱动的创意机器：对项目概念感到困惑？该平台将与 Gemini API 集成，根据您的起点提出相关的想法。 自动驾驶仪上的流程图​​和 UML：告别手动绘图！该平台将根据您的项目或代码结构生成流程图或 UML 图（取决于您的喜好）。 代码安全和增强：不再有潜伏在阴影中的安全漏洞。静态代码分析将发现潜在问题，平台甚至会建议改进，以提高代码质量和可维护性。 测试变得简单：集成单元测试框架并自动化流程，以确保您的代码在部署前坚如磐石。 如果有任何可用资源，请分享并帮助我提出您的想法。    提交人    /u/Tight-Chain-3438   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e38s1q/seeking_guidance_for_my_project/</guid>
-      <pubDate>Sun, 14 Jul 2024 18:05:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>我对 Figma 的新色调变换功能和评论中的网站链接进行了逆向工程</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e38r43/i_reverseengineered_figmas_new_tone_changer/</link>
-      <description><![CDATA[    /u/Economy_Future_6752   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e38r43/i_reverseengineered_figmas_new_tone_changer/</guid>
-      <pubDate>Sun, 14 Jul 2024 18:04:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>我只需点击两次即可构建一个托管游戏服务器的平台</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e38nib/i_built_a_platform_to_host_game_servers_in_2/</link>
-      <description><![CDATA[      我制作了一个应用程序，可让您立即托管一个 Minecraft 服务器，只需每月 5 美元，您就可以托管一个 SMP 与您的朋友一起玩。 我从头开始构建了所有内容，包括如下所示的面板 https://preview.redd.it/5pydby20xicd1.png?width=3580&amp;format=png&amp;auto=webp&amp;s=676618b8ea46687a78a5ce7c5cc15d69bf04b69e 您可以在 pella.app 上查看    提交人    /u/ignStonechat   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e38nib/i_built_a_platform_to_host_game_servers_in_2/</guid>
-      <pubDate>Sun, 14 Jul 2024 18:00:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个应用程序来自动化你的提示工作流程</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e38n35/i_made_an_app_to_automate_your_prompts_workflow/</link>
-      <description><![CDATA[      大家好， 我们所有人都在手机上使用 chatgpt。对于每一项任务，我们都必须编写有效的提示才能获得良好的结果。如果这是一项重复性任务，我们必须一次又一次地输入提示。 我每次在手机上复制粘贴/重新输入提示以进行拼写检查、翻译、评论生成等任务，对此感到厌倦。所以，我制作了一个可以保存提示模板并自动执行的应用程序。 介绍 Gprompt，iPhone 的终极 ChatGPT 提示自动化。  无限创建和重复使用提示模板。 自定义样式和语气。 分享推文和LinkedIn 直接发布（永远不再复制）。 一切都保留在您的 ChatGPT 中。  根据您的需求进行转换：  翻译提示：翻译器 语法提示：词典 回复提示：社交帖子评论生成器 还有更多...  给我您宝贵的反馈：https://apps.apple.com/in/app/gprompt-ai-chat-assistant/id6451086523    提交人    /u/vigneshvp   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e38n35/i_made_an_app_to_automate_your_prompts_workflow/</guid>
-      <pubDate>Sun, 14 Jul 2024 17:59:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 YourWay.Store 转变您的副业：互动直播、广播投票竞赛等等！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e37uvb/transform_your_side_project_with_yourwaystore/</link>
-      <description><![CDATA[      大家好，r/SideProject 社区！ 您是否正在从事一个令人兴奋的副业项目，并正在寻找一种独特的方式来分享、推广和货币化它？别再犹豫了！推出 YourWay.Store，这是一个创新平台，旨在为创作者提供一套量身定制的功能，帮助他们取得成功。 主要功能：  带有 SEO 优化的直播： 提高知名度：使用我们集成的 Yoast SEO 工具为搜索引擎优化您的直播，确保您的内容覆盖更广泛的受众。 吸引观众：与您的观众实时互动，在您的项目周围建立强大的社区。  广播投票竞赛： 按次付费竞赛：举办竞赛，观众可以投票选出他们最喜欢的内容。每次投票都会产生收入，因此无论比赛结果如何，每个参与者都有机会赚钱。 实时投票：在广播期间实时显示投票结果，增加刺激性和参与度。  灵活的获利选项： 订阅：为您的关注者提供订阅等级，为他们提供独家内容和访问权限。 按次付费和按消息付费：通过为视频、消息和直播会话设定自己的价格，将您的内容货币化。 多流：同时流式传输到多个平台，扩大您的覆盖面和潜在受众。  全面分析： 效果跟踪：访问详细的分析以更好地了解您的受众并优化您的内容策略。  AI 内容审核： 安全环境：我们的 AI 工具通过审核内容和防止垃圾邮件来确保安全和温馨的空间。  轻松协作和共享： 群组功能：创建具有自己的新闻提要和直播功能的群组，促进协作和社区建设。 内容上传和分享：轻松上传和分享视频、图片和其他内容给您的关注者。  合法和安全： 已验证的创建者：所有内容创建者都经过身份验证，以确保社区值得信赖。 安全支付：利用 Stripe 进行安全交易，使用 QuickBooks 进行无缝直接存款支付。   为什么选择 YourWay.Store？ YourWay.Store 是一个综合平台，结合了直播、互动功能和强大的盈利工具，所有这些都是为了支持和增强您的副项目而设计的。无论您是艺术家、音乐家、开发者还是企业家，YourWay.Store 都能为您提供成功所需的工具。 立即开始！ 借助 YourWay.Store 将您的业余项目转变为蓬勃发展的成功项目。立即加入并开始利用这些强大的功能来实现您的目标。查看我们的 YouTube 视频，了解按次投票付费功能的实际效果！ 期待在 YourWay.Store 上看到您的精彩项目！ https://preview.redd.it/6lgv2mz1ricd1.png?width=2892&amp;format=png&amp;auto=webp&amp;s=1a1ac280c06f5dd9874f1c3e2ce1d4351a9cba37    提交人    /u/YourWayStore   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e37uvb/transform_your_side_project_with_yourwaystore/</guid>
-      <pubDate>Sun, 14 Jul 2024 17:26:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
