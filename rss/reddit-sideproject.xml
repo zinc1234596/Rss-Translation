@@ -4,7 +4,42 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Tue, 16 Jul 2024 03:17:59 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jul 2024 06:19:24 GMT</lastBuildDate>
+    <item>
+      <title>专为天气敏感人群打造的应用</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e4gmff/an_app_for_weathersensitive_people/</link>
+      <description><![CDATA[大家好！我是一个对天气敏感的人（我有偏头痛、花粉过敏和一些不适症状），所以我有了一个想法，开发一款根据天气预测健康症状的应用程序。我有技术专长，但我很好奇这是否是一个可靠的想法。  你怎么看？ 我决定召集一些 beta 用户来验证这个概念 - 欢迎加入：https://climahealth.app/    提交人    /u/Time-Letterhead-3470   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e4gmff/an_app_for_weathersensitive_people/</guid>
+      <pubDate>Tue, 16 Jul 2024 05:23:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>您从哪里获得灵感来进行您的副业项目？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e4fw5f/where_do_you_get_your_inspiration_for_your_side/</link>
+      <description><![CDATA[大家好，我感觉朝九晚五的工作让我的创意有些枯竭。你从哪里找到了创作的灵感？我很想听听你的经历，也许能从中得到一些灵感！    提交人    /u/NamelessColor659   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e4fw5f/where_do_you_get_your_inspiration_for_your_side/</guid>
+      <pubDate>Tue, 16 Jul 2024 04:39:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的第一个 SwiftUI 应用程序：流畅小说 – 35 种以上语言的免费每日双语故事！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e4f4v9/my_first_swiftui_app_fluent_fiction_free_daily/</link>
+      <description><![CDATA[大约一年半前，我开始尝试各种 LLM 和神经 TTS 技术，看看如何使用它们来构建有用的工具。我尝试了各种不同的方法，但发现这个项目 Fluent Fiction 有一些吸引力。 Fluent Fiction 是一个播客网络，每天用 35 多种语言播放播客，其中包含用目标语言缓慢朗读的免费故事 + 英语翻译 + 词汇和抄本。 过去学习语言时，我发现很难找到可访问的内容来练习听力理解，所以我创建了 Fluent Fiction 来解决这个问题。随着时间的推移，我改进了工作流程以改进故事，添加了语言，并使后端流程更加健壮。 最终，我添加了带有 Stripe 的无广告订阅模式。 最近，我一直在自学 Swift + SwiftUI，最终使用原生 Swift 和 SwiftUI 为 iPhone、iPad 和 macOS（Catalyst）构建这个新应用程序，因为我今年早些时候被解雇了。 该应用程序扩展了播客概念，通过我称之为 Live Lantern 的功能提供更具互动性和视觉性的体验，它可以让您在成绩单突出显示当前单词和句子（卡拉 OK / 跟唱风格）的同时听到故事，以建立大脑中研究语法书和抽认卡的“学术”阅读部分与“听力”部分之间的联系。大脑中运作更直观的部分。 最近，我为支持的非拉丁字母语言（希腊语、塞尔维亚语、印地语、希伯来语、中文、日语、韩语和乌克兰语）添加了一项很棒的功能，以便您可以在原生脚本之间切换故事，如下所示： 日语： 今日はとても暑いですね。-&gt; kyō ha totemo atsui desu ne. 普通话： 今天的天气非常热。-&gt; jīn tiān de tiān qì fēi cháng rè. 希腊语： Σήμερα κάνει πολύ ζέστη。-&gt;记住，不要将就。 韩语：오늘 날씨가 매우 덥네요。-&gt; oneul nalssiga maeu deobneyo。 印地语：आज का मौसम बहुत गर्म है। -&gt; āja kā mausama bahuta garma hai。 从很多方面来说，构建这个平台都是一项挑战，但看到一切整合在一起并从听众和客户那里获得很好的反馈，是一件非常有趣的事情。在过去的一年里，听众下载了超过 50 万集。 对于该应用，我必须将现有的剧集数据库与新的 API 端点集成以支持该应用。大多数内容都是用 Python 和 AWS 技术构建的，而该应用还使用 Firebase 进行用户身份验证和数据同步。App Store Connect API 的使用特别令人沮丧，尤其是在设置众多订阅选项（36 种语言各一个）时。 最棘手的部分之一是弄清楚如何在不违反 Apple 的应用内购买服务条款的情况下连接现有的 Fluent Fiction Plus 订阅者。它需要一些创造性的问题解决方法和对 Apple 政策的谨慎理解。 在此过程中，我学到了很多有关应用开发的知识，从 UI 设计原则到性能优化。 我一直都对技术有天赋，但从来都不是一个很厉害的开发者，因此我对这个项目的进展感到非常自豪。 如果您对技术细节、语言学习或个人应用开发的挑战感兴趣，我很乐意进一步讨论。 对于下一个功能，我计划让听众生成自己的故事并与朋友分享，这样他们就可以专注于对他们特别重要的主题和词汇。此外，还添加了词汇管理功能，以便您可以直接从故事中将新词汇导入词汇卡堆栈。我也非常高兴尝试 Apple 的新设备翻译 API。 我也很乐意听到任何反馈！ 该应用程序是 Fluent Fiction： https://apps.apple.com/app/id6502964491    提交人    /u/FluentFiction_org   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e4f4v9/my_first_swiftui_app_fluent_fiction_free_daily/</guid>
+      <pubDate>Tue, 16 Jul 2024 03:56:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一款应用程序，用于追踪患有肠道疾病的人的排便情况。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e4eqvk/i_made_an_app_for_tracking_poop_for_people_with/</link>
+      <description><![CDATA[        提交人    /u/Interesting-Shine611   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e4eqvk/i_made_an_app_for_tracking_poop_for_people_with/</guid>
+      <pubDate>Tue, 16 Jul 2024 03:35:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Claude 3.5 构建全栈项目 | 零编码知识、200 多个提示，耗时 12 天。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e4epuy/built_a_full_stack_project_using_claude_35_zero/</link>
+      <description><![CDATA[      大家好， 首先，我完全没有编码知识，但我构建了 SocialClout。您可以在下面查看我的视频。 https://youtu.be/vD6hs5DE2Dg（如果视频无法播放） https://reddit.com/link/1e4epuy/video/uqwhamodwscd1/player 因此，我想到了一个网站，有影响力的人可以在此将他们的社交媒体影响力代币化，并将代币出售给他们的受众，受众可以买卖或交易这些代币。你知道公司如何拥有股票和 IPO，同样，我想创建一个系统让有影响力的人做同样的事情。但是，我没有任何编码知识和经验。因此，我购买了 Claude AI 的专业版，经过大约 200 多次提示和 12 天的时间，我拥有了一个功能齐全的网站，包括数据库、前端、后端代码等所有内容，唯一缺少的是支付网关，因为当我尝试深入了解它时，我实际上无法为这样的事情实施可行的解决方案，因为它需要大量的监管检查和大量的前期投资。这个平台专为美国观众打造，因为在我的家乡，有影响力的人永远不会使用它，除非它在西方流行起来。正因为如此，我无法使用支付系统，因为它非常复杂，充满了许多规定、费用和前期成本。 现在，如果我自己坐下来开始一步一步学习如何做，我无法想象如果没有 Claude AI 的帮助，我会创建这样的网站。更糟糕的是，如果我先学会了如何建立网站，然后再执行，我至少需要 6 个月的时间才能做到这一点。 如果有人想利用这个平台来帮助我以正确的方式设置一切，请联系我，因为我认为如果以正确的方式向正确的受众推销，它会非常有效。也许合适的影响者可以接受它，然后它会有所成就。让我知道。    提交人    /u/Otherwise-Night-7303   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e4epuy/built_a_full_stack_project_using_claude_35_zero/</guid>
+      <pubDate>Tue, 16 Jul 2024 03:34:02 GMT</pubDate>
+    </item>
     <item>
       <title>PPResume：基于 LaTeX 的简历生成器，现在是 PWA 并支持多种语言</title>
       <link>https://www.reddit.com/r/SideProject/comments/1e4e7ht/ppresume_the_latex_based_resume_builder_now_is_a/</link>
@@ -74,41 +109,6 @@
       <description><![CDATA[对于任何有饮食限制的人来说，外出就餐都可能是一个挑战，无论是出于选择还是由于医疗条件。我正在开发一个应用程序来简化这个过程。 它的工作方式如下（查看演示）：  从大量预设列表中选择您的饮食限制，或添加您的自定义偏好。 提供餐厅的名称并上传菜单图片。 获取个性化建议，将其保存到您的帐户，并安心用餐！  注册获取测试版访问权限以试用该应用程序并随时了解我们的进度。 您会使用当前状态还是调整后的状态的这个应用程序？ 这个项目还处于早期阶段，所以我很感激任何反馈。     由    /u/Motor-Impression2872   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1e49gcf/feedback_request_tool_that_aims_to_simplify/</guid>
       <pubDate>Mon, 15 Jul 2024 23:21:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一份每日正能量通讯</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e48j7l/i_created_a_daily_positivity_newsletter/</link>
-      <description><![CDATA[https://peacepulse.beehiiv.com/subscribe 大家好， 我想分享一个我一直在做的、让我非常兴奋的副业。我创建了一份每日积极通讯，旨在帮助人们以动力和良好的氛围开始新的一天。 在意识到每天早上几句积极的话语可以改变我的心态后，我产生了这个想法。我想与他人分享这种体验，所以我开始编写每日肯定和振奋人心的信息。 通讯是每天早上发送到您收件箱的一小剂积极信息。这是一个有益的项目，来自社区的反馈令人难以置信地鼓舞人心。 如果您有兴趣以积极的态度开始新的一天，请随时查看。我始终乐于接受反馈和建议，以使其变得更好。 感谢您让我分享，希望大家度过美好的一天！    提交人    /u/LaughWeekly9324   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e48j7l/i_created_a_daily_positivity_newsletter/</guid>
-      <pubDate>Mon, 15 Jul 2024 22:40:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>推出我的众筹平台</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e4865z/launched_my_crowdfunding_platform/</link>
-      <description><![CDATA[      嗨，我最近启动了我的众筹平台。您可以为租金、小型企业等进行众筹。非常高兴并准备好让更多个人和企业在我们的平台上进行众筹。我们的网站是 backbil . com     提交人    /u/spookycorn123   [link] [comments] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e4865z/launched_my_crowdfunding_platform/</guid>
-      <pubDate>Mon, 15 Jul 2024 22:25:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>购买盈利的 YouTube 频道</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e47jjd/buy_monetized_youtube_channels/</link>
-      <description><![CDATA[购买盈利频道的好处  有资格立即赚钱。 保证购买后原创视频不会出现货币化问题。 拥有 1000-3000 个真实订阅者，您可以快速入门。 保证频道质量和独特性。 我们专门的支持团队提供超快速交付。 免费的 Google AdSense 帐户与您所在的国家/地区相匹配。 没有版权声明或社区警示 AdSense 更改支持     提交人    /u/Digitalbanks   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e47jjd/buy_monetized_youtube_channels/</guid>
-      <pubDate>Mon, 15 Jul 2024 21:59:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>我应该在 Reddit 上创建一家你选择的初创公司吗？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e47eag/should_i_build_a_startup_of_your_choice_here_on/</link>
-      <description><![CDATA[大家好！我是 Reddit 新手，发现 Build in Public 子版块似乎很安静。 你们对一些 Build in Public 内容 感兴趣吗？ 您希望看到什么样的产品或开发方面？    提交人    /u/offtopfounder   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e47eag/should_i_build_a_startup_of_your_choice_here_on/</guid>
-      <pubDate>Mon, 15 Jul 2024 21:53:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>放弃赚钱，让应用程序真正免费</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e475pv/gave_up_on_making_any_money_made_the_app_actually/</link>
-      <description><![CDATA[      不久前我在这里发帖吐槽我的应用，虽然遭到了应有的吐槽，但实际上它帮助我改善了 UI 和用户体验，所以我很高兴收到这样的回复。我意识到我做的东西市场并不大，但我从中得到了一些好处，希望其他人也能如此。我删除了所有功能的付费墙，并留下了一个捐赠选项，如果有人愿意慷慨解囊。photobooth 应用让你可以制作自定义设计并打印出来，除非你有无线打印机和 4x6 相纸，否则它真的不是很独特。我把它带到了美洲杯观看派对上，并向所有想要照片的家庭分发了照片，看到他们在那里得到打印的纪念品时有多开心，真是太好了。无论如何，如果你想吐槽我，我很乐意听取反馈 :-)    提交人    /u/krazycarbo   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e475pv/gave_up_on_making_any_money_made_the_app_actually/</guid>
-      <pubDate>Mon, 15 Jul 2024 21:43:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
