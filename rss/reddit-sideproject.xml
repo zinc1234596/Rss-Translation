@@ -4,7 +4,91 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Wed, 17 Jul 2024 12:25:45 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jul 2024 15:16:14 GMT</lastBuildDate>
+    <item>
+      <title>我创建了一个 PasteBin 的开源替代品</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e5klac/i_built_an_open_source_alternative_to_pastebin/</link>
+      <description><![CDATA[TextBin Web App 演示 我正在使用 Nextjs 和 Golang 开发一个开源 paste bin 项目。这是该项目的首次发布，其中每个文本都是公开的，并具有 MVP 的所有基本功能。接下来，我正在开发身份验证功能，它将具有类似社交媒体的操作，即用户可以喜欢和评论文本、关注用户、阻止用户等。如果您有任何反馈，请告诉我，谢谢。这是实时链接 --&gt; 实时链接 Github Repo： 前端 --&gt; https://github.com/The-Enthusiast-404/text-bin-frontend 后端 -&gt; https://github.com/The-Enthusiast-404/text-bin-backend    提交人    /u/lazyhawk20   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e5klac/i_built_an_open_source_alternative_to_pastebin/</guid>
+      <pubDate>Wed, 17 Jul 2024 15:09:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>用我的第一个 SaaS 项目进行试水</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e5kepq/testing_the_water_with_my_first_saas_project/</link>
+      <description><![CDATA[我写代码已经很长时间了，但我一直对建立一个纯粹为了好玩的副项目感兴趣，也许是为了学习一些新东西。所以，在过去几周的晚上和周末，我建立了一个年假计划器（带薪休假跟踪器），我把它放到那里看看会发生什么（如果有的话）。非常欢迎您尝试一下，或者分享您对这个项目的看法。好吧……管理年假或带薪休假可能不是世界上最令人兴奋的事情，但它是每个团队都需要的工具或功能之一，对吧？https://teamtoggle.com    提交人    /u/Electronic-Coyote787   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e5kepq/testing_the_water_with_my_first_saas_project/</guid>
+      <pubDate>Wed, 17 Jul 2024 15:02:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的 4 步框架助您获得前 5 位客户</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e5keed/my_4step_framework_to_get_your_first_5_customers/</link>
+      <description><![CDATA[  由    /u/Nouman-Rahman  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e5keed/my_4step_framework_to_get_your_first_5_customers/</guid>
+      <pubDate>Wed, 17 Jul 2024 15:02:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>我完成了第一轮用户访谈。令人震惊的是，我们都有同样的问题！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e5kdfc/i_completed_my_first_round_of_user_interviews/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e5kdfc/i_completed_my_first_round_of_user_interviews/</guid>
+      <pubDate>Wed, 17 Jul 2024 15:01:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>通过 fiverr 聘请社交媒体经理是好主意吗？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e5k5vo/hiring_a_social_media_manager_via_fiverr_good_idea/</link>
+      <description><![CDATA[大家好， 我正在运营一家 SaaS 初创公司，到目前为止一直在自己处理营销事宜。我开始觉得我需要帮助，尤其是在社交媒体方面。你认为 fiverr 是雇人做这件事的好地方吗？卖家的评价确实不错，但我不知道这是否是一个彻头彻尾的骗局 :) 谢谢！    提交人    /u/GeePeeTea   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e5k5vo/hiring_a_social_media_manager_via_fiverr_good_idea/</guid>
+      <pubDate>Wed, 17 Jul 2024 14:52:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>基于流行的 SaaS 样板，聘请开发人员并以较低的成本构建您的 MVP。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e5japg/hire_a_dev_and_build_your_mvp_for_less_based_on/</link>
+      <description><![CDATA[嗨，Reddit！ 我已经创建了一个自由职业者市场，使用流行的 SaaS 样板来构建 MVP。  我所做的是，我找到了 9 位愿意承担定制项目的开发人员，他们都是原始样板创建者。 Next.js、Supabase、Prisma 和许多其他技术堆栈可用。您可以在每个专家页面上找到开发价格。与传统的 webdev 机构相比，成本便宜 10 倍。  我刚刚推出，希望得到一些反馈或问题。请随时 PM。 mvpbase.com    提交人    /u/leanpreneur   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e5japg/hire_a_dev_and_build_your_mvp_for_less_based_on/</guid>
+      <pubDate>Wed, 17 Jul 2024 14:16:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的 Easy Stopwatch 应用程序每日活跃用户数达到 3.7K</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e5j48i/i_got_37k_daily_active_users_to_my_easy_stopwatch/</link>
+      <description><![CDATA[      我的 android Easy Stopwatch 应用程序 https://easystopwatch.app/ 每天的活跃用户已超过 3.7K！ https://preview.redd.it/rwb9jp1g63dd1.png?width=574&amp;format=png&amp;auto=webp&amp;s=30b1b94d61c4865e7d9b8f711beb0154c5040a78 多年来，我开发应用程序时有两个目标，第一，独自完成所有工作。第二，让应用程序尽可能简单易用。 努力是值得的！ 您觉得呢？  https://preview.redd.it/kg1b8ahe63dd1.png?width=635&amp;format=png&amp;auto=webp&amp;s=e60d07a6a9cf40e984ad6a09f17d41dceaf09131    提交人    /u/ChoiceTwist7237   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e5j48i/i_got_37k_daily_active_users_to_my_easy_stopwatch/</guid>
+      <pubDate>Wed, 17 Jul 2024 14:08:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>3 个月后 - 获得了我的第一个 200 多个用户和 1 个付费客户！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e5j0ak/3_months_in_got_my_first_200_users_and_1_paying/</link>
+      <description><![CDATA[      当我对基于 markdown 的内容引擎和其他 CMS 感到沮丧时，我开始研究 wisp，当时我只需要一些简单的东西来向我的网站添加一个博客。作为一名开发人员，我很乐意自定义所有其他页面，但我只需要一种更简单的方式来完成一些事情，比如邀请同事撰写文章并将图片放入帖子中。 从那时起，我尝试了不同的方法来发展这个项目：  创建我自己的博客入门套件（现在有 22 颗星） 撰写了许多帮助初创公司创始人的博客文章 将一些书面内容重新用于社交媒体帖子（LinkedIn 和 Twitter） 目前正在尝试整理内容系列，介绍其他初创公司使用内容营销来发展业务  一些原始统计数据：  215 位用户 778 篇博客文章 总收入 98 美元  所有这些都是在我家第二个孩子的到来时完成的（他和他的姐姐一样是个快乐的孩子）。 带有斜线命令的令人愉快的博客编辑器 我知道要求注册是一个很大的障碍，所以这里有一个快速的方法，你可以试用编辑体验，这是产品的核心。 希望您能看一看并给我反馈！    提交人    /u/geeksg   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e5j0ak/3_months_in_got_my_first_200_users_and_1_paying/</guid>
+      <pubDate>Wed, 17 Jul 2024 14:04:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的 AI 驱动的 Side 项目使用数据：TaxGPT.ca</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e5ivb8/usage_data_for_my_aipowered_side_project_taxgptca/</link>
+      <description><![CDATA[        提交人    /u/MisterPaulCraig   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e5ivb8/usage_data_for_my_aipowered_side_project_taxgptca/</guid>
+      <pubDate>Wed, 17 Jul 2024 13:58:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>将学术文章转换为音频的应用程序</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e5hjtl/an_app_that_converts_academic_articles_to_audio/</link>
+      <description><![CDATA[我创建了一款应用程序（名为 Audiolizer），可使用 AI 将研究论文转换为音频。 AI 可以解释数学、表格、图片或其他视觉提示，因此您可以仅从音频中了解尽可能多的信息。我有 100 多个注册用户，但我很难收集有关该应用程序的反馈，因此实际上没有一个用户转换。 它具有多种功能，例如您可以在其中找到所有论文的图库，或 AI 解释的自定义复杂程度。 我很想听听您的反馈！  您认为该应用程序有用吗？ 如果您阅读研究论文，您会为类似的应用程序付费吗？     提交人    /u/Various_Touch_1731   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e5hjtl/an_app_that_converts_academic_articles_to_audio/</guid>
+      <pubDate>Wed, 17 Jul 2024 12:57:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一款应用程序来跟踪汽车服务并提醒您即将进行的维护</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e5h3vf/i_made_an_app_to_keep_track_of_car_services_and/</link>
+      <description><![CDATA[https://autozis.com/ Autozis 的想法来自于我自己的经历，我很难记住我的车上次做某项服务的时间以及下一次服务是什么时候。 我想要一个应用程序，它不仅可以提醒我即将进行的维护，还可以保留对我的车进行的所有维护的详细历史记录。  虽然应用商店中有大量应用程序，但似乎大多数仅针对移动设备，Autozis 在网络上运行，因此它可以在任何带有浏览器的设备上运行。 总而言之，该应用程序目前支持：  自动服务提醒 维护日志 维修成本跟踪  它有助于掌握车辆维护并简化管理汽车服务的流程。 有一个可用于试用该应用程序的演示帐户。 非常感谢任何反馈， 提前致谢！    提交人    /u/David-Moreira   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e5h3vf/i_made_an_app_to_keep_track_of_car_services_and/</guid>
+      <pubDate>Wed, 17 Jul 2024 12:35:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>完全免费的 c# 和编码大师班（每次 4-5 小时）</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e5gzw6/completely_free_c_coding_masterclass_45h_each/</link>
+      <description><![CDATA[您好，这是我一直在开发的完全免费的游戏开发课程，而且已经开始了，但今天和明天的课程非常重要且具有普遍性，我希望能够帮助更多的人（这样您也可以提问等），今天 @ 18:30 EEST 加入这里（您也可以观看录音，但当然现场直播更酷） 具体来说，今天我们将有一个 3-4 小时的“C# 编码大师班”明天还有一场“C# Meets Unity”，可能也要 3-4 小时。 第一周的情况如下，如果你对完整课程感兴趣，它都是公开的，没有人出售任何东西：链接    提交人    /u/lutian   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e5gzw6/completely_free_c_coding_masterclass_45h_each/</guid>
+      <pubDate>Wed, 17 Jul 2024 12:30:13 GMT</pubDate>
+    </item>
     <item>
       <title>我为 PR 制作了一个倒计时合并计时器，我厌倦了缓慢的代码审查。明天将在 PH 上发布。</title>
       <link>https://www.reddit.com/r/SideProject/comments/1e5g8w4/i_made_a_countdown_merge_timer_for_prs_i_am_tired/</link>
@@ -25,90 +109,6 @@
       <description><![CDATA[https://www.youtube.com/watch?v=co4koppeTUs&amp;t=7s https://app.theworksheep.com/ 这是我的 webapp，它允许数学老师轻松快速地制作他们的工作表。他们所要做的就是选择主题、年级、难度级别和问题数量，应用程序将自动生成问题并创建他们可以下载的 PDF。我希望得到一些关于该应用程序的反馈 它仍然很新，我目前正在使用免费套餐进行托管 - 因此可能会出现一些滞后和缓慢 - 提前致歉 您也可以使用通过反馈按钮链接的谷歌表单来添加任何您认为可以改进应用程序的内容。    提交人    /u/Chemical_Price_6191   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1e5ft8o/this_is_my_first_edtech_project/</guid>
       <pubDate>Wed, 17 Jul 2024 11:27:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>改变你的财务旅程：可视化、共享并与社区建立联系</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e5fqw0/transform_your_financial_journey_visualize_share/</link>
-      <description><![CDATA[      我已经在这个项目上工作了一个月。它最初是一个可视化我的每月账单的页面，并将它们与我自己的财务负担进行比较。在看到很多财务比较 reddit 帖子后，我认为这也可能有助于其他人开始这段旅程。 我构建的平台可帮助您可视化您的资金流动和 FU 资金旅程。我的网站提供工具来跟踪您的财务进度并做出明智的决策，同时将您与志同道合的个人支持社区联系起来。 主要特点：  可视化您的资金流动：在清晰的交互式桑基图中查看您的收入、预算、房屋成本、债务支付和投资。 社区见解：与社区分享您的财务图表以获得宝贵的反馈和支持。 参与和学习：与其他成员讨论想法、策略和经验，以增强您的财务规划。 社会证明：查看您关注或聊天的社区成员的计划变化（如果愿意，可以匿名）。   我目前正在接受 Noah Kagan 的 #thedollarchallenge，并邀请其他用户尝试 Early Bird 计划，并告诉我您是否喜欢它。和我一起掌控您的财务状况并实现您的 FU 金钱目标！ 需要反馈：  我如何提高登录页面的清晰度和可用性？ 在努力实现个人财务独立或追随其他财务影响者时，您面临哪些问责问题？  期待您的反馈和建议。谢谢！ 在这里查看并立即开始您的旅程！ https://preview.redd.it/rb83v9lwc2dd1.jpg?width=1186&amp;format=pjpg&amp;auto=webp&amp;s=040c9735343f9140c61901f1a3e80d29d2bd0557    由    /u/Server_Extension_855  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e5fqw0/transform_your_financial_journey_visualize_share/</guid>
-      <pubDate>Wed, 17 Jul 2024 11:23:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>我将 Github 游戏化了！🦁 通过 PR 合并、批准和评论赚取 XP 并收集表情符号！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e5feiw/i_gamified_github_earn_xp_and_collect_emojis/</link>
-      <description><![CDATA[        提交人    /u/Quirky-Baseball-8440   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e5feiw/i_gamified_github_earn_xp_and_collect_emojis/</guid>
-      <pubDate>Wed, 17 Jul 2024 11:03:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>7 天内获得 1000 名用户</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e5ep5j/getting_to_1000_users_in_7_days/</link>
-      <description><![CDATA[      分享我们的第一个副项目启动故事。我们创建了第一个由人工智能驱动的目的地查找器。我们来自荷兰，没有开发经验，年龄分别为 28 岁和 30 岁（意大利人和法国人）。 作为环球旅行者和 AI 爱好者，我们利用 ChatGPT 按航班时间、天气、预算、生活方式等过滤世界。它建立了我们的整个数据库并帮助我们编写了这个项目。我们以为困难的部分已经过去了，但事实上，我们在一周前就推出了，前面还有很长的路要走！ 为一个全新的网站带来流量真的很难。我们确实在 7 天内通过 WoM 和我们的网络获得了 1000 名用户。我不确定这是好是坏，因为我知道这一切都来自直接和谷歌搜索。我们也仍处于改进产品的阶段。 我们希望您能看一看并给我们反馈。 它叫做 OFFAIGO。 享受并去探索吧！   由    /u/That_Ad1078  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e5ep5j/getting_to_1000_users_in_7_days/</guid>
-      <pubDate>Wed, 17 Jul 2024 10:20:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>帮助德国求职者撰写求职信</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e5eol6/helping_german_job_seekers_with_application/</link>
-      <description><![CDATA[我想分享我的副业项目 BewerbungsBaukasten，这是一个旨在帮助德国求职者创建专业求职信的平台。这个项目始于我自己的经历以及我从其他在德国申请过程中遇到困难的人那里收到的反馈。 查看    由   提交  /u/til25   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e5eol6/helping_german_job_seekers_with_application/</guid>
-      <pubDate>Wed, 17 Jul 2024 10:19:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>我开发了一款应用，可以让你创建一个个人页面，从 Spotify 和 Instagram 获取实时数据</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e5el2j/i_built_an_app_that_lets_you_build_a_personal/</link>
-      <description><![CDATA[    /u/thenextversion   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e5el2j/i_built_an_app_that_lets_you_build_a_personal/</guid>
-      <pubDate>Wed, 17 Jul 2024 10:13:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个简单的工具来定制 Mac 终端</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e5e3ka/i_built_a_simple_tool_to_customize_the_mac/</link>
-      <description><![CDATA[        提交人    /u/nocoolnamesleft1   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e5e3ka/i_built_a_simple_tool_to_customize_the_mac/</guid>
-      <pubDate>Wed, 17 Jul 2024 09:41:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的第一个应用程序 - 用于组织、成长和学习的自我提升应用程序</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e5dzeu/my_first_app_selfimprovement_app_to_organise_grow/</link>
-      <description><![CDATA[      习惯、待办事项和书籍摘要应用程序。书籍摘要是使用人工智能生成的，以便在 10-15 分钟的阅读时间内全面了解书中所有要点。  需要非常诚实的反馈 我知道这是一个竞争激烈的领域，待办事项和习惯部分将完全免费，书籍摘要部分每周大约 70 便士    提交人    /u/UnderstandingSad9514   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e5dzeu/my_first_app_selfimprovement_app_to_organise_grow/</guid>
-      <pubDate>Wed, 17 Jul 2024 09:34:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一款应用程序，可以让我丰富通过 Linkedin 上的点赞或评论与帖子互动的用户的电子邮件。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e5dtyg/i_made_a_app_that_allows_me_enrich_emails_of/</link>
-      <description><![CDATA[        提交人    /u/Ok-Avocado9440   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e5dtyg/i_made_a_app_that_allows_me_enrich_emails_of/</guid>
-      <pubDate>Wed, 17 Jul 2024 09:24:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>我构建了这个菜单栏应用程序，以便借助人工智能来提高我的写作水平。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e5dfda/i_built_this_menubar_app_to_improve_my_writing/</link>
-      <description><![CDATA[        提交人    /u/m91michel   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e5dfda/i_built_this_menubar_app_to_improve_my_writing/</guid>
-      <pubDate>Wed, 17 Jul 2024 08:56:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>我已经创建了一个用于在 google docs 中添加语音评论的新工具！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e5deju/i_have_created_a_new_tool_for_adding_voice/</link>
-      <description><![CDATA[大家好， 我刚刚发布了一款新的 Chrome 扩展程序，可让您向 Google 文档添加语音评论。我认为你们中的一些人可能会觉得它很有用，所以我想在这里分享它。 主要功能：  单击即可录制音频 直接在 Google 文档中收听音频评论 单击即可生成转录（可选）  此工具非常适合：  无需输入长段落即可提供详细反馈 更有效地协作，尤其是在远程团队中 节省撰写大量评论的时间 为喜欢说话而不是打字的人提供便利  链接：https://chromewebstore.google.com/detail/say-it-so-add-voice-comme/fomjgpoecipkglkippemdkiaanknpojg 我很乐意听听您的想法或回答您可能遇到的任何问题。如果您尝试了，请告诉我效果如何！    提交人    /u/advait_vaidya   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e5deju/i_have_created_a_new_tool_for_adding_voice/</guid>
-      <pubDate>Wed, 17 Jul 2024 08:54:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>一款供数字游民寻找附近其他数字游民的网络应用</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e5ddgc/a_web_app_for_digital_nomads_to_find_other/</link>
-      <description><![CDATA[       由    /u/IndieRoland  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e5ddgc/a_web_app_for_digital_nomads_to_find_other/</guid>
-      <pubDate>Wed, 17 Jul 2024 08:52:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一款应用程序，让您可以立即看到所有黑白照片！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e5dbr8/i_made_an_app_that_let_you_see_all_of_your_photos/</link>
-      <description><![CDATA[      大家好， https://preview.redd.it/mttlxwohl1dd1.png?width=4500&amp;format=png&amp;auto=webp&amp;s=9e49a271148ea14b6974f5123829c75080e432ed 几个月前，我拍摄了一些随机老人的肖像照片，我忘了将相机滤镜更改为黑白。拍完这些照片后，当我看着它们时，我立刻注意到那些令人惊叹的照片需要变成黑白的。 但是照片数量很少，我又很懒。所以，我没有转换它们，突然我有了这个想法，制作一个应用程序，它可以显示所有图库/照片的黑白图像，而无需将它们变成黑白图像。 所以，作为一名开发人员，我在几天内编写了该应用程序，它成为了迄今为止我开发的最好的应用程序，而且这个想法也非常独特。有成千上万的黑白滤镜应用程序，但只有一个黑白图库/照片应用程序可以立即显示所有照片的黑白图像。 就像你穿着黑白白色太阳镜并打开您的照片/图库应用程序。 您可以从这里检查应用程序：ansalapp.super.site    提交人    /u/SnooStories3986   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e5dbr8/i_made_an_app_that_let_you_see_all_of_your_photos/</guid>
-      <pubDate>Wed, 17 Jul 2024 08:49:26 GMT</pubDate>
     </item>
     </channel>
 </rss>
