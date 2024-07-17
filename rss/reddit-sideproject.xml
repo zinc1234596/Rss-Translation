@@ -4,7 +4,84 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Wed, 17 Jul 2024 09:16:27 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jul 2024 12:25:45 GMT</lastBuildDate>
+    <item>
+      <title>我为 PR 制作了一个倒计时合并计时器，我厌倦了缓慢的代码审查。明天将在 PH 上发布。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e5g8w4/i_made_a_countdown_merge_timer_for_prs_i_am_tired/</link>
+      <description><![CDATA[https://mergetimer.app Demo -&gt; https://youtu.be/I4PbXWJgYns?si=zQ43LRSxQhJsm15i ProductHunt -&gt; https://www.producthunt.com/posts/mergetimer 代码审查需要快速。这样效率更高（冲突更少，更容易进入最近的 prs 上下文），团队交付速度更快。  问题是，许多开发人员仍然没有将代码审查优先于其他任务的习惯，而且他们也没有动力这样做。 这里不是在责怪开发人员。作为开发人员，我们都讨厌等待很长时间才能审查我们的 PR。 一些公司通过结对编程和基于主干的开发来解决这个问题。通过这种方式，他们让他们的工作流程强制执行快速代码审查（他们在编码时已经在进行审查）。然而，他们也强制结对编程，我认为这并不适合每一项任务或每个开发人员。 所以，问题是：我们如何才能让工作流程强制执行快速代码审查，而不是一直强制结对编程？ 我们想出了 MergeTimer。当然，您随时可以停用自动合并、暂停计时器或向主分支添加分支保护规则。但只要在 PR 上有一个计时器，开发人员就会有一个明确而共同的目标，即在计时器达到零之前完成代码审查。  我会关注所有评论和问题！让我知道你的想法！    由   提交  /u/mpl1018   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e5g8w4/i_made_a_countdown_merge_timer_for_prs_i_am_tired/</guid>
+      <pubDate>Wed, 17 Jul 2024 11:51:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的副项目在 8 天内收入超过 8000 美元！AMA</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e5g04v/my_sideproject_crossed_8k_in_revenue_in_8_days_ama/</link>
+      <description><![CDATA[        由    /u/rmanoj_11  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e5g04v/my_sideproject_crossed_8k_in_revenue_in_8_days_ama/</guid>
+      <pubDate>Wed, 17 Jul 2024 11:38:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>这是我的第一个教育科技项目</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e5ft8o/this_is_my_first_edtech_project/</link>
+      <description><![CDATA[https://www.youtube.com/watch?v=co4koppeTUs&amp;t=7s https://app.theworksheep.com/ 这是我的 webapp，它允许数学老师轻松快速地制作他们的工作表。他们所要做的就是选择主题、年级、难度级别和问题数量，应用程序将自动生成问题并创建他们可以下载的 PDF。我希望得到一些关于该应用程序的反馈 它仍然很新，我目前正在使用免费套餐进行托管 - 因此可能会出现一些滞后和缓慢 - 提前致歉 您也可以使用通过反馈按钮链接的谷歌表单来添加任何您认为可以改进应用程序的内容。    提交人    /u/Chemical_Price_6191   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e5ft8o/this_is_my_first_edtech_project/</guid>
+      <pubDate>Wed, 17 Jul 2024 11:27:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>改变你的财务旅程：可视化、共享并与社区建立联系</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e5fqw0/transform_your_financial_journey_visualize_share/</link>
+      <description><![CDATA[      我已经在这个项目上工作了一个月。它最初是一个可视化我的每月账单的页面，并将它们与我自己的财务负担进行比较。在看到很多财务比较 reddit 帖子后，我认为这也可能有助于其他人开始这段旅程。 我构建的平台可帮助您可视化您的资金流动和 FU 资金旅程。我的网站提供工具来跟踪您的财务进度并做出明智的决策，同时将您与志同道合的个人支持社区联系起来。 主要特点：  可视化您的资金流动：在清晰的交互式桑基图中查看您的收入、预算、房屋成本、债务支付和投资。 社区见解：与社区分享您的财务图表以获得宝贵的反馈和支持。 参与和学习：与其他成员讨论想法、策略和经验，以增强您的财务规划。 社会证明：查看您关注或聊天的社区成员的计划变化（如果愿意，可以匿名）。   我目前正在接受 Noah Kagan 的 #thedollarchallenge，并邀请其他用户尝试 Early Bird 计划，并告诉我您是否喜欢它。和我一起掌控您的财务状况并实现您的 FU 金钱目标！ 需要反馈：  我如何提高登录页面的清晰度和可用性？ 在努力实现个人财务独立或追随其他财务影响者时，您面临哪些问责问题？  期待您的反馈和建议。谢谢！ 在这里查看并立即开始您的旅程！ https://preview.redd.it/rb83v9lwc2dd1.jpg?width=1186&amp;format=pjpg&amp;auto=webp&amp;s=040c9735343f9140c61901f1a3e80d29d2bd0557    由    /u/Server_Extension_855  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e5fqw0/transform_your_financial_journey_visualize_share/</guid>
+      <pubDate>Wed, 17 Jul 2024 11:23:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>我将 Github 游戏化了！🦁 通过 PR 合并、批准和评论赚取 XP 并收集表情符号！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e5feiw/i_gamified_github_earn_xp_and_collect_emojis/</link>
+      <description><![CDATA[        提交人    /u/Quirky-Baseball-8440   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e5feiw/i_gamified_github_earn_xp_and_collect_emojis/</guid>
+      <pubDate>Wed, 17 Jul 2024 11:03:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>7 天内获得 1000 名用户</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e5ep5j/getting_to_1000_users_in_7_days/</link>
+      <description><![CDATA[      分享我们的第一个副项目启动故事。我们创建了第一个由人工智能驱动的目的地查找器。我们来自荷兰，没有开发经验，年龄分别为 28 岁和 30 岁（意大利人和法国人）。 作为环球旅行者和 AI 爱好者，我们利用 ChatGPT 按航班时间、天气、预算、生活方式等过滤世界。它建立了我们的整个数据库并帮助我们编写了这个项目。我们以为困难的部分已经过去了，但事实上，我们在一周前就推出了，前面还有很长的路要走！ 为一个全新的网站带来流量真的很难。我们确实在 7 天内通过 WoM 和我们的网络获得了 1000 名用户。我不确定这是好是坏，因为我知道这一切都来自直接和谷歌搜索。我们也仍处于改进产品的阶段。 我们希望您能看一看并给我们反馈。 它叫做 OFFAIGO。 享受并去探索吧！   由    /u/That_Ad1078  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e5ep5j/getting_to_1000_users_in_7_days/</guid>
+      <pubDate>Wed, 17 Jul 2024 10:20:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>帮助德国求职者撰写求职信</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e5eol6/helping_german_job_seekers_with_application/</link>
+      <description><![CDATA[我想分享我的副业项目 BewerbungsBaukasten，这是一个旨在帮助德国求职者创建专业求职信的平台。这个项目始于我自己的经历以及我从其他在德国申请过程中遇到困难的人那里收到的反馈。 查看    由   提交  /u/til25   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e5eol6/helping_german_job_seekers_with_application/</guid>
+      <pubDate>Wed, 17 Jul 2024 10:19:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>我开发了一款应用，可以让你创建一个个人页面，从 Spotify 和 Instagram 获取实时数据</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e5el2j/i_built_an_app_that_lets_you_build_a_personal/</link>
+      <description><![CDATA[    /u/thenextversion   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e5el2j/i_built_an_app_that_lets_you_build_a_personal/</guid>
+      <pubDate>Wed, 17 Jul 2024 10:13:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了一个简单的工具来定制 Mac 终端</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e5e3ka/i_built_a_simple_tool_to_customize_the_mac/</link>
+      <description><![CDATA[        提交人    /u/nocoolnamesleft1   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e5e3ka/i_built_a_simple_tool_to_customize_the_mac/</guid>
+      <pubDate>Wed, 17 Jul 2024 09:41:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的第一个应用程序 - 用于组织、成长和学习的自我提升应用程序</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e5dzeu/my_first_app_selfimprovement_app_to_organise_grow/</link>
+      <description><![CDATA[      习惯、待办事项和书籍摘要应用程序。书籍摘要是使用人工智能生成的，以便在 10-15 分钟的阅读时间内全面了解书中所有要点。  需要非常诚实的反馈 我知道这是一个竞争激烈的领域，待办事项和习惯部分将完全免费，书籍摘要部分每周大约 70 便士    提交人    /u/UnderstandingSad9514   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e5dzeu/my_first_app_selfimprovement_app_to_organise_grow/</guid>
+      <pubDate>Wed, 17 Jul 2024 09:34:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一款应用程序，可以让我丰富通过 Linkedin 上的点赞或评论与帖子互动的用户的电子邮件。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e5dtyg/i_made_a_app_that_allows_me_enrich_emails_of/</link>
+      <description><![CDATA[        提交人    /u/Ok-Avocado9440   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e5dtyg/i_made_a_app_that_allows_me_enrich_emails_of/</guid>
+      <pubDate>Wed, 17 Jul 2024 09:24:07 GMT</pubDate>
+    </item>
     <item>
       <title>我构建了这个菜单栏应用程序，以便借助人工智能来提高我的写作水平。</title>
       <link>https://www.reddit.com/r/SideProject/comments/1e5dfda/i_built_this_menubar_app_to_improve_my_writing/</link>
@@ -32,83 +109,6 @@
       <description><![CDATA[      大家好， https://preview.redd.it/mttlxwohl1dd1.png?width=4500&amp;format=png&amp;auto=webp&amp;s=9e49a271148ea14b6974f5123829c75080e432ed 几个月前，我拍摄了一些随机老人的肖像照片，我忘了将相机滤镜更改为黑白。拍完这些照片后，当我看着它们时，我立刻注意到那些令人惊叹的照片需要变成黑白的。 但是照片数量很少，我又很懒。所以，我没有转换它们，突然我有了这个想法，制作一个应用程序，它可以显示所有图库/照片的黑白图像，而无需将它们变成黑白图像。 所以，作为一名开发人员，我在几天内编写了该应用程序，它成为了迄今为止我开发的最好的应用程序，而且这个想法也非常独特。有成千上万的黑白滤镜应用程序，但只有一个黑白图库/照片应用程序可以立即显示所有照片的黑白图像。 就像你穿着黑白白色太阳镜并打开您的照片/图库应用程序。 您可以从这里检查应用程序：ansalapp.super.site    提交人    /u/SnooStories3986   [link] [评论] ]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1e5dbr8/i_made_an_app_that_let_you_see_all_of_your_photos/</guid>
       <pubDate>Wed, 17 Jul 2024 08:49:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的 Side Project 迎来了第一批 500 名用户！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e5dbcz/i_got_my_first_500_users_on_my_side_project/</link>
-      <description><![CDATA[我的 AI 设计工具项目 https://www.sketchlogo.ai/ 已达到 500 名用户！ Sketch Logo AI 简化了 2D-3D 徽标、插图和纹身设计的创建，使创作过程变得更加容易。 通过使用 Sketch Logo AI 个性化您的设计，您可以使用 AI 创建艺术品，而无需高级设计或绘画技能。到目前为止，我们的大多数用户更喜欢 Sketch Logo AI，因为它可以节省时间、将他们的想法变成现实并创建独特的设计。 您能和我分享您对我的设计工具的看法吗？    提交人    /u/SketchDesign1   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e5dbcz/i_got_my_first_500_users_on_my_side_project/</guid>
-      <pubDate>Wed, 17 Jul 2024 08:48:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个简单的工具用于循环赛（例如 Pickleball 和 Padel Americano）</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e5d4fl/i_made_a_simple_tool_for_round_robin_tournaments/</link>
-      <description><![CDATA[      https://preview.redd.it/0nuvc89qi1dd1.png?width=2146&amp;format=png&amp;auto=webp&amp;s=bccd715fac2f0e3b4d41b23ad575a795af2d8b9f 大家好， 我最近构建了一个简单的工具，用于生成和管理循环赛： https://brackets.app/round-robin/  我已经从 SEO 获得了第一批用户，但现在我正在寻找一些反馈。我发现有些人创建了锦标赛，但从不设置分数，他们不添加真实姓名，而是添加 1、2、3、4 等。 您认为我可以在应用程序的 UI 或功能方面改进什么？ 谢谢！    提交人    /u/Impressive_Button_43   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e5d4fl/i_made_a_simple_tool_for_round_robin_tournaments/</guid>
-      <pubDate>Wed, 17 Jul 2024 08:35:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>我通过推广其他网站赚了 61 美元。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e5d2j4/i_made_61_promoting_other_websites/</link>
-      <description><![CDATA[我创建了这个有趣的网站，其中有一个网格，上面有 64 个位置。每个位置价值一美元。我的副业灵感来自 og 百万美元主页。 营销这个简单的副业是一次奇妙的经历。我的宣传很简单 - 获得永久反向链接并吸引访问者访问您的网站。 在过去 7 天里，有 2100 人访问了我的网站。同时很高兴地告诉大家，61 个位置已经被抢占。 这是网站链接 - www.pixel.estate     提交人    /u/mediocre_man_online   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e5d2j4/i_made_61_promoting_other_websites/</guid>
-      <pubDate>Wed, 17 Jul 2024 08:32:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>我正在构建一份由人工智能驱动的新闻通讯，根据您的偏好将电子邮件发送到您的收件箱。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e5cms4/im_building_an_aipowered_newsletter_that_delivers/</link>
-      <description><![CDATA[您可以控制的新闻通讯，您可以定制新闻通讯： ✅内容 - 定制电子邮件的主题和字数，并获取与您相关的电子邮件 ✅时间表 - 定制电子邮件的数量和交付时间，并在准备好时获取电子邮件 如果有兴趣，您可以加入&quot;https://nowletter.me&quot;的候补名单。 有任何问题吗？请随时给我发私信。    提交人    /u/jaiten_thomas   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e5cms4/im_building_an_aipowered_newsletter_that_delivers/</guid>
-      <pubDate>Wed, 17 Jul 2024 08:01:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>你如何获得用户？你如何将人们纳入你的候补名单？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e5cc7y/how_do_you_get_users_how_did_you_get_people_on/</link>
-      <description><![CDATA[我终于承诺要完成一个包括部署在内的完整项目。在我从事该项目的过程中，我想推销它并获得人们的选择和建议。我该怎么做？    提交人    /u/Intelligent_Fun3836   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e5cc7y/how_do_you_get_users_how_did_you_get_people_on/</guid>
-      <pubDate>Wed, 17 Jul 2024 07:41:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>从 0 美元到 600 美元：我如何通过简单的登陆页面将徽标设计产品化</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e5caqd/from_0_to_600_how_i_productized_logo_design_with/</link>
-      <description><![CDATA[      https://preview.redd.it/e0po8ojv71dd1.png?width=940&amp;format=png&amp;auto=webp&amp;s=ee28741281a15fe9642634c2b4876f2021b62bdf 我想分享一个可能对你们有所启发的快速成功故事。上周，我推出了 insanelygoodlogos.com，这是一项面向企业和独立黑客的产品化徽标设计服务。 概念？非常简单：  一次性收费 99 美元 专业徽标设计 快速周转  我建立了一个强调价值主张的基本登陆页面，并设置了一个 PayPal 购买按钮，收费 99 美元。在发布之前，我开始在 Twitter、Instagram 和 Pinterest 上发布徽标重新设计和概念徽标。发布后，我在 Twitter 和 Pinterest 上推广了我的网站，这两个平台都为我带来了大量流量。 结果：  完成了 6 个徽标项目 收入 600 美元  关键要点：  细分市场：专注于特定的痛点（为引导程序提供价格合理、质量上乘的徽标） 保持简单：一个明确的报价，一个价格点 提供价值：超额交付以获得那些至关重要的早期评论 不要低估 Pinterest 流量的潜力，特别是如果您处于涉及图形、视频等的细分市场。  这不是退休金，但它是一个具有增长空间的坚实概念证明。此外，我还有其他尚未实施的增长策略，例如撰写博客、SEO 优化、索引我的网站、在目录中推广、在 Producthunt 上发布等。 您尝试过将服务产品化吗？我很乐意听取您的经验或回答任何问题。 [如果您想了解更多详细信息，我可以详细说明这篇文章的任何部分。]    提交人    /u/XCX1000   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e5caqd/from_0_to_600_how_i_productized_logo_design_with/</guid>
-      <pubDate>Wed, 17 Jul 2024 07:38:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>免费 AI 简历检查器</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e5c0pt/free_ai_resume_checker/</link>
-      <description><![CDATA[大家好！ 我是 Simao，我和我的朋友 João 一起创建了 AutoJobs 来帮助您找到理想的工作。今天我在这里向您展示我们的最新功能：完全免费的 AI 简历检查器！ autojobs.site/free-tools/resume-checker 此工具旨在为您提供有关 AI 模型如何查看您的简历以及它们对此的看法的反馈。随着越来越多的公司使用 AI 来筛选候选人，我们相信为这些模型定制您的简历可以大大提高您获得面试的机会。 我们希望您尝试一下！请随时向我们发送您的反馈！    提交人    /u/simasousa15   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e5c0pt/free_ai_resume_checker/</guid>
-      <pubDate>Wed, 17 Jul 2024 07:18:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>ccloc - 另一个非常快速的代码行计数器，用 c 编写</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e5bttg/ccloc_yet_another_very_fast_lines_of_code_counter/</link>
-      <description><![CDATA[        由    /u/KryXus05  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e5bttg/ccloc_yet_another_very_fast_lines_of_code_counter/</guid>
-      <pubDate>Wed, 17 Jul 2024 07:06:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>我构建了 GlitchReel，这是一个小部件，可让您的客户直接从您的 Web 应用程序报告具有完整上下文的错误。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e5blg6/i_built_glitchreel_a_widget_that_lets_your/</link>
-      <description><![CDATA[        提交人    /u/sharan_dev1   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e5blg6/i_built_glitchreel_a_widget_that_lets_your/</guid>
-      <pubDate>Wed, 17 Jul 2024 06:50:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>在构建 SaaS 想法之前，您使用哪些流程或平台来验证它？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e5bfyw/what_are_some_processes_or_platforms_u_use_to/</link>
-      <description><![CDATA[  由    /u/instproasmith  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e5bfyw/what_are_some_processes_or_platforms_u_use_to/</guid>
-      <pubDate>Wed, 17 Jul 2024 06:40:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>从香烟到编程：1000 名应用程序用户</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e5bfkt/from_cigarettes_to_coding_1k_app_users/</link>
-      <description><![CDATA[      用几句话描述我的业余项目的故事：  初始问题：想要戒烟。 彻底的解决方案：将香烟预算投资于 MacBook。 新焦点：开始创建应用程序。 成功：开发了一款应用程序并覆盖 1000 名用户。 当前目标：专注于 ASO 并发展应用程序。通过将预算投资于有意义的事情来远离吸烟。  该应用程序名为 TillNow，它以简约的方式测量经过的时间。     提交人    /u/ergo_balena   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e5bfkt/from_cigarettes_to_coding_1k_app_users/</guid>
-      <pubDate>Wed, 17 Jul 2024 06:40:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
