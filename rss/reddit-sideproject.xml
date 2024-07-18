@@ -4,7 +4,63 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Thu, 18 Jul 2024 03:16:35 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jul 2024 06:19:47 GMT</lastBuildDate>
+    <item>
+      <title>如果您居住在新加坡/正在前往新加坡并且想购买二手手表，请继续阅读！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e649f0/if_you_live_intravelling_to_singapore_and_are_in/</link>
+      <description><![CDATA[我建立了一个目录，其中包含来自新加坡灰色市场经销商的二手手表清单，以便从头开始学习使用 NextJS 进行构建。我花了几个星期的时间才将想法变成一个可以运行的网站，大部分时间实际上是花在构建从 50 多个网站上抓取数据的抓取工具上。 该网站托管在 Vercel 上，数据库和身份验证使用 Supabase。 我在构建 Web 应用程序方面经验很少，但在整个过程中，我使用 Claude AI 编写了大部分代码。人工智能变得如此优秀，这既令人惊奇又令人恐惧。 除了我个人使用之外，我还没有决定用这个网站做什么，不过我很想从这个社区的手表收藏家那里得到一些反馈。 我通过邀请码限制了网站访问权限，在这里放了一些邀请码供有兴趣的人查看（https://perpetualfind.com）。 LIRN785JSX W6BMTMCJA4 8T5IQOHGH6 T2SC88Y4XJ 3VVL5H78KJ G4NL92VANF 98GSZCD7M5 6XIJ1WVJI4 B8N8P1K171 LIRN785JSP     提交人    /u/OtherwiseBug2969   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e649f0/if_you_live_intravelling_to_singapore_and_are_in/</guid>
+      <pubDate>Thu, 18 Jul 2024 06:02:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>Primate - 多态开发平台</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e641cy/primate_polymorphic_development_platform/</link>
+      <description><![CDATA[  由    /u/CheapBison1861  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e641cy/primate_polymorphic_development_platform/</guid>
+      <pubDate>Thu, 18 Jul 2024 05:48:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>一款可以更快被 Bing 索引的 SaaS - Bing 排名</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e63o0h/a_saas_to_be_indexed_on_bing_quicker_rank_on_bing/</link>
+      <description><![CDATA[我最近发现了 IndexNow 协议，它可以强制某些搜索引擎（例如 Bing）抓取您的网页。 作为开发人员，它很容易实现，但是您必须在添加新页面时立即运行它（或自动化它）。 我决定创建自己的 SaaS 来为您完成这项工作，它称为 Rank on Bing。 设置只需不到一分钟，我的 SaaS 将每天获取您的站点地图文件，并将新 URL 发送到 Bing，以便更快地抓取它们并最终建立索引。 我已经为不想花时间在这上面的开发人员和不知道如何编码的人做过这件事了。 您可能会问，当 Google 几乎占据了所有的流量时，为什么要付费在 Bing 上排名？好吧：  Bing 在美国拥有约 8％ 的市场份额 在 Bing 上排名可以使您的流量来源多样化 Bing 的竞争力不如 Google 它针对不同的受众  如果您想在 Bing 上使用 Rank，您可以在结帐时添加优惠券 REDDIT20 获得 20％ 的折扣。 有关网站的更多信息：https://rankonbing.com/    提交人    /u/al_gsy   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e63o0h/a_saas_to_be_indexed_on_bing_quicker_rank_on_bing/</guid>
+      <pubDate>Thu, 18 Jul 2024 05:24:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>🚀 Qrcode.landcreator.top 升级啦！新功能！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e63h8a/qrcodelandcreatortop_leveled_up_new_features/</link>
+      <description><![CDATA[嘿 r/SideProject！👋 令人兴奋的消息：Qrcode.landcreator.top 刚刚进行了重大升级！作为一名独立黑客，我很高兴与您分享这些新功能：  一键下载按钮 💾 立即获取您的自定义二维码。因为没有人有时间进行额外的点击！ 预设配色方案 🎨 无需设计学位即可让您的二维码脱颖而出。专业调色板触手可及！  快速投票：我们下一步应该添加什么功能？回复它！ 现在在 Qrcode.landcreator.top 上尝试并留下您的反馈。每条评论都有助于这个独立项目成长！ 附注：如果这篇文章获得 100 个赞，我将在下周发布一个秘密功能。让我们实现它！🚀 编辑：哇，RIP 我的收件箱！😅 继续提出想法 - 您正在塑造 Qrcode.landcreator.top 的未来！    提交人    /u/hastersun   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e63h8a/qrcodelandcreatortop_leveled_up_new_features/</guid>
+      <pubDate>Thu, 18 Jul 2024 05:12:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>🚀 #OpenSource 模拟考试平台</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e62yi8/opensource_platform_for_practice_exams/</link>
+      <description><![CDATA[      📝 由社区 (Discord 上有 1k+) 在 #Hackathon23 期间创建，并在 https://education.ditectrev.com 上发布，适合移动设备（另一位学生创建的原生 iOS 应用程序 - https://www.reddit.com/r/AzureCertification/comments/1dk101i/free\_ios\_app\_to\_traing\_old\_aws\_azure\_and\_gcp\_exams/），桌面友好，无广告或登录，如果您正在准备 Azure/AWS/GCP/Scrum/等，它值得一试。考试。 🤖 如果您在机器上运行 Ollama，它甚至会生成解释（直接在网站上），在https://github.com/Ditectrev/Practice-Exams-Platform?tab=readme-ov-file#explanations 💻 代码：https://github.com/Ditectrev/Practice-Exams-Platform https://preview.redd.it/xht3ahmoh7dd1.png?width=3344&amp;format=png&amp;auto=webp&amp;s=b702ccef31f02e83d7c7f6fc25c7f389a159efe9 https://preview.redd.it/uqfxsiv9h7dd1.png?width=3336&amp;format=png&amp;auto=webp&amp;s=208e19f2b8dca850b1ca21215d2201ef3cf8fae1    提交人    /u/Ditectrev   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e62yi8/opensource_platform_for_practice_exams/</guid>
+      <pubDate>Thu, 18 Jul 2024 04:40:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>推出了 LinkedIn 内容工具，并在 3 周内吸引了 50 多名付费客户。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e62l97/launched_a_linkedin_content_tool_and_reached_50/</link>
+      <description><![CDATA[我们推出了 Raftwise，在 3 周内，我们就获得了 50 多个客户。 Raftwise 可帮助您创建、安排和管理 LinkedIn 内容。 我们提供 30 天免费试用（限时）。无需信用卡。 付费计划起价为每月 19 美元。它包括使用 AI 生成帖子、从 YouTube 视频创建内容以及高级调度和分析。 很快，我们将添加诸如从热门新闻、推文和播客创建内容等功能。 我认为 Raftwise 效果很好，因为许多人都在努力处理 LinkedIn 内容。他们需要一种易于使用、价格合理的工具。Raftwise 以合理的价格提供强大的功能。    提交人    /u/ashitvora   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e62l97/launched_a_linkedin_content_tool_and_reached_50/</guid>
+      <pubDate>Thu, 18 Jul 2024 04:19:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>lazyAi - 将 AI 直接放在您的剪贴板上</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e62j3y/lazyai_get_ai_right_on_your_clipboard/</link>
+      <description><![CDATA[我们构建了这个 CLI 工具，用户可以简单地复制文本，LazyAI 会自动将其发送给 AI，生成响应，并将其复制到剪贴板以便于粘贴。它还带有一个交互式仪表板，您也可以在分离模式下运行它。 我们复制我们的内容，打开一些 LLM 提供商网站，粘贴我们的内容，再次复制，然后再次粘贴以供我们使用，我们试图在仅复制和粘贴时消除中间障碍 :) 我们的第一个版本的链接：https://github.com/Codesmith28/lazyAi/releases/tag/v1.0.0 欢迎提出任何建议或反馈！！！    提交人    /u/ICODEfr   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e62j3y/lazyai_get_ai_right_on_your_clipboard/</guid>
+      <pubDate>Thu, 18 Jul 2024 04:16:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>刚刚启动了我的 AI 代理目录 - Roast Away！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e61lsl/just_launched_my_ai_agents_directory_roast_away/</link>
+      <description><![CDATA[      嘿 Reddit！ 经过无数个小时的编码、充满咖啡因的夜晚以及几次精神崩溃后，我终于启动了我的副项目：AI 代理目录！ 🎉 这是一个平台，您可以在其中发现和阅读有关各种 AI 代理的信息。到目前为止，我们已经列出了 40 多个代理，我期待从这个很棒的社区获得一些诚实的反馈。 它的作用如下：  即时搜索和过滤 AI 代理 为 AI 代理点赞 阅读详细描述和用例 提交您自己的 AI 代理  我知道它并不完美，可能还有一百万个可以改进的地方。所以，我在这里请你吐槽一下！把它拆开，告诉我什么是糟糕的，什么是好的，以及我如何才能使它变得更好。 请随时在这里查看：https://aiagentsdirectory.com/ 提前感谢您的直言不讳！🙏 P.S. 温柔一点……好吧，也许不是。 😅 https://preview.redd.it/rpwp38sp47dd1.png?width=1592&amp;format=png&amp;auto=webp&amp;s=9cf54385f1a9cc61b6a746f3ea38f8349d35b5a1    提交人    /u/DifficultNerve6992   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e61lsl/just_launched_my_ai_agents_directory_roast_away/</guid>
+      <pubDate>Thu, 18 Jul 2024 03:25:44 GMT</pubDate>
+    </item>
     <item>
       <title>新想法：漫画为???</title>
       <link>https://www.reddit.com/r/SideProject/comments/1e611f9/new_idea_manga_for/</link>
@@ -29,7 +85,7 @@
     <item>
       <title>我创建了一个便携式 Google 搜索非结构化文件</title>
       <link>https://www.reddit.com/r/SideProject/comments/1e5yer2/i_created_a_portable_google_search_for/</link>
-      <description><![CDATA[大家好， 过去几周我一直在开发一项服务，很高兴与大家分享！它基本上是一个便携式的 Google 搜索。该服务允许您从非结构化文件中搜索任何信息，并且可以使用 API 快速集成。 此外，它可以将任何文件转换为 LLM 就绪提示，将该提示保存为 JSON 以供将来使用，并提供强大的搜索功能。 我很乐意从这个社区获得一些反馈！ 您可以在这里尝试：www.ritorn.co 提前感谢您的见解！    提交人    /u/xazarall   [链接] [评论]]]></description>
+      <description><![CDATA[大家好， 过去几周我一直在开发一项服务，很高兴与大家分享！它基本上是一个便携式 Google 搜索。该服务允许您从非结构化文件中搜索任何信息，并且可以使用 API 快速集成。 此外，它可以将任何文件转换为 LLM 就绪提示，将该提示保存为 JSON 以供将来使用，并提供强大的搜索功能。 我很乐意从这个社区获得一些反馈！ 您可以在这里尝试：www.ritorn.co 提前感谢您的见解！    提交人    /u/xazarall   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1e5yer2/i_created_a_portable_google_search_for/</guid>
       <pubDate>Thu, 18 Jul 2024 00:45:56 GMT</pubDate>
     </item>
@@ -53,62 +109,6 @@
       <description><![CDATA[我正在开发一个 Django 样板，它可以帮助用户更快地交付他们的 AI SAAS，同时消除单调的任务。  到目前为止，我正在添加与 stripe、Google 身份验证、tailwind 的集成。还为他们设计了他们的登陆页面，而用户只需编写副本即可。  构建它以加快我自己的软件开发过程。你对此有什么看法？     提交人    /u/MinuteDistribution31   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1e5xf5p/my_side_project/</guid>
       <pubDate>Wed, 17 Jul 2024 23:59:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>匿名发布告白、困惑和八卦的新网站</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e5xcfj/new_website_for_posting_confessions_dilemmas_and/</link>
-      <description><![CDATA[ConfessionalTea.com 创建这个网站是为了让人们 100% 安全匿名地发布忏悔、八卦、困境并与他人讨论。让我知道你的想法，或者去分享一个秘密。这是我推出的第一个公共使用网站，让我知道你的想法！    提交人    /u/ThatReddito   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e5xcfj/new_website_for_posting_confessions_dilemmas_and/</guid>
-      <pubDate>Wed, 17 Jul 2024 23:55:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能登陆页面反馈工具</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e5xblk/aipowered_landing_page_feedback_tool/</link>
-      <description><![CDATA[您好 r/SideProject，想分享我们专为本地服务企业设计的 AI 驱动的着陆页反馈工具。请尝试一下并向我们发送反馈！withsimba.com。🙏    由    /u/withsimba  提交  [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e5xblk/aipowered_landing_page_feedback_tool/</guid>
-      <pubDate>Wed, 17 Jul 2024 23:54:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>我会在我的登陆页面上展示你作为复活节彩蛋，以示乐趣</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e5wpvi/ill_feature_you_on_my_landing_page_as_an_easter/</link>
-      <description><![CDATA[      评论您的名字（或朋友的名字）、姓氏首字母和生日/日期，我会将其放在我的生日应用程序的登陆页面上：www.birthdaytexts.com 例如：Maggie V，7 月 27 日：  https://preview.redd.it/etcyvd35y5dd1.png?width=2590&amp;format=png&amp;auto=webp&amp;s=a4a35bbd41bc418a06e5416d92c13ba14e0d488c   由    /u/OK_Maybe_No_Yes  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e5wpvi/ill_feature_you_on_my_landing_page_as_an_easter/</guid>
-      <pubDate>Wed, 17 Jul 2024 23:27:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>对正在开发的日历同步工具的反馈</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e5w2sq/feedback_for_a_calendar_sync_tool_in_the_making/</link>
-      <description><![CDATA[大家好， 我关注这个子版块已经有一段时间了，很高兴终于能来到这里分享我的产品。 我正在开发一款可以自动将体育赛事（目前 :)）导入日历的工具。 作为一名体育爱好者，我经常需要在多个应用之间切换才能及时了解 NFL 比赛和 F1 赛事。我组织这些活动的首选是我的 Gmail 日历，因为它可以帮助我将所有内容放在一个地方，并围绕我不想错过的比赛来规划我的生活。但是，每天手动更新日历非常耗时，尤其是在尝试与我的伴侣协调计划时。为了简化此过程，我开发了一款工具，可以将体育赛事直接同步到我的日历，并根据任何更改自动更新。 我很想听听你对此类应用的哪些功能有价值的看法。您可以在此处查看当前版本：https://sync2cal.com 如果您有任何反馈，请随时给我发私信。非常感谢！:)     提交人    /u/Disastrous-Bit9548   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e5w2sq/feedback_for_a_calendar_sync_tool_in_the_making/</guid>
-      <pubDate>Wed, 17 Jul 2024 22:58:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>您使用什么来管理您的副业项目工作中的任务？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e5vsz9/what_do_you_use_for_task_management_on_your_side/</link>
-      <description><![CDATA[  由    /u/saxmanjes  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e5vsz9/what_do_you_use_for_task_management_on_your_side/</guid>
-      <pubDate>Wed, 17 Jul 2024 22:47:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个工具，用于查找每个类别中评分最高的 Goodreads 书籍</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e5vr89/i_made_a_tool_for_finding_the_toprated_goodreads/</link>
-      <description><![CDATA[        由    /u/David_2107  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e5vr89/i_made_a_tool_for_finding_the_toprated_goodreads/</guid>
-      <pubDate>Wed, 17 Jul 2024 22:45:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>推出“Dealsletter”：进军房地产的新领域</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e5vivf/introducing_dealsletter_a_new_venture_into_real/</link>
-      <description><![CDATA[嗨， 我正踏入房地产领域，我的最新项目是 Dealsletter。这一举措标志着我的一次关键转变，因为我的使命是建立多种收入来源并探索新的职业视野。 概念：我对房地产的迷恋激发了 Dealsletter 的想法 - 一份每周新闻通讯，汇集顶级房地产交易。它旨在成为经验丰富的投资者和该领域新手的宝贵资源。 关于 Dealsletter：每期 Dealsletter 都经过精心设计，提供简明、翔实的最佳房地产机会快照。随着项目的发展，我计划开发一个高级版本，提供更深入的见解和更广泛的交易选择。 旅程和进展：开发 Dealsletter 是一个学习和适应的旅程。平衡这个项目与其他承诺提高了我的时间管理和奉献精神。我很高兴看到 Dealsletter 周围社区的不断壮大，因为对房地产投资的共同兴趣而团结在一起。 展望未来：我的愿景是使用 Dealsletter 社区作为正在打造的创新房地产平台的基础。该平台旨在改变房产列表和投资指标的呈现和使用方式。 我渴望听到您在类似努力中的想法、建议或经验。如果房地产投资激起了您的兴趣，或者您只是对这次旅程感到好奇，请随时订阅并加入我，参与这项激动人心的新事业！ 感谢您的时间，期待您的意见！ 如果您有兴趣，请在此处查看Dealsletter。 干杯    提交人    /u/dr7s   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e5vivf/introducing_dealsletter_a_new_venture_into_real/</guid>
-      <pubDate>Wed, 17 Jul 2024 22:35:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>前端的选择？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e5vc4d/choice_of_frontend/</link>
-      <description><![CDATA[刚刚完成了一门 Python 课程，渴望将期待已久的应用程序想法变成现实，正在研究前端，Flutter 看起来非常不错，特别是跨平台方面，Python 和 Flutter 是一个不错的组合吗？    提交人    /u/Dust-Euphoric   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e5vc4d/choice_of_frontend/</guid>
-      <pubDate>Wed, 17 Jul 2024 22:27:27 GMT</pubDate>
     </item>
     </channel>
 </rss>
