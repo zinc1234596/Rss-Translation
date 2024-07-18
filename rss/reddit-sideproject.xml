@@ -4,111 +4,111 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Thu, 18 Jul 2024 15:15:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jul 2024 18:18:23 GMT</lastBuildDate>
     <item>
-      <title>我早期 SaaS 的旅行调查</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e6cwq5/travel_survey_for_my_early_stage_saas/</link>
-      <description><![CDATA[这里有狂热的旅行者吗？ 我正在为数字游民和全球公民创建一个空间https://globallybased.com - 计划将其转变为 SaaS 产品。现在我正在对旅行过程本身进行调查。 我想真正了解人们如何旅行，他们从哪里获得灵感以及他们面临哪些困难。当收集到足够多的答案时，我会发布结果！ 如果您能参加就太好了。调查不应超过 3 分钟。您可以匿名填写。 最后，为您的时间带来一份愉快的奖励——您下次旅行的 eSIM 计划的促销代码。 :) https://tally.so/r/moabw7    由   提交  /u/ilyagru   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e6cwq5/travel_survey_for_my_early_stage_saas/</guid>
-      <pubDate>Thu, 18 Jul 2024 14:32:41 GMT</pubDate>
+      <title>Apple 上的 Circubik</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e6hrjg/circubik_on_apple/</link>
+      <description><![CDATA[大家好 现在我在 Apple Store 上发布了我的第一款游戏 https://apps.apple.com/us/app/circubik/id6499497105。 这是一款受魔方启发的益智游戏，由 3 个嵌套的圆环组成，根据级别分为 3、4、5、6、8 或 9 个弧，对应相同数量的颜色。 游戏的目标是在最短的时间内重新组合圆弧，根据所示的模型，在 3 个同心环的相对位置上对齐相同的颜色。 该游戏是原创的，灵感来自 80 年代著名的魔方游戏，并从中汲取灵感名称。 从几个月前开始，游戏也会出现在 Play Store  上。 请给我一些反馈。希望你喜欢它。    提交人    /u/GNNK71   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e6hrjg/circubik_on_apple/</guid>
+      <pubDate>Thu, 18 Jul 2024 18:02:30 GMT</pubDate>
     </item>
     <item>
-      <title>烤我的萨斯</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e6cqrc/roast_my_saas/</link>
-      <description><![CDATA[      您好，我即将推出我的新 Saas，想听听您的意见。 目标是通过代码和漏洞分析以及密码保护来确保副项目的安全。以下是具体功能。  每次将提交上传到 github 时，AI 都会检查其中是否包含任何缺陷、用于隐藏被遗忘的 API 密钥的脚本、标识符... 监控服务器（AWS、Google Cloud 等），检查可疑连接、停机时间、ddos 尝试... 过度监控网站上的请求，以避免 ddos​​ 并跟踪请求（在网站和 api 上），请参阅图表。 您可以概览潜在漏洞以及如何防范它们、您的 repo 的最新提交、最新日志（提交、服务器更改）...  https://preview.redd.it/wx9d97qieadd1.png?width=1899&amp;format=png&amp;auto=webp&amp;s=6fa8f7c6744410f4bfb5444924363a86945fe25f 我想听听你的意见，哪些功能看起来有趣，哪些功能不有趣，哪些功能我忘记了。 另外告诉我你认为这项服务的价格是多少，它是 b2b。 谢谢，我会让你知道什么时候我真的吃过午饭了。    提交人    /u/yllaevv   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e6cqrc/roast_my_saas/</guid>
-      <pubDate>Thu, 18 Jul 2024 14:25:41 GMT</pubDate>
+      <title>使用 Google 和 Apple 登录按钮。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e6hlft/using_google_and_apple_login_buttons/</link>
+      <description><![CDATA[您好， 目前，我提供电子邮件和密码作为我的应用的帐户创建/注册流程。  我正在考虑将其转换为 Google 按钮登录或 Apple 按钮登录，以方便用户使用。 我目前正在向用户发送电子邮件以进行额外的营销，我不想失去它。 我的问题是：切换到 Google 或 Apple 按钮登录后，我是否仍可以访问用户的电子邮件，以便向他们发送营销电子邮件？ 如果有人遇到过这种情况，我希望了解更多信息以及任何优缺点。 谢谢    提交人    /u/1024Bitness   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e6hlft/using_google_and_apple_login_buttons/</guid>
+      <pubDate>Thu, 18 Jul 2024 17:51:41 GMT</pubDate>
     </item>
     <item>
-      <title>我为注意力不集中的人制作了一个游戏化的、简约的新闻网站。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e6cjy2/i_made_a_gamified_minimal_news_website_for_people/</link>
-      <description><![CDATA[      我一直每天给我的傻瓜朋友们提供重要的新闻摘要，所以我创建了一个网站。本着网站的精神，我将简短地介绍几个要点： 仅限移动设备 每天仅提供最重要的新闻（世界新闻，但以美国为中心） 触摸每个标题即可阅读新闻 每个工作日美国东部时间上午 8 点 统计跟踪您阅读新闻的天数 集成 AI 聊天机器人询问背景信息 https://dunce.media https://preview.redd.it/1cga32chfadd1.jpg?width=1179&amp;format=pjpg&amp;auto=webp&amp;s=541e121f2bc043e02fd8a466ac39384081e69eaf    提交人    /u/TheAlcoveAccount   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e6cjy2/i_made_a_gamified_minimal_news_website_for_people/</guid>
-      <pubDate>Thu, 18 Jul 2024 14:17:31 GMT</pubDate>
+      <title>[请求反馈] - 将家庭照片变成儿童故事插图</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e6hjmy/feedback_requested_turn_family_photos_into/</link>
+      <description><![CDATA[        提交人    /u/d_ml   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e6hjmy/feedback_requested_turn_family_photos_into/</guid>
+      <pubDate>Thu, 18 Jul 2024 17:49:40 GMT</pubDate>
     </item>
     <item>
-      <title>您使用 AppSumo 的体验如何？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e6c2i7/whats_been_your_experience_with_appsumo/</link>
-      <description><![CDATA[  由    /u/siegerts  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e6c2i7/whats_been_your_experience_with_appsumo/</guid>
-      <pubDate>Thu, 18 Jul 2024 13:56:27 GMT</pubDate>
+      <title>音频锻炼：锻炼身体，放松眼睛！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e6hdnj/audio_workouts_work_body_relax_eyes/</link>
+      <description><![CDATA[所以我创建了 Sandtastic - 有趣的简短音频锻炼，您可以随时随地进行！这是我的 mpv（Notion 上的网站，适合移动设备）：https://sandtastic.notion.site/Enjoy-Moving-with-Sandtastic-de99789911d7416dbbc978a72b996a04 我的故事：一年前我搬到了另一个国家 - 一个阳光明媚的岛屿，有海滩，365 天天气都很好。我是一名健身爱好者，过去 10 年来一直在家里和健身房里运动。但在这里，我爱上了户外锻炼，不想再看屏幕了。 我很高兴收到您的反馈。每次锻炼都很短（而且我使用了流行音乐，我不打算在实际产品中使用它，只是喜欢洛奇和空手道小子电影哈哈）。可选：我有一个订阅表格，以防您想获得更多锻炼（赢得了该项目的资助，因此计划尽快提供新的锻炼）。 请记住：你们都是 Sandtastic！🤸‍♀️     提交人    /u/Belaya_Ann   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e6hdnj/audio_workouts_work_body_relax_eyes/</guid>
+      <pubDate>Thu, 18 Jul 2024 17:42:39 GMT</pubDate>
     </item>
     <item>
-      <title>如何选择旅游目的地？（概念验证）</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e6c0yd/how_to_pick_a_travel_destination_proof_of_concept/</link>
-      <description><![CDATA[      问题：我想去某个地方旅行，但不知道去哪里。我知道我喜欢什么，预算是多少，但需要目的地的建议。 解决方案：一个网络应用程序，其中包含输入列表，供用户定义其需求，然后他们将获得针对目的地的定制建议。由人工智能驱动，因此可以处理疯狂的建议（想象一下，一个四口之家需要在寒冷的国家以有限的预算享受冲浪假期）。 https://preview.redd.it/06kqj8h54add1.png?width=1932&amp;format=png&amp;auto=webp&amp;s=81dbc16d74b2a3025efc3b6f5a5c51f11fc5eb83 结果：我很想就我在Figma。如果您愿意使用这样的应用程序，请告诉我您的真实想法，以及您是否认为为任何功能付费是值得的。请参阅→Figma Prototype 我想知道您目前如何选择旅行地点，您的流程是怎样的？您是否使用应用程序、网站或朋友来寻求建议？您的痛点是什么？ 干杯    提交人    /u/xenodochial90   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e6c0yd/how_to_pick_a_travel_destination_proof_of_concept/</guid>
-      <pubDate>Thu, 18 Jul 2024 13:54:26 GMT</pubDate>
+      <title>经过如此艰苦的努力，一个有趣的项目终于得以实现</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e6hbvv/after_griding_so_hard_a_fun_project_had_to_come/</link>
+      <description><![CDATA[      昨晚，我开始考虑爱情计算器的想法。它们曾经是有趣的互动游戏，我以前很喜欢。我觉得制作一个会很容易、有趣、放松，而且……动画！谁不喜欢这些呢？该应用程序名为lovetestai https://preview.redd.it/2btkjc24dbdd1.png?width=1920&amp;format=png&amp;auto=webp&amp;s=edecb99bf3733afc213f3a6ec6e27ed7da4be86a https://preview.redd.it/a0g5o324dbdd1.png?width=1920&amp;format=png&amp;auto=webp&amp;s=5e324b8a5983d8e85626367f8957a27d1dcf4b7f https://preview.redd.it/cp7woc95dbdd1.png?width=1920&amp;format=png&amp;auto=webp&amp;s=28d844d2e9c3554ba262f2b0e4a8d6be6ba91627    提交人    /u/Tlaley   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e6hbvv/after_griding_so_hard_a_fun_project_had_to_come/</guid>
+      <pubDate>Thu, 18 Jul 2024 17:40:36 GMT</pubDate>
     </item>
     <item>
-      <title>Vapi、millis、bland——您使用哪款语音人工智能？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e6c0op/vapi_millis_bland_which_voice_ai_you_are_using/</link>
-      <description><![CDATA[https://vapi.ai/ https://www.millis.ai/ https://www.bland.ai/ 有人知道其他语音人工智能吗？我正在寻找一种可以在使用语音人工智能呼叫他人时显示我的电话号码的解决方案。 我知道美国人可以做到这一点，因为它可以显示指定号码。但我在台湾。我该怎么做？有什么想法吗？    提交人    /u/Zestyclose_Score4262   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e6c0op/vapi_millis_bland_which_voice_ai_you_are_using/</guid>
-      <pubDate>Thu, 18 Jul 2024 13:54:06 GMT</pubDate>
+      <title>我创建了一款应用程序来帮助你养成持续写日记的习惯</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e6h3bu/i_created_an_app_to_help_you_build_a_consistent/</link>
+      <description><![CDATA[嗨 👋  我是 Dan，27 岁的 DevOps 工程师，对构建工具充满热情。白天，我在一家初创公司工作，晚上，我喜欢从事业余项目。 过去几年，我一直在努力保持持续的写日记习惯。为此，我创建了 Journia  📒 Journia 是您记录想法的私人空间，是您发泄和记录珍贵回忆的地方。 📮它通过向您发送带有随机提示的每日电子邮件来激发您的写作灵感，从而帮助您建立和保持写日记的习惯。剩下要做的就是开始输入，甚至附上一张照片来提醒您这一天。您的回复将立即保存在您的日记中，您可以通过 https://journia.app 随时访问。 ✍️ 您写的越多，就越有趣。每封每日电子邮件还包含您过去的随机条目，因此您可以反思并查看自己取得了多大的进步  您的所有条目都安全地存储并锁定在密码后面，因此除了您之外没有人可以访问它们 🔒 这样，日记就变得私密、简单且无摩擦，您的条目会主动发送给您。 该应用程序在 14 天内完全免费使用，之后我会收取少量月费，主要用于支付服务器维护费用。 希望您喜欢并发现此工具的价值。✏️ 让我知道您对首页的看法。介绍够清楚吗？太长了吗？   由    /u/turbulent_seal  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e6h3bu/i_created_an_app_to_help_you_build_a_consistent/</guid>
+      <pubDate>Thu, 18 Jul 2024 17:30:33 GMT</pubDate>
     </item>
     <item>
-      <title>我建立了一个免费的 SWOT 生成器</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e6blnp/i_built_a_free_swot_generator/</link>
-      <description><![CDATA[        提交人    /u/kronopsizm   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e6blnp/i_built_a_free_swot_generator/</guid>
-      <pubDate>Thu, 18 Jul 2024 13:35:35 GMT</pubDate>
+      <title>[50% 题外话] 即使在海滩上，我也继续推进我的玩具车项目</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e6g8gq/50_offtopic_i_keep_pushing_my_toycar_project_even/</link>
+      <description><![CDATA[      https://preview.redd.it/vinn4fv55bdd1.png?width=1200&amp;format=png&amp;auto=webp&amp;s=4b9259f10b2c206a3fcf79776609951dc509778f    提交人    /u/m0ntanoid   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e6g8gq/50_offtopic_i_keep_pushing_my_toycar_project_even/</guid>
+      <pubDate>Thu, 18 Jul 2024 16:55:27 GMT</pubDate>
     </item>
     <item>
-      <title>推出了 Next.js 的开源设计系统</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e6bg7p/launched_an_opensource_design_system_for_nextjs/</link>
-      <description><![CDATA[        由    /u/lorantart   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e6bg7p/launched_an_opensource_design_system_for_nextjs/</guid>
-      <pubDate>Thu, 18 Jul 2024 13:28:46 GMT</pubDate>
+      <title>如果你在公共场所建造建筑，你不怕别人抄袭你吗？我的答案很简单</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e6fz16/arent_you_afraid_of_people_copying_you_if_youre/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e6fz16/arent_you_afraid_of_people_copying_you_if_youre/</guid>
+      <pubDate>Thu, 18 Jul 2024 16:44:42 GMT</pubDate>
     </item>
     <item>
-      <title>五大商业创意 - 2024 年 7 月 14 日</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e6b38h/five_business_ideas_july_14_2024/</link>
-      <description><![CDATA[       由    /u/gpirescampos  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e6b38h/five_business_ideas_july_14_2024/</guid>
-      <pubDate>Thu, 18 Jul 2024 13:11:57 GMT</pubDate>
+      <title>ChatGPT / Gemini chrome 侧边栏</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e6fym3/chatgpt_gemini_chrome_sidebar/</link>
+      <description><![CDATA[      大家好，我是第一次发帖这里。 我创建了一个连接到 OpenAI 和 Gemini API 的 AI 侧边栏。我意识到已经有很多这样的侧边栏，但我发现作为一名开发人员，我不想在我的 Copilot 订阅和我已经拥有的 API 密钥之外每月额外支付 30 美元。因此，我开发了一个接受 API 密钥的侧边栏。该扩展是 100% 免费的，但当然必须使用 API 密钥，这相当于每月花费约 5 美元才能进行相当多的日常使用（支付给 OpenAI/Gemini）。我很乐意得到社区的反馈，我也在寻找一个可能在营销方面提供帮助的人，如果这个项目有任何进展的话。  https://chromewebstore.google.com/detail/navchat/acbkcdnhidddghjdlfegflbdncklfhbd 如有任何反馈或建议，我们将不胜感激。 谢谢。 https://preview.redd.it/fy6ps1173bdd1.png?width=3827&amp;format=png&amp;auto=webp&amp;s=ee39293d074017c4f4253651f1311605ad0c0bda    提交人    /u/Muted_Net2890   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e6fym3/chatgpt_gemini_chrome_sidebar/</guid>
+      <pubDate>Thu, 18 Jul 2024 16:44:15 GMT</pubDate>
     </item>
     <item>
-      <title>治疗不只是一个 gpt 包装！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e6arje/therapy_is_not_just_a_gpt_wrapper/</link>
-      <description><![CDATA[我正在为人工智能治疗解决方案/产品建立一个目录。我想包括评论和我们编目的产品的外部专业验证。从本质上讲，随着人工智能的发展，市场上有如此多的人工智能治疗产品，而且会有更多的产品出现，我们希望找到真正有效、在真正的治疗师的指导下打造的最佳产品，并帮助人们在成本效益和有益性之间取得平衡。治疗不应该只是一个性感的 GPT 包装！！ 如果您想注册您的人工智能治疗产品或注册开发更新，请这里是链接！ 注册的前 25 种人工智能治疗产品将在我们推出时获得特殊徽章！ 如果您有任何问题或反馈，请告诉我 :)    提交人    /u/Prestigious-Fix1045   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e6arje/therapy_is_not_just_a_gpt_wrapper/</guid>
-      <pubDate>Thu, 18 Jul 2024 12:56:35 GMT</pubDate>
+      <title>有几个问题想分享一下你对沟通和业务的想法：D</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e6fabh/few_questions_to_share_you_thoughts_on/</link>
+      <description><![CDATA[大家好！ 我们有时都会遇到沟通困难，不是吗？ 我敢打赌，这里的每个人都遇到过这种情况，他们遇到了一个人，他们的“谈话”非常糟糕，让你怀疑这个人的智商是否和面包一样或更低。 为了拯救我们大家，我们决定最终想出一些东西......一个可以帮助你克服所有问题的工具 - 确实如此，因为我们的大多数问题都来自沟通不畅。 与此同时，这里的每个人都知道，对于企业来说，最重要的是...... 客户！该工具旨在帮助人们，帮助您。我们来给你一个选择，为下一个 Google 做出贡献（是的，这可能有点过度饱和）。 以下是一些问题，请您回答，这对我们来说意义重大。  你最需要什么？ 你最想要什么？（从你的业务或工作生活来看） 你对你的业务/沟通最大的恐惧是什么？ 你对你的业务/沟通最渴望什么？ 你过去尝试过什么？在尝试了所有这些之后，你最讨厌的是什么？  现在。你会采取行动（和帮助）吗？还是会被动？    提交人    /u/Efistoffeles   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e6fabh/few_questions_to_share_you_thoughts_on/</guid>
+      <pubDate>Thu, 18 Jul 2024 16:14:48 GMT</pubDate>
     </item>
     <item>
-      <title>关于这个小想法的想法</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e6arfk/thoughts_about_this_little_idea/</link>
-      <description><![CDATA[大家好！ 我建立了许多网站，并尝试学习有关 SEO 的一切知识。在欧洲，排名和建立网站自然流量要容易得多，因为外语比英语容易得多。因此，当我认为自己擅长 SEO 时，发布这个想法会容易得多。 我每天都会阅读 Twitter，总是看到人们想出他们没有时间去追求的创业想法。大多数时候，这些想法都是好主意，但永远不会被测试。他们把这些想法公之于众，这样有人也许可以从中得到想法并建立相关的东西。 另一方面，我看到人们在商业创意和验证他们的想法方面苦苦挣扎。 我正在考虑创建一个小型副项目网站，人们可以在那里发布他们的创业想法，人们可以发表他们的想法并投票。关于获得最多点赞、拥有最多想法等的账户的排行榜。 它将把那些拥有永远不会实现的想法的人和那些在想法上挣扎的人聚集在一起。 因此，该网站将只关注创业公司的想法、验证它们、改变彼此的想法等等。 对此有什么想法？    提交人    /u/xdjorgos   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e6arfk/thoughts_about_this_little_idea/</guid>
-      <pubDate>Thu, 18 Jul 2024 12:56:26 GMT</pubDate>
+      <title>新的视频内容搜索工具：几秒钟内搜索您的视频内容</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e6f969/new_video_content_search_tool_search_through_your/</link>
+      <description><![CDATA[        由    /u/liuylttt  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e6f969/new_video_content_search_tool_search_through_your/</guid>
+      <pubDate>Thu, 18 Jul 2024 16:13:03 GMT</pubDate>
     </item>
     <item>
-      <title>帮助我们避免犯错：分享您的汽车维修智慧！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e6ap95/help_us_not_screw_up_share_your_car_repair_wisdom/</link>
-      <description><![CDATA[嗨 r/sideproject， 我叫 Matt，是 Tinkeru 的创始人，Tinkeru 是一个支持 DIY 汽车维修的平台。我们正在分享一项调查，以收集像您这样的汽车爱好者的见解。 调查链接：https://forms.gle/7oDA74CWcpiA2McQ8 您的反馈对于塑造 Tinkeru 至关重要！ 谢谢    提交人    /u/RiderByDay   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e6ap95/help_us_not_screw_up_share_your_car_repair_wisdom/</guid>
-      <pubDate>Thu, 18 Jul 2024 12:53:26 GMT</pubDate>
+      <title>刚刚为 React 推出了 Async Redux...</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e6f4jr/just_launched_async_redux_for_react/</link>
+      <description><![CDATA[        提交人    /u/marcglasberg   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e6f4jr/just_launched_async_redux_for_react/</guid>
+      <pubDate>Thu, 18 Jul 2024 16:06:22 GMT</pubDate>
     </item>
     <item>
-      <title>发展社区的最佳地点</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e6aos0/best_place_to_grow_my_community/</link>
-      <description><![CDATA[请不要笑，但我从 2012 年开始从事我的副业，直到 2017 年才获得我的第一位客户。我最好的月份是 2021 年 3 月，当时我因我的产品（imdone.io）与 obsidian.md 集成而兴奋不已，赚了 1000 多美元。 我在 Medium 上的一篇博客文章在 TODO 评论的搜索排名中很高，我从中获得了一些流量，但最近我从 reddit 获得的网站流量几乎与从谷歌获得一样多。 markdownguide.org 紧随其后。 我一直在阅读《百万美元周末》，它再次提醒我，增加关注者的最佳方式是通过社交媒体建立社区。 我大部分时间都集中在 Twitter 上，这很愚蠢，因为我的流量都不是来自 Twitter。我打算为 YouTube 制作内容，但我真正应该做的是加倍努力，所以这是我的问题。 reddit 是建立社区的好地方吗？如果是，您使用过哪些方法取得成功？YouTube 怎么样？有人在那里成功过吗？    提交人    /u/saxmanjes   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e6aos0/best_place_to_grow_my_community/</guid>
-      <pubDate>Thu, 18 Jul 2024 12:52:50 GMT</pubDate>
+      <title>智能规划工具可告诉您为实现目标必须执行的任务。它类似于 Jira、Asana 或 Trello，但任务是由 AI 创建的 - 尝试一下 https://plani.ai 并让我们知道您的想法。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e6f3sq/smart_planning_tool_which_tells_you_the_tasks_you/</link>
+      <description><![CDATA[        提交人    /u/Sarvaturi   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e6f3sq/smart_planning_tool_which_tells_you_the_tasks_you/</guid>
+      <pubDate>Thu, 18 Jul 2024 16:05:17 GMT</pubDate>
     </item>
     <item>
-      <title>我开发了一款个人理财 iPhone 应用，用于追踪债务和储蓄</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e6ainn/i_built_a_personal_finance_iphone_app_for_debts/</link>
-      <description><![CDATA[      大家好！ 我的第一部 iPhone  ...它可以离线使用，无需注册即可使用。这是我的第一个应用程序，我想为用户保密一切。  如果您想尝试一下，这里是 App Store 链接：https://apps.apple.com/us/app/downpay-track-debt-savings/id6474574024 我还在学习营销。我以前从未做过这样的事情，所以我想弄清楚在营销应用程序方面什么可行，什么不可行。  我是一名程序员和设计师，对这类事情很陌生。如果有人对如何进行营销有任何建议，我将不胜感激！ 非常感谢！    提交人    /u/LifeUtilityApps   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e6ainn/i_built_a_personal_finance_iphone_app_for_debts/</guid>
-      <pubDate>Thu, 18 Jul 2024 12:44:41 GMT</pubDate>
+      <title>llm出现幻觉怎么办？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e6etpc/how_do_you_deal_with_llms_hallucination/</link>
+      <description><![CDATA[LLM 很好，但当你得到幻觉结果时也会令人沮丧。 我尝试了 RAG，它也有很大的可能性出现幻觉问题。 有什么想法吗？    提交人    /u/Zestyclose_Score4262   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e6etpc/how_do_you_deal_with_llms_hallucination/</guid>
+      <pubDate>Thu, 18 Jul 2024 15:51:41 GMT</pubDate>
     </item>
     <item>
-      <title>Telescope 如何在第一周就获得 500 多个注册用户</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e6a39e/how_telescope_got_500_signups_in_its_first_week/</link>
-      <description><![CDATA[      推出新产品总是一次疯狂的旅程，上周，我们向全世界推出了Telescope。仅第一周，我们就有超过 500 名用户注册，这远远超出了我们的预期。 最酷的事情之一是登上 HackerNews（270+ 赞，100+ 评论）。如果你不知道，HackerNews 是一个很棒的平台，技术爱好者和行业专家在这里聚会。在那里获得关注确实帮助我们吸引了很多人关注 Telescope https://preview.redd.it/3nzx3wghs9dd1.png?width=1766&amp;format=png&amp;auto=webp&amp;s=f718e4f68a364837c64fedb15a609b0273032a42 那么，Telescope 到底是什么？它是一款基于使用情况的 SEO 研究工具，价格实惠。我们的目标是打造一款既不会让你倾家荡产，又能让你拥有所有流行 SEO 工具功能的产品。 发布 让我们来谈谈我们在 HackerNews 发布当天的疯狂历程。疯狂的部分是什么？我们根本没有为此做好准备。这是意料之外的。 几天前，我们在 Product Hunt 上发布了 Telescope，希望能够引起一些关注，但说实话，它甚至没有登上首页。我决定在 HackerNews 上发布关于 Telescope 的文章，更多的是出于希望。我没多想，就回去工作了。 https://preview.redd.it/avf1fj8is9dd1.png?width=2234&amp;format=png&amp;auto=webp&amp;s=ee53393824dd​​1a7e431a2b6f68aacc15650d542f 突然间，我们的流量激增。我们很快意识到我们的帖子在 HackerNews 上爆红了。点赞不断涌来，我们登上了头版。人们非常感兴趣，提出问题并分享反馈。我们加入对话，与每个人互动。 到当天结束时，我们有了大约 200 名新用户。这令人难以置信且不知所措，但这也是我们需要的认可。登上 HackerNews 对我们来说是一次改变游戏规则的机会。有时，最好的事情会在你最意想不到的时候发生！ 乘风破浪 来自 HackerNews 的流量不只是在一天内飙升；它持续了整整一周。在我们的帖子走红的第二天，我们看到了另外 200 个注册用户，我们很高兴看到我们的第一笔付款到账。这是一个非常有说服力的时刻，因为我们知道人们不仅感兴趣，而且愿意为 Telescope 付费。 与我们的新用户群互动成为当务之急。我们确保回复每一条反馈，解决问题并向用户表明我们在倾听。 我们很快意识到缺少了一些东西，这降低了我们的注册率。一个主要问题是我们只有一个注册选项：Google。第二天，我们添加了 GitHub 和魔术链接注册选项。这对我们的注册率产生了立竿见影的积极影响。 结果  500 多名用户注册 生成了 100 多个反向链接 域名评级从 0 增加到 15 Twitter 上多次提及 收入 150 美元以上 4 人添加了他们的卡  立即试用 Telescope，节省高达 90% 的 SEO 研究成本。加入 500 多名已经从我们功能强大且价格实惠的工具中受益的用户。立即注册并获得免费余额以探索我们的所有功能。感谢您的阅读！    提交人    /u/blankpagestudio   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e6a39e/how_telescope_got_500_signups_in_its_first_week/</guid>
-      <pubDate>Thu, 18 Jul 2024 12:23:22 GMT</pubDate>
+      <title>正在开发 AR 聊天轮盘应用程序 - 这是主屏幕..</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e6elko/working_on_a_ar_chatroulette_app_heres_the_home/</link>
+      <description><![CDATA[      我只想发布主屏幕，因为我觉得它开始看起来不错了。我开发这个应用已经有一段时间了。说起来……断断续续 2 年了。越来越近了！对主屏幕有什么想法吗？欢迎提出您的任何问题 - 我很想听到任何/所有想法。 如果您想帮助进行 Beta 测试（iOS），我很乐意邀请​​您，请告诉我。 https://preview.redd.it/brvioy9wradd1.png?width=1179&amp;format=png&amp;auto=webp&amp;s=0ed8dcd7b84ec4cf77e820f86fbc3f5ebc922dad   由    /u/alan_cosmo  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e6elko/working_on_a_ar_chatroulette_app_heres_the_home/</guid>
+      <pubDate>Thu, 18 Jul 2024 15:42:27 GMT</pubDate>
     </item>
     </channel>
 </rss>
