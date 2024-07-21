@@ -4,7 +4,70 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Sun, 21 Jul 2024 18:16:13 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jul 2024 21:11:37 GMT</lastBuildDate>
+    <item>
+      <title>我为纽约市创建了一款音频历史步行应用程序</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e8vuhu/i_created_an_audio_history_walking_app_for_nyc/</link>
+      <description><![CDATA[作为一名软件工程师，我喜欢为自己和家人做一些业余项目。我也发现自己非常尊重我的朋友们，他们在几天内就制作出很酷的东西，并将其用于工作。上周我休假，决定做一些东西来陪伴我在城市里长途散步。我的女朋友开始在上班路上使用它。 “Curious Walks”是关于纽约不同地标的简短音频合集。我们边走边听这座城市平静的历史，并在经过时选择特定的地标。 没有广告，也没有付费版本。这是我为晚上散步和上班散步而建立的免费网站。您甚至可以锁定手机并让它从一个章节播放到下一个章节。 https://www.curiouswalks.com 我想知道这里是否有人认为这样的事情很适合在不同的城市、国家公园、海滩等地方散步。我很乐意听到任何想法 :)    提交人    /u/young_asthmatic   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e8vuhu/i_created_an_audio_history_walking_app_for_nyc/</guid>
+      <pubDate>Sun, 21 Jul 2024 20:31:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>厌倦了丢失 TikTok 和 Instagram 上的精彩发现吗？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e8uqh3/tired_of_losing_great_finds_on_tiktok_and/</link>
+      <description><![CDATA[      我发现自己在浏览 TikTok/Instagram 时发现了新的餐馆、酒吧和食谱，但仅仅保存它们最终会被放入书签墓地。 短视频是一种有效的发现格式。但是，视频并不是发现后的最佳格式。您保存帖子，打开笔记应用程序并写下新的酒吧或食谱的步骤/配料。所以，我花了一个周末开发了 Gem。这是一个与平台无关的移动扩展，可增强发现过程。您所要做的就是分享帖子，我们会自动对其进行分类并将其转换为适当的格式（即列表）。目前，它仅支持 Instagram/TikTok 和地点/食谱。 在此处下载：https://apps.apple.com/us/app/gem-discover-organize/id6479227504 https://reddit.com/link/1e8uqh3/video/t0itfm3zdxdd1/player    提交人    /u/x86i   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e8uqh3/tired_of_losing_great_finds_on_tiktok_and/</guid>
+      <pubDate>Sun, 21 Jul 2024 19:44:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>我删除了“密码”字段并添加了 Google 和 Facebook 身份验证，结果短短三天内用户数量就增加了 100％！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e8uln6/i_removed_the_password_field_and_added_google_and/</link>
+      <description><![CDATA[我于 2023 年 11 月推出了 PhotoEnhanceAi.cc。该应用程序并不成功；我的 MRR 勉强达到 200 美元。最近，在实施以下更改后，我在短短三天内就获得了 989 名用户：  登录页面：我删除了“密码”字段，改用魔术链接。 删除了注册页面（不需要姓名、密码等）。 添加了 Google 和 Facebook 身份验证（60% 的新用户）。 从积分系统更改为订阅模式。  但是，在所有这些用户中，我只获得了 2 个订阅，均为标准级别（每月 25 美元）。从现在开始，我永远不会包含密码字段，并且将始终提供“Google”和“Facebook”登录选项。  我明白这不会立即提高转化率，但更多的用户最终会导致未来更高的转化率。    提交人    /u/ahmadalmayahi   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e8uln6/i_removed_the_password_field_and_added_google_and/</guid>
+      <pubDate>Sun, 21 Jul 2024 19:38:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>最好不要纠结于小事</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e8ucbo/better_not_to_fixate_on_the_small_stuff/</link>
+      <description><![CDATA[      提醒一下，如果拥有数千名用户的知名公司都使用这样的表格来运送他们的产品，那么我们也应该这样做！ https://preview.redd.it/3i9ahkf2axdd1.png?width=596&amp;format=png&amp;auto=webp&amp;s=19f913a9d4dcee911e7d17a​​521d13f472fd77752    提交人    /u/adelizer   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e8ucbo/better_not_to_fixate_on_the_small_stuff/</guid>
+      <pubDate>Sun, 21 Jul 2024 19:27:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>All Skin：一款由皮肤科医生开发的应用程序，用于分析护肤并根据循证医学建立个性化护肤程序</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e8ttu4/all_skin_a_dermatologistdeveloped_app_to_analyze/</link>
+      <description><![CDATA[      大家好！ 我是一名皮肤科医生，我想分享一些我一直在研究的东西，以便提供有关一般护肤和日常护理的皮肤级分析。该应用程序名为All Skin，可在 Apple App Store 和 Google Play 上免费获取，让您从皮肤病学的角度查找您喜欢的任何护肤产品，看看它是否适合您的皮肤和日常护理。它是由我们的团队开发的，该团队由加拿大和美国的委员会认证的皮肤科医生以及工程和数据科学博士组成。 我们根据现有的最佳已发表的科学、实践指南、监管数据和专家共识构建了 All Skin 应用程序。与其他没有皮肤科医生或专家参与的护肤应用程序不同，我们避免制造恐慌、使用未经验证的产品评分系统和一刀切的建议。警报是客观而保守地制定的，考虑到已发表的证据，每个细节都经过委员会认证的皮肤科医生的审查。最重要的是，分析和警报都是根据每个用户的个人资料量身定制的，确保该应用程序成为一个复杂、值得信赖和基于证据的皮肤病学资源。 主要功能和用例包括：  档案生成器：根据皮肤护理问题、环境和生活方式因素创建皮肤档案。 个性化视频：从经过认证的皮肤科医生那里接收根据您的皮肤状况量身定制的内容。 产品查找和分析：使用条形码扫描仪或文本搜索获取有关数千种产品的详细个性化信息。还可以查找某些处方产品。 日常护理生成器：根据您的皮肤状况创建带有皮肤引导警报的日常护理，以适应痤疮+湿疹+色素沉着+抗衰老+香水过敏等复杂情况。 怀孕/母乳喂养安全警报：确定含有在使用前应咨询医生的成分的产品。 避免接触性皮炎过敏原：避免已确认的过敏原和交叉反应物。 商店部分：查找与您的个人资料匹配的产品，隐藏带有警报的产品 - 非常适合痤疮或湿疹等特定需求。 每日皮肤追踪器：监测您的皮肤进展并记录触发因素。  我们正在不断扩展和改进我们的分析、产品库存和数据存储库。我们经常更新，并致力于与更大的皮肤病学社区保持一致，成为患者和消费者值得信赖的信息来源。如果您有兴趣，请尝试一下，并随时在此处留下反馈或任何问题。  希望这对您和任何对护肤感兴趣的人都有帮助！欢迎所有反馈！ https://reddit.com/link/1e8ttu4/video/e77meajn7xdd1/player    提交人    /u/ALL_SKIN   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e8ttu4/all_skin_a_dermatologistdeveloped_app_to_analyze/</guid>
+      <pubDate>Sun, 21 Jul 2024 19:04:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了一个包含 10,000 个热门设计模板列表的数据库：5 个关键见解</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e8tkl5/i_created_a_database_of_10000_popular_design/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e8tkl5/i_created_a_database_of_10000_popular_design/</guid>
+      <pubDate>Sun, 21 Jul 2024 18:53:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>产品发布清单</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e8tgpr/product_launch_checklist/</link>
+      <description><![CDATA[        提交人    /u/amashq   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e8tgpr/product_launch_checklist/</guid>
+      <pubDate>Sun, 21 Jul 2024 18:49:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>让我向你介绍{Command Hub}</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e8t73j/let_me_introduce_you_to_command_hub/</link>
+      <description><![CDATA[      大家好，我正在为我的一个网站开发一个 MVP，它基本上是所有工具和技术命令的中央存储库，例如 git、linux、docker 等等。  我制作了一个命令查找功能，它也可以接受命令的上下文，假设您想在 Linux 中“更改目录”，因此如果您写入更改目录，它会建议 &lt;cd&gt; 命令和相关命令。 此外，它还包含基于用法的分类命令。 您希望看到什么样的附加功能，或者建议任何更改？    提交人    /u/Ammuubisht   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e8t73j/let_me_introduce_you_to_command_hub/</guid>
+      <pubDate>Sun, 21 Jul 2024 18:37:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>今天发布了一个新的演示：AI从头开始构建Android应用程序！售价2.5美元</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e8t2cv/released_a_new_demo_today_ai_builds_an_android/</link>
+      <description><![CDATA[        由    /u/nunodonato 提交   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e8t2cv/released_a_new_demo_today_ai_builds_an_android/</guid>
+      <pubDate>Sun, 21 Jul 2024 18:31:36 GMT</pubDate>
+    </item>
     <item>
       <title>我构建了一个用于生成、共享和部署 Claude 代码工件的工具 - Artifactbin.com</title>
       <link>https://www.reddit.com/r/SideProject/comments/1e8slgs/i_built_a_tool_for_generating_sharing_and/</link>
@@ -46,69 +109,6 @@
       <description><![CDATA[孤独流行病正在困扰我们 (Z 世代) 这一代人，现在人们更容易求助于 Discord 和 Reddit 等在线社区来保持联系。 但我们都知道，我们理想的朋友是可以一起工作、一起去餐馆、一起闲逛等。也许一想到和陌生人见面就觉得不舒服，你就会犹豫是否要去俱乐部和 Meetup 活动。 所以……我建立了这个平台，让你通过每周一次与当地志同道合的小群人进行语音聊天，轻松结交新朋友。这样，你就可以在安排见面时间之前认识人们了！ 这真的是即兴的，但我想邀请你作为首批用户之一来尝试一下。到目前为止，我只向朋友展示过它。下一个活动从现在起 2 小时后举行（美国中部夏令时间下午 2 点）。 builderfive.com    由    /u/Wrys0 提交   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1e8qq4p/i_wanted_to_help_other_genz_introverts_make/</guid>
       <pubDate>Sun, 21 Jul 2024 16:50:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>InfinipilotAI 介绍 - 您的 macOS 应用 AI 副驾驶</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e8qogr/introducing_infinipilotai_your_ai_copilot_for/</link>
-      <description><![CDATA[      嘿 r/sideproject！ https://preview.redd.it/8uw5qg6siwdd1.png?width=3200&amp;format=png&amp;auto=webp&amp;s=36bb0b54410e307405914aebd70877dda14504bf 我们很高兴推出 InfinipilotAI，这是您的 macOS 人工智能副驾驶。 InfinipilotAI 旨在提高工作效率，它提供： • 自动完成（实验性）：智能输入建议。 • 语法修复：精美写作。 • 翻译：快速应用内翻译。 • 注重隐私：支持 Ollama 进行本地处理，增强隐私。 有几十种关于各种主题的快速操作； • 修复拼写和语法：使用删除线和替换来纠正错误。 • 提高写作水平：提高清晰度、连贯性和风格。 • 缩短：在保留信息的同时压缩文本。 • 延长：扩展文本附加详细信息和上下文。 • 简化：使用更简单的语言重写以便于理解。 • 解释：提供带有示例和上下文的详细解释。 • 总结：创建要点的简明摘要。 • 查找行动点：从文本中提取可操作的项目。 • 制作业余风格：模仿业余写作风格，错误较少​​，词汇更简单。 • 开发人员工具：执行 JSON 解析、URL 编码、Base64 转换等任务。 InfinipilotAI 还支持来自 OpenAI、Anthropic、Gemini 和 Ollama 的模型。 发现更多信息请访问 Product Hunt 或访问我们的 网站。 我们很乐意听取您的反馈，并乐意回答您的任何问题！ 谢谢， InfinipilotAI 团队    提交人    /u/Old-Breadfruit-595   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e8qogr/introducing_infinipilotai_your_ai_copilot_for/</guid>
-      <pubDate>Sun, 21 Jul 2024 16:48:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>本地化贴吧APP：DaLaba</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e8q96l/an_localized_posts_board_app_dalaba/</link>
-      <description><![CDATA[简单来说，这个APP就像一个“本地化的Twitter”或者“本地化的公告板”。在Apple store和Play store搜索“dalaba”即可安装DalLaBa。  人们在APP上发帖，帖子会固定到发帖时的手机位置； 人们查看当前位置附近的APP帖子，快速了解当地的人和事；    对于企业管理者来说，这款APP可以用来发布方圆几公里内的促销或产品信息，也可以用来管理业务。 使用示例： 物业处、营地、展厅、酒店、火车站、机场、旅游景点、游乐场、公园、演唱会，甚至露宿街头的女青年、街头游行和大型疏散活动等。 企业管理者可以使用APP向方圆几公里内的所有用户发布公告。   对于个人来说，DaLaBa APP是一个“购物助理”、“旅行助理”、“社交助理”...... 使用示例：  当你在商场或者商业街购物时，APP帮你找到当地的促销活动或者特色产品； 当你在旅行时，APP帮你认识当地人，熟悉地方，甚至遇到困难时可以向当地人寻求帮助； 当你在校园或者社区时，APP帮你快速发布公告，比如“庭院拍卖”或者“社交交友”等；APP帮你快速结识当地人； 你还可以想到更多的用途....     submitted by    /u/Designer-0428   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e8q96l/an_localized_posts_board_app_dalaba/</guid>
-      <pubDate>Sun, 21 Jul 2024 16:29:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>本地化帖子板APP：DaLaBa</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e8q20y/a_localized_posts_board_app_dalaba/</link>
-      <description><![CDATA[      简单来说，这款APP就像一个“本地化的推特”或“本地化公告栏”。  人们在APP上发帖，帖子会固定到发帖时的手机位置； 人们查看当前位置附近的APP帖子，从而快速了解当地的人和事；    https://preview.redd.it/9yam39rmdwdd1.jpg?width=1333&amp;format=pjpg&amp;auto=webp&amp;s=19ec4910332f4970e28fca666e1c2c1e08895130 对于企业管理者来说，可以用这款APP在方圆几公里内发布促销或者产品信息，也可以用来管理商家。 使用示例： 物业写字楼、营地、展馆、酒店、火车站、机场、旅游景点、游乐场、公园、演唱会，甚至街头女孩、街头游行和大型疏散等。 企业经理可以使用APP向几公里内的所有用户发布公告。   https://preview.redd.it/zdfwybbodwdd1.jpg?width=1107&amp;format=pjpg&amp;auto=webp&amp;s=4b9c695296e064a4544289b036dd8122935f0de3 对于个人来说，DaLaBa APP就是一个“购物助手”、“旅行助手”、“社交助手”...... 使用示例：  当当你在商场或者商业街购物时，该APP可以帮助你找到当地的促销活动或者特色产品； 当你在旅行时，该APP可以帮助你认识当地人，熟悉地方，甚至遇到困难时可以向当地人寻求帮助； 当你在校园或者社区时，该APP可以帮助你快速发布公告，比如“庭院销售”或者“社交约会”等；该APP可帮助您快速认识当地人； 您还可以想到更多用途....  https://preview.redd.it/8o5oibnpdwdd1.jpg?width=1074&amp;format=pjpg&amp;auto=webp&amp;s=b31b1a3ac04ce93dfc542ffbbcffee96bac98636 https://preview.redd.it/sb5lsd8rdwdd1.jpg?width=1063&amp;format=pjpg&amp;auto=webp&amp;s=e7c346f3ea478ed5871f41f56e0cdb71f1da7a00    提交人    /u/Designer-0428   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e8q20y/a_localized_posts_board_app_dalaba/</guid>
-      <pubDate>Sun, 21 Jul 2024 16:20:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一款应用程序，用于帮助患有肠道疾病的人追踪排便情况。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e8prxe/i_made_an_app_for_tracking_poop_for_people_with/</link>
-      <description><![CDATA[        提交人    /u/Interesting-Shine611   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e8prxe/i_made_an_app_for_tracking_poop_for_people_with/</guid>
-      <pubDate>Sun, 21 Jul 2024 16:08:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一款 AI 俯卧撑检测 IOS 应用，并组织了直播虚拟比赛 - 寻求帮助和反馈</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e8pqjl/i_made_an_ai_pushup_detector_ios_app_and_organise/</link>
-      <description><![CDATA[    /u/greeneye44   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e8pqjl/i_made_an_ai_pushup_detector_ios_app_and_organise/</guid>
-      <pubDate>Sun, 21 Jul 2024 16:06:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个没有串音的语音和视频聊天的地方，voximity.chat</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e8pfxy/i_made_a_place_for_voice_and_video_chat_without/</link>
-      <description><![CDATA[        由    /u/-imposter- 提交   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e8pfxy/i_made_a_place_for_voice_and_video_chat_without/</guid>
-      <pubDate>Sun, 21 Jul 2024 15:54:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>协作内容创作</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e8oyih/collaborative_content_creation/</link>
-      <description><![CDATA[一个公开创作内容的平台，你可以制作小视频，有人从中获得灵感并添加更多部分。你写了一首诗，有人在上面添加了更多内容。主要是为了创意。 如果你熟悉 github，它就会像那样，但更先进，功能更多。 有兴趣的人请与我联系。    提交人    /u/stilldonoknowmyname   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e8oyih/collaborative_content_creation/</guid>
-      <pubDate>Sun, 21 Jul 2024 15:32:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>我使用了这个产品，发现它很有趣，你觉得怎么样？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e8oq2o/i_used_this_product_and_found_it_interesting_what/</link>
-      <description><![CDATA[欢迎分享您的想法或任何有关文档管理或 Docspark 中的 AI 的问题。我期待听到您的想法并讨论这些进步如何使您的工作流程受益！https://docspark.io/    提交人    /u/LowBenefit5124   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e8oq2o/i_used_this_product_and_found_it_interesting_what/</guid>
-      <pubDate>Sun, 21 Jul 2024 15:22:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>远程系统管理器 - 在远程主机上运行命令和部署</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e8obo6/remote_system_manager_run_commands_and/</link>
-      <description><![CDATA[大家好，我简单介绍一下我的新项目。 如标题所示，这是一款可以启用命令和部署的软件。它运行在Windows机器上，使用powershell进行连接和执行，旨在方便管理远程机器。 如果您有兴趣，可以在以下位置找到更多信息：www.remotesysmanager.com    submitted by    /u/_Solid_Snake__   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e8obo6/remote_system_manager_run_commands_and/</guid>
-      <pubDate>Sun, 21 Jul 2024 15:04:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
