@@ -4,7 +4,70 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Sun, 21 Jul 2024 09:13:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jul 2024 12:24:14 GMT</lastBuildDate>
+    <item>
+      <title>寻求非营利信托数据迁移和网站项目的指导</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e8l3bt/seeking_guidance_on_a_data_migration_and_website/</link>
+      <description><![CDATA[大家好， 我正在为一家大约有 75 年历史的非营利信托机构开展一个业余项目。多年来，该信托机构积累了大量数据（约 5TB），包括照片、书籍、音频和视频。目前，这些数据存储在本地计算机和外部硬盘上。 第 1 阶段：将数据传输到云 项目的第一阶段涉及将所有数据传输到云，以便所有数据都集中在一个地方。我正在考虑订阅 OneDrive 并将其安装在每台计算机上以整合和上传数据。我对这一阶段的问题是： 1. OneDrive 订阅是否是传输和存储如此大量数据的最佳选择？ 2. 对于这种项目，是否有其他更高效或更具成本效益的云服务或方法？  第 2 阶段：构建用于数据访问的网站 在第二阶段，我的目标是构建一个网站，以便轻松访问这些数据并让 Google 对其进行索引。以下是我的一些初步想法和问题： 1. 托管选项：• 是否应将视频作为私人播放列表托管在 YouTube 上，然后嵌入到网站上？• 以经济高效的方式托管音频讲座、相册和书籍的最佳做法是什么？2. 网站开发：• 哪个平台对于构建和维护网站最具成本效益和用户友好性？• 关于如何构建网站以获得最佳用户体验和搜索引擎索引的任何建议？ 我期待您能分享任何见解、建议或经验来帮助我完成这些阶段。提前感谢您的帮助！    提交人    /u/Game_Changer_90   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e8l3bt/seeking_guidance_on_a_data_migration_and_website/</guid>
+      <pubDate>Sun, 21 Jul 2024 12:22:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>活动旅程——简单的自我提升，个性化的奖励。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e8kukg/activity_journey_simple_selfimprovement/</link>
+      <description><![CDATA[      大家好！👋🏻 Activity Journey – 一款旨在让自我提升变得触手可及且有益的应用程序。无论您是锻炼、跑步、练习瑜伽还是保持水分，我们的应用程序都可以帮助您跟踪活动并设定个性化目标。 主要功能： • 跟踪活动并设定目标 • 获得可自定义的奖励 • 用户友好且适应性强的界面 我开发这款应用程序是为了帮助其他人过上更健康、更充实的生活。我很乐意听取您的反馈，以便让它变得更好！ 在这里查看并告诉我您的想法！ https://preview.redd.it/ihjdkq8s4vdd1.jpg?width=2097&amp;format=pjpg&amp;auto=webp&amp;s=a7c598bb024a871f91843503aaabdb7e28bd7b37    提交人    /u/Entire_Onion_514   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e8kukg/activity_journey_simple_selfimprovement/</guid>
+      <pubDate>Sun, 21 Jul 2024 12:08:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Enatega 多供应商食品配送系统后端出售！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e8km81/enatega_multivendor_food_delivery_system_backend/</link>
+      <description><![CDATA[产品销售：多供应商食品配送 Enatega 网站有更多关于产品的信息：www.enatega.com 我联系了他们的一位现有买家，由于各种情况，他热衷于销售多供应商食品配送产品。这是最新版本。我正在协助他销售。 他只会向想要创业的学生或应届毕业生或早期创业者销售产品，并且还会提供如何不使用产品的指导，因为他认为该产品并不适合所有人！您还将获得完整的后端和前端。根据 enatega 网站，该产品的当前价格为 4997 美元！Www.enatega.com 销售价格将大幅折扣。 这只在一段时间内有效！有兴趣的人可以发送电子邮件说明购买产品的意图和未来计划。 请提及我的帖子以获得额外折扣。 电子邮件：[sellingenatega@gmail.com](mailto:sellingenatega@gmail.com)    提交人    /u/Broad-Success-8682   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e8km81/enatega_multivendor_food_delivery_system_backend/</guid>
+      <pubDate>Sun, 21 Jul 2024 11:54:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hackly — 免费黑客马拉松</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e8k6wo/hackly_the_free_hackathon/</link>
+      <description><![CDATA[我正在开展一个项目，旨在组织一场 wiki 风格的黑客马拉松。这次黑客马拉松不会将参与者分成团队，而是允许每个人都致力于他们喜欢的想法，奖励将颁发给获胜解决方案的贡献者。 如果您感兴趣或想要了解该模型，请在此处加入等候名单：https://gethackly.github.io/    提交人    /u/Real_RickestRick   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e8k6wo/hackly_the_free_hackathon/</guid>
+      <pubDate>Sun, 21 Jul 2024 11:28:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>我为自己创建了一个网站并想与其他人分享</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e8k2ez/i_created_a_site_for_myself_and_want_to_share_it/</link>
+      <description><![CDATA[我直奔主题。我正在寻找 1-2 个对个人理财感兴趣并有时间成为我网站测试用户的人。 成为会员是免费的。希望获得有关这些功能的反馈。 https://www.fu-money.club    提交人    /u/Server_Extension_855   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e8k2ez/i_created_a_site_for_myself_and_want_to_share_it/</guid>
+      <pubDate>Sun, 21 Jul 2024 11:20:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>InkStory - 移动应用程序，用于为增强纹身发声</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e8k0c0/inkstory_mobile_app_to_voice_out_augmented_tattoos/</link>
+      <description><![CDATA[      大家好， 我创建了一个应用程序，您可以使用它为您的纹身带来额外的意义和感觉。这个想法是使用增强现实来为纹身发声。最初，我为自己创建了它（我纹了我女儿的声音），但从那时起，我决定将其与流媒体服务集成，以便您可以添加任何对您有特殊意义的歌曲或媒体。 https://reddit.com/link/1e8k0c0/video/plaje2l76vdd1/player 我很乐意听到有关我的应用程序的任何反馈。您可以在 Android 和 iOS 上尝试。如果您自己没有纹身，您可以使用这篇文章中的演示纹身 - 只需将您的相机对准它（当然，您需要使用第二个屏幕来实现这一点）。 https://preview.redd.it/sgp46rdkvudd1.jpg?width=499&amp;format=pjpg&amp;auto=webp&amp;s=35cc8954e5a75256677f26e1b4ecbb6019d3b8f8   由    /u/AppropriateSize4580  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e8k0c0/inkstory_mobile_app_to_voice_out_augmented_tattoos/</guid>
+      <pubDate>Sun, 21 Jul 2024 11:16:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>我应该如何预先启动我的初创企业？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e8ju3w/how_should_i_prelaunch_my_startup/</link>
+      <description><![CDATA[我刚刚完成了我创业公司的候补名单的登陆页面。有哪些最好的在线社区或平台来推广它，你会推荐哪些有效的预发布策略？    提交人    /u/Klutzy-Ad5066   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e8ju3w/how_should_i_prelaunch_my_startup/</guid>
+      <pubDate>Sun, 21 Jul 2024 11:05:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 Product Hunt 上首次发布</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e8jqlc/first_launch_on_product_hunt/</link>
+      <description><![CDATA[我刚刚在 Product Hunt 上推出了我的人工智能鼓舞人心的应用 Dialed！任何支持或反馈都将不胜感激！ Product Hunt  Dialed App    提交人    /u/Pickles1551   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e8jqlc/first_launch_on_product_hunt/</guid>
+      <pubDate>Sun, 21 Jul 2024 10:59:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个工具，它可以免费自动向您显示应用列表和 ASO 中的问题！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e8iu8k/i_made_a_tool_that_will_automatically_show_you/</link>
+      <description><![CDATA[      您是移动应用开发者，并在 iOS 或 Android 上发布了应用吗？ 我刚刚在我的产品 GrowASO.com 中发布了一项功能，它可以自动向您显示您的应用列表/应用商店优化 (ASO) 中是否存在错误。您只需在登录后输入应用的 URL，就会获得一份可操作的报告，其中包含有关修复问题的具体建议。 该工具检查的内容 &amp;报告的外观 - GrowASO 的 ASO 列表审核功能 立即尝试，看看您的应用列表获得了多少分数！    提交人    /u/Inevitable_Buddy1869   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e8iu8k/i_made_a_tool_that_will_automatically_show_you/</guid>
+      <pubDate>Sun, 21 Jul 2024 09:56:08 GMT</pubDate>
+    </item>
     <item>
       <title>制作项目的步骤？</title>
       <link>https://www.reddit.com/r/SideProject/comments/1e8hzyf/steps_to_making_project/</link>
@@ -46,69 +109,6 @@
       <description><![CDATA[https://reddit.com/link/1e8gazf/video/oud7hxxgktdd1/player 说明：  选择公司：单击相应的按钮从公司 A、公司 B 或公司 C 中进行选择。 监控价格：密切关注仪表板上显示的当前股票价格。 买入股票：单击“买入股票”按钮购买所选公司的股票，前提是您有足够的余额。 卖出股票：单击“卖出股票”按钮出售您的股票并实现您的利润或损失。 跟踪您的进度：在交易时实时查看您的余额和所拥有的股票更新。 重置进度：如果您想重新开始，请点击“重置”按钮清除您当前的游戏状态。     提交人    /u/SilverDirection3364   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1e8gazf/i_made_stock_market_simulator_learn_and_invest/</guid>
       <pubDate>Sun, 21 Jul 2024 06:52:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>元素周期表：化学应用程序</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e8g1ag/periodic_table_chemistry_app/</link>
-      <description><![CDATA[元素周期表：化学    提交人    /u/sid8494   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e8g1ag/periodic_table_chemistry_app/</guid>
-      <pubDate>Sun, 21 Jul 2024 06:33:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>探索艺术、设计与文化之间的相互联系</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e8f1x8/an_exploration_of_interconnected_ideas_from_art/</link>
-      <description><![CDATA[大家好，我发布了一个名为“Whole Fragments”的新闻通讯。 它将从彼此如何相互联系的背景出发，探索思想及其背后的人的故事。我只是想表明，思想并不存在于真空中，它们并不像我们被教导如何看待事物那样受到学科界限的限制。 通过讲述思想如何相互汲取灵感以及它们如何随着时间的推移而发展的故事，我希望我们所有人都能从完整的视角看待世界。一种对游戏状态和创造力更加开放的方式，这样你就可以从多个努力中收集到生活和工作的灵感。 各位通才和创作者，我希望你们能查看一下时事通讯，如果这一切与你产生共鸣，请考虑订阅。 如果这篇文章看起来令人困惑和不清楚，时事通讯的第 0 期将详细讨论为什么所有这些都很重要。 感谢善良的人类的支持。 链接到整个片段    提交人    /u/rahulrajeev9   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e8f1x8/an_exploration_of_interconnected_ideas_from_art/</guid>
-      <pubDate>Sun, 21 Jul 2024 05:28:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个 AI 来为你总结 Reddit | SticAI Glance</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e8ecqd/i_created_an_ai_to_summarize_reddit_for_you/</link>
-      <description><![CDATA[        由    /u/SpikeySanju 提交   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e8ecqd/i_created_an_ai_to_summarize_reddit_for_you/</guid>
-      <pubDate>Sun, 21 Jul 2024 04:44:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>我使用 AI 制作的 ARG 路线起点</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e8e8c5/arg_trailhead_i_made_using_ai/</link>
-      <description><![CDATA[  由    /u/d34dw3b  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e8e8c5/arg_trailhead_i_made_using_ai/</guid>
-      <pubDate>Sun, 21 Jul 2024 04:35:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>您使用什么工具来构建用于收集电子邮件的引导页？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e8daf9/what_tool_are_you_use_to_build_lead_pages_for/</link>
-      <description><![CDATA[  由    /u/cyphexo  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e8daf9/what_tool_are_you_use_to_build_lead_pages_for/</guid>
-      <pubDate>Sun, 21 Jul 2024 03:38:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>每天使用编码工具的第 12 天 - 使用新的 GPT-4o mini 我创建了这个在线代码转换器</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e8bnop/day_12_of_coding_tools_every_day_using_new_gpt4o/</link>
-      <description><![CDATA[    /u/PickleDue3394   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e8bnop/day_12_of_coding_tools_every_day_using_new_gpt4o/</guid>
-      <pubDate>Sun, 21 Jul 2024 02:06:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的创业想法失败了但是......</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e8bn1a/my_startup_idea_failed_but/</link>
-      <description><![CDATA[我们为处理大量 PDF 文档的办公室工作人员创建了一个非常酷的文档分割器和提取器。最好的部分是什么？它不需要像 Google Document AI 或 Azure Document Intelligence 那样进行任何预先训练。此外，它可以将数据提取为 JSON 并将组合的 PDF 文档拆分为正确的部分。 尽管我们在这方面取得了一些重大里程碑，但我知道它可能不是每个人的心头好。但如果您认为这对您的网站或您正在开发的任何功能有用，请告诉我！    提交人    /u/dhj9817   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e8bn1a/my_startup_idea_failed_but/</guid>
-      <pubDate>Sun, 21 Jul 2024 02:05:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cookup：AI Chef – 我最新的个性化食谱建议应用程序 🍳⏰</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e8b11u/cookup_ai_chef_my_latest_app_for_personalized/</link>
-      <description><![CDATA[      大家好， 我很高兴与大家分享我最新的业余项目“Cookup：AI Chef”。这是我开发的一款应用，它使用人工智能帮助您根据家中现有的食材找到食谱。我的目标是让膳食计划更高效、更有趣。 Cookup 的功能：  人工智能驱动的食谱建议：输入您可用的食材，应用将根据您现有的食材生成食谱。它非常适合充分利用您的食品储藏室。 区域食谱调整：Cookup 根据您的位置定制食谱，确保建议符合当地美食偏好。 最喜欢的食谱：轻松保存您最喜欢的食谱，以便您可以随时重新查看它们。 烹饪聊天：该应用包含聊天功能，您可以在其中获得烹饪技巧并查看当地商店的食材价格。  我很想得到反馈并听取您的任何建议。谢谢您的关注！ 维多利亚     提交人    /u/Victoriaaali   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e8b11u/cookup_ai_chef_my_latest_app_for_personalized/</guid>
-      <pubDate>Sun, 21 Jul 2024 01:30:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一款语音优先的约会应用，使用人工智能生成的破冰游戏让谈话变得有趣</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e8aqz7/i_made_a_voicefirst_dating_app_with_ai_generated/</link>
-      <description><![CDATA[    /u/LetExotic4946   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e8aqz7/i_made_a_voicefirst_dating_app_with_ai_generated/</guid>
-      <pubDate>Sun, 21 Jul 2024 01:15:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
