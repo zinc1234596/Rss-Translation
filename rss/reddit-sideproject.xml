@@ -4,7 +4,56 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Sat, 20 Jul 2024 21:12:11 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jul 2024 01:05:07 GMT</lastBuildDate>
+    <item>
+      <title>与 OTA 合作的传统旅行社</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e89d9v/traditional_tour_operator_working_on_an_ota/</link>
+      <description><![CDATA[大家好，我是旅行社，我一直在开发一个旅游平台，旨在简化计划、预订和协调前往非洲及周边地区的旅行，而无需依赖旅行社！ 它的工作原理是：登录平台，选择您的目的地日期和人数（例如，从肯尼亚前往南非开普敦），我们将向您显示可用的住宿，从那里我们将展示所有可用的交通方式带您到达那里，添加您的转乘，进行付款，然后就完成了，一个 5 岁的孩子就可以做到 我们还在开发一项功能，让用户为他们的旅行选择不同的交通方式。例如，您可以乘坐飞机出发，乘坐公共汽车返回，所有这些操作都可以在一个地方完成，而无需离开平台。 我们的目标是简化前往非洲大陆不同城市的旅行计划流程，节省您的时间并使流程不那么繁琐。 您可以在 rove4travel.com 上查看我们，分享您的反馈，并且不要犹豫，加入我们的候补名单！    提交人    /u/NovelCombination801   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e89d9v/traditional_tour_operator_working_on_an_ota/</guid>
+      <pubDate>Sun, 21 Jul 2024 00:04:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>我开发了一个网络应用程序，通过表情符号来追踪每天发生的事情。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e88xno/i_built_a_web_app_to_keep_track_of_what_the_day/</link>
+      <description><![CDATA[        提交人    /u/JerryDeKo   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e88xno/i_built_a_web_app_to_keep_track_of_what_the_day/</guid>
+      <pubDate>Sat, 20 Jul 2024 23:42:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>InfinipilotAI 介绍 - 您的 macOS 应用 AI 副驾驶</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e88qou/introducing_infinipilotai_your_ai_copilot_for/</link>
+      <description><![CDATA[  由    /u/Old-Breadfruit-595  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e88qou/introducing_infinipilotai_your_ai_copilot_for/</guid>
+      <pubDate>Sat, 20 Jul 2024 23:33:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>发票生成器——约 90% 由人工智能编码</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e87bc4/invoice_generator_about_90_ai_coded/</link>
+      <description><![CDATA[查看这个简单的发票生成器网站：https://invoice-generator.pro/ 故事 这开始是一个实验。我经营一家小型软件咨询公司，想要一种简单的方法来生成发票。我让 OpenDevin 为我构建了一个 简单的 cli 来在命令行上生成发票。 但后来认为这可能是一个有趣的附带项目。但是，我不是前端开发人员，即使构建这个简单的 React 应用程序也要花费我很长时间。使用 Claude 花了不到一个小时的时间就让这个网站启动并运行起来。太不可思议了！ 完整代码可在此处获取。    由   提交  /u/Educational-Let-5580   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e87bc4/invoice_generator_about_90_ai_coded/</guid>
+      <pubDate>Sat, 20 Jul 2024 22:26:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>按需印刷的想法……？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e875lf/print_on_demand_idea/</link>
+      <description><![CDATA[大家好，最近我想用 CustomInk 将我宠物的照片印在包上作为礼物送给家人。但是我发现网站提供的图像编辑器非常基础，无法满足我的需求。我需要执行几个图像处理任务，例如去除背景、应用卡通滤镜、添加时尚文本和放大图像。这需要在上传照片之前使用 Canva、MidJourney 和 Photoshop 等多种工具。这个过程非常耗时（4-5 小时），仅一次使用就花费了我大约 50 美元的工具费。 这次经历让我想到：如果有一项 POD（按需打印）服务带有更强大的图像编辑器来满足客户的基本需求会怎样？该编辑器可以包括背景去除、放大和有趣的 AI 效果等功能（例如，将原始图像转换为卡通、素描或其他样式）。这样，客户就可以节省时间和金钱。 我有技术背景来构建这样的 PoD 服务，但我想知道如果您是客户，这是否是个好主意？    提交人    /u/Ashamed_Ear3258   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e875lf/print_on_demand_idea/</guid>
+      <pubDate>Sat, 20 Jul 2024 22:18:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了 chatGPT 强化版，用于简历和求职信，希望得到反馈 :)</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e86r84/i_made_chatgpt_on_steroids_for_resumes_and_cover/</link>
+      <description><![CDATA[        提交人    /u/Fast-Society7107   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e86r84/i_made_chatgpt_on_steroids_for_resumes_and_cover/</guid>
+      <pubDate>Sat, 20 Jul 2024 21:59:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>从创意到产品（我的第一个应用程序！）：旅行最后一天不再有尴尬的“谁欠谁的钱？”的谈话。Owemee 简化了团体旅行费用分摊！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e86l5j/from_idea_to_product_my_first_app_no_more_awkward/</link>
+      <description><![CDATA[我构建了自己的第一个应用程序！介绍 Owemee： 简介： 所以，去年冬天，我和朋友们去欧洲旅行时，产生了这个想法。你知道团体旅行是怎样的——有很多： •“是的，我来付这个钱，你去下一个。” •“等等，上次是谁付的？” •“伙计，我觉得最后三次我都付了。” •“是的，我真的不记得上次是谁付的。” 最后，它总是以“等等，我欠你多少钱？”结束。 “我欠你多少钱”这个部分对我来说永远是最具挑战性的。我属于那种喜欢在假期挥霍的人，但在团体环境中挥霍会变得有点困难和尴尬，因为每个人的预算都不一样。只付一张账单比每次都分摊更容易。当然，你可以分摊账单，但当你喝醉了或在路上时，让一个人付钱然后轮流付要简单得多。在脑子里记住所有这些或在笔记应用程序中写下来需要付出很多努力。想象一下在旅行结束时做所有的数学题——不用了。 这正是发生在我们身上的事情。我们在等待登机时进行心算，以弄清楚谁欠谁多少钱。 所以，我开发了一款名为 Owemee 的应用程序。你只需在为每个人付款时添加交易——比如 Uber、午餐、博物馆门票等。该应用程序可以轻松地平均分摊费用或按你想要的方式分摊费用。最有用的功能是，你可以看到整个旅行过程中你的团队彼此欠多少钱。最后，您可以轻松查看您需要支付多少钱或其他人欠您多少钱。 请在 App Store 上查看： Owemee 反馈： 我很乐意收到您的反馈。我很高兴继续开发该应用程序，因为我在构建它时度过了愉快的时光。这是我实际完成的第一个应用程序/附带项目。 谢谢！    提交人    /u/Odd_Ad_4776   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e86l5j/from_idea_to_product_my_first_app_no_more_awkward/</guid>
+      <pubDate>Sat, 20 Jul 2024 21:51:32 GMT</pubDate>
+    </item>
     <item>
       <title>停止浪费时间构建/设计等候名单/潜在客户生成页面</title>
       <link>https://www.reddit.com/r/SideProject/comments/1e84u56/stop_wasting_time_on_buildingdesigning/</link>
@@ -60,55 +109,6 @@
       <description><![CDATA[Dialed App 几乎可以用于任何场合的鼓舞人心的演讲。不再有千篇一律的 YouTube 视频！ 我刚刚对我的 ai 鼓舞人心的演讲应用进行了一些重大更新。现在您可以根据自己的感受选择不同的鼓舞人心的演讲风格，用户界面看起来更美观，现在还有鼓舞人心的提醒通知 :) 还有很多更新正在进行中……如果您喜欢，请随时给我反馈或留下评论！  我们目前正在努力将 Apple 健康和谷歌日历与其他数据源整合在一起，看看您是否可以在最需要的时候自动创建鼓舞人心的讲话（当您在演示前感到疲倦时等！） 如果有人想要一个个性化的鼓舞人心的讲话而不下载应用程序，请评论您需要它做什么，我会把它发给你:)    提交人    /u/Pickles1551   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1e83c2g/ai_pep_talks_to_inspire_you_to_work_on_your_side/</guid>
       <pubDate>Sat, 20 Jul 2024 19:20:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>让你通过时尚表达自我</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e82uw9/letting_you_express_yourself_through_fashion/</link>
-      <description><![CDATA[大家好， 尝试围绕时尚创造一些东西并将其与 Gen AI 相结合。  因此，概念是让您在不与 AI 交互的情况下穿上自己的想法（减少您自己与 Gen AI 的交互）。并通过您穿的时装表达您的个性。 您可以在此处加入早期访问等候名单：https://fashionsanctum.framer.website/ 此外，还附上了 instagram 和 twitter 社交媒体句柄，我会在那里继续发布更新或我正在开发的功能。 让我知道您的意见。    提交人    /u/ArrogantJeet   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e82uw9/letting_you_express_yourself_through_fashion/</guid>
-      <pubDate>Sat, 20 Jul 2024 18:58:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的等候名单很无聊，所以我做了一个迷你游戏让它更有趣</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e82s5z/my_waitlist_was_boring_so_i_built_a_mini_game_to/</link>
-      <description><![CDATA[    /u/notomarsol   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e82s5z/my_waitlist_was_boring_so_i_built_a_mini_game_to/</guid>
-      <pubDate>Sat, 20 Jul 2024 18:54:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>哪个是最佳的 SaaS、电子商务或商业网络托管服务提供商？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e826v8/which_is_the_best_web_hosting_provider_for_saas/</link>
-      <description><![CDATA[我曾与一家公司合作，他们以低廉的价格为我提供网络托管服务。但突然间，他们说我的带宽用完了，并停止了我的服务。然后，我又有了一个 SaaS 项目，并找到了一家价格低廉的网络托管服务提供商。几个月后，我又遇到了一个问题，我的数据消失了。这两家公司规模都不大，也不知名，但他们以低价提供网络托管服务。然而，我不得不以高价购买域名、SSL 和其他东西。 很快，我遇到了很多关于顶级网络托管服务提供商的正面和负面评论，如 Bluehost、DreamHost、Digital Ocean 等。最后，在阅读了 subreddit ( webhostinger ) 中关于网络托管的一些评论后，我决定选择 Bluehost，因为 webhostinger 提供 75% 的折扣、免费域名和 SSL。到目前为止，我对此感到满意，但我担心的是，Reddit 上有很多负面评论，甚至针对顶级网络托管公司（Bluehost、SiteGround、DreamHost 等）。但是，我可以保证，我的数据在顶级网络托管提供商那里是安全的。 我可以知道您在 SaaS 业务中使用哪种网络托管服务以及它进展如何吗？    提交人    /u/rossopy   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e826v8/which_is_the_best_web_hosting_provider_for_saas/</guid>
-      <pubDate>Sat, 20 Jul 2024 18:27:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个语音 AI 问责合作伙伴，以应对 30 天的挑战</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e81vci/i_built_a_voice_ai_accountability_partner_for_30/</link>
-      <description><![CDATA[大家好， 我为 30 天挑战建立了一个语音 AI 问责伙伴，以帮助您实现目标并激励您。 查看：https://30daypartner.webflow.io/ 它基本上会在您挑战期间每天给您打电话，并让您对自己的目标负责。 我们希望你喜欢它！感谢任何反馈！    提交人    /u/Dull_Resolution2488   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e81vci/i_built_a_voice_ai_accountability_partner_for_30/</guid>
-      <pubDate>Sat, 20 Jul 2024 18:12:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何改进这个人工智能驱动的数据可视化应用程序（1）？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e81lkh/how_can_i_improve_this_aidriven_data/</link>
-      <description><![CDATA[嗨，我制作了这个用于数据可视化的 AI，并想扩展它。这是我第一次制作这个副项目，花了我大约一周的时间。该应用程序基于 ReactJS 和 Python，并使用 Groq API。我正在尝试制作一个与 AI 一起运行的应用程序，使该应用程序能够执行 CRUD 操作，并能够从该 AI 导入仪表板和图表，同时还允许用户制作自己的图表/仪表板。 现在，我正试图专注于我创建的这个 AI，我进一步改进它的基本计划如下：  能够在用户输入提示后立即保存对话。 接受多种类型的文件。 添加一种导出预处理数据和图表的方法。 接受用户的 Groq API 密钥（稍后将添加用户登录和身份验证）  除此之外，我还很想听听您的想法，我也想知道您认为还有哪些其他功能或改进可以使应用程序更有用、更用户友好。此外，如果您对下一步改进或添加的内容有任何建议或建议，我也很感激。您的反馈对于帮助我改进这个应用程序并使其更具可扩展性非常有价值。 提前为我的经验不足感到抱歉，因为我在创业方面没有任何经验，而且还是 DS 的新手。 提前感谢您的帮助！ https://reddit.com/link/1e81lkh/video/adfkyqlsqpdd1/player    提交人    /u/Mediocre-Ad-2439   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e81lkh/how_can_i_improve_this_aidriven_data/</guid>
-      <pubDate>Sat, 20 Jul 2024 18:00:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>评论已禁用？使用 Voxary 从任何网站启动实时聊天室</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e81epr/comments_disabled_launch_a_live_chat_room_from/</link>
-      <description><![CDATA[        由    /u/VoxaryChat 提交   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e81epr/comments_disabled_launch_a_live_chat_room_from/</guid>
-      <pubDate>Sat, 20 Jul 2024 17:52:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>新应用程序：秘密 AI 文件编码 - 使用高级 AI 保护您的文件！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e811lz/new_app_secret_ai_file_encoding_secure_your_files/</link>
-      <description><![CDATA[嘿 r/sideproject， 我很高兴与大家分享我的最新创作 - 一款名为 Secret AI File Encoding 的应用！它现已在 Google Play 商店上架。 什么是 Secret AI File Encoding？ 此应用使用先进的 AI 技术安全地对文件进行编码和解码，确保您的数据保持私密和安全。以下是主要功能： 功能：  高安全性：凭借 256 个浮点参数和天文数字般的排列数量，未经授权的解码几乎是不可能的。 轻松编码和解码：可对最大 500kB 的文件进行编码并轻松共享。收件人可以使用共享模型以 100% 的准确度解码文件。 模型安全性：在编码之前保护模型，以防止未经授权的访问。 用户友好界面：设计简单直观，即使非技术用户也可以访问。  工作原理：  保护模型：在编码之前确保模型是安全的，以防止使用通用模型。 编码文件：选择一个文件并使用应用程序对其进行编码。 共享模型：通过任何消息平台共享安全模型。 解码文件：收件人使用共享模型准确解码文件。  为什么要使用它？ 数据安全比迄今为止，该应用提供了一个强大的解决方案，可保护您的文件免遭窥探。无论您共享的是敏感文档还是个人照片，您都可以放心，您的数据受到保护。 在哪里可以找到它： 该应用可在 Google Play 商店下载。这是下载 Secret AI File Encoding 的链接。 最好的，DisD     提交人    /u/DisDoh   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e811lz/new_app_secret_ai_file_encoding_secure_your_files/</guid>
-      <pubDate>Sat, 20 Jul 2024 17:35:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
