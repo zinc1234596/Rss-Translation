@@ -4,11 +4,74 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Mon, 22 Jul 2024 18:17:49 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jul 2024 21:13:13 GMT</lastBuildDate>
+    <item>
+      <title>在与潜在制造商的会议中我应该分享多少？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e9pi0m/how_much_should_i_share_in_meetings_with/</link>
+      <description><![CDATA[几天后我要和一家中国公司开会，他们会帮我开发一个产品的 PCB，我该做些什么来防止他们抄袭我的想法吗？    提交人    /u/Regular_Philosophy13   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e9pi0m/how_much_should_i_share_in_meetings_with/</guid>
+      <pubDate>Mon, 22 Jul 2024 21:08:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>具有 3D 头像的聊天应用程序 - 文本、语音和运动跟踪</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e9os8m/chat_app_with_3d_avatars_text_voice_and_motion/</link>
+      <description><![CDATA[大家好，我花了一周时间在做一个业余项目，我很乐意从这个精彩的社区得到一些反馈。 我开发了一个聊天应用程序，用户可以上传自己的虚拟角色（VRM、FBX 等）并与随机的人聊天。目标是通过个性化头像让对话更有趣、互动性更强。用户可以通过文本和语音聊天进行交流，该应用程序支持头像的运动跟踪。 您可以在这里查看：https://www.vchathub.io/ 任何关于功能、您可能遇到的问题以及整体功能的反馈都将不胜感激。 谢谢大家，祝大家好运！    提交人    /u/Kind_Ad_8473   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e9os8m/chat_app_with_3d_avatars_text_voice_and_motion/</guid>
+      <pubDate>Mon, 22 Jul 2024 20:39:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>我讨厌买衣服。所以我做了这个</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e9oi4p/i_hate_buying_clothes_so_i_build_this/</link>
+      <description><![CDATA[        由    /u/Intelligent-Try3341  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e9oi4p/i_hate_buying_clothes_so_i_build_this/</guid>
+      <pubDate>Mon, 22 Jul 2024 20:28:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>docker compose 文件的模板引擎</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e9ofts/templating_engine_for_docker_compose_files/</link>
+      <description><![CDATA[大家好， 管理大型 Docker Compose 文件对我来说一直是一个挑战，所以我开发了 Docpose 来简化事情。它对我的个人项目非常有用，但我不太愿意将它用于客户项目。由于它是由单个开发人员创建和维护的工具，因此尽管我很热衷，但我还是担心依赖它。 您对 Docpose 有何看法？    提交人    /u/OkMedicine8096   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e9ofts/templating_engine_for_docker_compose_files/</guid>
+      <pubDate>Mon, 22 Jul 2024 20:25:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>为我的 Firebase 移动应用添加了远程配置管理</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e9oca0/added_remote_config_management_to_my_firebase/</link>
+      <description><![CDATA[应大众需求，我更新了我的应用程序以包含远程配置管理 https://apps.apple.com/us/app/littlefire-firebase-mobile/id6474979700    提交人    /u/sawpaw19   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e9oca0/added_remote_config_management_to_my_firebase/</guid>
+      <pubDate>Mon, 22 Jul 2024 20:21:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>我使用人工智能应用程序修复了错误文档</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e9n80m/i_fixed_bad_documentation_with_an_ai_app/</link>
+      <description><![CDATA[我建立这个项目是为了解决一个实际问题： 文档对于新程序员来说是一场噩梦。他们很难阅读它，但这对他们的成长至关重要。因此，我创建了一个适用于任何网络链接的按需 RAG 系统。 我需要你的坦诚。试试看，然后告诉我：  你在学习时实际使用文档的频率是多少？ 你喜欢阅读文档，还是默认使用 YouTube 视频和文章？ 你会花钱购买一个让这个更容易使用的 Chrome 扩展程序吗？  这是链接：https://huggingface.co/spaces/Prat0/ClarifyAI 但我不会止步于开发人员。如果您在其他领域看到了这种技术的杀手级用例，我很乐意听听。    提交人    /u/goddamnit_1   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e9n80m/i_fixed_bad_documentation_with_an_ai_app/</guid>
+      <pubDate>Mon, 22 Jul 2024 19:37:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>routers.world - YouTube 锻炼生成器</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e9mj99/routinesworld_youtube_workout_generator/</link>
+      <description><![CDATA[嘿 Reddit！ 我刚刚推出了一款新工具，可将 YouTube 视频转换为锻炼程序。输入 YouTube 链接，它将生成一个分步程序供您遵循！ 最终目标是帮助您发现私人教练并访问他们的例程，使他们能够货币化并扩大业务规模，但这仍在开发中。 请注意，这是一项正在进行的工作，因此在此过程中可能会出现一些小问题。我很乐意听取您的反馈，如果您遇到任何问题，请随时给我发私信。 在这里查看：例程    提交人    /u/alextrand   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e9mj99/routinesworld_youtube_workout_generator/</guid>
+      <pubDate>Mon, 22 Jul 2024 19:08:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>副业的坟墓</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e9m1d2/graveyard_for_side_projects/</link>
+      <description><![CDATA[大家好， 我正在考虑构建一个主题为“副业墓地”的应用程序。这个想法是创建一个人们可以分享他们放弃/未完成的项目的空间。用户可以：  分享项目详细信息、代码和进度。 解释他们停止工作的原因。 提供给其他人以借鉴或从中获得灵感。 反思经验教训。  我希望得到反馈，看看您是否认为这是一个有用的工具，以及您可能会如何使用这样的应用程序。  您会使用这样的应用程序吗？为什么或为什么不？ 这个应用程序对你有什么好处？ 你认为有什么功能对它的成功至关重要？  提前谢谢！    提交人    /u/No-Honey6823   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e9m1d2/graveyard_for_side_projects/</guid>
+      <pubDate>Mon, 22 Jul 2024 18:48:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>我是否过度缩小了我的产品的细分范围？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e9lq7z/did_i_niched_down_my_product_too_much/</link>
+      <description><![CDATA[大家好， 几周前，我发布了一款新产品，可以帮助使用 Notion 进行内容写作（主要是与商业相关的博客等）的人撰写 SEO 优化的内容。 它的工作原理是连接到您的 Notion 工作区，定期同步 Notion 页面内容，并在您撰写内容时提供与 SEO 相关的实时见解。（SurferSEO，适用于 Notion）。 在我看来，我的理想客户角色是撰写商业博客（即关心 SEO）并使用 Notion 作为内容编辑器的人。 我的问题是我很难接触到那些理想的客户。他们非常具体...... 我是否过于细分化？我会接受您向我提出的任何建议。谢谢！    提交人    /u/Okweekend2000   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e9lq7z/did_i_niched_down_my_product_too_much/</guid>
+      <pubDate>Mon, 22 Jul 2024 18:36:33 GMT</pubDate>
+    </item>
     <item>
       <title>我制作了一个生产力应用程序来帮助我构建其他应用程序</title>
       <link>https://www.reddit.com/r/SideProject/comments/1e9kpjd/i_made_a_productivity_app_to_help_me_build_other/</link>
-      <description><![CDATA[大家好， 我和您一样是个生产力迷，也是一名软件工程师。我尝试过很多生产力应用程序，但没有一个能完全满足我的需求。所以，我创建了自己的应用程序，我一直用它来规划我的日常日程、设定目标和跟踪我花在任务上的时间。到目前为止，这是我找到的最佳解决方案（尽管我可能有偏见）。 我希望您查看并分享您可能有的任何反馈或想法。我提前感谢您的时间！ Focusmax    提交人    /u/ConfusionOk7964   [链接] [评论]]]></description>
+      <description><![CDATA[大家好， 我和您一样是个生产力迷，也是一名软件工程师。我尝试过很多生产力应用程序，但没有一个能完全满足我的需求。因此，我创建了自己的应用程序，我一直用它来规划我的日常日程、设定目标和跟踪我花在任务上的时间。到目前为止，这是我找到的最佳解决方案（尽管我可能有偏见）。 我希望您查看并分享您可能有的任何反馈或想法。我提前感谢您的时间！ Focusmax    提交人    /u/ConfusionOk7964   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1e9kpjd/i_made_a_productivity_app_to_help_me_build_other/</guid>
       <pubDate>Mon, 22 Jul 2024 17:55:51 GMT</pubDate>
     </item>
@@ -43,72 +106,9 @@
     <item>
       <title>ChatGPT 侧边栏 Chrome 扩展程序</title>
       <link>https://www.reddit.com/r/SideProject/comments/1e9hjot/chatgpt_sidebar_chrome_extension/</link>
-      <description><![CDATA[      NavChat：chrome 侧边栏 https://preview.redd.it/bucxiaydc3ed1.png?width=1280&amp;format=png&amp;auto=webp&amp;s=27ed2312f66a382ced24c6a8fb4335230d05b2fe 大家好，我是社区成员，第一次来这里。 我编写了一个 ChatGPT 和 Gemini Chrome Sidebar 扩展程序，以便在浏览器侧边栏中轻松访问这些模型。虽然这个想法并不新鲜，但 NavChat 是免费使用的，它允许你通过自己的 API 密钥访问这些模型，并且你直接向 OpenAI 和 Google 付款。没有中间人费用。这是在侧边栏中访问这些模型的最便宜的方式，平均每月花费约几美元（相比之下，其他一些扩展程序每月收费 30 美元）。 这仍处于 Alpha 阶段，非常早期的发布，如果社区可以尝试一下并提供一些反馈，我将不胜感激。 https://chromewebstore.google.com/detail/chatgpt-sidebar-+-gpt-4o4/acbkcdnhidddghjdlfegflbdncklfhbd  非常感谢。    提交人    /u/Muted_Net2890   [链接] [评论] ]]></description>
+      <description><![CDATA[      NavChat：chrome 侧边栏 https://preview.redd.it/bucxiaydc3ed1.png?width=1280&amp;format=png&amp;auto=webp&amp;s=27ed2312f66a382ced24c6a8fb4335230d05b2fe 大家好，我是社区成员，第一次来这里。 我编写了一个 ChatGPT 和 Gemini Chrome Sidebar 扩展程序，以便在浏览器侧边栏中轻松访问这些模型。虽然这个想法并不新鲜，但 NavChat 是免费使用的，它允许您通过自己的 API 密钥访问这些模型，并且您可以直接向 OpenAI 和 Google 付款。没有中间人费用。这是在侧边栏中访问这些模型的最便宜的方式，平均每月花费约几美元（相比之下，其他一些扩展程序每月收费 30 美元）。 这仍处于 Alpha 阶段，非常早期的发布，如果社区可以尝试一下并提供一些反馈，我将不胜感激。 https://chromewebstore.google.com/detail/chatgpt-sidebar-+-gpt-4o4/acbkcdnhidddghjdlfegflbdncklfhbd  非常感谢。    提交人    /u/Muted_Net2890   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1e9hjot/chatgpt_sidebar_chrome_extension/</guid>
       <pubDate>Mon, 22 Jul 2024 15:46:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个学习（和练习）心算的网站</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e9h4n6/i_made_a_site_to_learn_and_practice_mental_math/</link>
-      <description><![CDATA[        提交人    /u/RCostaReis   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e9h4n6/i_made_a_site_to_learn_and_practice_mental_math/</guid>
-      <pubDate>Mon, 22 Jul 2024 15:29:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>制作了一个网站，帮助您“在互联网上结交很酷的朋友！”</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e9h2r1/made_a_wesbite_that_helps_you_make_cool_friends/</link>
-      <description><![CDATA[嘿伙计们 -- 友谊日即将到来，我 (abhnvx) &amp; rishika (rishfishtish) 决定通过“友谊日礼物交换”让这次活动变得有趣。 目标是帮助人们在互联网上结交新朋友。 这是它的工作原理：  向新朋友发送礼物 收到他人的惊喜 瞧，交了一个新朋友。  你可以在这里参与其中：在互联网上结交很酷的朋友！ 让我在评论中知道你对这个项目的看法 附言：用善意打破互联网&lt;3    提交人    /u/abhnvx   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e9h2r1/made_a_wesbite_that_helps_you_make_cool_friends/</guid>
-      <pubDate>Mon, 22 Jul 2024 15:26:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>[minicarpilot.com] 更新：支持 iPhone；添加声音；更大的驾驶空间</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e9ghdc/minicarpilotcom_updates_iphone_support_sound/</link>
-      <description><![CDATA[        提交人    /u/m0ntanoid   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e9ghdc/minicarpilotcom_updates_iphone_support_sound/</guid>
-      <pubDate>Mon, 22 Jul 2024 15:02:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>我构建了一个 MVP，用人工智能取代语言导师</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e9g7xf/i_built_an_mvp_to_replace_language_tutors_with_ai/</link>
-      <description><![CDATA[我最近为一个项目开发了一个 MVP，该项目旨在用人工智能取代语言导师，或者至少用真正的导师来补充课程。这个项目叫做 AITalkTutor。 AITalkTutor 目前提供 45 分钟的人工智能导师口语课。你可以谈论任何你想谈论的话题，甚至可以进行模拟面试。 AI 导师会对每个答案提供完整的反馈，并在课程结束时进行全面复习和布置家庭作业。 MVP 很简单，在 8 天内开发完成，由 GPT-4o-mini、AssemblyAI 和 OpenAI TextToSpeech 提供支持。 我的愿景是创建一个完整的平台，用于使用 AI 学习说和听，包括：  与 AI 导师 (MVP) 进行互动口语课程 词汇模块（进行中） 使用 AITutor 观看 YouTube 视频（进行中）  我很想听听你对这个想法和定价的看法。目前，45 分钟的课程费用为 1 美元，但如果我可以在本地托管模型，我正在考虑将来使其更便宜。目前最昂贵的部分是 TTS 模型。 链接：https://aitalktutor.com 期待您的反馈！    提交人    /u/avshel   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e9g7xf/i_built_an_mvp_to_replace_language_tutors_with_ai/</guid>
-      <pubDate>Mon, 22 Jul 2024 14:51:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>众筹平台</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e9fyt7/crowdfunding_platforms/</link>
-      <description><![CDATA[我建立了一个 SaaS，并且正在获得关注，但我的跑道很短。我正在寻找替代方案来筹集资金以扩大项目规模。有人知道条件好的众筹平台吗？    提交人    /u/Mother-Character3359   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e9fyt7/crowdfunding_platforms/</guid>
-      <pubDate>Mon, 22 Jul 2024 14:40:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>作为一名科技创始人，我可以处理任何事情。除了这个</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e9fxks/as_a_tech_founder_i_could_handle_anything_except/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e9fxks/as_a_tech_founder_i_could_handle_anything_except/</guid>
-      <pubDate>Mon, 22 Jul 2024 14:39:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>我为妻子的儿童书籍项目制作了一个一键字体配对生成器...但它几乎没有任何功能，因为我是一个懒惰的丈夫。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e9fwu7/i_made_a_oneclick_font_pairing_generator_for_my/</link>
-      <description><![CDATA[      https://preview.redd.it/1w1wruyi03ed1.png?width=1411&amp;format=png&amp;auto=webp&amp;s=e3a84fa4a473f673e17494633d861384557492aa 只是想要一些超级简单易用的东西……同时过滤出最基本的美学字体搭配，两者从设计和排版的角度来看。所以... 这里没有花哨的东西（实际上只有一个按钮）。 但我把它贴在我的网站上。并在 Product Hunt 上混搭。这是一个有趣的副项目，虽然它持续了... 链接：https://theendearingdesigner.com/font-pairing-generator/    提交人    /u/TheEndearingDesigner   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e9fwu7/i_made_a_oneclick_font_pairing_generator_for_my/</guid>
-      <pubDate>Mon, 22 Jul 2024 14:38:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>顶级 SaaS 公司有何不同以及如何应用他们的策略</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e9fip0/what_top_saas_companies_do_differently_and_how/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e9fip0/what_top_saas_companies_do_differently_and_how/</guid>
-      <pubDate>Mon, 22 Jul 2024 14:21:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 Fiverr 和 Upwork 上努力寻找自由职业 Web 开发工作 – 需要建议！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e9fin6/struggling_to_find_freelance_web_development_jobs/</link>
-      <description><![CDATA[大家好， 我向社区寻求一些建议。我目前是一名软件工程师，但我一直在尝试在 Fiverr 和 Upwork 上寻找自由职业网页开发工作来补充收入。然而，我发现这非常具有挑战性。 在 Fiverr 上，尽管我的全栈网页开发服务价格非常有竞争力（基本版 50 美元，标准版 100 美元，高级版 250 美元），但我还是很难引起注意。这个平台竞争激烈，我遇到了许多骗局，这让这个过程变得更加困难。 另一方面，Upwork 需要钱来竞标工作。由于我目前没有任何资金可以预先投资，这对我来说是一个重大障碍。 我正在寻找其他方式或平台来寻找自由职业网页开发工作，而不必处理这些问题。有人对其他平台或策略有什么建议吗？任何关于如何在这个竞争激烈的市场中脱颖而出的建议都将不胜感激。 谢谢！    提交人    /u/Charming_Show_5633   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e9fin6/struggling_to_find_freelance_web_development_jobs/</guid>
-      <pubDate>Mon, 22 Jul 2024 14:21:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
