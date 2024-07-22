@@ -4,7 +4,63 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Mon, 22 Jul 2024 15:15:08 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jul 2024 18:17:49 GMT</lastBuildDate>
+    <item>
+      <title>我制作了一个生产力应用程序来帮助我构建其他应用程序</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e9kpjd/i_made_a_productivity_app_to_help_me_build_other/</link>
+      <description><![CDATA[大家好， 我和您一样是个生产力迷，也是一名软件工程师。我尝试过很多生产力应用程序，但没有一个能完全满足我的需求。所以，我创建了自己的应用程序，我一直用它来规划我的日常日程、设定目标和跟踪我花在任务上的时间。到目前为止，这是我找到的最佳解决方案（尽管我可能有偏见）。 我希望您查看并分享您可能有的任何反馈或想法。我提前感谢您的时间！ Focusmax    提交人    /u/ConfusionOk7964   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e9kpjd/i_made_a_productivity_app_to_help_me_build_other/</guid>
+      <pubDate>Mon, 22 Jul 2024 17:55:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>我为 Next.js 构建了一个作业调度程序</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e9ioj7/i_built_a_job_scheduler_for_nextjs/</link>
+      <description><![CDATA[大家好！ 想分享一些我从五月开始就一直在做的事情。我一直在构建 Queuebase 作为在 Next.js 中调度后台作业的解决方案。我纯粹是出于自由职业项目中对此功能的需求而构建的。 它有两个部分：仪表板和 SDK。仪表板提供有关您的作业和运行尝试的见解。它包括 API 请求日志、作业日志和一些其他关键见解。它还允许您管理环境（分支）、应用程序、团队等。SDK 是一个开源软件包，您可以将其安装在 Next 应用程序中。它受到 tRPC 等库的启发。它包含您实际创建和运行作业所需的所有功能。 我已经用它为我的客户制作了一些应用程序，并且获得了很棒的体验！从用户的角度使用它让我对有效和无效的事情有了一些了解。我一直在修复错误并调整现有功能以真正实现流畅的体验。现在我已经准备好让人们使用它了。 我愿意接受任何反馈，并乐意帮助回答任何问题！ 网站：https://queuebase.com 文档：https://docs.queuebase.com/ GitHub：https://github.com/BrockHerion/queuebase 演示：https://www.youtube.com/watch?v=N4GzqWhUx7c&amp;t=2s   由    /u/sunlightdaddy  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e9ioj7/i_built_a_job_scheduler_for_nextjs/</guid>
+      <pubDate>Mon, 22 Jul 2024 16:33:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>我开发了一个 VS Code 扩展来取代充斥着广告的在线网络工具</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e9i3iv/i_built_a_vs_code_extension_to_replace_adriddled/</link>
+      <description><![CDATA[       由    /u/Atthewall  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e9i3iv/i_built_a_vs_code_extension_to_replace_adriddled/</guid>
+      <pubDate>Mon, 22 Jul 2024 16:09:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了一个工具，可以根据 Kubernetes 清单生成架构图</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e9i29v/i_created_a_tool_to_generate_an_architectural/</link>
+      <description><![CDATA[      https://github.com/kocierik/k8s-to-diagram 欢迎随意贡献！ https://preview.redd.it/tbhjtv4jg3ed1.png?width=429&amp;format=png&amp;auto=webp&amp;s=ad11e5d0d72eeddf4937dd9bf694d93855b27c58    提交人    /u/NeedleworkerChoice68   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e9i29v/i_created_a_tool_to_generate_an_architectural/</guid>
+      <pubDate>Mon, 22 Jul 2024 16:07:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个工具，可以为您节省每张 Stripe 发票高达 2 美元</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e9hqym/i_made_a_tool_that_saves_you_up_to_2_per_stripe/</link>
+      <description><![CDATA[        提交人    /u/Sad-Zebra4495   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e9hqym/i_made_a_tool_that_saves_you_up_to_2_per_stripe/</guid>
+      <pubDate>Mon, 22 Jul 2024 15:54:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT 侧边栏 Chrome 扩展程序</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e9hjot/chatgpt_sidebar_chrome_extension/</link>
+      <description><![CDATA[      NavChat：chrome 侧边栏 https://preview.redd.it/bucxiaydc3ed1.png?width=1280&amp;format=png&amp;auto=webp&amp;s=27ed2312f66a382ced24c6a8fb4335230d05b2fe 大家好，我是社区成员，第一次来这里。 我编写了一个 ChatGPT 和 Gemini Chrome Sidebar 扩展程序，以便在浏览器侧边栏中轻松访问这些模型。虽然这个想法并不新鲜，但 NavChat 是免费使用的，它允许你通过自己的 API 密钥访问这些模型，并且你直接向 OpenAI 和 Google 付款。没有中间人费用。这是在侧边栏中访问这些模型的最便宜的方式，平均每月花费约几美元（相比之下，其他一些扩展程序每月收费 30 美元）。 这仍处于 Alpha 阶段，非常早期的发布，如果社区可以尝试一下并提供一些反馈，我将不胜感激。 https://chromewebstore.google.com/detail/chatgpt-sidebar-+-gpt-4o4/acbkcdnhidddghjdlfegflbdncklfhbd  非常感谢。    提交人    /u/Muted_Net2890   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e9hjot/chatgpt_sidebar_chrome_extension/</guid>
+      <pubDate>Mon, 22 Jul 2024 15:46:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了一个学习（和练习）心算的网站</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e9h4n6/i_made_a_site_to_learn_and_practice_mental_math/</link>
+      <description><![CDATA[        提交人    /u/RCostaReis   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e9h4n6/i_made_a_site_to_learn_and_practice_mental_math/</guid>
+      <pubDate>Mon, 22 Jul 2024 15:29:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>制作了一个网站，帮助您“在互联网上结交很酷的朋友！”</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e9h2r1/made_a_wesbite_that_helps_you_make_cool_friends/</link>
+      <description><![CDATA[嘿伙计们 -- 友谊日即将到来，我 (abhnvx) &amp; rishika (rishfishtish) 决定通过“友谊日礼物交换”让这次活动变得有趣。 目标是帮助人们在互联网上结交新朋友。 这是它的工作原理：  向新朋友发送礼物 收到他人的惊喜 瞧，交了一个新朋友。  你可以在这里参与其中：在互联网上结交很酷的朋友！ 让我在评论中知道你对这个项目的看法 附言：用善意打破互联网&lt;3    提交人    /u/abhnvx   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e9h2r1/made_a_wesbite_that_helps_you_make_cool_friends/</guid>
+      <pubDate>Mon, 22 Jul 2024 15:26:59 GMT</pubDate>
+    </item>
     <item>
       <title>[minicarpilot.com] 更新：支持 iPhone；添加声音；更大的驾驶空间</title>
       <link>https://www.reddit.com/r/SideProject/comments/1e9ghdc/minicarpilotcom_updates_iphone_support_sound/</link>
@@ -53,62 +109,6 @@
       <description><![CDATA[大家好， 我向社区寻求一些建议。我目前是一名软件工程师，但我一直在尝试在 Fiverr 和 Upwork 上寻找自由职业网页开发工作来补充收入。然而，我发现这非常具有挑战性。 在 Fiverr 上，尽管我的全栈网页开发服务价格非常有竞争力（基本版 50 美元，标准版 100 美元，高级版 250 美元），但我还是很难引起注意。这个平台竞争激烈，我遇到了许多骗局，这让这个过程变得更加困难。 另一方面，Upwork 需要钱来竞标工作。由于我目前没有任何资金可以预先投资，这对我来说是一个重大障碍。 我正在寻找其他方式或平台来寻找自由职业网页开发工作，而不必处理这些问题。有人对其他平台或策略有什么建议吗？任何关于如何在这个竞争激烈的市场中脱颖而出的建议都将不胜感激。 谢谢！    提交人    /u/Charming_Show_5633   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1e9fin6/struggling_to_find_freelance_web_development_jobs/</guid>
       <pubDate>Mon, 22 Jul 2024 14:21:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 Fiverr 和 Upwork 上努力寻找自由职业 Web 开发工作 – 需要建议！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e9fhoa/struggling_to_find_freelance_web_development_jobs/</link>
-      <description><![CDATA[大家好， 我向社区寻求一些建议。我目前是一名软件工程师，但我一直在尝试在 Fiverr 和 Upwork 上寻找自由职业网页开发工作来补充收入。然而，我发现这非常具有挑战性。 在 Fiverr 上，尽管我的全栈网页开发服务价格非常有竞争力（基本版 50 美元，标准版 100 美元，高级版 250 美元），但我还是很难引起注意。这个平台竞争激烈，我遇到了许多骗局，这让这个过程变得更加困难。 另一方面，Upwork 需要钱来竞标工作。由于我目前没有任何资金可以预先投资，这对我来说是一个重大障碍。 我正在寻找其他方式或平台来寻找自由职业网页开发工作，而不必处理这些问题。有人对其他平台或策略有什么建议吗？任何关于如何在这个竞争激烈的市场中脱颖而出的建议都将不胜感激。 谢谢！    提交人    /u/Charming_Show_5633   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e9fhoa/struggling_to_find_freelance_web_development_jobs/</guid>
-      <pubDate>Mon, 22 Jul 2024 14:20:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI 生成 1403 幅可爱的小手绘插画</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e9fd8p/ai_generated_1403_cute_tiny_hand_drawn/</link>
-      <description><![CDATA[        由    /u/mddanishyusuf  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e9fd8p/ai_generated_1403_cute_tiny_hand_drawn/</guid>
-      <pubDate>Mon, 22 Jul 2024 14:15:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>我根据亚历克斯·霍莫齐 (Alex Hormozi) 的 1 亿美元报价书构建了一个简单的“大满贯报价”工具，我是否违反了版权法，还是应该发布它？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e9faau/i_built_a_simple_grand_slam_offer_tool_based_on/</link>
-      <description><![CDATA[        提交人    /u/notomarsol   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e9faau/i_built_a_simple_grand_slam_offer_tool_based_on/</guid>
-      <pubDate>Mon, 22 Jul 2024 14:11:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>Starship - 使用嵌套标签管理你的 Github 星标存储库</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e9esnd/starship_managing_your_github_starred/</link>
-      <description><![CDATA[      嗨，GitHub 粉丝们！🌟 难以保持已加星标的仓库整洁有序？查看 Starship App - 您以真正合理的方式组织 GitHub 星标的新工具。 https://apps.apple.com/us/app/starship-your-stars-on-github/id1530665887 如果您像我一样拥有大量已加星标的仓库，那么找到所需的仓库有时就像大海捞针。这时，Starship App 就可以派上用场了！ 🚀 它专为 iOS 和 macOS 设计，通过一些非常酷的功能让您的生活更轻松：  嵌套标记 - 使用自定义类别甚至子类别组织您的存储库。就像为您的数字工具准备抽屉一样！ 跨设备同步 - 开始在 Mac 上标记，然后在 iPhone 上从上次中断的地方继续。天衣无缝，对吧？  开始将您混乱的星星集合变成一个井井有条的图书馆。 📚 立即下载适用于 iOS 和 macOS 的 Starship App，充分利用您的 GitHub！让我们轻松管理我们的数字空间。 💨 祝大家编码和组织愉快！ 😊👩‍💻👨‸💻 https://preview.redd.it/o9lt7orur2ed1.png?width=2560&amp;format=png&amp;auto=webp&amp;s=029c7ddc3fbb974ea3f0d1d922b0b3b7af79c286    提交人    /u/mars_xc_f   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e9esnd/starship_managing_your_github_starred/</guid>
-      <pubDate>Mon, 22 Jul 2024 13:50:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>非开发人员的技术 101</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e9er1t/tech_101_for_non_developers/</link>
-      <description><![CDATA[        提交人    /u/wisechacha   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e9er1t/tech_101_for_non_developers/</guid>
-      <pubDate>Mon, 22 Jul 2024 13:48:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>高效本地化您的 iOS 应用和 App Store Connect 元数据</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e9en5i/localizing_your_ios_app_and_app_store_connect/</link>
-      <description><![CDATA[      大家好！🍏⌨️ 我很高兴与大家分享我最新的创作 - LocalizeX - 一款 macOS 应用，旨在完善 iOS 应用和 App Store Connect 元数据的本地化流程。 https://localizex.app/ 50% 折扣代码： LXREDDIT08，有效期至 9 月 1 日 LocalizeX 的主要功能：  人工智能翻译：利用 OpenAI，LocalizeX 可以提供准确的翻译，甚至可以优化上下文最差的内容。 元数据和格式完整性：我们在翻译时保持代码的原始格式和特殊字符不变，这对于跨语言的功能至关重要。 增强的 App Store 可见性：有效地本地化 App Store 的元数据，确保您的应用脱颖而出并在全球范围内轻松发现。  即将推出：  更多翻译服务：计划添加 DeepL、Claude 等。 扩展格式支持：扩展到 JSON、Excel、Android 项目等。 App Store Connect 的关键字生成：引入 AI 驱动的关键字优化以提高可发现性。  很高兴看到 LocalizeX 如何简化您的开发？有任何问题或想讨论您的本地化需求？在下面发表评论！🎉 附言使用 LocalizeX 将您应用的全球影响力提升到新的水平！🌍🚀 https://preview.redd.it/kg7zzlnkq2ed1.jpg?width=3422&amp;format=pjpg&amp;auto=webp&amp;s=e8ab100e04904e20ff8e4852adad218ae4a3131f    提交人    /u/mars_xc_f   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e9en5i/localizing_your_ios_app_and_app_store_connect/</guid>
-      <pubDate>Mon, 22 Jul 2024 13:43:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>推出：GoLrn——您的信息安全和产品管理基础中心！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e9eks8/launch_golrn_your_hub_for_information_security/</link>
-      <description><![CDATA[大家好， 我很高兴地宣布推出我的新学习网站 GoLrn，这是一个致力于帮助大学生和早期职业专业人士深入了解信息安全和产品管理世界的新平台。 GoLrn 提供的内容： 深度博客：我们的文章涵盖了信息安全的广泛主题，从基础到中级概念。 产品管理资源：我们很快将扩展以包括全面的指南和对产品管理的见解。 职业指导：帮助您在信息安全领域取得面试成功并获得职位的技巧和策略。 我的使命是创建一个支持性和信息丰富的社区，学习者可以在其中找到成功所需的资源。无论您是刚刚起步还是希望扩展知识，GoLrn 都能满足您的需求。 查看我们最新的文章/博客，让我们知道您的想法！随着我们不断成长和改进，我们非常感谢您的反馈和建议。 访问 GoLearn，立即开始您的学习之旅！ 期待您的想法和评论。    提交人    /u/manstartitoff   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e9eks8/launch_golrn_your_hub_for_information_security/</guid>
-      <pubDate>Mon, 22 Jul 2024 13:40:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>一款用于跨平台显示共享链接预览的 Web 应用</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e9ej11/a_web_app_to_display_shared_link_previews_across/</link>
-      <description><![CDATA[当我分享我的网站时，我讨厌它，链接预览没有图片或意外的标题和描述。 我很好奇，想知道你们是否都花了一些时间确保标题、描述和图片在发布之前看起来不错？ 我正在做一个有趣的小项目，它可以帮助您查看您的博客内容在分享时的样子。 非常感谢您尝试它，看看它是否对您有价值（以及使其更好的想法）。 希望了解大家对它的看法。 https://unfoldlink.com/    提交人    /u/Gooner49ers   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e9ej11/a_web_app_to_display_shared_link_previews_across/</guid>
-      <pubDate>Mon, 22 Jul 2024 13:38:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
