@@ -4,111 +4,111 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Mon, 22 Jul 2024 12:26:33 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jul 2024 15:15:08 GMT</lastBuildDate>
     <item>
-      <title>地球</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e9cwt2/globe/</link>
-      <description><![CDATA[      在观看 josh youtube 视频后，我刚刚创建了我的第一个 webapp...Globe 是关于世界各国天气模式和货币体系的详细见解🌍。 我希望听到您对该网站的反馈，如果您想尝试一下，请访问该网站的链接 - https://globe-2.vercel.app/ https://preview.redd.it/1ilubm3xb2ed1.png?width=1914&amp;format=png&amp;auto=webp&amp;s=2dd2f910f1732da275271049f1dacb7feefda0e0 📣向 u/josh 致敬（真实一）来实现这一目标。    提交人    /u/Due_Magazine_3555   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e9cwt2/globe/</guid>
-      <pubDate>Mon, 22 Jul 2024 12:21:16 GMT</pubDate>
+      <title>[minicarpilot.com] 更新：支持 iPhone；添加声音；更大的驾驶空间</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e9ghdc/minicarpilotcom_updates_iphone_support_sound/</link>
+      <description><![CDATA[        提交人    /u/m0ntanoid   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e9ghdc/minicarpilotcom_updates_iphone_support_sound/</guid>
+      <pubDate>Mon, 22 Jul 2024 15:02:26 GMT</pubDate>
     </item>
     <item>
-      <title>我如何构建 jam.dev 和 canny.io 的替代工具</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e9ctlj/how_i_built_an_alternative_tool_to_jamdev_and/</link>
-      <description><![CDATA[      大家好！这是我在这里的第一篇帖子，我想分享一下我对用户和 QA 的 Bug 报告感到沮丧，从而导致创建 Logaflow。 https://i.redd.it/979a2jcca2ed1.gif 问题 作为开发人员，您可能遇到过这种情况：客户报告了一个 Bug，而您得到的只是一个简短的标题，也许还有 Jira 板上的屏幕截图。当您试图用最少的信息找出问题所在时，您的耐心就会受到考验。 通常，您最终会：  拿起优先卡片。 尝试复制问题。 然后才开始着手解决方案。  这个过程可能令人沮丧，特别是当问题不易复制时。有时，这是由于用户错误而不是真正的错误造成的。 另一种常见的情况是，您的 QA 团队测试新功能，发现大量问题并为您创建卡片。但是，他们经常忘记描述如何重现问题。因此，当您尝试修复错误时，它不会为您发生。 我厌倦了必须与 QA 和用户开会以真正了解他们发生了什么。因此，我开始寻找可以简化此过程的解决方案。 https://i.redd.it/cfwa5n1ha2ed1.gif 半解决方案 我发现了 Jam.dev，它可以记录步骤、控制台日志、网络请求和用户环境详细信息。但是，作为 Chrome 扩展程序，它的局限性使其在不同浏览器和移动设备上的效率较低。 对 Jam.dev 不满意，我决定创建自己的解决方案。但首先，我需要验证它是否值得我花时间。我创建了一个包含三个问题的 Google 表单，并在几个编程和 QA 小组中分享了它。 反响非常令人鼓舞。 大多数受访者都对这个想法感到兴奋，这验证了我的概念并提供了初始用户。 https://i.redd.it/ji3vmtsua2ed1.gif 开始工作，我会做的 在一切都得到验证后，是时候深入研究了！我首先设置数据库，然后选择后端语言、前端技术、库等。这个过程值得单独详细发布，所以我会留到以后再说。 经过两个月的编码，Logaflow 诞生了。“Loga”来自 log，而“flow”来自来自流程。 Logaflow 成为一种反馈管理工具，可将每个反馈提交与关键信息关联起来，例如：  提交前一分钟的控制台日志和网络请求。 即时重播用户的最后操作。 环境详细信息（浏览器，操作系统，屏幕尺寸）。 收集除错误之外的反馈以帮助产品发展。 用于自动化的 Webhook 集成。 用于跟踪反馈状态的看板。  所有这些都无需扩展！ 该小部件可以添加到任何项目，无论是SPA还是SSR。 我总结了 Logaflow 之旅，但一路上有很多挑战。 现在，您不必再忍受这种压力了。向您的团队展示Logaflow，我相信他们和您的用户都会喜欢它！    提交人    /u/codeantunes   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e9ctlj/how_i_built_an_alternative_tool_to_jamdev_and/</guid>
-      <pubDate>Mon, 22 Jul 2024 12:16:39 GMT</pubDate>
+      <title>我构建了一个 MVP，用人工智能取代语言导师</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e9g7xf/i_built_an_mvp_to_replace_language_tutors_with_ai/</link>
+      <description><![CDATA[我最近为一个项目开发了一个 MVP，该项目旨在用人工智能取代语言导师，或者至少用真正的导师来补充课程。这个项目叫做 AITalkTutor。 AITalkTutor 目前提供 45 分钟的人工智能导师口语课。你可以谈论任何你想谈论的话题，甚至可以进行模拟面试。 AI 导师会对每个答案提供完整的反馈，并在课程结束时进行全面复习和布置家庭作业。 MVP 很简单，在 8 天内开发完成，由 GPT-4o-mini、AssemblyAI 和 OpenAI TextToSpeech 提供支持。 我的愿景是创建一个完整的平台，用于使用 AI 学习说和听，包括：  与 AI 导师 (MVP) 进行互动口语课程 词汇模块（进行中） 使用 AITutor 观看 YouTube 视频（进行中）  我很想听听你对这个想法和定价的看法。目前，45 分钟的课程费用为 1 美元，但如果我可以在本地托管模型，我正在考虑将来使其更便宜。目前最昂贵的部分是 TTS 模型。 链接：https://aitalktutor.com 期待您的反馈！    提交人    /u/avshel   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e9g7xf/i_built_an_mvp_to_replace_language_tutors_with_ai/</guid>
+      <pubDate>Mon, 22 Jul 2024 14:51:28 GMT</pubDate>
     </item>
     <item>
-      <title>我创建了 WannaGift：无需注册即可创建愿望清单——免费、快速、简单！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e9cg8b/i_built_wannagift_create_wishlists_without/</link>
-      <description><![CDATA[        由    /u/thiagosf9 提交   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e9cg8b/i_built_wannagift_create_wishlists_without/</guid>
-      <pubDate>Mon, 22 Jul 2024 11:58:23 GMT</pubDate>
+      <title>众筹平台</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e9fyt7/crowdfunding_platforms/</link>
+      <description><![CDATA[我建立了一个 SaaS，并且正在获得关注，但我的跑道很短。我正在寻找替代方案来筹集资金以扩大项目规模。有人知道条件好的众筹平台吗？    提交人    /u/Mother-Character3359   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e9fyt7/crowdfunding_platforms/</guid>
+      <pubDate>Mon, 22 Jul 2024 14:40:48 GMT</pubDate>
     </item>
     <item>
-      <title>推出 JustShow 的 Mac 应用程序</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e9c3gk/launched_mac_app_for_justshow/</link>
-      <description><![CDATA[最近为 JustShow 推出了 Mac 录像机应用！您可以快速录制屏幕 + 摄像头、光标平滑等。更多信息请见此处 - https://www.justshow.app/v/669cc895b8aea62aeea53090    提交人    /u/pskd73   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e9c3gk/launched_mac_app_for_justshow/</guid>
-      <pubDate>Mon, 22 Jul 2024 11:39:38 GMT</pubDate>
+      <title>作为一名科技创始人，我可以处理任何事情。除了这个</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e9fxks/as_a_tech_founder_i_could_handle_anything_except/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e9fxks/as_a_tech_founder_i_could_handle_anything_except/</guid>
+      <pubDate>Mon, 22 Jul 2024 14:39:21 GMT</pubDate>
     </item>
     <item>
-      <title>https://moremrr.net</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e9c312/httpsmoremrrnet/</link>
-      <description><![CDATA[       [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e9c312/httpsmoremrrnet/</guid>
-      <pubDate>Mon, 22 Jul 2024 11:38:58 GMT</pubDate>
+      <title>我为妻子的儿童书籍项目制作了一个一键字体配对生成器...但它几乎没有任何功能，因为我是一个懒惰的丈夫。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e9fwu7/i_made_a_oneclick_font_pairing_generator_for_my/</link>
+      <description><![CDATA[      https://preview.redd.it/1w1wruyi03ed1.png?width=1411&amp;format=png&amp;auto=webp&amp;s=e3a84fa4a473f673e17494633d861384557492aa 只是想要一些超级简单易用的东西……同时过滤出最基本的美学字体搭配，两者从设计和排版的角度来看。所以... 这里没有花哨的东西（实际上只有一个按钮）。 但我把它贴在我的网站上。并在 Product Hunt 上混搭。这是一个有趣的副项目，虽然它持续了... 链接：https://theendearingdesigner.com/font-pairing-generator/    提交人    /u/TheEndearingDesigner   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e9fwu7/i_made_a_oneclick_font_pairing_generator_for_my/</guid>
+      <pubDate>Mon, 22 Jul 2024 14:38:26 GMT</pubDate>
     </item>
     <item>
-      <title>我设计了一个以太空为主题的新闻通讯登陆页面！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e9bv7q/i_designed_a_space_themed_newsletter_landing_page/</link>
-      <description><![CDATA[大家好， 我很高兴地宣布，我即将推出一份游戏简报！简报将收集来自互联网的最佳资源，并每周或每天（仍在决定）直接发送到您的收件箱。 我为其创建了一个登录页面：AFK Alerts。 这项工作仍在进行中，如果您有任何反馈，我将不胜感激。如果您有兴趣，请随时注册！ 谢谢！    提交人    /u/tschnitzel99   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e9bv7q/i_designed_a_space_themed_newsletter_landing_page/</guid>
-      <pubDate>Mon, 22 Jul 2024 11:26:32 GMT</pubDate>
+      <title>顶级 SaaS 公司有何不同以及如何应用他们的策略</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e9fip0/what_top_saas_companies_do_differently_and_how/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e9fip0/what_top_saas_companies_do_differently_and_how/</guid>
+      <pubDate>Mon, 22 Jul 2024 14:21:36 GMT</pubDate>
     </item>
     <item>
-      <title>我创建了一个员工保留工具</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e9bmqb/i_created_a_tool_for_employee_retention/</link>
-      <description><![CDATA[各位，我创建了一个用于员工参与和保留的 AI 工具。我的目标是将其出售给公司，降低员工流动率和流失率。重点是衡量员工的满意度，并预测可能的提前离职或未经通知的离职。它以 ChatBot 的形式出现，每月在用户桌面上出现几次，并向用户询问几个问题，这些问题随后由我们的 AI 算法进行分析。您认为这个工具可以出售给公司吗？谢谢    提交人    /u/kpop0099   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e9bmqb/i_created_a_tool_for_employee_retention/</guid>
-      <pubDate>Mon, 22 Jul 2024 11:12:53 GMT</pubDate>
+      <title>在 Fiverr 和 Upwork 上努力寻找自由职业 Web 开发工作 – 需要建议！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e9fin6/struggling_to_find_freelance_web_development_jobs/</link>
+      <description><![CDATA[大家好， 我向社区寻求一些建议。我目前是一名软件工程师，但我一直在尝试在 Fiverr 和 Upwork 上寻找自由职业网页开发工作来补充收入。然而，我发现这非常具有挑战性。 在 Fiverr 上，尽管我的全栈网页开发服务价格非常有竞争力（基本版 50 美元，标准版 100 美元，高级版 250 美元），但我还是很难引起注意。这个平台竞争激烈，我遇到了许多骗局，这让这个过程变得更加困难。 另一方面，Upwork 需要钱来竞标工作。由于我目前没有任何资金可以预先投资，这对我来说是一个重大障碍。 我正在寻找其他方式或平台来寻找自由职业网页开发工作，而不必处理这些问题。有人对其他平台或策略有什么建议吗？任何关于如何在这个竞争激烈的市场中脱颖而出的建议都将不胜感激。 谢谢！    提交人    /u/Charming_Show_5633   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e9fin6/struggling_to_find_freelance_web_development_jobs/</guid>
+      <pubDate>Mon, 22 Jul 2024 14:21:33 GMT</pubDate>
     </item>
     <item>
-      <title>创建一个可以随时随地交谈的人工智能治疗师</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e9blmh/creating_an_ai_therapist_that_you_can_talk_to/</link>
-      <description><![CDATA[大家好，Reddit 社区， 我想分享一下我最近一直热衷于做的事情。我开发了一款 AI 治疗师，这是一种创新的解决方案，旨在让每个人都能轻松获得情感支持。 它有什么用？ 想象一下，只要打个电话，随时随地都有治疗师在场。这款 AI 治疗师不只是用于交谈；它旨在通过您的声音了解您的情绪并提供个性化支持。无论您是在应对压力、寻求建议还是需要友好的倾听，它都会倾听您并以同理心与您交流。 为什么这很重要？ 传统疗法可能成本高昂，许多人无法获得。认识到这一点，我创建了这个 AI 治疗师来打破障碍，确保每个人都能获得应有的情感支持。 隐私和可访问性 隐私至关重要。不会共享任何数据，不会保留任何语音记录，每次会话后都会删除所有内容。您的机密性和情感健康是优先考虑的。 加入 Beta 阶段 目前，AI 治疗师处于 Beta 阶段，会根据反馈不断发展。我很想听听您对最有益的功能的看法。无论是增强情感理解、添加新形式的支持还是改进其响应能力，您的意见都会影响它的发展。 让我们让每个人都能更方便地接受治疗并获得更多支持。 如果您有兴趣尝试或有疑问，请随时联系我们！我们可以共同对心理健康护理产生积极影响。 请测试一下🚀 https://sakoon-tau.vercel.app    提交人    /u/Repulsive-Bedroom883   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e9blmh/creating_an_ai_therapist_that_you_can_talk_to/</guid>
-      <pubDate>Mon, 22 Jul 2024 11:11:03 GMT</pubDate>
+      <title>在 Fiverr 和 Upwork 上努力寻找自由职业 Web 开发工作 – 需要建议！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e9fhoa/struggling_to_find_freelance_web_development_jobs/</link>
+      <description><![CDATA[大家好， 我向社区寻求一些建议。我目前是一名软件工程师，但我一直在尝试在 Fiverr 和 Upwork 上寻找自由职业网页开发工作来补充收入。然而，我发现这非常具有挑战性。 在 Fiverr 上，尽管我的全栈网页开发服务价格非常有竞争力（基本版 50 美元，标准版 100 美元，高级版 250 美元），但我还是很难引起注意。这个平台竞争激烈，我遇到了许多骗局，这让这个过程变得更加困难。 另一方面，Upwork 需要钱来竞标工作。由于我目前没有任何资金可以预先投资，这对我来说是一个重大障碍。 我正在寻找其他方式或平台来寻找自由职业网页开发工作，而不必处理这些问题。有人对其他平台或策略有什么建议吗？任何关于如何在这个竞争激烈的市场中脱颖而出的建议都将不胜感激。 谢谢！    提交人    /u/Charming_Show_5633   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e9fhoa/struggling_to_find_freelance_web_development_jobs/</guid>
+      <pubDate>Mon, 22 Jul 2024 14:20:24 GMT</pubDate>
     </item>
     <item>
-      <title>我在 ProductHunt 上推荐的第二个产品 - 我使用 PH 的经验</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e9bczi/my_second_featured_product_on_producthunt_my/</link>
-      <description><![CDATA[我可能已经弄清楚了 ProductHunt 的推荐要求：  首次启动的新帐户 知名品牌 拥有许多徽章和连胜的用户 单个产品中有 4-5 个制造商（某些帐户可以是新帐户） 与趋势保持一致的产品  最后一个让您的产品始终进入前 10 名的终极方法： 购买点赞服务和评论机器人。（开个玩笑，别这么做！） ProductHunt 绝不是一种低劣的产品营销方式，但如果我错了，请纠正我，从我对多种产品的看法来看，情况如下： 产品获得数百张选票在发布后的几分钟内，即使创始人或产品页面在任何其他平台上几乎没有关注者，并且评论部分通常包含可疑的机器人评论。 即使这些产品在创建 producthunt 页面或应用程序方面没有付出任何努力，他们也会利用这些服务并在被推荐时购买选票，厚颜无耻地推销投票，只是为了在主页上用那个小徽章获得某种认可。 这是我的两分钱。一些创作者和应用程序确实表现出色，并付出了努力来获得许多赞成票。 如果您的产品没有在 ProductHunt 上展示，请不要失望：我 4 个月前开始发布应用程序。我已经发布了 4 个应用程序，但只有两个在 PH 上获得推荐（其中一个在可怕的 PH 发布后被收购并从关联公司获得了数百名用户）。 除非您发布的产品对 SaaS 所有者有帮助或是一种通用解决方案，否则最好与有影响力的人或关联公司合作营销您的产品。我真的只收到了（少数忠实用户）来自 ProductHunt 推广者的 LinkedIn 请求和等待我收件箱中的那些点赞服务的 Twitter 请求。 让我知道你们对这种情况的看法。 Chartfast.io 现已在 PH 上推出！ProductHunt 上的 Chartfast    提交人    /u/Rough-Cupcake-5358   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e9bczi/my_second_featured_product_on_producthunt_my/</guid>
-      <pubDate>Mon, 22 Jul 2024 10:57:10 GMT</pubDate>
+      <title>AI 生成 1403 幅可爱的小手绘插画</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e9fd8p/ai_generated_1403_cute_tiny_hand_drawn/</link>
+      <description><![CDATA[        由    /u/mddanishyusuf  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e9fd8p/ai_generated_1403_cute_tiny_hand_drawn/</guid>
+      <pubDate>Mon, 22 Jul 2024 14:15:09 GMT</pubDate>
     </item>
     <item>
-      <title>您想创建 SaaS 吗？还是 AI 工具？还是 Web 应用程序？方法如下：</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e9b24y/do_you_want_to_create_saas_or_ai_tool_or_a_web/</link>
-      <description><![CDATA[      大约 4 个月前，我启动了一个我认为对你有益的附带项目：旨在帮助你创建 SaaS、AI 工具的样板，或 Web 应用程序。 https://preview.redd.it/ow4p7gs9r1ed1.png?width=1358&amp;format=png&amp;auto=webp&amp;s=dfa6b4ab087e050e2dd0a631116c163bbc56a531 我特别相信，这对于从事 9-5 工作的开发人员或希望创业的企业家将大有裨益。 人们往往对样板文件存在偏见，我明白为什么！但是，在形成意见之前，我鼓励您详细查看我的项目的文档。 https://preview.redd.it/xaam133xr1ed1.png?width=137&amp;format=png&amp;auto=webp&amp;s=c4a4189d5c9d8d0abd04c61db49b07a81bd5c291 对用户进行身份验证、使用 Stripe 或 Lemon Squeezy 付款的 Next Js 样板与 supabase 集成、集成 AI 工具以及发送电子邮件快速发送、API 设置、客户支持等，Next Starter 为您提供了快速启动它们的基本代码。 此外，我们还为您准备了一份特殊的营销指南，以加快您产品的营销过程。本指南包含有用的网站，用于反向链接、启动目录和访客博客文章。 如果您有任何反馈，我很高兴听到它，因为它将帮助我们改进。    提交人    /u/No_Lavishness_7285   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e9b24y/do_you_want_to_create_saas_or_ai_tool_or_a_web/</guid>
-      <pubDate>Mon, 22 Jul 2024 10:38:33 GMT</pubDate>
+      <title>我根据亚历克斯·霍莫齐 (Alex Hormozi) 的 1 亿美元报价书构建了一个简单的“大满贯报价”工具，我是否违反了版权法，还是应该发布它？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e9faau/i_built_a_simple_grand_slam_offer_tool_based_on/</link>
+      <description><![CDATA[        提交人    /u/notomarsol   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e9faau/i_built_a_simple_grand_slam_offer_tool_based_on/</guid>
+      <pubDate>Mon, 22 Jul 2024 14:11:34 GMT</pubDate>
     </item>
     <item>
-      <title>重新设计登陆页面后，​​演示点击量增加了 177%</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e9b0pp/landing_page_redesign_increased_my_demo_clicks_by/</link>
-      <description><![CDATA[大家好，两周前我发帖解释了为什么我的无代码网站构建器的登陆页面没有获得任何转化，结果遭到了严厉的批评 这里有一些引言：“该设计看起来像是在 2005 年制作的”，“通常我会列出登陆页面的错误之处，但在这种情况下似乎很难，因为我甚至不知道从哪里开始。 “ 它一直这样下去，以至于我不得不从头开始完全重新设计我的登陆页面。 这个残酷的事实确实帮助我提高了我的演示点击次数，仍然没有用户或客户，但我会继续改进，直到我到达那里 以下是数字： 上一个登陆页面：441 位访问者，29 次演示点击 - 6.5％ 的转化 新登陆页面 125 位访问者，26 次演示点击 - 17.6％ 的转化 我使用自己的产品设计和发布我的登陆页面lanndi.com 对于那些好奇的人来说，上一个登陆页面的图片https://imgur.com/a/ssv6yni   由    /u/egomes123  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e9b0pp/landing_page_redesign_increased_my_demo_clicks_by/</guid>
-      <pubDate>Mon, 22 Jul 2024 10:35:56 GMT</pubDate>
+      <title>Starship - 使用嵌套标签管理你的 Github 星标存储库</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e9esnd/starship_managing_your_github_starred/</link>
+      <description><![CDATA[      嗨，GitHub 粉丝们！🌟 难以保持已加星标的仓库整洁有序？查看 Starship App - 您以真正合理的方式组织 GitHub 星标的新工具。 https://apps.apple.com/us/app/starship-your-stars-on-github/id1530665887 如果您像我一样拥有大量已加星标的仓库，那么找到所需的仓库有时就像大海捞针。这时，Starship App 就可以派上用场了！ 🚀 它专为 iOS 和 macOS 设计，通过一些非常酷的功能让您的生活更轻松：  嵌套标记 - 使用自定义类别甚至子类别组织您的存储库。就像为您的数字工具准备抽屉一样！ 跨设备同步 - 开始在 Mac 上标记，然后在 iPhone 上从上次中断的地方继续。天衣无缝，对吧？  开始将您混乱的星星集合变成一个井井有条的图书馆。 📚 立即下载适用于 iOS 和 macOS 的 Starship App，充分利用您的 GitHub！让我们轻松管理我们的数字空间。 💨 祝大家编码和组织愉快！ 😊👩‍💻👨‸💻 https://preview.redd.it/o9lt7orur2ed1.png?width=2560&amp;format=png&amp;auto=webp&amp;s=029c7ddc3fbb974ea3f0d1d922b0b3b7af79c286    提交人    /u/mars_xc_f   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e9esnd/starship_managing_your_github_starred/</guid>
+      <pubDate>Mon, 22 Jul 2024 13:50:24 GMT</pubDate>
     </item>
     <item>
-      <title>我继续为狗主人开发奇怪的应用</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e99wbk/went_forward_with_my_weird_app_idea_for_dog_owners/</link>
-      <description><![CDATA[      26 岁让我对年龄产生了强烈的意识。这可以称为“青年危机”。您可能听说过人类年龄与狗年龄之比为 1 比 7，对吧？我的狗今年 3 岁了。他的生日对我来说很重要。然后，我意识到他今年会从 21 岁变成 28 岁。我想知道我们的年龄何时会在 26.8 岁左右相交。 为此，我不得不进行一些计算。这不是什么火箭科学，但我实际上有一个数学公式和一些代码来进行精确计算。以下是最初用笔和纸创建的公式。 const ageDifference = dogDate - humanDate; const sameAgeDate = new Date(humanDate.getTime() + (7 * ageDifference) / 6); const age = (sameAgeDate - humanDate) / (365.25 * 24 * 60 * 60 * 1000)  花了大约 1 小时的时间来学习这个。我认为它对其他人来说可能和我一样有趣。也许没那么有趣 :D 我花了大约五个小时来创建这个小应用程序。它完全免费。如果你觉得它很可爱，请表达一些爱意并传播出去 :) https://www.nevy.me/tiny/double-pawty    提交人    /u/n0acar   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e99wbk/went_forward_with_my_weird_app_idea_for_dog_owners/</guid>
-      <pubDate>Mon, 22 Jul 2024 09:23:08 GMT</pubDate>
+      <title>非开发人员的技术 101</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e9er1t/tech_101_for_non_developers/</link>
+      <description><![CDATA[        提交人    /u/wisechacha   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e9er1t/tech_101_for_non_developers/</guid>
+      <pubDate>Mon, 22 Jul 2024 13:48:24 GMT</pubDate>
     </item>
     <item>
-      <title>免费设计服务</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e99k42/free_design_services/</link>
-      <description><![CDATA[我想免费为 3 个人提供我的设计服务。我正在寻找有一些产品创意（移动应用程序或 Web 应用程序）但在设计或执行方面遇到困难的人。我会帮助您将想法从脑海中赶出来，并通过设计产品的 MVP 开始着手实现它。 在您的产品创意下方发表评论，我将选择参与度最高的前 3 名    提交人    /u/Laylow246   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e99k42/free_design_services/</guid>
-      <pubDate>Mon, 22 Jul 2024 09:00:00 GMT</pubDate>
+      <title>高效本地化您的 iOS 应用和 App Store Connect 元数据</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e9en5i/localizing_your_ios_app_and_app_store_connect/</link>
+      <description><![CDATA[      大家好！🍏⌨️ 我很高兴与大家分享我最新的创作 - LocalizeX - 一款 macOS 应用，旨在完善 iOS 应用和 App Store Connect 元数据的本地化流程。 https://localizex.app/ 50% 折扣代码： LXREDDIT08，有效期至 9 月 1 日 LocalizeX 的主要功能：  人工智能翻译：利用 OpenAI，LocalizeX 可以提供准确的翻译，甚至可以优化上下文最差的内容。 元数据和格式完整性：我们在翻译时保持代码的原始格式和特殊字符不变，这对于跨语言的功能至关重要。 增强的 App Store 可见性：有效地本地化 App Store 的元数据，确保您的应用脱颖而出并在全球范围内轻松发现。  即将推出：  更多翻译服务：计划添加 DeepL、Claude 等。 扩展格式支持：扩展到 JSON、Excel、Android 项目等。 App Store Connect 的关键字生成：引入 AI 驱动的关键字优化以提高可发现性。  很高兴看到 LocalizeX 如何简化您的开发？有任何问题或想讨论您的本地化需求？在下面发表评论！🎉 附言使用 LocalizeX 将您应用的全球影响力提升到新的水平！🌍🚀 https://preview.redd.it/kg7zzlnkq2ed1.jpg?width=3422&amp;format=pjpg&amp;auto=webp&amp;s=e8ab100e04904e20ff8e4852adad218ae4a3131f    提交人    /u/mars_xc_f   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e9en5i/localizing_your_ios_app_and_app_store_connect/</guid>
+      <pubDate>Mon, 22 Jul 2024 13:43:36 GMT</pubDate>
     </item>
     <item>
-      <title>月收入超过 10,000 美元，并在 Product Hunt 上排名第二。我是如何做到的？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e997zm/monthly_revenue_surpassed_10k_and_ranked_second/</link>
-      <description><![CDATA[      大家好， 我是Gemoo的创始人Morgan，FocuSee是Gemoo旗下的一个子产品。 FocuSee产品的链接为https://gemoo.com/focusee/?utm_source=reddit. https://preview.redd.it/u9i0iz7471ed1.png?width=1275&amp;format=png&amp;auto=webp&amp;s=9d5e212bf1f29347b4d42a48baf3b85c10ac9458 目前月收入已超过1万美元，在Product Hunt上排名第二。在这里我将与大家分享我是如何实现这一目标的。 https://preview.redd.it/h1mwexd571ed1.png?width=475&amp;format=png&amp;auto=webp&amp;s=0923e7242ad01d6394776b4e76f43667c5de8b73 首先，让我与大家分享一下我是如何在 Product Hunt 上获得结果的。 它在 PH 当天排名第二，获得了 844 个赞， FS 产品页面流量为 1,737，点赞 737 次，销售 26 笔，销售额为 $1,367.57。 https://preview.redd.it/69pyw7fh71ed1.png?width=807&amp;format=png&amp;auto=webp&amp;s=08337c4b685c5dd12db315f437b499d157724160 ProductHunt 发布策略 首先，发布一个ProductHunt Discussion。 这也是从其他Indie Maker的发布策略中学到的。 不要马上发布产品，先在ProductHunt上活跃起来。 ProductHunt Discussion是一个大家可以自由讨论的社区，可以更轻松一些。 随机的，我就发起了一个讨论。 其实很多在ProductHunt上活跃的朋友，也有自己的产品要推广，所以只要你和别人互动，他们就愿意支持你。 多和自己产品相关的帖子互动，互动的时候可以介绍一下自己的产品，如果有人评论，他也发布了产品，那你可以为他的发布投票，投给他之后，等我发布我的产品的时候，让他也为我投票。这个互动不就成立了吗！ https://preview.redd.it/3aje0nti71ed1.png?width=835&amp;format=png&amp;auto=webp&amp;s=830916931af23be6cf68275a32216843cc8ff816 ProductHunt 发布时间（关键） PreviewHunt 中我觉得极其有用的，就是左上角的发布时间提醒！ 它指的就是一个至关重要的点——在旧金山时间00:00可以获得最大的曝光量。 最右端有当地时间的显示。 https://preview.redd.it/3d82rlpj71ed1.png?width=678&amp;format=png&amp;auto=webp&amp;s=69b0eae2c7f2b75f47e70b593e77e65259c7c3a1 今天的分享就到这里结束了。真心希望对大家有帮助，如果还有想了解更多的，欢迎在评论区和我互动，我会尽量尽快分享更多。    submitted by    /u/morgankung   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e997zm/monthly_revenue_surpassed_10k_and_ranked_second/</guid>
-      <pubDate>Mon, 22 Jul 2024 08:35:55 GMT</pubDate>
+      <title>推出：GoLrn——您的信息安全和产品管理基础中心！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e9eks8/launch_golrn_your_hub_for_information_security/</link>
+      <description><![CDATA[大家好， 我很高兴地宣布推出我的新学习网站 GoLrn，这是一个致力于帮助大学生和早期职业专业人士深入了解信息安全和产品管理世界的新平台。 GoLrn 提供的内容： 深度博客：我们的文章涵盖了信息安全的广泛主题，从基础到中级概念。 产品管理资源：我们很快将扩展以包括全面的指南和对产品管理的见解。 职业指导：帮助您在信息安全领域取得面试成功并获得职位的技巧和策略。 我的使命是创建一个支持性和信息丰富的社区，学习者可以在其中找到成功所需的资源。无论您是刚刚起步还是希望扩展知识，GoLrn 都能满足您的需求。 查看我们最新的文章/博客，让我们知道您的想法！随着我们不断成长和改进，我们非常感谢您的反馈和建议。 访问 GoLearn，立即开始您的学习之旅！ 期待您的想法和评论。    提交人    /u/manstartitoff   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e9eks8/launch_golrn_your_hub_for_information_security/</guid>
+      <pubDate>Mon, 22 Jul 2024 13:40:39 GMT</pubDate>
     </item>
     <item>
-      <title>我工作了 18 个月的可用计费系统源</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e993hk/a_source_available_billing_system_ive_worked_on/</link>
-      <description><![CDATA[  由    /u/ButWhatIfItsNotTrue  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e993hk/a_source_available_billing_system_ive_worked_on/</guid>
-      <pubDate>Mon, 22 Jul 2024 08:26:48 GMT</pubDate>
+      <title>一款用于跨平台显示共享链接预览的 Web 应用</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e9ej11/a_web_app_to_display_shared_link_previews_across/</link>
+      <description><![CDATA[当我分享我的网站时，我讨厌它，链接预览没有图片或意外的标题和描述。 我很好奇，想知道你们是否都花了一些时间确保标题、描述和图片在发布之前看起来不错？ 我正在做一个有趣的小项目，它可以帮助您查看您的博客内容在分享时的样子。 非常感谢您尝试它，看看它是否对您有价值（以及使其更好的想法）。 希望了解大家对它的看法。 https://unfoldlink.com/    提交人    /u/Gooner49ers   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e9ej11/a_web_app_to_display_shared_link_previews_across/</guid>
+      <pubDate>Mon, 22 Jul 2024 13:38:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
