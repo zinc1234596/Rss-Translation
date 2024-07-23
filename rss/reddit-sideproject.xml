@@ -4,111 +4,111 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Tue, 23 Jul 2024 18:18:03 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jul 2024 21:15:30 GMT</lastBuildDate>
     <item>
-      <title>比较和匹配不同商店/供应商的产品名称</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1eae9mh/comparing_and_matching_product_names_from/</link>
-      <description><![CDATA[您好！我创建了一个应用程序，旨在帮助您比较来自不同供应商的各种价格表，并按产品名称列出主产品列表。供应商价格表通常缺乏通用的唯一产品密钥，需要手动与您自己的产品列表进行比较。 该应用程序允许您上传最多三个 XLSX 文件，每个文件包含 ID、产品名称和价格列。然后，您将一个文件指定为主文件，然后单击“处理”。输出是一个包含匹配价格表的单个文件，包括相似系数和相似度等级，因此您可以轻松保留所需的行（前 1 个匹配或前 N 个匹配的行） 这是一个 MVP，我将非常感谢用户的任何反馈。   http://5-180-182-162.cloud-xip.com:8080/matcher-1/home    提交人    /u/HopefulBread5119   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1eae9mh/comparing_and_matching_product_names_from/</guid>
-      <pubDate>Tue, 23 Jul 2024 17:51:50 GMT</pubDate>
+      <title>我制作了一个工具，可以挖掘 subreddits 中人们真正想要的产品和内容创意</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1eajbw6/i_made_a_tool_that_mines_subreddits_for_product/</link>
+      <description><![CDATA[我创建了 painpointy.com 来帮助在 subreddits 上找到人们真正在寻找的产品和内容创意。 您可以输入任何搜索词，它会自动从中找到相关的 subreddits 和帖子。 目前，有 4 个部分：  痛点 - 讨论与搜索主题相关的痛点的帖子 问题 - 在 subreddits 中提出的问题 内容创意 - 基于相关帖子的内容创意，包括关键字建议 模式 - 在帖子中观察到的常见模式  目前还处于早期阶段，所以我很想听到您的反馈！    由    /u/sNosir  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1eajbw6/i_made_a_tool_that_mines_subreddits_for_product/</guid>
+      <pubDate>Tue, 23 Jul 2024 21:15:08 GMT</pubDate>
     </item>
     <item>
-      <title>用于生成电子邮件序列以吸引新用户加入您的项目的 AI 工具</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1eadwuz/ai_tool_for_generating_email_sequences_to_onboard/</link>
-      <description><![CDATA[我希望此工具能成为尚未开展电子邮件活动但希望吸引新用户使用其产品并支付高级计划费用的项目的一个良好起点。 https://nondumbemails.vercel.app/onboarding-email-sequence-generator 我很乐意听到您对生成的电子邮件的反馈以及我还应该添加什么。    提交人    /u/kiv1n   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1eadwuz/ai_tool_for_generating_email_sequences_to_onboard/</guid>
-      <pubDate>Tue, 23 Jul 2024 17:37:30 GMT</pubDate>
+      <title>使用 LLM 的 chatgpt 包装器副项目不好吗？您怎么看？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1eaizb9/are_chatgpt_wrappers_side_project_using_a_llm_bad/</link>
+      <description><![CDATA[  由    /u/Wheatstore  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1eaizb9/are_chatgpt_wrappers_side_project_using_a_llm_bad/</guid>
+      <pubDate>Tue, 23 Jul 2024 21:01:22 GMT</pubDate>
     </item>
     <item>
-      <title>我为葡萄酒爱好者制作了一款应用程序🤓</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1eadlo0/i_made_an_app_for_wine_nerds/</link>
-      <description><![CDATA[        提交人    /u/stephenatcapture   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1eadlo0/i_made_an_app_for_wine_nerds/</guid>
-      <pubDate>Tue, 23 Jul 2024 17:24:47 GMT</pubDate>
+      <title>想要加快工作流程？使用 Runbear 将您的自定义 GPT 集成到 Slack、Microsoft Teams、Discord 等！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1eaiubu/want_to_speed_up_your_workflow_use_runbear_to/</link>
+      <description><![CDATA[       由    /u/runbearll  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1eaiubu/want_to_speed_up_your_workflow_use_runbear_to/</guid>
+      <pubDate>Tue, 23 Jul 2024 20:55:49 GMT</pubDate>
     </item>
     <item>
-      <title>我要停止使用 Saas，原因如下</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1eadfsz/im_stoping_my_saas_heres_why/</link>
-      <description><![CDATA[当 ChatGPT Free 还是一个没有任何专业功能的基础版本时，我们必须为每个任务编写有效的提示才能获得良好的结果。这很耗时，尤其是对于重复性任务，需要我们一遍又一遍地输入提示。为了解决这个问题，我开发了一个包装器应用程序，它利用提示模板的强大功能在移动设备上自动执行任务。 gprompt - https://gprompt.vercel.app 它有助于保存提示模板，将其应用于内容，将其输入 ChatGPT，并自动执行整个过程。 仅使用模板，我将这个单个应用程序用作自定义工作流程：  翻译提示：更换翻译 语法提示：更换词典 回复提示：生成社交帖子评论  最好的部分是什么？它是免费的。 但是，随着现在更高级的 GPT 模型可以免费使用，对模板的需求正在慢慢减少。它仍然是获取 Twitter 和 LinkedIn 帖子以生成评论和回复的最佳应用程序。但我已经失去了进一步构建它的兴趣。 如果有人有兴趣购买它并继续开发它，我很乐意聊天。 我不希望它有一个毫无意义的结局。 DM 已打开。 随时问任何问题。    提交人    /u/vigneshvp   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1eadfsz/im_stoping_my_saas_heres_why/</guid>
-      <pubDate>Tue, 23 Jul 2024 17:18:14 GMT</pubDate>
+      <title>置身于丛林中与蛇搏斗</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1eain86/put_yourself_in_the_jungle_fighting_snakes/</link>
+      <description><![CDATA[  由    /u/siddiqbakr  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1eain86/put_yourself_in_the_jungle_fighting_snakes/</guid>
+      <pubDate>Tue, 23 Jul 2024 20:47:46 GMT</pubDate>
     </item>
     <item>
-      <title>乌尔姆之书</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ead1i1/book_of_urm/</link>
-      <description><![CDATA[      想与大家分享我当前的项目，希望大家能关注一下。让我来告诉大家一些信息： 《Urm 之书》是一部以广阔的幻想世界为背景的手工故事集，每周四以文本和音频格式更新。 每个故事都由一系列章节组成。一章大约有 2000 到 5000 个单词。章节每周四发布一次。 《Urm 之书》于 2024 年 7 月 4 日推出。第一个故事：《Piecora 01 的故事——翡翠洞穴》共 18 章，于 10 月 31 日结束。 《Urm 之书》在以下平台上：  文本可在 Royal Road 上免费获得，每周四更新。 音频可在 YouTube 上免费获得，每周四更新。 全文记录和音频格式均可在 Patreon 上供会员使用。如果您想支持此项目，请考虑成为会员，以获得额外福利，例如提前阅读章节（每周四也提供）。 在 Bluesky 上关注 https://bsky.app/profile/bookofurm.bsky.social  以下是我对小说写作的一般看法：这本选集旨在提醒我们，最引人入胜的故事是那些反映我们自己生活的故事——充满了存在的亲密戏剧、联系之美，以及复杂、常常可关联、有时又怪异的周围世界的奇迹。这本选集是那些在文字中寻求慰藉并在人类经验深处寻找冒险的人的避风港。 欢迎阅读《乌尔姆之书》及其中的所有故事。我真的希望你喜欢你所看到的，并期待你的访问。 https://preview.redd.it/9c3btuthwaed1.jpg?width=1200&amp;format=pjpg&amp;auto=webp&amp;s=c25c09e7e9733f7c1eb6264167c2f71a123aac50    提交人    /u/behnkestudio   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ead1i1/book_of_urm/</guid>
-      <pubDate>Tue, 23 Jul 2024 17:02:14 GMT</pubDate>
+      <title>我制作了一个应用程序来帮助你找到你的非处方药。（药柜）</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1eaim9y/i_made_an_application_that_helps_you_find_your/</link>
+      <description><![CDATA[      https://medicinecabinet.health/ 期待您的评论。 https://medicinecabinet.health/    提交人    /u/ImpressiveMirror874   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1eaim9y/i_made_an_application_that_helps_you_find_your/</guid>
+      <pubDate>Tue, 23 Jul 2024 20:46:40 GMT</pubDate>
     </item>
     <item>
-      <title>发现了这个有趣的副业想法</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ead0lp/found_this_interesting_side_hustle_idea/</link>
-      <description><![CDATA[      大家好 我一直在为我的时事通讯研究利基市场，我偶然发现了一个有趣的趋势：定制狗枕头。它不是很大，但引起了我的注意。 我发现的一些快速事实：  到 2031 年，整体宠物配件市场预计将达到 422 亿美元 定制狗枕头在美国每月搜索量约为 9.9K 平均价格范围似乎是 19.50 美元 - 37 美元  https://preview.redd.it/0wjefov0uaed1.png?width=1425&amp;format=png&amp;auto=webp&amp;s=35d6e417589c8bbc197723da1cdfa66675fe61e3 https://preview.redd.it/uhh9zrv0uaed1.png?width=1593&amp;format=png&amp;auto=webp&amp;s=3b292a472d3b49b4c4ea38c1ab4f266c56ca6ae2 https://preview.redd.it/fykput11uaed1.png?width=1173&amp;format=png&amp;auto=webp&amp;s=f1438df7c73debcda8c12b7cdb24403c7f2b87f2 如果有人需要一个想法🤷🏽    提交人    /u/EntrepreneurThen0187   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ead0lp/found_this_interesting_side_hustle_idea/</guid>
-      <pubDate>Tue, 23 Jul 2024 17:01:17 GMT</pubDate>
+      <title>有关我的网络生产力工具的反馈</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1eaifk1/feedback_on_my_web_productivity_tool/</link>
+      <description><![CDATA[大家好， 我是 Locked In 的创建者。 这是一款免费工具，可提高您的注意力并专注于您的日常任务和目标。通过以您选择的节奏屏蔽分散注意力的网站，您将专注于任务并提高工作效率。 我目前正在寻找有动力的人来尝试 Locked In，并希望听到您对该工具的反馈。我的目标是创建一个真正帮助您完成日常工作并提高工作效率的工具。 感谢您的关注。 https://getlockedin.tech    提交人    /u/tn88621   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1eaifk1/feedback_on_my_web_productivity_tool/</guid>
+      <pubDate>Tue, 23 Jul 2024 20:38:58 GMT</pubDate>
     </item>
     <item>
-      <title>自动化机构：一个充满希望的梦想还是一场冒险的赌博？🤔💼</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1eackk1/automation_agencies_a_promising_dream_or_a_risky/</link>
-      <description><![CDATA[自动化机构的想法听起来像是一个梦想——自动化任务、提高效率、提高利润。但在 2024 年，现实情况更加复杂。技术的快速发展不仅带来了机遇，也带来了重大风险。从维护尖端系统的高成本到寻找熟练人才的挑战，创办一家自动化机构可能并不是看上去的那张金票。你怎么看？创办一家自动化机构值得冒险吗？🤖 UKode Labs：https://ukodelabs.com/    提交人    /u/LowBenefit5124   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1eackk1/automation_agencies_a_promising_dream_or_a_risky/</guid>
-      <pubDate>Tue, 23 Jul 2024 16:43:27 GMT</pubDate>
+      <title>我正在建立一个工具空间，你可以在一个小时内将你的代码货币化</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1eahz56/im_building_a_toolspace_where_you_can_monetize/</link>
+      <description><![CDATA[        提交人    /u/sim04ful   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1eahz56/im_building_a_toolspace_where_you_can_monetize/</guid>
+      <pubDate>Tue, 23 Jul 2024 20:20:32 GMT</pubDate>
     </item>
     <item>
-      <title>迈出了这一步，最终告诉我的个人网络我们正在做的事情！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1eace08/took_the_leap_and_finally_told_my_personal/</link>
-      <description><![CDATA[我一直很担心网络中的其他人会怎么看待我们的项目。因此，我一直对我的上一个项目秘而不宣，直到被收购。 这一次，我决定不再关心别人的想法，而是加倍努力，直接要求他们支持我的帖子。 我最终获得了超过 5000 次展示（并不是病毒式传播，哈哈），一群人订阅了我们的候补名单，最终有 5 家公司注册了我们的付费私人测试版，让我们的 MRR 立刻达到了 600。 我只是想分享这个来鼓励其他那些太害怕网络中的其他人会怎么想的人！ 我联系的每个人都毫不犹豫地在帖子上表达了他们的支持。    提交人    /u/gabe_herotools   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1eace08/took_the_leap_and_finally_told_my_personal/</guid>
-      <pubDate>Tue, 23 Jul 2024 16:36:05 GMT</pubDate>
+      <title>250 多个网站可提交您的 AI 工具（免费资源）</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1eahkaa/250_websites_to_submit_your_ai_tool_free_resource/</link>
+      <description><![CDATA[       由    /u/Puzzleheaded_Can6226  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1eahkaa/250_websites_to_submit_your_ai_tool_free_resource/</guid>
+      <pubDate>Tue, 23 Jul 2024 20:04:14 GMT</pubDate>
     </item>
     <item>
-      <title>有没有发现跑步有点……无聊？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1eabnw1/ever_find_running_a_bit_boring/</link>
-      <description><![CDATA[近年来，我改变了跑步的方式，让它变得更加专注和快乐。用玩乐来代替速度。 所以，我想：为什么不帮助其他人也这样做呢？介绍 Joy Runs Joy Runs 包括每周完成新的（有趣的）跑步挑战，无论您身在何处，都可以按照自己的方式奔跑。第一个主题是“树”🌳 非常高兴看到它会把人们带到哪里。 希望您能在一周内加入我们！    提交人    /u/otherings   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1eabnw1/ever_find_running_a_bit_boring/</guid>
-      <pubDate>Tue, 23 Jul 2024 16:06:55 GMT</pubDate>
+      <title>我制作了一个谷歌地图抓取工具</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1eahk5e/i_made_a_google_maps_lead_scraper/</link>
+      <description><![CDATA[        提交人    /u/JustinFantasma   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1eahk5e/i_made_a_google_maps_lead_scraper/</guid>
+      <pubDate>Tue, 23 Jul 2024 20:04:04 GMT</pubDate>
     </item>
     <item>
-      <title>您的堆栈托管在哪里？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1eabn6d/where_do_you_host_your_stack/</link>
-      <description><![CDATA[嗨，我正在构建一个监控 Saas，我想知道您将堆栈托管在哪里以实现某些功能。 （目前，我的 Saas 监控并保护 GitHub 提交、网站访问、用户注册、密码泄露等...如果您有其他想法，请告诉我，我会在本地实现它们）。 感谢您的回复。    提交人    /u/yllaevv   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1eabn6d/where_do_you_host_your_stack/</guid>
-      <pubDate>Tue, 23 Jul 2024 16:06:08 GMT</pubDate>
+      <title>我制作了一个模拟加密货币交易平台</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1eagviy/i_made_a_mock_crypto_trading_platform/</link>
+      <description><![CDATA[        提交人    /u/james045986734   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1eagviy/i_made_a_mock_crypto_trading_platform/</guid>
+      <pubDate>Tue, 23 Jul 2024 19:37:03 GMT</pubDate>
     </item>
     <item>
-      <title>我正在开发一款应用程序来收听研究论文</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1eabcub/i_am_building_an_app_to_listen_to_research_papers/</link>
-      <description><![CDATA[      https://reddit.com/link/1eabcub/video/gx1nlyvriaed1/player 在一个寒冷的夜晚，我在湖边散步，看着日落，听着播客。播客快要结束了，我想继续沿着这个美丽的湖边散步。同时，我还记得我还可以听前一天晚上读的研究论文。但是没有办法收听那篇研究论文。 因此，我决定为像我这样的研究人员和技术爱好者构建 ListentoPapers，以便他们收听论文和博客（目前为 Hashnode）。 在此注册候补名单。    提交人    /u/Holiday_Marsupial251   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1eabcub/i_am_building_an_app_to_listen_to_research_papers/</guid>
-      <pubDate>Tue, 23 Jul 2024 15:54:30 GMT</pubDate>
+      <title>Indexical：跨不断变化的网站结构工作的网络抓取和爬取机器人</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1eagojo/indexical_web_scrawling_scraping_bots_that_work/</link>
+      <description><![CDATA[        提交人    /u/FeistyPatient3766   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1eagojo/indexical_web_scrawling_scraping_bots_that_work/</guid>
+      <pubDate>Tue, 23 Jul 2024 19:29:19 GMT</pubDate>
     </item>
     <item>
-      <title>Spotify Canvas 实物展示</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1eab95x/spotify_canvas_physical_display/</link>
-      <description><![CDATA[嗨，SideProject， 不确定这是否是此查询的正确 subreddit，但似乎是最佳选择...  我有一个想法，为 Spotify 的画布艺术作品（如今您在某些歌曲上看到的移动艺术作品）创建一个物理显示器。我可以放入相框的屏幕将显示当前正在播放的 spotify 歌曲的画布艺术作品（如果没有，则仅显示专辑封面）。我认为这将是一件非常酷的现场艺术作品，并且原则上似乎是可行的（我的电视有类似功能）。  有人知道我可以从哪里开始吗？调整屏幕大小以适合框架或反之亦然似乎很容易，但计算硬件和软件对我来说完全是一个黑洞。任何关于我可以研究哪些平台/编码语言的建议都将不胜感激&lt;3    提交人    /u/g_w_j   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1eab95x/spotify_canvas_physical_display/</guid>
-      <pubDate>Tue, 23 Jul 2024 15:50:17 GMT</pubDate>
+      <title>YouTube 转 mp3 API</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1eaghys/youtube_to_mp3_api/</link>
+      <description><![CDATA[嗨，我是一名软件后端开发人员，我编写 Java Web 应用程序和 REST API。我在 RapidAPI 市场上开发了这个 API，您可以转换和下载多种格式的 YouTube 视频。 易于与任何类型的前端技术集成，这是网址：YouTube 到 mp3 我们目前有 882 名注册用户，但我们希望进一步发展和改进！ 干杯。    提交人    /u/Collaxx87   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1eaghys/youtube_to_mp3_api/</guid>
+      <pubDate>Tue, 23 Jul 2024 19:21:54 GMT</pubDate>
     </item>
     <item>
-      <title>寻求有关我的应用教程的反馈</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1eab0pq/looking_for_feedback_on_my_apps_tutorial/</link>
-      <description><![CDATA[我是 imdone.io 的创造者。它是一个任务板，可以在代码中保存您工作时的任务。 当新用户下载、安装并打开应用程序时，它会创建一个由教程卡组成的新项目，帮助您学习如何使用该应用程序。 我很乐意听到您的任何反馈！    提交人    /u/saxmanjes   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1eab0pq/looking_for_feedback_on_my_apps_tutorial/</guid>
-      <pubDate>Tue, 23 Jul 2024 15:40:56 GMT</pubDate>
+      <title>不擅长营销，所以开始做播客</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1eaghig/bad_at_marketing_so_started_a_podcast/</link>
+      <description><![CDATA[嗨，我是 Dan，在这里潜水了一段时间。对我来说，副业的难点在于副业的营销方面，这种情况已经持续多年了。为了扭转这种局面，我决定开始播客，记录这段旅程，并对自己负责。它可在所有主要的播客服务和 www.debuggingdan.com 上找到。已经录制了几集，正在寻求反馈和主题建议。你有什么建议吗，请告诉我！    提交人    /u/debuggingdan   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1eaghig/bad_at_marketing_so_started_a_podcast/</guid>
+      <pubDate>Tue, 23 Jul 2024 19:21:22 GMT</pubDate>
     </item>
     <item>
-      <title>4 个创业想法让你轻松跻身 Google 前十</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1eaav9r/4_startup_ideas_that_you_can_easily_rank_in_the/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1eaav9r/4_startup_ideas_that_you_can_easily_rank_in_the/</guid>
-      <pubDate>Tue, 23 Jul 2024 15:35:01 GMT</pubDate>
+      <title>需要一些对我的“旅行/活动信息”网站的反馈</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1eagay9/need_some_feedback_for_my_travelthingstodo_info/</link>
+      <description><![CDATA[大家好， 我最近推出了（尽管仍在进行中）我的网站，该网站提供有关特定目的地活动的信息。 我很感激一些诚实的反馈。只需在 roambell.com 上试用即可。    提交人    /u/cristians77701   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1eagay9/need_some_feedback_for_my_travelthingstodo_info/</guid>
+      <pubDate>Tue, 23 Jul 2024 19:14:08 GMT</pubDate>
     </item>
     <item>
-      <title>Keyboardminder：更多地使用键盘并建立更好的工作流程！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1eaa488/keyboardminder_use_the_keyboard_more_and_build_a/</link>
-      <description><![CDATA[Keyboardminder 是一套工具，可帮助您更多地使用键盘并建立更好的工作流程。 概述： Keyboardminder 是一个开源项目，可帮助您摆脱使用鼠标或触控板的习惯，更多地使用键盘。这是一系列旨在帮助您建立更好工作流程的项目中的第一个。 GitHub 存储库： https://github.com/arock093/keyboardminder 为什么重要： 这是我的第一个开源项目，希望以后还会有更多。它为一系列项目奠定了基础，旨在为用户提供强大的工作流程，使他们能够高效地完成工作。 非常感谢您的反馈！    提交人    /u/arock093   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1eaa488/keyboardminder_use_the_keyboard_more_and_build_a/</guid>
-      <pubDate>Tue, 23 Jul 2024 15:05:34 GMT</pubDate>
+      <title>软件即服务</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1eag8e1/saas/</link>
+      <description><![CDATA[您是否知道 70% 的小型 SaaS 企业正在整合 AI 以获得更好的客户洞察？作为一名 29 岁的创始人，每月收入 12,000 美元，我想利用这一点来扩大规模。个人企业家可以真正从中受益；自动化支持和个性化营销可以节省大量时间！查看 docspark.io 以获取有用的工具。您正在使用哪些 AI 工具来促进您的业务？    提交人    /u/LowBenefit5124   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1eag8e1/saas/</guid>
+      <pubDate>Tue, 23 Jul 2024 19:11:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
