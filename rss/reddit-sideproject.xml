@@ -4,111 +4,111 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Mon, 22 Jul 2024 21:13:13 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jul 2024 01:01:01 GMT</lastBuildDate>
     <item>
-      <title>在与潜在制造商的会议中我应该分享多少？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e9pi0m/how_much_should_i_share_in_meetings_with/</link>
-      <description><![CDATA[几天后我要和一家中国公司开会，他们会帮我开发一个产品的 PCB，我该做些什么来防止他们抄袭我的想法吗？    提交人    /u/Regular_Philosophy13   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e9pi0m/how_much_should_i_share_in_meetings_with/</guid>
-      <pubDate>Mon, 22 Jul 2024 21:08:04 GMT</pubDate>
+      <title>快速的附带项目：ExcaliHub</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e9ujgt/a_quck_side_project_excalihub/</link>
+      <description><![CDATA[      几周前，我被介绍给 Excalidraw，如果你不熟悉它，它是一款免费的开源白板应用程序。通常编程内容创建者使用它来制作图表。他们的免费版本包括我需要的所有功能，除了能够将多个绘图保存在一个地方。所以我做了这个应用程序来做这件事。看看：https://excalihub.dev/ ExcaliHub    提交人    /u/NNYMgraphics   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e9ujgt/a_quck_side_project_excalihub/</guid>
+      <pubDate>Tue, 23 Jul 2024 00:45:44 GMT</pubDate>
     </item>
     <item>
-      <title>具有 3D 头像的聊天应用程序 - 文本、语音和运动跟踪</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e9os8m/chat_app_with_3d_avatars_text_voice_and_motion/</link>
-      <description><![CDATA[大家好，我花了一周时间在做一个业余项目，我很乐意从这个精彩的社区得到一些反馈。 我开发了一个聊天应用程序，用户可以上传自己的虚拟角色（VRM、FBX 等）并与随机的人聊天。目标是通过个性化头像让对话更有趣、互动性更强。用户可以通过文本和语音聊天进行交流，该应用程序支持头像的运动跟踪。 您可以在这里查看：https://www.vchathub.io/ 任何关于功能、您可能遇到的问题以及整体功能的反馈都将不胜感激。 谢谢大家，祝大家好运！    提交人    /u/Kind_Ad_8473   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e9os8m/chat_app_with_3d_avatars_text_voice_and_motion/</guid>
-      <pubDate>Mon, 22 Jul 2024 20:39:17 GMT</pubDate>
+      <title>我的第一款休闲手机游戏</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e9ugob/my_first_casual_mobile_game/</link>
+      <description><![CDATA[      我对游戏开发还很陌生，所以让我知道你的想法！ 目前它仅在 Android 上，直到我可以得到一台 MacBook  https://play.google.com/store/apps/details?id=com.StudiosGJ.spark    提交人    /u/Basic-Woodpecker5807   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e9ugob/my_first_casual_mobile_game/</guid>
+      <pubDate>Tue, 23 Jul 2024 00:42:01 GMT</pubDate>
     </item>
     <item>
-      <title>我讨厌买衣服。所以我做了这个</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e9oi4p/i_hate_buying_clothes_so_i_build_this/</link>
-      <description><![CDATA[        由    /u/Intelligent-Try3341  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e9oi4p/i_hate_buying_clothes_so_i_build_this/</guid>
-      <pubDate>Mon, 22 Jul 2024 20:28:08 GMT</pubDate>
+      <title>我建立了一个平台，让任何人都可以创建、玩和分享无限的 RPG</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e9uf4s/i_built_a_platform_that_lets_anyone_create_play/</link>
+      <description><![CDATA[        由    /u/TempestAI3201   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e9uf4s/i_built_a_platform_that_lets_anyone_create_play/</guid>
+      <pubDate>Tue, 23 Jul 2024 00:40:03 GMT</pubDate>
     </item>
     <item>
-      <title>docker compose 文件的模板引擎</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e9ofts/templating_engine_for_docker_compose_files/</link>
-      <description><![CDATA[大家好， 管理大型 Docker Compose 文件对我来说一直是一个挑战，所以我开发了 Docpose 来简化事情。它对我的个人项目非常有用，但我不太愿意将它用于客户项目。由于它是由单个开发人员创建和维护的工具，因此尽管我很热衷，但我还是担心依赖它。 您对 Docpose 有何看法？    提交人    /u/OkMedicine8096   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e9ofts/templating_engine_for_docker_compose_files/</guid>
-      <pubDate>Mon, 22 Jul 2024 20:25:28 GMT</pubDate>
+      <title>Grainify - 复古照片编辑器</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e9ubxj/grainify_a_vintage_photo_editor/</link>
+      <description><![CDATA[      嘿 Reddit！ 我很高兴向您介绍 Grainify (grainify.vercel.app)，这是一款基于网络的照片编辑器，可让您轻松地为图像添加复古氛围。 🎨📸 我正在为 buildspace n&amp;w s5 构建它。 技术堆栈——Next.js、Tailwind CSS、Web Workers 什么是 Grainify？ Grainify 最初是一个为图像添加颗粒感的简单工具，但现已发展成为一个成熟的照片编辑器。以下是一些主要功能：  复古滤镜：超过 45 种滤镜可为您的照片增添经典外观。 颗粒效果：为您的图像添加单色和彩色颗粒。 图像导出选项：多种格式可供选择，用于保存编辑后的照片。 用户友好界面：流畅的性能和直观的用户体验。  为什么选择 Grainify？ 无论您是希望为图像添加独特风格的摄影师，还是只是热爱复古美学的人，Grainify 都能提供简单而强大的解决方案。 试试看！ 您可以在此处查看：Grainify 我很乐意听到您对我们可以改进。 https://preview.redd.it/xivkjqm1z5ed1.png?width=1898&amp;format=png&amp;auto=webp&amp;s=d841479ba2468e03db9053cbcbe7a8dbdb5eee1d https://preview.redd.it/zcdgw1p1z5ed1.png?width=1917&amp;format=png&amp;auto=webp&amp;s=4b934c56b036d47c20e80e922e0508ba6f43ef48 https://preview.redd.it/4k12ypm1z5ed1.png?width=1897&amp;format=png&amp;auto=webp&amp;s=06f75909156f429d2a565c29e7139f74639f57a6 https://preview.redd.it/c5gy9qm1z5ed1.png?width=1898&amp;format=png&amp;auto=webp&amp;s=53b36375b174d14f33503721790a332d7deae763    提交人    /u/armaanx_   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e9ubxj/grainify_a_vintage_photo_editor/</guid>
+      <pubDate>Tue, 23 Jul 2024 00:35:56 GMT</pubDate>
     </item>
     <item>
-      <title>为我的 Firebase 移动应用添加了远程配置管理</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e9oca0/added_remote_config_management_to_my_firebase/</link>
-      <description><![CDATA[应大众需求，我更新了我的应用程序以包含远程配置管理 https://apps.apple.com/us/app/littlefire-firebase-mobile/id6474979700    提交人    /u/sawpaw19   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e9oca0/added_remote_config_management_to_my_firebase/</guid>
-      <pubDate>Mon, 22 Jul 2024 20:21:37 GMT</pubDate>
+      <title>负载均衡器可视化工具</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e9ts73/load_balancer_visualizing_tool/</link>
+      <description><![CDATA[      我对分布式系统还很陌生，有一件事我发现许多分布式系统设计的共同点是使用负载均衡器。  因此，我构建了一个非常基本的负载平衡可视化工具。 我已经包含了一些最常用的算法。  如果有人想知道上下文，我还写了一篇小文章： https://medium.com/@basilyusuf1709/load-balancer-visualization-tool-2456c6b9c812 GitHub： https://github.com/basilysf1709/load-balancer    提交人    /u/basilyusuf1709   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e9ts73/load_balancer_visualizing_tool/</guid>
+      <pubDate>Tue, 23 Jul 2024 00:10:14 GMT</pubDate>
     </item>
     <item>
-      <title>我使用人工智能应用程序修复了错误文档</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e9n80m/i_fixed_bad_documentation_with_an_ai_app/</link>
-      <description><![CDATA[我建立这个项目是为了解决一个实际问题： 文档对于新程序员来说是一场噩梦。他们很难阅读它，但这对他们的成长至关重要。因此，我创建了一个适用于任何网络链接的按需 RAG 系统。 我需要你的坦诚。试试看，然后告诉我：  你在学习时实际使用文档的频率是多少？ 你喜欢阅读文档，还是默认使用 YouTube 视频和文章？ 你会花钱购买一个让这个更容易使用的 Chrome 扩展程序吗？  这是链接：https://huggingface.co/spaces/Prat0/ClarifyAI 但我不会止步于开发人员。如果您在其他领域看到了这种技术的杀手级用例，我很乐意听听。    提交人    /u/goddamnit_1   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e9n80m/i_fixed_bad_documentation_with_an_ai_app/</guid>
-      <pubDate>Mon, 22 Jul 2024 19:37:00 GMT</pubDate>
+      <title>太累不想洗澡？试试任务分配器来帮你开始</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e9tgw2/too_tired_to_shower_try_a_task_divider_to_help/</link>
+      <description><![CDATA[您是否曾经太累、太不知所措，或者没有心情洗澡、收拾碗碟或洗衣服？您是否觉得这些事情太过繁琐或困难？有时，您只需要将任务划分为小而简单的步骤，然后一次完成一个。我推出了 dailytaskhelp.com，将日常任务划分为简单的步骤，并帮助您开始。无需强迫自己或解决问题。只需一步一步地按照说明操作即可。不知不觉中，您已经完成了！如果遇到困难，请单击需要帮助。如果您或您认识的人在开始任务时遇到困难，请尝试一下。 除了家务之外，我还计划添加日常任务，例如写电子邮件或开始做作业。 我没有编码背景，这是一个非常非常粗糙的原型，因此请温和地提供反馈。我只是想知道是否有必要这样做，我该如何改进它，以及您希望我向网站添加什么样的任务。谢谢！这是网站 dailytaskhelp.com https://reddit.com/link/1e9tgw2/video/y22zjtzht5ed1/player    提交人    /u/Known_Sport_9630   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e9tgw2/too_tired_to_shower_try_a_task_divider_to_help/</guid>
+      <pubDate>Mon, 22 Jul 2024 23:56:09 GMT</pubDate>
     </item>
     <item>
-      <title>routers.world - YouTube 锻炼生成器</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e9mj99/routinesworld_youtube_workout_generator/</link>
-      <description><![CDATA[嘿 Reddit！ 我刚刚推出了一款新工具，可将 YouTube 视频转换为锻炼程序。输入 YouTube 链接，它将生成一个分步程序供您遵循！ 最终目标是帮助您发现私人教练并访问他们的例程，使他们能够货币化并扩大业务规模，但这仍在开发中。 请注意，这是一项正在进行的工作，因此在此过程中可能会出现一些小问题。我很乐意听取您的反馈，如果您遇到任何问题，请随时给我发私信。 在这里查看：例程    提交人    /u/alextrand   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e9mj99/routinesworld_youtube_workout_generator/</guid>
-      <pubDate>Mon, 22 Jul 2024 19:08:59 GMT</pubDate>
+      <title>您收到过的最好的用户反馈是什么？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e9si1z/whats_the_best_user_feedback_youve_received/</link>
+      <description><![CDATA[为什么它是最好的    由   提交  /u/Lopsided-Echidna2741   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e9si1z/whats_the_best_user_feedback_youve_received/</guid>
+      <pubDate>Mon, 22 Jul 2024 23:13:13 GMT</pubDate>
     </item>
     <item>
-      <title>副业的坟墓</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e9m1d2/graveyard_for_side_projects/</link>
-      <description><![CDATA[大家好， 我正在考虑构建一个主题为“副业墓地”的应用程序。这个想法是创建一个人们可以分享他们放弃/未完成的项目的空间。用户可以：  分享项目详细信息、代码和进度。 解释他们停止工作的原因。 提供给其他人以借鉴或从中获得灵感。 反思经验教训。  我希望得到反馈，看看您是否认为这是一个有用的工具，以及您可能会如何使用这样的应用程序。  您会使用这样的应用程序吗？为什么或为什么不？ 这个应用程序对你有什么好处？ 你认为有什么功能对它的成功至关重要？  提前谢谢！    提交人    /u/No-Honey6823   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e9m1d2/graveyard_for_side_projects/</guid>
-      <pubDate>Mon, 22 Jul 2024 18:48:55 GMT</pubDate>
+      <title>我是如何被 Pokémon 卡骗的，以及我创建 Validoe 来防止这种情况发生 – 立即注册 Beta 版！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e9sahv/how_i_got_scammed_with_pokémon_cards_and_built/</link>
+      <description><![CDATA[    /u/crooked_listenero08   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e9sahv/how_i_got_scammed_with_pokémon_cards_and_built/</guid>
+      <pubDate>Mon, 22 Jul 2024 23:04:07 GMT</pubDate>
     </item>
     <item>
-      <title>我是否过度缩小了我的产品的细分范围？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e9lq7z/did_i_niched_down_my_product_too_much/</link>
-      <description><![CDATA[大家好， 几周前，我发布了一款新产品，可以帮助使用 Notion 进行内容写作（主要是与商业相关的博客等）的人撰写 SEO 优化的内容。 它的工作原理是连接到您的 Notion 工作区，定期同步 Notion 页面内容，并在您撰写内容时提供与 SEO 相关的实时见解。（SurferSEO，适用于 Notion）。 在我看来，我的理想客户角色是撰写商业博客（即关心 SEO）并使用 Notion 作为内容编辑器的人。 我的问题是我很难接触到那些理想的客户。他们非常具体...... 我是否过于细分化？我会接受您向我提出的任何建议。谢谢！    提交人    /u/Okweekend2000   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e9lq7z/did_i_niched_down_my_product_too_much/</guid>
-      <pubDate>Mon, 22 Jul 2024 18:36:33 GMT</pubDate>
+      <title>掌握个性化冷门推广：使用 Lemlist 赢得第一批客户的综合指南 - Robust Commerce</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e9s4a7/mastering_personalized_cold_outreach_a/</link>
+      <description><![CDATA[        由    /u/dafi2473 提交   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e9s4a7/mastering_personalized_cold_outreach_a/</guid>
+      <pubDate>Mon, 22 Jul 2024 22:57:02 GMT</pubDate>
     </item>
     <item>
-      <title>我制作了一个生产力应用程序来帮助我构建其他应用程序</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e9kpjd/i_made_a_productivity_app_to_help_me_build_other/</link>
-      <description><![CDATA[大家好， 我和您一样是个生产力迷，也是一名软件工程师。我尝试过很多生产力应用程序，但没有一个能完全满足我的需求。因此，我创建了自己的应用程序，我一直用它来规划我的日常日程、设定目标和跟踪我花在任务上的时间。到目前为止，这是我找到的最佳解决方案（尽管我可能有偏见）。 我希望您查看并分享您可能有的任何反馈或想法。我提前感谢您的时间！ Focusmax    提交人    /u/ConfusionOk7964   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e9kpjd/i_made_a_productivity_app_to_help_me_build_other/</guid>
-      <pubDate>Mon, 22 Jul 2024 17:55:51 GMT</pubDate>
+      <title>聊天机器人帮助识别诈骗信息</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e9rgr0/chatbot_to_help_identify_scam_messages/</link>
+      <description><![CDATA[        提交人    /u/SameerBuildsThings   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e9rgr0/chatbot_to_help_identify_scam_messages/</guid>
+      <pubDate>Mon, 22 Jul 2024 22:28:56 GMT</pubDate>
     </item>
     <item>
-      <title>我为 Next.js 构建了一个作业调度程序</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e9ioj7/i_built_a_job_scheduler_for_nextjs/</link>
-      <description><![CDATA[大家好！ 想分享一些我从五月开始就一直在做的事情。我一直在构建 Queuebase 作为在 Next.js 中调度后台作业的解决方案。我纯粹是出于自由职业项目中对此功能的需求而构建的。 它有两个部分：仪表板和 SDK。仪表板提供有关您的作业和运行尝试的见解。它包括 API 请求日志、作业日志和一些其他关键见解。它还允许您管理环境（分支）、应用程序、团队等。SDK 是一个开源软件包，您可以将其安装在 Next 应用程序中。它受到 tRPC 等库的启发。它包含您实际创建和运行作业所需的所有功能。 我已经用它为我的客户制作了一些应用程序，并且获得了很棒的体验！从用户的角度使用它让我对有效和无效的事情有了一些了解。我一直在修复错误并调整现有功能以真正实现流畅的体验。现在我已经准备好让人们使用它了。 我愿意接受任何反馈，并乐意帮助回答任何问题！ 网站：https://queuebase.com 文档：https://docs.queuebase.com/ GitHub：https://github.com/BrockHerion/queuebase 演示：https://www.youtube.com/watch?v=N4GzqWhUx7c&amp;t=2s   由    /u/sunlightdaddy  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e9ioj7/i_built_a_job_scheduler_for_nextjs/</guid>
-      <pubDate>Mon, 22 Jul 2024 16:33:14 GMT</pubDate>
+      <title>PC 代理发布</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e9qrv7/pc_agent_release/</link>
+      <description><![CDATA[        提交人    /u/gate-app   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e9qrv7/pc_agent_release/</guid>
+      <pubDate>Mon, 22 Jul 2024 22:00:08 GMT</pubDate>
     </item>
     <item>
-      <title>我开发了一个 VS Code 扩展来取代充斥着广告的在线网络工具</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e9i3iv/i_built_a_vs_code_extension_to_replace_adriddled/</link>
-      <description><![CDATA[       由    /u/Atthewall  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e9i3iv/i_built_a_vs_code_extension_to_replace_adriddled/</guid>
-      <pubDate>Mon, 22 Jul 2024 16:09:09 GMT</pubDate>
+      <title>克劳德疯了！我刚刚建立并发布了另一个网站。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e9qq31/claude_is_insane_i_just_built_and_published/</link>
+      <description><![CDATA[        由    /u/No-Calligrapher-1365   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e9qq31/claude_is_insane_i_just_built_and_published/</guid>
+      <pubDate>Mon, 22 Jul 2024 21:58:01 GMT</pubDate>
     </item>
     <item>
-      <title>我创建了一个工具，可以根据 Kubernetes 清单生成架构图</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e9i29v/i_created_a_tool_to_generate_an_architectural/</link>
-      <description><![CDATA[      https://github.com/kocierik/k8s-to-diagram 欢迎随意贡献！ https://preview.redd.it/tbhjtv4jg3ed1.png?width=429&amp;format=png&amp;auto=webp&amp;s=ad11e5d0d72eeddf4937dd9bf694d93855b27c58    提交人    /u/NeedleworkerChoice68   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e9i29v/i_created_a_tool_to_generate_an_architectural/</guid>
-      <pubDate>Mon, 22 Jul 2024 16:07:36 GMT</pubDate>
+      <title>申请工作太麻烦了，所以我做了一个应用程序，让它像 Tinder 一样。现在，当我向右滑动时，AI 就会帮我申请。（视频中的邮件是我正在申请的工作的确认邮件，哈哈）</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e9qnr8/applying_to_jobs_is_too_stressful_so_i_made_an/</link>
+      <description><![CDATA[    /u/marvythemantis   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e9qnr8/applying_to_jobs_is_too_stressful_so_i_made_an/</guid>
+      <pubDate>Mon, 22 Jul 2024 21:55:10 GMT</pubDate>
     </item>
     <item>
-      <title>我制作了一个工具，可以为您节省每张 Stripe 发票高达 2 美元</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e9hqym/i_made_a_tool_that_saves_you_up_to_2_per_stripe/</link>
-      <description><![CDATA[        提交人    /u/Sad-Zebra4495   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e9hqym/i_made_a_tool_that_saves_you_up_to_2_per_stripe/</guid>
-      <pubDate>Mon, 22 Jul 2024 15:54:54 GMT</pubDate>
+      <title>民意调查</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e9qg3i/survey/</link>
+      <description><![CDATA[无论您是健身常客、新手，还是考虑在家锻炼，我都想听听您的意见！ 您的反馈将有助于创建一款满足您的需求并让您保持动力的健身应用。 这项快速调查只需几分钟即可完成。 调查链接：https://forms.gle/NGML2i6kNvEA1xDR6    提交人    /u/ColdStacks   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e9qg3i/survey/</guid>
+      <pubDate>Mon, 22 Jul 2024 21:46:18 GMT</pubDate>
     </item>
     <item>
-      <title>ChatGPT 侧边栏 Chrome 扩展程序</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e9hjot/chatgpt_sidebar_chrome_extension/</link>
-      <description><![CDATA[      NavChat：chrome 侧边栏 https://preview.redd.it/bucxiaydc3ed1.png?width=1280&amp;format=png&amp;auto=webp&amp;s=27ed2312f66a382ced24c6a8fb4335230d05b2fe 大家好，我是社区成员，第一次来这里。 我编写了一个 ChatGPT 和 Gemini Chrome Sidebar 扩展程序，以便在浏览器侧边栏中轻松访问这些模型。虽然这个想法并不新鲜，但 NavChat 是免费使用的，它允许您通过自己的 API 密钥访问这些模型，并且您可以直接向 OpenAI 和 Google 付款。没有中间人费用。这是在侧边栏中访问这些模型的最便宜的方式，平均每月花费约几美元（相比之下，其他一些扩展程序每月收费 30 美元）。 这仍处于 Alpha 阶段，非常早期的发布，如果社区可以尝试一下并提供一些反馈，我将不胜感激。 https://chromewebstore.google.com/detail/chatgpt-sidebar-+-gpt-4o4/acbkcdnhidddghjdlfegflbdncklfhbd  非常感谢。    提交人    /u/Muted_Net2890   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e9hjot/chatgpt_sidebar_chrome_extension/</guid>
-      <pubDate>Mon, 22 Jul 2024 15:46:32 GMT</pubDate>
+      <title>几年前我制作了这个应用程序来模仿 Moto Actions 的手电筒和相机。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1e9ptli/i_made_this_app_a_few_years_ago_to_mimic_moto/</link>
+      <description><![CDATA[我的应用摇动手电筒和相机，让用户只需摇动一下即可激活手电筒或相机，模仿 Moto Actions 的便利性。它一直进展顺利，直到情况开始迅速恶化，我不知道原因。我希望得到一些关于有效策略的建议，以扩大我的用户群并提高参与度。任何有关营销、用户获取或提高应用知名度的提示都将不胜感激！    提交人    /u/Mido-xyz   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1e9ptli/i_made_this_app_a_few_years_ago_to_mimic_moto/</guid>
+      <pubDate>Mon, 22 Jul 2024 21:21:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
