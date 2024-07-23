@@ -4,7 +4,70 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Tue, 23 Jul 2024 09:14:39 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jul 2024 12:25:41 GMT</lastBuildDate>
+    <item>
+      <title>重新定义问题跟踪：引入 Supabugs</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ea4ro2/redefining_issue_tracking_introducing_supabugs/</link>
+      <description><![CDATA[大家好！我很高兴向您介绍 Supabugs，这是我们的新 SaaS，它将彻底改变您处理问题跟踪的方式。 我们之所以开发 Supabugs，是因为坦率地说，大多数问题跟踪器使用起来都很麻烦。它们往往过于复杂，与现代团队的工作方式格格不入。所以我们决定改变这种状况。 现在，这里有一些令人兴奋的消息：Supabugs 最多可供 5 名用户免费使用。是的，您没听错 - 免费！我们希望确保小型团队和初创公司能够从出色的问题跟踪中受益，而无需花费太多。 那么 Supabugs 有什么特别之处呢？让我来分析一下：  它非常用户友好。您无需成为技术专家即可搞清楚。即使您的非技术型客户也可以轻松报告错误。 它是可自定义的。您可以调整问题类型、优先级、严重性、状态及其颜色 - 几乎所有内容都可以适合您的工作流程。 它是 API 优先。这意味着您可以从您的应用程序中自动报告错误。不再需要手动输入数据。 共享轻而易举。想要循环客户吗？只需向他们发送链接，他们就可以查看问题，而不会弄乱任何东西。 我们有一个很酷的小部件。只需在您的网站上输入两行代码，您的用户就可以直接报告错误。 我们的 webhook 功能非常棒。只需单击几下，您就可以将所有重要事件发送到您最喜欢的平台，如 Slack、Discord 或 Telegram。新问题？状态更改？您立即了解最新情况。  我们之所以创建 Supabugs，是因为我们曾经处于您的境地。我们了解问题跟踪的挫败感，我们希望构建一些真正让您的生活更轻松的东西。 无论您是独立开发者、初创公司还是成长型公司，Supabugs 都旨在与您一起扩展。请记住，它最多可供 5 名用户免费使用，所以没有理由不尝试一下！ 准备好告别笨重的系统，迎接流畅、高效的错误跟踪了吗？立即访问我们的网站并开始免费试用。最多 5 位用户无需信用卡！ 为了庆祝这一里程碑，我们为早期支持者提供独家优惠： 🎉 40% 终身折扣 🎉 仅适用于前 20 位客户！结帐时使用优惠券 40FOR20 可获得此 40% 的终身巨额折扣。 有任何问题吗？我很乐意听取您的想法或解决有关 Supabugs 的任何问题。让我们把错误跟踪变成您真正喜欢的事情！ https://www.supabugs.io/    提交人    /u/releasyapp   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ea4ro2/redefining_issue_tracking_introducing_supabugs/</guid>
+      <pubDate>Tue, 23 Jul 2024 10:47:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的第一个全栈项目 AI 动漫生成器！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ea4pwy/my_first_fullstack_project_ai_anime_generator/</link>
+      <description><![CDATA[      大家好！ 我很高兴介绍我的第一个全栈独立制作项目，AI Anime Art Generator。利用先进的稳定扩散模型，该工具可以让非专业用户轻松生成各种动漫风格的图像！ Github（是的，它是完全开源的！）：https://github.com/enterwiz/ai-anime-art-generator 口号：利用AI的力量创作令人惊叹的动漫艺术。 目前，登录用户可以免费使用该服务。生成每张图片大约需要 20 到 30 秒。 欢迎尝试并提供您的反馈和建议！ https://preview.redd.it/uuqmeh8wz8ed1.png?width=2108&amp;format=png&amp;auto=webp&amp;s=bd38a356f024282d42d8a408f8e7f8bbd5747ecc    提交人    /u/enterwiz   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ea4pwy/my_first_fullstack_project_ai_anime_generator/</guid>
+      <pubDate>Tue, 23 Jul 2024 10:45:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>高级开发人员愿意为您构建登陆页面或 MVP 以供客户评价</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ea4l1l/senior_dev_willing_to_build_your_landing_page_or/</link>
+      <description><![CDATA[我将构建您的 MVP 以获得推荐。 您好， 我是一名全栈软件开发人员，拥有超过 18 年的 saas 产品构建经验 最近，我决定创办自己的代理机构，我想实现 100% 的满意度，但仍然缺乏推荐和扩展流程。 目前有几个项目即将完成，所以我想我可以做更多的工作来获得更多的推荐。 我可以更快地完成登陆页面，我会在我的主机上进行设置并使用我的工具，因此托管费用为每月 25 美元。 对于更复杂的应用程序，我对您的想法充满热情，因此请分享它，以确保您的承诺，我可以在几周内完成 MVP，但需要收取 400 美元才能获得推荐。  这 400 美元的唯一原因是确保您致力于该项目。    提交人    /u/Slow_Judgment7773   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ea4l1l/senior_dev_willing_to_build_your_landing_page_or/</guid>
+      <pubDate>Tue, 23 Jul 2024 10:36:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何使用 RevenueCat 的付费墙在我的应用中创建终身应用内购买并提供折扣付款</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ea48j2/how_to_create_lifetime_inapp_purchase_and_offer/</link>
+      <description><![CDATA[大家好， 我目前正在将应用内购买功能集成到我的 iOS 应用中，并使用 RevenueCat 的付费墙来管理付款。我需要有关两件具体事情的一些指导：  创建终身应用内购买：我想为我的应用提供终身购买选项。如何使用 RevenueCat 进行设置？在 App Store 和 RevenueCat 中配置此功能涉及哪些步骤？ 提供折扣付款：我还想为用户提供应用部分付款的折扣。您知道如何实现此折扣功能吗？RevenueCat 中是否有用于处理折扣的特定配置或最佳实践？     提交人    /u/Moy_ore   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ea48j2/how_to_create_lifetime_inapp_purchase_and_offer/</guid>
+      <pubDate>Tue, 23 Jul 2024 10:14:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了 creatify</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ea45f7/i_build_creatify/</link>
+      <description><![CDATA[只需几分钟即可创建您的个人页面，而不是几个小时！    提交人    /u/Agile-Ingenuity-4902   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ea45f7/i_build_creatify/</guid>
+      <pubDate>Tue, 23 Jul 2024 10:09:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>我如何在一个陌生的行业中将 AI 副业发展到每月 8,638 美元</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ea42js/how_i_built_an_ai_side_hustle_to_8638month_in_an/</link>
+      <description><![CDATA[您是否曾想过涉足一个陌生的行业，但由于缺乏经验而犹豫不决？我最近决定尝试一下，通过反复试验，建立了一个每月收入超过 8,600 美元的 AI 副业。以下是我在此过程中学到的东西：  AI 正在重塑从医疗保健到在线营销等行业。首先研究 AI 解决方案可以填补空白或提高效率的行业。  - Docspark 等工具可以简化文档管理并提高生产力，从而更轻松地在您选择的领域提供服务。  即使您是新手，创建一些项目或模型也可以展示您的能力。这关乎展示潜力，而非完美！ 加入论坛或本地聚会可让您与该领域的其他人建立联系，并有可能建立合作伙伴关系或获得自由职业机会。 AI 格局瞬息万变。关注行业新闻和趋势将帮助您保持相关性和以客户为中心。  您是否在不熟悉的领域取得了成功？您面临哪些挑战？让我们讨论一下 AI 如何帮助打破这些障碍并赋能副业！📝 Docspark：https://docspark.io/    提交人    /u/LowBenefit5124   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ea42js/how_i_built_an_ai_side_hustle_to_8638month_in_an/</guid>
+      <pubDate>Tue, 23 Jul 2024 10:04:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>我会做关于 Product Hunt 的噩梦</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ea41sy/ill_have_nightmares_about_product_hunt/</link>
+      <description><![CDATA[为了这次发布，我们准备了好几个星期，几乎每天都工作到很晚。我从来没有为 Product Hunt 做过营销，所以对我个人来说，也有很多学习。我们今天去发布了，猜猜还有谁决定今天是他们的日子……Meta&#39;s Llama。 你以前用过 Product Hunt 吗？ 如果你有 5s，请支持一家试图在科技领域取得成功的小型初创公司 🙏🏻 https://www.producthunt.com/posts/arcane-2    提交人    /u/Dagsybear   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ea41sy/ill_have_nightmares_about_product_hunt/</guid>
+      <pubDate>Tue, 23 Jul 2024 10:02:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>这个周末我创建了 6 个副项目😮‍💨</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ea3ubr/i_created_6_six_sideprojects_over_this_weekend/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ea3ubr/i_created_6_six_sideprojects_over_this_weekend/</guid>
+      <pubDate>Tue, 23 Jul 2024 09:50:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>我应该加入候补名单吗？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ea3lu3/should_i_make_a_waitlist/</link>
+      <description><![CDATA[此外，其他问题与此相关：如果没有太多人订阅候补名单，我是否应该放弃？（想法未经验证）我是否应该只在有一些产品功能要展示给人们时才这样做，还是可以尽快这样做？我在候补名单上应该说些什么？ 感谢您的关注 🙂    提交人    /u/EmbarrassedTackle264   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ea3lu3/should_i_make_a_waitlist/</guid>
+      <pubDate>Tue, 23 Jul 2024 09:33:56 GMT</pubDate>
+    </item>
     <item>
       <title>Geobingo：一款现实生活中的游戏，玩家可以四处奔跑寻找并拍摄特定物体。</title>
       <link>https://www.reddit.com/r/SideProject/comments/1ea3ai0/geobingo_a_irl_game_were_you_run_around_to_finde/</link>
@@ -46,69 +109,6 @@
       <description><![CDATA[      我们中的许多人都坐得太久了。 如果你每天坐超过 6 个小时，你就正在摧毁你的身体并损害你的健康。 每天拉伸 5 分钟可帮助您恢复活动能力和精力  改善姿势 减少肌肉紧张和疼痛 提高工作效率 改善睡眠 改善血液循环，防止肌肉僵硬  ABI 拉伸常规应用程序 唯一要做的就是保持一致并一次专注于一个区域。 这就是我花数月时间研究 ABI 的原因  它包括：  预制的拉伸程序可满足您的所有需求 与AI教练聊天以获得个性化计划 跟踪您的活动和进度 150多个适合所有级别的精选练习 练习指南 ...  下载    🍏 iOS 应用商店链接  👋 您能如何提供帮助？ 如果您对新功能或改进有任何建议，或者只是想分享您使用该应用的经验，您的反馈对我来说非常宝贵。 我迫不及待地想听到大家的声音！ 😊 ** 拉伸不能代替运动    提交人    /u/Jaded_Raspberry8543   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1ea2ilu/sitting_is_the_new_smoking_introducing_abi/</guid>
       <pubDate>Tue, 23 Jul 2024 08:20:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>该平台配备人工智能助手，为您节省时间：人工智能写作、人工智能检测、语法检查等</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ea28ud/the_platform_with_ai_helpers_to_save_you_time_ai/</link>
-      <description><![CDATA[    /u/Fun-Peanut-7801   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ea28ud/the_platform_with_ai_helpers_to_save_you_time_ai/</guid>
-      <pubDate>Tue, 23 Jul 2024 08:01:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个工具，让内向的人更容易社交</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ea1loe/i_made_a_tool_to_make_networking_easier_for/</link>
-      <description><![CDATA[        由    /u/bootstrappedunicorn  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ea1loe/i_made_a_tool_to_make_networking_easier_for/</guid>
-      <pubDate>Tue, 23 Jul 2024 07:19:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>负面想法垃圾箱网络应用程序</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ea1dya/negative_thoughts_dustbin_web_app/</link>
-      <description><![CDATA[      Processing img gdeuwjpbw7ed1... dustbin.nostalgician.in 我们几乎每个人都有一些负面的想法和秘密，我们无法与世界分享。我们大多数人不想在日记中写下这些类型的想法，无论是在线还是纸质的，因为我们担心别人可能会阅读它们或侵入我们的在线日记。 研究表明，在写下我们的负面想法后，如果我们将那张纸扔进垃圾箱，我们会感到满足和平静。 这是创建垃圾箱日记背后的主要思想。你可以写下任何你想发泄的秘密或想法，而不必担心别人阅读它们。 当你写完它们时，你可以安全地删除它们，类似于将纸张扔进垃圾箱的动作。 由于此应用程序仅使用前端，因此不存储任何数据。 我很想知道您的反馈！    提交人    /u/Traditional_Web_7856   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ea1dya/negative_thoughts_dustbin_web_app/</guid>
-      <pubDate>Tue, 23 Jul 2024 07:04:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>推出 Allyment：您的友谊管理应用程序（欢迎反馈！）</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ea1bz1/launching_allyment_your_friendship_management_app/</link>
-      <description><![CDATA[      难以与朋友保持联系？Allyment 提供帮助！  存储联系方式 &amp; 设置提醒以重新连接 AI消息助手（由Gemini Nano提供支持，测试版）  欢迎反馈！尝试一下，提出改进建议。  Allyment 演示    提交人    /u/mohamed_jeddah   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ea1bz1/launching_allyment_your_friendship_management_app/</guid>
-      <pubDate>Tue, 23 Jul 2024 07:01:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>Dresktop：Drupal桌面管理</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ea11xz/dresktop_drupal_desktop_management/</link>
-      <description><![CDATA[我创建了一个桌面应用程序来管理 Drupal 项目，灵感来自 Acquia Desktop 以及 Acquia Cloud 和 Pantheon 的工作流程。 部分功能包括：  多平台支持 开源 桌面和云环境 用于部署、更新、运行 PHP 代码、运行 Bash 脚本、缓存重建等的工具 通过 Adminer 和 Mailpit 等服务扩展功能。此外，它还支持从其他环境导入、导出和同步数据库，以及从其他环境同步文件。  目前，macOS 和 Linux 仅支持 ARM64 架构。对 Windows 和 X64 的支持将很快发布。 Dresktop 概述    提交人    /u/jdanest   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ea11xz/dresktop_drupal_desktop_management/</guid>
-      <pubDate>Tue, 23 Jul 2024 06:43:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>为您的初创公司请求无限的设计</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ea04yy/request_unlimited_designs_for_your_startup/</link>
-      <description><![CDATA[        提交人    /u/Main_Ad6084   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ea04yy/request_unlimited_designs_for_your_startup/</guid>
-      <pubDate>Tue, 23 Jul 2024 05:43:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个求职申请管理系统来帮助您追踪您发出的所有求职申请！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e9zosq/i_made_a_job_application_management_system_to/</link>
-      <description><![CDATA[https://www.aptrak.net https://reddit.com/link/1e9zosq/video/pw2e12klc7ed1/player    提交人    /u/Advanced_Street4340   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e9zosq/i_made_a_job_application_management_system_to/</guid>
-      <pubDate>Tue, 23 Jul 2024 05:14:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个工具，可以自动在商店页面上显示直播，以提高主播的参与度</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e9yyie/i_made_a_tool_that_automatically_displays_live/</link>
-      <description><![CDATA[        由    /u/Short_Safe3296   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e9yyie/i_made_a_tool_that_automatically_displays_live/</guid>
-      <pubDate>Tue, 23 Jul 2024 04:30:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>免费日记疗法应用程序 - 限时优惠</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1e9yo9y/free_journaling_therapy_app_limited_time_offer/</link>
-      <description><![CDATA[      产品演示 最近你有没有感到紧张或焦虑？认识一下我们的引导式日记应用 Sunrise，它旨在缓解焦虑：它是你放松、反思和充电的安全私人空间。为了庆祝我们最近的重大更新，我们将免费提供我们的应用直到 8 月 1 日 - 我们很乐意听取您的反馈！ 我们非常高兴地推出全新的 Sunrise。以下是新功能：  ✍️ 指导日记：受 Andrew Huberman 和 James Pennebaker 等专家启发的五个基于证据的模板，旨在通过结构化写作增强您的心理健康。 💌 积极备注：一种交互式功能，可为您的匿名条目提供鼓励性反馈，促进持续写日记以减轻焦虑。 🔐 安全空间：高级安全功能，如本地数据存储（我们不会将您的日记条目存储在我们的服务器中）和密码保护（生物识别或密码）。  自 6 月下旬首次推出以来，Sunrise 已攀升至韩国付费生产力应用排行榜第二名，获得200 次下载和4.9 星 App Store 评分 - 所有这些都无需付费营销。 心理健康可能是一场无声的斗争，但您不必面对它仅此而已。现在就在我们的限时促销期间免费下载 Sunrise！有疑问吗？我们在这里为您提供帮助。 🍎 iOS 下载 🤖 Android 下载 🌐 网站 📩 联系电子邮件：[info@fimpact.tech](mailto:info@fimpact.tech)   由    /u/Ok-Stand1794  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1e9yo9y/free_journaling_therapy_app_limited_time_offer/</guid>
-      <pubDate>Tue, 23 Jul 2024 04:13:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
