@@ -4,9 +4,72 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Wed, 24 Jul 2024 03:15:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jul 2024 06:19:14 GMT</lastBuildDate>
     <item>
-      <title>我制作了 PitchPilot（并在 4 天内赚了 500 美元）：这是一款人工智能编剧和配音向导。AMA！</title>
+      <title>我制作了一个简化的邮件合并工具，只需点击几下即可发送大量个性化电子邮件</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1eatp48/i_made_a_simplified_mail_merge_tool_to_send_mass/</link>
+      <description><![CDATA[      大约一个月前，我发送了我为我的一款产品处理大量电子邮件。我需要对大量电子邮件进行个性化设置，但我意识到这个过程非常耗时。 我开始寻找解决方案，并发现了邮件合并方法。我尝试了几个平台，发现它并不是非常用户友好。我还注意到，除非您订阅，否则我使用的平台在您可以发送的电子邮件数量方面受到限制。 我创建此产品是因为对现有的邮件合并平台缺乏直观的可用性和强加的订阅模式感到沮丧。 作为一名用户，我发现这个过程很麻烦且成本高昂，尤其是对于偶尔使用的用户或小规模项目而言。 我想要一个提供直接的即用即付定价的解决方案，用户只需为他们使用的内容付费，而不会受到经常性费用的束缚。该项目的用户界面仍在进行中，但已可以正常运行。 https://www.producthunt.com/products/mergeemail-com    提交人    /u/xioor   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1eatp48/i_made_a_simplified_mail_merge_tool_to_send_mass/</guid>
+      <pubDate>Wed, 24 Jul 2024 05:39:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>公共路线图和功能请求工具</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1eatoaj/public_roadmap_and_feature_request_tools/</link>
+      <description><![CDATA[我偶然发现了这个公共路线图 https://roadmap.essay.app/ 这似乎是论文团队制作的定制解决方案，我正在寻找可以完成相同工作且不需要自己构建的东西。它应该有一个公共路线图、功能投票和功能请求。我发现最接近的是 github 公共项目，但它缺乏功能，而且过于以开发人员为中心。    提交人    /u/artuntun   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1eatoaj/public_roadmap_and_feature_request_tools/</guid>
+      <pubDate>Wed, 24 Jul 2024 05:38:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>你会如何处理失败的 Side 项目？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1eati22/what_do_you_do_with_your_failed_side_project/</link>
+      <description><![CDATA[我为 ChatGPT 制作了一个应用。当 ChatGPT Free 只是一个没有任何专业功能的基本版本时，我们必须为每个任务编写有效的提示才能获得良好的结果。这很耗时，尤其是对于重复性任务，需要我们一遍又一遍地输入提示。为了解决这个问题，我开发了一个包装器应用，利用提示模板的强大功能在移动设备上自动执行任务。 gprompt - https://gprompt.vercel.app 此应用可帮助保存提示模板，将其应用于内容，将其输入 ChatGPT，并自动执行整个过程。仅使用模板，我就创建了以下自定义工作流程：  翻译提示：替换翻译 语法提示：替换词典 回复提示：生成社交帖子评论  最好的部分是什么？它是免费的。 但是，随着现在有更高级的 GPT 模型可免费使用，对模板的需求正在慢慢减少。虽然 gprompt 仍然是获取 Twitter 和 LinkedIn 帖子以生成评论和回复的最佳应用程序，但我对进一步构建它的兴趣已经减弱。 我该用它做什么？    提交人    /u/vigneshvp   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1eati22/what_do_you_do_with_your_failed_side_project/</guid>
+      <pubDate>Wed, 24 Jul 2024 05:26:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了一个社交媒体平台，Urban Dictionary 的智慧、Reddit 的社区和维基百科的知识在这里碰撞</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1eat6ft/i_created_a_social_media_platform_where_urban/</link>
+      <description><![CDATA[        提交人    /u/arasdi   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1eat6ft/i_created_a_social_media_platform_where_urban/</guid>
+      <pubDate>Wed, 24 Jul 2024 05:07:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>生命的尺度 - 使用 100 多个实时计数器实时直观显示生命的巨大规模（与世界计量器的概念类似，但希望更好一些...）</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1easws6/the_scale_of_life_visualize_the_enormity_of_life/</link>
+      <description><![CDATA[  由    /u/mostlyanillusion  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1easws6/the_scale_of_life_visualize_the_enormity_of_life/</guid>
+      <pubDate>Wed, 24 Jul 2024 04:51:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>有模板吗？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1easfv0/any_templates/</link>
+      <description><![CDATA[我很好奇，想知道是否有人有使用 react/next.js 的模板来构建全栈 SAAS 应用程序。任何 GitHub 链接也值得赞赏。我是一名新程序员     提交人    /u/internet_cowboy_   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1easfv0/any_templates/</guid>
+      <pubDate>Wed, 24 Jul 2024 04:23:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能创造的正念</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1easaem/mindful_made_by_ai/</link>
+      <description><![CDATA[我创建了一个包含大量正念冥想的网站。 https://mindful-enlightenment.com/ 我认为使用 AI 用 suno 制作歌曲、用 elevenlabs 制作语音以及 Claude 和 GPT4 编写的所有内容会很好； 但是现在它基本完成了，我不知道如何从中获利。 别以为有人会为此付钱；我不知道为什么当时这似乎是个好主意，哈哈。 一个想法是出售商品；印有宣传正念的漂亮口号的马克杯和 T 恤，并让网站免费。    提交人    /u/ekim2077   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1easaem/mindful_made_by_ai/</guid>
+      <pubDate>Wed, 24 Jul 2024 04:14:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>对游戏应用的营销建议？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1eas90e/marketing_advice_for_the_game_app/</link>
+      <description><![CDATA[嗨，我最近使用 React Native 为 iOS 和 Android 创建并发布了一款移动游戏应用。这款名为 CardMafia 的游戏是纸牌游戏和黑手党游戏的结合，专为 4 名玩家设计，计划在未来扩展到更多玩家。您可以在 iOS 和 Android 上找到这款游戏。 作为一名开发者，我发现吸引用户来发展游戏是一项挑战，尤其是因为它需要 4 名玩家才能玩。我正在寻求有关如何有效营销我的应用的建议，并希望任何可以在此情况下提供帮助的营销公司的建议。我愿意投资营销以确保我的第一个已发布应用程序的成功。 谢谢！    提交人    /u/dogetothemoon719   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1eas90e/marketing_advice_for_the_game_app/</guid>
+      <pubDate>Wed, 24 Jul 2024 04:12:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个简单的基于浏览器的屏幕录像机</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1earnvj/i_made_a_simple_browserbased_screen_recorder/</link>
+      <description><![CDATA[  由    /u/xevolito  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1earnvj/i_made_a_simple_browserbased_screen_recorder/</guid>
+      <pubDate>Wed, 24 Jul 2024 03:40:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了 PitchPilot（并在 4 天内赚了 500 美元）：这是一款由人工智能驱动的编剧和配音向导。AMA！</title>
       <link>https://www.reddit.com/r/SideProject/comments/1eaqymm/i_made_pitchpilot_and_500_in_4_days_its_an/</link>
       <description><![CDATA[        由    /u/muchCode   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1eaqymm/i_made_pitchpilot_and_500_in_4_days_its_an/</guid>
@@ -46,69 +109,6 @@
       <description><![CDATA[大家好！我是这个领域的新手，只是想进来介绍一下自己。我是 Leah。我是一名母亲，我在家工作，使用社交媒体平台销售数字产品。能够待在家里，还能赚取收入来养家糊口，还能做一些有趣的事情，真是一件幸福的事！我还制作亚马逊评论视频来赚取一些外快，现在我的收入已经远远超过了这个数字😂😜我期待成为互联网这个角落里这个小社区的一员 :-)     提交人    /u/Big-Donut-9700   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1eaoive/hi_im_new_here/</guid>
       <pubDate>Wed, 24 Jul 2024 01:01:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>一名 17 岁少年开发了一款 AI 投资应用程序</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1eamtjs/a_17_year_old_builds_an_ai_investing_app/</link>
-      <description><![CDATA[正如标题所示，我 17 岁，我想创业并加入创业圈。 我目前正在开发 FinWheel，这是一款投资应用程序，可让您拥有一位 AI 财务顾问，可以创建和管理您的投资计划，以实现您的长期投资目标，无论是退休、度假还是其他什么。  查看网站：https://finwheel.tech 注册 Beta 版：https://forms.gle/uiZ8UTxCteUf3bxR9     提交人    /u/DankAlugie   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1eamtjs/a_17_year_old_builds_an_ai_investing_app/</guid>
-      <pubDate>Tue, 23 Jul 2024 23:42:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>您自己的“icloud”备份替代方案</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1eal7ca/your_own_icloud_backup_alternative/</link>
-      <description><![CDATA[我很好奇是否有人做过或见过任何“备份到 iCloud”的好替代品？ 我设想了一个超级简单的高质量替代方案，你可以让普通人拥有网络连接硬盘/NAS。一个简单的 Shopify 网站出售一个不错的简单硬件，你可以将其插入路由器，这样你就可以轻松地保存东西。它甚至可能提供一种冗余或分布式“云”服务，收费将副本加密到他们的服务器或其他用户的驱动器中。 我想如果你营销得当，你可以做一个简单的生意，如果为像苹果这样的日常用户打造，它会赚很多钱。 如果你想帮忙建造它，请告诉我。    提交人    /u/Futurenathan   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1eal7ca/your_own_icloud_backup_alternative/</guid>
-      <pubDate>Tue, 23 Jul 2024 22:32:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用此服务可节省数天的开发时间和大量 $$$</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1eaknoe/save_days_of_dev_time_and_ton_of_using_this/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1eaknoe/save_days_of_dev_time_and_ton_of_using_this/</guid>
-      <pubDate>Tue, 23 Jul 2024 22:09:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>又一个生产力方面的项目。目前还处于早期阶段。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1eakh4r/yet_another_productivity_side_project_its_too/</link>
-      <description><![CDATA[        由    /u/doganarif 提交   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1eakh4r/yet_another_productivity_side_project_its_too/</guid>
-      <pubDate>Tue, 23 Jul 2024 22:02:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个供程序员共同构建、学习和编码的社交网站。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1eak36c/i_created_a_networking_site_for_programmers_to/</link>
-      <description><![CDATA[嗨 r/SideProject， 我很高兴向您介绍 Pairbyte，这是一个旨在帮助程序员联系和协作的新平台。借助我们的匹配和拒绝系统，您可以轻松找到并联系与您共享首选语言和框架的其他人，以进行结对编程等。 请在此处尝试：https://pairbyte.net/ 由于我们仍处于测试阶段，我们非常感谢您的反馈。如果您遇到任何错误或问题，请通过 [support@pairbyte.net]() 告知我们。 我们不断添加新功能，例如将您的项目链接到您的个人资料以展示您的工作，并在您的仪表板上获得匹配时发送电子邮件通知。 感谢您的支持！    提交人    /u/err0rzdev   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1eak36c/i_created_a_networking_site_for_programmers_to/</guid>
-      <pubDate>Tue, 23 Jul 2024 21:45:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个工具，可以挖掘 subreddits 中人们真正想要的产品和内容创意</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1eajbw6/i_made_a_tool_that_mines_subreddits_for_product/</link>
-      <description><![CDATA[我创建了 painpointy.com 来帮助在 subreddits 上找到人们真正在寻找的产品和内容创意。 您可以输入任何搜索词，它会自动从中找到相关的 subreddits 和帖子。 目前，有 4 个部分：  痛点 - 讨论与搜索主题相关的痛点的帖子 问题 - 在 subreddits 中提出的问题 内容创意 - 基于相关帖子的内容创意，包括关键字建议 模式 - 在帖子中观察到的常见模式  目前还处于早期阶段，所以我很想听到您的反馈！    由    /u/sNosir  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1eajbw6/i_made_a_tool_that_mines_subreddits_for_product/</guid>
-      <pubDate>Tue, 23 Jul 2024 21:15:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 LLM 的 chatgpt 包装器副项目不好吗？您怎么看？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1eaizb9/are_chatgpt_wrappers_side_project_using_a_llm_bad/</link>
-      <description><![CDATA[  由    /u/Wheatstore  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1eaizb9/are_chatgpt_wrappers_side_project_using_a_llm_bad/</guid>
-      <pubDate>Tue, 23 Jul 2024 21:01:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>想要加快工作流程？使用 Runbear 将您的自定义 GPT 集成到 Slack、Microsoft Teams、Discord 等！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1eaiubu/want_to_speed_up_your_workflow_use_runbear_to/</link>
-      <description><![CDATA[       由    /u/runbearll  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1eaiubu/want_to_speed_up_your_workflow_use_runbear_to/</guid>
-      <pubDate>Tue, 23 Jul 2024 20:55:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>置身于丛林中与蛇搏斗</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1eain86/put_yourself_in_the_jungle_fighting_snakes/</link>
-      <description><![CDATA[  由    /u/siddiqbakr  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1eain86/put_yourself_in_the_jungle_fighting_snakes/</guid>
-      <pubDate>Tue, 23 Jul 2024 20:47:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
