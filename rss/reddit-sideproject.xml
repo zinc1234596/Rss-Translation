@@ -4,7 +4,98 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Wed, 24 Jul 2024 12:25:20 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jul 2024 15:14:50 GMT</lastBuildDate>
+    <item>
+      <title>A 创建了一个仅显示五条帖子的网络。（无需注册）</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1eb3o3p/a_made_a_network_that_only_shows_five_posts_no/</link>
+      <description><![CDATA[Nonopost 无聊的时候，我买了一个域名，当时我不知道该放些什么在那里，看着 URL 里什么都没有，我的强迫症快要把我折磨死了。所以我做了一个 1 个文件（字面意思，除了服务器。）社交网络，只显示 5 个最新帖子。  我可以推销它： 如今的网络太多了，有很多算法，以为他们知道你喜欢什么或你需要什么 但当然不是 你想看到所有的东西，学习新的东西，做出反应，而且不说你是谁，因为就像... 你为什么想让人们知道你是谁？ 呃... 没人想要那样。你为什么想看无限数量的帖子。让我们只看五，五是一个很棒的数字，每个人都喜欢它。它让你的舌头发痒，有一个中心。每个人都喜欢有中心的东西。 不用多说 URL： Nonopost    由   提交  /u/Confident-Guess2914   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1eb3o3p/a_made_a_network_that_only_shows_five_posts_no/</guid>
+      <pubDate>Wed, 24 Jul 2024 15:02:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>创建了一个 MacOS 和 iOS 应用程序，可以在您的设备上私下离线运行 LLM</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1eb3kwk/created_a_macos_and_ios_app_that_run_llms/</link>
+      <description><![CDATA[它被称为 Enclave AI，可在 AppStore 上获取。它不需要登录/注册，不会跟踪任何数据，并且可以在您的设备上完全私密和离线地工作。它也是免费的（无需应用内支付或订阅），并承诺保持免费。  您可以将其视为 ChatGPT，但您的数据不会离开您的设备，并且您的所有对话都是私密的。它还实现了基本语音模式，也可以离线运行。 一点背景故事 - 我是一名软件工程师，近 9 年来一直在为 Apple 生态系统开发应用程序。这是我的业余项目，我在其中探索新的想法和功能，并研究我个人感兴趣的事情。这是一次非常有趣的经历，我明白该应用程序还不是很完善，但你必须明白，由于我有一份正常的日常工作，所以我每周只花几个小时开发它。不过，如果有更多的人使用它，那就太好了，我欢迎任何反馈或功能请求，我会在有时间时尝试处理它们 :) 谢谢！    提交人    /u/xlogic87   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1eb3kwk/created_a_macos_and_ios_app_that_run_llms/</guid>
+      <pubDate>Wed, 24 Jul 2024 14:58:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>在收到之前先给予反馈</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1eb3i5p/give_feedback_before_receiving_it/</link>
+      <description><![CDATA[你好 reddit， 我目前正在考虑在我的网站 ambitools（一个展示项目的网站）上添加一个新功能。你会对其他项目给出反馈，以便收到关于你项目的反馈吗？我所说的反馈是指：优点、缺点和改进项目的想法。 祝你有美好的一天 😉    由   提交  /u/MasterDranoel   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1eb3i5p/give_feedback_before_receiving_it/</guid>
+      <pubDate>Wed, 24 Jul 2024 14:55:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>我什么时候可以停止采访用户？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1eb3dp0/when_can_i_stop_interviewing_users/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1eb3dp0/when_can_i_stop_interviewing_users/</guid>
+      <pubDate>Wed, 24 Jul 2024 14:50:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>真实流量与广告收入对比</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1eb2yk3/realworld_traffic_to_ad_revenue_numbers/</link>
+      <description><![CDATA[只是好奇是否有人介意分享他们的流量统计数据以及通过 Adsense 获得的收入，只是想知道需要多少流量才能开始赚钱。     提交人    /u/maziwa   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1eb2yk3/realworld_traffic_to_ad_revenue_numbers/</guid>
+      <pubDate>Wed, 24 Jul 2024 14:32:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>我开发了一个无需代码的工具来在你的网站上创建弹出式调查</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1eb2mp4/i_built_a_nocode_tool_to_create_popup_surveys_on/</link>
+      <description><![CDATA[    /u/LankyTelevision   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1eb2mp4/i_built_a_nocode_tool_to_create_popup_surveys_on/</guid>
+      <pubDate>Wed, 24 Jul 2024 14:18:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>我为那些宁愿编写应用程序代码而不是手动发送小型 UI 更新的开发人员制作了一系列一键式网站升级。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1eb20uz/i_made_a_collection_of_oneclick_website_upgrades/</link>
+      <description><![CDATA[        提交人    /u/mplacona   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1eb20uz/i_made_a_collection_of_oneclick_website_upgrades/</guid>
+      <pubDate>Wed, 24 Jul 2024 13:52:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Pinterest 上的“加入板”进行营销有成功吗？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1eb1vq7/any_luck_in_marketing_with_boards_to_join_on/</link>
+      <description><![CDATA[我在 X 上看到过无数建议帖子，建议创始人在 Pinterest 上营销（它是免费的，如果内容正确，可能会带来巨大的解锁）。 所以我按照它做，但无法通过第二步...找不到一个带有“加入”选项的 Board。我甚至没有遇到一个有合作者的 Board。有没有其他人有这种运气或知道如何找到合适的 Board 的技巧/窍门？ 为了便于理解，我制作了一个针对情绪的简单待办事项应用程序：to-mood.vercel.app，它很容易与生产力、studyspo 等很多 Board 相关联。我刚刚在 Pinterest 上开始了自己的 Board，但我认为这根本不会有效。   由    /u/Important-Rain-4418  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1eb1vq7/any_luck_in_marketing_with_boards_to_join_on/</guid>
+      <pubDate>Wed, 24 Jul 2024 13:46:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>我建立了一个网站，帮助你找到学习相同在线课程/书籍的人</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1eb1dyx/i_built_a_website_that_helps_you_find_people/</link>
+      <description><![CDATA[大家好 我做了一个网站，可以根据你正在学习的特定课程/书籍找到学习伙伴/小组。 它是 100% 免费的 + 无需注册。 Moocable 原因：我知道有很多子版块可以寻找学习伙伴。但是，我们找不到合适的伙伴/小组的最大原因之一是缺乏清晰度。 我在 Reddit 上阅读的大多数帖子都是这样的：“我对编程很感兴趣。让我们一起学习 Python...”——这不是一个明确的目标。 但是，当你说“让我们学习 Coursera 上的Python for Everybody 课程。我来自印度孟买，正在寻找时区（UTC+5:30）内的学习伙伴。我能说一口流利的印地语。我有 2 年的 C++ 经验，因此我了解编程的基础知识。很高兴主持小组并做出贡献 - 这将带来更高质量的参与。 根据我的学习要求，在 Reddit 上搜索 + 过滤帖子也很困难。 考虑到所有这些痛点，我创建了 Moocable，您可以在其中根据您正在学习的课程/书籍 + 时区 + 语言 + 经验水平搜索和过滤帖子。 最后，您可以使用它来发现新的学习材料。你们中的一些人可能已经使用过 https://www.classcentral.com/ 我正在为 Moocable 构建一个类似的库，您可以轻松搜索和发现新的学习材料。 如果您正在寻找学习伙伴，请尝试一下！ 附注：我手动填写了前 ~100 篇帖子。每篇帖子都是 100% 真实的，从 subreddits/Coursera 论坛/利基网站抓取的。    提交人    /u/Junaid_kh   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1eb1dyx/i_built_a_website_that_helps_you_find_people/</guid>
+      <pubDate>Wed, 24 Jul 2024 13:23:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>技术联合创始人正在寻找新项目！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1eb15fw/tech_cofounders_looking_for_new_projects/</link>
+      <description><![CDATA[大家好， 我们是来自马来西亚公司 BixTech 的技术联合创始人团队，我们很高兴加入新项目！ 以下是我们可以提供帮助的方式：  我们可以以少量费用构建您的 MVP（最小可行产品），以确保承诺。 之后，我们将以利润分享的方式开展工作，因此我们都为您的成功投入了资金。 我们更喜欢已经规划好 Figma 设计或用户流程的 B2B 项目。  我们已经成功推出了 OMNE+，这是一款支持 120 多家室内设计公司的 B2B SaaS。    提交人    /u/yellingprogrammer   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1eb15fw/tech_cofounders_looking_for_new_projects/</guid>
+      <pubDate>Wed, 24 Jul 2024 13:13:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>软件即服务</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1eb0oz4/saas/</link>
+      <description><![CDATA[您知道 AI 可以通过分析用户行为来促进 SaaS 增长吗？对于独立黑客来说，这意味着个性化服务以满足实际需求！您如何调整自己的方法？查看 https://docspark.io 获取提示！    提交人    /u/LowBenefit5124   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1eb0oz4/saas/</guid>
+      <pubDate>Wed, 24 Jul 2024 12:51:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>帮我测试我的工具！！！评论你的目标市场，我将根据 Alex Hormozi 的 1 亿美元出价标准向你发送市场分析</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1eb0mfr/help_me_test_my_tool_comment_your_target_market/</link>
+      <description><![CDATA[        由    /u/notomarsol  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1eb0mfr/help_me_test_my_tool_comment_your_target_market/</guid>
+      <pubDate>Wed, 24 Jul 2024 12:48:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>ON Social - 与朋友见面的最快方式</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1eb07hr/on_social_fastest_way_to_meet_with_friends/</link>
+      <description><![CDATA[ON 是您轻松联系附近朋友并即时规划聚会的首选应用。除了位置共享之外，ON 还具有社交 AI 助手，可简化您的社交生活。使用 ON，您可以随时了解朋友在地图上的位置和活动，从而保持联系，当他们在附近时，您会收到通知。  借助您的个人 AI 助手，规划聚会变得轻而易举，它会根据您团队的位置和兴趣建议完美的会面地点。助手还会检查每个人的日程安排，为所有人找到方便的时间，设置提醒，让您不会错过聚会，并根据您的喜好提供个性化的活动建议。  使用基于位置的照片捕捉和分享回忆，让您表达自己的心情，并查看朋友去过哪里以及他们在做什么。 ON 让您完全控制谁可以查看您的位置和活动信息，从而确保您的隐私。 App Store 链接：~https://apps.apple.com/tr/app/on-social-fastest-way-to-meet/id6453477871~    提交人    /u/Long_Back8933   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1eb07hr/on_social_fastest_way_to_meet_with_friends/</guid>
+      <pubDate>Wed, 24 Jul 2024 12:27:32 GMT</pubDate>
+    </item>
     <item>
       <title>我创建了一个简单的图像编辑 API。现在我需要测试用户。</title>
       <link>https://www.reddit.com/r/SideProject/comments/1eb0501/i_created_a_simple_image_editing_api_now_i_need/</link>
@@ -18,97 +109,6 @@
       <description><![CDATA[今天我们在 Product Hunt 上启动了一个附带项目 (https://www.producthunt.com/posts/fireball-3)，到目前为止，这是我们在网站上获得的流量最多的一次！ 非常高兴继续尝试在 PH 上发布 - 其他人在那里成功了吗？我知道它可能很“尖锐”，所以我们也在寻找更可持续的方式来推广 Fireball    提交人   ​​ /u/patrickdevivo   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1eazzkb/launched_on_producthunt_today_getting_better_at/</guid>
       <pubDate>Wed, 24 Jul 2024 12:16:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>经过验证的想法数据库，这样你就可以构建人们想要的东西</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1eazzj1/database_of_validated_ideas_so_you_can_build/</link>
-      <description><![CDATA[我一直在一个网站上工作，在这个网站上我列出了独立黑客的工作，这些黑客在他们的产品开始赚钱之前正在寻找副业。 在这段时间里，我想我也可以帮助他们打造人们真正想要的产品，这样他们就不再需要副业了。 我在 X 和 Reddit 上做了研究，看看人们提到的事情和他们评论的问题，并用它来验证这些想法。 我将每周更新数据库，提供新想法，在这里查看，欢迎提供反馈。    提交人    /u/andymahowa   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1eazzj1/database_of_validated_ideas_so_you_can_build/</guid>
-      <pubDate>Wed, 24 Jul 2024 12:16:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>在你的机构中拥有强大流程的重要性</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1eazyhe/the_importance_of_having_strong_processes_in_your/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1eazyhe/the_importance_of_having_strong_processes_in_your/</guid>
-      <pubDate>Wed, 24 Jul 2024 12:14:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>你的下一个目标是什么？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1eazref/whats_your_next_goal/</link>
-      <description><![CDATA[大家好  我正尝试用其他企业家可能的愿景来启发我的路线图。  如果您愿意分享，我想知道您的下一个目标是什么？ 例如，将您的 MRR 增加到 X 金额，或者找到联合创始人，或者获得感兴趣的投资者……  那么您如何定义实现该目标需要做哪些活动以及在哪里管理该目标。  感谢分享     提交人    /u/Sarvaturi   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1eazref/whats_your_next_goal/</guid>
-      <pubDate>Wed, 24 Jul 2024 12:04:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>NotShipped - 寻找尚未启动的项目的产品</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1eazihn/notshipped_product_hunt_but_for_unlaunched/</link>
-      <description><![CDATA[嗨 Redditors， 过去一年我一直在做一些业余项目，有很多未启动的项目。然后我想，在这个领域工作多年的人也会有很多未启动的项目。 所以我创建了 NotShipped (https://www.notshipped.com) 来集体收集最好的未启动项目：  浏览并为您最喜欢的未启动项目点赞 编写您自己的项目  该网站是新的，今天上线。我会考虑这里发布的每一条反馈来改进它。 它在产品搜索上是实时的：https://www.producthunt.com/posts/notshipped 你可以在那里找到我：https://x.com/jaynpatel_ Jay P.    提交人    /u/jaypateln   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1eazihn/notshipped_product_hunt_but_for_unlaunched/</guid>
-      <pubDate>Wed, 24 Jul 2024 11:51:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们开发了一个招聘 IT 人才的平台</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1eazela/we_developed_a_platform_for_hiring_it_talent/</link>
-      <description><![CDATA[        提交人    /u/Infohunter_bookworm   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1eazela/we_developed_a_platform_for_hiring_it_talent/</guid>
-      <pubDate>Wed, 24 Jul 2024 11:45:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>了解这款每月收入超过 10 万美元的 iOS 应用如何改善其应用商店优化 (ASO)</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1eazc5k/learn_how_this_ios_app_making_100k_per_month/</link>
-      <description><![CDATA[      Procreate Pocket 是美国排名第 11 的顶级付费应用，Sensor Tower 估计其月收入为 10 万美元以上。它的定价为 5.99 美元，评分超过 11.8K+！ 但是，它的 ASO 策略忽略了多个方面。 修复其中一些问题可以进一步提高其下载量、收入和转化率。为了运行此审核，我使用了 GrowASO.com 的免费 ASO 审核工具。 https://preview.redd.it/9wuvzwioeged1.png?width=2434&amp;format=png&amp;auto=webp&amp;s=5359b1ea4742ec996cdd292f7360676340e91211 审核分数为 33，显然还有很大的改进空间： (1) 应用标题根本没有优化，30 个字符中只有 16 个。额外的空间应该容纳最重要的关键字（标题优先级最高） (2) 副标题在字符限制方面进行了优化，但使用了停用词，例如“and”、“on”。App Store 算法会跳过这些词，而是用客户可能在搜索 Procreate Pocket 等应用时使用的实际关键字替换（例如艺术生成、素描、画笔） (3) 好消息是，Procreate Pocket 很好地利用了本地化（审核工具显示有 18 种不同的语言），但在评分和评论方面，平均评分仍然较低 - 低于 4.5 的任何评分都对其他竞争对手来说都是一个机会。虽然大多数开发者可能不会直接认为这是一个 ASO 因素，但实际上它确实是，因为它们是应用商店喜欢的应用质量的最强指标！ (4) 审核工具显示描述也得到了很好的优化。虽然没有被 App Store 直接编入索引，但描述中的关键字可以帮助您的应用显示给通过 Google/网络/移动搜索引擎寻找类似应用的用户。我也将其添加为 iOS 应用的检查，以在 ASO 上提供额外的检查和指导。 (5) 虽然 GrowASO 还没有涉及，但我认为应用图标也有很大改进空间。自己看看 - 当前的图标在解释应用功能方面并不是最好的。 您认为他们还可以改进什么？    提交人    /u/Inevitable_Buddy1869   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1eazc5k/learn_how_this_ios_app_making_100k_per_month/</guid>
-      <pubDate>Wed, 24 Jul 2024 11:42:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个互动地球仪来发现令人惊叹的地方的令人惊叹的电子音乐视频</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1eaz9cz/i_made_an_interactive_globe_to_discover_amazing/</link>
-      <description><![CDATA[      我刚刚启动了我的最新的附带项目，一个互动地球仪，让您可以在世界各地令人惊叹的地方发现令人难以置信的电子音乐。 🌍🎧 https://beatxplorer.com/  我希望你能检查一下并告诉我你的想法！ beatxplorer.com    提交人    /u/Available_Cabinet181   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1eaz9cz/i_made_an_interactive_globe_to_discover_amazing/</guid>
-      <pubDate>Wed, 24 Jul 2024 11:38:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>创建了一款安卓应用游戏来资助我的学业。现在赠送这款 Word Cross Game 应用的 500 个促销代码。评论并获取代码</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1eaz4z4/created_an_android_app_game_to_fund_my_studies/</link>
-      <description><![CDATA[我想与您分享一个令人兴奋的项目：我制作的一款游戏，甚至在 codecanyon 上销售了多份。您可以在此处查看：https://play.google.com/store/apps/details?id=com.pixe.wordsearchgames 游戏是什么？它如何资助我的学业？ Word Search 提供了一种身临其境的体验，玩家可以通过具有挑战性的谜题来磨练他们的单词技能。进入一个旨在测试词汇量和逻辑的填字游戏世界，级别从简单到专家不等。 它如何资助我的学业？ 它将通过广告资助我的学业。我已经投放了非常少的广告。就像 5 到 10 个级别之间的一个。 如何使用促销代码 https://support.google.com/googleplay/answer/6379579?hl=en    提交人    /u/rossopy   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1eaz4z4/created_an_android_app_game_to_fund_my_studies/</guid>
-      <pubDate>Wed, 24 Jul 2024 11:31:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 终极数字规划器</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1eay2ub/2024_ultimate_digital_planner/</link>
-      <description><![CDATA[        提交人    /u/Hot-Manufacturer6940   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1eay2ub/2024_ultimate_digital_planner/</guid>
-      <pubDate>Wed, 24 Jul 2024 10:29:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找很酷的项目加入并担任技术联合创始人！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1eaxo5o/looking_for_cool_projects_to_join_as_technical/</link>
-      <description><![CDATA[大家好， 我们是来自马来西亚软件机构 BixTech 的开发团队（https://bixtech.co），我们正在寻找很棒的项目加入！ 情况是这样的：  我们将以少量费用帮助您构建 MVP — 只是为了确保您认真对待您的想法。 此后，我们将在利润分享的基础上开展工作。通过这种方式，我们双方都会致力于让您的项目取得成功。 我们更喜欢已经有 Figma 设计或用户流程规划好的 B2B 项目。  我们已经在 OMNE+ (https://landing.omneplus.com) 方面取得了成功，这是一家 B2B SaaS，正在为马来西亚和新加坡的 120 多家室内设计公司提供帮助。 如果您有想法并且需要一些技术力量，请联系我们。让我们一起创造一些令人惊叹的东西！    提交人    /u/yellingprogrammer   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1eaxo5o/looking_for_cool_projects_to_join_as_technical/</guid>
-      <pubDate>Wed, 24 Jul 2024 10:03:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一些东西来帮助人们，特别是学生更有效地自学</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1eaxfa6/i_built_something_that_will_help_people/</link>
-      <description><![CDATA[      这款应用名为“Mento”。 所以基本上，Mento 是一种以人工智能导师制形式提供的个性化在线学习体验。这是一种倾听您的问题并为您制定学习计划的工具，专门针对您的问题。它可确保您轻松访问概念，构建基础知识，引用可用于了解更多信息的外部资源，并为您提供提示和技巧。 查看  https://mento.byjit.com/ mento 页面视图 PS。Mento 处于验证阶段。我非常感谢您的反馈    提交人    /u/Ok-Sun2327   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1eaxfa6/i_built_something_that_will_help_people/</guid>
-      <pubDate>Wed, 24 Jul 2024 09:48:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>免费电子邮件发送 API，供个人使用。没有组织域</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1eaxdym/free_email_sending_api_for_personal_use_do_not/</link>
-      <description><![CDATA[大家好， 我正在为自己做一个项目。最后，我想给自己发送一封邮件。 我检查了 Sendgrid，但它要求使用非公共域。 怎么做？    提交人    /u/sayytoabhishekkumar   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1eaxdym/free_email_sending_api_for_personal_use_do_not/</guid>
-      <pubDate>Wed, 24 Jul 2024 09:45:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>NotShipped - Product Hunt，但针对未启动的项目</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1eaxbpo/notshipped_product_hunt_but_for_unlaunched/</link>
-      <description><![CDATA[  由    /u/jaypateln  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1eaxbpo/notshipped_product_hunt_but_for_unlaunched/</guid>
-      <pubDate>Wed, 24 Jul 2024 09:41:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
