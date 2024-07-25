@@ -4,7 +4,49 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Thu, 25 Jul 2024 01:01:04 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jul 2024 03:15:01 GMT</lastBuildDate>
+    <item>
+      <title>用于管理求职申请和面试的简单应用程序。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ebk62e/simple_app_for_managing_job_applications_and/</link>
+      <description><![CDATA[      我最近推出了一款名为 JobSnail 的用于跟踪工作申请和面试的应用程序。如果您因必须使用 Google Docs 或普通笔记等通用工具管理数百个应用程序而不知所措，并且难以跟踪面试，JobSnail 可能就是您需要的解决方案。 JobSnail 最初是为了满足特定的个人需求而开发的，通过 UX 改进和彻底的重新设计，它已经取得了长足的进步，使其可以为更广泛的使用做好准备，并可能对其他人有所帮助。 JobSnail 有两个版本：免费的基于 Web 的应用程序和高级 macOS 版本。值得一提的是，这两个版本都通过 iCloud 完全同步！ 您可以在jobsnail.app查看免费的网络版本 如果您发现它有用并且想要桌面应用程序的便利性，或者想要支持进一步开发，请考虑购买高级 macOS 版本，它包含额外的功能。 我发这篇文章是为了征求一些关于这个应用程序的反馈。欢迎大家提出意见！ 截图： https://preview.redd.it/jne0sf9kwked1.jpg?width=2560&amp;format=pjpg&amp;auto=webp&amp;s=82958961c8f97f0b533af468d884c1aca597af74 https://preview.redd.it/fksakaakwked1.jpg?width=2560&amp;format=pjpg&amp;auto=webp&amp;s=b1ec68e7a92741ab4539b804758ed8a69d5e85d4 https://preview.redd.it/8tum3h9kwked1.jpg?width=2560&amp;format=pjpg&amp;auto=webp&amp;s=a26fcd8555ec76f5fc95ae4214252789d194b347 https://preview.redd.it/0zuipj9kwked1.jpg?width=2560&amp;format=pjpg&amp;auto=webp&amp;s=81501819c1071799b5c90a59addb47bb87d2cb02    提交人    /u/netsplatter   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ebk62e/simple_app_for_managing_job_applications_and/</guid>
+      <pubDate>Thu, 25 Jul 2024 02:49:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI 财务助理、社区和资源</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ebk0q2/ai_financial_assistant_community_resources/</link>
+      <description><![CDATA[      Luna（Paradoxly） 无需再查阅图表、Excel 文档、银行对账单或交易历史记录。现在是时候见见 Luna 了 - 您自己的财务伴侣！ 全天候可用！ Paradoxly（应用展示） 欢迎来到 Paradoxly - 通往个人理财未来的大门，在这里您轻松开始走向财务自由的旅程。 好的，让我看看！ （点击此处）    由    /u/Softwurx 提交   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ebk0q2/ai_financial_assistant_community_resources/</guid>
+      <pubDate>Thu, 25 Jul 2024 02:42:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>我太无聊了，开发了一个 AI 塔罗牌阅读工具。现在我的同事每天都在用它问各种奇怪的问题</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ebiqkf/i_got_super_bored_and_develop_an_ai_tarot_reading/</link>
+      <description><![CDATA[      其中一人问谁会赢得 2024 年美国大选……🤔🤔    提交人    /u/There_ssssa   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ebiqkf/i_got_super_bored_and_develop_an_ai_tarot_reading/</guid>
+      <pubDate>Thu, 25 Jul 2024 01:38:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个自动化网页搜索的工具</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ebifba/i_made_a_tool_to_automate_web_search/</link>
+      <description><![CDATA[ 提问：提交您需要了解的任何内容的详细查询。 跟踪答案：Alertfor 会在“开放”网络中搜索最相关、最新的答案。 保持更新：只要问题有变化或有新信息，您就会收到持续更新。  一些很好的用例：https://x.com/saran945/status/1815053564709843335 产品：alertfor.com    提交人    /u/EarlyPlantain7810   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ebifba/i_made_a_tool_to_automate_web_search/</guid>
+      <pubDate>Thu, 25 Jul 2024 01:23:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个“活的”开源数据集来比较顶级人工智能模型，这些数据集由一个人工智能代理团队精心挑选。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ebif71/i_made_a_living_opensource_dataset_to_compare_top/</link>
+      <description><![CDATA[嘿，sideprojects，我想你可能会对这个side project感兴趣，特别是如果你喜欢摆弄大型语言模型的话。 这是一个“活的”数据集，用于比较顶级语言模型。它是活的，因为它总是与最新模型保持同步，因为当顶级公司发布新模型时，LLM 代理会运行数据输入。 这是活的数据集！ 我希望添加新功能，例如当新模型进来时发出通知，并且我希望开源代码（而不仅仅是打开数据集本身）来生成数据集。    提交人    /u/Confident-Honeydew66   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ebif71/i_made_a_living_opensource_dataset_to_compare_top/</guid>
+      <pubDate>Thu, 25 Jul 2024 01:23:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>有趣的小型 4x4 海滩通道坡道应用程序</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ebi2xb/fun_little_4x4_beach_access_ramp_app/</link>
+      <description><![CDATA[我为什么制作这个应用程序 佛罗里达美丽的海岸线为海滩驾驶提供了独特的机会，这是当地人和游客都喜爱的活动。然而，找到最好的 4x4 海滩通道坡道并随时了解最新情况可能具有挑战性。我使用 Glide Apps 创建了 Florida Drive On Beaches 应用程序来解决这个问题，为所有海滩驾驶员提供无缝和愉快的体验。 每个县都有自己的带有坡道信息的应用程序，但我鼓励你看看它们......你会明白我为什么创建这个。无论如何，任何建议、反馈、功能想法等都受到强烈鼓励。 https://www.floridadriveonbeaches.com/ 干杯    提交人    /u/EnvironmentalSkin622   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ebi2xb/fun_little_4x4_beach_access_ramp_app/</guid>
+      <pubDate>Thu, 25 Jul 2024 01:06:39 GMT</pubDate>
+    </item>
     <item>
       <title>我以独立开发者的身份开发了一款音频和视频文件转录工具</title>
       <link>https://www.reddit.com/r/SideProject/comments/1ebh3vh/i_built_a_transcription_tool_for_audio_and_video/</link>
@@ -15,7 +57,7 @@
     <item>
       <title>我为小型企业制作了虚拟接待员服务。完全可定制。任何人都可以用它为自己的企业创建一个声音自然的电话接待员。</title>
       <link>https://www.reddit.com/r/SideProject/comments/1ebg795/i_made_a_virtual_receptionist_service_for_small/</link>
-      <description><![CDATA[      过去，我曾为我的企业使用过不同的虚拟接待员服务，但我总是发现他们非常不友好且不合格。这就是我制作 Greetmate.ai 的原因&gt; Greetmate.ai 利用先进人工智能的力量来提供易于使用、声音自然的虚拟接待员。它非常适合希望确保不会错过任何电话、捕获潜在客户并提供优质客户服务的小型企业。 https://reddit.com/link/1ebg795/video/qsxmtut1yjed1/player    提交人    /u/ChrisTheCoder_   [链接] [评论] ]]></description>
+      <description><![CDATA[      仪表板 过去，我的公司曾使用过不同的虚拟接待员服务，但我总是发现他们非常不友好且不合格。 这就是我制作 Greetmate.ai 的原因。  Greetmate.ai 利用先进人工智能的力量来提供易于使用、听起来自然的虚拟接待员。 它非常适合希望确保不会错过任何电话、捕获潜在客户并提供优质客户服务的小型企业。    提交人    /u/ChrisTheCoder_   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1ebg795/i_made_a_virtual_receptionist_service_for_small/</guid>
       <pubDate>Wed, 24 Jul 2024 23:38:43 GMT</pubDate>
     </item>
@@ -67,48 +109,6 @@
       <description><![CDATA[        由    /u/PickleDue3394   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1ebcsz5/day_15_of_coding_simple_tools_every_day_barcode/</guid>
       <pubDate>Wed, 24 Jul 2024 21:12:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>将 chatGPT 方程式直接转换为 Word/PDF</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ebchg6/convert_chatgpt_equations_direct_to_wordpdf/</link>
-      <description><![CDATA[请尝试我的工具并让我知道您的反馈。 https://www.assignmenthelp.net/massivemark 如果您曾经需要任何帮助将内容从 chatGPT 复制到 word（或从任何 LLM 复制），而无需所有背景、哈希、Asterix 并且仍然保留其格式（表格代码内容方程式公式），然后尝试一下并告诉我。  更多解释：https://www.assignmenthelp.net/qa/answer/how-to-copy-any-equation-from-chatgpt-to-word/65c204aa67a0be60937f0261    提交人    /u/SystemMobile7830   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ebchg6/convert_chatgpt_equations_direct_to_wordpdf/</guid>
-      <pubDate>Wed, 24 Jul 2024 21:00:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>我开发了一个人工智能工具来生成真正能转化的冷电子邮件</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ebc4uv/i_built_an_ai_tool_to_generate_cold_emails_that/</link>
-      <description><![CDATA[        提交人    /u/Krxcken   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ebc4uv/i_built_an_ai_tool_to_generate_cold_emails_that/</guid>
-      <pubDate>Wed, 24 Jul 2024 20:45:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>为您提供情感支持的免费个人人工智能伴侣</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ebbx6a/your_free_personal_ai_companion_for_emotional/</link>
-      <description><![CDATA[      很高兴与大家分享我的 AI Companion 项目 — 一个支持性、富有同理心的伴侣，可通过电话联系，现在增强了睡眠指导课程、冥想练习和心理健康工具。它尊重隐私，不保留任何个人数据，旨在让所有人都能获得心理健康支持。您的反馈决定了它的发展 — 让我们让陪伴和幸福工具更容易获得！ 请测试一下 🚀 https://sakoon-tau.vercel.app    提交人    /u/Repulsive-Bedroom883   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ebbx6a/your_free_personal_ai_companion_for_emotional/</guid>
-      <pubDate>Wed, 24 Jul 2024 20:37:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个匹配应用程序，供开发人员一起构建、学习和编码。https://pairbyte.net/</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ebbssv/i_created_a_matching_app_for_developers_to_build/</link>
-      <description><![CDATA[        提交人    /u/err0rzdev   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ebbssv/i_created_a_matching_app_for_developers_to_build/</guid>
-      <pubDate>Wed, 24 Jul 2024 20:32:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个网站来帮助科幻和奇幻作家获得比写作小组更好的反馈</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ebbc3n/i_made_a_site_to_help_scifi_fantasy_writers_get/</link>
-      <description><![CDATA[    /u/ngatsetan   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ebbc3n/i_made_a_site_to_help_scifi_fantasy_writers_get/</guid>
-      <pubDate>Wed, 24 Jul 2024 20:13:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>希腊本地指南</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ebb9t7/a_locals_guide_to_greece/</link>
-      <description><![CDATA[我会简短地介绍一下背景故事。我是一个希腊人，过去 8 年一直生活在美国，过去 8 年来，每当我告诉别人我是希腊人时，他们都会告诉我他们有多喜欢希腊，或者非常想去希腊旅游。 几个月前，我被技术部门解雇了，由于我的孩子即将出生，所以我仍在积极寻找工作，但与此同时…… 我决定化消极为积极，创办一份由当地人为美国游客撰写的时事通讯。希腊有 6000 个岛屿，80% 为山区，是地球上游客最多的国家之一，但大多数游客只参观少数几个岛屿，而不会探索其余岛屿。 我与一位从事旅游业的朋友合作，我们的目标是向人们介绍人迹罕至、鲜为人知和鲜为人知的地方、美食、海滩、岛屿、历史、村庄、购物、豪华旅行、酒店、隐藏的宝石等（除非您是当地人） 我们目前有 167 名订阅者，我们的目标是在发布前（8 月 7 日）达到 500 名。我们还与一家旅游保险公司有潜在的赞助关系（仍在等待确认） 我认为我们在发布前的副业做得很好，但任何反馈/提示都将不胜感激    提交人    /u/Blanco_ice   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ebb9t7/a_locals_guide_to_greece/</guid>
-      <pubDate>Wed, 24 Jul 2024 20:10:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
