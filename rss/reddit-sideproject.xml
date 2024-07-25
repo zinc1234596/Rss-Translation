@@ -4,7 +4,63 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Wed, 24 Jul 2024 21:13:31 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jul 2024 01:01:04 GMT</lastBuildDate>
+    <item>
+      <title>我以独立开发者的身份开发了一款音频和视频文件转录工具</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ebh3vh/i_built_a_transcription_tool_for_audio_and_video/</link>
+      <description><![CDATA[      此工具利用 OpenAI 的 Whisper 模型将音频或视频文件转录为文本。其工作原理如下：  访问 videotobe.com/tools/transcribe。 拖放您的媒体文件。支持最常见的视频和音频格式，如 mp3 和 mp4 等。 输入您的电子邮件。请确保提供正确的电子邮件，以便您可以接收完成的转录。 上传文件。 如果音频不是英语语言，您可以选择将其翻译成英语。 单击“下一步”并开始转录。 几分钟后，您将收到一封附有转录本的电子邮件。  此工具简化了内容创建者、教育工作者和研究人员等专业人士的内容分析。 您可以通过多种方式使用转录本：  将转录本提供给 ChatGPT，并询问有关媒体文件中讨论的主题的问题。 要求 ChatGPT 总结长音频或撰写博客文章。 根据内容生成营销电子邮件。 可能性无穷无尽！  我以独立开发人员的身份构建了此工具。请在videotobe.com/tools/transcribe上试用。我很乐意听取您的反馈！ 谢谢！ https://reddit.com/link/1ebh3vh/video/3wbjsr006ked1/player    提交人    /u/meera_datey   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ebh3vh/i_built_a_transcription_tool_for_audio_and_video/</guid>
+      <pubDate>Thu, 25 Jul 2024 00:19:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>我为小型企业制作了虚拟接待员服务。完全可定制。任何人都可以用它为自己的企业创建一个声音自然的电话接待员。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ebg795/i_made_a_virtual_receptionist_service_for_small/</link>
+      <description><![CDATA[      过去，我曾为我的企业使用过不同的虚拟接待员服务，但我总是发现他们非常不友好且不合格。这就是我制作 Greetmate.ai 的原因&gt; Greetmate.ai 利用先进人工智能的力量来提供易于使用、声音自然的虚拟接待员。它非常适合希望确保不会错过任何电话、捕获潜在客户并提供优质客户服务的小型企业。 https://reddit.com/link/1ebg795/video/qsxmtut1yjed1/player    提交人    /u/ChrisTheCoder_   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ebg795/i_made_a_virtual_receptionist_service_for_small/</guid>
+      <pubDate>Wed, 24 Jul 2024 23:38:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了 FullMoonChat — 一个深奥的 Telegram 机器人，里面有凯撒、拿破仑、柏拉图、伊玛目等人</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1eben8y/i_made_fullmoonchat_an_esoteric_telegram_bot_with/</link>
+      <description><![CDATA[    /u/xevolito   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1eben8y/i_made_fullmoonchat_an_esoteric_telegram_bot_with/</guid>
+      <pubDate>Wed, 24 Jul 2024 22:31:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了 Healer，一个可以随时随地使用的 AI 诊所</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ebemjt/i_made_healer_an_ondemand_ai_clinic_in_your/</link>
+      <description><![CDATA[        由    /u/xevolito  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ebemjt/i_made_healer_an_ondemand_ai_clinic_in_your/</guid>
+      <pubDate>Wed, 24 Jul 2024 22:30:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>烘焙我的第一个 iOS 应用 (SnapRecipe)</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ebe67r/roast_my_first_ios_app_snaprecipe/</link>
+      <description><![CDATA[      Web 开发人员在 SwiftUI 中迈出第一步 - SnapRecipe。 基本上是一个非常简单的食谱应用程序，可让您拍摄食材的照片，并根据这些照片为您提供食谱建议（使用 GPT-4o 进行多模式）。 欢迎就创意、设计、用户体验、营销材料或任何方面提出建议！    提交人    /u/ClassicNullPointer   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ebe67r/roast_my_first_ios_app_snaprecipe/</guid>
+      <pubDate>Wed, 24 Jul 2024 22:09:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>RealVestate - 房地产投资指标浏览器扩展</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ebdy7g/realvestate_real_estate_investment_metrics/</link>
+      <description><![CDATA[作为一名崭露头角的房地产投资者，我意识到很难确定 2-4 个单元多户型投资物业的 GRM、资本化率和现金流。我设置了常用的 Zillow 和 Redfin 提醒，但我总是不得不浏览所有列表以查找租金等，然后单独计算指标。我必须在电子表格中管理所有这些……  因此，为了解决我的难题，我构建了一个名为 RealVestate 的 Chrome 扩展程序来让我的生活更轻松。各位房地产投资者，您会觉得这个有用吗？ *它目前仅适用于 Redfin 和多户型物业。  感谢您分享您的想法和反馈！    提交人    /u/peresztegi   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ebdy7g/realvestate_real_estate_investment_metrics/</guid>
+      <pubDate>Wed, 24 Jul 2024 21:59:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个免费的 Chrome 扩展程序，可以生成域名并立即检查域名的可用性 - Domain Detective</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ebdw8q/i_made_a_free_chrome_extension_that_generates/</link>
+      <description><![CDATA[      https://chromewebstore.google.com/detail/domain-detective-domain-g/idjoeibbbkgpjlffenlkbdilnmmdmggg domaindet.com 域名生成由 OpenAI (GPT-4) 提供支持。 此外，它可以在浏览网页时检测过期的域名。 另一个功能允许您直接在浏览器搜索栏中输入域名，如果可用，它将被添加到您的列表中。 https://preview.redd.it/m6h6kxr6gjed1.png?width=1024&amp;format=png&amp;auto=webp&amp;s=a6b28c75eca91e9e2f4c077cf805f273faec5232    提交人    /u/ishomme   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ebdw8q/i_made_a_free_chrome_extension_that_generates/</guid>
+      <pubDate>Wed, 24 Jul 2024 21:57:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个工具，用于研究和创建针对 B2B 潜在客户的个性化电子邮件</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ebdnk8/i_made_a_tool_that_researches_and_creates/</link>
+      <description><![CDATA[        由    /u/Odd_Relative2581   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ebdnk8/i_made_a_tool_that_researches_and_creates/</guid>
+      <pubDate>Wed, 24 Jul 2024 21:47:48 GMT</pubDate>
+    </item>
     <item>
       <title>每天编码简单工具第 15 天 - 条形码生成器</title>
       <link>https://www.reddit.com/r/SideProject/comments/1ebcsz5/day_15_of_coding_simple_tools_every_day_barcode/</link>
@@ -53,62 +109,6 @@
       <description><![CDATA[我会简短地介绍一下背景故事。我是一个希腊人，过去 8 年一直生活在美国，过去 8 年来，每当我告诉别人我是希腊人时，他们都会告诉我他们有多喜欢希腊，或者非常想去希腊旅游。 几个月前，我被技术部门解雇了，由于我的孩子即将出生，所以我仍在积极寻找工作，但与此同时…… 我决定化消极为积极，创办一份由当地人为美国游客撰写的时事通讯。希腊有 6000 个岛屿，80% 为山区，是地球上游客最多的国家之一，但大多数游客只参观少数几个岛屿，而不会探索其余岛屿。 我与一位从事旅游业的朋友合作，我们的目标是向人们介绍人迹罕至、鲜为人知和鲜为人知的地方、美食、海滩、岛屿、历史、村庄、购物、豪华旅行、酒店、隐藏的宝石等（除非您是当地人） 我们目前有 167 名订阅者，我们的目标是在发布前（8 月 7 日）达到 500 名。我们还与一家旅游保险公司有潜在的赞助关系（仍在等待确认） 我认为我们在发布前的副业做得很好，但任何反馈/提示都将不胜感激    提交人    /u/Blanco_ice   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1ebb9t7/a_locals_guide_to_greece/</guid>
       <pubDate>Wed, 24 Jul 2024 20:10:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>我发布了我的第一个 iOS 应用。带有日历网格的习惯/目标追踪器。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1eb9v5i/i_launched_my_first_ios_app_habitgoal_tracker/</link>
-      <description><![CDATA[        提交者    /u/nik-garmash   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1eb9v5i/i_launched_my_first_ios_app_habitgoal_tracker/</guid>
-      <pubDate>Wed, 24 Jul 2024 19:13:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年创业目录还能盈利吗？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1eb9fx4/are_startup_directories_still_profitable_in_2024/</link>
-      <description><![CDATA[我看到一些帖子，人们提到他们的目录才刚刚成立几周，就已经开始产生收入。这有多少真实性？您认为初创目录会在当今市场上产生收入吗？    由   提交  /u/tweera_app   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1eb9fx4/are_startup_directories_still_profitable_in_2024/</guid>
-      <pubDate>Wed, 24 Jul 2024 18:56:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>尽快验证你的想法</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1eb8yec/get_your_ideas_validated_asap/</link>
-      <description><![CDATA[许多开发人员正在使用 Python 为他们的企业开发 AI 软件，因此我创建了一个 Django 样板来帮助开发人员尽快验证他们的想法。  Www.djangoship.com  请查看并感谢所有提供反馈的人。     提交人    /u/MinuteDistribution31   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1eb8yec/get_your_ideas_validated_asap/</guid>
-      <pubDate>Wed, 24 Jul 2024 18:37:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>我为您的 SaaS 构建了一个由人工智能驱动的客户电子邮件支持系统</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1eb8sf0/i_built_an_aipowered_customer_email_support/</link>
-      <description><![CDATA[嘿，我是 Rudolfs 👋 自从我在 2024 年 6 月推出 ExpoShip 以来，我收到了大量电子邮件，我无法跟上。 起初，我为自己构建了 MailShip，以帮助我回复收到的所有电子邮件。它帮助我节省了大量时间，让我专注于构建我的核心产品。 我意识到，我可能不是唯一需要这个的人。 所以我推出了 MailShip。 https://mailship.dev    提交人    /u/rudolfscode   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1eb8sf0/i_built_an_aipowered_customer_email_support/</guid>
-      <pubDate>Wed, 24 Jul 2024 18:30:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>拖放 API 访问？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1eb80gp/drag_and_drop_api_access/</link>
-      <description><![CDATA[想知道是否有人知道一个平台，我可以在该平台上制作 api 管道来试用并查看不同的输出，例如将 Claude 运行到 OpenAI 图像生成等？    提交人    /u/Pickles1551   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1eb80gp/drag_and_drop_api_access/</guid>
-      <pubDate>Wed, 24 Jul 2024 17:58:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>Typeform 的替代品，终身优惠</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1eb7q1q/typeform_alternative_with_a_lifetime_deal/</link>
-      <description><![CDATA[  由    /u/heyarviind  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1eb7q1q/typeform_alternative_with_a_lifetime_deal/</guid>
-      <pubDate>Wed, 24 Jul 2024 17:47:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>我开发了一款人工智能应用，可以根据你的自拍照制作出专业的头像</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1eb7pew/i_built_an_ai_app_that_creates_professional/</link>
-      <description><![CDATA[大家好， 很高兴与大家分享 Quick Headshots (https://www.quickheadshots.com)。 它可以从您的自拍照和各种风格的照片中生成高质量的专业头像。无需摄影师。价格实惠，节省时间和金钱。 作为一名人工智能和摄影爱好者，我想构建一个专业的头像生成器，专注于质量并优先考虑准确性和真实的结果。相信您会喜欢结果。提供 100% 退款保证。 请访问 https://www.quickheadshots.com 尝试一下。 谢谢！    提交人    /u/r_ms7   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1eb7pew/i_built_an_ai_app_that_creates_professional/</guid>
-      <pubDate>Wed, 24 Jul 2024 17:46:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>我很想获得您关于此事的宝贵信息。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1eb690h/id_love_to_get_your_valuable_information_on_this/</link>
-      <description><![CDATA[我想到了一个应用程序的想法，它使用人工智能帮助用户进行时尚和造型设计。我可以在我的应用程序中添加哪些功能和创新，使其更有用和更有价值，以便企业可以真正使用它。你对此有什么看法？    提交人    /u/ghulammustafa_1   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1eb690h/id_love_to_get_your_valuable_information_on_this/</guid>
-      <pubDate>Wed, 24 Jul 2024 16:48:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
