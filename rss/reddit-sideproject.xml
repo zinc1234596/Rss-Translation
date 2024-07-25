@@ -4,7 +4,91 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Thu, 25 Jul 2024 12:26:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jul 2024 15:13:53 GMT</lastBuildDate>
+    <item>
+      <title>模拟（基于人工智能）用户测试的 Alpha 演示 [开源]</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ebxcur/alpha_demo_of_simulated_ai_based_user_testing/</link>
+      <description><![CDATA[大家好，我创建了一个小工具，它可以让您从“模拟（基于 AI）的用户”那里获得对您设计的反馈。您可以选择预设问题让 AI 用户回答，也可以输入您自己的问题。 我希望这个工具可以帮助您在向真实用户展示设计之前完善设计。 我很乐意听到您的想法和反馈！ 我正在考虑为 AI 添加角色进行角色扮演，并进行其他一些增强。还有很多工作要做，但我想与您分享这个早期版本。 在 Github 上：源代码 在 Youtube 上：视频演示    由   提交  /u/Dream-Dimension   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ebxcur/alpha_demo_of_simulated_ai_based_user_testing/</guid>
+      <pubDate>Thu, 25 Jul 2024 15:12:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>我使用虚幻引擎制作了一个带有天气模拟和 API 数据的数字孪生。你想看到什么新功能吗？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ebwwhe/i_made_a_digital_twin_with_weather_simulation_and/</link>
+      <description><![CDATA[        提交人    /u/Zestyclose_Score4262   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ebwwhe/i_made_a_digital_twin_with_weather_simulation_and/</guid>
+      <pubDate>Thu, 25 Jul 2024 14:54:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>冰淇淋的含义</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ebvj6c/the_meaning_of_ice_cream/</link>
+      <description><![CDATA[      我制作的一个小游戏，“游戏即艺术”。     提交人    /u/d34dw3b   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ebvj6c/the_meaning_of_ice_cream/</guid>
+      <pubDate>Thu, 25 Jul 2024 13:56:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>从系统工程师到应用程序开发人员：我减少食物浪费和简化膳食计划的历程</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ebvhei/from_system_engineer_to_app_developer_my_journey/</link>
+      <description><![CDATA[嘿 Reddit， 我原本是一名系统工程师，但从 2024 年初开始，我一直在学习编码以实现我的一个想法。今天，我终于发布了我一直想要的应用程序的第一个原型。 简而言之，我创建的应用程序将帮助任何人（从学生到我的祖母）：  节省时间 减少精神负担 发现新食谱 减少食物浪费 100％基于我们的偏好 奖励：跟踪宏  我希望你会喜欢这个应用程序。 这是我第一次做这样的事情，我知道它并不完美，但我真的相信它有潜力。 希望得到您的反馈 凯文    提交人    /u/Azilone   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ebvhei/from_system_engineer_to_app_developer_my_journey/</guid>
+      <pubDate>Thu, 25 Jul 2024 13:54:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>🤦‍♂️ 对找工作（作为软件工程师）感到烦恼，所以我创建了一个扩展程序，可以在几秒钟内完成申请！🦄✨</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ebvde6/annoyed_with_job_hunt_as_a_software_eng_so_i/</link>
+      <description><![CDATA[        提交人    /u/_moniet   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ebvde6/annoyed_with_job_hunt_as_a_software_eng_so_i/</guid>
+      <pubDate>Thu, 25 Jul 2024 13:49:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>我在 App Store 和 Google Play 上制作了最简单的日记应用程序（在测试了大量应用程序之后）</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ebvbpi/i_made_the_simplest_journal_app_on_the_app_store/</link>
+      <description><![CDATA[我很高兴在 App Store 和 Google Play 上分享我的最新项目 Reflectary！Reflectary 是一款独特且非常简单的日记应用，它使用人工智能将您的日常反思转化为精美的日记条目。无论您喜欢写下您的想法还是使用语音笔记，Reflectary 都能满足您的需求。每天结束时，该应用都会生成一个个性化的日记条目，并附有独特的封面图片（几乎所有在我采访的应用测试后的第一反应都是哇哦） 主要特点：  通过文本或语音添加反思 AI 生成的日记条目 每个条目的自定义封面图片 根据您的反思发送定制通知，以触发更多问题，让您更深入地了解自己的感受和反思。  我在这里回答有关 Reflectary 的任何问题，无论是关于技术堆栈（我们将 Expo 与 React-Native、reduxjs/toolkit、Firebase 等结合使用）、开发过程，还是应用背后的灵感。也非常欢迎您的反馈和建议！ 期待您的想法和问题！    提交人    /u/reflectary   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ebvbpi/i_made_the_simplest_journal_app_on_the_app_store/</guid>
+      <pubDate>Thu, 25 Jul 2024 13:47:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>了解 Canva 在应用商店优化 (ASO) 方面做得如何</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ebvb28/learn_what_canva_gets_right_in_their_app_store/</link>
+      <description><![CDATA[      想要了解 ASO 指南和策略如何看待一家价值数十亿美元的公司的应用列表？ 查看 Canva 的商店列表。他们的 ASO 团队值得加薪 - 他们的应用列表 100％ 有效遵循了每条 ASO 指南。  这是他们做对的地方 🟢💯  应用标题写得非常完美，使用了整整 30 个字符，完全超出了字符限制 标题包含所有重要、相关的关键字。尤其是“设计”，流量估算很高，在美国排名第三 副标题也经过了很好的优化，使用了 28 个字符，并且都是唯一的关键字 - 没有与标题重复的单词/关键字 屏幕截图干净、简单，并从其主要 USP（“设计任何东西”开始，然后通过模板、AI 功能甚至视频/音乐功能展示易用性）。屏幕截图中的字体足够大，可以在小手机屏幕上看到，并且不会太重而分散眼球  像 Canva 这样拥有大量品牌追随者和共鸣的公司意识到了正确处理 ASO 的重要性，并努力做到这一点。即使对于中小型开发商来说，正确处理 ASO 也是必不可少的，这样才能有效地争夺眼球，并以具有成本效益的方式吸引用户。优化良好的列表是开发者之间的区别，开发者的应用经常有机会以有时甚至超出他们能力的关键词进行展示，而那些开发者只是假设人们会因为他们推出应用而来。 请记住，应用列表中的所有内容都很重要，应用质量也很重要。 标题/副标题/关键字字段中的关键字 -&gt; 通过向算法发出信号，告知应该为你的 应用推荐哪种关键字，有助于提高相关性/向正确的受众展示应用 图标/屏幕截图/预览视频 -&gt;帮助确保最少的流失率并提高您的转化率，这是一个重要的应用排名信号 应用质量 -&gt; 非常重要，因为评级和评论对您的排名至关重要，因为商店只希望客户看到高质量的应用 ASO 是一个迭代过程 - 继续努力并使用数据完善和试验您的列表。    提交人    /u/Inevitable_Buddy1869   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ebvb28/learn_what_canva_gets_right_in_their_app_store/</guid>
+      <pubDate>Thu, 25 Jul 2024 13:46:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>交互式电子表格学习</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ebu83s/interactive_spreadsheet_learning/</link>
+      <description><![CDATA[我正在构建一个移动应用程序，帮助用户通过游戏化体验学习电子表格。它是免费的。适用于 Android 和 iOS。 https://apps.apple.com/us/app/nuum-learn-spreadsheets/id6502941256 https://play.google.com/store/apps/details?id=nuum.tech.app&amp;pli=1 非常感谢任何反馈    提交人    /u/reptiloide666   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ebu83s/interactive_spreadsheet_learning/</guid>
+      <pubDate>Thu, 25 Jul 2024 12:57:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了一个众包网站，收集 50 个最佳未启动项目</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ebu54b/i_made_a_site_that_crowdsources_the_50_best/</link>
+      <description><![CDATA[嗨 Redditors， 过去一年我一直在做一些业余项目，有很多未启动的项目。然后我想，在这个领域工作多年的人也会有很多未启动的项目。 所以我创建了 NotShipped (https://www.notshipped.com) 来集体收集最好的未启动项目：  浏览并为您最喜欢的未启动项目点赞 编写您自己的项目  该网站是新的，几天前才上线。我会考虑这里发布的每一条反馈，以改进它。 你可以在那里找到我：https://x.com/jaynpatel_ Jay P.    提交人    /u/jaypateln   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ebu54b/i_made_a_site_that_crowdsources_the_50_best/</guid>
+      <pubDate>Thu, 25 Jul 2024 12:53:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>我为团队/人员页面制作了一个一致的团队资料照片生成器</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ebu2pe/i_made_a_consistent_team_profile_photo_generator/</link>
+      <description><![CDATA[        提交人    /u/topalignnet   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ebu2pe/i_made_a_consistent_team_profile_photo_generator/</guid>
+      <pubDate>Thu, 25 Jul 2024 12:50:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>无服务器架构：简化 Web 应用程序开发</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ebu1pt/serverless_architecture_simplifying_web_app/</link>
+      <description><![CDATA[        提交人    /u/anujtomar_17   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ebu1pt/serverless_architecture_simplifying_web_app/</guid>
+      <pubDate>Thu, 25 Jul 2024 12:48:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个使用人工智能创建和打印独特贺卡的工具</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ebtlug/i_made_a_tool_to_create_and_print_unique_greeting/</link>
+      <description><![CDATA[        由    /u/OkMagician5944   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ebtlug/i_made_a_tool_to_create_and_print_unique_greeting/</guid>
+      <pubDate>Thu, 25 Jul 2024 12:27:08 GMT</pubDate>
+    </item>
     <item>
       <title>对于新独立建设者：获取免费登陆页面评论和内容创意！</title>
       <link>https://www.reddit.com/r/SideProject/comments/1ebtjfl/for_new_indie_builders_get_free_landing_page/</link>
@@ -25,90 +109,6 @@
       <description><![CDATA[使用我们的免费 Chrome 扩展程序简化您的亚马逊购物体验！ https://chromewebstore.google.com/detail/amazon-kindle-product-pre/moigbafcjbfekhhalekloooobhdgchag  使用我们的亚马逊 Kindle 产品预览器 Chrome 扩展程序发现即时预览的强大功能！ 功能：只需将鼠标悬停在任何页面上，即可从详细信息页面即时预览亚马逊和 Kindle 产品和书籍的详细信息和价格，而无需离开页面！  用途： - 增强您的 Amazon Kindle 购物和图书浏览功能 - 通过闪电般的预览增强您的 Chrome 浏览体验 - 在 Amazon 上解锁高效的购物和发现  如果您不使用这个会怎样？   您在页面之间来回导航浪费了时间 打开大量标签会减慢浏览器速度 您错过了有价值的商品信息 您的购物体验更慢、效率更低   立即试用 Amazon Item Previewer，改变您的 Amazon 浏览体验！请分享您的反馈。     提交人    /u/Contentifyy   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1ebsori/amazon_and_kindle_previewer/</guid>
       <pubDate>Thu, 25 Jul 2024 11:38:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人想要一个带有身份验证和受保护路由的免费 Python-Flask 模板吗？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ebsc0k/anyone_want_a_free_pythonflask_template_with_auth/</link>
-      <description><![CDATA[我花了比我想承认的更长的时间才找到一个好的最新教程，教我如何制作一个可以轻松与 flask-auth 一起使用的 python flask 模板，所以我为它制作了一个模板代码库。 如果您需要它，请在下面评论，我可以向您发送链接。设置超级简单，使用 poetry 进行包管理。只提供基本的 HTML 页面。    提交人    /u/build-good-stuff   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ebsc0k/anyone_want_a_free_pythonflask_template_with_auth/</guid>
-      <pubDate>Thu, 25 Jul 2024 11:17:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>我正在构建短篇内容的 SEM RUSH，希望得到一些反馈。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ebs35n/i_am_building_the_sem_rush_of_short_form_content/</link>
-      <description><![CDATA[最初只是一次快速黑客马拉松，目的是构建一个工具来在一个地方跟踪所有视频，现在它正在变得更大。 在获得 5 个付费客户后，我决定加倍投入 trackmyvideos(.)com 并为其创建一个远大的愿景。我希望这成为短篇内容的 SEM RUSH，今天我将发布以下功能：  通过 CONTEXT 和 HOOK 对表现优异/病毒式的视频进行 AI 搜索。我们正在增加 5k+/天！！ 查看与您的视频和帐户类似的表现优异的视频和帐户 在不到 2 分钟的时间内分析和跟踪任何 TikTok、Insta Reels 和 YT Shorts 帐户（以前需要一天时间）  非常希望您能对短内容营销领域还有哪些有价值的内容提出反馈？    提交人    /u/gametimeeeee   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ebs35n/i_am_building_the_sem_rush_of_short_form_content/</guid>
-      <pubDate>Thu, 25 Jul 2024 11:03:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>Heirloom-合作创业社区</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ebrtqa/heirloom_the_community_for_collaborative_ventures/</link>
-      <description><![CDATA[      嗨 r/SideProject ，过去一个月我一直在和几个朋友一起做一些令人兴奋的事情，想在这里分享一下。这是一个名为 Heirloom 的平台，您可以在此与其他创作者联系并合作将您的想法变成小型、蓬勃发展的组织。目标是帮助有想法的个人找到一个支持性社区，以实现它。  如果这听起来很有趣，请访问我们的网站：heirloom.page。我很乐意听到您的想法和反馈。如果您有兴趣了解更多信息或与我们合作，也可以通过 heirloom.connect@gmail.com 与我们联系！ （灯光模式即将推出！） https://preview.redd.it/rnmju2zq9ned1.png?width=1920&amp;format=png&amp;auto=webp&amp;s=de97c96a1ede856406e5bf55ce6dec88c786edc4    提交人    /u/HeirloomConnect   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ebrtqa/heirloom_the_community_for_collaborative_ventures/</guid>
-      <pubDate>Thu, 25 Jul 2024 10:48:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>请帮助我提供有关即将推出的 SaaS 的反馈</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ebrtio/help_me_with_feedback_regarding_my_upcoming_saas/</link>
-      <description><![CDATA[您好， 我正在构建一个以销售为导向的AI 客户支持聊天机器人，只需一小段代码即可轻松集成到任何网站中。 AI 聊天机器人可以根据客户的需求进行训练和定制 - 他们可以添加与其业务相关的信息、问题和答案，并且该机器人将能够为其网站访问者提供支持。 聊天机器人的真正目标是将访问者转变为客户。机器人正在分析访问者的问题和答案，一旦他认为用户有兴趣购买服务，机器人就会尝试安排访问者和网站所有者之间的会议邀请。它会将访问者引导到一个页面，在该页面上，访问者可以选择会议邀请的日期和时间。 除此之外，网站所有者还可以直接从平台向这些变成潜在客户的网站访问者发送电子邮件。 此外，他们可以整合他们的 Stripe 帐户，并使用聊天机器人推广他们的 Stripe 产品。 这些是 AI 聊天机器人将拥有的一些功能，但我希望这足以理解这个想法。 我希望收到一些关于我用来验证我的 SaaS 想法的登陆页面的反馈。我的目标是获得电子邮件订阅，并最终在我推出产品时为订阅者提供早期访问折扣。 另请查看定价页面并给我一些有关计划的反馈。 谢谢！    提交人    /u/theblack5   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ebrtio/help_me_with_feedback_regarding_my_upcoming_saas/</guid>
-      <pubDate>Thu, 25 Jul 2024 10:47:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>一个很酷的副业让我在第一周就赚了 300 美元</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ebrrb2/a_cool_side_project_that_made_me_300_in_the_first/</link>
-      <description><![CDATA[大家好，我最近发布了一款新应用，它已经获得了一些关注，我想与你们分享 - readpdf.io  这款工具可以让你收听你的 PDF，它非常适合你可能拥有的任何文档/学术论文。    提交人    /u/teppanyakigriddle42   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ebrrb2/a_cool_side_project_that_made_me_300_in_the_first/</guid>
-      <pubDate>Thu, 25 Jul 2024 10:44:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>首次推出产品的猎人——寻求提示和建议！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ebrnjk/firsttime_hunter_launching_a_product_seeking_tips/</link>
-      <description><![CDATA[我很高兴地告诉大家，我即将以猎手的身份在 Product Hunt 上发布我的第一款产品。我很乐意听取您的任何提示或建议，以确保此次发布成功。  此外，我非常感谢您的支持。您可以在此处查看我的产品的测试版👉 https://www.producthunt.com/prod...。  提前感谢您的帮助和支持！    提交人    /u/Bon_Visions   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ebrnjk/firsttime_hunter_launching_a_product_seeking_tips/</guid>
-      <pubDate>Thu, 25 Jul 2024 10:37:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>10 款源自副项目的巨型产品</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ebrgxs/10_giant_products_that_was_sideprojects/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ebrgxs/10_giant_products_that_was_sideprojects/</guid>
-      <pubDate>Thu, 25 Jul 2024 10:25:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>未被发现的免费 UI 组件集合</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ebr47b/the_undiscovered_free_collection_of_ui_components/</link>
-      <description><![CDATA[我构建了 Indie UI，这是一个受 shadcn 启发的开源 UI 组件集合。由于积极的反馈，我感到有动力进一步扩展和推广它。请随时查看并告诉我可以做得更好的地方    提交人    /u/PerspectiveGrand716   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ebr47b/the_undiscovered_free_collection_of_ui_components/</guid>
-      <pubDate>Thu, 25 Jul 2024 10:02:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>我开发了一个人工智能机器人，可以为任何工程团队节省数小时的工作时间</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ebqt9x/i_developed_an_ai_bot_that_saves_hours_of_work/</link>
-      <description><![CDATA[大家好！我是 Andriy，一名软件工程师，也是 DepsHub 的创始人。我合作过的每个团队都使用数十个（甚至数百个）依赖项。通常有两种常见的选择：要么忽略依赖项问题，直到为时已晚，难以将所有内容迁移到较新的版本（向漏洞问题问好），要么不断尝试在开发产品和维护产品之间找到平衡。 我决定创建 DepsHub 来解决这些特定问题：  更新噪音。没有必要一直更新每个库。您的项目应该相对保持最新，所有主要软件包都已更新，并且没有安全问题。 自动进行重大更新。重大更改随时都会发生，LLM 在这一点上非常擅长获取变更日志更改并将其自动应用于代码库。 可观察性。我想知道我所有存储库的当前状态是什么，它们有多过时，以及我需要做些什么来使其变得更好。这是一个相当新的领域，很多产品都没有关注它。  DepsHub 正在处理数千个更改日志和发行说明，将您的代码库转换为嵌入，并应用 LLM 来修复发生的任何重大更改。它还使用一些额外的分析来了解库是否真的需要更新（一些库每周都有新版本！）。 如果您有任何问题或建议，请告诉我。欢迎提供反馈！ 网站：https://depshub.com/ ProductHunt 发布：https://www.producthunt.com/posts/depshub-2    由   提交  /u/semanser   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ebqt9x/i_developed_an_ai_bot_that_saves_hours_of_work/</guid>
-      <pubDate>Thu, 25 Jul 2024 09:42:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>BarSn.app - 一键添加浏览器框架的工具</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ebqmgz/barsnapp_tool_for_adding_browser_frame_in_one/</link>
-      <description><![CDATA[嗨，redditors， 我是 Alex，一个新手独立黑客。我最近启动了我的第一个项目之一 Barsn.app，以解决我遇到的一个问题。我需要一种快速简便的方法来将浏览器框架添加到屏幕截图中，但 Figma 等现有工具对于这项简单任务来说太复杂了。 Barsn.app 让您只需点击几下即可将浏览器框架添加到屏幕截图中。它简单、直观，非常适合开发人员、设计师或任何需要快速获得专业外观屏幕截图的人。 在 Barsn.app 上查看并告诉我您的想法。非常感谢您的反馈！ 谢谢，Alex    由    /u/No_Boot2301 提交   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ebqmgz/barsnapp_tool_for_adding_browser_frame_in_one/</guid>
-      <pubDate>Thu, 25 Jul 2024 09:29:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>分享这个有趣的项目——绘制您的想法。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ebqhri/sharing_this_fun_project_map_your_thoughts/</link>
-      <description><![CDATA[映射你的想法 它允许你自由地表达你的想法、故事或任何你脑海中的东西，没有喜欢、没有评论、没有追随者、没有朋友、没有广告、没有干扰、没有废话。只有你和你的想法，在地球上的某个地方联系在一起 一些主要功能：  匿名、无需帐户的共享 没有社交指标或互动 无广告、无干扰 隐私保护的位置 全球思想连接 原始、未过滤的表达  技术栈包括：  Next.js， shadcn/ui， TypeScript， React Hook Form， Drizzle ORM， Turso 数据库， MapTiler， OpenStreetMap， Biome， Vercel  网站：https://map-your-thoughts.vercel.app GitHub : https://github.com/sujjeee/map-your-thoughts 受到 musing.live 的启发，但它不是开源的。    提交人    /u/sujjeeee   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ebqhri/sharing_this_fun_project_map_your_thoughts/</guid>
-      <pubDate>Thu, 25 Jul 2024 09:20:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>我刚刚以 2 万美元的价格卖掉了我的基于订阅的网络开发代理机构！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ebq1gb/i_just_sold_my_subscription_based_web_dev_agency/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ebq1gb/i_just_sold_my_subscription_based_web_dev_agency/</guid>
-      <pubDate>Thu, 25 Jul 2024 08:48:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
