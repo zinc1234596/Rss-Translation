@@ -4,7 +4,42 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Fri, 26 Jul 2024 01:00:10 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jul 2024 03:15:50 GMT</lastBuildDate>
+    <item>
+      <title>如何宣传新推出的业余项目？如果你愿意，可以吐槽我！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ecdqld/how_to_advertise_a_newly_launched_side_project/</link>
+      <description><![CDATA[大家好， 我一直在忙着做一个小项目，以便提高 webdev/indiehacking 水平，真的需要一些反馈/严厉的爱。这是我第一次尝试，所以我很愿意倾听。这个网站叫做 masacolors.com。基本上，你只需输入一个随机的想法，AI 就会吐出​​一张着色页供你着色（你可以在提示中指定成人或儿童）。我知道已经有很多这样的网站了，但我想，如果有的话，这将是我的第一个项目的一次很好的学习经历。 对于那些想传授一些智慧的人：  即使我输入“masa colors coloring pages”，我在 Google 上也得不到任何结果。我一直在尝试做 SEO，但似乎效果不佳——有人能给我一些“必须做”的剧本/技巧吗？有点令人沮丧的是，经过这么多工作它还是没有出现，尽管我专门搜索了它 lol 还有哪些其他有效的方法来营销这样的东西（真的有效）？我应该为 Meta Ads 付费吗？如果您处于我的位置，您会做任何面对面的广告吗？     提交人    /u/Prestigious_Wind5855   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ecdqld/how_to_advertise_a_newly_launched_side_project/</guid>
+      <pubDate>Fri, 26 Jul 2024 03:04:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>为了成为技术型创业公司创始人，我应该学习哪些编程知识？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ecdas5/what_should_i_learn_for_programming_to_become_a/</link>
+      <description><![CDATA[这看起来像是一篇初学者帖子 - 事实也确实如此。背景介绍：我是一名对创业领域感兴趣的高中生，具备销售和业务开发技能。我目前在一家初创公司工作，负责发展、进行潜在客户挖掘、制作宣传资料、进行竞争对手分析等。我完全没有技术技能。 我的梦想是创建项​​目并创建一家初创公司。现在，当我说创建时，我基本上是指亲自动手（创建 MVP、将用户反馈融入软件、构建技术堆栈等）。人们总是告诉我，如果你有一个想法，就把它外包出去，或者找一个技术人员来构建原型。或者他们说要完善我已有的技能，总会有更好的人能更快地完成工作。 问题是，我不想雇人来做这件事。我不想继续做业务开发。我只想边做边学编码和构建。我想成为我正在寻找的技术联合创始人。再说一次，这可能看起来像是一个不知道自己在说什么的孩子写的菜鸟帖子。好吧，关键是我要弄清楚我在说什么，并努力培养我想要发展的技能。有人对如何成为技术人员有什么建议吗？哪些资源最适合用于学习？我现在一次又一次地陷入教程地狱，想采取可行的步骤。 tl:dr - 高中生想知道成为技术人员的最佳资源，以创建他梦想的创业公司。    提交人    /u/rishipa   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ecdas5/what_should_i_learn_for_programming_to_become_a/</guid>
+      <pubDate>Fri, 26 Jul 2024 02:42:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>我编写的旧版 nes 模拟器的 Game Genie 作弊代码</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ecdam7/game_genie_cheat_codes_for_an_old_nes_emulator_i/</link>
+      <description><![CDATA[      大家好，这是我第一次在这个平台上发帖，因为无聊。我两年前就开始写这个模拟器了，从那时起就断断续续地修改它。 这里的亮点是传递到模拟器本身的命令行参数。它们是过去可以在真正的游戏精灵硬件上使用的作弊代码，我的模拟器现在可以解码它们，并几乎不费吹灰之力地“修补”rom。我在这个视频中提供的代码让我在洛克人中无敌，这就是为什么当敌人撞到我时我不会受到伤害的原因。 了解这个硬件以前的工作原理以及它实际上有多么简单真是太酷了。 https://tuxnes.sourceforge.net/gamegenie.html 基本上解释了一切，我觉得读起来很酷。 无论如何，这是我的副项目中的副项目，希望有人觉得它很酷。如果有人感兴趣，我很乐意分享链接，该仓库目前是公开的，在 github 上 :)    提交人    /u/Dorcelessness_   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ecdam7/game_genie_cheat_codes_for_an_old_nes_emulator_i/</guid>
+      <pubDate>Fri, 26 Jul 2024 02:41:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的新应用程序：SmartBookShelf.io，快速扫描和整理您的书籍。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ecbsyg/my_new_app_smartbookshelfio_quickly_scan_and/</link>
+      <description><![CDATA[大家好， 我一直在努力开发一款名为 SmartBookShelf.io 的应用程序，它可以帮助您快速扫描和整理您的藏书。它旨在通过使用先进的人工智能来检测和提取书脊中的文本，而无需手动记录每本书，从而节省您的时间和精力。 我知道该网站存在一些错误，并且仍处于早期阶段，但我希望您查看它并提供任何反馈或批评。任何意见都很有价值，因为我会继续改进应用程序。 您可以在此处试用：SmartBookShelf.io 谢谢大家，    提交人    /u/trickyrex1   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ecbsyg/my_new_app_smartbookshelfio_quickly_scan_and/</guid>
+      <pubDate>Fri, 26 Jul 2024 01:25:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>对于 ConsoleX.ai 用户（以及即将成为用户）来说是个重大新闻！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ecbh6j/big_news_for_consolexai_users_and_soontobe_users/</link>
+      <description><![CDATA[嗨，r/SideProject， ConsoleX 联合创始人在此带来一些激动人心的更新，我想直接与社区分享。 首先，感谢所有使用 https://www.producthunt.com/posts/consolex-ai 并提供反馈的人。看到大家通过我们的平台突破 AI 开发的界限真是令人难以置信。 对于那些尚未尝试过我们的人（您去哪儿了？），ConsoleX 是一个集所有功能于一身的 AI 开发游乐场，我们一直全心投入其中。我们拥有一切，从闪电般快速的模型测试到不会让您想把电脑扔出窗外的用户界面。 但这是个大新闻：在接下来的几天里，我们将推出一个重大更新，其中包括 Coze 和 Dify 集成。这是我们最需要的功能之一，我们很高兴终于可以实现它了。 如果您还没有了解我们，您可能会喜欢以下其他功能：  一键评估（因为生命太短暂，没有太多点击机会） 提示库会让您感觉自己像个 AI 巫师 支持几乎所有 AI 模型 高级功能，如视觉输入、函数调用和图像生成  我们一直在努力让 ConsoleX 成为 AI 构建者的终极工作台，这次更新是朝着这个方向迈出的一大步。 我很乐意听到您的想法、问题或功能请求。您最兴奋的是什么？您还想看到什么？ 干杯， 罗伯特 ConsoleX.ai 附注：如果您还没有尝试过 ConsoleX，那么现在是在这个新更新发布之前加入的好时机。只是说说而已！    提交人    /u/smurfDevOpS   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ecbh6j/big_news_for_consolexai_users_and_soontobe_users/</guid>
+      <pubDate>Fri, 26 Jul 2024 01:09:23 GMT</pubDate>
+    </item>
     <item>
       <title>我构建了最简单的 React/Next.js 翻译服务 (i18n)</title>
       <link>https://www.reddit.com/r/SideProject/comments/1ec9vem/i_built_the_easiest_reactnextjs_translation/</link>
@@ -71,44 +106,9 @@
     <item>
       <title>有谁为 AWS 贡献过一些单独的 CLI 工具吗？</title>
       <link>https://www.reddit.com/r/SideProject/comments/1ec75j1/anybody_have_contributed_with_some_individual_cli/</link>
-      <description><![CDATA[我们在 Org 中有很多 AWS 账户，我们想构建一些自定义 CLI 工具，用于中央报告和其他目的，我很想知道您是否为 AWS 做过一些自定义 CLI 工具。很乐意与自由职业项目合作     提交人    /u/SmartWeb2711   [link] [评论]]]></description>
+      <description><![CDATA[我们在 Org 中有很多 AWS 账户，我们想构建一些自定义 CLI 工具用于中央报告和其他目的，我很想知道您是否为 AWS 做过一些自定义 CLI 工具。很乐意与自由职业项目合作     提交人    /u/SmartWeb2711   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1ec75j1/anybody_have_contributed_with_some_individual_cli/</guid>
       <pubDate>Thu, 25 Jul 2024 21:54:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用可调整的实时计数器，实时可视化 120 多个引人入胜的统计数据，涵盖各种主题（世界范围、人体、空间等）。该项目是非商业/无广告的，另外，如果您不喜欢病态的统计数据，请避免选择“不太好”类别。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ec6uyf/enjoy_a_realtime_visualization_of_120_fascinating/</link>
-      <description><![CDATA[  由    /u/mostlyanillusion  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ec6uyf/enjoy_a_realtime_visualization_of_120_fascinating/</guid>
-      <pubDate>Thu, 25 Jul 2024 21:41:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>我不赚钱的微型SaaS该怎么卖？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ec6tq6/how_to_sell_my_micro_saas_that_doesnt_make_any/</link>
-      <description><![CDATA[我花了 7-10 天时间构建了一个微型 SaaS（Lead gen page Builder Saas）。我可以出售我的 SaaS 吗？如果可以，我应该给它定什么价？    提交人    /u/cyphexo   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ec6tq6/how_to_sell_my_micro_saas_that_doesnt_make_any/</guid>
-      <pubDate>Thu, 25 Jul 2024 21:40:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>电影/电视节目评论分析器应用程序</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ec641k/a_movietvshow_review_analyzer_app/</link>
-      <description><![CDATA[      我开发了一个应用程序来分析电影评论，这样你就不用自己动手了，它可以总结评论并给你评分，这是网站，让我知道你们的想法？ https://preview.redd.it/a8l4bbi1dqed1.png?width=2418&amp;format=png&amp;auto=webp&amp;s=8313df94ee976557b959b1df22010de325acf3b2 https://reviewrift.com    提交人    /u/arnvfx007   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ec641k/a_movietvshow_review_analyzer_app/</guid>
-      <pubDate>Thu, 25 Jul 2024 21:10:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>副项目的法律结构？——如何着手？您是否先设置好一切，然后执行？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ec56lm/legal_structure_of_side_projects_how_to_go_about/</link>
-      <description><![CDATA[我考虑明年启动几个项目，您能否就如何合法地开展这些项目提出建议？我听说我并不总是需要为每个项目都创建公司，而是选择公司（这确实是一个可怕的词）并将所有东西都放在一个屋檐下。总部设在欧洲。     提交人    /u/Superb_Bench4585   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ec56lm/legal_structure_of_side_projects_how_to_go_about/</guid>
-      <pubDate>Thu, 25 Jul 2024 20:31:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何营销？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ec4uwl/how_to_market/</link>
-      <description><![CDATA[我很好奇人们是如何营销他们开发的 SaaS 或应用程序的？我看到很多人说他们在群组或 reddit 上发帖，但我加入的每个群组和论坛都说不许自我推销或推广等......    提交人    /u/klrmac   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ec4uwl/how_to_market/</guid>
-      <pubDate>Thu, 25 Jul 2024 20:17:48 GMT</pubDate>
     </item>
     </channel>
 </rss>
