@@ -4,7 +4,77 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Fri, 26 Jul 2024 21:12:39 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jul 2024 01:00:00 GMT</lastBuildDate>
+    <item>
+      <title>你的主要操作系统？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ed3vwq/your_main_os/</link>
+      <description><![CDATA[查看投票    由    /u/MysteriousShadow__ 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ed3vwq/your_main_os/</guid>
+      <pubDate>Sat, 27 Jul 2024 00:52:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>向 Elon Anything Extension 提问 - 针对 Elon Musk 的推特时间线提问。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ed3toy/ask_elon_anything_extension_ask_questions_against/</link>
+      <description><![CDATA[        提交人    /u/CreateChaos777   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ed3toy/ask_elon_anything_extension_ask_questions_against/</guid>
+      <pubDate>Sat, 27 Jul 2024 00:48:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>100+ 完整 AI 目录列表</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ed3a3o/100_complete_ai_directory_list/</link>
+      <description><![CDATA[我整理了一份包含 100 多个目录列表的列表，您可以在其中提交您的 SAAS。我制作这份清单是因为我看到许多人通过提交到目录来吸引他们的 SAAS 并获得客户。我还添加了 DR 和流量等数据。 您可以在此处查看完整列表：https://growstartup.pro/ai-directory-list.html    提交人    /u/Available_Sir_3471   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ed3a3o/100_complete_ai_directory_list/</guid>
+      <pubDate>Sat, 27 Jul 2024 00:21:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>我再次创建了一个机械师计算器应用程序......</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ed2jgo/i_created_a_machinist_calculator_app_again/</link>
+      <description><![CDATA[早在 2015 年，我就使用 GameSalad 程序创建了 Machinist Calculator 应用程序，GameSalad 是一款无代码游戏开发软件。该应用程序在应用商店中表现不错。它被称为 CNC Machinist Calculator Pro，目前仍在销售。我不是“真正的”应用程序开发人员。我不会编码。我从事机械加工行业已有 30 年，所以我的大部分技能都与机械加工有关。 现在 9 年过去了，GameSalad 正在慢慢消亡，所以我使用 Flutterflow 重新创建了该应用程序，Flutterflow 是一款“低代码”应用程序开发软件。使用 Flutterflow，我可以创建可以编码的自定义函数。我还可以创建自定义小部件。说实话，我喜欢这个平台。我曾经编写过我的新应用程序，并将其导出到 iOS、Android 或 Web。我使用 ChatGPT 来帮助编写自定义函数。我现在有 100 多个。最酷但最难的自定义函数是创建用于 CNC 中螺纹铣削的 G 代码。 新应用程序名为“CNC Machinist Calculator Ultra”。我正在寻找反馈。尝试它的最简单方法是使用网站 https://cncmachinistcalculatorultra.com/，但如果您更愿意在手机上测试它，也可以在两个应用商店下载。只是提醒您，该应用程序是基于订阅的，但所有功能无需订阅即可使用。您将无法看到结果，但其他一切都正常。 请嘲笑我！我想要负面反馈，这样我就可以改进应用程序的不稳定性。大多数人拒绝提供反馈。提前谢谢您     提交人    /u/machinistcalculator   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ed2jgo/i_created_a_machinist_calculator_app_again/</guid>
+      <pubDate>Fri, 26 Jul 2024 23:46:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>我对日程安排感到非常沮丧，因此我创建了一个人工智能来帮我做这件事！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ed2ho4/got_so_frustrated_with_dayplanning_that_i_built/</link>
+      <description><![CDATA[嘿 Reddit！ 我想分享一些我一直在做的超级令人兴奋的事情 - 认识 Matty，您管理日历的新朋友！ 这个想法源于我对日历应用程序的失望。为您计划的每一天单独创建每个事件似乎比整天坐着看 Netflix 更浪费时间（至少看 Netflix 很有趣，对吧？）。 所有这些都让我想到，如果 ChatGPT 可以帮我做这件事，那不是很好吗？ 我所要做的就是分享我的大学时间表的照片或谈论我当天的目标，然后让它为我创建事件并安排时间。同时与 Google 日历同步，以便我也可以集成其他应用程序。 所以，这就是 Matty！请在这里查看→https://heymatty.vercel.app/ 这些是我迄今为止计划的功能：  使用自然语言从日历中创建、读取、更新、删除事件 通过分析时间段和提供建议帮助您更好地计划您的一天 帮助您将您的目标分解为更简单的步骤和事件提醒 与现有的聊天应用程序（如 WhatsApp 或 Telegram）集成，这样您就不必一直使用网站  如果您有任何建议或其他功能想法，请告诉我，我也会将它们添加到应用程序中！ 此外，目前正在进行一个非常早期的测试版，如果您有兴趣，只需在这里或在 twitter / x 上发送 dm 即可。    提交人    /u/pranshuj73   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ed2ho4/got_so_frustrated_with_dayplanning_that_i_built/</guid>
+      <pubDate>Fri, 26 Jul 2024 23:44:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>AWS 和 Vercel 吞噬了我的利润</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ed2d6l/aws_and_vercel_ate_my_profit/</link>
+      <description><![CDATA[是他们加上我的愚蠢。长话短说，两周前我推出了我的应用程序 https://www.blitztoksai.com/，效果还不错。我当天排名第四，对于我首次发布来说还不错。接下来的几天我赚了一些钱，但我注意到我的 AWS 账单因为 S3 数据传输而变得越来越大，我没有使用 CDN，因为我的期望值实际上很低，我根本没想到会有流量，所以何必费心呢。结果发现人们经常访问我的网站，我的 AWS 账单在一两天内就涨到了 40 美元。然后我惊慌失措，将所有静态文件移动到 vercel，因为我在路上，没有时间设置 cdn。这应该是一个临时解决方案，直到我回来。在我设法这样做之前，我的带宽超出了 vercel 的 Hobby 限制。现在我必须向 AWS 支付 40 美元，向 Vercel 支付 20 美元。人们会说这不算什么，但对于小型 SaaS 应用来说，这几乎是我 mrr 的一半。很好的开始，但我的愚蠢让我付出了很大的代价。吸取的教训 - 不要低估自己，不要懒得去实现可以为你省钱的架构。    提交人    /u/__proto__null   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ed2d6l/aws_and_vercel_ate_my_profit/</guid>
+      <pubDate>Fri, 26 Jul 2024 23:38:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>在社交媒体上写评论需要时间，所以我制作了一个人工智能来写评论</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ed1n3z/writing_comments_on_social_media_takes_time_so_i/</link>
+      <description><![CDATA[通常情况下，您可以使用 ChatGPT 来生成评论，但来来回回真的很累很无聊。我制作了一个 Google Chrome 扩展程序，将其自身注入 LinkedIn 和 Twitter，然后您只需单击一下即可对帖子发表评论。 我很快就会在 ProductHunt 上发布，你能为我点赞吗？ 这是该工具的链接：viralreply.com - 您可以免费使用它。    提交人    /u/codecomplete   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ed1n3z/writing_comments_on_social_media_takes_time_so_i/</guid>
+      <pubDate>Fri, 26 Jul 2024 23:04:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>大多数人不信任新创业公司，所以我想出了一个解决方案</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ed0nh0/most_people_dont_trust_new_startups_so_i_made_a/</link>
+      <description><![CDATA[最近，我一直在 Twitter 上查看“公开构建”社区，很明显，许多开发人员都在尝试“独立黑客”。虽然有一些失误，但人们创建的大多数 SaaS 应用程序确实令人印象深刻且很有价值。然而，这些初创公司面临的一个共同挑战是获得用户信任，尤其是当他们是新公司且相对不为人知时，这导致大多数初创公司无法正常启动 营销不是大多数开发人员擅长的事情，包括我自己（而且至少可以说成本很高），但向访问者展示您值得信赖肯定可以提高转化率。我创建了一个销售弹出窗口，您可以轻松将其嵌入到您的 SaaS 网站上，以立即提高其可信度。 第一印象可以成就或破坏用户对您产品的看法。那么为什么不让第一印象发挥作用呢？使用我的弹出窗口，您可以有效地展示产品的价值，并从访问者登陆您网站的那一刻起建立信任。 在这里查看： https://nudgepopups.com p.s. 使用 Stripe 集成 :)    提交人    /u/Particular_Bake_7046   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ed0nh0/most_people_dont_trust_new_startups_so_i_made_a/</guid>
+      <pubDate>Fri, 26 Jul 2024 22:20:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>3 天开发一个应用程序？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ed0btu/developing_an_app_in_3_days/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ed0btu/developing_an_app_in_3_days/</guid>
+      <pubDate>Fri, 26 Jul 2024 22:05:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找最佳的无代码工具和内容创建者</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ed09lg/looking_for_the_best_no_code_tools_and_content/</link>
+      <description><![CDATA[大家好， 作为无代码爱好者，我意识到很难找到好的内容，尤其是对于较新的工具。  因此，我正在构建一个无代码工具目录，该目录将致力于收集最好的无代码工具和围绕每个工具的最佳内容，我的目标是帮助 solopreneurs 开始更快地运行。 我呼吁这个精彩的社区通过此主题或通过网站的第一个版本分享工具和内容创建者，网址为https://thenocodelibrary.com/  感谢您的所有帮助    提交人    /u/yantso   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ed09lg/looking_for_the_best_no_code_tools_and_content/</guid>
+      <pubDate>Fri, 26 Jul 2024 22:02:56 GMT</pubDate>
+    </item>
     <item>
       <title>几年前我购买了一个 .com 域名。有人购买了同名但不同 TLD 的域名并开始使用它。我该怎么办？</title>
       <link>https://www.reddit.com/r/SideProject/comments/1ecywh1/i_bought_a_com_domain_a_few_years_ago_somebody/</link>
@@ -39,76 +109,6 @@
       <description><![CDATA[       由    /u/maverick594  提交  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1ecyktt/tweet_card_the_ultimate_tweet_embedding_solution/</guid>
       <pubDate>Fri, 26 Jul 2024 20:50:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>以天气为主题的休闲娱乐网站</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ecy817/fun_website_to_relax_with_weather_based_theme/</link>
-      <description><![CDATA[我用 3 周的时间建立了一个网站，您可以在后台收听 lofi 节拍、玩游戏、看电影或根据天气和时间使用舒适的主题放松。 它仍在开发中，欢迎提供反馈（很好，也很糟糕）：) DM 或评论以获取网站链接 https://reddit.com/link/1ecy817/video/mior298fbxed1/player    提交人    /u/Icy_Calendar_9924   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ecy817/fun_website_to_relax_with_weather_based_theme/</guid>
-      <pubDate>Fri, 26 Jul 2024 20:34:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻求对副项目的反馈</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ecxjj0/looking_for_feedback_on_a_side_project/</link>
-      <description><![CDATA[嗨 - 我使用 FlutterFlow 在 iOS 上启动了一个应用程序 - 寻求有关登录页面、应用程序等的反馈。这是网站链接：https://www.tryupwardly.com/     提交人    /u/upwardly42   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ecxjj0/looking_for_feedback_on_a_side_project/</guid>
-      <pubDate>Fri, 26 Jul 2024 20:05:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个受暴虐漫画启发的网站</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ecxck5/i_made_a_site_inspired_by_rage_comics/</link>
-      <description><![CDATA[      我经历了一个怀旧阶段，沉迷于浏览旧的暴虐漫画。我想要一个与此类似的现代版本，所以我创建了这个网站：https://www.comicsocial.site  我希望我的网站能够重振这样的内容。我试图让网站尽可能地方便用户使用。虽然还有一些需要改进的地方，但我觉得它的功能已经很全面了。 请让我知道您的想法 :) https://preview.redd.it/tiow54jowed1.png?width=3006&amp;format=png&amp;auto=webp&amp;s=8ade1288fdb21a7c3edc1474e7fea4c15fd01b2d    提交人    /u/AggravatingSyrup2401   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ecxck5/i_made_a_site_inspired_by_rage_comics/</guid>
-      <pubDate>Fri, 26 Jul 2024 19:56:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>推出 iLandPage：为无需登陆页面的 iOS 开发者提供最快捷、最简便的解决方案</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ecwebw/launched_ilandpage_a_fastest_simple_solution_for/</link>
-      <description><![CDATA[      嗨，独立黑客们！ 我很高兴与大家分享我的最新项目：ilandpage.com 🚀 问题：许多 iOS 开发人员发布了出色的应用，但没有展示它们的着陆页。创建着陆页可能非常耗时，而且需要网络知识，但并非所有移动开发人员都具备这些知识。 解决方案：iLandPage 会自动为您的 iOS 应用生成一个简单的着陆页，直接从 App Store 提取信息。 特点：  快速设置（只需搜索您的应用） 可自定义的文本和图像 无需编码或设计技能 5 秒内即可在全球范围内分享  我之所以构建这个，是因为我注意到许多 iOS 开发人员都在努力为他们的应用创建着陆页。 我很乐意收到您的反馈并听取您的想法！您希望添加任何功能吗？ https://preview.redd.it/kxl7batixwed1.png?width=2602&amp;format=png&amp;auto=webp&amp;s=e69a6920119a1b4b9a2f880f3ef6c507671a5ebe    提交人    /u/WritingThen5974   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ecwebw/launched_ilandpage_a_fastest_simple_solution_for/</guid>
-      <pubDate>Fri, 26 Jul 2024 19:15:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻求反馈</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ecwdu4/looking_for_feedback/</link>
-      <description><![CDATA[大家好， 我正在寻找有关我正在构建的应用程序的反馈。请查看登录页面：Meet Me Outside    由    /u/vizik24 提交   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ecwdu4/looking_for_feedback/</guid>
-      <pubDate>Fri, 26 Jul 2024 19:15:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>🚀 一款可以为你聆听内容的应用程序</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ecv4pz/an_app_that_listens_to_your_content_for_you/</link>
-      <description><![CDATA[嗨，Redditors - 如果你和我一样，那么好的内容（youtubes）太多了，而一天中没有足够的时间。 所以我建立了一个www.mydailypod.com。 请试用一下，它是免费的。如果您有反馈意见，请发表评论，如果您认为有价值，请将其发送给朋友。    提交人    /u/bobertx3   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ecv4pz/an_app_that_listens_to_your_content_for_you/</guid>
-      <pubDate>Fri, 26 Jul 2024 18:21:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>对于人工智能工具来说，基于使用情况的定价才是正确方法</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ecv3mu/usagebased_pricing_is_the_way_to_go_for_ai_tools/</link>
-      <description><![CDATA[嗨，我是 Jerad，thelede.ai 的创建者 👋 我正在构建一个 AI 文章生成器，在撰写文章之前会进行深入研究。 几个月来我一直在努力寻找一个定价模型。  我尝试提供三个不同的层级：两个有代币限制，第三个是无限制的 我测试了在不同价格点仅提供一个无限制选项 我尝试了 20% 折扣的年度计划 我调整了免费层级：更多免费代币是否会带来更高的转化率？（在本例中，没有）  两天前，我终于删除了所有月度订阅计划，并将所有内容转换为基于使用情况的定价。猜猜怎么着？用户开始付费。 现在，Lede 还没有成功。我还有很长的路要走才能对收入感到满意。但是，我终于看到了一些牵引力的曙光。 我喜欢这种定价模式的原因是，我不再需要 (1) 猜测哪个价格点会让我获利，(2) 用户很高兴，因为他们可以控制自己的支出，(3) 零客户流失（至少从技术上讲）。 这种方法的缺点：  很难解释定价的工作原理 收入完全可变（再见，MRR） 实施更加困难 使用是唯一的收入来源  我很乐意听取社区对这种方法的反馈。 如果有用的话，我会在一个月内发布后续帖子。    提交人    /u/Maplethorpej   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ecv3mu/usagebased_pricing_is_the_way_to_go_for_ai_tools/</guid>
-      <pubDate>Fri, 26 Jul 2024 18:20:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个应用程序来简化社交书签 - linkboard.dev</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ecuvfv/i_made_an_app_to_simplify_social_bookmarking/</link>
-      <description><![CDATA[我制作了一款应用，让社交书签更简单、更人性化。它被称为 linkboard。 我创建 linkboard 是因为我想要一个简单、快速且尊重用户隐私的应用。 如果您正在寻找一种直接的方式来管理您的书签，请尝试 linkboard。我乐于接受反馈，并希望听到您的想法。 如果您有任何问题或建议，请告诉我。感谢您的关注！    提交人    /u/dephraiiim   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ecuvfv/i_made_an_app_to_simplify_social_bookmarking/</guid>
-      <pubDate>Fri, 26 Jul 2024 18:10:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>经过连续 60 小时的建设，今天启动了我的候补名单！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ecuozf/launched_my_waitlist_today_after_building_for/</link>
-      <description><![CDATA[大家好！ 在参加完单人黑客马拉松后，我喝了咖啡后精神特别好。几个月前，我为自己创建了一个个人工具，它对我和我的客户帮助很大。他们的收入在 2 个月内增加了两倍。 我现在很高兴我的朋友取消了周末计划，所以我围绕它构建了一个产品。 希望您能支持我的最新副业并留下任何反馈：https://digitalprofile.ai 多年来我一直在运营大型项目（5 家以上的公司），但我从未像现在这样为自己作为个体经营者在这里建立的一切感到自豪。 这确实是我所有经验的一个例子，可以解决大多数人每天遇到的最大问题。 享受！    提交人    /u/oldtonyy   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ecuozf/launched_my_waitlist_today_after_building_for/</guid>
-      <pubDate>Fri, 26 Jul 2024 18:03:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>MotionShot LTD 30% 折扣</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ecucme/30_discount_on_motionshot_ltd/</link>
-      <description><![CDATA[  由    /u/pskd73  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ecucme/30_discount_on_motionshot_ltd/</guid>
-      <pubDate>Fri, 26 Jul 2024 17:49:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
