@@ -4,7 +4,63 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Sat, 27 Jul 2024 18:18:01 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jul 2024 21:11:33 GMT</lastBuildDate>
+    <item>
+      <title>寻找一些关于我的登陆页面的诚实评论</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1edqdq4/looking_for_some_honest_review_about_my_landing/</link>
+      <description><![CDATA[  由    /u/Smaug117  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1edqdq4/looking_for_some_honest_review_about_my_landing/</guid>
+      <pubDate>Sat, 27 Jul 2024 20:54:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要 SaaS 反馈：模块化 Next.js CLI 插件系统</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1edq80x/saas_feedback_needed_a_modular_nextjs_cli_plugin/</link>
+      <description><![CDATA[你好 Reddit！ 我是一名独立黑客，我的第一个 SaaS，Next Inject，现在可供尝试。 Next Inject 是一个模块化 CLI 插件系统，您可以在其中自动配置条纹、元数据、身份验证等功能，只需单击一下即可节省您的时间。 对于某些需要环境变量的插件，您将链接到文档页面以节省更多配置时间。 希望得到一些诚实的反馈；元数据插件可在空目录中使用： npx next-inject add metadata 干杯， 丹尼尔 附言我的 SaaS 代码可在 github 上找到： https://github.com/DanielCraciunGitHub/next-inject-app    提交人    /u/craciun_07   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1edq80x/saas_feedback_needed_a_modular_nextjs_cli_plugin/</guid>
+      <pubDate>Sat, 27 Jul 2024 20:47:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>您对使用人工智能根据描述生成移动应用程序有何看法？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1edpzix/what_are_your_thoughts_on_generating_a_mobile/</link>
+      <description><![CDATA[作为一名热衷于创建移动应用程序的软件工程师。 我经常努力开始新项目，第一行代码总是最难的，导致许多想法被放弃。 您如何看待一个网络应用程序使用人工智能仅根据应用程序名称和描述自动生成移动应用程序？它为想要一个可以在此基础上构建的起点的开发人员以及希望快速制作应用程序原型的初创公司和小型企业提供服务。    提交人    /u/AzizBelAbed   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1edpzix/what_are_your_thoughts_on_generating_a_mobile/</guid>
+      <pubDate>Sat, 27 Jul 2024 20:37:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>💡 关于徽标设计的小型创业想法的一般想法</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1edpc70/general_thoughts_on_a_small_startup_idea_for_logo/</link>
+      <description><![CDATA[我正在考虑构建一个徽标设计反馈平台。它的工作方式类似于“Roast my UX”，但仅适用于徽标。下面是其工作原理的一个非常简单的解释：  排队，也就是队列 轮到您时上传您的徽标 从经过审查的/专家设计师那里获得可操作的反馈。  可能非常适合：  学习基础知识的新手 升级的中级设计师 希望以全新的眼光看待其工作的专业人士  我们的想法是让所有技能水平的设计师都能轻松、快速地获得对其徽标设计的诚实和专家反馈。 1.总体想法，您觉得怎么样？ 2. 您愿意为这样的服务付费吗？ 3. 什么值得您花时间？ 在下面写下您的想法。我真的很想知道大家的想法。    提交人    /u/Beautiful_Cod3175   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1edpc70/general_thoughts_on_a_small_startup_idea_for_logo/</guid>
+      <pubDate>Sat, 27 Jul 2024 20:09:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>哪一个更适合在标题中显示日期时间？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1edotgy/which_one_is_better_for_showing_date_time_in/</link>
+      <description><![CDATA[        提交人    /u/doganarif   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1edotgy/which_one_is_better_for_showing_date_time_in/</guid>
+      <pubDate>Sat, 27 Jul 2024 19:46:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>我是突尼斯人，我周围的每个人都抱怨听不懂我的方言，也找不到任何从英语/法语到我的语言的翻译器。所以我创建了这个 100% Flask + Bootstrap 免费应用程序，用于将法语或英语转换为任何阿拉伯方言（用阿拉伯/拉丁字母书写）</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1edo3vt/im_tunisian_and_everyone_around_me_complains/</link>
+      <description><![CDATA[在此测试 Klemy！  嘿 Reddit！ 我来自突尼斯，我注意到周围的人经常抱怨听不懂我的方言。这很令人沮丧，因为没有好的翻译器可以将英语或法语转换成我们当地的突尼斯阿拉伯语。 为了解决这个问题，我决定创建一个免费的应用程序，将法语或英语翻译成任何阿拉伯方言，包括突尼斯阿拉伯语。翻译可以以阿拉伯文字或拉丁字母显示，让更多人能够理解。 工作原理  输入：输入法语或英语文本。 输出：以所选阿拉伯方言接收翻译。 脚本选项：以阿拉伯文字或拉丁字母查看翻译。  我希望您尝试一下并分享您的反馈。让我们更容易地相互理解！ 谢谢阅读！    提交人    /u/nabskan   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1edo3vt/im_tunisian_and_everyone_around_me_complains/</guid>
+      <pubDate>Sat, 27 Jul 2024 19:14:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>我是突尼斯人，我周围的每个人都抱怨听不懂我的方言，也找不到任何从英语/法语到我的语言的翻译器。所以我创建了这个 100% Flask + Bootstrap 免费应用程序，用于将法语或英语转换为任何阿拉伯方言（用阿拉伯/拉丁字母书写）</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1edo32a/im_tunisian_and_everyone_around_me_complains/</link>
+      <description><![CDATA[嗨，Reddit！ 我来自突尼斯，我发现周围的人经常抱怨听不懂我的方言。这很令人沮丧，因为没有好的翻译器可以将英语或法语转换成我们当地的突尼斯阿拉伯语。 为了解决这个问题，我决定创建一个免费的应用程序，将法语或英语翻译成任何阿拉伯方言，包括突尼斯阿拉伯语。翻译可以以阿拉伯文字或拉丁字母查看，让更广泛的受众可以使用。 我为什么做这个 我想帮助弥合我们许多人每天面临的沟通鸿沟。我们的方言独特而丰富，值得被更多人理解。 工作原理  输入：输入法语或英语文本。 输出：以所选阿拉伯语方言接收翻译。 脚本选项：查看阿拉伯语脚本或拉丁字母的翻译。  我希望您尝试一下并分享您的反馈。让我们更容易地相互理解！ 谢谢阅读！    提交人    /u/nabskan   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1edo32a/im_tunisian_and_everyone_around_me_complains/</guid>
+      <pubDate>Sat, 27 Jul 2024 19:13:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>用于 Chrome 的亮度控制以取代所有暗黑模式</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ednrgc/brightness_control_for_chrome_to_replace_all/</link>
+      <description><![CDATA[      仍然不是每个网站都有合适的暗黑模式。为每个网站创建暗黑模式是不可能的，而且像darkreader这样的暗黑模式扩展并不总是有效或看起来很完美。为了解决眼睛疲劳的问题，我创建了这个chrome 扩展程序，它可以控制每个页面的亮度，而不是翻转颜色。 https://preview.redd.it/ck8empvuz3fd1.png?width=239&amp;format=png&amp;auto=webp&amp;s=a3087954f687c7c85be7b8983883f4d8b13705c2 它允许全局控制浏览器的亮度，或者可以为特定网站保存为某个值。如果由于某种原因您需要使页面变亮，这也是可能的。 如果您有兴趣，请免费此处查看。 如果您发现任何错误或缺少任何功能，请告诉我。    提交人    /u/Pleasant_Engine_1069   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ednrgc/brightness_control_for_chrome_to_replace_all/</guid>
+      <pubDate>Sat, 27 Jul 2024 18:59:26 GMT</pubDate>
+    </item>
     <item>
       <title>如何创造自己的运气</title>
       <link>https://www.reddit.com/r/SideProject/comments/1edmbmz/how_to_create_your_own_luck/</link>
@@ -53,62 +109,6 @@
       <description><![CDATA[        由    /u/el_bandit0  提交  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1edks01/made_an_outfit_calculator_that_will_help_you_put/</guid>
       <pubDate>Sat, 27 Jul 2024 16:48:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>推出应用程序来对 Pokemon 卡进行预评级和验证 - 几分钟内即可获得结果</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1edk5wo/launched_app_to_pregrade_and_authenticate_pokemon/</link>
-      <description><![CDATA[我们的目标是通过在几分钟内提供快速结果并打击假卡，为卡片收藏者节省时间和金钱。此迭代中的 Pokemon 和未来的卡片集即将推出。我们的预评级服务可确保您从官方评级公司获得您期望的评级，因此不会出现意外。我们通过人类专家和人工智能技术来实现这一点。我们正在寻找 beta 测试人员来帮助改进我们的服务，您的反馈将非常宝贵。在 Validoe.com 注册加入我们！ 约翰 创始人， Validoe.com    提交人    /u/crooked_listenero08   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1edk5wo/launched_app_to_pregrade_and_authenticate_pokemon/</guid>
-      <pubDate>Sat, 27 Jul 2024 16:20:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找“约会”风格食谱发现应用程序的 Beta 用户</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1edht9z/looking_for_beta_users_for_dating_style_recipe/</link>
-      <description><![CDATA[      大家好！ 我制作了一款名为 sizzle 的 Android 应用，它汇总了来自不同提供商的食谱，并且允许用户像在约会应用上一样滑动浏览。该应用会从滑动中学习，并尝试根据您之前喜欢的内容推荐食谱。 最重要的是，喜欢的食谱会被跟踪，存在传统的搜索选项，最后，有趣的晚宴功能可用于对食谱进行分组。 不幸的是，该应用尚未开放安装，因为我需要更多 beta 测试人员来获得 Play 商店的批准。 话虽如此，我希望 beta 用户提供好的反馈来帮助改进这个想法和体验！提供应用程序屏幕截图以供参考。 如果有兴趣，请直接向我发送您的 Play 商店电子邮件地址，我会将您添加到应用程序允许列表并发送邀请链接。 谢谢！！！ https://preview.redd.it/i8otdq2io2fd1.jpg?width=149&amp;format=pjpg&amp;auto=webp&amp;s=843287915f30dbd7aeb787180fa74c68efc0d708 https://preview.redd.it/3hmxo3mio2fd1.jpg?width=149&amp;format=pjpg&amp;auto=webp&amp;s=581e4ab9d031f32a60d12f2dbd56266c97d458e0 https://preview.redd.it/1ble5fbko2fd1.jpg?width=149&amp;format=pjpg&amp;auto=webp&amp;s=56c3569c4be7e829054d757d7c032dd76816640f https://preview.redd.it/r06yexqko2fd1.jpg?width=149&amp;format=pjpg&amp;auto=webp&amp;s=d8a174b7c5a3e2298e30525058ef4b1630e63cbe    提交人    /u/magicpantryio   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1edht9z/looking_for_beta_users_for_dating_style_recipe/</guid>
-      <pubDate>Sat, 27 Jul 2024 14:36:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>马克·扎克伯会精通人工智能吗？我创建了一个规划和管理平台，可以根据目标生成任务。以下是如何使用它的一个示例。请帮我提供反馈**</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1edhpl6/will_mark_zuckerber_master_ai_i_created_a/</link>
-      <description><![CDATA[        提交人    /u/Sarvaturi   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1edhpl6/will_mark_zuckerber_master_ai_i_created_a/</guid>
-      <pubDate>Sat, 27 Jul 2024 14:31:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>PasteBar - 适用于 Mac 和 Windows 的无限、免费剪贴板管理器。开源。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1edhhzt/pastebar_limitless_free_clipboard_manager_for_mac/</link>
-      <description><![CDATA[      我找不到一个具有我需要的所有功能的像样的剪贴板管理器，所以我创建了自己的剪贴板管理器，使用自定义剪辑和菜单进行快速复制和即时粘贴，它是免费且开源的。请查看https://www.pastebar.app/ https://github.com/PasteBar/PasteBarApp 主要功能：  无限制、可搜索的复制历史记录 保存的自定义剪辑 快速访问粘贴菜单 收藏夹、标签和板块，用于组织最重要的内容 组织和跟踪您复制和粘贴的所有内容 本地存储数据，保护隐私和安全访问 免费且开源，代码可在 Github 上找到 现代界面  https://preview.redd.it/m4xf8rc0m2fd1.png?width=3026&amp;format=png&amp;auto=webp&amp;s=007f69366482a0df428f6b778c4b83b0c1055521 欢迎提供任何反馈！谢谢。 https://reddit.com/link/1edhhzt/video/qvo8r4nom2fd1/player    由   提交  /u/Appropriate-News4630   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1edhhzt/pastebar_limitless_free_clipboard_manager_for_mac/</guid>
-      <pubDate>Sat, 27 Jul 2024 14:21:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>k8s图架构</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1edhdox/k8s_diagram_architecture/</link>
-      <description><![CDATA[      大家好！ 我很高兴与大家分享我从清单文件生成 k8s 架构图的工具。🌟 如果您觉得有用，请随时为项目做出贡献或给它一颗星！ 🚀 我计划整合AI，进一步增强生成的架构图 https://github.com/kocierik/k8s-to-diagram https://preview.redd.it/gltblil5l2fd1.png?width=476&amp;format=png&amp;auto=webp&amp;s=80e6d6ad7373eb773fb96a238aaa6c2672d79d08    提交人    /u/NeedleworkerChoice68   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1edhdox/k8s_diagram_architecture/</guid>
-      <pubDate>Sat, 27 Jul 2024 14:16:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个免费的税收和生活日历，显示了我们作为政府奴隶的时间。亲自尝试一下</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1edh735/i_made_a_free_tax_life_calendar_that_shows_how/</link>
-      <description><![CDATA[    /u/preetramsha   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1edh735/i_made_a_free_tax_life_calendar_that_shows_how/</guid>
-      <pubDate>Sat, 27 Jul 2024 14:07:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>我需要一些关于名片的帮助</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1edgjyc/i_need_some_help_with_my_business_cards/</link>
-      <description><![CDATA[      我拥有一家网络代理公司，我正在为其制作一些名片。 我有一个模拟设计，我希望得到一些建设性的批评！ 前面 后面    提交人    /u/sk081205   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1edgjyc/i_need_some_help_with_my_business_cards/</guid>
-      <pubDate>Sat, 27 Jul 2024 13:36:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>发布了我的第一个 chrome 扩展！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1edg8xe/released_my_first_chrome_extension/</link>
-      <description><![CDATA[大家好！3 个月后，我终于发布了我的第一个 chrome 扩展程序 Clippr。Clippr 允许您保存来自任何网站的图像和文本，并将其全部收集在一个空间中。您还可以创建文件夹并为剪辑添加注释。请在此处查看： https://chromewebstore.google.com/detail/clippr/pfglcbmpkoenkbpmjikbefpahaeechpg 谢谢！！    提交人    /u/ashtonb-   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1edg8xe/released_my_first_chrome_extension/</guid>
-      <pubDate>Sat, 27 Jul 2024 13:21:27 GMT</pubDate>
     </item>
     </channel>
 </rss>
