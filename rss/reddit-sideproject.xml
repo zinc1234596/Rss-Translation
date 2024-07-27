@@ -4,7 +4,35 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Sat, 27 Jul 2024 06:16:52 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jul 2024 09:13:31 GMT</lastBuildDate>
+    <item>
+      <title>我在 Product Hunt 上的首次发布</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1edbu41/my_first_launch_on_product_hunt/</link>
+      <description><![CDATA[我的项目 Publish Studio 现已在 Product Hunt 上线。我很乐意听取您的反馈！ https://www.producthunt.com/posts/publish-studio    由   提交  /u/rakesh_at_reddit   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1edbu41/my_first_launch_on_product_hunt/</guid>
+      <pubDate>Sat, 27 Jul 2024 08:50:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>制作这个有趣的小工具来密切观察人工智能模型与不同国家之间的词语关联</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1edbbsw/made_this_little_fun_tool_to_see_closely_ai/</link>
+      <description><![CDATA[      它使用 AI 模型生成的词向量将单词表示为向量。通过训练，模型学会将数字与单词关联起来，使得具有相似含义的单词具有在数字上更接近的向量。例如，“car”和“van”具有相似的向量，但“car”和“carpet”则没有。然后，脚本使用相似度度量来比较输入单词的向量和每个国家/地区名称的向量。然后使用相似度得分为上方地图上的国家/地区着色。 [可在此处获取](https://www.wordmap.ubaada.com/    提交人    /u/grey-seagull   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1edbbsw/made_this_little_fun_tool_to_see_closely_ai/</guid>
+      <pubDate>Sat, 27 Jul 2024 08:13:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>screammemo - 展示客户评价</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1edau1g/shoutmemo_showcase_testimonials/</link>
+      <description><![CDATA[      我创建了这个网络应用shoutmemo.com来收集，使用嵌入小部件组织和展示客户推荐。这是早期版本，欢迎提供反馈。     提交人    /u/rjain883   [link] [comments] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1edau1g/shoutmemo_showcase_testimonials/</guid>
+      <pubDate>Sat, 27 Jul 2024 07:38:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>艾玛：我的副业。我期待着非常诚实的反馈</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ed9rrw/emma_my_side_project_im_looking_for_brutally/</link>
+      <description><![CDATA[🌟 我们*在这里为您提供力量，让您走上更加平衡和充实的生活。* 🚀 让我们一起追踪这些目标，庆祝您前进的每一步 您听过六个盲人和大象的故事吗？如果没有……让我简短地告诉你。一群盲人第一次遇到了大象。每个人都触摸了动物的不同部位——鼻子、耳朵、腿等等。根据他们有限的经验，他们对大象的描述不同：一条粗蛇、一把扇子、一个树干和一堵墙。寓意是什么？人类常常根据自己的主观经验声称绝对真理，而忽略他人同样有效的观点。😊 生活就是一场平衡行为！在我们追逐目标的同时，别忘了生活。努力让产品盈利的初创公司创始人💸可能会牺牲有意义的人际关系👫和自己的幸福🏋‍♂。而在健身房里拼命锻炼的健身爱好者🏋‍♀可能会忽视自己的心理健康🧠和人际关系。成功是甜蜜的，但我们不要忘记享受这段旅程！如果我们在这个过程中迷失了自己，那么获胜还有什么意义呢？ 就像那个 meme bro 赢了，但代价是什么😂？ 了解更多关于艾玛的信息 https://hrutikk.hashnode.dev/emmaai-enhance-the-quality-of-your-life-every-day 请喜欢我的博客，它对我来说意义重大    提交人    /u/Global-Radish-1015   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ed9rrw/emma_my_side_project_im_looking_for_brutally/</guid>
+      <pubDate>Sat, 27 Jul 2024 06:26:56 GMT</pubDate>
+    </item>
     <item>
       <title>我们将数据可视化项目变成了一家初创企业 - 希望从社区获得一些反馈:)</title>
       <link>https://www.reddit.com/r/SideProject/comments/1ed94nw/we_turned_our_data_visualization_project_into_a/</link>
@@ -69,13 +97,6 @@
       <pubDate>Sat, 27 Jul 2024 00:52:01 GMT</pubDate>
     </item>
     <item>
-      <title>向 Elon Anything Extension 提问 - 针对 Elon Musk 的推特时间线提问。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ed3toy/ask_elon_anything_extension_ask_questions_against/</link>
-      <description><![CDATA[        提交人    /u/CreateChaos777   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ed3toy/ask_elon_anything_extension_ask_questions_against/</guid>
-      <pubDate>Sat, 27 Jul 2024 00:48:48 GMT</pubDate>
-    </item>
-    <item>
       <title>100+ 完整 AI 目录列表</title>
       <link>https://www.reddit.com/r/SideProject/comments/1ed3a3o/100_complete_ai_directory_list/</link>
       <description><![CDATA[我整理了一份包含 100 多个目录列表的列表，您可以在其中提交您的 SAAS。我制作这份清单是因为我看到许多人通过提交到目录来吸引他们的 SAAS 并获得客户。我还添加了 DR 和流量等数据。 您可以在此处查看完整列表：https://growstartup.pro/ai-directory-list.html    提交人    /u/Available_Sir_3471   [链接] [评论]]]></description>
@@ -88,27 +109,6 @@
       <description><![CDATA[早在 2015 年，我就使用 GameSalad 程序创建了 Machinist Calculator 应用程序，GameSalad 是一款无代码游戏开发软件。该应用程序在应用商店中表现不错。它被称为 CNC Machinist Calculator Pro，目前仍在销售。我不是“真正的”应用程序开发人员。我不会编码。我从事机械加工行业已有 30 年，所以我的大部分技能都与机械加工有关。 现在 9 年过去了，GameSalad 正在慢慢消亡，所以我使用 Flutterflow 重新创建了该应用程序，Flutterflow 是一款“低代码”应用程序开发软件。使用 Flutterflow，我可以创建可以编码的自定义函数。我还可以创建自定义小部件。说实话，我喜欢这个平台。我曾经编写过我的新应用程序，并将其导出到 iOS、Android 或 Web。我使用 ChatGPT 来帮助编写自定义函数。我现在有 100 多个。最酷但最难的自定义函数是创建用于 CNC 中螺纹铣削的 G 代码。 新应用程序名为“CNC Machinist Calculator Ultra”。我正在寻找反馈。尝试它的最简单方法是使用网站 https://cncmachinistcalculatorultra.com/，但如果您更愿意在手机上测试它，也可以在两个应用商店下载。只是提醒您，该应用程序是基于订阅的，但所有功能无需订阅即可使用。您将无法看到结果，但其他一切都正常。 请嘲笑我！我想要负面反馈，这样我就可以改进应用程序的不稳定性。大多数人拒绝提供反馈。提前谢谢您     提交人    /u/machinistcalculator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1ed2jgo/i_created_a_machinist_calculator_app_again/</guid>
       <pubDate>Fri, 26 Jul 2024 23:46:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>我对日程安排感到非常沮丧，因此我创建了一个人工智能来帮我做这件事！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ed2ho4/got_so_frustrated_with_dayplanning_that_i_built/</link>
-      <description><![CDATA[嘿 Reddit！ 我想分享一些我一直在做的超级令人兴奋的事情 - 认识 Matty，您管理日历的新朋友！ 这个想法源于我对日历应用程序的失望。为您计划的每一天单独创建每个事件似乎比整天坐着看 Netflix 更浪费时间（至少看 Netflix 很有趣，对吧？）。 所有这些都让我想到，如果 ChatGPT 可以帮我做这件事，那不是很好吗？ 我所要做的就是分享我的大学时间表的照片或谈论我当天的目标，然后让它为我创建事件并安排时间。同时与 Google 日历同步，以便我也可以集成其他应用程序。 所以，这就是 Matty！请在这里查看→https://heymatty.vercel.app/ 这些是我迄今为止计划的功能：  使用自然语言从日历中创建、读取、更新、删除事件 通过分析时间段和提供建议帮助您更好地计划您的一天 帮助您将您的目标分解为更简单的步骤和事件提醒 与现有的聊天应用程序（如 WhatsApp 或 Telegram）集成，这样您就不必一直使用网站  如果您有任何建议或其他功能想法，请告诉我，我也会将它们添加到应用程序中！ 此外，目前正在进行一个非常早期的测试版，如果您有兴趣，只需在这里或在 twitter / x 上发送 dm 即可。    提交人    /u/pranshuj73   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ed2ho4/got_so_frustrated_with_dayplanning_that_i_built/</guid>
-      <pubDate>Fri, 26 Jul 2024 23:44:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>AWS 和 Vercel 吞噬了我的利润</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ed2d6l/aws_and_vercel_ate_my_profit/</link>
-      <description><![CDATA[是他们加上我的愚蠢。长话短说，两周前我推出了我的应用程序 https://www.blitztoksai.com/，效果还不错。我当天排名第四，对于我首次发布来说还不错。接下来的几天我赚了一些钱，但我注意到我的 AWS 账单因为 S3 数据传输而变得越来越大，我没有使用 CDN，因为我的期望值实际上很低，我根本没想到会有流量，所以何必费心呢。结果发现人们经常访问我的网站，我的 AWS 账单在一两天内就涨到了 40 美元。然后我惊慌失措，将所有静态文件移动到 vercel，因为我在路上，没有时间设置 cdn。这应该是一个临时解决方案，直到我回来。在我设法这样做之前，我的带宽超出了 vercel 的 Hobby 限制。现在我必须向 AWS 支付 40 美元，向 Vercel 支付 20 美元。人们会说这不算什么，但对于小型 SaaS 应用来说，这几乎是我 mrr 的一半。很好的开始，但我的愚蠢让我付出了很大的代价。吸取的教训 - 不要低估自己，不要懒得去实现可以为你省钱的架构。    提交人    /u/__proto__null   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ed2d6l/aws_and_vercel_ate_my_profit/</guid>
-      <pubDate>Fri, 26 Jul 2024 23:38:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>在社交媒体上写评论需要时间，所以我制作了一个人工智能来写评论</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ed1n3z/writing_comments_on_social_media_takes_time_so_i/</link>
-      <description><![CDATA[通常情况下，您可以使用 ChatGPT 来生成评论，但来来回回真的很累很无聊。我制作了一个 Google Chrome 扩展程序，将其自身注入 LinkedIn 和 Twitter，然后您只需单击一下即可对帖子发表评论。 我很快就会在 ProductHunt 上发布，你能为我点赞吗？ 这是该工具的链接：viralreply.com - 您可以免费使用它。    提交人    /u/codecomplete   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ed1n3z/writing_comments_on_social_media_takes_time_so_i/</guid>
-      <pubDate>Fri, 26 Jul 2024 23:04:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
