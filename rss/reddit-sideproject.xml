@@ -4,7 +4,14 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Sun, 28 Jul 2024 01:05:45 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jul 2024 03:14:59 GMT</lastBuildDate>
+    <item>
+      <title>[更新] 我的生日提醒短信网站用户数量已达 108 人</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1edvx48/update_i_hit_108_users_for_my_website_that_sends/</link>
+      <description><![CDATA[我厌倦了每天检查 Facebook 以查看哪些朋友过生日，因此我制作了一个简单的网站，通过短信提醒我：www.birthdaytexts.com 由于在 Reddit 上进行营销以及在与生日提醒相关的几个关键字上排名，我的用户已超过 100 名！ 很高兴回答有关堆栈、成本或为什么我不只使用 Google 日历的任何问题，哈哈    提交人    /u/OK_Maybe_No_Yes   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1edvx48/update_i_hit_108_users_for_my_website_that_sends/</guid>
+      <pubDate>Sun, 28 Jul 2024 01:22:29 GMT</pubDate>
+    </item>
     <item>
       <title>我刚刚将我的法学硕士学位转到了 Claude 3.5 Sonnet，它绝对让 chatgpt-4o 大吃一惊！！！</title>
       <link>https://www.reddit.com/r/SideProject/comments/1edvjdw/i_just_switched_my_llm_to_claude_35_sonnet_and_it/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[嗨，Reddit！ 我来自突尼斯，我发现周围的人经常抱怨听不懂我的方言。这很令人沮丧，因为没有好的翻译器可以将英语或法语转换成我们当地的突尼斯阿拉伯语。 为了解决这个问题，我决定创建一个免费的应用程序，将法语或英语翻译成任何阿拉伯方言，包括突尼斯阿拉伯语。翻译可以以阿拉伯文字或拉丁字母查看，让更广泛的受众可以使用。 我为什么做这个 我想帮助弥合我们许多人每天面临的沟通鸿沟。我们的方言独特而丰富，值得被更多人理解。 工作原理  输入：输入法语或英语文本。 输出：以所选阿拉伯语方言接收翻译。 脚本选项：查看阿拉伯语脚本或拉丁字母的翻译。  我希望您尝试一下并分享您的反馈。让我们更容易地相互理解！ 谢谢阅读！    提交人    /u/nabskan   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1edo32a/im_tunisian_and_everyone_around_me_complains/</guid>
       <pubDate>Sat, 27 Jul 2024 19:13:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于 Chrome 的亮度控制以取代所有暗黑模式</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ednrgc/brightness_control_for_chrome_to_replace_all/</link>
-      <description><![CDATA[      仍然不是每个网站都有合适的暗黑模式。为每个网站创建暗黑模式是不可能的，而且像darkreader这样的暗黑模式扩展并不总是有效或看起来很完美。为了解决眼睛疲劳的问题，我创建了这个chrome 扩展程序，它可以控制每个页面的亮度，而不是翻转颜色。 https://preview.redd.it/ck8empvuz3fd1.png?width=239&amp;format=png&amp;auto=webp&amp;s=a3087954f687c7c85be7b8983883f4d8b13705c2 它允许全局控制浏览器的亮度，或者可以为特定网站保存为某个值。如果由于某种原因您需要使页面变亮，这也是可能的。 如果您有兴趣，请免费此处查看。 如果您发现任何错误或缺少任何功能，请告诉我。    提交人    /u/Pleasant_Engine_1069   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ednrgc/brightness_control_for_chrome_to_replace_all/</guid>
-      <pubDate>Sat, 27 Jul 2024 18:59:26 GMT</pubDate>
     </item>
     </channel>
 </rss>
