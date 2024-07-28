@@ -4,7 +4,49 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Sun, 28 Jul 2024 09:14:56 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jul 2024 12:23:12 GMT</lastBuildDate>
+    <item>
+      <title>我创建了一个 AI 短裤生成器</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ee6118/i_created_an_ai_shorts_generator/</link>
+      <description><![CDATA[        提交人    /u/Amazing_Mud2086   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ee6118/i_created_an_ai_shorts_generator/</guid>
+      <pubDate>Sun, 28 Jul 2024 12:11:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>直接从 YouTube 视频购物</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ee5i30/shop_directly_from_youtube_videos/</link>
+      <description><![CDATA[所以我做了一个小项目（一个 chrome 扩展程序），允许任何人购买 YouTube 视频中看到的任何内容。 他们只需在视频中圈出对象，扩展程序就会返回购买该物品的链接。 它目前支持亚马逊、eBay、AliExpress 和阿里巴巴链接。 商业模式：联盟链接，因此每当有人通过我的链接进行购买时，我都会赚取佣金。正在考虑高级版本的订阅模式。 分销/营销：仍悬而未决。这是一个棘手的问题，因为如果我的增长超过运营成本（API 调用成本），我可能不得不关闭它或将其出售给其他有钱人。 buildinpublic    提交人    /u/pystar   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ee5i30/shop_directly_from_youtube_videos/</guid>
+      <pubDate>Sun, 28 Jul 2024 11:40:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>无限翻译 API 服务</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ee4yzh/unlimit_translate_api_service/</link>
+      <description><![CDATA[我提供无限制请求的翻译 api 服务，价格为 25 美元/月。 有人感兴趣吗？    提交人    /u/sangpq   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ee4yzh/unlimit_translate_api_service/</guid>
+      <pubDate>Sun, 28 Jul 2024 11:06:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>我很高兴与大家分享我的新项目，让我们共同成长！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ee4uhd/im_excited_to_share_my_new_side_project_with_you/</link>
+      <description><![CDATA[大家好！ 如果您正在从事需要 API 文档的项目或计划从整体式迁移到微服务、或从 SOAP 迁移到 REST，我可以提供帮助。我专注于创建一流的 API 文档，并使迁移变得顺畅且轻松。 首先，我提供了一个很棒的交易：前 20 位联系我们的人将获得 10 条完全免费的 API 路径记录！ 您将获得以下内容： 详细的 OpenAPI 3.0 工件，具有精心设计的架构和响应 每个操作 ID 的综合 MS Word 文档 免费目录托管，无隐藏费用或附加条件 为什么选择我？ 轻松迁移的实际指导和教学 实施 API 优先方法 完全拥有我制作的文档，因此您可以随意使用它 我非常热衷于帮助他人并发展这个项目，所以我很乐意与您合作。如果您有兴趣，请尽快联系我们，索取您的免费 API 路径！ 谢谢，    提交人    /u/faraechilibru   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ee4uhd/im_excited_to_share_my_new_side_project_with_you/</guid>
+      <pubDate>Sun, 28 Jul 2024 10:58:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>隐私和服务条款政策实际上基于您的应用/网站。只需连接您的 GitHub 存储库或输入您网站的 URL。不再需要填写烦人且耗时的问卷。最后，遵守法律。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ee4eif/privacy_tos_policies_actually_based_on_your/</link>
+      <description><![CDATA[        提交人    /u/Local_Standard9668   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ee4eif/privacy_tos_policies_actually_based_on_your/</guid>
+      <pubDate>Sun, 28 Jul 2024 10:27:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个联盟计划目录（AffiliList.com）</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ee3wad/i_made_a_directory_of_affiliate_programs/</link>
+      <description><![CDATA[      嗨，副业者们， 我已经在这个项目上工作了一段时间，我终于把它做到了我认为可以引起人们注意的程度。它的名字是 AffiliList（是的，我知道，这个名字很有创意，哈哈）。 基本上，它是一个干净、直接的联盟计划目录。没有烦人的广告，没有粗略的东西，只有一份你可以加入以赚取额外现金的计划列表。 我对所有糟糕的、过时的列表感到沮丧，所以我决定自己做一个。它仍在进行中，但我认为它已经非常有用了。 哦，如果你们中有谁有自己的联盟​​计划，请随时提交。在我的 Lemon Squeezy 商店获得批准之前，它将是免费的（希望这很快就会发生）。 我很想听听你们的想法。欢迎任何反馈、建议或直言不讳。这是你真正会用的东西吗？哪些功能会使它对您更有用？ https://preview.redd.it/xvq41m2te8fd1.png?width=1920&amp;format=png&amp;auto=webp&amp;s=1eea55b9ef413c77b7916e6d7a81f80712033740 感谢您的关注！    提交人    /u/evanyang0202   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ee3wad/i_made_a_directory_of_affiliate_programs/</guid>
+      <pubDate>Sun, 28 Jul 2024 09:52:08 GMT</pubDate>
+    </item>
     <item>
       <title>来看看我们的新 UI/UX</title>
       <link>https://www.reddit.com/r/SideProject/comments/1ee36tr/come_see_our_new_uiux/</link>
@@ -67,48 +109,6 @@
       <description><![CDATA[      https://preview.redd.it/fpkqbtbvy6fd1.jpg?width=1032&amp;format=pjpg&amp;auto=webp&amp;s=d9ffced0de30a1ebc6c04aef16f6da01fec700b7 https://preview.redd.it/x9dewe4wy6fd1.jpg?width=1030&amp;format=pjpg&amp;auto=webp&amp;s=79980c247e56cd33b1eaf9ed1c238532b334e737 https://preview.redd.it/5vv2vp1xy6fd1.jpg?width=1029&amp;format=pjpg&amp;auto=webp&amp;s=fbd45b69cf5c2bcf1a25ba47d74ab1a391cfd6a0 https://preview.redd.it/qkv2ehkxy6fd1.jpg?width=1032&amp;format=pjpg&amp;auto=webp&amp;s=e61764f6c5a323362659519248d54bbe2cb653e3 https://preview.redd.it/04de3dzxy6fd1.jpg?width=1028&amp;format=pjpg&amp;auto=webp&amp;s=6b0fd574db8111ff93d620089df504c6b224cfe5 什么是 Google Fonts Tester 以及为什么使用它？ 一个免费的基于网络的工具，用于探索和配对 Google 字体。 Fontsdiff.com 的 Google Fonts Tester 提供了一个用户友好的界面，可用于评估、比较和试验字体。它具有字体配对、可变字体轴调整、x 高度和大写高度信息、字形间探索和样本列表等功能。详细的视觉并排比较使字体选择变得简单而高效。 主要功能：  字体测试器：在一个地方探索、比较、配对和使用字体。 字体探索：预览任何 Google 字体，并由 Google 自动更新。 可变字体测试器：使用 BNCE、INFM、SPAC 等可变字体轴测试各种样式。 X 高度和大写高度排版：精确匹配的详细信息。 字体配对工具：轻松创建和微调字体组合。 同步模式：通过同步更改保持一致的内容和样式。 字形探索：在 Google 中发现独特的字形字体。 样本探索：列出每种字体可用的字体样式和粗细。 游乐场：在一张卡片上比较不同的 Google 字体，以直观的方式创建字体对。  我们很乐意听取您的反馈！让我们知道您对这些功能的看法，以及您希望在 Google 字体测试器中看到的其他任何内容。您的意见将帮助我们改进此工具。    提交人    /u/fontsdiff   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1edzr2f/working_on_google_fonts_tester_playground_compare/</guid>
       <pubDate>Sun, 28 Jul 2024 05:02:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>[更新] 我的生日提醒短信网站用户数量已达 108 人</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1edvx48/update_i_hit_108_users_for_my_website_that_sends/</link>
-      <description><![CDATA[我厌倦了每天检查 Facebook 以查看哪些朋友过生日，因此我制作了一个简单的网站，通过短信提醒我：www.birthdaytexts.com 由于在 Reddit 上进行营销以及在与生日提醒相关的几个关键字上排名，我的用户已超过 100 名！ 很高兴回答有关堆栈、成本或为什么我不只使用 Google 日历的任何问题，哈哈    提交人    /u/OK_Maybe_No_Yes   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1edvx48/update_i_hit_108_users_for_my_website_that_sends/</guid>
-      <pubDate>Sun, 28 Jul 2024 01:22:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>我刚刚将我的法学硕士学位转到了 Claude 3.5 Sonnet，它绝对让 chatgpt-4o 大吃一惊！！！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1edvjdw/i_just_switched_my_llm_to_claude_35_sonnet_and_it/</link>
-      <description><![CDATA[        提交人    /u/Fast-Society7107   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1edvjdw/i_just_switched_my_llm_to_claude_35_sonnet_and_it/</guid>
-      <pubDate>Sun, 28 Jul 2024 01:01:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>SliderJackpot：猜测三个滑块的随机位置来编辑站点消息</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1edv8uc/sliderjackpot_guess_the_random_position_of_three/</link>
-      <description><![CDATA[  由    /u/Potential_Action_658  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1edv8uc/sliderjackpot_guess_the_random_position_of_three/</guid>
-      <pubDate>Sun, 28 Jul 2024 00:45:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>朋友查找器 Android 应用程序</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1eduyn5/friend_finder_android_app/</link>
-      <description><![CDATA[      我最近推出了我的第一个应用程序，它是 Snapchat 和 Instagram 的朋友查找器。非常感谢您的反馈    提交人    /u/Unreal_Apps887   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1eduyn5/friend_finder_android_app/</guid>
-      <pubDate>Sun, 28 Jul 2024 00:30:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>我正在开发一款应用程序来帮助你与朋友见面并触摸草地</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1edtkj4/i_am_building_an_app_to_help_you_meet_with/</link>
-      <description><![CDATA[      推出 Planety，一款可帮助您与朋友见面的应用程序。不再有取消的计划或混乱的群聊。 添加聚会 同步日历 有意义的会面 保留回忆 到目前为止，已有 47 人加入了候补名单！ 在这里加入候补名单：https://planety.carrd.co/ 在这里观看演示https://www.youtube.com/watch?v=lkUgS-x1pSA 在 insta/x 上关注我，查看我的旅程 https://www.instagram.com/upsidedan24/ https://x.com/DanielisLucky DM 我了解更多信息    由   提交  /u/theluckyauthor   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1edtkj4/i_am_building_an_app_to_help_you_meet_with/</guid>
-      <pubDate>Sat, 27 Jul 2024 23:21:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个轻量级的基于终端的应用程序来查看和查询带有 SQL 支持的 CSV 文件。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1edt868/i_created_a_lightweight_terminalbased_application/</link>
-      <description><![CDATA[      Tabiew Tabiew 是一个轻量级的基于终端的应用程序，用于查看和查询分隔符分隔值格式的文档，例如 CSV 或 TSV 文件。 https://preview.redd.it/aq0225i365fd1.png?width=2535&amp;format=png&amp;auto=webp&amp;s=88cc55b22be65c7060e3617e46b5d2e03c321f43 特点：  🛠️ SQL 查询支持 🗂️ 多选项卡 ⌨️ 受 Vim 启发键绑定  链接：https://github.com/shshemi/tabiew    由    /u/shshemi 提交   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1edt868/i_created_a_lightweight_terminalbased_application/</guid>
-      <pubDate>Sat, 27 Jul 2024 23:05:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
