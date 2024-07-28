@@ -4,7 +4,28 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Sun, 28 Jul 2024 03:14:59 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jul 2024 06:18:02 GMT</lastBuildDate>
+    <item>
+      <title>Oxy/clean ::wj-mx50 ::视频混合</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ee0oa3/oxyclean_wjmx50_video_mix/</link>
+      <description><![CDATA[        提交人    /u/Glitchbitch1389   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ee0oa3/oxyclean_wjmx50_video_mix/</guid>
+      <pubDate>Sun, 28 Jul 2024 06:02:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>在接下来的 7 天内构建一个有特色的聊天 pdf 应用程序 - 您将用它做什么？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ee0e06/building_a_chat_pdf_app_with_a_twist_in_the_next/</link>
+      <description><![CDATA[我注意到很多 chatpdf 风格的网站，例如。 chatpdf.com、chatbotapp.ai、chatdoc.com、sider.ai、monica.im、chatpdf.so、textcortex.com 但是，我觉得真的没有什么差异化因素，而且用户界面肯定可以改进。 我认为还有调整和改变的空间——与 pdf 聊天只是一个功能，但创建一个我认为，经验和实际的解决方案跟进至关重要。只是为了探索，我将在接下来的 7 天内构建一个 MVP，更好的 UI 和这些应用程序都没有的 3 个关键功能（可能还有其他，但到目前为止还没有）。 通常，从这些文档中提取信息后你会做什么？ 你对这些网站有任何反馈/不喜欢或发现不足的地方吗？ 在我构建它时，感谢任何反馈/请求，你可以尝试一下！    提交人    /u/Correct-Pop5826   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ee0e06/building_a_chat_pdf_app_with_a_twist_in_the_next/</guid>
+      <pubDate>Sun, 28 Jul 2024 05:43:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Google 字体测试器：游乐场、比较、配对、可变轴、X 高度、大写高度和预览</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1edzr2f/working_on_google_fonts_tester_playground_compare/</link>
+      <description><![CDATA[      https://preview.redd.it/fpkqbtbvy6fd1.jpg?width=1032&amp;format=pjpg&amp;auto=webp&amp;s=d9ffced0de30a1ebc6c04aef16f6da01fec700b7 https://preview.redd.it/x9dewe4wy6fd1.jpg?width=1030&amp;format=pjpg&amp;auto=webp&amp;s=79980c247e56cd33b1eaf9ed1c238532b334e737 https://preview.redd.it/5vv2vp1xy6fd1.jpg?width=1029&amp;format=pjpg&amp;auto=webp&amp;s=fbd45b69cf5c2bcf1a25ba47d74ab1a391cfd6a0 https://preview.redd.it/qkv2ehkxy6fd1.jpg?width=1032&amp;format=pjpg&amp;auto=webp&amp;s=e61764f6c5a323362659519248d54bbe2cb653e3 https://preview.redd.it/04de3dzxy6fd1.jpg?width=1028&amp;format=pjpg&amp;auto=webp&amp;s=6b0fd574db8111ff93d620089df504c6b224cfe5 什么是 Google Fonts Tester 以及为什么使用它？ 一个免费的基于网络的工具，用于探索和配对 Google 字体。 Fontsdiff.com 的 Google Fonts Tester 提供了一个用户友好的界面，可用于评估、比较和试验字体。它具有字体配对、可变字体轴调整、x 高度和大写高度信息、字形间探索和样本列表等功能。详细的视觉并排比较使字体选择变得简单而高效。 主要功能：  字体测试器：在一个地方探索、比较、配对和使用字体。 字体探索：预览任何 Google 字体，并由 Google 自动更新。 可变字体测试器：使用 BNCE、INFM、SPAC 等可变字体轴测试各种样式。 X 高度和大写高度排版：精确匹配的详细信息。 字体配对工具：轻松创建和微调字体组合。 同步模式：通过同步更改保持一致的内容和样式。 字形探索：在 Google 中发现独特的字形字体。 样本探索：列出每种字体可用的字体样式和粗细。 游乐场：在一张卡片上比较不同的 Google 字体，以直观的方式创建字体对。  我们很乐意听取您的反馈！让我们知道您对这些功能的看法，以及您希望在 Google 字体测试器中看到的其他任何内容。您的意见将帮助我们改进此工具。    提交人    /u/fontsdiff   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1edzr2f/working_on_google_fonts_tester_playground_compare/</guid>
+      <pubDate>Sun, 28 Jul 2024 05:02:33 GMT</pubDate>
+    </item>
     <item>
       <title>[更新] 我的生日提醒短信网站用户数量已达 108 人</title>
       <link>https://www.reddit.com/r/SideProject/comments/1edvx48/update_i_hit_108_users_for_my_website_that_sends/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[我正在考虑构建一个徽标设计反馈平台。它的工作方式类似于“Roast my UX”，但仅适用于徽标。下面是其工作原理的一个非常简单的解释：  排队，也就是队列 轮到您时上传您的徽标 从经过审查的/专家设计师那里获得可操作的反馈。  可能非常适合：  学习基础知识的新手 升级的中级设计师 希望以全新的眼光看待其工作的专业人士  我们的想法是让所有技能水平的设计师都能轻松、快速地获得对其徽标设计的诚实和专家反馈。 1.总体想法，您觉得怎么样？ 2. 您愿意为这样的服务付费吗？ 3. 什么值得您花时间？ 在下面写下您的想法。我真的很想知道大家的想法。    提交人    /u/Beautiful_Cod3175   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1edpc70/general_thoughts_on_a_small_startup_idea_for_logo/</guid>
       <pubDate>Sat, 27 Jul 2024 20:09:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>哪一个更适合在标题中显示日期时间？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1edotgy/which_one_is_better_for_showing_date_time_in/</link>
-      <description><![CDATA[        提交人    /u/doganarif   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1edotgy/which_one_is_better_for_showing_date_time_in/</guid>
-      <pubDate>Sat, 27 Jul 2024 19:46:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>我是突尼斯人，我周围的每个人都抱怨听不懂我的方言，也找不到任何从英语/法语到我的语言的翻译器。所以我创建了这个 100% Flask + Bootstrap 免费应用程序，用于将法语或英语转换为任何阿拉伯方言（用阿拉伯/拉丁字母书写）</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1edo3vt/im_tunisian_and_everyone_around_me_complains/</link>
-      <description><![CDATA[在此测试 Klemy！  嘿 Reddit！ 我来自突尼斯，我注意到周围的人经常抱怨听不懂我的方言。这很令人沮丧，因为没有好的翻译器可以将英语或法语转换成我们当地的突尼斯阿拉伯语。 为了解决这个问题，我决定创建一个免费的应用程序，将法语或英语翻译成任何阿拉伯方言，包括突尼斯阿拉伯语。翻译可以以阿拉伯文字或拉丁字母显示，让更多人能够理解。 工作原理  输入：输入法语或英语文本。 输出：以所选阿拉伯方言接收翻译。 脚本选项：以阿拉伯文字或拉丁字母查看翻译。  我希望您尝试一下并分享您的反馈。让我们更容易地相互理解！ 谢谢阅读！    提交人    /u/nabskan   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1edo3vt/im_tunisian_and_everyone_around_me_complains/</guid>
-      <pubDate>Sat, 27 Jul 2024 19:14:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>我是突尼斯人，我周围的每个人都抱怨听不懂我的方言，也找不到任何从英语/法语到我的语言的翻译器。所以我创建了这个 100% Flask + Bootstrap 免费应用程序，用于将法语或英语转换为任何阿拉伯方言（用阿拉伯/拉丁字母书写）</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1edo32a/im_tunisian_and_everyone_around_me_complains/</link>
-      <description><![CDATA[嗨，Reddit！ 我来自突尼斯，我发现周围的人经常抱怨听不懂我的方言。这很令人沮丧，因为没有好的翻译器可以将英语或法语转换成我们当地的突尼斯阿拉伯语。 为了解决这个问题，我决定创建一个免费的应用程序，将法语或英语翻译成任何阿拉伯方言，包括突尼斯阿拉伯语。翻译可以以阿拉伯文字或拉丁字母查看，让更广泛的受众可以使用。 我为什么做这个 我想帮助弥合我们许多人每天面临的沟通鸿沟。我们的方言独特而丰富，值得被更多人理解。 工作原理  输入：输入法语或英语文本。 输出：以所选阿拉伯语方言接收翻译。 脚本选项：查看阿拉伯语脚本或拉丁字母的翻译。  我希望您尝试一下并分享您的反馈。让我们更容易地相互理解！ 谢谢阅读！    提交人    /u/nabskan   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1edo32a/im_tunisian_and_everyone_around_me_complains/</guid>
-      <pubDate>Sat, 27 Jul 2024 19:13:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
