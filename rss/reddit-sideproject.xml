@@ -4,7 +4,35 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Mon, 29 Jul 2024 03:16:18 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jul 2024 06:19:39 GMT</lastBuildDate>
+    <item>
+      <title>我创建了 LinkedIn 帖子格式化程序 chrome 扩展</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ees55b/i_built_linkedin_post_formatter_chrome_extension/</link>
+      <description><![CDATA[      我不想离开 LinkedIn格式化我的文本，我也不想为这个基本功能付费。 使用 AI 进行 3-4 小时的开发，包括登陆页面及其空中内容。 它是如何工作的？此扩展将自定义格式按钮添加到您的 LinkedIn 帖子编辑器，允许您在帖子中使用粗体、斜体、项目符号等。  无需离开 LinkedIn 使用简单 100% 免费     提交人    /u/Brilliant-Advance-57   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ees55b/i_built_linkedin_post_formatter_chrome_extension/</guid>
+      <pubDate>Mon, 29 Jul 2024 05:57:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的 Product Hunt 推出失败了，不过没关系（我想是吧？）</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ees0rp/my_product_hunt_launch_was_a_flop_and_thats_okay/</link>
+      <description><![CDATA[嗨，各位制作者们， 我刚刚在 Product Hunt 上发布了我的产品 FillBot，结果……一片寂静。🦗 你知道举办派对时担心没人来参加的那种感觉吗？是的，有点像那样，只不过它真的发生了。 FillBot 是我倾注了全部心血的 Chrome 扩展程序。它应该通过 AI 让填写表格变得轻而易举（想想强化版的自动填充）。我非常兴奋地与全世界分享它，梦想着梦寐以求的“今日产品”徽章。 现实检查：它甚至没有在雷达上引起任何光点。 起初，我觉得自己失败得很惨。但是现在，几个小时后，我试图将此视为一次学习经历。 所以，我向你求助，Reddit。你们中有人经历过类似的经历吗？你是如何恢复的？有任何重试的提示吗，或者我应该将其归结为“性格塑造体验”？ 嘿，如果你对 FillBot 感到好奇（祝福你），请随时询问。我保证我不会进行销售宣传 - 坦率地说，我认为我现在更需要建议而不是客户！ 谢谢你让我发泄。在公共场合建造很难，但至少我们都在一起坐过山车，对吧？   由    /u/Bubbly_Gap3828  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ees0rp/my_product_hunt_launch_was_a_flop_and_thats_okay/</guid>
+      <pubDate>Mon, 29 Jul 2024 05:49:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>制作了 GitHub 贡献图表，但用于销售和营销活动。有人感兴趣吗？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1eeqzsi/made_a_github_contributions_chart_but_for_sales/</link>
+      <description><![CDATA[        提交者    /u/mnaveennaidu   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1eeqzsi/made_a_github_contributions_chart_but_for_sales/</guid>
+      <pubDate>Mon, 29 Jul 2024 04:45:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>011.video：文本转视频 100% 免费在线（新版本）</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1eeqi68/011video_text_to_video_100_free_online_new_release/</link>
+      <description><![CDATA[ 011.video 是一个免费的用户友好型在线工具（非 AI），无需注册即可将文本转换为视频。 它不需要任何技术技能，允许用户创建无限时长的高清或 4K 分辨率视频。 该平台可以将文章、博客帖子和网页转换为引人入胜的视频，以便在社交媒体上分享。 无需复杂的视频编辑技能，用户只需几个简单的步骤即可创建视频。 011.video 提供无水印体验，确保您的内容保持干净和专业。 该平台没有限制，允许用户创建多个视频而无需注册或购买高级计划。  https://011.video    由   提交  /u/011_video   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1eeqi68/011video_text_to_video_100_free_online_new_release/</guid>
+      <pubDate>Mon, 29 Jul 2024 04:16:20 GMT</pubDate>
+    </item>
     <item>
       <title>我创建了一个网站，帮助你使用语音转文本和人工智能来建立你的回忆录</title>
       <link>https://www.reddit.com/r/SideProject/comments/1eeopq6/i_made_a_website_that_helps_you_build_your_memoir/</link>
@@ -22,7 +50,7 @@
     <item>
       <title>确保用户上传的文件不受恶意软件侵害：您的方法是什么 - 想法验证</title>
       <link>https://www.reddit.com/r/SideProject/comments/1eenpdo/keeping_useruploaded_files_malwarefree_whats_your/</link>
-      <description><![CDATA[维护用户上传的文件（如应用中的个人资料照片和文档）的安全性至关重要，但可能很棘手。隐藏在这些文件中的恶意软件很容易溜走并构成严重威胁。 我正在考虑创建一个 SaaS 平台，以使用 ClamAV 自动执行恶意软件扫描。这个想法是在文件首次上传时以及可能需要检查的现有文件中扫描恶意软件（如木马和病毒）。 我很好奇 - 您现在如何处理这个问题？您是否使用任何特定的工具或方法来扫描？ 像这样的自动化解决方案，涵盖新上传和现有文件，会让您感兴趣吗？    提交人    /u/prabhu_are   [链接] [评论]]]></description>
+      <description><![CDATA[维护用户上传的文件（如个人资料照片和应用中的文档）的安全性至关重要，但可能很棘手。隐藏在这些文件中的恶意软件很容易溜走并构成严重威胁。 我正在考虑创建一个 SaaS 平台，以使用 ClamAV 自动执行恶意软件扫描。这个想法是在文件首次上传时以及可能需要检查的现有文件中扫描恶意软件（如木马和病毒）。 我很好奇 - 您现在如何处理这个问题？您是否使用任何特定的工具或方法来扫描？ 像这样的自动化解决方案，涵盖新上传和现有文件，会让您感兴趣吗？    提交人    /u/prabhu_are   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1eenpdo/keeping_useruploaded_files_malwarefree_whats_your/</guid>
       <pubDate>Mon, 29 Jul 2024 01:46:19 GMT</pubDate>
     </item>
@@ -81,34 +109,6 @@
       <description><![CDATA[有人因为担心不会有任何结果而不开始，那有什么意义呢？    提交人    /u/qa_anaaq   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1eek9my/fear_to_start/</guid>
       <pubDate>Sun, 28 Jul 2024 22:58:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>上个月，我从我的 AI 网站赚了 4000 美元，这个网站可以在一个屏幕上输出不同的 LLM 答案</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1eek10l/i_made_4k_in_the_last_month_from_my_ai_site_that/</link>
-      <description><![CDATA[我过去依赖 LLM 基准测试来了解最佳 AI 是什么，虽然看到 Claude 3.5 优于 GPT4o 然后订阅它很有用，但我仍然觉得 GPT4o 或 Llama 3 在某些用例上比 Claude 表现更好。 这是因为研究论文基准测试只能做到这么多，你需要看到你面前的所有 AI 模型，才能真正看到哪个给出了最好的答案。 我构建了 ninjachat dot ai，一个 AI 游乐场，你可以在一个屏幕上与最多 6 个 AI 模型聊天。对于我使用 AI 的每个用例（文案写作、编码、生活建议和其他一些事情），我都得到了更好的答案。 如果您有任何反馈，请告诉我！ https://reddit.com/link/1eek10l/video/h6lv9tv89cfd1/player    提交人    /u/Specialist-Lime-6411   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1eek10l/i_made_4k_in_the_last_month_from_my_ai_site_that/</guid>
-      <pubDate>Sun, 28 Jul 2024 22:48:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年美国、加拿大、英国、印度、欧洲最佳 IPTV 提供商 - 可靠且价格实惠的流媒体服务</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1eej68z/best_iptv_provider_2024_in_usa_canada_uk_india/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1eej68z/best_iptv_provider_2024_in_usa_canada_uk_india/</guid>
-      <pubDate>Sun, 28 Jul 2024 22:09:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>网站/博客对于副项目来说仍然是一个好的起点吗？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1eeiqlc/is_websiteblog_still_a_good_starting_point_for/</link>
-      <description><![CDATA[去年，我推出了我的网站/博客，讨论人工智能的信任与安全以及人工智能工具技巧。我创建了社交媒体账户来推广这个网站，但它从未获得太大的关注。 今年，我听了 Verge 的后续报道，说小型网站/博客基本上已经死了。一般来说，人们应该在社交媒体上发布视频来吸引关注。 我想知道大家的想法和经历。    提交人    /u/franxfran   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1eeiqlc/is_websiteblog_still_a_good_starting_point_for/</guid>
-      <pubDate>Sun, 28 Jul 2024 21:50:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>把你的死亡计划送给我</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1eeilyl/gift_me_your_dead_side_project/</link>
-      <description><![CDATA[  由    /u/the_founder_winner  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1eeilyl/gift_me_your_dead_side_project/</guid>
-      <pubDate>Sun, 28 Jul 2024 21:44:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
