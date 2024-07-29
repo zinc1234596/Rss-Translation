@@ -4,7 +4,42 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Mon, 29 Jul 2024 01:02:43 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jul 2024 03:16:18 GMT</lastBuildDate>
+    <item>
+      <title>我创建了一个网站，帮助你使用语音转文本和人工智能来建立你的回忆录</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1eeopq6/i_made_a_website_that_helps_you_build_your_memoir/</link>
+      <description><![CDATA[嘿！👋 我已经在这个业余项目上工作了好几个月。大部分时间都是在周末工作。它叫做 LifeMemoirs.AI。 我小时候，祖父十年前去世了。他过着多事的生活，英年早逝。不幸的是，我对他的生活了解不多，因为没有任何地方记录他的生活。所以这个项目的目标是先为我的家人建立一些东西，希望其他人也喜欢使用它。目前售价为 20 美元/一次性费用。  功能： - 根据您对起始问题的回答生成个性化的后续问题 - 您用语音回答，它将被转录并生成回忆录页面 - 您回答的越多，您获得的页面就越多 - 您可以与任何人分享您的回忆录 即将推出： - 与家庭成员协作 - 能够添加照片和视频 - 回忆录的叙述 我希望你们检查一下。希望你有一个能从这样的工具中受益的人，并且你可以在为时已晚之前保存他们的生活故事。  谢谢！！    提交人    /u/Octopus0245   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1eeopq6/i_made_a_website_that_helps_you_build_your_memoir/</guid>
+      <pubDate>Mon, 29 Jul 2024 02:38:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>元问题 - 我们可以禁止那些为了吸引用户而公然撒谎的帖子吗？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1eeo8h4/meta_question_can_we_ban_posts_that_are_blatantly/</link>
+      <description><![CDATA[发布此内容的用户（在我叫他出来后屏蔽了我）一直在反复发布有关他的 Ninja 多重 LLM 应用程序的帖子，很明显这是赤裸裸的垃圾信息以吸引用户。他会说，“它没有增长！”然后一周后抛出数字说他那周赚了 1,400 美元。 https://www.reddit.com/r/SideProject/comments/1eek10l/i_made_4k_in_the_last_month_from_my_ai_site_that/ https://www.reddit.com/r/SideProject/comments/1e8xdld/i_launched_a_site_3_weeks_ago_and_its_made_26k_so/ 我想还有其他一些帖子，但遗憾的是现在他屏蔽了我，我无法查找它们。 这显然是一种吸引用户的策略 - 而且我还在这个和类似的 subreddits 上看到过其他不诚实的广告尝试（比如来自 Rocket Devs） 这显然是一个自我推销的子版块，但我不认为应该鼓励不诚实的自我推销。    由    /u/OfficeSalamander  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1eeo8h4/meta_question_can_we_ban_posts_that_are_blatantly/</guid>
+      <pubDate>Mon, 29 Jul 2024 02:13:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>确保用户上传的文件不受恶意软件侵害：您的方法是什么 - 想法验证</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1eenpdo/keeping_useruploaded_files_malwarefree_whats_your/</link>
+      <description><![CDATA[维护用户上传的文件（如应用中的个人资料照片和文档）的安全性至关重要，但可能很棘手。隐藏在这些文件中的恶意软件很容易溜走并构成严重威胁。 我正在考虑创建一个 SaaS 平台，以使用 ClamAV 自动执行恶意软件扫描。这个想法是在文件首次上传时以及可能需要检查的现有文件中扫描恶意软件（如木马和病毒）。 我很好奇 - 您现在如何处理这个问题？您是否使用任何特定的工具或方法来扫描？ 像这样的自动化解决方案，涵盖新上传和现有文件，会让您感兴趣吗？    提交人    /u/prabhu_are   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1eenpdo/keeping_useruploaded_files_malwarefree_whats_your/</guid>
+      <pubDate>Mon, 29 Jul 2024 01:46:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Code2Docs 更新</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1eemzcu/code2docs_update/</link>
+      <description><![CDATA[嗨，这是 Code2Docs 的更新。我们正在寻找反馈（以及是否将其制作成网络/桌面应用程序或 VSC 扩展）。这是 YouTube 上 Code2Docs 的更新演示。 编辑：所有项目链接都移至第一条评论。    由   提交  /u/xKarinSan   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1eemzcu/code2docs_update/</guid>
+      <pubDate>Mon, 29 Jul 2024 01:08:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>重复任务太棒了！它一开始是一个周末项目，但现在已经发展壮大了——而且非常棒！欢迎给我发 DM 进行测试。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1eemwvo/repeating_tasks_are_fantastic_it_started_as_a/</link>
+      <description><![CDATA[        提交者    /u/doganarif   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1eemwvo/repeating_tasks_are_fantastic_it_started_as_a/</guid>
+      <pubDate>Mon, 29 Jul 2024 01:05:21 GMT</pubDate>
+    </item>
     <item>
       <title>请帮助我们进行用户研究！</title>
       <link>https://www.reddit.com/r/SideProject/comments/1eemp8s/please_help_us_with_user_research/</link>
@@ -74,41 +109,6 @@
       <description><![CDATA[  由    /u/the_founder_winner  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1eeilyl/gift_me_your_dead_side_project/</guid>
       <pubDate>Sun, 28 Jul 2024 21:44:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>我开发了一个自动化简历反馈的工具</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1eeihxn/i_developed_a_tool_to_automate_cv_feedback/</link>
-      <description><![CDATA[       由    /u/mohammed-osman  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1eeihxn/i_developed_a_tool_to_automate_cv_feedback/</guid>
-      <pubDate>Sun, 28 Jul 2024 21:39:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>好吧，听我说......待办事项列表+聊天机器人</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1eehq3l/ok_hear_me_outa_todo_list_chatbot/</link>
-      <description><![CDATA[我创建了一个 ChatBot，它可以帮助您管理待办事项列表。  这个想法是为了帮助您更快地完成列表。  例如，即将推出的功能创意 - 函数调用将项目添加到 DIY 项目的购物清单或膳食计划的购物清单中 - YouTube 视频搜索并与聊天机器人讨论您观看的视频以更好地理解（用于 DIY 等） 好的，如果您有任何意见，请随时批评或给我反馈。     提交人    /u/Jebick   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1eehq3l/ok_hear_me_outa_todo_list_chatbot/</guid>
-      <pubDate>Sun, 28 Jul 2024 21:04:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>作为一名语言学习者，您会使用它吗？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1eehjay/would_you_use_this_as_a_language_learner/</link>
-      <description><![CDATA[大家好， 由于我离开大学，那里提供的各种课程让我无法参加每周的中文俱乐部。 由于我缺少定期的小组口语练习，所以我想到了一个商业想法，想知道您是否会使用它。 该俱乐部将为世界各地的学习者提供虚拟口语课程，并通过随机主题来增强说中文的信心。课程将由以中文为母语的人士或同学主导，以提供多样化的练习环境。 主要功能包括：  按熟练程度（初级、中级、高级）划分的课程 基于主题的讨论 用户资料和进度跟踪 交互式工具（实时翻译等） 社区功能 移动和桌面兼容性 审核和支持  您对这种语言俱乐部感兴趣吗？有什么建议或您希望看到的功能吗？    提交人    /u/glorious-salmon   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1eehjay/would_you_use_this_as_a_language_learner/</guid>
-      <pubDate>Sun, 28 Jul 2024 20:56:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>利用直播盈利平台促进你的副业发展</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1eeh58y/boost_your_side_project_with_a_live_streaming/</link>
-      <description><![CDATA[大家好！🎥 我一直在探索增强我的副业的方法，最近偶然发现了 YourWay.Store，这是一个很棒的平台，提供直播、内容货币化等服务。它改变了吸引观众和创造收入的方式，尤其是具有按投票付费竞赛和自定义订阅等级等功能。 最棒的是，它易于使用，并为 SEO 和数字营销提供了有价值的工具，帮助我吸引了更多观众并扩大了我的社区。 有没有其他人尝试过将直播集成到他们的项目中？我很想听听你的经验以及你可能拥有的任何关于如何最大限度地利用这类平台的建议！ 附言如果您好奇，请查看他们的SEO 和数字营销服务以了解更多见解。让我们讨论并帮助彼此取得成功！    提交人    /u/YourWayStore   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1eeh58y/boost_your_side_project_with_a_live_streaming/</guid>
-      <pubDate>Sun, 28 Jul 2024 20:39:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>我在旧金山的车里创建了 4k MRR 人工智能初创公司</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1eeh44s/built_4k_mrr_ai_startup_from_my_car_in_sf/</link>
-      <description><![CDATA[一年前我从中亚搬到旧金山。两周前我被赶出了公寓，因为我付不起房租了，而且我必须保持创业公司的低烧钱率。 但是，我想出了一个办法留在旧金山，努力达到 10k 月收入（希望如此）。我睡在车里，每天在 24 小时健身房洗澡，然后在随便一家麦当劳或咖啡店工作。 我的创业公司只是一个简单的想法，想帮助人们省钱。它叫做 ninjachat[dot].ai，一个超级人工智能应用程序，可帮助用户使用 20 多个人工智能应用程序。 我希望我能在 8 月底之前达到 10k 月收入，这样我就能再次买得起公寓了，祝我好运。 https://preview.redd.it/r8d0s7srlbfd1.png?width=1536&amp;format=png&amp;auto=webp&amp;s=b7003d7ee3ae5a7eae38312c49d0fd36b2e7d699 https://preview.redd.it/h12tczislbfd1.jpg?width=4032&amp;format=pjpg&amp;auto=webp&amp;s=1f3238ce9e0af4de3db06dd67c043582dd000c86 https://preview.redd.it/dlt58zislbfd1.jpg?width=4032&amp;format=pjpg&amp;auto=webp&amp;s=8de874d37190a99bbdff3e72925563df7ffe3402    提交人    /u/Timely_Wallaby_2162   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1eeh44s/built_4k_mrr_ai_startup_from_my_car_in_sf/</guid>
-      <pubDate>Sun, 28 Jul 2024 20:37:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
