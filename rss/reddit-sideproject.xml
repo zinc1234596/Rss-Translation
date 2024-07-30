@@ -4,7 +4,49 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Tue, 30 Jul 2024 01:01:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jul 2024 03:17:27 GMT</lastBuildDate>
+    <item>
+      <title>您会使用工具来总结 YouTube 视频吗？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1efizm5/would_you_use_a_tool_to_summarize_youtube_videos/</link>
+      <description><![CDATA[我很想知道：  您会使用总结 YouTube 视频的工具吗？ 哪种总结对您最有用（文本、音频、视觉总结等）？ 您是否希望此类工具具有特定功能（例如带时间戳的突出显示、关键字提取、多种总结长度）？ 尝试快速了解 YouTube 上的视频内容时，您面临的最大痛点是什么？  您的反馈将非常有价值，因为我正在努力使此工具尽可能实用且用户友好。提前感谢您的意见！    提交人    /u/Key-Ad-9546   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1efizm5/would_you_use_a_tool_to_summarize_youtube_videos/</guid>
+      <pubDate>Tue, 30 Jul 2024 03:08:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>当有人加入语音频道时，Discord 机器人会播放自定义声音。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1efigw9/discord_bot_for_playing_a_custom_sound_when/</link>
+      <description><![CDATA[      我从事前端开发大约有三年了，我开始对仅仅编写屏幕代码并将它们与后端集成感到有些厌倦，所以我决定编写一些新代码。我不喜欢制作 Twitter 克隆或 Instagram 克隆之类的项目；我更喜欢从事我或其他人实际会使用的项目。 当我和朋友进行 Discord 通话时，有人提到，如果我们的一个身材矮小且喜欢健身的朋友加入语音频道时，迷你 P.E.K.K.A 发出的声音作为玩笑，那会很有趣。考虑到这一点，我开始编写机器人代码。 我使用 TypeScript 制作了机器人，使用 PostgreSQL 作为数据库，并使用 Prisma ORM 与数据库通信。我在项目中配置了 ESLint 和 Prettier 以确保代码质量。一切都在 Docker 容器中运行，并使用 GitHub Actions 自动部署，将部署发送到 Hostinger 上的 VPS。如果有人想测试这个机器人，我会在这里留下链接；如果能得到一些关于代码的反馈就好了。我也会在这里留下 GitHub repo 的链接。 这是一个很酷的项目，可以在 LinkedIn 上分享以吸引招聘人员吗？我想成为一名全栈开发人员，但如果我只从事过前端开发，那么获得全栈工作有点困难。也许这个项目可以帮助我吸引招聘人员。 github：https://github.com/FabioCeleste/greetGuardian 使用机器人：https://discord.com/oauth2/authorize?client_id=1267459165337550951  https://reddit.com/link/1efigw9/video/ik63rrrqjkfd1/player    由    /u/Significant_Bad_4148  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1efigw9/discord_bot_for_playing_a_custom_sound_when/</guid>
+      <pubDate>Tue, 30 Jul 2024 02:42:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>DaaS（设计即服务）</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1efia2j/daas_design_as_a_service/</link>
+      <description><![CDATA[我和一位同事最近启动了一个副项目，专注于提供一种替代方案，以取代与昂贵的代理机构合作或花时间（和金钱）聘请全职设计师。我们以固定的月费提供无限的设计请求。无需承诺，您可以随着项目或公司的扩大随时暂停或取消。  我们与竞争对手不同，因为： - 从我们的综合工作经验来看，我们拥有令人惊叹的过去客户名单  我们为那些试图在投入一个月的承诺之前“试水”的人提供每周选项 我们可以处理包括定制开发的大型项目 我们将很快为服务不足的行业提供可重复使用的模板👀  查看https://matey.co 如果您有任何问题或反馈，请随时直接给我发消息或发表评论！    提交人    /u/madebymatey   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1efia2j/daas_design_as_a_service/</guid>
+      <pubDate>Tue, 30 Jul 2024 02:33:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>审讯者</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1efi2p0/interrogator/</link>
+      <description><![CDATA[        提交人    /u/wildestredchicken   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1efi2p0/interrogator/</guid>
+      <pubDate>Tue, 30 Jul 2024 02:23:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>月亮是由奶酪制成的</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1efhvuh/the_moon_is_made_of_cheese/</link>
+      <description><![CDATA[        提交人    /u/yolofaces   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1efhvuh/the_moon_is_made_of_cheese/</guid>
+      <pubDate>Tue, 30 Jul 2024 02:14:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>为语言学习者提供西班牙语电话服务</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1efh2ti/phone_calls_in_spanish_for_language_learners/</link>
+      <description><![CDATA[您认为该视频作为宣传材料怎么样？    提交人    /u/AristidesNakos   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1efh2ti/phone_calls_in_spanish_for_language_learners/</guid>
+      <pubDate>Tue, 30 Jul 2024 01:35:07 GMT</pubDate>
+    </item>
     <item>
       <title>有人遇到过 App Store Web hooks 问题吗？</title>
       <link>https://www.reddit.com/r/SideProject/comments/1efflqk/does_anyone_have_trouble_with_app_store_web_hooks/</link>
@@ -67,48 +109,6 @@
       <description><![CDATA[  由    /u/Massive-Coat-5196  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1efazuw/text2diagramcom_update/</guid>
       <pubDate>Mon, 29 Jul 2024 21:09:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>我为商人制作了一个移动厕所查找器</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1efasfa/i_made_a_porta_potty_finder_for_tradesmen/</link>
-      <description><![CDATA[      我曾在一家装饰公司工作，该公司经常派我们去偏远地区做一些住宅工作，在那里寻找附近的洗手间是一项持续不断的斗争。我记得我疯狂地开车四处寻找一个地方来照顾我的生意。所以我决定建立 Spot-A-Pot。  我一开始使用了一些虚拟数据，但为了让这个应用真正成功，我需要你的帮助。你的贡献可以为那些从事建筑行业的人带来真正的改变。当你发现一个真正的移动厕所时，将移动厕所的位置添加到地图上，帮助朋友或家人避免拼命寻找厕所！！ 链接：https://spotapot.vercel.app/ p.s.我已将登录设为非必需 - 请不要发送垃圾邮件。 https://preview.redd.it/yz4nc8e2vifd1.png?width=1687&amp;format=png&amp;auto=webp&amp;s=0031e0e324d838d3156b90d32c9d49f27f0284c3    提交人    /u/Critical-Catch-7605   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1efasfa/i_made_a_porta_potty_finder_for_tradesmen/</guid>
-      <pubDate>Mon, 29 Jul 2024 21:01:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>SaaS 约会助手的登陆页面反馈请求，可帮助您获得更多约会机会并简化您的约会生活</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1efa92x/landing_page_feedback_request_for_a_saas_dating/</link>
-      <description><![CDATA[大家好， 作为一个在约会领域已经待了一段时间的人，我开始尝试一个想法来解决我遇到的一些问题。通常我会直接开始构建它，结果却发现没人关心，所以这次我想做一些微调和验证。 我最近遇到了一款名为 Beeper 的应用程序（https://www.beeper.com），我使用它在 Insta、FB 等平台上向我的所有联系人发送消息。这让我想到约会也应该有这样的东西。我发现可以将 Instagram 和约会应用程序连接起来，这样你就可以从一个地方向这些平台上的每个人发送消息。 我经常遇到的其他一些问题，我想解决：  当与多人或与某人长时间交谈时，我会忘记他​​们最喜欢的颜色或最喜欢的花等细节。我希望能够显示这样的细节（或者甚至能够像 ChatGPT 一样询问有关我正在交谈的人的问题） 当经常旅行时，记住我在每个城市与谁交谈是一件很痛苦的事情。我必须逐一浏览每个个人资料才能看到他们住在哪里。我想构建一个强大的 CRM，这样您就可以将聊天分组到不同的标签中。 我越来越多地将 Instagram 用作约会应用程序，但手动尝试在您的城市中寻找人很麻烦，所以我想将其自动化，让找人变得更容易。 还有其他想法，例如翻译、对话开场白、回复建议等。理想情况下，我会确定 1-3 个最紧迫的问题，然后真正从那里开始。  我认为我现在最大的问题是缩小最紧迫的问题，并首先解决这个问题。所以，我很想听听那些非常积极约会的人，他们遇到的最大问题是什么。 （如果您愿意接电话，请告诉我，我很乐意与您聊天！） 我之前是社交游戏应用程序（A 轮）的创始人，实际上 8 年前我为 Tinder 提出了这个想法的一个版本（按最近活跃、距离等对匹配进行排序）：https://www.reddit.com/r/Tinder/comments/4694f5/i_made_an_app_that_lets_you_sort_your_tinder/ 但我收到了 Tinder 的停止信，哈哈 这是登陆页面： https://slidedm.com 。任何反馈都很棒。它试图解决的问题是否清楚？您认为目标演示是谁？等等 如果您对这个想法感兴趣/是目标市场，但又不想支付 50 美元，那么如果您能填写我的调查问卷，我将不胜感激！ https://forms.gle/vrntou7agF75H4df6    提交人    /u/Jonovono   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1efa92x/landing_page_feedback_request_for_a_saas_dating/</guid>
-      <pubDate>Mon, 29 Jul 2024 20:41:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Project Detach - 在 20 秒内创建待办事项列表（网络/移动）</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1efa1tk/project_detach_create_a_todolist_in_under_20/</link>
-      <description><![CDATA[https://reddit.com/link/1efa1tk/video/uxvbbfn1qifd1/player 免费试用，https://www.joindetach.com    提交人    /u/robogram96   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1efa1tk/project_detach_create_a_todolist_in_under_20/</guid>
-      <pubDate>Mon, 29 Jul 2024 20:33:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>知识是关键——让我们交流智慧？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1efa1ci/knowledge_is_the_key_lets_exchange_wisdom/</link>
-      <description><![CDATA[我可以提供一些提示、指导或指导，以换取您的经验和建议。我们可以交换我们的技能或服务以求成长？也许？    提交人    /u/Binarydesignhub   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1efa1ci/knowledge_is_the_key_lets_exchange_wisdom/</guid>
-      <pubDate>Mon, 29 Jul 2024 20:32:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何快速启动你的项目并节省资金（基于我开发的 10 多种产品）</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ef9o77/how_to_launch_your_projects_really_fast_and_save/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ef9o77/how_to_launch_your_projects_really_fast_and_save/</guid>
-      <pubDate>Mon, 29 Jul 2024 20:18:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>漫画制作应用程序被评为“人工智能”烂货，大家有什么看法？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ef98m1/comic_making_app_being_poorly_received_as_ai_slop/</link>
-      <description><![CDATA[这是应用程序：https://www.comicspin.app/dashboard 我并不想与大家讨论 AI 生成的内容，但我很困惑为什么人们如此反对这个应用程序？这似乎是一件有趣的事情。    提交人    /u/Any-Geologist-8562   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ef98m1/comic_making_app_being_poorly_received_as_ai_slop/</guid>
-      <pubDate>Mon, 29 Jul 2024 20:01:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
