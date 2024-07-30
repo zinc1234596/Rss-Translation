@@ -4,7 +4,63 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Tue, 30 Jul 2024 09:14:25 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jul 2024 12:25:41 GMT</lastBuildDate>
+    <item>
+      <title>我建立了一个免费工具来像专家一样估算网站价格</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1efr05p/i_built_a_free_tool_to_estimate_website_prices/</link>
+      <description><![CDATA[我喜欢构建网站和原型，我有很多项目都有很好的域名，但没有货币化，只是无用地闲置着。我注意到人们在拍卖会上以好价钱出售网站，即使他们没有任何货币化。 为了了解他们如何估算这些价格，我在网上搜索了相关服务。然而，我所能找到的只是基于收入乘数的估算（如果您没有收入，则收入乘数将始终为 0），或者充其量是一些根据域名年龄建议价格的服务——仅此而已。 因此，我花了一些时间与翻转网站的人交谈，并发现了一些其他重要指标，即使没有收入，这些指标也可以评估您的项目。我将这些指标合并为一项服务 - 您可以添加尽可能多的有关网站指标的信息，它将估算出尽可能接近实际价值的价格。 大多数估算都非常现实，尽管有时可能会有偏差。无论如何，它会给你一个视角。您还可以获得一份带有价格依据的详细报告，您可以使用它来支持您在拍卖中的价格。 基本估算完全免费，只需几分钟。对于完整报告，我只需要您的电子邮件地址。 我希望你觉得这个工具有用，我很乐意听到你的反馈，干杯！ https://howmuchfor.site/    提交人    /u/vorniches   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1efr05p/i_built_a_free_tool_to_estimate_website_prices/</guid>
+      <pubDate>Tue, 30 Jul 2024 11:32:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>monitro.dev | 简单且便宜的日志警报</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1efq5gj/monitrodev_simple_cheap_log_alerting/</link>
+      <description><![CDATA[你好，我是杰克！ monitro.dev 是监控你的代码并接收 Slack、Discord 和 Telegram 日志警报的简单方法。 它旨在帮助个人或小团队通过简单易用的集成（只需 NPM 安装）来提高他们的警报和可靠性！ 我有 SRE（站点可靠性工程）背景，了解监控和可靠性的重要性，尤其是在依赖第三方服务时。 在创建 SaaS 时，这似乎很常见；它是一个相互依赖的服务圈。我最近开始创建自己的 SaaS 产品，并意识到监控可能感觉像是一项艰巨的任务，而且还有点昂贵。 这就是 monitro 的用武之地。我希望这个简单的想法能够帮助其他人开始监控并强调其重要性和好处！ 我对 monitro 有很大的计划，使它变得更简单、更可靠。我正在启动测试，看看人们是否和我一样觉得它有价值。    提交人    /u/drexty   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1efq5gj/monitrodev_simple_cheap_log_alerting/</guid>
+      <pubDate>Tue, 30 Jul 2024 10:43:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>CashPredictor.com - 免费现金流预测工具</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1efq36l/cashpredictorcom_a_free_cash_flow_prediction_tool/</link>
+      <description><![CDATA[CashPredictor.com 诞生于与一位提供 Fractional CFO Services 的朋友的一次交谈中。 他最常重复的任务之一是帮助客户预测现金流。 我们构建了这个工具来简化和自动化该过程，使每个人都可以使用它。 有用吗？愚蠢吗？让我听听。    提交人    /u/acoyfellow   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1efq36l/cashpredictorcom_a_free_cash_flow_prediction_tool/</guid>
+      <pubDate>Tue, 30 Jul 2024 10:39:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>预算观众反馈</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1efply5/budgeting_audience_feedback/</link>
+      <description><![CDATA[      大家好， 我在一个具有预算功能的网站工作，并为其添加了新的 AI 洞察功能。 问题：这会让人们考虑加入网站和社区吗？ 它是愚蠢的、有用的还是只是一个不错的附加功能？    提交人    /u/Server_Extension_855   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1efply5/budgeting_audience_feedback/</guid>
+      <pubDate>Tue, 30 Jul 2024 10:09:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们正在重新设计 liftUI 2.0 的侧边栏，以改善用户体验。您更喜欢哪个选项，A 还是 B？我们的目标是打造更直观、更精简的界面。您的意见非常宝贵！还没有尝试过 liftOS？请访问 liftOS.io 体验未来的生产力。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1efph6u/were_redesigning_the_sidebar_for_liftui_20_to/</link>
+      <description><![CDATA[        提交人    /u/doganarif   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1efph6u/were_redesigning_the_sidebar_for_liftui_20_to/</guid>
+      <pubDate>Tue, 30 Jul 2024 10:01:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>10 天内吸引 75 名新用户，营销费用为 0 美元。如何盈利？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1efpbh1/75_new_users_in_10_days_with_0_in_marketing_how/</link>
+      <description><![CDATA[大家好，建设者们。 我知道 75 位用户对很多人来说都是一个小小的里程碑，但这是在我于本月初转向竞争更加激烈的市场之后实现的。  我和两个朋友创建了一款名为 Plani .ai 的智能规划工具，它可以告诉我们实现目标所需的任务和活动。例如：假设您的目标是提高公开演讲技能……该工具将告诉您实现这一目标需要进行的活动。  它就像 Asana 或 Trello，但更智能。因为除了允许您管理任务之外，您还可以与您的任务进行对话并将其分解为小步骤。 我们现在有超过 600 位用户。在这个阶段我应该考虑什么？您对发展这一目标有什么建议？     提交人    /u/Sarvaturi   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1efpbh1/75_new_users_in_10_days_with_0_in_marketing_how/</guid>
+      <pubDate>Tue, 30 Jul 2024 09:50:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了一个寻找人工智能领域工作机会的网站</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1efp6mr/i_made_a_site_to_find_jobs_in_ai/</link>
+      <description><![CDATA[       由    /u/WordyBug  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1efp6mr/i_made_a_site_to_find_jobs_in_ai/</guid>
+      <pubDate>Tue, 30 Jul 2024 09:41:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的第一个业余项目 - URL 缩短器</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1efotgf/my_first_side_project_url_shortener/</link>
+      <description><![CDATA[我很高兴与大家分享我最新的业余项目 - 一个全面的 URL 缩短服务，名为 u301。我很乐意听取您的想法和反馈。 主要功能：  短网址生成：在几秒钟内创建简洁、易于分享的链接。 二维码生成：每个缩短的 URL 都带有自己的二维码，方便在移动设备上共享。 自定义域支持：使用您自己的域来创建品牌短链接。 分析仪表板：跟踪缩短 URL 的点击次数、地理数据和其他指标。  我构建这项服务是为了将我在各种 URL 缩短器中看到的最有用的功能整合到一个地方。我的目标是创建一个对普通用户和寻求更多高级功能的企业都有用的工具。 如果您能查看并告诉我您的想法，我将不胜感激。您是否希望添加任何功能？您可以建议任何改进吗？ 提前感谢您的反馈！我期待听到您的想法和建议，以帮助改进此工具。    提交人    /u/Dull-Feeling6896   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1efotgf/my_first_side_project_url_shortener/</guid>
+      <pubDate>Tue, 30 Jul 2024 09:15:36 GMT</pubDate>
+    </item>
     <item>
       <title>搭建免费的AI Dream解码器，快来尝试一下吧</title>
       <link>https://www.reddit.com/r/SideProject/comments/1efoemv/build_a_free_ai_dream_decoder_come_and_try_it/</link>
@@ -53,62 +109,6 @@
       <description><![CDATA[大家好，我正在寻找具有令人惊叹的因素和实时互动的技术项目，如果它们可以解决问题，那么它就是锦上添花  谢谢    由   提交  /u/Sudden-Reflection590   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1efmxn8/search_of_projects/</guid>
       <pubDate>Tue, 30 Jul 2024 07:03:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>我受够了那些不能按我需要的方式工作的提醒应用程序，所以我自己做了一个：Remindoo。它有垃圾通知，会一直骚扰你，直到你采取行动，还有大量的自定义功能。非常适合我们当中健忘的人。在 App Store 上试试吧。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1efm6r1/i_got_fed_up_with_reminder_apps_that_dont_work/</link>
-      <description><![CDATA[        提交人    /u/yurowm   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1efm6r1/i_got_fed_up_with_reminder_apps_that_dont_work/</guid>
-      <pubDate>Tue, 30 Jul 2024 06:14:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>我可以在哪里推广我的 Web 应用程序？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1eflxnb/where_can_i_promote_my_web_app/</link>
-      <description><![CDATA[大家好！ 我最近发布了一款网络应用，旨在帮助用户生成适合各种场合的个性化消息。该应用允许用户通过输入一些详细信息（例如收件人姓名和场合）来快速创建周到的消息，并包含添加个人风格的选项。 以下是该应用的简要概述：  可自定义的消息：从不同场合中进行选择并添加个人风格。 用户友好界面：简单直观的设计，可快速设置和生成消息。 目的：帮助节省时间并确保消息有意义，即使在您很忙的时候也是如此。  由于我希望覆盖更广泛的受众并吸引一些用户，因此我正在寻求有关在哪里以及如何有效推广此应用的建议。具体来说，我感兴趣的是：  社区或论坛：在哪里可以找到对生产力工具或类似我的应用感兴趣的人？ 发布平台：是否有任何特定平台我应该考虑发布或展示我的应用？ 营销策略：向相关受众推广新 Web 应用的一些有效策略是什么？  对于在哪里分享和推广 Web 应用的任何见解或建议都将不胜感激。提前感谢您的帮助！    提交人    /u/Real-Result5238   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1eflxnb/where_can_i_promote_my_web_app/</guid>
-      <pubDate>Tue, 30 Jul 2024 05:57:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要建议</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1eflsvv/need_suggestion/</link>
-      <description><![CDATA[需要一些关于应用程序的建议，我应该制作哪些应用程序可以让我赚钱    提交人    /u/Ill_Builder_5968   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1eflsvv/need_suggestion/</guid>
-      <pubDate>Tue, 30 Jul 2024 05:49:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>Product Hunt 发布清单</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1eflbi6/product_hunt_launch_checklist/</link>
-      <description><![CDATA[您是否计划在 Product Hunt 上推出您的 SaaS？ 我们制作了一份清单，指导您成功完成 Product Hunt 发布，从规划和准备到执行和发布后提示。 这是链接：https://learningloop.notion.site/Product-Hunt-Launch-Checklist-300bb21183d7486faa019dca1c86fbc1  我们很乐意收到一些反馈 :)    提交人    /u/sahilypatel   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1eflbi6/product_hunt_launch_checklist/</guid>
-      <pubDate>Tue, 30 Jul 2024 05:18:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>在这里自我推销：反馈中心</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1efl939/self_promoting_here_feedback_hub/</link>
-      <description><![CDATA[2 年前，当我尝试创办自己的初创公司时，我很难获得客户反馈。因此，我认为类似 reddit 的论坛会是初始客户之间以及与您之间互动的更好场所，并使其成为一个更具吸引力的反馈平台。 我在这里构建了一个粗略的原型：https://thecontor.com。如果您有时间查看/感受到类似的痛点，我很乐意获得一些反馈。    提交人    /u/Phil611   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1efl939/self_promoting_here_feedback_hub/</guid>
-      <pubDate>Tue, 30 Jul 2024 05:14:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>问题 | 2024 年在 Product Hunt 上推出产品是否值得？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1efl2d8/question_is_launching_on_product_hunt_worth_the/</link>
-      <description><![CDATA[大家好， 我是 SwiftUI.art 的创始人 Ben，随着发布日的临近，我正在考虑将我的项目放在 Product Hunt 上，但我很好奇这是否值得付出努力。 对于那些之前曾在 Product Hunt 上发布过的人，我很想听听你们的经历。具体来说：  流量和曝光：您的发布是否为您的项目带来了大量流量和曝光？ 用户参与度：您是否从社区获得了有意义的反馈和参与？ 转化率：来自 Product Hunt 的流量如何转化为实际用户或客户？ 努力与回报：考虑到您在准备和推广发布上所付出的努力，是否值得？  谢谢    提交人    /u/Electrical-Net-8076   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1efl2d8/question_is_launching_on_product_hunt_worth_the/</guid>
-      <pubDate>Tue, 30 Jul 2024 05:03:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个即时、实时的字符计数器工具，以帮助遵守社交媒体和 SEO 字符限制，因为我注意到这是我每天都需要的东西。我还添加了一个“字符限制终极指南”主列表，以便轻松参考不同平台上的字符限制。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1efl0p0/i_created_an_instant_live_character_counter_tool/</link>
-      <description><![CDATA[        提交人    /u/TheEndearingDesigner   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1efl0p0/i_created_an_instant_live_character_counter_tool/</guid>
-      <pubDate>Tue, 30 Jul 2024 05:00:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI接待员代码-寻求出售</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1efjkzh/ai_receptionist_codelooking_to_sell/</link>
-      <description><![CDATA[开发 AI 接待员服务几个月了，希望出售代码库  24/7 实时交谈和回答问题 转接电话 记住过去的对话历史 像人类一样的声音  如果您需要任何信息，请直接给我发信息。    提交人    /u/RaGenies   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1efjkzh/ai_receptionist_codelooking_to_sell/</guid>
-      <pubDate>Tue, 30 Jul 2024 03:40:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
