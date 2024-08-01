@@ -4,7 +4,42 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Thu, 01 Aug 2024 03:15:39 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Aug 2024 06:19:17 GMT</lastBuildDate>
+    <item>
+      <title>创建了一个平台来构建和与基于聊天的应用程序进行交互！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1eh7y3b/created_a_platform_to_build_and_interact_with/</link>
+      <description><![CDATA[https://vercel-whale-platform.vercel.app/ 快速演示：https://youtu.be/_CopzVyFcXA Whale 是一个框架/平台，旨在构建连接到单个前端聊天界面的整个应用程序。无需再浏览多个用户界面 - 您需要的一切都可以通过聊天访问。 在使用并看到其他业务应用程序以非常低效的方式使用当前的 UI/UX 后，我们构建了 Whale。我们认为正在构建的新应用程序将以某种方式原生地由 AI 驱动。我们还亲眼目睹了在我们所工作的初创公司中创建 AI 代理工作流程有多么困难。 Whale 允许用户通过聊天直接创建和选择他们希望与之交互的应用程序，而不是强迫 LLM 浏览为人类设计的界面并惨遭失败。我们认为这种新的交互方式简化并增强了用户体验。 我们现在最大的挑战是平衡可用性和复杂性。我们希望界面对非技术人员来说是用户友好的，同时仍然足够强大以适应高级用户和开发人员。我们还有很长的路要走，但想分享我们的 MVP 来指导我们应该朝着什么方向发展。 我们也在寻找 Whale 可以擅长的用例。如果您有任何想法或需求，请联系我们 - 我们很乐意为您打造一些东西！ 很乐意听到您的想法、批评和反馈！   由    /u/Opportunal  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1eh7y3b/created_a_platform_to_build_and_interact_with/</guid>
+      <pubDate>Thu, 01 Aug 2024 04:34:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>经过近六个月的独立开发，我有一些想法想分享</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1eh7xed/after_nearly_six_months_of_indie_development_i/</link>
+      <description><![CDATA[我今年3月开始做独立开发者，现在越来越觉得，有时候你觉得很棒的一个idea，要么没有需求（或者需求很少），要么别人已经做了。产品同质化越来越严重，尤其是AI时代的产品，你看看ProductHunt的发布，一天就能看到2-3个类似的产品。 因此，我认为产品的功能性越来越不重要，重要的是认真思考自己在同类产品的获取用户方面是否有优势，这其实就是运营能力。这对独立开发者来说是一个很大的挑战，比如写代码对我来说是一种享受，但如果让我去做营销和运营，我就快疯了！ 不知道你们有没有同样的感受？你们是怎么看待这个问题的？   由    /u/gazelleye  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1eh7xed/after_nearly_six_months_of_indie_development_i/</guid>
+      <pubDate>Thu, 01 Aug 2024 04:33:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找兼职工作</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1eh7o9o/looking_for_some_work_on_the_side/</link>
+      <description><![CDATA[大家好。 在我努力发展我的 SaaS 业务时，我一直在努力应对现金流问题。 为了解决这个问题，我正在寻找一些副业。如果您是一位 SaaS 企业家，希望启动您的下一个项目，我很乐意为您的产品构建一个功能齐全的 MVP，费用为 2000 美元。典型的 MVP 需要 2-3 周的时间，您应该在第一周结束时开始看到功能组件。 请告诉我。 干杯。    提交人    /u/saas-rx   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1eh7o9o/looking_for_some_work_on_the_side/</guid>
+      <pubDate>Thu, 01 Aug 2024 04:19:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>前几天我发布了我的微sass，7天之内就获得了4K UV，并且收到了30+个用户询问开放我的API。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1eh6rey/a_few_days_ago_i_published_my_microsass_and/</link>
+      <description><![CDATA[      https://preview.redd.it/n8fccfiu0zfd1.png?width=1200&amp;format=png&amp;auto=webp&amp;s=b734a604e79c9842f288b7bd8c4faed93015ac10 我是一名独立开发者，这是我的第一款获得如此多用户的产品。我很高兴人们说它确实是一个很棒的工具，并且他们敦促我开发更多功能。 欢迎吐槽我的产品：RetroCard    提交人    /u/ZU_YOUNG   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1eh6rey/a_few_days_ago_i_published_my_microsass_and/</guid>
+      <pubDate>Thu, 01 Aug 2024 03:30:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻求反馈 - 法律合同审查应用程序</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1eh6kbh/looking_for_feedback_legal_contract_review_app/</link>
+      <description><![CDATA[大家好！ 我创建了 Aligna，它可以帮助您在 5 分钟内使用 AI 识别合同中的风险条款。如果您在看到风险条款后希望修改合同，可以聘请平台上的律师进行修改。 我创建这个的目的是让没有内部律师/法律团队的中小型企业在需要审查法律文件时可以依赖按合同付费的服务，而不是按小时向律师支付服务费。 非常感谢您的反馈！如果有人认为 Aligna 可能有用，请告诉我，我很乐意与您联系。 链接在下面的评论中！    提交人    /u/Pale_Faithlessness_4   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1eh6kbh/looking_for_feedback_legal_contract_review_app/</guid>
+      <pubDate>Thu, 01 Aug 2024 03:19:09 GMT</pubDate>
+    </item>
     <item>
       <title>PH Insight 介绍：利用实时洞察解锁 ProductHunt 的隐藏瑰宝</title>
       <link>https://www.reddit.com/r/SideProject/comments/1eh5bfk/introducing_ph_insight_unlock_producthunts_hidden/</link>
@@ -29,7 +64,7 @@
     <item>
       <title>我正在开发一款 iPhone 应用，帮助季票持有者管理他们的活动</title>
       <link>https://www.reddit.com/r/SideProject/comments/1eh3qp2/i_am_building_an_iphone_app_to_help_season_ticket/</link>
-      <description><![CDATA[我是多项运动的季票持有者，最大的麻烦是每年创建一个电子表格来跟踪我的出勤率，如果我不能参加的话，还要跟踪转售指标。  作为一名拥有 10 年经验的软件工程师，我知道一定有更好的方法。  因此，我创建了 Seatflow，它允许季票持有者在几秒钟内导入他们的赛季，并且他们可以管理他们的出勤率、转售时的销售情况，以及接收警报，这样他们就不会错过任何一场比赛。您还可以与朋友和家人分享您的库存。  我认为这是一个小众类别，因此寻找其他季票持有者会很有趣，但我确实觉得这个应用解决了一个真正的问题。  我编写了整个 iOS 应用和 ExpressJS API，还使用 ​​NextJS 制作了网站，我将在下个月上线。  整个项目都是大量的工作。我可能花了 12 个月的时间，不分昼夜地开发一个完整的应用程序，也许事后看来，我应该尽快测试市场，就像他们说的那样  如果你能看看我会很高兴的。  https://seatflowapp.com    提交人    /u/CoderBoy_617   [link] [评论]]]></description>
+      <description><![CDATA[我是多项运动的季票持有者，最大的麻烦是每年创建一个电子表格来跟踪我的出勤率，如果我不能参加的话，还要跟踪转售指标。  作为一名拥有 10 年经验的软件工程师，我知道一定有更好的方法。  因此，我创建了 Seatflow，它允许季票持有者在几秒钟内导入他们的赛季，并且他们可以管理他们的出勤率、转售时的销售情况，以及接收警报，这样他们就不会错过任何一场比赛。您还可以与朋友和家人分享您的库存。  我认为这是一个小众类别，因此寻找其他季票持有者会很有趣，但我确实觉得这个应用解决了一个真正的问题。  我编写了整个 iOS 应用和 ExpressJS API，还使用 ​​NextJS 制作了网站，我将在下个月推出。  整个项目都是大量的工作。我可能花了 12 个月的时间，不分昼夜地开发一个完整的应用程序，也许事后看来，我应该尽快测试市场，就像他们说的那样  如果你能看看我会很高兴的。  https://seatflowapp.com    提交人    /u/CoderBoy_617   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1eh3qp2/i_am_building_an_iphone_app_to_help_season_ticket/</guid>
       <pubDate>Thu, 01 Aug 2024 00:59:40 GMT</pubDate>
     </item>
@@ -74,41 +109,6 @@
       <description><![CDATA[       由    /u/EntrepreneurThen0187  提交  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1eh1nyt/from_0_to_64_subscribers_in_7_days_my_newsletter/</guid>
       <pubDate>Wed, 31 Jul 2024 23:22:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>我将在接下来的 24 小时内对您的着陆页提供反馈</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1eh1f9q/i_will_give_feedback_on_your_landing_page_for_the/</link>
-      <description><![CDATA[大家好，我没什么可卖的。我自己也是一名创始人，只是想通过对您的着陆页提供反馈并玩弄/测试您的想法来回报您！ 让我们听听     由   提交  /u/Correct-Pop5826   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1eh1f9q/i_will_give_feedback_on_your_landing_page_for_the/</guid>
-      <pubDate>Wed, 31 Jul 2024 23:11:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>直销是 2024 年开始的一项好副业吗？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1eh141r/is_dropshipping_a_good_side_hustle_to_start_in/</link>
-      <description><![CDATA[也许吧？但竞争比以往任何时候都激烈。如何应对竞争挑战？有什么想法或建议吗？    提交人    /u/Binarydesignhub   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1eh141r/is_dropshipping_a_good_side_hustle_to_start_in/</guid>
-      <pubDate>Wed, 31 Jul 2024 22:57:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>我为 SaaS 创始人发布了一个使用 Stripe/Supabase/Nextjs.14 的开源模板</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1eh13i8/i_released_an_open_source_template_using/</link>
-      <description><![CDATA[      登陆页面 嗨！ 我终于发布了许多 SaaS 模板的开源版本。这个项目深受 Shadcn 的 Taxonomy 启发。 这是快速链接：https://github.com/antoineross/Hikari 所有功能：  完整的登陆页面，包括英雄部分、导航（2）、徽标云（居中、无限水平滚动）、定价表（2）、推荐（2：常规、褪色）、常见问题、联系方式、页脚（2）、仪表板 Nextjs.14 应用路由器 完整的 Auth 包：使用 Supabase 进行安全的用户管理和身份验证 带有 Supabase 的 PostgreSQL 数据库。 使用 Supabase 进行本地开发 使用 Stripe Checkout 和 Stripe 客户门户进行结算。通过 Stripe webhook 自动同步定价计划和订阅状态 文档和使用 Fumadocs 的博客 使用 Tailwind 设计并用 Typescript 编写 服务器和客户端组件 - 约定是 layout.tsx 使用服务器和 page.tsx/components 使用客户端 中间件和 API 将添加更多支付方式 (stripe + lemonsqueezy) 等等！ 将永远开源 将始终更新（例如 Nextjs14 → Nextjs 15）     提交人    /u/antoine-ross   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1eh13i8/i_released_an_open_source_template_using/</guid>
-      <pubDate>Wed, 31 Jul 2024 22:57:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>我为英国市场建立了一个现场扑克广告和俱乐部管理平台，但缺乏完善的营销策略</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1eh0pco/i_built_a_live_poker_advertising_club_management/</link>
-      <description><![CDATA[大家好， 感谢您阅读本文。背景介绍 - 目前英国有大约 1000 家活跃的扑克酒吧。每家参与的酒吧每周都会举办一场锦标赛，这是为期 13 周的联赛的一部分。每个联赛的前 3 名玩家将获得参加地区级比赛的门票，获胜者将获得 5 天全额支付的拉斯维加斯之旅。场地通常向第三方公司支付每个联赛（3 个月/13 个联赛）300 英镑 + 增值税。这或多或少就是过去 20 年英国酒吧扑克行业的现状。 然而，尽管每月有大量活跃参与者，但酒吧/俱乐部/赌场并没有标准的扑克广告/管理平台来列出他们即将推出的游戏并接收感兴趣玩家的回复 - 这是一项免费增值服务，我相信许多场所很可能会订阅。 因此，我建立了一个平台，玩家可以免费注册、查找附近的游戏、回复、查看自己的统计数据等。对于锦标赛主管/场所，该平台可以管理联赛、游戏、会员、排行榜、回复等，并且显然可以向附近的玩家宣传他们的游戏。该平台还将允许/与赌场合作宣传他们的游戏（正在进行中）。简短的视频演示可在此处找到。 该计划是向所有场馆免费提供平台/应用程序来管理/宣传他们的俱乐部和游戏，并最终开始每周向他们收取约 6 英镑的高级功能和优先列表等费用。（Just-eat/Deliveroo/Uber-eats 类型的扑克平台）。从公开来源，我们收集了英国数百家扑克酒吧的一些详细信息（名称、联系方式、每场比赛的平均玩家数量、联赛信息等。过去几年） 然而，我目前缺乏一个可靠的策略来在当地营销该产品，如果有人对这个平台有任何营销建议，我将不胜感激。或者，如果有人有兴趣为其他国家/地区授权该平台，请随时联系。    提交人    /u/the-xms   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1eh0pco/i_built_a_live_poker_advertising_club_management/</guid>
-      <pubDate>Wed, 31 Jul 2024 22:40:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>我正在为伦敦建立一个廉价啤酒网站</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1eh0kvi/im_building_out_a_cheap_pint_website_for_london/</link>
-      <description><![CDATA[我已经开发这个小型众包最便宜的品脱网络应用程序近一年了。我不断修改一些细节，慢慢地看到点击量上升！第一个月谷歌点击量为 5 次，第二个月为 18 次等等。 我每月的自然点击量刚刚超过 300 次！虽然不是很大，但看到我为兼职工作付出的努力实际上证明了一些事情，我感到非常满足！  我是一名 UX 设计师，但我已经开始学习 React、与 API 的交互、编写数据，更不用说学习所需的所有网络和初始设置时间了！ 如果有人感兴趣，链接是 https://cheapestpint.uk    提交人    /u/ChonkaM0nka   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1eh0kvi/im_building_out_a_cheap_pint_website_for_london/</guid>
-      <pubDate>Wed, 31 Jul 2024 22:34:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
