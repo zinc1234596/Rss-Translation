@@ -4,7 +4,28 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Thu, 01 Aug 2024 01:06:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Aug 2024 03:15:39 GMT</lastBuildDate>
+    <item>
+      <title>PH Insight 介绍：利用实时洞察解锁 ProductHunt 的隐藏瑰宝</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1eh5bfk/introducing_ph_insight_unlock_producthunts_hidden/</link>
+      <description><![CDATA[      大家好 👋 我们很高兴推出 ProductHunt Insight - 一款旨在分析和提供洞察的强大工具来自 ProductHunt 数据！🎉 作为产品爱好者和企业家，我们知道掌握产品趋势至关重要。但是，从大量 ProductHunt 数据中提取有价值的见解可能具有挑战性。我们希望创建一个易于使用的解决方案，帮助每个人更好地了解市场动态。 ProductHunt Insight 能为您做什么？💡  实时跟踪趋势产品和主题 从多个维度分析 ProductHunt 数据 发现最受欢迎的产品和主题 深入了解用户评论和反馈趋势  我们已经推出了帖子趋势仪表板和每日获奖者名单。试试看！我们很乐意听到您的反馈和建议。 https://phinsight.io https://preview.redd.it/yc64ph8eoyfd1.jpg?width=640&amp;format=pjpg&amp;auto=webp&amp;s=c305f7dfcc248238e95e90f1308bd11bf18d4a35   由    /u/enterwiz  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1eh5bfk/introducing_ph_insight_unlock_producthunts_hidden/</guid>
+      <pubDate>Thu, 01 Aug 2024 02:15:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何决定建造什么？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1eh4hs1/how_to_decide_what_to_build/</link>
+      <description><![CDATA[嘿，侧面投影仪！ 我想知道这里的人如何找到好的产品创意来构建？这通常是你自己遇到的问题，还是你做了某种研究？ 到目前为止，我已经建立了~7 个侧面项目，基本上没有任何进展，现在我已经没有想法了。    提交人    /u/qekk101   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1eh4hs1/how_to_decide_what_to_build/</guid>
+      <pubDate>Thu, 01 Aug 2024 01:35:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>大家好，我是一名 UX UI 设计师，正在寻找一两个项目</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1eh46az/hey_guys_im_a_ux_ui_designer_looking_for_a/</link>
+      <description><![CDATA[不久前，我从一家 FAANG 公司被解雇，从那时起就一直是自由职业者。我有超过 12 年的经验和 HCI 硕士学位，只是最近很难找到全职工作，所以我在尝试一些不同的东西。 我现在正在努力建立我的投资组合，并在一月份再次尝试另一份工作。我可以帮助一些对设计感兴趣或喜欢设计的人进行副业。我不知道这是否违反规定。但无论如何，如果这是一个非常简单的投资组合项目，我可以以低价甚至免费工作，这取决于它是什么。在这里联系我，告诉我你在做什么，然后给我发私信，我们可以分享链接和其他东西。谢谢 :)     提交人    /u/ElderberryVisible164   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1eh46az/hey_guys_im_a_ux_ui_designer_looking_for_a/</guid>
+      <pubDate>Thu, 01 Aug 2024 01:20:10 GMT</pubDate>
+    </item>
     <item>
       <title>我正在开发一款 iPhone 应用，帮助季票持有者管理他们的活动</title>
       <link>https://www.reddit.com/r/SideProject/comments/1eh3qp2/i_am_building_an_iphone_app_to_help_season_ticket/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[我已经开发这个小型众包最便宜的品脱网络应用程序近一年了。我不断修改一些细节，慢慢地看到点击量上升！第一个月谷歌点击量为 5 次，第二个月为 18 次等等。 我每月的自然点击量刚刚超过 300 次！虽然不是很大，但看到我为兼职工作付出的努力实际上证明了一些事情，我感到非常满足！  我是一名 UX 设计师，但我已经开始学习 React、与 API 的交互、编写数据，更不用说学习所需的所有网络和初始设置时间了！ 如果有人感兴趣，链接是 https://cheapestpint.uk    提交人    /u/ChonkaM0nka   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1eh0kvi/im_building_out_a_cheap_pint_website_for_london/</guid>
       <pubDate>Wed, 31 Jul 2024 22:34:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>我正在构建 RAG 即服务</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1eh0ip0/im_building_rag_as_a_service/</link>
-      <description><![CDATA[大家好， 我很高兴与大家分享，我正在构建一个 RAG（检索增强生成）即服务，以帮助您创建 AI LLM 工具，例如： 👉🏽 AI 搜索引擎 👉🏽 AI 知识库 👉🏽 AI 聊天机器人 👉🏽 使用 PDF、页面网址、文本文件聊天，... 最好的部分是什么？您无需使用任何 Python 库或矢量数据库即可完成所有这些操作！ 期待您的想法和反馈！    提交人    /u/Mammoth-Doughnut-713   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1eh0ip0/im_building_rag_as_a_service/</guid>
-      <pubDate>Wed, 31 Jul 2024 22:32:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻求有关 Reddit 内容新工具的反馈</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1egznib/seeking_feedback_on_a_new_tool_for_reddit_content/</link>
-      <description><![CDATA[大家好， 我实际上正在开发一种新工具，可以将 Reddit 帖子转换为个性化的播客和新闻通讯。您将能够阅读您最喜欢的 subreddits 中最有趣帖子的摘要，也可以在进行其他活动时直接以播客格式收听它们。我很想知道您是否觉得这个想法有用，您最想要哪些功能，以及您愿意为这样的服务支付多少钱。也欢迎任何其他反馈或建议。感谢您的意见！ 干杯， 托尼。    提交人    /u/NextAssist1038   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1egznib/seeking_feedback_on_a_new_tool_for_reddit_content/</guid>
-      <pubDate>Wed, 31 Jul 2024 21:56:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>宾.粉红</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1egzgq2/binpink/</link>
-      <description><![CDATA[基本上 d*x bin 和 pastebin 有一个恶魔孩子，他非常喜欢言论自由，并且是一个毛茸茸的人，讨厌毛茸茸的人，同时还是同性恋和恐同者。混乱的 ik。今天就注册！！！    由   提交  /u/binpink   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1egzgq2/binpink/</guid>
-      <pubDate>Wed, 31 Jul 2024 21:48:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
