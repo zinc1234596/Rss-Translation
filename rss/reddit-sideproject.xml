@@ -4,7 +4,70 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Sat, 03 Aug 2024 15:13:03 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Aug 2024 18:17:44 GMT</lastBuildDate>
+    <item>
+      <title>我为 next.js + firebase 制作了一个代码样板，以便将我的下一个想法的发布速度提高 80%</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ej8yg2/i_made_a_code_boilerplate_for_nextjs_firebase_to/</link>
+      <description><![CDATA[我终于推出了我的第二家创业公司 NextFire。它是 next.js 和 firebase 的代码样板，可以节省支付和电子邮件集成、身份验证、数据库、界面等的设置时间。 我编写了此代码供自己使用，但我决定将其变成产品。实际上，我想要推出的一切都是为了我自己使用，所以即使没有人购买它，这也不算浪费，而且我通常会构建生产力产品。 在这里查看：NextFire 请随时提供反馈并让我知道您对此的看法。     提交人    /u/Prossaicom   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ej8yg2/i_made_a_code_boilerplate_for_nextjs_firebase_to/</guid>
+      <pubDate>Sat, 03 Aug 2024 17:29:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>一个小项目</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ej8oa6/a_little_side_project/</link>
+      <description><![CDATA[制作了一个小型网络应用程序，用于检查我前往新城市旅行时过去的天气情况。 https://quick-weather-check.vercel.app/    提交人    /u/heretounwind   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ej8oa6/a_little_side_project/</guid>
+      <pubDate>Sat, 03 Aug 2024 17:17:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>对于那些销售在线业务的人来说，您使用哪些网站/服务？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ej8il6/for_those_who_sold_an_online_business_which/</link>
+      <description><![CDATA[我已经在 Microns.io 和 Acquire.com 上探索并成功销售，但我对其他选择和经验很好奇（在多个社区发帖以获取更多信息/见解，而不是垃圾邮件哈哈）。 所以对于那些以前出售过在线业务的人：  您使用哪些网站或服务来列出和销售您的业务？ 您在这些平台的整体体验如何？ 您是否遇到了任何意想不到的挑战或好处？ 估值过程是如何运作的？  我特别有兴趣了解 Microns.io 和 Acquire.com 以外的平台，因为我已经熟悉这些平台。但是，如果您有使用这些平台的经验，我仍然很乐意听听您的想法。 提前感谢您分享您的经验！    提交人    /u/Technical_Visual_272   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ej8il6/for_those_who_sold_an_online_business_which/</guid>
+      <pubDate>Sat, 03 Aug 2024 17:11:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>[项目更新] 在我的合作伙伴批评了我的 Web 应用程序的性能后，我决定彻底改造它。花了 3 个月才完成！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ej73tm/update_to_project_after_my_partner_roasted_the/</link>
+      <description><![CDATA[      因此，3 个月前，我经历了发布我的 Web 应用程序 www.TackWallet.com 的 POC/MVP 的过程，从编写代码到上线，以便我能够了解整个过程是怎样的。我甚至在 这里 的 subreddit 上软启动了它，希望得到大家的反馈。  我非常兴奋能够实现这个实际的想法，以至于我忽略了考虑 UI 和 UX。就在那时，我的搭档出现了。 我告诉她要尽可能地挑剔，以为她可以使用应用程序的其余部分。基本上，它像这样：  为什么这么慢？ 对不起，但就目前的情况而言，你不会让我使用它的。  你可以想象，这对我的自尊心和我的想法是一个巨大的打击。然而，这仍然是一个好主意（至少对我来说）的想法挥之不去，最终，我能够从自怜的深渊中走出来哈哈。 在接下来的 3 个月里（直到今天），我决定做一些事情：  使用 Django、HTML/PHP、HTMX 和 JS 从头开始​​重写整个应用程序。  很难想到一个更适合 Web 的解决方案，但是由于我已经非常精通 Python，所以我决定 Django 对我来说是最省力的途径 我还必须学习很多关于 HTMX 和 JS 的知识，因为它们对我来说不像 Django 和 PHP 那么自然  考虑事物应该是什么样子。  尽管移动响应能力仍处于 WIP 阶段，但我认为它看起来和感觉起来要好得多。 一些更新： 快速渲染所有内容 上传文件和分类费用的异步过程。 通知现在已成为现实 以前，所有银行/信用卡账户都通过一个应用程序进行管理。现在，您可以邀请另一个用户加入您的群组，如果他们接受，您也可以访问和查看他们的帐户。 仪表板更加直观，我更加认真地考虑如何呈现见解。 身份验证现在是谷歌登录。无需手动发送电子邮件。 改进的登陆页面和博客（用于内容营销） 现在分类也非常省力。它就是有效。    仍有一些错误和功能需要解决，但我认为 MVP 处于良好的状态，考虑到 3 个月的下班时间和周末都投入其中（大约 3 个 2-3 小时的每周晚上和 1 个周末，这样我才能保持理智）。 这就是转变！ 转变 请让我知道您的想法。如果您遇到错误！ 谢谢！    提交人    /u/Possible-Alfalfa-893   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ej73tm/update_to_project_after_my_partner_roasted_the/</guid>
+      <pubDate>Sat, 03 Aug 2024 16:13:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>棒球直播 - 关注美国职业棒球大联盟 (MLB) 现场比赛、球队和统计数据（免费应用程序）</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ej7115/baseball_live_follow_live_mlb_games_teams_and/</link>
+      <description><![CDATA[      创建一款用于关注棒球比赛实况的应用，包括比赛实况、排名、赛程、新闻、统计数据、球员、通知、实时活动和小部件。点击此处查看：https://apps.apple.com/us/app/baseball-live/id6446822057 https://preview.redd.it/pxbyzk8o3hgd1.jpg?width=1290&amp;format=pjpg&amp;auto=webp&amp;s=37791af96291dbb947cd6a072c3f82e24a512aa8 https://preview.redd.it/sfj5pj8o3hgd1.jpg?width=1290&amp;format=pjpg&amp;auto=webp&amp;s=9ab4b8efd711768975c6887c1526d274539f0064 https://preview.redd.it/28k5nj8o3hgd1.jpg?width=1290&amp;format=pjpg&amp;auto=webp&amp;s=22e5ae73dcc8ab24129997d36b4b240794c8214c https://preview.redd.it/n1hl5k8o3hgd1.jpg?width=1290&amp;format=pjpg&amp;auto=webp&amp;s=d4be3d6cbfd684c0ec4888e59d6b656190daecde https://preview.redd.it/d0935j8o3hgd1.jpg?width=1290&amp;format=pjpg&amp;auto=webp&amp;s=d049175edb999ab25861cee3a8085580d87da691 https://preview.redd.it/6e58ej8o3hgd1.jpg?width=1290&amp;format=pjpg&amp;auto=webp&amp;s=475e93d7df355646ed720768a5b86fe21bed817f https://preview.redd.it/3b6gyi8o3hgd1.jpg?width=1290&amp;format=pjpg&amp;auto=webp&amp;s=6ce6a5c76a9c16031dd7082092b8a60a6ae8cadc https://preview.redd.it/j7369j8o3hgd1.jpg?width=1290&amp;format=pjpg&amp;auto=webp&amp;s=4783b6a0a8dc06d3f583b4bcf5403cb18aa33931    提交人    /u/chs5056   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ej7115/baseball_live_follow_live_mlb_games_teams_and/</guid>
+      <pubDate>Sat, 03 Aug 2024 16:10:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>Vercel v0 + Claude Artifacts：用AI本身构建的AI组件生成器</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ej6ej2/vercel_v0_claude_artifacts_an_ai_component/</link>
+      <description><![CDATA[      当 V0 推出时，我对它非常着迷，它是如何实现的，等等。 将近一年后，感谢 Claude Sonnet 3.5，我可以从头开始编写 V0 和 Claude Artifacts 的替代方案。 它被称为 Artifact Bin https://www.artifactbin.com/ https://preview.redd.it/pfaa4a85zggd1.png?width=2860&amp;format=png&amp;auto=webp&amp;s=1296c35fb04fec0e5d2f17feebfb742f64ce87c5 你可以使用它来生成你想要的任何 React、HTML、SVG 或 Markdown，公开或私下分享，同步到 GitHub，并部署到 Vercel。您可以在 OpenAI 模型和 Anthropic 之间进行选择。 https://preview.redd.it/jg2td0l6zggd1.png?width=2792&amp;format=png&amp;auto=webp&amp;s=faade08ed2c6af372424579df93d011fed364178 现在构建起来如此简单，真是太疯狂了。Web 开发的未来会是什么样子？对于我来说，为此添加多页支持似乎并不太远，但是连接数据库仍然是一个挑战，但也许有一个解决方案。 这是番茄工作法计时器应用程序，在 23 秒内创建：https://www.artifactbin.com/space/525884d8-a920-44bf-8c86-1d6d9e1a3ab4 https://preview.redd.it/yrk51de7zggd1.png?width=1278&amp;format=png&amp;auto=webp&amp;s=ba20a603cc34de6a2b11f8a9ae9c00e81bd6263f    提交人    /u/hamedmp   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ej6ej2/vercel_v0_claude_artifacts_an_ai_component/</guid>
+      <pubDate>Sat, 03 Aug 2024 15:44:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>构建 Pitchbook/Crunchbase 的开源替代品——我希望得到您的反馈</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ej68x8/building_an_opensource_alternative_to/</link>
+      <description><![CDATA[为什么选择这个解决方案？ 过去几年，我一直是 Pitchbook 和 Crunchbase 等平台的忠实粉丝。我很欣赏它们提供的宝贵数据以及它们解决的各种用例。然而，离​​开上一家公司后，我不再能使用这些昂贵的工具，而且为每个座位花费​​ 5,000 美元似乎不太现实。 这促使我构建一个真正的开源 Pitchbook 和 Crunchbase 替代方案。作为在技术和并购方面经验丰富的前创始人，以及一支擅长开发可扩展技术产品的团队，我相信我们有良好的基础来尝试。 为什么是现在？ 根据我的初步研究，收集、构建和质量控制风险数据是一项艰巨的任务。但是，随着大型语言模型 (LLM) 的最新进展以及大规模收集和管理结构化数据的成本降低，这一挑战似乎更容易管理，而无需庞大的团队。 货币化策略 我仍在完善这部分，但通过 API 为金融公司和市场情报公司提供数据许可，以及为营销团队提供线索，似乎是最明显的途径。我知道这种方法并不新鲜，目前已有参与者也在采用。 您的意见？ 作为高科技/初创企业/金融领域的人士，我相信您花了大量时间使用 Pitchbook、Crunchbase 或 AlphaSense 等工具或任何类似的替代品。您发现这些平台中仍然存在哪些问题？您是否会考虑以较低的价格使用类似的平台，即使它不是由您的公司赞助的？我很想听听你对此的想法。    提交人    /u/Alfred_Marshal   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ej68x8/building_an_opensource_alternative_to/</guid>
+      <pubDate>Sat, 03 Aug 2024 15:38:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>发布 v0.4.4 · jahwag/ClaudeSync</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ej5t5q/release_v044_jahwagclaudesync/</link>
+      <description><![CDATA[        由    /u/fitnesspapi88  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ej5t5q/release_v044_jahwagclaudesync/</guid>
+      <pubDate>Sat, 03 Aug 2024 15:19:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的副业在 7 月份赚了 2000 美元。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ej5ntk/my_side_project_made_2k_in_july/</link>
+      <description><![CDATA[        提交人    /u/LuLiangDev   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ej5ntk/my_side_project_made_2k_in_july/</guid>
+      <pubDate>Sat, 03 Aug 2024 15:12:56 GMT</pubDate>
+    </item>
     <item>
       <title>想法验证：一款允许通过纯英语进行抓取的应用程序</title>
       <link>https://www.reddit.com/r/SideProject/comments/1ej5kev/idea_validation_an_application_that_allows/</link>
@@ -46,69 +109,6 @@
       <description><![CDATA[       由    /u/meeeep5  提交  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1ej4rqt/whattodo_a_website_that_fixes_boredom/</guid>
       <pubDate>Sat, 03 Aug 2024 14:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Diamondify：免费开源代码增强工具</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ej4rg1/diamondify_free_and_open_source_code_enhancement/</link>
-      <description><![CDATA[大家好，今天我有点空闲时间，所以我创建了 Diamondify ( https://github.com/Itachi-Uchiha581/Diamondify )。我经常遇到这样的问题：编写的代码虽然功能齐全，但效率不高，或者有太多嵌套循环，代码杂乱无章。更糟糕的是，代码中没有一行注释。为了解决这个问题，我创建了 Diamondify — 一种旨在将杂乱的代码变成精致、高效且注释良好的杰作的工具。  Diamondify 的主要目的是增强代码的可读性、优化算法并自动添加有意义的注释。最好的部分是什么？您可以一次将这些改进应用于整个文件目录。只需确保每个文件包含的代码不超过 5,000 行即可。 立即试用 - https://github.com/Itachi-Uchiha581/Diamondify    提交人    /u/Illustrious-Ad-497   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ej4rg1/diamondify_free_and_open_source_code_enhancement/</guid>
-      <pubDate>Sat, 03 Aug 2024 14:33:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>jsonpaws - 使用 GPT-4o（开源 Python 库）进行一致的 JSON 生成</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ej3v5b/jsonpaws_consistent_json_generation_with_gpt4o/</link>
-      <description><![CDATA[大家好！ 我很高兴地宣布，我的开源 Python 库 jsonpaws 现已上线！ 什么是 jsonpaws？ jsonpaws 是一个 Python 库，旨在使使用 GPT-4o 进行结构化 JSON 生成和分析变得简单可靠。无论您是开发人员、数据科学家还是业余爱好者，此工具都旨在简化处理 JSON 数据时的工作流程。 主要特点：  一致的 JSON 输出：每次都生成完全符合您架构的 JSON。 JSON 合成：轻松创建用于测试和开发的真实数据。 非结构化数据分析：将非结构化文本无缝转换为结构化 JSON。 开源：完全向社区开放以供使用、贡献和改进。  如何开始：  安装：您可以使用一个简单的命令安装 json_paws：pip install json_paws 探索：深入了解我们的GitHub 存储库以获取示例、文档和用例。 贡献：我们欢迎贡献！加入我们的开源社区，帮助改进项目并使其变得更好。     提交人    /u/xazarall   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ej3v5b/jsonpaws_consistent_json_generation_with_gpt4o/</guid>
-      <pubDate>Sat, 03 Aug 2024 13:52:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>Karatube - 使用 YouTube 进行卡拉 OK</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ej3v1o/karatube_karaoke_with_youtube/</link>
-      <description><![CDATA[https://karatube.ai/ - 我创建了一个网站，可以自动从 YouTube 音乐视频创建卡拉 OK。它会自动从音乐中删除人声，并自动从歌曲中转录带有单词级时间戳的歌词。它已经预处理了 200K+ YouTube 音乐视频。试试看，让我知道你的想法。 已知问题：处理是使用 AI 自动完成的，可能会出错。歌词有时可能会被错误地转录，时间戳也可能是错误的。它往往最适合单人演唱的慢歌。 这项工作仍在进行中。希望得到一些反馈，看看人们是否认为它可能有用。    提交人    /u/hao1300   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ej3v1o/karatube_karaoke_with_youtube/</guid>
-      <pubDate>Sat, 03 Aug 2024 13:52:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>你们觉得呢？我搭建了一个平台，让你可以和另一位联合创始人进行一对一的通话。希望得到反馈！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ej3uva/what_do_you_guys_think_im_build_a_platform_where/</link>
-      <description><![CDATA[        由   提交  /u/Alert-Ad-5918   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ej3uva/what_do_you_guys_think_im_build_a_platform_where/</guid>
-      <pubDate>Sat, 03 Aug 2024 13:52:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>从一年 83 美元到每月 89 美元：我的禁食追踪应用如何扭转局面</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ej3eqd/from_83_in_a_year_to_89_a_month_how_my_fasting/</link>
-      <description><![CDATA[      大家好 我想分享我的一些旅程和从我的一个应用程序中学到的东西。 大约在 2022 年底，我开始为 iOS 开发一个简单的间歇性禁食应用程序。主要目的是进一步学习 SwiftUI（Apple 闪亮的新 UI 框架）。当我尝试学习任何语言或框架时，我更喜欢做一个小项目。我搜索了一些想法，发现禁食应用程序非常受欢迎，似乎赚了不少钱。所以，我选择制作间歇性禁食应用程序，并认为我也可以赚一些快钱。 最初，我以最少的努力在 App Store 上推出了该应用程序。我做了一些销售并推出了一些更新，但我大多忽略了它，因为它的表现不如我希望的那样好。到 2023 年底，该应用程序只赚了 83 美元。 几个月前，我的妻子开始间歇性禁食，需要一个应用程序来跟踪她的进度。我自豪地请她试用我的应用程序并给我反馈。令我惊讶的是（但并不完全出乎意料），她有很多抱怨（我的意思是很多）。她指出了几个问题和缺少的功能，这让我意识到该应用程序需要彻底改造。我从头开始重新设计了应用程序，修复了许多错误，并添加了所有缺少的功能。最终的结果是一个终于“可用”的应用程序（据我妻子说）。我在 6 月初左右推出了新的更新，慢慢地，该应用程序开始受到关注。仅在 2024 年 7 月，它的销售额就达到了约 89 美元——比我去年全年的收入还多。（我知道这是一个非常小的数目，但至少是一些）。  从这一切中，我意识到了一些事情  我认为该应用程序根本没有问题，因为没有用户就任何问题或缺少的功能与我联系。因此，您不能只是被动地等待用户给您反馈或提出问题。 当我观察我的妻子使用该应用程序时，我注意到了一些有趣的事情。她期望该应用程序以某种方式工作，并试图以不同于我创建/思考的方式使用它。一些对我来说有意义的琐碎事情（例如按钮位置或屏幕导航）对她来说却没有意义。这导致了重新设计，我认为最终这是值得的。 我认为在启动应用程序之前至少与目标用户验证应用程序是非常明智的。这里的验证并不意味着在开始之前就进行一些销售，而是可以确保您为开发应用程序所做的努力至少朝着正确的方向发展。  现在我的目标是在今年年底前实现 1,000 美元的销售额（希望如此 🤞）。如果您有兴趣，可以从 AppStore 尝试该应用程序。 [‎轻松快速的间歇性禁食](https://apps.apple.com/app/apple-store/id6443566279?pt=118921423&amp;ct=reddit&amp;mt=8 2023 年销售 2024 年 7 月销售    提交人    /u/appsandstuffs   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ej3eqd/from_83_in_a_year_to_89_a_month_how_my_fasting/</guid>
-      <pubDate>Sat, 03 Aug 2024 13:30:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>从自然语言数学表达式渲染出漂亮的 LaTeX 方程式</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ej3bh3/render_beautiful_latex_equations_from_natural/</link>
-      <description><![CDATA[大家好！我很高兴向大家展示我最近在做的一个项目 - 它允许您使用 LLM 将自然语言数学表达式转换为其 LaTeX 等价表达式。它还会生成所获取的 latex 代码的 JPEG 图像，您可以在文档和演示文稿中使用它 请在此处 试用它 我也欢迎贡献，因此请随意分叉 repo 并提交拉取请求    提交人    /u/V3mm4rzrrp   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ej3bh3/render_beautiful_latex_equations_from_natural/</guid>
-      <pubDate>Sat, 03 Aug 2024 13:26:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nooze.news</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ej3aow/noozenews/</link>
-      <description><![CDATA[nooze.news 是一个新闻聚合平台，它会扫描多个来源，仅提取并列出每个来源的主要标题，并直接链接回原始文章。这种人工策划的方法旨在对抗点击诱饵和算法驱动的新闻聚合趋势，确保最重要的故事得到突出显示。我正在寻找有关概念、可用性、用户体验的反馈以及任何改进建议。提前感谢您的见解！    提交人    /u/NoozeDotNews   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ej3aow/noozenews/</guid>
-      <pubDate>Sat, 03 Aug 2024 13:25:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要帮助验证一个想法</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ej1t93/need_help_with_validating_an_idea/</link>
-      <description><![CDATA[大家好，我正在考虑构建一个社交聆听工具，需要营销专家的建议。该工具将监听多个社交媒体平台上的品牌互动，并为用户提供可操作的见解。现有工具仅通过文本上下文。我正在考虑从视频内容（如 YouTube、Tiktok 视频）中提取见解。对这样的工具有兴趣吗？现有的社交聆听工具（如 SproutSocial、Hootsuite 等）是否存在任何问题，这些问题是主要的痛点？渴望听到经验观点。 问候 Varun    提交人    /u/varun85jobs   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ej1t93/need_help_with_validating_an_idea/</guid>
-      <pubDate>Sat, 03 Aug 2024 12:07:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>iOS 开发人员</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ej1syj/ios_developer/</link>
-      <description><![CDATA[大家好， 我目前正在探索远程 iOS 开发者的新机会。凭借两年多的经验，我的主要专长在于 SwiftUI，我已成功开发并交付了多个以用户为中心的应用程序。我的技能还包括精通 UIKit、Swift 和 Objective-C，这使我能够构建强大而高效的 iOS 解决方案。 我热衷于利用 SwiftUI 创建无缝、视觉吸引力强且响应迅速的应用程序。我渴望将我的技能带到一个充满活力和创新的团队中，特别是在重视创造力和敏捷性的初创环境中。 如果您知道任何职位空缺或有任何线索，我很乐意与您联系并讨论我可以为您的团队做出贡献。 提前感谢您的支持 - 期待联系！ SwiftUI #iOSDeveloper    提交人    /u/YouKnowABK   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ej1syj/ios_developer/</guid>
-      <pubDate>Sat, 03 Aug 2024 12:07:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
