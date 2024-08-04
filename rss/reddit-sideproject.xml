@@ -4,7 +4,7 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Sun, 04 Aug 2024 03:15:16 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Aug 2024 06:17:40 GMT</lastBuildDate>
     <item>
       <title>对我热爱的项目的反馈</title>
       <link>https://www.reddit.com/r/SideProject/comments/1ejkjhz/feedback_on_my_passion_project/</link>
@@ -32,13 +32,6 @@
       <description><![CDATA[6 月 29 日，我推出了我的第二个 AI SaaS，这是一款一体化 AI 工具，让你只需一次订阅即可在一个地方使用 GPT4o、Claude 3.5 Sonnet、Gemini 1.5 pro 和所有其他顶级 AI 模型。 我在 6 月的第一周从我遇到的一个问题中想出了这个想法，规划了 MVP 的样子，使用 Next.js 和 Tailwind 在不到 2 周的时间内构建了它，并使用 Claude 来加快速度。 然后我花了 2 个小时制定营销策略。我拿出 300 美元作为自己的钱，并说要将其花在有影响力的营销上  在产品发布的一周前，尽管产品尚未完成，但我还是向 150 位小众 AI youtuber 发送了一封电子邮件，并收到了一些回复，其中一个频道有 15,000 名订阅者，另一个频道有 40,000 名订阅者。 我决定冒险一试，花的钱比我计划的多一点，那天我花了 450 美元付给他们。产品完成后，他们制作了视频，轰隆隆——立即引起关注。 从那时起，我一直在重复和迭代我的赞助 YouTube 影响者的策略，而且它对 ninjachat dot ai 来说效果很好！ 期待在今年年底前将其发展成为一个庞大的 SaaS :) https://reddit.com/link/1ejib09/video/oeioznwlkjgd1/player    提交人    /u/aistartupbuilder   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1ejib09/how_i_got_my_first_100_paying_customers_in_30_days/</guid>
       <pubDate>Sun, 04 Aug 2024 00:28:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>希望与前端开发人员合作！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ejglqg/looking_to_team_up_with_a_frontend_dev/</link>
-      <description><![CDATA[大家好！我为自己开始了一个副业项目，最后变成了 SaaS！我在 7 月 1 日推出了 MVP，上个月获得了 80 多个用户，今天我拥有的用户接近 100 个（撰写本文时为 96 个）。我整个 6 月都在开发这款应用，7 月收集反馈，上周与后端开发人员合作继续开发！我希望再增加一名团队成员，他可以处理一些前端工作（比我做得好得多），而且来自美国。我想在大约 1 个月的时间内让它准备好盈利！我们在日常工作之余利用空闲时间开发它，并引导它。如果这对您有吸引力，请联系我！我很乐意通过 discord 聊天，带您了解该项目和我未来的愿景，看看我们是否会成为一支优秀的团队！ SaaS：Langui 宣传：在 Langui，我们通过提供人工智能辅助工具来帮助认真的语言学习者掌握他们的口语、阅读、写作和听力技能，从而实现流利程度。 网站：https://www.langui.io     提交人    /u/jakesm22   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ejglqg/looking_to_team_up_with_a_frontend_dev/</guid>
-      <pubDate>Sat, 03 Aug 2024 23:05:55 GMT</pubDate>
     </item>
     <item>
       <title>吐槽我的 B2C 教育科技 SAAS</title>
@@ -109,6 +102,13 @@
       <description><![CDATA[由于我想专注于其他项目，因此我正在出售我的副项目 MetalliCSS。 MetalliCSS 是一种在网络上应用自适应金属纹理的新颖解决方案。 使用它很简单，只需导入库、将类 metallicss 添加到元素并使用 CSS 属性进行配置即可。效果将自动适应元素大小、边框半径和背景颜色。 使用情况统计（来自 NPM）： https://npm-stat.com/charts.html?package=metallicss&amp;from=2021-01-01&amp;to=2024-07-31 如您所见，我建立了一个候补名单，用户可以注册以表达对库的“plus”版本的兴趣。这样的版本可以货币化。我可以详细说明它是如何工作的。 如果您有兴趣，或者知道有人可能感兴趣，请直接发信息给我。    提交人    /u/JohnTurturrosSandals   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1ejantq/i_am_looking_to_sell_metallicss/</guid>
       <pubDate>Sat, 03 Aug 2024 18:40:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个通过重写书籍来练习打字的网络应用程序</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1eja8ne/i_made_a_web_app_for_practicing_typing_by/</link>
+      <description><![CDATA[        提交人    /u/kap89   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1eja8ne/i_made_a_web_app_for_practicing_typing_by/</guid>
+      <pubDate>Sat, 03 Aug 2024 18:22:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
