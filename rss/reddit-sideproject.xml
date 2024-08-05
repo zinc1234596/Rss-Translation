@@ -4,13 +4,20 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Mon, 05 Aug 2024 01:03:09 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Aug 2024 03:15:19 GMT</lastBuildDate>
     <item>
-      <title>我开发了一款应用程序，让您可以轻松地将您的声音转换为各种其他角色，以用于有趣或有创意的项目。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ekaomz/i_built_an_app_that_lets_you_easily_convert_your/</link>
-      <description><![CDATA[我已经研究这个问题有一段时间了，但从来没有真正觉得它足够完整，可以与任何人分享。 因此，即使它可能仍未完成，我还是决定将其发布在这里并从这个社区获得反馈。 如果我的服务器宕机，请提前致歉。我的 DAU 甚至还不到 1，所以即使有 5 个人查看这个，也是我平均网络流量的 5 倍。 它适用于 iOS 和 Android！ https://revoixai.com/ 您可以获得 2 个免费积分/转换。    提交人    /u/EvilNinja   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ekaomz/i_built_an_app_that_lets_you_easily_convert_your/</guid>
-      <pubDate>Mon, 05 Aug 2024 00:43:37 GMT</pubDate>
+      <title>你们去健身房吗？锻炼后怎么还有力气继续工作？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ekde0g/do_you_guys_go_to_the_gym_how_do_you_have_the/</link>
+      <description><![CDATA[我晚上去健身房，因为我住的地方早上很冷。所以下班后，我 8 点就去健身房了，没有精力去做我计划要做的事情。放弃你的日常锻炼，这样我就可以向你们学习了。    提交人    /u/Mindless-nomad   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ekde0g/do_you_guys_go_to_the_gym_how_do_you_have_the/</guid>
+      <pubDate>Mon, 05 Aug 2024 03:00:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>我使用 Cloudflare Workers 构建了一个免费工具来镜像任何网站</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ekcqri/i_built_a_free_tool_to_mirror_any_website_using/</link>
+      <description><![CDATA[很高兴与大家分享我最近开发的一款工具：基于 Cloudflare Workers 的网站镜像解决方案。 GitHub 仓库：https://github.com/seadfeng/cloudflare-proxy-sites 这款工具解决了哪些问题？  绕过地域限制 提高访问速度 通过屏蔽用户 IP 增强隐私保护  主要特点：  完全免费使用 可以镜像任何网站 快速简便的部署（使用 Wrangler） 支持多个域 与 GitHub Actions 集成，实现自动化部署  借助 Cloudflare Workers 的强大功能，我只用了几个小时就开发出了这个工具。我的目标是让它尽可能地用户友好，让更多人能够轻松地建立自己的镜像站点。 主要好处：  提高网站性能 增强安全性 能够访问受限内容  该工具非常适合开发人员、注重隐私的用户或任何希望优化其网络体验的人。 欢迎您试用。如果您有任何建议或遇到任何问题，请随时在 GitHub 上打开问题或提交 PR。您的反馈将帮助我不断改进这个工具。 如果有人感兴趣，我很乐意讨论开发过程的技术细节。 期待听到您的想法！   由    /u/SanBirth  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ekcqri/i_built_a_free_tool_to_mirror_any_website_using/</guid>
+      <pubDate>Mon, 05 Aug 2024 02:27:52 GMT</pubDate>
     </item>
     <item>
       <title>我正在制作#Travel 和#CostToLive 网络应用程序，并且可以免费使用！</title>
@@ -102,13 +109,6 @@
       <description><![CDATA[      大家好， 今天，我想回馈我们的 SaaS 社区，分享一些令人惊喜的消息，希望能激励大家。在短短 30 天内，我帮助一位客户使用冷短信将其 SaaS 代理机构的规模扩大了一倍！他们成功吸纳了 17 位新客户，并为他们的 SAAS 增加了 9,000 美元。我所做的就是抓取潜在客户并为他们设置冷短信活动。他们的利基市场是专业服务企业，特别是律师和会计师。这是一个具有自动化功能的客户关系管理，可用于勘探和培养潜在客户。 这是证据。 以下是一些对我们有用的技巧：  精准定位您的受众：确保您接触到可能对您的服务感兴趣的合适人选。 个性化您的消息：自定义您的短信以满足收件人的特定需求或痛点。个人风格大有帮助。 持续跟进：不要在一条消息后就放弃。适时的跟进可以大大增加您成功的机会。 跟踪和分析您的结果：使用工具监控您的广告系列的效果并相应地调整策略。 保持合规性：确保您的信息符合相关法规，以避免任何法律问题。  如果您有兴趣了解更多关于我如何实现这一目标的信息，请随时联系我或发送电子邮件至 [greatco3560@gmail.com](mailto:greatco3560@gmail.com)。 https://preview.redd.it/382b8ieo5pgd1.jpg?width=720&amp;format=pjpg&amp;auto=webp&amp;s=e39840c83aaf0ad23ed724b4128820bbe3b6b362    提交人    /u/StationClean1960   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1ek3b1b/who_knew_this_would_work/</guid>
       <pubDate>Sun, 04 Aug 2024 19:15:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找合作项目</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ek3ans/looking_for_projects_to_collaborate/</link>
-      <description><![CDATA[您好，我是一名软件工程师，拥有大约 4 年的专业经验和大约 10 年的编程专业知识。我的技能涵盖各种技术，包括 Web 开发、AI/ML、安全和区块链。我对软件开发和技术充满热情。尽管我努力打造产品，但由于缺乏资金和保护产品的知识，我遇到了挑战。我意识到，虽然我在技术领域很强，但我的商业技能有限。因此，我正在寻找一个具有创新想法和资源的合作伙伴，他可以利用我的技术专长进行合作。    提交人    /u/Mean-Android69   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ek3ans/looking_for_projects_to_collaborate/</guid>
-      <pubDate>Sun, 04 Aug 2024 19:15:23 GMT</pubDate>
     </item>
     </channel>
 </rss>
