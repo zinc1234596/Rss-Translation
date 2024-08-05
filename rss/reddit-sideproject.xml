@@ -4,7 +4,56 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Mon, 05 Aug 2024 18:18:48 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Aug 2024 21:15:11 GMT</lastBuildDate>
+    <item>
+      <title>如何开始使用开源？我不知道。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ekza7v/how_to_start_with_open_source_i_have_no_idea/</link>
+      <description><![CDATA[  由    /u/jais14  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ekza7v/how_to_start_with_open_source_i_have_no_idea/</guid>
+      <pubDate>Mon, 05 Aug 2024 21:10:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>创建此工作流自动化工具目录</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1eky453/created_this_directory_of_workflow_automation/</link>
+      <description><![CDATA[      使用 Astro 和 Google Sheets 构建。希望你喜欢它:) https://preview.redd.it/ld2e2wzpmwgd1.png?width=2668&amp;format=png&amp;auto=webp&amp;s=cfc78e914fcc5ee7cbed771139146d9290553008    提交人    /u/ecz-   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1eky453/created_this_directory_of_workflow_automation/</guid>
+      <pubDate>Mon, 05 Aug 2024 20:23:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>重新爱上读书</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1eky0jb/falling_in_love_with_reading_again/</link>
+      <description><![CDATA[        提交人    /u/DoomedPeasant   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1eky0jb/falling_in_love_with_reading_again/</guid>
+      <pubDate>Mon, 05 Aug 2024 20:19:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>合并社会</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ekxozq/mergesociety/</link>
+      <description><![CDATA[        提交人    /u/Low-Marionberry-8781   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ekxozq/mergesociety/</guid>
+      <pubDate>Mon, 05 Aug 2024 20:06:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要一个 MVP</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ekwdku/need_a_mvp/</link>
+      <description><![CDATA[您好！我是一名经验丰富的低代码开发人员，在该领域拥有 5 年经验。我曾与初创公司、创始人和孵化器合作，开发过各种各样的应用程序。目前，我正在寻找构建 MVP 的新项目和机会。让我们联系起来，探索我如何为您的项目做出贡献！    提交人    /u/mattd_company   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ekwdku/need_a_mvp/</guid>
+      <pubDate>Mon, 05 Aug 2024 19:14:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Laravel 样板 saas 副项目 - 任何反馈都将受到赞赏</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ekw1m7/laravel_boilerplate_saas_side_project_any/</link>
+      <description><![CDATA[  由    /u/mbtonev  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ekw1m7/laravel_boilerplate_saas_side_project_any/</guid>
+      <pubDate>Mon, 05 Aug 2024 19:01:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>探讨我的想法：Figma 到现代 Web 技术转换服务</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ekv2vq/roast_my_idea_figma_to_modern_web_tech_conversion/</link>
+      <description><![CDATA[你好！ 我们正在研究一种新的服务概念，将 Figma 设计转换为现代 Web 技术（Next.js、Tailwind CSS、HTML、CSS、SCSS），我们很乐意听到您的宝贵想法。 服务理念：  每月订阅模式（估计 2,500 欧元/月） 保证每天至少转换 1 页 容量有限，提供个性化服务  您对这项服务有何看法？ 请分享您的反馈！    提交人    /u/malamatcaga   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ekv2vq/roast_my_idea_figma_to_modern_web_tech_conversion/</guid>
+      <pubDate>Mon, 05 Aug 2024 18:23:02 GMT</pubDate>
+    </item>
     <item>
       <title>Supersaas - Nuxt 3 全栈入门套件，具有身份验证、密码、魔术链接、Stripe、Lemonsqueezy 支付、数据库、Aws S3 文件存储和电子邮件支持</title>
       <link>https://www.reddit.com/r/SideProject/comments/1ekunkz/supersaas_a_nuxt_3_fullstack_starter_kit_with/</link>
@@ -60,55 +109,6 @@
       <description><![CDATA[大家好， 上周末刚刚启动了一个小项目，2024 年巴黎奥运会统计 chrome 扩展程序！ 作为一名狂热的体育迷，我想创建一种简单的方法来跟踪即将到来的 2024 年巴黎夏季奥运会的奖牌榜。此扩展程序提供实时更新，并详细细分每个国家在各个体育项目中获得的奖牌。 主要特点：  实时奖牌榜：查看每个国家的最新奖牌数，包括金牌、银牌、和铜牌。 固定收藏夹：固定您最喜欢的国家/地区，使其保持在排行榜顶部，以便于跟踪。 可折叠部分：轻松切换固定收藏夹的可见性，以使您的排行榜井井有条，不会杂乱。 体育细分：单击某个国家/地区可查看其在哪些运动项目中获得奖牌的细分情况。 搜索和过滤：快速查找特定国家/地区或根据您的喜好过滤排行榜。  我很想听到您对扩展的想法和反馈！欢迎在此处发表评论并在 chrome 扩展程序商店中对其进行评论。 这是 chrome 扩展程序的链接：扩展程序链接    提交人    /u/Luffy2k19   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1ektlf2/paris_olympics_2024_leaderboard_stats_chrome/</guid>
       <pubDate>Mon, 05 Aug 2024 17:24:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么没有人使用我的产品？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ekt49h/why_is_no_one_is_using_my_product/</link>
-      <description><![CDATA[首先，我并不是一个成功的创业者。我 15 岁时有过一些小生意，销售电子游戏的数字艺术品，赚了大约 2 万美元。我也有一些“创业”经验（如果你可以这么称呼的话），通过出租房间和汽车等资产赚钱。在我看来，这些都不算什么了不起的事情，任何人都可以做到。我上一个创业公司（停车 Airbnb）通过面对面的游击营销获得了几千名白名单客户，但我们因联合创始人的争执而失败（他在我们发展了 2 年后删除了我们的驱动器）。我唯一坚持的事情就是，我真的不喜欢放弃。但很明显，我对我们目前的创业公司做错了什么，这是一个检查你体型的游戏化健身应用程序。似乎我们已经完成了创业剧本中的所有步骤：客户发现、市场研究、验证你的产品和市场、MVP 部署、持续迭代，但感觉就像在努力将一块巨石推上山。我们已经经历了所有阶段，那么为什么我们仍然处于基本上没有人使用我们产品的境地？我们只是对其他人都看到的一些明显事实视而不见吗？这是我们的产品吗？是不是因为我们没有声誉，或者我们如何接触人们？ 应用程序链接： iOS：https://apps.apple.com/us/app/firefly-fitness/id6464440707 Android：https://play.google.com/store/apps/details?id=vix.fitness&amp;hl=en_US    提交人    /u/Far-Impression-7403   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ekt49h/why_is_no_one_is_using_my_product/</guid>
-      <pubDate>Mon, 05 Aug 2024 17:05:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个应用程序/网站来追踪你读过的、想读的或正在读的书</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1eksp07/i_made_an_appweb_to_keep_track_of_the_books_you/</link>
-      <description><![CDATA[      嗨！我是一名非常喜欢阅读的网页开发人员，所以我制作了一个完全免费且没有广告的应用程序/网页，用于跟踪您正在阅读和想要阅读的书籍。它还会显示您每年阅读的所有书籍以及一些很酷的统计数据。我很乐意收到您的反馈和建议。 无论如何，您可以在此处查看 Android 应用或网站： Android：https://play.google.com/store/apps/details?id=app.cozybooks.pinya 网站：https://www.cozybooks.app （如果您使用的是 IOS，则可以从 safari 菜单将网站添加到主屏幕） https://preview.redd.it/xs59pn7ekvgd1.jpg?width=810&amp;format=pjpg&amp;auto=webp&amp;s=b82cda4b6cee51be2ce4ce8e6a56b209ffc7f4c6 https://preview.redd.it/v0l77r7ekvgd1.jpg?width=810&amp;format=pjpg&amp;auto=webp&amp;s=136750f39dfe20c8263c9c82e09d5051db9b13b6 https://preview.redd.it/02tqnn8ekvgd1.jpg?width=810&amp;format=pjpg&amp;auto=webp&amp;s=dd378eb1b37d3d2a00b43a155e9cf29feaf495a4 https://preview.redd.it/yrc9gn8ekvgd1.jpg?width=810&amp;format=pjpg&amp;auto=webp&amp;s=c50c69e07e83050065e46e70770faa480c7cb912 https://preview.redd.it/4ox0vn7ekvgd1.jpg?width=810&amp;format=pjpg&amp;auto=webp&amp;s=ec260650f70313bccc2f70cceb23c672fba03251    提交人    /u/PinyaGames   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1eksp07/i_made_an_appweb_to_keep_track_of_the_books_you/</guid>
-      <pubDate>Mon, 05 Aug 2024 16:48:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一款应用程序，可以把你的大学讲座变成互动考试——而且完全免费</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ekrqy2/i_made_an_app_that_turns_your_uni_lectures_into/</link>
-      <description><![CDATA[        提交人    /u/InternetVisible8661   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ekrqy2/i_made_an_app_that_turns_your_uni_lectures_into/</guid>
-      <pubDate>Mon, 05 Aug 2024 16:10:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一款睡前故事应用。需要反馈！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ekrjqu/i_made_an_app_for_bedtime_stories_need_feedback/</link>
-      <description><![CDATA[大家好，我的应用 Snoretales 即将发布  https://snoretales.com/ 我只是想让一些人运行一下，看看你们是否注意到了什么明显的问题？  你们这边登录正常吗？ 免费积分是否按预期工作？ 对于非技术人员来说，UI 是否足够简单？ 故事真的会产生吗？ 主要的漏洞和滥用？  你们也会如何推销它？我已经有了一些想法，但欢迎提供更多反馈！    提交人    /u/Pigmilk   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ekrjqu/i_made_an_app_for_bedtime_stories_need_feedback/</guid>
-      <pubDate>Mon, 05 Aug 2024 16:02:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何找到早期采用者？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ekrii6/how_to_find_early_adopters/</link>
-      <description><![CDATA[大家好， 我即将推出一家 B2B SaaS 初创公司（一种 AI SDR）。 我已经有一些早期采用者，但我意识到昨天我可以接受另外 8 个用户（当然是免费访问）。 到目前为止，我通过冷门推广获得了所有早期采用者，但目前看来这很耗时。 还有其他策略可以找到他们吗？    提交人    /u/Quiet-Milk3174   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ekrii6/how_to_find_early_adopters/</guid>
-      <pubDate>Mon, 05 Aug 2024 16:00:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>资金管理应用程序</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ekrih8/money_manager_app/</link>
-      <description><![CDATA[嗨，Reddit 社区， 我正在开发一款理财管理应用，旨在帮助用户跟踪支出、设置预算并实现财务目标。我很乐意从大家那里得到一些反馈和建议，以使其尽可能用户友好且有效。 主要功能：1. 费用跟踪：轻松记录和分类您的费用。2. 预算工具：设置每月预算并在接近超出预算时收到通知。3. 预定交易：管理定期交易并获取即将到期账单的提醒。报告和见解：生成详细报告以分析您的消费习惯。 问题：1. 功能请求：您认为理财应用中有哪些功能或功能是有价值的？2. 用户体验：理财应用的设计和可用性的哪些方面对您来说最重要？ 3. 痛点：您在使用其他理财应用时遇到过哪些常见问题？4. 安全问题：生物识别登录和数据加密等安全功能对您来说有多重要？ 其他反馈：如果您有任何其他反馈或建议，我们将不胜感激。无论是关于应用的设计、可用性还是其他方面，我都想听听！ 提前感谢您的时间和见解。您的反馈将非常宝贵，有助于我为所有人创建更好的应用 下载应用 加入 discord    提交人    /u/Globin_dev   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ekrih8/money_manager_app/</guid>
-      <pubDate>Mon, 05 Aug 2024 16:00:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>[visionOS] Zen: Focus Garden - 集中精力，让花园蓬勃发展</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ekreo4/visionos_zen_focus_garden_grow_your_garden_by/</link>
-      <description><![CDATA[      欢迎使用 Zen: Focus Garden，这是一款专为 Apple Vision Pro 设计的创意生产力应用！随着时间的推移，种植一个宁静的空间花园，象征着您为保持高效而投入的时间。在桌面模式下，在共享空间中培育您的花园 - 您的劳动成果总是一目了然。然后，踏入您的花园，作为一个完整的空间，以真实的规模享受您的成就。布置树木、植物和装饰，完美展现您的专注时间。 App Store 列表：https://apps.apple.com/us/app/zen-focus-garden/id6505040523 主要功能 1. 专注计时器 - 货币模式：保持专注，每 5 分钟赚取“zen”币，这些币可用于在花园商店购买各种花园内容。看着您的硬币凭空出现并随着时间的推移不断堆积。 - 禅模式：集中精力赢取随机花园内容，这些内容会自动添加到您虚拟花园中的随机免费位置。  桌面花园 共享空间立体花园：与您的花园进行互动，就像一个微型桌面玩具，由 7x7 的交互式地块网格组成。 “放置”模式：将库存中的各种物品放入花园中。 “移除”模式：通过将物品放回库存来编辑花园的布局。 “购物”模式：将您辛苦赚来的“禅”币花在新的和令人兴奋的树木、植物和装饰上，以扩大您的花园。出售未使用的内容，以便您可以尝试新内容！ 沉浸式全尺寸花园 全方位体验：走进一个沉浸式空间，您的花园以完整、真实的规模栩栩如生。 调整您的背景：在一组天空盒背景之间切换，并沿 360º 旋转它们，以拨入完美的沉浸式美感。  很想听听大家的想法！    提交人    /u/CragsdaleSG   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ekreo4/visionos_zen_focus_garden_grow_your_garden_by/</guid>
-      <pubDate>Mon, 05 Aug 2024 15:56:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
