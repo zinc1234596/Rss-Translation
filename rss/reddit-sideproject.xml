@@ -4,7 +4,35 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Mon, 05 Aug 2024 06:20:16 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Aug 2024 09:14:05 GMT</lastBuildDate>
+    <item>
+      <title>SaaS 项目 - 需要有效推广的技巧</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ekj6l2/saas_project_need_tips_for_effective_promotion/</link>
+      <description><![CDATA[大家好，我正在开发一款 SaaS 产品，正在寻找一些行之有效的方法来有效推广它。我做了一些研究，看起来有很多选择，但我很想听听这个社区对你来说哪种方法最有效。无论是使用社交媒体、内容营销，还是利用像这样的社区，任何见解或个人经验都将不胜感激。提前致谢！    提交人    /u/Dazzling-Captain9901   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ekj6l2/saas_project_need_tips_for_effective_promotion/</guid>
+      <pubDate>Mon, 05 Aug 2024 09:06:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能会全天候监控你的屏幕和麦克风，让你了解自己的时间分配情况</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ekj49u/ai_look_at_your_screens_mics_247_and_gives_you/</link>
+      <description><![CDATA[        提交人    /u/louis3195   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ekj49u/ai_look_at_your_screens_mics_247_and_gives_you/</guid>
+      <pubDate>Mon, 05 Aug 2024 09:02:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>法国工资计算器</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ekj0hq/salary_calculator_for_france/</link>
+      <description><![CDATA[我为法国创建了以下工资计算器。 https://www.salairenetbrut.fr/en-US/ 当您需要估算实得工资时，您会遇到一些细微差别。这就是我创建它的原因。有关技术信息，前端：astro.build 和后端：golang。    提交人    /u/silgon3200   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ekj0hq/salary_calculator_for_france/</guid>
+      <pubDate>Mon, 05 Aug 2024 08:55:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能工作站</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ekgw0r/ai_workstation/</link>
+      <description><![CDATA[大家好，这是我第一次在这里发帖，我真的很想听听大家对这个想法的反馈，我一直在构建存储文件服务器、媒体服务器，最近又被委托构建一个可以处理几乎任何 LLM 的 AI 工作站，我想知道如果我开了一家商店，会有人购买/使用我的服务吗？ 谢谢你的帮助    提交人    /u/choke527   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ekgw0r/ai_workstation/</guid>
+      <pubDate>Mon, 05 Aug 2024 06:26:10 GMT</pubDate>
+    </item>
     <item>
       <title>如何通过内容获利：创作者通过直播赚钱的策略</title>
       <link>https://www.reddit.com/r/SideProject/comments/1ekfeim/how_to_monetize_your_content_strategies_for/</link>
@@ -76,39 +104,11 @@
       <pubDate>Sun, 04 Aug 2024 23:02:24 GMT</pubDate>
     </item>
     <item>
-      <title>没人告诉您有关达到 40,000 美元 ARR 的事情。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ek6qhg/what_no_one_tells_you_about_reaching_40k_arr/</link>
-      <description><![CDATA[      我终于在我的其中一款软件上取得了巨大的成功，但有一件事让我感到困扰，那就是成功绝对不是推特截图所显示的那样。 我 3 个月前开始做这个 SaaS。我们的 ARR 已经增长到 40k。现在如果我在推特上发布这个消息，人们会认为这很疯狂，我现在可能已经成功了。 但事实是，我们的收入为 17k，支出为 11k。 我们的客户流失率为 20%，这让我每天都感到压力很大。我还必须管理一个 3 人团队，这也非常紧张。 所有这些压力，最后，3 个月后我的净收入只有 5k。我住在海湾地区，这里的生活最低标准是每月 2k。 显然，软件的估值会让这一切都值得，但如果我们不能解决客户流失问题，那么这只是一场恶性竞争。 顺便说一句，这是一个 AI SaaS，只是想把它放在那里，因为如果你想启动一个 saas，它肯定应该是在 AI 领域，因为市场还没有饱和。 https://indiepa.ge/lashuel https://preview.redd.it/hanrkmfovpgd1.png?width=740&amp;format=png&amp;auto=webp&amp;s=700ee99eb1aeebf8ebdb3a025723c9d175463390    提交人    /u/Saas-builder   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ek6qhg/what_no_one_tells_you_about_reaching_40k_arr/</guid>
-      <pubDate>Sun, 04 Aug 2024 21:41:03 GMT</pubDate>
-    </item>
-    <item>
       <title>启动套件：Django + React 启动套件</title>
       <link>https://www.reddit.com/r/SideProject/comments/1ek6j3w/startup_kit_django_react_starter_kit/</link>
       <description><![CDATA[在过去十年左右的时间里，我创建了几家初创公司，每次都是从头开始编写。同时，编写相同的身份验证代码、付款、订阅、电子邮件设置、营销网站、博客等... 我花了 7 个月的时间巩固了基础，然后才开始进入下一波项目 :)。我的目标是帮助人们更多地专注于编写重要的代码，而不是一遍又一遍地重复相同的代码。如果您喜欢 django 和 react，请查看！ https://djangoreactkit.com 如果您有任何问题，请随时给我发私信！    提交人    /u/StealthModeFounder   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1ek6j3w/startup_kit_django_react_starter_kit/</guid>
       <pubDate>Sun, 04 Aug 2024 21:32:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>介绍我的新鸡尾酒应用程序！（现在处于 Beta 测试阶段）</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ek6fwd/introducing_my_new_cocktail_app_now_in_beta/</link>
-      <description><![CDATA[在我即将进入大学最后一年之际，我很高兴与大家分享我一直在做的一个项目。这款鸡尾酒应用是一个展示我应用开发技能的副项目，我迫不及待地想让大家试用它！我目前处于 Beta 测试阶段，正在寻找测试人员来帮助改进和完善该应用。以下是功能概述： 功能：  收藏夹列表：轻松保存和访问您最喜爱的鸡尾酒。 成分数据库：有关成分的详细信息，包括营养信息、ABV 水平和成本。 自定义旋转轮：有趣且可自定义的旋转轮来决定您的下一杯饮料。 浓度滑块：使用独特的滑块图标调整鸡尾酒的浓度。 用户身份验证：使用 Firebase 安全登录和注册。 经济实惠的食谱：非常适合大学生和年轻的专业人​​士。 用户反馈适应：该应用会根据您的偏好进行学习，并随着时间的推移进行适应。 带有 Jetpack Compose 的时尚 UI：现代、直观的设计，易于导航。  我为何开发此应用： 作为一名大学生，我想创建一些有趣、实用且具有挑战性的东西。此应用不仅反映了我对编码的热情，也反映了我对调制美味饮品的热爱。无论您是举办派对还是只想尝试新事物，我的应用都能满足您的需求。 参与其中： 我们目前处于 Beta 测试阶段，我希望大家能够试用并给我反馈！您的意见非常宝贵，将帮助我进一步改进应用。此外，这也是支持同学和崭露头角的开发人员的好方法。 如果您想试用此应用，请单独给我发私信或分享您的电子邮件，以便我将您添加到预发布测试人员列表中。 另请注意，此应用目前仅适用于 Android。因为它是完全自主开发的，所以我需要学习 swift 才能在 IOS 上实现它，而且学校马上就要开学了，哈哈。 感谢您的支持，我期待听到您的想法 干杯！    提交人    /u/Brawling-_-Bunny1   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ek6fwd/introducing_my_new_cocktail_app_now_in_beta/</guid>
-      <pubDate>Sun, 04 Aug 2024 21:28:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个工具来帮助验证 SaaS 想法。希望得到您的反馈！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ek64bl/i_built_a_tool_to_help_validate_saas_ideas_would/</link>
-      <description><![CDATA[大家好， 长期以来，我一直对构建微型 SaaS 产品感兴趣。在研究过程中，我遇到了许多 YouTube 频道，它们试图销售昂贵的 SaaS 构建课程，老实说，我觉得这有点骗人。这让我开始思考：我该如何帮助 SaaS 领域的初学者，而不利用他们的愿望？ 就在那时，我想到了一个可以帮助验证 SaaS 概念的工具。我已经构建了一个 MVP，我很想听听你的想法。  它的作用如下： - 您输入您的 SaaS 想法 - 该工具对其进行分析并提供详细的反馈 - 报告包括竞争分析、建议和营销/销售想法 我打算让大多数功能免费，因为我相信很多人都在尝试进入 SaaS 领域，这可能真的很有帮助，尤其是对新手而言。 我没有包含任何链接以避免被视为垃圾邮件，但我真的很想听听您的意见。您认为这样的工具有潜力吗？您会使用它吗？您希望看到哪些功能？ 此外，如果有人有兴趣尝试 MVP 并提供反馈，请在评论中或通过 DM 告诉我。 提前感谢您的见解！    提交人    /u/mailnike   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ek64bl/i_built_a_tool_to_help_validate_saas_ideas_would/</guid>
-      <pubDate>Sun, 04 Aug 2024 21:14:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>出售您的 GitHub 存储库/获取更新报酬。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ek62jo/sell_your_github_repositoryget_paid_for_updates/</link>
-      <description><![CDATA[开源很棒，但也是一把双刃剑。一方面，在一个项目上进行协作是件好事。另一方面，这样做不值得花费时间和精力，因为没有人能得到报酬。RepoMarket.io 旨在通过允许开发人员为其存储库设置付费墙来解决这一难题。    提交人    /u/RepoMarket   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ek62jo/sell_your_github_repositoryget_paid_for_updates/</guid>
-      <pubDate>Sun, 04 Aug 2024 21:12:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
