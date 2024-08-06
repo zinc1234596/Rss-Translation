@@ -4,7 +4,35 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Mon, 05 Aug 2024 21:15:11 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Aug 2024 01:01:23 GMT</lastBuildDate>
+    <item>
+      <title>您创建目录的技术堆栈是什么？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1el4ij9/whats_your_tech_stack_for_creating_directory/</link>
+      <description><![CDATA[  由    /u/obionekenobitoo  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1el4ij9/whats_your_tech_stack_for_creating_directory/</guid>
+      <pubDate>Tue, 06 Aug 2024 00:56:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>中等烂透了！就这样！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1el3phx/medium_sucks_period/</link>
+      <description><![CDATA[尝试执行一些谷歌搜索来阅读某个主题，瞧，我收到了一个 medium 链接，点击后就后悔了。 现在我的任务是使用此扩展从谷歌搜索结果页面中删除所有 medium 链接。 在这里找到它：https://github.com/AmoabaKelvin/zap-medium/    提交人    /u/kamoaba   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1el3phx/medium_sucks_period/</guid>
+      <pubDate>Tue, 06 Aug 2024 00:18:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>想法</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1el30er/ideas/</link>
+      <description><![CDATA[所以我想我需要一些帮助，我想开始一个新的副项目，一个复杂的东西，因为我不仅想学习，还想练习有挑战性的东西，我想用 Rust 写一些东西，用 React Native 写一些东西，为桌面和网络写一些东西，所以我在寻找一个完整的应用程序，我希望它是有用的，我想编写某种基本的 Jarvis，它可以在一些基本层面上与更多应用程序交互，你能给我什么建议？或者任何其他我可以做的事情的想法？    提交人    /u/Actual-Doubt7466   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1el30er/ideas/</guid>
+      <pubDate>Mon, 05 Aug 2024 23:46:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>我开发了一个小型对话启动应用程序</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ekzi0u/i_built_a_little_conversation_starter_app/</link>
+      <description><![CDATA[其实没什么，我只是觉得这对某些人有帮助。如果你喜欢它，请告诉我，我愿意接受各种反馈:)    由   提交  /u/broccoli-bro   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ekzi0u/i_built_a_little_conversation_starter_app/</guid>
+      <pubDate>Mon, 05 Aug 2024 21:19:10 GMT</pubDate>
+    </item>
     <item>
       <title>如何开始使用开源？我不知道。</title>
       <link>https://www.reddit.com/r/SideProject/comments/1ekza7v/how_to_start_with_open_source_i_have_no_idea/</link>
@@ -36,7 +64,7 @@
     <item>
       <title>需要一个 MVP</title>
       <link>https://www.reddit.com/r/SideProject/comments/1ekwdku/need_a_mvp/</link>
-      <description><![CDATA[您好！我是一名经验丰富的低代码开发人员，在该领域拥有 5 年经验。我曾与初创公司、创始人和孵化器合作，开发过各种各样的应用程序。目前，我正在寻找构建 MVP 的新项目和机会。让我们联系起来，探索我如何为您的项目做出贡献！    提交人    /u/mattd_company   [link] [评论]]]></description>
+      <description><![CDATA[您好！我是一名经验丰富的低代码开发人员，在该领域拥有 5 年经验。我曾与初创公司、创始人和孵化器合作，开发过各种各样的应用程序。目前，我正在寻找新项目和构建 MVP 的机会。让我们联系起来，探索我如何为您的项目做出贡献！    提交人    /u/mattd_company   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1ekwdku/need_a_mvp/</guid>
       <pubDate>Mon, 05 Aug 2024 19:14:26 GMT</pubDate>
     </item>
@@ -81,34 +109,6 @@
       <description><![CDATA[在为我的业余项目制作了一个入门套件 / 样板后，我认为这不会太糟糕，因为它“不花我一分钱”，记录了所有内容并公开了我的工作。 现在，我决定这样做，我从 WL 开始 ( https://www.vittoriogioda.it/nuxt-boilerplate )。 考虑到我只在 reddit、linkedin 和 x 等社交媒体上谈论这个项目，您预计等待名单中会有多少用户？ （我是这些社交网络的新手，因此我的帖子有几千次浏览量）    提交人    /u/Vgioda   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1ekubrh/decent_number_of_people_for_a_waitlist/</guid>
       <pubDate>Mon, 05 Aug 2024 17:53:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>现代日报 - 公正且注重事实。适合忙碌的专业人士。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1eku9t2/modern_daily_newspaper_unbiased_focused_on_the/</link>
-      <description><![CDATA[        提交者    /u/schultz7   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1eku9t2/modern_daily_newspaper_unbiased_focused_on_the/</guid>
-      <pubDate>Mon, 05 Aug 2024 17:51:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>预付费产品测试</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ektydf/prepaid_product_testing/</link>
-      <description><![CDATA[大家好！不确定是否允许这样做，如果不允许，请将我引导至与我的业务相关的任何群组。  我与正在寻找产品测试员的亚马逊卖家有联系。他们的产品范围从成人玩具、家居用品、婴儿和动物产品等等！:) 一切都是预付款。  您无需支付任何费用:)     提交人    /u/kiarm12   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ektydf/prepaid_product_testing/</guid>
-      <pubDate>Mon, 05 Aug 2024 17:38:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 SEO 扫描器中添加了 AI</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ektrm9/added_ai_to_the_seo_scanner/</link>
-      <description><![CDATA[      SEO 扫描仪现在有一个 AI 专家顾问。它知道 SEO 审核的结果，并可以提供建议、推荐修复并帮助调试问题。 添加 AI 并不困难，但在应用程序内部与它一起工作和交谈是非常超现实的。    提交人    /u/DavidCBlack   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ektrm9/added_ai_to_the_seo_scanner/</guid>
-      <pubDate>Mon, 05 Aug 2024 17:30:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年巴黎奥运会排行榜统计 - Chrome 扩展程序</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ektlf2/paris_olympics_2024_leaderboard_stats_chrome/</link>
-      <description><![CDATA[大家好， 上周末刚刚启动了一个小项目，2024 年巴黎奥运会统计 chrome 扩展程序！ 作为一名狂热的体育迷，我想创建一种简单的方法来跟踪即将到来的 2024 年巴黎夏季奥运会的奖牌榜。此扩展程序提供实时更新，并详细细分每个国家在各个体育项目中获得的奖牌。 主要特点：  实时奖牌榜：查看每个国家的最新奖牌数，包括金牌、银牌、和铜牌。 固定收藏夹：固定您最喜欢的国家/地区，使其保持在排行榜顶部，以便于跟踪。 可折叠部分：轻松切换固定收藏夹的可见性，以使您的排行榜井井有条，不会杂乱。 体育细分：单击某个国家/地区可查看其在哪些运动项目中获得奖牌的细分情况。 搜索和过滤：快速查找特定国家/地区或根据您的喜好过滤排行榜。  我很想听到您对扩展的想法和反馈！欢迎在此处发表评论并在 chrome 扩展程序商店中对其进行评论。 这是 chrome 扩展程序的链接：扩展程序链接    提交人    /u/Luffy2k19   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ektlf2/paris_olympics_2024_leaderboard_stats_chrome/</guid>
-      <pubDate>Mon, 05 Aug 2024 17:24:04 GMT</pubDate>
     </item>
     </channel>
 </rss>
