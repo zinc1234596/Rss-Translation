@@ -4,7 +4,84 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Tue, 06 Aug 2024 06:20:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Aug 2024 09:14:35 GMT</lastBuildDate>
+    <item>
+      <title>我制作了一个 GitHub 存储库流量聚合器</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1eld41u/i_made_a_github_repository_traffic_aggregator/</link>
+      <description><![CDATA[随着我开发和推广越来越多的开源项目，我经常查看 GitHub 上每个存储库的流量数据。 由于 GitHub 缺少跨多个存储库聚合数据的功能，因此我决定创建一个 Web 应用程序，将所有存储库的流量信息整合到一个地方。 我还想构建一个足够小的东西，让我能够完成它而不会失去动力。 您可以在 ghtraffic.com 查看应用程序，并查看 GitHub 上的源代码。    提交人    /u/IAmMirch   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1eld41u/i_made_a_github_repository_traffic_aggregator/</guid>
+      <pubDate>Tue, 06 Aug 2024 09:13:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个由 AI 驱动的构建器来生成 Flutter 项目</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1elchcl/i_made_an_aipowered_builder_to_generate_flutter/</link>
+      <description><![CDATA[        由    /u/NameWithAI   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1elchcl/i_made_an_aipowered_builder_to_generate_flutter/</guid>
+      <pubDate>Tue, 06 Aug 2024 08:29:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>让你的副项目变得用户友好</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1elca4o/make_your_side_project_user_friendly/</link>
+      <description><![CDATA[大家好，我是一名经验丰富的产品、UI/UX 设计师，擅长将您的想法转化为数字现实。如果您在审核/升级产品设计/网站方面需要任何帮助，请联系我。 我的作品集：jasonjosechz.framer.website    提交人    /u/Ok_Nefariousness1204   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1elca4o/make_your_side_project_user_friendly/</guid>
+      <pubDate>Tue, 06 Aug 2024 08:15:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>庆祝我的 API SaaS 上线 2 个月 — 仅 2 个月收入就超过 4,000 美元！🎉</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1elc5j8/celebrating_2_months_of_my_api_saas_over_4k/</link>
+      <description><![CDATA[2024 年 6 月 1 日，我发布了社交媒体抓取工具 API 的升级版。新版本具有更好的文档、更多的端点以及一些您在其他任何地方都找不到的独特功能。 我如何在短短 2 个月内实现 4000 美元以上的收入？  我推出了配额更高的计划。虽然此 API 的定价与旧版本相同，但我创建了配额更高的计划，起价为 0 美元、15 美元、70 美元、330 美元，并可根据要求提供定制计划。 优质支持 - 许多客户说：“你们总是那么容易合作。”我随时准备及时帮助客户解决任何问题。 一些市场上其他任何地方都无法获得的独特端点 始终保持最新的 API（有时客户会帮助我使 API 保持最新） 由于一些客户的一次性要求，收入实际上高于 4000 美元。  2 个月后的结果如何？  目前，当您在 RapidAPI 上搜索“Instagram”或​​“Ins​​tagram scraper”时，API 位居前 5 名。 API 被列在 RapidAPI 上的“热门 API”中。 我们在“最适合您的日常生活”列表中集合。  API 提供哪些独特功能？  最近，Instagram 从网页版中删除了 fb_likes 和 fb_plays 计数，这导致 Instagram 网页版和应用版之间的指标出现差异。我们的一位客户告知了我这个问题，我立即解决了。目前，市场上只有少数 API 提供此更新数据。 用户标记故事：获取私人和公共 Instagram 用户的所有公开标记故事。示例：如果您传递“therock”用户名，您将获得所有提到“therock”的故事。 批量点赞：在一次 API 调用中获取最多 9k 个点赞者的数据。 具有过滤器和洞察的用户提要：在任意日期和时间之间过滤用户提要关键字并获得诸如点赞、评论、分享、互动次数、主题数据等洞察的响应。 无 CORS 媒体：将媒体 URL 直接嵌入您的网站/应用，不会出现 CORS 问题。此功能适用于几乎所有媒体端点。 用户关注者 - 高级：您可以使用此端点获取更多经过验证的个人资料的关注者。 Instagram 不允许抓取超过 50-100 个经过验证的帐户的关注者，但是使用此端点，您可以获取更多。 搜索关注者/关注 低延迟 等等（API 具有常见端点，例如用户信息、帖子、卷轴、广播、位置故事等）  下一步是什么？ 我正在考虑为该 API 启动自己的门户，因为一些客户已经请求它。 请建议进一步扩展的其他方法。    提交人    /u/mayur_5   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1elc5j8/celebrating_2_months_of_my_api_saas_over_4k/</guid>
+      <pubDate>Tue, 06 Aug 2024 08:06:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>我又做了另一个习惯追踪器......</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1elc50u/i_made_yet_another_habit_tracker/</link>
+      <description><![CDATA[但不仅仅是任何习惯追踪器！ 我养成习惯并追踪它们的理由很简单：如果它是一种习惯，你可能不再需要追踪它，因为它是你的一部分（除非你严重依赖追踪东西 - 这本身就是一件事），所以我的目标是让人们追踪东西，然后在他们习惯之后放弃它们！ 这个追踪器的不同之处在于它非常精简：它有一个开始日期，你每天都在框中打勾；没有几个月的3 / 30或类似的东西的进展，因为我认为这不是特别有用。 如果它激起了你的好奇心，请尝试一下：https://itzahabit.itzami.com/   由    /u/LordofCookies  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1elc50u/i_made_yet_another_habit_tracker/</guid>
+      <pubDate>Tue, 06 Aug 2024 08:05:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何为我的应用寻找用户</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1elbtzd/how_to_find_users_for_my_app/</link>
+      <description><![CDATA[我正在尝试创建一个小型微型 saas 平台，可以帮助 Telegram 上的创作者（目前仅限于 Telegram）通过他们的社区（群组/频道）获利。它基本上是一个机器人，可以添加到任何群组并维护订阅者列表，通知他们有关重新订阅等的信息。  我知道市场上有一些竞争对手，但我计划增加一些额外的功能并降低费用。  关于如何找人测试它有什么想法吗？我正在寻找一些 Beta 测试人员，很乐意至少在头几个月将其作为免费产品提供给他们。  非常感谢任何线索，谢谢！     提交人    /u/sid_9812   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1elbtzd/how_to_find_users_for_my_app/</guid>
+      <pubDate>Tue, 06 Aug 2024 07:45:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了一个网站，可以在几秒钟内使用个性化 AI 教练编写程序（FastShapes.com）</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1elbofk/i_made_a_website_to_make_program_in_seconds_with/</link>
+      <description><![CDATA[        提交人    /u/VoiceAdministrative7   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1elbofk/i_made_a_website_to_make_program_in_seconds_with/</guid>
+      <pubDate>Tue, 06 Aug 2024 07:34:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>Chrome 扩展程序，可提供相对简单的维基百科体验</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1elbkfy/a_chrome_extension_for_a_relatively_minimal/</link>
+      <description><![CDATA[像所有人一样，多年来我一直是维基百科的忠实用户。最近，我觉得用户界面可以相对简洁一些（我同意它的许多功能都是为了方便使用，但感觉还是太多了）。 上个周末，我花了整整一个周末的时间开发一个 Chrome 扩展程序，它只显示维基百科的相关信息，并增加了一些一键复制文本和下载图像的功能。这是一个业余项目，目前它只实现了我认为重要的功能。 我希望这里有人愿意尝试一下。请让我知道您的反馈和建议。 链接：https://chromewebstore.google.com/detail/wikizen/bimjkcjcbloomdghigpnlepmcdhghldi?authuser=0&amp;hl=en    提交人    /u/GujjarMukunda   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1elbkfy/a_chrome_extension_for_a_relatively_minimal/</guid>
+      <pubDate>Tue, 06 Aug 2024 07:27:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个应用程序来帮助你找到下一本最喜欢的书</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1elbcbo/i_made_an_app_that_helps_you_find_your_next/</link>
+      <description><![CDATA[        提交人    /u/No-Setting8925   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1elbcbo/i_made_an_app_that_helps_you_find_your_next/</guid>
+      <pubDate>Tue, 06 Aug 2024 07:12:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>我很高兴介绍......</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1elaze2/i_am_thrilled_to_introduce/</link>
+      <description><![CDATA[我很高兴地介绍 BrewSurvey 上新项目类别的首次亮相，这是一款用户友好的调查工具，可用于在线和离线，供企业收集和分析具有一系列功能的数据。下面列出了 BrewSurvey 的一些主要特点：  无需互联网连接即可开展调查。  从任何位置收集信息即时检查结果。 根据您的喜好定制调查和徽标各种导出选项（例如 Excel 等） 利用密码安全保护数据。  BrewSurvey 是任何规模的企业收集客户反馈和增强客户服务的宝贵资源。 立即查看 BrewSurvey 并开始创建您的调查！    提交人    /u/AdLevel72   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1elaze2/i_am_thrilled_to_introduce/</guid>
+      <pubDate>Tue, 06 Aug 2024 06:49:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>你能通过 AI Side Hustle 赚钱吗？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1elasot/can_you_make_money_from_an_ai_side_hustle/</link>
+      <description><![CDATA[有人能够使用 AI 创造有利可图的副业吗？    提交人    /u/jeffbullas   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1elasot/can_you_make_money_from_an_ai_side_hustle/</guid>
+      <pubDate>Tue, 06 Aug 2024 06:36:56 GMT</pubDate>
+    </item>
     <item>
       <title>您使用什么平台与社区讨论您的产品？</title>
       <link>https://www.reddit.com/r/SideProject/comments/1ela44x/what_platform_do_you_use_for_discussing_with/</link>
@@ -32,83 +109,6 @@
       <description><![CDATA[我是一名普通的播客听众，我创建了一个网络应用，它提供了一种独特的播客节目搜索方式。该应用不会显示一长串结果，而是根据您的关键字随机选择一集。这是一个简单的单页网站，可以免费使用，不需要帐户。 对我来说，播客就像是有声音的维基百科，虽然我很欣赏 Listen Notes 等播客搜索引擎，但它们有时会用太多结果让我不知所措。这会导致决策疲劳，很难深入关注任何一集。这就是我创建这个应用的原因，它专注于一次只提供一个结果，以促进更专注和身临其境的聆听体验。 我发现一个特别有用的功能是能够快速精确地找到特定剧集。如果您记得某一集并想重新观看，只需输入一些精确的关键字（最好是确切的标题）即可立即为该集准备好完整的节目说明和播放。这个单步过程与传统搜索引擎截然不同，传统搜索引擎需要您同时进行搜索和选择。  我将网络应用程序命名为 Get Episode（单数以强调“一次一集”的方法），您可以在 GetEpisode.com 上查看。我还获得了 shuffle.love 作为一个有趣的替代域名。虽然我通常更喜欢 .com 域名，但我认为“shuffle”与随机挑选剧集的想法非常吻合，而 .love 域名则增添了一丝趣味。我很想知道您更喜欢哪个域名！  期待您的反馈和想法！    由    /u/randomdotrocks 提交   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1el8wfa/i_built_a_fun_podcast_search_tool_get_one_result/</guid>
       <pubDate>Tue, 06 Aug 2024 04:38:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>我对婚姻和家庭治疗的看法</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1el8w88/my_twist_on_marriage_and_family_therapy/</link>
-      <description><![CDATA[        提交人    /u/Status_Dealer9147   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1el8w88/my_twist_on_marriage_and_family_therapy/</guid>
-      <pubDate>Tue, 06 Aug 2024 04:38:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>评论你的创业公司，我会将你的创业公司提交到 20 个流量超过 100 万的高流量目录</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1el8rtz/comment_your_startup_and_i_will_submit_your/</link>
-      <description><![CDATA[大家好，我是 vavi，我运营 getfirstusers.com，我们通过向高流量目录和社区推广提交内容来帮助初创公司改善 SEO 并获得更多用户，每月总流量超过 3 亿用户群。 由于我们的满意客户数量已超过 160 家，因此我们在这里回馈社区并帮助初创公司获得更多用户。只需在您的 SaaS 下添加以下信息，我将确保将它们提交到 20 个相关目录。这可能需要一些时间，所以请耐心等待。 网站： 初创公司推介： 类别： 目标受众：    提交人    /u/Careful_Ad11   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1el8rtz/comment_your_startup_and_i_will_submit_your/</guid>
-      <pubDate>Tue, 06 Aug 2024 04:31:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作的很酷的文字游戏。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1el8k9o/cool_word_game_i_made/</link>
-      <description><![CDATA[      嘿！这是我的第一篇 Reddit 帖子。我今年 14 岁，刚刚开始从事网页开发。这是我投入最多时间的项目；这是一款受前段时间流行的 TikTok 滤镜启发的单词游戏。如果您发现任何错误以及您对设计或游戏玩法的想法，请告诉我！如果有人感兴趣，我会链接游戏本身和代码（我承认，代码很糟糕）。 https://preview.redd.it/75ylf68ozygd1.png?width=428&amp;format=png&amp;auto=webp&amp;s=0d571c88c620522d06df4aed2e57806a3760ff33 https://wordpyra.com https://github.com/baconatorr/WordPyra-App    由   提交  /u/PuzzleheadedTown491   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1el8k9o/cool_word_game_i_made/</guid>
-      <pubDate>Tue, 06 Aug 2024 04:19:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>自从我开始我的开发之旅以来，任何建议都对我有帮助:) 欢迎提出建议</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1el8iuf/any_tips_to_me_since_i_am_starting_my_development/</link>
-      <description><![CDATA[  由    /u/jais14  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1el8iuf/any_tips_to_me_since_i_am_starting_my_development/</guid>
-      <pubDate>Tue, 06 Aug 2024 04:17:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>bett3r 移动电源 - 草案 1</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1el882b/a_bett3r_powerbank_draft_1/</link>
-      <description><![CDATA[        提交人    /u/InformationOk5897   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1el882b/a_bett3r_powerbank_draft_1/</guid>
-      <pubDate>Tue, 06 Aug 2024 04:00:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>#TinyLifeReview：隐秘悲伤的避难所 | 请求 CC 参与合作电影项目</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1el870m/tinylifereview_a_sanctuary_for_the_obscure_sorrow/</link>
-      <description><![CDATA[大家好， 我们是一群来自密西西比大学 (Ole Miss) 的学生，我们很高兴与您分享我们的最新项目：#TinyLifeReview。这是一个由学生主导的合作艺术项目，旨在通过社交媒体上的一系列短片收集和分享个人故事。 我们制作了一个演示来捕捉电影的氛围。它目前用作模板，因为这是一个合作项目，我们希望更多人可以使用他们的音频和相册中的一些随机视频与我们分享他们的故事！ （演示：https://www.youtube.com/watch?v=3-2T4av1JjI） 我们正在寻找什么：  反馈：如果这个项目引起了您的共鸣，请分享您的想法或批评。我们渴望听到您可能有的任何建议或改进。 参与：如果您想成为此项目的一部分并让我们为您创建#TinyLifeReview，请给我发送消息或填写此表格：https://forms.gle/hD6NQDt2jvMXH8CH6   感谢您花时间阅读有关我们项目的信息。您的意见和支持对我们意义重大！ 此致敬意， 伊恩    提交人    /u/AutomaticWar4203   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1el870m/tinylifereview_a_sanctuary_for_the_obscure_sorrow/</guid>
-      <pubDate>Tue, 06 Aug 2024 03:59:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>您每天都会使用哪些 AI 工具并且它们必不可少？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1el82tk/what_ai_tools_do_you_use_daily_and_cant_live/</link>
-      <description><![CDATA[我正在寻找新的 AI 工具！你有什么建议吗？    提交人    /u/mo8129   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1el82tk/what_ai_tools_do_you_use_daily_and_cant_live/</guid>
-      <pubDate>Tue, 06 Aug 2024 03:52:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了 Text2Infographic，一个 AI 信息图表生成器</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1el708f/i_made_text2infographic_an_ai_infographic/</link>
-      <description><![CDATA[      作为内容创建者，我一直觉得将我的博客文章转换成社交媒体的引人入胜的信息图表很麻烦。信息图表非常适合使信息易于消化，并且它们是反向链接的杀手。但老实说，创建​​它们很麻烦 - 至少需要一个小时来压缩信息，查找图形，并使设计看起来不错。大多数工具都是每月收费的大型设计套件的一部分，这不是我需要的。 因此，我构建了 Text to Infographic，这是唯一一款具有以下功能的 AI 信息图表生成器：  进行自己的研究 查找相关图像 引用其来源  Text2Infographic 消除了数据可视化的麻烦。它将文本转换为易于理解的引人入胜的信息图表。非常适合希望使其数据驱动的见解更易于访问和可操作的企业、教育工作者和内容创建者。 https://preview.redd.it/zi8i66wskygd1.png?width=1200&amp;format=png&amp;auto=webp&amp;s=074d8173c12688d06005bcaed9d53f0701abaefb 🌟 主要特点：  自动化研究：人工智能处理研究以确保准确性和相关性信息。 图像收集：为您的信息图表找到无版权的矢量图形。 来源引用：所有来源均经过引用以确保可信度。 强大的编辑器：根据自己的喜好自定义内容、字体和水印。 国际化支持：以任何语言生成信息图表。 一次性购买：无需定期费用 - 永久使用。  如果您需要一种简单的方法来创建信息图表，请查看文本到信息图表。我很乐意听到您的反馈以及您希望添加的任何功能！ https://preview.redd.it/5iud41wskygd1.png?width=1200&amp;format=png&amp;auto=webp&amp;s=76ecd4cc21217b6c7cac7559b9d537ebbd4b9075 如果您想查看，这是链接：https://text2infographic.com/    由    /u/codelemons  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1el708f/i_made_text2infographic_an_ai_infographic/</guid>
-      <pubDate>Tue, 06 Aug 2024 02:57:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Degens Idle - 我的第一款游戏/网站/个人项目！欢迎反馈！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1el6x3v/degens_idle_my_first_gamewebsitepersonal_project/</link>
-      <description><![CDATA[大家好，r/SideProject 社区！ 我一直都很喜欢放置类游戏，玩过各种游戏，创造自己的游戏一直是我的梦想。大约两周前，我终于实现了这个梦想。我很高兴向大家介绍 Degens Idle，这是一款基于网络的放置类游戏，我每天都在努力添加重大更改和功能。我渴望听到您的想法和来自这个了不起的社区的反馈！ 什么是 Degens Idle？ Degens Idle 是一款增量游戏，您可以在其中：  管理资源：收集和升级各种资源以促进您的进步。 体验增长：利用乘数和战略升级在游戏中前进。 探索模因：发现并解锁大量​​潮湿的模因，为您的闲置体验增添幽默和乐趣。 获得虚假智慧：解锁幽默地探究生命意义的古怪信息。 独特体验：纯粹用 JavaScript/HTML/CSS 构建，没有底层库，允许无限的自定义可能性。  为什么玩 Degens闲置？  引人入胜的游戏玩法：易于上手，但为热爱优化和制定策略的玩家提供深度。 频繁更新：根据玩家反馈积极添加新功能并平衡游戏。 社区驱动开发：您的反馈决定了游戏的未来。我渴望听到您的想法。  如何玩 您可以立即访问 Degens Idle 开始玩 Degens Idle。无需下载或安装 - 只需加入并开始闲置！ 反馈 我很乐意听到您的反馈，以使 Degens Idle 变得更好。请分享您的想法：  游戏机制 平衡 您希望看到的新功能 您遇到的任何错误或问题  请随时在此处发表您的反馈，或加入我们的 Discord 服务器进行直接互动和更新：Discord。 我的项目跟踪系统目前有 100 多个功能和变化，确保游戏以令人兴奋和有意义的方式发展。随着稳步进展，我计划在一两个月内实施这些更新，平衡发展与现实生活中的承诺。 感谢您的时间，我希望你喜欢 Degens Idle，就像我喜欢创造它一样！ 快乐的闲置！    提交人    /u/blahsebo   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1el6x3v/degens_idle_my_first_gamewebsitepersonal_project/</guid>
-      <pubDate>Tue, 06 Aug 2024 02:52:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>你如何推销你的博客</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1el67e7/how_do_you_market_your_blog/</link>
-      <description><![CDATA[我想开始营销我的博客，以便吸引更多用户使用我的应用？我该怎么做？    提交人    /u/Turbulent-Cry-9417   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1el67e7/how_do_you_market_your_blog/</guid>
-      <pubDate>Tue, 06 Aug 2024 02:16:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个 SAAS，将客户评价转化为强大的营销工具</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ekodqh/ive_created_a_saas_to_turn_customer_testimonials/</link>
-      <description><![CDATA[想象一下，声称您的软件是世界上最好的，并向客户承诺他们将赚到比花的更多的钱。有些人可能会相信你，但很多人不会。 现在，想象一下，如果全球有数以万计的公司正在成功使用您的软件并分享他们利润增加的推荐。突然之间，更多的人可能会相信你的说法。 这就是推荐的力量和影响力。无论您是谁或您建立了什么，推荐都是建立信任和转化更多用户的关键。 这就是我创建 Vibeo.ai 的原因，这是一个允许企业只需点击几下即可收集视频推荐的平台。 Vibeo.ai 简化了收集真实客户反馈的过程，使公司能够毫不费力地获取高质量的推荐。通过使用先进的人工智能技术，该平台可确保无缝的视频收集、编辑和共享，从而比以往更轻松地展示满意的客户体验。 我是一名独立创始人，我开发了从 A 到 Z 的所有内容。我还制作了一个动态设计视频来向您介绍该工具，让我知道您的想法！ 顺便说一句，如果您想测试该工具，请告诉我。 https://reddit.com/link/1ekodqh/video/co6a99czougd1/player    提交人    /u/Educational_Detail28   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ekodqh/ive_created_a_saas_to_turn_customer_testimonials/</guid>
-      <pubDate>Mon, 05 Aug 2024 13:54:27 GMT</pubDate>
     </item>
     </channel>
 </rss>
