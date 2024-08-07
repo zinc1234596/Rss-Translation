@@ -4,7 +4,70 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Tue, 06 Aug 2024 21:13:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Aug 2024 01:02:04 GMT</lastBuildDate>
+    <item>
+      <title>从挫折到创造：我构建 AI 可视化工具目录的历程</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1elygm4/from_frustration_to_creation_my_journey_building/</link>
+      <description><![CDATA[      Hola Reddit， 我想分享一个纯粹出于挫折感的个人项目。像你们中的许多人一样，我对最近 AI 图像生成器的爆炸式增长非常着迷。但是，随着我对这个世界的了解越来越深入，我遇到了瓶颈。 问题 我找不到一个可靠的资源：  在一个地方列出所有最好的 AI 可视化工具 提供不同生成器之间的真实比较 提供有关特性和能力的最新信息  感觉就像我在黑暗中摸索，在无法满足我需求的工具上浪费时间和金钱。 解决方案 所以，我做了任何沮丧的开发人员都会做的事情 - 我构建了自己的解决方案。我很高兴向大家介绍 AI 图像和视频生成器，这是一个全面的 AI 可视化工具目录。 它的独特之处在于：  精选的最佳 AI 图像生成器、视频创建器和其他可视化 AI 工具列表 定期更新以跟上这个快速发展的领域 用户评论和评分（即将推出！）  我为什么要分享这个 我为自己构建了这个，但我意识到它可以帮助其他面临同样困境的人。  https://preview.redd.it/0vja9t7h35hd1.jpg?width=1471&amp;format=pjpg&amp;auto=webp&amp;s=a4afcc26dfbea5ee71742990c3a451d59f9a9608 我很乐意听到您对 AI 视觉工具的想法、建议和经验。    提交人    /u/Obvious-Motor-1512   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1elygm4/from_frustration_to_creation_my_journey_building/</guid>
+      <pubDate>Wed, 07 Aug 2024 00:51:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>定制的代理工作流程和分散的人工智能处理</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1elya4d/customized_agentic_workflows_and_decentralized_ai/</link>
+      <description><![CDATA[       由    /u/akitsushima  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1elya4d/customized_agentic_workflows_and_decentralized_ai/</guid>
+      <pubDate>Wed, 07 Aug 2024 00:43:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>一款可以追踪 CS2 和 LoL 死亡情况的应用程序</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ely140/an_app_that_tracks_your_cs2_and_lol_deaths_for/</link>
+      <description><![CDATA[      嘿！ 我制作了一款应用程序，可以帮助玩家将游戏中的死亡转化为锻炼。它目前支持 CS2 和英雄联盟。 它的工作原理是：您连接您的帐户，每次您在游戏中死亡时，该应用都会自动将俯卧撑次数添加到您的计数中。要跟踪俯卧撑，您可以在每次重复时用鼻子轻触屏幕。这是一种将游戏挫败感转化为锻炼的有趣方式。 如果您想查看它，可以在 Google Play 商店中查看。由于我尚未开设开发者帐户，因此 iOS 版本尚未推出。 Android：https://play.google.com/store/apps/details?id=com.DeathsToReps 我很想听听您的想法；非常感谢您的反馈！此外，您希望接下来添加哪些游戏？ https://preview.redd.it/3vs23xzrz4hd1.png?width=1024&amp;format=png&amp;auto=webp&amp;s=a3a039c50dcdac016a6f29b5f5d6f5588403cd07    提交人    /u/Adventurous-Smile463   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ely140/an_app_that_tracks_your_cs2_and_lol_deaths_for/</guid>
+      <pubDate>Wed, 07 Aug 2024 00:31:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>一种使查找线索更容易的工具...（我的项目）</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1elwh3z/a_tool_to_make_finding_leads_easier_my_project/</link>
+      <description><![CDATA[      大家好，我一直在和我的联合创始人（他是技术人员）建立一个副项目。此工具的全部目的是使我们正在构建的 Studio 的潜在客户生成流程更加简单，但我们决定也发布它。 整个目的是简化潜在客户生成流程并使其更加精简。例如，我们使用了 Apollo 之类的工具，发现它太笨重，很难找到目标潜在客户。 我们正在构建的工具称为 Leadstream，我们希望让寻找潜在客户变得像与 AI 对话一样简单，因此我们使用对话式 AI 首先帮助您定义和完善您的 ICP（我发现大多数人都做错了这一点，所以我们想提供一些帮助），并为您提供符合此条件的潜在客户资料。 这将是一个完美的工具，可用于为您的初创公司/代理机构找到非常有针对性的帐户进行冷 DM。 我们目前为任何对产品感兴趣并随时关注构建的人准备了候补名单：https://leadstream.carrd.co/ 欢迎随时发表评论，提出任何想法或反馈 https://preview.redd.it/6478ro1en4hd1.png?width=2884&amp;format=png&amp;auto=webp&amp;s=df48ce3c2b81867ef4fba590f2bb348e6c49f6a0    提交人    /u/Tephra9977   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1elwh3z/a_tool_to_make_finding_leads_easier_my_project/</guid>
+      <pubDate>Tue, 06 Aug 2024 23:21:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>什么副业项目启发了您去创造一些东西？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1elwfmi/whats_a_side_project_that_has_inspired_you_to/</link>
+      <description><![CDATA[多年来，我遇到了一些非常酷的副项目，它们真正激励了我，让我想要构建或创造一些类似的东西。通常，当它是一个小众想法或相当基本的东西（至少最初是这样）时，我真的很感兴趣，感觉这是可以实现的。 我过去遇到过的一些例子包括https://www.hakari.io、https://darebee.com、https://healthchecks.io、https://notepin.co、https://diskprices.com/和https://www.placecard.me等等！ 很想听听其他人遇到过什么很酷的副项目，比如这样的，以获得一些额外的灵感。    由   提交  /u/solopixels   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1elwfmi/whats_a_side_project_that_has_inspired_you_to/</guid>
+      <pubDate>Tue, 06 Aug 2024 23:19:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个网站，可以在亚马逊（美国）上快速找到您需要的产品</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1elvv3k/i_made_a_website_to_quickly_find_the_products_you/</link>
+      <description><![CDATA[        由    /u/BreakfastCupNoodles  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1elvv3k/i_made_a_website_to_quickly_find_the_products_you/</guid>
+      <pubDate>Tue, 06 Aug 2024 22:55:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>挑战井字游戏人工智能</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1elvsen/challenge_the_tictactoe_ai/</link>
+      <description><![CDATA[我刚刚制作了一个简单的井字游戏，玩家可以与 AI 对战。虽然没什么特别的，但看看自己能否战胜电脑还是挺有趣的。 如果需要，可以查看：https://tic-tac-toe-ai.pages.dev 尝试后请告诉我您的想法。    提交人    /u/SeaOfZen7   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1elvsen/challenge_the_tictactoe_ai/</guid>
+      <pubDate>Tue, 06 Aug 2024 22:51:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>我是不是刚刚为照片制作了一个 Tinder？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1eluus0/did_i_just_make_a_tinder_for_photos/</link>
+      <description><![CDATA[不久前，我在 PH 上发布了我的副业。这是我在人生中一段非常艰难的时期创建的，当时我因为 #layoffs 而失业，并且遇到了很多其他个人问题。这款应用的理念是，当你在做其他事情（比如上厕所时）时，轻松地从你的图库或旧大学笔记中删除重复的照片。前几天，我把它给我妈妈看，她说它就像 Tinder 👀。我妈妈用 Tinder???? 对于那些处于有毒关系中的人，你可以查看 Swipe &amp; Delete 来查看 Tinder 的界面是什么样的😉 https://swipedelete.app/    提交人    /u/tomi31415   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1eluus0/did_i_just_make_a_tinder_for_photos/</guid>
+      <pubDate>Tue, 06 Aug 2024 22:12:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>我刚刚在 Product Hunt 上推出了我的 AI 算命师！！（首次发布）</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1elthdk/i_just_launched_my_ai_fortune_teller_on_product/</link>
+      <description><![CDATA[大家好！ 大约四个月前，我在这里发布了一个链接，用于我的一个小热情项目 — https://www.tarotread.ai - 一个因神奇的塔罗牌会议而诞生的网站，它似乎打开了通往另一个领域的大门。你们的热情将我原以为的一个小实验变成了网络的一个繁荣角落，现在每月有 30 美元的适度经常性收入支撑着它。 自从那篇第一篇文章发表以来，我一直处于旋风般的冒险之中：从试验虚拟商品到调整内部信用系统，再到 SEO 和增长，每一步都是为了加深用户与神秘的塔罗牌世界之间的联系。 今天标志着一个新的篇章，我很高兴将这一演变带到 Product Hunt。新的 Tarotread.ai 不仅仅是一次改头换面；这是一种重新构想：  强大的内部信用系统——可以将其视为对精神好奇的忠诚度计划。 每日登录奖励，仍可免费阅读少量内容。 五位不同的 AI 塔罗牌读者——每位都有自己独特的天赋和智慧。 两种不同的塔罗牌牌阵，为您的迫切问题提供全新的视角。  从简单的想法到功能丰富的平台，这段旅程无异于一场梦。今天我在 Product Hunt 上发布产品时，我邀请你们，我最初的拥护者，再次加入我。您的支持、反馈和分享的故事可以帮助将本网站推向新的高度。 这是我的 PH 链接： https://www.producthunt.com/posts/tarotread-ai 深入了解新体验，发现卡片今天给您带来了什么信息，如果您对所看到的内容感到感动，我将非常感谢您对 Product Hunt 的支持。让我们看看我们能一起走多远！ 感谢您成为这个故事的一部分。每次点击、评论和阅读都有助于塑造这个梦想。为新的开始和等待的魔法干杯！    提交人    /u/GlitteringJob9248   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1elthdk/i_just_launched_my_ai_fortune_teller_on_product/</guid>
+      <pubDate>Tue, 06 Aug 2024 21:16:04 GMT</pubDate>
+    </item>
     <item>
       <title>是否有人创建过一个聚合 TikTok 的平台，以便有影响力的人可以联系到他们？</title>
       <link>https://www.reddit.com/r/SideProject/comments/1elsbtq/has_anyone_made_a_platform_that_aggregates_tiktok/</link>
@@ -46,69 +109,6 @@
       <description><![CDATA[      ScholArxiv 是一个开源、美观且极简的应用程序，允许用户从 arXiv 存储库中搜索、阅读、收藏、分享、下载和查看学术论文摘要，这些论文是您最喜欢的应用程序之一。可以立即下载。 https://preview.redd.it/kxu42ozr93hd1.png?width=1920&amp;format=png&amp;auto=webp&amp;s=aaff62d984534660be287c1efd91577a0529b25b 功能 📚 阅读论文：在应用程序内详细阅读整篇论文。 🔖 书签：保存您最喜欢的论文以便快速访问。 📝 摘要：查看和收听简短的论文摘要。 🔎 搜索论文：使用关键字、标题、作者和摘要搜索论文。如果没有提供关键字，应用程序会随机推荐热门论文。 ⬇️ 下载和分享论文：下载论文以供离线阅读，或者您可以将文档链接分享给其他人。 https://preview.redd.it/2jpuff1u93hd1.png?width=1920&amp;format=png&amp;auto=webp&amp;s=c8a88349463f772fdef3bffe5f9be08df74d9a94    由    /u/Dagmawi__Babi  提交  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1elpo1s/scholarxiv_an_opensource_aesthetic_and_minimal/</guid>
       <pubDate>Tue, 06 Aug 2024 18:43:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>2500 美元 OpenAI 积分可用</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1elpnq8/2500_openai_credits_available/</link>
-      <description><![CDATA[Dm for business    由   提交  /u/Advanced-Cap-2674   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1elpnq8/2500_openai_credits_available/</guid>
-      <pubDate>Tue, 06 Aug 2024 18:43:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个一键自动视频编辑器</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1elpihp/ive_made_a_one_click_automatic_video_editor/</link>
-      <description><![CDATA[        提交人    /u/nihas   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1elpihp/ive_made_a_one_click_automatic_video_editor/</guid>
-      <pubDate>Tue, 06 Aug 2024 18:37:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何为我的网站做营销</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1elpeps/how_to_do_marketing_for_my_websites/</link>
-      <description><![CDATA[我是一名全栈开发人员，我喜欢构建出色的网站和工具，我脑子里有几个想法，目前正在构建其中一个，但在营销方面真的迷失了方向，如果有人想加入做这件事，我很乐意接受，或者给我一些行之有效的方法来获得需要该工具/网站的第一个真正的用户。    提交人    /u/BeautifulBlast   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1elpeps/how_to_do_marketing_for_my_websites/</guid>
-      <pubDate>Tue, 06 Aug 2024 18:33:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个开源的 Android 极简启动器</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1elp8re/i_created_an_open_source_minimal_launcher_for/</link>
-      <description><![CDATA[开始创建一个个人使用的极简启动器。现在经过几个月的使用，决定将其开源并与大家分享。  https://github.com/VaibhavLakhera/minimo 应用程序目前正在开放测试中。非常欢迎反馈，可以在这里、github 问题或直接在 Play 商店应用页面分享。 https://play.google.com/store/apps/details?id=com.minimo.launcher    提交人    /u/v123l   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1elp8re/i_created_an_open_source_minimal_launcher_for/</guid>
-      <pubDate>Tue, 06 Aug 2024 18:27:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 demo-slap.net 增强您的 CS2 体验</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1elotnj/enhance_your_cs2_experience_with_demoslapnet/</link>
-      <description><![CDATA[  由    /u/mYkon123  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1elotnj/enhance_your_cs2_experience_with_demoslapnet/</guid>
-      <pubDate>Tue, 06 Aug 2024 18:10:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>我怎样才能找到合作者？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1eloqbq/how_can_i_go_about_finding_a_collaborator/</link>
-      <description><![CDATA[我有一个项目断断续续已经做了一年，几乎完全处于设计原型和提案阶段；我没有时间、金钱、资源或开发技能来构建完整的应用程序，我很好奇是否有人对寻找合作者来帮助这个项目向前发展有什么建议。  这个项目是我的心肝宝贝，我很关心它，但我是一名没有太多商业经验的平面设计师。我很想找到其他人来帮助这个项目发展并允许我继续担任负责人，或者将这个项目卖给能够看到我的愿景的人。  我已经使用人工智能来帮助我编写商业计划，并且我已经在 figma 中开始设计界面，并带有用户流程；但是......我还有一份全职工作和一个家庭要照顾。    提交人    /u/cottenwess   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1eloqbq/how_can_i_go_about_finding_a_collaborator/</guid>
-      <pubDate>Tue, 06 Aug 2024 18:07:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找 AI 笔记到抽认卡应用程序的测试人员</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1elolfk/looking_for_testers_for_an_ai_notes_to_flashcards/</link>
-      <description><![CDATA[      大家好，我正在构建一个 B2C 应用程序，它可以将您的手写笔记（以及任何 pdf 文档，包括导出的 Goodnotes 文档）转换为抽认卡，然后您可以将其导出到 quizlet 和其他平台。目标受众是高中生/大学生。这是我的第一个 SaaS，所以我对此没有太多期待。 无论如何，我希望得到反馈以微调抽认卡生成，以及总体上的建设性批评。 在这里发表评论或发送消息，我会告诉你详细信息 谢谢！ https://preview.redd.it/v6ncts8c23hd1.png?width=2912&amp;format=png&amp;auto=webp&amp;s=c31236909a737c154735ace4f317a54915459d00    提交人    /u/LimitNo9863   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1elolfk/looking_for_testers_for_an_ai_notes_to_flashcards/</guid>
-      <pubDate>Tue, 06 Aug 2024 18:01:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个 Gmail/Gsuite 批量电子邮件浏览器扩展程序来帮助您进行冷门推广。有人想进行 beta 测试吗？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1elocca/i_created_a_gmailgsuite_bulk_emailer_browser/</link>
-      <description><![CDATA[当我建立另一个副项目并尝试使用 Google Ads 进行营销但 ROAS 为负时，我陷入了冷电子邮件推广的困境。我注意到大量提供商每月收取 20-40 美元的费用，这些提供商会连接到您的电子邮件服务提供商并为您发送电子邮件。他们拥有精美的用户界面、开放跟踪、链接跟踪、HTML 支持等，但对于冷推广，许多这些花哨的功能实际上损害了传递能力，我必须支付额外费用才能自动向联系人列表发送电子邮件？ 我构建了一个 Gmail/Gsuite 批量电子邮件浏览器扩展程序，因为我认为这样一个简单的任务不值得每月花费 20-40 美元。  我的扩展程序非常简单，没有花哨的东西：  安装扩展程序 打开您的 Gmail/Gsuite 将您的电子邮件列表粘贴到扩展程序中（格式：名字、姓氏（可选）、电子邮件、公司名称（可选） 将您的主题粘贴到扩展程序中（“{firstname}，查看我们！”） 将您的正文粘贴到扩展程序中（“嗨 {firstname}，希望您在 {companyname} 过得愉快。我想和您谈谈...”） 在扩展程序中按“发送”  每 5 分钟，就会发送一封新电子邮件，并按照您的列表发送。此时间可以根据需要进行修改。您可以根据需要取消发送。 我正在寻找几个人来测试我的扩展程序：  一次性支付需要 15 美元才能注册。 使用 2 周后，如果您通过 5-10 分钟的 Messenger/电话/视频通话与我联系以获得反馈，您将获得 5 美元返还 您的付款使您有权使用该扩展程序，只要我一直支持该扩展程序 + 我发布的任何更新 如果您有兴趣，请给我发私信  抱歉，我还没有登陆页面......只是很高兴能快速行动。我确信存在竞争对手（我只知道 Gmass），但评论者，请随时在下面发布任何竞争对手。我可能会继续自己使用我的工具，但看看每月 0 到 10 美元的价格范围内有什么会很酷。 感谢您的时间！    提交人    /u/Upset-Ad-8704   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1elocca/i_created_a_gmailgsuite_bulk_emailer_browser/</guid>
-      <pubDate>Tue, 06 Aug 2024 17:51:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>在一个地方查看你保存的每一条推文、帖子或引言 - ByteBelli</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1elnuk6/see_every_single_tweet_post_or_quote_youve_saved/</link>
-      <description><![CDATA[我想听听你的意见，以决定 Bytebelli 的未来！ 就上下文而言，Bytebelli 是一个自动存储和查看内容的地方。查看您保存的每一条推文、帖子或引言，就像您正在一次滚动浏览您喜欢的每个网站一样，不会受到干扰。 现在它得到了良好的反响，我为它背后的技术感到自豪。然而，我认为它的价值不足以货币化。我很好奇你们对转换的看法。 我的长期愿景是让人们能够更深入地与“内容”和其他人互动。例如，将您与跨站点具有相同重叠兴趣的人联系起来。 也就是说，目前它更像是一个小工具，还有其他途径可以实现，例如通过组合文本、视频和帖子进行 AI 记忆搜索。 欢迎任何反馈，即使不是建设性的！    提交人    /u/icejes8   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1elnuk6/see_every_single_tweet_post_or_quote_youve_saved/</guid>
-      <pubDate>Tue, 06 Aug 2024 17:32:23 GMT</pubDate>
     </item>
     </channel>
 </rss>
