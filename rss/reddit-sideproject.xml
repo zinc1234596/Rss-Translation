@@ -4,7 +4,35 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Wed, 07 Aug 2024 01:02:04 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Aug 2024 03:15:21 GMT</lastBuildDate>
+    <item>
+      <title>有 SaaS 应用程序的想法？我会建议您需要的技术和第三方集成</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1em1d84/have_an_idea_for_a_saas_application_ill_suggest/</link>
+      <description><![CDATA[我是 https://www.captainmvp.com/ 的创始人，我们专注于在短短 5 周内将创意转化为功能齐全的 Web 和移动 MVP。我们使用现代工具来确保您的产品建立在坚实的基础上，即使您没有技术背景，也可以随着您的业务发展而发展。  我很乐意为任何考虑构建 SaaS 应用程序的人提供一些快速帮助。如果您在评论中分享您的想法，我会建议您使用最好的技术和第三方集成来帮助您入门。  以这种形式发表评论： - 简要概述：一段描述您的 SaaS 应用程序想法的内容。 - 具体需求：您想到的任何特定功能或要求。  我会尽我所能回复尽可能多的人，并提供量身定制的建议！  期待听到您的想法并帮助您启动项目。    提交人    /u/DeepThought-1015   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1em1d84/have_an_idea_for_a_saas_application_ill_suggest/</guid>
+      <pubDate>Wed, 07 Aug 2024 03:12:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Magnify.dev - AI 代码安全扫描器</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1em1481/magnifydev_ai_code_security_scanner/</link>
+      <description><![CDATA[大家好！我想就我出于兴趣而开始的一个业余项目征求一些意见。Magnify (magnify.dev) 是一款由人工智能驱动的代码漏洞扫描器，旨在实现简单、经济实惠和自动化。您只需上传一个包含代码的 .zip 文件，它就会返回一份 PDF 报告，其中包含代码中的潜在安全问题。我想征求一些意见：  您会使用代码安全扫描服务吗？您重视代码安全性吗？还是我在自说自话？ 什么价格比较合理？目前，我为 1k 行代码定价为 5 加元（约 3.6 自由美元），但愿意降价很多。您愿意支付多少钱让人工智能扫描 1k 行代码？ 您还对哪些功能感兴趣？比如 API、CI 等。  由于 r/SideProject 中的许多项目都是基于代码的，我希望能得到一些宝贵的意见！此外，在接下来的 72 小时内，我将免费进行扫描，以便你们都可以获得演示！只需选择付费选项并将代码上传为 .zip 文件，但当您进入付款页面时，只需关闭它即可。请将您的电子邮件发送给我，我将手动批准该任务并在之后向您发送分析链接（可能需要几个小时，我白天很忙）。 我真诚地相信我的项目的可承受性可以带来采用——专业代码安全审计通常每 1000 行代码约 1000 美元，因此 Magnify 虽然效果不是那么好（目前），但实际上便宜数百倍。谢谢大家！    提交人    /u/Cool-Requirement9521   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1em1481/magnifydev_ai_code_security_scanner/</guid>
+      <pubDate>Wed, 07 Aug 2024 03:00:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>BuildYourWolfpack：美国咖啡店文化发生了什么变化？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1em0mtv/buildyourwolfpack_what_happen_to_american_coffee/</link>
+      <description><![CDATA[  由    /u/PSYCHOWOLFPACK1985  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1em0mtv/buildyourwolfpack_what_happen_to_american_coffee/</guid>
+      <pubDate>Wed, 07 Aug 2024 02:36:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>我编写了一个脚本来查找与我的产品相关的 reddit 帖子，这样我就可以专注于构建而不是浏览 reddit。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1em0itq/i_built_a_script_to_find_relevant_reddit_posts_to/</link>
+      <description><![CDATA[  由    /u/jascha_eng  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1em0itq/i_built_a_script_to_find_relevant_reddit_posts_to/</guid>
+      <pubDate>Wed, 07 Aug 2024 02:30:59 GMT</pubDate>
+    </item>
     <item>
       <title>从挫折到创造：我构建 AI 可视化工具目录的历程</title>
       <link>https://www.reddit.com/r/SideProject/comments/1elygm4/from_frustration_to_creation_my_journey_building/</link>
@@ -81,34 +109,6 @@
       <description><![CDATA[大家好， 一年多来，我一直在研究一件超级令人兴奋的事情，现在我终于可以和大家分享了！🎉 Sift Store 将于 9 月 2 日上线，希望大家可以关注一下。 那么，Sift Store 是什么？ 这是一个由创作者为创作者打造的平台，可让您轻松建立数字店面。您可以销售电子课程、举办网络研讨会、提供个性化视频宣传和共享数字下载 - 一切适合您的风格。 我为什么对它如此兴奋？  轻松设置：您可以在几分钟内建立并运营您的商店。这里没有技术难题！ 内置工具：从销售渠道和电子课程到网络研讨会和一对一会议，全部集成。我们甚至支持 Google Meet 和 Zoom。 以您的方式赚钱：无论是通过推荐（您好，30％的佣金！），小费还是自定义视频请求，都有很多方法可以赚钱。 完全的创意控制：我们有与您的氛围相匹配的主题和工具，使一切看起来恰到好处。 保持联系：您可以将您的 TikTok，Instagram 和 Twitter 提要直接链接到您的商店。 强大的功能：思考分析，移动优化，SEO友好型设计和通过 Stripe 轻松付款。  如果您已准备好升级您的创作者游戏，请加入我们的等候名单，成为第一批探索 Sift 所提供的一切的人。 🔗 加入候补名单这里🔗 请随时提出任何问题或告诉我您最感兴趣的内容。 我迫不及待地想看看您使用 Sift Store 创建的内容！    提交人    /u/Responsible-Box-6510   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1elrwih/your_digital_storefront_made_easy_check_out_sift/</guid>
       <pubDate>Tue, 06 Aug 2024 20:13:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个 Chrome 扩展程序，可以跟踪光标的距离——这完全没意义，但很有趣！😂</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1elreqb/i_made_a_chrome_extension_that_tracks_your/</link>
-      <description><![CDATA[      https://preview.redd.it/uhd0dx74n3hd1.png?width=640&amp;format=png&amp;auto=webp&amp;s=c766d532fe8eedd4048fee262787a4630d4f09e7 https://preview.redd.it/fqr7ws05n3hd1.png?width=640&amp;format=png&amp;auto=webp&amp;s=4f3f6bf791a74ea34c72bcb87494fc20f1339dd7 刚刚发布了 Cursor Path，这是一个 Chrome 扩展程序，可以跟踪光标移动的距离 — 为什么不呢？😂 它完全没用，但出奇地有趣。这对我来说很好，因为我想看到一个项目的整个开发周期。安装它，给它评分，然后开怀大笑：https://chromewebstore.google.com/detail/cursor-path/mbdjmnlimadokilnbchhooijjphlipfc 查看：https://github.com/aroramrinaal/cursor-path    提交人    /u/Clear-Page-5473   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1elreqb/i_made_a_chrome_extension_that_tracks_your/</guid>
-      <pubDate>Tue, 06 Aug 2024 19:54:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>有任何 Github Star 成功案例吗？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1elqbya/any_github_star_success_stories/</link>
-      <description><![CDATA[大家好 - 我正在为拥有法学硕士学位的工程师开发一款开发工具。我了解到，缺乏社会认可（即 github 星星或公司徽标）会阻碍人们购买。  很想听听任何 Github 明星成功案例 - 我们应该尝试什么杠杆？有没有值得参与的社区？或者这是一个磨合的问题。     提交人    /u/timelycomics   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1elqbya/any_github_star_success_stories/</guid>
-      <pubDate>Tue, 06 Aug 2024 19:10:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个网站，让每个人都能仅凭歌曲标题生成类似 Spotify 的可共享歌词图片</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1elpzks/i_made_a_website_that_lets_everyone_generate/</link>
-      <description><![CDATA[        提交人    /u/DakilPL   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1elpzks/i_made_a_website_that_lets_everyone_generate/</guid>
-      <pubDate>Tue, 06 Aug 2024 18:56:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>ScholArxiv – 一款开源、美观且极简的研究论文浏览器</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1elpo1s/scholarxiv_an_opensource_aesthetic_and_minimal/</link>
-      <description><![CDATA[      ScholArxiv 是一个开源、美观且极简的应用程序，允许用户从 arXiv 存储库中搜索、阅读、收藏、分享、下载和查看学术论文摘要，这些论文是您最喜欢的应用程序之一。可以立即下载。 https://preview.redd.it/kxu42ozr93hd1.png?width=1920&amp;format=png&amp;auto=webp&amp;s=aaff62d984534660be287c1efd91577a0529b25b 功能 📚 阅读论文：在应用程序内详细阅读整篇论文。 🔖 书签：保存您最喜欢的论文以便快速访问。 📝 摘要：查看和收听简短的论文摘要。 🔎 搜索论文：使用关键字、标题、作者和摘要搜索论文。如果没有提供关键字，应用程序会随机推荐热门论文。 ⬇️ 下载和分享论文：下载论文以供离线阅读，或者您可以将文档链接分享给其他人。 https://preview.redd.it/2jpuff1u93hd1.png?width=1920&amp;format=png&amp;auto=webp&amp;s=c8a88349463f772fdef3bffe5f9be08df74d9a94    由    /u/Dagmawi__Babi  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1elpo1s/scholarxiv_an_opensource_aesthetic_and_minimal/</guid>
-      <pubDate>Tue, 06 Aug 2024 18:43:57 GMT</pubDate>
     </item>
     </channel>
 </rss>
