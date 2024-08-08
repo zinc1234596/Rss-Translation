@@ -4,7 +4,35 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Thu, 08 Aug 2024 01:01:40 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Aug 2024 03:15:23 GMT</lastBuildDate>
+    <item>
+      <title>超好玩的Z世代社交工具-Emooji</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1emvcd8/super_fun_gen_z_social_toolemooji/</link>
+      <description><![CDATA[🥳只需将您的单词翻译成有趣的表情符号，即可为与朋友的对话增添趣味，让您的社交帖子更具吸引力！您还可以将其用作派对游戏，将电影名称、歌曲名称或名言翻译成表情符号，并挑战您的朋友猜出它们。这是让任何聚会活跃起来的好方法    提交人    /u/There_ssssa   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1emvcd8/super_fun_gen_z_social_toolemooji/</guid>
+      <pubDate>Thu, 08 Aug 2024 03:04:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>过去两年来我一直在独自开发一款奇幻 Roguelike 游戏</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1emv81w/a_fantasy_roguelike_ive_been_solodeveloping_for/</link>
+      <description><![CDATA[      这里有一个链接，有兴趣的人可以看看！ https://store.steampowered.com/app/2266780/Ascendant/?utm_source=s    提交人    /u/Vortexile   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1emv81w/a_fantasy_roguelike_ive_been_solodeveloping_for/</guid>
+      <pubDate>Thu, 08 Aug 2024 02:58:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个漂亮的配料成本计算器</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1emuc8o/i_made_a_beautiful_ingredient_cost_calculator/</link>
+      <description><![CDATA[我通常不怎么烘焙/烹饪，但我的妻子卖肉桂卷和其他甜食，她想确保自己能盈利地销售它们。因此，作为一名软件工程师，我自然而然地为她制作了一个工具来帮助她实现这一目标。我希望得到反馈。 https://endvr.app/endvr-calc    提交人    /u/apyrexvision   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1emuc8o/i_made_a_beautiful_ingredient_cost_calculator/</guid>
+      <pubDate>Thu, 08 Aug 2024 02:15:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>批判我的登陆页面和产品理念，mercurai 是一个面向小型企业和初创企业的社交媒体营销助理。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1emu8hw/roast_my_landing_page_and_product_idea_mercuriai/</link>
+      <description><![CDATA[基本服务是社交媒体营销助理，可生成营销角度、脚本创意、目标受众、基本创意和标题副本。（如果有人因为它是 LLM 包装器而对此大加指责，您是对的，但也有点错，因为我根据 tiktok 和 reels 创意数据集对 LLM 进行了微调，所以嘘） 还有这个创作者“指南针”，可让您找到内容创作者和其他 Instagram 或 TikTok 帐户，以根据您的产品与之合作推广您的产品。因此，当您是一家软件公司时，您不会得到健康影响者的推荐。 前几天我读了一篇文章，讲的是人们不再看广告，而是使用创作者营销，我想把它融入到这个产品中。  最后一项服务是一种为 B2B 公司手动生成潜在客户的方法，这些潜在客户会迎合他们的销售产品，并在 48 小时内交付。我知道已经有几十种这样的服务了，但我的会更便宜。（我不知道是否会把它实现到 MVP 中，虽然工作量太大了。） 显然，如果我的想法显示出一些希望，并且暗示它不是垃圾，我会添加更多功能。 但请给我关于我的想法和登陆页面的任何反馈。顺便说一句，我还在上高中，所以不要太严厉（建设性的，不是个人的） 如果你有兴趣，请给我私信。不要填写表格，我还没有完成后端。只是想要反馈。 网站是： https://mercurial-seven.vercel.app/ 直到我的愚蠢的 DNS 更新 感谢阅读    提交人    /u/Wheatstore   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1emu8hw/roast_my_landing_page_and_product_idea_mercuriai/</guid>
+      <pubDate>Thu, 08 Aug 2024 02:10:28 GMT</pubDate>
+    </item>
     <item>
       <title>我利用人工智能开发了一款生产力工具来克服拖延症。想要访问吗？DM</title>
       <link>https://www.reddit.com/r/SideProject/comments/1emsf4n/i_built_a_productivity_tool_with_ai_to_beat/</link>
@@ -81,34 +109,6 @@
       <description><![CDATA[使用 MaterialM 基于 Tailwind CSS 的免费 Next.js 模板创建令人惊叹的 Web 应用。享受免费的预构建组件、速度和灵活性。 免费下载 - https://www.wrappixel.com/templates/materialm-free-nextjs-admin-template/ https://preview.redd.it/6un1znfl5bhd1.png?width=794&amp;format=png&amp;auto=webp&amp;s=774bcb1340f0526961a067947095a916e8c0ba52    提交人    /u/isanjayjoshi   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1emnq6j/experience_the_power_of_nextjs_material_designs/</guid>
       <pubDate>Wed, 07 Aug 2024 21:20:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>我开发了一款文明讨论应用（希望得到您的反馈）</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1emmxib/i_built_a_civil_discourse_app_and_would_love_your/</link>
-      <description><![CDATA[Cicero 应用程序可让您创建一个私人老式论坛。它的灵感来自互联网早期，当时社区规模较小，在线社交空间尚未针对参与度和广告商进行优化。 也许是怀旧，但我怀念旧论坛，所以我决定将新的设计理念与一些使它们如此特别的东西结合起来。 登陆页面在这里：https://cicerochat.com/ 如果您想了解更多信息，我的公开测试版公告在这里：https://app.cicerochat.com/beta。 感谢您的反馈！    提交人    /u/cicerochat_team   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1emmxib/i_built_a_civil_discourse_app_and_would_love_your/</guid>
-      <pubDate>Wed, 07 Aug 2024 20:47:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果你的副项目没有成功，你可以随时在这里出售它</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1eml6ft/in_case_your_side_project_doesnt_work_out_you_can/</link>
-      <description><![CDATA[       由    /u/filthyrichboy  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1eml6ft/in_case_your_side_project_doesnt_work_out_you_can/</guid>
-      <pubDate>Wed, 07 Aug 2024 19:37:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>测试我的 AI Lead Generation 工具以换取免费终身会员资格</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1eml3e6/test_my_ai_lead_generation_tool_in_exchange_for_a/</link>
-      <description><![CDATA[      大家好，我正在构建一个工具，通过使用对话式 AI 使潜在客户生成和勘探更快、更轻松。 这是一个供代理商和初创公司寻找业务潜在客户的工具。我们特意将其设计得精简，以便任何背景的人都可以采用它。 至少，这是计划…… 我们希望确保这是人们想要的，也是我们实际正在构建的。这就是为什么我希望找到 10 个人作为我们的早期测试人员，以换取我们推出后产品的终身会员资格。 因为我们是免费提供的，所以我们希望人们真正认为这是一个他们可以使用并且会充满热情的产品。 如果您有兴趣，请随时在下面发表评论或与我联系！ p.s.这是我们正在努力实现的想法 https://preview.redd.it/yubqcdxrnahd1.png?width=2884&amp;format=png&amp;auto=webp&amp;s=b9a6153a98b7ad208f22ae19dab62c54a939888f    提交人    /u/Tephra9977   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1eml3e6/test_my_ai_lead_generation_tool_in_exchange_for_a/</guid>
-      <pubDate>Wed, 07 Aug 2024 19:34:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>我正在为开发人员创建一项节省时间的服务</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1emks0q/im_creating_a_timesaving_service_for_developers/</link>
-      <description><![CDATA[大家好， 我想分享我的想法，即一种 SaaS 产品，旨在为开发人员和 IT 服务创建者节省宝贵的时间。该服务将根据所选地理区域提供潜在客户列表。 那么为什么有人应该使用它呢？ 简单地说，不要再浪费时间寻找客户了。 无需寻找谁可能会购买您的产品，您可以节省宝贵的时间，这些时间可用于创建新产品，从而增加您的商业利润。 工作原理： 选择您的地理区域：选择您想要寻找客户的地区。 接收精选列表：根据您的选择获取潜在客户列表。 专注于开发：利用节省的时间来开发新产品并增强现有产品。 我相信这个工具将改变开发人员和 IT 专业人士的游戏规则，使他们能够最大限度地提高工作效率。 我会很高兴听到您的想法和反馈。 对于已经走到这一步的您，感谢您的阅读！    提交人    /u/Substantial_Waltz951   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1emks0q/im_creating_a_timesaving_service_for_developers/</guid>
-      <pubDate>Wed, 07 Aug 2024 19:21:26 GMT</pubDate>
     </item>
     </channel>
 </rss>
