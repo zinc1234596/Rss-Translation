@@ -4,7 +4,84 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Wed, 07 Aug 2024 21:14:36 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Aug 2024 01:01:40 GMT</lastBuildDate>
+    <item>
+      <title>我利用人工智能开发了一款生产力工具来克服拖延症。想要访问吗？DM</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1emsf4n/i_built_a_productivity_tool_with_ai_to_beat/</link>
+      <description><![CDATA[        由    /u/doganarif 提交   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1emsf4n/i_built_a_productivity_tool_with_ai_to_beat/</guid>
+      <pubDate>Thu, 08 Aug 2024 00:44:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>我在学习 SwiftUI 的同时，制作了一个适用于 iOS 的 Apple Music 客户端</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1emrvhj/i_made_an_apple_music_client_for_ios_while/</link>
+      <description><![CDATA[      嘿，Apple Music 粉丝们！ 我在学习 SwiftUI 和自己使用 Apple Music API 时制作了 Extreme Music。我想其他人也会觉得它很有趣！Extreme Music 仍处于早期阶段。该应用程序旨在为您提供更加可定制的用户体验，并附加更多功能，例如： https://preview.redd.it/dmz1vu2w1chd1.png?width=1366&amp;format=png&amp;auto=webp&amp;s=71f2a1472eaae8988d29f18cb7534e622e7b1118  Last.fm scrobbling 内置 Shazam  自动将已识别的歌曲添加到播放列表中 即时查看歌曲的艺术家/专辑或花絮  主题颜色和自定义（更多功能即将推出） 歌曲花絮 艺术家简历，Instagram 更好的播放列表和收藏/库管理  在 App Store 上下载    提交人    /u/Ok-Airport8778   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1emrvhj/i_made_an_apple_music_client_for_ios_while/</guid>
+      <pubDate>Thu, 08 Aug 2024 00:18:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>救命！！！ --- 伸缩光剑项目。您觉得怎么样？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1emrr41/help_retractable_lightsaber_project_what_do_you/</link>
+      <description><![CDATA[我正在制作一把可伸缩的光剑复制品，需要一些关于可反复拉伸的超弹性耐用管的建议。计划如下： 设计理念：  伸缩系统：一根长伸缩管，顶部有一个向外延伸的盖子。 超弹性管：一根超级弹性的管子，可随伸缩管上下拉动，保持绷紧。应可轻松延伸超过 5 倍以跟上伸缩管。  为什么采用这种设计？  光线偏转：随着伸缩管变窄，它为光线偏转提供了更多空间（我将在里面放置 NeoPixel LED 灯带）。 耐用性：这种设计应能更好地处理冲击，使光剑能够进行决斗。 外观：顶部的盖子略微向外延伸，光剑将看起来完全呈圆柱形。  挑战 我一直在研究不同的材料，但大多数选择似乎都是实验性的，或者仅在可以拉伸到那么远的科学实验室中可用。 问题：是否有一种更简单、市售的管状材料，可以轻松拉伸超过 5 倍，并且耐用性可变且合适对于这个项目？ 任何建议或想法都将不胜感激！谢谢！    由    /u/tegrimmius 提交   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1emrr41/help_retractable_lightsaber_project_what_do_you/</guid>
+      <pubDate>Thu, 08 Aug 2024 00:12:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了简历……高度个性化</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1emrab3/i_made_resumes_hyperpersonalized/</link>
+      <description><![CDATA[        提交人    /u/freakH3O   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1emrab3/i_made_resumes_hyperpersonalized/</guid>
+      <pubDate>Wed, 07 Aug 2024 23:51:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>我认为我的应用程序解决了一个问题：使用二维码获取更多 Google 评论！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1emr2rr/my_app_i_think_solve_a_problem_get_more_google/</link>
+      <description><![CDATA[      大家好， 我创建了一个出色而简单的工具，可帮助企业轻松获得更多 Google 评论！此网络应用可生成二维码，将客户直接引导至您的“Google 商家”评论页面，减少点击次数并增加获得评论的可能性。 工作原理： 生成二维码：输入您的“Google 商家”页面网址。 显示二维码：将其用于收据、名片上，或在您的商店中展示。 获得更多评论：客户扫描二维码并轻松留下评论。 好处： 点击次数更少：直接链接到您的评论页面。 用户友好：简单易用。 多个位置：为每个位置生成不同的二维码。 如果您想提高评论量，请查看此应用！ https://www.qrfed.co/ https://preview.redd.it/dc2l484yvbhd1.png?width=288&amp;format=png&amp;auto=webp&amp;s=0414b69f91f990617bcd2906aa18243de8f2f190    提交人    /u/wedwin53   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1emr2rr/my_app_i_think_solve_a_problem_get_more_google/</guid>
+      <pubDate>Wed, 07 Aug 2024 23:41:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找创意</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1emqe4w/looking_for_ideas/</link>
+      <description><![CDATA[大家好！希望你们都很好，我是新手哈哈（中级程序员），目前用 Javascript、HTML、CSS、Python 编写代码，正在学习 C、Rust。 我刚满 18 岁，我的大学申请迫在眉睫，大概是今年 10 月，因此我正在寻找创建小型副项目的想法，以便可以添加到我的简历和申请中。 非常感谢您的帮助。    提交人    /u/darkpanda2006   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1emqe4w/looking_for_ideas/</guid>
+      <pubDate>Wed, 07 Aug 2024 23:10:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>我正在开发一个网站，帮助人们离开 Reddit 并自动在 Lemmy 上找到他们的社区。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1emqcrh/im_working_on_a_site_that_helps_people_migrate/</link>
+      <description><![CDATA[  由    /u/rglullis  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1emqcrh/im_working_on_a_site_that_helps_people_migrate/</guid>
+      <pubDate>Wed, 07 Aug 2024 23:09:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>我马上需要一份工作，请查看</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1emq60n/i_need_a_job_immediately_please_see/</link>
+      <description><![CDATA[大家好。希望你们一切顺利。我是一名刚毕业的物理学家，来自土耳其，自学成才的软件开发人员。自 2024 年 1 月毕业以来，我一直在找工作。我已经努力在软件开发领域找工作 6-7 个月了。我知道有很多人也在努力找工作，而且可能找工作的时间比我长，但不知何故，这个过程和每一天的流逝都令人沮丧，让你对自己产生不好的想法和不合适的想法。 无论如何，我急需工作。我可以做任何类型的 Web 开发和部分移动应用程序开发工作。我有大约 1.5 年的专业工作经验。我经验丰富，熟练掌握各种技术。以下是我所具备的技术技能列表：  HTML、CSS、JS、TS、SCSS、Bootstrap、Tailwind.css、jQuery、React、React Native、Redux-Toolkit、Expo、PHP/Laravel、Node.js、Express.js、Next.js、MySQL、MongoDB、Mongoose ORM、Socket.io、REST API 开发、响应式 Web 开发、算法和数据结构、OOP  我愿意从事自由职业、兼职或基于合同/项目的工作。谢谢！    提交人    /u/physFx   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1emq60n/i_need_a_job_immediately_please_see/</guid>
+      <pubDate>Wed, 07 Aug 2024 23:01:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了百万美元主页的区块链版本</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1empr4t/i_made_a_blockchain_version_of_the_million_dollar/</link>
+      <description><![CDATA[我从事 Web 应用开发已有 20 年，我曾想过，“为什么没有人在区块链上这样做？”。 实际上，我 5 年前就开发了该应用，作为尝试 dapp 钱包集成的一种方式，但当时还为时过早，而且 ETH 费用昂贵。现在，Base L2 解决了这个问题，并对体验进行了重大改进（hello mobile），我让它重新焕发生机，并获得了基础构建者社区的关注。 将像素放在链上的优势在于，您的提交将永远成为区块链历史的一部分。一旦我构建了 NFT 组件，您将拥有自己的主页部分，该部分可以在将来出售或更新。 在这里查看：https://millionbithomepage.com/ 我期待您的反馈，并希望看到人们在主页上放了什么！    提交人    /u/LegendOfJeffrey   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1empr4t/i_made_a_blockchain_version_of_the_million_dollar/</guid>
+      <pubDate>Wed, 07 Aug 2024 22:43:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>帮助您离开 Instagram 的电子邮件服务</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1emoyax/an_email_service_to_help_you_leave_instagram/</link>
+      <description><![CDATA[如果您感兴趣，请查看案例研究，如果您愿意，请在最后留下您的姓名。 问题：社交媒体很容易进入，而且免费 - 有时甚至令人愉快 - 但它是以用户幸福为代价的，让人们陷入“孤独在一起”的环境中，而不是真正相互联系的环境中。 解决方案：使用 Meta 的 API，Epilog 允许您注销并将社交媒体用作工具，而不是让它通过电子邮件发送您选择的提要来利用您。    提交人    /u/Potential-Sock3061   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1emoyax/an_email_service_to_help_you_leave_instagram/</guid>
+      <pubDate>Wed, 07 Aug 2024 22:10:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>体验 Next.js、Material Designs 和 Tailwind CSS 与 Flowbite React 相结合的强大功能。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1emnq6j/experience_the_power_of_nextjs_material_designs/</link>
+      <description><![CDATA[使用 MaterialM 基于 Tailwind CSS 的免费 Next.js 模板创建令人惊叹的 Web 应用。享受免费的预构建组件、速度和灵活性。 免费下载 - https://www.wrappixel.com/templates/materialm-free-nextjs-admin-template/ https://preview.redd.it/6un1znfl5bhd1.png?width=794&amp;format=png&amp;auto=webp&amp;s=774bcb1340f0526961a067947095a916e8c0ba52    提交人    /u/isanjayjoshi   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1emnq6j/experience_the_power_of_nextjs_material_designs/</guid>
+      <pubDate>Wed, 07 Aug 2024 21:20:14 GMT</pubDate>
+    </item>
     <item>
       <title>我开发了一款文明讨论应用（希望得到您的反馈）</title>
       <link>https://www.reddit.com/r/SideProject/comments/1emmxib/i_built_a_civil_discourse_app_and_would_love_your/</link>
@@ -32,83 +109,6 @@
       <description><![CDATA[大家好， 我想分享我的想法，即一种 SaaS 产品，旨在为开发人员和 IT 服务创建者节省宝贵的时间。该服务将根据所选地理区域提供潜在客户列表。 那么为什么有人应该使用它呢？ 简单地说，不要再浪费时间寻找客户了。 无需寻找谁可能会购买您的产品，您可以节省宝贵的时间，这些时间可用于创建新产品，从而增加您的商业利润。 工作原理： 选择您的地理区域：选择您想要寻找客户的地区。 接收精选列表：根据您的选择获取潜在客户列表。 专注于开发：利用节省的时间来开发新产品并增强现有产品。 我相信这个工具将改变开发人员和 IT 专业人士的游戏规则，使他们能够最大限度地提高工作效率。 我会很高兴听到您的想法和反馈。 对于已经走到这一步的您，感谢您的阅读！    提交人    /u/Substantial_Waltz951   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1emks0q/im_creating_a_timesaving_service_for_developers/</guid>
       <pubDate>Wed, 07 Aug 2024 19:21:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>制作了我的第一个 iOS 应用程序并进入应用商店！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1emkhca/made_my_first_ios_app_that_made_it_into_app_store/</link>
-      <description><![CDATA[大家好！我最近开始接触应用开发，并决定制作我的第一个应用。这是一款我自己制作的笔记应用，但它也可能对其他人有用！我知道有很多笔记应用，但我想制作一款极其简单易用且能满足我特定需求的应用 - 快速保存旅途中的想法，而不必考虑如何组织它。有点像一个垃圾记事本，你可以随意记下一些东西。你可以在这里找到我的应用：https://apps.apple.com/us/app/junkpad/id6480413082 非常感谢您的反馈！    提交人    /u/IndependentCoast993   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1emkhca/made_my_first_ios_app_that_made_it_into_app_store/</guid>
-      <pubDate>Wed, 07 Aug 2024 19:09:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人能帮我提供一些 Saas 想法吗？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1emk2bl/can_anyone_help_me_with_any_saas_ideas/</link>
-      <description><![CDATA[我现在正在想办法如何开始 saas 业务，但我需要一些想法，有什么帮助吗？    提交人    /u/WolverinePotential47   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1emk2bl/can_anyone_help_me_with_any_saas_ideas/</guid>
-      <pubDate>Wed, 07 Aug 2024 18:53:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>免费 AI 新闻通讯</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1emk1ys/free_ai_newsletter/</link>
-      <description><![CDATA[我刚刚制作了一份名为 AIByte 的 AI 简报。这是一份完全免费的简报，每周更新最适合企业的 AI、最新的 AI 新闻和最佳的 AI 副业。如果您有兴趣，链接如下。 https://aibyte3.beehiiv.com/subscribe    提交人    /u/DizzyAppearance2378   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1emk1ys/free_ai_newsletter/</guid>
-      <pubDate>Wed, 07 Aug 2024 18:53:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>subs：从文件中获取有效的子域名，解析它们，拆分它们等等！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1emjn6z/subs_grab_valid_subdomains_from_files_resolve/</link>
-      <description><![CDATA[        由   提交  /u/0x736961774f   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1emjn6z/subs_grab_valid_subdomains_from_files_resolve/</guid>
-      <pubDate>Wed, 07 Aug 2024 18:37:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>我想做我的第一个 SaaS</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1emjje7/i_want_to_do_my_first_saas/</link>
-      <description><![CDATA[大家好，我想做我的第一个 Saas，但我不知道如何开始！    提交人    /u/ActiveYard4384   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1emjje7/i_want_to_do_my_first_saas/</guid>
-      <pubDate>Wed, 07 Aug 2024 18:33:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>个人品牌</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1emhkg4/personal_brand/</link>
-      <description><![CDATA[您认为个人品牌在开发 saas 产品中重要吗？如果重要，您会使用真实姓名或姓氏来开发您的品牌，还是编造的？    提交人    /u/JimMeed   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1emhkg4/personal_brand/</guid>
-      <pubDate>Wed, 07 Aug 2024 17:16:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Femlo - 只需将您想要的公司拖放到您的登陆页面上，即可快速创建您的“受信任”部分</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1emh7yt/working_on_femlo_quickly_create_your_trusted_by/</link>
-      <description><![CDATA[  由    /u/joaooou  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1emh7yt/working_on_femlo_quickly_create_your_trusted_by/</guid>
-      <pubDate>Wed, 07 Aug 2024 17:02:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>我让我的网站创建器变得更加容易使用</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1emg918/i_made_my_website_builder_a_whole_lot_easier_to/</link>
-      <description><![CDATA[       由    /u/hernansartorio  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1emg918/i_made_my_website_builder_a_whole_lot_easier_to/</guid>
-      <pubDate>Wed, 07 Aug 2024 16:25:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>战锤相关项目</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1emfup5/warhammer_related_project/</link>
-      <description><![CDATA[战锤游戏相关项目。只有游戏和锦标赛/游戏跟踪系统，以及一些花名册生成器（正在进行中）。当有空闲时间或想尝试全职工作不允许做的事情时，可以这样做以求乐趣。我也讨厌营销，我是工程师，喜欢制造东西而不是销售 :) 设计也一样，所以网站不是超级完美但它可以工作，当有必要时我愿意为 UI/UX 设计付一些钱。 昨天我试图联系当地做游戏的人（是的，这很难，但我做到了）。目前没有任何回复。 所以我认为我被如何找到真实用户的问题所困扰（我知道没有实际投资就不会发生任何事情，所以我可以善意赞助一些游戏锦标赛，比如购买奖品或类似的东西）并且我需要花时间和金钱来打造好看的网站（说实话我可能没有真正的用户）还是专注于功能？ PS：有 react+java+mongodb+mysql+docker，我有一个域名，但所有内容都托管在我的旧 MacBook 上。没有理由在没有真实用户的情况下花钱购买真实托管，对吧？..     提交人    /u/moby1234567   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1emfup5/warhammer_related_project/</guid>
-      <pubDate>Wed, 07 Aug 2024 16:10:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>单人创业者的机会不大</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1emfe60/the_odds_are_against_solo_founders/</link>
-      <description><![CDATA[      过去一个月我一直在建立 aivideo.to，并决定使用 SEO 作为寻找分销的策略，因为我没有任何重要的社交媒体关注者。 基于 SEO 的在线产品分销的主要障碍是它撰写优质内容需要花费大量时间。 撰写一篇博客需要一整天甚至更长时间。这会分散对产品构建或其他形式营销的注意力。  即使路径已知，独立黑客也面临巨大的困难。 https://preview.redd.it/iqae2wo4k9hd1.png?width=1200&amp;format=png&amp;auto=webp&amp;s=ad2b2751a384b1f87273afe81ed4c174f3f72091    提交人    /u/Apprehensive-Shock93   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1emfe60/the_odds_are_against_solo_founders/</guid>
-      <pubDate>Wed, 07 Aug 2024 15:52:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>尝试破解我的在线颜色转换器</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1emfcib/try_to_break_my_online_color_converter/</link>
-      <description><![CDATA[      我制作了一个颜色转换器，因为在处理另一个颜色转换项目时交叉检查我的颜色太难了。同时检查所有内容不应该这么难。有 https://convertacolor.com/ 很不错，我从中得到了灵感。但是，引入 oklch 和 lch 还不够。 我需要几个用户来测试、破解并提供反馈。 https://www.nevy.me/tiny/color-converter 代码是开源的：https://github.com/n0acar/tiny-projects/tree/main/src/app/color-converte https://preview.redd.it/z875j4qmt9hd1.png?width=2560&amp;format=png&amp;auto=webp&amp;s=58a43a2d7952d835d65d9971785fbb511d85d834    提交人    /u/n0acar   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1emfcib/try_to_break_my_online_color_converter/</guid>
-      <pubDate>Wed, 07 Aug 2024 15:50:26 GMT</pubDate>
     </item>
     </channel>
 </rss>
