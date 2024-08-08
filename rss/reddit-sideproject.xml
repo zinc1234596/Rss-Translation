@@ -4,111 +4,111 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Thu, 08 Aug 2024 15:14:39 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Aug 2024 18:18:58 GMT</lastBuildDate>
+    <item>
+      <title>为 Jetpack Compose 和 Compose Multiplatform 创建了一个组件库</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1enczbx/created_a_component_library_for_jetpack_compose/</link>
+      <description><![CDATA[        提交人    /u/alexstyl   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1enczbx/created_a_component_library_for_jetpack_compose/</guid>
+      <pubDate>Thu, 08 Aug 2024 18:09:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了一个人工智能研究助手，帮助学生和研究人员更有效地处理学术论文</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1encf47/i_created_an_ai_research_assistant_to_help/</link>
+      <description><![CDATA[      大家好， 和你们中的许多人一样，我在阅读和理解学术论文方面遇到了困难。作为一名学生，我经常发现自己淹没在复杂的术语和错综复杂的方法论的海洋中。所以，我决定创建一个解决方案。这是我的项目链接：https://lumina.bytemind.me Lumina AI 研究助理 功能：  快速总结学术论文，提取关键点 分析研究方法、结果和局限性 帮助管理和组织研究文献  适用对象：  应对具有挑战性的阅读的学生 研究人员试图保持在各自领域的领先地位 专业人士紧跟行业发展  技术栈：  Python 用于后端 React 用于前端 Gemini 用于自然语言处理 PostgreSQL 用于数据库  我很乐意听到您的想法和建议！    提交人    /u/Hugo9001   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1encf47/i_created_an_ai_research_assistant_to_help/</guid>
+      <pubDate>Thu, 08 Aug 2024 17:47:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>我已经开发了反拖延症人工智能，现在可以规划你的整个星期。想要访问吗？DM🔥</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1encdcb/ive_built_antiprocrastination_ai_now_plans_your/</link>
+      <description><![CDATA[    /u/doganarif   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1encdcb/ive_built_antiprocrastination_ai_now_plans_your/</guid>
+      <pubDate>Thu, 08 Aug 2024 17:45:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了一个状态页面聚合器，用于监控 3,000 个 API 和服务</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1enbsgc/i_created_a_status_page_aggregator_that_monitors/</link>
+      <description><![CDATA[        提交人    /u/liorgrossman   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1enbsgc/i_created_a_status_page_aggregator_that_monitors/</guid>
+      <pubDate>Thu, 08 Aug 2024 17:22:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>还记得《选择你自己的冒险书》吗？我刚刚开发了一个 AI 版本！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1enbb6f/remember_choose_your_own_adventure_books_i_just/</link>
+      <description><![CDATA[我过去开发过一些 AI 机器人，刚刚创建了一款新应用，利用 AI 为用户生成“选择你自己的冒险”类型的故事。我从小就喜欢这类图书冒险，因此开发一款提供类似体验的应用感觉像是一个怀旧而又创新的项目。 该应用允许用户从各种故事类型中进行选择，他们可以做出塑造叙事的决定。每个选择都会通向一条独特的道路，并且由于使用具有可自定义选项的 AI，因此没有两次冒险是完全相同的。 我很乐意听取任何有兴趣尝试的人的反馈。如果您是互动故事讲述的粉丝，或者只是喜欢一场精彩的冒险，我想您会发现它非常有趣。我仍在对 AI 代理进行微调，但总的来说，我喜欢它目前的工作方式。 现在在 Apple App Store 上查看！ https://apps.apple.com/us/app/mythicmyth-ai-story-teller/id6596801599?platform=iphone    由   提交  /u/RyanDesigns9   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1enbb6f/remember_choose_your_own_adventure_books_i_just/</guid>
+      <pubDate>Thu, 08 Aug 2024 17:03:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>我和我的妻子创建了一个免费工具来（合法地）打击诈骗网站</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1enb1z9/my_wife_and_i_created_a_free_tool_to_legally_take/</link>
+      <description><![CDATA[      我和我的妻子开发了一个免费的开源工具，用于将诈骗者锁定在他们的域名之外。 Github：https://github.com/richardvanorton/scammerlocker  网站：https://scammerlocker.vercel.app https://preview.redd.it/a3xvbn0tzghd1.png?width=1642&amp;format=png&amp;auto=webp&amp;s=219de5da58c9e6b909b5b7817ef45d6a151297c3 它的工作原理如下：- 该工具执行 WHOIS 查找以获取域名注册商的滥用联系电子邮件。然后，它使用 Groq 的 llama3-70b-8192 模型，使用用户提供的上下文和目标 URL 生成具有匹配主题的滥用报告电子邮件。使用 Mailgun，它会向域名提供商的指定滥用联系人发送电子邮件。 该工具适用于任何非法网站，包括但不限于投资诈骗、加密货币哄抬和转储、钓鱼页面、虐待动物等。所有域名注册商、托管服务提供商和 TLD 都必须依法采取行动收到滥用报告。关闭网站通常需要几天到几周的时间。 我们正在学习 Next.js 14，并认为学习某些东西的最好方法是用它来构建项目，现在我们就开始学习了！    提交人    /u/Adventurous_night61   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1enb1z9/my_wife_and_i_created_a_free_tool_to_legally_take/</guid>
+      <pubDate>Thu, 08 Aug 2024 16:53:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻求有关为我的个人工具寻找用户的建议</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1enavy3/seeking_advice_on_finding_users_for_my_personal/</link>
+      <description><![CDATA[大家好， 我创建了一个工具，可以更轻松地发送个性化的 WhatsApp 消息。它起初只是我为自己构建的一个东西，但现在我希望能够更广泛地分享它。 我来这里不是为了推广它，但我需要帮助：  寻找用户：吸引可能从此工具中受益的用户的最佳策略是什么？ 有效的推广：我怎样才能接触到合适的受众而不显得太过强势？  如果您对如何寻找和吸引潜在用户有任何提示或建议，我将不胜感激！ 您可以在此处查看该工具：http://lazywa.web.app/，但同样，这篇文章更多的是关于获取用户获取方面的建议。 提前致谢！    提交人    /u/Real-Result5238   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1enavy3/seeking_advice_on_finding_users_for_my_personal/</guid>
+      <pubDate>Thu, 08 Aug 2024 16:46:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>BodySherpa——Telegram 原生 AI 营养教练</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1enapqp/bodysherpa_telegramnative_ai_nutrition_coach/</link>
+      <description><![CDATA[今天在 Product Hunt 上启动我的副项目。非常希望得到任何支持或反馈。🙏🏼 https://www.producthunt.com/posts/bodysherpa    提交人    /u/duffdevone   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1enapqp/bodysherpa_telegramnative_ai_nutrition_coach/</guid>
+      <pubDate>Thu, 08 Aug 2024 16:39:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>网站已经上线，下一步是什么？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1en9uh2/launched_the_website_whats_next/</link>
+      <description><![CDATA[我推出了一个网站，人们可以免费互相联系和视频聊天。到目前为止没有广告或社交媒体，每天仍有大约 10 个注册用户，主要来自美国。你对我下一步该做什么有什么建议吗？每天都有人注册，但由于他们不是同时连接的，每个新成员都无法与某人匹配并直接离开网站。我该如何解决这个问题？    提交人    /u/Extension-Captain583   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1en9uh2/launched_the_website_whats_next/</guid>
+      <pubDate>Thu, 08 Aug 2024 16:04:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了一个工具，可以识别角色、分配不同的声音，并为您的剧本生成最终音频</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1en9sgz/i_created_a_tool_that_identifies_characters/</link>
+      <description><![CDATA[我开发了一个工具，可以简化为剧本创建画外音的过程。它可以自动识别角色、分配不同的声音，并一步生成最终音频。这意味着您不再需要为每个角色手动创建单独的音频文件。它旨在使配音过程更加高效，特别是对于播客、电子学习内容和多媒体项目。如果您能提供任何关于它如何对您的项目有用的反馈，我将不胜感激。    提交人    /u/mr_fondleberry   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1en9sgz/i_created_a_tool_that_identifies_characters/</guid>
+      <pubDate>Thu, 08 Aug 2024 16:02:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>为讨厌计划假期的人们创建了一款应用程序！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1en9m1b/created_an_app_for_people_who_hate_planning/</link>
+      <description><![CDATA[      https://i.redd.it/5ki8vcfopghd1.gif 大家好， 我和我的团队刚刚在 App Store 上推出了 Trameter，这是一款旨在减轻假期计划压力的移动应用！我们是一支旅行爱好者团队，厌倦了花费数小时研究航班、酒店和活动，并认为一定有更好的方法。 我们花了大约 4 年的时间，包括无数个深夜和周末，才让 Trameter 焕发生机，现在它的工作原理如下：  首先输入您的偏好：您想去哪里？您的理想旅行日期是什么时候？你的预算是多少？ 放松，让 Trameter 来做这项工作：不再无休止的搜索！Trameter 的智能算法会找到符合您偏好的完美航班和酒店。 仅探索 9 个个性化度假套餐：几秒钟内，您将获得 9 个精选套餐 - 3 个在您的预算之内，3 个在您的预算之下，3 个在您的预算之上。不再迷失在众多选择中。 在应用程序内一键预订：只需单击一下即可完成您的旅行计划，无需离开应用程序或被重定向。（说真的，这并不好玩！）  构建 Trameter 是一次冒险！我们全心全意地致力于改善用户体验，使其成为终极的旅行计划工具。 这是应用程序的链接：https://apple.co/4c5YdBG（目前仅供美国用户使用） 这是网站链接：https://trameter.com/ 这就是你进来的地方： 我正在积极寻求用户反馈，以改进我们已经构建的内容，并希望听到每个人的意见，无论反馈类型如何。我在这里！ 😊  尝试 Trameter 并告诉我你的想法 该应用程序是否解决了你的计划问题（如果你曾经遇到过？） 哪些功能可以让它更好地适合你的旅行者类型？  此外，如果您有任何问题，请告诉我 - 我会在评论中！    提交人    /u/Lower_Trip4861   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1en9m1b/created_an_app_for_people_who_hate_planning/</guid>
+      <pubDate>Thu, 08 Aug 2024 15:55:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个 GPT 包装器待办事项应用</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1en9kj0/i_made_a_gpt_wrapper_todo_app/</link>
+      <description><![CDATA[当我成为一名开发人员时，有人告诉我“你不应该”制作待办事项应用程序。最近有人告诉我“你不应该”制作 GPT 包装器。 好吧...我把两者都做了！ 介绍 Dooe。 抛开幽默不谈，我想帮助人们在现实世界中 DIY、烹饪和建造东西。我见过许多应用程序通过在特定领域超越 ChatGPT 而获得成功。 我希望可以构建以下功能：“添加到购物车”、“在 YouTube 上搜索 DIY 视频”、“等等”。 无论你是否使用我的应用程序，我都很乐意听取你们的任何反馈。    提交人    /u/Jebick   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1en9kj0/i_made_a_gpt_wrapper_todo_app/</guid>
+      <pubDate>Thu, 08 Aug 2024 15:54:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>获取电子书章节摘要的工具</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1en9h9u/a_tool_to_get_short_summary_of_a_ebook_chapter/</link>
+      <description><![CDATA[你好！ 这是我制作的工具：Book Shortener Wizard。 您可以上传 .epub 图书。我会将其解析为章节。您选择一个章节 - 我将获取所有文本 - 并为您提供简短的摘要。    提交人    /u/mik787   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1en9h9u/a_tool_to_get_short_summary_of_a_ebook_chapter/</guid>
+      <pubDate>Thu, 08 Aug 2024 15:50:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>构建 vercel V0 克隆 - V1</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1en8nj8/building_vercel_v0_clone_v1/</link>
+      <description><![CDATA[https://reddit.com/link/1en8nj8/video/5oprwdj0lwgd1/player    由   提交  /u/realnala   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1en8nj8/building_vercel_v0_clone_v1/</guid>
+      <pubDate>Thu, 08 Aug 2024 15:17:17 GMT</pubDate>
+    </item>
     <item>
       <title>免费魔法超级书标题生成器</title>
       <link>https://www.reddit.com/r/SideProject/comments/1en8fzi/free_magic_super_book_title_generator/</link>
       <description><![CDATA[多棒的标题啊！ 昨天我用人工智能随意涂鸦了一下，并创建了一个免费图书标题生成器。 输入一些文字，它就会为您的杰作生成下一个畅销书名。;) https://textbuddy.com/title-generator-book/ 尝试一下，即使只是为了好玩。如果它对任何人有帮助，我就是一只快乐的兔子。 欢迎反馈！ 祝你有美好的一天， 加布里埃尔    提交人    /u/vidiludi   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1en8fzi/free_magic_super_book_title_generator/</guid>
       <pubDate>Thu, 08 Aug 2024 15:09:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>作为技术联合创始人参与一些很酷的项目冒险！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1en7xea/joining_some_cool_project_adventures_as_your_tech/</link>
-      <description><![CDATA[大家好， 我们是来自马来西亚公司 BixTech 的一群技术爱好者，我们很高兴能够合作开展新鲜、令人兴奋的项目！ 交易如下： 我们将以少量费用为您构建 MVP（最小可行产品） - 足以让您知道您是认真的想要实现这一目标。 此后，我们将共同努力，在利润分享的基础上开展工作。这意味着我们和您一样热衷于让您的项目取得成功！ 我们特别关注具有 Figma 设计或用户流程的 B2B 项目。 顺便说一句，我们已经与 OMNE+ 合作，这是一款 B2B SaaS，正在帮助 120 多家室内设计公司取得成功。    提交人    /u/yellingprogrammer   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1en7xea/joining_some_cool_project_adventures_as_your_tech/</guid>
-      <pubDate>Thu, 08 Aug 2024 14:48:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>Solopreneur 已准备好构建，但无法决定是使用快速解决方案 (Webflow) 还是深度解决方案 (Bubble)</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1en7mwa/solopreneur_ready_to_build_but_cant_decide/</link>
-      <description><![CDATA[我绝对更像是一名业务开发人员，而不是一名 Web 开发人员，就像我迫不及待地想要部署 GTM 策略和增长营销。但是，我的项目所需的功能非常复杂（像 UpWork 这样的人才市场）：  双重注册（总领班和分包商） 用户个人资料 作品集 招聘信息 数据库浏览（按技能、按位置等） 同行连接 AI 集成   考虑到这些需求，花时间学习 Bubble 是否值得，还是我应该直接使用 Webflow？无论如何，一旦我开始生成蜂蜜，我稍后就会迁移到全栈开发解决方案。 假设得到了验证，所以我准备好开火了！ 非常感谢你的帮助。    提交人    /u/Educational_Road_493   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1en7mwa/solopreneur_ready_to_build_but_cant_decide/</guid>
-      <pubDate>Thu, 08 Aug 2024 14:36:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个网站，让你对伴侣的毒性程度有第二个看法</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1en6yrm/i_made_an_website_to_give_you_a_2nd_opinion_about/</link>
-      <description><![CDATA[我创建了一个网站，以便为您提供有关您的伴侣毒性水平的第二意见  使用 findredflags.today，您可以通过简单的打印评估某人发送给您的消息。 只需打印消息上传，它就会为您提供消息中存在的危险信号。 免费使用 :D 看看他/她是否真的有毒，还是只是在您的眼中。反之亦然。 使用第二种意见。findredflagstoday    提交人    /u/Pure_Bit_2981   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1en6yrm/i_made_an_website_to_give_you_a_2nd_opinion_about/</guid>
-      <pubDate>Thu, 08 Aug 2024 14:09:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>我为独立制造商制作了一套工具。现在我需要一些反馈！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1en6xot/i_made_a_deck_of_tools_for_indie_makers_now_i/</link>
-      <description><![CDATA[嘿，你好！我是 Adnan Jindani，一名 17 岁的独立创客。 我正在开发 IndieDeck，这是一套面向初创企业和独立创客的工具，可帮助您验证、展示和发展您的产品。 到目前为止，我已经构建了：  一键式候补名单生成器来验证想法 反馈页面：从早期 Beta 版用户那里获取反馈 评论页面：获取产品的公开评论  我正在考虑推出这些功能，我很乐意获得一些 Beta 测试人员的反馈和有关添加新功能的提示。 我计划下周开始测试，如果您认为您可以作为早期用户帮助我，请在此处注册：https://waitlist.indiedeck.io（使用我自己的候补名单生成器构建） 如果您想联系我，可以在这里联系我：https://x.com/Adnan_Jindani    提交人    /u/SilentLeadership3996   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1en6xot/i_made_a_deck_of_tools_for_indie_makers_now_i/</guid>
-      <pubDate>Thu, 08 Aug 2024 14:08:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>我做了一个用于收听 Hi-Fi 网络电台的网站：Audiophile.fm</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1en6wi1/i_made_a_website_for_listening_hifi_internet/</link>
-      <description><![CDATA[        提交人    /u/bojanvidanovic   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1en6wi1/i_made_a_website_for_listening_hifi_internet/</guid>
-      <pubDate>Thu, 08 Aug 2024 14:07:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>我为 SaaS 创始人创建了一个营销数据库</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1en6rfi/i_created_a_marketing_database_for_saas_founders/</link>
-      <description><![CDATA[一周前，我推出了 TheFounderChecklist - 一个包含 300 多种策略和技巧的数据库，可帮助您启动初创公司。我为自己创建了它，以了解 SaaS 的分销和营销。我只用了一周就汇编了整个资源。在 Twitter 和各种创业社区推广它后，我获得了一些浏览量，但没有销售。 2-3 天后，我在各种 subreddits 上发布了关于 TheFounderChecklist 的帖子，它引起了广泛关注，我的网站浏览量约为 45k，访客为 3k。由于这次曝光，我完成了前五笔销售。 然后我找到了一个名为 pressedleads 的工具，它可以帮助我进行营销，结果令人惊叹，我的流量不仅保持稳定，而且还显示出显着的增长。现在流量已经可以自动控制，我可以专注于改进产品和用户体验了。 我现在正致力于提高我的登陆页面的转化率，以利用这个新的有机流量来源。 非常感谢您对我网站的反馈。谢谢    提交人    /u/Minimum_Initial7501   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1en6rfi/i_created_a_marketing_database_for_saas_founders/</guid>
-      <pubDate>Thu, 08 Aug 2024 14:01:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个艺术行业数据库：UntitledDb</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1en6hmo/i_created_an_art_industry_database_untitleddb/</link>
-      <description><![CDATA[        提交人    /u/cobbledhills   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1en6hmo/i_created_an_art_industry_database_untitleddb/</guid>
-      <pubDate>Thu, 08 Aug 2024 13:50:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>免费 10 个帐户：分享您对 AI 头像质量的反馈</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1en6dmn/free_10_accounts_share_your_feedback_about_the/</link>
-      <description><![CDATA[嘿！朋友们。 我很高兴与您分享我的 AI Headshot Generation App。我们使用 AI[SD] 在短短 30 分钟内将任何自拍照变成几乎*真实的头像，可用于 Linkedin 或任何其他类似的专业平台。 为什么？：我在这里不是自我推销，这就是为什么我没有提到应用程序的 URL。我想要的只是你对图像和重新组装质量的真实反馈，因为我正在开发一些新功能，使其成为最好的 AI Headshot[或至少是最好的之一]。 我想要的： 我将提供 10 个（或更多）免费帐户来试用。作为回报，我希望您对流程和质量有诚实的反馈。 如何获得： 如果“感兴趣”，请在下面评论。 我会向您发送注册链接。 查看并给我们您的反馈！如果您有兴趣。 您的反馈将帮助我们继续改进我的应用程序。谢谢    提交人    /u/r_a_j_a_t   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1en6dmn/free_10_accounts_share_your_feedback_about_the/</guid>
-      <pubDate>Thu, 08 Aug 2024 13:45:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个 Chrome 扩展程序，它允许你将任何元素画中画，而不仅仅是视频</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1en68az/i_made_a_chrome_extension_that_allows_you_to/</link>
-      <description><![CDATA[        提交人    /u/boryssey   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1en68az/i_made_a_chrome_extension_that_allows_you_to/</guid>
-      <pubDate>Thu, 08 Aug 2024 13:39:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的副项目即将成为我的主要项目！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1en64rs/my_side_project_is_on_the_brink_of_becoming_my/</link>
-      <description><![CDATA[不久前我推出了 www.dawnvox.com，目前已有大约 100 名客户，服务费用略低。它不足以取代我的工作，但我对它很满意，每周都会进行改进和调整，用户数量也在慢慢增加。:D  如果您想尝试，欢迎反馈，对于那些发现它有用的人，您也可以在结账时给我发私信，索取优惠券    提交人    /u/bernardino_luca   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1en64rs/my_side_project_is_on_the_brink_of_becoming_my/</guid>
-      <pubDate>Thu, 08 Aug 2024 13:34:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>快速浏览我最近更新的登陆页面并告诉我你的想法</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1en5ynu/take_a_quick_look_at_my_recently_updated_landing/</link>
-      <description><![CDATA[{ https://secretscribble.42web.io/?i=1  大家好，我最近更新了我的登陆页面，我想知道别人是否能轻易理解这个项目的内容。 您能否快速浏览一下并为我提供任何反馈？我将不胜感激！ 谢谢！    提交人    /u/_slDev_   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1en5ynu/take_a_quick_look_at_my_recently_updated_landing/</guid>
-      <pubDate>Thu, 08 Aug 2024 13:27:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>构建快速新闻聚合应用程序</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1en5tlf/build_a_quick_news_aggregation_app/</link>
-      <description><![CDATA[        提交人    /u/Historical_Gear_9988   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1en5tlf/build_a_quick_news_aggregation_app/</guid>
-      <pubDate>Thu, 08 Aug 2024 13:21:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>早期创始人不会做的一件事</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1en5gwj/the_one_thing_early_founders_dont_do/</link>
-      <description><![CDATA[我们了解到，只有每天工作 18/20 小时的人才能在这个世界上取得成功。 我们都喜欢听有人为了完成更多工作而熬夜的故事。 如果我们想在生活中取得成功，我们必须效仿这些不可持续的行为。 这都是错误的。 如果创始人不照顾好自己，他们就无法让他们的初创企业腾飞。 如果创始人睡眠不足，就很难做出正确的决定。 如果创始人压力过大，就很难集中精力工作。 如果创始人精疲力竭， 公司很可能会失败。 显而易见的问题是，作为创始人，我们有可能照顾好自己并取得成功吗？ 答案绝对是肯定的。如果这样做，你更有可能成功。 以下是一些对我来说不可商议的事情：  每天睡 7-8 个小时。早点上床睡觉，睡觉时不要碰手机。 每天散步。10k 步是一个神话，散步的好处从 2.5k 步开始，到 20k 步逐渐减少。每天进行一次很好的散步。有助于缓解压力，你会得到最好的想法。 吃得好。限制垃圾食品和糖。睡前 6 小时不要喝含咖啡因或能量饮料，吃大量的蛋白质。 锻炼。每周 3 到 5 次。一切皆有可能，举重、跑步、高强度间歇训练，只要你在做就可以。  健康的创始人成功的机会更高。 你怎么看？你同意上面的列表吗？您还要添加其他内容吗？ 请在评论中告诉我！ 如果您之前没有看过我的任何帖子，以下是一些背景信息：  我在 28 天内从 0 发展成为新 SaaS 的第一位付费客户。 我在 Reddit 和 LinkedIn 上发布了我的整个旅程。 我现在每周分享有关如何发展这项业务的更新 您可以在我的时事通讯中连续阅读所有过去更新。  这里是一些数字  我目前有 1 个客户。 MRR 为 10 英镑。 本周我完成了 1 次用户访谈。 新闻通讯有 49 个订阅者。再多一个，我就会做一个 50 个俯卧撑的视频！ LinkedIn 新闻通讯有 180 个订阅者。太疯狂了！ 在 X 上举办大型派对。粉丝突破 200 人。截至目前为 204 人     提交人    /u/mhdev91   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1en5gwj/the_one_thing_early_founders_dont_do/</guid>
-      <pubDate>Thu, 08 Aug 2024 13:05:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>VoxMail - 我为您的网站开发的客户联系工具（https://vox-mail.com）</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1en5gum/voxmail_a_customer_contact_tool_for_your_website/</link>
-      <description><![CDATA[    /u/Few_Notice_582   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1en5gum/voxmail_a_customer_contact_tool_for_your_website/</guid>
-      <pubDate>Thu, 08 Aug 2024 13:05:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
