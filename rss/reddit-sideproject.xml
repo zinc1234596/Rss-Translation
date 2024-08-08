@@ -4,7 +4,77 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Thu, 08 Aug 2024 03:15:23 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Aug 2024 06:19:49 GMT</lastBuildDate>
+    <item>
+      <title>[招聘] 自由网页开发人员</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1emyks5/hiring_freelance_web_developer/</link>
+      <description><![CDATA[大家好，我们在我们的平台上添加了一个新工作，如果您正在寻找自由职业 Web 开发人员的工作，请查看下面的工作链接。 角色 - 自由职业 Web 开发人员（远程，兼职） 工作链接 - http://devloprr.com/jobs#230    提交人    /u/devloprr   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1emyks5/hiring_freelance_web_developer/</guid>
+      <pubDate>Thu, 08 Aug 2024 06:09:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们开发这个应用是为了帮助准备面试。刚刚发布了测试版。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1emxmtm/we_built_this_to_help_prepare_for_interviews_just/</link>
+      <description><![CDATA[嗨，社区， 我们是软件工程师和应届毕业生。我们发现大多数人在面试时都会感到害怕和紧张（废话！）。因此，我们开发了 AI 面试官来模拟真实的面试，以帮助我们练习。目前，我们正在为软件工程角色构建。 不，这些不是在 JD 上向您询问固定问题的 QA 代理。相反，我们试图模仿现实世界的面试。因此，它不仅会问您简历上的问题，还会问 DSA 问题。我们构建了一个自定义会议平台，在平台内包含一个代码编辑器。 最近，我们推出了第一个公开测试版（仅免费试用 - 无需付费）。它并不完美，但我们正在努力。 如果您是 CS /相关领域的学生（具有 DSA 知识并有简历）或 SWE 并且有兴趣，请在以下链接中尝试一下。 网站：https://cognatoai.com P.S：响应速度不是很快，所以请在桌面上打开。 P.P.S：我们正在手动检查简历是否是简历（而不是任何随机文件），因此可能需要一些时间来批准面试。    提交人    /u/testitupalready   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1emxmtm/we_built_this_to_help_prepare_for_interviews_just/</guid>
+      <pubDate>Thu, 08 Aug 2024 05:10:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>推出 SaaS 时遇到的技术挑战</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1emxm33/technical_challenge_encountered_while_launching/</link>
+      <description><![CDATA[大家好， 我最近推出了 InitiateJS，今天我想谈谈推出它时遇到的一个技术挑战。 以下是有关 SaaS 的一些信息（稍后会介绍）：InitiateJS 是一种工具，可立即为您和您的堆栈生成量身定制的样板，无论是 NextJS、Nuxt、Svelte、T3、Angular 还是其他。 当用户生成样板时，挑战就出现了。这些文件最初是在我的托管服务器上创建的，这很快占用了大量空间，尤其是在用户量大的情况下。我使用的托管层没有提供足够的空间来处理这个问题。 我不得不时不时地找到一个解决方案来清除这些混乱。 由于我使用的是 NextJS，我想到第一个解决方案是创建一个执行 rmSync 操作的 api 路由，我自己会时不时地访问该 api。但是这种方法太依赖手动了。 我想要一个更自动化的解决方案。我开始做一些研究，发现了 Nodejs 的“cron 作业”，它需要安装一个 npm 包。这个解决方案解决了第一个问题，但在我的应用程序中增加了更多的代码开销。我需要一种更简化的方法。 进一步的研究让我找到了 Vercel（我的托管服务提供商）内置的 cron 作业功能。Vercel 允许您使用称为“cron 表达式”的特定语法来配置 cron 作业在 vercel json 文件中。 它实际上是如何工作的？ 要触发 cron 作业，Vercel 使用项目的 vercel json 文件中提供的路径向项目的生产部署 URL 发出 HTTP GET 请求。 就是这样，这是我的理想解决方案。无需手动干预，额外的代码复杂性。配置为每天运行的简单 json。 并且我毫不浪费时间将其配置为每天清理杂乱。 如果您想查看 SaaS，请访问InitiateJS。 祝好， Akshat    提交人    /u/CareerCurious6481   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1emxm33/technical_challenge_encountered_while_launching/</guid>
+      <pubDate>Thu, 08 Aug 2024 05:09:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>终极学习伙伴</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1emx8j9/ultimate_learning_companion/</link>
+      <description><![CDATA[在当今快节奏的世界里，时间至关重要，坐下来读一本书似乎是一种我们无法承受的奢侈。由于我们的日程繁忙且经常受到干扰，难怪人们都转向简短的教程和书籍来快速获取所需的信息。 这就是 www.chatwithurdocs.info 的作用所在 - 它是您终极的学习伙伴！ 这个创新平台旨在帮助您高效学习，使用经过验证的技术，例如：  基于帕累托原则 (80/20 规则) 的思维导图，帮助您直观地了解和保留关键概念 使用费曼技术的直观摘要，将复杂的想法分解为简单易懂的语言 使用布鲁姆分类法的动态测验，以强化您的学习并跟踪您的进度  上传任何包含图像、表格或文本数据的书籍的 PDF，该工具将帮助您快速掌握内容。不再乏味的阅读或感到不知所措 - 只需快速有效的学习！    提交人    /u/EqualAncient8147   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1emx8j9/ultimate_learning_companion/</guid>
+      <pubDate>Thu, 08 Aug 2024 04:46:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>作为一名企业领导者，您不需要了解数据分析或图形设计，只需关注您的业务并提出简单的问题来讲述您的数据故事，然后与人们分享。（columns.ai）</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1emx2q7/as_a_business_leader_you_do_not_need_to_know_data/</link>
+      <description><![CDATA[        提交人    /u/columns_ai   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1emx2q7/as_a_business_leader_you_do_not_need_to_know_data/</guid>
+      <pubDate>Thu, 08 Aug 2024 04:37:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>为非技术业务领导者构建一个简单的 BI</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1emwo2y/build_a_simple_bi_for_nontechnical_business_leader/</link>
+      <description><![CDATA[这是我的目标：为想要讲述数据故事的非技术业务领导者构建一个简单的 BI。 目前，在连接您的数据后，Columns AI 可以谈论  有关您的数据的统计数据和摘要。 在表格视图中显示数据样本。 构建要分享的洞察查询和图表。 找到最适合您的故事的主题。  这里有一个主题演示 - AI 风格    提交人    /u/columns_ai   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1emwo2y/build_a_simple_bi_for_nontechnical_business_leader/</guid>
+      <pubDate>Thu, 08 Aug 2024 04:14:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>查看我的新应用程序，通过网上购物赚取慈善捐款！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1emwj4p/check_out_my_new_app_to_earn_charity_donations/</link>
+      <description><![CDATA[      我刚刚发布了一款名为 AllGives 的 iOS 应用：一个拥有 300 多家商店的购物平台，您的消费可以产生传统的现金返还和慈善捐款！您获得的收益高于大多数其他现金返还网站，我希望大家尝试一下。欢迎任何反馈，如果您真的想帮助我，在 App Store 上点击 5 星将大有帮助！ https://preview.redd.it/1it1inab7dhd1.jpg?width=1179&amp;format=pjpg&amp;auto=webp&amp;s=b948840e6e7b43853c3322aa1f63d07527644622    提交人    /u/ExcellentBake9887   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1emwj4p/check_out_my_new_app_to_earn_charity_donations/</guid>
+      <pubDate>Thu, 08 Aug 2024 04:07:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fiona AI 正在出售！🔑</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1emw3ug/fiona_ai_is_for_sale/</link>
+      <description><![CDATA[我们有个令人兴奋的消息——Fiona AI 正在寻找新家！🔍 想象一下，您手边有一位由 GPT-4 提供支持的超级智能助手。Fiona AI 可以回答您最棘手的问题、撰写电子邮件、阅读文章，并随时随地帮助您处理几乎任何事情。这就像在您的 Chrome 浏览器中拥有自己的副驾驶一样。 为什么您会喜欢 Fiona AI  由 ChatGPT 提供支持：Fiona 使用先进的 GPT-4，使其超级智能和高效。 多功能：无论是撰写电子邮件、回答棘手的问题还是阅读文章，Fiona 都能满足您的需求。 易于使用只需将其添加到 Chrome 并开始聊天即可。就这么简单！ 基于顶级框架构建：Fiona AI 使用了一些最流行、最强大的框架，因此您知道它可靠且功能强大。  包含的内容  Fiona API：包含所有正确的工具、脚本和依赖项，以确保一切顺利运行。 Fiona AI (v2.2.3)：完整版，随时可供您接管并使其更加出色。  Fiona AI 背后的技术 Fiona AI 使用一些最好的技术和框架构建，以确保其性能如梦如幻：  Next.js：用于服务器呈现的 React 应用。 React：用于构建用户接口。 Tailwind CSS：一个实用程序优先的 CSS 框架，用于快速 UI 开发。 Supabase：一个开源的 Firebase 替代品，用于构建安全且性能卓越的后端。 Ant Design：一个具有高质量组件的流行 UI 框架。 Vite：一个超快且现代的 Web 项目构建工具。  来自开发者的心声： 我们长期全身心投入到 Fiona AI 的开发中。这是一项热爱的劳动，我们有点舍不得放弃。但是，运行和管理它已经超出了我们的能力范围。我们真心希望有人能接手 Fiona AI，帮助它充分发挥潜力。 🌟 如何获取 Fiona AI： 如果您有兴趣，请将您的报价单发送至 [support@fionaai.com](mailto:support@fionaai.com)，让我们实现这一目标！ 不要错过这个拥有出色 AI 助手的机会，它可以改变您的工作和在线互动方式。 了解有关 Fiona AI 的更多信息：主页    提交人    /u/FechinLi   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1emw3ug/fiona_ai_is_for_sale/</guid>
+      <pubDate>Thu, 08 Aug 2024 03:44:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>ReactStudyKit</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1emvy44/reactstudykit/</link>
+      <description><![CDATA[🚀 吐槽我们的业余项目，帮助我们让它变得更好！🔥 嘿，React 开发者们！👋 我们一直在开发 ReactStudyKit 作为一个业余项目，帮助工程师在交互式编码挑战、抽认卡等方面保持敏锐。我们希望得到您的诚实反馈（越吐槽越好），以帮助我们为 React 爱好者构建终极平台。 查看并告诉我们：  什么很棒？ 什么不好？ 什么需要尽快修复？  欢迎所有反馈，从 UI 怪癖到功能创意。让我们一起把它打造成最好的 React 学习工具！   由    /u/ReactStudyKit  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1emvy44/reactstudykit/</guid>
+      <pubDate>Thu, 08 Aug 2024 03:36:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>怀疑</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1emvqsb/doubt/</link>
+      <description><![CDATA[伙计们，我刚刚购买了域名 dou.bt。请为我提出一些有关此域名的 saas 想法。🙏    提交人    /u/UN_Security_General   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1emvqsb/doubt/</guid>
+      <pubDate>Thu, 08 Aug 2024 03:25:18 GMT</pubDate>
+    </item>
     <item>
       <title>超好玩的Z世代社交工具-Emooji</title>
       <link>https://www.reddit.com/r/SideProject/comments/1emvcd8/super_fun_gen_z_social_toolemooji/</link>
@@ -27,7 +97,7 @@
       <pubDate>Thu, 08 Aug 2024 02:15:21 GMT</pubDate>
     </item>
     <item>
-      <title>批判我的登陆页面和产品理念，mercurai 是一个面向小型企业和初创企业的社交媒体营销助理。</title>
+      <title>批判我的登陆页面和产品理念，mercurai 是一位面向小型企业和初创企业的社交媒体营销助理。</title>
       <link>https://www.reddit.com/r/SideProject/comments/1emu8hw/roast_my_landing_page_and_product_idea_mercuriai/</link>
       <description><![CDATA[基本服务是社交媒体营销助理，可生成营销角度、脚本创意、目标受众、基本创意和标题副本。（如果有人因为它是 LLM 包装器而对此大加指责，您是对的，但也有点错，因为我根据 tiktok 和 reels 创意数据集对 LLM 进行了微调，所以嘘） 还有这个创作者“指南针”，可让您找到内容创作者和其他 Instagram 或 TikTok 帐户，以根据您的产品与之合作推广您的产品。因此，当您是一家软件公司时，您不会得到健康影响者的推荐。 前几天我读了一篇文章，讲的是人们不再看广告，而是使用创作者营销，我想把它融入到这个产品中。  最后一项服务是一种为 B2B 公司手动生成潜在客户的方法，这些潜在客户会迎合他们的销售产品，并在 48 小时内交付。我知道已经有几十种这样的服务了，但我的会更便宜。（我不知道是否会把它实现到 MVP 中，虽然工作量太大了。） 显然，如果我的想法显示出一些希望，并且暗示它不是垃圾，我会添加更多功能。 但请给我关于我的想法和登陆页面的任何反馈。顺便说一句，我还在上高中，所以不要太严厉（建设性的，不是个人的） 如果你有兴趣，请给我私信。不要填写表格，我还没有完成后端。只是想要反馈。 网站是： https://mercurial-seven.vercel.app/ 直到我的愚蠢的 DNS 更新 感谢阅读    提交人    /u/Wheatstore   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1emu8hw/roast_my_landing_page_and_product_idea_mercuriai/</guid>
@@ -39,76 +109,6 @@
       <description><![CDATA[        由    /u/doganarif 提交   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1emsf4n/i_built_a_productivity_tool_with_ai_to_beat/</guid>
       <pubDate>Thu, 08 Aug 2024 00:44:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>我在学习 SwiftUI 的同时，制作了一个适用于 iOS 的 Apple Music 客户端</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1emrvhj/i_made_an_apple_music_client_for_ios_while/</link>
-      <description><![CDATA[      嘿，Apple Music 粉丝们！ 我在学习 SwiftUI 和自己使用 Apple Music API 时制作了 Extreme Music。我想其他人也会觉得它很有趣！Extreme Music 仍处于早期阶段。该应用程序旨在为您提供更加可定制的用户体验，并附加更多功能，例如： https://preview.redd.it/dmz1vu2w1chd1.png?width=1366&amp;format=png&amp;auto=webp&amp;s=71f2a1472eaae8988d29f18cb7534e622e7b1118  Last.fm scrobbling 内置 Shazam  自动将已识别的歌曲添加到播放列表中 即时查看歌曲的艺术家/专辑或花絮  主题颜色和自定义（更多功能即将推出） 歌曲花絮 艺术家简历，Instagram 更好的播放列表和收藏/库管理  在 App Store 上下载    提交人    /u/Ok-Airport8778   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1emrvhj/i_made_an_apple_music_client_for_ios_while/</guid>
-      <pubDate>Thu, 08 Aug 2024 00:18:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>救命！！！ --- 伸缩光剑项目。您觉得怎么样？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1emrr41/help_retractable_lightsaber_project_what_do_you/</link>
-      <description><![CDATA[我正在制作一把可伸缩的光剑复制品，需要一些关于可反复拉伸的超弹性耐用管的建议。计划如下： 设计理念：  伸缩系统：一根长伸缩管，顶部有一个向外延伸的盖子。 超弹性管：一根超级弹性的管子，可随伸缩管上下拉动，保持绷紧。应可轻松延伸超过 5 倍以跟上伸缩管。  为什么采用这种设计？  光线偏转：随着伸缩管变窄，它为光线偏转提供了更多空间（我将在里面放置 NeoPixel LED 灯带）。 耐用性：这种设计应能更好地处理冲击，使光剑能够进行决斗。 外观：顶部的盖子略微向外延伸，光剑将看起来完全呈圆柱形。  挑战 我一直在研究不同的材料，但大多数选择似乎都是实验性的，或者仅在可以拉伸到那么远的科学实验室中可用。 问题：是否有一种更简单、市售的管状材料，可以轻松拉伸超过 5 倍，并且耐用性可变且合适对于这个项目？ 任何建议或想法都将不胜感激！谢谢！    由    /u/tegrimmius 提交   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1emrr41/help_retractable_lightsaber_project_what_do_you/</guid>
-      <pubDate>Thu, 08 Aug 2024 00:12:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了简历……高度个性化</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1emrab3/i_made_resumes_hyperpersonalized/</link>
-      <description><![CDATA[        提交人    /u/freakH3O   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1emrab3/i_made_resumes_hyperpersonalized/</guid>
-      <pubDate>Wed, 07 Aug 2024 23:51:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>我认为我的应用程序解决了一个问题：使用二维码获取更多 Google 评论！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1emr2rr/my_app_i_think_solve_a_problem_get_more_google/</link>
-      <description><![CDATA[      大家好， 我创建了一个出色而简单的工具，可帮助企业轻松获得更多 Google 评论！此网络应用可生成二维码，将客户直接引导至您的“Google 商家”评论页面，减少点击次数并增加获得评论的可能性。 工作原理： 生成二维码：输入您的“Google 商家”页面网址。 显示二维码：将其用于收据、名片上，或在您的商店中展示。 获得更多评论：客户扫描二维码并轻松留下评论。 好处： 点击次数更少：直接链接到您的评论页面。 用户友好：简单易用。 多个位置：为每个位置生成不同的二维码。 如果您想提高评论量，请查看此应用！ https://www.qrfed.co/ https://preview.redd.it/dc2l484yvbhd1.png?width=288&amp;format=png&amp;auto=webp&amp;s=0414b69f91f990617bcd2906aa18243de8f2f190    提交人    /u/wedwin53   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1emr2rr/my_app_i_think_solve_a_problem_get_more_google/</guid>
-      <pubDate>Wed, 07 Aug 2024 23:41:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找创意</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1emqe4w/looking_for_ideas/</link>
-      <description><![CDATA[大家好！希望你们都很好，我是新手哈哈（中级程序员），目前用 Javascript、HTML、CSS、Python 编写代码，正在学习 C、Rust。 我刚满 18 岁，我的大学申请迫在眉睫，大概是今年 10 月，因此我正在寻找创建小型副项目的想法，以便可以添加到我的简历和申请中。 非常感谢您的帮助。    提交人    /u/darkpanda2006   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1emqe4w/looking_for_ideas/</guid>
-      <pubDate>Wed, 07 Aug 2024 23:10:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>我正在开发一个网站，帮助人们离开 Reddit 并自动在 Lemmy 上找到他们的社区。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1emqcrh/im_working_on_a_site_that_helps_people_migrate/</link>
-      <description><![CDATA[  由    /u/rglullis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1emqcrh/im_working_on_a_site_that_helps_people_migrate/</guid>
-      <pubDate>Wed, 07 Aug 2024 23:09:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>我马上需要一份工作，请查看</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1emq60n/i_need_a_job_immediately_please_see/</link>
-      <description><![CDATA[大家好。希望你们一切顺利。我是一名刚毕业的物理学家，来自土耳其，自学成才的软件开发人员。自 2024 年 1 月毕业以来，我一直在找工作。我已经努力在软件开发领域找工作 6-7 个月了。我知道有很多人也在努力找工作，而且可能找工作的时间比我长，但不知何故，这个过程和每一天的流逝都令人沮丧，让你对自己产生不好的想法和不合适的想法。 无论如何，我急需工作。我可以做任何类型的 Web 开发和部分移动应用程序开发工作。我有大约 1.5 年的专业工作经验。我经验丰富，熟练掌握各种技术。以下是我所具备的技术技能列表：  HTML、CSS、JS、TS、SCSS、Bootstrap、Tailwind.css、jQuery、React、React Native、Redux-Toolkit、Expo、PHP/Laravel、Node.js、Express.js、Next.js、MySQL、MongoDB、Mongoose ORM、Socket.io、REST API 开发、响应式 Web 开发、算法和数据结构、OOP  我愿意从事自由职业、兼职或基于合同/项目的工作。谢谢！    提交人    /u/physFx   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1emq60n/i_need_a_job_immediately_please_see/</guid>
-      <pubDate>Wed, 07 Aug 2024 23:01:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了百万美元主页的区块链版本</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1empr4t/i_made_a_blockchain_version_of_the_million_dollar/</link>
-      <description><![CDATA[我从事 Web 应用开发已有 20 年，我曾想过，“为什么没有人在区块链上这样做？”。 实际上，我 5 年前就开发了该应用，作为尝试 dapp 钱包集成的一种方式，但当时还为时过早，而且 ETH 费用昂贵。现在，Base L2 解决了这个问题，并对体验进行了重大改进（hello mobile），我让它重新焕发生机，并获得了基础构建者社区的关注。 将像素放在链上的优势在于，您的提交将永远成为区块链历史的一部分。一旦我构建了 NFT 组件，您将拥有自己的主页部分，该部分可以在将来出售或更新。 在这里查看：https://millionbithomepage.com/ 我期待您的反馈，并希望看到人们在主页上放了什么！    提交人    /u/LegendOfJeffrey   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1empr4t/i_made_a_blockchain_version_of_the_million_dollar/</guid>
-      <pubDate>Wed, 07 Aug 2024 22:43:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>帮助您离开 Instagram 的电子邮件服务</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1emoyax/an_email_service_to_help_you_leave_instagram/</link>
-      <description><![CDATA[如果您感兴趣，请查看案例研究，如果您愿意，请在最后留下您的姓名。 问题：社交媒体很容易进入，而且免费 - 有时甚至令人愉快 - 但它是以用户幸福为代价的，让人们陷入“孤独在一起”的环境中，而不是真正相互联系的环境中。 解决方案：使用 Meta 的 API，Epilog 允许您注销并将社交媒体用作工具，而不是让它通过电子邮件发送您选择的提要来利用您。    提交人    /u/Potential-Sock3061   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1emoyax/an_email_service_to_help_you_leave_instagram/</guid>
-      <pubDate>Wed, 07 Aug 2024 22:10:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>体验 Next.js、Material Designs 和 Tailwind CSS 与 Flowbite React 相结合的强大功能。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1emnq6j/experience_the_power_of_nextjs_material_designs/</link>
-      <description><![CDATA[使用 MaterialM 基于 Tailwind CSS 的免费 Next.js 模板创建令人惊叹的 Web 应用。享受免费的预构建组件、速度和灵活性。 免费下载 - https://www.wrappixel.com/templates/materialm-free-nextjs-admin-template/ https://preview.redd.it/6un1znfl5bhd1.png?width=794&amp;format=png&amp;auto=webp&amp;s=774bcb1340f0526961a067947095a916e8c0ba52    提交人    /u/isanjayjoshi   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1emnq6j/experience_the_power_of_nextjs_material_designs/</guid>
-      <pubDate>Wed, 07 Aug 2024 21:20:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
