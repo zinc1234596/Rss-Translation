@@ -4,7 +4,49 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Thu, 08 Aug 2024 06:19:49 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Aug 2024 09:14:43 GMT</lastBuildDate>
+    <item>
+      <title>Wormle：一款日常文字游戏，使用我在日常工作中学到的技术栈制作</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1en19yc/wormle_a_daily_word_game_made_using_a_tech_stack/</link>
+      <description><![CDATA[  由    /u/die_back  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1en19yc/wormle_a_daily_word_game_made_using_a_tech_stack/</guid>
+      <pubDate>Thu, 08 Aug 2024 09:10:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要帮忙</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1en0v68/need_help/</link>
+      <description><![CDATA[我知道这不是字幕，但我看到有人在制作字幕渲染，你是如何制作的，我试过用 image magic 来做，但是 imagemagic 没有用，我遇到了问题，我不知道你是如何使用渲染来制作动画的，也请帮忙    提交人    /u/neoteric_labs1   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1en0v68/need_help/</guid>
+      <pubDate>Thu, 08 Aug 2024 08:43:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>设计理念建议</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1en0ivz/suggestion_for_design_ideas/</link>
+      <description><![CDATA[大家好，我正在开发一款应用，它可以显示水果的营养成分，并根据你选择的水果制作冰沙食谱。我已经完成了功能，但在 UI 创意上遇到了瓶颈。我已经在 Dribbble 和 Figma 上浏览了好几天，但没有什么特别突出的。我加入这个社区已经有一段时间了，你们创建的应用既实用又美观，这让我一直很惊讶。你能分享一些技巧吗？谢谢！    提交人    /u/AgreeableVanilla7193   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1en0ivz/suggestion_for_design_ideas/</guid>
+      <pubDate>Thu, 08 Aug 2024 08:19:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Geilio Timer 现已在 Product Hunt 上线！🎉</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1emz9hb/geilio_timer_is_now_live_on_product_hunt/</link>
+      <description><![CDATA[大家好，我很高兴地宣布，我们的新应用 Geilio Timer 现已在 Product Hunt 上线！🎉 查看并通过在 Product Hunt 上给我们点赞来表示您的支持！🙌 https://www.producthunt.com/posts/geilio-timer Geilio Timer 是高效管理时间的终极工具，专为考试准备、烹饪、锻炼等而设计。凭借其时尚的界面和强大的功能，您将再也不会忘记时间。 主要特点：  可在 3 个级别内自定义计时器名称和持续时间 专为考试进度跟踪而设计 精美的简约设计 带有大时钟的易于阅读的计时器显示 多种警报声音可供选择  App store：https://apps.apple.com/lt/app/geilio-timer/id6446805524 Google play：https://play.google.com/store/apps/details?id=com.geilio.android.timer    由   提交  /u/Odd_Bother_1627   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1emz9hb/geilio_timer_is_now_live_on_product_hunt/</guid>
+      <pubDate>Thu, 08 Aug 2024 06:54:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>不要错过重要通知。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1emz687/dont_miss_important_notifications/</link>
+      <description><![CDATA[        提交人    /u/Silent_Window848   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1emz687/dont_miss_important_notifications/</guid>
+      <pubDate>Thu, 08 Aug 2024 06:48:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>合并社会-评价我的网站</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1emyzyd/merge_society_rate_my_website/</link>
+      <description><![CDATA[        提交人    /u/Low-Marionberry-8781   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1emyzyd/merge_society_rate_my_website/</guid>
+      <pubDate>Thu, 08 Aug 2024 06:36:27 GMT</pubDate>
+    </item>
     <item>
       <title>[招聘] 自由网页开发人员</title>
       <link>https://www.reddit.com/r/SideProject/comments/1emyks5/hiring_freelance_web_developer/</link>
@@ -67,48 +109,6 @@
       <description><![CDATA[🚀 吐槽我们的业余项目，帮助我们让它变得更好！🔥 嘿，React 开发者们！👋 我们一直在开发 ReactStudyKit 作为一个业余项目，帮助工程师在交互式编码挑战、抽认卡等方面保持敏锐。我们希望得到您的诚实反馈（越吐槽越好），以帮助我们为 React 爱好者构建终极平台。 查看并告诉我们：  什么很棒？ 什么不好？ 什么需要尽快修复？  欢迎所有反馈，从 UI 怪癖到功能创意。让我们一起把它打造成最好的 React 学习工具！   由    /u/ReactStudyKit  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1emvy44/reactstudykit/</guid>
       <pubDate>Thu, 08 Aug 2024 03:36:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>怀疑</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1emvqsb/doubt/</link>
-      <description><![CDATA[伙计们，我刚刚购买了域名 dou.bt。请为我提出一些有关此域名的 saas 想法。🙏    提交人    /u/UN_Security_General   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1emvqsb/doubt/</guid>
-      <pubDate>Thu, 08 Aug 2024 03:25:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>超好玩的Z世代社交工具-Emooji</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1emvcd8/super_fun_gen_z_social_toolemooji/</link>
-      <description><![CDATA[🥳只需将您的单词翻译成有趣的表情符号，即可为与朋友的对话增添趣味，让您的社交帖子更具吸引力！您还可以将其用作派对游戏，将电影名称、歌曲名称或名言翻译成表情符号，并挑战您的朋友猜出它们。这是让任何聚会活跃起来的好方法    提交人    /u/There_ssssa   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1emvcd8/super_fun_gen_z_social_toolemooji/</guid>
-      <pubDate>Thu, 08 Aug 2024 03:04:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>过去两年来我一直在独自开发一款奇幻 Roguelike 游戏</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1emv81w/a_fantasy_roguelike_ive_been_solodeveloping_for/</link>
-      <description><![CDATA[      这里有一个链接，有兴趣的人可以看看！ https://store.steampowered.com/app/2266780/Ascendant/?utm_source=s    提交人    /u/Vortexile   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1emv81w/a_fantasy_roguelike_ive_been_solodeveloping_for/</guid>
-      <pubDate>Thu, 08 Aug 2024 02:58:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个漂亮的配料成本计算器</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1emuc8o/i_made_a_beautiful_ingredient_cost_calculator/</link>
-      <description><![CDATA[我通常不怎么烘焙/烹饪，但我的妻子卖肉桂卷和其他甜食，她想确保自己能盈利地销售它们。因此，作为一名软件工程师，我自然而然地为她制作了一个工具来帮助她实现这一目标。我希望得到反馈。 https://endvr.app/endvr-calc    提交人    /u/apyrexvision   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1emuc8o/i_made_a_beautiful_ingredient_cost_calculator/</guid>
-      <pubDate>Thu, 08 Aug 2024 02:15:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>批判我的登陆页面和产品理念，mercurai 是一位面向小型企业和初创企业的社交媒体营销助理。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1emu8hw/roast_my_landing_page_and_product_idea_mercuriai/</link>
-      <description><![CDATA[基本服务是社交媒体营销助理，可生成营销角度、脚本创意、目标受众、基本创意和标题副本。（如果有人因为它是 LLM 包装器而对此大加指责，您是对的，但也有点错，因为我根据 tiktok 和 reels 创意数据集对 LLM 进行了微调，所以嘘） 还有这个创作者“指南针”，可让您找到内容创作者和其他 Instagram 或 TikTok 帐户，以根据您的产品与之合作推广您的产品。因此，当您是一家软件公司时，您不会得到健康影响者的推荐。 前几天我读了一篇文章，讲的是人们不再看广告，而是使用创作者营销，我想把它融入到这个产品中。  最后一项服务是一种为 B2B 公司手动生成潜在客户的方法，这些潜在客户会迎合他们的销售产品，并在 48 小时内交付。我知道已经有几十种这样的服务了，但我的会更便宜。（我不知道是否会把它实现到 MVP 中，虽然工作量太大了。） 显然，如果我的想法显示出一些希望，并且暗示它不是垃圾，我会添加更多功能。 但请给我关于我的想法和登陆页面的任何反馈。顺便说一句，我还在上高中，所以不要太严厉（建设性的，不是个人的） 如果你有兴趣，请给我私信。不要填写表格，我还没有完成后端。只是想要反馈。 网站是： https://mercurial-seven.vercel.app/ 直到我的愚蠢的 DNS 更新 感谢阅读    提交人    /u/Wheatstore   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1emu8hw/roast_my_landing_page_and_product_idea_mercuriai/</guid>
-      <pubDate>Thu, 08 Aug 2024 02:10:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>我利用人工智能开发了一款生产力工具来克服拖延症。想要访问吗？DM</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1emsf4n/i_built_a_productivity_tool_with_ai_to_beat/</link>
-      <description><![CDATA[        由    /u/doganarif 提交   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1emsf4n/i_built_a_productivity_tool_with_ai_to_beat/</guid>
-      <pubDate>Thu, 08 Aug 2024 00:44:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
