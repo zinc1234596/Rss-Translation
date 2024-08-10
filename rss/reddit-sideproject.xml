@@ -4,7 +4,77 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Fri, 09 Aug 2024 21:12:21 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Aug 2024 01:02:05 GMT</lastBuildDate>
+    <item>
+      <title>按使用量付费！可与任何 API 一起使用！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1eog7ov/pay_as_you_go_use_with_any_api/</link>
+      <description><![CDATA[  由    /u/NewOCLibraryReddit  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1eog7ov/pay_as_you_go_use_with_any_api/</guid>
+      <pubDate>Sat, 10 Aug 2024 00:53:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>我构建的 AI SQL 编辑器现在使用 RAG 支持完全自然语言到 SQL 的转换。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1eoen6a/ai_sql_editor_i_built_now_supports_complete/</link>
+      <description><![CDATA[大家好，我从过去几个月开始构建一个 AI SQL 编辑器，一个月前我推出了 https://sqlpilot.ai。这是一个相当不错的发布，但它是第一个版本，并且有一些限制。 用户必须手动提及生成查询所需的表。 现在有了最新更新，我添加了知识库支持，您可以在其中标记数据库表，为 LLM 添加一些示例查询和自定义规则。  使用知识库，应用程序将自动选择相关表，一些示例查询供 LLM 参考以获得更好的输出 此外，现在您可以使用自己的 Open AI 密钥，因此使用起来很免费 我想让大家看看演示并提供反馈。 将很快再次推出产品！ 产品链接 -&gt; https://sqlpilot.ai https://reddit.com/link/1eoen6a/video/6u7gcrww4qhd1/player    提交人    /u/Purple_Minute_4776   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1eoen6a/ai_sql_editor_i_built_now_supports_complete/</guid>
+      <pubDate>Fri, 09 Aug 2024 23:38:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找 beta 用户并获取反馈</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1eoeizo/looking_for_beta_users_and_get_feedback/</link>
+      <description><![CDATA[大家好， 我和朋友们一起创建了这个应用程序。它允许您使用手机的 LiDAR 扫描您的环境并用相机捕捉颜色，从而创建 3D 模型。您可以使用它来记录诸如晚餐、您去过的地方的回忆，甚至是地板上的脏衣服之类的东西。您可以编辑它们并添加过滤器。然后，朋友们可以在您的模型中的任何位置留言，您可以在手机上以 VR 方式体验它。 https://reddit.com/link/1eoeizo/video/psj01k934qhd1/player    提交人    /u/Rich-Cartoonist9633   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1eoeizo/looking_for_beta_users_and_get_feedback/</guid>
+      <pubDate>Fri, 09 Aug 2024 23:33:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>我厌倦了失去伟大的商业创意——因此我构建了世界上最快的应用程序来捕捉它们。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1eodjvo/i_was_tired_of_losing_great_business_ideasso_i/</link>
+      <description><![CDATA[像你们中的许多人一样，我曾尝试将商业创意保存在 Twitter 草稿、Apple Notes 或 Evernote 中。但这些应用程序加载和导航所需的几秒钟会扼杀我的动力。 这种挫败感促使我今天早些时候创建了 Business Idea Vault。 此应用程序旨在即时捕捉您的想法，加载时间不到一秒。此外，您可以将其直接保存到手机的主屏幕，让您快速、一键访问。 我还实现了持久身份验证，因此当您点击图标时，您就可以立即编写和保存您的想法 - 不再因缓慢、臃肿的应用程序而失去灵感。 我很想听听您关于如何使其更好或更有用的想法。欢迎分享任何反馈或想法 - 我最初只是将其作为编码项目进行开发，但如果其他人发现它有用，我很乐意改进它！    提交人    /u/NeverOutOfMoves   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1eodjvo/i_was_tired_of_losing_great_business_ideasso_i/</guid>
+      <pubDate>Fri, 09 Aug 2024 22:51:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>总是有一个项目</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1eod1vw/always_have_a_project/</link>
+      <description><![CDATA[        提交人    /u/r3tnuh3   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1eod1vw/always_have_a_project/</guid>
+      <pubDate>Fri, 09 Aug 2024 22:29:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了一个 Chrome 扩展程序来帮助您在社交媒体上撰写人工智能回复</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1eod0cm/i_created_a_chrome_extension_to_help_you_write/</link>
+      <description><![CDATA[我为自己创建了这个 chrome 扩展程序，开发起来真的很有趣。然后，我决定将它公开并让人们使用它，也许我们可以通过用户的反馈发展出一个很棒的解决方案。一些反馈开始出现。我很高兴与你们分享它，我称之为 Viral Reply。 https://chromewebstore.google.com/detail/viral-reply/pfjjbnmkklcneeonaciogjclnnicnjdk 它适用于 LinkedIn 和 Twitter，可以添加更多平台。由于一些限制，目前无法添加 Instagram 和 Facebook。  有些用户被建议添加 YouTube，因为它可能有助于在视频下撰写有创意的评论，但很难获取视频内容，也很难知道用户打算在视频的哪一部分写回复。有什么想法吗？ 我希望你喜欢它。也请让我知道你的反馈。    提交人    /u/codecomplete   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1eod0cm/i_created_a_chrome_extension_to_help_you_write/</guid>
+      <pubDate>Fri, 09 Aug 2024 22:28:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>决定出售我的 Figma 插件的源代码，该插件的总用户数超过 34k，每周用户数超过 500。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1eoctg6/decided_to_sell_the_source_code_for_my_figma/</link>
+      <description><![CDATA[        提交人    /u/FreeBeing6867   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1eoctg6/decided_to_sell_the_source_code_for_my_figma/</guid>
+      <pubDate>Fri, 09 Aug 2024 22:20:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>👉 宣布 `ts-stub`！🔥 > 存根您的构建，再也不用“监视和重建”。> 旨在改进您的 typescript monorepo/workspaces DX。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1eocou6/announcing_tsstub_stub_your_build_and_never_watch/</link>
+      <description><![CDATA[        提交人    /u/renatorib   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1eocou6/announcing_tsstub_stub_your_build_and_never_watch/</guid>
+      <pubDate>Fri, 09 Aug 2024 22:14:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用工具创建登陆页面时你最讨厌什么？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1eocfrx/what_did_you_hate_the_most_when_using_tools_to/</link>
+      <description><![CDATA[  由    /u/joaogonzalez  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1eocfrx/what_did_you_hate_the_most_when_using_tools_to/</guid>
+      <pubDate>Fri, 09 Aug 2024 22:04:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>我花了 14 个月的时间构建免费 SaaS VisualFlows.io</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1eobsxn/my_14month_journey_building_my_free_saas/</link>
+      <description><![CDATA[       由    /u/VisualSitemaps  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1eobsxn/my_14month_journey_building_my_free_saas/</guid>
+      <pubDate>Fri, 09 Aug 2024 21:38:10 GMT</pubDate>
+    </item>
     <item>
       <title>打造智能股票选择器 - Lektify 为您服务</title>
       <link>https://www.reddit.com/r/SideProject/comments/1eoaek2/built_a_smart_picker_for_stocks_heres_lektify/</link>
@@ -39,76 +109,6 @@
       <description><![CDATA[        提交人    /u/simonmatthews   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1eo7ov4/slow_down_today_and_write_a_journal_whats_on_your/</guid>
       <pubDate>Fri, 09 Aug 2024 18:49:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>刚刚推出了一款用于生成新鲜、热门的 B2B 销售线索的 SaaS – 希望得到您的反馈！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1eo7hfd/just_launched_a_saas_for_generating_fresh_warm/</link>
-      <description><![CDATA[大家好， 我们最近成立了一家 SaaS 公司，专注于帮助 B2B 企业生成新鲜、热门的潜在客户。我们服务背后的想法是简化潜在客户生成流程，使公司更容易找到并联系高质量的潜在客户。 我们刚刚推出了我们的网站，非常感谢您提供的任何反馈。具体来说，我们正在寻找有关如何改善用户体验、设计和整体消息传递的建议。我们希望确保我们的价值主张清晰，并且访问者了解使用我们服务的好处。 这是我们网站的链接：https://www.efluence.se 欢迎分享任何想法或建议 - 无论是关于设计、内容还是您认为可以改进的任何其他内容。我们渴望将其打造为 B2B 企业的最佳工具，您的意见将非常有价值。 提前感谢您的帮助！    提交人    /u/Addefadde   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1eo7hfd/just_launched_a_saas_for_generating_fresh_warm/</guid>
-      <pubDate>Fri, 09 Aug 2024 18:40:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>从头开始的神经网络</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1eo7dmb/neural_network_from_scratch/</link>
-      <description><![CDATA[      https://i.redd.it/6ccmly66nohd1.gif 我最近从头开始构建了一个神经网络，以探索人工神经网络和生物神经网络之间的差异。 在此处查看代码！  该代码还包括对该过程的全面且有教育意义的解释！     提交人    /u/thinkingprotons   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1eo7dmb/neural_network_from_scratch/</guid>
-      <pubDate>Fri, 09 Aug 2024 18:36:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>我是如何在 5 天内建立博客并撰写有关 Neon 与 Supabase 的详细文章的。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1eo7a0k/how_i_built_a_blog_in_5_days_and_wrote_a_detailed/</link>
-      <description><![CDATA[大家好 👋 我在 5 天内从头开始构建了一个 Nextjs 功能齐全的 mdx 博客。  🗓️ 最好的部分？我写了一篇关于 Neon 和 Supabase 的详细比较，现在发布在我的博客上。如果您对开发工具感兴趣并想查看，您可以在此处找到帖子。  旅程 🛠️ 我开始了为期一周的挑战，从头开始构建一个功能齐全且视觉上吸引人的博客。  下面是我使用的堆栈的简要介绍：  框架：Next.js，用于快速高效的服务器端渲染。 样式：Tailwind CSS，因为我想要一个干净、响应迅速的设计，而又不需要麻烦。 数据库：Prisma 与 Neon 数据库配对 - 非常容易设置和扩展。 MDX 支持：我喜欢用 Markdown 写作，所以我集成了 MDX 以增强内容灵活性。 身份验证：Clerk 实现无缝用户身份验证 - 绝对改变游戏规则。 动画和图标：Framer Motion 和 Heroicons，用于打造精致的 UI。 UI 组件：Radix UI，用于可访问和可自定义的组件。  体验⚡ 在这个项目上花了 5 天时间，让我能够仔细规划、执行和完善博客的各个方面。 下面是我分解的方法：  第 1-2 天：Claude + 15 年的技术经验（如何使用谷歌）😀 第 3-5 天：撰写 Neon 与 Supabase 的比较帖子。  最大的省时工具之一是 GPT-4 和 Claude 3.5  比较🧐 作为博客发布的一部分，我写了一篇Neon 和 Supabase 之间的全面比较。 两者都是很棒的无服务器数据库，但它们有差异，我想深入了解它们的区别。如果您正在考虑将其中任何一种用于您的下一个项目，请务必阅读。 以下是博客文章中涵盖内容的预览：  性能基准 🚀 定价明细 💸 开发人员体验和工具🛠️ 生态系统和社区支持🤝  检查一下！ 如果您对技术堆栈感到好奇，或者想查看 Neon 和 Supabase 之间的详细比较，请查看博客文章这里。 我很想听听您对博客和比较的看法。 如果您对我使用的堆栈/AI或流程有任何疑问，请随时提问。快乐编码😊  PS：是的，登陆页面需要大量工作，但重点是建立一个博客并撰写一篇关于一个很棒的开发人员工具及其开源的好文章。是的，请随时发送贡献，也许是关于您最喜欢的开发工具的博客文章，或者如果您有想法我下一步应该写什么。请发送。   PSS：我上个月在 Neon 工作，但我的合同结束了，因此有了博客文章的想法。  希望你喜欢这个比较，如果我犯了任何错误，请告诉我，我会更新。     提交人    /u/thewritingwallah   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1eo7a0k/how_i_built_a_blog_in_5_days_and_wrote_a_detailed/</guid>
-      <pubDate>Fri, 09 Aug 2024 18:32:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>周末磨练</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1eo6if1/weekend_grind/</link>
-      <description><![CDATA[所以，我最近想到了一个社交媒体应用程序的想法，在这个应用程序中，您可以通过发布帖子、评论、喜欢、分享和浏览等获得加密货币作为奖励。这是一个有趣的项目，我想在这个周末开始并完成它。我还计划在应用程序内建立一个市场，人们可以在其中提供商品或服务以换取加密货币。你觉得这个怎么样？另外，如果你觉得这很有趣，请加入 r/themediacoin 。    提交人    /u/LooseMeaning3622   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1eo6if1/weekend_grind/</guid>
-      <pubDate>Fri, 09 Aug 2024 18:01:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>条纹替代品</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1eo67wh/alternative_to_stripe/</link>
-      <description><![CDATA[我经营一家数字代理机构，我无缘无故被 Stripe 封锁了，无法取回账户。  什么是 Stripe 的最佳替代品？  基本上，我对支付处理器的主要需求是，一旦我获得了客户的信用卡信息，我就可以自动向客户收费。    提交人    /u/amzbiz   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1eo67wh/alternative_to_stripe/</guid>
-      <pubDate>Fri, 09 Aug 2024 17:50:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>什么样的登陆页面能说服您注册一个尚不存在的产品？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1eo67tz/whats_a_landing_page_that_convinced_you_to_sign/</link>
-      <description><![CDATA[基本上，我正在寻找软件甚至硬件产品的优质登陆页面的灵感，即使最终产品当时尚不存在，也能说服您注册候补名单。 认为这是建立初始受众并衡量对产品兴趣的好方法    提交人    /u/nadimify   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1eo67tz/whats_a_landing_page_that_convinced_you_to_sign/</guid>
-      <pubDate>Fri, 09 Aug 2024 17:49:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>我应该完成这个副业吗</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1eo609v/should_i_finish_this_side_project/</link>
-      <description><![CDATA[创业想法  我一直在研究这个有助于订阅定价的代码。  它会获取当天的激活用户数，并在可以调整的特定时间报告订阅模型应该是什么样的，同时预测 MRR 以及公司在该月达到该 MRR 的可能性，具体方法是通过电子邮件发送给管理员。  我正在寻找有关如何改进应用程序的建议。 我还没有发布该网站，但如果您希望在应用程序发布时收到通知，请 PM。  我应该继续这个想法还是应该放弃它？     提交人    /u/ilovefoodnfruits   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1eo609v/should_i_finish_this_side_project/</guid>
-      <pubDate>Fri, 09 Aug 2024 17:41:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>订阅银行卡（链接中的候补名单）</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1eo6041/subscription_banking_card_waitlist_in_link/</link>
-      <description><![CDATA[大家好。 我和我的团队正在创建一些东西来帮助日常消费者使用，以便我们可以更好地控制我们如何互动和购买订阅。仍处于早期开发阶段和谈判阶段，因此一切尚无定论。  （我们正在讨论的一个潜在功能是打开/关闭订阅开关。由于我们可以通过 Consolimate Card 标记付款，因此我们可以随意停止付款，而无需用户手动进入订阅门户并关闭它，这样他们就可以随意打开和关闭不同的订阅  示例 1：我有时会在流媒体服务之间切换。《龙之屋》的新一季在 HBO 上结束，这是我使用 HBO Max 的唯一原因。我不想完全取消，所以我关闭了 HBO Max 的付款，并打开了另一项流媒体服务的付款，这让我重新获得了想看的东西。 示例 2：我是订阅盒子的一致订单。我每个月订购的健身盒这个月有一个糟糕的盒子，我不想要它，所以我只需关闭这个月的付款，就可以对所有的如果我愿意，我可以每月订购一个盒子。   较低价格锁定：购买时，许多订阅为消费者提供两种选择，月费，通常要高得多。或年费，价格较低。然而，缺点是较低的年费将一次性从您的帐户中扣除，许多消费者无法看到从他们的帐户中扣除的全部年度金额。订阅银行卡会为您预先支付该费用，而您仍然可以按月付款。 服务共享：目前，许多人共享流媒体服务等服务。这可能是针对生活在不同或共享家庭或室友情况下的家人和亲密朋友。Consolimate Card 连接到每个用户的借记卡，并将每月循环每个用户的付款，因此成本平均分摊，而不是由一个人承担。   我们正在为链接的候补名单签名。我们需要您的帮助来构建它。 https://silent-voice-20832.myflodesk.com/m3cek6o2cl    提交人    /u/AccomplishedBox9130   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1eo6041/subscription_banking_card_waitlist_in_link/</guid>
-      <pubDate>Fri, 09 Aug 2024 17:41:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>构建即使失败也能带来回报的项目</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1eo5974/build_projects_that_pays_off_even_if_they_fail/</link>
-      <description><![CDATA[对我而言，一个行之有效的策略是构建项目，帮助我更快地发布产品，并在每次发布时产生更大的影响，并为它们定价。这可能是任何问题，可能需要您花费 3 小时到几天的时间来解决，为此构建一个工具，例如前端样板。保持产品不变，带来一个独特的功能。  我在大约 8 个月内完成了 4 个项目，其中 2 个失败，收入为 0 美元。它们很酷，但对我没有任何帮助。  我的第三个项目在创业社区中很受欢迎，它可以立即创建一个仪表板，无需任何帮助，并在本地机器上运行。所以下次我发布产品时，我不必制作仪表板！它节省了好几天的时间！！[无法分享链接，因为我直接销售它] 这是我下个月要发布的另一个工具：VocalizeYourScript。它可以检测并为每个角色分配不同的声音，并在几秒钟内根据脚本为我制作完整的画外音，无需进一步编辑。如果有人想查看，我已将其附加在链接中。 TL;DR：构建解决您自己的开发问题的工具。它们将加速您未来的项目，甚至可能赚钱。    提交人    /u/mr_fondleberry   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1eo5974/build_projects_that_pays_off_even_if_they_fail/</guid>
-      <pubDate>Fri, 09 Aug 2024 17:10:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>查看 Snippet Hive：保存和共享代码片段的地方</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1eo4wsv/check_out_snippet_hive_a_place_to_save_and_share/</link>
-      <description><![CDATA[大家好！ 我们制作了一些很酷的东西想与你们分享。它叫做 Snippet Hive (https://snippethive.com/)。这是一个网站，你可以在其中保存遇到的所有有用的代码片段。 你可以用它做以下事情：  保存你最喜欢的代码片段 按你喜欢的方式对它们进行分组 查找并使用其他人分享的片段  我们创建了 Snippet Hive，因为我们厌倦了总是搜索相同的代码解决方案。此外，我们认为如果开发人员可以彼此分享他们的首选代码片段会很棒。 如果你们可以尝试一下并让我知道您的想法，我们会很高兴！    提交人    /u/Loose_Dark_8024   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1eo4wsv/check_out_snippet_hive_a_place_to_save_and_share/</guid>
-      <pubDate>Fri, 09 Aug 2024 16:57:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
