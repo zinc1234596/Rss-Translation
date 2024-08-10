@@ -4,7 +4,84 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Sat, 10 Aug 2024 15:13:27 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Aug 2024 18:16:44 GMT</lastBuildDate>
+    <item>
+      <title>有什么很棒的开源项目吗？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1eozdr1/any_awesome_open_source_projects/</link>
+      <description><![CDATA[嗨，我想知道是否有任何很棒的开源项目我可以贡献？ 我对系统编程、分布式系统、应用人工智能/机器学习感兴趣。 此外，我最近一直在研究这个分布式系统存储库，如果其他人想贡献（目前为 66 ⭐️s）：https://github.com/basilysf1709/distributed-systems    提交人    /u/basilyusuf1709   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1eozdr1/any_awesome_open_source_projects/</guid>
+      <pubDate>Sat, 10 Aug 2024 18:05:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能可以搜索互联网，为你总结任何主题的最新消息</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1eozb55/ai_that_searches_internet_for_you_to_summarise/</link>
+      <description><![CDATA[厌倦了错过您所在领域的重要更新？ 被源源不断的新闻淹没？ SnapNews 消除干扰，直接向您提供最相关、最个性化的信息。轻松获取最新信息。  它是以下各项的组合： - Google 搜索 API - GPT-4o mini API - Perplexity API 您输入 - 您感兴趣的 主题（可以是提示） - 间隔 您希望多久接收一次摘要新闻 我的 AI 引擎采取的步骤： - GPT，了解主题（提示）并为 Google API 生成 3 个搜索查询 - Google 搜索在给定的间隔内为每个查询获取 10 个结果&gt; - Google 搜索还会获取“旧闻”将这些查询排除在摘要之外 - GPT 审查所有结果，过滤掉旧新闻，验证哪些结果与给定的 主题 相关&gt; - GPT 将过滤后的链接传递给 Perplexity，后者打开它们并创建 Newsletter - 最终的 Newsletter 发送到用户的电子邮件地址 告诉我你对此的看法。好的、坏的、潜在的改进，任何可以帮助我改进它的东西。    提交人    /u/Technical_Ad_6200   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1eozb55/ai_that_searches_internet_for_you_to_summarise/</guid>
+      <pubDate>Sat, 10 Aug 2024 18:02:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>Chrome Dino 游戏除了恐龙外，还通过智能手机光传感器上的大量光线来控制！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1eoydle/chrome_dino_game_except_the_dino_is_controlled_by/</link>
+      <description><![CDATA[        由    /u/yotta_mind 提交   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1eoydle/chrome_dino_game_except_the_dino_is_controlled_by/</guid>
+      <pubDate>Sat, 10 Aug 2024 17:22:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>打造角色 AI 与游戏结合的应用</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1eoyacc/built_a_character_ai_meets_gaming_app/</link>
+      <description><![CDATA[欢迎您提供任何反馈！  https://apple.co/4frrtWn    由    /u/mrocke 提交   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1eoyacc/built_a_character_ai_meets_gaming_app/</guid>
+      <pubDate>Sat, 10 Aug 2024 17:18:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Converay - 快速简单的图像和视频转换器和调整器</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1eoy6og/converay_quick_simple_image_video_converter/</link>
+      <description><![CDATA[        由    /u/NetworkEducational81   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1eoy6og/converay_quick_simple_image_video_converter/</guid>
+      <pubDate>Sat, 10 Aug 2024 17:13:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么我的 saas 用户会永远留下来</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1eoy4td/why_my_saas_users_are_staying_forever/</link>
+      <description><![CDATA[如果不与用户交谈，就无法发展 saas，我总是花费所有时间来倾听他们和他们的想法，这就是我决定创建一个工具来为我做到这一点的原因。FeedMySaaS.com。🎉 它专为希望随时了解用户对其产品的需求、想法和感受的 SaaS 创始人而设计。 使用 FeedMySaaS，您可以轻松创建一个专用页面，您的用户可以在其中：- 提交建议和想法 💡 - 报告错误 🐞 - 提供一般反馈和想法 💬 最好的部分？用户可以对建议投赞成票，因此您将清楚地了解哪些功能和改进对您的社区最重要。这可以彻底改变您的路线图优先级，并确保您正在构建用户真正想要的东西。 这是一个真实的例子，说明您的用户将获得什么，我很乐意从您这里看到 从这里FeedMySaaS.com创建一个帐户并发布您的项目。    提交人    /u/Still_Advance_1201   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1eoy4td/why_my_saas_users_are_staying_forever/</guid>
+      <pubDate>Sat, 10 Aug 2024 17:11:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了 https://www.nextstarbucksdrink.com/。这是一个与其他星巴克爱好者见面和交流的地方，您可以在这里分享您最喜欢的饮品。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1eoy3fl/i_built_httpswwwnextstarbucksdrinkcom_the_place/</link>
+      <description><![CDATA[    /u/Environmental_Act346   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1eoy3fl/i_built_httpswwwnextstarbucksdrinkcom_the_place/</guid>
+      <pubDate>Sat, 10 Aug 2024 17:09:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Chew：一个将各种内容类型处理为纯文本的库</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1eoxv3p/chew_a_library_to_process_various_content_types/</link>
+      <description><![CDATA[       由    /u/m_matongo  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1eoxv3p/chew_a_library_to_process_various_content_types/</guid>
+      <pubDate>Sat, 10 Aug 2024 17:00:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的副业 - EasyOfficeApps.com</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1eoxi06/my_side_project_easyofficeappscom/</link>
+      <description><![CDATA[我们花了大约 6 个月的时间打造了 EasyOfficeApps.com。虽然熬了很多个不眠之夜，但我们玩得很开心。我们还有很多工作要做。我们推出了每月仅需 19.99 美元的无限套餐；以便快速吸引用户，以便我们获得他们的反馈并找到需要改进的错误或领域。我们正考虑在 PH 上推出一周后提高价格。即将推出：EasyOfficeApps.com | Product Hunt 这是一款经济实惠的包裹跟踪、工单、库存管理、清单和生产力跟踪解决方案，更多应用程序即将推出。    提交人    /u/MillsLink   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1eoxi06/my_side_project_easyofficeappscom/</guid>
+      <pubDate>Sat, 10 Aug 2024 16:44:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>我开发了一个我真正需要的应用程序</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1eoxb74/i_built_an_app_that_i_really_needed/</link>
+      <description><![CDATA[也许它也能帮到你。 我意识到我每个月要花 40 多美元订阅那些我几乎用不到的东西。我忘记的流媒体服务，我下载过一次的应用程序 - 诸如此类的东西。 一开始，我很好奇为什么应用程序不让你手动设置续订日期？这样我就可以安排它们在月底全部续订，并留出一天时间来查看费用。 我很快意识到这种情况不可能发生，所以我开发了下一个最好的东西：Subscription Magician (SubMagician.com) - 一个免费的订阅跟踪器。 它是免费使用的，虽然还有很多需要改进的地方，但核心功能已经具备了。 我会继续努力，希望得到您的反馈。   由    /u/bgdnandrew  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1eoxb74/i_built_an_app_that_i_really_needed/</guid>
+      <pubDate>Sat, 10 Aug 2024 16:36:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的暑期项目。一款使用 AI 管理所有连接的可视化笔记应用程序（https://www.yboard.ai/）</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1eowaab/my_project_for_the_summer_a_visual_notetaking_app/</link>
+      <description><![CDATA[        提交人    /u/Academic-Yak-6486   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1eowaab/my_project_for_the_summer_a_visual_notetaking_app/</guid>
+      <pubDate>Sat, 10 Aug 2024 15:53:04 GMT</pubDate>
+    </item>
     <item>
       <title>我开发了一款 100% 免费的键盘工具来提高您的工作效率！剪贴板管理器、计算器、日历等...</title>
       <link>https://www.reddit.com/r/SideProject/comments/1eov6ae/i_built_a_100_free_keyboard_tool_to_boost_your/</link>
@@ -32,83 +109,6 @@
       <description><![CDATA[        提交人    /u/Comfortable_Tiger530   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1eothdn/i_made_a_dapp_to_turn_any_website_into_a/</guid>
       <pubDate>Sat, 10 Aug 2024 13:49:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>Chrome 的 Spaces 插件</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1eotfu1/spaces_plugin_for_chrome/</link>
-      <description><![CDATA[大家好，我很高兴地宣布，Chrome 的新插件 MySpaces 已获得 Chrome 商店的批准！它可让您创建和组织空间，从而更轻松地管理项目。我很乐意听听您的想法和反馈！ https://chromewebstore.google.com/detail/myspaces/jgnmoggiaklbkpgcjfmjfalhannpifad?authuser=4&amp;hl=en-GB    提交人    /u/Adi-Melisov   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1eotfu1/spaces_plugin_for_chrome/</guid>
-      <pubDate>Sat, 10 Aug 2024 13:47:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>对我的插件的反馈 - UX 写作优化</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1eossdu/feedback_for_my_plugin_ux_writing_optimization/</link>
-      <description><![CDATA[几个月前，我发布了一款 Google Chrome 扩展程序 (https://www.languify.ai/)，它可以优化任何网站上的副本，以获得更好的用户体验和搜索引擎优化 (UX) 。 因此，无论您是成功的版权所有者、有抱负的博主，还是管理在线形象的小企业主，此工具都是改进产品副本的最简单解决方案。  现在，我还将此工具移植到 Figma 插件中，以便设计师也可以提供经过 SEO 优化且副本就绪的项目。 您觉得如何？请随意吐槽。 https://www.figma.com/community/plugin/1403744290528023500/languify-ai-optimise-your-ux-writing     提交人    /u/Temy4000   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1eossdu/feedback_for_my_plugin_ux_writing_optimization/</guid>
-      <pubDate>Sat, 10 Aug 2024 13:15:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们创建了一个网站，为您创建由人工智能驱动的每日个性化新闻播客。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1eosayf/we_created_a_website_that_creates_you_a_daily/</link>
-      <description><![CDATA[      欢迎您通过链接试用我们的免费测试版。    提交人    /u/Appropriate_Exit8236   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1eosayf/we_created_a_website_that_creates_you_a_daily/</guid>
-      <pubDate>Sat, 10 Aug 2024 12:51:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个不受干扰的 YouTube 客户端 - Tubiee</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1eorib8/i_made_a_distraction_free_youtube_client_tubiee/</link>
-      <description><![CDATA[        提交人    /u/HonestNest   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1eorib8/i_made_a_distraction_free_youtube_client_tubiee/</guid>
-      <pubDate>Sat, 10 Aug 2024 12:09:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻求有关我的任务管理和提醒应用程序的新功能的反馈！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1eoq74s/seeking_feedback_on_a_new_feature_for_my_task/</link>
-      <description><![CDATA[您好， 我目前正在开发一款名为 Ranti 的任务管理应用，很想听听您对我刚刚添加的新功能的看法。 新功能：  链接文件夹：  您现在可以将任何链接直接保存到应用内的特殊文件夹中，并设置提醒以重新访问这些链接。 它非常适合跟踪文章、资源或任何您想要稍后重新访问的在线内容。  应用触发的提醒：  您可以为保存在这些文件夹中的链接设置特定应用以触发提醒。 例如，如果您将应用设置为触发器，则在使用该应用时会弹出一个工作表，提醒您该链接。 该工作表包含一个按钮，按下该按钮会触发提醒。   我想知道：  您觉得这有用吗？ 您对这些功能的用户体验有何看法？ 有什么改进建议吗？  我很高兴收到您的反馈，并非常感激任何使这些功能变得更好的建议。我附上了一个演示视频。提前谢谢您！ https://reddit.com/link/1eoq74s/video/lam1uiqrgthd1/player   由    /u/Moy_ore  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1eoq74s/seeking_feedback_on_a_new_feature_for_my_task/</guid>
-      <pubDate>Sat, 10 Aug 2024 10:51:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>创办内容写作机构</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1eoq66l/starting_a_content_writing_agency/</link>
-      <description><![CDATA[这是小菜一碟吗？ 比如说，我的主要关键词“内容写作机构”排名第一，并且我从排名第一的搜索中获得了 30% 的点击率，获得了咨询、线索和交易。 我真的能从中做生意吗？    提交人    /u/Tagowner   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1eoq66l/starting_a_content_writing_agency/</guid>
-      <pubDate>Sat, 10 Aug 2024 10:49:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>批量图片裁剪器 - 免费，无需登录且隐私保护</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1eoq2au/bulk_image_cropper_free_no_login_privacy_friendly/</link>
-      <description><![CDATA[大家好！我在这里启动我的一个工具。这是一个批量图片裁剪器。试试看吧！ 它 100% 保护隐私，这意味着您的图片不会发送到任何服务器进行裁剪。一切都发生在您的设备上。 所有其他工具在处理时都会在其服务器上保留您的图片副本。您不能 100% 确定您的图片之后会被删除。 但如果您使用此工具，我保证您的图片永远不会离开您的计算机。它们会留在您的设备上并在那里进行处理。因此，它 100% 保护隐私。而且，它是免费的！ https://imagetoolshub.com/tools/bulk-image-cropper/    提交人    /u/_blueseal   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1eoq2au/bulk_image_cropper_free_no_login_privacy_friendly/</guid>
-      <pubDate>Sat, 10 Aug 2024 10:43:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>视觉内容如何提高参与度？寻求有关信息图表工具的反馈</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1eopsc2/how_can_visual_content_improve_engagement_seeking/</link>
-      <description><![CDATA[您是否厌倦了无休止地滚动和阅读长篇文章？想要快速掌握博客文章或网站的精髓？一种创新的工具，可在几秒钟内将任何 URL、主题或内容转换为视觉上引人入胜的信息图表卡片！ 使用 GraphicInfo，您可以：  立即生成信息图表：只需输入 URL、主题或内容，然后让我们的 AI 完成剩下的工作。您将获得一个制作精美的信息图表，突出显示关键点。 在社交媒体上轻松分享：我们的信息图表专为快速分享而设计。无论是用于 Twitter、Facebook 还是 Reddit，只需单击一下即可传播信息。 节省时间并简化沟通：当您可以进行可视化时，为什么还要阅读？在快照中获取所需信息，并轻松与观众分享。     提交人    /u/ParadiseAI   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1eopsc2/how_can_visual_content_improve_engagement_seeking/</guid>
-      <pubDate>Sat, 10 Aug 2024 10:24:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>您会选择传统的社交媒体还是基于隐私的社交媒体？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1eoply2/would_you_pick_traditional_social_media_or/</link>
-      <description><![CDATA[大家好！我想问一下这里有多少人使用社交媒体但可能对其使用有顾虑，例如隐私问题。 查看投票    提交人    /u/Scary_Medium_5536   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1eoply2/would_you_pick_traditional_social_media_or/</guid>
-      <pubDate>Sat, 10 Aug 2024 10:12:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 Publishizer 上众筹一本书——关于这个过程我学到的一些知识</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1eop5yx/crowdfunding_a_book_on_publishizer_a_bit_about/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1eop5yx/crowdfunding_a_book_on_publishizer_a_bit_about/</guid>
-      <pubDate>Sat, 10 Aug 2024 09:42:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>我应该比较候补名单中的用户数量吗？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1eoouef/should_i_compare_the_number_of_users_in_my/</link>
-      <description><![CDATA[您好，我最近启动了一个 [等候名单](https://listfast.me)，我得到了一些用户和反馈，这让我很高兴。 首先，我想知道您是否曾经制作过等候名单？以及您设法收到了多少封电子邮件？ 最后，一旦我知道您有多少用户，比较结果是否有用？ 谢谢。    提交人    /u/yllaevv   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1eoouef/should_i_compare_the_number_of_users_in_my/</guid>
-      <pubDate>Sat, 10 Aug 2024 09:20:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
