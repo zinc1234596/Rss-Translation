@@ -4,7 +4,35 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Sat, 10 Aug 2024 01:02:05 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Aug 2024 03:17:39 GMT</lastBuildDate>
+    <item>
+      <title>以任何你喜欢的风格阅读经典书籍</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1eoiril/read_classic_books_in_any_style_you_want/</link>
+      <description><![CDATA[      嘿，爱书人！ 📚💻 有没有想过用全新的风格阅读经典文学会是什么感觉？现在你可以了！ 想象一下罗密欧与朱丽叶，但都是消极被动的 Instagram DM。或者也许是夏洛克福尔摩斯通过 TikTok 视频破案？🕵️‍♂️📱 我创建了一款应用程序，可让您以任何您能想到的风格阅读任何经典书籍。它就像一台带有现代气息的文学时光机。🚀 想在 BeReal 上看《了不起的盖茨比》作为一系列派对帖子吗？还是伊丽莎白班纳特在推特上吐槽潜在的追求者？这款应用让这一切成为可能。🎉🔥 最好的部分？它完全免费。您可以在此处查看：https://superguten.vercel.app 我对结果感到非常兴奋。欢迎在评论中分享您对书籍和风格组合的想法！我敢打赌你们都能想出一些有创意的想法。🤯 让我们将古典文学带入 21 世纪！📚✨ 在此处查看应用程序 =&gt; https://superguten.vercel.app 而且，只是为了好玩，这里有一个《道林·格雷的画像》以 GenZ 风格开场的演示 :D 演示    提交人    /u/alvisanovari   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1eoiril/read_classic_books_in_any_style_you_want/</guid>
+      <pubDate>Sat, 10 Aug 2024 03:02:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>我正在工作的媒体平台</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1eohctj/media_platform_i_am_working_on/</link>
+      <description><![CDATA[仍在进行中。但支持音乐和电影。您可以添加开放目录以扫描媒体或添加您的 iptv 提供商频道列表。  让我知道你的想法。现在免费。 https://zymo.tv    由   提交  /u/CheapBison1861   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1eohctj/media_platform_i_am_working_on/</guid>
+      <pubDate>Sat, 10 Aug 2024 01:50:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>帮助技术兄弟提升其应用的吸引力</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1eoh98e/help_a_tech_bro_get_some_traction_for_his_app/</link>
+      <description><![CDATA[嗨，我经营一家移动应用开发机构，这是我们兼职开发的第三个应用。我们主要做客户工作， 该应用以简短的 IG 风格故事总结科技新闻，请查看。欢迎任何反馈、批评等，以下是链接 https://play.google.com/store/apps/details?id=whatshot.android    提交人    /u/rohithexa   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1eoh98e/help_a_tech_bro_get_some_traction_for_his_app/</guid>
+      <pubDate>Sat, 10 Aug 2024 01:45:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>验证想法</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1eoh3vw/validating_ideas/</link>
+      <description><![CDATA[大家好，我想问一下你们验证一个想法需要多长时间。这很麻烦吗？还是对你来说不是什么大问题？    提交人    /u/Ok-Top-333   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1eoh3vw/validating_ideas/</guid>
+      <pubDate>Sat, 10 Aug 2024 01:38:06 GMT</pubDate>
+    </item>
     <item>
       <title>按使用量付费！可与任何 API 一起使用！</title>
       <link>https://www.reddit.com/r/SideProject/comments/1eog7ov/pay_as_you_go_use_with_any_api/</link>
@@ -13,7 +41,7 @@
       <pubDate>Sat, 10 Aug 2024 00:53:28 GMT</pubDate>
     </item>
     <item>
-      <title>我构建的 AI SQL 编辑器现在使用 RAG 支持完全自然语言到 SQL 的转换。</title>
+      <title>我构建的 AI SQL 编辑器现在支持使用 RAG 完成自然语言到 SQL 的转换。</title>
       <link>https://www.reddit.com/r/SideProject/comments/1eoen6a/ai_sql_editor_i_built_now_supports_complete/</link>
       <description><![CDATA[大家好，我从过去几个月开始构建一个 AI SQL 编辑器，一个月前我推出了 https://sqlpilot.ai。这是一个相当不错的发布，但它是第一个版本，并且有一些限制。 用户必须手动提及生成查询所需的表。 现在有了最新更新，我添加了知识库支持，您可以在其中标记数据库表，为 LLM 添加一些示例查询和自定义规则。  使用知识库，应用程序将自动选择相关表，一些示例查询供 LLM 参考以获得更好的输出 此外，现在您可以使用自己的 Open AI 密钥，因此使用起来很免费 我想让大家看看演示并提供反馈。 将很快再次推出产品！ 产品链接 -&gt; https://sqlpilot.ai https://reddit.com/link/1eoen6a/video/6u7gcrww4qhd1/player    提交人    /u/Purple_Minute_4776   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1eoen6a/ai_sql_editor_i_built_now_supports_complete/</guid>
@@ -81,34 +109,6 @@
       <description><![CDATA[      大家好， 我很高兴与大家分享我一直在研究的一个名为Lektify的项目的 MVP。不久前，当我决定开始投资时，我萌生了创建 Lektify 的想法。像许多初学者一样，我得到的建议是“只需投资标准普尔 500 指数，然后忘掉它”。对于新手来说，这个建议还不错，但随着我对特定行业和细分市场的兴趣越来越浓厚，我发现自己不知所措，不知道从哪里开始。 我发现了 GICS 分类，但它仍然感觉太过笼统。例如，如果我想搜索“非洲的铜矿开采”或“Crowdstrike 竞争对手”，我意识到没有很好的工具可以获得这些特定结果。这就是 Lektify 的作用所在。但我想更进一步。 我的一位交易员朋友说他经常投资间接需求。这是什么意思？好吧，如果您想投资人工智能，90％的交易者都会选择谷歌、微软、Nvidia等知名公司。但最好的交易者也会寻找间接受益的公司 - 比如那些提取用于生产 GPU 的硅的公司。 因此，Lektify 不仅仅为您提供显而易见的结果。它还向您显示了间接需求，分为原材料、加工材料和劳务。 这是尝试的链接：lektify.com https://preview.redd.it/th5hyafn8phd1.png?width=1554&amp;format=png&amp;auto=webp&amp;s=eb9d68427a19b0dc4ef02482f52d6326a8e6f08a    由    /u/zecdev 提交   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1eoaek2/built_a_smart_picker_for_stocks_heres_lektify/</guid>
       <pubDate>Fri, 09 Aug 2024 20:41:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>批量重命名和自动文件夹组织应用程序</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1eo9q3u/batch_renaming_and_automatic_folder_organization/</link>
-      <description><![CDATA[        由    /u/Worried-Two2231  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1eo9q3u/batch_renaming_and_automatic_folder_organization/</guid>
-      <pubDate>Fri, 09 Aug 2024 20:13:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>TokHook - 人工智能驱动的 TikTok 洞察</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1eo8qvh/tokhook_ai_powered_tiktok_insights/</link>
-      <description><![CDATA[我很高兴与大家分享我的最新项目 TokHook。这是一个由人工智能驱动的平台，有助于优化 TikTok 钩子，从而有效吸引观众的注意力。我们的功能包括 A/B 钩子测试、钩子分析、情绪识别、视觉新颖性检测、转录优化和 TikTok 社区指南对内容的审核。这些工具可以显著增强 TikTok 内容并提高参与度。 我很乐意听到您对 TokHook 发布的反馈和支持。感谢这次机会！    提交人    /u/Ok-Toe-9527   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1eo8qvh/tokhook_ai_powered_tiktok_insights/</guid>
-      <pubDate>Fri, 09 Aug 2024 19:32:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果我们合作会怎么样？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1eo888o/what_if_we_partnered_up/</link>
-      <description><![CDATA[大家好， 我在想，如果我们合作一下会怎么样？我是 Bryan，我在肯尼亚经营一家软件和网页设计机构。我管理着一支由六名训练有素、能力强的开发人员组成的团队。尽管我们技术娴熟，但我们在收入方面遇到了障碍，主要是因为定制软件开发在这里没有得到充分重视。 这就是为什么我想与一家需要有能力的开发人员的软件或网页设计机构合作。我们会及时、专业地处理您的任务。有点像将您的开发外包给我们。为了证明我们的价值，我愿意为任何感兴趣的人开发一个免费的软件系统。如果这听起来像你愿意做的事情，请随时联系我们！    提交人    /u/StationClean1960   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1eo888o/what_if_we_partnered_up/</guid>
-      <pubDate>Fri, 09 Aug 2024 19:11:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>今天放慢脚步，写一篇日记。你在想什么？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1eo7ov4/slow_down_today_and_write_a_journal_whats_on_your/</link>
-      <description><![CDATA[        提交人    /u/simonmatthews   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1eo7ov4/slow_down_today_and_write_a_journal_whats_on_your/</guid>
-      <pubDate>Fri, 09 Aug 2024 18:49:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
