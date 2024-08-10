@@ -4,7 +4,56 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Sat, 10 Aug 2024 18:16:44 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Aug 2024 21:13:28 GMT</lastBuildDate>
+    <item>
+      <title>厌倦了荒谬的汽车保险报价（英国）——建立一项服务来提供帮助。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ep321q/tired_of_ridiculous_car_insurance_quotes_uk_built/</link>
+      <description><![CDATA[专为帮助英国人购买汽车保险而构建（英国现在很乱 - 未来可能会为美国建立一个；如果这个有好的反馈 + 有需求） 它仍处于开发的早期阶段。 但本质就在这里。 3 个主要服务（目前全部免费）：  按平均保险价格排序的汽车 目标是帮助新司机快速找到最便宜的汽车保险（平均而言） 数据仍然不是 100% 最新的 + 需要添加许多新车、品牌、型号、年份 + 过滤选项即将推出  按受欢迎程度排序的保险公司 目标是让人们对所有保险提供商进行排名，以便想要更换的人可以做出更明智的决定。 计划为每家公司添加评论部分 + 个人资料 - 允许人们留下评论等  降低您的保险报价 目标是通过更改某些细节来帮助人们降低报价。 仍然需要运行更多自动报价以查看不同变量（例如（请注意 - “汽车”和“保险公司”页面上的数据仍未更新 - 请不要基于此做出任何决定 - 这仍然是一个衡量兴趣的原型） 不断尝试使其变得更好，请随时查看 - 任何反馈意见都值得赞赏。 让我知道您认为哪些功能最有用/最没用+您认为对您有帮助的任何其他功能。 CheapInsuranceFinder (cheap-insurance-finder.vercel.app)    提交人    /u/sumin101   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ep321q/tired_of_ridiculous_car_insurance_quotes_uk_built/</guid>
+      <pubDate>Sat, 10 Aug 2024 20:51:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>带有 Firebase、Stripe 和 Mixpanel 的开源（免费）NextJS Boilerplate</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ep26iz/open_source_free_nextjs_boilerplate_with_firebase/</link>
+      <description><![CDATA[我制作了一个免费的开源 nextjs + firebase + stripe 样板，因为  对访问 git repo 收费是愚蠢的 没有人为 Firebase 制作样板，我爱谷歌爸爸  https://github.com/AgentBurgundy/fire-saas 尝试一下，让我知道它是否对您和对我一样有帮助！    提交人    /u/Bulbacode   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ep26iz/open_source_free_nextjs_boilerplate_with_firebase/</guid>
+      <pubDate>Sat, 10 Aug 2024 20:11:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>点图 - 流程图绘制工具</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ep1p3d/dot_chart_process_map_drawing_tool/</link>
+      <description><![CDATA[      前段时间，我首先为自己创建了一个工具，然后为我的学生创建了一个工具，它可以帮助绘制流程图。 目标是在与客户会面时尽可能快速、轻松地绘制流程图。 它可以根据提示或上传的 pdf 文档绘制简单的地图。它可以将点图转换为 bpmn 图和 xml 格式。 您可以在 https://dotch.art 上尝试一下。 它并不是一个巨大的成功，但它有一些回头客。 https://preview.redd.it/fnc2s7in4whd1.png?width=1245&amp;format=png&amp;auto=webp&amp;s=c191afb299e82f54f0a3098a992c124182ffc222    提交人    /u/Any_Rip2321   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ep1p3d/dot_chart_process_map_drawing_tool/</guid>
+      <pubDate>Sat, 10 Aug 2024 19:49:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何营销零粉丝的时事通讯</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ep15be/how_to_market_a_newsletter_with_zero_following/</link>
+      <description><![CDATA[大家好， 我刚刚发布了一篇关于成功交易员案例研究的新闻通讯，我开始意识到创建一家初创公司的营销部分有多么困难。我相信 Sitrafy  有潜力成为大公司，但对于一个没有追随者的人来说，我如何让成千上万的人看到它？如果有人有想法，请告诉我，当你在这里时，看看我做了什么！https://sitrafy.com    提交人    /u/5050enlightenment   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ep15be/how_to_market_a_newsletter_with_zero_following/</guid>
+      <pubDate>Sat, 10 Aug 2024 19:24:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>[WIP] 构建我的 SaaS MVP：FastSaaS - 寻求有关核心功能的反馈</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ep0n25/wip_building_my_saas_mvp_fastsaas_looking_for/</link>
+      <description><![CDATA[大家好， 我一直在努力构建一个 SaaS 样板，旨在使其在多个行业中具有多功能性和适应性。目标是帮助其他开发人员在坚实的基础上更快地启动和运行他们的项目。 以下是我迄今为止实现的：  OAuth2 集成：与 Google 无缝登录 &amp; Twitch。 Stripe 支付系统：支付流程完全集成，并配有可为用户帐户添加信用额度的 webhook。 翻译系统：添加了一个新工具栏，用于管理设置和在语言之间切换。 明暗模式：实现明暗主题，配色方案在深色调与强烈的原色和间色之间取得平衡。 用户角色系统：开发了一个用户角色系统（管理员/用户）并将其集成到数据库中。 通知：设计和动画通知以获得流畅的用户体验。 自动重新加载：使用 Angular 信号实现以保持界面响应。 交易历史记录：添加了一个模块来向用户显示交易历史记录。  下一步是什么？ （已计划）  基于用户角色的访问控制 (RBAC)：实施基于角色的访问控制以有效管理用户权限。 数据删除：确保在删除用户时，其所有数据都会从系统中删除。 模板组件：将各种模板组件添加到样板（例如表格、列表）。 邮件系统：实施用于用户注册和购买确认的邮件系统。  技术栈：  前端：Angular（最新版本） 后端：Bun with Elysia（最新版本） 数据库：MongoDB（最新版本）  我的目标是在周日晚上之前准备好 MVP！ 现在，我需要你的帮助： 我想确保这个样板尽可能全面。根据您的经验，您是否认为 SaaS 样板中还应包含我未提及的其他核心功能或组件？ 我愿意听取所有建议 - 无论是我遗漏的内容，还是您认为项目中必不可少的功能，甚至是有关如何改进现有功能的想法。在我努力完成这个 MVP 的过程中，您的反馈将非常宝贵。 期待听到您的想法！🚀    提交人    /u/Fickle_Wall3932   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ep0n25/wip_building_my_saas_mvp_fastsaas_looking_for/</guid>
+      <pubDate>Sat, 10 Aug 2024 19:01:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>移动无代码应用程序构建器</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ep0da4/mobile_no_code_app_builder/</link>
+      <description><![CDATA[是否有人想过或开发过一款移动应用，让用户无需编码即可构建和发布自己的简单到中级应用？这个想法是提供一个应用内构建器，用户可以在其中选择元素、设置功能和设计自己的应用。与其他应用构建器不同，您不必处理应用商店。相反，用户可以在主应用中创建迷你应用，其他人可以直接访问这些自定义应用。这个概念已经存在了吗，或者有人在研究类似的东西吗？    提交人    /u/Ordinary_Yam_6821   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ep0da4/mobile_no_code_app_builder/</guid>
+      <pubDate>Sat, 10 Aug 2024 18:49:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>吃AI工具有什么用？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1eozo6o/what_to_eat_ai_tool/</link>
+      <description><![CDATA[一种根据您可用的厨房食材和在线购买的食物告诉您吃什么/做什么的工具。 这将节省大量思考和选择食物的时间。 任何感兴趣的人都可以与我联系。    提交人    /u/stilldonoknowmyname   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1eozo6o/what_to_eat_ai_tool/</guid>
+      <pubDate>Sat, 10 Aug 2024 18:18:19 GMT</pubDate>
+    </item>
     <item>
       <title>有什么很棒的开源项目吗？</title>
       <link>https://www.reddit.com/r/SideProject/comments/1eozdr1/any_awesome_open_source_projects/</link>
@@ -27,7 +76,7 @@
       <pubDate>Sat, 10 Aug 2024 17:22:02 GMT</pubDate>
     </item>
     <item>
-      <title>打造角色 AI 与游戏结合的应用</title>
+      <title>开发了角色 AI 与游戏结合的应用程序</title>
       <link>https://www.reddit.com/r/SideProject/comments/1eoyacc/built_a_character_ai_meets_gaming_app/</link>
       <description><![CDATA[欢迎您提供任何反馈！  https://apple.co/4frrtWn    由    /u/mrocke 提交   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1eoyacc/built_a_character_ai_meets_gaming_app/</guid>
@@ -60,55 +109,6 @@
       <description><![CDATA[       由    /u/m_matongo  提交  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1eoxv3p/chew_a_library_to_process_various_content_types/</guid>
       <pubDate>Sat, 10 Aug 2024 17:00:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的副业 - EasyOfficeApps.com</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1eoxi06/my_side_project_easyofficeappscom/</link>
-      <description><![CDATA[我们花了大约 6 个月的时间打造了 EasyOfficeApps.com。虽然熬了很多个不眠之夜，但我们玩得很开心。我们还有很多工作要做。我们推出了每月仅需 19.99 美元的无限套餐；以便快速吸引用户，以便我们获得他们的反馈并找到需要改进的错误或领域。我们正考虑在 PH 上推出一周后提高价格。即将推出：EasyOfficeApps.com | Product Hunt 这是一款经济实惠的包裹跟踪、工单、库存管理、清单和生产力跟踪解决方案，更多应用程序即将推出。    提交人    /u/MillsLink   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1eoxi06/my_side_project_easyofficeappscom/</guid>
-      <pubDate>Sat, 10 Aug 2024 16:44:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>我开发了一个我真正需要的应用程序</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1eoxb74/i_built_an_app_that_i_really_needed/</link>
-      <description><![CDATA[也许它也能帮到你。 我意识到我每个月要花 40 多美元订阅那些我几乎用不到的东西。我忘记的流媒体服务，我下载过一次的应用程序 - 诸如此类的东西。 一开始，我很好奇为什么应用程序不让你手动设置续订日期？这样我就可以安排它们在月底全部续订，并留出一天时间来查看费用。 我很快意识到这种情况不可能发生，所以我开发了下一个最好的东西：Subscription Magician (SubMagician.com) - 一个免费的订阅跟踪器。 它是免费使用的，虽然还有很多需要改进的地方，但核心功能已经具备了。 我会继续努力，希望得到您的反馈。   由    /u/bgdnandrew  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1eoxb74/i_built_an_app_that_i_really_needed/</guid>
-      <pubDate>Sat, 10 Aug 2024 16:36:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的暑期项目。一款使用 AI 管理所有连接的可视化笔记应用程序（https://www.yboard.ai/）</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1eowaab/my_project_for_the_summer_a_visual_notetaking_app/</link>
-      <description><![CDATA[        提交人    /u/Academic-Yak-6486   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1eowaab/my_project_for_the_summer_a_visual_notetaking_app/</guid>
-      <pubDate>Sat, 10 Aug 2024 15:53:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>我开发了一款 100% 免费的键盘工具来提高您的工作效率！剪贴板管理器、计算器、日历等...</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1eov6ae/i_built_a_100_free_keyboard_tool_to_boost_your/</link>
-      <description><![CDATA[大家好，我想分享一个我一直在开发的应用，我认为它对你们中的一些人可能有用。它叫做 FlexiBoard，是一个免费的 iPhone 键盘扩展，内置了一些方便的工具。 使用 FlexiBoard，您可以获得一个剪贴板管理器来跟踪您复制的所有内容，一个内置计算器，一个日历来快速检查日期，一个即时词典和一个保存和快速插入常用文本的地方。当我需要快速查找某些内容或重复使用短语而无需重新输入时，它对我来说真的很有帮助。 注意：不会收集任何数据，所有内容都存储在您的设备本地。键盘扩展唯一连接到互联网的时间是您使用词典时。 它完全免费，所以如果您认为这些功能可以让您的生活更轻松，请随时查看。希望得到一些反馈！ 如果您喜欢它，请留下评论 :) https://apps.apple.com/lk/app/flexiboard-productivity-tools/id6504126669    提交人    /u/killMontag   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1eov6ae/i_built_a_100_free_keyboard_tool_to_boost_your/</guid>
-      <pubDate>Sat, 10 Aug 2024 15:04:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个杀手级功能</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1eov15a/i_made_a_killer_feature/</link>
-      <description><![CDATA[大家好，我刚刚推出了一个网站，我用它来总结任何在线链接，我刚刚添加了一个有趣的功能，我认为它不存在，关于一次获取多个链接摘要，您会使用这个功能吗？    提交人    /u/Any_Dragonfly_3990   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1eov15a/i_made_a_killer_feature/</guid>
-      <pubDate>Sat, 10 Aug 2024 14:58:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>最后，我如何在一个月内为我的 SaaS 吸引 1000 名用户</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1eouwf5/finally_how_i_got_1000_users_in_a_month_for_my/</link>
-      <description><![CDATA[我读过成千上万的 SaaS 成功案例，我一直想知道我是否也能写出自己的故事！尝试了几种方法后，我终于找到了一些吸引真实客户的方法。 我的应用程序的一些背景：这是一款名为 peposoft.ai 的 AI 作家应用程序。它可以撰写文章，分析 SEO 关键字、竞争对手、社交媒体描述等，我不想过多地吹嘘该应用程序，因为我来这里是为了分享我的营销故事。  带来实际客户的营销策略：  在 AppSumo 和 ProductHunt 上发布 电子邮件营销 - 我个人没有任何订阅者，我付钱给一家拥有大量订阅者的公司并请他们推荐我的应用 影响者营销 - 大多使用拥有 10,000 名或更少粉丝的微型影响者。原因：他们的参与率很高，而且符合我们的预算。 我联系了一些以我的目标受众为读者的博客，并要求他们宣传我的应用以换取金钱和/或来自我的其他博客的反向链接。 我在 YouTube 和 Instagram 上制作了有关我的应用用例的视频，并通过广告推广它们。  我希望这些技巧对你有用。    提交人    /u/Some_Connection_533   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1eouwf5/finally_how_i_got_1000_users_in_a_month_for_my/</guid>
-      <pubDate>Sat, 10 Aug 2024 14:53:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个 Dapp 来将任何网站变成对话：Crumbs - 开源 Dapp + 扩展。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1eothdn/i_made_a_dapp_to_turn_any_website_into_a/</link>
-      <description><![CDATA[        提交人    /u/Comfortable_Tiger530   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1eothdn/i_made_a_dapp_to_turn_any_website_into_a/</guid>
-      <pubDate>Sat, 10 Aug 2024 13:49:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
