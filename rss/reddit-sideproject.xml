@@ -4,7 +4,91 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Sun, 11 Aug 2024 21:14:39 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Aug 2024 01:03:43 GMT</lastBuildDate>
+    <item>
+      <title>我的 Reddit NSFW 浏览器终于​​获得了超过 1,000 名每日自然独立访客</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1eq06ap/finally_got_over_1000_unique_daily_visitors/</link>
+      <description><![CDATA[今天我的 Reddit NSFW 浏览器首次获得了超过 1K 个独立用户！ 我很高兴我的网络应用程序可以帮助人们舒适地浏览 Reddit 上的 NSFW 内容。用户群每天都在增长，SEO 确实有很大帮助。 下一步是什么？也许我会尝试与 NSFW 内容创建者合作。该应用程序确实已经有一个特色内容创建者部分，但是目前由于没有合作伙伴关系，它并不活跃。 但这是我正在努力的下一步！也许这个平台会变得更大。 看看：https://www.reddcake.com/     提交人    /u/Fit_Fee9549   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1eq06ap/finally_got_over_1000_unique_daily_visitors/</guid>
+      <pubDate>Mon, 12 Aug 2024 00:36:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>专为 AMA 粉丝打造的应用</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1epznfc/an_app_for_ama_fans/</link>
+      <description><![CDATA[我喜欢 AMA 子版块，但从来都不喜欢 Reddit 显示评论的方式，而且我认为大多数不习惯 Reddit 的人都错过了这些精彩内容。 作为一个附带项目，我正在构建一个独立的移动应用程序，其中包含： - 清晰组织问题和答案 - 即将举行的 AMA 和提醒的日历 - 最佳答案的 AI 总结  它不会被商业化，主要是个有趣的周末项目。很想在发布之前听到关于我还可以添加哪些其他功能的反馈👍    提交人    /u/ChocolateTop3131   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1epznfc/an_app_for_ama_fans/</guid>
+      <pubDate>Mon, 12 Aug 2024 00:10:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>我获得了一个法学硕士学位，它结合了 Claude 3.5、Gemini 1.5、GPT-40 和 LLama 3.1 的答案</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1epz21n/i_made_an_llm_that_combines_the_answers_from/</link>
+      <description><![CDATA[      https://preview.redd.it/8t5gkxtpe4id1.png?width=2588&amp;format=png&amp;auto=webp&amp;s=87decf351a060ff0cd9358baaa837495081e9413 想象一下将每个 LLM 的独特卖点组合成一个。 例如。 GPT-4o 更合乎逻辑，而 Claude 更具创造力，这结合了每个模型的独特卖点。 当我们与客户交谈时，他们询问我们是否可以将所有 LLM 的输出合成一个高质量的响应。 所以今天，我们推出了 Mixture AI。 Mixture AI (MoA) 是一种新颖的方法，它利用多个 LLM 的集体优势来提高性能，实现最先进的结果。 通过采用分层架构，其中每层包含多个 LLM 代理，MoA 在 AlpacaEval 2.0 上的表现显著优于 GPT-4 Omni 的 57.5%，得分为 77.1%！ 在 ChatPlayground AI 上尝试一下 https://reddit.com/link/1epz21n/video/u9xh7auqe4id1/player    由   提交  /u/Saas-builder   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1epz21n/i_made_an_llm_that_combines_the_answers_from/</guid>
+      <pubDate>Sun, 11 Aug 2024 23:43:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>第一个网络爬虫！从雅虎财经收集每分钟的股票数据</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1epyv71/first_web_scraper_collects_minute_by_minute_stock/</link>
+      <description><![CDATA[        由    /u/Spongebubs  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1epyv71/first_web_scraper_collects_minute_by_minute_stock/</guid>
+      <pubDate>Sun, 11 Aug 2024 23:34:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>应用内反馈如何改变我的产品</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1epyaoq/how_inapp_feedback_transformed_my_product/</link>
+      <description><![CDATA[当我第一次推出我的应用时，我专注于构建能够真正帮助用户实现职业道路的东西。但我很快意识到，不断改进的最佳方式是真正听取每天使用它的人的意见。 因此，我添加了一个应用内反馈表 - 它改变了游戏规则。 💬即时反馈现在，用户可以直接在应用中分享他们的想法。我不用等待评论或电子邮件，而是可以得到实时反馈，帮助我快速进行真正重要的更新。 📈更好的用户体验例如，很多用户提到他们希望导航更简单。多亏了这些反馈，我改进了应用的布局，使其更流畅、更直观。结果如何？用户更快乐，参与度更高！ 🤝 建立社区：我没想到这会在多大程度上加强与用户的联系。他们觉得自己被倾听了，这让 TalentGuide AI 变成了我们共同构建的东西。 如果您正在开发应用程序，我强烈建议您添加应用内反馈表。这不仅仅是一种收集建议的方式，它还是一种真正与用户建立联系并共同创造有价值的东西的方式。    提交人    /u/talentguide-ai   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1epyaoq/how_inapp_feedback_transformed_my_product/</guid>
+      <pubDate>Sun, 11 Aug 2024 23:08:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>世界构建和故事发展：首次展示我过去几年一直在开发的平台！Gateway Forge 是一个沙箱，里面充满了各种工具，让您可以创造、探索并沉浸在创作中。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1epy9fm/worldbuilding_and_story_development_showcasing_a/</link>
+      <description><![CDATA[        提交人    /u/GatewayForge   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1epy9fm/worldbuilding_and_story_development_showcasing_a/</guid>
+      <pubDate>Sun, 11 Aug 2024 23:07:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>FootballRoutes - 看看本赛季你的球队会走向何方🏈</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1epy9d4/footballroutes_see_where_the_season_takes_your/</link>
+      <description><![CDATA[嗨 r/SideProject 👋 作为一名狂热的 NFL 球迷，我一直认为每年发布的赛程对球队的成功起着重要作用，但这一点往往被忽视。为了进一步探索这一点，我创建了 FootballRoutes‼️ FootballRoutes 旨在帮助用户：  可视化球队的旅行计划 了解对手的关键要素 比较联盟中的后勤因素  此网络工具将为用户在设定即将到来的赛季的期望方面提供优势。  我很想听听你的想法并获得一些反馈‼️ www.football-routes.com    提交人    /u/864attack   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1epy9d4/footballroutes_see_where_the_season_takes_your/</guid>
+      <pubDate>Sun, 11 Aug 2024 23:06:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个工具来帮助你的 Github Repos 与 LLM 分享</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1epxctz/i_made_a_tool_to_help_share_your_github_repos/</link>
+      <description><![CDATA[几个月前，我创建了一个工具，用于将 GitHub 存储库的文件结构转换为 JSON，这样就可以轻松地与 LLM 共享并从存储库的布局中提供上下文。由于我没有 ChatGPT Premium，我无法直接向它提供 GitHub 存储库链接并询问存储库，因此我发现这种方法是一个很好的替代方法。该工具还允许您从 repo 中选择特定文件并轻松地将它们复制到提示中。 我花了 2-3 天的时间对其进行完善，现在已将其上传到 Vercel：https://repo-to-llm.vercel.app 该代码是开源的，可在我的 GitHub 上找到：https://github.com/Visuwanaath/RepoToLLM 请随时查看并告诉我您的想法！    提交人    /u/Visuwanaath   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1epxctz/i_made_a_tool_to_help_share_your_github_repos/</guid>
+      <pubDate>Sun, 11 Aug 2024 22:26:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>发布一个月后，仅需 300 美元即可获得一款适用于 Windows 系统的键盘快捷键</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1epx4hv/300_one_month_after_release_for_a_keyboard/</link>
+      <description><![CDATA[我大约一个月前在 Microsoft Store 上发布了 CtrlHelp。有 14 天的免费试用期。 CtrlHelp - 在 Windows | Microsoft Store 上下载并安装 在 Windows Central 上发表一篇 文章 后，它产生了 300 美元的收入。微软保留了其中的 15%。 该应用旨在通过受 Duolingo 启发的学习体验帮助人们学习他们最喜欢的应用的键盘快捷键。它还提供了一个备忘单，您可以随时通过按住 Ctrl 键（可自定义）来携带。这个想法来自于看到 MacOS 上有一个类似的应用程序，它只做备忘单，然后看到我的妻子在她的手机上使用 Duolingo。 我相信这个应用程序在盲人社区中具有巨大的潜力，因为它可以真正帮助盲人更轻松地使用键盘。另外，我花了额外的时间来完善它，使其通过屏幕阅读器超级可访问。不幸的是，我承认我不知道如何与盲人社区交谈。我发现的每个论坛都禁止自我推销。 欢迎提出建议！    提交人    /u/traditionalbaguette   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1epx4hv/300_one_month_after_release_for_a_keyboard/</guid>
+      <pubDate>Sun, 11 Aug 2024 22:16:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>我为你们创建了一个网站，以便你们了解所有关于舞曲、电子舞曲以及我们在这个领域所做的一切的最新动态。尽情享受吧 :)</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1epw58j/i_created_a_site_for_you_guys_to_get_the_newest/</link>
+      <description><![CDATA[playroom.DROPP    由   提交  /u/simonprp   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1epw58j/i_created_a_site_for_you_guys_to_get_the_newest/</guid>
+      <pubDate>Sun, 11 Aug 2024 21:34:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT 中充斥着 *** 和 ### 的文本让您感到沮丧？我开发了一款简单的工具来清理它 – GptCleaner 1.0</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1epvx74/frustrated_with_text_full_of_and_from_chatgpt_i/</link>
+      <description><![CDATA[大家好， 我最近经常使用 ChatGPT，虽然它非常强大，但我注意到一个大问题，我相信你们很多人都遇到过：它生成的文本和答案通常充斥着 `***` 和 `###` 字符。这使得复制和粘贴长段文本变得非常麻烦，尤其是当您需要手动删除所有这些格式字符时。这不仅令人沮丧，还浪费大量时间并导致非常糟糕的用户体验。  问题：  ChatGPT 的 Markdown 格式：每次从 ChatGPT 复制文本时，都会带有 Markdown 格式，其中包括表示粗体和斜体文本的 `***` 和表示标题的 `###`。 清理工作耗时：手动从长文本中删除这些字符非常繁琐且效率低下，尤其是在处理大量内容时。   解决方案：GptCleaner 1.0 为了解决这个问题，我构建了一个名为 GptCleaner 1.0 的简单工具。它专门用于清理文本，通过自动删除不需要的 ** 和 ## 字符，使您的文本干净且可立即用于文档、电子邮件或社交媒体帖子中。  工作原理：  粘贴杂乱文本：从 ChatGPT 复制带有不需要格式的文本，然后将其粘贴到 GptCleaner 中。 一键清理：单击“清理文本”，GptCleaner 将立即删除所有不需要的 `**` 和 `##` 字符。 复制清理后的文本：只需单击一下，您的文本即可复制并用于您需要的任何位置 - 无需再手动清理！   为什么这很重要： GptCleaner 1.0 可节省您的时间和精力，使您与 ChatGPT 的互动更加高效和愉快。您无需花时间删除格式，而是可以专注于真正重要的事情 - 以您想要的方式使用内容。  尝试一下： 我希望您尝试 GptCleaner 并了解它如何改善您的工作流程：https://www.gptcleaner.app/   我正在寻找反馈： 这是第一个版本，我很想听听您的想法！您是否希望看到任何功能？您遇到了什么问题？您的反馈对于帮助我改进 GptCleaner 非常有价值。 感谢您花时间查看！ TL;DR：厌倦了处理 ChatGPT 文本中的 `***` 和 `###`？我开发了 GptCleaner 1.0，只需单击一下即可自动清理文本，为您节省时间和精力。希望收到您的反馈！   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1epvx74/frustrated_with_text_full_of_and_from_chatgpt_i/</guid>
+      <pubDate>Sun, 11 Aug 2024 21:24:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Code Typer：程序员的 Type Racer（带括号自动关闭功能）</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1epvqtv/code_typer_type_racer_for_programmers_with/</link>
+      <description><![CDATA[      https://preview.redd.it/q1qnyqzsp3id1.png?width=2810&amp;format=png&amp;auto=webp&amp;s=78029e1e98ed0f1089056ab76fdc7e9fbbd28339 嗨！这是我的第一个重要项目，它是完全开源的！  在 Github 上查看。 演示已在 code-typer-409ee7fb8fa1.herokuapp.com/ 上线。 介绍 Code Typer，这是一款面向程序员的类型竞赛程序，具有 8 种不同的编码语言和来自 GitHub 的随机代码片段。受 Speedtyper.dev 的启发，我添加了自动结束括号和方括号来模拟真实的代码编辑器体验。 它仍处于早期阶段，因此缺少一些自定义功能，但核心游戏玩法已准备就绪。我希望你能访问这个仓库，为它加注星标、fork 它，并分享你的反馈！ 谢谢！    提交人    /u/Clucch   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1epvqtv/code_typer_type_racer_for_programmers_with/</guid>
+      <pubDate>Sun, 11 Aug 2024 21:17:21 GMT</pubDate>
+    </item>
     <item>
       <title>嘲笑我的想法</title>
       <link>https://www.reddit.com/r/SideProject/comments/1epvmjs/roast_my_idea/</link>
@@ -20,95 +104,11 @@
       <pubDate>Sun, 11 Aug 2024 20:48:10 GMT</pubDate>
     </item>
     <item>
-      <title>龙与地下城 维基</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1epum4a/dungeons_and_dragons_wiki/</link>
-      <description><![CDATA[大家好！我目前正在开发一个新的 DND 5e Wiki 和 Custom Homebrew 共享网站。它仍在开发中，但现在我已经拥有了职业、子职业和法术，总共约 700 多页。 这是链接！ https://www.maxdnd.com 我仍然需要种族起源、背景和专长来完成 wiki 的核心，但我每天都在添加新内容。 除此之外，我还想添加一些内容：  自制创建器：我已经有了自制职业创建 - 请参阅 https://www.maxdnd.com/homebew/class/create（需要登录）。我希望对法术、背景、种族、子职业和专长有类似的东西。这引出了我的下一个功能。 角色表：在所有角色特征上传到网站后，我将实现一个角色表创建器，您可以在其中选择所需的任何职业/子职业/种族，并自动显示您在升级时获得的任何功能。升级应该像点击按钮一样简单 - 类似于博德之门 3 中的角色升级过程。 战役管理器：实现与好友一起创建和玩战役的能力。这将允许您将某些内容列入白名单/黑名单。假设您想禁止 Echo Knight Subclass 参与您的战役。在角色创建过程中，您的玩家将看到可用的选项，以及请求特定自制内容的选项。 DM 可以批准该请求，然后玩家就可以将其添加到角色表中了。  如果您想联系，我还创建了一个 discord。 https://discord.gg/gNmJU7ZZqs    提交人    /u/SecondApprehensive46   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1epum4a/dungeons_and_dragons_wiki/</guid>
-      <pubDate>Sun, 11 Aug 2024 20:28:56 GMT</pubDate>
-    </item>
-    <item>
       <title>遐想 - 每日打电话的日记</title>
       <link>https://www.reddit.com/r/SideProject/comments/1eptfoj/reverie_journal_with_a_daily_phone_call/</link>
       <description><![CDATA[  由    /u/Potential_Action_658  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1eptfoj/reverie_journal_with_a_daily_phone_call/</guid>
       <pubDate>Sun, 11 Aug 2024 19:38:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>烤我的登陆页面</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1eps49d/roast_my_landing_page/</link>
-      <description><![CDATA[嗨，朋友们！ 我很高兴分享一个个人里程碑：我的应用获得了第一位客户的批准 为了扩大影响力，我制作了一个新的登陆页面来吸引新业务来发展我的 MVP ⬇️ https://askhedi.com/ Hedi 是一款由 IA 驱动的客户体验应用，可将客户反馈转化为可操作的见解。 但是，我面临着一个挑战——文案和产品理解。我不确定我的文字是否有效地传达了我的应用的价值。我认为承诺很明确，但产品可能不明确。 这是我需要你的帮助的地方：  文案是否清楚地传达了应用程序的功能？你明白它是什么以及它有什么作用吗？我需要添加更多产品图片吗？  有什么看起来不对劲或可以改进的地方吗？  您对增强清晰度、设计或用户体验有什么建议？ 注意：我对政策规模有争议。 这是我的第一个版本，不想在这个部分上浪费太多时间，而是专注于产品🌟  您的反馈对我来说非常宝贵！  为了表示我的感谢，如果您在查看该工具后发现它很有用，我将很高兴为您提供演示🔑 谢谢！🌟    提交人    /u/elpad92   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1eps49d/roast_my_landing_page/</guid>
-      <pubDate>Sun, 11 Aug 2024 18:42:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>刚刚发布：Padelio - 一款利用机器学习跟踪 Padel 训练的 Apple Watch 应用！🎾🚀</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1eprglu/just_launched_padelio_an_apple_watch_app_that/</link>
-      <description><![CDATA[       由    /u/kildos19  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1eprglu/just_launched_padelio_an_apple_watch_app_that/</guid>
-      <pubDate>Sun, 11 Aug 2024 18:14:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>尊敬的企业家们</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1eprex6/dear_entrepreneurs/</link>
-      <description><![CDATA[在当今竞争激烈的市场中，仅仅拥有出色的产品或服务是不够的。要真正脱颖而出并最大限度地发挥您的潜力，您需要能够带来实际效果的尖端营销策略。这就是 Build Boost Digital 的作用所在。 我们是一家一流的数字营销机构，专门制作高质量的社交媒体广告，这些广告已被证明可以提升您的品牌并推动销售。我们的专家团队确切地知道如何吸引您的受众的注意力并将其转化为您的业务收入。 为什么选择 Build Boost Digital？ • 保证结果：我们不只是承诺结果；我们做到了。我们的策略是根据您的特定业务目标量身定制的，确保最大的投资回报。• 价格实惠的卓越：高质量的营销不必花太多钱。我们提供有竞争力的价格，以便您无需超支即可获得出色的结果。 • 保持领先地位：与我们合作，您不仅可以跟上竞争的步伐，还可以将他们甩在身后。我们的创新方法可确保您的品牌保持相关性和吸引力。  不要让您的竞争对手占上风。选择 Build Boost Digital，您将选择一位致力于充分发挥您业务潜力的合作伙伴。立即联系我们，了解我们能为您的销售和收入带来哪些不同。    提交人    /u/Tricky-Bag-8684   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1eprex6/dear_entrepreneurs/</guid>
-      <pubDate>Sun, 11 Aug 2024 18:12:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻求对我的人工智能应用的一些反馈</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1epra52/looking_for_some_feedback_for_my_ai_app/</link>
-      <description><![CDATA[      大家好， 我叫 Julian，是一名全日制学生，过去一年我学习了编程，以开发应用程序。作为一个内向的人，我个人觉得与客户交谈很累，即使只是在线交谈。  尤其是当数量超过一定数量时。 这就是为什么我想构建一个可以完成这一部分的人工智能伴侣构建器。我现在有一个可用的版本，正在寻找一些人来测试它。  我非常感谢你们在 www.simulit.app 上查看它并提供一些反馈。 用户反馈伴侣如下所示： https://www.simulit.app/lm/hello716/test123    提交人    /u/jempf123   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1epra52/looking_for_some_feedback_for_my_ai_app/</guid>
-      <pubDate>Sun, 11 Aug 2024 18:07:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么我们一直都这样做？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1epr629/why_do_we_all_keep_doing_this/</link>
-      <description><![CDATA[        提交人    /u/Narrow-Dress4127   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1epr629/why_do_we_all_keep_doing_this/</guid>
-      <pubDate>Sun, 11 Aug 2024 18:02:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>我建立了一个平台，可以用你的声音即时创建游戏</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1epr21e/i_built_a_platform_to_instantly_create_games_with/</link>
-      <description><![CDATA[您好 r/SideProject！ 我是 Damiano Rodriguez，我一直在独自从事一个名为 Caisual Games 的项目。 这是一个免费平台，任何人都可以通过用语音描述来创建网页游戏。 工作原理：  描述您的游戏创意（例如，“制作一个带有 5 个升级的饼干点击游戏”）。 该平台可在几秒钟内生成可玩的网页游戏。 无需编码，无需下载 - 只需在浏览器中直接创建和玩游戏即可。 任何人都可以改进已发布的游戏。  我的目标是通过消除编码。 由于 Caisual Games 对游戏创作采用了全新而独特的方法，您的反馈对于改进和增强平台非常有用，尤其是在这一初始阶段。 这是网站：=&gt; caisual.com 我很想听听您的想法并看看您创作了什么。 附注：您也可以创建多人游戏 :-)    提交人    /u/Consensu5   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1epr21e/i_built_a_platform_to_instantly_create_games_with/</guid>
-      <pubDate>Sun, 11 Aug 2024 17:57:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>我做了一个免费的心理健康检查软件。结果既准确又令人恐惧。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1epqgel/i_made_a_free_mental_health_checkup_software_the/</link>
-      <description><![CDATA[  由    /u/Realistic-Plant3957  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1epqgel/i_made_a_free_mental_health_checkup_software_the/</guid>
-      <pubDate>Sun, 11 Aug 2024 17:32:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年最佳 IPTV reddit</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1epqcu3/best_iptv_reddit_2024/</link>
-      <description><![CDATA[IPTV GEAR 是一家顶级 IPTV 提供商，提供无与伦比的娱乐体验，拥有超过 20,000 个直播电视频道和 80,000 部电影和电视节目点播 (VOD)。无论您是在电视、电脑、平板电脑还是智能手机上观看，IPTV GEAR 都能确保您不会错过自己喜欢的内容。 功能：  超过 10,000 个频道：体验来自全球各地的各种频道。 超过 20,000 部电影和电视剧：深入了解丰富的电影和电视剧库。 高级高清和SD 频道：享受高清和标清的高质量流媒体。 24/7 全天候专门支持：随时获得全天候帮助。 支持各种设备：兼容电视、电脑、平板电脑和智能手机。 电子电视指南 (EPG)：轻松浏览频道和时间表。 防冻技术。 &amp; 99.99% 正常运行时间：享受流畅的流媒体，中断最少。  定价：  1 个月：15 美元 3 个月：30 美元 6 个月：50 美元 12 个月：80 美元  付款方式：  加密  有关更多信息，请访问 IPTV GEAR。 了解为什么 IPTV GEAR 被认为是 2024 年最佳 IPTV 提供商。凭借灵活的 IPTV 订阅选项，IPTV GEAR 在 IPTV 提供商中脱颖而出，提供优质的观看体验。    提交人    /u/Easy_Ad2499   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1epqcu3/best_iptv_reddit_2024/</guid>
-      <pubDate>Sun, 11 Aug 2024 17:28:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>小孩主题的个人网站</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1epq3kb/brat_themed_personal_website/</link>
-      <description><![CDATA[      周六晚上编写的代码：brat 主题 个人网站！ https://preview.redd.it/va1lo9r2j2id1.png?width=1822&amp;format=png&amp;auto=webp&amp;s=4b7a9d291695267753787fc663c897760afcfcb8 因为为什么不拥抱 brat 夏日氛围直到最后呢？ https://brat.aroramrinaal.com/    由   提交  /u/Clear-Page-5473   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1epq3kb/brat_themed_personal_website/</guid>
-      <pubDate>Sun, 11 Aug 2024 17:17:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>我认为我开发的产品没人想要。帮我想想下一步该怎么做？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1eppxs6/i_think_ive_built_a_product_no_one_wants_help_me/</link>
-      <description><![CDATA[大家好， 我之所以联系您，是因为我的工具有点问题，我需要一些前辈的意见。 一个月前，我推出了 FillBot，这是一款使用人工智能自动填写表格的 Chrome 扩展程序。我们的想法是帮助人力资源经理和销售代表等专业人士节省数据输入时间。 问题是，我没有看到任何真正的吸引力：  我的网站没有获得任何自然流量。 我在 LinkedIn 上联系了许多人力资源专业人士，但没有得到任何回复。 这种缺乏兴趣让我怀疑我试图解决的问题是否真的很重要。  我开始怀疑我是否误解了市场需求，或者我的方法是否错误。也许问题并不像我想象的那么紧迫，又或许我没有有效地传达价值。 目前，我不确定是否要：  继续努力并尝试不同的营销策略 以某种方式调整产品 考虑停止并转向其他产品  如果您能分享任何见解或经验，我将不胜感激。您是否遇到过类似的情况？您如何确定是坚持还是改变方向？是否有任何我可能忽略的策略可以更好地验证产品创意或接触潜在用户？ 我愿意接受诚实的反馈和建议。提前感谢您提供的任何建议。    提交人    /u/Bubbly_Gap3828   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1eppxs6/i_think_ive_built_a_product_no_one_wants_help_me/</guid>
-      <pubDate>Sun, 11 Aug 2024 17:10:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个人工智能，它可以制作有关任何主题的长而全面的视频</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1epozce/i_made_an_ai_which_can_make_long_and/</link>
-      <description><![CDATA[  由    /u/nxtnxt10  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1epozce/i_made_an_ai_which_can_make_long_and/</guid>
-      <pubDate>Sun, 11 Aug 2024 16:30:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
