@@ -4,7 +4,56 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Thu, 15 Aug 2024 03:15:47 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Aug 2024 06:19:05 GMT</lastBuildDate>
+    <item>
+      <title>我制作了一款金融应用，希望得到你对它外观的反馈</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1eso1wf/i_made_a_finance_app_and_would_love_your_feedback/</link>
+      <description><![CDATA[        提交人    /u/Entire-Grape9337   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1eso1wf/i_made_a_finance_app_and_would_love_your_feedback/</guid>
+      <pubDate>Thu, 15 Aug 2024 06:17:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何创建一个使用 Open AI API 的应用程序并将其向公众发布？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1eso0ug/how_to_create_an_app_that_uses_the_open_ai_api/</link>
+      <description><![CDATA[我仔细搜索了一番，但还是没能找到让用户使用自己的密钥的方法（当然，无需输入密钥）。我知道使用自己的密钥可能会给银行带来沉重的负担。这是我目前考虑过的：  使用 OpenAI 身份验证登录不存在（类似于“使用 Google/Facebook 登录”身份验证），它可以获取任何用户的 API 密钥。 即使我可以包含 Guid，但使用的 API 密钥是相同的，并且无法对每个用户进行速率限制。理想情况下，我可以接受将用户的消费限制为 5 美元作为 CAC。 据我所知，Azure OpenAI API 也不提供每个用户的消费限制，并且对 API 的总使用量有限制。  我现在的选择是托管自己的服务器和数据库，并按用户 IP 限制消费。我需要处理可能出错的开销（有人 IP 切换并搞砸了我的信用、负载平衡和后端服务器的消费限制、有人将 API 用于自己的用途）。 你们是怎么解决这个问题的？    提交人    /u/ronlek   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1eso0ug/how_to_create_an_app_that_uses_the_open_ai_api/</guid>
+      <pubDate>Thu, 15 Aug 2024 06:15:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>我用四个月的空闲时间推出了我的第一个应用程序！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1esnwio/launch_my_first_app_after_spending_4months_during/</link>
+      <description><![CDATA[      大家好， 我很高兴向大家介绍我使用 React Native 开发的应用程序。这不仅是我的第一个 React Native 项目，也是我第一个进入 App Store 的应用程序！ 该应用程序专为想要指导性锻炼计划或喜欢根据特定肌肉目标创建自己的锻炼计划的任何人而设计。主要目标是通过允许用户上传锻炼视频来帮助用户避免受伤，我可以在视频中提供详细的反馈并建议必要的调整。 作为一名拥有十多年经验的开发人员，锻炼一直是我保持心理健康的方式，身体上的收获则是额外的收获。在我的健身之旅中，我面临挑战，尤其是在正确锻炼方式方面。如果不了解正确的肌肉收缩，受伤是很常见的，这是我作为一名运动员亲身体验到的。通过与多位运动物理治疗师的合作，我获得了避免这些伤害的知识 - 最近我赢得了我的第一个健美冠军。 该应用程序目前在 iOS 上可用（Android 版本仍在审核中）： 下载 Tayofit 技术栈： • 前端：React Native • 后端：Java，Spring Boot • 聊天 / 锻炼线程对话： StompJS • 托管： Google Cloud Run • 数据库： PostgreSQL • 媒体存储： S3 我很乐意听到您的反馈！ https://preview.redd.it/f27vlt64rrid1.png?width=2878&amp;format=png&amp;auto=webp&amp;s=20a05da15bdd270d64315153e8b3c139e49d89b7    提交人    /u/Key-Indication-6085   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1esnwio/launch_my_first_app_after_spending_4months_during/</guid>
+      <pubDate>Thu, 15 Aug 2024 06:07:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>与来自世界各地的人们在这块独特的画布上实时绘画和素描，形成不断演变的杰作。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1esmhzs/draw_and_sketch_in_real_time_with_people_from/</link>
+      <description><![CDATA[      https://the-board-client.vercel.app/ https://preview.redd.it/ipw1mtv5grid1.png?width=1663&amp;format=png&amp;auto=webp&amp;s=9309385f72de56ad63402a226c9304ffe97f5631    提交人    /u/Dangerous_Try_8586   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1esmhzs/draw_and_sketch_in_real_time_with_people_from/</guid>
+      <pubDate>Thu, 15 Aug 2024 04:41:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>吐槽并分析 Twitter/X 个人资料</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1esmhej/roast_and_analyze_twitterx_profiles/</link>
+      <description><![CDATA[        提交人    /u/hieunc   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1esmhej/roast_and_analyze_twitterx_profiles/</guid>
+      <pubDate>Thu, 15 Aug 2024 04:40:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一套适用于任何网站的通用网站小工具</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1eslnr4/i_made_a_set_universal_website_widgets_that_work/</link>
+      <description><![CDATA[我开发了一套代码生成器，可以用 HTML、CSS 和 JavaScript 创建 Web 小部件。您只需复制生成的代码并将其粘贴到您的网站中，它与几乎所有 CMS 平台和网站构建器兼容。 无需安装或注册，您可以立即开始使用它。 如果您能尝试一下并分享您的反馈，我将不胜感激。此外，请随时建议您希望我开发的下一个小部件。谢谢！ 工具：https://divrender.com/    提交人    /u/wilfredcy   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1eslnr4/i_made_a_set_universal_website_widgets_that_work/</guid>
+      <pubDate>Thu, 15 Aug 2024 03:54:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了一个匿名聊天的网站</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1eslfns/i_made_a_website_to_chat_anonymously/</link>
+      <description><![CDATA[受到 NGL 或 twitter 基础的启发。 似乎很多人对匿名功能感兴趣，他们可以用匿名功能来咆哮或表达一些他们亲密朋友不想知道的事情…… 它刚刚推出，还没有任何用户..请随时发表评论和反馈 你可以尝试 https://chat.karmuz.dev    提交人    /u/ApemRicarica   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1eslfns/i_made_a_website_to_chat_anonymously/</guid>
+      <pubDate>Thu, 15 Aug 2024 03:42:23 GMT</pubDate>
+    </item>
     <item>
       <title>我创建了新游戏日——视频游戏发布日期日历！</title>
       <link>https://www.reddit.com/r/SideProject/comments/1esk1kj/i_built_new_game_day_a_video_game_release_date/</link>
@@ -60,55 +109,6 @@
       <description><![CDATA[  由    /u/Davidsnowman2  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1esg7xh/best_iptv_services_of_2024_top_trusted_providers/</guid>
       <pubDate>Wed, 14 Aug 2024 23:34:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>帮我选择一个想法</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1esfsso/help_me_choose_an_idea/</link>
-      <description><![CDATA[大家好！ 我想开始一个副项目，我想问一下以下哪一个想法可能对你有用。  测验制作应用程序：您将给它一个 PDF 或 Youtube 视频，它会给您一个问题列表。 练习辩论：有一个主题列表，您可以选择一个进行辩论。您将收到反馈和建议。 食谱推荐：您将拍摄冰箱的照片，它会为您提供一些食谱推荐。 词典：一本普通的词典，但它会推荐一些带有您搜索的单词的推文和歌曲  我非常感谢任何反馈。谢谢大家。    提交人    /u/humble__mantis   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1esfsso/help_me_choose_an_idea/</guid>
-      <pubDate>Wed, 14 Aug 2024 23:15:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个应用程序来减少屏幕时间</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1esfnza/i_created_an_app_to_reduce_screentime/</link>
-      <description><![CDATA[作为一个 15 岁的孩子，当我上 Tiktok 时，我感觉我的时间瞬间消失了？我的应用程序会跟踪你的寿命，并以图形方式显示你还剩下多少时间。当你在手机上花费的时间过长时，它会及时向你发送警报，并使用可自定义的小部件更新你的主屏幕，让你知道你还剩下多少时间，并帮助我保持专注。如果你有兴趣发表，我做了一个候补名单，因为对于一个 15 岁的孩子来说，苹果和谷歌游戏商店的费用可不是开玩笑的。 https://www.waitlistr.com/lists/b904e162/momento-mori-death-calendar   由    /u/Real_Ad6311  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1esfnza/i_created_an_app_to_reduce_screentime/</guid>
-      <pubDate>Wed, 14 Aug 2024 23:09:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>我厌倦了人工智能审查，所以我启动了这个业余项目</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1esfc0l/i_got_tired_of_ai_censorship_so_i_launched_this/</link>
-      <description><![CDATA[我一直在研究那个简单的 ChatGPT 式 工具，旨在为开放对话提供一个私密、无偏见的空间。它仍然很基础，但我渴望看到它根据用户的反馈而发展。 它是如何开始的？ 我对人工智能工具不断规定哪些话题可以讨论感到沮丧。例如，OpenAI 发布的更新越多，答案似乎就越有偏见和限制。当你简单地问“如何勾引女人？”时，如果 GPT-5 回答“此内容可能违反我们的使用政策”，我不会感到惊讶。 我知道有很多未经审查的人工智能聊天机器人，但它们往往侧重于幻想场景，比如与虚构人物或人工智能生成的伴侣互动。虽然这对某些人有吸引力，但我相信许多人只是想要一个简单、不受审查的聊天机器人，不会将他们推入模拟关系或特定角色互动。 这是否引起了其他人的共鸣？我很好奇它是否有帮助，如果没有，什么可以使它变得更好？您的反馈将决定它的未来。尝试一下，您的第一次互动免费！ 免责声明：这不是一个自由的空间。它永远不会参与或支持不适当的请求。    提交人    /u/oxad122   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1esfc0l/i_got_tired_of_ai_censorship_so_i_launched_this/</guid>
-      <pubDate>Wed, 14 Aug 2024 22:55:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一款应用，让你可以通过一个账户在一个地方使用多个 AI</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1esf6tc/i_made_an_app_that_lets_you_use_multiple_ais_in/</link>
-      <description><![CDATA[        提交人    /u/JONANz_   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1esf6tc/i_made_an_app_that_lets_you_use_multiple_ais_in/</guid>
-      <pubDate>Wed, 14 Aug 2024 22:49:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>厌倦了丢失 TikTok 和 Instagram 上的精彩发现吗？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1esdxeh/tired_of_losing_great_finds_on_tiktok_and/</link>
-      <description><![CDATA[      我发现自己在浏览 TikTok/Instagram 时发现了新的餐馆、酒吧和食谱，但仅仅保存它们最终也会被放入书签墓地。 短视频是一种有效的发现格式。但是，视频并不是发现后的最佳格式。您保存帖子，打开笔记应用程序并写下新的酒吧或食谱的步骤/配料。所以，我花了一个周末开发了 Gem。这是一个与平台无关的移动扩展，可增强发现过程。您所要做的就是分享帖子，我们将自动对其进行分类并将其转换为适当的格式（即列表）。目前，它仅支持 Instagram/TikTok 和地点/食谱。 我们刚刚推出了推荐计划。如果您认为朋友会发现此工具很有价值，请推荐他们，你们俩都将获得 1,000 积分，可以兑换一些很酷的物品，如 Airpods、Solo Stove、Alo Yoga Mat 等！ 在此处下载： https://apps.apple.com/us/app/gem-discover-organize/id6479227504 https://reddit.com/link/1esdxeh/video/jsh4xn5bbpid1/player    提交人    /u/x86i   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1esdxeh/tired_of_losing_great_finds_on_tiktok_and/</guid>
-      <pubDate>Wed, 14 Aug 2024 21:55:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>您现在使用的最佳 IPTV 服务是什么？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1esde54/what_is_the_best_iptv_service_you_are_sing_right/</link>
-      <description><![CDATA[  由    /u/Echidna_Cuddles  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1esde54/what_is_the_best_iptv_service_you_are_sing_right/</guid>
-      <pubDate>Wed, 14 Aug 2024 21:33:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>利用法学硕士学位 (LLM) 加速学习</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1esdd5i/using_llms_to_learn_faster/</link>
-      <description><![CDATA[在询问了一堆 subreddits 关于如何使用 LLM 来更快地学习之后，我想到了 www.destovery.com  它帮助我更快地了解了特征值、加密货币协议和日元套利交易，但由于这是第一个版本，我将期待您的反馈来改进网站。  我添加了一个测试功能以确保这些信息能够保留下来。  如果您对这个更快学习的项目感兴趣并且想要收到更新，您可以在 destovery.com/signup 上注册     提交人    /u/MinuteDistribution31   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1esdd5i/using_llms_to_learn_faster/</guid>
-      <pubDate>Wed, 14 Aug 2024 21:31:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
