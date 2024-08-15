@@ -4,9 +4,65 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Thu, 15 Aug 2024 06:19:05 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Aug 2024 09:14:16 GMT</lastBuildDate>
     <item>
-      <title>我制作了一款金融应用，希望得到你对它外观的反馈</title>
+      <title>B2C 制造商：我们希望您能给我们一些反馈</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1esqatt/b2c_makers_we_want_you_to_give_us_some_feedback/</link>
+      <description><![CDATA[在开发两款 B2C 移动应用 Umi 和 Hallo（下载量超过 50 万次）时，我们觉得当前的用户反馈工具实际上并没有帮助我们确定下一步应该开发什么才能实现增长。因此，我们创建了 Resubscribe，并于今天在 PH 上发布 - https://www.producthunt.com/products/resubscribe。 试用我们的工具非常简单 - 无需信用卡或下载。请告诉我们您的想法！如果您想将其集成到您的应用程序中，我们有一堆 SDK、永久免费层（每月最多 10 次对话），我们会尽我们所能为您提供个人支持。 我们没有风险投资资金或任何东西，所以任何反馈都对我们实现梦想大有帮助：)    提交人    /u/Lopsided-Echidna2741   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1esqatt/b2c_makers_we_want_you_to_give_us_some_feedback/</guid>
+      <pubDate>Thu, 15 Aug 2024 08:50:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>synte | 初创企业的内容市场</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1espwwn/synte_content_marketplace_for_startups/</link>
+      <description><![CDATA[大家好！我是 arda，synte 的创始人。 我们建立了 synte，将初创公司与顶级内容创建者联系起来，满足您的所有营销需求。我们的平台旨在简化寻找和与创作者合作的过程，这些创作者可以制作从用户生成内容到影响者驱动的活动等各种内容。 以下是我们提供的服务：  精心策划的创作者匹配：我们将您与最适合您的品牌和目标的创作者联系起来。 多样化的内容选项：无论您需要引人入胜的社交媒体帖子、引人注目的新闻稿还是有影响力的影响者内容，我们都能满足您的需求。 无缝流程：从初次联系到最终交付，我们确保顺畅高效的体验。  我们每月的全球覆盖面超过 5.6 亿，专注于像您这样的初创公司。 如果您希望将内容策略提升到一个新的水平，请访问 synte.co 。让我们一起制作精彩的内容！    提交人    /u/ardakaano   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1espwwn/synte_content_marketplace_for_startups/</guid>
+      <pubDate>Thu, 15 Aug 2024 08:24:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一款应用程序，让学习投资（及更多）变得有趣和简单！[下载链接见评论。]</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1esp3pv/i_made_an_app_that_makes_learning_investing_more/</link>
+      <description><![CDATA[        提交人    /u/Individual_Tax7649   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1esp3pv/i_made_an_app_that_makes_learning_investing_more/</guid>
+      <pubDate>Thu, 15 Aug 2024 07:28:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>我使用 Cloudflare Workers 和 Pages 构建了一个重定向检查器 - 亲自尝试一下！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1esowe7/i_built_a_redirect_checker_with_cloudflare/</link>
+      <description><![CDATA[刚刚使用 Cloudflare 技术制作了一些很酷的东西，您现在就可以尝试一下：  🚀 是什么：由 Cloudflare Workers &amp; Pages 提供支持的闪电般快速的重定向检查器。  🔗 GitHub：https://github.com/seadfeng/redirect-checker  🌐 现场演示：https://redirectchecker.org  💡 原因：需要一种巧妙的方法来跟踪重定向，同时留在 Cloudflare 生态系统中。 ⚡️ 特点：  边缘驱动的速度（Workers FTW！） 跟踪完整的重定向链 一键部署到您的 Cloudflare 帐户 100% 开源 - 随意混合！  🛠 技术栈：  Cloudflare Workers 承担着繁重的工作 Pages 提供简洁的用户界面 KV 提供快速的数据存储  👥 适用人群：  联盟链接向导 开发人员正在努力解决重定向难题 Cloudflare 爱好者（就是我们！）  查看 redirectchecker.org 上的现场演示，了解其实际效果！ 下一步我应该添加哪些 Cloudflare 魔法？您有什么 Workers 秘诀吗？ 在评论中提出您的想法。让我们利用您的 Cloudflare 专业知识升级此工具！    提交人    /u/SanBirth   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1esowe7/i_built_a_redirect_checker_with_cloudflare/</guid>
+      <pubDate>Thu, 15 Aug 2024 07:13:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>我确实需要这方面的帮助。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1esoi7k/i_really_need_this_help_in_hashing/</link>
+      <description><![CDATA[我想通过散列来存储电子邮件，然后为我的大学项目加密它们，因为我不想通过电子邮件跟踪用户的实际凭据。 我该如何实现这一点？如何在使用电子邮件 ID 的注册和登录过程中确定数据库中是否存在帐户？我知道散列是一种单向技术，我无法确定如何处理这个过程。我试过了，但找不到确切的答案。    提交人    /u/OmPreetham   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1esoi7k/i_really_need_this_help_in_hashing/</guid>
+      <pubDate>Thu, 15 Aug 2024 06:47:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>我使用 Cursor 和 Claude 构建了一个用于管理品牌套件的 Chrome 扩展程序（我不会编码）</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1esoak5/i_built_a_chrome_extension_for_managing_brand/</link>
+      <description><![CDATA[    /u/Jakehower   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1esoak5/i_built_a_chrome_extension_for_managing_brand/</guid>
+      <pubDate>Thu, 15 Aug 2024 06:32:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>您想在我专为初创企业设计的社交网络中看到什么？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1eso6j8/what_you_want_to_see_in_my_social_network/</link>
+      <description><![CDATA[你们想在这种我即将推出的网络平台中看到什么：想象一下 Fiverr，但它不是自由职业者，而是共同创办初创公司。 它充满了团队卡片，显示项目描述、团队成员及其角色以及空缺职位。团队有自己的协作空间，用于新成员入职（试用角色）。 团队可以参加每月的黑客马拉松以赢得奖品，展示他们的项目亮点，并在内部市场上列出以提供服务。 欢迎新想法！想用这个改变整个网络空间 :)    提交人    /u/Long-Report423   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1eso6j8/what_you_want_to_see_in_my_social_network/</guid>
+      <pubDate>Thu, 15 Aug 2024 06:25:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个 Chrome 扩展程序来帮助您使用 AI 快速创建日历事件</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1eso667/i_made_a_chrome_extension_to_help_you_quickly/</link>
+      <description><![CDATA[        提交人    /u/htadashi   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1eso667/i_made_a_chrome_extension_to_help_you_quickly/</guid>
+      <pubDate>Thu, 15 Aug 2024 06:24:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个财务应用程序，希望你能对它的外观提出反馈</title>
       <link>https://www.reddit.com/r/SideProject/comments/1eso1wf/i_made_a_finance_app_and_would_love_your_feedback/</link>
       <description><![CDATA[        提交人    /u/Entire-Grape9337   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1eso1wf/i_made_a_finance_app_and_would_love_your_feedback/</guid>
@@ -53,62 +109,6 @@
       <description><![CDATA[受到 NGL 或 twitter 基础的启发。 似乎很多人对匿名功能感兴趣，他们可以用匿名功能来咆哮或表达一些他们亲密朋友不想知道的事情…… 它刚刚推出，还没有任何用户..请随时发表评论和反馈 你可以尝试 https://chat.karmuz.dev    提交人    /u/ApemRicarica   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1eslfns/i_made_a_website_to_chat_anonymously/</guid>
       <pubDate>Thu, 15 Aug 2024 03:42:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了新游戏日——视频游戏发布日期日历！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1esk1kj/i_built_new_game_day_a_video_game_release_date/</link>
-      <description><![CDATA[      我有点游戏迷的感觉，喜欢期待新游戏（当时我正为 Starfield 而兴奋，可惜当时游戏不太好... ;)）！ 我找不到一个不错的即将推出的视频游戏日历视图，只有无聊的列表视图，所以我自己建了一个。 www.newgameday.com https://preview.redd.it/menf8seknqid1.png?width=2880&amp;format=png&amp;auto=webp&amp;s=758bd568a326c509b0f8944369048c429c486b2d 您可以按平台和类型进行筛选，单击游戏即可查看更多详细信息。  我有一个很长的待办事项清单，其中还有更多功能即将推出（例如提醒，特色发布，“炒作”（即喜欢），额外的屏幕截图等等...）！ 如果您有任何反馈，请不要犹豫！ PS：您可能仍然会发现一些错误。我借此机会学习了 Vue.js，所以要温柔 ;)     提交人    /u/Ok-Yi   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1esk1kj/i_built_new_game_day_a_video_game_release_date/</guid>
-      <pubDate>Thu, 15 Aug 2024 02:31:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>我 15 岁，创建了这个网站，有什么建议吗？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1esjm3t/im_15_and_made_this_website_any_tips/</link>
-      <description><![CDATA[      我 15 岁，几周前创建了这个 Shopify 页面来销售我的产品。我以前从未做过这样的事情，想获得一些关于该页面的建议。这是链接 https://preview.redd.it/wmwjp7qzkqid1.jpg?width=1170&amp;format=pjpg&amp;auto=webp&amp;s=092381572fa41cd75da22266cb2236d497b88f42 https://craftedforthecatch.myshopify.com/    由   提交  /u/Icy_Commercial_9913   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1esjm3t/im_15_and_made_this_website_any_tips/</guid>
-      <pubDate>Thu, 15 Aug 2024 02:11:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>销售革命：AI SDR 可让您以最少的努力全天候生成销售线索并预订会议！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1esj9xu/revolutionizing_sales_meet_the_ai_sdr_that/</link>
-      <description><![CDATA[我正在研究下一代数字工作者。其中第一个是 AI 销售开发代表 (SDR)，它：  全天候生成并确定潜在客户 大规模进行个性化推广 自动安排会议  只需极少的人工投入和极低的成本。 欢迎加入候补名单并提供反馈！    提交人    /u/Weekly_Employer3335   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1esj9xu/revolutionizing_sales_meet_the_ai_sdr_that/</guid>
-      <pubDate>Thu, 15 Aug 2024 01:55:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>PeekAnime - 利用人工智能将你的照片变成动漫</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1esj0ji/peekanime_turn_your_photos_into_anime_with_ai/</link>
-      <description><![CDATA[      嘿 r/SideProject  我想制作一款可以将您的自拍照转换为动漫的应用程序，因为很多我发现的其他转换器并不是很好。  其他转换器总是从原始图像中删除过多细节，结果看起来就像普通动漫。我想要一些可以保留原始图像但只改变样式的东西。 示例： https://preview.redd.it/xksqsl0dfqid1.jpg?width=1920&amp;format=pjpg&amp;auto=webp&amp;s=ab9be23403c5340ee82a4c6f315a362675d574d8 https://preview.redd.it/mvo8cxkkfqid1.jpg?width=1080&amp;format=pjpg&amp;auto=webp&amp;s=247add2a407f67a30c0e178ba831b2344e098611 您上传的照片会怎样？ 图像生成完成后，它们会从我们的服务器中删除。没有人会看到您的照片。我们非常重视隐私。 我在哪里可以尝试？ 👉我的网站：PeekAnime     提交人    /u/Willing_Spot_1336   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1esj0ji/peekanime_turn_your_photos_into_anime_with_ai/</guid>
-      <pubDate>Thu, 15 Aug 2024 01:43:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>我构建了一个稍后阅读的网络应用程序来总结文章并通过思维导图可视化我的阅读体验 https://mindgen.co/</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1eshx9e/i_built_a_readlater_web_app_to_summarise_the/</link>
-      <description><![CDATA[    /u/huai99   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1eshx9e/i_built_a_readlater_web_app_to_summarise_the/</guid>
-      <pubDate>Thu, 15 Aug 2024 00:51:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 AI 的免费 Pinterest Pin 生成器</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1esgdwm/free_pinterest_pin_generator_using_ai/</link>
-      <description><![CDATA[        提交人    /u/Winter_Fortune_3688   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1esgdwm/free_pinterest_pin_generator_using_ai/</guid>
-      <pubDate>Wed, 14 Aug 2024 23:42:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>收藏夹选项卡对我来说不起作用，所以我制作了一个非常简单的应用程序。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1esg928/the_favorites_tab_doesnt_work_for_me_so_i_made_a/</link>
-      <description><![CDATA[      https://preview.redd.it/70x1ms7htpid1.jpg?width=1885&amp;format=pjpg&amp;auto=webp&amp;s=cb27347f99083cd7f44f1f5d1db8a4735889fe9d 浏览器的“书签”选项卡对我不起作用。收集和使用链接变得很麻烦。 BookmarkSucks 是我对从互联网上收集的各种链接进行整理并按照我喜欢的方式进行收集和使用的方式。 我每天会通过电子邮件向我发送一次我分类放置的链接，以提醒我使用或收集。 https://preview.redd.it/6n6r0q1uspid1.jpg?width=1900&amp;format=pjpg&amp;auto=webp&amp;s=e9fe23b4df219258d74a3552f9aa52382092283d 如果您想成为 Beta 测试员，请加入等候名单。 https://tally.so/r/mB1YbQ    由    /u/millionaire-000 提交   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1esg928/the_favorites_tab_doesnt_work_for_me_so_i_made_a/</guid>
-      <pubDate>Wed, 14 Aug 2024 23:36:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年最佳 IPTV 服务：最值得信赖的提供商</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1esg7xh/best_iptv_services_of_2024_top_trusted_providers/</link>
-      <description><![CDATA[  由    /u/Davidsnowman2  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1esg7xh/best_iptv_services_of_2024_top_trusted_providers/</guid>
-      <pubDate>Wed, 14 Aug 2024 23:34:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
