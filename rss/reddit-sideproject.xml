@@ -4,7 +4,35 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Fri, 16 Aug 2024 01:01:39 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Aug 2024 03:17:44 GMT</lastBuildDate>
+    <item>
+      <title>我的第一个应用程序项目正在起飞！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ete4qs/my_first_app_project_is_taking_off/</link>
+      <description><![CDATA[  由    /u/Eggvelop  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ete4qs/my_first_app_project_is_taking_off/</guid>
+      <pubDate>Fri, 16 Aug 2024 02:55:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们创建了一个工具来使您的 AI 内容人性化。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1etdy3w/we_created_a_tool_to_humanize_your_ai_content/</link>
+      <description><![CDATA[我们刚刚启动了一个新的附带项目主页 - 不可检测的人工智能 (aiundetecatable.com)。它将从互联网上搜索证据并重写您的内容，使其高质量且人性化。  我们在 SEO 文章写作中使用它，我们创建的 90% 的文章都可以通过人工智能检测。    提交人    /u/laoyan0523   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1etdy3w/we_created_a_tool_to_humanize_your_ai_content/</guid>
+      <pubDate>Fri, 16 Aug 2024 02:45:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 https://aiundetecatable.com/ 使您的内容人性化</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1etduxt/humanize_your_content_with_httpsaiundetecatablecom/</link>
+      <description><![CDATA[我们刚刚启动了一个新的附带项目主页 - 不可检测的人工智能 (aiundetecatable.com)。它将从互联网上搜索证据并重写您的内容，使其高质量且人性化。  我们在 SEO 文章写作中使用它，我们创建的 90% 的文章都可以通过人工智能检测。    提交人    /u/laoyan0523   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1etduxt/humanize_your_content_with_httpsaiundetecatablecom/</guid>
+      <pubDate>Fri, 16 Aug 2024 02:41:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了一个专门展示独立制造商生产的产品的网站</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1etcmxk/i_created_a_website_exclusively_for_showcasing/</link>
+      <description><![CDATA[IndieFollow.top 独立制造商和产品大放异彩的地方 作为一名独立制造商，我经常发现展示我的产品并与社区中的其他人建立联系是一项挑战。这就是我创建 IndieFollow.top 的原因——一个专门为独立制造商提供的平台，供他们分享他们的创作，发现创新产品，并在我们的创业旅程中互相支持。 以下是 IndieFollow.top 的与众不同之处：  仅限独立产品：IndieFollow.top 专供独立开发者展示他们独特的创作。 精挑细选：我们精心挑选每件产品，以确保质量和创新。 独特功能：IndieFollow.top 上的每件产品都有真正吸引您眼球的特别之处。  我很乐意听到您的反馈！您也可以随意将您出色的产品提交到网站。谢谢！    提交人    /u/defcc   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1etcmxk/i_created_a_website_exclusively_for_showcasing/</guid>
+      <pubDate>Fri, 16 Aug 2024 01:39:24 GMT</pubDate>
+    </item>
     <item>
       <title>我创建了一个 YouTube 视频摘要器，用于创建视频摘要</title>
       <link>https://www.reddit.com/r/SideProject/comments/1etboeh/i_built_a_youtube_video_summarizer_that_creates/</link>
@@ -81,34 +109,6 @@
       <description><![CDATA[大家好！ 我和我的朋友目前正在整理一份最高质量的 AI 工具/代理列表，以便人们能够正确、快速地评估代理对其特定用例的实用性。我们开始构建这个列表，因为我们发现虽然有很多列表，但大多数列表都缺乏真正评估这些工具对特定用例的实用性所需的深度。 这是我们目前的方法：  详细基准：我们正在超越可靠性或延迟等模糊指标。相反，我们根据实际结果对代理进行评估 - 例如根据营销代理生成的平均优质潜在客户数量进行评估。 在虚拟沙盒中进行实时测试：我们不需要用户与开发人员一起设置自定义演示，而是提供一个虚拟沙盒环境，您可以在其中直接测试代理，从而更轻松地了解它们在实践中的表现。 按价值主张分类：我们不是按类型对代理进行分组，而是根据它们帮助您实现的目标对代理进行分类 - 无论是找到更多客户，加快产品发货还是任何其他特定目标。  这项工作仍在进行中，但我们希望您查看我们目前所做的工作（目前为占位符代理）：https://darwin.so。 非常感谢来自这个社区的任何反馈，越诚实越好。提前致谢！    由   提交  /u/Responsible_Owl3628   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1et6htc/curating_a_list_of_high_quality_ai_toolsagents_is/</guid>
       <pubDate>Thu, 15 Aug 2024 21:05:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>Pawblish - 分享你的宠物照片</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1et63sq/pawblish_share_your_pet_pictures/</link>
-      <description><![CDATA[我们每天都会为我们的宠物拍摄上百万张照片，只是为了让它们留在我们的相机胶卷里。为什么不与那些和你一样爱宠物的人分享它们呢？我的意思是，这就是互联网的用途，对吧？  Pawblish 是一个新的图片分享平台，我已经花了 2 年多时间来开发它，主要内容是你的宠物的照片。上传 Mr Silly 的肖像，让粉丝了解每一项成就，并了解你朋友的宠物在做什么！！如果你看看我会很高兴，你甚至可能会喜欢它！！  在 Google Play/App Store 上搜索 Pawblish 或按下下载按钮 https://pawblish.com &lt;3    提交人    /u/oldyogurtpot   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1et63sq/pawblish_share_your_pet_pictures/</guid>
-      <pubDate>Thu, 15 Aug 2024 20:49:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的应用程序注册人数刚刚达到 1000 人！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1et629o/my_app_just_reached_1000_signups/</link>
-      <description><![CDATA[      我一年多前就开发了这个应用，但我从未在 Reddit 上发布过关于它的帖子，也没有做过任何营销。现在，它已经自然而然地达到了 1000 个注册用户！我知道这不是一个巨大的数字，但对我来说这是一个里程碑，我想与大家分享。 Repeet 是一款简单的抽认卡应用，专为学习语言而设计（适用于 iOS 和 Android）。它没有任何预制卡片，但其主要功能是 Repeet 浏览器扩展。此扩展允许您通过直接在浏览器中翻译单词来创建抽认卡，以便您以后可以在手机上练习。 如果您喜欢用抽认卡学习，请尝试一下并告诉我您的想法！欢迎提出所有关于如何改进它的想法或任何反馈。🙏     提交人    /u/gopolar1   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1et629o/my_app_just_reached_1000_signups/</guid>
-      <pubDate>Thu, 15 Aug 2024 20:47:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>我写了一篇关于体育评论的博文，看看吧！我刚开始做联盟营销，作为副业，想扩大我的受众群体</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1et5k9w/i_made_a_blogpost_about_sports_reviews_check_it/</link>
-      <description><![CDATA[https://www.sprttesters.com/post/recovery-that-tastes-good 这里有更多我的文章！ https://www.sprttesters.com/post/best-basketball-gear-reviews-top-picks-and-recommendations    提交人    /u/Radiant_Angle_2820   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1et5k9w/i_made_a_blogpost_about_sports_reviews_check_it/</guid>
-      <pubDate>Thu, 15 Aug 2024 20:27:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用这款全新人工智能笑话作家为你的内容增添喜剧色彩。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1et5fgz/add_comedy_to_your_content_with_this_new/</link>
-      <description><![CDATA[您想创建有趣的内容，因此您需要笑话。但笑话需要技巧、时间或金钱，而您可能没有。 介绍新的 Web 应用 Witscript。它使用人工智能来为《深夜电视喜剧写作》一书中的笑话写作方法提供支持。 使用 Witscript，可以快速、轻松且廉价地将原创笑话添加到您的内容中 - 每月只需 7.99 美元加税，即可获得几乎无限的笑话。 有关 Witscript 的更多信息，请访问https://witscript.com/ 要查看它生成的一些笑话，请访问https://x.com/witscript 今天就让 Witscript 成为您的 AI 喜剧合著者吧！    提交人    /u/joetoplyn   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1et5fgz/add_comedy_to_your_content_with_this_new/</guid>
-      <pubDate>Thu, 15 Aug 2024 20:22:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
