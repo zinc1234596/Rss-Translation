@@ -4,7 +4,21 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Sat, 17 Aug 2024 01:00:18 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Aug 2024 03:14:25 GMT</lastBuildDate>
+    <item>
+      <title>尝试重现错误但失败了</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1eu7d4d/trying_and_failing_to_reproduce_a_bug/</link>
+      <description><![CDATA[嗨， 我在 Google 和 iOS 上发布了一款移动应用。这是一款专注于儿童照片的照片共享应用。它提供安全和年龄提示等功能。 我认为它有一个错误，会导致应用自发进入后台。它似乎在安装后 1 分钟内发生。我从应用程序收到的分析事件中了解到这一点。几乎每个用户都有一些与此相关的事件，然后它们就很明显了。 我非常努力地在我拥有的三部手机上复制这个错误，但失败了。我甚至买了浏览器堆栈来看看我是否可以在那里重现它，但一切似乎都很好。我现在感觉完全被困住了。  我想看看这里是否有好心人可以下载并试用一下，看看他们是否会遇到这种情况。 您需要使用谷歌或电子邮件登录，但您无需创建任何东西或上传任何东西 - 当然您可以这样做；但只需转到几个屏幕再返回就足够了。 我真的很感激。 这是 Play 商店的链接 https://play.google.com/store/apps/details?id=com.redinterface.timeline    提交人    /u/arashbijan   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1eu7d4d/trying_and_failing_to_reproduce_a_bug/</guid>
+      <pubDate>Sat, 17 Aug 2024 02:46:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻求项目功能建议</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1eu6jlo/seeking_project_features_suggestions/</link>
+      <description><![CDATA[大家好，我计划创建一个可以用作宠物追踪器的移动应用程序。它将具有为所有宠物创建个人资料、追踪其食物供应、食物时间和疫苗接种记录等功能。如果供应即将耗尽或到了用餐/接种时间，它将通过通知/消息通知用户。我还可以添加更多功能以满足更多受众的需求。我的主要问题是，有很多应用程序提供此功能吗？我希望它采用每月订阅的免费增值模式。我应该给它定什么价位？哪些功能应该免费提供？任何建议都会有所帮助，谢谢！    提交人    /u/superRandomFrog   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1eu6jlo/seeking_project_features_suggestions/</guid>
+      <pubDate>Sat, 17 Aug 2024 02:04:10 GMT</pubDate>
+    </item>
     <item>
       <title>我制作了一款应用，为每个申请者创建个性化简历</title>
       <link>https://www.reddit.com/r/SideProject/comments/1eu4mo4/i_made_an_app_to_create_personalized_resumes_for/</link>
@@ -76,7 +90,7 @@
       <pubDate>Fri, 16 Aug 2024 18:40:40 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能网站创建器</title>
+      <title>人工智能网站构建器</title>
       <link>https://www.reddit.com/r/SideProject/comments/1etw0cf/ai_website_builder/</link>
       <description><![CDATA[大家好，如果您出于任何原因需要一个免费的作品集网站，我最近完成了我的编码项目 (MVP)，可以为您提供帮助。 这是一个人工智能辅助的网站构建器，可以非常快速地将您的简历转换为单页作品集网站。    提交人    /u/ApprehensiveStay9700   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1etw0cf/ai_website_builder/</guid>
@@ -95,20 +109,6 @@
       <description><![CDATA[这是我的第一个成功运行的项目，哈哈。 您只需一行代码即可将评论小部件集成到您的网站中，然后您的用户就可以选择与您分享他们的错误和反馈。 这是一个限时免费工具。让我知道你们的想法！    提交人    /u/No_Duty_2200   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1etvt6r/i_built_a_tool_to_get_user_reviews_asap/</guid>
       <pubDate>Fri, 16 Aug 2024 18:11:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能国际象棋教练</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1etvn0z/ai_chess_coach/</link>
-      <description><![CDATA[疫情期间自学国际象棋。没有教练，分析自己的比赛太难，这让我很沮丧。以前经常看 Levy（一位著名的 YouTuber）的视频，希望有人能像他那样分析我的比赛。 那时我无能为力。现在我是一名开发人员，所以做了这个 AI 国际象棋教练/分析 https://aigamereview-zodwicks-projects.vercel.app/v2 看一看，让我知道你的想法    提交人    /u/modern_tragedy69   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1etvn0z/ai_chess_coach/</guid>
-      <pubDate>Fri, 16 Aug 2024 18:04:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人体验过“随意付费”模式吗？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1etvel1/anyone_have_experience_with_a_pay_what_you_want/</link>
-      <description><![CDATA[我运营一个蜗牛邮件发布平台。类似于 Substack，但适用于蜗牛邮件。 作者自行设定订阅费，并将他们赚取的钱除以每月 3 美元的订阅费（用于支付邮资、纸张、墨水和处理费用）。 过去几个月，已有数百人开始在 StampFans 上写作，其中大多数人每月收费 5 美元或 6 美元。少数人似乎可以收取更高的费用，但并不多。然后少数人每月只收取 4 美元，每个订阅者每月只收取 1 美元。 刚才，我们最好的作者之一告诉我，理想的情况是作者能够接受订阅者的“随意付费”费用。每月 3 美元是最低限度（这对作者来说没有任何利润），而订户会选择高于这个数额的金额。这位作者说，她的朋友和家人可能会支付超过 6 美元/月的费用，因为他们认为这是一种支持他们的方式。但“陌生人”可能不会支付超过 4 美元/或 5 美元/月的费用。 有人体验过“随心付”模式吗？设置这个模式有很多复杂性，但我认为它可能值得一试。 我很乐意听听你的想法或反馈——特别是如果你以前尝试过这种事情的话。    提交人    /u/NickFreiling   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1etvel1/anyone_have_experience_with_a_pay_what_you_want/</guid>
-      <pubDate>Fri, 16 Aug 2024 17:54:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
