@@ -4,7 +4,63 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Sun, 18 Aug 2024 18:16:19 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Aug 2024 21:11:56 GMT</lastBuildDate>
+    <item>
+      <title>我创建了一个超级简单的 API，可以通过一小段代码从您的网站向您自己发送短信通知。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1evji3z/i_created_a_super_simple_api_to_send_yourself_sms/</link>
+      <description><![CDATA[      看看吧！ selfping.com 从应用或网站向自己发送短信非常烦人。您必须使用第三方服务（如 Twilio 或 MessageBird），并经过各种步骤和验证才能使其正常工作。这太麻烦了。您要做的就是通过代码向自己发送短信。因此，我创建了 SelfPing 以简化这一过程。只需注册并开始从您的应用或网站向自己发送短信。 https://preview.redd.it/31bkq1f8jhjd1.png?width=1270&amp;format=png&amp;auto=webp&amp;s=8897fa9569b5121b0127bd8327d41dfe7ced8ad6    提交人    /u/Brettsky123   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1evji3z/i_created_a_super_simple_api_to_send_yourself_sms/</guid>
+      <pubDate>Sun, 18 Aug 2024 20:46:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT 替代方案。我可以参加吗？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1evi3su/chatgpt_alternative_can_i_compete/</link>
+      <description><![CDATA[        提交人    /u/Intelligent-Try3341   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1evi3su/chatgpt_alternative_can_i_compete/</guid>
+      <pubDate>Sun, 18 Aug 2024 19:48:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的最新 macOS 应用程序：DockFix</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1evi1o5/my_newest_macos_app_dockfix/</link>
+      <description><![CDATA[        提交人    /u/Glubker   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1evi1o5/my_newest_macos_app_dockfix/</guid>
+      <pubDate>Sun, 18 Aug 2024 19:46:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>创建了一个微型工作公告板来与 mTurk 竞争。无需登录。无需注册。即时支付任意金额。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1evhu8u/created_a_micro_jobs_board_to_compete_with_mturk/</link>
+      <description><![CDATA[        提交者    /u/newWorldAddress_com   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1evhu8u/created_a_micro_jobs_board_to_compete_with_mturk/</guid>
+      <pubDate>Sun, 18 Aug 2024 19:37:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>开发了一款无需互联网即可在 Apple 设备上运行 AI 聊天模型的应用程序</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1evhl5t/developed_an_app_that_run_ai_chat_models_without/</link>
+      <description><![CDATA[开发此应用是因为我长时间没有上网，有时我发现自己需要向 ChatGPT 询问一些事情 Privacy AI 完全在设备上运行，确保数据的安全和私密。 为什么要选择 Privacy AI？ 终极隐私：不收集数据，不共享。您的互动严格保留在您的设备上。 无广告：出于上一个原因 离线功能：无需互联网连接即可使用该应用。 跨设备访问：无论您使用的是 Mac、iPad 还是 iPhone，都可以无缝访问所有功能。 家庭共享：该应用是免费的，但如果您想尝试更智能的模型，您可以免费试用，也可以一次性购买。 我的应用正在突破设备 AI 的界限，为您提供无与伦比的用户体验。借助 Privacy AI，您可以直接在设备上下载并运行开源大型语言模型 (LLM)，确保快速的性能和完全的控制。    提交人    /u/painkiller128   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1evhl5t/developed_an_app_that_run_ai_chat_models_without/</guid>
+      <pubDate>Sun, 18 Aug 2024 19:26:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>一个可以让你与人工智能辩论各种类别的网站</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1evgty9/website_that_lets_you_debat_with_ai_over_various/</link>
+      <description><![CDATA[http://humanvsllm.com/    由   提交  /u/Sad-Giraffe9686   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1evgty9/website_that_lets_you_debat_with_ai_over_various/</guid>
+      <pubDate>Sun, 18 Aug 2024 18:54:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fountn - 精心策划的设计资源。每周更新。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1evg0kl/fountn_carefully_curated_design_resources_updated/</link>
+      <description><![CDATA[我建立了一个我非常相信的副项目。它的内容如下： 作为设计师，我们的第一反应是在设计时求助于 Google 来寻找资源。 无论是展示设计的模型、关于创建用户旅程的文章，还是与我们的设计相匹配的免费图标 - 它都会减慢我们的速度。 信息很分散，我们不想在紧张的工作中因为搜索某些东西而失去注意力。 Fountn 汇编了一个全面且不断扩展的设计资源列表，可让您根据需要轻松搜索和过滤结果。 每种资源都是由设计师精心挑选和审核的，专为设计师服务。 新功能即将推出，从为资源添加书签开始。 希望听到您的反馈： fountn.design    由    /u/ozanozt 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1evg0kl/fountn_carefully_curated_design_resources_updated/</guid>
+      <pubDate>Sun, 18 Aug 2024 18:20:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>我做了一个免费自动申请工作的服务</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1evfxcl/i_made_a_service_that_automatically_applies_to/</link>
+      <description><![CDATA[目前，它每天可申请 5 个职位，并支持申请美国的现场和远程职位（更多应用/天和位置过滤器即将推出）。 您可以查看所有已填写申请的屏幕截图。 它被称为 Apply Sloth（链接在下面的评论中）。 它完全免费，所以尝试一下吧！    提交人    /u/ApplySloth   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1evfxcl/i_made_a_service_that_automatically_applies_to/</guid>
+      <pubDate>Sun, 18 Aug 2024 18:16:22 GMT</pubDate>
+    </item>
     <item>
       <title>创建 POV 来构建你的初创企业</title>
       <link>https://www.reddit.com/r/SideProject/comments/1evfq7g/create_a_pov_to_build_your_startup/</link>
@@ -53,62 +109,6 @@
       <description><![CDATA[嘿r/sideproject！我是 Buildpad 的联合创始人 Felix，我们很高兴与您分享我们的最新项目。 https://reddit.com/link/1eve8n4/video/ahktfda2bgjd1/player Buildpad 是一个由人工智能 (Claude Sonnet 3.5) 驱动的业务构建平台，可指导企业家完成创建和发展业务的每一步。它的独特之处在于：  想法验证：利用 Reddit 的 API 通过帖子、评论和讨论获取有关您的想法的真实数据。 结构化流程：遵循从想法验证到发布及以后的清晰路线图。 团队协作：与联合创始人合作，所有这些都由同一个 AI 协助。 中央上下文库：我们的 AI 会记住有关您项目的所有信息，以提供一致、明智的指导。  我们正在解决企业家不知道下一步该做什么的常见问题，尤其是在想法生成和验证阶段。借助 Buildpad，您可以通过在 Reddit 上搜索相关关键字来验证您的想法，从而帮助您了解人们是否真正遇到了您想要解决的问题。 我们处于 MVP 阶段，正在寻找早期采用者来测试平台并提供反馈。 我们很乐意听到您的声音：  此解决方案是否与您的创业挑战产生共鸣？ 您认为这样的工具中最有价值的功能是什么？ 关于使用 AI 进行创业指导有什么想法或疑虑吗？  如果您有兴趣尝试 Buildpad 或有任何疑问，请在下面发表评论或直接发信息给我。谢谢您的关注！ buildpad.io    提交人    /u/UltraIngo   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1eve8n4/weve_built_an_aipowered_business_building/</guid>
       <pubDate>Sun, 18 Aug 2024 17:04:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>Runningcamps.org 寻找最佳跑步训练营</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1eve7a9/runningcampsorg_for_finding_the_best_running_camps/</link>
-      <description><![CDATA[Runningcamps.org 是一个列出了大量不同跑步训练营和跑步体验的网站。用户可以按美国各州搜索或查看我们所有的列表。我们还提供多种国际跑步体验。网站首页显示特色训练营、最近添加的训练营、最近评论的训练营和最受关注的训练营。用户可以免费添加他们的训练营以提升他们的在线形象 https://runningcamps.org    提交人    /u/RunningcampsDOTorg   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1eve7a9/runningcampsorg_for_finding_the_best_running_camps/</guid>
-      <pubDate>Sun, 18 Aug 2024 17:03:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>想法评论：完全在浏览器中运行的私人时间跟踪器</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1eve3xy/idea_review_a_private_time_tracker_that_runs/</link>
-      <description><![CDATA[大家好，您或您认识的人会使用在浏览器中运行的注重隐私的时间跟踪器吗？ 背景：去年我在 HN 上发布了我的时间跟踪器的云驱动版本。它获得了相当不错的关注，因此超级简单的时间跟踪器的整体想法可以发挥作用。但时间跟踪器市场已经饱和，所以你需要一个优势。 我认为注重隐私可能就是那个优势。我找到了这个 reddit 帖子，到目前为止，我收到的一些评论都是这样的：“看起来很棒，但您不能查看数据库并了解我在做什么吗？”这就是我获得灵感的地方：如果这些数据从一开始就从未离开浏览器会怎么样？ 我正在考虑的一个额外功能是在此基础上构建一个扩展，以跟踪您在每个网站上花费的时间。当这些数据离开您的计算机时会很恐怖，当它留在计算机上或以加密形式同步时很有用。 我很乐意听取您对整个想法的诚实反馈。它受到我对 local-first 软件 的兴奋的影响。如果您正在开发收集个人数据的应用程序，请考虑一下！:) 谢谢！P.s. 我创建了一个等候名单，欢迎加入！    提交人    /u/foobarring   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1eve3xy/idea_review_a_private_time_tracker_that_runs/</guid>
-      <pubDate>Sun, 18 Aug 2024 16:59:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>从零开始学习机器学习</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1eve0xy/learn_machine_learning_from_scratch/</link>
-      <description><![CDATA[在此处找到：https://github.com/DorsaRoh/Machine-Learning 从头开始实现和解释核心机器学习算法和神经网络，假设您完全不知道。 遍历底层数学，通过清晰、实用的示例分解梯度下降和反向传播。  享受    提交人    /u/happyHumanity   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1eve0xy/learn_machine_learning_from_scratch/</guid>
-      <pubDate>Sun, 18 Aug 2024 16:55:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>Bash Events：大学校园活动平台</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1evdyh3/bash_events_event_platform_for_college_campuses/</link>
-      <description><![CDATA[直观地查看校园内发生的每项活动，并免费发布您的活动以扩大其影响力。目前，我们专注于 GCU 作为第一目标大学 https://basheventsapp.com     提交人    /u/TheBashEventsApp   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1evdyh3/bash_events_event_platform_for_college_campuses/</guid>
-      <pubDate>Sun, 18 Aug 2024 16:53:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个 Android 应用程序，通过 RSS 来关注网站</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1evdqt4/i_created_an_android_application_to_follow/</link>
-      <description><![CDATA[        提交人    /u/Dry-Space-2675   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1evdqt4/i_created_an_android_application_to_follow/</guid>
-      <pubDate>Sun, 18 Aug 2024 16:43:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>人们会使用基于浏览器的应用程序吗？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1evdoz0/will_people_use_a_browser_based_application/</link>
-      <description><![CDATA[我的第一个项目是一个基于浏览器的应用程序。在所有设备上看起来都不错，但遗憾的是，它不在任何应用商店中。它是 DOA 吗？我很难想出我自己使用的任何基于浏览器的应用程序，现在我很担心。我为什么不建立一个应用程序？当时不知道怎么做     提交人    /u/khalant1989   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1evdoz0/will_people_use_a_browser_based_application/</guid>
-      <pubDate>Sun, 18 Aug 2024 16:41:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>我将在 Product Hunt 上推出一款令人惊叹的 Notion Habit Tracker</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1evdnvo/i_am_launching_a_stunning_notion_habit_tracker_on/</link>
-      <description><![CDATA[嘿，我是 Product Hunt 上的新 Notion Habit Tracker 模板！ 它采用漂亮的网格设计，视觉上很吸引人。 非常感谢您提供的任何支持或反馈。 如果您有时间，请在 Product Hunt 上查看。每一点支持对我来说都意味着全世界。🙏 https://www.producthunt.com/products/notion-habit-tracker-10 非常感谢。    提交人    /u/wingalong   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1evdnvo/i_am_launching_a_stunning_notion_habit_tracker_on/</guid>
-      <pubDate>Sun, 18 Aug 2024 16:40:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>只是一份简单的购物清单</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1evdixs/just_a_simple_grocery_list/</link>
-      <description><![CDATA[        提交人    /u/Life_Ad_2142   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1evdixs/just_a_simple_grocery_list/</guid>
-      <pubDate>Sun, 18 Aug 2024 16:34:36 GMT</pubDate>
     </item>
     </channel>
 </rss>
