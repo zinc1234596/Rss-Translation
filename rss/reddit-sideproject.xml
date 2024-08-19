@@ -4,111 +4,111 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Mon, 19 Aug 2024 09:15:35 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Aug 2024 12:26:40 GMT</lastBuildDate>
     <item>
-      <title>虚假 MRR 作为营销策略</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1evx6e6/fake_mrr_as_a_marketing_strategy/</link>
-      <description><![CDATA[我不再相信 MRR。最近似乎越来越多的人使用这种肮脏的策略来吸引受众购买他们的产品。 它的工作原理如下：  哇，他在 PH 上一次发布就赚了 2,000 美元。 如果这么多人购买，该产品一定是优质产品。 我会尝试一下。  此外，MRR 的屏幕截图正在 Twitter 上产生网络效应。这个角色的推文会自动变得更有价值，因为他赚了，他赢了。 我认为这在过去一两年里已经开始获得势头。你怎么看？    提交人    /u/Moist-Knowledge-6354   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1evx6e6/fake_mrr_as_a_marketing_strategy/</guid>
-      <pubDate>Mon, 19 Aug 2024 09:07:22 GMT</pubDate>
+      <title>如何取消对 reddit 个人资料的禁令？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1evzyix/how_to_unban_reddit_profile/</link>
+      <description><![CDATA[  由    /u/Various_Estate1895  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1evzyix/how_to_unban_reddit_profile/</guid>
+      <pubDate>Mon, 19 Aug 2024 12:02:24 GMT</pubDate>
     </item>
     <item>
-      <title>这是菲律宾人的作业！！！！谢谢......</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1evx1ar/this_is_a_filipino_homework_thank_you/</link>
-      <description><![CDATA[        提交人    /u/Abject-Gazelle7702   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1evx1ar/this_is_a_filipino_homework_thank_you/</guid>
-      <pubDate>Mon, 19 Aug 2024 08:57:39 GMT</pubDate>
+      <title>出售我的第一个独立项目（大约一年内价值 20,000 美元以上）</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1evzwdm/selling_my_first_indie_project_20k_in_about_a_year/</link>
+      <description><![CDATA[大家好，去年 6 月，我发布了 Beam - 一个适用于 macOS 的原生 OpenAI 客户端。 这是我的第一个（也是唯一一个）独立应用程序，一次性销售额约为 2 万美元。 我不擅长营销。我没有太多的空闲时间，我需要做全职工作来养家糊口，而且身边还有一个新生儿，下班后很难投入时间。总而言之，登陆页面有大约 2 万名访客。所以我大概从每个访客那里赚了 1 美元。 我所有的流量都来自 SEO。我没有写任何博客文章，但谷歌不知为何就喜欢了我的页面。现在这个渠道对我来说已经死了。不确定是不是因为 Google 更新了，还是其他原因，但这些天我每月只有大约 200 位访客。 我和妻子刚刚又生了一个孩子（两个不到两岁）。所以对我来说，保留 Beam 是行不通的。我为这个应用付出了很多努力，现在我想出售它。 无论是代码库还是其他东西，我认为我已经做了很多基础工作。这可以转变为白标解决方案，或者某种 B2B。 如果有人感兴趣，无论是代码库还是其他东西。请给我发送 DM 或发送电子邮件至 [andrej@jurkin.io](mailto:andrej@jurkin.io) 感谢大家！ 干杯    由   提交  /u/Delicious-Setting403   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1evzwdm/selling_my_first_indie_project_20k_in_about_a_year/</guid>
+      <pubDate>Mon, 19 Aug 2024 11:59:34 GMT</pubDate>
     </item>
     <item>
-      <title>我建立了一个开源项目来管理 LLM 集成并构建内部 AI 聊天应用程序</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1evwsxj/i_built_an_opensource_project_to_manage_llm/</link>
-      <description><![CDATA[大家好，我和我的朋友创建了 https://github.com/hendychua/airstrip。 Airstrip 通过提供一个与 LLM 服务集成并构建内部 AI 应用的平台，帮助您管理公司的 AI 使用情况。这是一个简短的演示视频：https://youtu.be/WREhMJMZmJA 随着 AI 的使用越来越普遍，公司希望仔细规范他们使用的 AI 服务并控制发送的数据，以确保数据安全性和合规性。构建和使用使用 AI 简化操作的内部应用也是一个常见的用例。 这正是 Airstrip 可以提供帮助的地方。该平台允许您使用自己的 API 密钥添加与不同 AI 服务的集成。您可以限制哪些团队可以使用这些 API 密钥。管理员可以通过提示构建内部 AI 应用程序。成员可以使用这些内部应用程序。 Airstrip 目前专注于让非技术用户轻松构建 AI 应用程序 - 任何人（您的人力资源团队、运营团队等）都可以通过提示构建 AI 应用程序，因为他们拥有领域知识（并且它可以让工程师腾出时间构建其他更复杂的应用程序）。 我们不是工作流工具，也不是提示管理工具（至少现在还不是）。这些是我们计划中的功能，但我们专注于让非技术用户尽可能轻松地构建应用程序。 Airstrip 是完全开源的，您可以轻松上手。它处于早期阶段，我们正在添加更多功能。如果您尝试并给我们您的反馈，我们将不胜感激。谢谢！    提交人    /u/hc_redveg   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1evwsxj/i_built_an_opensource_project_to_manage_llm/</guid>
-      <pubDate>Mon, 19 Aug 2024 08:40:48 GMT</pubDate>
+      <title>对于独立开发者的副业项目来说，最好的技术栈是什么？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1evzrrt/whats_the_best_tech_stack_for_a_solo_developers/</link>
+      <description><![CDATA[目前我发现两个堆栈符合我的需求：（我尝试在两者上进行构建，发现 Wasp 更容易上手，因为它是一个“全栈”框架，但可定制性较差）  Next.js + Supabase Wasp，尤其是他们构建了 OpenSaaS，一个 SaaS 样板。  你们觉得哪一个更好？    提交人    /u/kouyaruten   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1evzrrt/whats_the_best_tech_stack_for_a_solo_developers/</guid>
+      <pubDate>Mon, 19 Aug 2024 11:52:23 GMT</pubDate>
     </item>
     <item>
-      <title>我创建了“Big on X”，以发现任何关注者级别的 X 新星</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1evws9k/i_built_big_on_x_to_spot_xs_rising_stars_at_any/</link>
-      <description><![CDATA[    /u/known_panda   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1evws9k/i_built_big_on_x_to_spot_xs_rising_stars_at_any/</guid>
-      <pubDate>Mon, 19 Aug 2024 08:39:33 GMT</pubDate>
+      <title>[问题] 一个可以帮我制定去任何地方任意天数行程的 AI 工具</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1evzpxp/question_an_ai_tool_that_can_help_me_form/</link>
+      <description><![CDATA[我正在寻找一种人工智能工具，它可以帮助我创建前往世界任何地方的旅行行程，并且只需要我提供的尽可能少的信息。我搜索了一些，偶然发现了 EasyTrip AI，它有一个付费程序，也提供免费试用。然后是 Tripplanner Ai，但它不是我想要的，因为它缺少旅行行程中的许多主要组成部分。  现在我在考虑是否应该花钱购买 EasyTrip AI 并获得付费版本。因为如果它有效，它可能会对我的旅行旅程有很大帮​​助。  谢谢。     提交人    /u/Markita2974747   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1evzpxp/question_an_ai_tool_that_can_help_me_form/</guid>
+      <pubDate>Mon, 19 Aug 2024 11:49:36 GMT</pubDate>
     </item>
     <item>
-      <title>我开发了一个通过阅读 Reddit 来寻找 SaaS 创意的人工智能</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1evwk0g/i_built_an_ai_that_reads_reddit_to_find_saas_ideas/</link>
-      <description><![CDATA[        由    /u/SoegaardN  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1evwk0g/i_built_an_ai_that_reads_reddit_to_find_saas_ideas/</guid>
-      <pubDate>Mon, 19 Aug 2024 08:23:17 GMT</pubDate>
+      <title>番茄工作法不管用……至少对我来说是这样。所以我开发了自己的应用，终于解决了我的拖延症问题</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1evzisa/pomodoro_isnt_working_at_least_for_me_so_i_built/</link>
+      <description><![CDATA[   我一直是个慢性拖延症患者……我尝试了每一种提高效率的策略，阅读了无数的文章，经过多年的奋斗，我终于恍然大悟：我的主要问题是开始任务。一旦我设法开始一项任务并强迫自己花几分钟时间完成它，继续下去就不是什么问题了。 我发现了&quot;5 分钟规则&quot; 技术，它说如果你能花 5 分钟（最难的部分）完成一项任务，继续下去就会变得容易得多。在寻找可以帮助解决这个问题的工具/移动应用程序后，我决定创建自己的应用程序，专门用于克服最初的阻力。 基本上，你只需选择一个目标（学习、工作等）、你想要投入的时间（至少 5 分钟），然后在那段时间内完成它。然而，大多数时候我发现自己反而工作了几个小时（因为秒表一直在计时）。 这听起来可能很简单，但在尝试了大量过于复杂的东西之后，这个策略是唯一对我有用的策略。它可能也适用于你 应用程序链接：https://apps.apple.com/app/chrony-flow-into-action/id6636541447 https://preview.redd.it/fs5652kuxljd1.jpg?width=1920&amp;format=pjpg&amp;auto=webp&amp;s=1876832f72e8b98b387a25f9ba23ca3e0c862f75    提交人    /u/Honest-Cod-301   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1evzisa/pomodoro_isnt_working_at_least_for_me_so_i_built/</guid>
+      <pubDate>Mon, 19 Aug 2024 11:38:33 GMT</pubDate>
     </item>
     <item>
-      <title>批量图像模糊处理 - 免费，无需登录，隐私保护</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1evwd0w/bulk_image_blurring_free_no_login_privacy_friendly/</link>
-      <description><![CDATA[大家好！我在这里推出我的一个工具。这是一个批量图像模糊处理工具。试试看吧！ 它 100% 保护隐私，这意味着您的图像不会发送到任何服务器进行模糊处理。一切都发生在您的设备上。 所有其他工具在处理时都会在其服务器上保留您的图像副本。您不能 100% 确定您的图像之后会被删除。 但是如果您使用此工具，我保证您的图像永远不会离开您的计算机。它们会保留在您的设备上并在那里进行处理。因此，它 100% 保护隐私。而且，它是免费的！ https://imagetoolshub.com/tools/bulk-image-blurring/    提交人    /u/_blueseal   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1evwd0w/bulk_image_blurring_free_no_login_privacy_friendly/</guid>
-      <pubDate>Mon, 19 Aug 2024 08:09:31 GMT</pubDate>
+      <title>即时设计的人工智能代理可帮助你对抗名人</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1evzhdz/prompt_engineered_ai_agent_to_help_you_fight/</link>
+      <description><![CDATA[      大家好，我们构建了一些有趣的东西！ X Showdown 旨在让您用那种傲慢、自信和卑鄙的舌头挑战 X 上的任何人。此工具会分析你和对手的推文，然后吐出一个令人震惊的事实，告诉你为什么你如此酷，为何比对手更优秀。 类似的工具 Wordware 可能只会嘲笑你自己，但 X Showdown 可以帮助你击败他人！ 只需添加你和某个让你烦恼的人的 Twitter 帐号，看看你如何击败他或她！顺便说一下，它是免费的！ 现在让我们看看唐纳德·特朗普如何击败伊隆·马斯克！猜猜特朗普会喜欢还是不喜欢？ 你和金·卡戴珊怎么样...试试看！挑战名人，发掘你的制胜优势！  当您在 Twitter 上分享特定部分时，请标记我们！ https://preview.redd.it/zwziibgxljd1.png?width=1170&amp;format=png&amp;auto=webp&amp;s=9c75d0d43079a0209ad9f6ed70b7dc0a1b23c71d    提交人    /u/samgyeopsalmewo131   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1evzhdz/prompt_engineered_ai_agent_to_help_you_fight/</guid>
+      <pubDate>Mon, 19 Aug 2024 11:36:12 GMT</pubDate>
     </item>
     <item>
-      <title>让博客、帮助中心和更新日志更便捷 — 全部集中在一个地方</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1evvzad/making_it_easier_to_blogs_help_centers_changelogs/</link>
-      <description><![CDATA[    /u/mittalyashu   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1evvzad/making_it_easier_to_blogs_help_centers_changelogs/</guid>
-      <pubDate>Mon, 19 Aug 2024 07:41:45 GMT</pubDate>
+      <title>感谢反馈</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1evzg3h/feedback_appreciated/</link>
+      <description><![CDATA[伙计们，我可以改进什么？ https://www.findredflags.today/    由    /u/Pure_Bit_2981  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1evzg3h/feedback_appreciated/</guid>
+      <pubDate>Mon, 19 Aug 2024 11:34:09 GMT</pubDate>
     </item>
     <item>
-      <title>启动一家 SaaS 初创企业的第一步是什么？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1evvt9z/what_are_the_first_steps_of_launching_a_saas/</link>
-      <description><![CDATA[嘿朋友们，我和我的朋友们正在尝试构建一个 SaaS 来解决我们认为值得解决的问题。  我的问题是，我们应该如何开始以及从哪里开始？ 我们是否启动候补名单并看看人们是否对我们的想法感兴趣？ 或者我们至少构建一个可行的原型以便人们可以测试它？    提交人    /u/Main_Ad6084   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1evvt9z/what_are_the_first_steps_of_launching_a_saas/</guid>
-      <pubDate>Mon, 19 Aug 2024 07:29:39 GMT</pubDate>
+      <title>即时设计的人工智能代理可帮助你对抗名人</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1evz6sk/prompt_engineered_ai_agent_to_help_you_fight/</link>
+      <description><![CDATA[大家好，我们创建了一些有趣的东西！ X Showdown 是为您打造的，让您用傲慢、自信和刻薄的语言挑战 X 上的任何人。此工具会分析您和对手的推文，吐出令人震惊的真相，说明您为什么如此酷，为什么比对手更优秀。 类似的工具 Wordware 可能只会嘲笑自己，但 X Showdown 可以帮助您击败他人！ 只需添加您和让您烦恼的人的 Twitter 句柄，看看您如何击败他或她！顺便说一句，它是免费的！ 现在让我们看看唐纳德·特朗普如何击败伊隆·马斯克！猜猜特朗普会喜欢还是不喜欢？ 金·卡戴珊和你怎么样……试试吧！挑战名人，发掘您的制胜优势！  当您在 Twitter 上分享特定部分时，请标记我们！    提交人    /u/samgyeopsalmewo131   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1evz6sk/prompt_engineered_ai_agent_to_help_you_fight/</guid>
+      <pubDate>Mon, 19 Aug 2024 11:18:52 GMT</pubDate>
     </item>
     <item>
-      <title>使用社交证明验证您的客户并提高销量。一个月内覆盖 11 位用户。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1evvcbt/verify_your_customers_and_boost_sales_with_social/</link>
-      <description><![CDATA[大家好。一个月前，我推出了一个名为 https://verifiedcustomers.services 的平台，在没有太多广告的情况下，我们已经拥有 11 个用户。快速增长证明了企业对此类解决方案的真正需求。 那么，什么是经过验证的客户？数字企业通常会在其网站上展示客户评论和社交证明，但这些信息的可信度有时值得怀疑。重要的客户反馈可能会在未经验证的评论中丢失，使潜在客户难以信任所分享的体验。 经过验证的客户是一个旨在解决此问题的平台。它使数字企业（无论您是从事电子商务、SaaS 还是运行独立黑客项目）能够显示经过验证且有意义的客户反馈。我们通过收集和验证来自客户的购买电子邮件和 X（以前称为 Twitter）句柄来实现此目的。验证后，此客户信息将以带有 X 徽标的提示通知形式显示在您的网站上。 当潜在客户访问您的网站时，他们可以点击这些通知查看客户的 X 个人资料，从而确保反馈的真实性。这样一来，您就可以消除干扰，并突出对您的业务最重要的真实客户体验。 最重要的是，已验证客户功能已全面投入使用，您可以立即使用 - 无需等待，只需注册即可立即开始受益！ 我愿意接受任何反馈。我的目标是不断改进产品并根据用户需求进行定制：https://verifiedcustomers.services    提交人    /u/malamatcaga   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1evvcbt/verify_your_customers_and_boost_sales_with_social/</guid>
-      <pubDate>Mon, 19 Aug 2024 06:56:28 GMT</pubDate>
+      <title>Feedback Sandwich——人工智能工作场所反馈工具</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1evyyds/the_feedback_sandwich_aipowered_workplace/</link>
+      <description><![CDATA[  由    /u/dinothedinosaur  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1evyyds/the_feedback_sandwich_aipowered_workplace/</guid>
+      <pubDate>Mon, 19 Aug 2024 11:05:06 GMT</pubDate>
     </item>
     <item>
-      <title>我创建了这个网站，为创始人和创作者提供 150 多种完全免费的工具和资源</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1evuzb5/i_made_this_site_with_150_completely_free_tools/</link>
-      <description><![CDATA[        提交人    /u/ysl17   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1evuzb5/i_made_this_site_with_150_completely_free_tools/</guid>
-      <pubDate>Mon, 19 Aug 2024 06:30:29 GMT</pubDate>
+      <title>经过数月对 AI 模型的调整，我为团队构建了一体化 AI 工作区，每位用户每月只需支付 2 美元即可访问 210 多个 AI 模型</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1evyx1s/after_months_of_juggling_ai_models_i_built/</link>
+      <description><![CDATA[大家好， 过去 2 个月我一直在做某件事，我认为它终于可以分享了。 想象一下：2 个月前，我坐在办公桌前，周围大约有 7-8 个打开的标签，每个标签都是不同的 AI 服务。其中一个是 ChatGPT，另一个是 Dalle，Gemini 也在其中……你明白我的意思。我团队的 Slack 上充斥着诸如“那提示是什么？”和“你用哪个 AI 来做这个？”之类的消息。 更不要说成本了。我们大量亏损——每个 AI 服务、每个用户、每个月这里 20 美元，那里 20 美元。这就像烧掉我们的预算一样。就在那时，我有了这个想法。我想，“一定有更好的方法来做这件事。”经过 2 个月的日夜编码，我和联合创始人 Flamingo.ai 诞生了。它的作用如下：  一站式 AI 商店：我们集成了 210 多个 AI 模型。OpenAI (GPT-4、GPT-3.5、DALL-E 3)、Anthropic 的 Claude、Google 的 Gemini、Meta 的 Llama、Mistral......只要是值得使用的 AI 模型，我们都有。不再需要疯狂地切换标签页。 文件夹组织：还记得你花了一个小时浏览 ChatGPT 历史记录，试图找到那个精彩的提示吗？是的，那些日子已经过去了。将您的聊天记录组织到文件夹和子文件夹中。  提示共享：我们让与团队共享提示变得非常容易。因为让我们面对现实吧，如果营销部门的 Sarah 精心设计了生成广告文案的完美提示，那么销售部门的 Tom 为什么必须从头开始呢？ 对 AI 聊天的评论：队友可以提出建议，例如“尝试以这种方式提问以获得更好的答案。” 这是协作式 AI 私语。 与 AI 进行群聊：您的团队可以在与 AI 共享的聊天室中协作。每个人都可以看到对话、提出问题并在 AI 的帮助下建立彼此的想法。 分析：想知道您的团队实际上是如何使用 AI 的吗？我们已经为您做好了准备。找出谁是 AI 高级用户，谁还在输入“嘿 AI，我该如何使用 AI？”  现在，关键来了 - 我们以每位用户每月 2 美元 + API 成本完成所有这些。您只需为所有服务中实际使用的内容付费。不再有浪费的订阅或未使用的配额。如果您是一个 2 人团队，我们为您提供免费计划。 构建 Flamingo.ai 并非一帆风顺。但我们坚持不懈。我们调试。我们用头撞墙（主要是比喻...）。最后，我们找到了一些行之有效的东西。 如果您淹没在 AI 工具中并正在寻找救生筏，也许可以试试 Flamingo.ai。所以，使用它，然后让我知道你的想法。 如果你有任何问题、建议，或者想告诉我你认为这可能会出错的所有方式，请随时提出。我洗耳恭听。 哦，还有一件事——我们还为它推出了一个联盟计划。您可以从所有付费推荐中获得 30% 的终身经常性佣金。（这是成为我们联盟会员的链接：https://flamingo.tolt.io/login） PS：我正在寻找营销联合创始人，因为我在 B2B 销售方面没有太多经验。因此，如果有人感兴趣并且有专业知识，请直接发邮件给我。 Flamingo AI 演示    提交人    /u/JonathanWilde12   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1evyx1s/after_months_of_juggling_ai_models_i_built/</guid>
+      <pubDate>Mon, 19 Aug 2024 11:02:54 GMT</pubDate>
     </item>
     <item>
-      <title>我非常乐意免费推广你的初创企业。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1evufwq/id_be_delighted_to_promote_your_startup_for_free/</link>
-      <description><![CDATA[我很乐意免费推广您的创业公司，因为过去两周我一直在构建我的副业项目 Tierlify - 一个发现在线 AI 工具和用例趋势的网站。现在，我正试图重新专注于建立关系。 在这里您可以分享您的创业项目，让我们一起努力将其添加到网站。我希望它可以帮助您验证您的想法或获得关注等。    提交人    /u/ZU_YOUNG   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1evufwq/id_be_delighted_to_promote_your_startup_for_free/</guid>
-      <pubDate>Mon, 19 Aug 2024 05:55:14 GMT</pubDate>
+      <title>腾出时间</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1evywxt/making_time/</link>
+      <description><![CDATA[每个人如何在做 1 或 2 份工作之余抽出时间去健身房之类的事情？ 一份日常工作、一份副业和去健身房有时似乎是不可能的    提交人    /u/pdfmboii20   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1evywxt/making_time/</guid>
+      <pubDate>Mon, 19 Aug 2024 11:02:44 GMT</pubDate>
     </item>
     <item>
-      <title>[招聘] 前端开发人员工作机会</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1evue2v/hiring_frontend_developer_job_opportunity/</link>
-      <description><![CDATA[嗨，开发人员，我们在平台上列出了前端开发人员的新职位。如果您正在寻找此职位，请查看职位链接 职位 - 前端开发人员（远程，全职） 职位链接 - http://devloprr.com/jobs#262    提交人    /u/devloprr   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1evue2v/hiring_frontend_developer_job_opportunity/</guid>
-      <pubDate>Mon, 19 Aug 2024 05:51:56 GMT</pubDate>
+      <title>我开发了这款基于 Gemini 的应用程序，用于合并文档、创建书籍和工作表，供 Gemini AI 开发者竞赛使用</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1evys9x/i_built_this_gemini_powered_app_to_merge/</link>
+      <description><![CDATA[      https://reddit.com/link/1evys9x/video/8knjpqewpljd1/player 我很高兴与大家分享我为 Gemini API 开发者大赛构建的新应用！此应用程序Merge Docs Pro旨在简化文档创建过程，特别适合需要将多个文档合并为一个统一输出的用户。 功能：  合并多个文档：将任何类型的文档（Google Docs、Word、PDF 等）无缝合并为一个统一的文件。 创建书籍和工作表：作者、教育工作者和技术作家可以使用该应用程序来汇编书籍、工作表和其他大型项目，尤其是在采用模块化或基于组件的方法工作时。还可以使用提示创建书籍，并为每个学生生成独特的工作表。 使用 Gemini 生成章节摘要：该应用利用 Gemini 自动生成每个章节的摘要，提供内容的快速概览或基本摘要。  为什么有用：  对于作者和作家：此工具非常适合那些从事大型写作项目并需要将各个章节或部分合并为一份手稿的人。 对于教育工作者：教师可以通过合并不同的资源来创建全面而个性化的工作表，从而更轻松地分发和管理针对每个学生量身定制的教育材料。 统一输出：该应用支持合并来自不同工具链的文档，确保您可以轻松从各种来源和格式中提取内容。  我构建此应用的目的是简化通常繁琐的文档合并和管理过程。无论您是作者，老师还是处理大量内容的任何人，我都希望此工具能让您的生活更轻松一些！ 有关如何使用该应用程序的详细文档：https://docs.mergedocs.pro 查看它，我很乐意听到您的反馈！    提交人    /u/techwriter500   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1evys9x/i_built_this_gemini_powered_app_to_merge/</guid>
+      <pubDate>Mon, 19 Aug 2024 10:55:15 GMT</pubDate>
     </item>
     <item>
-      <title>尝试制作一个产品价格比较的扩展</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1evtvoz/trying_to_make_an_extension_for_product_price/</link>
-      <description><![CDATA[我完全是这方面的新手，这是我决定开始的第一个项目。截至目前，我知道的是，我需要使用数据抓取从打开扩展程序的网站上抓取数据，然后在其他网站上搜索相同的产品并显示其名称和价格以供比较。还提供一个按钮来转到链接。 问题是，我不知道如何让扩展程序在其他网站上搜索产品名称， 有什么帮助吗？我只需要知道如何开始使用这个    提交人    /u/Unfair_Music6551   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1evtvoz/trying_to_make_an_extension_for_product_price/</guid>
-      <pubDate>Mon, 19 Aug 2024 05:18:35 GMT</pubDate>
+      <title>我开源了一个使用 flux.1 生成图像的 Web UI 应用程序</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1evye56/i_open_sourced_a_web_ui_application_that/</link>
+      <description><![CDATA[我开源了一个使用 flux.1 生成图像的 Web 应用程序，供开发者快速部署图像生成器项目。 https://github.com/volume988/flux-ai-image-webui/ 如果您觉得有用，非常感谢。    提交人    /u/owys128   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1evye56/i_open_sourced_a_web_ui_application_that/</guid>
+      <pubDate>Mon, 19 Aug 2024 10:30:06 GMT</pubDate>
     </item>
     <item>
-      <title>我开始了一个新的副项目，这是搜索控制台图表。这是一个好的开始吗？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1evtoay/ive_started_a_new_side_project_and_here_is_the/</link>
-      <description><![CDATA[      背景：我已将网站提交到一些目录以获取一些反向链接，该网站总共有大约 30 个页面。 搜索控制台图表    提交人    /u/DerrickXia   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1evtoay/ive_started_a_new_side_project_and_here_is_the/</guid>
-      <pubDate>Mon, 19 Aug 2024 05:05:18 GMT</pubDate>
+      <title>我们开发了视频换脸 AI 工具。您觉得怎么样？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1evyake/we_built_the_video_face_swap_ai_tool_what_do_you/</link>
+      <description><![CDATA[        由    /u/FaceSwap-AI  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1evyake/we_built_the_video_face_swap_ai_tool_what_do_you/</guid>
+      <pubDate>Mon, 19 Aug 2024 10:23:31 GMT</pubDate>
     </item>
     <item>
-      <title>我开始了一个新的副项目，这是搜索控制台图表。这是一个好的开始吗？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1evtnnx/ive_started_a_new_side_project_and_here_is_the/</link>
-      <description><![CDATA[      Search Console Chart 背景：我已将网站提交给一些目录以获取一些反向链接，该网站共有大约 30 个页面。    提交人    /u/DerrickXia   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1evtnnx/ive_started_a_new_side_project_and_here_is_the/</guid>
-      <pubDate>Mon, 19 Aug 2024 05:04:07 GMT</pubDate>
+      <title>终于认出 Redditors 了！这是我的想法 - 请吐槽一下 :)</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1evxxbs/finally_recognising_redditors_here_is_my_idea/</link>
+      <description><![CDATA[我很喜欢使用 Reddit，其中最突出的一点就是我们真诚地互相帮助，提供诚实的建议和推荐。这就是 Reddit 的特别之处，对吧？这让我想到——如果每天有效地充当免费品牌大使的 Redditor 最终得到认可，那不是很酷吗！ 想象一下：你是一名企业家，或者只是喜欢在 Reddit 上分享有用提示的人。你意识到，在某种程度上，你就像你所谈论的产品和服务的免费品牌大使。发布一天的帖子后，你可能会想，“我喜欢这个，但得到一些认可不是很酷吗？” 这就是我的想法 6degrees 的用武之地。这是一个平台，你可以连接你的 Reddit 帐户，并根据你的活动，你只需做你自己并提供真诚的建议即可解锁奖励。  作为 Reddit 上忙碌的企业家，您将获得各种福利，例如 3 个月的 Notion 七折优惠、4 个月的 fireflies .ai 试用，甚至一年的 Hubspot 九折优惠 - 非常适合想要节省商业工具费用的人！！  最好的部分？您无需更改使用 Reddit 的任何方式。6degrees 可以识别您的真诚推荐，而无需您付出任何额外努力。您继续做自己，回报就会滚滚而来。  哦，顺便说一句 - 品牌也喜欢它！借助 6degrees 算法仅跟踪真实帖子，品牌终于可以识别出在 Reddit 上分享真实观点的顶级拥护者 - 不再需要向有影响力的人支付不真实的推销费用（人们讨厌！！）。这一切都是为了支持诚实的口碑，这才是真正重要的。  这就是 6degrees 所要做的。最终回馈那些为社区提供真诚和真实建议的真人。认可创造 Reddit 的人，Reddit。  我很想听听你的想法和反馈！你觉得这个想法怎么样？你会使用这样的平台吗？请吐槽一下 - 我们很乐意听到反馈！     提交人    /u/ex_eag   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1evxxbs/finally_recognising_redditors_here_is_my_idea/</guid>
+      <pubDate>Mon, 19 Aug 2024 10:00:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
