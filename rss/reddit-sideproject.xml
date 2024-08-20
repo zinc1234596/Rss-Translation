@@ -4,7 +4,70 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Tue, 20 Aug 2024 06:19:22 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Aug 2024 09:16:00 GMT</lastBuildDate>
+    <item>
+      <title>我很快就要去中国了，我开发了一个人工智能来提前侦查我的思想犯罪</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ewqybe/im_traveling_to_china_soon_and_i_built_an_ai_to/</link>
+      <description><![CDATA[      https://preview.redd.it/yku8cutibsjd1.png?width=1200&amp;format=png&amp;auto=webp&amp;s=fc8d0e0b4d4f26087c717768c735d15dce8e839c https://preview.redd.it/n6byyd2lcsjd1.png?width=1718&amp;format=png&amp;auto=webp&amp;s=f804d9f642d4c81635810ce3f90aa719b0c684e0 事实上，英国政府公开反对言论自由，这让我感到震惊。在英国，如果你在网上发表言论，你会受到惩罚。显然，我们知道其他某些国家也有这样的规定，但我认为英语国家宪法中都有言论自由。但事实并非如此。基本上只有美国才有言论自由。  https://preview.redd.it/dml1cba0csjd1.png?width=876&amp;format=png&amp;auto=webp&amp;s=30ba4c43f220337754aa064f164d4f0e1307fa13 所以我制作了一个简单的人工智能，它可以搜索你的 Twitter 帐户并显示你的十大 Twitter 思想犯罪和一些合理的指控。它们现在听起来可能很荒谬，但相信我，现实往往会赶上幻想。世界政府蜥蜴人将奥威尔的著作用作手稿，而不是警告。 https://preview.redd.it/vghnkdgobsjd1.png?width=2940&amp;format=png&amp;auto=webp&amp;s=ef71620bbd18db65905b2b0389c5654419e1b09e https://preview.redd.it/95on1bwmbsjd1.png?width=1904&amp;format=png&amp;auto=webp&amp;s=a931ff9dede631fe1d85fe4697bf0521a9c7f919 https://preview.redd.it/vghnkdgobsjd1.png?width=2940&amp;format=png&amp;auto=webp&amp;s=ef71620bbd18db65905b2b0389c5654419e1b09e https://preview.redd.it/gb6ra76hcsjd1.png?width=2748&amp;format=png&amp;auto=webp&amp;s=ea45347befc71b1039e9f469a8dc454873e08f74 无论如何我希望你玩得开心！ 应用程序链接：https://thoughtcrime-three.vercel.app/    由    /u/yjkimjunior  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ewqybe/im_traveling_to_china_soon_and_i_built_an_ai_to/</guid>
+      <pubDate>Tue, 20 Aug 2024 09:12:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 Publishizer 上众筹一本书，并获得 215+ 份预订单！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ewqx0x/crowdfunding_a_book_on_publishizer_and_got_215/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ewqx0x/crowdfunding_a_book_on_publishizer_and_got_215/</guid>
+      <pubDate>Tue, 20 Aug 2024 09:09:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>去年我开发了一款使用人工智能的语音笔记应用程序，以下是它的运行情况（MRR 为 2,380 美元）</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ewqg6q/last_year_i_built_a_voice_notetaking_app_that/</link>
+      <description><![CDATA[自从我在这里推出 RambleFix 已经一年了，我想分享一下事情进展的最新情况。对于那些错过的人，RambleFix 是一个将语音转换为文本的工具，但有一个不同之处 - 它使用人工智能来整理和重写它所听到的内容，将其转换为各种格式，如电子邮件、文章、日记条目、列表、社交媒体帖子或简单笔记。 旅程  增长：我们已经在 219 名活跃订阅者中发展到 2,380 美元的 MRR。在过去的 180 天里，我们的 MRR 增长了 148.83%！ 身份危机：最大的挑战是弄清楚如何营销 RambleFix。它是语音转文本工具吗？笔记应用程序？内容生成工具？转录服务？它四者兼具，这使得确定特定的营销角度变得棘手。 功能更新：我们增加了上传音频或视频文件（最长 4 小时）的功能，以及“附加”到之前的“Rambles”的选项（这就是我们所说的输出）。 用例：人们以各种各样的方式使用 RambleFix - 转录会议、撰写电子邮件、回复客户服务单，甚至记录早晨的头脑风暴会议以制作每日任务列表（我个人最喜欢的）。 商业采用：我们有一位商业客户为他们的组织购买了 18 个席位，这是一种非常棒的感觉！  营销冒险 营销是一场狂野的旅程。我们开始在 Reddit、Facebook 和 Twitter 上进行口口相传。我们的第一篇 Reddit 帖子带来了大量流量（比我后来能够复制的流量还要多）。我们进行了两次 Product Hunt 发布 - 第二次获得了 139 个赞，并且在发布当天的大部分时间里都排在前 10 名。 然后，我们尝试在 Reddit、Meta 和 Twitter 上投放付费广告。我们取得了一些成功，但客户获取成本约为 77 美元，终身价值为 110 美元。现金流有点紧张，所以最近我们让事情自然发生。  下一步是什么？  SEO 重点：产品转换效果很好，所以我计划专注于 SEO 和内容，以吸引更多人关注 RambleFix。 移动应用程序：我很想构建 iOS 和 Android 应用程序以及 Chrome 扩展程序，以使 RambleFix 直接在任何文本框中工作。 教育：我想围绕如何在各种场景中使用 RambleFix 创建更多内容。  一些有趣的统计数据  MRR 增长：过去 30 天内增长 4.82%，过去 60 天内增长 20.02% 订阅者增长：过去 30 天内增长 5.42% 平均售价：13 美元/MRR 客户流失率：12.15%  这次旅程最令人惊讶的事情是什么？每月的经常性收入是多么惊人。它开始快速增加，只要你在成长，它就会不断增加！ 我很乐意听到您的想法或回答您可能对在当前 AI 领域构建和发展像 RambleFix 这样的工具的任何问题。 干杯！    提交人    /u/jamie452   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ewqg6q/last_year_i_built_a_voice_notetaking_app_that/</guid>
+      <pubDate>Tue, 20 Aug 2024 08:37:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>构建“Auto-Analyst”——数据分析人工智能代理系统</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ewqbkg/building_autoanalyst_a_data_analytics_ai_agentic/</link>
+      <description><![CDATA[       由    /u/phicreative1997  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ewqbkg/building_autoanalyst_a_data_analytics_ai_agentic/</guid>
+      <pubDate>Tue, 20 Aug 2024 08:28:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>经过与父亲 3 年的编码，平台终于可以发布了！甚至在构建平台时找到了女朋友来展示演示视频 :D</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ewqab0/finally_after_3_years_of_coding_with_dad_the/</link>
+      <description><![CDATA[    /u/Long-Report423   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ewqab0/finally_after_3_years_of_coding_with_dad_the/</guid>
+      <pubDate>Tue, 20 Aug 2024 08:25:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>全栈忍者正在寻找史诗级副项目冒险的编码合作伙伴！🚀💻</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ewpx7f/fullstack_ninja_seeking_partnerincode_for_epic/</link>
+      <description><![CDATA[您是想提升技能的代码战士吗？和我一起创造一些很棒的东西吧！我正在寻求提升我的经验，并寻找志同道合的朋友一起踏上业余项目之旅。无论您是前端大师、后端奇才还是像我一样的万事通，让我们结合我们的力量，共同创造一些不可思议的东西。带上您的想法、热情和最喜欢的能量饮料——让我们创造一些数字魔法吧！✨    提交者    /u/anonymous_2600   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ewpx7f/fullstack_ninja_seeking_partnerincode_for_epic/</guid>
+      <pubDate>Tue, 20 Aug 2024 07:58:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>我开发了一款 MacOS 应用，可在后台自动跟踪您的时间和工作效率。它会自动对您的活动进行分类、标记项目、创建时间日志，并提供见解以提高您的专注度和工作效率。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ewpv18/i_built_a_macos_app_that_automatically_tracks/</link>
+      <description><![CDATA[        提交人    /u/sachinchoolur   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ewpv18/i_built_a_macos_app_that_automatically_tracks/</guid>
+      <pubDate>Tue, 20 Aug 2024 07:54:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>已超过 40k 次观看</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ewpmwj/crossed_40k_views/</link>
+      <description><![CDATA[      我创建了 cfcheatdetector 项目只是为了简化从 codeforces 检查跳过的比赛的过程。对于那些不知道 codeforces 的人来说，codeforce 是一个竞争性编程平台，最近大多数印度人都在上面作弊，所以我创建了一个工具，你可以在其中输入用户 ID 并检查该用户是否跳过了比赛。它还有一个搜索板功能，我们可以看到我搜索最多的是哪个以及搜索了多少次。 （搜索板功能是最近添加的，所以现在没有太多条目）这是一个简单的项目，但在我发布帖子后没有人实施，它在 12 小时内的浏览量超过了 2 万次。    提交人    /u/unbeatable697   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ewpmwj/crossed_40k_views/</guid>
+      <pubDate>Tue, 20 Aug 2024 07:37:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>创业公司的社交平台！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ewpj3n/a_social_platform_for_startups/</link>
+      <description><![CDATA[你们想在我即将推出的这种社交平台中看到什么：想象一下 Fiverr，但它不是自由职业者，而是共同创办初创公司。 它充满了团队卡片，显示项目描述、团队成员及其角色以及空缺职位。团队有自己的协作空间，用于新成员入职（试用角色）。 团队可以参加每月的黑客马拉松以赢取奖品，展示他们的项目亮点，并在内部市场上列出以提供服务。 欢迎新想法！想用这个改变整个社交空间 :) https://solvearn.net    提交人    /u/Long-Report423   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ewpj3n/a_social_platform_for_startups/</guid>
+      <pubDate>Tue, 20 Aug 2024 07:30:09 GMT</pubDate>
+    </item>
     <item>
       <title>也许不是您的 SaaS 很糟糕 — — 也许只是您的入职流程很糟糕。</title>
       <link>https://www.reddit.com/r/SideProject/comments/1ewo4vg/maybe_its_not_your_saas_that_sucksmaybe_its_just/</link>
@@ -46,69 +109,6 @@
       <description><![CDATA[  由    /u/RecordingWitty2044  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1ewmo57/what_is_domain_registration_cheap_domain/</guid>
       <pubDate>Tue, 20 Aug 2024 04:27:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>启动了我的副项目：SeeFu，帮助创始人完善和制作他们的想法的原型！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ewmo3a/launched_my_side_project_seefu_to_help_founders/</link>
-      <description><![CDATA[  由    /u/PuzzleheadedIce3774  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ewmo3a/launched_my_side_project_seefu_to_help_founders/</guid>
-      <pubDate>Tue, 20 Aug 2024 04:27:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>新品发布，助您轻松理财🎉🚀</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ewmfrx/new_launch_easing_your_finances/</link>
-      <description><![CDATA[如果您知道有人厌倦了处理 Excel 表格或处理复杂软件，请与他们分享 Hatching！我们可以共同简化经营企业的财务方面。立即尝试 Hatching    提交人    /u/kush0007   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ewmfrx/new_launch_easing_your_finances/</guid>
-      <pubDate>Tue, 20 Aug 2024 04:13:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>从愚蠢的想法到聪明的解决方案：我如何为交易者构建个性化的人工智能新闻通讯。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ewlije/from_dumb_ideas_to_smart_solutions_how_i_built/</link>
-      <description><![CDATA[        由    /u/NextgenAITrading 提交   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ewlije/from_dumb_ideas_to_smart_solutions_how_i_built/</guid>
-      <pubDate>Tue, 20 Aug 2024 03:24:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>我终于完成了作品集网站的升级。请告诉我你的想法。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ewk1h0/finally_done_with_my_portfolio_website_upgrade/</link>
-      <description><![CDATA[      访问 https://kaustubh.dev    由    /u/Inspection-Able  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ewk1h0/finally_done_with_my_portfolio_website_upgrade/</guid>
-      <pubDate>Tue, 20 Aug 2024 02:11:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>我开发了一款美化文本帖子的应用程序，并用人工智能制作了宣传视频👀</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ewk0d4/i_built_an_app_to_beautify_text_post_and_created/</link>
-      <description><![CDATA[        由   提交  /u/Difficult-Grass-6859   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ewk0d4/i_built_an_app_to_beautify_text_post_and_created/</guid>
-      <pubDate>Tue, 20 Aug 2024 02:10:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们开发了一款免费工具，旨在帮助发现热门网站上隐藏的跟踪器和指纹识别尝试</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ewjuqr/we_built_a_free_tool_that_aims_to_help_uncover/</link>
-      <description><![CDATA[我们开发了 Stealth Scan，这是一款免费工具，旨在发现热门网站上的隐形跟踪器。它列出了一些最受欢迎的网站以及发现的跟踪器数量和指纹识别的可能性，这些都基于 DuckDuckGo 的跟踪器雷达 该网站可以通过向用户提供网站特定报告来帮助识别和可视化这些跟踪器，用户可以根据指纹识别分数过滤结果。 快来看看，让我们知道你的想法！ https://stealthscan.tanomitech.com Github： https://github.com/tanomi-tech/stealth-scan    由   提交  /u/tanomitech   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ewjuqr/we_built_a_free_tool_that_aims_to_help_uncover/</guid>
-      <pubDate>Tue, 20 Aug 2024 02:02:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源Opus.pro</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ewjf3v/open_source_opuspro/</link>
-      <description><![CDATA[我正在开发一个开源视频再利用项目，比如 opus pro。我已经完成了脸部裁剪部分，目前正在努力将整个项目开源。有人感兴趣吗？    提交人    /u/ManagementNo5153   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ewjf3v/open_source_opuspro/</guid>
-      <pubDate>Tue, 20 Aug 2024 01:42:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>当事情进展不顺利时，就疯狂观看 Y Combinator 视频。这是我在短短几个小时内疯狂观看 200 多个视频的秘诀：</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ewjad1/when_things_arent_going_well_bingewatch_y/</link>
-      <description><![CDATA[ 将所有视频链接转储到 lilys.ai。 获取人类级别的总结性笔记，这样您就无需重复任何事情。 浏览并突出显示与您的情况相关的内容。 您已经破解了密码！是时候回去工作了。   在这里查看我的 YC 快速笔记集合。👇  https://lilys.ai/collections/7024 https://reddit.com/link/1ewjad1/video/fm3208y03qjd1/player    提交人    /u/Imaginary_Fault_2751   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ewjad1/when_things_arent_going_well_bingewatch_y/</guid>
-      <pubDate>Tue, 20 Aug 2024 01:35:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>Chrome 扩展程序有助于减少在线拖延症</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ewj5om/chrome_extension_to_help_reduce_online/</link>
-      <description><![CDATA[作为一项研究项目的一部分，我们开发了一款新的 Chrome 扩展程序，该扩展程序试图通过显示您今天在当前网站上花费的时间来提高对当前拖延症的认识，并提供机会将这种拖延症意识运动转变为富有成效的番茄工作法会议。 您可以在下面链接的 YouTube 视频中看到该扩展程序，了解如何下载它以及如何使用它： ~https://www.youtube.com/watch?v=C2mAYunFXac~ 可以从此 Google Drive 文件夹下载该扩展程序（您需要启用开发者模式并使用“加载解压文件”。查看视频或指南以获取帮助）： ~https://drive.google.com/drive/folders/12cwvRrByLABIboncqeOa7jUyVaMKrD4h?usp=drive_link~ 如果您在使用扩展程序后有兴趣参加一次简短（10-15 分钟）的采访，我们将非常感激您就扩展程序的使用情况提供一些反馈。如果您有兴趣，请给我发私信，让我们安排一个采访时间。 感谢您的时间和兴趣，我希望您能通过使用扩展程序参与这个重要的研究领域，并希望参加一次简短的采访。    提交人    /u/TheHolyUshanka   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ewj5om/chrome_extension_to_help_reduce_online/</guid>
-      <pubDate>Tue, 20 Aug 2024 01:29:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
