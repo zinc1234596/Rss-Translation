@@ -4,7 +4,91 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Wed, 21 Aug 2024 18:17:59 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Aug 2024 21:13:15 GMT</lastBuildDate>
+    <item>
+      <title>为我爸爸制作 60 岁生日礼物</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ey06vd/building_me_dads_game_for_his_60th/</link>
+      <description><![CDATA[我爸爸刚满 60 岁，所以我提出了他的应用程序创意 https://syndles.com/。他设想了一个类似于 Wordle 的游戏，可以帮助您每天学习新单词。他喜欢猜测同义词的想法，因此当您设法猜出一个单词时，您就有很大的机会猜出其他单词。 我创建这个是为了让他闭嘴 😂。他仍然对他之前的一个应用程序创意感到不满，我驳回了这个想法，但几年后 Adob​​e 继续创建了类似的东西。我经常听到他说，“如果你听我的话，我们就可以上游艇了。” 所以请告诉我你的想法，伯纳德在这里有什么绝妙之处吗？    提交人    /u/codeheir   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ey06vd/building_me_dads_game_for_his_60th/</guid>
+      <pubDate>Wed, 21 Aug 2024 20:32:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>开发了第一个利用可穿戴设备的健康数据来提高工作效率的日历应用</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1exze6f/built_the_very_first_calendar_app_that_uses/</link>
+      <description><![CDATA[      https://preview.redd.it/5fppys49p2kd1.png?width=1920&amp;format=png&amp;auto=webp&amp;s=6385d7112c639f3b43e07c85568559979cc3dd14 嗨👋 自去年 12 月以来，我和我的朋友们一直在开发 Lifestack (https://lifestack.ai/)，这是一款日历应用，它利用来自可穿戴设备和智能手机可帮助您根据您的高峰生产力时间优化您的日程安排。 我希望您尝试一下并分享您的反馈！您可以在 App Store 和 Play Store 下载该应用程序，我们甚至还有一个 Chrome 扩展程序！ [App Store]：https://apps.apple.com/us/app/lifestack-calendar-and-health/id6473464429 [Play Store]：https://play.google.com/store/apps/details?id=com.demind.lifestack_calendar&amp;hl=en_US&amp;gl=US [Chrome 扩展程序]：https://chromewebstore.google.com/detail/lifestack-extension/mbpcaihbaecjnndomdpkigmmhdnfccjb    由   提交  /u/demind-inc   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1exze6f/built_the_very_first_calendar_app_that_uses/</guid>
+      <pubDate>Wed, 21 Aug 2024 19:59:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>您如何管理营销方面？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1exzbkh/how_do_you_manage_marketing_side/</link>
+      <description><![CDATA[大家好， 问题很简单：你是如何管理你的副业的营销方面的？ 这是我正在做的事情： 正在进行中：  我创建了一个供自己使用的工具，可以为 TikTok 生成视频，我每天安排大约 3-4 个视频（尝试 TikTok SEO）。到目前为止，它已经吸引了一些流量和应用下载。 在 Reddit 上，我正在积极寻找我的产品可以获得良好参与度的社区。我发帖推广它，也在寻找那些询问我的产品到底提供什么的人。目前，这种策略似乎吸引了最多的用户使用这款应用，尽管它是最“乏味”的因为当我发现有人专门寻找我的东西时，它最有效。  规划：  我计划创建一个带有 Shorts 的 YouTube 频道来推广该应用，同时发布一些故事视频来增加参与度。 在 Twitter 上，我正在考虑自动发送推文，每天发布有关该应用的更新、展示精彩视频等。我还计划搜索正在寻找与我的产品类似的产品的人。  完成但不起作用  我尝试过冷电子邮件，但似乎产品与它们配合得不太好。我的想法是，这是一款 B2C 产品，这使得冷电子邮件发送具有挑战性。我绝对不是营销领域的专家......  你有一些很酷的营销策略吗？   由    /u/Standard_Mode9882  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1exzbkh/how_do_you_manage_marketing_side/</guid>
+      <pubDate>Wed, 21 Aug 2024 19:56:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一款人工智能数学解算器，让每个人都能更轻松地学习数学</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1exzaek/i_made_an_aipowered_math_solver_to_make_math/</link>
+      <description><![CDATA[嘿，SideProject 社区！👋 我很高兴介绍 Mathsolver.top (https://www.mathsolver.top/)，这是我一直致力于帮助高中/大学学生和教育工作者更有效地解决数学问题的一个副项目。 Mathsolver.top 提供各种数学领域的分步解决方案，包括代数、几何、微积分等。 Mathsolver.top 的与众不同之处在于其双模式方法：  学习者模式：此模式通过深思熟虑的问题引导用户解决问题，帮助他们真正理解概念。 助手模式：为需要验证答案或学习更快解决问题方法的人提供快速、详细的解释。  用户可以在两种模式下提出后续问题，以掌握相应的问题/知识点。 作为一个业余项目，我非常渴望得到这个社区的反馈。如果您对数学感兴趣或者认识可能受益的人，我很乐意让您尝试一下并分享您的想法！ 感谢您的支持！    提交人    /u/Imaginary-Shop7676   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1exzaek/i_made_an_aipowered_math_solver_to_make_math/</guid>
+      <pubDate>Wed, 21 Aug 2024 19:55:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>您最喜欢用什么工具来发现新的市场和趋势？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1exyyxo/what_are_your_favourite_tools_for_discovering_new/</link>
+      <description><![CDATA[  由    /u/ABetterLemonadeStand  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1exyyxo/what_are_your_favourite_tools_for_discovering_new/</guid>
+      <pubDate>Wed, 21 Aug 2024 19:42:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>劝我放弃这念头。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1exxwm6/talk_me_out_of_this/</link>
+      <description><![CDATA[      出售我的 97 Defender 来资助将我的副业项目变为全职项目 此外，背景中的货车将成为我的全职交通工具。  糟糕的想法？    提交者    /u/Master_Factor_9123   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1exxwm6/talk_me_out_of_this/</guid>
+      <pubDate>Wed, 21 Aug 2024 19:00:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的 AI 卡路里追踪器刚刚达到 100 美元 MRR</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1exxiv6/just_reached_100_mrr_on_my_ai_calorie_tracker/</link>
+      <description><![CDATA[        由    /u/sigh_k 提交   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1exxiv6/just_reached_100_mrr_on_my_ai_calorie_tracker/</guid>
+      <pubDate>Wed, 21 Aug 2024 18:44:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>我讨厌在视频上表演，所以我为我的课程“聘请”了一位人工智能讲师（WDYT？）</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1exxgmn/i_hate_performing_on_video_so_i_hired_an_ai/</link>
+      <description><![CDATA[我既不是公众演讲者也不是表演者，我非常不喜欢这个。但是我对发布教育内容很感兴趣，所以我在想如果不亲自表演，我该怎么做。 我已经写下了课程内容，但为了达到最佳效果，应该采用视频格式。我可以“雇佣”一个人工智能来为我演讲和表演吗？可以做到吗？ 我尝试了一下，并使用 HeyGen（每月 29 美元）为课程制作了预告视频（少用手机，多快乐实用指南）。HeyGen 涵盖了幻灯片、文本转语音和人工智能头像。简单的登录页面是 ConvertKit（免费计划）： https://handsonwisdom.com/ 我能做到吗？您觉得该课程和视频可信吗？    提交人    /u/DuckingStation   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1exxgmn/i_hate_performing_on_video_so_i_hired_an_ai/</guid>
+      <pubDate>Wed, 21 Aug 2024 18:42:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个工具来帮助使用人工智能来解释和追踪你的梦想</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1exxe77/i_made_a_tool_to_help_that_uses_ai_to_interpret/</link>
+      <description><![CDATA[嗨，我是 Miguel，Dreamlyze 的个人创作者。 几个月前，我妈妈去世了。我当时只有 23 岁。 从那时起，我就一直在与心理健康作斗争，特别是睡眠问题。不仅仅是入睡困难，还有保持睡眠的问题。我开始做奇怪的梦和噩梦，并出于好奇开始记录它们。 与此同时，我开始学习如何编码。 然后，我有了一个想法，为自己构建一个 Web 应用程序，在那里我可以记录我的梦境并让 AI 提取含义和反复出现的感觉。这样，我就能更好地理解自己的潜意识，注意到趋势。 我想，如果它能引起我的兴趣并对我有帮助，那么它可能也会对别人产生同样的作用。 如果你有兴趣，我会在X上分享我所学和构建的一切。 如果你觉得特别慷慨，我今天还在Product Hunt上推出了它。    提交人    /u/DaySlepper   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1exxe77/i_made_a_tool_to_help_that_uses_ai_to_interpret/</guid>
+      <pubDate>Wed, 21 Aug 2024 18:39:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>2024 年最佳 IPTV 服务提供商（美国、英国、欧洲和非洲）</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1exxdko/the_best_iptv_service_providers_for_2024_us_uk/</link>
+      <description><![CDATA[  由    /u/Friendly-Chest8777  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1exxdko/the_best_iptv_service_providers_for_2024_us_uk/</guid>
+      <pubDate>Wed, 21 Aug 2024 18:38:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Funkey 将您的 Mac 变成机械键盘！每次打字时都能获得令人满意的咔哒声，将机械开关的触觉乐趣带入您的 MacBook 键盘。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1exx42o/transform_your_mac_into_a_mechanical_keyboard/</link>
+      <description><![CDATA[        提交人    /u/Msoni3027   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1exx42o/transform_your_mac_into_a_mechanical_keyboard/</guid>
+      <pubDate>Wed, 21 Aug 2024 18:28:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Chrome 扩展</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1exwusk/chrome_extensions/</link>
+      <description><![CDATA[我在学习如何构建 Chrome 扩展程序时，创建了这个用于生成临时电子邮件地址的 Chrome 扩展程序作为附带项目。它实现了 guerrilla 临时电子邮件地址 API，并且完全免费。 您可以在此处获取它：临时电子邮件生成器 - Chrome 网上应用店 (google.com)请随意使用它。 源代码：ylohnitram/teg：临时电子邮件生成器 (github.com)    提交人    /u/No_Professional7654   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1exwusk/chrome_extensions/</guid>
+      <pubDate>Wed, 21 Aug 2024 18:17:50 GMT</pubDate>
+    </item>
     <item>
       <title>我所在的公司需要一款屏幕捕获工具。谁有？</title>
       <link>https://www.reddit.com/r/SideProject/comments/1exwmpy/the_company_that_i_work_for_is_in_the_market_for/</link>
@@ -25,90 +109,6 @@
       <description><![CDATA[我正在为我们的房地产技术市场 MeetProppy.ai 完成 mvp，并希望对网站提供反馈。提前致谢！    提交人    /u/Free_Appointment9142   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1exw9m6/real_estate_technology_marketplace_roast_my/</guid>
       <pubDate>Wed, 21 Aug 2024 17:54:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>有想法却无处验证？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1exw0jm/have_an_idea_but_nowhere_to_validate/</link>
-      <description><![CDATA[你好 Reddit！ 我的朋友和我最近一直在交换各种想法，但我们总是遇到困难，不知道这些想法是否值得追求，或者我们只是在过度思考。我们很好奇其他人是否也陷入了同样的困境。因此，我们进行了一次快速调查，如果您能通过分享您的想法来帮助我们，那就太好了。 https://docs.google.com/forms/d/1kPfQ9lZcFm4mD8FKFa5F9xaixy7NJjRUCufkffXaCAw/edit?ts=66c5d686    提交人    /u/kartikeya40   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1exw0jm/have_an_idea_but_nowhere_to_validate/</guid>
-      <pubDate>Wed, 21 Aug 2024 17:44:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>构建 AI 信息图表生成器</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1exvpz9/build_a_ai_infographic_generator/</link>
-      <description><![CDATA[      我创建了一个网站，只需单击一下即可生成吸引人的信息图表。在 graphicinfo.cc 上尝试一下    提交人    /u/Fun_Technology_9064   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1exvpz9/build_a_ai_infographic_generator/</guid>
-      <pubDate>Wed, 21 Aug 2024 17:32:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>刚刚启动了我的新 SaaS 应用程序 - 希望得到您的想法！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1exvm9y/just_launched_my_new_saas_app_would_love_your/</link>
-      <description><![CDATA[大家好！我刚刚开发完我的 SaaS 产品 sublimelinks.app，我很乐意收到一些反馈。 我很高兴听到您的想法。    提交人    /u/NeverRankUp   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1exvm9y/just_launched_my_new_saas_app_would_love_your/</guid>
-      <pubDate>Wed, 21 Aug 2024 17:28:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>你在实现目标过程中遇到的主要问题</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1exv7qo/the_main_problem_youre_struggling_to_achieve_your/</link>
-      <description><![CDATA[而这个问题就是可持续性。 我们试图做太多事情，太快，没有明确的计划。 我们告诉自己，我们需要每天投入数小时来实现我们的目标。但现实是，我们大多数人根本无法维持这种强度和专注力。 我相信你们中的许多人都有同样的体会。 当我发现一个简单的 15 分钟日常习惯时，一切都改变了。 这个习惯帮助我专注于真正重要的事情，取得持续的进步，并最终实现长期以来一直未能实现的目标。 现在，我想和你们分享这个习惯。 这是我写的一篇解释它的文章。    提交人    /u/Nouman-Rahman   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1exv7qo/the_main_problem_youre_struggling_to_achieve_your/</guid>
-      <pubDate>Wed, 21 Aug 2024 17:12:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>内置产品列表优化工具 - 它采用现有的标题和描述，并允许您批量优化它们，以及创建 SEO 描述并翻译成多种语言：</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1exuqsk/built_product_listing_optimization_tool_it_takes/</link>
-      <description><![CDATA[        提交人    /u/Overall-Ad-1525   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1exuqsk/built_product_listing_optimization_tool_it_takes/</guid>
-      <pubDate>Wed, 21 Aug 2024 16:54:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>我开发了一个应用程序来练习说英语并纠正错误</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1exuka6/i_built_an_app_to_practice_speaking_english_and/</link>
-      <description><![CDATA[      获得 B2/C1 英语水平对我来说至关重要，因为我立志在英语市场担任产品经理。然而，由于缺乏口语练习，我挣扎了好几年。我尝试使用 ChatGPT 进行练习，但很快意识到它会自动纠正我的错误，而不会向我显示。例如，当我说：   它会将其转录为：   我知道在正常对话中，人们不会出于礼貌而纠正我的错误，但他们可能会认为我是一个不专业的员工。所以对我来说，发现并纠正自己的错误很重要，以避免一遍又一遍地重复。 过了一段时间，当我学会了如何编码时，我创建了 Smoothie - 我可以定期与之交谈的对话伙伴。  因此，这里是应用程序，它是免费的，您现在不需要创建帐户或任何东西：https://smoothie-one.vercel.app/ 请随时分享任何反馈。 https://reddit.com/link/1exuka6/video/xmx60ra9q1kd1/player    提交人    /u/AlexGerasim   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1exuka6/i_built_an_app_to_practice_speaking_english_and/</guid>
-      <pubDate>Wed, 21 Aug 2024 16:47:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>我刚刚推出了一款 MVP 应用副业！（资金不多）</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1extztu/i_just_launched_an_mvp_app_side_hustle_with/</link>
-      <description><![CDATA[我使用无代码应用构建器 (softr.io) 构建了一个 Web 应用，昨天刚刚启动。任何人都可以使用该工具来寻找您所在地区的本地销售和企业。浏览器无需登录即可免费使用它，小型企业/自由职业者只需支付少量订阅费即可发布和编辑无限量的广告。 一旦我对 Web 应用有了更多的关注，我很快就会在应用商店上推出它，我也在 Product Hunt 上推出了它，以吸引更多人关注它。 让我知道你们的想法。（随着它的成长，将添加更多选项和开发） https://localvistaads.com    提交人    /u/IVSmithDesigns   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1extztu/i_just_launched_an_mvp_app_side_hustle_with/</guid>
-      <pubDate>Wed, 21 Aug 2024 16:24:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>我构建了一个使用自然语言查询来获取潜在客户的工具：https://careergpt.io。寻求反馈！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1extzk6/i_built_a_tool_that_uses_natural_language_queries/</link>
-      <description><![CDATA[目前它仅返回 LinkedIn 结果，但可以扩展到任何公开可用的数据源（Reddit、quora 等）    提交人    /u/InstancePatient885   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1extzk6/i_built_a_tool_that_uses_natural_language_queries/</guid>
-      <pubDate>Wed, 21 Aug 2024 16:24:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>从收件箱为零到不堪重负：我为 Gmail 构建 Pulse 的历程</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1extt1b/from_inbox_zero_to_overwhelmed_my_journey_to/</link>
-      <description><![CDATA[我曾经为自己每天的收件箱清空而感到自豪 — 投资者、律师、同事，应有尽有。但当我将注意力转移到开发我们的产品上时，电子邮件开始堆积如山。最终，每个周末面对收件箱的焦虑变得难以承受。工作、孩子、狗，甚至是杂草丛生的草坪，我都无法应付。 就在那时，我决定必须做出一些改变。 我开发了 Pulse for Gmail 来消除电子邮件的压力。它通过与 Gmail、Slack 和 Google 日历等工具集成，自动回复、汇总电子邮件，甚至安排会议。现在，我可以专注于真正重要的事情了。 我希望您尝试一下并告诉我您的想法！    提交人    /u/usepulseai   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1extt1b/from_inbox_zero_to_overwhelmed_my_journey_to/</guid>
-      <pubDate>Wed, 21 Aug 2024 16:17:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>从 Pieter Level 与 Lex Fridman 的谈话中可以总结出 10 个关于如何运输的要点！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1extp0p/10_take_aways_from_pieter_levels_talk_with_to_lex/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1extp0p/10_take_aways_from_pieter_levels_talk_with_to_lex/</guid>
-      <pubDate>Wed, 21 Aug 2024 16:12:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>您认为如果我全力以赴，我的副业项目是否能够流行起来？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1extnyd/do_you_think_if_my_side_project_can_get_viral_if/</link>
-      <description><![CDATA[你好， 过去 1 年我一直在兼职从事我的项目，做了很多实验来吸引用户或关注，但到目前为止运气不太好！除了 ProductHunt，你能帮我看看我可以在其他地方推出产品吗？ 我一直在为我的项目研究 TikTok 和 YouTube，它们有助于快速轻松地创建故事！它在 20-30 秒内为您的故事提供画外音和视觉效果。如果您有一个很棒的故事，并想快速创建一个媒体版本来帮助它获得人气，您应该查看一下！ 我最近推出了这个项目，很乐意听到任何反馈！ 项目网站：TextToVideo .Bot    提交人    /u/kadirpili   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1extnyd/do_you_think_if_my_side_project_can_get_viral_if/</guid>
-      <pubDate>Wed, 21 Aug 2024 16:11:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>新的 Chrome 扩展程序：Airbnb 评论摘要 - Nomadomia！我们期待您的反馈！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1extdu7/new_chrome_extension_airbnb_reviews_summary/</link>
-      <description><![CDATA[大家好！ 我很高兴与大家分享我一直在从事的一个附带项目：Airbnb Reviews Summary - Nomadomia Chrome 扩展程序！无论您是经常旅行还是只是喜欢探索新地方，此工具都旨在通过简化您的决策流程来增强您的 Airbnb 体验。 https://chromewebstore.google.com/detail/airbnb-reviews-summary-no/iflgmngecnmdpijagpojnlnhbpbjjahb 主要功能：  即时点评摘要：轻松快速地概览住客点评中的重要点。 Nomadomia 评分：独特的评分系统，反映点评中的整体情绪和关键要点。 突出显示优点和缺点：轻松查看每个房源的优缺点。 时间趋势：跟踪房源是否随着时间的推移而改善或下降。 无缝集成：适用于多个 Airbnb 域名（.com、.co.uk、.fr 等）。  工作原理：只需照常浏览 Airbnb，扩展程序就会自动在房源页面上生成汇总评论部分，包括优点和缺点、关键要点以及我们的 Nomadomia 评分。 我很想听听您的想法和反馈！您是否希望看到任何功能？有什么改进建议吗？当我致力于完善扩展程序时，您的见解将非常有价值。 您可以在此处下载并亲自尝试！ 提前感谢您的帮助，祝您旅途愉快！✈️🌍    提交人    /u/SimilarSection4243   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1extdu7/new_chrome_extension_airbnb_reviews_summary/</guid>
-      <pubDate>Wed, 21 Aug 2024 16:01:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
