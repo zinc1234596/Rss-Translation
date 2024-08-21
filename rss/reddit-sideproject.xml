@@ -4,111 +4,111 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Wed, 21 Aug 2024 15:14:02 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Aug 2024 18:17:59 GMT</lastBuildDate>
     <item>
-      <title>建立了一个简单的网站来嘲讽你的 Instagram</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1exs0c6/built_a_simple_website_to_roast_your_instagram/</link>
-      <description><![CDATA[https://roastyourinsta.com/  大家好！随着 Instagram 个人资料被吐槽的趋势愈演愈烈，我决定加入进来，建立我的第一个副业项目（大约 4 小时）。这是一个有趣的小网站，可以吐槽您的 Instagram 截图。我很乐意收到一些反馈，也可以随意吐槽我的网站！ PS：这是一个免费工具，我不打算将其货币化。提前致谢！    提交人    /u/Technical-Storage-60   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1exs0c6/built_a_simple_website_to_roast_your_instagram/</guid>
-      <pubDate>Wed, 21 Aug 2024 15:07:04 GMT</pubDate>
+      <title>我所在的公司需要一款屏幕捕获工具。谁有？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1exwmpy/the_company_that_i_work_for_is_in_the_market_for/</link>
+      <description><![CDATA[我在这里看到了一些关于屏幕捕获应用程序的帖子。我工作的公司正在考虑更换我们目前正在使用的应用程序。我很乐意支持这个 subreddit 中的骗子。所以如果你有一个，让我们看看！我会说几句好话。    提交人    /u/Powerful_Dog5562   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1exwmpy/the_company_that_i_work_for_is_in_the_market_for/</guid>
+      <pubDate>Wed, 21 Aug 2024 18:08:35 GMT</pubDate>
     </item>
     <item>
-      <title>我创建了一个工具来轻松比较 React、Vue.js、SwiftUI、Flutter 和 Jetpack Compose 等框架，</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1exrywc/i_created_a_tool_to_easily_compare_frameworks/</link>
-      <description><![CDATA[      比较声明式框架 大家好！我在这里向大家介绍一个我刚刚构建的新工具，它可以让您比较声明式 UI 框架，如 React、Vue.js、Jetpack Compose、SwiftUI 和Flutter。 工具背后的动机 在过去的几年里，每个主要的前端平台都已经确定了利用声明式编程来构建应用程序的想法。React 在十多年前开始了这种范式转变，这股浪潮已经波及到其他所有主要的前端平台。一旦你学习了其中一个框架，那么在其他平台上学习所选框架应该相对简单，因为它们都使用相同的思维模型。我自己就经历过这种情况，在2017 年学习 Flutter和2019 年学习 Jetpack Compose之后，我能够相对快速地掌握 React，然后我使用新学到的技能开发了 JetpackCompose.app。 这次经历让我看到了这些框架如何共享它们的大部分概念，这只是一个弄清楚语法的问题。缺少的是一个地图，让我可以看到每个声明性 UI 框架中给定框架概念的语法。所以我决定自己构建这个工具。希望你们中的一些人也会觉得它有用😊  我真诚地相信，作为构建者，我们应该灵活应对，并在有机会的任何平台上构建。语法不应该成为阻碍我们前进的因素。特别是因为所有前端框架的思维模型现在都是相同的。如果您已经熟悉其中一个框架，此工具只会让您的技能更具可转移性。  以下是该工具的快速演示。我同意视频有点多余，但生命太短暂了，不能不多余😅 工具演示 与往常一样，我非常乐意听到您可能有的任何反馈。这是该工具的链接👇🏻  https://www.jetpackcompose.app/compare-declarative-frameworks/React-vs-SwiftUI-vs-JetpackCompose    提交人    /u/vinaygaba   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1exrywc/i_created_a_tool_to_easily_compare_frameworks/</guid>
-      <pubDate>Wed, 21 Aug 2024 15:05:33 GMT</pubDate>
+      <title>与我分享您要尝试的东西！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1exwi0o/share_with_me_what_you_building_to_try_it/</link>
+      <description><![CDATA[大家好， 你们在做一些很酷的事情吗？放一个链接或简短的描述来讨论它——我很想看看并尝试一下！ 期待看到你正在创造的东西！ 干杯    由   提交  /u/One_Performance_8936   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1exwi0o/share_with_me_what_you_building_to_try_it/</guid>
+      <pubDate>Wed, 21 Aug 2024 18:03:17 GMT</pubDate>
     </item>
     <item>
-      <title>创始人：免费展示您的产品！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1exrxc8/founders_feature_your_product_for_free/</link>
-      <description><![CDATA[我在 700.tools 上提供 5 个免费列表，这是一个不断增长的工具和服务目录。要参与，只需在评论中放置指向您产品的链接。我会选择最有趣的产品来展示，并帮助您获得一些额外的曝光！    由   提交  /u/Crafty_Ad_3013   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1exrxc8/founders_feature_your_product_for_free/</guid>
-      <pubDate>Wed, 21 Aug 2024 15:03:51 GMT</pubDate>
+      <title>房地产技术市场 - Roast my Website</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1exw9m6/real_estate_technology_marketplace_roast_my/</link>
+      <description><![CDATA[我正在为我们的房地产技术市场 MeetProppy.ai 完成 mvp，并希望对网站提供反馈。提前致谢！    提交人    /u/Free_Appointment9142   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1exw9m6/real_estate_technology_marketplace_roast_my/</guid>
+      <pubDate>Wed, 21 Aug 2024 17:54:19 GMT</pubDate>
     </item>
     <item>
-      <title>🧰 尝试使用这些免费工具来实现你的下一个业余项目创意</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1exrs39/try_these_free_tools_for_your_next_side_project/</link>
-      <description><![CDATA[想不出点子？ 以下是我在为这个免费工具和资源目录策划时发现的一些免费精华。 这些工具可以帮助您集思广益、确定和验证您的下一个项目/商业创意：  DoesItExists：一个商业创意搜索引擎 丰富的创业点子：从 Reddit 上抓取的 5,000 多个创业点子的列表 Reddit Idea Picker：通过扫描 Reddit 查找痛点来寻找商业创意 查找经过验证的 SaaS 创意：进入一个利基市场并获得 10 个免费的微型 SaaS 创意 FlowKitten：一种用于即时验证您的创业想法的 AI 工具 价值主张生成器：获取行动计划以微型 SaaS 创意生成器：为您的下一个 SaaS 项目生成创意 人工智能 Swot 分析生成器：分析您的业务/创意的优势、劣势、机会和威胁 即时域名搜索：检查您企业的域名是否可用  如果您有其他工具推荐，请随时在下面发表评论，我会将其添加到目录中，供所有人查看。干杯！    由    /u/ysl17 提交   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1exrs39/try_these_free_tools_for_your_next_side_project/</guid>
-      <pubDate>Wed, 21 Aug 2024 14:58:35 GMT</pubDate>
+      <title>有想法却无处验证？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1exw0jm/have_an_idea_but_nowhere_to_validate/</link>
+      <description><![CDATA[你好 Reddit！ 我的朋友和我最近一直在交换各种想法，但我们总是遇到困难，不知道这些想法是否值得追求，或者我们只是在过度思考。我们很好奇其他人是否也陷入了同样的困境。因此，我们进行了一次快速调查，如果您能通过分享您的想法来帮助我们，那就太好了。 https://docs.google.com/forms/d/1kPfQ9lZcFm4mD8FKFa5F9xaixy7NJjRUCufkffXaCAw/edit?ts=66c5d686    提交人    /u/kartikeya40   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1exw0jm/have_an_idea_but_nowhere_to_validate/</guid>
+      <pubDate>Wed, 21 Aug 2024 17:44:17 GMT</pubDate>
     </item>
     <item>
-      <title>我开发了一款免费应用来帮助你追踪你的求职申请</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1exrjt5/ive_built_a_free_app_to_help_you_track_your_job/</link>
-      <description><![CDATA[大家好，我在空闲时间建立了自己的求职申请跟踪器。我把它给一个朋友看了，他说值得打包并与其他人分享，因为他们可能会觉得有用。所以我就在这里。 它是免费的。不打算收费。 它做的一件很酷的事情是，你只需粘贴求职申请的网址，然后自动提取公司名称、职位、工作地点、薪水、所需技能等详细信息。此外，它还会自动截取招聘广告的屏幕截图，因此如果广告不再可用，您仍然可以看到它 链接：https://trycurly.vercel.app 演示： https://reddit.com/link/1exrjt5/video/uyfi5mtm51kd1/player 让我知道你的想法！ 谢谢    提交人    /u/Curious-Ad-1247   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1exrjt5/ive_built_a_free_app_to_help_you_track_your_job/</guid>
-      <pubDate>Wed, 21 Aug 2024 14:49:09 GMT</pubDate>
+      <title>构建 AI 信息图表生成器</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1exvpz9/build_a_ai_infographic_generator/</link>
+      <description><![CDATA[      我创建了一个网站，只需单击一下即可生成吸引人的信息图表。在 graphicinfo.cc 上尝试一下    提交人    /u/Fun_Technology_9064   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1exvpz9/build_a_ai_infographic_generator/</guid>
+      <pubDate>Wed, 21 Aug 2024 17:32:46 GMT</pubDate>
     </item>
     <item>
-      <title>我正在开发一个更好地处理电子邮件的工具</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1exrghx/im_building_a_tool_to_better_handle_emails/</link>
-      <description><![CDATA[作为创始人，我每天都会收到大量电子邮件 — 来自团队、客户、冷门邮件 — 永无止境。我最终手动创建了过滤器，但即使是最轻微的更改也会使一切崩溃。从未找到适合我需求的解决方案。 我想解决这个痛点。 我正在开发一个使用 AI 的 Chrome 扩展程序来帮助我们实现收件箱清洁。3 个主要功能：  智能标签：根据上下文自动对电子邮件进行分类 自动规则：对电子邮件进行排序、存档和回复。 任务列表：你必须做什么以及何时做。  你怎么看？这对你们有用吗？ 我想和你聊聊，所以你可以在下面找到我的 Cal（15 分钟通话）。 + 加入我的候补名单（你可以了解更多关于这个想法的信息）    提交人    /u/Fun-Nectarine-7839   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1exrghx/im_building_a_tool_to_better_handle_emails/</guid>
-      <pubDate>Wed, 21 Aug 2024 14:45:29 GMT</pubDate>
+      <title>刚刚启动了我的新 SaaS 应用程序 - 希望得到您的想法！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1exvm9y/just_launched_my_new_saas_app_would_love_your/</link>
+      <description><![CDATA[大家好！我刚刚开发完我的 SaaS 产品 sublimelinks.app，我很乐意收到一些反馈。 我很高兴听到您的想法。    提交人    /u/NeverRankUp   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1exvm9y/just_launched_my_new_saas_app_would_love_your/</guid>
+      <pubDate>Wed, 21 Aug 2024 17:28:48 GMT</pubDate>
     </item>
     <item>
-      <title>如果 Twitter 上的关注者为 0 人，我该如何开始公开开发产品？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1exrfo8/how_do_i_start_off_building_a_product_in_public/</link>
-      <description><![CDATA[  由    /u/alexsexotic  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1exrfo8/how_do_i_start_off_building_a_product_in_public/</guid>
-      <pubDate>Wed, 21 Aug 2024 14:44:32 GMT</pubDate>
+      <title>你在实现目标过程中遇到的主要问题</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1exv7qo/the_main_problem_youre_struggling_to_achieve_your/</link>
+      <description><![CDATA[而这个问题就是可持续性。 我们试图做太多事情，太快，没有明确的计划。 我们告诉自己，我们需要每天投入数小时来实现我们的目标。但现实是，我们大多数人根本无法维持这种强度和专注力。 我相信你们中的许多人都有同样的体会。 当我发现一个简单的 15 分钟日常习惯时，一切都改变了。 这个习惯帮助我专注于真正重要的事情，取得持续的进步，并最终实现长期以来一直未能实现的目标。 现在，我想和你们分享这个习惯。 这是我写的一篇解释它的文章。    提交人    /u/Nouman-Rahman   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1exv7qo/the_main_problem_youre_struggling_to_achieve_your/</guid>
+      <pubDate>Wed, 21 Aug 2024 17:12:43 GMT</pubDate>
     </item>
     <item>
-      <title>新平台可为您或企业主提供更多评论 - 更多的谷歌评论和更多的应用评论。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1exr3g9/new_platform_for_you_or_a_business_owner_to_get/</link>
-      <description><![CDATA[        由    /u/newWorldAddress_com   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1exr3g9/new_platform_for_you_or_a_business_owner_to_get/</guid>
-      <pubDate>Wed, 21 Aug 2024 14:30:38 GMT</pubDate>
+      <title>内置产品列表优化工具 - 它采用现有的标题和描述，并允许您批量优化它们，以及创建 SEO 描述并翻译成多种语言：</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1exuqsk/built_product_listing_optimization_tool_it_takes/</link>
+      <description><![CDATA[        提交人    /u/Overall-Ad-1525   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1exuqsk/built_product_listing_optimization_tool_it_takes/</guid>
+      <pubDate>Wed, 21 Aug 2024 16:54:28 GMT</pubDate>
     </item>
     <item>
-      <title>放弃你的登陆页面！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1exqzus/drop_your_landing_pages/</link>
-      <description><![CDATA[大家好！我刚开始接触网页设计，希望能多练习一下。链接您的登录页面，我会重新设计它们 :-)     由   提交  /u/Sensitive-Brother-30   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1exqzus/drop_your_landing_pages/</guid>
-      <pubDate>Wed, 21 Aug 2024 14:26:41 GMT</pubDate>
+      <title>我开发了一个应用程序来练习说英语并纠正错误</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1exuka6/i_built_an_app_to_practice_speaking_english_and/</link>
+      <description><![CDATA[      获得 B2/C1 英语水平对我来说至关重要，因为我立志在英语市场担任产品经理。然而，由于缺乏口语练习，我挣扎了好几年。我尝试使用 ChatGPT 进行练习，但很快意识到它会自动纠正我的错误，而不会向我显示。例如，当我说：   它会将其转录为：   我知道在正常对话中，人们不会出于礼貌而纠正我的错误，但他们可能会认为我是一个不专业的员工。所以对我来说，发现并纠正自己的错误很重要，以避免一遍又一遍地重复。 过了一段时间，当我学会了如何编码时，我创建了 Smoothie - 我可以定期与之交谈的对话伙伴。  因此，这里是应用程序，它是免费的，您现在不需要创建帐户或任何东西：https://smoothie-one.vercel.app/ 请随时分享任何反馈。 https://reddit.com/link/1exuka6/video/xmx60ra9q1kd1/player    提交人    /u/AlexGerasim   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1exuka6/i_built_an_app_to_practice_speaking_english_and/</guid>
+      <pubDate>Wed, 21 Aug 2024 16:47:17 GMT</pubDate>
     </item>
     <item>
-      <title>寻求反馈！我正在开发一款类似 Alexa 的语音助手，用于工作/会议</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1expu0e/looking_for_feedback_im_building_an_alexalike/</link>
-      <description><![CDATA[      嗨朋友们， 我正在构建Tava，一个人工智能语音助手，在会议讨论的背景下，在几秒钟内加入会议、回答问题并执行任务。你可以把它想象成 Alexa，但是用于工作/会议。以下是你可以问 Tava 的一些事情：  你可以为此创建一个新问题吗？ 你可以为此添加一个新的 Notion 文档吗？ 你能在 Figma 中的产品页面设计上发表评论吗？ 你能帮我查一下吗？ 我们之前决定了什么？ 你能总结一下我们的讨论吗？  为什么？ 会议是我们工作方式的基本组成部分，但它们与我们的业务工具基本上是隔离的。这导致了两个关键的低效率：  我们的会议受到我们带来的信息的限制。当会议中需要信息时，我们面临一个两难境地：a) 通过实时搜索答案来打乱会议流程，或者 b) 推迟提问，导致回复延迟，错失宝贵的讨论机会。因此，会议可能会变得更长、更频繁、效率更低。 将会议中的信息传输到我们的工具中可能是一个容易出错的繁琐过程。会议讨论通常会引入需要手动传输到各种工具（CRM、问题跟踪、文档等）中的信息。这个过程很繁琐，如果任何信息在翻译过程中丢失，都会导致效率进一步降低。例如，由于信息传递效率低下而导致的写得不好的票据可能会导致员工安排后续会议只是为了了解要求，从而加剧会议超负荷的循环。  寻求反馈！ 您提供的任何反馈都将非常有帮助！或者只是添加集成的想法。 如果这听起来很有趣，我正在寻找早期用户来免费试用 Tava！只需在此处注册候补名单 -&gt; https://www.heytava.com/ 谢谢！ https://reddit.com/link/1expu0e/video/i2dles5mu0kd1/player    提交人    /u/Chemical_Deer_512   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1expu0e/looking_for_feedback_im_building_an_alexalike/</guid>
-      <pubDate>Wed, 21 Aug 2024 13:36:12 GMT</pubDate>
+      <title>我刚刚推出了一款 MVP 应用副业！（资金不多）</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1extztu/i_just_launched_an_mvp_app_side_hustle_with/</link>
+      <description><![CDATA[我使用无代码应用构建器 (softr.io) 构建了一个 Web 应用，昨天刚刚启动。任何人都可以使用该工具来寻找您所在地区的本地销售和企业。浏览器无需登录即可免费使用它，小型企业/自由职业者只需支付少量订阅费即可发布和编辑无限量的广告。 一旦我对 Web 应用有了更多的关注，我很快就会在应用商店上推出它，我也在 Product Hunt 上推出了它，以吸引更多人关注它。 让我知道你们的想法。（随着它的成长，将添加更多选项和开发） https://localvistaads.com    提交人    /u/IVSmithDesigns   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1extztu/i_just_launched_an_mvp_app_side_hustle_with/</guid>
+      <pubDate>Wed, 21 Aug 2024 16:24:42 GMT</pubDate>
     </item>
     <item>
-      <title>300 多种策略让你的副业获得付费客户</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1expqoj/300_strategies_to_get_paying_customers_for_your/</link>
-      <description><![CDATA[一个月前，我推出了 TheFounderChecklist - 一个包含 300 多种策略和技巧的数据库，可帮助您启动初创公司。我为自己创建了它，以了解 SaaS 的分销和营销。我只用了一周就汇编了整个资源。在 Twitter 和各种创业社区推广它后，我获得了一些浏览量，但没有销售。 2-3 天后，我在各种 subreddits 上发布了关于 TheFounderChecklist 的帖子，它引起了广泛关注，我的网站大约有 45k 次浏览量和 3k 位访问者。由于这次曝光，我完成了第一次十笔销售。我收到了关于该工具的好评，我增加了 100k 个 b2b 线索来促进创始人的推广。 然后我发现了一个名为 pressedleads 的工具，它可以帮助我进行营销，结果令人惊叹，我的流量不仅保持稳定，而且还显示出显着的增长。现在流量自动增加，我可以专注于改进产品和用户体验。 我现在正在努力提高我的着陆页的转化率，以利用这个新的有机流量来源。如果您正在启动您的初创公司，这里有一个网站：TheFounderChecklist 非常感谢您对我的网站的任何反馈。谢谢    提交人    /u/Inevitable-Baker-504   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1expqoj/300_strategies_to_get_paying_customers_for_your/</guid>
-      <pubDate>Wed, 21 Aug 2024 13:32:13 GMT</pubDate>
+      <title>我构建了一个使用自然语言查询来获取潜在客户的工具：https://careergpt.io。寻求反馈！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1extzk6/i_built_a_tool_that_uses_natural_language_queries/</link>
+      <description><![CDATA[目前它仅返回 LinkedIn 结果，但可以扩展到任何公开可用的数据源（Reddit、quora 等）    提交人    /u/InstancePatient885   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1extzk6/i_built_a_tool_that_uses_natural_language_queries/</guid>
+      <pubDate>Wed, 21 Aug 2024 16:24:24 GMT</pubDate>
     </item>
     <item>
-      <title>立即捕获 Web 内容</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1expprx/instantly_capture_web_content/</link>
-      <description><![CDATA[我创建了一个工具，可让您轻松地从任何网站捕获和下载图像或 PDF，而无需担心广告干扰。只需输入 URL，Scrapshot 就会为您检索内容。它非常适合保存视觉内容、进行研究或存档材料。请访问 Scrapshot 查看    提交人    /u/Newbie_999   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1expprx/instantly_capture_web_content/</guid>
-      <pubDate>Wed, 21 Aug 2024 13:31:06 GMT</pubDate>
+      <title>从收件箱为零到不堪重负：我为 Gmail 构建 Pulse 的历程</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1extt1b/from_inbox_zero_to_overwhelmed_my_journey_to/</link>
+      <description><![CDATA[我曾经为自己每天的收件箱清空而感到自豪 — 投资者、律师、同事，应有尽有。但当我将注意力转移到开发我们的产品上时，电子邮件开始堆积如山。最终，每个周末面对收件箱的焦虑变得难以承受。工作、孩子、狗，甚至是杂草丛生的草坪，我都无法应付。 就在那时，我决定必须做出一些改变。 我开发了 Pulse for Gmail 来消除电子邮件的压力。它通过与 Gmail、Slack 和 Google 日历等工具集成，自动回复、汇总电子邮件，甚至安排会议。现在，我可以专注于真正重要的事情了。 我希望您尝试一下并告诉我您的想法！    提交人    /u/usepulseai   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1extt1b/from_inbox_zero_to_overwhelmed_my_journey_to/</guid>
+      <pubDate>Wed, 21 Aug 2024 16:17:08 GMT</pubDate>
     </item>
     <item>
-      <title>我为里斯本游客创建了一个数字指南</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1exp5fb/i_created_a_digital_guide_for_lisbon_visitors/</link>
-      <description><![CDATA[鉴于我在旅游业的 10 年经验以及对里斯本的热爱，我为我的客人创建了一份推荐清单。这个想法已经发展成为我正在尝试销售的数字指南。如果有人有关于销售数字产品的技巧，我会在这里学习。 https://www.facebook.com/lisboaguide/    提交人    /u/jnesaisqman   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1exp5fb/i_created_a_digital_guide_for_lisbon_visitors/</guid>
-      <pubDate>Wed, 21 Aug 2024 13:06:26 GMT</pubDate>
+      <title>从 Pieter Level 与 Lex Fridman 的谈话中可以总结出 10 个关于如何运输的要点！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1extp0p/10_take_aways_from_pieter_levels_talk_with_to_lex/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1extp0p/10_take_aways_from_pieter_levels_talk_with_to_lex/</guid>
+      <pubDate>Wed, 21 Aug 2024 16:12:52 GMT</pubDate>
     </item>
     <item>
-      <title>我建立了一本完整的 AI 书籍，编写 SaaS - 寻求反馈</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1exof1l/i_built_a_full_ai_book_writing_saas_looking_for/</link>
-      <description><![CDATA[TLDR；我在网址为playground.computer上推出了一款（目前）免费的人工智能图书写作应用程序。它使用各种LLM来生成完整的书籍，包括封面艺术。功能包括：  多个LLM选项（Claude、Mistral、Hermes等） 人工智能生成的书籍封面 可自定义的书籍结构 章节的节拍生成 节拍内容扩展 PDF和HTML导出选项  它处于早期阶段，因此欢迎反馈。查看它并让我知道你的想法！ 更详细。它主要使用开放路由器和主要的 LLM 公司作为后端。 它有一小部分使用最新的通量模型来制作带有文字的封面图片。 您可以将书导出为 PDF 或在页面内将其全部作为 HTML 查看。 对于 LLM：最好的结果来自 claude-3-haiku，但 mistral 和 Hermes 例如对 NSFW 内容更开放。Anthropic 和 OpenAI 运行最顺畅，因为其他的有时会搞砸 JSON 返回。谷歌是一个混合包。 简短教程： 注册是基本的用户名和密码。没有电子邮件或验证。 注册后，第一步是选择 LLM。 然后单击对话框中的 (+) 图标 尽可能多地描述您的书。您在这里写的越多，结果就会越好。 选择结构，对于初学者，我建议使用已经选择的结构。 单击“提交” 这需要几分钟... 这本书应该出现在网格中，单击封面即可打开它。 要更改封面图片，请单击图像图标，点击生成然后保存。 下一步是创建所有节拍，即闪电图标。（在生成节拍之前，最好仔细检查每个章节是否一致。） 将鼠标悬停在章节上，然后单击名为“节拍”的按钮。 验证节拍的一致性，然后单击闪电图标。 &quot;编写所有节拍内容&quot;。 就这样，第一章完成了，不要忘记单击&quot;保存&quot;。 应用程序的 URL 是 https://playground.computer    提交人    /u/ekim2077   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1exof1l/i_built_a_full_ai_book_writing_saas_looking_for/</guid>
-      <pubDate>Wed, 21 Aug 2024 12:32:33 GMT</pubDate>
+      <title>您认为如果我全力以赴，我的副业项目是否能够流行起来？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1extnyd/do_you_think_if_my_side_project_can_get_viral_if/</link>
+      <description><![CDATA[你好， 过去 1 年我一直在兼职从事我的项目，做了很多实验来吸引用户或关注，但到目前为止运气不太好！除了 ProductHunt，你能帮我看看我可以在其他地方推出产品吗？ 我一直在为我的项目研究 TikTok 和 YouTube，它们有助于快速轻松地创建故事！它在 20-30 秒内为您的故事提供画外音和视觉效果。如果您有一个很棒的故事，并想快速创建一个媒体版本来帮助它获得人气，您应该查看一下！ 我最近推出了这个项目，很乐意听到任何反馈！ 项目网站：TextToVideo .Bot    提交人    /u/kadirpili   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1extnyd/do_you_think_if_my_side_project_can_get_viral_if/</guid>
+      <pubDate>Wed, 21 Aug 2024 16:11:40 GMT</pubDate>
     </item>
     <item>
-      <title>我创建了一个插件，允许 WordPress 用户在网站上解释他们的内容！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1exoazj/i_created_a_plugin_that_allows_wordpress_users_to/</link>
-      <description><![CDATA[      正如我的标题，Paraphrase Bot 允许用户将他们的内容改写为独特的内容，同时保留原始含义。您可以简单地从聊天 GPT 生成文本并使用我们的插件来改写内容。  该插件有助于使内容人性化，同时也降低了被 AI 检测到的机会。此外，您也可以改写自己的原创内容，而无需逐字逐句地手动重写。该插件是免费的，每个人都可以使用它😊。  https://preview.redd.it/xtr4yfr9g0kd1.jpg?width=1920&amp;format=pjpg&amp;auto=webp&amp;s=ad7d578de8170f1b40d94b8b719682648b2523b4 https://preview.redd.it/urpmggr9g0kd1.jpg?width=1920&amp;format=pjpg&amp;auto=webp&amp;s=a51edba7ffc336f587651c82554043a90e88f869 https://preview.redd.it/ydgtigr9g0kd1.jpg?width=1920&amp;format=pjpg&amp;auto=webp&amp;s=a14ddd124e6ef6a009e9a66efabf0d8eb501f653    提交人    /u/Evening_Way_5161   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1exoazj/i_created_a_plugin_that_allows_wordpress_users_to/</guid>
-      <pubDate>Wed, 21 Aug 2024 12:27:12 GMT</pubDate>
+      <title>新的 Chrome 扩展程序：Airbnb 评论摘要 - Nomadomia！我们期待您的反馈！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1extdu7/new_chrome_extension_airbnb_reviews_summary/</link>
+      <description><![CDATA[大家好！ 我很高兴与大家分享我一直在从事的一个附带项目：Airbnb Reviews Summary - Nomadomia Chrome 扩展程序！无论您是经常旅行还是只是喜欢探索新地方，此工具都旨在通过简化您的决策流程来增强您的 Airbnb 体验。 https://chromewebstore.google.com/detail/airbnb-reviews-summary-no/iflgmngecnmdpijagpojnlnhbpbjjahb 主要功能：  即时点评摘要：轻松快速地概览住客点评中的重要点。 Nomadomia 评分：独特的评分系统，反映点评中的整体情绪和关键要点。 突出显示优点和缺点：轻松查看每个房源的优缺点。 时间趋势：跟踪房源是否随着时间的推移而改善或下降。 无缝集成：适用于多个 Airbnb 域名（.com、.co.uk、.fr 等）。  工作原理：只需照常浏览 Airbnb，扩展程序就会自动在房源页面上生成汇总评论部分，包括优点和缺点、关键要点以及我们的 Nomadomia 评分。 我很想听听您的想法和反馈！您是否希望看到任何功能？有什么改进建议吗？当我致力于完善扩展程序时，您的见解将非常有价值。 您可以在此处下载并亲自尝试！ 提前感谢您的帮助，祝您旅途愉快！✈️🌍    提交人    /u/SimilarSection4243   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1extdu7/new_chrome_extension_airbnb_reviews_summary/</guid>
+      <pubDate>Wed, 21 Aug 2024 16:01:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
