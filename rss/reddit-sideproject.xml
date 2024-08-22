@@ -4,7 +4,49 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Wed, 21 Aug 2024 21:13:15 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Aug 2024 01:03:21 GMT</lastBuildDate>
+    <item>
+      <title>构建一个语言学习工具，实际跟踪流利度指标而不是已完成的任务</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ey3nzr/building_a_language_learning_tool_that_actually/</link>
+      <description><![CDATA[您没看错！我一直在研究如何真正跟踪我的语言流利程度，并开发一款应用来帮助提高这些指标，而不是一天完成多少课程。不过，我需要很多人使用这款应用，这样我就可以开始利用我所做的研究，并根据实际数据进行跟踪。我将于 9 月 1 日推出这款应用，并将开始添加指标跟踪器和统计反馈，因为我可以对它们进行编码并正确实施！ 在此处查看：www.lingofi.io    提交人    /u/Fickle_Bonus_2385   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ey3nzr/building_a_language_learning_tool_that_actually/</guid>
+      <pubDate>Wed, 21 Aug 2024 22:56:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>🎉 我做了一个东西！Shadcn 导入助手：我的第一个 VS Code 扩展</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ey308o/i_made_a_thing_shadcn_import_helper_my_first_vs/</link>
+      <description><![CDATA[大家好！😊 我是来自澳大利亚的应届毕业生，我刚刚发布了我的第一个 VS Code 扩展。它被称为 Shadcn Import Helper，旨在让使用 shadcn/ui 组件的任何人的生活更轻松。 你知道它是怎么回事 - 你正在编写代码，突然你意识到你需要安装一个组件。因此，你切换到终端，输入命令，然后等待。这不是什么大问题，但它可能会有点破坏流程。这就是 Shadcn Import Helper 的用武之地！ 🚀 它的作用  它会自动检测您是否在代码中导入了 shadcn 组件。 它会弹出并询问您是否要立即安装该组件。 如果您说是，它会为您处理安装 - 无需终端！  ✨ 很酷的功能  自动检测 shadcn 导入  能够一次安装多个组件  可自定义的设置，以便它与您喜欢的组件文件夹结构一起使用 工作区扫描，因此您可以一次性检查整个项目是否缺少组件  🛠 当前的限制  到目前为止，我只有机会用 npm 对其进行测试。它可能适用于 pnpm 或 Bun，但我不能做出任何承诺！ 因为这是我的第一个扩展，所以可能会有一些怪癖。把它们当作扩展的独特魅力 😄  🙏 我很乐意听取您的反馈和贡献！ 如果您决定尝试 Shadcn Import Helper，我很乐意听听您的想法！无论是改进建议、新功能想法还是您的一般经验，您的反馈对我来说都意味着一切。作为一名新开发人员，我一直在寻求学习和成长。 如果您有兴趣为该项目做出贡献，那就太棒了！请随时提交拉取请求、打开问题或分享您的想法。您可以在此处找到存储库：GitHub 上的 Shadcn Import Helper。如果您觉得有用，请不要忘记为该仓库点赞！⭐ 🔗 在哪里可以找到它 您可以在 VS Code Marketplace 上找到 Shadcn Import Helper。它完全免费，我试图让它尽可能地用户友好（并且希望尽可能有趣！）。 💡 我为什么做这个 至于我为什么做这个，部分是为了提高我的 TypeScript 技能，部分是为了学习开发 VS Code 扩展。但主要是，我构建它是因为我认为它真的很有用。如果它可以为一个人节省一点时间和麻烦，我会认为它成功了！ 这就是我的小项目。感谢您花时间阅读它。 干杯，\ Zay Ye Htut 附言：如果这个扩展可以为您节省几秒钟，那我就很开心了！🥳    提交人    /u/HuckleberryUnable952   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ey308o/i_made_a_thing_shadcn_import_helper_my_first_vs/</guid>
+      <pubDate>Wed, 21 Aug 2024 22:28:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>我正在开发一款人工智能应用，通过检测面部和图像细节来对照片进行评级</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ey2yqg/im_building_an_aipowered_app_to_rate_photos_by/</link>
+      <description><![CDATA[我总是很难选择在 Instagram 或 Tinder 上发布哪张照片，经常询问异性的意见。因此，我开发了一款可以分析照片的应用，从异性的角度详细了解您的面部特征和整体形象。无论您是想挑选完美的个人资料照片，还是只是好奇别人会如何看待您的照片 https://reddit.com/link/1ey2yqg/video/k2iegykze3kd1/player 我很想听听您的想法——您对这款应用有什么看法？您希望添加哪些功能？    提交人    /u/TrashMaleficent635   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ey2yqg/im_building_an_aipowered_app_to_rate_photos_by/</guid>
+      <pubDate>Wed, 21 Aug 2024 22:26:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>我为你的数据制作了一个人工智能问答系统</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ey2fgw/i_made_an_aipowered_qa_system_for_your_own_data/</link>
+      <description><![CDATA[大家好， 我很高兴与大家分享 Ragcy，一种 RAG 即服务。它是一个由人工智能驱动的平台，可让您使用自己的业务数据轻松构建问答系统。 什么是 Ragcy？ Ragcy 可让您将文档、网页和其他数据源（如 PDF、URL、TXT 文件、CSV、视频、音频等）转变为 AI 问答聊天机器人。最好的部分？您无需使用任何 Python 库或矢量数据库即可开始使用！ 主要功能：  用您的数据聊天：立即创建一个根据您的业务信息回答问题的聊天机器人。 多种数据源：结合各种数据格式来构建全面的问答系统。 轻松集成：将聊天机器人嵌入您的网站或通过简单链接分享。 无需编码：您无需编写任何代码即可构建和部署您的问答聊天机器人。  工作原理：  在 Ragcy 平台上注册。 创建语料库来收集您的数据。 添加您的数据源 （PDF、URL 等）。 在您的网站上部署您的聊天机器人或与他人分享。  如果您曾经想创建一个智能问答系统来帮助您的客户、员工或用户快速轻松地找到信息，Ragcy 可以让这一切变得简单而直接。 请随时查看并告诉我您的想法！很乐意听到您的反馈。 在这里查看！ 谢谢！    提交人    /u/Mammoth-Doughnut-713   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ey2fgw/i_made_an_aipowered_qa_system_for_your_own_data/</guid>
+      <pubDate>Wed, 21 Aug 2024 22:04:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>请求反馈可能的应用程序：你可以随身携带的音频指南</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ey2bny/requesting_feedback_may_app_the_audio_guide_you/</link>
+      <description><![CDATA[链接至应用程序。链接至网站。 我一直在开发一款名为 TrippleTake 的 iOS 旅行应用，非常期待您的反馈/想法。 这款应用的原理非常简单：您拍摄一些有趣的东西的照片 - 无论是纪念碑、建筑物还是随机的街头艺术 - 然后该应用会提取您刚拍摄的内容的背景故事。然后，它将该故事转换为音频，以便您随时随地收听。 我开发这款应用是因为我喜欢旅行，但我一直对自己看到的随机事物背后的历史感到好奇。我不想经常停下来谷歌搜索东西，所以我想为什么不制作一个可以帮我完成工作的应用程序呢？ 到目前为止，我发现它非常准确，但我会让你来判断。 我仍在改进它并添加功能（接受建议！），但我想把它放在那里，看看是否有人觉得它有用。 谢谢！    提交人    /u/sweetums370   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ey2bny/requesting_feedback_may_app_the_audio_guide_you/</guid>
+      <pubDate>Wed, 21 Aug 2024 22:00:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>我开发了世界上最先进的人工智能儿童互联网过滤器。现在它的 MMR 为 0 美元，而且没有资金支持</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ey1gzj/i_built_the_worlds_most_advanced_ai_child/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ey1gzj/i_built_the_worlds_most_advanced_ai_child/</guid>
+      <pubDate>Wed, 21 Aug 2024 21:24:31 GMT</pubDate>
+    </item>
     <item>
       <title>为我爸爸制作 60 岁生日礼物</title>
       <link>https://www.reddit.com/r/SideProject/comments/1ey06vd/building_me_dads_game_for_his_60th/</link>
@@ -67,48 +109,6 @@
       <description><![CDATA[嗨，我是 Miguel，Dreamlyze 的个人创作者。 几个月前，我妈妈去世了。我当时只有 23 岁。 从那时起，我就一直在与心理健康作斗争，特别是睡眠问题。不仅仅是入睡困难，还有保持睡眠的问题。我开始做奇怪的梦和噩梦，并出于好奇开始记录它们。 与此同时，我开始学习如何编码。 然后，我有了一个想法，为自己构建一个 Web 应用程序，在那里我可以记录我的梦境并让 AI 提取含义和反复出现的感觉。这样，我就能更好地理解自己的潜意识，注意到趋势。 我想，如果它能引起我的兴趣并对我有帮助，那么它可能也会对别人产生同样的作用。 如果你有兴趣，我会在X上分享我所学和构建的一切。 如果你觉得特别慷慨，我今天还在Product Hunt上推出了它。    提交人    /u/DaySlepper   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1exxe77/i_made_a_tool_to_help_that_uses_ai_to_interpret/</guid>
       <pubDate>Wed, 21 Aug 2024 18:39:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年最佳 IPTV 服务提供商（美国、英国、欧洲和非洲）</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1exxdko/the_best_iptv_service_providers_for_2024_us_uk/</link>
-      <description><![CDATA[  由    /u/Friendly-Chest8777  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1exxdko/the_best_iptv_service_providers_for_2024_us_uk/</guid>
-      <pubDate>Wed, 21 Aug 2024 18:38:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Funkey 将您的 Mac 变成机械键盘！每次打字时都能获得令人满意的咔哒声，将机械开关的触觉乐趣带入您的 MacBook 键盘。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1exx42o/transform_your_mac_into_a_mechanical_keyboard/</link>
-      <description><![CDATA[        提交人    /u/Msoni3027   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1exx42o/transform_your_mac_into_a_mechanical_keyboard/</guid>
-      <pubDate>Wed, 21 Aug 2024 18:28:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>Chrome 扩展</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1exwusk/chrome_extensions/</link>
-      <description><![CDATA[我在学习如何构建 Chrome 扩展程序时，创建了这个用于生成临时电子邮件地址的 Chrome 扩展程序作为附带项目。它实现了 guerrilla 临时电子邮件地址 API，并且完全免费。 您可以在此处获取它：临时电子邮件生成器 - Chrome 网上应用店 (google.com)请随意使用它。 源代码：ylohnitram/teg：临时电子邮件生成器 (github.com)    提交人    /u/No_Professional7654   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1exwusk/chrome_extensions/</guid>
-      <pubDate>Wed, 21 Aug 2024 18:17:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>我所在的公司需要一款屏幕捕获工具。谁有？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1exwmpy/the_company_that_i_work_for_is_in_the_market_for/</link>
-      <description><![CDATA[我在这里看到了一些关于屏幕捕获应用程序的帖子。我工作的公司正在考虑更换我们目前正在使用的应用程序。我很乐意支持这个 subreddit 中的骗子。所以如果你有一个，让我们看看！我会说几句好话。    提交人    /u/Powerful_Dog5562   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1exwmpy/the_company_that_i_work_for_is_in_the_market_for/</guid>
-      <pubDate>Wed, 21 Aug 2024 18:08:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>与我分享您要尝试的东西！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1exwi0o/share_with_me_what_you_building_to_try_it/</link>
-      <description><![CDATA[大家好， 你们在做一些很酷的事情吗？放一个链接或简短的描述来讨论它——我很想看看并尝试一下！ 期待看到你正在创造的东西！ 干杯    由   提交  /u/One_Performance_8936   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1exwi0o/share_with_me_what_you_building_to_try_it/</guid>
-      <pubDate>Wed, 21 Aug 2024 18:03:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>房地产技术市场 - Roast my Website</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1exw9m6/real_estate_technology_marketplace_roast_my/</link>
-      <description><![CDATA[我正在为我们的房地产技术市场 MeetProppy.ai 完成 mvp，并希望对网站提供反馈。提前致谢！    提交人    /u/Free_Appointment9142   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1exw9m6/real_estate_technology_marketplace_roast_my/</guid>
-      <pubDate>Wed, 21 Aug 2024 17:54:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
