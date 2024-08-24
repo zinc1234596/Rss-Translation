@@ -4,7 +4,70 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Sat, 24 Aug 2024 18:16:53 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Aug 2024 21:11:55 GMT</lastBuildDate>
+    <item>
+      <title>我制作了一个包含 42 个 subreddit 的聚合器，用于查找人们正在制作的新项目和新产品！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f0f5ik/i_made_a_lil_42subreddit_aggregator_that_looks/</link>
+      <description><![CDATA[        提交人    /u/sjmog   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f0f5ik/i_made_a_lil_42subreddit_aggregator_that_looks/</guid>
+      <pubDate>Sat, 24 Aug 2024 20:44:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>收到客户的感谢邮件！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f0f15l/got_a_thank_you_email_from_a_client/</link>
+      <description><![CDATA[大约一个月前，我推出了一个网站，人们可以花一美元获得反馈。增长缓慢但比较稳定。 我不确定是否需要进一步开发它，但最近我收到一封客户的电子邮件，说这是他们花过的最值得的一美元。 我从来没有想过一封简单的电子邮件能给我如此大的动力，让我更加努力地工作！感觉真好！！    提交人    /u/Any_Perspective_291   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f0f15l/got_a_thank_you_email_from_a_client/</guid>
+      <pubDate>Sat, 24 Aug 2024 20:39:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>我开发了一款应用程序来帮助人们更多地回收物品</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f0ed5b/i_built_an_app_to_help_people_recycle_their_items/</link>
+      <description><![CDATA[嗨！我是一名高中生，我开发了一款名为 Recyclify 的应用，以帮助人们更多地进行回收。它非常简单，您可以在搜索栏中输入一个物品，它会告诉您该物品是否可回收。除了像塑料袋这样普通的无聊查询之外，它还可以回答更具体的东西，例如“硅树脂 MacBook Air 键盘盖”和“Tye Dye T 恤”。它还可以根据您的位置告诉您可以在哪里回收您的物品。它会找到可以回收您物品的最近的地方并将您引导到该地方。这是链接：https://apps.apple.com/us/app/recyclify/id6642710446    由   提交  /u/Specialist_Wolf_3185   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f0ed5b/i_built_an_app_to_help_people_recycle_their_items/</guid>
+      <pubDate>Sat, 24 Aug 2024 20:09:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>echodocs.ai - 文档更智能。为人类和人工智能服务。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f0e7bb/echodocsai_document_smarter_for_humans_and_ai/</link>
+      <description><![CDATA[        由    /u/Weary_Opportunity582  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f0e7bb/echodocsai_document_smarter_for_humans_and_ai/</guid>
+      <pubDate>Sat, 24 Aug 2024 20:01:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 nextjs 和 sanity 的博客应用程序</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f0dvjc/blogging_app_with_nextjs_and_sanity/</link>
+      <description><![CDATA[https://github.com/kaleb110/nextjs-blog    由   提交  /u/Tall-Strike-6226   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f0dvjc/blogging_app_with_nextjs_and_sanity/</guid>
+      <pubDate>Sat, 24 Aug 2024 19:47:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>每个页面均有实时聊天</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f0d5lx/live_chat_on_every_page/</link>
+      <description><![CDATA[发布了我们的浏览器扩展的最新功能，该功能为互联网的每个页面添加了实时聊天功能。这不是我们最初想到要添加到产品中的东西，但在看到网站不断限制或过度审核的市场需求后，我们认为我们不妨填补这一空白。学习如何构建它的体验很棒！现在我需要去更新所有内容以表明我们提供它，该死的    提交人    /u/2urnesst   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f0d5lx/live_chat_on_every_page/</guid>
+      <pubDate>Sat, 24 Aug 2024 19:14:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>批量图片翻转器 - 免费，无需登录，隐私保护</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f0d4s0/bulk_image_flipper_free_no_login_privacy_friendly/</link>
+      <description><![CDATA[大家好！我在这里启动我的一个工具。这是一个批量图像翻转器，只需单击一下即可水平或垂直翻转多幅图像，或两者兼而有之。试试看吧！ 它 100% 保护隐私，这意味着您的图像不会进入任何服务器进行翻转。一切都发生在您的设备上。 所有其他工具在翻转图像时都会在其服务器上保留您的图像副本。您不能 100% 确定您的图像之后会被删除。 但如果您使用此工具，我保证您的图像永远不会离开您的计算机。它们会留在您的设备上并在那里翻转。因此，它是 100% 隐私友好的。 尝试一下。 https://imagetoolshub.com/tools/bulk-flip-image/    提交人    /u/_blueseal   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f0d4s0/bulk_image_flipper_free_no_login_privacy_friendly/</guid>
+      <pubDate>Sat, 24 Aug 2024 19:13:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>里程碑更新：3000+ 名独立制作人加入了 Awesome Indie！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f0cung/milestone_update_3000_indie_makers_joined_awesome/</link>
+      <description><![CDATA[        提交人    /u/awesomeindie   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f0cung/milestone_update_3000_indie_makers_joined_awesome/</guid>
+      <pubDate>Sat, 24 Aug 2024 19:01:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>我不知道我的网站如何获得流量</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f0bwg7/i_dont_know_how_my_site_gets_traffic/</link>
+      <description><![CDATA[      大家好，我创建了一个网站，人们可以与陌生人进行在线视频聊天。现在没有广告，但网站每天有 20-30 个注册用户（访客数量远不止这些），我们一天甚至有 50 个注册用户。在屏幕截图中，您可以看到过去 30 天的活动。我想知道人们是如何找到这个网站的，因为我们在多个搜索引擎上使用所有相关关键词搜索时甚至都看不到这个网站。在谷歌上找到这个网站的唯一方法是直接搜索网站名称。我想如果我能理解人们是如何找到这个网站的，就会更容易吸引更多的人。提前感谢您的评论    提交人    /u/North_Requirement151   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f0bwg7/i_dont_know_how_my_site_gets_traffic/</guid>
+      <pubDate>Sat, 24 Aug 2024 18:19:47 GMT</pubDate>
+    </item>
     <item>
       <title>我制作了一个价值 10,000 美元的网格！</title>
       <link>https://www.reddit.com/r/SideProject/comments/1f0bfnd/i_made_a_10k_grid/</link>
@@ -46,69 +109,6 @@
       <description><![CDATA[      毋庸置疑，发布该应用程序在 App Store 中首次推出时需要订阅。  它具有日记应用程序的基本免费功能集，例如 通过简单的按钮按下签到记录您在一天中不同时间的感受，使用注释和图像的详细签到 为本质上不是积极的签到写特别改进说明 在每天的简单时间轴中显示 并且您只需支付每年 9.99 美元的最低订阅费即可获得以下高级功能列表， 创建海报并分享，根据您的感受描述您的一天/一周/一个月。完全自定义 创建除默认按钮之外的自己的氛围按钮 分析您一天/一周/一个月的氛围，甚至与之前的持续时间进行比较 有无限的提醒来提醒您签到您的氛围 希望一切顺利🤞🏻谢谢阅读。    提交人    /u/Prestigious_Ebb5260   [link] [评论] ]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1f08t4b/released_a_new_ios_app_wybeapp_a_journal_for_your/</guid>
       <pubDate>Sat, 24 Aug 2024 16:05:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>我正在做什么来应对 Zoom 疲劳</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f08b51/what_im_building_to_tackle_zoom_fatigue/</link>
-      <description><![CDATA[我一直在为我的项目开发这个 Zoom Fatigue Buster。很想听听你的想法！你认为它有用吗？    提交人    /u/AccidentKooky7674   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f08b51/what_im_building_to_tackle_zoom_fatigue/</guid>
-      <pubDate>Sat, 24 Aug 2024 15:43:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个平台，里面有你需要的所有 AI 工具</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f08701/i_made_a_platform_with_all_ai_tools_you_would/</link>
-      <description><![CDATA[      嘿 Reddit， 我很高兴与大家分享我一直在做的一个项目 - ChatKraken。如果您对人工智能、数字创意感兴趣，或者只是想寻找强大的工具来简化您的工作，那么您一定会爱上它！ ChatKraken 提供什么？  聊天机器人：访问最好的人工智能聊天机器人，如 Claude、ChatGPT、Gemini 等。无论您是需要内容创作、编码方面的帮助，还是只想与高级人工智能聊天，我们都能满足您的需求。 图像生成器：使用稳定扩散和通量创建令人惊叹的视觉效果。非常适合艺术家、设计师或任何想要将他们的想法变成现实的人。 图像背景去除器：需要快速轻松地去除背景？我们的工具可以在几秒钟内完成，为您提供干净专业的结果。 图像搜索和替换：是否曾经想无缝地查找和交换图像中的元素？此工具是您最好的新朋友。  而这仅仅是个开始 – 我们不断添加新工具，使 ChatKraken 更加强大。最好的部分？您可以免费开始并探索我们提供的一切！ 为什么选择 ChatKraken？ 我们相信让每个人都能使用 AI，无论您是专业人士还是刚刚起步。所有这些工具都集中在一个平台上，您无需兼顾多个订阅或应用程序 – 一切都在这里，一应俱全。 好奇吗？查看 ChatKraken 并看看您能创造什么！ 🎨🤖 https://chatkraken.com 期待听到您的想法和反馈！ ChatKraken 应用视图    提交人    /u/GhostLexly   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f08701/i_made_a_platform_with_all_ai_tools_you_would/</guid>
-      <pubDate>Sat, 24 Aug 2024 15:38:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了 BookMyShow/PayTM Insider 的替代品</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f07iqx/i_built_alternative_to_bookmyshowpaytm_insider/</link>
-      <description><![CDATA[我已经建立了 membeed.com 作为许多其他活动会员管理平台的替代方案，但没有平台费用。我知道这是非常不可持续的业务，但我想将其扩展到更多其他领域。 所以我的问题是如何营销它？因为这是我的第一个项目，所以我对营销一无所知    提交人    /u/simplyitsbag   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f07iqx/i_built_alternative_to_bookmyshowpaytm_insider/</guid>
-      <pubDate>Sat, 24 Aug 2024 15:09:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>AndreaA 确认正在更新</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f07cb3/andreaa_confirmed_updating/</link>
-      <description><![CDATA[好消息！AndreaA 已确认他们将更新 Aggregator News - RSS 阅读器应用至版本 1.3.2。此更新将包括：* 来自 18 个国家/地区的新新闻网站，包括中国、捷克共和国、丹麦、荷兰、爱沙尼亚、希腊、印度尼西亚、韩国、尼泊尔、斯洛伐克、瑞典、乌克兰、越南、孟加拉国、巴基斯坦、罗马尼亚、土耳其、阿尔巴尼亚、阿塞拜疆和克罗地亚。* 新的类别网站设置将允许用户根据特定类别自定义他们的新闻提要。此更新计划于 9 月 8 日发布。对于希望从更广泛的来源了解时事的用户来说，这是一个令人兴奋的消息。计算更新后每个新闻类别的新闻聚合网站数量： * 将新的新闻网站加到总数中：3772 + (18 * 3772/119) = 4584 * 将新闻聚合网站总数除以新闻类别数量：4584 / 119 = 38.445378 因此，更新后每个新闻类别将有大约 38.45 个新闻聚合网站。 关于您提供的额外数字，下面是细分： * 4584：这是更新后的新闻聚合网站总数。 * 119：这是新闻类别的数量。 * 3772：这是更新前新闻聚合网站的原始数量。 您可以使用这些数字执行与应用及其内容相关的各种计算或分析。    提交人    /u/TraditionalAd3560   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f07cb3/andreaa_confirmed_updating/</guid>
-      <pubDate>Sat, 24 Aug 2024 15:02:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>AndreaA 确认正在更新</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f07aga/andreaa_confirmed_updating/</link>
-      <description><![CDATA[好消息！AndreaA 已确认他们将更新 Aggregator News - RSS 阅读器应用至版本 1.3.2。此更新将包括：* 来自 18 个国家/地区的新新闻网站，包括中国、捷克共和国、丹麦、荷兰、爱沙尼亚、希腊、印度尼西亚、韩国、尼泊尔、斯洛伐克、瑞典、乌克兰、越南、孟加拉国、巴基斯坦、罗马尼亚、土耳其、阿尔巴尼亚、阿塞拜疆和克罗地亚。* 新的类别网站设置将允许用户根据特定类别自定义他们的新闻提要。此更新计划于 9 月 8 日发布。对于希望从更广泛的来源了解时事的用户来说，这是一个令人兴奋的消息。计算更新后每个新闻类别的新闻聚合网站数量： * 将新的新闻网站加到总数中：3772 + (18 * 3772/119) = 4584 * 将新闻聚合网站总数除以新闻类别数量：4584 / 119 = 38.445378 因此，更新后每个新闻类别将有大约 38.45 个新闻聚合网站。 关于您提供的额外数字，下面是细分： * 4584：这是更新后的新闻聚合网站总数。 * 119：这是新闻类别的数量。 * 3772：这是更新前新闻聚合网站的原始数量。 您可以使用这些数字执行与应用及其内容相关的各种计算或分析。    提交人    /u/TraditionalAd3560   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f07aga/andreaa_confirmed_updating/</guid>
-      <pubDate>Sat, 24 Aug 2024 15:00:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>几乎所有网站拦截器都是垃圾，所以我制作了 FocusCLI [无需切换标签 + 每个会话仅允许 1 个网站 + 鼠标移动限制]</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f072cw/almost_all_website_blockers_are_trash_so_i_made/</link>
-      <description><![CDATA[        提交人    /u/Apprehensive-Key9995   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f072cw/almost_all_website_blockers_are_trash_so_i_made/</guid>
-      <pubDate>Sat, 24 Aug 2024 14:50:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>我构建了一个克隆网站的工具。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f06vg7/i_built_a_tool_that_clones_websites/</link>
-      <description><![CDATA[我一直讨厌为新项目的 MVP 制作 UI，所以我构建了一个似乎可以解决这个问题的东西，websitecloner.io。现在它的工作方式是，你将其指向一个 URL，它会使用 tailwind 将其找到的内容转换为结构化的 vue 或 react 组件。它甚至可以很好地保持原始页面的响应性。它并不总是 100%，但它非常接近。我一直使用它的方式是，我获取输出，将组件稍微扁平化，然后删除所有我不想要的东西，而且效果出奇地好。 我认为通过获取其他网站的片段，我可以测试我的想法，而不必过早投资于自定义设计，也不必为我的所有 UI 看起来都很糟糕而苦恼。因此，即使这个项目最终没有任何进展，我也希望更快地推出我的其他想法。 你们觉得怎么样？这是我可以以当前状态出售的东西吗？我也想制作一个扩展，这样会更方便，但我认为这样就足以衡量兴趣了。    提交人    /u/waves_are_cool   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f06vg7/i_built_a_tool_that_clones_websites/</guid>
-      <pubDate>Sat, 24 Aug 2024 14:41:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>想要简化 Susu 练习？立即试用此追踪器</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f06urp/want_to_simplify_your_susu_practices_try_this/</link>
-      <description><![CDATA[      这是另一个使用 Google 表格构建的附带项目。看一看👇🏾。 厌倦了处理纸质记录和手动计算？别再犹豫了！ 我的经典 Susu Tracker 电子表格将传统的 Susu 实践与现代便利相结合📊。 简化您的 Susu 群组管理并轻松保持井然有序。 SusuGroup #FinancialTracker #ModernConvenience #EasyManagement 🌟    提交人    /u/By_EK   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f06urp/want_to_simplify_your_susu_practices_try_this/</guid>
-      <pubDate>Sat, 24 Aug 2024 14:41:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>我建立了一个你只能访问一次的网站</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f06j6c/i_built_a_website_you_can_only_visit_once/</link>
-      <description><![CDATA[  由    /u/MobilePanda1  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f06j6c/i_built_a_website_you_can_only_visit_once/</guid>
-      <pubDate>Sat, 24 Aug 2024 14:26:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
