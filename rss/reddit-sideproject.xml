@@ -4,111 +4,111 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Sun, 25 Aug 2024 12:24:11 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Aug 2024 15:13:08 GMT</lastBuildDate>
     <item>
-      <title>制作了这个免费工具，将我闲置的平板电脑重新用于信息显示</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f0utgq/made_this_free_tool_to_repurpose_my_unused/</link>
-      <description><![CDATA[        由    /u/bobbyswinson  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f0utgq/made_this_free_tool_to_repurpose_my_unused/</guid>
-      <pubDate>Sun, 25 Aug 2024 12:06:36 GMT</pubDate>
+      <title>使用 Stripe 发票生成器可为您节省每张发票 2 美元。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f0ylrz/save_you_2_per_invoice_with_stripe_invoice/</link>
+      <description><![CDATA[      各位企业家和小企业主好！ 我很高兴与大家分享我一直在研究的一个微型 SaaS 项目，如果您使用 Stripe 付款，它可以为您省钱。这是一款 Stripe 发票生成器，可免除 Stripe 为生成发票而收取的每笔交易 2 美元的费用。 它的作用如下：  与您的 Stripe 帐户无缝集成 为每笔交易自动生成专业发票 与使用 Stripe 的内置发票功能相比，每张发票可节省 2 美元 通过电子邮件直接向您的客户发送发票  MVP 已经准备就绪，我们正准备很快发布。我们正在寻找能够在正式发布之前提供反馈并帮助我们改进产品的早期采用者。 如果您通过 Stripe 处理大量交易，那么这 2 美元的费用加起来可不小。我们的工具每月可为您节省数百甚至数千美元，具体取决于您的交易量。 因此，我很好奇：您会使用这样的工具来满足您的日常业务需求吗？哪些功能会让它成为您的必备工具？ 我们很高兴将它交到用户手中并开始为您省钱。如果您有兴趣成为早期采用者或只是想了解更多信息，请发表评论或向我发送 DM。 https://preview.redd.it/2i9zectittkd1.png?width=919&amp;format=png&amp;auto=webp&amp;s=14fe23c915017dd3095dabf9d4e79d50e7625231    提交人    /u/jayeshjanyani   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f0ylrz/save_you_2_per_invoice_with_stripe_invoice/</guid>
+      <pubDate>Sun, 25 Aug 2024 15:12:36 GMT</pubDate>
     </item>
     <item>
-      <title>我正在开发一款以开发人员为中心的网站构建器。原因如下。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f0ujef/im_making_a_developerfocused_website_builder/</link>
-      <description><![CDATA[两年前，我给自己定下了学习前端开发的目标。 因此，我选了一门 Vue + TailwindCSS 课程并开始学习。 由于我是后端出身，所以一开始很难。 但在做了几个网站之后，我就掌握了窍门。我可以做任何我想做的事情，这种感觉很好。 从那时起，我创建了许多网站。 我的过程是：1. 在线寻找登陆页面设计灵感（figma 模板、好看的模型或类似的东西）2. 尽我所能实现最佳设计并添加自己的创意 这总是会花费大量的时间，结果还不错……但真的不是很好。 因此，我尝试使用网站构建器来制作我的登陆页面。我对使用像 framer 这样的工具制作美观的网站如此简单感到印象深刻。 但我对大多数工具强迫你使用他们的托管这一事实感到失望。 他们也没有让你访问源代码。而那些支持的，不支持 TailwindCSS。 它们是为营销人员制作的，而不是为开发人员制作的。 能够导出代码以便可以无缝集成到我的项目中对我来说非常重要。 所以这就是我开始构建我梦想的网站构建器的原因： - 大量模板 - 您可以轻松交换的可自定义部分（用于英雄部分，导航栏，评论，常见问题，页脚以及您需要的所有其他内容） - 导出到任何框架（html，vue，react，next，svelte，astro，angular ......） - TailwindCSS 支持 - 开箱即用的出色设计 如果您有兴趣，这里是链接：uimaker.dev 我很高兴听到您的反馈/想法！    提交人    /u/blueBerries720   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f0ujef/im_making_a_developerfocused_website_builder/</guid>
-      <pubDate>Sun, 25 Aug 2024 11:49:39 GMT</pubDate>
+      <title>通过阅读/书写字母并获得对错误的反馈来学习语言。（链接在评论中）</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f0ykeo/learn_languages_by_readingwriting_letters_and/</link>
+      <description><![CDATA[        提交人    /u/iEnriqueSP   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f0ykeo/learn_languages_by_readingwriting_letters_and/</guid>
+      <pubDate>Sun, 25 Aug 2024 15:11:00 GMT</pubDate>
     </item>
     <item>
-      <title>如何启动人才市场？（例如 UpWork）</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f0ughu/how_to_launch_a_talent_marketplace_such_as_upwork/</link>
-      <description><![CDATA[当尚无人才可用时，如何让人才市场在发布时具有吸引力？ 这似乎是一个愚蠢的问题，但是当我开始构建一个人才市场时，我很想听听您对此的看法。    提交人    /u/Educational_Road_493   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f0ughu/how_to_launch_a_talent_marketplace_such_as_upwork/</guid>
-      <pubDate>Sun, 25 Aug 2024 11:44:48 GMT</pubDate>
+      <title>有没有免费的软件可以开发 iOS 应用</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f0ygjl/are_there_free_softwares_to_build_ios_app/</link>
+      <description><![CDATA[有没有免费软件可以创建 iOS 应用程序，任何指导都会有帮助，我有一些想法，但不能花很多时间在 Xcode 上构建 iOS 应用程序。    提交人    /u/Biker_uphill   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f0ygjl/are_there_free_softwares_to_build_ios_app/</guid>
+      <pubDate>Sun, 25 Aug 2024 15:06:21 GMT</pubDate>
     </item>
     <item>
-      <title>发布了一款电视节目追踪 iOS 应用</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f0ufpv/released_a_tv_show_tracking_ios_app/</link>
-      <description><![CDATA[      大家好，我最近发布了一款名为 Epoch 的电视节目跟踪应用。 四个月前，我决定实现我的想法，开发一款跟踪电视节目的应用。我原本希望这是一个非常简单的应用，但超出了最初的范围。我添加了 Trakt 集成、iCloud 支持和其他功能。 经过大量的工作和学习，我很高兴地说 Epoch 终于发布了第一个版本。 Epoch 是一个电视节目管理器，可让您跟踪您观看过的内容，发现新节目，并在新剧集发布时收到通知。 如果您决定尝试一下，请随时联系我们获取任何反馈。 https://apps.apple.com/us/app/tv-manager-epoch/id6502776057    提交人    /u/Tabonx   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f0ufpv/released_a_tv_show_tracking_ios_app/</guid>
-      <pubDate>Sun, 25 Aug 2024 11:43:26 GMT</pubDate>
+      <title>创建应用程序演示的最佳 AI 工具是什么</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f0ydho/what_is_the_best_ai_tool_to_create_app_demo/</link>
+      <description><![CDATA[我正在尝试为我的移动应用创建产品演示。想知道您使用过的最佳工具是什么？    提交人    /u/williezx   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f0ydho/what_is_the_best_ai_tool_to_create_app_demo/</guid>
+      <pubDate>Sun, 25 Aug 2024 15:02:41 GMT</pubDate>
     </item>
     <item>
-      <title>需要对 AI T 恤设计师的反馈</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f0ubl8/need_feedback_for_ai_tshirt_designer/</link>
-      <description><![CDATA[大家好， 我正在开发一款 AI T 恤设计师，希望得到您的反馈。这是一个快速演示。 您觉得怎么样？ https://reddit.com/link/1f0ubl8/video/o3cq65ptqskd1/player    提交人    /u/Rivers-and-mountains   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f0ubl8/need_feedback_for_ai_tshirt_designer/</guid>
-      <pubDate>Sun, 25 Aug 2024 11:36:04 GMT</pubDate>
+      <title>一款移动应用程序，可以 1.5 倍速观看视频（在所有网站和流行的社交网络上），并具有其他便捷功能，例如音频降噪和音量增强、视频中的 3 键导航、短视频自动滚动，并支持键盘和游戏手柄。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f0y5ta/a_mobile_app_to_watch_videos_on_all_websites_and/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f0y5ta/a_mobile_app_to_watch_videos_on_all_websites_and/</guid>
+      <pubDate>Sun, 25 Aug 2024 14:53:33 GMT</pubDate>
     </item>
     <item>
-      <title>2024 年 5 大最佳 IPTV 服务提供商 [评分最高的提供商]</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f0u7ol/5_best_iptv_service_providers_in_2024_top_rated/</link>
-      <description><![CDATA[        由    /u/Massive-Garlic-8813   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f0u7ol/5_best_iptv_service_providers_in_2024_top_rated/</guid>
-      <pubDate>Sun, 25 Aug 2024 11:29:01 GMT</pubDate>
+      <title>在推出我的产品之前，我赚了 364 美元</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f0y5m7/before_launching_my_product_i_made_364/</link>
+      <description><![CDATA[      我已经开始了一项新的副业。 我的计划是分享 100 多个经过验证的微型或迷你 SaaS 创意，以便用户可以构建工具并使用这些创意创造收入。 最有趣的是，我构建了我的网站以 Mini SaaS Ideas (https://minisaasideas.com/) 的名义已经启动预订，以便用户可以低价预订。 结果，我已经获得了 5 笔销售。这意味着我赚了 364 美元。 来自 Patreon 的销售收入 此外，我的计划是在发布当天将产品定价为 249 美元。 由于我在预购时保持低价，因此这 2 天我卖出了 5 件。 让我们看看是否能获得更多销量……    提交人    /u/Nipu47   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f0y5m7/before_launching_my_product_i_made_364/</guid>
+      <pubDate>Sun, 25 Aug 2024 14:53:18 GMT</pubDate>
     </item>
     <item>
-      <title>购买 Tik Tok 粉丝：我的经验和建议</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f0tr7e/buy_tik_tok_followers_my_experience_and/</link>
-      <description><![CDATA[大家好！我想分享一下从&quot;InstaFans. shop&quot;购买 TikTok 粉丝的经验，因为我知道很多人可能会对此感到好奇。在 TikTok 上发展可能是一项真正的艰苦工作，有时你只需要一点点推动力就可以让事情顺利进行。 我为什么考虑购买 TikTok 粉丝 我们都知道，拥有大量粉丝确实有助于提高 TikTok 上的知名度。这不仅仅是为了虚荣——更多的粉丝可以带来更好的参与度、更多的浏览量，甚至登陆 For You 页面。但让我们面对现实吧，自然地建立这种关注度可能需要大量的时间和精力，特别是如果你刚刚起步的话。 那时我开始考虑购买粉丝。一开始我持怀疑态度，因为我听说过所有关于虚假账户和账户被标记的恐怖故事。但我也在 Reddit 上看到了一些正面的报道，所以我觉得值得一试。 我对可靠服务的搜索 我做了大量研究，遇到了各种服务。其中很多似乎都不太可靠，但有一个网站引起了我的注意，因为它在 Reddit 上有一些很好的评价。读完这些评论后，我决定尝试一下。 我使用“InstaFans.shop”的体验 在做了一些研究并查看了 Reddit 上的各种选项后，我遇到了 InstaFans。它似乎有可靠的评论，人们对它的评价也很好，所以我决定尝试一下。 我不会在这里说出这项服务的名字，以避免任何垃圾邮件的氛围，但如果你一直在 Reddit 上研究这个主题，你可能会遇到同样的推荐。可以说，在成功购买粉丝的人中，这是一个知名网站。 购买粉丝后发生了什么 因此，我先购买了一个小套餐，因为我想试水一下。事情是这样的：  逐步交付：粉丝在几天内交付，这使得增长看起来很自然。这对我来说是一个很大的优势，因为突然的激增看起来很可疑。 粉丝质量：我对质量感到惊喜。粉丝看起来不像明显的机器人，这是我之前担心的问题。他们看起来像是真实的帐户，有些甚至与我的内容互动。 对我的帐户的影响：获得粉丝后，我注意到参与度有所上升。我的视频开始获得更多的点赞和观看次数，这才是购买粉丝的初衷。它为我的帐户提供了在平台上获得更多关注所需的提升。  您应该购买 TikTok 粉丝吗？ 这是我的看法：如果您想快速发展您的帐户，购买粉丝可能是一种有用的策略。但是，重要的是要进行研究并选择信誉良好的服务。我很幸运使用了那个，但我读过其他人不那么幸运。确保您选择的服务有积极的评价并逐步提供粉丝以避免任何危险信号。 此外，请记住，购买粉丝只是难题的一部分。您仍然需要创建引人入胜的内容并与您的受众互动以保持势头。粉丝可以帮助您引起注意，但让他们保持兴趣取决于您。 最后的想法 如果您正在考虑购买 TikTok 粉丝，我建议您先做一些彻底的研究。肯定有好的服务，但也有一些会让你的账户被标记。对我来说，这笔投资是值得的，因为它给了我的账户所需的提升。 你们有人试过购买粉丝吗？我很想听听你的经历或在 TikTok 上成长的任何技巧。让我们在评论中聊聊吧！    提交人    /u/RobertMendenhall   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f0tr7e/buy_tik_tok_followers_my_experience_and/</guid>
-      <pubDate>Sun, 25 Aug 2024 11:00:06 GMT</pubDate>
+      <title>我制作了一个简单的插件，可以在您的网站上显示您的 AppStore 评论</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f0xtnc/i_made_a_simple_plugin_to_show_your_appstore/</link>
+      <description><![CDATA[大家好，我一直在寻找一个简单的解决方案来解决这个小问题，但找不到令人满意的办法，所以我创建了自己的插件。它所做的就是从苹果服务器获取评论并显示它们 :) 我已经在我的网站上为我的小应用程序 (memoiri.app) 使用它了  所以你可以从这里获取它：https://sugarit.web.app 我期待听到您的反馈，并希望对其进行改进 :)    提交人    /u/Mojomoto93   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f0xtnc/i_made_a_simple_plugin_to_show_your_appstore/</guid>
+      <pubDate>Sun, 25 Aug 2024 14:38:32 GMT</pubDate>
     </item>
     <item>
-      <title>OKR 跟踪工具的反馈/beta 测试人员</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f0td50/feedback_beta_testers_for_okr_tracking_tool/</link>
-      <description><![CDATA[大家好。我猜我们大多数人都有全职的技术工作，所以我很想听听你们对我最新的业余项目的反馈！这是一款用于跟踪目标和关键结果 (OKR) 并可视化进度的在线应用程序。 https://www.okr-dash.com 我做软件工程师和产品经理已经近 20 年了，OKR 是我职业生涯中经常遇到的东西，但大多数公司都没有完全理解它。我认为合适的工具可以真正优化 OKR 的成功。 正在寻找 beta 测试人员并请提供任何反馈。注册后请告诉我，我将免费升级您的帐户。欢迎所有和任何评论。谢谢 :)   由    /u/net-marketing  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f0td50/feedback_beta_testers_for_okr_tracking_tool/</guid>
-      <pubDate>Sun, 25 Aug 2024 10:32:39 GMT</pubDate>
+      <title>我构建了一个 React markdown 解析器组件，您可以使用它在您的网站上添加注释。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f0xqwq/i_built_a_react_markdown_parser_component_that/</link>
+      <description><![CDATA[      我构建了一个 React markdown 解析器组件，用于将 markdown 笔记放到网页上。  目前有很多基于 markdown 的笔记应用程序，它们支持大量优秀功能。但是，我一直想将我的笔记和博客放在我的个人网站上，而所有这些基于应用程序的 markdown 解析器都不支持这一点。 因此，我构建了一个名为 notie 的 React 组件，它将您的 markdown 文件解析为高度可定制的布局，具有丰富的功能，包括可运行的代码块（是的，您只需单击运行按钮）、TikZ 支持、LaTeX 样式环境（定义、定理、证明、引理……）、自动方程编号（除了原生 latex 之外，还没有看到任何其他支持此功能的解析器）等等。  欢迎随时查看，我们一直在寻找开源贡献者！    提交人    /u/Heavy-Woodpecker-826   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f0xqwq/i_built_a_react_markdown_parser_component_that/</guid>
+      <pubDate>Sun, 25 Aug 2024 14:35:09 GMT</pubDate>
     </item>
     <item>
-      <title>我的 AI for Test Exams 在第一周就获得了 3000 名用户 - 感谢 Reddit</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f0tcc3/my_ai_for_test_exams_got_3000_users_in_the_first/</link>
-      <description><![CDATA[        提交人    /u/InternetVisible8661   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f0tcc3/my_ai_for_test_exams_got_3000_users_in_the_first/</guid>
-      <pubDate>Sun, 25 Aug 2024 10:31:06 GMT</pubDate>
+      <title>我创建了一个工具，可以通过二维码轻松收集婚礼照片 - 请给我您的反馈！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f0xp4c/jai_créé_un_outil_pour_collecter_facilement_les/</link>
+      <description><![CDATA[大家好！ 👋 我是一名软件工程师，我已经在 Web 应用程序和 SaaS 领域工作了一段时间，试图创建有用的产品来解决实际问题。我决定采取“快速启动”方法并尽早收集反馈，而不是力求技术完美。 我的最新项目 ClicMariage 允许新娘和新郎共享 QR与宾客一起编写代码，以便他们可以轻松下载并分享婚礼期间拍摄的所有照片和视频。它非常简单：无需应用程序，无需注册，只需一个链接或扫描即可。 🎉 ClicMariage.com 这个概念是集中这一天的所有记忆快速、安全地在一处留下难忘的回忆。在我进一步改进之前，您有任何反馈或建议吗？ 我的营销计划是投放 Facebook 广告。 感谢您的想法和反馈！ 🙏 啊，是的，我也是 Reddit 新手，这是我的第一篇文章。请随时分享您的反馈:)   由   提交/u/madjid513  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f0xp4c/jai_créé_un_outil_pour_collecter_facilement_les/</guid>
+      <pubDate>Sun, 25 Aug 2024 14:33:02 GMT</pubDate>
     </item>
     <item>
-      <title>我正在创建一款健身房管理软件，为个人用户提供人工智能驱动的移动应用程序。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f0t515/i_am_creating_a_gym_management_software_with_ai/</link>
-      <description><![CDATA[我正在创建一个健身房管理软件，帮助健身房老板管理订阅、设备、查看收入统计数据等，订阅该产品的健身房老板可以免费使用这款由人工智能驱动的移动应用程序。该软件会向用户推荐他们的锻炼、膳食和其他目标，我不是美国人，所以我不知道我的产品会如何为他们服务，也不确定定价，如果能知道这是否是个好主意以及它的价格在什么水平左右，那将会很有帮助。    提交人    /u/TheGamesBond007   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f0t515/i_am_creating_a_gym_management_software_with_ai/</guid>
-      <pubDate>Sun, 25 Aug 2024 10:17:05 GMT</pubDate>
+      <title>2024 年最佳 IPTV 服务提供商'美国、英国、欧洲和非洲 | iptv 订阅|最佳 iptv|iptv 提供商|iptv 提供商|iptv 服务|最佳 iptv 服务|iptv 服务|iptv|最佳 iptv 提供商|iptv 最佳|iptv 订阅|最佳 iptv 服务|最佳 iptv 订阅|最佳 iptv 2024|最佳 iptv Reddit</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f0xmhv/the_best_iptv_service_providers_for_2024_us_uk/</link>
+      <description><![CDATA[  由    /u/Dapper-Sentence-1628  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f0xmhv/the_best_iptv_service_providers_for_2024_us_uk/</guid>
+      <pubDate>Sun, 25 Aug 2024 14:29:49 GMT</pubDate>
     </item>
     <item>
-      <title>我创建了一个学习拉丁语的网站，里面有分级文本、动态词汇表和自定义抽认卡</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f0stub/i_made_a_site_for_studying_the_latin_language/</link>
-      <description><![CDATA[大家好！我是一名神学系学生，在学习拉丁语方面遇到了不少困难。幸运的是，我有软件开发背景，所以今年夏天我一直在做一个名为 Latin Learner 的小项目。 它基本上是一个带有分级文本、交互式词汇表和抽认卡的网络应用程序 - 所有这些都旨在帮助像我（也许还有你？）这样的人提高拉丁语水平，而不会遇到常见的麻烦。它仍在进行中，所以我真的很感激你们的任何反馈或想法！ “堆栈”是 Xano + weweb，所以没什么特别的。 请访问 www.latinlearner.com    提交人    /u/Resident_Cupcake_501   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f0stub/i_made_a_site_for_studying_the_latin_language/</guid>
-      <pubDate>Sun, 25 Aug 2024 09:55:33 GMT</pubDate>
+      <title>我建立了一个 Mac 应用程序目录并且它已经开始产生收入了！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f0xhux/i_built_a_mac_apps_directory_and_its_already/</link>
+      <description><![CDATA[我的开发人员朋友经常谈论让他们的应用程序在“App Store”上受到关注有多么困难。这让我开始思考如何帮助那些努力获得关注的人。 我决定专门为 Mac 应用程序创建一个目录，并在 X/Twitter 和文章中推广它。这个想法似乎引起了人们的共鸣，我们开始获得一些关注。在过去的 1.5 个月里，这是一段令人着迷的旅程：  18 位客户 创造了 501 美元的收入 实现了 8500 的月流量  如果您对我的目录有任何疑问，可以询问 ~ Mactools    提交人    /u/gary_king_001   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f0xhux/i_built_a_mac_apps_directory_and_its_already/</guid>
+      <pubDate>Sun, 25 Aug 2024 14:23:58 GMT</pubDate>
     </item>
     <item>
-      <title>我正在开发一款语言学习/抽认卡类型的应用程序，我可以使用建设性的反馈和建议。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f0s3a2/i_am_building_a_language_learning_flashcards_type/</link>
-      <description><![CDATA[https://rememble.org/ 试听一节课并告诉我你的想法，无需创建帐户    提交人    /u/ryankopf   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f0s3a2/i_am_building_a_language_learning_flashcards_type/</guid>
-      <pubDate>Sun, 25 Aug 2024 09:00:10 GMT</pubDate>
+      <title>在线 Mini-Z 轨道布局编辑器</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f0x7xo/online_miniz_track_layout_editor/</link>
+      <description><![CDATA[  由    /u/kelvinko  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f0x7xo/online_miniz_track_layout_editor/</guid>
+      <pubDate>Sun, 25 Aug 2024 14:11:17 GMT</pubDate>
     </item>
     <item>
-      <title>我尝试制作一个 Pinterest 替代品！Pixel Estate</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f0r8ta/i_tried_to_make_a_pinterest_alternative_pixel/</link>
-      <description><![CDATA[大家好，过去一个月我一直在开发一个我称之为可视化链接目录的平台。 因此，我的想法是，人们可以分享任何带有链接和图片的内容。虽然在开发和研究这个领域时，我了解到我正在制作类似于 pinterest 的东西。虽然我继续并完成了这个项目。 您看到的是人们到目前为止发布的所有帖子的网格。但有一个问题，我知道很多人不会喜欢这样，但发布并不是完全免费的。我知道如果我保持完全免费，该网站将被大量垃圾邮件，所以我将发布费用定为仅 1 美元。 如果您发布，您的帖子将位于网格顶部，供所有人查看和访问。您还可以提供有关帖子的更详细信息，如标题、说明、类别等。  我想创建一个很酷的平台，任何人都可以只花 1 美元分享任何东西，基本上是一个 1 美元的营销平台，因此您不必向谷歌和 Facebook 支付广告，而是可以先在这里尝试获得初始流量。  很想得到您的反馈。您也可以嘲笑这个想法或建议一些更有趣的功能。  谢谢阅读。  这是 pixel estate 的链接 - https://www.pixel.estate 您可以在此处阅读有关它的更多信息    提交人    /u/mediocre_man_online   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f0r8ta/i_tried_to_make_a_pinterest_alternative_pixel/</guid>
-      <pubDate>Sun, 25 Aug 2024 07:56:48 GMT</pubDate>
+      <title>开源 + 设备上的 OTTER 替代品？[隐私第一]</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f0wh7w/opensource_on_device_alternative_to_otter_privacy/</link>
+      <description><![CDATA[ 所以我想知道这是否有意义？计算机现在很好，我们甚至可以在 CPU 上轻松运行 whisper-medium。但在任何像样的计算机上都很容易。 pyannote 扬声器日记化也不是什么大问题 运行 phi3.5-mini / 或任何可以在计算机上运行的东西（也许使用 ollama 开始） 录制本地音频和扬声器 [在获得会议中相关人员的许可后，因此不会调用任何机器人]  这是人们可能想要使用的东西吗？数据不会离开计算机，所以这可能是有益的。你怎么看？ 此外，以后我们也可以有会议助理。因为现在应用程序正在实时监听，所以它也可以实时提供帮助。或者稍后提出可操作的项目，说明如何更好地沟通。  对于使用这些工具的人来说，隐私是否足够令人担忧？我分段尝试了，并将结果与​​ Otter 进行了比较，结果足够好。  另一方面，想象一个案例：  我是销售主管，销售是一个员工流失率很高的领域。我教授一些法学硕士学位（使用我的背景和组织信息以及以前的会议）。现在，新来的人在会议期间/会议后可以了解他们如何表现得更好。     提交人    /u/divyamchandel   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f0wh7w/opensource_on_device_alternative_to_otter_privacy/</guid>
+      <pubDate>Sun, 25 Aug 2024 13:35:38 GMT</pubDate>
     </item>
     <item>
-      <title>最便宜的数据库解决方案</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f0r51m/cheapest_database_solution/</link>
-      <description><![CDATA[构建社交媒体项目并寻找最便宜的数据库存储选项。     提交人    /u/Economy_Friendship33   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f0r51m/cheapest_database_solution/</guid>
-      <pubDate>Sun, 25 Aug 2024 07:48:58 GMT</pubDate>
+      <title>开发者的 AI 导师</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f0wf2e/ai_tutor_for_devs/</link>
+      <description><![CDATA[我建立了一个 AI 导师，教授软件开发人员计算机科学基础知识，如算法、离散数学、计算机架构、操作系统等 您可以在 synapsetutor.com 上免费试用    提交人    /u/synapsetutor   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f0wf2e/ai_tutor_for_devs/</guid>
+      <pubDate>Sun, 25 Aug 2024 13:32:43 GMT</pubDate>
     </item>
     <item>
-      <title>康威生命游戏！用 React 制作（我是新手）</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f0r2m3/conways_game_of_life_made_in_react_im_noobie/</link>
-      <description><![CDATA[      https://conway-s-game-of-life-navy.vercel.app/    由   提交  /u/Nice-Ad-3328   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f0r2m3/conways_game_of_life_made_in_react_im_noobie/</guid>
-      <pubDate>Sun, 25 Aug 2024 07:43:55 GMT</pubDate>
+      <title>需要一种简单的方法在我的新旧电脑之间共享文件——这就是我想到的</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f0wdgt/needed_a_simple_way_to_share_files_between_my_old/</link>
+      <description><![CDATA[好吧，事实是这样的——我对网络开发一无所知。我的背景是 Android 开发，我从未想过我会构建任何与网络相关的东西。但是当我需要一种在新旧 PC 之间共享文件的简便方法时，我对所有充斥着广告的平台感到沮丧。 所以，我决定尝试一些不同的东西。在 ChatGPT 的帮助下，我成功构建了共享工具，这是一个基本的、无广告的工具，完全满足了我的需求——让我可以在我的计算机之间共享文本和文件，而不会出现任何常见的麻烦。 我仍然对自己在没有任何网络开发知识的情况下完成这项工作感到惊讶，我计划很快添加更多功能。我很乐意收到您的反馈或想法，以便让它变得更好。请随意查看并告诉我您的想法。    提交人    /u/foundertanmay   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f0wdgt/needed_a_simple_way_to_share_files_between_my_old/</guid>
+      <pubDate>Sun, 25 Aug 2024 13:30:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
