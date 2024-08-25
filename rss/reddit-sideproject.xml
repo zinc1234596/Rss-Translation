@@ -4,7 +4,35 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Sun, 25 Aug 2024 01:07:24 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Aug 2024 03:14:34 GMT</lastBuildDate>
+    <item>
+      <title>制作了一个 GitHub App，当有人为您的 repo 加星标时，以此回报。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f0mrem/made_a_github_app_to_return_the_favour_when/</link>
+      <description><![CDATA[https://stars.june07.com    由    /u/june07r  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f0mrem/made_a_github_app_to_return_the_favour_when/</guid>
+      <pubDate>Sun, 25 Aug 2024 03:03:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>创建 Web 应用程序以可视化编码技能和框架</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f0m3ir/created_webapp_to_visualize_coding_skills_and/</link>
+      <description><![CDATA[        提交人    /u/RKesty   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f0m3ir/created_webapp_to_visualize_coding_skills_and/</guid>
+      <pubDate>Sun, 25 Aug 2024 02:27:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>我构建了一个 MacOS 应用程序来清理 Flutter 项目构建</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f0ltq1/i_build_a_macos_app_to_clean_flutter_project_build/</link>
+      <description><![CDATA[      🧹 使用 Flutter Build Cleaner 回收您的磁盘空间 - 对于希望有效管理其项目构建文件的 Flutter 开发人员来说，这是必备工具。 🌟 核心功能： 🎯 有针对性的清理：专门用于删除 Flutter 已编译的构建文件，释放宝贵的存储空间 🔧 工作原理： 📂 选择您的 Flutter 项目文件夹 🔍 扫描构建目录 ✅ 选择要删除的构建文件 💾 立即回收磁盘空间 📊 额外好处： 🚀 提高性能：删除不必要的编译缓存文件 🔄 简化工作流程：维护整洁的开发环境 👥 用户友好：界面简单，快速简便清理 🎯 Flutter Build Cleaner 专注于一项关键任务： 消除 Flutter 编译期间生成的构建文件。这些文件通常会占用大量磁盘空间，但可以安全删除。我们的应用让这个过程变得轻松高效。 💻 非常适合希望保持项目精简和设备优化的各级 Flutter 开发人员。 ⬇️ 立即下载 Flutter Build Cleaner 并控制您的 Flutter 项目的构建文件管理！ https://preview.redd.it/lo7ykw2aypkd1.png?width=1440&amp;format=png&amp;auto=webp&amp;s=a7207580a077378b1217fd77107002163b550e65    提交人    /u/PositiveMaterial5297   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f0ltq1/i_build_a_macos_app_to_clean_flutter_project_build/</guid>
+      <pubDate>Sun, 25 Aug 2024 02:12:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>2Secured – E2EE 秘密共享工具</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f0l7u0/2secured_an_e2ee_secrets_sharing_tool/</link>
+      <description><![CDATA[        由    /u/maligigi  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f0l7u0/2secured_an_e2ee_secrets_sharing_tool/</guid>
+      <pubDate>Sun, 25 Aug 2024 01:39:41 GMT</pubDate>
+    </item>
     <item>
       <title>2024 年 5 大最佳 IPTV 服务提供商 [评分最高的提供商]</title>
       <link>https://www.reddit.com/r/SideProject/comments/1f0k56j/5_best_iptv_service_providers_in_2024_top_rated/</link>
@@ -81,34 +109,6 @@
       <description><![CDATA[大约一个月前，我推出了一个网站，人们可以花一美元获得反馈。增长缓慢但比较稳定。 我不确定是否需要进一步开发它，但最近我收到一封客户的电子邮件，说这是他们花过的最值得的一美元。 我从来没有想过一封简单的电子邮件能给我如此大的动力，让我更加努力地工作！感觉真好！！    提交人    /u/Any_Perspective_291   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1f0f15l/got_a_thank_you_email_from_a_client/</guid>
       <pubDate>Sat, 24 Aug 2024 20:39:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>我开发了一款应用程序来帮助人们更多地回收物品</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f0ed5b/i_built_an_app_to_help_people_recycle_their_items/</link>
-      <description><![CDATA[嗨！我是一名高中生，我开发了一款名为 Recyclify 的应用，以帮助人们更多地进行回收。它非常简单，您可以在搜索栏中输入一个物品，它会告诉您该物品是否可回收。除了像塑料袋这样普通的无聊查询之外，它还可以回答更具体的东西，例如“硅树脂 MacBook Air 键盘盖”和“Tye Dye T 恤”。它还可以根据您的位置告诉您可以在哪里回收您的物品。它会找到可以回收您物品的最近的地方并将您引导到该地方。这是链接：https://apps.apple.com/us/app/recyclify/id6642710446    由   提交  /u/Specialist_Wolf_3185   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f0ed5b/i_built_an_app_to_help_people_recycle_their_items/</guid>
-      <pubDate>Sat, 24 Aug 2024 20:09:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>echodocs.ai - 文档更智能。为人类和人工智能服务。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f0e7bb/echodocsai_document_smarter_for_humans_and_ai/</link>
-      <description><![CDATA[        由    /u/Weary_Opportunity582  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f0e7bb/echodocsai_document_smarter_for_humans_and_ai/</guid>
-      <pubDate>Sat, 24 Aug 2024 20:01:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 nextjs 和 sanity 的博客应用程序</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f0dvjc/blogging_app_with_nextjs_and_sanity/</link>
-      <description><![CDATA[https://github.com/kaleb110/nextjs-blog    由   提交  /u/Tall-Strike-6226   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f0dvjc/blogging_app_with_nextjs_and_sanity/</guid>
-      <pubDate>Sat, 24 Aug 2024 19:47:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>每个页面均有实时聊天</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f0d5lx/live_chat_on_every_page/</link>
-      <description><![CDATA[发布了我们的浏览器扩展的最新功能，该功能为互联网的每个页面添加了实时聊天功能。这不是我们最初想到要添加到产品中的东西，但在看到网站不断限制或过度审核的市场需求后，我们认为我们不妨填补这一空白。学习如何构建它的体验很棒！现在我需要去更新所有内容以表明我们提供它，该死的    提交人    /u/2urnesst   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f0d5lx/live_chat_on_every_page/</guid>
-      <pubDate>Sat, 24 Aug 2024 19:14:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
