@@ -4,7 +4,42 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Sun, 25 Aug 2024 03:14:34 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Aug 2024 06:18:14 GMT</lastBuildDate>
+    <item>
+      <title>支付集成（印度 SAAS 产品）</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f0p0ow/payment_integration_indian_saas_product/</link>
+      <description><![CDATA[您好，印度的开发人员， 我正在寻找有关接受 SaaS 产品国际付款的支付网关的建议。由于 Stripe 目前在印度仅限邀请，您认为哪些替代方案有效？如果您能根据经验提出任何建议，我将不胜感激。 谢谢    提交人    /u/nikhilcnair   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f0p0ow/payment_integration_indian_saas_product/</guid>
+      <pubDate>Sun, 25 Aug 2024 05:20:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了一个样板，以便更快地开发 Chrome 扩展程序</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f0ot87/i_created_a_boilerplate_for_developing_chrome/</link>
+      <description><![CDATA[大家好， 在花费大量时间开发 Chrome 扩展程序后，我开始注意到许多初始设置都是重复性的 — 设置数据库、身份验证和创建必要文件所花费的时间比应有的要多。因此，我决定创建一个可以简化此过程的样板，从而节省我和其他人宝贵的时间和精力。 我最初是因为市场潜力而开始创建 Chrome 扩展程序的。Chrome 用户超过 30 亿，而可用的扩展程序只有 180,000 个，其影响潜力巨大。一旦开始开发，我就对扩展程序的强大功能以及它们可能具有的各种用例非常感兴趣。 什么是 ChromeQuick？ ChromeQuick 是一个全面的样板，旨在帮助开发人员快速高效地构建 Chrome 扩展程序。无论您是经验丰富的开发人员还是刚刚起步，ChromeQuick 都可以通过处理重复性任务来简化流程，因此您可以专注于真正重要的事情 - 构建功能。 主要功能：  Firebase 集成：预配置 Firebase，用于身份验证、实时数据库和托管。 带有 DaisyUI 的 Tailwind CSS：开箱即用的现代可定制 UI 框架。 详细文档：安装、常见问题等基本页面已准备就绪。 Gumroad 集成：使用内置的 Gumroad 设置轻松将您的扩展程序货币化。  如何开始：  查看 ChromeQuick 以了解有关它。 现在以特别发布价发售 - 一次购买，永久使用！  如果您有任何疑问，请随时提问。感谢您关注 ChromeQuick！ 编码愉快！    提交人    /u/1000933115   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f0ot87/i_created_a_boilerplate_for_developing_chrome/</guid>
+      <pubDate>Sun, 25 Aug 2024 05:06:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国、欧洲、英国最佳 IPTV 提供商</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f0o8k7/the_best_iptv_provider_in_usa_europe_uk/</link>
+      <description><![CDATA[  由    /u/Acceptable-House-549  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f0o8k7/the_best_iptv_provider_in_usa_europe_uk/</guid>
+      <pubDate>Sun, 25 Aug 2024 04:31:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>我正在开发一款应用程序，通过使用人们自己的照片，让认知评估变得有趣且更容易接受。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f0nl7g/i_am_working_on_an_app_that_makes_cognitive/</link>
+      <description><![CDATA[等到去看医生时，可能已经太晚了，无法逆转疾病的病因。在症状成为问题之前很多年，大脑就会开始受到损害。生活方式的改变已被证明非常有效，但越早开始越好。 该应用程序仍然有点粗糙，我们中的一些人在晚上和周末工作。我们刚刚通过了 800 个 JIRA 票里程碑（80% 已关闭）的错误 🐛 🐞 和 UI/UX 改进，但希望得到任何反馈。 该应用程序可以是一个有趣的 🤩 照片游戏，这确实是我们构建它的重要原因。    提交人    /u/LawrenceChernin2   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f0nl7g/i_am_working_on_an_app_that_makes_cognitive/</guid>
+      <pubDate>Sun, 25 Aug 2024 03:52:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了 Spotlight——一个在 Reddit 和 Hacker News 上查找精彩内容的工具。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f0nij3/i_made_spotlight_a_tool_that_finds_awesome/</link>
+      <description><![CDATA[        由    /u/SpikeySanju 提交   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f0nij3/i_made_spotlight_a_tool_that_finds_awesome/</guid>
+      <pubDate>Sun, 25 Aug 2024 03:47:30 GMT</pubDate>
+    </item>
     <item>
       <title>制作了一个 GitHub App，当有人为您的 repo 加星标时，以此回报。</title>
       <link>https://www.reddit.com/r/SideProject/comments/1f0mrem/made_a_github_app_to_return_the_favour_when/</link>
@@ -32,13 +67,6 @@
       <description><![CDATA[        由    /u/maligigi  提交  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1f0l7u0/2secured_an_e2ee_secrets_sharing_tool/</guid>
       <pubDate>Sun, 25 Aug 2024 01:39:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年 5 大最佳 IPTV 服务提供商 [评分最高的提供商]</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f0k56j/5_best_iptv_service_providers_in_2024_top_rated/</link>
-      <description><![CDATA[        由    /u/WhimsyJordan 提交   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f0k56j/5_best_iptv_service_providers_in_2024_top_rated/</guid>
-      <pubDate>Sun, 25 Aug 2024 00:42:31 GMT</pubDate>
     </item>
     <item>
       <title>我制作了一款应用程序来帮助人们制定膳食计划（MyMealPlan）</title>
@@ -81,34 +109,6 @@
       <description><![CDATA[  由    /u/qpbp  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1f0go7n/im_building_a_directory_of_best_tools_for/</guid>
       <pubDate>Sat, 24 Aug 2024 21:54:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>LinkedIn Roaster - 如何花费超过 1000 美元来烘焙超过 25000 个个人资料</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f0glgy/linkedin_roaster_how_to_spend_more_than_1k_usd_to/</link>
-      <description><![CDATA[      大约一周前，我启动了我的业余项目来“吐槽”LinkedIn 上的个人资料，它在 LinkedIn 用户中迅速传播开来，带来很多欢乐和笑声。  一开始，我错误地使用了一些 API，所以最终花费了 1000 多美元，但我很高兴人们非常喜欢它。 该项目完全免费使用，我和我的朋友一起添加了一些付费功能来支付维护成本。  快来尝试一下： https://liroast.web.app/ https://preview.redd.it/osckp119nokd1.png?width=1461&amp;format=png&amp;auto=webp&amp;s=6774530ef2cddab68c74bf7dae83dc806d6a6766    提交人    /u/warphere   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f0glgy/linkedin_roaster_how_to_spend_more_than_1k_usd_to/</guid>
-      <pubDate>Sat, 24 Aug 2024 21:50:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>互联网项目上最好的数学资源！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f0ge8d/best_math_resources_on_the_internet_project/</link>
-      <description><![CDATA[[ 由于违反 内容政策，已被 Reddit 删除。 ]    由   提交  /u/linear_diversions   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f0ge8d/best_math_resources_on_the_internet_project/</guid>
-      <pubDate>Sat, 24 Aug 2024 21:41:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个包含 42 个 subreddit 的聚合器，用于查找人们正在制作的新项目和新产品！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f0f5ik/i_made_a_lil_42subreddit_aggregator_that_looks/</link>
-      <description><![CDATA[        提交人    /u/sjmog   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f0f5ik/i_made_a_lil_42subreddit_aggregator_that_looks/</guid>
-      <pubDate>Sat, 24 Aug 2024 20:44:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>收到客户的感谢邮件！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f0f15l/got_a_thank_you_email_from_a_client/</link>
-      <description><![CDATA[大约一个月前，我推出了一个网站，人们可以花一美元获得反馈。增长缓慢但比较稳定。 我不确定是否需要进一步开发它，但最近我收到一封客户的电子邮件，说这是他们花过的最值得的一美元。 我从来没有想过一封简单的电子邮件能给我如此大的动力，让我更加努力地工作！感觉真好！！    提交人    /u/Any_Perspective_291   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f0f15l/got_a_thank_you_email_from_a_client/</guid>
-      <pubDate>Sat, 24 Aug 2024 20:39:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
