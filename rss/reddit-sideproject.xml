@@ -4,111 +4,111 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Sun, 25 Aug 2024 15:13:08 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Aug 2024 18:16:29 GMT</lastBuildDate>
     <item>
-      <title>使用 Stripe 发票生成器可为您节省每张发票 2 美元。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f0ylrz/save_you_2_per_invoice_with_stripe_invoice/</link>
-      <description><![CDATA[      各位企业家和小企业主好！ 我很高兴与大家分享我一直在研究的一个微型 SaaS 项目，如果您使用 Stripe 付款，它可以为您省钱。这是一款 Stripe 发票生成器，可免除 Stripe 为生成发票而收取的每笔交易 2 美元的费用。 它的作用如下：  与您的 Stripe 帐户无缝集成 为每笔交易自动生成专业发票 与使用 Stripe 的内置发票功能相比，每张发票可节省 2 美元 通过电子邮件直接向您的客户发送发票  MVP 已经准备就绪，我们正准备很快发布。我们正在寻找能够在正式发布之前提供反馈并帮助我们改进产品的早期采用者。 如果您通过 Stripe 处理大量交易，那么这 2 美元的费用加起来可不小。我们的工具每月可为您节省数百甚至数千美元，具体取决于您的交易量。 因此，我很好奇：您会使用这样的工具来满足您的日常业务需求吗？哪些功能会让它成为您的必备工具？ 我们很高兴将它交到用户手中并开始为您省钱。如果您有兴趣成为早期采用者或只是想了解更多信息，请发表评论或向我发送 DM。 https://preview.redd.it/2i9zectittkd1.png?width=919&amp;format=png&amp;auto=webp&amp;s=14fe23c915017dd3095dabf9d4e79d50e7625231    提交人    /u/jayeshjanyani   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f0ylrz/save_you_2_per_invoice_with_stripe_invoice/</guid>
-      <pubDate>Sun, 25 Aug 2024 15:12:36 GMT</pubDate>
+      <title>一个更好地辩论和更明智决策的地方 - 与正方和反方争论</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f12vvb/a_place_to_debate_better_decide_smarter_argue/</link>
+      <description><![CDATA[      Hello SideBuilders! 在 2024 年 8 月初，我创建了 upargue.com - 您可以在社区中发起正反两方主题并展开辩论。 社区可以通过“鼓掌”来衡量每种论点类型（正反两方）。用户可以为某个论点鼓掌任意次（前提是他没有使用鼓掌）。 规则很简单： - 用户为主题贡献正反两方意见 - 论点所有者不能为自己的论点鼓掌 - 人们衡量正反两方。 - 主题可以开放一段时间 - 直到结束。 最棒的是，鼓掌会使用进度条显示在主题上。 我邀请大家加入。目前，只能通过 X（推特）进行连接。 我非常感谢您的反馈，甚至一些主题的创建。我会确保尽快批准它们。 谢谢！ https://preview.redd.it/ho1yth4lpukd1.png?width=1173&amp;format=png&amp;auto=webp&amp;s=cae0a73d705995ee8f9146ae63369e46da526ad1   由    /u/AdLate3672  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f12vvb/a_place_to_debate_better_decide_smarter_argue/</guid>
+      <pubDate>Sun, 25 Aug 2024 18:13:40 GMT</pubDate>
     </item>
     <item>
-      <title>通过阅读/书写字母并获得对错误的反馈来学习语言。（链接在评论中）</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f0ykeo/learn_languages_by_readingwriting_letters_and/</link>
-      <description><![CDATA[        提交人    /u/iEnriqueSP   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f0ykeo/learn_languages_by_readingwriting_letters_and/</guid>
-      <pubDate>Sun, 25 Aug 2024 15:11:00 GMT</pubDate>
+      <title>我制作了一款新的博客应用，帮助你轻松地通过手机分享包含大量段落和图片的复杂帖子</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f12orp/i_made_a_new_blogging_app_to_help_you_share/</link>
+      <description><![CDATA[我们刚刚推出，请查看！分享您的第一篇帖子并给我们一些反馈。    由   提交  /u/Coperinno   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f12orp/i_made_a_new_blogging_app_to_help_you_share/</guid>
+      <pubDate>Sun, 25 Aug 2024 18:05:26 GMT</pubDate>
     </item>
     <item>
-      <title>有没有免费的软件可以开发 iOS 应用</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f0ygjl/are_there_free_softwares_to_build_ios_app/</link>
-      <description><![CDATA[有没有免费软件可以创建 iOS 应用程序，任何指导都会有帮助，我有一些想法，但不能花很多时间在 Xcode 上构建 iOS 应用程序。    提交人    /u/Biker_uphill   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f0ygjl/are_there_free_softwares_to_build_ios_app/</guid>
-      <pubDate>Sun, 25 Aug 2024 15:06:21 GMT</pubDate>
+      <title>我建立了一个网站来追踪政治捐款、当前活动和当前的竞选资金</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f12bd0/i_built_a_website_to_track_political/</link>
+      <description><![CDATA[我最近完成了一个项目，很高兴与大家分享！我建立了一个网站，提供有关当前美国国会的全面信息中心。 链接：https://the-good-congress.vercel.app/ 回购：https://github.com/kmiguel10/the-good-congress 该网站的主要目的是追踪资金如何流入我们的政治并影响我们政客的行为。它为用户提供了每个国会议员的详细视图，包括：  姓名 领导职位 党派关系 州和地区 任职期限 发起的法案 共同发起的法案 财务摘要图表，显示政治家手头有多少现金、债务以及他们花了多少钱。 主要贡献者，包括为政治家做出贡献的顶级组织和顶级行业。  数据来源于OpenSecrets.org 和 Congress.gov。 我为这个项目投入了大量时间，从收集数据到构建用户界面，我对结果感到自豪。这是一次很棒的学习经历，我希望它能成为任何有兴趣了解美国政治财务方面的人的有用工具。 请让我知道任何反馈！    提交人    /u/Odd_Ad_4776   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f12bd0/i_built_a_website_to_track_political/</guid>
+      <pubDate>Sun, 25 Aug 2024 17:49:59 GMT</pubDate>
     </item>
     <item>
-      <title>创建应用程序演示的最佳 AI 工具是什么</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f0ydho/what_is_the_best_ai_tool_to_create_app_demo/</link>
-      <description><![CDATA[我正在尝试为我的移动应用创建产品演示。想知道您使用过的最佳工具是什么？    提交人    /u/williezx   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f0ydho/what_is_the_best_ai_tool_to_create_app_demo/</guid>
-      <pubDate>Sun, 25 Aug 2024 15:02:41 GMT</pubDate>
+      <title>一键创建任意 PDF</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f1231i/create_any_pdfs_with_one_click/</link>
+      <description><![CDATA[大家好 🙌 我刚刚推出了 pdfgeneratorai.com，这是一款 AI 工具，可根据简单的提示创建专业的 PDF。您输入所需的内容，它会生成一个可供下载的可自定义模板。我构建它是为了节省时间并简化文档创建。查看它并让我知道您的想法！pdfgeneratorai.com    提交人    /u/Icy_Ad_8248   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f1231i/create_any_pdfs_with_one_click/</guid>
+      <pubDate>Sun, 25 Aug 2024 17:40:07 GMT</pubDate>
     </item>
     <item>
-      <title>一款移动应用程序，可以 1.5 倍速观看视频（在所有网站和流行的社交网络上），并具有其他便捷功能，例如音频降噪和音量增强、视频中的 3 键导航、短视频自动滚动，并支持键盘和游戏手柄。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f0y5ta/a_mobile_app_to_watch_videos_on_all_websites_and/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f0y5ta/a_mobile_app_to_watch_videos_on_all_websites_and/</guid>
-      <pubDate>Sun, 25 Aug 2024 14:53:33 GMT</pubDate>
+      <title>寻求对我编写的代码生成实用程序的反馈</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f11knc/feedback_sought_for_a_codegeneration_utility_i/</link>
+      <description><![CDATA[我编写了一个小型实用程序，最初是为内部目的而开发的。然后我认为它对其他人也可能有用。 Pocket Specs 是 Pocketbase 的简单代码助手，也是一个“软件需求规范”系统。您描述 Pocketbase SaaS 应用程序的整体部分，它将帮助您快速为其编写代码（用于服务器端 GoJa 代码）。它将组装您的逻辑并在构建过程中添加所有缺失的部分。 这不是一个开源项目，因为我使用的编译器根本不可用（我是该编译器的老用户） 我是 Github 的新手；坦率地说，甚至是 Pocketbase。虽然我确实广泛使用后者，但我认为我没有完全理解。我不是传统的软件开发人员，因为我的主要工作是建筑（建筑类型），但我确实编写了很多软件。因此，我们非常感谢您提供反馈。 请参阅 https://github.com/square-foot/pocketspecs    由    /u/limenleap 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f11knc/feedback_sought_for_a_codegeneration_utility_i/</guid>
+      <pubDate>Sun, 25 Aug 2024 17:18:47 GMT</pubDate>
     </item>
     <item>
-      <title>在推出我的产品之前，我赚了 364 美元</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f0y5m7/before_launching_my_product_i_made_364/</link>
-      <description><![CDATA[      我已经开始了一项新的副业。 我的计划是分享 100 多个经过验证的微型或迷你 SaaS 创意，以便用户可以构建工具并使用这些创意创造收入。 最有趣的是，我构建了我的网站以 Mini SaaS Ideas (https://minisaasideas.com/) 的名义已经启动预订，以便用户可以低价预订。 结果，我已经获得了 5 笔销售。这意味着我赚了 364 美元。 来自 Patreon 的销售收入 此外，我的计划是在发布当天将产品定价为 249 美元。 由于我在预购时保持低价，因此这 2 天我卖出了 5 件。 让我们看看是否能获得更多销量……    提交人    /u/Nipu47   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f0y5m7/before_launching_my_product_i_made_364/</guid>
-      <pubDate>Sun, 25 Aug 2024 14:53:18 GMT</pubDate>
+      <title>推广 iOS/macOS 应用的建议 | 2 周 - 0 次下载</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f11adr/advices_for_promoting_iosmacos_app_2_weeks_0/</link>
+      <description><![CDATA[嗨，最近我发布了我的生产力应用程序 - “actionCamp”。现在我很难获得任何下载。目前的统计数据是发布后 2 周内下载量为 0。目前它已面向所有国家/地区发布，今天更新了 6 种语言的国际化版本（之前只有英语）。 如果你们当中有谁有管理 iOS/MacOS 应用程序增长的经验，能否分享一些可以改进的想法？ 应用程序的卖点：  结合待办事项列表、笔记和目标（项目）的应用程序 - 三合一 简约 内部开发的跨平台快速同步（不是 Apple Cloud，因为我遇到了重复和合并的问题） ADHD 友好（我是 ADHD 患者，因此主要原因之一是为自己创建应用程序，添加任何类型的新记录的过程并不复杂 - 当我想添加一个任务时，不需要填写所有这些无限的必填字段，如果我想的话，我会稍后安排或着色） 生产力图表，用于跟踪我当前或过去几周或相同但针对特定目标所做的总体努力。 简约和 ADHD 友好的周计划程序。 友好的 UI/UX。（优化后会更好） 等等……  AppStore 页面：https://apps.apple.com/es/app/actioncamp/id6624294870 我还在那里填写了所有字段，我试图优化 AppStore SEO，但目前我甚至无法通过向下滚动相关的 AppStore 页面找到它。 每个应用程序启动后都是这么糟糕吗，还是我做错了什么？    提交人    /u/Glad-Estimate-5131   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f11adr/advices_for_promoting_iosmacos_app_2_weeks_0/</guid>
+      <pubDate>Sun, 25 Aug 2024 17:06:57 GMT</pubDate>
     </item>
     <item>
-      <title>我制作了一个简单的插件，可以在您的网站上显示您的 AppStore 评论</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f0xtnc/i_made_a_simple_plugin_to_show_your_appstore/</link>
-      <description><![CDATA[大家好，我一直在寻找一个简单的解决方案来解决这个小问题，但找不到令人满意的办法，所以我创建了自己的插件。它所做的就是从苹果服务器获取评论并显示它们 :) 我已经在我的网站上为我的小应用程序 (memoiri.app) 使用它了  所以你可以从这里获取它：https://sugarit.web.app 我期待听到您的反馈，并希望对其进行改进 :)    提交人    /u/Mojomoto93   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f0xtnc/i_made_a_simple_plugin_to_show_your_appstore/</guid>
-      <pubDate>Sun, 25 Aug 2024 14:38:32 GMT</pubDate>
+      <title>需要对 Vue 附带项目进行反馈</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f10uoq/feedback_needed_on_a_vue_side_project/</link>
+      <description><![CDATA[这是项目链接：https://graphboards.web.app/ 我开始构建一个仪表板构建器，用户可以使用拖放创建多个实体，如图形、表格、统计数据等。可以添加多个数据源，如 Apis、文件上传以生成图表。 怀着极大的热情，我开始将它添加到我的作品集中。由于迷失方向、失去动力、工作量大等各种因素，我一年都没能继续做下去。现在，经过努力，我完成了一个非常基本的应用程序版本。我想听听大家的建议，看看这是否值得花时间去构建，还是我应该转到另一个项目？我有时确实觉得这看起来像一个愚蠢的项目想法。这个想法是为我的简历建立一个像样的项目。 添加示例表数据文件（可以上传以填充表格数据）和示例条形图数据文件    提交人    /u/uditgogoi   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f10uoq/feedback_needed_on_a_vue_side_project/</guid>
+      <pubDate>Sun, 25 Aug 2024 16:48:29 GMT</pubDate>
     </item>
     <item>
-      <title>我构建了一个 React markdown 解析器组件，您可以使用它在您的网站上添加注释。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f0xqwq/i_built_a_react_markdown_parser_component_that/</link>
-      <description><![CDATA[      我构建了一个 React markdown 解析器组件，用于将 markdown 笔记放到网页上。  目前有很多基于 markdown 的笔记应用程序，它们支持大量优秀功能。但是，我一直想将我的笔记和博客放在我的个人网站上，而所有这些基于应用程序的 markdown 解析器都不支持这一点。 因此，我构建了一个名为 notie 的 React 组件，它将您的 markdown 文件解析为高度可定制的布局，具有丰富的功能，包括可运行的代码块（是的，您只需单击运行按钮）、TikZ 支持、LaTeX 样式环境（定义、定理、证明、引理……）、自动方程编号（除了原生 latex 之外，还没有看到任何其他支持此功能的解析器）等等。  欢迎随时查看，我们一直在寻找开源贡献者！    提交人    /u/Heavy-Woodpecker-826   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f0xqwq/i_built_a_react_markdown_parser_component_that/</guid>
-      <pubDate>Sun, 25 Aug 2024 14:35:09 GMT</pubDate>
+      <title>创建专业登陆页面的最佳工具？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f10sf4/best_tool_to_create_professional_landing_pages/</link>
+      <description><![CDATA[大家好， 目标是： - 设置一个看起来专业的登陆页面 - 无需编码技能 - 可用的现成组件和设计具有合理的多功能性 - 无需设置托管 - 支持自定义域 - 支付服务费用没有问题  最近尝试了 Framer，感觉他们提供的部分非常有限。不得不强行做几件事，现在网站看起来很糟糕。此外，网站在移动设备上默认看起来很糟糕，除非你开始摆弄断点。在我看来，这是失败的。 谢谢！    提交人    /u/CRZUOE   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f10sf4/best_tool_to_create_professional_landing_pages/</guid>
+      <pubDate>Sun, 25 Aug 2024 16:45:52 GMT</pubDate>
     </item>
     <item>
-      <title>我创建了一个工具，可以通过二维码轻松收集婚礼照片 - 请给我您的反馈！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f0xp4c/jai_créé_un_outil_pour_collecter_facilement_les/</link>
-      <description><![CDATA[大家好！ 👋 我是一名软件工程师，我已经在 Web 应用程序和 SaaS 领域工作了一段时间，试图创建有用的产品来解决实际问题。我决定采取“快速启动”方法并尽早收集反馈，而不是力求技术完美。 我的最新项目 ClicMariage 允许新娘和新郎共享 QR与宾客一起编写代码，以便他们可以轻松下载并分享婚礼期间拍摄的所有照片和视频。它非常简单：无需应用程序，无需注册，只需一个链接或扫描即可。 🎉 ClicMariage.com 这个概念是集中这一天的所有记忆快速、安全地在一处留下难忘的回忆。在我进一步改进之前，您有任何反馈或建议吗？ 我的营销计划是投放 Facebook 广告。 感谢您的想法和反馈！ 🙏 啊，是的，我也是 Reddit 新手，这是我的第一篇文章。请随时分享您的反馈:)   由   提交/u/madjid513  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f0xp4c/jai_créé_un_outil_pour_collecter_facilement_les/</guid>
-      <pubDate>Sun, 25 Aug 2024 14:33:02 GMT</pubDate>
+      <title>更多 RIZZ AI：免费 RIZZ GPT 和有趣的 AI 约会助手</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f107tq/more_rizz_ai_free_rizz_gpt_and_fun_ai_dating/</link>
+      <description><![CDATA[  由    /u/Exotic-Crew-7877  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f107tq/more_rizz_ai_free_rizz_gpt_and_fun_ai_dating/</guid>
+      <pubDate>Sun, 25 Aug 2024 16:21:42 GMT</pubDate>
     </item>
     <item>
-      <title>2024 年最佳 IPTV 服务提供商'美国、英国、欧洲和非洲 | iptv 订阅|最佳 iptv|iptv 提供商|iptv 提供商|iptv 服务|最佳 iptv 服务|iptv 服务|iptv|最佳 iptv 提供商|iptv 最佳|iptv 订阅|最佳 iptv 服务|最佳 iptv 订阅|最佳 iptv 2024|最佳 iptv Reddit</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f0xmhv/the_best_iptv_service_providers_for_2024_us_uk/</link>
-      <description><![CDATA[  由    /u/Dapper-Sentence-1628  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f0xmhv/the_best_iptv_service_providers_for_2024_us_uk/</guid>
-      <pubDate>Sun, 25 Aug 2024 14:29:49 GMT</pubDate>
+      <title>如何从创意转变为 MVP？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f1023i/how_do_you_go_from_idea_to_mvp/</link>
+      <description><![CDATA[大家好 r/Entrepreneur！ 我见过（也是亲身经历过）的最大挑战之一，就是将原始想法转化为可以用真实用户测试的有形 MVP。对于非技术型创始人来说，这可能尤其令人生畏。 你们是如何解决这个问题的？你们是从线框、原型开始，还是直接投入开发？你们认为哪些工具或方法最有助于弥合概念与创造之间的差距？ 我渴望听到你们的故事和技巧，尤其是那些成功走过这段旅程的人的故事和技巧。让我们分享一些见解，互相帮助！🚀    提交人    /u/jaysharma01   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f1023i/how_do_you_go_from_idea_to_mvp/</guid>
+      <pubDate>Sun, 25 Aug 2024 16:15:01 GMT</pubDate>
     </item>
     <item>
-      <title>我建立了一个 Mac 应用程序目录并且它已经开始产生收入了！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f0xhux/i_built_a_mac_apps_directory_and_its_already/</link>
-      <description><![CDATA[我的开发人员朋友经常谈论让他们的应用程序在“App Store”上受到关注有多么困难。这让我开始思考如何帮助那些努力获得关注的人。 我决定专门为 Mac 应用程序创建一个目录，并在 X/Twitter 和文章中推广它。这个想法似乎引起了人们的共鸣，我们开始获得一些关注。在过去的 1.5 个月里，这是一段令人着迷的旅程：  18 位客户 创造了 501 美元的收入 实现了 8500 的月流量  如果您对我的目录有任何疑问，可以询问 ~ Mactools    提交人    /u/gary_king_001   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f0xhux/i_built_a_mac_apps_directory_and_its_already/</guid>
-      <pubDate>Sun, 25 Aug 2024 14:23:58 GMT</pubDate>
+      <title>您如何与有影响力的人打交道来推广您的副项目？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f0zr49/how_do_you_deal_with_influencers_to_promote_you/</link>
+      <description><![CDATA[嗨！ 我最近联系了几个有影响力的人，商讨商业合作事宜，想知道你是如何联系他们的。你在电子邮件中写了什么。你付了多少钱等等。    提交人    /u/RomanczuG   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f0zr49/how_do_you_deal_with_influencers_to_promote_you/</guid>
+      <pubDate>Sun, 25 Aug 2024 16:02:13 GMT</pubDate>
     </item>
     <item>
-      <title>在线 Mini-Z 轨道布局编辑器</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f0x7xo/online_miniz_track_layout_editor/</link>
-      <description><![CDATA[  由    /u/kelvinko  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f0x7xo/online_miniz_track_layout_editor/</guid>
-      <pubDate>Sun, 25 Aug 2024 14:11:17 GMT</pubDate>
+      <title>Quarkdown：为复杂文档提供强大功能的 Markdown</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f0z6q5/quarkdown_markdown_with_superpowers_for_complex/</link>
+      <description><![CDATA[大家好！我制作了 Quarkdown，这是一个解析器和渲染器，它通过引入函数使 Markdown 图灵完备。目标是允许完全控制文档结构、布局和美观度 - 非常像 LaTeX，只是可读性更强。 Quarkdown 项目可以导出为 HTML 作为纯文档、演示文稿或书籍。 在这里您可以找到使用 Quarkdown 本身构建的有关 Quarkdown 的演示演示文稿：https://iamgio.eu/quarkdown/demo。 演示文稿的源代码在这里。 这是存储库：https://github.com/iamgio/quarkdown 任何反馈非常感谢 - 谢谢！    由    /u/iamgioh 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f0z6q5/quarkdown_markdown_with_superpowers_for_complex/</guid>
+      <pubDate>Sun, 25 Aug 2024 15:37:55 GMT</pubDate>
     </item>
     <item>
-      <title>开源 + 设备上的 OTTER 替代品？[隐私第一]</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f0wh7w/opensource_on_device_alternative_to_otter_privacy/</link>
-      <description><![CDATA[ 所以我想知道这是否有意义？计算机现在很好，我们甚至可以在 CPU 上轻松运行 whisper-medium。但在任何像样的计算机上都很容易。 pyannote 扬声器日记化也不是什么大问题 运行 phi3.5-mini / 或任何可以在计算机上运行的东西（也许使用 ollama 开始） 录制本地音频和扬声器 [在获得会议中相关人员的许可后，因此不会调用任何机器人]  这是人们可能想要使用的东西吗？数据不会离开计算机，所以这可能是有益的。你怎么看？ 此外，以后我们也可以有会议助理。因为现在应用程序正在实时监听，所以它也可以实时提供帮助。或者稍后提出可操作的项目，说明如何更好地沟通。  对于使用这些工具的人来说，隐私是否足够令人担忧？我分段尝试了，并将结果与​​ Otter 进行了比较，结果足够好。  另一方面，想象一个案例：  我是销售主管，销售是一个员工流失率很高的领域。我教授一些法学硕士学位（使用我的背景和组织信息以及以前的会议）。现在，新来的人在会议期间/会议后可以了解他们如何表现得更好。     提交人    /u/divyamchandel   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f0wh7w/opensource_on_device_alternative_to_otter_privacy/</guid>
-      <pubDate>Sun, 25 Aug 2024 13:35:38 GMT</pubDate>
+      <title>我构建了一个机器人来帮助您在几分钟内（而不是几天）根据 API 文档编写代码。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f0yzyc/i_built_a_bot_to_help_you_write_code_from_api/</link>
+      <description><![CDATA[        由    /u/djang_odude 提交   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f0yzyc/i_built_a_bot_to_help_you_write_code_from_api/</guid>
+      <pubDate>Sun, 25 Aug 2024 15:29:34 GMT</pubDate>
     </item>
     <item>
-      <title>开发者的 AI 导师</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f0wf2e/ai_tutor_for_devs/</link>
-      <description><![CDATA[我建立了一个 AI 导师，教授软件开发人员计算机科学基础知识，如算法、离散数学、计算机架构、操作系统等 您可以在 synapsetutor.com 上免费试用    提交人    /u/synapsetutor   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f0wf2e/ai_tutor_for_devs/</guid>
-      <pubDate>Sun, 25 Aug 2024 13:32:43 GMT</pubDate>
+      <title>制作精美的 PowerPoint 图形和动画的服务</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f0ysmu/a_service_for_making_beautiful_powerpoint_figures/</link>
+      <description><![CDATA[我总是在 PowerPoint 设计上投入太多的时间和精力，所以我想我至少应该尝试为别人做这些事情来创业。这个网站是我做过的一小部分工作（目前我可以公开发布），带有联系表。我很乐意听到任何建议或意见！    由   提交  /u/_The_Architect_   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f0ysmu/a_service_for_making_beautiful_powerpoint_figures/</guid>
+      <pubDate>Sun, 25 Aug 2024 15:20:44 GMT</pubDate>
     </item>
     <item>
-      <title>需要一种简单的方法在我的新旧电脑之间共享文件——这就是我想到的</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f0wdgt/needed_a_simple_way_to_share_files_between_my_old/</link>
-      <description><![CDATA[好吧，事实是这样的——我对网络开发一无所知。我的背景是 Android 开发，我从未想过我会构建任何与网络相关的东西。但是当我需要一种在新旧 PC 之间共享文件的简便方法时，我对所有充斥着广告的平台感到沮丧。 所以，我决定尝试一些不同的东西。在 ChatGPT 的帮助下，我成功构建了共享工具，这是一个基本的、无广告的工具，完全满足了我的需求——让我可以在我的计算机之间共享文本和文件，而不会出现任何常见的麻烦。 我仍然对自己在没有任何网络开发知识的情况下完成这项工作感到惊讶，我计划很快添加更多功能。我很乐意收到您的反馈或想法，以便让它变得更好。请随意查看并告诉我您的想法。    提交人    /u/foundertanmay   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f0wdgt/needed_a_simple_way_to_share_files_between_my_old/</guid>
-      <pubDate>Sun, 25 Aug 2024 13:30:30 GMT</pubDate>
+      <title>食谱转换器 | 免费在线食谱份量转换器</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f0yqmd/recipe_converter_free_online_recipe_servings/</link>
+      <description><![CDATA[        提交人    /u/Steven_on_the_run   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f0yqmd/recipe_converter_free_online_recipe_servings/</guid>
+      <pubDate>Sun, 25 Aug 2024 15:18:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
