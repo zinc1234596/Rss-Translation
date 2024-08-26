@@ -4,7 +4,63 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Mon, 26 Aug 2024 01:03:10 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Aug 2024 03:17:31 GMT</lastBuildDate>
+    <item>
+      <title>新设计-手工珍珠耳环</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f1e623/new_designhandmade_pearl_earrings/</link>
+      <description><![CDATA[  由    /u/Far_Revolution4566  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f1e623/new_designhandmade_pearl_earrings/</guid>
+      <pubDate>Mon, 26 Aug 2024 03:01:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>我开发了一款应用程序来戒掉社交媒体瘾——它帮助我和成千上万的人将屏幕时间减少了 70% 以上</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f1dwlz/i_built_an_app_to_break_my_social_media_addiction/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f1dwlz/i_built_an_app_to_break_my_social_media_addiction/</guid>
+      <pubDate>Mon, 26 Aug 2024 02:47:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>我利用 OpenAI 最新的结构化输出版本，构建了一个开源库，使用 Typescript 构建强大的 Ai 函数。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f1dv8e/i_built_an_open_source_library_for_building/</link>
+      <description><![CDATA[        由    /u/Jonovono   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f1dv8e/i_built_an_open_source_library_for_building/</guid>
+      <pubDate>Mon, 26 Aug 2024 02:45:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wise AI - 您的社交建议机器人</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f1cm26/wise_ai_your_social_advice_bot/</link>
+      <description><![CDATA[大家好，我和我的团队正在开始开发 WISE AI，这是一款社交建议机器人，旨在帮助用户解决他们可能遇到的任何社交问题。我们还没有开始这个项目的主体部分，但我们正在尝试让人们加入我们的项目候补名单。如果你们能加入我们的候补名单，我们会非常高兴！这是加入的链接：https://wise-ai-project.vercel.app/ 这只是一个提醒，我们才刚刚开始这个项目，所以现在我们的登陆页面看起来非常简单。本周，我们将对其进行改进，并确保我们为用户提供内容！    提交人    /u/ninjaman5171   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f1cm26/wise_ai_your_social_advice_bot/</guid>
+      <pubDate>Mon, 26 Aug 2024 01:41:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>面向企业的人工智能工作流系统 - 寻求反馈</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f1chk8/aipowered_workflow_system_for_enterprises_seeking/</link>
+      <description><![CDATA[嘿，我一直在为企业工作流开发一个基于人工智能的系统，我很想听听你的想法。 它是什么？ 它是一个模块化的、由人工智能驱动的系统，旨在集成到各种业务流程中，充当虚拟“员工”能够处理复杂的任务。 主要特点：  用于任务分配和管理的 AI 员工经理 具有企业知识图谱的知识管理系统 任务规划和执行引擎 与外部工具和 API 集成 持续学习和优化  潜在应用：  为了说明该系统的功能，我们概述了它如何处理推文营销活动的详细场景，涵盖了从活动规划和内容创建到性能分析和优化的所有内容。虽然此场景目前还只是理论上的，但它展示了该系统在实际应用中的潜力。 技术堆栈：  模块化微服务架构 事件驱动通信 易于部署的容器化 用于多模式交互的高级 NLP 用于持续改进的机器学习  我写了一篇详细的博客文章，解释了系统的架构、数据结构和核心流程：https://www.getaially.com/blog/ai-employee-system-evolution 我非常有兴趣听听您的想法，尤其是关于：  不同行业中的潜在应用 可扩展性和性能注意事项 人工智能在工作场所的伦理影响自动化  期待您的反馈，并乐意回答任何问题！    提交人    /u/ChocolateSevere1439   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f1chk8/aipowered_workflow_system_for_enterprises_seeking/</guid>
+      <pubDate>Mon, 26 Aug 2024 01:34:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>面向企业的人工智能工作流系统 - 寻求反馈</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f1cfmk/aipowered_workflow_system_for_enterprises_seeking/</link>
+      <description><![CDATA[大家好，我很高兴与大家分享我一直在做的一个项目：一个旨在改变企业处理工作流程方式的人工智能员工系统。 **它是什么？** 它是一个模块化的、由人工智能驱动的系统，可集成到各种业务流程中，充当虚拟的“员工”能够处理复杂的任务。 **主要特点**：  用于任务分配和管理的AI员工经理 具有企业知识图谱的知识管理系统 任务规划和执行引擎 与外部工具和API集成 持续学习和优化  **潜在应用**： 为了说明该系统的功能，我们概述了它如何处理推文营销活动的详细场景，涵盖了从活动规划和内容创建到性能分析和优化的所有内容。虽然此场景目前还只是理论上的，但它展示了该系统在实际应用中的潜力。 **技术堆栈：**  模块化微服务架构 事件驱动通信 容器化，易于部署 用于多模式交互的高级 NLP 用于持续改进的机器学习  我写了一篇详细的博客文章，解释了系统的架构、数据结构和核心流程：https://www.getaially.com/blog/ai-employee-system-evolution 我非常有兴趣听听您的想法，尤其是关于：  在不同行业中的潜在应用 可扩展性和性能注意事项 人工智能在工作场所自动化中的伦理影响  期待您的反馈，并乐意回答任何问题！    提交人    /u/ChocolateSevere1439   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f1cfmk/aipowered_workflow_system_for_enterprises_seeking/</guid>
+      <pubDate>Mon, 26 Aug 2024 01:32:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要彩票计算方面的帮助但又讨厌数学吗？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f1c5bu/need_help_with_lottery_calculations_but_hate_math/</link>
+      <description><![CDATA[      彩票变得简单：你需要尝试的 Delta 方法 我创建了一个电子表格工具，它可以帮助您使用像 delta 这样的计算来查找潜在的彩票号码。  这是我开发的一个附带项目，旨在帮助那些想要轻松探索数学方法的玩家。 在我的博客文章中了解有关我的电子表格工具的更多信息。 请注意：彩票是一种机会游戏，没有任何数学公式或策略可以保证中奖号码。 让我知道你的想法！    提交人    /u/By_EK   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f1c5bu/need_help_with_lottery_calculations_but_hate_math/</guid>
+      <pubDate>Mon, 26 Aug 2024 01:17:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>这是我投资者会议前获取用户反馈的最后一天</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f1c1nr/this_is_my_last_day_to_get_user_feedback_before/</link>
+      <description><![CDATA[背景介绍：过去几个月，我和我的两个朋友一直在起草和建立在线业务。我们通常会在下班后（我晚上 7 点回来）花大部分时间来做这件事。这是我们真正相信并且会解决的事情，这就是为什么我们投入了这么多时间、精力和金钱（超过 1000 美元）的原因。 进一步了解背景，我，公司负责人，今年 17 岁，是 3 人中最年轻的（另外两个人分别是 18 岁和 20 岁）。 我从工作中赚的钱并不多，但很多钱或多或少都直接投入到了生意中，我很幸运，因为我的家人也非常支持我和我的合作伙伴为此而努力。 无论如何，由于从最初构思到实际构建网站的时间很短，因此我们在发展方面还有很长的路要走，但上个月我看到有一个投资者和社交活动正在进行，我觉得这是我不能错过的。 我想说我们已经尽了最大的努力来准备，但最难的是获得他人的认可。由于我们处于开发阶段，因此很难与人们分享我们的产品并征求他们的意见。现在我们发现自己处于这样的境地：我认为，如果没有反馈，虽然不是万能的，但如果有用户反馈，那就太好了。虽然我们已经收集了  商业理念：我们正在开发一个平台，该平台结合了自由职业者和中小企业的在线和面对面市场，具有业务增长工具、支持性网络社区以及通过建议和新闻部分提供的教育重点以及对初创企业的深入案例研究。有点像 Fiverr 市场、LinkedIn Learnings 教育合同和 reddits 社区参与的混合体，旨在通过一站式平台为客户提供便利，并帮助自由职业者和中小企业蓬勃发展。 我会回答你们提出的所有问题，我真的希望就这个概念获得很多反馈。关于具体功能，你总体上怎么看。我们在活动筹备过程中获得了积极的兴趣，我们被告知即使在主要活动结束后也会被介绍给创始人和投资者，所以我仍然很兴奋。    提交人    /u/KayLdn23   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f1c1nr/this_is_my_last_day_to_get_user_feedback_before/</guid>
+      <pubDate>Mon, 26 Aug 2024 01:11:44 GMT</pubDate>
+    </item>
     <item>
       <title>构建下一个大型社交平台 - 探讨我的想法、登陆页面和应用程序</title>
       <link>https://www.reddit.com/r/SideProject/comments/1f1borq/building_the_next_big_social_platform_roast_my/</link>
@@ -27,7 +83,7 @@
       <pubDate>Mon, 26 Aug 2024 00:35:09 GMT</pubDate>
     </item>
     <item>
-      <title>请帮助提供有关我们 AI 初创企业的反馈</title>
+      <title>请帮助我们对 AI 初创企业提供反馈</title>
       <link>https://www.reddit.com/r/SideProject/comments/1f1ayo4/please_help_provide_feedback_on_our_ai_startup/</link>
       <description><![CDATA[我构建了一个名为 https://www.xobot.co 的 AI 语音代理，可帮助企业生成潜在客户、安排与销售代表的通话，并且将来会提供本地化语言。 功能：  无需代码即可构建 AI 语音机器人代理。 分析数据以了解客户和机器人之间记录的情绪。 从不同的预定义目标模板中进行选择，例如：安排通话、缺失信息机器人、常见问题解答。  竞争：  Bland.ai Play.ai  作为一名连续创业者，我喜欢构建产品，但这次我想与一个与我有类似热情的人们一起构建它。  我很乐意听取您的反馈：  它是否对您有用。 哪些企业可以从中受益。 哪些功能会让它对您更有用。 什么会让它更直观地使用（人们期望它像其他电子邮件应用程序一样，但目标是让它更愉快和高效地使用，这意味着让它与众不同）。  您可以在www.xobot.co查看该应用程序 非常感谢您的帮助！ Anubhav Xobot 联合创始人    提交人    /u/Emotional-Gur3065   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1f1ayo4/please_help_provide_feedback_on_our_ai_startup/</guid>
@@ -53,62 +109,6 @@
       <description><![CDATA[        提交人    /u/Dagmawi__Babi   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1f18w3j/scholarxiv_v300_released_ai_powered/</guid>
       <pubDate>Sun, 25 Aug 2024 22:34:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>我构建了一个自助工具，以便将您的项目发布到 Google 新闻和 500 多个新闻网站上</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f18qve/i_built_a_selfserve_tool_to_get_your_project_on/</link>
-      <description><![CDATA[我建立了一个自助服务平台，名为Raydeeo，它可以在 24 小时内撰写、审核和分发您的新闻稿到500 多个新闻网站，包括 Bezinga、MarketWatch、BarChart 和 The Globe and Mail。 Raydeeo 会问您几个问题，然后自动为您撰写新闻稿。您可以进行编辑，然后通过自动审核流程；许多新闻网站都有严格的新闻稿接受标准，而 Raydeeo 可确保您的新闻稿顺利通过。它不仅可以标记问题，还有“帮我修复”功能功能。 只需几分钟，您的新闻稿就会提交给 500 多个网站进行发布，并会出现在 Google 新闻上，而且可能会有一两位记者与您联系，为您的项目撰写一篇文章 - 只需 99 美元（不过，如果您给我发私信，我可能会有一些 50% 的折扣代码！） 背景： 我最近分享了一篇关于我的日记应用程序 Reverie 的帖子。在尝试推销它的过程中，我无意中进入了新闻稿和新闻稿分发的世界。 这个概念非常有趣 - 支付几百美元，然后将有关您的项目的新闻稿发布到数百个新闻网站上。 这有几个好处：  您的项目出现在 Google 新闻 上 您的项目出现在新闻稿中包含的相关搜索词的精选摘要中，因为它发布在知名且值得信赖的新闻网站上 当人们搜索您的项目时，它会创建大量信誉良好的结果 - 这对于新企业/网站来说很难获得，并增加了大量可信度 记者的关注和外联 - 以及信誉良好的链接（Bezinga，MarketWatch，环球邮报等）与直接目标记者分享您的发布/新闻 反向链接（尽管对于这到底有多大帮助还存在争议）  我很感兴趣，花了约 175 美元在 Fiverr 上发布 - 结果也一样；我可以证明这样做的好处，尤其是与广告支出相比 - 尽管我希望 Raydeeo 还在，因为它可以以一半的成本分发到更多的网站 :) 我很高兴与您分享这一点 - 请传递任何反馈并让我知道您的想法！    提交人    /u/Potential_Action_658   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f18qve/i_built_a_selfserve_tool_to_get_your_project_on/</guid>
-      <pubDate>Sun, 25 Aug 2024 22:28:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要对我一直在使用的定制应用进行验证</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f187az/need_validation_for_a_bespoke_app_ive_been_using/</link>
-      <description><![CDATA[嗨， 不久前我创建了一个密码应用程序，从那时起我就一直在使用它，现在我正考虑将它发布给公众，基本上它是一个完全离线的密码存储应用程序，带有原生安全加密... 考虑到有很多密码应用程序，它值得推出吗？还是只是浪费时间？    提交人    /u/Technologytron   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f187az/need_validation_for_a_bespoke_app_ive_been_using/</guid>
-      <pubDate>Sun, 25 Aug 2024 22:03:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>Amee：用 Typescript 编写的用户身份验证、授权和会话管理的简单库</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f17t1p/amee_simple_library_for_user_authentication/</link>
-      <description><![CDATA[大家好， 希望你们都一切顺利！我目前正在开发 Amee，这是一个用于管理 JWT 会话的简单库，旨在处理用户身份验证和授权。 在 v2.0.0 中，我们添加了 OAuth 提供程序，因此您现在可以使用 Google、GitHub 等对用户进行身份验证。 我很乐意听到您的想法或任何反馈。 期待您的想法！    提交人    /u/kayuxx   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f17t1p/amee_simple_library_for_user_authentication/</guid>
-      <pubDate>Sun, 25 Aug 2024 21:45:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了互联网历史上最昂贵的链接：onemilliondollar.link</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f17mlt/i_created_the_most_expensive_link_in_internet/</link>
-      <description><![CDATA[我很高兴与大家分享我一直在做的一个项目，这个项目的灵感来自互联网的古怪和实验性时代。它被称为 onemilliondollar.link。 它是什么？ onemilliondollar.link 是一个互联网实验，任何人都可以通过支付少量费用来更改网站上的主链接。有什么变化吗？每次更改链接时，价格都会上涨 20%。目标是看看价格能涨到多高，以及谁将对链接指向的内容拥有最终决定权。 我为什么要创建这个？我想带回互联网曾经拥有的一些乐趣和创造力。还记得百万美元主页吗？这个项目是对它的致敬，但带有现代气息。关键在于观察人们如何与概念互动以及它会带来什么结果。 它是如何工作的？ 更改链接：您可以使用网站上的“更改链接”按钮将现有链接替换为您自己的链接。按钮上显示当前成本。价格上涨：每次有人更改链接时，价格都会上涨 20%。 你为什么要关心？ 这既是一个网站，又是一个社会实验。这是在互联网上留下你的印记或推广你关心的东西的独特方式。另外，谁知道价格会涨到多高？ 很想听听你的想法、反馈或批评。 在 onemilliondollar.link 上查看。    提交人    /u/joanmiro   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f17mlt/i_created_the_most_expensive_link_in_internet/</guid>
-      <pubDate>Sun, 25 Aug 2024 21:37:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>我以公共模式进行了全面构建，这就是我认为你应该这样做的原因！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f16mhy/i_went_full_build_in_public_mode_and_this_is_why/</link>
-      <description><![CDATA[大家好！ 3 周前，我开始公开构建我的新项目 Beeplyy。 为什么我决定公开构建 在 Beeplyy 之前，我构建了三个失败的项目。 它们都有一个共同点：我太害怕有人会窃取我的“百万美元”创意（非常好，总共产生了 4 美元），所以在发布之前我从未公开分享过有关它们的任何信息。 我幻想着有一天我会发布帖子，说我的应用程序终于可用了，人们会争相使用它。当然这没有发生，因为我把它隐藏得很好，以至于没有人知道它是关于什么的。 结果：三次失败，也学到了很多教训。 公开构建 MVP 的结果： 对于 Beeplyy，我决定扭转局面。不再隐藏。我打算 100% 公开构建 Beeplyy，在 X 上分享过程中的所有内容。我在得到最初的想法后就立即发表了第一篇文章，当时该项目甚至还没有名字，并且一直在发布有关它的信息，直到今天。 最后，Beeplyy 的 MVP 已经可用，我想分享一些有关整个公开构建旅程的数字：  276 人访问了该网站，这比我之前所有项目的访问量都多。 14 人加入了候补名单。我上一个项目加起来甚至还没到 14 个注册用户。 x2：在此期间，我的 X 名粉丝翻了一番。 我在推出产品之前就完成了第一笔销售。  与大项目相比，这些数字似乎很小，大项目每天能产生数千美元的收入，吸引数万名访客。但对于像我这样的小创始人来说，这是巨大的。我们都必须从某个地方开始。 所以，如果我可以给你一个建议，特别是对于像我这样的小型独立黑客：公开构建。没有人有时间窃取你的想法。人们已经忙于处理自己的事情了。即使他们这样做了，执行也是 99% 的工作。    提交人    /u/Right_Economics6453   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f16mhy/i_went_full_build_in_public_mode_and_this_is_why/</guid>
-      <pubDate>Sun, 25 Aug 2024 20:53:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>Newsletterytics：我为新闻通讯创建者打造的副项目现已上线！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f168k3/newsletterytics_my_side_project_for_newsletter/</link>
-      <description><![CDATA[      大家好！ 经过几个月的夜以继日的辛勤工作，我终于启动了我的业余项目：Newslettytics。这是一款 iOS 应用，可帮助 Beehiiv 新闻通讯创建者随时随地跟踪他们的分析结果。 https://reddit.com/link/1f168k3/video/srvklsk7fvkd1/player 功能包括：  移动分析仪表板 可自定义的主屏幕小部件 性能警报  这是一次充满挑战但收获颇丰的旅程。希望得到您的反馈！ App Store 链接：https://apps.apple.com/us/app/newsletterytics/id6505141597 如果您想支持我的应用程序发布，这里是 Product Hunt 的链接： https://www.producthunt.com/posts/newsletterytics    提交人    /u/kpaul91   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f168k3/newsletterytics_my_side_project_for_newsletter/</guid>
-      <pubDate>Sun, 25 Aug 2024 20:37:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>制作了我的纪录片风格的视频。有什么想法吗？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f15pc7/produced_my_documentary_styled_video_thoughts/</link>
-      <description><![CDATA[        提交人    /u/No_Plant_3915   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f15pc7/produced_my_documentary_styled_video_thoughts/</guid>
-      <pubDate>Sun, 25 Aug 2024 20:14:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个免费的网络应用程序，可以扫描你的 Facebook 数据以查找有问题的帖子</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f15p9w/i_made_a_free_webapp_that_scans_your_facebook/</link>
-      <description><![CDATA[        由    /u/Fit_Chair_8967   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f15p9w/i_made_a_free_webapp_that_scans_your_facebook/</guid>
-      <pubDate>Sun, 25 Aug 2024 20:14:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
