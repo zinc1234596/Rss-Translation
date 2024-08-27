@@ -4,111 +4,111 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Tue, 27 Aug 2024 09:14:48 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Aug 2024 12:26:30 GMT</lastBuildDate>
     <item>
-      <title>使用人工智能的恶意软件扫描程序</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f2ciw4/malware_scanner_using_ai/</link>
-      <description><![CDATA[https://isthatmalware.com 我想编写一个神经网络来查找恶意软件二进制文件中的模式，所以它就在这里。目前它不进行动态分析或高级启发式分析。您可以下载 python 程序并运行它。扫描任何 Windows 可执行文件。macOS 和 Linux 稍后会推出。这对我来说真的只是一个有趣的项目。:)。我最终会添加更多内容……     提交人    /u/_W0z   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f2ciw4/malware_scanner_using_ai/</guid>
-      <pubDate>Tue, 27 Aug 2024 09:09:48 GMT</pubDate>
+      <title>我制作了一个双面市场样板 - 寻求反馈</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f2fjip/i_made_an_two_sided_marketplace_boilerplate/</link>
+      <description><![CDATA[大家好，我制作了一个样板，以便快速设置双边市场的基础知识。 https://www.speedbuildmarketplace.com/ 希望得到您的反馈。    提交人    /u/JazzlikeLetterhead   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f2fjip/i_made_an_two_sided_marketplace_boilerplate/</guid>
+      <pubDate>Tue, 27 Aug 2024 12:15:09 GMT</pubDate>
     </item>
     <item>
-      <title>想要用你的项目与其他团队竞争吗？ 初创企业聚焦 (100 个团队)></title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f2cdji/want_to_compete_against_other_teams_with_your/</link>
-      <description><![CDATA[100 个团队、1 个月 的曝光、反馈，以及在 STARTUP SPOTLIGHT 中争夺一席之地以获得资助。目标是让每个人都参与一个有意义的项目，帮助您找到梦之队，并推动早期初创企业走向成功。 如何加入比赛第一季：  在 Solvearn 上创建一个帐户  等到我们通过电子邮件向您发送您可以申请项目的日期  等待在 STARTUP SPOTLIGHT 第一季中看到您的项目 :)    提交人    /u/Long-Report423   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f2cdji/want_to_compete_against_other_teams_with_your/</guid>
-      <pubDate>Tue, 27 Aug 2024 08:59:09 GMT</pubDate>
+      <title>我创建了一个名为“无人阅读广告”的网站。你可以将其视为印刷和户外广告档案 + 每个广告擅长的一件事。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f2fie9/i_built_a_site_called_nobody_reads_ads_think_of/</link>
+      <description><![CDATA[        提交人    /u/kervokian   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f2fie9/i_built_a_site_called_nobody_reads_ads_think_of/</guid>
+      <pubDate>Tue, 27 Aug 2024 12:13:30 GMT</pubDate>
     </item>
     <item>
-      <title>在 MirrorFly 的 Product Hunt 发布会上支持我们</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f2c8vi/support_us_in_mirrorflys_product_hunt_launch/</link>
-      <description><![CDATA[大家好， 我们将于 8 月 29 日在 Product Hunt 上发布 MirrorFly！ 对于我们的团队来说，这是一个疯狂的旅程，充满了深夜和无数杯咖啡，但我们终于来了。 您可以使用以下链接打开发布通知，一旦收到通知，请为产品点赞并参与发布讨论。 这是链接：https://www.producthunt.com/products/contus-mirrorfly  您的支持对我们来说意义重大。如果您能抽出几秒钟为我们的产品点赞，我们将永远感激不尽 &amp;我们整个团队都会为您未来的努力提供支持  让我们一起实现这一目标！    提交人    /u/Even-Ladder4168   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f2c8vi/support_us_in_mirrorflys_product_hunt_launch/</guid>
-      <pubDate>Tue, 27 Aug 2024 08:49:24 GMT</pubDate>
+      <title>我没有再构建另一个 AI 包装器，而是构建了一些有用的东西。保持健康</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f2fic0/i_didnt_build_another_ai_wrapper_and_build/</link>
+      <description><![CDATA[如标题所述，我没有构建另一个 OpenAI API 包装器；相反，我创建了一个 Amazon API 包装器。我正在寻找一款足够大的空气炸锅，满足我的所有标准，结果发现这是一个相当大的挑战。亚马逊上的中国卖家经常提供不准确的信息，例如将空气炸锅的功率列为“1W”或将电压列为“1500V”。产品描述可能具有误导性，并充斥着夸张的说法，例如：“可以比 Walter White 更好地烹制冰毒”。 为了解决这个问题，我创建了一个全面的空气炸锅列表，按对我而言重要的功能分类。我将所有信息汇编成 Google 电子表格（双关语），您可以在此处查看和贡献（如果您愿意，这可以成为您今天的输入，使世界变得更健康）：Google 电子表格。 （我不知道是谁想出了电子表格这个名字，但我永远不会传播我的电子表格，今天就一次。） 找到有关空气炸锅是否不含 PTFE 和 PFOA 的准确信息特别困难。根据我收集的信息，我决定建立一个希望对其他人有帮助的网站：AirFryer 价格。 欢迎通过为电子表格做贡献或查看网站来提供帮助，任何意见都值得赞赏。    提交人    /u/simonasme   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f2fic0/i_didnt_build_another_ai_wrapper_and_build/</guid>
+      <pubDate>Tue, 27 Aug 2024 12:13:25 GMT</pubDate>
     </item>
     <item>
-      <title>我开发了一款应用程序让你不再看烂电影！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f2c3hp/i_built_an_app_to_never_watch_a_bad_movie_again/</link>
-      <description><![CDATA[大家好， 上周我浪费了两个小时看一部令人失望的电影，我决定做点什么来保证从现在开始我只看优质电影。 我做了一个应用，它可以从烂番茄、IMDb 和 Letterboxd 中提取评分，这样我就可以在点击播放之前在一个地方看到所有分数。不再依赖一个网站的评论。 该应用允许您按类型筛选，查看每部电影的详细信息，甚至可以在不同的观看模式之间切换。 如果您厌倦了在烂电影上浪费时间，这可能是您需要的解决方案！ 请随时询问我如何构建它的任何问题。很高兴分享！ 此外，我在我的 YouTube 视频上介绍了该应用程序：https://www.youtube.com/watch?v=-6toJu5ioYE REPO：https://github.com/salihsuliman/movies-that-dont-waste-my-time    提交人    /u/SSJ2Teen-Gohan   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f2c3hp/i_built_an_app_to_never_watch_a_bad_movie_again/</guid>
-      <pubDate>Tue, 27 Aug 2024 08:38:14 GMT</pubDate>
+      <title>🚀 Spectral Scribe：您的 Chrome 版 AI 向导！🧙‍♂️✨</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f2f0ui/spectral_scribe_your_ai_wizard_for_chrome/</link>
+      <description><![CDATA[Spectral Scribe 是一个 Chrome 扩展程序，可将 AI 驱动的文本分析直接带到您的浏览器！🖥️ 🔗 立即获取：https://chromewebstore.google.com/detail/spectral-scribe/mikpmbedokmdadmgbcphbkgjmlidpldd 来源：https://github.com/SimonPhoenix96/spectral-scribe 🎭 主要特点：• 🧠 使用 Claude 或 Llama 3.1 模型进行 AI 驱动的分析 • 🎥 YouTube 成绩单提取和分析 • 🕸️ 网页文本提取 • 🐦 Twitter 线程摘要 • 🔍 事实核查和来源查找 • 📊 情绪分析、关键字提取等等！• 🎨 可满足您独特需求的可定制提示🆓 最好的部分？ Akash Network 提供对 Meta Llama 3.1 模型的免费访问！🤯 无需花费大价钱即可获得一流的 AI 分析！🛠️ 技术内容：• 纯 JavaScript、HTML 和 REST API（无需外部库！）• 安全的 API 密钥存储• 用户友好的界面💡 专业提示：使用 CTRL+I 快速打开/关闭扩展！    提交人    /u/Playful-Research2293   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f2f0ui/spectral_scribe_your_ai_wizard_for_chrome/</guid>
+      <pubDate>Tue, 27 Aug 2024 11:48:18 GMT</pubDate>
     </item>
     <item>
-      <title>五大商业创意 - 2024 年 8 月 25 日</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f2bycs/five_business_ideas_august_25_2024/</link>
-      <description><![CDATA[        提交人    /u/gpirescampos   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f2bycs/five_business_ideas_august_25_2024/</guid>
-      <pubDate>Tue, 27 Aug 2024 08:27:23 GMT</pubDate>
+      <title>别具一格的电影播放器</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f2ewxt/a_movie_player_with_a_twist/</link>
+      <description><![CDATA[      在观看电影时，您看到了引起您兴趣的东西？ 单击该对象，将出现一个侧边栏，在您继续时向您显示有关它的信息。 基本上将电影变成一种互动/信息体验。    提交人    /u/pystar   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f2ewxt/a_movie_player_with_a_twist/</guid>
+      <pubDate>Tue, 27 Aug 2024 11:42:35 GMT</pubDate>
     </item>
     <item>
-      <title>我们免费为您构建 mvp (saas) 5k-20</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f2bwkh/we_build_your_mvp_saas_5k20_for_free/</link>
-      <description><![CDATA[我们将推出一个付费学校小组，讨论 saas 从构建到发布的历程。为了分享我们在这段历程中遇到的挑战，寻找解决方案，并通过在社区中提供帮助来简化这一历程，作为奖励，我们将每月为我们的一名成员免费开发一款 saas 产品，无需支付任何开发费（通常花费 5k - 20k）。我们拥有完整的开发团队，到目前为止已经开发了 4 款 saas 产品，我们将在一个月内发布其中 2 款。您认为这个小组每月的费用会是 50 美元吗？告诉我您的想法    提交人    /u/Ordinary-Hat-3778   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f2bwkh/we_build_your_mvp_saas_5k20_for_free/</guid>
-      <pubDate>Tue, 27 Aug 2024 08:23:39 GMT</pubDate>
+      <title>服务员，简单清单</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f2ertd/waiter_simple_lists/</link>
+      <description><![CDATA[      大家好，昨天我创建了Waiter。它来自于当你和朋友出去时需要点一大份饮料的痛苦。 我总是不得不打开我的 Notes 应用并创建一个项目符号列表来点餐。但是那个应用程序当然缺少在饮料旁边轻松计数的可能性。 所以我构建了这个简单明了的应用程序，它可以帮我解决这个问题。所有数据都存储在本地。 我知道有很多“真正的”应用程序为酒吧和餐馆做同样的事情，但那只是在场地提供它的时候。 试试看：https://waiter.jeroenvdb.be/ 在后期阶段，共享列表并进行协作会很好。离线工作。在酒吧中使用二维码预先填充可能的项目。有一个“显示给调酒师”视图，以大文本显示您的订单。等等... https://preview.redd.it/s6wu2lm007ld1.png?width=1170&amp;format=png&amp;auto=webp&amp;s=fc679d414c733f95e373cdc0d9b37603236ebed5    提交人    /u/JeroenVdb   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f2ertd/waiter_simple_lists/</guid>
+      <pubDate>Tue, 27 Aug 2024 11:34:35 GMT</pubDate>
     </item>
     <item>
-      <title>通过分享食物帮助避免食物浪费的社区应用程序</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f2bw2j/a_community_app_that_helps_avoid_food_waste_by/</link>
-      <description><![CDATA[      Juvo 简化了与社区分享剩余食物的过程，让您轻松联系并减少食物浪费。通过使用 Juvo，您可以确保多余的食物送到需要的人手中，从而营造一个更加可持续、更具支持性的社区。 Playstore：https://play.google.com/store/apps/details?id=com.softflix.finder&amp;pcampaignid=web_share https://reddit.com/link/1f2bw2j/video/qptg16z626ld1/player    提交人    /u/Just_Avocado2761   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f2bw2j/a_community_app_that_helps_avoid_food_waste_by/</guid>
-      <pubDate>Tue, 27 Aug 2024 08:22:33 GMT</pubDate>
+      <title>我制作了一个应用程序来将手绘图表数字化</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f2eqc3/i_made_an_app_to_digitalize_handdrawn_diagrams/</link>
+      <description><![CDATA[大家好！非常高兴加入这个社区并与大家分享我制作的这款应用！ SnapDiagram 可让您轻松将手绘草图转换为精美的数字图表。无需再浪费数小时手动将上次会议的笔记数字化 - 这款应用只需几秒钟即可完成。它可以帮助您以干净、专业的外观呈现会议草图。此外，您可以下载您喜欢的任何格式的图表，包括可编辑文件以进行调整和调整。 要了解更多信息，请观看此演示视频或访问snapdiagram.xyz查看 我很乐意听到您的反馈和想法 - 尝试一下并让我知道您的想法！    提交人    /u/TopFriendship718   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f2eqc3/i_made_an_app_to_digitalize_handdrawn_diagrams/</guid>
+      <pubDate>Tue, 27 Aug 2024 11:32:11 GMT</pubDate>
     </item>
     <item>
-      <title>我制作了 horus.so - 一个 ChatGPT 风格的足球助手</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f2bs5u/i_made_horusso_a_chatgptstyle_assistant_for/</link>
-      <description><![CDATA[大家好！我们和两个朋友一起为足球建立了一个人工智能平台 @ https://horus.so 它基本上是 ChatGPT，但能够获取体育数据和新闻并为足球比赛撰写分析。人工智能助手本身足够通用，因此它可以回答任何体育问题（实际上任何问题哈哈）。 最有趣的部分是提出用户界面，因为这种应用程序实际上还不存在，所以我们很想只制作 ChatGPT 用户界面，但感觉太空洞了。所以我们有点从传统的体育应用程序主页开始。 我最大的问题是从这里开始。我们有很多很酷的想法，比如为任何足球比赛或其他 LLM 相关功能制作自动比赛博客文章，但不确定。如果您有任何很酷的想法或反馈，请随时告诉我！谢谢 :)    由   提交  /u/Sissoka   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f2bs5u/i_made_horusso_a_chatgptstyle_assistant_for/</guid>
-      <pubDate>Tue, 27 Aug 2024 08:14:18 GMT</pubDate>
+      <title>Zoom 的这项 AI 技术在 8 小时内传播了 40 万次</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f2efoa/this_ai_technology_for_zoom_went_400k_viral_in_8/</link>
+      <description><![CDATA[        由    /u/Gientr 提交   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f2efoa/this_ai_technology_for_zoom_went_400k_viral_in_8/</guid>
+      <pubDate>Tue, 27 Aug 2024 11:15:17 GMT</pubDate>
     </item>
     <item>
-      <title>每天花 20 美元在 Google 广告上，我的应用下载量如何飙升——以下是我学到的东西</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f2bmgs/how_20day_on_google_ads_skyrocketed_my_app/</link>
-      <description><![CDATA[大家好 r/SideProject， 我注意到这里有很多关于如何在发布应用后获得最初几个用户的讨论。当你对自己开发的产品感到自豪，但几乎没有人下载它时，你会感到非常沮丧。这正是我发布自己的应用时的情况。在最初几天，我的下载量不到 10 次，我开始怀疑自己是否会受到关注。 然后，我决定尝试使用 Google Ads 应用广告系列，设置每天 20 美元的适度预算。我想，为什么不呢？接下来发生的事情令人吃惊：仅仅两天时间，我的下载量就超过了 500 次，与刚开始时相比有了巨大的飞跃。 以下是我从这次经历中学到的东西，可能会对处于类似情况的其他人有所帮助：  明确定位：Google Ads 可让您深入了解您想要覆盖的确切对象。就我而言，我专注于“个性化新闻应用”等关键字以及“人工智能”和“技术爱好者”等兴趣，这些兴趣对我的受众来说非常合适。 小预算可以产生大影响：您无需全力投入预算。即使每天只有 20 美元，我也能够产生足够的兴趣来启动下载势头。一旦你发现什么方法有效，你就可以进行调整和优化。 早期的吸引力带来更多的吸引力：这些早期的下载提升了我的应用在商店中的排名，这自然带来了更多的自然安装。这就像给算法一个推动，让它开始认真对待你。  为了提供更多的背景信息，我的应用是一个个性化的新闻阅读器，它使用人工智能（如 GPT、Gemini 和 Claude）根据你关心的内容创建摘要，提供 26 种语言版本，甚至适合儿童。我认为独特的功能集和战略性广告定位的结合帮助它脱颖而出。如果您感兴趣，以下是 Android 和 iOS 上的应用程序：  Android iOS  对于其他任何努力争取第一批用户的人，我真的建议尝试一个小型的、有针对性的广告活动。你可能会对结果感到惊讶，这可能是你开始成长所需要的推动力。很想听听你的想法或任何关于早期增长策略的建议！    提交人    /u/th1s1sm3_   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f2bmgs/how_20day_on_google_ads_skyrocketed_my_app/</guid>
-      <pubDate>Tue, 27 Aug 2024 08:02:02 GMT</pubDate>
+      <title>企业家支持小组？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f2e9y9/entrepreneur_support_group/</link>
+      <description><![CDATA[你好！ 有没有企业家正在创业，正在寻找一小群人来讨论、交流想法/讨论问题/获得观点/等等？ 希望建立一个由积极参与的个人（5-10 人）组成的非常小的社区，他们希望尽可能地互相帮助，以利用团队的洞察力。 如果有兴趣，请在下面留言！    提交人    /u/thewanitz   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f2e9y9/entrepreneur_support_group/</guid>
+      <pubDate>Tue, 27 Aug 2024 11:06:01 GMT</pubDate>
     </item>
     <item>
-      <title>销售即时工程工具 - 约 400 名注册用户，首批付费用户，无需代码构建！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f2bkyb/selling_prompt_engineering_tool_400_signups_first/</link>
-      <description><![CDATA[大家好！ 我正在出售我的即时工程平台。它有大约 440 个注册用户，每周都有新人加入并试用该平台。它对付费用户有一些初步吸引力，并且基本上仅靠 SEO 和我在 Reddit 和 openAI 等论坛上发布的少量社交帖子就实现了增长。 它是使用无代码工具 Bubble.io 构建的。 以 2000 美元的价格出售    提交人    /u/daantjehulsen   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f2bkyb/selling_prompt_engineering_tool_400_signups_first/</guid>
-      <pubDate>Tue, 27 Aug 2024 07:59:16 GMT</pubDate>
+      <title>使用 Svelte 5 和 SvelteKit 构建和启动 SaaS 的最快方法。付款、SQL 数据库、authN、authZ、电子邮件、UI 组件、CI/CD 等</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f2e8g3/the_fastest_way_to_build_and_launch_a_saas_with/</link>
+      <description><![CDATA[    /u/stibbs   [link] [comments] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f2e8g3/the_fastest_way_to_build_and_launch_a_saas_with/</guid>
+      <pubDate>Tue, 27 Aug 2024 11:03:35 GMT</pubDate>
     </item>
     <item>
-      <title>@lazarv/react-server - 使用服务器端渲染构建 React 应用程序的最简单方法</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f2bbzw/lazarvreactserver_the_easiest_way_to_build_react/</link>
-      <description><![CDATA[我创建了 @lazarv/react-server，因为我想通过 Vite ❤️ 使用 React 服务器组件和服务器操作。对于大多数小型应用来说，Next.js 太多、太重、太慢。我希望拥有与使用 node.js 运行简单的 JavaScript 文件相同的体验。这个框架试图尽可能不固执己见。你可以实现任何你想要的东西。唯一的限制是它将使用自己的 React 版本。你甚至不需要在项目中安装 React。它都包含在框架中。我希望你会喜欢使用这个框架，就像我喜欢创建它并使用它来创建这个文档一样。 https://react-server.dev    提交人    /u/lazarv1982   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f2bbzw/lazarvreactserver_the_easiest_way_to_build_react/</guid>
-      <pubDate>Tue, 27 Aug 2024 07:40:40 GMT</pubDate>
+      <title>只需 50 美元即可创建一个简单的网站或作品集</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f2e631/for_50_create_a_simple_website_or_portfolio/</link>
+      <description><![CDATA[正如标题所说，我将仅用 50 美元为您创建一个网站。为什么？这是因为，我想创办一家网络开发和营销机构，但我需要一些经验，以便能够获得更大的项目，如电子商务网站。所以我将仅用 50 美元为您创建一个网站或网页设计。如果有人对该行业有见解和建议，您也可以发表评论    提交人    /u/know_me_1111   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f2e631/for_50_create_a_simple_website_or_portfolio/</guid>
+      <pubDate>Tue, 27 Aug 2024 11:00:10 GMT</pubDate>
     </item>
     <item>
-      <title>深渊墨水手机壳</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f2b9qa/abyssal_ink_phone_cases/</link>
-      <description><![CDATA[发现这个项目，觉得分享一下会很不错。有趣的概念：https://abyssal.ink    由   提交  /u/hicheckthisout   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f2b9qa/abyssal_ink_phone_cases/</guid>
-      <pubDate>Tue, 27 Aug 2024 07:35:57 GMT</pubDate>
+      <title>我制作了 AI 图像生成器，可以为 Youtube 和博客帖子生成缩略图</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f2e0oi/i_made_ai_image_generator_that_can_generate/</link>
+      <description><![CDATA[      https://preview.redd.it/of75zmksq6ld1.png?width=1366&amp;format=png&amp;auto=webp&amp;s=5c6a937e2ce66bb4cfdcd895c74af51b565db6e5 我创建了一个工具，用于创建带有文本的缩略图。如果您想尝试并分享反馈，请发表评论。     由   提交  /u/Firm-Blackberry-7445   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f2e0oi/i_made_ai_image_generator_that_can_generate/</guid>
+      <pubDate>Tue, 27 Aug 2024 10:50:39 GMT</pubDate>
     </item>
     <item>
-      <title>烤我的应用程序</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f2azyn/roast_my_app/</link>
-      <description><![CDATA[https://instaroast.co.dev 这是一款可以嘲讽您的 Instagram 帐户的应用程序。只需输入您的用户名，然后让应用程序发挥其魔力。    提交人    /u/andrewski11   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f2azyn/roast_my_app/</guid>
-      <pubDate>Tue, 27 Aug 2024 07:16:11 GMT</pubDate>
+      <title>带有 sanity CMS 的 Nextjs 博客</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f2dxix/nextjs_blog_with_sanity_cms/</link>
+      <description><![CDATA[        提交人    /u/Tall-Strike-6226   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f2dxix/nextjs_blog_with_sanity_cms/</guid>
+      <pubDate>Tue, 27 Aug 2024 10:45:15 GMT</pubDate>
     </item>
     <item>
-      <title>我创建了一个工具来跟踪独立游戏开发者的开发日志和教程</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f2aybm/i_built_a_tool_to_keep_track_of_indie_game/</link>
-      <description><![CDATA[      大家好！我一直对游戏的制作过程很着迷。观看独立游戏开发者通过开发日志和教程分享他们的旅程对我来说是一个巨大的灵感来源。但是在 YouTube 上跟踪所有这些视频变得令人沮丧，我的 YouTube 订阅源一团糟，我想要观看的内容被淹没在无关的内容中。 https://preview.redd.it/lftrvl0m76ld1.png?width=2110&amp;format=png&amp;auto=webp&amp;s=ccc7eb82b581d307d6626eb291be841c3ede6231 所以，我决定为自己构建一个简单的工具来跟踪我最喜欢的开发者。 GamesInProgress 最初只是一个小项目，但随着我向列表中添加更多功能和开发者，它变得越来越大。现在，它拥有超过 300 名独立游戏开发者，每个开发者都是根据他们持续发布的内容和内容质量而选择的。 我还添加了过滤选项，并将所有内容组织到按主题分组的页面中，这样更容易找到我正在寻找的内容。无论是 Unity 3D 动画教程还是使用 Scratch 制作第一个游戏的指南，您都可以找到专门的页面。 https://preview.redd.it/dx563vdnp5ld1.png?width=1563&amp;format=png&amp;auto=webp&amp;s=01b1f71220a05303ff986c1c3b972a6b29ddcb6f 甚至还有一个部分，您可以查看这些开发者正在开发或已在 Steam 上发布的游戏。因为我喜欢数据，所以我为每个开发者添加了诸如订阅者随时间的增长和 Patreon 收入等统计数据，以便更深入地了解他们的旅程。 我对这个项目投入了很多热情，我想你们中的一些人也会觉得它很有用。我很想听听你的想法！如果您有任何反馈或改进想法，我洗耳恭听。 感谢您的阅读，我期待您的反馈！    提交人    /u/al3xis_o   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f2aybm/i_built_a_tool_to_keep_track_of_indie_game/</guid>
-      <pubDate>Tue, 27 Aug 2024 07:12:58 GMT</pubDate>
+      <title>您如何使用 AI 笔记？为什么使用？[Otter、Fireflies]</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f2dqsp/how_and_why_do_you_use_ai_notetakers_otter/</link>
+      <description><![CDATA[ 我曾经从事过一个类似的项目。但不是来这里分享/推销它的。 我非常好奇您如何使用这些产品。它们解决了哪些痛点。  我个人的痛点：  机器人加入通话会让通话中的每个人都感到有些不舒服。无论如何，我只想为自己录制会议。 我不希望我的组织数据流向这些公司，我的雇主可能不喜欢这样。 而且限制非常低。[可以理解，因为它们需要大量的 GPU 计算]  您要解决的问题是什么，为什么使用这些产品？只需几分钟还是别的什么？    提交人    /u/divyamchandel   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f2dqsp/how_and_why_do_you_use_ai_notetakers_otter/</guid>
+      <pubDate>Tue, 27 Aug 2024 10:33:31 GMT</pubDate>
     </item>
     <item>
-      <title>如何推销骗局课程</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f2auko/how_to_market_a_scam_course/</link>
-      <description><![CDATA[任何对如何销售诈骗课程感兴趣的人请给我发私信。    提交人    /u/Big-Run-1608   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f2auko/how_to_market_a_scam_course/</guid>
-      <pubDate>Tue, 27 Aug 2024 07:05:37 GMT</pubDate>
+      <title>介绍 /r/MicroExit：您的小型初创企业买卖中心</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f2dhhh/introducing_rmicroexit_your_hub_for_buying_and/</link>
+      <description><![CDATA[大家好！ 我很高兴地宣布推出 MicroExit，这是一个致力于购买和销售小型初创公司和数字产品的新社区！ 无论您是想从项目中套现还是寻找下一个创业项目，这里都是您的理想之地。 让我们看看我们的社区：/r/microexit/    提交人    /u/antonscap   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f2dhhh/introducing_rmicroexit_your_hub_for_buying_and/</guid>
+      <pubDate>Tue, 27 Aug 2024 10:16:48 GMT</pubDate>
     </item>
     </channel>
 </rss>
