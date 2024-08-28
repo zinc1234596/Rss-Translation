@@ -4,111 +4,111 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Wed, 28 Aug 2024 15:14:52 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Aug 2024 18:19:46 GMT</lastBuildDate>
     <item>
-      <title>需要冷拓展销售工作</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f3ckd8/need_cold_outreach_sales_work/</link>
-      <description><![CDATA[大家好！ 我是 reddit 的新手，我不知道这是怎么运作的。但我认为这是发布此内容的正确地方。 所以我从事销售工作。具体来说是 SaaS 销售。我正在寻找这里一定有人创建的产品或服务，并且需要冷门推广（电话、电子邮件）。 我没有团队或其他东西。我只是一个 25 岁的年轻人，除了日常工作之外还需要钱。 我来自巴基斯坦，如果有人感兴趣，我很乐意聊聊！    提交人    /u/thisshouldworkkk   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f3ckd8/need_cold_outreach_sales_work/</guid>
-      <pubDate>Wed, 28 Aug 2024 15:06:26 GMT</pubDate>
+      <title>我们正在利用 Rahi 的人工智能让旅行变得更轻松。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f3gkax/were_making_travelling_easier_using_ai_by_rahi/</link>
+      <description><![CDATA[      链接：rahiapp.tech  https://preview.redd.it/oz5qmxdxzfld1.png?width=1919&amp;format=png&amp;auto=webp&amp;s=97a05d4d8cc73b1fa51d3f66a2d26422b5df2bf3    由   提交  /u/HistoricalWin6683   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f3gkax/were_making_travelling_easier_using_ai_by_rahi/</guid>
+      <pubDate>Wed, 28 Aug 2024 17:48:03 GMT</pubDate>
     </item>
     <item>
-      <title>开源：TypeScript 实用程序类型集合</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f3cd1q/open_source_a_collection_of_typescript_utility/</link>
-      <description><![CDATA[ts-typkit 是一个开源项目，可以帮助您更灵活地使用微软的 TypeScript。 TypeScript 是 JavaScript 的超集，因其类型安全性和开发效率而广受喜爱。然而，有时可能需要更严格的类型检查或自定义类型开发。 ts-typekit 旨在通过开源提供各种类型来满足这些需求，从而提高开发人员的工作效率。这个库只处理类型，因此在运行时不会产生额外的成本，并且旨在与现有的 TypeScript 兼容。 此外，IDE 自动完成可能不支持某些 TypeScript 的基本实用程序类型。ts-typekit 提供了诸如“StrictOmit”之类的类型来解决这个问题，并帮助开发人员更方便地在 IDE 中工作。 这些实用程序类型旨在通过文档轻松访问和查找。 ts-typekit 可以让你有效地利用 TypeScript 的类型系统，并能大大提高开发人员的工作效率。 你可以在 https://github.com/haejunejung/ts-typekit 找到该项目。 请给我们很多反馈和星星！    提交人    /u/junizi0408   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f3cd1q/open_source_a_collection_of_typescript_utility/</guid>
-      <pubDate>Wed, 28 Aug 2024 14:58:34 GMT</pubDate>
+      <title>寻找开发人员一起从事业余项目的网站</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f3gek1/a_site_to_find_developers_to_work_on_side/</link>
+      <description><![CDATA[我为一个我考虑了一段时间的想法制作了一个 MVP，它还处于非常早期的阶段，但我很想得到一些关于产品的设计、想法和整体功能的反馈。这是一个非常简单的应用程序，你可以发布关于你正在从事或计划从事的项目的帖子，包括你正在寻找的人的类型以及与项目相关的技能，然后有人可以与你“同步”。 “同步”部分本质上只是一个简化的消息系统，有人可以向你发送一条小消息，你可以接受或拒绝“同步”。如果有人想看看，请点击这里的链接，https://devsync.org    提交人    /u/icedengineer   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f3gek1/a_site_to_find_developers_to_work_on_side/</guid>
+      <pubDate>Wed, 28 Aug 2024 17:41:32 GMT</pubDate>
     </item>
     <item>
-      <title>为新项目自行托管 SaaS 模板/框架</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f3c9je/self_hosting_a_saas_templateframework_for_a_new/</link>
-      <description><![CDATA[大家好，我正在寻找一些有关后端/前端模板或框架的建议，以便快速启动新项目。我有一个小型的单一用途功能，一些本地公司有兴趣在他们的后台办公室使用它，我希望能够通过相对专业的网络应用体验来支持它。我不需要扩展基础设施或做任何疯狂的事情。 我正在寻找有关自托管模板或框架的任何建议，这些建议可以：  允许轻松进行本地开发和测试 轻松部署到云基础设施 无需麻烦的用户注册和与 Google、团队等的集成 一个易于处理的良好 UI 框架 良好的常规定制，因此我可以专注于开发我需要的几个应用程序功能屏幕  我对后端/前端相当不了解。很想听听你们都用什么来快速启动面向客户的应用程序。我只想通过后端模块/功能编写并将其插入某个东西。我知道有很多模板，但我认为这个社区可能会有一些很好的建议。    提交人    /u/UnoriginalScreenName   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f3c9je/self_hosting_a_saas_templateframework_for_a_new/</guid>
-      <pubDate>Wed, 28 Aug 2024 14:54:32 GMT</pubDate>
+      <title>我制作了一个使用 AI 将任何网站转换为 API 的工具，并且在发布 1 天后就获得了首次销售！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f3gcek/i_made_a_tool_that_use_ai_to_turn_any_website_to/</link>
+      <description><![CDATA[        提交人    /u/tuantruong84   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f3gcek/i_made_a_tool_that_use_ai_to_turn_any_website_to/</guid>
+      <pubDate>Wed, 28 Aug 2024 17:39:06 GMT</pubDate>
     </item>
     <item>
-      <title>我给社交媒体应用增添了活力</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f3bwkm/i_added_rizz_to_social_media_apps/</link>
-      <description><![CDATA[       由    /u/livetodaytho  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f3bwkm/i_added_rizz_to_social_media_apps/</guid>
-      <pubDate>Wed, 28 Aug 2024 14:39:33 GMT</pubDate>
+      <title>我已经创建了一个应用程序，可以使用 AI 在几秒钟内生成任何 PDF 文件！🤯</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f3fujx/i_have_created_an_app_that_generates_any_pdf_file/</link>
+      <description><![CDATA[        由   提交  /u/Adorable_Monitor_187   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f3fujx/i_have_created_an_app_that_generates_any_pdf_file/</guid>
+      <pubDate>Wed, 28 Aug 2024 17:18:51 GMT</pubDate>
     </item>
     <item>
-      <title>我创建了一个网站，以便于追踪玩家</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f3bum5/i_made_a_website_to_make_it_easy_for_me_to_track/</link>
-      <description><![CDATA[        提交人    /u/tinkrsimpson   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f3bum5/i_made_a_website_to_make_it_easy_for_me_to_track/</guid>
-      <pubDate>Wed, 28 Aug 2024 14:37:20 GMT</pubDate>
+      <title>为 Outlook、Gmail、Drive、Slack 和 Dropbox 提供更好的电子邮件和文档搜索功能</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f3fsan/better_email_and_document_search_for_outlook/</link>
+      <description><![CDATA[我在工作和家中都是电子邮件和文档的重度用户，经常发现自己很难在电子邮件收件箱和云存储中查找所需的紧急信息。我发现 Gmail 或云端硬盘搜索不是最好的，因此查找一个月前的邮件比它应该的要麻烦得多。  我们花了一些时间在这个上面，刚刚发布了一个免费的通用搜索应用程序，适用于 Gmail、Outlook、Slack、云端硬盘等。它完全在您的 Mac 本地运行，您的数据永远不会离开您的计算机。我希望这个社区能够尝试一下并给我们留下反馈。您可以从以下位置下载 https://apps.apple.com/us/app/selectric/id6599842467    由   提交  /u/Ambitious_Limit_2313   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f3fsan/better_email_and_document_search_for_outlook/</guid>
+      <pubDate>Wed, 28 Aug 2024 17:16:20 GMT</pubDate>
     </item>
     <item>
-      <title>寻求对我的网站的建设性和诚实的反馈</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f3bp9w/seeking_constructive_and_honest_feedback_on_my/</link>
-      <description><![CDATA[希望获得有关我的网站 LibroMatch 的一些诚实反馈 - https://libromatch.com/ 提前致谢，    提交人    /u/valerii_homeniuk   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f3bp9w/seeking_constructive_and_honest_feedback_on_my/</guid>
-      <pubDate>Wed, 28 Aug 2024 14:31:15 GMT</pubDate>
+      <title>正在寻找副项目合作伙伴……？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f3fh61/looking_for_side_projects_partner/</link>
+      <description><![CDATA[嗨，reddit 用户们。我是一名全栈开发人员，喜欢将复杂的问题转化为简单有效的技术解决方案。 在获得工程硕士学位并深入研究全栈应用程序（React、Next.js、Node.js、Python、GCP/Firebase、API...）多年后，我也对业务部分产生了兴趣。 虽然我尝试使用 SaaS 产品赚钱，但这让我看到了一个残酷的事实：技术知识是不够的。正如 Karl Wiegers 所说，如果需求错误，其他一切都不重要。 我学到的是产品与市场的契合很难。我的代码可能是一流的，但如果没有正确的市场策略，甚至没有解决正确的问题，那就像是向虚空大喊大叫。 现在，我正在寻找一位营销合作伙伴，他要像我一样渴望深入了解用户需求和市场趋势。有人负责营销，这样我们才能确保我们制造出人们真正需要的东西。 我的提议：  技术技能：快速原型设计、可扩展系统，并随时准备根据从用户那里学到的东西进行调整。 伙伴关系：在我们共同建设的项目中拥有平等的股份，致力于真正能够改变现状的项目。  如果您是一名营销人员，正在寻找技术合作伙伴来创造有意义的东西，让我们联系起来。在这里发表评论或给我发私信。让我们制造出不仅运行良好而且在市场上占据重要地位的产品。   由    /u/fuzzylog1c-stuffs  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f3fh61/looking_for_side_projects_partner/</guid>
+      <pubDate>Wed, 28 Aug 2024 17:03:51 GMT</pubDate>
     </item>
     <item>
-      <title>大家好，我是一名 Web 开发人员</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f3blfz/hello_guys_i_am_a_web_developer/</link>
-      <description><![CDATA[  由    /u/syntaxXP  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f3blfz/hello_guys_i_am_a_web_developer/</guid>
-      <pubDate>Wed, 28 Aug 2024 14:26:59 GMT</pubDate>
+      <title>您觉得我的想法怎么样？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f3feiz/what_do_you_think_of_my_ideas/</link>
+      <description><![CDATA[大家好，我有几个想法要实现，我很乐意听听你们的意见：) 我制作了 3 个带有开放式问题的表格，如果其中任何一个想法引起了您的共鸣，请随意填写表格，因为这对我有很大帮助，如果其中任何一个想法要实现，我可以提前免费为您提供访问权限：) 此外，如果您不想填写表格，但对其中一个想法有意见，也请对其进行评论，我希望得到任何反馈、任何问题，任何事情：) 现在谈谈想法： 1- 产品设计文档平台和设计 QA，这将有助于设计师和开发人员协同工作。本质上，这个想法是为了帮助团队以更好、更具吸引力的方式协同工作，支持从签署设计到最终生产签署的过程。允许文档、更改日志、实时网站/应用程序上的 QA，以及与 Jira 和 AI 等工具的简单集成，帮助您更快地为设计编写文档，从而节省时间和金钱。 https://forms.gle/R8jFREKgXpB7jY7r6 2- 一个无代码组件库，基于最流行的组件（可能您可以选择 Material UI、React Components...），关闭和打开您需要的组件，通常只需简单直观地实现它们，设计师就可以接管并帮助开发人员，并按照他们看到的方式做事：) https://forms.gle/9sfnGkjuEaLWDrbD9 3- 一个 AI 助手，您可以自学并允许它完成复杂的跨平台任务，通过提供文档和直观地教授它。它还将允许简单的软件连接以使此 LAM 工作。 https://forms.gle/NMWydJ3v7n4Cx4KeA 期待您的回复和反馈：) 干杯    提交人    /u/kirilogivell   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f3feiz/what_do_you_think_of_my_ideas/</guid>
+      <pubDate>Wed, 28 Aug 2024 17:01:04 GMT</pubDate>
     </item>
     <item>
-      <title>我刚刚更新了我的 Temp-Mail 网站！快来看看吧！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f3bjsh/i_just_updated_my_tempmail_website_check_it_out/</link>
-      <description><![CDATA[       由    /u/mehmettkahya  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f3bjsh/i_just_updated_my_tempmail_website_check_it_out/</guid>
-      <pubDate>Wed, 28 Aug 2024 14:25:03 GMT</pubDate>
+      <title>构建一个工具来帮助开发人员进入流程。我遗漏了什么？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f3fawo/building_a_tool_to_help_developers_get_into_the/</link>
+      <description><![CDATA[大家好 我正在努力构建 VS Code 中最好的工具来帮助开发人员达到心流状态。 与其他开发人员交谈并研究互联网后，我发现了让人们进入心流的三个主要方面，但我不确定这是否已经是了。  没有干扰 朝着明确的目标努力 为您的会话计时  我试图将这个假设构建到我的 VS Code 扩展 Flowstate 的 MVP 中。去尝试一下，欢迎任何反馈！ 当前功能：  连接您的 Slack 工作区以在会话期间静音通知 为会话设定目标，例如实现侧边栏 为您的会话设置一个计时器，例如实现侧边栏 15 分钟  https://marketplace.visualstudio.com/items?itemName=romanninja.flowstate&amp;ssr=false#overview 它对您有帮助吗？我应该继续吗？我遗漏了什么？    提交人    /u/rbbb-3000   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f3fawo/building_a_tool_to_help_developers_get_into_the/</guid>
+      <pubDate>Wed, 28 Aug 2024 16:57:11 GMT</pubDate>
     </item>
     <item>
-      <title>实时人工智能电话代理</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f3biqg/real_time_ai_phone_agents/</link>
-      <description><![CDATA[https://reddit.com/link/1f3biqg/video/pfa5rwivyeld1/player 我建立了一个非常逼真的人工智能电话代理。  我最初的用例是餐厅预订。  很多地方在高峰时段都陷入困境。 它与餐厅可用性相关，然后完成预订的管理部分。 你们可以拨打该号码进行测试（显然是免费的） 大家对此有什么看法？    提交人    /u/ADLTS   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f3biqg/real_time_ai_phone_agents/</guid>
-      <pubDate>Wed, 28 Aug 2024 14:23:53 GMT</pubDate>
+      <title>每日意图：帮助你保持最重要的事情，最重要的事情</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f3f82y/daily_intention_helping_you_keep_the_main_thing/</link>
+      <description><![CDATA[      大家好， 每日意图是一个简单有效的工具，可以帮助您按计划而不是默认地过好每一天。 我们每天发送提醒以设定您的意图，让你以它作为“北极星”度过每一天，指导你的行动并帮助你保持正轨。我们还让你有机会反思你的意图以及你是如何实现它的？请查看此链接：https://www.dailyintention.co 我已经在这个网站上工作了一段时间，我自己每天都在使用它，所以我想是时候让更多人知道这个网站了——任何反馈都会受到感激！ https://preview.redd.it/i4y99xcjqfld1.png?width=582&amp;format=png&amp;auto=webp&amp;s=2825da9ce8f3373bb009cc0c663a8eb9904bf450    提交人    /u/colinframe   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f3f82y/daily_intention_helping_you_keep_the_main_thing/</guid>
+      <pubDate>Wed, 28 Aug 2024 16:53:53 GMT</pubDate>
     </item>
     <item>
-      <title>我制作了一款应用程序，可以利用人工智能将原始文本转换成漫画风格的故事！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f3ayg7/i_made_an_app_that_will_transform_your_raw_text/</link>
-      <description><![CDATA[        提交人    /u/comicfy   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f3ayg7/i_made_an_app_that_will_transform_your_raw_text/</guid>
-      <pubDate>Wed, 28 Aug 2024 14:00:50 GMT</pubDate>
+      <title>我正在构建一个人工智能职业平台，帮助求职者应对这个艰难的就业市场</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f3f52u/i_am_building_an_ai_careers_platform_that_helps/</link>
+      <description><![CDATA[大家好！ 我是一名全栈软件工程师，对生成式人工智能有着浓厚的兴趣——你们已经猜到了。去年夏天，我和女朋友度假时，我们谈到了她的工作。她是欧洲一所重点大学的职业和个人发展教练，我们讨论了 ChatGPT 等工具对她的学生的影响。 最初是一个快速简历编写器原型，现在已经发展成为一个名为 CareerDeck AI 的成熟人工智能职业平台。  从您找到职位空缺的那一刻到您签订合同的那一刻：我们旨在帮助求职者做到以下几点： - 为特定职位空缺撰写定制的简历（您知道每个职位空缺都需要不同的简历吗？） - 为招聘经理撰写引人注目且个性化的求职信（以独特和个性化的方式格式化） - 通过提供常见的面试问题和您可以在面试期间提出的问题来帮助准备面试 - 在 CareerDeck Academy 教授有关求职的各个方面、薪资谈判策略和人际网络的知识 - 通过提供“与 AI 职业教练聊天”提供全天候职业指导，该功能已通过我女朋友的职业教练指示进行了增强 - 练习求职面试 - 使用视频和语音 - 在模拟面试中使用充当招聘经理的 AI（将于 2024 年第四季度推出） 我还没有推出，但我认为我大约完成了 90% 的平台。我现在正在寻找来自实际用户的反馈，我希望在这个 subreddit 中找到这些反馈。  测试 CareerDeck AI 只需 4 个简单步骤。 1. 使用 LinkedIn 注册 CareerDeck AI 2. 从 LinkedIn 导入您的职业历史 3. 查找并添加职位列表，然后将其添加到交互式仪表板。 4. 当 AI 助手准备就绪时，您将收到量身定制的简历和求职信。 使用编辑器进行更改并选择主题。 将内容下载为 PDF！  作为感谢，您在开始时将获得 10 个免费积分。 这将为您提供 10 份简历、10 封求职信和 10 个职位列表的 10 个准备计划。  请在评论中告诉我您的想法！您的反馈对我非常有价值。 请注意以下几点： - CareerDeck AI 针对平板电脑和笔记本电脑进行了优化。截至目前，移动支持有点不稳定 - 事情可能会发生并且会出错。我不希望出现任何引人注目的事情，而是 UI 中的小问题 - 登陆页面和功能页面尚未完成，我仍在最终确定内容，但它们应该会给您留下良好的整体印象     提交人    /u/CareerDeckAI   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f3f52u/i_am_building_an_ai_careers_platform_that_helps/</guid>
+      <pubDate>Wed, 28 Aug 2024 16:50:24 GMT</pubDate>
     </item>
     <item>
-      <title>使用 HTML5 Canvas 在 React 中编辑多页文档。（类似 Google DOC）</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f3axbw/multipage_document_editing_in_react_with_html5/</link>
-      <description><![CDATA[        由    /u/lakinmohapatra  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f3axbw/multipage_document_editing_in_react_with_html5/</guid>
-      <pubDate>Wed, 28 Aug 2024 13:59:47 GMT</pubDate>
+      <title>包含所有附加信息的美食创意生成器</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f3eymp/food_idea_generator_with_all_additional/</link>
+      <description><![CDATA[嘿，在过去的几个月里，我一直很难选择吃什么。我尝试过谷歌搜索和使用生成器，但还不够。所以，我想我会收集来自世界各地的 500 多种食谱，把它们放进一个数据库，并免费与大家分享这些想法。欢迎随意尝试并在 https://www.therandomrecipe.com 上测试一些新食谱 非常欢迎任何反馈 :)    提交人    /u/fooddev5   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f3eymp/food_idea_generator_with_all_additional/</guid>
+      <pubDate>Wed, 28 Aug 2024 16:43:01 GMT</pubDate>
     </item>
     <item>
-      <title>启动了我们的（某种）副项目：Syncgrip - 跨应用程序同步数据，无需担心</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f3aqkx/launched_our_sort_of_side_project_syncgrip_data/</link>
-      <description><![CDATA[大家好， 我们刚刚推出了 Syncgrip，一款数据同步 SaaS 它的作用： Syncgrip 是一款无需编码即可在 Airtable 和 Asana 等热门应用之间实时同步数据的工具。它非常适合那些同时使用多种工具并厌倦了跨平台手动更新数据的人。 我们为什么要构建它： 我们想要解决一个真正具有挑战性的工程问题（持续同步数据很难！），我们也在之前一家做类似事情的公司见过面。所以我们知道存在业务需求。我们想学习如何分发服务。 工作原理：  连接您的应用程序：快速链接您的 Airtable、Asana 和其他支持的工具。 设置您的首选项：映射您想要同步的特定字段 开始同步：让 Syncgrip 处理其余部分，而您专注于工作。  我们在这里有一个演示： 寻求反馈： 我很想听听您的想法！我们希望加入 Beta 用户 - 关于如何做到这一点的任何提示都将非常有帮助。这有点像小众产品，因此很难接触到合适的受众。 试用： 我们目前为有兴趣试用的人提供免费测试版。您可以在syncgrip.com注册并了解更多信息。 附言：我们确实全职从事这项工作，但我们还有另一个项目，因此从技术上讲，Syncgrip 可以被视为副项目😛    提交人    /u/stoilsky   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f3aqkx/launched_our_sort_of_side_project_syncgrip_data/</guid>
-      <pubDate>Wed, 28 Aug 2024 13:51:53 GMT</pubDate>
+      <title>2024 年最佳 IPTV 服务：最值得信赖的提供商：Reddit</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f3evyt/best_iptv_services_of_2024_top_trusted_providers/</link>
+      <description><![CDATA[  由    /u/Goldenya  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f3evyt/best_iptv_services_of_2024_top_trusted_providers/</guid>
+      <pubDate>Wed, 28 Aug 2024 16:40:01 GMT</pubDate>
     </item>
     <item>
-      <title>[NSFW] 我创建了一个傻瓜工具来制作逼真的人工智能色情片</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f3aq8l/nsfw_i_created_a_idiot_proof_tool_to_create/</link>
-      <description><![CDATA[  由    /u/frapus  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f3aq8l/nsfw_i_created_a_idiot_proof_tool_to_create/</guid>
-      <pubDate>Wed, 28 Aug 2024 13:51:29 GMT</pubDate>
+      <title>InstaWise 人工智能</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f3emmx/instawise_ai/</link>
+      <description><![CDATA[大家好，如果你们能看看我们目前所做的工作就太好了！以下是查看链接：https://wise-ai-final.vercel.app/ 我们正在创建 InstaWise AI，这是一款社交建议机器人，可帮助用户解决任何社交问题或关系问题。我们计划在本周末发布该应用的测试版！它现在看起来很糟糕，但我们很快就会改进它！    提交人    /u/ninjaman5171   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f3emmx/instawise_ai/</guid>
+      <pubDate>Wed, 28 Aug 2024 16:29:16 GMT</pubDate>
     </item>
     <item>
-      <title>本地 i18n 工具</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f3alep/local_i18n_tool/</link>
-      <description><![CDATA[大家好！ 我发布了我的第一个开源项目，想与大家分享。 过去，我无法正确管理语言变量，或者不得不为此花费大量金钱，这让我很沮丧。 因此，我基于 Vue3、Laravel 和 Docker 构建了一个可以在本地使用的小工具（！）。其背后的想法是，我想连接一个 API 来导出语言文件，以便将它们集成到我的本地构建过程中。当然，我想使用 UI 来管理它们。 然而，一开始，只提供 json 和 php 作为文件格式。 您觉得这个工具/想法怎么样？我可以改进什么？您能给我一些建议，告诉我如何更好地与开发者世界分享它吗？ :)  https://github.com/rob18n/app    由   提交  /u/he4dh4ntrz   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f3alep/local_i18n_tool/</guid>
-      <pubDate>Wed, 28 Aug 2024 13:45:51 GMT</pubDate>
+      <title>发布了用于 Spline 滚动动画的免费 WordPress 插件</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f3eal8/released_free_wordpress_plugin_for_spline_scroll/</link>
+      <description><![CDATA[        提交人    /u/anasniazi   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f3eal8/released_free_wordpress_plugin_for_spline_scroll/</guid>
+      <pubDate>Wed, 28 Aug 2024 16:15:53 GMT</pubDate>
     </item>
     <item>
-      <title>免费无需注册二维码生成器</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f3ac3l/free_no_sign_up_qr_code_generator/</link>
-      <description><![CDATA[  由    /u/AccordingAd8281  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f3ac3l/free_no_sign_up_qr_code_generator/</guid>
-      <pubDate>Wed, 28 Aug 2024 13:34:37 GMT</pubDate>
+      <title>我开发了一款应用程序，可以通过面部识别追踪互联网上任何人</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f3e5nz/i_built_an_app_to_track_anyone_by_face_across_the/</link>
+      <description><![CDATA[大家好，我今年 25 岁，独自创业，我创建了 FaceIndex — 一款面部识别应用，只需通过面部识别即可追踪互联网上的任何人。我一直对机器学习很着迷，所以我决定深入研究并创建一款可以扫描数十亿张图像并在几秒钟内找到匹配项的产品。 我们一直在与美国各地的执法部门合作，但希望从公众角度获得更多反馈 FaceIndex.co 告诉我您的想法！    提交人    /u/Interesting-Walk6613   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f3e5nz/i_built_an_app_to_track_anyone_by_face_across_the/</guid>
+      <pubDate>Wed, 28 Aug 2024 16:10:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
