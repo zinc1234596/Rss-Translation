@@ -4,7 +4,35 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Thu, 29 Aug 2024 01:04:21 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Aug 2024 03:15:28 GMT</lastBuildDate>
+    <item>
+      <title>我终于将 Stripe 集成到我的 SaaS 项目中。很快就会上线。有什么建议吗？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f3s9wh/i_finally_integrated_the_stripe_in_my_saas/</link>
+      <description><![CDATA[saas #sideproject    由    /u/meehit  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f3s9wh/i_finally_integrated_the_stripe_in_my_saas/</guid>
+      <pubDate>Thu, 29 Aug 2024 03:01:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>我做了一个纽约/全国厕所查找应用程序</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f3s6ad/i_made_an_nycnational_loo_finder_app/</link>
+      <description><![CDATA[大家好， 过去几个月我一直在做一个小项目。这是一个针对纽约卫生间的厕所查找/评论应用程序，但可以在任何地方使用。  虽然我以前开发过应用程序，但这是我正式发布的第一个应用程序，所以我非常期待将它发布出去。如果有兴趣，我希望任何人都可以查看它。 还有很多新功能的空间，但我希望随着时间的推移建立一个伟大的社区！ LooReview by AuraFlux    提交人    /u/manwtheplan123   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f3s6ad/i_made_an_nycnational_loo_finder_app/</guid>
+      <pubDate>Thu, 29 Aug 2024 02:56:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>为我即将发布的几款游戏制作了一个 Nintendo Direct 模仿秀，其中包含一些预告片等</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f3rodz/made_a_nintendo_direct_parody_with_teasers_and/</link>
+      <description><![CDATA[       由    /u/Acrobatic-Orange-377  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f3rodz/made_a_nintendo_direct_parody_with_teasers_and/</guid>
+      <pubDate>Thu, 29 Aug 2024 02:31:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>营销技巧</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f3qkzt/marketing_tips/</link>
+      <description><![CDATA[您有什么营销或让人们了解您的产品的秘诀？ 这并不容易，因为我一直在尝试向人们宣传我的职位公告板 qruil.com（此链接仅用于等候名单）。 由于学校的原因，我的时间有限。 我目前的目标是产品验证和广告。    提交人    /u/StageEasy6483   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f3qkzt/marketing_tips/</guid>
+      <pubDate>Thu, 29 Aug 2024 01:38:47 GMT</pubDate>
+    </item>
     <item>
       <title>我 15 岁时的头两个应用程序</title>
       <link>https://www.reddit.com/r/SideProject/comments/1f3ppqt/my_first_two_apps_at_15/</link>
@@ -81,34 +109,6 @@
       <description><![CDATA[      ChatGPT 和Yolov9 已联手提高气枪的射击准确性 它可以测量到目标的距离 ，提供指示以对准枪管进行精确射击 代码：https://github.com/muratali016/Yolov9-Custom-Functions 视频 https://reddit.com/link/1f3m21s/video/j11krf95ahld1/player    提交人    /u/Atomcocuk   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1f3m21s/i_created_ai_aim_assist_in_real_life/</guid>
       <pubDate>Wed, 28 Aug 2024 22:11:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>我有了一个想法，把它实现，并在 24 小时内发货</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f3kh4j/i_got_an_idea_built_it_shipped_it_in_24_hours/</link>
-      <description><![CDATA[嘿伙计们，我在 X/Twitter 上滚动浏览并发现了一些人们构建的工具，所以它给了我一些小想法。 我想构建一个工具，从您的条纹组织中获取销售并在您的网站上显示每个销售的弹出窗口，以帮助提高转化率。 老实说，我只是说：“为什么不构建它” 所以我做了，我有一个我一直使用的样板，准备好身份验证，条纹支付，快速构建了该功能。 有一个功能，您输入条纹限制密钥，它将获取销售，您可以自定义弹出窗口，颜色，品牌，每个弹出窗口之间的延迟......然后您就会获得嵌入代码。 我将工具设置为一次性付款，因为大多数其他工具都有订阅，所以我认为为人们提供一次付款并永久使用的选项是个好主意。 然后我花了几分钟完成登陆页面（简约但仍然很好） 然后我发货了。所有这些都来自“为什么不”。 现在我可能会去抖音，录制一些简短的内容并推销它！ 如果您对我有一些营销想法，这里是我的工具：ConvertThem  （是的，我还没有域名，还没有花时间去拿一个，但会的）    提交人    /u/mehdikhoudali   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f3kh4j/i_got_an_idea_built_it_shipped_it_in_24_hours/</guid>
-      <pubDate>Wed, 28 Aug 2024 21:09:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个用于心理健康支持的人工智能伴侣</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f3jwvw/i_made_an_ai_companion_for_mental_health_support/</link>
-      <description><![CDATA[我一直在研究 BetterSelfAI.com，这是一个您可以随时在 Telegram 上与之聊天的 AI 治疗师。 我很好奇想听听您对这样的工具的看法？    提交人    /u/Aymeric34   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f3jwvw/i_made_an_ai_companion_for_mental_health_support/</guid>
-      <pubDate>Wed, 28 Aug 2024 20:47:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>一个食谱向导 - 不再有复杂的多任务烹饪噩梦</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f3jhh9/one_recipe_wizard_no_more_complex_multitasking/</link>
-      <description><![CDATA[         提交人    /u/Pickles1551   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f3jhh9/one_recipe_wizard_no_more_complex_multitasking/</guid>
-      <pubDate>Wed, 28 Aug 2024 19:47:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>我刚刚在我的锻炼跟踪应用程序中添加了对数千个 Visual Studio 代码主题的支持！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f3i6dy/i_just_added_support_for_thousands_of_visual/</link>
-      <description><![CDATA[        提交人    /u/gj26185   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f3i6dy/i_just_added_support_for_thousands_of_visual/</guid>
-      <pubDate>Wed, 28 Aug 2024 18:53:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
