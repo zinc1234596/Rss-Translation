@@ -4,7 +4,49 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Fri, 30 Aug 2024 21:14:17 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Aug 2024 01:04:19 GMT</lastBuildDate>
+    <item>
+      <title>🚨 注意：SummaryGPT 将于今日停机，以推出新功能！🚨</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f58mf8/heads_up_summarygpt_will_be_down_today_for_new/</link>
+      <description><![CDATA[简短更新：SummaryGPT 今天会暂停一段时间。我们正在推出一些新功能，我对此感到非常兴奋，我认为您会喜欢它们。我知道停机有点令人沮丧，但相信我，这是值得的！ 如果您是新手，SummaryGPT 是一款 Chrome 扩展程序，它通过将网站内容总结为简单的要点来帮助您消除干扰。无论您是想快速掌握文章、研究论文，还是只需要快速浏览网页，SummaryGPT 都能为您提供支持。这一切都是为了节省您的时间并使您的浏览体验更加流畅。 您可以在此处查看：[SummaryGPT Chrome 扩展程序]() 感谢您的支持，我感谢您的理解，同时我们致力于使 SummaryGPT 变得更好！    提交人    /u/FishinBlin   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f58mf8/heads_up_summarygpt_will_be_down_today_for_new/</guid>
+      <pubDate>Fri, 30 Aug 2024 22:53:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>查找初创公司名称，并提供可用的域名</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f581gh/find_startup_name_with_available_domain_name/</link>
+      <description><![CDATA[链接：findstartupname.com 我一直很难为我的产品/初创公司找到一个好名字。只能在域名注册商、创意和 ChatGPT 之间来回奔波。所以我做了一个网站来帮助找到一个好名字。 你只需描述你的业务，它就会使用 GPT-4 生成名称创意，然后检查域名的可用性。 由于 NameCheap 没有批准我成为联属会员，因此它没有货币化，但我还是想分享它。让我知道你的想法！    提交人    /u/m_m_malm   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f581gh/find_startup_name_with_available_domain_name/</guid>
+      <pubDate>Fri, 30 Aug 2024 22:27:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的新副业</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f57wfi/my_new_side_project/</link>
+      <description><![CDATA[      大家好， 这篇文章只是为了分享我构建电子邮件验证 API 平台作为我的新副业的历程。这个概念非常简单：您创建一个帐户并获得一些积分，然后您就可以使用生成的 API 密钥开始验证电子邮件。我指的验证并不只是检查电子邮件格式，而是使用 MX 记录/SMTP 检查的真正验证，例如电子邮件收件箱是否存在等... 稍后，如果人们有兴趣使用它，我会实施一些定价，以便人们可以购买积分。 因此，如果您正在从事任何附带项目，请不要犹豫，对您的想法发表评论并提供链接（如果有） 仪表板 | API 密钥部分    提交人    /u/rudygnve   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f57wfi/my_new_side_project/</guid>
+      <pubDate>Fri, 30 Aug 2024 22:20:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>我刚刚转变了 valu8.app...有什么反馈吗？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f57ut3/ive_just_pivoted_valu8app_any_feedback/</link>
+      <description><![CDATA[大家好！我有这个业余项目，valu8.app，我正在尝试用它做一些新事情。 我一直是个数字迷，着迷于数学如何预测现实世界中的事物。不久前，我开始摆弄工具来帮助我选择股票，寻找那些背后有良好数字的股票。 起初，valu8.app 只是向用户提供相对财务指标的直方图，并通过公司估值来丰富它们。无论如何，有很多工具（excel 表格、在线行情工具等）可以执行类似的任务。问题是你应该提前知道要投资什么股票。 但是，这是第一个关键点：如果投资者能够轻松地选择他们的筛选标准 - 即使是复杂的标准 - 以一种简单的方式而不受任何干扰，会怎么样？ 现在，你可以用简单的语言告诉应用程序你在寻找什么。例如，如果你想要“每年盈利增长率为 5%、至少 3 年上市且市盈率低于 15 的公司”，你只需写下来。然后，你每周设置一次警报，如果有任何类似的股票，你就会收到通知。这就像为好的投资机会设置陷阱。 我知道用户应该已经知道他们在寻找什么 - 所以一开始它会适合专业人士 - 而且我也不确定是否有人会真正使用它。但这与我的第一个想法不同，我想与您分享，我很想知道您的意见：  即使您通常不投资股票，您认为这听起来有用吗？ 什么会让您有兴趣尝试这样的事情？  我边学边做，您的想法确实可以指导这个项目的下一步发展方向。感谢您的阅读和您可能分享的任何建议！    提交人    /u/fuzzylog1c-stuffs   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f57ut3/ive_just_pivoted_valu8app_any_feedback/</guid>
+      <pubDate>Fri, 30 Aug 2024 22:18:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了 NexusTrade，一个 AI-First 算法交易和金融研究平台</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f57szc/i_created_nexustrade_an_aifirst_algorithmic/</link>
+      <description><![CDATA[        由    /u/NextgenAITrading  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f57szc/i_created_nexustrade_an_aifirst_algorithmic/</guid>
+      <pubDate>Fri, 30 Aug 2024 22:16:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>您有任何可以帮助用户研究的工具吗？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f56tt4/do_you_have_any_tools_that_can_help_with_user/</link>
+      <description><![CDATA[我正在做用户研究，想知道是否有 AI 工具可以帮助我。 我不喜欢在通话过程中使用 Fathom，所以我手写笔记。我想要一个可以记录这些笔记、总结和分类的东西。 然后我想问一些非常普遍的问题，例如：“有多少人告诉我需要集成 X 或 Y” 如果您知道可以帮助我的东西，那就太好了！    提交人    /u/Fun-Nectarine-7839   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f56tt4/do_you_have_any_tools_that_can_help_with_user/</guid>
+      <pubDate>Fri, 30 Aug 2024 21:33:42 GMT</pubDate>
+    </item>
     <item>
       <title>正在寻找现有的可开展的副项目？</title>
       <link>https://www.reddit.com/r/SideProject/comments/1f567l8/finding_existing_side_projects_to_work_on/</link>
@@ -67,48 +109,6 @@
       <description><![CDATA[最近我开发了一个产品，进入了工程模式。后来我意识到我不知道自己在做什么。如果这是一个足够大的问题，人们会适应。 我认为如果我们开发一些已经在市场上得到验证的东西，永久免费、开源、在设备上，我们可以很快获得用户适应。我可能错了。 从技术上讲很难，必须学习 rust，但说实话，开发它实际上非常非常有趣。但我辞去了非常好的工作来开发它，后来才意识到这一点。 也许这篇文章可能是我发泄情绪。（说实话我不知道） 我一直在关注这个社区，人们分享他们如何首先与许多人交谈，检查 reddit 社区是否存在问题和其他事情。应用“MOM 测试”中的原则并与用户讨论这 3 个主要问题 -&gt; 1. 1. 了解用户的痛点 2. 在过去的两个月里他们是如何解决这个问题的 3. 他们以前是否尝试过在 Google 上搜索该问题的解决方案。 有没有人可以解释一下我该怎么做？找不到可以帮助很多人的相关问题。之前的项目也旨在真正帮助人们，它是免费和开源的，也许以后也能为企业找到赚钱的东西（这也很重要） 有没有工具可以从 reddit 上抓取相关信息来解决人们的问题？[有人愿意为之付费的实际问题] 或者成为一名操作员，以便我们能够了解谷歌趋势/关键字研究/用户验证，然后解决这些问题？[从某人那里听说过他们如何构建多个在线产品]。找到这些，然后构建登录页面，投放广告并获取用户注册。与这些人交谈，然后最终打造产品。 任何建议都会有所帮助。    提交人    /u/divyamchandel   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1f53yv2/how_to_find_good_project_ideas/</guid>
       <pubDate>Fri, 30 Aug 2024 19:33:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kakofonix——在钢琴上弹奏算术序列！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f53nm6/kakofonix_play_back_arithmetic_sequences_on_piano/</link>
-      <description><![CDATA[  由    /u/dalipies  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f53nm6/kakofonix_play_back_arithmetic_sequences_on_piano/</guid>
-      <pubDate>Fri, 30 Aug 2024 19:20:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了 shopencore.ai，它可以在一个页面上搜索数百个二手网站</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f536iy/i_made_shopencoreai_which_searches_100s_of/</link>
-      <description><![CDATA[    /u/Spare-Sugar5872   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f536iy/i_made_shopencoreai_which_searches_100s_of/</guid>
-      <pubDate>Fri, 30 Aug 2024 19:00:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>任何有创意导向的领域，老年人可以推荐</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f52akh/any_creative_oriented_fields_that_seniors_could/</link>
-      <description><![CDATA[  由    /u/lasttimes20  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f52akh/any_creative_oriented_fields_that_seniors_could/</guid>
-      <pubDate>Fri, 30 Aug 2024 18:22:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>我为抖音视频制作了一个批量截图应用程序</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f522k8/i_made_a_mass_screenshots_app_for_tiktok_video/</link>
-      <description><![CDATA[https://reddit.com/link/1f522k8/video/9k51vowbeuld1/player    由   提交  /u/Iamthesenatee   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f522k8/i_made_a_mass_screenshots_app_for_tiktok_video/</guid>
-      <pubDate>Fri, 30 Aug 2024 18:13:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>你喜欢哪个版本？我为篝火和庇护所做了定位</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f51wfs/what_version_do_you_like_i_made_positioning_for/</link>
-      <description><![CDATA[        由    /u/Expensive_Arugula492   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f51wfs/what_version_do_you_like_i_made_positioning_for/</guid>
-      <pubDate>Fri, 30 Aug 2024 18:06:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个社交媒体管理项目并将其开源</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f51ras/i_created_a_social_media_manager_project_and_also/</link>
-      <description><![CDATA[此社交媒体调度工具与传统工具类似：Buffer、Hootsuite、SproutSocial 等。 主要功能：  为 9 个社交媒体平台 (Threads、Pinterest、Facebook、TikTok、Reddit、LinkedIn、Dribbble、YouTube、Instagram) 安排时间。 几乎所有社交媒体平台的基本分析。 AI 功能：Copilots、AI 自动完成、类似 Canva 的编辑器。 团队支持：邀请您的团队成员管理社交媒体。  技术栈：  NX (Monorepo) NextJS (React) NestJS Prisma（默认为 PostgreSQL） Redis 重新发送（电子邮件通知）  完全开源（Apache-2） 链接：https://postiz.com 开源：https://github.com/gitroomhq/postiz-app    提交人    /u/sleepysiding22   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f51ras/i_created_a_social_media_manager_project_and_also/</guid>
-      <pubDate>Fri, 30 Aug 2024 18:00:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
