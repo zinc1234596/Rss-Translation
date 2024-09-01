@@ -4,7 +4,63 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Sun, 01 Sep 2024 03:20:54 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Sep 2024 06:20:18 GMT</lastBuildDate>
+    <item>
+      <title>您最近推出了什么 AI 工具？为什么？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f67cdq/what_ai_tool_have_you_launched_recently_and_why/</link>
+      <description><![CDATA[我将从 https://tldrthis.ai 开始，它用于总结任何在线链接。 这样做的目的是让我们在浏览互联网上的大量信息时更简单，并避免广告。 请分享您的想法，也许我们可以在这里看到一种趋势    提交人    /u/Any_Dragonfly_3990   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f67cdq/what_ai_tool_have_you_launched_recently_and_why/</guid>
+      <pubDate>Sun, 01 Sep 2024 05:46:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>我正在为 Windows 和 MacOS 开发截图美化应用程序，作为 Xnapper 和 Supasnap 的替代品</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f66paa/i_am_building_screenshot_beautifier_app_for/</link>
+      <description><![CDATA[      我一直在开发一个屏幕截图美化应用程序，如果你熟悉 MacOS 上的 Xnapper 和 Supasnap 网络应用程序，这是一个强大的替代品适用于 Windows 和 MacOS。 Savvyshot 的 MacOS 版本 为什么要查看它？  即时编辑：只需按一下键即可截取屏幕截图并立即开始编辑。 平衡的屏幕截图：自动对齐偏离中心的屏幕截图，使其看起来专业。 自动编辑：使用自动编辑功能保护敏感数据。 轻量级 &amp;快速：适用于 Windows 和 MacOS 的原生版本确保它以低内存消耗平稳运行。  加入 Beta 版！ 我们正在寻找 Beta 测试人员来帮助改进这个应用！如果您有兴趣尝试，请注册候补名单。我们将在未来两周内推出测试版。 👉 https://savvyshot.app 我很乐意听到您的想法、反馈或您可能有的任何功能请求！ 谢谢阅读！😊    提交人    /u/rfbabeheer   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f66paa/i_am_building_screenshot_beautifier_app_for/</guid>
+      <pubDate>Sun, 01 Sep 2024 05:04:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI健康顾问Web应用程序</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f66goi/ai_health_advisor_webapp/</link>
+      <description><![CDATA[大家好，我开发了这个简单的健康顾问应用。它应该根据用户个人资料提供健康建议。您还可以提出更具体的问题，希望它能回答这些问题。我认为它可能很有用，所以很快就把它整合起来了。如果您觉得它有用，或者您希望加入任何功能，请告诉我。谢谢阅读 :D 我的页面 (bubbleapps.io)    提交人    /u/edwardyen724   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f66goi/ai_health_advisor_webapp/</guid>
+      <pubDate>Sun, 01 Sep 2024 04:49:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>一个月内你能建造什么项目？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f65rbl/what_project_can_you_built_in_one_month/</link>
+      <description><![CDATA[  由    /u/Main_Ad6084  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f65rbl/what_project_can_you_built_in_one_month/</guid>
+      <pubDate>Sun, 01 Sep 2024 04:06:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Quapp (Quasar + Appwrite) 资源站点</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f65nq4/quapp_quasar_appwrite_resource_site/</link>
+      <description><![CDATA[这是一个新的微资源站点，其中包含使用 Quasar 和 Appwrite 的提示和链接：https://quapp.dev/ 微型 saas 开发套件即将推出。    提交人    /u/sonicviz   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f65nq4/quapp_quasar_appwrite_resource_site/</guid>
+      <pubDate>Sun, 01 Sep 2024 04:01:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>我用一周的时间制作了一个开源的 monorepo-ed SaaS 套件。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f65idc/i_made_an_open_source_monorepoed_saas_kit_on_a/</link>
+      <description><![CDATA[MIT 许可。用它做任何你想做的事情。该套件附带使用 NextJS 构建的管理员和客户应用程序。在制作过程中还试用了 Coolify。如果您有任何问题，请与我联系！ tnx 链接： https://thenextstartup.erehwonmi.com/（客户应用程序演示应用程序） https://github.com/erehwonmi/thenextstartup（repo） https://thenextstartupdocs.erehwonmi.com/（文档）    提交人    /u/Forsaken_Buy_7531   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f65idc/i_made_an_open_source_monorepoed_saas_kit_on_a/</guid>
+      <pubDate>Sun, 01 Sep 2024 03:52:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>出售短期工作空间租赁的在线市场</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f65d0o/selling_online_marketplace_for_renting_short_term/</link>
+      <description><![CDATA[大家好，我开发了一款软件，用于出租短期工作空间，如办公室、会议室、董事会议室、播客工作室、热点办公桌等，主人可以列出他们的空间，人们可以预订。想想灵活工作空间的 Airbnb。它包括主网站、主机仪表板和列表仪表板。我也有 figma 设计以及 NextJS、Python Flask 中的完整功能代码库和 API，并使用 Google App Engine 部署。 我对这款产品（总部设在澳大利亚）感到非常兴奋，但我的情况发生了变化。我还有其他承诺，无法摆脱。我正在出售整个软件、域名、徽标、设计、代码库，并将为过渡提供支持。 我还没有收入，所以你可以从头开始制作它，甚至可以自定义它。    提交人    /u/ilovecroissants17   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f65d0o/selling_online_marketplace_for_renting_short_term/</guid>
+      <pubDate>Sun, 01 Sep 2024 03:44:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能辅助网站构建器 - 从简历到作品集网站</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f652xy/aiassisted_website_builder_resume_to_portfolio/</link>
+      <description><![CDATA[      https://www.kudosites.com/?msg=&quot;w&quot; https://preview.redd.it/t63xvoiaa4md1.png?width=1841&amp;format=png&amp;auto=webp&amp;s=4a988954839e9c728fc8906e2ceba6575b7e7c35    提交人    /u/ApprehensiveStay9700   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f652xy/aiassisted_website_builder_resume_to_portfolio/</guid>
+      <pubDate>Sun, 01 Sep 2024 03:28:32 GMT</pubDate>
+    </item>
     <item>
       <title>我的创业公司最近失败了，由于我讨厌为找新工作做准备，所以我想制作一个涵盖计算机科学主题、琐事等的应用程序。</title>
       <link>https://www.reddit.com/r/SideProject/comments/1f64rec/my_startup_flopped_recently_and_since_i_loathe/</link>
@@ -53,62 +109,6 @@
       <description><![CDATA[嘿！许多初创公司创始人使用 Reddiy 作为经过验证的客户获取渠道，在相关讨论中手动回复，因此我们决定为他们自动化此流程 https://beno.one 感谢您的反馈 附注：我真的很喜欢这个社区，所以我们不会发布垃圾邮件。我们的团队手动发布所有回复，因此我们符合指南，但对我们的客户而言，这是 100% 自动化的。    提交人    /u/Short-Breakfast2611   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1f62ev6/i_made_a_tool_to_automate_marketing_for_startups/</guid>
       <pubDate>Sun, 01 Sep 2024 01:02:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>我打造了一个人工智能，可帮助您实时完成求职面试！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f6238c/i_built_an_ai_that_helps_you_crush_job_interviews/</link>
-      <description><![CDATA[大家好！我很高兴能与大家分享我创造的东西——一种帮助求职者实时完成面试的人工智能工具！这个想法来自于我自己在面试中的挣扎以及看到朋友错失机会。它的工作原理如下：  上传您的简历和（可选）职位描述。 人工智能了解您的背景和工作。 实时分析：人工智能在面试过程中倾听。 量身定制的答案建议：它会在您需要时提供个性化的答案。  我希望你能尝试一下！在这里查看：LiveInterview.ai。迫不及待想听听你的想法！   由    /u/Complex-Frosting-828  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f6238c/i_built_an_ai_that_helps_you_crush_job_interviews/</guid>
-      <pubDate>Sun, 01 Sep 2024 00:45:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>摘要GPT 更新</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f61nvs/summarygpt_update/</link>
-      <description><![CDATA[大家好，这是 SummaryGPT 的更新！ 这是一个 chrome 扩展程序，可让您从网站检索数据并使用 AI 帮助您快速收集有关它的信息。您可以向它询问有关文章的问题，也可以让它对其进行总结。这一切都发生在您网页的一角。 所以我们终于为它创建了一个启动网站，我计划很快将其货币化，因为我已将条纹实现到网站中并创建了一个高级模型。我计划很快添加一些免费用户和付费用户都可以使用的功能，但这是一个缓慢的过程，因为这是我第一次编写 chrome 扩展程序。该网站是：https://www.summarygptai.com/ 请查看。它有点马虎，但我会在不久的将来努力修复它。目前它可以正常工作。 目前正在推出一项新功能。    提交人    /u/FishinBlin   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f61nvs/summarygpt_update/</guid>
-      <pubDate>Sun, 01 Sep 2024 00:23:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何撰写欢迎电子邮件</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f611so/how_to_write_welcome_email/</link>
-      <description><![CDATA[大家好，如果您正在为您的企业撰写一封欢迎电子邮件，并希望它能引起共鸣，以下 5 个技巧可帮助您与受众建立联系： 首先使用他们的名字：首先通过称呼他们的名字来体现个人风格。这会让电子邮件感觉更真诚、更受欢迎。 自我介绍：快速、友好地介绍自己。让他们知道您是谁以及您联系他们的原因，这样他们就知道他们来对地方了。 分享好东西：让他们知道他们可以期待什么。无论是令人兴奋的更新、独家内容还是特别优惠，都要强调其中对他们有什么好处。 指导他们下一步该做什么：包括一个简单的号召性用语。无论是查看您的网站还是在社交媒体上关注您，让他们轻松采取下一步行动。 保持简短：友好的消息更有可能被阅读和欣赏。避免用太多信息让他们不知所措。 这篇文章花了我 20 分钟来写，以使其有价值哈哈，我希望它有所帮助，并随时进行 AMA。    提交人    /u/Agreeable_Plane_128   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f611so/how_to_write_welcome_email/</guid>
-      <pubDate>Sat, 31 Aug 2024 23:52:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>为客户构建这个功能帮助我在短短 1 个月内赚取了 8.5 万美元的纯利润</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f60ava/building_this_for_a_client_helped_me_make_85k_in/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f60ava/building_this_for_a_client_helped_me_make_85k_in/</guid>
-      <pubDate>Sat, 31 Aug 2024 23:15:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>影子服务</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f5yy81/shadow_services/</link>
-      <description><![CDATA[免费 URL 重定向服务    提交人    /u/Shadowknight260   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f5yy81/shadow_services/</guid>
-      <pubDate>Sat, 31 Aug 2024 22:10:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>我花了 42 小时创建这个网站</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f5yw77/took_me_42_hours_to_create_this_website/</link>
-      <description><![CDATA[大约两周前，我对 webdev 一无所知，花了大约 42 个小时（包括学习技术堆栈的时间）来构建这个简单的网站 lifeistooshort.today，它可以生成一个壁纸，显示您几周内的剩余寿命。  几年前，当我看到其中一张“您的几周寿命”海报时，就一直想创建类似的东西。     提交人    /u/JoschuaBuilds   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f5yw77/took_me_42_hours_to_create_this_website/</guid>
-      <pubDate>Sat, 31 Aug 2024 22:07:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个“窃取”你竞争对手流量的网站</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f5yp7e/i_made_an_website_that_steals_traffic_from_your/</link>
-      <description><![CDATA[大家好，我创建了 SEOheister，因为我的一个朋友想付给一个人 1000 美元，让他复制其竞争对手的博客文章用于他的产品，我告诉他我可以制作一个可以做得更好的工具。 我说的“偷窃”是什么意思？从技术上讲，这不是偷窃，只是听起来很适合营销。 1）您提供您的网站 2）我从您的网站上抓取相关关键词，并抓取前 15 名 SEO 竞争对手 3）我对您的竞争对手在 SEO 上的排名、排名位置和方式进行深度扫描（简短解释：我抓取您竞争对手拥有的所有重要关键词，将它们与我在您的网站上找到的内容进行匹配，如果可能并且可访问，我会从他们那里获取一些博客内容，然后根据我所拥有的内容编写内容，使其可以与他们拥有的关键词相媲美）这样它仍然具有人情味并且可以避开谷歌人工智能内容追踪器。 每篇文章不到 2-3 分钟即可自动完成 所以基本上是一个内容作者，但在很多方面都更好，因为它在创建博客和文章时只考虑一件事，那就是超越竞争对手并从竞争对手那里获得流量。 只是对一些反馈或意见感兴趣。 提前致谢🫡    由   提交  /u/CaterpillarOk3509   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f5yp7e/i_made_an_website_that_steals_traffic_from_your/</guid>
-      <pubDate>Sat, 31 Aug 2024 21:58:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>制作了一个不会滑落的睡眠面罩。你们觉得怎么样？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f5xyuj/made_a_sleep_mask_that_doesnt_slip_off_what_do/</link>
-      <description><![CDATA[        提交人    /u/RayKetchum   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f5xyuj/made_a_sleep_mask_that_doesnt_slip_off_what_do/</guid>
-      <pubDate>Sat, 31 Aug 2024 21:24:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
