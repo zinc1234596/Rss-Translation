@@ -4,111 +4,111 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Sun, 01 Sep 2024 15:13:13 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Sep 2024 18:17:27 GMT</lastBuildDate>
     <item>
-      <title>我应该为我的副项目使用像 *.vercel.app 这样的域名吗？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f6gs40/should_i_use_a_domain_name_like_vercelapp_for_my/</link>
-      <description><![CDATA[我不确定非技术人员是否会相信这一点。但另一方面，我不确定在没有用户的情况下购买域名是否是个好主意     提交人    /u/Salty-D​​irection-1898   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f6gs40/should_i_use_a_domain_name_like_vercelapp_for_my/</guid>
-      <pubDate>Sun, 01 Sep 2024 15:12:43 GMT</pubDate>
+      <title>我制作了一个开源 Nginx 服务器仪表板/监视器，用于本地开发</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f6l1po/i_made_an_open_source_nginx_server/</link>
+      <description><![CDATA[        提交人    /u/cinwald   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f6l1po/i_made_an_open_source_nginx_server/</guid>
+      <pubDate>Sun, 01 Sep 2024 18:14:28 GMT</pubDate>
     </item>
     <item>
-      <title>学习 React 的一周⚛️</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f6gqum/one_week_of_learning_react/</link>
-      <description><![CDATA[9 天前我开始学习 React，在这 9 天里，我介绍了从 React 最基础到中级 React 概念的知识，例如我从 React 组件开始，如何构建它，最重要的是为什么要构建它以及为什么我们需要一个类似 React 的框架而不是首先使用原始 JavaScript，然后我介绍了 JSX、props 以及如何接收和传递 prop，React 的单向数据流，然后  条件渲染、&gt;React Fragment &gt;有条件地设置类 &gt;在 React 中处理事件 &gt; STATE &gt;如何使用状态，以及何时我们真正需要状态 &gt;更新状态 &gt;React 中的受控元素 &gt;prop 与状态 &gt;如何将 UI 分解为 React 组件 &gt;什么是 React 中的状态管理 &gt;获取状态 &gt;children prop &gt;使用 children prop 进行组件组合 .ok，这就是我在这 9 天对 React 的全部学习  我还创建了一些项目📂，来练习我学到的概念  一个简单的添加到购物车应用程序 一个健身房会员的 BMI 管理系统  谢谢💓    提交人    /u/Fantastic-Control18   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f6gqum/one_week_of_learning_react/</guid>
-      <pubDate>Sun, 01 Sep 2024 15:11:08 GMT</pubDate>
+      <title>在我的应用中添加了禅模式</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f6kzlk/added_zen_mode_to_my_app/</link>
+      <description><![CDATA[        提交人    /u/object-reference   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f6kzlk/added_zen_mode_to_my_app/</guid>
+      <pubDate>Sun, 01 Sep 2024 18:12:01 GMT</pubDate>
     </item>
     <item>
-      <title>我开发了一个网站拦截器，只有你使用 GitHub、Trello 和 Todoist 等工具完成实际任务后才会解锁</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f6g5dh/i_built_a_website_blocker_that_unlocks_only_after/</link>
-      <description><![CDATA[我经常发现自己在应该工作的时候上网分心，所以我创建了 FocusPal 来提供帮助。它可以阻止干扰，直到您完成一些实际工作。我很想听听你对这个概念的看法并获得一些反馈。提前谢谢！    提交人    /u/moniak40   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f6g5dh/i_built_a_website_blocker_that_unlocks_only_after/</guid>
-      <pubDate>Sun, 01 Sep 2024 14:45:39 GMT</pubDate>
+      <title>这位创始人将软件教练初创公司变成了一家以 300 万美元退出的公司</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f6kkq3/this_founder_turned_software_coaching_startup_to/</link>
+      <description><![CDATA[尼克·阿尔瓦 (Nick Alva) 分享了他如何白手起家创建并出售其创业公司 inskill 直至以 300 万美元退出的故事。  Inskill 帮助软件工程师建立他们的软技能，以改善他们的沟通和谈判方式 一些亮点包括  —从初级工程师到高级工程师 —软件工程师培训利基 —早期开设了一个拥有 2.1k 个订阅者的 YouTube 频道 —Inskill 的唯一创始人 —通过 YouTube 和 Instagram 进行营销 —运营成本为 120 美元 —第一年赚了 27 万美元 —以 300 万美元的价格出售了 Inskill —他的秘诀：学习、计划、寻求指导和知识、建立网络、建立受众、分享视频和创建内容 —受到罗伯特清崎、蒂姆费里斯、丹亨利、迈伦戈尔登和罗伯特格林作品的启发 您可以阅读完整版本在这里    由    /u/sky-builder  提交  [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f6kkq3/this_founder_turned_software_coaching_startup_to/</guid>
+      <pubDate>Sun, 01 Sep 2024 17:54:47 GMT</pubDate>
     </item>
     <item>
-      <title>我创建了一个完全使用客户端代码编辑视频的库（花了我 16 个月的时间）。希望得到您的反馈！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f6g4h2/i_built_a_library_for_editing_videos_with_code/</link>
-      <description><![CDATA[        由    /u/Maximum_Instance_401   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f6g4h2/i_built_a_library_for_editing_videos_with_code/</guid>
-      <pubDate>Sun, 01 Sep 2024 14:44:34 GMT</pubDate>
+      <title>我和女朋友每周都会请一天假来制作我们自己的益智电子游戏。这非常有趣，我们对项目的进展感到非常自豪！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f6kdlf/me_and_my_girlfriend_are_taking_one_day_off_from/</link>
+      <description><![CDATA[        由    /u/Lage_Bergman  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f6kdlf/me_and_my_girlfriend_are_taking_one_day_off_from/</guid>
+      <pubDate>Sun, 01 Sep 2024 17:46:01 GMT</pubDate>
     </item>
     <item>
-      <title>轻松免费地学习任何语言</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f6frvv/learn_any_language_without_effort_for_free/</link>
-      <description><![CDATA[两年前我从俄罗斯搬到了丹麦。我发现住在哥本哈根很难学丹麦语，因为每个人的英语都很好，而如果你不会说丹麦语就很难找到朋友。 我加入了一所公立语言学校，因为在居住的前五年学习丹麦语是免费的。我没学到很多东西，因为除了这所公立学校之外，没有人可以和我练习丹麦语。 我创建了一个应用程序，您可以在其中与已有的朋友交谈，并且你们都可以学习不同的语言，因为该应用程序会为您翻译。 这是您可以加入以尝试该应用程序的公共聊天室 https://app.fluent.im/invite/group/DRo6wHkP8cMb    提交人    /u/adventofelixir   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f6frvv/learn_any_language_without_effort_for_free/</guid>
-      <pubDate>Sun, 01 Sep 2024 14:29:31 GMT</pubDate>
+      <title>我开发了一款应用程序，用于比较英国杂货店的食品价格</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f6k5w2/i_built_an_app_for_comparing_grocery_prices_for/</link>
+      <description><![CDATA[      目前有 Aldi、Sainsburys、Tesco、Waitrose、Iceland、Asda、Ocado 和 Morrisons。我目前正在尝试添加 Lidl - 但这可能需要一些时间。 您可能想知道它与手推车有何不同，嗯 - 结果更相关，可以按类别和子类别进行过滤，包括花蜜和会员卡价格，并且我还提供了一个按最便宜或最佳价值进行过滤的选项。 您可以在playstore上找到它。让我知道你的想法！ https://preview.redd.it/pdfndmy4h8md1.jpg?width=1080&amp;format=pjpg&amp;auto=webp&amp;s=139a1ae3ef88c4c404a6384c569fd1288b0aa709 https://preview.redd.it/epcyhmy4h8md1.jpg?width=1080&amp;format=pjpg&amp;auto=webp&amp;s=279e66efa290ddb593f9388d84a1152af56571b8    提交人    /u/-_sometimes   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f6k5w2/i_built_an_app_for_comparing_grocery_prices_for/</guid>
+      <pubDate>Sun, 01 Sep 2024 17:36:32 GMT</pubDate>
     </item>
     <item>
-      <title>寻找合作伙伴来打造围绕移动机器人的产品。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f6ffkp/searching_for_partners_to_build_products_around/</link>
-      <description><![CDATA[  由    /u/shandy_bhaiya  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f6ffkp/searching_for_partners_to_build_products_around/</guid>
-      <pubDate>Sun, 01 Sep 2024 14:14:14 GMT</pubDate>
+      <title>通过触发通知来发出警报。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f6k2vd/alarm_by_triggering_a_notification/</link>
+      <description><![CDATA[        提交人    /u/Silent_Window848   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f6k2vd/alarm_by_triggering_a_notification/</guid>
+      <pubDate>Sun, 01 Sep 2024 17:32:55 GMT</pubDate>
     </item>
     <item>
-      <title>我在两天内建立了一个类似 Substack 的新闻通讯平台</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f6f8x2/i_built_a_substacklike_newsletter_platform_in_two/</link>
-      <description><![CDATA[      我最近在我的汽车对话社交网络中添加了新闻通讯功能。 我以为至少需要一周时间，但令人惊讶的是，第二天我就完成了！因此，让我分享我的经验并获取您的反馈。 项目概述： • 名称：Autohaven  • 重点：为普通受众分析和简化复杂的汽车技术趋势  • 技术栈：网站使用全栈 Ruby on Rails，电子邮件分发使用 Postmark。新闻稿是 100% 定制的。我首先在管理仪表板上撰写文章并发布。然后使用相同的管理仪表板编写新闻稿，选择要发送到的列表，为新闻稿添加不同的部分，附加链接，发送测试电子邮件，然后发布！  • 当前订阅者数量：400 主要功能：  每周深入探讨汽车技术 - 具有历史视角 一些用户要求使用相同功能撰写有关其汽车定制的文章，但目前只有我可以发布  我面临的挑战：  不断增长的订阅者列表 针对小众汽车技术主题优化 SEO  社区问题：  这里有人创建过成功的新闻通讯作为副项目吗？您是如何发展到第一个 10,000 封电子邮件的？  您如何在类似的基于内容的项目中实现货币化？  我欢迎您对该项目的任何反馈、建议或问题。如果您有兴趣查看，请访问以下链接 https://autohaven.io/autoculars/articles 提前感谢您的见解！ https://preview.redd.it/87xxjbumf7md1.png?width=2092&amp;format=png&amp;auto=webp&amp;s=606849f0506634de2269aefd1a607c75bd9778ac    提交人    /u/kibe_kibe   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f6f8x2/i_built_a_substacklike_newsletter_platform_in_two/</guid>
-      <pubDate>Sun, 01 Sep 2024 14:05:35 GMT</pubDate>
+      <title>大学一年级时使用 OpenAI 建立了一个副项目！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f6jz1h/built_a_side_project_using_openai_as_a_freshman/</link>
+      <description><![CDATA[大家好，我想说的是，我今天发布了我的项目的测试版！这是查看它的链接。 https://wise-ai-final.vercel.app/ InstaWise AI 是一个社交建议机器人，可以帮助用户解决他们可能遇到的任何社交问题或关系问题。它目前可以免费使用，明天，我将提供更多更新，允许用户查看他们的聊天记录并对前端进行一些更新。    提交人    /u/ninjaman5171   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f6jz1h/built_a_side_project_using_openai_as_a_freshman/</guid>
+      <pubDate>Sun, 01 Sep 2024 17:28:21 GMT</pubDate>
     </item>
     <item>
-      <title>您跟踪哪些指标来衡量您的 SaaS 初创企业的进展？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f6f0ea/what_metrics_do_you_track_to_measure_your_saas/</link>
-      <description><![CDATA[大家好，我正在为推出我的新 SaaS 产品 YourPod.app 做准备。随着发布日的临近，我开始更多地思考如何衡量我们的成功并跟踪发布后的进度。对于那些经历过这个过程的人，你会跟踪哪些指标来衡量你的 SaaS 初创公司的表现如何？    提交人    /u/Dry-Surround-1680   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f6f0ea/what_metrics_do_you_track_to_measure_your_saas/</guid>
-      <pubDate>Sun, 01 Sep 2024 13:55:11 GMT</pubDate>
+      <title>CLI 来管理和自动设置 git 用户名和电子邮件</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f6jkh8/cli_to_manage_and_automatically_set_git_username/</link>
+      <description><![CDATA[所以，我想分享一下我的一个小项目。我主要是为了自己做这个项目，但我想你们中的一些人也许也会遇到类似的困难。 您是否在同一台计算机上拥有来自多个来源的 git-repos？如果是这种情况，您可能还拥有多个配置：不同的电子邮件和用户名，具体取决于 repo 是在 github、私人 gitlab 实例还是其他地方。手动设置这些属性可能非常累人 - 特别是如果您使用私人电子邮件保护并且拥有需要设置的 noreply 电子邮件之一。 *git-profile* 是一个简单的 CLI，它将您的配置与来源一起存储，并在调用它时自动查找并为您设置正确的配置 - 通过查看当前项目的来源。目前没有太多文档，请致电 git-profile 了解更多信息。一旦你掌握了它，使用就不成问题了。 该项目是开源的，可以在 GitHub 上找到。 欢迎留下一些反馈和建议！    提交人    /u/Shieldine   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f6jkh8/cli_to_manage_and_automatically_set_git_username/</guid>
+      <pubDate>Sun, 01 Sep 2024 17:10:56 GMT</pubDate>
     </item>
     <item>
-      <title>我通过附加组件创建了自己的 Android 应用程序：FeedUp - 内容阅读器。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f6eqq6/i_created_my_own_android_app_feedup_content/</link>
-      <description><![CDATA[      https://preview.redd.it/xy9edxjjb7md1.png?width=3213&amp;format=png&amp;auto=webp&amp;s=8c240c74b42b5a2a67cc7b1f03e1b6db564c06f1 大家好，  我很高兴与大家分享我们全新的应用 FeedUp，一款适用于 Android 的内容阅读器，可通过附加组件将提要或网站转换为易于访问的选项卡，激活、创建它们并阅读您关心的内容。  为什么选择 FeedUp？ FeedUp 专为希望以更智能的方式管理其数字内容的用户而设计。无论您是新闻迷、休闲读者还是喜欢发现新内容的人，FeedUp 都能通过其广泛的自定义选项和强大的功能满足您的需求。该应用旨在增强您的阅读体验，让您更轻松地获取信息和娱乐。 功能​ ► 自定义您的体验： ● 主应用颜色 ● 附加组件颜色、提要、选项卡顺序和其他选项 ● 内置网络浏览器 ● 夜间模式  ► 创建和共享附加组件和网站 使用 PLUS 版本，您可以创建自己的附加组件并通过 URL 与任何人共享。  ► 进行快速网页搜索 使用主页对任何主题进行快速网页搜索 ► 搜索、过滤和收藏提要： 搜索、按日期过滤，并将任何提要添加到收藏夹 ► 发现新的兴趣来源 在此部分中探索新提要并发现符合您兴趣的内容。 预注册​ 想成为第一个获得该应用程序的人吗？点击下面的按钮在 Play Store 上进行预注册  在 Google Play 上进行预注册 如果您想充分利用并支持该项目，Kickstarter 项目正在运行：​ https://www.kickstarter.com/projects/chrishoa/feedup-content-reader​ 这是我的第一个重生项目，我投入了大量的时间和精力。任何建议或意见都将不胜感激。    提交人    /u/climaxcss   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f6eqq6/i_created_my_own_android_app_feedup_content/</guid>
-      <pubDate>Sun, 01 Sep 2024 13:42:28 GMT</pubDate>
+      <title>我恢复了我两年前的黑客马拉松副项目，并刚刚在 Product Hunt 上发布了它！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f6ipys/i_resumed_my_twoyearold_side_project_for_a/</link>
+      <description><![CDATA[对于 RevenueCat ship-a-ton，我重新开始了两年前正在开发的一款老游戏。 Letler 是一款简单的益智游戏，可以挑战您的词汇量和推理能力。您每天都会猜一个新单词，并有有用的字母提示来指导您。  如果您遇到困难，请使用提示，并与朋友分享您的结果！ 如果您喜欢这款游戏，请随时投赞成票！ https://www.producthunt.com/posts/letler-spin-and-guess    提交人    /u/MarioIan   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f6ipys/i_resumed_my_twoyearold_side_project_for_a/</guid>
+      <pubDate>Sun, 01 Sep 2024 16:35:07 GMT</pubDate>
     </item>
     <item>
-      <title>谁在建设社会公益项目？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f6ehih/whos_building_a_project_for_social_good/</link>
-      <description><![CDATA[如果您正在构建用于社会公益的产品或向慈善机构捐款，请在下面链接！ 我对造福人民的产品很感兴趣，并希望了解您的产品！    提交人    /u/Practical_Manner_380   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f6ehih/whos_building_a_project_for_social_good/</guid>
-      <pubDate>Sun, 01 Sep 2024 13:29:58 GMT</pubDate>
+      <title>牢记你的商业计划：两个项目的故事</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f6hx1s/keep_your_business_plan_in_mind_a_tale_of_two/</link>
+      <description><![CDATA[我想谈谈我们在兴奋地构建项目时经常忽略的东西：商业计划。您不必从一开始就把一切都想清楚，但在开发过程中牢记这一点至关重要。 举个例子：我曾经做过一个昵称为“好莱坞”的项目，因为它具有大片创意的所有浮华和魅力。每个人都喜欢它，至少看起来是这样。然而，它最终成为了票房惨败，不是在用户吸引力方面，而是在可行性方面。我忘记回答的关键问题是，“谁会真正为此买单？” 从中吸取教训，我开始了一项新事业——BeeDone。这是一款由人工智能驱动的游戏化生产力应用程序，这一次，我从一开始就放弃了通过广告获利的想法。这个决定帮我节省了大量的精力，让我可以专注于对项目可持续性真正重要的事情。 所以，记得思考事情的商业方面。你的客户是谁？你将如何维持这个项目？有时候，最简单的模型是最有效的。 祝你构建愉快，让我们一起创造不仅很酷，而且具有商业智慧的副项目吧！    提交人    /u/yelkamel   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f6hx1s/keep_your_business_plan_in_mind_a_tale_of_two/</guid>
+      <pubDate>Sun, 01 Sep 2024 16:01:04 GMT</pubDate>
     </item>
     <item>
-      <title>使用 driver.js 进行产品导览</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f6djjj/use_driverjs_for_you_product_tour/</link>
-      <description><![CDATA[  由    /u/FoxBeneficial8102  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f6djjj/use_driverjs_for_you_product_tour/</guid>
-      <pubDate>Sun, 01 Sep 2024 12:44:27 GMT</pubDate>
+      <title>🪧 我建立了一个可以与 TODO 评论和 markdown 配合使用的看板</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f6hfii/i_built_a_kanban_board_that_works_with_todo/</link>
+      <description><![CDATA[我喜欢用 markdown 记笔记和写作，但讨厌在工作中切换到另一个应用程序来组织我的 TODO 列表，所以我构建了一个可以使用 TODO 注释和 markdown 的看板。现在我总是在上下文中。 imdone    提交人    /u/saxmanjes   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f6hfii/i_built_a_kanban_board_that_works_with_todo/</guid>
+      <pubDate>Sun, 01 Sep 2024 15:40:34 GMT</pubDate>
     </item>
     <item>
-      <title>色相调色板</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f6dewi/hue_palette/</link>
-      <description><![CDATA[🚀 很高兴推出 Hue Palette！轻松为您的设计项目创建自定义色调调色板，并在几秒钟内生成 Tailwind CSS 配置代码。非常适合设计师和开发人员！ Hue Palette ：https://www.hue-palette.com/  Github ：https://github.com/ridemountainpig/hue    提交人    /u/ridemountainpig   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f6dewi/hue_palette/</guid>
-      <pubDate>Sun, 01 Sep 2024 12:37:45 GMT</pubDate>
+      <title>我制作了一个命令行密码管理器</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f6hfic/i_made_a_commandline_password_manager/</link>
+      <description><![CDATA[您可以将其称为 sfnx 或 sfnxterm。它有一个简单的 Typer 接口。使用 pyperclip 进行剪贴板操作，以及使用 SQLModel ORM 与数据库交互。argon2-cffi 和 cryptography 用于加密-解密功能。​​sfnx 不存储您的主密码（您需要访问所有其他密码的密码）。而是通过尝试解密验证密钥（如您的姓名或别名）来测试每个主密码尝试。使用 SQLite（因为我觉得它与 Python 最兼容）。 它是完全开源的，并向合作者或贡献者开放。安装说明位于我的存储库的 README.md 中以及 PyPI 注册表（v2.1 现已发布）中。 这是许可证。 如果它绝对是狗屎或者你喜欢它，请不要忘记为该存储库加注星标，并在评论中告诉我你的使用体验。 谢谢大家！    提交人    /u/SkywalkerPadawan512   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f6hfic/i_made_a_commandline_password_manager/</guid>
+      <pubDate>Sun, 01 Sep 2024 15:40:33 GMT</pubDate>
     </item>
     <item>
-      <title>法学硕士 (LLM) 的细微差别</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f6cwv3/nuances_with_llms/</link>
-      <description><![CDATA[也许只是我一个人这样，但今天在构建自己的 LLM 界面时，有些东西引起了我的注意（我想避免支付超出应付的费用）。  使用官方 Claude 或 ChatGPT 界面时，文本会逐个字母生成，让您觉得这里面真的有想法。 就像人类做的那样。 实际上，它只是在准备好时生成响应。 就像一台机器一样。 从最终用户的角度来看，非常微妙但可能很重要。    提交人    /u/Escade1337   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f6cwv3/nuances_with_llms/</guid>
-      <pubDate>Sun, 01 Sep 2024 12:09:35 GMT</pubDate>
+      <title>免费调整图像大小！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f6h7gj/resize_your_images_for_free/</link>
+      <description><![CDATA[我发布了此扩展程序，用于免费调整图像的高度、宽度和圆角。如果您想使用它，我在下面留下了链接，谢谢！ https://chromewebstore.google.com/detail/upresize-resize-round-and/dedhhonndhpolmfaficejlcahmcgaell?h​​l=pt-br    提交人    /u/theux_17   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f6h7gj/resize_your_images_for_free/</guid>
+      <pubDate>Sun, 01 Sep 2024 15:30:51 GMT</pubDate>
     </item>
     <item>
-      <title>ChessLock - 允许你使用棋步作为密码的扩展程序</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f6ct5r/chesslock_extension_that_allows_you_to_use_chess/</link>
-      <description><![CDATA[        提交人    /u/N014P   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f6ct5r/chesslock_extension_that_allows_you_to_use_chess/</guid>
-      <pubDate>Sun, 01 Sep 2024 12:03:36 GMT</pubDate>
+      <title>您如何评价这个工具简化您的计算机任务的能力？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f6h54x/how_would_you_rate_this_tool_to_simplify_your/</link>
+      <description><![CDATA[大家好，Side Project 社区！ 我是一名计算机科学毕业生，我想与大家分享一个我一直在开发的目前免费的工具，它对任何想要简化计算机上的任务的人都很有用。我想听听你对它的看法，以及改进它的方法。它叫做Autocon。 现在，我不知道是否存在类似的工具（我直接跳到这个项目，因为它看起来很酷），但不管怎样，开发它对我来说很有趣，同时，它对很多人来说非常方便。 什么是 Autocon？Autocon 是一个多功能的多工具应用程序，包含许多有用的功能，旨在自动化和加速 PC 上的各种操作。无论您是在处理重复的点击输入、管理跨多个设备的输入、需要保护您的桌面还是许多其他问题，此工具都可以帮助您。Autocon 目前处于早期开发阶段，更多有用的功能正在开发和测试。 您甚至可以请求任何您认为可以为其增加价值的东西，更多信息见下文。 当前的主要功能（一些仍在开发中）：  高级自动点击器：如果您经常发现自己需要重复点击或键入，并且想要一些可以自动执行整个任务的功能，那么此功能可以为您做到这一点。 多设备控制：只需一组键盘和鼠标即可管理多个设备，从而减少了在不同输入设备之间切换的需要。 密码保护的光标锁定：对于那些需要额外安全性的用户，此功能会将您的光标锁定在适当位置或限制其访问屏幕的特定区域。 事件日志：一种跟踪未经授权的光标移动的方法，这可能对安全和监控目的都有帮助。  为什么它可能是有帮助：我相信 Autocon 可能对我们社区中那些需要减轻身体压力或从快速自动执行重复任务中受益的人特别有用。界面很简单，我试图设计所有用户都可以访问的功能，无论他们的身体能力如何。 参与进来！该软件尚未准备好部署，您可以帮助它。只需通过其网站 [ https://drimiteros.github.io/Autocon.github.io/ ] 使用您的电子邮件将其添加到愿望清单，或通过请求功能即可。看到人们发现这个应用程序的价值，会让我继续努力。 感谢您考虑它！开发此工具的目的是让数字任务更容易、更易于每个人访问。我希望它能对你们中的许多人有所帮助！ 您如何评价此工具来简化您在计算机上的任务？    提交人    /u/_slDev_   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f6h54x/how_would_you_rate_this_tool_to_simplify_your/</guid>
+      <pubDate>Sun, 01 Sep 2024 15:28:06 GMT</pubDate>
     </item>
     <item>
-      <title>一键解锁任何聊天机器人的语音聊天 - 推出 Summme v1.0</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f6cqy2/unlock_voice_chat_for_any_chatbot_with_1click/</link>
-      <description><![CDATA[        提交人    /u/SamEdosa   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f6cqy2/unlock_voice_chat_for_any_chatbot_with_1click/</guid>
-      <pubDate>Sun, 01 Sep 2024 12:00:20 GMT</pubDate>
+      <title>有人利用 YouTube 内容创建者来营销副项目吗？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f6h0ko/has_anyone_used_youtube_content_creators_for/</link>
+      <description><![CDATA[是否有人将 YouTube 上的推广内容用作其副业的营销策略？我开发了一个自托管 CRM (growcrm.io)，并相信它非常适合拥有自由职业者、开发人员、设计师等受众的 YouTube 频道。 我正在考虑定位拥有大约 10-20k 个订阅者的小型频道。 所以，我的问题是：  与这些创作者建立联系的最佳方式是什么？是否有市场，还是冷门推广是可行的方法？ 是否有人对这种营销方式有过积极的经验？ 预计要支付多少钱  我很感激任何建议或见解！    提交人    /u/nextloopdevs   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f6h0ko/has_anyone_used_youtube_content_creators_for/</guid>
+      <pubDate>Sun, 01 Sep 2024 15:22:48 GMT</pubDate>
     </item>
     </channel>
 </rss>
