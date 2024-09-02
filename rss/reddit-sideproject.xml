@@ -4,13 +4,76 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Sun, 01 Sep 2024 21:12:42 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Sep 2024 01:05:55 GMT</lastBuildDate>
     <item>
-      <title>隐藏链接你明白了吗？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f6p86t/hidden_links_do_you_get_it/</link>
-      <description><![CDATA[大家好， 我很好奇您对处理 JavaScript 和 CSS 文件的新方法的看法。 目前，我们使用像这样的简单 URL： https://folder.visitortrust.com/demo/my.css https://folder.visitortrust.com/demo/my.js 如果我们使用点击时看似无法访问的链接，但仍可以在您的网站上运行以调用 Js 和 css，会怎样？  例如： 示例 JS：https://folder.visitortrust.com/securefiles/pia8e2/p/javascript_j（将导致页面找不到） 示例 CSS：https://folder.visitortrust.com/securefiles/pia8e2/p/css_c（将导致页面找不到） 您认为这些类型的 JS 和 CSS 隐藏链接对开发人员有用吗？    提交人    /u/devtoolsblocker   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f6p86t/hidden_links_do_you_get_it/</guid>
-      <pubDate>Sun, 01 Sep 2024 21:08:06 GMT</pubDate>
+      <title>本地目录业务的样板</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f6u96o/a_boilerplate_for_local_directory_businesses/</link>
+      <description><![CDATA[我想加入样板潮流已经有一段时间了。这是一种很好的入门方式，可以围绕你的工作建立一些东西。 多年来，我一直在建立目录网站，我一直认为本地目录网站表现最好。 什么类型的本地目录网站？ -X 镇的餐馆 -X 镇的酒吧 等等。 这些网站似乎都表现不错。竞争低，搜索流量好 + 你甚至可以让企业支付列表费（不要收取巨额费用）。 所以我继续建立它们。   在 excel 电子表格中收集信息  构建前端  从 csv 添加信息  添加图片  使用精确匹配域启动  添加到本地目录  等待它们排名。   这让我开始思考。 我可以做到这一点。  几天后，我终于能够构建它了。  它被称为 ShipLocal，它可以在几分钟内从 csv 为您构建一个完整的目录站点。  我仍处于预发布阶段，但应该会在几天内向我的付费用户推出。 如果您觉得这很有趣，请查看它，当我发布时这个价格不会保持这样。  查看 ShipLocal     由    /u/yomatt41 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f6u96o/a_boilerplate_for_local_directory_businesses/</guid>
+      <pubDate>Mon, 02 Sep 2024 01:04:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>经过一个月的辛勤工作，我准备好接受批评了</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f6u119/after_a_good_month_of_work_im_ready_to_be_roasted/</link>
+      <description><![CDATA[我觉得我的故事构建应用程序已经不错了，我希望你们中的一些人会喜欢它。 很想得到这个社区诚实和坦率的反馈。 http://vvd.ai/    提交人    /u/tryvividapp   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f6u119/after_a_good_month_of_work_im_ready_to_be_roasted/</guid>
+      <pubDate>Mon, 02 Sep 2024 00:53:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>你会用它吗？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f6s7fz/would_you_use_it/</link>
+      <description><![CDATA[        提交人    /u/FlickeryPotato   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f6s7fz/would_you_use_it/</guid>
+      <pubDate>Sun, 01 Sep 2024 23:22:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>第一个应用程序——支付龙！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f6s67d/first_app_pay_the_dragon/</link>
+      <description><![CDATA[大家好，我的第一个应用已获准进入 Google Play 商店。 这是一款生产力应用，可让您完成 3 项简单的日常任务（付款），从而帮助您改善生活。 如果您使用的是 Android，请下载它并留下您的诚实反馈。 Play 商店：https://play.google.com/store/apps/details?id=com.pique.dragon Apple：应在一周内提交审核。    提交人    /u/Tru_Lie   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f6s67d/first_app_pay_the_dragon/</guid>
+      <pubDate>Sun, 01 Sep 2024 23:20:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>适合新手的可编程无人机</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f6s4lz/programmable_drones_for_noobies/</link>
+      <description><![CDATA[        提交人    /u/QuinLong22   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f6s4lz/programmable_drones_for_noobies/</guid>
+      <pubDate>Sun, 01 Sep 2024 23:18:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们创建了一个开源工具，用于为您的无服务器 (Firebase) Web 应用添加协作功能</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f6rh4e/we_created_an_open_source_tool_to_add/</link>
+      <description><![CDATA[我们构建了 y-fire，它是一款基于 Firestore (Firebase) 和 WebRTC 的提供程序，专为无服务器基础架构而构建，可为您的 Firebase 应用程序提供实时功能。它消除了对对等发现的单独服务器的需求，并使用 Firebase 和 WebRTC 在用户之间交换实时数据。y-fi​​re 非常高效，并试图减少您的 Firebase 调用。    提交人    /u/podraven   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f6rh4e/we_created_an_open_source_tool_to_add/</guid>
+      <pubDate>Sun, 01 Sep 2024 22:48:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>在广告上花了 300 多美元，但没有注册——我做错了什么？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f6r4b9/spent_over_300_on_ads_but_no_sign_ups_what_am_i/</link>
+      <description><![CDATA[  由    /u/tripsaver-me  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f6r4b9/spent_over_300_on_ads_but_no_sign_ups_what_am_i/</guid>
+      <pubDate>Sun, 01 Sep 2024 22:31:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Freestyle - 每日押韵的文字游戏</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f6qrt6/freestyle_a_daily_rhyming_word_game/</link>
+      <description><![CDATA[  由    /u/taqkarim0  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f6qrt6/freestyle_a_daily_rhyming_word_game/</guid>
+      <pubDate>Sun, 01 Sep 2024 22:16:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了一个网站，供开发人员分享技术教程/文章以及社区更新</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f6q1n2/i_made_a_site_for_devs_to_share_tech/</link>
+      <description><![CDATA[嘿，在过去的几个月里，我开发了一个网站，允许用户分享特定于软件的教程和文章。 https://kintuscloud.com/ 我厌倦了按照教程操作，然后出现了一个小错误，它会带你进入一个 3 个小时的兔子洞，并发现这个错误是代码中的一个错误参数，我绝对没有复制和粘贴。在我的网站上，你可以询问有关特定代码块的问题，并直接从作者那里得到答案，或者由社区的其他成员回答。 我希望将来能在网站上专门为开发人员构建更多功能！ 无论如何，创建和阅读教程/文章都是免费的。期待任何反馈并发展社区以创建一些内容。    提交人    /u/Greenwood672   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f6q1n2/i_made_a_site_for_devs_to_share_tech/</guid>
+      <pubDate>Sun, 01 Sep 2024 21:44:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>户外玩耍的应用程序</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f6plu1/an_app_for_playing_outside/</link>
+      <description><![CDATA[大家好！我一直在开发一款移动应用，将户外运动变成视频游戏。我们的目标是为人们提供一款视频游戏，让他们锻炼身体、户外运动和与朋友一起玩耍。这款应用名为 n&#39;seek，到目前为止，我们已经将 tag 变成了视频游戏。使用我们的应用，您可以标记您的朋友，在地图上查看他们的位置，并跟踪您的统计数据。我们仍处于测试阶段，但如果您想尝试一下，您可以在 App Store 上找到它：https://apps.apple.com/ca/app/nseek-social-running-game/id6449874017 非常希望听到您的反馈。谢谢！    由   提交  /u/Adventurous_Wave_478   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f6plu1/an_app_for_playing_outside/</guid>
+      <pubDate>Sun, 01 Sep 2024 21:24:41 GMT</pubDate>
     </item>
     <item>
       <title>ViewOn - AI视频网站审核员</title>
@@ -46,69 +109,6 @@
       <description><![CDATA[  由    /u/Puzzleheaded-Run8264  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1f6nqsj/the_ultimate_guide_to_the_best_iptv_service/</guid>
       <pubDate>Sun, 01 Sep 2024 20:06:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>最佳 IPTV 提供商 Reddit 2021-2024| IPTV 订阅|最佳 IPTV|IPTV 提供商|IPTV 提供商|IPTV 服务|最佳 IPTV 服务|IPTV 服务|IPTV|最佳 IPTV 提供商|IPTV 最佳|IPTV 订阅|最佳 IPTV 服务|最佳 IPTV 订阅|优质 IPTV|最佳 IPTV 2024|最佳 IPTV 提供商</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f6npqo/best_iptv_provider_reddit_20212024_iptv/</link>
-      <description><![CDATA[  由    /u/Background-Drop3938  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f6npqo/best_iptv_provider_reddit_20212024_iptv/</guid>
-      <pubDate>Sun, 01 Sep 2024 20:05:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>我建立了一个创建指导学习路径的平台</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f6no22/i_built_a_platform_for_creating_guided_learning/</link>
-      <description><![CDATA[作为一名软件工程师，我的朋友和家人经常问我如何“学习编码”或开始编码。我总是不得不给他们写一封电子邮件，其中包含一些资源和链接，以帮助他们入门，但我想要更全面的东西。我觉得没有一种很好的方法可以以我想要的方式呈现材料。  我最终编写了一个新平台，允许专家创建和发布有关各种主题的指南。然后，学习者和用户可以根据这些指南创建跟踪器，以跟踪他们的进度。 以下是主页和您可以创建的示例：https://smeeguides.com/ 示例：https://smeeguides.com/u/smeeguides/example-guides 这是一个更“真实世界”的通过我写的软件工程指南示例 https://smeeguides.com/u/anthony/software-engineering/become-a-software-engineer-from-scratch 请注意，我没有从网站、链接、课程、书籍等赚到任何钱。    提交人    /u/SpicyPizza1861   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f6no22/i_built_a_platform_for_creating_guided_learning/</guid>
-      <pubDate>Sun, 01 Sep 2024 20:03:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>我使用视觉语言模型（PDF、URL、文档等）创建了一个用于大规模 AI 文档解析的库</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f6n0tj/i_made_a_library_for_ai_document_parsing_at_scale/</link>
-      <description><![CDATA[我终于对所有单元测试充满信心了，所以我想和大家分享我的开源项目 我会简短地说：ThePipe 是一个使用视觉语言模型 (VLM) 进行大规模智能文档抓取的软件包。它适用于数十种文件类型。与传统的抓取工具不同，ThePipe 可以很好地处理扫描质量较差的 PDF、高度复杂的视觉效果和格式不规则的表格。 感谢您花时间查看它！GitHub：https://github.com/emcf/thepipe    提交人    /u/Confident-Honeydew66   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f6n0tj/i_made_a_library_for_ai_document_parsing_at_scale/</guid>
-      <pubDate>Sun, 01 Sep 2024 19:37:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>新的 CRM 工具：寻求反馈和想法！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f6mndw/new_crm_tool_seeking_feedback_and_ideas/</link>
-      <description><![CDATA[嗨， 我最近推出了一款 CRM 工具，旨在帮助小型企业和自由职业者更有效地管理客户关系。这是一款轻量级且直观的工具，可在 Gmail 中作为 Chrome 扩展程序使用，旨在避免传统 CRM 常见的臃肿问题。 我并不是来宣传的，但我非常重视大家的任何反馈。如果您有时间，请随时查看并分享您的想法。哪些功能会让它真正对您有用？您当前的 CRM 设置中是否存在您希望解决的痛点？ 这是链接：teamopipe.com 提前感谢您的任何见解或建议！您的意见将对让这个工具更好地为每个人提供帮助。   由    /u/CRM_Guru_Greg  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f6mndw/new_crm_tool_seeking_feedback_and_ideas/</guid>
-      <pubDate>Sun, 01 Sep 2024 19:21:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>👋 与 Bugman 一起向你的产品经理说再见！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f6mez1/say_goodbye_to_your_product_manager_with_bugman/</link>
-      <description><![CDATA[      Bugman 是一个将用户反馈转化为可操作见解的插件。无需 PM - Bugman 会为您完成繁重的工作！ 自动收集用户反馈和匿名元数据，并使用它来创建可操作的错误报告和功能请求。 无需与客户来回沟通以获取所需信息，从而节省时间。 🔗https://bugman.ai    提交人    /u/FragrantBudget6948   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f6mez1/say_goodbye_to_your_product_manager_with_bugman/</guid>
-      <pubDate>Sun, 01 Sep 2024 19:11:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>已推出：我的新 CRM 工具 (MVP)！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f6mdh3/launched_my_new_crm_tool_mvp/</link>
-      <description><![CDATA[大家好，Reddit 社区， 我很高兴宣布推出我的新 CRM 工具！这个轻量级且直观的平台旨在帮助小型企业和自由职业者有效地管理他们的客户关系，而无需像传统 CRM 那样臃肿。 https://crm.webilex.net/login 我很乐意听到您的反馈！请随时查看，并告诉我您的想法。 感谢您的支持！    提交人    /u/Jumpy_Store_547   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f6mdh3/launched_my_new_crm_tool_mvp/</guid>
-      <pubDate>Sun, 01 Sep 2024 19:10:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>帮我从这个列表中选择一个新的副项目</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f6mclh/help_me_choose_a_new_side_project_from_this_list/</link>
-      <description><![CDATA[在这里读到一篇帖子，这是很好的建议 - 不要去面试和通常的产品验证路线，实际上要从自己的问题入手，所以我开始写下真正让我恼火的事情，然后它就很容易出来了。  对这些起点的反馈会很棒。 电子邮件 - 对电子邮件进行排序或应用过滤器需要花费太多时间。电子邮件需要提升到一个新的水平。  密码 - 对许多人来说，密码管理器意味着您依赖第三方软件。有没有更简单、更安全的身份验证方式。 食物 - 决定每天晚上为家人做什么菜来平衡营养和成本是如此无聊。 书签 - 我有数百个文件夹和链接，很难管理。我仍然只使用 Google 来查找我的一些书签。  日历 - 日历和日程安排在提醒和管理我的时间方面仍然不够好。当然，这可以改进，变得非常简单和有效。  财务 - 我的钱花在哪里，轻松管理和预测预算，让您高枕无忧。这些预算应用程序甚至计划器都很糟糕。  职业 - 当你 40 岁时职业生涯结束，而你没有实现你的想法时，如何获得方向并重新点燃火焰。     提交人    /u/sfox43   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f6mclh/help_me_choose_a_new_side_project_from_this_list/</guid>
-      <pubDate>Sun, 01 Sep 2024 19:09:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人会对可以免费下载可编辑简历模板的网站感兴趣吗？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f6lz99/would_anyone_be_interested_in_a_website_where_you/</link>
-      <description><![CDATA[最近我需要一个可编辑的简历模板，但发现没有简单的方法可以做到这一点。要么付费，要么创建一个帐户才能下载模板。我不想这样做。我只想要一个该死的 Word 格式文件来添加我的经验。  还有人对这样的网站感兴趣吗？    提交人    /u/geoxsp   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f6lz99/would_anyone_be_interested_in_a_website_where_you/</guid>
-      <pubDate>Sun, 01 Sep 2024 18:53:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>我建立了一个更智能的求职申请追踪器——推出 OpportuniTrack！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f6lirz/i_built_a_job_application_tracker_but_smarter/</link>
-      <description><![CDATA[      3 年前的今天，我搬到了美国，感受到了手动跟踪求职应用程序的艰辛。因此，我开发了 OpportuniTrack — 一款为您组织求职的应用程序。📈 让我们让求职变得更容易！🙌 立即加入候补名单！    提交人    /u/james_shah   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f6lirz/i_built_a_job_application_tracker_but_smarter/</guid>
-      <pubDate>Sun, 01 Sep 2024 18:34:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
