@@ -4,7 +4,63 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Mon, 02 Sep 2024 03:15:58 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Sep 2024 06:21:11 GMT</lastBuildDate>
+    <item>
+      <title>考虑出售我的应用程序。过去 4 年，它赚了 11 万美元，而运营成本不到 1000 美元</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f6zkpk/thinking_of_selling_my_app_it_has_made_110k_in/</link>
+      <description><![CDATA[我开发了一个 Laravel 应用程序（自托管 CRM），并通过 Envato 市场销售它。我知道人们更容易销售 SaaS 类型的应用程序，所以我想知道是否有可能销售一次性购买的应用程序。 一些简要的背景  我是唯一的开发者 除了每月 20 美元的服务器外，没有运行成本 该应用程序有一个网站，我带来了不错的流量（但作为市场上列出的产品，绝大多数流量来自市场 它还有一个白标版本，允许任何人启动自己的 SaaS CRM 收入是可验证的  我的问题  销售这样的产品是否可行（考虑到买家需要成为开发人员或聘请开发人员进行持续的产品开发和维护） 我希望获得多少  为了不违反任何发布规则，我不会添加产品URL，但可以通过查看我的个人资料/帖子轻松找到它    提交人    /u/nextloopdevs   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f6zkpk/thinking_of_selling_my_app_it_has_made_110k_in/</guid>
+      <pubDate>Mon, 02 Sep 2024 06:02:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>文章阅读应用</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f6zhu0/article_reading_app/</link>
+      <description><![CDATA[大家好！我和一群朋友聚在一起做这个业余项目。源于个人需要能够在走路、跑步或开车时收听书面文章。当然，有声读物和播客仍然占据了我大部分的收听时间，但时不时地会出现一篇非常有趣的短篇或长篇文章，我真的很想读，但没有时间坐下来以文本格式阅读。该应用​​程序使用高级 AI 语音，带有语调、句子之间的呼吸等。非常感谢您的反馈。Android 和 iOS 版本可在 www.articlereader.ai 上获得 - 有一个免费版本，有 30 分钟的音频，还有付费版本，可以使用更长时间。干杯！     由   提交 /u/norad73   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f6zhu0/article_reading_app/</guid>
+      <pubDate>Mon, 02 Sep 2024 05:57:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Shadcn 表单生成器</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f6ze4o/shadcn_form_builder/</link>
+      <description><![CDATA[https://reddit.com/link/1f6ze4o/video/tsxwa4vd4cmd1/player 🚀 刚刚构建了一个表单生成器，让您无需编写一行代码即可创建表单！🛠️ 由 ShadCN 组件和 Zod 提供支持以进行验证。只需设计您的表单，复制代码并将其粘贴到您的项目中即可。 在视频中查看它的工作原理！🎥 你会用它吗？    提交人    /u/Spiritual-Rub6109   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f6ze4o/shadcn_form_builder/</guid>
+      <pubDate>Mon, 02 Sep 2024 05:51:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>测试和验证想法</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f6z5ld/testing_and_validating_ideas/</link>
+      <description><![CDATA[你们目前如何测试/验证自己的想法？你们用什么来制作登陆页面？    提交人    /u/Diligent_Response_30   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f6z5ld/testing_and_validating_ideas/</guid>
+      <pubDate>Mon, 02 Sep 2024 05:35:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tubed.pro - 总结和分析 YouTube 视频（为内容消费者节省时间）</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f6yl3l/tubedpro_summarize_and_roast_youtube_videos/</link>
+      <description><![CDATA[嘿 Reddit！👋  我是 Rocky，我很高兴与大家分享我最新的业余项目：一个由人工智能驱动的工具，旨在帮助我们更快地消费 YouTube 内容！  如果您厌倦了在冗长的视频上浪费时间，那么这可能是您一直在寻找的游戏规则改变者。 🚀 它的作用：  YouTube 视频摘要：我们的工具可以删除多余的内容，为任何视频提供简洁的摘要。 新的烘焙功能：使用 AI 生成的视频内容烘焙为您的观看体验增添一些幽默。 处理长视频：无论是 10 分钟的快速教程还是 3 小时的播客，它都可以总结所有内容。  ⚙️ 工作原理：  粘贴 YouTube URL：简单明了。 （或安装 Chrome 扩展程序以便快速访问） 使用 GTP4o-mini 进行 AI 处理：我们先进的 AI 引擎可处理视频内容。 获取您的摘要和吐槽：在几分钟内即可收到简短、清晰的摘要和可选的吐槽。  ⏱️ 为什么它可以节省您的时间：  时间效率：在我们的测试中，30 分钟的视频被压缩为 2 分钟的摘要。节省了 28 分钟！ 适用于忙碌的专业人士和普通观众：无论您是为了工作而做研究，还是只想了解热门视频，此工具都旨在为您节省时间。  🛠️ 技术堆栈：  Chrome 扩展程序：使用 PlasmoHQ 构建，可无缝集成到您的浏览器中。 网站和API：使用 Next.js 开发并托管在 Vercel 上，以实现快速可靠的性能。  💡 主要特点：  人工智能视频摘要：从任何 YouTube 视频中获取要点。 幽默吐槽：使用我们的可选吐槽功能为您的视频摘要增添乐趣。 浏览器扩展：直接从您的浏览器轻松访问，随时随地进行摘要。  🤔 我为什么创建这个工具： 当关键点可以在推文中分享时，我对在冗长的 YouTube 视频上花费太多时间感到沮丧。我构建了这个工具来解决这个问题，我相信它可以使任何珍惜时间的人受益。 💬 我需要您的反馈：  您尝试过吗？您总结了什么样的视频？ 分享您的吐槽：您想与社区分享任何有趣或史诗般的吐槽吗？ 功能要求：哪些附加功能可以使此工具对您更有用？  在下面发表您的想法！ 👇 您的反馈对于帮助改进该工具并使其成为 YouTube 社区的最佳工具至关重要。 tubed.pro 附言开发人员，如果您有兴趣，我很乐意与您讨论技术堆栈或构建过程！    提交人    /u/rokyst   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f6yl3l/tubedpro_summarize_and_roast_youtube_videos/</guid>
+      <pubDate>Mon, 02 Sep 2024 05:00:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>立即访问 ChatGPT 和 Gemini？试试这款 Chrome 侧面板扩展程序吧！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f6yj3c/instant_access_to_chatgpt_and_gemini_try_this/</link>
+      <description><![CDATA[      大家好！ 今天，我很无聊每次都访问 Gemini 和 ChatGPT 网站来做一些简单的事情，而且切换需要时间，因此我创建了一个扩展。 我想你会发现它非常有用。 AI 侧面板扩展程序为 chrome 添加了侧面板，可快速轻松地访问 Gemini 和 ChatGPT 等热门 AI 网站。 功能：  侧面板访问：只需单击一下即可使用您最喜爱的 AI 工具。 轻松切换：使用扩展图标或 ALT + Q 快捷方式显示或隐藏面板。 无缝工作流程：将 AI 工具顺利集成到您的浏览体验中。  如果您希望提高工作效率并让 AI 工具更易于访问，请查看它！ 🔗 https://github.com/creosB/AI-Side-Panel-Extension  让我知道你想想或者如果你有任何反馈！ https://preview.redd.it/dcc8u58xubmd1.png?width=933&amp;format=png&amp;auto=webp&amp;s=49460d6766ff51d82e66d60bbd413ab09af5f385 https://preview.redd.it/dmpn8dsxubmd1.png?width=933&amp;format=png&amp;auto=webp&amp;s=5087f0674e88b0fc377657d6d97e9de2b08960dc    提交人    /u/baris0631   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f6yj3c/instant_access_to_chatgpt_and_gemini_try_this/</guid>
+      <pubDate>Mon, 02 Sep 2024 04:57:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Typepage 创建候补名单页面</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f6x1so/created_a_waitlist_page_using_typepage/</link>
+      <description><![CDATA[我创建了一个网站构建器，它作为一个类似于 Notion 的基于块的编辑器，名为 Typepage。它用于收集电子邮件，以便更快地验证产品创意，而无需编写任何代码。如果您想要一个它可以创建的示例，请查看 https://www.typepage.io/waitlist 。 此外，我会将任何新的候补名单页面添加到我的展示列表中，以互相帮助。    提交人    /u/Chivylol   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f6x1so/created_a_waitlist_page_using_typepage/</guid>
+      <pubDate>Mon, 02 Sep 2024 03:32:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>我应该去哪里寻找客户？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f6wtv3/where_should_i_find_customers/</link>
+      <description><![CDATA[我是从事虚拟旅游软件的，但是一直很难找到客户，也不知道从哪里开始寻找相关的客户，希望朋友们能指点迷津，谢谢。    submitted by    /u/Secret_Situation1479   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f6wtv3/where_should_i_find_customers/</guid>
+      <pubDate>Mon, 02 Sep 2024 03:19:56 GMT</pubDate>
+    </item>
     <item>
       <title>我正在开发一款人工智能工具，帮助老年人通过 WhatsApp 聊天撰写回忆录。正在寻找测试人员和反馈！</title>
       <link>https://www.reddit.com/r/SideProject/comments/1f6wpnj/im_building_an_ai_tool_that_helps_elderly_write/</link>
@@ -15,7 +71,7 @@
     <item>
       <title>为临时/懒惰的卖家打造人工智能市场</title>
       <link>https://www.reddit.com/r/SideProject/comments/1f6w4gd/made_an_ai_marketplace_for_casuallazy_sellers/</link>
-      <description><![CDATA[我碰巧认识很多人，他们很想摆脱一些东西，但不想经历创建列表的工作，即使是 Facebook Marketplace。 这是一个点对点市场，你只需拍摄照片，AI 会完成剩下的工作……标题、描述、类别、甚至标签，甚至建议价格。您还可以调整列表的个性。 https://shopseen.com  它处于封闭测试阶段 - 只需加入等候名单即可获得链接。 如果有人对该堆栈感兴趣，请使用 Flutter 和 Firebase 制作。这至少是我第三次尝试使用这个域名……说来难过，几十年来一直如此。也许这会获得更多的关注。    提交人    /u/realdeal   [链接] [评论]]]></description>
+      <description><![CDATA[我碰巧认识很多人，他们很想摆脱一些东西，但不想经历创建列表的工作，即使是在 Facebook Marketplace 中。 这是一个点对点市场，你只需拍摄照片，AI 会完成剩下的工作……标题、描述、类别、甚至标签，甚至建议价格。你可以调整列表的个性。 https://shopseen.com  它处于封闭测试阶段 - 只需加入等待名单即可获得链接。 如果有人对该堆栈感兴趣，请使用 Flutter 和 Firebase 制作。这至少是我第三次尝试使用这个域名……说来难过，几十年来一直如此。也许这会得到更多的关注。    提交人    /u/realdeal   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1f6w4gd/made_an_ai_marketplace_for_casuallazy_sellers/</guid>
       <pubDate>Mon, 02 Sep 2024 02:42:37 GMT</pubDate>
     </item>
@@ -53,62 +109,6 @@
       <description><![CDATA[我想加入样板潮流已经有一段时间了。这是一种很好的入门方式，可以围绕你的工作建立一些东西。 多年来，我一直在建立目录网站，我一直认为本地目录网站表现最好。 什么类型的本地目录网站？ -X 镇的餐馆 -X 镇的酒吧 等等。 这些网站似乎都表现不错。竞争低，搜索流量好 + 你甚至可以让企业支付列表费（不要收取巨额费用）。 所以我继续建立它们。   在 excel 电子表格中收集信息  构建前端  从 csv 添加信息  添加图片  使用精确匹配域启动  添加到本地目录  等待它们排名。   这让我开始思考。 我可以做到这一点。  几天后，我终于能够构建它了。  它被称为 ShipLocal，它可以在几分钟内从 csv 为您构建一个完整的目录站点。  我仍处于预发布阶段，但应该会在几天内向我的付费用户推出。 如果您觉得这很有趣，请查看它，当我发布时这个价格不会保持这样。  查看 ShipLocal     由    /u/yomatt41 提交   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1f6u96o/a_boilerplate_for_local_directory_businesses/</guid>
       <pubDate>Mon, 02 Sep 2024 01:04:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>经过一个月的辛勤工作，我准备好接受批评了</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f6u119/after_a_good_month_of_work_im_ready_to_be_roasted/</link>
-      <description><![CDATA[我觉得我的故事构建应用程序已经不错了，我希望你们中的一些人会喜欢它。 很想得到这个社区诚实和坦率的反馈。 http://vvd.ai/    提交人    /u/tryvividapp   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f6u119/after_a_good_month_of_work_im_ready_to_be_roasted/</guid>
-      <pubDate>Mon, 02 Sep 2024 00:53:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>你会用它吗？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f6s7fz/would_you_use_it/</link>
-      <description><![CDATA[        提交人    /u/FlickeryPotato   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f6s7fz/would_you_use_it/</guid>
-      <pubDate>Sun, 01 Sep 2024 23:22:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>第一个应用程序——支付龙！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f6s67d/first_app_pay_the_dragon/</link>
-      <description><![CDATA[大家好，我的第一个应用已获准进入 Google Play 商店。 这是一款生产力应用，可让您完成 3 项简单的日常任务（付款），从而帮助您改善生活。 如果您使用的是 Android，请下载它并留下您的诚实反馈。 Play 商店：https://play.google.com/store/apps/details?id=com.pique.dragon Apple：应在一周内提交审核。    提交人    /u/Tru_Lie   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f6s67d/first_app_pay_the_dragon/</guid>
-      <pubDate>Sun, 01 Sep 2024 23:20:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们创建了一个开源工具，用于为您的无服务器 (Firebase) Web 应用添加协作功能</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f6rh4e/we_created_an_open_source_tool_to_add/</link>
-      <description><![CDATA[我们构建了 y-fire，它是一款基于 Firestore (Firebase) 和 WebRTC 的提供程序，专为无服务器基础架构而构建，可为您的 Firebase 应用程序提供实时功能。它消除了对对等发现的单独服务器的需求，并使用 Firebase 和 WebRTC 在用户之间交换实时数据。y-fi​​re 非常高效，并试图减少您的 Firebase 调用。    提交人    /u/podraven   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f6rh4e/we_created_an_open_source_tool_to_add/</guid>
-      <pubDate>Sun, 01 Sep 2024 22:48:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>在广告上花了 300 多美元，但没有注册——我做错了什么？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f6r4b9/spent_over_300_on_ads_but_no_sign_ups_what_am_i/</link>
-      <description><![CDATA[  由    /u/tripsaver-me  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f6r4b9/spent_over_300_on_ads_but_no_sign_ups_what_am_i/</guid>
-      <pubDate>Sun, 01 Sep 2024 22:31:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>Freestyle - 每日押韵的文字游戏</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f6qrt6/freestyle_a_daily_rhyming_word_game/</link>
-      <description><![CDATA[  由    /u/taqkarim0  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f6qrt6/freestyle_a_daily_rhyming_word_game/</guid>
-      <pubDate>Sun, 01 Sep 2024 22:16:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个网站，供开发人员分享技术教程/文章以及社区更新</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f6q1n2/i_made_a_site_for_devs_to_share_tech/</link>
-      <description><![CDATA[嘿，在过去的几个月里，我开发了一个网站，允许用户分享特定于软件的教程和文章。 https://kintuscloud.com/ 我厌倦了按照教程操作，然后出现了一个小错误，它会带你进入一个 3 个小时的兔子洞，并发现这个错误是代码中的一个错误参数，我绝对没有复制和粘贴。在我的网站上，你可以询问有关特定代码块的问题，并直接从作者那里得到答案，或者由社区的其他成员回答。 我希望将来能在网站上专门为开发人员构建更多功能！ 无论如何，创建和阅读教程/文章都是免费的。期待任何反馈并发展社区以创建一些内容。    提交人    /u/Greenwood672   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f6q1n2/i_made_a_site_for_devs_to_share_tech/</guid>
-      <pubDate>Sun, 01 Sep 2024 21:44:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>户外玩耍的应用程序</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f6plu1/an_app_for_playing_outside/</link>
-      <description><![CDATA[大家好！我一直在开发一款移动应用，将户外运动变成视频游戏。我们的目标是为人们提供一款视频游戏，让他们锻炼身体、户外运动和与朋友一起玩耍。这款应用名为 n&#39;seek，到目前为止，我们已经将 tag 变成了视频游戏。使用我们的应用，您可以标记您的朋友，在地图上查看他们的位置，并跟踪您的统计数据。我们仍处于测试阶段，但如果您想尝试一下，您可以在 App Store 上找到它：https://apps.apple.com/ca/app/nseek-social-running-game/id6449874017 非常希望听到您的反馈。谢谢！    由   提交  /u/Adventurous_Wave_478   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f6plu1/an_app_for_playing_outside/</guid>
-      <pubDate>Sun, 01 Sep 2024 21:24:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
