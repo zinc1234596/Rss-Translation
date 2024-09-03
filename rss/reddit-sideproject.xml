@@ -4,111 +4,111 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Tue, 03 Sep 2024 15:15:12 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Sep 2024 18:18:52 GMT</lastBuildDate>
     <item>
-      <title>我的策略是为我的团队建设平台吸引前 10,000 名用户⬇</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f82gmu/my_strategy_to_get_the_first_10_000_users_for_my/</link>
-      <description><![CDATA[      我将如何解决我的社交平台 Solvearn 的“先有鸡还是先有蛋”问题？ 简要介绍： Solvearn 是一个团队建设平台，人们可以使用实时更新的卡片来连接各种项目。这些卡片提供有关项目、团队成员、他们的角色和可用职位的详细信息。这些卡片集成到一个协作空间中，以启动项目并使用实时共享工具来加入新成员。 我将如何获得前 10,000 名用户：目前，我们在测试版发布后拥有大约 160 名用户，主要是通过 Reddit 和 Discord 上的帖子。反馈是积极的——人们喜欢这个想法。然而，一些人表示担心该项目可能会失败，因为当用户数量不多时，很难吸引用户使用平台。这些反馈让我想到了不同的解决方案…… 1. 嵌入式卡片链接：首先，我从嵌入式卡片链接开始。下面是一个示例图像。用户可以复制他们创建的卡片并在社交媒体上分享这些链接。如果有人感兴趣，他们可以发送加入该项目的请求，担任特定角色，现有团队成员将收到有关此事的电子邮件通知。申请人还在团队日历上选择第一次会议的时间。第一次会议在 Solvearn 上举行，使用视频通话、白板、文件共享等方式。为了提高嵌入链接的可见性，我们将通过在各个社区中共享这些链接来招募新成员。 这是嵌入卡片链接的图像。用户只能使用这些个人资料图标分享自己的卡片。 2. 社交媒体（Instagram + YouTube）：我们将创建一个 Solvearn 的 3D 建模空间，以展示团队在项目上工作的经验。我们将鼓励用户通过 UGC 参与社交媒体。这将为他们提供免费的曝光机会，使他们能够向全世界推介他们的项目（我们将负责编辑并让他们预览视频，然后再发布）。 3. 每月竞赛：我们将每月举办初创公司之间的竞赛，要求他们每周提交作业。排行榜上的顶级团队将有机会参加 STARTUP SPOTLIGHT，他们可以在那里向投资者推介他们的想法并获得支持以将他们的项目推向市场。我们将把这些比赛带到大学，激励学生在学习的同时建立副业。 4. 秘密当我们成为一家价值 10 亿美元的公司时，我会透露 ;)    提交人    /u/Long-Report423   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f82gmu/my_strategy_to_get_the_first_10_000_users_for_my/</guid>
-      <pubDate>Tue, 03 Sep 2024 15:14:49 GMT</pubDate>
+      <title>终于启动了我的业余项目——一款可以显示电影是否有片尾场景的简单应用</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f86uhy/finally_launched_my_side_project_a_simple_app/</link>
+      <description><![CDATA[我很高兴地告诉大家，我终于启动了我的业余项目！它不是什么革命性的东西，只是一个简单的工具，可以显示电影是否有片尾场景。但对我来说，它之所以特别，是因为我实际上已经完成了它，哈哈！ 我的电脑里堆满了半成品项目（我相信你们很多人都有这种感觉）。当生活阻碍我，或者当我被新想法或新技术分散注意力时，我经常会放弃它们。不过，这一次，我坚持到了最后，感觉就像是一个巨大的胜利。这很有趣，因为我投入了更多时间在更大的项目上，而这些项目从未面世，通常是因为功能蔓延或只是失去了兴趣。 我主要为自己开发了这个应用程序。我每个月去几次电影院，每次我需要检查一部电影是否有片尾场景时，这个过程都很乏味。我通常会搜索“{movie-title} 片尾场景”，并且必须筛选 SEO 繁重的文章才能找到一个简单的“是”或“否”。我的网络应用程序（也是您可以安装的 PWA）简化了这一过程。当我打开它时，电影通常就在主页上（因为它显示最新版本），我可以立即看到是否有片尾场景。它还默认为暗模式，这非常适合不让自己或电影院中的其他人眼花缭乱。 我的信息来自维基百科，我最近也开始为其做贡献。然后将电影与 TMDb 进行匹配以获取海报。 对于那些感兴趣的人，技术堆栈非常简单：React 前端、带有 Axios 和 Cheerio 的 Node/Express 后端用于抓取，以及 PostgreSQL 数据库。 您可以在这里查看：www.postcredit.app    提交人    /u/BazingaUA   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f86uhy/finally_launched_my_side_project_a_simple_app/</guid>
+      <pubDate>Tue, 03 Sep 2024 18:07:57 GMT</pubDate>
     </item>
     <item>
-      <title>立即观看任何 Youtube 视频的视频摘要</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f825dy/watch_a_video_summary_of_any_youtube_video/</link>
-      <description><![CDATA[       由    /u/Witty_Side8702  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f825dy/watch_a_video_summary_of_any_youtube_video/</guid>
-      <pubDate>Tue, 03 Sep 2024 15:02:02 GMT</pubDate>
+      <title>EyeGestures 更新 #7 - 新的注视追踪引擎终于上线了</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f86rik/eyegestures_update_7_new_gaze_tracking_engine_is/</link>
+      <description><![CDATA[大家好， 对于那些不知道的人，我一直在使用原生笔记本电脑或手机摄像头构建注视跟踪引擎，以提高可访问性并使工程师能够为计算机开发新的界面。 这个项目已经发展到包括两个引擎、两个测试应用程序、一个将所有内容都保持在一个品牌下的组织以及网络演示。一段时间以来，我一直在开发该引擎的第二个版本，但只有使用 Python 库并运行 pip install eyegestures 的用户或通过购买测试应用程序支持该项目的用户才能访问它。 Web 上的 EyeGestures v2 我终于将第二个引擎推向了 Web 上的 Beta 测试，您可以通过以下链接使用它：https://eyegestures.com/v2_beta_testing。 它本质上基于两个光标进行操作：绿色光标指示用户应该关注的位置，蓝色光标显示算法估计的注视位置。目前，校准过程可能有点冗长，但随着每个点的增加，蓝色光标会变得更加准确。 我们正在寻找商业赞助： 由于这项工作非常耗时，并且我们提供的独特利基价值难以货币化（并且将引擎置于付费墙后面与我们的使命不符），我们将非常感谢任何商业或行业合作伙伴关系和支持。 如果您有兴趣，请通过 contact@eyegestures.com 与我们联系。 或者在 Polar 上支持我们：https://polar.sh/NativeSensors。    提交人    /u/TraditionalDistrict9   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f86rik/eyegestures_update_7_new_gaze_tracking_engine_is/</guid>
+      <pubDate>Tue, 03 Sep 2024 18:04:37 GMT</pubDate>
     </item>
     <item>
-      <title>刚刚推出：Blinkfeed.ai Beta 2 - 10 分钟内阅读并回复 100 封电子邮件！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f822br/just_launched_blinkfeedai_beta_2_read_and_reply/</link>
-      <description><![CDATA[  由    /u/DukeOfApertureLabs  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f822br/just_launched_blinkfeedai_beta_2_read_and_reply/</guid>
-      <pubDate>Tue, 03 Sep 2024 14:58:44 GMT</pubDate>
+      <title>构建了一个简单的颜色匹配游戏。试试吧！欢迎提供反馈。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f86nx6/built_a_simple_colour_matching_game_try_it_out/</link>
+      <description><![CDATA[        由    /u/Capital_Assistant338  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f86nx6/built_a_simple_colour_matching_game_try_it_out/</guid>
+      <pubDate>Tue, 03 Sep 2024 18:00:51 GMT</pubDate>
     </item>
     <item>
-      <title>我创建了一个 Chrome 扩展程序，可轻松对任何电子商务商店的服装进行视觉试穿</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f81xgp/i_created_a_chrome_extension_to_easily_do_visual/</link>
-      <description><![CDATA[        由    /u/shyjal   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f81xgp/i_created_a_chrome_extension_to_easily_do_visual/</guid>
-      <pubDate>Tue, 03 Sep 2024 14:52:57 GMT</pubDate>
+      <title>我创建了一个人工智能社交媒体内容创建器</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f867hj/i_created_an_ai_social_media_content_creator/</link>
+      <description><![CDATA[      所以，我上周做了一件事。我制作了一个名为 Postchef 的工具，它可以将文章和博客文章转化为具有酷炫视觉效果的引人入胜的社交媒体内容。它非常简洁，但问题是 - 我完全不知道如何将它发布出去。 😅 我只是一个有想法并付诸实践的开发者。现在我坐在这里，面对着这个由人工智能驱动的内容创建者，我就像......现在该怎么做？ 有人遇到过这种情况吗？你是如何从“我做了一个很酷的东西”到真正让人们使用它的？我对整个营销游戏完全陌生。 任何提示、技巧，甚至是残酷的诚实都会非常感激。提前谢谢！ 附注：如果你好奇，可以在 Postchef.co 上找到。但说真的，没有压力。我来这里主要是为了得到建议！ https://preview.redd.it/kjkv7nehsmmd1.jpg?width=2112&amp;format=pjpg&amp;auto=webp&amp;s=c4036c868eb7e98b26bae73350f5c200776fd3a9    提交人    /u/Letgodwork   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f867hj/i_created_an_ai_social_media_content_creator/</guid>
+      <pubDate>Tue, 03 Sep 2024 17:42:39 GMT</pubDate>
     </item>
     <item>
-      <title>我建立了一个网站来创建和托管您自己的多人危险边缘游戏！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f81wpn/i_built_a_site_to_create_and_host_your_own/</link>
-      <description><![CDATA[        由    /u/tycho_brahes_nose_   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f81wpn/i_built_a_site_to_create_and_host_your_own/</guid>
-      <pubDate>Tue, 03 Sep 2024 14:52:05 GMT</pubDate>
+      <title>这里有谁知道如何构建微型 SaaS 产品</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f8638a/anyone_here_knows_how_to_build_micro_saas_products/</link>
+      <description><![CDATA[  由    /u/_whitecanvas  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f8638a/anyone_here_knows_how_to_build_micro_saas_products/</guid>
+      <pubDate>Tue, 03 Sep 2024 17:38:07 GMT</pubDate>
     </item>
     <item>
-      <title>制作了一个 Web 应用程序来寻找当地的运动好友</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f81trg/made_a_webapp_to_find_local_friends_to_play_sports/</link>
-      <description><![CDATA[        提交人    /u/hefty_player   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f81trg/made_a_webapp_to_find_local_friends_to_play_sports/</guid>
-      <pubDate>Tue, 03 Sep 2024 14:48:42 GMT</pubDate>
+      <title>ResourceMapped Web 应用程序：anayravindra.com</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f85zf1/resourcemapped_web_app_anayravindracom/</link>
+      <description><![CDATA[大家好！我开发了 ResourceMapped，这是一个 Web 应用程序，用户可以使用它来追踪和缩小距离他们最近的免费诊所、捐赠区、课后活动和食物银行的位置。单击附加链接，随意浏览网站！anayravindra.com 请提供反馈，我想尽可能改进这个应用程序！    提交人    /u/AMR210   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f85zf1/resourcemapped_web_app_anayravindracom/</guid>
+      <pubDate>Tue, 03 Sep 2024 17:33:54 GMT</pubDate>
     </item>
     <item>
-      <title>库存管理和扫描支付 POS 系统（只需扫描支付即可）</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f81am7/inventory_management_scantopay_pos_systemjust/</link>
-      <description><![CDATA[        由    /u/General_Tourist4000  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f81am7/inventory_management_scantopay_pos_systemjust/</guid>
-      <pubDate>Tue, 03 Sep 2024 14:26:23 GMT</pubDate>
+      <title>ResourceMapped Webapp：anayravindra.com</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f85xo1/resourcemapped_webapp_anayravindracom/</link>
+      <description><![CDATA[大家好！我开发了 ResourceMapped，这是一个 Web 应用程序，用户可以使用它来追踪和缩小最近的免费诊所、捐赠区、课后项目和食物银行相对于他们所在位置的范围。单击附加链接，随意浏览网站！anayravindra.com    提交人    /u/AMR210   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f85xo1/resourcemapped_webapp_anayravindracom/</guid>
+      <pubDate>Tue, 03 Sep 2024 17:32:02 GMT</pubDate>
     </item>
     <item>
-      <title>有谁有使用 SAAS 产品的经验吗？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f810zf/anyone_with_experience_in_saas_products/</link>
-      <description><![CDATA[我需要有人在 DM 中提供一些免费建议。我已经启动了我的第一个 SAAS，我需要一些建议。     提交人    /u/Local-Pizza-9060   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f810zf/anyone_with_experience_in_saas_products/</guid>
-      <pubDate>Tue, 03 Sep 2024 14:15:00 GMT</pubDate>
+      <title>我创建了跨平台 AI、截图翻译、单词选择翻译和 OCR 软件</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f85dwm/i_created_crossplatform_ai_screenshot_translation/</link>
+      <description><![CDATA[      在日常工作或者学习中，难免会遇到需要翻译的场景，但是一直没找到一款好用又简单的翻译工具。 TTime 是一款AI、截图、选词翻译和OCR软件支持所有常见服务，AI、dict、百度、Bing、DeepL、谷歌、GeminiAI、ChatGPT 等。 6种翻译模式，包括截图、选词、浮球、替换等，附加扩展OCR和AI功能软件 你可以尝试一下，看看效果如何。也许你可以给我一些反馈和建议。 截图翻译： https://i.redd.it/jei3z13mmmmd1.gif 单词选择翻译： https://i.redd.it/ywp26zynmmmd1.gif 输入翻译： https://i.redd.it/2yyss8epmmmd1.gif   由    /u/byliangcheng  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f85dwm/i_created_crossplatform_ai_screenshot_translation/</guid>
+      <pubDate>Tue, 03 Sep 2024 17:10:25 GMT</pubDate>
     </item>
     <item>
-      <title>厌倦了漫无目的地滚动屏幕？大多数人都一样，所以我正在想办法</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f80iih/tired_of_mindlessly_scrolling_most_people_are_too/</link>
-      <description><![CDATA[      https://preview.redd.it/72juunajmlmd1.png?width=1512&amp;format=png&amp;auto=webp&amp;s=ff36887912d0fe636a80014e6057850f58dded53 https://preview.redd.it/wa023i4kmlmd1.png?width=1512&amp;format=png&amp;auto=webp&amp;s=ac8c50a1876917fc890f916d0dccd45f1215089d 这是什么？ 您是否发现自己在社交媒体上浪费了数小时，只希望能把这些时间找回来？您并不孤单。我们大多数人都想减少无休止的滚动，但算法只会不断推荐它认为你会观看的任何内容。 这就是Videos Plus的作用所在。想象一下，与其迷失在无用内容的海洋中，不如只使用精选来源的高质量、富有成效的视频。每个视频都经过精心挑选，以激励、教育和帮助你充分利用你的一天。 使用Videos Plus，你将保持最新状态，扩展你的知识，并获得新的灵感，而不会分心。现在是时候优先考虑真正重要的事情并专注于你的目标，而不是别人的算法了。 我可以使用吗？ 它目前处于开发阶段，所以我想了解现阶段有多少人对此感兴趣。听起来有趣吗？你会使用它吗？你能想到任何潜在的问题吗？在此阶段，任何反馈都将极其有价值！ 什么时候可以准备好？ 在此阶段，这有点难以说，但是由于它相当简单，因此应该在一两个月内准备就绪。    提交人    /u/CleverPineapple123   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f80iih/tired_of_mindlessly_scrolling_most_people_are_too/</guid>
-      <pubDate>Tue, 03 Sep 2024 13:53:04 GMT</pubDate>
+      <title>能帮我对一个想法提供反馈吗？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f856nc/help_me_with_feedback_on_an_idea/</link>
+      <description><![CDATA[嘿，让我们互相帮助，共同构思吧！ 我正在寻找一个关于 SaaS 工具的想法的反馈，该工具可以自动为您生成 Twitter 线索。 很乐意对您的想法提供反馈 :) 我的理想角色是手动在 Twitter 上为他的工具\业务寻找线索的人。 我的角色 - 前产品经理，现在是 SaaS 客户主管和构建者。 如果您有兴趣，请直接发信息给我，我很乐意告诉您我的想法并问您几个问题。 谢谢！    提交人    /u/AmphibianCautious334   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f856nc/help_me_with_feedback_on_an_idea/</guid>
+      <pubDate>Tue, 03 Sep 2024 17:02:37 GMT</pubDate>
     </item>
     <item>
-      <title>关于营销/定位的问题</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f7zxi7/question_about_marketingpositioning/</link>
-      <description><![CDATA[大家好 当您营销/定位您的项目并且用户是个体经营者或自由职业者时，您使用 B2B 策略还是 B2C？ 这里可以使用一些技巧 :)    提交人    /u/Ok-Highlight8544   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f7zxi7/question_about_marketingpositioning/</guid>
-      <pubDate>Tue, 03 Sep 2024 13:27:35 GMT</pubDate>
+      <title>我开发了一个 Linkedin Chrome 扩展程序，它允许你编辑你预定的 Linkedin 帖子。我花了一天时间开发，这是我的第一个独立项目。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f8559r/i_built_a_linkedin_chrome_extention_that_allows/</link>
+      <description><![CDATA[        由    /u/charismania  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f8559r/i_built_a_linkedin_chrome_extention_that_allows/</guid>
+      <pubDate>Tue, 03 Sep 2024 17:01:14 GMT</pubDate>
     </item>
     <item>
-      <title>我创建了一个提供终身交易的社区建设者平台</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f7zmib/i_created_a_community_builder_platform_which/</link>
-      <description><![CDATA[面向创作者、教练、社区和企业的社区建设平台，用于销售会员资格、活动、私人团体等。  Socially 是一个基于 saas 的 NICHE 社区建设平台。自 2017 年以来，我们一直在迭代和创建面向创作者经济领域的产品，为 200 多个社区提供支持，为 4 个小众社交网络提供支持，从而为超过 150,000 名用户提供服务。很高兴收到有关我们课程新功能的反馈，请在 socially.so 上尝试 现在在 https://socially.so/pricing 上进行终身优惠，并提供 30 天退款保证。    提交人    /u/sociallycommunity   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f7zmib/i_created_a_community_builder_platform_which/</guid>
-      <pubDate>Tue, 03 Sep 2024 13:14:05 GMT</pubDate>
+      <title>Toxiscan 已上线！！！也可在 Product Hunt 上找到：https://www.producthunt.com/posts/toxiscan</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f84z38/toxiscan_is_live_also_available_on_product_hunt/</link>
+      <description><![CDATA[我们非常高兴地宣布，我们的最终项目现已上线！Toxiscan 通过扫描食品中可能影响您健康的有害物质来帮助您做出明智的选择，它还评估食品对环境的影响。我们需要至少 1000 名用户才能成功完成我们的研究金，请支持我们并向我们提供您宝贵的反馈：https://www.toxiscan.com/    提交人    /u/Technical-Ad414   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f84z38/toxiscan_is_live_also_available_on_product_hunt/</guid>
+      <pubDate>Tue, 03 Sep 2024 16:54:52 GMT</pubDate>
     </item>
     <item>
-      <title>修改GPT</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f7zmcv/altergpt/</link>
-      <description><![CDATA[      嗨！我是独立开发者，最近在尝试 AI。我创建了一个名为 AlterGPT 的应用程序，它目前有 4 种不同的流程。 其中之一是 tailwind developer，它允许用户生成使用 tailwind 样式的组件。 另一个是 css developer，它与以前基本相同，但没有 tailwind，只有纯 css。  下一个流程是生成图像 - 目前非常基础。 最后一个是生成文本 - 也非常基础。 目前，我想知道下一步应该去哪里，我的主要关注点应该是什么。我不希望它取得巨大的成功，但如果我能找到每天使用它并将应用程序与他们的需求相匹配的人，我会很高兴！ 您可以在https://altergpt.com上查看该应用程序，新用户可以免费使用 10 代。该应用程序不是基于订阅的，您可以充值几代，因此您无需预付费用！    提交人    /u/Outside-Common2337   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f7zmcv/altergpt/</guid>
-      <pubDate>Tue, 03 Sep 2024 13:13:55 GMT</pubDate>
+      <title>推出 FeatureNest：您用于集中和管理功能请求的经济实惠的工具！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f84how/launching_featurenest_your_affordable_tool_for/</link>
+      <description><![CDATA[嘿，制造商！ 我很高兴地宣布推出FeatureNest - 一种经济高效的工具，旨在帮助您集中、分类和管理跨多个项目的功能请求 - 所有这些都在一个有组织的地方！ 为什么选择FeatureNest？ 集中存储库：将所有功能请求集中在一个地方，按项目整齐地组织起来。 自定义分类：轻松在“待处理”、“有价值”、“未来”、“完成”和“垃圾箱”等类别之间移动请求。 轻松协作：通过电子邮件与您的团队共享请求，确保每个人都了解最新情况。 为扩展而构建：无论您管理一个项目还是十个项目，FeatureNest 都可以根据您的需求进行扩展。 经济高效：与市场上的其他工具相比，FeatureNest 的价格更实惠，可提供巨大的价值。 准备好简化您的功能请求流程了吗？ 查看 featurenest.co 如果您有任何问题或建议，请随时发表评论或向我发送 DM。 期待听到您的想法并帮助您更有效地管理您的功能请求！    提交人    /u/bucky_fullerene   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f84how/launching_featurenest_your_affordable_tool_for/</guid>
+      <pubDate>Tue, 03 Sep 2024 16:35:42 GMT</pubDate>
     </item>
     <item>
-      <title>可点击视频工具 – 查看厨房水槽维修演示视频！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f7zm9i/a_tool_for_clickable_videos_check_out_a_kitchen/</link>
-      <description><![CDATA[我发表了一篇文章，介绍了我创建的一款工具，该工具可使视频中的对象可点击。 人们似乎更喜欢使用它来制作 DIY/解释器视频，我对此表示同意。 因此，我使用厨房水槽维修视频创建了一个演示，您可以在其中点击工具和材料以获取有关它们的更多信息。这有点像交互式视频注释，可为您提供快速详细信息，而无需暂停和搜索。 我认为这对想要通过观看来学习但也希望轻松访问他们在屏幕上看到的内容的人可能会有所帮助。 无论如何，只是想分享一下，以防有人觉得它有用或对如何改进它有任何想法！ 😊 https://reddit.com/link/1f7zm9i/video/8o7admleglmd1/player    由   提交  /u/pystar   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f7zm9i/a_tool_for_clickable_videos_check_out_a_kitchen/</guid>
-      <pubDate>Tue, 03 Sep 2024 13:13:48 GMT</pubDate>
+      <title>财富 1000 强企业完整名单</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f84g2d/full_list_of_fortune_1000_companies/</link>
+      <description><![CDATA[        由    /u/Life_Ad_2142  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f84g2d/full_list_of_fortune_1000_companies/</guid>
+      <pubDate>Tue, 03 Sep 2024 16:33:56 GMT</pubDate>
     </item>
     <item>
-      <title>如何吸引更多用户使用我的应用？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f7zjud/how_can_i_get_more_users_to_my_app/</link>
-      <description><![CDATA[2 个月前，我听从朋友的建议开发了一款转轮应用。  旋转转轮并做出决定  我非常享受开发这款产品的乐趣，在查看市场上的类似应用时，我发现其他竞争应用的下载量不错，我的士气更加高涨。市场（App Store）的平均最低下载量为每月 5000 名用户。这些数字确实不错，但我知道这些数字很难实现，因为我的应用比较新。我需要你的建议。  我如何才能吸引更多用户？ 我可以做哪些改进？ 我在哪里犯了错误？  我随时愿意听取您的建议，非常感谢。    提交人    /u/keremdemir7   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f7zjud/how_can_i_get_more_users_to_my_app/</guid>
-      <pubDate>Tue, 03 Sep 2024 13:10:52 GMT</pubDate>
+      <title>我的游戏现在已正式登陆 App Store！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f84dsr/my_game_is_now_officially_on_the_app_store/</link>
+      <description><![CDATA[      在我的全新手机游戏 Spark - Endless Challenge 中创下新高分、攀升排行榜并探索新关卡 尝试一下并告诉我您的想法！    提交人    /u/Basic-Woodpecker5807   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f84dsr/my_game_is_now_officially_on_the_app_store/</guid>
+      <pubDate>Tue, 03 Sep 2024 16:31:22 GMT</pubDate>
     </item>
     <item>
-      <title>我创建了一个网站来制作个性化的音乐来安抚你焦虑的狗</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f7z2m1/i_made_a_site_to_create_personalized_music_to/</link>
-      <description><![CDATA[        提交人    /u/Slow-Location7574   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f7z2m1/i_made_a_site_to_create_personalized_music_to/</guid>
-      <pubDate>Tue, 03 Sep 2024 12:48:44 GMT</pubDate>
+      <title>需要关于 UI 的反馈 | 睡前冒险 | 使用 AI 的睡前故事</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f84dah/need_feedack_on_ui_bedtime_adventures_bedtime/</link>
+      <description><![CDATA[      大家好， 我想就我最近的副业征求一下大家的反馈，这是一款 Android 应用，它可以根据孩子们提供的输入（例如姓名、年龄、性别、地点、附加角色。另外，我想在这里提一下，这些故事是使用 Open AI 的文本和图像生成模型 API 生成的。我非常感谢您根据提供的屏幕截图对以下几点提出反馈。  UI/UX 数据流 其他输入，如功能。  https://preview.redd.it/tdx1jqpmfmmd1.png?width=1520&amp;format=png&amp;auto=webp&amp;s=1042a1f53667eba4f2f7856966e701c1e739176b https://preview.redd.it/ldio55rmfmmd1.png?width=1520&amp;format=png&amp;auto=webp&amp;s=da7c3822ac3f34ac4b4d659b52784a66c7c9b43e https://preview.redd.it/6su6impmfmmd1.png?width=1520&amp;format=png&amp;auto=webp&amp;s=9508aadd2323712e6490bd1a135311c62114e2fa https://preview.redd.it/oz8r0wmmfmmd1.png?width=1520&amp;format=png&amp;auto=webp&amp;s=4036070ac15f96de8f00a099a654587c067e3553    提交人    /u/Aggravating-Taro8860   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f84dah/need_feedack_on_ui_bedtime_adventures_bedtime/</guid>
+      <pubDate>Tue, 03 Sep 2024 16:30:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
