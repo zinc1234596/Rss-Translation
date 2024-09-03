@@ -4,111 +4,111 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Tue, 03 Sep 2024 12:27:47 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Sep 2024 15:15:12 GMT</lastBuildDate>
     <item>
-      <title>我创建了一个 WordPress 插件来轻松回滚插件更新</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f7y7xp/i_created_a_wordpress_plugin_to_rollback_plugin/</link>
-      <description><![CDATA[我在一家代理机构工作多年，负责管理客户的 WordPress 网站。维护运行后，插件更新经常会导致兼容性问题。 发生这种情况时，我们有两个选择：  恢复更新前的完整备份 提取备份文件以获取我们想要回滚到的先前插件版本，然后手动上传到服务器  这两个选项都不理想，并且花费的时间比应有的时间长。我希望能够通过单击按钮快速回滚单个插件更新。WP Rollback 是一个选项，但它仅适用于免费插件，而该代理机构使用了各种高级插件。我需要一个适用于所有插件的统一解决方案。 这就是我开始构建 Super Rollback 的原因，它是一种立即回滚任何插件更新的方法。 今天它在插件目录上启动了！ 欢迎您尝试该插件并在评论中留下一些反馈。很想听听您的想法 🙂    提交人    /u/Morolord   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f7y7xp/i_created_a_wordpress_plugin_to_rollback_plugin/</guid>
-      <pubDate>Tue, 03 Sep 2024 12:06:45 GMT</pubDate>
+      <title>我的策略是为我的团队建设平台吸引前 10,000 名用户⬇</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f82gmu/my_strategy_to_get_the_first_10_000_users_for_my/</link>
+      <description><![CDATA[      我将如何解决我的社交平台 Solvearn 的“先有鸡还是先有蛋”问题？ 简要介绍： Solvearn 是一个团队建设平台，人们可以使用实时更新的卡片来连接各种项目。这些卡片提供有关项目、团队成员、他们的角色和可用职位的详细信息。这些卡片集成到一个协作空间中，以启动项目并使用实时共享工具来加入新成员。 我将如何获得前 10,000 名用户：目前，我们在测试版发布后拥有大约 160 名用户，主要是通过 Reddit 和 Discord 上的帖子。反馈是积极的——人们喜欢这个想法。然而，一些人表示担心该项目可能会失败，因为当用户数量不多时，很难吸引用户使用平台。这些反馈让我想到了不同的解决方案…… 1. 嵌入式卡片链接：首先，我从嵌入式卡片链接开始。下面是一个示例图像。用户可以复制他们创建的卡片并在社交媒体上分享这些链接。如果有人感兴趣，他们可以发送加入该项目的请求，担任特定角色，现有团队成员将收到有关此事的电子邮件通知。申请人还在团队日历上选择第一次会议的时间。第一次会议在 Solvearn 上举行，使用视频通话、白板、文件共享等方式。为了提高嵌入链接的可见性，我们将通过在各个社区中共享这些链接来招募新成员。 这是嵌入卡片链接的图像。用户只能使用这些个人资料图标分享自己的卡片。 2. 社交媒体（Instagram + YouTube）：我们将创建一个 Solvearn 的 3D 建模空间，以展示团队在项目上工作的经验。我们将鼓励用户通过 UGC 参与社交媒体。这将为他们提供免费的曝光机会，使他们能够向全世界推介他们的项目（我们将负责编辑并让他们预览视频，然后再发布）。 3. 每月竞赛：我们将每月举办初创公司之间的竞赛，要求他们每周提交作业。排行榜上的顶级团队将有机会参加 STARTUP SPOTLIGHT，他们可以在那里向投资者推介他们的想法并获得支持以将他们的项目推向市场。我们将把这些比赛带到大学，激励学生在学习的同时建立副业。 4. 秘密当我们成为一家价值 10 亿美元的公司时，我会透露 ;)    提交人    /u/Long-Report423   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f82gmu/my_strategy_to_get_the_first_10_000_users_for_my/</guid>
+      <pubDate>Tue, 03 Sep 2024 15:14:49 GMT</pubDate>
     </item>
     <item>
-      <title>您可以使用网站 URL 创建社交媒体日历，确保您的帖子新鲜且真实 🎉🎉🎉 查看 viralmarketer.co</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f7y1sl/you_can_create_social_media_calendars_using/</link>
-      <description><![CDATA[        提交人    /u/Ok_Influence_9144   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f7y1sl/you_can_create_social_media_calendars_using/</guid>
-      <pubDate>Tue, 03 Sep 2024 11:58:09 GMT</pubDate>
+      <title>立即观看任何 Youtube 视频的视频摘要</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f825dy/watch_a_video_summary_of_any_youtube_video/</link>
+      <description><![CDATA[       由    /u/Witty_Side8702  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f825dy/watch_a_video_summary_of_any_youtube_video/</guid>
+      <pubDate>Tue, 03 Sep 2024 15:02:02 GMT</pubDate>
     </item>
     <item>
-      <title>仅仅 3 天，我的设计工具 Sketch Logo AI 就赚了 176 美元！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f7xsdz/in_just_3_days_my_design_tool_sketch_logo_ai/</link>
-      <description><![CDATA[        提交人    /u/TofuCat1804   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f7xsdz/in_just_3_days_my_design_tool_sketch_logo_ai/</guid>
-      <pubDate>Tue, 03 Sep 2024 11:43:57 GMT</pubDate>
+      <title>刚刚推出：Blinkfeed.ai Beta 2 - 10 分钟内阅读并回复 100 封电子邮件！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f822br/just_launched_blinkfeedai_beta_2_read_and_reply/</link>
+      <description><![CDATA[  由    /u/DukeOfApertureLabs  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f822br/just_launched_blinkfeedai_beta_2_read_and_reply/</guid>
+      <pubDate>Tue, 03 Sep 2024 14:58:44 GMT</pubDate>
     </item>
     <item>
-      <title>fooyin - 可定制的音乐播放器</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f7x0et/fooyin_a_customisable_music_player/</link>
-      <description><![CDATA[      我想开始分享这个，因为它仍然是一个相对不为人知的项目，而且过去几年我一直在默默地致力于它。 https://preview.redd.it/eoktrjuiskmd1.jpg?width=1418&amp;format=pjpg&amp;auto=webp&amp;s=0099fb6dba88d27debbb7a93d87b35c6994bdba5 几年前我毕业时，找一份入门级的工作很难，所以我决定开始另一个项目。我已经断断续续地使用 Linux 和 Windows 一段时间了，但音乐播放器的选择是我暂时无法完全切换到 Linux 的少数几个原因之一。 我有一个相当大的本地库，我使用过的所有播放器在可定制性方面都无法与 foobar2000 等 Windows 播放器相媲美。或者即使可以，也没有那么好用。 我创建 fooyin 的目的是学习 Qt 并在 foobar2000 中复制我的旧设置，它严重依赖于 Facets 插件。这个最初只是个小项目，很快就发展成了一个更大的项目。 几年后，fooyin 发布了当前的 v0.6.2 版本。它仍处于早期开发阶段，还有很长的路线图，但随着新贡献者的加入，它正在迅速成熟。目前缺少一般文档和用于开发目的的文档，但我们正在努力。 它已在 Flathub 上正式发布，并且已在几个存储库中。我很乐意听到您的任何反馈或建议。 https://www.fooyin.org    提交人    /u/ludouzi   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f7x0et/fooyin_a_customisable_music_player/</guid>
-      <pubDate>Tue, 03 Sep 2024 10:59:16 GMT</pubDate>
+      <title>我创建了一个 Chrome 扩展程序，可轻松对任何电子商务商店的服装进行视觉试穿</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f81xgp/i_created_a_chrome_extension_to_easily_do_visual/</link>
+      <description><![CDATA[        由    /u/shyjal   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f81xgp/i_created_a_chrome_extension_to_easily_do_visual/</guid>
+      <pubDate>Tue, 03 Sep 2024 14:52:57 GMT</pubDate>
     </item>
     <item>
-      <title>我建造了 Artoons：生成或探索卡通风格的 AI 插图集合。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f7wzfe/i_built_artoons_generate_or_explore_a_collection/</link>
-      <description><![CDATA[        提交人    /u/sujjeeee   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f7wzfe/i_built_artoons_generate_or_explore_a_collection/</guid>
-      <pubDate>Tue, 03 Sep 2024 10:57:31 GMT</pubDate>
+      <title>我建立了一个网站来创建和托管您自己的多人危险边缘游戏！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f81wpn/i_built_a_site_to_create_and_host_your_own/</link>
+      <description><![CDATA[        由    /u/tycho_brahes_nose_   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f81wpn/i_built_a_site_to_create_and_host_your_own/</guid>
+      <pubDate>Tue, 03 Sep 2024 14:52:05 GMT</pubDate>
     </item>
     <item>
-      <title>“价值”对你来说意味着什么？（请读到最后）</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f7wxgh/what_does_value_mean_to_you_please_read_to_the_end/</link>
-      <description><![CDATA[我们一直在为企业主、营销人员和企业家建立一个免费的在线社区。我们的会员数量刚刚达到 3 万。  我很想知道商业中的“价值”对您来说真正意味着什么。这些年来，我们看到人们来来去去。 我们看到的一些常见用户资料始终是这样的：  快速致富的孩子 自由职业者 新创业公司 网络工作者 想要闲逛的行业老手 试图出售课程/其他立即被禁止的 sht 的骗子。 寻找值得投资的企业的投资者。  我知道所有这些 ICP 都有不同的意图和当他们加入时，他们会经历一段全新的旅程。但是，什么事情会让你思考呢？“哇哦，我真的很高兴加入这里” 特别是对你来说。 我们的总体主题/座右铭是：  “通过协作实现增长” “有意识的专业人士社区”  我喜欢认为价值来自于真正的社区，而不仅仅是“一站式商店”或“工作市场” 尽管其他人经常说，如此庞大的社区可能会让人不知所措，让你失去参与其中的兴趣。  如果您处于想要的位置：  帮助 有价值的见解 对业务了解很多的人的社区 免费的（尤其是这个） 增长  您将如何搜索这样的社区？ 您会：  用 Google 搜索？ 听取流行的商业影响者的建议？ 通过广告来？ 听别人说？ 查看在线目录？ 阅读有关商业主题的博客？  您希望通过哪种研究方法来找到这样的社区 &amp;什么东西会让你觉得“是的，这就是我一直在寻找的”？ 会是：  评论？ 推荐？ 社区活动？  还有其他想法吗？ 非常感谢 reddit 的各位提供的任何见解或反馈！    提交人    /u/furloughgroup   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f7wxgh/what_does_value_mean_to_you_please_read_to_the_end/</guid>
-      <pubDate>Tue, 03 Sep 2024 10:54:16 GMT</pubDate>
+      <title>制作了一个 Web 应用程序来寻找当地的运动好友</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f81trg/made_a_webapp_to_find_local_friends_to_play_sports/</link>
+      <description><![CDATA[        提交人    /u/hefty_player   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f81trg/made_a_webapp_to_find_local_friends_to_play_sports/</guid>
+      <pubDate>Tue, 03 Sep 2024 14:48:42 GMT</pubDate>
     </item>
     <item>
-      <title>TikTok 自动化</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f7wvak/tiktok_automation/</link>
-      <description><![CDATA[      伙计们刚刚开始我的关于恐怖故事的 TikTok 页面，它的目的是实现自动化并获得观看次数以符合创作者的资格奖励计划我附加了视频链接请表达爱意和支持。    提交人    /u/Dizzy-Excuse-4574   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f7wvak/tiktok_automation/</guid>
-      <pubDate>Tue, 03 Sep 2024 10:50:31 GMT</pubDate>
+      <title>库存管理和扫描支付 POS 系统（只需扫描支付即可）</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f81am7/inventory_management_scantopay_pos_systemjust/</link>
+      <description><![CDATA[        由    /u/General_Tourist4000  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f81am7/inventory_management_scantopay_pos_systemjust/</guid>
+      <pubDate>Tue, 03 Sep 2024 14:26:23 GMT</pubDate>
     </item>
     <item>
-      <title>温度毯 Web 应用程序：🌤️ 天气数据 + 🧶 艺术！获取历史天气数据，选择纱线颜色，并可视化您的钩针或针织项目。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f7wpu3/temperature_blanket_web_app_weather_data_art_get/</link>
-      <description><![CDATA[        提交人    /u/tgoms   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f7wpu3/temperature_blanket_web_app_weather_data_art_get/</guid>
-      <pubDate>Tue, 03 Sep 2024 10:40:53 GMT</pubDate>
+      <title>有谁有使用 SAAS 产品的经验吗？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f810zf/anyone_with_experience_in_saas_products/</link>
+      <description><![CDATA[我需要有人在 DM 中提供一些免费建议。我已经启动了我的第一个 SAAS，我需要一些建议。     提交人    /u/Local-Pizza-9060   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f810zf/anyone_with_experience_in_saas_products/</guid>
+      <pubDate>Tue, 03 Sep 2024 14:15:00 GMT</pubDate>
     </item>
     <item>
-      <title>四个被低估的副业，没有人真正谈论，可以帮你每天赚 900 美元以上</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f7wjje/four_underrated_side_hustles_no_one_really_talks/</link>
-      <description><![CDATA[    /u/vinaylovestotravel  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f7wjje/four_underrated_side_hustles_no_one_really_talks/</guid>
-      <pubDate>Tue, 03 Sep 2024 10:29:26 GMT</pubDate>
+      <title>厌倦了漫无目的地滚动屏幕？大多数人都一样，所以我正在想办法</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f80iih/tired_of_mindlessly_scrolling_most_people_are_too/</link>
+      <description><![CDATA[      https://preview.redd.it/72juunajmlmd1.png?width=1512&amp;format=png&amp;auto=webp&amp;s=ff36887912d0fe636a80014e6057850f58dded53 https://preview.redd.it/wa023i4kmlmd1.png?width=1512&amp;format=png&amp;auto=webp&amp;s=ac8c50a1876917fc890f916d0dccd45f1215089d 这是什么？ 您是否发现自己在社交媒体上浪费了数小时，只希望能把这些时间找回来？您并不孤单。我们大多数人都想减少无休止的滚动，但算法只会不断推荐它认为你会观看的任何内容。 这就是Videos Plus的作用所在。想象一下，与其迷失在无用内容的海洋中，不如只使用精选来源的高质量、富有成效的视频。每个视频都经过精心挑选，以激励、教育和帮助你充分利用你的一天。 使用Videos Plus，你将保持最新状态，扩展你的知识，并获得新的灵感，而不会分心。现在是时候优先考虑真正重要的事情并专注于你的目标，而不是别人的算法了。 我可以使用吗？ 它目前处于开发阶段，所以我想了解现阶段有多少人对此感兴趣。听起来有趣吗？你会使用它吗？你能想到任何潜在的问题吗？在此阶段，任何反馈都将极其有价值！ 什么时候可以准备好？ 在此阶段，这有点难以说，但是由于它相当简单，因此应该在一两个月内准备就绪。    提交人    /u/CleverPineapple123   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f80iih/tired_of_mindlessly_scrolling_most_people_are_too/</guid>
+      <pubDate>Tue, 03 Sep 2024 13:53:04 GMT</pubDate>
     </item>
     <item>
-      <title>小里程碑：我们的第一次大促销！🥂</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f7w7ws/small_milestone_our_first_major_sale/</link>
-      <description><![CDATA[      这对我来说意义重大。我从没想过我会从自己建立的副项目中真正获得收入。 有趣的是，过去几周我一直在拖延营销，所以这次销售真的让我措手不及。 我认为这是一个好兆头，表明我的产品适合市场，因此我会继续完善它并确保我现在和未来的客户感到满意。 如果您好奇，请在这里亲自查看👉️ https://www.nextinject.pro 首次销售    由    /u/craciun_07 提交   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f7w7ws/small_milestone_our_first_major_sale/</guid>
-      <pubDate>Tue, 03 Sep 2024 10:08:29 GMT</pubDate>
+      <title>关于营销/定位的问题</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f7zxi7/question_about_marketingpositioning/</link>
+      <description><![CDATA[大家好 当您营销/定位您的项目并且用户是个体经营者或自由职业者时，您使用 B2B 策略还是 B2C？ 这里可以使用一些技巧 :)    提交人    /u/Ok-Highlight8544   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f7zxi7/question_about_marketingpositioning/</guid>
+      <pubDate>Tue, 03 Sep 2024 13:27:35 GMT</pubDate>
     </item>
     <item>
-      <title>我创建了一个具有类似 Notion 编辑功能的课程创建应用程序</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f7w6yz/i_created_a_course_creator_app_with_notionlike/</link>
-      <description><![CDATA[        提交人    /u/kpsimon   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f7w6yz/i_created_a_course_creator_app_with_notionlike/</guid>
-      <pubDate>Tue, 03 Sep 2024 10:06:53 GMT</pubDate>
+      <title>我创建了一个提供终身交易的社区建设者平台</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f7zmib/i_created_a_community_builder_platform_which/</link>
+      <description><![CDATA[面向创作者、教练、社区和企业的社区建设平台，用于销售会员资格、活动、私人团体等。  Socially 是一个基于 saas 的 NICHE 社区建设平台。自 2017 年以来，我们一直在迭代和创建面向创作者经济领域的产品，为 200 多个社区提供支持，为 4 个小众社交网络提供支持，从而为超过 150,000 名用户提供服务。很高兴收到有关我们课程新功能的反馈，请在 socially.so 上尝试 现在在 https://socially.so/pricing 上进行终身优惠，并提供 30 天退款保证。    提交人    /u/sociallycommunity   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f7zmib/i_created_a_community_builder_platform_which/</guid>
+      <pubDate>Tue, 03 Sep 2024 13:14:05 GMT</pubDate>
     </item>
     <item>
-      <title>骗子们，我制作了一款舒适的钓鱼游戏供你放松</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f7vtcw/hustlers_i_made_a_cozy_fishing_game_for_you_to/</link>
-      <description><![CDATA[        提交人    /u/RapidRabbitTech   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f7vtcw/hustlers_i_made_a_cozy_fishing_game_for_you_to/</guid>
-      <pubDate>Tue, 03 Sep 2024 09:41:39 GMT</pubDate>
+      <title>修改GPT</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f7zmcv/altergpt/</link>
+      <description><![CDATA[      嗨！我是独立开发者，最近在尝试 AI。我创建了一个名为 AlterGPT 的应用程序，它目前有 4 种不同的流程。 其中之一是 tailwind developer，它允许用户生成使用 tailwind 样式的组件。 另一个是 css developer，它与以前基本相同，但没有 tailwind，只有纯 css。  下一个流程是生成图像 - 目前非常基础。 最后一个是生成文本 - 也非常基础。 目前，我想知道下一步应该去哪里，我的主要关注点应该是什么。我不希望它取得巨大的成功，但如果我能找到每天使用它并将应用程序与他们的需求相匹配的人，我会很高兴！ 您可以在https://altergpt.com上查看该应用程序，新用户可以免费使用 10 代。该应用程序不是基于订阅的，您可以充值几代，因此您无需预付费用！    提交人    /u/Outside-Common2337   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f7zmcv/altergpt/</guid>
+      <pubDate>Tue, 03 Sep 2024 13:13:55 GMT</pubDate>
     </item>
     <item>
-      <title>为音乐家和音乐爱好者提供免费的在线音频工具。反馈</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f7vnf7/free_online_audio_tools_for_musicians_and_music/</link>
-      <description><![CDATA[大家好，我是一名软件工程师，最近开始涉足机器学习。我对此很感兴趣，并开始创建一些音频工具，希望它对音乐家和音乐爱好者有所帮助。到目前为止，我已经创建了：  Key、Bpm、Camelot + 情绪检测器（使用 ML） BPM Tapper 音频修剪器 包括标准化的录音机 实时 HPCP 色度检测器（使用 ML） 节拍器 在不久的功能中，我将发布实时流派检测器（使用 ML）  我的想法是继续开发和为社区维护这个网站，我想请您就新工具提出任何想法、反馈、建议或想法。 谢谢！ https://audioaidynamics.com/    提交人    /u/Nervous_Wash1387   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f7vnf7/free_online_audio_tools_for_musicians_and_music/</guid>
-      <pubDate>Tue, 03 Sep 2024 09:30:06 GMT</pubDate>
+      <title>可点击视频工具 – 查看厨房水槽维修演示视频！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f7zm9i/a_tool_for_clickable_videos_check_out_a_kitchen/</link>
+      <description><![CDATA[我发表了一篇文章，介绍了我创建的一款工具，该工具可使视频中的对象可点击。 人们似乎更喜欢使用它来制作 DIY/解释器视频，我对此表示同意。 因此，我使用厨房水槽维修视频创建了一个演示，您可以在其中点击工具和材料以获取有关它们的更多信息。这有点像交互式视频注释，可为您提供快速详细信息，而无需暂停和搜索。 我认为这对想要通过观看来学习但也希望轻松访问他们在屏幕上看到的内容的人可能会有所帮助。 无论如何，只是想分享一下，以防有人觉得它有用或对如何改进它有任何想法！ 😊 https://reddit.com/link/1f7zm9i/video/8o7admleglmd1/player    由   提交  /u/pystar   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f7zm9i/a_tool_for_clickable_videos_check_out_a_kitchen/</guid>
+      <pubDate>Tue, 03 Sep 2024 13:13:48 GMT</pubDate>
     </item>
     <item>
-      <title>我创建了一个免费的 AI 图像升级器</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f7vgws/i_created_a_free_ai_image_upscaler/</link>
-      <description><![CDATA[      因为大多数已经存在的升级器大致如下： 您必须浏览 5 个不同的加载速度极慢的页面才能注册（这样他们就可以向您的电子邮件发送垃圾邮件）。一旦您最终提交了要放大的图像，他们会要求您每月付费下载图像。而且许多人甚至不支持大图像。 所以我创建了这个免费的替代方案。它很慢，因为它是免费的。但结果很棒！而且您无需注册，没有隐藏的新闻通讯和订阅。 我今天在 producthunt 上推出了它 - 如果您喜欢它，请留下评论并点赞：https://www.producthunt.com/posts/free-ai-image-upscaling    提交人    /u/Straight-Green2020   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f7vgws/i_created_a_free_ai_image_upscaler/</guid>
-      <pubDate>Tue, 03 Sep 2024 09:17:07 GMT</pubDate>
+      <title>如何吸引更多用户使用我的应用？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f7zjud/how_can_i_get_more_users_to_my_app/</link>
+      <description><![CDATA[2 个月前，我听从朋友的建议开发了一款转轮应用。  旋转转轮并做出决定  我非常享受开发这款产品的乐趣，在查看市场上的类似应用时，我发现其他竞争应用的下载量不错，我的士气更加高涨。市场（App Store）的平均最低下载量为每月 5000 名用户。这些数字确实不错，但我知道这些数字很难实现，因为我的应用比较新。我需要你的建议。  我如何才能吸引更多用户？ 我可以做哪些改进？ 我在哪里犯了错误？  我随时愿意听取您的建议，非常感谢。    提交人    /u/keremdemir7   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f7zjud/how_can_i_get_more_users_to_my_app/</guid>
+      <pubDate>Tue, 03 Sep 2024 13:10:52 GMT</pubDate>
     </item>
     <item>
-      <title>Portfolio-io（我的第一个合适的 angular webapp）</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f7unwf/portfolioio_my_first_proper_angular_webapp/</link>
-      <description><![CDATA[大家好，我创建了这个网站，用于添加作品集，以便其他人可以从中获得灵感。但上次我收到大量差评，说我使用了窃取的内容。我需要一些关于此事的诚实意见。 这是我使用 Angular 制作的第一个正式网页，它可能不是那么好，但我对此感到非常自豪。 此外，其中的所有作品集都是我在各种测试场景中添加的。请注意，我并没有试图窃取/宣传窃取的内容。 如果你们同意，请也上传你们的作品集。你们可以使用 Google 注册，如果你们不愿意这样做，可以使用 - 电子邮件：test@duck.com 密码：123456 请给出你们的诚实意见和一些我可以改进的建议。     由    /u/tRt3Lg0d 提交   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f7unwf/portfolioio_my_first_proper_angular_webapp/</guid>
-      <pubDate>Tue, 03 Sep 2024 08:19:01 GMT</pubDate>
+      <title>我创建了一个网站来制作个性化的音乐来安抚你焦虑的狗</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f7z2m1/i_made_a_site_to_create_personalized_music_to/</link>
+      <description><![CDATA[        提交人    /u/Slow-Location7574   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f7z2m1/i_made_a_site_to_create_personalized_music_to/</guid>
+      <pubDate>Tue, 03 Sep 2024 12:48:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
