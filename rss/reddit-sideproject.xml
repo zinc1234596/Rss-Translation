@@ -4,7 +4,98 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Tue, 03 Sep 2024 18:18:52 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Sep 2024 21:13:22 GMT</lastBuildDate>
+    <item>
+      <title>建议</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f8bhu5/suggestions/</link>
+      <description><![CDATA[我想创建下一代约会应用程序。关于要实现或改进哪些功能，您有什么想法吗？还想用一种不同于传统滑动（向左或向右）的方式来实现它。任何建议都将不胜感激👍    提交人    /u/RelativeLeading6379   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f8bhu5/suggestions/</guid>
+      <pubDate>Tue, 03 Sep 2024 21:12:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>决定去黑暗的地方</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f8b35g/decided_to_go_dark/</link>
+      <description><![CDATA[      我重建了我们的网站以使其变暗。我无法让旧网站在较暗的背景下看起来正确。我花了大约 7 到 10 个小时才完成。接下来，我将研究价格并添加更多视频。 Web Host Pro https://preview.redd.it/zhccw54yqnmd1.png?width=1888&amp;format=png&amp;auto=webp&amp;s=958d6fbfb5775eda066687cd32d630d10d37ee55 https://preview.redd.it/eq21t64yqnmd1.png?width=1890&amp;format=png&amp;auto=webp&amp;s=0d04f6da808ce2f14cb119b6ed3e7b74fcbd84d3 https://preview.redd.it/w8prp64yqnmd1.png?width=1890&amp;format=png&amp;auto=webp&amp;s=5dbbf2b91aa4d5b0ea985c2d8b748777399de31e    提交人    /u/perfectdays7   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f8b35g/decided_to_go_dark/</guid>
+      <pubDate>Tue, 03 Sep 2024 20:56:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>[音量计数器] 用音量按钮计数！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f8atp5/volume_counter_count_with_your_volume_buttons/</link>
+      <description><![CDATA[      大家好 - 我最近发布了我的应用，它可让您使用音量按钮（如物理点击器）进行计数。到目前为止，该应用的下载量已达 100 次，我对此感到非常满意 - 因此我添加了以下内容以使应用更加出色：  频率计数器，用于跟踪您每分钟的点击速度（可用于跟踪锻炼速度等） 快速保存和加载 - 无需浏览一堆菜单即可立即切换 双模式，可为每个音量按钮计算单独的项目类别（通常按下音量降低会减去计数，但在此模式下，它会增加辅助计数器）  它完全免费，没有广告，请下载尝试一下 :D   由    /u/Dear_Dot_6824  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f8atp5/volume_counter_count_with_your_volume_buttons/</guid>
+      <pubDate>Tue, 03 Sep 2024 20:45:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>我厌倦了在聊天 GPT 上来回切换，所以我构建了 CMD Cortex，这是一款极简主义的桌面应用程序，可帮助执行适合任何工作空间的终端命令</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f8apvb/i_got_tired_of_going_backforth_with_chatgpt_so_i/</link>
+      <description><![CDATA[      我总是忘记终端命令，或者我不习惯某种技术（如 Kubenetes cli），使用 GPT 有点烦人，而且它还打乱了我的注意力/工作流程，同时还必须详细描述我需要什么，并且必须阅读大量内容。另外，我不喜欢使用那些“AI 终端”，我更喜欢简单的东西。 所以我构建了这个应用程序，它是跨平台的，您可以搜索命令，组织它们，并将所有历史记录都放在那里。它是一个始终在顶部的浮动应用程序，因此几乎不会打扰您。 该应用程序尚未可用，因为我正在寻找一些 beta 测试人员，特别是针对 Windows 和 Linux 的测试人员（如果您有兴趣，请告诉我）。 这是网站：https://cmdcortex.com    提交人    /u/PatchDev_   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f8apvb/i_got_tired_of_going_backforth_with_chatgpt_so_i/</guid>
+      <pubDate>Tue, 03 Sep 2024 20:41:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了一个类似 wordle 的游戏，但针对的是 JavaScript 爱好者</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f8apo4/i_created_a_wordlelike_game_but_for_javascript/</link>
+      <description><![CDATA[        提交人    /u/SasheVuchkov   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f8apo4/i_created_a_wordlelike_game_but_for_javascript/</guid>
+      <pubDate>Tue, 03 Sep 2024 20:41:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>为您的亲人创作任何类型的精彩个性化故事。让您的想象力自由驰骋！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f89ry0/create_amazing_personalized_stories_for_your/</link>
+      <description><![CDATA[通过 MadKickers 的故事释放您内心的讲故事者！📖✨ 我们的创新平台利用人工智能的力量，帮助您为您所爱的人创建真正个性化的故事，无论他们的年龄或兴趣如何。 只需选择您想要的标准：  类型：从异想天开的童话🧚‍♀️到惊心动魄的冒险🤠，可能性无穷无尽。 长度：简短甜蜜的睡前故事😴还是史诗传奇？你决定！ 语言：用你选择的任何语言讲述你的故事🌎。 年龄：创作能引起各个年龄段读者共鸣的故事，从幼儿到祖父母👵👨‍🦳。 你的独特之处：提供情节提示、喜欢的角色甚至是特殊的记忆，然后看 MadKickers 将这一切编织成一个独一无二的故事。  但这还不是全部！故事还会生成精美的图像🖼️来陪伴你的故事，让人物和场景在你眼前栩栩如生🤩。 无论你是在寻找完美的生日礼物🎁、温馨的睡前故事，还是只是一个有趣而富有创意的出口，故事都是你实现个性化故事讲述魔法的首选解决方案！ ✨ 无论您是在寻找温馨的睡前故事，还是只是寻找一个有趣且富有创意的出口，MadKickers 的故事都是您实现个性化讲故事魔法的首选解决方案！✨ 有一个免费套餐可供使用，或者如果您只是一个读者，您可以探索已经创建的整个系列。 看一看： https://stories.madkickers.com/    提交人    /u/Kenzitron   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f89ry0/create_amazing_personalized_stories_for_your/</guid>
+      <pubDate>Tue, 03 Sep 2024 20:02:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>我是一名兽医和业余开发者，我为自己的客户和其他宠物主人制作了一款应用程序。如果您能提供任何关于如何增加自然流量的建议，我将不胜感激。详情请见帖子</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f89g1m/i_am_a_veterinarian_and_hobby_developer_who_made/</link>
+      <description><![CDATA[当前状态：1000 个用户帐户和 70 个付费订阅。评分不多，但我的少数评分是正面的（5 星评分 + 2 个正面评价）。我正在努力争取有机应用商店流量 - 我从 Fiverr 聘请了一位顶级交付者进行 ASO，但没有任何改进。  Google Ads 提供了许多安装，但大多是无意的，因为我没有预算来竞争重要的关键字。  我没有该应用的有效着陆网页。  我的预算不是很多，我不知道如何有效地推动有机流量。我应该优先制作一个像样的着陆页，致力于 ASO 还是继续从谷歌广告中吸引（或多或少毫无价值的）流量只是为了增加安装量？纳米影响者？ 感谢您的阅读！   由    /u/FridaMckenzie123  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f89g1m/i_am_a_veterinarian_and_hobby_developer_who_made/</guid>
+      <pubDate>Tue, 03 Sep 2024 19:49:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的周年纪念应用终于在 iOS App Store 上线了 🥳</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f898xt/my_anniversary_app_finally_up_on_the_ios_app_store/</link>
+      <description><![CDATA[        提交人    /u/jorditambillo   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f898xt/my_anniversary_app_finally_up_on_the_ios_app_store/</guid>
+      <pubDate>Tue, 03 Sep 2024 19:41:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>2024 年最佳 IPTV 服务提供商终极指南 | IPTV 订阅 | 最佳 IPTV | IPTV 提供商 | IPTV 提供商 | IPTV 服务 | 最佳 IPTV 服务 | IPTV 服务 | IPTV | 最佳 IPTV 提供商 | IPTV 最佳 | IPTV 订阅 | 最佳 IPTV 服务 | 最佳 IPTV 订阅 | 最佳 IPTV 2024 | 最佳 IPTV Reddit</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f896et/the_ultimate_guide_to_the_best_iptv_service/</link>
+      <description><![CDATA[  由    /u/Chemical_Guava2685  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f896et/the_ultimate_guide_to_the_best_iptv_service/</guid>
+      <pubDate>Tue, 03 Sep 2024 19:38:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>我建立了一个 AI 简历生成器 wundercv.com</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f890n2/i_built_an_ai_resume_generator_wundercvcom/</link>
+      <description><![CDATA[嗨， 我想分享一个我一直在研究的工具：WunderCV.com - 一个由人工智能驱动的简历生成器。它旨在简化简历创建过程并帮助求职者快速创建专业、量身定制的简历。 主要功能：  人工智能辅助内容生成 可自定义的模板 轻松编辑和格式化  我很乐意听到您的想法和反馈。您认为简历生成器中的哪些功能最有用？ 请访问 WunderCV.com 并告诉我您的想法！ 也可以查看我的推特：https://x.com/niklas_siko    提交人    /u/whatisn3xt   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f890n2/i_built_an_ai_resume_generator_wundercvcom/</guid>
+      <pubDate>Tue, 03 Sep 2024 19:32:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>井字游戏 Al：我刚刚制作了一个简单的井字游戏，你可以在其中与 Al 对战</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f88tfs/tictactoe_al_i_just_made_a_simple_tictactoe_game/</link>
+      <description><![CDATA[没什么特别的，但看看你是否能比电脑更聪明，这很有趣。 在这里查看：https://tic-tac-toe-ai.pages.dev 如果你尝试了，请告诉我你的想法。如果你喜欢，请分享。    提交人    /u/SeaOfZen7   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f88tfs/tictactoe_al_i_just_made_a_simple_tictactoe_game/</guid>
+      <pubDate>Tue, 03 Sep 2024 19:24:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>我在 LinkedIn 上自动申请了 500 个职位，并获得了 30 个面试机会，方法如下！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f88mdl/i_automatically_applied_to_500_jobs_on_linkedin/</link>
+      <description><![CDATA[厌倦了无休止的求职过程？我也是，所以我创建了 LinkedIn AI Hawk，一个可以自动化 LinkedIn 上求职过程的工具。我是怎么做到的？这个人工智能机器人会分析你的个人资料，将其与职位描述进行匹配，并为每份申请生成定制的简历和求职信。最好的部分？它可以在你睡觉时申请工作！ 使用这个工具仅一个月，我就获得了 30 次面试机会！个性化的申请大大提高了我被人工智能和人类招聘人员注意到的机会。 好奇它是如何工作的？只需输入你的专业背景，然后在你喝咖啡的时候看着它生成定制的申请并将它们提交给数百个职位。 想尝试一下吗？您可以在这里查看：LinkedIn AI Hawk GitHub 项目。 您如何看待在求职中使用人工智能？您尝试过类似的工具吗？我很想听听您的想法！    提交人    /u/ChiaPlotting   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f88mdl/i_automatically_applied_to_500_jobs_on_linkedin/</guid>
+      <pubDate>Tue, 03 Sep 2024 19:17:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>将任何文档转换为干净的 markdown</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f883sj/turn_any_document_into_clean_markdown/</link>
+      <description><![CDATA[我想与大家分享我的开源项目 我会简短介绍：ThePipe 是一个使用视觉语言模型 (VLM) 将任何 PDF、URL、Word 文档或 powerpoint 转换为干净的 markdown 格式的软件包。与传统的抓取工具不同，ThePipe 可以毫无问题地处理扫描质量较差的 PDF、高度复杂的视觉效果以及提取棘手的表格。 感谢您花时间查看它！    提交人    /u/Confident-Honeydew66   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f883sj/turn_any_document_into_clean_markdown/</guid>
+      <pubDate>Tue, 03 Sep 2024 18:57:02 GMT</pubDate>
+    </item>
     <item>
       <title>终于启动了我的业余项目——一款可以显示电影是否有片尾场景的简单应用</title>
       <link>https://www.reddit.com/r/SideProject/comments/1f86uhy/finally_launched_my_side_project_a_simple_app/</link>
@@ -18,97 +109,6 @@
       <description><![CDATA[大家好， 对于那些不知道的人，我一直在使用原生笔记本电脑或手机摄像头构建注视跟踪引擎，以提高可访问性并使工程师能够为计算机开发新的界面。 这个项目已经发展到包括两个引擎、两个测试应用程序、一个将所有内容都保持在一个品牌下的组织以及网络演示。一段时间以来，我一直在开发该引擎的第二个版本，但只有使用 Python 库并运行 pip install eyegestures 的用户或通过购买测试应用程序支持该项目的用户才能访问它。 Web 上的 EyeGestures v2 我终于将第二个引擎推向了 Web 上的 Beta 测试，您可以通过以下链接使用它：https://eyegestures.com/v2_beta_testing。 它本质上基于两个光标进行操作：绿色光标指示用户应该关注的位置，蓝色光标显示算法估计的注视位置。目前，校准过程可能有点冗长，但随着每个点的增加，蓝色光标会变得更加准确。 我们正在寻找商业赞助： 由于这项工作非常耗时，并且我们提供的独特利基价值难以货币化（并且将引擎置于付费墙后面与我们的使命不符），我们将非常感谢任何商业或行业合作伙伴关系和支持。 如果您有兴趣，请通过 contact@eyegestures.com 与我们联系。 或者在 Polar 上支持我们：https://polar.sh/NativeSensors。    提交人    /u/TraditionalDistrict9   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1f86rik/eyegestures_update_7_new_gaze_tracking_engine_is/</guid>
       <pubDate>Tue, 03 Sep 2024 18:04:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>构建了一个简单的颜色匹配游戏。试试吧！欢迎提供反馈。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f86nx6/built_a_simple_colour_matching_game_try_it_out/</link>
-      <description><![CDATA[        由    /u/Capital_Assistant338  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f86nx6/built_a_simple_colour_matching_game_try_it_out/</guid>
-      <pubDate>Tue, 03 Sep 2024 18:00:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个人工智能社交媒体内容创建器</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f867hj/i_created_an_ai_social_media_content_creator/</link>
-      <description><![CDATA[      所以，我上周做了一件事。我制作了一个名为 Postchef 的工具，它可以将文章和博客文章转化为具有酷炫视觉效果的引人入胜的社交媒体内容。它非常简洁，但问题是 - 我完全不知道如何将它发布出去。 😅 我只是一个有想法并付诸实践的开发者。现在我坐在这里，面对着这个由人工智能驱动的内容创建者，我就像......现在该怎么做？ 有人遇到过这种情况吗？你是如何从“我做了一个很酷的东西”到真正让人们使用它的？我对整个营销游戏完全陌生。 任何提示、技巧，甚至是残酷的诚实都会非常感激。提前谢谢！ 附注：如果你好奇，可以在 Postchef.co 上找到。但说真的，没有压力。我来这里主要是为了得到建议！ https://preview.redd.it/kjkv7nehsmmd1.jpg?width=2112&amp;format=pjpg&amp;auto=webp&amp;s=c4036c868eb7e98b26bae73350f5c200776fd3a9    提交人    /u/Letgodwork   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f867hj/i_created_an_ai_social_media_content_creator/</guid>
-      <pubDate>Tue, 03 Sep 2024 17:42:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>这里有谁知道如何构建微型 SaaS 产品</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f8638a/anyone_here_knows_how_to_build_micro_saas_products/</link>
-      <description><![CDATA[  由    /u/_whitecanvas  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f8638a/anyone_here_knows_how_to_build_micro_saas_products/</guid>
-      <pubDate>Tue, 03 Sep 2024 17:38:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>ResourceMapped Web 应用程序：anayravindra.com</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f85zf1/resourcemapped_web_app_anayravindracom/</link>
-      <description><![CDATA[大家好！我开发了 ResourceMapped，这是一个 Web 应用程序，用户可以使用它来追踪和缩小距离他们最近的免费诊所、捐赠区、课后活动和食物银行的位置。单击附加链接，随意浏览网站！anayravindra.com 请提供反馈，我想尽可能改进这个应用程序！    提交人    /u/AMR210   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f85zf1/resourcemapped_web_app_anayravindracom/</guid>
-      <pubDate>Tue, 03 Sep 2024 17:33:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>ResourceMapped Webapp：anayravindra.com</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f85xo1/resourcemapped_webapp_anayravindracom/</link>
-      <description><![CDATA[大家好！我开发了 ResourceMapped，这是一个 Web 应用程序，用户可以使用它来追踪和缩小最近的免费诊所、捐赠区、课后项目和食物银行相对于他们所在位置的范围。单击附加链接，随意浏览网站！anayravindra.com    提交人    /u/AMR210   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f85xo1/resourcemapped_webapp_anayravindracom/</guid>
-      <pubDate>Tue, 03 Sep 2024 17:32:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了跨平台 AI、截图翻译、单词选择翻译和 OCR 软件</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f85dwm/i_created_crossplatform_ai_screenshot_translation/</link>
-      <description><![CDATA[      在日常工作或者学习中，难免会遇到需要翻译的场景，但是一直没找到一款好用又简单的翻译工具。 TTime 是一款AI、截图、选词翻译和OCR软件支持所有常见服务，AI、dict、百度、Bing、DeepL、谷歌、GeminiAI、ChatGPT 等。 6种翻译模式，包括截图、选词、浮球、替换等，附加扩展OCR和AI功能软件 你可以尝试一下，看看效果如何。也许你可以给我一些反馈和建议。 截图翻译： https://i.redd.it/jei3z13mmmmd1.gif 单词选择翻译： https://i.redd.it/ywp26zynmmmd1.gif 输入翻译： https://i.redd.it/2yyss8epmmmd1.gif   由    /u/byliangcheng  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f85dwm/i_created_crossplatform_ai_screenshot_translation/</guid>
-      <pubDate>Tue, 03 Sep 2024 17:10:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>能帮我对一个想法提供反馈吗？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f856nc/help_me_with_feedback_on_an_idea/</link>
-      <description><![CDATA[嘿，让我们互相帮助，共同构思吧！ 我正在寻找一个关于 SaaS 工具的想法的反馈，该工具可以自动为您生成 Twitter 线索。 很乐意对您的想法提供反馈 :) 我的理想角色是手动在 Twitter 上为他的工具\业务寻找线索的人。 我的角色 - 前产品经理，现在是 SaaS 客户主管和构建者。 如果您有兴趣，请直接发信息给我，我很乐意告诉您我的想法并问您几个问题。 谢谢！    提交人    /u/AmphibianCautious334   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f856nc/help_me_with_feedback_on_an_idea/</guid>
-      <pubDate>Tue, 03 Sep 2024 17:02:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>我开发了一个 Linkedin Chrome 扩展程序，它允许你编辑你预定的 Linkedin 帖子。我花了一天时间开发，这是我的第一个独立项目。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f8559r/i_built_a_linkedin_chrome_extention_that_allows/</link>
-      <description><![CDATA[        由    /u/charismania  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f8559r/i_built_a_linkedin_chrome_extention_that_allows/</guid>
-      <pubDate>Tue, 03 Sep 2024 17:01:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>Toxiscan 已上线！！！也可在 Product Hunt 上找到：https://www.producthunt.com/posts/toxiscan</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f84z38/toxiscan_is_live_also_available_on_product_hunt/</link>
-      <description><![CDATA[我们非常高兴地宣布，我们的最终项目现已上线！Toxiscan 通过扫描食品中可能影响您健康的有害物质来帮助您做出明智的选择，它还评估食品对环境的影响。我们需要至少 1000 名用户才能成功完成我们的研究金，请支持我们并向我们提供您宝贵的反馈：https://www.toxiscan.com/    提交人    /u/Technical-Ad414   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f84z38/toxiscan_is_live_also_available_on_product_hunt/</guid>
-      <pubDate>Tue, 03 Sep 2024 16:54:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>推出 FeatureNest：您用于集中和管理功能请求的经济实惠的工具！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f84how/launching_featurenest_your_affordable_tool_for/</link>
-      <description><![CDATA[嘿，制造商！ 我很高兴地宣布推出FeatureNest - 一种经济高效的工具，旨在帮助您集中、分类和管理跨多个项目的功能请求 - 所有这些都在一个有组织的地方！ 为什么选择FeatureNest？ 集中存储库：将所有功能请求集中在一个地方，按项目整齐地组织起来。 自定义分类：轻松在“待处理”、“有价值”、“未来”、“完成”和“垃圾箱”等类别之间移动请求。 轻松协作：通过电子邮件与您的团队共享请求，确保每个人都了解最新情况。 为扩展而构建：无论您管理一个项目还是十个项目，FeatureNest 都可以根据您的需求进行扩展。 经济高效：与市场上的其他工具相比，FeatureNest 的价格更实惠，可提供巨大的价值。 准备好简化您的功能请求流程了吗？ 查看 featurenest.co 如果您有任何问题或建议，请随时发表评论或向我发送 DM。 期待听到您的想法并帮助您更有效地管理您的功能请求！    提交人    /u/bucky_fullerene   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f84how/launching_featurenest_your_affordable_tool_for/</guid>
-      <pubDate>Tue, 03 Sep 2024 16:35:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>财富 1000 强企业完整名单</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f84g2d/full_list_of_fortune_1000_companies/</link>
-      <description><![CDATA[        由    /u/Life_Ad_2142  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f84g2d/full_list_of_fortune_1000_companies/</guid>
-      <pubDate>Tue, 03 Sep 2024 16:33:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的游戏现在已正式登陆 App Store！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f84dsr/my_game_is_now_officially_on_the_app_store/</link>
-      <description><![CDATA[      在我的全新手机游戏 Spark - Endless Challenge 中创下新高分、攀升排行榜并探索新关卡 尝试一下并告诉我您的想法！    提交人    /u/Basic-Woodpecker5807   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f84dsr/my_game_is_now_officially_on_the_app_store/</guid>
-      <pubDate>Tue, 03 Sep 2024 16:31:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要关于 UI 的反馈 | 睡前冒险 | 使用 AI 的睡前故事</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f84dah/need_feedack_on_ui_bedtime_adventures_bedtime/</link>
-      <description><![CDATA[      大家好， 我想就我最近的副业征求一下大家的反馈，这是一款 Android 应用，它可以根据孩子们提供的输入（例如姓名、年龄、性别、地点、附加角色。另外，我想在这里提一下，这些故事是使用 Open AI 的文本和图像生成模型 API 生成的。我非常感谢您根据提供的屏幕截图对以下几点提出反馈。  UI/UX 数据流 其他输入，如功能。  https://preview.redd.it/tdx1jqpmfmmd1.png?width=1520&amp;format=png&amp;auto=webp&amp;s=1042a1f53667eba4f2f7856966e701c1e739176b https://preview.redd.it/ldio55rmfmmd1.png?width=1520&amp;format=png&amp;auto=webp&amp;s=da7c3822ac3f34ac4b4d659b52784a66c7c9b43e https://preview.redd.it/6su6impmfmmd1.png?width=1520&amp;format=png&amp;auto=webp&amp;s=9508aadd2323712e6490bd1a135311c62114e2fa https://preview.redd.it/oz8r0wmmfmmd1.png?width=1520&amp;format=png&amp;auto=webp&amp;s=4036070ac15f96de8f00a099a654587c067e3553    提交人    /u/Aggravating-Taro8860   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f84dah/need_feedack_on_ui_bedtime_adventures_bedtime/</guid>
-      <pubDate>Tue, 03 Sep 2024 16:30:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
