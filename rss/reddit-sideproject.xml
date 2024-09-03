@@ -4,20 +4,104 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Tue, 03 Sep 2024 09:15:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Sep 2024 12:27:47 GMT</lastBuildDate>
     <item>
-      <title>如何改进我的主页</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f7uyt0/how_can_i_improve_my_homepage/</link>
-      <description><![CDATA[        提交人    /u/mister-sushi   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f7uyt0/how_can_i_improve_my_homepage/</guid>
-      <pubDate>Tue, 03 Sep 2024 08:41:06 GMT</pubDate>
+      <title>我创建了一个 WordPress 插件来轻松回滚插件更新</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f7y7xp/i_created_a_wordpress_plugin_to_rollback_plugin/</link>
+      <description><![CDATA[我在一家代理机构工作多年，负责管理客户的 WordPress 网站。维护运行后，插件更新经常会导致兼容性问题。 发生这种情况时，我们有两个选择：  恢复更新前的完整备份 提取备份文件以获取我们想要回滚到的先前插件版本，然后手动上传到服务器  这两个选项都不理想，并且花费的时间比应有的时间长。我希望能够通过单击按钮快速回滚单个插件更新。WP Rollback 是一个选项，但它仅适用于免费插件，而该代理机构使用了各种高级插件。我需要一个适用于所有插件的统一解决方案。 这就是我开始构建 Super Rollback 的原因，它是一种立即回滚任何插件更新的方法。 今天它在插件目录上启动了！ 欢迎您尝试该插件并在评论中留下一些反馈。很想听听您的想法 🙂    提交人    /u/Morolord   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f7y7xp/i_created_a_wordpress_plugin_to_rollback_plugin/</guid>
+      <pubDate>Tue, 03 Sep 2024 12:06:45 GMT</pubDate>
     </item>
     <item>
-      <title>我讨厌从头开始设计（Figma 库适合那些想要出色设计的人）</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f7uvod/i_hate_designing_from_scratch_figma_library_for/</link>
-      <description><![CDATA[        提交人    /u/notomarsol   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f7uvod/i_hate_designing_from_scratch_figma_library_for/</guid>
-      <pubDate>Tue, 03 Sep 2024 08:34:40 GMT</pubDate>
+      <title>您可以使用网站 URL 创建社交媒体日历，确保您的帖子新鲜且真实 🎉🎉🎉 查看 viralmarketer.co</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f7y1sl/you_can_create_social_media_calendars_using/</link>
+      <description><![CDATA[        提交人    /u/Ok_Influence_9144   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f7y1sl/you_can_create_social_media_calendars_using/</guid>
+      <pubDate>Tue, 03 Sep 2024 11:58:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>仅仅 3 天，我的设计工具 Sketch Logo AI 就赚了 176 美元！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f7xsdz/in_just_3_days_my_design_tool_sketch_logo_ai/</link>
+      <description><![CDATA[        提交人    /u/TofuCat1804   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f7xsdz/in_just_3_days_my_design_tool_sketch_logo_ai/</guid>
+      <pubDate>Tue, 03 Sep 2024 11:43:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>fooyin - 可定制的音乐播放器</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f7x0et/fooyin_a_customisable_music_player/</link>
+      <description><![CDATA[      我想开始分享这个，因为它仍然是一个相对不为人知的项目，而且过去几年我一直在默默地致力于它。 https://preview.redd.it/eoktrjuiskmd1.jpg?width=1418&amp;format=pjpg&amp;auto=webp&amp;s=0099fb6dba88d27debbb7a93d87b35c6994bdba5 几年前我毕业时，找一份入门级的工作很难，所以我决定开始另一个项目。我已经断断续续地使用 Linux 和 Windows 一段时间了，但音乐播放器的选择是我暂时无法完全切换到 Linux 的少数几个原因之一。 我有一个相当大的本地库，我使用过的所有播放器在可定制性方面都无法与 foobar2000 等 Windows 播放器相媲美。或者即使可以，也没有那么好用。 我创建 fooyin 的目的是学习 Qt 并在 foobar2000 中复制我的旧设置，它严重依赖于 Facets 插件。这个最初只是个小项目，很快就发展成了一个更大的项目。 几年后，fooyin 发布了当前的 v0.6.2 版本。它仍处于早期开发阶段，还有很长的路线图，但随着新贡献者的加入，它正在迅速成熟。目前缺少一般文档和用于开发目的的文档，但我们正在努力。 它已在 Flathub 上正式发布，并且已在几个存储库中。我很乐意听到您的任何反馈或建议。 https://www.fooyin.org    提交人    /u/ludouzi   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f7x0et/fooyin_a_customisable_music_player/</guid>
+      <pubDate>Tue, 03 Sep 2024 10:59:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>我建造了 Artoons：生成或探索卡通风格的 AI 插图集合。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f7wzfe/i_built_artoons_generate_or_explore_a_collection/</link>
+      <description><![CDATA[        提交人    /u/sujjeeee   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f7wzfe/i_built_artoons_generate_or_explore_a_collection/</guid>
+      <pubDate>Tue, 03 Sep 2024 10:57:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>“价值”对你来说意味着什么？（请读到最后）</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f7wxgh/what_does_value_mean_to_you_please_read_to_the_end/</link>
+      <description><![CDATA[我们一直在为企业主、营销人员和企业家建立一个免费的在线社区。我们的会员数量刚刚达到 3 万。  我很想知道商业中的“价值”对您来说真正意味着什么。这些年来，我们看到人们来来去去。 我们看到的一些常见用户资料始终是这样的：  快速致富的孩子 自由职业者 新创业公司 网络工作者 想要闲逛的行业老手 试图出售课程/其他立即被禁止的 sht 的骗子。 寻找值得投资的企业的投资者。  我知道所有这些 ICP 都有不同的意图和当他们加入时，他们会经历一段全新的旅程。但是，什么事情会让你思考呢？“哇哦，我真的很高兴加入这里” 特别是对你来说。 我们的总体主题/座右铭是：  “通过协作实现增长” “有意识的专业人士社区”  我喜欢认为价值来自于真正的社区，而不仅仅是“一站式商店”或“工作市场” 尽管其他人经常说，如此庞大的社区可能会让人不知所措，让你失去参与其中的兴趣。  如果您处于想要的位置：  帮助 有价值的见解 对业务了解很多的人的社区 免费的（尤其是这个） 增长  您将如何搜索这样的社区？ 您会：  用 Google 搜索？ 听取流行的商业影响者的建议？ 通过广告来？ 听别人说？ 查看在线目录？ 阅读有关商业主题的博客？  您希望通过哪种研究方法来找到这样的社区 &amp;什么东西会让你觉得“是的，这就是我一直在寻找的”？ 会是：  评论？ 推荐？ 社区活动？  还有其他想法吗？ 非常感谢 reddit 的各位提供的任何见解或反馈！    提交人    /u/furloughgroup   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f7wxgh/what_does_value_mean_to_you_please_read_to_the_end/</guid>
+      <pubDate>Tue, 03 Sep 2024 10:54:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>TikTok 自动化</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f7wvak/tiktok_automation/</link>
+      <description><![CDATA[      伙计们刚刚开始我的关于恐怖故事的 TikTok 页面，它的目的是实现自动化并获得观看次数以符合创作者的资格奖励计划我附加了视频链接请表达爱意和支持。    提交人    /u/Dizzy-Excuse-4574   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f7wvak/tiktok_automation/</guid>
+      <pubDate>Tue, 03 Sep 2024 10:50:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>温度毯 Web 应用程序：🌤️ 天气数据 + 🧶 艺术！获取历史天气数据，选择纱线颜色，并可视化您的钩针或针织项目。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f7wpu3/temperature_blanket_web_app_weather_data_art_get/</link>
+      <description><![CDATA[        提交人    /u/tgoms   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f7wpu3/temperature_blanket_web_app_weather_data_art_get/</guid>
+      <pubDate>Tue, 03 Sep 2024 10:40:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>四个被低估的副业，没有人真正谈论，可以帮你每天赚 900 美元以上</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f7wjje/four_underrated_side_hustles_no_one_really_talks/</link>
+      <description><![CDATA[    /u/vinaylovestotravel  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f7wjje/four_underrated_side_hustles_no_one_really_talks/</guid>
+      <pubDate>Tue, 03 Sep 2024 10:29:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>小里程碑：我们的第一次大促销！🥂</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f7w7ws/small_milestone_our_first_major_sale/</link>
+      <description><![CDATA[      这对我来说意义重大。我从没想过我会从自己建立的副项目中真正获得收入。 有趣的是，过去几周我一直在拖延营销，所以这次销售真的让我措手不及。 我认为这是一个好兆头，表明我的产品适合市场，因此我会继续完善它并确保我现在和未来的客户感到满意。 如果您好奇，请在这里亲自查看👉️ https://www.nextinject.pro 首次销售    由    /u/craciun_07 提交   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f7w7ws/small_milestone_our_first_major_sale/</guid>
+      <pubDate>Tue, 03 Sep 2024 10:08:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了一个具有类似 Notion 编辑功能的课程创建应用程序</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f7w6yz/i_created_a_course_creator_app_with_notionlike/</link>
+      <description><![CDATA[        提交人    /u/kpsimon   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f7w6yz/i_created_a_course_creator_app_with_notionlike/</guid>
+      <pubDate>Tue, 03 Sep 2024 10:06:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>骗子们，我制作了一款舒适的钓鱼游戏供你放松</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f7vtcw/hustlers_i_made_a_cozy_fishing_game_for_you_to/</link>
+      <description><![CDATA[        提交人    /u/RapidRabbitTech   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f7vtcw/hustlers_i_made_a_cozy_fishing_game_for_you_to/</guid>
+      <pubDate>Tue, 03 Sep 2024 09:41:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>为音乐家和音乐爱好者提供免费的在线音频工具。反馈</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f7vnf7/free_online_audio_tools_for_musicians_and_music/</link>
+      <description><![CDATA[大家好，我是一名软件工程师，最近开始涉足机器学习。我对此很感兴趣，并开始创建一些音频工具，希望它对音乐家和音乐爱好者有所帮助。到目前为止，我已经创建了：  Key、Bpm、Camelot + 情绪检测器（使用 ML） BPM Tapper 音频修剪器 包括标准化的录音机 实时 HPCP 色度检测器（使用 ML） 节拍器 在不久的功能中，我将发布实时流派检测器（使用 ML）  我的想法是继续开发和为社区维护这个网站，我想请您就新工具提出任何想法、反馈、建议或想法。 谢谢！ https://audioaidynamics.com/    提交人    /u/Nervous_Wash1387   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f7vnf7/free_online_audio_tools_for_musicians_and_music/</guid>
+      <pubDate>Tue, 03 Sep 2024 09:30:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了一个免费的 AI 图像升级器</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1f7vgws/i_created_a_free_ai_image_upscaler/</link>
+      <description><![CDATA[      因为大多数已经存在的升级器大致如下： 您必须浏览 5 个不同的加载速度极慢的页面才能注册（这样他们就可以向您的电子邮件发送垃圾邮件）。一旦您最终提交了要放大的图像，他们会要求您每月付费下载图像。而且许多人甚至不支持大图像。 所以我创建了这个免费的替代方案。它很慢，因为它是免费的。但结果很棒！而且您无需注册，没有隐藏的新闻通讯和订阅。 我今天在 producthunt 上推出了它 - 如果您喜欢它，请留下评论并点赞：https://www.producthunt.com/posts/free-ai-image-upscaling    提交人    /u/Straight-Green2020   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1f7vgws/i_created_a_free_ai_image_upscaler/</guid>
+      <pubDate>Tue, 03 Sep 2024 09:17:07 GMT</pubDate>
     </item>
     <item>
       <title>Portfolio-io（我的第一个合适的 angular webapp）</title>
@@ -25,90 +109,6 @@
       <description><![CDATA[大家好，我创建了这个网站，用于添加作品集，以便其他人可以从中获得灵感。但上次我收到大量差评，说我使用了窃取的内容。我需要一些关于此事的诚实意见。 这是我使用 Angular 制作的第一个正式网页，它可能不是那么好，但我对此感到非常自豪。 此外，其中的所有作品集都是我在各种测试场景中添加的。请注意，我并没有试图窃取/宣传窃取的内容。 如果你们同意，请也上传你们的作品集。你们可以使用 Google 注册，如果你们不愿意这样做，可以使用 - 电子邮件：test@duck.com 密码：123456 请给出你们的诚实意见和一些我可以改进的建议。     由    /u/tRt3Lg0d 提交   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1f7unwf/portfolioio_my_first_proper_angular_webapp/</guid>
       <pubDate>Tue, 03 Sep 2024 08:19:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>DecideAI——我的关于人工智能驱动随机决策的副项目——很想听听您的想法！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f7uk0x/decideai_my_side_project_on_aidriven_random/</link>
-      <description><![CDATA[大家好！我相信移动应用的未来在于利用人工智能和语音控制让我们的互动变得更智能、更直观。因此，我决定将这一信念付诸实践，我正在开展一个名为 DecideAI 的副项目。这是一款有趣的应用，它可以帮助人们通过说出他们的选择来随机做出决定——将那些每天的“我该怎么办？”时刻变得轻松甚至有点令人兴奋。 这段旅程充满了挑战和发现，特别是在微调提示以确保人工智能顺利运行并避免做出假设方面。但我知道还有很大的改进空间。 这就是你发挥作用的地方——我很想听听你对如何改善用户体验或哪些功能可以将其提升到新水平的想法。任何反馈或想法都很重要。感谢您花时间查看！ iOS -&gt; https://apps.apple.com/ee/app/decideai/id6566178598 Android -&gt; https://play.google.com/store/apps/details?id=com.decideai.decisionmaker    提交人    /u/damiafuentes   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f7uk0x/decideai_my_side_project_on_aidriven_random/</guid>
-      <pubDate>Tue, 03 Sep 2024 08:11:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>创业很难。我们用 7 天让一切变得简单！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f7ubfh/starting_up_is_hard_we_made_it_simple_in_7_days/</link>
-      <description><![CDATA[       由    /u/niktson  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f7ubfh/starting_up_is_hard_we_made_it_simple_in_7_days/</guid>
-      <pubDate>Tue, 03 Sep 2024 07:55:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>适合有限时间和资源的最佳营销自动化工具？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f7txaf/best_marketing_automation_tools_for_limited_time/</link>
-      <description><![CDATA[我目前正在从事一个 SaaS 项目，发现每天在所有平台上发布帖子很有挑战性。由于时间非常有限，我希望尽可能多地自动化营销流程。  您推荐哪些用于营销自动化的工具或产品？    提交人    /u/Dry-Surround-1680   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f7txaf/best_marketing_automation_tools_for_limited_time/</guid>
-      <pubDate>Tue, 03 Sep 2024 07:26:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了 MyFeedIn 并用它赚了 600 欧元，但现在怎么办？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f7tjbf/i_created_myfeedin_and_generated_600_with_it_but/</link>
-      <description><![CDATA[2 个月前，我开发了 chrome 扩展 MyFeedIn。 目标：通过创建个性化的创建者列表，更有效地在 LinkedIn 上互动。  这个想法来自 Twitter，您可以在 Twitter 上创建自己的列表。对于 LinkedIn，我使用该平台的原生功能按创建者过滤帖子。 我目前的客户获取是通过我的 LinkedIn 帖子进行的。 但我想更进一步。  您会推荐什么？ 创建登录页面并进行 pSEO 是个好主意吗？（此外，您真的可以在登录页面上进行 pSEO 吗？） 或者还有其他方法可以获取一些用户吗？   由    /u/AxelSchapmann  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f7tjbf/i_created_myfeedin_and_generated_600_with_it_but/</guid>
-      <pubDate>Tue, 03 Sep 2024 06:57:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>V45e.com - 刚刚推出了一款用于创建 3D 阁楼对象的应用程序。希望您会喜欢它！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f7te2a/v45ecom_just_launched_an_app_to_create_3d_loft/</link>
-      <description><![CDATA[        提交人    /u/No_Software8191   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f7te2a/v45ecom_just_launched_an_app_to_create_3d_loft/</guid>
-      <pubDate>Tue, 03 Sep 2024 06:47:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>深思熟虑 - 利用认知行为疗法和人工智能增强你的思维</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f7sc6q/thoughtful_empower_your_mind_with_cognitive/</link>
-      <description><![CDATA[大家好，我刚刚以个体经营者的身份推出了一款名为 Thoughtful 的应用程序 - 希望得到您的反馈！ 在此处观看视频：探索 Thoughtful 的工作原理 | Thoughtful (thoughtfulapp.ca)    提交人    /u/chosen-panda   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f7sc6q/thoughtful_empower_your_mind_with_cognitive/</guid>
-      <pubDate>Tue, 03 Sep 2024 05:36:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的第一个项目 - 需要一些烘焙</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f7s700/my_first_project_need_some_roasting/</link>
-      <description><![CDATA[TrueU，让您了解自己的平台。 TrueU 喜欢一个平台，旨在让用户真正了解他们的朋友和家人对他们的看法。TrueU 的个性化测验和反馈让他们有机会更好地了解自己，促进个人成长并建立更好的关系。    提交人    /u/Specialist_Muffin344   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f7s700/my_first_project_need_some_roasting/</guid>
-      <pubDate>Tue, 03 Sep 2024 05:27:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>帮助我构建最好的开源 UI 组件集合</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f7s4ez/help_me_in_building_the_best_open_source/</link>
-      <description><![CDATA[      就在之前上个月是我的生日，我终于开始着手一个我考虑了很久的项目 - ui/beats！ ui/beats 是一组预构建的现代 UI 组件和动画，旨在帮助您更快地构建界面 - 非常快！ 无论您是创建新项目还是增强现有项目，ui/beats 都能满足您的需求。最好的部分？它是开源的！ 与此同时，如果您有兴趣，请随时查看该项目，如果您喜欢所看到的内容，甚至可以在 GitHub 上放置⭐️。也欢迎做出贡献！ 链接到网站 - uibeats.com    提交人    /u/Remarkable_Row_6226   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f7s4ez/help_me_in_building_the_best_open_source/</guid>
-      <pubDate>Tue, 03 Sep 2024 05:22:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>🔥 新功能：ReactStudyKit.com 上的 React 社区投票 🔥</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f7rtpv/new_feature_react_community_polls_on/</link>
-      <description><![CDATA[嘿，React 开发者们！我们刚刚在 ReactStudyKit.com 上推出了一项新的民意调查功能，我们很乐意听取您的意见！ 🔹 对热门 React 主题进行投票 🔹 查看社区的实时结果 🔹 提出新的民意调查想法 我们目前的民意调查：“2024 年您首​​选的状态管理解决方案是什么？” 前往 ReactStudyKit.com/polls 进行投票，看看社区怎么想。让我们引发一些讨论吧！ 您还希望看到哪些与 React 相关的其他主题的民意调查？在评论中发表你的想法！    提交人    /u/ReactStudyKit   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f7rtpv/new_feature_react_community_polls_on/</guid>
-      <pubDate>Tue, 03 Sep 2024 05:04:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>一款基于 MIDI 文件生成免版税和弦进行的音乐软件，具有极大的灵活性和可定制性</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f7rlif/a_music_software_that_generates_royaltyfree_chord/</link>
-      <description><![CDATA[AI 音乐并不是什么新鲜事物，和弦生成器也并不是什么新鲜事物，但是，利用编程知识和一些音乐理论知识，我制作了一个无需音乐理论即可生成此类 MIDI 的软件，并且具有极大的灵活性。如今，大多数 MIDI（尤其是著名歌曲的 MIDI）都是免费的，因此用户只需添加他们想要激发 AI 灵感的 MIDI，它就会根据他们发送的 AI 为他们生成进程，因此它可以基于流派、艺术家、音阶，并且所有内容都是完全免版税的，即使它来自著名的受版权保护的歌曲。由于 AI 音乐非常昂贵且不免版税，我觉得这是一个制作高质量、良好和弦进程的选择，其中 AI 旨在鼓励创造力和制作人，而不是整体取代它们。我计划随着时间的推移添加越来越多的内容，使其成为更强大的软件。下面有一个视频，展示了它与著名的 EDM MIDI 文件一起使用的情况。  https://reddit.com/link/1f7rlif/video/j58tqkgjyimd1/player    由   提交  /u/Longjumping-Guava624   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f7rlif/a_music_software_that_generates_royaltyfree_chord/</guid>
-      <pubDate>Tue, 03 Sep 2024 04:50:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>将超过 10000 字的长篇研究文章变成推文大小的帖子？人工策划 + 人工智能创建</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f7r6fl/turning_long_10000_words_research_article_to/</link>
-      <description><![CDATA[      https://preview.redd.it/yihwwl5buimd1.jpg?width=2200&amp;format=pjpg&amp;auto=webp&amp;s=0d02333a0595ec60261c12436d88bfde940e241b    提交人    /u/PresentationHot3332   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f7r6fl/turning_long_10000_words_research_article_to/</guid>
-      <pubDate>Tue, 03 Sep 2024 04:25:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个一键解决方案来打破任何付费墙。下载链接见评论</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1f7r0cs/i_created_a_1_click_solution_to_break_any_paywall/</link>
-      <description><![CDATA[        提交人    /u/i2buildstuff   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1f7r0cs/i_created_a_1_click_solution_to_break_any_paywall/</guid>
-      <pubDate>Tue, 03 Sep 2024 04:16:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
