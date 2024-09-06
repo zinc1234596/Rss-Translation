@@ -4,7 +4,91 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Fri, 06 Sep 2024 09:15:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Sep 2024 12:27:21 GMT</lastBuildDate>
+    <item>
+      <title>构建 SkillSyncAI - 使用 Streamlit 构建的创新平台，通过分析职位描述帮助您找到最佳职位候选人</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fadwc9/building_skillsyncai_an_innovative_platform_built/</link>
+      <description><![CDATA[        提交人    /u/MindzKonnected   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fadwc9/building_skillsyncai_an_innovative_platform_built/</guid>
+      <pubDate>Fri, 06 Sep 2024 12:26:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>我建立了一个包含 800 多家股票和投资通讯的目录</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fadszz/ive_build_a_directory_of_800_stock_and_investment/</link>
+      <description><![CDATA[在 RhinoInvestory.com 上发现来自全球投资者的 800 多篇股票评论，每天都会添加新内容。 如果您有股票或投资想法要分享，请在下面发表评论，我会将它们添加到数据库中。或者，您可以直接前往网站并直接提交报告！    提交人    /u/RhinoInsight   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fadszz/ive_build_a_directory_of_800_stock_and_investment/</guid>
+      <pubDate>Fri, 06 Sep 2024 12:21:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>独立网站搜索引擎</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fadeqy/a_search_engine_for_independent_websites/</link>
+      <description><![CDATA[大家好。 您如何定义互联网的“黄金时代”？ 在我看来，那是人们经营个人网站、博客或作品集来分享想法和故事的时代。这些网站可能不稳定、缓慢或“丑陋”，但它们是个人真正的数字花园，使互联网变得丰富多彩。 遗憾的是，大多数来自独立网站的内容都隐藏在角落里。 因此，我建立了 RawWeb.org 来索引所有这些隐藏的宝石。它通过 feed（RSS、Atom）收集内容，并按相关性对结果进行排序。 它还具有 OPML 解析器。欢迎提交您最喜欢的个人博客。    提交人    /u/rook1e_dev   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fadeqy/a_search_engine_for_independent_websites/</guid>
+      <pubDate>Fri, 06 Sep 2024 12:01:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>TikTok 适合投资者吗？这是投资者与初创公司会面的简单快捷方式。向投资者推销从未如此简单。我们收到了 Reddit 用户们的极好反馈。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fad8ft/tiktok_for_investors_an_easy_and_fast_way_for/</link>
+      <description><![CDATA[      以下是我们所构建的： 我们是为投资者打造的 TikTok，以一种有趣的、受 TikTok 启发的方式将投资者与初创公司联系起来。 运作方式如下：  初创公司添加他们的视频推介（1 到 3 分钟）。 投资者浏览推介。 投资者通过电子邮件、X 或 LinkedIn 联系推介所有者。  链接： https://www.pitchfound.com/ 目前仅限移动版本。 附言期待您的加入。不要犹豫，添加您的视频推介。 来自 reddit 用户的反馈： https://preview.redd.it/6eyvdnsng6nd1.png?width=800&amp;format=png&amp;auto=webp&amp;s=382589e584581dfdc6d035066a77fa2ab464e8e9    提交人    /u/bendras_klp   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fad8ft/tiktok_for_investors_an_easy_and_fast_way_for/</guid>
+      <pubDate>Fri, 06 Sep 2024 11:52:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了一个网站，通过广泛的过滤功能来检查不同国家的电影上映情况</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fach39/i_made_a_website_to_check_movies_availability_in/</link>
+      <description><![CDATA[      大家好， 我想分享我的兼职项目 https://streamfat.com ，我已经为此工作了很久 😅 因此要点是，您可以查看 40 多个国家/地区的电影可用性，并且实际上可以根据您所在国家/地区的类型/提供商/可用性等对电影或电视剧进行广泛过滤。 例如，您可以检查 Netflix 上仅在您所在国家/地区以外提供的电影，按 IMDB 降序排序。这样，您就可以看到自己错过了什么，并在 VPN 的帮助下解锁更多内容。 示例： https://streamfat.com/en-us/movies/netflix?sort=highest&amp;offers_location=worldwide https://preview.redd.it/lm8kzy3b96nd1.png?width=1172&amp;format=png&amp;auto=webp&amp;s=723d979be7a97686baf9f176f698710ab8cb51c9 我发现很少有网站可以做到这一点，而我设法找到的那些网站做得很差，所以我真的希望这会有用！ 非常感谢所有反馈！ P.S.我知道加载时间很糟糕，但我正在努力！    提交人    /u/More-Crab-1210   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fach39/i_made_a_website_to_check_movies_availability_in/</guid>
+      <pubDate>Fri, 06 Sep 2024 11:08:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>我建立了一个 AI 无脸视频生成器的小型目录。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1faca1i/ive_built_a_small_directory_of_ai_faceless_video/</link>
+      <description><![CDATA[      https://reddit.com/link/1faca1i/video/zy5evv9q66nd1/player 大家好， 我想制作视频，但又不好意思上镜。 如果您也有同样的感受，这个目录可能对您有用。 https://aifacelessvideogenerator.com/    提交人    /u/victor_sh_dev   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1faca1i/ive_built_a_small_directory_of_ai_faceless_video/</guid>
+      <pubDate>Fri, 06 Sep 2024 10:57:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>脸部捣碎又回来了</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fabqlg/face_mash_is_back/</link>
+      <description><![CDATA[https://facemash02.vercel.app/index.html    由   提交  /u/Straight_Stable_6095   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fabqlg/face_mash_is_back/</guid>
+      <pubDate>Fri, 06 Sep 2024 10:22:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>制作了一个由 AI 驱动的电子邮件 HTML 生成器。支持所有现代电子邮件客户端。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fabern/made_an_email_html_generator_powered_by_ai/</link>
+      <description><![CDATA[        由    /u/mnaveennaidu 提交   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fabern/made_an_email_html_generator_powered_by_ai/</guid>
+      <pubDate>Fri, 06 Sep 2024 10:00:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>我厌倦了手动将供应商的产品复制到我的 Shopify 商店中，因此我制作了产品上传</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fabent/i_got_sick_of_manually_copying_my_suppliers/</link>
+      <description><![CDATA[  由    /u/Ok_Ask2006  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fabent/i_got_sick_of_manually_copying_my_suppliers/</guid>
+      <pubDate>Fri, 06 Sep 2024 10:00:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Flowvoice.ai（我的语音听写工具）经过数月的用户注册等待后终于允许从我们的网页直接下载！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fab6xw/flowvoiceai_my_voice_dictation_tool_is_finally/</link>
+      <description><![CDATA[        提交人    /u/EdenBae-ritto   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fab6xw/flowvoiceai_my_voice_dictation_tool_is_finally/</guid>
+      <pubDate>Fri, 06 Sep 2024 09:44:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>在几秒钟内免费生成 PDF 发票</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fab6ut/generate_pdf_invoices_in_seconds_for_free/</link>
+      <description><![CDATA[        由    /u/Ok_Afternoon_  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fab6ut/generate_pdf_invoices_in_seconds_for_free/</guid>
+      <pubDate>Fri, 06 Sep 2024 09:44:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>我花了 4 个月的时间来编写这个项目，并在发布当天就有了第一位用户。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fab54h/i_coded_my_project_for_4_months_and_had_my_first/</link>
+      <description><![CDATA[您好， 昨天我与 listfast 共进午餐，这是一个无需代码的登陆页面创建器。 午餐一小时后，我看到我的 discord 上出现了一位新用户，然后又来了一位新用户。 那么现在怎么样？我应该继续推广吗？我应该继续编码吗？你有什么建议吗？ 请记住，我的项目现在是免费的，所以不要犹豫，注册并尝试一下。 谢谢    提交人    /u/yllaevv   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fab54h/i_coded_my_project_for_4_months_and_had_my_first/</guid>
+      <pubDate>Fri, 06 Sep 2024 09:41:01 GMT</pubDate>
+    </item>
     <item>
       <title>从屏幕截图创建网站</title>
       <link>https://www.reddit.com/r/SideProject/comments/1faas6k/creer_un_site_web_a_partir_dune_capture_decran/</link>
@@ -13,7 +97,7 @@
       <pubDate>Fri, 06 Sep 2024 09:14:43 GMT</pubDate>
     </item>
     <item>
-      <title>AI SEO 作家正在寻找早期测试人员</title>
+      <title>AI SEO 作家正在寻找早期测试者</title>
       <link>https://www.reddit.com/r/SideProject/comments/1faapog/ai_seo_writer_looking_for_early_testers/</link>
       <description><![CDATA[      嘿，我是 Michael，我创建了 Hubrank它是一种 saas，可帮助营销人员和企业主更快、更轻松地创建内容（seo 博客、社交媒体帖子和回复），目标是帮助他们产生更多流量并最终赚取更多钱。 当我准备在产品搜索上发布时，我正在寻找愿意作为早期用户免费测试 Hubrank 的人，并根据您的反馈 🙂 给我留言，如果任何人感兴趣    提交人    /u/Miky2fois   [link] [评论] ]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1faapog/ai_seo_writer_looking_for_early_testers/</guid>
@@ -25,90 +109,6 @@
       <description><![CDATA[嗨， 大学刚毕业，我的很多同学都决定出国攻读硕士学位，看着他们接受昂贵的辅导并制定雅思和托福学习计划。 因此，我努力打造我在教育科技行业的第一个产品 - AccioIbis 我对语音评估非常满意，因为它允许在用户说话时几乎立即进行评估，老实说，我对结果非常满意。我正在寻找反馈，如果有人能就我下一步应该添加哪些功能提供一些指点，那就太好了     提交人    /u/Capable_Atmosphere_7   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1fa9wwr/i_launched_a_saas_product_after_watching_my/</guid>
       <pubDate>Fri, 06 Sep 2024 08:09:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>我该如何验证招聘板的想法？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fa9pck/how_do_i_validate_a_job_board_idea/</link>
-      <description><![CDATA[我认为我有一个很酷的利基市场（我从事 9 到 5 的工作），我该如何验证它？    提交人    /u/Escade1337   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fa9pck/how_do_i_validate_a_job_board_idea/</guid>
-      <pubDate>Fri, 06 Sep 2024 07:53:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>在无数次创业失败之后，我终于找到了一些有前途的东西......需要您的反馈！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fa9hl9/after_countless_of_failed_startups_i_may_have/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fa9hl9/after_countless_of_failed_startups_i_may_have/</guid>
-      <pubDate>Fri, 06 Sep 2024 07:36:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>任何 Youtube 视频的视频摘要</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fa90gp/video_summary_of_any_youtube_video/</link>
-      <description><![CDATA[        提交人    /u/Witty_Side8702   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fa90gp/video_summary_of_any_youtube_video/</guid>
-      <pubDate>Fri, 06 Sep 2024 07:01:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>您在项目中使用了哪些免费工具？🔥</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fa8tql/what_are_some_free_tools_you_use_for_your_projects/</link>
-      <description><![CDATA[您是否有一个免费工具会经常用于您的项目？ 我正在为创始人和创作者策划这个免费（绝对免费）工具和资源目录，这些是我经常使用的 3 大免费工具：  Reddit Insight Finder：获取一些可以付诸实践的想法 社交截图：免费美化我的截图 A.I 图标生成器：想出徽标或头像  希望在数据库中添加更多内容，并帮助每个人发现更多可用于其项目的工具。 干杯！    提交人    /u/ysl17   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fa8tql/what_are_some_free_tools_you_use_for_your_projects/</guid>
-      <pubDate>Fri, 06 Sep 2024 06:48:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>BuildMVP 如何帮助我将我的副业项目转变为 SaaS 产品（以及它如何帮助您！）</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fa8t38/how_buildmvp_helped_me_turn_my_side_project_into/</link>
-      <description><![CDATA[几个月前，我有了一个 SaaS 产品的想法。我很兴奋，但和你们中的许多人一样，我也在努力争取时间。在全职工作和其他职责之间，将我的想法变成现实让我感到不知所措。就在那时，我开始研究 BuildMVP——一个专为像我们这样的创始人和业余项目爱好者设计的 SaaS 样板。🚀 以下是 BuildMVP 如何为我改变一切（并且可以为您做同样的事情）： 快速设置：不再需要花费数周时间配置基本功能。BuildMVP 让我能够在一天内启动并运行我的 SaaS 项目——真的。有了所有内置功能，我节省了数小时的繁琐设置时间。 预构建身份验证和付款：努力实现用户登录和付款处理曾经是一场噩梦。 BuildMVP 与 Auth.js 和 Stripe 的集成意味着我不必担心这些关键功能。它就是有效。🔐💳 具有现代组件的可自定义 UI：作为一个设计技能有限的人，我对使用 Shadcn/UI 创建时尚 UI 如此简单感到惊讶。它让我的产品看起来很专业，而无需聘请设计师。🎨 可扩展的基础设施：托管在 Vercel 上并针对性能进行了优化，我不必担心可扩展性或停机时间。我的副业从第一天起就准备好应对增长。如果你像我一样，在全职工作的同时兼顾副业，BuildMVP 可以改变游戏规则。它可以节省你的时间和精力，让你专注于真正重要的事情——构建你的产品并将其呈现在用户面前。 如果你有兴趣，很乐意回答任何问题或分享更多细节。让我们继续推动副业的发展！ 💪    由   提交  /u/Dapper-Turn-3021   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fa8t38/how_buildmvp_helped_me_turn_my_side_project_into/</guid>
-      <pubDate>Fri, 06 Sep 2024 06:47:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>我建立了一种方法，让您使用语音来处理早上的电子邮件（而不是使用键盘/鼠标）</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fa8nzg/i_built_a_way_for_you_to_use_your_voice_to_get/</link>
-      <description><![CDATA[        提交人    /u/rulse12   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fa8nzg/i_built_a_way_for_you_to_use_your_voice_to_get/</guid>
-      <pubDate>Fri, 06 Sep 2024 06:38:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何获得想法</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fa8nwd/how_to_get_an_idea/</link>
-      <description><![CDATA[我的意思是，你如何获得做某事的想法？    提交人    /u/Suspicious_Shirt974   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fa8nwd/how_to_get_an_idea/</guid>
-      <pubDate>Fri, 06 Sep 2024 06:38:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么要通过 wiseAdvizor.com 联系您的初创企业导师？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fa8kw1/why_connect_with_a_mentor_for_your_startup_on/</link>
-      <description><![CDATA[☑ 突破瓶颈：无论是遇到障碍还是停滞不前，导师都可以帮助您发现盲点并充满信心地前进。 ☑ 将想法付诸行动：导师提供宝贵的见解，帮助您完善想法并清晰地执行，将潜力转化为进步。 ☑ 获得现实世界的视角：导师带来第一手经验，提供基于现实世界中有效方法的反馈 - 这样您就可以做出重要的决策。 ☑ 导航创业迷宫：从初始步骤到扩展，导师都会提供清晰的前进道路，引导您克服复杂情况并帮助您避免陷阱。 🌐 浏览导师 - https://wiseadvizor.com/BrowseMentors ➡ 使用代码 &#39;MENTOR25&#39; (名额有限)    提交人    /u/ankur199406   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fa8kw1/why_connect_with_a_mentor_for_your_startup_on/</guid>
-      <pubDate>Fri, 06 Sep 2024 06:32:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>大多数开发人员在发布时都会忘记这一点</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fa8dhh/most_developers_forget_about_this_when_launching/</link>
-      <description><![CDATA[我特意说开发人员，因为他们（包括我）就是这里的主要例子。 当你推出一款产品时，它几乎永远不会立即流行起来。我数不清有多少开发人员在推出一款产品后，在第一天没有获得用户后就立即放弃了它。 也许你只是没有正确地定位你的受众，或者它没有触及他们。你真的必须努力营销你的产品。而不是只是期望它会自己流行起来。 不幸的是，没有终极指南来营销你的产品。 不过……在几次失败之后，我发现自己一遍又一遍地做同样的事情。所以我决定建立一个模板来让我的生活更轻松。如果有人感兴趣的话，我很快就会免费赠送它，稍后还会提供一些额外的付费部分。    提交人    /u/PeanutButte7   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fa8dhh/most_developers_forget_about_this_when_launching/</guid>
-      <pubDate>Fri, 06 Sep 2024 06:17:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>7 个月前，我在这里分享了我的图表创建服务，现在我即将发布它！预告片怎么样？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fa7nyi/7_long_months_ago_i_shared_my_charts_creating/</link>
-      <description><![CDATA[        提交人    /u/excentio   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fa7nyi/7_long_months_ago_i_shared_my_charts_creating/</guid>
-      <pubDate>Fri, 06 Sep 2024 05:31:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>伙计们，你们能否对我们构建的这个工具提出意见！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fa7nkt/guys_can_you_please_give_your_inputs_on_this_tool/</link>
-      <description><![CDATA[      进一步迭代以向用户社区添加更多功能将会很有帮助    提交人    /u/Big-Chemistry-9017   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fa7nkt/guys_can_you_please_give_your_inputs_on_this_tool/</guid>
-      <pubDate>Fri, 06 Sep 2024 05:30:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>粘贴长代码或文本片段并分享，告别限制</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fa69uk/paste_long_code_or_text_snippets_and_share_around/</link>
-      <description><![CDATA[刚刚完成了我的周末项目 - PasteZen！请访问 https://www.pastezen.com - pastebin 的现代替代品  花了整个星期六的时间把它组装起来。这是一个用于快速共享和管理文本片段的简单工具。没有额外的功能，只是简单而超级快速。 用这些快速构建来挑战自己总是很有趣。当你全身心投入并保持专注时，一天内可以完成的事情令人惊叹。 请随意尝试一下，让我知道你的想法！    提交人    /u/pilotcodex   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fa69uk/paste_long_code_or_text_snippets_and_share_around/</guid>
-      <pubDate>Fri, 06 Sep 2024 04:07:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
