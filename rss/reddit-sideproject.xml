@@ -4,7 +4,49 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Sun, 08 Sep 2024 09:13:39 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Sep 2024 12:25:41 GMT</lastBuildDate>
+    <item>
+      <title>我创建了一个人工智能导师，教授软件工程师计算机科学</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fbwdxy/i_built_an_ai_tutor_that_teaches_software/</link>
+      <description><![CDATA[      您可以在 www.synapsetutor.com 上免费试用。     由    /u/synapsetutor  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fbwdxy/i_built_an_ai_tutor_that_teaches_software/</guid>
+      <pubDate>Sun, 08 Sep 2024 12:15:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>贊助已啟。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fbw6li/sponsorships_are_broken/</link>
+      <description><![CDATA[我刚刚看到一个我喜欢的创作者慢慢失去了他们的真实性。前一分钟他们还很真实，很有亲和力。下一分钟，他们就推销一些他们显然不使用的随机产品。 这令人失望，并引发了人们对他们之前所做的一切的质疑。这就是赞助正在消亡的原因。未来属于那些完全控制自己销售的产品并支持自己品牌而不是他人品牌的创作者。 我研究了最好的创作者，比如 MrBeast 或 MKBHD。他们知道风险。如果他们的受众讨厌产品，或者品牌搞砸了，那么他们的声誉就会受到影响。当事情变糟时，他们会承受压力。 或者听听 @ Levelsio 的看法。他在创业界有很大的发言权，他没有推销无休止的随机垃圾，而是拥有自己的产品，他的受众知道他支持这些产品。这是真实的。这是真实的。而且它能让他的粉丝保持忠诚。 那么，非影响力的初创公司应该如何进行社交媒体互动呢？ • 使用 Tweet Hunter 或 Typefully 等工具跟踪相关对话…… • 使用 AI（ChatGPT 或 Claude）制作回复，真正解决对话问题，并在上​​下文中巧妙地提及您的产品。 • 在 Twitter、Reddit、LinkedIn、Hacker News、Quora 等平台上重复此操作，并在几天内观察您的销售额翻倍。 • 或者，您可以使用 Mentio 自动执行此操作，每周节省 3-5 个小时。 创始人模式来自 📈    提交人    /u/Fox-noir   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fbw6li/sponsorships_are_broken/</guid>
+      <pubDate>Sun, 08 Sep 2024 12:03:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>我开发了一款财务规划应用程序。您觉得怎么样？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fbvyl9/i_built_an_app_for_financial_planning_what_do_you/</link>
+      <description><![CDATA[        提交者    /u/stefanneculai   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fbvyl9/i_built_an_app_for_financial_planning_what_do_you/</guid>
+      <pubDate>Sun, 08 Sep 2024 11:50:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>过去 1.5 年里我创建了 10 个业余项目</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fbv9no/i_built_10_side_projects_in_past_15_years/</link>
+      <description><![CDATA[大家好， 自从我开始从事工程师工作以来，我一直在构建业余项目，主要是为了学习和构建有价值的东西。以下是我构建的项目及其解决的问题的集合（所有链接都在最后）：  Focusly（2022）：我在一个周末在大学宿舍里构建了它，当时由于校园里的一些节日，噪音很大，我想做一些专注的工作。它是白噪音和 Lofi 音乐的集合，可以帮助人们保持专注。它建于 2022 年，但我一直在积极维护它，因为它是开源的，有些人正在为它做出贡献。 HackBud：我去年在寻找参加 Hackathon 的人时构建了它，但没能成功。所以，我决定将其作为 Appwrite Hackathon 的提交作品。它可以帮助您在下一次 Hackathon 中与团队和队友建立联系。 API 负载测试器：我正在研究一些 API，并决定为它们构建一个负载测试器。这是我在探索 Go 时用 Go 构建的。 tod​​os：这是一个基于 CLI 的待办事项列表，适合喜欢使用终端做所有事情的人。 tod​​os-go：这是 Go 版本的 todos。 go-rate-limiter：用 Go 编写的速率限制器。再次学习和探索 Go 的一部分。 Bloom Filter：Bloom Filter 是一种数据结构，它提供误报并帮助在庞大的数据库中快速搜索某些内容。我偶然发现了这个并决定实现一个迷你版的布隆过滤器。 sideProjectss：除了 HackBud 和 Focusly 之外，这是许多人喜欢的项目。许多人将它与市场上不同的热门竞争对手进行比较。sideProjectss 可帮助您在不到 5 分钟的时间内创建唯一的页面，展示您所有的业余项目和博客。 Diffy：它可以帮助您使用最长公共子序列算法比较两个文件。这是一种了解算法实际用途的好方法。 Notion Blog：这是一个 Nextjs 模板，可帮助您直接从 Notion 托管和撰写博客。  所有链接：https://www.sideprojectss.com/Utkarshn10 如果您已经读到这里，我有一些特别的东西给您。我希望与两个需要帮助在以下技术栈中构建 MVP 或项目的人合作：Next.js、Supabase、PostgreSQL 和 Flask。这对您来说是完全免费的，因为我只是在寻找诚实的反馈和推荐。如果您有兴趣，请与我们联系！    提交人    /u/Leather_Ad_6035   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fbv9no/i_built_10_side_projects_in_past_15_years/</guid>
+      <pubDate>Sun, 08 Sep 2024 11:06:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>作为计算机科学毕业生，请帮我找到网络项目的想法</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fbuuy1/help_me_find_idea_for_web_project_as_computer/</link>
+      <description><![CDATA[嗨， 我是一名计算机科学毕业生，我想用 JS 和 REACT 建立一个网站来添加到我的简历中，这样我就可以在全栈/前端世界中找到我的第一份工作。 我希望该项目是 Web 应用程序，包括使用 Puppeteer 从多个来源进行基于交互式抓取的数据以及一个用于管理存储在 DB 中的数据的 API。 健身（健身房）的世界对我来说非常有趣，所以这个世界上的想法可能真的很好，但我对各种想法持开放态度 谢谢 :)    提交人    /u/Striking-Comedian-19   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fbuuy1/help_me_find_idea_for_web_project_as_computer/</guid>
+      <pubDate>Sun, 08 Sep 2024 10:39:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>最便宜的专业电子邮件域名提供商</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fbtsw8/cheapest_professional_email_domain_provider/</link>
+      <description><![CDATA[我不想在我的项目中使用 gmail，请为我推荐一些东西。    提交人    /u/Escade1337   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fbtsw8/cheapest_professional_email_domain_provider/</guid>
+      <pubDate>Sun, 08 Sep 2024 09:24:35 GMT</pubDate>
+    </item>
     <item>
       <title>Theme Scape – 享受 90 天免费使用高级功能！🎉</title>
       <link>https://www.reddit.com/r/SideProject/comments/1fbtn35/theme_scape_enjoy_90_days_of_free_access_to/</link>
@@ -18,13 +60,6 @@
       <description><![CDATA[你好，我是一名有全职工作的软件开发人员，但我想转为自由职业者，我喜欢独立黑客，虽然第一次失败了，但我想继续构建事物，我现在没有有趣的 saas 想法，所以我想开始我的自由职业，所以我正在构建 3 到 5 个初创 mvp，以换取推荐和详细的客户评论     提交人    /u/wassimzo   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1fbtkeo/i_build_your_mvp_for_free/</guid>
       <pubDate>Sun, 08 Sep 2024 09:06:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>我挑战自己用任何美元来建造你的项目，但它应该是三位数</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fbtgad/i_challenged_myself_to_build_your_project_with/</link>
-      <description><![CDATA[嘿，伙计们 - 我是 abhi，我通过 (craftpad.dev) 为创始人工作 我已经为创始人构建并交付了十几种产品。这次，我想挑战自己 我们开始吧    提交人    /u/Few_Balance396   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fbtgad/i_challenged_myself_to_build_your_project_with/</guid>
-      <pubDate>Sun, 08 Sep 2024 08:58:35 GMT</pubDate>
     </item>
     <item>
       <title>是否有人使用过数据丰富 API 通过电话号码检测欺诈性用户？</title>
@@ -74,41 +109,6 @@
       <description><![CDATA[        提交人    /u/basavarajavyadav   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1fbqhwl/need_your_suggestions_and_feedback_on_emoji/</guid>
       <pubDate>Sun, 08 Sep 2024 05:27:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在不使用编程语言的情况下创建投票网站？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fbq0z9/how_do_i_create_a_polling_site_without/</link>
-      <description><![CDATA[我想创建一个可以发起投票的网站，但我不会编程，有什么办法可以解决这个问题吗？    提交人    /u/JohnGRockefe   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fbq0z9/how_do_i_create_a_polling_site_without/</guid>
-      <pubDate>Sun, 08 Sep 2024 04:57:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么你的唯一用户是你的奶奶（而且她甚至不知道你的应用是干什么的）</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fbpx6v/why_your_only_user_is_your_grandma_and_she_doesnt/</link>
-      <description><![CDATA[所以，你有了这个很棒的副业创意。你很兴奋，你在构建它，你确信它会改变世界……但是当你检查你的统计数据时，唯一使用它的人是你的奶奶——而她几乎不知道如何打开 Wi-Fi。 是的，我经历过。在过去的 8 年里，我一直像机器一样大量生产副业。每次我都会非常兴奋，构建一些东西，把它放在那里……然后……什么都没有。除了妈妈和奶奶。说实话，他们只是为了礼貌而点击。 最终，我会感到无聊，把它拿下来，假装它从未存在过。所以，这是怎么回事？为什么这种情况会一直发生？ 我学到的是：重点不在于你的产品有多棒，也不在于你塞了多少功能。重点在于先建立受众群体，或者至少找到一个真正关心你的社区。 如果你不与人们分享你的挣扎、想法和进步，没有人会突然出现并关心你。你只是互联网上另一个人，他们没有时间去做另一件事。 但是，当你分享真实的东西时——比如你的代码在发布前五分钟崩溃，或者你不小心删除了数据库——它会让人们停下来关注你。他们开始支持你，因为他们现在了解你了。 你知道最好的方法是什么吗？通过写作。是的，你没听错——写作。 不是那种无聊的“这是功能列表”之类的东西。我说的是真实的故事——人们真正能产生共鸣的东西。  告诉他们你的经历、失败和成功。功能？这些可以等。人们需要先关心你，然后才关心你正在构建的东西。 但关键在于：要想做好这件事，你必须坚持写作。比如，每天写作。你写的越多，你讲故事的能力就越强，才能吸引人们。 嘿，这就是为什么我要构建一个工具来帮助人们（比如你，对，还有我）养成每天写作的习惯。因为如果我早点这样做，也许奶奶就不会是我这么长时间的唯一“用户”了。    提交人    /u/SpaceMaverickk   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fbpx6v/why_your_only_user_is_your_grandma_and_she_doesnt/</guid>
-      <pubDate>Sun, 08 Sep 2024 04:50:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>创建了一个网站，您可以在其中写下您想谈论的内容，而想谈论相同内容的人可以使用聊天功能与您开始对话。它旨在帮助您找到有共同兴趣的朋友。可以将其视为 Reddit 的更私密版本。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fbpb6p/created_a_website_where_you_can_write_what_you/</link>
-      <description><![CDATA[        提交人    /u/itsarnavsingh   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fbpb6p/created_a_website_where_you_can_write_what_you/</guid>
-      <pubDate>Sun, 08 Sep 2024 04:11:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的开源项目已经超出了 Vercel Hobby Plan 的限制。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fbp6vb/my_open_source_project_has_exceeded_the_vercel/</link>
-      <description><![CDATA[        提交人    /u/ayushmaansingh304   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fbp6vb/my_open_source_project_has_exceeded_the_vercel/</guid>
-      <pubDate>Sun, 08 Sep 2024 04:04:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个截图编辑器样板</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fbp23x/i_made_a_screenshot_editor_boilerplate/</link>
-      <description><![CDATA[获得了我的前 7 位屏幕截图编辑器样板用户，我以 99 美元的价格出售该样板。  您可以在此处查看样板和整个应用程序 - https://www.picyard.in/screenshot-boilerplate  我对最初购买它的用户的宣传很简单 -   您可以创建自己的屏幕截图编辑器品牌 通过将此功能集成到您现有的网站中来提高用户保留率和体验 免费工具始终有助于 SEO  如果您有任何问题或更多详细信息，请在此处发表评论或直接给我发私信。 感谢您的阅读。    提交人    /u/mediocre_man_online   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fbp23x/i_made_a_screenshot_editor_boilerplate/</guid>
-      <pubDate>Sun, 08 Sep 2024 03:56:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
