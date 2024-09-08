@@ -4,7 +4,63 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Sun, 08 Sep 2024 12:25:41 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Sep 2024 15:14:53 GMT</lastBuildDate>
+    <item>
+      <title>我构建了一个 Next.js 15 SaaS 样板，使 Web 应用程序开发变得非常容易</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fbzzli/i_built_a_nextjs_15_saas_boilerplate_that_makes/</link>
+      <description><![CDATA[大家好， 你好吗？希望你也享受夏天的天气 :) 大多数 SaaS 入门套件和样板在 Web 应用程序功能方面提供的内容并不多。 我们的想法是只关注 Web 应用程序部分，提供高质量、现代且灵活的解决方案。总是多做一点，永远不要走捷径。 网站：https://achromatic.dev 演示：https://demo.achromatic.dev 技术栈是  Next.js 15，React 19 Auth.js v5 Prisma shadcn/ui nuqs，next-safe-action，nice-modal TypeScript Tailwind  一切都是使用 RSC 和服务器操作实现的。   由    /u/Longjumping-Till-520  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fbzzli/i_built_a_nextjs_15_saas_boilerplate_that_makes/</guid>
+      <pubDate>Sun, 08 Sep 2024 15:09:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>这是否值得构建：用于 Github 代码审查的会议调度程序</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fbz14o/is_this_worth_building_meeting_scheduler_for_code/</link>
+      <description><![CDATA[我正在建立一个副项目，大约完成了 10%，我只是想知道它是否是一个有用的 oss 项目，以及它是否会有所帮助。 这个想法是通过 chrome 扩展程序直接在 GitHub 界面内简化与代码审查或问题讨论相关的会议设置流程。因此，用户可以直接从 github 的界面设置会议（通过 zoom/calendly 等）。 它会帮助 OSS 贡献者和开发者吗？    提交人    /u/Aromatic_Ad9700   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fbz14o/is_this_worth_building_meeting_scheduler_for_code/</guid>
+      <pubDate>Sun, 08 Sep 2024 14:26:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了一个 Python 库，可以让你直接上传/安排到 TikTok</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fbytuy/i_built_a_python_library_that_lets_you/</link>
+      <description><![CDATA[它还允许您在视频中添加 TikTok 声音和主题标签，这样您仍然可以在上传时使用病毒式声音和主题标签来扩大影响力。 它会自动解决/绕过 TikTok 的所有验证码。 让您自动上传，比手动上传快得多。 https://github.com/haziq-exe/TikTokAutoUploader 第一次构建 python 库，请告诉我您的想法。    提交人    /u/Sea-Breakfast-6659   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fbytuy/i_built_a_python_library_that_lets_you/</guid>
+      <pubDate>Sun, 08 Sep 2024 14:17:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>我将免费为您构建 MVP！仅寻找严肃的项目</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fby7tg/ill_build_your_mvp_for_free_looking_for_serious/</link>
+      <description><![CDATA[大家好！ 我是一名热衷于构建创新项目的开发人员，我希望与认真的个人或团队合作完成一些令人兴奋的事情。 条件是：我将免费构建您的 MVP（最小可行产品）！🎉 我正在寻找：  认真的项目：我想与有奉献精神且有清晰愿景的人一起工作。 优先考虑基于 AI 的想法：我对与 AI 相关的项目特别感兴趣，但我也愿意接受其他很酷的想法。 参与和协作：这不仅仅是单方面的提议。我希望与您密切合作，让您的想法变成现实。  我提供的服务：  全面开发您的 MVP，从概念到发布。 AI 和现代开发框架方面的专业知识。 专门的合作伙伴关系：我会像对待自己的项目一样对待您的项目。  如果您有一个您相信并准备认真对待的想法，请发表评论或直接发信息给我。让我们一起创造一些令人惊叹的东西！🚀 期待您的回音！    提交人    /u/dev-wall   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fby7tg/ill_build_your_mvp_for_free_looking_for_serious/</guid>
+      <pubDate>Sun, 08 Sep 2024 13:49:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>我构建了一个无需订阅的 AI 招聘工具包</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fby4dd/i_built_an_ai_recruiting_toolkit_without/</link>
+      <description><![CDATA[大家好， 我是 Leon，我和我的联合创始人 Arun 一直致力于让招聘流程变得更智能、更高效。今天，我们推出了全新的 Hiringtools AI，这是一款一次性付款产品，旨在帮助您掌握招聘的基本知识。 我们已经从基于信用的 SaaS 模式转变为提供更实用的东西：终身访问一套全面的工具和资源，以简化招聘。使用 Hiringtools AI，您可以获得以下功能：  AI 驱动的招聘工具：使用 AI 自动执行关键任务，例如创建职位描述、筛选候选人和改进职位发布。 提示库：访问专门针对招聘场景量身定制的各种精心制作的 AI 提示。 职位公告板库：探索精选的职位公告板，帮助您找到适合任何职位的最佳平台。 招聘服务库：发现经过审查的招聘工具和服务，以优化您的招聘工作流程。 额外福利：我们还免费提供了一本关于雇主品牌的 Power-Prompt 电子书，帮助您制作更强大的职位列表并提升您作为雇主的品牌。  我们为想要在招聘方面保持领先地位的人构建了 Hiringtools AI — 无论您是 HR专业人士、初创公司创始人，或者只是希望优化您的招聘流程。我们的目标是将所有内容集中在一个地方，这样您就可以专注于真正重要的事情：找到合适的人才。 查看：https://hiringtools.org 与往常一样，我们渴望获得有关如何使产品更好的反馈和建议。    提交人    /u/kranzelbart   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fby4dd/i_built_an_ai_recruiting_toolkit_without/</guid>
+      <pubDate>Sun, 08 Sep 2024 13:44:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>嘲笑我的想法</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fby1lb/roast_my_idea/</link>
+      <description><![CDATA[考虑为独立开发者构建一个易于使用的错误跟踪工具。 基本上：  了解各种 api/代码被调用的次数（openai、supabase 等的使用情况统计信息） 当块失败时，在 WhatsApp/discord 等频道上获取警报。  如果您感兴趣，请告诉我:)    提交人    /u/modern_tragedy69   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fby1lb/roast_my_idea/</guid>
+      <pubDate>Sun, 08 Sep 2024 13:40:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>如果你想在不花太多钱的情况下构建 MVP，这里有一个不错的免费工具列表</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fbxgil/if_youre_looking_to_build_an_mvp_without_breaking/</link>
+      <description><![CDATA[如果您想在不花大钱的情况下构建 MVP，这里有一份我发现很有用的免费工具列表： Next.js：非常适合构建响应迅速的前端。Supabase：Firebase 的绝佳替代品，它是免费的，并为您提供具有身份验证功能的强大数据库。Zapier：帮助自动执行应用程序之间的重复任务，而无需编写代码。Stripe：您可以将其集成用于付款；当您开始处理交易时，他们只收取少量费用。Resend：非常适合大规模处理交易电子邮件。Notion：非常适合组织您的项目、规划并将所有笔记保存在一个地方。这个堆栈应该可以帮助您快速免费地启动 MVP。如果您需要更多有关如何设置它们的提示，请告诉我！🚀    提交人    /u/Dapper-Turn-3021   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fbxgil/if_youre_looking_to_build_an_mvp_without_breaking/</guid>
+      <pubDate>Sun, 08 Sep 2024 13:12:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>为音乐家提供的免费、简约的吉他调音器🎸 - 即将推出！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fbx4bv/free_minimalist_guitar_tuner_for_musicians_coming/</link>
+      <description><![CDATA[      哟！一直在 guitaronlinetuner.com 上开发一款免费、简约的吉他调音器。虽然网上有很多调音器，但我专注于创造一款超级易用、准确且整洁的调音器。 目前，它支持标准的耳朵调音，麦克风调音、替代调音和和弦等更多功能即将推出。 我很想听听您的想法和反馈！ 🙌 https://preview.redd.it/293m5kks1lnd1.png?width=1852&amp;format=png&amp;auto=webp&amp;s=975a795795828f5b22aa24af5c091b1c39b589ab    提交人    /u/helpmetestthis   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fbx4bv/free_minimalist_guitar_tuner_for_musicians_coming/</guid>
+      <pubDate>Sun, 08 Sep 2024 12:55:36 GMT</pubDate>
+    </item>
     <item>
       <title>我创建了一个人工智能导师，教授软件工程师计算机科学</title>
       <link>https://www.reddit.com/r/SideProject/comments/1fbwdxy/i_built_an_ai_tutor_that_teaches_software/</link>
@@ -22,7 +78,7 @@
     <item>
       <title>我开发了一款财务规划应用程序。您觉得怎么样？</title>
       <link>https://www.reddit.com/r/SideProject/comments/1fbvyl9/i_built_an_app_for_financial_planning_what_do_you/</link>
-      <description><![CDATA[        提交者    /u/stefanneculai   [链接] [评论] ]]></description>
+      <description><![CDATA[        提交人    /u/stefanneculai   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1fbvyl9/i_built_an_app_for_financial_planning_what_do_you/</guid>
       <pubDate>Sun, 08 Sep 2024 11:50:52 GMT</pubDate>
     </item>
@@ -53,62 +109,6 @@
       <description><![CDATA[大家好！ 我非常高兴与大家分享我的最新项目 - Theme Scape！如果您想要自定义 iPhone 或 iPad，那么这款应用非常适合您。借助 Theme Scape，您可以彻底改变设备的外观和感觉，使其独一无二。 在限定时间内，我将提供 90 天免费使用 所有高级功能的机会，因为我很乐意听到您的反馈和建议！ ✨ 使用 Theme Scape 控制手机的外观和感觉！✨ 探索大量 主题、图标包、充电动画和 小部件！无论您想让主屏幕呈现时尚简约的氛围，还是采用大胆鲜艳的色彩，Theme Scape 都能满足每个人的需求。个性化与功能在此相遇，让您与设备的每次交互都变得更有趣。 主要特点： 🌟 主题  从大量主题中进行选择，以适合您的风格。 通过协调的壁纸、小部件和图标来协调您的主屏幕和锁定屏幕。  🎨 图标包  使用独特的设计自定义您的应用图标。 找到与您的个性相匹配的完美图标集。  🛠 主题制作器  发挥创意，构建您自己的主题！ 混合搭配壁纸、图标和小部件，设计独一无二的外观。  🔐锁屏小部件  使用专门设计的小部件为您的锁屏添加功能。 一目了然地获取重要信息，甚至无需解锁您的设备。  📱 凹口和动态岛屿  通过有趣、有创意的设计自定义您的凹槽和动态岛屿！ 通过个性化装饰让您的设备脱颖而出。  🌄 Wallpapers  浏览各种高质量壁纸。 通过新图像和设计让您的设备保持新鲜。  无论您是设计爱好者，还是只是喜欢让您的手机看起来新鲜，Theme Scape 都能满足每个人的需求。 💡 立即下载 Theme Scape 并享受 90 天的免费高级访问权限！ *我很乐意听到您对该应用程序的想法以及您对新功能的任何建议。让我们一起让您的手机脱颖而出！ 🙌 App Store 上的 Theme Scape 期待听到您的想法！    提交人    /u/karma_1264   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1fbtn35/theme_scape_enjoy_90_days_of_free_access_to/</guid>
       <pubDate>Sun, 08 Sep 2024 09:12:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>我可以免费为您构建 MVP</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fbtkeo/i_build_your_mvp_for_free/</link>
-      <description><![CDATA[你好，我是一名有全职工作的软件开发人员，但我想转为自由职业者，我喜欢独立黑客，虽然第一次失败了，但我想继续构建事物，我现在没有有趣的 saas 想法，所以我想开始我的自由职业，所以我正在构建 3 到 5 个初创 mvp，以换取推荐和详细的客户评论     提交人    /u/wassimzo   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fbtkeo/i_build_your_mvp_for_free/</guid>
-      <pubDate>Sun, 08 Sep 2024 09:06:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否有人使用过数据丰富 API 通过电话号码检测欺诈性用户？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fbtf87/has_anyone_used_data_enrichment_apis_for/</link>
-      <description><![CDATA[大家好， 我正在探索使用可以分析电话号码的数据丰富 API 来检测 Shopify 上的欺诈性订阅者的选项。这里有人实现过类似的东西吗？我对可以提供诸如电话号码验证、相关社交媒体资料或欺诈风险评分等见解的 API 特别感兴趣。 任何有关 API 的建议或设置此功能的最佳实践都将不胜感激！ 提前谢谢！😊    提交人    /u/Familiar-Highway1632   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fbtf87/has_anyone_used_data_enrichment_apis_for/</guid>
-      <pubDate>Sun, 08 Sep 2024 08:56:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>My Book DNA – 基于真实人际关系（而非人工智能）的图书推荐</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fbtdxn/my_book_dna_book_recs_based_on_real_human/</link>
-      <description><![CDATA[  由    /u/bweeb  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fbtdxn/my_book_dna_book_recs_based_on_real_human/</guid>
-      <pubDate>Sun, 08 Sep 2024 08:53:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻求有关 Eazydata 的反馈：无代码数据管理解决方案</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fbt46l/seeking_feedback_on_eazydata_a_nocode_data/</link>
-      <description><![CDATA[嗨，r/SideProject 社区， 我们正在开发 Eazydata，它通过无代码平台简化了数据管理任务。用户可以连接数据源，通过连接、清理和添加计算列来处理数据集，并将它们加载到他们选择的目的地，所有这些都以实时或预定的间隔进行。 我们正处于社区意见可能对我们的开发方向产生重大影响的阶段。我们有兴趣了解：  您在当前的数据管理实践中面临哪些挑战？ 无代码功能在您的数据处理解决方案中有多重要？ 您希望像我们这样的平台具备哪些功能？  您的见解非常有价值，可以确保我们走在正确的轨道上，并了解我们的解决方案是否真正满足像您这样的用户的需求。 感谢您提供的任何反馈！    提交人    /u/Puzzled-Pen136   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fbt46l/seeking_feedback_on_eazydata_a_nocode_data/</guid>
-      <pubDate>Sun, 08 Sep 2024 08:33:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>可能 Medium 确实支持人工撰写的文章</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fbsn98/probably_medium_does_support_human_written/</link>
-      <description><![CDATA[      上周我推出了一款 AI 应用，并撰写了一篇关于它的 Medium 文章。而且它似乎做得很好。 我过去写过关于其他主题的帖子，但没有一篇有实质性的进展。我为它们使用了聊天 gpt，并花了 1-2 小时来完善它们。 这篇文章是在不到一个小时内写的，甚至没有校对就发布了。它完全是原创内容，每天的浏览量已经达到 100 次左右，并且还在增长！ 看来 Medium 更看重原创性而不是语法。 文章链接- https://medium.com/@saquiboye/flux-lora-training-guide-for-non-developers-ee0c5381c972 PS：这篇文章将进一步提升文章的效果！听起来像是一个积极的反馈循环。哈哈！    提交人    /u/Sensitive_Teacher_93   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fbsn98/probably_medium_does_support_human_written/</guid>
-      <pubDate>Sun, 08 Sep 2024 07:59:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>时间就是金钱，因此使用 JSON 翻译可以节省时间和金钱。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fbs6g8/time_is_money_so_save_both_with_json_translations/</link>
-      <description><![CDATA[        提交人    /u/Cautious_Swimmer9203   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fbs6g8/time_is_money_so_save_both_with_json_translations/</guid>
-      <pubDate>Sun, 08 Sep 2024 07:25:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>我为微型 SaaS 应用程序制作了一个免费的登陆页面模板</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fbrbie/i_made_a_free_landing_page_template_for_microsaas/</link>
-      <description><![CDATA[大家好，在构建了许多应用程序之后，我厌倦了为着陆页编写相同的内容，因此我想为需要快速为自己的应用程序启动着陆页的任何人创建此模板。 这是 github repo https://github.com/Run37927/saas-landing-page 它的样子如下 https://saas-landing-page-pied-seven.vercel.app/ 你得到  nav hero comparison feature demo 定价 常见问题 如 xxx 所示 推荐 号召性用语 页脚  开箱即用。 改变它，接受它，运行它。 没有隐藏的议程，没有附加条件。只是想提供帮助并希望这对某人有用！ 干杯👊🏼    提交人    /u/Critical-Catch-7605   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fbrbie/i_made_a_free_landing_page_template_for_microsaas/</guid>
-      <pubDate>Sun, 08 Sep 2024 06:23:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要您对“表情符号拼图：有趣的三消游戏”提出建议和反馈 - 于 9 月 28 日发布。当前统计数据是否显示出良好的增长？欢迎提出任何建议！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fbqhwl/need_your_suggestions_and_feedback_on_emoji/</link>
-      <description><![CDATA[        提交人    /u/basavarajavyadav   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fbqhwl/need_your_suggestions_and_feedback_on_emoji/</guid>
-      <pubDate>Sun, 08 Sep 2024 05:27:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
