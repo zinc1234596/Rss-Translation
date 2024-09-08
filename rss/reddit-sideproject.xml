@@ -4,7 +4,91 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Sat, 07 Sep 2024 21:14:56 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Sep 2024 01:11:07 GMT</lastBuildDate>
+    <item>
+      <title>我们团队昨天分享的一些附带项目调整：有什么想法吗？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fbluu0/some_tweaks_from_our_teams_side_project_share/</link>
+      <description><![CDATA[        由    /u/Technical_Visual_272   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fbluu0/some_tweaks_from_our_teams_side_project_share/</guid>
+      <pubDate>Sun, 08 Sep 2024 00:53:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>白手起家创建我的创业公司：还没有赚到一分钱，但继续前进！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fbkwn1/building_my_startup_from_scratch_havent_made_a/</link>
+      <description><![CDATA[大家好！ 我一直在做一些业余项目，解决人工智能生成艺术和音乐用例的问题。我为人工智能音乐生成启动了samplegenerator.xyz，我知道市场上已经有很大竞争对手，但我想要一些我喜欢每天使用并且对我的工作流程实用的东西。到目前为止，我已经赚了 0 美元。🙃  我还启动了artcovers.xyz，以帮助我以简化的方式为我的发行版制作封面艺术。我不是一个程序员，我使用的工具与其他人一样，cursor、claude 等 说实话，这段旅程比我想象的要困难得多。这些工具很棒，竞争也很激烈，是什么让我继续前进？我相信自己正在创造有价值的东西。我知道这两个平台都有发展空间——尤其是对于那些想要定制产品但预算又不多的创作者来说。当然，我还没有赚到钱，但我修复的每一个错误和添加的功能都让我更接近那个梦想。 对于那些经历过在饱和市场推出产品的艰苦工作的人，我很乐意听取他们的任何建议。 如果您感兴趣，请查看网站并向我提供任何反馈。欢迎坦诚相待！    提交人    /u/0xCryptoWizard   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fbkwn1/building_my_startup_from_scratch_havent_made_a/</guid>
+      <pubDate>Sun, 08 Sep 2024 00:03:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>建立了一个网站，您可以在其中创建时间敏感的调查并查看实时结果</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fbkmpe/made_a_website_where_you_can_create_timesensitive/</link>
+      <description><![CDATA[      https://quickquestproj.vercel.app/ 我和我的朋友经常不得不在去哪里和去哪里之间做出选择。去哪里玩或者看什么，我们经常就这些事情互相投票，所以我决定制作自己的简单投票应用程序！ 它并不意味着复杂或令人费解，我知道 Google 表单和大量其他可以实现这一点的东西已经存在，但我认为自己制作它会很有趣 :) https://preview.redd.it/w59xr1e26hnd1.png?width=2880&amp;format=png&amp;auto=webp&amp;s=3de9955f67602ba815fd0a97ecbc0a99fcce0dff    提交人    /u/godofkeem   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fbkmpe/made_a_website_where_you_can_create_timesensitive/</guid>
+      <pubDate>Sat, 07 Sep 2024 23:49:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>用于版本控制和维护简历和履历的应用程序：RenderCV</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fbkk87/an_app_for_version_controlling_and_maintaining/</link>
+      <description><![CDATA[      TLDR：请访问 rendercv.com 查看（目前仅适用于台式机和平板电脑） 引擎此应用的部分内容已在 GitHub 上开源，并已获得 1700 多颗星：github.com/sinaatalay/rendercv 管理简历和履历是一项挑战，目前没有可用的工具可以对简历进行版本控制并以有组织的方式存档（除了使用 GitHub 和 LaTeX）。 RenderCV 不仅仅是一个简历生成器。我们的目标是创建一个跨平台应用（IOS、Android、Web），以管理、存档和版本控制完全可复制和可自定义的简历。它利用 LaTeX 及其开源 Python 引擎 RenderCV。 详细的动机在我们的登陆页面上概述。 目前，它仅在网络上可用，并包含以下功能：  可以下载 LaTeX 和 PDF。 只需单击按钮即可在 Overleaf 中打开 LaTeX。 以访客身份使用，简历通过 cookie 存储，或使用帐户，简历存储在云端。 创建多个简历，并使用“保存”下方的“锁定此版本”按钮锁定版本按钮。 由于 RenderCV 在 GitHub 上是开源的，因此简历始终是可复制的。  计划的功能：  使其跨平台。想象一下，只需单击手机上的按钮，即可将最新的、维护良好的简历发送给某人。 除了 YAML 编辑器之外，还添加表单编辑器。 允许逐个组件编辑 LaTeX（序言、ExperienceEntry、EducationEntry 等），以便您可以使用自己的模板！  我们的目标是尽快为所有平台完成此应用程序，我们很乐意在前进的过程中听到您的反馈和评论。您的意见非常重要。请在我们的登陆页面底部分享您的反馈。 https://preview.redd.it/pj7qypsl4hnd1.png?width=3456&amp;format=png&amp;auto=webp&amp;s=51fbce647e25709cf26d2148430882eb17c708f0    提交人    /u/egehancry   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fbkk87/an_app_for_version_controlling_and_maintaining/</guid>
+      <pubDate>Sat, 07 Sep 2024 23:45:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何使用 Flutter 在 5 秒内建立自己的团队！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fbk594/how_to_build_my_own_team_in_5_seconds_with_flutter/</link>
+      <description><![CDATA[如何用 Flutter 在 5 秒内建立自己的团队！有没有可以按心 1 秒的天使😂 https://ai.google.dev/competition/projects/new-team-ai    提交人    /u/chLeei   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fbk594/how_to_build_my_own_team_in_5_seconds_with_flutter/</guid>
+      <pubDate>Sat, 07 Sep 2024 23:25:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Utopia：具有个性化家庭叙述功能的人工智能有声读物应用程序</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fbjs0m/utopia_aidriven_audiobook_app_with_personalized/</link>
+      <description><![CDATA[      嗨！我一直在开发“乌托邦：经典书籍”，这是一款使用人工智能克隆家庭成员声音的应用程序，用于个性化的有声读物叙述。它非常适合那些希望孩子听到熟悉声音讲述的故事的父母，即使他们不能在场。每次更新都会包含更多经典故事，这是一种通过讲故事吸引孩子参与的独特方式。 我很乐意听到您的反馈或任何建议！查看并告诉我您的想法！    由   提交 /u/Vic-arg   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fbjs0m/utopia_aidriven_audiobook_app_with_personalized/</guid>
+      <pubDate>Sat, 07 Sep 2024 23:07:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>AWS 用户界面太糟糕了，所以我做了这个东西 - AwsDash.com</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fbjg0d/aws_user_interface_is_awful_so_i_made_this_thing/</link>
+      <description><![CDATA[      如果您和我一样对糟糕的 S3 UI 和 AWS 用户界面有同感，那么您可能会发现这很有用： https://awsdash.com/ 仍处于早期阶段。目前，它解决了我的几个最大问题：  多区域 EC2 视图，因此我不必在区域之间来回切换以获取一些 IP 地址  EC2 视图的实例状态过滤器也很糟糕，而且很慢...  更流畅 + 更快的 S3 资源管理器，能够在存储桶深处进行全文搜索（如果您对其进行索引）  哦，我还可以给存储桶加星标，将其移至顶部   https://preview.redd.it/s15c084ivgnd1.png?width=1512&amp;format=png&amp;auto=webp&amp;s=a3b2c481f38ef0f3b5fdf6282bfccd389834cc4c    提交人    /u/ptgamr   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fbjg0d/aws_user_interface_is_awful_so_i_made_this_thing/</guid>
+      <pubDate>Sat, 07 Sep 2024 22:51:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>有一个与私募股权相关的金融博客。有谁愿意合作撰写客座文章等吗？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fbj8q8/have_a_finance_blog_related_to_private_equity/</link>
+      <description><![CDATA[  由    /u/No_Needleworker99  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fbj8q8/have_a_finance_blog_related_to_private_equity/</guid>
+      <pubDate>Sat, 07 Sep 2024 22:42:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>我正在开发一款应用程序，利用新 iPhone 的卫星连接功能，在离网情况下分享基于位置的更新 - 这款应用程序名为 Terralog</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fbiya8/im_working_on_an_app_for_sharing_location_based/</link>
+      <description><![CDATA[我的很多朋友在离网旅行（登山、徒步旅行等）时使用 Garmin inReach 设备。使用具有卫星连接功能的新 iPhone，您可以创建类似的基于位置的消息日志，仅使用 iPhone 与朋友分享。 我刚刚启动了登陆页面，并且有一个原型可以运行。如果您想尝试一下，请告诉我！    提交人    /u/golear   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fbiya8/im_working_on_an_app_for_sharing_location_based/</guid>
+      <pubDate>Sat, 07 Sep 2024 22:27:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了一个自动生成视频的网站。我通过该网站开设了 Youtube 频道，每月收入 1000 美元。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fbil0i/i_built_a_website_for_automatically_generating/</link>
+      <description><![CDATA[  由    /u/mohebifar  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fbil0i/i_built_a_website_for_automatically_generating/</guid>
+      <pubDate>Sat, 07 Sep 2024 22:10:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们正在开发一款针对女性的减肥应用程序！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fbhpv4/were_building_a_weight_loss_app_for_women/</link>
+      <description><![CDATA[      大家好！ 今年早些时候，我和我的商业伙伴（营养 + 健身教练）开始研究构建一款利用 Apple Watch 数据的健康应用程序。随着我们深入研究并了解更多，我们发现网上存在大量错误信息，尤其是女性的服务水平很低。 因此，我们决定改变这一现状。我们正在开发一款名为 Bloom 的应用，以整体方式帮助减肥。我们正在利用科学支持的健康解决方案来满足女性身体的独特需求。 我们的使命是解决健康和健身行业长期存在的差距，该行业经常将女性视为“小男人”，将通用解决方案应用于减肥、健身和健康问题。Bloom 致力于通过提供整体、个性化的护理来重塑这种过时的方法，为女性提供控制身心健康所需的工具、知识和支持。 我们正在寻找有兴趣测试我们的应用并向我们提供重要反馈的人。如果您过去曾对其他应用或服务感到失望，现在是时候帮助我们构建适合您的应用了！如果您有兴趣，请使用下面的表格注册！ https://forms.gle/vS8hDZDVefUPrFPZ6 https://preview.redd.it/4g6q8qxlggnd1.png?width=1419&amp;format=png&amp;auto=webp&amp;s=c4ecdf62ca9f9be3bde70c47a1e7c51b79d6005f https://preview.redd.it/40qri33oggnd1.png?width=1419&amp;format=png&amp;auto=webp&amp;s=5c6ee1a9c94d6bf3fc18cb7539c743f8db59d0c9 https://preview.redd.it/o8e3xt0pggnd1.png?width=1419&amp;format=png&amp;auto=webp&amp;s=269fbef9df33ce78279c8c649371a53bf6bfa937    提交人    /u/markdifranco   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fbhpv4/were_building_a_weight_loss_app_for_women/</guid>
+      <pubDate>Sat, 07 Sep 2024 21:30:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>我一直在兼职从事虚拟现实桌面工作，如果您有要添加什么的想法，请告诉我。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fbhkcq/ive_been_working_part_time_on_a_virtual_reality/</link>
+      <description><![CDATA[        提交人    /u/Own-Training-7766   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fbhkcq/ive_been_working_part_time_on_a_virtual_reality/</guid>
+      <pubDate>Sat, 07 Sep 2024 21:23:02 GMT</pubDate>
+    </item>
     <item>
       <title>我开发了一款日志记录应用，由历史上最伟大的人物担任 AI 副驾驶</title>
       <link>https://www.reddit.com/r/SideProject/comments/1fbh0x3/i_build_a_journaling_app_with_ai_copilots_from/</link>
@@ -25,90 +109,6 @@
       <description><![CDATA[        由    /u/itsarnavsingh 提交   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1fbgv1i/create_a_website_where_you_can_write_what_you/</guid>
       <pubDate>Sat, 07 Sep 2024 20:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>互联网计算机的 OpenChat - 为什么我无法登录我的互联网身份？还有... 有客户支持电子邮件或有人可以提供帮助吗？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fbggp0/openchat_of_internet_computer_why_cant_i_get_into/</link>
-      <description><![CDATA[我从 Coinbase 发送了 ICP 币，它们安全地到达了 OpenChat (OC) 上的 ICP。  我做了一些交换，然后注销了。现在我无法使用 Internet Identity 进入 (OC) 可能是因为我几个月没有注销了？ 感谢您的帮助！     提交人    /u/North-Bullfrog9697   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fbggp0/openchat_of_internet_computer_why_cant_i_get_into/</guid>
-      <pubDate>Sat, 07 Sep 2024 20:31:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>新应用程序：我将其关闭了吗？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fbgfvb/new_app_did_i_turn_it_off/</link>
-      <description><![CDATA[大家好！ 几天前，我在 r/ocd 上分享了一篇关于拍照以记住我们离开家前是否关闭电器的帖子。 （我会在下面链接它）事实证明，我不是唯一遇到这个问题的人！ 受到那里收到的回复的鼓舞，我感到受到启发并采取行动。 所以，我创建了一个小应用程序 - 一个最小可行产品（mvp）。目前它很简单，但我计划很快对其进行改进。 令人兴奋的部分来了：虽然我之前只使用无代码工具创建过产品，但这是我第一次使用 swift 开发应用程序！我在 claude（一个人工智能助手）和 cursor 的帮助下构建了它。这是一次相当不错的学习经历！ 这就是我需要你的地方：我很想听听你的想法和建议！你的意见对于塑造应用程序的未来发展至关重要。 如果您有兴趣尝试，请给我发送 dm，我会与您分享该应用程序。 期待您的反馈和想法！ 干杯！    提交人    /u/ardakaano   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fbgfvb/new_app_did_i_turn_it_off/</guid>
-      <pubDate>Sat, 07 Sep 2024 20:30:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>我在不到 72 小时内使用 v0、cursor-ai 和 claude 制作了一个功能齐全的 AI 应用程序！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fbgavv/i_made_a_fully_functional_ai_app_with_v0_cursorai/</link>
-      <description><![CDATA[大家好！ 这是我随机构建的一个东西。有一天，我很好奇人类与其他物种的关系，于是想和 Claude 一起玩，将其形象化。最初只是一个简单的提示，后来变成了一个功能齐全的 Web 应用程序，其中嵌入了一个功能齐全的开源 AI 模型，这一切都在一个周末内完成。 不，这不是另一个 SaaS 应用程序。 我构建了 Genosphere  - 一个交互式的、由 AI 驱动的生命之树浏览器。它的作用如下：  用于探索物种间进化关系的交互式 Web 应用程序 AI 助手提供有关任何选定节点（物种或组）的信息 可缩放、可平移的界面，用于深入探索不同分支  技术栈：  Next.js 15、React、TypeScript react-d3-tree 用于树可视化 Tailwind CSS、Framer Motion 运行最新 Llama 3.1 8B 模型 + 多种模型选择的 Groq API 部署在 Vercel 上 Helicone 用于 LLM 可观察性  那么，我为什么要做这个呢？我只是想看看我可以在 Web 应用程序中将整个 AI 集成推到多远。此外，大多数系统发育树就像看着油漆变干一样令人兴奋。  如果您有几分钟时间，我希望您能试用一下。尝试一下，看看您的想法。对功能有什么新想法吗？也许您可以想到其他领域，类似的东西可能会有用？ 我显然不是进化生物学家。但猜怎么着？我只用了 72 小时就完成了。我使用 v0、Claude 和 cursor-ai 一起编写代码，并花了一些额外的时间整理后端 LLM 内容。 人工智能让有想法的好奇的人能够进入完全不同的领域并真正构建一些有趣的东西，这真是太疯狂了。让我知道你们的想法！    提交人    /u/Bl4ckHackVictory   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fbgavv/i_made_a_fully_functional_ai_app_with_v0_cursorai/</guid>
-      <pubDate>Sat, 07 Sep 2024 20:24:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>构建一个工具来帮助 SaaS 创始人使用 AI 分析他们的创业想法 - 免费工具！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fbfr8l/built_a_tool_to_help_saas_founders_analyze_their/</link>
-      <description><![CDATA[嗨，Reddit！👋 我非常喜欢尝试 AI，最近我接手了一个有趣的项目，想开发一些可以帮助其他 SaaS 创始人和创业者的东西。我想开发一个工具，根据用户输入分析商业创意，进行市场研究、分析竞争等。 经过大约 4 天的工作（大部分时间每天几个小时），我开发了 ValidateSaaS — 一个由 AI 驱动的工具，可以为创业创意生成报告。大部分代码实际上是由 AI 生成的，虽然该工具还处于早期阶段，但我认为它对任何正在集思广益寻找下一个商业创意的人来说都很有用。 注册是免费的，您可以免费生成两份报告以开始使用。我很乐意听到您的想法，任何反馈都将不胜感激！ 这是我希望实现的目标：  帮助其他 SaaS 构建者快速评估他们的商业想法 提供一种可以通过反馈进行扩展和改进的工具 分享构建此工具的完整过程，特别是对于那些有兴趣在 SaaS 开发中使用 AI 的人。  让我知道您的想法，请随意尝试一下！😊    提交人    /u/mailnike   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fbfr8l/built_a_tool_to_help_saas_founders_analyze_their/</guid>
-      <pubDate>Sat, 07 Sep 2024 20:00:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>对我的副业项目进行限时交易</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fbfq71/running_a_limited_time_deal_on_my_side_project/</link>
-      <description><![CDATA[大家好，正如标题所说，我正在对我的业余项目进行限时交易。它是一个屏幕截图编辑器和图像模型生成器。普通用户每天都会使用这个工具，因为他们在社交媒体上与他人分享屏幕截图和图像。  目前，前 10 位客户每年可享受 10 美元的优惠。我很高兴地告诉大家，已经有 2 位来自 Twitter 的付费客户，现在就在这里分享。  这是链接，现在就来看看 - https://www.picyard.in  此外，欢迎反馈    提交人    /u/mediocre_man_online   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fbfq71/running_a_limited_time_deal_on_my_side_project/</guid>
-      <pubDate>Sat, 07 Sep 2024 19:58:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>我建立了一个网站，可以把你带到互联网上的一个随机页面</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fbfpbg/i_built_a_website_that_sends_you_to_a_random_page/</link>
-      <description><![CDATA[        提交人    /u/MobilePanda1   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fbfpbg/i_built_a_website_that_sends_you_to_a_random_page/</guid>
-      <pubDate>Sat, 07 Sep 2024 19:57:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>（针对需要改善沟通的公司经理）：我如何最终利用人工智能简化团队沟通</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fbfbfw/for_a_manager_in_a_company_who_need_to_improve/</link>
-      <description><![CDATA[我是 Mark，一名软件销售经理。我的工作主要是平衡持续沟通、会议和报告，这些工作占据了我每天的太多时间。 由于 AI 成为每个人的首选工具，我一直在寻找一种可以帮助简化所有这些工作而又不失个性化的工具，但由于集成，这有点具有挑战性。 然后我发现了这个名为 NinjaChat 的工具。名字很有趣，但让我很开心。请一定要看看。 过去，我尝试过 AI 工具，但它们从未提供太多灵活性——尤其是在管理多个项目时，但这个工具做到了。  借助 Claude 3 Opus 和 ChatGPT-4o 等模型，我能够起草会议摘要、从报告中获取见解，甚至与团队集思广益——所有这些都可以在一个地方完成，这对我的工作来说非常棒。 能够在对话中同步所有内容，这样就可以更轻松地跟踪正在进行的项目，而无需处理一百万份文档，而且成本非常低。    提交人    /u/Charming_Jelly_2895   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fbfbfw/for_a_manager_in_a_company_who_need_to_improve/</guid>
-      <pubDate>Sat, 07 Sep 2024 19:40:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>您愿意投资一个小型家庭农场吗？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fbfanv/would_you_like_to_invest_in_a_small_family_farm/</link>
-      <description><![CDATA[        提交人    /u/Cam_theman003   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fbfanv/would_you_like_to_invest_in_a_small_family_farm/</guid>
-      <pubDate>Sat, 07 Sep 2024 19:40:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>LinkedIn 个人资料优化器应用程序</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fbf9gb/linkedin_profile_optimiser_app/</link>
-      <description><![CDATA[      作为我的其他项目的一部分 (https://liroast.web.app/ LinkedIn Profile Roaster)，我有一个优化个人资料的功能。它被很多人使用，所以我决定创建一个专门的项目来满足这个需求。 它会扫描您的个人资料和帖子，并提供有意义的建议，建议您接下来可以在个人资料上发布什么。 项目链接在这里：https://beautifyprofile.com/ https://preview.redd.it/ftuipkm9wfnd1.png?width=1199&amp;format=png&amp;auto=webp&amp;s=156c4b92f05a2c4813c397094c8b83c23567b3b8    提交人    /u/warphere   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fbf9gb/linkedin_profile_optimiser_app/</guid>
-      <pubDate>Sat, 07 Sep 2024 19:38:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>我甚至在产品完成之前就完成了第一笔销售！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fbf6ou/i_made_my_first_sale_before_even_finishing_the/</link>
-      <description><![CDATA[      大家好，  我从事专业移动应用程序开发已有 5 年多了。在此期间，我一直在构建和维护用于我自己项目的 Flutter 样板模板。它让我能够非常快速地启动应用程序并验证这个想法。但在看到所有使用 React 和 NextJS 样板模板的成功案例后，我决定在线发布我的模板，看看进展如何。我做了一些研究，发现市场上还没有很多 Flutter 样板。我看到了一个机会，买了一个不错的域名（flutterboilerplate.com），并利用空闲时间建立了它。 https://preview.redd.it/yrmetfdzvfnd1.png?width=1191&amp;format=png&amp;auto=webp&amp;s=13155cb122ee6a27b4762cbe63068c1f38424b87 然后突然间我得到了一个lemonsqueezy 发来的电子邮件说我卖出去了！用户来自谷歌搜索并购买了它。虽然样板已经准备好了，但文档站点还没有。所以我抓紧时间创建了文档站点并在一天内发布。这对我来说是一个重要的时刻，因为我甚至在正确发布我的产品之前就得到了验证（我还没有在 flutter subreddits 上推广它，因为我想进一步完善登陆页面） 这是我第一次在这里发布成功案例。请查看登陆页面并给我一些反馈。 您可以在这里找到该项目：https://www.flutterboilerplate.com/    提交人    /u/ikramhasan   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fbf6ou/i_made_my_first_sale_before_even_finishing_the/</guid>
-      <pubDate>Sat, 07 Sep 2024 19:35:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>我将领导您的应用初创公司的增长，年收入为 %</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fbf2gc/ill_head_growth_at_your_app_startup_for/</link>
-      <description><![CDATA[我是一名增长黑客，正在开发 https://relaunch.day 。我能够通过 ASO 和其他个人熟知的技术帮助几乎任何应用在 AppStore 上获得较高的排名。无论如何，如果你有一个有前途的应用，并且你愿意放弃一些股权，我会加入并为你发展你的应用。     提交人    /u/kluxRemover   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fbf2gc/ill_head_growth_at_your_app_startup_for/</guid>
-      <pubDate>Sat, 07 Sep 2024 19:29:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>iMessage 至网站</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fbe62h/imessage_to_website/</link>
-      <description><![CDATA[我制作了（第一个？）将 iMessages 变成（微）博客的工具！ 👋嗨！我一直在研究新东西。它将 iMessage（📸photos、💬text 和 📍locations）变成一个网站。只需使用 iMessages 发送消息即可 没有 wifi 或互联网？您可以使用短信作为后备。 我真的很好奇你对此的看法！😊 检查：www.texttheinternet.com    提交人    /u/bahrdt   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fbe62h/imessage_to_website/</guid>
-      <pubDate>Sat, 07 Sep 2024 18:49:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
