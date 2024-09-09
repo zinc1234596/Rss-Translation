@@ -4,111 +4,111 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Mon, 09 Sep 2024 09:17:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Sep 2024 12:28:35 GMT</lastBuildDate>
     <item>
-      <title>专为订阅服务设计的支付系统</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fcl2xh/a_payment_system_designed_specifically_for/</link>
-      <description><![CDATA[如能提供快速反馈，我们将不胜感激。   大家对专为基于订阅的结帐页面设计的支付系统有何看法。您无需添加卡即可注册任何内容，而是使用上述付款方式，并在专用仪表板中即时跟踪。一旦您想取消订阅，只需“取消链接”您订阅的服务中的付款帐户，他们就会停止向您收费。  请告诉我您的想法 🙂    提交人    /u/thepianoist   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fcl2xh/a_payment_system_designed_specifically_for/</guid>
-      <pubDate>Mon, 09 Sep 2024 09:10:21 GMT</pubDate>
+      <title>预览我即将推出的虚拟试穿衣服 Chrome 扩展程序！寻求您的反馈和见解！[内含演示视频]</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fco3st/preview_my_upcoming_chrome_extension_for_virtual/</link>
+      <description><![CDATA[        提交者    /u/Suitable_Estate8813   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fco3st/preview_my_upcoming_chrome_extension_for_virtual/</guid>
+      <pubDate>Mon, 09 Sep 2024 12:22:47 GMT</pubDate>
     </item>
     <item>
-      <title>TweakSync – Chrome 和 VS Code 之间的实时样式</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fckwwu/tweaksync_realtime_styling_between_chrome_and_vs/</link>
-      <description><![CDATA[嗨，各位开发者们！ 我很高兴与大家分享我一直在研究的一款名为 TweakSync 的工具，现在可用于 Chrome 和 VS Code！🎉 它有什么用？ TweakSync 允许您直接在 Chrome 中进行实时样式更改，然后只需单击一下即可将这些更新应用到 VS Code 中的代码库。不再需要在窗口之间切换或不断刷新浏览器 - 只需专注于构建和优化您的设计即可。 主要功能：  在 Chrome 中实时调整 CSS 立即预览更改 按“应用”按钮将更新同步到 VS Code 非常适合响应式设计调整和快速原型设计  尝试一下：  TweakSync for Chrome TweakSync for VS Code  我很乐意听到您的反馈、建议以及它如何改善您的工作流程！请随时提问 - 我在这里为您提供帮助。 TweakSync #WebDev #VSCode #DevTools #Frontend    提交人    /u/hazeem_dev   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fckwwu/tweaksync_realtime_styling_between_chrome_and_vs/</guid>
-      <pubDate>Mon, 09 Sep 2024 08:58:15 GMT</pubDate>
+      <title>我根本不懂任何一行代码就构建了我的第一个 Web 应用程序。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fco0kz/i_built_my_first_web_app_without_knowing_a_single/</link>
+      <description><![CDATA[我在不懂任何代码的情况下构建了自己的第一个 Web 应用程序。 https://reddit.com/link/1fco0kz/video/imp09ew10snd1/player 我是 Abhi Kapoor，一名来自该行业的营销人员和创作者，但我根本不相信用这些术语来给自己贴标签，随着我的成长，我正在向更多的现实和领域延伸，发现自己对各种东西越来越深入。 所以不久前，我发现了这个 Subreddit 附带项目，独立创始人和黑客的概念让我震惊。我找到了另一种方式来引导我的创造力， 我一直是个建设者，我喜欢建造东西。 所以我接受了这个挑战，去构建一些真正有用的东西，并解决作为一个营销人员的实际问题，我抓住了我的痒处，开始开发超级管理员。 这就是超级管理员诞生的方式。 超级管理员是一个 Instagram 抓取工具，可以收集用户数据，包括超过 18 个字段，例如他们的商业电子邮件和电话号码（如果它们是公开的）。但让我告诉你，这并非易事。 我对编码或开发一无所知。 我不知道什么是 IDE，也不知道语言环境、数据库、GitHub、部署、库、API、路由等任何知识——这些都不知道。 当我开始构建时，我真的一无所知。 但经过 7 天的不眠之夜，我成功构建了超级管理员。猜猜怎么着？我仍然不知道如何编码！ 我所拥有的只是一个愿景、一个想法，以及实现我的想法的纪律。 在构建超级管理员的过程中，我面临着可能发生的每一个挑战。 编码、错误、构建、UI、库、API、安全、数据库和部署。 如果有人开始他们的独立黑客之旅或类似我所做的事情，我很乐意免费帮助他们。 我会永远免费回馈社区。因为现在运行它包括 API 调用部署和数据库，我不需要花费任何费用，这就是美妙之处。    提交人    /u/Pandaxpro   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fco0kz/i_built_my_first_web_app_without_knowing_a_single/</guid>
+      <pubDate>Mon, 09 Sep 2024 12:18:02 GMT</pubDate>
     </item>
     <item>
-      <title>井字游戏甜心版你能打败人工智能吗？今天就证明你的策略技能吧！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fckqtj/tic_tac_toe_sweetheart_edition_can_you_beat_the/</link>
-      <description><![CDATA[      需要您的反馈🙏     提交人    /u/basavarajavyadav   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fckqtj/tic_tac_toe_sweetheart_edition_can_you_beat_the/</guid>
-      <pubDate>Mon, 09 Sep 2024 08:44:40 GMT</pubDate>
+      <title>我创建了 ftools.io：解决 ChatGPT 幻觉和 LinkedIn 访问问题的解决方案</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fcni1v/i_built_ftoolsio_a_solution_for_chatgpt/</link>
+      <description><![CDATA[    /u/Maiorica  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fcni1v/i_built_ftoolsio_a_solution_for_chatgpt/</guid>
+      <pubDate>Mon, 09 Sep 2024 11:51:01 GMT</pubDate>
     </item>
     <item>
-      <title>对于那些在风格或着装方面苦苦挣扎的人来说，我希望这可以帮助你看起来很好:)</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fcke1e/for_people_who_struggle_with_style_or_dressing_up/</link>
-      <description><![CDATA[        提交人    /u/Due_Analyst_5617   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fcke1e/for_people_who_struggle_with_style_or_dressing_up/</guid>
-      <pubDate>Mon, 09 Sep 2024 08:17:21 GMT</pubDate>
+      <title>一个对美股进行基本面分析的开源工具！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fcnec4/an_opensource_tool_for_performing_fundamental/</link>
+      <description><![CDATA[我创建了一个使用 Python 进行基本面分析的工具。它使用开源 LLM（Ollama）或 OpenAI API 进行分析。 ReadMe 非常详细，包含文章和视频参考以及如何运行该工具的说明。如果您有任何反馈，我将不胜感激！ GitHub 链接： https://github.com/austin-starks/AI-Financial-Analysis    提交人    /u/NextgenAITrading   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fcnec4/an_opensource_tool_for_performing_fundamental/</guid>
+      <pubDate>Mon, 09 Sep 2024 11:45:06 GMT</pubDate>
     </item>
     <item>
-      <title>如何在社交应用上获取初始用户</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fckbcz/how_to_get_initial_users_on_social_app/</link>
-      <description><![CDATA[我最近推出了一款社交应用，用于在一个平台上对所有内容进行评级。我知道这是一个困难的领域，但我真的认为该应用是独一无二的，具有潜力。 我（毫不奇怪地）发现很难获得初始用户。我从应用商店获得的流量非常低，以前流量更高。目前，我不想为营销付费。 有什么好方法可以吸引一些初始用户。在这个阶段，甚至从他们那里获得反馈也非常有用。 我觉得我可能需要在一个类别中提供一些强大的增值功能，以获得一些初步兴趣，并让人们至少在一个类别中使用该应用。 如果有人感兴趣，该应用在这里：https://www.rated.fun/Welcome    提交人    /u/TheRazerBlader   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fckbcz/how_to_get_initial_users_on_social_app/</guid>
-      <pubDate>Mon, 09 Sep 2024 08:11:41 GMT</pubDate>
+      <title>我正在寻找我的 SEO 工具 Karma.domains 的 beta 测试人员和反馈</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fcnbiv/im_looking_for_beta_testers_and_feedback_for_my/</link>
+      <description><![CDATA[大家好！我正在为我的 SEO 工具 Karma.domains 寻找 beta 测试人员。它根据域名的 Web 存档历史记录对其进行分析。它是 Spamzilla 的替代品。非常适合那些参与 SEO、链接建设或 PBN 的人。 以下是注册时可获得额外 10 个积分的邀请码： icR49BLMAFLDVVQ7KXP3Y9 icVQD9PA7YJPEBCY97GR3 icPGWGE2749BNWH2WDMAWE ic3JDNAFLGL79Q3LZULPQQ icDKVNVRZRTTCNJL4CHB7L 网站：https://karma.domains/ 附言：欢迎在此处分享您的邀请码。    提交人    /u/WerrdG   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fcnbiv/im_looking_for_beta_testers_and_feedback_for_my/</guid>
+      <pubDate>Mon, 09 Sep 2024 11:40:43 GMT</pubDate>
     </item>
     <item>
-      <title>作为一名独立黑客，我一直讨厌在社交媒体上营销和发帖，所以我创建了一个简单的工具来帮助创建 tiktok/instagram 轮播</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fck8j6/as_an_indie_hacker_i_always_hated_marketing_and/</link>
-      <description><![CDATA[https://carouselai.app/ 使用起来非常简单。所有设置都是可选的，你只需要一个主题。  只需输入轮播的主题并点击生成即可。 下载所有图片 发布到 tiktok/instagram ??? 获利。  现在创建帖子通常只需不到 2 分钟。    提交人    /u/MildlyMoistSock   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fck8j6/as_an_indie_hacker_i_always_hated_marketing_and/</guid>
-      <pubDate>Mon, 09 Sep 2024 08:05:34 GMT</pubDate>
+      <title>您第一个将新创业公司放在哪个网站上？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fcmx0p/what_is_the_first_website_that_you_put_your_new/</link>
+      <description><![CDATA[对我来说，ProductHunt。 你呢？    提交人    /u/bendras_klp   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fcmx0p/what_is_the_first_website_that_you_put_your_new/</guid>
+      <pubDate>Mon, 09 Sep 2024 11:17:15 GMT</pubDate>
     </item>
     <item>
-      <title>🚀 推出 ProjectHunt.me – 发现和分享精彩项目的地方！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fck614/introducing_projecthuntme_a_place_to_discover_and/</link>
-      <description><![CDATA[大家好！！！！ 我非常高兴能够分享我过去几个月一直在做的事情（天哪，我要哭了😭）。几个月前被解雇后，由于之前没有任何编码经验，我接受了从头开始构建项目目录网站的挑战。现在，我很高兴与大家分享 ProjectHunt.me！ 什么是 ProjectHunt.me？ ProjectHunt.me 是一个新平台，旨在帮助您发现和分享各个领域的精彩项目。无论您是开发人员、设计师、企业家，还是只是对酷炫的新项目充满热情，这个网站都适合您。在这里，你可以找到灵感、展示自己的作品，并与其他志趣相投的人交流。 你可以做什么：  发现——浏览精选的激动人心的项目列表。 提交——与社区分享你自己的项目。 探索——寻找新想法，并从其他人的工作中获得灵感。  我付出了很多努力从头开始建立这个网站，边做边学，我渴望看到它成长并成为每个人的宝贵资源。您的反馈和参与对于使 ProjectHunt.me 取得成功至关重要。 您可以如何提供帮助：  访问 ProjectHunt.me – 查看网站并浏览列出的项目。 提交您的项目 – 如果您有想要分享的项目，请继续提交！ 提供反馈 – 让我知道您的想法，以及您是否有任何改进建议。  我期待您的想法，并希望您觉得该网站有用。感谢您的支持！    提交人    /u/ComprehensiveBook139   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fck614/introducing_projecthuntme_a_place_to_discover_and/</guid>
-      <pubDate>Mon, 09 Sep 2024 08:00:22 GMT</pubDate>
+      <title>开发了一款用于生成滚动网站视频的工具</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fcmvt2/built_a_tool_for_generating_scrolling_website/</link>
+      <description><![CDATA[      找到了生成网站平滑滚动的视频出乎意料地棘手，所以我们想推出一个免费工具来做到这一点。 您只需输入您的网址，选择宽高比和输出格式，然后单击“生成”。 方便在社交媒体上分享重新设计或博客文章。 您可以在此处生成滚动视频。 https://reddit.com/link/1fcmvt2/video/yfkvoe5dornd1/player    提交人    /u/umband   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fcmvt2/built_a_tool_for_generating_scrolling_website/</guid>
+      <pubDate>Mon, 09 Sep 2024 11:15:15 GMT</pubDate>
     </item>
     <item>
-      <title>获得你的前 1000 名用户并不像你想象的那么难，只要记住，有时稍微作弊一下也是可以的</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fck3tp/getting_your_first_1000_users_is_not_as_hard_as/</link>
-      <description><![CDATA[   嗨，各位企业家们， 我刚刚发表了一篇文章，我想你们都会觉得很有趣。它讲述了 11 家成功的初创公司用来获取其前 1000 名用户的非常规策略。 我们都听过这样一句话：“为达目的不择手段”，但在创业方面，有时在创业初期作弊是可以的。约翰·D·洛克菲勒最初说过：“除了第一个一百万，我可以说明我赚到的每一分钱。”我认为这句话对我们许多人来说都是正确的，我们不得不努力拼搏才能让企业起步。 从入侵 Craigslist 到利用 SEO 漏洞，这些初创公司不惜一切代价吸引第一批用户。你知道吗？它成功了。 查看出版物并让我知道你的想法。你曾经不得不“作弊”吗？在商业上取得成功？ 在下面的评论中分享您的故事！ https://preview.redd.it/1kvqg828pqnd1.jpg?width=1920&amp;format=pjpg&amp;auto=webp&amp;s=3b587ee30ea13d3c40a014cefb8271b4fa138921    提交人    /u/kamushken   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fck3tp/getting_your_first_1000_users_is_not_as_hard_as/</guid>
-      <pubDate>Mon, 09 Sep 2024 07:55:35 GMT</pubDate>
+      <title>[需要反馈]力量之旅：可视化杠铃举重进度的开源应用程序</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fcmt64/feedback_wanted_strength_journeys_open_source_app/</link>
+      <description><![CDATA[嗨，Sideproject 的读者们， 我很高兴与大家分享 Strength Journeys ——一款免费的开源网络应用，可帮助您跟踪杠铃举重的力量进度。我将其作为业余项目已经进行了大约 18 个月。 它有什么用？ Strength Journeys 可让您连接 Google 表格 数据以生成交互式图表、分析个人记录 (PR)、估算单次最大重量 (e1RM)，甚至可以与可以帮助您分析举重数据的 AI 聊天。我为那些热爱数据并希望随时间直观地了解他们的杠铃旅程的举重运动员制作了它。 主要特点：  PR 分析器：跟踪您举重的终生和近期个人记录。 力量可视化器：查看所有举重进度的交互式图表，这些图表标准化为 e1rms。 AI 举重助手：询问有关您的举重的问题并获得见解（非常新，有用吗？）。 一次最大次数计算器：多公式 e1RM 计算器。 力量计算器：主要举重的 F 评级。例如：中级、高级等。 健身房播放列表排行榜：与他人分享和发现健身房音乐。 优势文章：我会填写这个，现在我正在尝试为 SEO 流量建立它。  技术栈：  使用 Next.js 构建并部署在 Vercel 上。 由 shadcnui 提供支持的 UI 组件和图表。 数据存储在 Google 表格 中，以实现完全的用户控制。 设计用于在移动网络上运行良好。  我为什么要构建它： 我是一名 50 岁的举重运动员，喜欢追踪进度。但是，我发现许多应用程序要么将重要功能锁定在付费墙后面，要么不允许您轻松管理自己的数据。 Strength Journeys 旨在提供创造性的工具和见解，同时保持一切开源和用户控制。 我希望这个应用程序可以鼓励人们通过力量训练来投资自己的身体健康。 试用一下： 您可以在此处免费试用：Strength Journeys - https://www.strengthjourneys.xyz/ GitHub 存储库：https://github.com/wayneschuller/strengthjourneys 我很乐意收到来自这个社区的反馈！如果您喜欢举重或只是喜欢副业，我希望您觉得它有用。    提交人    /u/ConstructionPlus8561   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fcmt64/feedback_wanted_strength_journeys_open_source_app/</guid>
+      <pubDate>Mon, 09 Sep 2024 11:10:46 GMT</pubDate>
     </item>
     <item>
-      <title>如何为您的新创业公司吸引流量？这里有 5 个地方可以发布有关您的创业公司的信息并获得免费流量。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fcjubg/how_to_get_traffic_to_your_new_startup_here_are_5/</link>
-      <description><![CDATA[我花了一段时间才找到并整理出这些网站。 如果你正在启动一家初创公司，或者对现有的应用程序、初创公司或业务进行了重大更新，这些网站将有助于提升你的流量。 Product Hunt： https://www.producthunt.com/ Reddit 帖子： https://www.reddit.com/r/Startup_Ideas/hot/ https://www.reddit.com/r/StartUpIndia/hot/ https://www.reddit.com/r/indiehackers/hot/ YCombinator 新闻： https://news.ycombinator.com/ 干杯。    由   提交  /u/bendras_klp   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fcjubg/how_to_get_traffic_to_your_new_startup_here_are_5/</guid>
-      <pubDate>Mon, 09 Sep 2024 07:34:35 GMT</pubDate>
+      <title>拨打：人工智能鼓舞人心的演讲</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fcmpnu/dialed_ai_pep_talks/</link>
+      <description><![CDATA[      制作了一个可以进行 ai 鼓舞人心的演讲的应用程序。推出大约一个月后，下载量达到 300 次，订阅用户达到 12 人，营销费用为 0。我听励志演讲已经有一段时间了，这个应用是专门为自己开发的。当我意识到它也能帮助别人时，你就为它开发了一个应用。该应用目前处于早期阶段，所以如果有人想提供反馈，这里有一个链接 :) 如果有人想要免费的鼓舞人心的演讲，请给我发私信，我会私信给你……    提交人    /u/Pickles1551   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fcmpnu/dialed_ai_pep_talks/</guid>
+      <pubDate>Mon, 09 Sep 2024 11:04:33 GMT</pubDate>
     </item>
     <item>
-      <title>我的第一个 IOS 应用。非常感谢您提供任何有关如何改进入门或付费墙的建议。🫡</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fcjtlw/my_first_ios_app_would_appreciate_any_advice_on/</link>
-      <description><![CDATA[4 月，我发布了我的第一款使用 AI 和条形码进行卡路里追踪的 IOS 应用程序。作为一名 Web 开发人员，这对我来说是一次全新的体验，我正在学习很多有关移动应用程序的知识。 我仍然在努力提高转化率，但我不知道什么会有所帮助。我尝试改进入职培训，大幅降低价格，但转化率仍然很低，约为 1.8%。 我希望得到一些帮助，为我提供有关如何改进入职培训和付费墙的建议，因为我没有更多的线索。任何关于如何找到信号来了解用户我可以改进什么的提示都会非常有益！ 这是应用程序https://apps.apple.com/cz/app/mealcheck-ai-calorie-counter/id6479276331。我不会强迫任何人购买订阅，但我希望您的评论能帮助新手开发者。💪谢谢    提交人    /u/alexsexotic   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fcjtlw/my_first_ios_app_would_appreciate_any_advice_on/</guid>
-      <pubDate>Mon, 09 Sep 2024 07:33:01 GMT</pubDate>
+      <title>我为我的副项目做了一个副项目：Firebase 备忘单。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fcmmzl/i_made_a_side_project_for_my_side_project_a/</link>
+      <description><![CDATA[        提交人    /u/Rutter_Boy   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fcmmzl/i_made_a_side_project_for_my_side_project_a/</guid>
+      <pubDate>Mon, 09 Sep 2024 11:00:30 GMT</pubDate>
     </item>
     <item>
-      <title>一款可以集中追踪你的排便、开支、饮酒量、体重和情绪的应用，查看概览并获得个性化见解</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fcjngm/an_app_to_track_your_poops_expenses_alcohol_usage/</link>
-      <description><![CDATA[      https://preview.redd.it/byeekyjmiqnd1.jpg?width=4873&amp;format=pjpg&amp;auto=webp&amp;s=94b1f0fa9fa9355d3099add777eded1966377816 我很乐意向您介绍“我的追踪器应用程序：习惯&amp; 更多” - 一款 iOS 应用，是密切关注您关心的一切事物的完美工具。习惯、情绪、体重、睡眠、日记等等 - 从 60 多个预定义事项中进行选择，以跟踪进度或创建自己的事项 - 所有这些都在一个简单的应用中！查看所有可跟踪事项的整体概览，并深入了解您的生活/日常变化如何影响您生活的各个方面。当我看到我的锻炼与我的焦虑水平如何相关时，我很激动（出乎意料……），而且自从我戒烟后，我的睡眠质量好多了（另一个令人震惊的事情，哈哈）。 当我自己偶然发现需要跟踪我的情绪、体重和日常药物时，我就制作了这个应用。我不喜欢 Apple Health，因为它需要点击 7-8 次才能跟踪我的体重，当我意识到至少需要 1 个额外的应用程序来跟踪其余体重时，我更不高兴了。所以我想出了一个解决方案，我仍然每天使用它，我看到其他人也觉得它很有用！ 我很想听听你的反馈，看看你喜欢什么，更重要的是 - 你不喜欢什么！我渴望让它尽可能地用户友好，让人们更容易自我反省😊 谢谢！    提交人    /u/More-Crab-1210   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fcjngm/an_app_to_track_your_poops_expenses_alcohol_usage/</guid>
-      <pubDate>Mon, 09 Sep 2024 07:19:24 GMT</pubDate>
+      <title>无需担心旅途中的开支和必需品</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fcmcoa/never_stress_about_expenses_and_essentials_on/</link>
+      <description><![CDATA[嗨， 我们为全球用户开发了一款应用程序，以便他们可以跟踪和分摊费用，查看支出分析和余额。  除此之外，您还可以从我们的模板或自己制作团体清单，以便在为下一次旅行打包时不会错过任何东西。  立即查看：https://saathi.app     提交人    /u/Odd_Mulberry890   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fcmcoa/never_stress_about_expenses_and_essentials_on/</guid>
+      <pubDate>Mon, 09 Sep 2024 10:41:51 GMT</pubDate>
     </item>
     <item>
-      <title>推广新 YouTuber 的网站</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fcjn7z/website_to_promote_new_youtubers/</link>
-      <description><![CDATA[我已经创建了一个网站，以帮助免费推广小型 YouTubers，网址为 https://tubehunts.com 请检查并浏览它，并给我您的宝贵反馈。    提交人    /u/Shahim_Sadakath   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fcjn7z/website_to_promote_new_youtubers/</guid>
-      <pubDate>Mon, 09 Sep 2024 07:18:57 GMT</pubDate>
+      <title>我把 Chrome 变成了一个完整的操作系统！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fcm1zs/i_turned_chrome_into_a_full_os/</link>
+      <description><![CDATA[      https://preview.redd.it/5l0tmoo5frnd1.png?width=1500&amp;format=png&amp;auto=webp&amp;s=be6562f2521f8b2da13cd32400195faf1c74c5ca Hokage OS 就像是 Buildspace OS 爱好玩乐的表亲。想要将背景换成跳迪斯科舞的仙人掌，或者将自己改名为“Supreme Pixel Ninja”？那就去吧！它可自定义性极高，以至于到最后你可能会忘记自己是谁。你能不能说我没有警告过你？ youtube 链接：https://www.youtube.com/watch?v=2jZE0fQ-Sj0 最后一篇 reddit 帖子 github 链接：https://github.com/Shrit1401/hokageos    由    /u/ShritStuff 提交   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fcm1zs/i_turned_chrome_into_a_full_os/</guid>
+      <pubDate>Mon, 09 Sep 2024 10:21:17 GMT</pubDate>
     </item>
     <item>
-      <title>我正在开发一个链接监控工具。希望得到一些反馈。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fcjkxc/im_building_a_link_monitor_tool_id_appreciate/</link>
-      <description><![CDATA[因此，我正在为自己构建一个工具来跟踪链接，只是为了确保它们位于我期望的 URL 上并使用我想要的锚文本。 目前，我只监控有限数量的链接，但随着列表的增长，它可能会变得混乱。所以我想知道您使用什么工具进行链接监控，以及哪些功能对您作为 SEO 更有用。 我也希望得到一些关于我的工具 BacklinkAlert 的反馈。我认为它可能对更多人有用，如果有人对它感兴趣的话，我打算在开源之前对它进行一些完善。 这将是我的第二个开源 SEO 工具，因为前段时间我已经分享了我的 SEOnaut 项目，我收到了一些人对它的非常有用的反馈。    提交人    /u/tt_256   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fcjkxc/im_building_a_link_monitor_tool_id_appreciate/</guid>
-      <pubDate>Mon, 09 Sep 2024 07:14:00 GMT</pubDate>
+      <title>推出我的第一部短片：TicTac - 一部心理剧</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fcm0vx/launching_my_first_short_film_tictac_a/</link>
+      <description><![CDATA[大家好， 我是 Emilio Mercanti，23 岁，来自意大利，是一名电影制作人。在担任助理导演多年后，我决定着手我的第一个独立项目，一部名为 TicTac 的短片。这个项目是我长期以来一直深感热衷的一项业余项目，也是我热爱的一项工作。 TicTac 是一部心理剧，讲述了办公室职员 Phil 在神秘入侵者闯入他家后陷入时间循环的故事。这部电影探讨了真理、信仰和人类心理等主题，让观众感受到发人深省的体验。 我已经在 Kickstarter 上发起了一项众筹活动，以使这个项目成为现实，并希望得到您的支持。无论是通过支持该项目还是简单地与他人分享，每一点帮助都会产生影响。我也在这里讨论将副项目变成现实的挑战和回报 - 让我们分享我们的经验！ 查看活动 KickstarterTicTacCampaign，以及我们的 reddit 频道 RedditTicTacChannel，感谢您的时间和支持！    提交人    /u/butras123   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fcm0vx/launching_my_first_short_film_tictac_a/</guid>
+      <pubDate>Mon, 09 Sep 2024 10:19:12 GMT</pubDate>
     </item>
     <item>
-      <title>我创建了一个工具来自动模糊视频中的移动物体（ForEffect）</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fcj8yp/i_built_a_tool_to_automatically_blur_moving/</link>
-      <description><![CDATA[        由    /u/reccehour  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fcj8yp/i_built_a_tool_to_automatically_blur_moving/</guid>
-      <pubDate>Mon, 09 Sep 2024 06:49:17 GMT</pubDate>
+      <title>我制作了一个目录，列出了那些做事无法扩展的初创公司（需要反馈）</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fclod0/i_made_a_directory_of_startups_that_did_things/</link>
+      <description><![CDATA[      大家好， 我一直在做一个小项目，真的需要你们的反馈。 所以，我一直对那些成功的初创公司在早期做疯狂事情的​​故事很着迷——你知道，比如 Airbnb 创始人亲自拍摄房源，或者 DoorDash 创始人亲自送餐。 我开始收集这些故事，不知不觉中，我就有了一个相当大的清单。所以我想，“为什么不把它变成一个网站呢？”这就是 https://dothingsthatdontscale.org 诞生的经过。 它现在非常简单——只是一个包含大约 70 个示例的简单目录。但我想知道这是否对其他创始人或创业爱好者有用。 我很想听听你的想法：  你觉得这有用吗？为什么或为什么不？ 什么会让它对你更有用？ 它容易使用吗？（我不擅长设计） 我是否遗漏了应该包含的精彩故事？  我并不是想通过它或其他什么来赚钱——只是想为社区创造一些有用的东西。任何反馈、批评或想法都将不胜感激！ 提前感谢你们这些了不起的人！ PS：它也在 ProductHunt 上直播。您的点赞或评论对我来说意义重大🙏 https://www.producthunt.com/posts/do-things-that-don-t-scale-4 https://preview.redd.it/x7f5vrip9rnd1.png?width=3546&amp;format=png&amp;auto=webp&amp;s=ca30ce447479df1b0e03f6e0a4161f2ac1885836 https://preview.redd.it/ptkd5sip9rnd1.png?width=3546&amp;format=png&amp;auto=webp&amp;s=d3ad92a9067ce8795865931ff155185c1233cc49 https://preview.redd.it/mnb70sip9rnd1.png?width=3546&amp;format=png&amp;auto=webp&amp;s=5f51a73e7f4fe02c13b7c49ab99ac2ca9bd787ae    提交人    /u/Future_Buyer4195   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fclod0/i_made_a_directory_of_startups_that_did_things/</guid>
+      <pubDate>Mon, 09 Sep 2024 09:55:34 GMT</pubDate>
     </item>
     <item>
-      <title>大家好！这是我的第一款游戏《俄罗斯轮盘：在线》。我已经独自开发了一年。你们觉得怎么样？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fcj0t8/hello_all_this_is_my_first_game_russian_roulette/</link>
-      <description><![CDATA[        提交者    /u/strifexxx   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fcj0t8/hello_all_this_is_my_first_game_russian_roulette/</guid>
-      <pubDate>Mon, 09 Sep 2024 06:31:58 GMT</pubDate>
+      <title>如果你有一个副项目，我很乐意免费帮助推广它</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fcl8qa/if_you_have_a_side_project_id_love_to_help/</link>
+      <description><![CDATA[大家好，我一直在开发一个创业平台，它可以帮助你们为项目寻找联合创始人。最近，我添加了一个新的产品部分，你们可以在其中展示自己的业余项目，无论是网站、软件、游戏还是应用程序。我还添加了一项功能，让你们可以直接在平台上构建自己的电子邮件列表。 如果你有一个想要推广的项目，我很乐意在 product.developerscope.com 平台上展示它，并帮助你获得更多关注。 期待看到你们正在做的事情！    提交人    /u/Alert-Ad-5918   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fcl8qa/if_you_have_a_side_project_id_love_to_help/</guid>
+      <pubDate>Mon, 09 Sep 2024 09:23:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
