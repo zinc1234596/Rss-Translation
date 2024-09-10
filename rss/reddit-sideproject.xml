@@ -4,7 +4,49 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Tue, 10 Sep 2024 03:17:02 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Sep 2024 06:20:13 GMT</lastBuildDate>
+    <item>
+      <title>单独营销指南</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fdashs/solo_marketing_guide/</link>
+      <description><![CDATA[我做了一些研究，并为任何想要了解个人创业者所有营销选择的人写了这篇文章。成功之路艰难而漫长，会有很多挑战，但我希望这能对某些人有所帮助。https://www.ignytlearning.com/blog/marketing-magic-for-solo-startups-a-comprehensive-guide#google_vignette    提交人    /u/Rough_Resolve_8798   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fdashs/solo_marketing_guide/</guid>
+      <pubDate>Tue, 10 Sep 2024 05:47:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>联合创始人在融资后未做出承诺</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fdarxi/cofounders_not_committing_after_fundraising/</link>
+      <description><![CDATA[大家好。我和几个大学朋友成立了一家初创公司，专注于提供移动和网络解决方案。然而，在我们最近获得资金（加速器类型的资金）后，我的联合创始人（他们仍在上学但承诺要辞职）开始退缩，不再像以前那样投入。我们进行了多次对话，我正在与潜在的人交谈，共同探讨这个想法。这次经历严重损害了我的心理健康。 你们是如何处理这种事情的，有什么经验/建议吗？    提交人    /u/Pale_Stand5217   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fdarxi/cofounders_not_committing_after_fundraising/</guid>
+      <pubDate>Tue, 10 Sep 2024 05:46:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>刚刚推出了区块链分析程序chainspy.net。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fda73k/just_launched_chainspynet_a_blockchain_analytics/</link>
+      <description><![CDATA[        提交人    /u/Jack15101   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fda73k/just_launched_chainspynet_a_blockchain_analytics/</guid>
+      <pubDate>Tue, 10 Sep 2024 05:07:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>摘要GPT 更新</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fd9cp6/summarygpt_update/</link>
+      <description><![CDATA[大家好，这是我使用 summaryGPT 的进度的快速更新！ 到目前为止，我们已经拥有 13 位用户，这很棒，我确实有一些问题想向你们请教。由于我周末出城了，所以没有太多时间处理它。虽然我已经在扩展中实现了一个电子邮件输入系统，它运行良好。虽然我需要一种方法将电子邮件发送到服务器，该服务器将用户的电子邮件保存在数据库中，然后我可以使用 Stripes API 检查用户是否拥有高级版。如果有人有任何资源或工具可以用来完成这项工作，请提供反馈。 我将在明天继续开发这个版本的 SummaryGPT，到目前为止一切进展顺利。感谢所有写评论或其他内容的人。谢谢，我将在下面链接该网站和 chrome 扩展程序： Chrome 扩展程序：https://chromewebstore.google.com/detail/summarygpt/efpbjkcbgfneckcppbnnjfkikhlnenkm 网站：summarygptai.com    提交人    /u/FishinBlin   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fd9cp6/summarygpt_update/</guid>
+      <pubDate>Tue, 10 Sep 2024 04:15:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>我建立了一个副项目来帮助您在 Reddit 上发展您的产品</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fd8fi1/i_built_a_side_project_to_help_you_grow_your/</link>
+      <description><![CDATA[刚刚完成 ChatterScout 的构建，以帮助您在 Reddit 上有机地推广您的产品/业务。  您可以跟踪您感兴趣的特定 subreddits 上的关键字，ChatterScout 将不断搜索 subreddits 以查找符合您条件的新帖子。查看所有帖子，与这些帖子上的人互动，如果您的产品确实解决了他们正在寻找的问题，请宣传您的产品。  目前，它处于测试阶段，您可以跟踪有限的关键字和 subreddits。期待您的反馈。    提交人    /u/pleasepushh   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fd8fi1/i_built_a_side_project_to_help_you_grow_your/</guid>
+      <pubDate>Tue, 10 Sep 2024 03:22:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>我很高兴与大家分享我的新扩展 TweakSync，它现已在 Chrome 和 VS Code 上可用。实时样式设计变得更加简单！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fd8eq5/im_happy_to_share_my_new_extension_tweaksync_now/</link>
+      <description><![CDATA[TweakSync 为前端开发人员提供实时样式和无缝更新。直接在 Chrome 中进行更改，立即预览，只需单击一下即可将这些更新应用于 VS Code 中的代码。非常适合加快您的开发过程并提高工作流程效率！ 🔗 今天就试试吧！ 网页中的实时样式和编辑元素 - Chrome 扩展程序 同步来自 chrome 的更改并更新代码 - VS Code 扩展程序 如果您有任何反馈，请告诉我。 TweakSync #WebDev #FrontEndDev #VSCode #ChromeExtensions #ProductLaunch #WebDesign #DevTools    提交人    /u/hazeem_dev   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fd8eq5/im_happy_to_share_my_new_extension_tweaksync_now/</guid>
+      <pubDate>Tue, 10 Sep 2024 03:21:12 GMT</pubDate>
+    </item>
     <item>
       <title>我制作了一位人工智能赌博生活教练，旨在让你戒赌，并帮助你重新掌控自己的生活。</title>
       <link>https://www.reddit.com/r/SideProject/comments/1fd7w3u/i_made_an_ai_gambling_life_coach_designed_to_stop/</link>
@@ -67,48 +109,6 @@
       <description><![CDATA[        由    /u/lewx_  提交  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1fd4y42/mmmines_an_endless_massive_multiplayer/</guid>
       <pubDate>Tue, 10 Sep 2024 00:24:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>创建和管理图像的简便方法（使用 Flux 构建）</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fd4ca6/easy_way_to_create_and_curate_images_built_with/</link>
-      <description><![CDATA[  由    /u/siddiqbakr  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fd4ca6/easy_way_to_create_and_curate_images_built_with/</guid>
-      <pubDate>Mon, 09 Sep 2024 23:55:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>构建了一个 Web 应用程序，可轻松查找 Target、星巴克等附近的超级充电站！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fd3xk4/built_a_web_app_to_easily_find_superchargers_near/</link>
-      <description><![CDATA[      大家好， 作为一名电动车主，我一直觉得很难找到像 Target 或星巴克这样有超级充电桩的地方。谷歌地图并不容易找到可以同时为汽车充电和闲逛的地点。 这就是我创建 ChargeAndChill 的原因，这是一款简单的网络应用，可帮助您找到位于您最喜欢的地方附近的超级充电桩。无论您是在寻找 Target、星巴克还是其他热门地点，您都可以探索交互式地图，并在购物或喝咖啡时快速查看充电地点。 我很乐意听到您的反馈和任何改进它的想法！ 感谢您的关注！     由    /u/milindtheengineer   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fd3xk4/built_a_web_app_to_easily_find_superchargers_near/</guid>
-      <pubDate>Mon, 09 Sep 2024 23:36:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>您使用哪家银行来进行您的副业项目？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fd3g7d/what_bank_do_you_use_for_your_side_projects/</link>
-      <description><![CDATA[假设您有一个商业实体，比如 LLC，您是否选择了像 Mercury 这样的技术前沿选项，还是像 Chase Business 这样的更传统的选项？    提交人    /u/Possible-Alfalfa-893   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fd3g7d/what_bank_do_you_use_for_your_side_projects/</guid>
-      <pubDate>Mon, 09 Sep 2024 23:13:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>PixelBuddyAI - 随时随地训练并生成任何事物的 AI 图像</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fd38yk/pixelbuddyai_train_and_generate_ai_images_of/</link>
-      <description><![CDATA[        由    /u/IRUA_DEV  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fd38yk/pixelbuddyai_train_and_generate_ai_images_of/</guid>
-      <pubDate>Mon, 09 Sep 2024 23:04:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>我做了 3 个副业，但忘了做营销</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fd1v8v/i_made_3_side_projects_but_i_forgot_to_do/</link>
-      <description><![CDATA[在过去 3 个月中，我在不同的领域建立了 3 个业余项目。 现在，我要做营销。 作为独立黑客，我们倾向于将大量精力放在代码上而忘记做营销（这非常重要） 这是我的 3 个项目以及我计划如何利用它们赚钱 moontripai.app：这是一款 AI 旅行计划器，可让您创建每日行程，并在不到 20 秒的时间内获得酒店和美食推荐 我将通过与 Expedia 的联属交易将应用货币化（每当有人结账时，我都会获得少量佣金） myaffylink.com：联属链接的链接管理器。将所有会员链接存储在一个页面上并共享该页面而不是随机链接。它可以帮助您增加其他会员链接的转化率。您甚至可以获得有关链接执行情况的深入分析 我将为此收取 29 美元的终身费用 简历吐槽（进行中）：此工具可让您在不到 5 分钟的时间内使用 AI 创建简历。甚至可以选择公开您的简历（是的，您会获得简历的公开链接）并与招聘人员分享。您可以在简历上收到吐槽和评论 希望你喜欢它❤️    提交人    /u/itsthemegh   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fd1v8v/i_made_3_side_projects_but_i_forgot_to_do/</guid>
-      <pubDate>Mon, 09 Sep 2024 22:02:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>“我想采用AI来发展我的业务，​​但我不知道该选择哪种模式！”这是你吗？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fcrfhc/i_want_to_adopt_ai_to_grow_my_business_but_i_dont/</link>
-      <description><![CDATA[我们构建了一个免费工具来回答这个问题！ Elementera Model Navigator 我看到很多项目都需要采用 AI。如果您正在考虑为您的产品或个人项目添加 AI 功能，我们已经创建了一个免费工具来简化选择最适合哪种模型的过程。它可以帮助您查找和比较 AI 模型的属性，特别是用于语言任务的属性，无论是开源的还是专有的，而不会迷失在太多的技术细节中。 经常听到这样的评论：“我需要为 ____ 构建一个 AI 驱动的产品，但我不知道哪种模型最符合我的限制，也不知道从哪里开始。”所以，我们免费提供这个产品，以帮助社区回答这些问题。 附言欢迎在 LinkedIn 和 Product Hunt 上关注我们，以获取未来更新和新闻！    提交人    /u/Elementera   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fcrfhc/i_want_to_adopt_ai_to_grow_my_business_but_i_dont/</guid>
-      <pubDate>Mon, 09 Sep 2024 14:56:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
