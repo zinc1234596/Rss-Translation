@@ -4,13 +4,90 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Tue, 10 Sep 2024 09:16:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Sep 2024 12:29:36 GMT</lastBuildDate>
     <item>
-      <title>Realistic Sc​​ribery 更新：回顾我的旅程以及完美的 LinkedIn 调度工具的下一步计划</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fdd87e/realistic_scribery_update_reflecting_on_my/</link>
-      <description><![CDATA[      大约五个月前，我向大家介绍了 scribery.eu，这是一款集成了 GPT-4o 的 LinkedIn 规划工具，是我使用 FlutterFlow、Stripe 和 Firebase 等 LowCode 工具从头构建的。我的目标是创建一种可以节省像我这样的企业家大量时间的东西，帮助他们轻松安排 LinkedIn 帖子。反响令人鼓舞，我很高兴能开发出更多功能。 从那时起，说实话，我没有像最初计划的那样投入太多时间在这个项目上 :( 生活变得忙碌，没有专门的营销推动，没有新客户加入。但事情是这样的：我仍然相信 scribery 的潜力。对此类工具的需求是不可否认的，许多竞争对手都证明确实需要更智能的 LinkedIn 管理。 那么，scribery 的下一步是什么？我将加倍投入这个项目。我从最初的发布中吸取了教训，我致力于让 scribery 不仅仅是另一个调度工具，而是任何希望简化 LinkedIn 状态的人的首选平台。期待新功能、更直观的界面，甚至更好的 AI 集成。或者你会添加什么来使其更易用？您将在下面看到快速概述。 Scribery scribery 即将升级，我很高兴能带大家一起踏上这段旅程。如果您有兴趣参与这段旅程并想尝试当前版本，给我写 DM，我可以免费更新您的帐户！您的反馈可以帮助我和这个工具！    提交人    /u/redditer1241432   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fdd87e/realistic_scribery_update_reflecting_on_my/</guid>
-      <pubDate>Tue, 10 Sep 2024 08:50:13 GMT</pubDate>
+      <title>需要对我们的 AI 项目进行反馈和贡献</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fdgkbz/need_feedback_contribution_on_our_ai_project/</link>
+      <description><![CDATA[大家好！我目前正在开发一个以语义搜索和数据管理为中心的开源 AI 项目。如果您感兴趣，我很乐意收到您的反馈或贡献。如果该项目引起了您的注意，即使是一个简单的 GitHub 星星也会非常感激！请随时发表评论，我将与您分享 GitHub 存储库    提交人    /u/Strangooo266   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fdgkbz/need_feedback_contribution_on_our_ai_project/</guid>
+      <pubDate>Tue, 10 Sep 2024 12:24:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>生动的绘画：利用人工智能让孩子的画作栩栩如生</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fdg1hc/drawings_alive_bring_your_kids_drawings_to_life/</link>
+      <description><![CDATA[        由    /u/guivr  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fdg1hc/drawings_alive_bring_your_kids_drawings_to_life/</guid>
+      <pubDate>Tue, 10 Sep 2024 11:57:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>您（可能）应该订阅的 50 份新闻通讯 - 使用 Cursor AI 和 WordPress 制作</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fdfbbd/50_newsletters_you_probably_should_subscribe_to/</link>
+      <description><![CDATA[      周日晚上我给自己设了一个挑战。我想用 Cursor AI 和 OpenAI 创建一个副项目 50 份您（可能）应该订阅的新闻通讯。 我的过程和时间安排：-  我花了大约 2 个小时来完成它。 我没有直接编写任何代码，只是让 Cursor AI 为我创建了 python 脚本。 前几次迭代很差劲（让我忙了 50 次！） 对提示进行了大量微调，因此它为我提供了有用的新闻通讯和实际的订阅链接 对每份新闻通讯上的信息进行一些模板化，以便我可以填充“了解更多”带有电子表格的页面 - 我为此使用 MPG 插件。 大量浏览列表，找到实际的 Newsletter 登陆页面并更新链接。 创建 Gutenberg WP 登陆页面的脚本，我将其粘贴到代码编辑器视图中 在 Gutenberg（复制/粘贴样式）中使用不同的颜色进行了一些调整，因此它实际上看起来不错。  总的来说，这是一个相当不错的周末项目。做起来很有趣，并且产生了一些不错的东西（里面有一些我不知道的新闻通讯）。 https://mikestott.me/50-newsletters-you-should-subscribe-to/ https://preview.redd.it/5ln5assssynd1.png?width=2880&amp;format=png&amp;auto=webp&amp;s=f4b75e119436a78fb80c0cfb95083999573eb418    提交人    /u/mikestottwp   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fdfbbd/50_newsletters_you_probably_should_subscribe_to/</guid>
+      <pubDate>Tue, 10 Sep 2024 11:15:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>我对 PH 发布感到紧张</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fdexwu/im_nervous_about_my_ph_launch/</link>
+      <description><![CDATA[几年前，我开始了我的独立之旅！我很紧张，但还是决定尝试一下！ 我以开发 SaaS 产品为生。公开开发产品就是“开发 + 营销 + 销售 + 支持”等等！ 经过近 2 年的发展，我的 LinkedIn 粉丝已增长到 12,000 人，我意识到在 LinkedIn 上创建优质内容需要花费太多时间。LinkedIn 是 B2B 金矿。但吸引合适的受众非常困难。 因此，我开发了 Dottypost — 一款用于 LinkedIn 个人品牌推广的 AI 工具。  我刚刚在 Product Hunt 上发布  您今天的支持对我来说意味着全世界 ❤️  如果您想支持我，请查看我的在 PH 上的发布    由   提交  /u/ankit-saas   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fdexwu/im_nervous_about_my_ph_launch/</guid>
+      <pubDate>Tue, 10 Sep 2024 10:51:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何开始使用 Open SaaS（一个免费的、开源的、React + NodeJS SaaS 模板）</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fdeqgd/how_to_get_started_with_open_saas_a_free/</link>
+      <description><![CDATA[        由    /u/hottown  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fdeqgd/how_to_get_started_with_open_saas_a_free/</guid>
+      <pubDate>Tue, 10 Sep 2024 10:38:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个免费的 LinkedIn 调度工具，你可以在 5 分钟内创建 10 条帖子</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fdelp3/i_made_a_free_linkedin_scheduling_tool_with_that/</link>
+      <description><![CDATA[      大约五个月前，我向大家介绍了 scribery.eu，这是一款集成了 GPT-4o 的 LinkedIn 规划工具，是我使用 FlutterFlow、Stripe 和 Firebase 等 LowCode 工具从头构建的。我的目标是创建一种可以帮助像我这样的企业家节省大量时间的东西，帮助他们轻松安排 LinkedIn 帖子。反响令人鼓舞，我很高兴能开发出更多功能。 从那时起，说实话，我没有像最初计划的那样在这个项目上投入太多时间 :( 生活变得忙碌，没有专门的营销推动，没有新客户加入。但事情是这样的：我仍然相信 scribery 的潜力。对此类工具的需求是不可否认的，许多竞争对手都证明确实需要更智能的 LinkedIn 管理。 那么，scribery 的下一步是什么？我将加倍投入这个项目。我从最初的发布中吸取了教训，我致力于让 scribery 不仅仅是另一个调度工具，而是任何希望简化其 LinkedIn 状态的人的首选平台。期待新功能、更直观的界面，甚至更好的 AI 集成。或者你会添加什么来使其更易用？您将在下面看到快速概述。 scribery 即将升级，我很高兴能带大家一起踏上这段旅程。如果您有兴趣参与这段旅程并想尝试当前版本，给我写 DM，我可以免费更新您的帐户！您的反馈可以帮助我和这个工具！ Scribery LinekdIn 调度工具    提交人    /u/redditer1241432   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fdelp3/i_made_a_free_linkedin_scheduling_tool_with_that/</guid>
+      <pubDate>Tue, 10 Sep 2024 10:29:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>自动生成、编辑和发布视频到社交媒体。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fdejpw/automate_video_generation_editing_and_posting_to/</link>
+      <description><![CDATA[大家好！ 我刚刚从 Web 开发人员岗位上被解雇，我能够以此为动力完成我的副业。我开发了一款名为 ShortsAuto.ai 的应用程序，它使创建和发布短视频变得非常简单。它非常适合 TikTok 和 YouTube Shorts 等平台。您需要做的就是选择您的利基市场，进行一些自定义，然后应用程序会处理其余的事情！ 而且它是您能找到的最便宜的。 让我知道你对它的看法！    提交人    /u/DEOGEE02   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fdejpw/automate_video_generation_editing_and_posting_to/</guid>
+      <pubDate>Tue, 10 Sep 2024 10:25:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Planner.so (v2.1)：已发布新功能和 UI 改进！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fde536/plannerso_v21_new_features_and_ui_improvements/</link>
+      <description><![CDATA[👋 大家好！ 我一直在 Notion 数据库中整理有关 Planner.so 的所有想法和反馈，并从朋友、同事和 Twitter Build in Public 社区收集意见。 在推出 v2 后，我很高兴能快速推出 v2.1，重点是改进 UI 和添加新功能：能够直接在“按日支出”部分记录日常开支。 🚀 今天就是这一天！查看 Planner.so 上的最新版本，并告诉我您的想法！    提交人    /u/SangriaPorFavor   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fde536/plannerso_v21_new_features_and_ui_improvements/</guid>
+      <pubDate>Tue, 10 Sep 2024 09:58:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了2024年版的百万美元主页</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fde1px/i_made_the_2024_version_of_the_million_dollar/</link>
+      <description><![CDATA[是的，你没看错，尽管只有 1000 个位置。每个位置只需 10 美元。  您可以推广您的产品，获得永久反向链接，我们还会将您的产品提交到顶级目录。  https://www.sickrate.com 编辑 - 仇恨者来来去去，但您的产品却永存    提交人    /u/metabhai   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fde1px/i_made_the_2024_version_of_the_million_dollar/</guid>
+      <pubDate>Tue, 10 Sep 2024 09:51:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Al 一键生成测验。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fddyqf/generate_quizzes_in_one_click_using_al/</link>
+      <description><![CDATA[      我创建了一个 Web 应用程序，可让您利用人工智能的强大功能即时生成测验。在 quizcraft.de 上尝试一下。    由    /u/BotElias 提交   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fddyqf/generate_quizzes_in_one_click_using_al/</guid>
+      <pubDate>Tue, 10 Sep 2024 09:45:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>我为 Roku 电视制作了一个闹钟</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fdds0i/i_made_an_alarm_clock_for_roku_tvs/</link>
+      <description><![CDATA[我睡眠很沉，经常错过手机和实体闹钟，因此我决定用 Roku 电视设置第三个闹钟。  GitHub    提交人    /u/KaijuMoose   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fdds0i/i_made_an_alarm_clock_for_roku_tvs/</guid>
+      <pubDate>Tue, 10 Sep 2024 09:31:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>在几天内启动您自己的 AI 驱动的 SaaS 业务</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fddn83/launch_your_own_aipowered_saas_business_in_days/</link>
+      <description><![CDATA[我最初在 https://www.bland.ai/ 上推出了一款 SaaS，当时该平台还比较新。虽然我很快就获得了一些客户，但由于通话质量问题，他们最终还是流失了。然而，随着时间的推移，Bland.ai 有了显著的改进，实现了亚秒级延迟，并将通话质量提升到了现在适合企业客户的水平。 鉴于这些进步，我决定出售我的整个 SaaS 设置。我相信这仍然是一个新兴领域，许多公司和个人可能有兴趣围绕 AI 电话代理建立自己的 SaaS。 https://www.getaiphone.app/    提交人    /u/Bharadhwaj_Reddy   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fddn83/launch_your_own_aipowered_saas_business_in_days/</guid>
+      <pubDate>Tue, 10 Sep 2024 09:21:41 GMT</pubDate>
     </item>
     <item>
       <title>写下我们如何在不花钱的情况下将我们的业余项目发展为月收入 33K 的 SaaS 项目。如下：</title>
@@ -32,83 +109,6 @@
       <description><![CDATA[大家好，两周前我开始以 99 美元的价格出售模型/屏幕截图编辑器样板。这个想法很简单，任何人都应该能够制作自己的模型编辑器并创立自己的品牌，只需 99 美元。  您可以在此处查看样板和整个应用程序 - https://www.picyard.in/screenshot-boilerplate  我对购买它的初始用户的宣传很简单 -   您可以制作自己的屏幕截图编辑器品牌 通过将此功能集成到您现有的网站中来提高用户保留率和体验 免费工具始终有助于 SEO   如果您有任何疑问或更多详细信息，请在此处发表评论或直接给我发私信。 谢谢阅读。    提交人    /u/mediocre_man_online   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1fdc31z/i_made_700_by_selling_the_mockup_editor/</guid>
       <pubDate>Tue, 10 Sep 2024 07:21:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>表情符号搜索大乱斗</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fdc2j3/emoji_search_bash/</link>
-      <description><![CDATA[Emoji Search Bash (EMS) ![演示动画](https://github.com/silgon/ems/raw/main/demo.gif) 这是我决定制作的一个小脚本，因为我需要一些表情符号（也因为我大部分时间都花在终端上）。 https://github.com/silgon/ems    提交人    /u/silgon3200   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fdc2j3/emoji_search_bash/</guid>
-      <pubDate>Tue, 10 Sep 2024 07:20:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>以复古风格打造新产品组合</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fdbwjl/built_new_portfolio_in_retro_style/</link>
-      <description><![CDATA[        提交人    /u/IrisN7   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fdbwjl/built_new_portfolio_in_retro_style/</guid>
-      <pubDate>Tue, 10 Sep 2024 07:07:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找具有 ML、AI、数据管道的项目</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fdbv8i/looking_for_project_with_ml_ai_data_pipelines/</link>
-      <description><![CDATA[我做数据顾问已经快一年了，想丰富我的投资组合。如果我喜欢这个想法并且规模不是太大，我会免费做项目或者从未来收入中抽取一部分 :) 我非常了解云服务 (AWS、azure)、数据科学 (Python、R 等) 和一些 Web 开发 (JS、React)。  我每周也可以分配大约 10 小时。理想情况下，我正在寻找一些集成、训练模型、简单的界面。如果需要，我的兄弟可以帮忙设计 (他才刚刚开始设计)。 给我发私信或者在这里写评论 🙂 附言：我来自比利时，拥有应用数学学士学位，正在攻读统计学和数据科学微硕士学位。     提交人    /u/AdEqual1873   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fdbv8i/looking_for_project_with_ml_ai_data_pipelines/</guid>
-      <pubDate>Tue, 10 Sep 2024 07:05:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>为超级小众 SaaS 提供维护和支持方面存在困难</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fdbrq1/trouble_offering_maintenance_and_support_for/</link>
-      <description><![CDATA[  由    /u/acdtey  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fdbrq1/trouble_offering_maintenance_and_support_for/</guid>
-      <pubDate>Tue, 10 Sep 2024 06:58:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>厌倦了无聊的笔记应用？我创建了一款美化笔记的应用</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fdbo1g/tired_of_boring_note_apps_i_created_an_app_to/</link>
-      <description><![CDATA[        由    /u/Difficult-Grass-6859  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fdbo1g/tired_of_boring_note_apps_i_created_an_app_to/</guid>
-      <pubDate>Tue, 10 Sep 2024 06:50:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>单独营销指南</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fdashs/solo_marketing_guide/</link>
-      <description><![CDATA[我做了一些研究，并为任何想要了解个人创业者所有营销选择的人写了这篇文章。成功之路艰难而漫长，会有很多挑战，但我希望这能对某些人有所帮助。https://www.ignytlearning.com/blog/marketing-magic-for-solo-startups-a-comprehensive-guide#google_vignette    提交人    /u/Rough_Resolve_8798   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fdashs/solo_marketing_guide/</guid>
-      <pubDate>Tue, 10 Sep 2024 05:47:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>联合创始人在融资后未做出承诺</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fdarxi/cofounders_not_committing_after_fundraising/</link>
-      <description><![CDATA[大家好。我和几个大学朋友成立了一家初创公司，专注于提供移动和网络解决方案。然而，在我们最近获得资金（加速器类型的资金）后，我的联合创始人（他们仍在上学但承诺要辞职）开始退缩，不再像以前那样投入。我们进行了多次对话，我正在与潜在的人交谈，共同探讨这个想法。这次经历严重损害了我的心理健康。 你们是如何处理这种事情的，有什么经验/建议吗？    提交人    /u/Pale_Stand5217   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fdarxi/cofounders_not_committing_after_fundraising/</guid>
-      <pubDate>Tue, 10 Sep 2024 05:46:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>刚刚推出了区块链分析程序chainspy.net。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fda73k/just_launched_chainspynet_a_blockchain_analytics/</link>
-      <description><![CDATA[        提交人    /u/Jack15101   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fda73k/just_launched_chainspynet_a_blockchain_analytics/</guid>
-      <pubDate>Tue, 10 Sep 2024 05:07:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>摘要GPT 更新</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fd9cp6/summarygpt_update/</link>
-      <description><![CDATA[大家好，这是我使用 summaryGPT 的进度的快速更新！ 到目前为止，我们已经拥有 13 位用户，这很棒，我确实有一些问题想向你们请教。由于我周末出城了，所以没有太多时间处理它。虽然我已经在扩展中实现了一个电子邮件输入系统，它运行良好。虽然我需要一种方法将电子邮件发送到服务器，该服务器将用户的电子邮件保存在数据库中，然后我可以使用 Stripes API 检查用户是否拥有高级版。如果有人有任何资源或工具可以用来完成这项工作，请提供反馈。 我将在明天继续开发这个版本的 SummaryGPT，到目前为止一切进展顺利。感谢所有写评论或其他内容的人。谢谢，我将在下面链接该网站和 chrome 扩展程序： Chrome 扩展程序：https://chromewebstore.google.com/detail/summarygpt/efpbjkcbgfneckcppbnnjfkikhlnenkm 网站：summarygptai.com    提交人    /u/FishinBlin   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fd9cp6/summarygpt_update/</guid>
-      <pubDate>Tue, 10 Sep 2024 04:15:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>我建立了一个副项目来帮助您在 Reddit 上发展您的产品</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fd8fi1/i_built_a_side_project_to_help_you_grow_your/</link>
-      <description><![CDATA[刚刚完成 ChatterScout 的构建，以帮助您在 Reddit 上有机地推广您的产品/业务。  您可以跟踪您感兴趣的特定 subreddits 上的关键字，ChatterScout 将不断搜索 subreddits 以查找符合您条件的新帖子。查看所有帖子，与这些帖子上的人互动，如果您的产品确实解决了他们正在寻找的问题，请宣传您的产品。  目前，它处于测试阶段，您可以跟踪有限的关键字和 subreddits。期待您的反馈。    提交人    /u/pleasepushh   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fd8fi1/i_built_a_side_project_to_help_you_grow_your/</guid>
-      <pubDate>Tue, 10 Sep 2024 03:22:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>我很高兴与大家分享我的新扩展 TweakSync，它现已在 Chrome 和 VS Code 上可用。实时样式设计变得更加简单！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fd8eq5/im_happy_to_share_my_new_extension_tweaksync_now/</link>
-      <description><![CDATA[TweakSync 为前端开发人员提供实时样式和无缝更新。直接在 Chrome 中进行更改，立即预览，只需单击一下即可将这些更新应用于 VS Code 中的代码。非常适合加快您的开发过程并提高工作流程效率！ 🔗 今天就试试吧！ 网页中的实时样式和编辑元素 - Chrome 扩展程序 同步来自 chrome 的更改并更新代码 - VS Code 扩展程序 如果您有任何反馈，请告诉我。 TweakSync #WebDev #FrontEndDev #VSCode #ChromeExtensions #ProductLaunch #WebDesign #DevTools    提交人    /u/hazeem_dev   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fd8eq5/im_happy_to_share_my_new_extension_tweaksync_now/</guid>
-      <pubDate>Tue, 10 Sep 2024 03:21:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
