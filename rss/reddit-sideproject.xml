@@ -4,7 +4,42 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Thu, 12 Sep 2024 03:15:49 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Sep 2024 06:20:33 GMT</lastBuildDate>
+    <item>
+      <title>经过三年的努力，我终于启动了我的副业项目 :)</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1feucl9/finally_launching_my_side_project_after_three/</link>
+      <description><![CDATA[        由    /u/EdenBae-ritto 提交   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1feucl9/finally_launching_my_side_project_after_three/</guid>
+      <pubDate>Thu, 12 Sep 2024 04:41:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>我正在推出 Supamind.co - 使用所有 LLM 的单一平台</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fetxli/im_launching_supamindco_single_platform_to_use/</link>
+      <description><![CDATA[大家好， 我想分享一下我一直在研究的东西——Supamind.co。这是一个平台，让您可以访问 OpenAI (ChatGPT)、Anthropic (Claude) 和 Google (Gemini) 的模型，只需一次订阅即可。 我最初建立这个平台是为了解决我自己的麻烦，即支付单独的订阅费用才能访问不同的 LLM，例如 ChatGPT Pro、Claude Pro 和 Gemini Pro。使用 Supamind，您可以灵活地使用其中任何一种模型，而无需同时订阅多个订阅。 该平台仍处于早期阶段，但我提前推出它是为了收集反馈并在开发过程中对其进行改进。为了感谢您成为早期采用者，我将向前 100 名注册用户免费提供 1 个月的专业版。 如果这听起来很有趣，请访问 Supamind.co 查看。我很想听听您的想法！    提交人    /u/bornclassic   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fetxli/im_launching_supamindco_single_platform_to_use/</guid>
+      <pubDate>Thu, 12 Sep 2024 04:16:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>我建了一个列表抓取工具</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fetten/i_built_a_list_scraper/</link>
+      <description><![CDATA[        提交人    /u/c0nnector   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fetten/i_built_a_list_scraper/</guid>
+      <pubDate>Thu, 12 Sep 2024 04:09:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>我为现代应用程序制作了一个 balsamiq-alternative 线框工具 - https://konty.app</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fetft0/i_made_a_balsamiqalternative_wireframe_tool_for/</link>
+      <description><![CDATA[        提交人    /u/niklauslee76   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fetft0/i_made_a_balsamiqalternative_wireframe_tool_for/</guid>
+      <pubDate>Thu, 12 Sep 2024 03:47:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>pod-it 登陆页面反馈！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fetb94/podit_landing_page_feedback/</link>
+      <description><![CDATA[不久前，我花了一周的时间设计一个项目的原型并构建一个登录页面。我的背景是后端、数据/ML 和企业应用程序，所以登录页面不是我的强项。这是一个充满激情的项目，我想尝试一下。我已经准备好了可以创建一个应用程序门户的代码，但现在只是等待列表构建，直到我看到需求。目前有 3 个朋友的等待列表，所以有 0 个客户。 当我弄清楚尝试将某些东西推向市场的非技术方面时，非常希望得到一些反馈。  网站：www.podit.ai 宣传/解释视频：https://youtu.be/DKHN5xwo8dw?feature=shared    由    /u/endlesssurfer93 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fetb94/podit_landing_page_feedback/</guid>
+      <pubDate>Thu, 12 Sep 2024 03:40:21 GMT</pubDate>
+    </item>
     <item>
       <title>我利用未完成的副项目来开发我的副项目</title>
       <link>https://www.reddit.com/r/SideProject/comments/1fesjc8/i_used_my_unfinished_side_project_to_develop_my/</link>
@@ -74,41 +109,6 @@
       <description><![CDATA[        提交者    /u/Dependent_Cicada3302   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1fenylm/grocery_prices_are_too_damn_high_an_app_to/</guid>
       <pubDate>Wed, 11 Sep 2024 23:09:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们开源了我们花了 3 个月时间打造的 AI 助手（通常收费 1 万美元以上）</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fell09/we_open_sourced_our_ai_assistant_that_we_spent_3/</link>
-      <description><![CDATA[因此，我们在过去近 2 年中一直在为客户构建聊天机器人和 AI 助手。根据功能的复杂程度，我们过去收取的费用在 7,000 至 20,000 美元之间，这对我们来说效果很好。我们的大多数客户过去都将这些 AI 助手添加到他们现有的产品中，或作为我们已经为他们构建的产品的附加组件。 但我们遇到了一个问题。 每当有新的潜在客户来时，我们都很难展示我们的能力。因为大多数这些聊天机器人或 AI 助手都位于付费墙或身份验证层后面。所以他们无法验证我们是否真的具备这些能力。 所以我让我的团队构建一些我们自己的东西。 一个可以告诉我们的客户我们是否可以构建他们的想法，然后吐出相关投资组合的机器人。 无需与我们的团队交谈。只需询问 AI 助手，您就会知道我们是否可以帮助您。  经过大量的改进和优化，我们在几周前推出了 -&gt; https://ask.ripeseed.io/ 我在 LinkedIn 上宣布了发布，人们都很喜欢。  后来我觉得我们可以开源我们已经构建的东西。我们坐在那个代码库上保密是没有意义的。任何人都应该能够克隆它并将其用于自己的目的。所以今天，我们已经开源了它（最初在我的 LinkedIn 上宣布了它） 请随意探索、拆开它并启动您自己的。 （如果您喜欢，请在 GitHub 上为我们加星标 ✌🏻） https://github.com/RipeSeed/ask-ripeseed    由   提交  /u/imhashir   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fell09/we_open_sourced_our_ai_assistant_that_we_spent_3/</guid>
-      <pubDate>Wed, 11 Sep 2024 21:23:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的新社区用于公开创建你的业余项目 - 共同工作、社区之夜和资助 :)</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1felkmy/my_new_community_for_building_your_side_projects/</link>
-      <description><![CDATA[Buildspace 关闭...我希望人们仍然有一个渠道和一个社区来公开他们的项目。 出于这个原因，我创建了 Makers Collective。如果您有兴趣加入，网站上有一个链接。 第一个集体 (或 s1) 即将开始。到目前为止，我们已经有 40 人加入了，其中包括前 buildspacers、计划加入未来 buildspace 季节的人，以及其他受到社区启发的人。 我想继承 buildspace 的传统，让人们能够在构建他们的副业项目时保持责任感和灵感。我不在乎你在做什么，欢迎所有想法。在这 4 周内，我们将每周举办社区展示、办公时间和共同工作时间。 哦，是的，最后我希望能为那些完成 4 周并最接受这个过程的人提供现金奖励。 让我知道你的想法！ https://reddit.com/link/1felkmy/video/yf0boymyy8od1/player    提交人    /u/Tephra9977   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1felkmy/my_new_community_for_building_your_side_projects/</guid>
-      <pubDate>Wed, 11 Sep 2024 21:23:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个可以帮我生成英语作业的项目。我太懒了，不想一遍又一遍地写条件句之类的主题，所以我创建了一个可以让我通过练习而不是重复写作来练习语法的东西。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1felgr1/i_created_a_project_that_generates_english/</link>
-      <description><![CDATA[        提交人    /u/Superb-Ad-7111   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1felgr1/i_created_a_project_that_generates_english/</guid>
-      <pubDate>Wed, 11 Sep 2024 21:18:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一项服务，让企业可以快速轻松地建立忠诚度计划</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fele51/ive_created_a_service_that_lets_businesses_set_up/</link>
-      <description><![CDATA[https://reddit.com/link/1fele51/video/cm7amjgxy8od1/player 我已经在这个项目上工作了一段时间，实际上在 5 月份就在 Product Hunt 上发布了它，但后来我就放弃了。现在我意识到从 Reddit 获得反馈是值得的，所以就在这里。 它被称为 Loloyalty，我试图让企业主尽可能轻松地创建和设置忠诚度计划。 基本上，您注册 -&gt; 创建奖励 -&gt;在您的网站上放置一个小部件或将其用作独立部件。 当客人访问并且您想给他们奖励积分时，他们只需在小部件中显示他们注册的电子邮件，您就可以给他们任意数量的奖励积分。一旦他们达到兑换奖励所需的金额，他们就会在小部件中通过向您显示证明屏幕来兑换奖励。 您还可以跟踪每个用户的兑换奖励并查看他们有多少积分。 这是链接https://loloyalty.app，有一个小部件的演示和仪表板外观的快速视频。 它现在处于真正的 MVP 阶段，我有很多改进它的想法，我也非常期待任何反馈。提前谢谢大家！    提交人    /u/surin1   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fele51/ive_created_a_service_that_lets_businesses_set_up/</guid>
-      <pubDate>Wed, 11 Sep 2024 21:15:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>简化电子邮件而不失个人风格</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fekpzz/streamlining_emails_without_losing_the_personal/</link>
-      <description><![CDATA[      您是否曾经发现自己盯着空白的电子邮件草稿，试图找到合适的词语，让其听起来专业而清晰？撰写看起来和听起来都很精致的电子邮件需要耗费多少精力，这真是太不可思议了——尤其是当您试图节省时间时。 我偶然发现了一款​​名为 Mailixir 的工具，当我需要发送写得很好的电子邮件而又不必过多考虑时，它非常有用。它可以让您发送简洁、结构良好的回复，确保您的回复清晰易懂，同时又不失专业性。您不必为每个字词苦苦思索，但结果仍然看起来像您花了很多心思。 它已经为我节省了大量时间，尤其是当我需要快速回复大量电子邮件而又不牺牲质量时。还有人使用类似的东西来减少电子邮件的麻烦吗？ Mailixir Demo    提交人    /u/Phobiie   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fekpzz/streamlining_emails_without_losing_the_personal/</guid>
-      <pubDate>Wed, 11 Sep 2024 20:47:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
