@@ -4,111 +4,111 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Thu, 12 Sep 2024 12:27:40 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Sep 2024 15:15:00 GMT</lastBuildDate>
+    <item>
+      <title>哈哈，我应该把这当作赞美吗？人们正在试图贿赂你。😂</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ff4tjy/lol_should_i_take_this_as_a_compliment_people_are/</link>
+      <description><![CDATA[      我运营一个使用人工智能生成个性化电影评论的网站。不知道我应该在这里做什么。我认为我的网站甚至还不够大，无法对电影的接受度产生任何影响……     提交人    /u/arnvfx007   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ff4tjy/lol_should_i_take_this_as_a_compliment_people_are/</guid>
+      <pubDate>Thu, 12 Sep 2024 15:06:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>我开发了一个工具，用于向 Google 日历添加多个时区。出乎意料的是，它赚到了第一笔钱，并且初步显示出与大型公司的行政助理相契合的迹象。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ff4n9f/i_built_a_tool_that_adds_multiple_timezones_to/</link>
+      <description><![CDATA[        由    /u/rylandking 提交   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ff4n9f/i_built_a_tool_that_adds_multiple_timezones_to/</guid>
+      <pubDate>Thu, 12 Sep 2024 14:59:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>正在寻找 SaaS 和 AI 入职电子邮件序列的 Beta 测试人员！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ff3vsh/looking_for_beta_testers_for_saas_ai_onboarding/</link>
+      <description><![CDATA[      大家好， 我正在寻找SaaS 创始人、AI 工程师和产品经理来测试并提供两个自定义欢迎/入职电子邮件序列的反馈 - 一个用于SaaS，一个用于AI 软件。 这些序列旨在改善用户入职、参与度和转化率。我希望得到您的反馈，以改进内容并使其更有效。 您将获得：  免费访问 SaaS 和 AI 序列。 有机会塑造这些入职工具的最终版本。 可增强您的入职流程的即用型电子邮件。 查看以下 SaaS 产品的序列示例的一部分。  我正在寻找的人：  负责入职或电子邮件营销的 SaaS 创始人或 AI 软件开发人员。 负责这些领域用户参与的任何人。  如何加入： 在下方发表评论或直接向我发送您的产品（SaaS 或 AI）和您的角色的简要描述。我将选择一个小组进行合作。 谢谢 https://preview.redd.it/egp39dwg1eod1.png?width=1282&amp;format=png&amp;auto=webp&amp;s=6b904f36e1a3c5f1252a923f57aaf5f251b21f7f    提交人    /u/starsella   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ff3vsh/looking_for_beta_testers_for_saas_ai_onboarding/</guid>
+      <pubDate>Thu, 12 Sep 2024 14:26:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>一款能够真正帮助你练习语言的应用程序？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ff3caf/an_app_that_actually_helps_you_practice_a_language/</link>
+      <description><![CDATA[我的名字是 Vaibhav，我已经学习日语 2 年多了（咳嗽 duo、busuu、babbel），但很难用日语说话或交流。 我发现大多数应用程序都专注于学习，而不是说话。 所以，我为此制作了一个应用程序。名为 https://www.kataru.app/，它专注于让您使用目标语言进行对话。 把它想象成一个语言健身房 - 专注于实践，而不是理论。 如果你厌倦了传统的语言学习并准备好采用新方法，那就试一试吧！ 我期待早期反馈，以帮助我做得更好。    提交人    /u/cyberzone5   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ff3caf/an_app_that_actually_helps_you_practice_a_language/</guid>
+      <pubDate>Thu, 12 Sep 2024 14:03:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>制作了一个 LLM nerf 跟踪器。与 down detector 的概念类似，但具体到 LLM 何时变得更笨。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ff34jc/made_an_llm_nerf_tracker_similar_concept_to_down/</link>
+      <description><![CDATA[我快速制作了这个网站，并试图看看这个想法是否好。 不幸的是，我将这个提交到了 Claude subreddit，并没有得到太多的喜爱。 许多人批评众包监控的原则，一些人批评副本，一些人批评设计。没有多少人对此发表积极的评论。 我早期做出的一个决定是快速完成并尝试看看它是否有效。它没有奏效，但是因为我没有花太多时间创建，所以我并不觉得它失败了那么糟糕。 我最终了解了我的应用程序的受众，以及我可以做些什么来改进。    提交人    /u/andarmanik   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ff34jc/made_an_llm_nerf_tracker_similar_concept_to_down/</guid>
+      <pubDate>Thu, 12 Sep 2024 13:53:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Shadcn 中的 Daisy UI 主题变得更加简单</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ff2v4s/daisy_ui_themes_in_shadcn_made_easier/</link>
+      <description><![CDATA[        提交人    /u/n0acar   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ff2v4s/daisy_ui_themes_in_shadcn_made_easier/</guid>
+      <pubDate>Thu, 12 Sep 2024 13:41:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>自动将 URL 转换为 Podcast</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ff2sgf/automatically_convert_urls_into_podcast/</link>
+      <description><![CDATA[        提交人    /u/leonagano   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ff2sgf/automatically_convert_urls_into_podcast/</guid>
+      <pubDate>Thu, 12 Sep 2024 13:38:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Holmz – 我的副业是帮助企业家找到合适的投资者（仍处于早期阶段）</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ff2rma/holmz_my_side_project_to_help_entrepreneurs_find/</link>
+      <description><![CDATA[大家好！我想分享一个我一直在做的副业项目，叫做 Holmz。这是一个旨在帮助企业家使用人工智能与合适的投资者建立联系的平台，我认为这个社区可能会欣赏这个概念。 一切是如何开始的： Holmz 的想法来自于我作为一名企业家的挣扎。我见过很多创始人花了很长时间向那些不太合适的投资者推销。一定有更好的方法——所以我决定自己做！虽然 Holmz 仍处于早期阶段（到目前为止只需要几个晚上和周末的工作），但我对它的发展方向感到很兴奋。 Holmz 的目标是什么？  人工智能匹配：Holmz 不会盲目联系投资者，而是会使用人工智能将企业家与符合其业务和行业的投资者进行匹配。 精选投资者网络：我正在慢慢建立一个投资者网络，最终目标是让创始人能够轻松找到合适的支持者，而不会浪费时间。 即将推出更多功能：我目前专注于核心匹配算法，但我计划推出更多酷炫的功能，例如个性化推介建议和投资者洞察。还有很多事情要做，但这是一个有趣的副项目！  Holmz 适合哪些人？  企业家厌倦了将演讲稿发到空洞中，并希望与真正合适的投资者建立联系。 投资者正在寻找符合其特定兴趣的精选创业机会。  欢迎随时访问 https://www.holmz.io    提交人    /u/Confident-Support-56   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ff2rma/holmz_my_side_project_to_help_entrepreneurs_find/</guid>
+      <pubDate>Thu, 12 Sep 2024 13:37:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>想要分享一些正在进行的功能：计算和符文</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ff273s/wanted_to_share_some_feature_work_in_progress/</link>
+      <description><![CDATA[        提交人    /u/johnsonjohnson   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ff273s/wanted_to_share_some_feature_work_in_progress/</guid>
+      <pubDate>Thu, 12 Sep 2024 13:10:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>正在寻找我的预约应用程序的早期测试人员！🚀</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ff25c9/looking_for_early_testers_for_my_appointment/</link>
+      <description><![CDATA[嘿 Redditers！👋 我一直在开发一款名为 BookMe 的新应用，旨在让自由职业者、小企业主或任何处理客户预订的人都能非常轻松地安排预约。 使用 BookMe，您可以：  为您的客户创建可共享的预订链接 将预约设置为自动批准或手动验证（完全可配置） 无需来回发送电子邮件即可管理您的日程安排🎯  我正在寻找一些愿意尝试并提供反馈的优秀早期测试人员。对于测试人员来说，它是 100% 免费的，您的输入将极大地帮助改进应用程序！ 如果您有兴趣，请发表评论或 DM，我会为您提供访问权限。🙌 https://bookme.pricoder.com 感谢您的关注！    提交人    /u/cdojo   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ff25c9/looking_for_early_testers_for_my_appointment/</guid>
+      <pubDate>Thu, 12 Sep 2024 13:08:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>通过每日提问来激发洞察力，改善项目策略</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ff1u8m/improve_your_projects_strategy_with_a_daily/</link>
+      <description><![CDATA[大家好，r/SideProject 社区！ 我很高兴与大家分享一个对我非常有帮助的资源，它也可能对你有帮助，特别是当你想改进项目策略或只是激发一些新想法时。每天，我都会发布一个发人深省的问题，旨在挑战假设并激发创新。 今天的问题是：“您可以使用哪些策略来确保与远程客户和团队进行有效沟通？” 这种类型的提问可以改变游戏规则，因为它有助于将注意力集中在项目中真正重要的事情上。如果您发现这种日常心理锻炼很有用，请查看每日问答 #34 并注册每日问答！ 我很想听听您对这种方法的看法，以及您如何回答今天的问题。让我们讨论一下这些问题如何改进我们的项目并带来更好的结果！    提交人    /u/Hot-League3088   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ff1u8m/improve_your_projects_strategy_with_a_daily/</guid>
+      <pubDate>Thu, 12 Sep 2024 12:53:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>我妈妈学不会英语，所以我用人工智能为西班牙语使用者制作了一款英语学习应用程序</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ff1mqv/my_mom_couldnt_learn_english_so_i_made_an_english/</link>
+      <description><![CDATA[      https://linktr.ee/letztechnologies?utm_source=linktree_profile_share&amp;ltsid=e572c293-d94a-4cc9-a3e1-39d6b0ed7f03 内置 flutterflow。 快来看看吧！  5 分钟 AI 英语评估 微学习 AI 聊天     提交人    /u/Mindless_Produce_988   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ff1mqv/my_mom_couldnt_learn_english_so_i_made_an_english/</guid>
+      <pubDate>Thu, 12 Sep 2024 12:43:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>批评我的应用创意：将您孩子的艺术作品转化为充满活力的杰作</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ff1jn3/critique_my_app_idea_transform_your_kids_art_into/</link>
+      <description><![CDATA[大家好！ 我需要你们对我一直在考虑的一个应用想法提出直言不讳的意见。介绍 Kiddo Colors – 一款旨在利用人工智能技术将您孩子（或学生）的简单艺术素描转化为丰富多彩的数字杰作的应用。 以下是宣传内容：  对于家长：想象一下，您孩子可爱的火柴人和蜡笔涂鸦变成了充满活力、看起来专业的艺术品。您可以以全新的视角展示他们的“毕加索”时刻，并永远保存它们。 对于教师：您可以通过向学生展示他们的初始素描如何演变成详细的数字艺术来鼓励创造力。此外，它还可以成为一种有趣的课堂活动。  工作原理：  拍下您孩子的绘画照片。 将其上传到应用程序。 观看魔术发生，出现丰富多彩的增强版艺术作品。  特点：  易于使用的界面 前后比较 可共享的数字艺术 可在商品上打印的选项  但这是我需要你的帮助的地方： 这个想法是天才吗，还是我只是另一个被误导的父母，把孩子们的简单乐趣复杂化了？  这真的有市场吗，或者这是否只是一种很快就会消失的新奇事物？ 家长和老师会发现这真的有用吗，还是只是另一种干扰？ 在这种情况下使用人工智能是令人兴奋的还是只是不必要的技术炒作？  我已经准备好接受你们对我的所有讽刺、怀疑和挖苦。家长/老师们，说得更直白些——我需要知道 Kiddo Colors 是否值得追求，或者我是否应该重新开始（双关语）。 感谢您的想法！    提交人    /u/basavarajavyadav   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ff1jn3/critique_my_app_idea_transform_your_kids_art_into/</guid>
+      <pubDate>Thu, 12 Sep 2024 12:39:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>如果您需要美观且实用的用户界面？我只需 199 美元即可为您设计和编写登录页面、仪表板或电子邮件！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ff1d7d/if_you_need_beautiful_and_functional_ui_ill/</link>
+      <description><![CDATA[大家好！🎨 如果您希望在构建下一个 SaaS 时节省时间和金钱，我可以为您提供帮助。我见过人们在 Fiverr 等平台上与开发人员合作时既有损失也有收益，但我想为您提供一些不同的东西——质量好、价格实惠，没有风险。 我经营着一家由 3 名才华横溢的员工组成的小型设计工作室，我们本月正在寻找新项目。如果您需要 Figma 中漂亮的 UI/UX 设计，并且希望这些设计使用 React、Next.js 或类似框架进行编码，我们可以满足您的要求。 这是我们的代理网站 Shopify 开发机构  完整作品集 https://dribbble.com/ecomwedo SaaS 网站： https://emailwish.com/ Www.instacaptain.com https://dribbble.com/shots/17389822-Emailwish-Review-app-for-Shopify 仪表板设计 https://dribbble.com/shots/24199470-Law-Firm-Dashboard https://dribbble.com/shots/24039678-Emailwish-Dasbhoard https://dribbble.com/shots/24414967-Dashboard-for-AdFinder https://dribbble.com/shots/9033909-Dashboard-for-emailwish https://dribbble.com/shots/24834007-Dashboard-for-property-management-tool https://dribbble.com/shots/24834788-Emailwish-Chat-Dashboard https://dribbble.com/shots/24834782-Emailwish-Dashboard 电子商务网站： https://hoodieblan.com/ https://pawmarts.com/ https://thedecortherapy.com/ https://tinytailco.com/ https://duallcamera.myshopify.com/ 其他网站： https://iamankitsrivastava.com/ https://dribbble.com/shots/24414983-Landing-page-design-for-AdFinder 电子邮件 https://dribbble.com/shots/21738632-Email-newsletter-template-for-Emailwish https://dribbble.com/shots/21738660-Chat-email-template-for-Emailwish 哦，如果你知道有人渴望获得一流的设计（例如网站或徽标），请提前通知他们！ 这里没有什么陷阱，我只是在用我的技能来帮忙。🙌 还有其他设计需求吗？告诉我！让我们创造一些设计奇迹吧！ 🚀 请注意：价格仅适用于 1 页设计。    提交人    /u/AnabelBain   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ff1d7d/if_you_need_beautiful_and_functional_ui_ill/</guid>
+      <pubDate>Thu, 12 Sep 2024 12:29:51 GMT</pubDate>
+    </item>
     <item>
       <title>侧面项目的想法？</title>
       <link>https://www.reddit.com/r/SideProject/comments/1ff18kj/side_projects_ideas/</link>
       <description><![CDATA[我精通 c++、java 和 python，可以用这些语言制作任何有趣且有用的附带项目    提交人    /u/SearchIllustrious958   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1ff18kj/side_projects_ideas/</guid>
       <pubDate>Thu, 12 Sep 2024 12:22:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>您是否在日常工作中难以保持纪律？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ff15fx/do_you_struggle_with_staying_disciplined_in_your/</link>
-      <description><![CDATA[我在一些项目中是单人团队，我的朋友和家人不理解这种挣扎，我承认很难始终保持纪律。 你经常通过社交媒体看到其他人在做什么，很容易忘记你还有更大的目标，而且事情需要时间。 我希望有一个和我处境相似的朋友，我们可以互相监督。每天只需 1-2 条消息就足够了。我不想花钱买虚拟助手，但我一直在研究是否有一种人工智能产品可以像朋友一样行事（现在所有东西都有人工智能）。 很高兴听到您的回答，也非常感谢任何建议 :)    提交人    /u/BrandStories   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ff15fx/do_you_struggle_with_staying_disciplined_in_your/</guid>
-      <pubDate>Thu, 12 Sep 2024 12:18:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>我正在寻找一位联合创始人来构建一个微型 SaaS，更便宜、更好的 rizz.app 版本。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ff0xmk/i_am_looking_for_a_cofounder_to_build_a_microsaas/</link>
-      <description><![CDATA[如果您有兴趣与我一起构建它，请给我发私信！    由   提交  /u/Dogemuskelon   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ff0xmk/i_am_looking_for_a_cofounder_to_build_a_microsaas/</guid>
-      <pubDate>Thu, 12 Sep 2024 12:06:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>我一直在开发一款在城市建设游戏中使用工业电力模拟方法的游戏。我刚刚添加了可再生能源。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ff0vf9/ive_been_working_on_a_game_that_uses_industry/</link>
-      <description><![CDATA[        提交人    /u/DavidMadeThis   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ff0vf9/ive_been_working_on_a_game_that_uses_industry/</guid>
-      <pubDate>Thu, 12 Sep 2024 12:03:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>Lyfeguard——个人信息管理</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ff0h12/lyfeguard_personal_information_management/</link>
-      <description><![CDATA[大家好，我们很高兴 Lyfeguard 现已上线，并帮助英国家庭控制他们的财务、重要信息和遗产规划。我们很乐意听到您对该平台的想法 - 您的反馈有助于我们使其变得更好！    由   提交  /u/MeanMarketing3118   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ff0h12/lyfeguard_personal_information_management/</guid>
-      <pubDate>Thu, 12 Sep 2024 11:42:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>我花了 76 个小时来构建我的 SaaS 的 MVP。这是一个演示</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ff0gd0/it_took_me_76_hours_to_build_the_mvp_of_my_saas/</link>
-      <description><![CDATA[      想法💡 我是一名 19 岁的加拿大计算机科学专业学生。我今年 2 月至 3 月申请暑期实习。很少有工具或工具很差劲，能让我快速创建一份适合 ATS 的简历。 我创建了我的简历，但很少有专业人士来批评它。  不知怎么的，我得到了一份实习工作。 在实习即将结束时，我开始兼职解决这些问题 产品🤖 我专门为实习生或职业生涯早期的年轻工程师开发了一个 AI 简历编辑器。 无需担心简历格式或 ATS 优化，AI 会处理好。只需输入一些关于您的总结、教育、项目等的关键字，您就会得到一份完整的简历。 这只需不到 5 分钟即可完成。 我甚至添加了一项功能，让用户在线托管他们的简历（是的，每份简历都有一个个性化链接）并与他人分享。你的朋友，招聘人员可以对其进行评语并给出 1-10 的分数。  这将有助于他们验证简历，并引起招聘人员的注意，从而获得工作。  发布🚀 我计划很快推出这个 SaaS。我正在考虑定价为 20 美元终身访问或类似的价格（需要帮助决定）。如果您发现这款产品令人兴奋或只是想关注我的旅程（以及我正在开发的另外 2 个 SaaS 产品），在 X 上关注我 最后，这是完整应用程序的演示，或者直接在YouTube 请随时提出您的建议，并帮助我将我的副项目 -&gt; SaaS AI简历生成，现场reusme烘焙    提交人    /u/itsthemegh   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ff0gd0/it_took_me_76_hours_to_build_the_mvp_of_my_saas/</guid>
-      <pubDate>Thu, 12 Sep 2024 11:41:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>ContentRadar.ai 现已在 Product Hunt 上线 🚀</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ff0ajw/contentradarai_is_now_live_on_product_hunt/</link>
-      <description><![CDATA[非常高兴地分享 ContentRadar.ai 现已在 Product Hunt 上线 🚀 使用我们的 AI 驱动工具，在几秒钟内将任何长篇内容（从博客到视频）转换为简洁的 LinkedIn 和 X 帖子，并扩大您的数字影响力✨ https://reddit.com/link/1ff0ajw/video/qq8a2k0n6dod1/player 如果您能尝试一下并在 PH 上支持我们，我将不胜感激 - https://www.producthunt.com/posts/contentradar    由   提交  /u/Ok_Caregiver_3065   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ff0ajw/contentradarai_is_now_live_on_product_hunt/</guid>
-      <pubDate>Thu, 12 Sep 2024 11:32:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>帮助我和我的朋友在直播中“众筹”这个网络应用程序！ - 给我们反馈和建议！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ff09j9/help_me_and_my_friend_crowdbuild_this_web_app/</link>
-      <description><![CDATA[今天我们正在进行设计，所以... 看看我们现场编辑我们的 figma 设计： https://www.figma.com/board/tUaFyWatObGxGRyso9jM8E/Welcome-to-FigJam?node-id=0-1&amp;t=VVDTnUnGtUx1QcSo-1 加入我们的流。 https://www.youtube.com/watch?v=Dl20j3z7PmY 我们是高中生，试图制作一个类似于 uberEats 的应用程序，但适用于学校， 在流上询问更多问题！    提交人    /u/Jude_Jeremy   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ff09j9/help_me_and_my_friend_crowdbuild_this_web_app/</guid>
-      <pubDate>Thu, 12 Sep 2024 11:30:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>在推出 MVP 两周后，我最终重塑了我的 SaaS 品牌</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ff065s/i_ended_up_rebranding_my_saas_2_weeks_after/</link>
-      <description><![CDATA[TL;DR - 不要选择会被 Google 搜索自动更正的品牌名称 大约一个月前，经过 3 个月的开发，我终于推出了我的社交媒体内容规划和创建 saas 的 MVP，我感到很高兴。 但是，我没想到我的 MVP 的第一个反馈是关于这个名字有多奇怪。作为上下文，我的域名是 evergreem.com，带有“m”（受 evergreen content 启发）。事实证明，在你的名字中拼写错误有正确和错误的方法，因为这也不是关于名称问题的最后一条评论。 然而，棺材上的最后一颗钉子是意识到任何试图搜索我的网站的人都会自动得到 Evergreen 的结果。 我做出了一个严肃的假设，Google 搜索仍然会返回“evergreem”的结果并简单询问您是否指的是“evergreen”。在大多数情况下，它可能指的是 Evergreem，但不是。他们直接返回 Evergreen 的结果。对于我新推出的自举式 saas，这基本上是一个死亡标志。 因此，在发布 2 周后，我决定重塑品牌，我非常感谢新推出的网站没有太多的沉没成本。 实际的重塑品牌过程大约需要 4-5 天。 第 1 天：集思广益，想出新域名。在心理学品牌名称上找到了这个很棒的资源（顺便说一下，我与该网站没有任何关系）：https://www.kolenda.io/guides/brand-names 第二天：对我认识的每个人就最终入围名称进行了调查，最终选择了 conteflow.com（“content”和“flow”的组合）。 第三天：重新设计徽标、颜色和字体。 第 4-5 天：设置或更新 Vercel、Stripe、Postmark、Supabase、Google Workspace 等服务的设置。 虽然在发布后这么快就进行品牌重塑并不理想，但如果我没有在还能以最小的牺牲做出改变的时候做出改变，我可能会更加后悔。有人跟我分享了他们如何选择一个糟糕的名字并坚持了两年才最终更改它的故事。 我也借此机会对主页进行了大改造，我对新的外观和感觉非常非常满意。 如果您感兴趣，可以访问 www.conteflow.com 查看最终结果。 我很想听听您的想法以及任何有关命名或品牌重塑的类似经验，我很少听到这样的案例。    提交人    /u/aprileva   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ff065s/i_ended_up_rebranding_my_saas_2_weeks_after/</guid>
-      <pubDate>Thu, 12 Sep 2024 11:25:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>推出：包含 900 多份股票和投资分析简报的目录</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ff05bw/launched_a_directory_with_900_newsletters_about/</link>
-      <description><![CDATA[https://reddit.com/link/1ff05bw/video/nducmal15dod1/player 目前，该目录包含： 来自金融、医疗保健和信息技术等各个行业的 900 多个股票评论，由全球投资者提供。它还介绍了来自日本、韩国、欧洲等市场的微型和小型股。 最重要的是，它让新人可以向拥有 1000 多名订阅者的数百名知名时事通讯作者展示他们的作品！  现在，列出是免费的，但我很快会添加付费选项 👉 https://rhinoinvestory.com/    提交人    /u/RhinoInsight   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ff05bw/launched_a_directory_with_900_newsletters_about/</guid>
-      <pubDate>Thu, 12 Sep 2024 11:23:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何增加个人收入？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ff01fw/how_to_augment_ones_income/</link>
-      <description><![CDATA[大家好， 我正在寻找增加收入的方法。目前，我是一家私人公司的受薪专业人士。 但是，有时，我确实觉得我在几天/几周内有空闲时间，我希望明智地利用这些时间从事一些副业/任务或其他额外的创收活动。 如果有人能就此提出建议，我将不胜感激。 附注 - 不太热衷于积极的股票交易，因为这对我来说从来没有奏效过，而且我个人觉得有点冒险。    提交人    /u/Wannabewallstreet   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ff01fw/how_to_augment_ones_income/</guid>
-      <pubDate>Thu, 12 Sep 2024 11:17:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>免费工具来查找 RSS 源，即使页面上没有链接</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fezvu8/free_tool_to_find_rss_feeds_even_if_not_linked_on/</link>
-      <description><![CDATA[这是一个小型附带项目，它公开了我正在开发的 RSS 订阅阅读器 的订阅查找逻辑。 RSS 订阅的一个问题是它们通常存在但未在网站上链接。 此工具的目标是无论订阅是否链接到某处，它都能找到它们。如果此 feed 查找器未找到 feed，则表示不存在 feed。 您可以在此处尝试：https://lighthouseapp.io/tools/feed-finder 这是一个很大的目标，不可否认目前还没有实现，但它确实朝这个方向迈出了一步。  检查父页面的元标记（有时文章本身没有元标记，但主博客页面有） 检查常见后缀，如 /rss、/index.xml 等（有时 feed 存在但未链接） 检查站点地图 检查页面上的所有链接 检查第三方 feed（目前为 OpenRSS，当我找到更多这样的存储库时，我也会添加它们）  我还有一些其他想法，例如检查搜索引擎并抓取整个域（效率极低，但可行）。 如果您可以尝试一下，我会非常高兴，如果您发布无法正常工作的网站，我会更加高兴。    提交人    /u/domysee   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fezvu8/free_tool_to_find_rss_feeds_even_if_not_linked_on/</guid>
-      <pubDate>Thu, 12 Sep 2024 11:07:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>Steer - 适用于 Mac 的轻量级原生写作助手</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fezbue/steer_lightweight_native_writing_assistant_for_mac/</link>
-      <description><![CDATA[        提交人    /u/dandanda99   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fezbue/steer_lightweight_native_writing_assistant_for_mac/</guid>
-      <pubDate>Thu, 12 Sep 2024 10:33:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>开发 Chrome 扩展程序来自动刷新页面</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fezbab/built_a_chrome_extension_to_autorefresh_pages/</link>
-      <description><![CDATA[      我最近一直在从事一个副业项目 - 一个名为自动刷新页面的 Chrome 扩展程序，到目前为止，它已经收到了很多用户的积极反馈。我想与大家分享一下，看看你们的想法！ 其背后的想法非常简单：您可以在特定时间间隔后在任何网页或选项卡上设置自动页面重新加载。它具有超强可定制性 - 无论您是需要每隔几秒还是几分钟刷新一次，只需单击一下即可。 您可以使用它执行以下操作：  可自定义的时间间隔：从 5 秒、10 秒、5 分钟等默认选项中选择，或设置您自己的秒、分钟或小时间隔。 硬刷新：需要清除缓存和 cookie 吗？您也可以这样做。 可视计时器：在页面上显示倒计时，以便您知道何时刷新。 轻松停止自动刷新：您可以点击页面上的任意位置立即停止刷新。 自动刷新列表：在一个地方查看您为自动刷新设置的所有页面。 其他很酷的功能：声音警报、通知和对 file:// URL 的支持！  它对于监控价格变化、现场体育比分、招聘信息或产品可用性等非常方便。有些用户甚至说它为他们节省了大量时间！ https://preview.redd.it/8df44hzqvcod1.png?width=856&amp;format=png&amp;auto=webp&amp;s=abd94778ddcc5e0289faa1ce014c5e505ebf117c 最新版本中的新增功能：  添加了声音选项和通知，以在刷新时提醒您。 修复了一些保存设置时的错误，并添加了导入/导出功能。 增加了 2 秒的最小刷新时间（针对速度狂魔！）。  我很想听听你的想法！如果您有任何建议或遇到任何问题，请随时发表评论或给我留言。 如果有人有兴趣尝试，请告诉我，我会分享链接。😊    提交人    /u/jaron_smith   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fezbab/built_a_chrome_extension_to_autorefresh_pages/</guid>
-      <pubDate>Thu, 12 Sep 2024 10:32:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>Emberist - 简单的财务追踪，实现长期财务独立</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fez508/emberist_simple_finance_tracking_for_long_term/</link>
-      <description><![CDATA[      嘿 r/SideProject！ 我想分享一个我一直在做的项目，名为 Emberist——一个长期财务规划应用程序，旨在简化通往财务独立的道路。作为一个副业，它源于我对现有财务工具的个人不满，以及想要构建更面向未来的工具的愿望。 我为什么创建 Emberist 像你们中的许多人一样，我尝试过各种财务应用程序，但发现它们要么需要太多的微观管理，要么没有提供通往长期财务自由的明确途径。我想要一份不会让人感觉像是第二份工作的东西。 Emberist 正是针对这一问题而诞生的 — — 它是一款每月仅需 10 分钟即可帮助您规划未来的工具。 Emberist 的与众不同之处 并非其他预算应用程序：它并不专注于跟踪每笔购买，而是着眼于更大的图景 — — 您的长期财务健康状况。 着眼于未来：它旨在帮助您规划提前退休和财务独立。 最少的时间投入：每月只需 10 分钟即可保持正轨。 进度跟踪：可视化您的财务独立之旅，而不仅仅是您的每月支出。 为什么选择 Emberist？ 大多数人并没有为退休做好财务准备，目前的公共养老金可能还不够。 Emberist 使用户能够尽早掌控自己的财务未来，而不会陷入日常琐事中。 寻求反馈 由于 Emberist 仍处于早期阶段，我很乐意听取社区的反馈！您希望财务规划工具具有哪些功能？您对当前的财务应用程序是否遇到过类似的挫败感？任何见解或想法都会非常有帮助。 请随时给我发私信——我随时欢迎其他创作者的反馈或想法。 感谢您的阅读，我期待听到您的想法！ https://preview.redd.it/e1uodhpstcod1.png?width=1080&amp;format=png&amp;auto=webp&amp;s=4b6295ce0359e173f3a4dd8ee089ee99894d5589    由   提交  /u/liuqaerd   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fez508/emberist_simple_finance_tracking_for_long_term/</guid>
-      <pubDate>Thu, 12 Sep 2024 10:21:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
