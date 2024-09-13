@@ -4,7 +4,7 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Fri, 13 Sep 2024 01:05:30 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Sep 2024 03:16:11 GMT</lastBuildDate>
     <item>
       <title>我刚刚发布了我的第一个 iOS 应用：Glimpsebook</title>
       <link>https://www.reddit.com/r/SideProject/comments/1ffiasg/ive_just_published_my_first_ios_app_glimpsebook/</link>
@@ -97,18 +97,18 @@
       <pubDate>Thu, 12 Sep 2024 21:31:15 GMT</pubDate>
     </item>
     <item>
+      <title>我终于完成了我的想法的 MVP！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ffe0pm/finally_i_finished_the_mvp_of_my_idea/</link>
+      <description><![CDATA[所以，我一直在研究这个名为 Nuevette 的副项目，我想与大家分享。它非常简单 - 你告诉它你想学什么，然后它就会给你一个路线图。 我知道 roadmap.sh 做同样的事情，而且肯定比我的好，但我想尝试一下。 看看：nuevette.onrender.com 情况如下：  你输入你想学的东西 Nuevette 会搅动一会儿 弹出一条学习路径  现在，它还很简陋。它只是提供了学习路径，但我对下一步有什么想法。 我为什么要做这个？好吧，我不知道你是怎么想的，但每当我想学习一项新技能时，我都会陷入“我该从哪里开始？”的困境。Nuevette 就是我解决这个令人头痛的问题的尝试。 我很想听听你的想法。 附言：如果你们当中有谁愿意和我一起工作，请直接发信息给我 :)    提交人    /u/LowTwo1305   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ffe0pm/finally_i_finished_the_mvp_of_my_idea/</guid>
+      <pubDate>Thu, 12 Sep 2024 21:30:45 GMT</pubDate>
+    </item>
+    <item>
       <title>由人工智能驱动的企业 NAICS 代码查找工具是否值得追求？</title>
       <link>https://www.reddit.com/r/SideProject/comments/1ffdm2d/is_an_aipowered_naics_code_lookup_tool_for/</link>
       <description><![CDATA[大家好！ 我正在考虑构建一个基于 Web 的工具，帮助企业主和专业人士通过简单描述他们的业务来确定他们的确切 NAICS 代码。此工具将使用 AI 分析描述并返回最准确的 NAICS 代码，以及使用相同代码的类似企业。 痛点： 许多企业主和顾问在注册过程中或申请政府合同时很难找到正确的 NAICS 代码。错误分类企业可能会导致处罚、错失机会或错误的纳税申报。对于不熟悉行业分类的人来说，当前的流程通常非常耗时且令人困惑。 该工具的工作原理如下：  步骤 1：用户输入其业务描述。 步骤 2：该工具会分析该描述并建议最合适的 NAICS 代码。 步骤 3：它会显示共享该代码的类似企业和行业，从而提供有价值的见解。     提交人    /u/visakh_v   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1ffdm2d/is_an_aipowered_naics_code_lookup_tool_for/</guid>
       <pubDate>Thu, 12 Sep 2024 21:13:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>我使用 GPT4o/Claude 构建了一个网络安全测试工具，它是免费的！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ffd4ca/i_built_a_web_security_testing_tool_with/</link>
-      <description><![CDATA[      大家好！您是否厌倦了为网站支付昂贵的安全测试工具？我创建了一个免费工具，它是在 GPT-4 和 Claude 的帮助下构建的，您可以免费使用它。虽然总有改进的空间，但它是有效的，可以完成工作！ https://github.com/DasJager/websectester Sec 测试工具    提交人    /u/Acceptable-Review893   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ffd4ca/i_built_a_web_security_testing_tool_with/</guid>
-      <pubDate>Thu, 12 Sep 2024 20:52:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
