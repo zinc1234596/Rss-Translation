@@ -4,7 +4,14 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Sat, 14 Sep 2024 01:04:51 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Sep 2024 03:15:45 GMT</lastBuildDate>
+    <item>
+      <title>嘲笑我的想法</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fgc8zr/roast_my_idea/</link>
+      <description><![CDATA[一款用于检测可疑行为的 AI 软件，将托管在 DVR CCTV 上，该软件将监控可能试图攀爬栅栏、强行打开门、强行打开车库门等的对象，并通过移动应用程序发出警报。这样做的目的是防止入室盗窃。    提交人    /u/Charming_Rub_610   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fgc8zr/roast_my_idea/</guid>
+      <pubDate>Sat, 14 Sep 2024 02:37:25 GMT</pubDate>
+    </item>
     <item>
       <title>寻求快速反馈：中小企业可持续发展的人工智能工具</title>
       <link>https://www.reddit.com/r/SideProject/comments/1fg9wwp/seeking_quick_feedback_ai_tool_for_smb/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>GitHub 和 Bitbucket 的 AI 代码审查</title>
       <link>https://www.reddit.com/r/SideProject/comments/1fg9n6n/ai_code_reviews_for_github_and_bitbucket/</link>
-      <description><![CDATA[大家好！ 我是 Korbit AI 的开发人员，我们最近对我们的 AI 代码审阅者发布了一些重大更新（自动 Pr 描述、与 Korbit 协作的内联聊天、问题生成和演示的重大改进）！ 作为一个自己做过很多个人项目的人（https://triviauniverseai.com），这是一个非常棒的工具，因为我实际上没有其他人可以发送评论 2。 https://www.korbit.ai 我们现在正式支持 Bitbucket 和 GitHub。 如果能得到我和团队辛勤工作的反馈，那将是一件不可思议的事情。  如果您有任何问题，请直接向我提问，我希望您喜欢我们所有的辛勤工作，以使您的代码审查变得更好。     由    /u/ItsRyeGuyy 提交   [链接] [评论]]]></description>
+      <description><![CDATA[大家好！ 我是 Korbit AI 的开发人员，我们最近对我们的 AI 代码审阅者发布了一些重大更新（自动 Pr 描述、与 Korbit 协作的内联聊天、问题生成和演示的重大改进）！ 作为一个自己做过很多个人项目的人（https://triviauniverseai.com），这是一个非常棒的工具，因为我实际上没有其他人可以发送评论 2。 https://www.korbit.ai 我们现在正式支持 Bitbucket 和 GitHub。 如果能得到我和团队努力工作的反馈，那将是一件不可思议的事情。  如果您有任何问题，请直接向我提问，我希望您喜欢我们所有的辛勤工作，以使您的代码审查变得更好。     提交人    /u/ItsRyeGuyy   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1fg9n6n/ai_code_reviews_for_github_and_bitbucket/</guid>
       <pubDate>Sat, 14 Sep 2024 00:18:45 GMT</pubDate>
     </item>
@@ -34,7 +41,7 @@
       <pubDate>Sat, 14 Sep 2024 00:03:48 GMT</pubDate>
     </item>
     <item>
-      <title>我正在制作自己的机器狗，这是第一条腿！</title>
+      <title>我正在制作我自己的机器狗，这是第一条腿！</title>
       <link>https://www.reddit.com/r/SideProject/comments/1fg90lm/i_am_building_my_own_robot_dog_heres_the_first_leg/</link>
       <description><![CDATA[        提交人    /u/geepytee   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1fg90lm/i_am_building_my_own_robot_dog_heres_the_first_leg/</guid>
@@ -76,7 +83,7 @@
       <pubDate>Fri, 13 Sep 2024 23:10:05 GMT</pubDate>
     </item>
     <item>
-      <title>寻求有关我的 AI 驱动表单生成器的反馈 – 在几秒钟内创建表单！</title>
+      <title>寻求有关我的 AI 驱动表单生成器的反馈 – 几秒钟内创建表单！</title>
       <link>https://www.reddit.com/r/SideProject/comments/1fg7q8u/looking_for_feedback_on_my_aidriven_form/</link>
       <description><![CDATA[我一直在研究一种 AI 驱动的表单生成器，旨在让 Shopify 商店的表单创建变得轻而易举。无论是自定义联系表单、产品调查还是客户反馈表单，此工具都可帮助用户在几分钟内设置表单 - 无需编码！ 演示视频： https://www.youtube.com/watch?v=Vh2kKcTH4Ck 主要特点：  🛠 AI 驱动的自定义：根据一些简单的输入生成适合您特定需求的表单，为您节省数小时的手动设置时间。 🎯 动态和条件字段：使用文本输入、电子邮件字段、日期选择器甚至条件逻辑等字段创建高级表单 - 非常适合收集详细的客户信息。 ⚡ 超轻量级：整个应用程序只有 25 KB，确保它不会减慢您商店的加载时间。 🛒 针对电子商务进行了优化：专为 Shopify 商家设计，用于收集客户反馈、创建产品查询等！  寻求反馈： 我很乐意收到您的想法和反馈！    提交人    /u/cankucukyilmaz   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1fg7q8u/looking_for_feedback_on_my_aidriven_form/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[这些天我写了很多代码。我正在开发一个用于员工认可的 slack 机器人。为此，我正在构建 MVP，即使没有完成机器人，也获得了每月 5 美元的付费客户。但突然间，我开始失去奉献精神，所以大家请为我加油，说出你的第一个用户故事，这对我和这里的其他人意义重大    提交人    /u/Charming_You_8285   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1fg6na3/tell_me_your_first_user_story_i_started_to_loose/</guid>
       <pubDate>Fri, 13 Sep 2024 21:55:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>考虑到世界上使用最广泛的语言，西班牙语应该是你的产品必备的语言</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fg61pa/considering_the_most_spoken_languages_worldwide/</link>
-      <description><![CDATA[请让我知道您对此的想法。    由    /u/LEBONN_STUDIO  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fg61pa/considering_the_most_spoken_languages_worldwide/</guid>
-      <pubDate>Fri, 13 Sep 2024 21:29:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
