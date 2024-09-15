@@ -4,7 +4,56 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Sun, 15 Sep 2024 18:18:55 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Sep 2024 21:13:49 GMT</lastBuildDate>
+    <item>
+      <title>我创建了 TestScribe AI，可以根据应用程序截图自动创建详细的测试计划</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fhn7d9/i_created_testscribe_ai_to_automatically_create/</link>
+      <description><![CDATA[简介 你好。👋 我是一名 9-5 的 QA 主管/SDET。我为我们的 Web 和移动应用编写自动化测试代码。创建这些自动化测试的测试计划可能会花费大量时间。测试计划还可以在进行手动测试时提供路线图。 典型工作流程  审查工单 审查规范 花一两个小时手动格式化/创建测试计划 使用测试计划作为指南手动测试工单 或者使用测试计划作为指南为其编写自动化测试  根据工单的复杂程度（新功能、旧功能、与现有功能的集成等），测试计划可能非常耗时，特别是如果您的测试计划旨在同时用作手动和自动化测试指南。 我们的测试计划 我一直遵循我们的测试计划的一般格式：  屏幕介绍/目的 主要目标 主要测试场景 测试设置 / 依赖关系 测试用例列表 测试用例细分  测试用例 1 测试用例 2 等等   出于自动化目的，我还包括：  测试需要与之交互的元素列表 我们将与之交互的每个元素的定位器策略  还有一些其他的事情，比如跟踪花费的时间，但目前我还没有将它们包括在本项目中。也许以后吧。 目标 目标是尽可能自动化这个过程。从工作文档开始比从头开始要容易得多，需要的脑力劳动要少得多。 工作原理 我设计的这个工具非常容易使用。 LINK --&gt; TestScribe AI - 人工智能驱动的测试计划自动化  从您正在测试的应用程序（可以是 Web、移动设备甚至桌面）中截取其中一个屏幕的屏幕截图，例如您的登录屏幕 上传屏幕截图 收到遵循我上面列出的格式的详细、准确的测试计划 使用 markdown 编辑您的测试计划，并查看旁边的实时预览 如果需要，可以保存并将测试计划导出到 Notion 或其他平台（Jira、Confluence 等）  条款  它并不完美，肯定会有错误，如果发现它们，请友善地报告 我仍在构建更高级的功能，如元素定位器策略和测试自动化启动脚本 您不必创建帐户即可尝试，您可以无需注册即可获得一个免费测试计划作为演示 如果您创建帐户，您可以有五 (5) 个测试计划来试用产品，之后您需要订阅计划以生成更多  问题 您在软件 QA 领域面临哪些问题？ 像这样提供自动测试计划创建的平台是否会对您或您的公司有利？ 您是否认为这种类型的产品对手动测试有价值？自动化测试？两者兼而有之？ 您如何看待定价结构？定价与功能比率？它提供了良好的价值吗？ 还有我还没有提到的您希望看到的功能吗？ 谢谢！    提交人    /u/Palmquistador   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fhn7d9/i_created_testscribe_ai_to_automatically_create/</guid>
+      <pubDate>Sun, 15 Sep 2024 21:05:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>发布当天，Product hunt 上获得 100 多个点赞，排名前 5 位！我太开心了！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fhmwlr/top5_on_product_hunt_with_more_than_100_upvotes/</link>
+      <description><![CDATA[      https://preview.redd.it/p5luqrs8d1pd1.png?width=865&amp;format=png&amp;auto=webp&amp;s=edd8e37447db35c94362b2b427209649e5ec157b Mooody 是一款帮助您追踪和管理情绪的健康应用。通过情绪记录、引导式冥想和反思，Mooody 可以促进幸福感和自我意识。简单、直观、镇定，它是您平衡心灵的伴侣。 Mooody     提交人    /u/johnseinsbergwebde   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fhmwlr/top5_on_product_hunt_with_more_than_100_upvotes/</guid>
+      <pubDate>Sun, 15 Sep 2024 20:52:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么建立目录如此流行？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fhmo66/why_is_it_so_popular_to_build_directories/</link>
+      <description><![CDATA[最近我看到有人发帖说他们又建立了一个目录，里面有新应用程序、人工智能平台等。这样做有什么好处？    提交人    /u/gopolar1   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fhmo66/why_is_it_so_popular_to_build_directories/</guid>
+      <pubDate>Sun, 15 Sep 2024 20:42:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>卫星追踪器 3D：现在具有基于时间的图表！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fhlsss/satellite_tracker_3d_now_featuring_timebased/</link>
+      <description><![CDATA[        提交人    /u/Markosappsandgames   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fhlsss/satellite_tracker_3d_now_featuring_timebased/</guid>
+      <pubDate>Sun, 15 Sep 2024 20:05:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个免费且无限使用的 SEO 工具</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fhkajq/i_made_a_free_unlimited_usage_seo_tool/</link>
+      <description><![CDATA[大家好， 今天在这里分享我的免费无限使用 SEO 工具。它包括 SEO 检查器、元标记生成器、Twitter 卡片生成器和 WordPress 主题检测器等等。请将网站加入书签，以便以后使用。  链接：seostack.pro    由   提交  /u/NoFirefighter8227   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fhkajq/i_made_a_free_unlimited_usage_seo_tool/</guid>
+      <pubDate>Sun, 15 Sep 2024 19:02:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>标题：2024 年顶级流媒体服务提供商 – 让您的娱乐体验最大化！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fhjwzh/title_the_top_streaming_service_providers_for/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fhjwzh/title_the_top_streaming_service_providers_for/</guid>
+      <pubDate>Sun, 15 Sep 2024 18:47:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>发布 15 天内我的收入就超过 100 美元。查看统计数据</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fhjwsy/i_hit_100_in_revenue_in_15_days_of_launch_check/</link>
+      <description><![CDATA[      我在本月初开始了我的副业。我花了一些时间在 Reddit 上进行营销和收集反馈。然后发表了一篇关于它的 Medium 博客文章。我能够实现这一小壮举。所有注册者都是随机的。 统计信息- 总访问量- 583 总注册量- 109 总付款量- 9 回头客数量- 2 来自 Reddit 的反馈对于改进登陆页面非常有用。但它仍然需要很多改进。 查看它- http://thefluxtrain.com buildinpublic    提交者    /u/Sensitive_Teacher_93   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fhjwsy/i_hit_100_in_revenue_in_15_days_of_launch_check/</guid>
+      <pubDate>Sun, 15 Sep 2024 18:46:56 GMT</pubDate>
+    </item>
     <item>
       <title>我制作了一个免费的绘图应用程序</title>
       <link>https://www.reddit.com/r/SideProject/comments/1fhiy7z/i_made_a_free_drawing_app/</link>
@@ -60,55 +109,6 @@
       <description><![CDATA[我是一名后端工程师。我正在学习 React，并尝试创建一个全栈 Web 应用程序。我的想法是从图像中去除背景。 我想知道这个网站是否可以赚取一些收入。我在想也许可以通过广告、API 订阅等方式。 我正在考虑慢慢添加新的图像工具。并不是想让它像一个复杂的 Adob​​e Photoshop 之类的东西。只是一些人们有时需要的快速操作，而不需要进入复杂的软件。    提交人    /u/Old-Indication-9605   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1fhfrkc/background_removal_from_an_image/</guid>
       <pubDate>Sun, 15 Sep 2024 15:53:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个网站，根据您上次喜欢的游戏，建议您接下来应该玩什么游戏。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fhfis3/i_made_a_website_that_suggest_you_what_game_you/</link>
-      <description><![CDATA[        提交人    /u/detera   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fhfis3/i_made_a_website_that_suggest_you_what_game_you/</guid>
-      <pubDate>Sun, 15 Sep 2024 15:43:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个小型 chrome 扩展程序来快速创建新的 Google 文档、表格、幻灯片</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fhfgjy/i_made_a_small_chrome_extension_to_quickly_create/</link>
-      <description><![CDATA[直接从浏览器快速创建 Google 文档、表格、幻灯片等！ 只需单击一下，即可直接从浏览器栏轻松创建新的 Google Drive 文档。  该扩展程序添加了一个简单的菜单，可让您快速创建：  Google 文档 Google 表格 Google 幻灯片 Google 表单 可免费使用 :)  希望收到任何反馈 https://chromewebstore.google.com/detail/quick-create-for-google-d/keedcnnkbkefdfoemdaeeckapmlkggif?authuser=0&amp;hl=en   由    /u/b0bx42  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fhfgjy/i_made_a_small_chrome_extension_to_quickly_create/</guid>
-      <pubDate>Sun, 15 Sep 2024 15:40:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Next.js、Tailwind、Typescript 和 Framer Motion 制作的作品集模板</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fhfg4d/portfolio_template_made_with_nextjs_tailwind/</link>
-      <description><![CDATA[      https://reddit.com/link/1fhfg4d/video/4vvtjvnhtzod1/player 您可以从这里获取它 - https://www.serenity-ui.com/templates    提交人    /u/ayushmaansingh304   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fhfg4d/portfolio_template_made_with_nextjs_tailwind/</guid>
-      <pubDate>Sun, 15 Sep 2024 15:40:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>确认我的想法！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fhfblp/validate_my_idea/</link>
-      <description><![CDATA[大家好！:) 我正在尝试进行市场调查，看看我的商业理念是否有需求，最后我找到了 reddit。 基本上，我正在修读创业辅修专业（我也有计算机科学技术背景），在修读这门辅修专业时，我注意到很多关于“如何建立一家初创公司”、“如何进行产品市场适配”、“如何打造人们想要的东西”的资源。 - 这些资源可以在 youtube、ycombinator 创业学校、创业中心等处找到。 我发现它们的唯一问题是 - 缺乏为你的想法提供个性化反馈的工具，很难制定商业计划，很难进行市场研究，导师很贵/很难找到，没有人教你如何与客户交谈等等。我通过与创始人交谈进行了定性分析，希望找到问题，他们中的大多数人表示，即使在踏上这段旅程之前，他们也缺乏发展创业公司的基本知识（我与 5 位创业公司的创始人进行了交谈，他们大多是技术人员）。也就是说，他们想在没有任何研究的情况下建立一些东西。 我的想法是建立一个个性化的环境，帮助早期创业公司的创始人或只是有想法的人。这意味着为你的想法量身定制的营销分析工具、一个可以对你的创业想法提供反馈的社区、为你的需求量身定制的业务规划以及更多有助于成长过程的功能（或者可以减轻你的创业想法失败的痛苦）。一体化平台。想象一下 YCombinator 的创业学校 - 除了它不是带有 YouTube 视频和脚本的模块外，它还具有交互性并且可以根据您的想法量身定制。 欢迎任何类型的反馈！干杯    提交人    /u/buli19_red   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fhfblp/validate_my_idea/</guid>
-      <pubDate>Sun, 15 Sep 2024 15:34:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的第一个个人项目，One Time Message</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fhf067/my_first_solo_project_one_time_message/</link>
-      <description><![CDATA[嗨，Redditors！ 我一直在做一个名为“一次性消息”的项目，用户可以发送一条消息，该消息在阅读后就会消失。这是一种简单、安全的方式来分享私人信息、给某人一个惊喜，或者只是发送一条你不想永远留在那里的消息。 我正在寻找社区对几个关键领域的反馈： 我如何才能自然地吸引更多用户？我应该利用哪些平台或渠道来扩大我的受众（社交媒体、技术论坛等）？ 我的目标是让服务免费或非常实惠，但我想支付服务器成本并赚取少量收入。我应该考虑广告、高级模式（例如，加密或更持久的消息等额外功能）还是捐赠系统？ 随着流量的增长，我想确保网站保持快速和可靠。有人对有效扩展 Web 应用程序有什么建议或技巧吗？  如果您有任何反馈、提示或想法，我们将不胜感激！另外，请随时尝试该网站并分享您的想法 - 好的或坏的。  提前致谢！    由    /u/joseantcld 提交   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fhf067/my_first_solo_project_one_time_message/</guid>
-      <pubDate>Sun, 15 Sep 2024 15:21:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个工具，可以自动发展你的应用程序或初创企业</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fhema3/i_created_a_tool_that_grow_your_app_or_startup_in/</link>
-      <description><![CDATA[      大家好， 这是我最新的业余项目构建，花了一个月的时间构建它。它可以帮助您从社交媒体中找到适合您产品的对话，并自动或手动与其互动，它具有高级分析📊，并且对那些想要监控社交媒体并寻找见解的人进行了情感分析。  它处于测试阶段，链接为https://socialsignalai.com     由   提交  /u/pilotcodex   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fhema3/i_created_a_tool_that_grow_your_app_or_startup_in/</guid>
-      <pubDate>Sun, 15 Sep 2024 15:05:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>圣经的证据</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fhegoz/evidence_for_the_bible/</link>
-      <description><![CDATA[        提交人    /u/cool12345678908956   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fhegoz/evidence_for_the_bible/</guid>
-      <pubDate>Sun, 15 Sep 2024 14:58:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
