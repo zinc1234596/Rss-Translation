@@ -4,7 +4,98 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Sun, 15 Sep 2024 15:13:31 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Sep 2024 18:18:55 GMT</lastBuildDate>
+    <item>
+      <title>我制作了一个免费的绘图应用程序</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fhiy7z/i_made_a_free_drawing_app/</link>
+      <description><![CDATA[嗨，我制作了一个小型绘图应用程序，它非常轻巧和简单。这个和我制作的大多数其他东西的主要原因是它是免费的。没有订阅或广告。得到一些评论也很好 谢谢 https://apps.apple.com/gb/app/sketchy/id6670319622    提交人    /u/aleuts   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fhiy7z/i_made_a_free_drawing_app/</guid>
+      <pubDate>Sun, 15 Sep 2024 18:06:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>开始副业或创业时遇到的问题</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fhioft/problems_with_starting_a_side_hustle_or_business/</link>
+      <description><![CDATA[那些有副业可以赚钱的人：你是如何开始的，又是如何与雇主打交道的？ 我的问题是，如果你甚至不确定这件事是否会成功并扩大规模，那么成立公司、开设银行账户等等似乎有点小题大做。在拥有前 10 位付费客户后，我可能会这样做。有什么解决办法吗？    提交人    /u/Ok_General5678   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fhioft/problems_with_starting_a_side_hustle_or_business/</guid>
+      <pubDate>Sun, 15 Sep 2024 17:55:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>html/css 不太好，请嘲笑我的登陆页面！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fhgwkm/not_that_great_at_htmlcss_please_roast_my_landing/</link>
+      <description><![CDATA[highlight-tools.pages.dev 寻求对我的登录页面的任何批评和反馈，以收集电子邮件。我计划在确定品牌名称后尽快获得自定义域名    提交人    /u/securitytree   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fhgwkm/not_that_great_at_htmlcss_please_roast_my_landing/</guid>
+      <pubDate>Sun, 15 Sep 2024 16:41:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人破解了使用 AI 堆栈进行设计编码的技术吗？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fhgvx8/has_anyone_cracked_design_to_code_with_the_ai/</link>
+      <description><![CDATA[        提交人    /u/ex_eag   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fhgvx8/has_anyone_cracked_design_to_code_with_the_ai/</guid>
+      <pubDate>Sun, 15 Sep 2024 16:40:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>支线任务时间到了！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fhghd2/side_mission_time/</link>
+      <description><![CDATA[  由    /u/B4thepump  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fhghd2/side_mission_time/</guid>
+      <pubDate>Sun, 15 Sep 2024 16:23:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>了解 html-email：人工智能驱动的 HTML 电子邮件生成器</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fhgdcq/meet_htmlemail_ai_powered_html_email_generator/</link>
+      <description><![CDATA[大家好， 在为电子邮件模板奋斗多年后，我决定构建一些东西来让我们的生活更轻松。我很乐意听听您对 HTML 电子邮件的看法。 主要功能：  根据您的描述由 AI 生成的模板 开箱即用的响应式设计 无需编码  您可以在此处注册候补名单：https://html-email.com 也请分享您对生成和编写电子邮件 HTML 时遇到的问题的看法。    提交人    /u/Leather_Ad_6035   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fhgdcq/meet_htmlemail_ai_powered_html_email_generator/</guid>
+      <pubDate>Sun, 15 Sep 2024 16:18:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>AiHLD：即时生成基于 AWS 的高级设计</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fhg8z2/aihld_instantly_generate_aws_based_high_level/</link>
+      <description><![CDATA[大家好！ 我很高兴与大家分享 AiHLD，这是我开发的一款工具，因为我和我的团队花了太多时间设计 AWS 架构，哪怕是最简单的问题。我想，“为什么没有更快的方法呢？” 因此，AiHLD 可以做到以下几点： 即时 AWS 设计：只需提供您的要求，它就会在几秒钟内为您创建架构。 专注于重要事项：跳过手动绘图，更快地开始构建。 准备部署：您将获得可用于生产的设计，从而节省数小时的规划时间。 我开发这个工具是因为我们需要一些可以处理重复设计工作的东西。现在，它可以帮助你做同样的事情。很想听到你的反馈！🙌 注意：其模型仍处于微调阶段。    提交人    /u/Soggy_Economist_5104   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fhg8z2/aihld_instantly_generate_aws_based_high_level/</guid>
+      <pubDate>Sun, 15 Sep 2024 16:13:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>去除图像背景</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fhfrkc/background_removal_from_an_image/</link>
+      <description><![CDATA[我是一名后端工程师。我正在学习 React，并尝试创建一个全栈 Web 应用程序。我的想法是从图像中去除背景。 我想知道这个网站是否可以赚取一些收入。我在想也许可以通过广告、API 订阅等方式。 我正在考虑慢慢添加新的图像工具。并不是想让它像一个复杂的 Adob​​e Photoshop 之类的东西。只是一些人们有时需要的快速操作，而不需要进入复杂的软件。    提交人    /u/Old-Indication-9605   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fhfrkc/background_removal_from_an_image/</guid>
+      <pubDate>Sun, 15 Sep 2024 15:53:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了一个网站，根据您上次喜欢的游戏，建议您接下来应该玩什么游戏。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fhfis3/i_made_a_website_that_suggest_you_what_game_you/</link>
+      <description><![CDATA[        提交人    /u/detera   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fhfis3/i_made_a_website_that_suggest_you_what_game_you/</guid>
+      <pubDate>Sun, 15 Sep 2024 15:43:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个小型 chrome 扩展程序来快速创建新的 Google 文档、表格、幻灯片</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fhfgjy/i_made_a_small_chrome_extension_to_quickly_create/</link>
+      <description><![CDATA[直接从浏览器快速创建 Google 文档、表格、幻灯片等！ 只需单击一下，即可直接从浏览器栏轻松创建新的 Google Drive 文档。  该扩展程序添加了一个简单的菜单，可让您快速创建：  Google 文档 Google 表格 Google 幻灯片 Google 表单 可免费使用 :)  希望收到任何反馈 https://chromewebstore.google.com/detail/quick-create-for-google-d/keedcnnkbkefdfoemdaeeckapmlkggif?authuser=0&amp;hl=en   由    /u/b0bx42  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fhfgjy/i_made_a_small_chrome_extension_to_quickly_create/</guid>
+      <pubDate>Sun, 15 Sep 2024 15:40:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Next.js、Tailwind、Typescript 和 Framer Motion 制作的作品集模板</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fhfg4d/portfolio_template_made_with_nextjs_tailwind/</link>
+      <description><![CDATA[      https://reddit.com/link/1fhfg4d/video/4vvtjvnhtzod1/player 您可以从这里获取它 - https://www.serenity-ui.com/templates    提交人    /u/ayushmaansingh304   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fhfg4d/portfolio_template_made_with_nextjs_tailwind/</guid>
+      <pubDate>Sun, 15 Sep 2024 15:40:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>确认我的想法！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fhfblp/validate_my_idea/</link>
+      <description><![CDATA[大家好！:) 我正在尝试进行市场调查，看看我的商业理念是否有需求，最后我找到了 reddit。 基本上，我正在修读创业辅修专业（我也有计算机科学技术背景），在修读这门辅修专业时，我注意到很多关于“如何建立一家初创公司”、“如何进行产品市场适配”、“如何打造人们想要的东西”的资源。 - 这些资源可以在 youtube、ycombinator 创业学校、创业中心等处找到。 我发现它们的唯一问题是 - 缺乏为你的想法提供个性化反馈的工具，很难制定商业计划，很难进行市场研究，导师很贵/很难找到，没有人教你如何与客户交谈等等。我通过与创始人交谈进行了定性分析，希望找到问题，他们中的大多数人表示，即使在踏上这段旅程之前，他们也缺乏发展创业公司的基本知识（我与 5 位创业公司的创始人进行了交谈，他们大多是技术人员）。也就是说，他们想在没有任何研究的情况下建立一些东西。 我的想法是建立一个个性化的环境，帮助早期创业公司的创始人或只是有想法的人。这意味着为你的想法量身定制的营销分析工具、一个可以对你的创业想法提供反馈的社区、为你的需求量身定制的业务规划以及更多有助于成长过程的功能（或者可以减轻你的创业想法失败的痛苦）。一体化平台。想象一下 YCombinator 的创业学校 - 除了它不是带有 YouTube 视频和脚本的模块外，它还具有交互性并且可以根据您的想法量身定制。 欢迎任何类型的反馈！干杯    提交人    /u/buli19_red   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fhfblp/validate_my_idea/</guid>
+      <pubDate>Sun, 15 Sep 2024 15:34:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的第一个个人项目，One Time Message</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fhf067/my_first_solo_project_one_time_message/</link>
+      <description><![CDATA[嗨，Redditors！ 我一直在做一个名为“一次性消息”的项目，用户可以发送一条消息，该消息在阅读后就会消失。这是一种简单、安全的方式来分享私人信息、给某人一个惊喜，或者只是发送一条你不想永远留在那里的消息。 我正在寻找社区对几个关键领域的反馈： 我如何才能自然地吸引更多用户？我应该利用哪些平台或渠道来扩大我的受众（社交媒体、技术论坛等）？ 我的目标是让服务免费或非常实惠，但我想支付服务器成本并赚取少量收入。我应该考虑广告、高级模式（例如，加密或更持久的消息等额外功能）还是捐赠系统？ 随着流量的增长，我想确保网站保持快速和可靠。有人对有效扩展 Web 应用程序有什么建议或技巧吗？  如果您有任何反馈、提示或想法，我们将不胜感激！另外，请随时尝试该网站并分享您的想法 - 好的或坏的。  提前致谢！    由    /u/joseantcld 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fhf067/my_first_solo_project_one_time_message/</guid>
+      <pubDate>Sun, 15 Sep 2024 15:21:09 GMT</pubDate>
+    </item>
     <item>
       <title>我创建了一个工具，可以自动发展你的应用程序或初创企业</title>
       <link>https://www.reddit.com/r/SideProject/comments/1fhema3/i_created_a_tool_that_grow_your_app_or_startup_in/</link>
@@ -18,97 +109,6 @@
       <description><![CDATA[        提交人    /u/cool12345678908956   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1fhegoz/evidence_for_the_bible/</guid>
       <pubDate>Sun, 15 Sep 2024 14:58:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>您会对我的着陆页进行多少评分</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fheds2/how_much_would_you_rate_my_landing_page/</link>
-      <description><![CDATA[您好，我想知道您对我的登陆页面的评价，特别是使用我的开源库制作的动画的评价。 谢谢    提交人    /u/yllaevv   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fheds2/how_much_would_you_rate_my_landing_page/</guid>
-      <pubDate>Sun, 15 Sep 2024 14:54:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>介绍法国工资计算器来估算您的收入！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fhedoo/introducing_a_french_salary_calculator_to/</link>
-      <description><![CDATA[        提交人    /u/silgon3200   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fhedoo/introducing_a_french_salary_calculator_to/</guid>
-      <pubDate>Sun, 15 Sep 2024 14:54:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>对此非常高兴！！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fhe9e8/very_happy_about_this/</link>
-      <description><![CDATA[因为这是我的第一个项目，我很高兴来自世界各地的人们正在使用我的网站https://happitimes.fun    提交人    /u/Klutzy-Prior-6865   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fhe9e8/very_happy_about_this/</guid>
-      <pubDate>Sun, 15 Sep 2024 14:49:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>辞去工作去做我喜欢的事情</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fhe5o6/quit_my_job_to_build_things_i_love/</link>
-      <description><![CDATA[      我辞去了微软的工作，成为一名全职独立开发者。我想做我喜欢的事情。我做的第一件事就是这个应用程序，人们可以上传照片。我每天上传一张照片。这迫使我看到周围世界的美丽。我希望这个应用程序可以帮助人们暂时忘记生活中的烦恼，享受身边的美好事物。这是应用程序 https://apple.co/4epxcuk https://preview.redd.it/p31qzapxlzod1.png?width=1290&amp;format=png&amp;auto=webp&amp;s=e608bcf812430ced5f76c7e40de2686c19d350af    提交人    /u/AffectionateRain6674   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fhe5o6/quit_my_job_to_build_things_i_love/</guid>
-      <pubDate>Sun, 15 Sep 2024 14:45:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Android手表] 间歇训练循环计时器</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fhdvkf/android_watches_interval_training_recurring_timer/</link>
-      <description><![CDATA[为了跟踪我的锻炼过程，我制作了一个重复计时器应用程序（计时器自动重启）。它在每个间隔都会振动，因此不会有声音打扰邻居。 您可以用于间歇训练：为锻炼期间的高强度和休息期设置特定间隔。 应用视频：https://www.youtube.com/watch?v=38-9Re5vV-I&amp;ab_channel=CMD 如果您有兴趣，可以尝试一下（应用处于测试阶段）： 1/ 加入小组 https://groups.google.com/g/recurring-timer-test 2/ 下载应用程序 Android 链接：https://play.google.com/store/apps/details?id=com.lconstan.recurringtimer 网页链接：https://play.google.com/apps/testing/com.lconstan.recurringtimer 很高兴收到您的反馈！    提交人    /u/suboverflow   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fhdvkf/android_watches_interval_training_recurring_timer/</guid>
-      <pubDate>Sun, 15 Sep 2024 14:32:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>您如何管理所有文书工作？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fhdmql/how_do_you_manage_all_the_paperwork/</link>
-      <description><![CDATA[大家好， 我和我的朋友们针对非常小众的问题有各种不同的（技术）解决方案，但具有商业可能性。 我们位于德国，这里的文书工作复杂而可怕，使我们从未通过创意阶段，而且我们也没有昂贵的税务顾问。（从小预算开始） 在询问了德国 subreddits 之后，我们现在有了一个小小的路线图，知道要学习什么，但仍然有点不知所措。 但我想知道，你们是如何管理自己的文书工作的？你们国家的规定是否有利于建立企业？您能给我们哪些通用建议？我们应该在什么时候雇人？ 我很抱歉我的英语不好，提前感谢任何答案！    提交人    /u/LifeguardRound4243   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fhdmql/how_do_you_manage_all_the_paperwork/</guid>
-      <pubDate>Sun, 15 Sep 2024 14:21:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>首次在 Product Hunt 上亮相，没有 $$$ 付费推广</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fhdmps/first_debut_on_product_hunt_without_paid_promotion/</link>
-      <description><![CDATA[作为一名独立黑客，我没有像大公司那样投入 5,000 多美元在 Product Hunt 上推广我的第一个 SaaS。但我仍然认为这是一个让我的受众看到产品的好地方。 我使用人工智能系统为 Threads 内容管理和分析构建了 Threadsight - 社交平台的淘金热。 如果您有兴趣，我今天可以参加比赛：请随时查看并立即投票！https://www.producthunt.com/posts/threadsight  附言：几天后我会向您通报进展情况！    提交人    /u/bitethecode0   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fhdmps/first_debut_on_product_hunt_without_paid_promotion/</guid>
-      <pubDate>Sun, 15 Sep 2024 14:21:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>通过说和写来学习语言的应用程序（使用语言和语音人工智能）</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fhddam/app_to_learn_languages_by_speaking_and_writing/</link>
-      <description><![CDATA[        由    /u/e3ntity  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fhddam/app_to_learn_languages_by_speaking_and_writing/</guid>
-      <pubDate>Sun, 15 Sep 2024 14:09:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>我花了 3 年时间打造一个人工智能投资平台。我希望得到您的反馈</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fhd4ma/i_spent_3_years_making_an_aipowered_investing/</link>
-      <description><![CDATA[  由    /u/NextgenAITrading  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fhd4ma/i_spent_3_years_making_an_aipowered_investing/</guid>
-      <pubDate>Sun, 15 Sep 2024 13:58:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们正在构建一个人工智能过滤的副驾驶，以帮助公司更轻松地与公共部门合作</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fhcrhm/were_building_an_aifiltered_co_pilot_to_help/</link>
-      <description><![CDATA[https://tendara.ai/de/    由    /u/Suspicious_Fishing51 提交   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fhcrhm/were_building_an_aifiltered_co_pilot_to_help/</guid>
-      <pubDate>Sun, 15 Sep 2024 13:40:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的前 10 个注册用户！非常感谢您的支持 - todayi.io：与世界分享您的创业之旅</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fhcdro/my_first_10_signups_thanks_so_much_for_the/</link>
-      <description><![CDATA[在昨天启动创业公司创始人记录他们旅程的平台后，应用程序已经有超过 10 个注册用户，尽管不是很多，但我仍然为启动并完成一个我热衷的软件项目而感到自豪。 https://reddit.com/link/1fhcdro/video/t51dlikq4​​zod1/player    提交人    /u/Public-War-9272   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fhcdro/my_first_10_signups_thanks_so_much_for_the/</guid>
-      <pubDate>Sun, 15 Sep 2024 13:21:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>每天有 20 多个远程开发人员角色！查看 Devsheet！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fhc58m/20_remote_developer_roles_daily_check_out_devsheet/</link>
-      <description><![CDATA[建立了我的第一个网站：Devsheet – 每天有 20 多个远程开发人员工作！ 大家好！ 我刚刚推出了我的第一个网站 Devsheet，您每天可以在其中找到 20 多个新的远程开发人员工作！它提供各种领域的工作，如前端、后端、DevOps、云等等。 我希望大家查看并分享您的反馈、建议，或者如果需要的话嘲笑我。😄 让我知道你的想法！ https://devsheet.vercel.app/    提交人    /u/Mudit_web_Developer   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fhc58m/20_remote_developer_roles_daily_check_out_devsheet/</guid>
-      <pubDate>Sun, 15 Sep 2024 13:09:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的业余项目是一个基于自我奖励提高工作效率的应用程序</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fhbrb0/my_side_project_is_an_app_that_is_based_on_self/</link>
-      <description><![CDATA[        提交人    /u/aymantj   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fhbrb0/my_side_project_is_an_app_that_is_based_on_self/</guid>
-      <pubDate>Sun, 15 Sep 2024 12:50:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
