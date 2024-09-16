@@ -4,111 +4,111 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Sun, 15 Sep 2024 21:13:49 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Sep 2024 01:09:50 GMT</lastBuildDate>
     <item>
-      <title>我创建了 TestScribe AI，可以根据应用程序截图自动创建详细的测试计划</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fhn7d9/i_created_testscribe_ai_to_automatically_create/</link>
-      <description><![CDATA[简介 你好。👋 我是一名 9-5 的 QA 主管/SDET。我为我们的 Web 和移动应用编写自动化测试代码。创建这些自动化测试的测试计划可能会花费大量时间。测试计划还可以在进行手动测试时提供路线图。 典型工作流程  审查工单 审查规范 花一两个小时手动格式化/创建测试计划 使用测试计划作为指南手动测试工单 或者使用测试计划作为指南为其编写自动化测试  根据工单的复杂程度（新功能、旧功能、与现有功能的集成等），测试计划可能非常耗时，特别是如果您的测试计划旨在同时用作手动和自动化测试指南。 我们的测试计划 我一直遵循我们的测试计划的一般格式：  屏幕介绍/目的 主要目标 主要测试场景 测试设置 / 依赖关系 测试用例列表 测试用例细分  测试用例 1 测试用例 2 等等   出于自动化目的，我还包括：  测试需要与之交互的元素列表 我们将与之交互的每个元素的定位器策略  还有一些其他的事情，比如跟踪花费的时间，但目前我还没有将它们包括在本项目中。也许以后吧。 目标 目标是尽可能自动化这个过程。从工作文档开始比从头开始要容易得多，需要的脑力劳动要少得多。 工作原理 我设计的这个工具非常容易使用。 LINK --&gt; TestScribe AI - 人工智能驱动的测试计划自动化  从您正在测试的应用程序（可以是 Web、移动设备甚至桌面）中截取其中一个屏幕的屏幕截图，例如您的登录屏幕 上传屏幕截图 收到遵循我上面列出的格式的详细、准确的测试计划 使用 markdown 编辑您的测试计划，并查看旁边的实时预览 如果需要，可以保存并将测试计划导出到 Notion 或其他平台（Jira、Confluence 等）  条款  它并不完美，肯定会有错误，如果发现它们，请友善地报告 我仍在构建更高级的功能，如元素定位器策略和测试自动化启动脚本 您不必创建帐户即可尝试，您可以无需注册即可获得一个免费测试计划作为演示 如果您创建帐户，您可以有五 (5) 个测试计划来试用产品，之后您需要订阅计划以生成更多  问题 您在软件 QA 领域面临哪些问题？ 像这样提供自动测试计划创建的平台是否会对您或您的公司有利？ 您是否认为这种类型的产品对手动测试有价值？自动化测试？两者兼而有之？ 您如何看待定价结构？定价与功能比率？它提供了良好的价值吗？ 还有我还没有提到的您希望看到的功能吗？ 谢谢！    提交人    /u/Palmquistador   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fhn7d9/i_created_testscribe_ai_to_automatically_create/</guid>
-      <pubDate>Sun, 15 Sep 2024 21:05:31 GMT</pubDate>
+      <title>我制作了一个没有杂乱、没有广告的色情滚动器</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fhs9jx/i_made_a_porn_scroller_without_all_the_clutter/</link>
+      <description><![CDATA[色情网站充斥着广告，导航总是一团糟。毕竟，他们不希望你“太快”找到完美的视频。 所以我制作了一个替代的无限滚动条，供您享受。没有广告。 它专门针对移动设备进行了优化，但接下来将重新制作桌面版本。 第一个版本在https://pornscroll.co上线。请分享您希望添加的任何反馈/想法。 注意：长按图像可启动 gif（如果有）。    提交人    /u/pornscroll   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fhs9jx/i_made_a_porn_scroller_without_all_the_clutter/</guid>
+      <pubDate>Mon, 16 Sep 2024 01:01:01 GMT</pubDate>
     </item>
     <item>
-      <title>发布当天，Product hunt 上获得 100 多个点赞，排名前 5 位！我太开心了！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fhmwlr/top5_on_product_hunt_with_more_than_100_upvotes/</link>
-      <description><![CDATA[      https://preview.redd.it/p5luqrs8d1pd1.png?width=865&amp;format=png&amp;auto=webp&amp;s=edd8e37447db35c94362b2b427209649e5ec157b Mooody 是一款帮助您追踪和管理情绪的健康应用。通过情绪记录、引导式冥想和反思，Mooody 可以促进幸福感和自我意识。简单、直观、镇定，它是您平衡心灵的伴侣。 Mooody     提交人    /u/johnseinsbergwebde   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fhmwlr/top5_on_product_hunt_with_more_than_100_upvotes/</guid>
-      <pubDate>Sun, 15 Sep 2024 20:52:54 GMT</pubDate>
+      <title>一佩吉</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fhs46p/onepeijicom/</link>
+      <description><![CDATA[大家好， 我正在考虑将域名“onepeiji.com”用于着陆页构建服务。作为上下文，“peiji”在日语中是“页面”的意思。我很想听听你的想法！  这个域名听起来专业且值得信赖吗？它容易记住和发音吗？ 你认为它有效地传达了服务的目的吗？ 任何反馈或建议都将不胜感激！     提交人    /u/tuvshinjargal_b   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fhs46p/onepeijicom/</guid>
+      <pubDate>Mon, 16 Sep 2024 00:53:27 GMT</pubDate>
     </item>
     <item>
-      <title>为什么建立目录如此流行？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fhmo66/why_is_it_so_popular_to_build_directories/</link>
-      <description><![CDATA[最近我看到有人发帖说他们又建立了一个目录，里面有新应用程序、人工智能平台等。这样做有什么好处？    提交人    /u/gopolar1   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fhmo66/why_is_it_so_popular_to_build_directories/</guid>
-      <pubDate>Sun, 15 Sep 2024 20:42:56 GMT</pubDate>
+      <title>提高产品发布知名度的新方法</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fhrqgy/a_new_approach_to_raising_awareness_for_your/</link>
+      <description><![CDATA[我目前正在 Twitter/X 帐户上直播我的 Product Hunt 发布会：https://x.com/bgdnandrew/status/1835230062745911465 信不信由你，这种方法又吸引了 27000 双眼睛关注我的产品。而这一天还没有结束。更不用说，我的推特关注者很少。 您可以在此处查看我的产品并表示支持：https://www.producthunt.com/posts/subscription-magician-bootstrapped-s24    提交人    /u/bgdnandrew   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fhrqgy/a_new_approach_to_raising_awareness_for_your/</guid>
+      <pubDate>Mon, 16 Sep 2024 00:34:18 GMT</pubDate>
     </item>
     <item>
-      <title>卫星追踪器 3D：现在具有基于时间的图表！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fhlsss/satellite_tracker_3d_now_featuring_timebased/</link>
-      <description><![CDATA[        提交人    /u/Markosappsandgames   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fhlsss/satellite_tracker_3d_now_featuring_timebased/</guid>
-      <pubDate>Sun, 15 Sep 2024 20:05:36 GMT</pubDate>
+      <title>吐槽我的业余项目</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fhrjrb/roast_my_side_project/</link>
+      <description><![CDATA[      我教成人教育 5 年了，觉得为我的数学学生创建一个应用程序会很有趣。在我的学生告诉我他们不喜欢这些视频后，我决定制作与测试本身相关的自己的视频。我仍然需要制作我的 YouTube 视频，但我基本上在本月初完成了我的第一个公共应用程序，并希望确保它具有良好的流程/功能。 我正在根据官方测试的标准创建自己的工作表，并包括所有“课程计划”，供使用我网站的教师以 1.99 美元的价格购买。它还遵循 Kaplan 书籍，可通过我的会员链接从亚马逊购买。 除了“评估”选项卡之外的所有内容对所有学生都是免费的。我每月支付大约 75 美元来保持一切正常运行，但我真的很喜欢把它当作一种激情。我的学生没有像我希望的那样经常使用它，所以我决定为公众制作一个副本。这是我的副本；减去个人信息，例如班级缩放链接和班级电话号码。我还有很多事情要做，但我全职工作，不幸的是周末没有外面的电脑可以访问。通常我在午餐时间工作。我的最近坏了。在开始下一个阶段（即视频和工作表）之前，我想获得一些批评。  谢谢大家！    提交人    /u/MathWithChristian   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fhrjrb/roast_my_side_project/</guid>
+      <pubDate>Mon, 16 Sep 2024 00:25:06 GMT</pubDate>
     </item>
     <item>
-      <title>我制作了一个免费且无限使用的 SEO 工具</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fhkajq/i_made_a_free_unlimited_usage_seo_tool/</link>
-      <description><![CDATA[大家好， 今天在这里分享我的免费无限使用 SEO 工具。它包括 SEO 检查器、元标记生成器、Twitter 卡片生成器和 WordPress 主题检测器等等。请将网站加入书签，以便以后使用。  链接：seostack.pro    由   提交  /u/NoFirefighter8227   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fhkajq/i_made_a_free_unlimited_usage_seo_tool/</guid>
-      <pubDate>Sun, 15 Sep 2024 19:02:42 GMT</pubDate>
+      <title>Pyrebrowser.com - 我制作的去中心化浏览器...你现在甚至可以购买 reddit</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fhra0d/pyrebrowsercom_a_decentralized_browser_i_made_you/</link>
+      <description><![CDATA[        提交人    /u/No_Statistician5873   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fhra0d/pyrebrowsercom_a_decentralized_browser_i_made_you/</guid>
+      <pubDate>Mon, 16 Sep 2024 00:11:48 GMT</pubDate>
     </item>
     <item>
-      <title>标题：2024 年顶级流媒体服务提供商 – 让您的娱乐体验最大化！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fhjwzh/title_the_top_streaming_service_providers_for/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fhjwzh/title_the_top_streaming_service_providers_for/</guid>
-      <pubDate>Sun, 15 Sep 2024 18:47:10 GMT</pubDate>
+      <title>我的前雇主威胁我接管我的副业</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fhqspb/my_exemployer_threatens_me_takeover_my_side/</link>
+      <description><![CDATA[我很郁闷  我住在多伦多，我为一家初创公司日夜工作（仍然没有赚到什么大钱）3-4 年，只获得 4% 的股份（只是说说而已，从未在任何地方签字，上面说我有 4%）。 我无偿工作了几个月，然后又工作了几个月，每月挣 1k 和 2k，这对软件工程师来说不算什么。 随着时间的流逝，我开始觉得自己在毫无意义地磨练自己。 我很快就 25 岁了，如果我需要结婚，我需要过上稳定的生活，把事情控制在自己的手中。我创办了自己的公司（与他的初创公司无关）。 我的公司发展势头良好，当他发现我拥有这家表现非常好的公司时。他威胁要接管我的创业公司，因为我用了他的时间来建立我的创业公司。 我告诉他，很多人都是这样创办公司的，他们一边做兼职，一边等创业公司稳定下来后辞职。他说，这是法律规定，如果你使用公司的资源或时间来做任何事情，你的东西从技术上讲就是我们的。 我白白浪费了 20 岁出头的时光，现在当我有事要做的时候，我却要面对这个问题。    提交人    /u/No_Load3387   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fhqspb/my_exemployer_threatens_me_takeover_my_side/</guid>
+      <pubDate>Sun, 15 Sep 2024 23:47:56 GMT</pubDate>
     </item>
     <item>
-      <title>发布 15 天内我的收入就超过 100 美元。查看统计数据</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fhjwsy/i_hit_100_in_revenue_in_15_days_of_launch_check/</link>
-      <description><![CDATA[      我在本月初开始了我的副业。我花了一些时间在 Reddit 上进行营销和收集反馈。然后发表了一篇关于它的 Medium 博客文章。我能够实现这一小壮举。所有注册者都是随机的。 统计信息- 总访问量- 583 总注册量- 109 总付款量- 9 回头客数量- 2 来自 Reddit 的反馈对于改进登陆页面非常有用。但它仍然需要很多改进。 查看它- http://thefluxtrain.com buildinpublic    提交者    /u/Sensitive_Teacher_93   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fhjwsy/i_hit_100_in_revenue_in_15_days_of_launch_check/</guid>
-      <pubDate>Sun, 15 Sep 2024 18:46:56 GMT</pubDate>
+      <title>我做了一个可以烘焙图像的人工智能平台</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fhqlu1/i_made_an_ai_platform_that_roasts_images/</link>
+      <description><![CDATA[        提交人    /u/ClearHeadX   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fhqlu1/i_made_an_ai_platform_that_roasts_images/</guid>
+      <pubDate>Sun, 15 Sep 2024 23:38:53 GMT</pubDate>
     </item>
     <item>
-      <title>我制作了一个免费的绘图应用程序</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fhiy7z/i_made_a_free_drawing_app/</link>
-      <description><![CDATA[嗨，我制作了一个小型绘图应用程序，它非常轻巧和简单。这个和我制作的大多数其他东西的主要原因是它是免费的。没有订阅或广告。得到一些评论也很好 谢谢 https://apps.apple.com/gb/app/sketchy/id6670319622    提交人    /u/aleuts   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fhiy7z/i_made_a_free_drawing_app/</guid>
-      <pubDate>Sun, 15 Sep 2024 18:06:51 GMT</pubDate>
+      <title>每日站立会议糟透了</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fhqktv/daily_standup_sucks/</link>
+      <description><![CDATA[所以，我一直在做一个小项目，原因有几个：  我真的很讨厌每日站立会议，我觉得很多人也一样。有很多原因导致它们很糟糕。 我最近一直在忙于不同的项目，可能是因为我正处于人生的“磨砺”阶段。 哦，我也讨厌大多数任务管理器，所以我觉得尝试改进它也很有趣。  无论如何，如果你有任何想法或主意，我洗耳恭听！如果人们感兴趣的话，也许可以考虑开源。 如果你感兴趣的话，请查看：heyfrosti.com   由    /u/Phil611  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fhqktv/daily_standup_sucks/</guid>
+      <pubDate>Sun, 15 Sep 2024 23:37:31 GMT</pubDate>
     </item>
     <item>
-      <title>开始副业或创业时遇到的问题</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fhioft/problems_with_starting_a_side_hustle_or_business/</link>
-      <description><![CDATA[那些有副业可以赚钱的人：你是如何开始的，又是如何与雇主打交道的？ 我的问题是，如果你甚至不确定这件事是否会成功并扩大规模，那么成立公司、开设银行账户等等似乎有点小题大做。在拥有前 10 位付费客户后，我可能会这样做。有什么解决办法吗？    提交人    /u/Ok_General5678   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fhioft/problems_with_starting_a_side_hustle_or_business/</guid>
-      <pubDate>Sun, 15 Sep 2024 17:55:37 GMT</pubDate>
+      <title>vercel /nextjs 中的 Cron 作业</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fhqkgq/cron_jobs_in_vercel_nextjs/</link>
+      <description><![CDATA[嘿伙计们，有人能给我一些关于 vercel 中的 cron 作业的提示吗？    提交人    /u/Pure_Bit_2981   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fhqkgq/cron_jobs_in_vercel_nextjs/</guid>
+      <pubDate>Sun, 15 Sep 2024 23:37:01 GMT</pubDate>
     </item>
     <item>
-      <title>html/css 不太好，请嘲笑我的登陆页面！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fhgwkm/not_that_great_at_htmlcss_please_roast_my_landing/</link>
-      <description><![CDATA[highlight-tools.pages.dev 寻求对我的登录页面的任何批评和反馈，以收集电子邮件。我计划在确定品牌名称后尽快获得自定义域名    提交人    /u/securitytree   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fhgwkm/not_that_great_at_htmlcss_please_roast_my_landing/</guid>
-      <pubDate>Sun, 15 Sep 2024 16:41:09 GMT</pubDate>
+      <title>我做了一个开源表单后端服务。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fhqf63/i_made_an_open_source_form_backend_service/</link>
+      <description><![CDATA[      我已经为此工作了几个月，很高兴终于可以启动它了。它是 FormSpree 或 FormSpark 等服务的替代方案，在我看来，它可以更好地保护您的隐私并控制您的数据。    提交人    /u/OiaOrca   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fhqf63/i_made_an_open_source_form_backend_service/</guid>
+      <pubDate>Sun, 15 Sep 2024 23:29:56 GMT</pubDate>
     </item>
     <item>
-      <title>有人破解了使用 AI 堆栈进行设计编码的技术吗？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fhgvx8/has_anyone_cracked_design_to_code_with_the_ai/</link>
-      <description><![CDATA[        提交人    /u/ex_eag   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fhgvx8/has_anyone_cracked_design_to_code_with_the_ai/</guid>
-      <pubDate>Sun, 15 Sep 2024 16:40:24 GMT</pubDate>
+      <title>我构建了一个仪表板应用程序来分析特斯拉充电数据，并在此分享以获得反馈</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fhqe2j/i_built_a_dashboard_app_to_analyse_tesla_charging/</link>
+      <description><![CDATA[      大家好，我一直在做一个名为 EV-dash 的项目，与大家分享以获得反馈。它是一款旨在帮助特斯拉驾驶员分析其充电习惯、优化充电成本并从其汽车界面运行自定义应用程序的工具。请告诉我您的想法，它不需要遥测级别访问，因此不会耗尽电池，并且入门速度很快。 您可以在此处www.evdash.app/?vipentry找到测试版，并在www.evdash.app注册以获取更新 https://preview.redd.it/lja6697452pd1.jpg?width=2522&amp;format=pjpg&amp;auto=webp&amp;s=6d5a5dff669c7425d827c4fb9b699ae07b9d69a8 https://preview.redd.it/1g2b1a7452pd1.jpg?width=2360&amp;format=pjpg&amp;auto=webp&amp;s=ee068a8421b66db3b1d19ad84112b15d9e254e46    提交人    /u/slyskyy   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fhqe2j/i_built_a_dashboard_app_to_analyse_tesla_charging/</guid>
+      <pubDate>Sun, 15 Sep 2024 23:28:28 GMT</pubDate>
     </item>
     <item>
-      <title>支线任务时间到了！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fhghd2/side_mission_time/</link>
-      <description><![CDATA[  由    /u/B4thepump  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fhghd2/side_mission_time/</guid>
-      <pubDate>Sun, 15 Sep 2024 16:23:28 GMT</pubDate>
+      <title>我制作了一个域名扫描工具，并且很好奇它的想法、错误和讨厌之处。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fhqb3h/i_made_a_domain_scanner_tool_and_was_curious_to/</link>
+      <description><![CDATA[我知道有很多网站只做单项检查。 它是新的，只是来自合规性/审计的想法（考虑每月进行 nessus 扫描或类似扫描），只是一种非常轻量级/快速的外部扫描 扫描仪可帮助您评估任何网站的安全态势。它会检查关键安全措施，如 SSL 配置、HTTP 安全标头和电子邮件身份验证协议，以便让您全面了解网站的安全实施情况。 我的后端确实非常小，因此您可以使用电子邮件创建用户/密码。您的扫描结果都保存到您的帐户中，您可以设置计划扫描（并且有效），每日/每周/每月。如果它注意到与上次扫描相比有所变化，它会显示检测到的变化。没有所有这些，您只需导出 PDF 并执行相同操作即可。    提交人    /u/retardracer   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fhqb3h/i_made_a_domain_scanner_tool_and_was_curious_to/</guid>
+      <pubDate>Sun, 15 Sep 2024 23:24:24 GMT</pubDate>
     </item>
     <item>
-      <title>了解 html-email：人工智能驱动的 HTML 电子邮件生成器</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fhgdcq/meet_htmlemail_ai_powered_html_email_generator/</link>
-      <description><![CDATA[大家好， 在为电子邮件模板奋斗多年后，我决定构建一些东西来让我们的生活更轻松。我很乐意听听您对 HTML 电子邮件的看法。 主要功能：  根据您的描述由 AI 生成的模板 开箱即用的响应式设计 无需编码  您可以在此处注册候补名单：https://html-email.com 也请分享您对生成和编写电子邮件 HTML 时遇到的问题的看法。    提交人    /u/Leather_Ad_6035   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fhgdcq/meet_htmlemail_ai_powered_html_email_generator/</guid>
-      <pubDate>Sun, 15 Sep 2024 16:18:48 GMT</pubDate>
+      <title>利用先进技术构建我最终可以信赖的新闻平台</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fhpqk2/building_a_news_platform_i_can_finally_trust/</link>
+      <description><![CDATA[一段时间以来，我一直对很难获得对世界正在发生的事情的客观、完整的了解感到沮丧。无论是相互矛盾的叙述、缺少背景还是耸人听闻，找到我可以信任的新闻似乎是一项不可能完成的任务。因此，我和我的朋友开始构建一个平台，利用先进的技术来帮助理解复杂的新闻事件。 从本质上讲，该平台将各个新闻片段（人物、地点、事件）映射到一个相互连接的数据点网络中。这有助于创建对任何给定情况的更全面的视图，将经常被遗漏或扭曲的点连接起来。通过使用人工智能处理大量数据和网络科学来映射关键实体和行动之间的关系，我们开发了一个系统，可以更清晰、更可靠地了解世界事件。 目前，这项工作以免费每周新闻通讯的形式存在，每周分解一个全球事件。但这只是第一步——该平台还有更大的发展潜力。 如果这引起了你的共鸣，请查看网站、订阅并告诉我你的想法。我期待反馈，以使其变得更好。 https://www.boundlessdiscovery.com    提交人    /u/boundless-discovery   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fhpqk2/building_a_news_platform_i_can_finally_trust/</guid>
+      <pubDate>Sun, 15 Sep 2024 22:58:43 GMT</pubDate>
     </item>
     <item>
-      <title>AiHLD：即时生成基于 AWS 的高级设计</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fhg8z2/aihld_instantly_generate_aws_based_high_level/</link>
-      <description><![CDATA[大家好！ 我很高兴与大家分享 AiHLD，这是我开发的一款工具，因为我和我的团队花了太多时间设计 AWS 架构，哪怕是最简单的问题。我想，“为什么没有更快的方法呢？” 因此，AiHLD 可以做到以下几点： 即时 AWS 设计：只需提供您的要求，它就会在几秒钟内为您创建架构。 专注于重要事项：跳过手动绘图，更快地开始构建。 准备部署：您将获得可用于生产的设计，从而节省数小时的规划时间。 我开发这个工具是因为我们需要一些可以处理重复设计工作的东西。现在，它可以帮助你做同样的事情。很想听到你的反馈！🙌 注意：其模型仍处于微调阶段。    提交人    /u/Soggy_Economist_5104   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fhg8z2/aihld_instantly_generate_aws_based_high_level/</guid>
-      <pubDate>Sun, 15 Sep 2024 16:13:40 GMT</pubDate>
+      <title>我的 SaaS 已经准备好走出阴影了，请嘲笑它！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fhoxqx/my_saas_is_ready_to_come_out_of_the_shaddows/</link>
+      <description><![CDATA[      作为一名生物黑客，我喜欢随时了解与健康相关的研究。 有时我会购买和测试我读到的补充剂。 有好几次，我发现自己忘记了为什么要服用柜子里的药片。 我意识到我需要更好地了解我服用的药物和原因。 这就是 Whytamin.io 的想法诞生的过程。一个跟踪您的健康状况并支持进一步探索生活优化的平台。 除了朝九晚五的工作之外，我已经研究这个想法一段时间了。现在我觉得这个网站已经到了可以为这个领域的人们带来真正价值的地步。 在尝试营销之前，希望社区能给它一个评价。  您可以在 https://www.whytamin.io 找到它。 https://preview.redd.it/ojjltaljs1pd1.png?width=1310&amp;format=png&amp;auto=webp&amp;s=9446af98a8d5b22824acddf0d17ab5ddff16415c    提交人    /u/Masked_Solopreneur   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fhoxqx/my_saas_is_ready_to_come_out_of_the_shaddows/</guid>
+      <pubDate>Sun, 15 Sep 2024 22:21:50 GMT</pubDate>
     </item>
     <item>
-      <title>去除图像背景</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fhfrkc/background_removal_from_an_image/</link>
-      <description><![CDATA[我是一名后端工程师。我正在学习 React，并尝试创建一个全栈 Web 应用程序。我的想法是从图像中去除背景。 我想知道这个网站是否可以赚取一些收入。我在想也许可以通过广告、API 订阅等方式。 我正在考虑慢慢添加新的图像工具。并不是想让它像一个复杂的 Adob​​e Photoshop 之类的东西。只是一些人们有时需要的快速操作，而不需要进入复杂的软件。    提交人    /u/Old-Indication-9605   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fhfrkc/background_removal_from_an_image/</guid>
-      <pubDate>Sun, 15 Sep 2024 15:53:45 GMT</pubDate>
+      <title>寻求对我的新 API 平台项目的一些建设性反馈</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fhoszx/looking_for_some_constructive_feedback_on_my_new/</link>
+      <description><![CDATA[大家好， 昨天我部署了一个我已经工作了一段时间的项目的 alpha 版本。我正在寻找其他人对此的真实反馈，以便我可以迭代和改进我目前拥有的内容。如果您有时间可以快速浏览一下，我将不胜感激。 我追求的是诚实而直言不讳的反馈。如果我能尽快弄清楚这是否值得追求，这对我来说意义重大。我很清楚目前的设计并不是最好的，但我正试图在根据您的反馈进行新设计之前验证这个想法。  该项目是：jsonrepo.com  提前非常感谢任何和所有的反馈！ 干杯    由   提交  /u/WesamMikhail   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fhoszx/looking_for_some_constructive_feedback_on_my_new/</guid>
+      <pubDate>Sun, 15 Sep 2024 22:15:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
