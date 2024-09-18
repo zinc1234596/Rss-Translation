@@ -4,13 +4,97 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Tue, 17 Sep 2024 21:13:44 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Sep 2024 01:05:41 GMT</lastBuildDate>
     <item>
-      <title>为了做这件事，我辞去了两份工作。这是我为一家月薪 6 万多美元的公司做的广告：</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fjb1l2/i_quit_working_2_jobs_to_do_this_heres_an_ad_i/</link>
+      <title>开源 Rewind AI，适用于 MacOS、Windows、Linux</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fjg2dg/open_source_rewind_ai_works_on_macos_windows_linux/</link>
+      <description><![CDATA[  由    /u/louis3195  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fjg2dg/open_source_rewind_ai_works_on_macos_windows_linux/</guid>
+      <pubDate>Wed, 18 Sep 2024 00:43:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>“需要澄清的是 - 它不是 Trello！虽然它具有与 Trello 类似的功能，但核心思想更像是轻量级的 Asana，客户可以在其中查看您的工作进度并留下反馈。🚀 未来计划：集成 Git 和 Slack 以使其更加无缝！敬请期待更新。💻</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fjfnfo/just_to_clarify_its_not_trello_while_it_has_a/</link>
+      <description><![CDATA[       由    /u/AYT12  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fjfnfo/just_to_clarify_its_not_trello_while_it_has_a/</guid>
+      <pubDate>Wed, 18 Sep 2024 00:24:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>出于对现有工具的极度不满，我创建了一个工具，以最大化奖励积分和里程，希望你喜欢它</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fje4gb/built_a_tool_out_of_sheer_frustration_with/</link>
+      <description><![CDATA[我将其命名为awardhack.com，并添加了以下内容：  酒店收益计算器：根据住宿费用、忠诚度状态和信用卡使用情况计算所赚取的积分，涵盖大多数合作伙伴 - 万豪、凯悦、洲际酒店集团和希尔顿。 积分与现金价值计算器：帮助决定是否使用积分或现金预订酒店、航班或信用卡，涵盖众多合作伙伴。 当前奖金：列出具有高额欢迎奖金和合作伙伴转移促销活动的信用卡。 航空里程和时间计算器：估算机场之间的飞行距离、时间和可能赚取的里程。 合作伙伴转移工具：计算在计划之间转移时您将获得多少积分或里程，并估算转移时间。  请向我提供反馈，我将开始修复/添加新内容。谢谢！    由   提交  /u/ResponsibleGrape6346   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fje4gb/built_a_tool_out_of_sheer_frustration_with/</guid>
+      <pubDate>Tue, 17 Sep 2024 23:18:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>以下是我正在开发的 CRM 的预发布演示，我的目标是减少客户和自由职业者的非正式互动，并使一切变得精简 - 更多内容即将发布（将在评论中更新此产品描述的链接）</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fje4dz/so_here_is_a_prereleased_demo_of_the_crm_that_i/</link>
+      <description><![CDATA[        提交人    /u/AYT12   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fje4dz/so_here_is_a_prereleased_demo_of_the_crm_that_i/</guid>
+      <pubDate>Tue, 17 Sep 2024 23:18:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了一个网站，可以轻松翻译您的声音，同时保留您独特的语调</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fjdzux/i_made_a_website_for_effortlessly_translate_your/</link>
+      <description><![CDATA[https://reddit.com/link/1fjdzux/video/xexo9mwccgpd1/player 嗨， 我是 Julien，我开发了这个应用程序将您的音频翻译成 29 种不同的语言，同时保留您声音的语调和个性。 欢迎提供反馈 谢谢    提交人    /u/Fast-Mood4397   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fjdzux/i_made_a_website_for_effortlessly_translate_your/</guid>
+      <pubDate>Tue, 17 Sep 2024 23:13:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>我正在寻找对我的广告支持的多 LLM 聊天应用程序的诚实反馈......</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fjd34c/im_looking_for_honest_feedback_on_my_ad_supported/</link>
+      <description><![CDATA[目前，它仅在 Android 上可用。我是编码和制作应用程序的新手，所以它并不特别，但可以完成工作。提前致谢！ 在 Google Play 上免费下载    由   提交  /u/techray88   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fjd34c/im_looking_for_honest_feedback_on_my_ad_supported/</guid>
+      <pubDate>Tue, 17 Sep 2024 22:35:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的开源算法交易平台已经超过1000颗星了！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fjclu6/my_opensource_algorithmic_trading_platform/</link>
+      <description><![CDATA[        提交人    /u/NextgenAITrading   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fjclu6/my_opensource_algorithmic_trading_platform/</guid>
+      <pubDate>Tue, 17 Sep 2024 22:15:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>查看我的副项目：邮件清扫器 – 保持收件箱整洁有序！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fjcll8/check_out_my_side_project_mail_sweeper_keep_your/</link>
+      <description><![CDATA[大家好！ 我一直在做一个名为 Mail Sweeper 的副项目，这是我为整理收件箱而进行的自动化项目的结果。我的收件箱曾经有数万封电子邮件，现在收件箱中只有几百封电子邮件。这是一个免费的 Gmail 插件，可帮助您自动过滤和清理收件箱，这样您就可以专注于重要的事情，而不会被不需要的电子邮件淹没。 如果您是一个努力保持收件箱井井有条的人，这可能是您的完美工具。您可以在 Google Workspace Marketplace 此处查看它。 很乐意听到任何反馈或建议！感谢您的关注😊 生产力 #SideProject #Gmail #InboxZero #MailSweeper    由   提交  /u/Alarming-Regular-378   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fjcll8/check_out_my_side_project_mail_sweeper_keep_your/</guid>
+      <pubDate>Tue, 17 Sep 2024 22:14:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>AInterview | 利用人工智能模拟你的求职面试</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fjcjm9/ainterview_simulate_your_job_interview_using_the/</link>
+      <description><![CDATA[大家好！ AInterview | 利用人工智能的力量模拟你的工作面试 在当代就业市场中，准备面试的过程可能会带来重大挑战。AInterview 旨在通过利用生成式人工智能的功能彻底改变你的面试准备。 我们先进的 SaaS 平台提供与目标组织的人力资源代表进行实际面试的模拟。AInterview 利用先进的人工智能算法，根据特定的职位描述、公司的位置和你的资历水平生成定制的对话场景。这种量身定制的方法可确保您的练习课程具有针对性并反映真实的面试条件。 除了模拟面试外，AInterview 还会在每次课程后提供全面的反馈。这种建设性的分析将帮助您确定优势和需要改进的领域，从而增强您的信心和对未来面试的准备。 我们的订阅模式提供了与 LinkedIn Premium 类似的灵活性，允许按月订阅，并可选择随时取消 - 可能是在获得您想要的职位之后。 我们邀请您加入 AInterview，朝着完善您的面试技巧迈出决定性的一步。让我们一起将面试体验转变为更易于管理且更有价值的努力。 任何反馈都将不胜感激！:) 谢谢！！！    提交人    /u/MusicianOk8495   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fjcjm9/ainterview_simulate_your_job_interview_using_the/</guid>
+      <pubDate>Tue, 17 Sep 2024 22:12:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>试试我建造的这个东西吗？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fjbmcq/try_this_thing_i_built/</link>
+      <description><![CDATA[真的只是想看看它是否会坏掉。  这是您与之发短信的私人教练。您所要做的就是在此处输入您的电话号码：www.joinfitz.com 如果您有时间，非常希望得到任何反馈！    提交人    /u/Logos1616   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fjbmcq/try_this_thing_i_built/</guid>
+      <pubDate>Tue, 17 Sep 2024 21:35:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>🐕 找狗很难，学习如何照顾它们也很有挑战性。有很多很棒的书，但没有像这些书一样的网站。我创建了这个网站来模仿一些最好的书，使用来自多个来源的信息。看看 https://postpuppies.com/</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fjb9sa/finding_a_dog_is_hard_and_learning_about_their/</link>
+      <description><![CDATA[        提交人    /u/Rough_Resolve_8798   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fjb9sa/finding_a_dog_is_hard_and_learning_about_their/</guid>
+      <pubDate>Tue, 17 Sep 2024 21:21:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>上周末构建了 RoboGenie，旨在“通过永久运行的个人 AI 代理获取任何更新信息”</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fjb84b/built_robogenie_last_weekend_to_get_updates_about/</link>
+      <description><![CDATA[它允许您设置定期任务，其中 LLM 将控制 Web 浏览器来收集您要求的信息，并决定是否通过电子邮件向您发送更新以及何时重新安排。它非常适合以下事情：  每天早上检查下雨并提醒我带伞 每周检查 Taylor Swift 是否在附近演出 每天早上通过电子邮件向我发送有关主要选举候选人的 Polymarket 机会 当预测 Alta 在下周会有很多粉状物时通知我  尝试一下：https://robogenie.io/  演示视频： https://reddit.com/link/1fjb84b/video/sm1uk05zrfpd1/player    提交人    /u/tsrk   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fjb84b/built_robogenie_last_weekend_to_get_updates_about/</guid>
+      <pubDate>Tue, 17 Sep 2024 21:19:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>我为一家月收入超过 6 万美元的公司制作了这则广告。我成功了吗？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fjb71o/i_made_this_ad_for_a_company_making_60k_a_month/</link>
       <description><![CDATA[        提交人    /u/FrontNo253   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fjb1l2/i_quit_working_2_jobs_to_do_this_heres_an_ad_i/</guid>
-      <pubDate>Tue, 17 Sep 2024 21:12:48 GMT</pubDate>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fjb71o/i_made_this_ad_for_a_company_making_60k_a_month/</guid>
+      <pubDate>Tue, 17 Sep 2024 21:18:41 GMT</pubDate>
     </item>
     <item>
       <title>我买了一个新域名，只是为了让我的候补名单网址看起来好看</title>
@@ -25,90 +109,6 @@
       <description><![CDATA[       由    /u/fantsfumping  提交  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1fjarj9/after_working_250_hours_last_summer_on_a_free/</guid>
       <pubDate>Tue, 17 Sep 2024 21:01:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个专为物理、数学、工程专业学生设计的科学计算器（网址：pionium.app）</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fjafmo/i_made_a_scientific_calculator_designed_for/</link>
-      <description><![CDATA[        提交人    /u/Ok_Help9178   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fjafmo/i_made_a_scientific_calculator_designed_for/</guid>
-      <pubDate>Tue, 17 Sep 2024 20:48:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一份时事通讯，帮助早期创业者获得像我一样的关注</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fja7om/i_made_a_newsletter_to_help_earlystage_founders/</link>
-      <description><![CDATA[大家好！ 去年，我至少有 5 个副项目失败了。我可以编写代码并创建漂亮的 UI，但我在营销和分销方面很糟糕，这可能是刚开始时最大的问题。 所以我开始写一份时事通讯，Ramen Road，专注于为新项目获得早期关注的策略。 我们的想法是探索 可操作的 其他创始人的策略来分发、营销和发展项目。我将在自己的项目中尝试它，看看是否真的能得到结果。 我们的第一期深入探讨了 tiny.host 的创始人如何利用 SEO 在短短 12 个月内将 MRR 增长到 20,000 美元以上。我们涵盖了以下方面的实用技巧：  使用反向链接解决冷启动问题 智能关键字研究，快速取胜 创建一致、高质量的内容  如果您正在从事一个副项目并正在寻找可行的增长策略，我希望您查看一下：https://ramenroad.beehiiv.com/ pd：有一个部分我会重点介绍很酷的项目，所以请与我分享您的创业公司 :)    提交人    /u/cjo_dev   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fja7om/i_made_a_newsletter_to_help_earlystage_founders/</guid>
-      <pubDate>Tue, 17 Sep 2024 20:40:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>SaaS 的 UserAttribution：您如何追踪有机内容和收入？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fj9t4o/userattribution_for_saas_how_are_you_tracking/</link>
-      <description><![CDATA[我并不是来推销任何东西的——我只是想弄清楚其他人是如何处理 SaaS 的跟踪的，尤其是在有机内容和将其与实际收入联系起来方面。 我遇到了这个问题，Google Analytics 为我提供了汇总数据，但它并没有将这些点连接起来，向我展示哪些渠道或特定的博客文章实际上在推动收入。我希望更深入地了解，比如将它连接到 Stripe，这样我就能准确地看到哪些来源吸引了付费客户，而不仅仅是访客。 此外，如果我努力写博客文章，我想知道哪些文章实际上在推动收入，而不仅仅是流量。对于我开发的任何增长工具，例如免费计算器或小工具，我都在尝试跟踪哪些用户来自这些来源，并找出谁是我最有价值的用户以及他们来自哪里。 我正在开发一个名为 UserAttribution.com 的工具，它可以完成部分工作，并且我已经让几家公司对其进行了测试，但我很想听听其他人是如何实现这一点的。  您只是使用 Google Analytics，还是还有其他工具可以实现更好的粒度？ 这种跟踪是您关心的吗，还是只是“锦上添花”？ 对您来说，设置归因最烦人或最昂贵的部分是什么？  我正在尝试从现有的内容中学习，看看是否有更好的这样做的方法——或者如果对其他人来说这不像对我来说那么重要。任何反馈或见解都值得赞赏！ 谢谢！    提交人    /u/andrewpierno   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fj9t4o/userattribution_for_saas_how_are_you_tracking/</guid>
-      <pubDate>Tue, 17 Sep 2024 20:24:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>我构建了 [仍处于测试阶段] 来管理复杂、多步骤的 AI 提示，以便其他人可以轻松共享、运行和重新混合它们。寻找早期“测试版”用户的技巧是什么？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fj9riq/i_built_still_in_beta_to_manage_complex_multistep/</link>
-      <description><![CDATA[我正在构建一个基于 Web 的平台来保存、组织和共享聊天 GPT 提示 - 专注于用于软件/应用程序开发的多步骤提示（但实际上任何东西）。我知道以前已经做过了，但希望我可以添加足够多的功能以最终脱颖而出，例如 - 在市场上销售自定义提示的能力、API，以便第三方开发人员可以集成和构建应用程序/集成，轻松导出到代码编辑工具，如 Cursor、Zed 和 Replit 等。甚至可能是 GitHub 集成，以及在 VM 中运行提示并将生成的输出导出到 GitHub 或可下载的 zip 文件（类似于 Replit）的能力。我们拭目以待…… 我只是一名开发人员；对营销或宣传一无所知。但我希望找到几个早期采用者，他们可以试用并指导我他们希望看到的功能等方面的正确方向。 r/SideProject 有什么建议吗？你是如何获得前 10 位用户的？    提交人    /u/CEO-TendiesTrading   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fj9riq/i_built_still_in_beta_to_manage_complex_multistep/</guid>
-      <pubDate>Tue, 17 Sep 2024 20:22:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了 ScrollHub，这样你就可以在 0.1 秒内启动一个网站，无需注册</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fj9k3h/i_built_scrollhub_so_you_can_launch_a_website_in/</link>
-      <description><![CDATA[        由    /u/breck 提交   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fj9k3h/i_built_scrollhub_so_you_can_launch_a_website_in/</guid>
-      <pubDate>Tue, 17 Sep 2024 20:14:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>为我的自定义播客生成器制作了一个有趣的小广告，我认为它表达出了要点。请告诉我你的想法。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fj9j9k/made_a_fun_little_ad_for_my_custom_podcast/</link>
-      <description><![CDATA[        提交者    /u/gaieges   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fj9j9k/made_a_fun_little_ad_for_my_custom_podcast/</guid>
-      <pubDate>Tue, 17 Sep 2024 20:14:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google 地图列表最糟糕，所以我创建了一个更好的列表，名为 North。希望得到反馈</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fj98nj/google_maps_lists_are_the_worst_so_i_built/</link>
-      <description><![CDATA[大家好！分享我和几个朋友刚刚发布的一款新应用 North（网站App Store）。 我们打造 North 的目的是让它成为您最喜爱的地方的 Pokédex。轻松保存、（私下）评论和整理您的地点，从咖啡店到餐厅再到酒店。获得好友可信的推荐、协作处理列表并轻松与他人分享您的推荐。 主要特点：  🔎 通过快速简便的搜索在几秒钟内保存地点 🗺️ 在地图上查看您的地点，使用标签、过滤器、类别等进行组织 🥰 记录地点的（私人）评分，并为食物、氛围、服务等添加子评分 👯‍♀️ 关注好友，在他们将地点添加到列表中时发现新景点 🌐 将任何列表变成漂亮的在线地图，与好友（或全世界）分享！  如果您愿意尝试并分享任何和所有反馈，我将非常高兴 - 它是 100％免费的。    提交人    /u/Primary_Bison_9802   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fj98nj/google_maps_lists_are_the_worst_so_i_built/</guid>
-      <pubDate>Tue, 17 Sep 2024 20:02:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个 Chrome 扩展程序，它允许你使用播放控件以画中画模式观看视频</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fj95dk/i_made_a_chrome_extension_which_allows_you_to/</link>
-      <description><![CDATA[SuperPiP 是一款 Chrome 扩展程序，可让您使用播放控件以画中画模式观看视频。只要将鼠标悬停在 PiP 窗口上，您就会看到播放控件。因此，您可以快进、快退、控制音量等，而无需返回原始选项卡。如果您使用 Youtube、Netflix 或 Disney+，还可以看到字幕。 查看：https://chromewebstore.google.com/detail/super-pip-picture-in-pict/jjjpjmbnbdjhbkclajpagjkefefnednl   由    /u/Edward2000N  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fj95dk/i_made_a_chrome_extension_which_allows_you_to/</guid>
-      <pubDate>Tue, 17 Sep 2024 19:59:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>通过 AI 约会助手，每日活跃用户增长到 1,000 多人。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fj931f/growing_to_1000_daily_active_users_with_an_ai/</link>
-      <description><![CDATA[一年前，我和朋友开发了一款应用，旨在帮助我们俩找到女朋友，令人惊讶的是，它真的有效。 · 第一个月，我们只有 8 个用户，仅此而已。与此同时，我们的运营费用不断增加。 · 第二个月，我们获得了一些流量和关注，但仍然只有 30 个左右的用户，而且我们的流失率很高。 · 在接下来的 4 个月里，我们开始在 TikTok 和 Instagram 上发布内容。我们精心编辑的视频吸引了更多用户，达到了 200 人左右。 · 目前，得益于一些增长黑客，大约有 1,000 名用户正在积极使用我们的应用。    提交人    /u/No-Calligrapher-1365   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fj931f/growing_to_1000_daily_active_users_with_an_ai/</guid>
-      <pubDate>Tue, 17 Sep 2024 19:56:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了这款非常简单的智能计时器应用程序来组织你的学习课程并提高注意力</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fj8hu6/i_created_this_dead_simple_smart_timers_app_to/</link>
-      <description><![CDATA[       由    /u/TheGurf  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fj8hu6/i_created_this_dead_simple_smart_timers_app_to/</guid>
-      <pubDate>Tue, 17 Sep 2024 19:33:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>欢迎来到 PunchHub.ai – 您的终极单口喜剧中心！🎤😂</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fj7zu8/welcome_to_punchhubai_your_ultimate_standup/</link>
-      <description><![CDATA[嘿 r/SideProject ， 我很高兴介绍 PunchHub.ai，一个关于单口喜剧的平台！无论您是新人还是长期粉丝，我们都构建了 PunchHub.ai，让您可以非常轻松地发现喜剧演员、他们的风格、笑话和表演。 什么 PunchHub.ai 提供：  喜剧演员目录：按流派、姓名或位置查找喜剧演员。如果您不确定要看谁的节目，我们的目录将帮助您了解每位喜剧演员的风格，这样您就可以根据自己的幽默感来搭配他们。 幽默见解：按流派、类型或喜剧演员搜索笑话——无论您的心情如何，总有值得一笑的地方！  我们还在成长，希望得到您的反馈！有什么您想看到的功能吗？对改善用户体验有什么想法吗？让我们知道！ 查看PunchHub.ai并与我们分享您的想法。谢谢！    提交人    /u/cydanixllc   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fj7zu8/welcome_to_punchhubai_your_ultimate_standup/</guid>
-      <pubDate>Tue, 17 Sep 2024 19:14:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>上传截图，我们就会告诉你这是否是骗局。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fj7c72/upload_a_screenshot_and_well_tell_you_if_its_a/</link>
-      <description><![CDATA[  由    /u/siddiqbakr  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fj7c72/upload_a_screenshot_and_well_tell_you_if_its_a/</guid>
-      <pubDate>Tue, 17 Sep 2024 18:49:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
