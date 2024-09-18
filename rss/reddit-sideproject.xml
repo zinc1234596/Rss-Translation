@@ -4,7 +4,70 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Wed, 18 Sep 2024 09:16:19 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Sep 2024 12:28:13 GMT</lastBuildDate>
+    <item>
+      <title>嘿，有人在学习 Web Dev（React）并想尝试我们的 Studykit（游戏加编码挑战）吗？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fjr6om/hey_anyone_learning_web_devreact_and_wants_to_try/</link>
+      <description><![CDATA[您可以在此处的游戏下 ReactStudyKit 查看我们的编码游戏  如果您查看了我们的 React StudyKit，请告诉我。我可以带您了解一些功能并听取您的想法 加入我们的 Discord，并在添加新游戏/挑战和学习资源时收到通知 您还可以学习 React 并与经验丰富的开发人员交谈 在评论中告诉我您的想法以及您是否遇到任何问题    提交人    /u/danjack0   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fjr6om/hey_anyone_learning_web_devreact_and_wants_to_try/</guid>
+      <pubDate>Wed, 18 Sep 2024 12:08:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>Trello/Jira 替代品</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fjqqb2/trellojira_replacement/</link>
+      <description><![CDATA[带着我的副项目的第二次迭代回来了。非常感谢上次收到的所有反馈。 现在，我正在考虑构建一个项目管理 AI 来替代 Trello/Jira 等。这些工具令人讨厌的部分实际上是保持任务的更新。相反，如果 AI 可以自动创建任务、更新状态和完成任务会怎样呢？这就是目标。我确实认为这仍然有助于解决日常站立问题，或者至少使其变得更好。 理想情况下，您甚至不需要直接与 AI 交互，它可以解析来自您的聊天、github 等的信息。让我知道你对这个想法的想法。提前谢谢！https://www.heyfrosti.com    提交人    /u/Phil611   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fjqqb2/trellojira_replacement/</guid>
+      <pubDate>Wed, 18 Sep 2024 11:44:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了 chumy.io，这是一款将日历混乱变得井然有序的工具。只需输入，无需点击！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fjqq6e/i_built_chumyio_a_tool_to_turn_calendar_chaos/</link>
+      <description><![CDATA[    /u/Tsallamsayin   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fjqq6e/i_built_chumyio_a_tool_to_turn_calendar_chaos/</guid>
+      <pubDate>Wed, 18 Sep 2024 11:43:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>面临冲突？心怀怨恨？我创造了一种不寻常的东西，但却是一种可以帮助你理清思绪的治疗方法。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fjq024/facing_conflicts_holding_grudges_i_created/</link>
+      <description><![CDATA[      https://preview.redd.it/7heis0p8ujpd1.jpg?width=1914&amp;format=pjpg&amp;auto=webp&amp;s=65c80fd3d4381b37870e334cb2c069940a1459af 我们都有过这样的经历——感觉自己被困在一团糟的冲突中，心怀怨恨，不会消失。你知道那些让你彻夜难眠的想法吗？愤怒、沮丧、不断重复“如果我这样说会怎么样？” 我也经历过，我厌倦了被这一切压得喘不过气来。所以，我决定创造一些不同的东西，一些不仅能让你发泄而且能帮助你获得清晰​​的东西。这就像是有目的的日记，旨在帮助你追踪你的冲突、反思，甚至解决困扰你的问题。 如果你曾经想组织那些复杂的情绪，关注那些冤枉你的人，并弄清楚你在这一切中的立场——这是为你准备的。 注册抢先体验 – https://getwaitlist.com/waitlist/20478 完全离线应用。PIN 保护 并且 无需登录 / 用户信息。    提交人    /u/nitesh_agarwal_1995   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fjq024/facing_conflicts_holding_grudges_i_created/</guid>
+      <pubDate>Wed, 18 Sep 2024 11:00:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>从 Icons8 下载优质图标</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fjpy9a/download_premium_icons_from_icons8/</link>
+      <description><![CDATA[我经常需要图标来完成学校项目，但免费选项根本不够用，而且我也负担不起高级图标的每月订阅费用。因此，我创建了一个从 icons8.com 下载图标的工具，并带有内置颜色编辑器来解决这个问题。我在这里与有同样情况的人分享它。 请负责任地使用此工具，因为未经许可下载高级图标被视为盗版。对于商业项目，请订阅其适当的许可模式。 另请注意，该网站是使用 Streamlit 快速开发的，因此它不是完全响应的，并且在桌面浏览器上运行最佳。这是我的网站链接： https://www.ichromic.com/    提交人    /u/indexwards   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fjpy9a/download_premium_icons_from_icons8/</guid>
+      <pubDate>Wed, 18 Sep 2024 10:57:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>为您和您的团队保存代码片段</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fjplqs/save_code_snippets_for_you_and_your_team/</link>
+      <description><![CDATA[        由    /u/ryanjgled  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fjplqs/save_code_snippets_for_you_and_your_team/</guid>
+      <pubDate>Wed, 18 Sep 2024 10:34:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了一个工具，可以让 ChatGPT 访问互联网！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fjp58y/i_created_a_tool_that_gives_chatgpt_access_to_the/</link>
+      <description><![CDATA[        由    /u/Traolach21  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fjp58y/i_created_a_tool_that_gives_chatgpt_access_to_the/</guid>
+      <pubDate>Wed, 18 Sep 2024 10:03:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>推出 GetEstimate.ai – 一款基于人工智能的项目估算工具 🚀</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fjp2qw/launched_getestimateai_an_aipowered_tool_for/</link>
+      <description><![CDATA[嘿👋 经过数月的开发，我很高兴地宣布推出GetEstimate.ai，这是一个利用人工智能帮助开发人员、项目经理和企业家快速创建准确项目成本估算的平台。无论您计划的是软件项目、活动，甚至是营销活动，GetEstimate.ai 都可以在几秒钟内生成详细的估算。 主要特点：  多种项目类型：支持 IT 开发、建筑、平面设计、营销等！ 即时 AI 估算：无需猜测 - 快速获得准确估算。 根据您的需求量身定制的计划：自由职业者、专业人士和企业可以通过不同的定价模型找到合适的方案。 用户友好界面：简洁的用户界面，易于使用。 与 Slack 连接  我为什么要构建它： 作为一个在项目管理方面拥有丰富经验的人头疼，我想要一个可以简化估算流程的工具，使规划和预算各种规模的项目变得更容易。 GetEstimate.ai 解决了这个问题，并帮助像我这样的人更多地关注执行而不是文书工作。 请随时查看并告诉我您的想法！ 👉 www.getestimate.ai 感谢您的时间，并祝您估算愉快！🙌    提交人    /u/Candid-Potato-2197   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fjp2qw/launched_getestimateai_an_aipowered_tool_for/</guid>
+      <pubDate>Wed, 18 Sep 2024 09:59:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>EGGY Pro：适用于 iOS 的终极智能鸡蛋计时器 - 寻求反馈！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fjos8e/eggy_pro_the_ultimate_smart_egg_timer_for_ios/</link>
+      <description><![CDATA[  由    /u/nocturnal4nimal  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fjos8e/eggy_pro_the_ultimate_smart_egg_timer_for_ios/</guid>
+      <pubDate>Wed, 18 Sep 2024 09:36:48 GMT</pubDate>
+    </item>
     <item>
       <title>您是否发现着陆页上的介绍视频有用？</title>
       <link>https://www.reddit.com/r/SideProject/comments/1fjoafn/do_you_find_introductory_videos_on_landing_pages/</link>
@@ -46,69 +109,6 @@
       <description><![CDATA[我很好奇这里的开发人员如何分发他们的 macOS 应用程序。您更喜欢使用 Mac App Store，还是选择其他分发方法，例如直接下载或第三方平台？您在选择分发方法时遇到了哪些优缺点？我正在考虑开发一款 macOS 应用程序，很想听听您对这两种方法的体验！    提交人    /u/LieSuspicious8719   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1fjn5ou/do_you_distribute_your_macos_app_via_the_app/</guid>
       <pubDate>Wed, 18 Sep 2024 07:30:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>我为我的产品制作了一个有趣的视频（它是一种名为 Wispr Flow 的语音听写工具）</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fjmud5/i_made_a_fun_video_for_my_product_its_a_voice/</link>
-      <description><![CDATA[    /u/Seraphine_Snappy 提交   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fjmud5/i_made_a_fun_video_for_my_product_its_a_voice/</guid>
-      <pubDate>Wed, 18 Sep 2024 07:05:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>制作了一款受 VictrisGames HAPPY JUMPY 启发的物理游戏 链接：https://play.google.com/store/apps/details?id=linc.game.jumpy</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fjmg36/made_a_physics_game_inspired_by_victrisgames/</link>
-      <description><![CDATA[        由    /u/a-maz-ing   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fjmg36/made_a_physics_game_inspired_by_victrisgames/</guid>
-      <pubDate>Wed, 18 Sep 2024 06:38:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>上周末我制作了最佳免费 URL 缩短器！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fjm94v/i_made_best_free_url_shortener_past_weekend/</link>
-      <description><![CDATA[🚀 推出 100% 最佳免费 URL 缩短器！🔗 我很高兴分享我的最新创作，并希望得到您的反馈和支持！这就是它很棒的原因：  无限 URL 缩短：无需登录或注册。立即缩短您的链接！ 实时点击报告：缩短 URL 后，直接在收件箱中获取详细见解。 到期警报：系统会在链接到期前提醒您，以便您轻松续订。 灵活的 15 天使用期限：每个 URL 持续 15 天，即使到期后您也可以续订！  尝试一下，让我知道您的想法！欢迎提出建设性的反馈和批评。最终将在报告方面提供更多内容！    提交人    /u/RecognitionStrong109   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fjm94v/i_made_best_free_url_shortener_past_weekend/</guid>
-      <pubDate>Wed, 18 Sep 2024 06:24:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>您如何更好地有机地吸引更多客户？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fjm4rs/whats_your_best_advice_to_reach_more_customers/</link>
-      <description><![CDATA[我正在构建一个 SaaS 应用程序，该应用程序增长缓慢，到目前为止，我们得到了良好的用户反馈。在这里向其他企业家学习技巧😊    提交人    /u/theoriginalng   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fjm4rs/whats_your_best_advice_to_reach_more_customers/</guid>
-      <pubDate>Wed, 18 Sep 2024 06:15:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>我建立了一个开源表单后端。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fjlr60/i_built_an_opensource_form_backend/</link>
-      <description><![CDATA[        提交人    /u/OiaOrca   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fjlr60/i_built_an_opensource_form_backend/</guid>
-      <pubDate>Wed, 18 Sep 2024 05:49:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>为印度青少年和好奇心强的人建立一个自学平台——好主意吗？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fjlhcm/building_a_selflearning_platform_for_teens/</link>
-      <description><![CDATA[大家好， 我们正在开发一个专为印度青少年和好奇心强的人设计的新型自学平台。目标是创建一个简单而强大的空间，用户可以在其中独立探索知识并与本地和全球社区建立联系。 您认为这是一个好主意吗？您希望在这样的平台上看到哪些功能或工具？ 希望听到您的反馈！    提交人    /u/Kaushik_568   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fjlhcm/building_a_selflearning_platform_for_teens/</guid>
-      <pubDate>Wed, 18 Sep 2024 05:31:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>努力发展我的背景去除工具 - 需要建议！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fjle3h/struggling_to_grow_my_background_removal_tool/</link>
-      <description><![CDATA[      我注意到 remove.bg 的表现不太好，所以我决定创建自己的工具。结果比市场上的任何其他产品都要好得多，正如您在该图中所看到的：  https://preview.redd.it/jf1s2reu5ipd1.jpg?width=900&amp;format=pjpg&amp;auto=webp&amp;s=29a5e69f47d64814bd55a3a853aef399e7dc77ba 我在社交媒体上的朋友真的印象深刻，我从推荐中赚了 1,000 美元。不幸的是，没有任何自然流量，我的收入陷入了 0 美元的停滞状态。 最近，我分享了一张截图，一位用户使用我的软件删除了 40,000 个背景，又带来了 1,000 美元的收入。 从那时起，我的收入又枯竭了。 https://preview.redd.it/11cnxhzx5ipd1.png?width=1669&amp;format=png&amp;auto=webp&amp;s=e087f85ba99dbdcc74c1a4cf0b703df9c6496864 我最近才意识到我需要有机流量，但是像remove.bg这样的大公司已经主导了关键词，我没有机会。 有人有什么建议吗？我目前失业了，感觉很焦虑。 这是我的网站：https://www.tinyeraser.com/en    提交人    /u/Extreme-Guest1300   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fjle3h/struggling_to_grow_my_background_removal_tool/</guid>
-      <pubDate>Wed, 18 Sep 2024 05:25:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>为印度建立知识共享平台——好主意吗？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fjldiz/building_a_knowledgesharing_platform_for_india/</link>
-      <description><![CDATA[大家好， 我们正在开发一款专为印度设计的新知识共享应用程序。目标是创建一个简单但功能强大的平台，用户可以在其中分享想法和知识，与本地和全球受众建立联系。 您觉得怎么样——这是一个好主意吗？有什么功能或工具是您希望看到的吗？ 非常感谢您提供反馈！    提交人    /u/Kaushik_568   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fjldiz/building_a_knowledgesharing_platform_for_india/</guid>
-      <pubDate>Wed, 18 Sep 2024 05:24:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>好吧，我一生中从未编写过代码，并创建了这个 YouTube 转录工具来解决我自己的 Cursor 问题。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fjkn7n/okay_so_i_never_coded_in_my_entire_life_and/</link>
-      <description><![CDATA[大家试试这个工具吧，我觉得它真的很有用。我并不想要任何反馈，只是很高兴我创造了一些我一直想做的事情，而且现在的工具允许像我这样的人创造东西，而不仅仅是一个有想法的人。 这是项目：https://yttranscripttool.com    由   提交 /u/Muted_Elk_8570   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fjkn7n/okay_so_i_never_coded_in_my_entire_life_and/</guid>
-      <pubDate>Wed, 18 Sep 2024 04:38:57 GMT</pubDate>
     </item>
     </channel>
 </rss>
