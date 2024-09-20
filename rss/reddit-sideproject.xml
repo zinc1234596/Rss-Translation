@@ -4,20 +4,90 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Thu, 19 Sep 2024 21:13:38 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Sep 2024 01:06:37 GMT</lastBuildDate>
+    <item>
+      <title>我为自己构建了一个生产力工具 - time.fyi</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fl00wi/i_built_a_productivity_tool_for_myself_timefyi/</link>
+      <description><![CDATA[大家好！ 我一直在使用多种工具来管理时区、跟踪生产力和安排日程（每种工具都有自己的特点和高级订阅）。我一直想要一个可以帮我完成所有工作的极简工具。由于找不到，我决定自己开发一个。 过去 6 个月，我一直在开发、亲自使用并不断改进 time.fyi。我终于对它感到满意了，所以我决定发布它供其他人使用。它目前有 6 个应用程序：个人和团队使用的时区、番茄工作法、每日计划器、世界时钟、计时器和秒表。日程安排链接和时间跟踪器（适用于自由职业者或生产力跟踪）正在开发中，即将推出。 我非常高兴与全世界分享它。请尝试一下，然后告诉我您的想法！ 谢谢！    提交人    /u/kamranahmed_se   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fl00wi/i_built_a_productivity_tool_for_myself_timefyi/</guid>
+      <pubDate>Fri, 20 Sep 2024 00:58:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>介绍 Qruil：彻底改变我们求职的方式。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fkzh4l/introducing_qruil_revolutionizing_how_we_apply/</link>
+      <description><![CDATA[        由    /u/StageEasy6483   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fkzh4l/introducing_qruil_revolutionizing_how_we_apply/</guid>
+      <pubDate>Fri, 20 Sep 2024 00:30:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>OUTGO——CLI 自我开发应用程序</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fkz8j6/outgo_a_cli_self_development_app/</link>
+      <description><![CDATA[我想在今晚学习 Go 并在 3 小时内做点什么作为挑战。 所以这里有 OutGO——一个自我开发的 CLI 工具，你可以在其中列出优质资源并跟踪你的进度。 https://github.com/AtillaColak/outgo 请投一颗星，测试它，并让我知道你们的想法（如果你想一起改进它，请给我发私信）。 干杯， Atilla     提交人    /u/AttilaTheHappyHun   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fkz8j6/outgo_a_cli_self_development_app/</guid>
+      <pubDate>Fri, 20 Sep 2024 00:17:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>刚刚完成扩展，以从尽可能多的网站中删除 AI 集成。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fkym5k/just_finished_making_an_extension_to_remove_ai/</link>
+      <description><![CDATA[        提交人    /u/amorehumandev   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fkym5k/just_finished_making_an_extension_to_remove_ai/</guid>
+      <pubDate>Thu, 19 Sep 2024 23:46:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能免费工具可根据职位描述创建定制简历</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fkyh4e/ai_free_tool_to_create_resume_tailored_on_job/</link>
+      <description><![CDATA[Resume_Builder_AIHawk：一款源于经验的软件 在厌倦了收到人力资源经理的拒绝后，我决定创建Resume_Builder_AIHawk，这是一个 Python 工具，旨在简化创建具有视觉吸引力和针对性的简历的过程。 功能：  交互式命令行界面：通过简单直观的界面轻松浏览选项。 动态样式管理：从各种预定义样式中进行选择，以符合您的偏好。 职位描述集成：根据职位列表 URL 自动自定义您的简历，确保其与所需的技能和资格完全一致。  为什么要使用 Resume_Builder_AIHawk？  节省时间：快速生成针对特定职位描述的简历。 增加您的机会：符合职位要求的简历可以大大提高您获得面试机会的机会。 用户友好：旨在使简历构建过程变得简单易行。  网页设计师的机会 网页设计师可以通过使用自定义 CSS 样式增强简历模板的视觉吸引力来做出贡献。贡献指南可在此处获得。 要了解更多信息或开始使用 Resume_Builder_AIHawk，请访问GitHub 存储库。 欢迎提供反馈和问题！    提交人    /u/AIHawk_Founder   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fkyh4e/ai_free_tool_to_create_resume_tailored_on_job/</guid>
+      <pubDate>Thu, 19 Sep 2024 23:40:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>了解如何使用 AI 构建登陆页面</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fky8w0/learn_how_to_build_a_landing_page_with_ai/</link>
+      <description><![CDATA[        提交人    /u/GuillaumeBrdet   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fky8w0/learn_how_to_build_a_landing_page_with_ai/</guid>
+      <pubDate>Thu, 19 Sep 2024 23:28:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>PodSummarizer - 将播客摘要发送到您的收件箱</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fkx02b/podsummarizer_get_podcast_summaries_sent_to_your/</link>
+      <description><![CDATA[嘿 r/SideProject！我制作了 PodSummarizer，这是一款简单的工具，可将您喜欢的播客的快速摘要直接发送到您的收件箱。只需订阅您喜欢的节目，该应用将处理其余工作 - 自动转录和总结新剧集。它非常适合那些想随时了解最新动态但没有时间收听每一集的人。在这里查看并告诉我你的想法！https://www.podsummarizer.com    提交人    /u/j-r-b   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fkx02b/podsummarizer_get_podcast_summaries_sent_to_your/</guid>
+      <pubDate>Thu, 19 Sep 2024 22:28:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Iris：现代新闻阅读体验</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fkwe79/iris_a_modern_news_reading_experience/</link>
+      <description><![CDATA[大家好！ 我们一直在开发 Iris，这是一个将社交媒体与新闻阅读相结合的新平台。它通过将有意义的社交互动与高度可定制的新闻提要相结合，提供了一种与新闻互动的全新方式。 与其他平台不同，Iris 不含填充内容和机器人，并致力于打击虚假信息。它旨在让您通过可自定义的过滤器完全控制您的提要，让您可以根据自己的兴趣策划您看到的内容。您还可以通过查看其他人的过滤器来探索他们如何组织他们的提要，从而提供一种发现文章和主题的独特方式。 我们即将推出，希望您对此想法提供反馈！您希望看到哪些功能？您目前如何保持知情？让我们讨论一下！ 谢谢！    提交人    /u/IrisNews   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fkwe79/iris_a_modern_news_reading_experience/</guid>
+      <pubDate>Thu, 19 Sep 2024 22:00:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>Spotify 播放列表制作应用程序：TuneWizard</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fkw687/spotify_playlist_making_app_tunewizard/</link>
+      <description><![CDATA[我刚刚在 iOS 上发布了我的第一个应用程序，名为 TuneWizard！它允许您使用文本、表情符号或图像创建自定义播放列表，然后您可以将这些播放列表直接添加到您的 Spotify！ 我非常感谢任何反馈/建议。谢谢！ 对于那些好奇的人来说，这是使用 FlutterFlow（在 gpt-4o 的大量帮助下）和 Firebase（函数、firestore、存储和 auth）构建的。 https://reddit.com/link/1fkw687/video/997kghy27upd1/player 在 iOS 应用商店下载     提交人    /u/TuneWizard   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fkw687/spotify_playlist_making_app_tunewizard/</guid>
+      <pubDate>Thu, 19 Sep 2024 21:50:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>没人会看广告，除非广告写得好</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fkw2l3/nobody_reads_ads_except_when_theyre_well_written/</link>
+      <description><![CDATA[       由    /u/kervokian  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fkw2l3/nobody_reads_ads_except_when_theyre_well_written/</guid>
+      <pubDate>Thu, 19 Sep 2024 21:46:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>character.ai 的开源替代品</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fkw1sd/open_source_alternative_to_characterai/</link>
+      <description><![CDATA[大家好，我创建了一个开源的 character.ai 替代品，因为我厌倦了他们的过滤器 使用 openrouter.ai 进行模型推理 仍处于早期阶段，但只是想分享：opencharacter.org 您可以从头开始创建角色（本质上是修改系统提示），甚至可以根据人们的 Twitter 个人资料创建角色（但此 Twitter 服务不稳定） 代码：https://github.com/bobcoi03/opencharacter（尚未添加文档） 让我知道您的想法！计划添加更多模型和更多自定义，例如 topK、temp 和模板等，这样您就可以复制并粘贴 c.ai 提示，其中包含 {{char}} 和 {{user}。 我已经添加了一些来自 c.ai 的流行模型    提交人    /u/bopcoi03   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fkw1sd/open_source_alternative_to_characterai/</guid>
+      <pubDate>Thu, 19 Sep 2024 21:45:09 GMT</pubDate>
+    </item>
     <item>
       <title>揭开 Cismela.com 的面纱：您的孩子名字选择伴侣！</title>
       <link>https://www.reddit.com/r/SideProject/comments/1fkv3op/unveiling_cismelacom_your_child_name_selection/</link>
       <description><![CDATA[        提交人    /u/silgon3200   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1fkv3op/unveiling_cismelacom_your_child_name_selection/</guid>
       <pubDate>Thu, 19 Sep 2024 21:04:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>这是对 Stash 的初步了解，Stash 是一个以新方式与数据交互的平台。从源集合中提取指定字段是我们最需要的功能。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fkuyzd/this_is_an_early_look_at_stash_a_platform_for/</link>
-      <description><![CDATA[        提交人    /u/Synyster328   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fkuyzd/this_is_an_early_look_at_stash_a_platform_for/</guid>
-      <pubDate>Thu, 19 Sep 2024 20:59:00 GMT</pubDate>
     </item>
     <item>
       <title>评价我的想法：帮助初创企业和企业家验证他们的想法、进行 PMF 和业务规划的平台</title>
@@ -39,76 +109,6 @@
       <description><![CDATA[我最近访问了冰岛，由于冰岛没有大型连锁酒店，所以我通过各种平台进行了预订。 我通过冰岛航空预订了航班 直接通过酒店预订酒店。 通过蓝色汽车租赁租车 通过谷歌搜索（如fridheimar）查找餐厅 然后我想到，如果有一个应用程序可以让我在一个地方获得端到端的行程。我找不到一个可以完成所有这些工作的应用程序，所以我打算做一个。想和你们核实一下，你们是否认为这个有市场。 冰岛将是一个完美的用例，因为这里没有大型连锁酒店。请使用投票来帮助我 非常感谢    提交人    /u/TurnMotor3873   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1fktt1q/travel_inspired/</guid>
       <pubDate>Thu, 19 Sep 2024 20:11:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>开始产品化设计和网站开发服务！有什么想法吗？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fksq1s/starting_a_productized_design_web_development/</link>
-      <description><![CDATA[      https://preview.redd.it/dmw0vg94dtpd1.png?width=4320&amp;format=png&amp;auto=webp&amp;s=6b1c3c431966a315906cef746abc4b8c1b215c91    提交人    /u/Competitive_Safe7546   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fksq1s/starting_a_productized_design_web_development/</guid>
-      <pubDate>Thu, 19 Sep 2024 19:01:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>(earthsearch.ai) 我创建了一个交互式地球仪，可以提供有关地球上任何位置的信息。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fksoqz/earthsearchai_i_created_an_interactive_globe_that/</link>
-      <description><![CDATA[earthsearch.ai 我创建了一个交互式地球仪，利用 OpenAI API 获取语言模型结果，利用 YouTube API 获取视频内容，提供有关地球上任何位置的信息。  非常感谢您提供任何关于如何发展网站的反馈或建议！我在社交媒体上没有大量粉丝，也没有与观众建立联系的手段，因此不知道从哪里开始。    提交人    /u/underscored11   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fksoqz/earthsearchai_i_created_an_interactive_globe_that/</guid>
-      <pubDate>Thu, 19 Sep 2024 18:59:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>我在工作中从未获得过认可，所以我建立了一个员工识别机器人</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fksfw0/never_got_recognition_in_my_workplace_so_i_have/</link>
-      <description><![CDATA[多年来，我通过加班、帮忙和推动项目进展来尽最大努力工作。但无论我做出多少贡献，我的努力都没有得到重视。认可并不是我寻求的认可，但偶尔听到一句“谢谢”会很好。 这种挫败感促使我创建了RecognitionBot。这是一个简单的开源 Slack 机器人，可让公司轻松认可员工。不再有被忽视的成就或被遗忘的努力——现在，经理和同事可以立即给予有意义的称赞。 有了RecognitionBot，培养积极和欣赏的工作文化从未如此简单。每个人都应该感到被重视，这个工具确保没有贡献被忽视。它免费、简单，专为关心员工的公司打造。    提交人    /u/Charming_You_8285   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fksfw0/never_got_recognition_in_my_workplace_so_i_have/</guid>
-      <pubDate>Thu, 19 Sep 2024 18:49:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们花了很大一部分利润来购买一个 .com 域名</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fksfug/we_spent_a_big_chunk_of_our_profits_on_acquiring/</link>
-      <description><![CDATA[因此，今年 2 月份，我们推出了 SpendCrypto (.io) 的公开测试版。经过一个月的竞争研究，我们列出了可以在一个月内推出的最低限度功能。 我们的目标受众是通过加密货币赚钱的人。我们提供一种简单的套现方式并以此为生。我们尚未投放任何广告/活动。 一些胜利：  60％的用户回来再次下单 7％的独立用户登陆后转化为注册 用户坚持使用我们是因为我们有更好的支持（就像他们在电子邮件中告诉我们的那样） 最大的竞争对手在我们推出几个月后使用我们的名字创建了一个登陆  最近，我们花了 8900 美元收购了spendcrypto（.com） 我们将其推迟到我们从产品本身赚取足够的收入。另外，我们不确定这是否会成为我们的主要产品。开始时主要是作为一个横向项目。但它终于完成了，出于某种原因，这让我对未来感到非常兴奋和信心。    提交人    /u/gitstatus   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fksfug/we_spent_a_big_chunk_of_our_profits_on_acquiring/</guid>
-      <pubDate>Thu, 19 Sep 2024 18:49:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI 图书作家！？！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fks55b/ai_book_writer/</link>
-      <description><![CDATA[我是一位家长，我花了很多钱给孩子买书。我想，为什么不制作一款可以让人们自己写书的应用程序呢，尤其是考虑到现在很多故事写作、编辑和插图都可以自动化了。 这主要针对想要自己做书的人，而不是专业作家。 很想听听您的意见和反馈！    提交人    /u/fairdinkumawesome   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fks55b/ai_book_writer/</guid>
-      <pubDate>Thu, 19 Sep 2024 18:36:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>为您提供 SaaS LinkedIn 营销（免费）</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fks511/saas_linkedin_marketing_done_for_you_free/</link>
-      <description><![CDATA[大家好，我需要 20 份来自计划在 LinkedIn 上构建内容的 SaaS 创始人的推荐信。 我为 SaaS 创始人担任个人品牌经理。刚开始的时候，我从来没有要求过推荐信，现在要求推荐信感觉很奇怪。我知道很多人伪造推荐信，我想避免这种情况。 作为在我的 LinkedIn 个人资料上提供推荐信的交换，我愿意免费撰写 7 天的内容并提供 30 天的内容创意。标准很简单：您需要是 SaaS 创始人。 这是完全免费的。如果有人感兴趣，请通过 LinkedIn 与我联系 https://www.linkedin.com/in/mohit-vishwakarma/    提交人    /u/Mohit-Vishwakarma   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fks511/saas_linkedin_marketing_done_for_you_free/</guid>
-      <pubDate>Thu, 19 Sep 2024 18:36:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个日托中心市场</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fks4je/i_made_a_marketplace_for_daycares/</link>
-      <description><![CDATA[https://zukeepr.com/ 嘿 Reddit！ 👋 我很高兴与大家分享 ZuKeepr，这是一个我一直在开发的 SaaS 平台，旨在简化父母和日托提供者的儿童保育管理。 ZuKeepr 有什么用？ 对于父母来说，它可以帮助您轻松搜索、申请多个日托提供者并处理付款 - 所有这些都在一个地方完成。 对于日托提供者来说，它简化了管理候补名单、处理注册和设置费用等任务，同时让一切井井有条。 为什么选择 ZuKeepr？ 照顾孩子已经够让人紧张了，所以我们想创建一个工具，让您轻松找到保育和管理日托。无论您是父母还是提供者，ZuKeepr 都可以帮助双方有效地联系和沟通。   由    /u/ZuKeeprChildcare  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fks4je/i_made_a_marketplace_for_daycares/</guid>
-      <pubDate>Thu, 19 Sep 2024 18:35:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Python 制作了一个小型自动搜索器，用于搜索 Microsoft Edge 每日奖励。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fkroij/made_a_small_auto_searcher_in_python_for/</link>
-      <description><![CDATA[最近我了解到，每次您在 Edge 中搜索查询时，Microsoft Edge 都会给予一些积分，每天最多可搜索 10 次查询。所以我为它编写了一个小型 Python 脚本。您只需运行该脚本，根据需要提供选项，它就会在您的 Edge 浏览器中进行搜索。 我知道这不是什么大问题，但我还是想分享一下。 GITHUB 链接 欢迎贡献和批评。    提交人    /u/Ok-Animal4141   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fkroij/made_a_small_auto_searcher_in_python_for/</guid>
-      <pubDate>Thu, 19 Sep 2024 18:16:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了 Duolingo 来绘画</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fkrcei/i_built_duolingo_for_drawing/</link>
-      <description><![CDATA[      几个月来我一直在研究 Timed Sketch，现在我终于感觉自己已经开发出了核心功能。 我已经在 App Store 上下载了在过去的 2 个月中，我总共获得了 42 次下载（7-8 次是我的朋友）。虽然不是很多，但这些指标让我对构建时应优先考虑的事情有了一些早期迹象。 我即将进入下一阶段，进行一些初步营销以获得反馈和迭代。做营销方面的事情让我有点焦虑，但我还是来了。 它仅在 iOS App Store 中可用：https://apps.apple.com/us/app/timed-sketch/id6538714895 你的想法是什么？    提交人    /u/anthonywilliams24   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fkrcei/i_built_duolingo_for_drawing/</guid>
-      <pubDate>Thu, 19 Sep 2024 18:02:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>我建立了一个一体化的项目理念 + ab 测试 + 分析 + 电子邮件捕获平台，它还不完善，但我需要反馈。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fkqgwj/i_built_a_allinone_project_idea_ab_testing/</link>
-      <description><![CDATA[所以我正在构建 storyteller.so，原因是每次我想测试一个想法时，我都需要建立一个网站，添加谷歌分析，通过某些服务或自己添加电子邮件捕获，然后我想要进行 AB 测试，我必须把所有这些东西都整合在一起。正确设置谷歌分析需要花费大量时间，总的来说，我需要花费大量时间才能让我想要的一切正常运行。 所以我构建了 storyteller，它让你可以用一个非常有限的编辑器发布你的项目/想法，这里的想法是不要浪费你的时间建立一个完整的网站，把你的想法发布出去。它让你可以对不同的版本进行 AB 测试，并为你提供电子邮件捕获、反馈和分析，而无需配置任何内容。 这就是目标/意图。名称和编辑器的有限范围实际上是为了让你讲述“一个故事”而不是试图把它变成一个销售宣传。这就是我定制“电梯游说”模块的原因。 我很乐意听取关于这个概念、编辑器体验（我知道现在很糟糕）、分析（如果它们有用）以及如何使其真正有用方面的反馈。 我确实打算在某个时候货币化，但我需要先让它变得有用。 我最终的目标是让你在主页上展示你的项目，我计划让你为你的项目筹集资金（通过小额捐款）。 但首先，我需要这个应用程序不要太糟糕。你们觉得呢？ 要直接尝试应用程序，只需注册 https://app.storyteller.so ，让我知道入职情况。 这实际上是迭代 0 - 第一次公开印象。     由    /u/IAmRules 提交   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fkqgwj/i_built_a_allinone_project_idea_ab_testing/</guid>
-      <pubDate>Thu, 19 Sep 2024 17:26:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
