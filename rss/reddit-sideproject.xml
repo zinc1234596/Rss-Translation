@@ -4,7 +4,84 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Fri, 20 Sep 2024 12:28:22 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Sep 2024 15:15:27 GMT</lastBuildDate>
+    <item>
+      <title>我制作这个工具来告诉我如何清理</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fle6jw/i_made_this_tool_to_tell_me_how_to_clean_up/</link>
+      <description><![CDATA[      这很简单。拍下任何房间的照片，发霉的垃圾，水损坏的墙壁，随便什么都可以。它会分解你必须做的所有事情。为您创建任务，您可以将它们分配给其他人等。下一步是分享到 iPhone 上的提醒和其他内容。 非常感谢反馈！在 CleanAI (cleanhomeai.com) 上试用它 https://preview.redd.it/qcj8u5xkbzpd1.png?width=1805&amp;format=png&amp;auto=webp&amp;s=05266180eb6b1d4f0080224ef105e44f25fcfaba    提交人    /u/Rotatos   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fle6jw/i_made_this_tool_to_tell_me_how_to_clean_up/</guid>
+      <pubDate>Fri, 20 Sep 2024 15:03:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>Claude + Cursor 很棒，不到 3 小时就发布了一个 chrome 扩展程序。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fle2so/claude_cursor_is_amazing_published_a_chrome/</link>
+      <description><![CDATA[2 天前，我通过一条推文想到了一个主意，我着手创建它并在推特上实时发布。  天哪，我能够在三个小时内创建并发布它，请注意，我不是开发人员，而是设计师。  我对未来充满希望。让我们成为超级通才吧。    提交人    /u/Either-Anything-4117   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fle2so/claude_cursor_is_amazing_published_a_chrome/</guid>
+      <pubDate>Fri, 20 Sep 2024 14:59:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一款可以在所有聊天应用中提供诙谐回复建议的应用！（甚至是 Reddit）✨</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fldpj4/i_made_an_app_that_gives_witty_reply_suggestions/</link>
+      <description><![CDATA[    /u/livetodaytho   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fldpj4/i_made_an_app_that_gives_witty_reply_suggestions/</guid>
+      <pubDate>Fri, 20 Sep 2024 14:43:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>全力投入我的 AI LinkedIn Lead Gen SaaS</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fldknr/went_allin_on_my_ai_linkedin_lead_gen_saas/</link>
+      <description><![CDATA[大家好！ 几个月前，在一家小型初创公司担任开发人员后，我决定投身独立黑客和创业。我只能说，事情进展得并不像我希望的那么顺利！ 我的第一次尝试是创办一家超级实惠的开发机构——真的便宜。但事与愿违。人们认为这是一个骗局，因为价格低廉，而且需求不大。 失败了几个星期后，我的资金快用完了，不得不想出点什么办法——不管是什么办法——来重回正轨。就在那时，我想到了自动化 LinkedIn 潜在客户生成的想法。当我尝试启动开发代理机构时，我花了很多时间手动寻找人员并发送个性化消息，所以我想，管他呢，为什么不构建一个工具来帮我做这件事呢？ 开发过程具有挑战性，特别是因为这是我第一次使用 AI，但经过大约 3 个月的专注努力，我终于完成并推出了该工具！ 我很想收到你们的一些真诚的反馈。我为您提供了 7 天的免费试用期，您可以随时取消。 https://linkedpal.io/ 提前谢谢您，希望您觉得它有用！干杯！    提交人    /u/yingoland   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fldknr/went_allin_on_my_ai_linkedin_lead_gen_saas/</guid>
+      <pubDate>Fri, 20 Sep 2024 14:37:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能艺术二维码生成器</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fld8cb/ai_art_qr_code_generator/</link>
+      <description><![CDATA[      大家好！ 我构建了一个 AI Art QR Code 生成器。目前它在网页上可用，而应用程序功能正在由 Google 审核中。 https://preview.redd.it/8mid1hfm3zpd1.png?width=3152&amp;format=png&amp;auto=webp&amp;s=7f86a67f45538844c1ade85c36289bb8e6f99ab6 我注意到很多 AI QR 生成器并没有真正提供照片级真实感，大多是卡通风格的。我使用特定的模型来制作像这些一样很酷的代码！ https://preview.redd.it/tcm38kus3zpd1.png?width=3152&amp;format=png&amp;auto=webp&amp;s=52b3318e80164aabaa90866cfeb684995817698e 但该模型是多功能的；你可以要求一种特定的风格，比如动漫： https://preview.redd.it/5h7zxypw3zpd1.png?width=3152&amp;format=png&amp;auto=webp&amp;s=2dec4d081e96fa081414700c47b6b16dd1c974a3 或者 3D： https://preview.redd.it/1q9no4lz3zpd1.png?width=3152&amp;format=png&amp;auto=webp&amp;s=ec9883347aafbc854a95f20eba955ed755c40dc6 说实话，玩这个对我来说很有趣。我很想看看你们创造了什么！ 注册即可获得免费积分！ www.lockchain.ca/ai  欢迎任何反馈！    由    /u/gregnomis 提交   [link] [comments] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fld8cb/ai_art_qr_code_generator/</guid>
+      <pubDate>Fri, 20 Sep 2024 14:22:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们在 3 年内将我们的 AI SaaS 推向了数百万 ARR 和 1000 多万用户。以下是我们实现这一目标的方法。AMA！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1flcxh0/we_bootstrapped_our_ai_saas_to_multimillion_arr/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1flcxh0/we_bootstrapped_our_ai_saas_to_multimillion_arr/</guid>
+      <pubDate>Fri, 20 Sep 2024 14:09:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>如果可以的话，你的待办事项清单上的哪项任务你最想交给别人去做？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1flcoy4/whats_that_task_on_your_todo_list_that_youd_love/</link>
+      <description><![CDATA[  由    /u/ducdeswin  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1flcoy4/whats_that_task_on_your_todo_list_that_youd_love/</guid>
+      <pubDate>Fri, 20 Sep 2024 13:59:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 CUDA 并行生成牛顿分形</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1flcnbs/generate_newton_fractals_in_parallel_with_cuda/</link>
+      <description><![CDATA[        提交人    /u/la023   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1flcnbs/generate_newton_fractals_in_parallel_with_cuda/</guid>
+      <pubDate>Fri, 20 Sep 2024 13:57:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>我厌倦了在发薪水前几天银行账户里总是没有钱，所以我制作了一个简单的每日预算应用程序</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1flcepw/i_was_tired_of_always_having_no_money_in_my_bank/</link>
+      <description><![CDATA[我厌倦了月光族的生活，总是在拿到薪水前的最后几天苦苦挣扎。我的主要问题是我有预算，在拿到薪水的最初几天，我会看看我是否可以购买一些东西，然后立即购买。我想到的解决方案是一个非常简单的应用程序，它为您提供每日支出限额，我可以将其花在任何我想花的东西上。  这让我添加了储蓄目标，我可以从每日限额中转账并尝试存钱购买更大的物品。 我自己已经使用该应用程序 1 个月了，这是很长一段时间以来我第一次在收到新薪水时实际上还剩下近 10% 的薪水。 关于应用程序：图片：https://imgur.com/a/V24NF0t 该应用程序是使用 Laravel 在 PHP 中构建的渐进式 Web 应用程序。为了将应用程序保存到您的 iPhone，您可以访问 URL（https://budget.henricjohansson.se），然后单击共享，然后单击添加到主屏幕。我还没有在 Android 上尝试过，但我认为它是类似的东西。 该应用程序将永远免费，我希望它能帮助比我更多的人。 很高兴收到反馈！    提交人    /u/Kekke88   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1flcepw/i_was_tired_of_always_having_no_money_in_my_bank/</guid>
+      <pubDate>Fri, 20 Sep 2024 13:46:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>碎片化股票追踪应用程序 - 完全免费且活跃</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1flbxou/fragmented_stock_trace_app_fully_free_and_alive/</link>
+      <description><![CDATA[      我一直在研究一种中期股市策略，我称之为“Fragmented Trace”，专为那些希望在市场低迷期间降低成本的投资者而设计。该策略涉及在部分下跌期间分阶段买入，并将每次购买视为一个单独的头寸。然后在市场上涨时单独出售这些头寸。 为了补充该策略并使跟踪更容易，我开发了一个钱包跟踪工具。它会自动跟踪这些交错的买卖，报告每个头寸，并根据实时市场情况可视化最佳退出点。  工具预览：  https://preview.redd.it/5b66hiyttypd1.png?width=1239&amp;format=png&amp;auto=webp&amp;s=8b231a00e6e5d3f85127728702ef5a473f7eb9a2 https://stocktrace.akatron.net    由   提交  /u/Ranorkk   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1flbxou/fragmented_stock_trace_app_fully_free_and_alive/</guid>
+      <pubDate>Fri, 20 Sep 2024 13:24:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>该死！我想我刚刚躲过了网站购买骗局</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1flbjsk/damn_i_think_i_just_dodged_a_website_buying_scam/</link>
+      <description><![CDATA[警惕该网站诈骗企图。 几天前，有人通过 SideProjectors 与我联系，表示有兴趣购买我的网站。他让我继续在 Telegram 上聊天，我照做了。一开始一切似乎都很正常——讨论网站、其功能和潜在价格。 我提到我不确定价格，但提出了 15,000 美元作为起点。令人惊讶的是，他没有立即谈判并同意，并坚持使用比特币，尽管我解释说在我的国家，加密货币的税额很高，他需要支付额外的税款。  他一直坚持用比特币（BTC）支付，这对我来说没问题，因为我熟悉加密货币。 但危险信号开始出现：  不谈判：他没有尝试协商价格，即使我额外加了税。这感觉不对劲，因为认真的买家通常会试图得到更好的交易。 拒绝视频通话：我问他我们是否可以进行 Zoom 通话以讨论更多细节。他拒绝了，说他更喜欢异步通信，不会进行视频通话。 没有社交媒体存在：当我要求他的 LinkedIn 或 Twitter 帐户以更好地了解他时，他声称不使用社交媒体。这进一步加深了我的怀疑。 可疑交易所：几天后，他发来一张截图，说他的 BTC 交易失败，并要求我在一个名为 ndabit.com 的平台上创建一个帐户，这是一个非常新且鲜为人知的交易所。我注册了，但从未收到确认电子邮件，当他们要求提供 KYC 文件（包括护照）时，感觉很可疑。  此时，我停止了交易。除非他使用合法交易所或将 BTC 直接发送到我的钱包，否则我拒绝继续交易。如果他真的感兴趣，他应该不会对此有异议。 整个事情感觉就像一个精心策划的骗局，尤其是向未知交易所发起攻击并要求提供个人身份证明。如果有人向您提出类似提议，请务必小心！    提交人    /u/Normal_Toe5346   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1flbjsk/damn_i_think_i_just_dodged_a_website_buying_scam/</guid>
+      <pubDate>Fri, 20 Sep 2024 13:06:12 GMT</pubDate>
+    </item>
     <item>
       <title>Wavelength：在远程团队会议中玩的在线游戏（链接见评论）</title>
       <link>https://www.reddit.com/r/SideProject/comments/1flaem0/wavelength_online_game_to_play_in_remote_team/</link>
@@ -27,88 +104,11 @@
       <pubDate>Fri, 20 Sep 2024 12:01:06 GMT</pubDate>
     </item>
     <item>
-      <title>简短而甜蜜：如果用户在没有我先发送响应请求的情况下自行联系我，我一定做对了...而且我有点自豪😊</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fl9rsm/short_and_sweet_if_a_user_reaches_out_on_their/</link>
-      <description><![CDATA[        由    /u/aronprins 提交   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fl9rsm/short_and_sweet_if_a_user_reaches_out_on_their/</guid>
-      <pubDate>Fri, 20 Sep 2024 11:32:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个模板来帮助独立开发者发布他们的产品</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fl9jic/i_made_a_template_to_help_indie_devs_launch_their/</link>
-      <description><![CDATA[        由    /u/PeanutButte7 提交   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fl9jic/i_made_a_template_to_help_indie_devs_launch_their/</guid>
-      <pubDate>Fri, 20 Sep 2024 11:19:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一款应用程序，帮助像我这样的词曲作者克服写作障碍 🎵</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fl9fib/i_made_an_app_for_songwriters_like_myself_to_beat/</link>
-      <description><![CDATA[      您可以执行以下操作：  在 YouTube 和 SoundCloud 上搜索 根据您的输入获取建议 查找押韵词和相关词 通过 URL 导入音频 通过定时会话挑战自己  iOS 上的 Lyrist：https://lyrist.app/ios Android 上的 Lyrist：https://lyrist.app/android App Store 截图    提交人    /u/peytspencer   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fl9fib/i_made_an_app_for_songwriters_like_myself_to_beat/</guid>
-      <pubDate>Fri, 20 Sep 2024 11:12:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>我为自己构建了一个免费的、私人的转录工具 - transcriptionfree.com</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fl8yl0/i_built_a_free_private_transcription_tool_for/</link>
-      <description><![CDATA[大家好！ 我尝试过无数的转录工具，但总是遇到问题 — 无论是隐藏费用、强制注册还是复杂的界面。我只想要一个简单、免费且私密的工具。由于找不到满足我需求的工具，我决定自己构建它！ 构建它很有趣，（显然使用了一些 huggingface 代码）它完全免费，可以直接在您的浏览器中运行，因此无需注册，没有隐藏费用，也不必将您的数据发送到第三方服务器。您的转录保持私密。 它非常适合 10 分钟内的音频或视频，但对于较长的文件，速度可能会稍慢一些。您可以下载带有时间戳的转录内容以方便参考，这对我来说是一个改变游戏规则的工具。 我发现的所有其他工具都需要注册或额外的麻烦才能完成，但我想要一些超级简单直接的东西，这就是我构建的。 我真的很高兴与大家分享它 - 请尝试一下并让我知道您的想法！ 谢谢！    提交人    /u/Brilliant-Advance-57   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fl8yl0/i_built_a_free_private_transcription_tool_for/</guid>
-      <pubDate>Fri, 20 Sep 2024 10:42:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的可变二维码平台用户突破2k了！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fl8utl/my_changeable_qr_code_platform_crossed_2k_users/</link>
-      <description><![CDATA[我的二维码项目 Novu.Link 已拥有 2,000 名用户！这是一个平台，可让您制作单个动态二维码，稍后可以根据您选择的规则重定向到许多目的地。 基本上，它是一个简单的 Web 应用程序，您可以在其中创建单个 URL 二维码，但有一个不同之处：该单个链接可以根据您设置的规则重定向到多个目的地。 到目前为止，人们主要使用付费功能按时间和星期几（星期几）重定向、跟踪扫描率分析以及添加自定义设计。我还有一些使用规则随机重定向到广告的功能；他们在外卖包装上贴有二维码，并通过该二维码进行广告宣传。 我最初为一家当地餐馆构建了 Novu.Link，该餐馆需要一个神奇的单一二维码，根据一天中的时间和个人语言偏好重定向到他们的早餐和午餐菜单，但我想其他人也可以从中受益。    提交人    /u/mwargan   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fl8utl/my_changeable_qr_code_platform_crossed_2k_users/</guid>
-      <pubDate>Fri, 20 Sep 2024 10:35:41 GMT</pubDate>
-    </item>
-    <item>
       <title>Chrome 扩展程序检测 WordPress 插件 – 寻求社区反馈！</title>
       <link>https://www.reddit.com/r/SideProject/comments/1fl8qf3/chrome_extension_to_detect_wordpress_plugins/</link>
       <description><![CDATA[      大家好，我正在做一个项目，希望得到一些 WordPress 用户的反馈！ 我正在开发一个 Chrome 扩展程序，它可以让你检测你访问的任何网站上正在使用哪些 WordPress 插件。我个人认为，当我遇到具有强大功能的网站并想知道他们正在使用哪些插件时，这将非常有用。我想其他人可能会有同样的感受，所以我开始构建它！ 在上线之前，我想听听你的想法：  你会使用这样的工具吗？ 你认为哪些功能最有用（例如，插件版本、插件链接等）？ 你使用过什么工具可以做类似的事情吗？  我很乐意听到你的反馈和建议，以确保我正在构建一些有用的东西！ 附注：如果你对此感兴趣，我在网站上设置了一个简单的等待列表，以便在准备就绪时让人们了解情况。没压力，但如果你好奇的话，我会随时向你通报。 https://preview.redd.it/qymplob9yxpd1.png?width=3348&amp;format=png&amp;auto=webp&amp;s=d46502169b057d945542ebf938df0694d787d323    提交人    /u/Fickle-Scarcity-9653   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1fl8qf3/chrome_extension_to_detect_wordpress_plugins/</guid>
       <pubDate>Fri, 20 Sep 2024 10:26:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>我构建了一个网络安全 AI 工具</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fl8cr7/i_build_a_cybersecurity_ai_tool/</link>
-      <description><![CDATA[我建立了 secai.ai，它可以：  利用人工智能和 VT 及 greynoise 等顶级情报数据源，研究 IP/域名/url 等 IOC，以获得判决和分析见解。 聊天获取 IOC/漏洞/黑客组织的深入分析报告。     提交人    /u/MotorSilly7262   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fl8cr7/i_build_a_cybersecurity_ai_tool/</guid>
-      <pubDate>Fri, 20 Sep 2024 10:00:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>我构建了一个比 Winston、Pino 和 CloudWatch 更好的替代方案，用于在 Node.js 中登录</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fl7s1a/i_built_a_better_alternative_to_winston_pino_and/</link>
-      <description><![CDATA[我开发了一种比 Winston、Pino 和 CloudWatch 更好的替代方案，用于在 Node.js 中记录日志。以下是它更好的原因： 1.) Winston 和 Pino 仅捕获自定义日志，而不是标准控制台日志，此外，它们不提供用于查看日志的仪表板，这迫使您依赖 CloudWatch 等第三方服务。 2.) CloudWatch 虽然有用，但也有几个缺点。它是一项付费服务​​，而 Errsole 是开源且免费的。CloudWatch 还会影响您的 Node.js 应用程序的性能，与 Errsole 相比，它的设置更为复杂，Errsole 只需要在您的项目中添加两行代码。此外，在 CloudWatch 中设置严重错误警报非常繁琐，而且您仍然无法通过电子邮件通知获得错误上下文。另一方面，Errsole 提供了一个内置仪表板，您可以在其中查看、搜索和过滤日志。它还会通过 Slack 或电子邮件发送警报，包括错误上下文和日志的直接链接。此外，它设置起来非常简单，即使是初级开发人员也可以管理它。  Errsole 具有比这些更多的功能，并且它是 FOSS（免费开源软件）     提交人    /u/Rishi-Errsole   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fl7s1a/i_built_a_better_alternative_to_winston_pino_and/</guid>
-      <pubDate>Fri, 20 Sep 2024 09:16:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>我正在推出我的第一个 SaaS</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fl7ml5/i_am_launching_my_first_ever_saas/</link>
-      <description><![CDATA[大家好！过去近两个月来，我一直在为我的第一家创业公司工作！😁 我创建了https://runspark.org来帮助像我这样难以坚持锻炼的人。我意识到，只要有一点鼓舞人心的话语就能让我改变主意，并说服我参加训练课程🏃🏼 如果您有任何问题或想法，请在下方发表评论，我很乐意回复 :) 如果https://runspark.org听起来很有趣，请使用代码“LAUNCH25”免费试用 3 个月😃 谢谢！    提交人    /u/CodeWavee   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fl7ml5/i_am_launching_my_first_ever_saas/</guid>
-      <pubDate>Fri, 20 Sep 2024 09:04:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>浏览器中的打字机</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fl73il/typewriter_in_the_browser/</link>
-      <description><![CDATA[        提交人    /u/gray4444   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fl73il/typewriter_in_the_browser/</guid>
-      <pubDate>Fri, 20 Sep 2024 08:23:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>为所有 SaaS 制造商提供免费目录。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fl70ty/free_directory_for_all_saas_makers/</link>
-      <description><![CDATA[大家好！我见过很多专注于产品的 SaaS 目录，但我还没有真正遇到过任何突出产品背后人员的内容。我认为与同一领域的其他人建立联系并相互学习是很棒的。无论您是开发人员、设计师、营销人员还是全能型人员，此目录均免费供您使用。 让我们联系起来！    提交人    /u/Any_Perspective_291   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fl70ty/free_directory_for_all_saas_makers/</guid>
-      <pubDate>Fri, 20 Sep 2024 08:17:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>上周我通过我的 SaaS 帮助一些应用程序开发人员挽救了约 3000 美元的收入损失。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fl6t93/i_help_some_app_developers_saved_3000_in_revenue/</link>
-      <description><![CDATA[我对此非常满意。这个微型 SaaS 只是我的业余项目。 上周，我提到了我的软件，一个 SaaS，在某个 subreddit 中。有人在使用它，在上周，仅仅一周时间，它就帮助这些人节省了约 3000 美元的潜在收入损失。我对此非常满意，甚至比我自己赚钱还要开心！！  这表明我的产品是有效的，并且真正能够帮助人们。赚钱确实具有挑战性，我可以证明这一点。如果我能对大家有所帮助，我会很高兴。 https://reddit.com/link/1fl6t93/video/n7d8yo5h7xpd1/player 如果您通过构建 iOS 应用赚钱，它也可能会有所帮助。    提交人    /u/ricky0603   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fl6t93/i_help_some_app_developers_saved_3000_in_revenue/</guid>
-      <pubDate>Fri, 20 Sep 2024 08:00:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
