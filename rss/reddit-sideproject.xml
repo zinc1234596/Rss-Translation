@@ -4,7 +4,63 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Fri, 20 Sep 2024 06:20:26 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Sep 2024 09:18:37 GMT</lastBuildDate>
+    <item>
+      <title>我构建了一个比 Winston、Pino 和 CloudWatch 更好的替代方案，用于在 Node.js 中登录</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fl7s1a/i_built_a_better_alternative_to_winston_pino_and/</link>
+      <description><![CDATA[我开发了一种比 Winston、Pino 和 CloudWatch 更好的替代方案，用于在 Node.js 中记录日志。以下是它更好的原因： 1.) Winston 和 Pino 仅捕获自定义日志，而不是标准控制台日志，此外，它们不提供用于查看日志的仪表板，这迫使您依赖 CloudWatch 等第三方服务。 2.) CloudWatch 虽然有用，但也有几个缺点。它是一项付费服务​​，而 Errsole 是开源且免费的。CloudWatch 还会影响您的 Node.js 应用程序的性能，与 Errsole 相比，它的设置更为复杂，Errsole 只需要在您的项目中添加两行代码。此外，在 CloudWatch 中设置严重错误警报非常繁琐，而且您仍然无法通过电子邮件通知获得错误上下文。另一方面，Errsole 提供了一个内置仪表板，您可以在其中查看、搜索和过滤日志。它还会通过 Slack 或电子邮件发送警报，包括错误上下文和日志的直接链接。此外，它设置起来非常简单，即使是初级开发人员也可以管理它。  Errsole 具有比这些更多的功能，并且它是 FOSS（免费开源软件）     提交人    /u/Rishi-Errsole   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fl7s1a/i_built_a_better_alternative_to_winston_pino_and/</guid>
+      <pubDate>Fri, 20 Sep 2024 09:16:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>我正在推出我的第一个 SaaS</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fl7ml5/i_am_launching_my_first_ever_saas/</link>
+      <description><![CDATA[大家好！过去近两个月来，我一直在为我的第一家创业公司工作！😁 我创建了https://runspark.org来帮助像我这样难以坚持锻炼的人。我意识到，只要有一点鼓舞人心的话语就能让我改变主意，并说服我参加训练课程🏃🏼 如果您有任何问题或想法，请在下面发表评论，我很乐意回复 :) 如果https://runspark.org听起来很有趣，请使用代码“LAUNCH25”免费试用 3 个月😃 谢谢！    提交人    /u/CodeWavee   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fl7ml5/i_am_launching_my_first_ever_saas/</guid>
+      <pubDate>Fri, 20 Sep 2024 09:04:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>浏览器中的打字机</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fl73il/typewriter_in_the_browser/</link>
+      <description><![CDATA[        提交人    /u/gray4444   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fl73il/typewriter_in_the_browser/</guid>
+      <pubDate>Fri, 20 Sep 2024 08:23:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>为所有 SaaS 制造商提供免费目录。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fl70ty/free_directory_for_all_saas_makers/</link>
+      <description><![CDATA[大家好！我见过很多专注于产品的 SaaS 目录，但我还没有真正遇到过任何突出产品背后人员的内容。我认为与同一领域的其他人建立联系并相互学习是很棒的。无论您是开发人员、设计师、营销人员还是全能型人员，此目录均免费供您使用。 让我们联系起来！    提交人    /u/Any_Perspective_291   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fl70ty/free_directory_for_all_saas_makers/</guid>
+      <pubDate>Fri, 20 Sep 2024 08:17:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>上周我通过我的 SaaS 帮助一些应用程序开发人员挽救了约 3000 美元的收入损失。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fl6t93/i_help_some_app_developers_saved_3000_in_revenue/</link>
+      <description><![CDATA[我对此非常满意。这个微型 SaaS 只是我的业余项目。 上周，我提到了我的软件，一个 SaaS，在某个 subreddit 中。有人在使用它，在上周，仅仅一周时间，它就帮助这些人节省了约 3000 美元的潜在收入损失。我对此非常满意，甚至比我自己赚钱还要开心！！  这表明我的产品是有效的，并且真正能够帮助人们。赚钱确实具有挑战性，我可以证明这一点。如果我能对大家有所帮助，我会很高兴。 https://reddit.com/link/1fl6t93/video/n7d8yo5h7xpd1/player 如果您通过构建 iOS 应用赚钱，它也可能会有所帮助。    提交人    /u/ricky0603   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fl6t93/i_help_some_app_developers_saved_3000_in_revenue/</guid>
+      <pubDate>Fri, 20 Sep 2024 08:00:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>实际问题：如何针对多个 subreddits 来获取产品反馈？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fl62ck/practical_question_how_do_you_target_multiple/</link>
+      <description><![CDATA[我正在推出一款非常简单的应用程序 (https://miscarriageriskcalculator.app/)，针对怀孕初期的夫妇。 在这个领域收集了 33 个子版块，总体受众规模约为 300 万。 如何在这些子版块中发布我的应用程序而不让 reddit 将我标记为垃圾邮件发送者？我其实不认为这是垃圾邮件，只是想获得尽可能多的反馈。 谢谢。    提交人    /u/Escade1337   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fl62ck/practical_question_how_do_you_target_multiple/</guid>
+      <pubDate>Fri, 20 Sep 2024 07:02:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找图书 API</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fl5jq1/looking_for_an_api_for_books/</link>
+      <description><![CDATA[嗨， 我想为我和一些朋友创建一个小型聊天工具。我们都在读或已经读过某个系列，聊天工具的目标是能够在不剧透他人的情况下讨论书籍，也不需要根据每个人当前阅读的书籍位置进行大量不同的聊天。 为此，我需要一个 API，它可以为我提供章节列表，甚至只是章节数量（我需要章节而不是页数，因为页数会根据您正在阅读的版本而变化）。然后每个人都会标记他们当前阅读的章节，并且每条消息都会与其讨论/剧透的章节相关联，从而隐藏尚未阅读相关章节的人的消息。 我找到了一些书籍 API，即 OpenLibrary 和 GoogleBooks，但都没有关于章节数量的信息。也浏览过 Hardcover 和 Goodreads，但无济于事。 有人知道这个 API 工具吗？ 提前致谢！    提交人    /u/Hydrataur   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fl5jq1/looking_for_an_api_for_books/</guid>
+      <pubDate>Fri, 20 Sep 2024 06:23:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>订阅支付系统</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fl5jcj/a_payment_system_for_subscriptions/</link>
+      <description><![CDATA[大家好，我需要一些关于我们正在研究的商业模式的反馈。  这是一家虚拟卡市场的金融科技初创公司。您可以使用专用的付款方式来控制您的订阅，以进行基于订阅的结账。您无需逐一访问每个订阅来取消或评估是否需要它等。  人们或企业希望从这个模型中看到哪些功能真正的价值     提交人    /u/thepianoist   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fl5jcj/a_payment_system_for_subscriptions/</guid>
+      <pubDate>Fri, 20 Sep 2024 06:23:10 GMT</pubDate>
+    </item>
     <item>
       <title>我的 Web3 产品达到目标了吗？🤔</title>
       <link>https://www.reddit.com/r/SideProject/comments/1fl55oy/is_my_web3_product_hitting_the_mark/</link>
@@ -53,62 +109,6 @@
       <description><![CDATA[我想找个借口测试 Cursor，在过去的几周里，我构建了一个符合我最新生产力技巧的待办事项应用程序：将您的待办事项列表限制为 3 项，每天重新启动。进入 ThreeDo。您可以根据需要将任意数量的任务添加到积压工作中，但今天最多只能有 3 个。完成这些任务后，您可以添加更多任务。查看并告诉我您的想法。     提交人    /u/thegrin   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1fl3i5c/my_latest_side_project_threedo/</guid>
       <pubDate>Fri, 20 Sep 2024 04:07:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>SaaS成本</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fl3g2s/saas_cost/</link>
-      <description><![CDATA[新手，有一些 SaaS 想法，但想知道人们不仅要支付构建费用，还要支付维护费用？中小型项目更受欢迎。    提交人    /u/PuzzleheadedCall8520   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fl3g2s/saas_cost/</guid>
-      <pubDate>Fri, 20 Sep 2024 04:04:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>你们都是全职从事项目还是兼职？有什么好的建议吗？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fl2xcs/are_you_all_working_fulltime_on_your_projects_or/</link>
-      <description><![CDATA[我最近有了一个新主意。我目前在一家互联网公司工作，有一些积蓄（足够维持我一年的生活）。根据您的经验或您周围的人的经验，我应该全职还是兼职使用该产品？&quot;    提交人    /u/SartreSHAO   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fl2xcs/are_you_all_working_fulltime_on_your_projects_or/</guid>
-      <pubDate>Fri, 20 Sep 2024 03:34:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>新 SaaS 创始人寻求简单、开箱即用的产品包装解决方案</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fl2uqy/new_saas_founder_seeking_simple_outofthebox/</link>
-      <description><![CDATA[大家好， 我是 SaaS 领域的新手，需要一些帮助。我已经开发了我的核心产品，但我在创建所有周边元素（我听说称为“包装器”）方面遇到了困难。 我搜索了这个 subreddit，发现了很多关于样板和入门套件的讨论，但我正在寻找更简单的东西。我需要一个快速简便的解决方案：  登陆页面 用户仪表板 管理面板 身份验证系统 支付集成  我不太懂技术，所以我希望找到一个可以提供这些元素而不需要太多编码知识的平台或工具。有人用过在一个包中提供所有这些的服务吗？  我研究过 Elementor 和 Wix 等网站构建器，但我不确定它们是否适合 SaaS 产品。有没有专门为 SaaS 设计的工具推荐，非开发人员也可以使用？ 提前感谢您提供的任何建议！    提交人    /u/SaaS_maker   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fl2uqy/new_saas_founder_seeking_simple_outofthebox/</guid>
-      <pubDate>Fri, 20 Sep 2024 03:30:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 AI 构建类似播客的 LLM 笔记本</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fl2ke4/building_notebookllm_like_podcasts_using_ai/</link>
-      <description><![CDATA[  由    /u/motyar  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fl2ke4/building_notebookllm_like_podcasts_using_ai/</guid>
-      <pubDate>Fri, 20 Sep 2024 03:13:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>创建 Chrome 扩展程序以帮助查找来自 Reddit 的产品推荐</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fl239k/created_a_chrome_extension_to_help_find_product/</link>
-      <description><![CDATA[大家好， 需要你们帮助测试我的 Chrome 扩展程序。希望得到你们的反馈。 我创建这个扩展程序是因为我总是在谷歌上搜索产品，然后将 reddit 添加到最后。然后我滚动找到一篇好帖子，然后在新标签页中打开，重复阅读其他 reddit 用户对产品的评价。 ReddiRecs 将获取与你搜索的产品相关的帖子及其热门评论。使用 OpenAPI 密钥，它还可以提供要寻找的品牌摘要。 有了您的帮助，知道这一点会很棒  我遗漏了什么关键信息 如果 Reddit API 真的有效…… 以及其他反馈  以下是扩展的快速操作方法。谢谢大家    提交人    /u/ThePyrohair   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fl239k/created_a_chrome_extension_to_help_find_product/</guid>
-      <pubDate>Fri, 20 Sep 2024 02:47:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们帮助用户自动删除了近一百万封不重要的电子邮件</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fl1yzv/we_helped_users_automatically_delete_just_under/</link>
-      <description><![CDATA[      今年早些时候，我为妻子开发了一款简单的应用程序，帮助她保持在免费Gmail 存储配额。  我希望她能在 2 分钟内轻松完成安装。无需复杂的设置，只需登录、回答几个问题，然后单击“安装”即可。 不到一年的时间，Mail Sweeper 的自动电子邮件清理功能已经为不到 1000 名用户删除了近一百万封电子邮件！目标是帮助 Gmail 用户避免在电子邮件“灰尘”逐年累积的情况下花钱购买额外的存储空间，并减少电子邮件的碳足迹。 随着用户群的不断增长，我们希望在第一季度末达到 200 万。    提交人    /u/andersra88   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fl1yzv/we_helped_users_automatically_delete_just_under/</guid>
-      <pubDate>Fri, 20 Sep 2024 02:41:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>我有一个用于游戏的基于知识的 discord 机器人，我该如何将其货币化？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fl1vf9/i_have_a_knowledgebased_discord_bot_for_a_game/</link>
-      <description><![CDATA[嗨！我有一个用于我正在玩的游戏的 discord 机器人，它被添加到超过 1200 个服务器中，其中一些可能不活跃，但它仍在游戏的官方 discord 上使用。你认为这可以如何货币化？我在每个命令上都有一个捐赠支持链接，但只有 2 个订阅（我非常高兴并感到很感激）。  除了这个之外，还有其他方法可以通过机器人获利吗？     提交人    /u/Puzzleheaded-Emu-168   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fl1vf9/i_have_a_knowledgebased_discord_bot_for_a_game/</guid>
-      <pubDate>Fri, 20 Sep 2024 02:36:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>我做过很多失败的项目。所以我建了一个网站来销售它们 :)</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fl1ron/i_had_a_bunch_of_failed_projects_so_i_built_a/</link>
-      <description><![CDATA[您是否有任何项目因为营销问题、成本等原因被发送到回购墓地？现在您可以在 www.swap-ify.com 上出售它们 🎉 您知道他们会说什么。一个人的 🗑️。是另一个人的 💰。    由   提交  /u/vintinx   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fl1ron/i_had_a_bunch_of_failed_projects_so_i_built_a/</guid>
-      <pubDate>Fri, 20 Sep 2024 02:30:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
