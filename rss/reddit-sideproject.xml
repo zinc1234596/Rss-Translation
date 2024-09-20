@@ -4,7 +4,70 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Fri, 20 Sep 2024 01:06:37 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Sep 2024 03:17:31 GMT</lastBuildDate>
+    <item>
+      <title>使用 AI 构建类似播客的 LLM 笔记本</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fl2ke4/building_notebookllm_like_podcasts_using_ai/</link>
+      <description><![CDATA[  由    /u/motyar  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fl2ke4/building_notebookllm_like_podcasts_using_ai/</guid>
+      <pubDate>Fri, 20 Sep 2024 03:13:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>创建 Chrome 扩展程序以帮助查找来自 Reddit 的产品推荐</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fl239k/created_a_chrome_extension_to_help_find_product/</link>
+      <description><![CDATA[大家好， 需要你们帮助测试我的 Chrome 扩展程序。希望得到你们的反馈。 我创建这个扩展程序是因为我总是在谷歌上搜索产品，然后将 reddit 添加到最后。然后我滚动找到一篇好帖子，然后在新标签页中打开，重复阅读其他 reddit 用户对产品的评价。 ReddiRecs 将获取与你搜索的产品相关的帖子及其热门评论。使用 OpenAPI 密钥，它还可以提供要寻找的品牌摘要。 有了您的帮助，知道这一点会很棒  我遗漏了什么关键信息 如果 Reddit API 真的有效…… 以及其他反馈  以下是扩展的快速操作方法。谢谢大家    提交人    /u/ThePyrohair   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fl239k/created_a_chrome_extension_to_help_find_product/</guid>
+      <pubDate>Fri, 20 Sep 2024 02:47:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们帮助用户自动删除了近一百万封不重要的电子邮件</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fl1yzv/we_helped_users_automatically_delete_just_under/</link>
+      <description><![CDATA[      今年早些时候，我为妻子开发了一款简单的应用程序，帮助她保持在免费Gmail 存储配额。  我希望她能在 2 分钟内轻松完成安装。无需复杂的设置，只需登录、回答几个问题，然后单击“安装”即可。 不到一年的时间，Mail Sweeper 的自动电子邮件清理功能已经为不到 1000 名用户删除了近一百万封电子邮件！目标是帮助 Gmail 用户避免在电子邮件“灰尘”逐年累积的情况下花钱购买额外的存储空间，并减少电子邮件的碳足迹。 随着用户群的不断增长，我们希望在第一季度末达到 200 万。    提交人    /u/andersra88   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fl1yzv/we_helped_users_automatically_delete_just_under/</guid>
+      <pubDate>Fri, 20 Sep 2024 02:41:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>我有一个用于游戏的基于知识的 discord 机器人，我该如何将其货币化？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fl1vf9/i_have_a_knowledgebased_discord_bot_for_a_game/</link>
+      <description><![CDATA[嗨！我有一个用于我正在玩的游戏的 discord 机器人，它被添加到超过 1200 个服务器中，其中一些可能不活跃，但它仍在游戏的官方 discord 上使用。你认为这可以如何货币化？我在每个命令上都有一个捐赠支持链接，但只有 2 个订阅（我非常高兴并感到很感激）。  除了这个之外，还有其他方法可以通过机器人获利吗？     提交人    /u/Puzzleheaded-Emu-168   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fl1vf9/i_have_a_knowledgebased_discord_bot_for_a_game/</guid>
+      <pubDate>Fri, 20 Sep 2024 02:36:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>我做过很多失败的项目。所以我建了一个网站来销售它们 :)</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fl1ron/i_had_a_bunch_of_failed_projects_so_i_built_a/</link>
+      <description><![CDATA[您是否有任何项目因为营销问题、成本等原因被发送到回购墓地？现在您可以在 www.swap-ify.com 上出售它们 🎉 您知道他们会说什么。一个人的 🗑️。是另一个人的 💰。    由   提交  /u/vintinx   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fl1ron/i_had_a_bunch_of_failed_projects_so_i_built_a/</guid>
+      <pubDate>Fri, 20 Sep 2024 02:30:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>这个求职板是个好主意吗？它提供一键申请。我非常感谢反馈。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fl13sv/is_this_job_board_a_good_idea_it_does_oneclick/</link>
+      <description><![CDATA[        由   提交  /u/StageEasy6483   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fl13sv/is_this_job_board_a_good_idea_it_does_oneclick/</guid>
+      <pubDate>Fri, 20 Sep 2024 01:55:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的 chrome 扩展程序获得了第一个付费用户！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fl0uwn/i_got_my_first_paid_user_for_my_chrome_extension/</link>
+      <description><![CDATA[      一个月前，我在这里分享了我的业余项目 TabDock — 一个可帮助您将工作组织到窗口中的标签管理器。 我很高兴地说我有了第一个付费用户！🥳 这是我的第一个业余项目，覆盖如此多的用户（90+），拥有一个付费用户感觉是一个巨大的里程碑。感谢所有支持、提供反馈甚至查看过它的人——这意味着很多！ 我知道这些数字并不大，但我很高兴看到 TabDock 正在慢慢成长。 链接到我的项目：https://www.tabdock.app/ 如果您有任何反馈、建议，或者只是想打个招呼，请随时联系我们 🙌 如果您有兴趣，我会留下一个视频 https://reddit.com/link/1fl0uwn/video/41q3atthbvpd1/player    提交人    /u/Int_Angel   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fl0uwn/i_got_my_first_paid_user_for_my_chrome_extension/</guid>
+      <pubDate>Fri, 20 Sep 2024 01:42:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>免费访问 SandMind 的高级功能 - 无过期代码！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fl0ioq/free_premium_access_to_sandmind_no_expiration_code/</link>
+      <description><![CDATA[      两天前，我分享了一些我的应用程序的免费高级访问代码，并且所有代码都已兑换。现在，我创建了一个没有到期日期的自定义代码，让用户有机会免费使用高级访问权限测试该应用程序。 这是新代码：S4NDM1ND 如果您希望直接重定向到应用商店兑换代码：https://app.sandmind.art/BXnUVHZ 我相信反思你的一天并深入了解你的日常情绪可以有益于我们的心理健康，帮助我们保持对模式的了解并识别它们。 请试用该应用并分享您的反馈！🙌🏼谢谢！    提交人    /u/cocolisojon   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fl0ioq/free_premium_access_to_sandmind_no_expiration_code/</guid>
+      <pubDate>Fri, 20 Sep 2024 01:24:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>这是个好主意吗？一个可以自行托管您自己的电子邮件营销工具的工具？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fl0dqx/is_this_a_good_idea_a_tool_to_self_host_your_own/</link>
+      <description><![CDATA[      大家好，我正在开发一种工具，可以让人们基本上自行托管他们自己的电子邮件营销工具。我很乐意收到任何正面或负面的反馈，以帮助我在构建内容时正确获取我的登录页面！ https://preview.redd.it/s2zejgm38vpd1.png?width=1844&amp;format=png&amp;auto=webp&amp;s=daef85ce1648edb3ae3f64c5b7b34c55ce1fe548    提交人    /u/Embarrassed-Hair1438   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fl0dqx/is_this_a_good_idea_a_tool_to_self_host_your_own/</guid>
+      <pubDate>Fri, 20 Sep 2024 01:16:45 GMT</pubDate>
+    </item>
     <item>
       <title>我为自己构建了一个生产力工具 - time.fyi</title>
       <link>https://www.reddit.com/r/SideProject/comments/1fl00wi/i_built_a_productivity_tool_for_myself_timefyi/</link>
@@ -46,69 +109,6 @@
       <description><![CDATA[        提交人    /u/GuillaumeBrdet   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1fky8w0/learn_how_to_build_a_landing_page_with_ai/</guid>
       <pubDate>Thu, 19 Sep 2024 23:28:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>PodSummarizer - 将播客摘要发送到您的收件箱</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fkx02b/podsummarizer_get_podcast_summaries_sent_to_your/</link>
-      <description><![CDATA[嘿 r/SideProject！我制作了 PodSummarizer，这是一款简单的工具，可将您喜欢的播客的快速摘要直接发送到您的收件箱。只需订阅您喜欢的节目，该应用将处理其余工作 - 自动转录和总结新剧集。它非常适合那些想随时了解最新动态但没有时间收听每一集的人。在这里查看并告诉我你的想法！https://www.podsummarizer.com    提交人    /u/j-r-b   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fkx02b/podsummarizer_get_podcast_summaries_sent_to_your/</guid>
-      <pubDate>Thu, 19 Sep 2024 22:28:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>Iris：现代新闻阅读体验</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fkwe79/iris_a_modern_news_reading_experience/</link>
-      <description><![CDATA[大家好！ 我们一直在开发 Iris，这是一个将社交媒体与新闻阅读相结合的新平台。它通过将有意义的社交互动与高度可定制的新闻提要相结合，提供了一种与新闻互动的全新方式。 与其他平台不同，Iris 不含填充内容和机器人，并致力于打击虚假信息。它旨在让您通过可自定义的过滤器完全控制您的提要，让您可以根据自己的兴趣策划您看到的内容。您还可以通过查看其他人的过滤器来探索他们如何组织他们的提要，从而提供一种发现文章和主题的独特方式。 我们即将推出，希望您对此想法提供反馈！您希望看到哪些功能？您目前如何保持知情？让我们讨论一下！ 谢谢！    提交人    /u/IrisNews   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fkwe79/iris_a_modern_news_reading_experience/</guid>
-      <pubDate>Thu, 19 Sep 2024 22:00:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>Spotify 播放列表制作应用程序：TuneWizard</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fkw687/spotify_playlist_making_app_tunewizard/</link>
-      <description><![CDATA[我刚刚在 iOS 上发布了我的第一个应用程序，名为 TuneWizard！它允许您使用文本、表情符号或图像创建自定义播放列表，然后您可以将这些播放列表直接添加到您的 Spotify！ 我非常感谢任何反馈/建议。谢谢！ 对于那些好奇的人来说，这是使用 FlutterFlow（在 gpt-4o 的大量帮助下）和 Firebase（函数、firestore、存储和 auth）构建的。 https://reddit.com/link/1fkw687/video/997kghy27upd1/player 在 iOS 应用商店下载     提交人    /u/TuneWizard   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fkw687/spotify_playlist_making_app_tunewizard/</guid>
-      <pubDate>Thu, 19 Sep 2024 21:50:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>没人会看广告，除非广告写得好</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fkw2l3/nobody_reads_ads_except_when_theyre_well_written/</link>
-      <description><![CDATA[       由    /u/kervokian  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fkw2l3/nobody_reads_ads_except_when_theyre_well_written/</guid>
-      <pubDate>Thu, 19 Sep 2024 21:46:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>character.ai 的开源替代品</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fkw1sd/open_source_alternative_to_characterai/</link>
-      <description><![CDATA[大家好，我创建了一个开源的 character.ai 替代品，因为我厌倦了他们的过滤器 使用 openrouter.ai 进行模型推理 仍处于早期阶段，但只是想分享：opencharacter.org 您可以从头开始创建角色（本质上是修改系统提示），甚至可以根据人们的 Twitter 个人资料创建角色（但此 Twitter 服务不稳定） 代码：https://github.com/bobcoi03/opencharacter（尚未添加文档） 让我知道您的想法！计划添加更多模型和更多自定义，例如 topK、temp 和模板等，这样您就可以复制并粘贴 c.ai 提示，其中包含 {{char}} 和 {{user}。 我已经添加了一些来自 c.ai 的流行模型    提交人    /u/bopcoi03   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fkw1sd/open_source_alternative_to_characterai/</guid>
-      <pubDate>Thu, 19 Sep 2024 21:45:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>揭开 Cismela.com 的面纱：您的孩子名字选择伴侣！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fkv3op/unveiling_cismelacom_your_child_name_selection/</link>
-      <description><![CDATA[        提交人    /u/silgon3200   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fkv3op/unveiling_cismelacom_your_child_name_selection/</guid>
-      <pubDate>Thu, 19 Sep 2024 21:04:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>评价我的想法：帮助初创企业和企业家验证他们的想法、进行 PMF 和业务规划的平台</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fkuret/rate_my_idea_platform_that_helps_startups_and/</link>
-      <description><![CDATA[大家好！ 我正在尝试进行市场调查，看看我的商业理念是否有需求，最后我选择了 reddit。 基本上，我正在修读创业辅修专业（我也有计算机科学技术背景），在修读这门辅修专业时，我注意到很多关于“如何建立一家初创公司”、“如何进行产品市场适配”、“如何打造人们想要的东西”的资源。 - 这些资源可以在 youtube、ycombinator 创业学校、创业中心等处找到。 我发现它们的唯一问题是 - 缺乏为你的想法提供个性化反馈的工具，很难制定商业计划，很难进行市场研究，导师很贵/很难找到，没有人教你如何与客户交谈等等。我通过与创始人交谈进行了定性分析，希望找到问题，他们中的大多数人表示，即使在踏上这段旅程之前，他们也缺乏发展创业公司的基本知识（我与 5 位创业公司的创始人进行了交谈，他们大多是技术人员）。也就是说，他们想在没有任何研究的情况下建立一些东西。 我的想法是建立一个个性化的环境，帮助早期创业公司的创始人或只是有想法的人。这意味着为你的想法量身定制的营销分析工具、一个可以对你的创业想法提供反馈的社区、为你的需求量身定制的业务规划以及更多有助于成长过程的功能（或者可以减轻你的创业想法失败的痛苦）。一体化平台。想象一下 YCombinator 的创业学校 - 除了它不是带有 YouTube 视频和脚本的模块，而是交互式的并根据您的想法量身定制。 我创建了一个带有平台等候名单的登录页面。欢迎随时查看页面并发表您的意见：https://mihuambra6.wixsite.com/sparkup 欢迎任何类型的反馈！干杯    提交人    /u/buli19_red   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fkuret/rate_my_idea_platform_that_helps_startups_and/</guid>
-      <pubDate>Thu, 19 Sep 2024 20:50:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>我使用 Oobabooga API 制作了一个 Nodejs Discord 机器人</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fkuksb/i_made_a_nodejs_discord_bot_using_oobabooga_api/</link>
-      <description><![CDATA[  由    /u/kitsumed  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fkuksb/i_made_a_nodejs_discord_bot_using_oobabooga_api/</guid>
-      <pubDate>Thu, 19 Sep 2024 20:42:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>旅行灵感</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fktt1q/travel_inspired/</link>
-      <description><![CDATA[我最近访问了冰岛，由于冰岛没有大型连锁酒店，所以我通过各种平台进行了预订。 我通过冰岛航空预订了航班 直接通过酒店预订酒店。 通过蓝色汽车租赁租车 通过谷歌搜索（如fridheimar）查找餐厅 然后我想到，如果有一个应用程序可以让我在一个地方获得端到端的行程。我找不到一个可以完成所有这些工作的应用程序，所以我打算做一个。想和你们核实一下，你们是否认为这个有市场。 冰岛将是一个完美的用例，因为这里没有大型连锁酒店。请使用投票来帮助我 非常感谢    提交人    /u/TurnMotor3873   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fktt1q/travel_inspired/</guid>
-      <pubDate>Thu, 19 Sep 2024 20:11:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
