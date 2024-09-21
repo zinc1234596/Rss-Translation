@@ -4,7 +4,42 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Sat, 21 Sep 2024 03:15:47 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Sep 2024 06:18:49 GMT</lastBuildDate>
+    <item>
+      <title>艺术反馈应用程序</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1flwlfq/art_feedback_app/</link>
+      <description><![CDATA[大家好！我想到了一个由人工智能驱动的艺术反馈应用程序的想法，人们可以在其中输入他们的作品图像并接收反馈。我喜欢询问人们对我的作品的看法，无论是朋友还是网上的随机人士。话虽如此，我制作了一个演示，因为我正在考虑制作它，并且很想知道是否有任何艺术家同行会感兴趣。以下是 Google Drive 链接中的一些屏幕截图：屏幕截图 我很乐意听取有关该应用程序的任何反馈。如果您不感兴趣，也许您不介意对屏幕截图文件夹中的肖像素描提供反馈（我对肖像绘画还很陌生）！   由    /u/Electrical_Injury139  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1flwlfq/art_feedback_app/</guid>
+      <pubDate>Sat, 21 Sep 2024 06:15:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>我构建了一个域名缩短器，您可以在下一个附带项目中使用它</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1flv0uf/i_built_a_domain_shortener_you_can_use_for_your/</link>
+      <description><![CDATA[        提交人    /u/_vloe   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1flv0uf/i_built_a_domain_shortener_you_can_use_for_your/</guid>
+      <pubDate>Sat, 21 Sep 2024 04:30:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>真的很无聊所以我创建了这个 slack bot（不是 AI 狗屎）</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fluohc/got_really_bored_so_i_built_this_slack_bot_not_ai/</link>
+      <description><![CDATA[我真的很无聊，所以我在一周内构建了一个 slack bot，并围绕它构建了 saas，并将其开源。哈哈，这看起来很酷。我已经使用 Nextjs 作为我的 api 技术栈。recognitionbot 看看我的 slack 识别机器人    提交人    /u/Charming_You_8285   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fluohc/got_really_bored_so_i_built_this_slack_bot_not_ai/</guid>
+      <pubDate>Sat, 21 Sep 2024 04:09:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>昂贵的表单生成器的经济实惠的替代品</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fluis2/an_affordable_alternative_to_costly_form_builders/</link>
+      <description><![CDATA[Flowyform 是 Typeform 和 Jotform 等在线表单构建器的替代品，提供更实惠、更全面的定价计划。 我们在免费计划中提供无限表格和提交，以及其他重要功能，例如：  自定义选项：使用颜色、字体和图像布局自定义来定制您的表格 文件上传 测验和答案回忆 电子邮件通知和集成：轻松与 Google 表格、Zapier 等集成。 表单嵌入：将表单直接嵌入到您的网站中。  我们正在积极致力于改进我们的平台，为富文本编辑器添加新的集成和改进（例如显示用于调用答案的占位符）。 欢迎用户反馈！    提交人    /u/FlowyForm   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fluis2/an_affordable_alternative_to_costly_form_builders/</guid>
+      <pubDate>Sat, 21 Sep 2024 04:00:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>QuickSched 演练 - 了解如何生成每日和每周计划并导出到 Google 日历！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1flu2dw/quicksched_walkthrough_learn_how_you_can_generate/</link>
+      <description><![CDATA[        提交人    /u/Soggy_Sympathy_1833   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1flu2dw/quicksched_walkthrough_learn_how_you_can_generate/</guid>
+      <pubDate>Sat, 21 Sep 2024 03:32:43 GMT</pubDate>
+    </item>
     <item>
       <title>90 年代风格的网页街机游戏，每周举办比赛 - 目前售价 100 美元</title>
       <link>https://www.reddit.com/r/SideProject/comments/1flt1ga/90s_vibes_browserbased_arcade_game_with_weekly/</link>
@@ -74,41 +109,6 @@
       <description><![CDATA[我最初制作这个应用程序是为了自我提升，但结果却是一个从朋友那里骗钱的阴谋😈 Goalie 是一个应用程序，您可以在其中与其他人一起创建任何类型的挑战，但每个人都需要先付钱才能开始 (!)。最后，只有完成挑战的人才能分得奖金。您可以进行任何类型的挑战，例如锻炼、健康饮食、早起、读书等。 我一直和朋友们一起使用它，它不仅有趣且紧张，可以让我努力保住我的钱，而且它实际上可以有效地让我定期锻炼。 特别促销：我们将向 100 人赠送 5 美元的应用内积分。只需在此帖子上评论您将使用 Goalie 做什么（例如“我想通过定期锻炼来保持健康”），我就会向您发送促销代码，您可以在应用中输入该代码以获得 5 美元。 App store 链接：https://apps.apple.com/us/app/goalie-group-challenges/id6480429909 Google Play 商店：https://play.google.com/store/apps/details?id=com.goaliemvmt.twa 网页版：https://goaliemvmt.com    由   提交  /u/Fit_Bee8519   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1flnpwl/be_better_than_your_friends_take_their_money/</guid>
       <pubDate>Fri, 20 Sep 2024 21:57:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>机器人无处不在！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fln6ju/bots_everywhere/</link>
-      <description><![CDATA[        提交人    /u/silgon3200   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fln6ju/bots_everywhere/</guid>
-      <pubDate>Fri, 20 Sep 2024 21:32:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于显示加利福尼亚州萨克拉门托县 Mello Roos 税款的简单工具</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fln5hw/simple_tool_to_show_mello_roos_taxes_in/</link>
-      <description><![CDATA[花了 &lt; 12 个小时构建了一个简单的工具来查询公开的房产税数据，以显示房屋地址的直接征税（Mello Roos 等）。此信息不太容易找到，并且未计入 Zillow/Redfin 等显示的每月付款估算中。这个话题经常出现在涉及萨克拉门托县各个城市的房地产讨论中，例如 Folsom、Elk Grove、Rancho Cordova 等，这些城市有很多新社区正在兴起。  我几乎没有前端经验，所以完全使用 ChatGPT 构建了前端。感谢您的关注并让我知道您的反馈 :)  https://sacramento-mello-roos.vercel.app/   由    /u/SweetBeginning1  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fln5hw/simple_tool_to_show_mello_roos_taxes_in/</guid>
-      <pubDate>Fri, 20 Sep 2024 21:31:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tap track——一款生产力应用程序！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1flmrjm/tap_track_a_productivity_app/</link>
-      <description><![CDATA[      大家好，我刚刚制作了这款应用，希望有人能测试一下，这样我就可以把它推向市场。这是一款生产力应用，可以让你制作项目，并跟踪你每天花在项目上的时间。如果能得到任何反馈，我将不胜感激。我正在努力让用户界面尽可能流畅。尽情享受吧！ 要访问 Alpha 版本，请加入此群组 - 群组 - https://groups.google.com/g/testers-community  加入群组后要下载，请单击此处 - https://play.google.com/store/apps/details?id=com.flatcap.tap_track    提交人    /u/Himmself   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1flmrjm/tap_track_a_productivity_app/</guid>
-      <pubDate>Fri, 20 Sep 2024 21:13:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个股票研究和交易策略开发平台</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1flmijy/i_created_a_stock_research_and_trading_strategy/</link>
-      <description><![CDATA[视频演示 NexusTrade 的实际应用！ 三年前，我开始了一个疯狂的项目，开发一个无代码算法交易平台。最初，我选择 TypeScript 作为我的首选语言。然而，我在速度和可配置性方面遇到了巨大的问题。 两年前，我决定开源我的交易平台。该平台称为 NextTrade，随着时间的推移，我在 GitHub 上积累了 1,000 多颗星。 我休息了一段时间，最终有信心重新开始建设。这一次，我用 Rust 实现了核心交易逻辑，并重构了架构以支持您能想到的任何交易策略。  大约在这个时候，ChatGPT 也发布了。我公司举办了一场以 AI 为主题的 Hackathon，并带领一支 6 人团队（横跨工程、数据科学和设计）赢得了 Leader&#39;s Choice 奖。我还了解了大型语言模型的强大功能。 我开始将 LLM 集成到我的交易平台中，首先是能够直接创建交易策略，而无需使用旧 NextTrade 使用的复杂形式。 然后我反复改进它。我添加了提示链，添加了不同的提示，包括保存使用 AI 创建的内容的功能，以及许多其他 AI 功能。 最终结果是一个 AI 交易和金融研究平台，NexusTrade。您可以：  使用 AI 创建算法交易策略 使用历史数据对这些策略进行回测 使用遗传算法优化策略 部署实时纸上交易策略 使用 AI 筛选器查找新股票。例如，“自去年以来，哪些 AI 股票的收入增加了 80% 以上？”按净收入降序排序&quot; 使用 AI 分析公司的基本面 创建关注列表并接收有关您喜欢的股票的每日电子邮件更新 更多！  我想分享我的整个旅程，因为老实说，这是一次疯狂的旅程。我学到了很多关于人工智能和金融的知识，并通过尝试生成有关我的应用程序的内容显着提高了我自己的投资水平。我希望你们能查看并给我诚实的反馈。 谢谢，干杯！    提交人    /u/NextgenAITrading   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1flmijy/i_created_a_stock_research_and_trading_strategy/</guid>
-      <pubDate>Fri, 20 Sep 2024 21:02:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>正在开发 Meet Now，这款应用的概念是，当你们都有空时，它可以将你们与附近的人联系起来。看看 100 米范围内有哪些人，聊 15 分钟，然后决定是否要见面</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1flmcpj/working_on_meet_now_an_app_concept_that_connects/</link>
-      <description><![CDATA[        提交人    /u/ggogobera   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1flmcpj/working_on_meet_now_an_app_concept_that_connects/</guid>
-      <pubDate>Fri, 20 Sep 2024 20:55:23 GMT</pubDate>
     </item>
     </channel>
 </rss>
