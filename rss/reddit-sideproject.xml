@@ -4,7 +4,91 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Sat, 21 Sep 2024 18:18:03 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Sep 2024 21:12:33 GMT</lastBuildDate>
+    <item>
+      <title>两天内 100 名用户，开始吧！！！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fmd18z/100_users_within_two_days_lets_go/</link>
+      <description><![CDATA[发布？  我（意外地？？）发布了：opencharacter.org，并在 reddit 上发表评论，48 小时内获得了 100 多名用户。 评论链接：https://www.reddit.com/r/CharacterAI/comments/1fkvhrl/comment/lnyp12c/  问题和解决方案  我浏览了 c.ai，发现人们对过滤器、审查制度和产品整体质量下降感到非常沮丧，所以我决定构建一个开源替代方案，使用开源 LLM 和一些封闭的 LLM API 供用户创建角色并进行聊天。开源 LLM 的“安全措施”较少，因此它们可以做 NSFW、暴力、其他一些非常奇怪的角色扮演内容。 我看到了良好的使用情况，并计划很快实现本地版本，Ollama 全部在本地运行，这样就没有人可以审查你了！！  “不是你的体重，不是你的大脑。” - Andrej Karpathy 无论如何，如果您对如何改进网站有任何建议，那就太好了！我当然在考虑添加更多 LLM，添加图像生成？也许是语音，一些设计定制，如角色的背景图像，我不知道。 它是如何构建的 这是代码：https://github.com/bobcoi03/opencharacter 前端本质上是 c.ai 网站的副本，所以我直接截取了他们的网站的屏幕截图并将其放入 claude 和 v0 中以构建 UI。我想说他们完成了大约 70%-90% 的 UI 工作，我只需要在这里和那里进行一些调整并来回复制和粘贴。这真的为我节省了很多时间。我想说，大约两年前，我可能要花几个月的时间来构建它，而现在我只需要几天的工作时间。 后端我使用 sqlite 作为数据库（我不知道什么时候会停止扩展，哈哈），nextjs webframework。我在服务器操作中编写了所有路由，这很有趣（仍然担心安全隐患，我不知道我是否可能将某些东西导入了客户端，哈哈）。  该网站托管在 Cloudflare 工作者/页面上  对于 LLM，我只使用 openrouter.ai  对于 LLM 分析，我尝试了 Helicone.ai，我其实很喜欢这个产品，它显示了用户的所有聊天会话、延迟、失败率、令牌/每个请求、第一个令牌的时间，还显示了某些模型的成本。    提交人    /u/bopcoi03   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fmd18z/100_users_within_two_days_lets_go/</guid>
+      <pubDate>Sat, 21 Sep 2024 21:10:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>出售给开发商</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fmd0pr/selling_to_developers/</link>
+      <description><![CDATA[这里有人有向开发人员销售产品的经验吗？人们普遍认为我们是一个难以营销和销售的群体。作为一名开发人员，我订阅了 GitHub Copilot 和 Claude，并定期为业余项目购买域名和托管，所以我很好奇这种看法到底有多准确。 我为 Django 开发人员构建了一个工具（如果您有兴趣，请访问 djangoly.com），我目前正在确定定价结构。我正在寻找在这方面有经验的人来指导向开发人员营销的注意事项。 我最初的想法是做人，少说废话，专注于我正在解决的问题。但很想听听其他观点。 任何见解都将不胜感激。谢谢！    提交人    /u/BlackSun452   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fmd0pr/selling_to_developers/</guid>
+      <pubDate>Sat, 21 Sep 2024 21:10:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>我将定价计划从订阅改为一次性付款（martinup.app）</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fmcy88/i_changed_my_pricing_plan_from_subscription_to/</link>
+      <description><![CDATA[我是 MartinUp.app 的创建者，这是一款面向个体经营者和小型创业公司的 API 监控工具。我想分享一些重大新闻及其背后的原因。 TL;DR：我将 MartinUp.app 的高级计划从订阅模式改为一次性付款。功能同样出色，但现在用户可以完全拥有该软件。 变化 从今天开始，MartinUp.app 的高级计划将提供一次性付款，而不是按月订阅。这让您可以终生使用所有高级功能。 我为什么要做这个改变 真正的所有权：我相信作为开发人员和企业家，我们应该真正拥有我们使用的工具。通过这一改变，MartinUp.app 将成为用户自己的软件，而不仅仅是他们租用的服务。  与 Solopreneur 需求保持一致：作为一名 solopreneur，我了解可预测成本的价值以及避免持续财务承诺的愿望。这种新模式提供了这种稳定性。 培育反馈驱动的社区：我想围绕 MartinUp.app 创建一个强大、活跃的社区。通过删除订阅模式，我希望鼓励更多的长期参与和反馈，这将推动该工具的未来发展。 简单：无需再担心每月费用，也无需在一段时间不使用该工具时取消。一次购买，随时可用。 关注价值：这种模式让我能够专注于提供长期价值，而不是不断试图证明定期收费的合理性。  这对现有用户意味着什么  如果您是当前订户，您将自动升级为终身访问权限。 新用户现在可以一次性付费获得所有高级功能。 对于那些想要尝试的人来说，免费计划将继续存在。 我致力于继续开发和支持 MartinUp.app。您的一次性付款支持持续改进和新功能。  展望未来 我对这一变化感到兴奋，因为我相信它更好地将 MartinUp.app 与用户的需求和价值观相结合。我期待建立一个更具参与度的社区，并根据您的直接反馈开发功能。 我很乐意听听您对这一变化的看法。与订阅相比，您更喜欢这种模式吗？既然您现在“拥有”了 MartinUp.app 的副本，您希望添加哪些功能？不要犹豫，查看公共路线图 感谢您的支持，祝您监控愉快！    提交人    /u/Asleep-Impression964   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fmcy88/i_changed_my_pricing_plan_from_subscription_to/</guid>
+      <pubDate>Sat, 21 Sep 2024 21:06:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了一个具有多种功能的高级颜色选择器工具。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fmc466/i_created_an_advanced_color_picker_tool_packed/</link>
+      <description><![CDATA[        提交人    /u/Tall-Training-9946   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fmc466/i_created_an_advanced_color_picker_tool_packed/</guid>
+      <pubDate>Sat, 21 Sep 2024 20:28:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找技术联合创始人来提高用户激活率</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fmbld0/looking_for_technical_cofounder_to_improve_user/</link>
+      <description><![CDATA[大家好 - 我是一名拥有 B2B SaaS 经验的产品经理。我曾在初创公司和中型公司工作过，亲眼目睹了公司在大幅提高新用户激活率方面所面临的挑战。我曾利用市场上的工具来改进这些指标，这些工具通常包括向 UI 添加更多内容，但这对用户几乎没有帮助。我经常对这样的现实感到沮丧：许多新用户第一次访问网站或尝试产品，却毫无理由地最终没有真正使用试用版或转化为付费用户。造成这种情况的原因有很多，但我有一个假设，现在是时候为用户做比我们要求用户做的更多的工作了。是时候推出一些全新的东西了。 这里的愿景很宏大，非常重新考虑了用户体验，并可能为首次探索产品的新用户整合 AI 代理。如果您热切希望与我一起兼职并希望成为全职员工，我很乐意与您交谈。我更希望拥有扎实商业直觉的技术人员——我正在寻找真正的合作伙伴，而不仅仅是拥有工程技能的人。 如果您想聊天，请给我留言。我正在寻找每周至少有 10 小时时间与我一起研究问题空间（我已经开始研究）、评估潜在原型并讨论技术可行性的人。最终，我们能够开发一个 MVP，我们可以由目标客户运行（这些确切的客户有待确定，我想与这个人谈谈），并找到一个承诺为我们的试点项目付费的人。 如果我们认为我们兼容，我们将成为 50-50 的合作伙伴。理想情况下，我们能够尽可能地自力更生。  以下是有关该机会的一些附加信息：  问题 所有产品都希望激活其用户。每个产品的激活时刻都不同。最终激活的步骤需要教育用户如何使用产品和浏览 UI。换句话说，它们要求用户进行大量设置才能达到激活时刻。  以 Calendly 为例。他们的激活时刻是当用户分享他们的第一个日程安排链接并收到确认的会议时，他们发现日程安排很简单，无需来回沟通。因此，他们最终需要查看他们的日程安排链接。要到达那里需要一些步骤，而现实情况是，其中许多步骤可以/应该自动化。  解决方案 当然，以上只是一个例子，现实情况是，我们有机会通过一种易于配置的解决方案帮助无数公司，并使软件最终用户的生活变得异常轻松。  状态 我已经开始与潜在的联合创始人交谈，但尚未找到合适的人选。我已经进行了大量的竞争性研究（尽管这是一个永远不会真正结束的过程），并且还开始为配置过程的用户体验设计框架 - 尽管还有大量的事情需要考虑，我想与某人合作来做这件事。    提交人    /u/sgart25   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fmbld0/looking_for_technical_cofounder_to_improve_user/</guid>
+      <pubDate>Sat, 21 Sep 2024 20:03:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么 Google Chrome 这里没有共享选项？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fmbg11/why_dont_google_chrome_have_a_share_option_here/</link>
+      <description><![CDATA[      我打开链接后不断复制网址，然后在 safari 的阅读器模式下粘贴。有更好的解决方案吗？    提交人    /u/rakeshkanna91   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fmbg11/why_dont_google_chrome_have_a_share_option_here/</guid>
+      <pubDate>Sat, 21 Sep 2024 19:57:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>我明天将在 Product Hunt 上推出我的第一个 SaaS！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fmbem9/im_launching_my_first_ever_saas_on_product_hunt/</link>
+      <description><![CDATA[      明天将在 Product Hunt 上推出我的第一个 SaaS Space Make。 一直拖延这件事，所以我要去做。 这是我第一次尝试制作我希望存在的东西。没有真正的准备，几乎没有追随者，但嘿，总得从某个地方开始，对吧？ 如果你明天在，我会非常感激你的支持！ 无论发生什么，我都会在这里发布更新。祈祷好运。 PS：没有预告链接，但很乐意通过Twitter进行联系。 https://preview.redd.it/aif87irqw7qd1.png?width=1039&amp;format=png&amp;auto=webp&amp;s=e2214e4ffebb5f6bd157490854a97e39f078c558    由    /u/heytjreddit 提交   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fmbem9/im_launching_my_first_ever_saas_on_product_hunt/</guid>
+      <pubDate>Sat, 21 Sep 2024 19:55:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>我建立了一个库来帮助你验证用户身份，并使用 JWT 管理会话</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fmbbrs/i_build_a_library_that_helps_you_authenticate/</link>
+      <description><![CDATA[大家好， 希望你们都过得很好！我想介绍一下 Amee，这是一个用于管理会话的轻量级库，旨在使用 JWT 处理用户身份验证和授权。 我很乐意听到您的想法或任何反馈，以帮助进一步改进该库。    提交人    /u/kayuxx   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fmbbrs/i_build_a_library_that_helps_you_authenticate/</guid>
+      <pubDate>Sat, 21 Sep 2024 19:51:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了一个简单的工具，可以在几秒钟内比较两个 Excel 文件。无需 Excel 知识</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fmb01l/i_created_a_simple_tool_to_compare_2_excel_files/</link>
+      <description><![CDATA[大家好，让我介绍一下我的业余项目 Sheetmatcher： 在担任 IT 顾问（尤其是为财务部门提供支持）的 15 年多时间里，我注意到一项至关重要但经常被低估的任务是比较两个 Excel 文件。 一开始总是认为几个公式就足够了，但当你开始在这里和那里添加检查时，30 分钟就过去了。错误随时都可能发生，只需拖动错误的公式即可。 这可能需要花费大量时间，具体取决于：  您的技能 文件的复杂性 您正在寻找哪些见解  使用 Sheetmatcher，您会得到一定的结果，并且会节省大量时间！ 使用 Sheetmatcher 您不需要了解任何有关 Excel 的知识：只需拖放 2 个文件，选择关键字段，就大功告成了！您将立即知道差异或缺失的记录。 如果列或记录的排序不同，这不是问题！ Sheetmatcher 的设计考虑到了简单性，以便每个人都可以使用。 要尝试一下，只需注册，您就可以访问演示版本： https://www.sheetmatcher.com/ 请在评论中告诉我您的想法！ PS：如果您真的喜欢它，我愿意收集一些评论，稍后作为社交证明/社交墙发布在主页上：请在此处进行：https://senja.io/p/sheetmatcher/r/19o9Va 谢谢，Francesco 30 秒预览： https://reddit.com/link/1fmb01l/video/99no3ayxs7qd1/player    由   提交  /u/Ok_Significance_6646   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fmb01l/i_created_a_simple_tool_to_compare_2_excel_files/</guid>
+      <pubDate>Sat, 21 Sep 2024 19:36:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>我是一名软件工程师，这是我第一次开发 SAAS。我开发了一个 AI 视频制作工具</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fmaqiq/im_a_software_engineer_and_this_is_my_first_time/</link>
+      <description><![CDATA[        提交人    /u/gogtodenski   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fmaqiq/im_a_software_engineer_and_this_is_my_first_time/</guid>
+      <pubDate>Sat, 21 Sep 2024 19:24:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>巴西忍者 | 面向开发人员的免费 AI 简历生成器</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fmaexo/ninja_in_brazil_free_ai_powered_resume_builder/</link>
+      <description><![CDATA[  由    /u/Advanced_Sprinkles14  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fmaexo/ninja_in_brazil_free_ai_powered_resume_builder/</guid>
+      <pubDate>Sat, 21 Sep 2024 19:08:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>独立黑客使用 Stripe，如何将其用于多个项目？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fm9ry0/indie_hackers_using_stripe_how_do_you_use_it_for/</link>
+      <description><![CDATA[有人告诉我，我们可以使用相同的条纹帐户，但用于属于同一 LLC 的不同项目，但我不知道如何在我的主条纹帐户中区分或创建此类项目特定设置。  如果您有类似的设置，您是如何做到的？    提交人    /u/rockntalk   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fm9ry0/indie_hackers_using_stripe_how_do_you_use_it_for/</guid>
+      <pubDate>Sat, 21 Sep 2024 18:39:43 GMT</pubDate>
+    </item>
     <item>
       <title>我让人工智能将 YouTube 上的印地语-英语口音转换成高雅的英国口音……为什么不呢？</title>
       <link>https://www.reddit.com/r/SideProject/comments/1fm8zrs/i_made_ai_turn_hindienglish_accents_on_youtube/</link>
@@ -25,90 +109,6 @@
       <description><![CDATA[它有非常多的可能性，我不确定如何使用这个域名，您觉得如何？    提交人    /u/BeautifulDataViz   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1fm8kwo/what_can_i_do_with_the_domain_aicodersdev/</guid>
       <pubDate>Sat, 21 Sep 2024 17:45:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>Auth(z) 选项？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fm89nf/authz_options/</link>
-      <description><![CDATA[现在大家都用什么来进行业余项目的授权和身份验证集成？ 我以前用过 auth0 之类的东西，但是集成起来相当复杂，而且价格相当昂贵。有没有便宜的选项，适合我看是否可行的项目。  要求非常简单，只需要使用社交登录进行基本身份验证和非常基本的授权需求    提交人    /u/dkode80   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fm89nf/authz_options/</guid>
-      <pubDate>Sat, 21 Sep 2024 17:31:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了我的 AI 驱动的副项目！这是我的梦想</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fm7x1a/i_build_my_ai_powered_side_project_its_my_dream/</link>
-      <description><![CDATA[大家好！我很高兴向大家介绍我自己，我叫 Mamun，是一名在纺织行业拥有丰富经验的质量主管。在我的整个职业生涯中，我一直对启动新项目怀有深厚的热情，但找到合适的项目一直是一个挑战。然而，随着生成式人工智能在技术领域的出现，我意识到它有潜力极大地帮助我实现这一目标。尽管有障碍，但在过去两年里，我仍坚定地追求我的副业。我很高兴地宣布，我将致力于 Bloggen AI，这是一个包罗万象的人工智能平台，旨在提高学生和研究人员的写作水平。 那么，Bloggen AI 到底是什么？ Bloggen AI 将通过将写作速度提高 10% 来彻底改变内容创建过程。对于那些在平凡的写作任务中挣扎的博主来说，这将是一个游戏规则的改变者。通过更快的研究，在几分钟内节省学生作业的时间。  Bloggen AI 提供了广泛的出色功能：  内容创建：立即生成文本博客文章、图像、代码等。 多语言支持：轻松创建各种语言的内容。 自定义模板：使用无限的自定义提示来满足您的需求。 ChatPDF：与任何长 PDF 聊天以进行研究并获得简短摘要。 AI Vision：与任何图像或教科书聊天以获取摘要和家庭作业帮助。 YouTube 视频：轻松将您的 YouTube 视频转换为博客文章摘要。 社交媒体：生成社交媒体内容，如 LinkedIn 帖子和 Twitter 帖子以直接在网站上发布。 AI 检测器和抄袭检查器 AI 视频：只需上传任何图像即可生成高质量视频。 CustomGPT：使用您的网站内容、PDF、常见问题解答构建您的自定义 GPT，并将其嵌入到您的网站中。  为什么应该考虑 Bloggenai.com？  消除写作障碍，轻松制作高质量内容。 专注于您的首要任务，节省宝贵的时间，而我们的 AI 会处理其余事务。 享受直观且易于导航的用户友好界面。 使用我们的平台可节省成本。  期待您的反馈，并很高兴看到 Bloggen AI 如何帮助您创建精彩的内容！ 请随时在下面的评论中提出任何问题或分享您的想法！     由    /u/mamunbd1 提交   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fm7x1a/i_build_my_ai_powered_side_project_its_my_dream/</guid>
-      <pubDate>Sat, 21 Sep 2024 17:15:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 3 款产品失败后，我终于卖出了第一笔产品！以下是我做了哪些不同的事情</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fm7idg/got_my_first_sale_after_3_failed_products_here_is/</link>
-      <description><![CDATA[三周前，我开始着手开发我的新产品 Dev Blocks。过去，我曾开发过多个项目，它们都非常复杂，最终都以失败告终。这次，我决定采用不同的方法，最终获得了成功。 仅用两天时间，我就完成了前 5 笔销售 以下是我这次做的不同之处：  保持简单。我没有开发过于复杂的东西，而是专注于解决一个小的个人痛点，并围绕它创建解决方案。 尽早验证了想法。我从基本的候补名单开始，仅用几篇帖子就将其发展到 100 名订阅者。我还通过私人消息联系了潜在用户，以缩小我的优先事项。 专注于营销。通过保持产品简单，我可以更加关注营销。我还加入了 X 上的创作者社区并积极参与其中，这也帮助我在开始时获得了很多关注。 预热我的候补名单。我学到的关于转换候补名单用户的最好方法之一是尽早开始参与。我每周发送纯文本产品更新。这些电子邮件的打开率超过 60%，甚至带来了我的第一个客户！  当然，这种方法并不适合所有人，但这些策略对我有用。到目前为止，Dev Blocks 已完成 5 笔销售 - 一笔来自我的候补名单，四笔来自 X。 如果有人有更多经验，我也会很感激任何关于如何从这里扩展的建议！    提交人    /u/PeanutButte7   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fm7idg/got_my_first_sale_after_3_failed_products_here_is/</guid>
-      <pubDate>Sat, 21 Sep 2024 16:57:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>经验丰富的 PHP、WordPress 和 JavaScript 解决方案开发人员</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fm7b7j/experienced_developer_for_php_wordpress_and/</link>
-      <description><![CDATA[凭借超过 10 年的软件开发实践经验，我提供专业服务。无论您是需要修复错误、添加新功能还是进行改进，我都能提供 PHP、WordPress、JavaScript 和前端方面的专业知识。    提交人    /u/baltiic-blue   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fm7b7j/experienced_developer_for_php_wordpress_and/</guid>
-      <pubDate>Sat, 21 Sep 2024 16:48:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>一次令人沮丧的旅行经历如何促使我创建了 eBuddy</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fm7alu/how_a_frustrating_travel_experience_led_me_to/</link>
-      <description><![CDATA[eBuddy 的诞生源于一次令人沮丧的经历。我在旅行时从供应商那里购买了 eSIM，但当我需要帮助时，巴西没有支持。那时我意识到有多少人面临着同样的问题：产品很棒，但没有本地支持。所以，我决定打造更好的产品——eBuddy。 在短短几个月内，我推出了 eBuddy，这是一个在 160 多个国家/地区提供可靠、实惠的互联网的平台，其主要区别在于：巴西人民可以信赖的支持。该平台取得了成功，我很高兴看到人们多么感激有可以真正联系的人。 但随着事情的进展，我发现自己没有足够的时间专注于 eBuddy。在其他项目和快速的生活之间，我得出的结论是，我无法将它带到需要去的地方。 这就是我出售 eBuddy 代码库的原因。它功能齐全、实时且随时可扩展。它可轻松与主要的 eSIM 提供商集成，并拥有为全球用户设计的强大基础设施。如果您需要帮助将其翻译成英语或任何其他语言，我会随时为您提供帮助。 这是一次有益的旅程，但我知道其他人可以将 eBuddy 提升到一个新的水平。如果您是正在寻找可靠机会的开发人员或企业家，那么这就是您的机会。 查看 ebuddy.app 上的演示。如果您有兴趣，让我们谈谈 - 我很想看看您可以从这里获得什么。    提交人    /u/EmbarrassedPage5487   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fm7alu/how_a_frustrating_travel_experience_led_me_to/</guid>
-      <pubDate>Sat, 21 Sep 2024 16:47:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>我只用一天时间就开发出了一个免费的开源日常习惯追踪器</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fm6f43/i_built_a_free_opensource_daily_habit_tracker_in/</link>
-      <description><![CDATA[https://habit-track.cc/ 我很高兴与大家分享我最新的业余项目——一个简单有效的日常习惯追踪工具。它完全免费且开源，因此任何人都可以使用并为它​​做出贡献。基本上，市面上的应用程序限制太多，而我想要一些免费的东西，所以我做了它。 我只花了一天时间就完成了测试（我可以开始使用它了）。这意味着它远非完美，但确实能完成工作。 费用：8 美元域名和来自 cloudflare 的免费服务。:-)     提交人    /u/Detz   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fm6f43/i_built_a_free_opensource_daily_habit_tracker_in/</guid>
-      <pubDate>Sat, 21 Sep 2024 16:07:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>每小时 4.9 美元起即可获得一名真正的高级开发人员！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fm668k/get_a_real_senior_developer_from_49hr/</link>
-      <description><![CDATA[我提供限时优惠，您只需 4.9 美元/小时（是的，真的）即可聘请真正的高级全栈开发人员。 为什么这么便宜？好问题！这个价格是我在微调新机构的工作流程时的介绍性优惠的一部分。这不是噱头 - 只是让您在不花大钱的情况下获得高质量工作的机会。双赢。 无需订阅，无需合同 - 只有纯粹的开发能力。让我们一起创造一些很棒的东西！ 查看：https://JetUp.io/exclusive    提交人    /u/bartboch   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fm668k/get_a_real_senior_developer_from_49hr/</guid>
-      <pubDate>Sat, 21 Sep 2024 15:56:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>Parlando：通过角色扮演学习语言</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fm4jtc/parlando_learn_a_language_by_roleplaying/</link>
-      <description><![CDATA[      嘿伙计制造商！ 我创建了 Parlando 来学习语言，重点放在对话上。您可以通过角色扮演真实场景（例如订购食物、购物）来学习，同时获得有关发音和语法的反馈。 该应用程序使用 React Native 和后端的 OpenAI 构建。您可以尝试使用意大利语、法语或西班牙语等语言。 希望得到反馈！在此处的 TestFlight 上查看：tomorroworld.com/parlando Parlando 应用程序    提交人   ​​ /u/tomsoderlund   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fm4jtc/parlando_learn_a_language_by_roleplaying/</guid>
-      <pubDate>Sat, 21 Sep 2024 14:41:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>建立由社区驱动的旅游科技初创企业：Hop！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fm43rs/building_a_travel_tech_startup_driven_by/</link>
-      <description><![CDATA[      大家好 只是想展示一下我的作品： Hop！旨在成为下一个旅游科技初创公司，试图解决信息传播/过载的问题，找到相关的评论、想法、行程，并为其添加社交/个人风格。 不是所有的东西都适合你，我们明白。每当去一个新目的地时，我都会浏览很多前 10 名的列表，但结果却发现到达那个地方所浪费的时间比我在那里花的时间还多。 如果这看起来与 TripAdvisor 和 Google Reviews 相似，我很高兴确实如此。我们只是想消除您想要的信息与您在阅读 10 多篇帖子/文章后最终获得的信息之间的一些摩擦。 我对此有一个大的路线图，我想添加它以使其更有帮助。所以如果这一切都令人兴奋，那就跳吧！ 前 1000 名注册用户将在 1.0.0 发布后的一年多时间内免费使用它。 如果这不是你的菜，那太好了，感谢您花时间阅读它。 注册：https://hopp.vercel.app https://preview.redd.it/lct2yr9x76qd1.png?width=1906&amp;format=png&amp;auto=webp&amp;s=0231b90a140fb61ad96cc9fd21fa62d7c6686e71    提交人    /u/RobotsMakingDubstep   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fm43rs/building_a_travel_tech_startup_driven_by/</guid>
-      <pubDate>Sat, 21 Sep 2024 14:19:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>每日问答，匿名解答 | First Side Project</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fm4115/daily_questions_with_anonymous_answers_first_side/</link>
-      <description><![CDATA[我创建了 https://thisdailyquestion.com/ 为了让这篇文章和应用程序一样简单 - 每天早上都会提出一个新问题，您每天只能匿名回答一次。 您的答案将进入心理量表，并根据您的回答的疯狂程度获得标记 它非常简单，但我在编写它时很开心。这是我的第一个业余项目。 :)    提交人    /u/BigFish565   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fm4115/daily_questions_with_anonymous_answers_first_side/</guid>
-      <pubDate>Sat, 21 Sep 2024 14:16:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>我和妻子如何在一个月内利用无代码工具和零编码经验构建了 SaaS</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fm3tol/how_my_wife_and_i_built_a_saas_in_just_one_month/</link>
-      <description><![CDATA[就在一个月前，我和我的妻子 Jane 决定推出我们的第一个 SaaS。 我们没有任何编码经验，但我们对用户体验、产品管理和营销略知一二。我们对底层工作原理的理解很基础，所以我们知道还有很多东西需要学习。 我们没有花很长时间寻找完美的想法，而是选择了第一个看起来足够好并且不太难实现的想法。 我认为最好的方法就是开始构建一些东西（实际上任何东西都可以），然后根据客户的反馈或在工作过程中遇到的挑战进行调整或调整。 在我们的案例中，我发现了一种使用 Google API 加速页面索引的方法。手动操作时，Google Search Console 每天仅允许您处理 10 页，但使用 API，您每天最多可以处理 1,000 页。 这似乎是一个不错的开始，而且我们可以学到很多东西，例如使用外部 API、设置 Google 登录、使用 Stripe 管理订阅等等。 在对 Reddit 进行彻底研究后，我们选择 Xano 作为后端，WeWeb 作为前端。我们研究了各自的优势，并决定让 Jane 负责后端，我则专注于前端。 现在，一个月后，我们的第一个宝贝已经准备好了！我们将其命名为 Huxley，以纪念我最喜欢的作家之一 Aldous Huxley。（如果这个名字很差劲，请告诉我） 您可能想知道我为什么要与您分享这个……为了向您展示，即使没有编码技能，您也可以在不到一个月的时间内从头开始构建一些东西。如果我们能做到，你肯定也能做到！ 欢迎提问！    提交人    /u/vox_nihili_ist   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fm3tol/how_my_wife_and_i_built_a_saas_in_just_one_month/</guid>
-      <pubDate>Sat, 21 Sep 2024 14:06:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个可以免费使用人工智能编写文本的工具</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fli892/i_made_a_tool_that_allow_writing_texts_using_ai/</link>
-      <description><![CDATA[大家好！ 我制作了一个名为 uTwain 的工具，它允许使用 AI 免费编写文本（注意：暂时限制为 50,000 个字）。 您可以生成文本、接受或拒绝建议的更改、缩短或延长文本、改写、提高流畅度和总结。它允许选择不同的样式、添加参考链接，甚至自动完成您的文本。 最重要的是，uTwain 允许在自动模式下保存文档（需要注册，这也是免费的）。 我非常高兴与大家分享这一点。请尝试一下并留下您的反馈。我将不胜感激。 谢谢！ SJ。    由    /u/sj_ai 提交   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fli892/i_made_a_tool_that_allow_writing_texts_using_ai/</guid>
-      <pubDate>Fri, 20 Sep 2024 17:56:27 GMT</pubDate>
     </item>
     </channel>
 </rss>
