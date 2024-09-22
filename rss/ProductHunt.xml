@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Sun, 22 Sep 2024 12:26:11 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Sep 2024 15:13:19 GMT</lastBuildDate>
     <item>
       <title>AI管</title>
       <link>https://www.producthunt.com/posts/tubit-ai</link>
@@ -76,18 +76,18 @@ Mac 电池数据可视化
       <pubDate>Fri, 20 Sep 2024 10:51:23 GMT</pubDate>
     </item>
     <item>
-      <title>拉兹瓦</title>
-      <link>https://www.producthunt.com/posts/lazyva</link>
+      <title>TP计划</title>
+      <link>https://www.producthunt.com/posts/tplanz</link>
       <description><![CDATA[
-在线设计工具
+团队工作量规划和项目财务概览
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/lazyva</guid>
-      <pubDate>Fri, 20 Sep 2024 08:24:35 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/tplanz</guid>
+      <pubDate>Fri, 20 Sep 2024 03:22:52 GMT</pubDate>
     </item>
     <item>
       <title>精选图书</title>
@@ -102,6 +102,20 @@ Mac 电池数据可视化
 ]]></description>
       <guid>https://www.producthunt.com/posts/bookselects</guid>
       <pubDate>Thu, 19 Sep 2024 23:44:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>用户界面复制器</title>
+      <link>https://www.producthunt.com/posts/ui-replicator</link>
+      <description><![CDATA[
+只需单击一下即可克隆任何网站
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/ui-replicator</guid>
+      <pubDate>Wed, 18 Sep 2024 10:40:27 GMT</pubDate>
     </item>
     <item>
       <title>屑</title>
@@ -186,20 +200,6 @@ SaaS 的电子邮件验证
 ]]></description>
       <guid>https://www.producthunt.com/posts/realmail</guid>
       <pubDate>Fri, 30 Aug 2024 07:50:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的瑜伽士</title>
-      <link>https://www.producthunt.com/posts/my-yogi</link>
-      <description><![CDATA[
-管理和创建瑜伽序列
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/my-yogi</guid>
-      <pubDate>Tue, 20 Aug 2024 16:08:55 GMT</pubDate>
     </item>
     <item>
       <title>Brainwrite.io</title>
