@@ -4,7 +4,56 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Sat, 21 Sep 2024 21:12:33 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Sep 2024 01:13:07 GMT</lastBuildDate>
+    <item>
+      <title>针对 SaaS 的分析和监控？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fmgejh/analytics_and_monitoring_for_saas/</link>
+      <description><![CDATA[您在 SaaS 副项目中使用什么进行分析？例如 Google Analytics、Matomo 或一些自制的东西。 监控呢？例如 Sentry、Open telemetry、Prometheus。    提交人    /u/naicolas12   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fmgejh/analytics_and_monitoring_for_saas/</guid>
+      <pubDate>Sat, 21 Sep 2024 23:58:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>WebToGPT：几秒钟内构建自定义知识库。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fmgc4h/webtogpt_build_a_custom_knowledge_base_in_seconds/</link>
+      <description><![CDATA[WebToGPT 是一个两阶段的网络爬虫和抓取工具，旨在解析和提取网络文档站点的主要内容。内容保存为文本文件，用作增强语言模型功能的自定义知识文件。 它由两个主要脚本组成：用于抓取 URL 的 sitemapper.py 和用于提取和清理内容的 scraper.py。 整个过程可以使用 run.py 按顺序执行。 https://github.com/justinschmitz97/WebToGPT   由    /u/dirty_dist  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fmgc4h/webtogpt_build_a_custom_knowledge_base_in_seconds/</guid>
+      <pubDate>Sat, 21 Sep 2024 23:54:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>我建立了一个 dMap，其中 1 个代币 = 1 票。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fmg3f7/i_built_a_dmap_where_1_token_1_vote/</link>
+      <description><![CDATA[        提交人    /u/XPartyUSA   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fmg3f7/i_built_a_dmap_where_1_token_1_vote/</guid>
+      <pubDate>Sat, 21 Sep 2024 23:42:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>我编写了一个 Python 脚本，使用 AI 来组织文件，100% 在你的设备上运行</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fmfxs8/i_built_a_python_script_uses_ai_to_organize_files/</link>
+      <description><![CDATA[嘿 r/SideProject ！ GitHub： (https://github.com/QiuYannnn/Local-File-Organizer) 我想要一个真正了解我的文件内容的文件管理工具。以前的项目如 LlamaFS (https://github.com/iyaja/llama-fs) 不是 100% 本地的，需要 AI API。因此，我创建了一个 Python 脚本，利用 AI 来组织本地文件，完全在您的设备上运行，以完全保护隐私。它使用 Google Gemma2 2B 和 llava-v1.6-vicuna-7b 模型进行处理。 注意：您不需要任何 API 密钥和互联网连接来运行此项目，它完全在您的设备上运行模型。 它的作用：   扫描指定的输入目录中的文件 了解文件的内容（文本、图像等）以生成相关的描述、文件夹名称和文件名 根据生成的元数据将文件组织到新的目录结构中  支持的文件类型：  图像： .png、.jpg、.jpeg、.gif、.bmp 文本文件： .txt, .docx PDF： .pdf  支持的系统： macOS、Linux、Windows 它是完全开源的！ 有关演示和安装指南，这里再次提供项目链接： (https://github.com/QiuYannnn/Local-File-Organizer) 您对这个项目有何看法？您希望在未来版本中看到什么吗？ 谢谢！    提交人    /u/unseenmarscai   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fmfxs8/i_built_a_python_script_uses_ai_to_organize_files/</guid>
+      <pubDate>Sat, 21 Sep 2024 23:34:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>fastTravelCLI——更好的 CD 体验</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fmewzk/fasttravelcli_a_better_cd_experience/</link>
+      <description><![CDATA[  由    /u/dadVibez121  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fmewzk/fasttravelcli_a_better_cd_experience/</guid>
+      <pubDate>Sat, 21 Sep 2024 22:42:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个艺术反馈应用程序</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fmejsk/i_made_an_art_feedback_app/</link>
+      <description><![CDATA[大家好！我想到了一个由人工智能驱动的艺术反馈应用的想法，人们可以在其中输入他们的作品图片并接收反馈。我喜欢询问人们对我作品的看法，无论是朋友还是网上的随机人士。话虽如此，我制作了一个演示，因为我正在考虑制作它，并且很想知道是否有其他艺术家会感兴趣。以下是 Google Drive 链接中的一些屏幕截图：屏幕截图 我很乐意听取有关该应用的任何反馈。请诚实！您认为自己会使用它吗？ 如果您不感兴趣，也许您不介意对屏幕截图文件夹中的肖像素描提供反馈（我对肖像绘画还很陌生）！    提交人    /u/Electrical_Injury139   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fmejsk/i_made_an_art_feedback_app/</guid>
+      <pubDate>Sat, 21 Sep 2024 22:24:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wifi University 如何帮助我在不辞去朝九晚五工作的情况下开始了一份低调的副业</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fmdjbl/how_wifi_university_helped_me_start_a_lowkey_side/</link>
+      <description><![CDATA[不久前，我陷入了这种困境，感觉一切都在重复。我朝九晚五的工作还不错，但几乎无法支付账单，我感到非常沮丧。我有一些技能，但我不知道如何将它们中的任何一项转化为可以让我赚外快的东西，更不用说取代我的工作了。 一天晚上，又一个漫长的一天过后，我偶然发现了这个随机的 TikTok 视频，其中提到了 Wifi University。通常情况下，我不相信这样的东西。我的意思是，我并不相信 TikTok 上有人能告诉我如何赚钱，但出于无聊（也许是绝望），我查了一下。这不是什么大投资，所以我想尝试一下也没什么坏处。 老实说，我没抱太大希望。我遵循了他们的一些建议，建立了一个基本的 YouTube 频道，并发布了我的第一个视频。有一段时间，什么也没发生。不过，我并没有抱有太大的期望，所以我甚至没有考虑过这件事。 后来，有一天我查看了我的账户，发现它就在那里——我的第一笔小额付款。虽然不多，只有几块钱，但已经很不错了。知道我从自己设定的东西中赚到了这笔钱，感觉好极了。在接下来的几周里，我坚持了下来，慢慢地发布了更多帖子，并在过程中摸索着前进。 现在，还为时过早，但我每个月都会多赚一点。我还没有辞掉工作，但知道那里有潜力还是很酷的。有其他事情要做感觉很好，即使现在只是一个副业。    提交人    /u/Independent-Life8005   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fmdjbl/how_wifi_university_helped_me_start_a_lowkey_side/</guid>
+      <pubDate>Sat, 21 Sep 2024 21:35:03 GMT</pubDate>
+    </item>
     <item>
       <title>两天内 100 名用户，开始吧！！！</title>
       <link>https://www.reddit.com/r/SideProject/comments/1fmd18z/100_users_within_two_days_lets_go/</link>
@@ -60,55 +109,6 @@
       <description><![CDATA[大家好， 希望你们都过得很好！我想介绍一下 Amee，这是一个用于管理会话的轻量级库，旨在使用 JWT 处理用户身份验证和授权。 我很乐意听到您的想法或任何反馈，以帮助进一步改进该库。    提交人    /u/kayuxx   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1fmbbrs/i_build_a_library_that_helps_you_authenticate/</guid>
       <pubDate>Sat, 21 Sep 2024 19:51:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个简单的工具，可以在几秒钟内比较两个 Excel 文件。无需 Excel 知识</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fmb01l/i_created_a_simple_tool_to_compare_2_excel_files/</link>
-      <description><![CDATA[大家好，让我介绍一下我的业余项目 Sheetmatcher： 在担任 IT 顾问（尤其是为财务部门提供支持）的 15 年多时间里，我注意到一项至关重要但经常被低估的任务是比较两个 Excel 文件。 一开始总是认为几个公式就足够了，但当你开始在这里和那里添加检查时，30 分钟就过去了。错误随时都可能发生，只需拖动错误的公式即可。 这可能需要花费大量时间，具体取决于：  您的技能 文件的复杂性 您正在寻找哪些见解  使用 Sheetmatcher，您会得到一定的结果，并且会节省大量时间！ 使用 Sheetmatcher 您不需要了解任何有关 Excel 的知识：只需拖放 2 个文件，选择关键字段，就大功告成了！您将立即知道差异或缺失的记录。 如果列或记录的排序不同，这不是问题！ Sheetmatcher 的设计考虑到了简单性，以便每个人都可以使用。 要尝试一下，只需注册，您就可以访问演示版本： https://www.sheetmatcher.com/ 请在评论中告诉我您的想法！ PS：如果您真的喜欢它，我愿意收集一些评论，稍后作为社交证明/社交墙发布在主页上：请在此处进行：https://senja.io/p/sheetmatcher/r/19o9Va 谢谢，Francesco 30 秒预览： https://reddit.com/link/1fmb01l/video/99no3ayxs7qd1/player    由   提交  /u/Ok_Significance_6646   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fmb01l/i_created_a_simple_tool_to_compare_2_excel_files/</guid>
-      <pubDate>Sat, 21 Sep 2024 19:36:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>我是一名软件工程师，这是我第一次开发 SAAS。我开发了一个 AI 视频制作工具</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fmaqiq/im_a_software_engineer_and_this_is_my_first_time/</link>
-      <description><![CDATA[        提交人    /u/gogtodenski   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fmaqiq/im_a_software_engineer_and_this_is_my_first_time/</guid>
-      <pubDate>Sat, 21 Sep 2024 19:24:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>巴西忍者 | 面向开发人员的免费 AI 简历生成器</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fmaexo/ninja_in_brazil_free_ai_powered_resume_builder/</link>
-      <description><![CDATA[  由    /u/Advanced_Sprinkles14  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fmaexo/ninja_in_brazil_free_ai_powered_resume_builder/</guid>
-      <pubDate>Sat, 21 Sep 2024 19:08:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>独立黑客使用 Stripe，如何将其用于多个项目？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fm9ry0/indie_hackers_using_stripe_how_do_you_use_it_for/</link>
-      <description><![CDATA[有人告诉我，我们可以使用相同的条纹帐户，但用于属于同一 LLC 的不同项目，但我不知道如何在我的主条纹帐户中区分或创建此类项目特定设置。  如果您有类似的设置，您是如何做到的？    提交人    /u/rockntalk   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fm9ry0/indie_hackers_using_stripe_how_do_you_use_it_for/</guid>
-      <pubDate>Sat, 21 Sep 2024 18:39:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>我让人工智能将 YouTube 上的印地语-英语口音转换成高雅的英国口音……为什么不呢？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fm8zrs/i_made_ai_turn_hindienglish_accents_on_youtube/</link>
-      <description><![CDATA[        提交人    /u/No_Confection1929   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fm8zrs/i_made_ai_turn_hindienglish_accents_on_youtube/</guid>
-      <pubDate>Sat, 21 Sep 2024 18:03:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>评价我的业余项目想法</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fm8rpg/rate_my_side_project_ideas/</link>
-      <description><![CDATA[        提交人    /u/hell0__w0rld   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fm8rpg/rate_my_side_project_ideas/</guid>
-      <pubDate>Sat, 21 Sep 2024 17:53:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>我可以用域名 aicoders.dev 做什么</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fm8kwo/what_can_i_do_with_the_domain_aicodersdev/</link>
-      <description><![CDATA[它有非常多的可能性，我不确定如何使用这个域名，您觉得如何？    提交人    /u/BeautifulDataViz   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fm8kwo/what_can_i_do_with_the_domain_aicodersdev/</guid>
-      <pubDate>Sat, 21 Sep 2024 17:45:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
