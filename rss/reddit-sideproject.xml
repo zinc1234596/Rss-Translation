@@ -4,7 +4,28 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Mon, 23 Sep 2024 01:08:42 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Sep 2024 03:19:59 GMT</lastBuildDate>
+    <item>
+      <title>我制作了这个工具来指导你找到你的“人生任务”</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fnauks/i_made_this_tool_which_guides_you_to_find_your/</link>
+      <description><![CDATA[各位企业家大家好， 我开发了一个 AI 职业辅导工具，旨在帮助您发现您的人生任务。我知道这可能不是最适合这个的子版块，因为你们中的许多人已经雄心勃勃，可能已经想好了自己的道路，但我还是想分享它。 几年前读过罗伯特·格林的《精通》后，我发现他对内在动机和在童年激情中寻找意义的见解特别有价值。受他作品的启发，我认为一个在线测试可以帮助人们确定他们的人生任务会很有帮助。由于我找不到，我决定自己创建这个 AI 工具。它会提示您几个问题，然后使用语言模型分析您的回答并提供有见地的反馈。 如果有足够的兴趣，我愿意开发更高级的独立版本。如果您遇到任何错误或对 UI 改进有任何建议，请告诉我，以增强您的体验。    提交人    /u/nerdjsonxx   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fnauks/i_made_this_tool_which_guides_you_to_find_your/</guid>
+      <pubDate>Mon, 23 Sep 2024 03:01:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>我从 4 次失败的项目启动和最终的成功中学到了什么</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fnai2w/what_i_learned_from_4_failed_project_launches_and/</link>
+      <description><![CDATA[我会长话短说。 过去 5 年我做了 4 个项目。有些相当先进。每个项目我都花了一年时间才发布。  网站构建器 供人们买卖产品的平台 用于艺术的数字绘图应用程序 供人们学习绘画的网站  想象一下，花了 4 年时间和数千小时，却只有 1 个付费用户，他为月度计划支付了 3.99 美元，哈哈。 快进到几天前。我发布了一种我一直在私下构建的隐藏项目，与上述所有应用程序一起发布。花了 5 年时间才进入现在的测试阶段。 问题是这个应用程序的开发时间太长了，所以我不能直接发布它。 这是什么应用程序？我从头开始构建了一个自定义的 AI 对象检测引擎。想想 YoloV5，它是一种用于对象检测的计算机视觉模型。 作为对自己的挑战，我想看看我是否可以研究异议检测的工作原理和计算机视觉的一般原理。正如我提到的那样，在接下来的 5 年里，我将断断续续地进行开发，同时构建其他应用程序。 在某个时候，我创建了自己的引擎，它可以以 90% 的准确率检测对象，而只需要提供一张图像。你提供的图像越多，准确率就越高。训练模型所需的时间几乎是即时的。 我的下一个想法是如何将它应用于游戏。然后，我花了一年时间用这个模型构建了几个工具，这样它就可以作为机器人为你玩游戏。你为模型提供游戏中的对象，然后使用自定义选项告诉机器人你希望它如何玩游戏。 目前，我向游戏社区推出了这个机器人，一周之内，我就收到了 60 多个用户，其中大约 15 个付费用户。我预计这个数字还会上升。 我以美元货币收取 60 美元/月的费用，因此一旦兑换，我就会收取每位客户 80 美元/月的费用。我一周前才刚刚推出，每天都在吸引新用户，我的 YouTube 视频的观看次数也很多。 我从中学到的是：- 我在 2019 年很聪明地考虑了人工智能，因为现在未来只谈论人工智能，而且它还会增加。我的时机很幸运。  人们会为他们认为有价值的产品支付高价。我犹豫着是否要给这个机器人定这么高的价格，但我知道它有多强大，以及它能带来的价值。我之前从未将产品定价超过 20 美元。即使低至 3 美元，也仍然没有销售。人们会为他们认为有价值的东西付出任何代价。 公开构建。我已经在 YouTube 上记录了我的引擎的整个开发过程 4 年了。它建立了信任，并且是一种免费的广告方式，因为我没有为广告支付任何费用。我只能想象付费广告会有多大帮助。 关注趋势并尝试利用它们。这可以是快速赚钱，也可以是长期成功。 使用 AI 构建产品，但要努力脱颖而出。  我只用 1 款游戏就获得了如此大的成功。计划是扩展到其他游戏，因为我可以重复使用它。    提交人    /u/letsprogramnow   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fnai2w/what_i_learned_from_4_failed_project_launches_and/</guid>
+      <pubDate>Mon, 23 Sep 2024 02:43:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>项目是否需要完全原创才值得做？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fn9pre/do_projects_need_to_be_completely_original_to_be/</link>
+      <description><![CDATA[我问自己这个问题，因为我有一个梦想，那就是制作一款类似于 Last.FM、Airbuds 甚至 Musicboard 的社交媒体音乐应用。但他们已经自己做了。我不一定想为了钱或名气而做这件事，而是为了练习、娱乐和作为一个主要的作品集项目。我真的很喜欢音乐，喜欢分享和分类音乐的想法，我已经开始计划制作它了。我只是想知道，即使这是一个激情项目，如果它不是原创的，它是否值得做？ 尝试一下似乎很有趣，因为我和我的朋友们已经在做这件事了，但我不知道，我怀疑这是否会是一个人们不会关心的毫无意义的项目。但我希望它在我的作品集中，因为我会绑定它的前端和后端。大家觉得怎么样？    提交者    /u/g4vnn   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fn9pre/do_projects_need_to_be_completely_original_to_be/</guid>
+      <pubDate>Mon, 23 Sep 2024 02:01:02 GMT</pubDate>
+    </item>
     <item>
       <title>有哪些电子书登陆页面和平台可供参考？</title>
       <link>https://www.reddit.com/r/SideProject/comments/1fn8i9c/examples_of_ebook_landing_pages_and_platforms_to/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[从快速活动规划和日期轮询开始。还有很多事情要做，但这是 MVP：https://skippee.io/    由   提交  /u/TheZibZab   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1fn2zt1/im_building_a_thing_its_for_organising_things/</guid>
       <pubDate>Sun, 22 Sep 2024 20:36:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>开发了一款名为“Street Spot”的 iPhone 应用程序，用于查找纽约、西雅图和奥斯汀的街边停车位——寻求反馈！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fn2xp7/built_an_iphone_app_called_street_spot_to_find/</link>
-      <description><![CDATA[        提交人    /u/idkjustletmereddit   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fn2xp7/built_an_iphone_app_called_street_spot_to_find/</guid>
-      <pubDate>Sun, 22 Sep 2024 20:34:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个每日匿名问答应用程序。- 寻求反馈</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fn213d/i_created_a_daily_anonymous_qa_app_looking_for/</link>
-      <description><![CDATA[      我创建了https://thisdailyquestion.com/ 为了让这篇文章和应用程序一样简单 - 每天早上都会提出一个新问题，您每天只能匿名回答一次。 您的答案将进入心理量表，并根据您的回答的疯狂程度获得徽章 它非常简单，但我很喜欢编写它。这是我的第一个副业。 :)    提交人    /u/BigFish565   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fn213d/i_created_a_daily_anonymous_qa_app_looking_for/</guid>
-      <pubDate>Sun, 22 Sep 2024 19:55:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人需要 VA 吗？我愿意以高效、精确和专注的态度为您处理日常业务任务。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fn1wgu/anybody_needs_a_va_i_am_down_for_running_your/</link>
-      <description><![CDATA[直到今天，我管理着一家网络托管公司。     提交人    /u/Charming_You_8285   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fn1wgu/anybody_needs_a_va_i_am_down_for_running_your/</guid>
-      <pubDate>Sun, 22 Sep 2024 19:49:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
