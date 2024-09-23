@@ -4,111 +4,111 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Mon, 23 Sep 2024 15:15:47 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Sep 2024 18:19:41 GMT</lastBuildDate>
     <item>
-      <title>我的周末项目：Corporate Ipsum - 满足您企业需求的 Lorem Ipsum 生成器</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fnmuxj/my_weekend_project_corporate_ipsum_a_lorem_ipsum/</link>
-      <description><![CDATA[https://www.corporate-ipsum.com/  这个周末我有点不舒服，所以我想这是编写我的待办事项清单上的东西的最佳时机：一个企业 lorem ipsum 生成器。 如果你在公司环境中工作，你可能会遇到像“touch base”或“let&#39;s round back”这样的短语，让你怀疑使用它们的人是否真诚，或者他们是否在用商业术语掩盖他们的无能，希望没人注意到。本网站尊重这些流行语。 如果我遗漏了一个流行语，请告诉我x    提交人    /u/spacem3n   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fnmuxj/my_weekend_project_corporate_ipsum_a_lorem_ipsum/</guid>
-      <pubDate>Mon, 23 Sep 2024 15:13:47 GMT</pubDate>
+      <title>刚刚发布：在 leethub.io 上实时抓取来自 50 多家公司的 1,500 多个 HFT 职位</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fnr8g6/just_launched_scraping_1500_hft_jobs_in_realtime/</link>
+      <description><![CDATA[大家好！我一直在研究一个高频交易 (HFT) 招聘板，该板每隔几分钟从 50 多家顶级公司抓取并更新职位，为您提供有关最新职位的实时见解。如果您从事 HFT 或量化领域，此工具可以为您节省大量时间！ 我的网站 leethub.io 目前提供各个级别的 1,500 多个空缺职位，我很乐意听取您的反馈，了解它对您有何帮助、您希望看到哪些功能以及您可以建议的任何改进。欢迎提出任何批评意见！&quot;    提交人    /u/Honest-Ad-438   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fnr8g6/just_launched_scraping_1500_hft_jobs_in_realtime/</guid>
+      <pubDate>Mon, 23 Sep 2024 18:12:45 GMT</pubDate>
     </item>
     <item>
-      <title>我开发了一款 ChatGPT 历史搜索 Chrome 扩展程序，第一周就获得了 3 笔销售</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fnmooy/i_built_a_chatgpt_history_search_chrome_extension/</link>
-      <description><![CDATA[      我在查找我的 ChatGPT 历史记录时遇到了问题。我不得不无休止地滚动，有时甚至找不到我的聊天记录。 因此，我决定将书签文件夹作为一个周末项目来构建，并在 3 天内发布。在收到一些评论和反馈后，我发布了 PRO 版本。 在第一周，我获得了 3 笔销售。现在，我正准备在 Product Hunt 上发布，专注于营销，并决定投入更多时间。 我计划添加 ChatGPT 不会提供的功能，确保产品对用户仍然有价值。    提交人    /u/typing_username   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fnmooy/i_built_a_chatgpt_history_search_chrome_extension/</guid>
-      <pubDate>Mon, 23 Sep 2024 15:06:36 GMT</pubDate>
+      <title>使用 Clarymind 减少屏幕时间</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fnr4or/cut_screen_time_with_clarymind/</link>
+      <description><![CDATA[      Clarymind 正式推出 Shado！它是一个人工智能角色，可以帮助您减少屏幕时间。当您解锁受限制的社交应用程序时，Shado 会根据您陈述的原因提供是否继续的建议。 https://reddit.com/link/1fnr4or/video/498ldfxpmlqd1/player 我们创建此功能是因为写下您使用应用程序的目的有助于阐明您的意图并起到有用的提醒作用。 根据我们的用户，当他们被提示回答“为什么”时，如果没有令人信服的理由，通常更容易关闭应用程序。这有助于他们更加注意使用上瘾的应用程序。 而且 Shado 很可爱！它为减少手机使用这项具有挑战性的任务增添了一点乐趣。 如果您想更有效地管理时间并提高注意力，请尝试 Clarymind：https://go.clarymind.com/QtV9P6 Clarymind 还提供呼吸​​解锁、冥想计时器和睡眠音乐等功能。    提交人    /u/haowei_chien   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fnr4or/cut_screen_time_with_clarymind/</guid>
+      <pubDate>Mon, 23 Sep 2024 18:08:26 GMT</pubDate>
     </item>
     <item>
-      <title>我制作了一个免费工具来验证你的应用，这样你就不用浪费时间构建它了🚀</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fnmj28/i_made_a_free_tool_to_validate_your_app_before/</link>
-      <description><![CDATA[嘿，开发者和企业家们！👋 我最近开发了一个免费工具，我希望在开始开发应用时能拥有它。它叫做 NativeFast Validate，它可以帮助您验证您的应用创意，避免您花费数周或数月开发应用却发现无人问津。😅 很多时候，我花了数月开发某个应用，然后发布，却一无所获。 🦗 因此，我决定创建一个免费工具，它可以：快速为您提供有关应用程序创意的反馈，帮助您定义理想客户档案 (ICP)，为您提供明确的信号，表明是否值得继续前进或转型... https://reddit.com/link/1fnmj28/video/8rwxnhexpkqd1/player    提交人    /u/Garslap   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fnmj28/i_made_a_free_tool_to_validate_your_app_before/</guid>
-      <pubDate>Mon, 23 Sep 2024 15:00:10 GMT</pubDate>
+      <title>有人与 YouTube 创作者合作过他们的 saas 吗？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fnqzko/has_anyone_partnered_with_a_youtube_creator_for/</link>
+      <description><![CDATA[嗨👋 我是 slick.is 的创建者——非常好奇想知道是否有人在这里与 YouTube 创作者合作过他们的 saas。体验如何？你是如何联系/建立联系的？你是与代理机构合作还是直接沟通？参与/合作关系是什么样的——提前付款、基于某些里程碑还是基于推荐？任何帮助都将不胜感激。    提交人    /u/shivanshmehendiratta   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fnqzko/has_anyone_partnered_with_a_youtube_creator_for/</guid>
+      <pubDate>Mon, 23 Sep 2024 18:02:31 GMT</pubDate>
     </item>
     <item>
-      <title>Lastheard 音乐共享</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fnmiu2/lastheard_music_sharing/</link>
-      <description><![CDATA[      你好！我发布了我的第一个应用程序。它被称为 Lastheard，它允许您发布音乐、关注朋友、标记场地以及在地图上发现周围的新音乐。非常希望得到反馈 :) 可在应用商店中获取。     提交人    /u/stansner   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fnmiu2/lastheard_music_sharing/</guid>
-      <pubDate>Mon, 23 Sep 2024 14:59:56 GMT</pubDate>
+      <title>Moodies - 根据你的心情推荐电影的引擎</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fnqvyh/moodies_a_movie_recommendation_engine_based_on/</link>
+      <description><![CDATA[      https://reddit.com/link/1fnqvyh/video/7ztsyv4vklqd1/player 我正在推出我的第一个应用程序，名为Moodies。我有以下路线图  允许用户创建可共享的监视列表 允许用户对推荐进行投票和分享推荐 允许用户从结果直接链接到流媒体平台，以便更快地开始观看  你认为这有什么价值吗？    提交人    /u/Any-Photograph6771   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fnqvyh/moodies_a_movie_recommendation_engine_based_on/</guid>
+      <pubDate>Mon, 23 Sep 2024 17:58:39 GMT</pubDate>
     </item>
     <item>
-      <title>你的副项目价值 6 美元</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fnmhvu/your_side_project_is_worth_6/</link>
-      <description><![CDATA[      找到了一个工具：https://howmuchismysideprojectworth.com/ https://preview.redd.it/bfhkovqepkqd1.png?width=1586&amp;format=png&amp;auto=webp&amp;s=a50ad5f02a541336624f2ce22a9adbefeaad8cbf 现在试着忘记它😁   由    /u/BlueberryMedium1198  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fnmhvu/your_side_project_is_worth_6/</guid>
-      <pubDate>Mon, 23 Sep 2024 14:58:46 GMT</pubDate>
+      <title>为你的初创企业进行市场调查</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fnqvlx/market_research_for_your_startup/</link>
+      <description><![CDATA[大家好！ 我在 VC 公司担任风险分析师，想利用我的经验来帮助别人（甚至在未来一起工作）。 因此，我可以在空闲时间为你和你的项目做一些研究，基于你的需求（竞争对手/市场规模/区域/GTM/投资者相关/等等），这样你就不需要付钱给自由职业者了。 如果你有一个正在进行的创业公司，并且有未来的投资潜力（不是一个想法，而是实际运作的创业公司，或者至少是 MVP）——请直接发信息给我，让我们看看我能如何帮助你（如果我真的可以哈哈）。 附言：免费（或捐赠或巧克力棒等），但有选择性（我受体力限制）。 附言：90% 我不会将你与我的公司或类似的东西联系起来，但如果项目和你的计划适合它 - 为什么不呢？:) 希望收到您的来信，祝您好运！    提交人    /u/ResearchReasonable55   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fnqvlx/market_research_for_your_startup/</guid>
+      <pubDate>Mon, 23 Sep 2024 17:58:17 GMT</pubDate>
     </item>
     <item>
-      <title>我创建了 Luffa AI：一款用于自然交流的浮动面试助手 - 在发布前评估用户兴趣</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fnm9gu/i_built_luffa_ai_a_floating_interview_assistant/</link>
-      <description><![CDATA[大家好， 我一直在研究 Luffa AI，这是一款在视频采访期间提供实时指导的面试助手。它的独特功能是什么？它透明地漂浮在你的屏幕上，帮助你在获得 AI 支持的同时保持自然行为。 作为一名独立开发者，我将业余时间投入到这个项目中。核心思想是，精彩的采访可以展示真实的自我，包括非语言提示，而不仅仅是排练过的答案。 Luffa AI 旨在让你：  保持自然的目光接触和肢体语言 定位浮动窗口以优化摄像头视线 回答时关注你的表情和姿势  它即将发布，但在我按下按钮之前，我很想听听你的意见。你认为在在线面试中保持自然的沟通和肢体语言至关重要吗？一个既能帮助你保持表达能力又能提供指导的工具对你有价值吗？ 如果你感兴趣或者只是想讨论这个概念，请发表评论或直接留言。我正在建立一个潜在早期用户列表，以便在上线时通知你。 附言：如果你好奇的话，我有一个快速演示视频。    提交人    /u/SeanLiuZheng   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fnm9gu/i_built_luffa_ai_a_floating_interview_assistant/</guid>
-      <pubDate>Mon, 23 Sep 2024 14:48:58 GMT</pubDate>
+      <title>我创建了一个网站，让您列出想要购买的商品清单，然后只需单击一下即可将其添加到亚马逊购物车中。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fnqd4g/i_created_a_website_which_lets_you_make_a_list_of/</link>
+      <description><![CDATA[所以最近我在考虑做一件事，让我可以一次点击将多个商品添加到购物车中，这样我就可以准备好进行快速销售。 我知道我可以在亚马逊上制作一个愿望清单，然后点击每个商品来做同样的事情，或者预先将商品放在购物车中。但如果：  我想下多个订单。 想要分享一个列表，其中所有东西都准备好添加到购物车中。  所以我创建了clicktoadd，它让我做同样的事情。它还允许我分享一个包含所有项目的链接。 很想知道您的观点或建议。 PS：专为亚马逊印度制造。 clicktoadd    提交人    /u/rolling_viper   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fnqd4g/i_created_a_website_which_lets_you_make_a_list_of/</guid>
+      <pubDate>Mon, 23 Sep 2024 17:37:15 GMT</pubDate>
     </item>
     <item>
-      <title>疗愈之声的诞生：为期 4 天的灵感与专注之旅</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fnm6fj/the_birth_of_healing_sounds_a_4day_journey_of/</link>
-      <description><![CDATA[   这一切都始于我外出散步的时候。我的思绪飘到了我尝试过的无数应用程序上——其中很多都充满了合成声音、令人难以控制，而且通常价格昂贵。我突然意识到声音疗法应该是多么简单，但现有的解决方案似乎并非如此。正是在那次散步时，我平静地购买了 Calm，才意识到我想要更简单、更真实的东西。 那天晚上，我睡不着觉。我的脑海里充满了各种想法，渴望深入研究代码。我不得不强迫自己睡一觉，为第二天整理思绪。但当我醒来时，创作的渴望更加强烈。我进入了所谓的“僧侣模式”——一种纯粹专注的状态——并在周六开始了这个项目。 到了周日，我已经编写了第一行代码，这在一定程度上要归功于与人工智能的配合，它使这个过程更快、更愉快。概念、文本甚至网站都成形了。从一开始，我的脑海里就对设计有了清晰的认识。起初，我考虑聘请一名设计师，但后来我决定挑战自己，学习新技能。 三天后，MVP 完成了。但和往常一样，我花了一半的时间修复错误。我真的想让它大放异彩。我设想将平和、快乐的僧侣作为体验的一部分——平静的象征，就像应用程序本身一样。 那时，我已经在散步时测试它，感受我创造的治疗声音的“光芒”。网站已启动，App Store 图片已设计，应用程序已于周三提交到 App Store——从开始到现在仅用了四天时间。这是一个密集但回报令人难以置信的过程。 现在，我在这里等待苹果的审核，很高兴用官方 App Store 链接更新网站，并最终与朋友分享。我迫不及待地想看看人们如何与该应用互动——从发现它、下载它、使用它，并希望享受它带来的平静。 （目前仅适用于 iOS 设备。故意的。如果对分发效率、ASO 等感兴趣，可以解释更多。） 期待更广泛的发布，我特别渴望从独立社区获得反馈。我深信这个概念，这就是为什么我用三层模型构建应用程序的原因。基本的 15 分钟冥想课程，我称之为 GLOW，将永远免费，因为我相信每个人都应该有机会获得幸福。除此之外，还有年度订阅和家庭支持的永久许可——一次付费，永久拥有。 所以我在这里，愿意接受反馈，并乐于传播幸福和声音治疗的橙色光芒。试试看，与朋友分享，并帮助我传播关于声音沐浴和正念的信息。让我们让世界焕发光彩。 查看https://heal75.com/  https://preview.redd.it/s9cmy183nkqd1.jpg?width=2064&amp;format=pjpg&amp;auto=webp&amp;s=4572a194179dfa3a5c0a1f735ae249ca563230f9 https://preview.redd.it/ovn99183nkqd1.jpg?width=2064&amp;format=pjpg&amp;auto=webp&amp;s=1dfaf2f3b48c4f184623d098545f13666ec721c8 https://preview.redd.it/mpgvl183nkqd1.jpg?width=2064&amp;format=pjpg&amp;auto=webp&amp;s=689a69e6f9cd001836b839208f5af836ca90298a    提交人    /u/NikitaY_Indie   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fnm6fj/the_birth_of_healing_sounds_a_4day_journey_of/</guid>
-      <pubDate>Mon, 23 Sep 2024 14:45:18 GMT</pubDate>
+      <title>刚刚推出的“我现在该做什么”蓝调</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fnqd1w/the_justlaunchedwtfdoidonow_blues/</link>
+      <description><![CDATA[在发布之前，一切都很有趣。  几周前，我发布了我的产品。在发布之前，我知道需要做什么，然后我就做了。这很棒。我寄予厚望。 发布后，我的希望没有那么高，尽管我之前做了所有的计划，但我不知道下一步该做什么。每项策略都突然摆在桌面上，它们都需要大量时间，而且很少有策略能真正发挥作用。 有时有点不知所措。有人有过这种经历吗？你是如何坚持下来的？更重要的是，你是如何开始获得新用户的？    提交人    /u/jamesofthedrum   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fnqd1w/the_justlaunchedwtfdoidonow_blues/</guid>
+      <pubDate>Mon, 23 Sep 2024 17:37:11 GMT</pubDate>
     </item>
     <item>
-      <title>寻找对副项目更加乐观的评价。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fnm5an/looking_for_more_optimistic_quotes_for_a_side/</link>
-      <description><![CDATA[      甘地不是这么说的吗？    提交人    /u/cur8media   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fnm5an/looking_for_more_optimistic_quotes_for_a_side/</guid>
-      <pubDate>Mon, 23 Sep 2024 14:43:53 GMT</pubDate>
+      <title>我制作了一个工具，可以使用人工智能从任何图像生成详细描述</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fnpsjr/i_made_a_tool_that_uses_ai_to_generate_detailed/</link>
+      <description><![CDATA[我刚刚完成了一个很酷的工具，它让你上传任何图像，然后人工智能会对其进行分析，为你提供超详细的描述。它不仅仅是生成提示；就像有一个虚拟艺术评论家分解你图片的每个部分。📸 如果你需要添加替代文本、创建更好的标题，或者只是想更深入地分析图像中发生的事情，它是完美的选择。试一试，让我知道你的想法！ 在这里查看：图像提示    提交人    /u/Corinstit   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fnpsjr/i_made_a_tool_that_uses_ai_to_generate_detailed/</guid>
+      <pubDate>Mon, 23 Sep 2024 17:14:01 GMT</pubDate>
     </item>
     <item>
-      <title>我的第一笔副业收入：在我的科技通讯上花 199 美元买一个广告位</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fnm29m/my_first_on_my_side_hustle_an_ad_space_for_199_in/</link>
-      <description><![CDATA[所以我大约 4 年前开始写时事通讯。建立了一个内部大学电子邮件列表，但无法将其货币化，所以停止了几年，专注于大学。去年重新启动。 大约一年前，对其进行了重新命名，将其迁移到 substack 以获得更好的受众，然后再次开始编写。获得了一些关注，通过推荐增加了一些用户，总体来说不错。 但我仍然没有获得付费订阅者的计划。 因此，我开始探索是否有公司赞助技术时事通讯。令我惊讶的是，需求大于供应。 长话短说，在 passionfroot 上建立了一个店面。不知从何而来，获得了一些入站。无法转换，因为大多数不符合我的细分市场或定价。 上周获得了我的第一次转化。我已经忙忙碌碌了很久，终于能够从我的主要工作中赚取一些额外的现金，这种感觉太不真实了。 继续努力，有时事情就是突然发生的。 如果您喜欢阅读有关人工智能，技术和商业的文章，请查看我的时事通讯。 虽然可能性不大，但如果您在时事通讯上做广告，请查看我的店面 您第一次通过副业赚钱时感觉如何？现在看起来怎么样？    提交人    /u/theintelligentbuyer   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fnm29m/my_first_on_my_side_hustle_an_ad_space_for_199_in/</guid>
-      <pubDate>Mon, 23 Sep 2024 14:40:15 GMT</pubDate>
+      <title>我的第一个 iOS/Android 应用程序：Iconic TravelMate</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fnpijz/my_first_iosandroid_app_iconic_travelmate/</link>
+      <description><![CDATA[        提交人    /u/Jasperavv   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fnpijz/my_first_iosandroid_app_iconic_travelmate/</guid>
+      <pubDate>Mon, 23 Sep 2024 17:02:45 GMT</pubDate>
     </item>
     <item>
-      <title>今年迄今为止，我们 DevDesign 代理机构的总收入超过 1 万美元</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fnlpnm/over_10k_in_total_revenue_year_to_date_from_our/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fnlpnm/over_10k_in_total_revenue_year_to_date_from_our/</guid>
-      <pubDate>Mon, 23 Sep 2024 14:25:04 GMT</pubDate>
+      <title>AI工具浏览器</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fnotfm/browser_for_ai_tools/</link>
+      <description><![CDATA[我构建了一个应用程序，可帮助您找到满足您需求的 AI 工具。 此外，如果您是 AI 开发人员，您可以免费将您的工具添加到我们的目录中。 https://www.theaibrowser.com/    提交人    /u/mihneann   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fnotfm/browser_for_ai_tools/</guid>
+      <pubDate>Mon, 23 Sep 2024 16:34:22 GMT</pubDate>
     </item>
     <item>
-      <title>我为了解决自己的问题而创建的两个副项目</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fnlnze/two_side_projects_i_created_to_solve_my_own/</link>
-      <description><![CDATA[ 发票生成器：编辑并打印以获取发票。 简历生成器：下载示例 json，编辑您的详细信息，上传并打印以获取简历。  希望得到一些反馈，并了解是否有其他人会真正使用它们。另外，请向我提出我可以构建的更多小众 FOSS 应用程序的想法！    提交人    /u/commitsovercoffee   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fnlnze/two_side_projects_i_created_to_solve_my_own/</guid>
-      <pubDate>Mon, 23 Sep 2024 14:22:57 GMT</pubDate>
+      <title>这个网站引起你的兴趣吗？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fnotfd/does_this_website_pique_your_interest/</link>
+      <description><![CDATA[https://thehumanrpg.com/ 衡量对博客/时事通讯想法的兴趣并想知道如何改进此页面    提交人    /u/nadimify   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fnotfd/does_this_website_pique_your_interest/</guid>
+      <pubDate>Mon, 23 Sep 2024 16:34:22 GMT</pubDate>
     </item>
     <item>
-      <title>我讨厌 Gcal 通知，所以我构建了一个可以给我发送两次短信的东西！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fnljrd/i_hate_gcal_notifications_so_i_built_something_to/</link>
-      <description><![CDATA[      您会看到，如果您当天晚些时候有一个会议，Gcal 将只会向您发送 1 条有关该会议的通知。 我错过了很多次会议 因为我刚刚刷掉了我所有的通知…… 这就是我构建Mojo 的原因 - 一个向您发送您需要记住的一切的朋友。 您所要做的就是告诉它您需要做的一切；它会准时提醒您并检查以确保您已完成操作。 尝试一下，它完全免费，并且在 Whatsapp 上！ https://link.heymojo.club/chat/reddit https://i.redd.it/dwnrlb24ikqd1.gif    提交人    /u/AhmadElsaeed   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fnljrd/i_hate_gcal_notifications_so_i_built_something_to/</guid>
-      <pubDate>Mon, 23 Sep 2024 14:17:48 GMT</pubDate>
+      <title>我开发了一款游戏化的 AI 约会应用程序（sparkaidating.com）</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fnoq8z/i_built_a_gamified_ai_dating_app_sparkaidatingcom/</link>
+      <description><![CDATA[        提交人    /u/RCostaReis   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fnoq8z/i_built_a_gamified_ai_dating_app_sparkaidatingcom/</guid>
+      <pubDate>Mon, 23 Sep 2024 16:30:49 GMT</pubDate>
     </item>
     <item>
-      <title>我开发了一款出色的 Android 应用，可以将文本转换为音频！它可以在后台大声朗读文本，并支持多种语言。此外，您还可以轻松将音频导出为 WAV 文件。快来试用并改变您的阅读体验吧！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fnl57d/ive_developed_an_amazing_android_app_that/</link>
-      <description><![CDATA[      链接：https://play.google.com/store/apps/details?id=com.princejkmr.ttstoaudiomp3 一款多功能的 Android 应用，可将文本转换为清晰、高品质的音频。该应用程序非常适合学生、专业人士和任何喜欢聆听内容的人，它提供了一套强大的功能，旨在提高您的工作效率和可访问性。 https://preview.redd.it/ys7fq713fkqd1.png?width=1600&amp;format=png&amp;auto=webp&amp;s=1a415c6f7ac4641e880184c200010b3ed690047e    提交人    /u/Prior_Permission6232   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fnl57d/ive_developed_an_amazing_android_app_that/</guid>
-      <pubDate>Mon, 23 Sep 2024 14:00:27 GMT</pubDate>
+      <title>帮助非技术用户开始使用 Storyblok 的简要指南</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fnodhx/brief_guide_to_help_nontechnical_users_get/</link>
+      <description><![CDATA[我一直在编写一份简短的指南，帮助非技术用户开始使用 Storyblok，我还为初学者添加了一个教程部分。如果您有时间，我很想听听您的想法。以下是链接：https://storyblok-simplified.vercel.app/    提交人    /u/MR_n1C0LA2   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fnodhx/brief_guide_to_help_nontechnical_users_get/</guid>
+      <pubDate>Mon, 23 Sep 2024 16:15:58 GMT</pubDate>
     </item>
     <item>
-      <title>Chrome 扩展程序可帮助您集中注意力</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fnl4ox/chrome_extension_to_help_you_focus/</link>
-      <description><![CDATA[      在学习或从事项目时，是否被 Youtube、Twitter 或其他网站分散了注意力？我创建了一个简单的免费 Chrome 扩展程序，它使您能够阻止分散注意力的网站并将您重定向到提醒您集中注意力的页面。 当我必须执行某些任务时，我经常会发现自己在浏览 Youtube 或 Twitter，因此我创建了这个 Chrome 扩展程序。 如果您在专注于一项任务时不限制浏览量，那么您很可能无法完成它。 例如，您需要完成一项学校任务，这会为您带来 80% 的成绩。那一刻，你需要一个这样的扩展来帮助你集中注意力，取得好成绩:)。 Chrome 扩展程序的链接在评论中。 https://preview.redd.it/es​​0dtlzrekqd1.jpg?width=1662&amp;format=pjpg&amp;auto=webp&amp;s=5f78ccc4520e674b76b40baa06ab424b4a652cd1    提交人    /u/cachingbytes   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fnl4ox/chrome_extension_to_help_you_focus/</guid>
-      <pubDate>Mon, 23 Sep 2024 13:59:54 GMT</pubDate>
+      <title>发布第二天就销售了 3 件！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fno1up/3_sales_on_the_second_day_of_the_launch/</link>
+      <description><![CDATA[我超级兴奋。 就在最近，我们启动了 Meuw Meuw 项目，令我们惊讶的是，仅一天时间我们就完成了 3 笔销售。 哇。 当您打开您的联盟帐户并看到统计数据显示完成 3 笔销售时的那种感觉真是太棒了！    提交人    /u/bendras_klp   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fno1up/3_sales_on_the_second_day_of_the_launch/</guid>
+      <pubDate>Mon, 23 Sep 2024 16:02:24 GMT</pubDate>
     </item>
     <item>
-      <title>我在 Hacker News 上获得了 266 个积分和 142 条评论 - 以下是我从中获取的流量</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fnkxx8/i_received_266_points_and_142_comments_on_hacker/</link>
-      <description><![CDATA[一周前，我在 SHOW HN 上发布了我的业余项目，获得了 266 个积分和 142 条评论。 我在其他地方对这个项目保持沉默（尽管我注意到有些人在其他地方发布了它），所以我的大部分流量来自 Hacker News。 以下是它产生的流量的一些统计数据： 第一天的访问量（当时它在 HN 的顶部）：7.5k 本周总访问量：15k 当然，第一天是最好的，然后它就下降了。在过去的两天里，我每天大约有 200 名用户，而前两天，每天大约有 630 名用户。 使用情况统计： 从 90,000 多条文本中删除了废话。 用户输入的总字符数：1150 万。 回复的总字符数：240 万。 成本： 我在 Claude API 上花了 30.88 美元。 前两天，我使用的是 Claude 3.5 Sonnet，价格为 27.33 美元。 然后我换成了 Claude 3 Haiku，价格为 3.55 美元。 收入： 我收到了 7 杯咖啡，每杯 5 美元，总计 35 美元。 黑客新闻链接：https://news.ycombinator.com/item?id=41545335    由   提交  /u/Adrian_Dzieg   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fnkxx8/i_received_266_points_and_142_comments_on_hacker/</guid>
-      <pubDate>Mon, 23 Sep 2024 13:51:25 GMT</pubDate>
+      <title>成功的创始人是如何获得第一批 1,000 名用户的？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fnnxkb/how_did_successful_founders_land_their_first_1000/</link>
+      <description><![CDATA[对于任何初创公司来说，获得最初的 1,000 名用户都至关重要。 当然，您可以投放广告、发送冷电子邮件或依赖所有典型的、过度使用的策略。 或者，您可以向 Reddit 和 Discord 发送垃圾邮件，被人指责，最终用户为零。 但问题是：创始人一直在 Reddit 和不同社区上问同样的问题，并且他们得到了一些宝贵的答案。 因此，与其问同样的问题，为什么不利用已经存在的见解呢？ 为了节省您的时间，我整理了一份关于“初创公司如何吸引第一批用户”的免费文章汇总并将所有 URL 编译到一个地方。 使用此资源以智能方式扩大您的用户群。 如果您有更多很棒的建议，请随时告诉我，我会继续更新文章。 是的，它是 100% 免费的。 这是完整的文章：    提交人    /u/popeeeee222   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fnnxkb/how_did_successful_founders_land_their_first_1000/</guid>
+      <pubDate>Mon, 23 Sep 2024 15:57:36 GMT</pubDate>
     </item>
     </channel>
 </rss>
