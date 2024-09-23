@@ -4,7 +4,84 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Sun, 22 Sep 2024 21:12:43 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Sep 2024 01:08:42 GMT</lastBuildDate>
+    <item>
+      <title>有哪些电子书登陆页面和平台可供参考？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fn8i9c/examples_of_ebook_landing_pages_and_platforms_to/</link>
+      <description><![CDATA[很久以前，我写了一本书，实际上是用 html/css 创建的。当时人们很喜欢它，但它已经过时了，人们说它看起来过时了。构建电子书登陆页面的最佳平台是什么？你能分享一些“现代”且有效的优秀电子书登陆页面样本吗？    提交人    /u/Inerkore   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fn8i9c/examples_of_ebook_landing_pages_and_platforms_to/</guid>
+      <pubDate>Mon, 23 Sep 2024 00:57:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Flutter 学习应用</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fn7upf/app_for_learning_flutter/</link>
+      <description><![CDATA[我很高兴向大家介绍 Flutteriando，这是我专门为增强 Flutter 和 Dart 学习而开发的应用。在其中，您可以找到各种有价值的资源，帮助您提高技能并进一步掌握这些技术。 Play Store：https://play.google.com/store/apps/details?id=com.flutteriando    提交人    /u/Fabulous_Ad4008   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fn7upf/app_for_learning_flutter/</guid>
+      <pubDate>Mon, 23 Sep 2024 00:24:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>我是否应该全力投入到我的副业中，该项目能带来约 4000 美元的 MRR 呢？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fn7opd/should_i_go_all_in_with_my_side_project_that/</link>
+      <description><![CDATA[大家好 我今年 33 岁，男性，单身，没有实际责任 我在公司工作，有一些积蓄。 在过去的 1.5 年里（或者可能是 2 年，但我只计算我第一次上线网站的时间），我一直在做一个副业：https://ipapi.is/ 这是一个关于 IP 地址的非常小众的 API，甚至不是一个新想法。我有很多竞争对手基本上做同样的事情。所以目前这个东西每月为我带来大约 4k 到 5k MRR 美元，在过去的几个月里，平均每月的增长可能是 +300 美元。我根本没有做任何营销。在这里写东西并不能给我带来任何合理的营销，因为它是一个极端小众的产品。  但我确实为此付出了很多努力，并不断改进它。让它变得更好真的很难。我最大的竞争对手有 34 名全职员工，基本上也在做同样的事情。在 API 的某些方面，我甚至比他们更好。 所以我的问题是：我应该辞掉工作，全力以赴吗？ 我想我是一个专注于安全的人，我目前的工作薪水很高，我喜欢那里的工作。` 此外，我担心我的成长会停止，或者我的业务会走下坡路。 你们会怎么做？    提交人    /u/incolumitas   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fn7opd/should_i_go_all_in_with_my_side_project_that/</guid>
+      <pubDate>Mon, 23 Sep 2024 00:15:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>学术 UX 项目的用户研究-（环保习惯追踪工具）</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fn7nld/user_research_for_an_academic_ux_project/</link>
+      <description><![CDATA[UX 研究调查表 大家好，我正在做一个个人项目 (UX 作业)，研究是作业的一部分。  我选择的项目是为一个应用程序构建 UX，帮助用户意识到形成环保习惯，如果他们已经踏上这一旅程，这个应用程序打算通过提供提示、视频和提醒让旅程更加顺畅。 这将是一个匿名表格，如果您能通过参加此调查来提供帮助，那将非常有帮助。 提前谢谢您！    提交人    /u/National-Dealer-743   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fn7nld/user_research_for_an_academic_ux_project/</guid>
+      <pubDate>Mon, 23 Sep 2024 00:14:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>我建立了一个免费/免费增值 AI 工具的可视化目录，以便我可以学习 React</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fn6o44/i_built_a_visual_directory_of_freefreemium_ai/</link>
+      <description><![CDATA[      https://preview.redd.it/tb13f0zz2gqd1.jpg?width=2026&amp;format=pjpg&amp;auto=webp&amp;s=be8e9b2fa326eb58977de2cbbd5ecf305c1d74fd 我已经在 AI 领域摸索了一段时间，但我发现有一件事很有挑战性，那就是找到免费的 AI 工具。我的 UI/UX 经验有些欠缺，我觉得是时候解决一些更直观的问题了。 在过去的两个周末，我为免费/免费增值 AI 工具构建了一个可视化目录 aiatlas.app。这是一个 WIP，但我的目标是创造一种简洁、直观的体验，让发现 AI 工具变得非常简单。 功能快速列表：实时应用排名、标签过滤、趋势标签、用户提交和悬停预览。 我构建这个是为了满足自己的需求，并更多地亲身体验 UI 设计。我很想听听你的想法和想法，了解我可以添加的其他功能，以使其变得更好。此外，请随意贡献您自己的任何工具。    提交人    /u/s4bali   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fn6o44/i_built_a_visual_directory_of_freefreemium_ai/</guid>
+      <pubDate>Sun, 22 Sep 2024 23:25:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>从小事做起，保持动力：一位用户（也是一位朋友）如何在我的应用构建之旅中让我度过美好的一天</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fn5hhk/start_small_stay_motivated_how_one_user_and_a/</link>
+      <description><![CDATA[根据我的经验和观察，当你尝试构建某些东西时，你的家人和朋友会说这很酷，但他们往往不会使用你正在构建的应用程序。也许这是我的错，我试图构建的东西并没有创造真正的价值。然而，我试图开发小应用程序只是为了探索这个世界。看到一些输出真的很有激励作用，因此我决定从小处做起。如果你是新手，几个屏幕的实时展示比什么都好。  今天，我的一个最好的朋友（增长经理）告诉我，他花了将近 20 分钟在我的其中一个应用程序上 - https://www.manymini.app/app-hub/lorem-ipsum-generator  我知道互联网上有大量这种应用程序。但是，它仍然让我感到很开心，我想分享它来鼓励那些像我一样还在业余项目旅程起步阶段的人。 归根结底，这只是一段旅程！我们可以学习、发现、创造、转变……但我们需要动力！所以从小事做起吧！ PS：自从我妻子让我开发这个应用程序以来，我就开始了这段旅程：https://www.manymini.app/app-hub/kebab-case    提交人    /u/Muertos8   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fn5hhk/start_small_stay_motivated_how_one_user_and_a/</guid>
+      <pubDate>Sun, 22 Sep 2024 22:28:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>部署位置：渲染平台与 AWS</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fn563w/where_to_deploy_render_platform_vs_aws/</link>
+      <description><![CDATA[我正在研究我的创业想法，想知道在 render 和 aws 之间哪个对我来说更好。 总的来说，render 可以卸载部分工作并处理它。另一方面，AWS 看起来更便宜，一旦我在 AWS 上部署了一个 Web 应用程序，我就可以复制或复制到另一个 Web 应用程序。 我的问题是，对于尚未找到 PMF 的附带项目，AWS 真的更便宜吗？在 AWS 上部署而不是在 render 上部署有多复杂。我需要了解有关 render 的任何特别信息吗？ 我是一名后端工程师，正在学习前端。我的 Web 应用技术堆栈将是：  Django 主框架 用于异步任务的 django celery 或用于运行长时间异步任务的另一个容器 Influx 数据库 Postgres 数据库 uwsgi celery 可能需要或不需要 Redis JavaScript React 用于 DNS 的 Cloudflare TLS Stripe 支付 不需要其他身份验证，因为 Django 已经有身份验证电池  我猜渲染解决了一些问题，例如 TLS 和 postgres、静态站点部分......其他部分如何，使用 AWS 会有多难以及它们的成本    提交人    /u/Best_Fish_2941   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fn563w/where_to_deploy_render_platform_vs_aws/</guid>
+      <pubDate>Sun, 22 Sep 2024 22:13:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>这周你在建造什么？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fn4m3e/what_are_you_building_this_week/</link>
+      <description><![CDATA[  由    /u/mighty_mike7  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fn4m3e/what_are_you_building_this_week/</guid>
+      <pubDate>Sun, 22 Sep 2024 21:48:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>12 天前，我试运行了 Cleeve，目前已有 115 名注册用户，这感觉太棒了，因为我没有花太多精力进行营销</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fn4gl7/i_soft_launched_cleeve_12_days_ago_and_i_have_115/</link>
+      <description><![CDATA[到目前为止，X 和 Reddit 一直是我轻松谈论 Cleeve 的主要平台。 我并没有计划发布帖子或考虑发布最具病毒性的帖子。我只是把我的想法说出来，就像我会和朋友谈论 Cleeve 的情况一样。 大约 99% 的帖子甚至都没有获得 1k 次浏览量，但出于某种原因，我能够让人们注册，感觉很棒 我想说做真实的自己有时是关键。我不计划我的帖子。我没有安排我的帖子。我只是在认为它可以帮助某人时分享 也许，只需即兴发挥几天并跟踪表现。也许它会对你有用 Cleeve 可能不适合您，但它是一个简单的工具，可帮助您将网页链接保存在一个地方，这样您就不必将保存的内容分散在不同的应用程序上。我们专注于帮助您保存、组织和检索，而不会破坏您的工作流程     提交人    /u/Red_Choco_Frankie   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fn4gl7/i_soft_launched_cleeve_12_days_ago_and_i_have_115/</guid>
+      <pubDate>Sun, 22 Sep 2024 21:41:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>社交媒体应用</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fn44rf/social_media_application/</link>
+      <description><![CDATA[嗨，reddit，我正在考虑推出一个由社区驱动的社交媒体应用程序，人们可以在其中讨论他们的创业想法或一般想法。这对我来说是一种学习经历，我不期望从中得到任何东西。我只是想知道社区对此有何看法，以及人们是否愿意尝试一下。我也很感谢你的反馈    提交人    /u/VDideas   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fn44rf/social_media_application/</guid>
+      <pubDate>Sun, 22 Sep 2024 21:27:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找有创业想法但需要技术人员将其愿景变为现实的企业家。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fn3vol/looking_for_entrepreneurs_who_have_startup_ideas/</link>
+      <description><![CDATA[      我愿意与合适的人合作。凭借超过 9 年的全栈和移动应用开发经验以及 10.5K+ LinkedIn 粉丝，我来这里不只是为了谈论或销售服务。我所能提供的不仅仅是代码——我精通业务开发、运营和管理，在建立自己的初创公司的同时，还经营着自己的美国设计机构。 我希望与有远见、有动力的人建立联系，他们有着相同的心态：“无论如何，我们都能做到。”我想创造一些伟大的东西，我想与那些愿意承担风险的人一起工作。 情况是这样的：我愿意免费工作——是的，你没听错。但我们会决定股权，并弄清楚我们双方都能带来什么。 如果你真的想让事情发生，请在下方留言，写下你的想法或演示文稿（链接）。让我们一起创造一些了不起的东西。   由    /u/sheikhhassanmajeed  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fn3vol/looking_for_entrepreneurs_who_have_startup_ideas/</guid>
+      <pubDate>Sun, 22 Sep 2024 21:15:38 GMT</pubDate>
+    </item>
     <item>
       <title>我正在建造一个东西。它是用来组织事物的。其他东西也有同样的功能，但我要让这个东西做得更好。</title>
       <link>https://www.reddit.com/r/SideProject/comments/1fn2zt1/im_building_a_thing_its_for_organising_things/</link>
@@ -32,83 +109,6 @@
       <description><![CDATA[直到今天，我管理着一家网络托管公司。     提交人    /u/Charming_You_8285   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1fn1wgu/anybody_needs_a_va_i_am_down_for_running_your/</guid>
       <pubDate>Sun, 22 Sep 2024 19:49:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>自学成才的开发人员在这里</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fn1s6c/self_taught_developer_here/</link>
-      <description><![CDATA[我有一份很棒的事业，除了个人满足之外，我没有任何欲望或需求。不想赚几百万或什么的。 我目前正在考虑创建一个网站来帮助追踪青少年足球。目前有几个选择，但都不尽如人意。有些必须是注册的锦标赛或联赛才能获得“积分”，有些不考虑锦标赛，只考虑联赛，反之亦然。 我想用人工智能创建一些东西来抓取和抓取美国青少年足球的网站，以汇编所有比分、提供的统计数据等。这看起来可行吗？或者数据库太广泛，必须为每个特定站点创建模型？    提交人    /u/futilediploma   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fn1s6c/self_taught_developer_here/</guid>
-      <pubDate>Sun, 22 Sep 2024 19:44:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>精选每日 Hacker News 摘要 — 永久免费！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fn0bsq/curated_daily_summaries_of_hacker_news_free/</link>
-      <description><![CDATA[在 hnjn.org 上查看 (!) 一直在关注 Hacker News，以防 FOMO 的发生。决定将这个脚本整合在一起，以帮助我集中精力并节省时间（另外保证我不会错过最好的 HN 内容） 脚本与 Rust、Docker、Render 云上的每日 cron 作业一起运行。希望听到您的反馈 :) hnjn.org    提交人    /u/CantaloupePowerful21   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fn0bsq/curated_daily_summaries_of_hacker_news_free/</guid>
-      <pubDate>Sun, 22 Sep 2024 18:42:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>10 分钟讲 2 小时：Paul Graham 做客 Founders Podcast</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fn088o/2_hours_in_10_minutes_paul_graham_on_founders/</link>
-      <description><![CDATA[我尝试整理了 Paul Graham 在 Founders Podcast 上对话中我最喜欢的部分。如果我错过了任何关键点，请告诉我！ 在此视频中，我介绍了以下亮点： 开展自己的项目 - 深入研究您热衷的项目的重要性。 你感兴趣吗？ - 真正的好奇心如何推动成功。 拖延症 - 作为一名企业家如何处理拖延症以及如何克服它。 创造与发现 - 了解创造新事物与发现机会之间的平衡。 接近度与雄心壮志 – 为什么和雄心勃勃的人在一起会塑造你自己的轨迹。 如何做你喜欢做的事 – 将你的工作与激情相结合的实用途径。 最优秀的艺术家窃取 – 在创造独特的东西的同时接受他人的影响。 A+ 同事 – 让自己周围都是有才华和干劲的人，推动你的工作向前发展。 在此处查看完整视频：https://www.youtube.com/watch?v=jwgdUIN5DtM    提交人    /u/yeahyouknowitbro   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fn088o/2_hours_in_10_minutes_paul_graham_on_founders/</guid>
-      <pubDate>Sun, 22 Sep 2024 18:38:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>密歇根？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fmzxl0/michigan/</link>
-      <description><![CDATA[这里有密歇根人吗？我觉得我在密歇根没有遇到太多从事初创企业或 SaaS 工作的人    提交人    /u/eni9889   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fmzxl0/michigan/</guid>
-      <pubDate>Sun, 22 Sep 2024 18:25:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>我为推销产品所做的事情以及结果如何</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fmzrm1/things_i_did_to_promote_my_product_and_how_they/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fmzrm1/things_i_did_to_promote_my_product_and_how_they/</guid>
-      <pubDate>Sun, 22 Sep 2024 18:18:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>我为推销产品所做的事情以及结果如何</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fmzqus/things_i_did_to_promote_my_product_and_how_they/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fmzqus/things_i_did_to_promote_my_product_and_how_they/</guid>
-      <pubDate>Sun, 22 Sep 2024 18:17:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>介绍 CineMatch - 与电影制作人和艺术家联系！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fmzopr/introducing_cinematch_connect_with_filmmakers_and/</link>
-      <description><![CDATA[您好，r/Filmmakers r/Cinema  我很高兴与大家分享我们一直在进行的一个名为 CineMatch 的项目。我们的平台旨在帮助电影制作人和艺术家为他们的电影项目找到完美的合作者。无论您是导演、编剧、摄影师还是任何其他创意专业人士，CineMatch 都旨在将您与能够将您的愿景变为现实的才华横溢的人联系起来。 我们刚刚推出了我们的登陆页面，我们邀请您加入我们的候补名单。通过注册，您将成为我们上线后第一批收到更新和独家访问权的人之一。 在此加入等候名单！ 您的反馈对我们意义重大，因此请随时分享您的想法或任何建议。我们热衷于为创作者建立一个支持性社区，我们迫不及待地想看到 CineMatch 如何在电影行业促进惊人的合作。 感谢您的支持！    提交人    /u/basavarajavyadav   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fmzopr/introducing_cinematch_connect_with_filmmakers_and/</guid>
-      <pubDate>Sun, 22 Sep 2024 18:14:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个工具来自动化你的博客和社交媒体</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fmz1r0/i_built_a_tool_to_automate_your_blog_and_social/</link>
-      <description><![CDATA[        提交人    /u/PlaneConcentricTube   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fmz1r0/i_built_a_tool_to_automate_your_blog_and_social/</guid>
-      <pubDate>Sun, 22 Sep 2024 17:47:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>基于事件的社交媒体帖子生成器，与趋势保持相关 [反馈]</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fmyt15/event_based_social_media_post_generator_to_stay/</link>
-      <description><![CDATA[大家好， 我是一家 SaaS 公司的创始人，这是一个从零到一的疯狂旅程，目前产生了 1 万美元的 MRR。在此过程中，我变得非常活跃于社交媒体——每天在 Twitter、LinkedIn 和 Instagram 上发帖。但仅仅 10 天后，我就遇到了瓶颈……我的内容创意枯竭了。 我开始注意到我错过了可以利用的趋势。在开发我的 SaaS 和跟上趋势之间，我就是跟不上。就在那时，我意识到这对其他人来说可能也是一个问题。 因此，我建立了 Momentum，这是一个现实世界的事件通知器和趋势预测工具，可帮助创作者和营销人员轻松保持领先地位。它预测即将到来的趋势，以便您可以在正确的时间采取行动。 这是该应用程序的第一个 MVP，我很想听听您的想法！如果您也感受到了这种痛苦，请加入候补名单，并让我知道您是否愿意为类似的东西付费。欢迎随意批评这个想法和登陆页面，也欢迎提出建设性的反馈意见。 登陆页面：gowithmomentum.framer.website    提交人    /u/souvikinator   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fmyt15/event_based_social_media_post_generator_to_stay/</guid>
-      <pubDate>Sun, 22 Sep 2024 17:36:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>从 Excel 自动将持股数据导入 Google Finance</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fmyst6/automated_import_of_holdings_to_google_finance/</link>
-      <description><![CDATA[      大家好！ 我刚刚完成了一个使用 Python 和 Selenium 自动管理 Google Finance 股票投资组合的项目。它将股票交易从 Excel 文件直接导出到 Google Finance！ 演示视频 我很乐意收到任何反馈！您可以在我的 GitHub 上查看代码。 https://reddit.com/link/1fmyst6/video/2xd251zkceqd1/player    提交人    /u/Ok-Foot736   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fmyst6/automated_import_of_holdings_to_google_finance/</guid>
-      <pubDate>Sun, 22 Sep 2024 17:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>情感故事：通过讲故事帮助孩子敞开心扉</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fma5y8/tales_of_emotions_helping_kids_open_up_through/</link>
-      <description><![CDATA[大家好！ 我一直在做一个我非常喜爱的 NextJS 项目，我想和大家分享一下。这个项目叫做Tales of Emotions，这是一个由人工智能驱动的平台，可以创建个性化的儿童故事，旨在帮助孩子表达和理解他们的情绪。 作为一个多年来一直帮助成年人克服情绪障碍的人，我意识到很多问题都是从小就开始的。所以我决定转移注意力，尝试一些新的东西——利用讲故事的力量帮助孩子们在成为情绪封闭的成年人之前敞开心扉。 我从头开始构建这个平台，将我的技术技能与我对情绪健康的热情融为一体。通过创作情感故事，我可以将这两个世界结合起来，利用人工智能为孩子们创造一些有意义的东西。 它的工作原理如下：  您可以根据孩子的年龄、喜好和情感需求，为您的孩子（或您生活中的任何孩子）创建个性化的故事。 这些故事旨在帮助孩子以安全和有创意的方式探索他们的感受，如愤怒、恐惧、快乐或悲伤。 最好的部分是什么？您可以通过定义高度个性化的角色为故事添加自己的特色，使每个故事都成为完全独特的体验。  用户界面与其他儿童故事网站不同，后者通常只提供基本形式。我真正专注于让每个人都能尽可能轻松地使用它，包括孩子。目标是从头到尾创造一种直观且令人愉快的体验。 我希望Tales of Emotions能够成为希望提高儿童情商的父母、教师和看护者的资源。如果您有兴趣，请访问网站 (https://talesofemotions.com) 并尝试一下！ 已经有一些英文故事。虽然目前大多数故事都是法语的，但该网站已经准备就绪，等待着更多英文故事的加入。我很高兴看到它成长并成为来自不同背景的儿童的资源。 我很乐意听到您可能有的任何反馈、问题或建议。感谢您花时间阅读这篇文章——我真的很兴奋终于推出了这个网站！ 附注：如果您想和孩子一起尝试一下，请随时向我发送带有您在Tales of Emotions上新创建的帐户的DM。我很乐意提供一些免费积分，以便您可以探索创建个性化故事的可能性并给我更完整的反馈。    提交人    /u/Kaliya2022   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fma5y8/tales_of_emotions_helping_kids_open_up_through/</guid>
-      <pubDate>Sat, 21 Sep 2024 18:57:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
