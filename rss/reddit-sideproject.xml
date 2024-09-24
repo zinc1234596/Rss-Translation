@@ -4,111 +4,111 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Mon, 23 Sep 2024 21:13:44 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Sep 2024 01:09:23 GMT</lastBuildDate>
+    <item>
+      <title>寻找有创业想法但需要技术人员将其愿景变为现实的企业家。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fo0fuw/looking_for_entrepreneurs_who_have_startup_ideas/</link>
+      <description><![CDATA[我愿意与合适的人合作。作为全栈和移动应用开发人员，我拥有9 年以上的经验，并且拥有10.5K+ LinkedIn 粉丝，我来这里不只是为了谈论或销售服务。我所能做的不仅仅是代码——我精通业务开发、运营和管理，在建立自己的初创公司的同时，还经营着自己的美国设计机构。 我希望与有远见、有动力的人建立联系，他们有着相同的心态：“无论如何，我们都能做到。”我想创造一些伟大的东西，我想与那些愿意承担风险的人一起工作。 事情是这样的：我愿意免费工作——是的，你没听错。但我们会决定股权，并弄清楚我们双方都能带来什么。 如果您真的想让事情发生，请在下面发表评论，提供您的想法或演示文稿（链接）。让我们一起创造一些了不起的东西。    提交人    /u/sheikhhassanmajeed   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fo0fuw/looking_for_entrepreneurs_who_have_startup_ideas/</guid>
+      <pubDate>Tue, 24 Sep 2024 01:01:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>一个多月后，我成功注册成为苹果开发者并发布了我的第一个应用</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fo05zc/after_over_a_month_i_successfully_registered_as/</link>
+      <description><![CDATA[      Image2WebP 由于一些未知原因，一个多月前我在尝试注册 Apple Developer 帐户时遇到了问题。经过与 Apple 支持多次沟通，我终于成功设置了我的帐户。您可以在此处阅读我的经历：https://www.reddit.com/r/iOSProgramming/comments/1ef090j/ive_been_using_my_apple_id_for_almost_10_years/ 然后，我采用了几年前开发的现有 macOS 应用并对其进行了优化。作为一名非专业开发人员，我在此过程中面临许多挑战，但幸运的是，AI 帮助我解决了其中许多问题。 经过彻底的测试以确保没有错误后，我将我的第一个应用提交到了 App Store。当然，我经历了在审核过程中我的应用被拒绝的经历，但在进行必要的修复并重新提交后，我很高兴终于在 App Store 上线了。这对我来说真是一个快乐的时刻。 现在，让我介绍我的第一个应用程序 Image2WebP。它在 macOS 上运行，允许您将图像转换为 WebP 格式，而无需互联网连接。它支持多种图像格式，包括 JPEG、PNG、GIF、HEIC、BMP、TIFF 和 HEIF，将它们转换为较小的 WebP 文件。 Image2WebP 的主要功能之一是它完全离线运行，这有助于保护您的隐私。此外，该应用程序本身非常轻巧，大小不到 3MB。你可以在这里查看：https://apps.apple.com/app/image2webp/id6670599252 谢谢大家，希望我的应用能对大家有所帮助。 最后想问一下大家，这个应用的功能是不是太小众了？上线半个多月了，下载量只有3个。    submitted by    /u/givebest   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fo05zc/after_over_a_month_i_successfully_registered_as/</guid>
+      <pubDate>Tue, 24 Sep 2024 00:47:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>FastIndex，开源且免费的搜索引擎索引工具</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fnzrco/fastindex_opensource_free_search_engine_indexing/</link>
+      <description><![CDATA[嘿伙计们，希望你们一切顺利！ 几天前，我在这里分享了我一直在构建的一款产品，自托管但也要付费。 这带来了各种各样的评论，我非常感谢他们。 其中一条评论让我印象深刻：  买不起昂贵工具的人 - 买不起或不自行部署和管理 买得起昂贵工具的人可能不想使用功能较少的工具  @maddhruv 这条评论实际上改变了我对自托管软件的看法，甚至引起了我的共鸣。我不会为自托管某些东西付费。 我正在构建一些我不会付费的东西。这对我打击很大。 在与自己讨论正确的解决方法之后，为了实现提供价值和分享知识的愿望，我决定完全开源我的软件。 所以，我在这里，与你们分享我的故事，一个 Redditor 如何改变了我，以及我如何迭代我的软件以完全删除任何与付款相关的内容并免费提供给你一切。 事不宜迟，让我来介绍一下：FastIndex 通过利用 Indexing API 和队列管理，此工具可让你在 Google Search Console 上更快地为你的站点编制索引。 你可能会问“为什么我不直接使用他们的网络界面？”这绝对是一个很好的问题，但事实是 GSC 可能需要数周/数月才能完全抓取和索引您的网站，甚至可能无法正确完成。 使用搜索 API，您可以直接推送您的页面并要求 GSC 对其进行索引。 FastIndex 将监控您的网站、站点地图和页面以不断执行此操作。 市面上有许多付费替代方案，这些替代方案可能非常昂贵，并且会在很多方面限制您的速度：管理的网站、索引的每日页面、团队等。 FastIndex 完全没有限制。您可以根据需要插入任意数量的 Google 服务帐户，无限制地管理您的网站和页面，加入您的团队并轻松运行您的索引工具。 我想遵循 Coolify.io 的步骤，并最终为那些不想管理服务器、更新和备份的人引入云版本。 感谢 Reddit 和 r/selfhosted 提供的空间，我很乐意收到您的反馈。 演示视频：https://cap.so/s/jk1jyh1de6ktvqs Github 存储库：https://github.com/maurocasas/fastindex    由   提交  /u/Multabot_AR   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fnzrco/fastindex_opensource_free_search_engine_indexing/</guid>
+      <pubDate>Tue, 24 Sep 2024 00:26:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何在 40 秒内让 React UI 准备就绪以供使用。 制作这个开源项目。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fnz63j/how_to_get_a_react_ui_ready_to_be_used_in_less/</link>
+      <description><![CDATA[        提交人    /u/itsrennyman   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fnz63j/how_to_get_a_react_ui_ready_to_be_used_in_less/</guid>
+      <pubDate>Mon, 23 Sep 2024 23:57:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>摘要GPT - 侧面板更新</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fnyhml/summarygpt_side_panel_update/</link>
+      <description><![CDATA[      我们已正式推出 summaryGPT 的侧面板版本，请查看并告诉我您是否喜欢它。我注意到它在维基百科等页面上仍然存在很多错误，但我正在努力解决它。它非常好，因为它会一直打开在您的浏览器中，现在可以在更改标签时立即抓取您正在查看的页面的信息。 我将在下面留下链接： 网站：summarygptai.com 扩展程序本身：SummaryGPT chrome 扩展程序 它是免费的 https://preview.redd.it/3vswr0ff7nqd1.png?width=1919&amp;format=png&amp;auto=webp&amp;s=a5596f3846ba44f95f5ed94dfe1ec33ae29f630e    提交人    /u/FishinBlin   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fnyhml/summarygpt_side_panel_update/</guid>
+      <pubDate>Mon, 23 Sep 2024 23:24:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>[低代码自动化] 如何从 Linkedin 自动抓取电子邮件以进行冷电子邮件推广和交流？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fnydtt/lowcode_automation_how_to_autoscrape_emails_from/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fnydtt/lowcode_automation_how_to_autoscrape_emails_from/</guid>
+      <pubDate>Mon, 23 Sep 2024 23:19:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>AllDevBlogs.com – 打造最大的科技博客目录</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fnydej/alldevblogscom_building_the_largest_tech_blog/</link>
+      <description><![CDATA[我刚刚推出了 AllDevBlogs.com，该项目致力于创建来自世界各地的最大技术博客目录。我的主要目标是突出个人和独立博客，这些博客与主要技术网站相比往往没有获得足够的知名度。无论您是从事编程、Web 开发、AI 还是任何其他技术主题，AllDevBlogs 都旨在收集最好的小众内容。 该平台仍处于早期阶段，我正在积极寻求扩大数据库。如果您撰写技术博客或知道值得一提的技术博客，请与我们分享！随着项目的发展，我计划为该网站添加更多语言版本，但这取决于收集每种语言至少 30 个博客。 期待您的建议和反馈！    提交人    /u/barbuza86   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fnydej/alldevblogscom_building_the_largest_tech_blog/</guid>
+      <pubDate>Mon, 23 Sep 2024 23:18:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Vaygo Bingo - 啪！拍！Bingo！你的世界就是你的游戏板。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fny2pl/vaygo_bingo_snap_shoot_bingo_your_world_is_your/</link>
+      <description><![CDATA[      Vaygo Bingo：捕捉您的冒险！ Vaygo Bingo 是一款以照片为导向的宾果游戏应用，可让您的经典游戏焕然一新，让您周围环境变成一个令人兴奋的游乐场。非常适合希望为假期、旅行或日常生活增添乐趣的成人和家庭。 工作原理：  获取随机宾果板 探索周围环境并拍照以标记方格 目标是连续五个或完全停电  主要特点：  基于照片的游戏玩法：使用相机与宾果板互动 灵活的游戏选项：享受单人冒险或与朋友一起进行实时多人游戏 可定制的体验：创建自己独特的宾果游戏 入门包：从精选的系列中选择以获得即时乐趣 非常适合假期、聚会、旅行等！  无论您是在家庭度假、探索新城市还是只是为您的日常生活增添趣味，Vaygo Bingo 都会将平凡的时刻变成令人兴奋的照片任务。立即下载并开始拍摄以取得胜利！ 我有免费和可购买的入门包，但由于 ap 是新的并且我正在寻找反馈，如果您想要免费的付费入门包之一，请与我联系！ https://www.vaygobingo.com/ 圣地亚哥动物园的 Vaygo Bingo    提交人    /u/searayman   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fny2pl/vaygo_bingo_snap_shoot_bingo_your_world_is_your/</guid>
+      <pubDate>Mon, 23 Sep 2024 23:04:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 Indeed 和 Swype 上申请职位</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fny1re/applying_to_a_job_on_indeed_vs_swype/</link>
+      <description><![CDATA[        由    /u/marvythemantis 提交   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fny1re/applying_to_a_job_on_indeed_vs_swype/</guid>
+      <pubDate>Mon, 23 Sep 2024 23:03:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要意见：网站设计之前还是之后？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fnxt8d/need_opinion_before_or_after_website_design/</link>
+      <description><![CDATA[        提交人    /u/shahmeermk   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fnxt8d/need_opinion_before_or_after_website_design/</guid>
+      <pubDate>Mon, 23 Sep 2024 22:52:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>我做得怎么样？这些数字是我在 iOS 应用发布一周后得出的。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fnxp5j/how_have_i_done_the_numbers_are_in_1_week_after/</link>
+      <description><![CDATA[        提交人    /u/taiomi   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fnxp5j/how_have_i_done_the_numbers_are_in_1_week_after/</guid>
+      <pubDate>Mon, 23 Sep 2024 22:47:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>6 个月内创立 6 家公司</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fnwuir/6_startups_in_6_months/</link>
+      <description><![CDATA[大家好， 我受到了 Pieter Levels 采访 Lex Fridman 和他的“12 个月创办 12 家初创公司”挑战的启发， 所以我要更进一步，提出自己的挑战： 6 个月创办 6 家初创公司！ 这是我的计划：  选择一个想法 🌱 我每个月都会集思广益，创办一家新的初创公司。您建议什么独特、可扩展的概念？ 开发它 💧 构建 bMVP（最小可行产品）！有关于工具和框架的建议吗？ 将其货币化 🤑 您最喜欢的货币化策略是什么？ 发布它 🚀 我将分享我的发布。您推荐哪些平台（除了 ProductHunt）？ 自动化它 🤖 一旦上线就专注于自动化。你知道什么必备工具吗？ 出售它或让它成长 🤝🌳 6 个月后，我应该出售还是培育？我应该考虑什么？  顺便说一句， 我有一个大约 10-12 人的群聊加入我。我将在 Twitter X 和我的博客上记录我的旅程。 希望我们能分享一路上的见解、失败和成功。 你参加吗？ 🚀    提交人    /u/Motosport97   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fnwuir/6_startups_in_6_months/</guid>
+      <pubDate>Mon, 23 Sep 2024 22:08:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>这主要针对的是高中 \ 大学生，无论何时你使用人工智能提交无用的作业，或任何最后一刻提交的作业，你的论文中总会被发现抄袭 - 我为你带来了一个经过微调的人工智能，它可以为你完成这项工作[前后结果]</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fnw4jz/this_is_mainly_for_highschool_uni_students/</link>
+      <description><![CDATA[        提交人    /u/AYT12   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fnw4jz/this_is_mainly_for_highschool_uni_students/</guid>
+      <pubDate>Mon, 23 Sep 2024 21:36:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>找到一个好的设计机构太难了所以我建了这个</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fnvur5/finding_a_good_design_agency_is_so_difficult_so_i/</link>
+      <description><![CDATA[        提交人    /u/notomarsol   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fnvur5/finding_a_good_design_agency_is_so_difficult_so_i/</guid>
+      <pubDate>Mon, 23 Sep 2024 21:24:24 GMT</pubDate>
+    </item>
     <item>
       <title>正在测试“The LockerRoom”体育应用</title>
       <link>https://www.reddit.com/r/SideProject/comments/1fnvg5u/beta_testing_the_lockerroom_sports_app/</link>
       <description><![CDATA[我们一直在与开发团队合作，准备我们应用的 MVP 版本，目前已接近完成。 该应用名为“The LockerRoom”，我们打算首先让粉丝继续通过文本、图片和视频发布有关体育的信息。与他们的同伴和体育内容互动，同时能够通过比分和统计数据保持比赛状态。我们已经开始为 NFL 和 NBA 提供体育数据。目的是将体育的社交方面以及体育数据带到一个平台上。打造体育中心。一个专注于体育和体育的空间。 如果您对体育感兴趣或认识对体育感兴趣的人，您可以注册我们的 beta 测试 https://thelockerroomteam.com/ 到目前为止，这只是一项副业，因为我们都还有其他工作，但如果幸运的话，我们希望它能变成更多的东西，让我们摆脱那些工作。  此外，如果您有任何想法、建议或问题，欢迎随时与我们联系。这是我们第一次做自己的事，所以我们一直在努力尽可能多地学习。我们感谢您的支持。     提交人    /u/rg-sports   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1fnvg5u/beta_testing_the_lockerroom_sports_app/</guid>
       <pubDate>Mon, 23 Sep 2024 21:06:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>本地媒体实习生</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fnv6k8/local_media_intern/</link>
-      <description><![CDATA[您是否在寻找出版、数字媒体、公共关系或写作方面的经验？  我的公司正在寻找一名媒体实习生，以帮助在佐治亚州玛丽埃塔推出当地媒体出版物。 这非常适合以下人群：正在寻求这些领域的经验、处于大学教育实习阶段或需要实习时间获得学位或认证！ 如果您有兴趣，请在下方评论或 DM！    提交人    /u/pinenutrition   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fnv6k8/local_media_intern/</guid>
-      <pubDate>Mon, 23 Sep 2024 20:55:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>我开发了一个副项目来帮助其他副项目成长！🤞</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fnts7q/i_developed_a_side_project_to_help_other_side/</link>
-      <description><![CDATA[      嗨！我是系列副项目开发人员。我喜欢构建，但最近我一直在尝试宣传我的东西，几个月前我刚刚为我构建的 SaaS 获得了第一批客户！我认为这要归功于我设计的这些简洁的通知，这些通知应该可以提高品牌信任度，从而提高销量。我想如果它对我有帮助，那么它可能对其他独立黑客也有用，所以我构建了：SellMore。我觉得创造销售额和转化客户是社区中常见的难题，所以我希望大家觉得它有用。如果您感兴趣，请查看！  请告诉我这对独立黑客社区是否有趣或有用。我知道我们很多人不喜欢专注于广告（打造产品是我们做这件事的原因），所以我认为这可能是一个很好的节省时间的方法？ 有任何功能要求吗？  https://reddit.com/link/1fnts7q/video/5i0vqnxr6mqd1/player    提交人    /u/developedlastweek   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fnts7q/i_developed_a_side_project_to_help_other_side/</guid>
-      <pubDate>Mon, 23 Sep 2024 19:57:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个待办事项列表应用，每次显示一项任务</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fntqew/i_made_a_todo_list_app_that_shows_you_one_task_at/</link>
-      <description><![CDATA[      标题说明了一切。您是否曾因待办事项清单上的任务数量过多而感到不知所措？添加所有任务后，面对看似无穷无尽的列表，很难完成任何事情。 这就是我创建 Underload 的原因，这是一款适用于 iPhone、iPad 和 Mac 的待办事项列表应用，每次只显示一项任务。您可以添加所有任务，但只会看到下一个需要处理的任务。您将获得一条清晰、线性的前进路径，一个单一的焦点。最好的部分是，它可以与 Apple Reminders 双向同步，因此您的任务可以在所有设备上同步，您可以继续使用 Siri、HomePod、快捷方式以及您习惯的任何其他集成。 您可以在此处下载。 TL;DR：我制作了一个待办事项列表应用程序，它可以从 Apple Reminders 中一次显示一项任务，以便更好地集中注意力并实现线性前进路径。 在此处下载。 https://preview.redd.it/eqesh2ze6mqd1.png?width=1179&amp;format=png&amp;auto=webp&amp;s=d0a574b2bf6837c52521d68fd753b8f6f69f9e55    提交人    /u/HypersonicSasquatch   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fntqew/i_made_a_todo_list_app_that_shows_you_one_task_at/</guid>
-      <pubDate>Mon, 23 Sep 2024 19:55:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>我专门为在线购物构建了一个 ChatGPT / 困惑般的体验（CS 类项目）</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fntiyb/i_built_a_chatgpt_perplexity_like_experience/</link>
-      <description><![CDATA[      大家好！我和朋友对 Arcteryx 和 Reformation 服装在网上的昂贵价格感到沮丧，并且讨厌在二手网站上筛选交易、可用性，尤其是带有背景、氛围或更多细微差别的商品  因此，对于我们的 cs 类设计项目，我制作了 Encore，这是一个人工智能购物助手，可以在网上搜索任何商品（在我看来，服装效果最好）的最佳二手交易。您可以将其视为 ChatGPT / perplexity，但专门用于购物。  尝试一下：https://www.chat.shopencore.ai 输入您要查找的内容，与其聊天，它会搜索数百个转售/二手时尚网站（如 real real、Grailed、Poshmark、Etsy、Net-A-Porter、TheRealReal、eBay、Vestiaire Collective、ArcadeShop 等）以及 Google 未优先考虑的更多鲜为人知的网站 - 所有内容都集中在一个地方。您还可以控制要搜索的网站以避免重复/假冒，您可以迭代和优化以前的查询。当您聊天时，它会适应您的喜好 :)  我们很乐意听取有关此项目的任何反馈！我回复得很快，并且喜欢迭代功能 :))     提交人    /u/Spare-Sugar5872   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fntiyb/i_built_a_chatgpt_perplexity_like_experience/</guid>
-      <pubDate>Mon, 23 Sep 2024 19:46:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>五大商业创意 - 2024 年 9 月 22 日</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fnte5d/five_business_ideas_september_22_2024/</link>
-      <description><![CDATA[       提交者    /u/gpirescampos   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fnte5d/five_business_ideas_september_22_2024/</guid>
-      <pubDate>Mon, 23 Sep 2024 19:41:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>正在启动一款适合餐厅的应用程序..请提供建议？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fnt75u/starting_a_restaurant_friendly_app_please_help/</link>
-      <description><![CDATA[1)从餐厅的角度来看，什么样的技术功能有助于提高效率、减少等待时间或提高客户满意度？ 2)您认为哪些创新功能可以让就餐体验更好？    提交人    /u/devara1099   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fnt75u/starting_a_restaurant_friendly_app_please_help/</guid>
-      <pubDate>Mon, 23 Sep 2024 19:33:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要帮助。我想分享一些关于我的业余项目之旅的小产品更新文章，但在哪里</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fnspo8/help_wanted_i_want_to_share_small_product_update/</link>
-      <description><![CDATA[问题如标题所示。更多的背景信息是，我会把它作为副业，做完这个之后我也没有打算辞职。我只是喜欢制作产品、写作和与志同道合的人交流。我不太喜欢 Twitter 上的独立黑客社区。尽管我认为他们非常酷，但社交社区感觉非常交易性。 我考虑发布到 Linkedin 文章、使用发布者发布到 Medium 或发布到 Substack。我已经倾向于为该项目创建一个 Medium 发布者，在那里发布并在 Linkedin 上分享，因为我在撰写您的帖子时会进行重大更改，但我很想知道您对此的看法。    提交人    /u/n0acar   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fnspo8/help_wanted_i_want_to_share_small_product_update/</guid>
-      <pubDate>Mon, 23 Sep 2024 19:13:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>我喜欢倾听各种各样的观点，所以我围绕辩论发起了一个激情项目。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fnso5p/i_like_listening_to_a_wide_range_of_views_so_i/</link>
-      <description><![CDATA[具有个性和音频的 AI 辩论！ 各种型号：llama3、chatgpt、gemini、mistral 等等......  https://squabble.io/  提交声明/动作示例：音频开启    提交人    /u/sackdeezle   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fnso5p/i_like_listening_to_a_wide_range_of_views_so_i/</guid>
-      <pubDate>Mon, 23 Sep 2024 19:11:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个 AI 无脸视频生成器</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fnse5l/i_built_an_ai_faceless_video_generator/</link>
-      <description><![CDATA[      给定一个故事，它会生成值得病毒式传播的无脸视频。 我想看看无脸视频的炒作是什么，该死的，这是真的。人们确实会看这些视频。 在 YouTube 上仅仅 1 个月，我就拥有了： 135 名订阅者 多部短片的观看次数达到约 10,000 次 平均每部短片的观看次数达到约 2,000 次 我制作这个视频是为了好玩，但不知道该怎么用它 :) https://preview.redd.it/lst81m8ewlqd1.png?width=1192&amp;format=png&amp;auto=webp&amp;s=7a8995fa519a326af10b237377e95bad399b49e6    提交人    /u/cpu_001   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fnse5l/i_built_an_ai_faceless_video_generator/</guid>
-      <pubDate>Mon, 23 Sep 2024 19:00:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>测试我的 Web 应用程序并保留潜在客户</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fnrncq/test_my_webapp_and_keep_the_leadsprospects/</link>
-      <description><![CDATA[大家好！我构建了一个工具来搜索 B2B 线索，现在我正在寻找用户反馈，并希望在真实条件下对其进行测试。 为此，我希望得到您的帮助。我有一个代码可以免费获得一个月（付款提供商仍然需要 CC/Paypal，但如果忘记了，您可以立即取消或给我发消息退款。） 网站： Plentiful-Leads.com 代码： FREEFIRST 一个月后，我会向您发送一封电子邮件，其中包含反馈表的链接。 作为感谢，您可以保留/使用测试月份的所有线索。    提交人    /u/LegitimateUse9071   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fnrncq/test_my_webapp_and_keep_the_leadsprospects/</guid>
-      <pubDate>Mon, 23 Sep 2024 18:29:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻求合作项目（软件开发）</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fnrk8h/looking_for_collaborative_projects_software/</link>
-      <description><![CDATA[大家好！不确定是否应该在这里发布，但我们开始吧（学校项目）。我正在寻找需要帮助构建或改进其软件产品（例如网站、应用程序或向现有软件添加功能）的个人或组织。 要求：  来自任何国家/地区的个人、公司或组织，如果想要构建或改进其软件产品，请确保您拥有市场或将使用此产品的人。 说英语。  附加信息：a. 付费还是免费？很可能是免费的，具体取决于我们达成的协议。b. 我接受任何规模的项目，从简单到复杂。c.如果您有兴趣，请在下面发表评论，我会向您发送我的电子邮件地址。 我期待着潜在的合作！    提交人    /u/Thick_Hovercraft_513   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fnrk8h/looking_for_collaborative_projects_software/</guid>
-      <pubDate>Mon, 23 Sep 2024 18:26:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>刚刚发布：在 leethub.io 上实时抓取来自 50 多家公司的 1,500 多个 HFT 职位</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fnr8g6/just_launched_scraping_1500_hft_jobs_in_realtime/</link>
-      <description><![CDATA[大家好！我一直在研究一个高频交易 (HFT) 招聘板，该板每隔几分钟从 50 多家顶级公司抓取并更新职位，为您提供有关最新职位的实时见解。如果您身处 HFT 或量化领域，此工具可以为您节省大量时间！ 我的网站 leethub.io 目前提供各个级别的 1,500 多个空缺职位，我很乐意听取您的反馈，了解它对您有何帮助、您希望看到哪些功能以及您可以建议的任何改进。欢迎提出任何批评意见！&quot;    提交人    /u/Honest-Ad-438   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fnr8g6/just_launched_scraping_1500_hft_jobs_in_realtime/</guid>
-      <pubDate>Mon, 23 Sep 2024 18:12:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Clarymind 减少屏幕时间</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fnr4or/cut_screen_time_with_clarymind/</link>
-      <description><![CDATA[      Clarymind 正式推出 Shado！它是一个人工智能角色，可以帮助您减少屏幕时间。当您解锁受限制的社交应用程序时，Shado 会根据您陈述的原因提供是否继续的建议。 https://reddit.com/link/1fnr4or/video/498ldfxpmlqd1/player 我们创建此功能是因为写下您使用应用程序的目的有助于阐明您的意图并起到有用的提醒作用。 根据我们的用户，当他们被提示回答“为什么”时，如果没有令人信服的理由，通常更容易关闭应用程序。这有助于他们更加注意使用上瘾的应用程序。 而且 Shado 很可爱！它为减少手机使用这项具有挑战性的任务增添了一点乐趣。 如果您想更有效地管理时间并提高注意力，请尝试 Clarymind：https://go.clarymind.com/QtV9P6 Clarymind 还提供呼吸​​解锁、冥想计时器和睡眠音乐等功能。    提交人    /u/haowei_chien   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fnr4or/cut_screen_time_with_clarymind/</guid>
-      <pubDate>Mon, 23 Sep 2024 18:08:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻求对我使用 claude-dev 构建的发票应用程序的反馈</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fnkr0w/seeking_feedback_on_an_invoicing_app_i_built/</link>
-      <description><![CDATA[您好，我开始使用 claude-dev，结果发现自己花了几个小时来构建一个发票应用程序。我在 Web 开发方面没有太多经验，但我很自豪能与大家分享这个应用程序。我会很感激任何形式的反馈。谢谢！    提交人    /u/CartographerOld7710   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fnkr0w/seeking_feedback_on_an_invoicing_app_i_built/</guid>
-      <pubDate>Mon, 23 Sep 2024 13:42:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
