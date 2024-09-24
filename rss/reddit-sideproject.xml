@@ -4,111 +4,111 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Tue, 24 Sep 2024 15:15:54 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Sep 2024 18:19:46 GMT</lastBuildDate>
     <item>
-      <title>一款集成人工智能的生产力应用程序</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1foevbr/an_ai_integrated_productivity_app/</link>
-      <description><![CDATA[实现您的目标 = 人工智能 + 经过验证的生产力技术。  如果您觉得有很多事情要做，不知所措，请尝试一下此应用。该应用将：   重新表述您的任务以使其更清晰  人工智能将为其推荐持续时间  自动确定优先级并告诉您首先要做什么、其次要做什么、可能不做什么以及根本不要做。  通过建议提供对您每日计划的反馈  跟踪您花费的时间和干扰  将大任务简化为小块  一个简单的笔记空间  番茄工作法计时器  充当第二大脑  提供绩效报告   我不是开发人员。请原谅简单的设计，目前这仅适用于网页，并针对移动浏览器进行了轻微优化。  请使用 PC 浏览器获得最佳体验。期待您的反馈。  谢谢     提交人    /u/SignalPractical4526   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1foevbr/an_ai_integrated_productivity_app/</guid>
-      <pubDate>Tue, 24 Sep 2024 15:11:33 GMT</pubDate>
+      <title>我推出了一个简单的 nsfw 网站，并拥有超过 1000 名用户</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1foja6w/i_launched_a_simple_nsfw_site_and_got_over_1000/</link>
+      <description><![CDATA[过去一两周，我发布了关于我的新项目的帖子，并获得了一些有趣的见解， https://randomlink-seven.vercel.app/ (NSFW)  我很惊讶一个简单的重定向网站有超过 1000 人使用我的网站 我的帖子没有喜欢，几乎没有评论，但有很多浏览量 正如我所想，这个随机链接重定向器不会有用户保留，但我错了，人们回来了  看到人们使用我构建的东西很酷 我添加了一个新的更新，希望得到一些反馈    提交人    /u/choke527   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1foja6w/i_launched_a_simple_nsfw_site_and_got_over_1000/</guid>
+      <pubDate>Tue, 24 Sep 2024 18:15:05 GMT</pubDate>
     </item>
     <item>
-      <title>我建立了一个高质量资产库，您可以在下一个项目中使用它。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1foeofx/i_built_a_library_of_high_quality_assets_that_you/</link>
-      <description><![CDATA[        提交人    /u/Chemical_Deer_512   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1foeofx/i_built_a_library_of_high_quality_assets_that_you/</guid>
-      <pubDate>Tue, 24 Sep 2024 15:03:36 GMT</pubDate>
+      <title>从十月份起，我的副业将成为我的全职工作。AMA！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1foj826/my_side_project_is_going_to_be_my_fulltime_job_in/</link>
+      <description><![CDATA[嗨！我是克里斯，也是 Nerd Crawler 的创始人。这是一个原创漫画艺术拍卖市场，已帮助 100 多名卖家通过其艺术作品赚取更多收入。我们昨天的累计 GMV 刚刚达到 40 万美元（证明） 自从我学会编程以来，我就一直是 r/sideprojects 的成员，分享过很多东西，比如失败的建议市场（reddit 帖子）、一款 Slack x Shopify 应用，我最终以五位数的价格卖掉了它（reddit 帖子）， Nerd Crawler 最初的想法是作为一款提醒应用 (reddit 帖子)，最近，我终于破解了 Nerd Crawler 的发展 (reddit 帖子) 在我的整个旅程中，这个 subreddit 一直是我查看产品、分享我自己的产品、获得反馈和寻找成为企业家的方法的地方，所以今天我想尝试回馈给予我如此之多的社区。所以请随时问我任何事情！  我首先要回答一些常见问题：  你是如何选择这款产品的？我从小就是漫画迷，高中时开始收集漫画艺术品。我知道 1) 艺术家历来报酬过低 2) 他们使用 Shopify 和 Big Cartel 等产品来经营他们的电子商务业务，但 3) 他们在营销和获得关注方面遇到困难。在市场的两端，我知道每个人都讨厌 eBay 等当前拍卖市场的费用和用户体验，所以我知道这里存在问题 你是如何引导你的市场的？在那篇旧的 reddit 帖子中，Nerd Crawler 最初是一个网络爬虫应用程序（因此得名），当我关注的网站上有新的原创艺术品出售时，它会给我发短信。这让我获得了大约 400 名注册用户，这些都是收藏家（也就是我的需求方）。但增长停滞了，我意识到这个问题还不够大。但后来，我在 Facebook 上看到一位艺术代表拍卖原创漫画艺术，为受到毛伊岛火灾影响的受害者筹集资金。他通过电子邮件收集出价，以避免像 eBay 这样的平台收取高额费用，我想，“我可以为他打造一个现代化的拍卖平台，验证一个想法，并为世界做些好事。”于是，我联系了他，他说他有兴趣尝试一下。然后，我在接下来的一周里把所有的空闲时间都花在了为 Nerd Crawler 上的拍卖制作 MVP 上。我推出了它，在推出拍卖市场 1 周后，我的用户数量比过去 3 个月加起来还要多。所以，我知道这里有东西可做 你的技术栈是什么？我是一名自学成才的程序员（2015 年开始），我只知道 Ruby on Rails，所以整个市场都是用 RoR 构建的。它并不复杂，但很管用 团队有多大？就我一个！  您怎么知道是时候全职工作了？当我们的累计 GMV 达到 10 万美元时，几乎与 Uber、eBay 和 Airbnb 一样快，我觉得这个市场真的很了不起 (tweet)。而且产品不断发展，然后时间与我合伙人的工作相匹配，所以 10 月似乎是迈出这一步并真正尝试一下的时候了。  请问我问题，希望我也能帮助你们中的一些人将你们的副业变成你们的全职项目！    提交人    /u/darksh1nobi   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1foj826/my_side_project_is_going_to_be_my_fulltime_job_in/</guid>
+      <pubDate>Tue, 24 Sep 2024 18:12:36 GMT</pubDate>
     </item>
     <item>
-      <title>预测股票价格走势的猜谜游戏工具（需要您的反馈）</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1foejao/a_guess_game_tool_to_predict_stock_price/</link>
-      <description><![CDATA[      我是新手投资者，厌倦了在股市中亏损。 由于我对交易一无所知，过去几年我损失了一些钱。 我注意到一些K线图的技术指标。虽然我知道胜率不高，但了解基本的模式和规则或许能让我少亏点钱。 所以我做了一个根据历史股票数据猜测第二天价格走势的小工具， 真心希望收到大家的宝贵建议。 下面是我的猜测工具：（https://guessupdown.com/guess-the-price） 猜价格    由    /u/Healthy_Noise_5774  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1foejao/a_guess_game_tool_to_predict_stock_price/</guid>
-      <pubDate>Tue, 24 Sep 2024 14:57:41 GMT</pubDate>
+      <title>这</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1foj0t0/hii/</link>
+      <description><![CDATA[你好    由   提交  /u/AdNumerous1203   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1foj0t0/hii/</guid>
+      <pubDate>Tue, 24 Sep 2024 18:04:09 GMT</pubDate>
     </item>
     <item>
-      <title>🚀 使用 BuildMVP 在 24 小时内解锁您的 SaaS 梦想！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1foebyk/unlock_your_saas_dream_in_24_hours_with_buildmvp/</link>
-      <description><![CDATA[您是否曾感到自己在构建 SaaS 产品时停滞了数周却没有任何进展？🙈 告别无休止的编码，迎接 BuildMVP——Next.js SaaS 样板，让您在短短 24 小时 内推出功能齐全的 MVP！💥 为什么选择 BuildMVP？  ✅ 跳过繁琐的工作 ✅ 以超乎想象的速度启动 ✅ 专注于真正重要的事情 — 发展您的业务 📈 我构建它是为了让您避免在重复任务上浪费时间。您距离让您的 SaaS 上线只有一步之遥 — 立即获取 BuildMVP，停止幻想，开始构建！ 🚀 👉 不要错过 - 今天就获取 BuildMVP ！    由   提交  /u/Dapper-Turn-3021   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1foebyk/unlock_your_saas_dream_in_24_hours_with_buildmvp/</guid>
-      <pubDate>Tue, 24 Sep 2024 14:49:11 GMT</pubDate>
+      <title>我创建了类似 3D notion/miro 的平台</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1foif85/i_built_3d_notionmiro_like_platform/</link>
+      <description><![CDATA[https://reddit.com/link/1foif85/video/hvd6rul0nsqd1/player 嗨，我建立这个平台是因为我觉得它很酷。它不能解决特定问题，但可以解决许多小问题（有点像 ChatGPT 🥲）。有了这个平台，你可以添加 3D 文本、图像和网站，以创建自己的 3D 空间。我的问题是：我想把它变成一家初创公司。我住在旧金山，准备为此努力奋斗。你认为谁会在早期从这个项目中受益最多？换句话说，谁是目标受众？谁愿意为这个项目付费订阅？     由    /u/Boring-Fuel6714 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1foif85/i_built_3d_notionmiro_like_platform/</guid>
+      <pubDate>Tue, 24 Sep 2024 17:39:36 GMT</pubDate>
     </item>
     <item>
-      <title>刚刚在 Product Hunt 上发布了我的第一个健身应用程序——寻求反馈！ - Mount Fitness</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1foe7yk/just_launched_my_first_fitness_app_on_product/</link>
-      <description><![CDATA[        提交人    /u/Willing_Ear2969   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1foe7yk/just_launched_my_first_fitness_app_on_product/</guid>
-      <pubDate>Tue, 24 Sep 2024 14:44:35 GMT</pubDate>
+      <title>开发了一款 Chrome 扩展程序，用于保存任何网页上的突出显示文本。无法将其上传到 Chrome 网上应用店 - 看看它是否对您有用。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1foic1m/built_a_chrome_extension_to_save_highlighted_text/</link>
+      <description><![CDATA[大家好， 我一直在开发一款 Chrome 扩展程序，它可以帮助您保存任何网页上突出显示的文本以及 URL 和日期。我之所以开发这款扩展程序，是因为我发现自己经常忘记在网上遇到的有趣的事情。 由于 Chrome Web Store 不支持我的国家（斯里兰卡），我无法将其上传到那里，但我已将其发布在 GitHub 上。如果这对你来说有用，请随时尝试手动安装！ 如何安装：  从 GitHub 下载扩展程序：GitHub Repo Link 解压文件夹。 打开 Chrome 并转到`chrome://extensions/`。 启用**开发者模式**（在右上角切换）。 单击**加载解压后的**并选择解压后的文件夹。 扩展程序现在将处于活动状态。突出显示任何文本，单击扩展程序图标，它将被保存以供日后使用！  我还设置了一个**Discord 服务器**，用于反馈、功能建议或仅讨论您如何使用扩展程序。我很乐意在那里听到您的声音！您可以在这里加入：https://discord.gg/VvGS8Em84R 如果您觉得这有用，请告诉我，并随时分享您的想法以改进它。😊 谢谢！    提交人    /u/IndependenceOk3130   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1foic1m/built_a_chrome_extension_to_save_highlighted_text/</guid>
+      <pubDate>Tue, 24 Sep 2024 17:35:58 GMT</pubDate>
     </item>
     <item>
-      <title>厌倦了低电子邮件送达率吗？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1foe6wz/tired_of_the_low_email_deliverability/</link>
-      <description><![CDATA[大家好， 难以将您的电子邮件送达潜在客户的收件箱？我们明白这一点 — 低送达率会阻碍您的推广。  这就是我们在 10 月 8 日在 Product Hunt 上推出 Skylead 4.0 的原因，它不仅解决了这些传递问题，还采用了全新的设计，带来更流畅的用户体验。 有了它，您可以：  预热无限电子邮件帐户，以实现最佳传递率 发送数以万计的电子邮件，而不必担心垃圾邮件过滤器 查找并验证真实的商业电子邮件，以避免浪费精力  ……还有更多！ 我们正在争取每日第一的产品，我们需要您的帮助来实现它！ 单击“通知我”按钮以在我们发布时收到提醒，并在您尝试后分享您的反馈。 🔔 https://www.producthunt.com/products/skylead    由   提交  /u/Kristina-Sky   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1foe6wz/tired_of_the_low_email_deliverability/</guid>
-      <pubDate>Tue, 24 Sep 2024 14:43:26 GMT</pubDate>
+      <title>我创建了表情符号测验 - 一款每日测验游戏，您可以使用表情符号来猜测电影、视频游戏或电视节目！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fohxzi/i_built_emoji_quiz_a_daily_quiz_game_where_you/</link>
+      <description><![CDATA[        由    /u/Thunderfield  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fohxzi/i_built_emoji_quiz_a_daily_quiz_game_where_you/</guid>
+      <pubDate>Tue, 24 Sep 2024 17:19:54 GMT</pubDate>
     </item>
     <item>
-      <title>0 美元 MRR？你可能犯了和我们一样的错误。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1foe2yc/0_mrr_you_might_be_making_the_same_mistake_we_did/</link>
-      <description><![CDATA[ 这是一个简单的错误，但我看到很多人一而再再而三地重复犯错。  我们也犯过，我们经历过这个过程，我们知道它会导致什么结果。  我们犯了一个错误，在第一个项目上花了几个月的时间，却不知道人们是否会喜欢它。 好吧，事实证明他们并不喜欢它。 我又进行了两次发布，才吸取了教训。在第三次发布时，我们确实吸取了教训，并从 MVP 开始。  这次呢？  情况好多了。我们很早就获得了用户，而且速度很快，这是我们以前从未经历过的，所以我们知道继续开发是值得的。就这么简单。 您可能之前听说过这个，也许您已经厌倦了听到它， 但我只想与您分享它对我们有用，我认为构建 MVP 并尽早获得反馈是我们项目增长的关键。 那么您在构建 MVP 吗？否则，请让这成为您的提醒，在您花费数月时间之前将您的产品展示在人们面前。您所需要的只是一点点反馈，以知道它值得继续构建和花时间在您的项目上。 对于那些厌倦了构建产品而没有获得用户的建设者来说，Buildpad 适合您。    提交人    /u/UltraIngo   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1foe2yc/0_mrr_you_might_be_making_the_same_mistake_we_did/</guid>
-      <pubDate>Tue, 24 Sep 2024 14:38:52 GMT</pubDate>
+      <title>你把电动滑板车存放在哪里了！？？！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fohr39/where_are_you_storing_your_electric_scooters/</link>
+      <description><![CDATA[大家晚上好， 不久前，我发布了一个我们正在进行的项目 - 开发一种安全、防火的电动滑板车存储解决方案 反馈是，人们认为锂电池起火问题并不大，不足以保证推出这款产品，我们只想感谢您的所有意见，因为它非常有价值 如果您不介意，我想问几个更细致的问题，以帮助我们更好地了解您的需求：  对于住在城市公寓/公寓/共管公寓的人，您目前将电动滑板车存放在哪里？ 如果您使用滑板车上下班，您在工作时会把它放在哪里？ 您在哪里给滑板车充电？ 为您的公寓/公寓提供专用的存储解决方案是否有助于你会喜欢吗？  这主要适用于居住在紧凑型城市公寓的人，但我们欢迎大家提供反馈 再次感谢    提交人    /u/MrKingAlot   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fohr39/where_are_you_storing_your_electric_scooters/</guid>
+      <pubDate>Tue, 24 Sep 2024 17:12:01 GMT</pubDate>
     </item>
     <item>
-      <title>拼贴和模板制作应用程序</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fodwag/collage_template_maker_app/</link>
-      <description><![CDATA[您好！过去几个月我一直在开发一款应用，它有许多模板可供选择和放置您的照片，您还可以制作拼贴画、添加滤镜和贴纸。我很想听听您对此的看法，任何改进建议都非常欢迎 :) https://play.google.com/store/apps/details?id=com.storytemplates.collagemaker&amp;hl=en    提交人    /u/panos42   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fodwag/collage_template_maker_app/</guid>
-      <pubDate>Tue, 24 Sep 2024 14:30:37 GMT</pubDate>
+      <title>让我重写您的 Saas 登陆页面！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fogrpt/let_me_rewrite_your_saas_landing_page/</link>
+      <description><![CDATA[TL;DR：我想验证一下作为 r/sideproject 代写 Saas 登陆页面的想法。 如果您希望免费复制您的登陆页面，请在下面留言。我的目标是帮助至少 3-5 位创始人，以换取推荐（如果您对我们共同做的事情感到欣喜若狂）。如果可以，我会做得更多。 原因如下： 在看到（和吐槽）这么多精彩的业余项目失败并夭折之后，我意识到了原因： Saas 创始人和制造者不是营销人员（令人震惊，对吧？:) 更重要的是，当他们创建登录页面时，他们并没有以一种最终用户可以理解和欣赏的方式传达项目的价值。 关键是，我相信很多创始人和制造者内心深处知道这一点 - 这就是为什么每当有“吐槽”帖子开始时，会有那么多人跳进来要求网站评论的原因。 他们希望有人能让他们清楚地知道为什么没有人访问他们的网站、加入他们的测试版或购买订阅。  9/10 不是因为项目不好，或者客户细分很差，或者你的 SEO 很糟糕。 这是因为你的信息在翻译中丢失了。 你的文案没有从上到下流畅地传达，没有解开访客的问题、愿望和反对意见。他们想说的和他们收到的之间存在脱节，我坚信这就是为什么每个技术创始人都应该找到一个非技术性的、以营销为重点的合作伙伴来帮助他们宣传的原因。 我也知道找到合适的营销伙伴很难。即使雇佣自由职业者也很昂贵，特别是如果项目未经验证。 这就是为什么我的副业将是一种简单、有效的方式，让你的产品更好地适应你想要进入的市场（大多数情况下 24 小时内完成）。  工作原理如下：  您告诉我您的经营理念 我进行客户研究以“进入”您理想客户的头脑 我起草您的目标网页副本 您对其进行审核（或者我们可以选择通过视频一起审核） 如果您喜欢它，请按照建议进行更改，然后就可以开始了！  我们开始吧！    提交人    /u/DanFasterDan   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fogrpt/let_me_rewrite_your_saas_landing_page/</guid>
+      <pubDate>Tue, 24 Sep 2024 16:31:28 GMT</pubDate>
     </item>
     <item>
-      <title>刚刚在 Peerlist 上发布了 Cipherwill 🎉 寻求来自社区的诚实反馈</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fodw2j/just_launched_cipherwill_on_peerlist_looking_for/</link>
-      <description><![CDATA[我们一开始就提出了一个简单的问题 - “如何确保我死后我的比特币不会丢失？”这就是 Cipherwill 的用武之地。 它就像一份现代遗嘱，所有内容都是端到端加密的，但适用于您的所有数字资产。我们谈论的是加密货币、社交媒体帐户、密码 - 无论您想确保何时安全地传递什么。 我们刚刚在 Peerlist 上线，老实说，我很想听听您的想法。我们为此付出了心血，欢迎您提供任何反馈（好的或坏的）。 🙏 如果您想查看，这是链接：https://peerlist.io/shivam1337/project/cipherwill 提前感谢 - 你是最棒的！    提交人    /u/enthusiast_shivam   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fodw2j/just_launched_cipherwill_on_peerlist_looking_for/</guid>
-      <pubDate>Tue, 24 Sep 2024 14:30:24 GMT</pubDate>
+      <title>我构建了一个 Ruby 宝石，以便轻松创建 Notion 页面。请告诉我您的想法。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fog12i/i_built_a_ruby_gem_to_to_create_notion_pages/</link>
+      <description><![CDATA[几年前我被诊断患有注意力缺陷多动障碍。在那段时间里，我发现了 Notion，并开始痴迷于它，尤其是创建模板。 唯一的问题是，我花了很长时间来创建复杂的模板，因为我患有脑瘫，所以我使用 UI Builder Notion 的速度比较慢。 另外，我一直对 Rails 和 Ruby DSL 的强大功能着迷。但我的生活中总有一些东西分散我的注意力。 所以我想先为自己构建这个。我从 chatgpt 获得了一些帮助，以便快速上手。这就是 Notion Scribe 诞生的方式。我很乐意听取您的反馈！查看它！ 谢谢！    提交人    /u/charismania   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fog12i/i_built_a_ruby_gem_to_to_create_notion_pages/</guid>
+      <pubDate>Tue, 24 Sep 2024 16:00:31 GMT</pubDate>
     </item>
     <item>
-      <title>我是否应该添加一个基于订阅的博客，博主可以通过他们对创业公司的见解获得报酬</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fodtuq/should_i_add_a_subscription_based_blog_bloggers/</link>
-      <description><![CDATA[我正在考虑添加一个基于订阅的博客，博主可以将精选帖子放在付费墙后面，提供有价值的见解来帮助其他创始人。 你们觉得呢？    提交人    /u/Alert-Ad-5918   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fodtuq/should_i_add_a_subscription_based_blog_bloggers/</guid>
-      <pubDate>Tue, 24 Sep 2024 14:27:45 GMT</pubDate>
+      <title>一款快速制作、固定和分享图像的应用程序</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fofrtm/an_app_to_make_pin_and_share_images_fast/</link>
+      <description><![CDATA[一直在开发一个网站，任何人都可以在 &lt; 5 秒内制作图像，并查看其他人制作的图像。这是我在 Midjourney 早期真正享受的东西。  工作原理如下： (1) 制作任意数量的图像 (2) 在创建时查看类似图像 (3) 发现其他照片并对您最喜欢的照片进行排名 这是应用程序的链接：https://www.gentube.app/ 希望你喜欢它！玩起来很有趣     提交人    /u/siddiqbakr   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fofrtm/an_app_to_make_pin_and_share_images_fast/</guid>
+      <pubDate>Tue, 24 Sep 2024 15:49:38 GMT</pubDate>
     </item>
     <item>
-      <title>刚刚以 2 万美元的价格卖掉了我的网络开发机构</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fodq08/just_sold_my_web_development_agency_for_20k/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fodq08/just_sold_my_web_development_agency_for_20k/</guid>
-      <pubDate>Tue, 24 Sep 2024 14:23:09 GMT</pubDate>
+      <title>我厌倦了我的帖子在 Hacker News 帖子上被忽略，所以我建立了一个 AI 帖子优化器</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fofrpj/i_got_tired_of_having_my_posts_ignored_on_hacker/</link>
+      <description><![CDATA[        提交人    /u/SlapAndFinger   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fofrpj/i_got_tired_of_having_my_posts_ignored_on_hacker/</guid>
+      <pubDate>Tue, 24 Sep 2024 15:49:29 GMT</pubDate>
     </item>
     <item>
-      <title>Tensorflow 能用来构建接听电话的 AI 模型吗？如果不行，你会怎么做？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fodhye/can_tensorflow_be_used_to_build_an_ai_model_that/</link>
-      <description><![CDATA[我住在尼日利亚。我使用的大多数餐厅服务效率不高，似乎无法满足我的订餐需求。我想建立一个网站，餐厅可以在那里注册他们的业务并列出他们的菜品。然后我打算建立一个可以接收餐厅菜单的人工智能，这样如果顾客打电话下订单，人工智能就可以接收该订单，检查食物是否在库存中，然后接收该订单并将其发送到厨房。我愿意接受建议。    提交人    /u/Naija-CodeX   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fodhye/can_tensorflow_be_used_to_build_an_ai_model_that/</guid>
-      <pubDate>Tue, 24 Sep 2024 14:13:05 GMT</pubDate>
+      <title>我正在开发一个人工智能导师。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fofoeu/i_am_developing_an_ai_tutor/</link>
+      <description><![CDATA[嗨。我正在开发一个人工智能导师，学生可以提问并获得实时答案。对于编程、数学和物理等科目，他们甚至可以以交互方式运行示例，使学习变得动手且引人入胜。 你觉得它是什么样子的？你的看法是什么？ https://reddit.com/link/1fofoeu/video/rjhd6lfc2sqd1/player    提交人    /u/ekalyvio   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fofoeu/i_am_developing_an_ai_tutor/</guid>
+      <pubDate>Tue, 24 Sep 2024 15:45:45 GMT</pubDate>
     </item>
     <item>
-      <title>创建了一个 SDK，允许您检查 LLM 输出的准确性和一致性，检查一下，让我知道您的想法！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fod5ni/created_an_sdk_that_allows_you_to_fact_check/</link>
-      <description><![CDATA[        提交人    /u/jai_mans   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fod5ni/created_an_sdk_that_allows_you_to_fact_check/</guid>
-      <pubDate>Tue, 24 Sep 2024 13:58:14 GMT</pubDate>
+      <title>Scroll-It：我的 Reddit 图片查看器焕然一新</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fofmnt/scrollit_my_reddit_image_viewer_gets_a_fresh_look/</link>
+      <description><![CDATA[大家好！我想向你介绍一下 Scroll-It (https://scroll-it.xyz)，这是我一直在做的一个小项目。我第一次回来是在 2020 年，当时是为了了解 VueJS 和 Vuetify，我刚刚完成了一次重大更新。你可以在 github 上看到源代码 (https://github.com/modelorona/scroll-it) Scroll-It 是一个简单的图库自动滚动器，可让你浏览 Reddit 图片帖子。你可以在图库视图中手动浏览它们，也可以从任何图片开始幻灯片放映。我最近重写了整个东西以适应较新版本的 Vue 和 Vuetify。 新版本的作用与以前基本相同，但它应该运行得更快，并且更有效地利用屏幕空间。它没有后端，而是直接查询 Reddit JSON API，解析它并显示图像。 在处理此问题时，我得到了 Claude、Codium 和 ChatGPT 等 AI 工具的帮助。Claude 通常最有帮助，尤其是对于棘手的问题。Codium 适用于小任务，但在处理复杂查询时会遇到困难。 我对下一步要添加的内容有一些想法，例如使用键盘快捷键、服务器端渲染和延迟加载图像。 我很想知道您对 Scroll-It 的看法！在下面添加评论，或者直接在 github 上提交问题。    提交人    /u/not_arch_linux_user   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fofmnt/scrollit_my_reddit_image_viewer_gets_a_fresh_look/</guid>
+      <pubDate>Tue, 24 Sep 2024 15:43:46 GMT</pubDate>
     </item>
     <item>
-      <title>互动视频SDK</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fod4nn/interactive_video_sdk/</link>
-      <description><![CDATA[此 SDK 可让您轻松地将交互式视频小部件添加到 Web 应用程序。它提供了一个具有交互选项的可自定义视频播放器，非常适合产品演示、教程和客户互动。 https://www.npmjs.com/package/interactive-video-sdk    提交人    /u/nishant_rawat   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fod4nn/interactive_video_sdk/</guid>
-      <pubDate>Tue, 24 Sep 2024 13:57:00 GMT</pubDate>
+      <title>Orbit：用于构建径向用户界面的通用 CSS 框架</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fofmll/orbit_a_generalpurpose_css_framework_designed_for/</link>
+      <description><![CDATA[  由    /u/tinchox5  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fofmll/orbit_a_generalpurpose_css_framework_designed_for/</guid>
+      <pubDate>Tue, 24 Sep 2024 15:43:41 GMT</pubDate>
     </item>
     <item>
-      <title>我使用原生 html、css 和 JS 构建了这个小的候补名单页面</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1focs3l/i_built_this_little_waitlist_page_using_vanilla/</link>
-      <description><![CDATA[        提交人    /u/nadimify   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1focs3l/i_built_this_little_waitlist_page_using_vanilla/</guid>
-      <pubDate>Tue, 24 Sep 2024 13:41:33 GMT</pubDate>
+      <title>有什么建议或反馈吗？我第一次在美国市场推出产品！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fofkhg/any_tips_or_feedback_my_first_launch_in_the_us/</link>
+      <description><![CDATA[        由    /u/Content_Skirt352   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fofkhg/any_tips_or_feedback_my_first_launch_in_the_us/</guid>
+      <pubDate>Tue, 24 Sep 2024 15:41:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
