@@ -4,111 +4,111 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Wed, 25 Sep 2024 09:16:31 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Sep 2024 12:29:50 GMT</lastBuildDate>
     <item>
-      <title>增强了我们原有的 Chrome 扩展程序，以帮助您使用自然语言构建 Web Scraper。只需提供列名称并单击一次即可开始。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fozyzl/enhanced_our_original_chrome_extension_to_help/</link>
-      <description><![CDATA[        提交人    /u/Thunderbit_   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fozyzl/enhanced_our_original_chrome_extension_to_help/</guid>
-      <pubDate>Wed, 25 Sep 2024 09:02:19 GMT</pubDate>
+      <title>我制作了一个非常简单的日常任务管理器</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fp2ym1/i_made_a_delightfully_simple_daily_task_manager/</link>
+      <description><![CDATA[       由    /u/Baervan  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fp2ym1/i_made_a_delightfully_simple_daily_task_manager/</guid>
+      <pubDate>Wed, 25 Sep 2024 12:16:28 GMT</pubDate>
     </item>
     <item>
-      <title>我利用社交聆听数据构建了一个人工智能马尔代夫度假村查找器</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fozws6/i_built_an_aipowered_maldives_resort_finder_using/</link>
-      <description><![CDATA[        由    /u/Flashy-Matter-9120   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fozws6/i_built_an_aipowered_maldives_resort_finder_using/</guid>
-      <pubDate>Wed, 25 Sep 2024 08:58:49 GMT</pubDate>
+      <title>我创建了一个关于争议性问题的网站</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fp2u6w/i_made_a_website_about_divisive_questions/</link>
+      <description><![CDATA[在这个网站上，用户可以回答有关政治、技术、社会和游戏等有争议的问题。  用户将看到投票赞成或反对的用户百分比。  技术栈：React、Nodejs（Fastify）、MongoDB，托管在 Firebase 上。     提交人    /u/Serious-Book7796   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fp2u6w/i_made_a_website_about_divisive_questions/</guid>
+      <pubDate>Wed, 25 Sep 2024 12:10:01 GMT</pubDate>
     </item>
     <item>
-      <title>打破世界纪录：在 Twitch 上直播完成整个 freeCodeCamp 课程！🎉💻</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fozvmv/breaking_the_world_record_completing_the_entire/</link>
-      <description><![CDATA[嘿 Redditors！👋 我即将开始一项巨大的挑战 - 我试图通过在 Twitch 上直播完成整个 freeCodeCamp 课程来打破世界纪录！🚀 作为一名技术爱好者、程序员和终身学习者，这是对毅力、奉献精神和对 Web 开发的热情的个人考验。我将解决从基本 HTML 和 CSS 到高级算法和全栈开发的所有内容 - 所有这些都将直播给全世界观看。 💡 我为什么要这样做？  为了证明只要有足够的奉献精神，任何人都可以学习编码。 激励他人接受自己的挑战。 因为我喜欢挑战自己并看看我能走多远！ 📍 在 Twitch 上关注旅程：https://twitch.tv/anonyoff1  如果您喜欢编码、想要学习或只是喜欢支持疯狂的挑战，请来观看！欢迎随时提问、提供建议或只是闲逛。我很乐意让 Reddit 社区成为这次旅程的一部分。 TwitchChallenge #freeCodeCamp #WorldRecordAttempt #CodeLive    提交人    /u/Anony-01   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fozvmv/breaking_the_world_record_completing_the_entire/</guid>
-      <pubDate>Wed, 25 Sep 2024 08:56:17 GMT</pubDate>
+      <title>我的 Chrome 扩展程序在 X 上流行起来，已经赚了 140 美元</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fp2g4p/my_chrome_extension_went_viral_on_x_and_has/</link>
+      <description><![CDATA[大家好！ 最近，我在 Twitter 上遇到了一大波机器人关注，我很快意识到我并不是唯一一个遇到这种麻烦的人。许多其他人也遇到了同样的问题，我想，为什么不做点什么呢？ 我直接开始构建一个 Chrome 扩展程序，该扩展程序可以根据机器人的关注者与关注者的比例、其个人简介中的关键字等信息自动检测机器人。只需单击一下，即可轻松清理您的关注者列表。 没有多想，我发布了这条推文：https://x.com/zeusinsight/status/1836405305816567937，令我惊讶的是，它立即引起了人们的注意！事实证明，这是一个比我想象的更大的问题 - 人们真的想要一个解决方案！ 在那条推文发布几分钟后，ping - 电子邮件通知：Lemon Squeezy！我刚刚完成了第一笔销售......几分钟之内！然后，它就一直滚滚而来。我现在已经销售了 30 件，而且还在继续增加！ 我很想听听其他人对此的看法    提交人    /u/Monezon   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fp2g4p/my_chrome_extension_went_viral_on_x_and_has/</guid>
+      <pubDate>Wed, 25 Sep 2024 11:48:43 GMT</pubDate>
     </item>
     <item>
-      <title>黑色故事 - 黑暗谜题 -> 移动派对应用程序 -> 您能解决所有问题吗？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fozr7g/black_stories_dark_puzzles_mobile_party_app_can/</link>
-      <description><![CDATA[        提交人    /u/Jasperavv   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fozr7g/black_stories_dark_puzzles_mobile_party_app_can/</guid>
-      <pubDate>Wed, 25 Sep 2024 08:46:18 GMT</pubDate>
+      <title>如果调查只有一个问题会怎么样？寻找对一个简单的业余项目想法的反馈</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fp28fi/what_if_surveys_were_only_one_question_looking/</link>
+      <description><![CDATA[大家好！ 我有一个非常简单的业余项目想法，我希望验证它是否有潜力，所以我想听听你的想法！ 我知道已经有很多很棒的调查工具。它们易于使用、价格合理且功能齐全。但如果我们将每个调查减少到一个问题怎么办？没有选项可以添加更多问题。这一切都是为了减少受访者的脑力劳动，使他们能够更轻松、更快地做出回应，从而提高完成率。 除此之外，我还在考虑添加以下功能：  自动跟进：根据第一次回复发送后续调查，以获得更多见解，而无需额外工作。 预定调查：例如，每周一向您的团队发送调查。 调查触发器：在执行特定操作后自动发送调查。  我知道用调查问卷轰炸人们是不行的，但这里的想法是让事情保持专注、快速和可操作。你觉得这里有什么东西吗？    提交人    /u/jyriso   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fp28fi/what_if_surveys_were_only_one_question_looking/</guid>
+      <pubDate>Wed, 25 Sep 2024 11:36:03 GMT</pubDate>
     </item>
     <item>
-      <title>我创建了照片地图 - 一个用于存储您的个人照片和回忆的交互式世界地图</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fozr6r/i_created_photo_map_an_interactive_world_map_for/</link>
-      <description><![CDATA[      嘿 r/SideProject！我很高兴与您分享我的最新项目：照片地图，这是一款交互式照片世界地图应用，可让您以全新的方式重新发现您的回忆。 特色图片 什么是照片地图？照片地图是一种个性化的交互式世界地图，可准确显示您的照片和视频的拍摄地点。它旨在帮助您重温记忆，整理旅行照片，并以视觉方式探索人生旅程。 主要特点：  交互式世界地图，具有街道级缩放功能 支持存储在设备或云端的照片（包括最流行的云服务） 3D 模式带来身临其境的体验 按日期或位置搜索功能 注重隐私：没有中间服务器，所有数据都缓存在您的设备上 支持视频和 GIF 多种地图视图：卫星、OpenStreetMap（OSM）、高度计 导入 GPX、KML 和 KMZ 路线 支持 what3words (w3w) 读取和写入 EXIF 数据  我为什么构建它：我与旅行者、考古学家和环保组织进行了交谈，他们都有一个共同的需求：根据地点记录他们的路线，然后探索他们去过的地方。照片地图旨在满足个人和专业用途的这种需求。 技术细节：  处理多达 100,000 张照片，速度不会明显减慢 免费试用版最多可显示 500 张照片 付费升级可提高限制（云照片最多可显示 70,000 张） 定期更新设备兼容性和新功能  我很想听听你的想法！  你觉得哪些功能最有趣？ 有什么改进或附加功能的建议吗？ 你会将这样的应用用于你的照片吗？  请随时询问有关开发过程、我面临的挑战或任何你好奇的问题。我在这里与社区讨论并学习！ Play Store 链接 主页 实际操作 (GIF) 附言 当我致力于发展照片地图时，我也在寻找：  营销技巧和策略，以吸引更多可以从此应用中受益的用户 对照片组织、旅行技术或基于位置的服务感兴趣的潜在合作伙伴或合作者  如果您在这些领域有经验或认识可能感兴趣的人，我很乐意与您联系！    提交人    /u/levsw   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fozr6r/i_created_photo_map_an_interactive_world_map_for/</guid>
-      <pubDate>Wed, 25 Sep 2024 08:46:16 GMT</pubDate>
+      <title>我创建了 Kahoot 的替代品</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fp1n3c/i_built_a_kahoot_alternative/</link>
+      <description><![CDATA[      嘿大家好， 我将其称为“在线测试制作器：AI 驱动”。2017 年，当我发现 Kahoot 没有太多好的替代品时，我就开始使用它。我觉得他们的用户体验太复杂了，从学生的角度来看，整个界面非常混乱和令人沮丧。  我的应用程序的第一个版本称为“在线测验制作器”，我使用 WordPress 网站和 iOS 应用程序构建了它。我给这个应用程序定价 5 美元，它确实赚了一些钱！ 我不得不关闭网站并离开一段时间。但现在我又回来了，使用我多年来学到的一切。我甚至添加了 AI！我自己重建了应用程序和网站，我非常高兴很快就能推出它。 我还为 beta 测试人员建立了一个 WhatsApp 群组，我正在寻找更多教师加入。如果您认识任何老师，请与他们分享我网站的链接。如果他们有兴趣加入我们的 beta 测试人员小组，请告诉我！我会非常感激的！ 谢谢你的帮助！ https://www.online-test-maker.com     提交人    /u/arbel03   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fp1n3c/i_built_a_kahoot_alternative/</guid>
+      <pubDate>Wed, 25 Sep 2024 11:00:05 GMT</pubDate>
     </item>
     <item>
-      <title>我是否应该为寻找联合创始人而感到羞耻？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fozqrv/should_i_feel_ashamed_about_finding_cofounders/</link>
-      <description><![CDATA[大家好！ 我是一名技术人员，总是有很多想法。几个月前，我创办了自己的初创公司，既没有确认真正的需求，也没有任何创业经验。这是一个很大的错误。今天我意识到了这一点。我多次改变了自己的想法，当我认为我找到了一个利基市场时，我开始测试市场。 我花了一些时间在 Figma 和 Vimeo 上制作我的产品可能是什么样子的演示。我开始在网络上交流以测试吸引力。 然后我意识到我的想法实施起来非常复杂。最大的问题是开发我的产品所需的数据集无法访问（知识产权）。我还意识到，每次我有新想法时，已经有更先进的竞争对手，我发现很难进行市场调研，尤其是当我没有任何营销技能时，当涉及到接触商业客户时。  我告诉自己，是时候和一两个人合作了，分享想法，找到一个与众不同的想法。但奇怪的是，我感到一种羞耻，尤其是人们在社交网络上看我的眼神。这是正常的吗？    提交人    /u/lor_aine   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fozqrv/should_i_feel_ashamed_about_finding_cofounders/</guid>
-      <pubDate>Wed, 25 Sep 2024 08:45:27 GMT</pubDate>
+      <title>你能评价一下我的约会网站 fastandfurizz.com 吗</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fp1mu9/can_u_review_my_dating_website_called/</link>
+      <description><![CDATA[fastandfurizz.com    由   提交  /u/Successful_File_4809   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fp1mu9/can_u_review_my_dating_website_called/</guid>
+      <pubDate>Wed, 25 Sep 2024 10:59:40 GMT</pubDate>
     </item>
     <item>
-      <title>我做了一个愚蠢的网站</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fozmx1/i_made_a_dumb_website/</link>
-      <description><![CDATA[就像标题所暗示的那样，我创建了一个名为“这个网站很愚蠢”的网站，它有愚蠢的交互部分。 现在有两个部分。 一个按钮，用于计算每个人点击了多少次。 https://thiswebsiteisdumb.com/count/ 两个按钮（蓝色和红色），用于计算点击次数。选择一方并做出贡献。 https://thiswebsiteisdumb.com/twocount/ 我计划制作更多愚蠢的片段。    提交人    /u/MidgetDufus   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fozmx1/i_made_a_dumb_website/</guid>
-      <pubDate>Wed, 25 Sep 2024 08:37:09 GMT</pubDate>
+      <title>推出 BoilerPro：AWS + Next.js SaaS Boilerplate</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fp1il3/launching_boilerpro_aws_nextjs_saas_boilerplate/</link>
+      <description><![CDATA[嘿，各位业余项目爱好者们！我很高兴地宣布推出 BoilerPro，这是一款面向 AWS 和 Next.js 开发人员的全面 SaaS 样板。 什么是 BoilerPro？ BoilerPro 旨在通过提供强大且可用于生产的基础来加速您的 SaaS 开发过程。它将 AWS 基础设施的强大功能与 Next.js 的灵活性相结合，让您可以专注于构建自己的独特功能，而不是重新发明轮子。 主要特点：  完全配置的 AWS 基础设施（无服务器） 具有身份验证和用户管理功能的 Next.js 前端 用于支付的 Stripe 集成 CI/CD 管道设置 可扩展架构 有据可查的代码库  为什么选择 BoilerPro？ 作为开发人员，我们都知道为新的 SaaS 项目设置初始基础设施和样板代码的痛苦。 BoilerPro 旨在消除这一痛点，从而为您节省数天甚至数周的设置时间。 DevHunt 发布特惠 为庆祝我们在 DevHunt 上的发布，我们为发布周期间进行的所有购买提供 100 美元的折扣。不要错过这个启动您的下一个 SaaS 项目的机会！ 试用一下 我希望您能试用一下 BoilerPro，看看它如何为您的下一个 SaaS 项目提供强大动力。请访问我们的网站了解更多详细信息和文档：https://boilerpro.co 支持 BoilerPro 如果您认为 BoilerPro 听起来很有趣，我将非常感谢您的支持！我本周将在 DevHunt 上发布，您的点赞对我意义重大：https://devhunt.org/tool/boilerpro 如果您有任何疑问，请告诉我。我在这里为您提供帮助！    提交人    /u/lucadi_domenico   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fp1il3/launching_boilerpro_aws_nextjs_saas_boilerplate/</guid>
+      <pubDate>Wed, 25 Sep 2024 10:52:06 GMT</pubDate>
     </item>
     <item>
-      <title>我制作了一个网站，根据天气预报向您展示最佳的欧洲行程，包括航班和酒店。非常欢迎任何反馈！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fozd33/i_made_a_website_that_shows_you_the_best_european/</link>
-      <description><![CDATA[       由    /u/Melodic_Okra_1228  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fozd33/i_made_a_website_that_shows_you_the_best_european/</guid>
-      <pubDate>Wed, 25 Sep 2024 08:15:41 GMT</pubDate>
+      <title>Candor Rocks - 获取同事的反馈</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fp1h93/candor_rocks_get_feedback_from_coworkers/</link>
+      <description><![CDATA[        提交人    /u/specrunner   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fp1h93/candor_rocks_get_feedback_from_coworkers/</guid>
+      <pubDate>Wed, 25 Sep 2024 10:49:37 GMT</pubDate>
     </item>
     <item>
-      <title>关于我的教育/学校网站建设的反馈 | HTML、CSS 和 JavaScript</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fozbzr/feedback_on_my_educationschool_website_build_html/</link>
-      <description><![CDATA[      大家好， 我最近上传了一个关于使用 HTML、CSS 和 JavaScript 构建教育/学校网站的分步视频。我很乐意从社区获得有关设计、代码结构和整体功能的反馈。我一直在寻求改进，您的见解将非常宝贵！ 如果您发现内容有用，我将非常感谢您通过订阅给予支持。 提前感谢，祝您编码愉快！🎉 教程视频链接 下载源代码链接 https://preview.redd.it/ws7xjss4zwqd1.png?width=1920&amp;format=png&amp;auto=webp&amp;s=8109b182ea00f92fc552a789e88f6bcee7622e9e    提交人    /u/Kitchen_Middle_2835   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fozbzr/feedback_on_my_educationschool_website_build_html/</guid>
-      <pubDate>Wed, 25 Sep 2024 08:13:20 GMT</pubDate>
+      <title>你能评价一下我的网站 fastandfurizz.com 吗</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fp1dpm/can_u_review_my_website_fastandfurizzcom/</link>
+      <description><![CDATA[      https://preview.redd.it/609yuu6xqxqd1.jpg?width=1920&amp;format=pjpg&amp;auto=webp&amp;s=6deb7c84f6df8ff8bf545af8733ff88c11634157 fastandfurizz.com    提交人    /u/Successful_File_4809   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fp1dpm/can_u_review_my_website_fastandfurizzcom/</guid>
+      <pubDate>Wed, 25 Sep 2024 10:43:12 GMT</pubDate>
     </item>
     <item>
-      <title>我们为初创企业和投资者打造了人工智能媒人</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1foz353/we_made_an_ai_matchmaker_for_startups_and/</link>
-      <description><![CDATA[https://reddit.com/link/1foz353/video/ihpg3e2ivwqd1/player    由   提交  /u/No-Calligrapher-1365   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1foz353/we_made_an_ai_matchmaker_for_startups_and/</guid>
-      <pubDate>Wed, 25 Sep 2024 07:53:52 GMT</pubDate>
+      <title>我创建了一个工具，可以将网站内容转换为 Instagram 帖子、Reels、故事创意</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fp189u/im_created_a_tool_that_convert_website_content_to/</link>
+      <description><![CDATA[    /u/QuitRevolutionary310   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fp189u/im_created_a_tool_that_convert_website_content_to/</guid>
+      <pubDate>Wed, 25 Sep 2024 10:32:54 GMT</pubDate>
     </item>
     <item>
-      <title>开发一款利用人工智能帮助初创公司与投资者匹配的工具</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1foyq0w/built_a_tool_to_help_startups_match_with/</link>
-      <description><![CDATA[大家好， 我一直在开发一个平台，帮助初创公司找到合适的投资者。你只需提交你的推介，平台就会对其进行分析，以将你与适合你业务的投资者进行匹配。 匹配成功后，你可以直接通过平台申请。 它旨在让寻找投资者的过程更快、更轻松。如果你身处创业世界，请随时查看。 很想听到任何反馈！ 🔗 FundBase    提交人    /u/xazarall   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1foyq0w/built_a_tool_to_help_startups_match_with/</guid>
-      <pubDate>Wed, 25 Sep 2024 07:24:43 GMT</pubDate>
+      <title>我制作了一个应用程序，可以在一个时间线/提要中显示所有 Telegram 频道</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fp181e/i_made_an_app_that_shows_all_your_telegram/</link>
+      <description><![CDATA[      我使用 Telegram 频道来了解新闻、搞笑表情包和有趣的东西。如果你找到合适的频道，Telegram 上有大量精彩内容。我不喜欢的是你必须单独进入每个频道并查看最新消息。 因此，我为自己开发了一个应用，它可以加载并显示所有频道的所有消息，并以最新的时间线为基准。有点像 Telegram 的社交媒体信息流，只是它没有算法来决定你应该看到什么。 我现在已经在 Play Store 的测试轨道上启动了它，并想发布它。在此之前，我想和一些真实用户一起测试它。 如果您使用 Telegram 频道，您很可能会发现它很有用。 它可在Github上下载，您可以加入Google 群组下载。很高兴回答任何问题或收到您的反馈。非常感谢！  https://preview.redd.it/xi6sxd3snxqd1.png?width=450&amp;format=png&amp;auto=webp&amp;s=a6a476812be5660786df1fdf7be6fbd045c55b5d https://preview.redd.it/jjwmuk3snxqd1.png?width=450&amp;format=png&amp;auto=webp&amp;s=e7a9fc869d7405d7d5e469a4516ed67dd6d828a5 https://preview.redd.it/z289tk3snxqd1.png?width=450&amp;format=png&amp;auto=webp&amp;s=2bf56b1f805f2c45b5810ff068155becbf4f911f https://preview.redd.it/d2s3qk3snxqd1.png?width=450&amp;format=png&amp;auto=webp&amp;s=ce5957c6b9607d66121225e5091478ec14c39e9f https://preview.redd.it/7sy03l3snxqd1.png?width=450&amp;format=png&amp;auto=webp&amp;s=02d0083f592cab1a76b10e6167ba9c1ddb60996f    提交人    /u/rufusinzen   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fp181e/i_made_an_app_that_shows_all_your_telegram/</guid>
+      <pubDate>Wed, 25 Sep 2024 10:32:27 GMT</pubDate>
     </item>
     <item>
-      <title>[需要反馈] GoLaunchFast：面向独立黑客的 Next.js 样板</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1foyo96/feedback_wanted_golaunchfast_a_nextjs_boilerplate/</link>
-      <description><![CDATA[大家好！ 我一直在研究 GoLaunchFast，这是一个 Next.js 样板，旨在帮助独立黑客和小团队快速构建 SaaS 应用程序。它具有预先构建的组件，可用于用户身份验证、付款、电子邮件传递甚至博客等。 它还包括一些AI 功能，以帮助自动执行任务并简化内容创建。 以下是简要介绍：  使用 Next.js、TypeScript、MongoDB、Tailwind CSS 和 Stripe 构建。 开箱即用，处理身份验证、付款、电子邮件和内容发布。 AI 驱动的工具可加快您的工作流程。  如果您以前使用过类似的东西或构建过 SaaS 应用程序，我很想知道：  您觉得这个想法怎么样？ 您想看到什么功能？  非常感谢您提供的任何反馈！ 🙂 链接：GoLaunchFast.com    由   提交  /u/CompetitiveTop9795   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1foyo96/feedback_wanted_golaunchfast_a_nextjs_boilerplate/</guid>
-      <pubDate>Wed, 25 Sep 2024 07:20:55 GMT</pubDate>
+      <title>我建立了一个讨论音乐的社交媒体平台——寻求反馈</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fp0ysy/i_built_a_social_media_platform_for_discussing/</link>
+      <description><![CDATA[      嘿！我最近推出了 Desert Island - 一个专门用于评级、评论和与朋友讨论音乐的社交媒体平台。在大学期间，我发现我和我的朋友们总是互相讨论和推荐不同的专辑，但从来没有一个理想的地方/平台来做这件事，所以我创建了 Desert Island 来填补这个空白。 与其他评论平台不同，这个网站专注于您和朋友之间的快速非正式评论，并提供了一个方便记录您一直在听和想听的内容的好地方。您的提要是查看所有朋友一直在听和评论的内容的完美地方，让您可以轻松地与他们进行讨论。我还建立了一个推荐系统，该系统试图将您的音乐品味与应用程序上的其他音乐品味相匹配，并根据与您相似的用户向您推荐专辑。 我对此非常热衷，并渴望听到任何反馈。这仍然是一个不断发展的应用程序，因此任何见解都非常有用！请记住，由于这是一款社交媒体应用程序，因此与朋友一起使用时用户体验最佳！ 您可以在此处找到该网站 https://desert-island.co.uk，您可以创建一个帐户或通过 Google 登录。听到您的一些想法真的非常棒！    提交人    /u/coreyk03   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fp0ysy/i_built_a_social_media_platform_for_discussing/</guid>
+      <pubDate>Wed, 25 Sep 2024 10:15:22 GMT</pubDate>
     </item>
     <item>
-      <title>我制作了 ADHD chrome 扩展</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1foybxf/i_made_adhd_chrome_extension/</link>
-      <description><![CDATA[        提交人    /u/codewithbernard   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1foybxf/i_made_adhd_chrome_extension/</guid>
-      <pubDate>Wed, 25 Sep 2024 06:55:37 GMT</pubDate>
+      <title>在 iOS 上推出了一款鸡尾酒调制应用程序</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fp0k3e/launched_a_cocktail_crafting_app_on_ios/</link>
+      <description><![CDATA[      https://preview.redd.it/dx91quvgfxqd1.png?width=1012&amp;format=png&amp;auto=webp&amp;s=d795ddf434a736dbb878219d0fc6667e385fdc06 我最近刚刚启动了这款应用，希望获得任何反馈。如果您需要这款应用，我将非常非常感激您的任何建议/批评/评论和功能请求。干杯！ App Store 链接：https://apps.apple.com/app/id6469517243    由   提交  /u/improbablecertainty   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fp0k3e/launched_a_cocktail_crafting_app_on_ios/</guid>
+      <pubDate>Wed, 25 Sep 2024 09:46:58 GMT</pubDate>
     </item>
     <item>
-      <title>我制作了一款应用程序，可帮助您判断产品是否值得。（Android）</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1foy7n7/i_made_an_app_that_helps_decide_if_products_are/</link>
-      <description><![CDATA[这款应用程序的目的是通过跟踪产品的价格、使用频率和管理到期日期来帮助消费者了解产品是否真的值得使用，无论是水果还是护手霜。 我们使用的某些产品在一个月后就用完了，而我们却没有注意到，最终，这相当于一次错误的购买。您可以跟踪产品用完所需的时间，然后在产品用完之前按时购买。 如果您懒得在每次使用产品时都打开应用程序并记录，则可以使用根据您为产品设置的时间和数量自动记录使用情况的功能，但由于服务器成本，它是付费的。 没有广告，几乎所有功能都是免费的 - Product-ive 让我知道您认为缺少了什么，为什么您会使用/不使用它以及您希望添加哪些功能    提交人    /u/mooncrestapps   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1foy7n7/i_made_an_app_that_helps_decide_if_products_are/</guid>
-      <pubDate>Wed, 25 Sep 2024 06:46:35 GMT</pubDate>
+      <title>我制作了简单且价格实惠的图像 CDN</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fp0jip/i_made_simple_and_affordable_image_cdn/</link>
+      <description><![CDATA[为我的博客/网站/电子邮件托管图片一直很麻烦。有一段时间我可以使用 Imgur、Github 来达到这个目的，但慢慢地它们都制定了反盗链政策。我知道带宽需要花钱，他们有权设置限制。但是，他们也没有提供任何替代方案。 所以，我决定推出自己的：一个简单的界面来上传你的图片，优化它们，并获得一个 CDN 链接，你可以在任何地方使用，只需支付少量费用。 我对结果很满意。它被称为 MageCDN：https://magecdn.com 很高兴听到你的反馈！    提交人    /u/TheNerdistRedditor   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fp0jip/i_made_simple_and_affordable_image_cdn/</guid>
+      <pubDate>Wed, 25 Sep 2024 09:45:50 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能面试</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1foxwss/interview_with_ai/</link>
-      <description><![CDATA[大家好， 在经历过多次面试后，我注意到一个普遍的问题：很多面试官缺乏进行有效面试的经验，这往往导致把时间浪费在不合格的候选人身上。 为了解决这个问题，我启动了一个名为“AI 面试”的项目（不是太多，我只是从一点代码开始），主要有两个目标：  节省面试官的时间：候选人将与 AI 一起进行面试前流程。根据AI的评估，面试官可以决定是否继续面试该候选人或跳过该候选人，确保只有最优秀的候选人才能进入面试。 提高HR的候选人质量：通过提前筛选候选人，系统可帮助HR团队专注于更高质量的申请人，从而提高整体录取率。  所以我在这里分享，想找到有同样想法的人一起做。 抱歉我的英语不好。    submitted by    /u/lilan__   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1foxwss/interview_with_ai/</guid>
-      <pubDate>Wed, 25 Sep 2024 06:24:07 GMT</pubDate>
+      <title>我制作了一个国际象棋引擎/分析网站，它完全在浏览器中运行，不涉及任何服务器</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fp06vv/i_made_a_chess_engine_analysis_website_that_runs/</link>
+      <description><![CDATA[      大家好， 最近，我对国际象棋引擎非常感兴趣，但对一些在线工具的速度变慢感到有点沮丧，因为它们将每一步都发送到服务器。你走一步然后...等待几秒钟... 所以，我决定摆弄我自己的副项目：bestchessmove.xyz 我设法使用 WebAssembly（就像 lichess 所做的那样）直接在浏览器中运行 Stockfish，因此没有服务器连接，一切都运行得非常顺畅。看到它组合在一起真是太有趣了。此外，Stockfish 17 最近已经发布，目前正在开发中，所以我很快就会添加它。  页面现在的样子 到目前为止，我对我添加的功能非常满意。现在，我正在努力实现王车易位权利并修复一些小错误。主要的想法是让您粘贴整个游戏并获得人工智能分析，添加那些感叹号和问号来突出显示精彩动作和失误。目标是创建一个漂亮的、用户友好的网站，您可以在其中使用 Stockfish 分析您以前的游戏，并可能找出模式或需要改进的领域。 需要说明的是，我不是在提倡作弊或类似的事情！我真的希望每个人都能负责任地使用它并保持游戏公平。在线象棋中已经有足够多的作弊者了。 它完全免费，无需广告或注册，而且就像我说的，一切都在您的浏览器中运行。如果您想查看它并有任何反馈或建议，我很乐意听取。我对它的进展感到非常兴奋，并认为象棋爱好者也可能会喜欢它！此外，我正在接受功能请求，因为我想构建一个为人们提供真正价值的工具。    提交人    /u/imtemplain   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fp06vv/i_made_a_chess_engine_analysis_website_that_runs/</guid>
+      <pubDate>Wed, 25 Sep 2024 09:19:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
