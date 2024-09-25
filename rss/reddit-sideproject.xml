@@ -4,111 +4,111 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Wed, 25 Sep 2024 06:21:18 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Sep 2024 09:16:31 GMT</lastBuildDate>
     <item>
-      <title>我开放了我的 3 个 SaaS 源代码以供出售——结果如下。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1foxt1u/i_opened_up_my_3_saas_source_codes_for_sale_here/</link>
-      <description><![CDATA[大家好， 上周，我开放了 3 个 AI 驱动的 SaaS 平台源代码的销售。情况如下：  Quickshorts.co：我最初计划只销售 5 个许可证，但需求量惊人！我最终卖出了 7 个许可证。Quickshorts 可自动为社交媒体创建短视频内容，开发人员似乎很喜欢这个概念。 Replyhub.co：此 SaaS 可帮助用户实时监控社交媒体以捕获高潜力潜在客户。目前，我正在提供 Reddit 特定版本的源代码，该版本专注于仅在 Reddit 上进行监控和潜在客户捕获。我们仍处于 LinkedIn 和 Twitter 集成的测试阶段。通过购买源代码，您将深入了解实时内容抓取、情绪分析和快速策划，这些核心功能使 Replyhub 能够高效地生成潜在客户。尚未出售代码。:) Supawriter.com：Supawriter 可自动完成企业长篇博客内容创建的整个过程。它会生成每月内容计划并创建博客，包括元描述和特色图片，全部自动完成。源代码将向您展示 Supawriter 如何处理从生成内容计划到制作自动完成博客写作和图片创建的提示等所有操作。如果您正在寻求开发内容自动化平台，这可能是一个无价的工具。尚未出售代码。:)  如果您仍有兴趣获取 Replyhub 或 Supawriter 的源代码，机会仍然存在！这些产品为实时内容抓取、情绪分析和全周期博客自动化提供了强大的洞察力。 这两种工具都使用 Laravel、Inertia 和 VueJS，这使得它们对于想要构建或扩展自己的解决方案的开发人员来说具有可扩展性和可定制性。如果您想了解更多详细信息或想要获取许可证，请发表评论或 DM，我会发送付款链接。    提交人    /u/Tanzirulhuda   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1foxt1u/i_opened_up_my_3_saas_source_codes_for_sale_here/</guid>
-      <pubDate>Wed, 25 Sep 2024 06:16:29 GMT</pubDate>
+      <title>增强了我们原有的 Chrome 扩展程序，以帮助您使用自然语言构建 Web Scraper。只需提供列名称并单击一次即可开始。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fozyzl/enhanced_our_original_chrome_extension_to_help/</link>
+      <description><![CDATA[        提交人    /u/Thunderbit_   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fozyzl/enhanced_our_original_chrome_extension_to_help/</guid>
+      <pubDate>Wed, 25 Sep 2024 09:02:19 GMT</pubDate>
     </item>
     <item>
-      <title>我参加了我的第一次网络聚会</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1foxmnb/i_did_my_first_networking_emeet/</link>
-      <description><![CDATA[我只是想在这里分享这一点。8 年来，我一直从事计算机编码工作。从小我就对创业感兴趣，但只知道编程是不够的。在过去的 6 个月里，我一直在努力走出自己的舒适区。终于，前天，我与一个完全陌生的人（SaaS 创始人）进行了第一次网络通话，我觉得我可以更频繁地这样做。 我仍在研究通话质量问题。因为我不确定通话进行得怎么样。我感到快乐和充满活力。 走出舒适区。 此外，你们如何衡量通话质量？特别是在销售方面。是否有我应该查看的标准/模式/回拨来衡量这一点？ 此外，如果有人愿意，我很乐意做更多这样的事情！只是想知道你们在做什么以及这段旅程是怎样的。     由   提交  /u/CaptADExp   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1foxmnb/i_did_my_first_networking_emeet/</guid>
-      <pubDate>Wed, 25 Sep 2024 06:03:59 GMT</pubDate>
+      <title>我利用社交聆听数据构建了一个人工智能马尔代夫度假村查找器</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fozws6/i_built_an_aipowered_maldives_resort_finder_using/</link>
+      <description><![CDATA[        由    /u/Flashy-Matter-9120   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fozws6/i_built_an_aipowered_maldives_resort_finder_using/</guid>
+      <pubDate>Wed, 25 Sep 2024 08:58:49 GMT</pubDate>
     </item>
     <item>
-      <title>我制作了一个工具来帮助艺术家寻找灵感</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1foxekn/i_made_a_tool_to_help_artists_find_inspiration/</link>
-      <description><![CDATA[大家好，我是一名艺术爱好者，偶尔也会画画，但我的主要工作和兴趣是处理数据集。 我最近帮助某人完成了一个对传统绘画进行分类的项目，最终得到了一个包含大量古典艺术作品的数据库。因此，我创建了一个网站 (artseekr.com)，让人们搜索类似的艺术作品以寻找灵感。任何人需要做的就是上传一张图片，该模型就会列出数据库中相似度最高的图片（全部是真实艺术作品，没有 AI 生成的东西）。 如果你们可以尝试一下并给我诚实的反馈或我可以做出的任何改进，我会非常高兴。这只是一个激情项目，所以没有付费墙之类的东西。我也不会存储您上传的任何图像数据，因此任何原创作品都不会被盗。我只是想了解这个模型是否按预期工作，以及它是否对真正的艺术家有用。网站底部也有一个反馈链接。 如果您想尝试一下，这是链接。    提交人    /u/Different-Yam4683   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1foxekn/i_made_a_tool_to_help_artists_find_inspiration/</guid>
-      <pubDate>Wed, 25 Sep 2024 05:47:30 GMT</pubDate>
+      <title>打破世界纪录：在 Twitch 上直播完成整个 freeCodeCamp 课程！🎉💻</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fozvmv/breaking_the_world_record_completing_the_entire/</link>
+      <description><![CDATA[嘿 Redditors！👋 我即将开始一项巨大的挑战 - 我试图通过在 Twitch 上直播完成整个 freeCodeCamp 课程来打破世界纪录！🚀 作为一名技术爱好者、程序员和终身学习者，这是对毅力、奉献精神和对 Web 开发的热情的个人考验。我将解决从基本 HTML 和 CSS 到高级算法和全栈开发的所有内容 - 所有这些都将直播给全世界观看。 💡 我为什么要这样做？  为了证明只要有足够的奉献精神，任何人都可以学习编码。 激励他人接受自己的挑战。 因为我喜欢挑战自己并看看我能走多远！ 📍 在 Twitch 上关注旅程：https://twitch.tv/anonyoff1  如果您喜欢编码、想要学习或只是喜欢支持疯狂的挑战，请来观看！欢迎随时提问、提供建议或只是闲逛。我很乐意让 Reddit 社区成为这次旅程的一部分。 TwitchChallenge #freeCodeCamp #WorldRecordAttempt #CodeLive    提交人    /u/Anony-01   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fozvmv/breaking_the_world_record_completing_the_entire/</guid>
+      <pubDate>Wed, 25 Sep 2024 08:56:17 GMT</pubDate>
     </item>
     <item>
-      <title>我对“招聘人员”发来的垃圾邮件感到厌烦。我正在尝试做点什么来抵制它。你觉得这个想法怎么样？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fowqep/i_am_so_tired_of_spam_from_recruiters_i_am_trying/</link>
-      <description><![CDATA[        提交人    /u/StageEasy6483   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fowqep/i_am_so_tired_of_spam_from_recruiters_i_am_trying/</guid>
-      <pubDate>Wed, 25 Sep 2024 05:02:16 GMT</pubDate>
+      <title>黑色故事 - 黑暗谜题 -> 移动派对应用程序 -> 您能解决所有问题吗？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fozr7g/black_stories_dark_puzzles_mobile_party_app_can/</link>
+      <description><![CDATA[        提交人    /u/Jasperavv   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fozr7g/black_stories_dark_puzzles_mobile_party_app_can/</guid>
+      <pubDate>Wed, 25 Sep 2024 08:46:18 GMT</pubDate>
     </item>
     <item>
-      <title>CryptoTools.me 简介</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fowpk6/introducing_cryptotoolsme/</link>
-      <description><![CDATA[嗨，加密社区！👋 我很高兴与大家分享我一直在从事的一个新项目 — CryptoTools.me — 一个一站式平台，旨在帮助您发现和使用加密领域的最佳工具。无论您是在寻找图表工具、投资组合跟踪器还是最新的 DeFi，我们都能满足每个人的需求！ 功能：精选加密工具：涵盖交易、安全、DeFi 等各个类别的工具集合不断增长。轻松访问：无需再四处寻找 — 在一个地方找到所有必备的加密工具。社区提交（即将推出）：很快，您将能够提交自己喜欢的加密工具，以便其他人也可以发现并从中受益。时事通讯：订阅我们的时事通讯，随时了解最新趋势、工具和更新。不要错过加密领域的下一个大事件！我建立了 CryptoTools.me 来简化对不断发展的区块链和加密世界中的最佳资源的访问，我很乐意收到您的反馈！🙌 请随意浏览该网站，分享您的想法，并让我知道您是否认为应该推荐任何工具。 查看：CryptoTools.me 🔗 期待看到大家的想法！让我们一起构建这个平台。💪 加密 #Blockchain #CryptoTools #DeFi #Bitcoin #Altcoins #CryptoCommunity #CryptoToolsMe    提交人    /u/_NWF007   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fowpk6/introducing_cryptotoolsme/</guid>
-      <pubDate>Wed, 25 Sep 2024 05:00:48 GMT</pubDate>
+      <title>我创建了照片地图 - 一个用于存储您的个人照片和回忆的交互式世界地图</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fozr6r/i_created_photo_map_an_interactive_world_map_for/</link>
+      <description><![CDATA[      嘿 r/SideProject！我很高兴与您分享我的最新项目：照片地图，这是一款交互式照片世界地图应用，可让您以全新的方式重新发现您的回忆。 特色图片 什么是照片地图？照片地图是一种个性化的交互式世界地图，可准确显示您的照片和视频的拍摄地点。它旨在帮助您重温记忆，整理旅行照片，并以视觉方式探索人生旅程。 主要特点：  交互式世界地图，具有街道级缩放功能 支持存储在设备或云端的照片（包括最流行的云服务） 3D 模式带来身临其境的体验 按日期或位置搜索功能 注重隐私：没有中间服务器，所有数据都缓存在您的设备上 支持视频和 GIF 多种地图视图：卫星、OpenStreetMap（OSM）、高度计 导入 GPX、KML 和 KMZ 路线 支持 what3words (w3w) 读取和写入 EXIF 数据  我为什么构建它：我与旅行者、考古学家和环保组织进行了交谈，他们都有一个共同的需求：根据地点记录他们的路线，然后探索他们去过的地方。照片地图旨在满足个人和专业用途的这种需求。 技术细节：  处理多达 100,000 张照片，速度不会明显减慢 免费试用版最多可显示 500 张照片 付费升级可提高限制（云照片最多可显示 70,000 张） 定期更新设备兼容性和新功能  我很想听听你的想法！  你觉得哪些功能最有趣？ 有什么改进或附加功能的建议吗？ 你会将这样的应用用于你的照片吗？  请随时询问有关开发过程、我面临的挑战或任何你好奇的问题。我在这里与社区讨论并学习！ Play Store 链接 主页 实际操作 (GIF) 附言 当我致力于发展照片地图时，我也在寻找：  营销技巧和策略，以吸引更多可以从此应用中受益的用户 对照片组织、旅行技术或基于位置的服务感兴趣的潜在合作伙伴或合作者  如果您在这些领域有经验或认识可能感兴趣的人，我很乐意与您联系！    提交人    /u/levsw   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fozr6r/i_created_photo_map_an_interactive_world_map_for/</guid>
+      <pubDate>Wed, 25 Sep 2024 08:46:16 GMT</pubDate>
     </item>
     <item>
-      <title>如何优化保留率，有任何框架可以优化吗？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fowdvy/how_do_you_optimize_retention_rate_any_framework/</link>
-      <description><![CDATA[      我建立了 hubrank.co（一种无需按月订阅的 SEO 工具），我希望在 9 月底推出这个工具。 我们目前的营销渠道是通过 X 有机进行的，我本周开始写博客。 目前的情况是，我每天都会获得新用户。新用户不断增加（紫色条） 但未活跃的用户也在增加（红色条） https://preview.redd.it/ffon69iqwvqd1.png?width=2444&amp;format=png&amp;auto=webp&amp;s=09ea2bf0b05fb4c8a41dbb326dedc9eb6c744521 目前的保留率太差了。只有 25% 注册的用户只使用一次应用，之后就离开了应用。 我尝试通过电子邮件联系他们，但没有回复 所以我试图根据假设进行优化。低于我们的假设 1）我们在 Hubrank 上生成的内容不符合用户的期望 我建议完善人工智能生成的内容，但如果用户觉得结果不太好。他们会做很多工作来完善它们。所以用户离开了应用 潜在的解决方案：在生成的内容中添加图片库 我们尝试提高可读性并修改一些提示以生成人性化的内容。此外，我们会自动在内容中添加图片库 2.用户需要更简化的流程 我认为用户需要更多集成，这样他们就不必在多个选项卡之间切换来进行内容创建。 潜在解决方案：与 CMS 集成 我们将添加与 CMS 的集成，例如 WordPress、Wix 等。我们希望用户能够在内容创建过程中与我们保持一致。我认为 WordPress 将是第一个集成，如果您有其他想法，请告诉我。 3) 用户不知道要创建什么其他内容 第三个假设是用户不知道他们还需要创建什么其他内容 潜在解决方案：向生成的内容添加相关关键字 我们将为用户提供生成更多内容的想法。因此，在用户完成一个工作流程后，他们将再次使用我们的应用。 潜在解决方案：创建内容生成调度程序 它将使用户能够按照自己的时间表计划和生成内容。我们假设用户会在内容生成后访问应用来完善内容。 我计划在今年 9 月底进行 PHLaunch。 但随着留存问题的出现，我不知道，我是否应该重新安排发布并在问题解决后进行发布？ 此外，如果您想给我关于改进哪一个的建议，请尝试 Hubrank.co 并让我知道您的想法。    提交人    /u/RawrCunha   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fowdvy/how_do_you_optimize_retention_rate_any_framework/</guid>
-      <pubDate>Wed, 25 Sep 2024 04:39:41 GMT</pubDate>
+      <title>我是否应该为寻找联合创始人而感到羞耻？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fozqrv/should_i_feel_ashamed_about_finding_cofounders/</link>
+      <description><![CDATA[大家好！ 我是一名技术人员，总是有很多想法。几个月前，我创办了自己的初创公司，既没有确认真正的需求，也没有任何创业经验。这是一个很大的错误。今天我意识到了这一点。我多次改变了自己的想法，当我认为我找到了一个利基市场时，我开始测试市场。 我花了一些时间在 Figma 和 Vimeo 上制作我的产品可能是什么样子的演示。我开始在网络上交流以测试吸引力。 然后我意识到我的想法实施起来非常复杂。最大的问题是开发我的产品所需的数据集无法访问（知识产权）。我还意识到，每次我有新想法时，已经有更先进的竞争对手，我发现很难进行市场调研，尤其是当我没有任何营销技能时，当涉及到接触商业客户时。  我告诉自己，是时候和一两个人合作了，分享想法，找到一个与众不同的想法。但奇怪的是，我感到一种羞耻，尤其是人们在社交网络上看我的眼神。这是正常的吗？    提交人    /u/lor_aine   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fozqrv/should_i_feel_ashamed_about_finding_cofounders/</guid>
+      <pubDate>Wed, 25 Sep 2024 08:45:27 GMT</pubDate>
     </item>
     <item>
-      <title>使用人工智能自动执行个人创始人的任务</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fowb12/automate_task_for_solo_founders_using_ai/</link>
-      <description><![CDATA[嗨， 个人创始人，如果您希望有人可以使用 AI 为您自动执行单调乏味的任务，但尚未找到方法，请联系我或在评论中发帖，只要时间不超过 20 小时，我愿意免费为您服务。 您可能在想我为什么要自愿这样做：我的职业是程序员，我把这当作构建 AI 代理的学习练习，并希望从那里开始构建一些大的东西。 干杯    提交人    /u/hr1383   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fowb12/automate_task_for_solo_founders_using_ai/</guid>
-      <pubDate>Wed, 25 Sep 2024 04:34:35 GMT</pubDate>
+      <title>我做了一个愚蠢的网站</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fozmx1/i_made_a_dumb_website/</link>
+      <description><![CDATA[就像标题所暗示的那样，我创建了一个名为“这个网站很愚蠢”的网站，它有愚蠢的交互部分。 现在有两个部分。 一个按钮，用于计算每个人点击了多少次。 https://thiswebsiteisdumb.com/count/ 两个按钮（蓝色和红色），用于计算点击次数。选择一方并做出贡献。 https://thiswebsiteisdumb.com/twocount/ 我计划制作更多愚蠢的片段。    提交人    /u/MidgetDufus   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fozmx1/i_made_a_dumb_website/</guid>
+      <pubDate>Wed, 25 Sep 2024 08:37:09 GMT</pubDate>
     </item>
     <item>
-      <title>开发了一种 AI 工具，可以从任何链接或文档创建位大小的“转换”</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fow7bz/built_an_ai_tool_that_create_bitsized_casts_from/</link>
-      <description><![CDATA[受到 Google Illuminate 的启发，我创建了一个创建音频“播客”的工具（4-6 分钟长）来自任何链接或文档。 例如，我们获取这个长文档：https://people.math.wisc.edu/~angenent/Free-Lecture-Notes/free221.pdf并从中创建此演员表：https://quickcast.ai/episodes/01J88K9AZAGNBZBWQA1HF220JG 我正在寻找有关以下方面的反馈： - 我如何进一步改进这个产品？  你们都建议我探索哪些营销技巧？  尝试一下https://quickcast.ai    由   提交  /u/obaid   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fow7bz/built_an_ai_tool_that_create_bitsized_casts_from/</guid>
-      <pubDate>Wed, 25 Sep 2024 04:28:16 GMT</pubDate>
+      <title>我制作了一个网站，根据天气预报向您展示最佳的欧洲行程，包括航班和酒店。非常欢迎任何反馈！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fozd33/i_made_a_website_that_shows_you_the_best_european/</link>
+      <description><![CDATA[       由    /u/Melodic_Okra_1228  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fozd33/i_made_a_website_that_shows_you_the_best_european/</guid>
+      <pubDate>Wed, 25 Sep 2024 08:15:41 GMT</pubDate>
     </item>
     <item>
-      <title>我开发了一个 Chrome 扩展程序来帮助您在浏览时保持专注</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fow66y/i_built_a_chrome_extension_to_help_you_stay/</link>
-      <description><![CDATA[        由    /u/DifferentBarber1805  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fow66y/i_built_a_chrome_extension_to_help_you_stay/</guid>
-      <pubDate>Wed, 25 Sep 2024 04:26:20 GMT</pubDate>
+      <title>关于我的教育/学校网站建设的反馈 | HTML、CSS 和 JavaScript</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fozbzr/feedback_on_my_educationschool_website_build_html/</link>
+      <description><![CDATA[      大家好， 我最近上传了一个关于使用 HTML、CSS 和 JavaScript 构建教育/学校网站的分步视频。我很乐意从社区获得有关设计、代码结构和整体功能的反馈。我一直在寻求改进，您的见解将非常宝贵！ 如果您发现内容有用，我将非常感谢您通过订阅给予支持。 提前感谢，祝您编码愉快！🎉 教程视频链接 下载源代码链接 https://preview.redd.it/ws7xjss4zwqd1.png?width=1920&amp;format=png&amp;auto=webp&amp;s=8109b182ea00f92fc552a789e88f6bcee7622e9e    提交人    /u/Kitchen_Middle_2835   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fozbzr/feedback_on_my_educationschool_website_build_html/</guid>
+      <pubDate>Wed, 25 Sep 2024 08:13:20 GMT</pubDate>
     </item>
     <item>
-      <title>另一个 URL 缩短器</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fow3kw/yet_another_url_shortener/</link>
-      <description><![CDATA[大家好，我构建了一个在 Cloudflare Workers 和 KV 上运行的 URL 缩短器。只是在这里分享一下，以获得一些反馈。    提交人    /u/YetAnotherCuriousGuy   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fow3kw/yet_another_url_shortener/</guid>
-      <pubDate>Wed, 25 Sep 2024 04:21:47 GMT</pubDate>
+      <title>我们为初创企业和投资者打造了人工智能媒人</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1foz353/we_made_an_ai_matchmaker_for_startups_and/</link>
+      <description><![CDATA[https://reddit.com/link/1foz353/video/ihpg3e2ivwqd1/player    由   提交  /u/No-Calligrapher-1365   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1foz353/we_made_an_ai_matchmaker_for_startups_and/</guid>
+      <pubDate>Wed, 25 Sep 2024 07:53:52 GMT</pubDate>
     </item>
     <item>
-      <title>我们为企业家建立了终身交易市场</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fow1c4/we_have_built_a_lifetime_deal_marketplace_for/</link>
-      <description><![CDATA[我们的团队建立了一个终身交易市场。 我们解决的问题 - 企业家无需支付每月的软件费用即可获得所需的商业软件。  SaaS 创始人可以从我们的市场为他们的产品开展终身交易活动 这是我们的产品。 - https://productcanyon.com 我们期待您对产品的反馈。 非常感谢！     提交人    /u/Other_Sky_8442   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fow1c4/we_have_built_a_lifetime_deal_marketplace_for/</guid>
-      <pubDate>Wed, 25 Sep 2024 04:17:56 GMT</pubDate>
+      <title>开发一款利用人工智能帮助初创公司与投资者匹配的工具</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1foyq0w/built_a_tool_to_help_startups_match_with/</link>
+      <description><![CDATA[大家好， 我一直在开发一个平台，帮助初创公司找到合适的投资者。你只需提交你的推介，平台就会对其进行分析，以将你与适合你业务的投资者进行匹配。 匹配成功后，你可以直接通过平台申请。 它旨在让寻找投资者的过程更快、更轻松。如果你身处创业世界，请随时查看。 很想听到任何反馈！ 🔗 FundBase    提交人    /u/xazarall   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1foyq0w/built_a_tool_to_help_startups_match_with/</guid>
+      <pubDate>Wed, 25 Sep 2024 07:24:43 GMT</pubDate>
     </item>
     <item>
-      <title>有些人不值得免费服务</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fovyuw/some_people_just_dont_deserve_free_services/</link>
-      <description><![CDATA[      昨天我推出了一个简单的网站(productshuffle)，它整理了 SaaS 服务的链接并将它们带到该网站，我还提供了一个 SaaS 列表，以便任何人都可以浏览它，任何人都可以提交他们的 SaaS/Side 项目免费我很高兴人们可以免费在我的网站上提交他们的产品，但他们所做的就是提交垃圾。这不是第一次发生，以前我免费为任何人创建了一个招聘网站，人们发布了虚假的色情职位描述和其他一堆垃圾，我无法处理这些，所以关闭了那个网站。 https://preview.redd.it/u2rphx19svqd1.png?width=1383&amp;format=png&amp;auto=webp&amp;s=1bb312cc95602fdd3523d8d7b0329a9b92e1a30b 作为一个依赖开源和免费工具用于他的日常工作流程，我也想为其他人创建同样的东西，就像他们在开源中教我们回馈社区一样，但如果社区充满了混蛋，那么我认为创建免费工具是不值得的。     提交人    /u/Namenottakenno   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fovyuw/some_people_just_dont_deserve_free_services/</guid>
-      <pubDate>Wed, 25 Sep 2024 04:13:52 GMT</pubDate>
+      <title>[需要反馈] GoLaunchFast：面向独立黑客的 Next.js 样板</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1foyo96/feedback_wanted_golaunchfast_a_nextjs_boilerplate/</link>
+      <description><![CDATA[大家好！ 我一直在研究 GoLaunchFast，这是一个 Next.js 样板，旨在帮助独立黑客和小团队快速构建 SaaS 应用程序。它具有预先构建的组件，可用于用户身份验证、付款、电子邮件传递甚至博客等。 它还包括一些AI 功能，以帮助自动执行任务并简化内容创建。 以下是简要介绍：  使用 Next.js、TypeScript、MongoDB、Tailwind CSS 和 Stripe 构建。 开箱即用，处理身份验证、付款、电子邮件和内容发布。 AI 驱动的工具可加快您的工作流程。  如果您以前使用过类似的东西或构建过 SaaS 应用程序，我很想知道：  您觉得这个想法怎么样？ 您想看到什么功能？  非常感谢您提供的任何反馈！ 🙂 链接：GoLaunchFast.com    由   提交  /u/CompetitiveTop9795   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1foyo96/feedback_wanted_golaunchfast_a_nextjs_boilerplate/</guid>
+      <pubDate>Wed, 25 Sep 2024 07:20:55 GMT</pubDate>
     </item>
     <item>
-      <title>简历样本——人工智能简历生成器</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fovvcs/sample_resume_aipowered_resume_builder/</link>
-      <description><![CDATA[       由    /u/IReviewResumes  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fovvcs/sample_resume_aipowered_resume_builder/</guid>
-      <pubDate>Wed, 25 Sep 2024 04:07:50 GMT</pubDate>
+      <title>我制作了 ADHD chrome 扩展</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1foybxf/i_made_adhd_chrome_extension/</link>
+      <description><![CDATA[        提交人    /u/codewithbernard   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1foybxf/i_made_adhd_chrome_extension/</guid>
+      <pubDate>Wed, 25 Sep 2024 06:55:37 GMT</pubDate>
     </item>
     <item>
-      <title>整合应用内购买功能真的很难吗，还是我的开发很糟糕？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fovg0b/is_incorporating_inapp_purchases_really_hard_or/</link>
-      <description><![CDATA[  由    /u/NeurosisByAnalysis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fovg0b/is_incorporating_inapp_purchases_really_hard_or/</guid>
-      <pubDate>Wed, 25 Sep 2024 03:42:58 GMT</pubDate>
+      <title>我制作了一款应用程序，可帮助您判断产品是否值得。（Android）</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1foy7n7/i_made_an_app_that_helps_decide_if_products_are/</link>
+      <description><![CDATA[这款应用程序的目的是通过跟踪产品的价格、使用频率和管理到期日期来帮助消费者了解产品是否真的值得使用，无论是水果还是护手霜。 我们使用的某些产品在一个月后就用完了，而我们却没有注意到，最终，这相当于一次错误的购买。您可以跟踪产品用完所需的时间，然后在产品用完之前按时购买。 如果您懒得在每次使用产品时都打开应用程序并记录，则可以使用根据您为产品设置的时间和数量自动记录使用情况的功能，但由于服务器成本，它是付费的。 没有广告，几乎所有功能都是免费的 - Product-ive 让我知道您认为缺少了什么，为什么您会使用/不使用它以及您希望添加哪些功能    提交人    /u/mooncrestapps   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1foy7n7/i_made_an_app_that_helps_decide_if_products_are/</guid>
+      <pubDate>Wed, 25 Sep 2024 06:46:35 GMT</pubDate>
     </item>
     <item>
-      <title>整合 IAP 真的很难吗，还是我的开发很糟糕？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fovd3c/is_incorporate_iap_really_hard_or_does_my_dev/</link>
-      <description><![CDATA[  由    /u/NeurosisByAnalysis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fovd3c/is_incorporate_iap_really_hard_or_does_my_dev/</guid>
-      <pubDate>Wed, 25 Sep 2024 03:38:11 GMT</pubDate>
+      <title>人工智能面试</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1foxwss/interview_with_ai/</link>
+      <description><![CDATA[大家好， 在经历过多次面试后，我注意到一个普遍的问题：很多面试官缺乏进行有效面试的经验，这往往导致把时间浪费在不合格的候选人身上。 为了解决这个问题，我启动了一个名为“AI 面试”的项目（不是太多，我只是从一点代码开始），主要有两个目标：  节省面试官的时间：候选人将与 AI 一起进行面试前流程。根据AI的评估，面试官可以决定是否继续面试该候选人或跳过该候选人，确保只有最优秀的候选人才能进入面试。 提高HR的候选人质量：通过提前筛选候选人，系统可帮助HR团队专注于更高质量的申请人，从而提高整体录取率。  所以我在这里分享，想找到有同样想法的人一起做。 抱歉我的英语不好。    submitted by    /u/lilan__   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1foxwss/interview_with_ai/</guid>
+      <pubDate>Wed, 25 Sep 2024 06:24:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
