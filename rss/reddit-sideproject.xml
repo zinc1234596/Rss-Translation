@@ -4,111 +4,111 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Thu, 26 Sep 2024 12:30:14 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Sep 2024 15:15:41 GMT</lastBuildDate>
     <item>
-      <title>手机问答游戏，猜猜各国国旗和首都</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fpusrn/mobile_quiz_game_for_guessing_the_flags_and/</link>
-      <description><![CDATA[      大家好，我创建了这个移动应用程序，这是我的第一个 :) 这是一个问答游戏，你应该猜出国家的国旗或首都，目标是在短时间内回答尽可能多的问题，如果你尝试一下并给我你的反馈，我会很高兴 https://play.google.com/store/apps/details?id=com.triviaspree.flags_and_capitals https://preview.redd.it/nf7h32gmb5rd1.png?width=1365&amp;format=png&amp;auto=webp&amp;s=1b14750d98fbe0aa0bcd59875e7c285dc8787678    提交人    /u/amoxe200   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fpusrn/mobile_quiz_game_for_guessing_the_flags_and/</guid>
-      <pubDate>Thu, 26 Sep 2024 12:19:20 GMT</pubDate>
+      <title>应用创意反馈</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fpybc1/app_idea_feedback/</link>
+      <description><![CDATA[我有一个想法，想开发一款应用，旨在创建一个有意义的社交空间，让人们可以与自己和他人建立联系。  问题：目前，没有专门的平台供个人公开讨论他们的感受。虽然社交媒体和 Reddit 等平台上有社区，但许多人仍然感到孤独和与世隔绝，这凸显了日益严重的心理健康危机。 解决方案：我的应用每天会向用户提出一个发人深省的问题，鼓励更深入的自我发现。用户可以选择公开或私下回答，为不同的观点营造一个空间。在评论中，回复仅限于原始发帖人，以促进尊重和专注的对话。 反馈请求：您认为这款应用能产生积极影响吗？我相信通过提出正确的问题来培养自我意识对于心理健康至关重要。很想听听您的想法：)   由    /u/GoodFocus5148  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fpybc1/app_idea_feedback/</guid>
+      <pubDate>Thu, 26 Sep 2024 15:02:08 GMT</pubDate>
     </item>
     <item>
-      <title>我为副项目构建了一个后端开发工具！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fpujvo/i_built_a_backend_dev_tool_for_sideprojects/</link>
-      <description><![CDATA[大家好， 我在 AWS 上开发副项目已有 5 年多了，我经常对自己支付的费用以及学习 AWS 怪癖所花的时间感到惊讶。我想要一个便宜且精简的开发工具，这样我就可以专注于我的项目，而不是绕过 AWS 的限制。所以，我花了几周时间构建 BreezyPod！它允许您以经济实惠的方式从代码转到可调用的后端。你们都是向我提供反馈的最佳人选，所以如果你们能花几分钟尝试一下，我将不胜感激！ 网站：https://breezypod.dev/ 演示：https://youtu.be/Ci-AKVKSQQI    提交人    /u/AuristAlchemist   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fpujvo/i_built_a_backend_dev_tool_for_sideprojects/</guid>
-      <pubDate>Thu, 26 Sep 2024 12:06:12 GMT</pubDate>
+      <title>我制作了一款人工智能应用程序，可以在几分钟内为营养师创建定制的饮食计划。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fpy9qv/i_made_an_aipowered_app_that_creates_custom_diet/</link>
+      <description><![CDATA[        由    /u/Educational_King_728   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fpy9qv/i_made_an_aipowered_app_that_creates_custom_diet/</guid>
+      <pubDate>Thu, 26 Sep 2024 15:00:27 GMT</pubDate>
     </item>
     <item>
-      <title>我们构建了一个即插即用的小部件，可快速将文件上传集成到任何网站或应用程序中</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fptxv6/we_built_a_plugandplay_widget_to_quickly/</link>
-      <description><![CDATA[🚀 大家好！我们是 Uploadcare，一个小团队，刚刚在 Product Hunt 推出了我们的与堆栈无关的文件上传器。 https://www.producthunt.com/posts/uploadcare-file-uploader 感谢您的支持。以下是我们的文件上传器可以做的一些事情： ✅ 适用于任何技术堆栈  ✅ 完全可定制以适合您的品牌  ✅ 拥有 14 多个上传源和 100% 的流畅用户体验图像编辑  ✅ 内置安全性，可确保安全上传 非常适合需要集成快速、可靠的文件上传并卸载相关基础设施的开发人员、创始人和 PM。 查看我们，我们提供 14 天免费试用和 50% 折扣促销代码（前 3 个月）。 我很乐意听取您的反馈！🙌    提交人    /u/KrabCoco   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fptxv6/we_built_a_plugandplay_widget_to_quickly/</guid>
-      <pubDate>Thu, 26 Sep 2024 11:31:35 GMT</pubDate>
+      <title>美丽的花</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fpy65n/beutiful_flower/</link>
+      <description><![CDATA[        提交人    /u/RelevantSuccotash545   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fpy65n/beutiful_flower/</guid>
+      <pubDate>Thu, 26 Sep 2024 14:56:11 GMT</pubDate>
     </item>
     <item>
-      <title>昨晚制作了一个简单的螺纹工具，我应该继续制作它还是将其丢弃？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fptepg/built_a_simple_threading_tool_last_night_should_i/</link>
-      <description><![CDATA[        由    /u/LegendInTheReddit   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fptepg/built_a_simple_threading_tool_last_night_should_i/</guid>
-      <pubDate>Thu, 26 Sep 2024 10:58:46 GMT</pubDate>
+      <title>开始构建用于客户支持、调度和交互的 AI 代理</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fpy35x/started_building_ai_agents_for_customer_support/</link>
+      <description><![CDATA[      上周，我开始了一个新项目，根据我自己对项目中此类支持聊天元素的需求，构建一个轻量级、可定制的助手/代理来管理客户互动。  用户有一个平台来配置 AI 代理将用来回答问题或以无缝方式交互的所有信息和交互。它依赖于实时检索和上下文，没有幻觉。渴望听到有关这个早期原型的任何反馈！    提交人    /u/Plenty-Dog-167   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fpy35x/started_building_ai_agents_for_customer_support/</guid>
+      <pubDate>Thu, 26 Sep 2024 14:52:40 GMT</pubDate>
     </item>
     <item>
-      <title>简单的 AI 应用图标生成器🔮</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fpsx62/simple_ai_app_icon_generator/</link>
-      <description><![CDATA[我厌倦了那些在所有东西上都贴上水印的网站……所以我自己开发了解决方案。 你是否曾经花费大量时间调整和完善图标或徽标，结果下载后却发现上面有一个巨大的水印？老实说，我受够了这种情况，作为一个应用程序构建者，我认为一定有更好的方法。 因此，经过太多个熬夜，我整理出了一些简单的东西。你只需输入所需内容的提示，它就会使用 AI 为你生成图标或徽标 — 没有水印，没有 BS。我今天真的发布了它！ 🎉 https://aiappicon.com https://www.producthunt.com/posts/ai-app-icon 老实说，我只是在寻求反馈和想法。如果您有时间，我很想听听您的想法。无论是正面还是负面，我都在寻求真实的反馈。 此外，我附上了一些它生成的图标示例，也很想知道您对它们的看法！ 提前致谢    提交人    /u/Zachariou   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fpsx62/simple_ai_app_icon_generator/</guid>
-      <pubDate>Thu, 26 Sep 2024 10:24:58 GMT</pubDate>
+      <title>Reddit 上的一篇帖子如何推动我的项目功能开发并获得 50 多个注册用户</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fpxus5/how_one_reddit_post_boost_my_project_features/</link>
+      <description><![CDATA[昨天我创建了一个 Reddit 帖子“我创建了一个网站来帮助我记住过这样的生活”链接这里，我在这里分享了我的项目megastorian.com，以及它如何帮助我在日常生活中不忘记我的目标和梦想。 首先，我要感谢大家对这个项目的大力支持和关注。这个帖子给我的项目带来了令人难以置信的效果，因为它带来了 50 多个新注册用户、许多积极的评论和宝贵的反馈。这真的激励了我，并促使我修复了一些错误并推出了一些重要的新功能，这一切都是在一夜之间完成的。  问题修复：登录页面内容、填充和登录按钮、昵称生成、链接等 功能：能够评论和分享已完成的挑战，使用占位符图像作为自己的列表和卡片 其中一些功能几乎已经完成，但很长时间以来我没有时间和精力来完成它们。 关于该项目的更多内容： 我正在组建一个 Megastorian 用户组，他们希望影响网站的功能和方向。如果您对希望改进的内容有任何想法或反馈，请随时给我发私信或发表评论！  Megastorian 上的个人资料：https://www.megastorian.com/users/@nick 在 X 上公开建造：https://x.com/_np_me 祝你有美好的一天，别忘了享受生活！    提交人    /u/_mp_me   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fpxus5/how_one_reddit_post_boost_my_project_features/</guid>
+      <pubDate>Thu, 26 Sep 2024 14:42:31 GMT</pubDate>
     </item>
     <item>
-      <title>最后冲刺！🎬 欢迎来到我们的第一位制作人 + 音乐和地点更新 - 需要您的想法！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fpsjwe/final_stretch_welcome_to_our_first_producer_music/</link>
-      <description><![CDATA[  由    /u/butras123  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fpsjwe/final_stretch_welcome_to_our_first_producer_music/</guid>
-      <pubDate>Thu, 26 Sep 2024 09:59:30 GMT</pubDate>
+      <title>我根据我们童年的记忆制作了一款游戏（DVD 热播角）</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fpxpgy/i_built_a_game_based_on_our_childhood_memories/</link>
+      <description><![CDATA[        由    /u/notomarsol  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fpxpgy/i_built_a_game_based_on_our_childhood_memories/</guid>
+      <pubDate>Thu, 26 Sep 2024 14:36:11 GMT</pubDate>
     </item>
     <item>
-      <title>我和朋友制作了一款反向 Akinator 游戏！我们最终围绕它构建了一个完整的街机风格平台，以便最终能够将一些游戏货币化。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fpshue/my_friend_and_i_made_a_reverse_akinator_game_we/</link>
-      <description><![CDATA[        提交人    /u/conrad-ical   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fpshue/my_friend_and_i_made_a_reverse_akinator_game_we/</guid>
-      <pubDate>Thu, 26 Sep 2024 09:55:25 GMT</pubDate>
+      <title>我为 iOS 构建了一个应用启动器来减少我的屏幕时间。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fpx6p4/i_built_an_app_launcher_for_ios_to_reduce_my/</link>
+      <description><![CDATA[        提交人    /u/one_tiny_step   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fpx6p4/i_built_an_app_launcher_for_ios_to_reduce_my/</guid>
+      <pubDate>Thu, 26 Sep 2024 14:13:19 GMT</pubDate>
     </item>
     <item>
-      <title>我们发布了 Vocablet - 一个可以与 AI 聊天并学习词汇的平台</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fpsfbs/we_released_vocablet_a_platform_where_you_can/</link>
-      <description><![CDATA[https://reddit.com/link/1fpsfbs/video/omnie6a5l4rd1/player AI Chat 会向您推荐词汇，并且内置有抽认卡系统，您以后可以使用它来记忆这些建议的单词。    提交人    /u/Weak-Blackberry9645   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fpsfbs/we_released_vocablet_a_platform_where_you_can/</guid>
-      <pubDate>Thu, 26 Sep 2024 09:50:15 GMT</pubDate>
+      <title>🌻</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fpx0s0/_/</link>
+      <description><![CDATA[  由    /u/RelevantSuccotash545  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fpx0s0/_/</guid>
+      <pubDate>Thu, 26 Sep 2024 14:06:08 GMT</pubDate>
     </item>
     <item>
-      <title>My SideProject App，一款游戏化的生产力应用程序</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fpsd1f/my_sideproject_app_a_gamified_productivity_app/</link>
-      <description><![CDATA[        提交人    /u/aymantj   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fpsd1f/my_sideproject_app_a_gamified_productivity_app/</guid>
-      <pubDate>Thu, 26 Sep 2024 09:45:51 GMT</pubDate>
+      <title>寻找创意人才，每周在 Discord 上集思广益，提出商业创意！（瑞士时区）</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fpws66/looking_for_creative_minds_to_brainstorm_business/</link>
+      <description><![CDATA[大家好！ 我正在寻找志同道合的人，他们有兴趣一起集思广益，提出商业想法，并有可能在项目上进行合作。我的目标是每周在 Discord 上见面一次，交流想法，讨论潜在的项目，并相互启发。 关于我：  我住在瑞士（瑞士时区，CET）。 我的母语是法语，但我能说英语。 我对创业、产生想法以及与有同样抱负的人合作充满热情。  如果您喜欢跳出框框思考，产生创新的商业想法，或者只是在寻找一个问责小组来推动您的创业精神，请随时加入！ 我们可以很快安排第一次通话，然后从那里开始。让我们一起创造伟大的东西吧！ 期待与大家见面！    提交人    /u/CommunicationNo8431   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fpws66/looking_for_creative_minds_to_brainstorm_business/</guid>
+      <pubDate>Thu, 26 Sep 2024 13:55:51 GMT</pubDate>
     </item>
     <item>
-      <title>从可信来源收集 IPO GMP 并将其保存在一个地方。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fps8nj/collecting_ipo_gmp_from_trusted_souces_keeping_it/</link>
-      <description><![CDATA[我最近开始了我的金融之旅，并申请了一些可靠的 IPO。在花了几个小时在不同来源搜索可靠的 GMP 数据后，我意识到信息是多么分散。  这就是为什么我建立了一个从可靠来源收集 GMP 值的网站——所有内容都集中在一个地方，每 2 小时更新一次。    提交人    /u/not_paul_graham   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fps8nj/collecting_ipo_gmp_from_trusted_souces_keeping_it/</guid>
-      <pubDate>Thu, 26 Sep 2024 09:37:00 GMT</pubDate>
+      <title>你好。我构建了一个 100% 由键盘驱动的 RSS 阅读器。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fpwe9i/howdy_i_built_a_100_keyboarddriven_rss_reader/</link>
+      <description><![CDATA[我正在构建一个 100% 键盘驱动的 RSS 阅读器。 https://coretext.io 使用 CoreText，您可以完成通常需要 RSS 阅读器执行的所有操作 — 但只需使用键盘！不仅仅是滚动 &lt;divs/&gt; 等平凡的操作。例如，您可以：  添加/删除 RSS 源 创建/重命名文件夹 对源进行排序/过滤 导航到 RSS 源 阅读其文章 从文章中提取所有图片，并在全屏图库中查看它们 在深色和浅色模式之间切换 等等。  我们是一家完全自力更生的公司，没有投资者（预算非常紧张），因此它位于电子邮件候补名单之后。这使我们能够衡量随着新用户加入 CoreText，我们的服务器成本会增加多少。话虽如此......我希望尽快让用户加入！如果您有任何问题和疑问，请通过 helpdesk@[domain] 联系反馈。 感谢您的时间！    由    /u/coretext_io  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fpwe9i/howdy_i_built_a_100_keyboarddriven_rss_reader/</guid>
+      <pubDate>Thu, 26 Sep 2024 13:37:48 GMT</pubDate>
     </item>
     <item>
-      <title>您会使用此工具吗？购买热情介绍并支付介绍费 – 寻求反馈！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fps2n0/would_you_use_this_tool_buy_warm_introductions/</link>
-      <description><![CDATA[我已经构建了一个我一直想要的平台，现在我正在寻找来自这个很棒的社区的认可和反馈。 这个概念很简单：您可以从您的网络中购买热门介绍，并为此提供现金中介费。 这里有一个例子： “我是一家广告代理公司，我想获得更多的客户会议。我会在NettedWork.com上做一个项目，如果有人能帮我安排与当地城市的小企业主会面，我会提供150 美元。” 该项目将包括所有相关信息，但这是它的核心！ 💼 我正在寻找什么：  您会使用这样的平台吗？ 您是否看到任何需要改进的地方或希望看到的新功能？ 关于如何发展这个项目并吸引更多用户的任何建议？  欢迎所有建议和见解！🙏    提交人    /u/East_Blueberry8317   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fps2n0/would_you_use_this_tool_buy_warm_introductions/</guid>
-      <pubDate>Thu, 26 Sep 2024 09:24:37 GMT</pubDate>
+      <title>我创建了 StoryArtAI，并仅通过在随机目录中发布帖子就获得了前 3 笔销售</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fpwdlu/i_made_storyartai_and_got_my_first_3_sales_just/</link>
+      <description><![CDATA[        提交人    /u/Affectionate-Olive80   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fpwdlu/i_made_storyartai_and_got_my_first_3_sales_just/</guid>
+      <pubDate>Thu, 26 Sep 2024 13:36:53 GMT</pubDate>
     </item>
     <item>
-      <title>投资者希望购买简单的 SAAS 工具</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fpry6k/investor_looking_to_buy_a_simple_saas_tools/</link>
-      <description><![CDATA[大家好， 我目前正在与一位有意购买简单软件工具的投资者合作。  他正在寻找以下内容：  无聊而简单的网络应用程序（例如，通过 AdSense、订阅或类似方式产生收入的基于网络的工具） 每月最低 5000 美元利润 至少 12 个月大 也对基于 AI 的工具持开放态度，尤其是在设计领域  如果您的业务符合此描述，并且您对销售或只是探索选择感到好奇，请随时给我留言！    提交人    /u/Adithyams7   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fpry6k/investor_looking_to_buy_a_simple_saas_tools/</guid>
-      <pubDate>Thu, 26 Sep 2024 09:14:45 GMT</pubDate>
+      <title>一款比较当地杂货店价格的应用程序[app.dinnr.io]</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fpwbbz/an_app_to_compare_local_grocery_store_prices/</link>
+      <description><![CDATA[        由    /u/Dependent_Cicada3302   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fpwbbz/an_app_to_compare_local_grocery_store_prices/</guid>
+      <pubDate>Thu, 26 Sep 2024 13:34:01 GMT</pubDate>
     </item>
     <item>
-      <title>社区 Zoom 通话</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fprrcm/a_community_zoom_call/</link>
-      <description><![CDATA[大家好，我是 Yuka 👋，我觉得我的业余项目——一款预测未来的应用——有点太过了。 这是一个充满挑战的 7 个月旅程 🤚🔨，我很乐意和大家聊聊我们遇到的障碍、窍门、挫折和教训——互相支持，一路上享受一点乐趣。另外，讨论一下什么时候该停止称其为业余项目并全身心投入，这也很好。 如果您有兴趣，请在下面留下表情符号或评论。10 月 3 日或 4 日打电话怎么样？让我知道！ 欢迎随时在 X 上与我联系：https://x.com/yukakust    提交人    /u/Maleficent-Week-2064   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fprrcm/a_community_zoom_call/</guid>
-      <pubDate>Thu, 26 Sep 2024 09:00:06 GMT</pubDate>
+      <title>Auto-Linkedin 应用程序项目我需要一些帮助！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fpw07s/autolinkedin_app_project_i_need_some_help/</link>
+      <description><![CDATA[      我开发了一个关于 LinkedIn 自动化的 Nodejs 模块，并开始使用 Electronjs 将其转变为桌面应用程序。我想将其发布为一个小型副项目并赚取额外收入。我知道有很多类似的工作，但我相信我可以通过简单的使用吸引受众。 我打算将应用程序的源代码保留为开源，以创建信任和支持软件平台。该应用程序的 github repo 链接： github.com/Ranork/Auto-Linkedin-App https://preview.redd.it/n5zbad0jm5rd1.png?width=2170&amp;format=png&amp;auto=webp&amp;s=7d749aa2f088c232e3671674c7203bc062ace119 我应该如何开发这个应用程序？您建议我使用什么样的商业模式和推广策略？我应该分配多少预算？我会遇到法律问题吗？    提交人    /u/Ranorkk   [link] [comments] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fpw07s/autolinkedin_app_project_i_need_some_help/</guid>
+      <pubDate>Thu, 26 Sep 2024 13:19:33 GMT</pubDate>
     </item>
     <item>
-      <title>美国分支机构</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fprogx/usa_based_affiliates/</link>
-      <description><![CDATA[      刚听说一个品牌对 TikTok 联盟会员提出了这个新挑战。但我认为你必须在美国才能加入。他们推出了这些奖品，并在他们的 Discord 频道上公布了这些奖品： https://discord.com/invite/9vNqZZ5s https://preview.redd.it/oytyzzf8b4rd1.jpg?width=2570&amp;format=pjpg&amp;auto=webp&amp;s=6df2c8389671ab861af81c2c645277dbe2125628    提交人    /u/Own_Cause_7301   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fprogx/usa_based_affiliates/</guid>
-      <pubDate>Thu, 26 Sep 2024 08:54:07 GMT</pubDate>
+      <title>知道家人的总年龄是不是很有趣？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fpvpwz/is_it_even_fun_to_know_your_familys_combined_age/</link>
+      <description><![CDATA[      https://preview.redd.it/sf4y3iaak5rd1.png?width=1920&amp;format=png&amp;auto=webp&amp;s=d881690391b554707849e99006413c1fb272ef0f www.hurrayy.app    由    /u/twoheadscrew 提交   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fpvpwz/is_it_even_fun_to_know_your_familys_combined_age/</guid>
+      <pubDate>Thu, 26 Sep 2024 13:05:59 GMT</pubDate>
     </item>
     <item>
-      <title>我为情侣开发了一款应用程序（PassionPlay），但由于无法在官方商店上线，所以我没有获得任何用户</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fprjfn/i_build_an_app_for_couple_passionplay_but_because/</link>
-      <description><![CDATA[      大家好，我为情侣开发了一个应用程序，其中包含一些露骨的内容，因此它无法在官方商店上架（至少在谷歌播放上不行 我是 ASP.NET Core 3.0 开发人员工具的粉丝，我最初是在亚马逊应用商店 (Amazon App Market) 上下载的 ( 我最初是在亚马逊应用商店 (Amazon App Market) 上下载的 ( 我知道出于这个原因，我在开发它之前应该三思而后行，但是我发现商店里的许多应用程序都有付费内容 (这很奇怪，因为我的应用程序被拒绝了，但其他的可以留下来，但我想这是他们被拒绝之前的时间问题)，我想为所有人提供一个免费的应用程序，像我一样喜欢和我的伴侣一起玩，以获得更多乐趣或为当下增添趣味。 该应用程序非常简单，还处于开发的早期阶段，第一个版本几天前发布，尽管我正在努力改善沟通，但在 IG 上我没有获得任何浏览量或下载量。 我正在尝试在 IG 上分享 meme 帖子、在帖子下发送垃圾邮件等，但 IG 也发生了很大变化，无法获得任何浏览量 (实际上根本没有)。 您对如何获得更多用户还有其他建议吗？或者我可以使用任何其他商店？ 我暂时不会去苹果商店，因为它很贵，而且我不想冒险在支付 99 美元后我的应用程序不会被大量使用。 https://preview.redd.it/pntlt52d84rd1.jpg?width=600&amp;format=pjpg&amp;auto=webp&amp;s=8f03032ce93c3714fbc8be9d1ec190626a454cb6   由    /u/Mysterious_Remove_37  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fprjfn/i_build_an_app_for_couple_passionplay_but_because/</guid>
-      <pubDate>Thu, 26 Sep 2024 08:43:06 GMT</pubDate>
+      <title>添加到表格 Chrome 扩展程序：只需单击一下即可将内容添加到 Google 表格，无需切换标签</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fpvhou/add_to_sheets_chrome_extension_add_content_to/</link>
+      <description><![CDATA[        由    /u/siegerts  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fpvhou/add_to_sheets_chrome_extension_add_content_to/</guid>
+      <pubDate>Thu, 26 Sep 2024 12:55:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
