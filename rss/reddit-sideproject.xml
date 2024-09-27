@@ -4,7 +4,42 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Fri, 27 Sep 2024 01:09:16 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Sep 2024 03:20:24 GMT</lastBuildDate>
+    <item>
+      <title>想分享一个我一直在开发的简单小 Ollama 应用。其核心是一个简约的聊天/翻译小部件。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fqdimt/wanted_to_share_a_simple_little_ollama_app_i_have/</link>
+      <description><![CDATA[      https://preview.redd.it/skj4auxti9rd1.png?width=582&amp;format=png&amp;auto=webp&amp;s=33886ddd29e4234f7528d178425c7a9f94a5a108 https://preview.redd.it/f26b6wxti9rd1.png?width=897&amp;format=png&amp;auto=webp&amp;s=ec42d4226becfcd16ad9d0b03f60a515630cd564 https://preview.redd.it/jj3qhbyti9rd1.png?width=898&amp;format=png&amp;auto=webp&amp;s=b0af07d972379f080eaba4d837b2f5c2c28ba56f https://preview.redd.it/tq8tf7yti9rd1.png?width=895&amp;format=png&amp;auto=webp&amp;s=532dc2a441ce8ed09b63a7beb8557e3892e71bb9 https://preview.redd.it/3bqzzwyti9rd1.png?width=826&amp;format=png&amp;auto=webp&amp;s=75402dae6862e4411967012efff091b1fb8cafb3 我喜欢它的原因： -简约/非侵入式/始终位于顶部的设计 -用于文本提取、语言检测、AI 翻译的 OCR -笔记记录功能、文件系统访问 -嵌入式 Windows 终端/PC 和网络监控 如果有人感兴趣：https://github.com/TLAMHutto/ollamaChat    提交人    /u/swissyninja   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fqdimt/wanted_to_share_a_simple_little_ollama_app_i_have/</guid>
+      <pubDate>Fri, 27 Sep 2024 02:26:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能书签分类器</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fqd0ky/aipowered_bookmark_categorizer/</link>
+      <description><![CDATA[      AI-Powered Bookmark Categorizer 是一款先进的工具，旨在利用人工智能无缝组织您的书签。它会分析每个书签的标题和 URL，智能推荐相关类别，例如英语、锻炼、编码、个人、旅行等。人工智能承担了繁重的工作，让您可以轻松地整理已保存的链接。 功能  人工智能驱动的分类：该工具根据标题和 URL 为书签建议相关的类别。 用户定义类别（即将推出）：输入您自己的类别，然后让人工智能对您的书签进行相应的排序。  无需动一根手指，即可享受干净、有序的书签集合 - 让人工智能为您完成艰苦的工作！ https://preview.redd.it/hxby2quld9rd1.png?width=1344&amp;format=png&amp;auto=webp&amp;s=e09f6387bc0f844ff7e923206d982c0751016cc9    提交人    /u/coderoncruise   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fqd0ky/aipowered_bookmark_categorizer/</guid>
+      <pubDate>Fri, 27 Sep 2024 01:59:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>经过 10 年零散的编码面试准备后，我终于开发了一个应用程序来组织这一切。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fqcr58/after_10_years_of_scattered_coding_interview_prep/</link>
+      <description><![CDATA[    /u/cliff_hanger_26   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fqcr58/after_10_years_of_scattered_coding_interview_prep/</guid>
+      <pubDate>Fri, 27 Sep 2024 01:45:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>🚀 考虑建立一个连接初创企业和投资者的平台——你有兴趣吗？🚀</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fqcnyu/considering_building_a_platform_to_connect/</link>
+      <description><![CDATA[我正在考虑创建一个名为 SeedStage 的平台，让初创公司更容易与风险投资人建立联系。这个想法很简单：初创公司将能够通过视频、图片和链接展示他们的产品，而投资者可以轻松发现和探索新的机会。 在继续之前，我想看看是否有足够的兴趣来构建这个平台。如果您是寻找投资者的初创公司创始人或寻找有前途的初创公司的投资者，我很乐意听到您的声音！ 👉 如果您对此感兴趣，请在我们的登录页面上使用您的电子邮件注册：https://seed-stage.vercel.app 。 这将帮助我衡量兴趣并确定是否应该将这个平台变为现实。感谢您的支持！   由    /u/Medical-Summer9436  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fqcnyu/considering_building_a_platform_to_connect/</guid>
+      <pubDate>Fri, 27 Sep 2024 01:40:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>我正在销售适用于 Twitter 的人工智能 Chrome 扩展程序 – 已准备好推出！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fqcblw/im_selling_an_aipowered_chrome_extension_for/</link>
+      <description><![CDATA[我开发了 xCopilotAI，这是一款适用于 Twitter (x) 的 Chrome 扩展程序，它使用 AI 让您的生活更轻松 - 生成推文、回复推文和消息、总结帖子、翻译等等。对于任何想要提升 Twitter 游戏水平的人来说，这都是一款强大的工具。该应用程序已完全构建但尚未发布，我将在它上线之前出售它。如果您想拥有一款具有巨大潜力的随时可用的 SaaS，让我们谈谈吧！如果您有兴趣，请给我留言。 xCopilotAI.com    提交人    /u/Adibe-Mohamed   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fqcblw/im_selling_an_aipowered_chrome_extension_for/</guid>
+      <pubDate>Fri, 27 Sep 2024 01:22:16 GMT</pubDate>
+    </item>
     <item>
       <title>懒得打印拼图，所以我做了一个应用程序把它们邮寄给我</title>
       <link>https://www.reddit.com/r/SideProject/comments/1fqacju/too_lazy_to_print_puzzles_out_so_i_made_an_app_to/</link>
@@ -74,41 +109,6 @@
       <description><![CDATA[大家好，我在寻求有关在哪里可以出售我的项目 eBuddy 的代码库的建议。它是一个为 160 多个国家的旅行者提供互联网服务 (eSIM) 的平台，具有独特的功能，例如葡萄牙语客户支持，这使其有别于其他竞争对手。 有没有关于平台、社区或市场的推荐，我可以在那里找到感兴趣的买家？    提交人    /u/Augusto_pinheiro   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1fq5rz3/where_can_i_sell_my_codebase/</guid>
       <pubDate>Thu, 26 Sep 2024 20:15:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Vybes，一个音乐分享的社交平台</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fq5kma/vybes_a_social_for_music_sharing/</link>
-      <description><![CDATA[我最近发布了这个社交媒体，它可以让您与朋友实时分享您正在收听的音乐（来自您最喜欢的流媒体服务）。您可以在 Google Play 商店中找到它，该应用名为“Vybes”。让我知道你们的想法    由   提交  /u/Tyger375   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fq5kma/vybes_a_social_for_music_sharing/</guid>
-      <pubDate>Thu, 26 Sep 2024 20:06:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tan Color - 为色盲用户提供的色彩辅助应用程序</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fq58o6/tan_color_a_color_assistance_app_for_colorblind/</link>
-      <description><![CDATA[大家好！ 我很高兴与大家分享我的最新项目 Tan Color，该项目旨在帮助色盲人士更好地区分图像中的颜色。作为一名红绿色盲人士，我知道识别某些颜色组合有多难，尤其是在复杂图像中。此应用旨在让面临类似挑战的人们的生活变得更轻松一些。 Tan Color 有什么用？  上传图片：用户可以将图片上传到此应用。 色彩分析：此应用会分析图片并根据用户需求突出显示重要颜色。 色彩区分：它可以清晰区分由于色盲而难以看清的颜色。 隐私：此应用会将所有图片 100% 保存在您的帐户内。除了您和计算机之外，没有人可以看到您的图片。  我的位置： 我已经构建了主要功能，此应用正在测试中！我很乐意从社区获得关于如何改进它并使其更加用户友好的反馈。 尝试一下： 如果您是色盲，认识色盲的人，或者只是想尝试一下，您可以在此处查看 Tan Color：https://apps.apple.com/us/app/tan-color/id6670406952 。它仅适用于 IOS，但我目前也在为 Andriod 开发。任何反馈、建议或问题都将不胜感激！ 感谢您的阅读，我很高兴听到大家的想法！ 快速说明：由于飓风 Helene 的影响，服务器暂时关闭。我预计它会在今晚晚些时候（2024 年 9 月 26 日）之前恢复。    提交人    /u/Tanybos5   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fq58o6/tan_color_a_color_assistance_app_for_colorblind/</guid>
-      <pubDate>Thu, 26 Sep 2024 19:52:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的第一个客户告诉我我的 SaaS 缺少什么</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fq58kg/my_first_client_told_me_whats_lacking_in_my_saas/</link>
-      <description><![CDATA[首先，非常感谢 Reddit 上的各位！你们中的许多人在我最近关于我相当不寻常的首次销售的帖子中分享了如此宝贵的建议。我认真对待了你们的建议，并联系了我的第一位客户，了解他为什么选择为我的产品付费，尽管我知道它还没有完全完成。以下是他所说的话： 你为什么付钱？ 答：我只是想试一试，看看这个实惠的工具是否有效。 你认为这个工具有用吗？ 答：我还不确定它是否有效……但我仍然想购买这个认可工具，至少为我的团队购买。我想他们会喜欢得到同行的认可。 你认为我的产品缺少什么功能？ 答：我注意到还没有奖励功能。没有奖励，认可有什么意义？我确实看到你已经在做这件事了，所以我很乐意等待。不用担心。 在他不得不履行其他承诺之前，这是我设法问他的仅有的三个问题。从这次谈话中，我了解到我的产品中缺少的关键元素是奖励系统 - 具体来说，是虚拟货币功能。因此，我很自豪地宣布，我现在已经将虚拟货币爆米花集成到recognitionbot.com 🎉 如果有人想从开发人员的角度抢先了解此功能，我已经在YouTube上上传了原始屏幕录制，请查看并告诉我您的想法！    提交人    /u/Charming_You_8285   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fq58kg/my_first_client_told_me_whats_lacking_in_my_saas/</guid>
-      <pubDate>Thu, 26 Sep 2024 19:52:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>你从失败的项目中吸取了什么教训？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fq58dv/what_lessons_have_you_learned_from_failed_projects/</link>
-      <description><![CDATA[我想为所有开发人员（尤其是新开发人员）整合一份资源，这样我们就可以从彼此的错误中吸取教训。 因此，请分享您一路走来学到的经验教训。    提交人    /u/d41_fpflabs   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fq58dv/what_lessons_have_you_learned_from_failed_projects/</guid>
-      <pubDate>Thu, 26 Sep 2024 19:51:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>与你的助手一起制定任务计划，然后通过网站拦截快速启动焦点会议</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fq516y/plan_a_task_with_your_sidekick_and_then/</link>
-      <description><![CDATA[    /u/Zer0-Fractal   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fq516y/plan_a_task_with_your_sidekick_and_then/</guid>
-      <pubDate>Thu, 26 Sep 2024 19:43:23 GMT</pubDate>
     </item>
     </channel>
 </rss>
