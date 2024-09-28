@@ -4,7 +4,56 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Sat, 28 Sep 2024 18:18:11 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Sep 2024 21:13:35 GMT</lastBuildDate>
+    <item>
+      <title>世界</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1frnapn/ww/</link>
+      <description><![CDATA[        提交人    /u/Material_Feeling_968   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1frnapn/ww/</guid>
+      <pubDate>Sat, 28 Sep 2024 20:24:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>我还能在哪里运用这个猜谜游戏概念呢？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1frn427/where_else_could_i_take_this_guessing_game_concept/</link>
+      <description><![CDATA[        由    /u/officefromhome555  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1frn427/where_else_could_i_take_this_guessing_game_concept/</guid>
+      <pubDate>Sat, 28 Sep 2024 20:15:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了一个 AI 工具，可以根据游戏视频/动画 AI 图像生成故事，并安排将它们发布在 tiktok/insta reels/youtube shorts 上。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1frmbgb/i_created_an_ai_tool_that_generates_stories_along/</link>
+      <description><![CDATA[嘿 /SideProject 社区！我很高兴能在这里首先发布有关我的新项目 Shortsheap https://www.shortsheap.com 我从 6 月初开始从事这项工作，虽然我在很短的时间内（1-2 周）开发了一个初始工作原型，但我一直在扩展 AI 图像生成、动画、字幕的功能和生成质量，还引入了原型中不包含的游戏玩法。 我在构建这个项目时学到的东西： 我绝对应该加快速度并更快地启动，但是在过去的几个月里我同时做了多件事之后，我终于有时间将这个项目带到我想要的全面发布的阶段。 最具挑战性的事情之一是将字幕放到我设想的状态。他们仍然没有做到，因为我想为用户提供多个字幕模板供其选择，但我发现使用我用于构建和渲染视频的技术来做到这一点并不容易。我花了很多时间却没有成功的字幕样式之一是“活动状态”样式，其中当前说出的单词被着色，完成后，它会恢复到原始颜色。 在构建这个时，我也被带走了，尝试做各种过早的优化，比如在 CPU 工作正常时尝试使用 GPU 渲染。我之所以这么说，是因为我花了一些时间在那上面，得到了类似的最终结果，因为 ffmpeg 理论上确实支持使用 GPU 编码器，但经过多次测试和试验 &amp;错误我得出结论，至少目前不值得追求。 反馈 任何反馈都非常感谢：视频风格/最终结果如何/登录页面/定价 我让生成的第一个视频免费，但只使用游戏模板，因为 AI 图像模板会在流量大的情况下很快提高成本。  我仍在考虑营销它的方法以及下一步应该如何更积极地营销它。  https://reddit.com/link/1frmbgb/video/pl6pxt9nslrd1/player    提交人    /u/sebds7   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1frmbgb/i_created_an_ai_tool_that_generates_stories_along/</guid>
+      <pubDate>Sat, 28 Sep 2024 19:39:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Product Hunt 正在走向衰亡吗？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1frlukr/is_product_hunt_dying/</link>
+      <description><![CDATA[我正在构建我的业余项目，我正考虑将其提交到 Product Hunt。  你认为这会帮助我获得一些流量和一些真正的反馈吗？你对此有什么看法？ 谢谢。    提交人    /u/llaliotis   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1frlukr/is_product_hunt_dying/</guid>
+      <pubDate>Sat, 28 Sep 2024 19:17:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>被解雇了，所以我开发了一款应用程序，可以在社交媒体应用程序上提供快速而有趣的回复（任何语言！）🌱</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1frlu23/got_fired_so_i_built_an_app_that_gives_quick/</link>
+      <description><![CDATA[    /u/livetodaytho   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1frlu23/got_fired_so_i_built_an_app_that_gives_quick/</guid>
+      <pubDate>Sat, 28 Sep 2024 19:16:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了这个网站，使用人工智能来推荐棋盘游戏</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1frl935/i_made_this_site_to_give_boardgame_recommendation/</link>
+      <description><![CDATA[      https://preview.redd.it/pwyjs09lilrd1.png?width=1235&amp;format=png&amp;auto=webp&amp;s=23e1bf9e2dfa73743042b119388d45fb128d7104 https://findboard.games 它的效果不是最好的（肯定是 WIP），但它给了我一些我以前从未见过的宝石。也许您会在下一个棋盘游戏之夜找到一款棋盘游戏？ 目前，我的搜索限制为每 30 分钟 10 个。 让我知道进展如何 :)    提交人    /u/Alczar   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1frl935/i_made_this_site_to_give_boardgame_recommendation/</guid>
+      <pubDate>Sat, 28 Sep 2024 18:50:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>代码重复检测器</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1frl4zl/code_duplication_detector/</link>
+      <description><![CDATA[如果我为 Intellij 构建一个代码重复检测器插件。你会使用它吗？它会通过提醒你正在编写重复的已编写代码来帮助你避免重复代码？    提交人    /u/AnyDistribution8074   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1frl4zl/code_duplication_detector/</guid>
+      <pubDate>Sat, 28 Sep 2024 18:45:23 GMT</pubDate>
+    </item>
     <item>
       <title>[MVP 发布] 个人 AI 时尚助理 – 需要反馈！</title>
       <link>https://www.reddit.com/r/SideProject/comments/1frkhd9/mvp_launch_personal_ai_fashion_assistant_need/</link>
@@ -46,55 +95,6 @@
       <description><![CDATA[我刚刚完成了一个新网站的建设，该网站汇集了各种 AI 模型。它仍处于早期阶段，但希望得到一些反馈或建议。 https://galiant.ai    提交人    /u/RyanBussert19   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1fri1rk/new_ai_multitool_website/</guid>
       <pubDate>Sat, 28 Sep 2024 16:25:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一款学习德语的应用程序，以解决 Duolingo 等应用程序的弱点。请访问 Linguico.com</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fri0t4/i_created_an_app_for_learning_german_addressing/</link>
-      <description><![CDATA[        提交人    /u/Bright-Asparagus-664   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fri0t4/i_created_an_app_for_learning_german_addressing/</guid>
-      <pubDate>Sat, 28 Sep 2024 16:24:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cookie 政策：必要的 Cookie 通知？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1frhzoo/cookie_policy_essential_cookies_notification/</link>
-      <description><![CDATA[我正在使用 Django 构建一个具有用户帐户和发布功能的网站。目前，我使用的唯一 cookie 与用户登录会话管理有关，没有广告或分析。我是否需要像一些主要网站一样为人们提供选择退出 cookie 使用的选项？    提交人    /u/CSlov23   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1frhzoo/cookie_policy_essential_cookies_notification/</guid>
-      <pubDate>Sat, 28 Sep 2024 16:22:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>我早上如何远离手机</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1frhwa1/how_im_staying_off_my_phone_in_the_morning/</link>
-      <description><![CDATA[作为一名大学生，我大多数日子都要早起，但很长一段时间以来，我都无法在起床时不看手机。如果我不看手机，我就会觉得又睡着了，如果我看了手机，我就会分心。 因为我是计算机科学专业的，所以我做了一件显而易见的事情，制作了一个应用程序来帮助我。所以每天早上我都会收到一条短信，里面有一些提醒、天气信息、新闻文章链接、体育比分和其他一些内容。因此，我不用打开一堆带有通知和广告的不同应用程序，而是只用文本形式获取一些不会分散注意力的信息。 我还为那些喜欢电子邮件而不是短信的人添加了电子邮件递送功能。 （文本和电子邮件需要花钱来支付 API 使用费和递送费，但我还制作了一个免费的仪表板，您可以在网站上每天查看您的消息）https://www.goodmornin.app    提交人    /u/mst152   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1frhwa1/how_im_staying_off_my_phone_in_the_morning/</guid>
-      <pubDate>Sat, 28 Sep 2024 16:18:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>更新了登陆页面。非常需要</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1frhsyx/updated_the_landing_page_much_needed/</link>
-      <description><![CDATA[      我的注册转化率很低。Reddit 上有人建议立即更新着陆页。所以就在这里。 包括之前和之后。    提交人    /u/Sensitive_Teacher_93   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1frhsyx/updated_the_landing_page_much_needed/</guid>
-      <pubDate>Sat, 28 Sep 2024 16:13:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻求有关开始我的在线业务之旅的建议 - 向那些成功人士寻求指导！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1frhopn/looking_for_advice_on_starting_my_online_business/</link>
-      <description><![CDATA[大家好， 我才刚刚开始我的网上赚钱之旅，我很乐意从那些成功建立自己的数字企业的人那里获得一些建议或指导。我正在探索不同的道路，比如电子商务、联盟营销，甚至是自由职业，但我仍在弄清楚哪个方向最适合我。 以下是一些关于我的情况：  我目前全职工作，但一直在考虑开始一份副业。 我在网上商业领域的经验有限，因此我愿意向经历过这个过程的人学习和倾听。 我积极性很高，随时准备投入工作，但我想确保我将精力集中在正确的领域。  我想澄清的是，我这样做不是为了追逐豪车、大房子，也不是为了在网上炫耀。我真正的目标是为自己创造经济稳定，这样我就可以回报那些给我机会追求这一目标的人——尤其是我的父母。我希望最终能有一些积蓄以备将来之需，甚至将来能进入房地产行业。 如果这里有人有任何建议、故事或自己的经验教训，我很乐意听听。我也愿意寻找一位可以提供更深入指导的导师。即使是一点点建议也会非常感激！ 提前非常感谢，我真的很期待从这个社区学习。    提交人    /u/Helloworld2235   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1frhopn/looking_for_advice_on_starting_my_online_business/</guid>
-      <pubDate>Sat, 28 Sep 2024 16:08:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>这样好吗？有 AdSense 专家吗？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1frh83p/is_this_good_any_adsense_expert/</link>
-      <description><![CDATA[      Adsense 屏幕截图 因此，我的域名是教育，大部分流量来自美国。我想知道 RPM 是否好？  我还能做些什么来提高这个数字？我已经在努力增加我的漏斗顶部了。    提交人    /u/Either-Anything-4117   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1frh83p/is_this_good_any_adsense_expert/</guid>
-      <pubDate>Sat, 28 Sep 2024 15:48:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>项目：为忙碌/害羞的人学习即兴表演的应用程序</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1frh303/project_app_for_busyshy_people_to_learn_improv/</link>
-      <description><![CDATA[      如果您想要测试版访问权限，请直接发私信给我，但我们的直播地址是 banterland.co。虽然走到这一步已经很漫长了，但我相信即兴表演是一种练习社交和获得不那么可怕的暴露疗法的新方法     提交人    /u/nieltheexplorer   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1frh303/project_app_for_busyshy_people_to_learn_improv/</guid>
-      <pubDate>Sat, 28 Sep 2024 15:42:03 GMT</pubDate>
     </item>
     <item>
       <title>征求有关 ReminderLoop 的反馈：与朋友和家人交换提醒</title>
