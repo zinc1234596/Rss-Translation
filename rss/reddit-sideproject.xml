@@ -4,111 +4,111 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Sat, 28 Sep 2024 12:26:22 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Sep 2024 15:15:51 GMT</lastBuildDate>
+    <item>
+      <title>我们建立了 meonstickers.com – 将您的照片变成自定义 AI 生成的贴纸！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1frghhs/we_built_meonstickerscom_turn_your_photos_into/</link>
+      <description><![CDATA[      大家好！ 我们刚刚完成了一个名为 meonstickers.com 的项目，我们想与大家分享。 贴纸生成示例 概念非常简单：  上传照片：可以是您自己、朋友或任何人的照片！ 选择主题：目前，我们有两个主题：超级英雄或公主。我们正在研究新的主题，如体育、爱情、巫师、漫画等。 AI 生成：使用 Stable Diffusion 和 ComfyUI，我们的 AI 根据您的照片和选择的主题生成 15cm x 15cm 的贴纸，其中包含 10 个独特的贴纸。 质量检查：我们的团队手动检查每张 AI 生成的贴纸，以确保一切看起来都很棒。 打印和发货：我们使用 Shopify 进行电子商务，使用 Printful 进行按需打印。贴纸价格为 9.99 美元（+ 运费），几天后就会送到您家门口。  这是一个有趣的项目，将电子商务与 AI 图像生成相结合。我们很乐意收到您的反馈或回答您的任何问题！ 请随时访问 meonstickers.com 查看。 谢谢！    提交人    /u/reymaggle   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1frghhs/we_built_meonstickerscom_turn_your_photos_into/</guid>
+      <pubDate>Sat, 28 Sep 2024 15:14:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>我建立了一个网站，第一个数到一百万的人将获胜。允许编写脚本。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1frg9n4/i_built_a_website_that_will_be_won_by_the_first/</link>
+      <description><![CDATA[  由    /u/MobilePanda1  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1frg9n4/i_built_a_website_that_will_be_won_by_the_first/</guid>
+      <pubDate>Sat, 28 Sep 2024 15:04:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>厌倦了花费数小时研究产品却仍然支付过高的费用。所以我开发了更好的产品。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1frg835/grew_tired_of_spending_hours_researching_a/</link>
+      <description><![CDATA[      今年 1 月，我被一个简单的问题困扰：为什么在互联网上找不到真实的推荐？ 我发现自己花了太多时间在网上寻找真实的产品推荐，结果却被赞助内容和有偏见的联盟网站轰炸，这些网站从未真正回答过我的问题。感觉每次搜索都只是把我推向定价过高或促销的商品。 深入挖掘后，我发现了一个惊人的事实。如今，16 家主要的出版公司主宰着搜索，这意味着答案不再使用户受益，而是为出版公司带来收入。 事实上，一项研究在您能想到的每个细分市场中进行了 10,000 次不同的搜索，这 16 家出版公司在其中 85% 的搜索中名列前茅！！ 像你们中的许多人一样，我转向 Reddit 寻找真实的人的经历和建议，但即便如此，试图筛选如此多的信息也让人感到不知所措。此外，没有简单的方法可以知道我是否获得了最优惠的价格，或者价格是否被人为抬高。 因此，我构建了一个工具来解决这个问题：url.lynksearch.com - 您可以输入任何产品 URL（目前主要仅适用于顶级品牌），它会汇集来自在线社区的意见共识。它还会跟踪您关注的商品价格，以帮助您避免多付并在合适的时间达成交易。 目前速度有点慢，但我希望您尝试一下并分享任何反馈，这样我就可以让它对大家更有用！ https://preview.redd.it/99rs32omekrd1.png?width=3454&amp;format=png&amp;auto=webp&amp;s=7dae2443b2fb206dbe13f4c0987afc8f46609a86 https://preview.redd.it/0wci4pgnekrd1.png?width=3456&amp;format=png&amp;auto=webp&amp;s=7103999aaefaccc3535aa734d36c2eada1df82e6 https://preview.redd.it/0b6pr7hoekrd1.png?width=3452&amp;format=png&amp;auto=webp&amp;s=d87b2f87669a097edfbcb9c0f0303f728bbadba9    提交人    /u/aaronrodgers10   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1frg835/grew_tired_of_spending_hours_researching_a/</guid>
+      <pubDate>Sat, 28 Sep 2024 15:02:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了一个网站来与 Brandpa、Garple 和 Brandbucket 竞争</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1frfwdu/i_made_a_site_to_compete_with_brandpa_garple_and/</link>
+      <description><![CDATA[查看并告诉我您的想法。我非常仔细地查看了价格，试图让人们从 brandboxd 购买套餐时的价值比其他套餐更高。每件商品的价格都低于 1000 美元，所有域名的估价都在 1000 至 3000 美元之间。使用 Garple 您甚至根本得不到品牌。下周将添加 8 件商品。 https://brandboxd.com/    提交人    /u/socodemaker   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1frfwdu/i_made_a_site_to_compete_with_brandpa_garple_and/</guid>
+      <pubDate>Sat, 28 Sep 2024 14:47:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个极简的 diff 工具，完全免费，而且没有烦人的广告</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1frfg1l/i_made_a_minimalist_diff_tool_thats_totally_free/</link>
+      <description><![CDATA[        提交人    /u/ozmic66   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1frfg1l/i_made_a_minimalist_diff_tool_thats_totally_free/</guid>
+      <pubDate>Sat, 28 Sep 2024 14:25:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>SAAS 样板目录：为您的下一个项目找到合适的样板（Github repo）</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1frfby3/saas_boilerplate_directory_find_the_right/</link>
+      <description><![CDATA[    /u/wolfgunnblood   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1frfby3/saas_boilerplate_directory_find_the_right/</guid>
+      <pubDate>Sat, 28 Sep 2024 14:20:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>基于艺术和当地社区的社交媒体应用程序（寻求反馈）</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1frf7z6/social_media_app_based_on_art_and_local/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1frf7z6/social_media_app_based_on_art_and_local/</guid>
+      <pubDate>Sat, 28 Sep 2024 14:15:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>大家好！我一直在 GamersSpark 工作，这是我的一个业余项目，用于连接游戏主持人和玩家进行私人多人游戏会话</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1frews8/hey_everyone_ive_been_working_on_gamerssparkmy/</link>
+      <description><![CDATA[我参与了这个庞大的附带项目，GamersSpark 目前处于测试阶段，我们希望帮助将游戏玩家联系在一起。 我很想知道您的想法！ 以下是 gamersspark 的不同功能 对于游戏主机：  托管所有类型的多人游戏：从策略到动作，您可以托管任何您喜欢的游戏。 灵活的付款方式：从免费、付费或订阅游戏中进行选择。  免费：允许玩家免费加入您的游戏。 付费：按每位玩家收费，费用从 5 美元到 100 美元不等。 订阅：每月订阅您的个人资料，让玩家可以访问您所有的订阅游戏。  完全控制：设定您自己的费率并以您的方式管理您的游戏会话。 游戏主机付款：当玩家付费加入私人游戏会话时，游戏主机在我们的基本计划中赚取 80%，在我们的专业计划中赚取 90%。  对于玩家：  直播您的会话：如果您是主播，如果游戏主机允许，请向您的观众广播私人游戏会话。 浏览私人游戏会话：玩家可以轻松探索和加入由不同类型的游戏主持人主持的各种私人游戏会话。 与游戏主持人联系：直接与提供量身定制的游戏体验的游戏主持人联系，无论是竞技比赛还是休闲会话。 成为雇佣玩家：游戏主持人为他们的私人游戏会话寻找玩家并支付报酬。 解锁联盟计划：每次您推荐的游戏主持人升级到我们在 GamersSpark.com 上的专业计划时，您都可以获得 50% 的佣金。  加入我们 GamersSpark    提交人    /u/Alert-Ad-5918   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1frews8/hey_everyone_ive_been_working_on_gamerssparkmy/</guid>
+      <pubDate>Sat, 28 Sep 2024 13:59:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>经过 4 次审核迭代后，我的 HydrateMate 应用程序已在应用商店上线 🎉</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fremer/after_4_review_iterationsmy_hydratemate_app_is/</link>
+      <description><![CDATA[我是那种白天不怎么补水的人，尤其是在 5-9 点的时候。这就是 HydrateMate 的创意所在。因此，我创建了这个补水追踪器应用，它提醒我定期喝水，同时通过 GitHub 风格的贡献图可视化我的每日目标实现情况。 该应用还有更多其他功能，您可以在其登陆页面的功能部分探索，或者尝试一下 :) 如果您有几分钟时间尝试一下，我将非常感谢您的诚实反馈！    提交人    /u/Yassin_Bennkhay   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fremer/after_4_review_iterationsmy_hydratemate_app_is/</guid>
+      <pubDate>Sat, 28 Sep 2024 13:44:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>这个“热门社交媒体帖子生成器”有多大用处？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1frej6l/how_useful_would_this_trending_social_media_post/</link>
+      <description><![CDATA[在经过一些初步的概念验证工作后，这里描述了这个想法+输出： https://pineapple-mackerel-235.notion.site/Trending-Social-Media-Post-Generator-10e2a7b36e4e801bb3b5ccec19813250?pvs=4 它还不是很完美，但经过一些改进和微调，它至少可以帮助想出关于出于营销目的发布什么内容的想法。 有什么想法吗？类似的东西已经存在了吗？    提交人    /u/gaieges   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1frej6l/how_useful_would_this_trending_social_media_post/</guid>
+      <pubDate>Sat, 28 Sep 2024 13:39:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>有什么建议可以降低我的翻译扩展项目的成本？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1freami/any_suggestions_to_lower_the_cost_for_my/</link>
+      <description><![CDATA[  由    /u/Logical_Divide_3595  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1freami/any_suggestions_to_lower_the_cost_for_my/</guid>
+      <pubDate>Sat, 28 Sep 2024 13:27:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>Scrollodoro - 侧滚动番茄工作法计时器</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fre6ls/scrollodoro_side_scrolling_pomodoro_timer/</link>
+      <description><![CDATA[        提交人    /u/mohamedation   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fre6ls/scrollodoro_side_scrolling_pomodoro_timer/</guid>
+      <pubDate>Sat, 28 Sep 2024 13:22:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>我刚刚创建了 footyGPT.com，一个提供足球统计、数据和数据支持预测的人工智能助手</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1frdk04/i_just_built_footygptcom_an_ai_assistant_for/</link>
+      <description><![CDATA[      嘿，朋友们！ 我住在伦敦，我在体育数据领域构建了许多有趣的工具和网站，以帮助体育博彩者做出更好的数据驱动决策。 我最近推出的一个是 footyGPT.com  我曾尝试在 2023 年初推出这个，但我的团队未能实现最终目标（我是非技术创始人） 有趣的故事，我在 2023 年购买了域名 footygpt(dot)com 并让它过期，因为我觉得既然我们无法实现最终目标，就没有必要保留该域名。  但 2 个月前，我又开始与另一个团队合作，由于 AI 比 2023 年初“更友好”，所以一切顺利得多，我很害怕别人已经购买了该域名，结果发现它仍然可以购买！我很害怕失去这么干净的域名。  以下是 footyGPT 工作原理的一个示例：  1. 要求 FootyGPT 对给定装置进行预测 footyGPT 的工作原理（案例研究）  2.要求 FootyGPT 从统计网站抓取和汇总数据 使用 footyGPT 抓取足球统计网站 3. 向 FootyGPT 询问有关特定比赛或事件的情绪和在线意见。 向 footygpt 询问有关足球比赛的最新情绪和意见 4.要求 FootyGPT 查找具有特定连胜、趋势或统计数据的球队 https://reddit.com/link/1frdk04/video/9oyaj5ldqjrd1/player 如果您喜欢足球，请尝试一下并告诉我您的想法！ Cheers Amigos    提交人    /u/footyamigo   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1frdk04/i_just_built_footygptcom_an_ai_assistant_for/</guid>
+      <pubDate>Sat, 28 Sep 2024 12:48:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>距发布仅剩 3 天 — AMA！🚀</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1frdeip/only_3_day_left_for_launchama/</link>
+      <description><![CDATA[大家好！ 我是 VideoSDK 的创始人 Sagar，很高兴宣布 10 月 1 日发布 Video SDK 3.0 - CharacterSDK！🎉  使用 CharacterSDK，您可以创建参与实时个性化互动的 AI 角色 - 将 AI 提升到新的水平！🚀  在此处注册以获得早期访问权限：https://www.videosdk.live/character-sdk 👈 并为我们的 Product Hunt 发布做好准备！ 问我任何事情！    提交人    /u/sagar_kava   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1frdeip/only_3_day_left_for_launchama/</guid>
+      <pubDate>Sat, 28 Sep 2024 12:40:43 GMT</pubDate>
+    </item>
     <item>
       <title>Cabin - Reddit 的社区优先替代品，将于 2025 年春季上市</title>
       <link>https://www.reddit.com/r/SideProject/comments/1frd1gc/cabin_a_communityfirst_alternative_to_reddit/</link>
       <description><![CDATA[大家好， 本月初，我们推出了 Cabin (https://cabin.social) 的登陆页面，这是一个数字社区讨论平台。从那时起，我们就引起了社区的极大兴趣。我们非常高兴能在 2025 年春季向 iOS 和 Android 推出 Cabin，随后不久将推出网页体验。 对于那些好奇的人来说，Cabin 旨在作为 Reddit 等平台的替代品。我做 Redditor 已经十多年了，亲眼目睹了它的领导层为了增加收入而慢慢降低每个人的体验。我理解资本主义——公司需要赚钱——但我们相信有更好的方法来增加收入；对我们服务的社区更友好的方式。 让我们来谈谈我们关注的一些（不是全部）事情： 虚假信息 我们了解我们在防止虚假信息在 Cabin 上传播方面的角色和责任。我们的团队正在探索各种方法来识别和澄清被发现具有误导性或可证实的虚假内容。这对于政治、健康和种族等话题尤其重要。 我们可能会利用机器学习来识别虚假信息，并通过在帖子上附加小注释来通知用户。 货币化 类似的平台主要利用广告来增加收入。我们正在探索一些对我们的社区不那么粗暴的替代货币化途径。现实情况是我们必须赚钱——建立和维护数字平台并不便宜。但这并不意味着我们的用户应该受苦。 我们考虑过的一些方法：  高级帐户：每月支付少量费用升级您的帐户，即可享受提升您体验的福利。 高级社区：为您的社区购买道具（社区将免费提供 X 个道具）或为您所属社区的道具捐献几块钱；我们认为 Discord 在这方面做得相当不错。  注意：我们尚未确定高级帐户或社区在功能方面意味着什么，但一旦我们有值得分享的信息，就会与关注者分享。 抢先体验 如上所述，我们的目标是在 2025 年春季推出 iOS 和 Android 应用的抢先体验版。抢先体验版将不对公众开放，但用户将定期收到邀请码以与朋友（或陌生人）分享。 加入候补名单是免费的。我们绝不会与任何人分享您的电子邮件地址，也绝不会将您的时间浪费在不必要的电子邮件上。 https://cabin.social 问题或建议 请随时提问或提供反馈和建议。 谢谢！    提交人    /u/happiestpeanut   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1frd1gc/cabin_a_communityfirst_alternative_to_reddit/</guid>
       <pubDate>Sat, 28 Sep 2024 12:19:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>[iOS] Themescape 赠品：赢取终身高级访问权限！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1frcya9/ios_themescape_giveaway_win_lifetime_premium/</link>
-      <description><![CDATA[大家好！ 我们很高兴地宣布为 Themescape 用户提供独家赠品！我们免费提供20个终身高级代码，您需要做的就是与我们分享您的反馈！ 参与方式如下：  下载 Themescape - 有90天免费试用，因此您可以探索该应用提供的所有内容！ 尝试一下 - 充分利用 Themescape 的高级功能。 分享您的想法 - 在此处留下您最好的反馈，并在 App Store 上留下评论。  ✨ 最有见地和最有帮助的 20 个反馈条目将获得 Themescape 的终身高级代码！ 我们迫不及待想听到您的想法！让我们一起改进 Themescape！ 应用程序链接：https://apps.apple.com/us/app/theme-scape-color-widgets/id6532617563 赠品将一直开放，直到我们收到最佳反馈！    提交人    /u/Equivalent-Word7849   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1frcya9/ios_themescape_giveaway_win_lifetime_premium/</guid>
-      <pubDate>Sat, 28 Sep 2024 12:14:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>你好</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1frcpmg/hi/</link>
-      <description><![CDATA[你好    由   提交  /u/AdNumerous1203   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1frcpmg/hi/</guid>
-      <pubDate>Sat, 28 Sep 2024 12:00:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>众包信号 iOS 应用程序</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1frcnib/crowdsourcing_signal_ios_app/</link>
-      <description><![CDATA[大家好，我在 AppStore 上发布了我的应用“Eyezu”的最终更新。绿色徽标。  这是一款众包应用，可帮助徒步旅行者、数字游民、房地产商和普通人找到信号，如果他们接近可能丢失信号的区域，则可以获得奖励。留下有关区域信号的反馈时也会有奖励。  想知道你们是否可以下载并尝试，请直接向我发送您的反馈。如果您喜欢它，请分享，即使是口口相传，我也会很感激。     提交人    /u/Shewas_onlyXI   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1frcnib/crowdsourcing_signal_ios_app/</guid>
-      <pubDate>Sat, 28 Sep 2024 11:56:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>最适合用于规划我的 MVP 的网站/工具是什么？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1frcmf7/best_websitetools_to_use_for_planning_out_my_mvp/</link>
-      <description><![CDATA[有没有什么工具可以帮助我绘制设计计划/板和流程？    提交人    /u/13aoul   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1frcmf7/best_websitetools_to_use_for_planning_out_my_mvp/</guid>
-      <pubDate>Sat, 28 Sep 2024 11:55:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>建立了一个网站，用于发现具有特定专业背景的书籍作者</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1frc8ok/made_a_website_for_discovering_book_authors_with/</link>
-      <description><![CDATA[        提交人    /u/Brilliant-Ad-4439   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1frc8ok/made_a_website_for_discovering_book_authors_with/</guid>
-      <pubDate>Sat, 28 Sep 2024 11:30:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一款应用程序，您可以在其中与朋友进行生产力竞赛。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1frc1ew/i_made_an_app_where_you_can_have_productivity/</link>
-      <description><![CDATA[        提交人    /u/shiatra   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1frc1ew/i_made_an_app_where_you_can_have_productivity/</guid>
-      <pubDate>Sat, 28 Sep 2024 11:16:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻求建议</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1frbl5h/looking_for_advice_suggestions/</link>
-      <description><![CDATA[所以我发布了 spritestore 的第一个版本。这只包含编辑器、提取器。下一个版本将有一个包含单个精灵的数据库，只需支付少量费用即可使用。希望它成为必去之地。 Https://spritestore.crownparkcomputing.com 你怎么看    提交人    /u/jmwtac   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1frbl5h/looking_for_advice_suggestions/</guid>
-      <pubDate>Sat, 28 Sep 2024 10:45:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>验证商业想法</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1frb51p/validating_a_business_idea/</link>
-      <description><![CDATA[您是否会使用礼品安排服务，在一年中的选定日期向您所爱的人发送预先选择的礼物，这样您就不会忘记？    提交人    /u/diodemac69420   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1frb51p/validating_a_business_idea/</guid>
-      <pubDate>Sat, 28 Sep 2024 10:12:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>我应该继续吗？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fraso3/should_i_keep_going/</link>
-      <description><![CDATA[        提交人    /u/cerealmilkprod   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fraso3/should_i_keep_going/</guid>
-      <pubDate>Sat, 28 Sep 2024 09:47:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于这个想法的反馈</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fra6rt/feedback_about_this_idea/</link>
-      <description><![CDATA[      一款 Chrome 扩展程序，在您浏览时快速为您提供所选文本的信息，使事情变得更容易、更快捷。我需要你对这个想法的反馈    提交人    /u/Standard-Band-102   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fra6rt/feedback_about_this_idea/</guid>
-      <pubDate>Sat, 28 Sep 2024 08:59:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个 FinetuneFast 样板 - 快速部署和运送 AI 模型</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fr9x3a/i_created_a_finetunefast_boilerplate_deploy_and/</link>
-      <description><![CDATA[大家好！ 我是 Patrick，我刚刚推出了 FinetuneFast - 这是一个样板，旨在帮助您在数小时内（而不是数周）微调和部署 FLUX-dev 或 Mistral7B（以及许多其他模型）等 ML 模型！ https://www.youtube.com/watch?v=G_J1NBPjOQ4 https://producthunt.com/posts/finetunefast 我很乐意听到您的反馈！    提交人    /u/grumpyp2   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fr9x3a/i_created_a_finetunefast_boilerplate_deploy_and/</guid>
-      <pubDate>Sat, 28 Sep 2024 08:38:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>我开发了一个网络应用，可以分析 YouTube 评论，寻找新的内容创意</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fr9le3/i_built_a_web_app_that_analyzes_youtube_comments/</link>
-      <description><![CDATA[嘿！ 我制作了这个应用程序来分析 YouTube 评论并从中检索痛点和讨论主题。由于我是一名 YouTuber，我厌倦了手动浏览评论，所以我将这个过程自动化了。 顺便说一句，我认为一些领域的人实际上要求开发应用程序，这可能会带来新的创业想法。 让我知道你的想法！你可以免费试用。非常期待对如何改进它的批评。 https://tubevoice.app/    提交人    /u/thecreatureworkshop   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fr9le3/i_built_a_web_app_that_analyzes_youtube_comments/</guid>
-      <pubDate>Sat, 28 Sep 2024 08:12:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>为你的副项目提供免费的 Web 开发</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fr9buk/offering_free_web_development_for_your_side/</link>
-      <description><![CDATA[大家好！ 我是一名希望建立自己的作品集的网页开发者，我很乐意帮助您将您的业余项目变为现实！无论您需要登录页面、完整网站还是其他任何内容，我都愿意免费为一些有趣的项目工作。 我提供的服务： - 自定义、响应式网页设计，在所有设备上看起来都很棒 - 干净、搜索引擎友好的代码 - 快速加载时间和现代设计 - 愿意添加您的项目可能需要的任何特定功能 如果您的业余项目需要网站，请随时发表评论或直接发私信给我，告诉我详细信息。让我们合作，创造伟大的东西！    提交人    /u/crazychampion2   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fr9buk/offering_free_web_development_for_your_side/</guid>
-      <pubDate>Sat, 28 Sep 2024 07:52:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的业余项目💡❤️</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fr96i6/my_side_project/</link>
-      <description><![CDATA[大家好， 我正在做我的业余项目。你能给它一颗星⭐️吗 https://github.com/vinaysanwal/thecodersgig.com    由   提交  /u/thecodersgig   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fr96i6/my_side_project/</guid>
-      <pubDate>Sat, 28 Sep 2024 07:41:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
