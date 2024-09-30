@@ -4,9 +4,65 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Mon, 30 Sep 2024 03:25:35 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 Sep 2024 06:22:14 GMT</lastBuildDate>
     <item>
-      <title>随着 Telegram 上点击式小程序的流行，我决定自己制作一个，以求乐趣。所以你可以看看，并在评论中留下你的想法 :)</title>
+      <title>提供我的 Slack 应用作为白标应用</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fsoy0n/offering_my_slack_app_as_whitelabeled/</link>
+      <description><![CDATA[首先，我要向一路支持我的所有人表示衷心的感谢。构建这个机器人对我来说是一个充满激情的项目，我很感激迄今为止收到的所有反馈和帮助。 Recognitionbot 现已完成 80% 的开发，并且没有任何错误，对此我感到非常自豪。话虽如此，我意识到虽然我喜欢构建，但经营业务方面并不是我的强项。 所以事情的现状是：我准备为我的机器人提供白标端点，这意味着经销商可以使用这些端点向他们的客户销售定制的识别机器人。如果有人有兴趣利用这一点，我很乐意聊聊。 此外，如果有人可能想收购整个项目，我也愿意听取报价。 再次感谢这个很棒的社区提供的所有支持。如果您想进一步了解，请随时联系我们。 现在查看我的机器人的更新版本，其中我的所有堆栈都在实时工作：https://youtu.be/GT8qb1Zw4gw 我的技术堆栈：  前端 + 后端 - NextJS SlackAPI - 个人使用永久免费（技术上是 1 人工作场所） Notion - 免费数据库    由    /u/Charming_You_8285  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fsoy0n/offering_my_slack_app_as_whitelabeled/</guid>
+      <pubDate>Mon, 30 Sep 2024 06:14:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的产品 (Wispr Flow) 今天在产品搜索中推出！！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fsodpj/my_product_wispr_flow_is_launching_on_product/</link>
+      <description><![CDATA[    /u/LanguageSad1430   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fsodpj/my_product_wispr_flow_is_launching_on_product/</guid>
+      <pubDate>Mon, 30 Sep 2024 05:35:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>🌼</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fsoasm/_/</link>
+      <description><![CDATA[  由    /u/Aware-Principle8157  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fsoasm/_/</guid>
+      <pubDate>Mon, 30 Sep 2024 05:30:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>美丽的画面</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fso6jy/beutiful_picture/</link>
+      <description><![CDATA[        提交人    /u/Aware-Principle8157   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fso6jy/beutiful_picture/</guid>
+      <pubDate>Mon, 30 Sep 2024 05:21:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 YouTube 上创建教育性 C/C++ 视频</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fsngmu/creating_educational_cc_videos_on_youtube/</link>
+      <description><![CDATA[      任何反馈都将非常感谢。    由   提交  /u/Reasonable-Map-1106   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fsngmu/creating_educational_cc_videos_on_youtube/</guid>
+      <pubDate>Mon, 30 Sep 2024 04:34:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>将所有已保存的社交媒体帖子汇总到一个电子表格中</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fsncdj/aggregate_all_saved_social_media_posts_into_one/</link>
+      <description><![CDATA[我经常浏览 Reddit、TikTok、Instagram、Youtube 和 Facebook。 我会保存我认为有趣的帖子，以便以后再查看。我相信你已经猜到了一些问题。  1. 我再也不回头了 2.我不记得我将某段内容保存在了哪里  我想创建一个工具，从 Google 表格开始，每次我从我所使用的任何社交媒体平台“保存”内容时，它都会记下这些内容。 我希望看到行指示平台、保存日期、时间、标题、内容、媒体、链接、主题。 我想集成 AI 来合成视频中的文本，并解释图像中发生的事情，然后转换为文本并保存在“内容”列中。 我考虑过使用 IFTTT、Zapier 或 Make，但发现它们存在局限性或者我执行不正确。 我的 MVP 只是确保所有已保存的 reddit 内容都能进入电子表格，但即使这样也很棘手。 使用自动化工具可以实现这一切吗，还是我需要 Python 等？关于如何创建这个，有什么一般性建议吗？    提交人    /u/The-SillyAk   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fsncdj/aggregate_all_saved_social_media_posts_into_one/</guid>
+      <pubDate>Mon, 30 Sep 2024 04:26:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何发展我们的应用程序：超级应用程序锁？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fsn5d2/how_to_grow_hack_our_app_super_app_lock/</link>
+      <description><![CDATA[我们的想法之一是让人们邀请他们的伴侣和孩子，这样他们就可以减少在一起看屏幕的时间，并参加我们正在进行的特定活动，您还有其他可以实施的想法吗？ 一些背景信息： 我们构建了超级应用锁：应用拦截器，这是一款有特色的日历应用：它可让您在特定事件期间拦截应用，以帮助您集中注意力。 交易： - 工作时间：设置您的工作时间，选择您想要拦截的应用，然后让我们的应用在周一至周五运行。减少滚动，增加完成任务的时间。 - 家庭时间：想要更多地关注自己吗？安排家庭时间，屏蔽干扰，享受不受干扰的时光。 --- 其他活动 ---  其他内容：  深度专注模式：一旦应用被屏蔽，在活动结束前将无法重新进入。禁止作弊！ 统计数据：查看您把时间花在了哪里以及节省了多少屏幕时间。  目前仅在 iOS 上可用，但我们希望您能够查看并给我们您的诚实反馈。如果您愿意，可以在此处尝试一下！    提交人    /u/Financial-Choice-967   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fsn5d2/how_to_grow_hack_our_app_super_app_lock/</guid>
+      <pubDate>Mon, 30 Sep 2024 04:14:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>我在一次黑客马拉松中构建了一个迷你 V0 - http://github.com/rooben-me/WhatApp-langara-hacks</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fsn106/i_built_a_mini_v0_in_a_hackathon/</link>
+      <description><![CDATA[        由   提交  /u/Economy_Future_6752   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fsn106/i_built_a_mini_v0_in_a_hackathon/</guid>
+      <pubDate>Mon, 30 Sep 2024 04:07:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>随着 Telegram 上点击式小程序的流行，我决定自己制作一个，以求好玩。所以你可以看看，并在评论中留下你的想法 :)</title>
       <link>https://www.reddit.com/r/SideProject/comments/1fsm892/on_the_wave_of_popularity_of_clicker_miniapps_on/</link>
       <description><![CDATA[      https://preview.redd.it/zw4x8nce7vrd1.jpg?width=1280&amp;format=pjpg&amp;auto=webp&amp;s=602cacdd440e863959dac08220b844fa2088f021 SkufCoin 概述    提交人    /u/Affectionate_Golf887   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1fsm892/on_the_wave_of_popularity_of_clicker_miniapps_on/</guid>
@@ -53,62 +109,6 @@
       <description><![CDATA[      大家好， 我目前正在进行我的新网站项目，并且我购买了域名 https://pointa.video。我想分享我选择 .video 域名的原因，并征求您的经验和建议。 我选择 .video 的原因：  如您所知，如今以实惠的价格找到简单合适的 .com 域名具有挑战性。作为一名独立开发者，我不想在早期阶段投入太多。 我的新项目与视频制作有关，所以我希望域名能够反映这方面。 从我最初的研究中，我发现 .video 是一个顶级域名，Google 将其视为与 .com 域名相同。  但是，我现在收到的反馈令人担忧。我的网站上线一个多月了，我还没有收到一次自然点击（除了我自己点击的点击。哈哈。）。索引关键字的数量也非常低，这与我以前的项目（使用 .com 域名）相比不寻常。 https://preview.redd.it/c2av5hn8turd1.png?width=2360&amp;format=png&amp;auto=webp&amp;s=4c93eea48d4e9114bc337a88c30d4e3343bb1009 我很好奇你们是否遇到过 .video 域名或其他非传统 TLD 的类似问题。您认为我现在需要更改我的域名吗？ 这里有人成功地将 .video 域名（或任何小众域名）用于他们的项目吗？如果是这样，您在 SEO 和自然流量方面的经验是什么？ 任何见解或建议都将不胜感激。提前致谢！    提交人    /u/gazelleye   [link] [评论] ]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1fskrqe/has_anyone_used_a_video_domain_is_it_seofriendly/</guid>
       <pubDate>Mon, 30 Sep 2024 02:03:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>推出了 Typeform 替代品 LTD，收入达 10 万美元。AMA</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fsjrnn/launched_an_ltd_for_typeform_alternative_and_did/</link>
-      <description><![CDATA[大家好， 我是 Pratik。MakeForms 的创始人。去年，我们为 MakeForms 推出了 Life Time Deal [ LTD ] 作为 Typeform 的替代品，并实现了 10 万美元的收入。问我任何有关构建 SaaS 或运营 LTD 的经验。    提交人    /u/OkNecessary3300   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fsjrnn/launched_an_ltd_for_typeform_alternative_and_did/</guid>
-      <pubDate>Mon, 30 Sep 2024 01:09:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个免费的 iOS 应用程序，让您轻松开会、看医生、做重要的事情以及赚钱</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fsihic/i_created_a_free_ios_app_that_lets_you_easily/</link>
-      <description><![CDATA[      https://preview.redd.it/hkueoh228urd1.png?width=1344&amp;format=png&amp;auto=webp&amp;s=247cdc932778778bf179eb0c3f8c31c261f45289 PlanSense：https://apps.apple.com/us/app/plansense/id6503712817    由   提交  /u/PlanSense   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fsihic/i_created_a_free_ios_app_that_lets_you_easily/</guid>
-      <pubDate>Mon, 30 Sep 2024 00:02:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>Vinted 超时</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fshs0l/vinted_timeouts/</link>
-      <description><![CDATA[大家好，我正在开发一个关于 vinted 的东西，但是当你访问 vinted 中某个页面的次数过多时，你的超时时间为 1 分钟。 有人知道如何绕过这个问题吗？    提交人    /u/Pure_Bit_2981   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fshs0l/vinted_timeouts/</guid>
-      <pubDate>Sun, 29 Sep 2024 23:27:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>我对 @levelsio 如何将 PhotoAI 增长到 155K/m 的浅薄分析</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fsgqzi/my_humble_analysis_on_how_levelsio_grew_photoai/</link>
-      <description><![CDATA[      2023 年，@levelsiol 推出了 PhotoAi，并抓住了 AI 生成照片趋势的完美时机。 早在 2023 年 1 月，他就看到了 AI 图像生成器的兴起——当时的搜索量仅为 246K。 快进到现在，搜索量已激增至每月 100 万次以上！@levelsio 没有猜到——他跟踪了这种指数级增长，快速构建并推出了一款人们在自己意识到之前就需要的产品。这就是你从创意到每月 15.5 万美元收入的过程。 但为什么这样做有效？  需求激增：随着越来越多的创作者、营销人员和企业寻找自动化的图像生成方式，对 PhotoAI 等 AI 工具的需求激增（图 1 显示了这一疯狂的增长曲线）。  时机就是一切：当趋势发展如此之快时，你必须更快地采取行动。他在正确的时间推出了产品，抓住了早期采用者，并为可持续收入奠定了基础（图 2 展示了明显的峰值）。  基于数据而非假设构建：AI 角色生成器的增长也获得了重大关注（图 3）。这两种趋势都预示着一个机会，他在市场饱和之前就加入了进来。 教训： 不要猜测人们想要什么——观察趋势并快速构建。  在主流还不知道之前，趋势就会告诉你什么是有效的。  这就是您推出解决实际问题的产品的方式。查看图表了解背景：  AI 图像生成器增长（图 1） 搜索量激增（图 2） AI 角色生成器（图 3） 使用数据，而不仅仅是直觉。跟踪趋势并执行。简单但功能强大。 我希望你喜欢这个帖子。    提交人    /u/PodcastSummaryGuy   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fsgqzi/my_humble_analysis_on_how_levelsio_grew_photoai/</guid>
-      <pubDate>Sun, 29 Sep 2024 22:37:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>饮食日记：我开发了一款应用程序，让营养追踪更加简单</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fsfcyx/food_diary_i_built_an_app_to_make_nutrition/</link>
-      <description><![CDATA[大家好， 我一直在努力追踪我的食物摄入量。手动记录所有东西感觉像是一件苦差事，而且我经常在几天后就失去动力。我知道了解我的卡路里和营养摄入量对于实现我的健身目标至关重要，我感到很沮丧，因为找不到适合我需要的“简单工具”。 因此，我决定自己动手，为 iOS 开发了一款名为 Food Diary 的应用程序。这个想法是让营养追踪尽可能轻松： 拍摄照片：只需拍摄您的餐点照片，应用程序就会扫描它以提供总卡路里、碳水化合物、蛋白质和脂肪。 个性化目标：它根据您的身高、体重、年龄、活动水平和目标（减肥、维持体重等）设定每日目标。 日记和日历视图：使用易于使用的日历功能跟踪您的每日摄入量并随时查看您的进度。 自从我开始使用它以来，我的营养摄入更加一致，而且它确实使这个过程变得愉快。看到我的习惯以视觉方式呈现，这对保持动力来说是一个改变游戏规则的关键。 我在这里分享这个是因为我认为它可能会帮助其他面临同样困难的人。如果您有兴趣尝试或有任何反馈，我很乐意听听您的想法！ 您可以尝试适用于 iOS 的应用程序：食物日记    提交人    /u/Arproy   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fsfcyx/food_diary_i_built_an_app_to_make_nutrition/</guid>
-      <pubDate>Sun, 29 Sep 2024 21:32:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的业余项目网站包含我日常使用的许多不同的网络工具！快来看看吧，如果有任何反馈，请留下！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fsezkg/my_side_project_site_for_many_different_web_tools/</link>
-      <description><![CDATA[  由    /u/funkel1989  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fsezkg/my_side_project_site_for_many_different_web_tools/</guid>
-      <pubDate>Sun, 29 Sep 2024 21:15:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个简单的 AI 聊天室来帮助游戏玩家感觉更好，并围绕它建立了社区，例如 Minecraft 服务器 + Discord + 论坛来为他们提供支持</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fseksc/i_built_a_simple_ai_chat_to_help_gamers_feel/</link>
-      <description><![CDATA[molly.com    由   提交  /u/vietyork   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fseksc/i_built_a_simple_ai_chat_to_help_gamers_feel/</guid>
-      <pubDate>Sun, 29 Sep 2024 20:57:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>SubsManager：100％免费的订阅管理系统</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fsefcr/subsmanager_a_100_free_subscriptions_management/</link>
-      <description><![CDATA[        由    /u/BLACKz_ 提交   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fsefcr/subsmanager_a_100_free_subscriptions_management/</guid>
-      <pubDate>Sun, 29 Sep 2024 20:50:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
