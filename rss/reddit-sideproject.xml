@@ -4,7 +4,28 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Tue, 01 Oct 2024 01:15:11 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Oct 2024 03:28:27 GMT</lastBuildDate>
+    <item>
+      <title>免费域名生成工具 - 寻求反馈！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fteit9/free_domain_name_generation_tool_looking_for/</link>
+      <description><![CDATA[大家好！👋 我最近创建了 Namefy 作为一个副项目，这是一个免费工具，使用 LLM 在几秒钟内生成创意独特的域名。它还允许您即时检查不同扩展中的域名可用性。 我很乐意从社区获得一些反馈！您可以免费试用它并为您的初创公司、副项目或您正在开展的任何新想法生成域名。只需输入您的关键字并点击按钮即可！ 请随时在评论中留下您的商业想法，我将亲自为您生成域名建议 - 完全免费。 查看并告诉我您的想法：Namefy 此外，这里有一些我非常喜欢的创意域名：链接 期待听到您的想法！😊    提交人    /u/the_bigbang   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fteit9/free_domain_name_generation_tool_looking_for/</guid>
+      <pubDate>Tue, 01 Oct 2024 03:21:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们刚刚推出了一款 chrome 扩展程序，可让您免费在任何网站上进行释义。但我仍然想改进它。我正在寻找有关我的扩展程序的反馈，如果您有任何改进想法，我将不胜感激。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ftecb9/we_just_launched_a_chrome_extension_that_allows/</link>
+      <description><![CDATA[      大家好 🙌 我一直在开发一款新的 chrome 扩展程序，可以让你轻松改变写作方式。 推出 Be Like Native 这款 Chrome 扩展程序，旨在将您的写作、编辑和翻译任务转变为无缝高效的体验。 https://preview.redd.it/6fow8aev92sd1.png?width=573&amp;format=png&amp;auto=webp&amp;s=ff731a15332f7a14f0a1fa97e34eee6f44aa0d72 想象一下，有这样一个工具，它可以消除代价高昂的错误，增强您的沟通能力，立即扩大您的词汇量，并提供无数其他优势。 这是 Chrome 网上应用店的链接：Be Like Native chrome 网上应用店 我们仍在努力改进功能和用户体验，因此如果您遇到了问题，请随时告诉我们，您可以留下 DM 或通过我们的社区页面 发表帖子 非常感谢您的支持。    提交人    /u/BeLikeNative   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ftecb9/we_just_launched_a_chrome_extension_that_allows/</guid>
+      <pubDate>Tue, 01 Oct 2024 03:11:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI 文件管理器更新：现在具有试运行模式和 Llama 3.2 作为默认模型</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ftcepu/ai_file_organizer_update_now_with_dry_run_mode/</link>
+      <description><![CDATA[嘿 r/SideProject！ 我之前分享过我的 AI 文件管理器项目，它可以读取和排序文件，并且 100% 在设备上运行：( https://www.reddit.com/r/SideProject/comments/1fmfxs8/i_built_a_python_script_uses_ai_to_organize_files/ ) 并得到了社区的大力支持！谢谢！！！ 操作方法如下： 修改前：/home/user/messy_documents/ ═── IMG_20230515_140322.jpg ═── IMG_20230516_083045.jpg ═── IMG_20230517_192130.jpg ═── budget_2023.xlsx ═── meeting_notes_05152023.txt ═── project_proposal_draft.docx ═── random_thoughts.txt ═── recipe_chocolate_cake.pdf ═── scan0001.pdf ═── vacation_itinerary.docx └── work_presentation.pptx 0 个目录，11 个文件 修改后：/home/user/organized_documents/ ═── Financial │ └── 2023_Budget_Spreadsheet.xlsx ═── 食物和食谱 │ └── 巧克力蛋糕食谱.pdf ═── 会议和笔记 │ └── 团队会议笔记_May_15_2023.txt ═── 个人 │ └── 随机想法和想法.txt ═── 照片 │ ═── 城市景观日落_May_17_2023.jpg │ ═── 早晨咖啡店_May_16_2023.jpg │ └── 办公室团队午餐_May_15_2023.jpg ═── 旅行 │ └── 夏季假期行程_2023.doc └── 工作 ═── 项目_X_提案草案.docx ═── Quarterly_Sales_Report.pdf └── Marketing_Strategy_Presentation.pptx 7 个目录，11 个文件  我阅读了所有评论，并在过去一周致力于实施变更。以下是此版本中的新功能： v0.0.2 新功能：  试运行模式：在提交更改之前预览排序结果 静默模式：将日志保存到文本文件以实现更安静的操作 扩展文件支持：.md、.xlsx、.pptx 和 .csv 三种排序选项：按内容、日期或文件类型 默认文本模型更新至 Llama 3.2 3B 增强的 CLI 交互体验 文件分析的实时进度条  有关路线图和下载说明，请查看稳定的 v0.0.2：https://github.com/NexaAI/nexa-sdk/tree/main/examples/local_file_organization 对于具有实验性功能的增量更新，请查看我的个人仓库：https://github.com/QiuYannnn/Local-File-Organizer 感谢 Nexa 团队将我纳入他们的官方手册并为这个新版本提供巨大支持。整个项目的可执行文件正在开发中。 您对此更新有何看法？我应该为下一个版本优先考虑什么吗？ 谢谢！！   由    /u/unseenmarscai  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ftcepu/ai_file_organizer_update_now_with_dry_run_mode/</guid>
+      <pubDate>Tue, 01 Oct 2024 01:31:15 GMT</pubDate>
+    </item>
     <item>
       <title>建立/托管网站的最佳方式</title>
       <link>https://www.reddit.com/r/SideProject/comments/1ftbgp9/best_way_to_build_host_a_website/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[  由    /u/aakashkathuria  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1ft5o9p/intelligent_gmat_prep_with_socialized_prep/</guid>
       <pubDate>Mon, 30 Sep 2024 20:27:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻求您对我的新浏览器扩展平台的看法👩‍💻</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ft5mk5/seeking_your_thoughts_on_my_new_browser_extension/</link>
-      <description><![CDATA[大家好！👋 我很高兴与大家分享 ExtensionHub，这是我最近一直在研究的一个平台，旨在帮助开发人员展示他们的浏览器扩展并与扩展爱好者社区建立联系。我希望你们能看看，分享你的想法！ 👉 ExtensionHub    提交人    /u/Remarkable_Novel_391   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ft5mk5/seeking_your_thoughts_on_my_new_browser_extension/</guid>
-      <pubDate>Mon, 30 Sep 2024 20:25:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>Java 事件</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ft5hat/java_events/</link>
-      <description><![CDATA[        提交人    /u/siddharthsabron   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ft5hat/java_events/</guid>
-      <pubDate>Mon, 30 Sep 2024 20:19:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>我遇到了域名问题，所以我购买了 ihaveadomainproblem.com。现在我又遇到了一个域名问题。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ft5302/i_have_a_domain_problem_so_i_bought/</link>
-      <description><![CDATA[我有购买域名的瘾，所以很自然地，我又买了一个域名，建了一个网站，让开发者们可以坦白自己囤积域名的罪行。 这是链接：https://www.ihaveadomainproblem.com/ 尽情享受吧！    提交人    /u/No-Conference-8133   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ft5302/i_have_a_domain_problem_so_i_bought/</guid>
-      <pubDate>Mon, 30 Sep 2024 20:03:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
