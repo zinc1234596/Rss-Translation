@@ -4,111 +4,111 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Tue, 01 Oct 2024 12:30:28 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Oct 2024 15:16:14 GMT</lastBuildDate>
     <item>
-      <title>未集成 AI 的 SaaS</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ftmvni/saas_without_ai_integration/</link>
-      <description><![CDATA[现在真的有可能在不集成 AI 的情况下创建出色的 SaaS 项目吗？    提交人    /u/bing777x   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ftmvni/saas_without_ai_integration/</guid>
-      <pubDate>Tue, 01 Oct 2024 12:29:56 GMT</pubDate>
+      <title>需要一些建议</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ftqhza/need_some_advice/</link>
+      <description><![CDATA[我和同事一起制作了一个用于内容再利用的 saas。它的作用是从 youtube 链接和博客文章中生成内容。 问题： 人们注册免费试用。一周内获得 20 个积分。一天内用完。然后取消订阅。并使用新电子邮件注册。 有什么想法可以解决这个问题吗？    提交人    /u/Pretty_Judgment5481   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ftqhza/need_some_advice/</guid>
+      <pubDate>Tue, 01 Oct 2024 15:12:34 GMT</pubDate>
     </item>
     <item>
-      <title>我创建了 NotyTalkie – 一个用于记录笔记并将转录内容转换为不同格式的工具。寻求反馈和见解！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ftmvfq/i_built_notytalkie_a_tool_for_recording_notes_and/</link>
-      <description><![CDATA[大家好。我很高兴与大家分享我一直在做的一个项目，叫做 NotyTalkie。这是一个旨在让笔记记录更轻松、更高效的工具，它允许用户录制语音笔记并将这些转录转换为不同的格式。我很乐意就以下几点听取您的反馈：1. 您目前是否使用过类似的工具？如果是，您使用什么工具以及用于什么特定目的？2. 您认为此类工具的哪些功能最有用？无论是高级转录格式还是集成，我都很乐意听听您的想法。3. 在记录和管理笔记时，您面临哪些痛点？4. 如果您有兴趣尝试，我很乐意为您提供更好的访问权限，并从真实用户那里获得更详细的反馈。谢谢。祝你有美好的一天。 ![video]() ![video]()    由   提交  /u/No_Meal_5320   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ftmvfq/i_built_notytalkie_a_tool_for_recording_notes_and/</guid>
-      <pubDate>Tue, 01 Oct 2024 12:29:37 GMT</pubDate>
+      <title>刚刚推出了一款人工智能网络应用程序，可提供专家级的香水建议。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ftqbxr/just_launched_an_aipowered_web_app_that_provides/</link>
+      <description><![CDATA[我最初是为自己和其他一些深入香水社区的人启动这个项目的，但我很快意识到大多数人都可以从中受益。 你多久会为你的另一半或你自己购买一次香水，但不知道从哪里开始？ 去零售商那里可能会很乏味，客户体验很差，也没有真正的地方可以教你如何找到合适的香水。 通常，你只会遇到咄咄逼人的销售人员试图向你推销和填补配额，而不是推荐理想的香水。 更不用说这些香水的价格会让买到错误的香水更加痛苦。 对于希望购买或研究适合自己情况的理想香水的人来说，这个人工智能聊天机器人将成为理想的起点。 确保您做出明智而全面的选择。 网站是www.askfragranceai.com 让我知道你们认为我可以改进什么，或者将来将其货币化的适当方法。    提交人    /u/Reasonable-Fudge326   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ftqbxr/just_launched_an_aipowered_web_app_that_provides/</guid>
+      <pubDate>Tue, 01 Oct 2024 15:05:31 GMT</pubDate>
     </item>
     <item>
-      <title>我已经建立了我的第一个项目：食谱规划/管理应用程序和购物清单生成器</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ftms1m/ive_built_my_first_project_a_recipe/</link>
-      <description><![CDATA[      我已经建立了我的第一个项目：一个食谱计划/管理应用程序和购物清单生成器。你怎么看？ 简单来说，我是一名学生，在计划一周的饭菜和购物方面遇到了困难。所以，我建立了这个网络应用程序。我首先尝试使用 Tandoor（自托管），但感觉很慢，所以，像任何其他理智的人一样，我决定从头开始重建它，并添加我喜欢的功能： - 管理食谱 - 添加标签 - 计划一周的饭菜 - 计算所需的配料 - 创建购物清单 它使用起来更容易。 如果您想尝试一下 -&gt; https://planmymeals.ch    提交人    /u/Oxmas   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ftms1m/ive_built_my_first_project_a_recipe/</guid>
-      <pubDate>Tue, 01 Oct 2024 12:24:39 GMT</pubDate>
+      <title>我正在出售我的 SideProject</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ftq8qu/i_am_selling_my_sideproject/</link>
+      <description><![CDATA[几个月前，我创建了一个数据库，帮助开发人员和工程师为他们的项目获得付费客户。基本上是一个包含 300 多个获得客户的技巧和窍门的数据库。 我得到了很好的反馈，并决定向公众推出。几个月内，几乎没有营销就赚了 1.7 万美元的销售额。我没有太多时间来推广这个，所以我决定转向其他项目，这就是我出售它的原因。 我认为这个网站有很大的潜力，非常容易继续添加更多技巧来吸引客户和管理网站。如果你想看看，请访问 thefounderchecklist。 如果您有任何疑问或感兴趣，请随时给我发私信。    提交人    /u/ArbitrageBets   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ftq8qu/i_am_selling_my_sideproject/</guid>
+      <pubDate>Tue, 01 Oct 2024 15:01:52 GMT</pubDate>
     </item>
     <item>
-      <title>全新每日单词挑战游戏 - WordSegments</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ftmn1j/a_new_daily_word_challenge_game_wordsegments/</link>
-      <description><![CDATA[今天我发布了我的最新项目 WordSegments。 使用 WordSegments，您需要在 6 次猜测内猜出一个 5 个字母的单词。 每次猜测之后，每个字母的正确和不正确的部分都会突出显示，您可以使用它们来指导您找到正确的字母和单词。 如果您有兴趣，请尝试一下。 wordsegments.com    提交人    /u/mwestapps   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ftmn1j/a_new_daily_word_challenge_game_wordsegments/</guid>
-      <pubDate>Tue, 01 Oct 2024 12:17:12 GMT</pubDate>
+      <title>需要 SideProject 社区支持</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ftq8pe/need_sideproject_community_support/</link>
+      <description><![CDATA[F6S 将在未来几天推出新功能，他们正在考虑在其主页上展示 Nexus AI。您可以试用 Nexus AI（免费），然后在此处给出评论 - https://www.f6s.com/product/review?product=nexus-ai （由于这里有很多程序员，我们也有 AI 代码生成器） 我们的目标是开始转换，因为我们大多有免费用户。    提交人    /u/NewmanHenry   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ftq8pe/need_sideproject_community_support/</guid>
+      <pubDate>Tue, 01 Oct 2024 15:01:50 GMT</pubDate>
     </item>
     <item>
-      <title>我创建了一个内容货币化平台</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ftmbcm/i_made_a_platform_for_content_monetization/</link>
-      <description><![CDATA[也是 Z 世代喜爱的平台。目前正在寻找可以建议或收购它的人。我正在从事一些其他必须关注的项目。     提交人    /u/Hungry-Scholar2022   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ftmbcm/i_made_a_platform_for_content_monetization/</guid>
-      <pubDate>Tue, 01 Oct 2024 11:59:51 GMT</pubDate>
+      <title>聚合新闻 - RSS 阅读器 1.3.2 更新 11098-122</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ftq07v/aggregator_news_rss_reader_132_update_11098122/</link>
+      <description><![CDATA[您提供的有关 Aggregator News - RSS Reader 1.3.2 更新的信息已经相当全面了。它包括： * 新的新闻网站：中文、捷克语、丹麦语、荷兰语、爱沙尼亚语、希腊语、印尼语、韩语、尼泊尔语、斯洛伐克语、瑞典语、乌克兰语、越南语、孟加拉语、乌尔都语、罗马尼亚语、土耳其语、阿尔巴尼亚语、阿塞拜疆语和克罗地亚语 * 新功能：类别网站设置 * 发布日期：10 月 8 日 如果您想添加更多信息，可以考虑： * 将添加的新新闻网站的具体示例 * 有关类别网站设置的更多详细信息（例如，其工作原理、可用的类别） * 将包含在更新中的任何其他新功能或改进 以下是信息的修订版本，包含一些其他详细信息：Aggregator News - RSS 阅读器 1.3.2 更新新功能： * 扩展的语言支持：此更新将增加对 19 种新语言的支持，包括中文、捷克语、丹麦语、荷兰语、爱沙尼亚语、希腊语、印尼语、韩语、尼泊尔语、斯洛伐克语、瑞典语、乌克兰语、越南语、孟加拉语、乌尔都语、罗马尼亚语土耳其语、阿尔巴尼亚语、阿塞拜疆语和克罗地亚语。 * 类别网站设置：新功能将允许用户按类别轻松过滤新闻文章。这将使您更容易找到最感兴趣的新闻。 新的新闻网站：更新将包括来自世界各地的各种新新闻网站。以下列出一些示例： * 中文：新华社、人民日报、财新 * 捷克语：Novinky、Lidovky.cz、iDNES.cz * 丹麦语：Politiken、Berlingske、Jyllands-Posten * 荷兰语：NRC Handelsblad、De Volkskrant、Algemeen Dagblad * 爱沙尼亚语：Postimees、Delfi.ee、Eesti Päevaleht * 希腊语：Kathimerini、Ta Nea、To Vima * 印尼语：Kompas、Tempo、Detik * 韩语：韩联社、朝鲜日报、中央日报 * 尼泊尔语：Kantipur、Republica、Annapurna Post * 斯洛伐克语：SME、Pravda、Hospodárske Noviny * 瑞典语：Dagens Nyheter、Svenska Dagbladet、Aftonbladet * 乌克兰语：Ukrayinska Pravda、ZN.ua、Liga.net * 越南语：Tuổi Trẻ、Thanh Niên、VnExpress * 孟加拉语：Prothom Alo、The Daily Star、Amar Desh * 乌尔都语：Dawn、Express Tribune、Jang * 罗马尼亚语：Gazeta Sporturilor、ProTV、Digi24 * 土耳其语：Hürriyet、Milliyet、Sabah * 阿尔巴尼亚语：Gazeta Shqiptare、Shekulli、Panorama * 阿塞拜疆语：Azadliq、Meydan TV、Radio Azadliq * 克罗地亚语：Jutarnji list、24sata、Večernji list 发布日期：The Aggregator News - RSS Reader 1.3.2 更新计划于 10 月 8 日发布。    提交者    /u/TraditionalAd3560   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ftq07v/aggregator_news_rss_reader_132_update_11098122/</guid>
+      <pubDate>Tue, 01 Oct 2024 14:51:57 GMT</pubDate>
     </item>
     <item>
-      <title>我制作了一个将数据转换成动画图表的应用程序</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ftm6cu/i_made_an_app_that_turns_data_into_animated_graphs/</link>
-      <description><![CDATA[        由    /u/jimjez  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ftm6cu/i_made_an_app_that_turns_data_into_animated_graphs/</guid>
-      <pubDate>Tue, 01 Oct 2024 11:52:00 GMT</pubDate>
+      <title>适合情侣的礼物</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ftpyd5/gift_apt_for_coulples/</link>
+      <description><![CDATA[        提交人    /u/Proper-Example6869   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ftpyd5/gift_apt_for_coulples/</guid>
+      <pubDate>Tue, 01 Oct 2024 14:49:51 GMT</pubDate>
     </item>
     <item>
-      <title>v0.dev 但用于登陆页面</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ftlv1p/v0dev_but_for_landing_pages/</link>
-      <description><![CDATA[我相信我们都同意 v0.dev 很棒，但它缺乏设计能力。我正在构建一个 AI 工具，帮助 SaaS 创始人使用 shadcn ui 和 Magic UI 创建美观的登录页面。 请随时查看并让我知道您的想法： https://www.surgepages.com/    提交人    /u/OndrejBartos   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ftlv1p/v0dev_but_for_landing_pages/</guid>
-      <pubDate>Tue, 01 Oct 2024 11:34:06 GMT</pubDate>
+      <title>对于合作伙伴即服务有何看法？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ftpxyi/thoughts_on_partnershipasaservice/</link>
+      <description><![CDATA[大家好， 我接触过的许多机构和 B2B 企业都依赖推荐、口碑和网络来获得客户。 问题在于它并不一致。广告和冷门推广要么成功，要么失败。 因此，我想出了一个办法，与邻近行业的合适公司合作，并建立一个网络，以持续产生 10 倍以上的推荐。 它不是一个网络平台或 SaaS。而是一项主动服务，我负责沟通、交易谈判、定位等。 我想以最低的成本为某人测试一下。 （如果您没有案例研究、预算为零且完全是新手，请不要发表评论） 也感谢您对此的想法。  我目前也在寻找一位经验丰富的顾问，他曾为大公司做过类似的事情。    提交人    /u/parth_1802   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ftpxyi/thoughts_on_partnershipasaservice/</guid>
+      <pubDate>Tue, 01 Oct 2024 14:49:23 GMT</pubDate>
     </item>
     <item>
-      <title>没有什么特别简单的网页，里面有给正在经历困难时期的人们鼓舞人心的信息</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ftls0c/nothing_fancy_simple_webpage_with_uplifting/</link>
-      <description><![CDATA[https://healmyheart.online 如果这对某人有帮助，我很高兴。祝你有美好的一天    由   提交  /u/conianz   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ftls0c/nothing_fancy_simple_webpage_with_uplifting/</guid>
-      <pubDate>Tue, 01 Oct 2024 11:29:03 GMT</pubDate>
+      <title>我创建了 TimelapseRobot，这是一款可以将任何 Android 手机变成延时摄影和监控摄像头的应用程序，可用于您的长期项目（例如建筑）。请给我反馈！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ftpqjm/i_created_timelapserobot_an_app_that_turns_any/</link>
+      <description><![CDATA[      https://reddit.com/link/1ftpqjm/video/bmknoayep5sd1/player 大家好， 我叫 Peter Jablonowski，是 Timelapserobot 的创始人之一。 首先，是的，这是一个广告。我已经在 reddit 上活跃了几年，我也不喜欢广告，很抱歉侵占了你的信息流。 但是我们多年来一直在努力打造 Timelapserobot，我想让大家知道。 更重要的是，我想帮助有长期项目的人以一种简单、实惠和有趣的方式记录它们。我从事延时摄影和电影制作业务，我知道这其中的艰辛，以及一台简单的监控和延时摄影相机有多么昂贵。 现在开始说正经事。 如果你曾经想要记录一个建筑项目（从地基到收尾工作）或实时跟踪进度，TimelapseRobot 可以帮助你只用一部智能手机就能做到这一点。而且有一个免费计划可用。 工作原理：  在备用 Android 设备（例如旧手机）上下载 TimelapseRobot。 将其连接到您的 TimelapseRobot 帐户（您可以在线管理所有内容）。 在现场的任何地方安装您的手机（查看我们的通用手机外壳，了解坚固的长期设置 - 可选但强烈推荐）。 设置您的捕获间隔，应用程序会自动处理其余部分，将图像编译成流畅的缩时视频！  您可以直接从 TimelapseRobot 网络应用程序远程控制相机，监控您的施工并管理您的照片。非常适合现场主管、承包商以及任何想要直观地记录他们的进度而又不想投资昂贵的摄像设备的人。 无论您是在跟踪大型商业建筑的进度，还是只想看看小型家庭装修的进展情况，这款应用程序旨在让这个过程超级简单且经济高效。 我们已经在应用程序方面取得了很大进展，但我们甚至还没有接近完成，我们非常感谢您的反馈，让我们能够让它变得更好！ 谢谢！    提交人    /u/PLapse   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ftpqjm/i_created_timelapserobot_an_app_that_turns_any/</guid>
+      <pubDate>Tue, 01 Oct 2024 14:40:35 GMT</pubDate>
     </item>
     <item>
-      <title>CLUTCHGG.LOL - 英雄联盟统计数据</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ftlhru/clutchgglol_league_of_legends_stats/</link>
-      <description><![CDATA[      ClutchGG.LOL 是一款全新的深度英雄联盟玩家追踪器，包含个人资料、现场比赛、排名统计、比赛历史和比赛详情以及排行榜适用于任何地区。 这开始是一个使用 Riot API 的小型附带项目，但很快就作为其他竞争对手的轻量级替代品而流行起来。 欢迎提供反馈，我是一名独立开发者，所以只有我一个人构建了这个应用程序，而不是整个团队。  https://preview.redd.it/dtoardyao4sd1.png?width=1900&amp;format=png&amp;auto=webp&amp;s=e4e23d20e317ce28e5faac6bbb9395407b0f0059    提交人    /u/Goldiez_Boi   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ftlhru/clutchgglol_league_of_legends_stats/</guid>
-      <pubDate>Tue, 01 Oct 2024 11:11:55 GMT</pubDate>
+      <title>我为 Google Sheet 模板创建了一个网站</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ftpjop/i_created_a_website_for_google_sheet_templates/</link>
+      <description><![CDATA[我正在构建 Google Sheets 模板，我将在以下网址提供免费和付费版本： www.awesomenewthings.com 我最新的模板是一个全自动订阅跟踪器，您可以在此处预览：订阅跟踪器和一个极简主义的零基础预算跟踪器。    由   提交  /u/themahlas   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ftpjop/i_created_a_website_for_google_sheet_templates/</guid>
+      <pubDate>Tue, 01 Oct 2024 14:32:20 GMT</pubDate>
     </item>
     <item>
-      <title>列出你至少 10 年前为从未做过的副业注册的域名。我先开始。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ftl482/list_a_domain_you_registered_at_least_10_years/</link>
-      <description><![CDATA[让一个 10 年前注册的域名过期太难了。列出您从未使用过的最喜欢的域名，让社区说服您让它过期。我将从第一条评论开始。    由   提交  /u/automationdotre   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ftl482/list_a_domain_you_registered_at_least_10_years/</guid>
-      <pubDate>Tue, 01 Oct 2024 10:48:28 GMT</pubDate>
+      <title>我创建了一个网站来帮助我组织我的人生目标并记住我的经历</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ftpefe/i_made_a_website_to_help_me_to_organize_my_life/</link>
+      <description><![CDATA[        由    /u/_mp_me 提交   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ftpefe/i_made_a_website_to_help_me_to_organize_my_life/</guid>
+      <pubDate>Tue, 01 Oct 2024 14:26:15 GMT</pubDate>
     </item>
     <item>
-      <title>我制作了用于快速制作后端服务原型的工具</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ftkyuh/ive_made_tool_for_rapid_prototyping_of_backend/</link>
-      <description><![CDATA[tldr; 嘲笑或赞扬一种新的开发工具 ;)  抱歉自我宣传，但我认为这对你很有价值。我们许多人使用低代码应用程序来构建简单的 CRUD 应用程序。有时可以用它制作更复杂的解决方案，但真正的游戏规则改变者是 2000 年代的一个古老想法，称为模型驱动开发。 这个想法是只使用业务逻辑编写应用程序，而不必担心技术细节。 虽然这个想法是正确的，但当时不可能创建这种足够高效和简单的解决方案。一些现代的低代码工具与 MDD 模式相关，但仍然存在很多局限性。 我和我的同事创建了这个工具，它介于传统技术和低代码之间，因为所有内容都是用 vscode（纯文本）编写的，但它没有低代码框架强制施加的许多限制。 为什么我认为它对你很有价值？ 仅使用 vscode 和命令行工具（我们称之为 ObjectReef），您需要声明类、它们的属性、操作以及它们之间的关系。您只对业务领域感兴趣，而存储、数据库、缓存、API 控制器等技术细节则由引擎处理。 因此，您可以快速轻松地创建高级后端服务，而无需了解数据库是什么或编写 SQL 查询。 基于类声明，生成数据库 (MySQL) 和 API，您可以将任何前端客户端连接到该数据库。 它有自己的编程语言，即 OOP，但与函数式语言一样具有强烈的声明性。它非常简单易用，因为没有标准库或框架需要学习。该语言本身深受 20 年前 IBM 保险部门发明的语言的启发，非技术人员用它来指定业务规则的复杂性。 多年来，我们一直将其用作内部工具，用于相当大且复杂的项目，因此我们相信一切都运行得相当顺利和高效。 它适用于需要大量处理关系数据和图形数据的地方，即一般的业务应用程序，如 CRM、ERP、HR、项目管理、计费系统等。 众所周知，新技术会引发各种各样的担忧，像我们这样一家不知从何而来的车库公司并不能增加可信度，但如果您下载、安装、查看并分享您的意见，我将非常高兴。 我认为 ObjectReef 非常适合原型设计和快速 MVP 执行，对于自托管选项，您可以免费使用它。 我会感谢您提供的任何反馈。您可以嘲笑它。我对您可能有的任何疑问或担忧持开放态度。  您觉得如何？    由   提交  /u/AmbassadorAny4376   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ftkyuh/ive_made_tool_for_rapid_prototyping_of_backend/</guid>
-      <pubDate>Tue, 01 Oct 2024 10:38:42 GMT</pubDate>
+      <title>电子邮件管理：交易 / 回复 / 营销。哪种工具最好用？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ftpbid/email_management_transactional_replies_marketing/</link>
+      <description><![CDATA[是否有一个免费或便宜的一体化平台来：  轻松管理多个域/帐户 发送自动交易电子邮件 发送营销活动 管理回复     提交人    /u/journey_is_everythin   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ftpbid/email_management_transactional_replies_marketing/</guid>
+      <pubDate>Tue, 01 Oct 2024 14:22:41 GMT</pubDate>
     </item>
     <item>
-      <title>我向 MNDXT 添加了提示片段，这样你就不会患上肌腱炎📝- 烤它！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ftkh50/i_added_prompt_snippets_to_mndxt_so_you_dont_get/</link>
-      <description><![CDATA[      https://preview.redd.it/yo3g66rla4sd1.jpg?width=400&amp;format=pjpg&amp;auto=webp&amp;s=e2dc647d307f1c3446e22f362f5bca269a717896 嘿，兼职的伙伴们 :) 白天我是一名 Android 自由职业者，但晚上我从事MNDXT 🦇🚀 我最新发布的版本包含一项功能，它确实有助于大幅减少移动设备上的打字和编辑提示 -&gt;（支持模板的）提示片段！🤯 片段允许您将您或您的 AI 伴侣编写的任何消息转换为可重复使用的提示，该提示也可以填充占位符。如果您有长而复杂的提示想要适应不同的场合，或者您想要生成相似但不相同的图像或文本，这将特别有用。 例子？ &quot;一片迷人的森林，一只雄伟的 %%animal%% 位于 %%type of plants%% 森林中间。斑驳的阳光透过树冠照亮它，营造出神奇而迷人的氛围。&quot;  -&gt;  https://preview.redd.it/g4atc49pb4sd1.png?width=1080&amp;format=png&amp;auto=webp&amp;s=2d2f0ab217a06b01b7f202f121fafde57d8298fd https://preview.redd.it/hvsphpd8b4sd1.png?width=1024&amp;format=png&amp;auto=webp&amp;s=069c7e1e57998f898a5ef3b23de861a0d5b9cda9 https://preview.redd.it/eruzsmd8b4sd1.png?width=1024&amp;format=png&amp;auto=webp&amp;s=887bd4ebdc4f26b3e0ad16e715c03ff16bf8fb9c 那么，您觉得如何？哪些方面可以改进？这对您有用吗？您可以通过 www.mndxt.app 免费试用     提交人    /u/70B3   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ftkh50/i_added_prompt_snippets_to_mndxt_so_you_dont_get/</guid>
-      <pubDate>Tue, 01 Oct 2024 10:04:56 GMT</pubDate>
+      <title>Tailwind CSS 喜欢</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ftougv/tailwind_css_like/</link>
+      <description><![CDATA[我想创建一个简单的 JavaScript 文件，可以像 Tailwind CSS 一样动态应用样式，这就是我创建的 Tailwind-Like (sysinfocus.github.io)。 在此处查看此 repo：Sysinfocus/TailwindLike：受 Tailwind CSS (github.com) 启发的简单实现 它不是完美的东西，但我猜思维过程与 Tailwind CSS 相同。你怎么看？    提交人    /u/Electronic_Oven3518   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ftougv/tailwind_css_like/</guid>
+      <pubDate>Tue, 01 Oct 2024 14:01:59 GMT</pubDate>
     </item>
     <item>
-      <title>免费网站，可帮助您找到在 Reddit 上发布帖子的最佳时间</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ftkb63/free_website_that_helps_you_find_the_best_time_to/</link>
-      <description><![CDATA[        提交人    /u/notomarsol   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ftkb63/free_website_that_helps_you_find_the_best_time_to/</guid>
-      <pubDate>Tue, 01 Oct 2024 09:53:06 GMT</pubDate>
+      <title>我正在出售我的 SaaS</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ftoth0/i_am_selling_my_saas/</link>
+      <description><![CDATA[大家好，Reddit 社区，我是一名自由职业营销人员，今年早些时候开始构建 SaaS。这个想法是在 D7 Leadfinder 关闭其联盟计划时产生的，这对我来说是一笔不错的副业收入。因此，我决定构建一个竞争对手。该项目目前处于最后阶段，在没有任何重大营销的情况下获得了第一批用户。 不幸的是，我的家人患了重病，我需要将注意力集中在那里，所以我将退出这个 SaaS 项目。也许有人有兴趣购买它。 SaaS 是一种潜在客户抓取和数据丰富工具。我们从提供商处购买搜索引擎/地图结果，然后定制的抓取工具扫描网站上的技术（目前是 WordPress、Shopify、Google Analytics、Meta Tags）。付款通过 LemonSqueezy（Stripe 公司）处理，所有订阅信息均通过 webhook 传递，因此用户管理完全自动化。 理论上，一切都已准备好接管 - 剩下的就是客户获取。 出售后，我会转移所有内容，但需要设置和链接一个新的 LemonSqueezy 帐户。我的开发人员可以提供帮助，我会将新 LemonSqueezy 帐户的集成作为交易的一部分。 到目前为止，我已经投资了大约 5,000 美元（开发成本和工具）。理想情况下，我想收回这笔钱，尽管我意识到这可能并不完全现实。 持续成本：  托管后端的 Strato 服务器：每月 18 美元 数据提供商：每个地图结果页面 0.002 美元。  如果您继续使用 LemonSqueezy，利润率（收入 - 成本 - 支付处理费）约为 88％（50％的成本来自 LemonSqueezy）。 该网站也可以完全转让：plentiful-leads.com 如果您有任何疑问或感兴趣，请随时给我发私信。    提交人    /u/LegitimateUse9071   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ftoth0/i_am_selling_my_saas/</guid>
+      <pubDate>Tue, 01 Oct 2024 14:00:57 GMT</pubDate>
     </item>
     <item>
-      <title>我们已经制作了第一个原型！接下来该怎么做？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ftk74v/we_have_built_our_first_prototype_how_can_we/</link>
-      <description><![CDATA[大家好！ 我很高兴与大家分享 Home-mate，这是我和朋友一直在进行的业余项目！这是一款应用程序，可帮助您和您的朋友、室友或伴侣通过滑动浏览建议来一起选择家具。您可以设置偏好、滑动、保存和比较选择，从而让集体决策变得非常简单。此外，该应用程序会随着时间的推移使用人工智能学习您的风格，因此推荐会随着您的使用而变得更好！ 我们已经构建了一个原型，希望您能查看并帮助我们继续进行。注册的前 200 名测试人员在应用程序上线时可获得独家折扣。我们也希望您参与我们在原型区域的调查，以塑造应用程序的未来。 此外...我们不知道该如何进行。我们试图找出它是否有用，然后呢？我们非常感谢您的意见或指导。    提交人    /u/Just-Stop-2351   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ftk74v/we_have_built_our_first_prototype_how_can_we/</guid>
-      <pubDate>Tue, 01 Oct 2024 09:45:00 GMT</pubDate>
+      <title>100% AI 无代码开发——几分钟内即可添加情感分析功能！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ftornr/100_ai_no_code_development_sentiment_analysis/</link>
+      <description><![CDATA[        由    /u/mike_russell 提交   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ftornr/100_ai_no_code_development_sentiment_analysis/</guid>
+      <pubDate>Tue, 01 Oct 2024 13:58:46 GMT</pubDate>
     </item>
     <item>
-      <title>寻找反应启动器</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ftjxog/looking_for_a_react_starter/</link>
-      <description><![CDATA[大家好，我正在寻找一个带有空白索引页、身份验证、一个 crud 页面和订阅页面的 React 前端启动器。只有前端，我想自己构建后端，请~    提交人    /u/achaayb   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ftjxog/looking_for_a_react_starter/</guid>
-      <pubDate>Tue, 01 Oct 2024 09:25:41 GMT</pubDate>
+      <title>您对 AI 消息编写器感兴趣吗？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fto76s/would_you_be_interested_in_ai_message_writer/</link>
+      <description><![CDATA[ChatGPT 为我们做了很多事情，让很多事情变得非常简单。特别是在编写工作邮件或专业消息时。不过，我听到很多人抱怨 ChatGPT 生成的消息俗气、过于正式、太长，而且根本不切实际。所以我想，一个人工智能机器人（ChatGPT API）可以帮助很多人，你只需输入一些输入（例如“给经理的工作邮件……请求提前下班许可”），它就会生成一个完美的输出，因为提示更好。 这会对人们有所帮助吗？你怎么看？    提交人    /u/Elfi309   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fto76s/would_you_be_interested_in_ai_message_writer/</guid>
+      <pubDate>Tue, 01 Oct 2024 13:32:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
