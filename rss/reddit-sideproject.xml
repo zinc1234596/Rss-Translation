@@ -4,111 +4,111 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Tue, 01 Oct 2024 09:16:37 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Oct 2024 12:30:28 GMT</lastBuildDate>
     <item>
-      <title>收入栏-菜单栏中的 RevenueCat 仪表板。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ftjgns/revenue_bar_dashboard_for_revenuecat_in_the_menu/</link>
-      <description><![CDATA[大家好！ 我是一名独立应用开发者，在我的应用中使用 RevenueCat。我有一个奇怪的习惯，就是经常检查他们的仪表盘。我相信很多开发者也一样！ 我认为不可能完全避免这种情况，所以我构建了这个应用来优化它。只需单击一下即可打开仪表盘。 它在 Mac App Store 上可用，您可以免费添加一个项目，然后只需花费 5.99 美元一次性终身购买。 它也是 GitHub 上的开源。查看并留下一颗星。 要登录，您不需要使用您的完整凭据。相反，创建一个具有有限范围的只读密钥。应用程序中提供了分步指南。 希望你觉得它有用 链接到 Mac App Store：https://apps.apple.com/dk/app/revenuebar-revenue-in-menu-bar/id6677045564?mt=12 链接到 GitHub：https://github.com/endore8/revenuebar-macos 谢谢你的关注！    提交人    /u/Endore8   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ftjgns/revenue_bar_dashboard_for_revenuecat_in_the_menu/</guid>
-      <pubDate>Tue, 01 Oct 2024 08:50:25 GMT</pubDate>
+      <title>未集成 AI 的 SaaS</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ftmvni/saas_without_ai_integration/</link>
+      <description><![CDATA[现在真的有可能在不集成 AI 的情况下创建出色的 SaaS 项目吗？    提交人    /u/bing777x   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ftmvni/saas_without_ai_integration/</guid>
+      <pubDate>Tue, 01 Oct 2024 12:29:56 GMT</pubDate>
     </item>
     <item>
-      <title>将 AI 语音小部件添加到任何 Webflow 页面的教程 < 5 分钟</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ftj7o1/tutorial_to_add_ai_voice_widget_onto_any_webflow/</link>
-      <description><![CDATA[        由    /u/Dull_Resolution2488   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ftj7o1/tutorial_to_add_ai_voice_widget_onto_any_webflow/</guid>
-      <pubDate>Tue, 01 Oct 2024 08:30:28 GMT</pubDate>
+      <title>我创建了 NotyTalkie – 一个用于记录笔记并将转录内容转换为不同格式的工具。寻求反馈和见解！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ftmvfq/i_built_notytalkie_a_tool_for_recording_notes_and/</link>
+      <description><![CDATA[大家好。我很高兴与大家分享我一直在做的一个项目，叫做 NotyTalkie。这是一个旨在让笔记记录更轻松、更高效的工具，它允许用户录制语音笔记并将这些转录转换为不同的格式。我很乐意就以下几点听取您的反馈：1. 您目前是否使用过类似的工具？如果是，您使用什么工具以及用于什么特定目的？2. 您认为此类工具的哪些功能最有用？无论是高级转录格式还是集成，我都很乐意听听您的想法。3. 在记录和管理笔记时，您面临哪些痛点？4. 如果您有兴趣尝试，我很乐意为您提供更好的访问权限，并从真实用户那里获得更详细的反馈。谢谢。祝你有美好的一天。 ![video]() ![video]()    由   提交  /u/No_Meal_5320   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ftmvfq/i_built_notytalkie_a_tool_for_recording_notes_and/</guid>
+      <pubDate>Tue, 01 Oct 2024 12:29:37 GMT</pubDate>
     </item>
     <item>
-      <title>分享你的业余项目，寻找其他正在从事该项目的人</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ftj45o/share_your_side_project_find_others_working_on_it/</link>
-      <description><![CDATA[https://rantgpt.com/    由    /u/xspaceofgold 提交   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ftj45o/share_your_side_project_find_others_working_on_it/</guid>
-      <pubDate>Tue, 01 Oct 2024 08:23:10 GMT</pubDate>
+      <title>我已经建立了我的第一个项目：食谱规划/管理应用程序和购物清单生成器</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ftms1m/ive_built_my_first_project_a_recipe/</link>
+      <description><![CDATA[      我已经建立了我的第一个项目：一个食谱计划/管理应用程序和购物清单生成器。你怎么看？ 简单来说，我是一名学生，在计划一周的饭菜和购物方面遇到了困难。所以，我建立了这个网络应用程序。我首先尝试使用 Tandoor（自托管），但感觉很慢，所以，像任何其他理智的人一样，我决定从头开始重建它，并添加我喜欢的功能： - 管理食谱 - 添加标签 - 计划一周的饭菜 - 计算所需的配料 - 创建购物清单 它使用起来更容易。 如果您想尝试一下 -&gt; https://planmymeals.ch    提交人    /u/Oxmas   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ftms1m/ive_built_my_first_project_a_recipe/</guid>
+      <pubDate>Tue, 01 Oct 2024 12:24:39 GMT</pubDate>
     </item>
     <item>
-      <title>我建立了一个工具来帮助你推出你的产品并跟踪它们</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ftiks6/i_built_a_tool_to_help_you_launch_your_products/</link>
-      <description><![CDATA[       由    /u/Sensiduct  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ftiks6/i_built_a_tool_to_help_you_launch_your_products/</guid>
-      <pubDate>Tue, 01 Oct 2024 07:42:41 GMT</pubDate>
+      <title>全新每日单词挑战游戏 - WordSegments</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ftmn1j/a_new_daily_word_challenge_game_wordsegments/</link>
+      <description><![CDATA[今天我发布了我的最新项目 WordSegments。 使用 WordSegments，您需要在 6 次猜测内猜出一个 5 个字母的单词。 每次猜测之后，每个字母的正确和不正确的部分都会突出显示，您可以使用它们来指导您找到正确的字母和单词。 如果您有兴趣，请尝试一下。 wordsegments.com    提交人    /u/mwestapps   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ftmn1j/a_new_daily_word_challenge_game_wordsegments/</guid>
+      <pubDate>Tue, 01 Oct 2024 12:17:12 GMT</pubDate>
     </item>
     <item>
-      <title>动态链接替换服务</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ftii52/dynamic_links_replacement_service/</link>
-      <description><![CDATA[一段时间以来，我一直在研究开源 Firebase Dynamic Links 替代方案，因为当前的方案将于 2025 年关闭。 该服务非常精简，提供了最重要的功能以及一些分析功能和一个用于交互的快速 API。 您可以在这里查看：https://github.com/AmoabaKelvin/directt.to    提交人    /u/kamoaba   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ftii52/dynamic_links_replacement_service/</guid>
-      <pubDate>Tue, 01 Oct 2024 07:36:56 GMT</pubDate>
+      <title>我创建了一个内容货币化平台</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ftmbcm/i_made_a_platform_for_content_monetization/</link>
+      <description><![CDATA[也是 Z 世代喜爱的平台。目前正在寻找可以建议或收购它的人。我正在从事一些其他必须关注的项目。     提交人    /u/Hungry-Scholar2022   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ftmbcm/i_made_a_platform_for_content_monetization/</guid>
+      <pubDate>Tue, 01 Oct 2024 11:59:51 GMT</pubDate>
     </item>
     <item>
-      <title>寻求对我的第一个候补名单页面的反馈</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ftihwh/looking_for_a_feedback_on_my_first_waitlist_page/</link>
-      <description><![CDATA[我最近为即将推出的副项目启动了一个候补名单。 我正在开展一个令人兴奋的项目，名为 Mixer Wizard - https://mixerwizard.com ，这是一款即将推出的 AI 鸡尾酒助手。我们目前处于开发阶段，并已设置了早期访问的候补名单。我很乐意在我们的候补名单页面上收到您的反馈！ Mixer Wizard 的目标是：  根据您拥有的食材推荐鸡尾酒配方 提供分步混合说明 为场合创建菜单。 允许您保存最喜欢的食谱  您的见解对于完善我们的候补名单页面和确保我们给人留下良好的第一印象将非常有价值。 提前感谢您的时间和反馈！如果你喜欢，你可以烤 :-) 干杯！🍹    提交人    /u/ShrihariMurali   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ftihwh/looking_for_a_feedback_on_my_first_waitlist_page/</guid>
-      <pubDate>Tue, 01 Oct 2024 07:36:20 GMT</pubDate>
+      <title>我制作了一个将数据转换成动画图表的应用程序</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ftm6cu/i_made_an_app_that_turns_data_into_animated_graphs/</link>
+      <description><![CDATA[        由    /u/jimjez  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ftm6cu/i_made_an_app_that_turns_data_into_animated_graphs/</guid>
+      <pubDate>Tue, 01 Oct 2024 11:52:00 GMT</pubDate>
     </item>
     <item>
-      <title>我的解决方案是将 ChatGPT 中的内容粘贴到 word 或 google docs 中，而不会丢失格式</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ftiec9/my_solution_to_paste_from_chatgpt_into_word_or/</link>
-      <description><![CDATA[        提交人    /u/jayasurya_j   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ftiec9/my_solution_to_paste_from_chatgpt_into_word_or/</guid>
-      <pubDate>Tue, 01 Oct 2024 07:28:41 GMT</pubDate>
+      <title>v0.dev 但用于登陆页面</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ftlv1p/v0dev_but_for_landing_pages/</link>
+      <description><![CDATA[我相信我们都同意 v0.dev 很棒，但它缺乏设计能力。我正在构建一个 AI 工具，帮助 SaaS 创始人使用 shadcn ui 和 Magic UI 创建美观的登录页面。 请随时查看并让我知道您的想法： https://www.surgepages.com/    提交人    /u/OndrejBartos   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ftlv1p/v0dev_but_for_landing_pages/</guid>
+      <pubDate>Tue, 01 Oct 2024 11:34:06 GMT</pubDate>
     </item>
     <item>
-      <title>无需证书即可安装 scarlet#</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fti65u/install_scarlet_without_certificatte/</link>
-      <description><![CDATA[https://www.reddit.com/r/de/comments/1fti5qy/how_install_scarlet_without_certifivates_ios/?utm_source=share&amp;utm_medium=web3x&amp;utm_name=web3xcss&amp;utm_term=1&amp;utm_content=share_button    提交人    /u/Agreeable-Teacher212   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fti65u/install_scarlet_without_certificatte/</guid>
-      <pubDate>Tue, 01 Oct 2024 07:11:41 GMT</pubDate>
+      <title>没有什么特别简单的网页，里面有给正在经历困难时期的人们鼓舞人心的信息</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ftls0c/nothing_fancy_simple_webpage_with_uplifting/</link>
+      <description><![CDATA[https://healmyheart.online 如果这对某人有帮助，我很高兴。祝你有美好的一天    由   提交  /u/conianz   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ftls0c/nothing_fancy_simple_webpage_with_uplifting/</guid>
+      <pubDate>Tue, 01 Oct 2024 11:29:03 GMT</pubDate>
     </item>
     <item>
-      <title>副项目</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fti5ms/side_projects/</link>
-      <description><![CDATA[任何有兴趣从事业余项目的开发人员......都有一个有趣的想法，这个想法很有潜力。  Space 是 HR Tech    提交人    /u/Snoo81938   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fti5ms/side_projects/</guid>
-      <pubDate>Tue, 01 Oct 2024 07:10:36 GMT</pubDate>
+      <title>CLUTCHGG.LOL - 英雄联盟统计数据</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ftlhru/clutchgglol_league_of_legends_stats/</link>
+      <description><![CDATA[      ClutchGG.LOL 是一款全新的深度英雄联盟玩家追踪器，包含个人资料、现场比赛、排名统计、比赛历史和比赛详情以及排行榜适用于任何地区。 这开始是一个使用 Riot API 的小型附带项目，但很快就作为其他竞争对手的轻量级替代品而流行起来。 欢迎提供反馈，我是一名独立开发者，所以只有我一个人构建了这个应用程序，而不是整个团队。  https://preview.redd.it/dtoardyao4sd1.png?width=1900&amp;format=png&amp;auto=webp&amp;s=e4e23d20e317ce28e5faac6bbb9395407b0f0059    提交人    /u/Goldiez_Boi   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ftlhru/clutchgglol_league_of_legends_stats/</guid>
+      <pubDate>Tue, 01 Oct 2024 11:11:55 GMT</pubDate>
     </item>
     <item>
-      <title>简单的产品目录</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fti5l4/a_simple_product_directory/</link>
-      <description><![CDATA[      https://preview.redd.it/vvf1la93h3sd1.png?width=1890&amp;format=png&amp;auto=webp&amp;s=ddcbc3e87febac38b319ea0c2cf45280dd1b06ee 最近我看到很多新的目录出现，如果人们为此付费的唯一原因是为了获得 do follow 反向链接，那么为什么还要首先创建目录，目录的作用是帮助用户找到新产品，而不是为产品提供 dofollow 链接。  如果您想要一个可直接将用户带到您网站的 do follow 链接，那么我制作了一个类似于 20 年前流行的东西，百万美元主页的较小版本，但它只有 1000 个位置，因为我不能也不想处理这种规模。 目前我的域名的 DR 是 5，在一两周内它将达到两位数，因此如果您只想要一个反向链接和一些网站访问者，那么请将您的产品提交到下面的链接，费用为 10 美元（一次性费用）。 https://sickrate.vercel.app/ 我的网站流量一直很好，这是过去 30 天的流量截图。 https://preview.redd.it/ki3dwhc4h3sd1.png?width=1022&amp;format=png&amp;auto=webp&amp;s=3204b100459f99cbda817272fe0f31c44ca19c8c    提交人    /u/mediocre_man_online   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fti5l4/a_simple_product_directory/</guid>
-      <pubDate>Tue, 01 Oct 2024 07:10:30 GMT</pubDate>
+      <title>列出你至少 10 年前为从未做过的副业注册的域名。我先开始。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ftl482/list_a_domain_you_registered_at_least_10_years/</link>
+      <description><![CDATA[让一个 10 年前注册的域名过期太难了。列出您从未使用过的最喜欢的域名，让社区说服您让它过期。我将从第一条评论开始。    由   提交  /u/automationdotre   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ftl482/list_a_domain_you_registered_at_least_10_years/</guid>
+      <pubDate>Tue, 01 Oct 2024 10:48:28 GMT</pubDate>
     </item>
     <item>
-      <title>反馈</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fti5e9/feedback/</link>
-      <description><![CDATA[Steviepens.com 欢迎对我的网店提供反馈。从布局和设计到产品、价格和设计    由    /u/Stevie_pens 提交   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fti5e9/feedback/</guid>
-      <pubDate>Tue, 01 Oct 2024 07:10:08 GMT</pubDate>
+      <title>我制作了用于快速制作后端服务原型的工具</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ftkyuh/ive_made_tool_for_rapid_prototyping_of_backend/</link>
+      <description><![CDATA[tldr; 嘲笑或赞扬一种新的开发工具 ;)  抱歉自我宣传，但我认为这对你很有价值。我们许多人使用低代码应用程序来构建简单的 CRUD 应用程序。有时可以用它制作更复杂的解决方案，但真正的游戏规则改变者是 2000 年代的一个古老想法，称为模型驱动开发。 这个想法是只使用业务逻辑编写应用程序，而不必担心技术细节。 虽然这个想法是正确的，但当时不可能创建这种足够高效和简单的解决方案。一些现代的低代码工具与 MDD 模式相关，但仍然存在很多局限性。 我和我的同事创建了这个工具，它介于传统技术和低代码之间，因为所有内容都是用 vscode（纯文本）编写的，但它没有低代码框架强制施加的许多限制。 为什么我认为它对你很有价值？ 仅使用 vscode 和命令行工具（我们称之为 ObjectReef），您需要声明类、它们的属性、操作以及它们之间的关系。您只对业务领域感兴趣，而存储、数据库、缓存、API 控制器等技术细节则由引擎处理。 因此，您可以快速轻松地创建高级后端服务，而无需了解数据库是什么或编写 SQL 查询。 基于类声明，生成数据库 (MySQL) 和 API，您可以将任何前端客户端连接到该数据库。 它有自己的编程语言，即 OOP，但与函数式语言一样具有强烈的声明性。它非常简单易用，因为没有标准库或框架需要学习。该语言本身深受 20 年前 IBM 保险部门发明的语言的启发，非技术人员用它来指定业务规则的复杂性。 多年来，我们一直将其用作内部工具，用于相当大且复杂的项目，因此我们相信一切都运行得相当顺利和高效。 它适用于需要大量处理关系数据和图形数据的地方，即一般的业务应用程序，如 CRM、ERP、HR、项目管理、计费系统等。 众所周知，新技术会引发各种各样的担忧，像我们这样一家不知从何而来的车库公司并不能增加可信度，但如果您下载、安装、查看并分享您的意见，我将非常高兴。 我认为 ObjectReef 非常适合原型设计和快速 MVP 执行，对于自托管选项，您可以免费使用它。 我会感谢您提供的任何反馈。您可以嘲笑它。我对您可能有的任何疑问或担忧持开放态度。  您觉得如何？    由   提交  /u/AmbassadorAny4376   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ftkyuh/ive_made_tool_for_rapid_prototyping_of_backend/</guid>
+      <pubDate>Tue, 01 Oct 2024 10:38:42 GMT</pubDate>
     </item>
     <item>
-      <title>Quasar Prime 管理模板（Quasar 2/Vue 3 - Typescript 和 Javascript 两个版本）</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fthbq0/quasar_prime_admin_template_quasar_2vue_3/</link>
-      <description><![CDATA[      Quasar Prime 管理模板简介 — 强大而优雅的终极解决方案仪表板！ 所包含的主要功能如下。  开发人员友好且高度可定制 轻松实现优质应用程序 即用型模板 多个仪表板 CRM 仪表板 电子商务仪表板 分析仪表板  全局暗模式 免费终身更新  如果您有任何疑问，可以写信给我 [mayank091193@gmail.com](mailto:mayank091193@gmail.com) 电子商务仪表板 CRM 仪表板 分析仪表板 用户资料 电子邮件    提交人    /u/mayank091193   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fthbq0/quasar_prime_admin_template_quasar_2vue_3/</guid>
-      <pubDate>Tue, 01 Oct 2024 06:10:05 GMT</pubDate>
+      <title>我向 MNDXT 添加了提示片段，这样你就不会患上肌腱炎📝- 烤它！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ftkh50/i_added_prompt_snippets_to_mndxt_so_you_dont_get/</link>
+      <description><![CDATA[      https://preview.redd.it/yo3g66rla4sd1.jpg?width=400&amp;format=pjpg&amp;auto=webp&amp;s=e2dc647d307f1c3446e22f362f5bca269a717896 嘿，兼职的伙伴们 :) 白天我是一名 Android 自由职业者，但晚上我从事MNDXT 🦇🚀 我最新发布的版本包含一项功能，它确实有助于大幅减少移动设备上的打字和编辑提示 -&gt;（支持模板的）提示片段！🤯 片段允许您将您或您的 AI 伴侣编写的任何消息转换为可重复使用的提示，该提示也可以填充占位符。如果您有长而复杂的提示想要适应不同的场合，或者您想要生成相似但不相同的图像或文本，这将特别有用。 例子？ &quot;一片迷人的森林，一只雄伟的 %%animal%% 位于 %%type of plants%% 森林中间。斑驳的阳光透过树冠照亮它，营造出神奇而迷人的氛围。&quot;  -&gt;  https://preview.redd.it/g4atc49pb4sd1.png?width=1080&amp;format=png&amp;auto=webp&amp;s=2d2f0ab217a06b01b7f202f121fafde57d8298fd https://preview.redd.it/hvsphpd8b4sd1.png?width=1024&amp;format=png&amp;auto=webp&amp;s=069c7e1e57998f898a5ef3b23de861a0d5b9cda9 https://preview.redd.it/eruzsmd8b4sd1.png?width=1024&amp;format=png&amp;auto=webp&amp;s=887bd4ebdc4f26b3e0ad16e715c03ff16bf8fb9c 那么，您觉得如何？哪些方面可以改进？这对您有用吗？您可以通过 www.mndxt.app 免费试用     提交人    /u/70B3   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ftkh50/i_added_prompt_snippets_to_mndxt_so_you_dont_get/</guid>
+      <pubDate>Tue, 01 Oct 2024 10:04:56 GMT</pubDate>
     </item>
     <item>
-      <title>使用 Mayze.io 营销仪表板解锁数据驱动的决策</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fth2q6/unlock_datadriven_decision_making_with_mayzeio/</link>
-      <description><![CDATA[该工具可证明您的营销活动是否对您的业务产生了影响。 使用 Mayze，您可以：🔗 所有营销数据都集中在一个地方📊 实时获取营销统计数据和 KPI✨ 证明您的营销活动产生了影响 1 - 聚合 Mayze 首先通过 API 聚合您的营销数据：网站、Linkedin、SEO、数据管理器上的电子邮件。 2 - 仪表板 连接后，您可以在每月仪表板上实时查看所有数据。 3 - 营销影响 最后，在您的 MagicGraph 上，您可以将数据与历史营销活动关联起来，这样您就可以一目了然地看到它们的影响。 当前可用的连接：• Google Analytics 4 • Google Search Console • Linkedin • Hubspot • ActiveCampaign • Brevo • Mailchimp 单击链接注册：mayze.io    由   提交  /u/Sufficient-Can7031   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fth2q6/unlock_datadriven_decision_making_with_mayzeio/</guid>
-      <pubDate>Tue, 01 Oct 2024 05:53:37 GMT</pubDate>
+      <title>免费网站，可帮助您找到在 Reddit 上发布帖子的最佳时间</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ftkb63/free_website_that_helps_you_find_the_best_time_to/</link>
+      <description><![CDATA[        提交人    /u/notomarsol   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ftkb63/free_website_that_helps_you_find_the_best_time_to/</guid>
+      <pubDate>Tue, 01 Oct 2024 09:53:06 GMT</pubDate>
     </item>
     <item>
-      <title>为约会应用程序吸引用户。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fth0wq/gaining_user_for_a_dating_app/</link>
-      <description><![CDATA[大家好，我即将发布我的约会应用程序。由于拥有在线用户非常关键，也是约会应用程序成功的关键因素，因此除了推广之外，我需要有关如何获得用户的建议。您可能知道，约会应用程序特别需要女性用户，因此任何建议都将不胜感激。谢谢。    提交人    /u/sscoderr   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fth0wq/gaining_user_for_a_dating_app/</guid>
-      <pubDate>Tue, 01 Oct 2024 05:50:15 GMT</pubDate>
+      <title>我们已经制作了第一个原型！接下来该怎么做？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ftk74v/we_have_built_our_first_prototype_how_can_we/</link>
+      <description><![CDATA[大家好！ 我很高兴与大家分享 Home-mate，这是我和朋友一直在进行的业余项目！这是一款应用程序，可帮助您和您的朋友、室友或伴侣通过滑动浏览建议来一起选择家具。您可以设置偏好、滑动、保存和比较选择，从而让集体决策变得非常简单。此外，该应用程序会随着时间的推移使用人工智能学习您的风格，因此推荐会随着您的使用而变得更好！ 我们已经构建了一个原型，希望您能查看并帮助我们继续进行。注册的前 200 名测试人员在应用程序上线时可获得独家折扣。我们也希望您参与我们在原型区域的调查，以塑造应用程序的未来。 此外...我们不知道该如何进行。我们试图找出它是否有用，然后呢？我们非常感谢您的意见或指导。    提交人    /u/Just-Stop-2351   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ftk74v/we_have_built_our_first_prototype_how_can_we/</guid>
+      <pubDate>Tue, 01 Oct 2024 09:45:00 GMT</pubDate>
     </item>
     <item>
-      <title>我的第一个网站！AI 礼品创意</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ftgjmq/my_first_website_ever_ai_gift_ideas/</link>
-      <description><![CDATA[大家好！ 我刚刚推出了我的第一个网站，我想与大家分享。这是一个基本礼品创意生成器，它使用ChatGPT 的 API和Amazon根据您输入的信息（如兴趣、年龄或预算）提供个性化建议。 它非常简单：  您只需要在“兴趣”字段中输入一些内容（其他所有内容都是可选的）。 它将生成礼品创意并链接到亚马逊上的相关产品。全面披露：这些链接是亚马逊联盟链接，我不指望从中赚钱，只是想看看效果如何！  我还在边学边做，所以我很乐意听到任何反馈或建议。随意尝试一下吧！ https://ai-giftideas.com    提交人    /u/Sharks1008   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ftgjmq/my_first_website_ever_ai_gift_ideas/</guid>
-      <pubDate>Tue, 01 Oct 2024 05:18:52 GMT</pubDate>
+      <title>寻找反应启动器</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1ftjxog/looking_for_a_react_starter/</link>
+      <description><![CDATA[大家好，我正在寻找一个带有空白索引页、身份验证、一个 crud 页面和订阅页面的 React 前端启动器。只有前端，我想自己构建后端，请~    提交人    /u/achaayb   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1ftjxog/looking_for_a_react_starter/</guid>
+      <pubDate>Tue, 01 Oct 2024 09:25:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
