@@ -4,111 +4,111 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Wed, 02 Oct 2024 18:20:50 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Oct 2024 21:15:52 GMT</lastBuildDate>
     <item>
-      <title>我的副项目已正式启动，可供免费抢先体验，它是一个深度搜索工具，这意味着它可以帮助您根据内容而不是名称查找文件，并且它基于浏览器，因此占用更少的内存，同时速度与桌面应用程序一样快，在某些情况下甚至更快。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fumigs/my_side_project_is_officially_launched_for_free/</link>
-      <description><![CDATA[        提交人    /u/Heavy_Fly_4976   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fumigs/my_side_project_is_officially_launched_for_free/</guid>
-      <pubDate>Wed, 02 Oct 2024 17:54:03 GMT</pubDate>
+      <title>n'seek — 适合和朋友一起在户外玩的游戏</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fuqxjq/nseek_games_for_playing_outside_with_your_friends/</link>
+      <description><![CDATA[大家好，我一直在开发一款 iPhone 应用（名为 n&#39;seek），其灵感来自户外游戏，如捉迷藏、追捕和夺旗。我想让户外游戏感觉像玩电子游戏一样。我刚刚发布了该应用的第一个版本，想听听大家对如何改进它或您希望看到哪些游戏模式的反馈。您可以在此处下载。如果您想加入 TestFlight 的测试版，请发私信。谢谢！    提交人    /u/Adventurous_Wave_478   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fuqxjq/nseek_games_for_playing_outside_with_your_friends/</guid>
+      <pubDate>Wed, 02 Oct 2024 20:59:59 GMT</pubDate>
     </item>
     <item>
-      <title>订阅式视频游戏商店——我的想法</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fumg3c/subscriptionbased_videogame_store_toast_my_idea/</link>
-      <description><![CDATA[没有基于订阅的游戏商店。我知道衡量消费存在技术限制，但它对 GOG 和独立游戏等游戏是可行的。只需将我的月度订阅分成当月我下载/运行的几款游戏，然后向游戏开发者付费即可。    提交人    /u/kiradnotes   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fumg3c/subscriptionbased_videogame_store_toast_my_idea/</guid>
-      <pubDate>Wed, 02 Oct 2024 17:51:23 GMT</pubDate>
+      <title>我创建了一个网站，其中包含 300 多项技巧来吸引付费客户</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fupzcl/i_made_a_website_with_300_hacks_to_get_paying/</link>
+      <description><![CDATA[作为一名初创公司创始人，我经历过提高知名度和扩大受众群体的挑战。经过无数小时的研究和个人尝试，我编写了一份全面的指南，以帮助其他创始人应对创业过程中这一关键方面。 我打电话给了 TheFounderChecklist。 这是一本全面的指南，可帮助初创公司提高知名度和扩大受众群体。  目录：顶级初创公司目录列表，其中包含有关域名权限和每月访问量的详细信息。 Product Hunt 策略：有关如何在 Product Hunt 上成功发布以及它可以带来的好处的提示。 Reddit 子版块：既有容易发布的子版块，也有具有挑战性的子版块，每个子版块都有具体的想法。 IndieHackers 策略：如何有效地分享您的旅程并获得 IH 社区的支持。 出版物和时事通讯：有关在以初创公司为重点的出版物中得到推荐的信息。 Discord 和 Slack 社区：用于交流和反馈的活跃社区列表。 LinkedIn 和Facebook 群组：专业交流和推广的资源。 投资者平台：如何引起潜在投资者的注意。 启动服务：帮助协调您的启动策略的工具。 退出平台：用于规划退出策略的资源。  我专注于提高我的目标网页的转化率，以便更好地服务于找到此资源的创始人。 如果您正在启动您的初创公司，请访问以下网站：TheFounderChecklist.com 非常感谢您对我的网站的任何反馈。谢谢    提交人    /u/Suspicious_Plant_727   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fupzcl/i_made_a_website_with_300_hacks_to_get_paying/</guid>
+      <pubDate>Wed, 02 Oct 2024 20:19:41 GMT</pubDate>
     </item>
     <item>
-      <title>我想知道我的“死”产品值多少钱</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fuls6n/i_wanted_to_know_what_my_dead_products_were_worth/</link>
-      <description><![CDATA[大家好！我已经建了一段时间了，我一直想知道我的没有收入的项目值多少钱。flippa 和 acquire 对尚未盈利的产品的估值并不高，所以我建立了一个人工智能工具，该工具根据之前的微型收购和当今的商业趋势进行训练，以帮助给出估值。希望这可以帮助那些想从 repo 中的项目中找到一些价值的人 :) https://www.swap-ify.com/valuation     提交人    /u/vintinx   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fuls6n/i_wanted_to_know_what_my_dead_products_were_worth/</guid>
-      <pubDate>Wed, 02 Oct 2024 17:23:57 GMT</pubDate>
+      <title>我做了一个愚蠢的点击游戏</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fupqww/i_made_a_stupid_clicker_game/</link>
+      <description><![CDATA[        提交人    /u/TheNewTing   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fupqww/i_made_a_stupid_clicker_game/</guid>
+      <pubDate>Wed, 02 Oct 2024 20:09:43 GMT</pubDate>
     </item>
     <item>
-      <title>ProductHunt 机器人和 LinkedIn 专家</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fulfbo/producthunt_bots_and_linkedin_gurus/</link>
-      <description><![CDATA[大家好！ 今天我和我的朋友在 ProductHunt 上启动了我们的第一个项目，我们没想到那里会有这么多机器人。实际上 50% 的评论都是人工智能生成的，我看到我们的点赞数整天都在上下波动 - 我猜他们被禁止了？这会对我们的曝光率产生负面影响吗？ 此外，在 LinkedIn 上与我们联系并试图向我们出售一些虚假机器人点赞的人数量非常惊人 - 我们两人都至少收到了 10 个报价。这种情况经常发生吗？ 老实说，我们预计 ProductHunt 和 LinkedIn 上的垃圾邮件会少得多。你们有同样的经历吗？ 如果您想查看我们的产品并给我们评论，我们在这里：https://www.producthunt.com/posts/athena-ai    提交人    /u/xivi0n   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fulfbo/producthunt_bots_and_linkedin_gurus/</guid>
-      <pubDate>Wed, 02 Oct 2024 17:09:29 GMT</pubDate>
+      <title>Idk 制作了一个有声读物生成器空间，可以自动生成有声读物 - 每个角色都有不同的声音</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fupqut/idk_made_an_audiobook_generator_space_that/</link>
+      <description><![CDATA[        由    /u/Impossible_Belt_7757   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fupqut/idk_made_an_audiobook_generator_space_that/</guid>
+      <pubDate>Wed, 02 Oct 2024 20:09:40 GMT</pubDate>
     </item>
     <item>
-      <title>我创建了一个基于 Flask 的博客应用程序，它具有大量功能！🔥</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fuldkt/i_created_a_flaskbased_blog_app_with_tons_of/</link>
-      <description><![CDATA[      大家好！ 我只是想分享一个我一直在做的有趣的小项目 - FlaskBlog！这是一款使用 Flask 构建的简单但功能强大的博客应用程序。 📝 它有什么酷的地方？  用于管理帖子的管理面板 明暗模式（因为谁不喜欢暗模式？） 带有个人资料图片的自定义用户个人资料 Google reCAPTCHA v3 可防止机器人入侵 Docker 支持，可轻松部署 多语言支持：🇬🇧 英语、🇹🇷 土耳其语、🇩🇪 德语、🇪🇸 西班牙语、🇵🇱 波兰语、🇫🇷 法语、🇵🇹 葡萄牙语、🇺🇦 Українська、🇷🇺 使用 TailwindCSS 进行移动友好设计 帖子类别、创建、编辑等等！ 通过 X（以前称为 Twitter）直接分享帖子 使用 Playwright 自动进行基本测试 所有帖子和评论的时区感知 发布横幅以获取更具吸引力的内容 在主页上轻松对帖子进行排序 具有多级日志的详细日志记录系统 安全的 SQL 连接和防 SQL 注入保护 包含示例数据（用户、帖子、评论）以便于测试  您只需几个步骤即可查看、克隆并运行它。我在构建过程中学到了很多东西，我为它的结果感到非常自豪！如果您喜欢 Flask 或只是在寻找一个简单的博客模板，请随意尝试一下。 很高兴听到您的反馈，如果您喜欢它，请不要忘记在 GitHub 上留下⭐。😊 🔗 GitHub Repo 📽️ 预览视频 感谢您的关注！ https://preview.redd.it/ifbj59xjkdsd1.png?width=4103&amp;format=png&amp;auto=webp&amp;s=a561d4d01995e227d603112a32df0b6f4f12897b 深色 UI    提交人    /u/dogukanurker   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fuldkt/i_created_a_flaskbased_blog_app_with_tons_of/</guid>
-      <pubDate>Wed, 02 Oct 2024 17:07:33 GMT</pubDate>
+      <title>一周内构建简单的屏幕时间应用程序</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fupqn4/build_simple_screen_time_app_in_a_week/</link>
+      <description><![CDATA[大家好！ 在意识到自己在手机上浪费了多少时间后，我花了一周时间开发了 ScreenBuddy。 这款应用可以帮助您了解如果减少屏幕时间可以实现什么目标，并提供一些小技巧让您保持正轨。 我希望您能查看并分享任何反馈 — 想法、设计思路，或者它是否可以为您提供帮助！ 在这里试试： screenbuddy.app 谢谢帮助    提交人    /u/Absinthko   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fupqn4/build_simple_screen_time_app_in_a_week/</guid>
+      <pubDate>Wed, 02 Oct 2024 20:09:24 GMT</pubDate>
     </item>
     <item>
-      <title>使用人工智能制作听起来自然的播客</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fulcgu/natural_sounding_podcasts_using_ai/</link>
-      <description><![CDATA[首先检查此示例：https://motyar.info/podcast/4Z8E 您可以在 https://motyar.info/podcast/ 构建自己的 https://motyar.info/podcast/ 我正在寻找反馈，我们如何改进它？ 我应该将其作为产品推出吗？    提交人    /u/motyar   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fulcgu/natural_sounding_podcasts_using_ai/</guid>
-      <pubDate>Wed, 02 Oct 2024 17:06:18 GMT</pubDate>
+      <title>Bid Glass - 一个自助广告平台，帮助网站出售其广告空间</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fupd9q/bid_glass_a_selfserve_advertising_platform_that/</link>
+      <description><![CDATA[        提交人    /u/Advisor-Any   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fupd9q/bid_glass_a_selfserve_advertising_platform_that/</guid>
+      <pubDate>Wed, 02 Oct 2024 19:53:47 GMT</pubDate>
     </item>
     <item>
-      <title>我们正在构建一个 AI SaaS 工具——请批评我们的登陆页面！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ful6zz/we_are_building_an_ai_saas_toolplease_roast_our/</link>
-      <description><![CDATA[大家好， 我正在和一位朋友一起进行我的第一个严肃的业余项目（我们都是软件工程师，所以我们绝对不是设计师）。在看到有关 AI 工具和 SaaS 平台的所有炒作后，我们想，为什么不尝试一下，自己构建一个呢？ 我们想出的想法是 Arkai - 一个让人们无需任何编码即可构建自定义 AI 工作流的平台。我们已经制作了一个着陆页，在开始之前，我们希望能从曾经有过这种想法的人那里得到一些反馈。 我们尽了最大的努力进行设计（我认为还不错，但可能偏差很大），但我们也希望得到反馈，看看这个想法和结构是否表达得很清楚。 我们希望得到以下方面的反馈：  着陆页结构和设计：是否合理？我们想做的事情是否清楚？您会进行哪些更改？ 想法：这听起来有用吗，还是我们只是在已经拥挤的领域中构建另一个 AI 工具？  我们正在尝试从曾经做过这件事的人那里尽可能多地学习，所以不要犹豫。这是页面的链接：arkai.app 提前感谢任何反馈或想法。我非常感谢任何人花时间查看它！    提交人    /u/Rexloa   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ful6zz/we_are_building_an_ai_saas_toolplease_roast_our/</guid>
-      <pubDate>Wed, 02 Oct 2024 17:00:30 GMT</pubDate>
+      <title>CarSheet - 终极汽车电子表格</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fupbza/carsheet_the_ultimate_car_spreadsheet/</link>
+      <description><![CDATA[        提交人    /u/Advisor-Any   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fupbza/carsheet_the_ultimate_car_spreadsheet/</guid>
+      <pubDate>Wed, 02 Oct 2024 19:52:15 GMT</pubDate>
     </item>
     <item>
-      <title>文本到行动：让自动化任务变得更容易一点！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ful1vx/text_to_action_make_automating_tasks_a_tad_bit/</link>
-      <description><![CDATA[        提交人    /u/Dull_Barnacle2284   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ful1vx/text_to_action_make_automating_tasks_a_tad_bit/</guid>
-      <pubDate>Wed, 02 Oct 2024 16:54:46 GMT</pubDate>
+      <title>DomoTown - 非企业艺术分享和发现平台</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fupaj7/domotown_a_noncorporate_art_sharing_and_discovery/</link>
+      <description><![CDATA[        提交人    /u/Advisor-Any   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fupaj7/domotown_a_noncorporate_art_sharing_and_discovery/</guid>
+      <pubDate>Wed, 02 Oct 2024 19:50:33 GMT</pubDate>
     </item>
     <item>
-      <title>期待在激动人心的 SaaS 项目上与合作伙伴合作！🚀</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fukyz4/looking_to_partner_on_exciting_saas_projects/</link>
-      <description><![CDATA[大家好！我是一名 15 岁的全栈 Web 和应用开发人员，热衷于创建创新的 SaaS 解决方案。我对大多数全栈技术都很精通 如果您正在研究一个令人兴奋的 SaaS 想法，或者需要开发方面的支持和帮助，我很乐意与您合作！让我们一起创造一些令人惊叹的东西。欢迎随时联系我们！ 期待联系！    提交人    /u/armaan-dev   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fukyz4/looking_to_partner_on_exciting_saas_projects/</guid>
-      <pubDate>Wed, 02 Oct 2024 16:51:31 GMT</pubDate>
+      <title>我创建了 Perfect Gifts - 一款节省时间并发现完美礼物创意的简单工具</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fup1em/i_built_perfect_gifts_a_simple_tool_to_save_time/</link>
+      <description><![CDATA[大家好， 我刚刚制作了一个简单的工具来帮助您找到很棒的礼物创意。您只需输入此人的描述（越详细越好），它就会推荐 20 种礼物创意以及购买地点。老实说，我认为这很酷，因为我讨厌买礼物，尤其是在繁忙的时候。希望它也能帮到你。 https://perfectgifts.web.app/    提交人    /u/_fct   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fup1em/i_built_perfect_gifts_a_simple_tool_to_save_time/</guid>
+      <pubDate>Wed, 02 Oct 2024 19:39:39 GMT</pubDate>
     </item>
     <item>
-      <title>帮助我们塑造发展的未来！🚀</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fukyw5/help_us_shape_the_future_of_development/</link>
-      <description><![CDATA[大家好！🙌 我们 StellaX Technologies 正在构建一款专为像您这样的开发人员设计的 AI 浏览器。我们的目标是创建一个可提高工作效率、简化调试并无缝集成到您的编码工作流程中的工具。 我们很乐意听取您的意见，了解您认为最重要的功能。请花几分钟时间填写我们的调查问卷，帮助我们构建下一代开发者浏览器！您的反馈对我们非常宝贵。 调查链接： https://forms.gle/ZpT5u6vSm5FAQr1w9 提前感谢您的时间！ 🙏 您的回复将直接影响 StellaX 🌟 的发展。 此致， StellaX 团队    提交人    /u/nex-dev   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fukyw5/help_us_shape_the_future_of_development/</guid>
-      <pubDate>Wed, 02 Oct 2024 16:51:26 GMT</pubDate>
+      <title>在三周内实现你的想法</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fuon27/launch_your_idea_in_three_weeks/</link>
+      <description><![CDATA[你好 👋 我想介绍一下 nightshifters.io - 一个为那些渴望在下班时间和周末创建科技初创企业的人们而设的社区。无论您有自己的想法还是想加入一个令人兴奋的项目，目标都是在短短三周内（暂定）构建和启动并保持势头。我们已经在短短两周内启动了我们的第一个项目。 查看我们的登陆页面并分享您对这个想法的想法！    提交人    /u/founder404   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fuon27/launch_your_idea_in_three_weeks/</guid>
+      <pubDate>Wed, 02 Oct 2024 19:22:47 GMT</pubDate>
     </item>
     <item>
-      <title>创建了一个免费工具来找出在 reddit 上发帖和参与的最佳时间，请吐槽一下</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fukua0/created_a_free_tool_to_findout_the_best_time_to/</link>
-      <description><![CDATA[大家好！ 我刚刚创建了一个免费工具，可以帮助您找到在 Reddit 上发布和参与的最佳时间。它跟踪超过 1,000 个子版块并每小时更新数据。我希望您查看并分享您的想法。非常欢迎诚实的反馈！ 链接为 https://socialsignalai.com/subreddit-analysis    由   提交 /u/pilotcodex   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fukua0/created_a_free_tool_to_findout_the_best_time_to/</guid>
-      <pubDate>Wed, 02 Oct 2024 16:46:14 GMT</pubDate>
+      <title>我创建了一些东西来帮别人整理求职申请的混乱局面 🚀</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fuoc8r/i_built_something_to_tidy_up_the_job_application/</link>
+      <description><![CDATA[      大家好， 有没有制作过可以解决自己问题的东西，并认为它也可能适用于其他人？这正是我对 Synth Resume 的感受。虽然我自己没有在找工作，但我看到朋友们面临的麻烦，并决定介入解决。🤓 Synth Resume 是我对缓解求职混乱的看法。它可以帮助用户只需点击几下即可为每份工作创建量身定制的简历，使用看板整齐地组织整个流程，甚至使用 ATS 关键字调整简历以最大限度地提高可见性。我已经看到它减轻了一些人的求职压力。 如果您好奇或知道有人在求职过程中需要一点理智，请查看Synth Resume。很乐意听到您的想法或任何反馈！🚀 Synth Resume    提交人    /u/denizhadzh   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fuoc8r/i_built_something_to_tidy_up_the_job_application/</guid>
+      <pubDate>Wed, 02 Oct 2024 19:09:48 GMT</pubDate>
     </item>
     <item>
-      <title>厌倦了长期合同的束缚？试用一周——无风险！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fuku28/tired_of_being_locked_into_longterm_contracts_try/</link>
-      <description><![CDATA[      是否曾感到被困在长期合同中而没有灵活性？ 我们了解您的心声！这就是我们提供 1 周合同的原因 - 先测试一下我们，无附加条件。 最好的部分？您的第一周由我们负责！  项目需要额外的帮助吗？发送 DM。 https://preview.redd.it/j5n7aa9sgdsd1.png?width=2048&amp;format=png&amp;auto=webp&amp;s=29a548f485357eb4cc808986bde6b0939d50d097    提交人    /u/VirtualAssist_VAMama   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fuku28/tired_of_being_locked_into_longterm_contracts_try/</guid>
-      <pubDate>Wed, 02 Oct 2024 16:46:01 GMT</pubDate>
+      <title>协作新闻/社交媒体平台</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fuo5x7/collaborative_journalismsocial_media_platform/</link>
+      <description><![CDATA[我一直在构思一个协作新闻/社交媒体平台，现在终于有了测试版。 这个平台叫做 Backroom，建立在一个相对简单的前提上：将具有不同观点的人聚集在一起解决问题——就像这个论坛上讨论的问题一样。用户可以创建或加入一个关于他们感兴趣的主题的房间，添加其他用户，然后详细讨论这个主题/问题。然后，人工智能会分析你的对话，并根据对话提出一个具体的解决方案。 希望 Backroom 能让我们比目前的平台更进一步，超越争论和咆哮，为我们的社区提供有意义和全面的解决方案。  我希望您能[此处]查看该平台。或者，为了获得更好的用户体验，请在 Apple App Store [此处]下载该应用程序。 如果您有兴趣，平台上现在甚至还有几个房间可以加入。或者随意创建一个新房间并添加您的朋友！ 欢迎并感谢所有反馈。 谢谢！ PS - 我住在华盛顿特区，因此平台上当前的房间是专门为我们提供的。但请随意创建一个新房间并添加我，我很乐意与您一起测试！    提交人    /u/Downsem   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fuo5x7/collaborative_journalismsocial_media_platform/</guid>
+      <pubDate>Wed, 02 Oct 2024 19:02:27 GMT</pubDate>
     </item>
     <item>
-      <title>我有了我的第一个 pSEO 代理客户！！！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fuk05m/i_got_my_first_pseo_agency_client/</link>
-      <description><![CDATA[大家好！ 我很高兴地宣布，我已经正式为一家程序化 SEO 代理机构签下了我的第一个（非朋友）客户。 简要介绍一下背景故事：我当时正在开发一款非常酷的 SEO SaaS，但我有点精疲力竭，我只是厌倦了做 SaaS（过去 4 年我一直在尝试推出一款），虽然它有一些吸引力，但它已经停滞不前，我觉得自己已经无法再做了。 由于我正在开发一些与 SEO 相关的东西，我对此非常精通，花了数小时进行研究，我偶然发现了程序化 SEO，这引起了我极大的兴趣。我开始与一些拥有成功 SaaS 的朋友谈论它，他们中的一些人已经知道它的概念，所以我问他们是否可以成为我的测试对象。不知怎么的，我说服了几个人将他们的整个登陆页面都给我，我感到有点压力，要交出一些成果。长话短说，我设法和他们合作得很好，但我和一个做目录查找业务的朋友合作的结果真的非常好（对于 pSEO 来说，目录业务实际上是最好的客户或角色，因为你可以在应用程序中进行许多关键字组合并获得即时结果）。 我得到了他们所有人的推荐，并上网寻找客户。我开始在 facebook 群组上发帖，最近在 reddit 上发帖，等等。 今天：我从大学回家，回复了一些消息，有人说：我们接个电话吧。我不知道怎么回事，但是当我和他们谈论 pSEO 时，我得到了来自背后的推动，实际上我在电话中和他们进行了高级分析，都是即兴发挥，我什么都没准备，甚至没有推销或幻灯片。 他们喜欢我的介绍和我向他们解释的内容，我没有指望他们会买任何东西，我也没有催促他们购买任何东西，整个会议只是对 pSEO 的介绍。 他们问我收费多少，我说：现在是时候了，我真的没有想好价格，从我想创办代理机构的那一刻起，我心里就想着一件事：5k mrr，正如我对每个人所说的那样，我和他们开了个会：每月 1k。 不知怎么的，他们说好的，不用担心，发送发票，这就是完成的方式！ 我希望这首诗能启发某人。 感谢您阅读！    由   提交  /u/CaterpillarOk3509   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fuk05m/i_got_my_first_pseo_agency_client/</guid>
-      <pubDate>Wed, 02 Oct 2024 16:11:55 GMT</pubDate>
+      <title>一个小项目</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1funsa3/a_little_side_project/</link>
+      <description><![CDATA[ 大家好，我创建了一个可以根据消息提示或绘图生成图像的网站 我从事 Web 开发大约有 3-4 个月了，所以我对编程还比较陌生。我最近建立了一个 SaaS 网站，用户可以在其中使用文本提示或绘图来生成图像。我很想听听您的想法——欢迎您提供任何反馈，无论是正面的还是负面的。  对于技术堆栈，我使用了 Next.js（React 用于前端）、Convex（用于后端）、Clerk（用于身份验证）、stripe（用于付款）和 AWS S3（用于文件存储）。  这是网站链接：Plantify AI    提交人    /u/AdMental2190   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1funsa3/a_little_side_project/</guid>
+      <pubDate>Wed, 02 Oct 2024 18:46:37 GMT</pubDate>
     </item>
     <item>
-      <title>我甚至没有任何产品就完成了第一笔销售，你也应该这样做。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fujzsl/i_got_my_first_sale_without_even_having_a_product/</link>
-      <description><![CDATA[当我有了 SaaS 的想法时，我并没有开始开发并尝试创建 MVP。我直接联系了潜在目标，以获得他们的反馈并了解他们想要什么。  我向大约 20 个人发送了此消息：“嘿，我没有什么可以卖给你的。我只是想获得一些反馈，因为我正在创建一个解决方案，该解决方案将帮助像您这样的企业提高其网站的转化率。您有 5 分钟时间来讨论一下吗？”  当然，并不是每个人都回复了。但我设法获得了 50% 的积极回应，并向我未来的目标受众介绍了我的想法。  正如这篇文章的标题所示，我在其中一次会议中设法获得了我的第一个客户。  这也帮助我获得了一些现金流并开始在法国市场让 Vendeo 出名。  事后看来，经过数月的开发，我确信这是启动项目的最佳方法之一。  所以，如果你有一个想法，不要害怕，去和你的潜在目标谈谈。    提交人    /u/Erwanito_   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fujzsl/i_got_my_first_sale_without_even_having_a_product/</guid>
-      <pubDate>Wed, 02 Oct 2024 16:11:33 GMT</pubDate>
+      <title>最喜欢的东西 - 建立一个网站，其中包含我个人非常喜欢的我最喜欢的产品。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1funr8i/favorite_stuff_put_together_a_website_of_just_my/</link>
+      <description><![CDATA[大家好，随着送礼季节的到来，我想创建一个网站来帮助其他人找到我认为很棒的产品。这是我个人想要的东西，因为我总是觉得我去的任何网站都在试图将好产品与平庸产品混合在一起。 我希望你们喜欢它，并且肯定会接受任何反馈。如果你认为有一些很棒的产品是你喜欢的，我也很乐意听听它们 :)。 https://favoritestuff.co    提交人    /u/andrew_builds   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1funr8i/favorite_stuff_put_together_a_website_of_just_my/</guid>
+      <pubDate>Wed, 02 Oct 2024 18:45:28 GMT</pubDate>
     </item>
     <item>
-      <title>StockLibrary——创建超逼真的品牌库存照片。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fujxwi/stocklibrary_create_ultrarealistic_onbrand_stock/</link>
-      <description><![CDATA[StockLibrary 今日在 Product Hunt 上线！ 🤩 使用 StockLibrary，您可以创建超逼真的品牌库存照片。 部分功能包括：  4 倍放大功能 免版税库存照片 上传参考图片 多样化并包含照片。  查看此处了解更多信息 - https://www.reddit.com/r/GrowthHacking/comments/1fuc2vj/stocklibrary_create_ultrarealistic_onbrand_stock/ 将链接放在评论中以尝试提供反馈。    由    /u/Madhav_Ag  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fujxwi/stocklibrary_create_ultrarealistic_onbrand_stock/</guid>
-      <pubDate>Wed, 02 Oct 2024 16:09:26 GMT</pubDate>
+      <title>我建立了一个无代码博客构建器，但现在我不能再使用 WordPress 了……欢迎反馈！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fuknug/i_built_a_nocode_blog_builder_and_now_i_cant_use/</link>
+      <description><![CDATA[我一直是 WordPress 的忠实粉丝（在我看来，它是一款出色的产品），并且我已经使用该技术建立了数百个网站/博客。但是，不久前，作为一项“个人挑战”，我决定与我的技术联合创始人一起开发一款无需代码且非常易于使用的博客构建器。 我们的目标是创建一款产品，让任何人都可以在不到 3 分钟的时间内创建一个博客（针对 SEO 和性能进行了超级优化）。无需技术知识。没有麻烦。没有模板。没有插件。没有不兼容性。没有任何更新会破坏一切......而且我认为我们已经成功了。 在这里您可以看到我刚刚在产品博客中发布的一篇文章的示例（当然是用产品本身创建的哈哈）：https://burogu.pro/blog/how-to-market-a-google-chrome-extension/ 您觉得结果如何？ PS：问题是，我已经习惯了我的产品，很难再使用 WordPress....    提交人    /u/DanielPeris   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fuknug/i_built_a_nocode_blog_builder_and_now_i_cant_use/</guid>
+      <pubDate>Wed, 02 Oct 2024 16:39:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
