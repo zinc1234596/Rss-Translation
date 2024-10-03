@@ -4,7 +4,21 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Thu, 03 Oct 2024 01:09:14 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Oct 2024 03:20:30 GMT</lastBuildDate>
+    <item>
+      <title>Product Hunt 有意义吗？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fuwy3g/does_product_hunt_make_any_sense/</link>
+      <description><![CDATA[我最近在 PH 上发布了产品。结果如下： 25 个赞 500 次点击 3 次注册 2 人完成调查 我收到了很多评论，例如：好主意、非常好、有道理等等。类似这样的评论大约有 10 条。人们称赞您，但这是真正的认可吗？ 您对 PH 的体验如何？    提交人    /u/timenowaits   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fuwy3g/does_product_hunt_make_any_sense/</guid>
+      <pubDate>Thu, 03 Oct 2024 01:53:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>为 iOS App Store 制作了一个简单的财务追踪器</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fuw9kt/made_a_simple_financial_tracker_for_ios_app_store/</link>
+      <description><![CDATA[      https://preview.redd.it/gotjg5c60gsd1.png?width=1364&amp;format=png&amp;auto=webp&amp;s=814e0d1ee1760c9da07238171e3794568fcfd86f 适用于 iOS 的 PlanSense：https://apps.apple.com/us/app/plansense/id6503712817    由   提交  /u/PlanSense   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fuw9kt/made_a_simple_financial_tracker_for_ios_app_store/</guid>
+      <pubDate>Thu, 03 Oct 2024 01:18:08 GMT</pubDate>
+    </item>
     <item>
       <title>搜寻网络以寻找灵感 => 创造创意 => 应用市场调研 - 这就是 IdeaPool</title>
       <link>https://www.reddit.com/r/SideProject/comments/1fuvf7k/scrape_web_for_pains_create_ideas_apply_market/</link>
@@ -20,7 +34,7 @@
       <pubDate>Thu, 03 Oct 2024 00:19:39 GMT</pubDate>
     </item>
     <item>
-      <title>从科技公司 CEO 到独立黑客</title>
+      <title>从科技 CEO 到独立黑客</title>
       <link>https://www.reddit.com/r/SideProject/comments/1fuv4js/from_tech_ceo_to_indie_hacker/</link>
       <description><![CDATA[嘿 r/sideproject！ 本周我将进入一个陌生的领域。 在担任科技公司 CEO 多年后，我将通过我的新项目 MyBioCycle 转向 Web 开发。 什么是 MyBioCycle？ 它是一个帮助您跟踪和利用生物节律的平台 - 这些自然周期会微妙地影响我们的能量、情绪和生产力。我个人已经看到了了解自己的生物节律的好处，并希望与他人分享这种潜力。 真正的挑战 虽然构建平台很有趣，但真正的考验是有机地发展它。没有付费广告，没有华而不实的发布。只是传统的草根增长。这是我第一次涉足独立黑客领域，我正在拥抱混乱。 我为什么要分享  责任：把这个放在那里可以让我保持正轨。 社区：我很乐意听取您的见解和反馈。 透明度：我将记录这次旅程的起起落落。  下一步是什么？ 老实说，我并不完全确定 - 这很令人兴奋！ 我将：- 根据早期用户反馈改进 MVP - 探索有机增长策略 - 定期分享进展和挑战的更新 社区问题：  这里有人以前追踪过他们的生物节律吗？你的经历是什么？ 在当今饱和的在线空间中，有什么技巧可以让项目有机地发展？ 你希望在生物节律跟踪应用中看到什么？  我很想听听你的想法，谢谢！    提交人    /u/SaaSyTools   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1fuv4js/from_tech_ceo_to_indie_hacker/</guid>
@@ -83,7 +97,7 @@
       <pubDate>Wed, 02 Oct 2024 21:40:15 GMT</pubDate>
     </item>
     <item>
-      <title>我为 SaaS 构建了一种新型“目录”，但现在正在扩展到其他主题。您觉得如何？</title>
+      <title>我为 SaaS 构建了一种新型“目录”，但现在正在扩展到其他主题。您有什么想法吗？</title>
       <link>https://www.reddit.com/r/SideProject/comments/1furm6v/i_built_a_new_type_of_directory_for_saas_but_now/</link>
       <description><![CDATA[最近，目录式项目激增，但大多数项目最终都变成了 Product Hunt 的复制品：点赞、每日排行榜等……  因此，我决定在我的项目中尝试一些不同的东西：我构建了一个无限发现队列，每次显示一个产品，而不是传统的目录。用户可以通过点赞或跳过来提供反馈，它会使用这些数据来推荐有趣的 SaaS 产品。 https://oneslide.co 到目前为止，我已经添加了大约 2,000 种产品，并做了一些推广，在过去几天吸引了大约 500 名访客。  虽然流量还不足以发挥其全部潜力，但我对这种流动的感觉非常满意。这让我开始思考：为什么要止步于 SaaS？  我也开始将业务扩展到视频游戏，根据用户偏好创建建议。进一步扩大范围非常简单，但现在我正处于十字路口。我应该： A) 深入关注一种特定类型的内容 还是 B) 优化流程，使其更有趣、更用户友好，并允许提供各种内容，甚至可能提供用户创建的列表？ 很想听听你的想法！    提交人    /u/productslide   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1furm6v/i_built_a_new_type_of_directory_for_saas_but_now/</guid>
@@ -95,20 +109,6 @@
       <description><![CDATA[我是一名开发人员，渴望为人们创造真正有用的东西。然而，我经常对我过去的项目感到失望；我最好的应用程序只覆盖了 500 名用户，没有产生任何收入。 我想看看是否有其他人有过类似的感受。我很想听听你发现的任何有助于转变思维方式或改善创作过程的资源或策略。我真的很喜欢编码，想创造一些能引起人们共鸣的东西。提前感谢你的见解！    提交人    /u/Soft-Possibility2929   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1furlxd/seeking_guidance_on_creating_meaningful_and/</guid>
       <pubDate>Wed, 02 Oct 2024 21:28:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>n'seek — 适合和朋友一起在户外玩的游戏</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fuqxjq/nseek_games_for_playing_outside_with_your_friends/</link>
-      <description><![CDATA[大家好，我一直在开发一款 iPhone 应用（名为 n&#39;seek），其灵感来自户外游戏，如捉迷藏、追捕和夺旗。我想让户外游戏感觉像玩电子游戏一样。我刚刚发布了该应用的第一个版本，想听听大家对如何改进它或您希望看到哪些游戏模式的反馈。您可以在此处下载。如果您想加入 TestFlight 的测试版，请发私信。谢谢！    提交人    /u/Adventurous_Wave_478   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fuqxjq/nseek_games_for_playing_outside_with_your_friends/</guid>
-      <pubDate>Wed, 02 Oct 2024 20:59:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>我做了一个愚蠢的点击游戏</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fupqww/i_made_a_stupid_clicker_game/</link>
-      <description><![CDATA[        提交人    /u/TheNewTing   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fupqww/i_made_a_stupid_clicker_game/</guid>
-      <pubDate>Wed, 02 Oct 2024 20:09:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
