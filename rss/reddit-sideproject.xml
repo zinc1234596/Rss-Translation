@@ -4,7 +4,91 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Fri, 04 Oct 2024 06:21:11 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Oct 2024 09:16:00 GMT</lastBuildDate>
+    <item>
+      <title>我制作了一个 Safari 网页扩展，可以直接分析 Soundcloud 和 Spotify 中的歌曲。尤其是 Soundcloud 拥有如此独特的音频库，其中包含免费歌曲和非常好的算法，这就是为什么我如此恼火，因为我看不到任何歌曲信息。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fvuufe/i_made_a_safari_web_extension_which_analyzes/</link>
+      <description><![CDATA[        提交人    /u/TrackCloud-App   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fvuufe/i_made_a_safari_web_extension_which_analyzes/</guid>
+      <pubDate>Fri, 04 Oct 2024 09:09:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>你如何在业余项目中有效管理客户反馈？寻求见解！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fvurm2/how_do_you_manage_customer_feedback_efficiently/</link>
+      <description><![CDATA[TL;DR：我正在寻找有关如何有效管理和分析客户反馈的见解。 在我之前的公司，我们是一个由四个产品人员组成的小团队，我们被反馈淹没了。我们必须手动将所有内容复制粘贴到 Notion 中，然后组织、分析、分类、重新分组并确定优先级。这最终会占用一个人大量的时间来管理。 我将这个过程称为“反馈整理”——初始步骤主要是管理任务，但真正的价值来自于分析和提取见解以确定下一步行动的优先级。 现在，我专注于简化管理部分，并为引导程序和小团队提供工具来自动化大部分工作，以便他们可以专注于实际根据反馈采取行动。 所以，我的问题是这样：你如何处理反馈？具体来说： 您主要的反馈来源是什么？  您如何检测新的反馈？ 您将其存储在哪里？ 您如何处理它？&lt;​​/li&gt; 您遇到了哪些痛点？  任何见解都将非常有帮助！非常感谢！    提交人    /u/jokemet   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fvurm2/how_do_you_manage_customer_feedback_efficiently/</guid>
+      <pubDate>Fri, 04 Oct 2024 09:03:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>经过两年的打造，我两周内就用我的新产品赚了 1000 美元</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fvu84l/after_2_years_of_building_i_made_1000_in_two/</link>
+      <description><![CDATA[从我记事起，我就一直在构建东西。在过去的两年里，我主要专注于 SaaS 应用。 一开始非常艰难，因为我以为自己是第二个比尔盖茨，我的创新想法会冲击市场。好吧，正如你所猜测的，这并没有发生。 我意识到我可以构建最好的应用程序，但没有用户/客户，它什么都不是。我首先关注我的痛点以及我可以构建什么来改善我的生活。 这就是我创建 SyncReads 的原因。 这个想法很好，但我花了太多时间来验证这个想法，而且很难在那里保持良好的质量，因为我允许解析网络上的几乎任何网站。它赚了钱，很多人告诉我这个想法非常好，所以我可能会在不久的将来回到它🤞 然后我想，“等一下，我只是一遍又一遍地做同样的事情。”：  配置身份验证 使用 webhook 设置计费 电子邮件、登陆等  如果我可以为自己做一些东西，并在下一个项目中反复使用它们，那会怎样？ 这就是 TurboStarter 诞生的方式。 我的主要重点是制作一些能够满足我的代码质量标准并允许我在几分钟内为我的下一个项目完成基本设置的东西。 我不想让它成为另一个垃圾样板；市场上已经有很多了。 因此，我将我构建 Web 应用、移动应用和浏览器扩展的所有知识整合到一个强大的代码库中。我当时甚至不想出售它。 然后，一位朋友告诉我，对于世界各地的许多开发人员来说，这将是一剂良药 - “与此相比，市场上的样板根本不算什么。”好吧，我会给它一个机会。 我准备了一个登陆页面，在上面放了一个 Stripe 结账，并在一些 X 评论中粘贴了一个链接。当我达到 10 个销售量时，产品甚至还没有完成！这是为想要支持我的预发布者提供的特别优惠。猜猜怎么着？样板仍然有市场！只需将其放入代表中，编写高质量的代码、广泛的文档并为您的客户提供大量支持。 现在，我将我所有的副项目努力投入到这个项目中，希望高峰时刻就在我面前。 教训？永不放弃💪    提交人    /u/zagrodzki   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fvu84l/after_2_years_of_building_i_made_1000_in_two/</guid>
+      <pubDate>Fri, 04 Oct 2024 08:21:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>我在 18 岁时因创办 AMA 而退休</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fvtz5a/i_retired_at_18_years_old_with_a_start_up_ama/</link>
+      <description><![CDATA[我曾经在养老院工作，直到我有了一个想法。如果生活是一部永无止境的电影，我会立即开始工作，并借钱购买尽可能多的 4090。这里的目标是生成尽可能多的现实生活图像，并让人工智能对其进行修复，这样你就再也不必看起来丑陋了。我创造了这些眼镜，让你可以实时观看视频，我把它和头上的 go pro 配对。到目前为止，一切都在服务器上运行，我每秒只能获得 15 帧，但这足以让 y combinator 的创始人资助我。这是一年前的事了。他们说我的项目价值数十亿美元，一旦我的人工智能生成的图形镜头问世，Zucks 愚蠢的笨重的 nes64 meta 眼镜就会被抛在后面。今年 2025 年。我们目前有 100,000 个在生产中。为什么在视觉上停下来，接下来我们正在研究声音和气味，这样我们就可以取代所有的音乐。触摸仍然非常困难。无论如何，现在我靠公司资金生活，我称之为我的心理健康基金。     提交人    /u/snowbunnytakeover   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fvtz5a/i_retired_at_18_years_old_with_a_start_up_ama/</guid>
+      <pubDate>Fri, 04 Oct 2024 08:02:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>这里有谁成功出售了自己的副业吗？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fvttwt/any_one_here_successfully_sold_their_side_project/</link>
+      <description><![CDATA[想要出售我的微型 saas，但不知道从哪里开始。我甚至不知道它值多少钱。 以前有人这样做过吗？    提交人    /u/Crumbedsausage   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fvttwt/any_one_here_successfully_sold_their_side_project/</guid>
+      <pubDate>Fri, 04 Oct 2024 07:50:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻求有价值的反馈</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fvtroh/looking_for_valuable_feedback/</link>
+      <description><![CDATA[大家好，我开发了一个应用程序，旨在在您的开发过程中实现以下几件事：  防止代码重写 存储和版本控制代码片段 邀请团队成员 更快地构建和发布  如果听起来很有趣，您可以在这里找到它：hycode.io 登录时有一个小反馈表:) 谢谢    提交人    /u/ryanjgled   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fvtroh/looking_for_valuable_feedback/</guid>
+      <pubDate>Fri, 04 Oct 2024 07:45:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>构建的应用程序可将固定的日历事件转换为智能事件，无需复杂的 AI 调度程序，并且 100% 离线工作</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fvtr0t/built_app_that_convert_rigid_calendar_events_into/</link>
+      <description><![CDATA[    /u/Strong_Cup_837   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fvtr0t/built_app_that_convert_rigid_calendar_events_into/</guid>
+      <pubDate>Fri, 04 Oct 2024 07:43:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>胖（胖）地图</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fvtjbd/fatter_map/</link>
+      <description><![CDATA[我只是想在这里分享我的业余项目，因为它可能会引起人们的兴趣。一个名为 Fat Map 的网站在被 strava 收购后已停止运营，人们使用的关键功能之一是它的雪崩预测工具。昨天，我开发了一个基本的雪崩预测工具（目前只能在命令行上运行）。 有人有兴趣贡献吗？如果有一个 GUI 并在 3D 地图上显示结果，就像 fat map 那样，那就太酷了。 https://github.com/vizik24/fattermap    提交人    /u/vizik24   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fvtjbd/fatter_map/</guid>
+      <pubDate>Fri, 04 Oct 2024 07:27:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>[吐槽我的想法] tryeloquent.com</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fvtg7l/roast_my_idea_tryeloquentcom/</link>
+      <description><![CDATA[大家好， 长话短说，我正在写我的硕士论文，觉得没有一个写作助手能满足我的要求，所以我决定自己创建一个。它的目标是成为一个简单易用的工具，使用 LLM 来协助您的阅读和写作工作。 仍然不确定其他人是否会觉得这个工具有用，所以我在寻求反馈。很想听到一些诚实的反馈，所以请把你最好的吐槽发给我吧！ 干杯 🙌    提交人    /u/simasousa15   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fvtg7l/roast_my_idea_tryeloquentcom/</guid>
+      <pubDate>Fri, 04 Oct 2024 07:20:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>我想分享我的“小”胜利，因为这是一段非常漫长的旅程！！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fvteoo/i_wanted_to_share_my_small_win_because_it_has/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fvteoo/i_wanted_to_share_my_small_win_because_it_has/</guid>
+      <pubDate>Fri, 04 Oct 2024 07:17:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>我构建了一个工具，可以在使用 AI 渲染之前非常轻松地设计场景和相机。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fvt89a/i_built_a_tool_for_design_scenes_and_camera_very/</link>
+      <description><![CDATA[        由    /u/Boring-Fuel6714   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fvt89a/i_built_a_tool_for_design_scenes_and_camera_very/</guid>
+      <pubDate>Fri, 04 Oct 2024 07:03:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>我在 Slack 识别应用中添加了 PayPal 来购买奖励</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fvsyjt/i_added_paypal_to_my_slack_recognition_app_to/</link>
+      <description><![CDATA[      所以从技术上讲，我正在构建一个名为 recognitionbot 的 slack 员工认可和奖励应用程序。&gt; 我的竞争对手：Heytaco.com Matterapp.com 我也提供白标应用程序，所以谁想转售我的识别 slack 应用程序可以给我发私信询问价格。    提交人    /u/Charming_You_8285   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fvsyjt/i_added_paypal_to_my_slack_recognition_app_to/</guid>
+      <pubDate>Fri, 04 Oct 2024 06:43:32 GMT</pubDate>
+    </item>
     <item>
       <title>公开打造一个面向独立音乐艺术家的一体化工具</title>
       <link>https://www.reddit.com/r/SideProject/comments/1fvsl9y/building_in_public_an_allinone_tool_for/</link>
@@ -25,90 +109,6 @@
       <description><![CDATA[深入了解 Linkrary：https://aibiansari.github.io/Linkrary/ 🔍 什么是 Linkrary？ Linkrary 是终极资源中心，汇集了精选的最佳网络工具、设计灵感、开发实用程序等。它将所有内容组织成易于浏览的类别，让您可以轻松找到并共享您最喜爱的资源 - 所有内容都在一个地方。 💡 为什么选择 Linkrary？ 受到 FMHY 和 Appshots 等优秀策展人的启发，我想创建一个可以快速找到有用资源的中心。 Linkrary 通过将所有内容集中到一个整洁的空间来节省您的时间，就像那些平台一样，但带有我的个人风格和独特选择。我还想以一种有组织、可访问的方式分享我自己精选的书签集合 — — 这就是 Linkrary 的创建方式。 🛠️ 构建于：  Next.js + React + TypeScript Tailwind CSS 用于响应式设计 Framer Motion 用于流畅的 UI  希望得到您的反馈！🙌    提交人    /u/AiBi_Ansari   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1fvruoh/i_built_linkrary_your_onestop_hub_for_web_tools/</guid>
       <pubDate>Fri, 04 Oct 2024 05:24:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>OnChain 资产的再平衡工具</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fvqvr8/rebalancer_tool_for_onchain_assets/</link>
-      <description><![CDATA[我已经为链上加密货币构建了一个 Rebalancer 工具。它支持具有多种协议的多个链。 你可以做什么？ 1. 你可以一键在多个链上重新平衡你的投资组合。比如你在以太坊上有 10,000 美元，你想在 3 个不同的协议链上进行多元化投资。你只需要选择目标链和协议。平台批量处理所有交易并一键执行。 2. 如果你想将你的头寸从一条链迁移到另一条链，比如将以太坊 AAVE 迁移到 Base Compound 协议。它将在点击中完成，无需任何手动干预。  抽象手动交换网络 抽象手动桥接 抽象多个 gas 费用支付 抽象多个交易  网站：https://defilens.tech 但我正在寻找可以帮助我构建和营销这个东西的联合创始人。准备收购。有什么帮助吗？    提交人    /u/No-Career1273   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fvqvr8/rebalancer_tool_for_onchain_assets/</guid>
-      <pubDate>Fri, 04 Oct 2024 04:21:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>我正在为销售人员制作一个工具，以便他们可以通过智能关键字搜索面向公众的文档和新闻，从而增强您的销售研究。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fvqmh7/i_am_making_a_tool_for_salespeople_to_smart/</link>
-      <description><![CDATA[为我做企业销售的朋友构建一项新服务。他阅读了大量收益电话会议、新闻和报告，以了解高管是否提到过有关他的行业和相关产品的任何信息，以便他可以在销售宣传中引用它们。我正在尝试使该过程自动化！ 我需要你的帮助！  如果您对此感兴趣，请加入等候名单！ 我也很好奇 - 你如何阅读收益电话会议、10-K、10-Q 和新闻来提升你的销售能力？你的见解将非常有帮助！     提交人    /u/Human-Emu8087   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fvqmh7/i_am_making_a_tool_for_salespeople_to_smart/</guid>
-      <pubDate>Fri, 04 Oct 2024 04:05:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>我做了这个！！超级闹钟 - 终身免费无广告！！🎉</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fvpa5s/i_made_this_ultra_alarm_free_lifetime_no_ads/</link>
-      <description><![CDATA[大家好！​ 我创建了一款名为 Ultra Alarm 的应用作为我的副业，我很想听听你们对我的新应用的看法！为了表示感谢，我将为所有参与者提供终身免费无广告！只需发表评论，我就会通过 DM 向您发送代码。  我还想带您一起踏上我们的旅程，让您有特权分享/请求功能或想法！您还可以对其他人分享的、您认为对您有帮助的想法进行投票。我们称之为 Ultra Alarm 创意门户！ 我已经发布了一些其他人分享的想法。查看：https://ultraalarm-ideaportal.canny.io/idea-request​  我知道当警报不能正常工作时是多么令人沮丧——我自己也曾为此苦苦挣扎。这就是为什么我着手创建世界上最安全、最可靠的闹钟应用。​ 在此处下载应用：https://play.google.com/store/apps/details?id=com.itaimi.moonshot.alarm&amp;pcampaignid=web_share​ Ultra Alarm 能为您做什么？​  新功能！！打字任务：输入可自定义难度的励志名言以禁用闹钟。​ 唤醒电话：为您的闹钟服务的电话！尝试唤醒电话功能。​ 数学任务：解决可自定义难度的数学问题以关闭闹钟。​ 摇动任务：摇动手机即可使闹钟静音，并可调节难度级别。​  我们的团队致力于使其成为最安全的闹钟应用。怎么做到的？观看此比较视频，其中介绍了两个世界顶级闹钟应用，您可亲自体验：https://youtu.be/xKpzUuBNNfQ​ 享受该应用，别忘了与家人和朋友分享！​ 我们很乐意听到您关于如何使应用变得更好的想法。如果您有任何建议或反馈，请随时发送至 [support@karakoa.io](mailto:support@karakoa.io)    提交人    /u/Working-Bass4425   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fvpa5s/i_made_this_ultra_alarm_free_lifetime_no_ads/</guid>
-      <pubDate>Fri, 04 Oct 2024 02:48:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>ArtifyMaster AI 驱动的工具，如背景消除、图像升级、脸部交换、艺术真实感和二维码生成</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fvnul4/artifymaster_aipowered_tools_like_background/</link>
-      <description><![CDATA[是的，我一直喜欢解决烦人的小问题，其中之一就是编辑图像。我不断看到可以去除背景的工具，但它们要么留下水印，要么无法处理水印。因此，我创建了 ArtifyMaster，这是一款人工智能工具，不仅可以去除背景，还可以去除水印 — 为什么不同时做这两件事呢？ 最初只是一个简单的业余项目，现在正在帮助创作者、设计师和任何使用图像的人简化他们的工作流程。在 Product Hunt 上推出后，我们在不到 24 小时内就拥有了 100 多名用户！ 对于那些想要启动自己的业余项目的人，我有一些建议：  找到解决实际问题的利基市场：对我来说，处理原本完美的图像上的水印是一件令人沮丧的事情。事实证明，很多人都有同样的挫败感。 不要想太多，只管构建：我一直在调整它，直到它起作用，事实证明，仅仅做比等待完美时机更重要。 AI SaaS 是未来：像这样的工具可以节省人们的时间和金钱，需求量很大。我甚至使用 AI 在 ArtifyMaster 上自动执行了许多任务。现在，该工具比我更聪明了。  所以，是的，如果你曾经为恼人的水印或低分辨率图像而苦恼，你可能会发现这很有用。 问我任何事情——无论是关于启动项目、AI，还是我现在基本上如何由自己的 AI 工具提供支持。😅    提交人    /u/KhaledAlamXYZ   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fvnul4/artifymaster_aipowered_tools_like_background/</guid>
-      <pubDate>Fri, 04 Oct 2024 01:32:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>我推出了一款去除背景和水印的 AI 工具。ArtifyMaster</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fvnsnz/i_launched_an_ai_tool_that_removes_backgrounds/</link>
-      <description><![CDATA[[ 由于违反 内容政策，已被 Reddit 删除。 ]    由   提交  /u/KhaledAlamXYZ   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fvnsnz/i_launched_an_ai_tool_that_removes_backgrounds/</guid>
-      <pubDate>Fri, 04 Oct 2024 01:29:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>聚合新闻 - RSS 阅读器 1.3.2 更新 11098-122</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fvnsec/aggregator_news_rss_reader_132_update_11098122/</link>
-      <description><![CDATA[以下是您所提供的信息的摘要：更新：Aggregator News - RSS Reader 1.3.2 将包括：* 新语言：中文、捷克语、丹麦语、荷兰语、爱沙尼亚语、希腊语、印尼语、韩语、尼泊尔语、斯洛伐克语、瑞典语、乌克兰语、越南语、孟加拉语、乌尔都语、罗马尼亚语、土耳其语、阿尔巴尼亚语、阿塞拜疆语和克罗地亚语。* 类别站点设置：此新功能将允许用户通过选择特定类别来自定义他们的新闻提要。更新后的新闻聚合器站点和类别总数：* 旧：3772 个站点、119 个类别* 新：18 个站点、3 个类别* 总计：11098 个站点、122 个类别总结：1.3.2 更新将显著扩展 Aggregator News - RSS Reader 的语言选项和自定义功能。这将使其更易于访问且对更广泛的受众更友好。 * https://www.reddit.com/r/SideProject/comments/1ftq07v/aggregator_news_rss_reader_132_update_11098122/    提交人    /u/TraditionalAd3560   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fvnsec/aggregator_news_rss_reader_132_update_11098122/</guid>
-      <pubDate>Fri, 04 Oct 2024 01:29:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>推出 ArtifyMaster：用于图像背景去除、升级等的 AI 驱动工具！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fvnacz/introducing_artifymaster_aipowered_tools_for/</link>
-      <description><![CDATA[[ 由于违反 内容政策，已被 Reddit 删除。 ]    由   提交  /u/KhaledAlamXYZ   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fvnacz/introducing_artifymaster_aipowered_tools_for/</guid>
-      <pubDate>Fri, 04 Oct 2024 01:03:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>只下载 srt 文件，不下载 zip 文件。没有广告，没有杂乱内容，只有字幕</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fvn033/download_just_srt_files_not_zips_no_ads_no/</link>
-      <description><![CDATA[嘿，我一个星期前才建的，当然不是什么大问题或复杂的项目 [我知道这是一个简单的项目，我没有什么可展示的] 正如所说，如果你看电影，有时你不会得到正确的字幕，所以是的，如果你像我一样懒得提取 zip 文件，你可以直接在这里下载 srt 文件 subss.vercel.app    提交人    /u/patrickbatemanreddy   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fvn033/download_just_srt_files_not_zips_no_ads_no/</guid>
-      <pubDate>Fri, 04 Oct 2024 00:48:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>只是让 Claude 能够访问你给它的链接</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fvmw1r/just_gave_claude_the_ability_to_visit_the_links/</link>
-      <description><![CDATA[      我有一个 Web 应用程序 (supercharged.chat)，它使用您的浏览器本地运行您自己的 API 密钥。我现在扫描用户发送或编辑的消息以获取 URL，并使用 Tavily API 访问该站点并为 Claude 提供页面内容的上下文。所有这些都是在用户浏览器本地完成的，包括保存聊天记录。它也是后台消息的一部分，因此您可以提出后续问题。 请注意，您需要 Tavily 的 API 密钥，否则 Claude 将不会获得上下文并正常响应。（也适用于 GPT）。 对于那些想要尝试的人可以免费使用：https://. supercharged.chat    提交人    /u/mokespam   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fvmw1r/just_gave_claude_the_ability_to_visit_the_links/</guid>
-      <pubDate>Fri, 04 Oct 2024 00:42:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>旅行？查看我的短语手册应用</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fvmulk/traveling_check_out_my_phrasebook_app/</link>
-      <description><![CDATA[PhraseLog 提供包含 10 多种语言短语的各种类别。  🧳 预制短语和类别 📶 离线工作 🈯 创建自己的短语：使用自动翻译和音频语音合成添加自己的短语 🔊 清晰的音频和发音  📝 即将推出：与朋友和家人协作 如果这对您有用，请在AppStore或Play Store或登陆页面 找到这个利基市场后，我发现市场上没有符合我标准的应用程序，所以为什么不创建自己的应用程序呢。我最近也在 ProductHunt 上发布了这款应用，并获得了当天的第 6 名，这足以证明我会继续推动这款应用并不断添加新功能。  让我知道你的想法，无论是关于应用程序还是仅仅是应用程序列表（屏幕截图、图标）。  谢谢！发送一些反馈或评论，我会直接给你发送促销代码！    提交人    /u/Serious_Bicycle   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fvmulk/traveling_check_out_my_phrasebook_app/</guid>
-      <pubDate>Fri, 04 Oct 2024 00:40:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>简单无需订阅或无麻烦的 AI 图像（包括 Flux 1.1）</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fvmqki/simple_no_subscription_or_no_hassle_ai_images/</link>
-      <description><![CDATA[  由    /u/abdr9  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fvmqki/simple_no_subscription_or_no_hassle_ai_images/</guid>
-      <pubDate>Fri, 04 Oct 2024 00:34:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>开发我的第一个应用程序：MacroChex – 免费卡路里追踪清单！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fvmbyy/built_my_first_app_macrochex_a_free_calorie/</link>
-      <description><![CDATA[嘿 r/SideProject！👋 我很高兴与大家分享 MacroChex，这是我作为业余项目开发的第一个应用程序。🎉 它非常简约且免费，旨在通过内置的 TDEE 计算器让卡路里跟踪更加轻松。它会根据您的目标（无论您是想增加肌肉、减脂还是保持当前体重）准确告诉您需要摄入多少卡路里。 它与众不同之处在于其清单功能，可让您提前计划膳食并在用餐时勾选它们，而不像 MyFitnessPal 等应用程序那样每天重置。此外，MacroChex 还会为您提供您跟踪的每种食物中蛋白质、脂肪、碳水化合物和其他关键营养素的完整分析。我的目标是让这款应用程序保持免费——希望永远免费，具体取决于成长情况！至少，我想让它比那些 20 美元的应用程序更实惠（说实话这太多了）。😊 如果您好奇，请随时在 Apple App Store 上查看。顺便说一句，完全免费！    提交人    /u/iosdood   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fvmbyy/built_my_first_app_macrochex_a_free_calorie/</guid>
-      <pubDate>Fri, 04 Oct 2024 00:14:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
