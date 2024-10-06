@@ -4,7 +4,77 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Sun, 06 Oct 2024 15:14:38 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 06 Oct 2024 18:18:24 GMT</lastBuildDate>
+    <item>
+      <title>我终于做到了。我推出了自己的 SaaS。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fxmr3g/i_finally_did_it_i_launched_my_own_saas/</link>
+      <description><![CDATA[我选择了一个简单的待办事项应用程序，它在一个拥挤且成熟的市场（生产力和笔记记录）中作为我的第一个 SaaS。我计划专注于： 用户体验——每项做同样事情的服务都以一种非常不友好的方式做。我正在改变这一点。 反馈——简单地构建我的用户要求的内容。 SEO——免费且美观的工具、博客文章和 PSEO，通过将我支持的每个文件的组合 和我提供的每个结果变成自己的页面。 简短营销——如果一切顺利，那么我会去 TikTok 和 Instagram 真正让应用程序崛起。 我很兴奋，会学到很多东西。 我们开始    提交人    /u/shaharmizrahi   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fxmr3g/i_finally_did_it_i_launched_my_own_saas/</guid>
+      <pubDate>Sun, 06 Oct 2024 18:07:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个网站构建器，可以让你导出到 TailwindCSS</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fxm56j/i_made_a_website_builder_that_lets_you_export_to/</link>
+      <description><![CDATA[经过 13k 行代码，第一个版本终于完成了！ 我制作了 thesitegenerator.com - 一个专为开发人员设计的网站构建器。 几秒钟内即可构建，然后一键导出为 HTML + TailwindCSS 哦 - 而且它完全免费使用。 希望听到您的反馈    提交人    /u/blueBerries720   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fxm56j/i_made_a_website_builder_that_lets_you_export_to/</guid>
+      <pubDate>Sun, 06 Oct 2024 17:41:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Feycher 介绍：它类似于 Reddit，但有人工智能和人们在帖子上互动</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fxlsiu/introducing_feycher_its_like_reddit_but_with_ai/</link>
+      <description><![CDATA[      Feycher.com 我一直在开发一款我认为你会喜欢的产品 - 一款名为 Feycher.com 的 AI 应用，它将 Reddit 的最好部分与 AI 角色结合在一起。 主题对话：就像 Reddit 一样，但有 AI 角色和人员加入 公开和私人选项：进行公开讨论或与 AI 角色进行 DM 语音互动：听到你最喜欢的角色通过口型同步的动画说话 想象一下，如果你最喜欢的虚构人物、历史人物，甚至是 r/AskReddit 上的那个奇怪的家伙真的可以回复你的评论。这就是 Feycher。我们仍处于早期开发阶段，希望听到您的想法。如果您好奇，请访问 https://feycher.com 查看。有问题吗？对功能有建议吗？对机器人起义有疑虑？我在评论中，让我们聊聊吧！    提交人    /u/curious_sandwich_965   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fxlsiu/introducing_feycher_its_like_reddit_but_with_ai/</guid>
+      <pubDate>Sun, 06 Oct 2024 17:26:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了机器人来帮助改善你的心情，每天早上通过向你的邮箱发送励志语录</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fxlq98/i_made_bot_to_help_improve_your_mood_by_sending/</link>
+      <description><![CDATA[https://www.inspiremebot.com/    由   提交  /u/ProfessionalSet755   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fxlq98/i_made_bot_to_help_improve_your_mood_by_sending/</guid>
+      <pubDate>Sun, 06 Oct 2024 17:23:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>我以 25,000 美元的价格出售了我的多动力人工智能聊天机器人公司</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fxl9z1/i_sold_my_multi_powered_ai_chatbot_company_for/</link>
+      <description><![CDATA[嗨，企业家们，我是 Jack 不久前我在这里发布了关于创办公司的帖子，现在我很高兴地告诉大家我已成功出售了公司。以下是这一切如何走到一起的故事： 我最初订阅了 ChatGPT 和 Perplexity 等几项 AI 服务，并支付了它们的月度计划。几个月后，我意识到为所有这些单独的服务付费在经济上并不明智。就在那时，我有了创办自己的 AI 聊天机器人公司 Ninja Chat 的想法，该公司将多种 AI 工具集成到一个平台中。 有了这个想法后，我就开始编写软件代码。令人惊讶的是，我只花了大约 20 个小时就开发了所有内容 — 从软件本身到网站、后端和用户界面。之后，我通过在 Twitter 和 Instagram 等平台上创建社交媒体内容来专注于有机营销。这一策略非常有效，在第一个月，我们就获得了 1,400 名免费用户和 60 名付费用户。  我继续优化我们的帖子，并扩展到其他平台，用户群不断增长。最终，我收到了中东一位富有投资者提供的 25,000 美元报价。由于年轻（我 22 岁），我决定接受这笔交易来资助新项目。  到目前为止，这几乎就是我的旅程。如果您有任何疑问，请随时提问 - 我很乐意回答！  附言：我已经开始着手下一个项目了。     提交人    /u/Charming_Jelly_2895   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fxl9z1/i_sold_my_multi_powered_ai_chatbot_company_for/</guid>
+      <pubDate>Sun, 06 Oct 2024 17:04:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>创建 thriftgpt.com 来帮助我的女朋友更轻松地找到二手鞋子和衣服 :)</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fxkkvb/made_thriftgptcom_to_help_my_girlfriend_find/</link>
+      <description><![CDATA[      不确定这里是不是合适的发帖之地，但我最近注意到我的女朋友主要是在我们看电视的时候在网上买衣服和手袋，她通常会打开 10 到 15 个不同的标签，并且浪费了很多时间在网站之间切换比较产品 所以，我决定为她做一个网站，把所有内容都放在一个页面上，到目前为止，她真的很喜欢！ 如果您有兴趣尝试 - https://thriftgpt.com/（当前重定向到 chat.shopencore.ai） 它使用起来非常简单，您只需输入您要查找的内容，与它聊天，它就会搜索数百个转售/二手网站（如 Grailed、Thredup、 Vinted、Depop、Mercari、Poshmark、Vestiarre、The Real Real 等），比如用于在线购物的 ChatGPT。 我回复得很快，所以我很乐意听到任何额外的建议或反馈，谢谢！:) https://reddit.com/link/1fxkkvb/video/u079lcqcy5td1/player    提交人    /u/Economy-Praline5882   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fxkkvb/made_thriftgptcom_to_help_my_girlfriend_find/</guid>
+      <pubDate>Sun, 06 Oct 2024 16:34:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>我正在为 SaaS 产品构建漏斗。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fxkeq0/i_am_building_funnels_for_saas_products/</link>
+      <description><![CDATA[大家好，我即将发布一个我已经做了一段时间的项目。它是免费的，您只需 7 步即可获得销售渠道。最后，我会在子域下为您部署它，以便您开始吸引流量。 我会托管您的图片并指导您完成每一步，这样您最终会得到一个相当不错的登录页面。还会有一个粗大的号召性用语按钮，您可以配置它来预约与客户的通话或将他们引导到另一个页面。如果您有特殊用例，我很乐意在这里听到您的意见：就在这里 我有没有提到它是免费的。您还可以使用上面的链接在测试版准备就绪时收到通知（大约 2 周）。   由    /u/Sunny_Moonshine1  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fxkeq0/i_am_building_funnels_for_saas_products/</guid>
+      <pubDate>Sun, 06 Oct 2024 16:26:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>帮助验证我的商业理念！整理您企业中的所有资产和文件</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fxjny9/help_validate_my_business_idea_organize_all_your/</link>
+      <description><![CDATA[你好！ 我正在验证 Project Pouch 的商业理念，这是一个具有无限层次结构和集中文档的 CMMS（计算机化维护管理系统）SaaS 应用程序。 如果您是维护专业人员或具有 CMMS 系统经验，我将非常感谢您的意见。完成调查大约需要 10-15 分钟。 调查链接：https://tally.so/r/nPX0q5 您不需要具有维护管理或 CMMS 系统经验 参与要求：  18 岁或  感谢您的时间和宝贵的反馈！   由    /u/ProjectPouch  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fxjny9/help_validate_my_business_idea_organize_all_your/</guid>
+      <pubDate>Sun, 06 Oct 2024 15:54:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>💡 使用 YourWay.Store 将您的副业项目货币化！💡</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fxjhbj/monetize_your_side_project_with_yourwaystore/</link>
+      <description><![CDATA[嗨，各位创作者们！👋 您是否希望将您的副业转变为收入来源？无论您是内容创作者、音乐家、影响者还是表演者，YourWay.Store 都提供了一个平台，旨在帮助您通过内容获利并扩大受众。 🎬 借助按次付费、订阅和按投票付费等功能，您可以展示您的作品、与粉丝互动并从您的热情中获利——所有这些都在一个平台上！最好的部分是什么？您可以完全控制您的内容，并且无需任何前期成本即可开始使用。 🚀 YourWay.Store 非常适合那些想要将他们的副业项目构建和发展成更多东西的人 - 无论您是歌手，舞者，演员，还是只是想开展创意事业。 🔗 在YourWay.Store了解更多信息并开始通过您的项目获利  MonetizeYourSideProject #YourWayStore #ContentMonetization #GrowYourAudience #SideProjectSuccess #PayPerView #SubscriptionPlatform #DigitalMonetization #ContentCreators #Influencers    提交人    /u/YourWayStore   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fxjhbj/monetize_your_side_project_with_yourwaystore/</guid>
+      <pubDate>Sun, 06 Oct 2024 15:46:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>想要建立自己的 LinkedIn 形象？做好准备吧——我们即将推出！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fxjfd0/want_to_build_your_own_linkedin_presence_get/</link>
+      <description><![CDATA[        由    /u/nookesh-full-stack   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fxjfd0/want_to_build_your_own_linkedin_presence_get/</guid>
+      <pubDate>Sun, 06 Oct 2024 15:44:03 GMT</pubDate>
+    </item>
     <item>
       <title>完全在浏览器（WebGPU、WebLLM）中运行视觉模型（phi-3.5-vision-instruct）</title>
       <link>https://www.reddit.com/r/SideProject/comments/1fxioc6/run_vision_models_phi35visioninstruct_entirely_in/</link>
@@ -18,13 +88,6 @@
       <description><![CDATA[我的小工具 spacemake.io 昨天获得了 16 位新用户！ 到目前为止，所有用户都使用免费计划，但我一点也不在乎。 很高兴人们真的发现我构建的东西很有用。 我在 Twitter  上分享我的旅程，并希望与大家建立联系。    提交人    /u/heytjreddit   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1fxie82/16_new_users_in_a_day/</guid>
       <pubDate>Sun, 06 Oct 2024 14:59:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>我开发了一款应用，让 GRE/GMAT/SAT 考生轻松积累英语词汇量。希望这个社区能提供反馈。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fxid48/i_built_an_app_to_make_building_english/</link>
-      <description><![CDATA[大家好， 为非英语母语人士建立英语词汇量是一件痛苦的事。因此，我创建了一个简单的应用程序，通过使用模因、助记符、故事等，使其变得有趣且轻松。我期待来自该社区的反馈，以进一步改进该应用程序。批评它并在此处分享您的反馈。 现有替代方案 - 专注于记忆  我的应用程序 - 专注于通过理解和实际使用进行学习  应用程序链接 - www.wordcorn.in    提交人    /u/theoriginalng   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fxid48/i_built_an_app_to_make_building_english/</guid>
-      <pubDate>Sun, 06 Oct 2024 14:57:39 GMT</pubDate>
     </item>
     <item>
       <title>📌各位 SaaS 朋友，你们如何处理 Web 开发？💻👾</title>
@@ -46,69 +109,6 @@
       <description><![CDATA[https://sprixl.com/    由    /u/Sprixl 提交   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1fxhv7p/i_created_a_simple_ai_assisted_project_management/</guid>
       <pubDate>Sun, 06 Oct 2024 14:35:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>GameGift 推出全新名人堂功能 – 仅需 1 英镑即可为您所爱的人庆祝！（限时优惠）</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fxhhpw/new_hall_of_fame_feature_on_gamegift_celebrate/</link>
-      <description><![CDATA[大家好！👋 我刚刚在 GameGift 上推出了一项新功能，您可以在我们的名人堂中永久纪念某个特别的人！只需 1 英镑（现在可享受 50% 的折扣），您就可以添加：  🏅 您所爱之人的名字 📸 他们的照片 💬 个性化信息来庆祝他们的精彩之处  无论是生日、周年纪念日，还是仅仅为了表达感激，这都是创造持久敬意的绝佳方式。 💖 为什么这很重要：名人堂是一种在有趣、有创意的空间中展示对我们最重要的人的方式。您的提交内容将展示给其他人，这是一种体贴而独特的姿态。 我希望验证此功能，因此如果有 3 个人加入，它将帮助我继续构建 GameGift 并提供新的方式来个性化您的游戏和礼物！🙏 👉 单击此处以仅需 1 英镑的价格保留您的位置！    提交人    /u/VulcanWM   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fxhhpw/new_hall_of_fame_feature_on_gamegift_celebrate/</guid>
-      <pubDate>Sun, 06 Oct 2024 14:17:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个用于 AI 代码审查和代码库导出的 CLI 工具</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fxh6m6/i_created_a_cli_tool_for_ai_code_reviews_and/</link>
-      <description><![CDATA[我最近构建了CREV，这是一个基于 Go 的 CLI 工具，旨在从您的终端获取 AI 支持的代码审查。这个想法源于我对手动将代码复制到 ChatGPT 或 Claude 中以获取项目反馈感到沮丧。虽然 ChatGPT 可以为我提供有用的建议，但它缺乏我项目的完整背景，这经常导致审查不完整，因为它不知道我的整个目录结构和所有文件的内容。我想解决这个问题，同时消除 VSCode 和浏览器之间的不断切换。 经过一个月的开发，我很高兴与大家分享 CREV：  GitHub：https://github.com/vossenwout/crev 网站：https://crevcli.com/  功能：  完整代码库导出：将您的整个目录结构和项目所有文件的内容导出到一个文本文件中。 人工智能代码审查：CREV 审查您捆绑的代码库并将审查输出为 markdown 文件。 基于终端工作流程：CREV 是一个 CLI 工具，无需在编辑器和浏览器之间切换。  底层： 我用 Go 编写了 CREV CLI 工具，因为我有兴趣学习该语言，而且我听说它的效率和速度都很好。我使用 https://github.com/spf13/cobra 来管理 CLI 命令，使用 Viper 来处理配置。这是我用 Go 完成的第一个项目，但我发现该语言很有趣，Go 例程也有助于阅读整个代码库。对于代码审查本身，我使用调用 GPT-4o 的 Google Cloud Functions（还计划添加 Claude 3.5 和 GPT-o1）。 你怎么看？ 我很乐意听到您的反馈——无论是新功能的想法，还是您认为此工具对您有用或无用的原因。我每天都在使用它，所以它至少解决了我自己的问题 :)    提交人    /u/YungMixtape2004   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fxh6m6/i_created_a_cli_tool_for_ai_code_reviews_and/</guid>
-      <pubDate>Sun, 06 Oct 2024 14:02:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的文档自动化工具的演示 - echodocs.ai</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fxgy92/demo_of_my_documentation_automation_tool/</link>
-      <description><![CDATA[        由    /u/data-dude782  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fxgy92/demo_of_my_documentation_automation_tool/</guid>
-      <pubDate>Sun, 06 Oct 2024 13:51:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>实现 AI 的方法是什么 - 免费轮胎 API - 初始阶段</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fxgkc2/whats_the_s_way_to_implement_ai_free_tire_api/</link>
-      <description><![CDATA[嗨，我正在做一个项目，需要实现用于文本生成的人工智能。为此，我使用 gemini api，但它与其他 api 一样，每分钟有 15 个用户的限制。那么在你的项目中，你是如何在初始阶段管理这一点的，以便在没有预算的情况下有效地实现这一点。我才刚刚开始做这件事，我对模型没有太多的想法，因为我还在学习和探索。    提交人    /u/Adept_Data_6153   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fxgkc2/whats_the_s_way_to_implement_ai_free_tire_api/</guid>
-      <pubDate>Sun, 06 Oct 2024 13:31:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一款应用，可以根据你的特定技能、爱好和兴趣生成副业创意</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fxgiib/i_made_an_app_that_generates_side_hustle_ideas/</link>
-      <description><![CDATA[嗨 r/SideProject 我一直在努力寻找与我的技能相匹配并且我真正喜欢的副业创意，所以我决定制作一款应用来生成副业创意。它旨在帮助您发现与您的特定兴趣相匹配甚至可能成为全职职业的副业。 这是我的第一次应用程序构建体验，在此过程中我学到了很多关于如何将人工智能与我们许多人面临的实际问题相结合的知识。我很乐意分享我的旅程，回答任何问题，或听听您对这个想法的想法。如果有人有兴趣查看并提供反馈，您可以在这里查看（免费使用：）MyHustleAI 我希望你们都觉得它像我预期的那样有用！    提交人    /u/thavranek   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fxgiib/i_made_an_app_that_generates_side_hustle_ideas/</guid>
-      <pubDate>Sun, 06 Oct 2024 13:29:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>试用 QuickReply AI – 一款为您的图像和文本制作回复的应用程序！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fxg713/try_out_quickreply_ai_an_app_that_crafts_replies/</link>
-      <description><![CDATA[嘿 Reddit！ 我开发了一款名为 QuickReply AI 的应用，我正在寻找一些用户来试用并分享他们的想法。这个想法很简单：您上传一条短信的图片（或任何图像，例如您的宠物的照片），然后该应用使用 AI 生成合适的回复。 QuickReply AI 是什么？  AI 驱动的回复：该应用使用高级 AI 来分析图像和文本，以创建适合上下文的响应。 以隐私为中心：一切都发生在您的设备上，不会向外部发送任何数据。 用户友好：它的设计非常简单明了。上传图片，即可快速获得回复。  为什么要尝试？  这是一种与消息和照片互动的酷方式，无需过多考虑回复。 它可以成为增强日常聊天的有趣工具。 我真诚地希望得到您的反馈，以使其变得更好。  如果您对此感兴趣，我将非常感激您能下载 QuickReply AI 并告诉我它对您有何帮助。您喜欢它什么？可以改进什么？您的反馈非常有价值，将有助于塑造应用程序的未来。 在此处下载： https://apps.apple.com/app/quickreply-ai/id6477271364 非常感谢您的帮助，我期待听到您的想法！    提交人    /u/Substantial-Gur-2821   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fxg713/try_out_quickreply_ai_an_app_that_crafts_replies/</guid>
-      <pubDate>Sun, 06 Oct 2024 13:13:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>低风险创业</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fxg1x5/starting_a_business_in_a_low_risk_way/</link>
-      <description><![CDATA[大家好！ 我一直在从事一个数字和物理方面的项目。 我在 Wix 上建立了一个网站，这是一个 Web 应用程序，用于创建我的产品（稍后会详细介绍），并确定了我产品的物理方面的实现。我想看看我的想法是否有需求，并且想在不开办企业的情况下接受付款。这有可能吗？ 我想使用 lemon squeezy，但它不适用于实体产品......  很想得到帮助！ 谢谢！！    提交人    /u/Actual_Station_5801   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fxg1x5/starting_a_business_in_a_low_risk_way/</guid>
-      <pubDate>Sun, 06 Oct 2024 13:05:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>我使用 React（博客平台，用于分享我每天学到的东西）两年后制作了我的第一个 View 应用，任何反馈都值得赞赏</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fxfvxx/i_made_my_first_view_app_after_2years_using_react/</link>
-      <description><![CDATA[   我很高兴与大家分享我过去 2.5 个月一直在从事的一个项目：一个用 Vue 3 和 Supabase 构建的今日我学会了 (TIL) 博客平台。作为一名长期的 React 开发人员，这是我第一次深入研究 Vue，我很乐意得到您的想法和反馈！ 它是什么？一个您可以快速记下和分享您学到的东西的平台。可以将其视为 Twitter 和个人博客的结合体，但专注于分享知识和学习成果。 我想要一个个人空间来写作和分享我的学习成果，比 Twitter 更充实，但又不像完整的博客那么正式。这个平台让我能够快速捕捉和分享见解，同时也可以作为作品集展示我从 React 到 Vue 的转变。 展示平台使用情况的视频    提交人    /u/ahmedmaher2481998   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fxfvxx/i_made_my_first_view_app_after_2years_using_react/</guid>
-      <pubDate>Sun, 06 Oct 2024 12:57:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>您使用什么工具进行快速云基础设施原型设计？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fxfvp7/what_tools_do_you_use_for_quick_cloud_infra/</link>
-      <description><![CDATA[大家好！ 当您开始构建产品时，您通常如何创建第一个云基础设施？    提交人    /u/daniel_griga   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fxfvp7/what_tools_do_you_use_for_quick_cloud_infra/</guid>
-      <pubDate>Sun, 06 Oct 2024 12:57:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
