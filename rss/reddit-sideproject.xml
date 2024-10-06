@@ -4,111 +4,111 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Sun, 06 Oct 2024 18:18:24 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 06 Oct 2024 21:12:52 GMT</lastBuildDate>
     <item>
-      <title>我终于做到了。我推出了自己的 SaaS。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fxmr3g/i_finally_did_it_i_launched_my_own_saas/</link>
-      <description><![CDATA[我选择了一个简单的待办事项应用程序，它在一个拥挤且成熟的市场（生产力和笔记记录）中作为我的第一个 SaaS。我计划专注于： 用户体验——每项做同样事情的服务都以一种非常不友好的方式做。我正在改变这一点。 反馈——简单地构建我的用户要求的内容。 SEO——免费且美观的工具、博客文章和 PSEO，通过将我支持的每个文件的组合 和我提供的每个结果变成自己的页面。 简短营销——如果一切顺利，那么我会去 TikTok 和 Instagram 真正让应用程序崛起。 我很兴奋，会学到很多东西。 我们开始    提交人    /u/shaharmizrahi   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fxmr3g/i_finally_did_it_i_launched_my_own_saas/</guid>
-      <pubDate>Sun, 06 Oct 2024 18:07:57 GMT</pubDate>
+      <title>[更新] TXTD - 即时 Markdown 页面和链接共享 (Go + HTMX + SQLite)</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fxqi2f/updates_txtd_instant_markdown_page_links_sharing/</link>
+      <description><![CDATA[        提交人    /u/imcsi7   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fxqi2f/updates_txtd_instant_markdown_page_links_sharing/</guid>
+      <pubDate>Sun, 06 Oct 2024 20:48:34 GMT</pubDate>
     </item>
     <item>
-      <title>我制作了一个网站构建器，可以让你导出到 TailwindCSS</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fxm56j/i_made_a_website_builder_that_lets_you_export_to/</link>
-      <description><![CDATA[经过 13k 行代码，第一个版本终于完成了！ 我制作了 thesitegenerator.com - 一个专为开发人员设计的网站构建器。 几秒钟内即可构建，然后一键导出为 HTML + TailwindCSS 哦 - 而且它完全免费使用。 希望听到您的反馈    提交人    /u/blueBerries720   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fxm56j/i_made_a_website_builder_that_lets_you_export_to/</guid>
-      <pubDate>Sun, 06 Oct 2024 17:41:38 GMT</pubDate>
+      <title>另一个具有情绪分析功能的简单文本分析器。添加哪些高级功能可能会很有趣？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fxq2id/another_simple_text_analyzer_with_sentiment/</link>
+      <description><![CDATA[        提交人    /u/Charco6   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fxq2id/another_simple_text_analyzer_with_sentiment/</guid>
+      <pubDate>Sun, 06 Oct 2024 20:29:42 GMT</pubDate>
     </item>
     <item>
-      <title>Feycher 介绍：它类似于 Reddit，但有人工智能和人们在帖子上互动</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fxlsiu/introducing_feycher_its_like_reddit_but_with_ai/</link>
-      <description><![CDATA[      Feycher.com 我一直在开发一款我认为你会喜欢的产品 - 一款名为 Feycher.com 的 AI 应用，它将 Reddit 的最好部分与 AI 角色结合在一起。 主题对话：就像 Reddit 一样，但有 AI 角色和人员加入 公开和私人选项：进行公开讨论或与 AI 角色进行 DM 语音互动：听到你最喜欢的角色通过口型同步的动画说话 想象一下，如果你最喜欢的虚构人物、历史人物，甚至是 r/AskReddit 上的那个奇怪的家伙真的可以回复你的评论。这就是 Feycher。我们仍处于早期开发阶段，希望听到您的想法。如果您好奇，请访问 https://feycher.com 查看。有问题吗？对功能有建议吗？对机器人起义有疑虑？我在评论中，让我们聊聊吧！    提交人    /u/curious_sandwich_965   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fxlsiu/introducing_feycher_its_like_reddit_but_with_ai/</guid>
-      <pubDate>Sun, 06 Oct 2024 17:26:27 GMT</pubDate>
+      <title>这是一个坏主意吗？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fxpxwf/a_bad_idea/</link>
+      <description><![CDATA[我正在考虑为自由职业新手开发一款网络应用。对于大学生和自由职业新手来说，在 upwork 和 fiverr 等应用上获得评分非常困难。这就是这款应用发挥作用的地方。我们使用人工智能为新自由职业者模拟客户。他们按照人工智能的建议完成任务并在截止日期前完成。如果他们的提交符合某些标准，并且满足了人工智能的所有截止日期，那么他们就会得到良好的评分，否则他们就不会得到良好的评分。然后可以在自由职业平台上使用此评分。     提交人    /u/CreepyHorror5196   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fxpxwf/a_bad_idea/</guid>
+      <pubDate>Sun, 06 Oct 2024 20:24:06 GMT</pubDate>
     </item>
     <item>
-      <title>我制作了机器人来帮助改善你的心情，每天早上通过向你的邮箱发送励志语录</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fxlq98/i_made_bot_to_help_improve_your_mood_by_sending/</link>
-      <description><![CDATA[https://www.inspiremebot.com/    由   提交  /u/ProfessionalSet755   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fxlq98/i_made_bot_to_help_improve_your_mood_by_sending/</guid>
-      <pubDate>Sun, 06 Oct 2024 17:23:46 GMT</pubDate>
+      <title>[iOS]为动态岛屿添加注释</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fxpt60/iosadd_notes_to_your_dynamic_island/</link>
+      <description><![CDATA[​ 正在处理 img l2jcqaem5hqc1... App store: https://apps.apple.com/us/app/dynamic-notes-memo/id6478481118 使用 Dynamic Island 做一些有用的事情！ 借助 Dynamic Island Notes，您可以随时使用 Dynamic Island Integration 的笔记。只需通过与应用程序共享文本即可将新笔记添加到 Dynamic Island。当然，您也可以直接在应用程序内创建、组织和删除笔记。使用 Dynamic Island 中的导航栏，您可以轻松在笔记之间切换、删除或复制它们。此外，笔记会显示在锁定屏幕上。该应用程序还可以完美地用作剪贴板历史记录。 功能： - 无缝集成到 Dynamic Island 和锁定屏幕 - 各种配色方案 - 直接在 Dynamic Island 内复制/删除笔记 - 用户友好界面，可与您的 iPhone 无缝集成    提交人    /u/Apprehensive_Top7585   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fxpt60/iosadd_notes_to_your_dynamic_island/</guid>
+      <pubDate>Sun, 06 Oct 2024 20:18:24 GMT</pubDate>
     </item>
     <item>
-      <title>我以 25,000 美元的价格出售了我的多动力人工智能聊天机器人公司</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fxl9z1/i_sold_my_multi_powered_ai_chatbot_company_for/</link>
-      <description><![CDATA[嗨，企业家们，我是 Jack 不久前我在这里发布了关于创办公司的帖子，现在我很高兴地告诉大家我已成功出售了公司。以下是这一切如何走到一起的故事： 我最初订阅了 ChatGPT 和 Perplexity 等几项 AI 服务，并支付了它们的月度计划。几个月后，我意识到为所有这些单独的服务付费在经济上并不明智。就在那时，我有了创办自己的 AI 聊天机器人公司 Ninja Chat 的想法，该公司将多种 AI 工具集成到一个平台中。 有了这个想法后，我就开始编写软件代码。令人惊讶的是，我只花了大约 20 个小时就开发了所有内容 — 从软件本身到网站、后端和用户界面。之后，我通过在 Twitter 和 Instagram 等平台上创建社交媒体内容来专注于有机营销。这一策略非常有效，在第一个月，我们就获得了 1,400 名免费用户和 60 名付费用户。  我继续优化我们的帖子，并扩展到其他平台，用户群不断增长。最终，我收到了中东一位富有投资者提供的 25,000 美元报价。由于年轻（我 22 岁），我决定接受这笔交易来资助新项目。  到目前为止，这几乎就是我的旅程。如果您有任何疑问，请随时提问 - 我很乐意回答！  附言：我已经开始着手下一个项目了。     提交人    /u/Charming_Jelly_2895   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fxl9z1/i_sold_my_multi_powered_ai_chatbot_company_for/</guid>
-      <pubDate>Sun, 06 Oct 2024 17:04:09 GMT</pubDate>
+      <title>设计网站很困难，所以我制作了免费模板以使其变得更容易。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fxps6p/designing_websites_is_difficult_so_i_made_free/</link>
+      <description><![CDATA[      模板链接：https://templyo.io/templates 你好， 设计专业的营销网站可能具有挑战性，特别是在没有设计经验的情况下。这就是为什么我创建了 100% 免费的 Framer 模板来帮助您构建令人惊叹的营销网站并快速推出您的产品，即使没有任何设计或编码技能。 以下是让您的网站启动和运行的简单方法：  重新混合模板：选择一个模板并重新混合以适合您的愿景。 自定义它：使用您的内容和品牌个性化您的网站。 发布它：单击发布并让您的网站上线！  这些模板是 100% 免费的。查看它们并告诉我您的想法！欢迎任何反馈或功能请求。 注意：这些模板是专为 Framer 构建的，如果您不熟悉它，请不要担心 - 它非常直观，非常适合非设计师。 https://preview.redd.it/qtb2hhxz17td1.jpg?width=2400&amp;format=pjpg&amp;auto=webp&amp;s=18c235a31267ff38cd75634dc447e0f1da1d306d https://preview.redd.it/7vw24bg027td1.jpg?width=2400&amp;format=pjpg&amp;auto=webp&amp;s=56d6bf8ae9dd5c25a4fad47c4141f0005172e5c2 https://preview.redd.it/rxsug2s027td1.jpg?width=2400&amp;format=pjpg&amp;auto=webp&amp;s=21e22e5e8b78939ee6c9b20955de2743017cf05e https://preview.redd.it/u5478vx027td1.jpg?width=4800&amp;format=pjpg&amp;auto=webp&amp;s=1d5abd8cd63e3cd01cc9af058ecb504fde70affe https://preview.redd.it/tz3xmhc127td1.jpg?width=2400&amp;format=pjpg&amp;auto=webp&amp;s=09b5e4681aa1f1ddeb1449e39e253cfe58f26cfc https://preview.redd.it/seszh5q127td1.jpg?width=2048&amp;format=pjpg&amp;auto=webp&amp;s=e17ceac33383c0b654d370e29247b1f05bf61959    提交人    /u/Mejed_k   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fxps6p/designing_websites_is_difficult_so_i_made_free/</guid>
+      <pubDate>Sun, 06 Oct 2024 20:17:14 GMT</pubDate>
     </item>
     <item>
-      <title>创建 thriftgpt.com 来帮助我的女朋友更轻松地找到二手鞋子和衣服 :)</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fxkkvb/made_thriftgptcom_to_help_my_girlfriend_find/</link>
-      <description><![CDATA[      不确定这里是不是合适的发帖之地，但我最近注意到我的女朋友主要是在我们看电视的时候在网上买衣服和手袋，她通常会打开 10 到 15 个不同的标签，并且浪费了很多时间在网站之间切换比较产品 所以，我决定为她做一个网站，把所有内容都放在一个页面上，到目前为止，她真的很喜欢！ 如果您有兴趣尝试 - https://thriftgpt.com/（当前重定向到 chat.shopencore.ai） 它使用起来非常简单，您只需输入您要查找的内容，与它聊天，它就会搜索数百个转售/二手网站（如 Grailed、Thredup、 Vinted、Depop、Mercari、Poshmark、Vestiarre、The Real Real 等），比如用于在线购物的 ChatGPT。 我回复得很快，所以我很乐意听到任何额外的建议或反馈，谢谢！:) https://reddit.com/link/1fxkkvb/video/u079lcqcy5td1/player    提交人    /u/Economy-Praline5882   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fxkkvb/made_thriftgptcom_to_help_my_girlfriend_find/</guid>
-      <pubDate>Sun, 06 Oct 2024 16:34:04 GMT</pubDate>
+      <title>我创建了一个网站来展示名人如何赚到他们的第一个一百万</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fxphlx/i_created_a_website_to_show_how_famous_people/</link>
+      <description><![CDATA[我最近开了一个网站，人们可以去那里了解名人是如何赚到他们的第一个一百万的，而且这个网站做得很好。  www.theirfirstmillion.com     提交人    /u/Ok-Ruin-2189   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fxphlx/i_created_a_website_to_show_how_famous_people/</guid>
+      <pubDate>Sun, 06 Oct 2024 20:04:54 GMT</pubDate>
     </item>
     <item>
-      <title>我正在为 SaaS 产品构建漏斗。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fxkeq0/i_am_building_funnels_for_saas_products/</link>
-      <description><![CDATA[大家好，我即将发布一个我已经做了一段时间的项目。它是免费的，您只需 7 步即可获得销售渠道。最后，我会在子域下为您部署它，以便您开始吸引流量。 我会托管您的图片并指导您完成每一步，这样您最终会得到一个相当不错的登录页面。还会有一个粗大的号召性用语按钮，您可以配置它来预约与客户的通话或将他们引导到另一个页面。如果您有特殊用例，我很乐意在这里听到您的意见：就在这里 我有没有提到它是免费的。您还可以使用上面的链接在测试版准备就绪时收到通知（大约 2 周）。   由    /u/Sunny_Moonshine1  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fxkeq0/i_am_building_funnels_for_saas_products/</guid>
-      <pubDate>Sun, 06 Oct 2024 16:26:46 GMT</pubDate>
+      <title>我无意中开发了一款非常适合黑手党的聊天应用👀</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fxpfgy/i_accidentally_built_a_chat_app_thats_kinda/</link>
+      <description><![CDATA[        由    /u/mekmookbro 提交   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fxpfgy/i_accidentally_built_a_chat_app_thats_kinda/</guid>
+      <pubDate>Sun, 06 Oct 2024 20:02:27 GMT</pubDate>
     </item>
     <item>
-      <title>帮助验证我的商业理念！整理您企业中的所有资产和文件</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fxjny9/help_validate_my_business_idea_organize_all_your/</link>
-      <description><![CDATA[你好！ 我正在验证 Project Pouch 的商业理念，这是一个具有无限层次结构和集中文档的 CMMS（计算机化维护管理系统）SaaS 应用程序。 如果您是维护专业人员或具有 CMMS 系统经验，我将非常感谢您的意见。完成调查大约需要 10-15 分钟。 调查链接：https://tally.so/r/nPX0q5 您不需要具有维护管理或 CMMS 系统经验 参与要求：  18 岁或  感谢您的时间和宝贵的反馈！   由    /u/ProjectPouch  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fxjny9/help_validate_my_business_idea_organize_all_your/</guid>
-      <pubDate>Sun, 06 Oct 2024 15:54:29 GMT</pubDate>
+      <title>性格测试，但要让它有趣。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fxpeqx/personality_tests_but_make_it_fun/</link>
+      <description><![CDATA[我在 TikTok 上看到了 DnD 活动幻灯片，它给了我一个可以尝试的想法。在面试中回答整个“告诉我你......的时间”可能很无聊、冗长和乏味，而不是回答整个问题。我想到了一个解决方案 =&gt; 一个融合游戏、动漫、电影 + 技术角色的性格测试。 示例 多个王国希望协作训练一个魔法威胁检测系统，但不共享他们的敏感数据。您将如何为此实施联合学习系统？  我创建了一个简单的界面，您可以在其中选择您的角色和人物，然后回答三个问题 - 这是一种鼓励创造力、跳出框框思考然后获得反馈的方式。 工作原理：  申请人来到现场，选择一个角色 - 动漫、DnD、星球大战。 根据他们申请的角色和角色获取问题。 他们回答并提交（尽可能发挥创造力）。  招聘经理如何知道/理解？ 使用公司愿景、使命、文化契合度陈述构建的管道将把这些转换成申请人将回答的有趣问题。招聘人员获得一个可理解的指标，该指标将申请人的个性与公司契合度和文化相结合。 目前，测试以 DnD 为重点，计划稍后添加更多内容。链接到工具进行尝试：https://personality-test-gamma.vercel.app/    提交人    /u/Long_Complex_4395   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fxpeqx/personality_tests_but_make_it_fun/</guid>
+      <pubDate>Sun, 06 Oct 2024 20:01:37 GMT</pubDate>
     </item>
     <item>
-      <title>💡 使用 YourWay.Store 将您的副业项目货币化！💡</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fxjhbj/monetize_your_side_project_with_yourwaystore/</link>
-      <description><![CDATA[嗨，各位创作者们！👋 您是否希望将您的副业转变为收入来源？无论您是内容创作者、音乐家、影响者还是表演者，YourWay.Store 都提供了一个平台，旨在帮助您通过内容获利并扩大受众。 🎬 借助按次付费、订阅和按投票付费等功能，您可以展示您的作品、与粉丝互动并从您的热情中获利——所有这些都在一个平台上！最好的部分是什么？您可以完全控制您的内容，并且无需任何前期成本即可开始使用。 🚀 YourWay.Store 非常适合那些想要将他们的副业项目构建和发展成更多东西的人 - 无论您是歌手，舞者，演员，还是只是想开展创意事业。 🔗 在YourWay.Store了解更多信息并开始通过您的项目获利  MonetizeYourSideProject #YourWayStore #ContentMonetization #GrowYourAudience #SideProjectSuccess #PayPerView #SubscriptionPlatform #DigitalMonetization #ContentCreators #Influencers    提交人    /u/YourWayStore   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fxjhbj/monetize_your_side_project_with_yourwaystore/</guid>
-      <pubDate>Sun, 06 Oct 2024 15:46:20 GMT</pubDate>
+      <title>我发布了自己的第一款独立 AI 移动应用</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fxoi5m/i_launched_my_first_indie_ai_mobile_app/</link>
+      <description><![CDATA[      您好， 我发布了我的第一款独立移动应用，适用于 Android 和 iOS，发布时间已久。它根据您的照片生成您的 AI 头像图像。目前应用中的模板并不多，但我正在尝试增加它们。我很乐意听到您的反馈。 https://preview.redd.it/uub4qswbs6td1.jpg?width=4096&amp;format=pjpg&amp;auto=webp&amp;s=28717b562fc438eef15c4a0f880914b842049544 Android：https://play.google.com/store/apps/details?id=app.riveri.android iOS：https://apps.apple.com/us/app/riveri-ai-avatar-generator/id6520390601    提交人    /u/ibrahimsn   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fxoi5m/i_launched_my_first_indie_ai_mobile_app/</guid>
+      <pubDate>Sun, 06 Oct 2024 19:22:24 GMT</pubDate>
     </item>
     <item>
-      <title>想要建立自己的 LinkedIn 形象？做好准备吧——我们即将推出！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fxjfd0/want_to_build_your_own_linkedin_presence_get/</link>
-      <description><![CDATA[        由    /u/nookesh-full-stack   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fxjfd0/want_to_build_your_own_linkedin_presence_get/</guid>
-      <pubDate>Sun, 06 Oct 2024 15:44:03 GMT</pubDate>
+      <title>HeadshotPro 如何在不到 18 个月的时间内实现月收入 10 万美元</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fxo9b9/how_headshotpro_got_to_100kmonth_in_less_than_18/</link>
+      <description><![CDATA[      2023 年 3 月，u/dannypostmaa 推出了HeadshotPro 抓住了AI 头像生成器趋势的完美时机。 他在2023 年初发现了 AI 头像生成器的兴起——当时的搜索量仅为 1.3K。 快进到今天，这一数字已激增至每月超过33K 次搜索！ https://preview.redd.it/qoi9bwhjo6td1.png?width=776&amp;format=png&amp;auto=webp&amp;s=2ff94fe3dea8ec8c8e4401807f68464583b5827a u/dannypostmaa 不仅仅是猜测——他发现了一种日益增长的趋势，迅速构建并推出了一款产品，而它成为主流只是时间问题。 这就是您如何在不到 18 个月的时间内将创意转化为每月 10 万美元收入的方法。 而且这种增长主要由 SEO 推动。 根据 Ahrefs，我们可以看到 HeadshotPro 在 ai headshot generator 和 ai professional headshot 等热门关键词中排名非常高，这些关键词基本上每天都会免费带来目标流量。 https://preview.redd.it/pmh21kqlo6td1.jpg?width=1047&amp;format=pjpg&amp;auto=webp&amp;s=4b941737355050c5aef4665479eaf8ef2f5e48a2 那么，这里的教训是什么？ 我认为这里有两个主要的教训。 1.不要只是猜测人们想要什么 寻找仍未被关注的新兴趋势，并围绕它们构建产品。 这样，您的产品就会随着趋势的增长而增长。 在主流流行之前，趋势就会向您展示什么是有效的。这样，您在开始时就不会面临太多的竞争。 2. 先发优势是真实存在的 成为某个领域的首批产品之一会为您在 SEO 方面带来不公平的优势。 首先，由于您起步较早，您可以获得一个与您的首要目标关键字至少部分匹配的域名。这被严重低估了。 然后，由于没有或很少有竞争对手，Google 会轻松地将您排在这些新兴关键字的首位。 一旦您在 Google 上排名第一，就很难失去这个位置，因为在 Google 上排名第一会产生滚雪球效应。排名第一意味着你会得到更多的访问者，更多的反向链接，这会向谷歌发送所有好的信号，让你保持第一的位置。 那么，你相信先发优势吗？还是它被高估了？ 很想听听你的想法..    提交人    /u/WhyBeingLazy   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fxo9b9/how_headshotpro_got_to_100kmonth_in_less_than_18/</guid>
+      <pubDate>Sun, 06 Oct 2024 19:12:07 GMT</pubDate>
     </item>
     <item>
-      <title>完全在浏览器（WebGPU、WebLLM）中运行视觉模型（phi-3.5-vision-instruct）</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fxioc6/run_vision_models_phi35visioninstruct_entirely_in/</link>
-      <description><![CDATA[    /u/Royal-Science7997   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fxioc6/run_vision_models_phi35visioninstruct_entirely_in/</guid>
-      <pubDate>Sun, 06 Oct 2024 15:11:14 GMT</pubDate>
+      <title>为小企业创造价值</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fxo591/creating_value_for_small_businesses/</link>
+      <description><![CDATA[我正在开发一款名为 BizPal 的应用，旨在帮助小企业主处理发票、费用跟踪和 CRM 等事务。 我的目标是让它真正有用，特别是对于那些没有太多经营企业经验的人。我还在研究使用 AI 来自动化簿记和预测。 由于我通常从事 SAAS 产品工作，因此我真的需要一些小企业主的意见。 哪些功能实际上对您有帮助？如果您有兴趣分享想法或测试 MVP，请告诉我！    提交人    /u/Realistic-Ad9639   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fxo591/creating_value_for_small_businesses/</guid>
+      <pubDate>Sun, 06 Oct 2024 19:07:20 GMT</pubDate>
     </item>
     <item>
-      <title>一天增加 16 位新用户！！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fxie82/16_new_users_in_a_day/</link>
-      <description><![CDATA[我的小工具 spacemake.io 昨天获得了 16 位新用户！ 到目前为止，所有用户都使用免费计划，但我一点也不在乎。 很高兴人们真的发现我构建的东西很有用。 我在 Twitter  上分享我的旅程，并希望与大家建立联系。    提交人    /u/heytjreddit   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fxie82/16_new_users_in_a_day/</guid>
-      <pubDate>Sun, 06 Oct 2024 14:59:05 GMT</pubDate>
+      <title>真实的 TikTok 点赞</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fxo4pu/real_tiktok_likes/</link>
+      <description><![CDATA[      https://preview.redd.it/869mjjpfp6td1.png?width=340&amp;format=png&amp;auto=webp&amp;s=45288734426670bb3b69c14af85fb5d8bc44e417 https://mavliker.net/    提交人    /u/TheFSun   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fxo4pu/real_tiktok_likes/</guid>
+      <pubDate>Sun, 06 Oct 2024 19:06:44 GMT</pubDate>
     </item>
     <item>
-      <title>📌各位 SaaS 朋友，你们如何处理 Web 开发？💻👾</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fxi7lh/yo_saas_peeps_how_yall_handling_your_web_dev/</link>
-      <description><![CDATA[我一直深入研究 Web 开发（总部位于印度），使用 React、Tailwind、Node 和 MongoDB 等堆栈为 SaaS 项目构建自定义网站。只是好奇，你们大多数人是内部构建还是外包网站？我觉得拥有合适的团队甚至几个开发朋友可以使扩展变得非常顺利，尤其是对于那些更大的构建。🤝 当事情变得繁重时，我通常会向我的团队寻求帮助，但是当工作量堆积如山时你会怎么做？很想听听你们是如何平衡成本和质量的！🚀🔥    提交人    /u/Creepy_Intention837   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fxi7lh/yo_saas_peeps_how_yall_handling_your_web_dev/</guid>
-      <pubDate>Sun, 06 Oct 2024 14:50:48 GMT</pubDate>
+      <title>以下是我在建立 AI 工具目录后学到的东西以及未来的发展</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fxa2ik/here_is_what_i_learned_after_building_ai_tools/</link>
+      <description><![CDATA[几天前，我启动了我的副项目，即名为“所有 AI 工具”的 AI 工具目录。 为什么：  从事软件开发 8 年后，我辞职了，想在未来的某个时候创办自己的初创公司。在过去 3 年里，我一直在一家用于自动化代码生成的产品型公司工作，我学到了很多东西，我想将我的学习应用到我将要制作的工具中。而最有影响力的原因是，我想在未来推出并拥有自己的 SaaS 工具以获得被动收入。所以首先，我建立了一个目录，收集和展示互联网上的 AI 工具，从长远来看，这将有助于我推广自己的 AI 工具。  我使用过的东西：  对于前端，我使用了 Next.js + ShadcnUI。在 Twitter 上阅读了大量有关其网站遭受 DDoS 攻击的帖子后，我选择使用 cloudflare 堆栈来处理所有事情。我使用的一些服务 Cloudflare 网站 Cloudflare 页面和工作程序 Cloudflare D1 数据库 Cloudflare R2 存储 Cloudflare Vectorize（用于具有 AI 功能的搜索）  我面临的挑战：  全栈与无代码： 我不想只使用无代码，因为我不想让我的目录只是普通的列表目录。我想像 thereisaiforthat (TAAFT) 那样发展它。 它需要数据抓取、格式化数据并重构数据，我发现使用 No Code 很难甚至几乎不可能完成这些工作，所以我选择使用 Full Stack App。 设置项目： 由于我对 cloudflare stack 完全陌生，所以我在设置它时真的遇到了困难。但一个 github repo 帮助我开始了。 我搞乱了本地和远程环境，并且错误地删除了生产数据库表 2 次。 但是现在，我想我已经以正确的方式学会了它，而且这种事情永远不会发生了。 项目的 UI/UX： 这是我非常糟糕的部分之一。我真的不知道什么应该是设计任何应用程序的最佳方式。我的应用程序中的所有页面都是由Cursor设计的。我只是盲目地相信它，我接受它在设计方面给我的任何建议。 我认为每个页面都需要很多改进，但我不知道在哪里可以得到帮助。  我接下来要发布的内容：  使用不同模板自动生成的博客： 到目前为止，我只从一个家伙那里得到了一个建议，那就是为所有添加的工具创建博客，以及同一类别工具之间的比较博客。 我玩弄了OpenAI和其他一些现有的排名博客，以了解如何使用博客进行更好的SEO，在聊天之后，我想出了一个可以用来生成博客的结构见下图。 我将创建内容集群，其中所有博客都将相互链接，例如任何内容编写工具的单独博客都将链接到类别博客以及比较工具博客，以及其竞争对手的博客。 使用 AI 进行数据抓取 目前，我在 cloudflare 上部署了一个工作程序，它接受网站 URL，并通过处理机器人和站点地图，提取所有允许的 URL，然后我按照预定义的格式对它们进行分类。 我使用 OpenAI 提取数据并根据需要对其进行格式化。 必须将其构建为一个单独的系统，以便在需要时可以由新项目重复使用。  以下是两件我不确定的事情：  我网站的 UI/UX，因为 90% 的 UI 代码是由 Cursor 完成的。 用于 SEO 的博客，因为我不知道是否会成功。     提交人    /u/PurpleEagle123   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fxa2ik/here_is_what_i_learned_after_building_ai_tools/</guid>
+      <pubDate>Sun, 06 Oct 2024 06:12:13 GMT</pubDate>
     </item>
     <item>
-      <title>我制作了一个在线全球绘图画布，任何人都可以在上面绘图。Duodle.com</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fxhxz2/i_made_a_online_global_drawing_canvas_that_anyone/</link>
-      <description><![CDATA[      它实时更新，并具有公共服务器和私有服务器创建！Duodle.com    由   提交  /u/SelfImploder   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fxhxz2/i_made_a_online_global_drawing_canvas_that_anyone/</guid>
-      <pubDate>Sun, 06 Oct 2024 14:38:49 GMT</pubDate>
+      <title>以下是我在建立 AI 工具目录后学到的东西以及未来的发展</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fxa1wc/here_is_what_i_learned_after_building_ai_tools/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fxa1wc/here_is_what_i_learned_after_building_ai_tools/</guid>
+      <pubDate>Sun, 06 Oct 2024 06:10:59 GMT</pubDate>
     </item>
     <item>
-      <title>我创建了一个简单的人工智能辅助项目管理工具</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fxhv7p/i_created_a_simple_ai_assisted_project_management/</link>
-      <description><![CDATA[https://sprixl.com/    由    /u/Sprixl 提交   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fxhv7p/i_created_a_simple_ai_assisted_project_management/</guid>
-      <pubDate>Sun, 06 Oct 2024 14:35:15 GMT</pubDate>
+      <title>以下是我通过构建 AI 工具目录学到的东西以及未来展望</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fx9zz0/heres_what_i_learned_by_building_ai_tools/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fx9zz0/heres_what_i_learned_by_building_ai_tools/</guid>
+      <pubDate>Sun, 06 Oct 2024 06:07:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
