@@ -4,111 +4,111 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Mon, 07 Oct 2024 12:30:25 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Oct 2024 15:16:08 GMT</lastBuildDate>
     <item>
-      <title>为你的业余项目举办为期 4 周的在线黑客马拉松（设有奖品）</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fy696p/4_week_online_hackathon_for_your_side_project/</link>
-      <description><![CDATA[我创建了一个在线社区，供人们构建他们热爱的项目。 4 周，您与其他人一起构建，我们会尽力为您提供帮助。我的目标是帮助人们突破一些进入壁垒（软件订阅、供应成本等）。我真的不在乎你的激情项目是什么，你可以创建一个服装品牌、一家初创公司、艺术作品、一部电影……只需选择你喜欢的东西，设定一个目标，看看你能在 4 周内完成什么。 对于最能接受这一过程的人，将有小额补助金。 是的，这听起来像是 buildspace，但我保证这更多的是由社区主导和驱动的，如果你有兴趣，请查看： makers collective 发布时间为 10 月 12 日星期六 :)    提交人    /u/Tephra9977   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fy696p/4_week_online_hackathon_for_your_side_project/</guid>
-      <pubDate>Mon, 07 Oct 2024 12:20:59 GMT</pubDate>
+      <title>我开发了一个 Slack 应用程序来帮助我的远程、跨时区团队提高可视性和沟通能力。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fy9txs/i_built_a_slack_app_to_help_with_visibility/</link>
+      <description><![CDATA[      我开发了 Slack 应用 teamspotlights.com，以解决我在远程工作中遇到的沟通难题。原因如下： 与跨时区的分布式团队合作时，我发现很难保持“联系”。文本更新让人感觉没有人情味，安排视频通话更是一场噩梦。我需要一种快速、有意义的更新分享方式，而不会增加噪音或新工具。 受故事格式的启发，我创建了 Spotlight - 一款用于在工作区分享简短视频更新的 Slack 应用。它让社交媒体故事的便捷性融入到了工作沟通中。 我很乐意听取您的反馈！欢迎随时回复、DM 或发送电子邮件至 [contact@teamspotlights.com](mailto:contact@teamspotlights.com) https://preview.redd.it/ru7r4moo48td1.png?width=3388&amp;format=png&amp;auto=webp&amp;s=6fee8fe76b8f931d3ee64a8eb43e019d860e100f    提交人    /u/Tricky-Patience-2582   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fy9txs/i_built_a_slack_app_to_help_with_visibility/</guid>
+      <pubDate>Mon, 07 Oct 2024 15:03:46 GMT</pubDate>
     </item>
     <item>
-      <title>构建了可在几秒钟内呼叫潜在客户的 AI 电话呼叫工具</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fy5rzr/built_an_ai_phone_calling_tool_that_calls_leads/</link>
-      <description><![CDATA[我的动画代理机构 Wyzowl 已经存在一个问题 10 多年了... 我们是一家以入站为先的企业，因此我们 24/7 全天候收到来自世界各地的咨询。但是，我们没有一个 24/7 团队来响应人们。 这意味着我们经常会失去业务，因为我们无法在同一工作日回复客户。（他们在晚上联系我们，而当我们上班时，已经过了他们的工作日。） 在某些情况下，他们已经与其他供应商交谈过并决定与他们合作。在其他情况下，我们无法联系上他们，因为潜在客户已经冷淡了或者不再联系我们。 10 年前，我有一个想法，建立一个全球性的人脉网络，无论潜在客户身在何处，也无论他们在什么时间进行询问，都可以快速给他们打电话。 这样做的好处是，潜在客户可以快速联系上，并可以在我们的空闲时间范围内预约与我们交谈。我们双方都有一个确认的交谈时间。我们会带着预约来上班，而不是打电话给冷淡的潜在客户。 但是，我没有推进这个想法。 直到现在。我建立并推出了 CallFast：https://www.callfa.st CallFast 会在几秒钟内致电您的潜在客户，在最合适的时间为您和潜在客户预约。 您可以指定谁应该是 AI 助手以及他们应该如何行动。  您定义通话的目的和目标，AI将为您完成。 通话完成后，您可以将数据与日历、CRM 和其他工具同步，以便在需要时获得约会数据。 我很想知道您的想法😊    提交人    /u/matt_byrom   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fy5rzr/built_an_ai_phone_calling_tool_that_calls_leads/</guid>
-      <pubDate>Mon, 07 Oct 2024 11:55:16 GMT</pubDate>
+      <title>在 X/Twitter 上屏蔽广告的正确方法</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fy9m1h/the_right_way_to_mask_ads_on_xtwitter/</link>
+      <description><![CDATA[      大家好！我已经开发了一个 chrome 扩展程序，可以 屏蔽 X/Twitter 上的广告（见下文）。 https://preview.redd.it/hks9n3zilctd1.jpg?width=2876&amp;format=pjpg&amp;auto=webp&amp;s=4393b694e526172c2d87e19feb16eb22683fcf8b 如果它很好，请告诉我。 谢谢大家！    由   提交  /u/hackonet12   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fy9m1h/the_right_way_to_mask_ads_on_xtwitter/</guid>
+      <pubDate>Mon, 07 Oct 2024 14:54:46 GMT</pubDate>
     </item>
     <item>
-      <title>人们在翻译他们的业余项目网站时遇到问题吗？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fy5rpu/do_people_have_a_problem_with_translating_their/</link>
-      <description><![CDATA[大家好， 我遇到的问题是需要将我的 SaaS 网站翻译成多种语言，以便更轻松地扩展到其他国家并改善我的 SEO。 你们是如何解决这个问题的？你使用哪些工具？或者你没有这个问题？    提交人    /u/Training_Year_8522   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fy5rpu/do_people_have_a_problem_with_translating_their/</guid>
-      <pubDate>Mon, 07 Oct 2024 11:54:49 GMT</pubDate>
+      <title>我创建了 PairPoint：一款基于 IRL 位置的社交应用，仅在 35 米半径范围内工作，旨在让您与现实生活中见过的人建立联系 - 那些您可能与之分享过美好瞬间的人，比如一个微笑、一个短暂的一瞥或一个共同的事件。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fy9993/i_built_pairpoint_irl_locationbased_social_app/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fy9993/i_built_pairpoint_irl_locationbased_social_app/</guid>
+      <pubDate>Mon, 07 Oct 2024 14:39:58 GMT</pubDate>
     </item>
     <item>
-      <title>我创建了一个有趣的社交媒体网站，人们可以在那里集体发帖。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fy5r3c/i_made_a_fun_social_media_website_where_people/</link>
-      <description><![CDATA[特殊标记：\del（从帖子中删除最后一个标记）和 \eop（结束帖子）。任何时候您评论的内容以 . ? ! 结尾，它也被视为 EOP（帖子结束）标记。  我几天前才开始做这件事，所以网站还不够完美。任何建议和反馈都值得赞赏。     提交人    /u/Aisthe   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fy5r3c/i_made_a_fun_social_media_website_where_people/</guid>
-      <pubDate>Mon, 07 Oct 2024 11:53:52 GMT</pubDate>
+      <title>构建 NotebookLM 替代方案，支持多语言和自定义语音</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fy98ag/built_notebooklm_alternative_with_multilingual/</link>
+      <description><![CDATA[        由    /u/ANil1729  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fy98ag/built_notebooklm_alternative_with_multilingual/</guid>
+      <pubDate>Mon, 07 Oct 2024 14:38:47 GMT</pubDate>
     </item>
     <item>
-      <title>简单的网站，可在一个信息流中查看热门 Reddit、Hacker News 和 LessWrong 帖子</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fy5cuh/simple_website_to_view_top_reddit_hacker_news_and/</link>
-      <description><![CDATA[https://digest.rtvly.com/ 您可以在此处执行一些操作：  删除政治内容（非常适用于非图片帖子） 按赞同数过滤（默认值为中位数，或将其设置为 0 以查看登上首页的所有内容） 按发布时间过滤（例如，将其设置为 10 小时以上以仅查看带有“稳定”评论部分的帖子，或设置为 0-2 以查看创建的内容）  如果您想更有效地使用 doomscroll，或者如果您只查看这些网站的首页帖子，或者如果您想了解错过的重要内容，那么这个功能非常有用。帖子添加后不会重新排序，因此排序是可预测的（基于您的过滤器）。 如果您想在此处查看其他功能或其他来源，请告诉我。谢谢！    提交人    /u/Orange_Kurasao   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fy5cuh/simple_website_to_view_top_reddit_hacker_news_and/</guid>
-      <pubDate>Mon, 07 Oct 2024 11:30:23 GMT</pubDate>
+      <title>帮助 CS Side Project！！需要建议使用什么平台吗？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fy96x0/help_with_cs_side_project_need_advice_of_what/</link>
+      <description><![CDATA[我想开始一个 cs 项目。我懂一些编程，想重新创建一个应用程序或网站，因为我知道这是获得经验和培养技能的最佳方式。我希望创建一个类似于 Tinder 的应用程序或网站，其中包含个人资料、聊天功能和搜索算法。我从哪里开始？ 我有 VS 代码，但我认为这行不通，因为我只编写了可以在控制台上看到的内容。我想创建一些可以向他人展示/分享或放在我的 GitHub 存储库中的东西。    提交人    /u/Aggressive-Flow4198   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fy96x0/help_with_cs_side_project_need_advice_of_what/</guid>
+      <pubDate>Mon, 07 Oct 2024 14:37:11 GMT</pubDate>
     </item>
     <item>
-      <title>我做了一个动态二维码产品商店！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fy5ajp/i_made_a_dynamic_qr_code_product_shop/</link>
-      <description><![CDATA[去年，一家餐厅找到我，希望我制作一个动态二维码，根据当前时间自动重定向到早餐、午餐和晚餐菜单。我为他们创建了解决方案，并扩展到其他行业，平台上有 2000 名用户。 有一家公司找到我，他们为他们的贸易展制作了一个二维码，并希望将其印在 T 恤上，现在这成为可能！上周，我垂直扩展了解决方案，让人们也可以直接在 Novu.Link 上订购动态二维码的打印件 - 无论是在杯子、T 恤还是贴纸上。 我目前正在与更多产品供应商洽谈，以扩大活动手环和其他此类产品的产品范围。   由    /u/mwargan  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fy5ajp/i_made_a_dynamic_qr_code_product_shop/</guid>
-      <pubDate>Mon, 07 Oct 2024 11:26:31 GMT</pubDate>
+      <title>这里没有初创公司，只有实验室 4：康威的你的游戏 :)</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fy949x/no_startup_here_just_lab_4_conways_game_of_you/</link>
+      <description><![CDATA[        由    /u/redj_acc   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fy949x/no_startup_here_just_lab_4_conways_game_of_you/</guid>
+      <pubDate>Mon, 07 Oct 2024 14:34:07 GMT</pubDate>
     </item>
     <item>
-      <title>批评我的新产品</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fy55b6/criticise_my_new_product/</link>
-      <description><![CDATA[      我从过去 3 年一直从事自由职业，现在是时候构建我自己的想法并为其他开发人员构建它，并确保分享我的旅程 - 查看我的新 yt 视频 -https://youtu.be/JcsmvOi4Hqo?si=A-PKVShx07Rqh12C https://preview.redd.it/94bgpyzuibtd1.png?width=3619&amp;format=png&amp;auto=webp&amp;s=7bb9e93e68f6fd75cbb344ea344a8ad7354b5590    提交人    /u/Severe-Speech9958   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fy55b6/criticise_my_new_product/</guid>
-      <pubDate>Mon, 07 Oct 2024 11:17:36 GMT</pubDate>
+      <title>你们正在建设什么项目？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fy91kz/what_projects_are_you_guys_building/</link>
+      <description><![CDATA[  由    /u/Main_Ad6084  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fy91kz/what_projects_are_you_guys_building/</guid>
+      <pubDate>Mon, 07 Oct 2024 14:30:59 GMT</pubDate>
     </item>
     <item>
-      <title>寻求诚实的反馈</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fy53ef/looking_for_honest_feedback/</link>
-      <description><![CDATA[大家好， 我正在寻找一些帮助和建议来改进我的项目 itineraries.io 我在英国担任外科医生，工作之余，我的主要爱好是旅行和编程。  最近，我挑战自己做一个帮助规划旅行行程的项目。我这样做的目的是让一群人可以一起合作制定行程 - 例如，如果你和你的朋友一起去旅行。然后，你可以将你的行程提供给其他人 - 所以如果其他地方的陌生人认为你的行程很酷，他们可以克隆自己的副本并根据自己的需要进行个性化设置。  我的想法是，如果我们彼此分享这些信息，我们都可以拥有令人难以置信的旅行体验。  您怎么看？您会建议什么来改善这一点？真诚寻求诚实的反馈     提交人    /u/samaralihussain   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fy53ef/looking_for_honest_feedback/</guid>
-      <pubDate>Mon, 07 Oct 2024 11:14:16 GMT</pubDate>
+      <title>我开发了一个免费的 Chrome 扩展程序 Ceres Cart，以跳过食谱网站上的广告并从附近的沃尔玛和克罗格斯购买食材。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fy8zjx/i_built_a_free_chrome_extension_ceres_cart_to/</link>
+      <description><![CDATA[我想分享我的最新项目 Ceres Cart，这是一款 Chrome 扩展程序，旨在让您更轻松地在线查看食谱和购买食材。当您只需要食谱时，请跳过充满个人故事的冗长食谱博客。使用 Ceres Cart，您可以轻松以干净、简化的格式查看食谱，并将食材直接添加到您的 Kroger 或 Walmart 购物车中 - 所有这些都可以通过扩展程序完成！ Chrome 网上应用店    提交人    /u/maddieduck   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fy8zjx/i_built_a_free_chrome_extension_ceres_cart_to/</guid>
+      <pubDate>Mon, 07 Oct 2024 14:28:34 GMT</pubDate>
     </item>
     <item>
-      <title>我花了一天时间编写了一个每月收费 5 美元的网站，提供与每月收费 8 美元的网站相同的服务</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fy4zcd/i_spent_a_day_coding_a_5month_site_with_the_same/</link>
-      <description><![CDATA[  由    /u/Resident-Bike-5644  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fy4zcd/i_spent_a_day_coding_a_5month_site_with_the_same/</guid>
-      <pubDate>Mon, 07 Oct 2024 11:07:01 GMT</pubDate>
+      <title>通过脚本在 Reddit 上收集反馈</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fy8vaw/feedback_gathering_on_reddit_through_a_script/</link>
+      <description><![CDATA[我没有太多时间，昨天编写了一个脚本来收集我的一个项目 (https://miscarriageriskcalculator.app/) 的反馈。 它是用 Python 编写的，功能非常简单。我写了相同的反馈收集消息，但标题和正文不同。 它随机混合标题和正文，并将其发布到大约 50 个 subreddit 列表中的一个随机 reddit 频道（发布到 1 个频道后，由于定位不准确而得到了糟糕的反馈）。 我在我的 ubuntu 服务器上将其作为 CRONjob 运行。 有没有更好的方法来收集 Reddit 反馈而不被标记为垃圾邮件发送者？    提交人    /u/Escade1337   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fy8vaw/feedback_gathering_on_reddit_through_a_script/</guid>
+      <pubDate>Mon, 07 Oct 2024 14:23:19 GMT</pubDate>
     </item>
     <item>
-      <title>VS Code 中的 Notion</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fy4xut/notion_inside_your_vs_code/</link>
-      <description><![CDATA[      https://reddit.com/link/1fy4xut/video/ufic4k5egbtd1/player 大家好 👋 看看我最新的周末项目&lt;​​/p&gt;  一个新的 VS Code/Cursor IDE 扩展，提供一个笔记本编辑器，用于记下待办事项、笔记等！ 界面灵感来自 Notion，使其超级用户友好，可实现无缝笔记记录。 您可以为不同的项目使用不同的笔记本 - 无需在应用程序之间跳转！  它是开源的，所以如果您愿意，请随时查看并做出贡献！我很乐意听到您的反馈！VS  代码扩展链接 - https://marketplace.visualstudio.com/items?itemName=saban.aptus-vs-code  Github 链接 - https://github.com/mdsaban/aptus-vs-code    提交人    /u/mdsaban   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fy4xut/notion_inside_your_vs_code/</guid>
-      <pubDate>Mon, 07 Oct 2024 11:04:24 GMT</pubDate>
+      <title>我建立了一个高质量视觉效果库，您可以在下一个项目中使用它！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fy8ryt/i_built_a_library_of_highquality_visuals_that_you/</link>
+      <description><![CDATA[        提交人    /u/Chemical_Deer_512   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fy8ryt/i_built_a_library_of_highquality_visuals_that_you/</guid>
+      <pubDate>Mon, 07 Oct 2024 14:19:21 GMT</pubDate>
     </item>
     <item>
-      <title>我如何通过一条推文获得 177 名订阅者：经验教训</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fy4w08/how_i_gained_177_subscribers_from_a_single_tweet/</link>
-      <description><![CDATA[大家好！我想分享我时事通讯历程中一个激动人心的里程碑，以及实现这一里程碑的策略。 TL;DR：量身定制的内容 + 巧妙的比较 = 巨大增长 背景：  11 周前开始发布欧洲房地产时事通讯 没有付费广告，只是通过 Twitter 实现有机增长 平均增长：每天约 10 个订阅者  改变游戏规则：上周，在注意到美国订阅者数量增加后，我调整了我的内容策略。结果如何？令人震惊。 病毒式推文：“忘记迪士尼乐园城堡吧 - 只需 145,000 欧元，您就可以在真正的中世纪意大利堡垒中拥有一处房产，并欣赏美景。 &quot; 结果：  191k 次浏览 2k 次赞 122 次转发 669 个书签 一天内增加 177 位新订阅者！  关键要点：  了解您的受众：我适应了美国日益增长的兴趣 使用巧妙的比较：迪士尼乐园与真正的意大利城堡 突出独特价值：所有权、真实性、生活方式 创造 FOMO：暗示独家性和优惠 添加一点幽默：“没有排队，只有葡萄酒”  这次经历让我了解了定制内容和进行意想不到的比较的力量。我很想听听你的想法或类似的经历！    提交人    /u/timkaa   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fy4w08/how_i_gained_177_subscribers_from_a_single_tweet/</guid>
-      <pubDate>Mon, 07 Oct 2024 11:01:28 GMT</pubDate>
+      <title>免费在线工具去除图像背景</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fy8n62/free_online_tool_to_remove_background_from_images/</link>
+      <description><![CDATA[我创建了一个免费工具来从图像中删除背景 - www.bgrem.in 。摄影师、平面设计师或 youtubers 都可以使用它。请查看并发表评论和反馈。     提交人    /u/Old-Indication-9605   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fy8n62/free_online_tool_to_remove_background_from_images/</guid>
+      <pubDate>Mon, 07 Oct 2024 14:13:35 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能摘要应用程序的副项目即将完成。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fy4ulg/nearly_done_with_sideproject_of_ai_summarization/</link>
-      <description><![CDATA[一款利用人工智能从语音中总结想法的移动应用即将完成。  我们最初为自己构建它是为了在灵感闪现时快速捕捉灵感并突出显示关键点。  你会使用这样的东西吗？    提交人    /u/voinn-andrey   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fy4ulg/nearly_done_with_sideproject_of_ai_summarization/</guid>
-      <pubDate>Mon, 07 Oct 2024 10:59:18 GMT</pubDate>
+      <title>免费使用此博客文章创意生成器</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fy8isf/use_this_blog_post_ideas_generator_for_free/</link>
+      <description><![CDATA[        提交人    /u/kronopsizm   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fy8isf/use_this_blog_post_ideas_generator_for_free/</guid>
+      <pubDate>Mon, 07 Oct 2024 14:08:17 GMT</pubDate>
     </item>
     <item>
-      <title>您如何使您的项目盈利？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fy4nab/how_do_you_monetize_your_project/</link>
-      <description><![CDATA[长话短说，我在大学二年级时制作了一个 chrome 扩展程序 CF-Daily，并将其公开，供免费安装和使用。通过此扩展程序，我尝试解决一个非常常见的问题，即根据用户自己的评级，每天找到一个问题来解决，以保持一致性和提高技能，这是一个非常受欢迎的竞争性编程网站 - CodeForces。 现在全世界有 500 多个用户，但我找不到从中赚钱的方法。所有这些用户都是有机的，我只是在 CodeForces 上发布了博客来宣布它。有几个人试图复制这个想法，但我不认为他们也通过扩展获利。 如果不是来自这个项目，我想知道你们在项目中向人们收取了哪些费用。    提交人    /u/AncientlyModern17   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fy4nab/how_do_you_monetize_your_project/</guid>
-      <pubDate>Mon, 07 Oct 2024 10:45:48 GMT</pubDate>
+      <title>已获得 1152 名未付费用户，但很难获得付费客户</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fy8en8/reached_1152_unpaid_users_but_struggling_to_get/</link>
+      <description><![CDATA[虽然我们的成功率很高，而且我们的预测长期来看是有利可图的，但我们付费用户的转化率很低。我们不知道用户是否不满意或难以使用该服务。 我们正在尝试从评论选项卡和社交媒体获取反馈，但我们陷入困境。 有关我们服务的信息如下： 如果您不想将荒谬的资产留在原地数月，请根据 CryptOn 的每日价格预测通过日间交易来增加您的总余额。 您不再需要花费数小时分析图表。单击您要交易的资产并找出它们的未来价格。您现在可以免费查看我们的成功率。 https://cryptonforecast.com – 加密和股票价格预测算法    提交人    /u/CryptOn_Forecast   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fy8en8/reached_1152_unpaid_users_but_struggling_to_get/</guid>
+      <pubDate>Mon, 07 Oct 2024 14:03:15 GMT</pubDate>
     </item>
     <item>
-      <title>推出了一款个人财务应用程序——如何在开发者圈子之外推销它？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fy4ko2/launched_a_personal_finance_app_how_do_i_market/</link>
-      <description><![CDATA[大家好，上周我发布了 SlickBudget，这是一款帮助人们实现财务目标的个人理财应用。为了让它更具吸引力，我甚至提供 2 个月的免费试用，无需信用卡。尽管如此，我仍在努力寻找我的第一批客户。我觉得我在 IndieHacker 和 Build in Public 社区中读到的大多数建议并不适用于我，因为那里的大多数人都在创建开发者/企业家工具，而这些社区已经对此感兴趣。是否有人在开发者世界之外成功发布应用的经验，如果有，成功的最重要因素是什么？    提交人    /u/MassaSami   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fy4ko2/launched_a_personal_finance_app_how_do_i_market/</guid>
-      <pubDate>Mon, 07 Oct 2024 10:40:39 GMT</pubDate>
+      <title>如何销售小程序？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fy8ee1/how_to_sell_a_mini_app/</link>
+      <description><![CDATA[  由    /u/aguiarroney  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fy8ee1/how_to_sell_a_mini_app/</guid>
+      <pubDate>Mon, 07 Oct 2024 14:02:56 GMT</pubDate>
     </item>
     <item>
-      <title>我刚刚完成了 RapidFeedback 的登陆页面！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fy44xo/ive_just_wrapped_up_the_landing_page_for/</link>
-      <description><![CDATA[      现在进行最后几项润色，很快我就会将其投入生产。迫不及待地想与大家分享并听取您的想法 - 欢迎提供反馈和评论！ https://preview.redd.it/myvsijxm6btd1.jpg?width=1920&amp;format=pjpg&amp;auto=webp&amp;s=8b17c602cfeef35bae08b2f11dcb98f00e02f434    提交人    /u/Kind_Guide_1232   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fy44xo/ive_just_wrapped_up_the_landing_page_for/</guid>
-      <pubDate>Mon, 07 Oct 2024 10:09:39 GMT</pubDate>
+      <title>战争地图</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fy7ynb/war_map/</link>
+      <description><![CDATA[我根据维基百科上关于战争发生原因的文章，制作了一张实时彩色编码的世界战争地图。 如果它有意义，请告诉我：https://warmap.app/    提交人    /u/Remarkable-Field5359   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fy7ynb/war_map/</guid>
+      <pubDate>Mon, 07 Oct 2024 13:44:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
