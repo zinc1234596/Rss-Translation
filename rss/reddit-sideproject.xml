@@ -4,7 +4,49 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Mon, 07 Oct 2024 01:11:03 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Oct 2024 03:23:01 GMT</lastBuildDate>
+    <item>
+      <title>建立由社区设计和投票驱动的贴纸订阅，欢迎任何反馈！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fxya2u/building_a_sticker_subscription_driven_by/</link>
+      <description><![CDATA[需要对我一直在进行的项目/想法的反馈。它是PickTheStickers.com，基本上是每月 11 美元的贴纸订阅（也可以是一次性购买），社区设计并投票选出每月的贴纸。现在，我只有一个登陆页面来衡量兴趣，同时我设置了我的 Shopify 商店并构建了运行设计提交和设计投票的平台。 高级概念：  每月 3 个高质量模切贴纸 买家选择成为设计师（提交设计）或投票者（对设计进行投票） 社区投票的前 3 名设计都会被打印出来 获胜的设计师无需做任何工作即可获得报酬，我们负责完成 与 Obsecurity 应用程序集成以获取最新的送货地址  对以下任何内容的任何反馈（或任何真正的反馈）都表示赞赏：  有任何疑虑或建议来改进概念吗？ 有什么关于销售实体产品（贴纸）的具体内容吗？  对订阅式服务有任何建议或反馈吗？ 对我的着陆页有反馈吗？     提交人    /u/Mmmmmmmmmmmeh   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fxya2u/building_a_sticker_subscription_driven_by/</guid>
+      <pubDate>Mon, 07 Oct 2024 03:16:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了一款产品，帮助设计师将手机中的图片直接传输到 Figma 中的设计文件中</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fxy5ov/i_created_a_product_that_helps_designers_transfer/</link>
+      <description><![CDATA[Snapdrop：Figma 设计师的即时图像传输 使用 Snapdrop 简化您的 UI/UX 设计工作流程 - 这是将图像从手机发送到 Figma 的最快方式！ 工作原理：1. 从手机图库中选择图像 2. 生成二维码 3. 在 Figma 中激活 Snapdrop 插件 4. 使用手机扫描二维码 5. 查看并将图像发送到您的 Figma 项目 如果这里有人是 Figma 设计师，我很想知道你对这样的应用程序的看法 这是应用程序链接https://play.google.com/store/apps/details?id=com.saurabh7973.snapdrop 对于 Figma 添加Snapdrop 插件在您的 Figma 设计文件中 感谢您阅读本文... 🙏    提交人    /u/Saurabh7973   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fxy5ov/i_created_a_product_that_helps_designers_transfer/</guid>
+      <pubDate>Mon, 07 Oct 2024 03:09:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个网络应用程序，可以轻松跟踪你的医疗测试结果的趋势</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fxxsto/i_made_a_web_app_that_makes_it_easy_to_track/</link>
+      <description><![CDATA[我制作了一个 Web 应用程序，它可以自动从您的医疗测试 PDF 中提取生物标志物并绘制成图表，以便您可以跟踪一段时间内的趋势。 如果您试用这个非常早期的版本，我很乐意听取您的反馈：https://medical-test-tracker.vercel.app 请注意，后端使用 OpenAI 的 API 进行 PDF 处理。后端不存储任何内容。所有测试结果都本地存储在您的机器上。    提交人    /u/External-Coast-816   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fxxsto/i_made_a_web_app_that_makes_it_easy_to_track/</guid>
+      <pubDate>Mon, 07 Oct 2024 02:50:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>我一周前推出了一个网站，到目前为止已经赚了 900 美元，下一步该怎么做？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fxwiwr/i_launched_a_site_a_week_ago_and_its_made_900_so/</link>
+      <description><![CDATA[      一周前，我启动了我的副业，一个可以访问所有流行 AI 模型（GPT-O1、Claude、Perplexity、Flux、Gemini、Stable Diffusion 等）的一体化 AI 平台。 到目前为止，它的收入为 900 美元，我正在寻找一些新的策略 (boxchat dot ai) 我在大约 2 周的时间内创建了该网站，制作了一个赞助视频，该视频有点火爆，并从中获得了最初几百美元的收入。 如果您对该网站有任何反馈或对我如何发展它的任何见解，请告诉我    提交人    /u/NoOpportunity6228   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fxwiwr/i_launched_a_site_a_week_ago_and_its_made_900_so/</guid>
+      <pubDate>Mon, 07 Oct 2024 01:42:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>我厌倦了为每个项目手动填写模拟数据，所以我构建了一个 AI 模拟生成器</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fxw7fo/i_got_tired_of_filling_out_mock_data_manually_for/</link>
+      <description><![CDATA[        提交人    /u/LessPerspective2937   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fxw7fo/i_got_tired_of_filling_out_mock_data_manually_for/</guid>
+      <pubDate>Mon, 07 Oct 2024 01:25:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>我推出了一款应用程序，将文章和新闻通讯转换成自定义播客！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fxvzau/i_launched_an_app_to_turn_articles_and/</link>
+      <description><![CDATA[大家好 - 我开发了 Palate，这是一款 iOS 应用，可让您从网络上的文章、博客、散文等创建自定义播客。 我开发了 palate 来解决我的一个个人痛点 - 我永远没有足够的时间阅读我想阅读的所有内容。 访问网站了解更多信息，您可以通过此链接在应用商店找到它！ palate 可以免费下载，但需要每月支付订阅费。有一个免费试用版（7 天），我目前正在努力构建永久免费套餐。 目前，palate 支持此功能：  通过输入链接从文章/散文/长篇文章创建播客 订阅 substack 出版物，以便自动获取新帖子的播客 在 substack 上搜索帖子  希望大家尝试一下并提供反馈！也可以随时提问！    提交人    /u/renaissancelife   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fxvzau/i_launched_an_app_to_turn_articles_and/</guid>
+      <pubDate>Mon, 07 Oct 2024 01:13:45 GMT</pubDate>
+    </item>
     <item>
       <title>RateMyMajor.io – 学生创建的网站，供毕业生和行业专业人士进行诚实的专业评论</title>
       <link>https://www.reddit.com/r/SideProject/comments/1fxvayv/ratemymajorio_student_made_website_for_honest/</link>
@@ -67,48 +109,6 @@
       <description><![CDATA[我正在为那些喜欢与四条腿的好朋友一起进行户外探险和海滩度假的爱狗人士创建一个订阅盒。每个盒子都包含时尚、可持续制作的沙滩装、环保的狗狗产品，以及正念工具，帮助您放慢脚步，享受与小狗在一起的时光。通过分享您的反馈来帮助我塑造完美的盒子！ 立即参加调查，帮助实现这个梦想！ https://forms.gle/gge54moqNdytGUuK6    提交人    /u/Separate-Quote-320   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1fxrf5w/help_us_create_the_ultimate_dog_lovers/</guid>
       <pubDate>Sun, 06 Oct 2024 21:28:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>[更新] TXTD - 即时 Markdown 页面和链接共享 (Go + HTMX + SQLite)</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fxqi2f/updates_txtd_instant_markdown_page_links_sharing/</link>
-      <description><![CDATA[        提交人    /u/imcsi7   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fxqi2f/updates_txtd_instant_markdown_page_links_sharing/</guid>
-      <pubDate>Sun, 06 Oct 2024 20:48:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>另一个具有情绪分析功能的简单文本分析器。添加哪些高级功能可能会很有趣？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fxq2id/another_simple_text_analyzer_with_sentiment/</link>
-      <description><![CDATA[        提交人    /u/Charco6   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fxq2id/another_simple_text_analyzer_with_sentiment/</guid>
-      <pubDate>Sun, 06 Oct 2024 20:29:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>这是一个坏主意吗？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fxpxwf/a_bad_idea/</link>
-      <description><![CDATA[我正在考虑为自由职业新手开发一款网络应用。对于大学生和自由职业新手来说，在 upwork 和 fiverr 等应用上获得评分非常困难。这就是这款应用发挥作用的地方。我们使用人工智能为新自由职业者模拟客户。他们按照人工智能的建议完成任务并在截止日期前完成。如果他们的提交符合某些标准，并且满足了人工智能的所有截止日期，那么他们就会得到良好的评分，否则他们就不会得到良好的评分。然后可以在自由职业平台上使用此评分。     提交人    /u/CreepyHorror5196   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fxpxwf/a_bad_idea/</guid>
-      <pubDate>Sun, 06 Oct 2024 20:24:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>[iOS]为动态岛屿添加注释</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fxpt60/iosadd_notes_to_your_dynamic_island/</link>
-      <description><![CDATA[​ 正在处理 img l2jcqaem5hqc1... App store: https://apps.apple.com/us/app/dynamic-notes-memo/id6478481118 使用 Dynamic Island 做一些有用的事情！ 借助 Dynamic Island Notes，您可以随时使用 Dynamic Island Integration 的笔记。只需通过与应用程序共享文本即可将新笔记添加到 Dynamic Island。当然，您也可以直接在应用程序内创建、组织和删除笔记。使用 Dynamic Island 中的导航栏，您可以轻松在笔记之间切换、删除或复制它们。此外，笔记会显示在锁定屏幕上。该应用程序还可以完美地用作剪贴板历史记录。 功能： - 无缝集成到 Dynamic Island 和锁定屏幕 - 各种配色方案 - 直接在 Dynamic Island 内复制/删除笔记 - 用户友好界面，可与您的 iPhone 无缝集成    提交人    /u/Apprehensive_Top7585   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fxpt60/iosadd_notes_to_your_dynamic_island/</guid>
-      <pubDate>Sun, 06 Oct 2024 20:18:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>设计网站很困难，所以我制作了免费模板以使其变得更容易。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fxps6p/designing_websites_is_difficult_so_i_made_free/</link>
-      <description><![CDATA[      模板链接：https://templyo.io/templates 你好， 设计专业的营销网站可能具有挑战性，特别是在没有设计经验的情况下。这就是为什么我创建了 100% 免费的 Framer 模板来帮助您构建令人惊叹的营销网站并快速推出您的产品，即使没有任何设计或编码技能。 以下是让您的网站启动和运行的简单方法：  重新混合模板：选择一个模板并重新混合以适合您的愿景。 自定义它：使用您的内容和品牌个性化您的网站。 发布它：单击发布并让您的网站上线！  这些模板是 100% 免费的。查看它们并告诉我您的想法！欢迎任何反馈或功能请求。 注意：这些模板是专为 Framer 构建的，如果您不熟悉它，请不要担心 - 它非常直观，非常适合非设计师。 https://preview.redd.it/qtb2hhxz17td1.jpg?width=2400&amp;format=pjpg&amp;auto=webp&amp;s=18c235a31267ff38cd75634dc447e0f1da1d306d https://preview.redd.it/7vw24bg027td1.jpg?width=2400&amp;format=pjpg&amp;auto=webp&amp;s=56d6bf8ae9dd5c25a4fad47c4141f0005172e5c2 https://preview.redd.it/rxsug2s027td1.jpg?width=2400&amp;format=pjpg&amp;auto=webp&amp;s=21e22e5e8b78939ee6c9b20955de2743017cf05e https://preview.redd.it/u5478vx027td1.jpg?width=4800&amp;format=pjpg&amp;auto=webp&amp;s=1d5abd8cd63e3cd01cc9af058ecb504fde70affe https://preview.redd.it/tz3xmhc127td1.jpg?width=2400&amp;format=pjpg&amp;auto=webp&amp;s=09b5e4681aa1f1ddeb1449e39e253cfe58f26cfc https://preview.redd.it/seszh5q127td1.jpg?width=2048&amp;format=pjpg&amp;auto=webp&amp;s=e17ceac33383c0b654d370e29247b1f05bf61959    提交人    /u/Mejed_k   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fxps6p/designing_websites_is_difficult_so_i_made_free/</guid>
-      <pubDate>Sun, 06 Oct 2024 20:17:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个网站来展示名人如何赚到他们的第一个一百万</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fxphlx/i_created_a_website_to_show_how_famous_people/</link>
-      <description><![CDATA[我最近开了一个网站，人们可以去那里了解名人是如何赚到他们的第一个一百万的，而且这个网站做得很好。  www.theirfirstmillion.com     提交人    /u/Ok-Ruin-2189   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fxphlx/i_created_a_website_to_show_how_famous_people/</guid>
-      <pubDate>Sun, 06 Oct 2024 20:04:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
