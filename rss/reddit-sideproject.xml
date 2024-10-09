@@ -4,7 +4,42 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Wed, 09 Oct 2024 03:20:24 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Oct 2024 06:21:32 GMT</lastBuildDate>
+    <item>
+      <title>我创建了一个可以帮助你学习中文词汇的网站</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fzkmkz/i_made_a_site_that_helps_you_learn_chinese/</link>
+      <description><![CDATA[它会跟踪您认识的单词，根据单词频率创建抽认卡，如果您粘贴中文文本，它可以选择要学习的句子。它还会为每张卡片生成音频，以便您练习听力和阅读。 请看一下 - 任何反馈都值得赞赏！    由    /u/bishbashboshbish   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fzkmkz/i_made_a_site_that_helps_you_learn_chinese/</guid>
+      <pubDate>Wed, 09 Oct 2024 05:53:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>问：如何推广我正在打造的产品？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fzkjhf/question_how_to_promote_the_product_i_am_building/</link>
+      <description><![CDATA[您好，我需要有关如何推广新 SAAS 的帮助。在推出 subgpt.ai 8 天后，我只吸引了 260 名访客。当我们在当天发布有关我们网站的信息时，我们有 145 名访客，但根据 Google Analytics 的数据，其中只有 3-4 名是新用户，0 名是回访用户。我在 Twitter、LinkedIn 和 Facebook 上发过帖子，但似乎无法吸引更多用户。有哪些策略和战术可以为我的网站带来更多流量？ 感谢您的帮助。    提交人    /u/mamunbd1   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fzkjhf/question_how_to_promote_the_product_i_am_building/</guid>
+      <pubDate>Wed, 09 Oct 2024 05:46:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>我和我兄弟在浏览器上制作了 AI 助手和朋友</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fzjqpy/me_and_my_bro_made_an_ai_assistant_and_friend_on/</link>
+      <description><![CDATA[嘿伙计们，谁想拥有一个人工智能助手和朋友每天帮助你，而且免费、没有抱怨、没有麻烦？如果你是那个人，请尝试https://chromewebstore.google.com/detail/bubbybeep-your-ai-explora/cbibgdcbkoikdkeahemkjkpacmgicaco  由于我们才刚刚开始建设，所以非常感谢大家提供任何反馈！    提交人    /u/pvhieu   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fzjqpy/me_and_my_bro_made_an_ai_assistant_and_friend_on/</guid>
+      <pubDate>Wed, 09 Oct 2024 04:52:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>你如何验证你的想法？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fziu17/how_do_you_validate_your_idea/</link>
+      <description><![CDATA[你是如何验证你的副业的？我刚刚开始我的第一份副业。我正在准备一种问卷+等待名单的方法，带有一个登陆页面并进行社交媒体覆盖。根据这次活动的表现，我计划在 MVP 和路线图上起草一个可靠的计划。  你认为这是一种更好的方法吗，有什么建议吗？     提交人    /u/nameisramg   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fziu17/how_do_you_validate_your_idea/</guid>
+      <pubDate>Wed, 09 Oct 2024 03:56:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>🚀 利用 AI 为您的企业解锁最佳域名！🔍</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fzie15/unlock_the_best_domains_for_your_business_with_ai/</link>
+      <description><![CDATA[  由    /u/vishr  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fzie15/unlock_the_best_domains_for_your_business_with_ai/</guid>
+      <pubDate>Wed, 09 Oct 2024 03:29:46 GMT</pubDate>
+    </item>
     <item>
       <title>我打造了一个人工智能，可帮助您实时完成求职面试！</title>
       <link>https://www.reddit.com/r/SideProject/comments/1fzhz66/i_built_an_ai_that_helps_you_crush_job_interviews/</link>
@@ -29,7 +64,7 @@
     <item>
       <title>非常高兴与大家分享 Sticky – 一款实时协作白板应用</title>
       <link>https://www.reddit.com/r/SideProject/comments/1fzh25n/super_excited_to_share_sticky_a_realtime/</link>
-      <description><![CDATA[      lander 几天前我开始了这个项目，这真是一段有趣的旅程！Sticky 可让您在共享板上与朋友或队友实时协作，只需使用 Convex.dev 和 React 即可。您可以执行以下操作： 在共享板上进行实时协作 完全可自定义的便签（更改颜色、调整大小、移动便签 - 做您要做的事情！） 跟踪在线用户并实时跟踪每个人的光标移动 使用唯一代码轻松共享板 响应式设计 这是一次很酷的学习体验，尤其是因为我上周末才开始。很想听听您的想法或了解您构建实时应用的经验！ 查看： Sticky.today 祝您编码愉快，周三快乐！  董事会预览    由   提交  /u/Lost_Support4211   [链接] [评论] ]]></description>
+      <description><![CDATA[      lander [开源] 几天前我投入了这个项目，这是一个有趣的过程！Sticky 可让您在共享板上与朋友或队友实时协作，只需使用 Convex.dev 和 React 即可。您可以执行以下操作： 在共享板上进行实时协作 完全可自定义的便签（更改颜色、调整大小、移动便签 - 做您要做的事！） 跟踪谁在线并实时跟踪每个人的光标移动 使用唯一代码轻松共享板 响应式设计 这是一个很酷的学习体验，特别是因为我上周末才开始使用它。很乐意听到您的想法或了解您构建实时应用程序的经验！ 查看： Sticky.today 快乐编码，快乐星期三！ 板预览    提交人    /u/Lost_Support4211   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1fzh25n/super_excited_to_share_sticky_a_realtime/</guid>
       <pubDate>Wed, 09 Oct 2024 02:16:21 GMT</pubDate>
     </item>
@@ -74,41 +109,6 @@
       <description><![CDATA[40 天前，我推出了一个非常基本的网站 lifeistooshort.today，到目前为止，通过微型广告投放已成功实现 650 美元的销售额。 （这个网站如此基础，我还是感到震惊……）  现在，我不知道该如何继续。 该网站仍然是一个单页网站，用户可以输入他当前的年龄并选择他的出生国家，以查看他剩余的生命时间有多长。 我想在网站上创建其他功能，但无法决定应该朝哪个方向发展。  我想我有两个选择：  A.倾向于深入研究其背后的深层含义，并围绕它构建一个真正的工具。 -&gt; 我正在考虑类似消息传递功能的东西，可以在 x 周、几个月或几年内给自己写一个警钟 B. 倾向于震撼因素，并打赌它会在其他平台上再次流行（TikTok、IG、Facebook……） -&gt; 使用其他与死亡相关的统计数据扩展计算器（例如最常见的死亡、最常见的遗憾等） 我感谢任何建议或指点。真的感觉现在很受困扰    提交人    /u/JoschuaBuilds   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1fze33n/i_am_stuck_at_650_in_sales_with_my_first_website/</guid>
       <pubDate>Tue, 08 Oct 2024 23:44:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>向朋友发起了一个挑战，分享应用程序——你觉得呢？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fzdzh6/made_a_challenge_sharing_app_for_friends_thoughts/</link>
-      <description><![CDATA[大家好， 所以我有了一个应用程序的想法，你可以挑战你的好友做一些事情。你知道，就像你的朋友敢于让你做某事，而你最终真的做了？就是那种事。 我使用无代码工具将它作为一个副项目组合在一起。它的作用如下：  向你的朋友发起挑战 跟踪谁做了什么 [任何其他主要功能]  快速提醒：目前它仅适用于移动浏览器。也可以在桌面上使用，但界面看起来不太好。一旦我得到一些反馈和用户，我计划在 App Store 和 Play Store 上推出它。 我不确定它是否有用，所以我想问问你们。您觉得如何？  您会使用类似的东西吗？ 什么会让它变得更好？ 关于如何让人们尝试它，您有什么想法吗？  如果您想查看它，以下是链接：Challengo.me 如果您不想注册，我可以为您提供一些测试登录信息。 我四处寻找，发现一些旧的应用程序有类似的东西，但它们现在已经不存在了。这让我怀疑这是否仍然是人们想要的东西。 无论如何，我非常感谢任何反馈。好或坏，请告诉我您的想法。    提交人    /u/jarvis_io   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fzdzh6/made_a_challenge_sharing_app_for_friends_thoughts/</guid>
-      <pubDate>Tue, 08 Oct 2024 23:39:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>Wealthsimple 可视化</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fzda36/wealthsimple_visualisation/</link>
-      <description><![CDATA[大家好！ 我一直在努力可视化我的 Wealthsimple 投资组合，并创建了一个图表来比较一段时间内的股息与贡献。我还制作了另一张图表来分解我的所有持股，让我更清楚地了解每项投资的表现。 我正在探索提供这些图表的方法，以便用户可以更好地直观地了解他们当前和未来的投资。 我希望在这里听到您的反馈。请多多包涵。谢谢😬 PS：股息数字被夸大了，以确保视觉概念清晰。 股息与捐款 带有股票代码的投资组合 摘要贡献与收入    提交人    /u/Splashyt349   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fzda36/wealthsimple_visualisation/</guid>
-      <pubDate>Tue, 08 Oct 2024 23:05:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>品牌反馈</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fz11zy/branding_feedback/</link>
-      <description><![CDATA[大家好，  我真的需要你的帮助。我目前正在为我的拳击馆建立一个新品牌。我的教练是一位无可争议的世界冠军，目前的任务是在这项运动中建立一个社区，同时也帮助人们变得更强大，因为拳击场外的生活也很艰难。我们的主要重点是反对现代的、不必要的拳击技术，这些技术只在表面上看起来不错，但实际上在真正的战斗中没有任何价值。我们还相信，练习拳击不仅仅是一项运动，它还能引导你开发正确的工具来面对生活中最艰难的挑战，坚强地站起来，最重要的是，你不会孤身一人。  我想问你一个简单的问题。用一个词来概括，我们的网站让你感觉如何？请说出您脑海中出现的第一种情绪。  这是链接：https://www.jalbelitefightclub.com/ 非常感谢！ JALB ELITE FIGHT CLUB &lt;3     提交人    /u/Educational_Mind2387   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fz11zy/branding_feedback/</guid>
-      <pubDate>Tue, 08 Oct 2024 14:25:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>重新设计旧服务，我在其中收集了 8,000 多个 YouTube 短视频来学习英语</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fz02re/redesigned_old_service_in_which_i_collect_8000/</link>
-      <description><![CDATA[      storyboost.me 这是链接 - https://storyboost.me    提交人    /u/QuitRevolutionary310   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fz02re/redesigned_old_service_in_which_i_collect_8000/</guid>
-      <pubDate>Tue, 08 Oct 2024 13:41:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>我开发了一款人工智能烹饪助手</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fyzvht/i_built_an_aipowered_cooking_assistant/</link>
-      <description><![CDATA[      https://preview.redd.it/bqwlxpzobjtd1.png?width=2474&amp;format=png&amp;auto=webp&amp;s=73f5ca3d6f6274794759040b8761d4d49613fc63 我创建了 Sage Cooking，因为我和我的妻子都喜欢做饭，但我们都是挑食者。这是一款由人工智能驱动的下一代食谱管理器，根据顶级厨师和食品科学家的技术进行了微调。我想要一种可以让我们根据自己的喜好烹饪美味佳肴并记住我们喜欢的食谱的东西。 主要特点：  利用烹饪专业知识生成人工智能食谱 编辑食谱以实现个性化 “按照片烹饪” - 上传菜肴图片，获取食谱（出奇的准确！） 浏览数千种预先生成的免费食谱  与 ChatGPT/Claude 相比，我们已经使用开发版本几个月了。由于进行了微调，食谱和配料选择明显更好。 它非常简单，但功能强大。非常适合挑食者或任何想要提升家庭烹饪水平的人。  给我发电子邮件至 [sage.cookinghelp@gmail.com](mailto:sage.cookinghelp@gmail.com) 并提及 Reddit！我会给前 100 名用户一个月的免费试用期。很想听听你们的想法。    提交人    /u/macguy932   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fyzvht/i_built_an_aipowered_cooking_assistant/</guid>
-      <pubDate>Tue, 08 Oct 2024 13:32:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
