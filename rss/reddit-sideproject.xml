@@ -4,7 +4,56 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Wed, 09 Oct 2024 01:08:20 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Oct 2024 03:20:24 GMT</lastBuildDate>
+    <item>
+      <title>我打造了一个人工智能，可帮助您实时完成求职面试！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fzhz66/i_built_an_ai_that_helps_you_crush_job_interviews/</link>
+      <description><![CDATA[大家好！我很高兴能与大家分享我创造的东西——一种帮助求职者实时通过面试的人工智能工具！这个想法来自于我自己在面试中的挣扎以及看到朋友错失机会。它的工作原理如下：  上传您的简历和（可选）职位描述。 人工智能了解您的背景和工作。 实时分析：人工智能在面试过程中倾听。 量身定制的答案建议：它会在您需要时提供个性化答案。  我希望你能尝试一下！在这里查看：LiveInterview.ai。迫不及待想听听你的想法！    提交人    /u/Complex-Frosting-828   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fzhz66/i_built_an_ai_that_helps_you_crush_job_interviews/</guid>
+      <pubDate>Wed, 09 Oct 2024 03:06:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用乳胶模板的简历生成器[rezuned.com]</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fzhk8l/resume_builder_using_latex_templates_rezunedcom/</link>
+      <description><![CDATA[https://rezuned.com 我花了几个月的时间编写了一个基本的简历生成器。请告诉我你的想法。非常感谢任何反馈。    提交人    /u/pyriter-io   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fzhk8l/resume_builder_using_latex_templates_rezunedcom/</guid>
+      <pubDate>Wed, 09 Oct 2024 02:43:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>付款处理问题</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fzh9fj/payments_processing_question/</link>
+      <description><![CDATA[嗨。我正在开发几个简单的服务，都采用订阅模式。我想问几个问题： 1) 如果使用 Stripe 付款，我是否需要创建不同的公司来处理付款，或者通过一个帐户处理可以吗？（我问这个问题是因为付款页面会显示公司名称，我担心如果用户看到不同的公司名称（如通用公司名称）可能会感到困惑）。2) 是否有任何服务可以轻松注册，可以在其端接受付款，我可以稍后从中取钱（如果有的话）。 这两个项目都是测试项目。我不知道它们是否会有什么实际成果，所以我现在不想处理复杂的法律部分。我已经在几个项目中使用过 Stripe，所以我对它有一些经验。此外，我所在的国家/地区不支持 Stripe，因此这给我带来了额外的困难。 提前致谢！    提交人    /u/vladkens   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fzh9fj/payments_processing_question/</guid>
+      <pubDate>Wed, 09 Oct 2024 02:27:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>非常高兴与大家分享 Sticky – 一款实时协作白板应用</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fzh25n/super_excited_to_share_sticky_a_realtime/</link>
+      <description><![CDATA[      lander 几天前我开始了这个项目，这真是一段有趣的旅程！Sticky 可让您在共享板上与朋友或队友实时协作，只需使用 Convex.dev 和 React 即可。您可以执行以下操作： 在共享板上进行实时协作 完全可自定义的便签（更改颜色、调整大小、移动便签 - 做您要做的事情！） 跟踪在线用户并实时跟踪每个人的光标移动 使用唯一代码轻松共享板 响应式设计 这是一次很酷的学习体验，尤其是因为我上周末才开始。很想听听您的想法或了解您构建实时应用的经验！ 查看： Sticky.today 祝您编码愉快，周三快乐！  董事会预览    由   提交  /u/Lost_Support4211   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fzh25n/super_excited_to_share_sticky_a_realtime/</guid>
+      <pubDate>Wed, 09 Oct 2024 02:16:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>你的失败的创业是有价值 :)</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fzgz8n/your_failed_startup_is_worth_something/</link>
+      <description><![CDATA[我有很多失败的项目。不管是因为时间、营销，还是只是失去了对它的热情。 我知道它们仍然有价值，花那么多时间和精力只是为了让它们呆在我的仓库里，这是没有意义的。 所以我建立了一个市场来为它们寻找新家，叫做 Swapify。 如果你想知道你失败的初创公司/副业项目值多少钱，试试我制作的这个估值工具，它基于平台上以前的退出以及行业趋势：https://www.swap-ify.com/valuation     提交人    /u/vintinx   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fzgz8n/your_failed_startup_is_worth_something/</guid>
+      <pubDate>Wed, 09 Oct 2024 02:11:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>很多项目都失败了。因为精疲力竭而停止了建设。3 个月前又开始建设。终于有了付费用户 🎉</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fzgxc1/lots_of_failed_projects_stopped_building_because/</link>
+      <description><![CDATA[        由    /u/FI_investor  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fzgxc1/lots_of_failed_projects_stopped_building_because/</guid>
+      <pubDate>Wed, 09 Oct 2024 02:09:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>我已经根据您的长篇内容制作了一个 X/LinkedIn 内容生成器</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1fzg3iq/ive_made_an_xlinkedin_content_generator_from_your/</link>
+      <description><![CDATA[吐槽一下，我正在寻找关于用户体验、总体思路甚至关键想法的真诚反馈。感谢您的时间！    提交人    /u/0Toler4nce   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1fzg3iq/ive_made_an_xlinkedin_content_generator_from_your/</guid>
+      <pubDate>Wed, 09 Oct 2024 01:25:29 GMT</pubDate>
+    </item>
     <item>
       <title>Pyro：我建立了一个基于视频的社区制作器（也就是您自己的私人 YouTube）</title>
       <link>https://www.reddit.com/r/SideProject/comments/1fzfq63/pyro_i_built_a_video_based_community_maker_aka/</link>
@@ -39,55 +88,6 @@
       <description><![CDATA[大家好！ 我一直在努力可视化我的 Wealthsimple 投资组合，并创建了一个图表来比较一段时间内的股息与贡献。我还制作了另一张图表来分解我的所有持股，让我更清楚地了解每项投资的表现。 我正在探索提供这些图表的方法，以便用户可以更好地直观地了解他们当前和未来的投资。 我希望在这里听到您的反馈。请多多包涵。谢谢😬 PS：股息数字被夸大了，以确保视觉概念清晰。 股息与捐款 带有股票代码的投资组合 摘要贡献与收入    提交人    /u/Splashyt349   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1fzda36/wealthsimple_visualisation/</guid>
       <pubDate>Tue, 08 Oct 2024 23:05:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了 GPT 股票报告——一种利用人工智能轻松找到市场上最佳股票的方法</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fzd8j7/i_created_gpt_stock_report_an_easy_way_to_find/</link>
-      <description><![CDATA[        由    /u/NextgenAITrading 提交   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fzd8j7/i_created_gpt_stock_report_an_easy_way_to_find/</guid>
-      <pubDate>Tue, 08 Oct 2024 23:03:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>我推出了我的第一个项目 GeoBot.Tech！这是一款基于人工智能逻辑的图像地理定位工具。它的准确率非常高，例如，如果你玩 GeoGuessr，除非你面对的是专业人士，否则你很可能会赢得大多数回合。不过，这并不是它的预期用途。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fzd7e5/i_launched_geobottech_my_first_project_its_an/</link>
-      <description><![CDATA[        提交人    /u/Frangs1   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fzd7e5/i_launched_geobottech_my_first_project_its_an/</guid>
-      <pubDate>Tue, 08 Oct 2024 23:01:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>Air：用于社交媒体的 ChatGPT</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fzd2td/air_chatgpt_for_social_media/</link>
-      <description><![CDATA[Air 是您的副驾驶，可以创建、安排和分析您的帖子 部分功能包括：  带有文本提示的即时帖子编辑 帖子分析 最佳发布时间 标题生成  请在下面的评论中找到链接。 任何反馈或支持都非常有帮助！♥️ 目前处于 Beta 阶段 :)    提交人    /u/Current-Payment-5403   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fzd2td/air_chatgpt_for_social_media/</guid>
-      <pubDate>Tue, 08 Oct 2024 22:55:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个 Reddit 克隆版 - ClubsAll</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fzd0yq/i_built_a_reddit_clone_clubsall/</link>
-      <description><![CDATA[      一年半以前，很多 reddit 用户想抛弃 reddit 并离开，但找不到好的替代方案。 因此，我花了一年半的时间构建了一个 reddit 克隆，并与 fediverse 集成，并添加了发现选项卡（俱乐部）等新功能您尚未订阅的俱乐部，以便您可以发现新俱乐部）、实时评论（评论像 Facebook 墙一样向您发送）、通过共享评论交叉发布到多个俱乐部。您可以在此处查看 https://clubsall.com 让我知道您的想法。我今天也在 producthunt 上发布了它。如果您喜欢它，请在此处投票 -&gt; https://www.producthunt.com/posts/clubsall-2 ​ https://preview.redd.it/j89rokq93mtd1.png?width=2394&amp;format=png&amp;auto=webp&amp;s=20cde455c181cf73a79820efae22f2e978f67ac6    由   提交  /u/SubjectInevitable650   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fzd0yq/i_built_a_reddit_clone_clubsall/</guid>
-      <pubDate>Tue, 08 Oct 2024 22:53:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>Spellynk：我一直在开发的一款词链益智游戏。希望得到您的反馈！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fzbbmm/spellynk_a_word_chain_puzzle_game_ive_been/</link>
-      <description><![CDATA[        提交者    /u/AllRealNumbers   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fzbbmm/spellynk_a_word_chain_puzzle_game_ive_been/</guid>
-      <pubDate>Tue, 08 Oct 2024 21:36:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>在经历了自己的付款噩梦后，我创建了一个指南来帮助建筑商以低成本组建有限责任公司</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fzbai8/i_built_a_guide_to_help_builders_form_llcs/</link>
-      <description><![CDATA[大家好！ 我想分享一个我纯粹出于需要而建立的副项目。这是一个全面的指南，可帮助独立黑客/自由职业者/个体经营者在不花大钱的情况下组建他们的美国有限责任公司。 故事如下： 我遇到的问题 几个月前，我一直在努力将我的项目货币化，因为： ❌ Stripe - 在我的国家/地区不可用 ❌ Lemon Squeezy - 拒绝了我的申请 ❌ Gumroad - 突然暂停了我的帐户 我在 Twitter 上表达了我的沮丧： 为什么独立黑客这么难？ Stripe 在我的国家/地区不可用 Lemon Squeezy 拒绝了我的商店申请 现在，Gumroad 已经在没有任何通知的情况下暂停了我的帐户 在美国成立有限责任公司是唯一的出路吗？  这条推文意外地火了起来，浏览量达到数百万。许多遇到同样问题的人都给我留言并直接给我发私信。事实证明，这是我们社区的一个巨大痛点。 我构建的内容 在花了数周时间研究并亲自经历了 LLC 组建过程之后，我创建了 LLCHack - 一个循序渐进的指南，向国际创始人展示如何：  无需支付 500 美元以上的组建服务费用即可组建 LLC 获取美国电话号码（大多数服务都需要） 获取 EIN（税号） 开设美国银行账户 处理基本税务考虑  不同之处 大多数创始人没有意识到组建 LLC 有许多隐性成本。例如：  组建服务通常收取 500 美元以上的设置费 许多人会推荐您选择特拉华州有限责任公司 (300 美元年度特许经营税)，但这可能不是您企业的最佳选择 根据您选择的州，年度费用可能会迅速增加 注册代理服务的额外费用  LLCHack 将向您展示如何：  根据您的特定需求选择合适的州 (而不仅仅是默认特拉华州) 自己处理组建过程 避免不必要的费用和服务 第一次就正确设置好一切  经验教训  最好的副业确实来自于解决您自己的问题 复杂的过程可以通过良好的文档简化 您不需要花哨的技术解决实际问题  抢先体验 本指南目前以折扣价（原价 69 美元，现价 39 美元）接受预订。如果您有兴趣查看：LLCHack - 快速且经济地组建您的 LLC 我将积极关注此主题，以回答有关 LLC 组建流程或国际创始人面临的挑战的任何问题。让我们互相帮助，以更可持续的方式建设！    提交人    /u/evanyang0202   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fzbai8/i_built_a_guide_to_help_builders_form_llcs/</guid>
-      <pubDate>Tue, 08 Oct 2024 21:35:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>FiduciaryAI 是一名法学硕士，接受过 CFP 材料的培训，可以免费回答相当复杂的财务问题。只需打开网站并开始聊天！如果您不想让它获取您的信息，只需说“不”，它就会继续。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1fzb433/fiduciaryai_is_an_llm_has_been_trained_on_cfp/</link>
-      <description><![CDATA[    /u/Shot-Water-6164   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1fzb433/fiduciaryai_is_an_llm_has_been_trained_on_cfp/</guid>
-      <pubDate>Tue, 08 Oct 2024 21:27:23 GMT</pubDate>
     </item>
     <item>
       <title>品牌反馈</title>
