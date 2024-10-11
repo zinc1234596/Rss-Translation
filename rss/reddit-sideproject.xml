@@ -4,7 +4,42 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Fri, 11 Oct 2024 03:19:31 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Oct 2024 06:21:15 GMT</lastBuildDate>
+    <item>
+      <title>我创建了一个为应用程序开发者处理营销和销售的平台</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g12xra/i_made_a_platform_that_handles_marketing_and/</link>
+      <description><![CDATA[        提交人    /u/Radiant-Run4940   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g12xra/i_made_a_platform_that_handles_marketing_and/</guid>
+      <pubDate>Fri, 11 Oct 2024 05:49:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>我正在开发一款新的 iOS 应用，让人工智能为你规划一天的行程，请告诉我你的想法</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g12sda/im_working_on_a_new_ios_app_that_lets_ai_plan/</link>
+      <description><![CDATA[我目前正在开发一款新的 iOS 应用，它对 Todos 管理有了新的认识。 随着LLM 引入新的 AI 技术，AI 现在可以完全规划你的一天而没有任何麻烦。 到目前为止，这个概念看起来像这样 https://imgur.com/cqLzoCK 每天，AI 助手都会分析你所有的 Todos，并根据优先级、位置、截止日期等准确地知道你应该在何时做什么。 但我需要你的帮助！我有更多的用户（不仅仅是我自己！）看看这是否有助于提高你的工作效率！ 如果您对此概念感兴趣并且您不害怕尝试测试版软件，请通过此 Google 表单注册：https://forms.gle/um1t33Wxea4CobPV6 您需要一台 iOS 17 或更高版本的 iOS 设备。并且您将需要在整个开发过程中积极提供反馈和使用模式。 谢谢阅读！    提交人    /u/Square_Independent   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g12sda/im_working_on_a_new_ios_app_that_lets_ai_plan/</guid>
+      <pubDate>Fri, 11 Oct 2024 05:38:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>我“12 个月 12 家创业公司”的第一个项目：Shots Maker</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g12h8w/my_first_project_of_12_startups_in_12_months/</link>
+      <description><![CDATA[https://reddit.com/link/1g12h8w/video/l8w2qg74a2ud1/player    由   提交  /u/felixding   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g12h8w/my_first_project_of_12_startups_in_12_months/</guid>
+      <pubDate>Fri, 11 Oct 2024 05:17:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>蒙大拿刀具公司：三年收入达八位数</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g12g9b/montana_knife_company_three_years_to_eight_figures/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g12g9b/montana_knife_company_three_years_to_eight_figures/</guid>
+      <pubDate>Fri, 11 Oct 2024 05:15:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Reddit 帖子自动创建和上传 YouTube Shorts – 我的 Python 项目！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g11obo/automate_youtube_shorts_creation_and_upload_with/</link>
+      <description><![CDATA[大家好， 我构建了一个 Python 项目，它不仅可以根据最新的 Reddit 帖子创建 YouTube Shorts，而且一旦您设置了凭据，它就会自动将它们上传到您的 YouTube 频道。 一旦您设置了所需的 API 凭据，您所需要做的就是运行一个命令，整个过程 - 获取 Reddit 内容、生成语音、添加字幕、编辑视频以及上传到 YouTube - 都是完全自动化的！ 在此处查看 repo：https://github.com/jh991205/Youtube-Shorts-Maker 如果您觉得它有用，我将非常感谢您的星星！ 🌟 请告诉我您的想法或您希望将其用于哪些 subreddits！    提交人    /u/Brilliant-Agency-567   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g11obo/automate_youtube_shorts_creation_and_upload_with/</guid>
+      <pubDate>Fri, 11 Oct 2024 04:25:01 GMT</pubDate>
+    </item>
     <item>
       <title>普罗特克斯</title>
       <link>https://www.reddit.com/r/SideProject/comments/1g10c4p/proteux/</link>
@@ -74,41 +109,6 @@
       <description><![CDATA[TikTok 受到了很多关注，所以我想为什么我不创建内容来推广我的网站，然后我看到了人们在我的领域中跳什么类型的舞蹈。我既没有技能也没有意愿发布舞蹈视频，所以我认为我可以创建一个 AI 个性来创建内容。我的视频的观看次数从 15k-30k 不等。这主要是为了推广，因此提示越好，视频就越好。  Destovery PS：图像生成可能非常昂贵。     提交人    /u/MinuteDistribution31   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1g0u41s/create_content_while_maintaining_your_privacy/</guid>
       <pubDate>Thu, 10 Oct 2024 21:45:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>请帮我烤一下 - WebWhisper</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g0u23o/please_help_me_roast_it_webwhisper/</link>
-      <description><![CDATA[💫 介绍 WebWhisper 🎙️ #MacWhisper 的免费基于 Web 的替代品！ 转录：@OpenAI whisper-1 摘要：@OpenAI 或 @AnthropicAI 您喜欢！ 使用 @cursor_ai 和 @v0 构建  完全免费！链接如下 👇 web-whisper.com    提交人    /u/himrnoodles   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g0u23o/please_help_me_roast_it_webwhisper/</guid>
-      <pubDate>Thu, 10 Oct 2024 21:43:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>ChatGPT + Diff = 爱</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g0tq0r/chatgpt_diff_love/</link>
-      <description><![CDATA[我经常使用 chat gpt 来解释电子邮件。Chat gpt 可能非常冗长，很难清楚地看到它实际上在说什么。所以我建立了 diff-gpt.com    提交人    /u/clocker2004   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g0tq0r/chatgpt_diff_love/</guid>
-      <pubDate>Thu, 10 Oct 2024 21:27:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>为了每月赚 1500 美元，我会帮助你并教你如何</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g0tkoy/to_make_1500month_i_help_you_and_teach_you_how/</link>
-      <description><![CDATA[要了解，请单击此 www.ziiziimarketer.com     由   提交  /u/Individual_Author12   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g0tkoy/to_make_1500month_i_help_you_and_teach_you_how/</guid>
-      <pubDate>Thu, 10 Oct 2024 21:21:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>我会查看你的主页，免费</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g0t324/ill_review_your_homepage_its_on_the_house/</link>
-      <description><![CDATA[大家好！我是一家领先的技术咨询公司的产品分析师和设计师，在那里我领导了多个项目。我在这里与大家分享一些见解，所以请随时联系我们或发表您的想法/顾虑！    提交人    /u/Tonytonni   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g0t324/ill_review_your_homepage_its_on_the_house/</guid>
-      <pubDate>Thu, 10 Oct 2024 21:00:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI 多模式聊天 | 我与 AI 的斗争和编写我的第一个应用程序时产生的副产品想法</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g0t0ft/ai_multi_modal_chat_side_idea_from_my_struggle/</link>
-      <description><![CDATA[  由    /u/Ok_Locksmith_3410  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g0t0ft/ai_multi_modal_chat_side_idea_from_my_struggle/</guid>
-      <pubDate>Thu, 10 Oct 2024 20:56:57 GMT</pubDate>
     </item>
     </channel>
 </rss>
