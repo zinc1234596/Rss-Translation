@@ -4,7 +4,56 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Sat, 12 Oct 2024 18:17:58 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Oct 2024 21:15:10 GMT</lastBuildDate>
+    <item>
+      <title>关于营销不完整产品的思考</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g29iri/thoughts_on_marketing_an_incomplete_product/</link>
+      <description><![CDATA[大家好，我目前有一款产品正在上架 App Store。我犹豫着要不要推广它，因为目前还没有人能真正下载这款产品。大家对现阶段的营销有什么看法，或者我应该等到 MVP 发布后再推广。    提交人    /u/Important-Ostrich69   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g29iri/thoughts_on_marketing_an_incomplete_product/</guid>
+      <pubDate>Sat, 12 Oct 2024 20:49:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个付费墙移除器，因为我找不到一个能满足我所有需求的付费墙移除器</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g293cq/i_made_a_paywall_remover_because_i_couldnt_find/</link>
+      <description><![CDATA[我制作了 removepaywalls.com，因为我一直在使用各种付费墙移除网站，但它们都没有我想要的所有功能：  chrome 扩展和 ios 快捷方式，实现一键功能：单击按钮即可直达文章  没有隐藏任何文本的大标题 URL 清理，即使附加了查询或 utm 代码也能正常工作 无需滚动或捏合屏幕即可在移动设备上轻松查看 如果文章不起作用，则提供其他绕过方法的选项  非常希望收到任何关于如何改进它的反馈！    提交人    /u/lockardd   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g293cq/i_made_a_paywall_remover_because_i_couldnt_find/</guid>
+      <pubDate>Sat, 12 Oct 2024 20:29:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>对于一个更大的项目，我需要一个可动画化的 3D 书籍模型。由于找不到合适的模型，我使用 CSS 自己制作了一个</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g28lsx/for_a_larger_project_i_needed_an_animatable_3d/</link>
+      <description><![CDATA[      翻阅我制作过动画的一些位置 我一直在为我写的东西在一个作者的网站上工作，我有个想法，让一本书在你阅读时打开和关闭。我本来想下载一个装配好的模型，并使用 Three.js 之类的东西来为其制作动画，但我找到了一个更轻量级的解决方案。查看这里的 repo。 这本“书”仅由 div 组成，并将 transform-style 设置为 preserve-3d。书籍各个部分（封面、前半部分、后半部分、封底）的所有位置均使用 CSS 变量控制，因此可以轻松更改和使用 CSS 制作动画。 希望您觉得这很有趣！    提交人    /u/ericKnocklein   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g28lsx/for_a_larger_project_i_needed_an_animatable_3d/</guid>
+      <pubDate>Sat, 12 Oct 2024 20:05:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>我有了孩子，生活变得如此忙碌，所以我开发了一款应用程序，将书籍摘要转换成我可以观看的迷你视频纪录片。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g2884p/i_had_a_kid_and_life_got_so_busy_so_i_built_an/</link>
+      <description><![CDATA[        由    /u/benjalim 提交   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g2884p/i_had_a_kid_and_life_got_so_busy_so_i_built_an/</guid>
+      <pubDate>Sat, 12 Oct 2024 19:47:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>经验丰富的开发人员。无需编写任何代码即可创建完整的 AI 应用程序</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g277qx/seasoned_dev_here_create_a_full_ai_app_without/</link>
+      <description><![CDATA[好的，作为一名经验丰富的开发人员，我也尝试了 cursor。我被震撼了。我做的唯一手动操作是为 vault 功能设置 R2。其他一切都是用 AI 创建的。 我的看法： 堆栈越简单，AI 就能更好地使用它。我刚刚将 Express 和 ejs 与 bootstrap 一起使用，我基本上能够创建我要求的所有内容。 更改密码 上传公共图像 在 R2 中上传私人文件 我不认为它会抢走我们的工作，但堆栈越简单，你就越能更好地使用它。 https://ai-social.koesterjannik.com/ 在这里尝试一下。所有内容都存储在一个临时的 sqlite 文件中，之后我会将其删除。 大家觉得怎么样？ 我是一名 React 和 Nestjs 开发人员，但是有了这个简单的堆栈，它可以自行创建一切！    提交人    /u/devrusto   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g277qx/seasoned_dev_here_create_a_full_ai_app_without/</guid>
+      <pubDate>Sat, 12 Oct 2024 19:00:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>在预算紧张的情况下部署微服务项目——需要反馈和建议</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g26tcg/deploying_a_microservices_project_on_a_tight/</link>
+      <description><![CDATA[  由    /u/Express-BDA  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g26tcg/deploying_a_microservices_project_on_a_tight/</guid>
+      <pubDate>Sat, 12 Oct 2024 18:42:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>我作为学生如何创建我的第一个 SaaS</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g26emn/how_i_created_my_first_saas_as_a_student/</link>
+      <description><![CDATA[大家好！我是 Sérgio Júnior，有 3 年的程序员经验，我想与大家分享我的第一个 SaaS：Quizzio。 我现在读高三，随着 ENEM（巴西全国高中考试）的临近，我正处于学习状态。在浏览 YouTube 时，我偶然发现了一个关于 SaaS 的视频，并对这个话题产生了兴趣。我开始根据我的知识集思广益，提出项目想法，最后我想到了这个想法： 创建一个网站，借助 AI（因为它很流行）根据学习材料生成测验。我发现这个想法非常有前途，因为我相信它对其他人有用，并且对我作为一名学生有很大帮助，因为参加考试是学习和发现知识差距的好方法。 在观看了一些关于 SaaS 的视频后，我开始开发这个项目。正如对此类项目的建议一样，我的目标是创建一个 MVP（最小可行产品），因此我决定使用以下堆栈：  前端  Next.js -- TailwindCSS -- Shadcn/ui  后端  Supabase（我选择它是为了更快地开发）  付款  Stripe  IDE  Cursor（我开始将它用于这个项目，它是一个非常有用的工具，可以将生产力提高十倍，但重要的是不要完全依赖它）   我非常享受开发过程中的经历，并且学到了很多关于付款、webhook、身份验证的新知识，等等。 所以，这就是我想与大家分享的。如果您想查看该项目或帮助传播信息甚至购买计划，我将不胜感激！这是 Quizzio 的链接：quizzio.app。    提交人    /u/Ok-Surprise-1767   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g26emn/how_i_created_my_first_saas_as_a_student/</guid>
+      <pubDate>Sat, 12 Oct 2024 18:23:31 GMT</pubDate>
+    </item>
     <item>
       <title>寻求帮助来建立我的投资组合</title>
       <link>https://www.reddit.com/r/SideProject/comments/1g2609s/seeking_help_to_build_my_portfolio/</link>
@@ -60,55 +109,6 @@
       <description><![CDATA[8 月 19 日 - 推出 MVP 8 月 22 日 - 前 20 名用户 9 月 1 日 - 100 名用户（这感觉像是一个重要的里程碑） 9 月 30 日 - 第一位付费客户（这是一种怎样的感觉） 10 月 8 日 - 1000 名用户 今天 - 27 名付费客户和 1179 名用户（慢慢地转化越来越多的用户） 那么导致这一点的两个关键杠杆是什么？  我们在开始构建之前正确验证了我们的想法。 我们投入了很多时间。每周 6 天，每天 8-12 小时。  产品：Buildpad 你也可以做到。如果你工作时间较少，你会更慢地到达那里，但只要你遵循一个可靠的过程，你仍然会到达那里。现在的机会比以往任何时候都多。    提交人    /u/davidheikka   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1g251le/15_months_ago_we_were_celebrating_getting_20/</guid>
       <pubDate>Sat, 12 Oct 2024 17:21:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>我建立了一个简单的个人网站构建器，其中结合了博客、个人简历链接和新闻通讯。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g250uq/i_built_a_simple_personal_website_builder_that/</link>
-      <description><![CDATA[        提交人    /u/pubgupdates   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g250uq/i_built_a_simple_personal_website_builder_that/</guid>
-      <pubDate>Sat, 12 Oct 2024 17:20:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>手动查找相关的 Reddit 讨论是一场噩梦——所以我们构建了一个工具来自动化它</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g250rh/manually_finding_relevant_reddit_discussions_is_a/</link>
-      <description><![CDATA[如果您曾经尝试在 Reddit 上营销您的产品或服务，您就会知道它有多么慢。浏览无数的帖子，找出哪些社区是活跃的，然后加入正确的讨论可能需要几个小时（甚至几天）。 这就是我们构建RedditFlow的原因，它是一种扫描Reddit讨论的工具，可帮助您在几秒钟内找到与您的产品或服务相关的帖子。 事情是这样的：如果您手动进行Reddit营销，您可能会遇到以下问题：  浪费数小时搜索提及您的利基、产品或服务的帖子。 由于Reddit的搜索功能不起作用而错失参与的黄金机会。 很难追踪哪些社区真正活跃且相关。 不知道何时或如何加入对话而不会显得垃圾或不合时宜。  解决方案： RedditFlow消除了所有手动头痛：  在几秒钟内扫描讨论以查找相关关键字和主题。 发现人们正在谈论您的行业/产品的利基子版块。 跟踪实时讨​​论并随时了解最新对话。 自动外联，因此您可以专注于建立关系而不是搜索。  我们目前处于测试阶段，正在寻找早期用户的反馈。如果您厌倦了艰难地进行 Reddit 营销，我很乐意听听您对这对您的业务有何帮助的想法。很高兴在评论中回答任何问题！    提交人    /u/No-Definition9329   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g250rh/manually_finding_relevant_reddit_discussions_is_a/</guid>
-      <pubDate>Sat, 12 Oct 2024 17:20:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>您如何构建您的副项目，从构思到启动？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g24gty/how_do_you_structure_your_side_project_from_idea/</link>
-      <description><![CDATA[我很好奇你是如何从最初的想法到推出产品的。你的时间表通常是什么样的？在开发过程中，你关注的关键步骤是什么？我发现自己花了太多时间完善想法和迭代产品，我的进度似乎慢了下来。你如何让事情高效运转，而不陷入无休止的迭代？    提交人    /u/unstable3340   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g24gty/how_do_you_structure_your_side_project_from_idea/</guid>
-      <pubDate>Sat, 12 Oct 2024 16:54:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>一款用于追踪锻炼情况的移动应用</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g24g2y/a_mobile_app_to_track_your_workout/</link>
-      <description><![CDATA[      你好 https://preview.redd.it/jm72k55cvcud1.png?width=1920&amp;format=png&amp;auto=webp&amp;s=2527d7b543ae5690b0c20606fd5a44b834f7cf31 我创建 Grind Fit 的原因是：  我正在学习 Swift 并且每天都去健身房 我想让我和我的妻子在健身房保持动力，所以我决定创建一些东西  目前这是一个 MVP 版本，我计划让它更强大 以下是一些功能：  300 多个锻炼库，可按名称等搜索 目前仅在 iPhone 上可用 显示各种指标的图表，包括：每周锻炼、锻炼量、最佳锻炼组合等 制定自己的锻炼计划 支持 Apple Watch - 跟踪卡路里、心率和其他指标  链接：  Apple App Store  网站 我有很多构建这个很有趣！如果有人尝试过并且有反馈，我非常乐意听取！    提交人    /u/Mans__js   [link] [comments] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g24g2y/a_mobile_app_to_track_your_workout/</guid>
-      <pubDate>Sat, 12 Oct 2024 16:53:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>我为房地产经纪人创建了一个人工智能电话营销机器人</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g24fzg/i_created_an_ai_cold_calling_bot_for_real_estate/</link>
-      <description><![CDATA[大家好。我是一名高三学生，几个月前，我有了一个暑期项目想法，即开发一个 AI 电话助理，它可以打电话、预约，以及通过电话完成任何你通常自己会做的事情。然后我意识到这是一个很酷的想法，但没有市场，所以在我睡着的时候，我突然有了💡灵感。 一种自动为房地产经纪人打电话并生成潜在客户的工具。 因此，2 个月后我创建了它：sniphomes.com 非常爱你们， Sebastian H.    提交人    /u/ClassroomHopeful648   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g24fzg/i_created_an_ai_cold_calling_bot_for_real_estate/</guid>
-      <pubDate>Sat, 12 Oct 2024 16:53:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>生产力、习惯和改进应用程序</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g24fr6/productivity_habits_and_improvement_app/</link>
-      <description><![CDATA[我是一名软件开发人员，通常在日常工作中领导开发团队。我为之工作的每家初创公司都是如此；我最终会领导并做出决策。 这很有压力，需要很大的自律才能正确完成。所以，我研究了习惯养成、习惯稳定性和习惯消除的机制。该应用程序是围绕我发现的心理见解设计的。 检查一下，让我知道它为什么很糟糕！https://dailyboost.io  你期望看到什么，你看到了吗？ 你觉得应用程序中缺少了什么吗？ 你对登陆页面有什么感觉可以分享吗？  谢谢！   由    /u/strongforcesolutions  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g24fr6/productivity_habits_and_improvement_app/</guid>
-      <pubDate>Sat, 12 Oct 2024 16:53:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个工具，用于以纯文本形式复制/粘贴您的 Google 日历可用性！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g24b14/i_made_a_tool_for_copypasting_your_google/</link>
-      <description><![CDATA[      现有的可用性共享应用程序（如 Calendly）很不错，但有时它们太过分（例如，当您是学生时，向教授发送 Calendly 链接会显得有些冒昧）。 这就是为什么我制作了一个工具来以纯文本形式复制/粘贴您的 Google 日历，这样您就可以将其直接粘贴到电子邮件中！ https://kellenvu.github.io/projects/3000-bookmarklets#get-google-calendar-availability 希望您觉得它有用！    提交人    /u/TheGracelessGhost   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g24b14/i_made_a_tool_for_copypasting_your_google/</guid>
-      <pubDate>Sat, 12 Oct 2024 16:47:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
