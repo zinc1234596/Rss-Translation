@@ -4,7 +4,35 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Sat, 12 Oct 2024 03:18:03 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Oct 2024 06:19:14 GMT</lastBuildDate>
+    <item>
+      <title>我制作了一个免费的 Twitter 视频下载工具</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g1txmb/i_made_a_free_twitter_video_downloader_tool/</link>
+      <description><![CDATA[      已经为此工作了一段时间。请在此处尝试 https://picyard-screenshot-editor.vercel.app/more/twitter-video-downloader 让我知道您的想法.. 欢迎反馈    由   提交  /u/metabhai   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g1txmb/i_made_a_free_twitter_video_downloader_tool/</guid>
+      <pubDate>Sat, 12 Oct 2024 06:15:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>LLM 提示生成器助手</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g1tklm/llm_prompt_builder_helper/</link>
+      <description><![CDATA[      LLM 提示生成器 NodeJS 和 PHP 工具可帮助查询 ChatGPT 和 Claude 等 LLM 以获得编写代码的帮助。 外观 我使用 claude-3-5-sonnet 和 gpt4o 进行编码。我的首选方法是复制我正在使用的源代码并在最后提出我的问题。这样可以保持整洁，而且也很经济，因为我不需要保留聊天记录。 最大的障碍是将我需要的文件复制到查询中；有时我需要添加 4-5 个完整或部分文件。因此有了“LLM Prompt Builder”。  使用 LLM Prompt Builder，我可以勾选整个文件或部分函数并构建查询的顶部。它还将压缩代码，因此占用更少的空间，因为 AI 不关心我漂亮的格式。 我将项目编写为 NodeJS 应用程序，以便您可以使用“npm start”运行它，也可以将其作为 PHP 项目运行，文件中只有一行需要设置，即您的项目根文件夹。 代码可在以下位置获得： https://github.com/yardimli/llm-prompt-builder    提交人    /u/ekim2077   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g1tklm/llm_prompt_builder_helper/</guid>
+      <pubDate>Sat, 12 Oct 2024 05:49:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>只需点击几下即可进行机器学习</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g1rwd9/machine_learning_with_a_few_clicks/</link>
+      <description><![CDATA[大家好，亲爱的社区！ 我有点厌倦总是对我想要研究的每个数据集执行相同的步骤......读取 CSV、探索性分析、拆分 X 和 Y、拆分训练集和测试集、缩放变换、训练模型、绘制混淆矩阵、计算模型指标。 所以我构建了一个无代码工具来做机器学习快速原型，不需要编程或数据科学技能！ 只需选择特征列、标签列，工具就会自动完成剩下的工作，然后您就可以运行推理并导出以与 Python 集成。 免费试用，无需注册 ⇢ https://learnstdio.com 我将非常感谢您的反馈以及您希望在未来看到的功能！    提交人    /u/angry_gingy   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g1rwd9/machine_learning_with_a_few_clicks/</guid>
+      <pubDate>Sat, 12 Oct 2024 03:58:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>有没有办法免费运行 AI 模型（非本地）？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g1rupe/anyway_to_run_an_ai_model_for_free_not_locally/</link>
+      <description><![CDATA[我有一个服务想法，但它需要我投资基础设施，而我没钱哈哈。 多亏了 Llama 和 Nvidia，LLM 本身现在可以开源，但支付服务器费用（如 AWS 或其他）并不便宜。 你们在没有资金的情况下是如何开始运行 LLM 的？ 谢谢！    提交人    /u/Additional-Relief-71   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g1rupe/anyway_to_run_an_ai_model_for_free_not_locally/</guid>
+      <pubDate>Sat, 12 Oct 2024 03:55:52 GMT</pubDate>
+    </item>
     <item>
       <title>探索和思考经典和现代书籍名言的最佳应用</title>
       <link>https://www.reddit.com/r/SideProject/comments/1g1qh22/the_best_app_to_explore_and_contemplate_quotes/</link>
@@ -43,7 +71,7 @@
     <item>
       <title>学习西班牙语并阅读商业书籍？</title>
       <link>https://www.reddit.com/r/SideProject/comments/1g1mrcq/learn_spanish_and_read_about_business/</link>
-      <description><![CDATA[大家好！我 2 个月前开始写行业通讯，进展非常顺利（西班牙语）。如果您想在阅读有关商业的文章时练习西班牙语，可以通过以下链接加入。谢谢！ https://standardhoy.substack.com/    提交人    /u/Careless_Drive8779   [link] [评论]]]></description>
+      <description><![CDATA[大家好！我 2 个月前开始写行业通讯，进展非常顺利（西班牙语）。如果您想在阅读有关商业的文章时练习西班牙语，可以通过以下链接加入。谢谢！ https://standardhoy.substack.com/    由   提交  /u/Careless_Drive8779   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1g1mrcq/learn_spanish_and_read_about_business/</guid>
       <pubDate>Fri, 11 Oct 2024 23:11:10 GMT</pubDate>
     </item>
@@ -57,7 +85,7 @@
     <item>
       <title>一款不吸引人、非人工智能的 Google Sheets 扩展程序，用于拆分单元格</title>
       <link>https://www.reddit.com/r/SideProject/comments/1g1kyiw/a_notsexy_notai_google_sheets_extension_that/</link>
-      <description><![CDATA[https://sherwoodforlee.com/works/cell-splitter/ 我发现自己经常需要在电子表格中拆分单个单元格。在编写 Sheets 扩展程序之前，我必须执行的操作是插入新行或新列，然后将要拆分的单元格以外的单元格合并在一起。现在，Cell Splitter 可以帮我完成这项繁琐的工作。 这个项目最难的部分是让它获得 Google Workspace Marketplace 的批准，以便每个人都可以下载它。这是一个繁琐的过程，让我只想将扩展程序保持私密，但我坚持下来并成功了。它是免费的：https://workspace.google.com/marketplace/app/cell_splitter/119599908729    由   提交  /u/car-thief   [链接] [评论]]]></description>
+      <description><![CDATA[https://sherwoodforlee.com/works/cell-splitter/ 我发现自己经常需要在电子表格中拆分单个单元格。在编写 Sheets 扩展程序之前，我必须执行的操作是插入新行或新列，然后将要拆分的单元格以外的单元格合并在一起。现在，Cell Splitter 可以帮我完成这项繁琐的工作。 这个项目最难的部分是获得 Google Workspace Marketplace 的批准，以便每个人都可以下载它。这是一个繁琐的过程，让我只想将扩展程序保持私密，但我坚持下来并成功了。它是免费的：https://workspace.google.com/marketplace/app/cell_splitter/119599908729    由   提交  /u/car-thief   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1g1kyiw/a_notsexy_notai_google_sheets_extension_that/</guid>
       <pubDate>Fri, 11 Oct 2024 21:45:13 GMT</pubDate>
     </item>
@@ -74,34 +102,6 @@
       <description><![CDATA[大家好，r/SideProject！ 我是 Sprig 的项目经理，Sprig 是一个面向项目经理、用户体验设计师和开发人员的用户研究平台！我们提供的产品包括拦截调查、会话重播和热图。超级有用的工具，可帮助您了解用户！ 我们正在为 iOS 应用程序构建我们的 Session Replay 产品，并正在寻找各种实际应用程序中的测试人员。 要求：  使用 UIKit 构建的 iOS 应用 尚不支持 React Native 或 SwiftUI  您需要代码存储库访问权限  您将被要求 (1) 注册 B2B SaaS 平台，(2) 将第三方 SDK 集成到您的本地应用代码中，以及 (3) 在 1 小时的主持研究会议期间，在您的模拟器上逐步完成测试流程 作为回报，您将获得 250 美元的研究奖励（礼品卡）和 3 个月的免费 Sprig 使用权！ 如果有兴趣，请发送 DM并附上您应用商店列表的链接，如果有合适的应用，我们会与您联系！ 合适的应用包括工具和实用程序（例如计划器或费用管理器）。不太合适的应用包括游戏和非常直观的界面。    提交人    /u/Puzzleheaded_Yak_922   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1g1kpio/seeking_ios_app_builders_for_replay_beta_testing/</guid>
       <pubDate>Fri, 11 Oct 2024 21:33:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>我开发了一个工具，可以在 30 秒内将任何评论链接（Capterra、G2、ProductHunt、Google Reviews）转化为 40 个营销资产</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g1joom/i_built_a_tool_that_turns_any_reviews_link/</link>
-      <description><![CDATA[        提交人    /u/ollymeakings   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g1joom/i_built_a_tool_that_turns_any_reviews_link/</guid>
-      <pubDate>Fri, 11 Oct 2024 20:46:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>为我的网站寻求盈利策略</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g1i0q8/seeking_monetization_strategies_for_my_website/</link>
-      <description><![CDATA[大家好， 我运营着一个名为 sagree.it 的网站，目前每月大约有 3,000 次访问。我正在寻找有效的货币化策略来帮助产生一些收入。 您发现哪些方法最成功？任何有关联盟营销、广告展示位置或其他方法的提示都将不胜感激！ 提前感谢您的帮助！    提交人    /u/Sagree2023   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g1i0q8/seeking_monetization_strategies_for_my_website/</guid>
-      <pubDate>Fri, 11 Oct 2024 19:31:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>我开发了一款 AI 应用，可以自动化我的业余项目</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g1gzrc/i_built_an_ai_app_that_automates_my_side_project/</link>
-      <description><![CDATA[我运营代发货副业已经有一段时间了，而构建可转换的产品页面始终是最耗时的部分。在感到沮丧之后，我构建了一个简单的 AI 应用程序来自动化该过程。它节省了我的时间并提高了我的转化率。 我很好奇这里是否有人也对电子商务/代发货感兴趣，如果这能有所帮助——我很想听听你的想法。  这是我的候补名单页面：www.lapro.io — 欢迎随意批评我的登陆页面并分享任何反馈！ https://reddit.com/link/1g1gzrc/video/btkyrgch86ud1/player    提交人    /u/lgzsj888   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g1gzrc/i_built_an_ai_app_that_automates_my_side_project/</guid>
-      <pubDate>Fri, 11 Oct 2024 18:45:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>我花了 24 小时制作 LinkedIn 标题生成器。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g1gs7y/i_spend_24_hours_making_linkedin_headlines/</link>
-      <description><![CDATA[大家好， 你们觉得我的 LinkedIn 标题生成器怎么样？  https://www.imgtoprompts.com/linkedin-headline-generator    提交人    /u/ProfessionalSet755   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g1gs7y/i_spend_24_hours_making_linkedin_headlines/</guid>
-      <pubDate>Fri, 11 Oct 2024 18:35:57 GMT</pubDate>
     </item>
     <item>
       <title>武术搜索器 - 全球武术爱好者的生态系统</title>
