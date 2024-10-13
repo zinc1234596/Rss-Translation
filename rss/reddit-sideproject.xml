@@ -4,7 +4,28 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Sun, 13 Oct 2024 01:14:05 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Oct 2024 03:22:15 GMT</lastBuildDate>
+    <item>
+      <title>Qwksearch.com Google 与困惑杀手</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g2gnpb/qwksearchcom_the_google_perplexity_killer/</link>
+      <description><![CDATA[  由    /u/vtempest  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g2gnpb/qwksearchcom_the_google_perplexity_killer/</guid>
+      <pubDate>Sun, 13 Oct 2024 03:16:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>您启动了项目，但却难以获得用户。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g2gaaz/you_launched_your_project_but_youre_struggling_to/</link>
+      <description><![CDATA[快速提问！！ 您启动了项目，但很难获得用户。您构建了一个又一个功能，希望它能有所作为，有人会购买它……但没有人购买。 真正的问题在于 - 如果不了解用户到底想要什么，您可能会将时间、精力和资源投入到错误的方向上。 您努力做到：  弄清楚哪些功能对您的用户真正重要？ 让您的用户对您的路线图参与并感到兴奋？ 根据真正的用户需求确定开发的优先级？  如果您点头表示同意，那么是时候重新考虑您的方法了！！  推出 FeatureFlow - 该平台可让您在构建用户喜爱的产品时无需再进行猜测。 借助 FeatureFlow，您可以：  直接从用户那里收集反馈，以准确了解他们的需求 优先考虑能够提高用户满意度和增长的功能 展示清晰、透明的路线图，让您的用户随时了解情况并参与其中 将投票板无缝嵌入到您的应用中，让用户在产品发展中拥有发言权  如果没有 FeatureFlow，您就会错失良机:  有价值的见解，可以引导您的产品朝着正确的方向发展 透明的路线图，可以建立用户的信任和忠诚度 根据实际用户反馈对高影响力功能进行优先排序的能力  结果如何？您可能会冒着打造一款不符合目标受众需求的产品的风险。 不要让这种情况发生！ FeatureFlow 可轻松满足用户需求，因此您可以专注于提供最重要的功能。  无论您是独立开发者还是团队的一员，FeatureFlow 都能帮助您打造用户喜爱的更好产品。 您可以在这里找到我 -&gt; twitter 准备好将反馈转化为成长了吗？ 立即开始使用 FeatureFlow     提交人    /u/Substantial_Tell_555   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g2gaaz/you_launched_your_project_but_youre_struggling_to/</guid>
+      <pubDate>Sun, 13 Oct 2024 02:54:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>一键隐藏所有固定的浏览器扩展程序</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g2fwvm/hiding_all_pinned_browser_extensions_with_one/</link>
+      <description><![CDATA[  由    /u/feiye_dev  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g2fwvm/hiding_all_pinned_browser_extensions_with_one/</guid>
+      <pubDate>Sun, 13 Oct 2024 02:32:15 GMT</pubDate>
+    </item>
     <item>
       <title>介绍 SquawkPad：一个工作协作平台 🚀</title>
       <link>https://www.reddit.com/r/SideProject/comments/1g2dd69/introducing_squawkpad_a_platform_for_work/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[  由    /u/Express-BDA  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1g26tcg/deploying_a_microservices_project_on_a_tight/</guid>
       <pubDate>Sat, 12 Oct 2024 18:42:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>我作为学生如何创建我的第一个 SaaS</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g26emn/how_i_created_my_first_saas_as_a_student/</link>
-      <description><![CDATA[大家好！我是 Sérgio Júnior，有 3 年编程经验，我想与大家分享我的第一个 SaaS：Quizzio。 我现在读高三，随着 ENEM（巴西全国高中考试）的临近，我正处于学习状态。在浏览 YouTube 时，我偶然发现了一个关于 SaaS 的视频，并对这个话题产生了兴趣。我开始根据我的知识集思广益，提出项目想法，最后我想到了这个想法： 创建一个网站，借助 AI（因为它很流行）根据学习材料生成测验。我发现这个想法非常有前途，因为我相信它对其他人有用，并且对我作为一名学生有很大帮助，因为参加考试是学习和发现知识差距的好方法。 在观看了一些关于 SaaS 的视频后，我开始开发这个项目。正如对此类项目的建议一样，我的目标是创建一个 MVP（最小可行产品），因此我决定使用以下堆栈：  前端  Next.js -- TailwindCSS -- Shadcn/ui  后端  Supabase（我选择它是为了更快地开发）  付款  Stripe  IDE  Cursor（我开始将它用于这个项目，它是一个非常有用的工具，可以将生产力提高十倍，但重要的是不要完全依赖它）   我非常享受开发过程中的经历，并且学到了很多关于付款、webhook、身份验证的新知识，等等。 所以，这就是我想与大家分享的。如果您想查看该项目或帮助传播信息甚至购买计划，我将不胜感激！这是 Quizzio 的链接：quizzio.app。    提交人    /u/Ok-Surprise-1767   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g26emn/how_i_created_my_first_saas_as_a_student/</guid>
-      <pubDate>Sat, 12 Oct 2024 18:23:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻求帮助来建立我的投资组合</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g2609s/seeking_help_to_build_my_portfolio/</link>
-      <description><![CDATA[大家好！希望你们都做得很好！ 我是自由职业领域的新手。我是 Google Ads 营销顾问/客户经理，希望创建一个作品集来展示我的作品。 如果有人愿意帮助我创建一个看起来专业的作品集，我将不胜感激  我知道时间很宝贵，所以我希望与可以提供帮助的人联系。我也很乐意提供推荐信或任何我能提供的帮助  感谢大家考虑我的请求。另外，如果您认识某人，请推荐。    提交人    /u/Comfortable_Case_549   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g2609s/seeking_help_to_build_my_portfolio/</guid>
-      <pubDate>Sat, 12 Oct 2024 18:05:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>ExpatWise-帮助您的医生、律师和营养师朋友搬到葡萄牙！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g25zx0/expatwise_help_your_doctor_lawyers_and_nutrition/</link>
-      <description><![CDATA[嘿朋友们， 您是否知道非欧盟外籍人士想要在葡萄牙从事医疗保健、法律和营养等受监管行业？ ExpatWise 在此为您提供帮助！ 我们提供自动化解决方案，以证明您在国外的技能和学位。 阅读以开启您的海外职业生涯，但不确定如何开始？ 在下面访问我们的 MVP！ https://www.mixo.io/site/exapt-wise-15tga    提交人    /u/DearAbbreviations776   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g25zx0/expatwise_help_your_doctor_lawyers_and_nutrition/</guid>
-      <pubDate>Sat, 12 Oct 2024 18:05:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
