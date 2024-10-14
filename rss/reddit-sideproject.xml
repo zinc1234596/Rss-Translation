@@ -4,7 +4,63 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Mon, 14 Oct 2024 03:23:32 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Oct 2024 06:21:56 GMT</lastBuildDate>
+    <item>
+      <title>全栈 Web 开发人员 [招聘]</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g39m41/full_stack_web_developer_hiring/</link>
+      <description><![CDATA[大家好，我们在平台上添加了一个新职位。如果您正在寻找全栈 Web 开发人员职位，请查看以下链接 职位 - 美国弗吉尼亚州阿什本的全栈 Web 开发人员（远程、全职） 职位链接 - devloprr.com/jobs#308 https://preview.redd.it/5cazdz94znud1.png?width=992&amp;format=png&amp;auto=webp&amp;s=73ddc2e4e30caedd6d4c71e8f3df88f8db808447    提交人    /u/Downtown-Bat-7216   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g39m41/full_stack_web_developer_hiring/</guid>
+      <pubDate>Mon, 14 Oct 2024 06:20:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>我用 4 天（2 个周末）的时间创建了 PhotoDrill。它可以将您的图片转换为图片库网站的标题。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g397xx/i_built_photodrill_in_4_days_2_weekends_it/</link>
+      <description><![CDATA[      它并不完美，甚至不是一个好的项目，但我必须做点什么。 在玩了 StableDiffusion 和 Flux 模型并生成了数千张图像后，我决定在 Adob​​e Stock Images 上出售这些图像。然后发现每次我都必须填写标题和标签等所有内容。 因此，我构建了图像到字幕生成器，然后将字幕导出到 csv 文件以将其上传到 Adob​​e。它允许批量上传图像以节省一些劳动力。 不寻求销售或其他任何东西。我只是想改进设计。 我可以很容易地添加一堆工具，例如 - Instagram 标题和标签生成器 - 从图像中删除元数据 - 图像到图像的转换。 - 提示生成器 - 提示到图像生成器 - 图像升级器 - 创意升级器 - 图像到草图 - 以及许多其他工具。 如果您正在寻找类似的东西，我也可以添加。 如果您打算购买一些积分，那就不要。只需给我发私信，我会将更多积分添加到您的帐户中。 仍在努力，并在不断改进，但只是想分享并知道是否有人有兴趣购买这个（购买积分并使用它们或购买整个网站）。到目前为止只有 1 笔销售，没有与任何人分享，只发了一次推文。 我愿意接受新想法、合作和改进建议。  非常感谢。 该网站的链接是https://photodrill.com 享受 https://preview.redd.it/deyz40okunud1.png?width=1891&amp;format=png&amp;auto=webp&amp;s=df7db1d93f2da980286adbf97a46bf53dbe2b015    由   提交  /u/AgentNirmites   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g397xx/i_built_photodrill_in_4_days_2_weekends_it/</guid>
+      <pubDate>Mon, 14 Oct 2024 05:50:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>我正在吸引人们加入我的等候名单。我心怀感激。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g38ask/im_getting_people_subscribing_into_my_waiting/</link>
+      <description><![CDATA[几个月来，我断断续续地创建了我的 SaaS Landing Builder。我让它闲置了一段时间，以构建一些可以为其提供流量的辅助工具，以及我的一些其他工作。几周前，我在测试版发布前添加了一个候补名单，幸运的是，人们正在订阅。 在这种情况下，有几件事对我有用： 首先，我没有进行“大规模的首次发布”，而是对各种元素进行了一些小测试，然后继续添加。 例如，我让人们分辨两组着陆页副本之间的区别，看看他们是否能识别出哪一个是人工智能，哪一个是由文案撰写的。大多数人说我的工具的人工智能版本是由专业文案撰写的。好兆头。 接下来，我仅使用副本构建部分构建一个简单的 MVP，测试收集了有关生成的副本的非常好的反馈。 接下来，我测试了设计可视化部分，反馈甚至更好。 现在我进入完成发布和导出功能的下一阶段，同时列表不断增加。应该很快就会发布测试版。 请随时告诉我您对它的外观有何意见。    提交人    /u/Trentadollar   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g38ask/im_getting_people_subscribing_into_my_waiting/</guid>
+      <pubDate>Mon, 14 Oct 2024 04:42:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了一个网站，求职者可以在这里匿名举报对你不理不睬的公司。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g386u9/i_made_a_website_where_job_hunters_can/</link>
+      <description><![CDATA[我建立了 https://ghostedd.com/，以便候选人可以“做点什么”来避免被“鬼魂”对待，因为我个人在被“鬼魂”时会感到无能为力，而且发送后续信息会让人感到烦人。 我不确定为什么还没有建立这样的网站，但我希望这个网站能够蓬勃发展，并提醒公司鬼魂并不好。我还希望它能让未来的候选人在考虑自己是否被“鬼魂”时感到安心。如果有足够多的人有兴趣做出贡献，我计划将这个项目开源，以实现透明度。 是时候让招聘人员/公司承担责任了。    提交人    /u/exo-dusxxx   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g386u9/i_made_a_website_where_job_hunters_can/</guid>
+      <pubDate>Mon, 14 Oct 2024 04:35:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要帮助构建 reddit scrapper</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g380zb/help_needed_for_building_reddit_scrapper/</link>
+      <description><![CDATA[我们正在处理一项需求，我们需要从 subreditts 帖子和评论中收集数据。  我想了解什么应该是理想的方法。如果可以使用 reditt 官方 api，我们是否应该使用？如果是，费用是多少？或者我们应该寻找抓取？如果抓取，它究竟应该如何工作，可靠性应该有多高？比如我可以看到很多可用于 reditt scrapper 的脚本，但我听说当 reditt 在其 html 中进行修改时，它会停止工作。我还有什么其他可靠的选择来实现最终结果。我们需要一些可以一次性构建的东西，而不必每周调整和修复它以使其工作。  等待您的宝贵回复。     提交人    /u/aiagentfromfuture   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g380zb/help_needed_for_building_reddit_scrapper/</guid>
+      <pubDate>Mon, 14 Oct 2024 04:24:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>更新了高级页面的动画</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g37izi/updated_an_animation_for_the_premium_page/</link>
+      <description><![CDATA[更新了 HydeClock 高级页面的动画  我知道它没用，但我真的很喜欢这个动画 :P  https://reddit.com/link/1g37izi/video/cc6rtkyf9nud1/player    提交人    /u/Shoddy-Mall7594   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g37izi/updated_an_animation_for_the_premium_page/</guid>
+      <pubDate>Mon, 14 Oct 2024 03:52:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>开发了一款免费小型应用，用于根据 SEC 文件追踪内幕股票交易</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g37gpb/built_a_small_free_app_for_tracking_insider_stock/</link>
+      <description><![CDATA[        提交人    /u/LordDonut   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g37gpb/built_a_small_free_app_for_tracking_insider_stock/</guid>
+      <pubDate>Mon, 14 Oct 2024 03:48:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>正在寻找 Foosh AI（我的“不再是副项目”的 AI 拍摄应用程序）的早期用户和测试人员。:) 很乐意演示并获得早期反馈。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g37fzt/looking_for_early_users_and_testers_for_foosh_ai/</link>
+      <description><![CDATA[        提交人    /u/Ok_Actuary_7800   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g37fzt/looking_for_early_users_and_testers_for_foosh_ai/</guid>
+      <pubDate>Mon, 14 Oct 2024 03:47:25 GMT</pubDate>
+    </item>
     <item>
       <title>我创建了 mustardapi.com，这是一个免费的网站列表，可让你通过添加网站来建立 SEO 排名</title>
       <link>https://www.reddit.com/r/SideProject/comments/1g36c01/i_created_mustardapicom_a_free_site_list_that/</link>
@@ -48,67 +104,11 @@
       <pubDate>Mon, 14 Oct 2024 01:05:25 GMT</pubDate>
     </item>
     <item>
-      <title>寻找有抱负的合作伙伴</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g34if1/looking_for_an_ambitious_collaborator/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g34if1/looking_for_an_ambitious_collaborator/</guid>
-      <pubDate>Mon, 14 Oct 2024 01:00:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个食谱应用程序，用于那些你不知道该做什么菜或不知道如何处理当时已有的食材的日子</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g33xif/i_made_a_recipe_app_for_the_days_you_dont_have/</link>
-      <description><![CDATA[      大家好，我制作了一个应用程序来解决我的问题，我认为很多人的问题都是知道午餐或晚餐该做什么。如果您有任何批评和反馈，我欢迎您！ 这是 App Store 链接：https://apps.apple.com/tr/app/cuisineai/id6503341584?l=tr 它看起来像这样： https://preview.redd.it/vijer4ol9mud1.png?width=1320&amp;format=png&amp;auto=webp&amp;s=d6f7f749ccaa476b8f6742b8e2f0c7b561d63799 https://preview.redd.it/nfrl8epl9mud1.png?width=1320&amp;format=png&amp;auto=webp&amp;s=ebc329ed3b3100a1c65bbb3ee5b92126c0242ced https://preview.redd.it/eot1q3ol9mud1.png?width=1320&amp;format=png&amp;auto=webp&amp;s=80c7c325f756e17504d640444f7b35e69ad1da80    提交人    /u/mibappeferto   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g33xif/i_made_a_recipe_app_for_the_days_you_dont_have/</guid>
-      <pubDate>Mon, 14 Oct 2024 00:30:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>我存的钱够吗？有什么建议或窍门吗？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g33rg9/am_i_saving_enough_any_tips_or_tricks/</link>
-      <description><![CDATA[嗨，专家们，我已经开发网站和商店一年了，我使用 wordpress、免费主题和插件、hostinger 多站点托管和 namecheap 域名。 我总是尝试使用优惠券代码，问题是我是否节省了足够的钱？ 我生活在一个第三世界国家，这里的人们努力赚取美元，我想为我和我的客户节省每一项运营成本，我还能做些什么，谢谢！    提交人    /u/noemanakram   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g33rg9/am_i_saving_enough_any_tips_or_tricks/</guid>
-      <pubDate>Mon, 14 Oct 2024 00:20:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>将文本图像和 csv 数据作为变量数据添加到 pdf 的工具</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g33r1g/tool_to_add_text_images_and_csv_data_as_variable/</link>
-      <description><![CDATA[  由    /u/yevo_  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g33r1g/tool_to_add_text_images_and_csv_data_as_variable/</guid>
-      <pubDate>Mon, 14 Oct 2024 00:20:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>我发明了一种方法，帮助散户投资者找到市场上最好的股票。它是 100% 免费试用的。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g33ddg/i_invented_a_way_to_help_retail_investors_find/</link>
-      <description><![CDATA[        提交人    /u/NextgenAITrading   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g33ddg/i_invented_a_way_to_help_retail_investors_find/</guid>
-      <pubDate>Mon, 14 Oct 2024 00:00:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻求反馈：具有嵌入和共享功能的可定制列表创建工具对您有用吗？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g339hx/looking_for_feedback_would_a_customizable_list/</link>
-      <description><![CDATA[大家好！我正在研究一个 SaaS 理念，该理念专注于让可自定义列表创建更轻松、更易于共享，我很乐意听取您的反馈。 以下是核心功能：  可自定义列表：使用简单的拖放步骤、基本格式选项（粗体、标题、项目符号等）和自定义（字体、颜色）创建列表。 嵌入代码生成：轻松为您的列表生成嵌入代码，允许您将其插入到您的网站或博客中。 公开与私人列表：使用简单链接共享您的列表或将其保持为私人，只有具有访问权限的人才能查看。 基本分析：跟踪浏览量和参与度（例如清单中完成了多少步骤）。 移动优先设计：列表将针对移动设备进行优化，使其易于创建、查看并随时随地分享。 可选的AI 驱动的步骤生成：对于上传视频或脚本的人，AI 可以帮助生成步骤（这将是一个附加功能，而不是主要重点）。  我正在寻找反馈，了解这种工具是否对内容创建者、自由职业者、教育工作者，甚至企业创建分步指南、教程或清单有帮助。 您觉得如何？还有什么可以让它对您更有用吗？ 提前感谢任何反馈！    提交人    /u/Fluffy-Guidance3399   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g339hx/looking_for_feedback_would_a_customizable_list/</guid>
-      <pubDate>Sun, 13 Oct 2024 23:55:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>好奇 WhatsApp 如何处理数十亿条消息？👀</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g336rp/curious_how_whatsapp_handles_billions_of_messages/</link>
-      <description><![CDATA[您是否对当今最具创新性的公司和产品所采用的技术堆栈感到好奇？想要了解专业人士正在使用哪些工具以及为什么这些工具很重要？您来对地方了！ 什么是 StackCurious？ StackCurious 是一份每周简报，它分解了领先公司和初创公司使用的技术堆栈，让您深入了解使其产品成功的架构选择。它旨在帮助像您这样的开发人员、技术主管、架构师和好奇心强的人学习、成长和获得启发。 每期内容是什么？ 🔍 技术堆栈深度探究：我们探索顶级公司背后的工具和框架，不仅解释他们使用什么，还解释为什么。 💡 新兴趋势：洞察软件架构的最新发展，保持领先地位。 ⚙️ 代码片段和实用技巧：将高级概念直接应用到您的项目中。 🎯 挑战：有趣且发人深省的任务，帮助您实践您所学到的知识。 谁应该订阅？  想要拓宽技术知识的软件开发人员 正在寻找新项目灵感的技术主管和架构师 任何对他们每天使用的应用程序背后的“如何”感到好奇的人  下一期预告：  我们正在深入研究Erlang - 支持WhatsApp消息系统的秘密武器！ 📲 了解这种老式语言如何帮助他们顺利处理数十亿条消息。 📅 每周二发布新问题。 👉 立即注册并将您的好奇心转化为可行的见解：订阅 StackCurious 加入我们的持续学习者社区，让我们一起探索迷人的技术堆栈世界！🎉    提交人    /u/stackcurious   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g336rp/curious_how_whatsapp_handles_billions_of_messages/</guid>
-      <pubDate>Sun, 13 Oct 2024 23:51:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>我为我的模糊图像工具找到了一个很好的营销口号 😆</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g325v2/i_got_a_pretty_good_marketing_line_for_my_blur/</link>
-      <description><![CDATA[      https://blurizz.vercel.app     由    /u/Amine-Aouragh 提交   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g325v2/i_got_a_pretty_good_marketing_line_for_my_blur/</guid>
-      <pubDate>Sun, 13 Oct 2024 22:59:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tab Reminder - 一款用于跟踪你的任务和提醒的 Chrome 插件</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g31s15/tab_reminder_a_chrome_plugin_to_keep_track_of/</link>
-      <description><![CDATA[      大家好！ 我很高兴与大家分享我开发的一款名为“标签提醒”的 Chrome 扩展程序。作为一名计算机科学专业一年级学生和编程界的新手，这个项目既是一次学习经历，也是管理任务的实用解决方案。 以下是该扩展程序提供的功能：  特定于标签的提醒：创建特定于您所在标签的提醒。切换标签？提醒将更新以仅显示与活动选项卡相关的提醒。 轻松管理：只需点击几下即可添加新提醒，并根据需要删除它们。 通知：获取浏览器通知以确保您不会错过任何任务。  我经常发现自己被标签和任务压得透不过气来。我需要一种在浏览器中直接管理它们的方法，这导致了此扩展的创建。它将所有内容集中在一个地方，简化且简单。 该项目是开源的，我渴望从社区学习以改进它。如果您有任何反馈、新功能建议，或者想要做出贡献，请查看 GitHub 存储库。 扩展的主屏幕。    提交人    /u/C_Flores97   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g31s15/tab_reminder_a_chrome_plugin_to_keep_track_of/</guid>
-      <pubDate>Sun, 13 Oct 2024 22:39:13 GMT</pubDate>
+      <title>我终于为（焦虑的）传单爱好者开发了一款应用，并获得了第一个付费用户</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g2z222/ive_finally_built_an_app_for_anxious_flyers_and/</link>
+      <description><![CDATA[      嗨 经过几个月的独自工作，我开发了一款名为我的美丽航班的应用程序，专为对飞行感到焦虑但不仅限于此的人而设计。  它包括引人入胜的学习内容，通过测验和音乐回顾帮助用户更好地了解飞行，24/7聊天机器人提供实时支持，以及具有酷炫功能的航班跟踪选项，让您无需航班号即可了解航班最新情况。  这是第一个版本，我非常感谢社区的反馈，以帮助进一步改进它！  https://preview.redd.it/a5z6jhjt2lud1.png?width=1500&amp;format=png&amp;auto=webp&amp;s=8c38d600f5ac7e2c233095385f791286cb965fc0 https://apps.apple.com/us/app/my-beautiful-flight/id6736398704    由   提交  /u/MyBeautifulFlight77   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g2z222/ive_finally_built_an_app_for_anxious_flyers_and/</guid>
+      <pubDate>Sun, 13 Oct 2024 20:30:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
