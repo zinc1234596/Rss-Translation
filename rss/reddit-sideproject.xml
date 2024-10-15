@@ -4,7 +4,49 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Tue, 15 Oct 2024 01:09:47 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Oct 2024 03:21:53 GMT</lastBuildDate>
+    <item>
+      <title>永远不要在没有等待名单的情况下启动</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g3y8vo/never_launch_without_a_waitlist/</link>
+      <description><![CDATA[嘿，侧面投影仪！ 我已经构建了一个工具，用于在几分钟内（或者如果你愿意的话，几秒钟内）创建产品发布候补名单：Waitlister 你可以：  创建托管候补名单登录页面 创建可嵌入表单 发送自动欢迎电子邮件 发送电子邮件广播 通过推荐激励分享 还有更多...  如果您有兴趣，很想听到一些反馈！ 干杯    提交人    /u/qekk101   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g3y8vo/never_launch_without_a_waitlist/</guid>
+      <pubDate>Tue, 15 Oct 2024 03:08:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于人工智能演示工具的反馈——这对您来说是一个游戏规则的改变者吗？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g3y846/feedback_on_aipowered_presentation_tool_is_this_a/</link>
+      <description><![CDATA[      大家好，在参加多次黑客马拉松时，我意识到我经常遇到问题的主要阶段是在推销我的产品时。我意识到，具有一定讲话风度的人，以及讲话精确并能够吸引评委注意力的人往往会获胜。这种经历促使我开发了 PitchPerfect，这是一款由人工智能驱动的演示工具，可为客户提供以下价值：𝐀𝐈-𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐏𝐫𝐞𝐬𝐞𝐧𝐭𝐚𝐭𝐢𝐨𝐧𝐬：PitchPerfect 以实时语音登台，像专业人士一样传递您的内容。它会智能地详细解释您的幻灯片，同时还会跟踪时间。𝐎𝐧-𝐃𝐞𝐦𝐚𝐧𝐝 𝐒𝐥𝐢𝐝𝐞 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐢𝐨𝐧：需要任何主题的幻灯片吗？说出这个词，PitchPerfect 会立即创建它们。它特别有用，因为它能够突出显示幻灯片中最重要的方面，因此用户更容易理解。𝐒𝐦𝐚𝐫𝐭 𝐍𝐚𝐯𝐢𝐠𝐚𝐭𝐢𝐨𝐧：忘记摸索控件 - PitchPerfect 可以无缝处理幻灯片过渡。 𝐈𝐧𝐭𝐞𝐫𝐚𝐜𝐭𝐢𝐯𝐞 𝐐&amp;𝐀：就像人类演讲者一样，您可以随时打断、提问或请求更改幻灯片。此工具适合您：* 如果您在演讲过程中喋喋不休，很难引起人们的注意！* 如果您急于在一大群人面前演讲（我！）* 如果您想将任何会议讨论或主题转换为演示文稿！* 如果您只是想要一个更聪明的队友来帮助演示并回答您提出的任何问题！它适用于：企业专业人士、教育工作者、学生、自由职业者和内容创建者。在尝试下面的演示时，我意识到 AI 代理更善于吸引我的注意力，并且比我更好地展示幻灯片！考虑到这些功能和潜在用例，我正在考虑将其作为 SaaS 产品推出。我很乐意收到来自这个社区的反馈：1. 这能解决您在演示过程中遇到的任何问题吗？2. 由于 AI 语音需要花费一些钱，您是否认为订阅模式具有足够的价值，尤其是对于 B2B 而言？这是我第一次尝试构建一个用户可以从中受益的完整产品。我非常感谢你的想法，这样我才能不断改进！谢谢！    提交人    /u/No_Acanthisitta_6738   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g3y846/feedback_on_aipowered_presentation_tool_is_this_a/</guid>
+      <pubDate>Tue, 15 Oct 2024 03:07:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们制作了今日排名第三的产品</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g3x6n1/we_made_a_3_product_of_the_day/</link>
+      <description><![CDATA[自 7 月以来，我们一直致力于 Sunrise，这是一款用于正念的引导式日记应用程序：它是您反思和放松的安全空间。我们的主要功能包括：  ✍️ 引导式日记：100 多个日常内省提示。10 个基于证据的模板，旨在增强您的心理健康，灵感来自 Andrew Huberman 等专家。 💌 鼓励反馈：为您的日记条目提供匿名的情感支持。 🔐 安全空间：高级安全功能，如本地数据存储（我们不会将您的日记条目存储在我们的服务器中）和密码保护（生物识别或密码）。  我们最近被评为每日最佳产品第 3 名和本周最佳产品第 1 名健康与Fitness 在 Product Hunt 上。 心理健康可能是一场无声的斗争，但你不必独自面对它。 ⬇️ 立即免费下载 Sunrise 并试用 7 天！ 有疑问吗？我们在这里为您提供帮助。 🍎 iOS 下载 🤖 Android 下载 🌐 网站   由    /u/Ok-Stand1794  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g3x6n1/we_made_a_3_product_of_the_day/</guid>
+      <pubDate>Tue, 15 Oct 2024 02:12:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>instapics 增加了对搜索 subreddits 的支持</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g3x41q/instapics_added_support_for_searching_subreddits/</link>
+      <description><![CDATA[现在您只需在搜索栏中输入 r/ 和您想要查看的 subreddit 名称即可。 像这样：https://instapics.2ix.ch/?q=r/aww 或者这样：https://instapics.2ix.ch/?q=r/anime    提交人    /u/derhamster39   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g3x41q/instapics_added_support_for_searching_subreddits/</guid>
+      <pubDate>Tue, 15 Oct 2024 02:08:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻求有关我的 SaaS 的反馈</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g3wekd/looking_for_feedback_on_my_saas/</link>
+      <description><![CDATA[寻求有关我的 SaaS disputeax.com 的反馈&gt; 想免费试用吗？我只向 2 个人提供此服务，以换取诚实的反馈。 获取免费订阅并成为其中一员！    由   提交  /u/innoplusdevs   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g3wekd/looking_for_feedback_on_my_saas/</guid>
+      <pubDate>Tue, 15 Oct 2024 01:31:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>我为语音编程构建了一个 AI 代理——如何才能让它变得更好？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g3w71s/i_built_an_ai_agent_for_voice_programming_how_can/</link>
+      <description><![CDATA[        由    /u/Charco6  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g3w71s/i_built_an_ai_agent_for_voice_programming_how_can/</guid>
+      <pubDate>Tue, 15 Oct 2024 01:20:57 GMT</pubDate>
+    </item>
     <item>
       <title>我制作了一个免费的 Pinterest Alt Text 生成器</title>
       <link>https://www.reddit.com/r/SideProject/comments/1g3vbqg/i_made_a_free_pinterest_alt_text_generator/</link>
@@ -67,48 +109,6 @@
       <description><![CDATA[我已经建立了这个预先录制的直播服务，我需要人们在开始发布之前来测试它。如果你有兴趣，可以联系我吗？ 寻找 10 个人来测试我的应用程序，作为回报，当我们发布时，你将获得第一年的免费使用。https://simulcast.stream/ 您可以设置 24/7 直播并多播到 5 个端点，例如 Youtube、Facebook、Twitch、Tiktok.. 等。    提交人    /u/flipsnapnet   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1g3sm65/i_need_testers_for_my_prerecorded_live_stream/</guid>
       <pubDate>Mon, 14 Oct 2024 22:26:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>看看我的新体育研究助理！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g3s5u0/check_out_my_new_sports_research_assistant/</link>
-      <description><![CDATA[嗨！ 我很乐意听取有关我的新 AI 体育研究助理 Billy Bets 的反馈！ 使用 Billy Bets，您可以执行以下操作： 获取 AI 驱动的洞察：获取实时统计数据和趋势，以指导您的投注和梦幻选择。对决分析：比较球队和球员在即将到来的比赛中的表现。 球员道具研究：使用个性化数据确定最佳道具投注。 我们目前专注于 NFL，但正在寻求添加更多运动。继续 app.askbilly.bet 并创建一个帐户。我很乐意听取您的反馈！    提交人    /u/Accurate_Influence21   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g3s5u0/check_out_my_new_sports_research_assistant/</guid>
-      <pubDate>Mon, 14 Oct 2024 22:05:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果你想推销你的产品，不要使用标题公式。相反，请使用这个标题（教程）</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g3s4uf/if_you_want_to_promote_your_product_dont_use/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g3s4uf/if_you_want_to_promote_your_product_dont_use/</guid>
-      <pubDate>Mon, 14 Oct 2024 22:04:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>RapidForge：创建自动化和内部工具的简单解决方案</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g3rtbb/rapidforge_an_easy_solution_for_creating/</link>
-      <description><![CDATA[大家好， 我一直在研究一种名为 RapidForge 的东西，我想你们中的一些人可能会觉得它很有用。它是一个可部署的二进制文件，可帮助您创建端点、网页和任务。您可以使用脚本定义它们的行为。 目标是简化创建自动化或内部工具的程序。使用 RapidForge，您可以快速设置 webhook 或任务，而无需复杂的基础设施。    提交人    /u/user90857   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g3rtbb/rapidforge_an_easy_solution_for_creating/</guid>
-      <pubDate>Mon, 14 Oct 2024 21:50:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>我正在启动 Disputeax</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g3rrgv/im_launching_disputeax/</link>
-      <description><![CDATA[这一天到了！🚀 我正在推出 disputeax.com - 一个简单的工具，可帮助您避免 Stripe 的 15 美元争议费。  立即开始保护您的业务！    提交人    /u/innoplusdevs   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g3rrgv/im_launching_disputeax/</guid>
-      <pubDate>Mon, 14 Oct 2024 21:48:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>OnlyF#ckMoney：一个完全无用的平台，用于测试 Vercel v0、Stripe 和不同的登录系统</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g3r9kp/onlyfckmoney_a_complete_useless_platform_to_test/</link>
-      <description><![CDATA[你好！ 我有一些空闲时间，我建立了这个副项目：https://onlyfuckmoney.com/ 我很好奇测试 Vercel v0 的扩展，它非常强大，它提出了一些很棒的想法 除此之外，我还尝试了使用魔术链接和社交登录来注册/登录懒人用户的新方法，所有这些都是从头开始构建的 我一直在测试这一切并添加新的功能（成就将是下一件大事），告诉我你的想法以及你将如何改进它 https://www.youtube.com/watch?v=uaYC3kxcyC8 简短的视频展示它的工作原理 如果你问如果它只是一个浪费钱的平台，那你 100% 是对的！ 注册时使用 5 个免费积分进行测试    提交人    /u/morphalex90   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g3r9kp/onlyfckmoney_a_complete_useless_platform_to_test/</guid>
-      <pubDate>Mon, 14 Oct 2024 21:26:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>新的匿名私语式 iOS 应用</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g3qyq2/new_anonymous_whisperlike_ios_app/</link>
-      <description><![CDATA[不久前我发布了我的新应用，希望大家可以尝试一下，然后告诉我你的想法。我已经列出了要添加的内容，但我随时愿意添加更多内容！我也在开发 Android 版本，但我想尽我所能让事情进展顺利。如果你有任何建议，请告诉我。 https://apps.apple.com/us/app/ghostpost-chat-discreetly/id6661017232    提交人    /u/Neither_Ad_1876   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g3qyq2/new_anonymous_whisperlike_ios_app/</guid>
-      <pubDate>Mon, 14 Oct 2024 21:13:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
