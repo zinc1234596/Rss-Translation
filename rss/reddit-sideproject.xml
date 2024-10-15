@@ -4,9 +4,58 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Tue, 15 Oct 2024 03:21:53 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Oct 2024 06:21:14 GMT</lastBuildDate>
     <item>
-      <title>永远不要在没有等待名单的情况下启动</title>
+      <title>我制作了这些免费的 Google Docs 简历模板。希望对您有所帮助！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g41a8h/i_made_these_free_google_docs_resume_templates/</link>
+      <description><![CDATA[        提交人    /u/mouse_made   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g41a8h/i_made_these_free_google_docs_resume_templates/</guid>
+      <pubDate>Tue, 15 Oct 2024 06:17:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>发展彻底改变了</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g4182e/development_changed_forever/</link>
+      <description><![CDATA[偶尔，机会之窗会打开，它几乎会将你拉过去。那一刻就是现在。 人工智能极大地改变了我们开发人员的工作方式。从短期来看，它为我们创造了以极快的速度发布产品的机会。从长远来看，我们只是不知道。 我们所知道的是，我们需要利用这个“短期”机会我们被赋予了超能力。 一些开发人员甚至说代码 + AI 比无代码更快。 将此视为行动号召：  不要抵制加速 - 利用它。 使用为这个新时代设计的工具。 窗户敞开着，但不会永远保持这种状态。  短期超级大国 我们中的许多人仍在试图弄清楚前景。以下是我使用的一些工具：  代码编辑：Cursor + Claude 使用 Search AI（Perplexity 或 SearchGPT）分析竞争并建立竞争优势。 使用全栈套件，以便 Cursor 可以更快地集成前端和后端。例如 SlimSaaS 使用 UI 库（如 Tailwind、DaisyUI、Shadcn 等），以便 AI 可以利用这些 UI 库中的组件（而不是以丑陋的屏幕开始）。从 DaisyUI 之类的东西开始，AI 将专注于总体布局，而不是颜色。 Vercel 的生成式 UI v0 营销：ElevenLabs，特别是语音转换功能对于视频内容来说非常棒。  最后的想法 我列出的很多工具可能会随着下一波创新而消亡。 人类的成功是因为我们创造的工具。不要抵制工具：更快地构建、适应和启动。 你的堆栈是什么？    提交人    /u/NoSEVDev   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g4182e/development_changed_forever/</guid>
+      <pubDate>Tue, 15 Oct 2024 06:13:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>个人 CRM 概念模板</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g410yb/personal_crm_notion_template/</link>
+      <description><![CDATA[        提交人    /u/Brave_Living   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g410yb/personal_crm_notion_template/</guid>
+      <pubDate>Tue, 15 Oct 2024 05:59:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Notebrew 是适用于 Windows、macOS 和 Linux 的开源静态站点生成器和 CMS。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g40oyq/notebrew_is_an_opensource_static_site_generator/</link>
+      <description><![CDATA[网站在这里 https://notebrew.com/。 它是一个像 Hugo 一样的静态站点生成器，但具有 CMS 界面并且可以自托管。如果您正在寻找具有图形用户界面的静态站点生成器替代方案，请查看它。    提交人    /u/sir_bok   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g40oyq/notebrew_is_an_opensource_static_site_generator/</guid>
+      <pubDate>Tue, 15 Oct 2024 05:35:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们开发了一款应用程序，可帮助你规划和追踪你的旅行冒险并从中获利</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g4059t/we_built_an_app_that_helps_you_plan_and_track/</link>
+      <description><![CDATA[我们今天在 Product Hunt 上推出了 tTravel！🤩  tTravel 是您的一体化旅行伙伴、货币化平台和计划助手。  这就是它出色的原因：  从您的旅行经历中赚钱 保存并珍惜您的旅行记忆 为您的旅行找到最佳地点和行程（人工验证）  适用于 iOS 和 Android，在评论中添加链接。 如果您有任何应用功能建议，请在评论中告诉我。🙏 非常感谢！♥️    提交人    /u/Sufficient-Can7031   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g4059t/we_built_an_app_that_helps_you_plan_and_track/</guid>
+      <pubDate>Tue, 15 Oct 2024 04:59:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>评价我的应用的用户体验 (任何内容 - AI 视频课程)</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g4001x/rate_my_apps_ux_anything_ai_video_lessons/</link>
+      <description><![CDATA[        由    /u/benjalim 提交   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g4001x/rate_my_apps_ux_anything_ai_video_lessons/</guid>
+      <pubDate>Tue, 15 Oct 2024 04:50:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>有多少人成功众筹了你的业余项目</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g3z05a/how_many_people_had_success_crowdfunding_your/</link>
+      <description><![CDATA[我最近尝试过众筹，但没有成功，我想知道您是否为您的副业进行了众筹，如果是的话，进展如何？ 我想知道是否有一个平台允许您进行众筹并聘请营销人员来营销您的众筹页面，您会使用它吗？ 您可以控制希望营销人员在平台上筹集多少资金，当他们达到目标时，您就会根据您和营销人员商定的金额向他们付款。    提交人    /u/Alert-Ad-5918   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g3z05a/how_many_people_had_success_crowdfunding_your/</guid>
+      <pubDate>Tue, 15 Oct 2024 03:50:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>绝不在没有等候名单的情况下启动</title>
       <link>https://www.reddit.com/r/SideProject/comments/1g3y8vo/never_launch_without_a_waitlist/</link>
       <description><![CDATA[嘿，侧面投影仪！ 我已经构建了一个工具，用于在几分钟内（或者如果你愿意的话，几秒钟内）创建产品发布候补名单：Waitlister 你可以：  创建托管候补名单登录页面 创建可嵌入表单 发送自动欢迎电子邮件 发送电子邮件广播 通过推荐激励分享 还有更多...  如果您有兴趣，很想听到一些反馈！ 干杯    提交人    /u/qekk101   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1g3y8vo/never_launch_without_a_waitlist/</guid>
@@ -60,55 +109,6 @@
       <description><![CDATA[嗨，我是 Datalis 的创始人，我创建了这个工具作为一个附带项目来帮助我们的付费营销。  ZuckerBot 有助于自动优化广告，因此您可以节省时间并专注于业务的其他方面。  我知道自我推销在这里不是常态，但我真的认为 ZuckerBot 可以帮助你们中的一些人。 如果您有兴趣，我希望您尝试一下并分享您的反馈，无论是正面的还是负面的。 我一直在改进它，并很感激您的想法。  www.zuckerbot.ai 谢谢    提交人    /u/Crumbedsausage   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1g3uymq/we_built_an_ai_tool_to_save_you_time_managing/</guid>
       <pubDate>Tue, 15 Oct 2024 00:19:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>采用轮盘模式的团体挑战</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g3tv0e/group_challenges_with_roulette_mode/</link>
-      <description><![CDATA[      我已经运行 Goalie (https://goaliemvmt.com) 了已经有一段时间了，增长稳定。这是一款可以让人们挑战他们的朋友的应用程序，但有一个条件，每个人都需要支付买入费才能加入。最后赢家分得奖金。就在最近，我们想尝试一些有趣的东西，所以我们添加了一个“轮盘赌”选项。如果您使用此选项，我们将在挑战开始时为您的小组分配一个随机挑战。在挑战开始之前，没人知道挑战是什么。希望您查看！    提交人    /u/Fit_Bee8519   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g3tv0e/group_challenges_with_roulette_mode/</guid>
-      <pubDate>Mon, 14 Oct 2024 23:25:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>因为我的 insta 照片看起来就像是被车灯照到的鹿，所以我请了一位 AI 摄影师。希望这能帮助那些摆姿势不自然的人。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g3tiz3/made_an_ai_photographer_because_my_insta_pics/</link>
-      <description><![CDATA[        提交人    /u/TheScientificTemper   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g3tiz3/made_an_ai_photographer_because_my_insta_pics/</guid>
-      <pubDate>Mon, 14 Oct 2024 23:09:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>在一堆 AI 失败之后终于做出了一些可以发挥作用的东西......</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g3tik6/finally_made_something_that_works_after_a_bunch/</link>
-      <description><![CDATA[Heeello reddit！在经历了几个 AI 项目失败之后（尝试了 AI 驱动的新闻收集、随机照片生成，甚至音乐节拍检测……是的，它们没有奏效……），我终于得到了一些有前途的东西！ 我正在开发一个名为 chartslide.ai 的工具，它可以自动将视频转换为幻灯片！它可以做的一些很酷的事情：  分解视频场景并将其转换为幻灯片 从视频中提取文本用于摘要/注释 允许您使用幻灯片的自定义模板使其看起来不错！  它仍在进行中，但我对这个感觉非常好！如果您有兴趣或想进一步讨论它，请随时与我们联系。我很乐意获得反馈或只是谈论工作！！！！    提交人    /u/Opposite_Freedom723   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g3tik6/finally_made_something_that_works_after_a_bunch/</guid>
-      <pubDate>Mon, 14 Oct 2024 23:09:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>创业故事的例子？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g3tgar/example_of_startup_story/</link>
-      <description><![CDATA[大家好，我在为一个项目寻找简明的创业故事（导致失败或成功！）。 我们的想法是为虚构的创业公司（或受真实创业公司的启发）制作一些故事情节，其中包含关键的生活事件，这些事件说明了创业公司在特定情况下失败或成功的主要原因（不可扩展、没有必要、物流太复杂等）。 如果您有任何故事可以分享，并附上几个要点，那将会很有帮助！谢谢！！ 一个例子： HomeAppliance：提供翻新家用电器（洗碗机、洗衣机）的长期租用 订阅模式：每月 10 欧元，为期 40 个月，包括维护和售后服务。 目标市场：低收入家庭。  早期增长：  - 收购成本：30 欧元。  - 以 10% 的交叉销售率覆盖 100 位客户。  挑战：  - 付费广告不可扩展；CAC 上升  - 创始人是一名运营工程师，缺乏通过 SEO、品牌推广等方式实现发展的营销技能  - 由于低收入客户导致未付订阅量增加  - 引入信用检查；由于客户不回答问题、无法询问，CAC 增加了 5 倍  - 维护、物流和重新包装的成本上升。   失败：  - Homecycle 关闭（订阅模式，但目标受众为低收入人群 + CAC + 物流）    提交人    /u/username90856   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g3tgar/example_of_startup_story/</guid>
-      <pubDate>Mon, 14 Oct 2024 23:06:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>3 个月后，我有了 17 个用户。如何才能在不发送垃圾邮件的情况下有效发展？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g3t937/after_3_months_i_have_17_users_how_can_i_grow/</link>
-      <description><![CDATA[      几个月前，我最初在 reddit 上发布了我的扩展程序，但流量并不大。我在一些 subreddits 上发布了帖子，但我觉得我有点垃圾。这对我来说还处于早期阶段，我不确定如何正确地引起人们对我的扩展程序的关注。现在做适当的广告还为时过早，但我需要一些用户来获得不错的反馈。 关于如何获得反馈/更多早期用户，有什么建议吗？    提交人    /u/Scott-Jenkins   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g3t937/after_3_months_i_have_17_users_how_can_i_grow/</guid>
-      <pubDate>Mon, 14 Oct 2024 22:56:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>推出了我的第一款让你与当地人联系的应用程序 - Pijin App</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g3szxe/launched_my_first_app_for_connecting_you_with_the/</link>
-      <description><![CDATA[大家好！👋 我是一个非技术型联合创始人，但在人工智能的帮助下，我终于推出了我的第一个应用程序。它被称为Pijin App，它可以帮助您与当地人建立联系 - 无论是在您的街道上、在您的社区还是在整个城市。 我通过在社区公告板上分享二维码来测试这个应用程序，并惊讶地发现人们对下载和使用它很感兴趣！我已经在我的社区里认识了一些新朋友，并找到了一些不错的场所推荐。 以下是 Pijin 可以为你提供的功能：  街道聊天：与街区里的人们交谈。 邻里聊天：随时了解附近发生的事。 全市聊天：与夏洛特各地的新朋友联系并发现新景点！  当你四处走动时，Pijin 会更新新的频道和聊天对象。无论您是在喝咖啡还是在公园闲逛，附近总会有人可以与您联系。 它在 iOS 上完全免费，可在这里获得，我希望您尝试一下并分享任何反馈。😊 谢谢大家！    提交人    /u/alphamarine09   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g3szxe/launched_my_first_app_for_connecting_you_with_the/</guid>
-      <pubDate>Mon, 14 Oct 2024 22:44:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>我需要测试人员来测试我的预录直播服务</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g3sm65/i_need_testers_for_my_prerecorded_live_stream/</link>
-      <description><![CDATA[我已经建立了这个预先录制的直播服务，我需要人们在开始发布之前来测试它。如果你有兴趣，可以联系我吗？ 寻找 10 个人来测试我的应用程序，作为回报，当我们发布时，你将获得第一年的免费使用。https://simulcast.stream/ 您可以设置 24/7 直播并多播到 5 个端点，例如 Youtube、Facebook、Twitch、Tiktok.. 等。    提交人    /u/flipsnapnet   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g3sm65/i_need_testers_for_my_prerecorded_live_stream/</guid>
-      <pubDate>Mon, 14 Oct 2024 22:26:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
