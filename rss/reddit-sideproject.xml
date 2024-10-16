@@ -4,7 +4,70 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Wed, 16 Oct 2024 03:23:06 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Oct 2024 06:20:54 GMT</lastBuildDate>
+    <item>
+      <title>我制作了一款应用程序，您可以通过集中注意力和养成习惯来收集恐龙。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g4si0o/i_made_an_app_where_you_can_collect_dinosaurs_by/</link>
+      <description><![CDATA[大家好！ 我正在开发一款用于时间管理和习惯养成的应用程序，将番茄工作法与有趣的恐龙收集系统相结合，帮助您集中注意力。1.0 版本现已在 App Store 上线，我很乐意听取您的反馈意见，以便让下一个版本变得更好！ 这款应用可以做什么？ 1. 专注系统：将专注技术与奖惩系统相结合，让每次活动都充满激励。您专注的时间越长，奖励就越大。 2. 习惯养成系统：自定义您想要保持的习惯，并在您达到时间目标时解锁奖励。 3.收集系统：保持专注可以孵化恐龙蛋，但一旦失去专注，恐龙蛋就不会孵化。 我想知道的是： 1. 你认为与朋友一起专注于自己的任务会比单独工作提高效率吗？ 2. 你有兴趣在社交媒体上分享你的专注成就吗？ 3. 看到详细的专注时间统计数据会给你带来积极的强化吗？ 它仍处于早期阶段，无需注册即可使用该应用。我希望你试用并与我分享任何宝贵的建议。    提交人    /u/Focusaur   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g4si0o/i_made_an_app_where_you_can_collect_dinosaurs_by/</guid>
+      <pubDate>Wed, 16 Oct 2024 05:54:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个由人工智能驱动的一线客户支持自动化工具</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g4sd97/i_made_an_aipowered_first_line_customer_support/</link>
+      <description><![CDATA[  由    /u/Narrotapp  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g4sd97/i_made_an_aipowered_first_line_customer_support/</guid>
+      <pubDate>Wed, 16 Oct 2024 05:45:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>我是否应该将这个与 Crunchbase 竞争的公司/初创公司搜索工具变成网站？GitHub repo 的评论：https://github.com/ehlowe/StartupSearcher</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g4s8xs/should_i_turn_this_companystartup_search_tool/</link>
+      <description><![CDATA[        提交人    /u/ZapperStrudel5   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g4s8xs/should_i_turn_this_companystartup_search_tool/</guid>
+      <pubDate>Wed, 16 Oct 2024 05:36:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>您从哪里获得“插入短片”/流行文化参考片段？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g4r7ht/where_do_you_get_your_insert_shorts_pop_culture/</link>
+      <description><![CDATA[我开始了解整个内容创建过程，并且一直想知道人们从哪里获得电影、电视节目和流行文化参考的剪辑、反应剪辑？ 是否有人使用的流行工具或服务？最明显的一个是从 YouTube/社交媒体获取剪辑 - 通过一些网络翻录工具提取 - 然后使用视频编辑工具重新混合。但你如何为你一直想的东西找到一个干净的剪辑 - 例如，那个“克莱默打开门”的剪辑！    提交人    /u/Haunting_Cupcake007   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g4r7ht/where_do_you_get_your_insert_shorts_pop_culture/</guid>
+      <pubDate>Wed, 16 Oct 2024 04:28:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们创建了一个平台，可以在几天内构建 AI 模型并扩展到数百万个 - 加入 Teil 的早期访问等候名单</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g4r62f/we_created_a_platform_to_build_ai_models_in_days/</link>
+      <description><![CDATA[      你好！👋 我很高兴向您介绍 Teil，这是一个旨在加速您的 AI 开发并使模型部署尽可能简单的新平台，我们的目标是成为 AI 的完整后端基础设施解决方案。 我们构建 Teil 的使命很简单：使开发人员和数据科学家能够快速构建、训练和部署 AI 模型，而无需担心基础设施的扩展或复杂性。以下是  🚀Teil 提供的内容：  与您的数据集成：无论是来自 Google Drive、S3、Snowflake 还是您自己的存储解决方案，都可以轻松插入您的数据源。 在 GPU 上运行模型：在我们的 GPU 上训练您的模型并获得大规模性能，无需设置麻烦，只需使用我们的 teil 装饰器并在 GPU 上运行代码即可。 自动生成的端点：一旦您的模型经过训练，您就可以使用 Teil 部署它们，Teil 会自动创建可扩展的 API 端点以进行与 OpenAI API 兼容的部署。 对于您创建的每个模型，您都可以通过我们的 API 使用批量推理、流和实时来使用它。像使用 OpenAI API 一样使用您自己的模型！🤯  模型和端点版本控制：您可以拥有不同版本的模型部署并轻松访问它们。 自动扩展：Teil 可以扩展您的模型部署和训练以处理任何负载，因此您可以专注于构建而不是管理服务器。 电子邮件通知：在训练完成或部署上线时收到通知。 集成：与您最喜欢的 API 集成，如 Hugging face 和 LangChain。  我们仍处于早期阶段，但我们将为加入候补名单的前 100 名用户提供免费访问和试用。如果您有兴趣测试 Teil 并帮助塑造它的未来，在此处注册。 欢迎在评论中提出任何问题 - 我很乐意听到您的想法和反馈！ 🙌 期待看到您使用 Teil 构建的内容！    提交人    /u/Int_Angel   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g4r62f/we_created_a_platform_to_build_ai_models_in_days/</guid>
+      <pubDate>Wed, 16 Oct 2024 04:26:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>不久前，我发布了一个 Chrome 扩展程序，让您只记下一件事，并在每次打开新标签时看到它！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g4qu8z/i_published_a_chrome_extension_a_while_back_that/</link>
+      <description><![CDATA[      如果您想记住最重要的提醒、想法、电话号码、励志语录等，这非常方便。    提交人    /u/amitmerchant   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g4qu8z/i_published_a_chrome_extension_a_while_back_that/</guid>
+      <pubDate>Wed, 16 Oct 2024 04:06:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>我将免费详细剖析 5 个着陆页！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g4ql0c/i_will_roast_5_landing_pages_in_detail_for_free/</link>
+      <description><![CDATA[前 5 位创始人使用代码“FREEROAST”在此处提交他们的登陆页面，将获得完全免费的烘焙。    提交人    /u/PickleDue3394   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g4ql0c/i_will_roast_5_landing_pages_in_detail_for_free/</guid>
+      <pubDate>Wed, 16 Oct 2024 03:51:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能定制贺卡：从想象到邮箱</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g4qcfq/aipowered_custom_greeting_cards_from_imagination/</link>
+      <description><![CDATA[大家好， 我厌倦了在商店看到同样的旧贺卡，所以我做了一些不同的东西。它的工作原理如下：  使用我们的代币生成带有任何提示的 AI 图像 为卡片封面挑选您最喜欢的图像 在里面添加您的个人信息 我们打印并向您或直接向美国或加拿大境内的收件人发送 5x7 贺卡  不再需要通用设计或花费数小时寻找“完美”的卡片。现在，您可以为任何场合制作您想要的东西。 如果您对印刷卡片的外观感兴趣，请告诉我，我会分享一些图片。 分享您的想法！任何反馈都值得赞赏。您可以在 https://www.cardcanvas.ai/ 上免费试用    提交人    /u/hnkhandev   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g4qcfq/aipowered_custom_greeting_cards_from_imagination/</guid>
+      <pubDate>Wed, 16 Oct 2024 03:37:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一款应用程序，可以帮助你无缝有效地获取用户反馈</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g4q4dn/i_made_an_app_which_helps_you_get_user_feedback/</link>
+      <description><![CDATA[嘿 Redditors！ 我制作了一款名为 featureflow.tech 的应用，它可以帮助您无缝有效地获得用户反馈  直接从用户那里收集反馈 优先考虑真正重要的功能 展示透明的路线图以保持用户参与度 将投票板直接嵌入到您的应用中以获得无缝反馈  无论您是独立开发者还是团队的一员，FeatureFlow 都可以帮助您构建用户喜爱的更好产品。 我很乐意听到您的想法或回答任何问题，您可以在https://x.com/jaypatel1_ 找到我！ 如果您错过了，featureflow.tech    由   提交  /u/Substantial_Tell_555   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g4q4dn/i_made_an_app_which_helps_you_get_user_feedback/</guid>
+      <pubDate>Wed, 16 Oct 2024 03:24:51 GMT</pubDate>
+    </item>
     <item>
       <title>Gardenscapes iOS/Android 破解版 2024 - 如何获得 Gardenscapes 星星和硬币</title>
       <link>https://www.reddit.com/r/SideProject/comments/1g4p9xz/gardenscapes_hack_iosandroid_2024_how_to_get/</link>
@@ -27,13 +90,6 @@
       <pubDate>Wed, 16 Oct 2024 01:59:28 GMT</pubDate>
     </item>
     <item>
-      <title>+1 关注度 = +100 结果</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g4o7hj/1_focus_100_results/</link>
-      <description><![CDATA[经过 7 个月的投入，我在 X 上获得了 1,000 名粉丝。说我的产品开发受到了影响，这是一种轻描淡写的说法。 每 15 分钟的额外专注都很重要。即使是 15 分钟盯着屏幕而不切换任务。 在离开 X 一段时间并看到我的工作效率提高了 10 倍之后，我想到了一个解决方案。一个在构建产品时不会忽视营销的解决方案。 我称之为 4-2-1。 基本上优先考虑最重要的价值杠杆：1. 营销 2. 产品 3. 策略 然后花费：- 4 天时间在您的最高优先级上- 2 天时间在您的第二优先级上- 1 天时间在您的第三优先级上 这样，您每周都不会忽略任何事情，并且您会有 4 天的时间专注于您的最高优先级。  如果您喜欢休息一天，请尝试 3-2-1。    提交人    /u/zalkazemi   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g4o7hj/1_focus_100_results/</guid>
-      <pubDate>Wed, 16 Oct 2024 01:42:00 GMT</pubDate>
-    </item>
-    <item>
       <title>我创建了一个工具，可以在几秒钟内创建你的个人网站</title>
       <link>https://www.reddit.com/r/SideProject/comments/1g4o0rt/i_created_a_tool_that_creates_your_personal/</link>
       <description><![CDATA[如果您想轻松地在互联网上介绍自己，个人网站非常适合您。  我建立了一个免费平台，只需几秒钟即可构建引人入胜的个人作品集，无需再担心设计、托管、维护等等🎉。 我正在招募早期测试人员，还剩下 19 个位置（您还可以获得独家徽章）。  如果您有 LinkedIn 个人资料并想尝试该工具，请直接发私信给我，我会将链接发送给您     提交人    /u/brokenmyth101   [链接] [评论]]]></description>
@@ -50,65 +106,9 @@
     <item>
       <title>一个免费的网络应用程序，可以实时交互地显示全球不同时区</title>
       <link>https://www.reddit.com/r/SideProject/comments/1g4nxwd/a_free_web_app_to_interactively_visualise/</link>
-      <description><![CDATA[      timezonemap.info    由   提交  /u/OldSurround5823   [链接] [评论] ]]></description>
+      <description><![CDATA[      timezonemap.info 如果您要与全球受众打交道，或者合作者分布在不同时区，或者您只是住在澳大利亚，那么时差对您来说可能很重要。 我制作的这个小网站（实际上是 2 年前）就是关于这个的。我从来没有真正使用过或分享过它，直到最近我经常想知道现在是不是向世界某些特定地区展示我的最新工具 (*) 的广告的好时机。所以，是时候分享它了，希望它也能对这里的一些人有用 :-) 它建立在 3D 网络地图提供商 CesiumJS 之上。它目前非常基础（例如每个时区只有一个点，您需要刷新以更新时间等...）。但根据兴趣和建议，我肯定会考虑改进它。 网站： https://timezonemap.info *另一个工具（因为我在这里）：https://slideask.com（将它添加到您的会议或专业活动的幻灯片中，这样就不会再错过感兴趣但害羞或忙碌的观众的线索或有价值的讨论/联系）。    提交人    /u/OldSurround5823   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1g4nxwd/a_free_web_app_to_interactively_visualise/</guid>
       <pubDate>Wed, 16 Oct 2024 01:28:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>想分享我的兴奋之情<3</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g4n3bi/wanted_to_share_my_excitement_3/</link>
-      <description><![CDATA[      大家好， 去年，我们在 Product Hunt 上的发布很成功，吸引了新客户。然而，今年，我们的新产品发布遇到了挑战，由于他们的系统发生变化，我们在发布当天没有收到任何访客。其他目录的等候名单很长或费用很高，这让我们的日子不好过，尤其是在我们营销预算有限的情况下。 这就是为什么我们决定创建自己的目录 Simple Lister。免费，无需等待！在发布后的 24 小时内，我们获得了 27 名成员，并上传了 15 种产品，其中一些产品上线，而另一些产品则在等待发布日期。我们还获得了超过 500 次浏览量和 200 多名访客。虽然这对某些人来说似乎只是一小步，但对我们来说，这是一个重大胜利。我们没有想到第一天的反响如此热烈，这给了我们巨大的推动力！ ❤️ https://preview.redd.it/oi0ebod6m0vd1.jpg?width=1600&amp;format=pjpg&amp;auto=webp&amp;s=96ecb67c4b9e227adedacabeb6cad3554de1ed31    提交人    /u/han1f1   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g4n3bi/wanted_to_share_my_excitement_3/</guid>
-      <pubDate>Wed, 16 Oct 2024 00:44:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>Qryptian：开源 Chrome 扩展程序，可在您与 Chat-GPT、Claude 等应用交互时删除敏感数据</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g4mvhe/qryptian_opensource_chrome_extension_that_redacts/</link>
-      <description><![CDATA[https://github.com/vaibs-d/qryptian 一个简单的 chrome 扩展，当您在在线聊天界面上与 LLM 交互时，它会删除敏感数据。如果您觉得这很有趣，请随时查看并做出贡献！🙂    提交人    /u/Imaginary-Spaces   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g4mvhe/qryptian_opensource_chrome_extension_that_redacts/</guid>
-      <pubDate>Wed, 16 Oct 2024 00:33:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>Qryptian：开源 Chrome 扩展程序，可在您与 Chat-GPT、Claude 等应用交互时删除敏感数据</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g4mll6/qryptian_opensource_chrome_extension_that_redacts/</link>
-      <description><![CDATA[https://github.com/vaibs-d/qryptian 一个简单的 chrome 扩展，当您在在线聊天界面上与 LLM 交互时，它会删除敏感数据。如果您觉得这很有趣，请随时查看并做出贡献！🙂    提交人    /u/Imaginary-Spaces   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g4mll6/qryptian_opensource_chrome_extension_that_redacts/</guid>
-      <pubDate>Wed, 16 Oct 2024 00:20:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了 Anki-X GPT（10,000+ 次对话、400+ 条评论、4.1 颗星）</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g4mghj/i_made_ankix_gpt_10000_conversations_400_reviews/</link>
-      <description><![CDATA[        提交人    /u/__01000010   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g4mghj/i_made_ankix_gpt_10000_conversations_400_reviews/</guid>
-      <pubDate>Wed, 16 Oct 2024 00:13:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了我的第一个视频游戏！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g4li2t/i_made_my_first_video_game/</link>
-      <description><![CDATA[我一生都在告诉自己“制作视频游戏可能真的很难”、“我很想制作视频游戏但不知道从哪里开始”、“我根本没有时间去尝试，更不用说腾出时间了”。事实证明，最好的开始方式就是...开始！所以我启动了 Game Maker，学习了如何重新创建 Asteroids 的教程，并发现自己在创作过程中不断地说“嘿，但是如果-” 这是最终结果：我制作的 Asteroids 克隆版，具有许多额外功能。我添加了三种类型的飞船，你只需按下按钮就可以在飞船之间切换，从而改变飞船的统计数据、特殊装备和冲锋射击。我还添加了许多不同类型的敌人（包括一个错综复杂的最终 Boss，这是对我编程技能的最大考验），每轮结束时都有一个小游戏，甚至还有一个详尽的秘籍列表，供那些知道在哪里可以找到的人使用。 这只是一个快速的小型街机游戏，但我能够在大约 3 周内完成它。所以如果有人和我一样，可以考虑尝试一下。你可能会对自己能够完成的事情感到惊讶！    提交人    /u/TheBeeFromNature   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g4li2t/i_made_my_first_video_game/</guid>
-      <pubDate>Tue, 15 Oct 2024 23:26:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了我的第一本关于有机社交媒体营销的电子书，并且刚刚将其列在 AppSumo Today 上。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g4lhnl/i_created_my_first_ebook_on_organic_social_media/</link>
-      <description><![CDATA[大家好 - 我是 Jay。一家精品代理机构的高级产品设计师。 我一直在做一个业余项目，很高兴与大家分享 - 它叫做 The Growth Checklist。 我为什么要创建它？ 今年年初，我开始构建一个纹身市场 SaaS，以及临时纹身网站以及我主要工作的业余项目。您可以在这里查看。 过去几个月，我一直在试图找出营销产品的最佳方式（首先），而不是制造产品（现在正在生产中）。现在，我的品牌 Pinterest 每月浏览量超过 300 万次，网站通过 Google 搜索产生约 40 - 50k 次展示，并且仍在增长（见图片）。  这段旅程很艰难，但后来我意识到，将我的经验分享在一本我今天刚刚在 AppSumo 上注册的小电子书中（待批准）是值得的。  寻求反馈？ 如果您对着陆页有任何反馈，我将非常乐意。信息看起来有吸引力吗？您可能会做哪些更改？  适合谁？ 任何拥有 SaaS、代理、电子商务或基于服务的业务，并希望在每月 1,000 - 10,000 名访问者范围内实现增长黑客策略多样化的人。我讨论了我的营销经验：  Pinterest Linkedin Reddit Medium / Quora Youtube。  在这里查看电子书LP。 感谢您让我分享！    提交人    /u/FewWillingness1081   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g4lhnl/i_created_my_first_ebook_on_organic_social_media/</guid>
-      <pubDate>Tue, 15 Oct 2024 23:25:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>Journer - 我为非日记本作者创建了一个日记本，我们在 Kickstarter 上不到 7 小时内就获得了 110% 的资助！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g4kvhu/journer_i_created_a_journal_for_nonjournalers/</link>
-      <description><![CDATA[        提交人    /u/Wonderful_Bar_7039   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g4kvhu/journer_i_created_a_journal_for_nonjournalers/</guid>
-      <pubDate>Tue, 15 Oct 2024 22:56:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>Engy 是一款基于 LLM 的工具，用于生成带后端的 Web 应用程序，以便快速进行原型设计和迭代</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g4keyp/engy_an_llmpowered_tool_to_generate_webapp_w/</link>
-      <description><![CDATA[我们创建了这个小工具来引导我们的想法。它生成前端和后端，同时还支持迭代添加新功能/修复错误。我们已经尝试了不少用例，发现它可以节省我们制作原型的时间。请随意尝试并告诉我们您的想法，谢谢！ Github 链接：https://github.com/renning22/engy PyPI 链接：https://pypi.org/project/engy/    提交人    /u/mincomp1   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g4keyp/engy_an_llmpowered_tool_to_generate_webapp_w/</guid>
-      <pubDate>Tue, 15 Oct 2024 22:34:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
