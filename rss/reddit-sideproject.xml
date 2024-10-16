@@ -4,111 +4,111 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Wed, 16 Oct 2024 18:20:08 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Oct 2024 21:14:31 GMT</lastBuildDate>
     <item>
-      <title>我创建了 Linklee.in - 一个具有内置 URL 缩短器的 Linktree 替代品。期待反馈！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g5646g/i_built_linkleein_a_linktree_alternative_with/</link>
-      <description><![CDATA[我一直在从事一个名为 Linklee.in 的副项目，我很想听听你对它的看法。 什么是 Linklee.in？它就像 Linktree，但拥有超能力！您可以创建多个链接树，每个链接树都有自己的子域，并且它具有内置的 URL 缩短器。 主要特点：  创建多棵树（例如，yourname.linklee.in，yourproject.linklee.in） 内置 URL 缩短器（例如，yourname.linklee.in/gh → 您的 GitHub） Google 登录可轻松创建帐户 简单的仪表板来管理您的所有树和链接  我为什么构建它：我想要一个将 Linktree 的简单性与自定义子域和 URL 缩短的灵活性相结合的工具。找不到，所以我做了一个！ 我需要你的帮助！  尝试一下（最好在 PC/笔记本电脑上获得最佳体验）：https://linklee.in 分享你最诚实的反馈。什么有效？什么无效？你会添加哪些功能？ 有什么我可能没有想到的改进或用例的想法吗？  注意：它还不是开源的，但我根据兴趣和反馈考虑它。 提前谢谢，我期待你的想法！🚀 附言：如果您遇到任何问题或有疑问，请在评论中提出。我会积极监控和回应！   由    /u/Agatsuma_Zenitsu_21  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g5646g/i_built_linkleein_a_linktree_alternative_with/</guid>
-      <pubDate>Wed, 16 Oct 2024 18:15:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>帮助进行重要的女性研究！（付费）</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g55kdv/help_with_important_womens_research_paid/</link>
-      <description><![CDATA[  由    /u/HAPPY_lab  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g55kdv/help_with_important_womens_research_paid/</guid>
-      <pubDate>Wed, 16 Oct 2024 17:52:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们创建了一个 Framer 插件来生成精美的照片</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g55c0l/we_created_a_framer_plugin_to_generate_beautiful/</link>
-      <description><![CDATA[我最近发现了 Framer.com，我对它爱不释手。以前我的开发人员需要数周时间才能完成网站更新。后来我偶然发现了 Framer，它改变了我疯狂的产品创意，让我能够以前所未有的速度发布产品。我在一个周末内就发布了包含多个页面的整个网站。 但有一件事让我很恼火，那就是为我的所有博客文章和产品页面寻找合适的库存照片。所以我们开发了一个 Framer 插件，并将其提交到 Marketplace。 https://photobase.getbase.ai/ 但问题是，当我提交时，我意识到他们至少需要 21 天的审核时间！我已经接触应用商店审核流程多年了，从未见过这么长的等待时间。所以现在我们只需要坐下来，尽量不要对可能永远不会被批准的产品进行迭代。 所以我们必须将所有&quot;安装插件&quot;的号召性用语改为&quot;加入等候名单&quot;，并希望到 Framer 批准该插件时，我们会有一个有兴趣使用它的人的健康名单！ 有没有其他人向新的 Framer 市场提交过插件？    提交人    /u/jmar31   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g55c0l/we_created_a_framer_plugin_to_generate_beautiful/</guid>
-      <pubDate>Wed, 16 Oct 2024 17:43:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们刚刚完成了精子捐赠应用程序。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g556hx/we_just_finished_our_app_for_sperm_donation/</link>
-      <description><![CDATA[最初只是两个学生之间的业余项目，但未来可能会发展成更大的项目。我们开发了一个网站和应用程序，用于无管制的精子捐赠，为传统精子库和政府管制流程提供替代方案。这是一种有趣且创新的方法，但我们并不指望它能让任何人致富。目前，我们的重点是改进服务，所有服务都是完全免费的。我们很高兴看到这一旅程将带我们走向何方！ 哦，如果你想成为一名精子捐献者，你可以从今天开始。 ：D 除此之外，我们非常感谢您的反馈。 Apple Android 网站    提交人    /u/RattleStork   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g556hx/we_just_finished_our_app_for_sperm_donation/</guid>
-      <pubDate>Wed, 16 Oct 2024 17:36:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻求有关 BreedSnap 的反馈 - 您的 AI 辅助犬类伴侣！🐶✨</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g5560v/seeking_feedback_on_breedsnap_your_aiassisted/</link>
-      <description><![CDATA[大家好！ 我很高兴与大家分享我为 iOS 设备开发的新应用 BreedSnap - Pet AI，它是专为狗爱好者设计的！这款应用提供了一种与来自世界各地的狗互动的愉快方式。以下是您可以期待的： 🌟 主要功能：  宠物 AI 聊天：与我们的 AI 助手互动，讨论与狗相关的问题、护理技巧等！ 每日狗狗事实：从了解有关不同品种和犬类健康的迷人事实开始您的一天。 获取随机图像：只需轻轻一点，即可浏览可爱的高质量狗狗图像。 按品种选择：轻松搜索并从全面的狗狗品种列表中选择。 保存您的收藏夹：创建您最喜欢的狗狗图像集。 优雅而用户友好的 UI：享受简约设计的无缝体验。 保护隐私：没有侵入性权限 - 只有纯粹的犬类快乐！  💬 您的反馈很重要！我希望您下载该应用程序并分享您的想法。你喜欢什么？什么可以改进？您的见解对于帮助我为所有人改进应用程序非常宝贵！ 🔗 在此处下载 BreedSnap 感谢您的支持，我迫不及待地想听到您的想法！    提交人    /u/Substantial-Gur-2821   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g5560v/seeking_feedback_on_breedsnap_your_aiassisted/</guid>
-      <pubDate>Wed, 16 Oct 2024 17:35:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们正在制作 HTML/CSS 游乐场 - 这是第一眼</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g54q62/were_making_an_htmlcss_playground_heres_a_first/</link>
-      <description><![CDATA[      https://preview.redd.it/8voh7mf0j5vd1.png?width=1920&amp;format=png&amp;auto=webp&amp;s=5db2c885c9e5298d1ce0b8940cb91577c16e75e2 大家好，来自印度的 Namaste 🙏， 这是 HTML 和 CSS Playground/Canvas 的第一眼（https://css-canvas.vercel.app/)，我们正在制作。它允许开发人员对不同的样式和元素进行快速微实验并检查它们的响应能力。 我们很乐意听到您的反馈并与您一起构建此应用程序。此应用程序将永远免费供开发人员使用！ 😀 请随时试用该应用程序，并在 reddit 上向我们发送 DM 或回复此帖子。 再见🫡    提交人    /u/Inside-Stay2539   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g54q62/were_making_an_htmlcss_playground_heres_a_first/</guid>
-      <pubDate>Wed, 16 Oct 2024 17:17:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>两个月前我推出了一个开发博客——以下是我所学到的东西。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g54fqp/i_launched_a_dev_blog_two_months_ago_heres_what/</link>
-      <description><![CDATA[嘿，开发人员，分享我两个月前为开发人员推出博客的历程，我学到了很多东西。  技术堆栈 Next.js、Tailwind CSS、Prisma+Neon、Clerk Auth、Framer Motion、Heroicons、Radix UI 性能指标（过去 57 天）  4.85k 次浏览 2.54k 次访问 2.17k 个独立访客 79% 跳出率 平均访问时长 1 分 20 秒  主要功能  MDX 支持：因为谁不喜欢用 Markdown 写作呢。 速度超快：99/100 性能得分（最大内容绘制：0.9 秒） SEO 优化：100/100 SEO 得分 可访问性：92/100 可访问性得分  我学到了什么  性能为王：优化速度会带来回报。 内容为王：定期发布高质量的帖子可以吸引人们回访。 正确的工具会带来不同。  我很乐意听到您的建设性反馈/想法（我应该改进的地方）或回答您可能遇到的任何问题。请查看（https://www.devtoolsacademy.com/） 当前 DR 已达到 - 10。   提交者    /u/thewritingwallah   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g54fqp/i_launched_a_dev_blog_two_months_ago_heres_what/</guid>
-      <pubDate>Wed, 16 Oct 2024 17:05:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>我开发了一个免费工具，可以轻松地从任何网站提取干净的文本（或 markdown），以便在你最喜欢的 AI（如 ChatGPT）中使用</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g53q5f/i_built_a_free_tool_that_makes_it_easy_to_extract/</link>
-      <description><![CDATA[我希望您查看一下，并告诉我您的反馈：https://urltotext.com/    由   提交  /u/tbramlett   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g53q5f/i_built_a_free_tool_that_makes_it_easy_to_extract/</guid>
-      <pubDate>Wed, 16 Oct 2024 16:35:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>TeOSla：特斯拉车主的人工智能助手。我通过街头营销获得了第一批 25 名用户。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g53hd2/teosla_ai_assistant_for_tesla_owners_i_got_my/</link>
-      <description><![CDATA[作为特斯拉车主，我很讨厌我们没有 CarPlay 或更多应用选项。因此，我开发了一个名为 TeOSla 的小应用，通过将 ChatGPT 连接到短信来解决这个问题： 我现在可以使用我的汽车语音控制说“发送文本到 TeslaBot：{xyz}”来提出问题和请求。ChatGPT 会做出回应，我可以大声读出答案。 我还添加了一些额外的功能，比如高级天气更新，这样我就可以问“明天洛杉矶的天气怎么样？”或“下周的天气预报是什么？”。 现在，我正在完成一项重要的新功能：电子邮件通知。通过链接您的电子邮件和特斯拉帐户，TeOSla 会在收到电子邮件时检测您是否在开车并将其转换为文本通知。简单但有效。 为了获得我的前 25 位用户，我尝试了一种不同的方法 - 我打印了带有二维码的简单名片，每当我看到停着的特斯拉时，我都会在挡风玻璃上留一张。结果证明这非常有效！ 如果您想查看，请访问 https://teosla.com 。它基于使用情况 - 无需每月订阅。 注意：我正在分批添加用户以收集反馈。不过，请随时给我发私信以跳过排队！    提交人    /u/teosla   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g53hd2/teosla_ai_assistant_for_tesla_owners_i_got_my/</guid>
-      <pubDate>Wed, 16 Oct 2024 16:25:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>我开发了一个工具，可以在短短几个小时内启动一家科技初创企业🚀🚀</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g53h9d/i_built_a_tool_to_launch_a_tech_startup_in_just/</link>
-      <description><![CDATA[        由    /u/nifal_adam 提交   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g53h9d/i_built_a_tool_to_launch_a_tech_startup_in_just/</guid>
-      <pubDate>Wed, 16 Oct 2024 16:25:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了 crimeter.org 来帮助用户举报和了解实时犯罪情况。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g53a4x/i_built_crimeterorg_to_help_users_report_and_have/</link>
+      <title>我将设计您的网站、电子邮件、仪表板或登陆页面，价格为 199 美元</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g59rmq/i_will_design_your_website_email_dashboard_or/</link>
       <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g53a4x/i_built_crimeterorg_to_help_users_report_and_have/</guid>
-      <pubDate>Wed, 16 Oct 2024 16:17:52 GMT</pubDate>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g59rmq/i_will_design_your_website_email_dashboard_or/</guid>
+      <pubDate>Wed, 16 Oct 2024 20:50:58 GMT</pubDate>
     </item>
     <item>
-      <title>在有超过 250 名注册用户注册体验不佳后，这里推出了一个全新的注册用户</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g52vtz/after_having_250_signups_with_a_bad_onboarding/</link>
-      <description><![CDATA[    /u/Wwwwwwwwat   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g52vtz/after_having_250_signups_with_a_bad_onboarding/</guid>
-      <pubDate>Wed, 16 Oct 2024 16:01:39 GMT</pubDate>
+      <title>您可以向朋友推荐提供专业服务的网站。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g59q4l/a_site_where_you_can_refer_your_friends_that_do/</link>
+      <description><![CDATA[大家好， 如果可能的话，为了寻求反馈，我创建了 https://www.referohub.com ，这是一个网站，您可以在此将您信任的朋友推荐给寻求专业服务的人，例如园林绿化、绘画等...  您可以让您的朋友从他们从网站获得的每笔销售中给您佣金（因为您推荐了他们），您也可以以折扣的形式与客户分享该佣金，作为对他们的激励。 （例如 15% 的佣金、平台 10% 的折扣、您获得 5% 的佣金）。 您无需执行任何操作，我将致力于 SEO 并尝试提高我的网站排名。 想知道您对此的想法，以及您是否认为这是可行的。 谢谢！    提交人    /u/Fozitto   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g59q4l/a_site_where_you_can_refer_your_friends_that_do/</guid>
+      <pubDate>Wed, 16 Oct 2024 20:49:28 GMT</pubDate>
     </item>
     <item>
-      <title>我开发了一个可以与网站访问者协商价格的人工智能聊天机器人</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g52krb/i_built_an_ai_chatbot_that_negotiates_prices_with/</link>
-      <description><![CDATA[        由    /u/TradeGold6317  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g52krb/i_built_an_ai_chatbot_that_negotiates_prices_with/</guid>
-      <pubDate>Wed, 16 Oct 2024 15:48:56 GMT</pubDate>
+      <title>AI语言练习工具</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g59al6/ai_language_practice_tool/</link>
+      <description><![CDATA[        提交人    /u/neeeelo   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g59al6/ai_language_practice_tool/</guid>
+      <pubDate>Wed, 16 Oct 2024 20:32:08 GMT</pubDate>
     </item>
     <item>
-      <title>我正在出售我的工具，它可以在 5 分钟内将网站转换为 Android 和 iOS 应用程序。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g51zn6/i_am_selling_my_tool_which_converts_websites_into/</link>
-      <description><![CDATA[嗨，我叫 Toshit Garg。 我大约在 2023 年 4 月开始从事 SaaS 产品工作。计划很简单：创建可帮助企业家轻松发展业务的工具。我的第一个工具是“Convertixo”，灵感来自我作为 Fiverr 卖家的工作，我将网站转换为客户的应用程序，每月收入约 1,000 美元。我想，为什么不自动化这个过程呢？ 继 Convertixo 之后，我创建了一些其他工具，例如“Web to PWA”。有一次，我开发了一个名为“AppMintAI”的基于 AI 的工具，一个名为“Engage Enhance”的产品化服务，甚至还有一个 WordPress 插件，可让用户创建实用的 SEO 页面和样板。 不幸的是，这些工具都没有获得显著的吸引力。我会在 Product Hunt 上发布它们，获得一些用户，然后就什么都没有了。除了 Convertixo，我所有的其他工具都只获得了少数免费用户。我相信发生这种情况是因为我对营销不太热衷。所以，我决定转向并专注于内容创作，这才是我真正的热情所在。目前，我正在逐一销售我的所有产品。至于 Convertixo，它现在有 800 名用户、20 美元的 MRR 和 100 多个电子邮件订阅者列表。它也是今年 1 月 Product Hunt 上的第三个每日产品。虽然该产品获得了一些关注，但我意识到我的重点是内容创作。但是，我相信，凭借正确的营销和推动，Convertixo 具有巨大的发展潜力。 如果您有兴趣将 Convertixo 提升到一个新的水平，让我们聊聊吧！ 以下是一些关键统计数据：在过去 20 天里，Convertixo 已从 Google 获得 4.9K 次展示和 338 位访客。 有关产品的更多信息： Convertixo 可以使用自定义 webview 将任何网站转换为 Android 和 iOS 应用。这些应用是在 Android Studio 和 Xcode 中生成的。您将收到 Android 应用的 APK 和源代码，以及 iOS 应用的源代码。 转换后的应用无需维护，它们的更新方式与网站完全相同。一个主要的好处是能够通过 OneSignal 免费添加推送通知，让您免费重新定位您的客户。 如果您有任何疑问，请随时询问！    提交人    /u/Latter-Row-5719   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g51zn6/i_am_selling_my_tool_which_converts_websites_into/</guid>
-      <pubDate>Wed, 16 Oct 2024 15:24:12 GMT</pubDate>
+      <title>LockedIn-每周计数，有目的地生活。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g59520/lockedin_count_every_weeks_live_with_purpose/</link>
+      <description><![CDATA[LockedIn 是一款独特的应用程序，可跟踪您直到 60 岁的时间。它具有倒计时网格、励志名言和时钟，可激励您充分利用每个时刻。 在此处添加任务和目标。专注于您的目标并拥抱未来的旅程！    提交人    /u/i_AryanSharma17   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g59520/lockedin_count_every_weeks_live_with_purpose/</guid>
+      <pubDate>Wed, 16 Oct 2024 20:25:36 GMT</pubDate>
     </item>
     <item>
-      <title>对我的副项目（本地约会/友谊应用程序）的反馈</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g51wxi/feedback_for_my_side_project_a_local/</link>
-      <description><![CDATA[嗨，Hustlers， 我住在加拿大安大略省达勒姆，我创建了一款应用程序来结束孤独。我从几个本地 reddit 论坛注意到，人们无法找到约会对象、朋友或活动伙伴。他们也不想走很远去结识新朋友。所以，我借此机会创建了一个登陆页面来评估兴趣。在我开始向当地人推广之前，请提供您的反馈。 达勒姆约会    提交人    /u/DarkKnightTO   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g51wxi/feedback_for_my_side_project_a_local/</guid>
-      <pubDate>Wed, 16 Oct 2024 15:21:08 GMT</pubDate>
+      <title>我是一个精明的苏格兰人🤣</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g58trz/im_a_savvy_scottish_man/</link>
+      <description><![CDATA[      一些很棒的新闻用于我的小项目😊    由   提交  /u/paulOr   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g58trz/im_a_savvy_scottish_man/</guid>
+      <pubDate>Wed, 16 Oct 2024 20:12:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个免费工具来帮助从图像中提取任何文本。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g58tn2/i_made_a_free_tool_to_help_extract_any_text_from/</link>
+      <description><![CDATA[你好， 我制作了一个免费工具来帮助从图像中提取任何文本。很想知道您的想法！ https://www.imgtoprompts.com/tools/pic-text-extract    提交人    /u/ProfessionalSet755   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g58tn2/i_made_a_free_tool_to_help_extract_any_text_from/</guid>
+      <pubDate>Wed, 16 Oct 2024 20:12:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>我看到 OF 女孩和骗子买了他们的第三栋豪宅，而我却试图靠一份朝九晚五的工作生存，把我的灵魂投入到建造一些没人关心的东西上</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g58roe/me_seeing_of_girls_and_scammers_buy_their_3rd/</link>
+      <description><![CDATA[    /u/whuncturedsuts   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g58roe/me_seeing_of_girls_and_scammers_buy_their_3rd/</guid>
+      <pubDate>Wed, 16 Oct 2024 20:09:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用“Lead Lizard”在 Reddit 上找到数千条线索——想法？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g58jek/find_thousands_of_leads_on_reddit_with_lead/</link>
+      <description><![CDATA[      大家好， 在开展主要业务的同时，我和我的联合创始人创建了一个工具来挖掘 Reddit 的力量。 借助此工具，我们已经获得了数十条线索（目前这是我们最主要的获取渠道） 它的工作原理如下：  我们定义一个与我们的业务相关的主题列表。然后，我们的机器人会监听任何提及该主题的 Reddit 帖子。 一旦有人发布有关该主题的帖子，它就会进入专门针对这些主题的 Telegram 频道。 然后，我们可以点击帖子链接，立即与帖子互动和/或向用户发送 DM。  我知道已经有许多其他工具在做同样的事情了。但是，我们发现了几个主要问题： a.我们不想再下载另一个应用程序/工具。我们希望它能在我们所在的地方 (Telegram/Slack/Discord) 与我们见面。 b. 我们不想主动出击，我们希望警报自动发送给我们。 c. 在我看来，很多这些应用程序在定价上都非常贪婪 (*咳嗽* G.S. *咳嗽*)。我们希望能够使用免费套餐并首先真正体验其价值。 无论如何，这对我们来说现在是一个附带项目，但我们决定，如果我们获得 100 个注册，我们将公开发布它。 让我们知道您的想法和/或在下面注册： https://www.leadlizard.app/ https://preview.redd.it/09nbr5vg96vd1.png?width=1890&amp;format=png&amp;auto=webp&amp;s=778a4e4da745087479ea03bbfcdf3a54f841c8dc    提交人    /u/Psychological_Ad8678   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g58jek/find_thousands_of_leads_on_reddit_with_lead/</guid>
+      <pubDate>Wed, 16 Oct 2024 19:59:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>您希望 AI 自我开发应用具备什么功能？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g58hqk/what_would_you_want_in_an_ai_selfdevelopment_app/</link>
+      <description><![CDATA[大家好， 我一直在思考人工智能如何帮助我们提高自我，我很想听听你们的意见。如果有一款人工智能驱动的自我发展应用，你希望它具备哪些功能或工具？ 它是否有助于跟踪目标、提供个性化建议、保持动力，或者可能具有完全不同的东西？我很想听听你的想法，以及你认为什么可以真正帮助人们保持正轨并成长。 感谢分享您的想法！:)    提交人    /u/GarlicFit   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g58hqk/what_would_you_want_in_an_ai_selfdevelopment_app/</guid>
+      <pubDate>Wed, 16 Oct 2024 19:57:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>您是否愿意向 100 名早期用户提供折扣终身优惠以换取反馈？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g5887g/would_you_be_open_to_offering_a_discounted/</link>
+      <description><![CDATA[大家好，我想问一下那些正在从事软件项目（尚未发布）的人。 如果您可以让几个早期用户对您的产品感兴趣，他们不仅测试您的产品并为您提供宝贵的反馈，而且还愿意为终身折扣交易付费，那会怎样？您会获得早期见解、初始用户群，甚至赚到一些钱，而无需任何前期成本。 我正在开发一个名为 Discovly.com 的平台，该平台可帮助创作者与早期用户建立联系，以便在发布之前验证和改进产品。想知道您是否会考虑将其用于您的项目？ 很想听听您的想法！    提交人    /u/FrontAlive2436   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g5887g/would_you_be_open_to_offering_a_discounted/</guid>
+      <pubDate>Wed, 16 Oct 2024 19:46:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了一个最愚蠢的启动目录，没人需要</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g57m3k/ive_created_the_dumbest_startup_directory_nobody/</link>
+      <description><![CDATA[想浪费你辛苦赚来的钱去在一个没人访问的网站上找个位置吗？ 这个概念很简单 - 网格上有 9 个空间。付费在其中一个空间上做广告。你每支付一美元，该空间就会被锁定 5 分钟。时间到了，有人可以出价高于你来抢占你的空间。 我知道这有多蠢，你不需要告诉我。    提交人    /u/exophoria   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g57m3k/ive_created_the_dumbest_startup_directory_nobody/</guid>
+      <pubDate>Wed, 16 Oct 2024 19:19:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找适合您的产品</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g57a6x/finding_the_right_product_for_you/</link>
+      <description><![CDATA[开始一个副业时，选择正确的产品至关重要。这不仅关乎什么看起来流行，还关乎找到符合你的长期目标和目标市场的东西。提前做研究可以节省时间和避免后续的麻烦。在承诺之前，先看看竞争、需求和潜在利润率。总是值得付出额外的努力来确保你的项目具有持久力。    提交人    /u/PickleIntrepid1106   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g57a6x/finding_the_right_product_for_you/</guid>
+      <pubDate>Wed, 16 Oct 2024 19:04:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>有市场吗？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g574te/is_there_a_market_for_this/</link>
+      <description><![CDATA[我和我的朋友正在讨论创业的潜在想法，并谈到了这个话题。他是一位经验丰富的程序员，所以将地图放入虚拟现实中不是问题，但我们只是想知道这是否有市场。我们都相信有，但这似乎是提出问题的最佳地点。这可能是一个虚拟现实应用程序，或者只是大城市/城镇的一种体验。像霍格沃茨或星球大战这样很酷的想法，虽然各自的公司拥有地图的版权，但我们想知道这些想法是否可以解决或被公司使用。这将是一种自由漫游的体验，你可以看到你一直观看的这个世界几乎变成了现实。此外，我们还想到了一种软件，它有点像现实生活中的虚拟现实，即你可以前往世界奇观，并据此决定是否希望在那里度假，或者游览你计划去的地方，这样你到达那里后就会很熟悉。这一切都很随意，但我们相信它有很大的潜力。任何想法或帮助都将不胜感激！    提交人    /u/GateStatus9   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g574te/is_there_a_market_for_this/</guid>
+      <pubDate>Wed, 16 Oct 2024 18:58:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个社区优先的 Pinterest 替代品，它没有广告、允许 NSFW、不鼓励 AI 内容，还具有大量其他功能。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g573uw/i_made_a_communityfirst_pinterest_alternative/</link>
+      <description><![CDATA[      你好！ 我是杰克逊。我是一名艺术家和程序员。 我对 Pinterest 最近的状况感到非常沮丧（大量广告、随机删除图钉、延迟、缺少我想要的功能），而且市场上没有任何东西能满足我想要的需求，所以我决定制作 refern - 一个社区优先、为创意人士打造的无广告 Pinterest 替代品。 使用 refern，您可以  使用浏览器扩展程序将网络上的图像保存到您的收藏夹中。您可以在保存时为图像添加标签。 管理文件夹和收藏夹中的所有参考图像 使用库中的图像创建无限画布情绪板 为所有内容（图像、文件夹、收藏夹、情绪板）添加标签和额外属性，并使用文本或颜色立即搜索它们。 浏览页面以查找和保存其他用户的收藏夹和参考图像 从任何设备查看您的参考和情绪板并与任何人共享  我不喜欢广告，所以平台上没有广告。我也不喜欢订阅，所以 refern 通过一次性升级 Pro 计划和一次性购买存储扩展来产生收入。 refern 允许 NSFW，因此您的 refs 不会被随机删除。但所有图像都会被扫描以查看它是否是 NSFW，如果超过某个阈值，缩略图将会变得模糊。您可以在设置中为自己禁用此模糊功能。 作为一名艺术家，我不喜欢 AI 生成的内容，这对艺术参考尤其不利，但 AI 内容的出现是不可避免的。为了打击 AI 内容，社区可以将所有图像标记为 AI 生成。如果它超过某个阈值，除了上传者之外的任何人都无法发现它。 我相信社区是平台蓬勃发展和产品改进的因素，因此我始终愿意听取反馈。我很乐意得到您的帮助，为所有创意人员创建更好的灵感/参考平台！ 请随时在此处尝试https://www.refern.app/或随时发表评论让我知道您的想法！ 如果您好奇，我的艺术帐户https://www.instagram.com/jaks024 探索页面 带属性编辑器的图像收集页面 无限画布情绪板 搜索页面    由   提交  /u/jaks024   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g573uw/i_made_a_communityfirst_pinterest_alternative/</guid>
+      <pubDate>Wed, 16 Oct 2024 18:57:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>我在与微软和谷歌的技术高管共事中学到了什么。（他们是如何做到的。）</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g56z1q/what_i_learned_working_with_tech_executives_from/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g56z1q/what_i_learned_working_with_tech_executives_from/</guid>
+      <pubDate>Wed, 16 Oct 2024 18:52:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
