@@ -4,111 +4,111 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Wed, 16 Oct 2024 09:16:44 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Oct 2024 12:31:01 GMT</lastBuildDate>
     <item>
-      <title>我正在寻求对我新发布的应用的反馈</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g4unkb/im_looking_for_feedback_for_my_newly_published_app/</link>
-      <description><![CDATA[您好，我们很高兴与您分享我们在金融技术领域新开发的应用程序。我们希望您从 App Store 下载并试用，并与我们分享您的反馈。您的宝贵意见将帮助我们进一步改进应用程序。提前谢谢您！ https://apps.apple.com/tr/app/financy-para-y%C3%B6netimi/id6511193213?l=tr    提交人    /u/TemperatureTotal646   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g4unkb/im_looking_for_feedback_for_my_newly_published_app/</guid>
-      <pubDate>Wed, 16 Oct 2024 08:38:30 GMT</pubDate>
+      <title>有人入侵了我的开放人工智能 API。损失 200 美元（帮助）</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g4y6ql/someone_hacked_my_open_ai_api_loose_200_help/</link>
+      <description><![CDATA[嘿，一年前我为一个小项目创建了我的 open ai API 帐户。我一直非常小心地使用密钥。 但是几天前，我收到了三笔 10 美元的费用。我检查了一下，帐户中的所有内容都已更改，也没有显示我的付款方式。我想他将我从组织中移走了。 因此，我从所有设备注销，更改密码，添加了两种身份验证方法。甚至我阻止了我的付款方式。 但是，他们仍在使用它们，并且 open ai 仍在向我收费。 最大的问题是，我需要为一个项目使用 open ai api。但我没有，因为我不想让事情变得更糟。 我想过使用其他帐户。但现在我不知道如何保存，以为我不知道从哪里开始。 我需要你的帮助。我能做什么？我联系了 open ai 支持，但他们还没有回复。- 我 5 年前和他们聊过。    提交人    /u/Friendly_writer44   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g4y6ql/someone_hacked_my_open_ai_api_loose_200_help/</guid>
+      <pubDate>Wed, 16 Oct 2024 12:29:30 GMT</pubDate>
     </item>
     <item>
-      <title>我制作了一个工具来获取啤酒配方灵感</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g4ulux/i_made_a_tool_to_get_beer_recipe_inspiration/</link>
-      <description><![CDATA[基本上，我想用 Go 和 ChatGPT 尝试一些东西，所以我制作了这个工具，它可以根据一些输入为家庭酿酒师生成啤酒配方。 一直在寻找关于功能、设计、用户体验等任何方面的反馈和建议。请随意尝试一下，让我知道你的想法。    提交人    /u/spersson88   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g4ulux/i_made_a_tool_to_get_beer_recipe_inspiration/</guid>
-      <pubDate>Wed, 16 Oct 2024 08:34:41 GMT</pubDate>
+      <title>这个技术栈帮助我在 4 天内发布了一款 SaaS</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g4xwqc/this_tech_stack_helped_me_to_release_a_saas/</link>
+      <description><![CDATA[我很想说它花了 24 小时或 48 小时（一个不错的整数），但实际上如果我们全职完成它，大约花了 4 天时间。我是在我正常工作之后（或之前）构建它的。 以下是帮助我快速完成它很多的堆栈：  Next.js TailwindCSS shadcn ui Magic UI（基于 shadcn ui 构建的 UI 库） Cursor  我使用 Cursor 的编辑器（Ctrl+Shift+I）来引导所有应用程序屏幕和组件。底层的 LLM 是 claude-3.5-sonnet（默认的），不知何故它在 TailwindCSS 上表现非常好，以及我从光标目录中获取的 .cursorrules 文件。 另一个有用的功能是标记文档。您输入“@”，选择 Docs，然后可以输入 Cursor 不知道的任何文档的 URL - 它在这里帮助我使用 shadcn 以及其他项目（例如 Telegram 应用程序）。 shadcn 本身是一个很棒且经过深思熟虑的组件库，我敢打赌很多人都在使用它，我看不出有什么理由不使用它。您以后可以为其创建一个主题，使您的应用程序独一无二。 该应用程序本身是一项推荐服务 - 它允许您在网站上添加评论以增加您的社交证明。我甚至添加了从 X 自动获取帖子和回复的功能，因此您不必手动输入它们。我唯一没有完成的是结帐，所以现在完全免费了😆（我正在等待 Paddle 验证）。我计划添加几个很酷的评论小部件（marquee、bento、滑块等）。 我仍然对现在借助 AI 辅助编码创建 MVP 的速度感到惊讶！而且我一定会在今后的工作中继续使用它。    提交人    /u/metenev   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g4xwqc/this_tech_stack_helped_me_to_release_a_saas/</guid>
+      <pubDate>Wed, 16 Oct 2024 12:14:23 GMT</pubDate>
     </item>
     <item>
-      <title>我创建了 PeerSplit – 一个免费的、注重隐私的 P2P 替代品，可以替代 Splitwise（团体费用分摊应用）</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g4ul0t/i_built_peersplit_a_free_privacyfocused_p2p/</link>
-      <description><![CDATA[      大家好！ 👋 我是 Tanay，我刚刚完成了一个一直在做的副业项目 — PeerSplit (https://peersplit.app)。它是 Splitwise 的免费、隐私优先替代方案，用于分摊团体费用。无需注册、无广告、无订阅。只需直接进行点对点费用跟踪。 😎  免费，无需注册 – 无需个人数据，无隐藏费用。 P2P 同步 – 您的数据直接在设备之间共享 - 没有服务器存储任何内容。 本地优先 – 完全离线功能。 跨平台 – 可在移动设备、桌面或任何您喜欢的设备上流畅运行。 最小的用户体验，加上暗模式。  技术栈：  使用 Nuxt + Nuxt UI 构建。 渐进式 Web 应用程序 (PWA)，因此您可以将其安装在您的设备上。  我希望您检查一下，我非常欢迎反馈或功能想法。请随意发表评论，或者在 Twitter/X 或 GitHub 上联系我！ https://preview.redd.it/855a5rupx2vd1.png?width=1080&amp;format=png&amp;auto=webp&amp;s=2878e3f288e71816ceff3ad9049e1957bd0d5235    提交人    /u/tanayvk   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g4ul0t/i_built_peersplit_a_free_privacyfocused_p2p/</guid>
-      <pubDate>Wed, 16 Oct 2024 08:32:56 GMT</pubDate>
+      <title>SubsManager：一个在线订阅管理网站。（评论中有说明）</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g4xunv/subsmanager_an_online_subscription_management/</link>
+      <description><![CDATA[        由    /u/BLACKz_  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g4xunv/subsmanager_an_online_subscription_management/</guid>
+      <pubDate>Wed, 16 Oct 2024 12:11:17 GMT</pubDate>
     </item>
     <item>
-      <title>LF 对个人简介/社交登陆页面服务的反馈 (allmysocials.online/your-nickname)</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g4ujdu/lf_feedback_for_a_bio_social_landing_page_service/</link>
-      <description><![CDATA[大家好， 几年前我偶然发现了这个域名 (allmysocials.online)，但并没有真正用它做什么，但我答应自己现在要把它变成一个副项目。 简而言之，AllMySocialsOnline 是一个简单的登陆页面服务，类似于 LinkTree 和 Beacons，但采用了一种全新的、以搜索引擎优化为主导的方法（我是一名营销技术专家，网页开发人员）。 它目前处于“封闭 Alpha”阶段，但我正试图获得尽可能多的宝贵反馈，所以我想知道这里是否有人愿意尝试并提供反馈？ 作为诱饵，我决定，任何在封闭 Alpha 期间注册的人，都将获得其社交页面终身访问所有/任何高级功能的权限（我还没有真正弄清楚这项服务是否应该完全免费，或者是否应该有某些高级功能，因为有些东西可能会如果您想要尝试一下，这里是注册链接： https://www.allmysocials.online/signup/?password=redditsideproject 但是，如果您想尝试一下，请分享您的反馈！在这里，或者对我来说更好的是，在 Discord 服务器中。 我正在寻找有价值的反馈而不是用户，我想了解是否值得继续致力于此 :) 谢谢！    提交人    /u/corgrath   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g4ujdu/lf_feedback_for_a_bio_social_landing_page_service/</guid>
-      <pubDate>Wed, 16 Oct 2024 08:29:34 GMT</pubDate>
+      <title>我的副业项目刚刚迎来两周年纪念日，我想为所有人免费提供我们的专业（升级）计划 1 个月的使用期限。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g4xs4h/my_side_project_just_crossed_its_2_year/</link>
+      <description><![CDATA[大家好！ 我的剪贴板应用程序 OneTap 最近在 App Store 上线两周年了，为了纪念这一点，我想给任何有兴趣试用该应用程序的人 1 个月的免费时间来升级他们的帐户。 OneTaps 可在 iPhone / iPad / Mac / Vision Pro 上使用。 我会提到，在 iPhone / iPad 上，您需要添加并提供对 OneTaps 键盘的完全访问权限，但不用担心，您的隐私是完全安全的。所有内容都本地存储在您的 iCloud 上，我们无法访问任何数据。 您需要做的就是下载应用程序并兑换此代码：1MONTH 您可以下载 OneTap： https://www.threads.net/@wimells/post/DA_l7rKvi6S?xmt=AQGzfHTGa6szUtc_cKgeJbw0LrhdHm7CxdZbGME1FAaTeA 我很乐意听取大家对该产品的反馈，我们即将推出大量新功能很快。 您可以在此处查看我们的网站： www.OneTapApp.co    由   提交  /u/AjPicard913   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g4xs4h/my_side_project_just_crossed_its_2_year/</guid>
+      <pubDate>Wed, 16 Oct 2024 12:07:24 GMT</pubDate>
     </item>
     <item>
-      <title>构建个人 AI 答案引擎 - 获取有关您的个人数据（如 Gmail、照片、财务数据、医疗保健、Dropbox 等）的答案。加入等候名单 https://www.qarkx.com/</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g4ujbq/built_a_personal_ai_answer_engine_get_answers_on/</link>
-      <description><![CDATA[        提交人    /u/thedanglingpointer   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g4ujbq/built_a_personal_ai_answer_engine_get_answers_on/</guid>
-      <pubDate>Wed, 16 Oct 2024 08:29:26 GMT</pubDate>
+      <title>我制作了一个可以自动填充 Stripe 测试付款数据的扩展</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g4xbgj/i_made_an_extension_which_autofill_stripes_test/</link>
+      <description><![CDATA[输入 4242 4242 4242 4242 很累 我也是，所以我自己做了一个可以自动填充条纹测试付款数据的扩展  https://testfill.com/ 你可以在 -&gt;&gt; https://x.com/jaypatel1_ 找到我    提交人    /u/Substantial_Tell_555   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g4xbgj/i_made_an_extension_which_autofill_stripes_test/</guid>
+      <pubDate>Wed, 16 Oct 2024 11:41:55 GMT</pubDate>
     </item>
     <item>
-      <title>Voice-Pro：用于转录、翻译和文本转语音的最佳 gradio web-ui</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g4ujac/voicepro_the_best_gradio_webui_for_transcription/</link>
-      <description><![CDATA[        由    /u/AdMindless4560   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g4ujac/voicepro_the_best_gradio_webui_for_transcription/</guid>
-      <pubDate>Wed, 16 Oct 2024 08:29:21 GMT</pubDate>
+      <title>我一直想在 Netflix 上添加评论，所以我构建了一个扩展来实现这一点</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g4wmoo/i_always_wanted_to_add_the_comments_on_netflix_so/</link>
+      <description><![CDATA[      我已经构建了Chrome 扩展程序 可让您在 Netflix 视频上添加评论（实时），我不知道任何人，但我花在阅读 youtube 视频评论上的时间比阅读其他视频的时间多，所以我想为什么我们不能在 Netflix 上拥有它，所以我检查了 chrome 扩展程序商店，找到了一些“允许您添加评论”的扩展程序，但没有一个起作用，或者至少不是我想要的方式。所以我上周用 cloudflare 工作者构建了这个 chrome 扩展程序，这样您就可以在您的流中添加评论。 我用 web-socket 制作了这个，这样您就可以互相聊天，对其他评论做出反应。我想让它更有趣和用户友好，所以欢迎提出建议。你们可以测试一下，然后告诉我，它对你们来说是如何工作的。谢谢 https://preview.redd.it/hfddediyn3vd1.png?width=1354&amp;format=png&amp;auto=webp&amp;s=e9e958ba652865cadfca85dc251a5b83fc681c3d    提交人    /u/Puzzleheaded_Elk3636   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g4wmoo/i_always_wanted_to_add_the_comments_on_netflix_so/</guid>
+      <pubDate>Wed, 16 Oct 2024 10:59:55 GMT</pubDate>
     </item>
     <item>
-      <title>Voice-Pro：用于转录、翻译和文本转语音的最佳 gradio web-ui</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g4uixe/voicepro_the_best_gradio_webui_for_transcription/</link>
-      <description><![CDATA[      Voice-Pro 是用于转录、翻译和文本转语音的最佳 gradio web-ui。 只需单击即可轻松安装。使用 Miniconda 创建虚拟环境，完全独立于 Windows 系统运行（完全可移植）。支持实时转录和翻译，以及批处理模式。  YouTube 下载器：您可以下载 YouTube 视频并提取音频（mp3、wav、flac）。 人声消除器：使用 UVR5 中支持的 MDX-Net 和 Meta 开发的 Demucs 引擎进行语音分离。 STT：支持使用 Whisper、Faster-Whisper 和 whisper-timestamped 进行语音到文本的转换。 翻译：谷歌翻译。 TTS：文本到语音。 Edge TTS。 更多...  🚄 运行屏幕 https://reddit.com/link/1g4uixe/video/wg9ds0wrw2vd1/player github 存储库 - https://github.com/abus-aikorea/voice-pro    提交人    /u/AdMindless4560   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g4uixe/voicepro_the_best_gradio_webui_for_transcription/</guid>
-      <pubDate>Wed, 16 Oct 2024 08:28:32 GMT</pubDate>
+      <title>[反馈请求] 帮助我改进我的应用程序“Less is More”——人工智能驱动的任务管理！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g4wlfy/feedback_request_help_me_improve_my_app_less_is/</link>
+      <description><![CDATA[       由    /u/mo-socks  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g4wlfy/feedback_request_help_me_improve_my_app_less_is/</guid>
+      <pubDate>Wed, 16 Oct 2024 10:57:35 GMT</pubDate>
     </item>
     <item>
-      <title>类似 Lensa 的 AI 头像，使用你自己的照片进行训练</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g4uhsr/ai_avatars_trained_with_your_own_pictures_similar/</link>
-      <description><![CDATA[它非常基础，如果您喜欢它，请告诉我，我将改进 UI/UX 并添加更多功能！ https://superclone.app    由   提交  /u/foolbars   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g4uhsr/ai_avatars_trained_with_your_own_pictures_similar/</guid>
-      <pubDate>Wed, 16 Oct 2024 08:25:54 GMT</pubDate>
+      <title>需要紧急帮助</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g4wkkj/need_serious_help/</link>
+      <description><![CDATA[我一直在尝试制作一个基于人工智能的健身教练，我有一些严重的疑问，甚至使用人工智能也很难解决，如果有人能帮助我，我必须在 5 天内完成它，如果你愿意帮忙，请告诉我，我保证这不会花费太多时间。    提交人    /u/alpha__07   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g4wkkj/need_serious_help/</guid>
+      <pubDate>Wed, 16 Oct 2024 10:55:54 GMT</pubDate>
     </item>
     <item>
-      <title>一个让富人满足穷人愿望的网站，P2P</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g4ubny/a_site_where_rich_people_fulfill_poor_peoples/</link>
-      <description><![CDATA[前几天，我在 TikTok 上看到一个建议建立一个网站，让不知道如何花钱的富人可以满足穷人的愿望。 但这里有一个转折：他们将根据自己的贡献在全球排行榜上与其他富有的捐助者竞争。他们给的越多，排名就越高。 这个想法一直萦绕在我的脑海里，我很高兴能把它变成现实。想象一个慷慨成为一场游戏的世界，每个人都是赢家，因为富人可以在全球排行榜上竞争，而穷人可以得到他们想要但买不起的东西。 网站是DonationFlex    提交人    /u/preetramsha   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g4ubny/a_site_where_rich_people_fulfill_poor_peoples/</guid>
-      <pubDate>Wed, 16 Oct 2024 08:12:32 GMT</pubDate>
+      <title>Google Nest Hub 作为临时的“Stream Deck”</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g4wka2/google_nest_hub_as_a_makeshift_stream_deck/</link>
+      <description><![CDATA[      你好 :) 我只是想分享我已经工作了一年多的副业。 它允许您将 google nest hub 用作计算机的控制台。 （有点像流媒体卡座） 按下 Nest Hub 上的按钮，计算机上就会发生一些事情。 我将其用作生产力工具，在我当前活动进程的上下文中添加宏。 按钮操作包括  将按键发送到活动窗口（适用于键盘快捷键） 运行文件（因此您可以使用任何您认为更方便的脚本） 控制 OBS（用于流媒体） 播放音频文件（音板）  我在此过程中添加的其他功能  音量控制和混音器（包括 OBS 音频设备） 硬件监控 蓝牙 LED 的电池监视器 根据活动进程自动更改卡座  我想要实现的下一个功能是将 GenAI 添加到卡座构建过程中，因为我觉得对于任何新用户来说都是最乏味的（并且可能会影响用户保留率）。而我可以使用 LLM。 如果您的 PC 旁边有一个（几乎无用的）Nest Hub，请查看 https://nestdeck.base64.pt/ \是的，目前仅适用于 PC（我最终会添加对 Mac 的支持。对不起 Mac 用户。如果我吝啬不买流媒体平台，因为我认为它很贵，你怎么认为我愿意花钱买一台昂贵的电脑？🔥） https://preview.redd.it/7nnx759l34vd1.jpg?width=1302&amp;format=pjpg&amp;auto=webp&amp;s=e893cf1589b56c5cdf82b76a5ff1286f28a94283    提交人    /u/Eye-Individual   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g4wka2/google_nest_hub_as_a_makeshift_stream_deck/</guid>
+      <pubDate>Wed, 16 Oct 2024 10:55:25 GMT</pubDate>
     </item>
     <item>
-      <title>为您的产品构建 UI 最困难的部分是什么？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g4uaut/what_is_the_hardest_part_of_building_the_ui_for/</link>
-      <description><![CDATA[  由    /u/Capital-Woodpecker28  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g4uaut/what_is_the_hardest_part_of_building_the_ui_for/</guid>
-      <pubDate>Wed, 16 Oct 2024 08:10:40 GMT</pubDate>
+      <title>尝试应用程序名称 Theme Scape - Color Widgets</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g4wipt/try_out_the_app_name_theme_scape_color_widgets/</link>
+      <description><![CDATA[        由    /u/BlueSkyBella  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g4wipt/try_out_the_app_name_theme_scape_color_widgets/</guid>
+      <pubDate>Wed, 16 Oct 2024 10:52:46 GMT</pubDate>
     </item>
     <item>
-      <title>嘿大家！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g4u7uw/hey_everyone/</link>
-      <description><![CDATA[[ 由于违反 内容政策，已被 Reddit 删除。 ]    由    /u/Evening_Way_5161  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g4u7uw/hey_everyone/</guid>
-      <pubDate>Wed, 16 Oct 2024 08:04:06 GMT</pubDate>
+      <title>有 SaaS 想法吗？想要实现它吗？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g4wgzu/got_a_saas_idea_want_to_launch_it/</link>
+      <description><![CDATA[嗨！ 有一个绝妙的软件创意，但需要一些帮助来实现它？我们完全理解将创意变成现实是多么棘手，而这正是我们在这里的目的。我们友好、经验丰富的全栈开发人员团队已准备好加入并将您的愿景变成现实。 以下是我们可以为您做的：  快速周转：我们将采纳您的想法并在短短 8 周内创建可行的 MVP。 一流的专业知识：我们的开发人员精通最新和最好的技术。 端到端支持：我们全程陪伴您 - 从头脑风暴到发布日。  无论您是初创公司创始人还是希望拓展业务的企业，我们都将帮助您通过可靠、可扩展的产品快速进入市场。 有兴趣进一步聊聊吗？给我们留言 - 我们很乐意就您的项目以及我们如何帮助您启动它进行无压力的对话。   由    /u/Born-Pheonix  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g4wgzu/got_a_saas_idea_want_to_launch_it/</guid>
+      <pubDate>Wed, 16 Oct 2024 10:49:47 GMT</pubDate>
     </item>
     <item>
-      <title>我为我的女朋友制作了一个 USMLE 备考学习伙伴（VQA-RAG 系统）。请告诉我你的想法。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g4u1fj/i_made_a_usmle_prep_study_buddy_vqarag_system_for/</link>
-      <description><![CDATA[Step 1 Buddy 是一个 RAG（检索增强生成）管道，用于处理 USMLE Step 1 视频并允许医学生就特定主题提问。它提供答案，并引用用作来源的确切视频时间戳。 试用一下：https://step1buddy4panda.streamlit.app 免责声明：您目前需要一个 OpenAI API 密钥来生成答案。根据反馈和在未来，我计划用更适合/微调的模型替换它。 背景：我的女朋友目前正在学习/准备即将参加的 step 1 考试，我每天看着她使用各种学习材料学习，她总是有很多疑问。现在显然我无法回答这些疑问，作为一名人工智能研究生，但我​​想帮助她。我从她那里得知，从视频中获取问题的答案作为参考很有帮助，因为视频通常都有幻灯片，她可以快速参考它们，这将有助于她更好地学习。这个项目是帮助她度过医学领域这段艰苦旅程的一项小小努力。 它的不同之处：与一般的 Q&amp;A 系统不同，Step 1 Buddy 是专门针对 USMLE Step 1 内容量身定制的。它不仅提供答案，还将用户指向视频讲座中讨论信息的确切时刻，以便快速验证和更深入地理解。 技术细节： 1. 视频处理：  使用 OpenAI Whisper 进行音频提取和转录 使用文本、时间戳和视频路径创建 JSON 数据集  2. RAG 管道和答案生成：  相似性搜索以进行上下文检索 使用 GPT-4-mini 生成答案，约束于给定的上下文  3.视频时间戳检索：  使用 OpenCV 获取和显示相关视频片段  我很乐意听取您的想法、建议以及您对该项目的任何疑问。特别是医学生，如果您能提供反馈，告诉我如何改进此工具以更好地满足您的学习需求，我将不胜感激。 如果您需要临时 API 密钥来测试此平台，请告诉我。    提交人    /u/00punk00   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g4u1fj/i_made_a_usmle_prep_study_buddy_vqarag_system_for/</guid>
-      <pubDate>Wed, 16 Oct 2024 07:50:04 GMT</pubDate>
+      <title>📰 突发新闻：这篇文章充满魔力，不适合麻瓜！如果你想重温哈利波特时代的魔力，那就赶快来参加我们非凡的产品发布会吧！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g4wf1x/breaking_this_post_is_enchanted_and_not_for/</link>
+      <description><![CDATA[想象一下，您在格兰芬多的公共休息室里放松，手里拿着黄油啤酒，而 Orange 会召唤出迷人的内容，并以恰到好处的咒语精准地安排帖子！🪄 这不仅仅是一个工具；这是一种改变初创公司营销游戏的全新方式。 💥 为什么选择 Orange？ — 创建像精心塑造的守护神一样耀眼的有机内容 🦄 — 在恰当的时刻安排帖子，就像在魁地奇比赛中击中金色飞贼一样！⚡️ — 在恰当的时刻安排帖子，就像在魁地奇比赛中击中金色飞贼一样！特里劳妮教授！🔮（即将推出！） 🎉 独家发布优惠： — 加入我们的前 20 位勇敢灵魂可免费使用 3 个月！  — 只需 2 美元/月，即可为接下来的 50 位冒险者提供 3 个月的服务！ 准备好开始一项任务，在短短 30 分钟内创建 30 天的营销渠道吗？相信我们，它会带来不同！ 您的支持是我们帮助这个魔法工具腾飞所需要的咒语！让我们让营销变得像施展橙色咒语一样轻松！🪄 🧡    提交人    /u/Longjumping_World667   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g4wf1x/breaking_this_post_is_enchanted_and_not_for/</guid>
+      <pubDate>Wed, 16 Oct 2024 10:46:26 GMT</pubDate>
     </item>
     <item>
-      <title>从创意到产品：第一次建造某样东西！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g4tz27/from_idea_to_product_built_something_for_the/</link>
-      <description><![CDATA[写这篇文章时感觉很好，因为这是我第一次构建、完成并正式在 Product Hunt 上发布的东西。  这一切都始于参加产品竞赛。 我（产品设计师）和我的室友（ML 工程师）参加了构建 AI 代理的竞赛。 我们通过构建一个经过微调可以作为员工工作的代理赢得了 1200 美元。 与此同时，我们经营着一个不同的 D2C 品牌，面临着保持营销渠道活力的诸多挑战。 作为一家白手起家的公司，很难付钱请营销机构来帮助我们。  我们创建了一个 AI 营销员工来为独立黑客解决这个问题早期创始人，这将帮助他们在 30 分钟内创建 30 天的内容。 对未来的日子感到兴奋！    提交人    /u/Not_The_Paul_Graham   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g4tz27/from_idea_to_product_built_something_for_the/</guid>
-      <pubDate>Wed, 16 Oct 2024 07:44:58 GMT</pubDate>
+      <title>[Side Project] Watch Planner：为您的 Apple Watch 定制锻炼和装备追踪！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g4w4p2/side_project_watch_planner_custom_workouts_and/</link>
+      <description><![CDATA[      大家好，SideProject 社区！👋 我很高兴与大家分享 Watch Planner，这是我一直在从事的一个附带项目。这款应用可让您更轻松、更有条理地管理和自定义 Apple Watch 锻炼 - 直接通过您的 iPhone 即可。无论您喜欢跑步、骑自行车、游泳还是 Apple Watch 支持的 84 项活动中的任何一项，Watch Planner 都可以帮助您以简单有效的方式创建、安排和跟踪锻炼。此外，您可以将所有内容与 Apple Watch 同步，以便随时随地执行计划！⌚️📱 🏃‍♂️ 主要功能：  自定义锻炼：直接从您的 iPhone 轻松为所有活动创建个性化锻炼计划。 即时同步：将您的自定义计划与您的 Apple Watch 同步，获得无忧的锻炼体验。 12 个跑步计划：从初学者到高级，我们为每种距离都准备了跑步计划。 🏃‍♀️ 装备追踪：追踪您的装备，如跑鞋和自行车，并知道何时需要更换。 👟🚴 表现洞察：通过详细的统计数据跟踪您一段时间内的进度，以保持动力并不断进步。 📊  我为何开发 Watch Planner： 作为使用 Apple Watch 健身的人，我发现直接在手表上管理和组织锻炼很有挑战性。因此，我开发了 Watch Planner，以便更轻松地直接从 iPhone 规划、自定义和同步锻炼。这是简化我的健身程序的好方法，我希望它也能为您做到这一点！ 💬 我很乐意收到您的反馈！您可以查看并告诉我您的想法。任何关于如何改进它的想法都会非常有帮助。🙏 链接： App Store 上的 Watch Planner https://preview.redd.it/9ubg6znwh3vd1.png?width=2540&amp;format=png&amp;auto=webp&amp;s=1ad5996b0e761aa81d7cf1dbe97f56d619f8e059 https://preview.redd.it/1nxvjznwh3vd1.png?width=2540&amp;format=png&amp;auto=webp&amp;s=83f360d3aa8ab0e54580a25345bc02bbab9d34c7 https://preview.redd.it/y4cbhznwh3vd1.png?width=2540&amp;format=png&amp;auto=webp&amp;s=12ab7e507e345eb78439766630e102a642d62fa7 https://preview.redd.it/14b9kipwh3vd1.png?width=2540&amp;format=png&amp;auto=webp&amp;s=3bef5ef1b1bc4019df538189de1848f3cdc3546c    提交人    /u/Lukazb   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g4w4p2/side_project_watch_planner_custom_workouts_and/</guid>
+      <pubDate>Wed, 16 Oct 2024 10:26:35 GMT</pubDate>
     </item>
     <item>
-      <title>为股票市场（长期投资）创建了一个副项目。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g4tyrd/created_a_side_project_for_stock_market_long_term/</link>
-      <description><![CDATA[大家好！！ 我创建了这个项目 https://www.stockrizer.com/，出于个人需要，我需要一种更好的方式来跟踪我长期投资的股票。很长一段时间以来，我一直在使用 Google Finance 和 Yahoo 来跟踪股票，但是它们的监视列表不允许您跟踪价格以外的任何东西。如果我想和价格一起跟踪市盈率怎么办？如果我想添加市盈率警报怎么办？我在网上做了一些研究，但没有找到适合此类要求的工具。那时我开始研究 Stockrizer。 我试图将其保持为一个简约的股票跟踪监视列表，不会让用户被太多信息和复杂图表所淹没。例如，它不会一次显示列表中所有股票的新闻。您可以选择要查看哪只股票的新闻。 。 请查看此https://www.stockrizer.com/并让我知道您的想法。    提交人    /u/Grouchy-Economy-3137   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g4tyrd/created_a_side_project_for_stock_market_long_term/</guid>
-      <pubDate>Wed, 16 Oct 2024 07:44:19 GMT</pubDate>
+      <title>寻求建议重新开始</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g4w0dt/looking_fo_advice_to_start_fresh/</link>
+      <description><![CDATA[我是美国人，住在法国里昂。我跟随家人来到这里开始不同的生活。我来自新泽西，在这里生活了大约 10 年，从事建筑工作。但是，这份工作不适合我，所以我决定辞职。在法国，失业后，你仍然可以得到一部分工资。这并不多——1,100 欧元——还有 950 欧元的开支（包括房租和一切费用）。所以，至少我现在能够支付这些费用，这还不错。 但我真的想开始投资并从事网络安全事业。我目前有 3,500 欧元的存款，我只是想知道，在我的处境下，您认为我应该做些什么来改善我的财务状况。企业家思维在我的情况下会做什么？感谢您的反馈，我真的很感激。    由   提交  /u/IndicationNo8134   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g4w0dt/looking_fo_advice_to_start_fresh/</guid>
+      <pubDate>Wed, 16 Oct 2024 10:18:18 GMT</pubDate>
     </item>
     <item>
-      <title>我是否应该回到原来的计划？需要反馈！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g4ty8k/should_i_go_back_to_the_original_plan_feedback/</link>
-      <description><![CDATA[我一直在研究我的项目 PostPenguin，它经历了一些变化，我想与您分享这些变化，并征求您对下一步发展的反馈。 起初，PostPenguin 旨在将您的原始想法转化为社交媒体帖子。您会说出您的想法，PostPenguin 会将它们提炼为精美的可共享内容。 但随着时间的推移，它变成了一种内容再利用工具。它已经这样运行了一段时间，但我正在考虑将它带回到最初的想法：使其成为一种将自发想法转化为完成的社交帖子的超级简单方法。 查看：postpenguin.com 我很想听听您的想法。原始概念是否更能打动您，或者重新利用的方向是否仍然有价值？    提交人    /u/jyriso   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g4ty8k/should_i_go_back_to_the_original_plan_feedback/</guid>
-      <pubDate>Wed, 16 Oct 2024 07:43:09 GMT</pubDate>
+      <title>您是否对通过热图直观呈现您全年的习惯追踪器感兴趣？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g4vzwz/would_you_be_interested_in_a_habit_tracker_that/</link>
+      <description><![CDATA[        提交人    /u/habitheat   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g4vzwz/would_you_be_interested_in_a_habit_tracker_that/</guid>
+      <pubDate>Wed, 16 Oct 2024 10:17:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
