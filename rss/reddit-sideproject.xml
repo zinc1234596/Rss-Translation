@@ -4,7 +4,56 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Thu, 17 Oct 2024 01:09:04 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Oct 2024 03:20:58 GMT</lastBuildDate>
+    <item>
+      <title>Chrome/Firefox 扩展程序用于隐藏 Reddit 上内容卖家的帖子。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g5hjnc/chromefirefox_extension_to_hide_posts_from/</link>
+      <description><![CDATA[基本上就是标题。我已经开发了 Chrome/FIrefox 扩展程序的初始版本，用于向内容卖家隐藏帖子，我正在寻找一些有兴趣使用该扩展程序并提供反馈的人。    提交人    /u/BrainlessGoonStick   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g5hjnc/chromefirefox_extension_to_hide_posts_from/</guid>
+      <pubDate>Thu, 17 Oct 2024 03:17:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>制作可持续消费应用程序（调查）</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g5hds0/making_a_sustainable_consumption_app_survey/</link>
+      <description><![CDATA[嗨，我的大学朋友正在从事可持续发展方面的项目，并正在进行一些调查推广，我正在帮助他们在这里分享，因为他们没有 Reddit 帐户 嗨朋友们，我们是一支大学生团队。作为我们期末课程项目的一部分，我们正在开发一款有助于促进健康、可持续消费的应用程序。我们旨在通过跟踪营养和环境统计数据以及公司道德记录来实现这一目标 我们正在进行一项调查，以确定我们应用程序的功能和整体设计，我们很乐意听取您的意见。 调查只需 5 分钟。感谢您的支持，谢谢！🙏 https://docs.google.com/forms/d/e/1FAIpQLSdHt5nOJ57qaTKpHxi4Ck7qgUGL_DHVjmHc8gM-qcO7n3zYNg/viewform    提交人    /u/Stefan0_   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g5hds0/making_a_sustainable_consumption_app_survey/</guid>
+      <pubDate>Thu, 17 Oct 2024 03:08:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>制作了一个简单的工具来为eBay卖家查找坏客户，以防止他们被骗！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g5h5nr/made_a_simple_tool_to_find_bad_customers_for_ebay/</link>
+      <description><![CDATA[        提交人    /u/HighValueWomanBook   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g5h5nr/made_a_simple_tool_to_find_bad_customers_for_ebay/</guid>
+      <pubDate>Thu, 17 Oct 2024 02:56:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何在从事副业时避免消极情绪和疑虑？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g5h3s2/how_to_keep_negatives_doubts_at_bay_while_working/</link>
+      <description><![CDATA[我有过很多次这种感觉，现在仍然有。在长期从事项目工作时，有时你会开始不再相信它。有些日子你充满希望，看到了希望，而其他日子则不然。即使你的想法、poc 和原型已经得到验证，甚至在用户和客户都很少之后，这些感觉还是会来来去去。你们是如何抑制这种消极情绪并坚持下去的？你的秘诀是什么？什么时候这些感觉会消失？    提交人    /u/guessandmatch   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g5h3s2/how_to_keep_negatives_doubts_at_bay_while_working/</guid>
+      <pubDate>Thu, 17 Oct 2024 02:53:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要帮助优化我的 ChatGPT API 加载速度</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g5gx8q/need_help_on_optimizing_my_chatgpt_api_loading/</link>
+      <description><![CDATA[因此，我正在尝试构建自己的自定义个人助理机器人，并且我目前正在使用 ChatGPT 线程、消息和运行功能。但是该死的，响应加载速度太糟糕了，特别是考虑到最大限制响应已经只有 150 个令牌。  有时需要大约 1-2 秒才能加载。顺便说一下，我当前的工作流程涉及调用 3 await async 代码（创建线程并获取线程 id，将消息添加到线程，然后运行线程以获取响应） 我看到另一个类似的 ChatGPT 包装器应用程序，它可以在一秒或更短的时间内给出响应。  对于那些熟悉使用 ChatGPT API 和构建包装器应用程序的人，你们如何优化代码以在不到 1 秒的时间内加载响应？您是否只是使用 ChatGPT 直接进行对话呼叫，而根本不使用线程功能？    提交人    /u/Blu3Tomat0   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g5gx8q/need_help_on_optimizing_my_chatgpt_api_loading/</guid>
+      <pubDate>Thu, 17 Oct 2024 02:43:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了一个 figma 工具，让你的投资组合可以自动构建</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g5fjce/i_created_a_figma_tool_that_lets_your_portfolio/</link>
+      <description><![CDATA[      figma 设计追踪器 作为一名设计师意味着要为不同的公司和客户完成无数个项目，通常没有时间反思自己所取得的成就。当需要建立自己的作品集时，你只能试图从过去的项目中收集资源，却发现自己已经被从中剔除。 至少，开发人员有 GitHub 的活动追踪器。作为设计师，我们没有。 当我找不到适用于 Figma 的工具时，我和我的朋友自己开发了一个。它叫做 Sixelf。您可以连接所有 Figma 帐户，它会自动跟踪您的设计工作，创建您每日贡献的热图。本质上，它会为您构建您的作品集。我以为我是唯一一个需要这样东西的人，但其他 565 名设计师不同意。您还可以浏览其他设计师的个人资料及其热图。 它是免费使用的，因此如果您是喜欢反思自己的工作或需要一种跟踪设计进度的方法的 Figma 设计师，请尝试一下。我很乐意听到您的反馈或任何改进建议！ 这是链接：sixelf.com    提交人    /u/nuelCee   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g5fjce/i_created_a_figma_tool_that_lets_your_portfolio/</guid>
+      <pubDate>Thu, 17 Oct 2024 01:29:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻求对我的副项目的反馈！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g5f8al/looking_for_feedback_on_my_side_project/</link>
+      <description><![CDATA[      大家好！在这个 subreddit 上的第一篇帖子 :) 寻求建设性反馈  几周前（感谢帮助我妻子的母亲开发她需要的应用程序）我意识到大多数人只在 LLM 环境中使用 AI（ChatGPT、Claude、Gemini 等）。我个人认为 AI 能真正帮助我们的远不止这些。它是一种帮助我们节省时间的工具！ 考虑到这一点，我开始在下班后和周末的空闲时间从事一个副项目，以创建 AI 助手，它们可以在您需要时为您做事。思考一下：  每天早上 9 点查找特定股票的价格，并向我发送包含该信息的电子邮件 获取我所在城市明天的天气，并在工作日下午 5 点向我发送推送通知 当这个城市有我所在领域的新工作时通知我 等等  现在我正在完成应用程序开发，并希望在 11 月中旬左右将其发送给 Mac、iOS 和 Android（Windows 支持稍后推出） 非常乐意听取大家的任何反馈或想法！这是一个非常有趣的项目，希望它可以帮助很多人 这是我几分钟前拍摄的一些截图，显示了到目前为止获取产品搜索顶级产品信息的样子，最后一张截图是我在助手运行完成后拍摄的网站样子:) https://preview.redd.it/cklepl1yu7vd1.png?width=3024&amp;format=png&amp;auto=webp&amp;s=370cd44c802eeceb069b1af9b9270105795584dd https://preview.redd.it/5eo76n0yu7vd1.png?width=3024&amp;format=png&amp;auto=webp&amp;s=df6a476826b38943b497713f177cdce17737fc6e https://preview.redd.it/obevmn0yu7vd1.png?width=3024&amp;format=png&amp;auto=webp&amp;s=6698b6c1e5e6f0e5d34d850f9e0eb6c13035c324 https://preview.redd.it/y8tarn0yu7vd1.png?width=3024&amp;format=png&amp;auto=webp&amp;s=c296d3552232c213d6212f72be41c5877f804e05 https://preview.redd.it/llqh18izu7vd1.png?width=3024&amp;format=png&amp;auto=webp&amp;s=ad3d6a342d88748ba2cb11d5dbab8873a179dfe5 https://preview.redd.it/ogzvqn0yu7vd1.png?width=3024&amp;format=png&amp;auto=webp&amp;s=2b2450fdd0dcac8a8113a30513279b98a265aa0f    提交人    /u/jpv1234567   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g5f8al/looking_for_feedback_on_my_side_project/</guid>
+      <pubDate>Thu, 17 Oct 2024 01:13:08 GMT</pubDate>
+    </item>
     <item>
       <title>有人在运营一个用广告破坏其“免费工具”网站吗？</title>
       <link>https://www.reddit.com/r/SideProject/comments/1g5eml2/anyone_running_a_free_tool_website_killing_it/</link>
@@ -53,55 +102,6 @@
       <description><![CDATA[大家好！几个月前我发布了关于我的游戏的帖子，很多反馈是 UI 感觉不像“派对”，尽管游戏标题中写着“派对”。我彻底改造了 UI，增加了更多有趣的元素和易玩性。还添加了迷你游戏，供派对在等待答案时参与竞争。并添加了“成熟模式”。 我希望得到更多反馈，但我也感谢所有回复的人！ IOS：https://apps.apple.com/us/app/party-ai/id6448139181 Android：https://play.google.com/store/apps/details?id=com.luck3yapps.revel_ai TLDR：我创建了一款在线派对游戏，得到了很好的反馈，但我还希望得到更多反馈，因为我很难找到用户。并且与上次相比，UI 也进行了彻底的改进：)    提交人    /u/codyweis   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1g5beg1/took_everyones_feedback_and_made_it_feel_more/</guid>
       <pubDate>Wed, 16 Oct 2024 22:03:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>我为工程师建立了一个开源职业平台 - Ladderly.io | 找到你的下一个编程角色！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g5awpv/i_built_an_open_source_career_platform_for/</link>
-      <description><![CDATA[        由    /u/knight_of_mintz  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g5awpv/i_built_an_open_source_career_platform_for/</guid>
-      <pubDate>Wed, 16 Oct 2024 21:40:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>一款新的社交应用即将问世，但它与你想象的完全不一样。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g5afz4/a_new_social_app_is_coming_but_its_nothing_like/</link>
-      <description><![CDATA[      想象一个社交应用程序，您可以在其中表达一切，无需文字、照片、视频、音频......只需绘画、分享和表达自己。✏️💭 还有很多需要开发，您的支持和反馈将是关键。 立即注册以抢先获得独家早期访问权！➡️ https://www.brushpool.com    提交人    /u/Ok-Lake-6435   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g5afz4/a_new_social_app_is_coming_but_its_nothing_like/</guid>
-      <pubDate>Wed, 16 Oct 2024 21:20:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>查看我的投资组合？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g5adki/review_my_portfolio/</link>
-      <description><![CDATA[作品集 大家好！如果您能花点时间对我的作品集给出诚实的反馈，我将不胜感激。提前致谢！    提交人    /u/Puzzleheaded-Paint65   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g5adki/review_my_portfolio/</guid>
-      <pubDate>Wed, 16 Oct 2024 21:17:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>我将设计您的网站、电子邮件、仪表板或登陆页面，价格为 199 美元</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g59rmq/i_will_design_your_website_email_dashboard_or/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g59rmq/i_will_design_your_website_email_dashboard_or/</guid>
-      <pubDate>Wed, 16 Oct 2024 20:50:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>您可以向朋友推荐提供专业服务的网站。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g59q4l/a_site_where_you_can_refer_your_friends_that_do/</link>
-      <description><![CDATA[大家好， 如果可能的话，为了寻求反馈，我创建了 https://www.referohub.com ，这是一个网站，您可以在此将您信任的朋友推荐给寻求专业服务的人，例如园林绿化、绘画等...  您可以让您的朋友从他们从网站获得的每笔销售中给您佣金（因为您推荐了他们），您也可以以折扣的形式与客户分享该佣金，作为对他们的激励。 （例如 15% 的佣金、平台 10% 的折扣、您获得 5% 的佣金）。 您无需执行任何操作，我将致力于 SEO 并尝试提高我的网站排名。 想知道您对此的想法，以及您是否认为这是可行的。 谢谢！    提交人    /u/Fozitto   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g59q4l/a_site_where_you_can_refer_your_friends_that_do/</guid>
-      <pubDate>Wed, 16 Oct 2024 20:49:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI语言练习工具</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g59al6/ai_language_practice_tool/</link>
-      <description><![CDATA[        提交人    /u/neeeelo   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g59al6/ai_language_practice_tool/</guid>
-      <pubDate>Wed, 16 Oct 2024 20:32:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>LockedIn-每周计数，有目的地生活。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g59520/lockedin_count_every_weeks_live_with_purpose/</link>
-      <description><![CDATA[LockedIn 是一款独特的应用程序，可跟踪您直到 60 岁的时间。它具有倒计时网格、励志名言和时钟，可激励您充分利用每个时刻。 在此处添加任务和目标。专注于您的目标并拥抱未来的旅程！    提交人    /u/i_AryanSharma17   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g59520/lockedin_count_every_weeks_live_with_purpose/</guid>
-      <pubDate>Wed, 16 Oct 2024 20:25:36 GMT</pubDate>
     </item>
     <item>
       <title>我和我的女朋友刚刚推出了一款个性化情侣卡片游戏 Ours Cards——希望得到您的反馈！</title>
