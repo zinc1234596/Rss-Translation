@@ -4,111 +4,111 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Thu, 17 Oct 2024 09:16:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Oct 2024 12:29:12 GMT</lastBuildDate>
     <item>
-      <title>[吐槽] 一个可以改变我们求职方式的招聘平台。你觉得呢？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g5mjvt/roast_me_a_hiring_platform_that_could_change_the/</link>
-      <description><![CDATA[大家好！👋 我考虑了一个主意有一段时间了，我很想听听你们的想法。这是关于创建一种新型招聘平台，我很想听听大家的意见。 问题：  找工作很糟糕。我们都知道这一点。 公司很难找到合适的人才。 推荐是黄金，但仅限于公司员工。  解决方案：想象一个平台：  允许任何人进行推荐，而不仅仅是公司员工 用奖金奖励成功的推荐  工作原理：  求职者创建详细的个人资料（技能，经验，偏好） 公司列出职位，提供有关职位和公司文化的详细信息 用户可以申请或推荐其他人（即使那些尚未加入平台的人） 成功雇用 = 推荐人奖金  示例：您在 Meta 上看到一个很酷的职位。你可以：a) 自己申请 b) 推荐你的明星朋友 c) 邀请联系人加入并申请 大局：这可以使招聘流程民主化，扩大每个人的专业网络，并使求职变得不那么痛苦。 我的计划：我正在考虑独自建立这个（我知道这很雄心勃勃）。从小处做起，专注于一个行业/领域，然后从那里发展。 你觉得怎么样？你想添加什么功能？    提交人    /u/No_Huckleberry_891   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g5mjvt/roast_me_a_hiring_platform_that_could_change_the/</guid>
-      <pubDate>Thu, 17 Oct 2024 09:01:48 GMT</pubDate>
+      <title>Google Search Console 很烂，所以我用相同的数据免费构建了一个 UI。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g5po7a/google_search_console_sucks_so_i_built_a_ui_for/</link>
+      <description><![CDATA[我只使用 Google Search Console 来分析我的流量、关键字排名等。但是它的 UI 有点糟糕，所以我决定用他们的公共 API 创建一个新 UI。现在，您可以看到每个数据的演变，在单个页面上查看关键字、国家/地区和页面。 我稍后也会添加 Bing 和 Yandex，因此它将取代所有 Search Console。 它是开源的，可以接受反馈，我会根据用户要求添加更多功能。 我的工具是 My Search Console。    提交人    /u/Competitive_Pair1554   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g5po7a/google_search_console_sucks_so_i_built_a_ui_for/</guid>
+      <pubDate>Thu, 17 Oct 2024 12:26:55 GMT</pubDate>
     </item>
     <item>
-      <title>我创建了一个工具来在图像后面添加文字</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g5m5mi/i_created_a_tool_to_add_text_behind_image/</link>
-      <description><![CDATA[大家好！我创建了一个简单的图像编辑工具，名为 easyedit.app，其中包括图像后面的文本、背景去除、黑白背景和背景模糊等功能（更多功能即将推出）。 我非常感谢你们的任何建议或反馈！！    提交人    /u/FrostyAd5175   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g5m5mi/i_created_a_tool_to_add_text_behind_image/</guid>
-      <pubDate>Thu, 17 Oct 2024 08:30:33 GMT</pubDate>
+      <title>电影推荐系统</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g5pe8o/movie_recommendations_system/</link>
+      <description><![CDATA[      查看我使用以下工具制作的新项目：Flask、Python、Gsap、Locomotive Js、 MySQL Db、Html、Css    提交人    /u/Prajyot124   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g5pe8o/movie_recommendations_system/</guid>
+      <pubDate>Thu, 17 Oct 2024 12:11:31 GMT</pubDate>
     </item>
     <item>
-      <title>我推出了一个目录……目录🤔</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g5m5lj/i_launched_a_directory_of_directories/</link>
-      <description><![CDATA[        提交人    /u/zaezz   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g5m5lj/i_launched_a_directory_of_directories/</guid>
-      <pubDate>Thu, 17 Oct 2024 08:30:29 GMT</pubDate>
+      <title>我推出了一个人工智能平台，供你为下一次 FAANG 面试做准备</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g5p8hg/i_launched_a_ai_powered_platform_to_practice_for/</link>
+      <description><![CDATA[      大家好， 我很高兴地宣布，我今天推出了Dobr.AI！ 问题 有 100 个平台可以解决编码问题。但没有平台可以练习面试。 解决方案 Dobr.AI 是一个由 AI 驱动的面试环境，可模拟 FAANG 风格的面试，并允许您在真实的环境中练习即将到来的面试，并获得实时反馈。 状态 目前它支持编码面试。我将在未来几周内添加 LLD（机器编码）和 HLD（系统设计）面试。未来几个月还会有更多面试形式。 针对公司（B2B） 我正在扩展这个平台，以允许公司大规模面试候选人。这将使公司能够以极低的成本面试更多的候选人。我将在一个月内推出 B2B 平台。如果您认为 Dobr 可以帮助您为初创公司招聘人才，请与我联系，我可以以折扣价尽快与您一起试用。 反馈？ 很想知道您的反馈和评论。 https://preview.redd.it/7gtowbzg3bvd1.png?width=2690&amp;format=png&amp;auto=webp&amp;s=6ab59efa7fe921298705dc6d69810879d7eb8ea5    由   提交  /u/Abhishek39   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g5p8hg/i_launched_a_ai_powered_platform_to_practice_for/</guid>
+      <pubDate>Thu, 17 Oct 2024 12:02:21 GMT</pubDate>
     </item>
     <item>
-      <title>FlyonUI：免费的 Tailwind CSS 组件库</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g5lvpd/flyonui_free_tailwind_css_components_library/</link>
-      <description><![CDATA[大家好， 很高兴分享 FlyonUI 终于在 ProductHunt 上推出了。我们渴望得到您的评论和建议。 查看：https://www.producthunt.com/posts/flyonui 特点：  永远免费 800 多个组件示例 带来语义类和强大的 JS 插件的强大功能 通用框架兼容性 响应式和RTL 支持  FlyonUI 的一些有趣统计数据：  获得 680+ GitStars Hakernews 上 178+ 个赞同     提交人    /u/Abhi_mech007   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g5lvpd/flyonui_free_tailwind_css_components_library/</guid>
-      <pubDate>Thu, 17 Oct 2024 08:08:23 GMT</pubDate>
+      <title>✨ 发布更新：YouTube 评论查看器 ✨</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g5p4md/launch_update_youtube_comment_viewer/</link>
+      <description><![CDATA[🚀 重大公告！ 🚀 我们很高兴正式推出我们的 YouTube 评论查看器工具！🎉现在，您可以前所未有地浏览、排序和过滤评论！ 🛠 主要功能：  按日期排序 📅：快速查找最新或最旧的评论。 关键字搜索 🔍：在评论部分搜索特定的回复/评论。  👉 立即尝试并彻底改变您与 YouTube 评论互动的方式！ 🔗 sweetremark.com YouTubeTool #ProductLaunch #CommentViewer #ytcommentfinder    由   提交  /u/aritra8900   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g5p4md/launch_update_youtube_comment_viewer/</guid>
+      <pubDate>Thu, 17 Oct 2024 11:56:29 GMT</pubDate>
     </item>
     <item>
-      <title>对于有抱负的联合创始人</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g5lokf/for_aspiring_cofounders/</link>
-      <description><![CDATA[在联合创始人冲突开始前就避免它！🤝 提前设定明确的条款以协调激励措施并提高成功的机会。🚀 这就是我建立 https://www.producthunt.com/posts/share-split 的原因，以使其变得简单： 1️⃣ 建立股权分配 2️⃣ 以数字方式签署协议 3️⃣ 跟踪随时间推移的贡献 我犯了太多次拖延的错误。我希望这对其他联合创始人有所帮助。 正确开始，共同成功！ ✨ 您可以在此处查看演示：https://www.youtube.com/watch?v=cmOvc5yUaBQ    提交人    /u/rooirenoster   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g5lokf/for_aspiring_cofounders/</guid>
-      <pubDate>Thu, 17 Oct 2024 07:52:57 GMT</pubDate>
+      <title>我创建了一个网站来帮助我和其他人不要忘记过这样的生活，但出了点问题</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g5p36f/i_made_a_website_to_help_me_and_others_not_forget/</link>
+      <description><![CDATA[大家好， 介绍一下这个网站的背景和感受：生活节奏太快，几周、几个月、几年飞逝而过，我想要一种方法来记录我想尝试的事情、要去的地方和要学习的技能。Megastorian 帮助我（希望其他人也能）设定明确的目标、尝试新事物并为未来存储记忆。 该网站旨在帮助人们跟踪他们的目标和经历以保持自我激励（它不仅仅是一个发布内容的社交平台）。我之前发布过帖子，以获得第一手反馈，检查了这个想法，它收到了很好的反馈，吸引了 70 多个注册用户。但问题是，几乎所有这些用户都没有活跃并返回。 我理解一些潜在的原因，例如：它不是移动应用程序，目前用户还不多，用户界面不是最好的，也许这个工具不能解决人们的痛苦问题。但如果人们真的喜欢这个想法并注册，那么看起来他们想要它，但有些不对劲。 我修复了一些与以前的反馈有关的问题，并计划在建立电子邮件通知后向当前用户征求反馈。我还添加了一个遗愿清单启动器，一个带有任务的默认列表，以帮助指导新用户下一步该做什么。 您能否分享您对这个想法、功能的看法，以及您认为可能存在错误的任何建议以及您认为下一步应该做什么？ 任何反馈都会非常有帮助。 生活就像一个故事 - https://www.megastorian.com    提交人    /u/_mp_me   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g5p36f/i_made_a_website_to_help_me_and_others_not_forget/</guid>
+      <pubDate>Thu, 17 Oct 2024 11:54:01 GMT</pubDate>
     </item>
     <item>
-      <title>令人兴奋的消息 - StatAI 在 Product Hunt 上线！🚀</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g5lnxb/exciting_news_statai_is_live_on_product_hunt/</link>
-      <description><![CDATA[      大家好！ 我很高兴地宣布，StatAI 今天在 Product Hunt 上正式上线了！🎉 什么是 StatAI？ 它是一种在几分钟内提供 360 度分析和 AI 驱动的商业计划的工具 - 非常适合初创公司、企业家和任何测试新想法的人 。 👉 在这里查看：https://www.producthunt.com/posts/statai 如果您觉得它很有趣，我将非常感谢您的点赞、反馈或快速评论以提高知名度。每一点支持都很重要！🙌 让我们一起让这次发布取得成功。非常感谢您参与这次旅程！ 😊 https://preview.redd.it/ugb6rf15v9vd1.png?width=1000&amp;format=png&amp;auto=webp&amp;s=8ad835e0b09abd5eb419e0401a76a8eedcdcf4e5    提交人    /u/Ok-Gaurav-3693   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g5lnxb/exciting_news_statai_is_live_on_product_hunt/</guid>
-      <pubDate>Thu, 17 Oct 2024 07:51:29 GMT</pubDate>
+      <title>网站监控器</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g5p0wt/thesitemonitor/</link>
+      <description><![CDATA[大家好！ 我很高兴地告诉大家，我已经正式发布了我的新 SaaS 产品 TheSiteMonitor 的测试版！🎊 什么是 TheSiteMonitor？ TheSiteMonitor 是一种实时监控工具，旨在让您的 Web 应用程序平稳运行。我们的服务跟踪正常运行时间和性能指标，让您能够在问题影响用户之前快速识别和解决问题。无论您是开发人员、企业主，还是只是想确保其网站始终正常运行的人，TheSiteMonitor 都能满足您的需求！ 功能：  实时正常运行时间监控 性能分析 停机或性能问题警报 用户友好的仪表板  为什么要公开构建？我相信公开构建可以与其他创始人建立联系，收集反馈，并根据实际用户需求不断改进产品。我很高兴听到您的想法和建议！ 参与其中！我的候补名单上只有有限数量的席位，因此，如果您有兴趣加入早期测试组，请前往thesitemonitor.com并注册！ 感谢您的支持！我期待与大家分享这段旅程。请告诉我您的想法，并随时提出任何问题！    提交人    /u/Select_Potato_6232   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g5p0wt/thesitemonitor/</guid>
+      <pubDate>Thu, 17 Oct 2024 11:50:15 GMT</pubDate>
     </item>
     <item>
-      <title>有人在寻找 IT 服务吗？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g5l6p9/anyone_looking_for_it_services/</link>
-      <description><![CDATA[我有一个团队可以提供离岸 IT 服务。欢迎随时给我发私信，我可以分享更多详细信息    提交人    /u/YourVA_AI   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g5l6p9/anyone_looking_for_it_services/</guid>
-      <pubDate>Thu, 17 Oct 2024 07:14:32 GMT</pubDate>
+      <title>副业项目转型为初创企业：Magicroll.ai（为创作者提供自动视频编辑服务）</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g5ou0m/side_project_turned_startup_magicrollai_automated/</link>
+      <description><![CDATA[大家好， 我在大学期间创建了 Magicroll.ai 作为业余项目，现在它已经发展成为一家拥有 1,600 名 beta 用户的初创公司。该工具可自动编辑视频，帮助内容创建者节省时间。 到目前为止，我们已经启动了所有工作，并正在找出最佳的扩展方式。如果有人经历过从业余项目到全职创业的过渡，我很想听听你是如何做到的！ 此外，如果有人对该工具本身感到好奇，请随时尝试一下并告诉我你的想法。我们在这个阶段获得的反馈越多，我们就能做得越好。    提交人    /u/as_aayushi11   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g5ou0m/side_project_turned_startup_magicrollai_automated/</guid>
+      <pubDate>Thu, 17 Oct 2024 11:38:44 GMT</pubDate>
     </item>
     <item>
-      <title>刚刚启动了我的第一个副业项目：OurStars</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g5kws9/just_launched_my_first_ever_side_project_ourstars/</link>
-      <description><![CDATA[大家好 我刚刚为我的最新项目 OurStars 启动了候补名单页面，希望您能查看！ 这个项目背后的想法很简单：通过自定义星图捕捉夜空的本来面目，将有意义的时刻变成永恒的回忆。它非常适合庆祝特殊活动、制作独特的礼物，或通过有趣的标题和十二生肖主题添加个人风格。 如果您现在注册，您将在 MVP 上线后立即获得 VIP 访问权限。您的反馈将有助于塑造这个项目的未来。 这是我非常兴奋地构建的东西，在此过程中，您的想法对我意义重大。如果您有时间，请加入，查看并告诉我您的想法。 https://ourstars.co 任何反馈都将不胜感激    提交人    /u/adictonator   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g5kws9/just_launched_my_first_ever_side_project_ourstars/</guid>
-      <pubDate>Thu, 17 Oct 2024 06:54:10 GMT</pubDate>
+      <title>我的 Android 应用程序下载量已超过 13 万次，活跃用户超过 6 万次，且没有任何广告或促销活动 – 寻求下一步建议！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g5oqwq/my_android_app_reached_130k_downloads_60k_active/</link>
+      <description><![CDATA[      https://preview.redd.it/r48b4jskyavd1.png?width=2860&amp;format=png&amp;auto=webp&amp;s=50d0aa34d16554651a11016c12e4d7cb48cdb412 大家好， 我很高兴地告诉大家，我的 Android 应用刚刚通过了下载量达 13 万次，活跃用户超过 6 万。我在没有任何付费广告或推广的情况下实现了这一里程碑，对此我感到非常自豪。这款应用没有广告，到目前为止我还没有从中赚取多少收入。 话虽如此，我正处于十字路口，需要这个社区的一些建议。我一直在思考如何在不影响用户体验的情况下通过应用获利或增强应用。我正在考虑添加广告，但犹豫不决，因为我想保持应用的简洁、用户友好的氛围。 因此，我向您寻求想法。我应该：  植入广告（如果是，哪种方式干扰最少）？ 尝试其他方法让应用免费但可持续？  任何建议、反馈，甚至个人经历，只要您能分享，都会非常有帮助。提前感谢您的见解！    提交人    /u/karma_1264   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g5oqwq/my_android_app_reached_130k_downloads_60k_active/</guid>
+      <pubDate>Thu, 17 Oct 2024 11:33:17 GMT</pubDate>
     </item>
     <item>
-      <title>建立了基于 Google Emoji 键盘的网站</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g5ksju/built_a_website_based_on_google_emoji_keyboard/</link>
-      <description><![CDATA[      Emoji Kitchen 游戏链接：http://www.emojikitchengame.com/ 在 GitHub 上查看 Emoji Kitchen 游戏的源代码！灵感来自 Google 的 Gboard Emoji Kitchen，您可以在其中混合表情符号来创建有趣的混搭！ https://github.com/suhas-sunder/EmojiKitchenGame ⭐ 如果您喜欢它，请不要忘记为该 repo 加星标！随意分叉它！🚀    提交人    /u/Sunderori   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g5ksju/built_a_website_based_on_google_emoji_keyboard/</guid>
-      <pubDate>Thu, 17 Oct 2024 06:45:19 GMT</pubDate>
+      <title>我不明白。购买昂贵的原型有什么意义吗？有什么好处？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g5om99/i_dont_get_it_is_there_any_point_in_buying_an/</link>
+      <description><![CDATA[      大家好， 现在，我正在创建实时测试原型。我联系了多家可以使用 3D 打印技术生产该扳手的公司，价格各不相同。其中一家公司给我的扳手原型报价至少为 500-1000 欧元，这似乎很多。但后来我发现另一家公司表示，他们只需 40 欧元 就可以做同样的事情。 问题是：我已经拥有 STEP 文件，其中包含所有细节，只需以 3D 打印即可。那么他们为什么要为原型收取如此高的价格？有什么问题？是他们使用的材料还是组装过程导致了这些高价？ 由于我仍处于旅程的开始阶段，我决定继续订购原型，价格为 40 欧元。让我们看看结果如何。也许它会由屎和木棍制成，然后问题就不言而喻了。 所以我的问题是：购买高端原型的意义何在？如果我只是想测试一下并拿在手里，花这么多钱真的有意义吗？你们有人经历过类似的事情吗？我很想听听你对高端原型和更便宜的选择之间的差异的看法。我应该在这里考虑什么？ 谢谢！ https://preview.redd.it/n762rbzgyavd1.jpg?width=3000&amp;format=pjpg&amp;auto=webp&amp;s=29eb6a2fdcf0c2498c4673cf2e68b525e4009789    提交人    /u/ReesRPtools   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g5om99/i_dont_get_it_is_there_any_point_in_buying_an/</guid>
+      <pubDate>Thu, 17 Oct 2024 11:25:12 GMT</pubDate>
     </item>
     <item>
-      <title>我应该收取多少费用才能将应用程序列入我的目录？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g5kime/what_should_i_charge_to_list_apps_on_my_directory/</link>
-      <description><![CDATA[我正在建立一个很酷的 Mac 应用程序目录，但我不知道要保持什么样的定价才能获得更多的提交。以下是我的目录的一些统计信息，可帮助您为我的目录建议完美的定价  每月 2k - 3k 访问者 23 域名评级 提交的应用程序将列在我的目录中，也会列在我的博客中（&gt; 博客上 10k 流量）  如果您想获取更多信息，这里是目录 Mactools    提交者    /u/gary_king_001   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g5kime/what_should_i_charge_to_list_apps_on_my_directory/</guid>
-      <pubDate>Thu, 17 Oct 2024 06:25:11 GMT</pubDate>
+      <title>在两个创业想法之间难以抉择——您会选择哪一个？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g5oeo3/struggling_to_choose_between_two_startup_ideas/</link>
+      <description><![CDATA[大家好，我有点为难，希望得到你们的意见。我为两个不同的想法构建了 MVP 和登录页面，但我很难决定重点关注哪一个。我是两个幼儿的父亲，每天早上 9 点上班，所以时间很紧张！ 以下是两个想法：  AI 视频和增强工具 按需打印 (POD) 软件工具  我对两者都很感兴趣，但还没有开始盈利。你会优先考虑哪一个？我非常感谢任何诚实的反馈。非常感谢！ 很想听听你的想法！ https://reddit.com/link/1g5oeo3/video/ms4av92ouavd1/player https://reddit.com/link/1g5oeo3/video/lvgv6a2ouavd1/player    提交人    /u/Brave-Phase9108   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g5oeo3/struggling_to_choose_between_two_startup_ideas/</guid>
+      <pubDate>Thu, 17 Oct 2024 11:11:56 GMT</pubDate>
     </item>
     <item>
-      <title>你觉得我能把我的噱头网站变成真正的SaaS吗？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g5k9q3/do_you_think_i_can_turn_my_gimmick_website_into_a/</link>
-      <description><![CDATA[大约 47 天前，我推出了一个简单的网站，根据您所在国家/地区的平均预期寿命，告诉您还剩下多少年。 我认为大多数访问者都会被触发并讨厌该网站，但我认为 20% 的访问者确实如我所愿对这个想法产生了共鸣并受到了激励。 到目前为止，我通过在网站上出售微型广告位赚了大约 650 美元，但我觉得这可以更好地货币化。 我一直在考虑添加一项功能，让您可以向未来的自己发送“唤醒电话” - 基本上就是您发给自己的消息，提醒自己您的目标以及您还剩下多少时间。这有点像过去的自己发来的激励信息，让您不要在生活中随波逐流。 （你会使用类似的东西吗？） 现在，它只是一个简单的单页，但我很想把它变成更大更有意义的东西。也许有办法更好地将其货币化或添加真正产生影响的功能。 如果您对如何将其提升到一个新的水平或将其转变为真正的 SaaS 有任何想法，我很乐意听听。 如果您愿意，您可以在此处查看网站 lifeistooshort.today。    提交人    /u/JoschuaBuilds   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g5k9q3/do_you_think_i_can_turn_my_gimmick_website_into_a/</guid>
-      <pubDate>Thu, 17 Oct 2024 06:06:33 GMT</pubDate>
+      <title>很高兴与大家分享 ImageKit 的全新 AI 图像转换功能！🚀</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g5oefv/excited_to_share_imagekits_new_ai_image/</link>
+      <description><![CDATA[大家好！ 我想分享一下 ImageKit 团队一直在研究的一件令人兴奋的事情。我们刚刚推出了实时 AI 和 GenAI 图像转换功能，让创建和转换图像变得前所未有的简单！ 与其他解决方案不同，ImageKit 的 AI 工具可实时工作 - 直接从图像 URL 开始！就像现在在 URL 中指定所需的图像尺寸相当普遍一样，您现在只需将其添加到 URL 中即可应用 AI 功能，例如生成填充或背景去除。 因此，您可以在网站和应用程序上大规模使用这些功能作为代码的一部分，并通过将 AI 与 ImageKit 提供的现有 50 多种图像转换相结合来创建令人惊叹的视觉效果。 有哪些 AI 转换可用？ 我们现在提供 7 种强大的 AI 转换，包括：  生成新图像：直接在图像 URL 中根据文本提示创建图像。 创建图像变体：生成任何图像的视觉相似版本。 生成填充：扩展图像以匹配您想要的纵横比。 背景去除：通过其 URL 删除和替换图像中的背景。 添加阴影：自动为产品图像添加智能阴影。 高档和修饰：增强低分辨率图像以满足现代标准。  实际应用  客户已经在使用这些工具来：  使产品图像适应不同的格式。例如，将方形产品图片转换为用于移动设备的垂直图片或用于网站横幅的水平图片。 通过背景去除、阴影和升级功能创建一致的、工作室品质的图像。 无需购买新库存照片，即可为广告制作新的创意，并将图像生成与图像和文本叠加相结合，以大规模创建个性化横幅。  随着越来越多的 AI 转换被添加，重新构想创意工作流程的可能性是无穷无尽的。 免费开始 所有这些 AI 功能都可供所有人使用，即使在我们的永久免费计划中也是如此！立即注册并开始试验！ 在 Product Hunt 上查看我们以了解更多信息 &amp;支持我们的发布 - https://www.producthunt.com/posts/ai-transformations-by-imagekit 如果您发现这些功能有用，今天在 Product Hunt 上点赞将不胜感激！ 感谢您花时间阅读，如有任何问题，请随时提问！❤️    提交人    /u/No-Afternoon-9708   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g5oefv/excited_to_share_imagekits_new_ai_image/</guid>
+      <pubDate>Thu, 17 Oct 2024 11:11:34 GMT</pubDate>
     </item>
     <item>
-      <title>我制作了一个免费导出 Framer 或 NoCode Site 的工具</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g5k1is/i_made_a_tool_to_export_framer_or_nocode_site_for/</link>
-      <description><![CDATA[        由    /u/Kysan721   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g5k1is/i_made_a_tool_to_export_framer_or_nocode_site_for/</guid>
-      <pubDate>Thu, 17 Oct 2024 05:50:30 GMT</pubDate>
+      <title>我制作了一款在浏览器中运行的开源图像转换器，由 LibVips WASM 提供支持</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g5o7sx/i_made_opensource_image_converter_runs_in_browser/</link>
+      <description><![CDATA[看到 WASM 和 WebGPU 等 Web 技术的崛起真是令人惊叹。  大约一个月前，我制作了https://bannerify.co/tools/remove-bg - 开源使用 WebGPU 删除背景，在 HN 上排名第一，引起了很多兴趣。  我目前正在探索更多有关 WASM 和 WebGPU 的用例。  今天，我开源了一个图像转换器项目，该项目使用 LibVips WASM 直接在浏览器中转换图像，速度令人印象深刻。  在此处查看代码：https://github.com/ducan-ne/image-converter，欢迎随时贡献任何想法或建议    由   提交  /u/ducanchaocacban   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g5o7sx/i_made_opensource_image_converter_runs_in_browser/</guid>
+      <pubDate>Thu, 17 Oct 2024 11:00:10 GMT</pubDate>
     </item>
     <item>
-      <title>我用 4 天时间创建了 PhotoDrill：一款用于自动生成图片上传说明的工具</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g5jzcf/i_built_photodrill_in_4_days_a_tool_to/</link>
-      <description><![CDATA[      https://preview.redd.it/erexo0tt89vd1.png?width=1891&amp;format=png&amp;auto=webp&amp;s=31169f78bc229925c549875ed90e5e23e046d394 在使用 Flux 模型通过 StableDiffusion 生成数百张图像后，我意识到在 Adob​​e Stock 上手动填写标题和标签是多么繁琐。因此，我创建了 PhotoDrill — 一种将图像转换为标题并批量导出以节省图像上传时间的工具。 主要功能：  图像到标题生成器 批量 CSV 导出用于库存上传 更多工具，如 Instagram 标题生成器、元数据删除器和图像升级器即将推出！  我仍在改进它，并欢迎反馈、合作或新功能的想法。如果您有兴趣，请随时试用。您甚至可以给我发私信以获得免费积分！ 非常感谢您快速阅读。 网站：PhotoDrill.com期待您的想法！   由    /u/AgentNirmites  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g5jzcf/i_built_photodrill_in_4_days_a_tool_to/</guid>
-      <pubDate>Thu, 17 Oct 2024 05:46:31 GMT</pubDate>
+      <title>厌倦了花费数小时寻找完美的域名？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g5o06s/tired_of_spending_hours_searching_for_the_perfect/</link>
+      <description><![CDATA[我推出了一项名为 SnapBrand 的新服务，它让您轻松找到适合您项目的可用域名。SnapBrand 使用人工智能集思广益，寻找相关域名，检查它们在多个扩展中的可用性，并评估 SEO 潜力。 请告诉我您对此的看法。    提交人    /u/flmommens   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g5o06s/tired_of_spending_hours_searching_for_the_perfect/</guid>
+      <pubDate>Thu, 17 Oct 2024 10:46:37 GMT</pubDate>
     </item>
     <item>
-      <title>我构建了一个应用程序，支持无限画布中任何网站的无限实时截图，具有多配置文件、自动刷新、通知、本地优先等功能</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g5j8k1/i_build_an_app_support_unlimited_live_screenshots/</link>
-      <description><![CDATA[        提交人    /u/stevephuc   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g5j8k1/i_build_an_app_support_unlimited_live_screenshots/</guid>
-      <pubDate>Thu, 17 Oct 2024 05:00:24 GMT</pubDate>
+      <title>我推出了一个可以根据你的脸部创建逼真照片的平台（无需编码）</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g5nm19/i_launched_a_platform_to_create_realistic_photos/</link>
+      <description><![CDATA[      大家好， 我创建了一个微型 SaaS，它使用根据你的照片训练的 AI 头像来生成照片。我受到了 photoAI 概念的启发，并将其改编为社交媒体（具有量身定制的风格）。 目标是让任何人都可以获得专业品质的照片，而无需摄影师。 您可以使用提示来描述所需的结果，甚至可以使用参考图像 您可以创建以下风格的图像：  漫画/BD 照片写实 绘画 赛博朋克 YouTube 玩具 日常生活 镜子自拍 插图 80 年代 90 年代 万圣节 Tinder 迈克尔·杰克逊  使用模型生成图像大约需要 30 到 45 秒（我已经修剪了我使用按需付费模式（不是订阅计划的忠实粉丝）保持定价简单。 我很乐意听取您的反馈，了解您对该工具的看法、您希望看到的用例以及您建议添加的一些新样式。 要试用，您可以访问instantpo.st。 我目前正在犹豫是否要添加一项功能，用于从照片创建风景以插入您的头像或制作 YouTube 缩略图。 该工具是在Bubble.io上无代码构建的，并使用 ChatGPT 和 Flux 等 API，所以请对我宽容 ^^ 以下是一些示例： https://preview.redd.it/4417jka6lavd1.png?width=1024&amp;format=png&amp;auto=webp&amp;s=cfd8dd086d218cac73179dd13d52ffddca577776 https://preview.redd.it/zvgij86elavd1.png?width=1072&amp;format=png&amp;auto=webp&amp;s=ea7ae77c89fba53f0a7709bf2ba8d80d6e9e0d6d https://preview.redd.it/htn4ifbjlavd1.jpg?width=1072&amp;format=pjpg&amp;auto=webp&amp;s=6334cd6fa2b521d58a3dc737d3513993520e7ef8 附言：英语不是我的母语，所以如果有些短语听起来有点尴尬，请原谅！ 谢谢！！ 以下是创建图片的方法    提交人    /u/Connect-Apartment-14   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g5nm19/i_launched_a_platform_to_create_realistic_photos/</guid>
+      <pubDate>Thu, 17 Oct 2024 10:19:47 GMT</pubDate>
     </item>
     <item>
-      <title>我应该为我的初创公司聘请实习生吗？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g5j3x8/should_i_hire_an_intern_for_my_startup/</link>
-      <description><![CDATA[我是一名刚毕业的学生，​​正在创业，计划在附近的大学校园张贴二维码来推广它。我正考虑招聘一名实习生来帮助营销，但由于我资金不足，无法预付工资。我愿意提供经验、潜在股权以及毕业后加入团队的选择。 我如何公平地激励他们？在这个阶段要求某人免费工作是否不道德？ 很想听听你的想法！    提交人    /u/Humble-Professional   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g5j3x8/should_i_hire_an_intern_for_my_startup/</guid>
-      <pubDate>Thu, 17 Oct 2024 04:52:08 GMT</pubDate>
+      <title>我为 Windows 和 macOS 创建了一个开发工具包</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g5n5qh/i_created_a_developer_toolkit_for_windows_and/</link>
+      <description><![CDATA[        提交人    /u/8mobile   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g5n5qh/i_created_a_developer_toolkit_for_windows_and/</guid>
+      <pubDate>Thu, 17 Oct 2024 09:48:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
