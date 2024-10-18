@@ -4,111 +4,111 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Fri, 18 Oct 2024 18:20:07 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Oct 2024 21:15:22 GMT</lastBuildDate>
     <item>
-      <title>总是忘记歌曲名称或生日？日常生活中的每个记忆问题都与大脑的特定部分有关</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g6ouls/keep_forgetting_song_titles_or_birthdays_every/</link>
-      <description><![CDATA[我创建了一个记忆训练平台，可以帮助您改善记忆的特定区域，以便您可以解决日常生活中遇到的确切问题。 查看：https://nrglitch.com    提交人    /u/severinnhq   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g6ouls/keep_forgetting_song_titles_or_birthdays_every/</guid>
-      <pubDate>Fri, 18 Oct 2024 18:16:06 GMT</pubDate>
+      <title>UnStruct：我构建了一个带有幻觉检查器的研究工具来验证人工智能的准确性</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g6rxjk/unstruct_i_built_a_research_tool_with_a/</link>
+      <description><![CDATA[      嘿r/SideProject！ 我是 Kishore Jalleda，很兴奋分享UnStruct AI，这是我一直在开发的一款工具，用于协助使用AI进行深入研究，特别注重验证AI准确性。 问题：AI驱动的研究工具通常在准确性方面存在问题，有时甚至会产生“幻觉”或生成虚假信息。 解决方案 - UnStruct：UnStruct 是 Perplexity、Glean 和 Google Search 等工具的混合体，具有以下独特功能：  幻觉检查器：验证 LLM 准确性 可自定义的搜索：选择要显示结果的站点 交互式探索：通过持久上下文深入研究来源 大规模分析：跨众多文件组织见解 上下文窗口优化器：处理超出典型 LLM 限制的大型上下文 高度可定制：根据您的特定需求定制工具  开发历程：凭借 SRE 背景，我从开源事件管理平台转向 UnStruct，这源于我对自动化的热情非结构化过程。 当前状态：刚刚推出！在 https://unstruct.ai 上试用 UnStruct。通过 Google 或电子邮件登录，可享受免费套餐以帮助您入门。 寻求反馈：我希望听听您对于以下方面的想法：• 幻觉检查器功能的价值• UnStruct 与其他研究工具的比较• 最有用/创新的功能• 您希望看到的其他功能 感谢您关注 UnStruct。期待您的反馈并乐意回答问题！ https://preview.redd.it/xeuxlfdbskvd1.png?width=1648&amp;format=png&amp;auto=webp&amp;s=c60f09d444edb250cb8d7bf797736465a364053e https://preview.redd.it/eo3c5hdbskvd1.png?width=1992&amp;format=png&amp;auto=webp&amp;s=7cdbd7ba317c9ccc1f47a58b5872164a359902f3 https://preview.redd.it/bdazlfdbskvd1.png?width=1972&amp;format=png&amp;auto=webp&amp;s=d9ec90c97a0582266806d6a646475653b407bb6c https://preview.redd.it/bptxfbebskvd1.png?width=1178&amp;format=png&amp;auto=webp&amp;s=7fa0ebf7ed9b4cdcd7581a46deeda3c2fcf3f61d https://preview.redd.it/i6f2gfdbskvd1.png?width=964&amp;format=png&amp;auto=webp&amp;s=cabfc50cb3f0cb025643a4f967c4eb7351aed4e1    提交人    /u/EconomicsProud7756   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g6rxjk/unstruct_i_built_a_research_tool_with_a/</guid>
+      <pubDate>Fri, 18 Oct 2024 20:29:46 GMT</pubDate>
     </item>
     <item>
-      <title>建立一种与招聘人员联系的新方式，我认为人们会喜欢它:)</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g6oixa/building_a_new_way_to_connect_with_recruiters_and/</link>
-      <description><![CDATA[我在大型科技公司工作，一直想做一些更有意义的事情。最近，我看到很多朋友/家人在当今经济的就业市场上苦苦挣扎，我意识到整个事情有点混乱。我开始忙着做一个副业项目，根据我交谈过的人和报名参加我称之为“The Wall”的候补名单的陌生人的说法，人们似乎真的很喜欢它。 请访问 https://www.tryfrosti.com 如果您的圈子里有招聘人员和求职者，请将其传递给他们。    提交人    /u/Phil611   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g6oixa/building_a_new_way_to_connect_with_recruiters_and/</guid>
-      <pubDate>Fri, 18 Oct 2024 18:02:10 GMT</pubDate>
+      <title>轮次，找到你正在准备的面试轮次！查看最近的 Meta 软件工程师新毕业生最终轮次提交</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g6rqsm/rounds_find_the_exact_interview_round_you_are/</link>
+      <description><![CDATA[如果您正在准备 Meta 的软件工程师面试，我想分享一些可以帮助您简化准备工作的东西。我最近推出了 Rounds，候选人可以按公司、职位和面试阶段创建/探索超详细的面试轮次。 目标是帮助候选人节省时间，同时让他们进入他们正在准备的确切面试轮次。简化浏览在线论坛或在 LinkedIn 上追踪有过类似经历的人的过程。 所以像 Meta &gt; 软件工程师 &gt; 新毕业生 &gt; ML/AI &gt; L3 &gt; 最终轮次 在这里查看更多轮次！=&gt; （https://www.userounds.com/t/software-engineer） 欢迎随意探索、评论轮次并分享您的经验！ 添加您自己的轮次可以帮助其他人节省时间找到他们所需的内容。 对该平台的任何反馈都将不胜感激。 我本周刚刚推出了 MVP。 （我应该如何营销？让人们提交他们的面试轮次？我应该优先考虑哪些功能/ UI / UX？）    提交人    /u/HammadKhalid0   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g6rqsm/rounds_find_the_exact_interview_round_you_are/</guid>
+      <pubDate>Fri, 18 Oct 2024 20:21:26 GMT</pubDate>
     </item>
     <item>
-      <title>正在寻找有关新产品 PandaPro 的反馈！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g6odp8/looking_for_feedback_on_a_new_product_pandapro/</link>
-      <description><![CDATA[你好，Reddit！我和我的团队正在构建一个新工具，专门用于解决小型企业在搜索和获得 RFP 时面临的最大挑战。这一切都是为了帮助更快地发现合适的机会，并更有策略地进行投标——我们的目标是节省小企业的时间、金钱和挫折感。 它的作用： 我们新的人工智能解决方案将改变您寻找、评估和寻求新合同的方式。方法如下： 🔍 智能机会匹配 停止筛选无尽的 RFP 和 RFI。我们的系统会扫描数千个公共和私人招标，为您带来个性化、精准的匹配——因此您只需花时间在最相关的线索上。您甚至可以按地理位置选择机会，将匹配范围缩小到特定的县、市或邮政编码。无论您是想在本地发展还是在全国范围内扩张，您都会收到符合您确切标准的线索。 ⚖️ 出价分析 不再陷入冗长的文档中。我们的摘要专门针对您的业务需求量身定制，突出显示对您而言重要的要点和关键细节。每个摘要都是独一无二的，确保您获得相关的见解——不像那些浪费时间并留下空白的通用摘要。此外，我们用易于理解的颜色编码指示器（绿色、黄色或红色）标记重要细节，从而更轻松地识别哪些出价值得追求以及原因。 为什么您会喜欢它： • 节省时间：在您的收件箱中获取个性化匹配，以便您可以专注于高潜力潜在客户。 • 赢得更多合同：通过更深入地了解每个机会，您将能够更自信地争取合同。 • 获得竞争优势：我们由人工智能驱动的出价摘要可确保您始终了解重要事项。 向我们提供您的反馈并成为我们的首批测试者之一！ 观看我们的演示视频：https://vimeo.com/1017371382 我们正在寻找有兴趣在我们的抢先体验计划公开发布之前独家预订席位的小型企业。我们也很乐意听取有关格式的反馈并评估兴趣，以帮助我们在我们的反馈链接上进一步微调 PandaPro！ https://forms.gle/eyNkcPkmjVrKFrCm9 非常感谢！    提交人    /u/IntroducingPandaPro   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g6odp8/looking_for_feedback_on_a_new_product_pandapro/</guid>
-      <pubDate>Fri, 18 Oct 2024 17:56:21 GMT</pubDate>
+      <title>这是一个好的项目想法吗？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g6qzqj/is_this_a_good_project_idea/</link>
+      <description><![CDATA[      我刚刚突然想到这个最后一年的项目，就粗略地写了这些。我希望这是可以理解的。我应该继续做下去吗？  非常欢迎任何建议。    提交人    /u/ResponsibleSea7405   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g6qzqj/is_this_a_good_project_idea/</guid>
+      <pubDate>Fri, 18 Oct 2024 19:48:43 GMT</pubDate>
     </item>
     <item>
-      <title>花费 0 美元，3 天内页面浏览量 8.12k，26 个 DR，以及在我们的平台上推出 125 个工具！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g6ocza/0_spent_812k_page_views_in_3_days_26_dr_and_125/</link>
-      <description><![CDATA[      三天前，我们在没有广告支出的情况下推出了我们的网站，只是纯粹的内容营销和在 Hacker News 上发布。在短短 3 天内，我们的域名评级已达到 26，页面浏览量达到 8.12k，全部为自然流量。 还有两次促销！ Simple Lister 过去 3 天的流量 反馈非常棒，帮助我们快速修复错误并改善体验。昨天，我们的产品 SimpleLister 上推出了 21 个工具，而今天这个数字已经达到 27 个。每个工具都已经获得了 50 到 100 次点击。 在经历了 3 个失败的项目和与一些健康问题作斗争之后，我非常自豪能在 24 岁时取得这一成就。但我们正在努力让它变得更好，我们真的需要您的支持，因为我们会继续前进！ 感谢您参与我们的旅程！    提交人    /u/denizhadzh   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g6ocza/0_spent_812k_page_views_in_3_days_26_dr_and_125/</guid>
-      <pubDate>Fri, 18 Oct 2024 17:55:29 GMT</pubDate>
+      <title>我的免费、纯粹好玩的副业昨天赚了 180 美元</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g6qllu/my_free_justforfun_side_project_made_180_yesterday/</link>
+      <description><![CDATA[  由    /u/Potential_Action_658  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g6qllu/my_free_justforfun_side_project_made_180_yesterday/</guid>
+      <pubDate>Fri, 18 Oct 2024 19:31:23 GMT</pubDate>
     </item>
     <item>
-      <title>已达到 35 万+ 注册用户里程碑 - 免费二维码生成器</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g6o2b4/350k_registered_users_milestone_reached_free_qr/</link>
-      <description><![CDATA[      大家好， 我加入这个社区已经很久了。随着时间的推移，我与你们中的很多人进行了互动，并从中学到了很多东西。想到今天我可以和大家分享一个里程碑。 QR Code Developer - 一个免费的 QR Code 生成器现在注册用户已超过 35 万！ https://preview.redd.it/kbfedryeqjvd1.png?width=2428&amp;format=png&amp;auto=webp&amp;s=f21ccce993351d0accde9e7eedffec625a256044 以下是我们推动增长：  首要任务 =&gt; 构建具有竞争力的软件体验。在我们的案例中，这意味着支持尽可能多的二维码类型 投入其中 =&gt; 在搜索广告 (Bing / Google) 上花钱。这里的关键词都非常难 (90+ 关键词难度)，因此 SEO 将花费更长的时间。因此，我们的重点是通过搜索广告获取流量。考虑到业务用例，付费产品 (动态二维码) 的价格相当高，因此生命周期价值证明了花费的合理性 根据用户反馈进行迭代 =&gt; 从一开始，我们的重点就是通过尽可能多的渠道 (电子邮件、网站、联系表格等) 获取用户反馈。根据反馈，我们改进了 UI / UX 和功能集。  未来计划：   专注于 SEO。这一直是我们现在的首要任务，因为高 CPC 导致利润微薄。自然流量会很困难，但值得付出努力。 添加对企业有帮助的免费工具。  我们已尽最大努力为独立黑客和中小企业创造二维码体验。我很乐意从社区获得有关该产品的反馈。 感谢在这里分享他们旅程的每个人。我帮了我们很多！    提交人    /u/_Gautam19   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g6o2b4/350k_registered_users_milestone_reached_free_qr/</guid>
-      <pubDate>Fri, 18 Oct 2024 17:42:26 GMT</pubDate>
+      <title>寻找技术联合创始人来帮助团队更新知识库</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g6qbly/looking_for_technical_cofounders_for_helping/</link>
+      <description><![CDATA[大家好 - 我是一名具有 B2B SaaS 经验的项目经理。过去几年，我意识到一个摆在我面前的问题，我非常想解决这个问题。我希望在产品和牵引力方面快速发展，并寻找一个技术合作伙伴，他能分享这种紧迫感，并对从 0 到 1 构建某些东西感到兴奋。这将是兼职，直到产品市场契合度建立。  我们将在产品上进行合作，你负责技术方面，我负责业务开发和营销。如果您想安排时间聊天，请给我发消息！     提交人    /u/sgart25   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g6qbly/looking_for_technical_cofounders_for_helping/</guid>
+      <pubDate>Fri, 18 Oct 2024 19:19:24 GMT</pubDate>
     </item>
     <item>
-      <title>是的，另一个创业想法生成器...</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g6ny9r/yes_another_startup_idea_generator/</link>
-      <description><![CDATA[        提交人    /u/SliferAnimes   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g6ny9r/yes_another_startup_idea_generator/</guid>
-      <pubDate>Fri, 18 Oct 2024 17:37:40 GMT</pubDate>
+      <title>识别和人工智能相机应用程序如何工作</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g6qa7v/how_do_recognition_and_ai_camera_apps_work/</link>
+      <description><![CDATA[例如，你扫描一株植物或其他东西，它会告诉你它是什么。有人会怎么做呢？    提交人    /u/Fluffy_Yak_6065   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g6qa7v/how_do_recognition_and_ai_camera_apps_work/</guid>
+      <pubDate>Fri, 18 Oct 2024 19:17:45 GMT</pubDate>
     </item>
     <item>
-      <title>轻松分享您的空闲时间 - thefollowingtimeswork.com</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g6nquw/share_your_availability_easily/</link>
-      <description><![CDATA[大家好！ 我与跨多个时区的团队合作，需要管理多个日历，但我一直找不到一种简单的方法来分享我的空闲时间。 有一些工具，如 vimcal 和 calendly，但您需要注册并付费订阅等。 我每天都会多次查看日历（3 个苹果日历、1 个 Gmail 日历、1 个 Outlook 日历），找出最合适的时间。然后尝试在脑海中进行时区转换（祝你好运），并总是在谷歌上搜索“纽约下午 3 点是伦敦几点？”。我已经这样做了好久，却从未想过这件事。我总是将其作为文本直接粘贴到我的电子邮件中 以下时间有效： 10 月 18 日星期五：下午 1:30-3:30（美国东部时间） 10 月 20 日星期日：下午 1:30-2:45（美国东部时间） 10 月 21 日星期一：上午 8 点至 8 点 30 分（美国东部时间） 因此，我构建了一个单页应用程序来快速完成此操作 - 如果它有用，请告诉我。很高兴收到您的反馈。 thefollowingtimeswork.com 您可以单击并拖动以选择您的可用性，然后只需单击一下即可复制可用性以通过电子邮件或文本共享。 我没有明确的广告/货币化等途径，我希望它没有订阅，集成等。渴望听到您的想法。 它对我有帮助 - 我每天都会使用它几次，我想它也可能对你有帮助。 干杯， 尼尔    提交人    /u/neelganu   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g6nquw/share_your_availability_easily/</guid>
-      <pubDate>Fri, 18 Oct 2024 17:29:08 GMT</pubDate>
+      <title>使用 Cursor AI 构建应用程序</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g6q4xl/built_an_app_using_cursor_ai/</link>
+      <description><![CDATA[刚刚通过提示 AI u/cursor_ai @GitHubCopilot 并进行谷歌搜索，创建了一个完整的工作应用程序。  我总共花了 4 个小时，使用 react-native 和 @expo go 从头构建了一个 ios 应用程序。 签出并分享反馈 - https://github.com/Piyushhbhutoria/House-help 好的！我的错，我完全错过了 @AnthropicAI Claude 和 @OpenAI chatGPT 帮助我以详细形式编写内容和我的要求，以便 Cursor Composer 可以使用它来分阶段构建应用程序。114    提交人    /u/imidiotic   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g6q4xl/built_an_app_using_cursor_ai/</guid>
+      <pubDate>Fri, 18 Oct 2024 19:11:34 GMT</pubDate>
     </item>
     <item>
-      <title>Clariss 介绍：从图像、颜色名称和十六进制代码生成并下载漂亮的调色板</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g6nqcv/introducing_clariss_generate_and_download/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g6nqcv/introducing_clariss_generate_and_download/</guid>
-      <pubDate>Fri, 18 Oct 2024 17:28:31 GMT</pubDate>
+      <title>嘿！所以我们一直在建立一个项目，试图解释任何代码库</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g6q2ov/hey_so_we_have_been_building_a_project_that/</link>
+      <description><![CDATA[        由    /u/Quantum_menance  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g6q2ov/hey_so_we_have_been_building_a_project_that/</guid>
+      <pubDate>Fri, 18 Oct 2024 19:08:55 GMT</pubDate>
     </item>
     <item>
-      <title>需要对我的项目提出建议</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g6npgs/need_suggestions_on_my_project/</link>
-      <description><![CDATA[大家好，我计划为专业人士构建一个 saas 应用程序，提供导师指导和职业指导，就像 topMate 一样，我想知道你在使用这些应用程序提供导师指导时遇到什么困难，你对构建这样的工具有什么建议吗  示例问题：- topmate 可以为你提供平台，但不提供受众  或者你经历过的任何值得分享的有价值的事情都会受到赞赏     提交人    /u/Friendly_Novel4551   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g6npgs/need_suggestions_on_my_project/</guid>
-      <pubDate>Fri, 18 Oct 2024 17:27:26 GMT</pubDate>
+      <title>正在开发一款应用程序，您可以在其中尝试所有主流视频生成模型并比较结果。评论时加上 +，我会直接向您发送候补名单链接</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g6ptff/working_on_an_app_where_you_can_try_out_all_major/</link>
+      <description><![CDATA[      https://preview.redd.it/t45bikppakvd1.png?width=3616&amp;format=png&amp;auto=webp&amp;s=ec759522a1ae69ecb61989a3b75189af73a7b738    提交人    /u/DenisYurchak   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g6ptff/working_on_an_app_where_you_can_try_out_all_major/</guid>
+      <pubDate>Fri, 18 Oct 2024 18:57:58 GMT</pubDate>
     </item>
     <item>
-      <title>我为 Unity 构建了一个基于聊天的界面，使游戏开发更快、更容易</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g6nigf/i_built_a_chatbased_interface_for_unity_to_make/</link>
-      <description><![CDATA[        由    /u/Josvdw  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g6nigf/i_built_a_chatbased_interface_for_unity_to_make/</guid>
-      <pubDate>Fri, 18 Oct 2024 17:19:05 GMT</pubDate>
+      <title>Chrome 扩展程序可让你从浏览器主页跟踪日常任务</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g6pq46/a_chrome_extension_that_lets_you_track_your_daily/</link>
+      <description><![CDATA[我很久以来就对 Chrome 扩展程序感兴趣，但从未真正探索过它。自 8 月以来，我每个月都会开发一个 Chrome 扩展程序。我想开发我个人喜欢使用的 Chrome 扩展程序。  8 月，我开发了 WikiZen 来清理维基百科 UI。 9 月，我开发了 All Images Downloader，它的功能与标题所示完全一致。它可以帮助人们从网页下载所有高质量图像。 10 月，我意识到我想要一个习惯追踪器，但我不喜欢每次想要将任务标记为当天完成时导航到不同网站的想法。因此，我创建了 momentum，它接管了 Chrome 上的默认主页，并允许您添加要跟踪的任务。跟踪机制非常简单，用户界面非常简单，想法也非常简单。  所有这些都是免费的，我创建它们是因为我认为人们会发现它们很有用。另外，我想提高我的扩展开发技能。我对 WikiZen 只有一个 5 星评价（感觉就像我收到了 100 颗星 XD）。 请随意试用这些扩展，并让我知道任何反馈。    提交人    /u/towardsandbeyond   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g6pq46/a_chrome_extension_that_lets_you_track_your_daily/</guid>
+      <pubDate>Fri, 18 Oct 2024 18:53:58 GMT</pubDate>
     </item>
     <item>
-      <title>使用 React 构建电子商务</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g6nabu/building_ecommerce_with_react/</link>
-      <description><![CDATA[大家好，作为一名开发人员，我不想被 Shopify 模板所束缚，也不想将他们的店面 API 与自定义应用程序一起使用。我希望手头有一个完全可定制的解决方案，我可以按照自己想要的方式进行调整。从 ui/ux、db、后端、api、身份验证、托管等等。因此，我使用 React、Next.js、MongoDB 和 Stripe 构建了一个完全可定制的解决方案来进行支付。 您可以在此处找到演示链接：https://wexcommerce.dynv6.net:8002 源代码在这里：https://github.com/aelassas/wexcommerce 使用以下解决方案，您可以以非常低的成本构建一个功能齐全的电子商务网站，该网站使用 Stripe 支付网关进行 SEO 优化，只需将其托管在具有至少 1GB RAM 的 Docker droplet 上即可。 欢迎您提供任何反馈。    提交人    /u/AdUnhappy5308   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g6nabu/building_ecommerce_with_react/</guid>
-      <pubDate>Fri, 18 Oct 2024 17:09:26 GMT</pubDate>
+      <title>我可以将 YouTube API 用于我的业务吗？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g6ppz4/can_i_use_youtube_api_for_my_business/</link>
+      <description><![CDATA[需要成绩单的 Youtube 摘要器：  您可以将官方 YouTube API 中的成绩单用于创收网站吗？ 增加配额限制有多容易？     提交人    /u/Harry33893020   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g6ppz4/can_i_use_youtube_api_for_my_business/</guid>
+      <pubDate>Fri, 18 Oct 2024 18:53:47 GMT</pubDate>
     </item>
     <item>
-      <title>我正在开发一个智能图表编辑器😅</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g6n8wn/i_am_building_a_smart_diagramming_editor/</link>
-      <description><![CDATA[你好！ 作为一名软件工程师，我正在构建 https://gg-charts.com 以满足我自己的需求，我希望它也能帮助你向你的同行传达复杂的想法！ 当有大量的图表工具存在时，我构建这个的原因是我经常想快速创建复杂的图表，但是到目前为止我使用的所有工具都妨碍了这一点：  我喜欢“关注内容，而不是布局”文本到图表的方法，但我总是忘记它们的语法，所以我花了太多时间在他们的文档上。 我想轻松绘制深度嵌套的系统（例如：k8s pod 中 Web 服务器中控制器中的处理程序...）。 我想绘制避免互相接触的框和线，当我移动东西时，我不想花时间修复布局。 我可以接受盒子和线，我不想使用正式的 UML 或绘制许多不同的形状，我不是艺术家。  底线是，我想以思维的速度绘制图表，并且我以这种心态构建 gg。 此外，我想构建一个您将拥有的软件：免费、开源、无需分析或跟踪、离线优先、在土豆上运行、桌面版...您知道，任何好的软件都应该如此。 我还没有实现所有目标，但我想今天我想向您展示我所得到的东西并收集一些 v1 的反馈（您可以在我的 Github 页面上关注）。 干杯！    提交人    /u/gg-charts-dot-com   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g6n8wn/i_am_building_a_smart_diagramming_editor/</guid>
-      <pubDate>Fri, 18 Oct 2024 17:07:41 GMT</pubDate>
+      <title>有人有兴趣启动这样的项目吗？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g6pjyd/anyone_interested_in_starting_a_project_like_this/</link>
+      <description><![CDATA[内部数据库 为什么它很重要？ 在未来几年，从技术 saas 到律师事务所的每一家企业/公司都需要他们的代理来自动生成响应、知识库等。自定义 GPT 但使用内部数据进行训练 这里的核心问题是什么？ 生成可供 gpts 用于其知识图谱的高质量数据是乏味的。没有人愿意写这些东西，但目前别无选择。无论如何，没有人有代理，但很快每个人都会要求一个。（希望如此） 可能的解决方案？ 为了补充不足的文档，如果录音/成绩单用于生成问答对并最终生成知识图谱（我们的大脑如何构建信息），会怎样？在流程中使用反馈，组织只需要批准通话后生成的相关问答对。最后，将为组织生成实时更新且正确的数据。 主要挑战是什么？ 我认为要求人们记录对话/会议可能会很棘手。有些人确实使用自动笔记记录器记录会议，但不确定有多少用户愿意这样做。此外，仅通过对话，如果没有人们谈论的极端背景，可能很难生成图表 有人试图解决知识创造问题吗？    提交人    /u/divyamchandel   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g6pjyd/anyone_interested_in_starting_a_project_like_this/</guid>
+      <pubDate>Fri, 18 Oct 2024 18:46:35 GMT</pubDate>
     </item>
     <item>
-      <title>我建立了一个平台，以便于轻松找到基本面强劲的股票，利用它们制定策略，并部署它们进行模拟交易</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g6n6cw/i_built_a_platform_to_make_it_easy_to_find/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g6n6cw/i_built_a_platform_to_make_it_easy_to_find/</guid>
-      <pubDate>Fri, 18 Oct 2024 17:04:34 GMT</pubDate>
+      <title>我的 PH 发布很糟糕......8 次查看...所以我为公平而建。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g6pi8p/i_had_terrible_ph_launch_8_views_so_i_built_for/</link>
+      <description><![CDATA[        提交人    /u/denizhadzh   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g6pi8p/i_had_terrible_ph_launch_8_views_so_i_built_for/</guid>
+      <pubDate>Fri, 18 Oct 2024 18:44:30 GMT</pubDate>
     </item>
     <item>
-      <title>我对支付 SEO 工具感到沮丧，所以我自己开发了一个</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g6mt6x/i_got_frustrated_paying_for_seo_tools_so_i_built/</link>
-      <description><![CDATA[      过去 5 年，我一直在开发软件产品。 在开始新项目之前，我总是先进行关键字研究、趋势分析等，以检查我所构建的内容是否是人们真正在搜索的内容。这有助于我：  排除市场很小的想法。 确认我没有构建没人想要的东西  我遇到的最大挫折之一是，为了做到这一点，我不得不每隔一个月向一些大型 SEO 公司支付 100 美元以上！我想要的是一个可以给我提供以下功能的平台：  通过直观的用户界面访问高质量的 SEO 数据 价格适中，适合短期使用  搜索了一段时间后，没有找到适合我需求的好产品，我决定构建自己的产品。我将其命名为 snowSEO.com，这是一个只需一次性付款即可进行无限制关键字研究的工具。 我决定以 49 美元的价格终身提供该产品，无需定期订阅或任何其他费用。 永远属于您，适用于无限项目 ❤️ 我正在全职从事这项工作并不断推出新功能。我计划接下来添加“排名跟踪”和“网站审核”。 在不久的将来，我计划将其打造成一个拥有全套工具的成熟 SEO 和 LLM-SEO 平台。当然，当前用户也可以访问所有未来的更新。 我附上了一个视频演示，如果您有任何反馈、疑问甚至功能请求，请告诉我。    提交人    /u/haxor_404   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g6mt6x/i_got_frustrated_paying_for_seo_tools_so_i_built/</guid>
-      <pubDate>Fri, 18 Oct 2024 16:49:11 GMT</pubDate>
+      <title>我为 Gumroad 构建了分析工具</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g6ph7y/i_built_analytics_tool_for_gumroad/</link>
+      <description><![CDATA[大家好！ 我花了很多时间试图弄清楚：  我应该销售什么样的产品？ 哪个细分市场最适合定位？ 哪些产品值得加盟？ 产品的合理价格是多少？ 目前哪些细分市场比较流行？  为了帮助回答这些问题，我创建了一个名为 Gumroad Trends 的附带项目。 我希望此工具能够帮助创作者、加盟商以及任何销售数字产品的人更好地了解市场。 非常希望收到您的反馈、建议，甚至只是想聊聊数字产品销售！ 给我发私信！     由    /u/ecommerce_it 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g6ph7y/i_built_analytics_tool_for_gumroad/</guid>
+      <pubDate>Fri, 18 Oct 2024 18:43:13 GMT</pubDate>
     </item>
     <item>
-      <title>利用人工智能进行医疗保健的想法</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g6mfkz/ideas_for_healthcare_with_ai/</link>
-      <description><![CDATA[伙计们，我是一名拥有不同 saas 的程序员。但最近有人让我建立一个新的 Ai 项目来解决医疗保健问题。但由于我之前没有进入医疗保健行业（我之前没有在医疗保健公司工作过），我需要你告诉我你的问题和困难，这些问题和困难可以通过人工智能或整体编程来解决。    提交人    /u/Accomplished_Case649   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g6mfkz/ideas_for_healthcare_with_ai/</guid>
-      <pubDate>Fri, 18 Oct 2024 16:33:01 GMT</pubDate>
+      <title>我创建了一个可视化笔记和写作工具 – notemap.com</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g6ozss/i_built_a_visual_notetaking_and_writing_tool/</link>
+      <description><![CDATA[我大量使用思维导图，从准备大纲到撰写文章、跟踪任务/项目等等。 我一直想要一个由键盘驱动的工具，具有进度跟踪功能，允许记笔记，以各种格式导出书面内容，提供更好的页面/类别分类选项，等等。我找不到一个可以满足所有要求的工具，所以我决定构建一个名为 Notemap 的工具。 这是一个快速演示，涵盖了部分功能。 我还有很多计划，并计划继续扩展它。请告诉我你的想法！    提交人    /u/kamranahmed_se   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g6ozss/i_built_a_visual_notetaking_and_writing_tool/</guid>
+      <pubDate>Fri, 18 Oct 2024 18:22:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
