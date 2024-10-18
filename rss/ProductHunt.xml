@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Fri, 18 Oct 2024 01:09:40 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Oct 2024 03:22:50 GMT</lastBuildDate>
     <item>
       <title>适用于 iOS 的 Groq</title>
       <link>https://www.producthunt.com/posts/groq-for-ios</link>
@@ -34,18 +34,18 @@
       <pubDate>Wed, 16 Oct 2024 19:14:13 GMT</pubDate>
     </item>
     <item>
-      <title>棱镜</title>
-      <link>https://www.producthunt.com/posts/prismy-2</link>
+      <title>Airtable 产品中心</title>
+      <link>https://www.producthunt.com/posts/airtable-productcentral</link>
       <description><![CDATA[
-GitHub 原生，面向开发和产品团队的 AI 本地化
+Airtable 的端到端产品运营解决方案
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/prismy-2</guid>
-      <pubDate>Wed, 16 Oct 2024 15:21:38 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/airtable-productcentral</guid>
+      <pubDate>Wed, 16 Oct 2024 17:35:26 GMT</pubDate>
     </item>
     <item>
       <title>我的手机在伦敦安全吗？</title>
@@ -60,34 +60,6 @@ GitHub 原生，面向开发和产品团队的 AI 本地化
 ]]></description>
       <guid>https://www.producthunt.com/posts/is-my-phone-safe-in-london</guid>
       <pubDate>Wed, 16 Oct 2024 09:33:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>智能发票</title>
-      <link>https://www.producthunt.com/posts/smart-invoices</link>
-      <description><![CDATA[
-第一个由人工智能驱动的发票助手
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/smart-invoices</guid>
-      <pubDate>Wed, 16 Oct 2024 07:48:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>ImageKit 的 AI 转换</title>
-      <link>https://www.producthunt.com/posts/ai-transformations-by-imagekit</link>
-      <description><![CDATA[
-通过基于 URL 的 API 在地址栏中创建 + 编辑图像
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/ai-transformations-by-imagekit</guid>
-      <pubDate>Wed, 16 Oct 2024 02:15:14 GMT</pubDate>
     </item>
     <item>
       <title>HomeKit 的家用电池</title>
@@ -188,7 +160,7 @@ MVP 阶段项目的联合创始人股权协议
       <pubDate>Sat, 12 Oct 2024 02:31:28 GMT</pubDate>
     </item>
     <item>
-      <title>还验证</title>
+      <title>并授权</title>
       <link>https://www.producthunt.com/posts/nango-auth</link>
       <description><![CDATA[
 250 多个 API 的免费 OAuth
@@ -200,6 +172,20 @@ MVP 阶段项目的联合创始人股权协议
 ]]></description>
       <guid>https://www.producthunt.com/posts/nango-auth</guid>
       <pubDate>Wed, 09 Oct 2024 09:54:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>羊乳酪</title>
+      <link>https://www.producthunt.com/posts/feta</link>
+      <description><![CDATA[
+开展站立会议、回顾会议和同步会议的更好方法
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/feta</guid>
+      <pubDate>Mon, 07 Oct 2024 07:52:26 GMT</pubDate>
     </item>
     <item>
       <title>码蚁AI</title>
@@ -214,6 +200,20 @@ MVP 阶段项目的联合创始人股权协议
 ]]></description>
       <guid>https://www.producthunt.com/posts/codeant-ai-2</guid>
       <pubDate>Wed, 02 Oct 2024 16:56:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Prisma 优化</title>
+      <link>https://www.producthunt.com/posts/prisma-optimize-2</link>
+      <description><![CDATA[
+AI 驱动的查询分析
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/prisma-optimize-2</guid>
+      <pubDate>Mon, 30 Sep 2024 18:12:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
