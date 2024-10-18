@@ -4,7 +4,91 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Fri, 18 Oct 2024 06:21:01 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Oct 2024 09:16:26 GMT</lastBuildDate>
+    <item>
+      <title>我一直在研究 Domain Patroller——一个强大的平台，旨在帮助 IT 专业人员、企业主和域名管理员轻松跟踪他们的域名。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g6dtxu/ive_been_working_on_called_domain_patroller_a/</link>
+      <description><![CDATA[        由    /u/richhickson   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g6dtxu/ive_been_working_on_called_domain_patroller_a/</guid>
+      <pubDate>Fri, 18 Oct 2024 09:13:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>照片清理应用程序||减少内存占用，清理相机胶卷中的重复、相似、模糊的照片或其他杂乱照片✨</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g6djdh/photo_cleaner_app_reduce_memory_footprint_clean/</link>
+      <description><![CDATA[        提交人    /u/Bundisss   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g6djdh/photo_cleaner_app_reduce_memory_footprint_clean/</guid>
+      <pubDate>Fri, 18 Oct 2024 08:51:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>创建我自己的账单分割器（FastAPI 和 Vue3）</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g6d5ns/creating_my_own_bill_splitter_fastapi_vue3/</link>
+      <description><![CDATA[几个月前，我们和三个朋友一起去旅行。我们设法使用 S*******e 分摊账单。但是，出于某种原因，除非您订阅高级会员，否则我们无法添加一天的任何交易。由于这种情况，我决定创建自己的账单分割器，以便可以添加任意数量的交易。  这是一个非常简单的应用程序，内置 FastAPI 和 Vue，完全自动部署到 github 工作流中定义的 DigitalOcean droplet。FE 和 BE 是容器化的，易于维护。但很多事情需要改进。  如果有人感兴趣或者只是愿意看一看，真的很感激。☕️ https://github.com/rezpaditya/Urunan   由    /u/KARP_29  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g6d5ns/creating_my_own_bill_splitter_fastapi_vue3/</guid>
+      <pubDate>Fri, 18 Oct 2024 08:20:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>吐槽点：WhatsApp 内容平台</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g6d2ui/roast_idea_whatsapp_for_content_platform/</link>
+      <description><![CDATA[  由    /u/DisasterAccurate7413  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g6d2ui/roast_idea_whatsapp_for_content_platform/</guid>
+      <pubDate>Fri, 18 Oct 2024 08:14:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Moodji - 让你心情更愉悦的私人指南</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g6d0rt/moodji_your_personal_guide_to_a_better_mood/</link>
+      <description><![CDATA[      大家好！🎉 这个项目的历程漫长而充满挑战，但我很高兴终于将我的想法变成了现实。这是我作为开发人员的第一个项目，对我来说是一个重要的里程碑！ 🌟 我真心希望可以继续朝着正确的方向发展，让它对人们有用。 https://apps.apple.com/us/app/moodji-improve-your-mood/id6476465852  Moodji 是一款情绪追踪应用，可帮助用户记录自己的情绪、分析情绪并找到改善情绪状态的方法。我的目标是让它成为您更好地了解自己并找到更积极、更平衡情绪的途径的个人指南。 💫 https://preview.redd.it/9x27sade3hvd1.png?width=1300&amp;format=png&amp;auto=webp&amp;s=c87e42265723f652bbe3265f8077678c065abe4f 我很乐意听到您的反馈和建议，以使 Moodji 变得更好，对您更有帮助！💬😊    由    /u/Responsible_Sand_607  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g6d0rt/moodji_your_personal_guide_to_a_better_mood/</guid>
+      <pubDate>Fri, 18 Oct 2024 08:10:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Moodji - 让你心情更愉悦的私人指南</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g6czic/moodji_your_personal_guide_to_a_better_mood/</link>
+      <description><![CDATA[      大家好！🎉 https://preview.redd.it/qdjiyr3v2hvd1.png?width=1300&amp;format=png&amp;auto=webp&amp;s=80efcdcb73bcae07cd856a34bd473447bf6aaec8 这个项目的历程漫长而充满挑战，但我很高兴终于能够将我的想法变成现实。这是我作为开发人员的第一个项目，对我来说是一个重要的里程碑！🌟我真的希望我能继续朝着正确的方向发展，让它对人们有用。 https://apps.apple.com/us/app/moodji-improve-your-mood/id6476465852  Moodji 是一款情绪跟踪应用程序，可帮助用户记录他们的情绪、分析情绪并找到改善情绪状态的方法。我的目标是让它成为您更好地了解自己并找到更积极和平衡情绪的道路的个人指南。💫 我很乐意听到您的反馈和建议，让 Moodji 变得更好，对您更有帮助！ 💬😊    由   提交  /u/Responsible_Sand_607   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g6czic/moodji_your_personal_guide_to_a_better_mood/</guid>
+      <pubDate>Fri, 18 Oct 2024 08:07:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一款 iOS 应用，它使用 Spotify 自动为你制作完美的跑步播放列表！🎶</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g6cyd5/i_made_an_ios_app_that_uses_spotify_to/</link>
+      <description><![CDATA[        提交人    /u/risquer   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g6cyd5/i_made_an_ios_app_that_uses_spotify_to/</guid>
+      <pubDate>Fri, 18 Oct 2024 08:05:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Moodji - 让你心情更愉悦的私人指南</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g6cxwl/moodji_your_personal_guide_to_a_better_mood/</link>
+      <description><![CDATA[      https://preview.redd.it/ri17hfqa2hvd1.png?width=1300&amp;format=png&amp;auto=webp&amp;s=402aa90d469a2b8ae82b8a499b455c430ada485b https://apps.apple.com/us/app/moodji-improve-your-mood/id6476465852 Moodji 是一款情绪追踪应用，可以帮助用户记录自己的情绪，进行分析，并找到改善情绪状态的方法。    提交人    /u/Responsible_Sand_607   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g6cxwl/moodji_your_personal_guide_to_a_better_mood/</guid>
+      <pubDate>Fri, 18 Oct 2024 08:04:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>介绍 launching.today：Product Hunt，去掉丑陋的部分。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g6cpkv/introducing_launchingtoday_product_hunt_minus_the/</link>
+      <description><![CDATA[        提交人    /u/Okweekend2000   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g6cpkv/introducing_launchingtoday_product_hunt_minus_the/</guid>
+      <pubDate>Fri, 18 Oct 2024 07:45:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ultralight PourOver 现已上线！（现为 Monarch Brewer）</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g6cj9z/ultralight_pourover_is_live_now_monarch_brewer/</link>
+      <description><![CDATA[      大家好，相当多的人都对 Ultralight PourOver 感到很兴奋，所以它现在上市了！现在它也是 Monarch Brewer！  此变体采用可堆肥的生物聚合物框架，重量仅为 15 克。  免费送货 :)  https://monarch.cargo.site    提交人    /u/hm_rsrchndev   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g6cj9z/ultralight_pourover_is_live_now_monarch_brewer/</guid>
+      <pubDate>Fri, 18 Oct 2024 07:31:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的项目将帮助你为你的下一个项目选择完美的技术堆栈</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g6cc8g/my_project_will_help_you_pick_the_perfect_tech/</link>
+      <description><![CDATA[        由    /u/ButterscotchNo3385   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g6cc8g/my_project_will_help_you_pick_the_perfect_tech/</guid>
+      <pubDate>Fri, 18 Oct 2024 07:16:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>我开发了一个全天候回复的人工智能，将社交提及转化为销售</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g6bo2l/i_built_an_ai_that_replies_247_to_turn_social/</link>
+      <description><![CDATA[    /u/AITrends101   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g6bo2l/i_built_an_ai_that_replies_247_to_turn_social/</guid>
+      <pubDate>Fri, 18 Oct 2024 06:24:53 GMT</pubDate>
+    </item>
     <item>
       <title>打算开发一个付费浏览器扩展。有人有营销/发布经验吗？</title>
       <link>https://www.reddit.com/r/SideProject/comments/1g6b8bw/gonna_build_a_paid_browser_extension_does_anyone/</link>
@@ -25,90 +109,6 @@
       <description><![CDATA[寻求类似于 Myntra/Meeso 的电子商务初创公司的开发人员和成本估算。要求包括用户身份验证、产品目录、购物车、支付网关以及与支付网关、社交媒体和物流提供商的集成。请直接发信息给我： •⁠ ⁠开发成本估算 •⁠ ⁠技术堆栈建议 •⁠ ⁠经验丰富的开发团队/机构 •⁠ ⁠项目时间表指导 谢谢    提交人    /u/Beneficial_Nothing97   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1g6ao3j/help_me_with_building_application/</guid>
       <pubDate>Fri, 18 Oct 2024 05:14:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个工具来寻找顶级 YouTuber</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g6alet/i_make_a_tool_to_find_top_niche_youtubers/</link>
-      <description><![CDATA[      它使用 AI 机器人扫描 YouTube 频道，并让您搜索任何利基关键字来找到它们。 Niche YouTuber Finder  https://preview.redd.it/tl4u2dc57gvd1.png?width=2032&amp;format=png&amp;auto=webp&amp;s=79f1a3af93ebe4f12449e5bc0465bca0c611ef3d    提交人    /u/leo_zhao_jun   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g6alet/i_make_a_tool_to_find_top_niche_youtubers/</guid>
-      <pubDate>Fri, 18 Oct 2024 05:09:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>我发起了产品搜索 2.0</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g6a3sm/i_launched_a_product_hunt_20/</link>
-      <description><![CDATA[老实说，更像是 -5.0，但是您还能从哪里开始呢？ 希望得到一些反馈！ https://productrise.io    提交人    /u/pango07   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g6a3sm/i_launched_a_product_hunt_20/</guid>
-      <pubDate>Fri, 18 Oct 2024 04:37:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人正在研究政治拦截器吗？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g6a2zh/anyone_working_on_a_political_blocker/</link>
-      <description><![CDATA[我只是厌倦了在所有平台上每隔一个帖子都看到它。我会为此付费。    提交人    /u/cartiermartyr   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g6a2zh/anyone_working_on_a_political_blocker/</guid>
-      <pubDate>Fri, 18 Oct 2024 04:35:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>向离婚企业主寻求见解：你的经验很重要</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g6a1op/seeking_insights_from_divorced_business_owners/</link>
-      <description><![CDATA[各位 Reddit 用户，大家好， 我是一名 43 岁男性，最近刚刚当上爸爸。我是一名结果教练，我一直参与房地产投资，这使我在过去 8 年里指导他人如何成功投资房地产。 巧合的是，我发现我有很多客户经历过或正在经历离婚，他们想要重建生活。 因为我想帮助更多经历过这种经历的人重新振作起来，回到离婚前的状态，甚至更好，所以我写了这篇文章。我正在开展研究，以更好地了解和支持因离婚而经历重大生活变化的企业主。  如果您是企业主：  生活舒适，正在为退休做准备 最近经历了一场离婚，这让您的世界天翻地覆 愿意分享您的经历和挑战  我将非常感激有机会在 Zoom 上私下听取您的故事。您的见解对于帮助其他人应对类似情况非常有价值。 我提供的回报： 作为研究过重大生活变化对情感和财务影响的人，我很乐意提供我的专业知识。我可以提供处理以下问题的见解和资源：  愤怒、沮丧和不确定性 重建自尊和自信 应对离婚后的财务挑战 重新获得安全感和自由感的策略  这是一个无偏见的空间。您的经历，无论好坏，都是对这项研究的宝贵贡献。 如果您有兴趣参与或认识可能有兴趣的人，请在下面评论或直接发信息给我。所有对话都将严格保密。我将总结我的发现，以更好地帮助这个社区和任何可能正在经历类似经历的人。 感谢您的考虑。你的故事可能会对别人的旅程产生真正的影响。    提交人    /u/Results_Coach_MM   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g6a1op/seeking_insights_from_divorced_business_owners/</guid>
-      <pubDate>Fri, 18 Oct 2024 04:33:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>GOAT：一键摘要器</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g69ss4/goat_1click_summarizer/</link>
-      <description><![CDATA[      大家好， 我们构建了一个总结器。它是一个 chrome 扩展；单击任何页面，几分钟后你就会吸收该页面上所有有用的内容。 我们相信知识不应该是一种奢侈品 - 它应该是即时的和毫不费力的。我们还处于早期阶段，所以请大家批评指正，直到我们创造出绝对伟大的东西 :) https://preview.redd.it/qfautmgayfvd1.png?width=2560&amp;format=png&amp;auto=webp&amp;s=7ffee9c8a9b71311daf843eec47da1cf1e5ebcbe    提交人    /u/Dry_Way2430   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g69ss4/goat_1click_summarizer/</guid>
-      <pubDate>Fri, 18 Oct 2024 04:17:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>我为我的日记应用程序添加了一个心情选择器。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g69q35/i_added_a_mood_picker_for_my_journaling_app/</link>
-      <description><![CDATA[        提交人    /u/Slow_Basket_5624   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g69q35/i_added_a_mood_picker_for_my_journaling_app/</guid>
-      <pubDate>Fri, 18 Oct 2024 04:13:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>我建立了一个副项目来为客户扫描 reddit 和 twitter，创建洞察报告和提及，现在接近 1k MRR，处理了 30k 个提及。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g68r73/i_built_a_sideproject_to_scan_reddit_twitter_for/</link>
-      <description><![CDATA[https://socialsignalai.com SocialSignal AI 链接    由   提交  /u/pilotcodex   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g68r73/i_built_a_sideproject_to_scan_reddit_twitter_for/</guid>
-      <pubDate>Fri, 18 Oct 2024 03:15:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>试用 QuickReply AI – 一款为您的图像和文本制作回复的应用程序！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g68dsk/try_out_quickreply_ai_an_app_that_crafts_replies/</link>
-      <description><![CDATA[嘿 Reddit！ 我开发了一款名为 QuickReply AI 的应用，我正在寻找一些用户来试用并分享他们的想法。这个想法很简单：您上传一条短信的图片（或任何图像，例如您的宠物的照片），然后该应用使用 AI 生成合适的回复。 QuickReply AI 是什么？  AI 驱动的回复：该应用使用高级 AI 来分析图像和文本，以创建适合上下文的响应。 以隐私为中心：一切都发生在您的设备上，不会向外部发送任何数据。 用户友好：它的设计非常简单明了。上传图片，即可快速获得回复。  为什么要尝试？  这是一种与消息和照片互动的酷方式，无需过多考虑回复。 它可以成为增强日常聊天的有趣工具。 我真诚地希望得到您的反馈，以使其变得更好。  如果您对此感兴趣，我将非常感激您能下载 QuickReply AI 并告诉我它对您有何帮助。您喜欢它什么？可以改进什么？您的反馈非常有价值，将有助于塑造应用程序的未来。 在此处下载 非常感谢您的帮助，我期待听到您的想法！    提交人    /u/Substantial-Gur-2821   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g68dsk/try_out_quickreply_ai_an_app_that_crafts_replies/</guid>
-      <pubDate>Fri, 18 Oct 2024 02:54:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>节点板更新</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g686bo/nodeboard_update/</link>
-      <description><![CDATA[我创建了 nodeboard 我从事 IT 行业已有 20 年了，在每一份工作中，我都发现资产跟踪/管理要么被破坏，要么无人维护，要么由于工具定价而不存在，电子表格有 20 个版本，或者所有者使用 Apple Numbers 来跟踪所有内容 - 是的，Numbers。 Nodeboard 简单易用，允许您容纳所需或想要的任意数量的成员和节点，并且有一个 REST api，如果您想获得“额外的花哨”，可以针对它编写代码。 更新：前 100 个节点是免费的，之后如果您需要跟踪更多节点，则每月需支付 5 美元，但更多节点则不受限制。我不在乎您是否需要跟踪 300 个公司网站、500 台服务器或 30 台笔记本电脑。 nodeboard 简化了 IT 团队、人力资源部门和技术爱好者的数字资产管理。从单一平台清点和跟踪所有服务器、工作站和 Web 服务。 https://nodeboard.io     提交人    /u/One-Frame-4011   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g686bo/nodeboard_update/</guid>
-      <pubDate>Fri, 18 Oct 2024 02:43:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>DogYearsIO - 狗狗年龄计算器和人工智能生成的个性化健康计划</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g681gi/dogyearsio_dog_age_calculator_aigenerated/</link>
-      <description><![CDATA[一个由人工智能驱动的平台， 计算您狗的人类年龄。 生成重点介绍营养、运动和常见健康问题的报告。 查看广泛且不断扩展的狗狗数据库，了解品种特定特征、一般信息和潜在健康问题。 哦，还有博客方面！ 工作正在进行中，欢迎 110% 的反馈 https://dogyears.io    提交人    /u/charles_ae   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g681gi/dogyearsio_dog_age_calculator_aigenerated/</guid>
-      <pubDate>Fri, 18 Oct 2024 02:36:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>Dontbedumb - 人工智能政治事实核查器（免费、开源）</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g6730h/dontbedumb_ai_political_fact_checker_free_open/</link>
-      <description><![CDATA[        由    /u/arnabing 提交   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g6730h/dontbedumb_ai_political_fact_checker_free_open/</guid>
-      <pubDate>Fri, 18 Oct 2024 01:44:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sveltick@1.7.0 - 添加了可在 Svelte 应用中跟踪的流量指标</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g66ras/sveltick170_added_traffic_metrics_to_track_in/</link>
-      <description><![CDATA[大家好，我刚刚发布了 Sveltick 的更新。 我添加了全新的流量指标。现在您还可以跟踪用户点击次数最多、浏览次数最多的内容以及访问您页面的人数。 （以及它们从哪个来源进入您的网站） 这样做很痛苦，所以我希望你至少会喜欢它：D NPM： https://www.npmjs.com/package/sveltick Github： https://github.com/Adam014/sveltick 此外，Sveltick + 仪表板的文档设计正在进行中。 Sveltick@1.7.0    提交人    /u/kindast1   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g66ras/sveltick170_added_traffic_metrics_to_track_in/</guid>
-      <pubDate>Fri, 18 Oct 2024 01:26:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
