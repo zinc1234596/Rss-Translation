@@ -4,7 +4,21 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Sun, 20 Oct 2024 01:14:57 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Oct 2024 03:25:15 GMT</lastBuildDate>
+    <item>
+      <title>我创建了 octree.io，这是一个你可以和朋友一起解决 Leetcode 风格问题的平台</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g7osa4/i_built_octreeio_a_platform_where_you_can_solve/</link>
+      <description><![CDATA[你好！ 我创建了 octree.io，这是一个网站，您可以在其中与朋友在房间里解决 Leetcode 风格的面试问题。它还有一个正在开发的琐事功能，您可以在其中加载任何您想要的问题集，在房间里写下答案，然后 AI 会为您评分。 我做这个是因为我很快就要开始面试准备了，曾经有一个名为 binarysearch.io 的网站，它的概念相同，但不幸的是它消失了。 它也是开源的！您可以在 https://github.com/octree-io/octree.io 查看它。 查看它并告诉我你的想法！   由    /u/ihatecoreclasses  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g7osa4/i_built_octreeio_a_platform_where_you_can_solve/</guid>
+      <pubDate>Sun, 20 Oct 2024 02:22:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>费用 - 您所见过的最直观、最漂亮的财务追踪器。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g7nzz0/expenses_the_most_intuitve_and_beautiful_finance/</link>
+      <description><![CDATA[        由    /u/saifcodes  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g7nzz0/expenses_the_most_intuitve_and_beautiful_finance/</guid>
+      <pubDate>Sun, 20 Oct 2024 01:38:10 GMT</pubDate>
+    </item>
     <item>
       <title>主题细分——第一性原理学习</title>
       <link>https://www.reddit.com/r/SideProject/comments/1g7n9hj/topic_breakdown_first_principle_learning/</link>
@@ -57,7 +71,7 @@
     <item>
       <title>这是我在 24 小时内逐步构建 ai Waifu 代理的方法：</title>
       <link>https://www.reddit.com/r/SideProject/comments/1g7k38w/heres_how_im_building_an_ai_waifu_agent_in_24/</link>
-      <description><![CDATA[[第 1 小时] 目标是在 EOD 之前启动并运行实时聊天机器人 Web 应用程序  下面是我们构建人工智能代理的方法： @OpenAI 实时控制台 API + @vercel + TBD  我们走吧！    提交人    /u/jdOGsupreme   [链接] [评论]]]></description>
+      <description><![CDATA[[第 1 小时] 目标是在 EOD 之前启动并运行实时聊天机器人 Web 应用程序  下面是我们构建 ai 代理的方法： @OpenAI 实时控制台 API + @vercel + TBD  我们走吧！    提交人    /u/jdOGsupreme   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1g7k38w/heres_how_im_building_an_ai_waifu_agent_in_24/</guid>
       <pubDate>Sat, 19 Oct 2024 22:13:29 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[大家好！我最近开始着手一个新的 NFT 项目，我希望让它尽可能地方便用户使用和有趣。由于我还处于早期阶段，我想我会问社区：您希望当前的 NFT 平台拥有哪些功能？或者，您是否遇到了一些特定的痛点，导致体验不那么愉快？ 我想看看是否有任何我可以从一开始就构建或改进的东西。任何反馈，无论多小，都会非常有帮助。感谢您的任何意见！    提交人    /u/NFT_developer   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1g7j6ea/looking_for_feedback_for_an_nft_project_what/</guid>
       <pubDate>Sat, 19 Oct 2024 21:29:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>这款新的社交应用程序让您可以通过简单的绘画来表达一切！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g7izv7/this_new_social_app_lets_you_express_everything/</link>
-      <description><![CDATA[      想象一个社交应用，您无需文字、照片、视频、音频即可表达一切……只需绘制、分享和表达自己。 ✏️💭 还有很多工作要做，您的支持和反馈将是关键。 立即注册以获取独家早期访问权！➡️ https://www.brushpool.com    提交人    /u/Ok-Lake-6435   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g7izv7/this_new_social_app_lets_you_express_everything/</guid>
-      <pubDate>Sat, 19 Oct 2024 21:20:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 PostPocket 将滚动时间转化为生产力</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g7gp1i/turning_scrolltime_into_productivity_with/</link>
-      <description><![CDATA[      在准备面试时——处理 DSA、系统设计、简历技巧——我经常浏览 LinkedIn 和 Reddit，偶然发现很棒的建议和见解。问题是什么？我不想在旅行或随意浏览时失去注意力。我需要一种方法来保存这些帖子，以便在我准备好深入研究时使用。就在那时，我想到了 PostPocket——一款简单的应用程序，可让您保存来自任何应用程序的帖子，而不会打断您的滚动流程。您可以对它们进行分类，以便以后轻松访问。如果这听起来像你会用的东西，我很乐意听听你的反馈：也许它会帮助你组织工作、爱好或其他项目的帖子，就像它为我做的那样！    提交人    /u/Familiar_Today_423   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g7gp1i/turning_scrolltime_into_productivity_with/</guid>
-      <pubDate>Sat, 19 Oct 2024 19:31:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
