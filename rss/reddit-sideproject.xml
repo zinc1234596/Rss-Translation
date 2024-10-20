@@ -4,7 +4,77 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Sun, 20 Oct 2024 12:28:58 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Oct 2024 15:14:40 GMT</lastBuildDate>
+    <item>
+      <title>从 Express.js 迁移到 Fastify.js，从 MongoDB 迁移到 PostgreSQL — 我做出了正确的决定吗？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g80ggu/migrating_from_expressjs_to_fastifyjs_and_mongodb/</link>
+      <description><![CDATA[我正在将我的整个 Express.js 基础转换为 Fastify.js，并将数据库从 MongoDB 切换到 PostgreSQL。我做了正确的决定吗？期待有这些技术经验的人的反馈。    提交人    /u/Mediocre_Beyond8285   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g80ggu/migrating_from_expressjs_to_fastifyjs_and_mongodb/</guid>
+      <pubDate>Sun, 20 Oct 2024 14:51:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>我为独居或离家较远的年迈父母的成年人提供了每日签到服务（短信和电话）</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g7zlww/i_made_a_daily_checkin_service_sms_call_for/</link>
+      <description><![CDATA[        提交人    /u/ComfortableLess6596   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g7zlww/i_made_a_daily_checkin_service_sms_call_for/</guid>
+      <pubDate>Sun, 20 Oct 2024 14:12:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>我正在使用 SDL2 库在 C++ 中构建动画/数学可视化工具。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g7zenn/im_building_an_animationmathvisualisation_tool_in/</link>
+      <description><![CDATA[      2-d 螺旋动画为例： https://reddit.com/link/1g7zenn/video/j93kyidn3xvd1/player 源代码 您可以通过加注 github 存储库 来支持我。 欢迎并感谢任何贡献。    提交人    /u/mahdi_habibi   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g7zenn/im_building_an_animationmathvisualisation_tool_in/</guid>
+      <pubDate>Sun, 20 Oct 2024 14:02:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>为我的网络分析项目提供优势</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g7zasn/give_me_an_edge_for_my_web_analytics_project/</link>
+      <description><![CDATA[      我正在制作一个无 cookie 的网络分析工具。是的，我知道，名字很长。我认为 clwat 是简称…… 一开始我想为我的一个网站获取网络分析，我对分析主题很陌生，所以我选择了 Google Analytics。虽然用得不多，但数据也很多。过了一段时间，我意识到我网站上将近 40% 的用户不接受 cookie，因此不算作真实用户。 这时我意识到我需要以隐私为重点的网络分析，可以让我跳过 cookie 弹出窗口。但所有替代方案都太贵了，所以我自己创建了。现在我很快就准备好发布了。唯一的优势是我打算以比竞争对手便宜得多的价格出售它。每月 2 或 3 美元，可获得 60,000 次页面浏览量。 问题是我想进一步细分市场。我需要大多数网络分析所不提供的某种社交化功能。有没有人一直想要在他们的网络分析中添加一些非常具体的东西？ 到目前为止显示的数据：浏览量、当天的唯一用户、来源和页面。 可以很容易地添加浏览器 / 国家/地区。 如果您有兴趣跟踪旅程或建立联系，请在 X 上联系 @avfrosta    提交人    /u/Frozen-web   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g7zasn/give_me_an_edge_for_my_web_analytics_project/</guid>
+      <pubDate>Sun, 20 Oct 2024 13:57:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>吐槽我的业余项目：开发人员的路线图工具</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g7z9te/roast_my_side_project_roadmapping_tool_for/</link>
+      <description><![CDATA[大家好， 我正在专门为开发人员构建一个路线图工具。它不适用于团队或项目管理 - 只是开发人员与用户和粉丝分享项目进度的一种方式。 它跟踪里程碑，提供透明度并显示下一步。可以将其视为公共路线图，但专注于单个项目。 我遗漏了什么？这解决了实际问题吗？残酷一点！    提交人    /u/mkool-templates   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g7z9te/roast_my_side_project_roadmapping_tool_for/</guid>
+      <pubDate>Sun, 20 Oct 2024 13:56:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>我做了这个 saas：MultiMind.co – 同时比较多个 AI 模型以获得更好的洞察力</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g7z0gq/i_made_this_saas_multimindco_compare_multiple_ai/</link>
+      <description><![CDATA[我根据自己的需求创建了这个 SaaS。虽然我订阅了 ChatGPT，但有时我对它的响应并不完全满意。我想要一种方法来比较来自其他大型语言模型的答案，所以我做了这个 saas。 https://reddit.com/link/1g7z0gq/video/zpva17hu0xvd1/player 你可以尝试https://www.multimind.co/，欢迎提供反馈    提交人    /u/Jolly-Plankton-5140   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g7z0gq/i_made_this_saas_multimindco_compare_multiple_ai/</guid>
+      <pubDate>Sun, 20 Oct 2024 13:43:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>出售我的人工智能网站构建器</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g7yucv/selling_my_ai_website_builder/</link>
+      <description><![CDATA[这里列出了功能： 主要功能：  生成完整的网站 更新生成的网站的元素或部分 导出源代码 为网站生成链接  如果有人感兴趣，请在 dm 中告诉我    提交人    /u/Life-Log-9050   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g7yucv/selling_my_ai_website_builder/</guid>
+      <pubDate>Sun, 20 Oct 2024 13:35:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>在几秒钟内生成独特的名称和个人资料 - 限时优惠：免费获得终身套餐 🚀</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g7yka1/generate_unique_names_profiles_in_seconds_limited/</link>
+      <description><![CDATA[       由    /u/Aproachate  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g7yka1/generate_unique_names_profiles_in_seconds_limited/</guid>
+      <pubDate>Sun, 20 Oct 2024 13:21:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>基于 28k 个冷电子邮件联系人的销售额超过 16,000 美元；投资 720 美元购买电子邮件列表</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g7y9bt/more_than_16k_sales_based_on_28k_cold_email/</link>
+      <description><![CDATA[  由    /u/thomashoi2  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g7y9bt/more_than_16k_sales_based_on_28k_cold_email/</guid>
+      <pubDate>Sun, 20 Oct 2024 13:05:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>候补名单项目已完成</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g7y2p6/waitlist_project_completed/</link>
+      <description><![CDATA[大家好，我想分享一下我 17 岁时完成的项目。它叫做 https://brightfinance.vercel.app/，它是我想要验证的一个想法的候补名单。 技术栈： 前端：Next.js (Typescript)、Tailwind 后端：MongoDB 和 Typescript 我正在寻求反馈。谢谢！    提交人    /u/Fit-Construction-869   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g7y2p6/waitlist_project_completed/</guid>
+      <pubDate>Sun, 20 Oct 2024 12:56:21 GMT</pubDate>
+    </item>
     <item>
       <title>烤我的移动应用程序</title>
       <link>https://www.reddit.com/r/SideProject/comments/1g7xh9s/roast_my_mobile_app/</link>
@@ -39,76 +109,6 @@
       <description><![CDATA[大家好，我是 Rayid，一个 17 岁的独立黑客，热衷于构建东西。作为一名 Web 开发人员，我一直在努力从头开始设计网站。说实话，我并不擅长。和许多其他人一样，我也会从网络上寻找灵感。 但是，搜索无数网站以寻找完美的设计灵感很快就变得很麻烦。当然，我可以收藏网站或截取屏幕截图，但如何组织它们呢？一片混乱。我最终得到的是一堆混乱的图像和链接，当我最需要它们时，却无法导航。 就在那时，我想，一定有更好的方法。所以我开发了 Designshots，这是一个简单的浏览器扩展，可以截取网站的全页屏幕截图，并将它们存储在一个干净、有条理的平台中。 借助 Designshots，设计师和开发人员可以轻松地在一个地方捕获、保存和组织设计灵感，使创作过程更顺畅、更高效。无论您是在设计新网站还是仅仅收集想法，此工具都可以帮助您轻松创建令人惊叹、引人注目的网站。  您可以在这里查看：designshots.co    提交人    /u/tobi_tensei   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1g7ujmp/i_build_a_browser_extension_to_collect_design/</guid>
       <pubDate>Sun, 20 Oct 2024 09:01:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>经过两年的努力，我终于在 Reddit 上卖出了我的第一个许可证——非常感谢这个社区！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g7ugdc/after_2_years_of_struggling_i_finally_sold_my/</link>
-      <description><![CDATA[      https://preview.redd.it/8zknccz9lvvd1.jpg?width=3082&amp;format=pjpg&amp;auto=webp&amp;s=b583f911e58536e7d43cd0be267c26409ef66aa9 两年前，我创建了一个副项目——一个用于发送批量 WhatsApp 消息的工具——但很长一段时间我都难以实现任何销售时间。然而，在 Reddit 上分享后，我终于卖出了我的第一个许可证！ 我非常感谢这个了不起的社区使之成为可能。这是一个小里程碑，但对我来说意义重大，真的让我非常高兴。 如果您好奇，这里是该软件的网站和演示视频： 网站：whatsallsoftware.com 演示视频：YouTube    提交人    /u/lunkerdivesh   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g7ugdc/after_2_years_of_struggling_i_finally_sold_my/</guid>
-      <pubDate>Sun, 20 Oct 2024 08:54:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>我应该发货吗？目前可与 Paddle 配合使用。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g7u58u/should_i_ship_it_works_with_paddle_for_now/</link>
-      <description><![CDATA[        提交人    /u/mightyalexdesign   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g7u58u/should_i_ship_it_works_with_paddle_for_now/</guid>
-      <pubDate>Sun, 20 Oct 2024 08:30:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>作为一个最近爱上玩sprunki的人，我建了一个简单的网站，聚合了一些sprunki incredibox相关的游戏，让我玩得更兴奋</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g7u1h4/as_someone_who_has_recently_fallen_in_love_with/</link>
-      <description><![CDATA[  由    /u/MarionberryDry5557  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g7u1h4/as_someone_who_has_recently_fallen_in_love_with/</guid>
-      <pubDate>Sun, 20 Oct 2024 08:22:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>我开发了一个 Chrome 扩展程序，可以在几秒钟内为任何 YouTube 视频添加时间戳</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g7twdb/i_built_a_chrome_extension_that_adds_timestamps/</link>
-      <description><![CDATA[        由    /u/Top_Masterpiece8754   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g7twdb/i_built_a_chrome_extension_that_adds_timestamps/</guid>
-      <pubDate>Sun, 20 Oct 2024 08:10:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>根据您的反馈添加了免费积分并进行了销售</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g7tfx8/added_free_credits_after_your_feedback_and_got/</link>
-      <description><![CDATA[几天前，我在这里发布了关于我的产品 BoringLead.com 的信息。  收到了多个关于“为什么有人会在尝试之前付费”的反馈。 经过更多思考，我决定向现有用户添加免费积分，当新用户注册时，他们会自动获得免费积分以试用该平台。  在向现有用户添加积分后，我向他们发送了有关此事的电子邮件。 有些人打开了电子邮件。 Soke 尝试了。  我联系了所有尝试过该平台的用户。 一位用户在尝试该平台后购买了更多积分。  感谢您对免费积分的反馈🙏    提交人    /u/manojahi77   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g7tfx8/added_free_credits_after_your_feedback_and_got/</guid>
-      <pubDate>Sun, 20 Oct 2024 07:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能食品购物助手</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g7tdcp/aipowered_food_shopping_assistant/</link>
-      <description><![CDATA[FoodFit AI 是一款智能食品决策助手，可帮助您根据个人健康状况和饮食偏好对各种食物做出明智的选择。 请在此处查看：https://www.foodfitai.com/ 感谢您的反馈。    提交人    /u/onkarjanwa   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g7tdcp/aipowered_food_shopping_assistant/</guid>
-      <pubDate>Sun, 20 Oct 2024 07:30:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>Pic 2 Planet 今日在 Product Hunt 上线</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g7tcrt/launching_on_product_hunt_today_pic_2_planet/</link>
-      <description><![CDATA[        由    /u/CircleWork  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g7tcrt/launching_on_product_hunt_today_pic_2_planet/</guid>
-      <pubDate>Sun, 20 Oct 2024 07:29:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>我为 solopreneurs 制作了一个 SaaS 样板（当时我 16 岁）</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g7t4d5/i_made_a_saas_boilerplate_for_solopreneurs_as_a/</link>
-      <description><![CDATA[嗨，Reddit， 我在 16 岁时就制作了一个 Ruby on Rails SaaS 样板。 在我更快地启动初创企业的道路上，我遇到了很多技术问题，而且我在添加付款、SEO、谷歌登录等方面真的遇到了很多困难…… 这就是我决定创建 Locomotive 的原因，您可以在这里查看它，我很想知道你对评论的看法    提交人    /u/Minute_Cabinet_7827   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g7t4d5/i_made_a_saas_boilerplate_for_solopreneurs_as_a/</guid>
-      <pubDate>Sun, 20 Oct 2024 07:11:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>我应该启动吗？需要你的想法</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g7st52/should_i_launch_need_your_thoughts/</link>
-      <description><![CDATA[最近，一位名叫 Rexan Wong 的开发人员开发了一款很酷的文本隐藏图片应用程序，它允许您创建带有文本的现代缩略图 - 超酷！ 虽然我喜欢这个概念，但我觉得可以有更多的编辑选项和附加功能。因此，我汲取灵感并将其作为一个附带项目进行扩展，添加了新功能和工具。 该应用程序仍在开发中，可能存在一些错误，但我很乐意向您展示我迄今为止所构建的内容并获取您的反馈。 我还在考虑在 Product Hunt 上发布它，即使它还没有完全完成。我知道发布成品更好，但我相信早期发布可以帮助我在最终发布之前收集一些反馈和验证，因为我可以重新启动。 我很感激您对该应用程序的看法以及我是否应该在 Product Hunt 上发布。链接在评论中。 （不幸的是，我无法在此处附加图片。）    提交人    /u/EntreNerd   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g7st52/should_i_launch_need_your_thoughts/</guid>
-      <pubDate>Sun, 20 Oct 2024 06:48:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个目录来启动你的创业公司（认真的说）</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g7spcr/i_made_a_directory_of_directories_to_launch_your/</link>
-      <description><![CDATA[      嘿！👋 最近我在 Twitter 上看到越来越多的 Product Hunt 替代品，所以我开始在电子表格中跟踪它们，以便在未来的发布中使用。当我决定深入研究并查看还能找到多少个网站时，该列表大约有 80 个网站。 这促使我建立了 IndieLaunch：最大的目录目录，可帮助您启动初创公司。（250 多个目录） 它可以免费使用/提交，并且包括域名评级 (DR) 和流量信息，因此您可以选择正确的位置来让最多的人关注您的发布。  如果有人有想要添加的目录，请告诉我😊 https://preview.redd.it/88jlp35ixuvd1.png?width=1200&amp;format=png&amp;auto=webp&amp;s=5ce27000c740822a56320198e58bb0f2643c9ee5    提交人    /u/Admirable-Art5729   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g7spcr/i_made_a_directory_of_directories_to_launch_your/</guid>
-      <pubDate>Sun, 20 Oct 2024 06:41:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
