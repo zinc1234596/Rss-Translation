@@ -4,111 +4,111 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Sun, 20 Oct 2024 15:14:40 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Oct 2024 18:18:26 GMT</lastBuildDate>
     <item>
-      <title>从 Express.js 迁移到 Fastify.js，从 MongoDB 迁移到 PostgreSQL — 我做出了正确的决定吗？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g80ggu/migrating_from_expressjs_to_fastifyjs_and_mongodb/</link>
-      <description><![CDATA[我正在将我的整个 Express.js 基础转换为 Fastify.js，并将数据库从 MongoDB 切换到 PostgreSQL。我做了正确的决定吗？期待有这些技术经验的人的反馈。    提交人    /u/Mediocre_Beyond8285   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g80ggu/migrating_from_expressjs_to_fastifyjs_and_mongodb/</guid>
-      <pubDate>Sun, 20 Oct 2024 14:51:59 GMT</pubDate>
+      <title>用于简化内容创建的 AI 驱动工具 — 寻求反馈 🚀</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g851t8/aidriven_tool_for_streamlined_content/</link>
+      <description><![CDATA[大家好， 我目前正在从事一个名为 WUI.AI 的项目，旨在帮助内容创作者高效地将他们的文本、音频和视频重新用于平台优化的内容。我们的工具简化了为 YouTube、TikTok、Reels 等平台创建短视频和长视频的过程，并具有内置的自动发布功能。 我们的目标是简化内容创作流程，使创作者能够专注于他们的核心创意活动，而无需为每个平台手动编辑和调整内容。 我们的团队规模虽小，但技术精湛，经验丰富，曾就职于 TikTok、斯坦福和耶鲁大学。我们正处于开发的初始阶段，非常重视反馈、建议和可能从我们的解决方案中受益的潜在早期采用者。 如果您是内容创建者或对人工智能与内容创建的交集感兴趣，我们很乐意听到您的想法。 如果您有兴趣或有任何疑问，请随时与我们联系。感谢您的时间！  让我知道这是否满足您的需求或您是否需要任何调整！    提交人    /u/asus-24   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g851t8/aidriven_tool_for_streamlined_content/</guid>
+      <pubDate>Sun, 20 Oct 2024 18:12:21 GMT</pubDate>
     </item>
     <item>
-      <title>我为独居或离家较远的年迈父母的成年人提供了每日签到服务（短信和电话）</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g7zlww/i_made_a_daily_checkin_service_sms_call_for/</link>
-      <description><![CDATA[        提交人    /u/ComfortableLess6596   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g7zlww/i_made_a_daily_checkin_service_sms_call_for/</guid>
-      <pubDate>Sun, 20 Oct 2024 14:12:31 GMT</pubDate>
+      <title>带实时翻译的视频聊天</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g84qkc/video_chat_with_realtime_translation/</link>
+      <description><![CDATA[大家好，我觉得构建一个类似于 ChatRoulette 的东西很酷，但带有实时翻译。这样，无论他们说什么语言，你都可以在任何地方与任何人交谈！ 你可以尝试通过访问 https://vocalis.world 与随机的人进行匹配 这是我第一次发布公告，因此可能没有很多用户，但最坏的情况是，当我接下来的几个小时在线时，你会与我配对 :)    提交人    /u/Expensive-Wheel-2773   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g84qkc/video_chat_with_realtime_translation/</guid>
+      <pubDate>Sun, 20 Oct 2024 17:59:09 GMT</pubDate>
     </item>
     <item>
-      <title>我正在使用 SDL2 库在 C++ 中构建动画/数学可视化工具。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g7zenn/im_building_an_animationmathvisualisation_tool_in/</link>
-      <description><![CDATA[      2-d 螺旋动画为例： https://reddit.com/link/1g7zenn/video/j93kyidn3xvd1/player 源代码 您可以通过加注 github 存储库 来支持我。 欢迎并感谢任何贡献。    提交人    /u/mahdi_habibi   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g7zenn/im_building_an_animationmathvisualisation_tool_in/</guid>
-      <pubDate>Sun, 20 Oct 2024 14:02:48 GMT</pubDate>
+      <title>QuestLog：游戏化的任务管理和全球排行榜！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g84fu7/questlog_gamified_task_management_global/</link>
+      <description><![CDATA[两年前，我创建了 QuestLog，这是一个将任务管理游戏化的 Web 应用程序。在亲自使用它并发现它非常有激励作用后，我最近添加了新功能：  基于 XP 的任务完成 升级系统 新的连续追踪 顶级用户的全球排行榜 干净、无干扰的界面 无需身份验证！  初始版本收到了很多积极的反馈（24 个 GitHub 星），这鼓励我扩展其功能。 这是一个有趣、简单的 Web 应用程序，它满足了通过游戏化提高生产力的用例，使任务管理不仅高效而且令人愉快！ 看看吧！ https://github.com/hussaino03/QuestLog 该项目是开源的。如果您发现它有用，请考虑为该仓库加注星标以帮助传播信息！欢迎提供反馈和建议。虽然我确实添加了一些强大的测试并确保一切按预期运行，但如果您遇到任何错误/困难，请随时打开问题。谢谢！ 注意：当前实现不会在新设备上保留数据。这也是我希望实现的。    提交人    /u/Relevant_Bird_7347   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g84fu7/questlog_gamified_task_management_global/</guid>
+      <pubDate>Sun, 20 Oct 2024 17:46:19 GMT</pubDate>
     </item>
     <item>
-      <title>为我的网络分析项目提供优势</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g7zasn/give_me_an_edge_for_my_web_analytics_project/</link>
-      <description><![CDATA[      我正在制作一个无 cookie 的网络分析工具。是的，我知道，名字很长。我认为 clwat 是简称…… 一开始我想为我的一个网站获取网络分析，我对分析主题很陌生，所以我选择了 Google Analytics。虽然用得不多，但数据也很多。过了一段时间，我意识到我网站上将近 40% 的用户不接受 cookie，因此不算作真实用户。 这时我意识到我需要以隐私为重点的网络分析，可以让我跳过 cookie 弹出窗口。但所有替代方案都太贵了，所以我自己创建了。现在我很快就准备好发布了。唯一的优势是我打算以比竞争对手便宜得多的价格出售它。每月 2 或 3 美元，可获得 60,000 次页面浏览量。 问题是我想进一步细分市场。我需要大多数网络分析所不提供的某种社交化功能。有没有人一直想要在他们的网络分析中添加一些非常具体的东西？ 到目前为止显示的数据：浏览量、当天的唯一用户、来源和页面。 可以很容易地添加浏览器 / 国家/地区。 如果您有兴趣跟踪旅程或建立联系，请在 X 上联系 @avfrosta    提交人    /u/Frozen-web   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g7zasn/give_me_an_edge_for_my_web_analytics_project/</guid>
-      <pubDate>Sun, 20 Oct 2024 13:57:54 GMT</pubDate>
+      <title>吐槽我的想法：建立一个对话式面试官，同时也建立一个工具，可以将通用简历定制为特定工作简历，从而降低简历被拒绝的机会。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g83ss0/roast_my_idea_building_an_conversational/</link>
+      <description><![CDATA[大家好！👋 我正在研究： 我们的想法是为求职者提供一个人工智能平台，为从会计到工程的任何领域提供基于对话的人工智能面试官，并获得有关“语音语调”、“少用哪些词”、“如何改进答案但根据每个人进行个性化”等领域的详细报告，以及简历定制工具。你知道为每一份工作申请更新简历有多烦人吗？好吧，这就是我构建的 - 只需粘贴职位描述，然后砰！在 30 秒内，您的常规简历就会与工作需求完全匹配。 我称之为“一键简历优化器”，因为这实际上就是你所做的一切 - 一次点击，你就完成了。不再需要花费数小时调整项目符号和移动内容。 它的功能：  获取您现有的简历 将其与您想要的职位描述相匹配 重新组织所有内容以符合他们所寻找的内容 在 30 秒内完成  很想听听您的想法！请访问以下网址查看：CareerGenie 老实说，告诉我：  您会使用它吗？ 什么会让它变得更好？ 您希望它能做什么具体的事情吗？  谢谢你的帮助！🙌    提交人    /u/Forward-Moment-9251   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g83ss0/roast_my_idea_building_an_conversational/</guid>
+      <pubDate>Sun, 20 Oct 2024 17:18:24 GMT</pubDate>
     </item>
     <item>
-      <title>吐槽我的业余项目：开发人员的路线图工具</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g7z9te/roast_my_side_project_roadmapping_tool_for/</link>
-      <description><![CDATA[大家好， 我正在专门为开发人员构建一个路线图工具。它不适用于团队或项目管理 - 只是开发人员与用户和粉丝分享项目进度的一种方式。 它跟踪里程碑，提供透明度并显示下一步。可以将其视为公共路线图，但专注于单个项目。 我遗漏了什么？这解决了实际问题吗？残酷一点！    提交人    /u/mkool-templates   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g7z9te/roast_my_side_project_roadmapping_tool_for/</guid>
-      <pubDate>Sun, 20 Oct 2024 13:56:31 GMT</pubDate>
+      <title>寻求反馈：批评我的免费应用程序</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g83dwj/seeking_feedback_roast_my_free_app/</link>
+      <description><![CDATA[      嗨！ 我叫 Shelly，我们最近推出了 AI 语音转文本转录应用 Flow：语音笔记 的 MVP。  我希望得到一些反馈。  在此处下载到 iPhone 您每天可获得 2 个免费语音笔记，也可以每月支付 8.99 英镑订阅。  https://preview.redd.it/2p7tcr3mzxvd1.png?width=2034&amp;format=png&amp;auto=webp&amp;s=180af21b170278ed4b4bd3448a81ae069a4336f2    提交人    /u/FlowVoicenotes   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g83dwj/seeking_feedback_roast_my_free_app/</guid>
+      <pubDate>Sun, 20 Oct 2024 17:00:25 GMT</pubDate>
     </item>
     <item>
-      <title>我做了这个 saas：MultiMind.co – 同时比较多个 AI 模型以获得更好的洞察力</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g7z0gq/i_made_this_saas_multimindco_compare_multiple_ai/</link>
-      <description><![CDATA[我根据自己的需求创建了这个 SaaS。虽然我订阅了 ChatGPT，但有时我对它的响应并不完全满意。我想要一种方法来比较来自其他大型语言模型的答案，所以我做了这个 saas。 https://reddit.com/link/1g7z0gq/video/zpva17hu0xvd1/player 你可以尝试https://www.multimind.co/，欢迎提供反馈    提交人    /u/Jolly-Plankton-5140   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g7z0gq/i_made_this_saas_multimindco_compare_multiple_ai/</guid>
-      <pubDate>Sun, 20 Oct 2024 13:43:53 GMT</pubDate>
+      <title>使用 Google 和 OpenAI 模型构建 Claude Artifacts 克隆</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g83c5s/built_a_claude_artifacts_clone_using_google_and/</link>
+      <description><![CDATA[    /u/Virtual_Substance_36   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g83c5s/built_a_claude_artifacts_clone_using_google_and/</guid>
+      <pubDate>Sun, 20 Oct 2024 16:58:27 GMT</pubDate>
     </item>
     <item>
-      <title>出售我的人工智能网站构建器</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g7yucv/selling_my_ai_website_builder/</link>
-      <description><![CDATA[这里列出了功能： 主要功能：  生成完整的网站 更新生成的网站的元素或部分 导出源代码 为网站生成链接  如果有人感兴趣，请在 dm 中告诉我    提交人    /u/Life-Log-9050   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g7yucv/selling_my_ai_website_builder/</guid>
-      <pubDate>Sun, 20 Oct 2024 13:35:19 GMT</pubDate>
+      <title>我应该把这些“病毒式”帖子变成博客吗？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g83adp/should_i_turn_these_viral_posts_into_a_blog/</link>
+      <description><![CDATA[嘿冠军 我一直在写一些关于营销的帖子，关于如何提高网站转化率和销售更多东西 我把它们写在 reddit 上，因为它们来源于我在这里的对话 只是一些我每天都在实施的有用且可操作的东西 他们在这里和那里获得了一些不错的关注，人们问我他们可以在哪里注册以获得更多 我不会在其他地方发布它们 我应该吗？ 我做这些是为了好玩，并从中获得一些信息，没什么特别的 不明白把它变成博客有什么好处吗？！ 🤔 https://www.reddit.com/r/EntrepreneurRideAlong/comments/1g54s6f/ive_worked_on_70_websites_and_heres_whats_been/?utm_source=share&amp;utm_medium=web3x&amp;utm_name=web3xcss&amp;utm_term=1&amp;utm_content=share_button https://www.reddit.com/r/Entrepreneur/comments/1f0b1qy/yesterday_i_reviewed_20_of_your_websites_heres/?utm_source=share&amp;utm_medium=web3x&amp;utm_name=web3xcss&amp;utm_term=1&amp;utm_content=share_button    提交人    /u/Jumpy-Promotion-6525   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g83adp/should_i_turn_these_viral_posts_into_a_blog/</guid>
+      <pubDate>Sun, 20 Oct 2024 16:56:14 GMT</pubDate>
     </item>
     <item>
-      <title>在几秒钟内生成独特的名称和个人资料 - 限时优惠：免费获得终身套餐 🚀</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g7yka1/generate_unique_names_profiles_in_seconds_limited/</link>
-      <description><![CDATA[       由    /u/Aproachate  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g7yka1/generate_unique_names_profiles_in_seconds_limited/</guid>
-      <pubDate>Sun, 20 Oct 2024 13:21:14 GMT</pubDate>
+      <title>不到六周就有 90 位用户！！！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g82ys9/90_users_in_less_than_6_weeks/</link>
+      <description><![CDATA[在此分享小胜利。已经在这个平台上工作了将近一年，但 6 周前才刚刚推出，可能花了太多时间在产品上，但我们的社交媒体助手刚刚获得 90 个用户！！AIrMedia 我和我的朋友从零开始——在构建产品或营销方面没有任何经验，所以必须从头开始学习一切。非常感谢 我意识到与这里的一些结果相比，90 可能很荒谬，但我们已经起步了，这仍然是一个胜利🤝    提交人    /u/Current-Payment-5403   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g82ys9/90_users_in_less_than_6_weeks/</guid>
+      <pubDate>Sun, 20 Oct 2024 16:42:22 GMT</pubDate>
     </item>
     <item>
-      <title>基于 28k 个冷电子邮件联系人的销售额超过 16,000 美元；投资 720 美元购买电子邮件列表</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g7y9bt/more_than_16k_sales_based_on_28k_cold_email/</link>
-      <description><![CDATA[  由    /u/thomashoi2  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g7y9bt/more_than_16k_sales_based_on_28k_cold_email/</guid>
-      <pubDate>Sun, 20 Oct 2024 13:05:46 GMT</pubDate>
+      <title>我开发了一个 Chrome 扩展程序，可立即为您的 Saas/Web 应用程序创建演示和解释视频</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g82x0z/i_built_a_chrome_extension_to_instantly_create/</link>
+      <description><![CDATA[        提交人    /u/FantasticBranch9504   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g82x0z/i_built_a_chrome_extension_to_instantly_create/</guid>
+      <pubDate>Sun, 20 Oct 2024 16:40:19 GMT</pubDate>
     </item>
     <item>
-      <title>候补名单项目已完成</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g7y2p6/waitlist_project_completed/</link>
-      <description><![CDATA[大家好，我想分享一下我 17 岁时完成的项目。它叫做 https://brightfinance.vercel.app/，它是我想要验证的一个想法的候补名单。 技术栈： 前端：Next.js (Typescript)、Tailwind 后端：MongoDB 和 Typescript 我正在寻求反馈。谢谢！    提交人    /u/Fit-Construction-869   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g7y2p6/waitlist_project_completed/</guid>
-      <pubDate>Sun, 20 Oct 2024 12:56:21 GMT</pubDate>
+      <title>刚刚构建了一个用于下载 TikTok、Instagram Reel/Video 和 Youtube 音乐的 API！🎥✨</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g82r92/just_built_an_api_for_downloading_tiktok/</link>
+      <description><![CDATA[嘿，开发者社区！🌟 我最近一直在深入研究频道自动化，我很高兴与大家分享我刚刚构建了一个API，可以毫不费力地以更便宜的价格下载 TikTok 和 Instagram Reels 和视频！😄 这个工具已经成为我自动化工作流程的关键部分，我想你也会喜欢它。 TikTok：TikTok API Instagram：Instagram 下载器 Youtube：YouTube 下载器    提交人    /u/Excellent-Lack1217   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g82r92/just_built_an_api_for_downloading_tiktok/</guid>
+      <pubDate>Sun, 20 Oct 2024 16:33:20 GMT</pubDate>
     </item>
     <item>
-      <title>烤我的移动应用程序</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g7xh9s/roast_my_mobile_app/</link>
-      <description><![CDATA[      如果有一个应用程序可以让您说“我想找 X 来一起做 Y”，然后它会将您与寻找类似活动/友谊的人进行匹配。并且它可以在现实世界中自我组织事件。 https://preview.redd.it/eerc54kbmwvd1.png?width=473&amp;format=png&amp;auto=webp&amp;s=29d3cd4ce3927c56c515ac0d1dc3d31d1aaf7ddd https://preview.redd.it/yuzdnqkbmwvd1.png?width=534&amp;format=png&amp;auto=webp&amp;s=5c4bd889636f6f0e89480a6f969cb5161170631a https://preview.redd.it/5ue225kbmwvd1.png?width=534&amp;format=png&amp;auto=webp&amp;s=c5803ddc101cf2ec1100665374868f6c4d4ab773 基本上是 Tinder，但可以用于任何用途。我觉得这一代人需要这样的东西吗？    提交人    /u/Prize_Duty6281   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g7xh9s/roast_my_mobile_app/</guid>
-      <pubDate>Sun, 20 Oct 2024 12:23:02 GMT</pubDate>
+      <title>需要色彩灵感吗？这里有一个免费工具！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g82r00/need_inspiration_for_colors_heres_a_free_tool/</link>
+      <description><![CDATA[大家好，我大约一周前发现了这个子版块，想分享一下我周末制作的一个小工具。当我在构建某些东西时，我通常会在选择网页设计的颜色方面有点迷茫，所以我想制作一些可以帮助我的东西。 只需输入十六进制代码，选择和谐规则并获取调色板。您还可以在生成后随机化色调。完全免费，我可能会在未来一两周内添加一两个功能。 希望您喜欢 ColorCraft！ https://www.color-craft.app/ https://reddit.com/link/1g82r00/video/03v4yu7tuxvd1/player    提交人    /u/ZaezulTheWizard   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g82r00/need_inspiration_for_colors_heres_a_free_tool/</guid>
+      <pubDate>Sun, 20 Oct 2024 16:33:04 GMT</pubDate>
     </item>
     <item>
-      <title>目前正在构建一个可嵌入的推荐墙，以便网站能够更好地转换</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g7vz3l/currently_building_an_embeddable_testimonial_wall/</link>
-      <description><![CDATA[        由    /u/ceeesharp 提交   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g7vz3l/currently_building_an_embeddable_testimonial_wall/</guid>
-      <pubDate>Sun, 20 Oct 2024 10:47:50 GMT</pubDate>
+      <title>我创建了我的第二个副项目。计划将其打造成 SaaS！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g82q6y/i_built_my_second_side_project_planning_to_make/</link>
+      <description><![CDATA[这周，我开发了一款名为 Notifi 的小应用来解决我遇到的一个问题：跟上我关注的 YouTube 用户发布的所有精彩内容。 Notifi 会向您发送每日文摘邮件，其中包含您选择的创作者的最新视频摘要。我厌倦了被 YouTube 订阅所淹没并错过精彩视频的感觉。现在，我可以快速浏览摘要并决定我想看什么。 该应用使用 Nextjs、Prisma、NodeMailer 和 Supabase 构建。我仍在努力添加功能，但我很高兴与社区分享并获得您的反馈。Notifi 编辑：您还可以选择将其更改为每周新闻通讯或在一周中的特定日子发送    提交人    /u/aayushgg   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g82q6y/i_built_my_second_side_project_planning_to_make/</guid>
+      <pubDate>Sun, 20 Oct 2024 16:32:01 GMT</pubDate>
     </item>
     <item>
-      <title>寻找出售小额收入（$100 MRR+）的企业/副业的人</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g7v7bp/looking_for_someone_selling_a_business_side/</link>
-      <description><![CDATA[大家好，我经营着一家名为 Pocket Fund 的微型搜索基金。我们有兴趣收购和发展小型在线企业。我们通常关注 SaaS、应用程序、内容网站、社交媒体页面等。 在过去的 16 个月里，我们收购了 5 家企业，每家售价不到 25,000 美元。它们中的大多数都是在类似 acquire 的市场上找到的。我正在寻找有趣的项目/企业来收购。它们应该已经完全建成并且理想情况下可以创造收入，但我们会考虑一些尚未盈利的项目。我们也在寻找以可扩展方式构建的项目。 优先考虑具有以下特征的项目：SEO、强大的 DR、社交媒体关注、成功发布（产品搜索、X 等）、基本上在某种程度上具有吸引力 直接发信息给我或在下面评论您的项目/问题 :)     提交人    /u/This_Is_Bizness   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g7v7bp/looking_for_someone_selling_a_business_side/</guid>
-      <pubDate>Sun, 20 Oct 2024 09:51:51 GMT</pubDate>
+      <title>谁喜欢国际象棋？带点人工智能？（我的第一个作品集项目）</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g82gff/who_likes_chess_with_a_hint_of_ai_my_first/</link>
+      <description><![CDATA[因此，我最近在辞职后 2 个月内完成了 Codecademy 上的全栈开发人员课程，又过了 2.5 周，我完成了我的第一个更大的投资组合项目，非常希望得到一些反馈，帮助我找工作！ 这是一款国际象棋游戏，当您获胜或失败时，它会保存所有游戏棋盘状态，以及由此采取的行动以及游戏是胜利还是失败。未来的游戏将使用这些数据来采取行动。从本质上讲，它是一种非常简单的人工智能。 感谢您的关注，任何反馈都将大有帮助！如果您也想在柜台上放一些游戏，那就更好了，我很好奇它可以提高多少，也想知道数据集变得太大而无法存储需要多长时间:) https://simple-chess-ai-9e496ed2f67b.herokuapp.com/    提交人    /u/LandOne4734   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g82gff/who_likes_chess_with_a_hint_of_ai_my_first/</guid>
+      <pubDate>Sun, 20 Oct 2024 16:20:23 GMT</pubDate>
     </item>
     <item>
-      <title>寻找客户并分析您的产品、业务和服务的趋势。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g7v35g/find_customers_and_analyse_trends_for_your/</link>
-      <description><![CDATA[      一种由人工智能驱动的工具，用于推广和扩展您的产品、服务或业务并寻找客户，分析 X 和 Reddit 上的趋势。 Engzup 提供了一种人工智能工作流程，可通过发现任何利基或通用列出类别的相关内容来帮助您参与和营销。 https://preview.redd.it/co3p4e4xtvvd1.png?width=1268&amp;format=png&amp;auto=webp&amp;s=b3a61fca8b1fe6d9e0c2aa04088250806cfdbba4    提交人    /u/Few_Lunch1448   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g7v35g/find_customers_and_analyse_trends_for_your/</guid>
-      <pubDate>Sun, 20 Oct 2024 09:43:12 GMT</pubDate>
+      <title>邀请大家加入一个 subreddit</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g82av5/inviting_you_all_to_a_subreddit/</link>
+      <description><![CDATA[我想邀请大家加入我一周前创建的一个 subreddit。我想学习社区建设，并创建一个地方，让 solopreneurs 与其他 solopreneurs 分享他们的各种问题和经验，并交换想法和反馈。这是一次诚实的尝试。  匿名，你可以在这里加入 ==&gt; r/FullStackEntrepreneur  请不要只是加入匿名，请与其他人分享你的故事。他们会喜欢的。     提交人    /u/picyard   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g82av5/inviting_you_all_to_a_subreddit/</guid>
+      <pubDate>Sun, 20 Oct 2024 16:13:46 GMT</pubDate>
     </item>
     <item>
-      <title>我构建了一个浏览器扩展来收集设计灵感。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g7ujmp/i_build_a_browser_extension_to_collect_design/</link>
-      <description><![CDATA[大家好，我是 Rayid，一个 17 岁的独立黑客，热衷于构建东西。作为一名 Web 开发人员，我一直在努力从头开始设计网站。说实话，我并不擅长。和许多其他人一样，我也会从网络上寻找灵感。 但是，搜索无数网站以寻找完美的设计灵感很快就变得很麻烦。当然，我可以收藏网站或截取屏幕截图，但如何组织它们呢？一片混乱。我最终得到的是一堆混乱的图像和链接，当我最需要它们时，却无法导航。 就在那时，我想，一定有更好的方法。所以我开发了 Designshots，这是一个简单的浏览器扩展，可以截取网站的全页屏幕截图，并将它们存储在一个干净、有条理的平台中。 借助 Designshots，设计师和开发人员可以轻松地在一个地方捕获、保存和组织设计灵感，使创作过程更顺畅、更高效。无论您是在设计新网站还是仅仅收集想法，此工具都可以帮助您轻松创建令人惊叹、引人注目的网站。  您可以在这里查看：designshots.co    提交人    /u/tobi_tensei   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g7ujmp/i_build_a_browser_extension_to_collect_design/</guid>
-      <pubDate>Sun, 20 Oct 2024 09:01:37 GMT</pubDate>
+      <title>气泡菜单 - 在光标尖端显示页面链接的最快方法</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g81vav/bubble_menu_quickest_way_to_have_links_of_a_page/</link>
+      <description><![CDATA[        由    /u/gotDemPandaEyes 提交   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g81vav/bubble_menu_quickest_way_to_have_links_of_a_page/</guid>
+      <pubDate>Sun, 20 Oct 2024 15:55:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
