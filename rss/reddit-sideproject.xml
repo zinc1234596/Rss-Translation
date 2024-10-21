@@ -4,7 +4,91 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Mon, 21 Oct 2024 09:17:34 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Oct 2024 12:30:02 GMT</lastBuildDate>
+    <item>
+      <title>批判我的项目（所谓的 SaaS）</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g8oefr/roast_my_project_so_called_saas/</link>
+      <description><![CDATA[有人说，我无法执行想法。 所以我制作了 GetItWrite 再次，让我告诉你它不是 GPT 包装器。 在单击该链接之前，Get It write 使用 RAG 方法实现文本样式转换。 简而言之，你可以模仿伟大的作家并让他们为你写下你的想法。（我知道这不是一个伟大的项目，但是作为一个开发人员，我想从这个项目中学习执行力）    提交人    /u/The_Noowledge   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g8oefr/roast_my_project_so_called_saas/</guid>
+      <pubDate>Mon, 21 Oct 2024 12:24:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>20 万多个开源免费 SVG 图标的搜索引擎</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g8o66d/search_engine_of_200k_open_source_free_svg_icons/</link>
+      <description><![CDATA[        由    /u/Majestic_Emphasis442   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g8o66d/search_engine_of_200k_open_source_free_svg_icons/</guid>
+      <pubDate>Mon, 21 Oct 2024 12:12:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>20 万多个开源免费 SVG 图标的搜索引擎</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g8o4ph/search_engine_of_200k_open_source_free_svg_icons/</link>
+      <description><![CDATA[        由    /u/Majestic_Emphasis442  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g8o4ph/search_engine_of_200k_open_source_free_svg_icons/</guid>
+      <pubDate>Mon, 21 Oct 2024 12:10:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>从头开发 VPN/虚拟 LAN</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g8n9ev/develop_vpnvirtual_lan_from_scratch/</link>
+      <description><![CDATA[大家好，我是频道的新成员，我正在用 Golang 从头开始​​构建 VPN 和虚拟 LAN 软件。我想邀请社区中任何有兴趣的人加入这个项目。我需要重新组织存储库，因为它们目前在我的个人存储库中。目前，有三个存储库：一个传输协议、一个用于从 Golang 配置 tun/tap utun 的小模块，以及连接两者的软件。 https://github.com/emilianobilli/utun https://github.com/emilianobilli/sudp    提交人    /u/ebilli   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g8n9ev/develop_vpnvirtual_lan_from_scratch/</guid>
+      <pubDate>Mon, 21 Oct 2024 11:20:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>从经营一家价值 3.5 亿美元的风险投资公司到专注于副业 ❤️</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g8n91a/from_running_a_350m_vcbacked_company_to_focusing/</link>
+      <description><![CDATA[这是我的故事。 我一直是个忙碌的人。从 14 岁起，我就不记得自己什么时候不工作了。每晚几乎只睡 4 个小时，总是忙着解决问题、救火。 大学毕业（法学学士和工商管理硕士）后，我迷失了方向。我尝试过普通的工作，但无法感到兴奋，而当我不兴奋时，我就会陷入困境。但我了解创业；我只是没有意识到这是成年人的选择。然后，在 2017 年，一位朋友请我帮助他们创业。“很酷”，我想。终于有一个地方可以整天解决问题了。这是一个小型的电子商务创意，解决了一个有趣的角度。我每天工作 17 个小时，骑自行车送货，与客户、供应商甚至街上的随机人交谈。 事情发展得很快。我们向 Y Combinator 申请，加入后在 Demo Day 开始前就筹集了 1800 万美元。我们环比增长了 100%。然后又筹集了 4000 万美元，我搬到了纽约。不知不觉中，我们就有了 1,000 名员工，又筹集了 8000 万美元。 我是首席运营官，管理 17 名直接下属（运营、财务、人力资源、数据等副总裁）和 800 名间接员工。表面上看，我处于世界之巅。但实际上，我处于最低谷。我睡不着觉，沉浸在焦虑之中，最后只能服用抗抑郁药。 然后 2022 年来临。我们需要筹集 1 亿美元，但我们做不到。在残酷的三个月里，我们解雇了 900 人。那是我一生中最黑暗的时期。我感觉自己辜负了所有人——我自己、投资者、我的公司和我的团队。 我休息了一年。收拾好行李，带着妻子开车穿越欧洲，住在偏远的地方，只是想平复我的神经系统。我无法与任何人交谈，感到羞愧，并与严重的抑郁症作斗争。我花了一年多的时间，通过治疗、植物药、高强度的晨间例行活动和锻炼计划，才在身体和精神上重新站起来。 现在，我站在了另一边。在过去的 6 个月里，我重新找回了自己的活力，对我是谁以及我为什么在这里有了新的认识。我接受了过去 7 年所经历的一切——教训、人、经历。 我开始与社区重新建立联系，回馈社会。每周，我都会与年轻的创始人交谈，为他们提供指导，甚至帮助他们开展业务。这是一份巨大的礼物。 我也开始探索副业。我从来都不知道如何编码，但我一直有想法。人工智能的最新进展给了我所需的推动力。我开发了我的第一个应用程序 kidz-book.com，作为我对真正热爱的事情——儿童消费品的首次尝试。:) 今天，我对自己的旅程感到充实。我希望其他人也能看到这一点。❤️    提交人    /u/Disastrous-Airport88   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g8n91a/from_running_a_350m_vcbacked_company_to_focusing/</guid>
+      <pubDate>Mon, 21 Oct 2024 11:19:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻求有关我的新应用程序 PostPocket 的反馈</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g8n25s/seeking_feedback_on_my_new_app_postpocket/</link>
+      <description><![CDATA[      大家好！🎉 我最近发布了一款名为 PostPocket 的应用，旨在帮助您快速保存和分类重要帖子，而无需打开应用本身。无论是实用技巧、有见地的文章还是有趣的社交媒体帖子，您只需轻点几下即可存储它们，并在有时间时查看，不受干扰。 我很乐意听到这个了不起的社区的反馈！🙏 哪些方法有效？哪些可以改进？任何想法或建议都将非常有价值。    提交人    /u/Familiar_Today_423   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g8n25s/seeking_feedback_on_my_new_app_postpocket/</guid>
+      <pubDate>Mon, 21 Oct 2024 11:07:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>我学习的时候不能放下手机，所以我开发了这个应用程序——希望得到一些反馈！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g8mzsb/i_couldnt_stay_off_my_phone_while_studying_so_i/</link>
+      <description><![CDATA[大家好， 所以我在学习时总是被手机分散注意力，而且我找不到真正有用的应用程序。最后我自己开发了一个名为 ForgeFocus 的应用程序，它在 App Store 和 Google Play 上都有。 基本上，你设置一个学习计时器，在计时器倒计时时你可以离开应用程序（也就是说你不能在工作/学习时滚动社交媒体）。如果你在计时器运行时离开应用程序，它会增加一个“中断”计数器来显示你分心的次数。它对我来说一直很有效，所以希望它也能帮助别人！ 请注意，这不是广告，我也不打算通过它赚钱。我只是想在应用程序开发方面做得更好，并希望得到一些反馈。 对于有孩子的人，还有一个家长功能 - 您可以监控他们的学习过程并查看他们被打断的频率。我很想知道这对你来说如何！ 如果您有兴趣查看它，我将非常感谢任何反馈或建议，以使其变得更好。非常感谢！    提交人    /u/Dear-Potential-3477   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g8mzsb/i_couldnt_stay_off_my_phone_while_studying_so_i/</guid>
+      <pubDate>Mon, 21 Oct 2024 11:03:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>在推出 SaaS 产品之前先获得用户注册是否更好？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g8mkoh/is_it_better_to_get_signups_for_a_saas_before/</link>
+      <description><![CDATA[我计划发布一款 SaaS 产品，但由于支付网关的一些法律限制，发布时间有所延迟。我正考虑在正式发布之前获得注册，但不知道这是否是一个好策略。它是否有助于发布后的营销或对整体发布成功有任何影响？ 很想听听您的想法以及您在发布前注册方面可能遇到的任何经验！    提交人    /u/codes_swalih   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g8mkoh/is_it_better_to_get_signups_for_a_saas_before/</guid>
+      <pubDate>Mon, 21 Oct 2024 10:39:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>我开发了一种新的写作产品，但目前面临一个棘手的问题？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g8lzvm/i_have_developed_a_new_writing_product_but_i_am/</link>
+      <description><![CDATA[我已经完成开发并上传到应用商店，但目前用户不多，也没有收到用户反馈，不知道哪里需要改进，大家有相关经验吗，是怎么解决的？ 我想到的一个解决方案是在 ProductHunt 上发布，指导用户使用和提供反馈。 点击此处下载： 我们很乐意听到您的反馈！试用后，分享您的经验和建议，以便我们不断改进应用，帮助更多人满足写作需求。    提交人    /u/PassengerTimely4874   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g8lzvm/i_have_developed_a_new_writing_product_but_i_am/</guid>
+      <pubDate>Mon, 21 Oct 2024 09:59:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>我和一个朋友制作了一个用于合成内容的人工智能工具。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g8lvvz/a_friend_and_i_made_a_gen_ai_tool_to_synthesize/</link>
+      <description><![CDATA[       由    /u/Danny_Walters  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g8lvvz/a_friend_and_i_made_a_gen_ai_tool_to_synthesize/</guid>
+      <pubDate>Mon, 21 Oct 2024 09:51:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>我如何在 2 天内获得 107 封电子邮件注册并 100% 验证我的 EFEXP Saas - 完整指南</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g8lnn2/how_i_got_107_emails_signup_in_2_days_and/</link>
+      <description><![CDATA[        由   提交  /u/FantasticBranch9504   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g8lnn2/how_i_got_107_emails_signup_in_2_days_and/</guid>
+      <pubDate>Mon, 21 Oct 2024 09:34:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个可以自动将关键字转换为可点击链接的工具</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g8li0u/i_made_a_tool_that_automatically_convert_keywords/</link>
+      <description><![CDATA[        提交人    /u/BreakfastCupNoodles   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g8li0u/i_made_a_tool_that_automatically_convert_keywords/</guid>
+      <pubDate>Mon, 21 Oct 2024 09:22:23 GMT</pubDate>
+    </item>
     <item>
       <title>2024 年黑色星期五网络星期一特卖精选</title>
       <link>https://www.reddit.com/r/SideProject/comments/1g8l6qq/curating_bfcm_deals_2024/</link>
@@ -20,95 +104,11 @@
       <pubDate>Mon, 21 Oct 2024 08:54:09 GMT</pubDate>
     </item>
     <item>
-      <title>[请求] 用于生成 iOS App Store 资产的 AI 工具</title>
+      <title>[请求] 用于生成 iOS 应用商店资产的 AI 工具</title>
       <link>https://www.reddit.com/r/SideProject/comments/1g8kw9w/request_ai_tool_for_generating_ios_app_store/</link>
       <description><![CDATA[大家好，r/SideProject 社区！👋 我正在寻找有关 AI 工具的推荐，以帮助生成适用于 App Store 的 iOS 应用图标和屏幕截图。以下是我想要的： 需求：作为开发人员，我发现为 App Store 创建具有视觉吸引力的应用图标和屏幕截图非常耗时。我正在寻找一种 AI 解决方案来简化此过程。 我正在寻找：一种可以执行以下操作的 AI 工具：1. 根据应用描述或关键字生成应用图标 2. 创建突出显示主要功能的应用屏幕截图 3. 确保所有资产符合 Apple 的指南 所需功能： - 用于描述所需美学的易于使用的界面 - 生成资产的自定义选项 - 以适用于 App Store 的格式导出 问题： - 有人为此使用过 AI 工具吗？ - 您是否推荐任何特定服务或平台？ - 您对 AI 生成的应用商店资产有何经验？ 如果您已经解决了这个挑战或知道好的解决方案，我很乐意听取您的见解！提前感谢任何建议或意见。    提交人    /u/ChoiceTwist7237   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1g8kw9w/request_ai_tool_for_generating_ios_app_store/</guid>
       <pubDate>Mon, 21 Oct 2024 08:35:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个工具来查看我们的电子邮件何时被打开</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g8kukz/i_made_a_tool_to_see_when_our_emails_are_opened/</link>
-      <description><![CDATA[      https://preview.redd.it/1djah0s1m2wd1.png?width=1234&amp;format=png&amp;auto=webp&amp;s=91b1b9257f11ca46e814a0a017d13a88fde88a89 我一直想知道一些重要的电子邮件何时被打开，所以我做了一个！专门用于 gmail。 您可以在这里使用它 https://arepo.khoshghadam.com 让我知道你的想法    由   提交  /u/yooneskh   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g8kukz/i_made_a_tool_to_see_when_our_emails_are_opened/</guid>
-      <pubDate>Mon, 21 Oct 2024 08:31:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们刚刚赢得了 TechStars Startup Weekend Zilina！🚀</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g8krba/we_just_won_techstars_startup_weekend_zilina/</link>
-      <description><![CDATA[      我的团队刚刚赢得了 Startup Weekend Zilina与我们的初创公司合作！这真是太棒了，考虑到我错过了购买活动门票的机会，但仍然决定在活动当天去那里尝试进入。我很高兴我这么做了！ 我加入了一个很棒的团队，整个周末我们齐心协力，将我们的想法付诸实践。我为每一位队友感到非常自豪——他们都是很棒的人。 我们的产品可帮助初级开发人员创建雇主喜爱的项目组合。❤️ 我们的产品已准备就绪并投入使用，正在进行最后的增强。 如果您希望您的作品集得到招聘人员的关注，请在此处加入候补名单！ https://blinkfolio.framer.website    提交人    /u/Absinthko   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g8krba/we_just_won_techstars_startup_weekend_zilina/</guid>
-      <pubDate>Mon, 21 Oct 2024 08:24:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>我和我的朋友 ChatGPT 在 20 周内开发了 20 个应用程序，这是第 3 个应用程序。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g8kr81/my_friend_chatgpt_and_i_are_building_20_apps_in/</link>
-      <description><![CDATA[\我删除了之前的帖子，因为它错误地称这是在 20* 天内开发 20 个应用程序，这具有误导性。我向所有关注我设定的挑战的人道歉。 现在，开始开发新应用程序！ 所以，在你责备我放弃并开发 Chrome 扩展程序并说“那不是真正的应用程序”之前，是的，我知道，这是一个扩展程序，但它仍然是使用 AI 构建的。它解决了一个问题并有实际用途。 此外，这 100% 只是我和 AI 构建了这个扩展和登录页面，因此制作扩展所需的代码技能比以前更少了！ 我还有另一个扩展即将面向 Make.com 和 Zapier 高级用户推出，另一个扩展计划稍后推出，但这就是扩展的全部内容。 PrivacyPal - 使用 AI 简化细则 https://privacypal.cc PrivacyPal 是我们“20 周 20 个应用”挑战中的第三个产品，在这个产品中，我和朋友 ChatGPT 正在使用 AI 构建解决特定问题的产品。 PrivacyPal 是一个 Chrome 扩展程序，可以读取并分解条款和条件或隐私政策中隐藏的术语我们不断被迫同意，这使得在单击“接受”之前更容易理解你同意的内容。 这个工具的想法是在迪士尼诉讼之后产生的，当时在一个公园发生了一起悲惨的事件，他们的律师试图通过引用 Disney Plus 条款中的隐藏条款来推卸责任。 这让我大开眼界，了解到公司是如何在我们都浏览过的文件中隐藏重要细节的。使用 PrivacyPal，您可以快速扫描这些页面并做出明智的选择。 此工具是一项更广泛实验的一部分，旨在证明像这样的一次性工具可能就是未来，它允许人们创建解决其问题的产品，而无需庞大的 SaaS 平台。 如果您想查看已构建和正在进行的其他应用程序，请查看 https://businessdaddy.org https://reddit.com/link/1g8kr81/video/as2qsbtfk2wd1/player    提交人    /u/redditborkedmy8yracc   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g8kr81/my_friend_chatgpt_and_i_are_building_20_apps_in/</guid>
-      <pubDate>Mon, 21 Oct 2024 08:24:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 App Store 上查看 Themescape！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g8konx/check_out_themescape_on_app_store/</link>
-      <description><![CDATA[        提交者    /u/karma_1264   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g8konx/check_out_themescape_on_app_store/</guid>
-      <pubDate>Mon, 21 Oct 2024 08:18:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>从深夜编程到 App Store 推荐：Opus 有声读物之旅</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g8kolr/from_latenight_coding_to_app_store_feature_the/</link>
-      <description><![CDATA[嘿 r/SideProject！ 我想分享一个关于我的业余项目 Opus Audiobooks 的成功故事，希望它能够激励或帮助其他从事自己项目的人。 大约一年前，我和我的朋友（分别位于哥本哈根和奥斯陆）开始开发一款用于经典有声读物的 iOS 应用。我们都是文学迷，希望创造一些东西，让经典在数字时代更容易获得、更吸引人。 关键里程碑：  经过 6 个月的夜以继日的辛勤工作，终于在 App Store 上线 被 Apple 评为“本周最佳新应用” 目前用户遍布 78 个国家 近期下载量突破 10,000 次  我们采取的措施：  专注于小众群体（古典文学爱好者），而不是试图吸引所有人 重质不重量 - 我们改进了录音，并创建了自定义插图 根据用户反馈不断迭代 利用我们独特的爱好和专业技能（文学专业知识 + iOS 开发 + 设计）  我们面临的挑战：  平衡全职工作与开发 以极低的预算进行营销 与免费替代品竞争  当前状态：  每月收费 4 美元以覆盖成本（未达到盈亏平衡尚未开发，但正在不断增长） 不断添加新功能和书籍 规划我们的首次重大更新  对于任何想要尝试的人，这里有一个 6 个月的免费试用代码：https://apps.apple.com/redeem?ctx=offercodes&amp;id=6463743274&amp;code=BOOKWORM 如果您正在从事副项目，请继续努力！很高兴回答有关我们的流程、应用商店提交或其他任何问题。    提交人    /u/thundercph   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g8kolr/from_latenight_coding_to_app_store_feature_the/</guid>
-      <pubDate>Mon, 21 Oct 2024 08:18:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的周末项目：TabTimer（浏览器的微型计时器）</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g8klgv/my_weekend_project_tabtimer_a_tiny_timer_for_your/</link>
-      <description><![CDATA[        提交人    /u/jnyms   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g8klgv/my_weekend_project_tabtimer_a_tiny_timer_for_your/</guid>
-      <pubDate>Mon, 21 Oct 2024 08:11:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>ProductHunt 推出 RoMo 应用程序</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g8kflj/producthunt_launch_of_romo_app/</link>
-      <description><![CDATA[嗨 👋 我们几个经验丰富的公司专业人士一直在周末从事一个业余项目，并于今天在 ProductHunt 上发布了它：www.producthunt.com/products/romo  我们非常感谢您的支持、投票和反馈！ 展示 #producthunt    提交人    /u/Friendly-Leading-278   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g8kflj/producthunt_launch_of_romo_app/</guid>
-      <pubDate>Mon, 21 Oct 2024 07:58:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们建立了一个基于法学硕士的症状检查器</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g8kb2t/we_built_an_llmbased_symptom_checker/</link>
-      <description><![CDATA[大家好！ 经过六个月的（兼职）工作，我们的团队（医生、药剂师和数据工程师）非常高兴与您分享 MedAsk——一种基于聊天的医疗 AI，旨在帮助您了解和管理您的症状。 MedAsk 的工作原理 [DEMO]:  分享您的症状：像向医生描述一样描述困扰您的事情。您的描述越详细，MedAsk 就越能了解您的症状。 回答后续问题：根据您提供的症状，MedAsk 会询问进一步的问题，以收集有关您潜在健康状况的更多详细信息。 获得见解：在访谈结束时，MedAsk 提供： 可能的健康状况列表 解释您的症状如何表明每种状况 后续步骤的建议 评估报告，您可以与医生分享   我们希望您尝试一下 - 无需注册，完全免费！这只需要几分钟，您的反馈对我们意义重大。 👉 尝试一下：https://medask.tech/ 提醒一下：MedAsk 是一个有用的指南，但不能替代专业的医疗建议。如果有严重的健康问题，一定要去看医生。    提交人    /u/Significant-Pair-275   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g8kb2t/we_built_an_llmbased_symptom_checker/</guid>
-      <pubDate>Mon, 21 Oct 2024 07:47:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找适用于 WordPress 的闪电般快速的商业目录插件的 Beta 测试人员 🚀</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g8k9m6/seeking_beta_testers_for_lightningfast_business/</link>
-      <description><![CDATA[      嘿 r/SideProject！ 👋 我开发了一个名为 TurnKey Directories 的新 WordPress 插件，旨在通过 .CSV 文件在几秒钟内创建大量商业目录（最多 50,000 个列表）。与大多数目录插件不同，它速度极快，并且非常容易与任何 WordPress 主题配合使用。 我正在寻找 Beta 测试人员来帮助我在发布之前完善它。您将获得早期访问权限，您的反馈将非常宝贵！ 感兴趣吗？请在下方发表评论，或直接发私信给我，我会向您发送详细信息！ 😊 https://preview.redd.it/w9awntgkd2wd1.jpg?width=1891&amp;format=pjpg&amp;auto=webp&amp;s=f52622edb302016680bf81ca5a6e74628f55af15    提交人    /u/Dry-Consequence-5312   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g8k9m6/seeking_beta_testers_for_lightningfast_business/</guid>
-      <pubDate>Mon, 21 Oct 2024 07:44:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>接收国际付款的最佳平台是什么？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g8k5lu/whats_the_best_platform_for_recieving/</link>
-      <description><![CDATA[我有一个桌面应用程序，我想集成支付系统，但我不知道应该选择哪个平台。我尝试了 stripe、paypal 和 paddle，但 stripe 只接受印度的邀请，PayPal 的费用很高，而 paddle 不接受，所以我想知道还有其他平台可以接受国际付款吗？    提交人    /u/Crafty-Feature2303   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g8k5lu/whats_the_best_platform_for_recieving/</guid>
-      <pubDate>Mon, 21 Oct 2024 07:35:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>刚刚在 Product Hunt 上发布！希望得到一些反馈</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g8k3c6/just_launched_on_product_hunt_would_love_some/</link>
-      <description><![CDATA[大家好， 我是一名独立开发者，刚刚在 Product Hunt 上发布了我的第一款 SaaS。我很乐意就 Product Hunt 的首次发布和产品获得一些反馈。 该产品是一种工具，可帮助创作者和开发者通过 Stripe 出售对其私有 GitHub 存储库的访问权限，从而将其货币化（不收取任何收入） 这是发布的链接：https://www.producthunt.com/posts/repocharge 谢谢    提交人    /u/notunderctrl   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g8k3c6/just_launched_on_product_hunt_would_love_some/</guid>
-      <pubDate>Mon, 21 Oct 2024 07:30:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>用户访问量突破 1K</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g8jxo3/crossed_1k_user_visits/</link>
-      <description><![CDATA[      我的网站 https://tubehunts.com 突破 1000 后，我非常兴奋用户，有超过 100 名回访用户，163 名新 YouTuber 注册。我知道还有很长的路要走。    提交人    /u/Shahim_Sadakath   [link] [comments] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g8jxo3/crossed_1k_user_visits/</guid>
-      <pubDate>Mon, 21 Oct 2024 07:18:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
