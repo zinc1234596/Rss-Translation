@@ -4,111 +4,111 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Mon, 21 Oct 2024 06:22:44 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Oct 2024 09:17:34 GMT</lastBuildDate>
     <item>
-      <title>在开始一个项目之前，你如何评估你的项目潜力（比如收入上限）</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g8j6zo/before_starting_a_project_how_would_you_estimate/</link>
-      <description><![CDATA[我觉得不管你是独立开发者还是小型创业团队（比如我），最糟糕的项目不是那种很快被证明不是PMF工作的项目，而是那些你和你的合作伙伴投入了太多时间和精力却收获甚微的项目。 所以确定估算潜在收入上限的方法对我们来说是必要的。现在，我还处于对我的项目进行定性预测的早期阶段，我在思考不同的因素会如何影响：  需求水平 - 娱乐和一般社交需求等东西通常比你解决紧迫问题时支付意愿更弱。 替代方案 - 竞争越激烈，制定能给你额外利润的价格就越难。 用户密度 - 用户画像越清晰，你就能越有效地定位他们，这意味着成本更低来获取每个用户。  我很想听听你对此的想法。欢迎加入讨论！    提交人    /u/Independent-Brother9   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g8j6zo/before_starting_a_project_how_would_you_estimate/</guid>
-      <pubDate>Mon, 21 Oct 2024 06:21:47 GMT</pubDate>
+      <title>2024 年黑色星期五网络星期一特卖精选</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g8l6qq/curating_bfcm_deals_2024/</link>
+      <description><![CDATA[  由    /u/kadir_sayyed  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g8l6qq/curating_bfcm_deals_2024/</guid>
+      <pubDate>Mon, 21 Oct 2024 08:58:32 GMT</pubDate>
     </item>
     <item>
-      <title>通过 TheFluxTrain（副项目）解锁另一个级别</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g8irmn/another_level_unlocked_with_thefluxtrain_side/</link>
-      <description><![CDATA[      我上个月在 Reddit 上发布了新帖，现在它一直在稳步增长。 我没有做过昨天只工作了一个小时，看到这些小钱源源不断涌入，我感到非常满足。 目前平均每天付款 &gt;3 次。 下一个目标 - 平均每天付款 5 次    提交人    /u/Sensitive_Teacher_93   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g8irmn/another_level_unlocked_with_thefluxtrain_side/</guid>
-      <pubDate>Mon, 21 Oct 2024 05:51:10 GMT</pubDate>
+      <title>今天刚刚在 Product Hunt 上推出了我的第一个 SaaS——有什么改进建议吗？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g8l4rn/just_launched_my_first_saas_on_product_hunt/</link>
+      <description><![CDATA[大家好！经过数月的努力，我很高兴今天在 Product Hunt 上推出了 Huddlehire。🚀 这是一个旅程，现在它已经上线，我很乐意收到您的反馈或听取您的经验。 简而言之，HuddleHire 的作用如下： 它可以让您鸟瞰任何 GitHub 个人资料。只需放入一个链接，我们的平台就会生成顶级存储库的超详细摘要，帮助招聘人员和招聘经理对候选人的技术技能做出明智的决定。 我们构建此工具是因为 GitHub 个人资料通常很有说服力，但分析它们可能很耗时。 Huddlehire 旨在简化此过程，为开发人员的工作提供清晰的见解。 对于之前已启动项目的人：  您如何充分利用发布前阶段？在重要日子之前，有什么策略有助于建立势头？ 您是否使用过 Product Hunt 的预告功能？如果使用过，它在引起兴趣或建立订阅者群方面效果如何？ 哪些渠道或技巧帮助您将早期注册用户转化为发布后的活跃用户？  您可以分享任何反馈、提示或故事吗？ 提前感谢您的帮助，祝您自己的项目好运！    提交人    /u/kevinyoork   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g8l4rn/just_launched_my_first_saas_on_product_hunt/</guid>
+      <pubDate>Mon, 21 Oct 2024 08:54:09 GMT</pubDate>
     </item>
     <item>
-      <title>面向前端开发人员的 Canva (Webtistic)✨-功能更新！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g8io2w/canva_for_frontend_developers_webtistic_feature/</link>
-      <description><![CDATA[      https://css-canvas.vercel.app/ 大家好， 几天前，我们在 reddit 上发布了关于此内容的帖子，根据您的反馈，我们在此工具中引入了一些新功能。以下是主要内容： 1. 双向编辑现在完全可以正常运行！您可以直接在代码中或画布中进行更改，并且它们将实时同步。 2. 我们为画布引入了类似 android studio 设计编辑器的界面。您可以实时测试 css 响应能力。 即将推出， 1. 我们计划提供一个预先设计的组件库，以便与各种组件即插即用。 2. 支持更多 html 标签和 css 属性。 3. 更好的默认样式和画布体验。 我们还在开发此工具的 React 版本，该版本将为 React 应用程序提供即插即用支持，并且我们正在将 MUI 和 Ant Design 等组件库与其集成。 敬请期待，如有任何反馈或功能建议，请随时与我们联系！💝 https://css-canvas.vercel.app/    提交人    /u/Inside-Stay2539   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g8io2w/canva_for_frontend_developers_webtistic_feature/</guid>
-      <pubDate>Mon, 21 Oct 2024 05:44:00 GMT</pubDate>
+      <title>[请求] 用于生成 iOS App Store 资产的 AI 工具</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g8kw9w/request_ai_tool_for_generating_ios_app_store/</link>
+      <description><![CDATA[大家好，r/SideProject 社区！👋 我正在寻找有关 AI 工具的推荐，以帮助生成适用于 App Store 的 iOS 应用图标和屏幕截图。以下是我想要的： 需求：作为开发人员，我发现为 App Store 创建具有视觉吸引力的应用图标和屏幕截图非常耗时。我正在寻找一种 AI 解决方案来简化此过程。 我正在寻找：一种可以执行以下操作的 AI 工具：1. 根据应用描述或关键字生成应用图标 2. 创建突出显示主要功能的应用屏幕截图 3. 确保所有资产符合 Apple 的指南 所需功能： - 用于描述所需美学的易于使用的界面 - 生成资产的自定义选项 - 以适用于 App Store 的格式导出 问题： - 有人为此使用过 AI 工具吗？ - 您是否推荐任何特定服务或平台？ - 您对 AI 生成的应用商店资产有何经验？ 如果您已经解决了这个挑战或知道好的解决方案，我很乐意听取您的见解！提前感谢任何建议或意见。    提交人    /u/ChoiceTwist7237   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g8kw9w/request_ai_tool_for_generating_ios_app_store/</guid>
+      <pubDate>Mon, 21 Oct 2024 08:35:14 GMT</pubDate>
     </item>
     <item>
-      <title>检查 https://devtools.proinfocus.com/</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g8hwof/check_httpsdevtoolsproinfocuscom/</link>
-      <description><![CDATA[  由    /u/Electronic_Oven3518  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g8hwof/check_httpsdevtoolsproinfocuscom/</guid>
-      <pubDate>Mon, 21 Oct 2024 04:51:47 GMT</pubDate>
+      <title>我制作了一个工具来查看我们的电子邮件何时被打开</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g8kukz/i_made_a_tool_to_see_when_our_emails_are_opened/</link>
+      <description><![CDATA[      https://preview.redd.it/1djah0s1m2wd1.png?width=1234&amp;format=png&amp;auto=webp&amp;s=91b1b9257f11ca46e814a0a017d13a88fde88a89 我一直想知道一些重要的电子邮件何时被打开，所以我做了一个！专门用于 gmail。 您可以在这里使用它 https://arepo.khoshghadam.com 让我知道你的想法    由   提交  /u/yooneskh   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g8kukz/i_made_a_tool_to_see_when_our_emails_are_opened/</guid>
+      <pubDate>Mon, 21 Oct 2024 08:31:29 GMT</pubDate>
     </item>
     <item>
-      <title>我从 FeatureFlow 赚到了我的第一个 200 美元（差不多😭）🎉🎉🎉🎉</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g8hpis/i_made_my_first_200_almost_from_featureflow/</link>
-      <description><![CDATA[        由    /u/Substantial_Tell_555   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g8hpis/i_made_my_first_200_almost_from_featureflow/</guid>
-      <pubDate>Mon, 21 Oct 2024 04:38:31 GMT</pubDate>
+      <title>我们刚刚赢得了 TechStars Startup Weekend Zilina！🚀</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g8krba/we_just_won_techstars_startup_weekend_zilina/</link>
+      <description><![CDATA[      我的团队刚刚赢得了 Startup Weekend Zilina与我们的初创公司合作！这真是太棒了，考虑到我错过了购买活动门票的机会，但仍然决定在活动当天去那里尝试进入。我很高兴我这么做了！ 我加入了一个很棒的团队，整个周末我们齐心协力，将我们的想法付诸实践。我为每一位队友感到非常自豪——他们都是很棒的人。 我们的产品可帮助初级开发人员创建雇主喜爱的项目组合。❤️ 我们的产品已准备就绪并投入使用，正在进行最后的增强。 如果您希望您的作品集得到招聘人员的关注，请在此处加入候补名单！ https://blinkfolio.framer.website    提交人    /u/Absinthko   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g8krba/we_just_won_techstars_startup_weekend_zilina/</guid>
+      <pubDate>Mon, 21 Oct 2024 08:24:14 GMT</pubDate>
     </item>
     <item>
-      <title>Splitr——简化团体账单分拆！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g8h8gq/splitr_simplify_group_bill_splitting/</link>
-      <description><![CDATA[大家好！我很高兴与大家分享 Splitr 的测试版，这款应用让拆分团体账单变得前所未有的简单。只需上传收据，Splitr 就会自动列出所有项目，这样您就可以按单个项目拆分账单。非常适合与朋友外出、工作午餐或任何团体活动！ 加入我们的 TestFlight，帮助我们改进 Splitr！您的反馈非常有价值，我们很乐意听到您的想法。 在此处测试： https://testflight.apple.com/join/X8EPt7CK 感谢您的支持！    由   提交 /u/Various-Feed-377   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g8h8gq/splitr_simplify_group_bill_splitting/</guid>
-      <pubDate>Mon, 21 Oct 2024 04:08:17 GMT</pubDate>
+      <title>我和我的朋友 ChatGPT 在 20 周内开发了 20 个应用程序，这是第 3 个应用程序。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g8kr81/my_friend_chatgpt_and_i_are_building_20_apps_in/</link>
+      <description><![CDATA[\我删除了之前的帖子，因为它错误地称这是在 20* 天内开发 20 个应用程序，这具有误导性。我向所有关注我设定的挑战的人道歉。 现在，开始开发新应用程序！ 所以，在你责备我放弃并开发 Chrome 扩展程序并说“那不是真正的应用程序”之前，是的，我知道，这是一个扩展程序，但它仍然是使用 AI 构建的。它解决了一个问题并有实际用途。 此外，这 100% 只是我和 AI 构建了这个扩展和登录页面，因此制作扩展所需的代码技能比以前更少了！ 我还有另一个扩展即将面向 Make.com 和 Zapier 高级用户推出，另一个扩展计划稍后推出，但这就是扩展的全部内容。 PrivacyPal - 使用 AI 简化细则 https://privacypal.cc PrivacyPal 是我们“20 周 20 个应用”挑战中的第三个产品，在这个产品中，我和朋友 ChatGPT 正在使用 AI 构建解决特定问题的产品。 PrivacyPal 是一个 Chrome 扩展程序，可以读取并分解条款和条件或隐私政策中隐藏的术语我们不断被迫同意，这使得在单击“接受”之前更容易理解你同意的内容。 这个工具的想法是在迪士尼诉讼之后产生的，当时在一个公园发生了一起悲惨的事件，他们的律师试图通过引用 Disney Plus 条款中的隐藏条款来推卸责任。 这让我大开眼界，了解到公司是如何在我们都浏览过的文件中隐藏重要细节的。使用 PrivacyPal，您可以快速扫描这些页面并做出明智的选择。 此工具是一项更广泛实验的一部分，旨在证明像这样的一次性工具可能就是未来，它允许人们创建解决其问题的产品，而无需庞大的 SaaS 平台。 如果您想查看已构建和正在进行的其他应用程序，请查看 https://businessdaddy.org https://reddit.com/link/1g8kr81/video/as2qsbtfk2wd1/player    提交人    /u/redditborkedmy8yracc   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g8kr81/my_friend_chatgpt_and_i_are_building_20_apps_in/</guid>
+      <pubDate>Mon, 21 Oct 2024 08:24:02 GMT</pubDate>
     </item>
     <item>
-      <title>我开发了一款人工智能工具，可以将博客文章转换成引人注目的信息图表，名为 EzyGraph</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g8h5zo/i_built_an_aipowered_tool_that_converts_blog/</link>
-      <description><![CDATA[        提交人    /u/Ill-Economist5659   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g8h5zo/i_built_an_aipowered_tool_that_converts_blog/</guid>
-      <pubDate>Mon, 21 Oct 2024 04:04:00 GMT</pubDate>
+      <title>在 App Store 上查看 Themescape！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g8konx/check_out_themescape_on_app_store/</link>
+      <description><![CDATA[        提交者    /u/karma_1264   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g8konx/check_out_themescape_on_app_store/</guid>
+      <pubDate>Mon, 21 Oct 2024 08:18:30 GMT</pubDate>
     </item>
     <item>
-      <title>我、一位朋友和 chatGPT 在 20 天内开发了 20 个应用程序，这是第 3 个应用程序。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g8gx58/me_a_friend_and_chatgpt_are_building_20_apps_in/</link>
-      <description><![CDATA[所以，在您因为我放弃构建 Chrome 扩展程序而责备我并说“那不是一个真正的应用程序”之前，是的，我知道，这是一个扩展程序，但它仍然是用 AI 构建的。它解决了一个问题并有实际用途。 此外，这 100% 都是我和 AI 共同构建的，当然还有登陆页面，因此制作扩展所需的代码技能比以前更少了！ 我还有另一个面向 Make.com 和 Zapier 高级用户的扩展，还有一个计划在稍后推出，但扩展就这些了。&lt;​​/p&gt; PrivacyPal - 使用 AI 简化细则 https://privacypal.cc PrivacyPal 是我们“20 周 20 个应用”挑战中的第三个产品，我和朋友 ChatGPT 正在使用 AI 构建解决特定问题的产品。 PrivacyPal 是一个 Chrome 扩展程序，可以读取并分解条款和条件或隐私政策中隐藏的术语我们不断被迫同意，这使得在单击“接受”之前更容易理解你同意的内容。 这个工具的想法是在迪士尼诉讼之后产生的，当时在一个公园发生了一起悲惨的事件，他们的律师试图通过引用 Disney Plus 条款中的隐藏条款来推卸责任。 这让我大开眼界，了解到公司是如何在我们都浏览过的文件中隐藏重要细节的。使用 PrivacyPal，您可以快速扫描这些页面并做出明智的选择。 此工具是一项更广泛实验的一部分，旨在证明像这样的一次性工具可能就是未来，它允许人们创建解决其问题的产品，而无需庞大的 SaaS 平台。 如果您想查看已构建和正在进行的其他应用程序，请查看 https://businessdaddy.org https://reddit.com/link/1g8gx58/video/cm83lm5r71wd1/player https://www.youtube.com/watch?v=wikQhyuD6K8    由    /u/redditborkedmy8yracc 提交   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g8gx58/me_a_friend_and_chatgpt_are_building_20_apps_in/</guid>
-      <pubDate>Mon, 21 Oct 2024 03:49:09 GMT</pubDate>
+      <title>从深夜编程到 App Store 推荐：Opus 有声读物之旅</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g8kolr/from_latenight_coding_to_app_store_feature_the/</link>
+      <description><![CDATA[嘿 r/SideProject！ 我想分享一个关于我的业余项目 Opus Audiobooks 的成功故事，希望它能够激励或帮助其他从事自己项目的人。 大约一年前，我和我的朋友（分别位于哥本哈根和奥斯陆）开始开发一款用于经典有声读物的 iOS 应用。我们都是文学迷，希望创造一些东西，让经典在数字时代更容易获得、更吸引人。 关键里程碑：  经过 6 个月的夜以继日的辛勤工作，终于在 App Store 上线 被 Apple 评为“本周最佳新应用” 目前用户遍布 78 个国家 近期下载量突破 10,000 次  我们采取的措施：  专注于小众群体（古典文学爱好者），而不是试图吸引所有人 重质不重量 - 我们改进了录音，并创建了自定义插图 根据用户反馈不断迭代 利用我们独特的爱好和专业技能（文学专业知识 + iOS 开发 + 设计）  我们面临的挑战：  平衡全职工作与开发 以极低的预算进行营销 与免费替代品竞争  当前状态：  每月收费 4 美元以覆盖成本（未达到盈亏平衡尚未开发，但正在不断增长） 不断添加新功能和书籍 规划我们的首次重大更新  对于任何想要尝试的人，这里有一个 6 个月的免费试用代码：https://apps.apple.com/redeem?ctx=offercodes&amp;id=6463743274&amp;code=BOOKWORM 如果您正在从事副项目，请继续努力！很高兴回答有关我们的流程、应用商店提交或其他任何问题。    提交人    /u/thundercph   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g8kolr/from_latenight_coding_to_app_store_feature_the/</guid>
+      <pubDate>Mon, 21 Oct 2024 08:18:21 GMT</pubDate>
     </item>
     <item>
-      <title>免费应用程序来追踪和改善你的情绪</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g8gpco/free_app_to_track_and_improve_your_mood/</link>
-      <description><![CDATA[      https://preview.redd.it/qnabper151wd1.png?width=3006&amp;format=png&amp;auto=webp&amp;s=f22e0326ebc4efe45c2e60d66ccf70b46bee3e49    提交人    /u/Responsible_Sand_607   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g8gpco/free_app_to_track_and_improve_your_mood/</guid>
-      <pubDate>Mon, 21 Oct 2024 03:36:03 GMT</pubDate>
+      <title>我的周末项目：TabTimer（浏览器的微型计时器）</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g8klgv/my_weekend_project_tabtimer_a_tiny_timer_for_your/</link>
+      <description><![CDATA[        提交人    /u/jnyms   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g8klgv/my_weekend_project_tabtimer_a_tiny_timer_for_your/</guid>
+      <pubDate>Mon, 21 Oct 2024 08:11:05 GMT</pubDate>
     </item>
     <item>
-      <title>我的新 SaaS 的免费测试时段：监控正常运行时间、性能并获取警报 🚀</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g8gat9/free_test_slots_for_my_new_saas_monitor_uptime/</link>
-      <description><![CDATA[  由   提交  /u/Select_Potato_6232   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g8gat9/free_test_slots_for_my_new_saas_monitor_uptime/</guid>
-      <pubDate>Mon, 21 Oct 2024 03:13:08 GMT</pubDate>
+      <title>ProductHunt 推出 RoMo 应用程序</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g8kflj/producthunt_launch_of_romo_app/</link>
+      <description><![CDATA[嗨 👋 我们几个经验丰富的公司专业人士一直在周末从事一个业余项目，并于今天在 ProductHunt 上发布了它：www.producthunt.com/products/romo  我们非常感谢您的支持、投票和反馈！ 展示 #producthunt    提交人    /u/Friendly-Leading-278   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g8kflj/producthunt_launch_of_romo_app/</guid>
+      <pubDate>Mon, 21 Oct 2024 07:58:10 GMT</pubDate>
     </item>
     <item>
-      <title>创建思维导图，利用人工智能学习新事物（免费、开源）</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g8fsga/create_mind_maps_to_learn_new_things_with_ai_free/</link>
-      <description><![CDATA[      嘿！发布我使用 LLM 构建的第一个开源项目。 该项目通过让 LLM 为主题、子主题和引用外部链接创建思维导图来帮助您学习新知识。 它完全免费且开源，请随意查看并试用代码！ 您可以使用外部或本地模型（通过 Ollama 使用 llama 3.1 8b 进行测试），README 文件中说明了该设置。 欢迎提供任何反馈！希望有用    提交人    /u/arthurtakeda   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g8fsga/create_mind_maps_to_learn_new_things_with_ai_free/</guid>
-      <pubDate>Mon, 21 Oct 2024 02:44:42 GMT</pubDate>
+      <title>我们建立了一个基于法学硕士的症状检查器</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g8kb2t/we_built_an_llmbased_symptom_checker/</link>
+      <description><![CDATA[大家好！ 经过六个月的（兼职）工作，我们的团队（医生、药剂师和数据工程师）非常高兴与您分享 MedAsk——一种基于聊天的医疗 AI，旨在帮助您了解和管理您的症状。 MedAsk 的工作原理 [DEMO]:  分享您的症状：像向医生描述一样描述困扰您的事情。您的描述越详细，MedAsk 就越能了解您的症状。 回答后续问题：根据您提供的症状，MedAsk 会询问进一步的问题，以收集有关您潜在健康状况的更多详细信息。 获得见解：在访谈结束时，MedAsk 提供： 可能的健康状况列表 解释您的症状如何表明每种状况 后续步骤的建议 评估报告，您可以与医生分享   我们希望您尝试一下 - 无需注册，完全免费！这只需要几分钟，您的反馈对我们意义重大。 👉 尝试一下：https://medask.tech/ 提醒一下：MedAsk 是一个有用的指南，但不能替代专业的医疗建议。如果有严重的健康问题，一定要去看医生。    提交人    /u/Significant-Pair-275   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g8kb2t/we_built_an_llmbased_symptom_checker/</guid>
+      <pubDate>Mon, 21 Oct 2024 07:47:51 GMT</pubDate>
     </item>
     <item>
-      <title>在哪里可以找到愿意和我一起从事副业项目的人？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g8dy5g/where_do_i_find_people_to_work_on_side_projects/</link>
-      <description><![CDATA[有没有什么平台可以让我找到和我一起从事 sideproject 的人？    提交人    /u/Fragrant_Piece5595   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g8dy5g/where_do_i_find_people_to_work_on_side_projects/</guid>
-      <pubDate>Mon, 21 Oct 2024 01:03:10 GMT</pubDate>
+      <title>寻找适用于 WordPress 的闪电般快速的商业目录插件的 Beta 测试人员 🚀</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g8k9m6/seeking_beta_testers_for_lightningfast_business/</link>
+      <description><![CDATA[      嘿 r/SideProject！ 👋 我开发了一个名为 TurnKey Directories 的新 WordPress 插件，旨在通过 .CSV 文件在几秒钟内创建大量商业目录（最多 50,000 个列表）。与大多数目录插件不同，它速度极快，并且非常容易与任何 WordPress 主题配合使用。 我正在寻找 Beta 测试人员来帮助我在发布之前完善它。您将获得早期访问权限，您的反馈将非常宝贵！ 感兴趣吗？请在下方发表评论，或直接发私信给我，我会向您发送详细信息！ 😊 https://preview.redd.it/w9awntgkd2wd1.jpg?width=1891&amp;format=pjpg&amp;auto=webp&amp;s=f52622edb302016680bf81ca5a6e74628f55af15    提交人    /u/Dry-Consequence-5312   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g8k9m6/seeking_beta_testers_for_lightningfast_business/</guid>
+      <pubDate>Mon, 21 Oct 2024 07:44:39 GMT</pubDate>
     </item>
     <item>
-      <title>有人对 1000 多个播客的转录感兴趣吗？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g8dj1i/anybody_interested_in_transcriptions_of_1000/</link>
-      <description><![CDATA[正如标题所说，我想看看是否有人对超过 1k 个播客的转录感兴趣。 一段时间以来，我一直在转录播客，并使用这些数据来支持我的另一个项目（效果非常好）。 我想看看这些数据中是否还有其他价值，或者它是否只对我当前的项目有用。 以下是我认为数据可以用于的一些方面： 1 - 训练 AI 模型（文本转语音、语音转文本、法学硕士 (LLM)） 2 - 电子书？也许？ 3 - 类似于 podscan 的服务 无论如何，如果您对此感兴趣，请告诉我。     由    /u/kluxRemover 提交   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g8dj1i/anybody_interested_in_transcriptions_of_1000/</guid>
-      <pubDate>Mon, 21 Oct 2024 00:40:23 GMT</pubDate>
+      <title>接收国际付款的最佳平台是什么？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g8k5lu/whats_the_best_platform_for_recieving/</link>
+      <description><![CDATA[我有一个桌面应用程序，我想集成支付系统，但我不知道应该选择哪个平台。我尝试了 stripe、paypal 和 paddle，但 stripe 只接受印度的邀请，PayPal 的费用很高，而 paddle 不接受，所以我想知道还有其他平台可以接受国际付款吗？    提交人    /u/Crafty-Feature2303   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g8k5lu/whats_the_best_platform_for_recieving/</guid>
+      <pubDate>Mon, 21 Oct 2024 07:35:33 GMT</pubDate>
     </item>
     <item>
-      <title>召集所有喜剧演员和演员：通过 YourWay.Store 上的比赛将您的才华转化为金钱</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g8cyik/calling_all_comedians_actors_monetize_your_talent/</link>
-      <description><![CDATA[大家好！ 如果您是一名演员或喜剧演员，希望通过自己的才华赚钱并扩大观众群，那么我一直在开发一个可能非常适合您的平台。 YourWay.Store 举办喜剧和表演比赛，参与者可以展示自己的才华，并通过独特的按投票付费系统赚钱。 运作方式如下： 🎭 参加喜剧或表演比赛：无论您是表演单口喜剧、短剧还是戏剧表演，都有适合您的比赛！展示您的技能并以有意义的方式与粉丝建立联系。 💸 通过按次付费投票赚钱：您的表演获得的每张选票都等于收入，因此您吸引的观众越多，您赚的就越多。这是通过内容获利的一种创新方式。 📈 SEO 优化以扩大您的受众：我们努力针对 Google 等搜索引擎优化平台，这有助于您的视频获得更多曝光。 🆓 完全免费使用：参加比赛或使用平台无需任何费用。您可以专注于您的手艺，我们来处理技术问题。 如果您是一名喜剧演员或演员，希望扩大观众群并通过内容获利，请查看通过喜剧和表演才华获利。 我很想听听您的想法或关于如何改善表演者体验的任何建议。这里还有其他人从事类似项目或使用基于视频的平台吸引观众吗？    提交人    /u/YourWayStore   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g8cyik/calling_all_comedians_actors_monetize_your_talent/</guid>
-      <pubDate>Mon, 21 Oct 2024 00:10:40 GMT</pubDate>
+      <title>刚刚在 Product Hunt 上发布！希望得到一些反馈</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g8k3c6/just_launched_on_product_hunt_would_love_some/</link>
+      <description><![CDATA[大家好， 我是一名独立开发者，刚刚在 Product Hunt 上发布了我的第一款 SaaS。我很乐意就 Product Hunt 的首次发布和产品获得一些反馈。 该产品是一种工具，可帮助创作者和开发者通过 Stripe 出售对其私有 GitHub 存储库的访问权限，从而将其货币化（不收取任何收入） 这是发布的链接：https://www.producthunt.com/posts/repocharge 谢谢    提交人    /u/notunderctrl   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g8k3c6/just_launched_on_product_hunt_would_love_some/</guid>
+      <pubDate>Mon, 21 Oct 2024 07:30:43 GMT</pubDate>
     </item>
     <item>
-      <title>让艺术家能够将其作品货币化：加入 YourWay.Store 上的艺术比赛</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1g8cwc1/empower_artists_to_monetize_their_work_join_the/</link>
-      <description><![CDATA[大家好， 我一直在开发一个平台，我很高兴与大家分享，特别是对于那些想要扩大受众群体并将作品货币化的艺术家来说。 YourWay.Store 提供定期的艺术比赛，让艺术家可以展示他们的作品，与粉丝联系，并通过独特的按投票付费系统赚钱。 以下是我们正在构建的一些内容： 🎨 提交您的艺术作品：无论您专攻数字艺术、传统绘画还是任何视觉媒体，您都可以将您的作品提交给我们的比赛。这里总有创造力的空间。 💸 通过按次付费投票获利：您的支持者可以为您的作品投票，每次投票都会产生收入。这是一种同时建立曝光度和收入的引人入胜的方式。 📈 针对艺术家进行了 SEO 优化：我们优化了平台，使每件艺术品在 Google 等搜索引擎中具有更高的可见性，帮助创作者吸引更大的受众。 🆓 免费加入和使用：没有隐藏费用或订阅 - 艺术家入门所需的一切都是免费的。你专注于你的艺术；我们处理其余的事情。 如果您是一位艺术家，希望将您的作品货币化或只是想要一个展示您作品的空间，我希望您查看一下：在 YourWay.Store 上将您的艺术货币化 我很乐意听取其他创作者的反馈或关于如何改进艺术家平台的想法！还有其他人从事基于艺术的副业吗？    提交人    /u/YourWayStore   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1g8cwc1/empower_artists_to_monetize_their_work_join_the/</guid>
-      <pubDate>Mon, 21 Oct 2024 00:07:31 GMT</pubDate>
+      <title>用户访问量突破 1K</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1g8jxo3/crossed_1k_user_visits/</link>
+      <description><![CDATA[      我的网站 https://tubehunts.com 突破 1000 后，我非常兴奋用户，有超过 100 名回访用户，163 名新 YouTuber 注册。我知道还有很长的路要走。    提交人    /u/Shahim_Sadakath   [link] [comments] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1g8jxo3/crossed_1k_user_visits/</guid>
+      <pubDate>Mon, 21 Oct 2024 07:18:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
