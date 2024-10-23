@@ -4,7 +4,98 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Wed, 23 Oct 2024 15:16:03 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Oct 2024 18:19:54 GMT</lastBuildDate>
+    <item>
+      <title>我可以帮助开发人员构建多个副项目吗？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1gah2f6/could_i_help_devs_building_multiple_side_projects/</link>
+      <description><![CDATA[构建副项目需要什么帮助？ 我试图了解构建多个副项目的构建者，看看我如何真正帮助他们，因为我确实拥有各种技能。我知道营销是一个很大的麻烦，因为大多数这样的人只是喜欢构建而不是营销他们的产品，能够同时做到这两点的人通常是在这个“独立黑客”领域取得成功的人。我是一个真正喜欢看到人们在公共场合构建并向他们学习并受到他们启发的人，但我开始意识到有那么多人试图构建伟大的东西，但可能需要帮助？试图了解什么样的帮助可能是真正的好奇心 请不要说销售，因为我真的认为如果你的产品很好并且向合适的人群进行了很好的营销，那么销售应该自然而然地发生 - 说起来容易做起来难。  全面披露：这种好奇心始于我试图寻找开发人员来帮助我的创业公司正在构建的项目（一个无服务器应用程序云，只需一次点击即可从代码转换为 URL），因为我们提供免费托管以换取反馈，但后来我很好奇这些建设者实际上可以通过哪些方式获得帮助？假期快到了，我希望能用节日精神回馈建设者，他们最终会激励像我这样的其他人！    提交人    /u/learningdevops   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1gah2f6/could_i_help_devs_building_multiple_side_projects/</guid>
+      <pubDate>Wed, 23 Oct 2024 18:00:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>烤我的 Chrome 扩展程序！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1gagof5/roast_my_chrome_extension/</link>
+      <description><![CDATA[大家好，看到这里所有这些令人惊叹的项目后，我感觉自己有点格格不入。我最近决定尝试构建 Chrome 扩展程序，这似乎又快又简单，尤其是在看到 YouTube 上有人每月赚 2 万美元，而这个扩展程序似乎并不难制作之后。 因此，我花了几个小时用 React 编写了一些简单的东西，如下所示：https://chromewebstore.google.com/detail/text-toolkit-pro/fkcaecjppokldbboijnaiemackglippl。  这是一个快速文本操作工具，如大小写转换、删除字符、编码、变音符号删除、数字转换、查找和替换、排序、JSON 验证等等。 如果我有几个用户，我计划添加更多功能，如启用/禁用特定功能、重新排序，甚至为多个操作创建宏。让我知道你的想法，如果需要的话，狠狠地批评我！ 你会添加什么？谢谢你的反馈！    提交人    /u/andrewpro574   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1gagof5/roast_my_chrome_extension/</guid>
+      <pubDate>Wed, 23 Oct 2024 17:45:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>索姆</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1gago8h/sommeai/</link>
+      <description><![CDATA[  由    /u/SommeAI  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1gago8h/sommeai/</guid>
+      <pubDate>Wed, 23 Oct 2024 17:44:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>从 Gumroad 的产品数据中发现一些潜在机会</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1gag0p3/discover_some_potential_opportunities_from/</link>
+      <description><![CDATA[Gumroad 是一个电子商务平台，允许创作者直接向他们的受众销售产品。 我认为分析 Gumroad 的产品数据有一些潜在的机会。你怎么看？    提交人    /u/Real-Willingness-603   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1gag0p3/discover_some_potential_opportunities_from/</guid>
+      <pubDate>Wed, 23 Oct 2024 17:17:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>我正在将 Drizzle ORM 与 PostgreSQL 结合使用，需要帮助创建具有关系的表。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1gafuyk/im_using_drizzle_orm_with_postgresql_and_need/</link>
+      <description><![CDATA[我想建立一对多关系，其中一个用户可以拥有多项资产，但资产本身也可以与许多用户相关。在 MongoDB 中，我只需将用户 ID 存储在资产集合中并基于此进行查询。但是，我对如何使用 Drizzle ORM 在 PostgreSQL 中创建这些关系并执行查询（创建、更新、删除）感到困惑。 例如： 如何设置具有这些关系的表？ 如何查询特定用户的所有资产，反之亦然（查找特定资产的所有用户）？ 如果有人可以提供表设置和查询的示例，那将非常有帮助！ 谢谢！    提交人    /u/Mediocre_Beyond8285   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1gafuyk/im_using_drizzle_orm_with_postgresql_and_need/</guid>
+      <pubDate>Wed, 23 Oct 2024 17:11:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Formisoft 简化患者入院流程</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1gafu6l/simplifying_patient_intake_with_formisoft/</link>
+      <description><![CDATA[大家好 👋  我正在构建 Formisoft.com，这是一种让医疗保健提供者可以轻松安全地填写患者入院表格的工具。您可以自定义适用于任何设备的数字表格（患者可以在手机上填写！），我们直接与您的 EHR 系统集成（通过医疗保健的 Zappier 替代方案） 我们致力于减少文书工作并为诊所和患者节省时间。欢迎任何反馈或想法！    提交人    /u/VincentXplore   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1gafu6l/simplifying_patient_intake_with_formisoft/</guid>
+      <pubDate>Wed, 23 Oct 2024 17:10:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Shadcn 表单生成器 - 开源项目</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1gafesk/shadcn_form_builder_open_source_project/</link>
+      <description><![CDATA[        提交人    /u/Economy-Shower-6521   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1gafesk/shadcn_form_builder_open_source_project/</guid>
+      <pubDate>Wed, 23 Oct 2024 16:53:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了自己的安全密码管理器：SHIELD</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1gaf5wn/i_built_my_own_secure_password_manager_shield/</link>
+      <description><![CDATA[我最近构建了一个名为SHIELD的安全密码管理器，专注于采用零知识架构的端到端加密。其背后的想法源自我自己对信任默认密码管理器的担忧。我想创造一个将安全放在首位，让用户可以完全控制其数据处理方式的东西。 GitHub 存储库 我为何创建 SHIELD  AES-256 加密，实现一流的数据安全性。 零知识架构，这意味着即使我（作为开发人员）也无法访问您的密码 - 所有内容在传输之前都会在您的设备上加密。 采用隐私优先设计，因为在当今世界，您不应该在密码方面盲目信任任何人。  开源和社区驱动 🎉 我的目标之一是SHIELD 尽可能透明，所以我也提供了源代码。我非常渴望获得反馈并将其构建为社区项目。 寻求您的反馈！ 以下是我真正需要您帮助的地方：  安全审核：如果有人发现漏洞或需要改进的地方，我很乐意听取您的建议。 用户体验：使用 SHIELD 的感觉如何？我应该添加或改进哪些功能？ 贡献：对于任何从事安全或开发的人，我都非常感谢您对该项目的任何贡献，使其变得更好！     提交人    /u/ompatil_15   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1gaf5wn/i_built_my_own_secure_password_manager_shield/</guid>
+      <pubDate>Wed, 23 Oct 2024 16:43:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>我正在构建一个平台，帮助技术专家/首席技术官更有效地利用他们的时间，并帮助创始人/公司快速获得高级专业知识来解决他们的挑战。希望得到反馈！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1gaectl/i_am_building_a_platform_to_help_tech_experts/</link>
+      <description><![CDATA[大家好！在努力寻找一种简单的方法来将我作为 CTO 的时间和专业知识货币化之后——除了处理 LinkedIn DM 或在 Twitter 和社交媒体上发布我的日历链接——我决定建立自己的平台。它是专门为像我这样想要从事有意义的项目而又不想麻烦的部分 CTO 设计的。 这个想法很简单：将需要 CTO 专业知识的企业家或初创公司与随时准备参与的专家联系起来。为了衡量需求，我正在为想要参与的其他 CTO 分享一份快速表格。非常希望听到关于这个概念的任何想法或严厉的反馈！ https://tally.so/r/w2Jqlp 感谢您的关注，非常感谢您的反馈！   由    /u/ucefr  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1gaectl/i_am_building_a_platform_to_help_tech_experts/</guid>
+      <pubDate>Wed, 23 Oct 2024 16:10:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>请批评我的应用程序！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1gaeb6d/please_roast_my_app/</link>
+      <description><![CDATA[大家好，我花了很长时间开发我的应用程序 - Aveetar.com 它会根据您的产品网址创建简短的视频广告。 请批评它，以便我可以尝试改进它。任何反馈都值得赞赏。    提交人    /u/elefphlant   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1gaeb6d/please_roast_my_app/</guid>
+      <pubDate>Wed, 23 Oct 2024 16:08:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们开发了一款极简应用，可将 Excel 锻炼追踪器转变为 Web 应用！没有花哨的设计，只是简单明了，专为使用 Excel 跟踪锻炼计划的任何人而设计。我们很乐意免费分享它，以换取一些反馈，只需评论或直接留言 :)</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1gaeahr/we_built_a_minimal_app_that_turns_excel_workout/</link>
+      <description><![CDATA[        由    /u/DataHoneyBadger 提交   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1gaeahr/we_built_a_minimal_app_that_turns_excel_workout/</guid>
+      <pubDate>Wed, 23 Oct 2024 16:07:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>没人看广告：印刷广告和户外广告的档案（另外还有每则广告做得好的一件事）。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1gaderj/nobody_reads_ads_archive_of_print_outdoor_ads/</link>
+      <description><![CDATA[        由    /u/kervokian 提交   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1gaderj/nobody_reads_ads_archive_of_print_outdoor_ads/</guid>
+      <pubDate>Wed, 23 Oct 2024 15:31:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>罗伯·莱纳斯 (Rob Reiners) 的播客《谁杀了肯尼迪》 (Who Killed JFK) 一炮走红。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1gad88t/rob_reiners_pod_cast_who_killed_jfk_crashed_and/</link>
+      <description><![CDATA[罗伯·莱纳 (Rob Reiner) 制作了一个播客，他承诺会告诉我们在第 10 集中杀死肯尼迪的四名枪手的名字。现在只有两件事发生了。第一，他从来不知道枪手的名字。或者像马克·莱恩 (Mark Lane) 出版商受到秘密警察的威胁，不出版《急于审判》(Rush to Judgment)。罗伯可能曾拜访过某个人，并明确表示不要提及任何名字。我浪费了时间听罗伯和奥布赖恩 (Obrian) 的无数广告，却在第 10 集中一无所获。    提交人    /u/Truth_seeker_2023   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1gad88t/rob_reiners_pod_cast_who_killed_jfk_crashed_and/</guid>
+      <pubDate>Wed, 23 Oct 2024 15:23:51 GMT</pubDate>
+    </item>
     <item>
       <title>推出我的网站：我的工作、博客等等。</title>
       <link>https://www.reddit.com/r/SideProject/comments/1gacxpc/launched_my_website_my_work_blogs_and_more/</link>
@@ -18,97 +109,6 @@
       <description><![CDATA[      一个月前，我看到 levelsio 的推文咆哮着他的域名托管噩梦。像你们中的许多人一样，我喜欢把别人的挫败感变成副业，所以我投身其中。 问题：  域名转移感觉停留在 21 世纪初 身份验证是一场噩梦（尤其是对于数字游民而言） 状态更新出奇地模糊 付款方式有限 简单的转账需要很长时间  解决方案：建立了一个现代化的转账服务：  只需 &lt;1 分钟即可启动 显示清晰的状态更新 接受多种付款方式，安全保管直到收到域名 处理快速付款 适用于“非传统” 技术栈：  建立在现代支付基础设施之上 专注于透明的交易阶段 简单、干净的界面 （乐意在评论中分享更多细节）  寻找：  来自任何在二手市场为他们的副项目购买或出售过域名的人的用户流程的反馈。 来自同行制造商的功能建议 我可能错过的痛点 对方法的总体想法  这个项目源于看到问题并思考“一定有更好的方法”。很想听听您对域名转移的想法和经验！ https://preview.redd.it/rlx3gx5iuiwd1.png?width=670&amp;format=png&amp;auto=webp&amp;s=5745e0eecc55a2af73b7b0c69b9443d57d7611ab    提交人    /u/Tiny_Technology   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1gacvxf/built_a_modern_domain_transfer_service_after/</guid>
       <pubDate>Wed, 23 Oct 2024 15:09:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>我有睡眠问题，所以我编写了一个应用程序来限制我晚上玩手机</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1gacgvn/i_had_sleep_problems_so_i_coded_an_app_to/</link>
-      <description><![CDATA[        提交人    /u/MacMoneysack   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1gacgvn/i_had_sleep_problems_so_i_coded_an_app_to/</guid>
-      <pubDate>Wed, 23 Oct 2024 14:52:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>我完成了我的新的免费调色板生成器工具的构建</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1gacf57/i_finished_building_my_new_free_color_palette/</link>
-      <description><![CDATA[      我构建了一个名为 Clariss 的免费在线调色板生成器工具。它可以生成四种配色方案的调色板；单色，类似，互补和三色。 https://preview.redd.it/yxq4nizqqiwd1.png?width=1122&amp;format=png&amp;auto=webp&amp;s=e4e4d46b3cf4b5b6779cf02c15eab43d4dd7dbf9 以下是它的一些功能：  可以从图像中扫描颜色并通过单击颜色来生成调色板。如果您单击图像的某个部分，它还可以显示该部分的特定颜色。您还可以下载扫描的图像和结果颜色。 它有 700 多种颜色名称及其颜色代码的列表。如果您单击颜色，您将获得调色板。 它可以从十六进制代码生成调色板。 它可以将颜色代码从十六进制转换为 Pantone。 您还可以通过单击下载按钮下载从任何颜色生成的调色板。  你有什么建议给我吗？你觉得这个项目怎么样？    提交人    /u/Plane-Football-2521   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1gacf57/i_finished_building_my_new_free_color_palette/</guid>
-      <pubDate>Wed, 23 Oct 2024 14:50:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>我花了好几个月才做出一个免费的角色人工智能替代品</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1gacd9f/it_took_me_so_many_months_to_make_a_free/</link>
-      <description><![CDATA[经过数月和一些朋友/家人的帮助，我制作了一个角色人工智能替代品。它不受限制且不受审查。在产品搜索上发布，但根本没有收到任何反馈。  我不是设计师，所以一切都受到其他网站设计的启发。请让我知道您的想法：Ongkanon.com 以及我可以如何改进它。     提交人    /u/jjjustseeyou   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1gacd9f/it_took_me_so_many_months_to_make_a_free/</guid>
-      <pubDate>Wed, 23 Oct 2024 14:47:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>[反馈请求] 我的 SaaS 项目的免费测试时段：thesitemonitor</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1gaccot/feedback_request_free_test_slots_for_my_saas/</link>
-      <description><![CDATA[嘿，独立黑客和业余项目建设者们！ 我一直在独自从事我的 SaaS 项目 TheSiteMonitor，我很高兴提供免费测试时段，以便从这个很棒的社区获得一些反馈！ 🔍 它的作用： TheSiteMonitor 跟踪全栈性能、正常运行时间并发送警报 - 因此您可以确保您的项目顺利运行而无需不断检查。 💡 我在这里的原因： 我已经到了真正需要建设性反馈的地步，以使其变得更好。到目前为止，我有 3 个用户，但我还没有完全投入测试，并希望有更多的人关注它以发现任何盲点。我想听听你觉得什么有用，你会改变什么，以及它是否会为像你这样的独立开发者带来价值！ 👀 可用内容： 我正在为那些愿意尝试并提供反馈的人开放10 个免费插槽。 没有什么陷阱，只是想确保它对其他创作者有帮助。 🔗 查看：thesitemonitor.com 我很想知道你的想法以及我如何改进它。 提前感谢您的时间！    提交人    /u/Select_Potato_6232   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1gaccot/feedback_request_free_test_slots_for_my_saas/</guid>
-      <pubDate>Wed, 23 Oct 2024 14:47:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了最大的可供购买的表情符号域名列表</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1gac2mc/i_have_created_the_largest_list_of_emoji_domains/</link>
-      <description><![CDATA[      大家好！ 👋 今天我带着我的小 mononames 产品的新成员回来了：✨ monomojis ✨！ 通过此列表，您可以找到 5 个 TLD 上仍可用的所有带有一个表情符号的域名：uz、ws、st、fm 和 kz.le 在 5 个 TLD 上：uz、ws、st、fm 和 kz。 超过 8,500 个特殊域名，例如 👨‍💻.st、ℹ️.ws、😶‍🌫️.uz、✌️.fm 和 🐈‍⬛.kz 等，正在等着您！ 表情符号域名已经成为新闻几年了，并且在域名行业中不时卷土重来。 它很有趣，从营销角度来看，它可以相当新颖。缺少一个表情符号域名的特殊列表 - 没有人想到过它，但现在已经解决了！ https://preview.redd.it/xqbrhebwniwd1.png?width=817&amp;format=png&amp;auto=webp&amp;s=695c24e186c8c954a565fe9215fa976cd83ef098 我已将此列表（Excel 格式）提供给所有“+”版 mononames 的客户。 &quot;+&quot; 版 mononames 除了提供用于从 600 个 TLD 中超过 1600 万个可用域名的数据库中搜索单词域名的 Web 应用程序外，还为您提供了每次更新的新条目汇总列表（与上次更新相比有新域名可用）、可用的单词 hack 域名列表（“monohacks”）以及现在可用的单表情符号域名列表（“monomojis”）。 您可以在 momonames 网站上找到更多信息！ 如果您对新 TLD 或改进有任何想法，请随时回复此帖子。😁    提交人    /u/gaetanlhf   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1gac2mc/i_have_created_the_largest_list_of_emoji_domains/</guid>
-      <pubDate>Wed, 23 Oct 2024 14:35:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>我将为您构建 MVP — 有好主意吗？让我们将其变为现实！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1gac1h4/ill_build_your_mvp_for_yougot_a_cool_idea_lets/</link>
-      <description><![CDATA[我愿意为一位幸运儿创建一个 MVP！在评论中写下你的创业或产品想法，我会选择一个在 10 月进行。把它看作是一种让你的愿景变成现实而又不需要付出沉重努力的方式。 如果你感兴趣或有任何问题，请随时给我发私信。让我们合作并共同创造一些很棒的东西！&quot;    提交者    /u/Kind_Guide_1232   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1gac1h4/ill_build_your_mvp_for_yougot_a_cool_idea_lets/</guid>
-      <pubDate>Wed, 23 Oct 2024 14:33:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>计划为我的浏览器扩展程序发布 Beta 版 - 请提供反馈意见：)</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1gac139/planning_a_beta_launch_for_my_browser_extension/</link>
-      <description><![CDATA[      大家好， 在过去的几个月里，我和我的团队一直在开发一个将文本转换为视频的 chrome 扩展程序：lesson22.ai .以简短、引人入胜且令人难忘的格式思考 Medium、LinkedIn、Substack 文章。 对于该产品，我们正在寻找 beta 用户 :) 请查看我们的网站、youtube 和附加的屏幕截图，了解其工作原理。如果您有任何疑问或想要分享您的反馈，请与我们联系。 https://preview.redd.it/ngsd7pn1oiwd1.png?width=512&amp;format=png&amp;auto=webp&amp;s=141f60548cc8de64cafddd3ce515fe085f5db9dc    提交人    /u/Fluid_Survey7787   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1gac139/planning_a_beta_launch_for_my_browser_extension/</guid>
-      <pubDate>Wed, 23 Oct 2024 14:33:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>我想出售我失败的创业公司，所以我建立了一个市场并以 750 美元的价格出售它</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1gab0qa/i_wanted_to_sell_my_failed_startup_so_i_built_a/</link>
-      <description><![CDATA[好吧，这是一个有点疯狂的故事。大约 3 个月前，我开始独立开发，尽可能快地发布产品。有几个项目非常酷，但从未真正从 reddit、x 等获得关注。但是，我认为拥有更多营销经验或人脉的人会从中受益。 我无法在 acqurie 或 flippa 上销售这些项目，因为它们尚未盈利，而这些网站不适合这样的项目。 所以我说“去他妈的”，然后自己建了一个。我开始在可以的地方推广它，令人惊讶的是，人们开始在平台上发布他们的项目，我也这样做了。 一些人收到了实际报价并完成了交易。几天前，我收到了一份以 750 美元的价格出售我的一款 SaaS 产品的报价。 野生。    由    /u/vintinx 提交   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1gab0qa/i_wanted_to_sell_my_failed_startup_so_i_built_a/</guid>
-      <pubDate>Wed, 23 Oct 2024 13:49:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>我建立了一个网站，向您展示您出生那天的数据——天气、事件、名人双胞胎等等。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1gab03x/i_built_a_website_that_shows_you_data_from_the/</link>
-      <description><![CDATA[~ 功能  天气：了解您出生的确切时间和地点的天气情况。 历史事件：发现您生日当天发生的重要事件。 多城市天气：查看同一时间其他主要城市的天气情况。 生日名人双胞胎：找出哪位名人与您同天生日。 生日播放列表：根据您的出生日期获取自定义播放列表。  您的任何数据都不会存储在服务器上，而且是免费的。 链接：https://www.birthdday.com/    提交人    /u/paglaulta   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1gab03x/i_built_a_website_that_shows_you_data_from_the/</guid>
-      <pubDate>Wed, 23 Oct 2024 13:48:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>TestMatic AI 介绍：改变学生和教育工作者游戏规则的工具 🚀</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1gaax95/introducing_testmatic_ai_a_gamechanger_for/</link>
-      <description><![CDATA[大家好！👋 我很高兴介绍TestMatic AI，这是一款将您的学习笔记和学习材料转化为个性化测验、抽认卡和练习测试的工具——只需几秒钟！无论您是学生、教育工作者还是终身学习者，此工具旨在让您的学习过程更加高效和互动。 TestMatic AI 有何独特之处？ TestMatic AI 通过人工智能自动化节省您的时间，根据您的输入创建动态测验和抽认卡。您还可以将生成的问题导出为各种格式（PDF、DOCX 等），以供日后使用或打印。凭借灵活的定价计划，无论您是喜欢即用即付还是按月订阅，TestMatic AI 都能满足您的需求。 我为何构建 TestMatic AI TestMatic AI 的想法来自于我大学三年级时的挣扎。我发现根据笔记创建和回答练习题有助于我更有效地学习。作为一名技术爱好者和计算机科学专业的学生，​​我意识到人工智能可以彻底改变我们的学习方式。两年后，我决定推出 TestMatic AI，希望能帮助其他正在学习的人。 主要特点： ✅ 基于您的学习材料的个性化测验和抽认卡 ✅ 以多种格式导出问题以供离线使用 ✅ AI 生成的问题，提高学习效率 ✅ 灵活的定价：即用即付或按月订阅 我很高兴地告诉大家 TestMatic AI 现已上线！您今天就可以开始使用它，让您的学习更加高效、互动性更强。 🔗 在这里查看 TestMatic AI！&lt;​​/a&gt; 让我知道您的想法或任何反馈！🙌    提交人    /u/Pexis3   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1gaax95/introducing_testmatic_ai_a_gamechanger_for/</guid>
-      <pubDate>Wed, 23 Oct 2024 13:44:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>这里谁有一个专注于 SMB 受众的项目？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1gaaun5/who_here_has_a_project_focusing_on_the_smb/</link>
-      <description><![CDATA[您的项目做什么，对 SMB 有什么好处？（节省时间、自动化、人工智能，您明白了）    由    /u/ss_Greg 提交   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1gaaun5/who_here_has_a_project_focusing_on_the_smb/</guid>
-      <pubDate>Wed, 23 Oct 2024 13:41:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>您对我即将推出的工具有何看法？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1gaaryz/what_do_you_think_of_my_upcoming_tool/</link>
-      <description><![CDATA[      一直在开发 Reddit 上的一款工具，帮助寻找潜在线索。几天前我发了一篇帖子。有 10 个人填写了候补名单。  目前，它具有：  基于关键字的帖子搜索 智能相关性过滤（尽管仍在完善中） 自动帖子摘要/TLDR 以节省阅读时间  未来计划的功能：  自动响应系统 可能的直接消息传递功能 人工智能辅助  关于货币化，我正在考虑两种定价模式：  使用积分按搜索付费（用户可以随时购买积分） 固定积分的每月订阅  我很感激你的意见。 这是一个简单的演示。但它需要大量的工作。尽量保持简单和最小化。关于 UI 有什么建议吗？ 演示 屏幕截图    提交人    /u/sadekships   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1gaaryz/what_do_you_think_of_my_upcoming_tool/</guid>
-      <pubDate>Wed, 23 Oct 2024 13:38:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们如何解决 API 管理问题</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1gaaak8/how_we_solved_our_api_management_problems/</link>
-      <description><![CDATA[嘿 r/SideProject  我想分享一些可能对您使用 API 有帮助的东西。  我们的团队在 API 管理方面遇到了困难 — 跟踪日志、调试问题和记录所有内容非常麻烦。  我们需要一个可以在一个地方处理所有这些事情的东西，所以我们创建了 Treblle。它可以帮助处理从日志聚合到自动文档的所有事情，并且使我们的工作流程更加顺畅。 坦白说，我是 Treblle 背后的人之一，但它是为了解决我们一直遇到的一个问题而构建的。（在评论中添加了更多详细信息）  我很好奇其他人是否在管理 API 时遇到过类似的挑战，以及您是如何解决它们的？很乐意听到您的经验和反馈。    提交人    /u/KittieKat881   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1gaaak8/how_we_solved_our_api_management_problems/</guid>
-      <pubDate>Wed, 23 Oct 2024 13:15:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
