@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Thu, 24 Oct 2024 18:24:42 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Oct 2024 21:18:07 GMT</lastBuildDate>
     <item>
       <title>创建者的博客</title>
       <link>https://www.producthunt.com/posts/bloq-by-creatr</link>
@@ -18,34 +18,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/bloq-by-creatr</guid>
       <pubDate>Thu, 24 Oct 2024 06:04:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>贝塞尔可视化工具</title>
-      <link>https://www.producthunt.com/posts/bezier-visualizer</link>
-      <description><![CDATA[
-一款可视化贝塞尔控制点的小众产品 
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/bezier-visualizer</guid>
-      <pubDate>Thu, 24 Oct 2024 01:26:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>滑动删除</title>
-      <link>https://www.producthunt.com/posts/swipe2delete</link>
-      <description><![CDATA[
-清理相机胶卷
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/swipe2delete</guid>
-      <pubDate>Thu, 24 Oct 2024 00:10:07 GMT</pubDate>
     </item>
     <item>
       <title>乌宁</title>
@@ -65,7 +37,7 @@
       <title>今天启动</title>
       <link>https://www.producthunt.com/posts/launching-today</link>
       <description><![CDATA[
-一个启动和分享您项目的地方
+启动和分享项目的地方
 
 
 讨论
@@ -88,6 +60,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/revyme</guid>
       <pubDate>Wed, 23 Oct 2024 17:32:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>中型应用程序</title>
+      <link>https://www.producthunt.com/posts/medio-app</link>
+      <description><![CDATA[
+一款极简开源 MacOS 差异检查器应用
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/medio-app</guid>
+      <pubDate>Wed, 23 Oct 2024 13:36:02 GMT</pubDate>
     </item>
     <item>
       <title>候补名单</title>
@@ -118,18 +104,18 @@
       <pubDate>Wed, 23 Oct 2024 09:00:13 GMT</pubDate>
     </item>
     <item>
-      <title>邮件</title>
-      <link>https://www.producthunt.com/posts/bmail-2</link>
+      <title>立方笔记</title>
+      <link>https://www.producthunt.com/posts/cubenote-2</link>
       <description><![CDATA[
-加密电子邮件和附件
+100% 自动将笔记排序到正确的文件夹
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/bmail-2</guid>
-      <pubDate>Wed, 23 Oct 2024 07:37:59 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/cubenote-2</guid>
+      <pubDate>Wed, 23 Oct 2024 07:39:50 GMT</pubDate>
     </item>
     <item>
       <title>对任何事物进行分类</title>
@@ -188,18 +174,32 @@
       <pubDate>Mon, 21 Oct 2024 12:11:16 GMT</pubDate>
     </item>
     <item>
-      <title>城墙</title>
-      <link>https://www.producthunt.com/posts/walle-2</link>
+      <title>重叠工作室</title>
+      <link>https://www.producthunt.com/posts/overlap-studio</link>
       <description><![CDATA[
-让 AI 代理为您付费
+将任何长视频转换为剪辑、博客文章等
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/walle-2</guid>
-      <pubDate>Sun, 20 Oct 2024 17:32:49 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/overlap-studio</guid>
+      <pubDate>Mon, 21 Oct 2024 01:12:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>总计的</title>
+      <link>https://www.producthunt.com/posts/aggrega</link>
+      <description><![CDATA[
+个人主页仪表板中的数字生活
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/aggrega</guid>
+      <pubDate>Tue, 15 Oct 2024 23:52:24 GMT</pubDate>
     </item>
     <item>
       <title>波德莱姆</title>
