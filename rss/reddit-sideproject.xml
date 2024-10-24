@@ -4,111 +4,111 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Thu, 24 Oct 2024 06:21:28 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Oct 2024 09:16:27 GMT</lastBuildDate>
     <item>
-      <title>查看我的新应用程序：用于制作个性化 AI 图像的 Flux LoRA！🚀</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1gavjvm/check_out_my_new_app_flux_lora_for_making/</link>
-      <description><![CDATA[大家好！ 我非常高兴能与大家分享我的新应用 Flux LoRA！它可以帮助您使用一些很酷的模型创建出色的 AI 图像。由于时间有点紧，所以我从小处着手，一次添加一个功能。现在，您可以使用最新的模型（如 Flux 1.1 和 SD v3.5）制作图像。很快，您甚至可以训练自己的 LoRA 模型！我迫不及待地想看看这会走向何方！如果您有任何想法或意见，我很乐意听取。感谢您查看！🎉 fluxlora.pro    提交人    /u/Few-Huckleberry9656   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1gavjvm/check_out_my_new_app_flux_lora_for_making/</guid>
-      <pubDate>Thu, 24 Oct 2024 05:41:44 GMT</pubDate>
+      <title>我构建了下一个 js Web 应用程序，名为 PrepWithAI。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1gay96l/i_build_a_next_js_web_application_called/</link>
+      <description><![CDATA[        提交人    /u/AjayTeotia   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1gay96l/i_build_a_next_js_web_application_called/</guid>
+      <pubDate>Thu, 24 Oct 2024 09:08:16 GMT</pubDate>
     </item>
     <item>
-      <title>如何使用竞争对手的关键词自动生成潜在客户——获得巨大成果！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1gatseb/how_i_automated_lead_generation_using_competitor/</link>
-      <description><![CDATA[大家好， 我最近偶然发现了一种方法，它彻底改变了我通过社交媒体这里生成潜在客户的方式，我认为这个社区可能会对它感兴趣。 像你们中的许多人一样，我花了数小时在 Reddit、Twitter 和 LinkedIn 等平台上手动搜索潜在客户。这很乏味，老实说，我感觉自己只是触及了皮毛。 然后，我决定尝试一些不同的东西：使用竞争对手的关键字来自动化该过程。 以下是我在 SocialTargeter 上所做的事情：  列出我的前 3 名竞争对手：我确定了我的细分市场中的主要竞争对手是谁。 收集相关关键字：我收集了与他们的品牌和产品相关的关键字。 利用 AI 工具：我找到了一个 AI 驱动的平台，它可以扫描社交媒体中的这些关键词并突出显示高影响力的对话。 AI 引导的回复：该工具还建议了自然、有用的回复，这样我就可以参与其中，而不会听起来像销售人员bot。  结果如何？我开始收到源源不断的优质潜在客户，而无需手动繁重的工作。这就像拥有一个 24/7 的助手，可以帮我寻找潜在客户并与他们互动。 有没有其他人尝试过使用竞争对手的关键字或 AI 工具来生成潜在客户？我很好奇您的经历，或者您是否有其他行之有效的策略。 如果您对我使用的工具感兴趣或想了解有关该过程的更多信息，请随时询问。我很乐意分享！ 期待听到您的想法！    提交人    /u/StevenHHB   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1gatseb/how_i_automated_lead_generation_using_competitor/</guid>
-      <pubDate>Thu, 24 Oct 2024 03:52:45 GMT</pubDate>
+      <title>我在 AWS SES 上为 SaaS 公司构建了一个电子邮件发送平台。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1gay0b4/i_built_an_email_sending_platform_on_top_of_aws/</link>
+      <description><![CDATA[我从事电子邮件设计相关产品已有大约 12 年。多年来，我一直觉得我也想构建一个电子邮件发送器，您可以使用它发送交易电子邮件、新闻通讯、促销电子邮件，还可以构建电子邮件自动化。 我多次与我的联合创始人讨论过这个问题，但他从未对至少在未来十年内维护电子邮件发送器平台的想法感兴趣（直到我们也围绕它发展出一个团队）。 但是！我们同意我会在业余时间做这件事。 由于我每天花在它上面的时间非常难以预测，所以我聘请了一名开发人员，我们开始一起工作。还有其他人加入我们的时间较短，但核心团队基本上只有我们两个人。我们已经将它作为一个严肃的副项目进行了两年，我可以看出系统非常稳定。 我们已经开始与一些公司合作，他们很快就会开始在生产中使用它，但我们希望获得更多反馈。 我们构建的系统具有很强的设计重点。为什么你的产品电子邮件看起来很丑？（是的，没有理由，它们应该漂亮且一致。）除了设计重点之外，它还使用 AWS SES。您可以将其连接到您自己的 SES，这会增加设置过程的一些复杂性，但它在可传递性方面有很多好处。 （您的电子邮件将到达您的用户的收件箱。） 我想请这个社区看一下，并请分享您对产品和网站的诚实意见！ https://reddit.com/link/1gay0b4/video/ikl0frdy3owd1/player 网站网址：https://bluefox.email    提交人    /u/Consistent_Cost_4775   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1gay0b4/i_built_an_email_sending_platform_on_top_of_aws/</guid>
+      <pubDate>Thu, 24 Oct 2024 08:49:07 GMT</pubDate>
     </item>
     <item>
-      <title>我开发了一个人工智能聊天机器人，可以帮你轻松找到完美的治疗师</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1gatcvz/i_built_an_ai_chatbot_that_finds_your_perfect/</link>
-      <description><![CDATA[      我最近因为一些个人问题需要找一位治疗师，但发现这真是太麻烦了。 我花了好几个小时阅读简历、填写入院表格和交谈接待员。除此之外，保险情况令人困惑，治疗术语太多（RCC、CBT、DBT 等）。我甚至寻找其他可能让这一切变得更容易的工具，但找不到。 因此，我构建了 matchya，一个聊天机器人（可以想象为治疗师办公室的虚拟接待员）。您花费约 30 秒的时间提及您正在寻找的内容，然后它就会为您找到完美的治疗师。 https://reddit.com/link/1gatcvz/video/wx080fmojmwd1/player 它的作用：  询问 5 个有针对性的问题（无表格） 您可以提及对治疗师的具体要求（保险、治疗偏好、您遇到的具体问题等） 您将获得符合这些要求的 3 位推荐治疗师 您可以重复，直到找到合适的治疗师并直接与他们预约。  https://reddit.com/link/1gatcvz/video/wvebfdsximwd1/player 然后它会建议 3 位符合您要求的治疗师。您可以查看他们的个人资料中的更多详细信息，并直接向他们预订！ https://preview.redd.it/r02acmzbimwd1.png?width=1799&amp;format=png&amp;auto=webp&amp;s=ceb822928808362a3f29b05df04b1e384a737227 在不久的将来，我将添加：  按保险信息过滤（高度请求的功能） 直接预订（无需离开平台进行安排）  技术堆栈： 我使用 NextJS/tailwind 作为聊天机器人，使用 AWS Chalice 管理 AWS 基础设施。 对于 AI，我使用 Pinecone 数据库管理治疗师信息，并将其输入到带有 GPT-4o 的 RAG 管道中。市面上有更便宜的型号，但我发现没有一个比 GPT-4o 更好。 很高兴在评论中回答其他问题/获得您的反馈。 在这里试试：https://therapy.matchya.app/ 🙂    提交人    /u/VitaminG6   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1gatcvz/i_built_an_ai_chatbot_that_finds_your_perfect/</guid>
-      <pubDate>Thu, 24 Oct 2024 03:28:37 GMT</pubDate>
+      <title>我已经为 AWS 云构建了 SaaS 模板（特色：使用自定义数据训练的类似 ChatGpt 的机器人）。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1gaxv95/ive_built_saas_template_for_aws_cloud_featuring/</link>
+      <description><![CDATA[大家好 1.5 年前，我决定构建一个模板，在 AWS 云上推出我的 SaaS 尝试。 除了支付、身份验证等常规内容外，对我来说重要的是它应该包含一个流行的功能：一个根据您的数据提供答案的自定义聊天机器人，类似于 chatbase 所做的，但更简单。 另一件重要的事情是，在构建/验证时它的成本应该接近于零，并且如果我扩展并需要其他东西，可以交换任何组件。 所以它在这里。 它是一个完整的前端和后端代码库，具有： 👉 身份验证、条纹支付、CI/CD、帐户管理、AI、翻译等。 👉 开发时云成本几乎为零（无服务器）。 网站：https://saasconstruct.com 演示：https://demo.saasconstruct.com 架构：https://saasconstruct.com/blog/the-tech-stack-of-a-simple-saas-for-aws-cloud 投入：1000 小时，1000 次提交。    提交人    /u/server_kota   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1gaxv95/ive_built_saas_template_for_aws_cloud_featuring/</guid>
+      <pubDate>Thu, 24 Oct 2024 08:37:40 GMT</pubDate>
     </item>
     <item>
-      <title>我可以用这些小屏幕做什么？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1gat1li/what_can_i_do_with_these_tiny_screens/</link>
-      <description><![CDATA[      我开始从这些电子烟中取出这些小液晶屏（还有一个来自旧相机），我真的很想尝试用它们做点什么，但我不知道我能做什么，也不知道如何设计电路🤣    提交人    /u/ReaperGRIM95   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1gat1li/what_can_i_do_with_these_tiny_screens/</guid>
-      <pubDate>Thu, 24 Oct 2024 03:10:48 GMT</pubDate>
+      <title>我建了一个扩展程序，这样我就不用一直输入这些了👇👇</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1gaxv4a/i_built_an_extension_so_i_dont_have_to_keep/</link>
+      <description><![CDATA[        由   提交  /u/Ornery-Length8689   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1gaxv4a/i_built_an_extension_so_i_dont_have_to_keep/</guid>
+      <pubDate>Thu, 24 Oct 2024 08:37:21 GMT</pubDate>
     </item>
     <item>
-      <title>我建立了一个人工智能代理，它可以在电子商务商店中购物，为你挑选最好的产品</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1gat0nr/i_built_an_ai_agent_that_shops_across_ecommerce/</link>
-      <description><![CDATA[    /u/dinotimm   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1gat0nr/i_built_an_ai_agent_that_shops_across_ecommerce/</guid>
-      <pubDate>Thu, 24 Oct 2024 03:09:21 GMT</pubDate>
+      <title>我开发了一款应用程序，只需点击几下即可将您的内容转换为创意资产。</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1gaxqab/i_built_an_app_that_can_transform_your_content/</link>
+      <description><![CDATA[      嘿 r/SideProject！ Reinspire 是您的 AI 内容助手，可将一种媒体转换为您能想到的各种内容：从时间戳、病毒式钩子到社交和博客帖子。我们处理重新利用魔法，因此您可以专注于重要的事情 - 创建新内容 顺便说一句，我刚刚在 Product Hunt 上发布。希望得到您的支持😁 https://www.producthunt.com/posts/reinspire https://reddit.com/link/1gaxqab/video/2itvdnqa0owd1/player    提交人    /u/NickNaskida   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1gaxqab/i_built_an_app_that_can_transform_your_content/</guid>
+      <pubDate>Thu, 24 Oct 2024 08:26:39 GMT</pubDate>
     </item>
     <item>
-      <title>我获得了前 5 位客户！🎉🎉🥳🥳</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1gasf1d/landed_my_first_5_customers/</link>
-      <description><![CDATA[        提交人    /u/Ornery-Length8689   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1gasf1d/landed_my_first_5_customers/</guid>
-      <pubDate>Thu, 24 Oct 2024 02:37:14 GMT</pubDate>
+      <title>在 App Store 上查看 Theme Scape: App Icon Changer</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1gaxnqk/check_out_theme_scape_app_icon_changer_on_app/</link>
+      <description><![CDATA[  由    /u/karma_1264  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1gaxnqk/check_out_theme_scape_app_icon_changer_on_app/</guid>
+      <pubDate>Thu, 24 Oct 2024 08:20:52 GMT</pubDate>
     </item>
     <item>
-      <title>我为自己制作的彩色日历/资金追踪器的全局视图，用于工作和学校，以免错过作业/会议。它帮助我避免错过医生和截止日期，也是一款出色的简历生成器，它完全免费用于 iOS</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1garv37/a_global_view_of_the_color_coded_calendar_money/</link>
-      <description><![CDATA[      https://preview.redd.it/50ep53fs3mwd1.png?width=1352&amp;format=png&amp;auto=webp&amp;s=5e6fa33b51b1d38a82f3b48150e04bc25468fbca iOS 应用程序（PlanSense）：https://apps.apple.com/us/app/plansense/id6503712817    由   提交  /u/Important_Donkey9015   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1garv37/a_global_view_of_the_color_coded_calendar_money/</guid>
-      <pubDate>Thu, 24 Oct 2024 02:08:47 GMT</pubDate>
+      <title>认识 Minimox：极简主义徽标设计师 – 完全免费！🚀</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1gaxhoa/meet_minimox_minimalist_logo_designer_completely/</link>
+      <description><![CDATA[      努力创建一个时尚、专业的徽标？Minimox 可以为您提供帮助！我构建了这个免费工具，使徽标设计变得简单、快速且 100% 无麻烦。 ✨ 为什么要尝试 Minimox？ 使用庞大的 React Icons 库进行极简主义设计。 即时导出为 PNG 或 SVG。 由 Next.js 14、Tailwind CSS 和 shadcn/ui 提供支持，可提供流畅、快速的体验。 无需注册。不收取任何费用。只需创建！ 🔗 试一试：https://minimox.vercel.app 喜欢反馈，我很期待看到您创建的内容！🚀    提交人    /u/FabulousHuckleberry4   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1gaxhoa/meet_minimox_minimalist_logo_designer_completely/</guid>
+      <pubDate>Thu, 24 Oct 2024 08:06:58 GMT</pubDate>
     </item>
     <item>
-      <title>我开发了一款应用，只需单击一下即可实现整个 YouTube 频道的自动化</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1gart57/i_built_an_app_that_can_1click_automate_entire/</link>
-      <description><![CDATA[        由    /u/444se  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1gart57/i_built_an_app_that_can_1click_automate_entire/</guid>
-      <pubDate>Thu, 24 Oct 2024 02:05:59 GMT</pubDate>
+      <title>我为重新发送电子邮件服务日志构建了一个无代码 webhook 构建器</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1gaxho2/i_built_a_no_code_webhook_builder_for_resend/</link>
+      <description><![CDATA[        提交人    /u/nipchinkdog   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1gaxho2/i_built_a_no_code_webhook_builder_for_resend/</guid>
+      <pubDate>Thu, 24 Oct 2024 08:06:57 GMT</pubDate>
     </item>
     <item>
-      <title>数据质量评估</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1garlw8/data_quality_assessment/</link>
-      <description><![CDATA[https://checkalyze.github.io/ 上传 CSV，拖放字段类型，快速分析数据以查看哪些行无效（单击相应的百分比以查看相应列的无效行） 我意识到评估数据质量并不像它应该的那样简化（excel 过滤器是最常见的方法）。我对标准化数据质量评估方法的初步看法。我制作了这个早期 POC 工具，它有助于根据支持的字段类型快速查看数据质量。 这对数据科学界有价值吗？还有什么其他功能可以改进它吗？什么会让这样的工具更有价值？ 感谢您的任何反馈。    提交人    /u/cosmic_crisper   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1garlw8/data_quality_assessment/</guid>
-      <pubDate>Thu, 24 Oct 2024 01:55:35 GMT</pubDate>
+      <title>您是否曾经感觉自己生活在困境中？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1gaxhe9/did_you_ever_feel_that_you_are_living_in_a_buddle/</link>
+      <description><![CDATA[MRR、ARR、X、Tweet、Reddit、Subredit、AI 包装器、SAAS、Miro SAAS、个人公司、分销、与关注者的互动、PH、Producthunt、问题、想法、MVP、验证、PMF、营销、编码、建立公众、独立黑客。    由   提交  /u/mhrnik   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1gaxhe9/did_you_ever_feel_that_you_are_living_in_a_buddle/</guid>
+      <pubDate>Thu, 24 Oct 2024 08:06:17 GMT</pubDate>
     </item>
     <item>
-      <title>我开发了一款移动应用，以图表形式显示股票历史财务数据（SEC 数据）</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1gaqvcy/i_developed_a_mobile_app_that_shows_historical/</link>
-      <description><![CDATA[      大家好。我的新应用已在 iOS 和 Android 上发布。该应用是一款股市财务数据应用。显示所有上市公司的历史财务业绩。下面重点介绍了部分功能。有几个网站显示此类数据，但它们要么不适合移动设备，要么数据与最新的 SEC 文件不一致。这就是我创建这款应用的动机，而且我喜欢股票，我喜欢经常使用它。 非常感谢您的意见和反馈（用户界面、功能或几乎任何东西）。提前致谢。  主要功能：  财务股票数据：查看详细的公司财务数据，如收入、收益、流通股、市盈率和市销率、市值以及同比增长率。 股票排名：在主页上查看按市值、收入或净收入排名的股票，以便快速比较。  https://preview.redd.it/ivqhgqr8vlwd1.png?width=1290&amp;format=png&amp;auto=webp&amp;s=18bfdd19ae4d3eabfcbb21c51f1d53fa25792e51    提交人    /u/maxpain2011   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1gaqvcy/i_developed_a_mobile_app_that_shows_historical/</guid>
-      <pubDate>Thu, 24 Oct 2024 01:18:27 GMT</pubDate>
+      <title>需要正在进行的家谱项目的帮助和提示！🌲</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1gaxch5/need_help_and_tips_for_ongoing_family_tree_project/</link>
+      <description><![CDATA[大家好，👋 我正在做一个家谱项目 https://family-tree-rust.vercel.app/，真的需要一些建议。我已经研究家谱有一段时间了，这是一个有益但充满挑战的过程。到目前为止，我已经建立了这么多，但我仍然面临差距和障碍，我希望从那些更有经验的人那里得到一些见解。 谢谢 ❤️    提交人    /u/Appropriate_Tap98   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1gaxch5/need_help_and_tips_for_ongoing_family_tree_project/</guid>
+      <pubDate>Thu, 24 Oct 2024 07:55:29 GMT</pubDate>
     </item>
     <item>
-      <title>您是正在寻找支持社区的技术人员吗？</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1gaqejj/are_you_a_tech_guy_looking_for_a_supportive/</link>
-      <description><![CDATA[加入我们的新技术创始人社区！  小而友好：只是一群人在一起构建很酷的东西。 尊重：欢迎所有人，我们以善意相待。 学习和成长：分享您的项目，提出问题并结交新朋友。  准备好加入了吗？ https://discord.gg/s6QMMRdH    提交人    /u/Fluffy-Ad-9309   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1gaqejj/are_you_a_tech_guy_looking_for_a_supportive/</guid>
-      <pubDate>Thu, 24 Oct 2024 00:55:38 GMT</pubDate>
+      <title>第 81 个开源附带项目（活跃）</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1gax7h5/81st_open_source_side_project_active/</link>
+      <description><![CDATA[自 2019 年以来，我和我的团队已经建立了许多开源项目。截至目前，其中 81 个处于活跃状态。这篇文章是关于最新的一个，即活跃的 OSS 编号 81。 在构建 rudder-server（开源数据管道工具）时，集成 200 多个 API 变得很复杂。这导致了维护和优化这些连接的挑战。用于数据转换的本机 JavaScript 代码需要大量的工作和维护。虽然 JSONata 提供了一种更有效的方法来操作 JSON 数据，但由于其解析和解释开销，它导致了性能瓶颈。经过多次迭代，最终可行的解决方案是构建特定于领域的 JSON 模板语言 - https://github.com/rudderlabs/rudder-json-template-engine 您怎么看？您是否在大规模 API 集成中遇到过任何挑战（大量请求或集成数量）？您从这些挑战中获得了什么见解？    提交人    /u/ephemeral404   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1gax7h5/81st_open_source_side_project_active/</guid>
+      <pubDate>Thu, 24 Oct 2024 07:44:24 GMT</pubDate>
     </item>
     <item>
-      <title>我开发了一个人工智能指导工具，它可以创建个性化的学习路径，并让你证明自己正在学习</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1gapv05/i_built_an_ai_guidance_tool_that_creates/</link>
-      <description><![CDATA[      https://preview.redd.it/pp6fpsz5llwd1.png?width=1679&amp;format=png&amp;auto=webp&amp;s=299176b74f44601bcf013915b1b4f056b2e78bc0 在被大量 DM 询问我的创作历程（“你使用了哪些资源？”，“你是如何学习 X 的？”）后，我创建了一些东西来帮助扩大我的指导范围。了解 Creative Minds Think Alike (CMTA)。 它的作用：  接受您的任何学习目标 提出 5 个有针对性的问题以准确了解您的需求 创建具有特定任务的自定义学习路径 让您解释如何完成每个任务（没有 BS 的方式！） 如果您难以表达自己的进度，可以选择测验  示例：您输入：“我想学习数字艺术”它会问这样的问题：  您当前的技能水平是多少？ 您最感兴趣的风格是什么？ 您有什么硬件/软件？然后构建一条路径，如下所示：   掌握基本形状（上传练习表） 完成色彩理论练习（解释您的选择） 创建您的第一个角色（记录您的过程）  不再有通用的“只观看 YouTube 教程”建议。这实际上让您承担责任并验证您是否正在取得进步。 我为什么构建它：我还没有准备好构建一个完整的电子学习平台，但我想扩展我提供的一对一指导。这个工具基本上复制了我指导某人的方式，但可以同时帮助更多的人。 代码非常简单 - 一切都是关于提出正确的问题并创建结构化路径。如果有人感兴趣，很乐意分享更多细节！ 编辑：天哪，这爆炸了！ RIP 我的收件箱😅 正在处理所有注册请求！    提交人    /u/Frederick_Abila   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1gapv05/i_built_an_ai_guidance_tool_that_creates/</guid>
-      <pubDate>Thu, 24 Oct 2024 00:28:48 GMT</pubDate>
+      <title>刚刚在 Product Hunt 上发布</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1gax6vp/just_launched_on_product_hunt/</link>
+      <description><![CDATA[过期域名列表 https://www.producthunt.com/posts/aged-expired-domains-list 提供来自不同提供商的过期域名拍卖列表，并按年龄、DR（域名权限）、流量、反向链接、自然关键词数量和价格进行过滤/排序。 *新注册用户可享受 3 天免费“无限”套餐。 接受反馈和功能请求。 谢谢！    提交人    /u/DeimosFobos   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1gax6vp/just_launched_on_product_hunt/</guid>
+      <pubDate>Thu, 24 Oct 2024 07:43:00 GMT</pubDate>
     </item>
     <item>
-      <title>为自己开发了一个在线锻炼应用程序并考虑扩展它</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1gapc2z/built_an_online_workout_app_for_myself_and/</link>
-      <description><![CDATA[不久前，我为自己开发了一款简单的健身应用，帮助我坚持在家锻炼。它实际上只是一个组织日常活动的基本工具，但随着时间的推移，我意识到它可以发挥更大的作用。因此，我一直在开发它的改进版本 - 现在，我正在考虑添加一些令人兴奋的新功能！ 以下是我迄今为止构建的一些内容：  您可以创建自定义锻炼程序并跟踪您的进度。 有一个计时器可以通过简单的界面指导您完成每项锻炼。  现在，我正在考虑探索一些很酷的改进：  新设计：我想让界面更具吸引力和用户友好性。 锻炼生成器改进：让创建例程变得更容易，甚至可以使用预先构建的模板。 AI 生成的锻炼：想象一下让 AI 根据您的健康水平和目标为您创建锻炼计划。  但在深入探讨这些改进之前，我想从大家那里得到一些反馈。您觉得怎么样？这个项目有潜力吗，还是我选错了方向？你个人会使用这样的东西吗，还是它只是已经拥挤的市场中的另一个健身应用程序？如果你想看看的话，这里是：https://timerfit.com 我很想听听你的想法、建议，甚至批评。😊 提前感谢您花时间阅读本文！    提交人    /u/Fair_Force_2326   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1gapc2z/built_an_online_workout_app_for_myself_and/</guid>
-      <pubDate>Thu, 24 Oct 2024 00:03:03 GMT</pubDate>
+      <title>我不擅长在 LinkedIn 上进行自我营销，所以我创建了一个工具来帮助我</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1gax27x/i_suck_at_selfmarketing_on_linkedin_so_i_built_a/</link>
+      <description><![CDATA[所以，我是一名营销人员，这意味着我擅长推广品牌、产品以及介于两者之间的一切……除了我自己。当谈到我的个人品牌时，我很挣扎。我要么想太多，要么在自我营销时觉得自己是个冒名顶替者，或者对发布什么感到困惑（即使我有很多话要说）？其他人也有同样的感觉吗？ 我厌倦了过度思考每一条 LinkedIn 帖子，想知道它是“令人尴尬”还是太过努​​力。我们都知道 LinkedIn 有时就是这样的地方，但如果人们真正专注于分享他们的工作——他们真正做的事情——我认为这可以为他们的网络增加很多价值。 这就是为什么我开发了一个应用程序，它会问我一些简单但非常有背景的问题，比如我正在做什么、我对某个主题的想法，甚至只是我一天的反思。然后，它会将这些想法整理成可读、清晰且确实有助于开启对话的 LinkedIn 帖子。没有废话，没有行话——只有真实的、以价值为导向的帖子。 我一直在使用它来让自己更多地出现在公众面前，它让我意识到，如果你做得对，分享你的工作并不一定是一件令人尴尬的事情。 如果你在自我营销方面遇到困难，尤其是在 LinkedIn 上，请随时问我任何问题。我也想听听你对如何处理个人品牌的想法。    提交人    /u/dipinchopra   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1gax27x/i_suck_at_selfmarketing_on_linkedin_so_i_built_a/</guid>
+      <pubDate>Thu, 24 Oct 2024 07:32:36 GMT</pubDate>
     </item>
     <item>
-      <title>使用人工智能更快地学习</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1gap5i4/use_ai_to_learn_faster/</link>
-      <description><![CDATA[要理解概念，就应该将其形象化。这是我们老师在学校告诉我们的，那么为什么不使用 AI 来做到这一点呢。  在询问了一堆 subreddits 如何使用 LLM 更快地学习后，我想出了 Destovery  它帮助我更快地了解了特征值、加密货币协议和石油在第一次世界大战中的参与，但由于这是早期版本，我将寻求您的反馈以改进网站。  注意：生成视频非常昂贵，因此存在限制。     提交人    /u/MinuteDistribution31   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1gap5i4/use_ai_to_learn_faster/</guid>
-      <pubDate>Wed, 23 Oct 2024 23:54:31 GMT</pubDate>
+      <title>活力充沛</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1gawwdp/energizeup/</link>
+      <description><![CDATA[      我很高兴与大家分享我的业余项目 EnergizeUp，这是一款使用 AI 创建个性化锻炼计划的应用程序根据您的健身目标和喜好量身定制。️ https://play.google.com/store/apps/details?id=co.winnovia.energizeup EnergizeUp 提供以下服务：  锻炼计划个性化：根据用户目标和健身水平，EnergizeUp 为每个用户提供不同的计划。 精选视频库：访问大量高质量 YouTube 锻炼视频，找到最适合您需求和兴趣的日常锻炼。它保持更新，无需更新您的应用。 提醒：通过适合您日程安排的个性化通知，跟踪您的锻炼情况。  我仍处于测试阶段，希望听到您的反馈！  健身应用中的哪些功能对您来说最重要？ 您觉得人工智能驱动的个性化有吸引力吗？ 我如何改进 EnergizeUp 以使其更有价值？  非常感谢您愿意分享的任何见解！ https://preview.redd.it/ml8dt90snnwd1.png?width=1440&amp;format=png&amp;auto=webp&amp;s=960b3b2ceb3f4becdd4050f3bad95ba163b11176 https://preview.redd.it/tdg5ee0snnwd1.png?width=1440&amp;format=png&amp;auto=webp&amp;s=418ee5c2c457ea6ba84b5f26ca8c8a93a3760b9c https://preview.redd.it/80disd0snnwd1.png?width=1440&amp;format=png&amp;auto=webp&amp;s=cfca0dc4bd27dc4871cf6c0a75ffcd71ce81ac55 https://preview.redd.it/qhig7g1snnwd1.png?width=1440&amp;format=png&amp;auto=webp&amp;s=e4acab9818e61538dadaa4dc5ee2ed4337913998    提交人    /u/winnovia   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1gawwdp/energizeup/</guid>
+      <pubDate>Thu, 24 Oct 2024 07:20:07 GMT</pubDate>
     </item>
     <item>
-      <title>我开发了一个免费订阅的自托管应用程序来发送冷电子邮件</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ganv08/i_built_a_subscription_free_self_hosted_app_to/</link>
-      <description><![CDATA[      厌倦了手动发送冷电子邮件，所以我构建了自己的应用程序！ ✅ 自托管 🔒 ✅ 从我想要的任何域发送（通过 SMTP） 📧 ✅ 没有像云解决方案那样的 IP 标记 🚫🚨 ✅ 没有疯狂的月费 💸 ✅ 没有电子邮件限制 🚀💥    提交人    /u/S0U54   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ganv08/i_built_a_subscription_free_self_hosted_app_to/</guid>
-      <pubDate>Wed, 23 Oct 2024 22:55:26 GMT</pubDate>
+      <title>我对自己的项目感到精疲力竭</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1gawbcm/im_burnout_on_my_side_project/</link>
+      <description><![CDATA[我制作了一个 Web 应用程序和配套的移动应用程序，以帮助我的合作伙伴经营她的业务，它实际上取得了成功，每月可赚取近 1000 英镑，但这不值得。 现在有多家企业依赖它作为他们的日常驱动程序，支持/请求如此之多，几乎是一份全职工作。这些钱一直在重新投资，所以即使我从有限公司提取所有资金，我最终也会在税后得到几千英镑。 大家有什么建议。我觉得不能直接关闭应用程序，因为其他人的企业每天都在使用它，但就时间和精力而言，这是不值得的。    提交人    /u/Juggernoobs   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1gawbcm/im_burnout_on_my_side_project/</guid>
+      <pubDate>Thu, 24 Oct 2024 06:35:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
