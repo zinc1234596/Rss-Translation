@@ -4,7 +4,56 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Thu, 24 Oct 2024 01:09:07 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Oct 2024 03:20:22 GMT</lastBuildDate>
+    <item>
+      <title>我可以用这些小屏幕做什么？</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1gat1li/what_can_i_do_with_these_tiny_screens/</link>
+      <description><![CDATA[      我开始从这些电子烟中取出这些小液晶屏（还有一个来自旧相机），我真的很想尝试用它们做点什么，但我不知道我能做什么，也不知道如何设计电路🤣    提交人    /u/ReaperGRIM95   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1gat1li/what_can_i_do_with_these_tiny_screens/</guid>
+      <pubDate>Thu, 24 Oct 2024 03:10:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>我建立了一个人工智能代理，它可以在电子商务商店中购物，为你挑选最好的产品</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1gat0nr/i_built_an_ai_agent_that_shops_across_ecommerce/</link>
+      <description><![CDATA[    /u/dinotimm   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1gat0nr/i_built_an_ai_agent_that_shops_across_ecommerce/</guid>
+      <pubDate>Thu, 24 Oct 2024 03:09:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>我获得了前 5 位客户！🎉🎉🥳🥳</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1gasf1d/landed_my_first_5_customers/</link>
+      <description><![CDATA[        提交人    /u/Ornery-Length8689   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1gasf1d/landed_my_first_5_customers/</guid>
+      <pubDate>Thu, 24 Oct 2024 02:37:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>我为自己制作的彩色日历/资金追踪器的全局视图，用于工作和学校，以免错过作业/会议。它帮助我避免错过医生和截止日期，也是一款出色的简历生成器，它完全免费用于 iOS</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1garv37/a_global_view_of_the_color_coded_calendar_money/</link>
+      <description><![CDATA[      https://preview.redd.it/50ep53fs3mwd1.png?width=1352&amp;format=png&amp;auto=webp&amp;s=5e6fa33b51b1d38a82f3b48150e04bc25468fbca iOS 应用程序（PlanSense）：https://apps.apple.com/us/app/plansense/id6503712817    由   提交  /u/Important_Donkey9015   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1garv37/a_global_view_of_the_color_coded_calendar_money/</guid>
+      <pubDate>Thu, 24 Oct 2024 02:08:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>我开发了一款应用，只需单击一下即可实现整个 YouTube 频道的自动化</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1gart57/i_built_an_app_that_can_1click_automate_entire/</link>
+      <description><![CDATA[        由    /u/444se  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1gart57/i_built_an_app_that_can_1click_automate_entire/</guid>
+      <pubDate>Thu, 24 Oct 2024 02:05:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>数据质量评估</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1garlw8/data_quality_assessment/</link>
+      <description><![CDATA[https://checkalyze.github.io/ 上传 CSV，拖放字段类型，快速分析数据以查看哪些行无效（单击相应的百分比以查看相应列的无效行） 我意识到评估数据质量并不像它应该的那样简化（excel 过滤器是最常见的方法）。我对标准化数据质量评估方法的初步看法。我制作了这个早期 POC 工具，它有助于根据支持的字段类型快速查看数据质量。 这对数据科学界有价值吗？还有什么其他功能可以改进它吗？什么会让这样的工具更有价值？ 感谢您的任何反馈。    提交人    /u/cosmic_crisper   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1garlw8/data_quality_assessment/</guid>
+      <pubDate>Thu, 24 Oct 2024 01:55:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>我开发了一款移动应用，以图表形式显示股票历史财务数据（SEC 数据）</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1gaqvcy/i_developed_a_mobile_app_that_shows_historical/</link>
+      <description><![CDATA[      大家好。我的新应用已在 iOS 和 Android 上发布。该应用是一款股市财务数据应用。显示所有上市公司的历史财务业绩。下面重点介绍了部分功能。有几个网站显示此类数据，但它们要么不适合移动设备，要么数据与最新的 SEC 文件不一致。这就是我创建这款应用的动机，而且我喜欢股票，我喜欢经常使用它。 非常感谢您的意见和反馈（用户界面、功能或几乎任何东西）。提前致谢。  主要功能：  财务股票数据：查看详细的公司财务数据，如收入、收益、流通股、市盈率和市销率、市值以及同比增长率。 股票排名：在主页上查看按市值、收入或净收入排名的股票，以便快速比较。  https://preview.redd.it/ivqhgqr8vlwd1.png?width=1290&amp;format=png&amp;auto=webp&amp;s=18bfdd19ae4d3eabfcbb21c51f1d53fa25792e51    提交人    /u/maxpain2011   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1gaqvcy/i_developed_a_mobile_app_that_shows_historical/</guid>
+      <pubDate>Thu, 24 Oct 2024 01:18:27 GMT</pubDate>
+    </item>
     <item>
       <title>您是正在寻找支持社区的技术人员吗？</title>
       <link>https://www.reddit.com/r/SideProject/comments/1gaqejj/are_you_a_tech_guy_looking_for_a_supportive/</link>
@@ -29,7 +78,7 @@
     <item>
       <title>使用人工智能更快地学习</title>
       <link>https://www.reddit.com/r/SideProject/comments/1gap5i4/use_ai_to_learn_faster/</link>
-      <description><![CDATA[要理解概念，就应该将其形象化。这是我们老师在学校告诉我们的，那么为什么不使用 AI 来做到这一点呢。 在询问了一堆 subreddits 如何使用 LLM 更快地学习后，我想出了 Destovery  它帮助我更快地了解了特征值、加密货币协议和石油在第一次世界大战中的参与，但由于这是早期版本，我将寻求您的反馈以改进网站。 注意：生成视频非常昂贵，因此存在限制。    提交人    /u/MinuteDistribution31   [链接] [评论]]]></description>
+      <description><![CDATA[要理解概念，就应该将其形象化。这是我们老师在学校告诉我们的，那么为什么不使用 AI 来做到这一点呢。  在询问了一堆 subreddits 如何使用 LLM 更快地学习后，我想出了 Destovery  它帮助我更快地了解了特征值、加密货币协议和石油在第一次世界大战中的参与，但由于这是早期版本，我将寻求您的反馈以改进网站。  注意：生成视频非常昂贵，因此存在限制。     提交人    /u/MinuteDistribution31   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1gap5i4/use_ai_to_learn_faster/</guid>
       <pubDate>Wed, 23 Oct 2024 23:54:31 GMT</pubDate>
     </item>
@@ -60,55 +109,6 @@
       <description><![CDATA[        由    /u/Dependent_Cicada3302   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1ganhvm/create_multiple_grocery_carts_from_local_stores/</guid>
       <pubDate>Wed, 23 Oct 2024 22:38:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>昂贵的问责小组</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1gan5bb/expensive_accountability_group/</link>
-      <description><![CDATA[我和一些 YC 和 TechStars 的朋友组成了一个问责小组，效果非常好。我们正在考虑扩大它。如果您有兴趣，请在下方评论。以下是详细信息：  与我们中的一个人进行初次通话，设定季度和每周目标 这有助于定下基调。  4 人小组每周通过视频通话开会。记录文字记录。 四个人足够大，你可以分享想法，又足够小，你不会感到疏远。  还与 1 个人配对，你每天通过文本更新他。 每日推送有助于建立一致性。  每月 499 美元 高价格使退出变得更加困难。 Buildspace 有这个问题，人们会加入但最终会失败。   如果你每个季度都达到目标，你可以拿回 50% 的钱  损失厌恶也会激励你坚持你的季度目标。   如果你错过一周，你就会被踢出局  必须这么严格。    这专门针对那些想要取得伟大成就的人。如果你有兴趣，请在下方发表评论。    提交人    /u/itsalidoe   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1gan5bb/expensive_accountability_group/</guid>
-      <pubDate>Wed, 23 Oct 2024 22:22:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>解决我作为开发人员每天面临的问题 - 严格的 LLM 输出格式就在这里！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1gan2so/onto_solving_a_problem_i_face_as_a_developer/</link>
-      <description><![CDATA[嗨，各位开发者和 AI 爱好者们！ 我很高兴与大家分享我一直在致力于解决的一个问题，我和我想象的许多其他人经常面临的问题：让大型语言模型 (LLM) -&gt; 以严格的格式（如 JSON、XML 或任何其他结构化格式）一致地生成输出。 目前它支持 - JSON、XML、Latex（带预览）、YAML、CSV。 在进一步讨论之前，我很想听听您的想法！  痛点：这是您面临的问题吗？您目前是如何管理它的？ 建议：您希望在这样的工具中看到任何功能或改进吗？ 当然有任何反馈！  *它尚未上线，计划在几轮反馈后托管，谢谢！ https://reddit.com/link/1gan2so/video/t4xe5zt40lwd1/player    提交人    /u/Key_Ad_6563   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1gan2so/onto_solving_a_problem_i_face_as_a_developer/</guid>
-      <pubDate>Wed, 23 Oct 2024 22:19:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>没有什么比用这样的信息开始新的一天更好的了</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1gan1ei/nothing_beats_starting_day_with_a_message_like/</link>
-      <description><![CDATA[      顺便说一句，我们的roast在24 小时，提供有关如何提高转化率的可行提示，以及 100% 退款保证。    提交人    /u/PickleDue3394   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1gan1ei/nothing_beats_starting_day_with_a_message_like/</guid>
-      <pubDate>Wed, 23 Oct 2024 22:17:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个使用 Web3 和 AI 的 Chrome 扩展程序</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1gamnhd/i_made_a_chrome_extention_that_uses_web3_and_ai/</link>
-      <description><![CDATA[  由    /u/ChiCken_7649  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1gamnhd/i_made_a_chrome_extention_that_uses_web3_and_ai/</guid>
-      <pubDate>Wed, 23 Oct 2024 22:00:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>appflows .ai - 以最快的速度审视和可视化你的应用创意</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1gamdt4/appflows_ai_scope_and_visualise_your_app_ideas_as/</link>
-      <description><![CDATA[    /u/tdaawg   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1gamdt4/appflows_ai_scope_and_visualise_your_app_ideas_as/</guid>
-      <pubDate>Wed, 23 Oct 2024 21:48:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>想要开始从事副业！</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1gam55u/wanting_to_start_working_on_side_projects/</link>
-      <description><![CDATA[您好，我是 Web 应用开发的新手，但不是编程新手，因为我是一名工程专业的学生，​​我想知道你们是否可以告诉我构建 Web 应用需要什么，构建 Web 应用时必须了解哪些基础知识，哪些堆栈更好，哪些堆栈用于多种用途，并且有大量的教程...  此外，让我们以 Printify 或 Printful 为例，使用什么来制作这样的 Web 应用，人们可以将他们的设计上传到模型，进行调整然后下订单？    提交人    /u/ImpressiveWin8828   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1gam55u/wanting_to_start_working_on_side_projects/</guid>
-      <pubDate>Wed, 23 Oct 2024 21:38:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>BigIdeasDB：一个包含来自互联网真实用户的 1000 多个问题的数据库，并为每个问题生成解决方案。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1galkir/bigideasdb_a_database_with_1000_problems_from/</link>
-      <description><![CDATA[        提交人    /u/Many_Breadfruit9359   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1galkir/bigideasdb_a_database_with_1000_problems_from/</guid>
-      <pubDate>Wed, 23 Oct 2024 21:13:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
