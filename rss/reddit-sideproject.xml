@@ -4,7 +4,28 @@
     <title>最新提交：SideProject</title>
     <link>https://www.reddit.com/r/SideProject/new</link>
     <description>r/SideProject 是一个用于分享和接收有关附带项目的建设性反馈的 subreddit。</description>
-    <lastBuildDate>Thu, 24 Oct 2024 03:20:22 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Oct 2024 06:21:28 GMT</lastBuildDate>
+    <item>
+      <title>查看我的新应用程序：用于制作个性化 AI 图像的 Flux LoRA！🚀</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1gavjvm/check_out_my_new_app_flux_lora_for_making/</link>
+      <description><![CDATA[大家好！ 我非常高兴能与大家分享我的新应用 Flux LoRA！它可以帮助您使用一些很酷的模型创建出色的 AI 图像。由于时间有点紧，所以我从小处着手，一次添加一个功能。现在，您可以使用最新的模型（如 Flux 1.1 和 SD v3.5）制作图像。很快，您甚至可以训练自己的 LoRA 模型！我迫不及待地想看看这会走向何方！如果您有任何想法或意见，我很乐意听取。感谢您查看！🎉 fluxlora.pro    提交人    /u/Few-Huckleberry9656   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1gavjvm/check_out_my_new_app_flux_lora_for_making/</guid>
+      <pubDate>Thu, 24 Oct 2024 05:41:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何使用竞争对手的关键词自动生成潜在客户——获得巨大成果！</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1gatseb/how_i_automated_lead_generation_using_competitor/</link>
+      <description><![CDATA[大家好， 我最近偶然发现了一种方法，它彻底改变了我通过社交媒体这里生成潜在客户的方式，我认为这个社区可能会对它感兴趣。 像你们中的许多人一样，我花了数小时在 Reddit、Twitter 和 LinkedIn 等平台上手动搜索潜在客户。这很乏味，老实说，我感觉自己只是触及了皮毛。 然后，我决定尝试一些不同的东西：使用竞争对手的关键字来自动化该过程。 以下是我在 SocialTargeter 上所做的事情：  列出我的前 3 名竞争对手：我确定了我的细分市场中的主要竞争对手是谁。 收集相关关键字：我收集了与他们的品牌和产品相关的关键字。 利用 AI 工具：我找到了一个 AI 驱动的平台，它可以扫描社交媒体中的这些关键词并突出显示高影响力的对话。 AI 引导的回复：该工具还建议了自然、有用的回复，这样我就可以参与其中，而不会听起来像销售人员bot。  结果如何？我开始收到源源不断的优质潜在客户，而无需手动繁重的工作。这就像拥有一个 24/7 的助手，可以帮我寻找潜在客户并与他们互动。 有没有其他人尝试过使用竞争对手的关键字或 AI 工具来生成潜在客户？我很好奇您的经历，或者您是否有其他行之有效的策略。 如果您对我使用的工具感兴趣或想了解有关该过程的更多信息，请随时询问。我很乐意分享！ 期待听到您的想法！    提交人    /u/StevenHHB   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1gatseb/how_i_automated_lead_generation_using_competitor/</guid>
+      <pubDate>Thu, 24 Oct 2024 03:52:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>我开发了一个人工智能聊天机器人，可以帮你轻松找到完美的治疗师</title>
+      <link>https://www.reddit.com/r/SideProject/comments/1gatcvz/i_built_an_ai_chatbot_that_finds_your_perfect/</link>
+      <description><![CDATA[      我最近因为一些个人问题需要找一位治疗师，但发现这真是太麻烦了。 我花了好几个小时阅读简历、填写入院表格和交谈接待员。除此之外，保险情况令人困惑，治疗术语太多（RCC、CBT、DBT 等）。我甚至寻找其他可能让这一切变得更容易的工具，但找不到。 因此，我构建了 matchya，一个聊天机器人（可以想象为治疗师办公室的虚拟接待员）。您花费约 30 秒的时间提及您正在寻找的内容，然后它就会为您找到完美的治疗师。 https://reddit.com/link/1gatcvz/video/wx080fmojmwd1/player 它的作用：  询问 5 个有针对性的问题（无表格） 您可以提及对治疗师的具体要求（保险、治疗偏好、您遇到的具体问题等） 您将获得符合这些要求的 3 位推荐治疗师 您可以重复，直到找到合适的治疗师并直接与他们预约。  https://reddit.com/link/1gatcvz/video/wvebfdsximwd1/player 然后它会建议 3 位符合您要求的治疗师。您可以查看他们的个人资料中的更多详细信息，并直接向他们预订！ https://preview.redd.it/r02acmzbimwd1.png?width=1799&amp;format=png&amp;auto=webp&amp;s=ceb822928808362a3f29b05df04b1e384a737227 在不久的将来，我将添加：  按保险信息过滤（高度请求的功能） 直接预订（无需离开平台进行安排）  技术堆栈： 我使用 NextJS/tailwind 作为聊天机器人，使用 AWS Chalice 管理 AWS 基础设施。 对于 AI，我使用 Pinecone 数据库管理治疗师信息，并将其输入到带有 GPT-4o 的 RAG 管道中。市面上有更便宜的型号，但我发现没有一个比 GPT-4o 更好。 很高兴在评论中回答其他问题/获得您的反馈。 在这里试试：https://therapy.matchya.app/ 🙂    提交人    /u/VitaminG6   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/SideProject/comments/1gatcvz/i_built_an_ai_chatbot_that_finds_your_perfect/</guid>
+      <pubDate>Thu, 24 Oct 2024 03:28:37 GMT</pubDate>
+    </item>
     <item>
       <title>我可以用这些小屏幕做什么？</title>
       <link>https://www.reddit.com/r/SideProject/comments/1gat1li/what_can_i_do_with_these_tiny_screens/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[      厌倦了手动发送冷电子邮件，所以我构建了自己的应用程序！ ✅ 自托管 🔒 ✅ 从我想要的任何域发送（通过 SMTP） 📧 ✅ 没有像云解决方案那样的 IP 标记 🚫🚨 ✅ 没有疯狂的月费 💸 ✅ 没有电子邮件限制 🚀💥    提交人    /u/S0U54   [link] [评论] ]]></description>
       <guid>https://www.reddit.com/r/SideProject/comments/1ganv08/i_built_a_subscription_free_self_hosted_app_to/</guid>
       <pubDate>Wed, 23 Oct 2024 22:55:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>评价我的 AI 图像生成器</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ganlw3/rate_my_ai_image_generator/</link>
-      <description><![CDATA[在此处尝试：GenTube 当前功能：  免费使用 现场创作；查看其他人的创作 共同创作；创建带有图片库的房间  如果您还想查看其他内容，请告诉我。    提交人    /u/mrocke   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ganlw3/rate_my_ai_image_generator/</guid>
-      <pubDate>Wed, 23 Oct 2024 22:43:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个免费的目录提交工具来节省您的时间，就像它节省了我的时间一样。</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ganj18/i_created_a_free_directory_submission_tool_to/</link>
-      <description><![CDATA[我创建了一个免费的目录提交工具来节省您的时间，就像它节省了我的时间一样。  这是我个人用来提升应用程序 DR 的方法。 https://www.indietool.io/directory-listing    提交人    /u/ProfessionalSet755   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ganj18/i_created_a_free_directory_submission_tool_to/</guid>
-      <pubDate>Wed, 23 Oct 2024 22:39:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>从本地商店创建多个购物车[app.dinnr.io]</title>
-      <link>https://www.reddit.com/r/SideProject/comments/1ganhvm/create_multiple_grocery_carts_from_local_stores/</link>
-      <description><![CDATA[        由    /u/Dependent_Cicada3302   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/SideProject/comments/1ganhvm/create_multiple_grocery_carts_from_local_stores/</guid>
-      <pubDate>Wed, 23 Oct 2024 22:38:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
